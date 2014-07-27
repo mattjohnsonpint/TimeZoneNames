@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>TimeZoneNames</id>
+    <version>$version$</version>
+    <title>Time Zone Names</title>
+    <authors>$author$</authors>
+    <description>$description$</description>
+    <language>en-US</language>
+    <licenseUrl>https://raw.githubusercontent.com/mj1856/TimeZoneNames/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/mj1856/TimeZoneNames</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>timezone time zone cldr iana names globalization international localization</tags>
+    <dependencies>
+      <dependency id="protobuf-net" version="2.0.0.668" />
+    </dependencies>
+  </metadata>
+</package>

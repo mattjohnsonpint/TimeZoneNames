@@ -49,6 +49,7 @@
   <ItemGroup>
     <None Include="packages.config" />
     <EmbeddedResource Include="tz.dat" />
+    <None Include="TimeZoneNames.nuspec" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
