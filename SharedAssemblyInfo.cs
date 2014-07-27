@@ -1,5 +1,4 @@
 ﻿using System.Reflection;
-using System.Runtime.InteropServices;
 
 [assembly: AssemblyCompany("Matt Johnson")]
 [assembly: AssemblyProduct("Time Zone Names")]
