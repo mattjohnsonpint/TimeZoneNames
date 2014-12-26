@@ -47,7 +47,7 @@ namespace TimeZoneNames.Tests
             foreach (var zone in zones)
                 Debug.WriteLine(zone);
 
-            Assert.Equal(19, zones.Length);
+            Assert.Equal(21, zones.Length);
 
             Assert.True(zones.Contains("Europe/Moscow"));
             Assert.True(zones.Contains("Europe/Kaliningrad"));
