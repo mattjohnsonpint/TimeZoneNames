@@ -260,21 +260,19 @@ namespace TimeZoneNames.DataBuilder
         private static TimeZoneValues GetTimeZoneValues(XContainer element)
         {
             var values = new TimeZoneValues();
+            
             var genericElement = element.Element("generic");
             if (genericElement != null && genericElement.Value != "∅∅∅")
                 values.Generic = genericElement.Value;
+            
             var standardElement = element.Element("standard");
             if (standardElement != null && standardElement.Value != "∅∅∅")
                 values.Standard = standardElement.Value;
+            
             var daylightElement = element.Element("daylight");
             if (daylightElement != null && daylightElement.Value != "∅∅∅")
-            {
                 values.Daylight = daylightElement.Value;
-
-                // fixup known bad data
-                if (values.Daylight == "Irish Summer Time")
-                    values.Daylight = "Irish Standard Time";
-            }
+            
             return values;
         }
     }
