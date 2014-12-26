@@ -23,9 +23,6 @@ namespace TimeZoneNames.Tests
             var info = new FileInfo(Path.Combine(path, "tz.dat"));
             Assert.True(info.Exists);
             Assert.True(info.Length > 0);
-
-            // Copy to PCL project for embedding
-            info.CopyTo(@"..\..\..\TimeZoneNames\tz.dat", true);
         }
     }
 }
