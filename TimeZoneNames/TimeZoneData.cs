@@ -11,6 +11,7 @@ namespace TimeZoneNames
         private Dictionary<string, string> _cldrMetazones = new Dictionary<string, string>();
         private Dictionary<string, string> _cldrAliases = new Dictionary<string, string>();
         private Dictionary<string, CldrLanguageData> _cldrLanguageData = new Dictionary<string, CldrLanguageData>();
+        private Dictionary<string, string> _cldrWindowsMappings = new Dictionary<string, string>();
 
         [ProtoMember(1)]
         public Dictionary<string, string> TzdbZoneCountries
@@ -46,6 +47,13 @@ namespace TimeZoneNames
         {
             get { return _cldrLanguageData; }
             protected set { _cldrLanguageData = value; }
+        }
+
+        [ProtoMember(6)]
+        public Dictionary<string, string> CldrWindowsMappings
+        {
+            get { return _cldrWindowsMappings; }
+            protected set { _cldrWindowsMappings = value; }
         }
 
         public static TimeZoneData Load()

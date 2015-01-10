@@ -74,6 +74,9 @@ namespace TimeZoneNames
 
         private static TimeZoneValues GetNames(string timeZoneId, string languageKey, bool abbreviations)
         {
+            if (!timeZoneId.Contains("/"))
+                timeZoneId = ConvertWindowsToIana(timeZoneId);
+
             timeZoneId = GetCldrCanonicalId(timeZoneId);
             if (timeZoneId == null)
                 throw new ArgumentException("Invalid Time Zone", "timeZoneId");
@@ -213,5 +216,13 @@ namespace TimeZoneNames
             return Data.CldrMetazones.TryGetValue(timeZoneId, out metaZone) ? metaZone : null;
         }
 
+        private static string ConvertWindowsToIana(string timeZoneId)
+        {
+            if (timeZoneId.Equals("UTC", StringComparison.OrdinalIgnoreCase))
+                return "Etc/UTC";
+
+            string ianaId;
+            return Data.CldrWindowsMappings.TryGetValue(timeZoneId, out ianaId) ? ianaId : timeZoneId;
+        }
     }
 }

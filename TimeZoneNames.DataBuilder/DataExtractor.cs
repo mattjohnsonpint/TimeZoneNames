@@ -54,6 +54,7 @@ namespace TimeZoneNames.DataBuilder
             {
                 LoadZoneCountries,
                 LoadZoneAliases,
+                LoadWindowsMappings,
                 LoadLanguages
             };
             await Task.WhenAll(actions.Select(Task.Run));
@@ -132,6 +133,24 @@ namespace TimeZoneNames.DataBuilder
                     var territory = element.Attribute("territory").Value;
                     if (territory.Length == 2 && !_data.CldrZoneCountries.ContainsKey(timeZone))
                         _data.CldrZoneCountries.Add(timeZone, territory);
+                }
+            }
+        }
+
+        private void LoadWindowsMappings()
+        {
+            using (var stream = File.OpenRead(_cldrPath + @"common\supplemental\windowsZones.xml"))
+            {
+                var doc = XDocument.Load(stream);
+
+                var mapZoneElements = doc.XPathSelectElements("/supplementalData/windowsZones/mapTimezones/mapZone");
+                foreach (var element in mapZoneElements)
+                {
+                    var windowsZone = element.Attribute("other").Value;
+                    var timeZone = element.Attribute("type").Value.Split().First();
+                    var territory = element.Attribute("territory").Value;
+                    if (territory == "001") // we only care about the primary territory mapping in this library
+                        _data.CldrWindowsMappings.Add(windowsZone, timeZone);
                 }
             }
         }

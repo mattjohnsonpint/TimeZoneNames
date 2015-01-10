@@ -123,5 +123,15 @@ namespace TimeZoneNames.Tests
             Assert.Equal("IST", abbreviations.Standard);
             Assert.Equal(null, abbreviations.Daylight);
         }
+
+        [Fact]
+        public void Can_Get_Names_For_Windows_Timezone()
+        {
+            var names = TimeZoneNames.GetNamesForTimeZone("Eastern Standard Time", "en-US");
+
+            Assert.Equal("Eastern Time", names.Generic);
+            Assert.Equal("Eastern Standard Time", names.Standard);
+            Assert.Equal("Eastern Daylight Time", names.Daylight);
+        }
     }
 }
