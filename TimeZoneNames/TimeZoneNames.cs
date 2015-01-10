@@ -23,7 +23,7 @@ namespace TimeZoneNames
                 throw new ArgumentException("Invalid Language Code", "languageCode");
 
             var zones = GetTimeZoneIdsForCountry(countryCode);
-            return zones.Select(x => new { Id = x, Names = GetNames(x, languageCode, false) })
+            return zones.Select(x => new { Id = x, Names = GetNames(x, langKey, false) })
                 .ToDictionary(x => x.Id, x => x.Names);
         }
 
