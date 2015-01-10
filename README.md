@@ -1,7 +1,10 @@
 TimeZoneNames
 =============
 
-Provides localized time zone names using CLDR and TZDB sources.
+Simple portable class library that provides localized time zone names using CLDR and TZDB sources.
+
+Why?  Because .NET's usual time zone display names are not localized properly, and are often wrong.
+Read [this blog post](http://codeofmatt.com/2014/12/26/localized-time-zone-names-in-net/) for more details.
 
 **Nuget Installation**
 ```
