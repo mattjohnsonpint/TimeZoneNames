@@ -36,6 +36,15 @@ names.Standard == "Central European Standard Time"
 names.Daylight == "Central European Summer Time"
 ```
 
+Abbreviations are also avaialble:
+```
+var abbreviations = TimeZoneNames.GetAbbreviationsForTimeZone("America/Los_Angeles", "en-US");
+
+abbreviations.Generic == "PT"
+abbreviations.Standard == "PST"
+abbreviations.Daylight == "PDT"
+```
+
 Look up the time zones for a specific country:
 ```
 string[] zones = TimeZoneNames.GetTimeZoneIdsForCountry("AU");
