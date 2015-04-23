@@ -79,5 +79,40 @@ namespace TimeZoneNames.Tests
                 Assert.Equal(expected.Value[2], zones[tz].Daylight);
             }
         }
+
+        [Fact]
+        public void Can_Get_Names_For_PG_English()
+        {
+            var zones = TimeZoneNames.GetTimeZonesForCountry("PG", "en-US");
+
+            foreach (var zone in zones)
+            {
+                var tz = zone.Key;
+                var names = zone.Value;
+
+                Debug.WriteLine(tz);
+                Debug.WriteLine("Generic  = " + names.Generic);
+                Debug.WriteLine("Standard = " + names.Standard);
+                Debug.WriteLine("Daylight = " + names.Daylight);
+                Debug.WriteLine("");
+            }
+
+            Assert.Equal(2, zones.Count);
+
+            var expectedValues = new Dictionary<string, string[]>
+            {
+                {"Pacific/Port_Moresby", new[] {"Papua New Guinea Time", "Papua New Guinea Time", null}},
+                {"Pacific/Bougainville", new[] {"Papua New Guinea Time", "Papua New Guinea Time", null}}
+            };
+
+            foreach (var expected in expectedValues)
+            {
+                var tz = expected.Key;
+                Assert.True(zones.ContainsKey(tz), tz);
+                Assert.Equal(expected.Value[0], zones[tz].Generic);
+                Assert.Equal(expected.Value[1], zones[tz].Standard);
+                Assert.Equal(expected.Value[2], zones[tz].Daylight);
+            }
+        }
     }
 }
