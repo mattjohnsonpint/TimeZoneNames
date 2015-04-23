@@ -1,6 +1,8 @@
 TimeZoneNames
 =============
 
+[![Join the chat at https://gitter.im/mj1856/TimeZoneNames](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mj1856/TimeZoneNames?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Simple portable class library that provides localized time zone names using CLDR and TZDB sources.
 
 Why?  Because .NET's usual time zone display names are not localized properly, and are often wrong.
@@ -27,7 +29,7 @@ var names = TimeZoneNames.GetNamesForTimeZone("America/Los_Angeles", "fr-CA");
 
 names.Generic == "heure du Pacifique"
 names.Standard == "heure normale du Pacifique"
-names.Daylight == "heure avancée du Pacifique"
+names.Daylight == "heure avancï¿½e du Pacifique"
 ```
 
 You can pass a Windows time zone id instead, if you like:
@@ -76,82 +78,82 @@ var zones = TimeZoneNames.GetTimeZonesForCountry("BR", "pt-BR");
 *Output*
 ```
 America/Noronha
-Generic  = Horário de Fernando de Noronha
-Standard = Horário Padrão de Fernando de Noronha
-Daylight = Horário de Verão de Fernando de Noronha
+Generic  = Horï¿½rio de Fernando de Noronha
+Standard = Horï¿½rio Padrï¿½o de Fernando de Noronha
+Daylight = Horï¿½rio de Verï¿½o de Fernando de Noronha
 
 America/Belem
-Generic  = Horário de Brasília
-Standard = Horário Padrão de Brasília
-Daylight = Horário de Verão de Brasília
+Generic  = Horï¿½rio de Brasï¿½lia
+Standard = Horï¿½rio Padrï¿½o de Brasï¿½lia
+Daylight = Horï¿½rio de Verï¿½o de Brasï¿½lia
 
 America/Fortaleza
-Generic  = Horário de Brasília
-Standard = Horário Padrão de Brasília
-Daylight = Horário de Verão de Brasília
+Generic  = Horï¿½rio de Brasï¿½lia
+Standard = Horï¿½rio Padrï¿½o de Brasï¿½lia
+Daylight = Horï¿½rio de Verï¿½o de Brasï¿½lia
 
 America/Recife
-Generic  = Horário de Brasília
-Standard = Horário Padrão de Brasília
-Daylight = Horário de Verão de Brasília
+Generic  = Horï¿½rio de Brasï¿½lia
+Standard = Horï¿½rio Padrï¿½o de Brasï¿½lia
+Daylight = Horï¿½rio de Verï¿½o de Brasï¿½lia
 
 America/Araguaina
-Generic  = Horário de Brasília
-Standard = Horário Padrão de Brasília
-Daylight = Horário de Verão de Brasília
+Generic  = Horï¿½rio de Brasï¿½lia
+Standard = Horï¿½rio Padrï¿½o de Brasï¿½lia
+Daylight = Horï¿½rio de Verï¿½o de Brasï¿½lia
 
 America/Maceio
-Generic  = Horário de Brasília
-Standard = Horário Padrão de Brasília
-Daylight = Horário de Verão de Brasília
+Generic  = Horï¿½rio de Brasï¿½lia
+Standard = Horï¿½rio Padrï¿½o de Brasï¿½lia
+Daylight = Horï¿½rio de Verï¿½o de Brasï¿½lia
 
 America/Bahia
-Generic  = Horário de Brasília
-Standard = Horário Padrão de Brasília
-Daylight = Horário de Verão de Brasília
+Generic  = Horï¿½rio de Brasï¿½lia
+Standard = Horï¿½rio Padrï¿½o de Brasï¿½lia
+Daylight = Horï¿½rio de Verï¿½o de Brasï¿½lia
 
 America/Sao_Paulo
-Generic  = Horário de Brasília
-Standard = Horário Padrão de Brasília
-Daylight = Horário de Verão de Brasília
+Generic  = Horï¿½rio de Brasï¿½lia
+Standard = Horï¿½rio Padrï¿½o de Brasï¿½lia
+Daylight = Horï¿½rio de Verï¿½o de Brasï¿½lia
 
 America/Campo_Grande
-Generic  = Horário do Amazonas
-Standard = Horário Padrão do Amazonas
-Daylight = Horário de Verão do Amazonas
+Generic  = Horï¿½rio do Amazonas
+Standard = Horï¿½rio Padrï¿½o do Amazonas
+Daylight = Horï¿½rio de Verï¿½o do Amazonas
 
 America/Cuiaba
-Generic  = Horário do Amazonas
-Standard = Horário Padrão do Amazonas
-Daylight = Horário de Verão do Amazonas
+Generic  = Horï¿½rio do Amazonas
+Standard = Horï¿½rio Padrï¿½o do Amazonas
+Daylight = Horï¿½rio de Verï¿½o do Amazonas
 
 America/Santarem
-Generic  = Horário de Brasília
-Standard = Horário Padrão de Brasília
-Daylight = Horário de Verão de Brasília
+Generic  = Horï¿½rio de Brasï¿½lia
+Standard = Horï¿½rio Padrï¿½o de Brasï¿½lia
+Daylight = Horï¿½rio de Verï¿½o de Brasï¿½lia
 
 America/Porto_Velho
-Generic  = Horário do Amazonas
-Standard = Horário Padrão do Amazonas
-Daylight = Horário de Verão do Amazonas
+Generic  = Horï¿½rio do Amazonas
+Standard = Horï¿½rio Padrï¿½o do Amazonas
+Daylight = Horï¿½rio de Verï¿½o do Amazonas
 
 America/Boa_Vista
-Generic  = Horário do Amazonas
-Standard = Horário Padrão do Amazonas
-Daylight = Horário de Verão do Amazonas
+Generic  = Horï¿½rio do Amazonas
+Standard = Horï¿½rio Padrï¿½o do Amazonas
+Daylight = Horï¿½rio de Verï¿½o do Amazonas
 
 America/Manaus
-Generic  = Horário do Amazonas
-Standard = Horário Padrão do Amazonas
-Daylight = Horário de Verão do Amazonas
+Generic  = Horï¿½rio do Amazonas
+Standard = Horï¿½rio Padrï¿½o do Amazonas
+Daylight = Horï¿½rio de Verï¿½o do Amazonas
 
 America/Eirunepe
-Generic  = Horário do Acre
-Standard = Horário Padrão do Acre
-Daylight = Horário de Verão do Acre
+Generic  = Horï¿½rio do Acre
+Standard = Horï¿½rio Padrï¿½o do Acre
+Daylight = Horï¿½rio de Verï¿½o do Acre
 
 America/Rio_Branco
-Generic  = Horário do Acre
-Standard = Horário Padrão do Acre
-Daylight = Horário de Verão do Acre
+Generic  = Horï¿½rio do Acre
+Standard = Horï¿½rio Padrï¿½o do Acre
+Daylight = Horï¿½rio de Verï¿½o do Acre
 ```
