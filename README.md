@@ -29,7 +29,7 @@ var names = TimeZoneNames.GetNamesForTimeZone("America/Los_Angeles", "fr-CA");
 
 names.Generic == "heure du Pacifique"
 names.Standard == "heure normale du Pacifique"
-names.Daylight == "heure avanc�e du Pacifique"
+names.Daylight == "heure avancée du Pacifique"
 ```
 
 You can pass a Windows time zone id instead, if you like:
@@ -78,82 +78,82 @@ var zones = TimeZoneNames.GetTimeZonesForCountry("BR", "pt-BR");
 *Output*
 ```
 America/Noronha
-Generic  = Hor�rio de Fernando de Noronha
-Standard = Hor�rio Padr�o de Fernando de Noronha
-Daylight = Hor�rio de Ver�o de Fernando de Noronha
+Generic  = Horário de Fernando de Noronha
+Standard = Horário Padrão de Fernando de Noronha
+Daylight = Horário de Verão de Fernando de Noronha
 
 America/Belem
-Generic  = Hor�rio de Bras�lia
-Standard = Hor�rio Padr�o de Bras�lia
-Daylight = Hor�rio de Ver�o de Bras�lia
+Generic  = Horário de Brasília
+Standard = Horário Padrão de Brasília
+Daylight = Horário de Verão de Brasília
 
 America/Fortaleza
-Generic  = Hor�rio de Bras�lia
-Standard = Hor�rio Padr�o de Bras�lia
-Daylight = Hor�rio de Ver�o de Bras�lia
+Generic  = Horário de Brasília
+Standard = Horário Padrão de Brasília
+Daylight = Horário de Verão de Brasília
 
 America/Recife
-Generic  = Hor�rio de Bras�lia
-Standard = Hor�rio Padr�o de Bras�lia
-Daylight = Hor�rio de Ver�o de Bras�lia
+Generic  = Horário de Brasília
+Standard = Horário Padrão de Brasília
+Daylight = Horário de Verão de Brasília
 
 America/Araguaina
-Generic  = Hor�rio de Bras�lia
-Standard = Hor�rio Padr�o de Bras�lia
-Daylight = Hor�rio de Ver�o de Bras�lia
+Generic  = Horário de Brasília
+Standard = Horário Padrão de Brasília
+Daylight = Horário de Verão de Brasília
 
 America/Maceio
-Generic  = Hor�rio de Bras�lia
-Standard = Hor�rio Padr�o de Bras�lia
-Daylight = Hor�rio de Ver�o de Bras�lia
+Generic  = Horário de Brasília
+Standard = Horário Padrão de Brasília
+Daylight = Horário de Verão de Brasília
 
 America/Bahia
-Generic  = Hor�rio de Bras�lia
-Standard = Hor�rio Padr�o de Bras�lia
-Daylight = Hor�rio de Ver�o de Bras�lia
+Generic  = Horário de Brasília
+Standard = Horário Padrão de Brasília
+Daylight = Horário de Verão de Brasília
 
 America/Sao_Paulo
-Generic  = Hor�rio de Bras�lia
-Standard = Hor�rio Padr�o de Bras�lia
-Daylight = Hor�rio de Ver�o de Bras�lia
+Generic  = Horário de Brasília
+Standard = Horário Padrão de Brasília
+Daylight = Horário de Verão de Brasília
 
 America/Campo_Grande
-Generic  = Hor�rio do Amazonas
-Standard = Hor�rio Padr�o do Amazonas
-Daylight = Hor�rio de Ver�o do Amazonas
+Generic  = Horário do Amazonas
+Standard = Horário Padrão do Amazonas
+Daylight = Horário de Verão do Amazonas
 
 America/Cuiaba
-Generic  = Hor�rio do Amazonas
-Standard = Hor�rio Padr�o do Amazonas
-Daylight = Hor�rio de Ver�o do Amazonas
+Generic  = Horário do Amazonas
+Standard = Horário Padrão do Amazonas
+Daylight = Horário de Verão do Amazonas
 
 America/Santarem
-Generic  = Hor�rio de Bras�lia
-Standard = Hor�rio Padr�o de Bras�lia
-Daylight = Hor�rio de Ver�o de Bras�lia
+Generic  = Horário de Brasília
+Standard = Horário Padrão de Brasília
+Daylight = Horário de Verão de Brasília
 
 America/Porto_Velho
-Generic  = Hor�rio do Amazonas
-Standard = Hor�rio Padr�o do Amazonas
-Daylight = Hor�rio de Ver�o do Amazonas
+Generic  = Horário do Amazonas
+Standard = Horário Padrão do Amazonas
+Daylight = Horário de Verão do Amazonas
 
 America/Boa_Vista
-Generic  = Hor�rio do Amazonas
-Standard = Hor�rio Padr�o do Amazonas
-Daylight = Hor�rio de Ver�o do Amazonas
+Generic  = Horário do Amazonas
+Standard = Horário Padrão do Amazonas
+Daylight = Horário de Verão do Amazonas
 
 America/Manaus
-Generic  = Hor�rio do Amazonas
-Standard = Hor�rio Padr�o do Amazonas
-Daylight = Hor�rio de Ver�o do Amazonas
+Generic  = Horário do Amazonas
+Standard = Horário Padrão do Amazonas
+Daylight = Horário de Verão do Amazonas
 
 America/Eirunepe
-Generic  = Hor�rio do Acre
-Standard = Hor�rio Padr�o do Acre
-Daylight = Hor�rio de Ver�o do Acre
+Generic  = Horário do Acre
+Standard = Horário Padrão do Acre
+Daylight = Horário de Verão do Acre
 
 America/Rio_Branco
-Generic  = Hor�rio do Acre
-Standard = Hor�rio Padr�o do Acre
-Daylight = Hor�rio de Ver�o do Acre
+Generic  = Horário do Acre
+Standard = Horário Padrão do Acre
+Daylight = Horário de Verão do Acre
 ```
