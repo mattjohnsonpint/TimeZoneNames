@@ -56,6 +56,7 @@
     <Compile Include="..\TimeZoneNames\TimeZoneData.cs">
       <Link>TimeZoneData.cs</Link>
     </Compile>
+    <Compile Include="AsyncPump.cs" />
     <Compile Include="DataExtractor.cs" />
     <Compile Include="Downloader.cs" />
     <Compile Include="Program.cs" />

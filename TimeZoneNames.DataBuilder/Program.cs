@@ -1,6 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Threading.Tasks;
+using Microsoft.Threading;
 
 namespace TimeZoneNames.DataBuilder
 {
@@ -8,7 +9,7 @@ namespace TimeZoneNames.DataBuilder
     {
         static void Main(string[] args)
         {
-            DownloadAndBuildAsync().Wait();
+            AsyncPump.Run(DownloadAndBuildAsync);
         }
 
         private static async Task DownloadAndBuildAsync()
