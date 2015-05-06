@@ -8,6 +8,8 @@ namespace TimeZoneNames.DataBuilder
 {
     public static class Downloader
     {
+        private static readonly HttpClient HttpClientInstance = new HttpClient();
+
         public static async Task DownloadCldrAsync(string dir)
         {
             const string url = "http://unicode.org/Public/cldr/latest/core.zip";
@@ -25,10 +27,9 @@ namespace TimeZoneNames.DataBuilder
             return Path.GetTempPath() + Path.GetRandomFileName().Substring(0, 8);
         }
 
-        private static async Task<string> DownloadAndExtractAsync(string url, string dir)
+        private static async Task DownloadAndExtractAsync(string url, string dir)
         {
-            using (var client = new HttpClient())
-            using (var httpStream = await client.GetStreamAsync(url))
+            using (var httpStream = await HttpClientInstance.GetStreamAsync(url))
             using (var reader = ReaderFactory.Open(httpStream))
             {
                 if (!Directory.Exists(dir))
@@ -53,10 +54,7 @@ namespace TimeZoneNames.DataBuilder
                     {
                         await stream.CopyToAsync(fs);
                     }
-
                 }
-
-                return dir;
             }
         }
     }
