@@ -49,7 +49,7 @@ namespace TimeZoneNames.Tests
         {
             var names = TimeZoneNames.GetNamesForTimeZone("Europe/London", "en-US");
 
-            Assert.Equal("U.K. Time", names.Generic);
+            Assert.Equal("UK Time", names.Generic);
             Assert.Equal("Greenwich Mean Time", names.Standard);
             Assert.Equal("British Summer Time", names.Daylight);
         }
