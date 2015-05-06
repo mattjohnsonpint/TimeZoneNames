@@ -14,6 +14,10 @@ namespace TimeZoneNames.DataBuilder
         {
             const string url = "http://unicode.org/Public/cldr/latest/core.zip";
             await DownloadAndExtractAsync(url, dir);
+
+            // use the trunk windows mappings, as it tends to be more accurate and frequently updated
+            const string url2 = "http://unicode.org/repos/cldr/trunk/common/supplemental/windowsZones.xml";
+            await DownloadAsync(url2, Path.Combine(dir, @"common\supplemental"));
         }
 
         public static async Task DownloadTzdbAsync(string dir)
@@ -25,6 +29,19 @@ namespace TimeZoneNames.DataBuilder
         public static string GetTempDir()
         {
             return Path.GetTempPath() + Path.GetRandomFileName().Substring(0, 8);
+        }
+
+        private static async Task DownloadAsync(string url, string dir)
+        {
+            if (!Directory.Exists(dir))
+                Directory.CreateDirectory(dir);
+
+            var filename = url.Substring(url.LastIndexOf('/') +1);
+            using (var result = await HttpClientInstance.GetAsync(url))
+            using (var fs = File.Create(Path.Combine(dir, filename)))
+            {
+                await result.Content.CopyToAsync(fs);
+            }
         }
 
         private static async Task DownloadAndExtractAsync(string url, string dir)
