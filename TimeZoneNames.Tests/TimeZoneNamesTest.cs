@@ -133,5 +133,15 @@ namespace TimeZoneNames.Tests
             Assert.Equal("Eastern Standard Time", names.Standard);
             Assert.Equal("Eastern Daylight Time", names.Daylight);
         }
+
+        [Fact]
+        public void Can_Get_Abbreviations_For_Windows_Timezone()
+        {
+            var abbreviations = TimeZoneNames.GetAbbreviationsForTimeZone("AUS Eastern Standard Time", "en-US");
+
+            Assert.Equal("AET", abbreviations.Generic);
+            Assert.Equal("AEST", abbreviations.Standard);
+            Assert.Equal("AEDT", abbreviations.Daylight);
+        }
     }
 }
