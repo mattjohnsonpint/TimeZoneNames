@@ -44,7 +44,7 @@ namespace TimeZoneNames.DataBuilder
         
         private async Task LoadDataAsync()
         {
-            await EnsureDownloadedAsync();
+            await DownloadDataAsync();
 
             // this has to be loaded first
             LoadMetaZones();
@@ -60,17 +60,17 @@ namespace TimeZoneNames.DataBuilder
             await Task.WhenAll(actions.Select(Task.Run));
         }
 
-        private async Task EnsureDownloadedAsync()
+        private async Task DownloadDataAsync()
         {
-            var tasks = new List<Task>();
+            if (Directory.Exists(_tzdbPath))
+                Directory.Delete(_tzdbPath, true);
+                
+            if (Directory.Exists(_cldrPath))
+                Directory.Delete(_cldrPath, true);
 
-            if (!Directory.Exists(_tzdbPath))
-                tasks.Add(Downloader.DownloadTzdbAsync(_tzdbPath));
-
-            if (!Directory.Exists(_cldrPath))
-                tasks.Add(Downloader.DownloadCldrAsync(_cldrPath));
-
-            await Task.WhenAll(tasks);
+            await Task.WhenAll(
+                Downloader.DownloadCldrAsync(_cldrPath),
+                Downloader.DownloadTzdbAsync(_tzdbPath));
         }
 
         private void LoadZoneCountries()
