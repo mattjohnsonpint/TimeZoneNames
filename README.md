@@ -9,14 +9,14 @@ Why?  Because .NET's usual time zone display names are not localized properly, a
 Read [this blog post](http://codeofmatt.com/2014/12/26/localized-time-zone-names-in-net/) for more details.
 
 **Nuget Installation**
-```
+```powershell
 PM> Install-Package TimeZoneNames
 ```
 
 **Usage**
 
 Look up the localized names for a specific time zone:
-```
+```csharp
 var names = TimeZoneNames.GetNamesForTimeZone("America/Los_Angeles", "en-US");
 
 names.Generic == "Pacific Time"
@@ -24,7 +24,7 @@ names.Standard == "Pacific Standard Time"
 names.Daylight == "Pacific Daylight Time"
 ```
 
-```
+```csharp
 var names = TimeZoneNames.GetNamesForTimeZone("America/Los_Angeles", "fr-CA");
 
 names.Generic == "heure du Pacifique"
@@ -33,7 +33,7 @@ names.Daylight == "heure avancée du Pacifique"
 ```
 
 You can pass a Windows time zone id instead, if you like:
-```
+```csharp
 var names = TimeZoneNames.GetNamesForTimeZone("Romance Standard Time", "en-GB");
 
 names.Generic == "Central European Time"
@@ -42,7 +42,7 @@ names.Daylight == "Central European Summer Time"
 ```
 
 Abbreviations are also avaialble:
-```
+```csharp
 var abbreviations = TimeZoneNames.GetAbbreviationsForTimeZone("America/Los_Angeles", "en-US");
 
 abbreviations.Generic == "PT"
@@ -51,7 +51,7 @@ abbreviations.Daylight == "PDT"
 ```
 
 Look up the time zones for a specific country:
-```
+```csharp
 string[] zones = TimeZoneNames.GetTimeZoneIdsForCountry("AU");
 ```
 *Output*
@@ -72,7 +72,7 @@ Australia/Eucla
 ```
 
 Get the time zone names for a specific country:
-```
+```csharp
 var zones = TimeZoneNames.GetTimeZonesForCountry("BR", "pt-BR");
 ```
 *Output*
