@@ -58,7 +58,7 @@ namespace TimeZoneNames.DataBuilder
                     if (entry.IsDirectory)
                         continue;
 
-                    var targetPath = Path.Combine(dir, entry.FilePath.Replace('/', '\\'));
+                    var targetPath = Path.Combine(dir, entry.Key.Replace('/', '\\'));
                     var targetDir = Path.GetDirectoryName(targetPath);
                     if (targetDir == null)
                         throw new InvalidOperationException();
