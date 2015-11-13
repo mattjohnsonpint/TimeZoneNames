@@ -1,18 +1,26 @@
 ﻿using System.Diagnostics;
 using System.Linq;
 using Xunit;
+using Xunit.Abstractions;
 
 namespace TimeZoneNames.Tests
 {
     public class TimeZoneCountriesTests
     {
+        private readonly ITestOutputHelper _output;
+
+        public TimeZoneCountriesTests(ITestOutputHelper output)
+        {
+            _output = output;
+        }
+
         [Fact]
         public void Can_Get_Zones_For_US()
         {
             var zones = TimeZoneNames.GetTimeZoneIdsForCountry("US");
 
             foreach (var zone in zones)
-                Debug.WriteLine(zone);
+                _output.WriteLine(zone);
 
             Assert.Equal(29, zones.Length);
 
@@ -32,7 +40,7 @@ namespace TimeZoneNames.Tests
             var zones = TimeZoneNames.GetTimeZoneIdsForCountry("GB");
 
             foreach (var zone in zones)
-                Debug.WriteLine(zone);
+                _output.WriteLine(zone);
 
             Assert.Equal(1, zones.Length);
 
@@ -45,7 +53,7 @@ namespace TimeZoneNames.Tests
             var zones = TimeZoneNames.GetTimeZoneIdsForCountry("RU");
 
             foreach (var zone in zones)
-                Debug.WriteLine(zone);
+                _output.WriteLine(zone);
 
             Assert.Equal(21, zones.Length);
 

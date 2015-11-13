@@ -1,11 +1,19 @@
 ﻿using System.Collections.Generic;
 using System.Diagnostics;
 using Xunit;
+using Xunit.Abstractions;
 
 namespace TimeZoneNames.Tests
 {
     public class TimeZoneNamesForCountriesTests
     {
+        private readonly ITestOutputHelper _output;
+
+        public TimeZoneNamesForCountriesTests(ITestOutputHelper output)
+        {
+            _output = output;
+        }
+
         [Fact]
         public void Can_Get_Names_For_BR_English()
         {
@@ -16,11 +24,11 @@ namespace TimeZoneNames.Tests
                 var tz = zone.Key;
                 var names = zone.Value;
 
-                Debug.WriteLine(tz);
-                Debug.WriteLine("Generic  = " + names.Generic);
-                Debug.WriteLine("Standard = " + names.Standard);
-                Debug.WriteLine("Daylight = " + names.Daylight);
-                Debug.WriteLine("");
+                _output.WriteLine(tz);
+                _output.WriteLine("Generic  = " + names.Generic);
+                _output.WriteLine("Standard = " + names.Standard);
+                _output.WriteLine("Daylight = " + names.Daylight);
+                _output.WriteLine("");
             }
 
             Assert.Equal(16, zones.Count);
@@ -53,11 +61,11 @@ namespace TimeZoneNames.Tests
                 var tz = zone.Key;
                 var names = zone.Value;
 
-                Debug.WriteLine(tz);
-                Debug.WriteLine("Generic  = " + names.Generic);
-                Debug.WriteLine("Standard = " + names.Standard);
-                Debug.WriteLine("Daylight = " + names.Daylight);
-                Debug.WriteLine("");
+                _output.WriteLine(tz);
+                _output.WriteLine("Generic  = " + names.Generic);
+                _output.WriteLine("Standard = " + names.Standard);
+                _output.WriteLine("Daylight = " + names.Daylight);
+                _output.WriteLine("");
             }
 
             Assert.Equal(16, zones.Count);
@@ -90,19 +98,19 @@ namespace TimeZoneNames.Tests
                 var tz = zone.Key;
                 var names = zone.Value;
 
-                Debug.WriteLine(tz);
-                Debug.WriteLine("Generic  = " + names.Generic);
-                Debug.WriteLine("Standard = " + names.Standard);
-                Debug.WriteLine("Daylight = " + names.Daylight);
-                Debug.WriteLine("");
+                _output.WriteLine(tz);
+                _output.WriteLine("Generic  = " + names.Generic);
+                _output.WriteLine("Standard = " + names.Standard);
+                _output.WriteLine("Daylight = " + names.Daylight);
+                _output.WriteLine("");
             }
 
             Assert.Equal(2, zones.Count);
 
             var expectedValues = new Dictionary<string, string[]>
             {
-                {"Pacific/Port_Moresby", new[] {"Papua New Guinea Time", "Papua New Guinea Time", null}},
-                {"Pacific/Bougainville", new[] {"Papua New Guinea Time", "Papua New Guinea Time", null}}
+                {"Pacific/Port_Moresby", new[] {"Papua New Guinea Time", "Papua New Guinea Time", "Papua New Guinea Time"}},
+                {"Pacific/Bougainville", new[] {"Papua New Guinea Time", "Papua New Guinea Time", "Papua New Guinea Time"}}
             };
 
             foreach (var expected in expectedValues)

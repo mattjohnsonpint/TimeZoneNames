@@ -9,6 +9,7 @@ namespace TimeZoneNames
         private Dictionary<string, string> _tzdbZoneCountries = new Dictionary<string, string>();
         private Dictionary<string, string> _cldrZoneCountries = new Dictionary<string, string>();
         private Dictionary<string, string> _cldrMetazones = new Dictionary<string, string>();
+        private Dictionary<string, string> _cldrPrimaryzones = new Dictionary<string, string>();
         private Dictionary<string, string> _cldrAliases = new Dictionary<string, string>();
         private Dictionary<string, CldrLanguageData> _cldrLanguageData = new Dictionary<string, CldrLanguageData>();
         private Dictionary<string, string> _cldrWindowsMappings = new Dictionary<string, string>();
@@ -35,21 +36,27 @@ namespace TimeZoneNames
         }
 
         [ProtoMember(4)]
+        public Dictionary<string, string> CldrPrimaryZones
+        {
+            get { return _cldrPrimaryzones; }
+            protected set { _cldrPrimaryzones = value; }
+        }
+
+        [ProtoMember(5)]
         public Dictionary<string, string> CldrAliases
         {
             get { return _cldrAliases; }
             protected set { _cldrAliases = value; }
         }
 
-
-        [ProtoMember(5)]
+        [ProtoMember(6)]
         public Dictionary<string, CldrLanguageData> CldrLanguageData
         {
             get { return _cldrLanguageData; }
             protected set { _cldrLanguageData = value; }
         }
 
-        [ProtoMember(6)]
+        [ProtoMember(7)]
         public Dictionary<string, string> CldrWindowsMappings
         {
             get { return _cldrWindowsMappings; }
@@ -72,29 +79,40 @@ namespace TimeZoneNames
         private Dictionary<string, TimeZoneValues> _shortNames = new Dictionary<string, TimeZoneValues>();
         private Dictionary<string, TimeZoneValues> _longNames = new Dictionary<string, TimeZoneValues>();
         private Dictionary<string, string> _countryNames = new Dictionary<string, string>();
+        private Dictionary<string, string> _cityNames = new Dictionary<string, string>();
 
         [ProtoMember(1)]
         public TimeZoneValues Formats { get; set; }
 
         [ProtoMember(2)]
+        public string FallbackFormat { get; set; }
+
+        [ProtoMember(3)]
         public Dictionary<string, TimeZoneValues> ShortNames
         {
             get { return _shortNames; }
             protected set { _shortNames = value; }
         }
 
-        [ProtoMember(3)]
+        [ProtoMember(4)]
         public Dictionary<string, TimeZoneValues> LongNames
         {
             get { return _longNames; }
             protected set { _longNames = value; }
         }
 
-        [ProtoMember(4)]
+        [ProtoMember(5)]
         public Dictionary<string, string> CountryNames
         {
             get { return _countryNames; }
             protected set { _countryNames = value; }
+        }
+
+        [ProtoMember(6)]
+        public Dictionary<string, string> CityNames
+        {
+            get { return _cityNames; }
+            protected set { _cityNames = value; }
         }
     }
 

@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
@@ -44,7 +43,7 @@ namespace TimeZoneNames.DataBuilder
         
         private async Task LoadDataAsync()
         {
-            await DownloadDataAsync();
+            //await DownloadDataAsync();
 
             // this has to be loaded first
             LoadMetaZones();
@@ -58,6 +57,8 @@ namespace TimeZoneNames.DataBuilder
                 LoadLanguages
             };
             await Task.WhenAll(actions.Select(Task.Run));
+
+            PatchData();
         }
 
         private async Task DownloadDataAsync()
@@ -134,6 +135,14 @@ namespace TimeZoneNames.DataBuilder
                     if (territory.Length == 2 && !_data.CldrZoneCountries.ContainsKey(timeZone))
                         _data.CldrZoneCountries.Add(timeZone, territory);
                 }
+
+                var primaryZoneElements = doc.XPathSelectElements("/supplementalData/metaZones/primaryZones/primaryZone");
+                foreach (var element in primaryZoneElements)
+                {
+                    var country = element.Attribute("iso3166").Value;
+                    var zone = element.Value;
+                    _data.CldrPrimaryZones.Add(country, zone);
+                }
             }
         }
 
@@ -180,6 +189,7 @@ namespace TimeZoneNames.DataBuilder
                 if (tzElement != null)
                 {
                     AddFormatEntries(tzElement, language);
+                    AddZoneEntries(tzElement, language, "zone", "exemplarCity");
                     AddZoneEntries(tzElement, language, "zone", "short");
                     AddZoneEntries(tzElement, language, "zone", "long");
                     AddZoneEntries(tzElement, language, "metazone", "short");
@@ -199,7 +209,7 @@ namespace TimeZoneNames.DataBuilder
             foreach (var country in countries)
             {
                 // we only need some of the territory names
-                if (_data.CldrZoneCountries.ContainsValue(country.Key))
+                //if (_data.CldrZoneCountries.ContainsValue(country.Key))
                 {
                     langData.CountryNames.Add(country.Key, country.Value);
                 }
@@ -227,10 +237,16 @@ namespace TimeZoneNames.DataBuilder
 
             var langData = GetLangData(language);
             langData.Formats = values;
+
+            var fallbackFormat = tzElement.Element("fallbackFormat");
+            if (fallbackFormat != null)
+                langData.FallbackFormat = fallbackFormat.Value;
         }
 
         private void AddZoneEntries(XContainer tzElement, string language, string elementName, string entryName)
         {
+            var langData = GetLangData(language);
+
             var zones = tzElement.Elements(elementName);
             foreach (var zone in zones)
             {
@@ -239,19 +255,26 @@ namespace TimeZoneNames.DataBuilder
                 var element = zone.Element(entryName);
                 if (element == null)
                     continue;
-
-                var values = GetTimeZoneValues(element);
-
-                var langData = GetLangData(language);
-
+                
                 switch (entryName)
                 {
+                    case "exemplarCity":
+                    {
+                        langData.CityNames.Add(zoneName, element.Value);
+                        break;
+                    }
                     case "short":
+                    {
+                        var values = GetTimeZoneValues(element);
                         langData.ShortNames.Add(zoneName, values);
                         break;
+                    }
                     case "long":
+                    {
+                        var values = GetTimeZoneValues(element);
                         langData.LongNames.Add(zoneName, values);
                         break;
+                    }
                 }
             }
         }
@@ -293,6 +316,60 @@ namespace TimeZoneNames.DataBuilder
                 values.Daylight = daylightElement.Value;
             
             return values;
+        }
+
+        private void PatchData()
+        {
+            //// Fixup Abbreviations
+            //foreach(var key in _data.CldrLanguageData.Keys.Where(x=> x.Length == 2))
+            //{
+            //    var lang = key;
+            //    var subkeys = _data.CldrLanguageData.Keys.Where(x =>
+            //        x.StartsWith(lang + "_", StringComparison.OrdinalIgnoreCase)).ToArray();
+                
+            //    if (subkeys.Length == 0) continue;
+
+            //    var zonesWithShortNames = subkeys.SelectMany(x => _data.CldrLanguageData[x].ShortNames)
+            //        .Select(x => x.Key).Distinct().ToArray();
+
+            //    if (zonesWithShortNames.Length == 0) continue;
+
+            //    var zonesWithoutShortNamesInRoot = zonesWithShortNames.Where(x =>
+            //        !_data.CldrLanguageData[lang].ShortNames.ContainsKey(x));
+
+            //    //TODO
+            //    // get countries for these zones
+            //    // get short names for the language within the country
+            //    // remap to the root language
+            //}
+
+            // Add additional mappings to support obsolete Windows time zone IDs
+            _data.CldrWindowsMappings.Add("Mid-Atlantic Standard Time", "Etc/GMT+2");
+            _data.CldrWindowsMappings.Add("Kamchatka Standard Time", "Asia/Kamchatka");
+            
+            // Add mapping for mappings not yet in CLDR
+            _data.CldrWindowsMappings.Add("North Korea Standard Time", "Asia/Pyongyang");
+            _data.CldrWindowsMappings.Add("E. Europe Standard Time", "Europe/Chisinau");
+
+            // Support still-valid old-school ids that cldr doesn't recognize
+            // See https://github.com/eggert/tz/blob/2015g/europe#L628-L634
+            // Note, these are not quite perfect mappings, but good enough for naming purposes
+            _data.CldrAliases["cet"] = "Europe/Paris";
+            _data.CldrAliases["eet"] = "Europe/Bucharest";
+            _data.CldrAliases["met"] = "Europe/Berlin";
+            _data.CldrAliases["wet"] = "Atlantic/Canary";
+
+            // Support UTC - Not in CLDR!
+            AddStandardGenericName("en", "Etc/GMT", "Coordinated Universal Time");
+            AddStandardGenericName("es", "Etc/GMT", "tiempo universal coordinado");
+            AddStandardGenericName("fr", "Etc/GMT", "temps universel coordonné");
+            // TODO: many more needed!
+        }
+
+        private void AddStandardGenericName(string language, string zone, string name)
+        {
+            var values = new TimeZoneValues {Generic = name, Standard = name};
+            _data.CldrLanguageData[language].LongNames.Add(zone, values);
         }
     }
 }
