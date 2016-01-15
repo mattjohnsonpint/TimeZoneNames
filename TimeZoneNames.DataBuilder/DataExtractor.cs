@@ -107,7 +107,10 @@ namespace TimeZoneNames.DataBuilder
                         continue;
 
                     var aliases = aliasAttribute.Value.Split(' ');
-                    foreach (var alias in aliases)
+                    if (aliases.Length == 1)
+                        continue;
+
+                    foreach (var alias in aliases.Skip(1))
                         _data.CldrAliases.Add(alias.ToLowerInvariant(), aliases[0]);
                 }
             }
