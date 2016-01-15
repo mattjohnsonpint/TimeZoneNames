@@ -64,5 +64,22 @@ namespace TimeZoneNames.Tests
             
             Assert.True(!zones.Contains("Europe/London"));
         }
+
+        [Fact]
+        public void Can_Get_Zones_For_CA()
+        {
+            var zones = TimeZoneNames.GetTimeZoneIdsForCountry("CA");
+
+            foreach (var zone in zones)
+                _output.WriteLine(zone);
+
+            Assert.Equal(28, zones.Length);
+
+            Assert.True(zones.Contains("America/Vancouver"));
+            Assert.True(zones.Contains("America/Fort_Nelson"));
+            Assert.True(zones.Contains("America/Toronto"));
+
+            Assert.True(!zones.Contains("Europe/London"));
+        }
     }
 }

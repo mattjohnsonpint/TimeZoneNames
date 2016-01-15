@@ -1,5 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Diagnostics;
+using System.Globalization;
+using System.Linq;
 using Xunit;
 using Xunit.Abstractions;
 
@@ -120,6 +122,32 @@ namespace TimeZoneNames.Tests
                 Assert.Equal(expected.Value[0], zones[tz].Generic);
                 Assert.Equal(expected.Value[1], zones[tz].Standard);
                 Assert.Equal(expected.Value[2], zones[tz].Daylight);
+            }
+        }
+
+        [Fact]
+        public void Can_Get_Names_For_All_Countries()
+        {
+            var countries = CultureInfo.GetCultures(CultureTypes.SpecificCultures)
+                .Select(x => new RegionInfo(x.LCID).TwoLetterISORegionName)
+                .Where(x => !string.IsNullOrEmpty(x))
+                .Where(x=> x.Length == 2)
+                .OrderBy(x => x)
+                .Distinct();
+
+            foreach (var country in countries)
+            {
+                try
+                {
+                    var zones = TimeZoneNames.GetTimeZonesForCountry(country, "en");
+                    _output.WriteLine(country + ": " + zones.Count);
+                    Assert.NotEqual(0, zones.Count);
+                }
+                catch
+                {
+                    _output.WriteLine(country + " -- FAILED");
+                    throw;
+                }
             }
         }
     }
