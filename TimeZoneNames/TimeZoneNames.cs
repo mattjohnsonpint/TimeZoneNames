@@ -78,7 +78,7 @@ namespace TimeZoneNames
         private static string GetCldrCanonicalId(string timeZoneId)
         {
             string id;
-            return Data.CldrAliases.TryGetValue(timeZoneId.ToLowerInvariant(), out id) ? id : null;
+            return Data.CldrAliases.TryGetValue(timeZoneId.ToLowerInvariant(), out id) ? id : timeZoneId;
         }
 
         private static TimeZoneValues GetNames(string timeZoneId, string languageKey, bool abbreviations)
