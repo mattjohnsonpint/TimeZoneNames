@@ -4,5 +4,5 @@
 [assembly: AssemblyProduct("Time Zone Names")]
 [assembly: AssemblyCopyright("Copyright © Matt Johnson")]
 
-[assembly: AssemblyVersion("1.3.0.*")]
-[assembly: AssemblyInformationalVersion("1.3.0")]
+[assembly: AssemblyVersion("1.3.1.*")]
+[assembly: AssemblyInformationalVersion("1.3.1")]
