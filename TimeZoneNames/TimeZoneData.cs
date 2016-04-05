@@ -6,59 +6,33 @@ namespace TimeZoneNames
     [ProtoContract]
     internal class TimeZoneData
     {
-        private Dictionary<string, string> _tzdbZoneCountries = new Dictionary<string, string>();
-        private Dictionary<string, string> _cldrZoneCountries = new Dictionary<string, string>();
-        private Dictionary<string, string> _cldrMetazones = new Dictionary<string, string>();
-        private Dictionary<string, string> _cldrAliases = new Dictionary<string, string>();
-        private Dictionary<string, CldrLanguageData> _cldrLanguageData = new Dictionary<string, CldrLanguageData>();
-        private Dictionary<string, string> _cldrWindowsMappings = new Dictionary<string, string>();
-
         [ProtoMember(1)]
-        public Dictionary<string, string> TzdbZoneCountries
-        {
-            get { return _tzdbZoneCountries; }
-            protected set { _tzdbZoneCountries = value; }
-        }
+        public Dictionary<string, string[]> TzdbZoneCountries { get; } = new Dictionary<string, string[]>();
 
         [ProtoMember(2)]
-        public Dictionary<string, string> CldrZoneCountries
-        {
-            get { return _cldrZoneCountries; }
-            protected set { _cldrZoneCountries = value; }
-        }
+        public Dictionary<string, string[]> CldrZoneCountries { get; } = new Dictionary<string, string[]>();
 
         [ProtoMember(3)]
-        public Dictionary<string, string> CldrMetazones
-        {
-            get { return _cldrMetazones; }
-            protected set { _cldrMetazones = value; }
-        }
+        public Dictionary<string, string> CldrMetazones { get; } = new Dictionary<string, string>();
 
         [ProtoMember(4)]
-        public Dictionary<string, string> CldrAliases
-        {
-            get { return _cldrAliases; }
-            protected set { _cldrAliases = value; }
-        }
-
-
-        [ProtoMember(5)]
-        public Dictionary<string, CldrLanguageData> CldrLanguageData
-        {
-            get { return _cldrLanguageData; }
-            protected set { _cldrLanguageData = value; }
-        }
+        public Dictionary<string, string> CldrPrimaryZones { get; } = new Dictionary<string, string>();
 
         [ProtoMember(6)]
-        public Dictionary<string, string> CldrWindowsMappings
-        {
-            get { return _cldrWindowsMappings; }
-            protected set { _cldrWindowsMappings = value; }
-        }
+        public Dictionary<string, string> CldrAliases { get; } = new Dictionary<string, string>();
+
+        [ProtoMember(7)]
+        public Dictionary<string, CldrLanguageData> CldrLanguageData { get; } = new Dictionary<string, CldrLanguageData>();
+
+        [ProtoMember(8)]
+        public Dictionary<string, Dictionary<string, string>> CldrWindowsMappings { get; } = new Dictionary<string, Dictionary<string, string>>();
+
+        [ProtoMember(9)]
+        public List<string> SelectionZones { get; } = new List<string>(); 
 
         public static TimeZoneData Load()
         {
-            var assembly = typeof (TimeZoneData).Assembly;
+            var assembly = typeof(TimeZoneData).Assembly;
             using (var stream = assembly.GetManifestResourceStream("TimeZoneNames.tz.dat"))
             {
                 return Serializer.Deserialize<TimeZoneData>(stream);
@@ -69,33 +43,23 @@ namespace TimeZoneNames
     [ProtoContract]
     internal class CldrLanguageData
     {
-        private Dictionary<string, TimeZoneValues> _shortNames = new Dictionary<string, TimeZoneValues>();
-        private Dictionary<string, TimeZoneValues> _longNames = new Dictionary<string, TimeZoneValues>();
-        private Dictionary<string, string> _countryNames = new Dictionary<string, string>();
-
         [ProtoMember(1)]
         public TimeZoneValues Formats { get; set; }
 
         [ProtoMember(2)]
-        public Dictionary<string, TimeZoneValues> ShortNames
-        {
-            get { return _shortNames; }
-            protected set { _shortNames = value; }
-        }
+        public string FallbackFormat { get; set; }
 
         [ProtoMember(3)]
-        public Dictionary<string, TimeZoneValues> LongNames
-        {
-            get { return _longNames; }
-            protected set { _longNames = value; }
-        }
+        public Dictionary<string, TimeZoneValues> ShortNames { get; } = new Dictionary<string, TimeZoneValues>();
 
         [ProtoMember(4)]
-        public Dictionary<string, string> CountryNames
-        {
-            get { return _countryNames; }
-            protected set { _countryNames = value; }
-        }
+        public Dictionary<string, TimeZoneValues> LongNames { get; } = new Dictionary<string, TimeZoneValues>();
+
+        [ProtoMember(5)]
+        public Dictionary<string, string> CountryNames { get; } = new Dictionary<string, string>();
+
+        [ProtoMember(6)]
+        public Dictionary<string, string> CityNames { get; } = new Dictionary<string, string>();
     }
 
     [ProtoContract]

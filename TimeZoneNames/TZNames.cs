@@ -1,37 +1,108 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 
 namespace TimeZoneNames
 {
-    public class TZNames
+    public static class TZNames
     {
         private static readonly TimeZoneData Data = TimeZoneData.Load();
+        private static readonly IDictionary<string, IComparer<string>> Comparers = new Dictionary<string, IComparer<string>>();
 
-        public static string[] GetTimeZoneIdsForCountry(string countryCode)
+        public static string[] GetTimeZoneIdsForCountry(string countryCode, bool allTimeZones = false)
         {
-            return Data.TzdbZoneCountries
-                .Where(x => x.Value.Equals(countryCode, StringComparison.OrdinalIgnoreCase))
+            var zones = Data.TzdbZoneCountries
+                .Where(x => x.Value.Contains(countryCode, StringComparer.OrdinalIgnoreCase))
                 .Select(x => x.Key)
                 .ToArray();
+
+            if (allTimeZones)
+                return zones;
+
+            var selectionZones = zones.Intersect(Data.SelectionZones).ToArray();
+            return selectionZones.Length > 0 ? selectionZones : zones;
         }
 
-        public static IDictionary<string, TimeZoneValues> GetTimeZonesForCountry(string countryCode, string languageCode)
+        public static IDictionary<string, string> GetTimeZonesForCountry(string countryCode, string languageCode, bool allTimeZones = false)
         {
             var langKey = GetLanguageKey(languageCode);
             if (langKey == null)
-                throw new ArgumentException("Invalid Language Code", "languageCode");
+                throw new ArgumentException("Invalid Language Code", nameof(languageCode));
 
-            var zones = GetTimeZoneIdsForCountry(countryCode);
-            return zones.Select(x => new { Id = x, Names = GetNames(x, langKey, false) })
-                .ToDictionary(x => x.Id, x => x.Names);
+            var zones = GetTimeZoneIdsForCountry(countryCode, allTimeZones);
+            var results = zones.Select(
+                x => new
+                {
+                    Id = x,
+                    Name = GetNames(x, langKey, false).Generic
+                })
+                .ToDictionary(x => x.Id, x => x.Name);
+
+            // Append city names only when needed to differentiate zones with the same name
+            foreach (var group in results.GroupBy(x => x.Value).Where(x => x.Count() > 1).ToArray())
+            {
+                foreach (var item in group)
+                {
+                    results[item.Key] = item.Value.AppendCity(GetCityName(item.Key, langKey));
+                }
+            }
+
+            return results;
+        }
+
+        public static IList<string> GetFixedTimeZoneIds()
+        {
+            var zones = new List<string>();
+            for (int i = -12; i <= 14; i++)
+            {
+                if (i == 0)
+                    zones.Add("Etc/UTC");
+                else
+                    zones.Add("Etc/GMT" + (i < 0 ? "+" : "-") + Math.Abs(i));
+            }
+
+            return zones.ToArray();
+        }
+
+        public static IDictionary<string, string> GetFixedTimeZoneNames(string languageCode)
+        {
+            return GetFixedTimeZoneNames(languageCode, false);
+        }
+
+        public static IDictionary<string, string> GetFixedTimeZoneAbbreviations(string languageCode)
+        {
+            return GetFixedTimeZoneNames(languageCode, true);
+        }
+
+        private static IDictionary<string, string> GetFixedTimeZoneNames(string languageCode, bool abbreviations)
+        {
+            var langKey = GetLanguageKey(languageCode);
+            if (langKey == null)
+                throw new ArgumentException("Invalid Language Code", nameof(languageCode));
+
+            var zones = GetFixedTimeZoneIds();
+            var results = zones.Select(
+                x => new
+                {
+                    Id = x,
+                    Name = GetNames(x, langKey, abbreviations).Generic
+                })
+                .ToDictionary(x => x.Id, x => x.Name);
+
+            return results;
+        }
+
+        private static string AppendCity(this string name, string city)
+        {
+            return string.IsNullOrWhiteSpace(city) ? name : $"{name} ({city})";
         }
 
         public static TimeZoneValues GetNamesForTimeZone(string timeZoneId, string languageCode)
         {
             var langKey = GetLanguageKey(languageCode);
             if (langKey == null)
-                throw new ArgumentException("Invalid Language Code", "languageCode");
+                throw new ArgumentException("Invalid Language Code", nameof(languageCode));
 
             return GetNames(timeZoneId, langKey, false);
         }
@@ -40,9 +111,51 @@ namespace TimeZoneNames
         {
             var langKey = GetLanguageKey(languageCode);
             if (langKey == null)
-                throw new ArgumentException("Invalid Language Code", "languageCode");
+                throw new ArgumentException("Invalid Language Code", nameof(languageCode));
 
             return GetNames(timeZoneId, langKey, true);
+        }
+
+        public static IDictionary<string, string> GetCountryNames(string languageCode)
+        {
+            var langKey = GetLanguageKey(languageCode);
+            if (langKey == null)
+                throw new ArgumentException("Invalid Language Code", nameof(languageCode));
+
+            var comparer = GetComparer(langKey);
+
+            var results = new Dictionary<string, string>();
+            while (langKey != null)
+            {
+                var countryNames = Data.CldrLanguageData[langKey].CountryNames;
+                foreach (var name in countryNames.Where(x => !results.ContainsKey(x.Key)))
+                    results.Add(name.Key, name.Value);
+
+                langKey = GetLanguageSubkey(langKey);
+            }
+
+            return results.OrderBy(x => x.Value, comparer)
+                .ToDictionary(x => x.Key, x => x.Value);
+        }
+
+        public static ICollection<string> GetLanguageCodes()
+        {
+            return Data.CldrLanguageData.Keys.OrderBy(x => x).ToArray();
+        }
+
+        private static IComparer<string> GetComparer(string langKey)
+        {
+            lock (Comparers)
+            {
+                IComparer<string> comparer;
+                if (Comparers.TryGetValue(langKey, out comparer))
+                    return comparer;
+
+                var culture = new CultureInfo(langKey.Replace('_', '-'));
+                comparer = StringComparer.Create(culture, false);
+                Comparers.Add(langKey, comparer);
+                return comparer;
+            }
         }
 
         private static string GetLanguageKey(string languageCode)
@@ -66,10 +179,33 @@ namespace TimeZoneNames
             return string.Join("_", keyParts, 0, keyParts.Length - 1);
         }
 
+        private static void SearchLanguages(string languageKey, TimeZoneValues values, Action<string> action)
+        {
+            while (languageKey != null && (values.Generic == null || values.Standard == null || values.Daylight == null))
+            {
+                action(languageKey);
+                languageKey = GetLanguageSubkey(languageKey);
+            }
+        }
+
         private static string GetCldrCanonicalId(string timeZoneId)
         {
             string id;
-            return Data.CldrAliases.TryGetValue(timeZoneId.ToLowerInvariant(), out id) ? id : null;
+            return Data.CldrAliases.TryGetValue(timeZoneId.ToLowerInvariant(), out id) ? id : timeZoneId;
+        }
+
+        private static string GetCityName(string timeZoneId, string languageKey)
+        {
+            while (languageKey != null)
+            {
+                var data = Data.CldrLanguageData[languageKey];
+                string cityName;
+                if (data.CityNames.TryGetValue(timeZoneId, out cityName))
+                    return cityName;
+                languageKey = GetLanguageSubkey(languageKey);
+            }
+
+            return timeZoneId.Split('/').Last().Replace("_", " ");
         }
 
         private static TimeZoneValues GetNames(string timeZoneId, string languageKey, bool abbreviations)
@@ -79,133 +215,153 @@ namespace TimeZoneNames
 
             timeZoneId = GetCldrCanonicalId(timeZoneId);
             if (timeZoneId == null)
-                throw new ArgumentException("Invalid Time Zone", "timeZoneId");
+                throw new ArgumentException("Invalid Time Zone", nameof(timeZoneId));
+
+            if (abbreviations && timeZoneId == "Etc/GMT")
+            {
+                return new TimeZoneValues { Generic = "UTC", Standard = "UTC", Daylight = "UTC" };
+            }
 
             var metaZone = GetMetazone(timeZoneId);
             var values = new TimeZoneValues();
 
-            var key = languageKey;
-            while (key != null && (values.Generic == null || values.Standard == null || values.Daylight == null))
+            // First try for direct values
+            bool found = false;
+            SearchLanguages(languageKey, values, langKey =>
             {
-                var langData = Data.CldrLanguageData[key];
-                if (langData != null)
-                {
-                    var langNames = abbreviations ? langData.ShortNames : langData.LongNames;
+                var b = PopulateDirectValues(langKey, values, timeZoneId, metaZone, abbreviations);
+                if (b) found = true;
+            });
 
-                    if (langNames.ContainsKey(timeZoneId))
-                    {
-                        var names = langNames[timeZoneId];
-                        values.Generic = values.Generic ?? names.Generic;
-                        values.Standard = values.Standard ?? names.Standard;
-                        values.Daylight = values.Daylight ?? names.Daylight;
-                    }
-
-                    if (metaZone != null && langNames.ContainsKey(metaZone))
-                    {
-                        var names = langNames[metaZone];
-                        values.Generic = values.Generic ?? names.Generic;
-                        values.Standard = values.Standard ?? names.Standard;
-                        values.Daylight = values.Daylight ?? names.Daylight;
-                    }
-                }
-
-                key = GetLanguageSubkey(key);
-            }
-
-            if (values.Generic != null && values.Standard != null && values.Daylight != null)
-                return values;
-
-            if (abbreviations)
+            string[] countries;
+            if (!Data.CldrZoneCountries.TryGetValue(timeZoneId, out countries))
             {
-                if (values.Generic == null)
+                // search tzdb zones
+                if (!Data.TzdbZoneCountries.TryGetValue(timeZoneId, out countries))
                 {
-                    values.Generic = Data.CldrLanguageData.Where(x=> x.Key.StartsWith("en"))
-                        .Select(x => x.Value.ShortNames.ContainsKey(timeZoneId)
-                            ? x.Value.ShortNames[timeZoneId].Generic
-                            : metaZone != null && x.Value.ShortNames.ContainsKey(metaZone)
-                                ? x.Value.ShortNames[metaZone].Generic
-                                : null)
-                        .FirstOrDefault(x => x != null);
-                }
-
-                if (values.Standard == null)
-                {
-                    values.Standard = Data.CldrLanguageData.Where(x => x.Key.StartsWith("en"))
-                        .Select(x => x.Value.ShortNames.ContainsKey(timeZoneId)
-                            ? x.Value.ShortNames[timeZoneId].Standard
-                            : metaZone != null && x.Value.ShortNames.ContainsKey(metaZone)
-                                ? x.Value.ShortNames[metaZone].Standard
-                                : null)
-                        .FirstOrDefault(x => x != null);
-                }
-
-                if (values.Daylight == null)
-                {
-                    values.Daylight = Data.CldrLanguageData.Where(x => x.Key.StartsWith("en"))
-                        .Select(x => x.Value.ShortNames.ContainsKey(timeZoneId)
-                            ? x.Value.ShortNames[timeZoneId].Daylight
-                            : metaZone != null && x.Value.ShortNames.ContainsKey(metaZone)
-                                ? x.Value.ShortNames[metaZone].Daylight
-                                : null)
-                        .FirstOrDefault(x => x != null);
-                }
-
-                if (values.Generic == null && values.Daylight == null)
-                    values.Generic = values.Standard;
-                
-                return values;
-            }
-
-            string country;
-            if (Data.CldrZoneCountries.TryGetValue(timeZoneId, out country))
-            {
-
-                string countryName = null;
-                key = languageKey;
-                while (key != null)
-                {
-                    var langData = Data.CldrLanguageData[key];
-                    if (langData != null)
+                    foreach (var alias in Data.CldrAliases.Where(x => x.Value == timeZoneId))
                     {
-                        if (langData.CountryNames.ContainsKey(country))
+                        foreach (var item in Data.TzdbZoneCountries.Where(item => string.Equals(item.Key, alias.Key, StringComparison.OrdinalIgnoreCase)))
                         {
-                            countryName = langData.CountryNames[country];
+                            countries = item.Value;
                             break;
                         }
                     }
-
-                    key = GetLanguageSubkey(key);
-                }
-
-                if (countryName == null)
-                    return values;
-
-                key = languageKey;
-                while (key != null && (values.Generic == null || values.Standard == null || values.Daylight == null))
-                {
-                    var langData = Data.CldrLanguageData[key];
-                    if (langData != null)
-                    {
-                        var genericFormat = langData.Formats.Generic;
-                        if (genericFormat != null)
-                            values.Generic = values.Generic ?? genericFormat.Replace("{0}", countryName);
-
-                        var standardFormat = langData.Formats.Standard;
-                        if (standardFormat != null)
-                            values.Standard = values.Standard ?? standardFormat.Replace("{0}", countryName);
-
-                        var daylightFormat = langData.Formats.Daylight;
-                        if (daylightFormat != null)
-                            values.Daylight = values.Daylight ?? daylightFormat.Replace("{0}", countryName);
-
-                    }
-
-                    key = GetLanguageSubkey(key);
                 }
             }
 
-            if (values.Generic == null && values.Daylight == null)
-                values.Generic = values.Standard;
+
+            if (abbreviations && countries != null)
+            {
+                // try using the specific locale for the zone
+                var lang = languageKey.Split('_', '-')[0] + "_" + countries[0].ToLowerInvariant();
+                var b = PopulateDirectValues(lang, values, timeZoneId, metaZone, true);
+                if (b) found = true;
+
+                // try english as a last resort
+                if (values.Generic == null || values.Standard == null || values.Daylight == null)
+                {
+                    b = PopulateDirectValues("en_" + countries[0].ToLowerInvariant(), values, timeZoneId, metaZone, true);
+                    if (b) found = true;
+                }
+            }
+
+            if (countries != null && countries[0] == "RU")
+            {
+                // special case for Russia to force city names in all time zones
+                found = false;
+            }
+
+            if (found)
+            {
+                // apply type fallback rules
+                values.Generic = values.Generic ?? (values.Daylight == null ? values.Standard : null);
+                values.Daylight = values.Daylight ?? values.Generic;
+
+                // return whatever we have for abbreviations
+                if (abbreviations)
+                    return values;
+
+                // return names if everything is complete
+                if (values.Generic != null && values.Standard != null && values.Daylight != null)
+                    return values;
+            }
+
+            string regionName = null;
+            if (countries != null)
+            {
+                SearchLanguages(languageKey, values, key =>
+                {
+                    if (regionName != null) return;
+
+                    var langData = Data.CldrLanguageData[key];
+                    if (langData != null && langData.CountryNames.ContainsKey(countries[0]))
+                        regionName = langData.CountryNames[countries[0]];
+                });
+            }
+
+            if (countries != null && countries[0] == "RU")
+            {
+                // special case for Russia to force city names in all time zones
+                regionName = null;
+                values = new TimeZoneValues();
+            }
+
+            if (regionName == null)
+            {
+                SearchLanguages(languageKey, values, key =>
+                {
+                    if (regionName != null) return;
+
+                    var langData = Data.CldrLanguageData[key];
+                    if (langData != null && langData.CityNames.ContainsKey(timeZoneId))
+                        regionName = langData.CityNames[timeZoneId];
+                });
+            }
+
+            if (regionName == null)
+            {
+                regionName = timeZoneId.Split('/').Last().Replace("_", " ");
+            }
+
+            if (timeZoneId.StartsWith("Etc/GMT+") || timeZoneId.StartsWith("Etc/GMT-"))
+            {
+                values = GetNames("UTC", languageKey, abbreviations);
+
+                var sign = timeZoneId[7] == '+' ? '-' : '+';
+                var num = timeZoneId.Substring(8);
+                var s = (abbreviations ? "" : " ") + sign + num;
+                values.Generic += s;
+                values.Standard += s;
+                values.Daylight += s;
+
+                return values;
+            }
+
+
+            SearchLanguages(languageKey, values, key =>
+            {
+                var langData = Data.CldrLanguageData[key];
+                if (langData == null) return;
+
+                var genericFormat = langData.Formats?.Generic;
+                if (genericFormat != null)
+                    values.Generic = values.Generic ?? genericFormat.Replace("{0}", regionName);
+
+                var standardFormat = langData.Formats?.Standard;
+                if (standardFormat != null)
+                    values.Standard = values.Standard ?? standardFormat.Replace("{0}", regionName);
+
+                var daylightFormat = langData.Formats?.Daylight;
+                if (daylightFormat != null)
+                    values.Daylight = values.Daylight ?? daylightFormat.Replace("{0}", regionName);
+            });
+
+            if (values.Generic == null && values.Standard == null && languageKey != "en")
+            {
+                // when all else fails, return the English values
+                return GetNames(timeZoneId, "en", abbreviations);
+            }
 
             return values;
         }
@@ -216,13 +372,48 @@ namespace TimeZoneNames
             return Data.CldrMetazones.TryGetValue(timeZoneId, out metaZone) ? metaZone : null;
         }
 
-        private static string ConvertWindowsToIana(string timeZoneId)
+        private static string ConvertWindowsToIana(string windowsId, string countryCode = null)
         {
-            if (timeZoneId.Equals("UTC", StringComparison.OrdinalIgnoreCase))
+            if (windowsId.Equals("UTC", StringComparison.OrdinalIgnoreCase))
                 return "Etc/UTC";
 
+            var territory = countryCode != null && Data.CldrWindowsMappings.ContainsKey(countryCode)
+                ? countryCode
+                : "001";
+
             string ianaId;
-            return Data.CldrWindowsMappings.TryGetValue(timeZoneId, out ianaId) ? ianaId : timeZoneId;
+            return Data.CldrWindowsMappings[territory].TryGetValue(windowsId, out ianaId) ? ianaId : windowsId;
+        }
+
+        private static bool PopulateDirectValues(string langKey, TimeZoneValues values, string timeZoneId, string metaZone, bool abbreviations)
+        {
+            if (!Data.CldrLanguageData.ContainsKey(langKey))
+                return false;
+
+            var langData = Data.CldrLanguageData[langKey];
+            var langNames = abbreviations ? langData.ShortNames : langData.LongNames;
+
+            bool found = false;
+
+            if (langNames.ContainsKey(timeZoneId))
+            {
+                found = true;
+                var names = langNames[timeZoneId];
+                values.Generic = values.Generic ?? names.Generic;
+                values.Standard = values.Standard ?? names.Standard;
+                values.Daylight = values.Daylight ?? names.Daylight;
+            }
+
+            if (metaZone != null && langNames.ContainsKey(metaZone))
+            {
+                found = true;
+                var names = langNames[metaZone];
+                values.Generic = values.Generic ?? names.Generic;
+                values.Standard = values.Standard ?? names.Standard;
+                values.Daylight = values.Daylight ?? names.Daylight;
+            }
+
+            return found;
         }
     }
 }
