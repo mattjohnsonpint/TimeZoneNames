@@ -26,6 +26,16 @@ namespace TimeZoneNames.DataBuilder
             await DownloadAndExtractAsync(url, dir);
         }
 
+        public static async Task DownloadNzdAsync(string dir)
+        {
+            const string url = "http://nodatime.org/tzdb/latest.txt";
+            using (var result = await HttpClientInstance.GetAsync(url))
+            {
+                var dataUrl = (await result.Content.ReadAsStringAsync()).TrimEnd();
+                await DownloadAsync(dataUrl, dir);
+            }
+        }
+
         public static string GetTempDir()
         {
             return Path.GetTempPath() + Path.GetRandomFileName().Substring(0, 8);
