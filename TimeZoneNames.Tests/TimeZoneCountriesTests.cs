@@ -9,7 +9,7 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_Zones_For_US()
         {
-            var zones = TimeZoneNames.GetTimeZoneIdsForCountry("US");
+            var zones = TZNames.GetTimeZoneIdsForCountry("US");
 
             foreach (var zone in zones)
                 Debug.WriteLine(zone);
@@ -29,7 +29,7 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_Zones_For_GB()
         {
-            var zones = TimeZoneNames.GetTimeZoneIdsForCountry("GB");
+            var zones = TZNames.GetTimeZoneIdsForCountry("GB");
 
             foreach (var zone in zones)
                 Debug.WriteLine(zone);
@@ -42,7 +42,7 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_Zones_For_RU()
         {
-            var zones = TimeZoneNames.GetTimeZoneIdsForCountry("RU");
+            var zones = TZNames.GetTimeZoneIdsForCountry("RU");
 
             foreach (var zone in zones)
                 Debug.WriteLine(zone);

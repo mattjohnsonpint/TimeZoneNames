@@ -9,7 +9,7 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_Names_For_BR_English()
         {
-            var zones = TimeZoneNames.GetTimeZonesForCountry("BR", "en-US");
+            var zones = TZNames.GetTimeZonesForCountry("BR", "en-US");
 
             foreach (var zone in zones)
             {
@@ -46,7 +46,7 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_Names_For_BR_Portuguese()
         {
-            var zones = TimeZoneNames.GetTimeZonesForCountry("BR", "pt-BR");
+            var zones = TZNames.GetTimeZonesForCountry("BR", "pt-BR");
 
             foreach (var zone in zones)
             {
@@ -83,7 +83,7 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_Names_For_PG_English()
         {
-            var zones = TimeZoneNames.GetTimeZonesForCountry("PG", "en-US");
+            var zones = TZNames.GetTimeZonesForCountry("PG", "en-US");
 
             foreach (var zone in zones)
             {

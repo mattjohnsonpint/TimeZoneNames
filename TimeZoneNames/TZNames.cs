@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace TimeZoneNames
 {
-    public class TimeZoneNames
+    public class TZNames
     {
         private static readonly TimeZoneData Data = TimeZoneData.Load();
 

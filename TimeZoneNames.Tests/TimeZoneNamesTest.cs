@@ -7,7 +7,7 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_Names_For_US_Pacific()
         {
-            var names = TimeZoneNames.GetNamesForTimeZone("America/Los_Angeles", "en-US");
+            var names = TZNames.GetNamesForTimeZone("America/Los_Angeles", "en-US");
 
             Assert.Equal("Pacific Time", names.Generic);
             Assert.Equal("Pacific Standard Time", names.Standard);
@@ -17,7 +17,7 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_Abbreviations_For_US_Pacific()
         {
-            var abbreviations = TimeZoneNames.GetAbbreviationsForTimeZone("America/Los_Angeles", "en-US");
+            var abbreviations = TZNames.GetAbbreviationsForTimeZone("America/Los_Angeles", "en-US");
 
             Assert.Equal("PT", abbreviations.Generic);
             Assert.Equal("PST", abbreviations.Standard);
@@ -27,7 +27,7 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_French_Names_For_US_Pacific()
         {
-            var names = TimeZoneNames.GetNamesForTimeZone("America/Los_Angeles", "fr-CA");
+            var names = TZNames.GetNamesForTimeZone("America/Los_Angeles", "fr-CA");
 
             Assert.Equal("heure du Pacifique", names.Generic);
             Assert.Equal("heure normale du Pacifique", names.Standard);
@@ -37,7 +37,7 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_French_Abbreviations_For_US_Pacific()
         {
-            var abbreviations = TimeZoneNames.GetAbbreviationsForTimeZone("America/Los_Angeles", "fr-CA");
+            var abbreviations = TZNames.GetAbbreviationsForTimeZone("America/Los_Angeles", "fr-CA");
 
             Assert.Equal("HP", abbreviations.Generic);
             Assert.Equal("HNP", abbreviations.Standard);
@@ -47,7 +47,7 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_Names_For_UK()
         {
-            var names = TimeZoneNames.GetNamesForTimeZone("Europe/London", "en-US");
+            var names = TZNames.GetNamesForTimeZone("Europe/London", "en-US");
 
             Assert.Equal("U.K. Time", names.Generic);
             Assert.Equal("Greenwich Mean Time", names.Standard);
@@ -57,7 +57,7 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_Abbreviations_For_UK()
         {
-            var abbreviations = TimeZoneNames.GetAbbreviationsForTimeZone("Europe/London", "en-US");
+            var abbreviations = TZNames.GetAbbreviationsForTimeZone("Europe/London", "en-US");
 
             Assert.Null(abbreviations.Generic);
             Assert.Equal("GMT", abbreviations.Standard);
@@ -67,7 +67,7 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_Names_For_IE()
         {
-            var names = TimeZoneNames.GetNamesForTimeZone("Europe/Dublin", "en-US");
+            var names = TZNames.GetNamesForTimeZone("Europe/Dublin", "en-US");
 
             Assert.Equal("Ireland Time", names.Generic);
             Assert.Equal("Greenwich Mean Time", names.Standard);
@@ -77,7 +77,7 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_Abbreviations_For_IE()
         {
-            var abbreviations = TimeZoneNames.GetAbbreviationsForTimeZone("Europe/Dublin", "en-US");
+            var abbreviations = TZNames.GetAbbreviationsForTimeZone("Europe/Dublin", "en-US");
 
             Assert.Null(abbreviations.Generic);
             Assert.Equal("GMT", abbreviations.Standard);
@@ -87,7 +87,7 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_Names_For_IN1()
         {
-            var names = TimeZoneNames.GetNamesForTimeZone("Asia/Calcutta", "en-US");
+            var names = TZNames.GetNamesForTimeZone("Asia/Calcutta", "en-US");
 
             Assert.Equal("India Standard Time", names.Generic);
             Assert.Equal("India Standard Time", names.Standard);
@@ -97,7 +97,7 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_Abbreviations_For_IN1()
         {
-            var abbreviations = TimeZoneNames.GetAbbreviationsForTimeZone("Asia/Calcutta", "en-US");
+            var abbreviations = TZNames.GetAbbreviationsForTimeZone("Asia/Calcutta", "en-US");
 
             Assert.Equal("IST", abbreviations.Generic);
             Assert.Equal("IST", abbreviations.Standard);
@@ -107,7 +107,7 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_Names_For_IN2()
         {
-            var names = TimeZoneNames.GetNamesForTimeZone("Asia/Kolkata", "en-US");
+            var names = TZNames.GetNamesForTimeZone("Asia/Kolkata", "en-US");
 
             Assert.Equal("India Standard Time", names.Generic);
             Assert.Equal("India Standard Time", names.Standard);
@@ -117,7 +117,7 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_Abbreviations_For_IN2()
         {
-            var abbreviations = TimeZoneNames.GetAbbreviationsForTimeZone("Asia/Kolkata", "en-US");
+            var abbreviations = TZNames.GetAbbreviationsForTimeZone("Asia/Kolkata", "en-US");
 
             Assert.Equal("IST", abbreviations.Generic);
             Assert.Equal("IST", abbreviations.Standard);
@@ -127,7 +127,7 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_Names_For_Windows_Timezone()
         {
-            var names = TimeZoneNames.GetNamesForTimeZone("Eastern Standard Time", "en-US");
+            var names = TZNames.GetNamesForTimeZone("Eastern Standard Time", "en-US");
 
             Assert.Equal("Eastern Time", names.Generic);
             Assert.Equal("Eastern Standard Time", names.Standard);
