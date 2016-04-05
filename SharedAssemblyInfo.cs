@@ -2,7 +2,7 @@
 
 [assembly: AssemblyCompany("Matt Johnson")]
 [assembly: AssemblyProduct("Time Zone Names")]
-[assembly: AssemblyCopyright("Copyright © 2014 Matt Johnson")]
+[assembly: AssemblyCopyright("Copyright © Matt Johnson")]
 
-[assembly: AssemblyVersion("1.2.1.*")]
-[assembly: AssemblyInformationalVersion("1.2.1")]
+[assembly: AssemblyVersion("2.0.0.*")]
+[assembly: AssemblyInformationalVersion("2.0.0")]
