@@ -8,6 +8,8 @@ namespace TimeZoneNames.DataBuilder
 {
     public static class Downloader
     {
+        private static readonly HttpClient HttpClientInstance = new HttpClient();
+
         public static async Task DownloadCldrAsync(string dir)
         {
             const string url = "http://unicode.org/Public/cldr/latest/core.zip";
@@ -25,22 +27,34 @@ namespace TimeZoneNames.DataBuilder
             return Path.GetTempPath() + Path.GetRandomFileName().Substring(0, 8);
         }
 
-        private static async Task<string> DownloadAndExtractAsync(string url, string dir)
+        private static async Task DownloadAsync(string url, string dir)
         {
-            using (var client = new HttpClient())
-            using (var httpStream = await client.GetStreamAsync(url))
+            if (!Directory.Exists(dir))
+                Directory.CreateDirectory(dir);
+
+            var filename = url.Substring(url.LastIndexOf('/') + 1);
+            using (var result = await HttpClientInstance.GetAsync(url))
+            using (var fs = File.Create(Path.Combine(dir, filename)))
+            {
+                await result.Content.CopyToAsync(fs);
+            }
+        }
+
+        private static async Task DownloadAndExtractAsync(string url, string dir)
+        {
+            using (var httpStream = await HttpClientInstance.GetStreamAsync(url))
             using (var reader = ReaderFactory.Open(httpStream))
             {
                 if (!Directory.Exists(dir))
                     Directory.CreateDirectory(dir);
-                
+
                 while (reader.MoveToNextEntry())
                 {
                     var entry = reader.Entry;
                     if (entry.IsDirectory)
                         continue;
 
-                    var targetPath = Path.Combine(dir, entry.FilePath.Replace('/', '\\'));
+                    var targetPath = Path.Combine(dir, entry.Key.Replace('/', '\\'));
                     var targetDir = Path.GetDirectoryName(targetPath);
                     if (targetDir == null)
                         throw new InvalidOperationException();
@@ -53,10 +67,7 @@ namespace TimeZoneNames.DataBuilder
                     {
                         await stream.CopyToAsync(fs);
                     }
-
                 }
-
-                return dir;
             }
         }
     }
