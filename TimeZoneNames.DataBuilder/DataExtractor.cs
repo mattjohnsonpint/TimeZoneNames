@@ -26,12 +26,16 @@ namespace TimeZoneNames.DataBuilder
 
         public static Task<DataExtractor> LoadAsync()
         {
-            return LoadAsync(Downloader.GetTempDir());
+            return LoadAsync(Downloader.GetTempDir(), true);
         }
 
-        public static async Task<DataExtractor> LoadAsync(string dataPath)
+        public static async Task<DataExtractor> LoadAsync(string dataPath, bool overwrite)
         {
             var data = new DataExtractor(dataPath);
+
+            if (overwrite || !Directory.Exists(dataPath))
+                await data.DownloadDataAsync();
+
             await data.LoadDataAsync();
             return data;
         }

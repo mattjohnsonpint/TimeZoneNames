@@ -14,7 +14,7 @@ namespace TimeZoneNames.DataBuilder
         private static async Task DownloadAndBuildAsync()
         {
             var path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "data");
-            var extractor = await DataExtractor.LoadAsync(path);
+            var extractor = await DataExtractor.LoadAsync(path, overwrite: false);
             extractor.SaveData(path);
             
             // Copy to PCL project for embedding
