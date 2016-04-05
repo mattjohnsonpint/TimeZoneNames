@@ -5,6 +5,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Xml.Linq;
 using System.Xml.XPath;
+using NodaTime;
+using NodaTime.TimeZones;
 using ProtoBuf;
 
 namespace TimeZoneNames.DataBuilder
@@ -12,14 +14,14 @@ namespace TimeZoneNames.DataBuilder
     public class DataExtractor
     {
         private readonly string _cldrPath;
-        private readonly string _tzdbPath;
+        private readonly string _nzdPath;
 
         private readonly TimeZoneData _data = new TimeZoneData();
 
         private DataExtractor(string dataPath)
         {
             _cldrPath = Path.Combine(dataPath, "cldr") + "\\";
-            _tzdbPath = Path.Combine(dataPath, "tzdb") + "\\";
+            _nzdPath = Path.Combine(dataPath, "nzd") + "\\";
         }
 
         public static Task<DataExtractor> LoadAsync()
@@ -41,10 +43,18 @@ namespace TimeZoneNames.DataBuilder
                 Serializer.Serialize(stream, _data);
             }
         }
-        
+
+        private TzdbDateTimeZoneSource _tzdbSource;
+        private IDateTimeZoneProvider _tzdbProvider;
+
         private async Task LoadDataAsync()
         {
-            await EnsureDownloadedAsync();
+            // init noda time
+            using (var stream = File.OpenRead(Directory.GetFiles(_nzdPath)[0]))
+            {
+                _tzdbSource = TzdbDateTimeZoneSource.FromStream(stream);
+                _tzdbProvider = new DateTimeZoneCache(_tzdbSource);
+            }
 
             // this has to be loaded first
             LoadMetaZones();
@@ -60,35 +70,28 @@ namespace TimeZoneNames.DataBuilder
             await Task.WhenAll(actions.Select(Task.Run));
         }
 
-        private async Task EnsureDownloadedAsync()
+        private async Task DownloadDataAsync()
         {
-            var tasks = new List<Task>();
+            if (Directory.Exists(_cldrPath))
+                Directory.Delete(_cldrPath, true);
 
-            if (!Directory.Exists(_tzdbPath))
-                tasks.Add(Downloader.DownloadTzdbAsync(_tzdbPath));
+            if (Directory.Exists(_nzdPath))
+                Directory.Delete(_nzdPath, true);
 
-            if (!Directory.Exists(_cldrPath))
-                tasks.Add(Downloader.DownloadCldrAsync(_cldrPath));
-
-            await Task.WhenAll(tasks);
+            await Task.WhenAll(
+                Downloader.DownloadCldrAsync(_cldrPath),
+                Downloader.DownloadNzdAsync(_nzdPath));
         }
 
         private void LoadZoneCountries()
         {
-            using (var stream = File.OpenRead(_tzdbPath + "zone.tab"))
-            using (var reader = new StreamReader(stream))
+            foreach (var location in _tzdbSource.ZoneLocations.OrderBy(x => GetStandardOffset(x.ZoneId)).ThenBy(x => GetDaylightOffset(x.ZoneId)))
             {
-                string line;
-                while ((line = reader.ReadLine()) != null)
+                AddToLookup(_data.TzdbZoneCountries, location.ZoneId, location.CountryCode);
+            }
                 {
-                    if (line.StartsWith("#"))
-                        continue;
 
-                    var fields = line.Split('\t');
-                    var country = fields[0];
-                    var zone = fields[2];
 
-                    _data.TzdbZoneCountries.Add(zone, country);
                 }
             }
         }
