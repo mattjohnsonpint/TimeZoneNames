@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using ProtoBuf;
 
 namespace TimeZoneNames
@@ -28,7 +29,7 @@ namespace TimeZoneNames
         public Dictionary<string, Dictionary<string, string>> CldrWindowsMappings { get; } = new Dictionary<string, Dictionary<string, string>>();
 
         [ProtoMember(9)]
-        public List<string> SelectionZones { get; } = new List<string>(); 
+        public List<TimeZoneSelectionData> SelectionZones { get; } = new List<TimeZoneSelectionData>();
 
         public static TimeZoneData Load()
         {
@@ -73,5 +74,15 @@ namespace TimeZoneNames
 
         [ProtoMember(3)]
         public string Daylight { get; set; }
+    }
+
+    [ProtoContract]
+    public class TimeZoneSelectionData
+    {
+        [ProtoMember(1)]
+        public string Id { get; set; }
+
+        [ProtoMember(2)]
+        public DateTime ThresholdUtc { get; set; }
     }
 }

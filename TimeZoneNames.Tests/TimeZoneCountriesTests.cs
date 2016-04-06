@@ -1,4 +1,5 @@
-﻿using Xunit;
+﻿using System;
+using Xunit;
 using Xunit.Abstractions;
 
 namespace TimeZoneNames.Tests
@@ -15,7 +16,7 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_Zones_For_US()
         {
-            var zones = TZNames.GetTimeZoneIdsForCountry("US");
+            var zones = TZNames.GetTimeZoneIdsForCountry("US", DateTimeOffset.Now);
 
             foreach (var zone in zones)
                 _output.WriteLine(zone);
@@ -51,7 +52,33 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_Zones_For_RU()
         {
-            var zones = TZNames.GetTimeZoneIdsForCountry("RU");
+            var zones = TZNames.GetTimeZoneIdsForCountry("RU", DateTimeOffset.Now);
+
+            foreach (var zone in zones)
+                _output.WriteLine(zone);
+
+            var expected = new[]
+            {
+                "Europe/Kaliningrad",
+                "Europe/Moscow",
+                "Europe/Samara",
+                "Asia/Yekaterinburg",
+                "Asia/Novosibirsk",
+                "Asia/Krasnoyarsk",
+                "Asia/Irkutsk",
+                "Asia/Yakutsk",
+                "Asia/Magadan",
+                "Asia/Srednekolymsk",
+                "Asia/Kamchatka"
+            };
+
+            Assert.Equal(expected, zones);
+        }
+
+        [Fact]
+        public void Can_Get_Zones_For_RU_Past()
+        {
+            var zones = TZNames.GetTimeZoneIdsForCountry("RU", new DateTime(2016, 1, 1));
 
             foreach (var zone in zones)
                 _output.WriteLine(zone);
@@ -81,7 +108,7 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_Zones_For_CA()
         {
-            var zones = TZNames.GetTimeZoneIdsForCountry("CA");
+            var zones = TZNames.GetTimeZoneIdsForCountry("CA", DateTimeOffset.Now);
 
             foreach (var zone in zones)
                 _output.WriteLine(zone);
@@ -182,7 +209,7 @@ namespace TimeZoneNames.Tests
         {
             var locale = "en-US";
 
-            var zones = TZNames.GetTimeZonesForCountry("US", locale);
+            var zones = TZNames.GetTimeZonesForCountry("US", locale, DateTimeOffset.Now);
             Assert.NotEmpty(zones);
             foreach (var zone in zones)
                 _output.WriteLine($"{zone.Value.PadRight(50)} {zone.Key}");
@@ -191,7 +218,7 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_TimeZones_For_RU_EN()
         {
-            var zones = TZNames.GetTimeZonesForCountry("RU", "en-US");
+            var zones = TZNames.GetTimeZonesForCountry("RU", "en-US", DateTimeOffset.Now);
             Assert.NotEmpty(zones);
             foreach (var zone in zones)
                 _output.WriteLine($"{zone.Value.PadRight(50)} {zone.Key}");
@@ -200,7 +227,7 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_TimeZones_For_RU_RU()
         {
-            var zones = TZNames.GetTimeZonesForCountry("RU", "ru-RU");
+            var zones = TZNames.GetTimeZonesForCountry("RU", "ru-RU", DateTimeOffset.Now);
             Assert.NotEmpty(zones);
             foreach (var zone in zones)
                 _output.WriteLine($"{zone.Value.PadRight(50)} {zone.Key}");
@@ -209,7 +236,7 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_TimeZones_For_RU_RU_All()
         {
-            var zones = TZNames.GetTimeZonesForCountry("RU", "ru-RU", true);
+            var zones = TZNames.GetTimeZonesForCountry("RU", "ru-RU");
             Assert.NotEmpty(zones);
             foreach (var zone in zones)
                 _output.WriteLine($"{zone.Value.PadRight(50)} {zone.Key}");
@@ -282,7 +309,7 @@ namespace TimeZoneNames.Tests
             {
                 _output.WriteLine("{0} : {1}", country.Key, country.Value);
                 _output.WriteLine("------------------------------------------------------------");
-                var zones = TZNames.GetTimeZonesForCountry(country.Key, locale, true);
+                var zones = TZNames.GetTimeZonesForCountry(country.Key, locale);
                 //Assert.NotEmpty(zones);
                 foreach (var zone in zones)
                     _output.WriteLine($"{zone.Value.PadRight(50)} {zone.Key}");

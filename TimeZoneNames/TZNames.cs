@@ -10,27 +10,38 @@ namespace TimeZoneNames
         private static readonly TimeZoneData Data = TimeZoneData.Load();
         private static readonly IDictionary<string, IComparer<string>> Comparers = new Dictionary<string, IComparer<string>>();
 
-        public static string[] GetTimeZoneIdsForCountry(string countryCode, bool allTimeZones = false)
+        public static string[] GetTimeZoneIdsForCountry(string countryCode)
+        {
+            return GetTimeZoneIdsForCountry(countryCode, DateTimeOffset.MinValue);
+        }
+
+        public static string[] GetTimeZoneIdsForCountry(string countryCode, DateTimeOffset threshold)
         {
             var zones = Data.TzdbZoneCountries
                 .Where(x => x.Value.Contains(countryCode, StringComparer.OrdinalIgnoreCase))
                 .Select(x => x.Key)
                 .ToArray();
 
-            if (allTimeZones)
+            if (threshold == DateTimeOffset.MinValue)
                 return zones;
 
-            var selectionZones = zones.Intersect(Data.SelectionZones).ToArray();
+            var withinThreshold = Data.SelectionZones.Where(x=> x.ThresholdUtc >= threshold.UtcDateTime).Select(x=> x.Id);
+            var selectionZones = zones.Intersect(withinThreshold).ToArray();
             return selectionZones.Length > 0 ? selectionZones : zones;
         }
 
-        public static IDictionary<string, string> GetTimeZonesForCountry(string countryCode, string languageCode, bool allTimeZones = false)
+        public static IDictionary<string, string> GetTimeZonesForCountry(string countryCode, string languageCode)
+        {
+            return GetTimeZonesForCountry(countryCode, languageCode, DateTimeOffset.MinValue);
+        }
+
+        public static IDictionary<string, string> GetTimeZonesForCountry(string countryCode, string languageCode, DateTimeOffset threshold)
         {
             var langKey = GetLanguageKey(languageCode);
             if (langKey == null)
                 throw new ArgumentException("Invalid Language Code", nameof(languageCode));
 
-            var zones = GetTimeZoneIdsForCountry(countryCode, allTimeZones);
+            var zones = GetTimeZoneIdsForCountry(countryCode, threshold);
             var results = zones.Select(
                 x => new
                 {

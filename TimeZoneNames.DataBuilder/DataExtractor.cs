@@ -99,6 +99,9 @@ namespace TimeZoneNames.DataBuilder
         private static readonly Instant Now = SystemClock.Instance.Now;
         private static readonly Instant Jan = Instant.FromUtc(Now.InUtc().Year, 1, 1, 0, 0);
         private static readonly Instant Jun = Instant.FromUtc(Now.InUtc().Year, 6, 1, 0, 0);
+        private static readonly Instant Future10 = Instant.FromUtc(Now.InUtc().Year + 10, 1, 1, 0, 0);
+        private static readonly Instant Future11 = Instant.FromUtc(Now.InUtc().Year + 11, 1, 1, 0, 0);
+
 
         private Offset GetStandardOffset(string zoneId)
         {
@@ -113,17 +116,59 @@ namespace TimeZoneNames.DataBuilder
 
         private void LoadSelectionZones()
         {
-            var y = Now.InUtc().Year;
-            var a = y;
-            var b = y + 5;
+            var results = new List<TimeZoneSelectionData>();
 
+            var splitPoints = GetAllZoneSplitPoints();
+            IList<string> last = null;
+            Console.CursorVisible = false;
+            for (int i = splitPoints.Count - 1; i >= 0; i--)
+            {
+                var pct = 100 * (1.0 * (splitPoints.Count - i)) / splitPoints.Count;
+                Console.Write("{0:F1}%", pct);
+                Console.CursorLeft = 0;
+                var point = splitPoints[i];
+                var zones = GetSelectionZones(point);
+
+                if (last == null)
+                {
+                    last = zones;
+                    continue;
+                }
+
+                var items = zones.Except(last)
+                    .Select(x => new TimeZoneSelectionData { Id = x, ThresholdUtc = point.ToDateTimeUtc() });
+                results.AddRange(items);
+
+                last = zones;
+            }
+
+            var remaining = last?.Except(results.Select(x => x.Id));
+            if (remaining != null)
+            {
+                var items = remaining
+                    .Select(x => new TimeZoneSelectionData { Id = x, ThresholdUtc = DateTime.MaxValue });
+                results.AddRange(items);
+            }
+
+            _data.SelectionZones.AddRange(results
+                .OrderBy(x => GetStandardOffset(x.Id))
+                .ThenBy(x => GetDaylightOffset(x.Id))
+                .ThenByDescending(x => x.ThresholdUtc)
+                .ThenBy(x => x.Id));
+
+            Console.WriteLine();
+            Console.CursorVisible = true;
+        }
+
+        private IList<string> GetSelectionZones(Instant fromInstant)
+        {
             var results = _tzdbProvider.Ids
                 .Select(x => _tzdbSource.CanonicalIdMap[x])
                 .Distinct()
                 .Select(x => new
                 {
                     Id = x,
-                    Intervals = GetBoundIntervals(_tzdbProvider[x], a, b),
+                    Intervals = GetBoundIntervals(_tzdbProvider[x], fromInstant, Future11),
                     Location = _tzdbSource.ZoneLocations.FirstOrDefault(l => l.ZoneId == x)
                 })
                 .Where(x => x.Location != null)
@@ -142,7 +187,7 @@ namespace TimeZoneNames.DataBuilder
             results.Remove("Asia/Urumqi");
             results.Remove("Europe/Simferopol");
 
-            _data.SelectionZones.AddRange(results);
+            return results;
         }
 
         private bool HasWindowsMapping(string id, string countryCode)
@@ -167,10 +212,8 @@ namespace TimeZoneNames.DataBuilder
             return hash;
         }
 
-        private static IEnumerable<ZoneInterval> GetBoundIntervals(DateTimeZone zone, int startLocalYear, int endLocalYear)
+        private static IEnumerable<ZoneInterval> GetBoundIntervals(DateTimeZone zone, Instant start, Instant end)
         {
-            var start = new LocalDate(startLocalYear, 1, 1).AtMidnight().InZoneLeniently(zone).ToInstant();
-            var end = new LocalDate(endLocalYear, 1, 1).AtMidnight().InZoneLeniently(zone).ToInstant();
             var intervals = zone.GetZoneIntervals(start, end).ToList();
 
             var first = intervals.First();
@@ -553,6 +596,18 @@ namespace TimeZoneNames.DataBuilder
             {
                 lookup.Add(key, new[] { value });
             }
+        }
+
+        private IList<Instant> GetAllZoneSplitPoints()
+        {
+            var list = _tzdbProvider.Ids.SelectMany(
+                x => _tzdbProvider[x].GetZoneIntervals(Instant.MinValue, Future10).Select(y => y.Start))
+                .Distinct().OrderBy(x => x).ToList();
+
+            list.Remove(Instant.MinValue);
+            list.Remove(Instant.MaxValue);
+
+            return list;
         }
     }
 }
