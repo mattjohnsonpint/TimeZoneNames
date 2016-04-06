@@ -24,19 +24,14 @@ namespace TimeZoneNames.DataBuilder
             _nzdPath = Path.Combine(dataPath, "nzd") + "\\";
         }
 
-        public static Task<DataExtractor> LoadAsync()
-        {
-            return LoadAsync(Downloader.GetTempDir(), true);
-        }
-
-        public static async Task<DataExtractor> LoadAsync(string dataPath, bool overwrite)
+        public static DataExtractor Load(string dataPath, bool overwrite)
         {
             var data = new DataExtractor(dataPath);
 
             if (overwrite || !Directory.Exists(dataPath))
-                await data.DownloadDataAsync();
+                data.DownloadData();
 
-            await data.LoadDataAsync();
+            data.LoadData();
             return data;
         }
 
@@ -51,7 +46,7 @@ namespace TimeZoneNames.DataBuilder
         private TzdbDateTimeZoneSource _tzdbSource;
         private IDateTimeZoneProvider _tzdbProvider;
 
-        private async Task LoadDataAsync()
+        private void LoadData()
         {
             // init noda time
             using (var stream = File.OpenRead(Directory.GetFiles(_nzdPath)[0]))
@@ -71,7 +66,7 @@ namespace TimeZoneNames.DataBuilder
                 LoadWindowsMappings,
                 LoadLanguages
             };
-            await Task.WhenAll(actions.Select(Task.Run));
+            Task.WhenAll(actions.Select(Task.Run)).Wait();
 
             // patch the data for any known issues
             PatchData();
@@ -80,7 +75,7 @@ namespace TimeZoneNames.DataBuilder
             LoadSelectionZones();
         }
 
-        private async Task DownloadDataAsync()
+        private void DownloadData()
         {
             if (Directory.Exists(_cldrPath))
                 Directory.Delete(_cldrPath, true);
@@ -88,7 +83,7 @@ namespace TimeZoneNames.DataBuilder
             if (Directory.Exists(_nzdPath))
                 Directory.Delete(_nzdPath, true);
 
-            await Task.WhenAll(
+            Task.WaitAll(
                 Downloader.DownloadCldrAsync(_cldrPath),
                 Downloader.DownloadNzdAsync(_nzdPath));
         }

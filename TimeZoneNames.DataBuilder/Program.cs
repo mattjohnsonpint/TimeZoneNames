@@ -8,13 +8,8 @@ namespace TimeZoneNames.DataBuilder
     {
         static void Main(string[] args)
         {
-            DownloadAndBuildAsync().Wait();
-        }
-
-        private static async Task DownloadAndBuildAsync()
-        {
             var path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "data");
-            var extractor = await DataExtractor.LoadAsync(path, overwrite: false);
+            var extractor = DataExtractor.Load(path, overwrite: false);
             extractor.SaveData(path);
             
             // Copy to PCL project for embedding
