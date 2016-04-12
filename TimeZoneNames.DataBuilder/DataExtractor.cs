@@ -350,9 +350,10 @@ namespace TimeZoneNames.DataBuilder
             var excluded = new[] { "AN", "BV", "CP", "EU", "HM", "QO", "ZZ" };
 
             var countries = territoriesElement.Elements("territory")
+                .Where(x=> x.Attribute("alt") == null)
                 .GroupBy(x => x.Attribute("type").Value)
                 .Where(x => x.Key.Length == 2 && !excluded.Contains(x.Key))
-                .ToDictionary(x => x.Key, x => x.Last().Value);
+                .ToDictionary(x => x.Key, x => x.First().Value);
 
             var langData = GetLangData(language);
             foreach (var country in countries)
