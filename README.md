@@ -17,6 +17,11 @@ Notes
 Version 2.0 introduces some breaking changes, fills in some gaps, and adds a
 whole lot more functionality.  Please upgrade with care.  Thanks.
 
+Demo
+=============================================================================
+One possible scenario for this library is to build a localized time zone selection control.
+[Click here for a live demonstration](http://timezonepickerdemo.azurewebsites.net/).
+
 Usage
 =============================================================================
 
