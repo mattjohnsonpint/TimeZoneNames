@@ -6,6 +6,7 @@
     <script src="scripts/knockout-3.4.0.js"></script>
     <script src="scripts/jquery-2.2.2.min.js"></script>
     <script src="Scripts/moment.min.js"></script>
+    <script src="Scripts/moment-timezone-with-data-2010-2020.min.js"></script>
     <link href="content/bootstrap.min.css" rel="stylesheet" />
 </head>
 <body>
@@ -62,7 +63,7 @@
         <h3>Result</h3>
         <p>The select time zone identifier is:</p>
         <h4 data-bind="text: timeZone"></h4>
-
+        <p>Curent Time: <span data-bind="text:currentTime"></span></p>
     </div>
 
     <script type="text/javascript">
@@ -85,9 +86,11 @@
             threshold: ko.observable(now),
 
             country: ko.observable(),
-            timeZone: ko.observable()
+            timeZone: ko.observable(),
+
+            currentTime: ko.observable()
         }
-        
+
         $.ajaxSetup({
             beforeSend: function (xhr) {
                 xhr.setRequestHeader('Accept-Language', vm.language() || 'en');
@@ -186,6 +189,10 @@
         loadLanguages();
         ko.applyBindings(vm);
 
+        setInterval(function () {
+            var m = moment.tz(vm.timeZone());
+            vm.currentTime(m.format());
+        }, 500);
     </script>
 </body>
 </html>
