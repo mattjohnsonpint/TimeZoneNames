@@ -25,7 +25,7 @@ namespace TimeZoneNames
             if (threshold == DateTimeOffset.MinValue)
                 return zones;
 
-            var withinThreshold = Data.SelectionZones.Where(x=> x.ThresholdUtc >= threshold.UtcDateTime).Select(x=> x.Id);
+            var withinThreshold = Data.SelectionZones.Where(x => x.ThresholdUtc >= threshold.UtcDateTime).Select(x => x.Id);
             var selectionZones = zones.Intersect(withinThreshold).ToArray();
             return selectionZones.Length > 0 ? selectionZones : zones;
         }
@@ -244,40 +244,39 @@ namespace TimeZoneNames
                 if (b) found = true;
             });
 
-            string[] countries;
-            if (!Data.CldrZoneCountries.TryGetValue(timeZoneId, out countries))
+            var countries = new List<string>();
+            string[] c;
+            if (Data.CldrZoneCountries.TryGetValue(timeZoneId, out c))
+                countries.AddRange(c);
+
+            if (Data.TzdbZoneCountries.TryGetValue(timeZoneId, out c))
+                countries.AddRange(c);
+
+            foreach (var alias in Data.CldrAliases.Where(x => x.Value == timeZoneId))
             {
-                // search tzdb zones
-                if (!Data.TzdbZoneCountries.TryGetValue(timeZoneId, out countries))
-                {
-                    foreach (var alias in Data.CldrAliases.Where(x => x.Value == timeZoneId))
-                    {
-                        foreach (var item in Data.TzdbZoneCountries.Where(item => string.Equals(item.Key, alias.Key, StringComparison.OrdinalIgnoreCase)))
-                        {
-                            countries = item.Value;
-                            break;
-                        }
-                    }
-                }
+                foreach (var item in Data.TzdbZoneCountries
+                    .Where(item => string.Equals(item.Key, alias.Key, StringComparison.OrdinalIgnoreCase)))
+                    countries.AddRange(item.Value);
             }
 
+            var country = countries.FirstOrDefault(x => x != "001");
 
-            if (abbreviations && countries != null)
+            if (abbreviations && country != null)
             {
                 // try using the specific locale for the zone
-                var lang = languageKey.Split('_', '-')[0] + "_" + countries[0].ToLowerInvariant();
+                var lang = languageKey.Split('_', '-')[0] + "_" + country.ToLowerInvariant();
                 var b = PopulateDirectValues(lang, values, timeZoneId, metaZone, true);
                 if (b) found = true;
 
                 // try english as a last resort
                 if (values.Generic == null || values.Standard == null || values.Daylight == null)
                 {
-                    b = PopulateDirectValues("en_" + countries[0].ToLowerInvariant(), values, timeZoneId, metaZone, true);
+                    b = PopulateDirectValues("en_" + country.ToLowerInvariant(), values, timeZoneId, metaZone, true);
                     if (b) found = true;
                 }
             }
 
-            if (countries != null && countries[0] == "RU")
+            if (country == "RU")
             {
                 // special case for Russia to force city names in all time zones
                 found = false;
@@ -299,19 +298,19 @@ namespace TimeZoneNames
             }
 
             string regionName = null;
-            if (countries != null)
+            if (country != null)
             {
                 SearchLanguages(languageKey, values, key =>
                 {
                     if (regionName != null) return;
 
                     var langData = Data.CldrLanguageData[key];
-                    if (langData != null && langData.CountryNames.ContainsKey(countries[0]))
-                        regionName = langData.CountryNames[countries[0]];
+                    if (langData != null && langData.CountryNames.ContainsKey(country))
+                        regionName = langData.CountryNames[country];
                 });
             }
 
-            if (countries != null && countries[0] == "RU")
+            if (country == "RU")
             {
                 // special case for Russia to force city names in all time zones
                 regionName = null;
