@@ -15,9 +15,12 @@ namespace TimeZoneNames.DataBuilder
             const string url = "http://unicode.org/Public/cldr/latest/core.zip";
             await DownloadAndExtractAsync(url, dir);
 
-            // use the trunk windows mappings, as it tends to be more accurate and frequently updated
+            // use the trunk windows mappings and metazones, as they tend to be more accurate and frequently updated
             const string url2 = "http://unicode.org/repos/cldr/trunk/common/supplemental/windowsZones.xml";
             await DownloadAsync(url2, Path.Combine(dir, @"common\supplemental"));
+
+            const string url3 = "http://unicode.org/repos/cldr/trunk/common/supplemental/metaZones.xml";
+            await DownloadAsync(url3, Path.Combine(dir, @"common\supplemental"));
         }
 
         public static async Task DownloadTzdbAsync(string dir)

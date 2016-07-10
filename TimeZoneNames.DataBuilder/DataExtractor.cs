@@ -255,7 +255,13 @@ namespace TimeZoneNames.DataBuilder
 
         private void LoadMetaZones()
         {
-            using (var stream = File.OpenRead(_cldrPath + @"common\supplemental\metaZones.xml"))
+            LoadMetaZonesFromFile(_cldrPath + @"common\supplemental\metaZones.xml");
+            LoadMetaZonesFromFile(@"data\metaZones-override.xml");
+        }
+
+        private void LoadMetaZonesFromFile(string path)
+        {
+            using (var stream = File.OpenRead(path))
             {
                 var doc = XDocument.Load(stream);
 
@@ -264,7 +270,7 @@ namespace TimeZoneNames.DataBuilder
                 {
                     var timeZone = element.Attribute("type").Value;
                     var metaZone = element.Elements("usesMetazone").Last().Attribute("mzone").Value;
-                    _data.CldrMetazones.Add(timeZone, metaZone);
+                    _data.CldrMetazones.AddOrUpdate(timeZone, metaZone);
                 }
 
                 var mapZoneElements = doc.XPathSelectElements("/supplementalData/metaZones/mapTimezones/mapZone");
@@ -272,8 +278,7 @@ namespace TimeZoneNames.DataBuilder
                 {
                     var timeZone = element.Attribute("type").Value;
                     var territory = element.Attribute("territory").Value;
-                    if (territory.Length == 2)
-                        AddToLookup(_data.CldrZoneCountries, timeZone, territory);
+                    AddToLookup(_data.CldrZoneCountries, timeZone, territory);
                 }
 
                 var primaryZoneElements = doc.XPathSelectElements("/supplementalData/metaZones/primaryZones/primaryZone");
@@ -281,14 +286,20 @@ namespace TimeZoneNames.DataBuilder
                 {
                     var country = element.Attribute("iso3166").Value;
                     var zone = element.Value;
-                    _data.CldrPrimaryZones.Add(country, zone);
+                    _data.CldrPrimaryZones.AddOrUpdate(country, zone);
                 }
             }
         }
 
         private void LoadWindowsMappings()
         {
-            using (var stream = File.OpenRead(_cldrPath + @"common\supplemental\windowsZones.xml"))
+            LoadWindowsMappingsFromFile(_cldrPath + @"common\supplemental\windowsZones.xml");
+            LoadWindowsMappingsFromFile(@"data\windowsZones-override.xml");
+        }
+
+        private void LoadWindowsMappingsFromFile(string path)
+        {
+            using (var stream = File.OpenRead(path))
             {
                 var doc = XDocument.Load(stream);
 
@@ -306,7 +317,15 @@ namespace TimeZoneNames.DataBuilder
                         _data.CldrWindowsMappings.Add(territory, mappings);
                     }
 
-                    mappings.Add(windowsZone, timeZone);
+                    if (timeZone == string.Empty)
+                    {
+                        if (mappings.ContainsKey(windowsZone))
+                            mappings.Remove(windowsZone);
+                    }
+                    else
+                    {
+                        mappings.AddOrUpdate(windowsZone, timeZone);
+                    }
                 }
             }
         }
