@@ -118,6 +118,8 @@ namespace TimeZoneNames.DataBuilder
         {
             var results = new List<TimeZoneSelectionData>();
 
+            var precedence = File.ReadAllLines(@"data\zone-precedence.txt");
+
             var splitPoints = GetAllZoneSplitPoints();
             IList<string> last = null;
             Console.CursorVisible = false;
@@ -127,7 +129,7 @@ namespace TimeZoneNames.DataBuilder
                 Console.Write("{0:F1}%", pct);
                 Console.CursorLeft = 0;
                 var point = splitPoints[i];
-                var zones = GetSelectionZones(point);
+                var zones = GetSelectionZones(point, precedence);
 
                 if (last == null)
                 {
@@ -160,7 +162,7 @@ namespace TimeZoneNames.DataBuilder
             Console.CursorVisible = true;
         }
 
-        private IList<string> GetSelectionZones(Instant fromInstant)
+        private IList<string> GetSelectionZones(Instant fromInstant, string[] precedence)
         {
             var results = _tzdbProvider.Ids
                 .Select(x => _tzdbSource.CanonicalIdMap[x])
@@ -179,7 +181,8 @@ namespace TimeZoneNames.DataBuilder
                     if (ids.Length == 1)
                         return ids[0];
 
-                    return ids.FirstOrDefault(id => HasWindowsMapping(id, g.Key.CountryCode)) ?? ids[0];
+                    // use the zone-precedence.txt file when we need a tiebreaker
+                    return precedence.Intersect(ids).First();
                 })
                 .ToList();
 
@@ -188,12 +191,6 @@ namespace TimeZoneNames.DataBuilder
             results.Remove("Europe/Simferopol");
 
             return results;
-        }
-
-        private bool HasWindowsMapping(string id, string countryCode)
-        {
-            var territory = _data.CldrWindowsMappings.ContainsKey(countryCode) ? countryCode : "001";
-            return _data.CldrWindowsMappings[territory].Values.Contains(id);
         }
 
         private static int GetIntervalsHash(IEnumerable<ZoneInterval> intervals)
@@ -369,7 +366,7 @@ namespace TimeZoneNames.DataBuilder
             var excluded = new[] { "AN", "BV", "CP", "EU", "HM", "QO", "ZZ" };
 
             var countries = territoriesElement.Elements("territory")
-                .Where(x=> x.Attribute("alt") == null)
+                .Where(x => x.Attribute("alt") == null)
                 .GroupBy(x => x.Attribute("type").Value)
                 .Where(x => x.Key.Length == 2 && !excluded.Contains(x.Key))
                 .ToDictionary(x => x.Key, x => x.First().Value);
