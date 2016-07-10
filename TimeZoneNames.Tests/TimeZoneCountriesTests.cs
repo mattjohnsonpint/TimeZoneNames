@@ -66,9 +66,9 @@ namespace TimeZoneNames.Tests
                 "Asia/Novosibirsk",
                 "Asia/Krasnoyarsk",
                 "Asia/Irkutsk",
-                "Asia/Yakutsk",
-                "Asia/Magadan",
-                "Asia/Srednekolymsk",
+                "Asia/Chita",
+                "Asia/Vladivostok",
+                "Asia/Sakhalin",
                 "Asia/Kamchatka"
             };
 
@@ -87,15 +87,17 @@ namespace TimeZoneNames.Tests
             {
                 "Europe/Kaliningrad",
                 "Europe/Moscow",
-                "Europe/Astrakhan",
                 "Europe/Samara",
+                "Europe/Ulyanovsk",
                 "Asia/Yekaterinburg",
                 "Asia/Novosibirsk",
                 "Asia/Barnaul",
+                "Asia/Tomsk",
                 "Asia/Krasnoyarsk",
                 "Asia/Irkutsk",
                 "Asia/Chita",
                 "Asia/Yakutsk",
+                "Asia/Vladivostok",
                 "Asia/Magadan",
                 "Asia/Sakhalin",
                 "Asia/Srednekolymsk",
