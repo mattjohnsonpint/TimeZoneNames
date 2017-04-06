@@ -1,4 +1,4 @@
-TimeZoneNames
+TimeZoneNames  [![NuGet Version](https://img.shields.io/nuget/v/TimeZoneNames.svg?style=flat)](https://www.nuget.org/packages/TimeZoneNames/) 
 =============
 
 A simple portable class library that provides localized time zone names using CLDR and TZDB sources.
