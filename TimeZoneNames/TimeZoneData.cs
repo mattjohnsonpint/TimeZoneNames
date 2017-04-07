@@ -5,7 +5,7 @@ using ProtoBuf;
 namespace TimeZoneNames
 {
     [ProtoContract]
-    internal class TimeZoneData
+    public class TimeZoneData
     {
         [ProtoMember(1)]
         public Dictionary<string, string[]> TzdbZoneCountries { get; } = new Dictionary<string, string[]>();
@@ -42,7 +42,7 @@ namespace TimeZoneNames
     }
 
     [ProtoContract]
-    internal class CldrLanguageData
+    public class CldrLanguageData
     {
         [ProtoMember(1)]
         public TimeZoneValues Formats { get; set; }
