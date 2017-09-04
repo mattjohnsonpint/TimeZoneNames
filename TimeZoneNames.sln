@@ -1,18 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.30501.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeZoneNames", "TimeZoneNames\TimeZoneNames.csproj", "{A617C49A-5138-459B-9A3B-7C874F57967B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeZoneNames", "src\TimeZoneNames\TimeZoneNames.csproj", "{A617C49A-5138-459B-9A3B-7C874F57967B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeZoneNames.DataBuilder", "TimeZoneNames.DataBuilder\TimeZoneNames.DataBuilder.csproj", "{C59D6830-0A2E-4A12-9021-184A6198D3BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeZoneNames.DataBuilder", "src\TimeZoneNames.DataBuilder\TimeZoneNames.DataBuilder.csproj", "{C59D6830-0A2E-4A12-9021-184A6198D3BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeZoneNames.Tests", "TimeZoneNames.Tests\TimeZoneNames.Tests.csproj", "{3CE7A88C-99D1-4740-BEEB-0F88E3B9A2F3}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3BDE286E-E5D6-4BF0-B1D0-9545B756E2D6}"
-	ProjectSection(SolutionItems) = preProject
-		SharedAssemblyInfo.cs = SharedAssemblyInfo.cs
-	EndProjectSection
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeZoneNames.Tests", "test\TimeZoneNames.Tests\TimeZoneNames.Tests.csproj", "{3CE7A88C-99D1-4740-BEEB-0F88E3B9A2F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,5 +30,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16A0A72C-C800-41FC-84B8-1F4B65022EDC}
 	EndGlobalSection
 EndGlobal

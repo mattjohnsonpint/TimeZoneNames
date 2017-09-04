@@ -163,7 +163,8 @@ namespace TimeZoneNames
                     return comparer;
 
                 var culture = new CultureInfo(langKey.Replace('_', '-'));
-                comparer = StringComparer.Create(culture, false);
+                comparer = new CultureAwareStringComparer(culture, CompareOptions.IgnoreCase);
+
                 Comparers.Add(langKey, comparer);
                 return comparer;
             }

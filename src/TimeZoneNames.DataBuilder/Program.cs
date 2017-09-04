@@ -1,6 +1,5 @@
 ﻿using System;
 using System.IO;
-using System.Threading.Tasks;
 
 namespace TimeZoneNames.DataBuilder
 {
@@ -8,7 +7,7 @@ namespace TimeZoneNames.DataBuilder
     {
         static void Main(string[] args)
         {
-            var path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "data");
+            var path = Path.Combine(AppContext.BaseDirectory, "data");
             var extractor = DataExtractor.Load(path, overwrite: false);
             extractor.SaveData(path);
             

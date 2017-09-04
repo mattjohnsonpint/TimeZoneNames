@@ -96,7 +96,7 @@ namespace TimeZoneNames.DataBuilder
             }
         }
 
-        private static readonly Instant Now = SystemClock.Instance.Now;
+        private static readonly Instant Now = SystemClock.Instance.GetCurrentInstant();
         private static readonly Instant Jan = Instant.FromUtc(Now.InUtc().Year, 1, 1, 0, 0);
         private static readonly Instant Jun = Instant.FromUtc(Now.InUtc().Year, 6, 1, 0, 0);
         private static readonly Instant Future10 = Instant.FromUtc(Now.InUtc().Year + 10, 1, 1, 0, 0);
