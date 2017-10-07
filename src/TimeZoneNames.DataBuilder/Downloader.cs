@@ -23,12 +23,6 @@ namespace TimeZoneNames.DataBuilder
             await DownloadAsync(url3, Path.Combine(dir, @"common\supplemental"));
         }
 
-        public static async Task DownloadTzdbAsync(string dir)
-        {
-            const string url = "http://www.iana.org/time-zones/repository/tzdata-latest.tar.gz";
-            await DownloadAndExtractAsync(url, dir);
-        }
-
         public static async Task DownloadNzdAsync(string dir)
         {
             const string url = "http://nodatime.org/tzdb/latest.txt";
@@ -37,11 +31,6 @@ namespace TimeZoneNames.DataBuilder
                 var dataUrl = (await result.Content.ReadAsStringAsync()).TrimEnd();
                 await DownloadAsync(dataUrl, dir);
             }
-        }
-
-        public static string GetTempDir()
-        {
-            return Path.GetTempPath() + Path.GetRandomFileName().Substring(0, 8);
         }
 
         private static async Task DownloadAsync(string url, string dir)
