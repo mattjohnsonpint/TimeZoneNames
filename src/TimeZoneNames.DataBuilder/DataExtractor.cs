@@ -200,10 +200,7 @@ namespace TimeZoneNames.DataBuilder
             {
                 foreach (var interval in intervals)
                 {
-                    hash = hash * 23 + interval.Start.GetHashCode();
-                    hash = hash * 23 + interval.End.GetHashCode();
-                    hash = hash * 23 + interval.WallOffset.GetHashCode();
-                    hash = hash * 23 + interval.Savings.GetHashCode();
+                    hash = hash * 23 + interval.GetHashCode();
                 }
             }
             return hash;
