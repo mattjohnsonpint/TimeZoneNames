@@ -122,12 +122,16 @@ namespace TimeZoneNames.DataBuilder
 
             var splitPoints = GetAllZoneSplitPoints();
             IList<string> last = null;
-            Console.CursorVisible = false;
+            var useConsole = TryHideConsoleCursor();
             for (int i = splitPoints.Count - 1; i >= 0; i--)
             {
-                var pct = 100 * (1.0 * (splitPoints.Count - i)) / splitPoints.Count;
-                Console.Write("{0:F1}%", pct);
-                Console.CursorLeft = 0;
+                if (useConsole)
+                {
+                    var pct = 100 * (1.0 * (splitPoints.Count - i)) / splitPoints.Count;
+                    Console.Write("{0:F1}%", pct);
+                    Console.CursorLeft = 0;
+                }
+
                 var point = splitPoints[i];
                 var zones = GetSelectionZones(point, precedence);
 
@@ -158,10 +162,26 @@ namespace TimeZoneNames.DataBuilder
                 .ThenByDescending(x => x.ThresholdUtc)
                 .ThenBy(x => x.Id));
 
-            Console.WriteLine();
-            Console.CursorVisible = true;
+            if (useConsole)
+            {
+                Console.WriteLine();
+                Console.CursorVisible = true;
+            }
         }
 
+        private static bool TryHideConsoleCursor()
+        {
+            try
+            {
+                Console.CursorVisible = false;
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
+        }
+        
         private IList<string> GetSelectionZones(Instant fromInstant, string[] precedence)
         {
             var results = _tzdbProvider.Ids
