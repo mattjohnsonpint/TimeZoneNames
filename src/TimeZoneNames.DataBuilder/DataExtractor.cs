@@ -27,9 +27,7 @@ namespace TimeZoneNames.DataBuilder
         public static DataExtractor Load(string dataPath, bool overwrite)
         {
             var data = new DataExtractor(dataPath);
-
-            if (overwrite || !Directory.Exists(dataPath))
-                data.DownloadData();
+            data.DownloadData(overwrite);
 
             data.LoadData();
             return data;
@@ -75,17 +73,29 @@ namespace TimeZoneNames.DataBuilder
             LoadSelectionZones();
         }
 
-        private void DownloadData()
+        private void DownloadData(bool overwrite)
         {
-            if (Directory.Exists(_cldrPath))
-                Directory.Delete(_cldrPath, true);
+            Task.WaitAll(DownloadCldrAsync(overwrite), DownloadNzdAsync(overwrite));
+        }
 
-            if (Directory.Exists(_nzdPath))
-                Directory.Delete(_nzdPath, true);
+        private async Task DownloadCldrAsync(bool overwrite)
+        {
+            var exists = Directory.Exists(_cldrPath);
+            if (overwrite || !exists)
+            {
+                if (exists) Directory.Delete(_cldrPath, true);
+                await Downloader.DownloadCldrAsync(_cldrPath);
+            }
+        }
 
-            Task.WaitAll(
-                Downloader.DownloadCldrAsync(_cldrPath),
-                Downloader.DownloadNzdAsync(_nzdPath));
+        private async Task DownloadNzdAsync(bool overwrite)
+        {
+            var exists = Directory.Exists(_nzdPath);
+            if (overwrite || !exists)
+            {
+                if (exists) Directory.Delete(_nzdPath, true);
+                await Downloader.DownloadNzdAsync(_nzdPath);
+            }
         }
 
         private void LoadZoneCountries()
