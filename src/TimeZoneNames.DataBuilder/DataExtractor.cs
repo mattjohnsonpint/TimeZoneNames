@@ -211,15 +211,15 @@ namespace TimeZoneNames.DataBuilder
             var intervals = zone.GetZoneIntervals(start, end).ToList();
 
             var first = intervals.First();
-            if (first.Start == Instant.MinValue || first.Start < start)
+            if (!first.HasStart || first.Start < start)
             {
-                intervals[0] = new ZoneInterval(first.Name, start, first.End, first.WallOffset, first.Savings);
+                intervals[0] = new ZoneInterval(first.Name, start, first.HasEnd ? first.End : (Instant?) null, first.WallOffset, first.Savings);
             }
 
             var last = intervals.Last();
-            if (last.End == Instant.MaxValue || last.End > end)
+            if (!last.HasEnd || last.End > end)
             {
-                intervals[intervals.Count - 1] = new ZoneInterval(last.Name, last.Start, end, last.WallOffset, last.Savings);
+                intervals[intervals.Count - 1] = new ZoneInterval(last.Name, last.HasStart ? last.Start : (Instant?) null, end, last.WallOffset, last.Savings);
             }
 
             return intervals;
@@ -615,7 +615,7 @@ namespace TimeZoneNames.DataBuilder
         private IList<Instant> GetAllZoneSplitPoints()
         {
             var list = _tzdbProvider.Ids.SelectMany(
-                x => _tzdbProvider[x].GetZoneIntervals(Instant.MinValue, Future10).Select(y => y.Start))
+                x => _tzdbProvider[x].GetZoneIntervals(Instant.MinValue, Future10).Select(y => y.HasStart ? y.Start : Instant.MinValue))
                 .Distinct().OrderBy(x => x).ToList();
 
             list.Remove(Instant.MinValue);
