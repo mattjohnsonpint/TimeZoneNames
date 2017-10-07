@@ -10,10 +10,9 @@ namespace TimeZoneNames.DataBuilder
             var path = Path.Combine(AppContext.BaseDirectory, "data");
             var extractor = DataExtractor.Load(path, overwrite: false);
             extractor.SaveData(path);
-            
-            // Copy to PCL project for embedding
+
             var filePath = Path.Combine(path, "tz.dat");
-            File.Copy(filePath, @"..\..\..\TimeZoneNames\tz.dat", true);
+            File.Copy(filePath, @"..\TimeZoneNames\tz.dat", true);
         }
     }
 }
