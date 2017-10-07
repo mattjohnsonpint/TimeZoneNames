@@ -552,22 +552,6 @@ namespace TimeZoneNames.DataBuilder
             AddToLookup(_data.TzdbZoneCountries, "Europe/Belgrade", "XK");
             AddToLookup(_data.TzdbZoneCountries, "Indian/Chagos", "DG");
 
-            // Support UTC - Not in CLDR!
-            using (var file = File.OpenRead(@"data\utc.txt"))
-            using (var reader = new StreamReader(file))
-            {
-                while (!reader.EndOfStream)
-                {
-                    var line = reader.ReadLine();
-                    if (line == null)
-                        break;
-
-                    var parts = line.Split(',');
-                    if (parts.Length == 2)
-                        AddStandardGenericName(parts[0], "Etc/GMT", parts[1]);
-                }
-            }
-
             // Support localizations of cities for new zones not yet in CLDR
             using (var file = File.OpenRead(@"data\cities.txt"))
             using (var reader = new StreamReader(file))
