@@ -6,6 +6,9 @@ using System.Linq;
 
 namespace TimeZoneNames
 {
+    /// <summary>
+    /// Provides methods for getting localized names of time zones, and related functionality.
+    /// </summary>
     public static class TZNames
     {
         private static readonly TimeZoneData Data = TimeZoneData.Load();
@@ -13,11 +16,22 @@ namespace TimeZoneNames
         private static readonly ConcurrentDictionary<string, IComparer<string>> Comparers =
             new ConcurrentDictionary<string, IComparer<string>>(StringComparer.OrdinalIgnoreCase);
 
+        /// <summary>
+        /// Gets an array of IANA time zone identifiers for a specific country.
+        /// </summary>
+        /// <param name="countryCode">The two character ISO 3166 country code.</param>
+        /// <returns>An array of IANA time zone identifiers.</returns>
         public static string[] GetTimeZoneIdsForCountry(string countryCode)
         {
             return GetTimeZoneIdsForCountry(countryCode, DateTimeOffset.MinValue);
         }
 
+        /// <summary>
+        /// Gets an array of IANA time zone identifiers for a specific country.
+        /// </summary>
+        /// <param name="countryCode">The two character ISO 3166 country code.</param>
+        /// <param name="threshold">A point in time to filter to.  The resulting list will only contain zones that differ after this point.</param>
+        /// <returns>An array of IANA time zone identifiers.</returns>
         public static string[] GetTimeZoneIdsForCountry(string countryCode, DateTimeOffset threshold)
         {
             var zones = Data.TzdbZoneCountries
@@ -33,11 +47,26 @@ namespace TimeZoneNames
             return selectionZones.Length > 0 ? selectionZones : zones;
         }
 
+        /// <summary>
+        /// Gets an dictionary of IANA time zone identifiers and their corresponding localized display names, for a specific country.
+        /// The results are suitable to populate a user-facing time zone selection control.
+        /// </summary>
+        /// <param name="countryCode">The two character ISO 3166 country code.</param>
+        /// <param name="languageCode">The IETF language tag (culture code) to use when localizing the display names.</param>
+        /// <returns>A dictionary of IANA time zone identifiers and localized display names.</returns>
         public static IDictionary<string, string> GetTimeZonesForCountry(string countryCode, string languageCode)
         {
             return GetTimeZonesForCountry(countryCode, languageCode, DateTimeOffset.MinValue);
         }
 
+        /// <summary>
+        /// Gets an dictionary of IANA time zone identifiers and their corresponding localized display names, for a specific country.
+        /// The results are suitable to populate a user-facing time zone selection control.
+        /// </summary>
+        /// <param name="countryCode">The two character ISO 3166 country code.</param>
+        /// <param name="languageCode">The IETF language tag (culture code) to use when localizing the display names.</param>
+        /// <param name="threshold">A point in time to filter to.  The resulting list will only contain zones that differ after this point.</param>
+        /// <returns>A dictionary of IANA time zone identifiers and localized display names.</returns>
         public static IDictionary<string, string> GetTimeZonesForCountry(string countryCode, string languageCode, DateTimeOffset threshold)
         {
             var langKey = GetLanguageKey(languageCode);
@@ -65,6 +94,11 @@ namespace TimeZoneNames
             return results;
         }
 
+        /// <summary>
+        /// Gets a list of IANA time zone identifiers that represent a fixed offset from UTC, including UTC itself.
+        /// Note that time zones of the form Etc/GMT[+/-]n use an inverted sign from the usual conventions.
+        /// </summary>
+        /// <returns>A list of IANA time zone identifiers.</returns>
         public static IList<string> GetFixedTimeZoneIds()
         {
             var zones = new List<string>();
@@ -79,11 +113,25 @@ namespace TimeZoneNames
             return zones.ToArray();
         }
 
+        /// <summary>
+        /// Gets a dictionary of IANA time zone identifiers that represent a fixed offset from UTC, including UTC itself,
+        /// along with the corresponding localized display name.
+        /// Note that time zones of the form Etc/GMT[+/-]n use an inverted sign from the usual conventions.
+        /// </summary>
+        /// <param name="languageCode">The IETF language tag (culture code) to use when localizing the display names.</param>
+        /// <returns>A dictionary of IANA time zone identifiers and localized display names.</returns>
         public static IDictionary<string, string> GetFixedTimeZoneNames(string languageCode)
         {
             return GetFixedTimeZoneNames(languageCode, false);
         }
 
+        /// <summary>
+        /// Gets a dictionary of IANA time zone identifiers that represent a fixed offset from UTC, including UTC itself,
+        /// along with the corresponding abbreviation, localized when possible.
+        /// Note that time zones of the form Etc/GMT[+/-]n use an inverted sign from the usual conventions.
+        /// </summary>
+        /// <param name="languageCode">The IETF language tag (culture code) to use when localizing the abbreviations.</param>
+        /// <returns>A dictionary of IANA time zone identifiers and abbreviations.</returns>
         public static IDictionary<string, string> GetFixedTimeZoneAbbreviations(string languageCode)
         {
             return GetFixedTimeZoneNames(languageCode, true);
@@ -112,6 +160,12 @@ namespace TimeZoneNames
             return string.IsNullOrWhiteSpace(city) ? name : $"{name} ({city})";
         }
 
+        /// <summary>
+        /// Gets the localized names for a given IANA or Windows time zone identifier.
+        /// </summary>
+        /// <param name="timeZoneId">An IANA or Windows time zone identifier.</param>
+        /// <param name="languageCode">The IETF language tag (culture code) to use when localizing the display names.</param>
+        /// <returns>A <see cref="TimeZoneValues"/> object containing the localized generic, standard, and daylight names.</returns>
         public static TimeZoneValues GetNamesForTimeZone(string timeZoneId, string languageCode)
         {
             var langKey = GetLanguageKey(languageCode);
@@ -121,6 +175,12 @@ namespace TimeZoneNames
             return GetNames(timeZoneId, langKey, false);
         }
 
+        /// <summary>
+        /// Gets the abbreviations for a given IANA or Windows time zone identifier, localizing them when possible.
+        /// </summary>
+        /// <param name="timeZoneId">An IANA or Windows time zone identifier.</param>
+        /// <param name="languageCode">The IETF language tag (culture code) to use when localizing the abbreviations.</param>
+        /// <returns>A <see cref="TimeZoneValues"/> object containing the localized generic, standard, and daylight abbreviations.</returns>
         public static TimeZoneValues GetAbbreviationsForTimeZone(string timeZoneId, string languageCode)
         {
             var langKey = GetLanguageKey(languageCode);
@@ -130,6 +190,11 @@ namespace TimeZoneNames
             return GetNames(timeZoneId, langKey, true);
         }
 
+        /// <summary>
+        /// Gets a dictionary of ISO 3166 country codes and their corresponding localized names.
+        /// </summary>
+        /// <param name="languageCode">The IETF language tag (culture code) to use when localizing the country names.</param>
+        /// <returns>A dictionary of country codes and names.</returns>
         public static IDictionary<string, string> GetCountryNames(string languageCode)
         {
             var langKey = GetLanguageKey(languageCode);
@@ -152,6 +217,10 @@ namespace TimeZoneNames
                 .ToDictionary(x => x.Key, x => x.Value);
         }
 
+        /// <summary>
+        /// Gets a list of all language codes supported by this library.
+        /// </summary>
+        /// <returns>A list of language codes.</returns>
         public static ICollection<string> GetLanguageCodes()
         {
             return Data.CldrLanguageData.Keys.OrderBy(x => x).ToArray();
