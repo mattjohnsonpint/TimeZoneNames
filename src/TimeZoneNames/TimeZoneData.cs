@@ -55,15 +55,6 @@ namespace TimeZoneNames
         public Dictionary<string, string> CityNames { get; } = new Dictionary<string, string>();
     }
 
-    public class TimeZoneValues
-    {
-        public string Generic { get; set; }
-
-        public string Standard { get; set; }
-
-        public string Daylight { get; set; }
-    }
-
     internal class TimeZoneSelectionData
     {
         public string Id { get; set; }

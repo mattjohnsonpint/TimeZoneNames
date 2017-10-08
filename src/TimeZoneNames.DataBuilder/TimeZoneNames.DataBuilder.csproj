@@ -13,6 +13,7 @@
 
   <ItemGroup>
     <Compile Include="..\TimeZoneNames\TimeZoneData.cs" Link="TimeZoneData.cs" />
+    <Compile Include="..\TimeZoneNames\TimeZoneValues.cs" Link="TimeZoneValues.cs" />
   </ItemGroup>
 
   <ItemGroup>
