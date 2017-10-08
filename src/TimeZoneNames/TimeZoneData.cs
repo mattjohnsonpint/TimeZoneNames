@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Reflection;
+using System.Security;
 using ProtoBuf;
 
 namespace TimeZoneNames
@@ -32,6 +33,7 @@ namespace TimeZoneNames
         [ProtoMember(9)]
         public List<TimeZoneSelectionData> SelectionZones { get; } = new List<TimeZoneSelectionData>();
 
+        [SecuritySafeCritical]
         public static TimeZoneData Load()
         {
             var assembly = typeof(TimeZoneData).GetTypeInfo().Assembly;
