@@ -1,13 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using System.IO.Compression;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Xml.Linq;
 using System.Xml.XPath;
+using Newtonsoft.Json;
 using NodaTime;
 using NodaTime.TimeZones;
-using ProtoBuf;
 
 namespace TimeZoneNames.DataBuilder
 {
@@ -33,11 +34,14 @@ namespace TimeZoneNames.DataBuilder
             return data;
         }
 
-        public void SaveData(string outputPath)
+        public void SaveData(string outputFilePath)
         {
-            using (var stream = File.Create(Path.Combine(outputPath, "tz.dat")))
+            using (var stream = File.Create(outputFilePath))
+            using (var compressedStream = new GZipStream(stream, CompressionLevel.Optimal))
+            using (var writer = new StreamWriter(compressedStream))
             {
-                Serializer.Serialize(stream, _data);
+                var serializer = JsonSerializer.CreateDefault();
+                serializer.Serialize(writer, _data);
             }
         }
 

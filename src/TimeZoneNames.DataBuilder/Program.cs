@@ -9,10 +9,12 @@ namespace TimeZoneNames.DataBuilder
         {
             var path = Path.Combine(AppContext.BaseDirectory, "data");
             var extractor = DataExtractor.Load(path, overwrite: false);
-            extractor.SaveData(path);
 
-            var filePath = Path.Combine(path, "tz.dat");
-            File.Copy(filePath, @"..\TimeZoneNames\tz.dat", true);
+            var dataFileName = "data.json.gz";
+            var outputFilePath = Path.Combine(path, dataFileName);
+            extractor.SaveData(outputFilePath);
+
+            File.Copy(outputFilePath, $@"..\TimeZoneNames\{dataFileName}", true);
         }
     }
 }
