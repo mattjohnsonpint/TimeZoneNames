@@ -64,7 +64,7 @@ namespace TimeZoneNames
         public string Daylight { get; set; }
     }
 
-    public class TimeZoneSelectionData
+    internal class TimeZoneSelectionData
     {
         public string Id { get; set; }
 
