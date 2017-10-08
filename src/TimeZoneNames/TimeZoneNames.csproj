@@ -3,8 +3,8 @@
   <PropertyGroup>
     <Description>Provides localized time zone names.</Description>
     <Authors>Matt Johnson</Authors>
-    <TargetFrameworks>netstandard1.3;net45</TargetFrameworks>
-    <PackageTargetFallback>$(PackageTargetFallback);portable-win+net45+wp8+win81+wpa8</PackageTargetFallback>
+    <TargetFrameworks>netstandard1.1;net45</TargetFrameworks>
+    <PackageTargetFallback>portable-win+net45+wp8+win81+wpa8</PackageTargetFallback>
     <PackageId>TimeZoneNames</PackageId>
     <PackageTags>timezone;time;zone;time zone;iana;tzdb;olson;timezoneinfo;globalization;international;localization</PackageTags>
     <PackageProjectUrl>https://github.com/mj1856/TimeZoneNames</PackageProjectUrl>
@@ -31,7 +31,7 @@
     <PackageReference Include="System.Runtime.InteropServices.RuntimeInformation" Version="4.3.0" />
   </ItemGroup>
 
-  <ItemGroup Condition="'$(TargetFramework)'=='netstandard1.3'">
+  <ItemGroup Condition="'$(TargetFramework)'=='netstandard1.1'">
     <PackageReference Remove="NETStandard.Library" />
     <PackageReference Include="System.Collections" Version="4.3.0" />
     <PackageReference Include="System.Collections.Concurrent" Version="4.3.0" />
