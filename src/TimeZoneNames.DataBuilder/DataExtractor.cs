@@ -551,25 +551,6 @@ namespace TimeZoneNames.DataBuilder
             AddToLookup(_data.TzdbZoneCountries, "Atlantic/St_Helena", "TA");
             AddToLookup(_data.TzdbZoneCountries, "Europe/Belgrade", "XK");
             AddToLookup(_data.TzdbZoneCountries, "Indian/Chagos", "DG");
-
-            // Support localizations of cities for new zones not yet in CLDR
-            using (var file = File.OpenRead(@"data\cities.txt"))
-            using (var reader = new StreamReader(file))
-            {
-                while (!reader.EndOfStream)
-                {
-                    var line = reader.ReadLine();
-                    if (line == null)
-                        break;
-
-                    var parts = line.Split(',');
-                    if (parts.Length == 3)
-                    {
-                        var zone = _tzdbProvider.Ids.FirstOrDefault(x => x.EndsWith("/" + parts[0]));
-                        AddCityName(parts[1], zone, parts[2]);
-                    }
-                }
-            }
         }
 
         private void AddStandardGenericName(string language, string zone, string name)
@@ -579,21 +560,6 @@ namespace TimeZoneNames.DataBuilder
                 var langKey = NormalizeLangKey(language);
                 var values = new TimeZoneValues { Generic = name, Standard = name };
                 _data.CldrLanguageData[langKey].LongNames.Add(zone, values);
-            }
-            catch
-            {
-                Console.WriteLine("No CLDR data for language " + language);
-            }
-        }
-
-        private void AddCityName(string language, string zone, string name)
-        {
-            try
-            {
-                var langKey = NormalizeLangKey(language);
-                var cityNames = _data.CldrLanguageData[langKey].CityNames;
-                if (!cityNames.ContainsKey(zone))
-                    cityNames.Add(zone, name);
             }
             catch
             {
