@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
@@ -8,7 +9,9 @@ namespace TimeZoneNames
     public static class TZNames
     {
         private static readonly TimeZoneData Data = TimeZoneData.Load();
-        private static readonly IDictionary<string, IComparer<string>> Comparers = new Dictionary<string, IComparer<string>>();
+
+        private static readonly ConcurrentDictionary<string, IComparer<string>> Comparers =
+            new ConcurrentDictionary<string, IComparer<string>>(StringComparer.OrdinalIgnoreCase);
 
         public static string[] GetTimeZoneIdsForCountry(string countryCode)
         {
@@ -156,18 +159,11 @@ namespace TimeZoneNames
 
         private static IComparer<string> GetComparer(string langKey)
         {
-            lock (Comparers)
+            return Comparers.GetOrAdd(langKey, key =>
             {
-                IComparer<string> comparer;
-                if (Comparers.TryGetValue(langKey, out comparer))
-                    return comparer;
-
                 var culture = new CultureInfo(langKey.Replace('_', '-'));
-                comparer = new CultureAwareStringComparer(culture, CompareOptions.IgnoreCase);
-
-                Comparers.Add(langKey, comparer);
-                return comparer;
-            }
+                return new CultureAwareStringComparer(culture, CompareOptions.IgnoreCase);
+            });
         }
 
         private static string GetLanguageKey(string languageCode)

@@ -34,6 +34,7 @@
   <ItemGroup Condition="'$(TargetFramework)'=='netstandard1.3'">
     <PackageReference Remove="NETStandard.Library" />
     <PackageReference Include="System.Collections" Version="4.3.0" />
+    <PackageReference Include="System.Collections.Concurrent" Version="4.3.0" />
     <PackageReference Include="System.Reflection" Version="4.3.0" />
     <PackageReference Include="System.Runtime" Version="4.3.0" />
     <PackageReference Include="System.Runtime.Extensions" Version="4.3.0" />
