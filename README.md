@@ -1,7 +1,7 @@
 TimeZoneNames  [![NuGet Version](https://img.shields.io/nuget/v/TimeZoneNames.svg?style=flat)](https://www.nuget.org/packages/TimeZoneNames/) 
 =============
 
-A simple portable class library that provides localized time zone names using CLDR and TZDB sources.
+A simple library that provides localized time zone names using CLDR and TZDB sources.
 
 Why?  Because .NET's usual time zone display names are not localized properly, and are often wrong or unsuitable for various scenarios.
 Read [this blog post](http://codeofmatt.com/2014/12/26/localized-time-zone-names-in-net/) for more details.
@@ -12,10 +12,8 @@ Nuget Installation
 PM> Install-Package TimeZoneNames
 ```
 
-Notes
-=============================================================================
-Version 2.0 introduces some breaking changes, fills in some gaps, and adds a
-whole lot more functionality.  Please upgrade with care.  Thanks.
+This library is targeting .NET Standard 1.1, or .NET 4.5.
+See the [.NET Standard Platform Support Matrix](https://docs.microsoft.com/en-us/dotnet/articles/standard/library) for further details.
 
 Demo
 =============================================================================
