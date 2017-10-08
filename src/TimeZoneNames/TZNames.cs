@@ -198,8 +198,7 @@ namespace TimeZoneNames
 
         private static string GetCldrCanonicalId(string timeZoneId)
         {
-            string id;
-            return Data.CldrAliases.TryGetValue(timeZoneId.ToLowerInvariant(), out id) ? id : timeZoneId;
+            return Data.CldrAliases.TryGetValue(timeZoneId.ToLowerInvariant(), out var id) ? id : timeZoneId;
         }
 
         private static string GetCityName(string timeZoneId, string languageKey)
@@ -207,8 +206,7 @@ namespace TimeZoneNames
             while (languageKey != null)
             {
                 var data = Data.CldrLanguageData[languageKey];
-                string cityName;
-                if (data.CityNames.TryGetValue(timeZoneId, out cityName))
+                if (data.CityNames.TryGetValue(timeZoneId, out var cityName))
                     return cityName;
                 languageKey = GetLanguageSubkey(languageKey);
             }
@@ -242,8 +240,7 @@ namespace TimeZoneNames
             });
 
             var countries = new List<string>();
-            string[] c;
-            if (Data.CldrZoneCountries.TryGetValue(timeZoneId, out c))
+            if (Data.CldrZoneCountries.TryGetValue(timeZoneId, out var c))
                 countries.AddRange(c);
 
             if (Data.TzdbZoneCountries.TryGetValue(timeZoneId, out c))
@@ -375,8 +372,7 @@ namespace TimeZoneNames
 
         private static string GetMetazone(string timeZoneId)
         {
-            string metaZone;
-            return Data.CldrMetazones.TryGetValue(timeZoneId, out metaZone) ? metaZone : null;
+            return Data.CldrMetazones.TryGetValue(timeZoneId, out var metaZone) ? metaZone : null;
         }
 
         private static string ConvertWindowsToIana(string windowsId, string countryCode = null)
@@ -388,8 +384,7 @@ namespace TimeZoneNames
                 ? countryCode
                 : "001";
 
-            string ianaId;
-            return Data.CldrWindowsMappings[territory].TryGetValue(windowsId, out ianaId) ? ianaId : windowsId;
+            return Data.CldrWindowsMappings[territory].TryGetValue(windowsId, out var ianaId) ? ianaId : windowsId;
         }
 
         private static bool PopulateDirectValues(string langKey, TimeZoneValues values, string timeZoneId, string metaZone, bool abbreviations)

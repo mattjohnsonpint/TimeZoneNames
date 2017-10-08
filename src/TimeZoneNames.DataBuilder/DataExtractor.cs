@@ -334,8 +334,7 @@ namespace TimeZoneNames.DataBuilder
                     var timeZone = element.Attribute("type").Value.Split().First();
                     var territory = element.Attribute("territory").Value;
 
-                    Dictionary<string, string> mappings;
-                    if (!_data.CldrWindowsMappings.TryGetValue(territory, out mappings))
+                    if (!_data.CldrWindowsMappings.TryGetValue(territory, out var mappings))
                     {
                         mappings = new Dictionary<string, string>();
                         _data.CldrWindowsMappings.Add(territory, mappings);
@@ -415,14 +414,13 @@ namespace TimeZoneNames.DataBuilder
             if (formats.Count == 0)
                 return;
 
-            string s;
             var values = new TimeZoneValues();
-            if (formats.TryGetValue("generic", out s))
-                values.Generic = s;
-            if (formats.TryGetValue("standard", out s))
-                values.Standard = s;
-            if (formats.TryGetValue("daylight", out s))
-                values.Daylight = s;
+            if (formats.TryGetValue("generic", out var genericName))
+                values.Generic = genericName;
+            if (formats.TryGetValue("standard", out var standardName))
+                values.Standard = standardName;
+            if (formats.TryGetValue("daylight", out var daylightName))
+                values.Daylight = daylightName;
 
             var langData = GetLangData(language);
             langData.Formats = values;
@@ -476,8 +474,7 @@ namespace TimeZoneNames.DataBuilder
 
             lock (_locker)
             {
-                CldrLanguageData data;
-                if (!_data.CldrLanguageData.TryGetValue(language, out data))
+                if (!_data.CldrLanguageData.TryGetValue(language, out var data))
                 {
                     data = new CldrLanguageData();
                     _data.CldrLanguageData.Add(language, data);
@@ -578,8 +575,7 @@ namespace TimeZoneNames.DataBuilder
 
         private static void AddToLookup<TKey, TValue>(IDictionary<TKey, TValue[]> lookup, TKey key, TValue value)
         {
-            TValue[] items;
-            if (lookup.TryGetValue(key, out items))
+            if (lookup.TryGetValue(key, out var items))
             {
                 var temp = new TValue[items.Length + 1];
                 items.CopyTo(temp, 0);
