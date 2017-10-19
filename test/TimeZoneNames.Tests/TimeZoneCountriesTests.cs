@@ -44,7 +44,7 @@ namespace TimeZoneNames.Tests
             foreach (var zone in zones)
                 _output.WriteLine(zone);
 
-            Assert.Equal(1, zones.Length);
+            Assert.Single(zones);
 
             Assert.Equal("Europe/London", zones[0]);
         }
