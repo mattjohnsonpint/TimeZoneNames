@@ -3,8 +3,8 @@ using System.Globalization;
 
 namespace TimeZoneNames
 {
-    // This class is only necessary because StringComparer.Create isn't available in the version of .NET Standard we want to target.
-
+    // This class is only necessary because StringComparer.Create isn't available in .NET Standard 1.1.
+#if NETSTANDARD1_1
     internal class CultureAwareStringComparer : IComparer<string>
     {
         private readonly CompareOptions _options;
@@ -21,4 +21,5 @@ namespace TimeZoneNames
             return _compareInfo.Compare(x, y, _options);
         }
     }
+#endif
 }

@@ -231,7 +231,11 @@ namespace TimeZoneNames
             return Comparers.GetOrAdd(langKey, key =>
             {
                 var culture = new CultureInfo(langKey.Replace('_', '-'));
+#if NETSTANDARD1_1
                 return new CultureAwareStringComparer(culture, CompareOptions.IgnoreCase);
+#else
+                return StringComparer.Create(culture, true);
+#endif
             });
         }
 
