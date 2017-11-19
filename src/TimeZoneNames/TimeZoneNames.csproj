@@ -42,7 +42,7 @@
   </ItemGroup>
 
   <ItemGroup Condition="'$(TargetFramework)'=='net45'">
-    <PackageReference Include="Newtonsoft.Json" Version="5.0.5" />
+    <PackageReference Include="Newtonsoft.Json" Version="6.0.1" />
   </ItemGroup>
 
 </Project>
