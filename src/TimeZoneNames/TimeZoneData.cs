@@ -34,7 +34,7 @@ namespace TimeZoneNames
             using (var stream = new GZipStream(compressedStream, CompressionMode.Decompress))
             using (var reader = new StreamReader(stream))
             {
-                var serializer = JsonSerializer.CreateDefault();
+                var serializer = JsonSerializer.Create();
                 return (TimeZoneData)serializer.Deserialize(reader, typeof(TimeZoneData));
             }
         }
