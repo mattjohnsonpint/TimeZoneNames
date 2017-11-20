@@ -292,5 +292,16 @@ namespace TimeZoneNames.Tests
 
             Assert.Empty(errors);
         }
+
+        [Fact]
+        public void Can_Get_English_Names_For_Alias_Cuba()
+        {
+            var namesForZone = TZNames.GetNamesForTimeZone("America/Havana", "en-US");
+            var namesForAlias = TZNames.GetNamesForTimeZone("Cuba", "en-US");
+
+            Assert.Equal(namesForZone.Generic, namesForAlias.Generic);
+            Assert.Equal(namesForZone.Standard, namesForAlias.Standard);
+            Assert.Equal(namesForZone.Daylight, namesForAlias.Daylight);
+        }
     }
 }
