@@ -3,6 +3,7 @@ using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
+using TimeZoneConverter;
 
 namespace TimeZoneNames
 {
@@ -289,17 +290,15 @@ namespace TimeZoneNames
 
         private static TimeZoneValues GetNames(string timeZoneId, string languageKey, bool abbreviations)
         {
-            if (!timeZoneId.Contains("/"))
-                timeZoneId = ConvertWindowsToIana(timeZoneId);
+            if (TZConvert.KnownWindowsTimeZoneIds.Contains(timeZoneId, StringComparer.OrdinalIgnoreCase))
+                timeZoneId = TZConvert.WindowsToIana(timeZoneId);
 
             timeZoneId = GetCldrCanonicalId(timeZoneId);
             if (timeZoneId == null)
                 throw new ArgumentException("Invalid Time Zone", nameof(timeZoneId));
 
             if (abbreviations && timeZoneId == "Etc/GMT")
-            {
-                return new TimeZoneValues { Generic = "UTC", Standard = "UTC", Daylight = "UTC" };
-            }
+                return new TimeZoneValues {Generic = "UTC", Standard = "UTC", Daylight = "UTC"};
 
             var metaZone = GetMetazone(timeZoneId);
             var values = new TimeZoneValues();
@@ -446,18 +445,6 @@ namespace TimeZoneNames
         private static string GetMetazone(string timeZoneId)
         {
             return Data.CldrMetazones.TryGetValue(timeZoneId, out var metaZone) ? metaZone : null;
-        }
-
-        private static string ConvertWindowsToIana(string windowsId, string countryCode = null)
-        {
-            if (windowsId.Equals("UTC", StringComparison.OrdinalIgnoreCase))
-                return "Etc/UTC";
-
-            var territory = countryCode != null && Data.CldrWindowsMappings.ContainsKey(countryCode)
-                ? countryCode
-                : "001";
-
-            return Data.CldrWindowsMappings[territory].TryGetValue(windowsId, out var ianaId) ? ianaId : windowsId;
         }
 
         private static bool PopulateDirectValues(string langKey, TimeZoneValues values, string timeZoneId, string metaZone, bool abbreviations)

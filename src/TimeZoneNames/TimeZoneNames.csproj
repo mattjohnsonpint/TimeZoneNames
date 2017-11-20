@@ -45,4 +45,8 @@
     <PackageReference Include="Newtonsoft.Json" Version="6.0.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="TimeZoneConverter" Version="2.2.1" />
+  </ItemGroup>
+
 </Project>
