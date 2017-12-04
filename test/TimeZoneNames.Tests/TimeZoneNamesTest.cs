@@ -88,6 +88,16 @@ namespace TimeZoneNames.Tests
         }
 
         [Fact]
+        public void Can_Get_Abbreviations_For_Central_Europe()
+        {
+            var abbreviations = TZNames.GetAbbreviationsForTimeZone("Central European Standard Time", "en-US");
+
+            Assert.Equal("CET", abbreviations.Generic);
+            Assert.Equal("CET", abbreviations.Standard);
+            Assert.Equal("CEST", abbreviations.Daylight);
+        }
+
+        [Fact]
         public void Can_Get_Names_For_IE()
         {
             var names = TZNames.GetNamesForTimeZone("Europe/Dublin", "en-US");
