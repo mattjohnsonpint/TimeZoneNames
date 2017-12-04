@@ -338,7 +338,23 @@ namespace TimeZoneNames
                 if (values.Generic == null || values.Standard == null || values.Daylight == null)
                 {
                     b = PopulateDirectValues("en_" + country.ToLowerInvariant(), values, timeZoneId, metaZone, true);
-                    if (b) found = true;
+                    if (b)
+                    {
+                        found = true;
+                    }
+                    else
+                    {
+                        // really, try any variant of english
+                        foreach (var english in Data.CldrLanguageData.Keys.Where(x => x.StartsWith("en_")))
+                        {
+                            b = PopulateDirectValues(english, values, timeZoneId, metaZone, true);
+                            if (b)
+                            {
+                                found = true;
+                                break;
+                            }
+                        }
+                    }
                 }
             }
 
