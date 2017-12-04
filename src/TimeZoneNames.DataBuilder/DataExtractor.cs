@@ -65,7 +65,6 @@ namespace TimeZoneNames.DataBuilder
             {
                 LoadZoneCountries,
                 LoadZoneAliases,
-                LoadWindowsMappings,
                 LoadLanguages
             };
             Task.WhenAll(actions.Select(Task.Run)).Wait();
@@ -319,44 +318,6 @@ namespace TimeZoneNames.DataBuilder
             }
         }
 
-        private void LoadWindowsMappings()
-        {
-            LoadWindowsMappingsFromFile(_cldrPath + @"common\supplemental\windowsZones.xml");
-            LoadWindowsMappingsFromFile(@"data\windowsZones-override.xml");
-        }
-
-        private void LoadWindowsMappingsFromFile(string path)
-        {
-            using (var stream = File.OpenRead(path))
-            {
-                var doc = XDocument.Load(stream);
-
-                var mapZoneElements = doc.XPathSelectElements("/supplementalData/windowsZones/mapTimezones/mapZone");
-                foreach (var element in mapZoneElements)
-                {
-                    var windowsZone = element.Attribute("other").Value;
-                    var timeZone = element.Attribute("type").Value.Split().First();
-                    var territory = element.Attribute("territory").Value;
-
-                    if (!_data.CldrWindowsMappings.TryGetValue(territory, out var mappings))
-                    {
-                        mappings = new Dictionary<string, string>();
-                        _data.CldrWindowsMappings.Add(territory, mappings);
-                    }
-
-                    if (timeZone == string.Empty)
-                    {
-                        if (mappings.ContainsKey(windowsZone))
-                            mappings.Remove(windowsZone);
-                    }
-                    else
-                    {
-                        mappings.AddOrUpdate(windowsZone, timeZone);
-                    }
-                }
-            }
-        }
-
         private void LoadLanguages()
         {
             var languages = Directory.GetFiles(_cldrPath + @"common\main")
@@ -533,10 +494,6 @@ namespace TimeZoneNames.DataBuilder
             //    // remap to the root language
             //}
 
-            // Add additional mappings to support obsolete Windows time zone IDs
-            _data.CldrWindowsMappings["001"].Add("Mid-Atlantic Standard Time", "Etc/GMT+2");
-            _data.CldrWindowsMappings["001"].Add("Kamchatka Standard Time", "Asia/Kamchatka");
-
             // Support still-valid old-school ids that cldr doesn't recognize
             // See https://github.com/eggert/tz/blob/2015g/europe#L628-L634
             // Note, these are not quite perfect mappings, but good enough for naming purposes
@@ -552,29 +509,6 @@ namespace TimeZoneNames.DataBuilder
             AddToLookup(_data.TzdbZoneCountries, "Atlantic/St_Helena", "TA");
             AddToLookup(_data.TzdbZoneCountries, "Europe/Belgrade", "XK");
             AddToLookup(_data.TzdbZoneCountries, "Indian/Chagos", "DG");
-        }
-
-        private void AddStandardGenericName(string language, string zone, string name)
-        {
-            try
-            {
-                var langKey = NormalizeLangKey(language);
-                var values = new TimeZoneValues { Generic = name, Standard = name };
-                _data.CldrLanguageData[langKey].LongNames.Add(zone, values);
-            }
-            catch
-            {
-                Console.WriteLine("No CLDR data for language " + language);
-            }
-        }
-
-        private string NormalizeLangKey(string language)
-        {
-            var langKey = language.Replace("-", "_").ToLowerInvariant();
-            if (!_data.CldrLanguageData.ContainsKey(langKey))
-                langKey = langKey.Split('_')[0];
-
-            return langKey;
         }
 
         private static void AddToLookup<TKey, TValue>(IDictionary<TKey, TValue[]> lookup, TKey key, TValue value)

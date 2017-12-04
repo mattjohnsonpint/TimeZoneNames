@@ -22,8 +22,6 @@ namespace TimeZoneNames
 
         public Dictionary<string, CldrLanguageData> CldrLanguageData { get; } = new Dictionary<string, CldrLanguageData>();
 
-        public Dictionary<string, Dictionary<string, string>> CldrWindowsMappings { get; } = new Dictionary<string, Dictionary<string, string>>();
-
         public List<TimeZoneSelectionData> SelectionZones { get; } = new List<TimeZoneSelectionData>();
 
         [SecuritySafeCritical]
