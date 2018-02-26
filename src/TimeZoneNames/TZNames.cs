@@ -1,9 +1,12 @@
 ﻿using System;
-using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
 using TimeZoneConverter;
+
+#if !NET35
+using System.Collections.Concurrent;
+#endif
 
 namespace TimeZoneNames
 {
@@ -14,8 +17,15 @@ namespace TimeZoneNames
     {
         private static readonly TimeZoneData Data = TimeZoneData.Load();
 
+#if NET35
+        private static readonly Dictionary<string, IComparer<string>> Comparers =
+            new Dictionary<string, IComparer<string>>(StringComparer.OrdinalIgnoreCase);
+
+        private static readonly object SyncLock = new object();
+#else
         private static readonly ConcurrentDictionary<string, IComparer<string>> Comparers =
             new ConcurrentDictionary<string, IComparer<string>>(StringComparer.OrdinalIgnoreCase);
+#endif
 
         /// <summary>
         /// Gets an array of IANA time zone identifiers for a specific country.
@@ -158,7 +168,11 @@ namespace TimeZoneNames
 
         private static string AppendCity(this string name, string city)
         {
+#if NET35
+            return string.IsNullOrEmpty(city.Trim()) ? name : $"{name} ({city})";
+#else
             return string.IsNullOrWhiteSpace(city) ? name : $"{name} ({city})";
+#endif
         }
 
         /// <summary>
@@ -229,15 +243,38 @@ namespace TimeZoneNames
 
         private static IComparer<string> GetComparer(string langKey)
         {
+
+#if NET35
+            if (Comparers.TryGetValue(langKey, out var comparer))
+            {
+                return comparer;
+            }
+
+            lock (SyncLock)
+            {
+                if (!Comparers.TryGetValue(langKey, out comparer))
+                {
+                    var culture = new CultureInfo(langKey.Replace('_', '-'));
+                    comparer = StringComparer.Create(culture, true);
+                }
+
+                return comparer;
+            }
+
+#elif NETSTANDARD1_1
             return Comparers.GetOrAdd(langKey, key =>
             {
                 var culture = new CultureInfo(langKey.Replace('_', '-'));
-#if NETSTANDARD1_1
                 return new CultureAwareStringComparer(culture, CompareOptions.IgnoreCase);
-#else
-                return StringComparer.Create(culture, true);
-#endif
             });
+
+#else
+            return Comparers.GetOrAdd(langKey, key =>
+            {
+                var culture = new CultureInfo(langKey.Replace('_', '-'));
+                return StringComparer.Create(culture, true);
+            });
+#endif
         }
 
         private static string GetLanguageKey(string languageCode)

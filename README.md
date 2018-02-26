@@ -12,7 +12,7 @@ Nuget Installation
 PM> Install-Package TimeZoneNames
 ```
 
-This library is targeting .NET Standard 1.1+, .NET Standard 2.0+, and .NET Framework 4.5+.
+This library is targeting .NET Standard 2.0, 1.1, and .NET Framework 4.5, 4.0 and 3.5.
 See the [.NET Standard Platform Support Matrix](https://docs.microsoft.com/en-us/dotnet/articles/standard/library) for further details.
 
 Demo

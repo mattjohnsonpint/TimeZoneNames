@@ -27,7 +27,12 @@ namespace TimeZoneNames
         [SecuritySafeCritical]
         public static TimeZoneData Load()
         {
+
+#if NET35 || NET40
+            var assembly = typeof(TimeZoneData).Assembly;
+#else
             var assembly = typeof(TimeZoneData).GetTypeInfo().Assembly;
+#endif
             using (var compressedStream = assembly.GetManifestResourceStream($"{assembly.GetName().Name}.data.json.gz"))
             using (var stream = new GZipStream(compressedStream, CompressionMode.Decompress))
             using (var reader = new StreamReader(stream))
