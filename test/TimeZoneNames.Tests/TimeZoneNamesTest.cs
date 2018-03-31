@@ -313,5 +313,47 @@ namespace TimeZoneNames.Tests
             Assert.Equal(namesForZone.Standard, namesForAlias.Standard);
             Assert.Equal(namesForZone.Daylight, namesForAlias.Daylight);
         }
+
+        [Fact]
+        public void Can_Get_Ids_For_Pacific_Standard_Time_En_us()
+        {
+            IList<string> ids = TZNames.GetIdsForCldrName("Pacific Standard Time").ToList();
+            Assert.NotEmpty(ids);
+            Assert.Equal(6, ids.Count);
+            Assert.Contains("America/Los_Angeles", ids);
+            Assert.Contains("America/Dawson", ids);
+            Assert.Contains("America/Tijuana", ids);
+            Assert.Contains("America/Vancouver", ids);
+            Assert.Contains("PST8PDT", ids);
+            Assert.Contains("America/Whitehorse", ids);
+        }
+
+        [Fact]
+        public void Can_Get_Ids_For_Pacific_Standard_Time_Ast()
+        {
+            IList<string> ids = TZNames.GetIdsForCldrName("Hora estándar del Pacíficu norteamericanu").ToList();
+            Assert.NotEmpty(ids);
+            Assert.Equal(6, ids.Count);
+            Assert.Contains("America/Los_Angeles", ids);
+            Assert.Contains("America/Dawson", ids);
+            Assert.Contains("America/Tijuana", ids);
+            Assert.Contains("America/Vancouver", ids);
+            Assert.Contains("PST8PDT", ids);
+            Assert.Contains("America/Whitehorse", ids);
+        }
+
+        [Fact]
+        public void Can_Get_Ids_For_PDT_En_us()
+        {
+            IList<string> ids = TZNames.GetIdsForCldrName("PDT").ToList();
+            Assert.NotEmpty(ids);
+            Assert.Equal(6, ids.Count);
+            Assert.Contains("America/Los_Angeles", ids);
+            Assert.Contains("America/Dawson", ids);
+            Assert.Contains("America/Tijuana", ids);
+            Assert.Contains("America/Vancouver", ids);
+            Assert.Contains("PST8PDT", ids);
+            Assert.Contains("America/Whitehorse", ids);
+        }
     }
 }
