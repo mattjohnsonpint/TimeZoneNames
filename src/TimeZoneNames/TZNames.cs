@@ -530,5 +530,48 @@ namespace TimeZoneNames
 
             return found;
         }
+
+        /// <summary>
+        /// Gets an array of IANA timezone ids that match the given CLDR timezone name
+        /// </summary>
+        /// <param name="cldrName">A CLDR name in any localized form</param>
+        /// <returns>An array of IANA Timezone ids that match the given CLDR timezone name</returns>
+        public static string[] GetIdsForCldrName(string cldrName)
+        {
+            IList<string> matchKeys = new List<string>();
+            List<string> results = new List<string>();
+            Dictionary<string, CldrLanguageData> cldrLanguageData = Data.CldrLanguageData;
+            // Find the matching metazone names
+            foreach (string cldrDataKey in cldrLanguageData.Keys)
+            {
+                CldrLanguageData cldrData = cldrLanguageData[cldrDataKey];
+                //Check Longnames
+                Dictionary<string, TimeZoneValues> longTimeZoneNames = cldrData.LongNames;
+                FindMatchingTimeZones(cldrName, longTimeZoneNames, matchKeys);
+                // CheckShortNames
+                Dictionary<string, TimeZoneValues> shortTimeZoneNames = cldrData.ShortNames;
+                FindMatchingTimeZones(cldrName, shortTimeZoneNames, matchKeys);
+            }
+            foreach (string key in matchKeys.Distinct())
+            {
+                results.AddRange(Data.CldrMetazones.Where(kvp => kvp.Value == key).Select(item => item.Key));
+            }
+
+            return results.Distinct().ToArray();
+        }
+
+        private static void FindMatchingTimeZones(string cldrName, Dictionary<string, TimeZoneValues> timeZones, IList<string> matchKeys)
+        {
+            if(timeZones == null)
+                return;
+            foreach (string key in timeZones.Keys)
+            {
+                var name = timeZones[key];
+                if ((name?.Standard?.Equals(cldrName) ?? false) ||
+                    (name?.Daylight?.Equals(cldrName) ?? false)||
+                    (name?.Generic?.Equals(cldrName) ?? false))
+                    matchKeys.Add(key);
+            }
+        }
     }
 }
