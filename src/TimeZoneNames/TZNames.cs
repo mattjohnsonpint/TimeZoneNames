@@ -241,6 +241,46 @@ namespace TimeZoneNames
             return Data.CldrLanguageData.Keys.OrderBy(x => x).ToArray();
         }
 
+        /// <summary>
+        /// Gets the localized name of the country and city referenced by an IANA time zone identifier.
+        /// </summary>
+        /// <param name="timeZoneId">An IANA time zone identifier.  Windows identifiers are not supported.</param>
+        /// <param name="languageCode">The IETF language tag (culture code) to use when localizing the country names.</param>
+        /// <returns>Country and city names localized for the requested language.</returns>
+        public static TimeZoneLocationNames GetLocationNamesForTimeZone(string timeZoneId, string languageCode)
+        {
+            var langKey = GetLanguageKey(languageCode);
+            if (langKey == null)
+                throw new ArgumentException("Invalid Language Code", nameof(languageCode));
+
+            var cityName = GetCityName(timeZoneId, langKey);
+            var countries = new List<string>();
+            if (Data.TzdbZoneCountries.TryGetValue(timeZoneId, out var countryCodes))
+            {
+                foreach (var countryCode in countryCodes)
+                {
+                    while (langKey != null)
+                    {
+                        if (Data.CldrLanguageData.TryGetValue(langKey, out var langData))
+                        {
+                            if (langData.CountryNames.TryGetValue(countryCode, out var countryName))
+                            {
+                                countries.Add(countryName);
+                                break;
+                            }
+                        }
+                        langKey = GetLanguageSubkey(langKey);
+                    }
+                }
+            }
+            
+            return new TimeZoneLocationNames
+            {
+                Countries = countries.ToArray(),
+                City = cityName,
+            };
+        }
+
         private static IComparer<string> GetComparer(string langKey)
         {
 

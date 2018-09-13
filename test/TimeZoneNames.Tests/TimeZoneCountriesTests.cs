@@ -323,5 +323,42 @@ namespace TimeZoneNames.Tests
                 _output.WriteLine("");
             }
         }
+
+        [Fact]
+        public void Can_Get_Country_And_City_For_All_Zones_In_All_Countries()
+        {
+            var locale = "en-US";
+
+            var countries = TZNames.GetCountryNames(locale);
+            foreach (var country in countries)
+            {
+                _output.WriteLine("{0} : {1}", country.Key, country.Value);
+                _output.WriteLine("------------------------------------------------------------");
+                var zones = TZNames.GetTimeZoneIdsForCountry(country.Key);
+                foreach (var zone in zones)
+                {
+                    var names = TZNames.GetLocationNamesForTimeZone(zone, locale);
+                    _output.WriteLine($"{zone.PadRight(30)} {string.Join(",",names.Countries).PadRight(30)} {names.City.PadRight(30)}");
+                    Assert.Contains(country.Value, names.Countries);
+                }
+
+                _output.WriteLine("");
+            }
+        }
+
+        [Fact]
+        public void Can_Get_Country_And_City_For_All_Fixed_Zones()
+        {
+            var locale = "en-US";
+
+            var zones = TZNames.GetFixedTimeZoneIds();
+            foreach (var zone in zones)
+            {
+                var names = TZNames.GetLocationNamesForTimeZone(zone, locale);
+                _output.WriteLine($"{zone.PadRight(30)} {string.Join(",",names.Countries).PadRight(30)} {names.City.PadRight(30)}");
+            }
+
+            _output.WriteLine("");
+        }
     }
 }

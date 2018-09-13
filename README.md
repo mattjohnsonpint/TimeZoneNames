@@ -82,6 +82,49 @@ abbreviations.Daylight == "CEST"
 localized correctly for every time zone.  In most cases, you should use abbreviations
 for end-user display output only.  Do not attempt to use abbreviations when parsing input.
 
+### GetLocationNamesForTimeZone
+
+Get the countr(ies) and city name representative of an IANA time zone ID.  This can
+be useful when displaying a user interface showing a previously selected time zone,
+or allowing selection between two time zones that have the same name, when the
+selectable time zones are not based on a selected country.
+
+Note that a single time zone identifier may have multiple countries but will only
+have a single city; specifically, the one referred to within the IANA identifier itself.
+Note also that some time zones have _no_ representative countries; for example the
+adminstrative time zones (those starting with "Etc/").  These will return a an empty
+array for `Country` and a value for `City` which is derived from the time zone
+identifier.  In practice these time zones are not ambiguous and thus do not need
+additional country/city information.
+
+```csharp
+// These two time zones have the same name, so a user would have difficulty
+// selecting between them in a user interface.
+var tz1 = TZNames.GetNamesForTimeZone("America/Tijuana", "en-US");
+var tz2 = TZNames.GetNamesForTimeZone("America/Los_Angeles", "en-US");
+Assert.Equal(tz1.Generic, tz2.Generic); // "Pacific Time"
+
+// They can be differentiated for the user by showing the countr(ies)
+// and/or city associated with each one
+var loc1 = TZNames.GetLocationNamesForTimeZone("America/Tijuana", "en-US");
+var loc2 = TZNames.GetLocationNamesForTimeZone("America/Los_Angeles", "en-US");
+
+// An example of a time zone with multiple countries
+var loc3 = TZNames.GetLocationNamesForTimeZone("Atlantic/St_Helena", "en-US");
+
+// An example of a time zone with no countries
+var loc4 = TZNames.GetLocationNamesForTimeZone("Etc/UTC", "en-US");
+```
+*Output*
+
+Input               | Countries                                      | City
+--------------------|------------------------------------------------|----------
+America/Tijuana     | Mexico                                         | Tijuana
+America/Los_Angeles | United States                                  | Los Angeles
+Atlantic/St_Helena  | St. Helena, Ascension Island, Tristan da Cunha | St Helena
+Etc/UTC             | _[empty list]_                                 | UTC
+
+
 ## Methods for listing time zones
 
 ### GetTimeZonesForCountry
