@@ -12,8 +12,9 @@ Nuget Installation
 PM> Install-Package TimeZoneNames
 ```
 
-This library is targeting .NET Standard 2.0, 1.1, and .NET Framework 4.5, 4.0 and 3.5.
-See the [.NET Standard Platform Support Matrix](https://docs.microsoft.com/en-us/dotnet/articles/standard/library) for further details.
+This library should be compatible with .NET Standard 1.1 and greater, as well as .NET Framework 3.5 and greater.
+See the [.NET Standard Platform Support Matrix](https://docs.microsoft.com/en-us/dotnet/articles/standard/library) for further details about .NET Standard,
+and please raise an issue if you encounter any compatibility errors.
 
 Demo
 =============================================================================
