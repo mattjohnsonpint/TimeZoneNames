@@ -178,6 +178,16 @@ namespace TimeZoneNames.Tests
         //}
 
         [Fact]
+        public void Can_Get_Abbreviations_For_Sao_Tome()
+        {
+            var abbreviations = TZNames.GetAbbreviationsForTimeZone("Sao Tome Standard Time", "en-GB");
+
+            Assert.Equal("WAT", abbreviations.Generic);
+            Assert.Equal("WAT", abbreviations.Standard);
+            Assert.Equal("WAST", abbreviations.Daylight);
+        }
+
+        [Fact]
         public void Can_Get_Names_For_UTC()
         {
             var names = TZNames.GetNamesForTimeZone("UTC", "en-US");
