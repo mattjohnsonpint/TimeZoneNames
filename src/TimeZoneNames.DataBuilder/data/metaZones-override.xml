@@ -6,10 +6,21 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 For terms of use, see http://www.unicode.org/copyright.html
 -->
 <supplementalData>
-	<version number="$Revision$"/>
+  <version number="$Revision$"/>
 
-	<metaZones>
-		<metazoneInfo>
+  <metaZones>
+    <metazoneInfo>
+      <timezone type="America/Montreal">
+        <usesMetazone mzone="America_Eastern"/>
+      </timezone>
+      <timezone type="Asia/Barnaul">
+        <usesMetazone to="2016-03-26 20:00" mzone="Omsk"/>
+        <usesMetazone from="2016-03-26 20:00" mzone="Krasnoyarsk"/>
+      </timezone>
+      <timezone type="Asia/Srednekolymsk">
+        <usesMetazone to="2014-10-25 14:00" mzone="Magadan"/>
+        <usesMetazone from="2014-10-25 14:00" mzone="Srednekolymsk"/>
+      </timezone>
       <timezone type="Asia/Tomsk">
         <usesMetazone mzone="Tomsk"/>
       </timezone>
@@ -18,11 +29,16 @@ For terms of use, see http://www.unicode.org/copyright.html
         <usesMetazone from="1989-03-25 22:00" to="1992-03-28 22:00" mzone="Volgograd"/>
         <usesMetazone from="1992-03-28 22:00" mzone="Moscow"/>
       </timezone>
-		</metazoneInfo>
+      <timezone type="Europe/Saratov">
+        <usesMetazone to="2016-12-03 23:00" from="1992-03-28 22:00" mzone="Moscow"/>
+        <usesMetazone from="2016-12-03 23:00" mzone="Samara"/>
+      </timezone>
+    </metazoneInfo>
 
-		<mapTimezones type="metazones" typeVersion="2016e">
+    <mapTimezones type="metazones" typeVersion="2018e">
+      <mapZone other="Srednekolymsk" territory="001" type="Asia/Srednekolymsk"/>
       <mapZone other="Tomsk" territory="001" type="Asia/Tomsk"/>
-		</mapTimezones>
-	</metaZones>
+    </mapTimezones>
+  </metaZones>
 
 </supplementalData>
