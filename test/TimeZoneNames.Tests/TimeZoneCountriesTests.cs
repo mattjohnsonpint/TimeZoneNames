@@ -59,18 +59,17 @@ namespace TimeZoneNames.Tests
 
             var expected = new[]
             {
-                "Europe/Kaliningrad",
-                "Europe/Moscow",
-                "Europe/Volgograd",
-                "Europe/Samara",
-                "Asia/Yekaterinburg",
-                "Asia/Omsk",
-                "Asia/Novosibirsk",
-                "Asia/Irkutsk",
-                "Asia/Chita",
-                "Asia/Vladivostok",
-                "Asia/Sakhalin",
-                "Asia/Kamchatka"
+                "Europe/Kaliningrad",  // +02:00
+                "Europe/Moscow",       // +03:00
+                "Europe/Samara",       // +04:00
+                "Asia/Yekaterinburg",  // +05:00
+                "Asia/Omsk",           // +06:00
+                "Asia/Novosibirsk",    // +07:00
+                "Asia/Irkutsk",        // +08:00
+                "Asia/Chita",          // +09:00
+                "Asia/Vladivostok",    // +10:00
+                "Asia/Sakhalin",       // +11:00
+                "Asia/Kamchatka"       // +12:00
             };
 
             Assert.Equal(expected, zones);
