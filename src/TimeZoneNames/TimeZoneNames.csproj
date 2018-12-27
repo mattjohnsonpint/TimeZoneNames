@@ -10,8 +10,8 @@
     <PackageLicense>MIT</PackageLicense>
     <IncludeSource>True</IncludeSource>
     <IncludeSymbols>True</IncludeSymbols>
-    <Version>3.3.4</Version>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+    <Version>3.4.0</Version>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)' == 'Release'">
