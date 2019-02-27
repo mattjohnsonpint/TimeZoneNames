@@ -221,12 +221,44 @@ TODO: Add examples for this method.
 
 Gets a localized list of country names, suitable for selecting a country before
 selecting a time zone in a two-dropdown time zone selection control.
+```csharp
+var countries = TZNames.GetCountryNames("en-GB");
+```
 
-TODO: Add examples for this method.
+*Output*
+
+Key   | Value
+------|--------------------------
+AF    | Afghanistan
+AX    | Åland Islands
+AL    | Albania
+..    | ...
+YE    | Yemen
+ZM    | Zambia
+ZW    | Zimbabwe
+
 
 ### GetLanguageCodes
 
 Gets a list of all language codes supported by this library.  Useful for testing
 and validation.
+```csharp
+var languages = TZNames.GetLanguageCodes();
+```
 
-TODO: Add examples for this method.
+*Output*
+```
+af
+agq
+ak
+am
+ar
+ar_ae
+...
+zgh
+zh
+zh_hans_sg
+zh_hant
+zh_hant_hk
+zu
+```
