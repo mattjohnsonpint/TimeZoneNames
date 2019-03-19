@@ -20,6 +20,8 @@
 
   <PropertyGroup>
     <DocumentationFile>bin\$(Configuration)\$(TargetFramework)\TimeZoneNames.xml</DocumentationFile>
+    <AssemblyOriginatorKeyFile>mj1856_oss.snk</AssemblyOriginatorKeyFile>
+    <SignAssembly>true</SignAssembly>
   </PropertyGroup>
 
   <ItemGroup>
