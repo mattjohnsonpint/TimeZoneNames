@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Description>Provides localized time zone names.</Description>
     <Authors>Matt Johnson</Authors>
-    <TargetFrameworks>netstandard2.0;netstandard1.1;net45;net40;net35</TargetFrameworks>
+    <TargetFrameworks>netstandard2.0;netstandard1.1;net471;net461;net45;net40;net35</TargetFrameworks>
     <PackageId>TimeZoneNames</PackageId>
     <PackageTags>timezone;time;zone;time zone;iana;tzdb;olson;timezoneinfo;globalization;international;localization</PackageTags>
     <PackageProjectUrl>https://github.com/mj1856/TimeZoneNames</PackageProjectUrl>
@@ -39,6 +39,10 @@
     <PackageReference Include="System.Runtime.Extensions" Version="4.3.0" />
     <PackageReference Include="System.Runtime.InteropServices.RuntimeInformation" Version="4.3.0" />
     <PackageReference Include="System.IO.Compression" Version="4.3.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="9.0.1" />
+  </ItemGroup>
+
+  <ItemGroup Condition="'$(TargetFramework)'=='net461' Or '$(TargetFramework)'=='net471'">
     <PackageReference Include="Newtonsoft.Json" Version="9.0.1" />
   </ItemGroup>
 
