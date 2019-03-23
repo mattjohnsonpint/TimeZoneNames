@@ -12,17 +12,17 @@ namespace TimeZoneNames.DataBuilder
 
         public static async Task DownloadCldrAsync(string dir)
         {
-            const string url = "http://unicode.org/Public/cldr/latest/core.zip";
+            const string url = "https://unicode.org/Public/cldr/latest/core.zip";
             await DownloadAndExtractAsync(url, dir);
 
             // use the trunk metazones, as they tend to be more frequently updated
-            const string url2 = "http://unicode.org/repos/cldr/trunk/common/supplemental/metaZones.xml";
+            const string url2 = "https://unicode.org/repos/cldr/trunk/common/supplemental/metaZones.xml";
             await DownloadAsync(url2, Path.Combine(dir, @"common\supplemental"));
         }
 
         public static async Task DownloadNzdAsync(string dir)
         {
-            const string url = "http://nodatime.org/tzdb/latest.txt";
+            const string url = "https://nodatime.org/tzdb/latest.txt";
             using (var result = await HttpClientInstance.GetAsync(url))
             {
                 var dataUrl = (await result.Content.ReadAsStringAsync()).TrimEnd();
