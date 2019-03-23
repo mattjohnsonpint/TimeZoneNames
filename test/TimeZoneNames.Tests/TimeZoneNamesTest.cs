@@ -182,9 +182,9 @@ namespace TimeZoneNames.Tests
         {
             var abbreviations = TZNames.GetAbbreviationsForTimeZone("Sao Tome Standard Time", "en-GB");
 
-            Assert.Equal("WAT", abbreviations.Generic);
-            Assert.Equal("WAT", abbreviations.Standard);
-            Assert.Equal("WAST", abbreviations.Daylight);
+            Assert.Equal("GMT", abbreviations.Generic);
+            Assert.Equal("GMT", abbreviations.Standard);
+            Assert.Equal("GMT", abbreviations.Daylight);
         }
 
         [Fact]
