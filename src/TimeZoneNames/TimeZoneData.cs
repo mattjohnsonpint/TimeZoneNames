@@ -10,19 +10,21 @@ namespace TimeZoneNames
 {
     internal class TimeZoneData
     {
-        public Dictionary<string, string[]> TzdbZoneCountries { get; } = new Dictionary<string, string[]>();
+        public Dictionary<string, string[]> TzdbZoneCountries { get; } = new Dictionary<string, string[]>(StringComparer.OrdinalIgnoreCase);
 
-        public Dictionary<string, string[]> CldrZoneCountries { get; } = new Dictionary<string, string[]>();
+        public Dictionary<string, string[]> CldrZoneCountries { get; } = new Dictionary<string, string[]>(StringComparer.OrdinalIgnoreCase);
 
-        public Dictionary<string, string> CldrMetazones { get; } = new Dictionary<string, string>();
+        public Dictionary<string, string> CldrMetazones { get; } = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase);
 
-        public Dictionary<string, string> CldrPrimaryZones { get; } = new Dictionary<string, string>();
+        public Dictionary<string, string> CldrPrimaryZones { get; } = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase);
 
-        public Dictionary<string, string> CldrAliases { get; } = new Dictionary<string, string>();
+        public Dictionary<string, string> CldrAliases { get; } = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase);
 
-        public Dictionary<string, CldrLanguageData> CldrLanguageData { get; } = new Dictionary<string, CldrLanguageData>();
+        public Dictionary<string, CldrLanguageData> CldrLanguageData { get; } = new Dictionary<string, CldrLanguageData>(StringComparer.OrdinalIgnoreCase);
 
         public List<TimeZoneSelectionData> SelectionZones { get; } = new List<TimeZoneSelectionData>();
+
+        public Dictionary<string, Dictionary<string, string>> DisplayNames = new Dictionary<string, Dictionary<string, string>>(StringComparer.OrdinalIgnoreCase);
 
         [SecuritySafeCritical]
         public static TimeZoneData Load()
@@ -49,13 +51,13 @@ namespace TimeZoneNames
 
         public string FallbackFormat { get; set; }
 
-        public Dictionary<string, TimeZoneValues> ShortNames { get; } = new Dictionary<string, TimeZoneValues>();
+        public Dictionary<string, TimeZoneValues> ShortNames { get; } = new Dictionary<string, TimeZoneValues>(StringComparer.OrdinalIgnoreCase);
 
-        public Dictionary<string, TimeZoneValues> LongNames { get; } = new Dictionary<string, TimeZoneValues>();
+        public Dictionary<string, TimeZoneValues> LongNames { get; } = new Dictionary<string, TimeZoneValues>(StringComparer.OrdinalIgnoreCase);
 
-        public Dictionary<string, string> CountryNames { get; } = new Dictionary<string, string>();
+        public Dictionary<string, string> CountryNames { get; } = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase);
 
-        public Dictionary<string, string> CityNames { get; } = new Dictionary<string, string>();
+        public Dictionary<string, string> CityNames { get; } = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase);
     }
 
     internal class TimeZoneSelectionData

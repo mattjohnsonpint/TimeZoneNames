@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using System.Xml.Linq;
 using System.Xml.XPath;
 using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
 using NodaTime;
 using NodaTime.TimeZones;
 
@@ -16,6 +17,7 @@ namespace TimeZoneNames.DataBuilder
     {
         private readonly string _cldrPath;
         private readonly string _nzdPath;
+        private readonly string _tzresPath;
 
         private readonly TimeZoneData _data = new TimeZoneData();
 
@@ -23,6 +25,7 @@ namespace TimeZoneNames.DataBuilder
         {
             _cldrPath = Path.Combine(dataPath, "cldr") + "\\";
             _nzdPath = Path.Combine(dataPath, "nzd") + "\\";
+            _tzresPath = Path.Combine(dataPath, "tzres") + "\\";
         }
 
         public static DataExtractor Load(string dataPath, bool overwrite)
@@ -65,7 +68,8 @@ namespace TimeZoneNames.DataBuilder
             {
                 LoadZoneCountries,
                 LoadZoneAliases,
-                LoadLanguages
+                LoadLanguages,
+                LoadDisplayNames
             };
             Task.WhenAll(actions.Select(Task.Run)).Wait();
 
@@ -78,7 +82,10 @@ namespace TimeZoneNames.DataBuilder
 
         private void DownloadData(bool overwrite)
         {
-            Task.WaitAll(DownloadCldrAsync(overwrite), DownloadNzdAsync(overwrite));
+            Task.WaitAll(
+                DownloadCldrAsync(overwrite),
+                DownloadNzdAsync(overwrite),
+                DownloadTZResAsync(overwrite));
         }
 
         private async Task DownloadCldrAsync(bool overwrite)
@@ -98,6 +105,16 @@ namespace TimeZoneNames.DataBuilder
             {
                 if (exists) Directory.Delete(_nzdPath, true);
                 await Downloader.DownloadNzdAsync(_nzdPath);
+            }
+        }
+
+        private async Task DownloadTZResAsync(bool overwrite)
+        {
+            var exists = Directory.Exists(_tzresPath);
+            if (overwrite || !exists)
+            {
+                if (exists) Directory.Delete(_tzresPath, true);
+                await Downloader.DownloadTZResAsync(_tzresPath);
             }
         }
 
@@ -469,6 +486,21 @@ namespace TimeZoneNames.DataBuilder
                 values.Daylight = daylightElement.Value;
 
             return values;
+        }
+
+        private void LoadDisplayNames()
+        {
+            using (var textReader = File.OpenText(_tzresPath + "tzinfo.json"))
+            using (var jsonReader = new JsonTextReader(textReader))
+            {
+                var data = JObject.Load(jsonReader);
+                foreach (var item in data["Languages"])
+                {
+                    var locale = item.Value<string>("Locale").Replace("-", "_");
+                    var timeZones = item["TimeZones"].ToObject<Dictionary<string, string>>();
+                    _data.DisplayNames.Add(locale, timeZones);
+                }
+            }
         }
 
         private void PatchData()

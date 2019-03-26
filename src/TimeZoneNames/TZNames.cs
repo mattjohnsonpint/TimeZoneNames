@@ -91,7 +91,7 @@ namespace TimeZoneNames
                     Id = x,
                     Name = GetNames(x, langKey, false).Generic
                 })
-                .ToDictionary(x => x.Id, x => x.Name);
+                .ToDictionary(x => x.Id, x => x.Name, StringComparer.OrdinalIgnoreCase);
 
             // Append city names only when needed to differentiate zones with the same name
             foreach (var group in results.GroupBy(x => x.Value).Where(x => x.Count() > 1).ToArray())
@@ -161,7 +161,7 @@ namespace TimeZoneNames
                     Id = x,
                     Name = GetNames(x, langKey, abbreviations).Generic
                 })
-                .ToDictionary(x => x.Id, x => x.Name);
+                .ToDictionary(x => x.Id, x => x.Name, StringComparer.OrdinalIgnoreCase);
 
             return results;
         }
@@ -229,8 +229,60 @@ namespace TimeZoneNames
             }
 
             return results.OrderBy(x => x.Value, comparer)
-                .ToDictionary(x => x.Key, x => x.Value);
+                .ToDictionary(x => x.Key, x => x.Value, StringComparer.OrdinalIgnoreCase);
         }
+
+        /// <summary>
+        /// Gets the localized names for a given IANA or Windows time zone identifier.
+        /// </summary>
+        /// <param name="timeZoneId">An IANA or Windows time zone identifier.</param>
+        /// <param name="languageCode">The IETF language tag (culture code) to use when localizing the display names.</param>
+        /// <returns>A display name associated with this time zone.</returns>
+        public static string GetDisplayNameForTimeZone(string timeZoneId, string languageCode)
+        {
+            var langKey = GetLanguageKey(languageCode, true);
+            if (langKey == null)
+                throw new ArgumentException("Invalid Language Code", nameof(languageCode));
+
+            var displayNames = Data.DisplayNames[langKey];
+
+            if (displayNames.TryGetValue(timeZoneId, out var displayName))
+                return displayName;
+
+            timeZoneId = TZConvert.IanaToWindows(timeZoneId);
+            if (displayNames.TryGetValue(timeZoneId, out displayName))
+                return displayName;
+
+            return null;
+        }
+
+        /// <summary>
+        /// Get display names suitable for use in a single drop-down list to select a time zone.
+        /// </summary>
+        /// <param name="languageCode">The IETF language tag (culture code) to use when localizing the display names.</param>
+        /// <param name="useIanaZoneIds"><c>true</c> to use IANA time zone keys, otherwise uses Windows time zone keys.</param>
+        /// <returns>A dictionary where the key is the time zone id, and the name is the localized display name.</returns>
+        public static IDictionary<string, string> GetDisplayNames(string languageCode, bool useIanaZoneIds = false)
+        {
+            var langKey = GetLanguageKey(languageCode, true);
+            if (langKey == null)
+                throw new ArgumentException("Invalid Language Code", nameof(languageCode));
+
+            var displayNames = Data.DisplayNames[langKey];
+
+            if (!useIanaZoneIds)
+                return displayNames;
+
+            // Remove obsolete zones before mapping
+            displayNames.Remove("Mid-Atlantic Standard Time");
+            displayNames.Remove("Kamchatka Standard Time");
+
+            var languageCodeParts = languageCode.Split('_', '-');
+            var territoryCode = languageCodeParts.Length < 2 ? "001" : languageCodeParts[1];
+            return displayNames.ToDictionary(x => TZConvert.WindowsToIana(x.Key, territoryCode), x => x.Value, StringComparer.OrdinalIgnoreCase);
+        }
+
+
 
         /// <summary>
         /// Gets a list of all language codes supported by this library.
@@ -277,15 +329,32 @@ namespace TimeZoneNames
 #endif
         }
 
-        private static string GetLanguageKey(string languageCode)
+        private static string GetLanguageKey(string languageCode, bool forDisplayNames = false)
         {
             var key = languageCode.ToLowerInvariant().Replace('-', '_');
             while (true)
             {
-                if (Data.CldrLanguageData.ContainsKey(key))
-                    return key;
+                if (forDisplayNames)
+                {
+                    if (Data.DisplayNames.ContainsKey(key))
+                        return key;
+                }
+                else
+                {
+                    if (Data.CldrLanguageData.ContainsKey(key))
+                        return key;
+                }
 
                 key = GetLanguageSubkey(key);
+
+                if (key == null)
+                {
+                    var keys = forDisplayNames ? (IEnumerable<string>)Data.DisplayNames.Keys : Data.CldrLanguageData.Keys;
+                    key = keys.FirstOrDefault(x => x.Split('_')[0].Equals(languageCode, StringComparison.OrdinalIgnoreCase));
+
+                    if (key == null)
+                        throw new Exception("Could not find a language with code " + languageCode);
+                }
             }
         }
 

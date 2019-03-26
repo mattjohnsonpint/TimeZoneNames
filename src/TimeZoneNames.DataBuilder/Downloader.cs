@@ -30,6 +30,12 @@ namespace TimeZoneNames.DataBuilder
             }
         }
 
+        public static async Task DownloadTZResAsync(string dir)
+        {
+            const string url = "https://raw.githubusercontent.com/tomkludy/TimeZoneWindowsResourceExtractor/master/TZResScraper/tzinfo.json";
+            await DownloadAsync(url, dir);
+        }
+
         private static async Task DownloadAsync(string url, string dir)
         {
             if (!Directory.Exists(dir))
