@@ -85,9 +85,41 @@ for end-user display output only.  Do not attempt to use abbreviations when pars
 
 ## Methods for listing time zones
 
+### GetDisplayNames
+
+Gets a dictionary of string/string pairs of time zones, where the key is a time zone identifier,
+and the value is the localized name of the time zone, as given by the Windows language pack for
+the specified language and locale.
+
+This is useful because the values returned by `TimeZoneInfo.DisplayName` are only localized by the
+_operating system's_ language, whereas `TZNames.GetDisplayNames` will work with any supported language.
+
+```csharp
+var displayNames = TZNames.GetDisplayNames("fr-CA");
+```
+*Output*
+Key                            | Value
+-------------------------------|--------------------------
+Dateline Standard Time         | (UTC-12:00) Ligne de date internationale (Ouest)
+UTC-11                         | (UTC-11:00) Temps universel coordonné-11
+Aleutian Standard Time         | (UTC-10:00) Îles Aléoutiennes
+Hawaiian Standard Time         | (UTC-10:00) Hawaii
+Marquesas Standard Time        | (UTC-09:30) Îles Marquises
+Alaskan Standard Time          | (UTC-09:00) Alaska
+UTC-09                         | (UTC-09:00) Temps universel coordonné-09
+Pacific Standard Time (Mexico) | (UTC-08:00) Basse Californie
+UTC-08                         | (UTC-08:00) Temps universel coordonné-08
+Pacific Standard Time          | (UTC-08:00) Pacifique (É.-U. et Canada)
+...                            | ...
+
+Optionally, you can pass `true` as a second parameter to return IANA time zone IDs as the keys,
+though the list will still be limited to valid Windows time zones.  When doing so, if there is a
+country code in the locale (eg. the `CA` in `fr-CA`) that code will be used as the territory code
+in the Windows to IANA mapping.
+
 ### GetTimeZonesForCountry
 
-Get a list of time zone names for a specific country, suitable for user time zone
+Gets a list of time zone names for a specific country, suitable for user time zone
 selection.
 
 Returns a dictionary whose key is the IANA time zone identifier, and whose value
@@ -216,6 +248,18 @@ Gets the same list of zones as `GetFixedTimeZoneIds`, but includes localized abb
 TODO: Add examples for this method.
 
 ## Additional supporting methods
+
+### GetDisplayNameForTimeZone
+
+```csharp
+string displayName = TZNames.GetDisplayNameForTimeZone("America/Vancouver", "fr");
+// => "(UTC-08:00) Pacifique (É.-U. et Canada)"
+```
+
+```csharp
+string displayName = TZNames.GetDisplayNameForTimeZone("India Standard Time", "zh-CN");
+// => "(UTC+05:30) 钦奈，加尔各答，孟买，新德里"
+```
 
 ### GetCountryNames
 
