@@ -306,3 +306,10 @@ zh_hant
 zh_hant_hk
 zu
 ```
+
+Acknowledgements
+=============================================================================
+
+Many thanks to Tom Kludy, who helped figure out how to extract localized display names from Windows language packs.
+This library uses output from his [TimeZoneWindowsResourceExtractor](https://github.com/tomkludy/TimeZoneWindowsResourceExtractor)
+to enable the `GetDisplayNames` and `GetDisplayNameForTimeZone` methods.
