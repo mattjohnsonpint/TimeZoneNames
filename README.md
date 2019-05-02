@@ -4,7 +4,7 @@ TimeZoneNames  [![NuGet Version](https://img.shields.io/nuget/v/TimeZoneNames.sv
 A simple library that provides localized time zone names using CLDR and TZDB sources.
 
 Why?  Because .NET's usual time zone display names are not localized properly, and are often wrong or unsuitable for various scenarios.
-Read [this blog post](http://codeofmatt.com/2014/12/26/localized-time-zone-names-in-net/) for more details.
+Read [this blog post](https://codeofmatt.com/localized-time-zone-names-in-net/) for more details.
 
 Nuget Installation
 =============================================================================
@@ -19,7 +19,7 @@ and please raise an issue if you encounter any compatibility errors.
 Demo
 =============================================================================
 One possible scenario for this library is to build a localized time zone selection control.
-[Click here for a live demonstration](http://timezonepickerdemo.azurewebsites.net/).
+[Click here for a live demonstration](https://timezonepickerdemo.azurewebsites.net/).
 
 Usage
 =============================================================================
@@ -98,6 +98,7 @@ _operating system's_ language, whereas `TZNames.GetDisplayNames` will work with 
 var displayNames = TZNames.GetDisplayNames("fr-CA");
 ```
 *Output*
+
 Key                            | Value
 -------------------------------|--------------------------
 Dateline Standard Time         | (UTC-12:00) Ligne de date internationale (Ouest)
