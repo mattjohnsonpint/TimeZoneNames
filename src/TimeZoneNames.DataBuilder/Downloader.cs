@@ -16,8 +16,8 @@ namespace TimeZoneNames.DataBuilder
             const string url = "https://unicode.org/Public/cldr/latest/core.zip";
             await DownloadAndExtractAsync(url, dir);
 
-            // use the trunk metazones, as they tend to be more frequently updated
-            const string url2 = "https://unicode.org/repos/cldr/trunk/common/supplemental/metaZones.xml";
+            // use the latest dev version of the metazones, as they tend to be more frequently updated
+            const string url2 = "https://raw.githubusercontent.com/unicode-org/cldr/master/common/supplemental/metaZones.xml";
             await DownloadAsync(url2, Path.Combine(dir, @"common\supplemental"));
         }
 
