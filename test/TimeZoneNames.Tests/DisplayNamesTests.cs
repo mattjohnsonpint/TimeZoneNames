@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
 using TimeZoneConverter;
@@ -19,11 +20,11 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_DisplayNames_For_English()
         {
-            var displayNames = TZNames.GetDisplayNames("en");
+            IDictionary<string, string> displayNames = TZNames.GetDisplayNames("en");
 
-            foreach (var item in displayNames)
+            foreach ((string key, string value) in displayNames)
             {
-                _output.WriteLine($"{item.Key} = {item.Value}");
+                _output.WriteLine($"{key} = {value}");
             }
 
             Assert.NotEmpty(displayNames);
@@ -32,9 +33,9 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_DisplayNames_For_OS_Culture()
         {
-            var languageCode = CultureInfo.InstalledUICulture.IetfLanguageTag;
+            string languageCode = CultureInfo.InstalledUICulture.IetfLanguageTag;
 
-            var displayNames = TZNames.GetDisplayNames(languageCode);
+            IDictionary<string, string> displayNames = TZNames.GetDisplayNames(languageCode);
 
             var expected = TimeZoneInfo.GetSystemTimeZones().ToDictionary(x => x.Id, x => x.DisplayName);
 
@@ -44,12 +45,12 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_DisplayNames_For_French_Canada_With_Windows_Ids()
         {
-            var displayNames = TZNames.GetDisplayNames("fr-CA");
+            IDictionary<string, string> displayNames = TZNames.GetDisplayNames("fr-CA");
 
-            var pacific = displayNames["Pacific Standard Time"];
-            var mountain = displayNames["Mountain Standard Time"];
-            var central = displayNames["Central Standard Time"];
-            var eastern = displayNames["Eastern Standard Time"];
+            string pacific = displayNames["Pacific Standard Time"];
+            string mountain = displayNames["Mountain Standard Time"];
+            string central = displayNames["Central Standard Time"];
+            string eastern = displayNames["Eastern Standard Time"];
 
             Assert.Equal("(UTC-08:00) Pacifique (É.-U. et Canada)", pacific);
             Assert.Equal("(UTC-07:00) Montagnes Rocheuses (É.-U. et Canada)", mountain);
@@ -60,12 +61,12 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_DisplayNames_For_French_Canada_With_IANA_Ids()
         {
-            var displayNames = TZNames.GetDisplayNames("fr-CA", true);
+            IDictionary<string, string> displayNames = TZNames.GetDisplayNames("fr-CA", true);
 
-            var pacific = displayNames["America/Vancouver"];
-            var mountain = displayNames["America/Edmonton"];
-            var central = displayNames["America/Winnipeg"];
-            var eastern = displayNames["America/Toronto"];
+            string pacific = displayNames["America/Vancouver"];
+            string mountain = displayNames["America/Edmonton"];
+            string central = displayNames["America/Winnipeg"];
+            string eastern = displayNames["America/Toronto"];
 
             Assert.Equal("(UTC-08:00) Pacifique (É.-U. et Canada)", pacific);
             Assert.Equal("(UTC-07:00) Montagnes Rocheuses (É.-U. et Canada)", mountain);
@@ -76,9 +77,9 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_DisplayName_For_Every_Windows_Zone()
         {
-            foreach (var id in TZConvert.KnownWindowsTimeZoneIds)
+            foreach (string id in TZConvert.KnownWindowsTimeZoneIds)
             {
-                var displayName = TZNames.GetDisplayNameForTimeZone(id, "en");
+                string displayName = TZNames.GetDisplayNameForTimeZone(id, "en");
                 Assert.NotNull(displayName);
             }
         }
@@ -86,9 +87,9 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_DisplayName_For_Every_IANA_Zone()
         {
-            foreach (var id in TZConvert.KnownIanaTimeZoneNames)
+            foreach (string id in TZConvert.KnownIanaTimeZoneNames)
             {
-                var displayName = TZNames.GetDisplayNameForTimeZone(id, "en");
+                string displayName = TZNames.GetDisplayNameForTimeZone(id, "en");
                 Assert.NotNull(displayName);
             }
         }

@@ -1,4 +1,5 @@
-﻿using System.Globalization;
+﻿using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using Xunit;
 using Xunit.Abstractions;
@@ -17,11 +18,11 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_Names_For_BR_English()
         {
-            var zones = TZNames.GetTimeZonesForCountry("BR", "en-US");
+            IDictionary<string, string> zones = TZNames.GetTimeZonesForCountry("BR", "en-US");
 
-            foreach (var zone in zones)
+            foreach ((string zoneName, string zoneDisplayName) in zones)
             {
-                _output.WriteLine($"{zone.Key} => {zone.Value}");
+                _output.WriteLine($"{zoneName} => {zoneDisplayName}");
             }
 
             //Assert.Equal(16, zones.Count);
@@ -47,11 +48,11 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_Names_For_BR_Portuguese()
         {
-            var zones = TZNames.GetTimeZonesForCountry("BR", "pt-BR");
+            IDictionary<string, string> zones = TZNames.GetTimeZonesForCountry("BR", "pt-BR");
 
-            foreach (var zone in zones)
+            foreach ((string zoneName, string zoneDisplayName) in zones)
             {
-                _output.WriteLine($"{zone.Key} => {zone.Value}");
+                _output.WriteLine($"{zoneName} => {zoneDisplayName}");
             }
 
             //Assert.Equal(16, zones.Count);
@@ -77,11 +78,11 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_Names_For_PG_English()
         {
-            var zones = TZNames.GetTimeZonesForCountry("PG", "en-US");
+            IDictionary<string, string> zones = TZNames.GetTimeZonesForCountry("PG", "en-US");
 
-            foreach (var zone in zones)
+            foreach ((string zoneName, string zoneDisplayName) in zones)
             {
-                _output.WriteLine($"{zone.Key} => {zone.Value}");
+                _output.WriteLine($"{zoneName} => {zoneDisplayName}");
             }
 
             //Assert.Equal(2, zones.Count);
@@ -105,18 +106,18 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_Names_For_All_Countries()
         {
-            var countries = CultureInfo.GetCultures(CultureTypes.SpecificCultures)
+            IEnumerable<string> countries = CultureInfo.GetCultures(CultureTypes.SpecificCultures)
                 .Select(x => new RegionInfo(x.LCID).TwoLetterISORegionName)
                 .Where(x => !string.IsNullOrEmpty(x))
-                .Where(x=> x.Length == 2)
+                .Where(x => x.Length == 2)
                 .OrderBy(x => x)
                 .Distinct();
 
-            foreach (var country in countries)
+            foreach (string country in countries)
             {
                 try
                 {
-                    var zones = TZNames.GetTimeZonesForCountry(country, "en");
+                    IDictionary<string, string> zones = TZNames.GetTimeZonesForCountry(country, "en");
                     _output.WriteLine(country + ": " + zones.Count);
                     Assert.NotEqual(0, zones.Count);
                 }

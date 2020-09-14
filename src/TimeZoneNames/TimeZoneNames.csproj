@@ -4,6 +4,7 @@
     <Description>Provides localized time zone names.</Description>
     <Authors>Matt Johnson-Pint</Authors>
     <TargetFrameworks>netstandard2.0;netstandard1.1;net471;net461;net45;net40;net35</TargetFrameworks>
+    <LangVersion>8.0</LangVersion>
     <PackageId>TimeZoneNames</PackageId>
     <PackageTags>timezone;time;zone;time zone;iana;tzdb;olson;timezoneinfo;globalization;international;localization</PackageTags>
     <PackageProjectUrl>https://github.com/mj1856/TimeZoneNames</PackageProjectUrl>

@@ -31,17 +31,15 @@ namespace TimeZoneNames
         {
 
 #if NET35 || NET40
-            var assembly = typeof(TimeZoneData).Assembly;
+            Assembly assembly = typeof(TimeZoneData).Assembly;
 #else
-            var assembly = typeof(TimeZoneData).GetTypeInfo().Assembly;
+            Assembly assembly = typeof(TimeZoneData).GetTypeInfo().Assembly;
 #endif
-            using (var compressedStream = assembly.GetManifestResourceStream($"{assembly.GetName().Name}.data.json.gz"))
-            using (var stream = new GZipStream(compressedStream, CompressionMode.Decompress))
-            using (var reader = new StreamReader(stream))
-            {
-                var serializer = JsonSerializer.Create();
-                return (TimeZoneData)serializer.Deserialize(reader, typeof(TimeZoneData));
-            }
+            using Stream compressedStream = assembly.GetManifestResourceStream($"{assembly.GetName().Name}.data.json.gz");
+            using var stream = new GZipStream(compressedStream!, CompressionMode.Decompress);
+            using var reader = new StreamReader(stream);
+            var serializer = JsonSerializer.Create();
+            return (TimeZoneData)serializer.Deserialize(reader, typeof(TimeZoneData));
         }
     }
 

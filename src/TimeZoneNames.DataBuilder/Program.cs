@@ -4,16 +4,16 @@ namespace TimeZoneNames.DataBuilder
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            var path = Path.Combine(".", "data");
+            string path = Path.Combine(".", "data");
             var extractor = DataExtractor.Load("data", overwrite: false);
 
             var dataFileName = "data.json.gz";
-            var outputFilePath = Path.Combine(path, dataFileName);
+            string outputFilePath = Path.Combine(path, dataFileName);
             extractor.SaveData(outputFilePath);
 
-            var destPath = Path.Combine("..", "..", "..", "..", "TimeZoneNames", dataFileName);
+            string destPath = Path.Combine("..", "..", "..", "..", "TimeZoneNames", dataFileName);
             File.Copy(outputFilePath, destPath, true);
         }
     }
