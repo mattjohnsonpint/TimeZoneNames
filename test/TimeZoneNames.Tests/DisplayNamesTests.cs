@@ -93,5 +93,12 @@ namespace TimeZoneNames.Tests
                 Assert.NotNull(displayName);
             }
         }
+
+        [Fact]
+        public void Invalid_Zones_Return_Null()
+        {
+            string displayName = TZNames.GetDisplayNameForTimeZone("invalid zone", "en");
+            Assert.Null(displayName);
+        }
     }
 }

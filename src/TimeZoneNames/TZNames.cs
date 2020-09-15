@@ -247,8 +247,7 @@ namespace TimeZoneNames
             if (displayNames.TryGetValue(timeZoneId, out string displayName))
                 return displayName;
 
-            timeZoneId = TZConvert.IanaToWindows(timeZoneId);
-            if (displayNames.TryGetValue(timeZoneId, out displayName))
+            if (TZConvert.TryIanaToWindows(timeZoneId, out timeZoneId) && displayNames.TryGetValue(timeZoneId, out displayName))
                 return displayName;
 
             return null;
