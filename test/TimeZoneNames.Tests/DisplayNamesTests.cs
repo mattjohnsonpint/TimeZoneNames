@@ -77,21 +77,31 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_DisplayName_For_Every_Windows_Zone()
         {
+            var errors = new List<string>();
             foreach (string id in TZConvert.KnownWindowsTimeZoneIds)
             {
                 string displayName = TZNames.GetDisplayNameForTimeZone(id, "en");
-                Assert.NotNull(displayName);
+                if (string.IsNullOrEmpty(displayName))
+                    errors.Add(id);
             }
+
+            Assert.Empty(errors);
         }
 
         [Fact]
-        public void Can_Get_DisplayName_For_Every_IANA_Zone()
+        public void Can_Get_DisplayName_For_Every_Mappable_IANA_Zone()
         {
-            foreach (string id in TZConvert.KnownIanaTimeZoneNames)
+            string[] unmappableZones = { "Antarctica/Troll" };
+
+            var errors = new List<string>();
+            foreach (string id in TZConvert.KnownIanaTimeZoneNames.Except(unmappableZones))
             {
                 string displayName = TZNames.GetDisplayNameForTimeZone(id, "en");
-                Assert.NotNull(displayName);
+                if (string.IsNullOrEmpty(displayName))
+                    errors.Add(id);
             }
+
+            Assert.Empty(errors);
         }
 
         [Fact]
@@ -99,6 +109,13 @@ namespace TimeZoneNames.Tests
         {
             string displayName = TZNames.GetDisplayNameForTimeZone("invalid zone", "en");
             Assert.Null(displayName);
+        }
+
+        [Fact]
+        public void Can_Get_DisplayName_For_Yukon_Standard_Time()
+        {
+            string displayName = TZNames.GetDisplayNameForTimeZone("Yukon Standard Time", "en");
+            Assert.Equal("(UTC-07:00) Yukon", displayName);
         }
     }
 }
