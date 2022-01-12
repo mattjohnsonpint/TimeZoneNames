@@ -6,20 +6,22 @@ A simple library that provides localized time zone names using CLDR and TZDB sou
 Why?  Because .NET's usual time zone display names are not localized properly, and are often wrong or unsuitable for various scenarios.
 Read [this blog post](https://codeofmatt.com/localized-time-zone-names-in-net/) for more details.
 
+Note that if you are running .NET 6+ on Linux or macOS, the built-in names now stem from ICU and thus this library is no longer needed.
+See [the .NET blog post](https://devblogs.microsoft.com/dotnet/date-time-and-time-zone-enhancements-in-net-6/#time-zone-display-names-on-linux-and-macos) for more details.
+
 Nuget Installation
 =============================================================================
 ```powershell
 PM> Install-Package TimeZoneNames
 ```
 
-This library should be compatible with .NET Standard 1.1 and greater, as well as .NET Framework 3.5 and greater.
-See the [.NET Standard Platform Support Matrix](https://docs.microsoft.com/en-us/dotnet/articles/standard/library) for further details about .NET Standard,
-and please raise an issue if you encounter any compatibility errors.
+As of version 5.0.0, *TimeZoneConverter* works with all of the following:
 
-Demo
-=============================================================================
-One possible scenario for this library is to build a localized time zone selection control.
-[Click here for a live demonstration](https://timezonepickerdemo.azurewebsites.net/).
+- .NET 5 or greater
+- .NET Core 2.0 or greater
+- .NET Framework 4.6.1 and greater
+
+Note that .NET Framework versions less than 4.6.1 are no longer supported.
 
 Usage
 =============================================================================
