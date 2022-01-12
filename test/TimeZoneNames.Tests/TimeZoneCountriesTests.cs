@@ -122,9 +122,7 @@ namespace TimeZoneNames.Tests
                 "America/Edmonton",
                 "America/Regina",
                 "America/Winnipeg",
-                "America/Atikokan",
                 "America/Toronto",
-                "America/Blanc-Sablon",
                 "America/Halifax",
                 "America/St_Johns"
             };

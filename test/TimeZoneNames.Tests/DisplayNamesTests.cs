@@ -39,6 +39,14 @@ namespace TimeZoneNames.Tests
 
             var expected = TimeZoneInfo.GetSystemTimeZones().ToDictionary(x => x.Id, x => x.DisplayName);
 
+            foreach (var item in expected)
+            {
+                if (displayNames[item.Key] != item.Value)
+                {
+                    _output.WriteLine($"{item.Key} = \"{displayNames[item.Key]}\" expected \"{item.Value}\"");
+                }
+            }
+
             Assert.Equal(expected, displayNames);
         }
 
