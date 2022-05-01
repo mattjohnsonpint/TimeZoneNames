@@ -280,7 +280,7 @@ namespace TimeZoneNames
         {
             return Comparers.GetOrAdd(langKey, key =>
             {
-                var culture = new CultureInfo(langKey.Replace('_', '-'));
+                var culture = new CultureInfo(key.Replace('_', '-'));
                 return StringComparer.Create(culture, true);
             });
         }
