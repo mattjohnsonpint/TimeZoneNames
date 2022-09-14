@@ -311,7 +311,7 @@ namespace TimeZoneNames.DataBuilder
             {
                 string timeZone = element.Attribute("type")!.Value;
                 string metaZone = element.Elements("usesMetazone").Last().Attribute("mzone")!.Value;
-                _data.CldrMetazones.AddOrUpdate(timeZone, metaZone);
+                _data.CldrMetazones[timeZone] = metaZone;
             }
 
             IEnumerable<XElement> mapZoneElements = doc.XPathSelectElements("/supplementalData/metaZones/mapTimezones/mapZone");
@@ -327,7 +327,7 @@ namespace TimeZoneNames.DataBuilder
             {
                 string country = element.Attribute("iso3166")!.Value;
                 string zone = element.Value;
-                _data.CldrPrimaryZones.AddOrUpdate(country, zone);
+                _data.CldrPrimaryZones[country] = zone;
             }
         }
 
