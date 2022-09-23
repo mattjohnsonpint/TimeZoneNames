@@ -480,9 +480,8 @@ namespace TimeZoneNames.DataBuilder
 
         private void LoadDisplayNames()
         {
-            using StreamReader textReader = File.OpenText(_tzresPath + "tzinfo.json");
-            var json = textReader.ReadToEnd();
-            var data = JsonNode.Parse(json);
+            using var stream = File.OpenRead(_tzresPath + "tzinfo.json");
+            var data = JsonNode.Parse(stream);
             var languages = data["Languages"];
             if (languages == null) return;
             foreach (var item in languages.AsArray())
