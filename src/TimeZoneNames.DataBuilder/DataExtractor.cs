@@ -482,7 +482,7 @@ namespace TimeZoneNames.DataBuilder
 
         private void LoadDisplayNames()
         {
-            using StreamReader textReader = File.OpenText(_tzresPath + "tzinfo.json");
+            using StreamReader textReader = File.OpenText(Path.Combine(_tzresPath, "tzinfo.json"));
             using var jsonReader = new JsonTextReader(textReader);
             var data = JObject.Load(jsonReader);
             JToken languages = data["Languages"];
