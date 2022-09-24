@@ -6,124 +6,123 @@ using TimeZoneConverter;
 using Xunit;
 using Xunit.Abstractions;
 
-namespace TimeZoneNames.Tests
+namespace TimeZoneNames.Tests;
+
+public class DisplayNamesTests
 {
-    public class DisplayNamesTests
+    private readonly ITestOutputHelper _output;
+
+    public DisplayNamesTests(ITestOutputHelper output)
     {
-        private readonly ITestOutputHelper _output;
+        _output = output;
+    }
 
-        public DisplayNamesTests(ITestOutputHelper output)
+    [Fact]
+    public void Can_Get_DisplayNames_For_English()
+    {
+        var displayNames = TZNames.GetDisplayNames("en");
+
+        foreach ((var key, var value) in displayNames)
         {
-            _output = output;
+            _output.WriteLine($"{key} = {value}");
         }
 
-        [Fact]
-        public void Can_Get_DisplayNames_For_English()
-        {
-            var displayNames = TZNames.GetDisplayNames("en");
+        Assert.NotEmpty(displayNames);
+    }
 
-            foreach ((var key, var value) in displayNames)
+    [Fact]
+    public void Can_Get_DisplayNames_For_OS_Culture()
+    {
+        var languageCode = CultureInfo.InstalledUICulture.IetfLanguageTag;
+
+        var displayNames = TZNames.GetDisplayNames(languageCode);
+
+        var expected = TimeZoneInfo.GetSystemTimeZones().ToDictionary(x => x.Id, x => x.DisplayName);
+
+        foreach (var item in expected)
+        {
+            if (displayNames[item.Key] != item.Value)
             {
-                _output.WriteLine($"{key} = {value}");
+                _output.WriteLine($"{item.Key} = \"{displayNames[item.Key]}\" expected \"{item.Value}\"");
             }
-
-            Assert.NotEmpty(displayNames);
         }
 
-        [Fact]
-        public void Can_Get_DisplayNames_For_OS_Culture()
+        Assert.Equal(expected, displayNames);
+    }
+
+    [Fact]
+    public void Can_Get_DisplayNames_For_French_Canada_With_Windows_Ids()
+    {
+        var displayNames = TZNames.GetDisplayNames("fr-CA");
+
+        var pacific = displayNames["Pacific Standard Time"];
+        var mountain = displayNames["Mountain Standard Time"];
+        var central = displayNames["Central Standard Time"];
+        var eastern = displayNames["Eastern Standard Time"];
+
+        Assert.Equal("(UTC-08:00) Pacifique (É.-U. et Canada)", pacific);
+        Assert.Equal("(UTC-07:00) Montagnes Rocheuses (É.-U. et Canada)", mountain);
+        Assert.Equal("(UTC-06:00) Centre (É.-U. et Canada)", central);
+        Assert.Equal("(UTC-05:00) Est (É.-U. et Canada)", eastern);
+    }
+
+    [Fact]
+    public void Can_Get_DisplayNames_For_French_Canada_With_IANA_Ids()
+    {
+        var displayNames = TZNames.GetDisplayNames("fr-CA", true);
+
+        var pacific = displayNames["America/Vancouver"];
+        var mountain = displayNames["America/Edmonton"];
+        var central = displayNames["America/Winnipeg"];
+        var eastern = displayNames["America/Toronto"];
+
+        Assert.Equal("(UTC-08:00) Pacifique (É.-U. et Canada)", pacific);
+        Assert.Equal("(UTC-07:00) Montagnes Rocheuses (É.-U. et Canada)", mountain);
+        Assert.Equal("(UTC-06:00) Centre (É.-U. et Canada)", central);
+        Assert.Equal("(UTC-05:00) Est (É.-U. et Canada)", eastern);
+    }
+
+    [Fact]
+    public void Can_Get_DisplayName_For_Every_Windows_Zone()
+    {
+        var errors = new List<string>();
+        foreach (var id in TZConvert.KnownWindowsTimeZoneIds)
         {
-            var languageCode = CultureInfo.InstalledUICulture.IetfLanguageTag;
-
-            var displayNames = TZNames.GetDisplayNames(languageCode);
-
-            var expected = TimeZoneInfo.GetSystemTimeZones().ToDictionary(x => x.Id, x => x.DisplayName);
-
-            foreach (var item in expected)
-            {
-                if (displayNames[item.Key] != item.Value)
-                {
-                    _output.WriteLine($"{item.Key} = \"{displayNames[item.Key]}\" expected \"{item.Value}\"");
-                }
-            }
-
-            Assert.Equal(expected, displayNames);
+            var displayName = TZNames.GetDisplayNameForTimeZone(id, "en");
+            if (string.IsNullOrEmpty(displayName))
+                errors.Add(id);
         }
 
-        [Fact]
-        public void Can_Get_DisplayNames_For_French_Canada_With_Windows_Ids()
+        Assert.Empty(errors);
+    }
+
+    [Fact]
+    public void Can_Get_DisplayName_For_Every_Mappable_IANA_Zone()
+    {
+        string[] unmappableZones = { "Antarctica/Troll" };
+
+        var errors = new List<string>();
+        foreach (var id in TZConvert.KnownIanaTimeZoneNames.Except(unmappableZones))
         {
-            var displayNames = TZNames.GetDisplayNames("fr-CA");
-
-            var pacific = displayNames["Pacific Standard Time"];
-            var mountain = displayNames["Mountain Standard Time"];
-            var central = displayNames["Central Standard Time"];
-            var eastern = displayNames["Eastern Standard Time"];
-
-            Assert.Equal("(UTC-08:00) Pacifique (É.-U. et Canada)", pacific);
-            Assert.Equal("(UTC-07:00) Montagnes Rocheuses (É.-U. et Canada)", mountain);
-            Assert.Equal("(UTC-06:00) Centre (É.-U. et Canada)", central);
-            Assert.Equal("(UTC-05:00) Est (É.-U. et Canada)", eastern);
+            var displayName = TZNames.GetDisplayNameForTimeZone(id, "en");
+            if (string.IsNullOrEmpty(displayName))
+                errors.Add(id);
         }
 
-        [Fact]
-        public void Can_Get_DisplayNames_For_French_Canada_With_IANA_Ids()
-        {
-            var displayNames = TZNames.GetDisplayNames("fr-CA", true);
+        Assert.Empty(errors);
+    }
 
-            var pacific = displayNames["America/Vancouver"];
-            var mountain = displayNames["America/Edmonton"];
-            var central = displayNames["America/Winnipeg"];
-            var eastern = displayNames["America/Toronto"];
+    [Fact]
+    public void Invalid_Zones_Return_Null()
+    {
+        var displayName = TZNames.GetDisplayNameForTimeZone("invalid zone", "en");
+        Assert.Null(displayName);
+    }
 
-            Assert.Equal("(UTC-08:00) Pacifique (É.-U. et Canada)", pacific);
-            Assert.Equal("(UTC-07:00) Montagnes Rocheuses (É.-U. et Canada)", mountain);
-            Assert.Equal("(UTC-06:00) Centre (É.-U. et Canada)", central);
-            Assert.Equal("(UTC-05:00) Est (É.-U. et Canada)", eastern);
-        }
-
-        [Fact]
-        public void Can_Get_DisplayName_For_Every_Windows_Zone()
-        {
-            var errors = new List<string>();
-            foreach (var id in TZConvert.KnownWindowsTimeZoneIds)
-            {
-                var displayName = TZNames.GetDisplayNameForTimeZone(id, "en");
-                if (string.IsNullOrEmpty(displayName))
-                    errors.Add(id);
-            }
-
-            Assert.Empty(errors);
-        }
-
-        [Fact]
-        public void Can_Get_DisplayName_For_Every_Mappable_IANA_Zone()
-        {
-            string[] unmappableZones = { "Antarctica/Troll" };
-
-            var errors = new List<string>();
-            foreach (var id in TZConvert.KnownIanaTimeZoneNames.Except(unmappableZones))
-            {
-                var displayName = TZNames.GetDisplayNameForTimeZone(id, "en");
-                if (string.IsNullOrEmpty(displayName))
-                    errors.Add(id);
-            }
-
-            Assert.Empty(errors);
-        }
-
-        [Fact]
-        public void Invalid_Zones_Return_Null()
-        {
-            var displayName = TZNames.GetDisplayNameForTimeZone("invalid zone", "en");
-            Assert.Null(displayName);
-        }
-
-        [Fact]
-        public void Can_Get_DisplayName_For_Yukon_Standard_Time()
-        {
-            var displayName = TZNames.GetDisplayNameForTimeZone("Yukon Standard Time", "en");
-            Assert.Equal("(UTC-07:00) Yukon", displayName);
-        }
+    [Fact]
+    public void Can_Get_DisplayName_For_Yukon_Standard_Time()
+    {
+        var displayName = TZNames.GetDisplayNameForTimeZone("Yukon Standard Time", "en");
+        Assert.Equal("(UTC-07:00) Yukon", displayName);
     }
 }
