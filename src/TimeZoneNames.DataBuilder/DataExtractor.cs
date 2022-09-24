@@ -19,7 +19,7 @@ public class DataExtractor
     private readonly string _nzdPath;
     private readonly string _tzresPath;
 
-    private readonly TimeZoneData _data = new TimeZoneData();
+    private readonly TimeZoneData _data = new();
 
     private DataExtractor(string dataPath)
     {
@@ -440,7 +440,7 @@ public class DataExtractor
         }
     }
 
-    private readonly object _locker = new object();
+    private readonly object _locker = new();
 
     private CldrLanguageData GetLangData(string language)
     {

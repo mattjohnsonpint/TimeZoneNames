@@ -13,7 +13,7 @@ namespace TimeZoneNames;
 public static class TZNames
 {
     private static readonly TimeZoneData Data = TimeZoneData.Load();
-    private static readonly ConcurrentDictionary<string, IComparer<string>> Comparers = new ConcurrentDictionary<string, IComparer<string>>(StringComparer.OrdinalIgnoreCase);
+    private static readonly ConcurrentDictionary<string, IComparer<string>> Comparers = new(StringComparer.OrdinalIgnoreCase);
 
     /// <summary>
     /// Gets an array of IANA time zone identifiers for a specific country.

@@ -9,7 +9,7 @@ namespace TimeZoneNames.DataBuilder;
 
 public static class Downloader
 {
-    private static readonly HttpClient HttpClientInstance = new HttpClient();
+    private static readonly HttpClient HttpClientInstance = new();
 
     public static async Task DownloadCldrAsync(string dir)
     {
