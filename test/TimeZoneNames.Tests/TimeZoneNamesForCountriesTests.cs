@@ -104,26 +104,19 @@ public class TimeZoneNamesForCountriesTests
     }
 
     [Fact]
-    public void Can_Get_Names_For_All_Countries()
+    public void Can_Get_Names_For_All_Regions()
     {
-        var countries = CultureInfo.GetCultures(CultureTypes.SpecificCultures)
-            .Select(x => new RegionInfo(x.LCID).TwoLetterISORegionName)
-            .Where(x => !string.IsNullOrEmpty(x))
-            .Where(x => x.Length == 2)
-            .OrderBy(x => x)
-            .Distinct();
-
-        foreach (var country in countries)
+        foreach (var region in TestData.Regions)
         {
             try
             {
-                var zones = TZNames.GetTimeZonesForCountry(country, "en");
-                _output.WriteLine(country + ": " + zones.Count);
+                var zones = TZNames.GetTimeZonesForCountry(region, "en");
+                _output.WriteLine(region + ": " + zones.Count);
                 Assert.NotEqual(0, zones.Count);
             }
             catch
             {
-                _output.WriteLine(country + " -- FAILED");
+                _output.WriteLine(region + " -- FAILED");
                 throw;
             }
         }

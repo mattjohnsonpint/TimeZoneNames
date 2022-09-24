@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
+using System.Runtime.InteropServices;
 using TimeZoneConverter;
 using Xunit;
 using Xunit.Abstractions;
@@ -30,9 +31,12 @@ public class DisplayNamesTests
         Assert.NotEmpty(displayNames);
     }
 
-    [Fact]
+    [SkippableFact]
     public void Can_Get_DisplayNames_For_OS_Culture()
     {
+        // This test requires Windows
+        Skip.IfNot(RuntimeInformation.IsOSPlatform(OSPlatform.Windows));
+        
         var languageCode = CultureInfo.InstalledUICulture.IetfLanguageTag;
 
         var displayNames = TZNames.GetDisplayNames(languageCode);
