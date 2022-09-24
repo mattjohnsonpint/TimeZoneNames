@@ -489,9 +489,6 @@ namespace TimeZoneNames.DataBuilder
                 string locale = item["Locale"].GetValue<string>().Replace("-", "_");
                 Dictionary<string, string> timeZones = item["TimeZones"]!.AsObject().ToDictionary(o=> o.Key, o=> (string)o.Value);
 
-                // minor corrections to offsets embedded in display names can go here
-                Fixup(timeZones, "Volgograd Standard Time", "+03:00", "+04:00");
-
                 _data.DisplayNames.Add(locale, timeZones);
             }
         }
