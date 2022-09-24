@@ -39,7 +39,7 @@ namespace TimeZoneNames.DataBuilder
 
         public void SaveData(string outputFilePath)
         {
-            using FileStream stream = File.Create(outputFilePath);
+            using var stream = File.Create(outputFilePath);
             using var compressedStream = new GZipStream(stream, CompressionLevel.Optimal);
             JsonSerializer.Serialize(compressedStream, _data);
         }
@@ -50,7 +50,7 @@ namespace TimeZoneNames.DataBuilder
         private void LoadData()
         {
             // init noda time
-            using (FileStream stream = File.OpenRead(Directory.GetFiles(_nzdPath)[0]))
+            using (var stream = File.OpenRead(Directory.GetFiles(_nzdPath)[0]))
             {
                 _tzdbSource = TzdbDateTimeZoneSource.FromStream(stream);
                 _tzdbProvider = new DateTimeZoneCache(_tzdbSource);
@@ -86,7 +86,7 @@ namespace TimeZoneNames.DataBuilder
 
         private async Task DownloadCldrAsync(bool overwrite)
         {
-            bool exists = Directory.Exists(_cldrPath);
+            var exists = Directory.Exists(_cldrPath);
             if (overwrite || !exists)
             {
                 if (exists) Directory.Delete(_cldrPath, true);
@@ -96,7 +96,7 @@ namespace TimeZoneNames.DataBuilder
 
         private async Task DownloadNzdAsync(bool overwrite)
         {
-            bool exists = Directory.Exists(_nzdPath);
+            var exists = Directory.Exists(_nzdPath);
             if (overwrite || !exists)
             {
                 if (exists) Directory.Delete(_nzdPath, true);
@@ -106,7 +106,7 @@ namespace TimeZoneNames.DataBuilder
 
         private async Task DownloadTZResAsync(bool overwrite)
         {
-            bool exists = Directory.Exists(_tzresPath);
+            var exists = Directory.Exists(_tzresPath);
             if (overwrite || !exists)
             {
                 if (exists) Directory.Delete(_tzresPath, true);
@@ -116,7 +116,7 @@ namespace TimeZoneNames.DataBuilder
 
         private void LoadZoneCountries()
         {
-            foreach (TzdbZoneLocation location in _tzdbSource.ZoneLocations!.OrderBy(x => GetStandardOffset(x.ZoneId)).ThenBy(x => GetDaylightOffset(x.ZoneId)))
+            foreach (var location in _tzdbSource.ZoneLocations!.OrderBy(x => GetStandardOffset(x.ZoneId)).ThenBy(x => GetDaylightOffset(x.ZoneId)))
             {
                 AddToLookup(_data.TzdbZoneCountries, location.ZoneId, location.CountryCode);
             }
@@ -136,7 +136,7 @@ namespace TimeZoneNames.DataBuilder
 
         private Offset GetDaylightOffset(string zoneId)
         {
-            DateTimeZone zone = _tzdbProvider[zoneId];
+            var zone = _tzdbProvider[zoneId];
             return Offset.Max(zone.GetZoneInterval(Jan).WallOffset, zone.GetZoneInterval(Jun).WallOffset);
         }
 
@@ -144,22 +144,22 @@ namespace TimeZoneNames.DataBuilder
         {
             var results = new List<TimeZoneSelectionData>();
 
-            string[] precedence = File.ReadAllLines(Path.Combine("data", "zone-precedence.txt"));
+            var precedence = File.ReadAllLines(Path.Combine("data", "zone-precedence.txt"));
 
-            IList<Instant> splitPoints = GetAllZoneSplitPoints();
+            var splitPoints = GetAllZoneSplitPoints();
             IList<string> last = null;
-            bool useConsole = TryHideConsoleCursor();
-            for (int i = splitPoints.Count - 1; i >= 0; i--)
+            var useConsole = TryHideConsoleCursor();
+            for (var i = splitPoints.Count - 1; i >= 0; i--)
             {
                 if (useConsole)
                 {
-                    double pct = 100 * (1.0 * (splitPoints.Count - i)) / splitPoints.Count;
+                    var pct = 100 * (1.0 * (splitPoints.Count - i)) / splitPoints.Count;
                     Console.Write("{0:F1}%", pct);
                     Console.CursorLeft = 0;
                 }
 
-                Instant point = splitPoints[i];
-                IList<string> zones = GetSelectionZones(point, precedence);
+                var point = splitPoints[i];
+                var zones = GetSelectionZones(point, precedence);
 
                 if (last == null)
                 {
@@ -167,17 +167,17 @@ namespace TimeZoneNames.DataBuilder
                     continue;
                 }
 
-                IEnumerable<TimeZoneSelectionData> items = zones.Except(last)
+                var items = zones.Except(last)
                     .Select(x => new TimeZoneSelectionData { Id = x, ThresholdUtc = point.ToDateTimeUtc() });
                 results.AddRange(items);
 
                 last = zones;
             }
 
-            IEnumerable<string> remaining = last?.Except(results.Select(x => x.Id));
+            var remaining = last?.Except(results.Select(x => x.Id));
             if (remaining != null)
             {
-                IEnumerable<TimeZoneSelectionData> items = remaining
+                var items = remaining
                     .Select(x => new TimeZoneSelectionData { Id = x, ThresholdUtc = DateTime.MaxValue });
                 results.AddRange(items);
             }
@@ -223,7 +223,7 @@ namespace TimeZoneNames.DataBuilder
                 .GroupBy(x => new { x.Location.CountryCode, Hash = GetIntervalsHash(x.Intervals) })
                 .Select(g =>
                 {
-                    string[] ids = g.Select(z => z.Id).ToArray();
+                    var ids = g.Select(z => z.Id).ToArray();
                     if (ids.Length == 1)
                         return ids[0];
 
@@ -244,7 +244,7 @@ namespace TimeZoneNames.DataBuilder
             var hash = 17;
             unchecked
             {
-                foreach (ZoneInterval interval in intervals)
+                foreach (var interval in intervals)
                 {
                     hash = hash * 23 + interval.Start.GetHashCode();
                     hash = hash * 23 + interval.End.GetHashCode();
@@ -258,13 +258,13 @@ namespace TimeZoneNames.DataBuilder
         {
             var intervals = zone.GetZoneIntervals(start, end).ToList();
 
-            ZoneInterval first = intervals.First();
+            var first = intervals.First();
             if (!first.HasStart || first.Start < start)
             {
                 intervals[0] = new ZoneInterval(first.Name, start, first.HasEnd ? first.End : (Instant?)null, first.WallOffset, first.Savings);
             }
 
-            ZoneInterval last = intervals.Last();
+            var last = intervals.Last();
             if (!last.HasEnd || last.End > end)
             {
                 intervals[^1] = new ZoneInterval(last.Name, last.HasStart ? last.Start : (Instant?)null, end, last.WallOffset, last.Savings);
@@ -275,20 +275,20 @@ namespace TimeZoneNames.DataBuilder
 
         private void LoadZoneAliases()
         {
-            using FileStream stream = File.OpenRead(Path.Combine(_cldrPath, "common", "bcp47", "timezone.xml"));
+            using var stream = File.OpenRead(Path.Combine(_cldrPath, "common", "bcp47", "timezone.xml"));
             var doc = XDocument.Load(stream);
-            IEnumerable<XElement> elements = doc.XPathSelectElements("/ldmlBCP47/keyword/key[@name='tz']/type");
-            foreach (XElement element in elements)
+            var elements = doc.XPathSelectElements("/ldmlBCP47/keyword/key[@name='tz']/type");
+            foreach (var element in elements)
             {
-                XAttribute aliasAttribute = element.Attribute("alias");
+                var aliasAttribute = element.Attribute("alias");
                 if (aliasAttribute == null)
                     continue;
 
-                string[] aliases = aliasAttribute.Value.Split(' ');
+                var aliases = aliasAttribute.Value.Split(' ');
                 if (aliases.Length == 1)
                     continue;
 
-                foreach (string alias in aliases.Skip(1))
+                foreach (var alias in aliases.Skip(1))
                     _data.CldrAliases.Add(alias.ToLowerInvariant(), aliases[0]);
             }
         }
@@ -301,37 +301,37 @@ namespace TimeZoneNames.DataBuilder
 
         private void LoadMetaZonesFromFile(string path)
         {
-            using FileStream stream = File.OpenRead(path);
+            using var stream = File.OpenRead(path);
             var doc = XDocument.Load(stream);
 
-            IEnumerable<XElement> timeZoneElements = doc.XPathSelectElements("/supplementalData/metaZones/metazoneInfo/timezone");
-            foreach (XElement element in timeZoneElements)
+            var timeZoneElements = doc.XPathSelectElements("/supplementalData/metaZones/metazoneInfo/timezone");
+            foreach (var element in timeZoneElements)
             {
-                string timeZone = element.Attribute("type")!.Value;
-                string metaZone = element.Elements("usesMetazone").Last().Attribute("mzone")!.Value;
+                var timeZone = element.Attribute("type")!.Value;
+                var metaZone = element.Elements("usesMetazone").Last().Attribute("mzone")!.Value;
                 _data.CldrMetazones[timeZone] = metaZone;
             }
 
-            IEnumerable<XElement> mapZoneElements = doc.XPathSelectElements("/supplementalData/metaZones/mapTimezones/mapZone");
-            foreach (XElement element in mapZoneElements)
+            var mapZoneElements = doc.XPathSelectElements("/supplementalData/metaZones/mapTimezones/mapZone");
+            foreach (var element in mapZoneElements)
             {
-                string timeZone = element.Attribute("type")!.Value;
-                string territory = element.Attribute("territory")!.Value;
+                var timeZone = element.Attribute("type")!.Value;
+                var territory = element.Attribute("territory")!.Value;
                 AddToLookup(_data.CldrZoneCountries, timeZone, territory);
             }
 
-            IEnumerable<XElement> primaryZoneElements = doc.XPathSelectElements("/supplementalData/metaZones/primaryZones/primaryZone");
-            foreach (XElement element in primaryZoneElements)
+            var primaryZoneElements = doc.XPathSelectElements("/supplementalData/metaZones/primaryZones/primaryZone");
+            foreach (var element in primaryZoneElements)
             {
-                string country = element.Attribute("iso3166")!.Value;
-                string zone = element.Value;
+                var country = element.Attribute("iso3166")!.Value;
+                var zone = element.Value;
                 _data.CldrPrimaryZones[country] = zone;
             }
         }
 
         private void LoadLanguages()
         {
-            IEnumerable<string> languages = Directory.GetFiles(Path.Combine(_cldrPath, "common", "main"))
+            var languages = Directory.GetFiles(Path.Combine(_cldrPath, "common", "main"))
                 .Select(Path.GetFileName)
                 .Select(x => x.Substring(0, x.Length - 4));
 
@@ -340,16 +340,16 @@ namespace TimeZoneNames.DataBuilder
 
         private void LoadLanguage(string language)
         {
-            using FileStream stream = File.OpenRead(Path.Combine(_cldrPath, "common", "main", language + ".xml"));
+            using var stream = File.OpenRead(Path.Combine(_cldrPath, "common", "main", language + ".xml"));
             var doc = XDocument.Load(stream);
 
-            XElement territoriesElement = doc.XPathSelectElement("/ldml/localeDisplayNames/territories");
+            var territoriesElement = doc.XPathSelectElement("/ldml/localeDisplayNames/territories");
             if (territoriesElement != null)
             {
                 AddCountryEntries(territoriesElement, language);
             }
 
-            XElement tzElement = doc.XPathSelectElement("/ldml/dates/timeZoneNames");
+            var tzElement = doc.XPathSelectElement("/ldml/dates/timeZoneNames");
             if (tzElement != null)
             {
                 AddFormatEntries(tzElement, language);
@@ -363,7 +363,7 @@ namespace TimeZoneNames.DataBuilder
 
         private void AddCountryEntries(XContainer territoriesElement, string language)
         {
-            string[] excluded = new[] { "AN", "BV", "CP", "EU", "HM", "QO", "ZZ" };
+            var excluded = new[] { "AN", "BV", "CP", "EU", "HM", "QO", "ZZ" };
 
             var countries = territoriesElement.Elements("territory")
                 .Where(x => x.Attribute("alt") == null)
@@ -371,8 +371,8 @@ namespace TimeZoneNames.DataBuilder
                 .Where(x => x.Key.Length == 2 && !excluded.Contains(x.Key))
                 .ToDictionary(x => x.Key, x => x.First().Value);
 
-            CldrLanguageData langData = GetLangData(language);
-            foreach (KeyValuePair<string, string> country in countries)
+            var langData = GetLangData(language);
+            foreach (var country in countries)
             {
                 langData.CountryNames.Add(country.Key, country.Value);
             }
@@ -389,31 +389,31 @@ namespace TimeZoneNames.DataBuilder
                 return;
 
             var values = new TimeZoneValues();
-            if (formats.TryGetValue("generic", out string genericName))
+            if (formats.TryGetValue("generic", out var genericName))
                 values.Generic = genericName;
-            if (formats.TryGetValue("standard", out string standardName))
+            if (formats.TryGetValue("standard", out var standardName))
                 values.Standard = standardName;
-            if (formats.TryGetValue("daylight", out string daylightName))
+            if (formats.TryGetValue("daylight", out var daylightName))
                 values.Daylight = daylightName;
 
-            CldrLanguageData langData = GetLangData(language);
+            var langData = GetLangData(language);
             langData.Formats = values;
 
-            XElement fallbackFormat = tzElement.Element("fallbackFormat");
+            var fallbackFormat = tzElement.Element("fallbackFormat");
             if (fallbackFormat != null)
                 langData.FallbackFormat = fallbackFormat.Value;
         }
 
         private void AddZoneEntries(XContainer tzElement, string language, string elementName, string entryName)
         {
-            CldrLanguageData langData = GetLangData(language);
+            var langData = GetLangData(language);
 
-            IEnumerable<XElement> zones = tzElement.Elements(elementName);
-            foreach (XElement zone in zones)
+            var zones = tzElement.Elements(elementName);
+            foreach (var zone in zones)
             {
-                string zoneName = zone.Attribute("type")!.Value;
+                var zoneName = zone.Attribute("type")!.Value;
 
-                XElement element = zone.Element(entryName);
+                var element = zone.Element(entryName);
                 if (element == null)
                     continue;
 
@@ -426,13 +426,13 @@ namespace TimeZoneNames.DataBuilder
                         }
                     case "short":
                         {
-                            TimeZoneValues values = GetTimeZoneValues(element);
+                            var values = GetTimeZoneValues(element);
                             langData.ShortNames.Add(zoneName, values);
                             break;
                         }
                     case "long":
                         {
-                            TimeZoneValues values = GetTimeZoneValues(element);
+                            var values = GetTimeZoneValues(element);
                             langData.LongNames.Add(zoneName, values);
                             break;
                         }
@@ -448,7 +448,7 @@ namespace TimeZoneNames.DataBuilder
 
             lock (_locker)
             {
-                if (!_data.CldrLanguageData.TryGetValue(language, out CldrLanguageData data))
+                if (!_data.CldrLanguageData.TryGetValue(language, out var data))
                 {
                     data = new CldrLanguageData();
                     _data.CldrLanguageData.Add(language, data);
@@ -463,15 +463,15 @@ namespace TimeZoneNames.DataBuilder
         {
             var values = new TimeZoneValues();
 
-            XElement genericElement = element.Element("generic");
+            var genericElement = element.Element("generic");
             if (genericElement != null && genericElement.Value != "∅∅∅")
                 values.Generic = genericElement.Value;
 
-            XElement standardElement = element.Element("standard");
+            var standardElement = element.Element("standard");
             if (standardElement != null && standardElement.Value != "∅∅∅")
                 values.Standard = standardElement.Value;
 
-            XElement daylightElement = element.Element("daylight");
+            var daylightElement = element.Element("daylight");
             if (daylightElement != null && daylightElement.Value != "∅∅∅")
                 values.Daylight = daylightElement.Value;
 
@@ -486,8 +486,8 @@ namespace TimeZoneNames.DataBuilder
             if (languages == null) return;
             foreach (var item in languages.AsArray())
             {
-                string locale = item["Locale"].GetValue<string>().Replace("-", "_");
-                Dictionary<string, string> timeZones = item["TimeZones"]!.AsObject().ToDictionary(o=> o.Key, o=> (string)o.Value);
+                var locale = item["Locale"].GetValue<string>().Replace("-", "_");
+                var timeZones = item["TimeZones"]!.AsObject().ToDictionary(o=> o.Key, o=> (string)o.Value);
 
                 _data.DisplayNames.Add(locale, timeZones);
             }
@@ -495,7 +495,7 @@ namespace TimeZoneNames.DataBuilder
 
         private void Fixup(Dictionary<string, string> dictionary, string key, string find, string replace)
         {
-            if (dictionary.TryGetValue(key, out string value))
+            if (dictionary.TryGetValue(key, out var value))
             {
                 dictionary[key] = value.Replace(find, replace);
             }
@@ -545,7 +545,7 @@ namespace TimeZoneNames.DataBuilder
 
         private static void AddToLookup<TKey, TValue>(IDictionary<TKey, TValue[]> lookup, TKey key, TValue value)
         {
-            if (lookup.TryGetValue(key, out TValue[] items))
+            if (lookup.TryGetValue(key, out var items))
             {
                 var temp = new TValue[items.Length + 1];
                 items.CopyTo(temp, 0);

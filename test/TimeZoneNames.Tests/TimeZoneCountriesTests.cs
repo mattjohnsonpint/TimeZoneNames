@@ -17,9 +17,9 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_Zones_For_US()
         {
-            string[] zones = TZNames.GetTimeZoneIdsForCountry("US", DateTimeOffset.Now);
+            var zones = TZNames.GetTimeZoneIdsForCountry("US", DateTimeOffset.Now);
 
-            foreach (string zone in zones)
+            foreach (var zone in zones)
                 _output.WriteLine(zone);
 
             string[] expected = {
@@ -39,9 +39,9 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_Zones_For_GB()
         {
-            string[] zones = TZNames.GetTimeZoneIdsForCountry("GB");
+            var zones = TZNames.GetTimeZoneIdsForCountry("GB");
 
-            foreach (string zone in zones)
+            foreach (var zone in zones)
                 _output.WriteLine(zone);
 
             Assert.Single(zones);
@@ -52,9 +52,9 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_Zones_For_RU()
         {
-            string[] zones = TZNames.GetTimeZoneIdsForCountry("RU", DateTimeOffset.Now);
+            var zones = TZNames.GetTimeZoneIdsForCountry("RU", DateTimeOffset.Now);
 
-            foreach (string zone in zones)
+            foreach (var zone in zones)
                 _output.WriteLine(zone);
 
             string[] expected = {
@@ -77,9 +77,9 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_Zones_For_RU_Past()
         {
-            string[] zones = TZNames.GetTimeZoneIdsForCountry("RU", new DateTime(2016, 1, 1));
+            var zones = TZNames.GetTimeZoneIdsForCountry("RU", new DateTime(2016, 1, 1));
 
-            foreach (string zone in zones)
+            foreach (var zone in zones)
                 _output.WriteLine(zone);
 
             string[] expected = {
@@ -111,9 +111,9 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_Zones_For_CA()
         {
-            string[] zones = TZNames.GetTimeZoneIdsForCountry("CA", DateTimeOffset.Now);
+            var zones = TZNames.GetTimeZoneIdsForCountry("CA", DateTimeOffset.Now);
 
-            foreach (string zone in zones)
+            foreach (var zone in zones)
                 _output.WriteLine(zone);
 
             string[] expected = {
@@ -133,8 +133,8 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_List_Countries_EN()
         {
-            IDictionary<string, string> countries = TZNames.GetCountryNames("en-US");
-            foreach ((string countryCode, string countryDisplayName) in countries)
+            var countries = TZNames.GetCountryNames("en-US");
+            foreach ((var countryCode, var countryDisplayName) in countries)
             {
                 _output.WriteLine("{0} => {1}", countryCode, countryDisplayName);
             }
@@ -143,8 +143,8 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_List_Countries_FR()
         {
-            IDictionary<string, string> countries = TZNames.GetCountryNames("fr-CA");
-            foreach ((string countryCode, string countryDisplayName) in countries)
+            var countries = TZNames.GetCountryNames("fr-CA");
+            foreach ((var countryCode, var countryDisplayName) in countries)
             {
                 _output.WriteLine("{0} => {1}", countryCode, countryDisplayName);
             }
@@ -153,8 +153,8 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_List_Countries_JP()
         {
-            IDictionary<string, string> countries = TZNames.GetCountryNames("ja-JP");
-            foreach ((string countryCode, string countryDisplayName) in countries)
+            var countries = TZNames.GetCountryNames("ja-JP");
+            foreach ((var countryCode, var countryDisplayName) in countries)
             {
                 _output.WriteLine("{0} => {1}", countryCode, countryDisplayName);
             }
@@ -165,9 +165,9 @@ namespace TimeZoneNames.Tests
         {
             var locale = "en-US";
 
-            IDictionary<string, string> zones = TZNames.GetFixedTimeZoneNames(locale);
+            var zones = TZNames.GetFixedTimeZoneNames(locale);
             Assert.NotEmpty(zones);
-            foreach ((string zoneName, string zoneDisplayName) in zones)
+            foreach ((var zoneName, var zoneDisplayName) in zones)
                 _output.WriteLine($"{zoneDisplayName,-50} {zoneName}");
         }
 
@@ -176,9 +176,9 @@ namespace TimeZoneNames.Tests
         {
             var locale = "en-US";
 
-            IDictionary<string, string> zones = TZNames.GetFixedTimeZoneAbbreviations(locale);
+            var zones = TZNames.GetFixedTimeZoneAbbreviations(locale);
             Assert.NotEmpty(zones);
-            foreach ((string zoneName, string zoneDisplayName) in zones)
+            foreach ((var zoneName, var zoneDisplayName) in zones)
                 _output.WriteLine($"{zoneDisplayName,-50} {zoneName}");
         }
 
@@ -187,9 +187,9 @@ namespace TimeZoneNames.Tests
         {
             var locale = "fr-FR";
 
-            IDictionary<string, string> zones = TZNames.GetFixedTimeZoneNames(locale);
+            var zones = TZNames.GetFixedTimeZoneNames(locale);
             Assert.NotEmpty(zones);
-            foreach ((string zoneName, string zoneDisplayName) in zones)
+            foreach ((var zoneName, var zoneDisplayName) in zones)
                 _output.WriteLine($"{zoneDisplayName,-50} {zoneName}");
         }
 
@@ -198,9 +198,9 @@ namespace TimeZoneNames.Tests
         {
             var locale = "ru-RU";
 
-            IDictionary<string, string> zones = TZNames.GetFixedTimeZoneNames(locale);
+            var zones = TZNames.GetFixedTimeZoneNames(locale);
             Assert.NotEmpty(zones);
-            foreach ((string zoneName, string zoneDisplayName) in zones)
+            foreach ((var zoneName, var zoneDisplayName) in zones)
                 _output.WriteLine($"{zoneDisplayName,-50} {zoneName}");
         }
 
@@ -209,36 +209,36 @@ namespace TimeZoneNames.Tests
         {
             var locale = "en-US";
 
-            IDictionary<string, string> zones = TZNames.GetTimeZonesForCountry("US", locale, DateTimeOffset.Now);
+            var zones = TZNames.GetTimeZonesForCountry("US", locale, DateTimeOffset.Now);
             Assert.NotEmpty(zones);
-            foreach ((string zoneName, string zoneDisplayName) in zones)
+            foreach ((var zoneName, var zoneDisplayName) in zones)
                 _output.WriteLine($"{zoneDisplayName,-50} {zoneName}");
         }
 
         [Fact]
         public void Can_Get_TimeZones_For_RU_EN()
         {
-            IDictionary<string, string> zones = TZNames.GetTimeZonesForCountry("RU", "en-US", DateTimeOffset.Now);
+            var zones = TZNames.GetTimeZonesForCountry("RU", "en-US", DateTimeOffset.Now);
             Assert.NotEmpty(zones);
-            foreach ((string zoneName, string zoneDisplayName) in zones)
+            foreach ((var zoneName, var zoneDisplayName) in zones)
                 _output.WriteLine($"{zoneDisplayName,-50} {zoneName}");
         }
 
         [Fact]
         public void Can_Get_TimeZones_For_RU_RU()
         {
-            IDictionary<string, string> zones = TZNames.GetTimeZonesForCountry("RU", "ru-RU", DateTimeOffset.Now);
+            var zones = TZNames.GetTimeZonesForCountry("RU", "ru-RU", DateTimeOffset.Now);
             Assert.NotEmpty(zones);
-            foreach ((string zoneName, string zoneDisplayName) in zones)
+            foreach ((var zoneName, var zoneDisplayName) in zones)
                 _output.WriteLine($"{zoneDisplayName,-50} {zoneName}");
         }
 
         [Fact]
         public void Can_Get_TimeZones_For_RU_RU_All()
         {
-            IDictionary<string, string> zones = TZNames.GetTimeZonesForCountry("RU", "ru-RU");
+            var zones = TZNames.GetTimeZonesForCountry("RU", "ru-RU");
             Assert.NotEmpty(zones);
-            foreach ((string zoneName, string zoneDisplayName) in zones)
+            foreach ((var zoneName, var zoneDisplayName) in zones)
                 _output.WriteLine($"{zoneDisplayName,-50} {zoneName}");
         }
 
@@ -247,14 +247,14 @@ namespace TimeZoneNames.Tests
         {
             var locale = "en-US";
 
-            IDictionary<string, string> countries = TZNames.GetCountryNames(locale);
-            foreach ((string countryCode, string countryDisplayName) in countries)
+            var countries = TZNames.GetCountryNames(locale);
+            foreach ((var countryCode, var countryDisplayName) in countries)
             {
                 _output.WriteLine("{0} : {1}", countryCode, countryDisplayName);
                 _output.WriteLine("------------------------------------------------------------------------------");
-                IDictionary<string, string> zones = TZNames.GetTimeZonesForCountry(countryCode, locale);
+                var zones = TZNames.GetTimeZonesForCountry(countryCode, locale);
                 //Assert.NotEmpty(zones);
-                foreach ((string zoneName, string zoneDisplayName) in zones)
+                foreach ((var zoneName, var zoneDisplayName) in zones)
                     _output.WriteLine($"{zoneDisplayName,-50} {zoneName}");
 
                 _output.WriteLine("");
@@ -266,14 +266,14 @@ namespace TimeZoneNames.Tests
         {
             var locale = "fr-FR";
 
-            IDictionary<string, string> countries = TZNames.GetCountryNames(locale);
-            foreach ((string countryCode, string countryDisplayName) in countries)
+            var countries = TZNames.GetCountryNames(locale);
+            foreach ((var countryCode, var countryDisplayName) in countries)
             {
                 _output.WriteLine("{0} : {1}", countryCode, countryDisplayName);
                 _output.WriteLine("------------------------------------------------------------");
-                IDictionary<string, string> zones = TZNames.GetTimeZonesForCountry(countryCode, locale);
+                var zones = TZNames.GetTimeZonesForCountry(countryCode, locale);
                 //Assert.NotEmpty(zones);
-                foreach ((string zoneName, string zoneDisplayName) in zones)
+                foreach ((var zoneName, var zoneDisplayName) in zones)
                     _output.WriteLine($"{zoneDisplayName,-50} {zoneName}");
 
                 _output.WriteLine("");
@@ -285,14 +285,14 @@ namespace TimeZoneNames.Tests
         {
             var locale = "ru-RU";
 
-            IDictionary<string, string> countries = TZNames.GetCountryNames(locale);
-            foreach ((string countryCode, string countryDisplayName) in countries)
+            var countries = TZNames.GetCountryNames(locale);
+            foreach ((var countryCode, var countryDisplayName) in countries)
             {
                 _output.WriteLine("{0} : {1}", countryCode, countryDisplayName);
                 _output.WriteLine("------------------------------------------------------------");
-                IDictionary<string, string> zones = TZNames.GetTimeZonesForCountry(countryCode, locale);
+                var zones = TZNames.GetTimeZonesForCountry(countryCode, locale);
                 //Assert.NotEmpty(zones);
-                foreach ((string zoneName, string zoneDisplayName) in zones)
+                foreach ((var zoneName, var zoneDisplayName) in zones)
                     _output.WriteLine($"{zoneDisplayName,-50} {zoneName}");
 
                 _output.WriteLine("");
@@ -304,14 +304,14 @@ namespace TimeZoneNames.Tests
         {
             var locale = "en-US";
 
-            IDictionary<string, string> countries = TZNames.GetCountryNames(locale);
-            foreach ((string countryCode, string countryDisplayName) in countries)
+            var countries = TZNames.GetCountryNames(locale);
+            foreach ((var countryCode, var countryDisplayName) in countries)
             {
                 _output.WriteLine("{0} : {1}", countryCode, countryDisplayName);
                 _output.WriteLine("------------------------------------------------------------");
-                IDictionary<string, string> zones = TZNames.GetTimeZonesForCountry(countryCode, locale);
+                var zones = TZNames.GetTimeZonesForCountry(countryCode, locale);
                 //Assert.NotEmpty(zones);
-                foreach ((string zoneName, string zoneDisplayName) in zones)
+                foreach ((var zoneName, var zoneDisplayName) in zones)
                     _output.WriteLine($"{zoneDisplayName,-50} {zoneName}");
 
                 _output.WriteLine("");

@@ -24,8 +24,8 @@ namespace TimeZoneNames.DataBuilder
         public static async Task DownloadNzdAsync(string dir)
         {
             const string url = "https://nodatime.org/tzdb/latest.txt";
-            using HttpResponseMessage result = await HttpClientInstance.GetAsync(url);
-            string dataUrl = (await result.Content.ReadAsStringAsync()).TrimEnd();
+            using var result = await HttpClientInstance.GetAsync(url);
+            var dataUrl = (await result.Content.ReadAsStringAsync()).TrimEnd();
             await DownloadAsync(dataUrl, dir);
         }
 
@@ -40,22 +40,22 @@ namespace TimeZoneNames.DataBuilder
             if (!Directory.Exists(dir))
                 Directory.CreateDirectory(dir);
 
-            string filename = url.Substring(url.LastIndexOf('/') + 1);
-            using HttpResponseMessage result = await HttpClientInstance.GetAsync(url);
-            await using FileStream fs = File.Create(Path.Combine(dir, filename));
+            var filename = url.Substring(url.LastIndexOf('/') + 1);
+            using var result = await HttpClientInstance.GetAsync(url);
+            await using var fs = File.Create(Path.Combine(dir, filename));
             await result.Content.CopyToAsync(fs);
         }
 
         private static async Task DownloadAndExtractAsync(string url, string dir)
         {
-            await using Stream httpStream = await HttpClientInstance.GetStreamAsync(url);
-            using IReader reader = ReaderFactory.Open(httpStream);
+            await using var httpStream = await HttpClientInstance.GetStreamAsync(url);
+            using var reader = ReaderFactory.Open(httpStream);
             if (!Directory.Exists(dir))
                 Directory.CreateDirectory(dir);
 
             while (reader.MoveToNextEntry())
             {
-                IEntry entry = reader.Entry;
+                var entry = reader.Entry;
                 if (entry.IsDirectory)
                     continue;
 
@@ -65,16 +65,16 @@ namespace TimeZoneNames.DataBuilder
                     subPath = subPath.Replace('/', Path.DirectorySeparatorChar);
                 }
 
-                string targetPath = Path.Combine(dir, subPath);
-                string targetDir = Path.GetDirectoryName(targetPath);
+                var targetPath = Path.Combine(dir, subPath);
+                var targetDir = Path.GetDirectoryName(targetPath);
                 if (targetDir == null)
                     throw new InvalidOperationException();
 
                 if (!Directory.Exists(targetDir))
                     Directory.CreateDirectory(targetDir);
 
-                await using EntryStream stream = reader.OpenEntryStream();
-                await using FileStream fs = File.Create(targetPath);
+                await using var stream = reader.OpenEntryStream();
+                await using var fs = File.Create(targetPath);
                 await stream.CopyToAsync(fs);
             }
         }

@@ -37,8 +37,8 @@ namespace TimeZoneNames
         [SecuritySafeCritical]
         public static TimeZoneData Load()
         {
-            Assembly assembly = typeof(TimeZoneData).GetTypeInfo().Assembly;
-            using Stream compressedStream = assembly.GetManifestResourceStream($"{assembly.GetName().Name}.data.json.gz");
+            var assembly = typeof(TimeZoneData).GetTypeInfo().Assembly;
+            using var compressedStream = assembly.GetManifestResourceStream($"{assembly.GetName().Name}.data.json.gz");
             using var stream = new GZipStream(compressedStream!, CompressionMode.Decompress);
             return JsonSerializer.Deserialize<TimeZoneData>(stream, new JsonSerializerOptions
             {

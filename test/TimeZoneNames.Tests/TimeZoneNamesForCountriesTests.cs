@@ -18,9 +18,9 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_Names_For_BR_English()
         {
-            IDictionary<string, string> zones = TZNames.GetTimeZonesForCountry("BR", "en-US");
+            var zones = TZNames.GetTimeZonesForCountry("BR", "en-US");
 
-            foreach ((string zoneName, string zoneDisplayName) in zones)
+            foreach ((var zoneName, var zoneDisplayName) in zones)
             {
                 _output.WriteLine($"{zoneName} => {zoneDisplayName}");
             }
@@ -48,9 +48,9 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_Names_For_BR_Portuguese()
         {
-            IDictionary<string, string> zones = TZNames.GetTimeZonesForCountry("BR", "pt-BR");
+            var zones = TZNames.GetTimeZonesForCountry("BR", "pt-BR");
 
-            foreach ((string zoneName, string zoneDisplayName) in zones)
+            foreach ((var zoneName, var zoneDisplayName) in zones)
             {
                 _output.WriteLine($"{zoneName} => {zoneDisplayName}");
             }
@@ -78,9 +78,9 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_Names_For_PG_English()
         {
-            IDictionary<string, string> zones = TZNames.GetTimeZonesForCountry("PG", "en-US");
+            var zones = TZNames.GetTimeZonesForCountry("PG", "en-US");
 
-            foreach ((string zoneName, string zoneDisplayName) in zones)
+            foreach ((var zoneName, var zoneDisplayName) in zones)
             {
                 _output.WriteLine($"{zoneName} => {zoneDisplayName}");
             }
@@ -106,18 +106,18 @@ namespace TimeZoneNames.Tests
         [Fact]
         public void Can_Get_Names_For_All_Countries()
         {
-            IEnumerable<string> countries = CultureInfo.GetCultures(CultureTypes.SpecificCultures)
+            var countries = CultureInfo.GetCultures(CultureTypes.SpecificCultures)
                 .Select(x => new RegionInfo(x.LCID).TwoLetterISORegionName)
                 .Where(x => !string.IsNullOrEmpty(x))
                 .Where(x => x.Length == 2)
                 .OrderBy(x => x)
                 .Distinct();
 
-            foreach (string country in countries)
+            foreach (var country in countries)
             {
                 try
                 {
-                    IDictionary<string, string> zones = TZNames.GetTimeZonesForCountry(country, "en");
+                    var zones = TZNames.GetTimeZonesForCountry(country, "en");
                     _output.WriteLine(country + ": " + zones.Count);
                     Assert.NotEqual(0, zones.Count);
                 }
