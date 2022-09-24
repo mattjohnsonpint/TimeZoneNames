@@ -89,7 +89,11 @@ public class DataExtractor
         var exists = Directory.Exists(_cldrPath);
         if (overwrite || !exists)
         {
-            if (exists) Directory.Delete(_cldrPath, true);
+            if (exists)
+            {
+                Directory.Delete(_cldrPath, true);
+            }
+
             await Downloader.DownloadCldrAsync(_cldrPath);
         }
     }
@@ -99,7 +103,11 @@ public class DataExtractor
         var exists = Directory.Exists(_nzdPath);
         if (overwrite || !exists)
         {
-            if (exists) Directory.Delete(_nzdPath, true);
+            if (exists)
+            {
+                Directory.Delete(_nzdPath, true);
+            }
+
             await Downloader.DownloadNzdAsync(_nzdPath);
         }
     }
@@ -109,7 +117,11 @@ public class DataExtractor
         var exists = Directory.Exists(_tzresPath);
         if (overwrite || !exists)
         {
-            if (exists) Directory.Delete(_tzresPath, true);
+            if (exists)
+            {
+                Directory.Delete(_tzresPath, true);
+            }
+
             await Downloader.DownloadTZResAsync(_tzresPath);
         }
     }
@@ -225,7 +237,9 @@ public class DataExtractor
             {
                 var ids = g.Select(z => z.Id).ToArray();
                 if (ids.Length == 1)
+                {
                     return ids[0];
+                }
 
                 // use the zone-precedence.txt file when we need a tiebreaker
                 return precedence.Intersect(ids).First();
@@ -261,13 +275,13 @@ public class DataExtractor
         var first = intervals.First();
         if (!first.HasStart || first.Start < start)
         {
-            intervals[0] = new ZoneInterval(first.Name, start, first.HasEnd ? first.End : (Instant?)null, first.WallOffset, first.Savings);
+            intervals[0] = new ZoneInterval(first.Name, start, first.HasEnd ? first.End : null, first.WallOffset, first.Savings);
         }
 
         var last = intervals.Last();
         if (!last.HasEnd || last.End > end)
         {
-            intervals[^1] = new ZoneInterval(last.Name, last.HasStart ? last.Start : (Instant?)null, end, last.WallOffset, last.Savings);
+            intervals[^1] = new ZoneInterval(last.Name, last.HasStart ? last.Start : null, end, last.WallOffset, last.Savings);
         }
 
         return intervals;
@@ -282,11 +296,15 @@ public class DataExtractor
         {
             var aliasAttribute = element.Attribute("alias");
             if (aliasAttribute == null)
+            {
                 continue;
+            }
 
             var aliases = aliasAttribute.Value.Split(' ');
             if (aliases.Length == 1)
+            {
                 continue;
+            }
 
             foreach (var alias in aliases.Skip(1))
                 _data.CldrAliases.Add(alias.ToLowerInvariant(), aliases[0]);
@@ -386,22 +404,34 @@ public class DataExtractor
                 x => x.Value);
 
         if (formats.Count == 0)
+        {
             return;
+        }
 
         var values = new TimeZoneValues();
         if (formats.TryGetValue("generic", out var genericName))
+        {
             values.Generic = genericName;
+        }
+
         if (formats.TryGetValue("standard", out var standardName))
+        {
             values.Standard = standardName;
+        }
+
         if (formats.TryGetValue("daylight", out var daylightName))
+        {
             values.Daylight = daylightName;
+        }
 
         var langData = GetLangData(language);
         langData.Formats = values;
 
         var fallbackFormat = tzElement.Element("fallbackFormat");
         if (fallbackFormat != null)
+        {
             langData.FallbackFormat = fallbackFormat.Value;
+        }
     }
 
     private void AddZoneEntries(XContainer tzElement, string language, string elementName, string entryName)
@@ -415,7 +445,9 @@ public class DataExtractor
 
             var element = zone.Element(entryName);
             if (element == null)
+            {
                 continue;
+            }
 
             switch (entryName)
             {
@@ -465,15 +497,21 @@ public class DataExtractor
 
         var genericElement = element.Element("generic");
         if (genericElement != null && genericElement.Value != "∅∅∅")
+        {
             values.Generic = genericElement.Value;
+        }
 
         var standardElement = element.Element("standard");
         if (standardElement != null && standardElement.Value != "∅∅∅")
+        {
             values.Standard = standardElement.Value;
+        }
 
         var daylightElement = element.Element("daylight");
         if (daylightElement != null && daylightElement.Value != "∅∅∅")
+        {
             values.Daylight = daylightElement.Value;
+        }
 
         return values;
     }
@@ -481,23 +519,19 @@ public class DataExtractor
     private void LoadDisplayNames()
     {
         using var stream = File.OpenRead(Path.Combine(_tzresPath, "tzinfo.json"));
-        var data = JsonNode.Parse(stream);
+        var data = JsonNode.Parse(stream)!;
         var languages = data["Languages"];
-        if (languages == null) return;
+        if (languages == null)
+        {
+            return;
+        }
+
         foreach (var item in languages.AsArray())
         {
-            var locale = item["Locale"].GetValue<string>().Replace("-", "_");
+            var locale = item["Locale"]!.GetValue<string>().Replace("-", "_");
             var timeZones = item["TimeZones"]!.AsObject().ToDictionary(o=> o.Key, o=> (string)o.Value);
 
             _data.DisplayNames.Add(locale, timeZones);
-        }
-    }
-
-    private void Fixup(Dictionary<string, string> dictionary, string key, string find, string replace)
-    {
-        if (dictionary.TryGetValue(key, out var value))
-        {
-            dictionary[key] = value.Replace(find, replace);
         }
     }
 

@@ -94,7 +94,9 @@ public class DisplayNamesTests
         {
             var displayName = TZNames.GetDisplayNameForTimeZone(id, "en");
             if (string.IsNullOrEmpty(displayName))
+            {
                 errors.Add(id);
+            }
         }
 
         Assert.Empty(errors);
@@ -110,7 +112,9 @@ public class DisplayNamesTests
         {
             var displayName = TZNames.GetDisplayNameForTimeZone(id, "en");
             if (string.IsNullOrEmpty(displayName))
+            {
                 errors.Add(id);
+            }
         }
 
         Assert.Empty(errors);

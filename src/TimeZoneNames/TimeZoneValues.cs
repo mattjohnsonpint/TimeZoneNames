@@ -8,15 +8,15 @@ public class TimeZoneValues
     /// <summary>
     /// The time zone name that generically applies.
     /// </summary>
-    public string Generic { get; set; }
+    public string Generic { get; internal set; }
 
     /// <summary>
     /// The time zone name that applies during standard time.
     /// </summary>
-    public string Standard { get; set; }
+    public string Standard { get; internal set; }
 
     /// <summary>
     /// The time zone name that applies during daylight saving time.
     /// </summary>
-    public string Daylight { get; set; }
+    public string Daylight { get; internal set; }
 }

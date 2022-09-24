@@ -260,7 +260,9 @@ public class TimeZoneNamesTest
                 var names = TZNames.GetNamesForTimeZone(timeZoneInfo.Id, "en-US");
                 _output.WriteLine("{0} = {1}", timeZoneInfo.Id, names.Generic);
                 if (string.IsNullOrWhiteSpace(names.Generic))
+                {
                     errors.Add(timeZoneInfo.Id);
+                }
             }
             catch
             {
@@ -292,7 +294,9 @@ public class TimeZoneNamesTest
                 var names = TZNames.GetNamesForTimeZone(tzid, "en-US");
                 _output.WriteLine("{0} = {1}", tzid, names.Generic);
                 if (string.IsNullOrWhiteSpace(names.Generic))
+                {
                     errors.Add(tzid);
+                }
             }
             catch
             {

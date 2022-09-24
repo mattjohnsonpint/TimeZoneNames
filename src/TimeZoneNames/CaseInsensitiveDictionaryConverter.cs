@@ -6,7 +6,8 @@ using System.Text.Json.Serialization;
 namespace TimeZoneNames;
 
 /// <summary>
-/// Converts a json dictionary to a Dictionary&lt;<see cref="string"/>, <see paramref="TValue"/>&gt; using <seealso ref="StringComparer.OrdinalIgnoreCase"/>
+/// Converts a json dictionary to a Dictionary&lt;<see cref="string"/>, <see paramref="TValue"/>&gt;
+/// using <seealso ref="StringComparer.OrdinalIgnoreCase"/>
 /// </summary>
 /// <typeparam name="TValue">The value type of the dictionary</typeparam>
 public sealed class CaseInsensitiveDictionaryConverter<TValue> : JsonConverter<Dictionary<string, TValue>>
@@ -14,7 +15,7 @@ public sealed class CaseInsensitiveDictionaryConverter<TValue> : JsonConverter<D
     ///<inheritdoc />
     public override Dictionary<string, TValue> Read(ref Utf8JsonReader reader, Type typeToConvert, JsonSerializerOptions options)
     {
-        var dic = (Dictionary<string, TValue>)JsonSerializer.Deserialize(ref reader, typeToConvert, options);
+        var dic = (IDictionary<string, TValue>)JsonSerializer.Deserialize(ref reader, typeToConvert, options)!;
         return new Dictionary<string, TValue>(dic, StringComparer.OrdinalIgnoreCase);
     }
 
