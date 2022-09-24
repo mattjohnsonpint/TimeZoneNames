@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.IO;
 using System.IO.Compression;
 using System.Linq;
+using System.Text.Json;
+using System.Text.Json.Nodes;
 using System.Threading.Tasks;
 using System.Xml.Linq;
 using System.Xml.XPath;
-using Newtonsoft.Json;
-using Newtonsoft.Json.Linq;
 using NodaTime;
 using NodaTime.TimeZones;
 
@@ -41,9 +41,7 @@ namespace TimeZoneNames.DataBuilder
         {
             using FileStream stream = File.Create(outputFilePath);
             using var compressedStream = new GZipStream(stream, CompressionLevel.Optimal);
-            using var writer = new StreamWriter(compressedStream);
-            var serializer = JsonSerializer.CreateDefault();
-            serializer.Serialize(writer, _data);
+            JsonSerializer.Serialize(compressedStream, _data);
         }
 
         private TzdbDateTimeZoneSource _tzdbSource;
@@ -482,16 +480,14 @@ namespace TimeZoneNames.DataBuilder
 
         private void LoadDisplayNames()
         {
-            using StreamReader textReader = File.OpenText(Path.Combine(_tzresPath, "tzinfo.json"));
-            using var jsonReader = new JsonTextReader(textReader);
-            var data = JObject.Load(jsonReader);
-            JToken languages = data["Languages"];
+            using var stream = File.OpenRead(Path.Combine(_tzresPath, "tzinfo.json"));
+            var data = JsonNode.Parse(stream);
+            var languages = data["Languages"];
             if (languages == null) return;
-
-            foreach (JToken item in languages)
+            foreach (var item in languages.AsArray())
             {
-                string locale = item.Value<string>("Locale").Replace("-", "_");
-                Dictionary<string, string> timeZones = item["TimeZones"]!.ToObject<Dictionary<string, string>>();
+                string locale = item["Locale"].GetValue<string>().Replace("-", "_");
+                Dictionary<string, string> timeZones = item["TimeZones"]!.AsObject().ToDictionary(o=> o.Key, o=> (string)o.Value);
 
                 // minor corrections to offsets embedded in display names can go here
                 Fixup(timeZones, "Volgograd Standard Time", "+03:00", "+04:00");

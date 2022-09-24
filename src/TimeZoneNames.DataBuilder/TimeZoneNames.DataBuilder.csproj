@@ -12,14 +12,15 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Compile Include="..\TimeZoneNames\CaseInsensitiveDictionaryConverter.cs" Link="CaseInsensitiveDictionaryConverter.cs" />
     <Compile Include="..\TimeZoneNames\TimeZoneData.cs" Link="TimeZoneData.cs" />
     <Compile Include="..\TimeZoneNames\TimeZoneValues.cs" Link="TimeZoneValues.cs" />
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="NodaTime" Version="3.0.9" />
     <PackageReference Include="SharpCompress" Version="0.30.1" />
+    <PackageReference Include="System.Text.Json" Version="6.0.0" />
   </ItemGroup>
 
 </Project>
