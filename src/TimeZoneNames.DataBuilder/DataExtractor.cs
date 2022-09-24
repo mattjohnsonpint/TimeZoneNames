@@ -23,9 +23,9 @@ namespace TimeZoneNames.DataBuilder
 
         private DataExtractor(string dataPath)
         {
-            _cldrPath = Path.Combine(dataPath, "cldr") + "\\";
-            _nzdPath = Path.Combine(dataPath, "nzd") + "\\";
-            _tzresPath = Path.Combine(dataPath, "tzres") + "\\";
+            _cldrPath = Path.Combine(dataPath, "cldr");
+            _nzdPath = Path.Combine(dataPath, "nzd");
+            _tzresPath = Path.Combine(dataPath, "tzres");
         }
 
         public static DataExtractor Load(string dataPath, bool overwrite)
@@ -144,7 +144,7 @@ namespace TimeZoneNames.DataBuilder
         {
             var results = new List<TimeZoneSelectionData>();
 
-            string[] precedence = File.ReadAllLines(@"data\zone-precedence.txt");
+            string[] precedence = File.ReadAllLines(Path.Combine("data", "zone-precedence.txt"));
 
             IList<Instant> splitPoints = GetAllZoneSplitPoints();
             IList<string> last = null;
@@ -275,7 +275,7 @@ namespace TimeZoneNames.DataBuilder
 
         private void LoadZoneAliases()
         {
-            using FileStream stream = File.OpenRead(_cldrPath + @"common\bcp47\timezone.xml");
+            using FileStream stream = File.OpenRead(Path.Combine(_cldrPath, "common", "bcp47", "timezone.xml"));
             var doc = XDocument.Load(stream);
             IEnumerable<XElement> elements = doc.XPathSelectElements("/ldmlBCP47/keyword/key[@name='tz']/type");
             foreach (XElement element in elements)
@@ -295,8 +295,8 @@ namespace TimeZoneNames.DataBuilder
 
         private void LoadMetaZones()
         {
-            LoadMetaZonesFromFile(_cldrPath + @"common\supplemental\metaZones.xml");
-            LoadMetaZonesFromFile(@"data\metaZones-override.xml");
+            LoadMetaZonesFromFile(Path.Combine(_cldrPath, "common", "supplemental", "metaZones.xml"));
+            LoadMetaZonesFromFile(Path.Combine("data", "metaZones-override.xml"));
         }
 
         private void LoadMetaZonesFromFile(string path)
@@ -331,7 +331,7 @@ namespace TimeZoneNames.DataBuilder
 
         private void LoadLanguages()
         {
-            IEnumerable<string> languages = Directory.GetFiles(_cldrPath + @"common\main")
+            IEnumerable<string> languages = Directory.GetFiles(Path.Combine(_cldrPath, "common", "main"))
                 .Select(Path.GetFileName)
                 .Select(x => x.Substring(0, x.Length - 4));
 
@@ -340,7 +340,7 @@ namespace TimeZoneNames.DataBuilder
 
         private void LoadLanguage(string language)
         {
-            using FileStream stream = File.OpenRead(_cldrPath + @"common\main\" + language + ".xml");
+            using FileStream stream = File.OpenRead(Path.Combine(_cldrPath, "common", "main", language + ".xml"));
             var doc = XDocument.Load(stream);
 
             XElement territoriesElement = doc.XPathSelectElement("/ldml/localeDisplayNames/territories");
@@ -480,7 +480,7 @@ namespace TimeZoneNames.DataBuilder
 
         private void LoadDisplayNames()
         {
-            using var stream = File.OpenRead(_tzresPath + "tzinfo.json");
+            using var stream = File.OpenRead(Path.Combine(_tzresPath, "tzinfo.json"));
             var data = JsonNode.Parse(stream);
             var languages = data["Languages"];
             if (languages == null) return;

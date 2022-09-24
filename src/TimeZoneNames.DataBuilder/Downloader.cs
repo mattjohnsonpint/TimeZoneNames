@@ -18,7 +18,7 @@ namespace TimeZoneNames.DataBuilder
 
             // use the latest dev version of the metazones, as they tend to be more frequently updated
             const string url2 = "https://raw.githubusercontent.com/unicode-org/cldr/master/common/supplemental/metaZones.xml";
-            await DownloadAsync(url2, Path.Combine(dir, @"common\supplemental"));
+            await DownloadAsync(url2, Path.Combine(dir, @"common", "supplemental"));
         }
 
         public static async Task DownloadNzdAsync(string dir)
@@ -59,7 +59,13 @@ namespace TimeZoneNames.DataBuilder
                 if (entry.IsDirectory)
                     continue;
 
-                string targetPath = Path.Combine(dir, entry.Key.Replace('/', '\\'));
+                var subPath = entry.Key;
+                if (Path.DirectorySeparatorChar != '/')
+                {
+                    subPath = subPath.Replace('/', Path.DirectorySeparatorChar);
+                }
+
+                string targetPath = Path.Combine(dir, subPath);
                 string targetDir = Path.GetDirectoryName(targetPath);
                 if (targetDir == null)
                     throw new InvalidOperationException();
