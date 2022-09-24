@@ -38,7 +38,7 @@ internal class TimeZoneData
     public static TimeZoneData Load()
     {
         var assembly = typeof(TimeZoneData).GetTypeInfo().Assembly;
-        using var compressedStream = assembly.GetManifestResourceStream($"{assembly.GetName().Name}.data.json.gz");
+        using var compressedStream = assembly.GetManifestResourceStream("TimeZoneNames.data.json.gz");
         using var stream = new GZipStream(compressedStream!, CompressionMode.Decompress);
         return JsonSerializer.Deserialize<TimeZoneData>(stream, new JsonSerializerOptions
         {
