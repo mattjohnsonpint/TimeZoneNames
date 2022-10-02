@@ -487,8 +487,6 @@ public class DataExtractor
             }
             return data;
         }
-
-
     }
 
     private static TimeZoneValues GetTimeZoneValues(XContainer element)

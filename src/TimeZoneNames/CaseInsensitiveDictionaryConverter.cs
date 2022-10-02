@@ -10,7 +10,7 @@ namespace TimeZoneNames;
 /// using <seealso ref="StringComparer.OrdinalIgnoreCase"/>
 /// </summary>
 /// <typeparam name="TValue">The value type of the dictionary</typeparam>
-public sealed class CaseInsensitiveDictionaryConverter<TValue> : JsonConverter<Dictionary<string, TValue>>
+internal sealed class CaseInsensitiveDictionaryConverter<TValue> : JsonConverter<Dictionary<string, TValue>>
 {
     ///<inheritdoc />
     public override Dictionary<string, TValue> Read(ref Utf8JsonReader reader, Type typeToConvert, JsonSerializerOptions options)
