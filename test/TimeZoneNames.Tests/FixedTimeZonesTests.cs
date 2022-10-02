@@ -17,15 +17,15 @@ public class FixedTimeZonesTests
     [Fact]
     public Task CanGetFixedTimeZoneAbbreviations()
     {
-        var ids = TZNames.GetFixedTimeZoneAbbreviations();
-        return Verifier.Verify(ids);
+        var abbreviations = TZNames.GetFixedTimeZoneAbbreviations();
+        return Verifier.Verify(abbreviations);
     }
     
     [Theory]
     [MemberData(nameof(TestData.GetLanguages), MemberType = typeof(TestData))]
     public Task CanGetFixedTimeZoneNames(string language)
     {
-        var ids = TZNames.GetFixedTimeZoneNames(language);
-        return Verifier.Verify(ids).UseParameters(language);
+        var names = TZNames.GetFixedTimeZoneNames(language);
+        return Verifier.Verify(names).UseParameters(language);
     }
 }

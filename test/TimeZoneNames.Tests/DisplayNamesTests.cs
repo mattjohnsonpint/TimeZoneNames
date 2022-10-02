@@ -23,7 +23,7 @@ public class DisplayNamesTests
     {
         var displayNames = TZNames.GetDisplayNames("en");
 
-        foreach ((var key, var value) in displayNames)
+        foreach (var (key, value) in displayNames)
         {
             _output.WriteLine($"{key} = {value}");
         }
