@@ -161,50 +161,6 @@ public class TimeZoneCountriesTests
     }
 
     [Fact]
-    public void Can_Get__Fixed_TimeZones_EN()
-    {
-        var locale = "en-US";
-
-        var zones = TZNames.GetFixedTimeZoneNames(locale);
-        Assert.NotEmpty(zones);
-        foreach ((var zoneName, var zoneDisplayName) in zones)
-            _output.WriteLine($"{zoneDisplayName,-50} {zoneName}");
-    }
-
-    [Fact]
-    public void Can_Get__Fixed_TimeZones_EN_abbreviations()
-    {
-        var locale = "en-US";
-
-        var zones = TZNames.GetFixedTimeZoneAbbreviations(locale);
-        Assert.NotEmpty(zones);
-        foreach ((var zoneName, var zoneDisplayName) in zones)
-            _output.WriteLine($"{zoneDisplayName,-50} {zoneName}");
-    }
-
-    [Fact]
-    public void Can_Get__Fixed_TimeZones_FR()
-    {
-        var locale = "fr-FR";
-
-        var zones = TZNames.GetFixedTimeZoneNames(locale);
-        Assert.NotEmpty(zones);
-        foreach ((var zoneName, var zoneDisplayName) in zones)
-            _output.WriteLine($"{zoneDisplayName,-50} {zoneName}");
-    }
-
-    [Fact]
-    public void Can_Get__Fixed_TimeZones_RU()
-    {
-        var locale = "ru-RU";
-
-        var zones = TZNames.GetFixedTimeZoneNames(locale);
-        Assert.NotEmpty(zones);
-        foreach ((var zoneName, var zoneDisplayName) in zones)
-            _output.WriteLine($"{zoneDisplayName,-50} {zoneName}");
-    }
-
-    [Fact]
     public void Can_Get_TimeZones_For_US_EN()
     {
         var locale = "en-US";
