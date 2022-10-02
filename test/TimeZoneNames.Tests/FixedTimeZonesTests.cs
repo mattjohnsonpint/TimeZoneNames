@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
 using VerifyXunit;
 using Xunit;
 
@@ -24,13 +22,10 @@ public class FixedTimeZonesTests
     }
     
     [Theory]
-    [MemberData(nameof(GetLanguages))]
+    [MemberData(nameof(TestData.GetLanguages), MemberType = typeof(TestData))]
     public Task CanGetFixedTimeZoneNames(string language)
     {
         var ids = TZNames.GetFixedTimeZoneNames(language);
         return Verifier.Verify(ids).UseParameters(language).AutoVerify();
     }
-
-    public static IEnumerable<object[]> GetLanguages() => 
-        TZNames.GetLanguageCodes().Select(language => new object[] {language});
 }

@@ -1,3 +1,6 @@
+using System.Collections.Generic;
+using System.Linq;
+
 namespace TimeZoneNames.Tests;
 
 internal static class TestData
@@ -19,4 +22,7 @@ internal static class TestData
         "TJ", "TK", "TL", "TM", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "UM", "US", "UY", "UZ", "VA",
         "VC", "VE", "VG", "VI", "VN", "VU", "WF", "WS", "XK", "YE", "YT", "ZA", "ZM", "ZW"
     };
+    
+    public static IEnumerable<object[]> GetLanguages() => 
+        TZNames.GetLanguageCodes().Select(language => new object[] {language});
 }
