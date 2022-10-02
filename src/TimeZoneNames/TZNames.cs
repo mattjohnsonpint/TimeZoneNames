@@ -399,8 +399,8 @@ public static class TZNames
         {
             throw new ArgumentException("Invalid Time Zone", nameof(timeZoneId));
         }
-
-        if (abbreviations && timeZoneId == "Etc/GMT")
+        
+        if (abbreviations && (timeZoneId == "Etc/GMT" || timeZoneId == "Etc/UTC"))
         {
             return new TimeZoneValues { Generic = "UTC", Standard = "UTC", Daylight = "UTC" };
         }
@@ -543,7 +543,7 @@ public static class TZNames
 
         if (timeZoneId.StartsWith("Etc/GMT+") || timeZoneId.StartsWith("Etc/GMT-"))
         {
-            values = GetNames("UTC", languageKey, abbreviations);
+            values = GetNames(abbreviations ? "Etc/GMT" : "Etc/UTC", languageKey, abbreviations);
 
             var sign = timeZoneId[7] == '+' ? '-' : '+';
             var num = timeZoneId.Substring(8);
