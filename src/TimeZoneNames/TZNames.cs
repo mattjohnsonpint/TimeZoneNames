@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Concurrent;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Globalization;
 using System.Linq;
 using TimeZoneConverter;
@@ -133,15 +134,25 @@ public static class TZNames
     }
 
     /// <summary>
-    /// Gets a dictionary of IANA time zone identifiers that represent a fixed offset from UTC, including UTC itself,
-    /// along with the corresponding abbreviation, localized when possible.
-    /// Note that time zones of the form Etc/GMT[+/-]n use an inverted sign from the usual conventions.
+    /// This method is obsolete.
+    /// Instead, use <see cref="GetFixedTimeZoneAbbreviations()"/> without passing a language code.
     /// </summary>
-    /// <param name="languageCode">The IETF language tag (culture code) to use when localizing the abbreviations.</param>
-    /// <returns>A dictionary of IANA time zone identifiers and abbreviations.</returns>
+    [EditorBrowsable(EditorBrowsableState.Never)]
+    [Obsolete("Do not pass a language code. Language does not apply for fixed time zone abbreviations.")]
     public static IDictionary<string, string> GetFixedTimeZoneAbbreviations(string languageCode)
     {
-        return GetFixedTimeZoneNames(languageCode, true);
+        return GetFixedTimeZoneAbbreviations();
+    }
+
+    /// <summary>
+    /// Gets a dictionary of IANA time zone identifiers that represent a fixed offset from UTC, including UTC itself,
+    /// along with the corresponding abbreviation.
+    /// Note that time zones of the form Etc/GMT[+/-]n use an inverted sign from the usual conventions.
+    /// </summary>
+    /// <returns>A dictionary of IANA time zone identifiers and abbreviations.</returns>
+    public static IDictionary<string, string> GetFixedTimeZoneAbbreviations()
+    {
+        return GetFixedTimeZoneNames("en", true);
     }
 
     private static IDictionary<string, string> GetFixedTimeZoneNames(string languageCode, bool abbreviations)
