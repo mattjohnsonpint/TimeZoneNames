@@ -507,9 +507,8 @@ public static class TZNames
                 {
                     return;
                 }
-
-                var langData = Data.CldrLanguageData[key];
-                if (langData != null && langData.CountryNames.ContainsKey(country))
+                
+                if (Data.CldrLanguageData.TryGetValue(key, out var langData) && langData.CountryNames.ContainsKey(country))
                 {
                     regionName = langData.CountryNames[country];
                 }
@@ -532,8 +531,8 @@ public static class TZNames
                     return;
                 }
 
-                var langData = Data.CldrLanguageData[key];
-                if (langData != null && langData.CityNames.ContainsKey(timeZoneId))
+                if (Data.CldrLanguageData.TryGetValue(key, out var langData) &&
+                    langData.CityNames.ContainsKey(timeZoneId))
                 {
                     regionName = langData.CityNames[timeZoneId];
                 }
@@ -559,8 +558,7 @@ public static class TZNames
 
         SearchLanguages(languageKey, values, key =>
         {
-            var langData = Data.CldrLanguageData[key];
-            if (langData == null)
+            if (!Data.CldrLanguageData.TryGetValue(key, out var langData))
             {
                 return;
             }
