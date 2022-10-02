@@ -164,13 +164,15 @@ public static class TZNames
         }
 
         var zones = GetFixedTimeZoneIds();
-        var results = zones.Select(
-                x => new
-                {
-                    Id = x,
-                    Name = GetNames(x, langKey, abbreviations).Generic
-                })
-            .ToDictionary(x => x.Id, x => x.Name, StringComparer.OrdinalIgnoreCase);
+
+        var results = new OrderedDictionary<string, string>(zones.Count, StringComparer.OrdinalIgnoreCase);
+        
+        foreach (var zone in zones)
+        {
+            var name = GetNames(zone, langKey, abbreviations).Generic;
+            results.Add(zone, name);
+        }
+        
 
         return results;
     }
