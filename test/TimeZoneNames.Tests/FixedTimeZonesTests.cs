@@ -11,14 +11,14 @@ public class FixedTimeZonesTests
     public Task CanGetFixedTimeZoneIds()
     {
         var ids = TZNames.GetFixedTimeZoneIds();
-        return Verifier.Verify(ids).AutoVerify();
+        return Verifier.Verify(ids);
     }
     
     [Fact]
     public Task CanGetFixedTimeZoneAbbreviations()
     {
         var ids = TZNames.GetFixedTimeZoneAbbreviations();
-        return Verifier.Verify(ids).AutoVerify();
+        return Verifier.Verify(ids);
     }
     
     [Theory]
@@ -26,6 +26,6 @@ public class FixedTimeZonesTests
     public Task CanGetFixedTimeZoneNames(string language)
     {
         var ids = TZNames.GetFixedTimeZoneNames(language);
-        return Verifier.Verify(ids).UseParameters(language).AutoVerify();
+        return Verifier.Verify(ids).UseParameters(language);
     }
 }
