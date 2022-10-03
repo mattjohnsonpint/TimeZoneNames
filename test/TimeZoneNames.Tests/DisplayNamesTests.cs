@@ -142,7 +142,7 @@ public class DisplayNamesTests
     public Task CanGetDisplayNames_WindowsZones(string language)
     {
         var displayNames = TZNames.GetDisplayNames(language);
-        return Verifier.Verify(displayNames).UseParameters(language).AutoVerify();
+        return Verifier.Verify(displayNames).UseParameters(language);
     }
     
     [Theory]
@@ -150,6 +150,6 @@ public class DisplayNamesTests
     public Task CanGetDisplayNames_IanaZones(string language)
     {
         var displayNames = TZNames.GetDisplayNames(language, useIanaZoneIds: true);
-        return Verifier.Verify(displayNames).UseParameters(language).AutoVerify();
+        return Verifier.Verify(displayNames).UseParameters(language);
     }
 }
