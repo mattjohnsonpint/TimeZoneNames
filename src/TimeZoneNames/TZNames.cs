@@ -316,6 +316,21 @@ public static class TZNames
         return Data.CldrLanguageData.Keys.OrderBy(x => x).ToArray();
     }
 
+    /// <summary>
+    /// Gets a list of all language codes supported by this library.
+    /// </summary>
+    /// <param name="forDisplayNames">If <c>true</c> returns only languages supported by the
+    /// <see cref="GetDisplayNames"/> method, which is a smaller list.</param>
+    /// <returns>A list of language codes.</returns>
+    public static ICollection<string> GetLanguageCodes(bool forDisplayNames)
+    {
+        var keys = forDisplayNames
+            ? (IEnumerable<string>) Data.DisplayNames.Keys
+            : Data.CldrLanguageData.Keys;
+
+        return keys.OrderBy(x => x).ToList();
+    }
+
     private static IComparer<string> GetComparer(string langKey)
     {
         return Comparers.GetOrAdd(langKey, key =>
