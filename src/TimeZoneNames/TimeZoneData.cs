@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO.Compression;
+using System.Linq;
 using System.Security;
 using System.Text.Json;
 using System.Text.Json.Serialization;
@@ -14,37 +15,22 @@ internal class TimeZoneData
         "Mid-Atlantic Standard Time",
         "Kamchatka Standard Time"
     };
-    
-    [JsonInclude]
-    [JsonConverter(typeof(CaseInsensitiveDictionaryConverter<string[]>))]
-    public Dictionary<string, string[]> TzdbZoneCountries { get; init; } = new(StringComparer.OrdinalIgnoreCase);
 
-    [JsonInclude]
-    [JsonConverter(typeof(CaseInsensitiveDictionaryConverter<string[]>))]
-    public Dictionary<string, string[]> CldrZoneCountries { get; init;} = new(StringComparer.OrdinalIgnoreCase);
+    public Dictionary<string, string[]> TzdbZoneCountries { get; set; } = new(StringComparer.OrdinalIgnoreCase);
 
-    [JsonInclude]
-    [JsonConverter(typeof(CaseInsensitiveDictionaryConverter<string>))]
-    public Dictionary<string, string> CldrMetazones { get; init;} = new(StringComparer.OrdinalIgnoreCase);
+    public Dictionary<string, string[]> CldrZoneCountries { get; set; } = new(StringComparer.OrdinalIgnoreCase);
 
-    [JsonInclude]
-    [JsonConverter(typeof(CaseInsensitiveDictionaryConverter<string>))]
-    public Dictionary<string, string> CldrPrimaryZones { get; init;} = new(StringComparer.OrdinalIgnoreCase);
+    public Dictionary<string, string> CldrMetazones { get; set; } = new(StringComparer.OrdinalIgnoreCase);
 
-    [JsonInclude]
-    [JsonConverter(typeof(CaseInsensitiveDictionaryConverter<string>))]
-    public Dictionary<string, string> CldrAliases { get; init;} = new(StringComparer.OrdinalIgnoreCase);
+    public Dictionary<string, string> CldrPrimaryZones { get; set; } = new(StringComparer.OrdinalIgnoreCase);
 
-    [JsonInclude]
-    [JsonConverter(typeof(CaseInsensitiveDictionaryConverter<CldrLanguageData>))]
-    public Dictionary<string, CldrLanguageData> CldrLanguageData { get; init;} = new(StringComparer.OrdinalIgnoreCase);
-    
-    [JsonInclude]
-    public List<TimeZoneSelectionData> SelectionZones { get; init;} = new();
-    
-    [JsonInclude]
-    [JsonConverter(typeof(CaseInsensitiveDictionaryConverter<Dictionary<string, string>>))]
-    public Dictionary<string, Dictionary<string, string>> DisplayNames { get; init;} = new(StringComparer.OrdinalIgnoreCase);
+    public Dictionary<string, string> CldrAliases { get; set; } = new(StringComparer.OrdinalIgnoreCase);
+
+    public Dictionary<string, CldrLanguageData> CldrLanguageData { get; set; } = new(StringComparer.OrdinalIgnoreCase);
+
+    public List<TimeZoneSelectionData> SelectionZones { get; set; } = new();
+
+    public Dictionary<string, Dictionary<string, string>> DisplayNames { get; set; } = new(StringComparer.OrdinalIgnoreCase);
 
     [SecuritySafeCritical]
     public static TimeZoneData Load()
@@ -52,45 +38,58 @@ internal class TimeZoneData
         var assembly = typeof(TimeZoneData).Assembly;
         using var compressedStream = assembly.GetManifestResourceStream("TimeZoneNames.data.json.gz");
         using var stream = new GZipStream(compressedStream!, CompressionMode.Decompress);
-        var timeZoneData = JsonSerializer.Deserialize<TimeZoneData>(stream, new JsonSerializerOptions
-        {
-            PropertyNameCaseInsensitive = true
-        });
-        
+        var timeZoneData = JsonSerializer.Deserialize(stream, TimeZoneDataContext.Default.TimeZoneData)!
+                .ToCaseInsensitive();
+
         return timeZoneData;
     }
+
+    private TimeZoneData ToCaseInsensitive() => new()
+    {
+        CldrAliases = new(CldrAliases, StringComparer.OrdinalIgnoreCase),
+        CldrLanguageData = CldrLanguageData.ToDictionary(e => e.Key, e => e.Value.ToCaseInsensitive(), StringComparer.OrdinalIgnoreCase),
+        CldrMetazones = new(CldrMetazones, StringComparer.OrdinalIgnoreCase),
+        CldrPrimaryZones = new(CldrPrimaryZones, StringComparer.OrdinalIgnoreCase),
+        CldrZoneCountries = new(CldrZoneCountries, StringComparer.OrdinalIgnoreCase),
+        DisplayNames = new(DisplayNames, StringComparer.OrdinalIgnoreCase),
+        TzdbZoneCountries = new(TzdbZoneCountries, StringComparer.OrdinalIgnoreCase),
+        SelectionZones = SelectionZones
+    };
 }
 
 internal class CldrLanguageData
 {
-    [JsonInclude] 
     public TimeZoneValues Formats { get; set; }
 
-    [JsonInclude] 
     public string FallbackFormat { get; set; }
 
-    [JsonInclude]
-    [JsonConverter(typeof(CaseInsensitiveDictionaryConverter<TimeZoneValues>))]
-    public Dictionary<string, TimeZoneValues> ShortNames { get; init; } = new(StringComparer.OrdinalIgnoreCase);
+    public Dictionary<string, TimeZoneValues> ShortNames { get; set; } = new(StringComparer.OrdinalIgnoreCase);
 
-    [JsonInclude]
-    [JsonConverter(typeof(CaseInsensitiveDictionaryConverter<TimeZoneValues>))]
-    public Dictionary<string, TimeZoneValues> LongNames { get; init; } = new(StringComparer.OrdinalIgnoreCase);
+    public Dictionary<string, TimeZoneValues> LongNames { get; set; } = new(StringComparer.OrdinalIgnoreCase);
 
-    [JsonInclude]
-    [JsonConverter(typeof(CaseInsensitiveDictionaryConverter<string>))]
-    public Dictionary<string, string> CountryNames { get; init; } = new(StringComparer.OrdinalIgnoreCase);
+    public Dictionary<string, string> CountryNames { get; set; } = new(StringComparer.OrdinalIgnoreCase);
 
-    [JsonInclude]
-    [JsonConverter(typeof(CaseInsensitiveDictionaryConverter<string>))]
-    public Dictionary<string, string> CityNames { get; init; } = new(StringComparer.OrdinalIgnoreCase);
+    public Dictionary<string, string> CityNames { get; set; } = new(StringComparer.OrdinalIgnoreCase);
+
+    internal CldrLanguageData ToCaseInsensitive() => new()
+    {
+        Formats = Formats,
+        FallbackFormat = FallbackFormat,
+        ShortNames = new(ShortNames, StringComparer.OrdinalIgnoreCase),
+        CityNames = new(CityNames, StringComparer.OrdinalIgnoreCase),
+        CountryNames = new(CountryNames, StringComparer.OrdinalIgnoreCase),
+        LongNames = new(LongNames, StringComparer.OrdinalIgnoreCase)
+    };
 }
 
 internal class TimeZoneSelectionData
 {
-    [JsonInclude]
-    public string Id { get; init; }
+    public string Id { get; set; }
 
-    [JsonInclude]
-    public DateTime ThresholdUtc { get; init; }
+    public DateTime ThresholdUtc { get; set; }
+}
+
+[JsonSerializable(typeof(TimeZoneData), GenerationMode = JsonSourceGenerationMode.Metadata)]
+internal partial class TimeZoneDataContext : JsonSerializerContext
+{
 }
