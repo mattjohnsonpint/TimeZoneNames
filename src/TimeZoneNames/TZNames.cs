@@ -14,7 +14,9 @@ namespace TimeZoneNames;
 public static class TZNames
 {
     private static readonly TimeZoneData Data = TimeZoneData.Load();
-    private static readonly ConcurrentDictionary<string, IComparer<string>> Comparers = new(StringComparer.OrdinalIgnoreCase);
+
+    private static readonly ConcurrentDictionary<string, IComparer<string>> Comparers =
+        new(StringComparer.OrdinalIgnoreCase);
 
     /// <summary>
     /// Gets an array of IANA time zone identifiers for a specific country.
@@ -69,7 +71,8 @@ public static class TZNames
     /// <param name="languageCode">The IETF language tag (culture code) to use when localizing the display names.</param>
     /// <param name="threshold">A point in time to filter to.  The resulting list will only contain zones that differ after this point.</param>
     /// <returns>A dictionary of IANA time zone identifiers and localized display names.</returns>
-    public static IDictionary<string, string> GetTimeZonesForCountry(string countryCode, string languageCode, DateTimeOffset threshold)
+    public static IDictionary<string, string> GetTimeZonesForCountry(string countryCode, string languageCode,
+        DateTimeOffset threshold)
     {
         var langKey = GetLanguageKey(languageCode);
         if (langKey == null)
@@ -166,13 +169,13 @@ public static class TZNames
         var zones = GetFixedTimeZoneIds();
 
         var results = new OrderedDictionary<string, string>(zones.Count, StringComparer.OrdinalIgnoreCase);
-        
+
         foreach (var zone in zones)
         {
             var name = GetNames(zone, langKey, abbreviations).Generic;
             results.Add(zone, name);
         }
-        
+
 
         return results;
     }
@@ -266,7 +269,8 @@ public static class TZNames
             return displayName;
         }
 
-        if (TZConvert.TryIanaToWindows(timeZoneId, out timeZoneId) && displayNames.TryGetValue(timeZoneId, out displayName))
+        if (TZConvert.TryIanaToWindows(timeZoneId, out timeZoneId) &&
+            displayNames.TryGetValue(timeZoneId, out displayName))
         {
             return displayName;
         }
@@ -364,8 +368,9 @@ public static class TZNames
 
             if (key == null)
             {
-                var keys = forDisplayNames ? (IEnumerable<string>)Data.DisplayNames.Keys : Data.CldrLanguageData.Keys;
-                key = keys.FirstOrDefault(x => x.Split('_')[0].Equals(languageCode.Split('_')[0], StringComparison.OrdinalIgnoreCase));
+                var keys = forDisplayNames ? (IEnumerable<string>) Data.DisplayNames.Keys : Data.CldrLanguageData.Keys;
+                key = keys.FirstOrDefault(x =>
+                    x.Split('_')[0].Equals(languageCode.Split('_')[0], StringComparison.OrdinalIgnoreCase));
 
                 if (key == null)
                 {
@@ -428,10 +433,10 @@ public static class TZNames
         {
             throw new ArgumentException("Invalid Time Zone", nameof(timeZoneId));
         }
-        
+
         if (abbreviations && (timeZoneId == "Etc/GMT" || timeZoneId == "Etc/UTC"))
         {
-            return new TimeZoneValues { Generic = "UTC", Standard = "UTC", Daylight = "UTC" };
+            return new TimeZoneValues {Generic = "UTC", Standard = "UTC", Daylight = "UTC"};
         }
 
         var metaZone = GetMetazone(timeZoneId);
@@ -536,8 +541,9 @@ public static class TZNames
                 {
                     return;
                 }
-                
-                if (Data.CldrLanguageData.TryGetValue(key, out var langData) && langData.CountryNames.ContainsKey(country))
+
+                if (Data.CldrLanguageData.TryGetValue(key, out var langData) &&
+                    langData.CountryNames.ContainsKey(country))
                 {
                     regionName = langData.CountryNames[country];
                 }
@@ -625,7 +631,8 @@ public static class TZNames
         return Data.CldrMetazones.TryGetValue(timeZoneId, out var metaZone) ? metaZone : null;
     }
 
-    private static bool PopulateDirectValues(string langKey, TimeZoneValues values, string timeZoneId, string metaZone, bool abbreviations)
+    private static bool PopulateDirectValues(string langKey, TimeZoneValues values, string timeZoneId, string metaZone,
+        bool abbreviations)
     {
         if (!Data.CldrLanguageData.ContainsKey(langKey))
         {
