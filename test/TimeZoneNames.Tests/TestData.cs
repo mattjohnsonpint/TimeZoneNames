@@ -25,4 +25,7 @@ internal static class TestData
     
     public static IEnumerable<object[]> GetLanguages() => 
         TZNames.GetLanguageCodes().Select(language => new object[] {language});
+    
+    public static IEnumerable<object[]> GetDisplayNameLanguages() => 
+        TZNames.GetLanguageCodes(forDisplayNames: true).Select(language => new object[] {language});
 }

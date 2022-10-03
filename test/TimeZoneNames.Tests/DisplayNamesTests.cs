@@ -3,12 +3,15 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
 using System.Runtime.InteropServices;
+using System.Threading.Tasks;
 using TimeZoneConverter;
+using VerifyXunit;
 using Xunit;
 using Xunit.Abstractions;
 
 namespace TimeZoneNames.Tests;
 
+[UsesVerify]
 public class DisplayNamesTests
 {
     private readonly ITestOutputHelper _output;
@@ -132,5 +135,21 @@ public class DisplayNamesTests
     {
         var displayName = TZNames.GetDisplayNameForTimeZone("Yukon Standard Time", "en");
         Assert.Equal("(UTC-07:00) Yukon", displayName);
+    }
+
+    [Theory]
+    [MemberData(nameof(TestData.GetDisplayNameLanguages), MemberType = typeof(TestData))]
+    public Task CanGetDisplayNames_WindowsZones(string language)
+    {
+        var displayNames = TZNames.GetDisplayNames(language);
+        return Verifier.Verify(displayNames).UseParameters(language).AutoVerify();
+    }
+    
+    [Theory]
+    [MemberData(nameof(TestData.GetDisplayNameLanguages), MemberType = typeof(TestData))]
+    public Task CanGetDisplayNames_IanaZones(string language)
+    {
+        var displayNames = TZNames.GetDisplayNames(language, useIanaZoneIds: true);
+        return Verifier.Verify(displayNames).UseParameters(language).AutoVerify();
     }
 }
