@@ -1,12 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading.Tasks;
 using NodaTime;
+using TimeZoneConverter;
+using VerifyXunit;
 using Xunit;
 using Xunit.Abstractions;
 
 namespace TimeZoneNames.Tests;
 
+[UsesVerify]
 public class TimeZoneNamesTest
 {
     private readonly ITestOutputHelper _output;
@@ -326,5 +330,18 @@ public class TimeZoneNamesTest
         Assert.Equal(namesForZone.Generic, namesForAlias.Generic);
         Assert.Equal(namesForZone.Standard, namesForAlias.Standard);
         Assert.Equal(namesForZone.Daylight, namesForAlias.Daylight);
+    }
+    
+    [Theory]
+    [MemberData(nameof(TestData.GetLanguages), MemberType = typeof(TestData))]
+    public Task CanGetNamesForTimeZone(string language)
+    {
+        var results = new List<KeyValuePair<string, TimeZoneValues>>();
+        foreach (var zone in TZConvert.KnownIanaTimeZoneNames.OrderBy(x => x))
+        {
+            results.Add(new KeyValuePair<string, TimeZoneValues>(zone, TZNames.GetNamesForTimeZone(zone, language)));
+        }
+        
+        return Verifier.Verify(results).UseParameters(language).AutoVerify();
     }
 }
