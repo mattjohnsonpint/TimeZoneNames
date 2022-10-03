@@ -9,6 +9,12 @@ namespace TimeZoneNames;
 
 internal class TimeZoneData
 {
+    public static readonly string[] ObsoleteWindowsZones =
+    {
+        "Mid-Atlantic Standard Time",
+        "Kamchatka Standard Time"
+    };
+    
     [JsonInclude]
     [JsonConverter(typeof(CaseInsensitiveDictionaryConverter<string[]>))]
     public Dictionary<string, string[]> TzdbZoneCountries { get; init; } = new(StringComparer.OrdinalIgnoreCase);

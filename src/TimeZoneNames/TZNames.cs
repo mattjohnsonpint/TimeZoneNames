@@ -295,13 +295,14 @@ public static class TZNames
             return displayNames;
         }
 
-        // Remove obsolete zones before mapping
-        displayNames.Remove("Mid-Atlantic Standard Time");
-        displayNames.Remove("Kamchatka Standard Time");
-
         var languageCodeParts = languageCode.Split('_', '-');
         var territoryCode = languageCodeParts.Length < 2 ? "001" : languageCodeParts[1];
-        return displayNames.ToDictionary(x => TZConvert.WindowsToIana(x.Key, territoryCode), x => x.Value, StringComparer.OrdinalIgnoreCase);
+        return displayNames
+            .Where(x => !TimeZoneData.ObsoleteWindowsZones.Contains(x.Key))
+            .ToDictionary(
+                x => TZConvert.WindowsToIana(x.Key, territoryCode),
+                x => x.Value,
+                StringComparer.OrdinalIgnoreCase);
     }
 
 
