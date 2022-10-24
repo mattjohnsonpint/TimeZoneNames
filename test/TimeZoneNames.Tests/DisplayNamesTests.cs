@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Globalization;
+using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices;
 using System.Threading.Tasks;
@@ -151,7 +152,11 @@ public class DisplayNamesTests
     public Task CanGetDisplayNames_WindowsZones(string language)
     {
         var displayNames = TZNames.GetDisplayNames(language);
-        return Verifier.Verify(displayNames).UseParameters(language).DontSortDictionaries();
+        return Verifier
+            .Verify(displayNames)
+            .UseDirectory(Path.Combine("Verify", nameof(DisplayNamesTests), nameof(CanGetDisplayNames_WindowsZones)))
+            .UseParameters(language)
+            .DontSortDictionaries();
     }
     
     [Theory]
@@ -159,6 +164,10 @@ public class DisplayNamesTests
     public Task CanGetDisplayNames_IanaZones(string language)
     {
         var displayNames = TZNames.GetDisplayNames(language, useIanaZoneIds: true);
-        return Verifier.Verify(displayNames).UseParameters(language).DontSortDictionaries();
+        return Verifier
+            .Verify(displayNames)
+            .UseDirectory(Path.Combine("Verify", nameof(DisplayNamesTests), nameof(CanGetDisplayNames_IanaZones)))
+            .UseParameters(language)
+            .DontSortDictionaries();
     }
 }

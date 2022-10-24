@@ -1,4 +1,5 @@
-﻿using System.Threading.Tasks;
+﻿using System.IO;
+using System.Threading.Tasks;
 using VerifyXunit;
 using Xunit;
 
@@ -11,14 +12,19 @@ public class FixedTimeZonesTests
     public Task CanGetFixedTimeZoneIds()
     {
         var ids = TZNames.GetFixedTimeZoneIds();
-        return Verifier.Verify(ids);
+        return Verifier
+            .Verify(ids)
+            .UseDirectory(Path.Combine("Verify", nameof(FixedTimeZonesTests)));
     }
     
     [Fact]
     public Task CanGetFixedTimeZoneAbbreviations()
     {
         var abbreviations = TZNames.GetFixedTimeZoneAbbreviations();
-        return Verifier.Verify(abbreviations).DontSortDictionaries();
+        return Verifier
+            .Verify(abbreviations)
+            .UseDirectory(Path.Combine("Verify", nameof(FixedTimeZonesTests)))
+            .DontSortDictionaries();
     }
     
     [Theory]
@@ -26,6 +32,10 @@ public class FixedTimeZonesTests
     public Task CanGetFixedTimeZoneNames(string language)
     {
         var names = TZNames.GetFixedTimeZoneNames(language);
-        return Verifier.Verify(names).DontSortDictionaries().UseParameters(language);
+        return Verifier
+            .Verify(names)
+            .UseDirectory(Path.Combine("Verify", nameof(FixedTimeZonesTests), nameof(CanGetFixedTimeZoneNames)))
+            .DontSortDictionaries()
+            .UseParameters(language);
     }
 }

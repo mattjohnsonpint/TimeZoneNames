@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 using NodaTime;
@@ -342,6 +343,10 @@ public class TimeZoneNamesTest
                 zone => TZNames.GetNamesForTimeZone(zone, language),
                 StringComparer.InvariantCulture);
 
-        return Verifier.Verify(results).UseParameters(language).DontSortDictionaries();
+        return Verifier
+            .Verify(results)
+            .UseDirectory(Path.Combine("Verify", nameof(TimeZoneNamesTest), nameof(CanGetNamesForTimeZone)))
+            .UseParameters(language)
+            .DontSortDictionaries();
     }
 }
