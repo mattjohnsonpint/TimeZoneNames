@@ -29,7 +29,19 @@ internal class OrderedDictionary<TKey, TValue> : IDictionary<TKey, TValue>
 
     public bool Contains(KeyValuePair<TKey, TValue> item) => _dictionary[item.Key]?.Equals(item.Value) == true;
 
-    public void CopyTo(KeyValuePair<TKey, TValue>[] array, int arrayIndex) => _dictionary.CopyTo(array, arrayIndex);
+    public void CopyTo(KeyValuePair<TKey, TValue>[] array, int arrayIndex)
+    {
+        var i = 0;
+        foreach (DictionaryEntry entry in _dictionary)
+        {
+            if (i >= arrayIndex && i < array.Length)
+            {
+                array[i] = new KeyValuePair<TKey, TValue>((TKey) entry.Key, (TValue) entry.Value);
+            }
+            
+            i++;
+        }
+    }
 
     public bool Remove(KeyValuePair<TKey, TValue> item) => Remove(item.Key);
 
