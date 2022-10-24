@@ -44,7 +44,16 @@ public class DisplayNamesTests
 
         var displayNames = TZNames.GetDisplayNames(languageCode);
 
-        var expected = TimeZoneInfo.GetSystemTimeZones().ToDictionary(x => x.Id, x => x.DisplayName);
+        string[] obsoleteZones =
+        {
+            "Mid-Atlantic Standard Time",
+            "Kamchatka Standard Time"
+        };
+
+        var expected = TimeZoneInfo.GetSystemTimeZones()
+            .Where(tzi => !obsoleteZones.Contains(tzi.Id))
+            .Select(tzi => new KeyValuePair<string, string>(tzi.Id, tzi.DisplayName))
+            .ToList();
 
         foreach (var item in expected)
         {
@@ -142,7 +151,7 @@ public class DisplayNamesTests
     public Task CanGetDisplayNames_WindowsZones(string language)
     {
         var displayNames = TZNames.GetDisplayNames(language);
-        return Verifier.Verify(displayNames).UseParameters(language);
+        return Verifier.Verify(displayNames).UseParameters(language).DontSortDictionaries();
     }
     
     [Theory]
@@ -150,6 +159,6 @@ public class DisplayNamesTests
     public Task CanGetDisplayNames_IanaZones(string language)
     {
         var displayNames = TZNames.GetDisplayNames(language, useIanaZoneIds: true);
-        return Verifier.Verify(displayNames).UseParameters(language);
+        return Verifier.Verify(displayNames).UseParameters(language).DontSortDictionaries();
     }
 }

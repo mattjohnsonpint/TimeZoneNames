@@ -1,4762 +1,2977 @@
-﻿[
-  {
-    Key: Africa/Abidjan,
-    Value: {
-      Generic: Среднее время по Гринвичу,
-      Standard: Среднее время по Гринвичу,
-      Daylight: Среднее время по Гринвичу
-    }
-  },
-  {
-    Key: Africa/Accra,
-    Value: {
-      Generic: Среднее время по Гринвичу,
-      Standard: Среднее время по Гринвичу,
-      Daylight: Среднее время по Гринвичу
-    }
-  },
-  {
-    Key: Africa/Addis_Ababa,
-    Value: {
-      Generic: Восточная Африка,
-      Standard: Восточная Африка,
-      Daylight: Восточная Африка
-    }
-  },
-  {
-    Key: Africa/Algiers,
-    Value: {
-      Generic: Центральная Европа,
-      Standard: Центральная Европа, стандартное время,
-      Daylight: Центральная Европа, летнее время
-    }
-  },
-  {
-    Key: Africa/Asmara,
-    Value: {
-      Generic: Восточная Африка,
-      Standard: Восточная Африка,
-      Daylight: Восточная Африка
-    }
-  },
-  {
-    Key: Africa/Asmera,
-    Value: {
-      Generic: Восточная Африка,
-      Standard: Восточная Африка,
-      Daylight: Восточная Африка
-    }
-  },
-  {
-    Key: Africa/Bamako,
-    Value: {
-      Generic: Среднее время по Гринвичу,
-      Standard: Среднее время по Гринвичу,
-      Daylight: Среднее время по Гринвичу
-    }
-  },
-  {
-    Key: Africa/Bangui,
-    Value: {
-      Generic: Западная Африка,
-      Standard: Западная Африка, стандартное время,
-      Daylight: Западная Африка, летнее время
-    }
-  },
-  {
-    Key: Africa/Banjul,
-    Value: {
-      Generic: Среднее время по Гринвичу,
-      Standard: Среднее время по Гринвичу,
-      Daylight: Среднее время по Гринвичу
-    }
-  },
-  {
-    Key: Africa/Bissau,
-    Value: {
-      Generic: Среднее время по Гринвичу,
-      Standard: Среднее время по Гринвичу,
-      Daylight: Среднее время по Гринвичу
-    }
-  },
-  {
-    Key: Africa/Blantyre,
-    Value: {
-      Generic: Центральная Африка,
-      Standard: Центральная Африка,
-      Daylight: Центральная Африка
-    }
-  },
-  {
-    Key: Africa/Brazzaville,
-    Value: {
-      Generic: Западная Африка,
-      Standard: Западная Африка, стандартное время,
-      Daylight: Западная Африка, летнее время
-    }
-  },
-  {
-    Key: Africa/Bujumbura,
-    Value: {
-      Generic: Центральная Африка,
-      Standard: Центральная Африка,
-      Daylight: Центральная Африка
-    }
-  },
-  {
-    Key: Africa/Cairo,
-    Value: {
-      Generic: Восточная Европа,
-      Standard: Восточная Европа, стандартное время,
-      Daylight: Восточная Европа, летнее время
-    }
-  },
-  {
-    Key: Africa/Casablanca,
-    Value: {
-      Generic: Западная Европа,
-      Standard: Западная Европа, стандартное время,
-      Daylight: Западная Европа, летнее время
-    }
-  },
-  {
-    Key: Africa/Ceuta,
-    Value: {
-      Generic: Центральная Европа,
-      Standard: Центральная Европа, стандартное время,
-      Daylight: Центральная Европа, летнее время
-    }
-  },
-  {
-    Key: Africa/Conakry,
-    Value: {
-      Generic: Среднее время по Гринвичу,
-      Standard: Среднее время по Гринвичу,
-      Daylight: Среднее время по Гринвичу
-    }
-  },
-  {
-    Key: Africa/Dakar,
-    Value: {
-      Generic: Среднее время по Гринвичу,
-      Standard: Среднее время по Гринвичу,
-      Daylight: Среднее время по Гринвичу
-    }
-  },
-  {
-    Key: Africa/Dar_es_Salaam,
-    Value: {
-      Generic: Восточная Африка,
-      Standard: Восточная Африка,
-      Daylight: Восточная Африка
-    }
-  },
-  {
-    Key: Africa/Djibouti,
-    Value: {
-      Generic: Восточная Африка,
-      Standard: Восточная Африка,
-      Daylight: Восточная Африка
-    }
-  },
-  {
-    Key: Africa/Douala,
-    Value: {
-      Generic: Западная Африка,
-      Standard: Западная Африка, стандартное время,
-      Daylight: Западная Африка, летнее время
-    }
-  },
-  {
-    Key: Africa/El_Aaiun,
-    Value: {
-      Generic: Западная Европа,
-      Standard: Западная Европа, стандартное время,
-      Daylight: Западная Европа, летнее время
-    }
-  },
-  {
-    Key: Africa/Freetown,
-    Value: {
-      Generic: Среднее время по Гринвичу,
-      Standard: Среднее время по Гринвичу,
-      Daylight: Среднее время по Гринвичу
-    }
-  },
-  {
-    Key: Africa/Gaborone,
-    Value: {
-      Generic: Центральная Африка,
-      Standard: Центральная Африка,
-      Daylight: Центральная Африка
-    }
-  },
-  {
-    Key: Africa/Harare,
-    Value: {
-      Generic: Центральная Африка,
-      Standard: Центральная Африка,
-      Daylight: Центральная Африка
-    }
-  },
-  {
-    Key: Africa/Johannesburg,
-    Value: {
-      Generic: Южная Африка,
-      Standard: Южная Африка,
-      Daylight: Южная Африка
-    }
-  },
-  {
-    Key: Africa/Juba,
-    Value: {
-      Generic: Центральная Африка,
-      Standard: Центральная Африка,
-      Daylight: Центральная Африка
-    }
-  },
-  {
-    Key: Africa/Kampala,
-    Value: {
-      Generic: Восточная Африка,
-      Standard: Восточная Африка,
-      Daylight: Восточная Африка
-    }
-  },
-  {
-    Key: Africa/Khartoum,
-    Value: {
-      Generic: Центральная Африка,
-      Standard: Центральная Африка,
-      Daylight: Центральная Африка
-    }
-  },
-  {
-    Key: Africa/Kigali,
-    Value: {
-      Generic: Центральная Африка,
-      Standard: Центральная Африка,
-      Daylight: Центральная Африка
-    }
-  },
-  {
-    Key: Africa/Kinshasa,
-    Value: {
-      Generic: Западная Африка,
-      Standard: Западная Африка, стандартное время,
-      Daylight: Западная Африка, летнее время
-    }
-  },
-  {
-    Key: Africa/Lagos,
-    Value: {
-      Generic: Западная Африка,
-      Standard: Западная Африка, стандартное время,
-      Daylight: Западная Африка, летнее время
-    }
-  },
-  {
-    Key: Africa/Libreville,
-    Value: {
-      Generic: Западная Африка,
-      Standard: Западная Африка, стандартное время,
-      Daylight: Западная Африка, летнее время
-    }
-  },
-  {
-    Key: Africa/Lome,
-    Value: {
-      Generic: Среднее время по Гринвичу,
-      Standard: Среднее время по Гринвичу,
-      Daylight: Среднее время по Гринвичу
-    }
-  },
-  {
-    Key: Africa/Luanda,
-    Value: {
-      Generic: Западная Африка,
-      Standard: Западная Африка, стандартное время,
-      Daylight: Западная Африка, летнее время
-    }
-  },
-  {
-    Key: Africa/Lubumbashi,
-    Value: {
-      Generic: Центральная Африка,
-      Standard: Центральная Африка,
-      Daylight: Центральная Африка
-    }
-  },
-  {
-    Key: Africa/Lusaka,
-    Value: {
-      Generic: Центральная Африка,
-      Standard: Центральная Африка,
-      Daylight: Центральная Африка
-    }
-  },
-  {
-    Key: Africa/Malabo,
-    Value: {
-      Generic: Западная Африка,
-      Standard: Западная Африка, стандартное время,
-      Daylight: Западная Африка, летнее время
-    }
-  },
-  {
-    Key: Africa/Maputo,
-    Value: {
-      Generic: Центральная Африка,
-      Standard: Центральная Африка,
-      Daylight: Центральная Африка
-    }
-  },
-  {
-    Key: Africa/Maseru,
-    Value: {
-      Generic: Южная Африка,
-      Standard: Южная Африка,
-      Daylight: Южная Африка
-    }
-  },
-  {
-    Key: Africa/Mbabane,
-    Value: {
-      Generic: Южная Африка,
-      Standard: Южная Африка,
-      Daylight: Южная Африка
-    }
-  },
-  {
-    Key: Africa/Mogadishu,
-    Value: {
-      Generic: Восточная Африка,
-      Standard: Восточная Африка,
-      Daylight: Восточная Африка
-    }
-  },
-  {
-    Key: Africa/Monrovia,
-    Value: {
-      Generic: Среднее время по Гринвичу,
-      Standard: Среднее время по Гринвичу,
-      Daylight: Среднее время по Гринвичу
-    }
-  },
-  {
-    Key: Africa/Nairobi,
-    Value: {
-      Generic: Восточная Африка,
-      Standard: Восточная Африка,
-      Daylight: Восточная Африка
-    }
-  },
-  {
-    Key: Africa/Ndjamena,
-    Value: {
-      Generic: Западная Африка,
-      Standard: Западная Африка, стандартное время,
-      Daylight: Западная Африка, летнее время
-    }
-  },
-  {
-    Key: Africa/Niamey,
-    Value: {
-      Generic: Западная Африка,
-      Standard: Западная Африка, стандартное время,
-      Daylight: Западная Африка, летнее время
-    }
-  },
-  {
-    Key: Africa/Nouakchott,
-    Value: {
-      Generic: Среднее время по Гринвичу,
-      Standard: Среднее время по Гринвичу,
-      Daylight: Среднее время по Гринвичу
-    }
-  },
-  {
-    Key: Africa/Ouagadougou,
-    Value: {
-      Generic: Среднее время по Гринвичу,
-      Standard: Среднее время по Гринвичу,
-      Daylight: Среднее время по Гринвичу
-    }
-  },
-  {
-    Key: Africa/Porto-Novo,
-    Value: {
-      Generic: Западная Африка,
-      Standard: Западная Африка, стандартное время,
-      Daylight: Западная Африка, летнее время
-    }
-  },
-  {
-    Key: Africa/Sao_Tome,
-    Value: {
-      Generic: Среднее время по Гринвичу,
-      Standard: Среднее время по Гринвичу,
-      Daylight: Среднее время по Гринвичу
-    }
-  },
-  {
-    Key: Africa/Timbuktu,
-    Value: {
-      Generic: Среднее время по Гринвичу,
-      Standard: Среднее время по Гринвичу,
-      Daylight: Среднее время по Гринвичу
-    }
-  },
-  {
-    Key: Africa/Tripoli,
-    Value: {
-      Generic: Восточная Европа,
-      Standard: Восточная Европа, стандартное время,
-      Daylight: Восточная Европа, летнее время
-    }
-  },
-  {
-    Key: Africa/Tunis,
-    Value: {
-      Generic: Центральная Европа,
-      Standard: Центральная Европа, стандартное время,
-      Daylight: Центральная Европа, летнее время
-    }
-  },
-  {
-    Key: Africa/Windhoek,
-    Value: {
-      Generic: Центральная Африка,
-      Standard: Центральная Африка,
-      Daylight: Центральная Африка
-    }
-  },
-  {
-    Key: America/Adak,
-    Value: {
-      Generic: Гавайско-алеутское время,
-      Standard: Гавайско-алеутское стандартное время,
-      Daylight: Гавайско-алеутское летнее время
-    }
-  },
-  {
-    Key: America/Anchorage,
-    Value: {
-      Generic: Аляска,
-      Standard: Аляска, стандартное время,
-      Daylight: Аляска, летнее время
-    }
-  },
-  {
-    Key: America/Anguilla,
-    Value: {
-      Generic: Атлантическое время,
-      Standard: Атлантическое стандартное время,
-      Daylight: Атлантическое летнее время
-    }
-  },
-  {
-    Key: America/Antigua,
-    Value: {
-      Generic: Атлантическое время,
-      Standard: Атлантическое стандартное время,
-      Daylight: Атлантическое летнее время
-    }
-  },
-  {
-    Key: America/Araguaina,
-    Value: {
-      Generic: Бразилия,
-      Standard: Бразилия, стандартное время,
-      Daylight: Бразилия, летнее время
-    }
-  },
-  {
-    Key: America/Argentina/Buenos_Aires,
-    Value: {
-      Generic: Аргентина,
-      Standard: Аргентина, стандартное время,
-      Daylight: Аргентина, летнее время
-    }
-  },
-  {
-    Key: America/Argentina/Catamarca,
-    Value: {
-      Generic: Аргентина,
-      Standard: Аргентина, стандартное время,
-      Daylight: Аргентина, летнее время
-    }
-  },
-  {
-    Key: America/Argentina/ComodRivadavia,
-    Value: {
-      Generic: Аргентина,
-      Standard: Аргентина, стандартное время,
-      Daylight: Аргентина, летнее время
-    }
-  },
-  {
-    Key: America/Argentina/Cordoba,
-    Value: {
-      Generic: Аргентина,
-      Standard: Аргентина, стандартное время,
-      Daylight: Аргентина, летнее время
-    }
-  },
-  {
-    Key: America/Argentina/Jujuy,
-    Value: {
-      Generic: Аргентина,
-      Standard: Аргентина, стандартное время,
-      Daylight: Аргентина, летнее время
-    }
-  },
-  {
-    Key: America/Argentina/La_Rioja,
-    Value: {
-      Generic: Аргентина,
-      Standard: Аргентина, стандартное время,
-      Daylight: Аргентина, летнее время
-    }
-  },
-  {
-    Key: America/Argentina/Mendoza,
-    Value: {
-      Generic: Аргентина,
-      Standard: Аргентина, стандартное время,
-      Daylight: Аргентина, летнее время
-    }
-  },
-  {
-    Key: America/Argentina/Rio_Gallegos,
-    Value: {
-      Generic: Аргентина,
-      Standard: Аргентина, стандартное время,
-      Daylight: Аргентина, летнее время
-    }
-  },
-  {
-    Key: America/Argentina/Salta,
-    Value: {
-      Generic: Аргентина,
-      Standard: Аргентина, стандартное время,
-      Daylight: Аргентина, летнее время
-    }
-  },
-  {
-    Key: America/Argentina/San_Juan,
-    Value: {
-      Generic: Аргентина,
-      Standard: Аргентина, стандартное время,
-      Daylight: Аргентина, летнее время
-    }
-  },
-  {
-    Key: America/Argentina/San_Luis,
-    Value: {
-      Generic: Аргентина,
-      Standard: Аргентина, стандартное время,
-      Daylight: Аргентина, летнее время
-    }
-  },
-  {
-    Key: America/Argentina/Tucuman,
-    Value: {
-      Generic: Аргентина,
-      Standard: Аргентина, стандартное время,
-      Daylight: Аргентина, летнее время
-    }
-  },
-  {
-    Key: America/Argentina/Ushuaia,
-    Value: {
-      Generic: Аргентина,
-      Standard: Аргентина, стандартное время,
-      Daylight: Аргентина, летнее время
-    }
-  },
-  {
-    Key: America/Aruba,
-    Value: {
-      Generic: Атлантическое время,
-      Standard: Атлантическое стандартное время,
-      Daylight: Атлантическое летнее время
-    }
-  },
-  {
-    Key: America/Asuncion,
-    Value: {
-      Generic: Парагвай,
-      Standard: Парагвай, стандартное время,
-      Daylight: Парагвай, летнее время
-    }
-  },
-  {
-    Key: America/Atikokan,
-    Value: {
-      Generic: Восточная Америка,
-      Standard: Восточная Америка, стандартное время,
-      Daylight: Восточная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Atka,
-    Value: {
-      Generic: Гавайско-алеутское время,
-      Standard: Гавайско-алеутское стандартное время,
-      Daylight: Гавайско-алеутское летнее время
-    }
-  },
-  {
-    Key: America/Bahia,
-    Value: {
-      Generic: Бразилия,
-      Standard: Бразилия, стандартное время,
-      Daylight: Бразилия, летнее время
-    }
-  },
-  {
-    Key: America/Bahia_Banderas,
-    Value: {
-      Generic: Центральная Америка,
-      Standard: Центральная Америка, стандартное время,
-      Daylight: Центральная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Barbados,
-    Value: {
-      Generic: Атлантическое время,
-      Standard: Атлантическое стандартное время,
-      Daylight: Атлантическое летнее время
-    }
-  },
-  {
-    Key: America/Belem,
-    Value: {
-      Generic: Бразилия,
-      Standard: Бразилия, стандартное время,
-      Daylight: Бразилия, летнее время
-    }
-  },
-  {
-    Key: America/Belize,
-    Value: {
-      Generic: Центральная Америка,
-      Standard: Центральная Америка, стандартное время,
-      Daylight: Центральная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Blanc-Sablon,
-    Value: {
-      Generic: Атлантическое время,
-      Standard: Атлантическое стандартное время,
-      Daylight: Атлантическое летнее время
-    }
-  },
-  {
-    Key: America/Boa_Vista,
-    Value: {
-      Generic: Амазонка,
-      Standard: Амазонка, стандартное время,
-      Daylight: Амазонка, летнее время
-    }
-  },
-  {
-    Key: America/Bogota,
-    Value: {
-      Generic: Колумбия,
-      Standard: Колумбия, стандартное время,
-      Daylight: Колумбия, летнее время
-    }
-  },
-  {
-    Key: America/Boise,
-    Value: {
-      Generic: Горное время (Северная Америка),
-      Standard: Стандартное горное время (Северная Америка),
-      Daylight: Летнее горное время (Северная Америка)
-    }
-  },
-  {
-    Key: America/Buenos_Aires,
-    Value: {
-      Generic: Аргентина,
-      Standard: Аргентина, стандартное время,
-      Daylight: Аргентина, летнее время
-    }
-  },
-  {
-    Key: America/Cambridge_Bay,
-    Value: {
-      Generic: Горное время (Северная Америка),
-      Standard: Стандартное горное время (Северная Америка),
-      Daylight: Летнее горное время (Северная Америка)
-    }
-  },
-  {
-    Key: America/Campo_Grande,
-    Value: {
-      Generic: Амазонка,
-      Standard: Амазонка, стандартное время,
-      Daylight: Амазонка, летнее время
-    }
-  },
-  {
-    Key: America/Cancun,
-    Value: {
-      Generic: Восточная Америка,
-      Standard: Восточная Америка, стандартное время,
-      Daylight: Восточная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Caracas,
-    Value: {
-      Generic: Венесуэла,
-      Standard: Венесуэла,
-      Daylight: Венесуэла
-    }
-  },
-  {
-    Key: America/Catamarca,
-    Value: {
-      Generic: Аргентина,
-      Standard: Аргентина, стандартное время,
-      Daylight: Аргентина, летнее время
-    }
-  },
-  {
-    Key: America/Cayenne,
-    Value: {
-      Generic: Французская Гвиана,
-      Standard: Французская Гвиана,
-      Daylight: Французская Гвиана
-    }
-  },
-  {
-    Key: America/Cayman,
-    Value: {
-      Generic: Восточная Америка,
-      Standard: Восточная Америка, стандартное время,
-      Daylight: Восточная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Chicago,
-    Value: {
-      Generic: Центральная Америка,
-      Standard: Центральная Америка, стандартное время,
-      Daylight: Центральная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Chihuahua,
-    Value: {
-      Generic: Тихоокеанское мексиканское время,
-      Standard: Тихоокеанское мексиканское стандартное время,
-      Daylight: Тихоокеанское мексиканское летнее время
-    }
-  },
-  {
-    Key: America/Coral_Harbour,
-    Value: {
-      Generic: Восточная Америка,
-      Standard: Восточная Америка, стандартное время,
-      Daylight: Восточная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Cordoba,
-    Value: {
-      Generic: Аргентина,
-      Standard: Аргентина, стандартное время,
-      Daylight: Аргентина, летнее время
-    }
-  },
-  {
-    Key: America/Costa_Rica,
-    Value: {
-      Generic: Центральная Америка,
-      Standard: Центральная Америка, стандартное время,
-      Daylight: Центральная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Creston,
-    Value: {
-      Generic: Горное время (Северная Америка),
-      Standard: Стандартное горное время (Северная Америка),
-      Daylight: Летнее горное время (Северная Америка)
-    }
-  },
-  {
-    Key: America/Cuiaba,
-    Value: {
-      Generic: Амазонка,
-      Standard: Амазонка, стандартное время,
-      Daylight: Амазонка, летнее время
-    }
-  },
-  {
-    Key: America/Curacao,
-    Value: {
-      Generic: Атлантическое время,
-      Standard: Атлантическое стандартное время,
-      Daylight: Атлантическое летнее время
-    }
-  },
-  {
-    Key: America/Danmarkshavn,
-    Value: {
-      Generic: Среднее время по Гринвичу,
-      Standard: Среднее время по Гринвичу,
-      Daylight: Среднее время по Гринвичу
-    }
-  },
-  {
-    Key: America/Dawson,
-    Value: {
-      Generic: Юкон,
-      Standard: Юкон,
-      Daylight: Юкон
-    }
-  },
-  {
-    Key: America/Dawson_Creek,
-    Value: {
-      Generic: Горное время (Северная Америка),
-      Standard: Стандартное горное время (Северная Америка),
-      Daylight: Летнее горное время (Северная Америка)
-    }
-  },
-  {
-    Key: America/Denver,
-    Value: {
-      Generic: Горное время (Северная Америка),
-      Standard: Стандартное горное время (Северная Америка),
-      Daylight: Летнее горное время (Северная Америка)
-    }
-  },
-  {
-    Key: America/Detroit,
-    Value: {
-      Generic: Восточная Америка,
-      Standard: Восточная Америка, стандартное время,
-      Daylight: Восточная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Dominica,
-    Value: {
-      Generic: Атлантическое время,
-      Standard: Атлантическое стандартное время,
-      Daylight: Атлантическое летнее время
-    }
-  },
-  {
-    Key: America/Edmonton,
-    Value: {
-      Generic: Горное время (Северная Америка),
-      Standard: Стандартное горное время (Северная Америка),
-      Daylight: Летнее горное время (Северная Америка)
-    }
-  },
-  {
-    Key: America/Eirunepe,
-    Value: {
-      Generic: Акри время,
-      Standard: Акри стандартное время,
-      Daylight: Акри летнее время
-    }
-  },
-  {
-    Key: America/El_Salvador,
-    Value: {
-      Generic: Центральная Америка,
-      Standard: Центральная Америка, стандартное время,
-      Daylight: Центральная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Ensenada,
-    Value: {
-      Generic: Тихоокеанское время,
-      Standard: Тихоокеанское стандартное время,
-      Daylight: Тихоокеанское летнее время
-    }
-  },
-  {
-    Key: America/Fort_Nelson,
-    Value: {
-      Generic: Горное время (Северная Америка),
-      Standard: Стандартное горное время (Северная Америка),
-      Daylight: Летнее горное время (Северная Америка)
-    }
-  },
-  {
-    Key: America/Fort_Wayne,
-    Value: {
-      Generic: Восточная Америка,
-      Standard: Восточная Америка, стандартное время,
-      Daylight: Восточная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Fortaleza,
-    Value: {
-      Generic: Бразилия,
-      Standard: Бразилия, стандартное время,
-      Daylight: Бразилия, летнее время
-    }
-  },
-  {
-    Key: America/Glace_Bay,
-    Value: {
-      Generic: Атлантическое время,
-      Standard: Атлантическое стандартное время,
-      Daylight: Атлантическое летнее время
-    }
-  },
-  {
-    Key: America/Godthab,
-    Value: {
-      Generic: Западная Гренландия,
-      Standard: Западная Гренландия, стандартное время,
-      Daylight: Западная Гренландия, летнее время
-    }
-  },
-  {
-    Key: America/Goose_Bay,
-    Value: {
-      Generic: Атлантическое время,
-      Standard: Атлантическое стандартное время,
-      Daylight: Атлантическое летнее время
-    }
-  },
-  {
-    Key: America/Grand_Turk,
-    Value: {
-      Generic: Восточная Америка,
-      Standard: Восточная Америка, стандартное время,
-      Daylight: Восточная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Grenada,
-    Value: {
-      Generic: Атлантическое время,
-      Standard: Атлантическое стандартное время,
-      Daylight: Атлантическое летнее время
-    }
-  },
-  {
-    Key: America/Guadeloupe,
-    Value: {
-      Generic: Атлантическое время,
-      Standard: Атлантическое стандартное время,
-      Daylight: Атлантическое летнее время
-    }
-  },
-  {
-    Key: America/Guatemala,
-    Value: {
-      Generic: Центральная Америка,
-      Standard: Центральная Америка, стандартное время,
-      Daylight: Центральная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Guayaquil,
-    Value: {
-      Generic: Эквадор,
-      Standard: Эквадор,
-      Daylight: Эквадор
-    }
-  },
-  {
-    Key: America/Guyana,
-    Value: {
-      Generic: Гайана,
-      Standard: Гайана,
-      Daylight: Гайана
-    }
-  },
-  {
-    Key: America/Halifax,
-    Value: {
-      Generic: Атлантическое время,
-      Standard: Атлантическое стандартное время,
-      Daylight: Атлантическое летнее время
-    }
-  },
-  {
-    Key: America/Havana,
-    Value: {
-      Generic: Куба,
-      Standard: Куба, стандартное время,
-      Daylight: Куба, летнее время
-    }
-  },
-  {
-    Key: America/Hermosillo,
-    Value: {
-      Generic: Тихоокеанское мексиканское время,
-      Standard: Тихоокеанское мексиканское стандартное время,
-      Daylight: Тихоокеанское мексиканское летнее время
-    }
-  },
-  {
-    Key: America/Indiana/Indianapolis,
-    Value: {
-      Generic: Восточная Америка,
-      Standard: Восточная Америка, стандартное время,
-      Daylight: Восточная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Indiana/Knox,
-    Value: {
-      Generic: Центральная Америка,
-      Standard: Центральная Америка, стандартное время,
-      Daylight: Центральная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Indiana/Marengo,
-    Value: {
-      Generic: Восточная Америка,
-      Standard: Восточная Америка, стандартное время,
-      Daylight: Восточная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Indiana/Petersburg,
-    Value: {
-      Generic: Восточная Америка,
-      Standard: Восточная Америка, стандартное время,
-      Daylight: Восточная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Indiana/Tell_City,
-    Value: {
-      Generic: Центральная Америка,
-      Standard: Центральная Америка, стандартное время,
-      Daylight: Центральная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Indiana/Vevay,
-    Value: {
-      Generic: Восточная Америка,
-      Standard: Восточная Америка, стандартное время,
-      Daylight: Восточная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Indiana/Vincennes,
-    Value: {
-      Generic: Восточная Америка,
-      Standard: Восточная Америка, стандартное время,
-      Daylight: Восточная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Indiana/Winamac,
-    Value: {
-      Generic: Восточная Америка,
-      Standard: Восточная Америка, стандартное время,
-      Daylight: Восточная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Indianapolis,
-    Value: {
-      Generic: Восточная Америка,
-      Standard: Восточная Америка, стандартное время,
-      Daylight: Восточная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Inuvik,
-    Value: {
-      Generic: Горное время (Северная Америка),
-      Standard: Стандартное горное время (Северная Америка),
-      Daylight: Летнее горное время (Северная Америка)
-    }
-  },
-  {
-    Key: America/Iqaluit,
-    Value: {
-      Generic: Восточная Америка,
-      Standard: Восточная Америка, стандартное время,
-      Daylight: Восточная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Jamaica,
-    Value: {
-      Generic: Восточная Америка,
-      Standard: Восточная Америка, стандартное время,
-      Daylight: Восточная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Jujuy,
-    Value: {
-      Generic: Аргентина,
-      Standard: Аргентина, стандартное время,
-      Daylight: Аргентина, летнее время
-    }
-  },
-  {
-    Key: America/Juneau,
-    Value: {
-      Generic: Аляска,
-      Standard: Аляска, стандартное время,
-      Daylight: Аляска, летнее время
-    }
-  },
-  {
-    Key: America/Kentucky/Louisville,
-    Value: {
-      Generic: Восточная Америка,
-      Standard: Восточная Америка, стандартное время,
-      Daylight: Восточная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Kentucky/Monticello,
-    Value: {
-      Generic: Восточная Америка,
-      Standard: Восточная Америка, стандартное время,
-      Daylight: Восточная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Knox_IN,
-    Value: {
-      Generic: Центральная Америка,
-      Standard: Центральная Америка, стандартное время,
-      Daylight: Центральная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Kralendijk,
-    Value: {
-      Generic: Атлантическое время,
-      Standard: Атлантическое стандартное время,
-      Daylight: Атлантическое летнее время
-    }
-  },
-  {
-    Key: America/La_Paz,
-    Value: {
-      Generic: Боливия,
-      Standard: Боливия,
-      Daylight: Боливия
-    }
-  },
-  {
-    Key: America/Lima,
-    Value: {
-      Generic: Перу,
-      Standard: Перу, стандартное время,
-      Daylight: Перу, летнее время
-    }
-  },
-  {
-    Key: America/Los_Angeles,
-    Value: {
-      Generic: Тихоокеанское время,
-      Standard: Тихоокеанское стандартное время,
-      Daylight: Тихоокеанское летнее время
-    }
-  },
-  {
-    Key: America/Louisville,
-    Value: {
-      Generic: Восточная Америка,
-      Standard: Восточная Америка, стандартное время,
-      Daylight: Восточная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Lower_Princes,
-    Value: {
-      Generic: Атлантическое время,
-      Standard: Атлантическое стандартное время,
-      Daylight: Атлантическое летнее время
-    }
-  },
-  {
-    Key: America/Maceio,
-    Value: {
-      Generic: Бразилия,
-      Standard: Бразилия, стандартное время,
-      Daylight: Бразилия, летнее время
-    }
-  },
-  {
-    Key: America/Managua,
-    Value: {
-      Generic: Центральная Америка,
-      Standard: Центральная Америка, стандартное время,
-      Daylight: Центральная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Manaus,
-    Value: {
-      Generic: Амазонка,
-      Standard: Амазонка, стандартное время,
-      Daylight: Амазонка, летнее время
-    }
-  },
-  {
-    Key: America/Marigot,
-    Value: {
-      Generic: Атлантическое время,
-      Standard: Атлантическое стандартное время,
-      Daylight: Атлантическое летнее время
-    }
-  },
-  {
-    Key: America/Martinique,
-    Value: {
-      Generic: Атлантическое время,
-      Standard: Атлантическое стандартное время,
-      Daylight: Атлантическое летнее время
-    }
-  },
-  {
-    Key: America/Matamoros,
-    Value: {
-      Generic: Центральная Америка,
-      Standard: Центральная Америка, стандартное время,
-      Daylight: Центральная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Mazatlan,
-    Value: {
-      Generic: Тихоокеанское мексиканское время,
-      Standard: Тихоокеанское мексиканское стандартное время,
-      Daylight: Тихоокеанское мексиканское летнее время
-    }
-  },
-  {
-    Key: America/Mendoza,
-    Value: {
-      Generic: Аргентина,
-      Standard: Аргентина, стандартное время,
-      Daylight: Аргентина, летнее время
-    }
-  },
-  {
-    Key: America/Menominee,
-    Value: {
-      Generic: Центральная Америка,
-      Standard: Центральная Америка, стандартное время,
-      Daylight: Центральная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Merida,
-    Value: {
-      Generic: Центральная Америка,
-      Standard: Центральная Америка, стандартное время,
-      Daylight: Центральная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Metlakatla,
-    Value: {
-      Generic: Аляска,
-      Standard: Аляска, стандартное время,
-      Daylight: Аляска, летнее время
-    }
-  },
-  {
-    Key: America/Mexico_City,
-    Value: {
-      Generic: Центральная Америка,
-      Standard: Центральная Америка, стандартное время,
-      Daylight: Центральная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Miquelon,
-    Value: {
-      Generic: Сен-Пьер и Микелон,
-      Standard: Сен-Пьер и Микелон, стандартное время,
-      Daylight: Сен-Пьер и Микелон, летнее время
-    }
-  },
-  {
-    Key: America/Moncton,
-    Value: {
-      Generic: Атлантическое время,
-      Standard: Атлантическое стандартное время,
-      Daylight: Атлантическое летнее время
-    }
-  },
-  {
-    Key: America/Monterrey,
-    Value: {
-      Generic: Центральная Америка,
-      Standard: Центральная Америка, стандартное время,
-      Daylight: Центральная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Montevideo,
-    Value: {
-      Generic: Уругвай,
-      Standard: Уругвай, стандартное время,
-      Daylight: Уругвай, летнее время
-    }
-  },
-  {
-    Key: America/Montreal,
-    Value: {
-      Generic: Восточная Америка,
-      Standard: Восточная Америка, стандартное время,
-      Daylight: Восточная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Montserrat,
-    Value: {
-      Generic: Атлантическое время,
-      Standard: Атлантическое стандартное время,
-      Daylight: Атлантическое летнее время
-    }
-  },
-  {
-    Key: America/Nassau,
-    Value: {
-      Generic: Восточная Америка,
-      Standard: Восточная Америка, стандартное время,
-      Daylight: Восточная Америка, летнее время
-    }
-  },
-  {
-    Key: America/New_York,
-    Value: {
-      Generic: Восточная Америка,
-      Standard: Восточная Америка, стандартное время,
-      Daylight: Восточная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Nipigon,
-    Value: {
-      Generic: Восточная Америка,
-      Standard: Восточная Америка, стандартное время,
-      Daylight: Восточная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Nome,
-    Value: {
-      Generic: Аляска,
-      Standard: Аляска, стандартное время,
-      Daylight: Аляска, летнее время
-    }
-  },
-  {
-    Key: America/Noronha,
-    Value: {
-      Generic: Фернанду-ди-Норонья,
-      Standard: Фернанду-ди-Норонья, стандартное время,
-      Daylight: Фернанду-ди-Норонья, летнее время
-    }
-  },
-  {
-    Key: America/North_Dakota/Beulah,
-    Value: {
-      Generic: Центральная Америка,
-      Standard: Центральная Америка, стандартное время,
-      Daylight: Центральная Америка, летнее время
-    }
-  },
-  {
-    Key: America/North_Dakota/Center,
-    Value: {
-      Generic: Центральная Америка,
-      Standard: Центральная Америка, стандартное время,
-      Daylight: Центральная Америка, летнее время
-    }
-  },
-  {
-    Key: America/North_Dakota/New_Salem,
-    Value: {
-      Generic: Центральная Америка,
-      Standard: Центральная Америка, стандартное время,
-      Daylight: Центральная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Nuuk,
-    Value: {
-      Generic: Западная Гренландия,
-      Standard: Западная Гренландия, стандартное время,
-      Daylight: Западная Гренландия, летнее время
-    }
-  },
-  {
-    Key: America/Ojinaga,
-    Value: {
-      Generic: Горное время (Северная Америка),
-      Standard: Стандартное горное время (Северная Америка),
-      Daylight: Летнее горное время (Северная Америка)
-    }
-  },
-  {
-    Key: America/Panama,
-    Value: {
-      Generic: Восточная Америка,
-      Standard: Восточная Америка, стандартное время,
-      Daylight: Восточная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Pangnirtung,
-    Value: {
-      Generic: Восточная Америка,
-      Standard: Восточная Америка, стандартное время,
-      Daylight: Восточная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Paramaribo,
-    Value: {
-      Generic: Суринам,
-      Standard: Суринам,
-      Daylight: Суринам
-    }
-  },
-  {
-    Key: America/Phoenix,
-    Value: {
-      Generic: Горное время (Северная Америка),
-      Standard: Стандартное горное время (Северная Америка),
-      Daylight: Летнее горное время (Северная Америка)
-    }
-  },
-  {
-    Key: America/Port_of_Spain,
-    Value: {
-      Generic: Атлантическое время,
-      Standard: Атлантическое стандартное время,
-      Daylight: Атлантическое летнее время
-    }
-  },
-  {
-    Key: America/Port-au-Prince,
-    Value: {
-      Generic: Восточная Америка,
-      Standard: Восточная Америка, стандартное время,
-      Daylight: Восточная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Porto_Acre,
-    Value: {
-      Generic: Акри время,
-      Standard: Акри стандартное время,
-      Daylight: Акри летнее время
-    }
-  },
-  {
-    Key: America/Porto_Velho,
-    Value: {
-      Generic: Амазонка,
-      Standard: Амазонка, стандартное время,
-      Daylight: Амазонка, летнее время
-    }
-  },
-  {
-    Key: America/Puerto_Rico,
-    Value: {
-      Generic: Атлантическое время,
-      Standard: Атлантическое стандартное время,
-      Daylight: Атлантическое летнее время
-    }
-  },
-  {
-    Key: America/Punta_Arenas,
-    Value: {
-      Generic: Чили,
-      Standard: Чили, стандартное время,
-      Daylight: Чили, летнее время
-    }
-  },
-  {
-    Key: America/Rainy_River,
-    Value: {
-      Generic: Центральная Америка,
-      Standard: Центральная Америка, стандартное время,
-      Daylight: Центральная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Rankin_Inlet,
-    Value: {
-      Generic: Центральная Америка,
-      Standard: Центральная Америка, стандартное время,
-      Daylight: Центральная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Recife,
-    Value: {
-      Generic: Бразилия,
-      Standard: Бразилия, стандартное время,
-      Daylight: Бразилия, летнее время
-    }
-  },
-  {
-    Key: America/Regina,
-    Value: {
-      Generic: Центральная Америка,
-      Standard: Центральная Америка, стандартное время,
-      Daylight: Центральная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Resolute,
-    Value: {
-      Generic: Центральная Америка,
-      Standard: Центральная Америка, стандартное время,
-      Daylight: Центральная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Rio_Branco,
-    Value: {
-      Generic: Акри время,
-      Standard: Акри стандартное время,
-      Daylight: Акри летнее время
-    }
-  },
-  {
-    Key: America/Rosario,
-    Value: {
-      Generic: Аргентина,
-      Standard: Аргентина, стандартное время,
-      Daylight: Аргентина, летнее время
-    }
-  },
-  {
-    Key: America/Santa_Isabel,
-    Value: {
-      Generic: Северо-западное мексиканское время,
-      Standard: Северо-западное мексиканское стандартное время,
-      Daylight: Северо-западное мексиканское летнее время
-    }
-  },
-  {
-    Key: America/Santarem,
-    Value: {
-      Generic: Бразилия,
-      Standard: Бразилия, стандартное время,
-      Daylight: Бразилия, летнее время
-    }
-  },
-  {
-    Key: America/Santiago,
-    Value: {
-      Generic: Чили,
-      Standard: Чили, стандартное время,
-      Daylight: Чили, летнее время
-    }
-  },
-  {
-    Key: America/Santo_Domingo,
-    Value: {
-      Generic: Атлантическое время,
-      Standard: Атлантическое стандартное время,
-      Daylight: Атлантическое летнее время
-    }
-  },
-  {
-    Key: America/Sao_Paulo,
-    Value: {
-      Generic: Бразилия,
-      Standard: Бразилия, стандартное время,
-      Daylight: Бразилия, летнее время
-    }
-  },
-  {
-    Key: America/Scoresbysund,
-    Value: {
-      Generic: Восточная Гренландия,
-      Standard: Восточная Гренландия, стандарное время,
-      Daylight: Восточная Гренландия, летнее время
-    }
-  },
-  {
-    Key: America/Shiprock,
-    Value: {
-      Generic: Горное время (Северная Америка),
-      Standard: Стандартное горное время (Северная Америка),
-      Daylight: Летнее горное время (Северная Америка)
-    }
-  },
-  {
-    Key: America/Sitka,
-    Value: {
-      Generic: Аляска,
-      Standard: Аляска, стандартное время,
-      Daylight: Аляска, летнее время
-    }
-  },
-  {
-    Key: America/St_Barthelemy,
-    Value: {
-      Generic: Атлантическое время,
-      Standard: Атлантическое стандартное время,
-      Daylight: Атлантическое летнее время
-    }
-  },
-  {
-    Key: America/St_Johns,
-    Value: {
-      Generic: Ньюфаундленд,
-      Standard: Ньюфаундленд, стандартное время,
-      Daylight: Ньюфаундленд, летнее время
-    }
-  },
-  {
-    Key: America/St_Kitts,
-    Value: {
-      Generic: Атлантическое время,
-      Standard: Атлантическое стандартное время,
-      Daylight: Атлантическое летнее время
-    }
-  },
-  {
-    Key: America/St_Lucia,
-    Value: {
-      Generic: Атлантическое время,
-      Standard: Атлантическое стандартное время,
-      Daylight: Атлантическое летнее время
-    }
-  },
-  {
-    Key: America/St_Thomas,
-    Value: {
-      Generic: Атлантическое время,
-      Standard: Атлантическое стандартное время,
-      Daylight: Атлантическое летнее время
-    }
-  },
-  {
-    Key: America/St_Vincent,
-    Value: {
-      Generic: Атлантическое время,
-      Standard: Атлантическое стандартное время,
-      Daylight: Атлантическое летнее время
-    }
-  },
-  {
-    Key: America/Swift_Current,
-    Value: {
-      Generic: Центральная Америка,
-      Standard: Центральная Америка, стандартное время,
-      Daylight: Центральная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Tegucigalpa,
-    Value: {
-      Generic: Центральная Америка,
-      Standard: Центральная Америка, стандартное время,
-      Daylight: Центральная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Thule,
-    Value: {
-      Generic: Атлантическое время,
-      Standard: Атлантическое стандартное время,
-      Daylight: Атлантическое летнее время
-    }
-  },
-  {
-    Key: America/Thunder_Bay,
-    Value: {
-      Generic: Восточная Америка,
-      Standard: Восточная Америка, стандартное время,
-      Daylight: Восточная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Tijuana,
-    Value: {
-      Generic: Тихоокеанское время,
-      Standard: Тихоокеанское стандартное время,
-      Daylight: Тихоокеанское летнее время
-    }
-  },
-  {
-    Key: America/Toronto,
-    Value: {
-      Generic: Восточная Америка,
-      Standard: Восточная Америка, стандартное время,
-      Daylight: Восточная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Tortola,
-    Value: {
-      Generic: Атлантическое время,
-      Standard: Атлантическое стандартное время,
-      Daylight: Атлантическое летнее время
-    }
-  },
-  {
-    Key: America/Vancouver,
-    Value: {
-      Generic: Тихоокеанское время,
-      Standard: Тихоокеанское стандартное время,
-      Daylight: Тихоокеанское летнее время
-    }
-  },
-  {
-    Key: America/Virgin,
-    Value: {
-      Generic: Атлантическое время,
-      Standard: Атлантическое стандартное время,
-      Daylight: Атлантическое летнее время
-    }
-  },
-  {
-    Key: America/Whitehorse,
-    Value: {
-      Generic: Юкон,
-      Standard: Юкон,
-      Daylight: Юкон
-    }
-  },
-  {
-    Key: America/Winnipeg,
-    Value: {
-      Generic: Центральная Америка,
-      Standard: Центральная Америка, стандартное время,
-      Daylight: Центральная Америка, летнее время
-    }
-  },
-  {
-    Key: America/Yakutat,
-    Value: {
-      Generic: Аляска,
-      Standard: Аляска, стандартное время,
-      Daylight: Аляска, летнее время
-    }
-  },
-  {
-    Key: America/Yellowknife,
-    Value: {
-      Generic: Горное время (Северная Америка),
-      Standard: Стандартное горное время (Северная Америка),
-      Daylight: Летнее горное время (Северная Америка)
-    }
-  },
-  {
-    Key: Antarctica/Casey,
-    Value: {
-      Generic: Кейси,
-      Standard: Кейси,
-      Daylight: Кейси
-    }
-  },
-  {
-    Key: Antarctica/Davis,
-    Value: {
-      Generic: Дейвис,
-      Standard: Дейвис,
-      Daylight: Дейвис
-    }
-  },
-  {
-    Key: Antarctica/DumontDUrville,
-    Value: {
-      Generic: Дюмон-д’Юрвиль,
-      Standard: Дюмон-д’Юрвиль,
-      Daylight: Дюмон-д’Юрвиль
-    }
-  },
-  {
-    Key: Antarctica/Macquarie,
-    Value: {
-      Generic: Восточная Австралия,
-      Standard: Восточная Австралия, стандартное время,
-      Daylight: Восточная Австралия, летнее время
-    }
-  },
-  {
-    Key: Antarctica/Mawson,
-    Value: {
-      Generic: Моусон,
-      Standard: Моусон,
-      Daylight: Моусон
-    }
-  },
-  {
-    Key: Antarctica/McMurdo,
-    Value: {
-      Generic: Новая Зеландия,
-      Standard: Новая Зеландия, стандартное время,
-      Daylight: Новая Зеландия, летнее время
-    }
-  },
-  {
-    Key: Antarctica/Palmer,
-    Value: {
-      Generic: Чили,
-      Standard: Чили, стандартное время,
-      Daylight: Чили, летнее время
-    }
-  },
-  {
-    Key: Antarctica/Rothera,
-    Value: {
-      Generic: Ротера,
-      Standard: Ротера,
-      Daylight: Ротера
-    }
-  },
-  {
-    Key: Antarctica/South_Pole,
-    Value: {
-      Generic: Новая Зеландия,
-      Standard: Новая Зеландия, стандартное время,
-      Daylight: Новая Зеландия, летнее время
-    }
-  },
-  {
-    Key: Antarctica/Syowa,
-    Value: {
-      Generic: Сёва,
-      Standard: Сёва,
-      Daylight: Сёва
-    }
-  },
-  {
-    Key: Antarctica/Troll,
-    Value: {
-      Generic: Среднее время по Гринвичу,
-      Standard: Среднее время по Гринвичу,
-      Daylight: Среднее время по Гринвичу
-    }
-  },
-  {
-    Key: Antarctica/Vostok,
-    Value: {
-      Generic: Восток,
-      Standard: Восток,
-      Daylight: Восток
-    }
-  },
-  {
-    Key: Arctic/Longyearbyen,
-    Value: {
-      Generic: Центральная Европа,
-      Standard: Центральная Европа, стандартное время,
-      Daylight: Центральная Европа, летнее время
-    }
-  },
-  {
-    Key: Asia/Aden,
-    Value: {
-      Generic: Саудовская Аравия,
-      Standard: Саудовская Аравия, стандартное время,
-      Daylight: Саудовская Аравия, летнее время
-    }
-  },
-  {
-    Key: Asia/Almaty,
-    Value: {
-      Generic: Восточный Казахстан,
-      Standard: Восточный Казахстан,
-      Daylight: Восточный Казахстан
-    }
-  },
-  {
-    Key: Asia/Amman,
-    Value: {
-      Generic: Восточная Европа,
-      Standard: Восточная Европа, стандартное время,
-      Daylight: Восточная Европа, летнее время
-    }
-  },
-  {
-    Key: Asia/Anadyr,
-    Value: {
-      Generic: Анадырь,
-      Standard: Анадырь, стандартное время,
-      Daylight: Анадырь, летнее время
-    }
-  },
-  {
-    Key: Asia/Aqtau,
-    Value: {
-      Generic: Западный Казахстан,
-      Standard: Западный Казахстан,
-      Daylight: Западный Казахстан
-    }
-  },
-  {
-    Key: Asia/Aqtobe,
-    Value: {
-      Generic: Западный Казахстан,
-      Standard: Западный Казахстан,
-      Daylight: Западный Казахстан
-    }
-  },
-  {
-    Key: Asia/Ashgabat,
-    Value: {
-      Generic: Туркменистан,
-      Standard: Туркменистан, стандартное время,
-      Daylight: Туркменистан, летнее время
-    }
-  },
-  {
-    Key: Asia/Ashkhabad,
-    Value: {
-      Generic: Туркменистан,
-      Standard: Туркменистан, стандартное время,
-      Daylight: Туркменистан, летнее время
-    }
-  },
-  {
-    Key: Asia/Atyrau,
-    Value: {
-      Generic: Западный Казахстан,
-      Standard: Западный Казахстан,
-      Daylight: Западный Казахстан
-    }
-  },
-  {
-    Key: Asia/Baghdad,
-    Value: {
-      Generic: Саудовская Аравия,
-      Standard: Саудовская Аравия, стандартное время,
-      Daylight: Саудовская Аравия, летнее время
-    }
-  },
-  {
-    Key: Asia/Bahrain,
-    Value: {
-      Generic: Саудовская Аравия,
-      Standard: Саудовская Аравия, стандартное время,
-      Daylight: Саудовская Аравия, летнее время
-    }
-  },
-  {
-    Key: Asia/Baku,
-    Value: {
-      Generic: Азербайджан,
-      Standard: Азербайджан, стандартное время,
-      Daylight: Азербайджан, летнее время
-    }
-  },
-  {
-    Key: Asia/Bangkok,
-    Value: {
-      Generic: Индокитай,
-      Standard: Индокитай,
-      Daylight: Индокитай
-    }
-  },
-  {
-    Key: Asia/Barnaul,
-    Value: {
-      Generic: Барнаул,
-      Standard: Барнаул, стандартное время,
-      Daylight: Барнаул, летнее время
-    }
-  },
-  {
-    Key: Asia/Beirut,
-    Value: {
-      Generic: Восточная Европа,
-      Standard: Восточная Европа, стандартное время,
-      Daylight: Восточная Европа, летнее время
-    }
-  },
-  {
-    Key: Asia/Bishkek,
-    Value: {
-      Generic: Киргизия,
-      Standard: Киргизия,
-      Daylight: Киргизия
-    }
-  },
-  {
-    Key: Asia/Brunei,
-    Value: {
-      Generic: Бруней-Даруссалам,
-      Standard: Бруней-Даруссалам,
-      Daylight: Бруней-Даруссалам
-    }
-  },
-  {
-    Key: Asia/Calcutta,
-    Value: {
-      Generic: Индия,
-      Standard: Индия,
-      Daylight: Индия
-    }
-  },
-  {
-    Key: Asia/Chita,
-    Value: {
-      Generic: Чита,
-      Standard: Чита, стандартное время,
-      Daylight: Чита, летнее время
-    }
-  },
-  {
-    Key: Asia/Choibalsan,
-    Value: {
-      Generic: Улан-Батор,
-      Standard: Улан-Батор, стандартное время,
-      Daylight: Улан-Батор, летнее время
-    }
-  },
-  {
-    Key: Asia/Chongqing,
-    Value: {
-      Generic: Китай,
-      Standard: Китай, стандартное время,
-      Daylight: Китай, летнее время
-    }
-  },
-  {
-    Key: Asia/Chungking,
-    Value: {
-      Generic: Китай,
-      Standard: Китай, стандартное время,
-      Daylight: Китай, летнее время
-    }
-  },
-  {
-    Key: Asia/Colombo,
-    Value: {
-      Generic: Индия,
-      Standard: Индия,
-      Daylight: Индия
-    }
-  },
-  {
-    Key: Asia/Dacca,
-    Value: {
-      Generic: Бангладеш,
-      Standard: Бангладеш, стандартное время,
-      Daylight: Бангладеш, летнее время
-    }
-  },
-  {
-    Key: Asia/Damascus,
-    Value: {
-      Generic: Восточная Европа,
-      Standard: Восточная Европа, стандартное время,
-      Daylight: Восточная Европа, летнее время
-    }
-  },
-  {
-    Key: Asia/Dhaka,
-    Value: {
-      Generic: Бангладеш,
-      Standard: Бангладеш, стандартное время,
-      Daylight: Бангладеш, летнее время
-    }
-  },
-  {
-    Key: Asia/Dili,
-    Value: {
-      Generic: Восточный Тимор,
-      Standard: Восточный Тимор,
-      Daylight: Восточный Тимор
-    }
-  },
-  {
-    Key: Asia/Dubai,
-    Value: {
-      Generic: Персидский залив,
-      Standard: Персидский залив,
-      Daylight: Персидский залив
-    }
-  },
-  {
-    Key: Asia/Dushanbe,
-    Value: {
-      Generic: Таджикистан,
-      Standard: Таджикистан,
-      Daylight: Таджикистан
-    }
-  },
-  {
-    Key: Asia/Famagusta,
-    Value: {
-      Generic: Восточная Европа,
-      Standard: Восточная Европа, стандартное время,
-      Daylight: Восточная Европа, летнее время
-    }
-  },
-  {
-    Key: Asia/Gaza,
-    Value: {
-      Generic: Восточная Европа,
-      Standard: Восточная Европа, стандартное время,
-      Daylight: Восточная Европа, летнее время
-    }
-  },
-  {
-    Key: Asia/Harbin,
-    Value: {
-      Generic: Китай,
-      Standard: Китай, стандартное время,
-      Daylight: Китай, летнее время
-    }
-  },
-  {
-    Key: Asia/Hebron,
-    Value: {
-      Generic: Восточная Европа,
-      Standard: Восточная Европа, стандартное время,
-      Daylight: Восточная Европа, летнее время
-    }
-  },
-  {
-    Key: Asia/Ho_Chi_Minh,
-    Value: {
-      Generic: Индокитай,
-      Standard: Индокитай,
-      Daylight: Индокитай
-    }
-  },
-  {
-    Key: Asia/Hong_Kong,
-    Value: {
-      Generic: Гонконг,
-      Standard: Гонконг, стандартное время,
-      Daylight: Гонконг, летнее время
-    }
-  },
-  {
-    Key: Asia/Hovd,
-    Value: {
-      Generic: Ховд,
-      Standard: Ховд, стандартное время,
-      Daylight: Ховд, летнее время
-    }
-  },
-  {
-    Key: Asia/Irkutsk,
-    Value: {
-      Generic: Иркутск,
-      Standard: Иркутск, стандартное время,
-      Daylight: Иркутск, летнее время
-    }
-  },
-  {
-    Key: Asia/Istanbul,
-    Value: {
-      Generic: Турция,
-      Standard: Турция, стандартное время,
-      Daylight: Турция, летнее время
-    }
-  },
-  {
-    Key: Asia/Jakarta,
-    Value: {
-      Generic: Западная Индонезия,
-      Standard: Западная Индонезия,
-      Daylight: Западная Индонезия
-    }
-  },
-  {
-    Key: Asia/Jayapura,
-    Value: {
-      Generic: Восточная Индонезия,
-      Standard: Восточная Индонезия,
-      Daylight: Восточная Индонезия
-    }
-  },
-  {
-    Key: Asia/Jerusalem,
-    Value: {
-      Generic: Израиль,
-      Standard: Израиль, стандартное время,
-      Daylight: Израиль, летнее время
-    }
-  },
-  {
-    Key: Asia/Kabul,
-    Value: {
-      Generic: Афганистан,
-      Standard: Афганистан,
-      Daylight: Афганистан
-    }
-  },
-  {
-    Key: Asia/Kamchatka,
-    Value: {
-      Generic: Петропавловск-Камчатский,
-      Standard: Петропавловск-Камчатский, стандартное время,
-      Daylight: Петропавловск-Камчатский, летнее время
-    }
-  },
-  {
-    Key: Asia/Karachi,
-    Value: {
-      Generic: Пакистан,
-      Standard: Пакистан, стандартное время,
-      Daylight: Пакистан, летнее время
-    }
-  },
-  {
-    Key: Asia/Kashgar,
-    Value: {
-      Generic: Китай,
-      Standard: Китай, стандартное время,
-      Daylight: Китай, летнее время
-    }
-  },
-  {
-    Key: Asia/Kathmandu,
-    Value: {
-      Generic: Непал,
-      Standard: Непал,
-      Daylight: Непал
-    }
-  },
-  {
-    Key: Asia/Katmandu,
-    Value: {
-      Generic: Непал,
-      Standard: Непал,
-      Daylight: Непал
-    }
-  },
-  {
-    Key: Asia/Khandyga,
-    Value: {
-      Generic: Хандыга,
-      Standard: Хандыга, стандартное время,
-      Daylight: Хандыга, летнее время
-    }
-  },
-  {
-    Key: Asia/Kolkata,
-    Value: {
-      Generic: Индия,
-      Standard: Индия,
-      Daylight: Индия
-    }
-  },
-  {
-    Key: Asia/Krasnoyarsk,
-    Value: {
-      Generic: Красноярск,
-      Standard: Красноярск, стандартное время,
-      Daylight: Красноярск, летнее время
-    }
-  },
-  {
-    Key: Asia/Kuala_Lumpur,
-    Value: {
-      Generic: Малайзия,
-      Standard: Малайзия,
-      Daylight: Малайзия
-    }
-  },
-  {
-    Key: Asia/Kuching,
-    Value: {
-      Generic: Малайзия,
-      Standard: Малайзия,
-      Daylight: Малайзия
-    }
-  },
-  {
-    Key: Asia/Kuwait,
-    Value: {
-      Generic: Саудовская Аравия,
-      Standard: Саудовская Аравия, стандартное время,
-      Daylight: Саудовская Аравия, летнее время
-    }
-  },
-  {
-    Key: Asia/Macao,
-    Value: {
-      Generic: Китай,
-      Standard: Китай, стандартное время,
-      Daylight: Китай, летнее время
-    }
-  },
-  {
-    Key: Asia/Macau,
-    Value: {
-      Generic: Китай,
-      Standard: Китай, стандартное время,
-      Daylight: Китай, летнее время
-    }
-  },
-  {
-    Key: Asia/Magadan,
-    Value: {
-      Generic: Магадан,
-      Standard: Магадан, стандартное время,
-      Daylight: Магадан, летнее время
-    }
-  },
-  {
-    Key: Asia/Makassar,
-    Value: {
-      Generic: Центральная Индонезия,
-      Standard: Центральная Индонезия,
-      Daylight: Центральная Индонезия
-    }
-  },
-  {
-    Key: Asia/Manila,
-    Value: {
-      Generic: Филиппины,
-      Standard: Филиппины, стандартное время,
-      Daylight: Филиппины, летнее время
-    }
-  },
-  {
-    Key: Asia/Muscat,
-    Value: {
-      Generic: Персидский залив,
-      Standard: Персидский залив,
-      Daylight: Персидский залив
-    }
-  },
-  {
-    Key: Asia/Nicosia,
-    Value: {
-      Generic: Восточная Европа,
-      Standard: Восточная Европа, стандартное время,
-      Daylight: Восточная Европа, летнее время
-    }
-  },
-  {
-    Key: Asia/Novokuznetsk,
-    Value: {
-      Generic: Новокузнецк,
-      Standard: Новокузнецк, стандартное время,
-      Daylight: Новокузнецк, летнее время
-    }
-  },
-  {
-    Key: Asia/Novosibirsk,
-    Value: {
-      Generic: Новосибирск,
-      Standard: Новосибирск, стандартное время,
-      Daylight: Новосибирск, летнее время
-    }
-  },
-  {
-    Key: Asia/Omsk,
-    Value: {
-      Generic: Омск,
-      Standard: Омск, стандартное время,
-      Daylight: Омск, летнее время
-    }
-  },
-  {
-    Key: Asia/Oral,
-    Value: {
-      Generic: Западный Казахстан,
-      Standard: Западный Казахстан,
-      Daylight: Западный Казахстан
-    }
-  },
-  {
-    Key: Asia/Phnom_Penh,
-    Value: {
-      Generic: Индокитай,
-      Standard: Индокитай,
-      Daylight: Индокитай
-    }
-  },
-  {
-    Key: Asia/Pontianak,
-    Value: {
-      Generic: Западная Индонезия,
-      Standard: Западная Индонезия,
-      Daylight: Западная Индонезия
-    }
-  },
-  {
-    Key: Asia/Pyongyang,
-    Value: {
-      Generic: Корея,
-      Standard: Корея, стандартное время,
-      Daylight: Корея, летнее время
-    }
-  },
-  {
-    Key: Asia/Qatar,
-    Value: {
-      Generic: Саудовская Аравия,
-      Standard: Саудовская Аравия, стандартное время,
-      Daylight: Саудовская Аравия, летнее время
-    }
-  },
-  {
-    Key: Asia/Qostanay,
-    Value: {
-      Generic: Восточный Казахстан,
-      Standard: Восточный Казахстан,
-      Daylight: Восточный Казахстан
-    }
-  },
-  {
-    Key: Asia/Qyzylorda,
-    Value: {
-      Generic: Западный Казахстан,
-      Standard: Западный Казахстан,
-      Daylight: Западный Казахстан
-    }
-  },
-  {
-    Key: Asia/Rangoon,
-    Value: {
-      Generic: Мьянма,
-      Standard: Мьянма,
-      Daylight: Мьянма
-    }
-  },
-  {
-    Key: Asia/Riyadh,
-    Value: {
-      Generic: Саудовская Аравия,
-      Standard: Саудовская Аравия, стандартное время,
-      Daylight: Саудовская Аравия, летнее время
-    }
-  },
-  {
-    Key: Asia/Saigon,
-    Value: {
-      Generic: Индокитай,
-      Standard: Индокитай,
-      Daylight: Индокитай
-    }
-  },
-  {
-    Key: Asia/Sakhalin,
-    Value: {
-      Generic: о-в Сахалин,
-      Standard: о-в Сахалин, стандартное время,
-      Daylight: о-в Сахалин, летнее время
-    }
-  },
-  {
-    Key: Asia/Samarkand,
-    Value: {
-      Generic: Узбекистан,
-      Standard: Узбекистан, стандартное время,
-      Daylight: Узбекистан, летнее время
-    }
-  },
-  {
-    Key: Asia/Seoul,
-    Value: {
-      Generic: Корея,
-      Standard: Корея, стандартное время,
-      Daylight: Корея, летнее время
-    }
-  },
-  {
-    Key: Asia/Shanghai,
-    Value: {
-      Generic: Китай,
-      Standard: Китай, стандартное время,
-      Daylight: Китай, летнее время
-    }
-  },
-  {
-    Key: Asia/Singapore,
-    Value: {
-      Generic: Сингапур,
-      Standard: Сингапур,
-      Daylight: Сингапур
-    }
-  },
-  {
-    Key: Asia/Srednekolymsk,
-    Value: {
-      Generic: Среднеколымск,
-      Standard: Среднеколымск, стандартное время,
-      Daylight: Среднеколымск, летнее время
-    }
-  },
-  {
-    Key: Asia/Taipei,
-    Value: {
-      Generic: Тайвань,
-      Standard: Тайвань, стандартное время,
-      Daylight: Тайвань, летнее время
-    }
-  },
-  {
-    Key: Asia/Tashkent,
-    Value: {
-      Generic: Узбекистан,
-      Standard: Узбекистан, стандартное время,
-      Daylight: Узбекистан, летнее время
-    }
-  },
-  {
-    Key: Asia/Tbilisi,
-    Value: {
-      Generic: Грузия,
-      Standard: Грузия, стандартное время,
-      Daylight: Грузия, летнее время
-    }
-  },
-  {
-    Key: Asia/Tehran,
-    Value: {
-      Generic: Иран,
-      Standard: Иран, стандартное время,
-      Daylight: Иран, летнее время
-    }
-  },
-  {
-    Key: Asia/Tel_Aviv,
-    Value: {
-      Generic: Израиль,
-      Standard: Израиль, стандартное время,
-      Daylight: Израиль, летнее время
-    }
-  },
-  {
-    Key: Asia/Thimbu,
-    Value: {
-      Generic: Бутан,
-      Standard: Бутан,
-      Daylight: Бутан
-    }
-  },
-  {
-    Key: Asia/Thimphu,
-    Value: {
-      Generic: Бутан,
-      Standard: Бутан,
-      Daylight: Бутан
-    }
-  },
-  {
-    Key: Asia/Tokyo,
-    Value: {
-      Generic: Япония,
-      Standard: Япония, стандартное время,
-      Daylight: Япония, летнее время
-    }
-  },
-  {
-    Key: Asia/Tomsk,
-    Value: {
-      Generic: Томск,
-      Standard: Томск, стандартное время,
-      Daylight: Томск, летнее время
-    }
-  },
-  {
-    Key: Asia/Ujung_Pandang,
-    Value: {
-      Generic: Центральная Индонезия,
-      Standard: Центральная Индонезия,
-      Daylight: Центральная Индонезия
-    }
-  },
-  {
-    Key: Asia/Ulaanbaatar,
-    Value: {
-      Generic: Улан-Батор,
-      Standard: Улан-Батор, стандартное время,
-      Daylight: Улан-Батор, летнее время
-    }
-  },
-  {
-    Key: Asia/Ulan_Bator,
-    Value: {
-      Generic: Улан-Батор,
-      Standard: Улан-Батор, стандартное время,
-      Daylight: Улан-Батор, летнее время
-    }
-  },
-  {
-    Key: Asia/Urumqi,
-    Value: {
-      Generic: Китай,
-      Standard: Китай, стандартное время,
-      Daylight: Китай, летнее время
-    }
-  },
-  {
-    Key: Asia/Ust-Nera,
-    Value: {
-      Generic: Усть-Нера,
-      Standard: Усть-Нера, стандартное время,
-      Daylight: Усть-Нера, летнее время
-    }
-  },
-  {
-    Key: Asia/Vientiane,
-    Value: {
-      Generic: Индокитай,
-      Standard: Индокитай,
-      Daylight: Индокитай
-    }
-  },
-  {
-    Key: Asia/Vladivostok,
-    Value: {
-      Generic: Владивосток,
-      Standard: Владивосток, стандартное время,
-      Daylight: Владивосток, летнее время
-    }
-  },
-  {
-    Key: Asia/Yakutsk,
-    Value: {
-      Generic: Якутск,
-      Standard: Якутск, стандартное время,
-      Daylight: Якутск, летнее время
-    }
-  },
-  {
-    Key: Asia/Yangon,
-    Value: {
-      Generic: Мьянма,
-      Standard: Мьянма,
-      Daylight: Мьянма
-    }
-  },
-  {
-    Key: Asia/Yekaterinburg,
-    Value: {
-      Generic: Екатеринбург,
-      Standard: Екатеринбург, стандартное время,
-      Daylight: Екатеринбург, летнее время
-    }
-  },
-  {
-    Key: Asia/Yerevan,
-    Value: {
-      Generic: Армения,
-      Standard: Армения, стандартное время,
-      Daylight: Армения, летнее время
-    }
-  },
-  {
-    Key: Atlantic/Azores,
-    Value: {
-      Generic: Азорские о-ва,
-      Standard: Азорские о-ва, стандартное время,
-      Daylight: Азорские о-ва, летнее время
-    }
-  },
-  {
-    Key: Atlantic/Bermuda,
-    Value: {
-      Generic: Атлантическое время,
-      Standard: Атлантическое стандартное время,
-      Daylight: Атлантическое летнее время
-    }
-  },
-  {
-    Key: Atlantic/Canary,
-    Value: {
-      Generic: Западная Европа,
-      Standard: Западная Европа, стандартное время,
-      Daylight: Западная Европа, летнее время
-    }
-  },
-  {
-    Key: Atlantic/Cape_Verde,
-    Value: {
-      Generic: Кабо-Верде,
-      Standard: Кабо-Верде, стандартное время,
-      Daylight: Кабо-Верде, летнее время
-    }
-  },
-  {
-    Key: Atlantic/Faeroe,
-    Value: {
-      Generic: Западная Европа,
-      Standard: Западная Европа, стандартное время,
-      Daylight: Западная Европа, летнее время
-    }
-  },
-  {
-    Key: Atlantic/Faroe,
-    Value: {
-      Generic: Западная Европа,
-      Standard: Западная Европа, стандартное время,
-      Daylight: Западная Европа, летнее время
-    }
-  },
-  {
-    Key: Atlantic/Jan_Mayen,
-    Value: {
-      Generic: Центральная Европа,
-      Standard: Центральная Европа, стандартное время,
-      Daylight: Центральная Европа, летнее время
-    }
-  },
-  {
-    Key: Atlantic/Madeira,
-    Value: {
-      Generic: Западная Европа,
-      Standard: Западная Европа, стандартное время,
-      Daylight: Западная Европа, летнее время
-    }
-  },
-  {
-    Key: Atlantic/Reykjavik,
-    Value: {
-      Generic: Среднее время по Гринвичу,
-      Standard: Среднее время по Гринвичу,
-      Daylight: Среднее время по Гринвичу
-    }
-  },
-  {
-    Key: Atlantic/South_Georgia,
-    Value: {
-      Generic: Южная Георгия,
-      Standard: Южная Георгия,
-      Daylight: Южная Георгия
-    }
-  },
-  {
-    Key: Atlantic/St_Helena,
-    Value: {
-      Generic: Среднее время по Гринвичу,
-      Standard: Среднее время по Гринвичу,
-      Daylight: Среднее время по Гринвичу
-    }
-  },
-  {
-    Key: Atlantic/Stanley,
-    Value: {
-      Generic: Фолклендские о-ва,
-      Standard: Фолклендские о-ва, стандартное время,
-      Daylight: Фолклендские о-ва, летнее время
-    }
-  },
-  {
-    Key: Australia/ACT,
-    Value: {
-      Generic: Восточная Австралия,
-      Standard: Восточная Австралия, стандартное время,
-      Daylight: Восточная Австралия, летнее время
-    }
-  },
-  {
-    Key: Australia/Adelaide,
-    Value: {
-      Generic: Центральная Австралия,
-      Standard: Центральная Австралия, стандартное время,
-      Daylight: Центральная Австралия, летнее время
-    }
-  },
-  {
-    Key: Australia/Brisbane,
-    Value: {
-      Generic: Восточная Австралия,
-      Standard: Восточная Австралия, стандартное время,
-      Daylight: Восточная Австралия, летнее время
-    }
-  },
-  {
-    Key: Australia/Broken_Hill,
-    Value: {
-      Generic: Центральная Австралия,
-      Standard: Центральная Австралия, стандартное время,
-      Daylight: Центральная Австралия, летнее время
-    }
-  },
-  {
-    Key: Australia/Canberra,
-    Value: {
-      Generic: Восточная Австралия,
-      Standard: Восточная Австралия, стандартное время,
-      Daylight: Восточная Австралия, летнее время
-    }
-  },
-  {
-    Key: Australia/Currie,
-    Value: {
-      Generic: Восточная Австралия,
-      Standard: Восточная Австралия, стандартное время,
-      Daylight: Восточная Австралия, летнее время
-    }
-  },
-  {
-    Key: Australia/Darwin,
-    Value: {
-      Generic: Центральная Австралия,
-      Standard: Центральная Австралия, стандартное время,
-      Daylight: Центральная Австралия, летнее время
-    }
-  },
-  {
-    Key: Australia/Eucla,
-    Value: {
-      Generic: Центральная Австралия, западное время,
-      Standard: Центральная Австралия, западное стандартное время,
-      Daylight: Центральная Австралия, западное летнее время
-    }
-  },
-  {
-    Key: Australia/Hobart,
-    Value: {
-      Generic: Восточная Австралия,
-      Standard: Восточная Австралия, стандартное время,
-      Daylight: Восточная Австралия, летнее время
-    }
-  },
-  {
-    Key: Australia/LHI,
-    Value: {
-      Generic: Лорд-Хау,
-      Standard: Лорд-Хау, стандартное время,
-      Daylight: Лорд-Хау, летнее время
-    }
-  },
-  {
-    Key: Australia/Lindeman,
-    Value: {
-      Generic: Восточная Австралия,
-      Standard: Восточная Австралия, стандартное время,
-      Daylight: Восточная Австралия, летнее время
-    }
-  },
-  {
-    Key: Australia/Lord_Howe,
-    Value: {
-      Generic: Лорд-Хау,
-      Standard: Лорд-Хау, стандартное время,
-      Daylight: Лорд-Хау, летнее время
-    }
-  },
-  {
-    Key: Australia/Melbourne,
-    Value: {
-      Generic: Восточная Австралия,
-      Standard: Восточная Австралия, стандартное время,
-      Daylight: Восточная Австралия, летнее время
-    }
-  },
-  {
-    Key: Australia/North,
-    Value: {
-      Generic: Центральная Австралия,
-      Standard: Центральная Австралия, стандартное время,
-      Daylight: Центральная Австралия, летнее время
-    }
-  },
-  {
-    Key: Australia/NSW,
-    Value: {
-      Generic: Восточная Австралия,
-      Standard: Восточная Австралия, стандартное время,
-      Daylight: Восточная Австралия, летнее время
-    }
-  },
-  {
-    Key: Australia/Perth,
-    Value: {
-      Generic: Западная Австралия,
-      Standard: Западная Австралия, стандартное время,
-      Daylight: Западная Австралия, летнее время
-    }
-  },
-  {
-    Key: Australia/Queensland,
-    Value: {
-      Generic: Восточная Австралия,
-      Standard: Восточная Австралия, стандартное время,
-      Daylight: Восточная Австралия, летнее время
-    }
-  },
-  {
-    Key: Australia/South,
-    Value: {
-      Generic: Центральная Австралия,
-      Standard: Центральная Австралия, стандартное время,
-      Daylight: Центральная Австралия, летнее время
-    }
-  },
-  {
-    Key: Australia/Sydney,
-    Value: {
-      Generic: Восточная Австралия,
-      Standard: Восточная Австралия, стандартное время,
-      Daylight: Восточная Австралия, летнее время
-    }
-  },
-  {
-    Key: Australia/Tasmania,
-    Value: {
-      Generic: Восточная Австралия,
-      Standard: Восточная Австралия, стандартное время,
-      Daylight: Восточная Австралия, летнее время
-    }
-  },
-  {
-    Key: Australia/Victoria,
-    Value: {
-      Generic: Восточная Австралия,
-      Standard: Восточная Австралия, стандартное время,
-      Daylight: Восточная Австралия, летнее время
-    }
-  },
-  {
-    Key: Australia/West,
-    Value: {
-      Generic: Западная Австралия,
-      Standard: Западная Австралия, стандартное время,
-      Daylight: Западная Австралия, летнее время
-    }
-  },
-  {
-    Key: Australia/Yancowinna,
-    Value: {
-      Generic: Центральная Австралия,
-      Standard: Центральная Австралия, стандартное время,
-      Daylight: Центральная Австралия, летнее время
-    }
-  },
-  {
-    Key: Brazil/Acre,
-    Value: {
-      Generic: Акри время,
-      Standard: Акри стандартное время,
-      Daylight: Акри летнее время
-    }
-  },
-  {
-    Key: Brazil/DeNoronha,
-    Value: {
-      Generic: Фернанду-ди-Норонья,
-      Standard: Фернанду-ди-Норонья, стандартное время,
-      Daylight: Фернанду-ди-Норонья, летнее время
-    }
-  },
-  {
-    Key: Brazil/East,
-    Value: {
-      Generic: Бразилия,
-      Standard: Бразилия, стандартное время,
-      Daylight: Бразилия, летнее время
-    }
-  },
-  {
-    Key: Brazil/West,
-    Value: {
-      Generic: Амазонка,
-      Standard: Амазонка, стандартное время,
-      Daylight: Амазонка, летнее время
-    }
-  },
-  {
-    Key: Canada/Atlantic,
-    Value: {
-      Generic: Атлантическое время,
-      Standard: Атлантическое стандартное время,
-      Daylight: Атлантическое летнее время
-    }
-  },
-  {
-    Key: Canada/Central,
-    Value: {
-      Generic: Центральная Америка,
-      Standard: Центральная Америка, стандартное время,
-      Daylight: Центральная Америка, летнее время
-    }
-  },
-  {
-    Key: Canada/Eastern,
-    Value: {
-      Generic: Восточная Америка,
-      Standard: Восточная Америка, стандартное время,
-      Daylight: Восточная Америка, летнее время
-    }
-  },
-  {
-    Key: Canada/Mountain,
-    Value: {
-      Generic: Горное время (Северная Америка),
-      Standard: Стандартное горное время (Северная Америка),
-      Daylight: Летнее горное время (Северная Америка)
-    }
-  },
-  {
-    Key: Canada/Newfoundland,
-    Value: {
-      Generic: Ньюфаундленд,
-      Standard: Ньюфаундленд, стандартное время,
-      Daylight: Ньюфаундленд, летнее время
-    }
-  },
-  {
-    Key: Canada/Pacific,
-    Value: {
-      Generic: Тихоокеанское время,
-      Standard: Тихоокеанское стандартное время,
-      Daylight: Тихоокеанское летнее время
-    }
-  },
-  {
-    Key: Canada/Saskatchewan,
-    Value: {
-      Generic: Центральная Америка,
-      Standard: Центральная Америка, стандартное время,
-      Daylight: Центральная Америка, летнее время
-    }
-  },
-  {
-    Key: Canada/Yukon,
-    Value: {
-      Generic: Юкон,
-      Standard: Юкон,
-      Daylight: Юкон
-    }
-  },
-  {
-    Key: CET,
-    Value: {
-      Generic: Центральная Европа,
-      Standard: Центральная Европа, стандартное время,
-      Daylight: Центральная Европа, летнее время
-    }
-  },
-  {
-    Key: Chile/Continental,
-    Value: {
-      Generic: Чили,
-      Standard: Чили, стандартное время,
-      Daylight: Чили, летнее время
-    }
-  },
-  {
-    Key: Chile/EasterIsland,
-    Value: {
-      Generic: О-в Пасхи,
-      Standard: О-в Пасхи, стандартное время,
-      Daylight: О-в Пасхи, летнее время
-    }
-  },
-  {
-    Key: CST6CDT,
-    Value: {
-      Generic: Центральная Америка,
-      Standard: Центральная Америка, стандартное время,
-      Daylight: Центральная Америка, летнее время
-    }
-  },
-  {
-    Key: Cuba,
-    Value: {
-      Generic: Куба,
-      Standard: Куба, стандартное время,
-      Daylight: Куба, летнее время
-    }
-  },
-  {
-    Key: EET,
-    Value: {
-      Generic: Восточная Европа,
-      Standard: Восточная Европа, стандартное время,
-      Daylight: Восточная Европа, летнее время
-    }
-  },
-  {
-    Key: Egypt,
-    Value: {
-      Generic: Восточная Европа,
-      Standard: Восточная Европа, стандартное время,
-      Daylight: Восточная Европа, летнее время
-    }
-  },
-  {
-    Key: Eire,
-    Value: {
-      Generic: Ирландия,
-      Standard: Среднее время по Гринвичу,
-      Daylight: Ирландия, стандартное время
-    }
-  },
-  {
-    Key: EST,
-    Value: {
-      Generic: Всемирное координированное время -5,
-      Standard: Всемирное координированное время -5,
-      Daylight: Всемирное координированное время -5
-    }
-  },
-  {
-    Key: EST5EDT,
-    Value: {
-      Generic: Восточная Америка,
-      Standard: Восточная Америка, стандартное время,
-      Daylight: Восточная Америка, летнее время
-    }
-  },
-  {
-    Key: Etc/GMT,
-    Value: {
-      Generic: Среднее время по Гринвичу,
-      Standard: Среднее время по Гринвичу,
-      Daylight: Среднее время по Гринвичу
-    }
-  },
-  {
-    Key: Etc/GMT-0,
-    Value: {
-      Generic: Среднее время по Гринвичу,
-      Standard: Среднее время по Гринвичу,
-      Daylight: Среднее время по Гринвичу
-    }
-  },
-  {
-    Key: Etc/GMT-1,
-    Value: {
-      Generic: Всемирное координированное время +1,
-      Standard: Всемирное координированное время +1,
-      Daylight: Всемирное координированное время +1
-    }
-  },
-  {
-    Key: Etc/GMT-10,
-    Value: {
-      Generic: Всемирное координированное время +10,
-      Standard: Всемирное координированное время +10,
-      Daylight: Всемирное координированное время +10
-    }
-  },
-  {
-    Key: Etc/GMT-11,
-    Value: {
-      Generic: Всемирное координированное время +11,
-      Standard: Всемирное координированное время +11,
-      Daylight: Всемирное координированное время +11
-    }
-  },
-  {
-    Key: Etc/GMT-12,
-    Value: {
-      Generic: Всемирное координированное время +12,
-      Standard: Всемирное координированное время +12,
-      Daylight: Всемирное координированное время +12
-    }
-  },
-  {
-    Key: Etc/GMT-13,
-    Value: {
-      Generic: Всемирное координированное время +13,
-      Standard: Всемирное координированное время +13,
-      Daylight: Всемирное координированное время +13
-    }
-  },
-  {
-    Key: Etc/GMT-14,
-    Value: {
-      Generic: Всемирное координированное время +14,
-      Standard: Всемирное координированное время +14,
-      Daylight: Всемирное координированное время +14
-    }
-  },
-  {
-    Key: Etc/GMT-2,
-    Value: {
-      Generic: Всемирное координированное время +2,
-      Standard: Всемирное координированное время +2,
-      Daylight: Всемирное координированное время +2
-    }
-  },
-  {
-    Key: Etc/GMT-3,
-    Value: {
-      Generic: Всемирное координированное время +3,
-      Standard: Всемирное координированное время +3,
-      Daylight: Всемирное координированное время +3
-    }
-  },
-  {
-    Key: Etc/GMT-4,
-    Value: {
-      Generic: Всемирное координированное время +4,
-      Standard: Всемирное координированное время +4,
-      Daylight: Всемирное координированное время +4
-    }
-  },
-  {
-    Key: Etc/GMT-5,
-    Value: {
-      Generic: Всемирное координированное время +5,
-      Standard: Всемирное координированное время +5,
-      Daylight: Всемирное координированное время +5
-    }
-  },
-  {
-    Key: Etc/GMT-6,
-    Value: {
-      Generic: Всемирное координированное время +6,
-      Standard: Всемирное координированное время +6,
-      Daylight: Всемирное координированное время +6
-    }
-  },
-  {
-    Key: Etc/GMT-7,
-    Value: {
-      Generic: Всемирное координированное время +7,
-      Standard: Всемирное координированное время +7,
-      Daylight: Всемирное координированное время +7
-    }
-  },
-  {
-    Key: Etc/GMT-8,
-    Value: {
-      Generic: Всемирное координированное время +8,
-      Standard: Всемирное координированное время +8,
-      Daylight: Всемирное координированное время +8
-    }
-  },
-  {
-    Key: Etc/GMT-9,
-    Value: {
-      Generic: Всемирное координированное время +9,
-      Standard: Всемирное координированное время +9,
-      Daylight: Всемирное координированное время +9
-    }
-  },
-  {
-    Key: Etc/GMT+0,
-    Value: {
-      Generic: Среднее время по Гринвичу,
-      Standard: Среднее время по Гринвичу,
-      Daylight: Среднее время по Гринвичу
-    }
-  },
-  {
-    Key: Etc/GMT+1,
-    Value: {
-      Generic: Всемирное координированное время -1,
-      Standard: Всемирное координированное время -1,
-      Daylight: Всемирное координированное время -1
-    }
-  },
-  {
-    Key: Etc/GMT+10,
-    Value: {
-      Generic: Всемирное координированное время -10,
-      Standard: Всемирное координированное время -10,
-      Daylight: Всемирное координированное время -10
-    }
-  },
-  {
-    Key: Etc/GMT+11,
-    Value: {
-      Generic: Всемирное координированное время -11,
-      Standard: Всемирное координированное время -11,
-      Daylight: Всемирное координированное время -11
-    }
-  },
-  {
-    Key: Etc/GMT+12,
-    Value: {
-      Generic: Всемирное координированное время -12,
-      Standard: Всемирное координированное время -12,
-      Daylight: Всемирное координированное время -12
-    }
-  },
-  {
-    Key: Etc/GMT+2,
-    Value: {
-      Generic: Всемирное координированное время -2,
-      Standard: Всемирное координированное время -2,
-      Daylight: Всемирное координированное время -2
-    }
-  },
-  {
-    Key: Etc/GMT+3,
-    Value: {
-      Generic: Всемирное координированное время -3,
-      Standard: Всемирное координированное время -3,
-      Daylight: Всемирное координированное время -3
-    }
-  },
-  {
-    Key: Etc/GMT+4,
-    Value: {
-      Generic: Всемирное координированное время -4,
-      Standard: Всемирное координированное время -4,
-      Daylight: Всемирное координированное время -4
-    }
-  },
-  {
-    Key: Etc/GMT+5,
-    Value: {
-      Generic: Всемирное координированное время -5,
-      Standard: Всемирное координированное время -5,
-      Daylight: Всемирное координированное время -5
-    }
-  },
-  {
-    Key: Etc/GMT+6,
-    Value: {
-      Generic: Всемирное координированное время -6,
-      Standard: Всемирное координированное время -6,
-      Daylight: Всемирное координированное время -6
-    }
-  },
-  {
-    Key: Etc/GMT+7,
-    Value: {
-      Generic: Всемирное координированное время -7,
-      Standard: Всемирное координированное время -7,
-      Daylight: Всемирное координированное время -7
-    }
-  },
-  {
-    Key: Etc/GMT+8,
-    Value: {
-      Generic: Всемирное координированное время -8,
-      Standard: Всемирное координированное время -8,
-      Daylight: Всемирное координированное время -8
-    }
-  },
-  {
-    Key: Etc/GMT+9,
-    Value: {
-      Generic: Всемирное координированное время -9,
-      Standard: Всемирное координированное время -9,
-      Daylight: Всемирное координированное время -9
-    }
-  },
-  {
-    Key: Etc/GMT0,
-    Value: {
-      Generic: Среднее время по Гринвичу,
-      Standard: Среднее время по Гринвичу,
-      Daylight: Среднее время по Гринвичу
-    }
-  },
-  {
-    Key: Etc/Greenwich,
-    Value: {
-      Generic: Среднее время по Гринвичу,
-      Standard: Среднее время по Гринвичу,
-      Daylight: Среднее время по Гринвичу
-    }
-  },
-  {
-    Key: Etc/UCT,
-    Value: {
-      Generic: Всемирное координированное время,
-      Standard: Всемирное координированное время,
-      Daylight: Всемирное координированное время
-    }
-  },
-  {
-    Key: Etc/Universal,
-    Value: {
-      Generic: Всемирное координированное время,
-      Standard: Всемирное координированное время,
-      Daylight: Всемирное координированное время
-    }
-  },
-  {
-    Key: Etc/UTC,
-    Value: {
-      Generic: Всемирное координированное время,
-      Standard: Всемирное координированное время,
-      Daylight: Всемирное координированное время
-    }
-  },
-  {
-    Key: Etc/Zulu,
-    Value: {
-      Generic: Всемирное координированное время,
-      Standard: Всемирное координированное время,
-      Daylight: Всемирное координированное время
-    }
-  },
-  {
-    Key: Europe/Amsterdam,
-    Value: {
-      Generic: Центральная Европа,
-      Standard: Центральная Европа, стандартное время,
-      Daylight: Центральная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Andorra,
-    Value: {
-      Generic: Центральная Европа,
-      Standard: Центральная Европа, стандартное время,
-      Daylight: Центральная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Astrakhan,
-    Value: {
-      Generic: Астрахань,
-      Standard: Астрахань, стандартное время,
-      Daylight: Астрахань, летнее время
-    }
-  },
-  {
-    Key: Europe/Athens,
-    Value: {
-      Generic: Восточная Европа,
-      Standard: Восточная Европа, стандартное время,
-      Daylight: Восточная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Belfast,
-    Value: {
-      Generic: Великобритания,
-      Standard: Среднее время по Гринвичу,
-      Daylight: Великобритания, летнее время
-    }
-  },
-  {
-    Key: Europe/Belgrade,
-    Value: {
-      Generic: Центральная Европа,
-      Standard: Центральная Европа, стандартное время,
-      Daylight: Центральная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Berlin,
-    Value: {
-      Generic: Центральная Европа,
-      Standard: Центральная Европа, стандартное время,
-      Daylight: Центральная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Bratislava,
-    Value: {
-      Generic: Центральная Европа,
-      Standard: Центральная Европа, стандартное время,
-      Daylight: Центральная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Brussels,
-    Value: {
-      Generic: Центральная Европа,
-      Standard: Центральная Европа, стандартное время,
-      Daylight: Центральная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Bucharest,
-    Value: {
-      Generic: Восточная Европа,
-      Standard: Восточная Европа, стандартное время,
-      Daylight: Восточная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Budapest,
-    Value: {
-      Generic: Центральная Европа,
-      Standard: Центральная Европа, стандартное время,
-      Daylight: Центральная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Busingen,
-    Value: {
-      Generic: Центральная Европа,
-      Standard: Центральная Европа, стандартное время,
-      Daylight: Центральная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Chisinau,
-    Value: {
-      Generic: Восточная Европа,
-      Standard: Восточная Европа, стандартное время,
-      Daylight: Восточная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Copenhagen,
-    Value: {
-      Generic: Центральная Европа,
-      Standard: Центральная Европа, стандартное время,
-      Daylight: Центральная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Dublin,
-    Value: {
-      Generic: Ирландия,
-      Standard: Среднее время по Гринвичу,
-      Daylight: Ирландия, стандартное время
-    }
-  },
-  {
-    Key: Europe/Gibraltar,
-    Value: {
-      Generic: Центральная Европа,
-      Standard: Центральная Европа, стандартное время,
-      Daylight: Центральная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Guernsey,
-    Value: {
-      Generic: Среднее время по Гринвичу,
-      Standard: Среднее время по Гринвичу,
-      Daylight: Среднее время по Гринвичу
-    }
-  },
-  {
-    Key: Europe/Helsinki,
-    Value: {
-      Generic: Восточная Европа,
-      Standard: Восточная Европа, стандартное время,
-      Daylight: Восточная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Isle_of_Man,
-    Value: {
-      Generic: Среднее время по Гринвичу,
-      Standard: Среднее время по Гринвичу,
-      Daylight: Среднее время по Гринвичу
-    }
-  },
-  {
-    Key: Europe/Istanbul,
-    Value: {
-      Generic: Турция,
-      Standard: Турция, стандартное время,
-      Daylight: Турция, летнее время
-    }
-  },
-  {
-    Key: Europe/Jersey,
-    Value: {
-      Generic: Среднее время по Гринвичу,
-      Standard: Среднее время по Гринвичу,
-      Daylight: Среднее время по Гринвичу
-    }
-  },
-  {
-    Key: Europe/Kaliningrad,
-    Value: {
-      Generic: Калининград,
-      Standard: Калининград, стандартное время,
-      Daylight: Калининград, летнее время
-    }
-  },
-  {
-    Key: Europe/Kiev,
-    Value: {
-      Generic: Восточная Европа,
-      Standard: Восточная Европа, стандартное время,
-      Daylight: Восточная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Kirov,
-    Value: {
-      Generic: Киров,
-      Standard: Киров, стандартное время,
-      Daylight: Киров, летнее время
-    }
-  },
-  {
-    Key: Europe/Kyiv,
-    Value: {
-      Generic: Украина,
-      Standard: Украина, стандартное время,
-      Daylight: Украина, летнее время
-    }
-  },
-  {
-    Key: Europe/Lisbon,
-    Value: {
-      Generic: Западная Европа,
-      Standard: Западная Европа, стандартное время,
-      Daylight: Западная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Ljubljana,
-    Value: {
-      Generic: Центральная Европа,
-      Standard: Центральная Европа, стандартное время,
-      Daylight: Центральная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/London,
-    Value: {
-      Generic: Великобритания,
-      Standard: Среднее время по Гринвичу,
-      Daylight: Великобритания, летнее время
-    }
-  },
-  {
-    Key: Europe/Luxembourg,
-    Value: {
-      Generic: Центральная Европа,
-      Standard: Центральная Европа, стандартное время,
-      Daylight: Центральная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Madrid,
-    Value: {
-      Generic: Центральная Европа,
-      Standard: Центральная Европа, стандартное время,
-      Daylight: Центральная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Malta,
-    Value: {
-      Generic: Центральная Европа,
-      Standard: Центральная Европа, стандартное время,
-      Daylight: Центральная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Mariehamn,
-    Value: {
-      Generic: Восточная Европа,
-      Standard: Восточная Европа, стандартное время,
-      Daylight: Восточная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Minsk,
-    Value: {
-      Generic: Москва,
-      Standard: Москва, стандартное время,
-      Daylight: Москва, летнее время
-    }
-  },
-  {
-    Key: Europe/Monaco,
-    Value: {
-      Generic: Центральная Европа,
-      Standard: Центральная Европа, стандартное время,
-      Daylight: Центральная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Moscow,
-    Value: {
-      Generic: Москва,
-      Standard: Москва, стандартное время,
-      Daylight: Москва, летнее время
-    }
-  },
-  {
-    Key: Europe/Nicosia,
-    Value: {
-      Generic: Восточная Европа,
-      Standard: Восточная Европа, стандартное время,
-      Daylight: Восточная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Oslo,
-    Value: {
-      Generic: Центральная Европа,
-      Standard: Центральная Европа, стандартное время,
-      Daylight: Центральная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Paris,
-    Value: {
-      Generic: Центральная Европа,
-      Standard: Центральная Европа, стандартное время,
-      Daylight: Центральная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Podgorica,
-    Value: {
-      Generic: Центральная Европа,
-      Standard: Центральная Европа, стандартное время,
-      Daylight: Центральная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Prague,
-    Value: {
-      Generic: Центральная Европа,
-      Standard: Центральная Европа, стандартное время,
-      Daylight: Центральная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Riga,
-    Value: {
-      Generic: Восточная Европа,
-      Standard: Восточная Европа, стандартное время,
-      Daylight: Восточная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Rome,
-    Value: {
-      Generic: Центральная Европа,
-      Standard: Центральная Европа, стандартное время,
-      Daylight: Центральная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Samara,
-    Value: {
-      Generic: Самара,
-      Standard: Самара, стандартное время,
-      Daylight: Самара, летнее время
-    }
-  },
-  {
-    Key: Europe/San_Marino,
-    Value: {
-      Generic: Центральная Европа,
-      Standard: Центральная Европа, стандартное время,
-      Daylight: Центральная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Sarajevo,
-    Value: {
-      Generic: Центральная Европа,
-      Standard: Центральная Европа, стандартное время,
-      Daylight: Центральная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Saratov,
-    Value: {
-      Generic: Саратов,
-      Standard: Саратов, стандартное время,
-      Daylight: Саратов, летнее время
-    }
-  },
-  {
-    Key: Europe/Simferopol,
-    Value: {
-      Generic: Москва,
-      Standard: Москва, стандартное время,
-      Daylight: Москва, летнее время
-    }
-  },
-  {
-    Key: Europe/Skopje,
-    Value: {
-      Generic: Центральная Европа,
-      Standard: Центральная Европа, стандартное время,
-      Daylight: Центральная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Sofia,
-    Value: {
-      Generic: Восточная Европа,
-      Standard: Восточная Европа, стандартное время,
-      Daylight: Восточная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Stockholm,
-    Value: {
-      Generic: Центральная Европа,
-      Standard: Центральная Европа, стандартное время,
-      Daylight: Центральная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Tallinn,
-    Value: {
-      Generic: Восточная Европа,
-      Standard: Восточная Европа, стандартное время,
-      Daylight: Восточная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Tirane,
-    Value: {
-      Generic: Центральная Европа,
-      Standard: Центральная Европа, стандартное время,
-      Daylight: Центральная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Tiraspol,
-    Value: {
-      Generic: Восточная Европа,
-      Standard: Восточная Европа, стандартное время,
-      Daylight: Восточная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Ulyanovsk,
-    Value: {
-      Generic: Ульяновск,
-      Standard: Ульяновск, стандартное время,
-      Daylight: Ульяновск, летнее время
-    }
-  },
-  {
-    Key: Europe/Uzhgorod,
-    Value: {
-      Generic: Восточная Европа,
-      Standard: Восточная Европа, стандартное время,
-      Daylight: Восточная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Vaduz,
-    Value: {
-      Generic: Центральная Европа,
-      Standard: Центральная Европа, стандартное время,
-      Daylight: Центральная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Vatican,
-    Value: {
-      Generic: Центральная Европа,
-      Standard: Центральная Европа, стандартное время,
-      Daylight: Центральная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Vienna,
-    Value: {
-      Generic: Центральная Европа,
-      Standard: Центральная Европа, стандартное время,
-      Daylight: Центральная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Vilnius,
-    Value: {
-      Generic: Восточная Европа,
-      Standard: Восточная Европа, стандартное время,
-      Daylight: Восточная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Volgograd,
-    Value: {
-      Generic: Волгоград,
-      Standard: Волгоград, стандартное время,
-      Daylight: Волгоград, летнее время
-    }
-  },
-  {
-    Key: Europe/Warsaw,
-    Value: {
-      Generic: Центральная Европа,
-      Standard: Центральная Европа, стандартное время,
-      Daylight: Центральная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Zagreb,
-    Value: {
-      Generic: Центральная Европа,
-      Standard: Центральная Европа, стандартное время,
-      Daylight: Центральная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Zaporozhye,
-    Value: {
-      Generic: Восточная Европа,
-      Standard: Восточная Европа, стандартное время,
-      Daylight: Восточная Европа, летнее время
-    }
-  },
-  {
-    Key: Europe/Zurich,
-    Value: {
-      Generic: Центральная Европа,
-      Standard: Центральная Европа, стандартное время,
-      Daylight: Центральная Европа, летнее время
-    }
-  },
-  {
-    Key: GB,
-    Value: {
-      Generic: Великобритания,
-      Standard: Среднее время по Гринвичу,
-      Daylight: Великобритания, летнее время
-    }
-  },
-  {
-    Key: GB-Eire,
-    Value: {
-      Generic: Великобритания,
-      Standard: Среднее время по Гринвичу,
-      Daylight: Великобритания, летнее время
-    }
-  },
-  {
-    Key: GMT,
-    Value: {
-      Generic: Среднее время по Гринвичу,
-      Standard: Среднее время по Гринвичу,
-      Daylight: Среднее время по Гринвичу
-    }
-  },
-  {
-    Key: GMT-0,
-    Value: {
-      Generic: Среднее время по Гринвичу,
-      Standard: Среднее время по Гринвичу,
-      Daylight: Среднее время по Гринвичу
-    }
-  },
-  {
-    Key: GMT+0,
-    Value: {
-      Generic: Среднее время по Гринвичу,
-      Standard: Среднее время по Гринвичу,
-      Daylight: Среднее время по Гринвичу
-    }
-  },
-  {
-    Key: GMT0,
-    Value: {
-      Generic: Среднее время по Гринвичу,
-      Standard: Среднее время по Гринвичу,
-      Daylight: Среднее время по Гринвичу
-    }
-  },
-  {
-    Key: Greenwich,
-    Value: {
-      Generic: Среднее время по Гринвичу,
-      Standard: Среднее время по Гринвичу,
-      Daylight: Среднее время по Гринвичу
-    }
-  },
-  {
-    Key: Hongkong,
-    Value: {
-      Generic: Гонконг,
-      Standard: Гонконг, стандартное время,
-      Daylight: Гонконг, летнее время
-    }
-  },
-  {
-    Key: HST,
-    Value: {
-      Generic: Всемирное координированное время -10,
-      Standard: Всемирное координированное время -10,
-      Daylight: Всемирное координированное время -10
-    }
-  },
-  {
-    Key: Iceland,
-    Value: {
-      Generic: Среднее время по Гринвичу,
-      Standard: Среднее время по Гринвичу,
-      Daylight: Среднее время по Гринвичу
-    }
-  },
-  {
-    Key: Indian/Antananarivo,
-    Value: {
-      Generic: Восточная Африка,
-      Standard: Восточная Африка,
-      Daylight: Восточная Африка
-    }
-  },
-  {
-    Key: Indian/Chagos,
-    Value: {
-      Generic: Индийский океан,
-      Standard: Индийский океан,
-      Daylight: Индийский океан
-    }
-  },
-  {
-    Key: Indian/Christmas,
-    Value: {
-      Generic: о-в Рождества,
-      Standard: о-в Рождества,
-      Daylight: о-в Рождества
-    }
-  },
-  {
-    Key: Indian/Cocos,
-    Value: {
-      Generic: Кокосовые о-ва,
-      Standard: Кокосовые о-ва,
-      Daylight: Кокосовые о-ва
-    }
-  },
-  {
-    Key: Indian/Comoro,
-    Value: {
-      Generic: Восточная Африка,
-      Standard: Восточная Африка,
-      Daylight: Восточная Африка
-    }
-  },
-  {
-    Key: Indian/Kerguelen,
-    Value: {
-      Generic: Французские Южные и Антарктические территории,
-      Standard: Французские Южные и Антарктические территории,
-      Daylight: Французские Южные и Антарктические территории
-    }
-  },
-  {
-    Key: Indian/Mahe,
-    Value: {
-      Generic: Сейшельские Острова,
-      Standard: Сейшельские Острова,
-      Daylight: Сейшельские Острова
-    }
-  },
-  {
-    Key: Indian/Maldives,
-    Value: {
-      Generic: Мальдивы,
-      Standard: Мальдивы,
-      Daylight: Мальдивы
-    }
-  },
-  {
-    Key: Indian/Mauritius,
-    Value: {
-      Generic: Маврикий,
-      Standard: Маврикий, стандартное время,
-      Daylight: Маврикий, летнее время
-    }
-  },
-  {
-    Key: Indian/Mayotte,
-    Value: {
-      Generic: Восточная Африка,
-      Standard: Восточная Африка,
-      Daylight: Восточная Африка
-    }
-  },
-  {
-    Key: Indian/Reunion,
-    Value: {
-      Generic: Реюньон,
-      Standard: Реюньон,
-      Daylight: Реюньон
-    }
-  },
-  {
-    Key: Iran,
-    Value: {
-      Generic: Иран,
-      Standard: Иран, стандартное время,
-      Daylight: Иран, летнее время
-    }
-  },
-  {
-    Key: Israel,
-    Value: {
-      Generic: Израиль,
-      Standard: Израиль, стандартное время,
-      Daylight: Израиль, летнее время
-    }
-  },
-  {
-    Key: Jamaica,
-    Value: {
-      Generic: Восточная Америка,
-      Standard: Восточная Америка, стандартное время,
-      Daylight: Восточная Америка, летнее время
-    }
-  },
-  {
-    Key: Japan,
-    Value: {
-      Generic: Япония,
-      Standard: Япония, стандартное время,
-      Daylight: Япония, летнее время
-    }
-  },
-  {
-    Key: Kwajalein,
-    Value: {
-      Generic: Маршалловы Острова,
-      Standard: Маршалловы Острова,
-      Daylight: Маршалловы Острова
-    }
-  },
-  {
-    Key: Libya,
-    Value: {
-      Generic: Восточная Европа,
-      Standard: Восточная Европа, стандартное время,
-      Daylight: Восточная Европа, летнее время
-    }
-  },
-  {
-    Key: MET,
-    Value: {
-      Generic: Центральная Европа,
-      Standard: Центральная Европа, стандартное время,
-      Daylight: Центральная Европа, летнее время
-    }
-  },
-  {
-    Key: Mexico/BajaNorte,
-    Value: {
-      Generic: Тихоокеанское время,
-      Standard: Тихоокеанское стандартное время,
-      Daylight: Тихоокеанское летнее время
-    }
-  },
-  {
-    Key: Mexico/BajaSur,
-    Value: {
-      Generic: Тихоокеанское мексиканское время,
-      Standard: Тихоокеанское мексиканское стандартное время,
-      Daylight: Тихоокеанское мексиканское летнее время
-    }
-  },
-  {
-    Key: Mexico/General,
-    Value: {
-      Generic: Центральная Америка,
-      Standard: Центральная Америка, стандартное время,
-      Daylight: Центральная Америка, летнее время
-    }
-  },
-  {
-    Key: MST,
-    Value: {
-      Generic: Всемирное координированное время -7,
-      Standard: Всемирное координированное время -7,
-      Daylight: Всемирное координированное время -7
-    }
-  },
-  {
-    Key: MST7MDT,
-    Value: {
-      Generic: Горное время (Северная Америка),
-      Standard: Стандартное горное время (Северная Америка),
-      Daylight: Летнее горное время (Северная Америка)
-    }
-  },
-  {
-    Key: Navajo,
-    Value: {
-      Generic: Горное время (Северная Америка),
-      Standard: Стандартное горное время (Северная Америка),
-      Daylight: Летнее горное время (Северная Америка)
-    }
-  },
-  {
-    Key: NZ,
-    Value: {
-      Generic: Новая Зеландия,
-      Standard: Новая Зеландия, стандартное время,
-      Daylight: Новая Зеландия, летнее время
-    }
-  },
-  {
-    Key: NZ-CHAT,
-    Value: {
-      Generic: Чатем,
-      Standard: Чатем, стандартное время,
-      Daylight: Чатем, летнее время
-    }
-  },
-  {
-    Key: Pacific/Apia,
-    Value: {
-      Generic: Апиа,
-      Standard: Апиа, стандартное время,
-      Daylight: Апиа, летнее время
-    }
-  },
-  {
-    Key: Pacific/Auckland,
-    Value: {
-      Generic: Новая Зеландия,
-      Standard: Новая Зеландия, стандартное время,
-      Daylight: Новая Зеландия, летнее время
-    }
-  },
-  {
-    Key: Pacific/Bougainville,
-    Value: {
-      Generic: Папуа – Новая Гвинея,
-      Standard: Папуа – Новая Гвинея,
-      Daylight: Папуа – Новая Гвинея
-    }
-  },
-  {
-    Key: Pacific/Chatham,
-    Value: {
-      Generic: Чатем,
-      Standard: Чатем, стандартное время,
-      Daylight: Чатем, летнее время
-    }
-  },
-  {
-    Key: Pacific/Chuuk,
-    Value: {
-      Generic: Трук,
-      Standard: Трук,
-      Daylight: Трук
-    }
-  },
-  {
-    Key: Pacific/Easter,
-    Value: {
-      Generic: О-в Пасхи,
-      Standard: О-в Пасхи, стандартное время,
-      Daylight: О-в Пасхи, летнее время
-    }
-  },
-  {
-    Key: Pacific/Efate,
-    Value: {
-      Generic: Вануату,
-      Standard: Вануату, стандартное время,
-      Daylight: Вануату, летнее время
-    }
-  },
-  {
-    Key: Pacific/Enderbury,
-    Value: {
-      Generic: о-ва Феникс,
-      Standard: о-ва Феникс,
-      Daylight: о-ва Феникс
-    }
-  },
-  {
-    Key: Pacific/Fakaofo,
-    Value: {
-      Generic: Токелау,
-      Standard: Токелау,
-      Daylight: Токелау
-    }
-  },
-  {
-    Key: Pacific/Fiji,
-    Value: {
-      Generic: Фиджи,
-      Standard: Фиджи, стандартное время,
-      Daylight: Фиджи, летнее время
-    }
-  },
-  {
-    Key: Pacific/Funafuti,
-    Value: {
-      Generic: Тувалу,
-      Standard: Тувалу,
-      Daylight: Тувалу
-    }
-  },
-  {
-    Key: Pacific/Galapagos,
-    Value: {
-      Generic: Галапагосские о-ва,
-      Standard: Галапагосские о-ва,
-      Daylight: Галапагосские о-ва
-    }
-  },
-  {
-    Key: Pacific/Gambier,
-    Value: {
-      Generic: Гамбье,
-      Standard: Гамбье,
-      Daylight: Гамбье
-    }
-  },
-  {
-    Key: Pacific/Guadalcanal,
-    Value: {
-      Generic: Соломоновы Острова,
-      Standard: Соломоновы Острова,
-      Daylight: Соломоновы Острова
-    }
-  },
-  {
-    Key: Pacific/Guam,
-    Value: {
-      Generic: Чаморро,
-      Standard: Чаморро,
-      Daylight: Чаморро
-    }
-  },
-  {
-    Key: Pacific/Honolulu,
-    Value: {
-      Generic: Гавайско-алеутское время,
-      Standard: Гавайско-алеутское стандартное время,
-      Daylight: Гавайско-алеутское летнее время
-    }
-  },
-  {
-    Key: Pacific/Johnston,
-    Value: {
-      Generic: Гавайско-алеутское время,
-      Standard: Гавайско-алеутское стандартное время,
-      Daylight: Гавайско-алеутское летнее время
-    }
-  },
-  {
-    Key: Pacific/Kanton,
-    Value: {
-      Generic: о-ва Феникс,
-      Standard: о-ва Феникс,
-      Daylight: о-ва Феникс
-    }
-  },
-  {
-    Key: Pacific/Kiritimati,
-    Value: {
-      Generic: о-ва Лайн,
-      Standard: о-ва Лайн,
-      Daylight: о-ва Лайн
-    }
-  },
-  {
-    Key: Pacific/Kosrae,
-    Value: {
-      Generic: Косрае,
-      Standard: Косрае,
-      Daylight: Косрае
-    }
-  },
-  {
-    Key: Pacific/Kwajalein,
-    Value: {
-      Generic: Маршалловы Острова,
-      Standard: Маршалловы Острова,
-      Daylight: Маршалловы Острова
-    }
-  },
-  {
-    Key: Pacific/Majuro,
-    Value: {
-      Generic: Маршалловы Острова,
-      Standard: Маршалловы Острова,
-      Daylight: Маршалловы Острова
-    }
-  },
-  {
-    Key: Pacific/Marquesas,
-    Value: {
-      Generic: Маркизские о-ва,
-      Standard: Маркизские о-ва,
-      Daylight: Маркизские о-ва
-    }
-  },
-  {
-    Key: Pacific/Midway,
-    Value: {
-      Generic: Самоа,
-      Standard: Самоа, стандартное время,
-      Daylight: Самоа, летнее время
-    }
-  },
-  {
-    Key: Pacific/Nauru,
-    Value: {
-      Generic: Науру,
-      Standard: Науру,
-      Daylight: Науру
-    }
-  },
-  {
-    Key: Pacific/Niue,
-    Value: {
-      Generic: Ниуэ,
-      Standard: Ниуэ,
-      Daylight: Ниуэ
-    }
-  },
-  {
-    Key: Pacific/Norfolk,
-    Value: {
-      Generic: Норфолк,
-      Standard: Норфолк, стандартное время,
-      Daylight: Норфолк, летнее время
-    }
-  },
-  {
-    Key: Pacific/Noumea,
-    Value: {
-      Generic: Новая Каледония,
-      Standard: Новая Каледония, стандартное время,
-      Daylight: Новая Каледония, летнее время
-    }
-  },
-  {
-    Key: Pacific/Pago_Pago,
-    Value: {
-      Generic: Самоа,
-      Standard: Самоа, стандартное время,
-      Daylight: Самоа, летнее время
-    }
-  },
-  {
-    Key: Pacific/Palau,
-    Value: {
-      Generic: Палау,
-      Standard: Палау,
-      Daylight: Палау
-    }
-  },
-  {
-    Key: Pacific/Pitcairn,
-    Value: {
-      Generic: Питкэрн,
-      Standard: Питкэрн,
-      Daylight: Питкэрн
-    }
-  },
-  {
-    Key: Pacific/Pohnpei,
-    Value: {
-      Generic: Понпеи,
-      Standard: Понпеи,
-      Daylight: Понпеи
-    }
-  },
-  {
-    Key: Pacific/Ponape,
-    Value: {
-      Generic: Понпеи,
-      Standard: Понпеи,
-      Daylight: Понпеи
-    }
-  },
-  {
-    Key: Pacific/Port_Moresby,
-    Value: {
-      Generic: Папуа – Новая Гвинея,
-      Standard: Папуа – Новая Гвинея,
-      Daylight: Папуа – Новая Гвинея
-    }
-  },
-  {
-    Key: Pacific/Rarotonga,
-    Value: {
-      Generic: Острова Кука,
-      Standard: Острова Кука, стандартное время,
-      Daylight: Острова Кука, полулетнее время
-    }
-  },
-  {
-    Key: Pacific/Saipan,
-    Value: {
-      Generic: Чаморро,
-      Standard: Чаморро,
-      Daylight: Чаморро
-    }
-  },
-  {
-    Key: Pacific/Samoa,
-    Value: {
-      Generic: Самоа,
-      Standard: Самоа, стандартное время,
-      Daylight: Самоа, летнее время
-    }
-  },
-  {
-    Key: Pacific/Tahiti,
-    Value: {
-      Generic: Таити,
-      Standard: Таити,
-      Daylight: Таити
-    }
-  },
-  {
-    Key: Pacific/Tarawa,
-    Value: {
-      Generic: о-ва Гилберта,
-      Standard: о-ва Гилберта,
-      Daylight: о-ва Гилберта
-    }
-  },
-  {
-    Key: Pacific/Tongatapu,
-    Value: {
-      Generic: Тонга,
-      Standard: Тонга, стандартное время,
-      Daylight: Тонга, летнее время
-    }
-  },
-  {
-    Key: Pacific/Truk,
-    Value: {
-      Generic: Трук,
-      Standard: Трук,
-      Daylight: Трук
-    }
-  },
-  {
-    Key: Pacific/Wake,
-    Value: {
-      Generic: Уэйк,
-      Standard: Уэйк,
-      Daylight: Уэйк
-    }
-  },
-  {
-    Key: Pacific/Wallis,
-    Value: {
-      Generic: Уоллис и Футуна,
-      Standard: Уоллис и Футуна,
-      Daylight: Уоллис и Футуна
-    }
-  },
-  {
-    Key: Pacific/Yap,
-    Value: {
-      Generic: Трук,
-      Standard: Трук,
-      Daylight: Трук
-    }
-  },
-  {
-    Key: Poland,
-    Value: {
-      Generic: Центральная Европа,
-      Standard: Центральная Европа, стандартное время,
-      Daylight: Центральная Европа, летнее время
-    }
-  },
-  {
-    Key: Portugal,
-    Value: {
-      Generic: Западная Европа,
-      Standard: Западная Европа, стандартное время,
-      Daylight: Западная Европа, летнее время
-    }
-  },
-  {
-    Key: PRC,
-    Value: {
-      Generic: Китай,
-      Standard: Китай, стандартное время,
-      Daylight: Китай, летнее время
-    }
-  },
-  {
-    Key: PST8PDT,
-    Value: {
-      Generic: Тихоокеанское время,
-      Standard: Тихоокеанское стандартное время,
-      Daylight: Тихоокеанское летнее время
-    }
-  },
-  {
-    Key: ROC,
-    Value: {
-      Generic: Тайвань,
-      Standard: Тайвань, стандартное время,
-      Daylight: Тайвань, летнее время
-    }
-  },
-  {
-    Key: ROK,
-    Value: {
-      Generic: Корея,
-      Standard: Корея, стандартное время,
-      Daylight: Корея, летнее время
-    }
-  },
-  {
-    Key: Singapore,
-    Value: {
-      Generic: Сингапур,
-      Standard: Сингапур,
-      Daylight: Сингапур
-    }
-  },
-  {
-    Key: Turkey,
-    Value: {
-      Generic: Турция,
-      Standard: Турция, стандартное время,
-      Daylight: Турция, летнее время
-    }
-  },
-  {
-    Key: UCT,
-    Value: {
-      Generic: Всемирное координированное время,
-      Standard: Всемирное координированное время,
-      Daylight: Всемирное координированное время
-    }
-  },
-  {
-    Key: Universal,
-    Value: {
-      Generic: Всемирное координированное время,
-      Standard: Всемирное координированное время,
-      Daylight: Всемирное координированное время
-    }
-  },
-  {
-    Key: US/Alaska,
-    Value: {
-      Generic: Аляска,
-      Standard: Аляска, стандартное время,
-      Daylight: Аляска, летнее время
-    }
-  },
-  {
-    Key: US/Aleutian,
-    Value: {
-      Generic: Гавайско-алеутское время,
-      Standard: Гавайско-алеутское стандартное время,
-      Daylight: Гавайско-алеутское летнее время
-    }
-  },
-  {
-    Key: US/Arizona,
-    Value: {
-      Generic: Горное время (Северная Америка),
-      Standard: Стандартное горное время (Северная Америка),
-      Daylight: Летнее горное время (Северная Америка)
-    }
-  },
-  {
-    Key: US/Central,
-    Value: {
-      Generic: Центральная Америка,
-      Standard: Центральная Америка, стандартное время,
-      Daylight: Центральная Америка, летнее время
-    }
-  },
-  {
-    Key: US/East-Indiana,
-    Value: {
-      Generic: Восточная Америка,
-      Standard: Восточная Америка, стандартное время,
-      Daylight: Восточная Америка, летнее время
-    }
-  },
-  {
-    Key: US/Eastern,
-    Value: {
-      Generic: Восточная Америка,
-      Standard: Восточная Америка, стандартное время,
-      Daylight: Восточная Америка, летнее время
-    }
-  },
-  {
-    Key: US/Hawaii,
-    Value: {
-      Generic: Гавайско-алеутское время,
-      Standard: Гавайско-алеутское стандартное время,
-      Daylight: Гавайско-алеутское летнее время
-    }
-  },
-  {
-    Key: US/Indiana-Starke,
-    Value: {
-      Generic: Центральная Америка,
-      Standard: Центральная Америка, стандартное время,
-      Daylight: Центральная Америка, летнее время
-    }
-  },
-  {
-    Key: US/Michigan,
-    Value: {
-      Generic: Восточная Америка,
-      Standard: Восточная Америка, стандартное время,
-      Daylight: Восточная Америка, летнее время
-    }
-  },
-  {
-    Key: US/Mountain,
-    Value: {
-      Generic: Горное время (Северная Америка),
-      Standard: Стандартное горное время (Северная Америка),
-      Daylight: Летнее горное время (Северная Америка)
-    }
-  },
-  {
-    Key: US/Pacific,
-    Value: {
-      Generic: Тихоокеанское время,
-      Standard: Тихоокеанское стандартное время,
-      Daylight: Тихоокеанское летнее время
-    }
-  },
-  {
-    Key: US/Samoa,
-    Value: {
-      Generic: Самоа,
-      Standard: Самоа, стандартное время,
-      Daylight: Самоа, летнее время
-    }
-  },
-  {
-    Key: UTC,
-    Value: {
-      Generic: Всемирное координированное время,
-      Standard: Всемирное координированное время,
-      Daylight: Всемирное координированное время
-    }
-  },
-  {
-    Key: W-SU,
-    Value: {
-      Generic: Москва,
-      Standard: Москва, стандартное время,
-      Daylight: Москва, летнее время
-    }
-  },
-  {
-    Key: WET,
-    Value: {
-      Generic: Западная Европа,
-      Standard: Западная Европа, стандартное время,
-      Daylight: Западная Европа, летнее время
-    }
-  },
-  {
-    Key: Zulu,
-    Value: {
-      Generic: Всемирное координированное время,
-      Standard: Всемирное координированное время,
-      Daylight: Всемирное координированное время
-    }
+﻿{
+  Australia/Darwin: {
+    Generic: Центральная Австралия,
+    Standard: Центральная Австралия, стандартное время,
+    Daylight: Центральная Австралия, летнее время
+  },
+  Australia/Sydney: {
+    Generic: Восточная Австралия,
+    Standard: Восточная Австралия, стандартное время,
+    Daylight: Восточная Австралия, летнее время
+  },
+  Australia/Melbourne: {
+    Generic: Восточная Австралия,
+    Standard: Восточная Австралия, стандартное время,
+    Daylight: Восточная Австралия, летнее время
+  },
+  Asia/Kabul: {
+    Generic: Афганистан,
+    Standard: Афганистан,
+    Daylight: Афганистан
+  },
+  America/Anchorage: {
+    Generic: Аляска,
+    Standard: Аляска, стандартное время,
+    Daylight: Аляска, летнее время
+  },
+  America/Juneau: {
+    Generic: Аляска,
+    Standard: Аляска, стандартное время,
+    Daylight: Аляска, летнее время
+  },
+  America/Metlakatla: {
+    Generic: Аляска,
+    Standard: Аляска, стандартное время,
+    Daylight: Аляска, летнее время
+  },
+  America/Nome: {
+    Generic: Аляска,
+    Standard: Аляска, стандартное время,
+    Daylight: Аляска, летнее время
+  },
+  America/Sitka: {
+    Generic: Аляска,
+    Standard: Аляска, стандартное время,
+    Daylight: Аляска, летнее время
+  },
+  America/Yakutat: {
+    Generic: Аляска,
+    Standard: Аляска, стандартное время,
+    Daylight: Аляска, летнее время
+  },
+  America/Adak: {
+    Generic: Гавайско-алеутское время,
+    Standard: Гавайско-алеутское стандартное время,
+    Daylight: Гавайско-алеутское летнее время
+  },
+  Asia/Barnaul: {
+    Generic: Барнаул,
+    Standard: Барнаул, стандартное время,
+    Daylight: Барнаул, летнее время
+  },
+  Asia/Riyadh: {
+    Generic: Саудовская Аравия,
+    Standard: Саудовская Аравия, стандартное время,
+    Daylight: Саудовская Аравия, летнее время
+  },
+  Asia/Bahrain: {
+    Generic: Саудовская Аравия,
+    Standard: Саудовская Аравия, стандартное время,
+    Daylight: Саудовская Аравия, летнее время
+  },
+  Asia/Kuwait: {
+    Generic: Саудовская Аравия,
+    Standard: Саудовская Аравия, стандартное время,
+    Daylight: Саудовская Аравия, летнее время
+  },
+  Asia/Qatar: {
+    Generic: Саудовская Аравия,
+    Standard: Саудовская Аравия, стандартное время,
+    Daylight: Саудовская Аравия, летнее время
+  },
+  Asia/Aden: {
+    Generic: Саудовская Аравия,
+    Standard: Саудовская Аравия, стандартное время,
+    Daylight: Саудовская Аравия, летнее время
+  },
+  Asia/Dubai: {
+    Generic: Персидский залив,
+    Standard: Персидский залив,
+    Daylight: Персидский залив
+  },
+  Asia/Muscat: {
+    Generic: Персидский залив,
+    Standard: Персидский залив,
+    Daylight: Персидский залив
+  },
+  Etc/GMT-4: {
+    Generic: Всемирное координированное время +4,
+    Standard: Всемирное координированное время +4,
+    Daylight: Всемирное координированное время +4
+  },
+  Asia/Baghdad: {
+    Generic: Саудовская Аравия,
+    Standard: Саудовская Аравия, стандартное время,
+    Daylight: Саудовская Аравия, летнее время
+  },
+  America/Buenos_Aires: {
+    Generic: Аргентина,
+    Standard: Аргентина, стандартное время,
+    Daylight: Аргентина, летнее время
+  },
+  America/Argentina/La_Rioja: {
+    Generic: Аргентина,
+    Standard: Аргентина, стандартное время,
+    Daylight: Аргентина, летнее время
+  },
+  America/Argentina/Rio_Gallegos: {
+    Generic: Аргентина,
+    Standard: Аргентина, стандартное время,
+    Daylight: Аргентина, летнее время
+  },
+  America/Argentina/Salta: {
+    Generic: Аргентина,
+    Standard: Аргентина, стандартное время,
+    Daylight: Аргентина, летнее время
+  },
+  America/Argentina/San_Juan: {
+    Generic: Аргентина,
+    Standard: Аргентина, стандартное время,
+    Daylight: Аргентина, летнее время
+  },
+  America/Argentina/San_Luis: {
+    Generic: Аргентина,
+    Standard: Аргентина, стандартное время,
+    Daylight: Аргентина, летнее время
+  },
+  America/Argentina/Tucuman: {
+    Generic: Аргентина,
+    Standard: Аргентина, стандартное время,
+    Daylight: Аргентина, летнее время
+  },
+  America/Argentina/Ushuaia: {
+    Generic: Аргентина,
+    Standard: Аргентина, стандартное время,
+    Daylight: Аргентина, летнее время
+  },
+  America/Catamarca: {
+    Generic: Аргентина,
+    Standard: Аргентина, стандартное время,
+    Daylight: Аргентина, летнее время
+  },
+  America/Cordoba: {
+    Generic: Аргентина,
+    Standard: Аргентина, стандартное время,
+    Daylight: Аргентина, летнее время
+  },
+  America/Jujuy: {
+    Generic: Аргентина,
+    Standard: Аргентина, стандартное время,
+    Daylight: Аргентина, летнее время
+  },
+  America/Mendoza: {
+    Generic: Аргентина,
+    Standard: Аргентина, стандартное время,
+    Daylight: Аргентина, летнее время
+  },
+  Europe/Astrakhan: {
+    Generic: Астрахань,
+    Standard: Астрахань, стандартное время,
+    Daylight: Астрахань, летнее время
+  },
+  Europe/Ulyanovsk: {
+    Generic: Ульяновск,
+    Standard: Ульяновск, стандартное время,
+    Daylight: Ульяновск, летнее время
+  },
+  America/Halifax: {
+    Generic: Атлантическое время,
+    Standard: Атлантическое стандартное время,
+    Daylight: Атлантическое летнее время
+  },
+  Atlantic/Bermuda: {
+    Generic: Атлантическое время,
+    Standard: Атлантическое стандартное время,
+    Daylight: Атлантическое летнее время
+  },
+  America/Glace_Bay: {
+    Generic: Атлантическое время,
+    Standard: Атлантическое стандартное время,
+    Daylight: Атлантическое летнее время
+  },
+  America/Goose_Bay: {
+    Generic: Атлантическое время,
+    Standard: Атлантическое стандартное время,
+    Daylight: Атлантическое летнее время
+  },
+  America/Moncton: {
+    Generic: Атлантическое время,
+    Standard: Атлантическое стандартное время,
+    Daylight: Атлантическое летнее время
+  },
+  America/Thule: {
+    Generic: Атлантическое время,
+    Standard: Атлантическое стандартное время,
+    Daylight: Атлантическое летнее время
+  },
+  Australia/Eucla: {
+    Generic: Центральная Австралия, западное время,
+    Standard: Центральная Австралия, западное стандартное время,
+    Daylight: Центральная Австралия, западное летнее время
+  },
+  Asia/Baku: {
+    Generic: Азербайджан,
+    Standard: Азербайджан, стандартное время,
+    Daylight: Азербайджан, летнее время
+  },
+  Atlantic/Azores: {
+    Generic: Азорские о-ва,
+    Standard: Азорские о-ва, стандартное время,
+    Daylight: Азорские о-ва, летнее время
+  },
+  America/Scoresbysund: {
+    Generic: Восточная Гренландия,
+    Standard: Восточная Гренландия, стандарное время,
+    Daylight: Восточная Гренландия, летнее время
+  },
+  America/Bahia: {
+    Generic: Бразилия,
+    Standard: Бразилия, стандартное время,
+    Daylight: Бразилия, летнее время
+  },
+  Asia/Dhaka: {
+    Generic: Бангладеш,
+    Standard: Бангладеш, стандартное время,
+    Daylight: Бангладеш, летнее время
+  },
+  Asia/Thimphu: {
+    Generic: Бутан,
+    Standard: Бутан,
+    Daylight: Бутан
+  },
+  Europe/Minsk: {
+    Generic: Москва,
+    Standard: Москва, стандартное время,
+    Daylight: Москва, летнее время
+  },
+  Pacific/Bougainville: {
+    Generic: Папуа – Новая Гвинея,
+    Standard: Папуа – Новая Гвинея,
+    Daylight: Папуа – Новая Гвинея
+  },
+  America/Regina: {
+    Generic: Центральная Америка,
+    Standard: Центральная Америка, стандартное время,
+    Daylight: Центральная Америка, летнее время
+  },
+  America/Swift_Current: {
+    Generic: Центральная Америка,
+    Standard: Центральная Америка, стандартное время,
+    Daylight: Центральная Америка, летнее время
+  },
+  Atlantic/Cape_Verde: {
+    Generic: Кабо-Верде,
+    Standard: Кабо-Верде, стандартное время,
+    Daylight: Кабо-Верде, летнее время
+  },
+  Etc/GMT+1: {
+    Generic: Всемирное координированное время -1,
+    Standard: Всемирное координированное время -1,
+    Daylight: Всемирное координированное время -1
+  },
+  Asia/Yerevan: {
+    Generic: Армения,
+    Standard: Армения, стандартное время,
+    Daylight: Армения, летнее время
+  },
+  Australia/Adelaide: {
+    Generic: Центральная Австралия,
+    Standard: Центральная Австралия, стандартное время,
+    Daylight: Центральная Австралия, летнее время
+  },
+  Australia/Broken_Hill: {
+    Generic: Центральная Австралия,
+    Standard: Центральная Австралия, стандартное время,
+    Daylight: Центральная Австралия, летнее время
+  },
+  America/Guatemala: {
+    Generic: Центральная Америка,
+    Standard: Центральная Америка, стандартное время,
+    Daylight: Центральная Америка, летнее время
+  },
+  America/Belize: {
+    Generic: Центральная Америка,
+    Standard: Центральная Америка, стандартное время,
+    Daylight: Центральная Америка, летнее время
+  },
+  America/Costa_Rica: {
+    Generic: Центральная Америка,
+    Standard: Центральная Америка, стандартное время,
+    Daylight: Центральная Америка, летнее время
+  },
+  Pacific/Galapagos: {
+    Generic: Галапагосские о-ва,
+    Standard: Галапагосские о-ва,
+    Daylight: Галапагосские о-ва
+  },
+  America/Tegucigalpa: {
+    Generic: Центральная Америка,
+    Standard: Центральная Америка, стандартное время,
+    Daylight: Центральная Америка, летнее время
+  },
+  America/Managua: {
+    Generic: Центральная Америка,
+    Standard: Центральная Америка, стандартное время,
+    Daylight: Центральная Америка, летнее время
+  },
+  America/El_Salvador: {
+    Generic: Центральная Америка,
+    Standard: Центральная Америка, стандартное время,
+    Daylight: Центральная Америка, летнее время
+  },
+  Etc/GMT+6: {
+    Generic: Всемирное координированное время -6,
+    Standard: Всемирное координированное время -6,
+    Daylight: Всемирное координированное время -6
+  },
+  Asia/Almaty: {
+    Generic: Восточный Казахстан,
+    Standard: Восточный Казахстан,
+    Daylight: Восточный Казахстан
+  },
+  Antarctica/Vostok: {
+    Generic: Восток,
+    Standard: Восток,
+    Daylight: Восток
+  },
+  Asia/Urumqi: {
+    Generic: Китай,
+    Standard: Китай, стандартное время,
+    Daylight: Китай, летнее время
+  },
+  Indian/Chagos: {
+    Generic: Индийский океан,
+    Standard: Индийский океан,
+    Daylight: Индийский океан
+  },
+  Asia/Bishkek: {
+    Generic: Киргизия,
+    Standard: Киргизия,
+    Daylight: Киргизия
+  },
+  Asia/Qostanay: {
+    Generic: Восточный Казахстан,
+    Standard: Восточный Казахстан,
+    Daylight: Восточный Казахстан
+  },
+  Etc/GMT-6: {
+    Generic: Всемирное координированное время +6,
+    Standard: Всемирное координированное время +6,
+    Daylight: Всемирное координированное время +6
+  },
+  America/Cuiaba: {
+    Generic: Амазонка,
+    Standard: Амазонка, стандартное время,
+    Daylight: Амазонка, летнее время
+  },
+  America/Campo_Grande: {
+    Generic: Амазонка,
+    Standard: Амазонка, стандартное время,
+    Daylight: Амазонка, летнее время
+  },
+  Europe/Budapest: {
+    Generic: Центральная Европа,
+    Standard: Центральная Европа, стандартное время,
+    Daylight: Центральная Европа, летнее время
+  },
+  Europe/Tirane: {
+    Generic: Центральная Европа,
+    Standard: Центральная Европа, стандартное время,
+    Daylight: Центральная Европа, летнее время
+  },
+  Europe/Prague: {
+    Generic: Центральная Европа,
+    Standard: Центральная Европа, стандартное время,
+    Daylight: Центральная Европа, летнее время
+  },
+  Europe/Podgorica: {
+    Generic: Центральная Европа,
+    Standard: Центральная Европа, стандартное время,
+    Daylight: Центральная Европа, летнее время
+  },
+  Europe/Belgrade: {
+    Generic: Центральная Европа,
+    Standard: Центральная Европа, стандартное время,
+    Daylight: Центральная Европа, летнее время
+  },
+  Europe/Ljubljana: {
+    Generic: Центральная Европа,
+    Standard: Центральная Европа, стандартное время,
+    Daylight: Центральная Европа, летнее время
+  },
+  Europe/Bratislava: {
+    Generic: Центральная Европа,
+    Standard: Центральная Европа, стандартное время,
+    Daylight: Центральная Европа, летнее время
+  },
+  Europe/Warsaw: {
+    Generic: Центральная Европа,
+    Standard: Центральная Европа, стандартное время,
+    Daylight: Центральная Европа, летнее время
+  },
+  Europe/Sarajevo: {
+    Generic: Центральная Европа,
+    Standard: Центральная Европа, стандартное время,
+    Daylight: Центральная Европа, летнее время
+  },
+  Europe/Zagreb: {
+    Generic: Центральная Европа,
+    Standard: Центральная Европа, стандартное время,
+    Daylight: Центральная Европа, летнее время
+  },
+  Europe/Skopje: {
+    Generic: Центральная Европа,
+    Standard: Центральная Европа, стандартное время,
+    Daylight: Центральная Европа, летнее время
+  },
+  Pacific/Guadalcanal: {
+    Generic: Соломоновы Острова,
+    Standard: Соломоновы Острова,
+    Daylight: Соломоновы Острова
+  },
+  Antarctica/Casey: {
+    Generic: Кейси,
+    Standard: Кейси,
+    Daylight: Кейси
+  },
+  Pacific/Ponape: {
+    Generic: Понпеи,
+    Standard: Понпеи,
+    Daylight: Понпеи
+  },
+  Pacific/Kosrae: {
+    Generic: Косрае,
+    Standard: Косрае,
+    Daylight: Косрае
+  },
+  Pacific/Noumea: {
+    Generic: Новая Каледония,
+    Standard: Новая Каледония, стандартное время,
+    Daylight: Новая Каледония, летнее время
+  },
+  Pacific/Efate: {
+    Generic: Вануату,
+    Standard: Вануату, стандартное время,
+    Daylight: Вануату, летнее время
+  },
+  Etc/GMT-11: {
+    Generic: Всемирное координированное время +11,
+    Standard: Всемирное координированное время +11,
+    Daylight: Всемирное координированное время +11
+  },
+  America/Mexico_City: {
+    Generic: Центральная Америка,
+    Standard: Центральная Америка, стандартное время,
+    Daylight: Центральная Америка, летнее время
+  },
+  America/Bahia_Banderas: {
+    Generic: Центральная Америка,
+    Standard: Центральная Америка, стандартное время,
+    Daylight: Центральная Америка, летнее время
+  },
+  America/Merida: {
+    Generic: Центральная Америка,
+    Standard: Центральная Америка, стандартное время,
+    Daylight: Центральная Америка, летнее время
+  },
+  America/Monterrey: {
+    Generic: Центральная Америка,
+    Standard: Центральная Америка, стандартное время,
+    Daylight: Центральная Америка, летнее время
+  },
+  America/Chicago: {
+    Generic: Центральная Америка,
+    Standard: Центральная Америка, стандартное время,
+    Daylight: Центральная Америка, летнее время
+  },
+  America/Winnipeg: {
+    Generic: Центральная Америка,
+    Standard: Центральная Америка, стандартное время,
+    Daylight: Центральная Америка, летнее время
+  },
+  America/Rainy_River: {
+    Generic: Центральная Америка,
+    Standard: Центральная Америка, стандартное время,
+    Daylight: Центральная Америка, летнее время
+  },
+  America/Rankin_Inlet: {
+    Generic: Центральная Америка,
+    Standard: Центральная Америка, стандартное время,
+    Daylight: Центральная Америка, летнее время
+  },
+  America/Resolute: {
+    Generic: Центральная Америка,
+    Standard: Центральная Америка, стандартное время,
+    Daylight: Центральная Америка, летнее время
+  },
+  America/Matamoros: {
+    Generic: Центральная Америка,
+    Standard: Центральная Америка, стандартное время,
+    Daylight: Центральная Америка, летнее время
+  },
+  America/Indiana/Knox: {
+    Generic: Центральная Америка,
+    Standard: Центральная Америка, стандартное время,
+    Daylight: Центральная Америка, летнее время
+  },
+  America/Indiana/Tell_City: {
+    Generic: Центральная Америка,
+    Standard: Центральная Америка, стандартное время,
+    Daylight: Центральная Америка, летнее время
+  },
+  America/Menominee: {
+    Generic: Центральная Америка,
+    Standard: Центральная Америка, стандартное время,
+    Daylight: Центральная Америка, летнее время
+  },
+  America/North_Dakota/Beulah: {
+    Generic: Центральная Америка,
+    Standard: Центральная Америка, стандартное время,
+    Daylight: Центральная Америка, летнее время
+  },
+  America/North_Dakota/Center: {
+    Generic: Центральная Америка,
+    Standard: Центральная Америка, стандартное время,
+    Daylight: Центральная Америка, летнее время
+  },
+  America/North_Dakota/New_Salem: {
+    Generic: Центральная Америка,
+    Standard: Центральная Америка, стандартное время,
+    Daylight: Центральная Америка, летнее время
+  },
+  CST6CDT: {
+    Generic: Центральная Америка,
+    Standard: Центральная Америка, стандартное время,
+    Daylight: Центральная Америка, летнее время
+  },
+  Pacific/Chatham: {
+    Generic: Чатем,
+    Standard: Чатем, стандартное время,
+    Daylight: Чатем, летнее время
+  },
+  Asia/Shanghai: {
+    Generic: Китай,
+    Standard: Китай, стандартное время,
+    Daylight: Китай, летнее время
+  },
+  Asia/Hong_Kong: {
+    Generic: Гонконг,
+    Standard: Гонконг, стандартное время,
+    Daylight: Гонконг, летнее время
+  },
+  Asia/Macau: {
+    Generic: Китай,
+    Standard: Китай, стандартное время,
+    Daylight: Китай, летнее время
+  },
+  America/Havana: {
+    Generic: Куба,
+    Standard: Куба, стандартное время,
+    Daylight: Куба, летнее время
+  },
+  Etc/GMT+12: {
+    Generic: Всемирное координированное время -12,
+    Standard: Всемирное координированное время -12,
+    Daylight: Всемирное координированное время -12
+  },
+  Africa/Nairobi: {
+    Generic: Восточная Африка,
+    Standard: Восточная Африка,
+    Daylight: Восточная Африка
+  },
+  Antarctica/Syowa: {
+    Generic: Сёва,
+    Standard: Сёва,
+    Daylight: Сёва
+  },
+  Africa/Djibouti: {
+    Generic: Восточная Африка,
+    Standard: Восточная Африка,
+    Daylight: Восточная Африка
+  },
+  Africa/Asmera: {
+    Generic: Восточная Африка,
+    Standard: Восточная Африка,
+    Daylight: Восточная Африка
+  },
+  Africa/Addis_Ababa: {
+    Generic: Восточная Африка,
+    Standard: Восточная Африка,
+    Daylight: Восточная Африка
+  },
+  Indian/Comoro: {
+    Generic: Восточная Африка,
+    Standard: Восточная Африка,
+    Daylight: Восточная Африка
+  },
+  Indian/Antananarivo: {
+    Generic: Восточная Африка,
+    Standard: Восточная Африка,
+    Daylight: Восточная Африка
+  },
+  Africa/Mogadishu: {
+    Generic: Восточная Африка,
+    Standard: Восточная Африка,
+    Daylight: Восточная Африка
+  },
+  Africa/Dar_es_Salaam: {
+    Generic: Восточная Африка,
+    Standard: Восточная Африка,
+    Daylight: Восточная Африка
+  },
+  Africa/Kampala: {
+    Generic: Восточная Африка,
+    Standard: Восточная Африка,
+    Daylight: Восточная Африка
+  },
+  Indian/Mayotte: {
+    Generic: Восточная Африка,
+    Standard: Восточная Африка,
+    Daylight: Восточная Африка
+  },
+  Etc/GMT-3: {
+    Generic: Всемирное координированное время +3,
+    Standard: Всемирное координированное время +3,
+    Daylight: Всемирное координированное время +3
+  },
+  Australia/Brisbane: {
+    Generic: Восточная Австралия,
+    Standard: Восточная Австралия, стандартное время,
+    Daylight: Восточная Австралия, летнее время
+  },
+  Australia/Lindeman: {
+    Generic: Восточная Австралия,
+    Standard: Восточная Австралия, стандартное время,
+    Daylight: Восточная Австралия, летнее время
+  },
+  Europe/Chisinau: {
+    Generic: Восточная Европа,
+    Standard: Восточная Европа, стандартное время,
+    Daylight: Восточная Европа, летнее время
+  },
+  America/Sao_Paulo: {
+    Generic: Бразилия,
+    Standard: Бразилия, стандартное время,
+    Daylight: Бразилия, летнее время
+  },
+  Pacific/Easter: {
+    Generic: О-в Пасхи,
+    Standard: О-в Пасхи, стандартное время,
+    Daylight: О-в Пасхи, летнее время
+  },
+  America/Cancun: {
+    Generic: Восточная Америка,
+    Standard: Восточная Америка, стандартное время,
+    Daylight: Восточная Америка, летнее время
+  },
+  America/New_York: {
+    Generic: Восточная Америка,
+    Standard: Восточная Америка, стандартное время,
+    Daylight: Восточная Америка, летнее время
+  },
+  America/Nassau: {
+    Generic: Восточная Америка,
+    Standard: Восточная Америка, стандартное время,
+    Daylight: Восточная Америка, летнее время
+  },
+  America/Toronto: {
+    Generic: Восточная Америка,
+    Standard: Восточная Америка, стандартное время,
+    Daylight: Восточная Америка, летнее время
+  },
+  America/Iqaluit: {
+    Generic: Восточная Америка,
+    Standard: Восточная Америка, стандартное время,
+    Daylight: Восточная Америка, летнее время
+  },
+  America/Montreal: {
+    Generic: Восточная Америка,
+    Standard: Восточная Америка, стандартное время,
+    Daylight: Восточная Америка, летнее время
+  },
+  America/Nipigon: {
+    Generic: Восточная Америка,
+    Standard: Восточная Америка, стандартное время,
+    Daylight: Восточная Америка, летнее время
+  },
+  America/Pangnirtung: {
+    Generic: Восточная Америка,
+    Standard: Восточная Америка, стандартное время,
+    Daylight: Восточная Америка, летнее время
+  },
+  America/Thunder_Bay: {
+    Generic: Восточная Америка,
+    Standard: Восточная Америка, стандартное время,
+    Daylight: Восточная Америка, летнее время
+  },
+  America/Detroit: {
+    Generic: Восточная Америка,
+    Standard: Восточная Америка, стандартное время,
+    Daylight: Восточная Америка, летнее время
+  },
+  America/Indiana/Petersburg: {
+    Generic: Восточная Америка,
+    Standard: Восточная Америка, стандартное время,
+    Daylight: Восточная Америка, летнее время
+  },
+  America/Indiana/Vincennes: {
+    Generic: Восточная Америка,
+    Standard: Восточная Америка, стандартное время,
+    Daylight: Восточная Америка, летнее время
+  },
+  America/Indiana/Winamac: {
+    Generic: Восточная Америка,
+    Standard: Восточная Америка, стандартное время,
+    Daylight: Восточная Америка, летнее время
+  },
+  America/Kentucky/Monticello: {
+    Generic: Восточная Америка,
+    Standard: Восточная Америка, стандартное время,
+    Daylight: Восточная Америка, летнее время
+  },
+  America/Louisville: {
+    Generic: Восточная Америка,
+    Standard: Восточная Америка, стандартное время,
+    Daylight: Восточная Америка, летнее время
+  },
+  EST5EDT: {
+    Generic: Восточная Америка,
+    Standard: Восточная Америка, стандартное время,
+    Daylight: Восточная Америка, летнее время
+  },
+  Africa/Cairo: {
+    Generic: Восточная Европа,
+    Standard: Восточная Европа, стандартное время,
+    Daylight: Восточная Европа, летнее время
+  },
+  Asia/Yekaterinburg: {
+    Generic: Екатеринбург,
+    Standard: Екатеринбург, стандартное время,
+    Daylight: Екатеринбург, летнее время
+  },
+  Europe/Kiev: {
+    Generic: Восточная Европа,
+    Standard: Восточная Европа, стандартное время,
+    Daylight: Восточная Европа, летнее время
+  },
+  Europe/Mariehamn: {
+    Generic: Восточная Европа,
+    Standard: Восточная Европа, стандартное время,
+    Daylight: Восточная Европа, летнее время
+  },
+  Europe/Sofia: {
+    Generic: Восточная Европа,
+    Standard: Восточная Европа, стандартное время,
+    Daylight: Восточная Европа, летнее время
+  },
+  Europe/Tallinn: {
+    Generic: Восточная Европа,
+    Standard: Восточная Европа, стандартное время,
+    Daylight: Восточная Европа, летнее время
+  },
+  Europe/Helsinki: {
+    Generic: Восточная Европа,
+    Standard: Восточная Европа, стандартное время,
+    Daylight: Восточная Европа, летнее время
+  },
+  Europe/Vilnius: {
+    Generic: Восточная Европа,
+    Standard: Восточная Европа, стандартное время,
+    Daylight: Восточная Европа, летнее время
+  },
+  Europe/Riga: {
+    Generic: Восточная Европа,
+    Standard: Восточная Европа, стандартное время,
+    Daylight: Восточная Европа, летнее время
+  },
+  Europe/Uzhgorod: {
+    Generic: Восточная Европа,
+    Standard: Восточная Европа, стандартное время,
+    Daylight: Восточная Европа, летнее время
+  },
+  Europe/Zaporozhye: {
+    Generic: Восточная Европа,
+    Standard: Восточная Европа, стандартное время,
+    Daylight: Восточная Европа, летнее время
+  },
+  Pacific/Fiji: {
+    Generic: Фиджи,
+    Standard: Фиджи, стандартное время,
+    Daylight: Фиджи, летнее время
+  },
+  Europe/London: {
+    Generic: Великобритания,
+    Standard: Среднее время по Гринвичу,
+    Daylight: Великобритания, летнее время
+  },
+  Atlantic/Canary: {
+    Generic: Западная Европа,
+    Standard: Западная Европа, стандартное время,
+    Daylight: Западная Европа, летнее время
+  },
+  Atlantic/Faeroe: {
+    Generic: Западная Европа,
+    Standard: Западная Европа, стандартное время,
+    Daylight: Западная Европа, летнее время
+  },
+  Europe/Guernsey: {
+    Generic: Среднее время по Гринвичу,
+    Standard: Среднее время по Гринвичу,
+    Daylight: Среднее время по Гринвичу
+  },
+  Europe/Dublin: {
+    Generic: Ирландия,
+    Standard: Среднее время по Гринвичу,
+    Daylight: Ирландия, стандартное время
+  },
+  Europe/Isle_of_Man: {
+    Generic: Среднее время по Гринвичу,
+    Standard: Среднее время по Гринвичу,
+    Daylight: Среднее время по Гринвичу
+  },
+  Europe/Jersey: {
+    Generic: Среднее время по Гринвичу,
+    Standard: Среднее время по Гринвичу,
+    Daylight: Среднее время по Гринвичу
+  },
+  Europe/Lisbon: {
+    Generic: Западная Европа,
+    Standard: Западная Европа, стандартное время,
+    Daylight: Западная Европа, летнее время
+  },
+  Atlantic/Madeira: {
+    Generic: Западная Европа,
+    Standard: Западная Европа, стандартное время,
+    Daylight: Западная Европа, летнее время
+  },
+  Europe/Bucharest: {
+    Generic: Восточная Европа,
+    Standard: Восточная Европа, стандартное время,
+    Daylight: Восточная Европа, летнее время
+  },
+  Asia/Nicosia: {
+    Generic: Восточная Европа,
+    Standard: Восточная Европа, стандартное время,
+    Daylight: Восточная Европа, летнее время
+  },
+  Asia/Famagusta: {
+    Generic: Восточная Европа,
+    Standard: Восточная Европа, стандартное время,
+    Daylight: Восточная Европа, летнее время
+  },
+  Europe/Athens: {
+    Generic: Восточная Европа,
+    Standard: Восточная Европа, стандартное время,
+    Daylight: Восточная Европа, летнее время
+  },
+  Asia/Tbilisi: {
+    Generic: Грузия,
+    Standard: Грузия, стандартное время,
+    Daylight: Грузия, летнее время
+  },
+  America/Godthab: {
+    Generic: Западная Гренландия,
+    Standard: Западная Гренландия, стандартное время,
+    Daylight: Западная Гренландия, летнее время
+  },
+  Atlantic/Reykjavik: {
+    Generic: Среднее время по Гринвичу,
+    Standard: Среднее время по Гринвичу,
+    Daylight: Среднее время по Гринвичу
+  },
+  Atlantic/St_Helena: {
+    Generic: Среднее время по Гринвичу,
+    Standard: Среднее время по Гринвичу,
+    Daylight: Среднее время по Гринвичу
+  },
+  Africa/Ouagadougou: {
+    Generic: Среднее время по Гринвичу,
+    Standard: Среднее время по Гринвичу,
+    Daylight: Среднее время по Гринвичу
+  },
+  Africa/Abidjan: {
+    Generic: Среднее время по Гринвичу,
+    Standard: Среднее время по Гринвичу,
+    Daylight: Среднее время по Гринвичу
+  },
+  Africa/Accra: {
+    Generic: Среднее время по Гринвичу,
+    Standard: Среднее время по Гринвичу,
+    Daylight: Среднее время по Гринвичу
+  },
+  America/Danmarkshavn: {
+    Generic: Среднее время по Гринвичу,
+    Standard: Среднее время по Гринвичу,
+    Daylight: Среднее время по Гринвичу
+  },
+  Africa/Banjul: {
+    Generic: Среднее время по Гринвичу,
+    Standard: Среднее время по Гринвичу,
+    Daylight: Среднее время по Гринвичу
+  },
+  Africa/Conakry: {
+    Generic: Среднее время по Гринвичу,
+    Standard: Среднее время по Гринвичу,
+    Daylight: Среднее время по Гринвичу
+  },
+  Africa/Bissau: {
+    Generic: Среднее время по Гринвичу,
+    Standard: Среднее время по Гринвичу,
+    Daylight: Среднее время по Гринвичу
+  },
+  Africa/Monrovia: {
+    Generic: Среднее время по Гринвичу,
+    Standard: Среднее время по Гринвичу,
+    Daylight: Среднее время по Гринвичу
+  },
+  Africa/Bamako: {
+    Generic: Среднее время по Гринвичу,
+    Standard: Среднее время по Гринвичу,
+    Daylight: Среднее время по Гринвичу
+  },
+  Africa/Nouakchott: {
+    Generic: Среднее время по Гринвичу,
+    Standard: Среднее время по Гринвичу,
+    Daylight: Среднее время по Гринвичу
+  },
+  Africa/Freetown: {
+    Generic: Среднее время по Гринвичу,
+    Standard: Среднее время по Гринвичу,
+    Daylight: Среднее время по Гринвичу
+  },
+  Africa/Dakar: {
+    Generic: Среднее время по Гринвичу,
+    Standard: Среднее время по Гринвичу,
+    Daylight: Среднее время по Гринвичу
+  },
+  Africa/Lome: {
+    Generic: Среднее время по Гринвичу,
+    Standard: Среднее время по Гринвичу,
+    Daylight: Среднее время по Гринвичу
+  },
+  America/Port-au-Prince: {
+    Generic: Восточная Америка,
+    Standard: Восточная Америка, стандартное время,
+    Daylight: Восточная Америка, летнее время
+  },
+  Pacific/Honolulu: {
+    Generic: Гавайско-алеутское время,
+    Standard: Гавайско-алеутское стандартное время,
+    Daylight: Гавайско-алеутское летнее время
+  },
+  Pacific/Rarotonga: {
+    Generic: Острова Кука,
+    Standard: Острова Кука, стандартное время,
+    Daylight: Острова Кука, полулетнее время
+  },
+  Pacific/Tahiti: {
+    Generic: Таити,
+    Standard: Таити,
+    Daylight: Таити
+  },
+  Pacific/Johnston: {
+    Generic: Гавайско-алеутское время,
+    Standard: Гавайско-алеутское стандартное время,
+    Daylight: Гавайско-алеутское летнее время
+  },
+  Etc/GMT+10: {
+    Generic: Всемирное координированное время -10,
+    Standard: Всемирное координированное время -10,
+    Daylight: Всемирное координированное время -10
+  },
+  Asia/Calcutta: {
+    Generic: Индия,
+    Standard: Индия,
+    Daylight: Индия
+  },
+  Asia/Tehran: {
+    Generic: Иран,
+    Standard: Иран, стандартное время,
+    Daylight: Иран, летнее время
+  },
+  Asia/Jerusalem: {
+    Generic: Израиль,
+    Standard: Израиль, стандартное время,
+    Daylight: Израиль, летнее время
+  },
+  Asia/Amman: {
+    Generic: Восточная Европа,
+    Standard: Восточная Европа, стандартное время,
+    Daylight: Восточная Европа, летнее время
+  },
+  Europe/Kaliningrad: {
+    Generic: Калининград,
+    Standard: Калининград, стандартное время,
+    Daylight: Калининград, летнее время
+  },
+  Asia/Seoul: {
+    Generic: Корея,
+    Standard: Корея, стандартное время,
+    Daylight: Корея, летнее время
+  },
+  Africa/Tripoli: {
+    Generic: Восточная Европа,
+    Standard: Восточная Европа, стандартное время,
+    Daylight: Восточная Европа, летнее время
+  },
+  Pacific/Kiritimati: {
+    Generic: о-ва Лайн,
+    Standard: о-ва Лайн,
+    Daylight: о-ва Лайн
+  },
+  Etc/GMT-14: {
+    Generic: Всемирное координированное время +14,
+    Standard: Всемирное координированное время +14,
+    Daylight: Всемирное координированное время +14
+  },
+  Australia/Lord_Howe: {
+    Generic: Лорд-Хау,
+    Standard: Лорд-Хау, стандартное время,
+    Daylight: Лорд-Хау, летнее время
+  },
+  Asia/Magadan: {
+    Generic: Магадан,
+    Standard: Магадан, стандартное время,
+    Daylight: Магадан, летнее время
+  },
+  America/Punta_Arenas: {
+    Generic: Чили,
+    Standard: Чили, стандартное время,
+    Daylight: Чили, летнее время
+  },
+  Pacific/Marquesas: {
+    Generic: Маркизские о-ва,
+    Standard: Маркизские о-ва,
+    Daylight: Маркизские о-ва
+  },
+  Indian/Mauritius: {
+    Generic: Маврикий,
+    Standard: Маврикий, стандартное время,
+    Daylight: Маврикий, летнее время
+  },
+  Indian/Reunion: {
+    Generic: Реюньон,
+    Standard: Реюньон,
+    Daylight: Реюньон
+  },
+  Indian/Mahe: {
+    Generic: Сейшельские Острова,
+    Standard: Сейшельские Острова,
+    Daylight: Сейшельские Острова
+  },
+  Asia/Beirut: {
+    Generic: Восточная Европа,
+    Standard: Восточная Европа, стандартное время,
+    Daylight: Восточная Европа, летнее время
+  },
+  America/Montevideo: {
+    Generic: Уругвай,
+    Standard: Уругвай, стандартное время,
+    Daylight: Уругвай, летнее время
+  },
+  Africa/Casablanca: {
+    Generic: Западная Европа,
+    Standard: Западная Европа, стандартное время,
+    Daylight: Западная Европа, летнее время
+  },
+  Africa/El_Aaiun: {
+    Generic: Западная Европа,
+    Standard: Западная Европа, стандартное время,
+    Daylight: Западная Европа, летнее время
+  },
+  America/Chihuahua: {
+    Generic: Тихоокеанское мексиканское время,
+    Standard: Тихоокеанское мексиканское стандартное время,
+    Daylight: Тихоокеанское мексиканское летнее время
+  },
+  America/Mazatlan: {
+    Generic: Тихоокеанское мексиканское время,
+    Standard: Тихоокеанское мексиканское стандартное время,
+    Daylight: Тихоокеанское мексиканское летнее время
+  },
+  America/Denver: {
+    Generic: Горное время (Северная Америка),
+    Standard: Стандартное горное время (Северная Америка),
+    Daylight: Летнее горное время (Северная Америка)
+  },
+  America/Edmonton: {
+    Generic: Горное время (Северная Америка),
+    Standard: Стандартное горное время (Северная Америка),
+    Daylight: Летнее горное время (Северная Америка)
+  },
+  America/Cambridge_Bay: {
+    Generic: Горное время (Северная Америка),
+    Standard: Стандартное горное время (Северная Америка),
+    Daylight: Летнее горное время (Северная Америка)
+  },
+  America/Inuvik: {
+    Generic: Горное время (Северная Америка),
+    Standard: Стандартное горное время (Северная Америка),
+    Daylight: Летнее горное время (Северная Америка)
+  },
+  America/Yellowknife: {
+    Generic: Горное время (Северная Америка),
+    Standard: Стандартное горное время (Северная Америка),
+    Daylight: Летнее горное время (Северная Америка)
+  },
+  America/Ojinaga: {
+    Generic: Горное время (Северная Америка),
+    Standard: Стандартное горное время (Северная Америка),
+    Daylight: Летнее горное время (Северная Америка)
+  },
+  America/Boise: {
+    Generic: Горное время (Северная Америка),
+    Standard: Стандартное горное время (Северная Америка),
+    Daylight: Летнее горное время (Северная Америка)
+  },
+  MST7MDT: {
+    Generic: Горное время (Северная Америка),
+    Standard: Стандартное горное время (Северная Америка),
+    Daylight: Летнее горное время (Северная Америка)
+  },
+  Asia/Rangoon: {
+    Generic: Мьянма,
+    Standard: Мьянма,
+    Daylight: Мьянма
+  },
+  Indian/Cocos: {
+    Generic: Кокосовые о-ва,
+    Standard: Кокосовые о-ва,
+    Daylight: Кокосовые о-ва
+  },
+  Asia/Novosibirsk: {
+    Generic: Новосибирск,
+    Standard: Новосибирск, стандартное время,
+    Daylight: Новосибирск, летнее время
+  },
+  Africa/Windhoek: {
+    Generic: Центральная Африка,
+    Standard: Центральная Африка,
+    Daylight: Центральная Африка
+  },
+  Asia/Katmandu: {
+    Generic: Непал,
+    Standard: Непал,
+    Daylight: Непал
+  },
+  Pacific/Auckland: {
+    Generic: Новая Зеландия,
+    Standard: Новая Зеландия, стандартное время,
+    Daylight: Новая Зеландия, летнее время
+  },
+  Antarctica/McMurdo: {
+    Generic: Новая Зеландия,
+    Standard: Новая Зеландия, стандартное время,
+    Daylight: Новая Зеландия, летнее время
+  },
+  America/St_Johns: {
+    Generic: Ньюфаундленд,
+    Standard: Ньюфаундленд, стандартное время,
+    Daylight: Ньюфаундленд, летнее время
+  },
+  Pacific/Norfolk: {
+    Generic: Норфолк,
+    Standard: Норфолк, стандартное время,
+    Daylight: Норфолк, летнее время
+  },
+  Asia/Irkutsk: {
+    Generic: Иркутск,
+    Standard: Иркутск, стандартное время,
+    Daylight: Иркутск, летнее время
+  },
+  Asia/Krasnoyarsk: {
+    Generic: Красноярск,
+    Standard: Красноярск, стандартное время,
+    Daylight: Красноярск, летнее время
+  },
+  Asia/Novokuznetsk: {
+    Generic: Новокузнецк,
+    Standard: Новокузнецк, стандартное время,
+    Daylight: Новокузнецк, летнее время
+  },
+  Asia/Pyongyang: {
+    Generic: Корея,
+    Standard: Корея, стандартное время,
+    Daylight: Корея, летнее время
+  },
+  Asia/Omsk: {
+    Generic: Омск,
+    Standard: Омск, стандартное время,
+    Daylight: Омск, летнее время
+  },
+  America/Santiago: {
+    Generic: Чили,
+    Standard: Чили, стандартное время,
+    Daylight: Чили, летнее время
+  },
+  America/Tijuana: {
+    Generic: Тихоокеанское время,
+    Standard: Тихоокеанское стандартное время,
+    Daylight: Тихоокеанское летнее время
+  },
+  America/Santa_Isabel: {
+    Generic: Северо-западное мексиканское время,
+    Standard: Северо-западное мексиканское стандартное время,
+    Daylight: Северо-западное мексиканское летнее время
+  },
+  America/Los_Angeles: {
+    Generic: Тихоокеанское время,
+    Standard: Тихоокеанское стандартное время,
+    Daylight: Тихоокеанское летнее время
+  },
+  America/Vancouver: {
+    Generic: Тихоокеанское время,
+    Standard: Тихоокеанское стандартное время,
+    Daylight: Тихоокеанское летнее время
+  },
+  PST8PDT: {
+    Generic: Тихоокеанское время,
+    Standard: Тихоокеанское стандартное время,
+    Daylight: Тихоокеанское летнее время
+  },
+  Asia/Karachi: {
+    Generic: Пакистан,
+    Standard: Пакистан, стандартное время,
+    Daylight: Пакистан, летнее время
+  },
+  America/Asuncion: {
+    Generic: Парагвай,
+    Standard: Парагвай, стандартное время,
+    Daylight: Парагвай, летнее время
+  },
+  Asia/Qyzylorda: {
+    Generic: Западный Казахстан,
+    Standard: Западный Казахстан,
+    Daylight: Западный Казахстан
+  },
+  Europe/Paris: {
+    Generic: Центральная Европа,
+    Standard: Центральная Европа, стандартное время,
+    Daylight: Центральная Европа, летнее время
+  },
+  Europe/Brussels: {
+    Generic: Центральная Европа,
+    Standard: Центральная Европа, стандартное время,
+    Daylight: Центральная Европа, летнее время
+  },
+  Europe/Copenhagen: {
+    Generic: Центральная Европа,
+    Standard: Центральная Европа, стандартное время,
+    Daylight: Центральная Европа, летнее время
+  },
+  Africa/Ceuta: {
+    Generic: Центральная Европа,
+    Standard: Центральная Европа, стандартное время,
+    Daylight: Центральная Европа, летнее время
+  },
+  Europe/Madrid: {
+    Generic: Центральная Европа,
+    Standard: Центральная Европа, стандартное время,
+    Daylight: Центральная Европа, летнее время
+  },
+  Asia/Srednekolymsk: {
+    Generic: Среднеколымск,
+    Standard: Среднеколымск, стандартное время,
+    Daylight: Среднеколымск, летнее время
+  },
+  Asia/Kamchatka: {
+    Generic: Петропавловск-Камчатский,
+    Standard: Петропавловск-Камчатский, стандартное время,
+    Daylight: Петропавловск-Камчатский, летнее время
+  },
+  Asia/Anadyr: {
+    Generic: Анадырь,
+    Standard: Анадырь, стандартное время,
+    Daylight: Анадырь, летнее время
+  },
+  Europe/Samara: {
+    Generic: Самара,
+    Standard: Самара, стандартное время,
+    Daylight: Самара, летнее время
+  },
+  Europe/Moscow: {
+    Generic: Москва,
+    Standard: Москва, стандартное время,
+    Daylight: Москва, летнее время
+  },
+  Europe/Kirov: {
+    Generic: Киров,
+    Standard: Киров, стандартное время,
+    Daylight: Киров, летнее время
+  },
+  Europe/Simferopol: {
+    Generic: Москва,
+    Standard: Москва, стандартное время,
+    Daylight: Москва, летнее время
+  },
+  America/Cayenne: {
+    Generic: Французская Гвиана,
+    Standard: Французская Гвиана,
+    Daylight: Французская Гвиана
+  },
+  Antarctica/Rothera: {
+    Generic: Ротера,
+    Standard: Ротера,
+    Daylight: Ротера
+  },
+  Antarctica/Palmer: {
+    Generic: Чили,
+    Standard: Чили, стандартное время,
+    Daylight: Чили, летнее время
+  },
+  America/Fortaleza: {
+    Generic: Бразилия,
+    Standard: Бразилия, стандартное время,
+    Daylight: Бразилия, летнее время
+  },
+  America/Belem: {
+    Generic: Бразилия,
+    Standard: Бразилия, стандартное время,
+    Daylight: Бразилия, летнее время
+  },
+  America/Maceio: {
+    Generic: Бразилия,
+    Standard: Бразилия, стандартное время,
+    Daylight: Бразилия, летнее время
+  },
+  America/Recife: {
+    Generic: Бразилия,
+    Standard: Бразилия, стандартное время,
+    Daylight: Бразилия, летнее время
+  },
+  America/Santarem: {
+    Generic: Бразилия,
+    Standard: Бразилия, стандартное время,
+    Daylight: Бразилия, летнее время
+  },
+  Atlantic/Stanley: {
+    Generic: Фолклендские о-ва,
+    Standard: Фолклендские о-ва, стандартное время,
+    Daylight: Фолклендские о-ва, летнее время
+  },
+  America/Paramaribo: {
+    Generic: Суринам,
+    Standard: Суринам,
+    Daylight: Суринам
+  },
+  Etc/GMT+3: {
+    Generic: Всемирное координированное время -3,
+    Standard: Всемирное координированное время -3,
+    Daylight: Всемирное координированное время -3
+  },
+  America/Bogota: {
+    Generic: Колумбия,
+    Standard: Колумбия, стандартное время,
+    Daylight: Колумбия, летнее время
+  },
+  America/Rio_Branco: {
+    Generic: Акри время,
+    Standard: Акри стандартное время,
+    Daylight: Акри летнее время
+  },
+  America/Eirunepe: {
+    Generic: Акри время,
+    Standard: Акри стандартное время,
+    Daylight: Акри летнее время
+  },
+  America/Coral_Harbour: {
+    Generic: Восточная Америка,
+    Standard: Восточная Америка, стандартное время,
+    Daylight: Восточная Америка, летнее время
+  },
+  America/Guayaquil: {
+    Generic: Эквадор,
+    Standard: Эквадор,
+    Daylight: Эквадор
+  },
+  America/Jamaica: {
+    Generic: Восточная Америка,
+    Standard: Восточная Америка, стандартное время,
+    Daylight: Восточная Америка, летнее время
+  },
+  America/Cayman: {
+    Generic: Восточная Америка,
+    Standard: Восточная Америка, стандартное время,
+    Daylight: Восточная Америка, летнее время
+  },
+  America/Panama: {
+    Generic: Восточная Америка,
+    Standard: Восточная Америка, стандартное время,
+    Daylight: Восточная Америка, летнее время
+  },
+  America/Lima: {
+    Generic: Перу,
+    Standard: Перу, стандартное время,
+    Daylight: Перу, летнее время
+  },
+  Etc/GMT+5: {
+    Generic: Всемирное координированное время -5,
+    Standard: Всемирное координированное время -5,
+    Daylight: Всемирное координированное время -5
+  },
+  America/La_Paz: {
+    Generic: Боливия,
+    Standard: Боливия,
+    Daylight: Боливия
+  },
+  America/Antigua: {
+    Generic: Атлантическое время,
+    Standard: Атлантическое стандартное время,
+    Daylight: Атлантическое летнее время
+  },
+  America/Anguilla: {
+    Generic: Атлантическое время,
+    Standard: Атлантическое стандартное время,
+    Daylight: Атлантическое летнее время
+  },
+  America/Aruba: {
+    Generic: Атлантическое время,
+    Standard: Атлантическое стандартное время,
+    Daylight: Атлантическое летнее время
+  },
+  America/Barbados: {
+    Generic: Атлантическое время,
+    Standard: Атлантическое стандартное время,
+    Daylight: Атлантическое летнее время
+  },
+  America/St_Barthelemy: {
+    Generic: Атлантическое время,
+    Standard: Атлантическое стандартное время,
+    Daylight: Атлантическое летнее время
+  },
+  America/Kralendijk: {
+    Generic: Атлантическое время,
+    Standard: Атлантическое стандартное время,
+    Daylight: Атлантическое летнее время
+  },
+  America/Manaus: {
+    Generic: Амазонка,
+    Standard: Амазонка, стандартное время,
+    Daylight: Амазонка, летнее время
+  },
+  America/Boa_Vista: {
+    Generic: Амазонка,
+    Standard: Амазонка, стандартное время,
+    Daylight: Амазонка, летнее время
+  },
+  America/Porto_Velho: {
+    Generic: Амазонка,
+    Standard: Амазонка, стандартное время,
+    Daylight: Амазонка, летнее время
+  },
+  America/Blanc-Sablon: {
+    Generic: Атлантическое время,
+    Standard: Атлантическое стандартное время,
+    Daylight: Атлантическое летнее время
+  },
+  America/Curacao: {
+    Generic: Атлантическое время,
+    Standard: Атлантическое стандартное время,
+    Daylight: Атлантическое летнее время
+  },
+  America/Dominica: {
+    Generic: Атлантическое время,
+    Standard: Атлантическое стандартное время,
+    Daylight: Атлантическое летнее время
+  },
+  America/Santo_Domingo: {
+    Generic: Атлантическое время,
+    Standard: Атлантическое стандартное время,
+    Daylight: Атлантическое летнее время
+  },
+  America/Grenada: {
+    Generic: Атлантическое время,
+    Standard: Атлантическое стандартное время,
+    Daylight: Атлантическое летнее время
+  },
+  America/Guadeloupe: {
+    Generic: Атлантическое время,
+    Standard: Атлантическое стандартное время,
+    Daylight: Атлантическое летнее время
+  },
+  America/Guyana: {
+    Generic: Гайана,
+    Standard: Гайана,
+    Daylight: Гайана
+  },
+  America/St_Kitts: {
+    Generic: Атлантическое время,
+    Standard: Атлантическое стандартное время,
+    Daylight: Атлантическое летнее время
+  },
+  America/St_Lucia: {
+    Generic: Атлантическое время,
+    Standard: Атлантическое стандартное время,
+    Daylight: Атлантическое летнее время
+  },
+  America/Marigot: {
+    Generic: Атлантическое время,
+    Standard: Атлантическое стандартное время,
+    Daylight: Атлантическое летнее время
+  },
+  America/Martinique: {
+    Generic: Атлантическое время,
+    Standard: Атлантическое стандартное время,
+    Daylight: Атлантическое летнее время
+  },
+  America/Montserrat: {
+    Generic: Атлантическое время,
+    Standard: Атлантическое стандартное время,
+    Daylight: Атлантическое летнее время
+  },
+  America/Puerto_Rico: {
+    Generic: Атлантическое время,
+    Standard: Атлантическое стандартное время,
+    Daylight: Атлантическое летнее время
+  },
+  America/Lower_Princes: {
+    Generic: Атлантическое время,
+    Standard: Атлантическое стандартное время,
+    Daylight: Атлантическое летнее время
+  },
+  America/Port_of_Spain: {
+    Generic: Атлантическое время,
+    Standard: Атлантическое стандартное время,
+    Daylight: Атлантическое летнее время
+  },
+  America/St_Vincent: {
+    Generic: Атлантическое время,
+    Standard: Атлантическое стандартное время,
+    Daylight: Атлантическое летнее время
+  },
+  America/Tortola: {
+    Generic: Атлантическое время,
+    Standard: Атлантическое стандартное время,
+    Daylight: Атлантическое летнее время
+  },
+  America/St_Thomas: {
+    Generic: Атлантическое время,
+    Standard: Атлантическое стандартное время,
+    Daylight: Атлантическое летнее время
+  },
+  Etc/GMT+4: {
+    Generic: Всемирное координированное время -4,
+    Standard: Всемирное координированное время -4,
+    Daylight: Всемирное координированное время -4
+  },
+  Asia/Bangkok: {
+    Generic: Индокитай,
+    Standard: Индокитай,
+    Daylight: Индокитай
+  },
+  Antarctica/Davis: {
+    Generic: Дейвис,
+    Standard: Дейвис,
+    Daylight: Дейвис
+  },
+  Indian/Christmas: {
+    Generic: о-в Рождества,
+    Standard: о-в Рождества,
+    Daylight: о-в Рождества
+  },
+  Asia/Jakarta: {
+    Generic: Западная Индонезия,
+    Standard: Западная Индонезия,
+    Daylight: Западная Индонезия
+  },
+  Asia/Pontianak: {
+    Generic: Западная Индонезия,
+    Standard: Западная Индонезия,
+    Daylight: Западная Индонезия
+  },
+  Asia/Phnom_Penh: {
+    Generic: Индокитай,
+    Standard: Индокитай,
+    Daylight: Индокитай
+  },
+  Asia/Vientiane: {
+    Generic: Индокитай,
+    Standard: Индокитай,
+    Daylight: Индокитай
+  },
+  Asia/Saigon: {
+    Generic: Индокитай,
+    Standard: Индокитай,
+    Daylight: Индокитай
+  },
+  Etc/GMT-7: {
+    Generic: Всемирное координированное время +7,
+    Standard: Всемирное координированное время +7,
+    Daylight: Всемирное координированное время +7
+  },
+  America/Miquelon: {
+    Generic: Сен-Пьер и Микелон,
+    Standard: Сен-Пьер и Микелон, стандартное время,
+    Daylight: Сен-Пьер и Микелон, летнее время
+  },
+  Asia/Sakhalin: {
+    Generic: о-в Сахалин,
+    Standard: о-в Сахалин, стандартное время,
+    Daylight: о-в Сахалин, летнее время
+  },
+  Pacific/Apia: {
+    Generic: Апиа,
+    Standard: Апиа, стандартное время,
+    Daylight: Апиа, летнее время
+  },
+  Africa/Sao_Tome: {
+    Generic: Среднее время по Гринвичу,
+    Standard: Среднее время по Гринвичу,
+    Daylight: Среднее время по Гринвичу
+  },
+  Europe/Saratov: {
+    Generic: Саратов,
+    Standard: Саратов, стандартное время,
+    Daylight: Саратов, летнее время
+  },
+  Asia/Singapore: {
+    Generic: Сингапур,
+    Standard: Сингапур,
+    Daylight: Сингапур
+  },
+  Asia/Brunei: {
+    Generic: Бруней-Даруссалам,
+    Standard: Бруней-Даруссалам,
+    Daylight: Бруней-Даруссалам
+  },
+  Asia/Makassar: {
+    Generic: Центральная Индонезия,
+    Standard: Центральная Индонезия,
+    Daylight: Центральная Индонезия
+  },
+  Asia/Kuala_Lumpur: {
+    Generic: Малайзия,
+    Standard: Малайзия,
+    Daylight: Малайзия
+  },
+  Asia/Kuching: {
+    Generic: Малайзия,
+    Standard: Малайзия,
+    Daylight: Малайзия
+  },
+  Asia/Manila: {
+    Generic: Филиппины,
+    Standard: Филиппины, стандартное время,
+    Daylight: Филиппины, летнее время
+  },
+  Etc/GMT-8: {
+    Generic: Всемирное координированное время +8,
+    Standard: Всемирное координированное время +8,
+    Daylight: Всемирное координированное время +8
+  },
+  Africa/Johannesburg: {
+    Generic: Южная Африка,
+    Standard: Южная Африка,
+    Daylight: Южная Африка
+  },
+  Africa/Bujumbura: {
+    Generic: Центральная Африка,
+    Standard: Центральная Африка,
+    Daylight: Центральная Африка
+  },
+  Africa/Gaborone: {
+    Generic: Центральная Африка,
+    Standard: Центральная Африка,
+    Daylight: Центральная Африка
+  },
+  Africa/Lubumbashi: {
+    Generic: Центральная Африка,
+    Standard: Центральная Африка,
+    Daylight: Центральная Африка
+  },
+  Africa/Maseru: {
+    Generic: Южная Африка,
+    Standard: Южная Африка,
+    Daylight: Южная Африка
+  },
+  Africa/Blantyre: {
+    Generic: Центральная Африка,
+    Standard: Центральная Африка,
+    Daylight: Центральная Африка
+  },
+  Africa/Maputo: {
+    Generic: Центральная Африка,
+    Standard: Центральная Африка,
+    Daylight: Центральная Африка
+  },
+  Africa/Kigali: {
+    Generic: Центральная Африка,
+    Standard: Центральная Африка,
+    Daylight: Центральная Африка
+  },
+  Africa/Mbabane: {
+    Generic: Южная Африка,
+    Standard: Южная Африка,
+    Daylight: Южная Африка
+  },
+  Africa/Lusaka: {
+    Generic: Центральная Африка,
+    Standard: Центральная Африка,
+    Daylight: Центральная Африка
+  },
+  Africa/Harare: {
+    Generic: Центральная Африка,
+    Standard: Центральная Африка,
+    Daylight: Центральная Африка
+  },
+  Etc/GMT-2: {
+    Generic: Всемирное координированное время +2,
+    Standard: Всемирное координированное время +2,
+    Daylight: Всемирное координированное время +2
+  },
+  Africa/Juba: {
+    Generic: Центральная Африка,
+    Standard: Центральная Африка,
+    Daylight: Центральная Африка
+  },
+  Asia/Colombo: {
+    Generic: Индия,
+    Standard: Индия,
+    Daylight: Индия
+  },
+  Africa/Khartoum: {
+    Generic: Центральная Африка,
+    Standard: Центральная Африка,
+    Daylight: Центральная Африка
+  },
+  Asia/Damascus: {
+    Generic: Восточная Европа,
+    Standard: Восточная Европа, стандартное время,
+    Daylight: Восточная Европа, летнее время
+  },
+  Asia/Taipei: {
+    Generic: Тайвань,
+    Standard: Тайвань, стандартное время,
+    Daylight: Тайвань, летнее время
+  },
+  Australia/Hobart: {
+    Generic: Восточная Австралия,
+    Standard: Восточная Австралия, стандартное время,
+    Daylight: Восточная Австралия, летнее время
+  },
+  Australia/Currie: {
+    Generic: Восточная Австралия,
+    Standard: Восточная Австралия, стандартное время,
+    Daylight: Восточная Австралия, летнее время
+  },
+  Antarctica/Macquarie: {
+    Generic: Восточная Австралия,
+    Standard: Восточная Австралия, стандартное время,
+    Daylight: Восточная Австралия, летнее время
+  },
+  America/Araguaina: {
+    Generic: Бразилия,
+    Standard: Бразилия, стандартное время,
+    Daylight: Бразилия, летнее время
+  },
+  Asia/Tokyo: {
+    Generic: Япония,
+    Standard: Япония, стандартное время,
+    Daylight: Япония, летнее время
+  },
+  Asia/Jayapura: {
+    Generic: Восточная Индонезия,
+    Standard: Восточная Индонезия,
+    Daylight: Восточная Индонезия
+  },
+  Pacific/Palau: {
+    Generic: Палау,
+    Standard: Палау,
+    Daylight: Палау
+  },
+  Asia/Dili: {
+    Generic: Восточный Тимор,
+    Standard: Восточный Тимор,
+    Daylight: Восточный Тимор
+  },
+  Etc/GMT-9: {
+    Generic: Всемирное координированное время +9,
+    Standard: Всемирное координированное время +9,
+    Daylight: Всемирное координированное время +9
+  },
+  Asia/Tomsk: {
+    Generic: Томск,
+    Standard: Томск, стандартное время,
+    Daylight: Томск, летнее время
+  },
+  Pacific/Tongatapu: {
+    Generic: Тонга,
+    Standard: Тонга, стандартное время,
+    Daylight: Тонга, летнее время
+  },
+  Asia/Chita: {
+    Generic: Чита,
+    Standard: Чита, стандартное время,
+    Daylight: Чита, летнее время
+  },
+  Europe/Istanbul: {
+    Generic: Турция,
+    Standard: Турция, стандартное время,
+    Daylight: Турция, летнее время
+  },
+  America/Grand_Turk: {
+    Generic: Восточная Америка,
+    Standard: Восточная Америка, стандартное время,
+    Daylight: Восточная Америка, летнее время
+  },
+  America/Indianapolis: {
+    Generic: Восточная Америка,
+    Standard: Восточная Америка, стандартное время,
+    Daylight: Восточная Америка, летнее время
+  },
+  America/Indiana/Marengo: {
+    Generic: Восточная Америка,
+    Standard: Восточная Америка, стандартное время,
+    Daylight: Восточная Америка, летнее время
+  },
+  America/Indiana/Vevay: {
+    Generic: Восточная Америка,
+    Standard: Восточная Америка, стандартное время,
+    Daylight: Восточная Америка, летнее время
+  },
+  America/Phoenix: {
+    Generic: Горное время (Северная Америка),
+    Standard: Стандартное горное время (Северная Америка),
+    Daylight: Летнее горное время (Северная Америка)
+  },
+  America/Creston: {
+    Generic: Горное время (Северная Америка),
+    Standard: Стандартное горное время (Северная Америка),
+    Daylight: Летнее горное время (Северная Америка)
+  },
+  America/Dawson_Creek: {
+    Generic: Горное время (Северная Америка),
+    Standard: Стандартное горное время (Северная Америка),
+    Daylight: Летнее горное время (Северная Америка)
+  },
+  America/Fort_Nelson: {
+    Generic: Горное время (Северная Америка),
+    Standard: Стандартное горное время (Северная Америка),
+    Daylight: Летнее горное время (Северная Америка)
+  },
+  America/Hermosillo: {
+    Generic: Тихоокеанское мексиканское время,
+    Standard: Тихоокеанское мексиканское стандартное время,
+    Daylight: Тихоокеанское мексиканское летнее время
+  },
+  Etc/GMT+7: {
+    Generic: Всемирное координированное время -7,
+    Standard: Всемирное координированное время -7,
+    Daylight: Всемирное координированное время -7
+  },
+  Etc/GMT-12: {
+    Generic: Всемирное координированное время +12,
+    Standard: Всемирное координированное время +12,
+    Daylight: Всемирное координированное время +12
+  },
+  Pacific/Tarawa: {
+    Generic: о-ва Гилберта,
+    Standard: о-ва Гилберта,
+    Daylight: о-ва Гилберта
+  },
+  Pacific/Majuro: {
+    Generic: Маршалловы Острова,
+    Standard: Маршалловы Острова,
+    Daylight: Маршалловы Острова
+  },
+  Pacific/Kwajalein: {
+    Generic: Маршалловы Острова,
+    Standard: Маршалловы Острова,
+    Daylight: Маршалловы Острова
+  },
+  Pacific/Nauru: {
+    Generic: Науру,
+    Standard: Науру,
+    Daylight: Науру
+  },
+  Pacific/Funafuti: {
+    Generic: Тувалу,
+    Standard: Тувалу,
+    Daylight: Тувалу
+  },
+  Pacific/Wake: {
+    Generic: Уэйк,
+    Standard: Уэйк,
+    Daylight: Уэйк
+  },
+  Pacific/Wallis: {
+    Generic: Уоллис и Футуна,
+    Standard: Уоллис и Футуна,
+    Daylight: Уоллис и Футуна
+  },
+  Etc/GMT-13: {
+    Generic: Всемирное координированное время +13,
+    Standard: Всемирное координированное время +13,
+    Daylight: Всемирное координированное время +13
+  },
+  Pacific/Enderbury: {
+    Generic: о-ва Феникс,
+    Standard: о-ва Феникс,
+    Daylight: о-ва Феникс
+  },
+  Pacific/Fakaofo: {
+    Generic: Токелау,
+    Standard: Токелау,
+    Daylight: Токелау
+  },
+  Etc/UTC: {
+    Generic: Всемирное координированное время,
+    Standard: Всемирное координированное время,
+    Daylight: Всемирное координированное время
+  },
+  Etc/GMT: {
+    Generic: Среднее время по Гринвичу,
+    Standard: Среднее время по Гринвичу,
+    Daylight: Среднее время по Гринвичу
+  },
+  Etc/GMT+2: {
+    Generic: Всемирное координированное время -2,
+    Standard: Всемирное координированное время -2,
+    Daylight: Всемирное координированное время -2
+  },
+  America/Noronha: {
+    Generic: Фернанду-ди-Норонья,
+    Standard: Фернанду-ди-Норонья, стандартное время,
+    Daylight: Фернанду-ди-Норонья, летнее время
+  },
+  Atlantic/South_Georgia: {
+    Generic: Южная Георгия,
+    Standard: Южная Георгия,
+    Daylight: Южная Георгия
+  },
+  Etc/GMT+8: {
+    Generic: Всемирное координированное время -8,
+    Standard: Всемирное координированное время -8,
+    Daylight: Всемирное координированное время -8
+  },
+  Pacific/Pitcairn: {
+    Generic: Питкэрн,
+    Standard: Питкэрн,
+    Daylight: Питкэрн
+  },
+  Etc/GMT+9: {
+    Generic: Всемирное координированное время -9,
+    Standard: Всемирное координированное время -9,
+    Daylight: Всемирное координированное время -9
+  },
+  Pacific/Gambier: {
+    Generic: Гамбье,
+    Standard: Гамбье,
+    Daylight: Гамбье
+  },
+  Etc/GMT+11: {
+    Generic: Всемирное координированное время -11,
+    Standard: Всемирное координированное время -11,
+    Daylight: Всемирное координированное время -11
+  },
+  Pacific/Pago_Pago: {
+    Generic: Самоа,
+    Standard: Самоа, стандартное время,
+    Daylight: Самоа, летнее время
+  },
+  Pacific/Niue: {
+    Generic: Ниуэ,
+    Standard: Ниуэ,
+    Daylight: Ниуэ
+  },
+  Pacific/Midway: {
+    Generic: Самоа,
+    Standard: Самоа, стандартное время,
+    Daylight: Самоа, летнее время
+  },
+  Asia/Ulaanbaatar: {
+    Generic: Улан-Батор,
+    Standard: Улан-Батор, стандартное время,
+    Daylight: Улан-Батор, летнее время
+  },
+  Asia/Choibalsan: {
+    Generic: Улан-Батор,
+    Standard: Улан-Батор, стандартное время,
+    Daylight: Улан-Батор, летнее время
+  },
+  America/Caracas: {
+    Generic: Венесуэла,
+    Standard: Венесуэла,
+    Daylight: Венесуэла
+  },
+  Asia/Vladivostok: {
+    Generic: Владивосток,
+    Standard: Владивосток, стандартное время,
+    Daylight: Владивосток, летнее время
+  },
+  Asia/Ust-Nera: {
+    Generic: Усть-Нера,
+    Standard: Усть-Нера, стандартное время,
+    Daylight: Усть-Нера, летнее время
+  },
+  Europe/Volgograd: {
+    Generic: Волгоград,
+    Standard: Волгоград, стандартное время,
+    Daylight: Волгоград, летнее время
+  },
+  Australia/Perth: {
+    Generic: Западная Австралия,
+    Standard: Западная Австралия, стандартное время,
+    Daylight: Западная Австралия, летнее время
+  },
+  Africa/Lagos: {
+    Generic: Западная Африка,
+    Standard: Западная Африка, стандартное время,
+    Daylight: Западная Африка, летнее время
+  },
+  Africa/Luanda: {
+    Generic: Западная Африка,
+    Standard: Западная Африка, стандартное время,
+    Daylight: Западная Африка, летнее время
+  },
+  Africa/Porto-Novo: {
+    Generic: Западная Африка,
+    Standard: Западная Африка, стандартное время,
+    Daylight: Западная Африка, летнее время
+  },
+  Africa/Kinshasa: {
+    Generic: Западная Африка,
+    Standard: Западная Африка, стандартное время,
+    Daylight: Западная Африка, летнее время
+  },
+  Africa/Bangui: {
+    Generic: Западная Африка,
+    Standard: Западная Африка, стандартное время,
+    Daylight: Западная Африка, летнее время
+  },
+  Africa/Brazzaville: {
+    Generic: Западная Африка,
+    Standard: Западная Африка, стандартное время,
+    Daylight: Западная Африка, летнее время
+  },
+  Africa/Douala: {
+    Generic: Западная Африка,
+    Standard: Западная Африка, стандартное время,
+    Daylight: Западная Африка, летнее время
+  },
+  Africa/Algiers: {
+    Generic: Центральная Европа,
+    Standard: Центральная Европа, стандартное время,
+    Daylight: Центральная Европа, летнее время
+  },
+  Africa/Libreville: {
+    Generic: Западная Африка,
+    Standard: Западная Африка, стандартное время,
+    Daylight: Западная Африка, летнее время
+  },
+  Africa/Malabo: {
+    Generic: Западная Африка,
+    Standard: Западная Африка, стандартное время,
+    Daylight: Западная Африка, летнее время
+  },
+  Africa/Niamey: {
+    Generic: Западная Африка,
+    Standard: Западная Африка, стандартное время,
+    Daylight: Западная Африка, летнее время
+  },
+  Africa/Ndjamena: {
+    Generic: Западная Африка,
+    Standard: Западная Африка, стандартное время,
+    Daylight: Западная Африка, летнее время
+  },
+  Africa/Tunis: {
+    Generic: Центральная Европа,
+    Standard: Центральная Европа, стандартное время,
+    Daylight: Центральная Европа, летнее время
+  },
+  Etc/GMT-1: {
+    Generic: Всемирное координированное время +1,
+    Standard: Всемирное координированное время +1,
+    Daylight: Всемирное координированное время +1
+  },
+  Europe/Berlin: {
+    Generic: Центральная Европа,
+    Standard: Центральная Европа, стандартное время,
+    Daylight: Центральная Европа, летнее время
+  },
+  Europe/Andorra: {
+    Generic: Центральная Европа,
+    Standard: Центральная Европа, стандартное время,
+    Daylight: Центральная Европа, летнее время
+  },
+  Europe/Vienna: {
+    Generic: Центральная Европа,
+    Standard: Центральная Европа, стандартное время,
+    Daylight: Центральная Европа, летнее время
+  },
+  Europe/Zurich: {
+    Generic: Центральная Европа,
+    Standard: Центральная Европа, стандартное время,
+    Daylight: Центральная Европа, летнее время
+  },
+  Europe/Busingen: {
+    Generic: Центральная Европа,
+    Standard: Центральная Европа, стандартное время,
+    Daylight: Центральная Европа, летнее время
+  },
+  Europe/Gibraltar: {
+    Generic: Центральная Европа,
+    Standard: Центральная Европа, стандартное время,
+    Daylight: Центральная Европа, летнее время
+  },
+  Europe/Rome: {
+    Generic: Центральная Европа,
+    Standard: Центральная Европа, стандартное время,
+    Daylight: Центральная Европа, летнее время
+  },
+  Europe/Vaduz: {
+    Generic: Центральная Европа,
+    Standard: Центральная Европа, стандартное время,
+    Daylight: Центральная Европа, летнее время
+  },
+  Europe/Luxembourg: {
+    Generic: Центральная Европа,
+    Standard: Центральная Европа, стандартное время,
+    Daylight: Центральная Европа, летнее время
+  },
+  Europe/Monaco: {
+    Generic: Центральная Европа,
+    Standard: Центральная Европа, стандартное время,
+    Daylight: Центральная Европа, летнее время
+  },
+  Europe/Malta: {
+    Generic: Центральная Европа,
+    Standard: Центральная Европа, стандартное время,
+    Daylight: Центральная Европа, летнее время
+  },
+  Europe/Amsterdam: {
+    Generic: Центральная Европа,
+    Standard: Центральная Европа, стандартное время,
+    Daylight: Центральная Европа, летнее время
+  },
+  Europe/Oslo: {
+    Generic: Центральная Европа,
+    Standard: Центральная Европа, стандартное время,
+    Daylight: Центральная Европа, летнее время
+  },
+  Europe/Stockholm: {
+    Generic: Центральная Европа,
+    Standard: Центральная Европа, стандартное время,
+    Daylight: Центральная Европа, летнее время
+  },
+  Arctic/Longyearbyen: {
+    Generic: Центральная Европа,
+    Standard: Центральная Европа, стандартное время,
+    Daylight: Центральная Европа, летнее время
+  },
+  Europe/San_Marino: {
+    Generic: Центральная Европа,
+    Standard: Центральная Европа, стандартное время,
+    Daylight: Центральная Европа, летнее время
+  },
+  Europe/Vatican: {
+    Generic: Центральная Европа,
+    Standard: Центральная Европа, стандартное время,
+    Daylight: Центральная Европа, летнее время
+  },
+  Asia/Hovd: {
+    Generic: Ховд,
+    Standard: Ховд, стандартное время,
+    Daylight: Ховд, летнее время
+  },
+  Asia/Tashkent: {
+    Generic: Узбекистан,
+    Standard: Узбекистан, стандартное время,
+    Daylight: Узбекистан, летнее время
+  },
+  Antarctica/Mawson: {
+    Generic: Моусон,
+    Standard: Моусон,
+    Daylight: Моусон
+  },
+  Asia/Oral: {
+    Generic: Западный Казахстан,
+    Standard: Западный Казахстан,
+    Daylight: Западный Казахстан
+  },
+  Asia/Aqtau: {
+    Generic: Западный Казахстан,
+    Standard: Западный Казахстан,
+    Daylight: Западный Казахстан
+  },
+  Asia/Aqtobe: {
+    Generic: Западный Казахстан,
+    Standard: Западный Казахстан,
+    Daylight: Западный Казахстан
+  },
+  Asia/Atyrau: {
+    Generic: Западный Казахстан,
+    Standard: Западный Казахстан,
+    Daylight: Западный Казахстан
+  },
+  Indian/Maldives: {
+    Generic: Мальдивы,
+    Standard: Мальдивы,
+    Daylight: Мальдивы
+  },
+  Indian/Kerguelen: {
+    Generic: Французские Южные и Антарктические территории,
+    Standard: Французские Южные и Антарктические территории,
+    Daylight: Французские Южные и Антарктические территории
+  },
+  Asia/Dushanbe: {
+    Generic: Таджикистан,
+    Standard: Таджикистан,
+    Daylight: Таджикистан
+  },
+  Asia/Ashgabat: {
+    Generic: Туркменистан,
+    Standard: Туркменистан, стандартное время,
+    Daylight: Туркменистан, летнее время
+  },
+  Asia/Samarkand: {
+    Generic: Узбекистан,
+    Standard: Узбекистан, стандартное время,
+    Daylight: Узбекистан, летнее время
+  },
+  Etc/GMT-5: {
+    Generic: Всемирное координированное время +5,
+    Standard: Всемирное координированное время +5,
+    Daylight: Всемирное координированное время +5
+  },
+  Asia/Hebron: {
+    Generic: Восточная Европа,
+    Standard: Восточная Европа, стандартное время,
+    Daylight: Восточная Европа, летнее время
+  },
+  Asia/Gaza: {
+    Generic: Восточная Европа,
+    Standard: Восточная Европа, стандартное время,
+    Daylight: Восточная Европа, летнее время
+  },
+  Pacific/Port_Moresby: {
+    Generic: Папуа – Новая Гвинея,
+    Standard: Папуа – Новая Гвинея,
+    Daylight: Папуа – Новая Гвинея
+  },
+  Antarctica/DumontDUrville: {
+    Generic: Дюмон-д’Юрвиль,
+    Standard: Дюмон-д’Юрвиль,
+    Daylight: Дюмон-д’Юрвиль
+  },
+  Pacific/Truk: {
+    Generic: Трук,
+    Standard: Трук,
+    Daylight: Трук
+  },
+  Pacific/Guam: {
+    Generic: Чаморро,
+    Standard: Чаморро,
+    Daylight: Чаморро
+  },
+  Pacific/Saipan: {
+    Generic: Чаморро,
+    Standard: Чаморро,
+    Daylight: Чаморро
+  },
+  Etc/GMT-10: {
+    Generic: Всемирное координированное время +10,
+    Standard: Всемирное координированное время +10,
+    Daylight: Всемирное координированное время +10
+  },
+  Asia/Yakutsk: {
+    Generic: Якутск,
+    Standard: Якутск, стандартное время,
+    Daylight: Якутск, летнее время
+  },
+  Asia/Khandyga: {
+    Generic: Хандыга,
+    Standard: Хандыга, стандартное время,
+    Daylight: Хандыга, летнее время
+  },
+  America/Whitehorse: {
+    Generic: Юкон,
+    Standard: Юкон,
+    Daylight: Юкон
+  },
+  America/Dawson: {
+    Generic: Юкон,
+    Standard: Юкон,
+    Daylight: Юкон
+  },
+  Iceland: {
+    Generic: Среднее время по Гринвичу,
+    Standard: Среднее время по Гринвичу,
+    Daylight: Среднее время по Гринвичу
+  },
+  Africa/Timbuktu: {
+    Generic: Среднее время по Гринвичу,
+    Standard: Среднее время по Гринвичу,
+    Daylight: Среднее время по Гринвичу
+  },
+  Egypt: {
+    Generic: Восточная Европа,
+    Standard: Восточная Европа, стандартное время,
+    Daylight: Восточная Европа, летнее время
+  },
+  Africa/Asmara: {
+    Generic: Восточная Африка,
+    Standard: Восточная Африка,
+    Daylight: Восточная Африка
+  },
+  Libya: {
+    Generic: Восточная Европа,
+    Standard: Восточная Европа, стандартное время,
+    Daylight: Восточная Европа, летнее время
+  },
+  America/Atka: {
+    Generic: Гавайско-алеутское время,
+    Standard: Гавайско-алеутское стандартное время,
+    Daylight: Гавайско-алеутское летнее время
+  },
+  US/Aleutian: {
+    Generic: Гавайско-алеутское время,
+    Standard: Гавайско-алеутское стандартное время,
+    Daylight: Гавайско-алеутское летнее время
+  },
+  US/Alaska: {
+    Generic: Аляска,
+    Standard: Аляска, стандартное время,
+    Daylight: Аляска, летнее время
+  },
+  America/Argentina/Buenos_Aires: {
+    Generic: Аргентина,
+    Standard: Аргентина, стандартное время,
+    Daylight: Аргентина, летнее время
+  },
+  America/Argentina/Catamarca: {
+    Generic: Аргентина,
+    Standard: Аргентина, стандартное время,
+    Daylight: Аргентина, летнее время
+  },
+  America/Argentina/ComodRivadavia: {
+    Generic: Аргентина,
+    Standard: Аргентина, стандартное время,
+    Daylight: Аргентина, летнее время
+  },
+  America/Argentina/Cordoba: {
+    Generic: Аргентина,
+    Standard: Аргентина, стандартное время,
+    Daylight: Аргентина, летнее время
+  },
+  America/Rosario: {
+    Generic: Аргентина,
+    Standard: Аргентина, стандартное время,
+    Daylight: Аргентина, летнее время
+  },
+  America/Argentina/Jujuy: {
+    Generic: Аргентина,
+    Standard: Аргентина, стандартное время,
+    Daylight: Аргентина, летнее время
+  },
+  America/Argentina/Mendoza: {
+    Generic: Аргентина,
+    Standard: Аргентина, стандартное время,
+    Daylight: Аргентина, летнее время
+  },
+  US/Central: {
+    Generic: Центральная Америка,
+    Standard: Центральная Америка, стандартное время,
+    Daylight: Центральная Америка, летнее время
+  },
+  America/Shiprock: {
+    Generic: Горное время (Северная Америка),
+    Standard: Стандартное горное время (Северная Америка),
+    Daylight: Летнее горное время (Северная Америка)
+  },
+  Navajo: {
+    Generic: Горное время (Северная Америка),
+    Standard: Стандартное горное время (Северная Америка),
+    Daylight: Летнее горное время (Северная Америка)
+  },
+  US/Mountain: {
+    Generic: Горное время (Северная Америка),
+    Standard: Стандартное горное время (Северная Америка),
+    Daylight: Летнее горное время (Северная Америка)
+  },
+  US/Michigan: {
+    Generic: Восточная Америка,
+    Standard: Восточная Америка, стандартное время,
+    Daylight: Восточная Америка, летнее время
+  },
+  Canada/Mountain: {
+    Generic: Горное время (Северная Америка),
+    Standard: Стандартное горное время (Северная Америка),
+    Daylight: Летнее горное время (Северная Америка)
+  },
+  Canada/Atlantic: {
+    Generic: Атлантическое время,
+    Standard: Атлантическое стандартное время,
+    Daylight: Атлантическое летнее время
+  },
+  Cuba: {
+    Generic: Куба,
+    Standard: Куба, стандартное время,
+    Daylight: Куба, летнее время
+  },
+  America/Indiana/Indianapolis: {
+    Generic: Восточная Америка,
+    Standard: Восточная Америка, стандартное время,
+    Daylight: Восточная Америка, летнее время
+  },
+  US/East-Indiana: {
+    Generic: Восточная Америка,
+    Standard: Восточная Америка, стандартное время,
+    Daylight: Восточная Америка, летнее время
+  },
+  America/Knox_IN: {
+    Generic: Центральная Америка,
+    Standard: Центральная Америка, стандартное время,
+    Daylight: Центральная Америка, летнее время
+  },
+  US/Indiana-Starke: {
+    Generic: Центральная Америка,
+    Standard: Центральная Америка, стандартное время,
+    Daylight: Центральная Америка, летнее время
+  },
+  Jamaica: {
+    Generic: Восточная Америка,
+    Standard: Восточная Америка, стандартное время,
+    Daylight: Восточная Америка, летнее время
+  },
+  America/Kentucky/Louisville: {
+    Generic: Восточная Америка,
+    Standard: Восточная Америка, стандартное время,
+    Daylight: Восточная Америка, летнее время
+  },
+  US/Pacific: {
+    Generic: Тихоокеанское время,
+    Standard: Тихоокеанское стандартное время,
+    Daylight: Тихоокеанское летнее время
+  },
+  Brazil/West: {
+    Generic: Амазонка,
+    Standard: Амазонка, стандартное время,
+    Daylight: Амазонка, летнее время
+  },
+  Mexico/BajaSur: {
+    Generic: Тихоокеанское мексиканское время,
+    Standard: Тихоокеанское мексиканское стандартное время,
+    Daylight: Тихоокеанское мексиканское летнее время
+  },
+  Mexico/General: {
+    Generic: Центральная Америка,
+    Standard: Центральная Америка, стандартное время,
+    Daylight: Центральная Америка, летнее время
+  },
+  US/Eastern: {
+    Generic: Восточная Америка,
+    Standard: Восточная Америка, стандартное время,
+    Daylight: Восточная Америка, летнее время
+  },
+  Brazil/DeNoronha: {
+    Generic: Фернанду-ди-Норонья,
+    Standard: Фернанду-ди-Норонья, стандартное время,
+    Daylight: Фернанду-ди-Норонья, летнее время
+  },
+  America/Nuuk: {
+    Generic: Западная Гренландия,
+    Standard: Западная Гренландия, стандартное время,
+    Daylight: Западная Гренландия, летнее время
+  },
+  America/Atikokan: {
+    Generic: Восточная Америка,
+    Standard: Восточная Америка, стандартное время,
+    Daylight: Восточная Америка, летнее время
+  },
+  US/Arizona: {
+    Generic: Горное время (Северная Америка),
+    Standard: Стандартное горное время (Северная Америка),
+    Daylight: Летнее горное время (Северная Америка)
+  },
+  America/Virgin: {
+    Generic: Атлантическое время,
+    Standard: Атлантическое стандартное время,
+    Daylight: Атлантическое летнее время
+  },
+  Canada/Saskatchewan: {
+    Generic: Центральная Америка,
+    Standard: Центральная Америка, стандартное время,
+    Daylight: Центральная Америка, летнее время
+  },
+  America/Porto_Acre: {
+    Generic: Акри время,
+    Standard: Акри стандартное время,
+    Daylight: Акри летнее время
+  },
+  Brazil/Acre: {
+    Generic: Акри время,
+    Standard: Акри стандартное время,
+    Daylight: Акри летнее время
+  },
+  Chile/Continental: {
+    Generic: Чили,
+    Standard: Чили, стандартное время,
+    Daylight: Чили, летнее время
+  },
+  Brazil/East: {
+    Generic: Бразилия,
+    Standard: Бразилия, стандартное время,
+    Daylight: Бразилия, летнее время
+  },
+  Canada/Newfoundland: {
+    Generic: Ньюфаундленд,
+    Standard: Ньюфаундленд, стандартное время,
+    Daylight: Ньюфаундленд, летнее время
+  },
+  America/Ensenada: {
+    Generic: Тихоокеанское время,
+    Standard: Тихоокеанское стандартное время,
+    Daylight: Тихоокеанское летнее время
+  },
+  Mexico/BajaNorte: {
+    Generic: Тихоокеанское время,
+    Standard: Тихоокеанское стандартное время,
+    Daylight: Тихоокеанское летнее время
+  },
+  Canada/Eastern: {
+    Generic: Восточная Америка,
+    Standard: Восточная Америка, стандартное время,
+    Daylight: Восточная Америка, летнее время
+  },
+  Canada/Pacific: {
+    Generic: Тихоокеанское время,
+    Standard: Тихоокеанское стандартное время,
+    Daylight: Тихоокеанское летнее время
+  },
+  Canada/Yukon: {
+    Generic: Юкон,
+    Standard: Юкон,
+    Daylight: Юкон
+  },
+  Canada/Central: {
+    Generic: Центральная Америка,
+    Standard: Центральная Америка, стандартное время,
+    Daylight: Центральная Америка, летнее время
+  },
+  Asia/Ashkhabad: {
+    Generic: Туркменистан,
+    Standard: Туркменистан, стандартное время,
+    Daylight: Туркменистан, летнее время
+  },
+  Asia/Dacca: {
+    Generic: Бангладеш,
+    Standard: Бангладеш, стандартное время,
+    Daylight: Бангладеш, летнее время
+  },
+  Asia/Ho_Chi_Minh: {
+    Generic: Индокитай,
+    Standard: Индокитай,
+    Daylight: Индокитай
+  },
+  Hongkong: {
+    Generic: Гонконг,
+    Standard: Гонконг, стандартное время,
+    Daylight: Гонконг, летнее время
+  },
+  Asia/Tel_Aviv: {
+    Generic: Израиль,
+    Standard: Израиль, стандартное время,
+    Daylight: Израиль, летнее время
+  },
+  Israel: {
+    Generic: Израиль,
+    Standard: Израиль, стандартное время,
+    Daylight: Израиль, летнее время
+  },
+  Asia/Kathmandu: {
+    Generic: Непал,
+    Standard: Непал,
+    Daylight: Непал
+  },
+  Asia/Kolkata: {
+    Generic: Индия,
+    Standard: Индия,
+    Daylight: Индия
+  },
+  Asia/Macao: {
+    Generic: Китай,
+    Standard: Китай, стандартное время,
+    Daylight: Китай, летнее время
+  },
+  Asia/Ujung_Pandang: {
+    Generic: Центральная Индонезия,
+    Standard: Центральная Индонезия,
+    Daylight: Центральная Индонезия
+  },
+  Europe/Nicosia: {
+    Generic: Восточная Европа,
+    Standard: Восточная Европа, стандартное время,
+    Daylight: Восточная Европа, летнее время
+  },
+  ROK: {
+    Generic: Корея,
+    Standard: Корея, стандартное время,
+    Daylight: Корея, летнее время
+  },
+  Asia/Chongqing: {
+    Generic: Китай,
+    Standard: Китай, стандартное время,
+    Daylight: Китай, летнее время
+  },
+  Asia/Chungking: {
+    Generic: Китай,
+    Standard: Китай, стандартное время,
+    Daylight: Китай, летнее время
+  },
+  Asia/Harbin: {
+    Generic: Китай,
+    Standard: Китай, стандартное время,
+    Daylight: Китай, летнее время
+  },
+  PRC: {
+    Generic: Китай,
+    Standard: Китай, стандартное время,
+    Daylight: Китай, летнее время
+  },
+  Singapore: {
+    Generic: Сингапур,
+    Standard: Сингапур,
+    Daylight: Сингапур
+  },
+  ROC: {
+    Generic: Тайвань,
+    Standard: Тайвань, стандартное время,
+    Daylight: Тайвань, летнее время
+  },
+  Iran: {
+    Generic: Иран,
+    Standard: Иран, стандартное время,
+    Daylight: Иран, летнее время
+  },
+  Asia/Thimbu: {
+    Generic: Бутан,
+    Standard: Бутан,
+    Daylight: Бутан
+  },
+  Japan: {
+    Generic: Япония,
+    Standard: Япония, стандартное время,
+    Daylight: Япония, летнее время
+  },
+  Asia/Ulan_Bator: {
+    Generic: Улан-Батор,
+    Standard: Улан-Батор, стандартное время,
+    Daylight: Улан-Батор, летнее время
+  },
+  Asia/Kashgar: {
+    Generic: Китай,
+    Standard: Китай, стандартное время,
+    Daylight: Китай, летнее время
+  },
+  Asia/Yangon: {
+    Generic: Мьянма,
+    Standard: Мьянма,
+    Daylight: Мьянма
+  },
+  WET: {
+    Generic: Западная Европа,
+    Standard: Западная Европа, стандартное время,
+    Daylight: Западная Европа, летнее время
+  },
+  Atlantic/Faroe: {
+    Generic: Западная Европа,
+    Standard: Западная Европа, стандартное время,
+    Daylight: Западная Европа, летнее время
+  },
+  Australia/South: {
+    Generic: Центральная Австралия,
+    Standard: Центральная Австралия, стандартное время,
+    Daylight: Центральная Австралия, летнее время
+  },
+  Australia/Queensland: {
+    Generic: Восточная Австралия,
+    Standard: Восточная Австралия, стандартное время,
+    Daylight: Восточная Австралия, летнее время
+  },
+  Australia/Yancowinna: {
+    Generic: Центральная Австралия,
+    Standard: Центральная Австралия, стандартное время,
+    Daylight: Центральная Австралия, летнее время
+  },
+  Australia/North: {
+    Generic: Центральная Австралия,
+    Standard: Центральная Австралия, стандартное время,
+    Daylight: Центральная Австралия, летнее время
+  },
+  Australia/Tasmania: {
+    Generic: Восточная Австралия,
+    Standard: Восточная Австралия, стандартное время,
+    Daylight: Восточная Австралия, летнее время
+  },
+  Australia/LHI: {
+    Generic: Лорд-Хау,
+    Standard: Лорд-Хау, стандартное время,
+    Daylight: Лорд-Хау, летнее время
+  },
+  Australia/Victoria: {
+    Generic: Восточная Австралия,
+    Standard: Восточная Австралия, стандартное время,
+    Daylight: Восточная Австралия, летнее время
+  },
+  Australia/West: {
+    Generic: Западная Австралия,
+    Standard: Западная Австралия, стандартное время,
+    Daylight: Западная Австралия, летнее время
+  },
+  Australia/ACT: {
+    Generic: Восточная Австралия,
+    Standard: Восточная Австралия, стандартное время,
+    Daylight: Восточная Австралия, летнее время
+  },
+  Australia/Canberra: {
+    Generic: Восточная Австралия,
+    Standard: Восточная Австралия, стандартное время,
+    Daylight: Восточная Австралия, летнее время
+  },
+  Australia/NSW: {
+    Generic: Восточная Австралия,
+    Standard: Восточная Австралия, стандартное время,
+    Daylight: Восточная Австралия, летнее время
+  },
+  HST: {
+    Generic: Всемирное координированное время -10,
+    Standard: Всемирное координированное время -10,
+    Daylight: Всемирное координированное время -10
+  },
+  EST: {
+    Generic: Всемирное координированное время -5,
+    Standard: Всемирное координированное время -5,
+    Daylight: Всемирное координированное время -5
+  },
+  MST: {
+    Generic: Всемирное координированное время -7,
+    Standard: Всемирное координированное время -7,
+    Daylight: Всемирное координированное время -7
+  },
+  Etc/GMT+0: {
+    Generic: Среднее время по Гринвичу,
+    Standard: Среднее время по Гринвичу,
+    Daylight: Среднее время по Гринвичу
+  },
+  Etc/GMT-0: {
+    Generic: Среднее время по Гринвичу,
+    Standard: Среднее время по Гринвичу,
+    Daylight: Среднее время по Гринвичу
+  },
+  Etc/GMT0: {
+    Generic: Среднее время по Гринвичу,
+    Standard: Среднее время по Гринвичу,
+    Daylight: Среднее время по Гринвичу
+  },
+  Etc/Greenwich: {
+    Generic: Среднее время по Гринвичу,
+    Standard: Среднее время по Гринвичу,
+    Daylight: Среднее время по Гринвичу
+  },
+  GMT: {
+    Generic: Среднее время по Гринвичу,
+    Standard: Среднее время по Гринвичу,
+    Daylight: Среднее время по Гринвичу
+  },
+  GMT+0: {
+    Generic: Среднее время по Гринвичу,
+    Standard: Среднее время по Гринвичу,
+    Daylight: Среднее время по Гринвичу
+  },
+  GMT-0: {
+    Generic: Среднее время по Гринвичу,
+    Standard: Среднее время по Гринвичу,
+    Daylight: Среднее время по Гринвичу
+  },
+  GMT0: {
+    Generic: Среднее время по Гринвичу,
+    Standard: Среднее время по Гринвичу,
+    Daylight: Среднее время по Гринвичу
+  },
+  Greenwich: {
+    Generic: Среднее время по Гринвичу,
+    Standard: Среднее время по Гринвичу,
+    Daylight: Среднее время по Гринвичу
+  },
+  Etc/UCT: {
+    Generic: Всемирное координированное время,
+    Standard: Всемирное координированное время,
+    Daylight: Всемирное координированное время
+  },
+  Etc/Universal: {
+    Generic: Всемирное координированное время,
+    Standard: Всемирное координированное время,
+    Daylight: Всемирное координированное время
+  },
+  Etc/Zulu: {
+    Generic: Всемирное координированное время,
+    Standard: Всемирное координированное время,
+    Daylight: Всемирное координированное время
+  },
+  UCT: {
+    Generic: Всемирное координированное время,
+    Standard: Всемирное координированное время,
+    Daylight: Всемирное координированное время
+  },
+  UTC: {
+    Generic: Всемирное координированное время,
+    Standard: Всемирное координированное время,
+    Daylight: Всемирное координированное время
+  },
+  Universal: {
+    Generic: Всемирное координированное время,
+    Standard: Всемирное координированное время,
+    Daylight: Всемирное координированное время
+  },
+  Zulu: {
+    Generic: Всемирное координированное время,
+    Standard: Всемирное координированное время,
+    Daylight: Всемирное координированное время
+  },
+  Atlantic/Jan_Mayen: {
+    Generic: Центральная Европа,
+    Standard: Центральная Европа, стандартное время,
+    Daylight: Центральная Европа, летнее время
+  },
+  MET: {
+    Generic: Центральная Европа,
+    Standard: Центральная Европа, стандартное время,
+    Daylight: Центральная Европа, летнее время
+  },
+  EET: {
+    Generic: Восточная Европа,
+    Standard: Восточная Европа, стандартное время,
+    Daylight: Восточная Европа, летнее время
+  },
+  Europe/Tiraspol: {
+    Generic: Восточная Европа,
+    Standard: Восточная Европа, стандартное время,
+    Daylight: Восточная Европа, летнее время
+  },
+  Eire: {
+    Generic: Ирландия,
+    Standard: Среднее время по Гринвичу,
+    Daylight: Ирландия, стандартное время
+  },
+  Asia/Istanbul: {
+    Generic: Турция,
+    Standard: Турция, стандартное время,
+    Daylight: Турция, летнее время
+  },
+  Turkey: {
+    Generic: Турция,
+    Standard: Турция, стандартное время,
+    Daylight: Турция, летнее время
+  },
+  Europe/Kyiv: {
+    Generic: Восточная Европа,
+    Standard: Восточная Европа, стандартное время,
+    Daylight: Восточная Европа, летнее время
+  },
+  Portugal: {
+    Generic: Западная Европа,
+    Standard: Западная Европа, стандартное время,
+    Daylight: Западная Европа, летнее время
+  },
+  Europe/Belfast: {
+    Generic: Великобритания,
+    Standard: Среднее время по Гринвичу,
+    Daylight: Великобритания, летнее время
+  },
+  GB: {
+    Generic: Великобритания,
+    Standard: Среднее время по Гринвичу,
+    Daylight: Великобритания, летнее время
+  },
+  GB-Eire: {
+    Generic: Великобритания,
+    Standard: Среднее время по Гринвичу,
+    Daylight: Великобритания, летнее время
+  },
+  W-SU: {
+    Generic: Москва,
+    Standard: Москва, стандартное время,
+    Daylight: Москва, летнее время
+  },
+  CET: {
+    Generic: Центральная Европа,
+    Standard: Центральная Европа, стандартное время,
+    Daylight: Центральная Европа, летнее время
+  },
+  Poland: {
+    Generic: Центральная Европа,
+    Standard: Центральная Европа, стандартное время,
+    Daylight: Центральная Европа, летнее время
+  },
+  Antarctica/South_Pole: {
+    Generic: Новая Зеландия,
+    Standard: Новая Зеландия, стандартное время,
+    Daylight: Новая Зеландия, летнее время
+  },
+  NZ: {
+    Generic: Новая Зеландия,
+    Standard: Новая Зеландия, стандартное время,
+    Daylight: Новая Зеландия, летнее время
+  },
+  NZ-CHAT: {
+    Generic: Чатем,
+    Standard: Чатем, стандартное время,
+    Daylight: Чатем, летнее время
+  },
+  Chile/EasterIsland: {
+    Generic: О-в Пасхи,
+    Standard: О-в Пасхи, стандартное время,
+    Daylight: О-в Пасхи, летнее время
+  },
+  Pacific/Pohnpei: {
+    Generic: Понпеи,
+    Standard: Понпеи,
+    Daylight: Понпеи
+  },
+  US/Hawaii: {
+    Generic: Гавайско-алеутское время,
+    Standard: Гавайско-алеутское стандартное время,
+    Daylight: Гавайско-алеутское летнее время
+  },
+  Pacific/Kanton: {
+    Generic: о-ва Феникс,
+    Standard: о-ва Феникс,
+    Daylight: о-ва Феникс
+  },
+  Kwajalein: {
+    Generic: Маршалловы Острова,
+    Standard: Маршалловы Острова,
+    Daylight: Маршалловы Острова
+  },
+  Pacific/Samoa: {
+    Generic: Самоа,
+    Standard: Самоа, стандартное время,
+    Daylight: Самоа, летнее время
+  },
+  US/Samoa: {
+    Generic: Самоа,
+    Standard: Самоа, стандартное время,
+    Daylight: Самоа, летнее время
+  },
+  Pacific/Chuuk: {
+    Generic: Трук,
+    Standard: Трук,
+    Daylight: Трук
+  },
+  Pacific/Yap: {
+    Generic: Трук,
+    Standard: Трук,
+    Daylight: Трук
+  },
+  America/Fort_Wayne: {
+    Generic: Восточная Америка,
+    Standard: Восточная Америка, стандартное время,
+    Daylight: Восточная Америка, летнее время
+  },
+  Antarctica/Troll: {
+    Generic: Среднее время по Гринвичу,
+    Standard: Среднее время по Гринвичу,
+    Daylight: Среднее время по Гринвичу
   }
-]
+}

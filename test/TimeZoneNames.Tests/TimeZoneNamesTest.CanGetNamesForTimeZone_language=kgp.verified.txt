@@ -1,4762 +1,2977 @@
-﻿[
-  {
-    Key: Africa/Abidjan,
-    Value: {
-      Generic: Óra Mirinjỹnũ Grinũvisi tá,
-      Standard: Óra Mirinjỹnũ Grinũvisi tá,
-      Daylight: Óra Mirinjỹnũ Grinũvisi tá
-    }
-  },
-  {
-    Key: Africa/Accra,
-    Value: {
-      Generic: Óra Mirinjỹnũ Grinũvisi tá,
-      Standard: Óra Mirinjỹnũ Grinũvisi tá,
-      Daylight: Óra Mirinjỹnũ Grinũvisi tá
-    }
-  },
-  {
-    Key: Africa/Addis_Ababa,
-    Value: {
-      Generic: Afrika Rãjur tá óra,
-      Standard: Afrika Rãjur tá óra,
-      Daylight: Afrika Rãjur tá óra
-    }
-  },
-  {
-    Key: Africa/Algiers,
-    Value: {
-      Generic: Óra Orópa Kuju tá,
-      Standard: Óra Pã Orópa Kuju tá,
-      Daylight: Rỹ Kã óra Orópa Kuju tá
-    }
-  },
-  {
-    Key: Africa/Asmara,
-    Value: {
-      Generic: Afrika Rãjur tá óra,
-      Standard: Afrika Rãjur tá óra,
-      Daylight: Afrika Rãjur tá óra
-    }
-  },
-  {
-    Key: Africa/Asmera,
-    Value: {
-      Generic: Afrika Rãjur tá óra,
-      Standard: Afrika Rãjur tá óra,
-      Daylight: Afrika Rãjur tá óra
-    }
-  },
-  {
-    Key: Africa/Bamako,
-    Value: {
-      Generic: Óra Mirinjỹnũ Grinũvisi tá,
-      Standard: Óra Mirinjỹnũ Grinũvisi tá,
-      Daylight: Óra Mirinjỹnũ Grinũvisi tá
-    }
-  },
-  {
-    Key: Africa/Bangui,
-    Value: {
-      Generic: Afrika Rãpur tá óra,
-      Standard: Óra Pã Afrika Rãpur tá,
-      Daylight: Rỹ Kã óra Afrika Rãpur tá
-    }
-  },
-  {
-    Key: Africa/Banjul,
-    Value: {
-      Generic: Óra Mirinjỹnũ Grinũvisi tá,
-      Standard: Óra Mirinjỹnũ Grinũvisi tá,
-      Daylight: Óra Mirinjỹnũ Grinũvisi tá
-    }
-  },
-  {
-    Key: Africa/Bissau,
-    Value: {
-      Generic: Óra Mirinjỹnũ Grinũvisi tá,
-      Standard: Óra Mirinjỹnũ Grinũvisi tá,
-      Daylight: Óra Mirinjỹnũ Grinũvisi tá
-    }
-  },
-  {
-    Key: Africa/Blantyre,
-    Value: {
-      Generic: Afrika-Kuju tá óra,
-      Standard: Afrika-Kuju tá óra,
-      Daylight: Afrika-Kuju tá óra
-    }
-  },
-  {
-    Key: Africa/Brazzaville,
-    Value: {
-      Generic: Afrika Rãpur tá óra,
-      Standard: Óra Pã Afrika Rãpur tá,
-      Daylight: Rỹ Kã óra Afrika Rãpur tá
-    }
-  },
-  {
-    Key: Africa/Bujumbura,
-    Value: {
-      Generic: Afrika-Kuju tá óra,
-      Standard: Afrika-Kuju tá óra,
-      Daylight: Afrika-Kuju tá óra
-    }
-  },
-  {
-    Key: Africa/Cairo,
-    Value: {
-      Generic: Óra Orópa Rãjur tá,
-      Standard: Óra Pã Orópa Rãjur tá,
-      Daylight: Rỹ Kã óra Orópa Rãjur tá
-    }
-  },
-  {
-    Key: Africa/Casablanca,
-    Value: {
-      Generic: Óra Orópa Rãpur tá,
-      Standard: Óra Pã Orópa Rãpur tá,
-      Daylight: Rỹ Kã óra Orópa Rãpur tá
-    }
-  },
-  {
-    Key: Africa/Ceuta,
-    Value: {
-      Generic: Óra Orópa Kuju tá,
-      Standard: Óra Pã Orópa Kuju tá,
-      Daylight: Rỹ Kã óra Orópa Kuju tá
-    }
-  },
-  {
-    Key: Africa/Conakry,
-    Value: {
-      Generic: Óra Mirinjỹnũ Grinũvisi tá,
-      Standard: Óra Mirinjỹnũ Grinũvisi tá,
-      Daylight: Óra Mirinjỹnũ Grinũvisi tá
-    }
-  },
-  {
-    Key: Africa/Dakar,
-    Value: {
-      Generic: Óra Mirinjỹnũ Grinũvisi tá,
-      Standard: Óra Mirinjỹnũ Grinũvisi tá,
-      Daylight: Óra Mirinjỹnũ Grinũvisi tá
-    }
-  },
-  {
-    Key: Africa/Dar_es_Salaam,
-    Value: {
-      Generic: Afrika Rãjur tá óra,
-      Standard: Afrika Rãjur tá óra,
-      Daylight: Afrika Rãjur tá óra
-    }
-  },
-  {
-    Key: Africa/Djibouti,
-    Value: {
-      Generic: Afrika Rãjur tá óra,
-      Standard: Afrika Rãjur tá óra,
-      Daylight: Afrika Rãjur tá óra
-    }
-  },
-  {
-    Key: Africa/Douala,
-    Value: {
-      Generic: Afrika Rãpur tá óra,
-      Standard: Óra Pã Afrika Rãpur tá,
-      Daylight: Rỹ Kã óra Afrika Rãpur tá
-    }
-  },
-  {
-    Key: Africa/El_Aaiun,
-    Value: {
-      Generic: Óra Orópa Rãpur tá,
-      Standard: Óra Pã Orópa Rãpur tá,
-      Daylight: Rỹ Kã óra Orópa Rãpur tá
-    }
-  },
-  {
-    Key: Africa/Freetown,
-    Value: {
-      Generic: Óra Mirinjỹnũ Grinũvisi tá,
-      Standard: Óra Mirinjỹnũ Grinũvisi tá,
-      Daylight: Óra Mirinjỹnũ Grinũvisi tá
-    }
-  },
-  {
-    Key: Africa/Gaborone,
-    Value: {
-      Generic: Afrika-Kuju tá óra,
-      Standard: Afrika-Kuju tá óra,
-      Daylight: Afrika-Kuju tá óra
-    }
-  },
-  {
-    Key: Africa/Harare,
-    Value: {
-      Generic: Afrika-Kuju tá óra,
-      Standard: Afrika-Kuju tá óra,
-      Daylight: Afrika-Kuju tá óra
-    }
-  },
-  {
-    Key: Africa/Johannesburg,
-    Value: {
-      Generic: Sur-Afrika tá óra,
-      Standard: Sur-Afrika tá óra,
-      Daylight: Sur-Afrika tá óra
-    }
-  },
-  {
-    Key: Africa/Juba,
-    Value: {
-      Generic: Afrika-Kuju tá óra,
-      Standard: Afrika-Kuju tá óra,
-      Daylight: Afrika-Kuju tá óra
-    }
-  },
-  {
-    Key: Africa/Kampala,
-    Value: {
-      Generic: Afrika Rãjur tá óra,
-      Standard: Afrika Rãjur tá óra,
-      Daylight: Afrika Rãjur tá óra
-    }
-  },
-  {
-    Key: Africa/Khartoum,
-    Value: {
-      Generic: Afrika-Kuju tá óra,
-      Standard: Afrika-Kuju tá óra,
-      Daylight: Afrika-Kuju tá óra
-    }
-  },
-  {
-    Key: Africa/Kigali,
-    Value: {
-      Generic: Afrika-Kuju tá óra,
-      Standard: Afrika-Kuju tá óra,
-      Daylight: Afrika-Kuju tá óra
-    }
-  },
-  {
-    Key: Africa/Kinshasa,
-    Value: {
-      Generic: Afrika Rãpur tá óra,
-      Standard: Óra Pã Afrika Rãpur tá,
-      Daylight: Rỹ Kã óra Afrika Rãpur tá
-    }
-  },
-  {
-    Key: Africa/Lagos,
-    Value: {
-      Generic: Afrika Rãpur tá óra,
-      Standard: Óra Pã Afrika Rãpur tá,
-      Daylight: Rỹ Kã óra Afrika Rãpur tá
-    }
-  },
-  {
-    Key: Africa/Libreville,
-    Value: {
-      Generic: Afrika Rãpur tá óra,
-      Standard: Óra Pã Afrika Rãpur tá,
-      Daylight: Rỹ Kã óra Afrika Rãpur tá
-    }
-  },
-  {
-    Key: Africa/Lome,
-    Value: {
-      Generic: Óra Mirinjỹnũ Grinũvisi tá,
-      Standard: Óra Mirinjỹnũ Grinũvisi tá,
-      Daylight: Óra Mirinjỹnũ Grinũvisi tá
-    }
-  },
-  {
-    Key: Africa/Luanda,
-    Value: {
-      Generic: Afrika Rãpur tá óra,
-      Standard: Óra Pã Afrika Rãpur tá,
-      Daylight: Rỹ Kã óra Afrika Rãpur tá
-    }
-  },
-  {
-    Key: Africa/Lubumbashi,
-    Value: {
-      Generic: Afrika-Kuju tá óra,
-      Standard: Afrika-Kuju tá óra,
-      Daylight: Afrika-Kuju tá óra
-    }
-  },
-  {
-    Key: Africa/Lusaka,
-    Value: {
-      Generic: Afrika-Kuju tá óra,
-      Standard: Afrika-Kuju tá óra,
-      Daylight: Afrika-Kuju tá óra
-    }
-  },
-  {
-    Key: Africa/Malabo,
-    Value: {
-      Generic: Afrika Rãpur tá óra,
-      Standard: Óra Pã Afrika Rãpur tá,
-      Daylight: Rỹ Kã óra Afrika Rãpur tá
-    }
-  },
-  {
-    Key: Africa/Maputo,
-    Value: {
-      Generic: Afrika-Kuju tá óra,
-      Standard: Afrika-Kuju tá óra,
-      Daylight: Afrika-Kuju tá óra
-    }
-  },
-  {
-    Key: Africa/Maseru,
-    Value: {
-      Generic: Sur-Afrika tá óra,
-      Standard: Sur-Afrika tá óra,
-      Daylight: Sur-Afrika tá óra
-    }
-  },
-  {
-    Key: Africa/Mbabane,
-    Value: {
-      Generic: Sur-Afrika tá óra,
-      Standard: Sur-Afrika tá óra,
-      Daylight: Sur-Afrika tá óra
-    }
-  },
-  {
-    Key: Africa/Mogadishu,
-    Value: {
-      Generic: Afrika Rãjur tá óra,
-      Standard: Afrika Rãjur tá óra,
-      Daylight: Afrika Rãjur tá óra
-    }
-  },
-  {
-    Key: Africa/Monrovia,
-    Value: {
-      Generic: Óra Mirinjỹnũ Grinũvisi tá,
-      Standard: Óra Mirinjỹnũ Grinũvisi tá,
-      Daylight: Óra Mirinjỹnũ Grinũvisi tá
-    }
-  },
-  {
-    Key: Africa/Nairobi,
-    Value: {
-      Generic: Afrika Rãjur tá óra,
-      Standard: Afrika Rãjur tá óra,
-      Daylight: Afrika Rãjur tá óra
-    }
-  },
-  {
-    Key: Africa/Ndjamena,
-    Value: {
-      Generic: Afrika Rãpur tá óra,
-      Standard: Óra Pã Afrika Rãpur tá,
-      Daylight: Rỹ Kã óra Afrika Rãpur tá
-    }
-  },
-  {
-    Key: Africa/Niamey,
-    Value: {
-      Generic: Afrika Rãpur tá óra,
-      Standard: Óra Pã Afrika Rãpur tá,
-      Daylight: Rỹ Kã óra Afrika Rãpur tá
-    }
-  },
-  {
-    Key: Africa/Nouakchott,
-    Value: {
-      Generic: Óra Mirinjỹnũ Grinũvisi tá,
-      Standard: Óra Mirinjỹnũ Grinũvisi tá,
-      Daylight: Óra Mirinjỹnũ Grinũvisi tá
-    }
-  },
-  {
-    Key: Africa/Ouagadougou,
-    Value: {
-      Generic: Óra Mirinjỹnũ Grinũvisi tá,
-      Standard: Óra Mirinjỹnũ Grinũvisi tá,
-      Daylight: Óra Mirinjỹnũ Grinũvisi tá
-    }
-  },
-  {
-    Key: Africa/Porto-Novo,
-    Value: {
-      Generic: Afrika Rãpur tá óra,
-      Standard: Óra Pã Afrika Rãpur tá,
-      Daylight: Rỹ Kã óra Afrika Rãpur tá
-    }
-  },
-  {
-    Key: Africa/Sao_Tome,
-    Value: {
-      Generic: Óra Mirinjỹnũ Grinũvisi tá,
-      Standard: Óra Mirinjỹnũ Grinũvisi tá,
-      Daylight: Óra Mirinjỹnũ Grinũvisi tá
-    }
-  },
-  {
-    Key: Africa/Timbuktu,
-    Value: {
-      Generic: Óra Mirinjỹnũ Grinũvisi tá,
-      Standard: Óra Mirinjỹnũ Grinũvisi tá,
-      Daylight: Óra Mirinjỹnũ Grinũvisi tá
-    }
-  },
-  {
-    Key: Africa/Tripoli,
-    Value: {
-      Generic: Óra Orópa Rãjur tá,
-      Standard: Óra Pã Orópa Rãjur tá,
-      Daylight: Rỹ Kã óra Orópa Rãjur tá
-    }
-  },
-  {
-    Key: Africa/Tunis,
-    Value: {
-      Generic: Óra Orópa Kuju tá,
-      Standard: Óra Pã Orópa Kuju tá,
-      Daylight: Rỹ Kã óra Orópa Kuju tá
-    }
-  },
-  {
-    Key: Africa/Windhoek,
-    Value: {
-      Generic: Afrika-Kuju tá óra,
-      Standard: Afrika-Kuju tá óra,
-      Daylight: Afrika-Kuju tá óra
-    }
-  },
-  {
-    Key: America/Adak,
-    Value: {
-      Generic: Óra Hava’i kar Arevta Goj-vẽso tá,
-      Standard: Óra Pã Hava’i kar Arevta Goj-vẽso tá,
-      Daylight: Rỹ kã óra Hava’i kar Arevta Goj-vẽso tá
-    }
-  },
-  {
-    Key: America/Anchorage,
-    Value: {
-      Generic: Aranhka tá óra,
-      Standard: Óra Pã Aranhka tá,
-      Daylight: Rỹ Kã óra Aranhka tá
-    }
-  },
-  {
-    Key: America/Anguilla,
-    Value: {
-      Generic: Óra Atrỹtiku tá,
-      Standard: Óra Pã Atrỹtiku tá,
-      Daylight: Rỹ Kã óra Atrỹtiku tá
-    }
-  },
-  {
-    Key: America/Antigua,
-    Value: {
-      Generic: Óra Atrỹtiku tá,
-      Standard: Óra Pã Atrỹtiku tá,
-      Daylight: Rỹ Kã óra Atrỹtiku tá
-    }
-  },
-  {
-    Key: America/Araguaina,
-    Value: {
-      Generic: Óra Mrasirja tá,
-      Standard: Óra Pã Mrasirja tá,
-      Daylight: Rỹ Kã óra Mrasirja tá
-    }
-  },
-  {
-    Key: America/Argentina/Buenos_Aires,
-    Value: {
-      Generic: Óra Arjẽtĩnỹ tá,
-      Standard: Óra Opã Arjẽtĩnỹ tá,
-      Daylight: Rỹ Kã óra Arjẽtĩnỹ tá
-    }
-  },
-  {
-    Key: America/Argentina/Catamarca,
-    Value: {
-      Generic: Óra Arjẽtĩnỹ tá,
-      Standard: Óra Opã Arjẽtĩnỹ tá,
-      Daylight: Rỹ Kã óra Arjẽtĩnỹ tá
-    }
-  },
-  {
-    Key: America/Argentina/ComodRivadavia,
-    Value: {
-      Generic: Óra Arjẽtĩnỹ tá,
-      Standard: Óra Opã Arjẽtĩnỹ tá,
-      Daylight: Rỹ Kã óra Arjẽtĩnỹ tá
-    }
-  },
-  {
-    Key: America/Argentina/Cordoba,
-    Value: {
-      Generic: Óra Arjẽtĩnỹ tá,
-      Standard: Óra Opã Arjẽtĩnỹ tá,
-      Daylight: Rỹ Kã óra Arjẽtĩnỹ tá
-    }
-  },
-  {
-    Key: America/Argentina/Jujuy,
-    Value: {
-      Generic: Óra Arjẽtĩnỹ tá,
-      Standard: Óra Opã Arjẽtĩnỹ tá,
-      Daylight: Rỹ Kã óra Arjẽtĩnỹ tá
-    }
-  },
-  {
-    Key: America/Argentina/La_Rioja,
-    Value: {
-      Generic: Óra Arjẽtĩnỹ tá,
-      Standard: Óra Opã Arjẽtĩnỹ tá,
-      Daylight: Rỹ Kã óra Arjẽtĩnỹ tá
-    }
-  },
-  {
-    Key: America/Argentina/Mendoza,
-    Value: {
-      Generic: Óra Arjẽtĩnỹ tá,
-      Standard: Óra Opã Arjẽtĩnỹ tá,
-      Daylight: Rỹ Kã óra Arjẽtĩnỹ tá
-    }
-  },
-  {
-    Key: America/Argentina/Rio_Gallegos,
-    Value: {
-      Generic: Óra Arjẽtĩnỹ tá,
-      Standard: Óra Opã Arjẽtĩnỹ tá,
-      Daylight: Rỹ Kã óra Arjẽtĩnỹ tá
-    }
-  },
-  {
-    Key: America/Argentina/Salta,
-    Value: {
-      Generic: Óra Arjẽtĩnỹ tá,
-      Standard: Óra Opã Arjẽtĩnỹ tá,
-      Daylight: Rỹ Kã óra Arjẽtĩnỹ tá
-    }
-  },
-  {
-    Key: America/Argentina/San_Juan,
-    Value: {
-      Generic: Óra Arjẽtĩnỹ tá,
-      Standard: Óra Opã Arjẽtĩnỹ tá,
-      Daylight: Rỹ Kã óra Arjẽtĩnỹ tá
-    }
-  },
-  {
-    Key: America/Argentina/San_Luis,
-    Value: {
-      Generic: Óra Arjẽtĩnỹ tá,
-      Standard: Óra Opã Arjẽtĩnỹ tá,
-      Daylight: Rỹ Kã óra Arjẽtĩnỹ tá
-    }
-  },
-  {
-    Key: America/Argentina/Tucuman,
-    Value: {
-      Generic: Óra Arjẽtĩnỹ tá,
-      Standard: Óra Opã Arjẽtĩnỹ tá,
-      Daylight: Rỹ Kã óra Arjẽtĩnỹ tá
-    }
-  },
-  {
-    Key: America/Argentina/Ushuaia,
-    Value: {
-      Generic: Óra Arjẽtĩnỹ tá,
-      Standard: Óra Opã Arjẽtĩnỹ tá,
-      Daylight: Rỹ Kã óra Arjẽtĩnỹ tá
-    }
-  },
-  {
-    Key: America/Aruba,
-    Value: {
-      Generic: Óra Atrỹtiku tá,
-      Standard: Óra Pã Atrỹtiku tá,
-      Daylight: Rỹ Kã óra Atrỹtiku tá
-    }
-  },
-  {
-    Key: America/Asuncion,
-    Value: {
-      Generic: Óra Paraguvaj tá,
-      Standard: Óra Pã Paraguvaj tá,
-      Daylight: Rỹ Kã óra Paraguvaj tá
-    }
-  },
-  {
-    Key: America/Atikokan,
-    Value: {
-      Generic: Óra Rãjur tá,
-      Standard: Óra Pã Rãjur tá,
-      Daylight: Rỹ Kã óra Rãjur tá
-    }
-  },
-  {
-    Key: America/Atka,
-    Value: {
-      Generic: Óra Hava’i kar Arevta Goj-vẽso tá,
-      Standard: Óra Pã Hava’i kar Arevta Goj-vẽso tá,
-      Daylight: Rỹ kã óra Hava’i kar Arevta Goj-vẽso tá
-    }
-  },
-  {
-    Key: America/Bahia,
-    Value: {
-      Generic: Óra Mrasirja tá,
-      Standard: Óra Pã Mrasirja tá,
-      Daylight: Rỹ Kã óra Mrasirja tá
-    }
-  },
-  {
-    Key: America/Bahia_Banderas,
-    Value: {
-      Generic: Kuju tá óra,
-      Standard: Óra Pã Kuju tá,
-      Daylight: Rỹ Kã óra Kuju tá
-    }
-  },
-  {
-    Key: America/Barbados,
-    Value: {
-      Generic: Óra Atrỹtiku tá,
-      Standard: Óra Pã Atrỹtiku tá,
-      Daylight: Rỹ Kã óra Atrỹtiku tá
-    }
-  },
-  {
-    Key: America/Belem,
-    Value: {
-      Generic: Óra Mrasirja tá,
-      Standard: Óra Pã Mrasirja tá,
-      Daylight: Rỹ Kã óra Mrasirja tá
-    }
-  },
-  {
-    Key: America/Belize,
-    Value: {
-      Generic: Kuju tá óra,
-      Standard: Óra Pã Kuju tá,
-      Daylight: Rỹ Kã óra Kuju tá
-    }
-  },
-  {
-    Key: America/Blanc-Sablon,
-    Value: {
-      Generic: Óra Atrỹtiku tá,
-      Standard: Óra Pã Atrỹtiku tá,
-      Daylight: Rỹ Kã óra Atrỹtiku tá
-    }
-  },
-  {
-    Key: America/Boa_Vista,
-    Value: {
-      Generic: Amỹjonỹ tá óra,
-      Standard: Óra Pã Amỹjonỹ tá,
-      Daylight: Rỹ Kã óra Amỹjonỹ tá
-    }
-  },
-  {
-    Key: America/Bogota,
-    Value: {
-      Generic: Óra Korãmija tá,
-      Standard: Óra Pã Korãmija tá,
-      Daylight: Rỹ Kã óra Korãmija tá
-    }
-  },
-  {
-    Key: America/Boise,
-    Value: {
-      Generic: Óra Krĩ tá,
-      Standard: Óra Pã Krĩ tá,
-      Daylight: Rỹ Kã óra Krĩ tá
-    }
-  },
-  {
-    Key: America/Buenos_Aires,
-    Value: {
-      Generic: Óra Arjẽtĩnỹ tá,
-      Standard: Óra Opã Arjẽtĩnỹ tá,
-      Daylight: Rỹ Kã óra Arjẽtĩnỹ tá
-    }
-  },
-  {
-    Key: America/Cambridge_Bay,
-    Value: {
-      Generic: Óra Krĩ tá,
-      Standard: Óra Pã Krĩ tá,
-      Daylight: Rỹ Kã óra Krĩ tá
-    }
-  },
-  {
-    Key: America/Campo_Grande,
-    Value: {
-      Generic: Amỹjonỹ tá óra,
-      Standard: Óra Pã Amỹjonỹ tá,
-      Daylight: Rỹ Kã óra Amỹjonỹ tá
-    }
-  },
-  {
-    Key: America/Cancun,
-    Value: {
-      Generic: Óra Rãjur tá,
-      Standard: Óra Pã Rãjur tá,
-      Daylight: Rỹ Kã óra Rãjur tá
-    }
-  },
-  {
-    Key: America/Caracas,
-    Value: {
-      Generic: Óra Venẽjuvéra tá,
-      Standard: Óra Venẽjuvéra tá,
-      Daylight: Óra Venẽjuvéra tá
-    }
-  },
-  {
-    Key: America/Catamarca,
-    Value: {
-      Generic: Óra Arjẽtĩnỹ tá,
-      Standard: Óra Opã Arjẽtĩnỹ tá,
-      Daylight: Rỹ Kã óra Arjẽtĩnỹ tá
-    }
-  },
-  {
-    Key: America/Cayenne,
-    Value: {
-      Generic: Óra Frỹsa Gijanỹ tá,
-      Standard: Óra Frỹsa Gijanỹ tá,
-      Daylight: Óra Frỹsa Gijanỹ tá
-    }
-  },
-  {
-    Key: America/Cayman,
-    Value: {
-      Generic: Óra Rãjur tá,
-      Standard: Óra Pã Rãjur tá,
-      Daylight: Rỹ Kã óra Rãjur tá
-    }
-  },
-  {
-    Key: America/Chicago,
-    Value: {
-      Generic: Kuju tá óra,
-      Standard: Óra Pã Kuju tá,
-      Daylight: Rỹ Kã óra Kuju tá
-    }
-  },
-  {
-    Key: America/Chihuahua,
-    Value: {
-      Generic: Óra Mẽsiku Pasifiku tá,
-      Standard: Óra Pã Mẽsiku Pasifiku tá,
-      Daylight: Rỹ Kã óra Mẽsiku Pasifiku tá
-    }
-  },
-  {
-    Key: America/Coral_Harbour,
-    Value: {
-      Generic: Óra Rãjur tá,
-      Standard: Óra Pã Rãjur tá,
-      Daylight: Rỹ Kã óra Rãjur tá
-    }
-  },
-  {
-    Key: America/Cordoba,
-    Value: {
-      Generic: Óra Arjẽtĩnỹ tá,
-      Standard: Óra Opã Arjẽtĩnỹ tá,
-      Daylight: Rỹ Kã óra Arjẽtĩnỹ tá
-    }
-  },
-  {
-    Key: America/Costa_Rica,
-    Value: {
-      Generic: Kuju tá óra,
-      Standard: Óra Pã Kuju tá,
-      Daylight: Rỹ Kã óra Kuju tá
-    }
-  },
-  {
-    Key: America/Creston,
-    Value: {
-      Generic: Óra Krĩ tá,
-      Standard: Óra Pã Krĩ tá,
-      Daylight: Rỹ Kã óra Krĩ tá
-    }
-  },
-  {
-    Key: America/Cuiaba,
-    Value: {
-      Generic: Amỹjonỹ tá óra,
-      Standard: Óra Pã Amỹjonỹ tá,
-      Daylight: Rỹ Kã óra Amỹjonỹ tá
-    }
-  },
-  {
-    Key: America/Curacao,
-    Value: {
-      Generic: Óra Atrỹtiku tá,
-      Standard: Óra Pã Atrỹtiku tá,
-      Daylight: Rỹ Kã óra Atrỹtiku tá
-    }
-  },
-  {
-    Key: America/Danmarkshavn,
-    Value: {
-      Generic: Óra Mirinjỹnũ Grinũvisi tá,
-      Standard: Óra Mirinjỹnũ Grinũvisi tá,
-      Daylight: Óra Mirinjỹnũ Grinũvisi tá
-    }
-  },
-  {
-    Key: America/Dawson,
-    Value: {
-      Generic: Óra kar Kanỹna,
-      Standard: Óra pẽ Kanỹna,
-      Daylight: Prỹg kã óra kar Kanỹna
-    }
-  },
-  {
-    Key: America/Dawson_Creek,
-    Value: {
-      Generic: Óra Krĩ tá,
-      Standard: Óra Pã Krĩ tá,
-      Daylight: Rỹ Kã óra Krĩ tá
-    }
-  },
-  {
-    Key: America/Denver,
-    Value: {
-      Generic: Óra Krĩ tá,
-      Standard: Óra Pã Krĩ tá,
-      Daylight: Rỹ Kã óra Krĩ tá
-    }
-  },
-  {
-    Key: America/Detroit,
-    Value: {
-      Generic: Óra Rãjur tá,
-      Standard: Óra Pã Rãjur tá,
-      Daylight: Rỹ Kã óra Rãjur tá
-    }
-  },
-  {
-    Key: America/Dominica,
-    Value: {
-      Generic: Óra Atrỹtiku tá,
-      Standard: Óra Pã Atrỹtiku tá,
-      Daylight: Rỹ Kã óra Atrỹtiku tá
-    }
-  },
-  {
-    Key: America/Edmonton,
-    Value: {
-      Generic: Óra Krĩ tá,
-      Standard: Óra Pã Krĩ tá,
-      Daylight: Rỹ Kã óra Krĩ tá
-    }
-  },
-  {
-    Key: America/Eirunepe,
-    Value: {
-      Generic: Akre tá óra,
-      Standard: Óra Pã Akre tá,
-      Daylight: Rỹ Kã óra Akre tá
-    }
-  },
-  {
-    Key: America/El_Salvador,
-    Value: {
-      Generic: Kuju tá óra,
-      Standard: Óra Pã Kuju tá,
-      Daylight: Rỹ Kã óra Kuju tá
-    }
-  },
-  {
-    Key: America/Ensenada,
-    Value: {
-      Generic: Óra Rãpur tá,
-      Standard: Óra Pã Rãpur tá,
-      Daylight: Rỹ Kã óra Rãpur tá
-    }
-  },
-  {
-    Key: America/Fort_Nelson,
-    Value: {
-      Generic: Óra Krĩ tá,
-      Standard: Óra Pã Krĩ tá,
-      Daylight: Rỹ Kã óra Krĩ tá
-    }
-  },
-  {
-    Key: America/Fort_Wayne,
-    Value: {
-      Generic: Óra Rãjur tá,
-      Standard: Óra Pã Rãjur tá,
-      Daylight: Rỹ Kã óra Rãjur tá
-    }
-  },
-  {
-    Key: America/Fortaleza,
-    Value: {
-      Generic: Óra Mrasirja tá,
-      Standard: Óra Pã Mrasirja tá,
-      Daylight: Rỹ Kã óra Mrasirja tá
-    }
-  },
-  {
-    Key: America/Glace_Bay,
-    Value: {
-      Generic: Óra Atrỹtiku tá,
-      Standard: Óra Pã Atrỹtiku tá,
-      Daylight: Rỹ Kã óra Atrỹtiku tá
-    }
-  },
-  {
-    Key: America/Godthab,
-    Value: {
-      Generic: Óra Groẽrỹnija Rãpur tá,
-      Standard: Óra Pã Groẽrỹnija Rãpur tá,
-      Daylight: Rỹ Kã óra Groẽrỹnija Rãpur tá
-    }
-  },
-  {
-    Key: America/Goose_Bay,
-    Value: {
-      Generic: Óra Atrỹtiku tá,
-      Standard: Óra Pã Atrỹtiku tá,
-      Daylight: Rỹ Kã óra Atrỹtiku tá
-    }
-  },
-  {
-    Key: America/Grand_Turk,
-    Value: {
-      Generic: Óra Rãjur tá,
-      Standard: Óra Pã Rãjur tá,
-      Daylight: Rỹ Kã óra Rãjur tá
-    }
-  },
-  {
-    Key: America/Grenada,
-    Value: {
-      Generic: Óra Atrỹtiku tá,
-      Standard: Óra Pã Atrỹtiku tá,
-      Daylight: Rỹ Kã óra Atrỹtiku tá
-    }
-  },
-  {
-    Key: America/Guadeloupe,
-    Value: {
-      Generic: Óra Atrỹtiku tá,
-      Standard: Óra Pã Atrỹtiku tá,
-      Daylight: Rỹ Kã óra Atrỹtiku tá
-    }
-  },
-  {
-    Key: America/Guatemala,
-    Value: {
-      Generic: Kuju tá óra,
-      Standard: Óra Pã Kuju tá,
-      Daylight: Rỹ Kã óra Kuju tá
-    }
-  },
-  {
-    Key: America/Guayaquil,
-    Value: {
-      Generic: Óra Ekuvanor tá,
-      Standard: Óra Ekuvanor tá,
-      Daylight: Óra Ekuvanor tá
-    }
-  },
-  {
-    Key: America/Guyana,
-    Value: {
-      Generic: Óra Gijỹnỹ tá,
-      Standard: Óra Gijỹnỹ tá,
-      Daylight: Óra Gijỹnỹ tá
-    }
-  },
-  {
-    Key: America/Halifax,
-    Value: {
-      Generic: Óra Atrỹtiku tá,
-      Standard: Óra Pã Atrỹtiku tá,
-      Daylight: Rỹ Kã óra Atrỹtiku tá
-    }
-  },
-  {
-    Key: America/Havana,
-    Value: {
-      Generic: Óra Kuma tá,
-      Standard: Óra Pã Kuma tá,
-      Daylight: Rỹ Kã óra Kuma tá
-    }
-  },
-  {
-    Key: America/Hermosillo,
-    Value: {
-      Generic: Óra Mẽsiku Pasifiku tá,
-      Standard: Óra Pã Mẽsiku Pasifiku tá,
-      Daylight: Rỹ Kã óra Mẽsiku Pasifiku tá
-    }
-  },
-  {
-    Key: America/Indiana/Indianapolis,
-    Value: {
-      Generic: Óra Rãjur tá,
-      Standard: Óra Pã Rãjur tá,
-      Daylight: Rỹ Kã óra Rãjur tá
-    }
-  },
-  {
-    Key: America/Indiana/Knox,
-    Value: {
-      Generic: Kuju tá óra,
-      Standard: Óra Pã Kuju tá,
-      Daylight: Rỹ Kã óra Kuju tá
-    }
-  },
-  {
-    Key: America/Indiana/Marengo,
-    Value: {
-      Generic: Óra Rãjur tá,
-      Standard: Óra Pã Rãjur tá,
-      Daylight: Rỹ Kã óra Rãjur tá
-    }
-  },
-  {
-    Key: America/Indiana/Petersburg,
-    Value: {
-      Generic: Óra Rãjur tá,
-      Standard: Óra Pã Rãjur tá,
-      Daylight: Rỹ Kã óra Rãjur tá
-    }
-  },
-  {
-    Key: America/Indiana/Tell_City,
-    Value: {
-      Generic: Kuju tá óra,
-      Standard: Óra Pã Kuju tá,
-      Daylight: Rỹ Kã óra Kuju tá
-    }
-  },
-  {
-    Key: America/Indiana/Vevay,
-    Value: {
-      Generic: Óra Rãjur tá,
-      Standard: Óra Pã Rãjur tá,
-      Daylight: Rỹ Kã óra Rãjur tá
-    }
-  },
-  {
-    Key: America/Indiana/Vincennes,
-    Value: {
-      Generic: Óra Rãjur tá,
-      Standard: Óra Pã Rãjur tá,
-      Daylight: Rỹ Kã óra Rãjur tá
-    }
-  },
-  {
-    Key: America/Indiana/Winamac,
-    Value: {
-      Generic: Óra Rãjur tá,
-      Standard: Óra Pã Rãjur tá,
-      Daylight: Rỹ Kã óra Rãjur tá
-    }
-  },
-  {
-    Key: America/Indianapolis,
-    Value: {
-      Generic: Óra Rãjur tá,
-      Standard: Óra Pã Rãjur tá,
-      Daylight: Rỹ Kã óra Rãjur tá
-    }
-  },
-  {
-    Key: America/Inuvik,
-    Value: {
-      Generic: Óra Krĩ tá,
-      Standard: Óra Pã Krĩ tá,
-      Daylight: Rỹ Kã óra Krĩ tá
-    }
-  },
-  {
-    Key: America/Iqaluit,
-    Value: {
-      Generic: Óra Rãjur tá,
-      Standard: Óra Pã Rãjur tá,
-      Daylight: Rỹ Kã óra Rãjur tá
-    }
-  },
-  {
-    Key: America/Jamaica,
-    Value: {
-      Generic: Óra Rãjur tá,
-      Standard: Óra Pã Rãjur tá,
-      Daylight: Rỹ Kã óra Rãjur tá
-    }
-  },
-  {
-    Key: America/Jujuy,
-    Value: {
-      Generic: Óra Arjẽtĩnỹ tá,
-      Standard: Óra Opã Arjẽtĩnỹ tá,
-      Daylight: Rỹ Kã óra Arjẽtĩnỹ tá
-    }
-  },
-  {
-    Key: America/Juneau,
-    Value: {
-      Generic: Aranhka tá óra,
-      Standard: Óra Pã Aranhka tá,
-      Daylight: Rỹ Kã óra Aranhka tá
-    }
-  },
-  {
-    Key: America/Kentucky/Louisville,
-    Value: {
-      Generic: Óra Rãjur tá,
-      Standard: Óra Pã Rãjur tá,
-      Daylight: Rỹ Kã óra Rãjur tá
-    }
-  },
-  {
-    Key: America/Kentucky/Monticello,
-    Value: {
-      Generic: Óra Rãjur tá,
-      Standard: Óra Pã Rãjur tá,
-      Daylight: Rỹ Kã óra Rãjur tá
-    }
-  },
-  {
-    Key: America/Knox_IN,
-    Value: {
-      Generic: Kuju tá óra,
-      Standard: Óra Pã Kuju tá,
-      Daylight: Rỹ Kã óra Kuju tá
-    }
-  },
-  {
-    Key: America/Kralendijk,
-    Value: {
-      Generic: Óra Atrỹtiku tá,
-      Standard: Óra Pã Atrỹtiku tá,
-      Daylight: Rỹ Kã óra Atrỹtiku tá
-    }
-  },
-  {
-    Key: America/La_Paz,
-    Value: {
-      Generic: Óra Morivia tá,
-      Standard: Óra Morivia tá,
-      Daylight: Óra Morivia tá
-    }
-  },
-  {
-    Key: America/Lima,
-    Value: {
-      Generic: Óra Piru tá,
-      Standard: Óra Pã Piru tá,
-      Daylight: Rỹ Kã óra Piru tá
-    }
-  },
-  {
-    Key: America/Los_Angeles,
-    Value: {
-      Generic: Óra Rãpur tá,
-      Standard: Óra Pã Rãpur tá,
-      Daylight: Rỹ Kã óra Rãpur tá
-    }
-  },
-  {
-    Key: America/Louisville,
-    Value: {
-      Generic: Óra Rãjur tá,
-      Standard: Óra Pã Rãjur tá,
-      Daylight: Rỹ Kã óra Rãjur tá
-    }
-  },
-  {
-    Key: America/Lower_Princes,
-    Value: {
-      Generic: Óra Atrỹtiku tá,
-      Standard: Óra Pã Atrỹtiku tá,
-      Daylight: Rỹ Kã óra Atrỹtiku tá
-    }
-  },
-  {
-    Key: America/Maceio,
-    Value: {
-      Generic: Óra Mrasirja tá,
-      Standard: Óra Pã Mrasirja tá,
-      Daylight: Rỹ Kã óra Mrasirja tá
-    }
-  },
-  {
-    Key: America/Managua,
-    Value: {
-      Generic: Kuju tá óra,
-      Standard: Óra Pã Kuju tá,
-      Daylight: Rỹ Kã óra Kuju tá
-    }
-  },
-  {
-    Key: America/Manaus,
-    Value: {
-      Generic: Amỹjonỹ tá óra,
-      Standard: Óra Pã Amỹjonỹ tá,
-      Daylight: Rỹ Kã óra Amỹjonỹ tá
-    }
-  },
-  {
-    Key: America/Marigot,
-    Value: {
-      Generic: Óra Atrỹtiku tá,
-      Standard: Óra Pã Atrỹtiku tá,
-      Daylight: Rỹ Kã óra Atrỹtiku tá
-    }
-  },
-  {
-    Key: America/Martinique,
-    Value: {
-      Generic: Óra Atrỹtiku tá,
-      Standard: Óra Pã Atrỹtiku tá,
-      Daylight: Rỹ Kã óra Atrỹtiku tá
-    }
-  },
-  {
-    Key: America/Matamoros,
-    Value: {
-      Generic: Kuju tá óra,
-      Standard: Óra Pã Kuju tá,
-      Daylight: Rỹ Kã óra Kuju tá
-    }
-  },
-  {
-    Key: America/Mazatlan,
-    Value: {
-      Generic: Óra Mẽsiku Pasifiku tá,
-      Standard: Óra Pã Mẽsiku Pasifiku tá,
-      Daylight: Rỹ Kã óra Mẽsiku Pasifiku tá
-    }
-  },
-  {
-    Key: America/Mendoza,
-    Value: {
-      Generic: Óra Arjẽtĩnỹ tá,
-      Standard: Óra Opã Arjẽtĩnỹ tá,
-      Daylight: Rỹ Kã óra Arjẽtĩnỹ tá
-    }
-  },
-  {
-    Key: America/Menominee,
-    Value: {
-      Generic: Kuju tá óra,
-      Standard: Óra Pã Kuju tá,
-      Daylight: Rỹ Kã óra Kuju tá
-    }
-  },
-  {
-    Key: America/Merida,
-    Value: {
-      Generic: Kuju tá óra,
-      Standard: Óra Pã Kuju tá,
-      Daylight: Rỹ Kã óra Kuju tá
-    }
-  },
-  {
-    Key: America/Metlakatla,
-    Value: {
-      Generic: Aranhka tá óra,
-      Standard: Óra Pã Aranhka tá,
-      Daylight: Rỹ Kã óra Aranhka tá
-    }
-  },
-  {
-    Key: America/Mexico_City,
-    Value: {
-      Generic: Kuju tá óra,
-      Standard: Óra Pã Kuju tá,
-      Daylight: Rỹ Kã óra Kuju tá
-    }
-  },
-  {
-    Key: America/Miquelon,
-    Value: {
-      Generic: Óra Sỹ Penru kar Mĩkerỹv tá,
-      Standard: Óra Pã Sỹ Pedro kar Mĩkerỹv tá,
-      Daylight: Rỹ Kã óra Sỹ Pedro kar Mĩkerỹv tá
-    }
-  },
-  {
-    Key: America/Moncton,
-    Value: {
-      Generic: Óra Atrỹtiku tá,
-      Standard: Óra Pã Atrỹtiku tá,
-      Daylight: Rỹ Kã óra Atrỹtiku tá
-    }
-  },
-  {
-    Key: America/Monterrey,
-    Value: {
-      Generic: Kuju tá óra,
-      Standard: Óra Pã Kuju tá,
-      Daylight: Rỹ Kã óra Kuju tá
-    }
-  },
-  {
-    Key: America/Montevideo,
-    Value: {
-      Generic: Óra Uruguvaj tá,
-      Standard: Óra Pã Uruguvaj tá,
-      Daylight: Rỹ Kã óra Uruguvaj tá
-    }
-  },
-  {
-    Key: America/Montreal,
-    Value: {
-      Generic: Óra Rãjur tá,
-      Standard: Óra Pã Rãjur tá,
-      Daylight: Rỹ Kã óra Rãjur tá
-    }
-  },
-  {
-    Key: America/Montserrat,
-    Value: {
-      Generic: Óra Atrỹtiku tá,
-      Standard: Óra Pã Atrỹtiku tá,
-      Daylight: Rỹ Kã óra Atrỹtiku tá
-    }
-  },
-  {
-    Key: America/Nassau,
-    Value: {
-      Generic: Óra Rãjur tá,
-      Standard: Óra Pã Rãjur tá,
-      Daylight: Rỹ Kã óra Rãjur tá
-    }
-  },
-  {
-    Key: America/New_York,
-    Value: {
-      Generic: Óra Rãjur tá,
-      Standard: Óra Pã Rãjur tá,
-      Daylight: Rỹ Kã óra Rãjur tá
-    }
-  },
-  {
-    Key: America/Nipigon,
-    Value: {
-      Generic: Óra Rãjur tá,
-      Standard: Óra Pã Rãjur tá,
-      Daylight: Rỹ Kã óra Rãjur tá
-    }
-  },
-  {
-    Key: America/Nome,
-    Value: {
-      Generic: Aranhka tá óra,
-      Standard: Óra Pã Aranhka tá,
-      Daylight: Rỹ Kã óra Aranhka tá
-    }
-  },
-  {
-    Key: America/Noronha,
-    Value: {
-      Generic: Óra Fernỹnu Nãrãja-tá tá,
-      Standard: Óra Pã Fernỹnu Nãrãja-tá tá,
-      Daylight: Rỹ Kã óra Fernỹnu Nãrãja-tá tá
-    }
-  },
-  {
-    Key: America/North_Dakota/Beulah,
-    Value: {
-      Generic: Kuju tá óra,
-      Standard: Óra Pã Kuju tá,
-      Daylight: Rỹ Kã óra Kuju tá
-    }
-  },
-  {
-    Key: America/North_Dakota/Center,
-    Value: {
-      Generic: Kuju tá óra,
-      Standard: Óra Pã Kuju tá,
-      Daylight: Rỹ Kã óra Kuju tá
-    }
-  },
-  {
-    Key: America/North_Dakota/New_Salem,
-    Value: {
-      Generic: Kuju tá óra,
-      Standard: Óra Pã Kuju tá,
-      Daylight: Rỹ Kã óra Kuju tá
-    }
-  },
-  {
-    Key: America/Nuuk,
-    Value: {
-      Generic: Óra Groẽrỹnija Rãpur tá,
-      Standard: Óra Pã Groẽrỹnija Rãpur tá,
-      Daylight: Rỹ Kã óra Groẽrỹnija Rãpur tá
-    }
-  },
-  {
-    Key: America/Ojinaga,
-    Value: {
-      Generic: Óra Krĩ tá,
-      Standard: Óra Pã Krĩ tá,
-      Daylight: Rỹ Kã óra Krĩ tá
-    }
-  },
-  {
-    Key: America/Panama,
-    Value: {
-      Generic: Óra Rãjur tá,
-      Standard: Óra Pã Rãjur tá,
-      Daylight: Rỹ Kã óra Rãjur tá
-    }
-  },
-  {
-    Key: America/Pangnirtung,
-    Value: {
-      Generic: Óra Rãjur tá,
-      Standard: Óra Pã Rãjur tá,
-      Daylight: Rỹ Kã óra Rãjur tá
-    }
-  },
-  {
-    Key: America/Paramaribo,
-    Value: {
-      Generic: Óra Surinỹmĩ tá,
-      Standard: Óra Surinỹmĩ tá,
-      Daylight: Óra Surinỹmĩ tá
-    }
-  },
-  {
-    Key: America/Phoenix,
-    Value: {
-      Generic: Óra Krĩ tá,
-      Standard: Óra Pã Krĩ tá,
-      Daylight: Rỹ Kã óra Krĩ tá
-    }
-  },
-  {
-    Key: America/Port_of_Spain,
-    Value: {
-      Generic: Óra Atrỹtiku tá,
-      Standard: Óra Pã Atrỹtiku tá,
-      Daylight: Rỹ Kã óra Atrỹtiku tá
-    }
-  },
-  {
-    Key: America/Port-au-Prince,
-    Value: {
-      Generic: Óra Rãjur tá,
-      Standard: Óra Pã Rãjur tá,
-      Daylight: Rỹ Kã óra Rãjur tá
-    }
-  },
-  {
-    Key: America/Porto_Acre,
-    Value: {
-      Generic: Akre tá óra,
-      Standard: Óra Pã Akre tá,
-      Daylight: Rỹ Kã óra Akre tá
-    }
-  },
-  {
-    Key: America/Porto_Velho,
-    Value: {
-      Generic: Amỹjonỹ tá óra,
-      Standard: Óra Pã Amỹjonỹ tá,
-      Daylight: Rỹ Kã óra Amỹjonỹ tá
-    }
-  },
-  {
-    Key: America/Puerto_Rico,
-    Value: {
-      Generic: Óra Atrỹtiku tá,
-      Standard: Óra Pã Atrỹtiku tá,
-      Daylight: Rỹ Kã óra Atrỹtiku tá
-    }
-  },
-  {
-    Key: America/Punta_Arenas,
-    Value: {
-      Generic: Óra Sire tá,
-      Standard: Óra Pã Sire tá,
-      Daylight: Rỹ Kã óra Sire tá
-    }
-  },
-  {
-    Key: America/Rainy_River,
-    Value: {
-      Generic: Kuju tá óra,
-      Standard: Óra Pã Kuju tá,
-      Daylight: Rỹ Kã óra Kuju tá
-    }
-  },
-  {
-    Key: America/Rankin_Inlet,
-    Value: {
-      Generic: Kuju tá óra,
-      Standard: Óra Pã Kuju tá,
-      Daylight: Rỹ Kã óra Kuju tá
-    }
-  },
-  {
-    Key: America/Recife,
-    Value: {
-      Generic: Óra Mrasirja tá,
-      Standard: Óra Pã Mrasirja tá,
-      Daylight: Rỹ Kã óra Mrasirja tá
-    }
-  },
-  {
-    Key: America/Regina,
-    Value: {
-      Generic: Kuju tá óra,
-      Standard: Óra Pã Kuju tá,
-      Daylight: Rỹ Kã óra Kuju tá
-    }
-  },
-  {
-    Key: America/Resolute,
-    Value: {
-      Generic: Kuju tá óra,
-      Standard: Óra Pã Kuju tá,
-      Daylight: Rỹ Kã óra Kuju tá
-    }
-  },
-  {
-    Key: America/Rio_Branco,
-    Value: {
-      Generic: Akre tá óra,
-      Standard: Óra Pã Akre tá,
-      Daylight: Rỹ Kã óra Akre tá
-    }
-  },
-  {
-    Key: America/Rosario,
-    Value: {
-      Generic: Óra Arjẽtĩnỹ tá,
-      Standard: Óra Opã Arjẽtĩnỹ tá,
-      Daylight: Rỹ Kã óra Arjẽtĩnỹ tá
-    }
-  },
-  {
-    Key: America/Santa_Isabel,
-    Value: {
-      Generic: Óra Mẽsiku Nãrti-Rãpur tá,
-      Standard: Óra Pã Mẽsiku Nãrti-Rãpur tá,
-      Daylight: Rỹ Kã óra Mẽsiku Nãrti-Rãpur tá
-    }
-  },
-  {
-    Key: America/Santarem,
-    Value: {
-      Generic: Óra Mrasirja tá,
-      Standard: Óra Pã Mrasirja tá,
-      Daylight: Rỹ Kã óra Mrasirja tá
-    }
-  },
-  {
-    Key: America/Santiago,
-    Value: {
-      Generic: Óra Sire tá,
-      Standard: Óra Pã Sire tá,
-      Daylight: Rỹ Kã óra Sire tá
-    }
-  },
-  {
-    Key: America/Santo_Domingo,
-    Value: {
-      Generic: Óra Atrỹtiku tá,
-      Standard: Óra Pã Atrỹtiku tá,
-      Daylight: Rỹ Kã óra Atrỹtiku tá
-    }
-  },
-  {
-    Key: America/Sao_Paulo,
-    Value: {
-      Generic: Óra Mrasirja tá,
-      Standard: Óra Pã Mrasirja tá,
-      Daylight: Rỹ Kã óra Mrasirja tá
-    }
-  },
-  {
-    Key: America/Scoresbysund,
-    Value: {
-      Generic: Óra Groẽrỹnija Rãjur tá,
-      Standard: Óra Pã Groẽrỹnija Rãjur tá,
-      Daylight: Rỹ Kã óra Groẽrỹnija Rãjur tá
-    }
-  },
-  {
-    Key: America/Shiprock,
-    Value: {
-      Generic: Óra Krĩ tá,
-      Standard: Óra Pã Krĩ tá,
-      Daylight: Rỹ Kã óra Krĩ tá
-    }
-  },
-  {
-    Key: America/Sitka,
-    Value: {
-      Generic: Aranhka tá óra,
-      Standard: Óra Pã Aranhka tá,
-      Daylight: Rỹ Kã óra Aranhka tá
-    }
-  },
-  {
-    Key: America/St_Barthelemy,
-    Value: {
-      Generic: Óra Atrỹtiku tá,
-      Standard: Óra Pã Atrỹtiku tá,
-      Daylight: Rỹ Kã óra Atrỹtiku tá
-    }
-  },
-  {
-    Key: America/St_Johns,
-    Value: {
-      Generic: Óra Ga tãg tá,
-      Standard: Óra Pã Ga Tãg tá,
-      Daylight: Rỹ Kã óra Ga Tãg tá
-    }
-  },
-  {
-    Key: America/St_Kitts,
-    Value: {
-      Generic: Óra Atrỹtiku tá,
-      Standard: Óra Pã Atrỹtiku tá,
-      Daylight: Rỹ Kã óra Atrỹtiku tá
-    }
-  },
-  {
-    Key: America/St_Lucia,
-    Value: {
-      Generic: Óra Atrỹtiku tá,
-      Standard: Óra Pã Atrỹtiku tá,
-      Daylight: Rỹ Kã óra Atrỹtiku tá
-    }
-  },
-  {
-    Key: America/St_Thomas,
-    Value: {
-      Generic: Óra Atrỹtiku tá,
-      Standard: Óra Pã Atrỹtiku tá,
-      Daylight: Rỹ Kã óra Atrỹtiku tá
-    }
-  },
-  {
-    Key: America/St_Vincent,
-    Value: {
-      Generic: Óra Atrỹtiku tá,
-      Standard: Óra Pã Atrỹtiku tá,
-      Daylight: Rỹ Kã óra Atrỹtiku tá
-    }
-  },
-  {
-    Key: America/Swift_Current,
-    Value: {
-      Generic: Kuju tá óra,
-      Standard: Óra Pã Kuju tá,
-      Daylight: Rỹ Kã óra Kuju tá
-    }
-  },
-  {
-    Key: America/Tegucigalpa,
-    Value: {
-      Generic: Kuju tá óra,
-      Standard: Óra Pã Kuju tá,
-      Daylight: Rỹ Kã óra Kuju tá
-    }
-  },
-  {
-    Key: America/Thule,
-    Value: {
-      Generic: Óra Atrỹtiku tá,
-      Standard: Óra Pã Atrỹtiku tá,
-      Daylight: Rỹ Kã óra Atrỹtiku tá
-    }
-  },
-  {
-    Key: America/Thunder_Bay,
-    Value: {
-      Generic: Óra Rãjur tá,
-      Standard: Óra Pã Rãjur tá,
-      Daylight: Rỹ Kã óra Rãjur tá
-    }
-  },
-  {
-    Key: America/Tijuana,
-    Value: {
-      Generic: Óra Rãpur tá,
-      Standard: Óra Pã Rãpur tá,
-      Daylight: Rỹ Kã óra Rãpur tá
-    }
-  },
-  {
-    Key: America/Toronto,
-    Value: {
-      Generic: Óra Rãjur tá,
-      Standard: Óra Pã Rãjur tá,
-      Daylight: Rỹ Kã óra Rãjur tá
-    }
-  },
-  {
-    Key: America/Tortola,
-    Value: {
-      Generic: Óra Atrỹtiku tá,
-      Standard: Óra Pã Atrỹtiku tá,
-      Daylight: Rỹ Kã óra Atrỹtiku tá
-    }
-  },
-  {
-    Key: America/Vancouver,
-    Value: {
-      Generic: Óra Rãpur tá,
-      Standard: Óra Pã Rãpur tá,
-      Daylight: Rỹ Kã óra Rãpur tá
-    }
-  },
-  {
-    Key: America/Virgin,
-    Value: {
-      Generic: Óra Atrỹtiku tá,
-      Standard: Óra Pã Atrỹtiku tá,
-      Daylight: Rỹ Kã óra Atrỹtiku tá
-    }
-  },
-  {
-    Key: America/Whitehorse,
-    Value: {
-      Generic: Óra kar Kanỹna,
-      Standard: Óra pẽ Kanỹna,
-      Daylight: Prỹg kã óra kar Kanỹna
-    }
-  },
-  {
-    Key: America/Winnipeg,
-    Value: {
-      Generic: Kuju tá óra,
-      Standard: Óra Pã Kuju tá,
-      Daylight: Rỹ Kã óra Kuju tá
-    }
-  },
-  {
-    Key: America/Yakutat,
-    Value: {
-      Generic: Aranhka tá óra,
-      Standard: Óra Pã Aranhka tá,
-      Daylight: Rỹ Kã óra Aranhka tá
-    }
-  },
-  {
-    Key: America/Yellowknife,
-    Value: {
-      Generic: Óra Krĩ tá,
-      Standard: Óra Pã Krĩ tá,
-      Daylight: Rỹ Kã óra Krĩ tá
-    }
-  },
-  {
-    Key: Antarctica/Casey,
-    Value: {
-      Generic: Óra kar Ỹntartina,
-      Standard: Óra pẽ Ỹntartina,
-      Daylight: Prỹg kã óra kar Ỹntartina
-    }
-  },
-  {
-    Key: Antarctica/Davis,
-    Value: {
-      Generic: Óra Navinh tá,
-      Standard: Óra Navinh tá,
-      Daylight: Óra Navinh tá
-    }
-  },
-  {
-    Key: Antarctica/DumontDUrville,
-    Value: {
-      Generic: Óra Numã-Nurviri tá,
-      Standard: Óra Numã-Nurviri tá,
-      Daylight: Óra Numã-Nurviri tá
-    }
-  },
-  {
-    Key: Antarctica/Macquarie,
-    Value: {
-      Generic: Óra Avotyraria Rãjur tá,
-      Standard: Óra Pã Avotyraria Rãjur tá,
-      Daylight: Rỹ Kã óra Avotyraria Rãjur tá
-    }
-  },
-  {
-    Key: Antarctica/Mawson,
-    Value: {
-      Generic: Óra Mỹusãn tá,
-      Standard: Óra Mỹusãn tá,
-      Daylight: Óra Mỹusãn tá
-    }
-  },
-  {
-    Key: Antarctica/McMurdo,
-    Value: {
-      Generic: Óra Jerỹnija Tãg tá,
-      Standard: Óra Pã Jerỹnija Tãg tá,
-      Daylight: Rỹ Kã óra Jerỹnija Tãg tá
-    }
-  },
-  {
-    Key: Antarctica/Palmer,
-    Value: {
-      Generic: Óra Sire tá,
-      Standard: Óra Pã Sire tá,
-      Daylight: Rỹ Kã óra Sire tá
-    }
-  },
-  {
-    Key: Antarctica/Rothera,
-    Value: {
-      Generic: Óra Rotera tá,
-      Standard: Óra Rotera tá,
-      Daylight: Óra Rotera tá
-    }
-  },
-  {
-    Key: Antarctica/South_Pole,
-    Value: {
-      Generic: Óra Jerỹnija Tãg tá,
-      Standard: Óra Pã Jerỹnija Tãg tá,
-      Daylight: Rỹ Kã óra Jerỹnija Tãg tá
-    }
-  },
-  {
-    Key: Antarctica/Syowa,
-    Value: {
-      Generic: Óra Siova tá,
-      Standard: Óra Siova tá,
-      Daylight: Óra Siova tá
-    }
-  },
-  {
-    Key: Antarctica/Troll,
-    Value: {
-      Generic: Óra Mirinjỹnũ Grinũvisi tá,
-      Standard: Óra Mirinjỹnũ Grinũvisi tá,
-      Daylight: Óra Mirinjỹnũ Grinũvisi tá
-    }
-  },
-  {
-    Key: Antarctica/Vostok,
-    Value: {
-      Generic: Óra Vonhtóki tá,
-      Standard: Óra Vonhtóki tá,
-      Daylight: Óra Vonhtóki tá
-    }
-  },
-  {
-    Key: Arctic/Longyearbyen,
-    Value: {
-      Generic: Óra Orópa Kuju tá,
-      Standard: Óra Pã Orópa Kuju tá,
-      Daylight: Rỹ Kã óra Orópa Kuju tá
-    }
-  },
-  {
-    Key: Asia/Aden,
-    Value: {
-      Generic: Óra Aramija tá,
-      Standard: Óra Pã Aramija tá,
-      Daylight: Rỹ Kã óra Aramija tá
-    }
-  },
-  {
-    Key: Asia/Almaty,
-    Value: {
-      Generic: Óra Kajakinhtỹv Rãjur tá,
-      Standard: Óra Kajakinhtỹv Rãjur tá,
-      Daylight: Óra Kajakinhtỹv Rãjur tá
-    }
-  },
-  {
-    Key: Asia/Amman,
-    Value: {
-      Generic: Óra Orópa Rãjur tá,
-      Standard: Óra Pã Orópa Rãjur tá,
-      Daylight: Rỹ Kã óra Orópa Rãjur tá
-    }
-  },
-  {
-    Key: Asia/Anadyr,
-    Value: {
-      Generic: Óra kar Anỹnhir,
-      Standard: Óra pẽ Anỹnhir,
-      Daylight: Prỹg kã óra kar Anỹnhir
-    }
-  },
-  {
-    Key: Asia/Aqtau,
-    Value: {
-      Generic: Óra Kajakinhtỹv Rãpur tá,
-      Standard: Óra Kajakinhtỹv Rãpur tá,
-      Daylight: Óra Kajakinhtỹv Rãpur tá
-    }
-  },
-  {
-    Key: Asia/Aqtobe,
-    Value: {
-      Generic: Óra Kajakinhtỹv Rãpur tá,
-      Standard: Óra Kajakinhtỹv Rãpur tá,
-      Daylight: Óra Kajakinhtỹv Rãpur tá
-    }
-  },
-  {
-    Key: Asia/Ashgabat,
-    Value: {
-      Generic: Óra Turkomẽnĩnhtỹv tá,
-      Standard: Óra Pã Turkomẽnĩnhtỹv tá,
-      Daylight: Rỹ Kã óra Turkomẽnĩnhtỹv tá
-    }
-  },
-  {
-    Key: Asia/Ashkhabad,
-    Value: {
-      Generic: Óra Turkomẽnĩnhtỹv tá,
-      Standard: Óra Pã Turkomẽnĩnhtỹv tá,
-      Daylight: Rỹ Kã óra Turkomẽnĩnhtỹv tá
-    }
-  },
-  {
-    Key: Asia/Atyrau,
-    Value: {
-      Generic: Óra Kajakinhtỹv Rãpur tá,
-      Standard: Óra Kajakinhtỹv Rãpur tá,
-      Daylight: Óra Kajakinhtỹv Rãpur tá
-    }
-  },
-  {
-    Key: Asia/Baghdad,
-    Value: {
-      Generic: Óra Aramija tá,
-      Standard: Óra Pã Aramija tá,
-      Daylight: Rỹ Kã óra Aramija tá
-    }
-  },
-  {
-    Key: Asia/Bahrain,
-    Value: {
-      Generic: Óra Aramija tá,
-      Standard: Óra Pã Aramija tá,
-      Daylight: Rỹ Kã óra Aramija tá
-    }
-  },
-  {
-    Key: Asia/Baku,
-    Value: {
-      Generic: Óra Ajermajjáv tá,
-      Standard: Óra Pã Ajermajjáv tá,
-      Daylight: Rỹ Kã óra Ajermajjáv tá
-    }
-  },
-  {
-    Key: Asia/Bangkok,
-    Value: {
-      Generic: Óra Ĩnosĩnỹ tá,
-      Standard: Óra Ĩnosĩnỹ tá,
-      Daylight: Óra Ĩnosĩnỹ tá
-    }
-  },
-  {
-    Key: Asia/Barnaul,
-    Value: {
-      Generic: Óra kar Marnỹur,
-      Standard: Óra pẽ Marnỹur,
-      Daylight: Prỹg kã óra kar Marnỹur
-    }
-  },
-  {
-    Key: Asia/Beirut,
-    Value: {
-      Generic: Óra Orópa Rãjur tá,
-      Standard: Óra Pã Orópa Rãjur tá,
-      Daylight: Rỹ Kã óra Orópa Rãjur tá
-    }
-  },
-  {
-    Key: Asia/Bishkek,
-    Value: {
-      Generic: Óra Kirginhtỹv tá,
-      Standard: Óra Kirginhtỹv tá,
-      Daylight: Óra Kirginhtỹv tá
-    }
-  },
-  {
-    Key: Asia/Brunei,
-    Value: {
-      Generic: Óra Mrunẽj Narusarỹ tá,
-      Standard: Óra Mrunẽj Narusarỹ tá,
-      Daylight: Óra Mrunẽj Narusarỹ tá
-    }
-  },
-  {
-    Key: Asia/Calcutta,
-    Value: {
-      Generic: Óra Pã Ĩnija tá,
-      Standard: Óra Pã Ĩnija tá,
-      Daylight: Óra Pã Ĩnija tá
-    }
-  },
-  {
-    Key: Asia/Chita,
-    Value: {
-      Generic: Óra kar Sita,
-      Standard: Óra pẽ Sita,
-      Daylight: Prỹg kã óra kar Sita
-    }
-  },
-  {
-    Key: Asia/Choibalsan,
-    Value: {
-      Generic: Óra Uran Mator tá,
-      Standard: Óra Pã Uran Mator tá,
-      Daylight: Rỹ Kã óra Uran Mator tá
-    }
-  },
-  {
-    Key: Asia/Chongqing,
-    Value: {
-      Generic: Óra Sĩnỹ tá,
-      Standard: Óra Pã Sĩnỹ tá,
-      Daylight: Rỹ Kã óra Sĩnỹ tá
-    }
-  },
-  {
-    Key: Asia/Chungking,
-    Value: {
-      Generic: Óra Sĩnỹ tá,
-      Standard: Óra Pã Sĩnỹ tá,
-      Daylight: Rỹ Kã óra Sĩnỹ tá
-    }
-  },
-  {
-    Key: Asia/Colombo,
-    Value: {
-      Generic: Óra Pã Ĩnija tá,
-      Standard: Óra Pã Ĩnija tá,
-      Daylight: Óra Pã Ĩnija tá
-    }
-  },
-  {
-    Key: Asia/Dacca,
-    Value: {
-      Generic: Óra Mỹngranési tá,
-      Standard: Óra Pã Mỹngranési tá,
-      Daylight: Rỹ Kã óra Mỹngranési tá
-    }
-  },
-  {
-    Key: Asia/Damascus,
-    Value: {
-      Generic: Óra Orópa Rãjur tá,
-      Standard: Óra Pã Orópa Rãjur tá,
-      Daylight: Rỹ Kã óra Orópa Rãjur tá
-    }
-  },
-  {
-    Key: Asia/Dhaka,
-    Value: {
-      Generic: Óra Mỹngranési tá,
-      Standard: Óra Pã Mỹngranési tá,
-      Daylight: Rỹ Kã óra Mỹngranési tá
-    }
-  },
-  {
-    Key: Asia/Dili,
-    Value: {
-      Generic: Óra Tĩmãr-Rãjur tá,
-      Standard: Óra Tĩmãr-Rãjur tá,
-      Daylight: Óra Tĩmãr-Rãjur tá
-    }
-  },
-  {
-    Key: Asia/Dubai,
-    Value: {
-      Generic: Óra Gorfu tá,
-      Standard: Óra Gorfu tá,
-      Daylight: Óra Gorfu tá
-    }
-  },
-  {
-    Key: Asia/Dushanbe,
-    Value: {
-      Generic: Óra Tajikinhtỹv tá,
-      Standard: Óra Tajikinhtỹv tá,
-      Daylight: Óra Tajikinhtỹv tá
-    }
-  },
-  {
-    Key: Asia/Famagusta,
-    Value: {
-      Generic: Óra Orópa Rãjur tá,
-      Standard: Óra Pã Orópa Rãjur tá,
-      Daylight: Rỹ Kã óra Orópa Rãjur tá
-    }
-  },
-  {
-    Key: Asia/Gaza,
-    Value: {
-      Generic: Óra Orópa Rãjur tá,
-      Standard: Óra Pã Orópa Rãjur tá,
-      Daylight: Rỹ Kã óra Orópa Rãjur tá
-    }
-  },
-  {
-    Key: Asia/Harbin,
-    Value: {
-      Generic: Óra Sĩnỹ tá,
-      Standard: Óra Pã Sĩnỹ tá,
-      Daylight: Rỹ Kã óra Sĩnỹ tá
-    }
-  },
-  {
-    Key: Asia/Hebron,
-    Value: {
-      Generic: Óra Orópa Rãjur tá,
-      Standard: Óra Pã Orópa Rãjur tá,
-      Daylight: Rỹ Kã óra Orópa Rãjur tá
-    }
-  },
-  {
-    Key: Asia/Ho_Chi_Minh,
-    Value: {
-      Generic: Óra Ĩnosĩnỹ tá,
-      Standard: Óra Ĩnosĩnỹ tá,
-      Daylight: Óra Ĩnosĩnỹ tá
-    }
-  },
-  {
-    Key: Asia/Hong_Kong,
-    Value: {
-      Generic: Óra Hãg Kãg tá,
-      Standard: Óra Pã Hãg Kãg tá,
-      Daylight: Rỹ Kã óra Hãg Kãg tá
-    }
-  },
-  {
-    Key: Asia/Hovd,
-    Value: {
-      Generic: Óra Hóvin tá,
-      Standard: Óra Pã Hóvin tá,
-      Daylight: Rỹ kã óra Hóvin tá
-    }
-  },
-  {
-    Key: Asia/Irkutsk,
-    Value: {
-      Generic: Óra kar Irkutinhki,
-      Standard: Óra pẽ Irkutinhki,
-      Daylight: Prỹg kã óra kar Irkutinhki
-    }
-  },
-  {
-    Key: Asia/Istanbul,
-    Value: {
-      Generic: Óra kar Turkija,
-      Standard: Óra pẽ Turkija,
-      Daylight: Prỹg kã óra kar Turkija
-    }
-  },
-  {
-    Key: Asia/Jakarta,
-    Value: {
-      Generic: Óra Ĩnonẽja Rãpur tá,
-      Standard: Óra Ĩnonẽja Rãpur tá,
-      Daylight: Óra Ĩnonẽja Rãpur tá
-    }
-  },
-  {
-    Key: Asia/Jayapura,
-    Value: {
-      Generic: Óra Ĩnonẽja Rãjur tá,
-      Standard: Óra Ĩnonẽja Rãjur tá,
-      Daylight: Óra Ĩnonẽja Rãjur tá
-    }
-  },
-  {
-    Key: Asia/Jerusalem,
-    Value: {
-      Generic: Óra Isihaé tá,
-      Standard: Óra Pã Isihaé tá,
-      Daylight: Rỹ Kã óra Isihaé tá
-    }
-  },
-  {
-    Key: Asia/Kabul,
-    Value: {
-      Generic: Afeganĩtã tá óra,
-      Standard: Afeganĩtã tá óra,
-      Daylight: Afeganĩtã tá óra
-    }
-  },
-  {
-    Key: Asia/Kamchatka,
-    Value: {
-      Generic: Óra kar Kỹmsanka,
-      Standard: Óra pẽ Kỹmsanka,
-      Daylight: Prỹg kã óra kar Kỹmsanka
-    }
-  },
-  {
-    Key: Asia/Karachi,
-    Value: {
-      Generic: Óra Pakinhtỹv tá,
-      Standard: Óra Pã Pakinhtỹv tá,
-      Daylight: Rỹ Kã óra Pakinhtỹv tá
-    }
-  },
-  {
-    Key: Asia/Kashgar,
-    Value: {
-      Generic: Óra kar Sĩnỹ,
-      Standard: Óra pẽ Sĩnỹ,
-      Daylight: Prỹg kã óra kar Sĩnỹ
-    }
-  },
-  {
-    Key: Asia/Kathmandu,
-    Value: {
-      Generic: Óra Nẽpar tá,
-      Standard: Óra Nẽpar tá,
-      Daylight: Óra Nẽpar tá
-    }
-  },
-  {
-    Key: Asia/Katmandu,
-    Value: {
-      Generic: Óra Nẽpar tá,
-      Standard: Óra Nẽpar tá,
-      Daylight: Óra Nẽpar tá
-    }
-  },
-  {
-    Key: Asia/Khandyga,
-    Value: {
-      Generic: Óra kar Kỹnyga,
-      Standard: Óra pẽ Kỹnyga,
-      Daylight: Prỹg kã óra kar Kỹnyga
-    }
-  },
-  {
-    Key: Asia/Kolkata,
-    Value: {
-      Generic: Óra Pã Ĩnija tá,
-      Standard: Óra Pã Ĩnija tá,
-      Daylight: Óra Pã Ĩnija tá
-    }
-  },
-  {
-    Key: Asia/Krasnoyarsk,
-    Value: {
-      Generic: Óra kar Kranhnãjarki,
-      Standard: Óra pẽ Kranhnãjarki,
-      Daylight: Prỹg kã óra kar Kranhnãjarki
-    }
-  },
-  {
-    Key: Asia/Kuala_Lumpur,
-    Value: {
-      Generic: Óra Mỹraja tá,
-      Standard: Óra Mỹraja tá,
-      Daylight: Óra Mỹraja tá
-    }
-  },
-  {
-    Key: Asia/Kuching,
-    Value: {
-      Generic: Óra Mỹraja tá,
-      Standard: Óra Mỹraja tá,
-      Daylight: Óra Mỹraja tá
-    }
-  },
-  {
-    Key: Asia/Kuwait,
-    Value: {
-      Generic: Óra Aramija tá,
-      Standard: Óra Pã Aramija tá,
-      Daylight: Rỹ Kã óra Aramija tá
-    }
-  },
-  {
-    Key: Asia/Macao,
-    Value: {
-      Generic: Óra Sĩnỹ tá,
-      Standard: Óra Pã Sĩnỹ tá,
-      Daylight: Rỹ Kã óra Sĩnỹ tá
-    }
-  },
-  {
-    Key: Asia/Macau,
-    Value: {
-      Generic: Óra Sĩnỹ tá,
-      Standard: Óra Pã Sĩnỹ tá,
-      Daylight: Rỹ Kã óra Sĩnỹ tá
-    }
-  },
-  {
-    Key: Asia/Magadan,
-    Value: {
-      Generic: Óra kar Mỹganan,
-      Standard: Óra pẽ Mỹganan,
-      Daylight: Prỹg kã óra kar Mỹganan
-    }
-  },
-  {
-    Key: Asia/Makassar,
-    Value: {
-      Generic: Óra Ĩnonẽja Kuju tá,
-      Standard: Óra Ĩnonẽja Kuju tá,
-      Daylight: Óra Ĩnonẽja Kuju tá
-    }
-  },
-  {
-    Key: Asia/Manila,
-    Value: {
-      Generic: Óra Firipinỹ tá,
-      Standard: Óra Pã Firipinỹ tá,
-      Daylight: Rỹ Kã Firipinỹ tá
-    }
-  },
-  {
-    Key: Asia/Muscat,
-    Value: {
-      Generic: Óra Gorfu tá,
-      Standard: Óra Gorfu tá,
-      Daylight: Óra Gorfu tá
-    }
-  },
-  {
-    Key: Asia/Nicosia,
-    Value: {
-      Generic: Óra Orópa Rãjur tá,
-      Standard: Óra Pã Orópa Rãjur tá,
-      Daylight: Rỹ Kã óra Orópa Rãjur tá
-    }
-  },
-  {
-    Key: Asia/Novokuznetsk,
-    Value: {
-      Generic: Óra kar Kunhnẽtinhki Tãg,
-      Standard: Óra pẽ Kunhnẽtinhki Tãg,
-      Daylight: Prỹg kã óra kar Kunhnẽtinhki Tãg
-    }
-  },
-  {
-    Key: Asia/Novosibirsk,
-    Value: {
-      Generic: Óra kar Simirsiki Tãg,
-      Standard: Óra pẽ Simirsiki Tãg,
-      Daylight: Prỹg kã óra kar Simirsiki Tãg
-    }
-  },
-  {
-    Key: Asia/Omsk,
-    Value: {
-      Generic: Óra kar Omĩnhki,
-      Standard: Óra pẽ Omĩnhki,
-      Daylight: Prỹg kã óra kar Omĩnhki
-    }
-  },
-  {
-    Key: Asia/Oral,
-    Value: {
-      Generic: Óra Kajakinhtỹv Rãpur tá,
-      Standard: Óra Kajakinhtỹv Rãpur tá,
-      Daylight: Óra Kajakinhtỹv Rãpur tá
-    }
-  },
-  {
-    Key: Asia/Phnom_Penh,
-    Value: {
-      Generic: Óra Ĩnosĩnỹ tá,
-      Standard: Óra Ĩnosĩnỹ tá,
-      Daylight: Óra Ĩnosĩnỹ tá
-    }
-  },
-  {
-    Key: Asia/Pontianak,
-    Value: {
-      Generic: Óra Ĩnonẽja Rãpur tá,
-      Standard: Óra Ĩnonẽja Rãpur tá,
-      Daylight: Óra Ĩnonẽja Rãpur tá
-    }
-  },
-  {
-    Key: Asia/Pyongyang,
-    Value: {
-      Generic: Óra Koréja tá,
-      Standard: Óra Pã Koréja tá,
-      Daylight: Rỹ Kã óra Koréja tá
-    }
-  },
-  {
-    Key: Asia/Qatar,
-    Value: {
-      Generic: Óra Aramija tá,
-      Standard: Óra Pã Aramija tá,
-      Daylight: Rỹ Kã óra Aramija tá
-    }
-  },
-  {
-    Key: Asia/Qostanay,
-    Value: {
-      Generic: Óra Kajakinhtỹv Rãjur tá,
-      Standard: Óra Kajakinhtỹv Rãjur tá,
-      Daylight: Óra Kajakinhtỹv Rãjur tá
-    }
-  },
-  {
-    Key: Asia/Qyzylorda,
-    Value: {
-      Generic: Óra Kajakinhtỹv Rãpur tá,
-      Standard: Óra Kajakinhtỹv Rãpur tá,
-      Daylight: Óra Kajakinhtỹv Rãpur tá
-    }
-  },
-  {
-    Key: Asia/Rangoon,
-    Value: {
-      Generic: Óra Mĩjỹmỹr tá,
-      Standard: Óra Mĩjỹmỹr tá,
-      Daylight: Óra Mĩjỹmỹr tá
-    }
-  },
-  {
-    Key: Asia/Riyadh,
-    Value: {
-      Generic: Óra Aramija tá,
-      Standard: Óra Pã Aramija tá,
-      Daylight: Rỹ Kã óra Aramija tá
-    }
-  },
-  {
-    Key: Asia/Saigon,
-    Value: {
-      Generic: Óra Ĩnosĩnỹ tá,
-      Standard: Óra Ĩnosĩnỹ tá,
-      Daylight: Óra Ĩnosĩnỹ tá
-    }
-  },
-  {
-    Key: Asia/Sakhalin,
-    Value: {
-      Generic: Óra kar Sakarĩnỹ,
-      Standard: Óra pẽ Sakarĩnỹ,
-      Daylight: Prỹg kã óra kar Sakarĩnỹ
-    }
-  },
-  {
-    Key: Asia/Samarkand,
-    Value: {
-      Generic: Óra Unhmekinhtỹv tá,
-      Standard: Óra Pã Unnmekinhtỹv tá,
-      Daylight: Rỹ Kã óra Unhmekinhtỹv tá
-    }
-  },
-  {
-    Key: Asia/Seoul,
-    Value: {
-      Generic: Óra Koréja tá,
-      Standard: Óra Pã Koréja tá,
-      Daylight: Rỹ Kã óra Koréja tá
-    }
-  },
-  {
-    Key: Asia/Shanghai,
-    Value: {
-      Generic: Óra Sĩnỹ tá,
-      Standard: Óra Pã Sĩnỹ tá,
-      Daylight: Rỹ Kã óra Sĩnỹ tá
-    }
-  },
-  {
-    Key: Asia/Singapore,
-    Value: {
-      Generic: Óra Pã Sĩgapura tá,
-      Standard: Óra Pã Sĩgapura tá,
-      Daylight: Óra Pã Sĩgapura tá
-    }
-  },
-  {
-    Key: Asia/Srednekolymsk,
-    Value: {
-      Generic: Óra kar Sirenẽkorymsiki,
-      Standard: Óra pẽ Sirenẽkorymsiki,
-      Daylight: Prỹg kã óra kar Sirenẽkorymsiki
-    }
-  },
-  {
-    Key: Asia/Taipei,
-    Value: {
-      Generic: Óra Tajpej tá,
-      Standard: Óra Pã Tajpej tá,
-      Daylight: Rỹ Kã óra Tajpej tá
-    }
-  },
-  {
-    Key: Asia/Tashkent,
-    Value: {
-      Generic: Óra Unhmekinhtỹv tá,
-      Standard: Óra Pã Unnmekinhtỹv tá,
-      Daylight: Rỹ Kã óra Unhmekinhtỹv tá
-    }
-  },
-  {
-    Key: Asia/Tbilisi,
-    Value: {
-      Generic: Óra Jeórja tá,
-      Standard: Óra Pã Jeórja tá,
-      Daylight: Rỹ Kã óra Jeórja tá
-    }
-  },
-  {
-    Key: Asia/Tehran,
-    Value: {
-      Generic: Óra Irỹ tá,
-      Standard: Óra Pã Irỹ tá,
-      Daylight: Rỹ Kã óra Irỹ tá
-    }
-  },
-  {
-    Key: Asia/Tel_Aviv,
-    Value: {
-      Generic: Óra Isihaé tá,
-      Standard: Óra Pã Isihaé tá,
-      Daylight: Rỹ Kã óra Isihaé tá
-    }
-  },
-  {
-    Key: Asia/Thimbu,
-    Value: {
-      Generic: Óra Mutỹv tá,
-      Standard: Óra Mutỹv tá,
-      Daylight: Óra Mutỹv tá
-    }
-  },
-  {
-    Key: Asia/Thimphu,
-    Value: {
-      Generic: Óra Mutỹv tá,
-      Standard: Óra Mutỹv tá,
-      Daylight: Óra Mutỹv tá
-    }
-  },
-  {
-    Key: Asia/Tokyo,
-    Value: {
-      Generic: Óra Japã tá,
-      Standard: Óra Pã Japã tá,
-      Daylight: Rỹ Kã óra Japã tá
-    }
-  },
-  {
-    Key: Asia/Tomsk,
-    Value: {
-      Generic: Óra kar Tomĩnhki,
-      Standard: Óra pẽ Tomĩnhki,
-      Daylight: Prỹg kã óra kar Tomĩnhki
-    }
-  },
-  {
-    Key: Asia/Ujung_Pandang,
-    Value: {
-      Generic: Óra Ĩnonẽja Kuju tá,
-      Standard: Óra Ĩnonẽja Kuju tá,
-      Daylight: Óra Ĩnonẽja Kuju tá
-    }
-  },
-  {
-    Key: Asia/Ulaanbaatar,
-    Value: {
-      Generic: Óra Uran Mator tá,
-      Standard: Óra Pã Uran Mator tá,
-      Daylight: Rỹ Kã óra Uran Mator tá
-    }
-  },
-  {
-    Key: Asia/Ulan_Bator,
-    Value: {
-      Generic: Óra Uran Mator tá,
-      Standard: Óra Pã Uran Mator tá,
-      Daylight: Rỹ Kã óra Uran Mator tá
-    }
-  },
-  {
-    Key: Asia/Urumqi,
-    Value: {
-      Generic: Óra kar Sĩnỹ,
-      Standard: Óra pẽ Sĩnỹ,
-      Daylight: Prỹg kã óra kar Sĩnỹ
-    }
-  },
-  {
-    Key: Asia/Ust-Nera,
-    Value: {
-      Generic: Óra kar Unhti-Nẽra,
-      Standard: Óra pẽ Unhti-Nẽra,
-      Daylight: Prỹg kã óra kar Unhti-Nẽra
-    }
-  },
-  {
-    Key: Asia/Vientiane,
-    Value: {
-      Generic: Óra Ĩnosĩnỹ tá,
-      Standard: Óra Ĩnosĩnỹ tá,
-      Daylight: Óra Ĩnosĩnỹ tá
-    }
-  },
-  {
-    Key: Asia/Vladivostok,
-    Value: {
-      Generic: Óra kar Uranivónhtóki,
-      Standard: Óra pẽ Uranivónhtóki,
-      Daylight: Prỹg kã óra kar Uranivónhtóki
-    }
-  },
-  {
-    Key: Asia/Yakutsk,
-    Value: {
-      Generic: Óra kar Yjakutinhki,
-      Standard: Óra pẽ Yjakutinhki,
-      Daylight: Prỹg kã óra kar Yjakutinhki
-    }
-  },
-  {
-    Key: Asia/Yangon,
-    Value: {
-      Generic: Óra Mĩjỹmỹr tá,
-      Standard: Óra Mĩjỹmỹr tá,
-      Daylight: Óra Mĩjỹmỹr tá
-    }
-  },
-  {
-    Key: Asia/Yekaterinburg,
-    Value: {
-      Generic: Óra kar Ekaterĩnmurgu,
-      Standard: Óra pẽ Ekaterĩnmurgu,
-      Daylight: Prỹg kã óra kar Ekaterĩnmurgu
-    }
-  },
-  {
-    Key: Asia/Yerevan,
-    Value: {
-      Generic: Óra Armẽnĩja tá,
-      Standard: Óra Pã Armẽnĩja tá,
-      Daylight: Rỹ Kã óra Armẽnĩja tá
-    }
-  },
-  {
-    Key: Atlantic/Azores,
-    Value: {
-      Generic: Óra Asor-ag tá,
-      Standard: Óra Pã Asor-ag tá,
-      Daylight: Rỹ Kã óra Aso-ag tá
-    }
-  },
-  {
-    Key: Atlantic/Bermuda,
-    Value: {
-      Generic: Óra Atrỹtiku tá,
-      Standard: Óra Pã Atrỹtiku tá,
-      Daylight: Rỹ Kã óra Atrỹtiku tá
-    }
-  },
-  {
-    Key: Atlantic/Canary,
-    Value: {
-      Generic: Óra Orópa Rãpur tá,
-      Standard: Óra Pã Orópa Rãpur tá,
-      Daylight: Rỹ Kã óra Orópa Rãpur tá
-    }
-  },
-  {
-    Key: Atlantic/Cape_Verde,
-    Value: {
-      Generic: Óra Pu Tánh tá,
-      Standard: Óra Pã Pu Tánh tá,
-      Daylight: Rỹ Kã óra Pu tánh tá
-    }
-  },
-  {
-    Key: Atlantic/Faeroe,
-    Value: {
-      Generic: Óra Orópa Rãpur tá,
-      Standard: Óra Pã Orópa Rãpur tá,
-      Daylight: Rỹ Kã óra Orópa Rãpur tá
-    }
-  },
-  {
-    Key: Atlantic/Faroe,
-    Value: {
-      Generic: Óra Orópa Rãpur tá,
-      Standard: Óra Pã Orópa Rãpur tá,
-      Daylight: Rỹ Kã óra Orópa Rãpur tá
-    }
-  },
-  {
-    Key: Atlantic/Jan_Mayen,
-    Value: {
-      Generic: Óra Orópa Kuju tá,
-      Standard: Óra Pã Orópa Kuju tá,
-      Daylight: Rỹ Kã óra Orópa Kuju tá
-    }
-  },
-  {
-    Key: Atlantic/Madeira,
-    Value: {
-      Generic: Óra Orópa Rãpur tá,
-      Standard: Óra Pã Orópa Rãpur tá,
-      Daylight: Rỹ Kã óra Orópa Rãpur tá
-    }
-  },
-  {
-    Key: Atlantic/Reykjavik,
-    Value: {
-      Generic: Óra Mirinjỹnũ Grinũvisi tá,
-      Standard: Óra Mirinjỹnũ Grinũvisi tá,
-      Daylight: Óra Mirinjỹnũ Grinũvisi tá
-    }
-  },
-  {
-    Key: Atlantic/South_Georgia,
-    Value: {
-      Generic: Óra Jiórja tỹ Sur tá,
-      Standard: Óra Jiórja tỹ Sur tá,
-      Daylight: Óra Jiórja tỹ Sur tá
-    }
-  },
-  {
-    Key: Atlantic/St_Helena,
-    Value: {
-      Generic: Óra Mirinjỹnũ Grinũvisi tá,
-      Standard: Óra Mirinjỹnũ Grinũvisi tá,
-      Daylight: Óra Mirinjỹnũ Grinũvisi tá
-    }
-  },
-  {
-    Key: Atlantic/Stanley,
-    Value: {
-      Generic: Óra Mỹrvĩnỹ Goj-vẽso tá,
-      Standard: Ór Pã Mỹrvĩnỹ Goj-vẽso tá,
-      Daylight: Rỹ Kã óra Mỹrvĩnỹ Goj-vẽso tá
-    }
-  },
-  {
-    Key: Australia/ACT,
-    Value: {
-      Generic: Óra Avotyraria Rãjur tá,
-      Standard: Óra Pã Avotyraria Rãjur tá,
-      Daylight: Rỹ Kã óra Avotyraria Rãjur tá
-    }
-  },
-  {
-    Key: Australia/Adelaide,
-    Value: {
-      Generic: Óra Avotyraria Kuju tá,
-      Standard: Óra Pã Avotyraria Kuju tá,
-      Daylight: Rỹ Kã óra Avotyraria Kuju tá
-    }
-  },
-  {
-    Key: Australia/Brisbane,
-    Value: {
-      Generic: Óra Avotyraria Rãjur tá,
-      Standard: Óra Pã Avotyraria Rãjur tá,
-      Daylight: Rỹ Kã óra Avotyraria Rãjur tá
-    }
-  },
-  {
-    Key: Australia/Broken_Hill,
-    Value: {
-      Generic: Óra Avotyraria Kuju tá,
-      Standard: Óra Pã Avotyraria Kuju tá,
-      Daylight: Rỹ Kã óra Avotyraria Kuju tá
-    }
-  },
-  {
-    Key: Australia/Canberra,
-    Value: {
-      Generic: Óra Avotyraria Rãjur tá,
-      Standard: Óra Pã Avotyraria Rãjur tá,
-      Daylight: Rỹ Kã óra Avotyraria Rãjur tá
-    }
-  },
-  {
-    Key: Australia/Currie,
-    Value: {
-      Generic: Óra Avotyraria Rãjur tá,
-      Standard: Óra Pã Avotyraria Rãjur tá,
-      Daylight: Rỹ Kã óra Avotyraria Rãjur tá
-    }
-  },
-  {
-    Key: Australia/Darwin,
-    Value: {
-      Generic: Óra Avotyraria Kuju tá,
-      Standard: Óra Pã Avotyraria Kuju tá,
-      Daylight: Rỹ Kã óra Avotyraria Kuju tá
-    }
-  },
-  {
-    Key: Australia/Eucla,
-    Value: {
-      Generic: Óra Avotyaria Kuju-Rãpur tá,
-      Standard: Óra Pã Avotyraria Kuju-Rãpur tá,
-      Daylight: Rỹ Kã óra Avotyraria Kuju-Rãpur tá
-    }
-  },
-  {
-    Key: Australia/Hobart,
-    Value: {
-      Generic: Óra Avotyraria Rãjur tá,
-      Standard: Óra Pã Avotyraria Rãjur tá,
-      Daylight: Rỹ Kã óra Avotyraria Rãjur tá
-    }
-  },
-  {
-    Key: Australia/LHI,
-    Value: {
-      Generic: Óra Rórni Hove tá,
-      Standard: Óra Pã Rórni Hove tá,
-      Daylight: Rỹ Kã óra Rórni Hove tá
-    }
-  },
-  {
-    Key: Australia/Lindeman,
-    Value: {
-      Generic: Óra Avotyraria Rãjur tá,
-      Standard: Óra Pã Avotyraria Rãjur tá,
-      Daylight: Rỹ Kã óra Avotyraria Rãjur tá
-    }
-  },
-  {
-    Key: Australia/Lord_Howe,
-    Value: {
-      Generic: Óra Rórni Hove tá,
-      Standard: Óra Pã Rórni Hove tá,
-      Daylight: Rỹ Kã óra Rórni Hove tá
-    }
-  },
-  {
-    Key: Australia/Melbourne,
-    Value: {
-      Generic: Óra Avotyraria Rãjur tá,
-      Standard: Óra Pã Avotyraria Rãjur tá,
-      Daylight: Rỹ Kã óra Avotyraria Rãjur tá
-    }
-  },
-  {
-    Key: Australia/North,
-    Value: {
-      Generic: Óra Avotyraria Kuju tá,
-      Standard: Óra Pã Avotyraria Kuju tá,
-      Daylight: Rỹ Kã óra Avotyraria Kuju tá
-    }
-  },
-  {
-    Key: Australia/NSW,
-    Value: {
-      Generic: Óra Avotyraria Rãjur tá,
-      Standard: Óra Pã Avotyraria Rãjur tá,
-      Daylight: Rỹ Kã óra Avotyraria Rãjur tá
-    }
-  },
-  {
-    Key: Australia/Perth,
-    Value: {
-      Generic: Óra Avotyraria Rãpur tá,
-      Standard: Óra Pã Avotyraria Rãpur tá,
-      Daylight: Rỹ Kã óra Avotyraria Rãpur tá
-    }
-  },
-  {
-    Key: Australia/Queensland,
-    Value: {
-      Generic: Óra Avotyraria Rãjur tá,
-      Standard: Óra Pã Avotyraria Rãjur tá,
-      Daylight: Rỹ Kã óra Avotyraria Rãjur tá
-    }
-  },
-  {
-    Key: Australia/South,
-    Value: {
-      Generic: Óra Avotyraria Kuju tá,
-      Standard: Óra Pã Avotyraria Kuju tá,
-      Daylight: Rỹ Kã óra Avotyraria Kuju tá
-    }
-  },
-  {
-    Key: Australia/Sydney,
-    Value: {
-      Generic: Óra Avotyraria Rãjur tá,
-      Standard: Óra Pã Avotyraria Rãjur tá,
-      Daylight: Rỹ Kã óra Avotyraria Rãjur tá
-    }
-  },
-  {
-    Key: Australia/Tasmania,
-    Value: {
-      Generic: Óra Avotyraria Rãjur tá,
-      Standard: Óra Pã Avotyraria Rãjur tá,
-      Daylight: Rỹ Kã óra Avotyraria Rãjur tá
-    }
-  },
-  {
-    Key: Australia/Victoria,
-    Value: {
-      Generic: Óra Avotyraria Rãjur tá,
-      Standard: Óra Pã Avotyraria Rãjur tá,
-      Daylight: Rỹ Kã óra Avotyraria Rãjur tá
-    }
-  },
-  {
-    Key: Australia/West,
-    Value: {
-      Generic: Óra Avotyraria Rãpur tá,
-      Standard: Óra Pã Avotyraria Rãpur tá,
-      Daylight: Rỹ Kã óra Avotyraria Rãpur tá
-    }
-  },
-  {
-    Key: Australia/Yancowinna,
-    Value: {
-      Generic: Óra Avotyraria Kuju tá,
-      Standard: Óra Pã Avotyraria Kuju tá,
-      Daylight: Rỹ Kã óra Avotyraria Kuju tá
-    }
-  },
-  {
-    Key: Brazil/Acre,
-    Value: {
-      Generic: Akre tá óra,
-      Standard: Óra Pã Akre tá,
-      Daylight: Rỹ Kã óra Akre tá
-    }
-  },
-  {
-    Key: Brazil/DeNoronha,
-    Value: {
-      Generic: Óra Fernỹnu Nãrãja-tá tá,
-      Standard: Óra Pã Fernỹnu Nãrãja-tá tá,
-      Daylight: Rỹ Kã óra Fernỹnu Nãrãja-tá tá
-    }
-  },
-  {
-    Key: Brazil/East,
-    Value: {
-      Generic: Óra Mrasirja tá,
-      Standard: Óra Pã Mrasirja tá,
-      Daylight: Rỹ Kã óra Mrasirja tá
-    }
-  },
-  {
-    Key: Brazil/West,
-    Value: {
-      Generic: Amỹjonỹ tá óra,
-      Standard: Óra Pã Amỹjonỹ tá,
-      Daylight: Rỹ Kã óra Amỹjonỹ tá
-    }
-  },
-  {
-    Key: Canada/Atlantic,
-    Value: {
-      Generic: Óra Atrỹtiku tá,
-      Standard: Óra Pã Atrỹtiku tá,
-      Daylight: Rỹ Kã óra Atrỹtiku tá
-    }
-  },
-  {
-    Key: Canada/Central,
-    Value: {
-      Generic: Kuju tá óra,
-      Standard: Óra Pã Kuju tá,
-      Daylight: Rỹ Kã óra Kuju tá
-    }
-  },
-  {
-    Key: Canada/Eastern,
-    Value: {
-      Generic: Óra Rãjur tá,
-      Standard: Óra Pã Rãjur tá,
-      Daylight: Rỹ Kã óra Rãjur tá
-    }
-  },
-  {
-    Key: Canada/Mountain,
-    Value: {
-      Generic: Óra Krĩ tá,
-      Standard: Óra Pã Krĩ tá,
-      Daylight: Rỹ Kã óra Krĩ tá
-    }
-  },
-  {
-    Key: Canada/Newfoundland,
-    Value: {
-      Generic: Óra Ga tãg tá,
-      Standard: Óra Pã Ga Tãg tá,
-      Daylight: Rỹ Kã óra Ga Tãg tá
-    }
-  },
-  {
-    Key: Canada/Pacific,
-    Value: {
-      Generic: Óra Rãpur tá,
-      Standard: Óra Pã Rãpur tá,
-      Daylight: Rỹ Kã óra Rãpur tá
-    }
-  },
-  {
-    Key: Canada/Saskatchewan,
-    Value: {
-      Generic: Kuju tá óra,
-      Standard: Óra Pã Kuju tá,
-      Daylight: Rỹ Kã óra Kuju tá
-    }
-  },
-  {
-    Key: Canada/Yukon,
-    Value: {
-      Generic: Óra kar Kanỹna,
-      Standard: Óra pẽ Kanỹna,
-      Daylight: Prỹg kã óra kar Kanỹna
-    }
-  },
-  {
-    Key: CET,
-    Value: {
-      Generic: Óra Orópa Kuju tá,
-      Standard: Óra Pã Orópa Kuju tá,
-      Daylight: Rỹ Kã óra Orópa Kuju tá
-    }
-  },
-  {
-    Key: Chile/Continental,
-    Value: {
-      Generic: Óra Sire tá,
-      Standard: Óra Pã Sire tá,
-      Daylight: Rỹ Kã óra Sire tá
-    }
-  },
-  {
-    Key: Chile/EasterIsland,
-    Value: {
-      Generic: Óra Panhkuva Goj-vẽso tá,
-      Standard: Óra Pã Panhkuva Goj-vẽso tá,
-      Daylight: Rỹ Kã óra Panhkuva Goj-vẽso tá
-    }
-  },
-  {
-    Key: CST6CDT,
-    Value: {
-      Generic: Kuju tá óra,
-      Standard: Óra Pã Kuju tá,
-      Daylight: Rỹ Kã óra Kuju tá
-    }
-  },
-  {
-    Key: Cuba,
-    Value: {
-      Generic: Óra Kuma tá,
-      Standard: Óra Pã Kuma tá,
-      Daylight: Rỹ Kã óra Kuma tá
-    }
-  },
-  {
-    Key: EET,
-    Value: {
-      Generic: Óra Orópa Rãjur tá,
-      Standard: Óra Pã Orópa Rãjur tá,
-      Daylight: Rỹ Kã óra Orópa Rãjur tá
-    }
-  },
-  {
-    Key: Egypt,
-    Value: {
-      Generic: Óra Orópa Rãjur tá,
-      Standard: Óra Pã Orópa Rãjur tá,
-      Daylight: Rỹ Kã óra Orópa Rãjur tá
-    }
-  },
-  {
-    Key: Eire,
-    Value: {
-      Generic: Óra kar Irỹna,
-      Standard: Óra Mirinjỹnũ Grinũvisi tá,
-      Daylight: Óra Pã Irỹna
-    }
-  },
-  {
-    Key: EST,
-    Value: {
-      Generic: Ga-kar Óra Vẽnh-krén-ja -5,
-      Standard: Ga-kar Óra Vẽnh-krén-ja -5,
-      Daylight: Ga-kar Óra Vẽnh-krén-ja -5
-    }
-  },
-  {
-    Key: EST5EDT,
-    Value: {
-      Generic: Óra Rãjur tá,
-      Standard: Óra Pã Rãjur tá,
-      Daylight: Rỹ Kã óra Rãjur tá
-    }
-  },
-  {
-    Key: Etc/GMT,
-    Value: {
-      Generic: Óra Mirinjỹnũ Grinũvisi tá,
-      Standard: Óra Mirinjỹnũ Grinũvisi tá,
-      Daylight: Óra Mirinjỹnũ Grinũvisi tá
-    }
-  },
-  {
-    Key: Etc/GMT-0,
-    Value: {
-      Generic: Óra Mirinjỹnũ Grinũvisi tá,
-      Standard: Óra Mirinjỹnũ Grinũvisi tá,
-      Daylight: Óra Mirinjỹnũ Grinũvisi tá
-    }
-  },
-  {
-    Key: Etc/GMT-1,
-    Value: {
-      Generic: Ga-kar Óra Vẽnh-krén-ja +1,
-      Standard: Ga-kar Óra Vẽnh-krén-ja +1,
-      Daylight: Ga-kar Óra Vẽnh-krén-ja +1
-    }
-  },
-  {
-    Key: Etc/GMT-10,
-    Value: {
-      Generic: Ga-kar Óra Vẽnh-krén-ja +10,
-      Standard: Ga-kar Óra Vẽnh-krén-ja +10,
-      Daylight: Ga-kar Óra Vẽnh-krén-ja +10
-    }
-  },
-  {
-    Key: Etc/GMT-11,
-    Value: {
-      Generic: Ga-kar Óra Vẽnh-krén-ja +11,
-      Standard: Ga-kar Óra Vẽnh-krén-ja +11,
-      Daylight: Ga-kar Óra Vẽnh-krén-ja +11
-    }
-  },
-  {
-    Key: Etc/GMT-12,
-    Value: {
-      Generic: Ga-kar Óra Vẽnh-krén-ja +12,
-      Standard: Ga-kar Óra Vẽnh-krén-ja +12,
-      Daylight: Ga-kar Óra Vẽnh-krén-ja +12
-    }
-  },
-  {
-    Key: Etc/GMT-13,
-    Value: {
-      Generic: Ga-kar Óra Vẽnh-krén-ja +13,
-      Standard: Ga-kar Óra Vẽnh-krén-ja +13,
-      Daylight: Ga-kar Óra Vẽnh-krén-ja +13
-    }
-  },
-  {
-    Key: Etc/GMT-14,
-    Value: {
-      Generic: Ga-kar Óra Vẽnh-krén-ja +14,
-      Standard: Ga-kar Óra Vẽnh-krén-ja +14,
-      Daylight: Ga-kar Óra Vẽnh-krén-ja +14
-    }
-  },
-  {
-    Key: Etc/GMT-2,
-    Value: {
-      Generic: Ga-kar Óra Vẽnh-krén-ja +2,
-      Standard: Ga-kar Óra Vẽnh-krén-ja +2,
-      Daylight: Ga-kar Óra Vẽnh-krén-ja +2
-    }
-  },
-  {
-    Key: Etc/GMT-3,
-    Value: {
-      Generic: Ga-kar Óra Vẽnh-krén-ja +3,
-      Standard: Ga-kar Óra Vẽnh-krén-ja +3,
-      Daylight: Ga-kar Óra Vẽnh-krén-ja +3
-    }
-  },
-  {
-    Key: Etc/GMT-4,
-    Value: {
-      Generic: Ga-kar Óra Vẽnh-krén-ja +4,
-      Standard: Ga-kar Óra Vẽnh-krén-ja +4,
-      Daylight: Ga-kar Óra Vẽnh-krén-ja +4
-    }
-  },
-  {
-    Key: Etc/GMT-5,
-    Value: {
-      Generic: Ga-kar Óra Vẽnh-krén-ja +5,
-      Standard: Ga-kar Óra Vẽnh-krén-ja +5,
-      Daylight: Ga-kar Óra Vẽnh-krén-ja +5
-    }
-  },
-  {
-    Key: Etc/GMT-6,
-    Value: {
-      Generic: Ga-kar Óra Vẽnh-krén-ja +6,
-      Standard: Ga-kar Óra Vẽnh-krén-ja +6,
-      Daylight: Ga-kar Óra Vẽnh-krén-ja +6
-    }
-  },
-  {
-    Key: Etc/GMT-7,
-    Value: {
-      Generic: Ga-kar Óra Vẽnh-krén-ja +7,
-      Standard: Ga-kar Óra Vẽnh-krén-ja +7,
-      Daylight: Ga-kar Óra Vẽnh-krén-ja +7
-    }
-  },
-  {
-    Key: Etc/GMT-8,
-    Value: {
-      Generic: Ga-kar Óra Vẽnh-krén-ja +8,
-      Standard: Ga-kar Óra Vẽnh-krén-ja +8,
-      Daylight: Ga-kar Óra Vẽnh-krén-ja +8
-    }
-  },
-  {
-    Key: Etc/GMT-9,
-    Value: {
-      Generic: Ga-kar Óra Vẽnh-krén-ja +9,
-      Standard: Ga-kar Óra Vẽnh-krén-ja +9,
-      Daylight: Ga-kar Óra Vẽnh-krén-ja +9
-    }
-  },
-  {
-    Key: Etc/GMT+0,
-    Value: {
-      Generic: Óra Mirinjỹnũ Grinũvisi tá,
-      Standard: Óra Mirinjỹnũ Grinũvisi tá,
-      Daylight: Óra Mirinjỹnũ Grinũvisi tá
-    }
-  },
-  {
-    Key: Etc/GMT+1,
-    Value: {
-      Generic: Ga-kar Óra Vẽnh-krén-ja -1,
-      Standard: Ga-kar Óra Vẽnh-krén-ja -1,
-      Daylight: Ga-kar Óra Vẽnh-krén-ja -1
-    }
-  },
-  {
-    Key: Etc/GMT+10,
-    Value: {
-      Generic: Ga-kar Óra Vẽnh-krén-ja -10,
-      Standard: Ga-kar Óra Vẽnh-krén-ja -10,
-      Daylight: Ga-kar Óra Vẽnh-krén-ja -10
-    }
-  },
-  {
-    Key: Etc/GMT+11,
-    Value: {
-      Generic: Ga-kar Óra Vẽnh-krén-ja -11,
-      Standard: Ga-kar Óra Vẽnh-krén-ja -11,
-      Daylight: Ga-kar Óra Vẽnh-krén-ja -11
-    }
-  },
-  {
-    Key: Etc/GMT+12,
-    Value: {
-      Generic: Ga-kar Óra Vẽnh-krén-ja -12,
-      Standard: Ga-kar Óra Vẽnh-krén-ja -12,
-      Daylight: Ga-kar Óra Vẽnh-krén-ja -12
-    }
-  },
-  {
-    Key: Etc/GMT+2,
-    Value: {
-      Generic: Ga-kar Óra Vẽnh-krén-ja -2,
-      Standard: Ga-kar Óra Vẽnh-krén-ja -2,
-      Daylight: Ga-kar Óra Vẽnh-krén-ja -2
-    }
-  },
-  {
-    Key: Etc/GMT+3,
-    Value: {
-      Generic: Ga-kar Óra Vẽnh-krén-ja -3,
-      Standard: Ga-kar Óra Vẽnh-krén-ja -3,
-      Daylight: Ga-kar Óra Vẽnh-krén-ja -3
-    }
-  },
-  {
-    Key: Etc/GMT+4,
-    Value: {
-      Generic: Ga-kar Óra Vẽnh-krén-ja -4,
-      Standard: Ga-kar Óra Vẽnh-krén-ja -4,
-      Daylight: Ga-kar Óra Vẽnh-krén-ja -4
-    }
-  },
-  {
-    Key: Etc/GMT+5,
-    Value: {
-      Generic: Ga-kar Óra Vẽnh-krén-ja -5,
-      Standard: Ga-kar Óra Vẽnh-krén-ja -5,
-      Daylight: Ga-kar Óra Vẽnh-krén-ja -5
-    }
-  },
-  {
-    Key: Etc/GMT+6,
-    Value: {
-      Generic: Ga-kar Óra Vẽnh-krén-ja -6,
-      Standard: Ga-kar Óra Vẽnh-krén-ja -6,
-      Daylight: Ga-kar Óra Vẽnh-krén-ja -6
-    }
-  },
-  {
-    Key: Etc/GMT+7,
-    Value: {
-      Generic: Ga-kar Óra Vẽnh-krén-ja -7,
-      Standard: Ga-kar Óra Vẽnh-krén-ja -7,
-      Daylight: Ga-kar Óra Vẽnh-krén-ja -7
-    }
-  },
-  {
-    Key: Etc/GMT+8,
-    Value: {
-      Generic: Ga-kar Óra Vẽnh-krén-ja -8,
-      Standard: Ga-kar Óra Vẽnh-krén-ja -8,
-      Daylight: Ga-kar Óra Vẽnh-krén-ja -8
-    }
-  },
-  {
-    Key: Etc/GMT+9,
-    Value: {
-      Generic: Ga-kar Óra Vẽnh-krén-ja -9,
-      Standard: Ga-kar Óra Vẽnh-krén-ja -9,
-      Daylight: Ga-kar Óra Vẽnh-krén-ja -9
-    }
-  },
-  {
-    Key: Etc/GMT0,
-    Value: {
-      Generic: Óra Mirinjỹnũ Grinũvisi tá,
-      Standard: Óra Mirinjỹnũ Grinũvisi tá,
-      Daylight: Óra Mirinjỹnũ Grinũvisi tá
-    }
-  },
-  {
-    Key: Etc/Greenwich,
-    Value: {
-      Generic: Óra Mirinjỹnũ Grinũvisi tá,
-      Standard: Óra Mirinjỹnũ Grinũvisi tá,
-      Daylight: Óra Mirinjỹnũ Grinũvisi tá
-    }
-  },
-  {
-    Key: Etc/UCT,
-    Value: {
-      Generic: Ga-kar Óra Vẽnh-krén-ja,
-      Standard: Ga-kar Óra Vẽnh-krén-ja,
-      Daylight: Ga-kar Óra Vẽnh-krén-ja
-    }
-  },
-  {
-    Key: Etc/Universal,
-    Value: {
-      Generic: Ga-kar Óra Vẽnh-krén-ja,
-      Standard: Ga-kar Óra Vẽnh-krén-ja,
-      Daylight: Ga-kar Óra Vẽnh-krén-ja
-    }
-  },
-  {
-    Key: Etc/UTC,
-    Value: {
-      Generic: Ga-kar Óra Vẽnh-krén-ja,
-      Standard: Ga-kar Óra Vẽnh-krén-ja,
-      Daylight: Ga-kar Óra Vẽnh-krén-ja
-    }
-  },
-  {
-    Key: Etc/Zulu,
-    Value: {
-      Generic: Ga-kar Óra Vẽnh-krén-ja,
-      Standard: Ga-kar Óra Vẽnh-krén-ja,
-      Daylight: Ga-kar Óra Vẽnh-krén-ja
-    }
-  },
-  {
-    Key: Europe/Amsterdam,
-    Value: {
-      Generic: Óra Orópa Kuju tá,
-      Standard: Óra Pã Orópa Kuju tá,
-      Daylight: Rỹ Kã óra Orópa Kuju tá
-    }
-  },
-  {
-    Key: Europe/Andorra,
-    Value: {
-      Generic: Óra Orópa Kuju tá,
-      Standard: Óra Pã Orópa Kuju tá,
-      Daylight: Rỹ Kã óra Orópa Kuju tá
-    }
-  },
-  {
-    Key: Europe/Astrakhan,
-    Value: {
-      Generic: Óra kar Anhtakỹ,
-      Standard: Óra pẽ Anhtakỹ,
-      Daylight: Prỹg kã óra kar Anhtakỹ
-    }
-  },
-  {
-    Key: Europe/Athens,
-    Value: {
-      Generic: Óra Orópa Rãjur tá,
-      Standard: Óra Pã Orópa Rãjur tá,
-      Daylight: Rỹ Kã óra Orópa Rãjur tá
-    }
-  },
-  {
-    Key: Europe/Belfast,
-    Value: {
-      Generic: Óra kar Rejnũ Unĩnu,
-      Standard: Óra Mirinjỹnũ Grinũvisi tá,
-      Daylight: Óra Mritỹnĩku Rỹ Kã
-    }
-  },
-  {
-    Key: Europe/Belgrade,
-    Value: {
-      Generic: Óra Orópa Kuju tá,
-      Standard: Óra Pã Orópa Kuju tá,
-      Daylight: Rỹ Kã óra Orópa Kuju tá
-    }
-  },
-  {
-    Key: Europe/Berlin,
-    Value: {
-      Generic: Óra Orópa Kuju tá,
-      Standard: Óra Pã Orópa Kuju tá,
-      Daylight: Rỹ Kã óra Orópa Kuju tá
-    }
-  },
-  {
-    Key: Europe/Bratislava,
-    Value: {
-      Generic: Óra Orópa Kuju tá,
-      Standard: Óra Pã Orópa Kuju tá,
-      Daylight: Rỹ Kã óra Orópa Kuju tá
-    }
-  },
-  {
-    Key: Europe/Brussels,
-    Value: {
-      Generic: Óra Orópa Kuju tá,
-      Standard: Óra Pã Orópa Kuju tá,
-      Daylight: Rỹ Kã óra Orópa Kuju tá
-    }
-  },
-  {
-    Key: Europe/Bucharest,
-    Value: {
-      Generic: Óra Orópa Rãjur tá,
-      Standard: Óra Pã Orópa Rãjur tá,
-      Daylight: Rỹ Kã óra Orópa Rãjur tá
-    }
-  },
-  {
-    Key: Europe/Budapest,
-    Value: {
-      Generic: Óra Orópa Kuju tá,
-      Standard: Óra Pã Orópa Kuju tá,
-      Daylight: Rỹ Kã óra Orópa Kuju tá
-    }
-  },
-  {
-    Key: Europe/Busingen,
-    Value: {
-      Generic: Óra Orópa Kuju tá,
-      Standard: Óra Pã Orópa Kuju tá,
-      Daylight: Rỹ Kã óra Orópa Kuju tá
-    }
-  },
-  {
-    Key: Europe/Chisinau,
-    Value: {
-      Generic: Óra Orópa Rãjur tá,
-      Standard: Óra Pã Orópa Rãjur tá,
-      Daylight: Rỹ Kã óra Orópa Rãjur tá
-    }
-  },
-  {
-    Key: Europe/Copenhagen,
-    Value: {
-      Generic: Óra Orópa Kuju tá,
-      Standard: Óra Pã Orópa Kuju tá,
-      Daylight: Rỹ Kã óra Orópa Kuju tá
-    }
-  },
-  {
-    Key: Europe/Dublin,
-    Value: {
-      Generic: Óra kar Irỹna,
-      Standard: Óra Mirinjỹnũ Grinũvisi tá,
-      Daylight: Óra Pã Irỹna
-    }
-  },
-  {
-    Key: Europe/Gibraltar,
-    Value: {
-      Generic: Óra Orópa Kuju tá,
-      Standard: Óra Pã Orópa Kuju tá,
-      Daylight: Rỹ Kã óra Orópa Kuju tá
-    }
-  },
-  {
-    Key: Europe/Guernsey,
-    Value: {
-      Generic: Óra Mirinjỹnũ Grinũvisi tá,
-      Standard: Óra Mirinjỹnũ Grinũvisi tá,
-      Daylight: Óra Mirinjỹnũ Grinũvisi tá
-    }
-  },
-  {
-    Key: Europe/Helsinki,
-    Value: {
-      Generic: Óra Orópa Rãjur tá,
-      Standard: Óra Pã Orópa Rãjur tá,
-      Daylight: Rỹ Kã óra Orópa Rãjur tá
-    }
-  },
-  {
-    Key: Europe/Isle_of_Man,
-    Value: {
-      Generic: Óra Mirinjỹnũ Grinũvisi tá,
-      Standard: Óra Mirinjỹnũ Grinũvisi tá,
-      Daylight: Óra Mirinjỹnũ Grinũvisi tá
-    }
-  },
-  {
-    Key: Europe/Istanbul,
-    Value: {
-      Generic: Óra kar Turkija,
-      Standard: Óra pẽ Turkija,
-      Daylight: Prỹg kã óra kar Turkija
-    }
-  },
-  {
-    Key: Europe/Jersey,
-    Value: {
-      Generic: Óra Mirinjỹnũ Grinũvisi tá,
-      Standard: Óra Mirinjỹnũ Grinũvisi tá,
-      Daylight: Óra Mirinjỹnũ Grinũvisi tá
-    }
-  },
-  {
-    Key: Europe/Kaliningrad,
-    Value: {
-      Generic: Óra kar Karinĩngrano,
-      Standard: Óra pẽ Karinĩngrano,
-      Daylight: Prỹg kã óra kar Karinĩngrano
-    }
-  },
-  {
-    Key: Europe/Kiev,
-    Value: {
-      Generic: Óra Orópa Rãjur tá,
-      Standard: Óra Pã Orópa Rãjur tá,
-      Daylight: Rỹ Kã óra Orópa Rãjur tá
-    }
-  },
-  {
-    Key: Europe/Kirov,
-    Value: {
-      Generic: Óra kar Kiróvi,
-      Standard: Óra pẽ Kiróvi,
-      Daylight: Prỹg kã óra kar Kiróvi
-    }
-  },
-  {
-    Key: Europe/Kyiv,
-    Value: {
-      Generic: Óra kar Ukrỹnĩja,
-      Standard: Óra pẽ Ukrỹnĩja,
-      Daylight: Prỹg kã óra kar Ukrỹnĩja
-    }
-  },
-  {
-    Key: Europe/Lisbon,
-    Value: {
-      Generic: Óra Orópa Rãpur tá,
-      Standard: Óra Pã Orópa Rãpur tá,
-      Daylight: Rỹ Kã óra Orópa Rãpur tá
-    }
-  },
-  {
-    Key: Europe/Ljubljana,
-    Value: {
-      Generic: Óra Orópa Kuju tá,
-      Standard: Óra Pã Orópa Kuju tá,
-      Daylight: Rỹ Kã óra Orópa Kuju tá
-    }
-  },
-  {
-    Key: Europe/London,
-    Value: {
-      Generic: Óra kar Rejnũ Unĩnu,
-      Standard: Óra Mirinjỹnũ Grinũvisi tá,
-      Daylight: Óra Mritỹnĩku Rỹ Kã
-    }
-  },
-  {
-    Key: Europe/Luxembourg,
-    Value: {
-      Generic: Óra Orópa Kuju tá,
-      Standard: Óra Pã Orópa Kuju tá,
-      Daylight: Rỹ Kã óra Orópa Kuju tá
-    }
-  },
-  {
-    Key: Europe/Madrid,
-    Value: {
-      Generic: Óra Orópa Kuju tá,
-      Standard: Óra Pã Orópa Kuju tá,
-      Daylight: Rỹ Kã óra Orópa Kuju tá
-    }
-  },
-  {
-    Key: Europe/Malta,
-    Value: {
-      Generic: Óra Orópa Kuju tá,
-      Standard: Óra Pã Orópa Kuju tá,
-      Daylight: Rỹ Kã óra Orópa Kuju tá
-    }
-  },
-  {
-    Key: Europe/Mariehamn,
-    Value: {
-      Generic: Óra Orópa Rãjur tá,
-      Standard: Óra Pã Orópa Rãjur tá,
-      Daylight: Rỹ Kã óra Orópa Rãjur tá
-    }
-  },
-  {
-    Key: Europe/Minsk,
-    Value: {
-      Generic: Óra Mãnhkov tá,
-      Standard: Óra Pã Mãnhkov tá,
-      Daylight: Rỹ Kã óra Mãnhkov tá
-    }
-  },
-  {
-    Key: Europe/Monaco,
-    Value: {
-      Generic: Óra Orópa Kuju tá,
-      Standard: Óra Pã Orópa Kuju tá,
-      Daylight: Rỹ Kã óra Orópa Kuju tá
-    }
-  },
-  {
-    Key: Europe/Moscow,
-    Value: {
-      Generic: Óra kar Mãnhkov,
-      Standard: Óra pẽ Mãnhkov,
-      Daylight: Prỹg kã óra kar Mãnhkov
-    }
-  },
-  {
-    Key: Europe/Nicosia,
-    Value: {
-      Generic: Óra Orópa Rãjur tá,
-      Standard: Óra Pã Orópa Rãjur tá,
-      Daylight: Rỹ Kã óra Orópa Rãjur tá
-    }
-  },
-  {
-    Key: Europe/Oslo,
-    Value: {
-      Generic: Óra Orópa Kuju tá,
-      Standard: Óra Pã Orópa Kuju tá,
-      Daylight: Rỹ Kã óra Orópa Kuju tá
-    }
-  },
-  {
-    Key: Europe/Paris,
-    Value: {
-      Generic: Óra Orópa Kuju tá,
-      Standard: Óra Pã Orópa Kuju tá,
-      Daylight: Rỹ Kã óra Orópa Kuju tá
-    }
-  },
-  {
-    Key: Europe/Podgorica,
-    Value: {
-      Generic: Óra Orópa Kuju tá,
-      Standard: Óra Pã Orópa Kuju tá,
-      Daylight: Rỹ Kã óra Orópa Kuju tá
-    }
-  },
-  {
-    Key: Europe/Prague,
-    Value: {
-      Generic: Óra Orópa Kuju tá,
-      Standard: Óra Pã Orópa Kuju tá,
-      Daylight: Rỹ Kã óra Orópa Kuju tá
-    }
-  },
-  {
-    Key: Europe/Riga,
-    Value: {
-      Generic: Óra Orópa Rãjur tá,
-      Standard: Óra Pã Orópa Rãjur tá,
-      Daylight: Rỹ Kã óra Orópa Rãjur tá
-    }
-  },
-  {
-    Key: Europe/Rome,
-    Value: {
-      Generic: Óra Orópa Kuju tá,
-      Standard: Óra Pã Orópa Kuju tá,
-      Daylight: Rỹ Kã óra Orópa Kuju tá
-    }
-  },
-  {
-    Key: Europe/Samara,
-    Value: {
-      Generic: Óra kar Samỹra,
-      Standard: Óra pẽ Samỹra,
-      Daylight: Prỹg kã óra kar Samỹra
-    }
-  },
-  {
-    Key: Europe/San_Marino,
-    Value: {
-      Generic: Óra Orópa Kuju tá,
-      Standard: Óra Pã Orópa Kuju tá,
-      Daylight: Rỹ Kã óra Orópa Kuju tá
-    }
-  },
-  {
-    Key: Europe/Sarajevo,
-    Value: {
-      Generic: Óra Orópa Kuju tá,
-      Standard: Óra Pã Orópa Kuju tá,
-      Daylight: Rỹ Kã óra Orópa Kuju tá
-    }
-  },
-  {
-    Key: Europe/Saratov,
-    Value: {
-      Generic: Óra kar Saratóvi,
-      Standard: Óra pẽ Saratóvi,
-      Daylight: Prỹg kã óra kar Saratóvi
-    }
-  },
-  {
-    Key: Europe/Simferopol,
-    Value: {
-      Generic: Óra Mãnhkov tá,
-      Standard: Óra Pã Mãnhkov tá,
-      Daylight: Rỹ Kã óra Mãnhkov tá
-    }
-  },
-  {
-    Key: Europe/Skopje,
-    Value: {
-      Generic: Óra Orópa Kuju tá,
-      Standard: Óra Pã Orópa Kuju tá,
-      Daylight: Rỹ Kã óra Orópa Kuju tá
-    }
-  },
-  {
-    Key: Europe/Sofia,
-    Value: {
-      Generic: Óra Orópa Rãjur tá,
-      Standard: Óra Pã Orópa Rãjur tá,
-      Daylight: Rỹ Kã óra Orópa Rãjur tá
-    }
-  },
-  {
-    Key: Europe/Stockholm,
-    Value: {
-      Generic: Óra Orópa Kuju tá,
-      Standard: Óra Pã Orópa Kuju tá,
-      Daylight: Rỹ Kã óra Orópa Kuju tá
-    }
-  },
-  {
-    Key: Europe/Tallinn,
-    Value: {
-      Generic: Óra Orópa Rãjur tá,
-      Standard: Óra Pã Orópa Rãjur tá,
-      Daylight: Rỹ Kã óra Orópa Rãjur tá
-    }
-  },
-  {
-    Key: Europe/Tirane,
-    Value: {
-      Generic: Óra Orópa Kuju tá,
-      Standard: Óra Pã Orópa Kuju tá,
-      Daylight: Rỹ Kã óra Orópa Kuju tá
-    }
-  },
-  {
-    Key: Europe/Tiraspol,
-    Value: {
-      Generic: Óra Orópa Rãjur tá,
-      Standard: Óra Pã Orópa Rãjur tá,
-      Daylight: Rỹ Kã óra Orópa Rãjur tá
-    }
-  },
-  {
-    Key: Europe/Ulyanovsk,
-    Value: {
-      Generic: Óra kar Urijanãvinhki,
-      Standard: Óra pẽ Urijanãvinhki,
-      Daylight: Prỹg kã óra kar Urijanãvinhki
-    }
-  },
-  {
-    Key: Europe/Uzhgorod,
-    Value: {
-      Generic: Óra Orópa Rãjur tá,
-      Standard: Óra Pã Orópa Rãjur tá,
-      Daylight: Rỹ Kã óra Orópa Rãjur tá
-    }
-  },
-  {
-    Key: Europe/Vaduz,
-    Value: {
-      Generic: Óra Orópa Kuju tá,
-      Standard: Óra Pã Orópa Kuju tá,
-      Daylight: Rỹ Kã óra Orópa Kuju tá
-    }
-  },
-  {
-    Key: Europe/Vatican,
-    Value: {
-      Generic: Óra Orópa Kuju tá,
-      Standard: Óra Pã Orópa Kuju tá,
-      Daylight: Rỹ Kã óra Orópa Kuju tá
-    }
-  },
-  {
-    Key: Europe/Vienna,
-    Value: {
-      Generic: Óra Orópa Kuju tá,
-      Standard: Óra Pã Orópa Kuju tá,
-      Daylight: Rỹ Kã óra Orópa Kuju tá
-    }
-  },
-  {
-    Key: Europe/Vilnius,
-    Value: {
-      Generic: Óra Orópa Rãjur tá,
-      Standard: Óra Pã Orópa Rãjur tá,
-      Daylight: Rỹ Kã óra Orópa Rãjur tá
-    }
-  },
-  {
-    Key: Europe/Volgograd,
-    Value: {
-      Generic: Óra kar Vorgugrano,
-      Standard: Óra pẽ Vorgugrano,
-      Daylight: Prỹg kã óra kar Vorgugrano
-    }
-  },
-  {
-    Key: Europe/Warsaw,
-    Value: {
-      Generic: Óra Orópa Kuju tá,
-      Standard: Óra Pã Orópa Kuju tá,
-      Daylight: Rỹ Kã óra Orópa Kuju tá
-    }
-  },
-  {
-    Key: Europe/Zagreb,
-    Value: {
-      Generic: Óra Orópa Kuju tá,
-      Standard: Óra Pã Orópa Kuju tá,
-      Daylight: Rỹ Kã óra Orópa Kuju tá
-    }
-  },
-  {
-    Key: Europe/Zaporozhye,
-    Value: {
-      Generic: Óra Orópa Rãjur tá,
-      Standard: Óra Pã Orópa Rãjur tá,
-      Daylight: Rỹ Kã óra Orópa Rãjur tá
-    }
-  },
-  {
-    Key: Europe/Zurich,
-    Value: {
-      Generic: Óra Orópa Kuju tá,
-      Standard: Óra Pã Orópa Kuju tá,
-      Daylight: Rỹ Kã óra Orópa Kuju tá
-    }
-  },
-  {
-    Key: GB,
-    Value: {
-      Generic: Óra kar Rejnũ Unĩnu,
-      Standard: Óra Mirinjỹnũ Grinũvisi tá,
-      Daylight: Óra Mritỹnĩku Rỹ Kã
-    }
-  },
-  {
-    Key: GB-Eire,
-    Value: {
-      Generic: Óra kar Rejnũ Unĩnu,
-      Standard: Óra Mirinjỹnũ Grinũvisi tá,
-      Daylight: Óra Mritỹnĩku Rỹ Kã
-    }
-  },
-  {
-    Key: GMT,
-    Value: {
-      Generic: Óra Mirinjỹnũ Grinũvisi tá,
-      Standard: Óra Mirinjỹnũ Grinũvisi tá,
-      Daylight: Óra Mirinjỹnũ Grinũvisi tá
-    }
-  },
-  {
-    Key: GMT-0,
-    Value: {
-      Generic: Óra Mirinjỹnũ Grinũvisi tá,
-      Standard: Óra Mirinjỹnũ Grinũvisi tá,
-      Daylight: Óra Mirinjỹnũ Grinũvisi tá
-    }
-  },
-  {
-    Key: GMT+0,
-    Value: {
-      Generic: Óra Mirinjỹnũ Grinũvisi tá,
-      Standard: Óra Mirinjỹnũ Grinũvisi tá,
-      Daylight: Óra Mirinjỹnũ Grinũvisi tá
-    }
-  },
-  {
-    Key: GMT0,
-    Value: {
-      Generic: Óra Mirinjỹnũ Grinũvisi tá,
-      Standard: Óra Mirinjỹnũ Grinũvisi tá,
-      Daylight: Óra Mirinjỹnũ Grinũvisi tá
-    }
-  },
-  {
-    Key: Greenwich,
-    Value: {
-      Generic: Óra Mirinjỹnũ Grinũvisi tá,
-      Standard: Óra Mirinjỹnũ Grinũvisi tá,
-      Daylight: Óra Mirinjỹnũ Grinũvisi tá
-    }
-  },
-  {
-    Key: Hongkong,
-    Value: {
-      Generic: Óra Hãg Kãg tá,
-      Standard: Óra Pã Hãg Kãg tá,
-      Daylight: Rỹ Kã óra Hãg Kãg tá
-    }
-  },
-  {
-    Key: HST,
-    Value: {
-      Generic: Ga-kar Óra Vẽnh-krén-ja -10,
-      Standard: Ga-kar Óra Vẽnh-krén-ja -10,
-      Daylight: Ga-kar Óra Vẽnh-krén-ja -10
-    }
-  },
-  {
-    Key: Iceland,
-    Value: {
-      Generic: Óra Mirinjỹnũ Grinũvisi tá,
-      Standard: Óra Mirinjỹnũ Grinũvisi tá,
-      Daylight: Óra Mirinjỹnũ Grinũvisi tá
-    }
-  },
-  {
-    Key: Indian/Antananarivo,
-    Value: {
-      Generic: Afrika Rãjur tá óra,
-      Standard: Afrika Rãjur tá óra,
-      Daylight: Afrika Rãjur tá óra
-    }
-  },
-  {
-    Key: Indian/Chagos,
-    Value: {
-      Generic: Óra Osiỹno Ĩniko tá,
-      Standard: Óra Osiỹno Ĩniko tá,
-      Daylight: Óra Osiỹno Ĩniko tá
-    }
-  },
-  {
-    Key: Indian/Christmas,
-    Value: {
-      Generic: Óra Krĩtimỹnh Goj-vẽso tá,
-      Standard: Óra Krĩtimỹnh Goj-vẽso tá,
-      Daylight: Óra Krĩtimỹnh Goj-vẽso tá
-    }
-  },
-  {
-    Key: Indian/Cocos,
-    Value: {
-      Generic: Óra Kokonh Goj-vẽso tá,
-      Standard: Óra Kokonh Goj-vẽso tá,
-      Daylight: Óra Kokonh Goj-vẽso tá
-    }
-  },
-  {
-    Key: Indian/Comoro,
-    Value: {
-      Generic: Afrika Rãjur tá óra,
-      Standard: Afrika Rãjur tá óra,
-      Daylight: Afrika Rãjur tá óra
-    }
-  },
-  {
-    Key: Indian/Kerguelen,
-    Value: {
-      Generic: Óra Frỹsa Ga Sur kar Ỹtartina tá,
-      Standard: Óra Frỹsa Ga Sur kar Ỹtartina tá,
-      Daylight: Óra Frỹsa Ga Sur kar Ỹtartina tá
-    }
-  },
-  {
-    Key: Indian/Mahe,
-    Value: {
-      Generic: Óra Sejserenh tá,
-      Standard: Óra Sejserenh tá,
-      Daylight: Óra Sejserenh tá
-    }
-  },
-  {
-    Key: Indian/Maldives,
-    Value: {
-      Generic: Óra Goj Vẽso Mỹrniva tá,
-      Standard: Óra Goj Vẽso Mỹrniva tá,
-      Daylight: Óra Goj Vẽso Mỹrniva tá
-    }
-  },
-  {
-    Key: Indian/Mauritius,
-    Value: {
-      Generic: Óra Mãriso tá,
-      Standard: Óra Pã Mãriso tá,
-      Daylight: Rỹ Kã óra Mãriso tá
-    }
-  },
-  {
-    Key: Indian/Mayotte,
-    Value: {
-      Generic: Afrika Rãjur tá óra,
-      Standard: Afrika Rãjur tá óra,
-      Daylight: Afrika Rãjur tá óra
-    }
-  },
-  {
-    Key: Indian/Reunion,
-    Value: {
-      Generic: Óra Hujáv tá,
-      Standard: Óra Hujáv tá,
-      Daylight: Óra Hujáv tá
-    }
-  },
-  {
-    Key: Iran,
-    Value: {
-      Generic: Óra Irỹ tá,
-      Standard: Óra Pã Irỹ tá,
-      Daylight: Rỹ Kã óra Irỹ tá
-    }
-  },
-  {
-    Key: Israel,
-    Value: {
-      Generic: Óra Isihaé tá,
-      Standard: Óra Pã Isihaé tá,
-      Daylight: Rỹ Kã óra Isihaé tá
-    }
-  },
-  {
-    Key: Jamaica,
-    Value: {
-      Generic: Óra Rãjur tá,
-      Standard: Óra Pã Rãjur tá,
-      Daylight: Rỹ Kã óra Rãjur tá
-    }
-  },
-  {
-    Key: Japan,
-    Value: {
-      Generic: Óra Japã tá,
-      Standard: Óra Pã Japã tá,
-      Daylight: Rỹ Kã óra Japã tá
-    }
-  },
-  {
-    Key: Kwajalein,
-    Value: {
-      Generic: Óra MỹrSar Goj-vẽso tá,
-      Standard: Óra MỹrSar Goj-vẽso tá,
-      Daylight: Óra MỹrSar Goj-vẽso tá
-    }
-  },
-  {
-    Key: Libya,
-    Value: {
-      Generic: Óra Orópa Rãjur tá,
-      Standard: Óra Pã Orópa Rãjur tá,
-      Daylight: Rỹ Kã óra Orópa Rãjur tá
-    }
-  },
-  {
-    Key: MET,
-    Value: {
-      Generic: Óra Orópa Kuju tá,
-      Standard: Óra Pã Orópa Kuju tá,
-      Daylight: Rỹ Kã óra Orópa Kuju tá
-    }
-  },
-  {
-    Key: Mexico/BajaNorte,
-    Value: {
-      Generic: Óra Rãpur tá,
-      Standard: Óra Pã Rãpur tá,
-      Daylight: Rỹ Kã óra Rãpur tá
-    }
-  },
-  {
-    Key: Mexico/BajaSur,
-    Value: {
-      Generic: Óra Mẽsiku Pasifiku tá,
-      Standard: Óra Pã Mẽsiku Pasifiku tá,
-      Daylight: Rỹ Kã óra Mẽsiku Pasifiku tá
-    }
-  },
-  {
-    Key: Mexico/General,
-    Value: {
-      Generic: Kuju tá óra,
-      Standard: Óra Pã Kuju tá,
-      Daylight: Rỹ Kã óra Kuju tá
-    }
-  },
-  {
-    Key: MST,
-    Value: {
-      Generic: Ga-kar Óra Vẽnh-krén-ja -7,
-      Standard: Ga-kar Óra Vẽnh-krén-ja -7,
-      Daylight: Ga-kar Óra Vẽnh-krén-ja -7
-    }
-  },
-  {
-    Key: MST7MDT,
-    Value: {
-      Generic: Óra Krĩ tá,
-      Standard: Óra Pã Krĩ tá,
-      Daylight: Rỹ Kã óra Krĩ tá
-    }
-  },
-  {
-    Key: Navajo,
-    Value: {
-      Generic: Óra Krĩ tá,
-      Standard: Óra Pã Krĩ tá,
-      Daylight: Rỹ Kã óra Krĩ tá
-    }
-  },
-  {
-    Key: NZ,
-    Value: {
-      Generic: Óra Jerỹnija Tãg tá,
-      Standard: Óra Pã Jerỹnija Tãg tá,
-      Daylight: Rỹ Kã óra Jerỹnija Tãg tá
-    }
-  },
-  {
-    Key: NZ-CHAT,
-    Value: {
-      Generic: Óra San-hỹm tá,
-      Standard: Óra Pã San-hỹm tá,
-      Daylight: Rỹ Kã óra San-hỹm tá
-    }
-  },
-  {
-    Key: Pacific/Apia,
-    Value: {
-      Generic: Óra Apija tá,
-      Standard: Óra Pã Apija tá,
-      Daylight: Rỹ Kã óra Apija tá
-    }
-  },
-  {
-    Key: Pacific/Auckland,
-    Value: {
-      Generic: Óra Jerỹnija Tãg tá,
-      Standard: Óra Pã Jerỹnija Tãg tá,
-      Daylight: Rỹ Kã óra Jerỹnija Tãg tá
-    }
-  },
-  {
-    Key: Pacific/Bougainville,
-    Value: {
-      Generic: Óra Papuva-Ginẽ Tãg tá,
-      Standard: Óra Papuva-Ginẽ Tãg tá,
-      Daylight: Óra Papuva-Ginẽ Tãg tá
-    }
-  },
-  {
-    Key: Pacific/Chatham,
-    Value: {
-      Generic: Óra San-hỹm tá,
-      Standard: Óra Pã San-hỹm tá,
-      Daylight: Rỹ Kã óra San-hỹm tá
-    }
-  },
-  {
-    Key: Pacific/Chuuk,
-    Value: {
-      Generic: Óra Suuki tá,
-      Standard: Óra Suuki tá,
-      Daylight: Óra Suuki tá
-    }
-  },
-  {
-    Key: Pacific/Easter,
-    Value: {
-      Generic: Óra Panhkuva Goj-vẽso tá,
-      Standard: Óra Pã Panhkuva Goj-vẽso tá,
-      Daylight: Rỹ Kã óra Panhkuva Goj-vẽso tá
-    }
-  },
-  {
-    Key: Pacific/Efate,
-    Value: {
-      Generic: Óra Vanũvatu tá,
-      Standard: Óra Pã Vanũvatu tá,
-      Daylight: Rỹ Kã óra Vanũvatu tá
-    }
-  },
-  {
-    Key: Pacific/Enderbury,
-    Value: {
-      Generic: Óra Fẽnĩg Goj-vẽso tá,
-      Standard: Óra Fẽnĩg Goj-vẽso tá,
-      Daylight: Óra Fẽnĩg Goj-vẽso tá
-    }
-  },
-  {
-    Key: Pacific/Fakaofo,
-    Value: {
-      Generic: Óra Tokeravu tá,
-      Standard: Óra Tokeravu tá,
-      Daylight: Óra Tokeravu tá
-    }
-  },
-  {
-    Key: Pacific/Fiji,
-    Value: {
-      Generic: Óra Fiji tá,
-      Standard: Óra Pã Fiji tá,
-      Daylight: Rỹ Kã óra Fiji tá
-    }
-  },
-  {
-    Key: Pacific/Funafuti,
-    Value: {
-      Generic: Óra Tuvaru tá,
-      Standard: Óra Tuvaru tá,
-      Daylight: Óra Tuvaru tá
-    }
-  },
-  {
-    Key: Pacific/Galapagos,
-    Value: {
-      Generic: Óra Gara Pago tá,
-      Standard: Óra Gara Pago tá,
-      Daylight: Óra Gara Pago tá
-    }
-  },
-  {
-    Key: Pacific/Gambier,
-    Value: {
-      Generic: Óra Gỹmmijer,
-      Standard: Óra Gỹmmijer,
-      Daylight: Óra Gỹmmijer
-    }
-  },
-  {
-    Key: Pacific/Guadalcanal,
-    Value: {
-      Generic: Óra Saromỹv Goj-vẽso tá,
-      Standard: Óra Saromỹv Goj-vẽso tá,
-      Daylight: Óra Saromỹv Goj-vẽso tá
-    }
-  },
-  {
-    Key: Pacific/Guam,
-    Value: {
-      Generic: Óra Samãho tá,
-      Standard: Óra Samãho tá,
-      Daylight: Óra Samãho tá
-    }
-  },
-  {
-    Key: Pacific/Honolulu,
-    Value: {
-      Generic: Óra Hava’i kar Arevta Goj-vẽso tá,
-      Standard: Óra Pã Hava’i kar Arevta Goj-vẽso tá,
-      Daylight: Rỹ kã óra Hava’i kar Arevta Goj-vẽso tá
-    }
-  },
-  {
-    Key: Pacific/Johnston,
-    Value: {
-      Generic: Óra Hava’i kar Arevta Goj-vẽso tá,
-      Standard: Óra Pã Hava’i kar Arevta Goj-vẽso tá,
-      Daylight: Rỹ kã óra Hava’i kar Arevta Goj-vẽso tá
-    }
-  },
-  {
-    Key: Pacific/Kanton,
-    Value: {
-      Generic: Óra Fẽnĩg Goj-vẽso tá,
-      Standard: Óra Fẽnĩg Goj-vẽso tá,
-      Daylight: Óra Fẽnĩg Goj-vẽso tá
-    }
-  },
-  {
-    Key: Pacific/Kiritimati,
-    Value: {
-      Generic: Óra Vãfe Goj-vẽso tỹ tá,
-      Standard: Óra Vãfe Goj-vẽso tỹ tá,
-      Daylight: Óra Vãfe Goj-vẽso tỹ tá
-    }
-  },
-  {
-    Key: Pacific/Kosrae,
-    Value: {
-      Generic: Óra de Kosiraje tá,
-      Standard: Óra de Kosiraje tá,
-      Daylight: Óra de Kosiraje tá
-    }
-  },
-  {
-    Key: Pacific/Kwajalein,
-    Value: {
-      Generic: Óra MỹrSar Goj-vẽso tá,
-      Standard: Óra MỹrSar Goj-vẽso tá,
-      Daylight: Óra MỹrSar Goj-vẽso tá
-    }
-  },
-  {
-    Key: Pacific/Majuro,
-    Value: {
-      Generic: Óra MỹrSar Goj-vẽso tá,
-      Standard: Óra MỹrSar Goj-vẽso tá,
-      Daylight: Óra MỹrSar Goj-vẽso tá
-    }
-  },
-  {
-    Key: Pacific/Marquesas,
-    Value: {
-      Generic: Óra Mỹrkeja Fag tá,
-      Standard: Óra Mỹrkeja Fag tá,
-      Daylight: Óra Mỹrkeja Fag tá
-    }
-  },
-  {
-    Key: Pacific/Midway,
-    Value: {
-      Generic: Óra Samãva tá,
-      Standard: Óra Pã Samãva tá,
-      Daylight: Rỹ Kã óra Samãva tá
-    }
-  },
-  {
-    Key: Pacific/Nauru,
-    Value: {
-      Generic: Óra Nỹvuru tá,
-      Standard: Óra Nỹvuru tá,
-      Daylight: Óra Nỹvuru tá
-    }
-  },
-  {
-    Key: Pacific/Niue,
-    Value: {
-      Generic: Óra Nĩve tá,
-      Standard: Óra Nĩve tá,
-      Daylight: Óra Nĩve tá
-    }
-  },
-  {
-    Key: Pacific/Norfolk,
-    Value: {
-      Generic: Óra Nãrforki Goj-vẽso tá,
-      Standard: Óra Pã Nãrforki Goj-vẽso tá,
-      Daylight: Rỹ Kã óra Nãrforki Goj-vẽso tá
-    }
-  },
-  {
-    Key: Pacific/Noumea,
-    Value: {
-      Generic: Óra Karenonĩja Tãg tá,
-      Standard: Óra Pã Karenonĩja Tãg tá,
-      Daylight: Rỹ Kã óra Karenonĩja Tãg tá
-    }
-  },
-  {
-    Key: Pacific/Pago_Pago,
-    Value: {
-      Generic: Óra Samãva tá,
-      Standard: Óra Pã Samãva tá,
-      Daylight: Rỹ Kã óra Samãva tá
-    }
-  },
-  {
-    Key: Pacific/Palau,
-    Value: {
-      Generic: Óra Paravu tá,
-      Standard: Óra Paravu tá,
-      Daylight: Óra Paravu tá
-    }
-  },
-  {
-    Key: Pacific/Pitcairn,
-    Value: {
-      Generic: Óra Pinkajir Goj-vẽso tá,
-      Standard: Óra Pinkajir Goj-vẽso tá,
-      Daylight: Óra Pinkajir Goj-vẽso tá
-    }
-  },
-  {
-    Key: Pacific/Pohnpei,
-    Value: {
-      Generic: Óra Ponỹpe tá,
-      Standard: Óra Ponỹpe tá,
-      Daylight: Óra Ponỹpe tá
-    }
-  },
-  {
-    Key: Pacific/Ponape,
-    Value: {
-      Generic: Óra Ponỹpe tá,
-      Standard: Óra Ponỹpe tá,
-      Daylight: Óra Ponỹpe tá
-    }
-  },
-  {
-    Key: Pacific/Port_Moresby,
-    Value: {
-      Generic: Óra Papuva-Ginẽ Tãg tá,
-      Standard: Óra Papuva-Ginẽ Tãg tá,
-      Daylight: Óra Papuva-Ginẽ Tãg tá
-    }
-  },
-  {
-    Key: Pacific/Rarotonga,
-    Value: {
-      Generic: Óra Kuki Goj-vẽso tá,
-      Standard: Óra Pã Kuki Goj-vẽso tá,
-      Daylight: Rỹ Kã óra Kuki Goj-vẽso tá
-    }
-  },
-  {
-    Key: Pacific/Saipan,
-    Value: {
-      Generic: Óra Samãho tá,
-      Standard: Óra Samãho tá,
-      Daylight: Óra Samãho tá
-    }
-  },
-  {
-    Key: Pacific/Samoa,
-    Value: {
-      Generic: Óra Samãva tá,
-      Standard: Óra Pã Samãva tá,
-      Daylight: Rỹ Kã óra Samãva tá
-    }
-  },
-  {
-    Key: Pacific/Tahiti,
-    Value: {
-      Generic: Óra Tajti tá,
-      Standard: Óra Tajti tá,
-      Daylight: Óra Tajti tá
-    }
-  },
-  {
-    Key: Pacific/Tarawa,
-    Value: {
-      Generic: Óra Jirmértu Goj-vẽso tá,
-      Standard: Óra Jirmértu Goj-vẽso tá,
-      Daylight: Óra Jirmértu Goj-vẽso tá
-    }
-  },
-  {
-    Key: Pacific/Tongatapu,
-    Value: {
-      Generic: Óra Tãga tá,
-      Standard: Óra Pã Tãga tá,
-      Daylight: Rỹ Kã óra Tãga tá
-    }
-  },
-  {
-    Key: Pacific/Truk,
-    Value: {
-      Generic: Óra Suuki tá,
-      Standard: Óra Suuki tá,
-      Daylight: Óra Suuki tá
-    }
-  },
-  {
-    Key: Pacific/Wake,
-    Value: {
-      Generic: Óra Vejki Goj-vẽso tá,
-      Standard: Óra Vejki Goj-vẽso tá,
-      Daylight: Óra Vejki Goj-vẽso tá
-    }
-  },
-  {
-    Key: Pacific/Wallis,
-    Value: {
-      Generic: Óra Varinh kar Futunỹ tá,
-      Standard: Óra Varinh kar Futunỹ tá,
-      Daylight: Óra Varinh kar Futunỹ tá
-    }
-  },
-  {
-    Key: Pacific/Yap,
-    Value: {
-      Generic: Óra Suuki tá,
-      Standard: Óra Suuki tá,
-      Daylight: Óra Suuki tá
-    }
-  },
-  {
-    Key: Poland,
-    Value: {
-      Generic: Óra Orópa Kuju tá,
-      Standard: Óra Pã Orópa Kuju tá,
-      Daylight: Rỹ Kã óra Orópa Kuju tá
-    }
-  },
-  {
-    Key: Portugal,
-    Value: {
-      Generic: Óra Orópa Rãpur tá,
-      Standard: Óra Pã Orópa Rãpur tá,
-      Daylight: Rỹ Kã óra Orópa Rãpur tá
-    }
-  },
-  {
-    Key: PRC,
-    Value: {
-      Generic: Óra Sĩnỹ tá,
-      Standard: Óra Pã Sĩnỹ tá,
-      Daylight: Rỹ Kã óra Sĩnỹ tá
-    }
-  },
-  {
-    Key: PST8PDT,
-    Value: {
-      Generic: Óra Rãpur tá,
-      Standard: Óra Pã Rãpur tá,
-      Daylight: Rỹ Kã óra Rãpur tá
-    }
-  },
-  {
-    Key: ROC,
-    Value: {
-      Generic: Óra Tajpej tá,
-      Standard: Óra Pã Tajpej tá,
-      Daylight: Rỹ Kã óra Tajpej tá
-    }
-  },
-  {
-    Key: ROK,
-    Value: {
-      Generic: Óra Koréja tá,
-      Standard: Óra Pã Koréja tá,
-      Daylight: Rỹ Kã óra Koréja tá
-    }
-  },
-  {
-    Key: Singapore,
-    Value: {
-      Generic: Óra Pã Sĩgapura tá,
-      Standard: Óra Pã Sĩgapura tá,
-      Daylight: Óra Pã Sĩgapura tá
-    }
-  },
-  {
-    Key: Turkey,
-    Value: {
-      Generic: Óra kar Turkija,
-      Standard: Óra pẽ Turkija,
-      Daylight: Prỹg kã óra kar Turkija
-    }
-  },
-  {
-    Key: UCT,
-    Value: {
-      Generic: Ga-kar Óra Vẽnh-krén-ja,
-      Standard: Ga-kar Óra Vẽnh-krén-ja,
-      Daylight: Ga-kar Óra Vẽnh-krén-ja
-    }
-  },
-  {
-    Key: Universal,
-    Value: {
-      Generic: Ga-kar Óra Vẽnh-krén-ja,
-      Standard: Ga-kar Óra Vẽnh-krén-ja,
-      Daylight: Ga-kar Óra Vẽnh-krén-ja
-    }
-  },
-  {
-    Key: US/Alaska,
-    Value: {
-      Generic: Aranhka tá óra,
-      Standard: Óra Pã Aranhka tá,
-      Daylight: Rỹ Kã óra Aranhka tá
-    }
-  },
-  {
-    Key: US/Aleutian,
-    Value: {
-      Generic: Óra Hava’i kar Arevta Goj-vẽso tá,
-      Standard: Óra Pã Hava’i kar Arevta Goj-vẽso tá,
-      Daylight: Rỹ kã óra Hava’i kar Arevta Goj-vẽso tá
-    }
-  },
-  {
-    Key: US/Arizona,
-    Value: {
-      Generic: Óra Krĩ tá,
-      Standard: Óra Pã Krĩ tá,
-      Daylight: Rỹ Kã óra Krĩ tá
-    }
-  },
-  {
-    Key: US/Central,
-    Value: {
-      Generic: Kuju tá óra,
-      Standard: Óra Pã Kuju tá,
-      Daylight: Rỹ Kã óra Kuju tá
-    }
-  },
-  {
-    Key: US/East-Indiana,
-    Value: {
-      Generic: Óra Rãjur tá,
-      Standard: Óra Pã Rãjur tá,
-      Daylight: Rỹ Kã óra Rãjur tá
-    }
-  },
-  {
-    Key: US/Eastern,
-    Value: {
-      Generic: Óra Rãjur tá,
-      Standard: Óra Pã Rãjur tá,
-      Daylight: Rỹ Kã óra Rãjur tá
-    }
-  },
-  {
-    Key: US/Hawaii,
-    Value: {
-      Generic: Óra Hava’i kar Arevta Goj-vẽso tá,
-      Standard: Óra Pã Hava’i kar Arevta Goj-vẽso tá,
-      Daylight: Rỹ kã óra Hava’i kar Arevta Goj-vẽso tá
-    }
-  },
-  {
-    Key: US/Indiana-Starke,
-    Value: {
-      Generic: Kuju tá óra,
-      Standard: Óra Pã Kuju tá,
-      Daylight: Rỹ Kã óra Kuju tá
-    }
-  },
-  {
-    Key: US/Michigan,
-    Value: {
-      Generic: Óra Rãjur tá,
-      Standard: Óra Pã Rãjur tá,
-      Daylight: Rỹ Kã óra Rãjur tá
-    }
-  },
-  {
-    Key: US/Mountain,
-    Value: {
-      Generic: Óra Krĩ tá,
-      Standard: Óra Pã Krĩ tá,
-      Daylight: Rỹ Kã óra Krĩ tá
-    }
-  },
-  {
-    Key: US/Pacific,
-    Value: {
-      Generic: Óra Rãpur tá,
-      Standard: Óra Pã Rãpur tá,
-      Daylight: Rỹ Kã óra Rãpur tá
-    }
-  },
-  {
-    Key: US/Samoa,
-    Value: {
-      Generic: Óra Samãva tá,
-      Standard: Óra Pã Samãva tá,
-      Daylight: Rỹ Kã óra Samãva tá
-    }
-  },
-  {
-    Key: UTC,
-    Value: {
-      Generic: Ga-kar Óra Vẽnh-krén-ja,
-      Standard: Ga-kar Óra Vẽnh-krén-ja,
-      Daylight: Ga-kar Óra Vẽnh-krén-ja
-    }
-  },
-  {
-    Key: W-SU,
-    Value: {
-      Generic: Óra kar Mãnhkov,
-      Standard: Óra pẽ Mãnhkov,
-      Daylight: Prỹg kã óra kar Mãnhkov
-    }
-  },
-  {
-    Key: WET,
-    Value: {
-      Generic: Óra Orópa Rãpur tá,
-      Standard: Óra Pã Orópa Rãpur tá,
-      Daylight: Rỹ Kã óra Orópa Rãpur tá
-    }
-  },
-  {
-    Key: Zulu,
-    Value: {
-      Generic: Ga-kar Óra Vẽnh-krén-ja,
-      Standard: Ga-kar Óra Vẽnh-krén-ja,
-      Daylight: Ga-kar Óra Vẽnh-krén-ja
-    }
+﻿{
+  Australia/Darwin: {
+    Generic: Óra Avotyraria Kuju tá,
+    Standard: Óra Pã Avotyraria Kuju tá,
+    Daylight: Rỹ Kã óra Avotyraria Kuju tá
+  },
+  Australia/Sydney: {
+    Generic: Óra Avotyraria Rãjur tá,
+    Standard: Óra Pã Avotyraria Rãjur tá,
+    Daylight: Rỹ Kã óra Avotyraria Rãjur tá
+  },
+  Australia/Melbourne: {
+    Generic: Óra Avotyraria Rãjur tá,
+    Standard: Óra Pã Avotyraria Rãjur tá,
+    Daylight: Rỹ Kã óra Avotyraria Rãjur tá
+  },
+  Asia/Kabul: {
+    Generic: Afeganĩtã tá óra,
+    Standard: Afeganĩtã tá óra,
+    Daylight: Afeganĩtã tá óra
+  },
+  America/Anchorage: {
+    Generic: Aranhka tá óra,
+    Standard: Óra Pã Aranhka tá,
+    Daylight: Rỹ Kã óra Aranhka tá
+  },
+  America/Juneau: {
+    Generic: Aranhka tá óra,
+    Standard: Óra Pã Aranhka tá,
+    Daylight: Rỹ Kã óra Aranhka tá
+  },
+  America/Metlakatla: {
+    Generic: Aranhka tá óra,
+    Standard: Óra Pã Aranhka tá,
+    Daylight: Rỹ Kã óra Aranhka tá
+  },
+  America/Nome: {
+    Generic: Aranhka tá óra,
+    Standard: Óra Pã Aranhka tá,
+    Daylight: Rỹ Kã óra Aranhka tá
+  },
+  America/Sitka: {
+    Generic: Aranhka tá óra,
+    Standard: Óra Pã Aranhka tá,
+    Daylight: Rỹ Kã óra Aranhka tá
+  },
+  America/Yakutat: {
+    Generic: Aranhka tá óra,
+    Standard: Óra Pã Aranhka tá,
+    Daylight: Rỹ Kã óra Aranhka tá
+  },
+  America/Adak: {
+    Generic: Óra Hava’i kar Arevta Goj-vẽso tá,
+    Standard: Óra Pã Hava’i kar Arevta Goj-vẽso tá,
+    Daylight: Rỹ kã óra Hava’i kar Arevta Goj-vẽso tá
+  },
+  Asia/Barnaul: {
+    Generic: Óra kar Marnỹur,
+    Standard: Óra pẽ Marnỹur,
+    Daylight: Prỹg kã óra kar Marnỹur
+  },
+  Asia/Riyadh: {
+    Generic: Óra Aramija tá,
+    Standard: Óra Pã Aramija tá,
+    Daylight: Rỹ Kã óra Aramija tá
+  },
+  Asia/Bahrain: {
+    Generic: Óra Aramija tá,
+    Standard: Óra Pã Aramija tá,
+    Daylight: Rỹ Kã óra Aramija tá
+  },
+  Asia/Kuwait: {
+    Generic: Óra Aramija tá,
+    Standard: Óra Pã Aramija tá,
+    Daylight: Rỹ Kã óra Aramija tá
+  },
+  Asia/Qatar: {
+    Generic: Óra Aramija tá,
+    Standard: Óra Pã Aramija tá,
+    Daylight: Rỹ Kã óra Aramija tá
+  },
+  Asia/Aden: {
+    Generic: Óra Aramija tá,
+    Standard: Óra Pã Aramija tá,
+    Daylight: Rỹ Kã óra Aramija tá
+  },
+  Asia/Dubai: {
+    Generic: Óra Gorfu tá,
+    Standard: Óra Gorfu tá,
+    Daylight: Óra Gorfu tá
+  },
+  Asia/Muscat: {
+    Generic: Óra Gorfu tá,
+    Standard: Óra Gorfu tá,
+    Daylight: Óra Gorfu tá
+  },
+  Etc/GMT-4: {
+    Generic: Ga-kar Óra Vẽnh-krén-ja +4,
+    Standard: Ga-kar Óra Vẽnh-krén-ja +4,
+    Daylight: Ga-kar Óra Vẽnh-krén-ja +4
+  },
+  Asia/Baghdad: {
+    Generic: Óra Aramija tá,
+    Standard: Óra Pã Aramija tá,
+    Daylight: Rỹ Kã óra Aramija tá
+  },
+  America/Buenos_Aires: {
+    Generic: Óra Arjẽtĩnỹ tá,
+    Standard: Óra Opã Arjẽtĩnỹ tá,
+    Daylight: Rỹ Kã óra Arjẽtĩnỹ tá
+  },
+  America/Argentina/La_Rioja: {
+    Generic: Óra Arjẽtĩnỹ tá,
+    Standard: Óra Opã Arjẽtĩnỹ tá,
+    Daylight: Rỹ Kã óra Arjẽtĩnỹ tá
+  },
+  America/Argentina/Rio_Gallegos: {
+    Generic: Óra Arjẽtĩnỹ tá,
+    Standard: Óra Opã Arjẽtĩnỹ tá,
+    Daylight: Rỹ Kã óra Arjẽtĩnỹ tá
+  },
+  America/Argentina/Salta: {
+    Generic: Óra Arjẽtĩnỹ tá,
+    Standard: Óra Opã Arjẽtĩnỹ tá,
+    Daylight: Rỹ Kã óra Arjẽtĩnỹ tá
+  },
+  America/Argentina/San_Juan: {
+    Generic: Óra Arjẽtĩnỹ tá,
+    Standard: Óra Opã Arjẽtĩnỹ tá,
+    Daylight: Rỹ Kã óra Arjẽtĩnỹ tá
+  },
+  America/Argentina/San_Luis: {
+    Generic: Óra Arjẽtĩnỹ tá,
+    Standard: Óra Opã Arjẽtĩnỹ tá,
+    Daylight: Rỹ Kã óra Arjẽtĩnỹ tá
+  },
+  America/Argentina/Tucuman: {
+    Generic: Óra Arjẽtĩnỹ tá,
+    Standard: Óra Opã Arjẽtĩnỹ tá,
+    Daylight: Rỹ Kã óra Arjẽtĩnỹ tá
+  },
+  America/Argentina/Ushuaia: {
+    Generic: Óra Arjẽtĩnỹ tá,
+    Standard: Óra Opã Arjẽtĩnỹ tá,
+    Daylight: Rỹ Kã óra Arjẽtĩnỹ tá
+  },
+  America/Catamarca: {
+    Generic: Óra Arjẽtĩnỹ tá,
+    Standard: Óra Opã Arjẽtĩnỹ tá,
+    Daylight: Rỹ Kã óra Arjẽtĩnỹ tá
+  },
+  America/Cordoba: {
+    Generic: Óra Arjẽtĩnỹ tá,
+    Standard: Óra Opã Arjẽtĩnỹ tá,
+    Daylight: Rỹ Kã óra Arjẽtĩnỹ tá
+  },
+  America/Jujuy: {
+    Generic: Óra Arjẽtĩnỹ tá,
+    Standard: Óra Opã Arjẽtĩnỹ tá,
+    Daylight: Rỹ Kã óra Arjẽtĩnỹ tá
+  },
+  America/Mendoza: {
+    Generic: Óra Arjẽtĩnỹ tá,
+    Standard: Óra Opã Arjẽtĩnỹ tá,
+    Daylight: Rỹ Kã óra Arjẽtĩnỹ tá
+  },
+  Europe/Astrakhan: {
+    Generic: Óra kar Anhtakỹ,
+    Standard: Óra pẽ Anhtakỹ,
+    Daylight: Prỹg kã óra kar Anhtakỹ
+  },
+  Europe/Ulyanovsk: {
+    Generic: Óra kar Urijanãvinhki,
+    Standard: Óra pẽ Urijanãvinhki,
+    Daylight: Prỹg kã óra kar Urijanãvinhki
+  },
+  America/Halifax: {
+    Generic: Óra Atrỹtiku tá,
+    Standard: Óra Pã Atrỹtiku tá,
+    Daylight: Rỹ Kã óra Atrỹtiku tá
+  },
+  Atlantic/Bermuda: {
+    Generic: Óra Atrỹtiku tá,
+    Standard: Óra Pã Atrỹtiku tá,
+    Daylight: Rỹ Kã óra Atrỹtiku tá
+  },
+  America/Glace_Bay: {
+    Generic: Óra Atrỹtiku tá,
+    Standard: Óra Pã Atrỹtiku tá,
+    Daylight: Rỹ Kã óra Atrỹtiku tá
+  },
+  America/Goose_Bay: {
+    Generic: Óra Atrỹtiku tá,
+    Standard: Óra Pã Atrỹtiku tá,
+    Daylight: Rỹ Kã óra Atrỹtiku tá
+  },
+  America/Moncton: {
+    Generic: Óra Atrỹtiku tá,
+    Standard: Óra Pã Atrỹtiku tá,
+    Daylight: Rỹ Kã óra Atrỹtiku tá
+  },
+  America/Thule: {
+    Generic: Óra Atrỹtiku tá,
+    Standard: Óra Pã Atrỹtiku tá,
+    Daylight: Rỹ Kã óra Atrỹtiku tá
+  },
+  Australia/Eucla: {
+    Generic: Óra Avotyaria Kuju-Rãpur tá,
+    Standard: Óra Pã Avotyraria Kuju-Rãpur tá,
+    Daylight: Rỹ Kã óra Avotyraria Kuju-Rãpur tá
+  },
+  Asia/Baku: {
+    Generic: Óra Ajermajjáv tá,
+    Standard: Óra Pã Ajermajjáv tá,
+    Daylight: Rỹ Kã óra Ajermajjáv tá
+  },
+  Atlantic/Azores: {
+    Generic: Óra Asor-ag tá,
+    Standard: Óra Pã Asor-ag tá,
+    Daylight: Rỹ Kã óra Aso-ag tá
+  },
+  America/Scoresbysund: {
+    Generic: Óra Groẽrỹnija Rãjur tá,
+    Standard: Óra Pã Groẽrỹnija Rãjur tá,
+    Daylight: Rỹ Kã óra Groẽrỹnija Rãjur tá
+  },
+  America/Bahia: {
+    Generic: Óra Mrasirja tá,
+    Standard: Óra Pã Mrasirja tá,
+    Daylight: Rỹ Kã óra Mrasirja tá
+  },
+  Asia/Dhaka: {
+    Generic: Óra Mỹngranési tá,
+    Standard: Óra Pã Mỹngranési tá,
+    Daylight: Rỹ Kã óra Mỹngranési tá
+  },
+  Asia/Thimphu: {
+    Generic: Óra Mutỹv tá,
+    Standard: Óra Mutỹv tá,
+    Daylight: Óra Mutỹv tá
+  },
+  Europe/Minsk: {
+    Generic: Óra Mãnhkov tá,
+    Standard: Óra Pã Mãnhkov tá,
+    Daylight: Rỹ Kã óra Mãnhkov tá
+  },
+  Pacific/Bougainville: {
+    Generic: Óra Papuva-Ginẽ Tãg tá,
+    Standard: Óra Papuva-Ginẽ Tãg tá,
+    Daylight: Óra Papuva-Ginẽ Tãg tá
+  },
+  America/Regina: {
+    Generic: Kuju tá óra,
+    Standard: Óra Pã Kuju tá,
+    Daylight: Rỹ Kã óra Kuju tá
+  },
+  America/Swift_Current: {
+    Generic: Kuju tá óra,
+    Standard: Óra Pã Kuju tá,
+    Daylight: Rỹ Kã óra Kuju tá
+  },
+  Atlantic/Cape_Verde: {
+    Generic: Óra Pu Tánh tá,
+    Standard: Óra Pã Pu Tánh tá,
+    Daylight: Rỹ Kã óra Pu tánh tá
+  },
+  Etc/GMT+1: {
+    Generic: Ga-kar Óra Vẽnh-krén-ja -1,
+    Standard: Ga-kar Óra Vẽnh-krén-ja -1,
+    Daylight: Ga-kar Óra Vẽnh-krén-ja -1
+  },
+  Asia/Yerevan: {
+    Generic: Óra Armẽnĩja tá,
+    Standard: Óra Pã Armẽnĩja tá,
+    Daylight: Rỹ Kã óra Armẽnĩja tá
+  },
+  Australia/Adelaide: {
+    Generic: Óra Avotyraria Kuju tá,
+    Standard: Óra Pã Avotyraria Kuju tá,
+    Daylight: Rỹ Kã óra Avotyraria Kuju tá
+  },
+  Australia/Broken_Hill: {
+    Generic: Óra Avotyraria Kuju tá,
+    Standard: Óra Pã Avotyraria Kuju tá,
+    Daylight: Rỹ Kã óra Avotyraria Kuju tá
+  },
+  America/Guatemala: {
+    Generic: Kuju tá óra,
+    Standard: Óra Pã Kuju tá,
+    Daylight: Rỹ Kã óra Kuju tá
+  },
+  America/Belize: {
+    Generic: Kuju tá óra,
+    Standard: Óra Pã Kuju tá,
+    Daylight: Rỹ Kã óra Kuju tá
+  },
+  America/Costa_Rica: {
+    Generic: Kuju tá óra,
+    Standard: Óra Pã Kuju tá,
+    Daylight: Rỹ Kã óra Kuju tá
+  },
+  Pacific/Galapagos: {
+    Generic: Óra Gara Pago tá,
+    Standard: Óra Gara Pago tá,
+    Daylight: Óra Gara Pago tá
+  },
+  America/Tegucigalpa: {
+    Generic: Kuju tá óra,
+    Standard: Óra Pã Kuju tá,
+    Daylight: Rỹ Kã óra Kuju tá
+  },
+  America/Managua: {
+    Generic: Kuju tá óra,
+    Standard: Óra Pã Kuju tá,
+    Daylight: Rỹ Kã óra Kuju tá
+  },
+  America/El_Salvador: {
+    Generic: Kuju tá óra,
+    Standard: Óra Pã Kuju tá,
+    Daylight: Rỹ Kã óra Kuju tá
+  },
+  Etc/GMT+6: {
+    Generic: Ga-kar Óra Vẽnh-krén-ja -6,
+    Standard: Ga-kar Óra Vẽnh-krén-ja -6,
+    Daylight: Ga-kar Óra Vẽnh-krén-ja -6
+  },
+  Asia/Almaty: {
+    Generic: Óra Kajakinhtỹv Rãjur tá,
+    Standard: Óra Kajakinhtỹv Rãjur tá,
+    Daylight: Óra Kajakinhtỹv Rãjur tá
+  },
+  Antarctica/Vostok: {
+    Generic: Óra Vonhtóki tá,
+    Standard: Óra Vonhtóki tá,
+    Daylight: Óra Vonhtóki tá
+  },
+  Asia/Urumqi: {
+    Generic: Óra kar Sĩnỹ,
+    Standard: Óra pẽ Sĩnỹ,
+    Daylight: Prỹg kã óra kar Sĩnỹ
+  },
+  Indian/Chagos: {
+    Generic: Óra Osiỹno Ĩniko tá,
+    Standard: Óra Osiỹno Ĩniko tá,
+    Daylight: Óra Osiỹno Ĩniko tá
+  },
+  Asia/Bishkek: {
+    Generic: Óra Kirginhtỹv tá,
+    Standard: Óra Kirginhtỹv tá,
+    Daylight: Óra Kirginhtỹv tá
+  },
+  Asia/Qostanay: {
+    Generic: Óra Kajakinhtỹv Rãjur tá,
+    Standard: Óra Kajakinhtỹv Rãjur tá,
+    Daylight: Óra Kajakinhtỹv Rãjur tá
+  },
+  Etc/GMT-6: {
+    Generic: Ga-kar Óra Vẽnh-krén-ja +6,
+    Standard: Ga-kar Óra Vẽnh-krén-ja +6,
+    Daylight: Ga-kar Óra Vẽnh-krén-ja +6
+  },
+  America/Cuiaba: {
+    Generic: Amỹjonỹ tá óra,
+    Standard: Óra Pã Amỹjonỹ tá,
+    Daylight: Rỹ Kã óra Amỹjonỹ tá
+  },
+  America/Campo_Grande: {
+    Generic: Amỹjonỹ tá óra,
+    Standard: Óra Pã Amỹjonỹ tá,
+    Daylight: Rỹ Kã óra Amỹjonỹ tá
+  },
+  Europe/Budapest: {
+    Generic: Óra Orópa Kuju tá,
+    Standard: Óra Pã Orópa Kuju tá,
+    Daylight: Rỹ Kã óra Orópa Kuju tá
+  },
+  Europe/Tirane: {
+    Generic: Óra Orópa Kuju tá,
+    Standard: Óra Pã Orópa Kuju tá,
+    Daylight: Rỹ Kã óra Orópa Kuju tá
+  },
+  Europe/Prague: {
+    Generic: Óra Orópa Kuju tá,
+    Standard: Óra Pã Orópa Kuju tá,
+    Daylight: Rỹ Kã óra Orópa Kuju tá
+  },
+  Europe/Podgorica: {
+    Generic: Óra Orópa Kuju tá,
+    Standard: Óra Pã Orópa Kuju tá,
+    Daylight: Rỹ Kã óra Orópa Kuju tá
+  },
+  Europe/Belgrade: {
+    Generic: Óra Orópa Kuju tá,
+    Standard: Óra Pã Orópa Kuju tá,
+    Daylight: Rỹ Kã óra Orópa Kuju tá
+  },
+  Europe/Ljubljana: {
+    Generic: Óra Orópa Kuju tá,
+    Standard: Óra Pã Orópa Kuju tá,
+    Daylight: Rỹ Kã óra Orópa Kuju tá
+  },
+  Europe/Bratislava: {
+    Generic: Óra Orópa Kuju tá,
+    Standard: Óra Pã Orópa Kuju tá,
+    Daylight: Rỹ Kã óra Orópa Kuju tá
+  },
+  Europe/Warsaw: {
+    Generic: Óra Orópa Kuju tá,
+    Standard: Óra Pã Orópa Kuju tá,
+    Daylight: Rỹ Kã óra Orópa Kuju tá
+  },
+  Europe/Sarajevo: {
+    Generic: Óra Orópa Kuju tá,
+    Standard: Óra Pã Orópa Kuju tá,
+    Daylight: Rỹ Kã óra Orópa Kuju tá
+  },
+  Europe/Zagreb: {
+    Generic: Óra Orópa Kuju tá,
+    Standard: Óra Pã Orópa Kuju tá,
+    Daylight: Rỹ Kã óra Orópa Kuju tá
+  },
+  Europe/Skopje: {
+    Generic: Óra Orópa Kuju tá,
+    Standard: Óra Pã Orópa Kuju tá,
+    Daylight: Rỹ Kã óra Orópa Kuju tá
+  },
+  Pacific/Guadalcanal: {
+    Generic: Óra Saromỹv Goj-vẽso tá,
+    Standard: Óra Saromỹv Goj-vẽso tá,
+    Daylight: Óra Saromỹv Goj-vẽso tá
+  },
+  Antarctica/Casey: {
+    Generic: Óra kar Ỹntartina,
+    Standard: Óra pẽ Ỹntartina,
+    Daylight: Prỹg kã óra kar Ỹntartina
+  },
+  Pacific/Ponape: {
+    Generic: Óra Ponỹpe tá,
+    Standard: Óra Ponỹpe tá,
+    Daylight: Óra Ponỹpe tá
+  },
+  Pacific/Kosrae: {
+    Generic: Óra de Kosiraje tá,
+    Standard: Óra de Kosiraje tá,
+    Daylight: Óra de Kosiraje tá
+  },
+  Pacific/Noumea: {
+    Generic: Óra Karenonĩja Tãg tá,
+    Standard: Óra Pã Karenonĩja Tãg tá,
+    Daylight: Rỹ Kã óra Karenonĩja Tãg tá
+  },
+  Pacific/Efate: {
+    Generic: Óra Vanũvatu tá,
+    Standard: Óra Pã Vanũvatu tá,
+    Daylight: Rỹ Kã óra Vanũvatu tá
+  },
+  Etc/GMT-11: {
+    Generic: Ga-kar Óra Vẽnh-krén-ja +11,
+    Standard: Ga-kar Óra Vẽnh-krén-ja +11,
+    Daylight: Ga-kar Óra Vẽnh-krén-ja +11
+  },
+  America/Mexico_City: {
+    Generic: Kuju tá óra,
+    Standard: Óra Pã Kuju tá,
+    Daylight: Rỹ Kã óra Kuju tá
+  },
+  America/Bahia_Banderas: {
+    Generic: Kuju tá óra,
+    Standard: Óra Pã Kuju tá,
+    Daylight: Rỹ Kã óra Kuju tá
+  },
+  America/Merida: {
+    Generic: Kuju tá óra,
+    Standard: Óra Pã Kuju tá,
+    Daylight: Rỹ Kã óra Kuju tá
+  },
+  America/Monterrey: {
+    Generic: Kuju tá óra,
+    Standard: Óra Pã Kuju tá,
+    Daylight: Rỹ Kã óra Kuju tá
+  },
+  America/Chicago: {
+    Generic: Kuju tá óra,
+    Standard: Óra Pã Kuju tá,
+    Daylight: Rỹ Kã óra Kuju tá
+  },
+  America/Winnipeg: {
+    Generic: Kuju tá óra,
+    Standard: Óra Pã Kuju tá,
+    Daylight: Rỹ Kã óra Kuju tá
+  },
+  America/Rainy_River: {
+    Generic: Kuju tá óra,
+    Standard: Óra Pã Kuju tá,
+    Daylight: Rỹ Kã óra Kuju tá
+  },
+  America/Rankin_Inlet: {
+    Generic: Kuju tá óra,
+    Standard: Óra Pã Kuju tá,
+    Daylight: Rỹ Kã óra Kuju tá
+  },
+  America/Resolute: {
+    Generic: Kuju tá óra,
+    Standard: Óra Pã Kuju tá,
+    Daylight: Rỹ Kã óra Kuju tá
+  },
+  America/Matamoros: {
+    Generic: Kuju tá óra,
+    Standard: Óra Pã Kuju tá,
+    Daylight: Rỹ Kã óra Kuju tá
+  },
+  America/Indiana/Knox: {
+    Generic: Kuju tá óra,
+    Standard: Óra Pã Kuju tá,
+    Daylight: Rỹ Kã óra Kuju tá
+  },
+  America/Indiana/Tell_City: {
+    Generic: Kuju tá óra,
+    Standard: Óra Pã Kuju tá,
+    Daylight: Rỹ Kã óra Kuju tá
+  },
+  America/Menominee: {
+    Generic: Kuju tá óra,
+    Standard: Óra Pã Kuju tá,
+    Daylight: Rỹ Kã óra Kuju tá
+  },
+  America/North_Dakota/Beulah: {
+    Generic: Kuju tá óra,
+    Standard: Óra Pã Kuju tá,
+    Daylight: Rỹ Kã óra Kuju tá
+  },
+  America/North_Dakota/Center: {
+    Generic: Kuju tá óra,
+    Standard: Óra Pã Kuju tá,
+    Daylight: Rỹ Kã óra Kuju tá
+  },
+  America/North_Dakota/New_Salem: {
+    Generic: Kuju tá óra,
+    Standard: Óra Pã Kuju tá,
+    Daylight: Rỹ Kã óra Kuju tá
+  },
+  CST6CDT: {
+    Generic: Kuju tá óra,
+    Standard: Óra Pã Kuju tá,
+    Daylight: Rỹ Kã óra Kuju tá
+  },
+  Pacific/Chatham: {
+    Generic: Óra San-hỹm tá,
+    Standard: Óra Pã San-hỹm tá,
+    Daylight: Rỹ Kã óra San-hỹm tá
+  },
+  Asia/Shanghai: {
+    Generic: Óra Sĩnỹ tá,
+    Standard: Óra Pã Sĩnỹ tá,
+    Daylight: Rỹ Kã óra Sĩnỹ tá
+  },
+  Asia/Hong_Kong: {
+    Generic: Óra Hãg Kãg tá,
+    Standard: Óra Pã Hãg Kãg tá,
+    Daylight: Rỹ Kã óra Hãg Kãg tá
+  },
+  Asia/Macau: {
+    Generic: Óra Sĩnỹ tá,
+    Standard: Óra Pã Sĩnỹ tá,
+    Daylight: Rỹ Kã óra Sĩnỹ tá
+  },
+  America/Havana: {
+    Generic: Óra Kuma tá,
+    Standard: Óra Pã Kuma tá,
+    Daylight: Rỹ Kã óra Kuma tá
+  },
+  Etc/GMT+12: {
+    Generic: Ga-kar Óra Vẽnh-krén-ja -12,
+    Standard: Ga-kar Óra Vẽnh-krén-ja -12,
+    Daylight: Ga-kar Óra Vẽnh-krén-ja -12
+  },
+  Africa/Nairobi: {
+    Generic: Afrika Rãjur tá óra,
+    Standard: Afrika Rãjur tá óra,
+    Daylight: Afrika Rãjur tá óra
+  },
+  Antarctica/Syowa: {
+    Generic: Óra Siova tá,
+    Standard: Óra Siova tá,
+    Daylight: Óra Siova tá
+  },
+  Africa/Djibouti: {
+    Generic: Afrika Rãjur tá óra,
+    Standard: Afrika Rãjur tá óra,
+    Daylight: Afrika Rãjur tá óra
+  },
+  Africa/Asmera: {
+    Generic: Afrika Rãjur tá óra,
+    Standard: Afrika Rãjur tá óra,
+    Daylight: Afrika Rãjur tá óra
+  },
+  Africa/Addis_Ababa: {
+    Generic: Afrika Rãjur tá óra,
+    Standard: Afrika Rãjur tá óra,
+    Daylight: Afrika Rãjur tá óra
+  },
+  Indian/Comoro: {
+    Generic: Afrika Rãjur tá óra,
+    Standard: Afrika Rãjur tá óra,
+    Daylight: Afrika Rãjur tá óra
+  },
+  Indian/Antananarivo: {
+    Generic: Afrika Rãjur tá óra,
+    Standard: Afrika Rãjur tá óra,
+    Daylight: Afrika Rãjur tá óra
+  },
+  Africa/Mogadishu: {
+    Generic: Afrika Rãjur tá óra,
+    Standard: Afrika Rãjur tá óra,
+    Daylight: Afrika Rãjur tá óra
+  },
+  Africa/Dar_es_Salaam: {
+    Generic: Afrika Rãjur tá óra,
+    Standard: Afrika Rãjur tá óra,
+    Daylight: Afrika Rãjur tá óra
+  },
+  Africa/Kampala: {
+    Generic: Afrika Rãjur tá óra,
+    Standard: Afrika Rãjur tá óra,
+    Daylight: Afrika Rãjur tá óra
+  },
+  Indian/Mayotte: {
+    Generic: Afrika Rãjur tá óra,
+    Standard: Afrika Rãjur tá óra,
+    Daylight: Afrika Rãjur tá óra
+  },
+  Etc/GMT-3: {
+    Generic: Ga-kar Óra Vẽnh-krén-ja +3,
+    Standard: Ga-kar Óra Vẽnh-krén-ja +3,
+    Daylight: Ga-kar Óra Vẽnh-krén-ja +3
+  },
+  Australia/Brisbane: {
+    Generic: Óra Avotyraria Rãjur tá,
+    Standard: Óra Pã Avotyraria Rãjur tá,
+    Daylight: Rỹ Kã óra Avotyraria Rãjur tá
+  },
+  Australia/Lindeman: {
+    Generic: Óra Avotyraria Rãjur tá,
+    Standard: Óra Pã Avotyraria Rãjur tá,
+    Daylight: Rỹ Kã óra Avotyraria Rãjur tá
+  },
+  Europe/Chisinau: {
+    Generic: Óra Orópa Rãjur tá,
+    Standard: Óra Pã Orópa Rãjur tá,
+    Daylight: Rỹ Kã óra Orópa Rãjur tá
+  },
+  America/Sao_Paulo: {
+    Generic: Óra Mrasirja tá,
+    Standard: Óra Pã Mrasirja tá,
+    Daylight: Rỹ Kã óra Mrasirja tá
+  },
+  Pacific/Easter: {
+    Generic: Óra Panhkuva Goj-vẽso tá,
+    Standard: Óra Pã Panhkuva Goj-vẽso tá,
+    Daylight: Rỹ Kã óra Panhkuva Goj-vẽso tá
+  },
+  America/Cancun: {
+    Generic: Óra Rãjur tá,
+    Standard: Óra Pã Rãjur tá,
+    Daylight: Rỹ Kã óra Rãjur tá
+  },
+  America/New_York: {
+    Generic: Óra Rãjur tá,
+    Standard: Óra Pã Rãjur tá,
+    Daylight: Rỹ Kã óra Rãjur tá
+  },
+  America/Nassau: {
+    Generic: Óra Rãjur tá,
+    Standard: Óra Pã Rãjur tá,
+    Daylight: Rỹ Kã óra Rãjur tá
+  },
+  America/Toronto: {
+    Generic: Óra Rãjur tá,
+    Standard: Óra Pã Rãjur tá,
+    Daylight: Rỹ Kã óra Rãjur tá
+  },
+  America/Iqaluit: {
+    Generic: Óra Rãjur tá,
+    Standard: Óra Pã Rãjur tá,
+    Daylight: Rỹ Kã óra Rãjur tá
+  },
+  America/Montreal: {
+    Generic: Óra Rãjur tá,
+    Standard: Óra Pã Rãjur tá,
+    Daylight: Rỹ Kã óra Rãjur tá
+  },
+  America/Nipigon: {
+    Generic: Óra Rãjur tá,
+    Standard: Óra Pã Rãjur tá,
+    Daylight: Rỹ Kã óra Rãjur tá
+  },
+  America/Pangnirtung: {
+    Generic: Óra Rãjur tá,
+    Standard: Óra Pã Rãjur tá,
+    Daylight: Rỹ Kã óra Rãjur tá
+  },
+  America/Thunder_Bay: {
+    Generic: Óra Rãjur tá,
+    Standard: Óra Pã Rãjur tá,
+    Daylight: Rỹ Kã óra Rãjur tá
+  },
+  America/Detroit: {
+    Generic: Óra Rãjur tá,
+    Standard: Óra Pã Rãjur tá,
+    Daylight: Rỹ Kã óra Rãjur tá
+  },
+  America/Indiana/Petersburg: {
+    Generic: Óra Rãjur tá,
+    Standard: Óra Pã Rãjur tá,
+    Daylight: Rỹ Kã óra Rãjur tá
+  },
+  America/Indiana/Vincennes: {
+    Generic: Óra Rãjur tá,
+    Standard: Óra Pã Rãjur tá,
+    Daylight: Rỹ Kã óra Rãjur tá
+  },
+  America/Indiana/Winamac: {
+    Generic: Óra Rãjur tá,
+    Standard: Óra Pã Rãjur tá,
+    Daylight: Rỹ Kã óra Rãjur tá
+  },
+  America/Kentucky/Monticello: {
+    Generic: Óra Rãjur tá,
+    Standard: Óra Pã Rãjur tá,
+    Daylight: Rỹ Kã óra Rãjur tá
+  },
+  America/Louisville: {
+    Generic: Óra Rãjur tá,
+    Standard: Óra Pã Rãjur tá,
+    Daylight: Rỹ Kã óra Rãjur tá
+  },
+  EST5EDT: {
+    Generic: Óra Rãjur tá,
+    Standard: Óra Pã Rãjur tá,
+    Daylight: Rỹ Kã óra Rãjur tá
+  },
+  Africa/Cairo: {
+    Generic: Óra Orópa Rãjur tá,
+    Standard: Óra Pã Orópa Rãjur tá,
+    Daylight: Rỹ Kã óra Orópa Rãjur tá
+  },
+  Asia/Yekaterinburg: {
+    Generic: Óra kar Ekaterĩnmurgu,
+    Standard: Óra pẽ Ekaterĩnmurgu,
+    Daylight: Prỹg kã óra kar Ekaterĩnmurgu
+  },
+  Europe/Kiev: {
+    Generic: Óra Orópa Rãjur tá,
+    Standard: Óra Pã Orópa Rãjur tá,
+    Daylight: Rỹ Kã óra Orópa Rãjur tá
+  },
+  Europe/Mariehamn: {
+    Generic: Óra Orópa Rãjur tá,
+    Standard: Óra Pã Orópa Rãjur tá,
+    Daylight: Rỹ Kã óra Orópa Rãjur tá
+  },
+  Europe/Sofia: {
+    Generic: Óra Orópa Rãjur tá,
+    Standard: Óra Pã Orópa Rãjur tá,
+    Daylight: Rỹ Kã óra Orópa Rãjur tá
+  },
+  Europe/Tallinn: {
+    Generic: Óra Orópa Rãjur tá,
+    Standard: Óra Pã Orópa Rãjur tá,
+    Daylight: Rỹ Kã óra Orópa Rãjur tá
+  },
+  Europe/Helsinki: {
+    Generic: Óra Orópa Rãjur tá,
+    Standard: Óra Pã Orópa Rãjur tá,
+    Daylight: Rỹ Kã óra Orópa Rãjur tá
+  },
+  Europe/Vilnius: {
+    Generic: Óra Orópa Rãjur tá,
+    Standard: Óra Pã Orópa Rãjur tá,
+    Daylight: Rỹ Kã óra Orópa Rãjur tá
+  },
+  Europe/Riga: {
+    Generic: Óra Orópa Rãjur tá,
+    Standard: Óra Pã Orópa Rãjur tá,
+    Daylight: Rỹ Kã óra Orópa Rãjur tá
+  },
+  Europe/Uzhgorod: {
+    Generic: Óra Orópa Rãjur tá,
+    Standard: Óra Pã Orópa Rãjur tá,
+    Daylight: Rỹ Kã óra Orópa Rãjur tá
+  },
+  Europe/Zaporozhye: {
+    Generic: Óra Orópa Rãjur tá,
+    Standard: Óra Pã Orópa Rãjur tá,
+    Daylight: Rỹ Kã óra Orópa Rãjur tá
+  },
+  Pacific/Fiji: {
+    Generic: Óra Fiji tá,
+    Standard: Óra Pã Fiji tá,
+    Daylight: Rỹ Kã óra Fiji tá
+  },
+  Europe/London: {
+    Generic: Óra kar Rejnũ Unĩnu,
+    Standard: Óra Mirinjỹnũ Grinũvisi tá,
+    Daylight: Óra Mritỹnĩku Rỹ Kã
+  },
+  Atlantic/Canary: {
+    Generic: Óra Orópa Rãpur tá,
+    Standard: Óra Pã Orópa Rãpur tá,
+    Daylight: Rỹ Kã óra Orópa Rãpur tá
+  },
+  Atlantic/Faeroe: {
+    Generic: Óra Orópa Rãpur tá,
+    Standard: Óra Pã Orópa Rãpur tá,
+    Daylight: Rỹ Kã óra Orópa Rãpur tá
+  },
+  Europe/Guernsey: {
+    Generic: Óra Mirinjỹnũ Grinũvisi tá,
+    Standard: Óra Mirinjỹnũ Grinũvisi tá,
+    Daylight: Óra Mirinjỹnũ Grinũvisi tá
+  },
+  Europe/Dublin: {
+    Generic: Óra kar Irỹna,
+    Standard: Óra Mirinjỹnũ Grinũvisi tá,
+    Daylight: Óra Pã Irỹna
+  },
+  Europe/Isle_of_Man: {
+    Generic: Óra Mirinjỹnũ Grinũvisi tá,
+    Standard: Óra Mirinjỹnũ Grinũvisi tá,
+    Daylight: Óra Mirinjỹnũ Grinũvisi tá
+  },
+  Europe/Jersey: {
+    Generic: Óra Mirinjỹnũ Grinũvisi tá,
+    Standard: Óra Mirinjỹnũ Grinũvisi tá,
+    Daylight: Óra Mirinjỹnũ Grinũvisi tá
+  },
+  Europe/Lisbon: {
+    Generic: Óra Orópa Rãpur tá,
+    Standard: Óra Pã Orópa Rãpur tá,
+    Daylight: Rỹ Kã óra Orópa Rãpur tá
+  },
+  Atlantic/Madeira: {
+    Generic: Óra Orópa Rãpur tá,
+    Standard: Óra Pã Orópa Rãpur tá,
+    Daylight: Rỹ Kã óra Orópa Rãpur tá
+  },
+  Europe/Bucharest: {
+    Generic: Óra Orópa Rãjur tá,
+    Standard: Óra Pã Orópa Rãjur tá,
+    Daylight: Rỹ Kã óra Orópa Rãjur tá
+  },
+  Asia/Nicosia: {
+    Generic: Óra Orópa Rãjur tá,
+    Standard: Óra Pã Orópa Rãjur tá,
+    Daylight: Rỹ Kã óra Orópa Rãjur tá
+  },
+  Asia/Famagusta: {
+    Generic: Óra Orópa Rãjur tá,
+    Standard: Óra Pã Orópa Rãjur tá,
+    Daylight: Rỹ Kã óra Orópa Rãjur tá
+  },
+  Europe/Athens: {
+    Generic: Óra Orópa Rãjur tá,
+    Standard: Óra Pã Orópa Rãjur tá,
+    Daylight: Rỹ Kã óra Orópa Rãjur tá
+  },
+  Asia/Tbilisi: {
+    Generic: Óra Jeórja tá,
+    Standard: Óra Pã Jeórja tá,
+    Daylight: Rỹ Kã óra Jeórja tá
+  },
+  America/Godthab: {
+    Generic: Óra Groẽrỹnija Rãpur tá,
+    Standard: Óra Pã Groẽrỹnija Rãpur tá,
+    Daylight: Rỹ Kã óra Groẽrỹnija Rãpur tá
+  },
+  Atlantic/Reykjavik: {
+    Generic: Óra Mirinjỹnũ Grinũvisi tá,
+    Standard: Óra Mirinjỹnũ Grinũvisi tá,
+    Daylight: Óra Mirinjỹnũ Grinũvisi tá
+  },
+  Atlantic/St_Helena: {
+    Generic: Óra Mirinjỹnũ Grinũvisi tá,
+    Standard: Óra Mirinjỹnũ Grinũvisi tá,
+    Daylight: Óra Mirinjỹnũ Grinũvisi tá
+  },
+  Africa/Ouagadougou: {
+    Generic: Óra Mirinjỹnũ Grinũvisi tá,
+    Standard: Óra Mirinjỹnũ Grinũvisi tá,
+    Daylight: Óra Mirinjỹnũ Grinũvisi tá
+  },
+  Africa/Abidjan: {
+    Generic: Óra Mirinjỹnũ Grinũvisi tá,
+    Standard: Óra Mirinjỹnũ Grinũvisi tá,
+    Daylight: Óra Mirinjỹnũ Grinũvisi tá
+  },
+  Africa/Accra: {
+    Generic: Óra Mirinjỹnũ Grinũvisi tá,
+    Standard: Óra Mirinjỹnũ Grinũvisi tá,
+    Daylight: Óra Mirinjỹnũ Grinũvisi tá
+  },
+  America/Danmarkshavn: {
+    Generic: Óra Mirinjỹnũ Grinũvisi tá,
+    Standard: Óra Mirinjỹnũ Grinũvisi tá,
+    Daylight: Óra Mirinjỹnũ Grinũvisi tá
+  },
+  Africa/Banjul: {
+    Generic: Óra Mirinjỹnũ Grinũvisi tá,
+    Standard: Óra Mirinjỹnũ Grinũvisi tá,
+    Daylight: Óra Mirinjỹnũ Grinũvisi tá
+  },
+  Africa/Conakry: {
+    Generic: Óra Mirinjỹnũ Grinũvisi tá,
+    Standard: Óra Mirinjỹnũ Grinũvisi tá,
+    Daylight: Óra Mirinjỹnũ Grinũvisi tá
+  },
+  Africa/Bissau: {
+    Generic: Óra Mirinjỹnũ Grinũvisi tá,
+    Standard: Óra Mirinjỹnũ Grinũvisi tá,
+    Daylight: Óra Mirinjỹnũ Grinũvisi tá
+  },
+  Africa/Monrovia: {
+    Generic: Óra Mirinjỹnũ Grinũvisi tá,
+    Standard: Óra Mirinjỹnũ Grinũvisi tá,
+    Daylight: Óra Mirinjỹnũ Grinũvisi tá
+  },
+  Africa/Bamako: {
+    Generic: Óra Mirinjỹnũ Grinũvisi tá,
+    Standard: Óra Mirinjỹnũ Grinũvisi tá,
+    Daylight: Óra Mirinjỹnũ Grinũvisi tá
+  },
+  Africa/Nouakchott: {
+    Generic: Óra Mirinjỹnũ Grinũvisi tá,
+    Standard: Óra Mirinjỹnũ Grinũvisi tá,
+    Daylight: Óra Mirinjỹnũ Grinũvisi tá
+  },
+  Africa/Freetown: {
+    Generic: Óra Mirinjỹnũ Grinũvisi tá,
+    Standard: Óra Mirinjỹnũ Grinũvisi tá,
+    Daylight: Óra Mirinjỹnũ Grinũvisi tá
+  },
+  Africa/Dakar: {
+    Generic: Óra Mirinjỹnũ Grinũvisi tá,
+    Standard: Óra Mirinjỹnũ Grinũvisi tá,
+    Daylight: Óra Mirinjỹnũ Grinũvisi tá
+  },
+  Africa/Lome: {
+    Generic: Óra Mirinjỹnũ Grinũvisi tá,
+    Standard: Óra Mirinjỹnũ Grinũvisi tá,
+    Daylight: Óra Mirinjỹnũ Grinũvisi tá
+  },
+  America/Port-au-Prince: {
+    Generic: Óra Rãjur tá,
+    Standard: Óra Pã Rãjur tá,
+    Daylight: Rỹ Kã óra Rãjur tá
+  },
+  Pacific/Honolulu: {
+    Generic: Óra Hava’i kar Arevta Goj-vẽso tá,
+    Standard: Óra Pã Hava’i kar Arevta Goj-vẽso tá,
+    Daylight: Rỹ kã óra Hava’i kar Arevta Goj-vẽso tá
+  },
+  Pacific/Rarotonga: {
+    Generic: Óra Kuki Goj-vẽso tá,
+    Standard: Óra Pã Kuki Goj-vẽso tá,
+    Daylight: Rỹ Kã óra Kuki Goj-vẽso tá
+  },
+  Pacific/Tahiti: {
+    Generic: Óra Tajti tá,
+    Standard: Óra Tajti tá,
+    Daylight: Óra Tajti tá
+  },
+  Pacific/Johnston: {
+    Generic: Óra Hava’i kar Arevta Goj-vẽso tá,
+    Standard: Óra Pã Hava’i kar Arevta Goj-vẽso tá,
+    Daylight: Rỹ kã óra Hava’i kar Arevta Goj-vẽso tá
+  },
+  Etc/GMT+10: {
+    Generic: Ga-kar Óra Vẽnh-krén-ja -10,
+    Standard: Ga-kar Óra Vẽnh-krén-ja -10,
+    Daylight: Ga-kar Óra Vẽnh-krén-ja -10
+  },
+  Asia/Calcutta: {
+    Generic: Óra Pã Ĩnija tá,
+    Standard: Óra Pã Ĩnija tá,
+    Daylight: Óra Pã Ĩnija tá
+  },
+  Asia/Tehran: {
+    Generic: Óra Irỹ tá,
+    Standard: Óra Pã Irỹ tá,
+    Daylight: Rỹ Kã óra Irỹ tá
+  },
+  Asia/Jerusalem: {
+    Generic: Óra Isihaé tá,
+    Standard: Óra Pã Isihaé tá,
+    Daylight: Rỹ Kã óra Isihaé tá
+  },
+  Asia/Amman: {
+    Generic: Óra Orópa Rãjur tá,
+    Standard: Óra Pã Orópa Rãjur tá,
+    Daylight: Rỹ Kã óra Orópa Rãjur tá
+  },
+  Europe/Kaliningrad: {
+    Generic: Óra kar Karinĩngrano,
+    Standard: Óra pẽ Karinĩngrano,
+    Daylight: Prỹg kã óra kar Karinĩngrano
+  },
+  Asia/Seoul: {
+    Generic: Óra Koréja tá,
+    Standard: Óra Pã Koréja tá,
+    Daylight: Rỹ Kã óra Koréja tá
+  },
+  Africa/Tripoli: {
+    Generic: Óra Orópa Rãjur tá,
+    Standard: Óra Pã Orópa Rãjur tá,
+    Daylight: Rỹ Kã óra Orópa Rãjur tá
+  },
+  Pacific/Kiritimati: {
+    Generic: Óra Vãfe Goj-vẽso tỹ tá,
+    Standard: Óra Vãfe Goj-vẽso tỹ tá,
+    Daylight: Óra Vãfe Goj-vẽso tỹ tá
+  },
+  Etc/GMT-14: {
+    Generic: Ga-kar Óra Vẽnh-krén-ja +14,
+    Standard: Ga-kar Óra Vẽnh-krén-ja +14,
+    Daylight: Ga-kar Óra Vẽnh-krén-ja +14
+  },
+  Australia/Lord_Howe: {
+    Generic: Óra Rórni Hove tá,
+    Standard: Óra Pã Rórni Hove tá,
+    Daylight: Rỹ Kã óra Rórni Hove tá
+  },
+  Asia/Magadan: {
+    Generic: Óra kar Mỹganan,
+    Standard: Óra pẽ Mỹganan,
+    Daylight: Prỹg kã óra kar Mỹganan
+  },
+  America/Punta_Arenas: {
+    Generic: Óra Sire tá,
+    Standard: Óra Pã Sire tá,
+    Daylight: Rỹ Kã óra Sire tá
+  },
+  Pacific/Marquesas: {
+    Generic: Óra Mỹrkeja Fag tá,
+    Standard: Óra Mỹrkeja Fag tá,
+    Daylight: Óra Mỹrkeja Fag tá
+  },
+  Indian/Mauritius: {
+    Generic: Óra Mãriso tá,
+    Standard: Óra Pã Mãriso tá,
+    Daylight: Rỹ Kã óra Mãriso tá
+  },
+  Indian/Reunion: {
+    Generic: Óra Hujáv tá,
+    Standard: Óra Hujáv tá,
+    Daylight: Óra Hujáv tá
+  },
+  Indian/Mahe: {
+    Generic: Óra Sejserenh tá,
+    Standard: Óra Sejserenh tá,
+    Daylight: Óra Sejserenh tá
+  },
+  Asia/Beirut: {
+    Generic: Óra Orópa Rãjur tá,
+    Standard: Óra Pã Orópa Rãjur tá,
+    Daylight: Rỹ Kã óra Orópa Rãjur tá
+  },
+  America/Montevideo: {
+    Generic: Óra Uruguvaj tá,
+    Standard: Óra Pã Uruguvaj tá,
+    Daylight: Rỹ Kã óra Uruguvaj tá
+  },
+  Africa/Casablanca: {
+    Generic: Óra Orópa Rãpur tá,
+    Standard: Óra Pã Orópa Rãpur tá,
+    Daylight: Rỹ Kã óra Orópa Rãpur tá
+  },
+  Africa/El_Aaiun: {
+    Generic: Óra Orópa Rãpur tá,
+    Standard: Óra Pã Orópa Rãpur tá,
+    Daylight: Rỹ Kã óra Orópa Rãpur tá
+  },
+  America/Chihuahua: {
+    Generic: Óra Mẽsiku Pasifiku tá,
+    Standard: Óra Pã Mẽsiku Pasifiku tá,
+    Daylight: Rỹ Kã óra Mẽsiku Pasifiku tá
+  },
+  America/Mazatlan: {
+    Generic: Óra Mẽsiku Pasifiku tá,
+    Standard: Óra Pã Mẽsiku Pasifiku tá,
+    Daylight: Rỹ Kã óra Mẽsiku Pasifiku tá
+  },
+  America/Denver: {
+    Generic: Óra Krĩ tá,
+    Standard: Óra Pã Krĩ tá,
+    Daylight: Rỹ Kã óra Krĩ tá
+  },
+  America/Edmonton: {
+    Generic: Óra Krĩ tá,
+    Standard: Óra Pã Krĩ tá,
+    Daylight: Rỹ Kã óra Krĩ tá
+  },
+  America/Cambridge_Bay: {
+    Generic: Óra Krĩ tá,
+    Standard: Óra Pã Krĩ tá,
+    Daylight: Rỹ Kã óra Krĩ tá
+  },
+  America/Inuvik: {
+    Generic: Óra Krĩ tá,
+    Standard: Óra Pã Krĩ tá,
+    Daylight: Rỹ Kã óra Krĩ tá
+  },
+  America/Yellowknife: {
+    Generic: Óra Krĩ tá,
+    Standard: Óra Pã Krĩ tá,
+    Daylight: Rỹ Kã óra Krĩ tá
+  },
+  America/Ojinaga: {
+    Generic: Óra Krĩ tá,
+    Standard: Óra Pã Krĩ tá,
+    Daylight: Rỹ Kã óra Krĩ tá
+  },
+  America/Boise: {
+    Generic: Óra Krĩ tá,
+    Standard: Óra Pã Krĩ tá,
+    Daylight: Rỹ Kã óra Krĩ tá
+  },
+  MST7MDT: {
+    Generic: Óra Krĩ tá,
+    Standard: Óra Pã Krĩ tá,
+    Daylight: Rỹ Kã óra Krĩ tá
+  },
+  Asia/Rangoon: {
+    Generic: Óra Mĩjỹmỹr tá,
+    Standard: Óra Mĩjỹmỹr tá,
+    Daylight: Óra Mĩjỹmỹr tá
+  },
+  Indian/Cocos: {
+    Generic: Óra Kokonh Goj-vẽso tá,
+    Standard: Óra Kokonh Goj-vẽso tá,
+    Daylight: Óra Kokonh Goj-vẽso tá
+  },
+  Asia/Novosibirsk: {
+    Generic: Óra kar Simirsiki Tãg,
+    Standard: Óra pẽ Simirsiki Tãg,
+    Daylight: Prỹg kã óra kar Simirsiki Tãg
+  },
+  Africa/Windhoek: {
+    Generic: Afrika-Kuju tá óra,
+    Standard: Afrika-Kuju tá óra,
+    Daylight: Afrika-Kuju tá óra
+  },
+  Asia/Katmandu: {
+    Generic: Óra Nẽpar tá,
+    Standard: Óra Nẽpar tá,
+    Daylight: Óra Nẽpar tá
+  },
+  Pacific/Auckland: {
+    Generic: Óra Jerỹnija Tãg tá,
+    Standard: Óra Pã Jerỹnija Tãg tá,
+    Daylight: Rỹ Kã óra Jerỹnija Tãg tá
+  },
+  Antarctica/McMurdo: {
+    Generic: Óra Jerỹnija Tãg tá,
+    Standard: Óra Pã Jerỹnija Tãg tá,
+    Daylight: Rỹ Kã óra Jerỹnija Tãg tá
+  },
+  America/St_Johns: {
+    Generic: Óra Ga tãg tá,
+    Standard: Óra Pã Ga Tãg tá,
+    Daylight: Rỹ Kã óra Ga Tãg tá
+  },
+  Pacific/Norfolk: {
+    Generic: Óra Nãrforki Goj-vẽso tá,
+    Standard: Óra Pã Nãrforki Goj-vẽso tá,
+    Daylight: Rỹ Kã óra Nãrforki Goj-vẽso tá
+  },
+  Asia/Irkutsk: {
+    Generic: Óra kar Irkutinhki,
+    Standard: Óra pẽ Irkutinhki,
+    Daylight: Prỹg kã óra kar Irkutinhki
+  },
+  Asia/Krasnoyarsk: {
+    Generic: Óra kar Kranhnãjarki,
+    Standard: Óra pẽ Kranhnãjarki,
+    Daylight: Prỹg kã óra kar Kranhnãjarki
+  },
+  Asia/Novokuznetsk: {
+    Generic: Óra kar Kunhnẽtinhki Tãg,
+    Standard: Óra pẽ Kunhnẽtinhki Tãg,
+    Daylight: Prỹg kã óra kar Kunhnẽtinhki Tãg
+  },
+  Asia/Pyongyang: {
+    Generic: Óra Koréja tá,
+    Standard: Óra Pã Koréja tá,
+    Daylight: Rỹ Kã óra Koréja tá
+  },
+  Asia/Omsk: {
+    Generic: Óra kar Omĩnhki,
+    Standard: Óra pẽ Omĩnhki,
+    Daylight: Prỹg kã óra kar Omĩnhki
+  },
+  America/Santiago: {
+    Generic: Óra Sire tá,
+    Standard: Óra Pã Sire tá,
+    Daylight: Rỹ Kã óra Sire tá
+  },
+  America/Tijuana: {
+    Generic: Óra Rãpur tá,
+    Standard: Óra Pã Rãpur tá,
+    Daylight: Rỹ Kã óra Rãpur tá
+  },
+  America/Santa_Isabel: {
+    Generic: Óra Mẽsiku Nãrti-Rãpur tá,
+    Standard: Óra Pã Mẽsiku Nãrti-Rãpur tá,
+    Daylight: Rỹ Kã óra Mẽsiku Nãrti-Rãpur tá
+  },
+  America/Los_Angeles: {
+    Generic: Óra Rãpur tá,
+    Standard: Óra Pã Rãpur tá,
+    Daylight: Rỹ Kã óra Rãpur tá
+  },
+  America/Vancouver: {
+    Generic: Óra Rãpur tá,
+    Standard: Óra Pã Rãpur tá,
+    Daylight: Rỹ Kã óra Rãpur tá
+  },
+  PST8PDT: {
+    Generic: Óra Rãpur tá,
+    Standard: Óra Pã Rãpur tá,
+    Daylight: Rỹ Kã óra Rãpur tá
+  },
+  Asia/Karachi: {
+    Generic: Óra Pakinhtỹv tá,
+    Standard: Óra Pã Pakinhtỹv tá,
+    Daylight: Rỹ Kã óra Pakinhtỹv tá
+  },
+  America/Asuncion: {
+    Generic: Óra Paraguvaj tá,
+    Standard: Óra Pã Paraguvaj tá,
+    Daylight: Rỹ Kã óra Paraguvaj tá
+  },
+  Asia/Qyzylorda: {
+    Generic: Óra Kajakinhtỹv Rãpur tá,
+    Standard: Óra Kajakinhtỹv Rãpur tá,
+    Daylight: Óra Kajakinhtỹv Rãpur tá
+  },
+  Europe/Paris: {
+    Generic: Óra Orópa Kuju tá,
+    Standard: Óra Pã Orópa Kuju tá,
+    Daylight: Rỹ Kã óra Orópa Kuju tá
+  },
+  Europe/Brussels: {
+    Generic: Óra Orópa Kuju tá,
+    Standard: Óra Pã Orópa Kuju tá,
+    Daylight: Rỹ Kã óra Orópa Kuju tá
+  },
+  Europe/Copenhagen: {
+    Generic: Óra Orópa Kuju tá,
+    Standard: Óra Pã Orópa Kuju tá,
+    Daylight: Rỹ Kã óra Orópa Kuju tá
+  },
+  Africa/Ceuta: {
+    Generic: Óra Orópa Kuju tá,
+    Standard: Óra Pã Orópa Kuju tá,
+    Daylight: Rỹ Kã óra Orópa Kuju tá
+  },
+  Europe/Madrid: {
+    Generic: Óra Orópa Kuju tá,
+    Standard: Óra Pã Orópa Kuju tá,
+    Daylight: Rỹ Kã óra Orópa Kuju tá
+  },
+  Asia/Srednekolymsk: {
+    Generic: Óra kar Sirenẽkorymsiki,
+    Standard: Óra pẽ Sirenẽkorymsiki,
+    Daylight: Prỹg kã óra kar Sirenẽkorymsiki
+  },
+  Asia/Kamchatka: {
+    Generic: Óra kar Kỹmsanka,
+    Standard: Óra pẽ Kỹmsanka,
+    Daylight: Prỹg kã óra kar Kỹmsanka
+  },
+  Asia/Anadyr: {
+    Generic: Óra kar Anỹnhir,
+    Standard: Óra pẽ Anỹnhir,
+    Daylight: Prỹg kã óra kar Anỹnhir
+  },
+  Europe/Samara: {
+    Generic: Óra kar Samỹra,
+    Standard: Óra pẽ Samỹra,
+    Daylight: Prỹg kã óra kar Samỹra
+  },
+  Europe/Moscow: {
+    Generic: Óra kar Mãnhkov,
+    Standard: Óra pẽ Mãnhkov,
+    Daylight: Prỹg kã óra kar Mãnhkov
+  },
+  Europe/Kirov: {
+    Generic: Óra kar Kiróvi,
+    Standard: Óra pẽ Kiróvi,
+    Daylight: Prỹg kã óra kar Kiróvi
+  },
+  Europe/Simferopol: {
+    Generic: Óra Mãnhkov tá,
+    Standard: Óra Pã Mãnhkov tá,
+    Daylight: Rỹ Kã óra Mãnhkov tá
+  },
+  America/Cayenne: {
+    Generic: Óra Frỹsa Gijanỹ tá,
+    Standard: Óra Frỹsa Gijanỹ tá,
+    Daylight: Óra Frỹsa Gijanỹ tá
+  },
+  Antarctica/Rothera: {
+    Generic: Óra Rotera tá,
+    Standard: Óra Rotera tá,
+    Daylight: Óra Rotera tá
+  },
+  Antarctica/Palmer: {
+    Generic: Óra Sire tá,
+    Standard: Óra Pã Sire tá,
+    Daylight: Rỹ Kã óra Sire tá
+  },
+  America/Fortaleza: {
+    Generic: Óra Mrasirja tá,
+    Standard: Óra Pã Mrasirja tá,
+    Daylight: Rỹ Kã óra Mrasirja tá
+  },
+  America/Belem: {
+    Generic: Óra Mrasirja tá,
+    Standard: Óra Pã Mrasirja tá,
+    Daylight: Rỹ Kã óra Mrasirja tá
+  },
+  America/Maceio: {
+    Generic: Óra Mrasirja tá,
+    Standard: Óra Pã Mrasirja tá,
+    Daylight: Rỹ Kã óra Mrasirja tá
+  },
+  America/Recife: {
+    Generic: Óra Mrasirja tá,
+    Standard: Óra Pã Mrasirja tá,
+    Daylight: Rỹ Kã óra Mrasirja tá
+  },
+  America/Santarem: {
+    Generic: Óra Mrasirja tá,
+    Standard: Óra Pã Mrasirja tá,
+    Daylight: Rỹ Kã óra Mrasirja tá
+  },
+  Atlantic/Stanley: {
+    Generic: Óra Mỹrvĩnỹ Goj-vẽso tá,
+    Standard: Ór Pã Mỹrvĩnỹ Goj-vẽso tá,
+    Daylight: Rỹ Kã óra Mỹrvĩnỹ Goj-vẽso tá
+  },
+  America/Paramaribo: {
+    Generic: Óra Surinỹmĩ tá,
+    Standard: Óra Surinỹmĩ tá,
+    Daylight: Óra Surinỹmĩ tá
+  },
+  Etc/GMT+3: {
+    Generic: Ga-kar Óra Vẽnh-krén-ja -3,
+    Standard: Ga-kar Óra Vẽnh-krén-ja -3,
+    Daylight: Ga-kar Óra Vẽnh-krén-ja -3
+  },
+  America/Bogota: {
+    Generic: Óra Korãmija tá,
+    Standard: Óra Pã Korãmija tá,
+    Daylight: Rỹ Kã óra Korãmija tá
+  },
+  America/Rio_Branco: {
+    Generic: Akre tá óra,
+    Standard: Óra Pã Akre tá,
+    Daylight: Rỹ Kã óra Akre tá
+  },
+  America/Eirunepe: {
+    Generic: Akre tá óra,
+    Standard: Óra Pã Akre tá,
+    Daylight: Rỹ Kã óra Akre tá
+  },
+  America/Coral_Harbour: {
+    Generic: Óra Rãjur tá,
+    Standard: Óra Pã Rãjur tá,
+    Daylight: Rỹ Kã óra Rãjur tá
+  },
+  America/Guayaquil: {
+    Generic: Óra Ekuvanor tá,
+    Standard: Óra Ekuvanor tá,
+    Daylight: Óra Ekuvanor tá
+  },
+  America/Jamaica: {
+    Generic: Óra Rãjur tá,
+    Standard: Óra Pã Rãjur tá,
+    Daylight: Rỹ Kã óra Rãjur tá
+  },
+  America/Cayman: {
+    Generic: Óra Rãjur tá,
+    Standard: Óra Pã Rãjur tá,
+    Daylight: Rỹ Kã óra Rãjur tá
+  },
+  America/Panama: {
+    Generic: Óra Rãjur tá,
+    Standard: Óra Pã Rãjur tá,
+    Daylight: Rỹ Kã óra Rãjur tá
+  },
+  America/Lima: {
+    Generic: Óra Piru tá,
+    Standard: Óra Pã Piru tá,
+    Daylight: Rỹ Kã óra Piru tá
+  },
+  Etc/GMT+5: {
+    Generic: Ga-kar Óra Vẽnh-krén-ja -5,
+    Standard: Ga-kar Óra Vẽnh-krén-ja -5,
+    Daylight: Ga-kar Óra Vẽnh-krén-ja -5
+  },
+  America/La_Paz: {
+    Generic: Óra Morivia tá,
+    Standard: Óra Morivia tá,
+    Daylight: Óra Morivia tá
+  },
+  America/Antigua: {
+    Generic: Óra Atrỹtiku tá,
+    Standard: Óra Pã Atrỹtiku tá,
+    Daylight: Rỹ Kã óra Atrỹtiku tá
+  },
+  America/Anguilla: {
+    Generic: Óra Atrỹtiku tá,
+    Standard: Óra Pã Atrỹtiku tá,
+    Daylight: Rỹ Kã óra Atrỹtiku tá
+  },
+  America/Aruba: {
+    Generic: Óra Atrỹtiku tá,
+    Standard: Óra Pã Atrỹtiku tá,
+    Daylight: Rỹ Kã óra Atrỹtiku tá
+  },
+  America/Barbados: {
+    Generic: Óra Atrỹtiku tá,
+    Standard: Óra Pã Atrỹtiku tá,
+    Daylight: Rỹ Kã óra Atrỹtiku tá
+  },
+  America/St_Barthelemy: {
+    Generic: Óra Atrỹtiku tá,
+    Standard: Óra Pã Atrỹtiku tá,
+    Daylight: Rỹ Kã óra Atrỹtiku tá
+  },
+  America/Kralendijk: {
+    Generic: Óra Atrỹtiku tá,
+    Standard: Óra Pã Atrỹtiku tá,
+    Daylight: Rỹ Kã óra Atrỹtiku tá
+  },
+  America/Manaus: {
+    Generic: Amỹjonỹ tá óra,
+    Standard: Óra Pã Amỹjonỹ tá,
+    Daylight: Rỹ Kã óra Amỹjonỹ tá
+  },
+  America/Boa_Vista: {
+    Generic: Amỹjonỹ tá óra,
+    Standard: Óra Pã Amỹjonỹ tá,
+    Daylight: Rỹ Kã óra Amỹjonỹ tá
+  },
+  America/Porto_Velho: {
+    Generic: Amỹjonỹ tá óra,
+    Standard: Óra Pã Amỹjonỹ tá,
+    Daylight: Rỹ Kã óra Amỹjonỹ tá
+  },
+  America/Blanc-Sablon: {
+    Generic: Óra Atrỹtiku tá,
+    Standard: Óra Pã Atrỹtiku tá,
+    Daylight: Rỹ Kã óra Atrỹtiku tá
+  },
+  America/Curacao: {
+    Generic: Óra Atrỹtiku tá,
+    Standard: Óra Pã Atrỹtiku tá,
+    Daylight: Rỹ Kã óra Atrỹtiku tá
+  },
+  America/Dominica: {
+    Generic: Óra Atrỹtiku tá,
+    Standard: Óra Pã Atrỹtiku tá,
+    Daylight: Rỹ Kã óra Atrỹtiku tá
+  },
+  America/Santo_Domingo: {
+    Generic: Óra Atrỹtiku tá,
+    Standard: Óra Pã Atrỹtiku tá,
+    Daylight: Rỹ Kã óra Atrỹtiku tá
+  },
+  America/Grenada: {
+    Generic: Óra Atrỹtiku tá,
+    Standard: Óra Pã Atrỹtiku tá,
+    Daylight: Rỹ Kã óra Atrỹtiku tá
+  },
+  America/Guadeloupe: {
+    Generic: Óra Atrỹtiku tá,
+    Standard: Óra Pã Atrỹtiku tá,
+    Daylight: Rỹ Kã óra Atrỹtiku tá
+  },
+  America/Guyana: {
+    Generic: Óra Gijỹnỹ tá,
+    Standard: Óra Gijỹnỹ tá,
+    Daylight: Óra Gijỹnỹ tá
+  },
+  America/St_Kitts: {
+    Generic: Óra Atrỹtiku tá,
+    Standard: Óra Pã Atrỹtiku tá,
+    Daylight: Rỹ Kã óra Atrỹtiku tá
+  },
+  America/St_Lucia: {
+    Generic: Óra Atrỹtiku tá,
+    Standard: Óra Pã Atrỹtiku tá,
+    Daylight: Rỹ Kã óra Atrỹtiku tá
+  },
+  America/Marigot: {
+    Generic: Óra Atrỹtiku tá,
+    Standard: Óra Pã Atrỹtiku tá,
+    Daylight: Rỹ Kã óra Atrỹtiku tá
+  },
+  America/Martinique: {
+    Generic: Óra Atrỹtiku tá,
+    Standard: Óra Pã Atrỹtiku tá,
+    Daylight: Rỹ Kã óra Atrỹtiku tá
+  },
+  America/Montserrat: {
+    Generic: Óra Atrỹtiku tá,
+    Standard: Óra Pã Atrỹtiku tá,
+    Daylight: Rỹ Kã óra Atrỹtiku tá
+  },
+  America/Puerto_Rico: {
+    Generic: Óra Atrỹtiku tá,
+    Standard: Óra Pã Atrỹtiku tá,
+    Daylight: Rỹ Kã óra Atrỹtiku tá
+  },
+  America/Lower_Princes: {
+    Generic: Óra Atrỹtiku tá,
+    Standard: Óra Pã Atrỹtiku tá,
+    Daylight: Rỹ Kã óra Atrỹtiku tá
+  },
+  America/Port_of_Spain: {
+    Generic: Óra Atrỹtiku tá,
+    Standard: Óra Pã Atrỹtiku tá,
+    Daylight: Rỹ Kã óra Atrỹtiku tá
+  },
+  America/St_Vincent: {
+    Generic: Óra Atrỹtiku tá,
+    Standard: Óra Pã Atrỹtiku tá,
+    Daylight: Rỹ Kã óra Atrỹtiku tá
+  },
+  America/Tortola: {
+    Generic: Óra Atrỹtiku tá,
+    Standard: Óra Pã Atrỹtiku tá,
+    Daylight: Rỹ Kã óra Atrỹtiku tá
+  },
+  America/St_Thomas: {
+    Generic: Óra Atrỹtiku tá,
+    Standard: Óra Pã Atrỹtiku tá,
+    Daylight: Rỹ Kã óra Atrỹtiku tá
+  },
+  Etc/GMT+4: {
+    Generic: Ga-kar Óra Vẽnh-krén-ja -4,
+    Standard: Ga-kar Óra Vẽnh-krén-ja -4,
+    Daylight: Ga-kar Óra Vẽnh-krén-ja -4
+  },
+  Asia/Bangkok: {
+    Generic: Óra Ĩnosĩnỹ tá,
+    Standard: Óra Ĩnosĩnỹ tá,
+    Daylight: Óra Ĩnosĩnỹ tá
+  },
+  Antarctica/Davis: {
+    Generic: Óra Navinh tá,
+    Standard: Óra Navinh tá,
+    Daylight: Óra Navinh tá
+  },
+  Indian/Christmas: {
+    Generic: Óra Krĩtimỹnh Goj-vẽso tá,
+    Standard: Óra Krĩtimỹnh Goj-vẽso tá,
+    Daylight: Óra Krĩtimỹnh Goj-vẽso tá
+  },
+  Asia/Jakarta: {
+    Generic: Óra Ĩnonẽja Rãpur tá,
+    Standard: Óra Ĩnonẽja Rãpur tá,
+    Daylight: Óra Ĩnonẽja Rãpur tá
+  },
+  Asia/Pontianak: {
+    Generic: Óra Ĩnonẽja Rãpur tá,
+    Standard: Óra Ĩnonẽja Rãpur tá,
+    Daylight: Óra Ĩnonẽja Rãpur tá
+  },
+  Asia/Phnom_Penh: {
+    Generic: Óra Ĩnosĩnỹ tá,
+    Standard: Óra Ĩnosĩnỹ tá,
+    Daylight: Óra Ĩnosĩnỹ tá
+  },
+  Asia/Vientiane: {
+    Generic: Óra Ĩnosĩnỹ tá,
+    Standard: Óra Ĩnosĩnỹ tá,
+    Daylight: Óra Ĩnosĩnỹ tá
+  },
+  Asia/Saigon: {
+    Generic: Óra Ĩnosĩnỹ tá,
+    Standard: Óra Ĩnosĩnỹ tá,
+    Daylight: Óra Ĩnosĩnỹ tá
+  },
+  Etc/GMT-7: {
+    Generic: Ga-kar Óra Vẽnh-krén-ja +7,
+    Standard: Ga-kar Óra Vẽnh-krén-ja +7,
+    Daylight: Ga-kar Óra Vẽnh-krén-ja +7
+  },
+  America/Miquelon: {
+    Generic: Óra Sỹ Penru kar Mĩkerỹv tá,
+    Standard: Óra Pã Sỹ Pedro kar Mĩkerỹv tá,
+    Daylight: Rỹ Kã óra Sỹ Pedro kar Mĩkerỹv tá
+  },
+  Asia/Sakhalin: {
+    Generic: Óra kar Sakarĩnỹ,
+    Standard: Óra pẽ Sakarĩnỹ,
+    Daylight: Prỹg kã óra kar Sakarĩnỹ
+  },
+  Pacific/Apia: {
+    Generic: Óra Apija tá,
+    Standard: Óra Pã Apija tá,
+    Daylight: Rỹ Kã óra Apija tá
+  },
+  Africa/Sao_Tome: {
+    Generic: Óra Mirinjỹnũ Grinũvisi tá,
+    Standard: Óra Mirinjỹnũ Grinũvisi tá,
+    Daylight: Óra Mirinjỹnũ Grinũvisi tá
+  },
+  Europe/Saratov: {
+    Generic: Óra kar Saratóvi,
+    Standard: Óra pẽ Saratóvi,
+    Daylight: Prỹg kã óra kar Saratóvi
+  },
+  Asia/Singapore: {
+    Generic: Óra Pã Sĩgapura tá,
+    Standard: Óra Pã Sĩgapura tá,
+    Daylight: Óra Pã Sĩgapura tá
+  },
+  Asia/Brunei: {
+    Generic: Óra Mrunẽj Narusarỹ tá,
+    Standard: Óra Mrunẽj Narusarỹ tá,
+    Daylight: Óra Mrunẽj Narusarỹ tá
+  },
+  Asia/Makassar: {
+    Generic: Óra Ĩnonẽja Kuju tá,
+    Standard: Óra Ĩnonẽja Kuju tá,
+    Daylight: Óra Ĩnonẽja Kuju tá
+  },
+  Asia/Kuala_Lumpur: {
+    Generic: Óra Mỹraja tá,
+    Standard: Óra Mỹraja tá,
+    Daylight: Óra Mỹraja tá
+  },
+  Asia/Kuching: {
+    Generic: Óra Mỹraja tá,
+    Standard: Óra Mỹraja tá,
+    Daylight: Óra Mỹraja tá
+  },
+  Asia/Manila: {
+    Generic: Óra Firipinỹ tá,
+    Standard: Óra Pã Firipinỹ tá,
+    Daylight: Rỹ Kã Firipinỹ tá
+  },
+  Etc/GMT-8: {
+    Generic: Ga-kar Óra Vẽnh-krén-ja +8,
+    Standard: Ga-kar Óra Vẽnh-krén-ja +8,
+    Daylight: Ga-kar Óra Vẽnh-krén-ja +8
+  },
+  Africa/Johannesburg: {
+    Generic: Sur-Afrika tá óra,
+    Standard: Sur-Afrika tá óra,
+    Daylight: Sur-Afrika tá óra
+  },
+  Africa/Bujumbura: {
+    Generic: Afrika-Kuju tá óra,
+    Standard: Afrika-Kuju tá óra,
+    Daylight: Afrika-Kuju tá óra
+  },
+  Africa/Gaborone: {
+    Generic: Afrika-Kuju tá óra,
+    Standard: Afrika-Kuju tá óra,
+    Daylight: Afrika-Kuju tá óra
+  },
+  Africa/Lubumbashi: {
+    Generic: Afrika-Kuju tá óra,
+    Standard: Afrika-Kuju tá óra,
+    Daylight: Afrika-Kuju tá óra
+  },
+  Africa/Maseru: {
+    Generic: Sur-Afrika tá óra,
+    Standard: Sur-Afrika tá óra,
+    Daylight: Sur-Afrika tá óra
+  },
+  Africa/Blantyre: {
+    Generic: Afrika-Kuju tá óra,
+    Standard: Afrika-Kuju tá óra,
+    Daylight: Afrika-Kuju tá óra
+  },
+  Africa/Maputo: {
+    Generic: Afrika-Kuju tá óra,
+    Standard: Afrika-Kuju tá óra,
+    Daylight: Afrika-Kuju tá óra
+  },
+  Africa/Kigali: {
+    Generic: Afrika-Kuju tá óra,
+    Standard: Afrika-Kuju tá óra,
+    Daylight: Afrika-Kuju tá óra
+  },
+  Africa/Mbabane: {
+    Generic: Sur-Afrika tá óra,
+    Standard: Sur-Afrika tá óra,
+    Daylight: Sur-Afrika tá óra
+  },
+  Africa/Lusaka: {
+    Generic: Afrika-Kuju tá óra,
+    Standard: Afrika-Kuju tá óra,
+    Daylight: Afrika-Kuju tá óra
+  },
+  Africa/Harare: {
+    Generic: Afrika-Kuju tá óra,
+    Standard: Afrika-Kuju tá óra,
+    Daylight: Afrika-Kuju tá óra
+  },
+  Etc/GMT-2: {
+    Generic: Ga-kar Óra Vẽnh-krén-ja +2,
+    Standard: Ga-kar Óra Vẽnh-krén-ja +2,
+    Daylight: Ga-kar Óra Vẽnh-krén-ja +2
+  },
+  Africa/Juba: {
+    Generic: Afrika-Kuju tá óra,
+    Standard: Afrika-Kuju tá óra,
+    Daylight: Afrika-Kuju tá óra
+  },
+  Asia/Colombo: {
+    Generic: Óra Pã Ĩnija tá,
+    Standard: Óra Pã Ĩnija tá,
+    Daylight: Óra Pã Ĩnija tá
+  },
+  Africa/Khartoum: {
+    Generic: Afrika-Kuju tá óra,
+    Standard: Afrika-Kuju tá óra,
+    Daylight: Afrika-Kuju tá óra
+  },
+  Asia/Damascus: {
+    Generic: Óra Orópa Rãjur tá,
+    Standard: Óra Pã Orópa Rãjur tá,
+    Daylight: Rỹ Kã óra Orópa Rãjur tá
+  },
+  Asia/Taipei: {
+    Generic: Óra Tajpej tá,
+    Standard: Óra Pã Tajpej tá,
+    Daylight: Rỹ Kã óra Tajpej tá
+  },
+  Australia/Hobart: {
+    Generic: Óra Avotyraria Rãjur tá,
+    Standard: Óra Pã Avotyraria Rãjur tá,
+    Daylight: Rỹ Kã óra Avotyraria Rãjur tá
+  },
+  Australia/Currie: {
+    Generic: Óra Avotyraria Rãjur tá,
+    Standard: Óra Pã Avotyraria Rãjur tá,
+    Daylight: Rỹ Kã óra Avotyraria Rãjur tá
+  },
+  Antarctica/Macquarie: {
+    Generic: Óra Avotyraria Rãjur tá,
+    Standard: Óra Pã Avotyraria Rãjur tá,
+    Daylight: Rỹ Kã óra Avotyraria Rãjur tá
+  },
+  America/Araguaina: {
+    Generic: Óra Mrasirja tá,
+    Standard: Óra Pã Mrasirja tá,
+    Daylight: Rỹ Kã óra Mrasirja tá
+  },
+  Asia/Tokyo: {
+    Generic: Óra Japã tá,
+    Standard: Óra Pã Japã tá,
+    Daylight: Rỹ Kã óra Japã tá
+  },
+  Asia/Jayapura: {
+    Generic: Óra Ĩnonẽja Rãjur tá,
+    Standard: Óra Ĩnonẽja Rãjur tá,
+    Daylight: Óra Ĩnonẽja Rãjur tá
+  },
+  Pacific/Palau: {
+    Generic: Óra Paravu tá,
+    Standard: Óra Paravu tá,
+    Daylight: Óra Paravu tá
+  },
+  Asia/Dili: {
+    Generic: Óra Tĩmãr-Rãjur tá,
+    Standard: Óra Tĩmãr-Rãjur tá,
+    Daylight: Óra Tĩmãr-Rãjur tá
+  },
+  Etc/GMT-9: {
+    Generic: Ga-kar Óra Vẽnh-krén-ja +9,
+    Standard: Ga-kar Óra Vẽnh-krén-ja +9,
+    Daylight: Ga-kar Óra Vẽnh-krén-ja +9
+  },
+  Asia/Tomsk: {
+    Generic: Óra kar Tomĩnhki,
+    Standard: Óra pẽ Tomĩnhki,
+    Daylight: Prỹg kã óra kar Tomĩnhki
+  },
+  Pacific/Tongatapu: {
+    Generic: Óra Tãga tá,
+    Standard: Óra Pã Tãga tá,
+    Daylight: Rỹ Kã óra Tãga tá
+  },
+  Asia/Chita: {
+    Generic: Óra kar Sita,
+    Standard: Óra pẽ Sita,
+    Daylight: Prỹg kã óra kar Sita
+  },
+  Europe/Istanbul: {
+    Generic: Óra kar Turkija,
+    Standard: Óra pẽ Turkija,
+    Daylight: Prỹg kã óra kar Turkija
+  },
+  America/Grand_Turk: {
+    Generic: Óra Rãjur tá,
+    Standard: Óra Pã Rãjur tá,
+    Daylight: Rỹ Kã óra Rãjur tá
+  },
+  America/Indianapolis: {
+    Generic: Óra Rãjur tá,
+    Standard: Óra Pã Rãjur tá,
+    Daylight: Rỹ Kã óra Rãjur tá
+  },
+  America/Indiana/Marengo: {
+    Generic: Óra Rãjur tá,
+    Standard: Óra Pã Rãjur tá,
+    Daylight: Rỹ Kã óra Rãjur tá
+  },
+  America/Indiana/Vevay: {
+    Generic: Óra Rãjur tá,
+    Standard: Óra Pã Rãjur tá,
+    Daylight: Rỹ Kã óra Rãjur tá
+  },
+  America/Phoenix: {
+    Generic: Óra Krĩ tá,
+    Standard: Óra Pã Krĩ tá,
+    Daylight: Rỹ Kã óra Krĩ tá
+  },
+  America/Creston: {
+    Generic: Óra Krĩ tá,
+    Standard: Óra Pã Krĩ tá,
+    Daylight: Rỹ Kã óra Krĩ tá
+  },
+  America/Dawson_Creek: {
+    Generic: Óra Krĩ tá,
+    Standard: Óra Pã Krĩ tá,
+    Daylight: Rỹ Kã óra Krĩ tá
+  },
+  America/Fort_Nelson: {
+    Generic: Óra Krĩ tá,
+    Standard: Óra Pã Krĩ tá,
+    Daylight: Rỹ Kã óra Krĩ tá
+  },
+  America/Hermosillo: {
+    Generic: Óra Mẽsiku Pasifiku tá,
+    Standard: Óra Pã Mẽsiku Pasifiku tá,
+    Daylight: Rỹ Kã óra Mẽsiku Pasifiku tá
+  },
+  Etc/GMT+7: {
+    Generic: Ga-kar Óra Vẽnh-krén-ja -7,
+    Standard: Ga-kar Óra Vẽnh-krén-ja -7,
+    Daylight: Ga-kar Óra Vẽnh-krén-ja -7
+  },
+  Etc/GMT-12: {
+    Generic: Ga-kar Óra Vẽnh-krén-ja +12,
+    Standard: Ga-kar Óra Vẽnh-krén-ja +12,
+    Daylight: Ga-kar Óra Vẽnh-krén-ja +12
+  },
+  Pacific/Tarawa: {
+    Generic: Óra Jirmértu Goj-vẽso tá,
+    Standard: Óra Jirmértu Goj-vẽso tá,
+    Daylight: Óra Jirmértu Goj-vẽso tá
+  },
+  Pacific/Majuro: {
+    Generic: Óra MỹrSar Goj-vẽso tá,
+    Standard: Óra MỹrSar Goj-vẽso tá,
+    Daylight: Óra MỹrSar Goj-vẽso tá
+  },
+  Pacific/Kwajalein: {
+    Generic: Óra MỹrSar Goj-vẽso tá,
+    Standard: Óra MỹrSar Goj-vẽso tá,
+    Daylight: Óra MỹrSar Goj-vẽso tá
+  },
+  Pacific/Nauru: {
+    Generic: Óra Nỹvuru tá,
+    Standard: Óra Nỹvuru tá,
+    Daylight: Óra Nỹvuru tá
+  },
+  Pacific/Funafuti: {
+    Generic: Óra Tuvaru tá,
+    Standard: Óra Tuvaru tá,
+    Daylight: Óra Tuvaru tá
+  },
+  Pacific/Wake: {
+    Generic: Óra Vejki Goj-vẽso tá,
+    Standard: Óra Vejki Goj-vẽso tá,
+    Daylight: Óra Vejki Goj-vẽso tá
+  },
+  Pacific/Wallis: {
+    Generic: Óra Varinh kar Futunỹ tá,
+    Standard: Óra Varinh kar Futunỹ tá,
+    Daylight: Óra Varinh kar Futunỹ tá
+  },
+  Etc/GMT-13: {
+    Generic: Ga-kar Óra Vẽnh-krén-ja +13,
+    Standard: Ga-kar Óra Vẽnh-krén-ja +13,
+    Daylight: Ga-kar Óra Vẽnh-krén-ja +13
+  },
+  Pacific/Enderbury: {
+    Generic: Óra Fẽnĩg Goj-vẽso tá,
+    Standard: Óra Fẽnĩg Goj-vẽso tá,
+    Daylight: Óra Fẽnĩg Goj-vẽso tá
+  },
+  Pacific/Fakaofo: {
+    Generic: Óra Tokeravu tá,
+    Standard: Óra Tokeravu tá,
+    Daylight: Óra Tokeravu tá
+  },
+  Etc/UTC: {
+    Generic: Ga-kar Óra Vẽnh-krén-ja,
+    Standard: Ga-kar Óra Vẽnh-krén-ja,
+    Daylight: Ga-kar Óra Vẽnh-krén-ja
+  },
+  Etc/GMT: {
+    Generic: Óra Mirinjỹnũ Grinũvisi tá,
+    Standard: Óra Mirinjỹnũ Grinũvisi tá,
+    Daylight: Óra Mirinjỹnũ Grinũvisi tá
+  },
+  Etc/GMT+2: {
+    Generic: Ga-kar Óra Vẽnh-krén-ja -2,
+    Standard: Ga-kar Óra Vẽnh-krén-ja -2,
+    Daylight: Ga-kar Óra Vẽnh-krén-ja -2
+  },
+  America/Noronha: {
+    Generic: Óra Fernỹnu Nãrãja-tá tá,
+    Standard: Óra Pã Fernỹnu Nãrãja-tá tá,
+    Daylight: Rỹ Kã óra Fernỹnu Nãrãja-tá tá
+  },
+  Atlantic/South_Georgia: {
+    Generic: Óra Jiórja tỹ Sur tá,
+    Standard: Óra Jiórja tỹ Sur tá,
+    Daylight: Óra Jiórja tỹ Sur tá
+  },
+  Etc/GMT+8: {
+    Generic: Ga-kar Óra Vẽnh-krén-ja -8,
+    Standard: Ga-kar Óra Vẽnh-krén-ja -8,
+    Daylight: Ga-kar Óra Vẽnh-krén-ja -8
+  },
+  Pacific/Pitcairn: {
+    Generic: Óra Pinkajir Goj-vẽso tá,
+    Standard: Óra Pinkajir Goj-vẽso tá,
+    Daylight: Óra Pinkajir Goj-vẽso tá
+  },
+  Etc/GMT+9: {
+    Generic: Ga-kar Óra Vẽnh-krén-ja -9,
+    Standard: Ga-kar Óra Vẽnh-krén-ja -9,
+    Daylight: Ga-kar Óra Vẽnh-krén-ja -9
+  },
+  Pacific/Gambier: {
+    Generic: Óra Gỹmmijer,
+    Standard: Óra Gỹmmijer,
+    Daylight: Óra Gỹmmijer
+  },
+  Etc/GMT+11: {
+    Generic: Ga-kar Óra Vẽnh-krén-ja -11,
+    Standard: Ga-kar Óra Vẽnh-krén-ja -11,
+    Daylight: Ga-kar Óra Vẽnh-krén-ja -11
+  },
+  Pacific/Pago_Pago: {
+    Generic: Óra Samãva tá,
+    Standard: Óra Pã Samãva tá,
+    Daylight: Rỹ Kã óra Samãva tá
+  },
+  Pacific/Niue: {
+    Generic: Óra Nĩve tá,
+    Standard: Óra Nĩve tá,
+    Daylight: Óra Nĩve tá
+  },
+  Pacific/Midway: {
+    Generic: Óra Samãva tá,
+    Standard: Óra Pã Samãva tá,
+    Daylight: Rỹ Kã óra Samãva tá
+  },
+  Asia/Ulaanbaatar: {
+    Generic: Óra Uran Mator tá,
+    Standard: Óra Pã Uran Mator tá,
+    Daylight: Rỹ Kã óra Uran Mator tá
+  },
+  Asia/Choibalsan: {
+    Generic: Óra Uran Mator tá,
+    Standard: Óra Pã Uran Mator tá,
+    Daylight: Rỹ Kã óra Uran Mator tá
+  },
+  America/Caracas: {
+    Generic: Óra Venẽjuvéra tá,
+    Standard: Óra Venẽjuvéra tá,
+    Daylight: Óra Venẽjuvéra tá
+  },
+  Asia/Vladivostok: {
+    Generic: Óra kar Uranivónhtóki,
+    Standard: Óra pẽ Uranivónhtóki,
+    Daylight: Prỹg kã óra kar Uranivónhtóki
+  },
+  Asia/Ust-Nera: {
+    Generic: Óra kar Unhti-Nẽra,
+    Standard: Óra pẽ Unhti-Nẽra,
+    Daylight: Prỹg kã óra kar Unhti-Nẽra
+  },
+  Europe/Volgograd: {
+    Generic: Óra kar Vorgugrano,
+    Standard: Óra pẽ Vorgugrano,
+    Daylight: Prỹg kã óra kar Vorgugrano
+  },
+  Australia/Perth: {
+    Generic: Óra Avotyraria Rãpur tá,
+    Standard: Óra Pã Avotyraria Rãpur tá,
+    Daylight: Rỹ Kã óra Avotyraria Rãpur tá
+  },
+  Africa/Lagos: {
+    Generic: Afrika Rãpur tá óra,
+    Standard: Óra Pã Afrika Rãpur tá,
+    Daylight: Rỹ Kã óra Afrika Rãpur tá
+  },
+  Africa/Luanda: {
+    Generic: Afrika Rãpur tá óra,
+    Standard: Óra Pã Afrika Rãpur tá,
+    Daylight: Rỹ Kã óra Afrika Rãpur tá
+  },
+  Africa/Porto-Novo: {
+    Generic: Afrika Rãpur tá óra,
+    Standard: Óra Pã Afrika Rãpur tá,
+    Daylight: Rỹ Kã óra Afrika Rãpur tá
+  },
+  Africa/Kinshasa: {
+    Generic: Afrika Rãpur tá óra,
+    Standard: Óra Pã Afrika Rãpur tá,
+    Daylight: Rỹ Kã óra Afrika Rãpur tá
+  },
+  Africa/Bangui: {
+    Generic: Afrika Rãpur tá óra,
+    Standard: Óra Pã Afrika Rãpur tá,
+    Daylight: Rỹ Kã óra Afrika Rãpur tá
+  },
+  Africa/Brazzaville: {
+    Generic: Afrika Rãpur tá óra,
+    Standard: Óra Pã Afrika Rãpur tá,
+    Daylight: Rỹ Kã óra Afrika Rãpur tá
+  },
+  Africa/Douala: {
+    Generic: Afrika Rãpur tá óra,
+    Standard: Óra Pã Afrika Rãpur tá,
+    Daylight: Rỹ Kã óra Afrika Rãpur tá
+  },
+  Africa/Algiers: {
+    Generic: Óra Orópa Kuju tá,
+    Standard: Óra Pã Orópa Kuju tá,
+    Daylight: Rỹ Kã óra Orópa Kuju tá
+  },
+  Africa/Libreville: {
+    Generic: Afrika Rãpur tá óra,
+    Standard: Óra Pã Afrika Rãpur tá,
+    Daylight: Rỹ Kã óra Afrika Rãpur tá
+  },
+  Africa/Malabo: {
+    Generic: Afrika Rãpur tá óra,
+    Standard: Óra Pã Afrika Rãpur tá,
+    Daylight: Rỹ Kã óra Afrika Rãpur tá
+  },
+  Africa/Niamey: {
+    Generic: Afrika Rãpur tá óra,
+    Standard: Óra Pã Afrika Rãpur tá,
+    Daylight: Rỹ Kã óra Afrika Rãpur tá
+  },
+  Africa/Ndjamena: {
+    Generic: Afrika Rãpur tá óra,
+    Standard: Óra Pã Afrika Rãpur tá,
+    Daylight: Rỹ Kã óra Afrika Rãpur tá
+  },
+  Africa/Tunis: {
+    Generic: Óra Orópa Kuju tá,
+    Standard: Óra Pã Orópa Kuju tá,
+    Daylight: Rỹ Kã óra Orópa Kuju tá
+  },
+  Etc/GMT-1: {
+    Generic: Ga-kar Óra Vẽnh-krén-ja +1,
+    Standard: Ga-kar Óra Vẽnh-krén-ja +1,
+    Daylight: Ga-kar Óra Vẽnh-krén-ja +1
+  },
+  Europe/Berlin: {
+    Generic: Óra Orópa Kuju tá,
+    Standard: Óra Pã Orópa Kuju tá,
+    Daylight: Rỹ Kã óra Orópa Kuju tá
+  },
+  Europe/Andorra: {
+    Generic: Óra Orópa Kuju tá,
+    Standard: Óra Pã Orópa Kuju tá,
+    Daylight: Rỹ Kã óra Orópa Kuju tá
+  },
+  Europe/Vienna: {
+    Generic: Óra Orópa Kuju tá,
+    Standard: Óra Pã Orópa Kuju tá,
+    Daylight: Rỹ Kã óra Orópa Kuju tá
+  },
+  Europe/Zurich: {
+    Generic: Óra Orópa Kuju tá,
+    Standard: Óra Pã Orópa Kuju tá,
+    Daylight: Rỹ Kã óra Orópa Kuju tá
+  },
+  Europe/Busingen: {
+    Generic: Óra Orópa Kuju tá,
+    Standard: Óra Pã Orópa Kuju tá,
+    Daylight: Rỹ Kã óra Orópa Kuju tá
+  },
+  Europe/Gibraltar: {
+    Generic: Óra Orópa Kuju tá,
+    Standard: Óra Pã Orópa Kuju tá,
+    Daylight: Rỹ Kã óra Orópa Kuju tá
+  },
+  Europe/Rome: {
+    Generic: Óra Orópa Kuju tá,
+    Standard: Óra Pã Orópa Kuju tá,
+    Daylight: Rỹ Kã óra Orópa Kuju tá
+  },
+  Europe/Vaduz: {
+    Generic: Óra Orópa Kuju tá,
+    Standard: Óra Pã Orópa Kuju tá,
+    Daylight: Rỹ Kã óra Orópa Kuju tá
+  },
+  Europe/Luxembourg: {
+    Generic: Óra Orópa Kuju tá,
+    Standard: Óra Pã Orópa Kuju tá,
+    Daylight: Rỹ Kã óra Orópa Kuju tá
+  },
+  Europe/Monaco: {
+    Generic: Óra Orópa Kuju tá,
+    Standard: Óra Pã Orópa Kuju tá,
+    Daylight: Rỹ Kã óra Orópa Kuju tá
+  },
+  Europe/Malta: {
+    Generic: Óra Orópa Kuju tá,
+    Standard: Óra Pã Orópa Kuju tá,
+    Daylight: Rỹ Kã óra Orópa Kuju tá
+  },
+  Europe/Amsterdam: {
+    Generic: Óra Orópa Kuju tá,
+    Standard: Óra Pã Orópa Kuju tá,
+    Daylight: Rỹ Kã óra Orópa Kuju tá
+  },
+  Europe/Oslo: {
+    Generic: Óra Orópa Kuju tá,
+    Standard: Óra Pã Orópa Kuju tá,
+    Daylight: Rỹ Kã óra Orópa Kuju tá
+  },
+  Europe/Stockholm: {
+    Generic: Óra Orópa Kuju tá,
+    Standard: Óra Pã Orópa Kuju tá,
+    Daylight: Rỹ Kã óra Orópa Kuju tá
+  },
+  Arctic/Longyearbyen: {
+    Generic: Óra Orópa Kuju tá,
+    Standard: Óra Pã Orópa Kuju tá,
+    Daylight: Rỹ Kã óra Orópa Kuju tá
+  },
+  Europe/San_Marino: {
+    Generic: Óra Orópa Kuju tá,
+    Standard: Óra Pã Orópa Kuju tá,
+    Daylight: Rỹ Kã óra Orópa Kuju tá
+  },
+  Europe/Vatican: {
+    Generic: Óra Orópa Kuju tá,
+    Standard: Óra Pã Orópa Kuju tá,
+    Daylight: Rỹ Kã óra Orópa Kuju tá
+  },
+  Asia/Hovd: {
+    Generic: Óra Hóvin tá,
+    Standard: Óra Pã Hóvin tá,
+    Daylight: Rỹ kã óra Hóvin tá
+  },
+  Asia/Tashkent: {
+    Generic: Óra Unhmekinhtỹv tá,
+    Standard: Óra Pã Unnmekinhtỹv tá,
+    Daylight: Rỹ Kã óra Unhmekinhtỹv tá
+  },
+  Antarctica/Mawson: {
+    Generic: Óra Mỹusãn tá,
+    Standard: Óra Mỹusãn tá,
+    Daylight: Óra Mỹusãn tá
+  },
+  Asia/Oral: {
+    Generic: Óra Kajakinhtỹv Rãpur tá,
+    Standard: Óra Kajakinhtỹv Rãpur tá,
+    Daylight: Óra Kajakinhtỹv Rãpur tá
+  },
+  Asia/Aqtau: {
+    Generic: Óra Kajakinhtỹv Rãpur tá,
+    Standard: Óra Kajakinhtỹv Rãpur tá,
+    Daylight: Óra Kajakinhtỹv Rãpur tá
+  },
+  Asia/Aqtobe: {
+    Generic: Óra Kajakinhtỹv Rãpur tá,
+    Standard: Óra Kajakinhtỹv Rãpur tá,
+    Daylight: Óra Kajakinhtỹv Rãpur tá
+  },
+  Asia/Atyrau: {
+    Generic: Óra Kajakinhtỹv Rãpur tá,
+    Standard: Óra Kajakinhtỹv Rãpur tá,
+    Daylight: Óra Kajakinhtỹv Rãpur tá
+  },
+  Indian/Maldives: {
+    Generic: Óra Goj Vẽso Mỹrniva tá,
+    Standard: Óra Goj Vẽso Mỹrniva tá,
+    Daylight: Óra Goj Vẽso Mỹrniva tá
+  },
+  Indian/Kerguelen: {
+    Generic: Óra Frỹsa Ga Sur kar Ỹtartina tá,
+    Standard: Óra Frỹsa Ga Sur kar Ỹtartina tá,
+    Daylight: Óra Frỹsa Ga Sur kar Ỹtartina tá
+  },
+  Asia/Dushanbe: {
+    Generic: Óra Tajikinhtỹv tá,
+    Standard: Óra Tajikinhtỹv tá,
+    Daylight: Óra Tajikinhtỹv tá
+  },
+  Asia/Ashgabat: {
+    Generic: Óra Turkomẽnĩnhtỹv tá,
+    Standard: Óra Pã Turkomẽnĩnhtỹv tá,
+    Daylight: Rỹ Kã óra Turkomẽnĩnhtỹv tá
+  },
+  Asia/Samarkand: {
+    Generic: Óra Unhmekinhtỹv tá,
+    Standard: Óra Pã Unnmekinhtỹv tá,
+    Daylight: Rỹ Kã óra Unhmekinhtỹv tá
+  },
+  Etc/GMT-5: {
+    Generic: Ga-kar Óra Vẽnh-krén-ja +5,
+    Standard: Ga-kar Óra Vẽnh-krén-ja +5,
+    Daylight: Ga-kar Óra Vẽnh-krén-ja +5
+  },
+  Asia/Hebron: {
+    Generic: Óra Orópa Rãjur tá,
+    Standard: Óra Pã Orópa Rãjur tá,
+    Daylight: Rỹ Kã óra Orópa Rãjur tá
+  },
+  Asia/Gaza: {
+    Generic: Óra Orópa Rãjur tá,
+    Standard: Óra Pã Orópa Rãjur tá,
+    Daylight: Rỹ Kã óra Orópa Rãjur tá
+  },
+  Pacific/Port_Moresby: {
+    Generic: Óra Papuva-Ginẽ Tãg tá,
+    Standard: Óra Papuva-Ginẽ Tãg tá,
+    Daylight: Óra Papuva-Ginẽ Tãg tá
+  },
+  Antarctica/DumontDUrville: {
+    Generic: Óra Numã-Nurviri tá,
+    Standard: Óra Numã-Nurviri tá,
+    Daylight: Óra Numã-Nurviri tá
+  },
+  Pacific/Truk: {
+    Generic: Óra Suuki tá,
+    Standard: Óra Suuki tá,
+    Daylight: Óra Suuki tá
+  },
+  Pacific/Guam: {
+    Generic: Óra Samãho tá,
+    Standard: Óra Samãho tá,
+    Daylight: Óra Samãho tá
+  },
+  Pacific/Saipan: {
+    Generic: Óra Samãho tá,
+    Standard: Óra Samãho tá,
+    Daylight: Óra Samãho tá
+  },
+  Etc/GMT-10: {
+    Generic: Ga-kar Óra Vẽnh-krén-ja +10,
+    Standard: Ga-kar Óra Vẽnh-krén-ja +10,
+    Daylight: Ga-kar Óra Vẽnh-krén-ja +10
+  },
+  Asia/Yakutsk: {
+    Generic: Óra kar Yjakutinhki,
+    Standard: Óra pẽ Yjakutinhki,
+    Daylight: Prỹg kã óra kar Yjakutinhki
+  },
+  Asia/Khandyga: {
+    Generic: Óra kar Kỹnyga,
+    Standard: Óra pẽ Kỹnyga,
+    Daylight: Prỹg kã óra kar Kỹnyga
+  },
+  America/Whitehorse: {
+    Generic: Óra kar Kanỹna,
+    Standard: Óra pẽ Kanỹna,
+    Daylight: Prỹg kã óra kar Kanỹna
+  },
+  America/Dawson: {
+    Generic: Óra kar Kanỹna,
+    Standard: Óra pẽ Kanỹna,
+    Daylight: Prỹg kã óra kar Kanỹna
+  },
+  Iceland: {
+    Generic: Óra Mirinjỹnũ Grinũvisi tá,
+    Standard: Óra Mirinjỹnũ Grinũvisi tá,
+    Daylight: Óra Mirinjỹnũ Grinũvisi tá
+  },
+  Africa/Timbuktu: {
+    Generic: Óra Mirinjỹnũ Grinũvisi tá,
+    Standard: Óra Mirinjỹnũ Grinũvisi tá,
+    Daylight: Óra Mirinjỹnũ Grinũvisi tá
+  },
+  Egypt: {
+    Generic: Óra Orópa Rãjur tá,
+    Standard: Óra Pã Orópa Rãjur tá,
+    Daylight: Rỹ Kã óra Orópa Rãjur tá
+  },
+  Africa/Asmara: {
+    Generic: Afrika Rãjur tá óra,
+    Standard: Afrika Rãjur tá óra,
+    Daylight: Afrika Rãjur tá óra
+  },
+  Libya: {
+    Generic: Óra Orópa Rãjur tá,
+    Standard: Óra Pã Orópa Rãjur tá,
+    Daylight: Rỹ Kã óra Orópa Rãjur tá
+  },
+  America/Atka: {
+    Generic: Óra Hava’i kar Arevta Goj-vẽso tá,
+    Standard: Óra Pã Hava’i kar Arevta Goj-vẽso tá,
+    Daylight: Rỹ kã óra Hava’i kar Arevta Goj-vẽso tá
+  },
+  US/Aleutian: {
+    Generic: Óra Hava’i kar Arevta Goj-vẽso tá,
+    Standard: Óra Pã Hava’i kar Arevta Goj-vẽso tá,
+    Daylight: Rỹ kã óra Hava’i kar Arevta Goj-vẽso tá
+  },
+  US/Alaska: {
+    Generic: Aranhka tá óra,
+    Standard: Óra Pã Aranhka tá,
+    Daylight: Rỹ Kã óra Aranhka tá
+  },
+  America/Argentina/Buenos_Aires: {
+    Generic: Óra Arjẽtĩnỹ tá,
+    Standard: Óra Opã Arjẽtĩnỹ tá,
+    Daylight: Rỹ Kã óra Arjẽtĩnỹ tá
+  },
+  America/Argentina/Catamarca: {
+    Generic: Óra Arjẽtĩnỹ tá,
+    Standard: Óra Opã Arjẽtĩnỹ tá,
+    Daylight: Rỹ Kã óra Arjẽtĩnỹ tá
+  },
+  America/Argentina/ComodRivadavia: {
+    Generic: Óra Arjẽtĩnỹ tá,
+    Standard: Óra Opã Arjẽtĩnỹ tá,
+    Daylight: Rỹ Kã óra Arjẽtĩnỹ tá
+  },
+  America/Argentina/Cordoba: {
+    Generic: Óra Arjẽtĩnỹ tá,
+    Standard: Óra Opã Arjẽtĩnỹ tá,
+    Daylight: Rỹ Kã óra Arjẽtĩnỹ tá
+  },
+  America/Rosario: {
+    Generic: Óra Arjẽtĩnỹ tá,
+    Standard: Óra Opã Arjẽtĩnỹ tá,
+    Daylight: Rỹ Kã óra Arjẽtĩnỹ tá
+  },
+  America/Argentina/Jujuy: {
+    Generic: Óra Arjẽtĩnỹ tá,
+    Standard: Óra Opã Arjẽtĩnỹ tá,
+    Daylight: Rỹ Kã óra Arjẽtĩnỹ tá
+  },
+  America/Argentina/Mendoza: {
+    Generic: Óra Arjẽtĩnỹ tá,
+    Standard: Óra Opã Arjẽtĩnỹ tá,
+    Daylight: Rỹ Kã óra Arjẽtĩnỹ tá
+  },
+  US/Central: {
+    Generic: Kuju tá óra,
+    Standard: Óra Pã Kuju tá,
+    Daylight: Rỹ Kã óra Kuju tá
+  },
+  America/Shiprock: {
+    Generic: Óra Krĩ tá,
+    Standard: Óra Pã Krĩ tá,
+    Daylight: Rỹ Kã óra Krĩ tá
+  },
+  Navajo: {
+    Generic: Óra Krĩ tá,
+    Standard: Óra Pã Krĩ tá,
+    Daylight: Rỹ Kã óra Krĩ tá
+  },
+  US/Mountain: {
+    Generic: Óra Krĩ tá,
+    Standard: Óra Pã Krĩ tá,
+    Daylight: Rỹ Kã óra Krĩ tá
+  },
+  US/Michigan: {
+    Generic: Óra Rãjur tá,
+    Standard: Óra Pã Rãjur tá,
+    Daylight: Rỹ Kã óra Rãjur tá
+  },
+  Canada/Mountain: {
+    Generic: Óra Krĩ tá,
+    Standard: Óra Pã Krĩ tá,
+    Daylight: Rỹ Kã óra Krĩ tá
+  },
+  Canada/Atlantic: {
+    Generic: Óra Atrỹtiku tá,
+    Standard: Óra Pã Atrỹtiku tá,
+    Daylight: Rỹ Kã óra Atrỹtiku tá
+  },
+  Cuba: {
+    Generic: Óra Kuma tá,
+    Standard: Óra Pã Kuma tá,
+    Daylight: Rỹ Kã óra Kuma tá
+  },
+  America/Indiana/Indianapolis: {
+    Generic: Óra Rãjur tá,
+    Standard: Óra Pã Rãjur tá,
+    Daylight: Rỹ Kã óra Rãjur tá
+  },
+  US/East-Indiana: {
+    Generic: Óra Rãjur tá,
+    Standard: Óra Pã Rãjur tá,
+    Daylight: Rỹ Kã óra Rãjur tá
+  },
+  America/Knox_IN: {
+    Generic: Kuju tá óra,
+    Standard: Óra Pã Kuju tá,
+    Daylight: Rỹ Kã óra Kuju tá
+  },
+  US/Indiana-Starke: {
+    Generic: Kuju tá óra,
+    Standard: Óra Pã Kuju tá,
+    Daylight: Rỹ Kã óra Kuju tá
+  },
+  Jamaica: {
+    Generic: Óra Rãjur tá,
+    Standard: Óra Pã Rãjur tá,
+    Daylight: Rỹ Kã óra Rãjur tá
+  },
+  America/Kentucky/Louisville: {
+    Generic: Óra Rãjur tá,
+    Standard: Óra Pã Rãjur tá,
+    Daylight: Rỹ Kã óra Rãjur tá
+  },
+  US/Pacific: {
+    Generic: Óra Rãpur tá,
+    Standard: Óra Pã Rãpur tá,
+    Daylight: Rỹ Kã óra Rãpur tá
+  },
+  Brazil/West: {
+    Generic: Amỹjonỹ tá óra,
+    Standard: Óra Pã Amỹjonỹ tá,
+    Daylight: Rỹ Kã óra Amỹjonỹ tá
+  },
+  Mexico/BajaSur: {
+    Generic: Óra Mẽsiku Pasifiku tá,
+    Standard: Óra Pã Mẽsiku Pasifiku tá,
+    Daylight: Rỹ Kã óra Mẽsiku Pasifiku tá
+  },
+  Mexico/General: {
+    Generic: Kuju tá óra,
+    Standard: Óra Pã Kuju tá,
+    Daylight: Rỹ Kã óra Kuju tá
+  },
+  US/Eastern: {
+    Generic: Óra Rãjur tá,
+    Standard: Óra Pã Rãjur tá,
+    Daylight: Rỹ Kã óra Rãjur tá
+  },
+  Brazil/DeNoronha: {
+    Generic: Óra Fernỹnu Nãrãja-tá tá,
+    Standard: Óra Pã Fernỹnu Nãrãja-tá tá,
+    Daylight: Rỹ Kã óra Fernỹnu Nãrãja-tá tá
+  },
+  America/Nuuk: {
+    Generic: Óra Groẽrỹnija Rãpur tá,
+    Standard: Óra Pã Groẽrỹnija Rãpur tá,
+    Daylight: Rỹ Kã óra Groẽrỹnija Rãpur tá
+  },
+  America/Atikokan: {
+    Generic: Óra Rãjur tá,
+    Standard: Óra Pã Rãjur tá,
+    Daylight: Rỹ Kã óra Rãjur tá
+  },
+  US/Arizona: {
+    Generic: Óra Krĩ tá,
+    Standard: Óra Pã Krĩ tá,
+    Daylight: Rỹ Kã óra Krĩ tá
+  },
+  America/Virgin: {
+    Generic: Óra Atrỹtiku tá,
+    Standard: Óra Pã Atrỹtiku tá,
+    Daylight: Rỹ Kã óra Atrỹtiku tá
+  },
+  Canada/Saskatchewan: {
+    Generic: Kuju tá óra,
+    Standard: Óra Pã Kuju tá,
+    Daylight: Rỹ Kã óra Kuju tá
+  },
+  America/Porto_Acre: {
+    Generic: Akre tá óra,
+    Standard: Óra Pã Akre tá,
+    Daylight: Rỹ Kã óra Akre tá
+  },
+  Brazil/Acre: {
+    Generic: Akre tá óra,
+    Standard: Óra Pã Akre tá,
+    Daylight: Rỹ Kã óra Akre tá
+  },
+  Chile/Continental: {
+    Generic: Óra Sire tá,
+    Standard: Óra Pã Sire tá,
+    Daylight: Rỹ Kã óra Sire tá
+  },
+  Brazil/East: {
+    Generic: Óra Mrasirja tá,
+    Standard: Óra Pã Mrasirja tá,
+    Daylight: Rỹ Kã óra Mrasirja tá
+  },
+  Canada/Newfoundland: {
+    Generic: Óra Ga tãg tá,
+    Standard: Óra Pã Ga Tãg tá,
+    Daylight: Rỹ Kã óra Ga Tãg tá
+  },
+  America/Ensenada: {
+    Generic: Óra Rãpur tá,
+    Standard: Óra Pã Rãpur tá,
+    Daylight: Rỹ Kã óra Rãpur tá
+  },
+  Mexico/BajaNorte: {
+    Generic: Óra Rãpur tá,
+    Standard: Óra Pã Rãpur tá,
+    Daylight: Rỹ Kã óra Rãpur tá
+  },
+  Canada/Eastern: {
+    Generic: Óra Rãjur tá,
+    Standard: Óra Pã Rãjur tá,
+    Daylight: Rỹ Kã óra Rãjur tá
+  },
+  Canada/Pacific: {
+    Generic: Óra Rãpur tá,
+    Standard: Óra Pã Rãpur tá,
+    Daylight: Rỹ Kã óra Rãpur tá
+  },
+  Canada/Yukon: {
+    Generic: Óra kar Kanỹna,
+    Standard: Óra pẽ Kanỹna,
+    Daylight: Prỹg kã óra kar Kanỹna
+  },
+  Canada/Central: {
+    Generic: Kuju tá óra,
+    Standard: Óra Pã Kuju tá,
+    Daylight: Rỹ Kã óra Kuju tá
+  },
+  Asia/Ashkhabad: {
+    Generic: Óra Turkomẽnĩnhtỹv tá,
+    Standard: Óra Pã Turkomẽnĩnhtỹv tá,
+    Daylight: Rỹ Kã óra Turkomẽnĩnhtỹv tá
+  },
+  Asia/Dacca: {
+    Generic: Óra Mỹngranési tá,
+    Standard: Óra Pã Mỹngranési tá,
+    Daylight: Rỹ Kã óra Mỹngranési tá
+  },
+  Asia/Ho_Chi_Minh: {
+    Generic: Óra Ĩnosĩnỹ tá,
+    Standard: Óra Ĩnosĩnỹ tá,
+    Daylight: Óra Ĩnosĩnỹ tá
+  },
+  Hongkong: {
+    Generic: Óra Hãg Kãg tá,
+    Standard: Óra Pã Hãg Kãg tá,
+    Daylight: Rỹ Kã óra Hãg Kãg tá
+  },
+  Asia/Tel_Aviv: {
+    Generic: Óra Isihaé tá,
+    Standard: Óra Pã Isihaé tá,
+    Daylight: Rỹ Kã óra Isihaé tá
+  },
+  Israel: {
+    Generic: Óra Isihaé tá,
+    Standard: Óra Pã Isihaé tá,
+    Daylight: Rỹ Kã óra Isihaé tá
+  },
+  Asia/Kathmandu: {
+    Generic: Óra Nẽpar tá,
+    Standard: Óra Nẽpar tá,
+    Daylight: Óra Nẽpar tá
+  },
+  Asia/Kolkata: {
+    Generic: Óra Pã Ĩnija tá,
+    Standard: Óra Pã Ĩnija tá,
+    Daylight: Óra Pã Ĩnija tá
+  },
+  Asia/Macao: {
+    Generic: Óra Sĩnỹ tá,
+    Standard: Óra Pã Sĩnỹ tá,
+    Daylight: Rỹ Kã óra Sĩnỹ tá
+  },
+  Asia/Ujung_Pandang: {
+    Generic: Óra Ĩnonẽja Kuju tá,
+    Standard: Óra Ĩnonẽja Kuju tá,
+    Daylight: Óra Ĩnonẽja Kuju tá
+  },
+  Europe/Nicosia: {
+    Generic: Óra Orópa Rãjur tá,
+    Standard: Óra Pã Orópa Rãjur tá,
+    Daylight: Rỹ Kã óra Orópa Rãjur tá
+  },
+  ROK: {
+    Generic: Óra Koréja tá,
+    Standard: Óra Pã Koréja tá,
+    Daylight: Rỹ Kã óra Koréja tá
+  },
+  Asia/Chongqing: {
+    Generic: Óra Sĩnỹ tá,
+    Standard: Óra Pã Sĩnỹ tá,
+    Daylight: Rỹ Kã óra Sĩnỹ tá
+  },
+  Asia/Chungking: {
+    Generic: Óra Sĩnỹ tá,
+    Standard: Óra Pã Sĩnỹ tá,
+    Daylight: Rỹ Kã óra Sĩnỹ tá
+  },
+  Asia/Harbin: {
+    Generic: Óra Sĩnỹ tá,
+    Standard: Óra Pã Sĩnỹ tá,
+    Daylight: Rỹ Kã óra Sĩnỹ tá
+  },
+  PRC: {
+    Generic: Óra Sĩnỹ tá,
+    Standard: Óra Pã Sĩnỹ tá,
+    Daylight: Rỹ Kã óra Sĩnỹ tá
+  },
+  Singapore: {
+    Generic: Óra Pã Sĩgapura tá,
+    Standard: Óra Pã Sĩgapura tá,
+    Daylight: Óra Pã Sĩgapura tá
+  },
+  ROC: {
+    Generic: Óra Tajpej tá,
+    Standard: Óra Pã Tajpej tá,
+    Daylight: Rỹ Kã óra Tajpej tá
+  },
+  Iran: {
+    Generic: Óra Irỹ tá,
+    Standard: Óra Pã Irỹ tá,
+    Daylight: Rỹ Kã óra Irỹ tá
+  },
+  Asia/Thimbu: {
+    Generic: Óra Mutỹv tá,
+    Standard: Óra Mutỹv tá,
+    Daylight: Óra Mutỹv tá
+  },
+  Japan: {
+    Generic: Óra Japã tá,
+    Standard: Óra Pã Japã tá,
+    Daylight: Rỹ Kã óra Japã tá
+  },
+  Asia/Ulan_Bator: {
+    Generic: Óra Uran Mator tá,
+    Standard: Óra Pã Uran Mator tá,
+    Daylight: Rỹ Kã óra Uran Mator tá
+  },
+  Asia/Kashgar: {
+    Generic: Óra kar Sĩnỹ,
+    Standard: Óra pẽ Sĩnỹ,
+    Daylight: Prỹg kã óra kar Sĩnỹ
+  },
+  Asia/Yangon: {
+    Generic: Óra Mĩjỹmỹr tá,
+    Standard: Óra Mĩjỹmỹr tá,
+    Daylight: Óra Mĩjỹmỹr tá
+  },
+  WET: {
+    Generic: Óra Orópa Rãpur tá,
+    Standard: Óra Pã Orópa Rãpur tá,
+    Daylight: Rỹ Kã óra Orópa Rãpur tá
+  },
+  Atlantic/Faroe: {
+    Generic: Óra Orópa Rãpur tá,
+    Standard: Óra Pã Orópa Rãpur tá,
+    Daylight: Rỹ Kã óra Orópa Rãpur tá
+  },
+  Australia/South: {
+    Generic: Óra Avotyraria Kuju tá,
+    Standard: Óra Pã Avotyraria Kuju tá,
+    Daylight: Rỹ Kã óra Avotyraria Kuju tá
+  },
+  Australia/Queensland: {
+    Generic: Óra Avotyraria Rãjur tá,
+    Standard: Óra Pã Avotyraria Rãjur tá,
+    Daylight: Rỹ Kã óra Avotyraria Rãjur tá
+  },
+  Australia/Yancowinna: {
+    Generic: Óra Avotyraria Kuju tá,
+    Standard: Óra Pã Avotyraria Kuju tá,
+    Daylight: Rỹ Kã óra Avotyraria Kuju tá
+  },
+  Australia/North: {
+    Generic: Óra Avotyraria Kuju tá,
+    Standard: Óra Pã Avotyraria Kuju tá,
+    Daylight: Rỹ Kã óra Avotyraria Kuju tá
+  },
+  Australia/Tasmania: {
+    Generic: Óra Avotyraria Rãjur tá,
+    Standard: Óra Pã Avotyraria Rãjur tá,
+    Daylight: Rỹ Kã óra Avotyraria Rãjur tá
+  },
+  Australia/LHI: {
+    Generic: Óra Rórni Hove tá,
+    Standard: Óra Pã Rórni Hove tá,
+    Daylight: Rỹ Kã óra Rórni Hove tá
+  },
+  Australia/Victoria: {
+    Generic: Óra Avotyraria Rãjur tá,
+    Standard: Óra Pã Avotyraria Rãjur tá,
+    Daylight: Rỹ Kã óra Avotyraria Rãjur tá
+  },
+  Australia/West: {
+    Generic: Óra Avotyraria Rãpur tá,
+    Standard: Óra Pã Avotyraria Rãpur tá,
+    Daylight: Rỹ Kã óra Avotyraria Rãpur tá
+  },
+  Australia/ACT: {
+    Generic: Óra Avotyraria Rãjur tá,
+    Standard: Óra Pã Avotyraria Rãjur tá,
+    Daylight: Rỹ Kã óra Avotyraria Rãjur tá
+  },
+  Australia/Canberra: {
+    Generic: Óra Avotyraria Rãjur tá,
+    Standard: Óra Pã Avotyraria Rãjur tá,
+    Daylight: Rỹ Kã óra Avotyraria Rãjur tá
+  },
+  Australia/NSW: {
+    Generic: Óra Avotyraria Rãjur tá,
+    Standard: Óra Pã Avotyraria Rãjur tá,
+    Daylight: Rỹ Kã óra Avotyraria Rãjur tá
+  },
+  HST: {
+    Generic: Ga-kar Óra Vẽnh-krén-ja -10,
+    Standard: Ga-kar Óra Vẽnh-krén-ja -10,
+    Daylight: Ga-kar Óra Vẽnh-krén-ja -10
+  },
+  EST: {
+    Generic: Ga-kar Óra Vẽnh-krén-ja -5,
+    Standard: Ga-kar Óra Vẽnh-krén-ja -5,
+    Daylight: Ga-kar Óra Vẽnh-krén-ja -5
+  },
+  MST: {
+    Generic: Ga-kar Óra Vẽnh-krén-ja -7,
+    Standard: Ga-kar Óra Vẽnh-krén-ja -7,
+    Daylight: Ga-kar Óra Vẽnh-krén-ja -7
+  },
+  Etc/GMT+0: {
+    Generic: Óra Mirinjỹnũ Grinũvisi tá,
+    Standard: Óra Mirinjỹnũ Grinũvisi tá,
+    Daylight: Óra Mirinjỹnũ Grinũvisi tá
+  },
+  Etc/GMT-0: {
+    Generic: Óra Mirinjỹnũ Grinũvisi tá,
+    Standard: Óra Mirinjỹnũ Grinũvisi tá,
+    Daylight: Óra Mirinjỹnũ Grinũvisi tá
+  },
+  Etc/GMT0: {
+    Generic: Óra Mirinjỹnũ Grinũvisi tá,
+    Standard: Óra Mirinjỹnũ Grinũvisi tá,
+    Daylight: Óra Mirinjỹnũ Grinũvisi tá
+  },
+  Etc/Greenwich: {
+    Generic: Óra Mirinjỹnũ Grinũvisi tá,
+    Standard: Óra Mirinjỹnũ Grinũvisi tá,
+    Daylight: Óra Mirinjỹnũ Grinũvisi tá
+  },
+  GMT: {
+    Generic: Óra Mirinjỹnũ Grinũvisi tá,
+    Standard: Óra Mirinjỹnũ Grinũvisi tá,
+    Daylight: Óra Mirinjỹnũ Grinũvisi tá
+  },
+  GMT+0: {
+    Generic: Óra Mirinjỹnũ Grinũvisi tá,
+    Standard: Óra Mirinjỹnũ Grinũvisi tá,
+    Daylight: Óra Mirinjỹnũ Grinũvisi tá
+  },
+  GMT-0: {
+    Generic: Óra Mirinjỹnũ Grinũvisi tá,
+    Standard: Óra Mirinjỹnũ Grinũvisi tá,
+    Daylight: Óra Mirinjỹnũ Grinũvisi tá
+  },
+  GMT0: {
+    Generic: Óra Mirinjỹnũ Grinũvisi tá,
+    Standard: Óra Mirinjỹnũ Grinũvisi tá,
+    Daylight: Óra Mirinjỹnũ Grinũvisi tá
+  },
+  Greenwich: {
+    Generic: Óra Mirinjỹnũ Grinũvisi tá,
+    Standard: Óra Mirinjỹnũ Grinũvisi tá,
+    Daylight: Óra Mirinjỹnũ Grinũvisi tá
+  },
+  Etc/UCT: {
+    Generic: Ga-kar Óra Vẽnh-krén-ja,
+    Standard: Ga-kar Óra Vẽnh-krén-ja,
+    Daylight: Ga-kar Óra Vẽnh-krén-ja
+  },
+  Etc/Universal: {
+    Generic: Ga-kar Óra Vẽnh-krén-ja,
+    Standard: Ga-kar Óra Vẽnh-krén-ja,
+    Daylight: Ga-kar Óra Vẽnh-krén-ja
+  },
+  Etc/Zulu: {
+    Generic: Ga-kar Óra Vẽnh-krén-ja,
+    Standard: Ga-kar Óra Vẽnh-krén-ja,
+    Daylight: Ga-kar Óra Vẽnh-krén-ja
+  },
+  UCT: {
+    Generic: Ga-kar Óra Vẽnh-krén-ja,
+    Standard: Ga-kar Óra Vẽnh-krén-ja,
+    Daylight: Ga-kar Óra Vẽnh-krén-ja
+  },
+  UTC: {
+    Generic: Ga-kar Óra Vẽnh-krén-ja,
+    Standard: Ga-kar Óra Vẽnh-krén-ja,
+    Daylight: Ga-kar Óra Vẽnh-krén-ja
+  },
+  Universal: {
+    Generic: Ga-kar Óra Vẽnh-krén-ja,
+    Standard: Ga-kar Óra Vẽnh-krén-ja,
+    Daylight: Ga-kar Óra Vẽnh-krén-ja
+  },
+  Zulu: {
+    Generic: Ga-kar Óra Vẽnh-krén-ja,
+    Standard: Ga-kar Óra Vẽnh-krén-ja,
+    Daylight: Ga-kar Óra Vẽnh-krén-ja
+  },
+  Atlantic/Jan_Mayen: {
+    Generic: Óra Orópa Kuju tá,
+    Standard: Óra Pã Orópa Kuju tá,
+    Daylight: Rỹ Kã óra Orópa Kuju tá
+  },
+  MET: {
+    Generic: Óra Orópa Kuju tá,
+    Standard: Óra Pã Orópa Kuju tá,
+    Daylight: Rỹ Kã óra Orópa Kuju tá
+  },
+  EET: {
+    Generic: Óra Orópa Rãjur tá,
+    Standard: Óra Pã Orópa Rãjur tá,
+    Daylight: Rỹ Kã óra Orópa Rãjur tá
+  },
+  Europe/Tiraspol: {
+    Generic: Óra Orópa Rãjur tá,
+    Standard: Óra Pã Orópa Rãjur tá,
+    Daylight: Rỹ Kã óra Orópa Rãjur tá
+  },
+  Eire: {
+    Generic: Óra kar Irỹna,
+    Standard: Óra Mirinjỹnũ Grinũvisi tá,
+    Daylight: Óra Pã Irỹna
+  },
+  Asia/Istanbul: {
+    Generic: Óra kar Turkija,
+    Standard: Óra pẽ Turkija,
+    Daylight: Prỹg kã óra kar Turkija
+  },
+  Turkey: {
+    Generic: Óra kar Turkija,
+    Standard: Óra pẽ Turkija,
+    Daylight: Prỹg kã óra kar Turkija
+  },
+  Europe/Kyiv: {
+    Generic: Óra Orópa Rãjur tá,
+    Standard: Óra Pã Orópa Rãjur tá,
+    Daylight: Rỹ Kã óra Orópa Rãjur tá
+  },
+  Portugal: {
+    Generic: Óra Orópa Rãpur tá,
+    Standard: Óra Pã Orópa Rãpur tá,
+    Daylight: Rỹ Kã óra Orópa Rãpur tá
+  },
+  Europe/Belfast: {
+    Generic: Óra kar Rejnũ Unĩnu,
+    Standard: Óra Mirinjỹnũ Grinũvisi tá,
+    Daylight: Óra Mritỹnĩku Rỹ Kã
+  },
+  GB: {
+    Generic: Óra kar Rejnũ Unĩnu,
+    Standard: Óra Mirinjỹnũ Grinũvisi tá,
+    Daylight: Óra Mritỹnĩku Rỹ Kã
+  },
+  GB-Eire: {
+    Generic: Óra kar Rejnũ Unĩnu,
+    Standard: Óra Mirinjỹnũ Grinũvisi tá,
+    Daylight: Óra Mritỹnĩku Rỹ Kã
+  },
+  W-SU: {
+    Generic: Óra kar Mãnhkov,
+    Standard: Óra pẽ Mãnhkov,
+    Daylight: Prỹg kã óra kar Mãnhkov
+  },
+  CET: {
+    Generic: Óra Orópa Kuju tá,
+    Standard: Óra Pã Orópa Kuju tá,
+    Daylight: Rỹ Kã óra Orópa Kuju tá
+  },
+  Poland: {
+    Generic: Óra Orópa Kuju tá,
+    Standard: Óra Pã Orópa Kuju tá,
+    Daylight: Rỹ Kã óra Orópa Kuju tá
+  },
+  Antarctica/South_Pole: {
+    Generic: Óra Jerỹnija Tãg tá,
+    Standard: Óra Pã Jerỹnija Tãg tá,
+    Daylight: Rỹ Kã óra Jerỹnija Tãg tá
+  },
+  NZ: {
+    Generic: Óra Jerỹnija Tãg tá,
+    Standard: Óra Pã Jerỹnija Tãg tá,
+    Daylight: Rỹ Kã óra Jerỹnija Tãg tá
+  },
+  NZ-CHAT: {
+    Generic: Óra San-hỹm tá,
+    Standard: Óra Pã San-hỹm tá,
+    Daylight: Rỹ Kã óra San-hỹm tá
+  },
+  Chile/EasterIsland: {
+    Generic: Óra Panhkuva Goj-vẽso tá,
+    Standard: Óra Pã Panhkuva Goj-vẽso tá,
+    Daylight: Rỹ Kã óra Panhkuva Goj-vẽso tá
+  },
+  Pacific/Pohnpei: {
+    Generic: Óra Ponỹpe tá,
+    Standard: Óra Ponỹpe tá,
+    Daylight: Óra Ponỹpe tá
+  },
+  US/Hawaii: {
+    Generic: Óra Hava’i kar Arevta Goj-vẽso tá,
+    Standard: Óra Pã Hava’i kar Arevta Goj-vẽso tá,
+    Daylight: Rỹ kã óra Hava’i kar Arevta Goj-vẽso tá
+  },
+  Pacific/Kanton: {
+    Generic: Óra Fẽnĩg Goj-vẽso tá,
+    Standard: Óra Fẽnĩg Goj-vẽso tá,
+    Daylight: Óra Fẽnĩg Goj-vẽso tá
+  },
+  Kwajalein: {
+    Generic: Óra MỹrSar Goj-vẽso tá,
+    Standard: Óra MỹrSar Goj-vẽso tá,
+    Daylight: Óra MỹrSar Goj-vẽso tá
+  },
+  Pacific/Samoa: {
+    Generic: Óra Samãva tá,
+    Standard: Óra Pã Samãva tá,
+    Daylight: Rỹ Kã óra Samãva tá
+  },
+  US/Samoa: {
+    Generic: Óra Samãva tá,
+    Standard: Óra Pã Samãva tá,
+    Daylight: Rỹ Kã óra Samãva tá
+  },
+  Pacific/Chuuk: {
+    Generic: Óra Suuki tá,
+    Standard: Óra Suuki tá,
+    Daylight: Óra Suuki tá
+  },
+  Pacific/Yap: {
+    Generic: Óra Suuki tá,
+    Standard: Óra Suuki tá,
+    Daylight: Óra Suuki tá
+  },
+  America/Fort_Wayne: {
+    Generic: Óra Rãjur tá,
+    Standard: Óra Pã Rãjur tá,
+    Daylight: Rỹ Kã óra Rãjur tá
+  },
+  Antarctica/Troll: {
+    Generic: Óra Mirinjỹnũ Grinũvisi tá,
+    Standard: Óra Mirinjỹnũ Grinũvisi tá,
+    Daylight: Óra Mirinjỹnũ Grinũvisi tá
   }
-]
+}

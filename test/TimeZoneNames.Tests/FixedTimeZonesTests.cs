@@ -18,7 +18,7 @@ public class FixedTimeZonesTests
     public Task CanGetFixedTimeZoneAbbreviations()
     {
         var abbreviations = TZNames.GetFixedTimeZoneAbbreviations();
-        return Verifier.Verify(abbreviations);
+        return Verifier.Verify(abbreviations).DontSortDictionaries();
     }
     
     [Theory]
@@ -26,6 +26,6 @@ public class FixedTimeZonesTests
     public Task CanGetFixedTimeZoneNames(string language)
     {
         var names = TZNames.GetFixedTimeZoneNames(language);
-        return Verifier.Verify(names).UseParameters(language);
+        return Verifier.Verify(names).DontSortDictionaries().UseParameters(language);
     }
 }

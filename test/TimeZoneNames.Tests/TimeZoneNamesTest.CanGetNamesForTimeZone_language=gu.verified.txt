@@ -1,4762 +1,2977 @@
-﻿[
-  {
-    Key: Africa/Abidjan,
-    Value: {
-      Generic: ગ્રીનવિચ મધ્યમ સમય,
-      Standard: ગ્રીનવિચ મધ્યમ સમય,
-      Daylight: ગ્રીનવિચ મધ્યમ સમય
-    }
-  },
-  {
-    Key: Africa/Accra,
-    Value: {
-      Generic: ગ્રીનવિચ મધ્યમ સમય,
-      Standard: ગ્રીનવિચ મધ્યમ સમય,
-      Daylight: ગ્રીનવિચ મધ્યમ સમય
-    }
-  },
-  {
-    Key: Africa/Addis_Ababa,
-    Value: {
-      Generic: પૂર્વ આફ્રિકા સમય,
-      Standard: પૂર્વ આફ્રિકા સમય,
-      Daylight: પૂર્વ આફ્રિકા સમય
-    }
-  },
-  {
-    Key: Africa/Algiers,
-    Value: {
-      Generic: મધ્ય યુરોપિયન સમય,
-      Standard: મધ્ય યુરોપિયન માનક સમય,
-      Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Africa/Asmara,
-    Value: {
-      Generic: પૂર્વ આફ્રિકા સમય,
-      Standard: પૂર્વ આફ્રિકા સમય,
-      Daylight: પૂર્વ આફ્રિકા સમય
-    }
-  },
-  {
-    Key: Africa/Asmera,
-    Value: {
-      Generic: પૂર્વ આફ્રિકા સમય,
-      Standard: પૂર્વ આફ્રિકા સમય,
-      Daylight: પૂર્વ આફ્રિકા સમય
-    }
-  },
-  {
-    Key: Africa/Bamako,
-    Value: {
-      Generic: ગ્રીનવિચ મધ્યમ સમય,
-      Standard: ગ્રીનવિચ મધ્યમ સમય,
-      Daylight: ગ્રીનવિચ મધ્યમ સમય
-    }
-  },
-  {
-    Key: Africa/Bangui,
-    Value: {
-      Generic: પશ્ચિમ આફ્રિકા સમય,
-      Standard: પશ્ચિમ આફ્રિકા માનક સમય,
-      Daylight: પશ્ચિમ આફ્રિકા ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Africa/Banjul,
-    Value: {
-      Generic: ગ્રીનવિચ મધ્યમ સમય,
-      Standard: ગ્રીનવિચ મધ્યમ સમય,
-      Daylight: ગ્રીનવિચ મધ્યમ સમય
-    }
-  },
-  {
-    Key: Africa/Bissau,
-    Value: {
-      Generic: ગ્રીનવિચ મધ્યમ સમય,
-      Standard: ગ્રીનવિચ મધ્યમ સમય,
-      Daylight: ગ્રીનવિચ મધ્યમ સમય
-    }
-  },
-  {
-    Key: Africa/Blantyre,
-    Value: {
-      Generic: મધ્ય આફ્રિકા સમય,
-      Standard: મધ્ય આફ્રિકા સમય,
-      Daylight: મધ્ય આફ્રિકા સમય
-    }
-  },
-  {
-    Key: Africa/Brazzaville,
-    Value: {
-      Generic: પશ્ચિમ આફ્રિકા સમય,
-      Standard: પશ્ચિમ આફ્રિકા માનક સમય,
-      Daylight: પશ્ચિમ આફ્રિકા ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Africa/Bujumbura,
-    Value: {
-      Generic: મધ્ય આફ્રિકા સમય,
-      Standard: મધ્ય આફ્રિકા સમય,
-      Daylight: મધ્ય આફ્રિકા સમય
-    }
-  },
-  {
-    Key: Africa/Cairo,
-    Value: {
-      Generic: પૂર્વી યુરોપિયન સમય,
-      Standard: પૂર્વી યુરોપિયન માનક સમય,
-      Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Africa/Casablanca,
-    Value: {
-      Generic: પશ્ચિમી યુરોપિયન સમય,
-      Standard: પશ્ચિમી યુરોપિયન માનક સમય,
-      Daylight: પશ્ચિમી યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Africa/Ceuta,
-    Value: {
-      Generic: મધ્ય યુરોપિયન સમય,
-      Standard: મધ્ય યુરોપિયન માનક સમય,
-      Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Africa/Conakry,
-    Value: {
-      Generic: ગ્રીનવિચ મધ્યમ સમય,
-      Standard: ગ્રીનવિચ મધ્યમ સમય,
-      Daylight: ગ્રીનવિચ મધ્યમ સમય
-    }
-  },
-  {
-    Key: Africa/Dakar,
-    Value: {
-      Generic: ગ્રીનવિચ મધ્યમ સમય,
-      Standard: ગ્રીનવિચ મધ્યમ સમય,
-      Daylight: ગ્રીનવિચ મધ્યમ સમય
-    }
-  },
-  {
-    Key: Africa/Dar_es_Salaam,
-    Value: {
-      Generic: પૂર્વ આફ્રિકા સમય,
-      Standard: પૂર્વ આફ્રિકા સમય,
-      Daylight: પૂર્વ આફ્રિકા સમય
-    }
-  },
-  {
-    Key: Africa/Djibouti,
-    Value: {
-      Generic: પૂર્વ આફ્રિકા સમય,
-      Standard: પૂર્વ આફ્રિકા સમય,
-      Daylight: પૂર્વ આફ્રિકા સમય
-    }
-  },
-  {
-    Key: Africa/Douala,
-    Value: {
-      Generic: પશ્ચિમ આફ્રિકા સમય,
-      Standard: પશ્ચિમ આફ્રિકા માનક સમય,
-      Daylight: પશ્ચિમ આફ્રિકા ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Africa/El_Aaiun,
-    Value: {
-      Generic: પશ્ચિમી યુરોપિયન સમય,
-      Standard: પશ્ચિમી યુરોપિયન માનક સમય,
-      Daylight: પશ્ચિમી યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Africa/Freetown,
-    Value: {
-      Generic: ગ્રીનવિચ મધ્યમ સમય,
-      Standard: ગ્રીનવિચ મધ્યમ સમય,
-      Daylight: ગ્રીનવિચ મધ્યમ સમય
-    }
-  },
-  {
-    Key: Africa/Gaborone,
-    Value: {
-      Generic: મધ્ય આફ્રિકા સમય,
-      Standard: મધ્ય આફ્રિકા સમય,
-      Daylight: મધ્ય આફ્રિકા સમય
-    }
-  },
-  {
-    Key: Africa/Harare,
-    Value: {
-      Generic: મધ્ય આફ્રિકા સમય,
-      Standard: મધ્ય આફ્રિકા સમય,
-      Daylight: મધ્ય આફ્રિકા સમય
-    }
-  },
-  {
-    Key: Africa/Johannesburg,
-    Value: {
-      Generic: દક્ષિણ આફ્રિકા માનક સમય,
-      Standard: દક્ષિણ આફ્રિકા માનક સમય,
-      Daylight: દક્ષિણ આફ્રિકા માનક સમય
-    }
-  },
-  {
-    Key: Africa/Juba,
-    Value: {
-      Generic: મધ્ય આફ્રિકા સમય,
-      Standard: મધ્ય આફ્રિકા સમય,
-      Daylight: મધ્ય આફ્રિકા સમય
-    }
-  },
-  {
-    Key: Africa/Kampala,
-    Value: {
-      Generic: પૂર્વ આફ્રિકા સમય,
-      Standard: પૂર્વ આફ્રિકા સમય,
-      Daylight: પૂર્વ આફ્રિકા સમય
-    }
-  },
-  {
-    Key: Africa/Khartoum,
-    Value: {
-      Generic: મધ્ય આફ્રિકા સમય,
-      Standard: મધ્ય આફ્રિકા સમય,
-      Daylight: મધ્ય આફ્રિકા સમય
-    }
-  },
-  {
-    Key: Africa/Kigali,
-    Value: {
-      Generic: મધ્ય આફ્રિકા સમય,
-      Standard: મધ્ય આફ્રિકા સમય,
-      Daylight: મધ્ય આફ્રિકા સમય
-    }
-  },
-  {
-    Key: Africa/Kinshasa,
-    Value: {
-      Generic: પશ્ચિમ આફ્રિકા સમય,
-      Standard: પશ્ચિમ આફ્રિકા માનક સમય,
-      Daylight: પશ્ચિમ આફ્રિકા ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Africa/Lagos,
-    Value: {
-      Generic: પશ્ચિમ આફ્રિકા સમય,
-      Standard: પશ્ચિમ આફ્રિકા માનક સમય,
-      Daylight: પશ્ચિમ આફ્રિકા ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Africa/Libreville,
-    Value: {
-      Generic: પશ્ચિમ આફ્રિકા સમય,
-      Standard: પશ્ચિમ આફ્રિકા માનક સમય,
-      Daylight: પશ્ચિમ આફ્રિકા ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Africa/Lome,
-    Value: {
-      Generic: ગ્રીનવિચ મધ્યમ સમય,
-      Standard: ગ્રીનવિચ મધ્યમ સમય,
-      Daylight: ગ્રીનવિચ મધ્યમ સમય
-    }
-  },
-  {
-    Key: Africa/Luanda,
-    Value: {
-      Generic: પશ્ચિમ આફ્રિકા સમય,
-      Standard: પશ્ચિમ આફ્રિકા માનક સમય,
-      Daylight: પશ્ચિમ આફ્રિકા ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Africa/Lubumbashi,
-    Value: {
-      Generic: મધ્ય આફ્રિકા સમય,
-      Standard: મધ્ય આફ્રિકા સમય,
-      Daylight: મધ્ય આફ્રિકા સમય
-    }
-  },
-  {
-    Key: Africa/Lusaka,
-    Value: {
-      Generic: મધ્ય આફ્રિકા સમય,
-      Standard: મધ્ય આફ્રિકા સમય,
-      Daylight: મધ્ય આફ્રિકા સમય
-    }
-  },
-  {
-    Key: Africa/Malabo,
-    Value: {
-      Generic: પશ્ચિમ આફ્રિકા સમય,
-      Standard: પશ્ચિમ આફ્રિકા માનક સમય,
-      Daylight: પશ્ચિમ આફ્રિકા ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Africa/Maputo,
-    Value: {
-      Generic: મધ્ય આફ્રિકા સમય,
-      Standard: મધ્ય આફ્રિકા સમય,
-      Daylight: મધ્ય આફ્રિકા સમય
-    }
-  },
-  {
-    Key: Africa/Maseru,
-    Value: {
-      Generic: દક્ષિણ આફ્રિકા માનક સમય,
-      Standard: દક્ષિણ આફ્રિકા માનક સમય,
-      Daylight: દક્ષિણ આફ્રિકા માનક સમય
-    }
-  },
-  {
-    Key: Africa/Mbabane,
-    Value: {
-      Generic: દક્ષિણ આફ્રિકા માનક સમય,
-      Standard: દક્ષિણ આફ્રિકા માનક સમય,
-      Daylight: દક્ષિણ આફ્રિકા માનક સમય
-    }
-  },
-  {
-    Key: Africa/Mogadishu,
-    Value: {
-      Generic: પૂર્વ આફ્રિકા સમય,
-      Standard: પૂર્વ આફ્રિકા સમય,
-      Daylight: પૂર્વ આફ્રિકા સમય
-    }
-  },
-  {
-    Key: Africa/Monrovia,
-    Value: {
-      Generic: ગ્રીનવિચ મધ્યમ સમય,
-      Standard: ગ્રીનવિચ મધ્યમ સમય,
-      Daylight: ગ્રીનવિચ મધ્યમ સમય
-    }
-  },
-  {
-    Key: Africa/Nairobi,
-    Value: {
-      Generic: પૂર્વ આફ્રિકા સમય,
-      Standard: પૂર્વ આફ્રિકા સમય,
-      Daylight: પૂર્વ આફ્રિકા સમય
-    }
-  },
-  {
-    Key: Africa/Ndjamena,
-    Value: {
-      Generic: પશ્ચિમ આફ્રિકા સમય,
-      Standard: પશ્ચિમ આફ્રિકા માનક સમય,
-      Daylight: પશ્ચિમ આફ્રિકા ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Africa/Niamey,
-    Value: {
-      Generic: પશ્ચિમ આફ્રિકા સમય,
-      Standard: પશ્ચિમ આફ્રિકા માનક સમય,
-      Daylight: પશ્ચિમ આફ્રિકા ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Africa/Nouakchott,
-    Value: {
-      Generic: ગ્રીનવિચ મધ્યમ સમય,
-      Standard: ગ્રીનવિચ મધ્યમ સમય,
-      Daylight: ગ્રીનવિચ મધ્યમ સમય
-    }
-  },
-  {
-    Key: Africa/Ouagadougou,
-    Value: {
-      Generic: ગ્રીનવિચ મધ્યમ સમય,
-      Standard: ગ્રીનવિચ મધ્યમ સમય,
-      Daylight: ગ્રીનવિચ મધ્યમ સમય
-    }
-  },
-  {
-    Key: Africa/Porto-Novo,
-    Value: {
-      Generic: પશ્ચિમ આફ્રિકા સમય,
-      Standard: પશ્ચિમ આફ્રિકા માનક સમય,
-      Daylight: પશ્ચિમ આફ્રિકા ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Africa/Sao_Tome,
-    Value: {
-      Generic: ગ્રીનવિચ મધ્યમ સમય,
-      Standard: ગ્રીનવિચ મધ્યમ સમય,
-      Daylight: ગ્રીનવિચ મધ્યમ સમય
-    }
-  },
-  {
-    Key: Africa/Timbuktu,
-    Value: {
-      Generic: ગ્રીનવિચ મધ્યમ સમય,
-      Standard: ગ્રીનવિચ મધ્યમ સમય,
-      Daylight: ગ્રીનવિચ મધ્યમ સમય
-    }
-  },
-  {
-    Key: Africa/Tripoli,
-    Value: {
-      Generic: પૂર્વી યુરોપિયન સમય,
-      Standard: પૂર્વી યુરોપિયન માનક સમય,
-      Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Africa/Tunis,
-    Value: {
-      Generic: મધ્ય યુરોપિયન સમય,
-      Standard: મધ્ય યુરોપિયન માનક સમય,
-      Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Africa/Windhoek,
-    Value: {
-      Generic: મધ્ય આફ્રિકા સમય,
-      Standard: મધ્ય આફ્રિકા સમય,
-      Daylight: મધ્ય આફ્રિકા સમય
-    }
-  },
-  {
-    Key: America/Adak,
-    Value: {
-      Generic: હવાઈ-એલ્યુશિઅન સમય,
-      Standard: હવાઇ-એલ્યુશિઅન માનક સમય,
-      Daylight: હવાઇ-એલ્યુશિઅન દિવસ સમય
-    }
-  },
-  {
-    Key: America/Anchorage,
-    Value: {
-      Generic: અલાસ્કા સમય,
-      Standard: અલાસ્કા માનક સમય,
-      Daylight: અલાસ્કા દિવસ સમય
-    }
-  },
-  {
-    Key: America/Anguilla,
-    Value: {
-      Generic: એટલાન્ટિક સમય,
-      Standard: એટલાન્ટિક માનક સમય,
-      Daylight: એટલાન્ટિક દિવસ સમય
-    }
-  },
-  {
-    Key: America/Antigua,
-    Value: {
-      Generic: એટલાન્ટિક સમય,
-      Standard: એટલાન્ટિક માનક સમય,
-      Daylight: એટલાન્ટિક દિવસ સમય
-    }
-  },
-  {
-    Key: America/Araguaina,
-    Value: {
-      Generic: બ્રાઝિલિયા સમય,
-      Standard: બ્રાઝિલિયા માનક સમય,
-      Daylight: બ્રાઝિલિયા ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Argentina/Buenos_Aires,
-    Value: {
-      Generic: આર્જેન્ટીના સમય,
-      Standard: આર્જેન્ટીના માનક સમય,
-      Daylight: આર્જેન્ટીના ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Argentina/Catamarca,
-    Value: {
-      Generic: આર્જેન્ટીના સમય,
-      Standard: આર્જેન્ટીના માનક સમય,
-      Daylight: આર્જેન્ટીના ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Argentina/ComodRivadavia,
-    Value: {
-      Generic: આર્જેન્ટીના સમય,
-      Standard: આર્જેન્ટીના માનક સમય,
-      Daylight: આર્જેન્ટીના ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Argentina/Cordoba,
-    Value: {
-      Generic: આર્જેન્ટીના સમય,
-      Standard: આર્જેન્ટીના માનક સમય,
-      Daylight: આર્જેન્ટીના ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Argentina/Jujuy,
-    Value: {
-      Generic: આર્જેન્ટીના સમય,
-      Standard: આર્જેન્ટીના માનક સમય,
-      Daylight: આર્જેન્ટીના ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Argentina/La_Rioja,
-    Value: {
-      Generic: આર્જેન્ટીના સમય,
-      Standard: આર્જેન્ટીના માનક સમય,
-      Daylight: આર્જેન્ટીના ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Argentina/Mendoza,
-    Value: {
-      Generic: આર્જેન્ટીના સમય,
-      Standard: આર્જેન્ટીના માનક સમય,
-      Daylight: આર્જેન્ટીના ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Argentina/Rio_Gallegos,
-    Value: {
-      Generic: આર્જેન્ટીના સમય,
-      Standard: આર્જેન્ટીના માનક સમય,
-      Daylight: આર્જેન્ટીના ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Argentina/Salta,
-    Value: {
-      Generic: આર્જેન્ટીના સમય,
-      Standard: આર્જેન્ટીના માનક સમય,
-      Daylight: આર્જેન્ટીના ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Argentina/San_Juan,
-    Value: {
-      Generic: આર્જેન્ટીના સમય,
-      Standard: આર્જેન્ટીના માનક સમય,
-      Daylight: આર્જેન્ટીના ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Argentina/San_Luis,
-    Value: {
-      Generic: આર્જેન્ટીના સમય,
-      Standard: આર્જેન્ટીના માનક સમય,
-      Daylight: આર્જેન્ટીના ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Argentina/Tucuman,
-    Value: {
-      Generic: આર્જેન્ટીના સમય,
-      Standard: આર્જેન્ટીના માનક સમય,
-      Daylight: આર્જેન્ટીના ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Argentina/Ushuaia,
-    Value: {
-      Generic: આર્જેન્ટીના સમય,
-      Standard: આર્જેન્ટીના માનક સમય,
-      Daylight: આર્જેન્ટીના ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Aruba,
-    Value: {
-      Generic: એટલાન્ટિક સમય,
-      Standard: એટલાન્ટિક માનક સમય,
-      Daylight: એટલાન્ટિક દિવસ સમય
-    }
-  },
-  {
-    Key: America/Asuncion,
-    Value: {
-      Generic: પેરાગ્વે સમય,
-      Standard: પેરાગ્વે માનક સમય,
-      Daylight: પેરાગ્વે ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Atikokan,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
-      Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
-    }
-  },
-  {
-    Key: America/Atka,
-    Value: {
-      Generic: હવાઈ-એલ્યુશિઅન સમય,
-      Standard: હવાઇ-એલ્યુશિઅન માનક સમય,
-      Daylight: હવાઇ-એલ્યુશિઅન દિવસ સમય
-    }
-  },
-  {
-    Key: America/Bahia,
-    Value: {
-      Generic: બ્રાઝિલિયા સમય,
-      Standard: બ્રાઝિલિયા માનક સમય,
-      Daylight: બ્રાઝિલિયા ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Bahia_Banderas,
-    Value: {
-      Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
-      Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
-      Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
-    }
-  },
-  {
-    Key: America/Barbados,
-    Value: {
-      Generic: એટલાન્ટિક સમય,
-      Standard: એટલાન્ટિક માનક સમય,
-      Daylight: એટલાન્ટિક દિવસ સમય
-    }
-  },
-  {
-    Key: America/Belem,
-    Value: {
-      Generic: બ્રાઝિલિયા સમય,
-      Standard: બ્રાઝિલિયા માનક સમય,
-      Daylight: બ્રાઝિલિયા ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Belize,
-    Value: {
-      Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
-      Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
-      Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
-    }
-  },
-  {
-    Key: America/Blanc-Sablon,
-    Value: {
-      Generic: એટલાન્ટિક સમય,
-      Standard: એટલાન્ટિક માનક સમય,
-      Daylight: એટલાન્ટિક દિવસ સમય
-    }
-  },
-  {
-    Key: America/Boa_Vista,
-    Value: {
-      Generic: એમેઝોન સમય,
-      Standard: એમેઝોન માનક સમય,
-      Daylight: એમેઝોન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Bogota,
-    Value: {
-      Generic: કોલમ્બિયા સમય,
-      Standard: કોલમ્બિયા માનક સમય,
-      Daylight: કોલમ્બિયા ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Boise,
-    Value: {
-      Generic: ઉત્તર અમેરિકન માઉન્ટન સમય,
-      Standard: ઉત્તર અમેરિકન માઉન્ટન માનક સમય,
-      Daylight: ઉત્તર અમેરિકન માઉન્ટન દિવસ સમય
-    }
-  },
-  {
-    Key: America/Buenos_Aires,
-    Value: {
-      Generic: આર્જેન્ટીના સમય,
-      Standard: આર્જેન્ટીના માનક સમય,
-      Daylight: આર્જેન્ટીના ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Cambridge_Bay,
-    Value: {
-      Generic: ઉત્તર અમેરિકન માઉન્ટન સમય,
-      Standard: ઉત્તર અમેરિકન માઉન્ટન માનક સમય,
-      Daylight: ઉત્તર અમેરિકન માઉન્ટન દિવસ સમય
-    }
-  },
-  {
-    Key: America/Campo_Grande,
-    Value: {
-      Generic: એમેઝોન સમય,
-      Standard: એમેઝોન માનક સમય,
-      Daylight: એમેઝોન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Cancun,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
-      Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
-    }
-  },
-  {
-    Key: America/Caracas,
-    Value: {
-      Generic: વેનેઝુએલા સમય,
-      Standard: વેનેઝુએલા સમય,
-      Daylight: વેનેઝુએલા સમય
-    }
-  },
-  {
-    Key: America/Catamarca,
-    Value: {
-      Generic: આર્જેન્ટીના સમય,
-      Standard: આર્જેન્ટીના માનક સમય,
-      Daylight: આર્જેન્ટીના ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Cayenne,
-    Value: {
-      Generic: ફ્રેંચ ગયાના સમય,
-      Standard: ફ્રેંચ ગયાના સમય,
-      Daylight: ફ્રેંચ ગયાના સમય
-    }
-  },
-  {
-    Key: America/Cayman,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
-      Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
-    }
-  },
-  {
-    Key: America/Chicago,
-    Value: {
-      Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
-      Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
-      Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
-    }
-  },
-  {
-    Key: America/Chihuahua,
-    Value: {
-      Generic: મેક્સિકન પેસિફિક સમય,
-      Standard: મેક્સિકન પેસિફિક માનક સમય,
-      Daylight: મેક્સિકન પેસિફિક દિવસ સમય
-    }
-  },
-  {
-    Key: America/Coral_Harbour,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
-      Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
-    }
-  },
-  {
-    Key: America/Cordoba,
-    Value: {
-      Generic: આર્જેન્ટીના સમય,
-      Standard: આર્જેન્ટીના માનક સમય,
-      Daylight: આર્જેન્ટીના ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Costa_Rica,
-    Value: {
-      Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
-      Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
-      Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
-    }
-  },
-  {
-    Key: America/Creston,
-    Value: {
-      Generic: ઉત્તર અમેરિકન માઉન્ટન સમય,
-      Standard: ઉત્તર અમેરિકન માઉન્ટન માનક સમય,
-      Daylight: ઉત્તર અમેરિકન માઉન્ટન દિવસ સમય
-    }
-  },
-  {
-    Key: America/Cuiaba,
-    Value: {
-      Generic: એમેઝોન સમય,
-      Standard: એમેઝોન માનક સમય,
-      Daylight: એમેઝોન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Curacao,
-    Value: {
-      Generic: એટલાન્ટિક સમય,
-      Standard: એટલાન્ટિક માનક સમય,
-      Daylight: એટલાન્ટિક દિવસ સમય
-    }
-  },
-  {
-    Key: America/Danmarkshavn,
-    Value: {
-      Generic: ગ્રીનવિચ મધ્યમ સમય,
-      Standard: ગ્રીનવિચ મધ્યમ સમય,
-      Daylight: ગ્રીનવિચ મધ્યમ સમય
-    }
-  },
-  {
-    Key: America/Dawson,
-    Value: {
-      Generic: યુકોન સમય,
-      Standard: યુકોન સમય,
-      Daylight: યુકોન સમય
-    }
-  },
-  {
-    Key: America/Dawson_Creek,
-    Value: {
-      Generic: ઉત્તર અમેરિકન માઉન્ટન સમય,
-      Standard: ઉત્તર અમેરિકન માઉન્ટન માનક સમય,
-      Daylight: ઉત્તર અમેરિકન માઉન્ટન દિવસ સમય
-    }
-  },
-  {
-    Key: America/Denver,
-    Value: {
-      Generic: ઉત્તર અમેરિકન માઉન્ટન સમય,
-      Standard: ઉત્તર અમેરિકન માઉન્ટન માનક સમય,
-      Daylight: ઉત્તર અમેરિકન માઉન્ટન દિવસ સમય
-    }
-  },
-  {
-    Key: America/Detroit,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
-      Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
-    }
-  },
-  {
-    Key: America/Dominica,
-    Value: {
-      Generic: એટલાન્ટિક સમય,
-      Standard: એટલાન્ટિક માનક સમય,
-      Daylight: એટલાન્ટિક દિવસ સમય
-    }
-  },
-  {
-    Key: America/Edmonton,
-    Value: {
-      Generic: ઉત્તર અમેરિકન માઉન્ટન સમય,
-      Standard: ઉત્તર અમેરિકન માઉન્ટન માનક સમય,
-      Daylight: ઉત્તર અમેરિકન માઉન્ટન દિવસ સમય
-    }
-  },
-  {
-    Key: America/Eirunepe,
-    Value: {
-      Generic: એકર સમય,
-      Standard: એકર પ્રમાણભૂત સમય,
-      Daylight: એકર ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/El_Salvador,
-    Value: {
-      Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
-      Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
-      Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
-    }
-  },
-  {
-    Key: America/Ensenada,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પેસિફિક સમય,
-      Standard: ઉત્તર અમેરિકન પેસિફિક માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પેસિફિક દિવસ સમય
-    }
-  },
-  {
-    Key: America/Fort_Nelson,
-    Value: {
-      Generic: ઉત્તર અમેરિકન માઉન્ટન સમય,
-      Standard: ઉત્તર અમેરિકન માઉન્ટન માનક સમય,
-      Daylight: ઉત્તર અમેરિકન માઉન્ટન દિવસ સમય
-    }
-  },
-  {
-    Key: America/Fort_Wayne,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
-      Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
-    }
-  },
-  {
-    Key: America/Fortaleza,
-    Value: {
-      Generic: બ્રાઝિલિયા સમય,
-      Standard: બ્રાઝિલિયા માનક સમય,
-      Daylight: બ્રાઝિલિયા ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Glace_Bay,
-    Value: {
-      Generic: એટલાન્ટિક સમય,
-      Standard: એટલાન્ટિક માનક સમય,
-      Daylight: એટલાન્ટિક દિવસ સમય
-    }
-  },
-  {
-    Key: America/Godthab,
-    Value: {
-      Generic: પશ્ચિમ ગ્રીનલેન્ડ સમય,
-      Standard: પશ્ચિમ ગ્રીનલેન્ડ માનક સમય,
-      Daylight: પશ્ચિમ ગ્રીનલેન્ડ ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Goose_Bay,
-    Value: {
-      Generic: એટલાન્ટિક સમય,
-      Standard: એટલાન્ટિક માનક સમય,
-      Daylight: એટલાન્ટિક દિવસ સમય
-    }
-  },
-  {
-    Key: America/Grand_Turk,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
-      Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
-    }
-  },
-  {
-    Key: America/Grenada,
-    Value: {
-      Generic: એટલાન્ટિક સમય,
-      Standard: એટલાન્ટિક માનક સમય,
-      Daylight: એટલાન્ટિક દિવસ સમય
-    }
-  },
-  {
-    Key: America/Guadeloupe,
-    Value: {
-      Generic: એટલાન્ટિક સમય,
-      Standard: એટલાન્ટિક માનક સમય,
-      Daylight: એટલાન્ટિક દિવસ સમય
-    }
-  },
-  {
-    Key: America/Guatemala,
-    Value: {
-      Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
-      Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
-      Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
-    }
-  },
-  {
-    Key: America/Guayaquil,
-    Value: {
-      Generic: એક્વાડોર સમય,
-      Standard: એક્વાડોર સમય,
-      Daylight: એક્વાડોર સમય
-    }
-  },
-  {
-    Key: America/Guyana,
-    Value: {
-      Generic: ગયાના સમય,
-      Standard: ગયાના સમય,
-      Daylight: ગયાના સમય
-    }
-  },
-  {
-    Key: America/Halifax,
-    Value: {
-      Generic: એટલાન્ટિક સમય,
-      Standard: એટલાન્ટિક માનક સમય,
-      Daylight: એટલાન્ટિક દિવસ સમય
-    }
-  },
-  {
-    Key: America/Havana,
-    Value: {
-      Generic: ક્યુબા સમય,
-      Standard: ક્યુબા માનક સમય,
-      Daylight: ક્યુબા દિવસ સમય
-    }
-  },
-  {
-    Key: America/Hermosillo,
-    Value: {
-      Generic: મેક્સિકન પેસિફિક સમય,
-      Standard: મેક્સિકન પેસિફિક માનક સમય,
-      Daylight: મેક્સિકન પેસિફિક દિવસ સમય
-    }
-  },
-  {
-    Key: America/Indiana/Indianapolis,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
-      Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
-    }
-  },
-  {
-    Key: America/Indiana/Knox,
-    Value: {
-      Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
-      Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
-      Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
-    }
-  },
-  {
-    Key: America/Indiana/Marengo,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
-      Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
-    }
-  },
-  {
-    Key: America/Indiana/Petersburg,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
-      Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
-    }
-  },
-  {
-    Key: America/Indiana/Tell_City,
-    Value: {
-      Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
-      Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
-      Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
-    }
-  },
-  {
-    Key: America/Indiana/Vevay,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
-      Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
-    }
-  },
-  {
-    Key: America/Indiana/Vincennes,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
-      Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
-    }
-  },
-  {
-    Key: America/Indiana/Winamac,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
-      Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
-    }
-  },
-  {
-    Key: America/Indianapolis,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
-      Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
-    }
-  },
-  {
-    Key: America/Inuvik,
-    Value: {
-      Generic: ઉત્તર અમેરિકન માઉન્ટન સમય,
-      Standard: ઉત્તર અમેરિકન માઉન્ટન માનક સમય,
-      Daylight: ઉત્તર અમેરિકન માઉન્ટન દિવસ સમય
-    }
-  },
-  {
-    Key: America/Iqaluit,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
-      Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
-    }
-  },
-  {
-    Key: America/Jamaica,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
-      Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
-    }
-  },
-  {
-    Key: America/Jujuy,
-    Value: {
-      Generic: આર્જેન્ટીના સમય,
-      Standard: આર્જેન્ટીના માનક સમય,
-      Daylight: આર્જેન્ટીના ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Juneau,
-    Value: {
-      Generic: અલાસ્કા સમય,
-      Standard: અલાસ્કા માનક સમય,
-      Daylight: અલાસ્કા દિવસ સમય
-    }
-  },
-  {
-    Key: America/Kentucky/Louisville,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
-      Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
-    }
-  },
-  {
-    Key: America/Kentucky/Monticello,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
-      Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
-    }
-  },
-  {
-    Key: America/Knox_IN,
-    Value: {
-      Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
-      Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
-      Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
-    }
-  },
-  {
-    Key: America/Kralendijk,
-    Value: {
-      Generic: એટલાન્ટિક સમય,
-      Standard: એટલાન્ટિક માનક સમય,
-      Daylight: એટલાન્ટિક દિવસ સમય
-    }
-  },
-  {
-    Key: America/La_Paz,
-    Value: {
-      Generic: બોલિવિયા સમય,
-      Standard: બોલિવિયા સમય,
-      Daylight: બોલિવિયા સમય
-    }
-  },
-  {
-    Key: America/Lima,
-    Value: {
-      Generic: પેરુ સમય,
-      Standard: પેરુ માનક સમય,
-      Daylight: પેરુ ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Los_Angeles,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પેસિફિક સમય,
-      Standard: ઉત્તર અમેરિકન પેસિફિક માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પેસિફિક દિવસ સમય
-    }
-  },
-  {
-    Key: America/Louisville,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
-      Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
-    }
-  },
-  {
-    Key: America/Lower_Princes,
-    Value: {
-      Generic: એટલાન્ટિક સમય,
-      Standard: એટલાન્ટિક માનક સમય,
-      Daylight: એટલાન્ટિક દિવસ સમય
-    }
-  },
-  {
-    Key: America/Maceio,
-    Value: {
-      Generic: બ્રાઝિલિયા સમય,
-      Standard: બ્રાઝિલિયા માનક સમય,
-      Daylight: બ્રાઝિલિયા ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Managua,
-    Value: {
-      Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
-      Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
-      Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
-    }
-  },
-  {
-    Key: America/Manaus,
-    Value: {
-      Generic: એમેઝોન સમય,
-      Standard: એમેઝોન માનક સમય,
-      Daylight: એમેઝોન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Marigot,
-    Value: {
-      Generic: એટલાન્ટિક સમય,
-      Standard: એટલાન્ટિક માનક સમય,
-      Daylight: એટલાન્ટિક દિવસ સમય
-    }
-  },
-  {
-    Key: America/Martinique,
-    Value: {
-      Generic: એટલાન્ટિક સમય,
-      Standard: એટલાન્ટિક માનક સમય,
-      Daylight: એટલાન્ટિક દિવસ સમય
-    }
-  },
-  {
-    Key: America/Matamoros,
-    Value: {
-      Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
-      Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
-      Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
-    }
-  },
-  {
-    Key: America/Mazatlan,
-    Value: {
-      Generic: મેક્સિકન પેસિફિક સમય,
-      Standard: મેક્સિકન પેસિફિક માનક સમય,
-      Daylight: મેક્સિકન પેસિફિક દિવસ સમય
-    }
-  },
-  {
-    Key: America/Mendoza,
-    Value: {
-      Generic: આર્જેન્ટીના સમય,
-      Standard: આર્જેન્ટીના માનક સમય,
-      Daylight: આર્જેન્ટીના ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Menominee,
-    Value: {
-      Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
-      Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
-      Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
-    }
-  },
-  {
-    Key: America/Merida,
-    Value: {
-      Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
-      Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
-      Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
-    }
-  },
-  {
-    Key: America/Metlakatla,
-    Value: {
-      Generic: અલાસ્કા સમય,
-      Standard: અલાસ્કા માનક સમય,
-      Daylight: અલાસ્કા દિવસ સમય
-    }
-  },
-  {
-    Key: America/Mexico_City,
-    Value: {
-      Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
-      Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
-      Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
-    }
-  },
-  {
-    Key: America/Miquelon,
-    Value: {
-      Generic: સેંટ પીએરી અને મિક્યુલોન સમય,
-      Standard: સેંટ પીએરી અને મિક્યુલોન માનક સમય,
-      Daylight: સેંટ પીએરી અને મિક્યુલોન દિવસ સમય
-    }
-  },
-  {
-    Key: America/Moncton,
-    Value: {
-      Generic: એટલાન્ટિક સમય,
-      Standard: એટલાન્ટિક માનક સમય,
-      Daylight: એટલાન્ટિક દિવસ સમય
-    }
-  },
-  {
-    Key: America/Monterrey,
-    Value: {
-      Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
-      Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
-      Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
-    }
-  },
-  {
-    Key: America/Montevideo,
-    Value: {
-      Generic: ઉરુગ્વે સમય,
-      Standard: ઉરુગ્વે માનક સમય,
-      Daylight: ઉરુગ્વે ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Montreal,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
-      Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
-    }
-  },
-  {
-    Key: America/Montserrat,
-    Value: {
-      Generic: એટલાન્ટિક સમય,
-      Standard: એટલાન્ટિક માનક સમય,
-      Daylight: એટલાન્ટિક દિવસ સમય
-    }
-  },
-  {
-    Key: America/Nassau,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
-      Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
-    }
-  },
-  {
-    Key: America/New_York,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
-      Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
-    }
-  },
-  {
-    Key: America/Nipigon,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
-      Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
-    }
-  },
-  {
-    Key: America/Nome,
-    Value: {
-      Generic: અલાસ્કા સમય,
-      Standard: અલાસ્કા માનક સમય,
-      Daylight: અલાસ્કા દિવસ સમય
-    }
-  },
-  {
-    Key: America/Noronha,
-    Value: {
-      Generic: ફર્નાન્ડો ડી નોરોન્હા સમય,
-      Standard: ફર્નાન્ડો ડી નોરોન્હા માનક સમય,
-      Daylight: ફર્નાન્ડો દે નોરોહા ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/North_Dakota/Beulah,
-    Value: {
-      Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
-      Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
-      Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
-    }
-  },
-  {
-    Key: America/North_Dakota/Center,
-    Value: {
-      Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
-      Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
-      Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
-    }
-  },
-  {
-    Key: America/North_Dakota/New_Salem,
-    Value: {
-      Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
-      Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
-      Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
-    }
-  },
-  {
-    Key: America/Nuuk,
-    Value: {
-      Generic: પશ્ચિમ ગ્રીનલેન્ડ સમય,
-      Standard: પશ્ચિમ ગ્રીનલેન્ડ માનક સમય,
-      Daylight: પશ્ચિમ ગ્રીનલેન્ડ ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Ojinaga,
-    Value: {
-      Generic: ઉત્તર અમેરિકન માઉન્ટન સમય,
-      Standard: ઉત્તર અમેરિકન માઉન્ટન માનક સમય,
-      Daylight: ઉત્તર અમેરિકન માઉન્ટન દિવસ સમય
-    }
-  },
-  {
-    Key: America/Panama,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
-      Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
-    }
-  },
-  {
-    Key: America/Pangnirtung,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
-      Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
-    }
-  },
-  {
-    Key: America/Paramaribo,
-    Value: {
-      Generic: સુરીનામ સમય,
-      Standard: સુરીનામ સમય,
-      Daylight: સુરીનામ સમય
-    }
-  },
-  {
-    Key: America/Phoenix,
-    Value: {
-      Generic: ઉત્તર અમેરિકન માઉન્ટન સમય,
-      Standard: ઉત્તર અમેરિકન માઉન્ટન માનક સમય,
-      Daylight: ઉત્તર અમેરિકન માઉન્ટન દિવસ સમય
-    }
-  },
-  {
-    Key: America/Port_of_Spain,
-    Value: {
-      Generic: એટલાન્ટિક સમય,
-      Standard: એટલાન્ટિક માનક સમય,
-      Daylight: એટલાન્ટિક દિવસ સમય
-    }
-  },
-  {
-    Key: America/Port-au-Prince,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
-      Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
-    }
-  },
-  {
-    Key: America/Porto_Acre,
-    Value: {
-      Generic: એકર સમય,
-      Standard: એકર પ્રમાણભૂત સમય,
-      Daylight: એકર ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Porto_Velho,
-    Value: {
-      Generic: એમેઝોન સમય,
-      Standard: એમેઝોન માનક સમય,
-      Daylight: એમેઝોન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Puerto_Rico,
-    Value: {
-      Generic: એટલાન્ટિક સમય,
-      Standard: એટલાન્ટિક માનક સમય,
-      Daylight: એટલાન્ટિક દિવસ સમય
-    }
-  },
-  {
-    Key: America/Punta_Arenas,
-    Value: {
-      Generic: ચિલી સમય,
-      Standard: ચિલી માનક સમય,
-      Daylight: ચિલી ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Rainy_River,
-    Value: {
-      Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
-      Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
-      Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
-    }
-  },
-  {
-    Key: America/Rankin_Inlet,
-    Value: {
-      Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
-      Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
-      Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
-    }
-  },
-  {
-    Key: America/Recife,
-    Value: {
-      Generic: બ્રાઝિલિયા સમય,
-      Standard: બ્રાઝિલિયા માનક સમય,
-      Daylight: બ્રાઝિલિયા ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Regina,
-    Value: {
-      Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
-      Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
-      Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
-    }
-  },
-  {
-    Key: America/Resolute,
-    Value: {
-      Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
-      Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
-      Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
-    }
-  },
-  {
-    Key: America/Rio_Branco,
-    Value: {
-      Generic: એકર સમય,
-      Standard: એકર પ્રમાણભૂત સમય,
-      Daylight: એકર ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Rosario,
-    Value: {
-      Generic: આર્જેન્ટીના સમય,
-      Standard: આર્જેન્ટીના માનક સમય,
-      Daylight: આર્જેન્ટીના ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Santa_Isabel,
-    Value: {
-      Generic: ઉત્તરપશ્ચિમ મેક્સિકો સમય,
-      Standard: ઉત્તરપશ્ચિમ મેક્સિકો માનક સમય,
-      Daylight: ઉત્તરપશ્ચિમ મેક્સિકો દિવસ સમય
-    }
-  },
-  {
-    Key: America/Santarem,
-    Value: {
-      Generic: બ્રાઝિલિયા સમય,
-      Standard: બ્રાઝિલિયા માનક સમય,
-      Daylight: બ્રાઝિલિયા ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Santiago,
-    Value: {
-      Generic: ચિલી સમય,
-      Standard: ચિલી માનક સમય,
-      Daylight: ચિલી ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Santo_Domingo,
-    Value: {
-      Generic: એટલાન્ટિક સમય,
-      Standard: એટલાન્ટિક માનક સમય,
-      Daylight: એટલાન્ટિક દિવસ સમય
-    }
-  },
-  {
-    Key: America/Sao_Paulo,
-    Value: {
-      Generic: બ્રાઝિલિયા સમય,
-      Standard: બ્રાઝિલિયા માનક સમય,
-      Daylight: બ્રાઝિલિયા ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Scoresbysund,
-    Value: {
-      Generic: પૂર્વ ગ્રીનલેન્ડ સમય,
-      Standard: પૂર્વ ગ્રીનલેન્ડ માનક સમય,
-      Daylight: પૂર્વ ગ્રીનલેન્ડ ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: America/Shiprock,
-    Value: {
-      Generic: ઉત્તર અમેરિકન માઉન્ટન સમય,
-      Standard: ઉત્તર અમેરિકન માઉન્ટન માનક સમય,
-      Daylight: ઉત્તર અમેરિકન માઉન્ટન દિવસ સમય
-    }
-  },
-  {
-    Key: America/Sitka,
-    Value: {
-      Generic: અલાસ્કા સમય,
-      Standard: અલાસ્કા માનક સમય,
-      Daylight: અલાસ્કા દિવસ સમય
-    }
-  },
-  {
-    Key: America/St_Barthelemy,
-    Value: {
-      Generic: એટલાન્ટિક સમય,
-      Standard: એટલાન્ટિક માનક સમય,
-      Daylight: એટલાન્ટિક દિવસ સમય
-    }
-  },
-  {
-    Key: America/St_Johns,
-    Value: {
-      Generic: ન્યૂફાઉન્ડલેન્ડ સમય,
-      Standard: ન્યૂફાઉન્ડલેન્ડ માનક સમય,
-      Daylight: ન્યૂફાઉન્ડલેન્ડ દિવસ સમય
-    }
-  },
-  {
-    Key: America/St_Kitts,
-    Value: {
-      Generic: એટલાન્ટિક સમય,
-      Standard: એટલાન્ટિક માનક સમય,
-      Daylight: એટલાન્ટિક દિવસ સમય
-    }
-  },
-  {
-    Key: America/St_Lucia,
-    Value: {
-      Generic: એટલાન્ટિક સમય,
-      Standard: એટલાન્ટિક માનક સમય,
-      Daylight: એટલાન્ટિક દિવસ સમય
-    }
-  },
-  {
-    Key: America/St_Thomas,
-    Value: {
-      Generic: એટલાન્ટિક સમય,
-      Standard: એટલાન્ટિક માનક સમય,
-      Daylight: એટલાન્ટિક દિવસ સમય
-    }
-  },
-  {
-    Key: America/St_Vincent,
-    Value: {
-      Generic: એટલાન્ટિક સમય,
-      Standard: એટલાન્ટિક માનક સમય,
-      Daylight: એટલાન્ટિક દિવસ સમય
-    }
-  },
-  {
-    Key: America/Swift_Current,
-    Value: {
-      Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
-      Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
-      Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
-    }
-  },
-  {
-    Key: America/Tegucigalpa,
-    Value: {
-      Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
-      Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
-      Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
-    }
-  },
-  {
-    Key: America/Thule,
-    Value: {
-      Generic: એટલાન્ટિક સમય,
-      Standard: એટલાન્ટિક માનક સમય,
-      Daylight: એટલાન્ટિક દિવસ સમય
-    }
-  },
-  {
-    Key: America/Thunder_Bay,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
-      Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
-    }
-  },
-  {
-    Key: America/Tijuana,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પેસિફિક સમય,
-      Standard: ઉત્તર અમેરિકન પેસિફિક માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પેસિફિક દિવસ સમય
-    }
-  },
-  {
-    Key: America/Toronto,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
-      Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
-    }
-  },
-  {
-    Key: America/Tortola,
-    Value: {
-      Generic: એટલાન્ટિક સમય,
-      Standard: એટલાન્ટિક માનક સમય,
-      Daylight: એટલાન્ટિક દિવસ સમય
-    }
-  },
-  {
-    Key: America/Vancouver,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પેસિફિક સમય,
-      Standard: ઉત્તર અમેરિકન પેસિફિક માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પેસિફિક દિવસ સમય
-    }
-  },
-  {
-    Key: America/Virgin,
-    Value: {
-      Generic: એટલાન્ટિક સમય,
-      Standard: એટલાન્ટિક માનક સમય,
-      Daylight: એટલાન્ટિક દિવસ સમય
-    }
-  },
-  {
-    Key: America/Whitehorse,
-    Value: {
-      Generic: યુકોન સમય,
-      Standard: યુકોન સમય,
-      Daylight: યુકોન સમય
-    }
-  },
-  {
-    Key: America/Winnipeg,
-    Value: {
-      Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
-      Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
-      Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
-    }
-  },
-  {
-    Key: America/Yakutat,
-    Value: {
-      Generic: અલાસ્કા સમય,
-      Standard: અલાસ્કા માનક સમય,
-      Daylight: અલાસ્કા દિવસ સમય
-    }
-  },
-  {
-    Key: America/Yellowknife,
-    Value: {
-      Generic: ઉત્તર અમેરિકન માઉન્ટન સમય,
-      Standard: ઉત્તર અમેરિકન માઉન્ટન માનક સમય,
-      Daylight: ઉત્તર અમેરિકન માઉન્ટન દિવસ સમય
-    }
-  },
-  {
-    Key: Antarctica/Casey,
-    Value: {
-      Generic: એન્ટાર્કટિકા સમય,
-      Standard: એન્ટાર્કટિકા માનક સમય,
-      Daylight: એન્ટાર્કટિકા દિવસ સમય
-    }
-  },
-  {
-    Key: Antarctica/Davis,
-    Value: {
-      Generic: ડેવિસ સમય,
-      Standard: ડેવિસ સમય,
-      Daylight: ડેવિસ સમય
-    }
-  },
-  {
-    Key: Antarctica/DumontDUrville,
-    Value: {
-      Generic: ડ્યુમોન્ટ-ડી‘ઉર્વિલ સમય,
-      Standard: ડ્યુમોન્ટ-ડી‘ઉર્વિલ સમય,
-      Daylight: ડ્યુમોન્ટ-ડી‘ઉર્વિલ સમય
-    }
-  },
-  {
-    Key: Antarctica/Macquarie,
-    Value: {
-      Generic: પૂર્વીય ઑસ્ટ્રેલિયા સમય,
-      Standard: ઑસ્ટ્રેલિયન પૂર્વીય માનક સમય,
-      Daylight: ઓસ્ટ્રેલિયન પૂર્વીય દિવસ સમય
-    }
-  },
-  {
-    Key: Antarctica/Mawson,
-    Value: {
-      Generic: મોસન સમય,
-      Standard: મોસન સમય,
-      Daylight: મોસન સમય
-    }
-  },
-  {
-    Key: Antarctica/McMurdo,
-    Value: {
-      Generic: ન્યુઝીલેન્ડ સમય,
-      Standard: ન્યુઝીલેન્ડ માનક સમય,
-      Daylight: ન્યુઝીલેન્ડ દિવસ સમય
-    }
-  },
-  {
-    Key: Antarctica/Palmer,
-    Value: {
-      Generic: ચિલી સમય,
-      Standard: ચિલી માનક સમય,
-      Daylight: ચિલી ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Antarctica/Rothera,
-    Value: {
-      Generic: રોથેરા સમય,
-      Standard: રોથેરા સમય,
-      Daylight: રોથેરા સમય
-    }
-  },
-  {
-    Key: Antarctica/South_Pole,
-    Value: {
-      Generic: ન્યુઝીલેન્ડ સમય,
-      Standard: ન્યુઝીલેન્ડ માનક સમય,
-      Daylight: ન્યુઝીલેન્ડ દિવસ સમય
-    }
-  },
-  {
-    Key: Antarctica/Syowa,
-    Value: {
-      Generic: સ્યોવા સમય,
-      Standard: સ્યોવા સમય,
-      Daylight: સ્યોવા સમય
-    }
-  },
-  {
-    Key: Antarctica/Troll,
-    Value: {
-      Generic: ગ્રીનવિચ મધ્યમ સમય,
-      Standard: ગ્રીનવિચ મધ્યમ સમય,
-      Daylight: ગ્રીનવિચ મધ્યમ સમય
-    }
-  },
-  {
-    Key: Antarctica/Vostok,
-    Value: {
-      Generic: વોસ્ટોક સમય,
-      Standard: વોસ્ટોક સમય,
-      Daylight: વોસ્ટોક સમય
-    }
-  },
-  {
-    Key: Arctic/Longyearbyen,
-    Value: {
-      Generic: મધ્ય યુરોપિયન સમય,
-      Standard: મધ્ય યુરોપિયન માનક સમય,
-      Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Asia/Aden,
-    Value: {
-      Generic: અરેબિયન સમય,
-      Standard: અરેબિયન માનક સમય,
-      Daylight: અરેબિયન દિવસ સમય
-    }
-  },
-  {
-    Key: Asia/Almaty,
-    Value: {
-      Generic: પૂર્વ કઝાકિસ્તાન સમય,
-      Standard: પૂર્વ કઝાકિસ્તાન સમય,
-      Daylight: પૂર્વ કઝાકિસ્તાન સમય
-    }
-  },
-  {
-    Key: Asia/Amman,
-    Value: {
-      Generic: પૂર્વી યુરોપિયન સમય,
-      Standard: પૂર્વી યુરોપિયન માનક સમય,
-      Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Asia/Anadyr,
-    Value: {
-      Generic: અનદિર સમય,
-      Standard: અનદિર માનક સમય,
-      Daylight: અનદિર દિવસ સમય
-    }
-  },
-  {
-    Key: Asia/Aqtau,
-    Value: {
-      Generic: પશ્ચિમ કઝાકિસ્તાન સમય,
-      Standard: પશ્ચિમ કઝાકિસ્તાન સમય,
-      Daylight: પશ્ચિમ કઝાકિસ્તાન સમય
-    }
-  },
-  {
-    Key: Asia/Aqtobe,
-    Value: {
-      Generic: પશ્ચિમ કઝાકિસ્તાન સમય,
-      Standard: પશ્ચિમ કઝાકિસ્તાન સમય,
-      Daylight: પશ્ચિમ કઝાકિસ્તાન સમય
-    }
-  },
-  {
-    Key: Asia/Ashgabat,
-    Value: {
-      Generic: તુર્કમેનિસ્તાન સમય,
-      Standard: તુર્કમેનિસ્તાન માનક સમય,
-      Daylight: તુર્કમેનિસ્તાન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Asia/Ashkhabad,
-    Value: {
-      Generic: તુર્કમેનિસ્તાન સમય,
-      Standard: તુર્કમેનિસ્તાન માનક સમય,
-      Daylight: તુર્કમેનિસ્તાન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Asia/Atyrau,
-    Value: {
-      Generic: પશ્ચિમ કઝાકિસ્તાન સમય,
-      Standard: પશ્ચિમ કઝાકિસ્તાન સમય,
-      Daylight: પશ્ચિમ કઝાકિસ્તાન સમય
-    }
-  },
-  {
-    Key: Asia/Baghdad,
-    Value: {
-      Generic: અરેબિયન સમય,
-      Standard: અરેબિયન માનક સમય,
-      Daylight: અરેબિયન દિવસ સમય
-    }
-  },
-  {
-    Key: Asia/Bahrain,
-    Value: {
-      Generic: અરેબિયન સમય,
-      Standard: અરેબિયન માનક સમય,
-      Daylight: અરેબિયન દિવસ સમય
-    }
-  },
-  {
-    Key: Asia/Baku,
-    Value: {
-      Generic: અઝરબૈજાન સમય,
-      Standard: અઝરબૈજાન માનક સમય,
-      Daylight: અઝરબૈજાન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Asia/Bangkok,
-    Value: {
-      Generic: ઇન્ડોચાઇના સમય,
-      Standard: ઇન્ડોચાઇના સમય,
-      Daylight: ઇન્ડોચાઇના સમય
-    }
-  },
-  {
-    Key: Asia/Barnaul,
-    Value: {
-      Generic: બારનૌલ સમય,
-      Standard: બારનૌલ માનક સમય,
-      Daylight: બારનૌલ દિવસ સમય
-    }
-  },
-  {
-    Key: Asia/Beirut,
-    Value: {
-      Generic: પૂર્વી યુરોપિયન સમય,
-      Standard: પૂર્વી યુરોપિયન માનક સમય,
-      Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Asia/Bishkek,
-    Value: {
-      Generic: કિર્ગિઝ્સ્તાન સમય,
-      Standard: કિર્ગિઝ્સ્તાન સમય,
-      Daylight: કિર્ગિઝ્સ્તાન સમય
-    }
-  },
-  {
-    Key: Asia/Brunei,
-    Value: {
-      Generic: બ્રુનેઇ દરુસલામ સમય,
-      Standard: બ્રુનેઇ દરુસલામ સમય,
-      Daylight: બ્રુનેઇ દરુસલામ સમય
-    }
-  },
-  {
-    Key: Asia/Calcutta,
-    Value: {
-      Generic: ભારતીય માનક સમય,
-      Standard: ભારતીય માનક સમય,
-      Daylight: ભારતીય માનક સમય
-    }
-  },
-  {
-    Key: Asia/Chita,
-    Value: {
-      Generic: ચિતા સમય,
-      Standard: ચિતા માનક સમય,
-      Daylight: ચિતા દિવસ સમય
-    }
-  },
-  {
-    Key: Asia/Choibalsan,
-    Value: {
-      Generic: ઉલાન બાટોર સમય,
-      Standard: ઉલાન બાટોર માનક સમય,
-      Daylight: ઉલાન બટોર ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Asia/Chongqing,
-    Value: {
-      Generic: ચીન સમય,
-      Standard: ચીન માનક સમય,
-      Daylight: ચીન દિવસ સમય
-    }
-  },
-  {
-    Key: Asia/Chungking,
-    Value: {
-      Generic: ચીન સમય,
-      Standard: ચીન માનક સમય,
-      Daylight: ચીન દિવસ સમય
-    }
-  },
-  {
-    Key: Asia/Colombo,
-    Value: {
-      Generic: ભારતીય માનક સમય,
-      Standard: ભારતીય માનક સમય,
-      Daylight: ભારતીય માનક સમય
-    }
-  },
-  {
-    Key: Asia/Dacca,
-    Value: {
-      Generic: બાંગ્લાદેશ સમય,
-      Standard: બાંગ્લાદેશ માનક સમય,
-      Daylight: બાંગ્લાદેશ ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Asia/Damascus,
-    Value: {
-      Generic: પૂર્વી યુરોપિયન સમય,
-      Standard: પૂર્વી યુરોપિયન માનક સમય,
-      Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Asia/Dhaka,
-    Value: {
-      Generic: બાંગ્લાદેશ સમય,
-      Standard: બાંગ્લાદેશ માનક સમય,
-      Daylight: બાંગ્લાદેશ ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Asia/Dili,
-    Value: {
-      Generic: પૂર્વ તિમોર સમય,
-      Standard: પૂર્વ તિમોર સમય,
-      Daylight: પૂર્વ તિમોર સમય
-    }
-  },
-  {
-    Key: Asia/Dubai,
-    Value: {
-      Generic: ગલ્ફ માનક સમય,
-      Standard: ગલ્ફ માનક સમય,
-      Daylight: ગલ્ફ માનક સમય
-    }
-  },
-  {
-    Key: Asia/Dushanbe,
-    Value: {
-      Generic: તાજીકિસ્તાન સમય,
-      Standard: તાજીકિસ્તાન સમય,
-      Daylight: તાજીકિસ્તાન સમય
-    }
-  },
-  {
-    Key: Asia/Famagusta,
-    Value: {
-      Generic: પૂર્વી યુરોપિયન સમય,
-      Standard: પૂર્વી યુરોપિયન માનક સમય,
-      Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Asia/Gaza,
-    Value: {
-      Generic: પૂર્વી યુરોપિયન સમય,
-      Standard: પૂર્વી યુરોપિયન માનક સમય,
-      Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Asia/Harbin,
-    Value: {
-      Generic: ચીન સમય,
-      Standard: ચીન માનક સમય,
-      Daylight: ચીન દિવસ સમય
-    }
-  },
-  {
-    Key: Asia/Hebron,
-    Value: {
-      Generic: પૂર્વી યુરોપિયન સમય,
-      Standard: પૂર્વી યુરોપિયન માનક સમય,
-      Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Asia/Ho_Chi_Minh,
-    Value: {
-      Generic: ઇન્ડોચાઇના સમય,
-      Standard: ઇન્ડોચાઇના સમય,
-      Daylight: ઇન્ડોચાઇના સમય
-    }
-  },
-  {
-    Key: Asia/Hong_Kong,
-    Value: {
-      Generic: હોંગ કોંગ સમય,
-      Standard: હોંગ કોંગ માનક સમય,
-      Daylight: હોંગ કોંગ ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Asia/Hovd,
-    Value: {
-      Generic: હોવ્ડ સમય,
-      Standard: હોવ્ડ માનક સમય,
-      Daylight: હોવ્ડ ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Asia/Irkutsk,
-    Value: {
-      Generic: ઇર્કુત્સ્ક સમય,
-      Standard: ઇર્કુત્સ્ક માનક સમય,
-      Daylight: ઇર્કુત્સ્ક દિવસ સમય
-    }
-  },
-  {
-    Key: Asia/Istanbul,
-    Value: {
-      Generic: તુર્કી સમય,
-      Standard: તુર્કી માનક સમય,
-      Daylight: તુર્કી દિવસ સમય
-    }
-  },
-  {
-    Key: Asia/Jakarta,
-    Value: {
-      Generic: પશ્ચિમી ઇન્ડોનેશિયા સમય,
-      Standard: પશ્ચિમી ઇન્ડોનેશિયા સમય,
-      Daylight: પશ્ચિમી ઇન્ડોનેશિયા સમય
-    }
-  },
-  {
-    Key: Asia/Jayapura,
-    Value: {
-      Generic: પૂર્વીય ઇન્ડોનેશિયા સમય,
-      Standard: પૂર્વીય ઇન્ડોનેશિયા સમય,
-      Daylight: પૂર્વીય ઇન્ડોનેશિયા સમય
-    }
-  },
-  {
-    Key: Asia/Jerusalem,
-    Value: {
-      Generic: ઇઝરાઇલ સમય,
-      Standard: ઇઝરાઇલ માનક સમય,
-      Daylight: ઇઝરાઇલ દિવસ સમય
-    }
-  },
-  {
-    Key: Asia/Kabul,
-    Value: {
-      Generic: અફઘાનિસ્તાન સમય,
-      Standard: અફઘાનિસ્તાન સમય,
-      Daylight: અફઘાનિસ્તાન સમય
-    }
-  },
-  {
-    Key: Asia/Kamchatka,
-    Value: {
-      Generic: કામચટ્કા સમય,
-      Standard: કામચટ્કા માનક સમય,
-      Daylight: કામચટ્કા દિવસ સમય
-    }
-  },
-  {
-    Key: Asia/Karachi,
-    Value: {
-      Generic: પાકિસ્તાન સમય,
-      Standard: પાકિસ્તાન માનક સમય,
-      Daylight: પાકિસ્તાન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Asia/Kashgar,
-    Value: {
-      Generic: ચીન સમય,
-      Standard: ચીન માનક સમય,
-      Daylight: ચીન દિવસ સમય
-    }
-  },
-  {
-    Key: Asia/Kathmandu,
-    Value: {
-      Generic: નેપાળ સમય,
-      Standard: નેપાળ સમય,
-      Daylight: નેપાળ સમય
-    }
-  },
-  {
-    Key: Asia/Katmandu,
-    Value: {
-      Generic: નેપાળ સમય,
-      Standard: નેપાળ સમય,
-      Daylight: નેપાળ સમય
-    }
-  },
-  {
-    Key: Asia/Khandyga,
-    Value: {
-      Generic: ખંડિગા સમય,
-      Standard: ખંડિગા માનક સમય,
-      Daylight: ખંડિગા દિવસ સમય
-    }
-  },
-  {
-    Key: Asia/Kolkata,
-    Value: {
-      Generic: ભારતીય માનક સમય,
-      Standard: ભારતીય માનક સમય,
-      Daylight: ભારતીય માનક સમય
-    }
-  },
-  {
-    Key: Asia/Krasnoyarsk,
-    Value: {
-      Generic: ક્રિસ્નોયાર્સ્ક સમય,
-      Standard: ક્રિસ્નોયાર્સ્ક માનક સમય,
-      Daylight: ક્રિસ્નોયાર્સ્ક દિવસ સમય
-    }
-  },
-  {
-    Key: Asia/Kuala_Lumpur,
-    Value: {
-      Generic: મલેશિયા સમય,
-      Standard: મલેશિયા સમય,
-      Daylight: મલેશિયા સમય
-    }
-  },
-  {
-    Key: Asia/Kuching,
-    Value: {
-      Generic: મલેશિયા સમય,
-      Standard: મલેશિયા સમય,
-      Daylight: મલેશિયા સમય
-    }
-  },
-  {
-    Key: Asia/Kuwait,
-    Value: {
-      Generic: અરેબિયન સમય,
-      Standard: અરેબિયન માનક સમય,
-      Daylight: અરેબિયન દિવસ સમય
-    }
-  },
-  {
-    Key: Asia/Macao,
-    Value: {
-      Generic: ચીન સમય,
-      Standard: ચીન માનક સમય,
-      Daylight: ચીન દિવસ સમય
-    }
-  },
-  {
-    Key: Asia/Macau,
-    Value: {
-      Generic: ચીન સમય,
-      Standard: ચીન માનક સમય,
-      Daylight: ચીન દિવસ સમય
-    }
-  },
-  {
-    Key: Asia/Magadan,
-    Value: {
-      Generic: મેગાડન સમય,
-      Standard: મેગાડન માનક સમય,
-      Daylight: મેગાડન દિવસ સમય
-    }
-  },
-  {
-    Key: Asia/Makassar,
-    Value: {
-      Generic: મધ્ય ઇન્ડોનેશિયા સમય,
-      Standard: મધ્ય ઇન્ડોનેશિયા સમય,
-      Daylight: મધ્ય ઇન્ડોનેશિયા સમય
-    }
-  },
-  {
-    Key: Asia/Manila,
-    Value: {
-      Generic: ફિલિપાઇન સમય,
-      Standard: ફિલિપાઇન માનક સમય,
-      Daylight: ફિલિપાઇન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Asia/Muscat,
-    Value: {
-      Generic: ગલ્ફ માનક સમય,
-      Standard: ગલ્ફ માનક સમય,
-      Daylight: ગલ્ફ માનક સમય
-    }
-  },
-  {
-    Key: Asia/Nicosia,
-    Value: {
-      Generic: પૂર્વી યુરોપિયન સમય,
-      Standard: પૂર્વી યુરોપિયન માનક સમય,
-      Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Asia/Novokuznetsk,
-    Value: {
-      Generic: નોવોકુઝ્નેત્સ્ક સમય,
-      Standard: નોવોકુઝ્નેત્સ્ક માનક સમય,
-      Daylight: નોવોકુઝ્નેત્સ્ક દિવસ સમય
-    }
-  },
-  {
-    Key: Asia/Novosibirsk,
-    Value: {
-      Generic: નોવોસીર્બિર્સ્ક સમય,
-      Standard: નોવોસીર્બિર્સ્ક માનક સમય,
-      Daylight: નોવોસીર્બિર્સ્ક દિવસ સમય
-    }
-  },
-  {
-    Key: Asia/Omsk,
-    Value: {
-      Generic: ઓમ્સ્ક સમય,
-      Standard: ઓમ્સ્ક માનક સમય,
-      Daylight: ઓમ્સ્ક દિવસ સમય
-    }
-  },
-  {
-    Key: Asia/Oral,
-    Value: {
-      Generic: પશ્ચિમ કઝાકિસ્તાન સમય,
-      Standard: પશ્ચિમ કઝાકિસ્તાન સમય,
-      Daylight: પશ્ચિમ કઝાકિસ્તાન સમય
-    }
-  },
-  {
-    Key: Asia/Phnom_Penh,
-    Value: {
-      Generic: ઇન્ડોચાઇના સમય,
-      Standard: ઇન્ડોચાઇના સમય,
-      Daylight: ઇન્ડોચાઇના સમય
-    }
-  },
-  {
-    Key: Asia/Pontianak,
-    Value: {
-      Generic: પશ્ચિમી ઇન્ડોનેશિયા સમય,
-      Standard: પશ્ચિમી ઇન્ડોનેશિયા સમય,
-      Daylight: પશ્ચિમી ઇન્ડોનેશિયા સમય
-    }
-  },
-  {
-    Key: Asia/Pyongyang,
-    Value: {
-      Generic: કોરિયન સમય,
-      Standard: કોરિયન માનક સમય,
-      Daylight: કોરિયન દિવસ સમય
-    }
-  },
-  {
-    Key: Asia/Qatar,
-    Value: {
-      Generic: અરેબિયન સમય,
-      Standard: અરેબિયન માનક સમય,
-      Daylight: અરેબિયન દિવસ સમય
-    }
-  },
-  {
-    Key: Asia/Qostanay,
-    Value: {
-      Generic: પૂર્વ કઝાકિસ્તાન સમય,
-      Standard: પૂર્વ કઝાકિસ્તાન સમય,
-      Daylight: પૂર્વ કઝાકિસ્તાન સમય
-    }
-  },
-  {
-    Key: Asia/Qyzylorda,
-    Value: {
-      Generic: પશ્ચિમ કઝાકિસ્તાન સમય,
-      Standard: પશ્ચિમ કઝાકિસ્તાન સમય,
-      Daylight: પશ્ચિમ કઝાકિસ્તાન સમય
-    }
-  },
-  {
-    Key: Asia/Rangoon,
-    Value: {
-      Generic: મ્યાનમાર સમય,
-      Standard: મ્યાનમાર સમય,
-      Daylight: મ્યાનમાર સમય
-    }
-  },
-  {
-    Key: Asia/Riyadh,
-    Value: {
-      Generic: અરેબિયન સમય,
-      Standard: અરેબિયન માનક સમય,
-      Daylight: અરેબિયન દિવસ સમય
-    }
-  },
-  {
-    Key: Asia/Saigon,
-    Value: {
-      Generic: ઇન્ડોચાઇના સમય,
-      Standard: ઇન્ડોચાઇના સમય,
-      Daylight: ઇન્ડોચાઇના સમય
-    }
-  },
-  {
-    Key: Asia/Sakhalin,
-    Value: {
-      Generic: સખાલિન સમય,
-      Standard: સખાલિન માનક સમય,
-      Daylight: સખાલિન દિવસ સમય
-    }
-  },
-  {
-    Key: Asia/Samarkand,
-    Value: {
-      Generic: ઉઝ્બેકિસ્તાન સમય,
-      Standard: ઉઝ્બેકિસ્તાન માનક સમય,
-      Daylight: ઉઝ્બેકિસ્તાન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Asia/Seoul,
-    Value: {
-      Generic: કોરિયન સમય,
-      Standard: કોરિયન માનક સમય,
-      Daylight: કોરિયન દિવસ સમય
-    }
-  },
-  {
-    Key: Asia/Shanghai,
-    Value: {
-      Generic: ચીન સમય,
-      Standard: ચીન માનક સમય,
-      Daylight: ચીન દિવસ સમય
-    }
-  },
-  {
-    Key: Asia/Singapore,
-    Value: {
-      Generic: સિંગાપુર માનક સમય,
-      Standard: સિંગાપુર માનક સમય,
-      Daylight: સિંગાપુર માનક સમય
-    }
-  },
-  {
-    Key: Asia/Srednekolymsk,
-    Value: {
-      Generic: સ્રેડ્નેકોલીમ્સ્ક સમય,
-      Standard: સ્રેડ્નેકોલીમ્સ્ક માનક સમય,
-      Daylight: સ્રેડ્નેકોલીમ્સ્ક દિવસ સમય
-    }
-  },
-  {
-    Key: Asia/Taipei,
-    Value: {
-      Generic: તાઇપેઇ સમય,
-      Standard: તાઇપેઇ માનક સમય,
-      Daylight: તાઇપેઇ દિવસ સમય
-    }
-  },
-  {
-    Key: Asia/Tashkent,
-    Value: {
-      Generic: ઉઝ્બેકિસ્તાન સમય,
-      Standard: ઉઝ્બેકિસ્તાન માનક સમય,
-      Daylight: ઉઝ્બેકિસ્તાન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Asia/Tbilisi,
-    Value: {
-      Generic: જ્યોર્જિયા સમય,
-      Standard: જ્યોર્જિયા માનક સમય,
-      Daylight: જ્યોર્જિયા ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Asia/Tehran,
-    Value: {
-      Generic: ઈરાન સમય,
-      Standard: ઈરાન માનક સમય,
-      Daylight: ઈરાન દિવસ સમય
-    }
-  },
-  {
-    Key: Asia/Tel_Aviv,
-    Value: {
-      Generic: ઇઝરાઇલ સમય,
-      Standard: ઇઝરાઇલ માનક સમય,
-      Daylight: ઇઝરાઇલ દિવસ સમય
-    }
-  },
-  {
-    Key: Asia/Thimbu,
-    Value: {
-      Generic: ભૂટાન સમય,
-      Standard: ભૂટાન સમય,
-      Daylight: ભૂટાન સમય
-    }
-  },
-  {
-    Key: Asia/Thimphu,
-    Value: {
-      Generic: ભૂટાન સમય,
-      Standard: ભૂટાન સમય,
-      Daylight: ભૂટાન સમય
-    }
-  },
-  {
-    Key: Asia/Tokyo,
-    Value: {
-      Generic: જાપાન સમય,
-      Standard: જાપાન માનક સમય,
-      Daylight: જાપાન દિવસ સમય
-    }
-  },
-  {
-    Key: Asia/Tomsk,
-    Value: {
-      Generic: તોમસ્ક સમય,
-      Standard: તોમસ્ક માનક સમય,
-      Daylight: તોમસ્ક દિવસ સમય
-    }
-  },
-  {
-    Key: Asia/Ujung_Pandang,
-    Value: {
-      Generic: મધ્ય ઇન્ડોનેશિયા સમય,
-      Standard: મધ્ય ઇન્ડોનેશિયા સમય,
-      Daylight: મધ્ય ઇન્ડોનેશિયા સમય
-    }
-  },
-  {
-    Key: Asia/Ulaanbaatar,
-    Value: {
-      Generic: ઉલાન બાટોર સમય,
-      Standard: ઉલાન બાટોર માનક સમય,
-      Daylight: ઉલાન બટોર ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Asia/Ulan_Bator,
-    Value: {
-      Generic: ઉલાન બાટોર સમય,
-      Standard: ઉલાન બાટોર માનક સમય,
-      Daylight: ઉલાન બટોર ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Asia/Urumqi,
-    Value: {
-      Generic: ચીન સમય,
-      Standard: ચીન માનક સમય,
-      Daylight: ચીન દિવસ સમય
-    }
-  },
-  {
-    Key: Asia/Ust-Nera,
-    Value: {
-      Generic: ઉસ્ત-નેરા સમય,
-      Standard: ઉસ્ત-નેરા માનક સમય,
-      Daylight: ઉસ્ત-નેરા દિવસ સમય
-    }
-  },
-  {
-    Key: Asia/Vientiane,
-    Value: {
-      Generic: ઇન્ડોચાઇના સમય,
-      Standard: ઇન્ડોચાઇના સમય,
-      Daylight: ઇન્ડોચાઇના સમય
-    }
-  },
-  {
-    Key: Asia/Vladivostok,
-    Value: {
-      Generic: વ્લેડિવોસ્ટોક સમય,
-      Standard: વ્લેડિવોસ્ટોક માનક સમય,
-      Daylight: વ્લેડિવોસ્ટોક દિવસ સમય
-    }
-  },
-  {
-    Key: Asia/Yakutsk,
-    Value: {
-      Generic: યકુત્સક સમય,
-      Standard: યકુત્સક માનક સમય,
-      Daylight: યકુત્સક દિવસ સમય
-    }
-  },
-  {
-    Key: Asia/Yangon,
-    Value: {
-      Generic: મ્યાનમાર સમય,
-      Standard: મ્યાનમાર સમય,
-      Daylight: મ્યાનમાર સમય
-    }
-  },
-  {
-    Key: Asia/Yekaterinburg,
-    Value: {
-      Generic: યેકાતેરિનબર્ગ સમય,
-      Standard: યેકાતેરિનબર્ગ માનક સમય,
-      Daylight: યેકાતેરિનબર્ગ દિવસ સમય
-    }
-  },
-  {
-    Key: Asia/Yerevan,
-    Value: {
-      Generic: આર્મેનિયા સમય,
-      Standard: આર્મેનિયા માનક સમય,
-      Daylight: આર્મેનિયા ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Atlantic/Azores,
-    Value: {
-      Generic: એઝોર્સ સમય,
-      Standard: એઝોર્સ માનક સમય,
-      Daylight: એઝોર્સ ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Atlantic/Bermuda,
-    Value: {
-      Generic: એટલાન્ટિક સમય,
-      Standard: એટલાન્ટિક માનક સમય,
-      Daylight: એટલાન્ટિક દિવસ સમય
-    }
-  },
-  {
-    Key: Atlantic/Canary,
-    Value: {
-      Generic: પશ્ચિમી યુરોપિયન સમય,
-      Standard: પશ્ચિમી યુરોપિયન માનક સમય,
-      Daylight: પશ્ચિમી યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Atlantic/Cape_Verde,
-    Value: {
-      Generic: કૅપ વર્ડે સમય,
-      Standard: કૅપ વર્ડે માનક સમય,
-      Daylight: કૅપ વર્ડે ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Atlantic/Faeroe,
-    Value: {
-      Generic: પશ્ચિમી યુરોપિયન સમય,
-      Standard: પશ્ચિમી યુરોપિયન માનક સમય,
-      Daylight: પશ્ચિમી યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Atlantic/Faroe,
-    Value: {
-      Generic: પશ્ચિમી યુરોપિયન સમય,
-      Standard: પશ્ચિમી યુરોપિયન માનક સમય,
-      Daylight: પશ્ચિમી યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Atlantic/Jan_Mayen,
-    Value: {
-      Generic: મધ્ય યુરોપિયન સમય,
-      Standard: મધ્ય યુરોપિયન માનક સમય,
-      Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Atlantic/Madeira,
-    Value: {
-      Generic: પશ્ચિમી યુરોપિયન સમય,
-      Standard: પશ્ચિમી યુરોપિયન માનક સમય,
-      Daylight: પશ્ચિમી યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Atlantic/Reykjavik,
-    Value: {
-      Generic: ગ્રીનવિચ મધ્યમ સમય,
-      Standard: ગ્રીનવિચ મધ્યમ સમય,
-      Daylight: ગ્રીનવિચ મધ્યમ સમય
-    }
-  },
-  {
-    Key: Atlantic/South_Georgia,
-    Value: {
-      Generic: દક્ષિણ જ્યોર્જિયા સમય,
-      Standard: દક્ષિણ જ્યોર્જિયા સમય,
-      Daylight: દક્ષિણ જ્યોર્જિયા સમય
-    }
-  },
-  {
-    Key: Atlantic/St_Helena,
-    Value: {
-      Generic: ગ્રીનવિચ મધ્યમ સમય,
-      Standard: ગ્રીનવિચ મધ્યમ સમય,
-      Daylight: ગ્રીનવિચ મધ્યમ સમય
-    }
-  },
-  {
-    Key: Atlantic/Stanley,
-    Value: {
-      Generic: ફૉકલેન્ડ આઇલેન્ડ્સ સમય,
-      Standard: ફૉકલેન્ડ આઇલેન્ડ્સ માનક સમય,
-      Daylight: ફૉકલેન્ડ આઇલેન્ડ્સ ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Australia/ACT,
-    Value: {
-      Generic: પૂર્વીય ઑસ્ટ્રેલિયા સમય,
-      Standard: ઑસ્ટ્રેલિયન પૂર્વીય માનક સમય,
-      Daylight: ઓસ્ટ્રેલિયન પૂર્વીય દિવસ સમય
-    }
-  },
-  {
-    Key: Australia/Adelaide,
-    Value: {
-      Generic: કેન્દ્રીય ઑસ્ટ્રેલિયન સમય,
-      Standard: ઑસ્ટ્રેલિયન કેન્દ્રીય માનક સમય,
-      Daylight: ઓસ્ટ્રેલિયન કેન્દ્રીય દિવસ સમય
-    }
-  },
-  {
-    Key: Australia/Brisbane,
-    Value: {
-      Generic: પૂર્વીય ઑસ્ટ્રેલિયા સમય,
-      Standard: ઑસ્ટ્રેલિયન પૂર્વીય માનક સમય,
-      Daylight: ઓસ્ટ્રેલિયન પૂર્વીય દિવસ સમય
-    }
-  },
-  {
-    Key: Australia/Broken_Hill,
-    Value: {
-      Generic: કેન્દ્રીય ઑસ્ટ્રેલિયન સમય,
-      Standard: ઑસ્ટ્રેલિયન કેન્દ્રીય માનક સમય,
-      Daylight: ઓસ્ટ્રેલિયન કેન્દ્રીય દિવસ સમય
-    }
-  },
-  {
-    Key: Australia/Canberra,
-    Value: {
-      Generic: પૂર્વીય ઑસ્ટ્રેલિયા સમય,
-      Standard: ઑસ્ટ્રેલિયન પૂર્વીય માનક સમય,
-      Daylight: ઓસ્ટ્રેલિયન પૂર્વીય દિવસ સમય
-    }
-  },
-  {
-    Key: Australia/Currie,
-    Value: {
-      Generic: પૂર્વીય ઑસ્ટ્રેલિયા સમય,
-      Standard: ઑસ્ટ્રેલિયન પૂર્વીય માનક સમય,
-      Daylight: ઓસ્ટ્રેલિયન પૂર્વીય દિવસ સમય
-    }
-  },
-  {
-    Key: Australia/Darwin,
-    Value: {
-      Generic: કેન્દ્રીય ઑસ્ટ્રેલિયન સમય,
-      Standard: ઑસ્ટ્રેલિયન કેન્દ્રીય માનક સમય,
-      Daylight: ઓસ્ટ્રેલિયન કેન્દ્રીય દિવસ સમય
-    }
-  },
-  {
-    Key: Australia/Eucla,
-    Value: {
-      Generic: ઑસ્ટ્રેલિયન કેન્દ્રીય પશ્ચિમી સમય,
-      Standard: ઑસ્ટ્રેલિયન કેન્દ્રીય પશ્ચિમી માનક સમય,
-      Daylight: ઓસ્ટ્રેલિયન કેન્દ્રીય પશ્ચિમી દિવસ સમય
-    }
-  },
-  {
-    Key: Australia/Hobart,
-    Value: {
-      Generic: પૂર્વીય ઑસ્ટ્રેલિયા સમય,
-      Standard: ઑસ્ટ્રેલિયન પૂર્વીય માનક સમય,
-      Daylight: ઓસ્ટ્રેલિયન પૂર્વીય દિવસ સમય
-    }
-  },
-  {
-    Key: Australia/LHI,
-    Value: {
-      Generic: લોર્ડ હોવ સમય,
-      Standard: લોર્ડ હોવ માનક સમય,
-      Daylight: લોર્ડ હોવ દિવસ સમય
-    }
-  },
-  {
-    Key: Australia/Lindeman,
-    Value: {
-      Generic: પૂર્વીય ઑસ્ટ્રેલિયા સમય,
-      Standard: ઑસ્ટ્રેલિયન પૂર્વીય માનક સમય,
-      Daylight: ઓસ્ટ્રેલિયન પૂર્વીય દિવસ સમય
-    }
-  },
-  {
-    Key: Australia/Lord_Howe,
-    Value: {
-      Generic: લોર્ડ હોવ સમય,
-      Standard: લોર્ડ હોવ માનક સમય,
-      Daylight: લોર્ડ હોવ દિવસ સમય
-    }
-  },
-  {
-    Key: Australia/Melbourne,
-    Value: {
-      Generic: પૂર્વીય ઑસ્ટ્રેલિયા સમય,
-      Standard: ઑસ્ટ્રેલિયન પૂર્વીય માનક સમય,
-      Daylight: ઓસ્ટ્રેલિયન પૂર્વીય દિવસ સમય
-    }
-  },
-  {
-    Key: Australia/North,
-    Value: {
-      Generic: કેન્દ્રીય ઑસ્ટ્રેલિયન સમય,
-      Standard: ઑસ્ટ્રેલિયન કેન્દ્રીય માનક સમય,
-      Daylight: ઓસ્ટ્રેલિયન કેન્દ્રીય દિવસ સમય
-    }
-  },
-  {
-    Key: Australia/NSW,
-    Value: {
-      Generic: પૂર્વીય ઑસ્ટ્રેલિયા સમય,
-      Standard: ઑસ્ટ્રેલિયન પૂર્વીય માનક સમય,
-      Daylight: ઓસ્ટ્રેલિયન પૂર્વીય દિવસ સમય
-    }
-  },
-  {
-    Key: Australia/Perth,
-    Value: {
-      Generic: પશ્ચિમી ઑસ્ટ્રેલિયા સમય,
-      Standard: ઑસ્ટ્રેલિયન પશ્ચિમી માનક સમય,
-      Daylight: ઓસ્ટ્રેલિયન પશ્ચિમી દિવસ સમય
-    }
-  },
-  {
-    Key: Australia/Queensland,
-    Value: {
-      Generic: પૂર્વીય ઑસ્ટ્રેલિયા સમય,
-      Standard: ઑસ્ટ્રેલિયન પૂર્વીય માનક સમય,
-      Daylight: ઓસ્ટ્રેલિયન પૂર્વીય દિવસ સમય
-    }
-  },
-  {
-    Key: Australia/South,
-    Value: {
-      Generic: કેન્દ્રીય ઑસ્ટ્રેલિયન સમય,
-      Standard: ઑસ્ટ્રેલિયન કેન્દ્રીય માનક સમય,
-      Daylight: ઓસ્ટ્રેલિયન કેન્દ્રીય દિવસ સમય
-    }
-  },
-  {
-    Key: Australia/Sydney,
-    Value: {
-      Generic: પૂર્વીય ઑસ્ટ્રેલિયા સમય,
-      Standard: ઑસ્ટ્રેલિયન પૂર્વીય માનક સમય,
-      Daylight: ઓસ્ટ્રેલિયન પૂર્વીય દિવસ સમય
-    }
-  },
-  {
-    Key: Australia/Tasmania,
-    Value: {
-      Generic: પૂર્વીય ઑસ્ટ્રેલિયા સમય,
-      Standard: ઑસ્ટ્રેલિયન પૂર્વીય માનક સમય,
-      Daylight: ઓસ્ટ્રેલિયન પૂર્વીય દિવસ સમય
-    }
-  },
-  {
-    Key: Australia/Victoria,
-    Value: {
-      Generic: પૂર્વીય ઑસ્ટ્રેલિયા સમય,
-      Standard: ઑસ્ટ્રેલિયન પૂર્વીય માનક સમય,
-      Daylight: ઓસ્ટ્રેલિયન પૂર્વીય દિવસ સમય
-    }
-  },
-  {
-    Key: Australia/West,
-    Value: {
-      Generic: પશ્ચિમી ઑસ્ટ્રેલિયા સમય,
-      Standard: ઑસ્ટ્રેલિયન પશ્ચિમી માનક સમય,
-      Daylight: ઓસ્ટ્રેલિયન પશ્ચિમી દિવસ સમય
-    }
-  },
-  {
-    Key: Australia/Yancowinna,
-    Value: {
-      Generic: કેન્દ્રીય ઑસ્ટ્રેલિયન સમય,
-      Standard: ઑસ્ટ્રેલિયન કેન્દ્રીય માનક સમય,
-      Daylight: ઓસ્ટ્રેલિયન કેન્દ્રીય દિવસ સમય
-    }
-  },
-  {
-    Key: Brazil/Acre,
-    Value: {
-      Generic: એકર સમય,
-      Standard: એકર પ્રમાણભૂત સમય,
-      Daylight: એકર ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Brazil/DeNoronha,
-    Value: {
-      Generic: ફર્નાન્ડો ડી નોરોન્હા સમય,
-      Standard: ફર્નાન્ડો ડી નોરોન્હા માનક સમય,
-      Daylight: ફર્નાન્ડો દે નોરોહા ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Brazil/East,
-    Value: {
-      Generic: બ્રાઝિલિયા સમય,
-      Standard: બ્રાઝિલિયા માનક સમય,
-      Daylight: બ્રાઝિલિયા ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Brazil/West,
-    Value: {
-      Generic: એમેઝોન સમય,
-      Standard: એમેઝોન માનક સમય,
-      Daylight: એમેઝોન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Canada/Atlantic,
-    Value: {
-      Generic: એટલાન્ટિક સમય,
-      Standard: એટલાન્ટિક માનક સમય,
-      Daylight: એટલાન્ટિક દિવસ સમય
-    }
-  },
-  {
-    Key: Canada/Central,
-    Value: {
-      Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
-      Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
-      Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
-    }
-  },
-  {
-    Key: Canada/Eastern,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
-      Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
-    }
-  },
-  {
-    Key: Canada/Mountain,
-    Value: {
-      Generic: ઉત્તર અમેરિકન માઉન્ટન સમય,
-      Standard: ઉત્તર અમેરિકન માઉન્ટન માનક સમય,
-      Daylight: ઉત્તર અમેરિકન માઉન્ટન દિવસ સમય
-    }
-  },
-  {
-    Key: Canada/Newfoundland,
-    Value: {
-      Generic: ન્યૂફાઉન્ડલેન્ડ સમય,
-      Standard: ન્યૂફાઉન્ડલેન્ડ માનક સમય,
-      Daylight: ન્યૂફાઉન્ડલેન્ડ દિવસ સમય
-    }
-  },
-  {
-    Key: Canada/Pacific,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પેસિફિક સમય,
-      Standard: ઉત્તર અમેરિકન પેસિફિક માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પેસિફિક દિવસ સમય
-    }
-  },
-  {
-    Key: Canada/Saskatchewan,
-    Value: {
-      Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
-      Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
-      Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
-    }
-  },
-  {
-    Key: Canada/Yukon,
-    Value: {
-      Generic: યુકોન સમય,
-      Standard: યુકોન સમય,
-      Daylight: યુકોન સમય
-    }
-  },
-  {
-    Key: CET,
-    Value: {
-      Generic: મધ્ય યુરોપિયન સમય,
-      Standard: મધ્ય યુરોપિયન માનક સમય,
-      Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Chile/Continental,
-    Value: {
-      Generic: ચિલી સમય,
-      Standard: ચિલી માનક સમય,
-      Daylight: ચિલી ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Chile/EasterIsland,
-    Value: {
-      Generic: ઇસ્ટર આઇલેન્ડ સમય,
-      Standard: ઇસ્ટર આઇલેન્ડ માનક સમય,
-      Daylight: ઇસ્ટર આઇલેન્ડ ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: CST6CDT,
-    Value: {
-      Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
-      Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
-      Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
-    }
-  },
-  {
-    Key: Cuba,
-    Value: {
-      Generic: ક્યુબા સમય,
-      Standard: ક્યુબા માનક સમય,
-      Daylight: ક્યુબા દિવસ સમય
-    }
-  },
-  {
-    Key: EET,
-    Value: {
-      Generic: પૂર્વી યુરોપિયન સમય,
-      Standard: પૂર્વી યુરોપિયન માનક સમય,
-      Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Egypt,
-    Value: {
-      Generic: પૂર્વી યુરોપિયન સમય,
-      Standard: પૂર્વી યુરોપિયન માનક સમય,
-      Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Eire,
-    Value: {
-      Generic: આયર્લેન્ડ સમય,
-      Standard: ગ્રીનવિચ મધ્યમ સમય,
-      Daylight: આઈરિશ માનક સમય
-    }
-  },
-  {
-    Key: EST,
-    Value: {
-      Generic: સંકલિત યુનિવર્સલ સમય -5,
-      Standard: સંકલિત યુનિવર્સલ સમય -5,
-      Daylight: સંકલિત યુનિવર્સલ સમય -5
-    }
-  },
-  {
-    Key: EST5EDT,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
-      Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
-    }
-  },
-  {
-    Key: Etc/GMT,
-    Value: {
-      Generic: ગ્રીનવિચ મધ્યમ સમય,
-      Standard: ગ્રીનવિચ મધ્યમ સમય,
-      Daylight: ગ્રીનવિચ મધ્યમ સમય
-    }
-  },
-  {
-    Key: Etc/GMT-0,
-    Value: {
-      Generic: ગ્રીનવિચ મધ્યમ સમય,
-      Standard: ગ્રીનવિચ મધ્યમ સમય,
-      Daylight: ગ્રીનવિચ મધ્યમ સમય
-    }
-  },
-  {
-    Key: Etc/GMT-1,
-    Value: {
-      Generic: સંકલિત યુનિવર્સલ સમય +1,
-      Standard: સંકલિત યુનિવર્સલ સમય +1,
-      Daylight: સંકલિત યુનિવર્સલ સમય +1
-    }
-  },
-  {
-    Key: Etc/GMT-10,
-    Value: {
-      Generic: સંકલિત યુનિવર્સલ સમય +10,
-      Standard: સંકલિત યુનિવર્સલ સમય +10,
-      Daylight: સંકલિત યુનિવર્સલ સમય +10
-    }
-  },
-  {
-    Key: Etc/GMT-11,
-    Value: {
-      Generic: સંકલિત યુનિવર્સલ સમય +11,
-      Standard: સંકલિત યુનિવર્સલ સમય +11,
-      Daylight: સંકલિત યુનિવર્સલ સમય +11
-    }
-  },
-  {
-    Key: Etc/GMT-12,
-    Value: {
-      Generic: સંકલિત યુનિવર્સલ સમય +12,
-      Standard: સંકલિત યુનિવર્સલ સમય +12,
-      Daylight: સંકલિત યુનિવર્સલ સમય +12
-    }
-  },
-  {
-    Key: Etc/GMT-13,
-    Value: {
-      Generic: સંકલિત યુનિવર્સલ સમય +13,
-      Standard: સંકલિત યુનિવર્સલ સમય +13,
-      Daylight: સંકલિત યુનિવર્સલ સમય +13
-    }
-  },
-  {
-    Key: Etc/GMT-14,
-    Value: {
-      Generic: સંકલિત યુનિવર્સલ સમય +14,
-      Standard: સંકલિત યુનિવર્સલ સમય +14,
-      Daylight: સંકલિત યુનિવર્સલ સમય +14
-    }
-  },
-  {
-    Key: Etc/GMT-2,
-    Value: {
-      Generic: સંકલિત યુનિવર્સલ સમય +2,
-      Standard: સંકલિત યુનિવર્સલ સમય +2,
-      Daylight: સંકલિત યુનિવર્સલ સમય +2
-    }
-  },
-  {
-    Key: Etc/GMT-3,
-    Value: {
-      Generic: સંકલિત યુનિવર્સલ સમય +3,
-      Standard: સંકલિત યુનિવર્સલ સમય +3,
-      Daylight: સંકલિત યુનિવર્સલ સમય +3
-    }
-  },
-  {
-    Key: Etc/GMT-4,
-    Value: {
-      Generic: સંકલિત યુનિવર્સલ સમય +4,
-      Standard: સંકલિત યુનિવર્સલ સમય +4,
-      Daylight: સંકલિત યુનિવર્સલ સમય +4
-    }
-  },
-  {
-    Key: Etc/GMT-5,
-    Value: {
-      Generic: સંકલિત યુનિવર્સલ સમય +5,
-      Standard: સંકલિત યુનિવર્સલ સમય +5,
-      Daylight: સંકલિત યુનિવર્સલ સમય +5
-    }
-  },
-  {
-    Key: Etc/GMT-6,
-    Value: {
-      Generic: સંકલિત યુનિવર્સલ સમય +6,
-      Standard: સંકલિત યુનિવર્સલ સમય +6,
-      Daylight: સંકલિત યુનિવર્સલ સમય +6
-    }
-  },
-  {
-    Key: Etc/GMT-7,
-    Value: {
-      Generic: સંકલિત યુનિવર્સલ સમય +7,
-      Standard: સંકલિત યુનિવર્સલ સમય +7,
-      Daylight: સંકલિત યુનિવર્સલ સમય +7
-    }
-  },
-  {
-    Key: Etc/GMT-8,
-    Value: {
-      Generic: સંકલિત યુનિવર્સલ સમય +8,
-      Standard: સંકલિત યુનિવર્સલ સમય +8,
-      Daylight: સંકલિત યુનિવર્સલ સમય +8
-    }
-  },
-  {
-    Key: Etc/GMT-9,
-    Value: {
-      Generic: સંકલિત યુનિવર્સલ સમય +9,
-      Standard: સંકલિત યુનિવર્સલ સમય +9,
-      Daylight: સંકલિત યુનિવર્સલ સમય +9
-    }
-  },
-  {
-    Key: Etc/GMT+0,
-    Value: {
-      Generic: ગ્રીનવિચ મધ્યમ સમય,
-      Standard: ગ્રીનવિચ મધ્યમ સમય,
-      Daylight: ગ્રીનવિચ મધ્યમ સમય
-    }
-  },
-  {
-    Key: Etc/GMT+1,
-    Value: {
-      Generic: સંકલિત યુનિવર્સલ સમય -1,
-      Standard: સંકલિત યુનિવર્સલ સમય -1,
-      Daylight: સંકલિત યુનિવર્સલ સમય -1
-    }
-  },
-  {
-    Key: Etc/GMT+10,
-    Value: {
-      Generic: સંકલિત યુનિવર્સલ સમય -10,
-      Standard: સંકલિત યુનિવર્સલ સમય -10,
-      Daylight: સંકલિત યુનિવર્સલ સમય -10
-    }
-  },
-  {
-    Key: Etc/GMT+11,
-    Value: {
-      Generic: સંકલિત યુનિવર્સલ સમય -11,
-      Standard: સંકલિત યુનિવર્સલ સમય -11,
-      Daylight: સંકલિત યુનિવર્સલ સમય -11
-    }
-  },
-  {
-    Key: Etc/GMT+12,
-    Value: {
-      Generic: સંકલિત યુનિવર્સલ સમય -12,
-      Standard: સંકલિત યુનિવર્સલ સમય -12,
-      Daylight: સંકલિત યુનિવર્સલ સમય -12
-    }
-  },
-  {
-    Key: Etc/GMT+2,
-    Value: {
-      Generic: સંકલિત યુનિવર્સલ સમય -2,
-      Standard: સંકલિત યુનિવર્સલ સમય -2,
-      Daylight: સંકલિત યુનિવર્સલ સમય -2
-    }
-  },
-  {
-    Key: Etc/GMT+3,
-    Value: {
-      Generic: સંકલિત યુનિવર્સલ સમય -3,
-      Standard: સંકલિત યુનિવર્સલ સમય -3,
-      Daylight: સંકલિત યુનિવર્સલ સમય -3
-    }
-  },
-  {
-    Key: Etc/GMT+4,
-    Value: {
-      Generic: સંકલિત યુનિવર્સલ સમય -4,
-      Standard: સંકલિત યુનિવર્સલ સમય -4,
-      Daylight: સંકલિત યુનિવર્સલ સમય -4
-    }
-  },
-  {
-    Key: Etc/GMT+5,
-    Value: {
-      Generic: સંકલિત યુનિવર્સલ સમય -5,
-      Standard: સંકલિત યુનિવર્સલ સમય -5,
-      Daylight: સંકલિત યુનિવર્સલ સમય -5
-    }
-  },
-  {
-    Key: Etc/GMT+6,
-    Value: {
-      Generic: સંકલિત યુનિવર્સલ સમય -6,
-      Standard: સંકલિત યુનિવર્સલ સમય -6,
-      Daylight: સંકલિત યુનિવર્સલ સમય -6
-    }
-  },
-  {
-    Key: Etc/GMT+7,
-    Value: {
-      Generic: સંકલિત યુનિવર્સલ સમય -7,
-      Standard: સંકલિત યુનિવર્સલ સમય -7,
-      Daylight: સંકલિત યુનિવર્સલ સમય -7
-    }
-  },
-  {
-    Key: Etc/GMT+8,
-    Value: {
-      Generic: સંકલિત યુનિવર્સલ સમય -8,
-      Standard: સંકલિત યુનિવર્સલ સમય -8,
-      Daylight: સંકલિત યુનિવર્સલ સમય -8
-    }
-  },
-  {
-    Key: Etc/GMT+9,
-    Value: {
-      Generic: સંકલિત યુનિવર્સલ સમય -9,
-      Standard: સંકલિત યુનિવર્સલ સમય -9,
-      Daylight: સંકલિત યુનિવર્સલ સમય -9
-    }
-  },
-  {
-    Key: Etc/GMT0,
-    Value: {
-      Generic: ગ્રીનવિચ મધ્યમ સમય,
-      Standard: ગ્રીનવિચ મધ્યમ સમય,
-      Daylight: ગ્રીનવિચ મધ્યમ સમય
-    }
-  },
-  {
-    Key: Etc/Greenwich,
-    Value: {
-      Generic: ગ્રીનવિચ મધ્યમ સમય,
-      Standard: ગ્રીનવિચ મધ્યમ સમય,
-      Daylight: ગ્રીનવિચ મધ્યમ સમય
-    }
-  },
-  {
-    Key: Etc/UCT,
-    Value: {
-      Generic: સંકલિત યુનિવર્સલ સમય,
-      Standard: સંકલિત યુનિવર્સલ સમય,
-      Daylight: સંકલિત યુનિવર્સલ સમય
-    }
-  },
-  {
-    Key: Etc/Universal,
-    Value: {
-      Generic: સંકલિત યુનિવર્સલ સમય,
-      Standard: સંકલિત યુનિવર્સલ સમય,
-      Daylight: સંકલિત યુનિવર્સલ સમય
-    }
-  },
-  {
-    Key: Etc/UTC,
-    Value: {
-      Generic: સંકલિત યુનિવર્સલ સમય,
-      Standard: સંકલિત યુનિવર્સલ સમય,
-      Daylight: સંકલિત યુનિવર્સલ સમય
-    }
-  },
-  {
-    Key: Etc/Zulu,
-    Value: {
-      Generic: સંકલિત યુનિવર્સલ સમય,
-      Standard: સંકલિત યુનિવર્સલ સમય,
-      Daylight: સંકલિત યુનિવર્સલ સમય
-    }
-  },
-  {
-    Key: Europe/Amsterdam,
-    Value: {
-      Generic: મધ્ય યુરોપિયન સમય,
-      Standard: મધ્ય યુરોપિયન માનક સમય,
-      Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Andorra,
-    Value: {
-      Generic: મધ્ય યુરોપિયન સમય,
-      Standard: મધ્ય યુરોપિયન માનક સમય,
-      Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Astrakhan,
-    Value: {
-      Generic: આસ્ટ્રખન સમય,
-      Standard: આસ્ટ્રખન માનક સમય,
-      Daylight: આસ્ટ્રખન દિવસ સમય
-    }
-  },
-  {
-    Key: Europe/Athens,
-    Value: {
-      Generic: પૂર્વી યુરોપિયન સમય,
-      Standard: પૂર્વી યુરોપિયન માનક સમય,
-      Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Belfast,
-    Value: {
-      Generic: યુનાઇટેડ કિંગડમ સમય,
-      Standard: ગ્રીનવિચ મધ્યમ સમય,
-      Daylight: બ્રિટિશ ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Belgrade,
-    Value: {
-      Generic: મધ્ય યુરોપિયન સમય,
-      Standard: મધ્ય યુરોપિયન માનક સમય,
-      Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Berlin,
-    Value: {
-      Generic: મધ્ય યુરોપિયન સમય,
-      Standard: મધ્ય યુરોપિયન માનક સમય,
-      Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Bratislava,
-    Value: {
-      Generic: મધ્ય યુરોપિયન સમય,
-      Standard: મધ્ય યુરોપિયન માનક સમય,
-      Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Brussels,
-    Value: {
-      Generic: મધ્ય યુરોપિયન સમય,
-      Standard: મધ્ય યુરોપિયન માનક સમય,
-      Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Bucharest,
-    Value: {
-      Generic: પૂર્વી યુરોપિયન સમય,
-      Standard: પૂર્વી યુરોપિયન માનક સમય,
-      Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Budapest,
-    Value: {
-      Generic: મધ્ય યુરોપિયન સમય,
-      Standard: મધ્ય યુરોપિયન માનક સમય,
-      Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Busingen,
-    Value: {
-      Generic: મધ્ય યુરોપિયન સમય,
-      Standard: મધ્ય યુરોપિયન માનક સમય,
-      Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Chisinau,
-    Value: {
-      Generic: પૂર્વી યુરોપિયન સમય,
-      Standard: પૂર્વી યુરોપિયન માનક સમય,
-      Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Copenhagen,
-    Value: {
-      Generic: મધ્ય યુરોપિયન સમય,
-      Standard: મધ્ય યુરોપિયન માનક સમય,
-      Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Dublin,
-    Value: {
-      Generic: આયર્લેન્ડ સમય,
-      Standard: ગ્રીનવિચ મધ્યમ સમય,
-      Daylight: આઈરિશ માનક સમય
-    }
-  },
-  {
-    Key: Europe/Gibraltar,
-    Value: {
-      Generic: મધ્ય યુરોપિયન સમય,
-      Standard: મધ્ય યુરોપિયન માનક સમય,
-      Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Guernsey,
-    Value: {
-      Generic: ગ્રીનવિચ મધ્યમ સમય,
-      Standard: ગ્રીનવિચ મધ્યમ સમય,
-      Daylight: ગ્રીનવિચ મધ્યમ સમય
-    }
-  },
-  {
-    Key: Europe/Helsinki,
-    Value: {
-      Generic: પૂર્વી યુરોપિયન સમય,
-      Standard: પૂર્વી યુરોપિયન માનક સમય,
-      Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Isle_of_Man,
-    Value: {
-      Generic: ગ્રીનવિચ મધ્યમ સમય,
-      Standard: ગ્રીનવિચ મધ્યમ સમય,
-      Daylight: ગ્રીનવિચ મધ્યમ સમય
-    }
-  },
-  {
-    Key: Europe/Istanbul,
-    Value: {
-      Generic: તુર્કી સમય,
-      Standard: તુર્કી માનક સમય,
-      Daylight: તુર્કી દિવસ સમય
-    }
-  },
-  {
-    Key: Europe/Jersey,
-    Value: {
-      Generic: ગ્રીનવિચ મધ્યમ સમય,
-      Standard: ગ્રીનવિચ મધ્યમ સમય,
-      Daylight: ગ્રીનવિચ મધ્યમ સમય
-    }
-  },
-  {
-    Key: Europe/Kaliningrad,
-    Value: {
-      Generic: કલિનિન્ગ્રેડ સમય,
-      Standard: કલિનિન્ગ્રેડ માનક સમય,
-      Daylight: કલિનિન્ગ્રેડ દિવસ સમય
-    }
-  },
-  {
-    Key: Europe/Kiev,
-    Value: {
-      Generic: પૂર્વી યુરોપિયન સમય,
-      Standard: પૂર્વી યુરોપિયન માનક સમય,
-      Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Kirov,
-    Value: {
-      Generic: કીરોવ સમય,
-      Standard: કીરોવ માનક સમય,
-      Daylight: કીરોવ દિવસ સમય
-    }
-  },
-  {
-    Key: Europe/Kyiv,
-    Value: {
-      Generic: યુક્રેન સમય,
-      Standard: યુક્રેન માનક સમય,
-      Daylight: યુક્રેન દિવસ સમય
-    }
-  },
-  {
-    Key: Europe/Lisbon,
-    Value: {
-      Generic: પશ્ચિમી યુરોપિયન સમય,
-      Standard: પશ્ચિમી યુરોપિયન માનક સમય,
-      Daylight: પશ્ચિમી યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Ljubljana,
-    Value: {
-      Generic: મધ્ય યુરોપિયન સમય,
-      Standard: મધ્ય યુરોપિયન માનક સમય,
-      Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/London,
-    Value: {
-      Generic: યુનાઇટેડ કિંગડમ સમય,
-      Standard: ગ્રીનવિચ મધ્યમ સમય,
-      Daylight: બ્રિટિશ ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Luxembourg,
-    Value: {
-      Generic: મધ્ય યુરોપિયન સમય,
-      Standard: મધ્ય યુરોપિયન માનક સમય,
-      Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Madrid,
-    Value: {
-      Generic: મધ્ય યુરોપિયન સમય,
-      Standard: મધ્ય યુરોપિયન માનક સમય,
-      Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Malta,
-    Value: {
-      Generic: મધ્ય યુરોપિયન સમય,
-      Standard: મધ્ય યુરોપિયન માનક સમય,
-      Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Mariehamn,
-    Value: {
-      Generic: પૂર્વી યુરોપિયન સમય,
-      Standard: પૂર્વી યુરોપિયન માનક સમય,
-      Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Minsk,
-    Value: {
-      Generic: મોસ્કો સમય,
-      Standard: મોસ્કો માનક સમય,
-      Daylight: મોસ્કો ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Monaco,
-    Value: {
-      Generic: મધ્ય યુરોપિયન સમય,
-      Standard: મધ્ય યુરોપિયન માનક સમય,
-      Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Moscow,
-    Value: {
-      Generic: મોસ્કો સમય,
-      Standard: મોસ્કો માનક સમય,
-      Daylight: મોસ્કો દિવસ સમય
-    }
-  },
-  {
-    Key: Europe/Nicosia,
-    Value: {
-      Generic: પૂર્વી યુરોપિયન સમય,
-      Standard: પૂર્વી યુરોપિયન માનક સમય,
-      Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Oslo,
-    Value: {
-      Generic: મધ્ય યુરોપિયન સમય,
-      Standard: મધ્ય યુરોપિયન માનક સમય,
-      Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Paris,
-    Value: {
-      Generic: મધ્ય યુરોપિયન સમય,
-      Standard: મધ્ય યુરોપિયન માનક સમય,
-      Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Podgorica,
-    Value: {
-      Generic: મધ્ય યુરોપિયન સમય,
-      Standard: મધ્ય યુરોપિયન માનક સમય,
-      Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Prague,
-    Value: {
-      Generic: મધ્ય યુરોપિયન સમય,
-      Standard: મધ્ય યુરોપિયન માનક સમય,
-      Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Riga,
-    Value: {
-      Generic: પૂર્વી યુરોપિયન સમય,
-      Standard: પૂર્વી યુરોપિયન માનક સમય,
-      Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Rome,
-    Value: {
-      Generic: મધ્ય યુરોપિયન સમય,
-      Standard: મધ્ય યુરોપિયન માનક સમય,
-      Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Samara,
-    Value: {
-      Generic: સમારા સમય,
-      Standard: સમારા માનક સમય,
-      Daylight: સમારા દિવસ સમય
-    }
-  },
-  {
-    Key: Europe/San_Marino,
-    Value: {
-      Generic: મધ્ય યુરોપિયન સમય,
-      Standard: મધ્ય યુરોપિયન માનક સમય,
-      Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Sarajevo,
-    Value: {
-      Generic: મધ્ય યુરોપિયન સમય,
-      Standard: મધ્ય યુરોપિયન માનક સમય,
-      Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Saratov,
-    Value: {
-      Generic: સારાટોવ સમય,
-      Standard: સારાટોવ માનક સમય,
-      Daylight: સારાટોવ દિવસ સમય
-    }
-  },
-  {
-    Key: Europe/Simferopol,
-    Value: {
-      Generic: મોસ્કો સમય,
-      Standard: મોસ્કો માનક સમય,
-      Daylight: મોસ્કો ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Skopje,
-    Value: {
-      Generic: મધ્ય યુરોપિયન સમય,
-      Standard: મધ્ય યુરોપિયન માનક સમય,
-      Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Sofia,
-    Value: {
-      Generic: પૂર્વી યુરોપિયન સમય,
-      Standard: પૂર્વી યુરોપિયન માનક સમય,
-      Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Stockholm,
-    Value: {
-      Generic: મધ્ય યુરોપિયન સમય,
-      Standard: મધ્ય યુરોપિયન માનક સમય,
-      Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Tallinn,
-    Value: {
-      Generic: પૂર્વી યુરોપિયન સમય,
-      Standard: પૂર્વી યુરોપિયન માનક સમય,
-      Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Tirane,
-    Value: {
-      Generic: મધ્ય યુરોપિયન સમય,
-      Standard: મધ્ય યુરોપિયન માનક સમય,
-      Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Tiraspol,
-    Value: {
-      Generic: પૂર્વી યુરોપિયન સમય,
-      Standard: પૂર્વી યુરોપિયન માનક સમય,
-      Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Ulyanovsk,
-    Value: {
-      Generic: ઉલેનોવ્સ્ક સમય,
-      Standard: ઉલેનોવ્સ્ક માનક સમય,
-      Daylight: ઉલેનોવ્સ્ક દિવસ સમય
-    }
-  },
-  {
-    Key: Europe/Uzhgorod,
-    Value: {
-      Generic: પૂર્વી યુરોપિયન સમય,
-      Standard: પૂર્વી યુરોપિયન માનક સમય,
-      Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Vaduz,
-    Value: {
-      Generic: મધ્ય યુરોપિયન સમય,
-      Standard: મધ્ય યુરોપિયન માનક સમય,
-      Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Vatican,
-    Value: {
-      Generic: મધ્ય યુરોપિયન સમય,
-      Standard: મધ્ય યુરોપિયન માનક સમય,
-      Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Vienna,
-    Value: {
-      Generic: મધ્ય યુરોપિયન સમય,
-      Standard: મધ્ય યુરોપિયન માનક સમય,
-      Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Vilnius,
-    Value: {
-      Generic: પૂર્વી યુરોપિયન સમય,
-      Standard: પૂર્વી યુરોપિયન માનક સમય,
-      Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Volgograd,
-    Value: {
-      Generic: વોલ્ગોગ્રેડ સમય,
-      Standard: વોલ્ગોગ્રેડ માનક સમય,
-      Daylight: વોલ્ગોગ્રેડ દિવસ સમય
-    }
-  },
-  {
-    Key: Europe/Warsaw,
-    Value: {
-      Generic: મધ્ય યુરોપિયન સમય,
-      Standard: મધ્ય યુરોપિયન માનક સમય,
-      Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Zagreb,
-    Value: {
-      Generic: મધ્ય યુરોપિયન સમય,
-      Standard: મધ્ય યુરોપિયન માનક સમય,
-      Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Zaporozhye,
-    Value: {
-      Generic: પૂર્વી યુરોપિયન સમય,
-      Standard: પૂર્વી યુરોપિયન માનક સમય,
-      Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Europe/Zurich,
-    Value: {
-      Generic: મધ્ય યુરોપિયન સમય,
-      Standard: મધ્ય યુરોપિયન માનક સમય,
-      Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: GB,
-    Value: {
-      Generic: યુનાઇટેડ કિંગડમ સમય,
-      Standard: ગ્રીનવિચ મધ્યમ સમય,
-      Daylight: બ્રિટિશ ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: GB-Eire,
-    Value: {
-      Generic: યુનાઇટેડ કિંગડમ સમય,
-      Standard: ગ્રીનવિચ મધ્યમ સમય,
-      Daylight: બ્રિટિશ ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: GMT,
-    Value: {
-      Generic: ગ્રીનવિચ મધ્યમ સમય,
-      Standard: ગ્રીનવિચ મધ્યમ સમય,
-      Daylight: ગ્રીનવિચ મધ્યમ સમય
-    }
-  },
-  {
-    Key: GMT-0,
-    Value: {
-      Generic: ગ્રીનવિચ મધ્યમ સમય,
-      Standard: ગ્રીનવિચ મધ્યમ સમય,
-      Daylight: ગ્રીનવિચ મધ્યમ સમય
-    }
-  },
-  {
-    Key: GMT+0,
-    Value: {
-      Generic: ગ્રીનવિચ મધ્યમ સમય,
-      Standard: ગ્રીનવિચ મધ્યમ સમય,
-      Daylight: ગ્રીનવિચ મધ્યમ સમય
-    }
-  },
-  {
-    Key: GMT0,
-    Value: {
-      Generic: ગ્રીનવિચ મધ્યમ સમય,
-      Standard: ગ્રીનવિચ મધ્યમ સમય,
-      Daylight: ગ્રીનવિચ મધ્યમ સમય
-    }
-  },
-  {
-    Key: Greenwich,
-    Value: {
-      Generic: ગ્રીનવિચ મધ્યમ સમય,
-      Standard: ગ્રીનવિચ મધ્યમ સમય,
-      Daylight: ગ્રીનવિચ મધ્યમ સમય
-    }
-  },
-  {
-    Key: Hongkong,
-    Value: {
-      Generic: હોંગ કોંગ સમય,
-      Standard: હોંગ કોંગ માનક સમય,
-      Daylight: હોંગ કોંગ ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: HST,
-    Value: {
-      Generic: સંકલિત યુનિવર્સલ સમય -10,
-      Standard: સંકલિત યુનિવર્સલ સમય -10,
-      Daylight: સંકલિત યુનિવર્સલ સમય -10
-    }
-  },
-  {
-    Key: Iceland,
-    Value: {
-      Generic: ગ્રીનવિચ મધ્યમ સમય,
-      Standard: ગ્રીનવિચ મધ્યમ સમય,
-      Daylight: ગ્રીનવિચ મધ્યમ સમય
-    }
-  },
-  {
-    Key: Indian/Antananarivo,
-    Value: {
-      Generic: પૂર્વ આફ્રિકા સમય,
-      Standard: પૂર્વ આફ્રિકા સમય,
-      Daylight: પૂર્વ આફ્રિકા સમય
-    }
-  },
-  {
-    Key: Indian/Chagos,
-    Value: {
-      Generic: ભારતીય મહાસાગર સમય,
-      Standard: ભારતીય મહાસાગર સમય,
-      Daylight: ભારતીય મહાસાગર સમય
-    }
-  },
-  {
-    Key: Indian/Christmas,
-    Value: {
-      Generic: ક્રિસમસ આઇલેન્ડ સમય,
-      Standard: ક્રિસમસ આઇલેન્ડ સમય,
-      Daylight: ક્રિસમસ આઇલેન્ડ સમય
-    }
-  },
-  {
-    Key: Indian/Cocos,
-    Value: {
-      Generic: કોકોઝ આઇલેન્ડ્સ સમય,
-      Standard: કોકોઝ આઇલેન્ડ્સ સમય,
-      Daylight: કોકોઝ આઇલેન્ડ્સ સમય
-    }
-  },
-  {
-    Key: Indian/Comoro,
-    Value: {
-      Generic: પૂર્વ આફ્રિકા સમય,
-      Standard: પૂર્વ આફ્રિકા સમય,
-      Daylight: પૂર્વ આફ્રિકા સમય
-    }
-  },
-  {
-    Key: Indian/Kerguelen,
-    Value: {
-      Generic: ફ્રેંચ સધર્ન અને એન્ટાર્કટિક સમય,
-      Standard: ફ્રેંચ સધર્ન અને એન્ટાર્કટિક સમય,
-      Daylight: ફ્રેંચ સધર્ન અને એન્ટાર્કટિક સમય
-    }
-  },
-  {
-    Key: Indian/Mahe,
-    Value: {
-      Generic: સેશલ્સ સમય,
-      Standard: સેશલ્સ સમય,
-      Daylight: સેશલ્સ સમય
-    }
-  },
-  {
-    Key: Indian/Maldives,
-    Value: {
-      Generic: માલદીવ સમય,
-      Standard: માલદીવ સમય,
-      Daylight: માલદીવ સમય
-    }
-  },
-  {
-    Key: Indian/Mauritius,
-    Value: {
-      Generic: મોરિશિયસ સમય,
-      Standard: મોરિશિયસ માનક સમય,
-      Daylight: મોરિશિયસ ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Indian/Mayotte,
-    Value: {
-      Generic: પૂર્વ આફ્રિકા સમય,
-      Standard: પૂર્વ આફ્રિકા સમય,
-      Daylight: પૂર્વ આફ્રિકા સમય
-    }
-  },
-  {
-    Key: Indian/Reunion,
-    Value: {
-      Generic: રીયુનિયન સમય,
-      Standard: રીયુનિયન સમય,
-      Daylight: રીયુનિયન સમય
-    }
-  },
-  {
-    Key: Iran,
-    Value: {
-      Generic: ઈરાન સમય,
-      Standard: ઈરાન માનક સમય,
-      Daylight: ઈરાન દિવસ સમય
-    }
-  },
-  {
-    Key: Israel,
-    Value: {
-      Generic: ઇઝરાઇલ સમય,
-      Standard: ઇઝરાઇલ માનક સમય,
-      Daylight: ઇઝરાઇલ દિવસ સમય
-    }
-  },
-  {
-    Key: Jamaica,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
-      Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
-    }
-  },
-  {
-    Key: Japan,
-    Value: {
-      Generic: જાપાન સમય,
-      Standard: જાપાન માનક સમય,
-      Daylight: જાપાન દિવસ સમય
-    }
-  },
-  {
-    Key: Kwajalein,
-    Value: {
-      Generic: માર્શલ આઇલેન્ડ્સ સમય,
-      Standard: માર્શલ આઇલેન્ડ્સ સમય,
-      Daylight: માર્શલ આઇલેન્ડ્સ સમય
-    }
-  },
-  {
-    Key: Libya,
-    Value: {
-      Generic: પૂર્વી યુરોપિયન સમય,
-      Standard: પૂર્વી યુરોપિયન માનક સમય,
-      Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: MET,
-    Value: {
-      Generic: મધ્ય યુરોપિયન સમય,
-      Standard: મધ્ય યુરોપિયન માનક સમય,
-      Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Mexico/BajaNorte,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પેસિફિક સમય,
-      Standard: ઉત્તર અમેરિકન પેસિફિક માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પેસિફિક દિવસ સમય
-    }
-  },
-  {
-    Key: Mexico/BajaSur,
-    Value: {
-      Generic: મેક્સિકન પેસિફિક સમય,
-      Standard: મેક્સિકન પેસિફિક માનક સમય,
-      Daylight: મેક્સિકન પેસિફિક દિવસ સમય
-    }
-  },
-  {
-    Key: Mexico/General,
-    Value: {
-      Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
-      Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
-      Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
-    }
-  },
-  {
-    Key: MST,
-    Value: {
-      Generic: સંકલિત યુનિવર્સલ સમય -7,
-      Standard: સંકલિત યુનિવર્સલ સમય -7,
-      Daylight: સંકલિત યુનિવર્સલ સમય -7
-    }
-  },
-  {
-    Key: MST7MDT,
-    Value: {
-      Generic: ઉત્તર અમેરિકન માઉન્ટન સમય,
-      Standard: ઉત્તર અમેરિકન માઉન્ટન માનક સમય,
-      Daylight: ઉત્તર અમેરિકન માઉન્ટન દિવસ સમય
-    }
-  },
-  {
-    Key: Navajo,
-    Value: {
-      Generic: ઉત્તર અમેરિકન માઉન્ટન સમય,
-      Standard: ઉત્તર અમેરિકન માઉન્ટન માનક સમય,
-      Daylight: ઉત્તર અમેરિકન માઉન્ટન દિવસ સમય
-    }
-  },
-  {
-    Key: NZ,
-    Value: {
-      Generic: ન્યુઝીલેન્ડ સમય,
-      Standard: ન્યુઝીલેન્ડ માનક સમય,
-      Daylight: ન્યુઝીલેન્ડ દિવસ સમય
-    }
-  },
-  {
-    Key: NZ-CHAT,
-    Value: {
-      Generic: ચેતહામ સમય,
-      Standard: ચેતહામ માનક સમય,
-      Daylight: ચેતહામ દિવસ સમય
-    }
-  },
-  {
-    Key: Pacific/Apia,
-    Value: {
-      Generic: એપિયા સમય,
-      Standard: એપિયા માનક સમય,
-      Daylight: એપિયા દિવસ સમય
-    }
-  },
-  {
-    Key: Pacific/Auckland,
-    Value: {
-      Generic: ન્યુઝીલેન્ડ સમય,
-      Standard: ન્યુઝીલેન્ડ માનક સમય,
-      Daylight: ન્યુઝીલેન્ડ દિવસ સમય
-    }
-  },
-  {
-    Key: Pacific/Bougainville,
-    Value: {
-      Generic: પાપુઆ ન્યુ ગિની સમય,
-      Standard: પાપુઆ ન્યુ ગિની સમય,
-      Daylight: પાપુઆ ન્યુ ગિની સમય
-    }
-  },
-  {
-    Key: Pacific/Chatham,
-    Value: {
-      Generic: ચેતહામ સમય,
-      Standard: ચેતહામ માનક સમય,
-      Daylight: ચેતહામ દિવસ સમય
-    }
-  },
-  {
-    Key: Pacific/Chuuk,
-    Value: {
-      Generic: ચુઉક સમય,
-      Standard: ચુઉક સમય,
-      Daylight: ચુઉક સમય
-    }
-  },
-  {
-    Key: Pacific/Easter,
-    Value: {
-      Generic: ઇસ્ટર આઇલેન્ડ સમય,
-      Standard: ઇસ્ટર આઇલેન્ડ માનક સમય,
-      Daylight: ઇસ્ટર આઇલેન્ડ ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Pacific/Efate,
-    Value: {
-      Generic: વનાતૂ સમય,
-      Standard: વનાતૂ માનક સમય,
-      Daylight: વનાતૂ ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Pacific/Enderbury,
-    Value: {
-      Generic: ફોનિક્સ આઇલેન્ડ્સ સમય,
-      Standard: ફોનિક્સ આઇલેન્ડ્સ સમય,
-      Daylight: ફોનિક્સ આઇલેન્ડ્સ સમય
-    }
-  },
-  {
-    Key: Pacific/Fakaofo,
-    Value: {
-      Generic: ટોકલાઉ સમય,
-      Standard: ટોકલાઉ સમય,
-      Daylight: ટોકલાઉ સમય
-    }
-  },
-  {
-    Key: Pacific/Fiji,
-    Value: {
-      Generic: ફીજી સમય,
-      Standard: ફીજી માનક સમય,
-      Daylight: ફીજી ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Pacific/Funafuti,
-    Value: {
-      Generic: ટવાલૂ સમય,
-      Standard: ટવાલૂ સમય,
-      Daylight: ટવાલૂ સમય
-    }
-  },
-  {
-    Key: Pacific/Galapagos,
-    Value: {
-      Generic: ગાલાપાગોસ સમય,
-      Standard: ગાલાપાગોસ સમય,
-      Daylight: ગાલાપાગોસ સમય
-    }
-  },
-  {
-    Key: Pacific/Gambier,
-    Value: {
-      Generic: ગેમ્બિયર સમય,
-      Standard: ગેમ્બિયર સમય,
-      Daylight: ગેમ્બિયર સમય
-    }
-  },
-  {
-    Key: Pacific/Guadalcanal,
-    Value: {
-      Generic: સોલોમન આઇલેન્ડ્સ સમય,
-      Standard: સોલોમન આઇલેન્ડ્સ સમય,
-      Daylight: સોલોમન આઇલેન્ડ્સ સમય
-    }
-  },
-  {
-    Key: Pacific/Guam,
-    Value: {
-      Generic: કેમોરો માનક સમય,
-      Standard: કેમોરો માનક સમય,
-      Daylight: કેમોરો માનક સમય
-    }
-  },
-  {
-    Key: Pacific/Honolulu,
-    Value: {
-      Generic: હવાઈ-એલ્યુશિઅન સમય,
-      Standard: હવાઇ-એલ્યુશિઅન માનક સમય,
-      Daylight: હવાઇ-એલ્યુશિઅન દિવસ સમય
-    }
-  },
-  {
-    Key: Pacific/Johnston,
-    Value: {
-      Generic: હવાઈ-એલ્યુશિઅન સમય,
-      Standard: હવાઇ-એલ્યુશિઅન માનક સમય,
-      Daylight: હવાઇ-એલ્યુશિઅન દિવસ સમય
-    }
-  },
-  {
-    Key: Pacific/Kanton,
-    Value: {
-      Generic: ફોનિક્સ આઇલેન્ડ્સ સમય,
-      Standard: ફોનિક્સ આઇલેન્ડ્સ સમય,
-      Daylight: ફોનિક્સ આઇલેન્ડ્સ સમય
-    }
-  },
-  {
-    Key: Pacific/Kiritimati,
-    Value: {
-      Generic: લાઇન આઇલેન્ડ્સ સમય,
-      Standard: લાઇન આઇલેન્ડ્સ સમય,
-      Daylight: લાઇન આઇલેન્ડ્સ સમય
-    }
-  },
-  {
-    Key: Pacific/Kosrae,
-    Value: {
-      Generic: કોસરે સમય,
-      Standard: કોસરે સમય,
-      Daylight: કોસરે સમય
-    }
-  },
-  {
-    Key: Pacific/Kwajalein,
-    Value: {
-      Generic: માર્શલ આઇલેન્ડ્સ સમય,
-      Standard: માર્શલ આઇલેન્ડ્સ સમય,
-      Daylight: માર્શલ આઇલેન્ડ્સ સમય
-    }
-  },
-  {
-    Key: Pacific/Majuro,
-    Value: {
-      Generic: માર્શલ આઇલેન્ડ્સ સમય,
-      Standard: માર્શલ આઇલેન્ડ્સ સમય,
-      Daylight: માર્શલ આઇલેન્ડ્સ સમય
-    }
-  },
-  {
-    Key: Pacific/Marquesas,
-    Value: {
-      Generic: માર્ક્યૂસસ સમય,
-      Standard: માર્ક્યૂસસ સમય,
-      Daylight: માર્ક્યૂસસ સમય
-    }
-  },
-  {
-    Key: Pacific/Midway,
-    Value: {
-      Generic: સમોઆ સમય,
-      Standard: સમોઆ માનક સમય,
-      Daylight: સમોઆ ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Pacific/Nauru,
-    Value: {
-      Generic: નૌરુ સમય,
-      Standard: નૌરુ સમય,
-      Daylight: નૌરુ સમય
-    }
-  },
-  {
-    Key: Pacific/Niue,
-    Value: {
-      Generic: નીયુ સમય,
-      Standard: નીયુ સમય,
-      Daylight: નીયુ સમય
-    }
-  },
-  {
-    Key: Pacific/Norfolk,
-    Value: {
-      Generic: નોરફૉક આઇલેન્ડ સમય,
-      Standard: નોરફૉક આઇલેન્ડ માનક સમય,
-      Daylight: નોરફૉક આઇલેન્ડ દિવસ સમય
-    }
-  },
-  {
-    Key: Pacific/Noumea,
-    Value: {
-      Generic: ન્યુ સેલેડોનિયા સમય,
-      Standard: ન્યુ સેલેડોનિયા માનક સમય,
-      Daylight: ન્યુ સેલેડોનિયા ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Pacific/Pago_Pago,
-    Value: {
-      Generic: સમોઆ સમય,
-      Standard: સમોઆ માનક સમય,
-      Daylight: સમોઆ ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Pacific/Palau,
-    Value: {
-      Generic: પલાઉ સમય,
-      Standard: પલાઉ સમય,
-      Daylight: પલાઉ સમય
-    }
-  },
-  {
-    Key: Pacific/Pitcairn,
-    Value: {
-      Generic: પિટકેયર્ન સમય,
-      Standard: પિટકેયર્ન સમય,
-      Daylight: પિટકેયર્ન સમય
-    }
-  },
-  {
-    Key: Pacific/Pohnpei,
-    Value: {
-      Generic: પોનપે સમય,
-      Standard: પોનપે સમય,
-      Daylight: પોનપે સમય
-    }
-  },
-  {
-    Key: Pacific/Ponape,
-    Value: {
-      Generic: પોનપે સમય,
-      Standard: પોનપે સમય,
-      Daylight: પોનપે સમય
-    }
-  },
-  {
-    Key: Pacific/Port_Moresby,
-    Value: {
-      Generic: પાપુઆ ન્યુ ગિની સમય,
-      Standard: પાપુઆ ન્યુ ગિની સમય,
-      Daylight: પાપુઆ ન્યુ ગિની સમય
-    }
-  },
-  {
-    Key: Pacific/Rarotonga,
-    Value: {
-      Generic: કુક આઇલેન્ડ્સ સમય,
-      Standard: કુક આઇલેન્ડ્સ માનક સમય,
-      Daylight: કુક આઇલેન્ડ્સ અર્ધ ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Pacific/Saipan,
-    Value: {
-      Generic: કેમોરો માનક સમય,
-      Standard: કેમોરો માનક સમય,
-      Daylight: કેમોરો માનક સમય
-    }
-  },
-  {
-    Key: Pacific/Samoa,
-    Value: {
-      Generic: સમોઆ સમય,
-      Standard: સમોઆ માનક સમય,
-      Daylight: સમોઆ ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Pacific/Tahiti,
-    Value: {
-      Generic: તાહિતી સમય,
-      Standard: તાહિતી સમય,
-      Daylight: તાહિતી સમય
-    }
-  },
-  {
-    Key: Pacific/Tarawa,
-    Value: {
-      Generic: ગિલબર્ટ આઇલેન્ડ્સ સમય,
-      Standard: ગિલબર્ટ આઇલેન્ડ્સ સમય,
-      Daylight: ગિલબર્ટ આઇલેન્ડ્સ સમય
-    }
-  },
-  {
-    Key: Pacific/Tongatapu,
-    Value: {
-      Generic: ટોંગા સમય,
-      Standard: ટોંગા માનક સમય,
-      Daylight: ટોંગા ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Pacific/Truk,
-    Value: {
-      Generic: ચુઉક સમય,
-      Standard: ચુઉક સમય,
-      Daylight: ચુઉક સમય
-    }
-  },
-  {
-    Key: Pacific/Wake,
-    Value: {
-      Generic: વૅક આઇલેન્ડ સમય,
-      Standard: વૅક આઇલેન્ડ સમય,
-      Daylight: વૅક આઇલેન્ડ સમય
-    }
-  },
-  {
-    Key: Pacific/Wallis,
-    Value: {
-      Generic: વૉલિસ અને ફ્યુચુના સમય,
-      Standard: વૉલિસ અને ફ્યુચુના સમય,
-      Daylight: વૉલિસ અને ફ્યુચુના સમય
-    }
-  },
-  {
-    Key: Pacific/Yap,
-    Value: {
-      Generic: ચુઉક સમય,
-      Standard: ચુઉક સમય,
-      Daylight: ચુઉક સમય
-    }
-  },
-  {
-    Key: Poland,
-    Value: {
-      Generic: મધ્ય યુરોપિયન સમય,
-      Standard: મધ્ય યુરોપિયન માનક સમય,
-      Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Portugal,
-    Value: {
-      Generic: પશ્ચિમી યુરોપિયન સમય,
-      Standard: પશ્ચિમી યુરોપિયન માનક સમય,
-      Daylight: પશ્ચિમી યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: PRC,
-    Value: {
-      Generic: ચીન સમય,
-      Standard: ચીન માનક સમય,
-      Daylight: ચીન દિવસ સમય
-    }
-  },
-  {
-    Key: PST8PDT,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પેસિફિક સમય,
-      Standard: ઉત્તર અમેરિકન પેસિફિક માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પેસિફિક દિવસ સમય
-    }
-  },
-  {
-    Key: ROC,
-    Value: {
-      Generic: તાઇપેઇ સમય,
-      Standard: તાઇપેઇ માનક સમય,
-      Daylight: તાઇપેઇ દિવસ સમય
-    }
-  },
-  {
-    Key: ROK,
-    Value: {
-      Generic: કોરિયન સમય,
-      Standard: કોરિયન માનક સમય,
-      Daylight: કોરિયન દિવસ સમય
-    }
-  },
-  {
-    Key: Singapore,
-    Value: {
-      Generic: સિંગાપુર માનક સમય,
-      Standard: સિંગાપુર માનક સમય,
-      Daylight: સિંગાપુર માનક સમય
-    }
-  },
-  {
-    Key: Turkey,
-    Value: {
-      Generic: તુર્કી સમય,
-      Standard: તુર્કી માનક સમય,
-      Daylight: તુર્કી દિવસ સમય
-    }
-  },
-  {
-    Key: UCT,
-    Value: {
-      Generic: સંકલિત યુનિવર્સલ સમય,
-      Standard: સંકલિત યુનિવર્સલ સમય,
-      Daylight: સંકલિત યુનિવર્સલ સમય
-    }
-  },
-  {
-    Key: Universal,
-    Value: {
-      Generic: સંકલિત યુનિવર્સલ સમય,
-      Standard: સંકલિત યુનિવર્સલ સમય,
-      Daylight: સંકલિત યુનિવર્સલ સમય
-    }
-  },
-  {
-    Key: US/Alaska,
-    Value: {
-      Generic: અલાસ્કા સમય,
-      Standard: અલાસ્કા માનક સમય,
-      Daylight: અલાસ્કા દિવસ સમય
-    }
-  },
-  {
-    Key: US/Aleutian,
-    Value: {
-      Generic: હવાઈ-એલ્યુશિઅન સમય,
-      Standard: હવાઇ-એલ્યુશિઅન માનક સમય,
-      Daylight: હવાઇ-એલ્યુશિઅન દિવસ સમય
-    }
-  },
-  {
-    Key: US/Arizona,
-    Value: {
-      Generic: ઉત્તર અમેરિકન માઉન્ટન સમય,
-      Standard: ઉત્તર અમેરિકન માઉન્ટન માનક સમય,
-      Daylight: ઉત્તર અમેરિકન માઉન્ટન દિવસ સમય
-    }
-  },
-  {
-    Key: US/Central,
-    Value: {
-      Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
-      Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
-      Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
-    }
-  },
-  {
-    Key: US/East-Indiana,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
-      Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
-    }
-  },
-  {
-    Key: US/Eastern,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
-      Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
-    }
-  },
-  {
-    Key: US/Hawaii,
-    Value: {
-      Generic: હવાઈ-એલ્યુશિઅન સમય,
-      Standard: હવાઇ-એલ્યુશિઅન માનક સમય,
-      Daylight: હવાઇ-એલ્યુશિઅન દિવસ સમય
-    }
-  },
-  {
-    Key: US/Indiana-Starke,
-    Value: {
-      Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
-      Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
-      Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
-    }
-  },
-  {
-    Key: US/Michigan,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
-      Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
-    }
-  },
-  {
-    Key: US/Mountain,
-    Value: {
-      Generic: ઉત્તર અમેરિકન માઉન્ટન સમય,
-      Standard: ઉત્તર અમેરિકન માઉન્ટન માનક સમય,
-      Daylight: ઉત્તર અમેરિકન માઉન્ટન દિવસ સમય
-    }
-  },
-  {
-    Key: US/Pacific,
-    Value: {
-      Generic: ઉત્તર અમેરિકન પેસિફિક સમય,
-      Standard: ઉત્તર અમેરિકન પેસિફિક માનક સમય,
-      Daylight: ઉત્તર અમેરિકન પેસિફિક દિવસ સમય
-    }
-  },
-  {
-    Key: US/Samoa,
-    Value: {
-      Generic: સમોઆ સમય,
-      Standard: સમોઆ માનક સમય,
-      Daylight: સમોઆ ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: UTC,
-    Value: {
-      Generic: સંકલિત યુનિવર્સલ સમય,
-      Standard: સંકલિત યુનિવર્સલ સમય,
-      Daylight: સંકલિત યુનિવર્સલ સમય
-    }
-  },
-  {
-    Key: W-SU,
-    Value: {
-      Generic: મોસ્કો સમય,
-      Standard: મોસ્કો માનક સમય,
-      Daylight: મોસ્કો દિવસ સમય
-    }
-  },
-  {
-    Key: WET,
-    Value: {
-      Generic: પશ્ચિમી યુરોપિયન સમય,
-      Standard: પશ્ચિમી યુરોપિયન માનક સમય,
-      Daylight: પશ્ચિમી યુરોપિયન ગ્રીષ્મ સમય
-    }
-  },
-  {
-    Key: Zulu,
-    Value: {
-      Generic: સંકલિત યુનિવર્સલ સમય,
-      Standard: સંકલિત યુનિવર્સલ સમય,
-      Daylight: સંકલિત યુનિવર્સલ સમય
-    }
+﻿{
+  Australia/Darwin: {
+    Generic: કેન્દ્રીય ઑસ્ટ્રેલિયન સમય,
+    Standard: ઑસ્ટ્રેલિયન કેન્દ્રીય માનક સમય,
+    Daylight: ઓસ્ટ્રેલિયન કેન્દ્રીય દિવસ સમય
+  },
+  Australia/Sydney: {
+    Generic: પૂર્વીય ઑસ્ટ્રેલિયા સમય,
+    Standard: ઑસ્ટ્રેલિયન પૂર્વીય માનક સમય,
+    Daylight: ઓસ્ટ્રેલિયન પૂર્વીય દિવસ સમય
+  },
+  Australia/Melbourne: {
+    Generic: પૂર્વીય ઑસ્ટ્રેલિયા સમય,
+    Standard: ઑસ્ટ્રેલિયન પૂર્વીય માનક સમય,
+    Daylight: ઓસ્ટ્રેલિયન પૂર્વીય દિવસ સમય
+  },
+  Asia/Kabul: {
+    Generic: અફઘાનિસ્તાન સમય,
+    Standard: અફઘાનિસ્તાન સમય,
+    Daylight: અફઘાનિસ્તાન સમય
+  },
+  America/Anchorage: {
+    Generic: અલાસ્કા સમય,
+    Standard: અલાસ્કા માનક સમય,
+    Daylight: અલાસ્કા દિવસ સમય
+  },
+  America/Juneau: {
+    Generic: અલાસ્કા સમય,
+    Standard: અલાસ્કા માનક સમય,
+    Daylight: અલાસ્કા દિવસ સમય
+  },
+  America/Metlakatla: {
+    Generic: અલાસ્કા સમય,
+    Standard: અલાસ્કા માનક સમય,
+    Daylight: અલાસ્કા દિવસ સમય
+  },
+  America/Nome: {
+    Generic: અલાસ્કા સમય,
+    Standard: અલાસ્કા માનક સમય,
+    Daylight: અલાસ્કા દિવસ સમય
+  },
+  America/Sitka: {
+    Generic: અલાસ્કા સમય,
+    Standard: અલાસ્કા માનક સમય,
+    Daylight: અલાસ્કા દિવસ સમય
+  },
+  America/Yakutat: {
+    Generic: અલાસ્કા સમય,
+    Standard: અલાસ્કા માનક સમય,
+    Daylight: અલાસ્કા દિવસ સમય
+  },
+  America/Adak: {
+    Generic: હવાઈ-એલ્યુશિઅન સમય,
+    Standard: હવાઇ-એલ્યુશિઅન માનક સમય,
+    Daylight: હવાઇ-એલ્યુશિઅન દિવસ સમય
+  },
+  Asia/Barnaul: {
+    Generic: બારનૌલ સમય,
+    Standard: બારનૌલ માનક સમય,
+    Daylight: બારનૌલ દિવસ સમય
+  },
+  Asia/Riyadh: {
+    Generic: અરેબિયન સમય,
+    Standard: અરેબિયન માનક સમય,
+    Daylight: અરેબિયન દિવસ સમય
+  },
+  Asia/Bahrain: {
+    Generic: અરેબિયન સમય,
+    Standard: અરેબિયન માનક સમય,
+    Daylight: અરેબિયન દિવસ સમય
+  },
+  Asia/Kuwait: {
+    Generic: અરેબિયન સમય,
+    Standard: અરેબિયન માનક સમય,
+    Daylight: અરેબિયન દિવસ સમય
+  },
+  Asia/Qatar: {
+    Generic: અરેબિયન સમય,
+    Standard: અરેબિયન માનક સમય,
+    Daylight: અરેબિયન દિવસ સમય
+  },
+  Asia/Aden: {
+    Generic: અરેબિયન સમય,
+    Standard: અરેબિયન માનક સમય,
+    Daylight: અરેબિયન દિવસ સમય
+  },
+  Asia/Dubai: {
+    Generic: ગલ્ફ માનક સમય,
+    Standard: ગલ્ફ માનક સમય,
+    Daylight: ગલ્ફ માનક સમય
+  },
+  Asia/Muscat: {
+    Generic: ગલ્ફ માનક સમય,
+    Standard: ગલ્ફ માનક સમય,
+    Daylight: ગલ્ફ માનક સમય
+  },
+  Etc/GMT-4: {
+    Generic: સંકલિત યુનિવર્સલ સમય +4,
+    Standard: સંકલિત યુનિવર્સલ સમય +4,
+    Daylight: સંકલિત યુનિવર્સલ સમય +4
+  },
+  Asia/Baghdad: {
+    Generic: અરેબિયન સમય,
+    Standard: અરેબિયન માનક સમય,
+    Daylight: અરેબિયન દિવસ સમય
+  },
+  America/Buenos_Aires: {
+    Generic: આર્જેન્ટીના સમય,
+    Standard: આર્જેન્ટીના માનક સમય,
+    Daylight: આર્જેન્ટીના ગ્રીષ્મ સમય
+  },
+  America/Argentina/La_Rioja: {
+    Generic: આર્જેન્ટીના સમય,
+    Standard: આર્જેન્ટીના માનક સમય,
+    Daylight: આર્જેન્ટીના ગ્રીષ્મ સમય
+  },
+  America/Argentina/Rio_Gallegos: {
+    Generic: આર્જેન્ટીના સમય,
+    Standard: આર્જેન્ટીના માનક સમય,
+    Daylight: આર્જેન્ટીના ગ્રીષ્મ સમય
+  },
+  America/Argentina/Salta: {
+    Generic: આર્જેન્ટીના સમય,
+    Standard: આર્જેન્ટીના માનક સમય,
+    Daylight: આર્જેન્ટીના ગ્રીષ્મ સમય
+  },
+  America/Argentina/San_Juan: {
+    Generic: આર્જેન્ટીના સમય,
+    Standard: આર્જેન્ટીના માનક સમય,
+    Daylight: આર્જેન્ટીના ગ્રીષ્મ સમય
+  },
+  America/Argentina/San_Luis: {
+    Generic: આર્જેન્ટીના સમય,
+    Standard: આર્જેન્ટીના માનક સમય,
+    Daylight: આર્જેન્ટીના ગ્રીષ્મ સમય
+  },
+  America/Argentina/Tucuman: {
+    Generic: આર્જેન્ટીના સમય,
+    Standard: આર્જેન્ટીના માનક સમય,
+    Daylight: આર્જેન્ટીના ગ્રીષ્મ સમય
+  },
+  America/Argentina/Ushuaia: {
+    Generic: આર્જેન્ટીના સમય,
+    Standard: આર્જેન્ટીના માનક સમય,
+    Daylight: આર્જેન્ટીના ગ્રીષ્મ સમય
+  },
+  America/Catamarca: {
+    Generic: આર્જેન્ટીના સમય,
+    Standard: આર્જેન્ટીના માનક સમય,
+    Daylight: આર્જેન્ટીના ગ્રીષ્મ સમય
+  },
+  America/Cordoba: {
+    Generic: આર્જેન્ટીના સમય,
+    Standard: આર્જેન્ટીના માનક સમય,
+    Daylight: આર્જેન્ટીના ગ્રીષ્મ સમય
+  },
+  America/Jujuy: {
+    Generic: આર્જેન્ટીના સમય,
+    Standard: આર્જેન્ટીના માનક સમય,
+    Daylight: આર્જેન્ટીના ગ્રીષ્મ સમય
+  },
+  America/Mendoza: {
+    Generic: આર્જેન્ટીના સમય,
+    Standard: આર્જેન્ટીના માનક સમય,
+    Daylight: આર્જેન્ટીના ગ્રીષ્મ સમય
+  },
+  Europe/Astrakhan: {
+    Generic: આસ્ટ્રખન સમય,
+    Standard: આસ્ટ્રખન માનક સમય,
+    Daylight: આસ્ટ્રખન દિવસ સમય
+  },
+  Europe/Ulyanovsk: {
+    Generic: ઉલેનોવ્સ્ક સમય,
+    Standard: ઉલેનોવ્સ્ક માનક સમય,
+    Daylight: ઉલેનોવ્સ્ક દિવસ સમય
+  },
+  America/Halifax: {
+    Generic: એટલાન્ટિક સમય,
+    Standard: એટલાન્ટિક માનક સમય,
+    Daylight: એટલાન્ટિક દિવસ સમય
+  },
+  Atlantic/Bermuda: {
+    Generic: એટલાન્ટિક સમય,
+    Standard: એટલાન્ટિક માનક સમય,
+    Daylight: એટલાન્ટિક દિવસ સમય
+  },
+  America/Glace_Bay: {
+    Generic: એટલાન્ટિક સમય,
+    Standard: એટલાન્ટિક માનક સમય,
+    Daylight: એટલાન્ટિક દિવસ સમય
+  },
+  America/Goose_Bay: {
+    Generic: એટલાન્ટિક સમય,
+    Standard: એટલાન્ટિક માનક સમય,
+    Daylight: એટલાન્ટિક દિવસ સમય
+  },
+  America/Moncton: {
+    Generic: એટલાન્ટિક સમય,
+    Standard: એટલાન્ટિક માનક સમય,
+    Daylight: એટલાન્ટિક દિવસ સમય
+  },
+  America/Thule: {
+    Generic: એટલાન્ટિક સમય,
+    Standard: એટલાન્ટિક માનક સમય,
+    Daylight: એટલાન્ટિક દિવસ સમય
+  },
+  Australia/Eucla: {
+    Generic: ઑસ્ટ્રેલિયન કેન્દ્રીય પશ્ચિમી સમય,
+    Standard: ઑસ્ટ્રેલિયન કેન્દ્રીય પશ્ચિમી માનક સમય,
+    Daylight: ઓસ્ટ્રેલિયન કેન્દ્રીય પશ્ચિમી દિવસ સમય
+  },
+  Asia/Baku: {
+    Generic: અઝરબૈજાન સમય,
+    Standard: અઝરબૈજાન માનક સમય,
+    Daylight: અઝરબૈજાન ગ્રીષ્મ સમય
+  },
+  Atlantic/Azores: {
+    Generic: એઝોર્સ સમય,
+    Standard: એઝોર્સ માનક સમય,
+    Daylight: એઝોર્સ ગ્રીષ્મ સમય
+  },
+  America/Scoresbysund: {
+    Generic: પૂર્વ ગ્રીનલેન્ડ સમય,
+    Standard: પૂર્વ ગ્રીનલેન્ડ માનક સમય,
+    Daylight: પૂર્વ ગ્રીનલેન્ડ ગ્રીષ્મ સમય
+  },
+  America/Bahia: {
+    Generic: બ્રાઝિલિયા સમય,
+    Standard: બ્રાઝિલિયા માનક સમય,
+    Daylight: બ્રાઝિલિયા ગ્રીષ્મ સમય
+  },
+  Asia/Dhaka: {
+    Generic: બાંગ્લાદેશ સમય,
+    Standard: બાંગ્લાદેશ માનક સમય,
+    Daylight: બાંગ્લાદેશ ગ્રીષ્મ સમય
+  },
+  Asia/Thimphu: {
+    Generic: ભૂટાન સમય,
+    Standard: ભૂટાન સમય,
+    Daylight: ભૂટાન સમય
+  },
+  Europe/Minsk: {
+    Generic: મોસ્કો સમય,
+    Standard: મોસ્કો માનક સમય,
+    Daylight: મોસ્કો ગ્રીષ્મ સમય
+  },
+  Pacific/Bougainville: {
+    Generic: પાપુઆ ન્યુ ગિની સમય,
+    Standard: પાપુઆ ન્યુ ગિની સમય,
+    Daylight: પાપુઆ ન્યુ ગિની સમય
+  },
+  America/Regina: {
+    Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
+    Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
+    Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
+  },
+  America/Swift_Current: {
+    Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
+    Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
+    Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
+  },
+  Atlantic/Cape_Verde: {
+    Generic: કૅપ વર્ડે સમય,
+    Standard: કૅપ વર્ડે માનક સમય,
+    Daylight: કૅપ વર્ડે ગ્રીષ્મ સમય
+  },
+  Etc/GMT+1: {
+    Generic: સંકલિત યુનિવર્સલ સમય -1,
+    Standard: સંકલિત યુનિવર્સલ સમય -1,
+    Daylight: સંકલિત યુનિવર્સલ સમય -1
+  },
+  Asia/Yerevan: {
+    Generic: આર્મેનિયા સમય,
+    Standard: આર્મેનિયા માનક સમય,
+    Daylight: આર્મેનિયા ગ્રીષ્મ સમય
+  },
+  Australia/Adelaide: {
+    Generic: કેન્દ્રીય ઑસ્ટ્રેલિયન સમય,
+    Standard: ઑસ્ટ્રેલિયન કેન્દ્રીય માનક સમય,
+    Daylight: ઓસ્ટ્રેલિયન કેન્દ્રીય દિવસ સમય
+  },
+  Australia/Broken_Hill: {
+    Generic: કેન્દ્રીય ઑસ્ટ્રેલિયન સમય,
+    Standard: ઑસ્ટ્રેલિયન કેન્દ્રીય માનક સમય,
+    Daylight: ઓસ્ટ્રેલિયન કેન્દ્રીય દિવસ સમય
+  },
+  America/Guatemala: {
+    Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
+    Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
+    Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
+  },
+  America/Belize: {
+    Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
+    Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
+    Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
+  },
+  America/Costa_Rica: {
+    Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
+    Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
+    Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
+  },
+  Pacific/Galapagos: {
+    Generic: ગાલાપાગોસ સમય,
+    Standard: ગાલાપાગોસ સમય,
+    Daylight: ગાલાપાગોસ સમય
+  },
+  America/Tegucigalpa: {
+    Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
+    Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
+    Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
+  },
+  America/Managua: {
+    Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
+    Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
+    Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
+  },
+  America/El_Salvador: {
+    Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
+    Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
+    Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
+  },
+  Etc/GMT+6: {
+    Generic: સંકલિત યુનિવર્સલ સમય -6,
+    Standard: સંકલિત યુનિવર્સલ સમય -6,
+    Daylight: સંકલિત યુનિવર્સલ સમય -6
+  },
+  Asia/Almaty: {
+    Generic: પૂર્વ કઝાકિસ્તાન સમય,
+    Standard: પૂર્વ કઝાકિસ્તાન સમય,
+    Daylight: પૂર્વ કઝાકિસ્તાન સમય
+  },
+  Antarctica/Vostok: {
+    Generic: વોસ્ટોક સમય,
+    Standard: વોસ્ટોક સમય,
+    Daylight: વોસ્ટોક સમય
+  },
+  Asia/Urumqi: {
+    Generic: ચીન સમય,
+    Standard: ચીન માનક સમય,
+    Daylight: ચીન દિવસ સમય
+  },
+  Indian/Chagos: {
+    Generic: ભારતીય મહાસાગર સમય,
+    Standard: ભારતીય મહાસાગર સમય,
+    Daylight: ભારતીય મહાસાગર સમય
+  },
+  Asia/Bishkek: {
+    Generic: કિર્ગિઝ્સ્તાન સમય,
+    Standard: કિર્ગિઝ્સ્તાન સમય,
+    Daylight: કિર્ગિઝ્સ્તાન સમય
+  },
+  Asia/Qostanay: {
+    Generic: પૂર્વ કઝાકિસ્તાન સમય,
+    Standard: પૂર્વ કઝાકિસ્તાન સમય,
+    Daylight: પૂર્વ કઝાકિસ્તાન સમય
+  },
+  Etc/GMT-6: {
+    Generic: સંકલિત યુનિવર્સલ સમય +6,
+    Standard: સંકલિત યુનિવર્સલ સમય +6,
+    Daylight: સંકલિત યુનિવર્સલ સમય +6
+  },
+  America/Cuiaba: {
+    Generic: એમેઝોન સમય,
+    Standard: એમેઝોન માનક સમય,
+    Daylight: એમેઝોન ગ્રીષ્મ સમય
+  },
+  America/Campo_Grande: {
+    Generic: એમેઝોન સમય,
+    Standard: એમેઝોન માનક સમય,
+    Daylight: એમેઝોન ગ્રીષ્મ સમય
+  },
+  Europe/Budapest: {
+    Generic: મધ્ય યુરોપિયન સમય,
+    Standard: મધ્ય યુરોપિયન માનક સમય,
+    Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/Tirane: {
+    Generic: મધ્ય યુરોપિયન સમય,
+    Standard: મધ્ય યુરોપિયન માનક સમય,
+    Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/Prague: {
+    Generic: મધ્ય યુરોપિયન સમય,
+    Standard: મધ્ય યુરોપિયન માનક સમય,
+    Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/Podgorica: {
+    Generic: મધ્ય યુરોપિયન સમય,
+    Standard: મધ્ય યુરોપિયન માનક સમય,
+    Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/Belgrade: {
+    Generic: મધ્ય યુરોપિયન સમય,
+    Standard: મધ્ય યુરોપિયન માનક સમય,
+    Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/Ljubljana: {
+    Generic: મધ્ય યુરોપિયન સમય,
+    Standard: મધ્ય યુરોપિયન માનક સમય,
+    Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/Bratislava: {
+    Generic: મધ્ય યુરોપિયન સમય,
+    Standard: મધ્ય યુરોપિયન માનક સમય,
+    Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/Warsaw: {
+    Generic: મધ્ય યુરોપિયન સમય,
+    Standard: મધ્ય યુરોપિયન માનક સમય,
+    Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/Sarajevo: {
+    Generic: મધ્ય યુરોપિયન સમય,
+    Standard: મધ્ય યુરોપિયન માનક સમય,
+    Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/Zagreb: {
+    Generic: મધ્ય યુરોપિયન સમય,
+    Standard: મધ્ય યુરોપિયન માનક સમય,
+    Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/Skopje: {
+    Generic: મધ્ય યુરોપિયન સમય,
+    Standard: મધ્ય યુરોપિયન માનક સમય,
+    Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Pacific/Guadalcanal: {
+    Generic: સોલોમન આઇલેન્ડ્સ સમય,
+    Standard: સોલોમન આઇલેન્ડ્સ સમય,
+    Daylight: સોલોમન આઇલેન્ડ્સ સમય
+  },
+  Antarctica/Casey: {
+    Generic: એન્ટાર્કટિકા સમય,
+    Standard: એન્ટાર્કટિકા માનક સમય,
+    Daylight: એન્ટાર્કટિકા દિવસ સમય
+  },
+  Pacific/Ponape: {
+    Generic: પોનપે સમય,
+    Standard: પોનપે સમય,
+    Daylight: પોનપે સમય
+  },
+  Pacific/Kosrae: {
+    Generic: કોસરે સમય,
+    Standard: કોસરે સમય,
+    Daylight: કોસરે સમય
+  },
+  Pacific/Noumea: {
+    Generic: ન્યુ સેલેડોનિયા સમય,
+    Standard: ન્યુ સેલેડોનિયા માનક સમય,
+    Daylight: ન્યુ સેલેડોનિયા ગ્રીષ્મ સમય
+  },
+  Pacific/Efate: {
+    Generic: વનાતૂ સમય,
+    Standard: વનાતૂ માનક સમય,
+    Daylight: વનાતૂ ગ્રીષ્મ સમય
+  },
+  Etc/GMT-11: {
+    Generic: સંકલિત યુનિવર્સલ સમય +11,
+    Standard: સંકલિત યુનિવર્સલ સમય +11,
+    Daylight: સંકલિત યુનિવર્સલ સમય +11
+  },
+  America/Mexico_City: {
+    Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
+    Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
+    Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
+  },
+  America/Bahia_Banderas: {
+    Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
+    Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
+    Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
+  },
+  America/Merida: {
+    Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
+    Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
+    Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
+  },
+  America/Monterrey: {
+    Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
+    Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
+    Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
+  },
+  America/Chicago: {
+    Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
+    Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
+    Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
+  },
+  America/Winnipeg: {
+    Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
+    Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
+    Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
+  },
+  America/Rainy_River: {
+    Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
+    Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
+    Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
+  },
+  America/Rankin_Inlet: {
+    Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
+    Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
+    Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
+  },
+  America/Resolute: {
+    Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
+    Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
+    Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
+  },
+  America/Matamoros: {
+    Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
+    Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
+    Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
+  },
+  America/Indiana/Knox: {
+    Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
+    Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
+    Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
+  },
+  America/Indiana/Tell_City: {
+    Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
+    Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
+    Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
+  },
+  America/Menominee: {
+    Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
+    Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
+    Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
+  },
+  America/North_Dakota/Beulah: {
+    Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
+    Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
+    Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
+  },
+  America/North_Dakota/Center: {
+    Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
+    Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
+    Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
+  },
+  America/North_Dakota/New_Salem: {
+    Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
+    Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
+    Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
+  },
+  CST6CDT: {
+    Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
+    Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
+    Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
+  },
+  Pacific/Chatham: {
+    Generic: ચેતહામ સમય,
+    Standard: ચેતહામ માનક સમય,
+    Daylight: ચેતહામ દિવસ સમય
+  },
+  Asia/Shanghai: {
+    Generic: ચીન સમય,
+    Standard: ચીન માનક સમય,
+    Daylight: ચીન દિવસ સમય
+  },
+  Asia/Hong_Kong: {
+    Generic: હોંગ કોંગ સમય,
+    Standard: હોંગ કોંગ માનક સમય,
+    Daylight: હોંગ કોંગ ગ્રીષ્મ સમય
+  },
+  Asia/Macau: {
+    Generic: ચીન સમય,
+    Standard: ચીન માનક સમય,
+    Daylight: ચીન દિવસ સમય
+  },
+  America/Havana: {
+    Generic: ક્યુબા સમય,
+    Standard: ક્યુબા માનક સમય,
+    Daylight: ક્યુબા દિવસ સમય
+  },
+  Etc/GMT+12: {
+    Generic: સંકલિત યુનિવર્સલ સમય -12,
+    Standard: સંકલિત યુનિવર્સલ સમય -12,
+    Daylight: સંકલિત યુનિવર્સલ સમય -12
+  },
+  Africa/Nairobi: {
+    Generic: પૂર્વ આફ્રિકા સમય,
+    Standard: પૂર્વ આફ્રિકા સમય,
+    Daylight: પૂર્વ આફ્રિકા સમય
+  },
+  Antarctica/Syowa: {
+    Generic: સ્યોવા સમય,
+    Standard: સ્યોવા સમય,
+    Daylight: સ્યોવા સમય
+  },
+  Africa/Djibouti: {
+    Generic: પૂર્વ આફ્રિકા સમય,
+    Standard: પૂર્વ આફ્રિકા સમય,
+    Daylight: પૂર્વ આફ્રિકા સમય
+  },
+  Africa/Asmera: {
+    Generic: પૂર્વ આફ્રિકા સમય,
+    Standard: પૂર્વ આફ્રિકા સમય,
+    Daylight: પૂર્વ આફ્રિકા સમય
+  },
+  Africa/Addis_Ababa: {
+    Generic: પૂર્વ આફ્રિકા સમય,
+    Standard: પૂર્વ આફ્રિકા સમય,
+    Daylight: પૂર્વ આફ્રિકા સમય
+  },
+  Indian/Comoro: {
+    Generic: પૂર્વ આફ્રિકા સમય,
+    Standard: પૂર્વ આફ્રિકા સમય,
+    Daylight: પૂર્વ આફ્રિકા સમય
+  },
+  Indian/Antananarivo: {
+    Generic: પૂર્વ આફ્રિકા સમય,
+    Standard: પૂર્વ આફ્રિકા સમય,
+    Daylight: પૂર્વ આફ્રિકા સમય
+  },
+  Africa/Mogadishu: {
+    Generic: પૂર્વ આફ્રિકા સમય,
+    Standard: પૂર્વ આફ્રિકા સમય,
+    Daylight: પૂર્વ આફ્રિકા સમય
+  },
+  Africa/Dar_es_Salaam: {
+    Generic: પૂર્વ આફ્રિકા સમય,
+    Standard: પૂર્વ આફ્રિકા સમય,
+    Daylight: પૂર્વ આફ્રિકા સમય
+  },
+  Africa/Kampala: {
+    Generic: પૂર્વ આફ્રિકા સમય,
+    Standard: પૂર્વ આફ્રિકા સમય,
+    Daylight: પૂર્વ આફ્રિકા સમય
+  },
+  Indian/Mayotte: {
+    Generic: પૂર્વ આફ્રિકા સમય,
+    Standard: પૂર્વ આફ્રિકા સમય,
+    Daylight: પૂર્વ આફ્રિકા સમય
+  },
+  Etc/GMT-3: {
+    Generic: સંકલિત યુનિવર્સલ સમય +3,
+    Standard: સંકલિત યુનિવર્સલ સમય +3,
+    Daylight: સંકલિત યુનિવર્સલ સમય +3
+  },
+  Australia/Brisbane: {
+    Generic: પૂર્વીય ઑસ્ટ્રેલિયા સમય,
+    Standard: ઑસ્ટ્રેલિયન પૂર્વીય માનક સમય,
+    Daylight: ઓસ્ટ્રેલિયન પૂર્વીય દિવસ સમય
+  },
+  Australia/Lindeman: {
+    Generic: પૂર્વીય ઑસ્ટ્રેલિયા સમય,
+    Standard: ઑસ્ટ્રેલિયન પૂર્વીય માનક સમય,
+    Daylight: ઓસ્ટ્રેલિયન પૂર્વીય દિવસ સમય
+  },
+  Europe/Chisinau: {
+    Generic: પૂર્વી યુરોપિયન સમય,
+    Standard: પૂર્વી યુરોપિયન માનક સમય,
+    Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
+  },
+  America/Sao_Paulo: {
+    Generic: બ્રાઝિલિયા સમય,
+    Standard: બ્રાઝિલિયા માનક સમય,
+    Daylight: બ્રાઝિલિયા ગ્રીષ્મ સમય
+  },
+  Pacific/Easter: {
+    Generic: ઇસ્ટર આઇલેન્ડ સમય,
+    Standard: ઇસ્ટર આઇલેન્ડ માનક સમય,
+    Daylight: ઇસ્ટર આઇલેન્ડ ગ્રીષ્મ સમય
+  },
+  America/Cancun: {
+    Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
+    Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
+  },
+  America/New_York: {
+    Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
+    Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
+  },
+  America/Nassau: {
+    Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
+    Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
+  },
+  America/Toronto: {
+    Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
+    Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
+  },
+  America/Iqaluit: {
+    Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
+    Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
+  },
+  America/Montreal: {
+    Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
+    Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
+  },
+  America/Nipigon: {
+    Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
+    Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
+  },
+  America/Pangnirtung: {
+    Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
+    Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
+  },
+  America/Thunder_Bay: {
+    Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
+    Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
+  },
+  America/Detroit: {
+    Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
+    Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
+  },
+  America/Indiana/Petersburg: {
+    Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
+    Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
+  },
+  America/Indiana/Vincennes: {
+    Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
+    Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
+  },
+  America/Indiana/Winamac: {
+    Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
+    Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
+  },
+  America/Kentucky/Monticello: {
+    Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
+    Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
+  },
+  America/Louisville: {
+    Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
+    Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
+  },
+  EST5EDT: {
+    Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
+    Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
+  },
+  Africa/Cairo: {
+    Generic: પૂર્વી યુરોપિયન સમય,
+    Standard: પૂર્વી યુરોપિયન માનક સમય,
+    Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Asia/Yekaterinburg: {
+    Generic: યેકાતેરિનબર્ગ સમય,
+    Standard: યેકાતેરિનબર્ગ માનક સમય,
+    Daylight: યેકાતેરિનબર્ગ દિવસ સમય
+  },
+  Europe/Kiev: {
+    Generic: પૂર્વી યુરોપિયન સમય,
+    Standard: પૂર્વી યુરોપિયન માનક સમય,
+    Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/Mariehamn: {
+    Generic: પૂર્વી યુરોપિયન સમય,
+    Standard: પૂર્વી યુરોપિયન માનક સમય,
+    Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/Sofia: {
+    Generic: પૂર્વી યુરોપિયન સમય,
+    Standard: પૂર્વી યુરોપિયન માનક સમય,
+    Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/Tallinn: {
+    Generic: પૂર્વી યુરોપિયન સમય,
+    Standard: પૂર્વી યુરોપિયન માનક સમય,
+    Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/Helsinki: {
+    Generic: પૂર્વી યુરોપિયન સમય,
+    Standard: પૂર્વી યુરોપિયન માનક સમય,
+    Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/Vilnius: {
+    Generic: પૂર્વી યુરોપિયન સમય,
+    Standard: પૂર્વી યુરોપિયન માનક સમય,
+    Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/Riga: {
+    Generic: પૂર્વી યુરોપિયન સમય,
+    Standard: પૂર્વી યુરોપિયન માનક સમય,
+    Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/Uzhgorod: {
+    Generic: પૂર્વી યુરોપિયન સમય,
+    Standard: પૂર્વી યુરોપિયન માનક સમય,
+    Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/Zaporozhye: {
+    Generic: પૂર્વી યુરોપિયન સમય,
+    Standard: પૂર્વી યુરોપિયન માનક સમય,
+    Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Pacific/Fiji: {
+    Generic: ફીજી સમય,
+    Standard: ફીજી માનક સમય,
+    Daylight: ફીજી ગ્રીષ્મ સમય
+  },
+  Europe/London: {
+    Generic: યુનાઇટેડ કિંગડમ સમય,
+    Standard: ગ્રીનવિચ મધ્યમ સમય,
+    Daylight: બ્રિટિશ ગ્રીષ્મ સમય
+  },
+  Atlantic/Canary: {
+    Generic: પશ્ચિમી યુરોપિયન સમય,
+    Standard: પશ્ચિમી યુરોપિયન માનક સમય,
+    Daylight: પશ્ચિમી યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Atlantic/Faeroe: {
+    Generic: પશ્ચિમી યુરોપિયન સમય,
+    Standard: પશ્ચિમી યુરોપિયન માનક સમય,
+    Daylight: પશ્ચિમી યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/Guernsey: {
+    Generic: ગ્રીનવિચ મધ્યમ સમય,
+    Standard: ગ્રીનવિચ મધ્યમ સમય,
+    Daylight: ગ્રીનવિચ મધ્યમ સમય
+  },
+  Europe/Dublin: {
+    Generic: આયર્લેન્ડ સમય,
+    Standard: ગ્રીનવિચ મધ્યમ સમય,
+    Daylight: આઈરિશ માનક સમય
+  },
+  Europe/Isle_of_Man: {
+    Generic: ગ્રીનવિચ મધ્યમ સમય,
+    Standard: ગ્રીનવિચ મધ્યમ સમય,
+    Daylight: ગ્રીનવિચ મધ્યમ સમય
+  },
+  Europe/Jersey: {
+    Generic: ગ્રીનવિચ મધ્યમ સમય,
+    Standard: ગ્રીનવિચ મધ્યમ સમય,
+    Daylight: ગ્રીનવિચ મધ્યમ સમય
+  },
+  Europe/Lisbon: {
+    Generic: પશ્ચિમી યુરોપિયન સમય,
+    Standard: પશ્ચિમી યુરોપિયન માનક સમય,
+    Daylight: પશ્ચિમી યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Atlantic/Madeira: {
+    Generic: પશ્ચિમી યુરોપિયન સમય,
+    Standard: પશ્ચિમી યુરોપિયન માનક સમય,
+    Daylight: પશ્ચિમી યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/Bucharest: {
+    Generic: પૂર્વી યુરોપિયન સમય,
+    Standard: પૂર્વી યુરોપિયન માનક સમય,
+    Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Asia/Nicosia: {
+    Generic: પૂર્વી યુરોપિયન સમય,
+    Standard: પૂર્વી યુરોપિયન માનક સમય,
+    Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Asia/Famagusta: {
+    Generic: પૂર્વી યુરોપિયન સમય,
+    Standard: પૂર્વી યુરોપિયન માનક સમય,
+    Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/Athens: {
+    Generic: પૂર્વી યુરોપિયન સમય,
+    Standard: પૂર્વી યુરોપિયન માનક સમય,
+    Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Asia/Tbilisi: {
+    Generic: જ્યોર્જિયા સમય,
+    Standard: જ્યોર્જિયા માનક સમય,
+    Daylight: જ્યોર્જિયા ગ્રીષ્મ સમય
+  },
+  America/Godthab: {
+    Generic: પશ્ચિમ ગ્રીનલેન્ડ સમય,
+    Standard: પશ્ચિમ ગ્રીનલેન્ડ માનક સમય,
+    Daylight: પશ્ચિમ ગ્રીનલેન્ડ ગ્રીષ્મ સમય
+  },
+  Atlantic/Reykjavik: {
+    Generic: ગ્રીનવિચ મધ્યમ સમય,
+    Standard: ગ્રીનવિચ મધ્યમ સમય,
+    Daylight: ગ્રીનવિચ મધ્યમ સમય
+  },
+  Atlantic/St_Helena: {
+    Generic: ગ્રીનવિચ મધ્યમ સમય,
+    Standard: ગ્રીનવિચ મધ્યમ સમય,
+    Daylight: ગ્રીનવિચ મધ્યમ સમય
+  },
+  Africa/Ouagadougou: {
+    Generic: ગ્રીનવિચ મધ્યમ સમય,
+    Standard: ગ્રીનવિચ મધ્યમ સમય,
+    Daylight: ગ્રીનવિચ મધ્યમ સમય
+  },
+  Africa/Abidjan: {
+    Generic: ગ્રીનવિચ મધ્યમ સમય,
+    Standard: ગ્રીનવિચ મધ્યમ સમય,
+    Daylight: ગ્રીનવિચ મધ્યમ સમય
+  },
+  Africa/Accra: {
+    Generic: ગ્રીનવિચ મધ્યમ સમય,
+    Standard: ગ્રીનવિચ મધ્યમ સમય,
+    Daylight: ગ્રીનવિચ મધ્યમ સમય
+  },
+  America/Danmarkshavn: {
+    Generic: ગ્રીનવિચ મધ્યમ સમય,
+    Standard: ગ્રીનવિચ મધ્યમ સમય,
+    Daylight: ગ્રીનવિચ મધ્યમ સમય
+  },
+  Africa/Banjul: {
+    Generic: ગ્રીનવિચ મધ્યમ સમય,
+    Standard: ગ્રીનવિચ મધ્યમ સમય,
+    Daylight: ગ્રીનવિચ મધ્યમ સમય
+  },
+  Africa/Conakry: {
+    Generic: ગ્રીનવિચ મધ્યમ સમય,
+    Standard: ગ્રીનવિચ મધ્યમ સમય,
+    Daylight: ગ્રીનવિચ મધ્યમ સમય
+  },
+  Africa/Bissau: {
+    Generic: ગ્રીનવિચ મધ્યમ સમય,
+    Standard: ગ્રીનવિચ મધ્યમ સમય,
+    Daylight: ગ્રીનવિચ મધ્યમ સમય
+  },
+  Africa/Monrovia: {
+    Generic: ગ્રીનવિચ મધ્યમ સમય,
+    Standard: ગ્રીનવિચ મધ્યમ સમય,
+    Daylight: ગ્રીનવિચ મધ્યમ સમય
+  },
+  Africa/Bamako: {
+    Generic: ગ્રીનવિચ મધ્યમ સમય,
+    Standard: ગ્રીનવિચ મધ્યમ સમય,
+    Daylight: ગ્રીનવિચ મધ્યમ સમય
+  },
+  Africa/Nouakchott: {
+    Generic: ગ્રીનવિચ મધ્યમ સમય,
+    Standard: ગ્રીનવિચ મધ્યમ સમય,
+    Daylight: ગ્રીનવિચ મધ્યમ સમય
+  },
+  Africa/Freetown: {
+    Generic: ગ્રીનવિચ મધ્યમ સમય,
+    Standard: ગ્રીનવિચ મધ્યમ સમય,
+    Daylight: ગ્રીનવિચ મધ્યમ સમય
+  },
+  Africa/Dakar: {
+    Generic: ગ્રીનવિચ મધ્યમ સમય,
+    Standard: ગ્રીનવિચ મધ્યમ સમય,
+    Daylight: ગ્રીનવિચ મધ્યમ સમય
+  },
+  Africa/Lome: {
+    Generic: ગ્રીનવિચ મધ્યમ સમય,
+    Standard: ગ્રીનવિચ મધ્યમ સમય,
+    Daylight: ગ્રીનવિચ મધ્યમ સમય
+  },
+  America/Port-au-Prince: {
+    Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
+    Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
+  },
+  Pacific/Honolulu: {
+    Generic: હવાઈ-એલ્યુશિઅન સમય,
+    Standard: હવાઇ-એલ્યુશિઅન માનક સમય,
+    Daylight: હવાઇ-એલ્યુશિઅન દિવસ સમય
+  },
+  Pacific/Rarotonga: {
+    Generic: કુક આઇલેન્ડ્સ સમય,
+    Standard: કુક આઇલેન્ડ્સ માનક સમય,
+    Daylight: કુક આઇલેન્ડ્સ અર્ધ ગ્રીષ્મ સમય
+  },
+  Pacific/Tahiti: {
+    Generic: તાહિતી સમય,
+    Standard: તાહિતી સમય,
+    Daylight: તાહિતી સમય
+  },
+  Pacific/Johnston: {
+    Generic: હવાઈ-એલ્યુશિઅન સમય,
+    Standard: હવાઇ-એલ્યુશિઅન માનક સમય,
+    Daylight: હવાઇ-એલ્યુશિઅન દિવસ સમય
+  },
+  Etc/GMT+10: {
+    Generic: સંકલિત યુનિવર્સલ સમય -10,
+    Standard: સંકલિત યુનિવર્સલ સમય -10,
+    Daylight: સંકલિત યુનિવર્સલ સમય -10
+  },
+  Asia/Calcutta: {
+    Generic: ભારતીય માનક સમય,
+    Standard: ભારતીય માનક સમય,
+    Daylight: ભારતીય માનક સમય
+  },
+  Asia/Tehran: {
+    Generic: ઈરાન સમય,
+    Standard: ઈરાન માનક સમય,
+    Daylight: ઈરાન દિવસ સમય
+  },
+  Asia/Jerusalem: {
+    Generic: ઇઝરાઇલ સમય,
+    Standard: ઇઝરાઇલ માનક સમય,
+    Daylight: ઇઝરાઇલ દિવસ સમય
+  },
+  Asia/Amman: {
+    Generic: પૂર્વી યુરોપિયન સમય,
+    Standard: પૂર્વી યુરોપિયન માનક સમય,
+    Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/Kaliningrad: {
+    Generic: કલિનિન્ગ્રેડ સમય,
+    Standard: કલિનિન્ગ્રેડ માનક સમય,
+    Daylight: કલિનિન્ગ્રેડ દિવસ સમય
+  },
+  Asia/Seoul: {
+    Generic: કોરિયન સમય,
+    Standard: કોરિયન માનક સમય,
+    Daylight: કોરિયન દિવસ સમય
+  },
+  Africa/Tripoli: {
+    Generic: પૂર્વી યુરોપિયન સમય,
+    Standard: પૂર્વી યુરોપિયન માનક સમય,
+    Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Pacific/Kiritimati: {
+    Generic: લાઇન આઇલેન્ડ્સ સમય,
+    Standard: લાઇન આઇલેન્ડ્સ સમય,
+    Daylight: લાઇન આઇલેન્ડ્સ સમય
+  },
+  Etc/GMT-14: {
+    Generic: સંકલિત યુનિવર્સલ સમય +14,
+    Standard: સંકલિત યુનિવર્સલ સમય +14,
+    Daylight: સંકલિત યુનિવર્સલ સમય +14
+  },
+  Australia/Lord_Howe: {
+    Generic: લોર્ડ હોવ સમય,
+    Standard: લોર્ડ હોવ માનક સમય,
+    Daylight: લોર્ડ હોવ દિવસ સમય
+  },
+  Asia/Magadan: {
+    Generic: મેગાડન સમય,
+    Standard: મેગાડન માનક સમય,
+    Daylight: મેગાડન દિવસ સમય
+  },
+  America/Punta_Arenas: {
+    Generic: ચિલી સમય,
+    Standard: ચિલી માનક સમય,
+    Daylight: ચિલી ગ્રીષ્મ સમય
+  },
+  Pacific/Marquesas: {
+    Generic: માર્ક્યૂસસ સમય,
+    Standard: માર્ક્યૂસસ સમય,
+    Daylight: માર્ક્યૂસસ સમય
+  },
+  Indian/Mauritius: {
+    Generic: મોરિશિયસ સમય,
+    Standard: મોરિશિયસ માનક સમય,
+    Daylight: મોરિશિયસ ગ્રીષ્મ સમય
+  },
+  Indian/Reunion: {
+    Generic: રીયુનિયન સમય,
+    Standard: રીયુનિયન સમય,
+    Daylight: રીયુનિયન સમય
+  },
+  Indian/Mahe: {
+    Generic: સેશલ્સ સમય,
+    Standard: સેશલ્સ સમય,
+    Daylight: સેશલ્સ સમય
+  },
+  Asia/Beirut: {
+    Generic: પૂર્વી યુરોપિયન સમય,
+    Standard: પૂર્વી યુરોપિયન માનક સમય,
+    Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
+  },
+  America/Montevideo: {
+    Generic: ઉરુગ્વે સમય,
+    Standard: ઉરુગ્વે માનક સમય,
+    Daylight: ઉરુગ્વે ગ્રીષ્મ સમય
+  },
+  Africa/Casablanca: {
+    Generic: પશ્ચિમી યુરોપિયન સમય,
+    Standard: પશ્ચિમી યુરોપિયન માનક સમય,
+    Daylight: પશ્ચિમી યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Africa/El_Aaiun: {
+    Generic: પશ્ચિમી યુરોપિયન સમય,
+    Standard: પશ્ચિમી યુરોપિયન માનક સમય,
+    Daylight: પશ્ચિમી યુરોપિયન ગ્રીષ્મ સમય
+  },
+  America/Chihuahua: {
+    Generic: મેક્સિકન પેસિફિક સમય,
+    Standard: મેક્સિકન પેસિફિક માનક સમય,
+    Daylight: મેક્સિકન પેસિફિક દિવસ સમય
+  },
+  America/Mazatlan: {
+    Generic: મેક્સિકન પેસિફિક સમય,
+    Standard: મેક્સિકન પેસિફિક માનક સમય,
+    Daylight: મેક્સિકન પેસિફિક દિવસ સમય
+  },
+  America/Denver: {
+    Generic: ઉત્તર અમેરિકન માઉન્ટન સમય,
+    Standard: ઉત્તર અમેરિકન માઉન્ટન માનક સમય,
+    Daylight: ઉત્તર અમેરિકન માઉન્ટન દિવસ સમય
+  },
+  America/Edmonton: {
+    Generic: ઉત્તર અમેરિકન માઉન્ટન સમય,
+    Standard: ઉત્તર અમેરિકન માઉન્ટન માનક સમય,
+    Daylight: ઉત્તર અમેરિકન માઉન્ટન દિવસ સમય
+  },
+  America/Cambridge_Bay: {
+    Generic: ઉત્તર અમેરિકન માઉન્ટન સમય,
+    Standard: ઉત્તર અમેરિકન માઉન્ટન માનક સમય,
+    Daylight: ઉત્તર અમેરિકન માઉન્ટન દિવસ સમય
+  },
+  America/Inuvik: {
+    Generic: ઉત્તર અમેરિકન માઉન્ટન સમય,
+    Standard: ઉત્તર અમેરિકન માઉન્ટન માનક સમય,
+    Daylight: ઉત્તર અમેરિકન માઉન્ટન દિવસ સમય
+  },
+  America/Yellowknife: {
+    Generic: ઉત્તર અમેરિકન માઉન્ટન સમય,
+    Standard: ઉત્તર અમેરિકન માઉન્ટન માનક સમય,
+    Daylight: ઉત્તર અમેરિકન માઉન્ટન દિવસ સમય
+  },
+  America/Ojinaga: {
+    Generic: ઉત્તર અમેરિકન માઉન્ટન સમય,
+    Standard: ઉત્તર અમેરિકન માઉન્ટન માનક સમય,
+    Daylight: ઉત્તર અમેરિકન માઉન્ટન દિવસ સમય
+  },
+  America/Boise: {
+    Generic: ઉત્તર અમેરિકન માઉન્ટન સમય,
+    Standard: ઉત્તર અમેરિકન માઉન્ટન માનક સમય,
+    Daylight: ઉત્તર અમેરિકન માઉન્ટન દિવસ સમય
+  },
+  MST7MDT: {
+    Generic: ઉત્તર અમેરિકન માઉન્ટન સમય,
+    Standard: ઉત્તર અમેરિકન માઉન્ટન માનક સમય,
+    Daylight: ઉત્તર અમેરિકન માઉન્ટન દિવસ સમય
+  },
+  Asia/Rangoon: {
+    Generic: મ્યાનમાર સમય,
+    Standard: મ્યાનમાર સમય,
+    Daylight: મ્યાનમાર સમય
+  },
+  Indian/Cocos: {
+    Generic: કોકોઝ આઇલેન્ડ્સ સમય,
+    Standard: કોકોઝ આઇલેન્ડ્સ સમય,
+    Daylight: કોકોઝ આઇલેન્ડ્સ સમય
+  },
+  Asia/Novosibirsk: {
+    Generic: નોવોસીર્બિર્સ્ક સમય,
+    Standard: નોવોસીર્બિર્સ્ક માનક સમય,
+    Daylight: નોવોસીર્બિર્સ્ક દિવસ સમય
+  },
+  Africa/Windhoek: {
+    Generic: મધ્ય આફ્રિકા સમય,
+    Standard: મધ્ય આફ્રિકા સમય,
+    Daylight: મધ્ય આફ્રિકા સમય
+  },
+  Asia/Katmandu: {
+    Generic: નેપાળ સમય,
+    Standard: નેપાળ સમય,
+    Daylight: નેપાળ સમય
+  },
+  Pacific/Auckland: {
+    Generic: ન્યુઝીલેન્ડ સમય,
+    Standard: ન્યુઝીલેન્ડ માનક સમય,
+    Daylight: ન્યુઝીલેન્ડ દિવસ સમય
+  },
+  Antarctica/McMurdo: {
+    Generic: ન્યુઝીલેન્ડ સમય,
+    Standard: ન્યુઝીલેન્ડ માનક સમય,
+    Daylight: ન્યુઝીલેન્ડ દિવસ સમય
+  },
+  America/St_Johns: {
+    Generic: ન્યૂફાઉન્ડલેન્ડ સમય,
+    Standard: ન્યૂફાઉન્ડલેન્ડ માનક સમય,
+    Daylight: ન્યૂફાઉન્ડલેન્ડ દિવસ સમય
+  },
+  Pacific/Norfolk: {
+    Generic: નોરફૉક આઇલેન્ડ સમય,
+    Standard: નોરફૉક આઇલેન્ડ માનક સમય,
+    Daylight: નોરફૉક આઇલેન્ડ દિવસ સમય
+  },
+  Asia/Irkutsk: {
+    Generic: ઇર્કુત્સ્ક સમય,
+    Standard: ઇર્કુત્સ્ક માનક સમય,
+    Daylight: ઇર્કુત્સ્ક દિવસ સમય
+  },
+  Asia/Krasnoyarsk: {
+    Generic: ક્રિસ્નોયાર્સ્ક સમય,
+    Standard: ક્રિસ્નોયાર્સ્ક માનક સમય,
+    Daylight: ક્રિસ્નોયાર્સ્ક દિવસ સમય
+  },
+  Asia/Novokuznetsk: {
+    Generic: નોવોકુઝ્નેત્સ્ક સમય,
+    Standard: નોવોકુઝ્નેત્સ્ક માનક સમય,
+    Daylight: નોવોકુઝ્નેત્સ્ક દિવસ સમય
+  },
+  Asia/Pyongyang: {
+    Generic: કોરિયન સમય,
+    Standard: કોરિયન માનક સમય,
+    Daylight: કોરિયન દિવસ સમય
+  },
+  Asia/Omsk: {
+    Generic: ઓમ્સ્ક સમય,
+    Standard: ઓમ્સ્ક માનક સમય,
+    Daylight: ઓમ્સ્ક દિવસ સમય
+  },
+  America/Santiago: {
+    Generic: ચિલી સમય,
+    Standard: ચિલી માનક સમય,
+    Daylight: ચિલી ગ્રીષ્મ સમય
+  },
+  America/Tijuana: {
+    Generic: ઉત્તર અમેરિકન પેસિફિક સમય,
+    Standard: ઉત્તર અમેરિકન પેસિફિક માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પેસિફિક દિવસ સમય
+  },
+  America/Santa_Isabel: {
+    Generic: ઉત્તરપશ્ચિમ મેક્સિકો સમય,
+    Standard: ઉત્તરપશ્ચિમ મેક્સિકો માનક સમય,
+    Daylight: ઉત્તરપશ્ચિમ મેક્સિકો દિવસ સમય
+  },
+  America/Los_Angeles: {
+    Generic: ઉત્તર અમેરિકન પેસિફિક સમય,
+    Standard: ઉત્તર અમેરિકન પેસિફિક માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પેસિફિક દિવસ સમય
+  },
+  America/Vancouver: {
+    Generic: ઉત્તર અમેરિકન પેસિફિક સમય,
+    Standard: ઉત્તર અમેરિકન પેસિફિક માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પેસિફિક દિવસ સમય
+  },
+  PST8PDT: {
+    Generic: ઉત્તર અમેરિકન પેસિફિક સમય,
+    Standard: ઉત્તર અમેરિકન પેસિફિક માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પેસિફિક દિવસ સમય
+  },
+  Asia/Karachi: {
+    Generic: પાકિસ્તાન સમય,
+    Standard: પાકિસ્તાન માનક સમય,
+    Daylight: પાકિસ્તાન ગ્રીષ્મ સમય
+  },
+  America/Asuncion: {
+    Generic: પેરાગ્વે સમય,
+    Standard: પેરાગ્વે માનક સમય,
+    Daylight: પેરાગ્વે ગ્રીષ્મ સમય
+  },
+  Asia/Qyzylorda: {
+    Generic: પશ્ચિમ કઝાકિસ્તાન સમય,
+    Standard: પશ્ચિમ કઝાકિસ્તાન સમય,
+    Daylight: પશ્ચિમ કઝાકિસ્તાન સમય
+  },
+  Europe/Paris: {
+    Generic: મધ્ય યુરોપિયન સમય,
+    Standard: મધ્ય યુરોપિયન માનક સમય,
+    Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/Brussels: {
+    Generic: મધ્ય યુરોપિયન સમય,
+    Standard: મધ્ય યુરોપિયન માનક સમય,
+    Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/Copenhagen: {
+    Generic: મધ્ય યુરોપિયન સમય,
+    Standard: મધ્ય યુરોપિયન માનક સમય,
+    Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Africa/Ceuta: {
+    Generic: મધ્ય યુરોપિયન સમય,
+    Standard: મધ્ય યુરોપિયન માનક સમય,
+    Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/Madrid: {
+    Generic: મધ્ય યુરોપિયન સમય,
+    Standard: મધ્ય યુરોપિયન માનક સમય,
+    Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Asia/Srednekolymsk: {
+    Generic: સ્રેડ્નેકોલીમ્સ્ક સમય,
+    Standard: સ્રેડ્નેકોલીમ્સ્ક માનક સમય,
+    Daylight: સ્રેડ્નેકોલીમ્સ્ક દિવસ સમય
+  },
+  Asia/Kamchatka: {
+    Generic: કામચટ્કા સમય,
+    Standard: કામચટ્કા માનક સમય,
+    Daylight: કામચટ્કા દિવસ સમય
+  },
+  Asia/Anadyr: {
+    Generic: અનદિર સમય,
+    Standard: અનદિર માનક સમય,
+    Daylight: અનદિર દિવસ સમય
+  },
+  Europe/Samara: {
+    Generic: સમારા સમય,
+    Standard: સમારા માનક સમય,
+    Daylight: સમારા દિવસ સમય
+  },
+  Europe/Moscow: {
+    Generic: મોસ્કો સમય,
+    Standard: મોસ્કો માનક સમય,
+    Daylight: મોસ્કો દિવસ સમય
+  },
+  Europe/Kirov: {
+    Generic: કીરોવ સમય,
+    Standard: કીરોવ માનક સમય,
+    Daylight: કીરોવ દિવસ સમય
+  },
+  Europe/Simferopol: {
+    Generic: મોસ્કો સમય,
+    Standard: મોસ્કો માનક સમય,
+    Daylight: મોસ્કો ગ્રીષ્મ સમય
+  },
+  America/Cayenne: {
+    Generic: ફ્રેંચ ગયાના સમય,
+    Standard: ફ્રેંચ ગયાના સમય,
+    Daylight: ફ્રેંચ ગયાના સમય
+  },
+  Antarctica/Rothera: {
+    Generic: રોથેરા સમય,
+    Standard: રોથેરા સમય,
+    Daylight: રોથેરા સમય
+  },
+  Antarctica/Palmer: {
+    Generic: ચિલી સમય,
+    Standard: ચિલી માનક સમય,
+    Daylight: ચિલી ગ્રીષ્મ સમય
+  },
+  America/Fortaleza: {
+    Generic: બ્રાઝિલિયા સમય,
+    Standard: બ્રાઝિલિયા માનક સમય,
+    Daylight: બ્રાઝિલિયા ગ્રીષ્મ સમય
+  },
+  America/Belem: {
+    Generic: બ્રાઝિલિયા સમય,
+    Standard: બ્રાઝિલિયા માનક સમય,
+    Daylight: બ્રાઝિલિયા ગ્રીષ્મ સમય
+  },
+  America/Maceio: {
+    Generic: બ્રાઝિલિયા સમય,
+    Standard: બ્રાઝિલિયા માનક સમય,
+    Daylight: બ્રાઝિલિયા ગ્રીષ્મ સમય
+  },
+  America/Recife: {
+    Generic: બ્રાઝિલિયા સમય,
+    Standard: બ્રાઝિલિયા માનક સમય,
+    Daylight: બ્રાઝિલિયા ગ્રીષ્મ સમય
+  },
+  America/Santarem: {
+    Generic: બ્રાઝિલિયા સમય,
+    Standard: બ્રાઝિલિયા માનક સમય,
+    Daylight: બ્રાઝિલિયા ગ્રીષ્મ સમય
+  },
+  Atlantic/Stanley: {
+    Generic: ફૉકલેન્ડ આઇલેન્ડ્સ સમય,
+    Standard: ફૉકલેન્ડ આઇલેન્ડ્સ માનક સમય,
+    Daylight: ફૉકલેન્ડ આઇલેન્ડ્સ ગ્રીષ્મ સમય
+  },
+  America/Paramaribo: {
+    Generic: સુરીનામ સમય,
+    Standard: સુરીનામ સમય,
+    Daylight: સુરીનામ સમય
+  },
+  Etc/GMT+3: {
+    Generic: સંકલિત યુનિવર્સલ સમય -3,
+    Standard: સંકલિત યુનિવર્સલ સમય -3,
+    Daylight: સંકલિત યુનિવર્સલ સમય -3
+  },
+  America/Bogota: {
+    Generic: કોલમ્બિયા સમય,
+    Standard: કોલમ્બિયા માનક સમય,
+    Daylight: કોલમ્બિયા ગ્રીષ્મ સમય
+  },
+  America/Rio_Branco: {
+    Generic: એકર સમય,
+    Standard: એકર પ્રમાણભૂત સમય,
+    Daylight: એકર ગ્રીષ્મ સમય
+  },
+  America/Eirunepe: {
+    Generic: એકર સમય,
+    Standard: એકર પ્રમાણભૂત સમય,
+    Daylight: એકર ગ્રીષ્મ સમય
+  },
+  America/Coral_Harbour: {
+    Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
+    Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
+  },
+  America/Guayaquil: {
+    Generic: એક્વાડોર સમય,
+    Standard: એક્વાડોર સમય,
+    Daylight: એક્વાડોર સમય
+  },
+  America/Jamaica: {
+    Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
+    Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
+  },
+  America/Cayman: {
+    Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
+    Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
+  },
+  America/Panama: {
+    Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
+    Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
+  },
+  America/Lima: {
+    Generic: પેરુ સમય,
+    Standard: પેરુ માનક સમય,
+    Daylight: પેરુ ગ્રીષ્મ સમય
+  },
+  Etc/GMT+5: {
+    Generic: સંકલિત યુનિવર્સલ સમય -5,
+    Standard: સંકલિત યુનિવર્સલ સમય -5,
+    Daylight: સંકલિત યુનિવર્સલ સમય -5
+  },
+  America/La_Paz: {
+    Generic: બોલિવિયા સમય,
+    Standard: બોલિવિયા સમય,
+    Daylight: બોલિવિયા સમય
+  },
+  America/Antigua: {
+    Generic: એટલાન્ટિક સમય,
+    Standard: એટલાન્ટિક માનક સમય,
+    Daylight: એટલાન્ટિક દિવસ સમય
+  },
+  America/Anguilla: {
+    Generic: એટલાન્ટિક સમય,
+    Standard: એટલાન્ટિક માનક સમય,
+    Daylight: એટલાન્ટિક દિવસ સમય
+  },
+  America/Aruba: {
+    Generic: એટલાન્ટિક સમય,
+    Standard: એટલાન્ટિક માનક સમય,
+    Daylight: એટલાન્ટિક દિવસ સમય
+  },
+  America/Barbados: {
+    Generic: એટલાન્ટિક સમય,
+    Standard: એટલાન્ટિક માનક સમય,
+    Daylight: એટલાન્ટિક દિવસ સમય
+  },
+  America/St_Barthelemy: {
+    Generic: એટલાન્ટિક સમય,
+    Standard: એટલાન્ટિક માનક સમય,
+    Daylight: એટલાન્ટિક દિવસ સમય
+  },
+  America/Kralendijk: {
+    Generic: એટલાન્ટિક સમય,
+    Standard: એટલાન્ટિક માનક સમય,
+    Daylight: એટલાન્ટિક દિવસ સમય
+  },
+  America/Manaus: {
+    Generic: એમેઝોન સમય,
+    Standard: એમેઝોન માનક સમય,
+    Daylight: એમેઝોન ગ્રીષ્મ સમય
+  },
+  America/Boa_Vista: {
+    Generic: એમેઝોન સમય,
+    Standard: એમેઝોન માનક સમય,
+    Daylight: એમેઝોન ગ્રીષ્મ સમય
+  },
+  America/Porto_Velho: {
+    Generic: એમેઝોન સમય,
+    Standard: એમેઝોન માનક સમય,
+    Daylight: એમેઝોન ગ્રીષ્મ સમય
+  },
+  America/Blanc-Sablon: {
+    Generic: એટલાન્ટિક સમય,
+    Standard: એટલાન્ટિક માનક સમય,
+    Daylight: એટલાન્ટિક દિવસ સમય
+  },
+  America/Curacao: {
+    Generic: એટલાન્ટિક સમય,
+    Standard: એટલાન્ટિક માનક સમય,
+    Daylight: એટલાન્ટિક દિવસ સમય
+  },
+  America/Dominica: {
+    Generic: એટલાન્ટિક સમય,
+    Standard: એટલાન્ટિક માનક સમય,
+    Daylight: એટલાન્ટિક દિવસ સમય
+  },
+  America/Santo_Domingo: {
+    Generic: એટલાન્ટિક સમય,
+    Standard: એટલાન્ટિક માનક સમય,
+    Daylight: એટલાન્ટિક દિવસ સમય
+  },
+  America/Grenada: {
+    Generic: એટલાન્ટિક સમય,
+    Standard: એટલાન્ટિક માનક સમય,
+    Daylight: એટલાન્ટિક દિવસ સમય
+  },
+  America/Guadeloupe: {
+    Generic: એટલાન્ટિક સમય,
+    Standard: એટલાન્ટિક માનક સમય,
+    Daylight: એટલાન્ટિક દિવસ સમય
+  },
+  America/Guyana: {
+    Generic: ગયાના સમય,
+    Standard: ગયાના સમય,
+    Daylight: ગયાના સમય
+  },
+  America/St_Kitts: {
+    Generic: એટલાન્ટિક સમય,
+    Standard: એટલાન્ટિક માનક સમય,
+    Daylight: એટલાન્ટિક દિવસ સમય
+  },
+  America/St_Lucia: {
+    Generic: એટલાન્ટિક સમય,
+    Standard: એટલાન્ટિક માનક સમય,
+    Daylight: એટલાન્ટિક દિવસ સમય
+  },
+  America/Marigot: {
+    Generic: એટલાન્ટિક સમય,
+    Standard: એટલાન્ટિક માનક સમય,
+    Daylight: એટલાન્ટિક દિવસ સમય
+  },
+  America/Martinique: {
+    Generic: એટલાન્ટિક સમય,
+    Standard: એટલાન્ટિક માનક સમય,
+    Daylight: એટલાન્ટિક દિવસ સમય
+  },
+  America/Montserrat: {
+    Generic: એટલાન્ટિક સમય,
+    Standard: એટલાન્ટિક માનક સમય,
+    Daylight: એટલાન્ટિક દિવસ સમય
+  },
+  America/Puerto_Rico: {
+    Generic: એટલાન્ટિક સમય,
+    Standard: એટલાન્ટિક માનક સમય,
+    Daylight: એટલાન્ટિક દિવસ સમય
+  },
+  America/Lower_Princes: {
+    Generic: એટલાન્ટિક સમય,
+    Standard: એટલાન્ટિક માનક સમય,
+    Daylight: એટલાન્ટિક દિવસ સમય
+  },
+  America/Port_of_Spain: {
+    Generic: એટલાન્ટિક સમય,
+    Standard: એટલાન્ટિક માનક સમય,
+    Daylight: એટલાન્ટિક દિવસ સમય
+  },
+  America/St_Vincent: {
+    Generic: એટલાન્ટિક સમય,
+    Standard: એટલાન્ટિક માનક સમય,
+    Daylight: એટલાન્ટિક દિવસ સમય
+  },
+  America/Tortola: {
+    Generic: એટલાન્ટિક સમય,
+    Standard: એટલાન્ટિક માનક સમય,
+    Daylight: એટલાન્ટિક દિવસ સમય
+  },
+  America/St_Thomas: {
+    Generic: એટલાન્ટિક સમય,
+    Standard: એટલાન્ટિક માનક સમય,
+    Daylight: એટલાન્ટિક દિવસ સમય
+  },
+  Etc/GMT+4: {
+    Generic: સંકલિત યુનિવર્સલ સમય -4,
+    Standard: સંકલિત યુનિવર્સલ સમય -4,
+    Daylight: સંકલિત યુનિવર્સલ સમય -4
+  },
+  Asia/Bangkok: {
+    Generic: ઇન્ડોચાઇના સમય,
+    Standard: ઇન્ડોચાઇના સમય,
+    Daylight: ઇન્ડોચાઇના સમય
+  },
+  Antarctica/Davis: {
+    Generic: ડેવિસ સમય,
+    Standard: ડેવિસ સમય,
+    Daylight: ડેવિસ સમય
+  },
+  Indian/Christmas: {
+    Generic: ક્રિસમસ આઇલેન્ડ સમય,
+    Standard: ક્રિસમસ આઇલેન્ડ સમય,
+    Daylight: ક્રિસમસ આઇલેન્ડ સમય
+  },
+  Asia/Jakarta: {
+    Generic: પશ્ચિમી ઇન્ડોનેશિયા સમય,
+    Standard: પશ્ચિમી ઇન્ડોનેશિયા સમય,
+    Daylight: પશ્ચિમી ઇન્ડોનેશિયા સમય
+  },
+  Asia/Pontianak: {
+    Generic: પશ્ચિમી ઇન્ડોનેશિયા સમય,
+    Standard: પશ્ચિમી ઇન્ડોનેશિયા સમય,
+    Daylight: પશ્ચિમી ઇન્ડોનેશિયા સમય
+  },
+  Asia/Phnom_Penh: {
+    Generic: ઇન્ડોચાઇના સમય,
+    Standard: ઇન્ડોચાઇના સમય,
+    Daylight: ઇન્ડોચાઇના સમય
+  },
+  Asia/Vientiane: {
+    Generic: ઇન્ડોચાઇના સમય,
+    Standard: ઇન્ડોચાઇના સમય,
+    Daylight: ઇન્ડોચાઇના સમય
+  },
+  Asia/Saigon: {
+    Generic: ઇન્ડોચાઇના સમય,
+    Standard: ઇન્ડોચાઇના સમય,
+    Daylight: ઇન્ડોચાઇના સમય
+  },
+  Etc/GMT-7: {
+    Generic: સંકલિત યુનિવર્સલ સમય +7,
+    Standard: સંકલિત યુનિવર્સલ સમય +7,
+    Daylight: સંકલિત યુનિવર્સલ સમય +7
+  },
+  America/Miquelon: {
+    Generic: સેંટ પીએરી અને મિક્યુલોન સમય,
+    Standard: સેંટ પીએરી અને મિક્યુલોન માનક સમય,
+    Daylight: સેંટ પીએરી અને મિક્યુલોન દિવસ સમય
+  },
+  Asia/Sakhalin: {
+    Generic: સખાલિન સમય,
+    Standard: સખાલિન માનક સમય,
+    Daylight: સખાલિન દિવસ સમય
+  },
+  Pacific/Apia: {
+    Generic: એપિયા સમય,
+    Standard: એપિયા માનક સમય,
+    Daylight: એપિયા દિવસ સમય
+  },
+  Africa/Sao_Tome: {
+    Generic: ગ્રીનવિચ મધ્યમ સમય,
+    Standard: ગ્રીનવિચ મધ્યમ સમય,
+    Daylight: ગ્રીનવિચ મધ્યમ સમય
+  },
+  Europe/Saratov: {
+    Generic: સારાટોવ સમય,
+    Standard: સારાટોવ માનક સમય,
+    Daylight: સારાટોવ દિવસ સમય
+  },
+  Asia/Singapore: {
+    Generic: સિંગાપુર માનક સમય,
+    Standard: સિંગાપુર માનક સમય,
+    Daylight: સિંગાપુર માનક સમય
+  },
+  Asia/Brunei: {
+    Generic: બ્રુનેઇ દરુસલામ સમય,
+    Standard: બ્રુનેઇ દરુસલામ સમય,
+    Daylight: બ્રુનેઇ દરુસલામ સમય
+  },
+  Asia/Makassar: {
+    Generic: મધ્ય ઇન્ડોનેશિયા સમય,
+    Standard: મધ્ય ઇન્ડોનેશિયા સમય,
+    Daylight: મધ્ય ઇન્ડોનેશિયા સમય
+  },
+  Asia/Kuala_Lumpur: {
+    Generic: મલેશિયા સમય,
+    Standard: મલેશિયા સમય,
+    Daylight: મલેશિયા સમય
+  },
+  Asia/Kuching: {
+    Generic: મલેશિયા સમય,
+    Standard: મલેશિયા સમય,
+    Daylight: મલેશિયા સમય
+  },
+  Asia/Manila: {
+    Generic: ફિલિપાઇન સમય,
+    Standard: ફિલિપાઇન માનક સમય,
+    Daylight: ફિલિપાઇન ગ્રીષ્મ સમય
+  },
+  Etc/GMT-8: {
+    Generic: સંકલિત યુનિવર્સલ સમય +8,
+    Standard: સંકલિત યુનિવર્સલ સમય +8,
+    Daylight: સંકલિત યુનિવર્સલ સમય +8
+  },
+  Africa/Johannesburg: {
+    Generic: દક્ષિણ આફ્રિકા માનક સમય,
+    Standard: દક્ષિણ આફ્રિકા માનક સમય,
+    Daylight: દક્ષિણ આફ્રિકા માનક સમય
+  },
+  Africa/Bujumbura: {
+    Generic: મધ્ય આફ્રિકા સમય,
+    Standard: મધ્ય આફ્રિકા સમય,
+    Daylight: મધ્ય આફ્રિકા સમય
+  },
+  Africa/Gaborone: {
+    Generic: મધ્ય આફ્રિકા સમય,
+    Standard: મધ્ય આફ્રિકા સમય,
+    Daylight: મધ્ય આફ્રિકા સમય
+  },
+  Africa/Lubumbashi: {
+    Generic: મધ્ય આફ્રિકા સમય,
+    Standard: મધ્ય આફ્રિકા સમય,
+    Daylight: મધ્ય આફ્રિકા સમય
+  },
+  Africa/Maseru: {
+    Generic: દક્ષિણ આફ્રિકા માનક સમય,
+    Standard: દક્ષિણ આફ્રિકા માનક સમય,
+    Daylight: દક્ષિણ આફ્રિકા માનક સમય
+  },
+  Africa/Blantyre: {
+    Generic: મધ્ય આફ્રિકા સમય,
+    Standard: મધ્ય આફ્રિકા સમય,
+    Daylight: મધ્ય આફ્રિકા સમય
+  },
+  Africa/Maputo: {
+    Generic: મધ્ય આફ્રિકા સમય,
+    Standard: મધ્ય આફ્રિકા સમય,
+    Daylight: મધ્ય આફ્રિકા સમય
+  },
+  Africa/Kigali: {
+    Generic: મધ્ય આફ્રિકા સમય,
+    Standard: મધ્ય આફ્રિકા સમય,
+    Daylight: મધ્ય આફ્રિકા સમય
+  },
+  Africa/Mbabane: {
+    Generic: દક્ષિણ આફ્રિકા માનક સમય,
+    Standard: દક્ષિણ આફ્રિકા માનક સમય,
+    Daylight: દક્ષિણ આફ્રિકા માનક સમય
+  },
+  Africa/Lusaka: {
+    Generic: મધ્ય આફ્રિકા સમય,
+    Standard: મધ્ય આફ્રિકા સમય,
+    Daylight: મધ્ય આફ્રિકા સમય
+  },
+  Africa/Harare: {
+    Generic: મધ્ય આફ્રિકા સમય,
+    Standard: મધ્ય આફ્રિકા સમય,
+    Daylight: મધ્ય આફ્રિકા સમય
+  },
+  Etc/GMT-2: {
+    Generic: સંકલિત યુનિવર્સલ સમય +2,
+    Standard: સંકલિત યુનિવર્સલ સમય +2,
+    Daylight: સંકલિત યુનિવર્સલ સમય +2
+  },
+  Africa/Juba: {
+    Generic: મધ્ય આફ્રિકા સમય,
+    Standard: મધ્ય આફ્રિકા સમય,
+    Daylight: મધ્ય આફ્રિકા સમય
+  },
+  Asia/Colombo: {
+    Generic: ભારતીય માનક સમય,
+    Standard: ભારતીય માનક સમય,
+    Daylight: ભારતીય માનક સમય
+  },
+  Africa/Khartoum: {
+    Generic: મધ્ય આફ્રિકા સમય,
+    Standard: મધ્ય આફ્રિકા સમય,
+    Daylight: મધ્ય આફ્રિકા સમય
+  },
+  Asia/Damascus: {
+    Generic: પૂર્વી યુરોપિયન સમય,
+    Standard: પૂર્વી યુરોપિયન માનક સમય,
+    Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Asia/Taipei: {
+    Generic: તાઇપેઇ સમય,
+    Standard: તાઇપેઇ માનક સમય,
+    Daylight: તાઇપેઇ દિવસ સમય
+  },
+  Australia/Hobart: {
+    Generic: પૂર્વીય ઑસ્ટ્રેલિયા સમય,
+    Standard: ઑસ્ટ્રેલિયન પૂર્વીય માનક સમય,
+    Daylight: ઓસ્ટ્રેલિયન પૂર્વીય દિવસ સમય
+  },
+  Australia/Currie: {
+    Generic: પૂર્વીય ઑસ્ટ્રેલિયા સમય,
+    Standard: ઑસ્ટ્રેલિયન પૂર્વીય માનક સમય,
+    Daylight: ઓસ્ટ્રેલિયન પૂર્વીય દિવસ સમય
+  },
+  Antarctica/Macquarie: {
+    Generic: પૂર્વીય ઑસ્ટ્રેલિયા સમય,
+    Standard: ઑસ્ટ્રેલિયન પૂર્વીય માનક સમય,
+    Daylight: ઓસ્ટ્રેલિયન પૂર્વીય દિવસ સમય
+  },
+  America/Araguaina: {
+    Generic: બ્રાઝિલિયા સમય,
+    Standard: બ્રાઝિલિયા માનક સમય,
+    Daylight: બ્રાઝિલિયા ગ્રીષ્મ સમય
+  },
+  Asia/Tokyo: {
+    Generic: જાપાન સમય,
+    Standard: જાપાન માનક સમય,
+    Daylight: જાપાન દિવસ સમય
+  },
+  Asia/Jayapura: {
+    Generic: પૂર્વીય ઇન્ડોનેશિયા સમય,
+    Standard: પૂર્વીય ઇન્ડોનેશિયા સમય,
+    Daylight: પૂર્વીય ઇન્ડોનેશિયા સમય
+  },
+  Pacific/Palau: {
+    Generic: પલાઉ સમય,
+    Standard: પલાઉ સમય,
+    Daylight: પલાઉ સમય
+  },
+  Asia/Dili: {
+    Generic: પૂર્વ તિમોર સમય,
+    Standard: પૂર્વ તિમોર સમય,
+    Daylight: પૂર્વ તિમોર સમય
+  },
+  Etc/GMT-9: {
+    Generic: સંકલિત યુનિવર્સલ સમય +9,
+    Standard: સંકલિત યુનિવર્સલ સમય +9,
+    Daylight: સંકલિત યુનિવર્સલ સમય +9
+  },
+  Asia/Tomsk: {
+    Generic: તોમસ્ક સમય,
+    Standard: તોમસ્ક માનક સમય,
+    Daylight: તોમસ્ક દિવસ સમય
+  },
+  Pacific/Tongatapu: {
+    Generic: ટોંગા સમય,
+    Standard: ટોંગા માનક સમય,
+    Daylight: ટોંગા ગ્રીષ્મ સમય
+  },
+  Asia/Chita: {
+    Generic: ચિતા સમય,
+    Standard: ચિતા માનક સમય,
+    Daylight: ચિતા દિવસ સમય
+  },
+  Europe/Istanbul: {
+    Generic: તુર્કી સમય,
+    Standard: તુર્કી માનક સમય,
+    Daylight: તુર્કી દિવસ સમય
+  },
+  America/Grand_Turk: {
+    Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
+    Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
+  },
+  America/Indianapolis: {
+    Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
+    Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
+  },
+  America/Indiana/Marengo: {
+    Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
+    Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
+  },
+  America/Indiana/Vevay: {
+    Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
+    Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
+  },
+  America/Phoenix: {
+    Generic: ઉત્તર અમેરિકન માઉન્ટન સમય,
+    Standard: ઉત્તર અમેરિકન માઉન્ટન માનક સમય,
+    Daylight: ઉત્તર અમેરિકન માઉન્ટન દિવસ સમય
+  },
+  America/Creston: {
+    Generic: ઉત્તર અમેરિકન માઉન્ટન સમય,
+    Standard: ઉત્તર અમેરિકન માઉન્ટન માનક સમય,
+    Daylight: ઉત્તર અમેરિકન માઉન્ટન દિવસ સમય
+  },
+  America/Dawson_Creek: {
+    Generic: ઉત્તર અમેરિકન માઉન્ટન સમય,
+    Standard: ઉત્તર અમેરિકન માઉન્ટન માનક સમય,
+    Daylight: ઉત્તર અમેરિકન માઉન્ટન દિવસ સમય
+  },
+  America/Fort_Nelson: {
+    Generic: ઉત્તર અમેરિકન માઉન્ટન સમય,
+    Standard: ઉત્તર અમેરિકન માઉન્ટન માનક સમય,
+    Daylight: ઉત્તર અમેરિકન માઉન્ટન દિવસ સમય
+  },
+  America/Hermosillo: {
+    Generic: મેક્સિકન પેસિફિક સમય,
+    Standard: મેક્સિકન પેસિફિક માનક સમય,
+    Daylight: મેક્સિકન પેસિફિક દિવસ સમય
+  },
+  Etc/GMT+7: {
+    Generic: સંકલિત યુનિવર્સલ સમય -7,
+    Standard: સંકલિત યુનિવર્સલ સમય -7,
+    Daylight: સંકલિત યુનિવર્સલ સમય -7
+  },
+  Etc/GMT-12: {
+    Generic: સંકલિત યુનિવર્સલ સમય +12,
+    Standard: સંકલિત યુનિવર્સલ સમય +12,
+    Daylight: સંકલિત યુનિવર્સલ સમય +12
+  },
+  Pacific/Tarawa: {
+    Generic: ગિલબર્ટ આઇલેન્ડ્સ સમય,
+    Standard: ગિલબર્ટ આઇલેન્ડ્સ સમય,
+    Daylight: ગિલબર્ટ આઇલેન્ડ્સ સમય
+  },
+  Pacific/Majuro: {
+    Generic: માર્શલ આઇલેન્ડ્સ સમય,
+    Standard: માર્શલ આઇલેન્ડ્સ સમય,
+    Daylight: માર્શલ આઇલેન્ડ્સ સમય
+  },
+  Pacific/Kwajalein: {
+    Generic: માર્શલ આઇલેન્ડ્સ સમય,
+    Standard: માર્શલ આઇલેન્ડ્સ સમય,
+    Daylight: માર્શલ આઇલેન્ડ્સ સમય
+  },
+  Pacific/Nauru: {
+    Generic: નૌરુ સમય,
+    Standard: નૌરુ સમય,
+    Daylight: નૌરુ સમય
+  },
+  Pacific/Funafuti: {
+    Generic: ટવાલૂ સમય,
+    Standard: ટવાલૂ સમય,
+    Daylight: ટવાલૂ સમય
+  },
+  Pacific/Wake: {
+    Generic: વૅક આઇલેન્ડ સમય,
+    Standard: વૅક આઇલેન્ડ સમય,
+    Daylight: વૅક આઇલેન્ડ સમય
+  },
+  Pacific/Wallis: {
+    Generic: વૉલિસ અને ફ્યુચુના સમય,
+    Standard: વૉલિસ અને ફ્યુચુના સમય,
+    Daylight: વૉલિસ અને ફ્યુચુના સમય
+  },
+  Etc/GMT-13: {
+    Generic: સંકલિત યુનિવર્સલ સમય +13,
+    Standard: સંકલિત યુનિવર્સલ સમય +13,
+    Daylight: સંકલિત યુનિવર્સલ સમય +13
+  },
+  Pacific/Enderbury: {
+    Generic: ફોનિક્સ આઇલેન્ડ્સ સમય,
+    Standard: ફોનિક્સ આઇલેન્ડ્સ સમય,
+    Daylight: ફોનિક્સ આઇલેન્ડ્સ સમય
+  },
+  Pacific/Fakaofo: {
+    Generic: ટોકલાઉ સમય,
+    Standard: ટોકલાઉ સમય,
+    Daylight: ટોકલાઉ સમય
+  },
+  Etc/UTC: {
+    Generic: સંકલિત યુનિવર્સલ સમય,
+    Standard: સંકલિત યુનિવર્સલ સમય,
+    Daylight: સંકલિત યુનિવર્સલ સમય
+  },
+  Etc/GMT: {
+    Generic: ગ્રીનવિચ મધ્યમ સમય,
+    Standard: ગ્રીનવિચ મધ્યમ સમય,
+    Daylight: ગ્રીનવિચ મધ્યમ સમય
+  },
+  Etc/GMT+2: {
+    Generic: સંકલિત યુનિવર્સલ સમય -2,
+    Standard: સંકલિત યુનિવર્સલ સમય -2,
+    Daylight: સંકલિત યુનિવર્સલ સમય -2
+  },
+  America/Noronha: {
+    Generic: ફર્નાન્ડો ડી નોરોન્હા સમય,
+    Standard: ફર્નાન્ડો ડી નોરોન્હા માનક સમય,
+    Daylight: ફર્નાન્ડો દે નોરોહા ગ્રીષ્મ સમય
+  },
+  Atlantic/South_Georgia: {
+    Generic: દક્ષિણ જ્યોર્જિયા સમય,
+    Standard: દક્ષિણ જ્યોર્જિયા સમય,
+    Daylight: દક્ષિણ જ્યોર્જિયા સમય
+  },
+  Etc/GMT+8: {
+    Generic: સંકલિત યુનિવર્સલ સમય -8,
+    Standard: સંકલિત યુનિવર્સલ સમય -8,
+    Daylight: સંકલિત યુનિવર્સલ સમય -8
+  },
+  Pacific/Pitcairn: {
+    Generic: પિટકેયર્ન સમય,
+    Standard: પિટકેયર્ન સમય,
+    Daylight: પિટકેયર્ન સમય
+  },
+  Etc/GMT+9: {
+    Generic: સંકલિત યુનિવર્સલ સમય -9,
+    Standard: સંકલિત યુનિવર્સલ સમય -9,
+    Daylight: સંકલિત યુનિવર્સલ સમય -9
+  },
+  Pacific/Gambier: {
+    Generic: ગેમ્બિયર સમય,
+    Standard: ગેમ્બિયર સમય,
+    Daylight: ગેમ્બિયર સમય
+  },
+  Etc/GMT+11: {
+    Generic: સંકલિત યુનિવર્સલ સમય -11,
+    Standard: સંકલિત યુનિવર્સલ સમય -11,
+    Daylight: સંકલિત યુનિવર્સલ સમય -11
+  },
+  Pacific/Pago_Pago: {
+    Generic: સમોઆ સમય,
+    Standard: સમોઆ માનક સમય,
+    Daylight: સમોઆ ગ્રીષ્મ સમય
+  },
+  Pacific/Niue: {
+    Generic: નીયુ સમય,
+    Standard: નીયુ સમય,
+    Daylight: નીયુ સમય
+  },
+  Pacific/Midway: {
+    Generic: સમોઆ સમય,
+    Standard: સમોઆ માનક સમય,
+    Daylight: સમોઆ ગ્રીષ્મ સમય
+  },
+  Asia/Ulaanbaatar: {
+    Generic: ઉલાન બાટોર સમય,
+    Standard: ઉલાન બાટોર માનક સમય,
+    Daylight: ઉલાન બટોર ગ્રીષ્મ સમય
+  },
+  Asia/Choibalsan: {
+    Generic: ઉલાન બાટોર સમય,
+    Standard: ઉલાન બાટોર માનક સમય,
+    Daylight: ઉલાન બટોર ગ્રીષ્મ સમય
+  },
+  America/Caracas: {
+    Generic: વેનેઝુએલા સમય,
+    Standard: વેનેઝુએલા સમય,
+    Daylight: વેનેઝુએલા સમય
+  },
+  Asia/Vladivostok: {
+    Generic: વ્લેડિવોસ્ટોક સમય,
+    Standard: વ્લેડિવોસ્ટોક માનક સમય,
+    Daylight: વ્લેડિવોસ્ટોક દિવસ સમય
+  },
+  Asia/Ust-Nera: {
+    Generic: ઉસ્ત-નેરા સમય,
+    Standard: ઉસ્ત-નેરા માનક સમય,
+    Daylight: ઉસ્ત-નેરા દિવસ સમય
+  },
+  Europe/Volgograd: {
+    Generic: વોલ્ગોગ્રેડ સમય,
+    Standard: વોલ્ગોગ્રેડ માનક સમય,
+    Daylight: વોલ્ગોગ્રેડ દિવસ સમય
+  },
+  Australia/Perth: {
+    Generic: પશ્ચિમી ઑસ્ટ્રેલિયા સમય,
+    Standard: ઑસ્ટ્રેલિયન પશ્ચિમી માનક સમય,
+    Daylight: ઓસ્ટ્રેલિયન પશ્ચિમી દિવસ સમય
+  },
+  Africa/Lagos: {
+    Generic: પશ્ચિમ આફ્રિકા સમય,
+    Standard: પશ્ચિમ આફ્રિકા માનક સમય,
+    Daylight: પશ્ચિમ આફ્રિકા ગ્રીષ્મ સમય
+  },
+  Africa/Luanda: {
+    Generic: પશ્ચિમ આફ્રિકા સમય,
+    Standard: પશ્ચિમ આફ્રિકા માનક સમય,
+    Daylight: પશ્ચિમ આફ્રિકા ગ્રીષ્મ સમય
+  },
+  Africa/Porto-Novo: {
+    Generic: પશ્ચિમ આફ્રિકા સમય,
+    Standard: પશ્ચિમ આફ્રિકા માનક સમય,
+    Daylight: પશ્ચિમ આફ્રિકા ગ્રીષ્મ સમય
+  },
+  Africa/Kinshasa: {
+    Generic: પશ્ચિમ આફ્રિકા સમય,
+    Standard: પશ્ચિમ આફ્રિકા માનક સમય,
+    Daylight: પશ્ચિમ આફ્રિકા ગ્રીષ્મ સમય
+  },
+  Africa/Bangui: {
+    Generic: પશ્ચિમ આફ્રિકા સમય,
+    Standard: પશ્ચિમ આફ્રિકા માનક સમય,
+    Daylight: પશ્ચિમ આફ્રિકા ગ્રીષ્મ સમય
+  },
+  Africa/Brazzaville: {
+    Generic: પશ્ચિમ આફ્રિકા સમય,
+    Standard: પશ્ચિમ આફ્રિકા માનક સમય,
+    Daylight: પશ્ચિમ આફ્રિકા ગ્રીષ્મ સમય
+  },
+  Africa/Douala: {
+    Generic: પશ્ચિમ આફ્રિકા સમય,
+    Standard: પશ્ચિમ આફ્રિકા માનક સમય,
+    Daylight: પશ્ચિમ આફ્રિકા ગ્રીષ્મ સમય
+  },
+  Africa/Algiers: {
+    Generic: મધ્ય યુરોપિયન સમય,
+    Standard: મધ્ય યુરોપિયન માનક સમય,
+    Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Africa/Libreville: {
+    Generic: પશ્ચિમ આફ્રિકા સમય,
+    Standard: પશ્ચિમ આફ્રિકા માનક સમય,
+    Daylight: પશ્ચિમ આફ્રિકા ગ્રીષ્મ સમય
+  },
+  Africa/Malabo: {
+    Generic: પશ્ચિમ આફ્રિકા સમય,
+    Standard: પશ્ચિમ આફ્રિકા માનક સમય,
+    Daylight: પશ્ચિમ આફ્રિકા ગ્રીષ્મ સમય
+  },
+  Africa/Niamey: {
+    Generic: પશ્ચિમ આફ્રિકા સમય,
+    Standard: પશ્ચિમ આફ્રિકા માનક સમય,
+    Daylight: પશ્ચિમ આફ્રિકા ગ્રીષ્મ સમય
+  },
+  Africa/Ndjamena: {
+    Generic: પશ્ચિમ આફ્રિકા સમય,
+    Standard: પશ્ચિમ આફ્રિકા માનક સમય,
+    Daylight: પશ્ચિમ આફ્રિકા ગ્રીષ્મ સમય
+  },
+  Africa/Tunis: {
+    Generic: મધ્ય યુરોપિયન સમય,
+    Standard: મધ્ય યુરોપિયન માનક સમય,
+    Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Etc/GMT-1: {
+    Generic: સંકલિત યુનિવર્સલ સમય +1,
+    Standard: સંકલિત યુનિવર્સલ સમય +1,
+    Daylight: સંકલિત યુનિવર્સલ સમય +1
+  },
+  Europe/Berlin: {
+    Generic: મધ્ય યુરોપિયન સમય,
+    Standard: મધ્ય યુરોપિયન માનક સમય,
+    Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/Andorra: {
+    Generic: મધ્ય યુરોપિયન સમય,
+    Standard: મધ્ય યુરોપિયન માનક સમય,
+    Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/Vienna: {
+    Generic: મધ્ય યુરોપિયન સમય,
+    Standard: મધ્ય યુરોપિયન માનક સમય,
+    Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/Zurich: {
+    Generic: મધ્ય યુરોપિયન સમય,
+    Standard: મધ્ય યુરોપિયન માનક સમય,
+    Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/Busingen: {
+    Generic: મધ્ય યુરોપિયન સમય,
+    Standard: મધ્ય યુરોપિયન માનક સમય,
+    Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/Gibraltar: {
+    Generic: મધ્ય યુરોપિયન સમય,
+    Standard: મધ્ય યુરોપિયન માનક સમય,
+    Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/Rome: {
+    Generic: મધ્ય યુરોપિયન સમય,
+    Standard: મધ્ય યુરોપિયન માનક સમય,
+    Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/Vaduz: {
+    Generic: મધ્ય યુરોપિયન સમય,
+    Standard: મધ્ય યુરોપિયન માનક સમય,
+    Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/Luxembourg: {
+    Generic: મધ્ય યુરોપિયન સમય,
+    Standard: મધ્ય યુરોપિયન માનક સમય,
+    Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/Monaco: {
+    Generic: મધ્ય યુરોપિયન સમય,
+    Standard: મધ્ય યુરોપિયન માનક સમય,
+    Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/Malta: {
+    Generic: મધ્ય યુરોપિયન સમય,
+    Standard: મધ્ય યુરોપિયન માનક સમય,
+    Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/Amsterdam: {
+    Generic: મધ્ય યુરોપિયન સમય,
+    Standard: મધ્ય યુરોપિયન માનક સમય,
+    Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/Oslo: {
+    Generic: મધ્ય યુરોપિયન સમય,
+    Standard: મધ્ય યુરોપિયન માનક સમય,
+    Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/Stockholm: {
+    Generic: મધ્ય યુરોપિયન સમય,
+    Standard: મધ્ય યુરોપિયન માનક સમય,
+    Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Arctic/Longyearbyen: {
+    Generic: મધ્ય યુરોપિયન સમય,
+    Standard: મધ્ય યુરોપિયન માનક સમય,
+    Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/San_Marino: {
+    Generic: મધ્ય યુરોપિયન સમય,
+    Standard: મધ્ય યુરોપિયન માનક સમય,
+    Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/Vatican: {
+    Generic: મધ્ય યુરોપિયન સમય,
+    Standard: મધ્ય યુરોપિયન માનક સમય,
+    Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Asia/Hovd: {
+    Generic: હોવ્ડ સમય,
+    Standard: હોવ્ડ માનક સમય,
+    Daylight: હોવ્ડ ગ્રીષ્મ સમય
+  },
+  Asia/Tashkent: {
+    Generic: ઉઝ્બેકિસ્તાન સમય,
+    Standard: ઉઝ્બેકિસ્તાન માનક સમય,
+    Daylight: ઉઝ્બેકિસ્તાન ગ્રીષ્મ સમય
+  },
+  Antarctica/Mawson: {
+    Generic: મોસન સમય,
+    Standard: મોસન સમય,
+    Daylight: મોસન સમય
+  },
+  Asia/Oral: {
+    Generic: પશ્ચિમ કઝાકિસ્તાન સમય,
+    Standard: પશ્ચિમ કઝાકિસ્તાન સમય,
+    Daylight: પશ્ચિમ કઝાકિસ્તાન સમય
+  },
+  Asia/Aqtau: {
+    Generic: પશ્ચિમ કઝાકિસ્તાન સમય,
+    Standard: પશ્ચિમ કઝાકિસ્તાન સમય,
+    Daylight: પશ્ચિમ કઝાકિસ્તાન સમય
+  },
+  Asia/Aqtobe: {
+    Generic: પશ્ચિમ કઝાકિસ્તાન સમય,
+    Standard: પશ્ચિમ કઝાકિસ્તાન સમય,
+    Daylight: પશ્ચિમ કઝાકિસ્તાન સમય
+  },
+  Asia/Atyrau: {
+    Generic: પશ્ચિમ કઝાકિસ્તાન સમય,
+    Standard: પશ્ચિમ કઝાકિસ્તાન સમય,
+    Daylight: પશ્ચિમ કઝાકિસ્તાન સમય
+  },
+  Indian/Maldives: {
+    Generic: માલદીવ સમય,
+    Standard: માલદીવ સમય,
+    Daylight: માલદીવ સમય
+  },
+  Indian/Kerguelen: {
+    Generic: ફ્રેંચ સધર્ન અને એન્ટાર્કટિક સમય,
+    Standard: ફ્રેંચ સધર્ન અને એન્ટાર્કટિક સમય,
+    Daylight: ફ્રેંચ સધર્ન અને એન્ટાર્કટિક સમય
+  },
+  Asia/Dushanbe: {
+    Generic: તાજીકિસ્તાન સમય,
+    Standard: તાજીકિસ્તાન સમય,
+    Daylight: તાજીકિસ્તાન સમય
+  },
+  Asia/Ashgabat: {
+    Generic: તુર્કમેનિસ્તાન સમય,
+    Standard: તુર્કમેનિસ્તાન માનક સમય,
+    Daylight: તુર્કમેનિસ્તાન ગ્રીષ્મ સમય
+  },
+  Asia/Samarkand: {
+    Generic: ઉઝ્બેકિસ્તાન સમય,
+    Standard: ઉઝ્બેકિસ્તાન માનક સમય,
+    Daylight: ઉઝ્બેકિસ્તાન ગ્રીષ્મ સમય
+  },
+  Etc/GMT-5: {
+    Generic: સંકલિત યુનિવર્સલ સમય +5,
+    Standard: સંકલિત યુનિવર્સલ સમય +5,
+    Daylight: સંકલિત યુનિવર્સલ સમય +5
+  },
+  Asia/Hebron: {
+    Generic: પૂર્વી યુરોપિયન સમય,
+    Standard: પૂર્વી યુરોપિયન માનક સમય,
+    Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Asia/Gaza: {
+    Generic: પૂર્વી યુરોપિયન સમય,
+    Standard: પૂર્વી યુરોપિયન માનક સમય,
+    Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Pacific/Port_Moresby: {
+    Generic: પાપુઆ ન્યુ ગિની સમય,
+    Standard: પાપુઆ ન્યુ ગિની સમય,
+    Daylight: પાપુઆ ન્યુ ગિની સમય
+  },
+  Antarctica/DumontDUrville: {
+    Generic: ડ્યુમોન્ટ-ડી‘ઉર્વિલ સમય,
+    Standard: ડ્યુમોન્ટ-ડી‘ઉર્વિલ સમય,
+    Daylight: ડ્યુમોન્ટ-ડી‘ઉર્વિલ સમય
+  },
+  Pacific/Truk: {
+    Generic: ચુઉક સમય,
+    Standard: ચુઉક સમય,
+    Daylight: ચુઉક સમય
+  },
+  Pacific/Guam: {
+    Generic: કેમોરો માનક સમય,
+    Standard: કેમોરો માનક સમય,
+    Daylight: કેમોરો માનક સમય
+  },
+  Pacific/Saipan: {
+    Generic: કેમોરો માનક સમય,
+    Standard: કેમોરો માનક સમય,
+    Daylight: કેમોરો માનક સમય
+  },
+  Etc/GMT-10: {
+    Generic: સંકલિત યુનિવર્સલ સમય +10,
+    Standard: સંકલિત યુનિવર્સલ સમય +10,
+    Daylight: સંકલિત યુનિવર્સલ સમય +10
+  },
+  Asia/Yakutsk: {
+    Generic: યકુત્સક સમય,
+    Standard: યકુત્સક માનક સમય,
+    Daylight: યકુત્સક દિવસ સમય
+  },
+  Asia/Khandyga: {
+    Generic: ખંડિગા સમય,
+    Standard: ખંડિગા માનક સમય,
+    Daylight: ખંડિગા દિવસ સમય
+  },
+  America/Whitehorse: {
+    Generic: યુકોન સમય,
+    Standard: યુકોન સમય,
+    Daylight: યુકોન સમય
+  },
+  America/Dawson: {
+    Generic: યુકોન સમય,
+    Standard: યુકોન સમય,
+    Daylight: યુકોન સમય
+  },
+  Iceland: {
+    Generic: ગ્રીનવિચ મધ્યમ સમય,
+    Standard: ગ્રીનવિચ મધ્યમ સમય,
+    Daylight: ગ્રીનવિચ મધ્યમ સમય
+  },
+  Africa/Timbuktu: {
+    Generic: ગ્રીનવિચ મધ્યમ સમય,
+    Standard: ગ્રીનવિચ મધ્યમ સમય,
+    Daylight: ગ્રીનવિચ મધ્યમ સમય
+  },
+  Egypt: {
+    Generic: પૂર્વી યુરોપિયન સમય,
+    Standard: પૂર્વી યુરોપિયન માનક સમય,
+    Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Africa/Asmara: {
+    Generic: પૂર્વ આફ્રિકા સમય,
+    Standard: પૂર્વ આફ્રિકા સમય,
+    Daylight: પૂર્વ આફ્રિકા સમય
+  },
+  Libya: {
+    Generic: પૂર્વી યુરોપિયન સમય,
+    Standard: પૂર્વી યુરોપિયન માનક સમય,
+    Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
+  },
+  America/Atka: {
+    Generic: હવાઈ-એલ્યુશિઅન સમય,
+    Standard: હવાઇ-એલ્યુશિઅન માનક સમય,
+    Daylight: હવાઇ-એલ્યુશિઅન દિવસ સમય
+  },
+  US/Aleutian: {
+    Generic: હવાઈ-એલ્યુશિઅન સમય,
+    Standard: હવાઇ-એલ્યુશિઅન માનક સમય,
+    Daylight: હવાઇ-એલ્યુશિઅન દિવસ સમય
+  },
+  US/Alaska: {
+    Generic: અલાસ્કા સમય,
+    Standard: અલાસ્કા માનક સમય,
+    Daylight: અલાસ્કા દિવસ સમય
+  },
+  America/Argentina/Buenos_Aires: {
+    Generic: આર્જેન્ટીના સમય,
+    Standard: આર્જેન્ટીના માનક સમય,
+    Daylight: આર્જેન્ટીના ગ્રીષ્મ સમય
+  },
+  America/Argentina/Catamarca: {
+    Generic: આર્જેન્ટીના સમય,
+    Standard: આર્જેન્ટીના માનક સમય,
+    Daylight: આર્જેન્ટીના ગ્રીષ્મ સમય
+  },
+  America/Argentina/ComodRivadavia: {
+    Generic: આર્જેન્ટીના સમય,
+    Standard: આર્જેન્ટીના માનક સમય,
+    Daylight: આર્જેન્ટીના ગ્રીષ્મ સમય
+  },
+  America/Argentina/Cordoba: {
+    Generic: આર્જેન્ટીના સમય,
+    Standard: આર્જેન્ટીના માનક સમય,
+    Daylight: આર્જેન્ટીના ગ્રીષ્મ સમય
+  },
+  America/Rosario: {
+    Generic: આર્જેન્ટીના સમય,
+    Standard: આર્જેન્ટીના માનક સમય,
+    Daylight: આર્જેન્ટીના ગ્રીષ્મ સમય
+  },
+  America/Argentina/Jujuy: {
+    Generic: આર્જેન્ટીના સમય,
+    Standard: આર્જેન્ટીના માનક સમય,
+    Daylight: આર્જેન્ટીના ગ્રીષ્મ સમય
+  },
+  America/Argentina/Mendoza: {
+    Generic: આર્જેન્ટીના સમય,
+    Standard: આર્જેન્ટીના માનક સમય,
+    Daylight: આર્જેન્ટીના ગ્રીષ્મ સમય
+  },
+  US/Central: {
+    Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
+    Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
+    Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
+  },
+  America/Shiprock: {
+    Generic: ઉત્તર અમેરિકન માઉન્ટન સમય,
+    Standard: ઉત્તર અમેરિકન માઉન્ટન માનક સમય,
+    Daylight: ઉત્તર અમેરિકન માઉન્ટન દિવસ સમય
+  },
+  Navajo: {
+    Generic: ઉત્તર અમેરિકન માઉન્ટન સમય,
+    Standard: ઉત્તર અમેરિકન માઉન્ટન માનક સમય,
+    Daylight: ઉત્તર અમેરિકન માઉન્ટન દિવસ સમય
+  },
+  US/Mountain: {
+    Generic: ઉત્તર અમેરિકન માઉન્ટન સમય,
+    Standard: ઉત્તર અમેરિકન માઉન્ટન માનક સમય,
+    Daylight: ઉત્તર અમેરિકન માઉન્ટન દિવસ સમય
+  },
+  US/Michigan: {
+    Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
+    Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
+  },
+  Canada/Mountain: {
+    Generic: ઉત્તર અમેરિકન માઉન્ટન સમય,
+    Standard: ઉત્તર અમેરિકન માઉન્ટન માનક સમય,
+    Daylight: ઉત્તર અમેરિકન માઉન્ટન દિવસ સમય
+  },
+  Canada/Atlantic: {
+    Generic: એટલાન્ટિક સમય,
+    Standard: એટલાન્ટિક માનક સમય,
+    Daylight: એટલાન્ટિક દિવસ સમય
+  },
+  Cuba: {
+    Generic: ક્યુબા સમય,
+    Standard: ક્યુબા માનક સમય,
+    Daylight: ક્યુબા દિવસ સમય
+  },
+  America/Indiana/Indianapolis: {
+    Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
+    Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
+  },
+  US/East-Indiana: {
+    Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
+    Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
+  },
+  America/Knox_IN: {
+    Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
+    Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
+    Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
+  },
+  US/Indiana-Starke: {
+    Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
+    Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
+    Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
+  },
+  Jamaica: {
+    Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
+    Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
+  },
+  America/Kentucky/Louisville: {
+    Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
+    Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
+  },
+  US/Pacific: {
+    Generic: ઉત્તર અમેરિકન પેસિફિક સમય,
+    Standard: ઉત્તર અમેરિકન પેસિફિક માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પેસિફિક દિવસ સમય
+  },
+  Brazil/West: {
+    Generic: એમેઝોન સમય,
+    Standard: એમેઝોન માનક સમય,
+    Daylight: એમેઝોન ગ્રીષ્મ સમય
+  },
+  Mexico/BajaSur: {
+    Generic: મેક્સિકન પેસિફિક સમય,
+    Standard: મેક્સિકન પેસિફિક માનક સમય,
+    Daylight: મેક્સિકન પેસિફિક દિવસ સમય
+  },
+  Mexico/General: {
+    Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
+    Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
+    Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
+  },
+  US/Eastern: {
+    Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
+    Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
+  },
+  Brazil/DeNoronha: {
+    Generic: ફર્નાન્ડો ડી નોરોન્હા સમય,
+    Standard: ફર્નાન્ડો ડી નોરોન્હા માનક સમય,
+    Daylight: ફર્નાન્ડો દે નોરોહા ગ્રીષ્મ સમય
+  },
+  America/Nuuk: {
+    Generic: પશ્ચિમ ગ્રીનલેન્ડ સમય,
+    Standard: પશ્ચિમ ગ્રીનલેન્ડ માનક સમય,
+    Daylight: પશ્ચિમ ગ્રીનલેન્ડ ગ્રીષ્મ સમય
+  },
+  America/Atikokan: {
+    Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
+    Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
+  },
+  US/Arizona: {
+    Generic: ઉત્તર અમેરિકન માઉન્ટન સમય,
+    Standard: ઉત્તર અમેરિકન માઉન્ટન માનક સમય,
+    Daylight: ઉત્તર અમેરિકન માઉન્ટન દિવસ સમય
+  },
+  America/Virgin: {
+    Generic: એટલાન્ટિક સમય,
+    Standard: એટલાન્ટિક માનક સમય,
+    Daylight: એટલાન્ટિક દિવસ સમય
+  },
+  Canada/Saskatchewan: {
+    Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
+    Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
+    Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
+  },
+  America/Porto_Acre: {
+    Generic: એકર સમય,
+    Standard: એકર પ્રમાણભૂત સમય,
+    Daylight: એકર ગ્રીષ્મ સમય
+  },
+  Brazil/Acre: {
+    Generic: એકર સમય,
+    Standard: એકર પ્રમાણભૂત સમય,
+    Daylight: એકર ગ્રીષ્મ સમય
+  },
+  Chile/Continental: {
+    Generic: ચિલી સમય,
+    Standard: ચિલી માનક સમય,
+    Daylight: ચિલી ગ્રીષ્મ સમય
+  },
+  Brazil/East: {
+    Generic: બ્રાઝિલિયા સમય,
+    Standard: બ્રાઝિલિયા માનક સમય,
+    Daylight: બ્રાઝિલિયા ગ્રીષ્મ સમય
+  },
+  Canada/Newfoundland: {
+    Generic: ન્યૂફાઉન્ડલેન્ડ સમય,
+    Standard: ન્યૂફાઉન્ડલેન્ડ માનક સમય,
+    Daylight: ન્યૂફાઉન્ડલેન્ડ દિવસ સમય
+  },
+  America/Ensenada: {
+    Generic: ઉત્તર અમેરિકન પેસિફિક સમય,
+    Standard: ઉત્તર અમેરિકન પેસિફિક માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પેસિફિક દિવસ સમય
+  },
+  Mexico/BajaNorte: {
+    Generic: ઉત્તર અમેરિકન પેસિફિક સમય,
+    Standard: ઉત્તર અમેરિકન પેસિફિક માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પેસિફિક દિવસ સમય
+  },
+  Canada/Eastern: {
+    Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
+    Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
+  },
+  Canada/Pacific: {
+    Generic: ઉત્તર અમેરિકન પેસિફિક સમય,
+    Standard: ઉત્તર અમેરિકન પેસિફિક માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પેસિફિક દિવસ સમય
+  },
+  Canada/Yukon: {
+    Generic: યુકોન સમય,
+    Standard: યુકોન સમય,
+    Daylight: યુકોન સમય
+  },
+  Canada/Central: {
+    Generic: ઉત્તર અમેરિકન કેન્દ્રીય સમય,
+    Standard: ઉત્તર અમેરિકન કેન્દ્રીય માનક સમય,
+    Daylight: ઉત્તર અમેરિકન કેન્દ્રીય દિવસ સમય
+  },
+  Asia/Ashkhabad: {
+    Generic: તુર્કમેનિસ્તાન સમય,
+    Standard: તુર્કમેનિસ્તાન માનક સમય,
+    Daylight: તુર્કમેનિસ્તાન ગ્રીષ્મ સમય
+  },
+  Asia/Dacca: {
+    Generic: બાંગ્લાદેશ સમય,
+    Standard: બાંગ્લાદેશ માનક સમય,
+    Daylight: બાંગ્લાદેશ ગ્રીષ્મ સમય
+  },
+  Asia/Ho_Chi_Minh: {
+    Generic: ઇન્ડોચાઇના સમય,
+    Standard: ઇન્ડોચાઇના સમય,
+    Daylight: ઇન્ડોચાઇના સમય
+  },
+  Hongkong: {
+    Generic: હોંગ કોંગ સમય,
+    Standard: હોંગ કોંગ માનક સમય,
+    Daylight: હોંગ કોંગ ગ્રીષ્મ સમય
+  },
+  Asia/Tel_Aviv: {
+    Generic: ઇઝરાઇલ સમય,
+    Standard: ઇઝરાઇલ માનક સમય,
+    Daylight: ઇઝરાઇલ દિવસ સમય
+  },
+  Israel: {
+    Generic: ઇઝરાઇલ સમય,
+    Standard: ઇઝરાઇલ માનક સમય,
+    Daylight: ઇઝરાઇલ દિવસ સમય
+  },
+  Asia/Kathmandu: {
+    Generic: નેપાળ સમય,
+    Standard: નેપાળ સમય,
+    Daylight: નેપાળ સમય
+  },
+  Asia/Kolkata: {
+    Generic: ભારતીય માનક સમય,
+    Standard: ભારતીય માનક સમય,
+    Daylight: ભારતીય માનક સમય
+  },
+  Asia/Macao: {
+    Generic: ચીન સમય,
+    Standard: ચીન માનક સમય,
+    Daylight: ચીન દિવસ સમય
+  },
+  Asia/Ujung_Pandang: {
+    Generic: મધ્ય ઇન્ડોનેશિયા સમય,
+    Standard: મધ્ય ઇન્ડોનેશિયા સમય,
+    Daylight: મધ્ય ઇન્ડોનેશિયા સમય
+  },
+  Europe/Nicosia: {
+    Generic: પૂર્વી યુરોપિયન સમય,
+    Standard: પૂર્વી યુરોપિયન માનક સમય,
+    Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
+  },
+  ROK: {
+    Generic: કોરિયન સમય,
+    Standard: કોરિયન માનક સમય,
+    Daylight: કોરિયન દિવસ સમય
+  },
+  Asia/Chongqing: {
+    Generic: ચીન સમય,
+    Standard: ચીન માનક સમય,
+    Daylight: ચીન દિવસ સમય
+  },
+  Asia/Chungking: {
+    Generic: ચીન સમય,
+    Standard: ચીન માનક સમય,
+    Daylight: ચીન દિવસ સમય
+  },
+  Asia/Harbin: {
+    Generic: ચીન સમય,
+    Standard: ચીન માનક સમય,
+    Daylight: ચીન દિવસ સમય
+  },
+  PRC: {
+    Generic: ચીન સમય,
+    Standard: ચીન માનક સમય,
+    Daylight: ચીન દિવસ સમય
+  },
+  Singapore: {
+    Generic: સિંગાપુર માનક સમય,
+    Standard: સિંગાપુર માનક સમય,
+    Daylight: સિંગાપુર માનક સમય
+  },
+  ROC: {
+    Generic: તાઇપેઇ સમય,
+    Standard: તાઇપેઇ માનક સમય,
+    Daylight: તાઇપેઇ દિવસ સમય
+  },
+  Iran: {
+    Generic: ઈરાન સમય,
+    Standard: ઈરાન માનક સમય,
+    Daylight: ઈરાન દિવસ સમય
+  },
+  Asia/Thimbu: {
+    Generic: ભૂટાન સમય,
+    Standard: ભૂટાન સમય,
+    Daylight: ભૂટાન સમય
+  },
+  Japan: {
+    Generic: જાપાન સમય,
+    Standard: જાપાન માનક સમય,
+    Daylight: જાપાન દિવસ સમય
+  },
+  Asia/Ulan_Bator: {
+    Generic: ઉલાન બાટોર સમય,
+    Standard: ઉલાન બાટોર માનક સમય,
+    Daylight: ઉલાન બટોર ગ્રીષ્મ સમય
+  },
+  Asia/Kashgar: {
+    Generic: ચીન સમય,
+    Standard: ચીન માનક સમય,
+    Daylight: ચીન દિવસ સમય
+  },
+  Asia/Yangon: {
+    Generic: મ્યાનમાર સમય,
+    Standard: મ્યાનમાર સમય,
+    Daylight: મ્યાનમાર સમય
+  },
+  WET: {
+    Generic: પશ્ચિમી યુરોપિયન સમય,
+    Standard: પશ્ચિમી યુરોપિયન માનક સમય,
+    Daylight: પશ્ચિમી યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Atlantic/Faroe: {
+    Generic: પશ્ચિમી યુરોપિયન સમય,
+    Standard: પશ્ચિમી યુરોપિયન માનક સમય,
+    Daylight: પશ્ચિમી યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Australia/South: {
+    Generic: કેન્દ્રીય ઑસ્ટ્રેલિયન સમય,
+    Standard: ઑસ્ટ્રેલિયન કેન્દ્રીય માનક સમય,
+    Daylight: ઓસ્ટ્રેલિયન કેન્દ્રીય દિવસ સમય
+  },
+  Australia/Queensland: {
+    Generic: પૂર્વીય ઑસ્ટ્રેલિયા સમય,
+    Standard: ઑસ્ટ્રેલિયન પૂર્વીય માનક સમય,
+    Daylight: ઓસ્ટ્રેલિયન પૂર્વીય દિવસ સમય
+  },
+  Australia/Yancowinna: {
+    Generic: કેન્દ્રીય ઑસ્ટ્રેલિયન સમય,
+    Standard: ઑસ્ટ્રેલિયન કેન્દ્રીય માનક સમય,
+    Daylight: ઓસ્ટ્રેલિયન કેન્દ્રીય દિવસ સમય
+  },
+  Australia/North: {
+    Generic: કેન્દ્રીય ઑસ્ટ્રેલિયન સમય,
+    Standard: ઑસ્ટ્રેલિયન કેન્દ્રીય માનક સમય,
+    Daylight: ઓસ્ટ્રેલિયન કેન્દ્રીય દિવસ સમય
+  },
+  Australia/Tasmania: {
+    Generic: પૂર્વીય ઑસ્ટ્રેલિયા સમય,
+    Standard: ઑસ્ટ્રેલિયન પૂર્વીય માનક સમય,
+    Daylight: ઓસ્ટ્રેલિયન પૂર્વીય દિવસ સમય
+  },
+  Australia/LHI: {
+    Generic: લોર્ડ હોવ સમય,
+    Standard: લોર્ડ હોવ માનક સમય,
+    Daylight: લોર્ડ હોવ દિવસ સમય
+  },
+  Australia/Victoria: {
+    Generic: પૂર્વીય ઑસ્ટ્રેલિયા સમય,
+    Standard: ઑસ્ટ્રેલિયન પૂર્વીય માનક સમય,
+    Daylight: ઓસ્ટ્રેલિયન પૂર્વીય દિવસ સમય
+  },
+  Australia/West: {
+    Generic: પશ્ચિમી ઑસ્ટ્રેલિયા સમય,
+    Standard: ઑસ્ટ્રેલિયન પશ્ચિમી માનક સમય,
+    Daylight: ઓસ્ટ્રેલિયન પશ્ચિમી દિવસ સમય
+  },
+  Australia/ACT: {
+    Generic: પૂર્વીય ઑસ્ટ્રેલિયા સમય,
+    Standard: ઑસ્ટ્રેલિયન પૂર્વીય માનક સમય,
+    Daylight: ઓસ્ટ્રેલિયન પૂર્વીય દિવસ સમય
+  },
+  Australia/Canberra: {
+    Generic: પૂર્વીય ઑસ્ટ્રેલિયા સમય,
+    Standard: ઑસ્ટ્રેલિયન પૂર્વીય માનક સમય,
+    Daylight: ઓસ્ટ્રેલિયન પૂર્વીય દિવસ સમય
+  },
+  Australia/NSW: {
+    Generic: પૂર્વીય ઑસ્ટ્રેલિયા સમય,
+    Standard: ઑસ્ટ્રેલિયન પૂર્વીય માનક સમય,
+    Daylight: ઓસ્ટ્રેલિયન પૂર્વીય દિવસ સમય
+  },
+  HST: {
+    Generic: સંકલિત યુનિવર્સલ સમય -10,
+    Standard: સંકલિત યુનિવર્સલ સમય -10,
+    Daylight: સંકલિત યુનિવર્સલ સમય -10
+  },
+  EST: {
+    Generic: સંકલિત યુનિવર્સલ સમય -5,
+    Standard: સંકલિત યુનિવર્સલ સમય -5,
+    Daylight: સંકલિત યુનિવર્સલ સમય -5
+  },
+  MST: {
+    Generic: સંકલિત યુનિવર્સલ સમય -7,
+    Standard: સંકલિત યુનિવર્સલ સમય -7,
+    Daylight: સંકલિત યુનિવર્સલ સમય -7
+  },
+  Etc/GMT+0: {
+    Generic: ગ્રીનવિચ મધ્યમ સમય,
+    Standard: ગ્રીનવિચ મધ્યમ સમય,
+    Daylight: ગ્રીનવિચ મધ્યમ સમય
+  },
+  Etc/GMT-0: {
+    Generic: ગ્રીનવિચ મધ્યમ સમય,
+    Standard: ગ્રીનવિચ મધ્યમ સમય,
+    Daylight: ગ્રીનવિચ મધ્યમ સમય
+  },
+  Etc/GMT0: {
+    Generic: ગ્રીનવિચ મધ્યમ સમય,
+    Standard: ગ્રીનવિચ મધ્યમ સમય,
+    Daylight: ગ્રીનવિચ મધ્યમ સમય
+  },
+  Etc/Greenwich: {
+    Generic: ગ્રીનવિચ મધ્યમ સમય,
+    Standard: ગ્રીનવિચ મધ્યમ સમય,
+    Daylight: ગ્રીનવિચ મધ્યમ સમય
+  },
+  GMT: {
+    Generic: ગ્રીનવિચ મધ્યમ સમય,
+    Standard: ગ્રીનવિચ મધ્યમ સમય,
+    Daylight: ગ્રીનવિચ મધ્યમ સમય
+  },
+  GMT+0: {
+    Generic: ગ્રીનવિચ મધ્યમ સમય,
+    Standard: ગ્રીનવિચ મધ્યમ સમય,
+    Daylight: ગ્રીનવિચ મધ્યમ સમય
+  },
+  GMT-0: {
+    Generic: ગ્રીનવિચ મધ્યમ સમય,
+    Standard: ગ્રીનવિચ મધ્યમ સમય,
+    Daylight: ગ્રીનવિચ મધ્યમ સમય
+  },
+  GMT0: {
+    Generic: ગ્રીનવિચ મધ્યમ સમય,
+    Standard: ગ્રીનવિચ મધ્યમ સમય,
+    Daylight: ગ્રીનવિચ મધ્યમ સમય
+  },
+  Greenwich: {
+    Generic: ગ્રીનવિચ મધ્યમ સમય,
+    Standard: ગ્રીનવિચ મધ્યમ સમય,
+    Daylight: ગ્રીનવિચ મધ્યમ સમય
+  },
+  Etc/UCT: {
+    Generic: સંકલિત યુનિવર્સલ સમય,
+    Standard: સંકલિત યુનિવર્સલ સમય,
+    Daylight: સંકલિત યુનિવર્સલ સમય
+  },
+  Etc/Universal: {
+    Generic: સંકલિત યુનિવર્સલ સમય,
+    Standard: સંકલિત યુનિવર્સલ સમય,
+    Daylight: સંકલિત યુનિવર્સલ સમય
+  },
+  Etc/Zulu: {
+    Generic: સંકલિત યુનિવર્સલ સમય,
+    Standard: સંકલિત યુનિવર્સલ સમય,
+    Daylight: સંકલિત યુનિવર્સલ સમય
+  },
+  UCT: {
+    Generic: સંકલિત યુનિવર્સલ સમય,
+    Standard: સંકલિત યુનિવર્સલ સમય,
+    Daylight: સંકલિત યુનિવર્સલ સમય
+  },
+  UTC: {
+    Generic: સંકલિત યુનિવર્સલ સમય,
+    Standard: સંકલિત યુનિવર્સલ સમય,
+    Daylight: સંકલિત યુનિવર્સલ સમય
+  },
+  Universal: {
+    Generic: સંકલિત યુનિવર્સલ સમય,
+    Standard: સંકલિત યુનિવર્સલ સમય,
+    Daylight: સંકલિત યુનિવર્સલ સમય
+  },
+  Zulu: {
+    Generic: સંકલિત યુનિવર્સલ સમય,
+    Standard: સંકલિત યુનિવર્સલ સમય,
+    Daylight: સંકલિત યુનિવર્સલ સમય
+  },
+  Atlantic/Jan_Mayen: {
+    Generic: મધ્ય યુરોપિયન સમય,
+    Standard: મધ્ય યુરોપિયન માનક સમય,
+    Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
+  },
+  MET: {
+    Generic: મધ્ય યુરોપિયન સમય,
+    Standard: મધ્ય યુરોપિયન માનક સમય,
+    Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
+  },
+  EET: {
+    Generic: પૂર્વી યુરોપિયન સમય,
+    Standard: પૂર્વી યુરોપિયન માનક સમય,
+    Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/Tiraspol: {
+    Generic: પૂર્વી યુરોપિયન સમય,
+    Standard: પૂર્વી યુરોપિયન માનક સમય,
+    Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Eire: {
+    Generic: આયર્લેન્ડ સમય,
+    Standard: ગ્રીનવિચ મધ્યમ સમય,
+    Daylight: આઈરિશ માનક સમય
+  },
+  Asia/Istanbul: {
+    Generic: તુર્કી સમય,
+    Standard: તુર્કી માનક સમય,
+    Daylight: તુર્કી દિવસ સમય
+  },
+  Turkey: {
+    Generic: તુર્કી સમય,
+    Standard: તુર્કી માનક સમય,
+    Daylight: તુર્કી દિવસ સમય
+  },
+  Europe/Kyiv: {
+    Generic: પૂર્વી યુરોપિયન સમય,
+    Standard: પૂર્વી યુરોપિયન માનક સમય,
+    Daylight: પૂર્વી યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Portugal: {
+    Generic: પશ્ચિમી યુરોપિયન સમય,
+    Standard: પશ્ચિમી યુરોપિયન માનક સમય,
+    Daylight: પશ્ચિમી યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Europe/Belfast: {
+    Generic: યુનાઇટેડ કિંગડમ સમય,
+    Standard: ગ્રીનવિચ મધ્યમ સમય,
+    Daylight: બ્રિટિશ ગ્રીષ્મ સમય
+  },
+  GB: {
+    Generic: યુનાઇટેડ કિંગડમ સમય,
+    Standard: ગ્રીનવિચ મધ્યમ સમય,
+    Daylight: બ્રિટિશ ગ્રીષ્મ સમય
+  },
+  GB-Eire: {
+    Generic: યુનાઇટેડ કિંગડમ સમય,
+    Standard: ગ્રીનવિચ મધ્યમ સમય,
+    Daylight: બ્રિટિશ ગ્રીષ્મ સમય
+  },
+  W-SU: {
+    Generic: મોસ્કો સમય,
+    Standard: મોસ્કો માનક સમય,
+    Daylight: મોસ્કો દિવસ સમય
+  },
+  CET: {
+    Generic: મધ્ય યુરોપિયન સમય,
+    Standard: મધ્ય યુરોપિયન માનક સમય,
+    Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Poland: {
+    Generic: મધ્ય યુરોપિયન સમય,
+    Standard: મધ્ય યુરોપિયન માનક સમય,
+    Daylight: મધ્ય યુરોપિયન ગ્રીષ્મ સમય
+  },
+  Antarctica/South_Pole: {
+    Generic: ન્યુઝીલેન્ડ સમય,
+    Standard: ન્યુઝીલેન્ડ માનક સમય,
+    Daylight: ન્યુઝીલેન્ડ દિવસ સમય
+  },
+  NZ: {
+    Generic: ન્યુઝીલેન્ડ સમય,
+    Standard: ન્યુઝીલેન્ડ માનક સમય,
+    Daylight: ન્યુઝીલેન્ડ દિવસ સમય
+  },
+  NZ-CHAT: {
+    Generic: ચેતહામ સમય,
+    Standard: ચેતહામ માનક સમય,
+    Daylight: ચેતહામ દિવસ સમય
+  },
+  Chile/EasterIsland: {
+    Generic: ઇસ્ટર આઇલેન્ડ સમય,
+    Standard: ઇસ્ટર આઇલેન્ડ માનક સમય,
+    Daylight: ઇસ્ટર આઇલેન્ડ ગ્રીષ્મ સમય
+  },
+  Pacific/Pohnpei: {
+    Generic: પોનપે સમય,
+    Standard: પોનપે સમય,
+    Daylight: પોનપે સમય
+  },
+  US/Hawaii: {
+    Generic: હવાઈ-એલ્યુશિઅન સમય,
+    Standard: હવાઇ-એલ્યુશિઅન માનક સમય,
+    Daylight: હવાઇ-એલ્યુશિઅન દિવસ સમય
+  },
+  Pacific/Kanton: {
+    Generic: ફોનિક્સ આઇલેન્ડ્સ સમય,
+    Standard: ફોનિક્સ આઇલેન્ડ્સ સમય,
+    Daylight: ફોનિક્સ આઇલેન્ડ્સ સમય
+  },
+  Kwajalein: {
+    Generic: માર્શલ આઇલેન્ડ્સ સમય,
+    Standard: માર્શલ આઇલેન્ડ્સ સમય,
+    Daylight: માર્શલ આઇલેન્ડ્સ સમય
+  },
+  Pacific/Samoa: {
+    Generic: સમોઆ સમય,
+    Standard: સમોઆ માનક સમય,
+    Daylight: સમોઆ ગ્રીષ્મ સમય
+  },
+  US/Samoa: {
+    Generic: સમોઆ સમય,
+    Standard: સમોઆ માનક સમય,
+    Daylight: સમોઆ ગ્રીષ્મ સમય
+  },
+  Pacific/Chuuk: {
+    Generic: ચુઉક સમય,
+    Standard: ચુઉક સમય,
+    Daylight: ચુઉક સમય
+  },
+  Pacific/Yap: {
+    Generic: ચુઉક સમય,
+    Standard: ચુઉક સમય,
+    Daylight: ચુઉક સમય
+  },
+  America/Fort_Wayne: {
+    Generic: ઉત્તર અમેરિકન પૂર્વી સમય,
+    Standard: ઉત્તર અમેરિકન પૂર્વી માનક સમય,
+    Daylight: ઉત્તર અમેરિકન પૂર્વી દિવસ સમય
+  },
+  Antarctica/Troll: {
+    Generic: ગ્રીનવિચ મધ્યમ સમય,
+    Standard: ગ્રીનવિચ મધ્યમ સમય,
+    Daylight: ગ્રીનવિચ મધ્યમ સમય
   }
-]
+}

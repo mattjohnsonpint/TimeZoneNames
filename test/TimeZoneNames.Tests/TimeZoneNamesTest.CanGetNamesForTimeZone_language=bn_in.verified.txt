@@ -1,4762 +1,2977 @@
-﻿[
-  {
-    Key: Africa/Abidjan,
-    Value: {
-      Generic: গ্রীনিচ মিন টাইম,
-      Standard: গ্রীনিচ মিন টাইম,
-      Daylight: গ্রীনিচ মিন টাইম
-    }
-  },
-  {
-    Key: Africa/Accra,
-    Value: {
-      Generic: গ্রীনিচ মিন টাইম,
-      Standard: গ্রীনিচ মিন টাইম,
-      Daylight: গ্রীনিচ মিন টাইম
-    }
-  },
-  {
-    Key: Africa/Addis_Ababa,
-    Value: {
-      Generic: পূর্ব আফ্রিকা সময়,
-      Standard: পূর্ব আফ্রিকা সময়,
-      Daylight: পূর্ব আফ্রিকা সময়
-    }
-  },
-  {
-    Key: Africa/Algiers,
-    Value: {
-      Generic: মধ্য ইউরোপীয় সময়,
-      Standard: মধ্য ইউরোপীয় মানক সময়,
-      Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Africa/Asmara,
-    Value: {
-      Generic: পূর্ব আফ্রিকা সময়,
-      Standard: পূর্ব আফ্রিকা সময়,
-      Daylight: পূর্ব আফ্রিকা সময়
-    }
-  },
-  {
-    Key: Africa/Asmera,
-    Value: {
-      Generic: পূর্ব আফ্রিকা সময়,
-      Standard: পূর্ব আফ্রিকা সময়,
-      Daylight: পূর্ব আফ্রিকা সময়
-    }
-  },
-  {
-    Key: Africa/Bamako,
-    Value: {
-      Generic: গ্রীনিচ মিন টাইম,
-      Standard: গ্রীনিচ মিন টাইম,
-      Daylight: গ্রীনিচ মিন টাইম
-    }
-  },
-  {
-    Key: Africa/Bangui,
-    Value: {
-      Generic: পশ্চিম আফ্রিকা সময়,
-      Standard: পশ্চিম আফ্রিকা মানক সময়,
-      Daylight: পশ্চিম আফ্রিকা গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Africa/Banjul,
-    Value: {
-      Generic: গ্রীনিচ মিন টাইম,
-      Standard: গ্রীনিচ মিন টাইম,
-      Daylight: গ্রীনিচ মিন টাইম
-    }
-  },
-  {
-    Key: Africa/Bissau,
-    Value: {
-      Generic: গ্রীনিচ মিন টাইম,
-      Standard: গ্রীনিচ মিন টাইম,
-      Daylight: গ্রীনিচ মিন টাইম
-    }
-  },
-  {
-    Key: Africa/Blantyre,
-    Value: {
-      Generic: মধ্য আফ্রিকা সময়,
-      Standard: মধ্য আফ্রিকা সময়,
-      Daylight: মধ্য আফ্রিকা সময়
-    }
-  },
-  {
-    Key: Africa/Brazzaville,
-    Value: {
-      Generic: পশ্চিম আফ্রিকা সময়,
-      Standard: পশ্চিম আফ্রিকা মানক সময়,
-      Daylight: পশ্চিম আফ্রিকা গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Africa/Bujumbura,
-    Value: {
-      Generic: মধ্য আফ্রিকা সময়,
-      Standard: মধ্য আফ্রিকা সময়,
-      Daylight: মধ্য আফ্রিকা সময়
-    }
-  },
-  {
-    Key: Africa/Cairo,
-    Value: {
-      Generic: পূর্ব ইউরোপীয় সময়,
-      Standard: পূর্ব ইউরোপীয় মানক সময়,
-      Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Africa/Casablanca,
-    Value: {
-      Generic: পশ্চিম ইউরোপীয় সময়,
-      Standard: পশ্চিম ইউরোপীয় মানক সময়,
-      Daylight: পশ্চিম ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Africa/Ceuta,
-    Value: {
-      Generic: মধ্য ইউরোপীয় সময়,
-      Standard: মধ্য ইউরোপীয় মানক সময়,
-      Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Africa/Conakry,
-    Value: {
-      Generic: গ্রীনিচ মিন টাইম,
-      Standard: গ্রীনিচ মিন টাইম,
-      Daylight: গ্রীনিচ মিন টাইম
-    }
-  },
-  {
-    Key: Africa/Dakar,
-    Value: {
-      Generic: গ্রীনিচ মিন টাইম,
-      Standard: গ্রীনিচ মিন টাইম,
-      Daylight: গ্রীনিচ মিন টাইম
-    }
-  },
-  {
-    Key: Africa/Dar_es_Salaam,
-    Value: {
-      Generic: পূর্ব আফ্রিকা সময়,
-      Standard: পূর্ব আফ্রিকা সময়,
-      Daylight: পূর্ব আফ্রিকা সময়
-    }
-  },
-  {
-    Key: Africa/Djibouti,
-    Value: {
-      Generic: পূর্ব আফ্রিকা সময়,
-      Standard: পূর্ব আফ্রিকা সময়,
-      Daylight: পূর্ব আফ্রিকা সময়
-    }
-  },
-  {
-    Key: Africa/Douala,
-    Value: {
-      Generic: পশ্চিম আফ্রিকা সময়,
-      Standard: পশ্চিম আফ্রিকা মানক সময়,
-      Daylight: পশ্চিম আফ্রিকা গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Africa/El_Aaiun,
-    Value: {
-      Generic: পশ্চিম ইউরোপীয় সময়,
-      Standard: পশ্চিম ইউরোপীয় মানক সময়,
-      Daylight: পশ্চিম ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Africa/Freetown,
-    Value: {
-      Generic: গ্রীনিচ মিন টাইম,
-      Standard: গ্রীনিচ মিন টাইম,
-      Daylight: গ্রীনিচ মিন টাইম
-    }
-  },
-  {
-    Key: Africa/Gaborone,
-    Value: {
-      Generic: মধ্য আফ্রিকা সময়,
-      Standard: মধ্য আফ্রিকা সময়,
-      Daylight: মধ্য আফ্রিকা সময়
-    }
-  },
-  {
-    Key: Africa/Harare,
-    Value: {
-      Generic: মধ্য আফ্রিকা সময়,
-      Standard: মধ্য আফ্রিকা সময়,
-      Daylight: মধ্য আফ্রিকা সময়
-    }
-  },
-  {
-    Key: Africa/Johannesburg,
-    Value: {
-      Generic: দক্ষিণ আফ্রিকা মানক সময়,
-      Standard: দক্ষিণ আফ্রিকা মানক সময়,
-      Daylight: দক্ষিণ আফ্রিকা মানক সময়
-    }
-  },
-  {
-    Key: Africa/Juba,
-    Value: {
-      Generic: মধ্য আফ্রিকা সময়,
-      Standard: মধ্য আফ্রিকা সময়,
-      Daylight: মধ্য আফ্রিকা সময়
-    }
-  },
-  {
-    Key: Africa/Kampala,
-    Value: {
-      Generic: পূর্ব আফ্রিকা সময়,
-      Standard: পূর্ব আফ্রিকা সময়,
-      Daylight: পূর্ব আফ্রিকা সময়
-    }
-  },
-  {
-    Key: Africa/Khartoum,
-    Value: {
-      Generic: মধ্য আফ্রিকা সময়,
-      Standard: মধ্য আফ্রিকা সময়,
-      Daylight: মধ্য আফ্রিকা সময়
-    }
-  },
-  {
-    Key: Africa/Kigali,
-    Value: {
-      Generic: মধ্য আফ্রিকা সময়,
-      Standard: মধ্য আফ্রিকা সময়,
-      Daylight: মধ্য আফ্রিকা সময়
-    }
-  },
-  {
-    Key: Africa/Kinshasa,
-    Value: {
-      Generic: পশ্চিম আফ্রিকা সময়,
-      Standard: পশ্চিম আফ্রিকা মানক সময়,
-      Daylight: পশ্চিম আফ্রিকা গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Africa/Lagos,
-    Value: {
-      Generic: পশ্চিম আফ্রিকা সময়,
-      Standard: পশ্চিম আফ্রিকা মানক সময়,
-      Daylight: পশ্চিম আফ্রিকা গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Africa/Libreville,
-    Value: {
-      Generic: পশ্চিম আফ্রিকা সময়,
-      Standard: পশ্চিম আফ্রিকা মানক সময়,
-      Daylight: পশ্চিম আফ্রিকা গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Africa/Lome,
-    Value: {
-      Generic: গ্রীনিচ মিন টাইম,
-      Standard: গ্রীনিচ মিন টাইম,
-      Daylight: গ্রীনিচ মিন টাইম
-    }
-  },
-  {
-    Key: Africa/Luanda,
-    Value: {
-      Generic: পশ্চিম আফ্রিকা সময়,
-      Standard: পশ্চিম আফ্রিকা মানক সময়,
-      Daylight: পশ্চিম আফ্রিকা গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Africa/Lubumbashi,
-    Value: {
-      Generic: মধ্য আফ্রিকা সময়,
-      Standard: মধ্য আফ্রিকা সময়,
-      Daylight: মধ্য আফ্রিকা সময়
-    }
-  },
-  {
-    Key: Africa/Lusaka,
-    Value: {
-      Generic: মধ্য আফ্রিকা সময়,
-      Standard: মধ্য আফ্রিকা সময়,
-      Daylight: মধ্য আফ্রিকা সময়
-    }
-  },
-  {
-    Key: Africa/Malabo,
-    Value: {
-      Generic: পশ্চিম আফ্রিকা সময়,
-      Standard: পশ্চিম আফ্রিকা মানক সময়,
-      Daylight: পশ্চিম আফ্রিকা গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Africa/Maputo,
-    Value: {
-      Generic: মধ্য আফ্রিকা সময়,
-      Standard: মধ্য আফ্রিকা সময়,
-      Daylight: মধ্য আফ্রিকা সময়
-    }
-  },
-  {
-    Key: Africa/Maseru,
-    Value: {
-      Generic: দক্ষিণ আফ্রিকা মানক সময়,
-      Standard: দক্ষিণ আফ্রিকা মানক সময়,
-      Daylight: দক্ষিণ আফ্রিকা মানক সময়
-    }
-  },
-  {
-    Key: Africa/Mbabane,
-    Value: {
-      Generic: দক্ষিণ আফ্রিকা মানক সময়,
-      Standard: দক্ষিণ আফ্রিকা মানক সময়,
-      Daylight: দক্ষিণ আফ্রিকা মানক সময়
-    }
-  },
-  {
-    Key: Africa/Mogadishu,
-    Value: {
-      Generic: পূর্ব আফ্রিকা সময়,
-      Standard: পূর্ব আফ্রিকা সময়,
-      Daylight: পূর্ব আফ্রিকা সময়
-    }
-  },
-  {
-    Key: Africa/Monrovia,
-    Value: {
-      Generic: গ্রীনিচ মিন টাইম,
-      Standard: গ্রীনিচ মিন টাইম,
-      Daylight: গ্রীনিচ মিন টাইম
-    }
-  },
-  {
-    Key: Africa/Nairobi,
-    Value: {
-      Generic: পূর্ব আফ্রিকা সময়,
-      Standard: পূর্ব আফ্রিকা সময়,
-      Daylight: পূর্ব আফ্রিকা সময়
-    }
-  },
-  {
-    Key: Africa/Ndjamena,
-    Value: {
-      Generic: পশ্চিম আফ্রিকা সময়,
-      Standard: পশ্চিম আফ্রিকা মানক সময়,
-      Daylight: পশ্চিম আফ্রিকা গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Africa/Niamey,
-    Value: {
-      Generic: পশ্চিম আফ্রিকা সময়,
-      Standard: পশ্চিম আফ্রিকা মানক সময়,
-      Daylight: পশ্চিম আফ্রিকা গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Africa/Nouakchott,
-    Value: {
-      Generic: গ্রীনিচ মিন টাইম,
-      Standard: গ্রীনিচ মিন টাইম,
-      Daylight: গ্রীনিচ মিন টাইম
-    }
-  },
-  {
-    Key: Africa/Ouagadougou,
-    Value: {
-      Generic: গ্রীনিচ মিন টাইম,
-      Standard: গ্রীনিচ মিন টাইম,
-      Daylight: গ্রীনিচ মিন টাইম
-    }
-  },
-  {
-    Key: Africa/Porto-Novo,
-    Value: {
-      Generic: পশ্চিম আফ্রিকা সময়,
-      Standard: পশ্চিম আফ্রিকা মানক সময়,
-      Daylight: পশ্চিম আফ্রিকা গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Africa/Sao_Tome,
-    Value: {
-      Generic: গ্রীনিচ মিন টাইম,
-      Standard: গ্রীনিচ মিন টাইম,
-      Daylight: গ্রীনিচ মিন টাইম
-    }
-  },
-  {
-    Key: Africa/Timbuktu,
-    Value: {
-      Generic: গ্রীনিচ মিন টাইম,
-      Standard: গ্রীনিচ মিন টাইম,
-      Daylight: গ্রীনিচ মিন টাইম
-    }
-  },
-  {
-    Key: Africa/Tripoli,
-    Value: {
-      Generic: পূর্ব ইউরোপীয় সময়,
-      Standard: পূর্ব ইউরোপীয় মানক সময়,
-      Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Africa/Tunis,
-    Value: {
-      Generic: মধ্য ইউরোপীয় সময়,
-      Standard: মধ্য ইউরোপীয় মানক সময়,
-      Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Africa/Windhoek,
-    Value: {
-      Generic: মধ্য আফ্রিকা সময়,
-      Standard: মধ্য আফ্রিকা সময়,
-      Daylight: মধ্য আফ্রিকা সময়
-    }
-  },
-  {
-    Key: America/Adak,
-    Value: {
-      Generic: হাওয়াই অ্যালিউটিয়ান সময়,
-      Standard: হাওয়াই-আলেউত মানক সময়,
-      Daylight: হাওয়াই-আলেউত দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Anchorage,
-    Value: {
-      Generic: আলাস্কা সময়,
-      Standard: আলাস্কা মানক সময়,
-      Daylight: আলাস্কা দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Anguilla,
-    Value: {
-      Generic: অতলান্তিকের সময়,
-      Standard: অতলান্তিক মানক সময়,
-      Daylight: অতলান্তিক দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Antigua,
-    Value: {
-      Generic: অতলান্তিকের সময়,
-      Standard: অতলান্তিক মানক সময়,
-      Daylight: অতলান্তিক দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Araguaina,
-    Value: {
-      Generic: ব্রাসিলিয়া সময়,
-      Standard: ব্রাসিলিয়া মানক সময়,
-      Daylight: ব্রাসিলিয়া গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/Argentina/Buenos_Aires,
-    Value: {
-      Generic: আর্জেন্টিনা সময়,
-      Standard: আর্জেন্টিনা মানক সময়,
-      Daylight: আর্জেন্টিনা গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/Argentina/Catamarca,
-    Value: {
-      Generic: আর্জেন্টিনা সময়,
-      Standard: আর্জেন্টিনা মানক সময়,
-      Daylight: আর্জেন্টিনা গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/Argentina/ComodRivadavia,
-    Value: {
-      Generic: আর্জেন্টিনা সময়,
-      Standard: আর্জেন্টিনা মানক সময়,
-      Daylight: আর্জেন্টিনা গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/Argentina/Cordoba,
-    Value: {
-      Generic: আর্জেন্টিনা সময়,
-      Standard: আর্জেন্টিনা মানক সময়,
-      Daylight: আর্জেন্টিনা গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/Argentina/Jujuy,
-    Value: {
-      Generic: আর্জেন্টিনা সময়,
-      Standard: আর্জেন্টিনা মানক সময়,
-      Daylight: আর্জেন্টিনা গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/Argentina/La_Rioja,
-    Value: {
-      Generic: আর্জেন্টিনা সময়,
-      Standard: আর্জেন্টিনা মানক সময়,
-      Daylight: আর্জেন্টিনা গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/Argentina/Mendoza,
-    Value: {
-      Generic: আর্জেন্টিনা সময়,
-      Standard: আর্জেন্টিনা মানক সময়,
-      Daylight: আর্জেন্টিনা গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/Argentina/Rio_Gallegos,
-    Value: {
-      Generic: আর্জেন্টিনা সময়,
-      Standard: আর্জেন্টিনা মানক সময়,
-      Daylight: আর্জেন্টিনা গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/Argentina/Salta,
-    Value: {
-      Generic: আর্জেন্টিনা সময়,
-      Standard: আর্জেন্টিনা মানক সময়,
-      Daylight: আর্জেন্টিনা গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/Argentina/San_Juan,
-    Value: {
-      Generic: আর্জেন্টিনা সময়,
-      Standard: আর্জেন্টিনা মানক সময়,
-      Daylight: আর্জেন্টিনা গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/Argentina/San_Luis,
-    Value: {
-      Generic: আর্জেন্টিনা সময়,
-      Standard: আর্জেন্টিনা মানক সময়,
-      Daylight: আর্জেন্টিনা গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/Argentina/Tucuman,
-    Value: {
-      Generic: আর্জেন্টিনা সময়,
-      Standard: আর্জেন্টিনা মানক সময়,
-      Daylight: আর্জেন্টিনা গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/Argentina/Ushuaia,
-    Value: {
-      Generic: আর্জেন্টিনা সময়,
-      Standard: আর্জেন্টিনা মানক সময়,
-      Daylight: আর্জেন্টিনা গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/Aruba,
-    Value: {
-      Generic: অতলান্তিকের সময়,
-      Standard: অতলান্তিক মানক সময়,
-      Daylight: অতলান্তিক দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Asuncion,
-    Value: {
-      Generic: প্যারাগুয়ে সময়,
-      Standard: প্যারাগুয়ে মানক সময়,
-      Daylight: প্যারাগুয়ে গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/Atikokan,
-    Value: {
-      Generic: পূর্বাঞ্চলীয় সময়,
-      Standard: পূর্বাঞ্চলের প্রমাণ সময়,
-      Daylight: পূর্বাঞ্চলের দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Atka,
-    Value: {
-      Generic: হাওয়াই অ্যালিউটিয়ান সময়,
-      Standard: হাওয়াই-আলেউত মানক সময়,
-      Daylight: হাওয়াই-আলেউত দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Bahia,
-    Value: {
-      Generic: ব্রাসিলিয়া সময়,
-      Standard: ব্রাসিলিয়া মানক সময়,
-      Daylight: ব্রাসিলিয়া গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/Bahia_Banderas,
-    Value: {
-      Generic: কেন্দ্রীয় সময়,
-      Standard: কেন্দ্রীয় মানক সময়,
-      Daylight: কেন্দ্রীয় দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Barbados,
-    Value: {
-      Generic: অতলান্তিকের সময়,
-      Standard: অতলান্তিক মানক সময়,
-      Daylight: অতলান্তিক দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Belem,
-    Value: {
-      Generic: ব্রাসিলিয়া সময়,
-      Standard: ব্রাসিলিয়া মানক সময়,
-      Daylight: ব্রাসিলিয়া গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/Belize,
-    Value: {
-      Generic: কেন্দ্রীয় সময়,
-      Standard: কেন্দ্রীয় মানক সময়,
-      Daylight: কেন্দ্রীয় দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Blanc-Sablon,
-    Value: {
-      Generic: অতলান্তিকের সময়,
-      Standard: অতলান্তিক মানক সময়,
-      Daylight: অতলান্তিক দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Boa_Vista,
-    Value: {
-      Generic: অ্যামাজন সময়,
-      Standard: আমাজন মানক সময়,
-      Daylight: অ্যামাজন গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/Bogota,
-    Value: {
-      Generic: কোলোম্বিয়া সময়,
-      Standard: কোলোম্বিয়া মানক সময়,
-      Daylight: কোলোম্বিয়া গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/Boise,
-    Value: {
-      Generic: পার্বত্য অঞ্চলের সময়,
-      Standard: পার্বত্য অঞ্চলের প্রমাণ সময়,
-      Daylight: পার্বত্য অঞ্চলের দিনের সময়
-    }
-  },
-  {
-    Key: America/Buenos_Aires,
-    Value: {
-      Generic: আর্জেন্টিনা সময়,
-      Standard: আর্জেন্টিনা মানক সময়,
-      Daylight: আর্জেন্টিনা গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/Cambridge_Bay,
-    Value: {
-      Generic: পার্বত্য অঞ্চলের সময়,
-      Standard: পার্বত্য অঞ্চলের প্রমাণ সময়,
-      Daylight: পার্বত্য অঞ্চলের দিনের সময়
-    }
-  },
-  {
-    Key: America/Campo_Grande,
-    Value: {
-      Generic: অ্যামাজন সময়,
-      Standard: আমাজন মানক সময়,
-      Daylight: অ্যামাজন গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/Cancun,
-    Value: {
-      Generic: পূর্বাঞ্চলীয় সময়,
-      Standard: পূর্বাঞ্চলের প্রমাণ সময়,
-      Daylight: পূর্বাঞ্চলের দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Caracas,
-    Value: {
-      Generic: ভেনেজুয়েলা সময়,
-      Standard: ভেনেজুয়েলা সময়,
-      Daylight: ভেনেজুয়েলা সময়
-    }
-  },
-  {
-    Key: America/Catamarca,
-    Value: {
-      Generic: আর্জেন্টিনা সময়,
-      Standard: আর্জেন্টিনা মানক সময়,
-      Daylight: আর্জেন্টিনা গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/Cayenne,
-    Value: {
-      Generic: ফরাসি গায়ানা সময়,
-      Standard: ফরাসি গায়ানা সময়,
-      Daylight: ফরাসি গায়ানা সময়
-    }
-  },
-  {
-    Key: America/Cayman,
-    Value: {
-      Generic: পূর্বাঞ্চলীয় সময়,
-      Standard: পূর্বাঞ্চলের প্রমাণ সময়,
-      Daylight: পূর্বাঞ্চলের দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Chicago,
-    Value: {
-      Generic: কেন্দ্রীয় সময়,
-      Standard: কেন্দ্রীয় মানক সময়,
-      Daylight: কেন্দ্রীয় দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Chihuahua,
-    Value: {
-      Generic: মেক্সিকান প্রশান্ত মহাসাগরীয় সময়,
-      Standard: মেক্সিকান প্রশান্ত মহসাগরীয় মানক সময়,
-      Daylight: মেক্সিকান প্রশান্ত মহাসাগরীয় দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Coral_Harbour,
-    Value: {
-      Generic: পূর্বাঞ্চলীয় সময়,
-      Standard: পূর্বাঞ্চলের প্রমাণ সময়,
-      Daylight: পূর্বাঞ্চলের দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Cordoba,
-    Value: {
-      Generic: আর্জেন্টিনা সময়,
-      Standard: আর্জেন্টিনা মানক সময়,
-      Daylight: আর্জেন্টিনা গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/Costa_Rica,
-    Value: {
-      Generic: কেন্দ্রীয় সময়,
-      Standard: কেন্দ্রীয় মানক সময়,
-      Daylight: কেন্দ্রীয় দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Creston,
-    Value: {
-      Generic: পার্বত্য অঞ্চলের সময়,
-      Standard: পার্বত্য অঞ্চলের প্রমাণ সময়,
-      Daylight: পার্বত্য অঞ্চলের দিনের সময়
-    }
-  },
-  {
-    Key: America/Cuiaba,
-    Value: {
-      Generic: অ্যামাজন সময়,
-      Standard: আমাজন মানক সময়,
-      Daylight: অ্যামাজন গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/Curacao,
-    Value: {
-      Generic: অতলান্তিকের সময়,
-      Standard: অতলান্তিক মানক সময়,
-      Daylight: অতলান্তিক দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Danmarkshavn,
-    Value: {
-      Generic: গ্রীনিচ মিন টাইম,
-      Standard: গ্রীনিচ মিন টাইম,
-      Daylight: গ্রীনিচ মিন টাইম
-    }
-  },
-  {
-    Key: America/Dawson,
-    Value: {
-      Generic: ইউকোন সময়,
-      Standard: ইউকোন সময়,
-      Daylight: ইউকোন সময়
-    }
-  },
-  {
-    Key: America/Dawson_Creek,
-    Value: {
-      Generic: পার্বত্য অঞ্চলের সময়,
-      Standard: পার্বত্য অঞ্চলের প্রমাণ সময়,
-      Daylight: পার্বত্য অঞ্চলের দিনের সময়
-    }
-  },
-  {
-    Key: America/Denver,
-    Value: {
-      Generic: পার্বত্য অঞ্চলের সময়,
-      Standard: পার্বত্য অঞ্চলের প্রমাণ সময়,
-      Daylight: পার্বত্য অঞ্চলের দিনের সময়
-    }
-  },
-  {
-    Key: America/Detroit,
-    Value: {
-      Generic: পূর্বাঞ্চলীয় সময়,
-      Standard: পূর্বাঞ্চলের প্রমাণ সময়,
-      Daylight: পূর্বাঞ্চলের দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Dominica,
-    Value: {
-      Generic: অতলান্তিকের সময়,
-      Standard: অতলান্তিক মানক সময়,
-      Daylight: অতলান্তিক দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Edmonton,
-    Value: {
-      Generic: পার্বত্য অঞ্চলের সময়,
-      Standard: পার্বত্য অঞ্চলের প্রমাণ সময়,
-      Daylight: পার্বত্য অঞ্চলের দিনের সময়
-    }
-  },
-  {
-    Key: America/Eirunepe,
-    Value: {
-      Generic: একর সময়,
-      Standard: একর মানক সময়,
-      Daylight: একর গ্রীষ্মকাল সময়
-    }
-  },
-  {
-    Key: America/El_Salvador,
-    Value: {
-      Generic: কেন্দ্রীয় সময়,
-      Standard: কেন্দ্রীয় মানক সময়,
-      Daylight: কেন্দ্রীয় দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Ensenada,
-    Value: {
-      Generic: প্রশান্ত মহাসাগরীয় অঞ্চলের সময়,
-      Standard: প্রশান্ত মহাসাগরীয় অঞ্চলের মানক সময়,
-      Daylight: প্রশান্ত মহাসাগরীয় অঞ্চলের দিনের সময়
-    }
-  },
-  {
-    Key: America/Fort_Nelson,
-    Value: {
-      Generic: পার্বত্য অঞ্চলের সময়,
-      Standard: পার্বত্য অঞ্চলের প্রমাণ সময়,
-      Daylight: পার্বত্য অঞ্চলের দিনের সময়
-    }
-  },
-  {
-    Key: America/Fort_Wayne,
-    Value: {
-      Generic: পূর্বাঞ্চলীয় সময়,
-      Standard: পূর্বাঞ্চলের প্রমাণ সময়,
-      Daylight: পূর্বাঞ্চলের দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Fortaleza,
-    Value: {
-      Generic: ব্রাসিলিয়া সময়,
-      Standard: ব্রাসিলিয়া মানক সময়,
-      Daylight: ব্রাসিলিয়া গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/Glace_Bay,
-    Value: {
-      Generic: অতলান্তিকের সময়,
-      Standard: অতলান্তিক মানক সময়,
-      Daylight: অতলান্তিক দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Godthab,
-    Value: {
-      Generic: পশ্চিম গ্রীনল্যান্ড সময়,
-      Standard: পশ্চিম গ্রীনল্যান্ড মানক সময়,
-      Daylight: পশ্চিম গ্রীনল্যান্ড গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/Goose_Bay,
-    Value: {
-      Generic: অতলান্তিকের সময়,
-      Standard: অতলান্তিক মানক সময়,
-      Daylight: অতলান্তিক দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Grand_Turk,
-    Value: {
-      Generic: পূর্বাঞ্চলীয় সময়,
-      Standard: পূর্বাঞ্চলের প্রমাণ সময়,
-      Daylight: পূর্বাঞ্চলের দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Grenada,
-    Value: {
-      Generic: অতলান্তিকের সময়,
-      Standard: অতলান্তিক মানক সময়,
-      Daylight: অতলান্তিক দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Guadeloupe,
-    Value: {
-      Generic: অতলান্তিকের সময়,
-      Standard: অতলান্তিক মানক সময়,
-      Daylight: অতলান্তিক দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Guatemala,
-    Value: {
-      Generic: কেন্দ্রীয় সময়,
-      Standard: কেন্দ্রীয় মানক সময়,
-      Daylight: কেন্দ্রীয় দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Guayaquil,
-    Value: {
-      Generic: ইকুয়েডর সময়,
-      Standard: ইকুয়েডর সময়,
-      Daylight: ইকুয়েডর সময়
-    }
-  },
-  {
-    Key: America/Guyana,
-    Value: {
-      Generic: গুয়ানা সময়,
-      Standard: গুয়ানা সময়,
-      Daylight: গুয়ানা সময়
-    }
-  },
-  {
-    Key: America/Halifax,
-    Value: {
-      Generic: অতলান্তিকের সময়,
-      Standard: অতলান্তিক মানক সময়,
-      Daylight: অতলান্তিক দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Havana,
-    Value: {
-      Generic: কিউবার সময়,
-      Standard: কিউবা মানক সময়,
-      Daylight: কিউবা দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Hermosillo,
-    Value: {
-      Generic: মেক্সিকান প্রশান্ত মহাসাগরীয় সময়,
-      Standard: মেক্সিকান প্রশান্ত মহসাগরীয় মানক সময়,
-      Daylight: মেক্সিকান প্রশান্ত মহাসাগরীয় দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Indiana/Indianapolis,
-    Value: {
-      Generic: পূর্বাঞ্চলীয় সময়,
-      Standard: পূর্বাঞ্চলের প্রমাণ সময়,
-      Daylight: পূর্বাঞ্চলের দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Indiana/Knox,
-    Value: {
-      Generic: কেন্দ্রীয় সময়,
-      Standard: কেন্দ্রীয় মানক সময়,
-      Daylight: কেন্দ্রীয় দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Indiana/Marengo,
-    Value: {
-      Generic: পূর্বাঞ্চলীয় সময়,
-      Standard: পূর্বাঞ্চলের প্রমাণ সময়,
-      Daylight: পূর্বাঞ্চলের দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Indiana/Petersburg,
-    Value: {
-      Generic: পূর্বাঞ্চলীয় সময়,
-      Standard: পূর্বাঞ্চলের প্রমাণ সময়,
-      Daylight: পূর্বাঞ্চলের দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Indiana/Tell_City,
-    Value: {
-      Generic: কেন্দ্রীয় সময়,
-      Standard: কেন্দ্রীয় মানক সময়,
-      Daylight: কেন্দ্রীয় দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Indiana/Vevay,
-    Value: {
-      Generic: পূর্বাঞ্চলীয় সময়,
-      Standard: পূর্বাঞ্চলের প্রমাণ সময়,
-      Daylight: পূর্বাঞ্চলের দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Indiana/Vincennes,
-    Value: {
-      Generic: পূর্বাঞ্চলীয় সময়,
-      Standard: পূর্বাঞ্চলের প্রমাণ সময়,
-      Daylight: পূর্বাঞ্চলের দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Indiana/Winamac,
-    Value: {
-      Generic: পূর্বাঞ্চলীয় সময়,
-      Standard: পূর্বাঞ্চলের প্রমাণ সময়,
-      Daylight: পূর্বাঞ্চলের দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Indianapolis,
-    Value: {
-      Generic: পূর্বাঞ্চলীয় সময়,
-      Standard: পূর্বাঞ্চলের প্রমাণ সময়,
-      Daylight: পূর্বাঞ্চলের দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Inuvik,
-    Value: {
-      Generic: পার্বত্য অঞ্চলের সময়,
-      Standard: পার্বত্য অঞ্চলের প্রমাণ সময়,
-      Daylight: পার্বত্য অঞ্চলের দিনের সময়
-    }
-  },
-  {
-    Key: America/Iqaluit,
-    Value: {
-      Generic: পূর্বাঞ্চলীয় সময়,
-      Standard: পূর্বাঞ্চলের প্রমাণ সময়,
-      Daylight: পূর্বাঞ্চলের দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Jamaica,
-    Value: {
-      Generic: পূর্বাঞ্চলীয় সময়,
-      Standard: পূর্বাঞ্চলের প্রমাণ সময়,
-      Daylight: পূর্বাঞ্চলের দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Jujuy,
-    Value: {
-      Generic: আর্জেন্টিনা সময়,
-      Standard: আর্জেন্টিনা মানক সময়,
-      Daylight: আর্জেন্টিনা গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/Juneau,
-    Value: {
-      Generic: আলাস্কা সময়,
-      Standard: আলাস্কা মানক সময়,
-      Daylight: আলাস্কা দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Kentucky/Louisville,
-    Value: {
-      Generic: পূর্বাঞ্চলীয় সময়,
-      Standard: পূর্বাঞ্চলের প্রমাণ সময়,
-      Daylight: পূর্বাঞ্চলের দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Kentucky/Monticello,
-    Value: {
-      Generic: পূর্বাঞ্চলীয় সময়,
-      Standard: পূর্বাঞ্চলের প্রমাণ সময়,
-      Daylight: পূর্বাঞ্চলের দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Knox_IN,
-    Value: {
-      Generic: কেন্দ্রীয় সময়,
-      Standard: কেন্দ্রীয় মানক সময়,
-      Daylight: কেন্দ্রীয় দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Kralendijk,
-    Value: {
-      Generic: অতলান্তিকের সময়,
-      Standard: অতলান্তিক মানক সময়,
-      Daylight: অতলান্তিক দিবালোক সময়
-    }
-  },
-  {
-    Key: America/La_Paz,
-    Value: {
-      Generic: বোলিভিয়া সময়,
-      Standard: বোলিভিয়া সময়,
-      Daylight: বোলিভিয়া সময়
-    }
-  },
-  {
-    Key: America/Lima,
-    Value: {
-      Generic: পেরু সময়,
-      Standard: পেরু মানক সময়,
-      Daylight: পেরু গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/Los_Angeles,
-    Value: {
-      Generic: প্রশান্ত মহাসাগরীয় অঞ্চলের সময়,
-      Standard: প্রশান্ত মহাসাগরীয় অঞ্চলের মানক সময়,
-      Daylight: প্রশান্ত মহাসাগরীয় অঞ্চলের দিনের সময়
-    }
-  },
-  {
-    Key: America/Louisville,
-    Value: {
-      Generic: পূর্বাঞ্চলীয় সময়,
-      Standard: পূর্বাঞ্চলের প্রমাণ সময়,
-      Daylight: পূর্বাঞ্চলের দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Lower_Princes,
-    Value: {
-      Generic: অতলান্তিকের সময়,
-      Standard: অতলান্তিক মানক সময়,
-      Daylight: অতলান্তিক দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Maceio,
-    Value: {
-      Generic: ব্রাসিলিয়া সময়,
-      Standard: ব্রাসিলিয়া মানক সময়,
-      Daylight: ব্রাসিলিয়া গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/Managua,
-    Value: {
-      Generic: কেন্দ্রীয় সময়,
-      Standard: কেন্দ্রীয় মানক সময়,
-      Daylight: কেন্দ্রীয় দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Manaus,
-    Value: {
-      Generic: অ্যামাজন সময়,
-      Standard: আমাজন মানক সময়,
-      Daylight: অ্যামাজন গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/Marigot,
-    Value: {
-      Generic: অতলান্তিকের সময়,
-      Standard: অতলান্তিক মানক সময়,
-      Daylight: অতলান্তিক দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Martinique,
-    Value: {
-      Generic: অতলান্তিকের সময়,
-      Standard: অতলান্তিক মানক সময়,
-      Daylight: অতলান্তিক দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Matamoros,
-    Value: {
-      Generic: কেন্দ্রীয় সময়,
-      Standard: কেন্দ্রীয় মানক সময়,
-      Daylight: কেন্দ্রীয় দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Mazatlan,
-    Value: {
-      Generic: মেক্সিকান প্রশান্ত মহাসাগরীয় সময়,
-      Standard: মেক্সিকান প্রশান্ত মহসাগরীয় মানক সময়,
-      Daylight: মেক্সিকান প্রশান্ত মহাসাগরীয় দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Mendoza,
-    Value: {
-      Generic: আর্জেন্টিনা সময়,
-      Standard: আর্জেন্টিনা মানক সময়,
-      Daylight: আর্জেন্টিনা গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/Menominee,
-    Value: {
-      Generic: কেন্দ্রীয় সময়,
-      Standard: কেন্দ্রীয় মানক সময়,
-      Daylight: কেন্দ্রীয় দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Merida,
-    Value: {
-      Generic: কেন্দ্রীয় সময়,
-      Standard: কেন্দ্রীয় মানক সময়,
-      Daylight: কেন্দ্রীয় দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Metlakatla,
-    Value: {
-      Generic: আলাস্কা সময়,
-      Standard: আলাস্কা মানক সময়,
-      Daylight: আলাস্কা দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Mexico_City,
-    Value: {
-      Generic: কেন্দ্রীয় সময়,
-      Standard: কেন্দ্রীয় মানক সময়,
-      Daylight: কেন্দ্রীয় দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Miquelon,
-    Value: {
-      Generic: সেন্ট পিয়ের ও মিকেলন সময়,
-      Standard: সেন্ট পিয়ের ও মিকেলন মানক সময়,
-      Daylight: সেন্ট পিয়ের ও মিকেলন দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Moncton,
-    Value: {
-      Generic: অতলান্তিকের সময়,
-      Standard: অতলান্তিক মানক সময়,
-      Daylight: অতলান্তিক দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Monterrey,
-    Value: {
-      Generic: কেন্দ্রীয় সময়,
-      Standard: কেন্দ্রীয় মানক সময়,
-      Daylight: কেন্দ্রীয় দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Montevideo,
-    Value: {
-      Generic: উরুগুয়ে সময়,
-      Standard: উরুগুয়ে মানক সময়,
-      Daylight: উরুগুয়ে গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/Montreal,
-    Value: {
-      Generic: পূর্বাঞ্চলীয় সময়,
-      Standard: পূর্বাঞ্চলের প্রমাণ সময়,
-      Daylight: পূর্বাঞ্চলের দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Montserrat,
-    Value: {
-      Generic: অতলান্তিকের সময়,
-      Standard: অতলান্তিক মানক সময়,
-      Daylight: অতলান্তিক দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Nassau,
-    Value: {
-      Generic: পূর্বাঞ্চলীয় সময়,
-      Standard: পূর্বাঞ্চলের প্রমাণ সময়,
-      Daylight: পূর্বাঞ্চলের দিবালোক সময়
-    }
-  },
-  {
-    Key: America/New_York,
-    Value: {
-      Generic: পূর্বাঞ্চলীয় সময়,
-      Standard: পূর্বাঞ্চলের প্রমাণ সময়,
-      Daylight: পূর্বাঞ্চলের দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Nipigon,
-    Value: {
-      Generic: পূর্বাঞ্চলীয় সময়,
-      Standard: পূর্বাঞ্চলের প্রমাণ সময়,
-      Daylight: পূর্বাঞ্চলের দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Nome,
-    Value: {
-      Generic: আলাস্কা সময়,
-      Standard: আলাস্কা মানক সময়,
-      Daylight: আলাস্কা দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Noronha,
-    Value: {
-      Generic: ফার্নান্দো ডি নোরোনহা সময়,
-      Standard: ফার্নান্দো ডি নোরোনহা মানক সময়,
-      Daylight: ফার্নান্দো ডি নোরোনহা গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/North_Dakota/Beulah,
-    Value: {
-      Generic: কেন্দ্রীয় সময়,
-      Standard: কেন্দ্রীয় মানক সময়,
-      Daylight: কেন্দ্রীয় দিবালোক সময়
-    }
-  },
-  {
-    Key: America/North_Dakota/Center,
-    Value: {
-      Generic: কেন্দ্রীয় সময়,
-      Standard: কেন্দ্রীয় মানক সময়,
-      Daylight: কেন্দ্রীয় দিবালোক সময়
-    }
-  },
-  {
-    Key: America/North_Dakota/New_Salem,
-    Value: {
-      Generic: কেন্দ্রীয় সময়,
-      Standard: কেন্দ্রীয় মানক সময়,
-      Daylight: কেন্দ্রীয় দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Nuuk,
-    Value: {
-      Generic: পশ্চিম গ্রীনল্যান্ড সময়,
-      Standard: পশ্চিম গ্রীনল্যান্ড মানক সময়,
-      Daylight: পশ্চিম গ্রীনল্যান্ড গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/Ojinaga,
-    Value: {
-      Generic: পার্বত্য অঞ্চলের সময়,
-      Standard: পার্বত্য অঞ্চলের প্রমাণ সময়,
-      Daylight: পার্বত্য অঞ্চলের দিনের সময়
-    }
-  },
-  {
-    Key: America/Panama,
-    Value: {
-      Generic: পূর্বাঞ্চলীয় সময়,
-      Standard: পূর্বাঞ্চলের প্রমাণ সময়,
-      Daylight: পূর্বাঞ্চলের দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Pangnirtung,
-    Value: {
-      Generic: পূর্বাঞ্চলীয় সময়,
-      Standard: পূর্বাঞ্চলের প্রমাণ সময়,
-      Daylight: পূর্বাঞ্চলের দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Paramaribo,
-    Value: {
-      Generic: সুরিনাম সময়,
-      Standard: সুরিনাম সময়,
-      Daylight: সুরিনাম সময়
-    }
-  },
-  {
-    Key: America/Phoenix,
-    Value: {
-      Generic: পার্বত্য অঞ্চলের সময়,
-      Standard: পার্বত্য অঞ্চলের প্রমাণ সময়,
-      Daylight: পার্বত্য অঞ্চলের দিনের সময়
-    }
-  },
-  {
-    Key: America/Port_of_Spain,
-    Value: {
-      Generic: অতলান্তিকের সময়,
-      Standard: অতলান্তিক মানক সময়,
-      Daylight: অতলান্তিক দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Port-au-Prince,
-    Value: {
-      Generic: পূর্বাঞ্চলীয় সময়,
-      Standard: পূর্বাঞ্চলের প্রমাণ সময়,
-      Daylight: পূর্বাঞ্চলের দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Porto_Acre,
-    Value: {
-      Generic: একর সময়,
-      Standard: একর মানক সময়,
-      Daylight: একর গ্রীষ্মকাল সময়
-    }
-  },
-  {
-    Key: America/Porto_Velho,
-    Value: {
-      Generic: অ্যামাজন সময়,
-      Standard: আমাজন মানক সময়,
-      Daylight: অ্যামাজন গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/Puerto_Rico,
-    Value: {
-      Generic: অতলান্তিকের সময়,
-      Standard: অতলান্তিক মানক সময়,
-      Daylight: অতলান্তিক দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Punta_Arenas,
-    Value: {
-      Generic: চিলি সময়,
-      Standard: চিলি মানক সময়,
-      Daylight: চিলি গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/Rainy_River,
-    Value: {
-      Generic: কেন্দ্রীয় সময়,
-      Standard: কেন্দ্রীয় মানক সময়,
-      Daylight: কেন্দ্রীয় দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Rankin_Inlet,
-    Value: {
-      Generic: কেন্দ্রীয় সময়,
-      Standard: কেন্দ্রীয় মানক সময়,
-      Daylight: কেন্দ্রীয় দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Recife,
-    Value: {
-      Generic: ব্রাসিলিয়া সময়,
-      Standard: ব্রাসিলিয়া মানক সময়,
-      Daylight: ব্রাসিলিয়া গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/Regina,
-    Value: {
-      Generic: কেন্দ্রীয় সময়,
-      Standard: কেন্দ্রীয় মানক সময়,
-      Daylight: কেন্দ্রীয় দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Resolute,
-    Value: {
-      Generic: কেন্দ্রীয় সময়,
-      Standard: কেন্দ্রীয় মানক সময়,
-      Daylight: কেন্দ্রীয় দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Rio_Branco,
-    Value: {
-      Generic: একর সময়,
-      Standard: একর মানক সময়,
-      Daylight: একর গ্রীষ্মকাল সময়
-    }
-  },
-  {
-    Key: America/Rosario,
-    Value: {
-      Generic: আর্জেন্টিনা সময়,
-      Standard: আর্জেন্টিনা মানক সময়,
-      Daylight: আর্জেন্টিনা গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/Santa_Isabel,
-    Value: {
-      Generic: উত্তরপশ্চিম মেক্সিকোর সময়,
-      Standard: উত্তরপশ্চিম মেক্সিকোর মানক সময়,
-      Daylight: উত্তরপশ্চিম মেক্সিকোর দিনের সময়
-    }
-  },
-  {
-    Key: America/Santarem,
-    Value: {
-      Generic: ব্রাসিলিয়া সময়,
-      Standard: ব্রাসিলিয়া মানক সময়,
-      Daylight: ব্রাসিলিয়া গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/Santiago,
-    Value: {
-      Generic: চিলি সময়,
-      Standard: চিলি মানক সময়,
-      Daylight: চিলি গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/Santo_Domingo,
-    Value: {
-      Generic: অতলান্তিকের সময়,
-      Standard: অতলান্তিক মানক সময়,
-      Daylight: অতলান্তিক দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Sao_Paulo,
-    Value: {
-      Generic: ব্রাসিলিয়া সময়,
-      Standard: ব্রাসিলিয়া মানক সময়,
-      Daylight: ব্রাসিলিয়া গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/Scoresbysund,
-    Value: {
-      Generic: পূর্ব গ্রীনল্যান্ড সময়,
-      Standard: পূর্ব গ্রীনল্যান্ড মানক সময়,
-      Daylight: পূর্ব গ্রীনল্যান্ড গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: America/Shiprock,
-    Value: {
-      Generic: পার্বত্য অঞ্চলের সময়,
-      Standard: পার্বত্য অঞ্চলের প্রমাণ সময়,
-      Daylight: পার্বত্য অঞ্চলের দিনের সময়
-    }
-  },
-  {
-    Key: America/Sitka,
-    Value: {
-      Generic: আলাস্কা সময়,
-      Standard: আলাস্কা মানক সময়,
-      Daylight: আলাস্কা দিবালোক সময়
-    }
-  },
-  {
-    Key: America/St_Barthelemy,
-    Value: {
-      Generic: অতলান্তিকের সময়,
-      Standard: অতলান্তিক মানক সময়,
-      Daylight: অতলান্তিক দিবালোক সময়
-    }
-  },
-  {
-    Key: America/St_Johns,
-    Value: {
-      Generic: নিউফাউন্ডল্যান্ড সময়,
-      Standard: নিউফাউন্ডল্যান্ড মানক সময়,
-      Daylight: নিউফাউন্ডল্যান্ড দিবালোক সময়
-    }
-  },
-  {
-    Key: America/St_Kitts,
-    Value: {
-      Generic: অতলান্তিকের সময়,
-      Standard: অতলান্তিক মানক সময়,
-      Daylight: অতলান্তিক দিবালোক সময়
-    }
-  },
-  {
-    Key: America/St_Lucia,
-    Value: {
-      Generic: অতলান্তিকের সময়,
-      Standard: অতলান্তিক মানক সময়,
-      Daylight: অতলান্তিক দিবালোক সময়
-    }
-  },
-  {
-    Key: America/St_Thomas,
-    Value: {
-      Generic: অতলান্তিকের সময়,
-      Standard: অতলান্তিক মানক সময়,
-      Daylight: অতলান্তিক দিবালোক সময়
-    }
-  },
-  {
-    Key: America/St_Vincent,
-    Value: {
-      Generic: অতলান্তিকের সময়,
-      Standard: অতলান্তিক মানক সময়,
-      Daylight: অতলান্তিক দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Swift_Current,
-    Value: {
-      Generic: কেন্দ্রীয় সময়,
-      Standard: কেন্দ্রীয় মানক সময়,
-      Daylight: কেন্দ্রীয় দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Tegucigalpa,
-    Value: {
-      Generic: কেন্দ্রীয় সময়,
-      Standard: কেন্দ্রীয় মানক সময়,
-      Daylight: কেন্দ্রীয় দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Thule,
-    Value: {
-      Generic: অতলান্তিকের সময়,
-      Standard: অতলান্তিক মানক সময়,
-      Daylight: অতলান্তিক দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Thunder_Bay,
-    Value: {
-      Generic: পূর্বাঞ্চলীয় সময়,
-      Standard: পূর্বাঞ্চলের প্রমাণ সময়,
-      Daylight: পূর্বাঞ্চলের দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Tijuana,
-    Value: {
-      Generic: প্রশান্ত মহাসাগরীয় অঞ্চলের সময়,
-      Standard: প্রশান্ত মহাসাগরীয় অঞ্চলের মানক সময়,
-      Daylight: প্রশান্ত মহাসাগরীয় অঞ্চলের দিনের সময়
-    }
-  },
-  {
-    Key: America/Toronto,
-    Value: {
-      Generic: পূর্বাঞ্চলীয় সময়,
-      Standard: পূর্বাঞ্চলের প্রমাণ সময়,
-      Daylight: পূর্বাঞ্চলের দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Tortola,
-    Value: {
-      Generic: অতলান্তিকের সময়,
-      Standard: অতলান্তিক মানক সময়,
-      Daylight: অতলান্তিক দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Vancouver,
-    Value: {
-      Generic: প্রশান্ত মহাসাগরীয় অঞ্চলের সময়,
-      Standard: প্রশান্ত মহাসাগরীয় অঞ্চলের মানক সময়,
-      Daylight: প্রশান্ত মহাসাগরীয় অঞ্চলের দিনের সময়
-    }
-  },
-  {
-    Key: America/Virgin,
-    Value: {
-      Generic: অতলান্তিকের সময়,
-      Standard: অতলান্তিক মানক সময়,
-      Daylight: অতলান্তিক দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Whitehorse,
-    Value: {
-      Generic: ইউকোন সময়,
-      Standard: ইউকোন সময়,
-      Daylight: ইউকোন সময়
-    }
-  },
-  {
-    Key: America/Winnipeg,
-    Value: {
-      Generic: কেন্দ্রীয় সময়,
-      Standard: কেন্দ্রীয় মানক সময়,
-      Daylight: কেন্দ্রীয় দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Yakutat,
-    Value: {
-      Generic: আলাস্কা সময়,
-      Standard: আলাস্কা মানক সময়,
-      Daylight: আলাস্কা দিবালোক সময়
-    }
-  },
-  {
-    Key: America/Yellowknife,
-    Value: {
-      Generic: পার্বত্য অঞ্চলের সময়,
-      Standard: পার্বত্য অঞ্চলের প্রমাণ সময়,
-      Daylight: পার্বত্য অঞ্চলের দিনের সময়
-    }
-  },
-  {
-    Key: Antarctica/Casey,
-    Value: {
-      Generic: অ্যান্টার্কটিকা সময়,
-      Standard: অ্যান্টার্কটিকা মানক সময়,
-      Daylight: অ্যান্টার্কটিকা দিবালোক সময়
-    }
-  },
-  {
-    Key: Antarctica/Davis,
-    Value: {
-      Generic: ডেভিস সময়,
-      Standard: ডেভিস সময়,
-      Daylight: ডেভিস সময়
-    }
-  },
-  {
-    Key: Antarctica/DumontDUrville,
-    Value: {
-      Generic: ডুমন্ট-দ্য’উরভিলে সময়,
-      Standard: ডুমন্ট-দ্য’উরভিলে সময়,
-      Daylight: ডুমন্ট-দ্য’উরভিলে সময়
-    }
-  },
-  {
-    Key: Antarctica/Macquarie,
-    Value: {
-      Generic: পূর্ব অস্ট্রেলীয় সময়,
-      Standard: অস্ট্রেলীয় পূর্ব মানক সময়,
-      Daylight: অস্ট্রেলীয় পূর্ব দিবালোক সময়
-    }
-  },
-  {
-    Key: Antarctica/Mawson,
-    Value: {
-      Generic: মসন সময়,
-      Standard: মসন সময়,
-      Daylight: মসন সময়
-    }
-  },
-  {
-    Key: Antarctica/McMurdo,
-    Value: {
-      Generic: নিউজিল্যান্ড সময়,
-      Standard: নিউজিল্যান্ড মানক সময়,
-      Daylight: নিউজিল্যান্ড দিবালোক সময়
-    }
-  },
-  {
-    Key: Antarctica/Palmer,
-    Value: {
-      Generic: চিলি সময়,
-      Standard: চিলি মানক সময়,
-      Daylight: চিলি গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Antarctica/Rothera,
-    Value: {
-      Generic: রথেরা সময়,
-      Standard: রথেরা সময়,
-      Daylight: রথেরা সময়
-    }
-  },
-  {
-    Key: Antarctica/South_Pole,
-    Value: {
-      Generic: নিউজিল্যান্ড সময়,
-      Standard: নিউজিল্যান্ড মানক সময়,
-      Daylight: নিউজিল্যান্ড দিবালোক সময়
-    }
-  },
-  {
-    Key: Antarctica/Syowa,
-    Value: {
-      Generic: সায়োওয়া সময়,
-      Standard: সায়োওয়া সময়,
-      Daylight: সায়োওয়া সময়
-    }
-  },
-  {
-    Key: Antarctica/Troll,
-    Value: {
-      Generic: গ্রীনিচ মিন টাইম,
-      Standard: গ্রীনিচ মিন টাইম,
-      Daylight: গ্রীনিচ মিন টাইম
-    }
-  },
-  {
-    Key: Antarctica/Vostok,
-    Value: {
-      Generic: ভসটক সময়,
-      Standard: ভসটক সময়,
-      Daylight: ভসটক সময়
-    }
-  },
-  {
-    Key: Arctic/Longyearbyen,
-    Value: {
-      Generic: মধ্য ইউরোপীয় সময়,
-      Standard: মধ্য ইউরোপীয় মানক সময়,
-      Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Asia/Aden,
-    Value: {
-      Generic: আরবি সময়,
-      Standard: আরবি মানক সময়,
-      Daylight: আরবি দিবালোক সময়
-    }
-  },
-  {
-    Key: Asia/Almaty,
-    Value: {
-      Generic: পূর্ব কাজাখাস্তান সময়,
-      Standard: পূর্ব কাজাখাস্তান সময়,
-      Daylight: পূর্ব কাজাখাস্তান সময়
-    }
-  },
-  {
-    Key: Asia/Amman,
-    Value: {
-      Generic: পূর্ব ইউরোপীয় সময়,
-      Standard: পূর্ব ইউরোপীয় মানক সময়,
-      Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Asia/Anadyr,
-    Value: {
-      Generic: অ্যানাডির সময়,
-      Standard: অ্যানাডির মানক সময়,
-      Daylight: অ্যানাডির দিবালোক সময়
-    }
-  },
-  {
-    Key: Asia/Aqtau,
-    Value: {
-      Generic: পশ্চিম কাজাখাস্তান সময়,
-      Standard: পশ্চিম কাজাখাস্তান সময়,
-      Daylight: পশ্চিম কাজাখাস্তান সময়
-    }
-  },
-  {
-    Key: Asia/Aqtobe,
-    Value: {
-      Generic: পশ্চিম কাজাখাস্তান সময়,
-      Standard: পশ্চিম কাজাখাস্তান সময়,
-      Daylight: পশ্চিম কাজাখাস্তান সময়
-    }
-  },
-  {
-    Key: Asia/Ashgabat,
-    Value: {
-      Generic: তুর্কমেনিস্তান সময়,
-      Standard: তুর্কমেনিস্তান মানক সময়,
-      Daylight: তুর্কমেনিস্তান গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Asia/Ashkhabad,
-    Value: {
-      Generic: তুর্কমেনিস্তান সময়,
-      Standard: তুর্কমেনিস্তান মানক সময়,
-      Daylight: তুর্কমেনিস্তান গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Asia/Atyrau,
-    Value: {
-      Generic: পশ্চিম কাজাখাস্তান সময়,
-      Standard: পশ্চিম কাজাখাস্তান সময়,
-      Daylight: পশ্চিম কাজাখাস্তান সময়
-    }
-  },
-  {
-    Key: Asia/Baghdad,
-    Value: {
-      Generic: আরবি সময়,
-      Standard: আরবি মানক সময়,
-      Daylight: আরবি দিবালোক সময়
-    }
-  },
-  {
-    Key: Asia/Bahrain,
-    Value: {
-      Generic: আরবি সময়,
-      Standard: আরবি মানক সময়,
-      Daylight: আরবি দিবালোক সময়
-    }
-  },
-  {
-    Key: Asia/Baku,
-    Value: {
-      Generic: আজারবাইজান সময়,
-      Standard: আজারবাইজান মানক সময়,
-      Daylight: আজারবাইজান গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Asia/Bangkok,
-    Value: {
-      Generic: ইন্দোচীন সময়,
-      Standard: ইন্দোচীন সময়,
-      Daylight: ইন্দোচীন সময়
-    }
-  },
-  {
-    Key: Asia/Barnaul,
-    Value: {
-      Generic: বার্নৌল সময়,
-      Standard: বার্নৌল মানক সময়,
-      Daylight: বার্নৌল দিবালোক সময়
-    }
-  },
-  {
-    Key: Asia/Beirut,
-    Value: {
-      Generic: পূর্ব ইউরোপীয় সময়,
-      Standard: পূর্ব ইউরোপীয় মানক সময়,
-      Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Asia/Bishkek,
-    Value: {
-      Generic: কিরগিস্তান সময়,
-      Standard: কিরগিস্তান সময়,
-      Daylight: কিরগিস্তান সময়
-    }
-  },
-  {
-    Key: Asia/Brunei,
-    Value: {
-      Generic: ব্রুনেই দারুসসালাম সময়,
-      Standard: ব্রুনেই দারুসসালাম সময়,
-      Daylight: ব্রুনেই দারুসসালাম সময়
-    }
-  },
-  {
-    Key: Asia/Calcutta,
-    Value: {
-      Generic: ভারতীয় মানক সময়,
-      Standard: ভারতীয় মানক সময়,
-      Daylight: ভারতীয় মানক সময়
-    }
-  },
-  {
-    Key: Asia/Chita,
-    Value: {
-      Generic: চিতা সময়,
-      Standard: চিতা মানক সময়,
-      Daylight: চিতা দিবালোক সময়
-    }
-  },
-  {
-    Key: Asia/Choibalsan,
-    Value: {
-      Generic: উলান বাতোর সময়,
-      Standard: উলান বাতোর মানক সময়,
-      Daylight: উলান বাতোর গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Asia/Chongqing,
-    Value: {
-      Generic: চীন সময়,
-      Standard: চীন মানক সময়,
-      Daylight: চীন দিবালোক সময়
-    }
-  },
-  {
-    Key: Asia/Chungking,
-    Value: {
-      Generic: চীন সময়,
-      Standard: চীন মানক সময়,
-      Daylight: চীন দিবালোক সময়
-    }
-  },
-  {
-    Key: Asia/Colombo,
-    Value: {
-      Generic: ভারতীয় মানক সময়,
-      Standard: ভারতীয় মানক সময়,
-      Daylight: ভারতীয় মানক সময়
-    }
-  },
-  {
-    Key: Asia/Dacca,
-    Value: {
-      Generic: বাংলাদেশ সময়,
-      Standard: বাংলাদেশ মানক সময়,
-      Daylight: বাংলাদেশ গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Asia/Damascus,
-    Value: {
-      Generic: পূর্ব ইউরোপীয় সময়,
-      Standard: পূর্ব ইউরোপীয় মানক সময়,
-      Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Asia/Dhaka,
-    Value: {
-      Generic: বাংলাদেশ সময়,
-      Standard: বাংলাদেশ মানক সময়,
-      Daylight: বাংলাদেশ গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Asia/Dili,
-    Value: {
-      Generic: পূর্ব টিমর সময়,
-      Standard: পূর্ব টিমর সময়,
-      Daylight: পূর্ব টিমর সময়
-    }
-  },
-  {
-    Key: Asia/Dubai,
-    Value: {
-      Generic: উপসাগরীয় মানক সময়,
-      Standard: উপসাগরীয় মানক সময়,
-      Daylight: উপসাগরীয় মানক সময়
-    }
-  },
-  {
-    Key: Asia/Dushanbe,
-    Value: {
-      Generic: তাজাখাস্তান সময়,
-      Standard: তাজাখাস্তান সময়,
-      Daylight: তাজাখাস্তান সময়
-    }
-  },
-  {
-    Key: Asia/Famagusta,
-    Value: {
-      Generic: পূর্ব ইউরোপীয় সময়,
-      Standard: পূর্ব ইউরোপীয় মানক সময়,
-      Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Asia/Gaza,
-    Value: {
-      Generic: পূর্ব ইউরোপীয় সময়,
-      Standard: পূর্ব ইউরোপীয় মানক সময়,
-      Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Asia/Harbin,
-    Value: {
-      Generic: চীন সময়,
-      Standard: চীন মানক সময়,
-      Daylight: চীন দিবালোক সময়
-    }
-  },
-  {
-    Key: Asia/Hebron,
-    Value: {
-      Generic: পূর্ব ইউরোপীয় সময়,
-      Standard: পূর্ব ইউরোপীয় মানক সময়,
-      Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Asia/Ho_Chi_Minh,
-    Value: {
-      Generic: ইন্দোচীন সময়,
-      Standard: ইন্দোচীন সময়,
-      Daylight: ইন্দোচীন সময়
-    }
-  },
-  {
-    Key: Asia/Hong_Kong,
-    Value: {
-      Generic: হং কং সময়,
-      Standard: হং কং মানক সময়,
-      Daylight: হং কং গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Asia/Hovd,
-    Value: {
-      Generic: হোভড সময়,
-      Standard: হোভড মানক সময়,
-      Daylight: হোভড গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Asia/Irkutsk,
-    Value: {
-      Generic: ইরকুটস্ক সময়,
-      Standard: ইরকুটস্ক মানক সময়,
-      Daylight: ইরকুটস্ক দিবালোক সময়
-    }
-  },
-  {
-    Key: Asia/Istanbul,
-    Value: {
-      Generic: তুরস্ক সময়,
-      Standard: তুরস্ক মানক সময়,
-      Daylight: তুরস্ক দিবালোক সময়
-    }
-  },
-  {
-    Key: Asia/Jakarta,
-    Value: {
-      Generic: পশ্চিমী ইন্দোনেশিয়া সময়,
-      Standard: পশ্চিমী ইন্দোনেশিয়া সময়,
-      Daylight: পশ্চিমী ইন্দোনেশিয়া সময়
-    }
-  },
-  {
-    Key: Asia/Jayapura,
-    Value: {
-      Generic: পূর্ব ইন্দোনেশিয়া সময়,
-      Standard: পূর্ব ইন্দোনেশিয়া সময়,
-      Daylight: পূর্ব ইন্দোনেশিয়া সময়
-    }
-  },
-  {
-    Key: Asia/Jerusalem,
-    Value: {
-      Generic: ইজরায়েল সময়,
-      Standard: ইজরায়েল মানক সময়,
-      Daylight: ইজরায়েল দিবালোক সময়
-    }
-  },
-  {
-    Key: Asia/Kabul,
-    Value: {
-      Generic: আফগানিস্তান সময়,
-      Standard: আফগানিস্তান সময়,
-      Daylight: আফগানিস্তান সময়
-    }
-  },
-  {
-    Key: Asia/Kamchatka,
-    Value: {
-      Generic: কামচাটকা সময়,
-      Standard: কামচাটকা মানক সময়,
-      Daylight: কামচাটকা দিবালোক সময়
-    }
-  },
-  {
-    Key: Asia/Karachi,
-    Value: {
-      Generic: পাকিস্তান সময়,
-      Standard: পাকিস্তান মানক সময়,
-      Daylight: পাকিস্তান গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Asia/Kashgar,
-    Value: {
-      Generic: চীন সময়,
-      Standard: চীন মানক সময়,
-      Daylight: চীন দিবালোক সময়
-    }
-  },
-  {
-    Key: Asia/Kathmandu,
-    Value: {
-      Generic: নেপাল সময়,
-      Standard: নেপাল সময়,
-      Daylight: নেপাল সময়
-    }
-  },
-  {
-    Key: Asia/Katmandu,
-    Value: {
-      Generic: নেপাল সময়,
-      Standard: নেপাল সময়,
-      Daylight: নেপাল সময়
-    }
-  },
-  {
-    Key: Asia/Khandyga,
-    Value: {
-      Generic: খানডিয়াগা সময়,
-      Standard: খানডিয়াগা মানক সময়,
-      Daylight: খানডিয়াগা দিবালোক সময়
-    }
-  },
-  {
-    Key: Asia/Kolkata,
-    Value: {
-      Generic: ভারতীয় মানক সময়,
-      Standard: ভারতীয় মানক সময়,
-      Daylight: ভারতীয় মানক সময়
-    }
-  },
-  {
-    Key: Asia/Krasnoyarsk,
-    Value: {
-      Generic: ক্রাসনোইয়ার্স্ক সময়,
-      Standard: ক্রাসনোইয়ার্স্ক মানক সময়,
-      Daylight: ক্রাসনোইয়ার্স্ক দিবালোক সময়
-    }
-  },
-  {
-    Key: Asia/Kuala_Lumpur,
-    Value: {
-      Generic: মালয়েশিয়া সময়,
-      Standard: মালয়েশিয়া সময়,
-      Daylight: মালয়েশিয়া সময়
-    }
-  },
-  {
-    Key: Asia/Kuching,
-    Value: {
-      Generic: মালয়েশিয়া সময়,
-      Standard: মালয়েশিয়া সময়,
-      Daylight: মালয়েশিয়া সময়
-    }
-  },
-  {
-    Key: Asia/Kuwait,
-    Value: {
-      Generic: আরবি সময়,
-      Standard: আরবি মানক সময়,
-      Daylight: আরবি দিবালোক সময়
-    }
-  },
-  {
-    Key: Asia/Macao,
-    Value: {
-      Generic: চীন সময়,
-      Standard: চীন মানক সময়,
-      Daylight: চীন দিবালোক সময়
-    }
-  },
-  {
-    Key: Asia/Macau,
-    Value: {
-      Generic: চীন সময়,
-      Standard: চীন মানক সময়,
-      Daylight: চীন দিবালোক সময়
-    }
-  },
-  {
-    Key: Asia/Magadan,
-    Value: {
-      Generic: ম্যাগাডান সময়,
-      Standard: ম্যাগাডান মানক সময়,
-      Daylight: ম্যাগাডান দিবালোক সময়
-    }
-  },
-  {
-    Key: Asia/Makassar,
-    Value: {
-      Generic: কেন্দ্রীয় ইন্দোনেশিয়া সময়,
-      Standard: কেন্দ্রীয় ইন্দোনেশিয়া সময়,
-      Daylight: কেন্দ্রীয় ইন্দোনেশিয়া সময়
-    }
-  },
-  {
-    Key: Asia/Manila,
-    Value: {
-      Generic: ফিলিপাইন সময়,
-      Standard: ফিলিপাইন মানক সময়,
-      Daylight: ফিলিপাইন গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Asia/Muscat,
-    Value: {
-      Generic: উপসাগরীয় মানক সময়,
-      Standard: উপসাগরীয় মানক সময়,
-      Daylight: উপসাগরীয় মানক সময়
-    }
-  },
-  {
-    Key: Asia/Nicosia,
-    Value: {
-      Generic: পূর্ব ইউরোপীয় সময়,
-      Standard: পূর্ব ইউরোপীয় মানক সময়,
-      Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Asia/Novokuznetsk,
-    Value: {
-      Generic: নভকুয়েতস্নক সময়,
-      Standard: নভকুয়েতস্নক মানক সময়,
-      Daylight: নভকুয়েতস্নক দিবালোক সময়
-    }
-  },
-  {
-    Key: Asia/Novosibirsk,
-    Value: {
-      Generic: নভোসিবির্স্ক সময়,
-      Standard: নভোসিবির্স্ক মানক সময়,
-      Daylight: নভোসিবির্স্ক দিবালোক সময়
-    }
-  },
-  {
-    Key: Asia/Omsk,
-    Value: {
-      Generic: ওম্স্ক সময়,
-      Standard: ওম্স্ক মানক সময়,
-      Daylight: ওম্স্ক দিবালোক সময়
-    }
-  },
-  {
-    Key: Asia/Oral,
-    Value: {
-      Generic: পশ্চিম কাজাখাস্তান সময়,
-      Standard: পশ্চিম কাজাখাস্তান সময়,
-      Daylight: পশ্চিম কাজাখাস্তান সময়
-    }
-  },
-  {
-    Key: Asia/Phnom_Penh,
-    Value: {
-      Generic: ইন্দোচীন সময়,
-      Standard: ইন্দোচীন সময়,
-      Daylight: ইন্দোচীন সময়
-    }
-  },
-  {
-    Key: Asia/Pontianak,
-    Value: {
-      Generic: পশ্চিমী ইন্দোনেশিয়া সময়,
-      Standard: পশ্চিমী ইন্দোনেশিয়া সময়,
-      Daylight: পশ্চিমী ইন্দোনেশিয়া সময়
-    }
-  },
-  {
-    Key: Asia/Pyongyang,
-    Value: {
-      Generic: কোরিয়ান সময়,
-      Standard: কোরিয়ান মানক সময়,
-      Daylight: কোরিয়ান দিবালোক সময়
-    }
-  },
-  {
-    Key: Asia/Qatar,
-    Value: {
-      Generic: আরবি সময়,
-      Standard: আরবি মানক সময়,
-      Daylight: আরবি দিবালোক সময়
-    }
-  },
-  {
-    Key: Asia/Qostanay,
-    Value: {
-      Generic: পূর্ব কাজাখাস্তান সময়,
-      Standard: পূর্ব কাজাখাস্তান সময়,
-      Daylight: পূর্ব কাজাখাস্তান সময়
-    }
-  },
-  {
-    Key: Asia/Qyzylorda,
-    Value: {
-      Generic: পশ্চিম কাজাখাস্তান সময়,
-      Standard: পশ্চিম কাজাখাস্তান সময়,
-      Daylight: পশ্চিম কাজাখাস্তান সময়
-    }
-  },
-  {
-    Key: Asia/Rangoon,
-    Value: {
-      Generic: মায়ানমার সময়,
-      Standard: মায়ানমার সময়,
-      Daylight: মায়ানমার সময়
-    }
-  },
-  {
-    Key: Asia/Riyadh,
-    Value: {
-      Generic: আরবি সময়,
-      Standard: আরবি মানক সময়,
-      Daylight: আরবি দিবালোক সময়
-    }
-  },
-  {
-    Key: Asia/Saigon,
-    Value: {
-      Generic: ইন্দোচীন সময়,
-      Standard: ইন্দোচীন সময়,
-      Daylight: ইন্দোচীন সময়
-    }
-  },
-  {
-    Key: Asia/Sakhalin,
-    Value: {
-      Generic: সাখালিন সময়,
-      Standard: সাখালিন মানক সময়,
-      Daylight: সাখালিন দিবালোক সময়
-    }
-  },
-  {
-    Key: Asia/Samarkand,
-    Value: {
-      Generic: উজবেকিস্তান সময়,
-      Standard: উজবেকিস্তান মানক সময়,
-      Daylight: উজবেকিস্তান গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Asia/Seoul,
-    Value: {
-      Generic: কোরিয়ান সময়,
-      Standard: কোরিয়ান মানক সময়,
-      Daylight: কোরিয়ান দিবালোক সময়
-    }
-  },
-  {
-    Key: Asia/Shanghai,
-    Value: {
-      Generic: চীন সময়,
-      Standard: চীন মানক সময়,
-      Daylight: চীন দিবালোক সময়
-    }
-  },
-  {
-    Key: Asia/Singapore,
-    Value: {
-      Generic: সিঙ্গাপুর মানক সময়,
-      Standard: সিঙ্গাপুর মানক সময়,
-      Daylight: সিঙ্গাপুর মানক সময়
-    }
-  },
-  {
-    Key: Asia/Srednekolymsk,
-    Value: {
-      Generic: স্রেদনেকোলয়মস্ক সময়,
-      Standard: স্রেদনেকোলয়মস্ক মানক সময়,
-      Daylight: স্রেদনেকোলয়মস্ক দিবালোক সময়
-    }
-  },
-  {
-    Key: Asia/Taipei,
-    Value: {
-      Generic: তাইপেই সময়,
-      Standard: তাইপেই মানক সময়,
-      Daylight: তাইপেই দিবালোক সময়
-    }
-  },
-  {
-    Key: Asia/Tashkent,
-    Value: {
-      Generic: উজবেকিস্তান সময়,
-      Standard: উজবেকিস্তান মানক সময়,
-      Daylight: উজবেকিস্তান গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Asia/Tbilisi,
-    Value: {
-      Generic: জর্জিয়া সময়,
-      Standard: জর্জিয়া মানক সময়,
-      Daylight: জর্জিয়া গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Asia/Tehran,
-    Value: {
-      Generic: ইরান সময়,
-      Standard: ইরান মানক সময়,
-      Daylight: ইরান দিবালোক সময়
-    }
-  },
-  {
-    Key: Asia/Tel_Aviv,
-    Value: {
-      Generic: ইজরায়েল সময়,
-      Standard: ইজরায়েল মানক সময়,
-      Daylight: ইজরায়েল দিবালোক সময়
-    }
-  },
-  {
-    Key: Asia/Thimbu,
-    Value: {
-      Generic: ভুটান সময়,
-      Standard: ভুটান সময়,
-      Daylight: ভুটান সময়
-    }
-  },
-  {
-    Key: Asia/Thimphu,
-    Value: {
-      Generic: ভুটান সময়,
-      Standard: ভুটান সময়,
-      Daylight: ভুটান সময়
-    }
-  },
-  {
-    Key: Asia/Tokyo,
-    Value: {
-      Generic: জাপান সময়,
-      Standard: জাপান মানক সময়,
-      Daylight: জাপান দিবালোক সময়
-    }
-  },
-  {
-    Key: Asia/Tomsk,
-    Value: {
-      Generic: তোমস্ক সময়,
-      Standard: তোমস্ক মানক সময়,
-      Daylight: তোমস্ক দিবালোক সময়
-    }
-  },
-  {
-    Key: Asia/Ujung_Pandang,
-    Value: {
-      Generic: কেন্দ্রীয় ইন্দোনেশিয়া সময়,
-      Standard: কেন্দ্রীয় ইন্দোনেশিয়া সময়,
-      Daylight: কেন্দ্রীয় ইন্দোনেশিয়া সময়
-    }
-  },
-  {
-    Key: Asia/Ulaanbaatar,
-    Value: {
-      Generic: উলান বাতোর সময়,
-      Standard: উলান বাতোর মানক সময়,
-      Daylight: উলান বাতোর গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Asia/Ulan_Bator,
-    Value: {
-      Generic: উলান বাতোর সময়,
-      Standard: উলান বাতোর মানক সময়,
-      Daylight: উলান বাতোর গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Asia/Urumqi,
-    Value: {
-      Generic: চীন সময়,
-      Standard: চীন মানক সময়,
-      Daylight: চীন দিবালোক সময়
-    }
-  },
-  {
-    Key: Asia/Ust-Nera,
-    Value: {
-      Generic: উস্ত- নেরা সময়,
-      Standard: উস্ত- নেরা মানক সময়,
-      Daylight: উস্ত- নেরা দিবালোক সময়
-    }
-  },
-  {
-    Key: Asia/Vientiane,
-    Value: {
-      Generic: ইন্দোচীন সময়,
-      Standard: ইন্দোচীন সময়,
-      Daylight: ইন্দোচীন সময়
-    }
-  },
-  {
-    Key: Asia/Vladivostok,
-    Value: {
-      Generic: ভ্লাদিভস্তোক সময়,
-      Standard: ভ্লাদিভস্তোক মানক সময়,
-      Daylight: ভ্লাদিভস্তোক দিবালোক সময়
-    }
-  },
-  {
-    Key: Asia/Yakutsk,
-    Value: {
-      Generic: ইয়াকুটস্ক সময়,
-      Standard: ইয়াকুটস্ক মানক সময়,
-      Daylight: ইয়াকুটস্ক দিবালোক সময়
-    }
-  },
-  {
-    Key: Asia/Yangon,
-    Value: {
-      Generic: মায়ানমার সময়,
-      Standard: মায়ানমার সময়,
-      Daylight: মায়ানমার সময়
-    }
-  },
-  {
-    Key: Asia/Yekaterinburg,
-    Value: {
-      Generic: ইয়েকাটেরিনবার্গ সময়,
-      Standard: ইয়েকাটেরিনবার্গ মানক সময়,
-      Daylight: ইয়েকাটেরিনবার্গ দিবালোক সময়
-    }
-  },
-  {
-    Key: Asia/Yerevan,
-    Value: {
-      Generic: আর্মেনিয়া সময়,
-      Standard: আর্মেনিয়া মানক সময়,
-      Daylight: আর্মেনিয়া গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Atlantic/Azores,
-    Value: {
-      Generic: এজোরেস সময়,
-      Standard: এজোরেস মানক সময়,
-      Daylight: এজোরেস গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Atlantic/Bermuda,
-    Value: {
-      Generic: অতলান্তিকের সময়,
-      Standard: অতলান্তিক মানক সময়,
-      Daylight: অতলান্তিক দিবালোক সময়
-    }
-  },
-  {
-    Key: Atlantic/Canary,
-    Value: {
-      Generic: পশ্চিম ইউরোপীয় সময়,
-      Standard: পশ্চিম ইউরোপীয় মানক সময়,
-      Daylight: পশ্চিম ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Atlantic/Cape_Verde,
-    Value: {
-      Generic: কেপ ভার্দ সময়,
-      Standard: কেপ ভার্দ মানক সময়,
-      Daylight: কেপ ভার্দ গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Atlantic/Faeroe,
-    Value: {
-      Generic: পশ্চিম ইউরোপীয় সময়,
-      Standard: পশ্চিম ইউরোপীয় মানক সময়,
-      Daylight: পশ্চিম ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Atlantic/Faroe,
-    Value: {
-      Generic: পশ্চিম ইউরোপীয় সময়,
-      Standard: পশ্চিম ইউরোপীয় মানক সময়,
-      Daylight: পশ্চিম ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Atlantic/Jan_Mayen,
-    Value: {
-      Generic: মধ্য ইউরোপীয় সময়,
-      Standard: মধ্য ইউরোপীয় মানক সময়,
-      Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Atlantic/Madeira,
-    Value: {
-      Generic: পশ্চিম ইউরোপীয় সময়,
-      Standard: পশ্চিম ইউরোপীয় মানক সময়,
-      Daylight: পশ্চিম ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Atlantic/Reykjavik,
-    Value: {
-      Generic: গ্রীনিচ মিন টাইম,
-      Standard: গ্রীনিচ মিন টাইম,
-      Daylight: গ্রীনিচ মিন টাইম
-    }
-  },
-  {
-    Key: Atlantic/South_Georgia,
-    Value: {
-      Generic: দক্ষিণ জর্জিয়া সময়,
-      Standard: দক্ষিণ জর্জিয়া সময়,
-      Daylight: দক্ষিণ জর্জিয়া সময়
-    }
-  },
-  {
-    Key: Atlantic/St_Helena,
-    Value: {
-      Generic: গ্রীনিচ মিন টাইম,
-      Standard: গ্রীনিচ মিন টাইম,
-      Daylight: গ্রীনিচ মিন টাইম
-    }
-  },
-  {
-    Key: Atlantic/Stanley,
-    Value: {
-      Generic: ফকল্যান্ড দ্বীপপুঞ্জ সময়,
-      Standard: ফকল্যান্ড দ্বীপপুঞ্জ মানক সময়,
-      Daylight: ফকল্যান্ড দ্বীপপুঞ্জ গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Australia/ACT,
-    Value: {
-      Generic: পূর্ব অস্ট্রেলীয় সময়,
-      Standard: অস্ট্রেলীয় পূর্ব মানক সময়,
-      Daylight: অস্ট্রেলীয় পূর্ব দিবালোক সময়
-    }
-  },
-  {
-    Key: Australia/Adelaide,
-    Value: {
-      Generic: কেন্দ্রীয় অস্ট্রেলীয় সময়,
-      Standard: অস্ট্রেলীয় কেন্দ্রীয় মানক সময়,
-      Daylight: অস্ট্রেলীয় কেন্দ্রীয় দিবালোক সময়
-    }
-  },
-  {
-    Key: Australia/Brisbane,
-    Value: {
-      Generic: পূর্ব অস্ট্রেলীয় সময়,
-      Standard: অস্ট্রেলীয় পূর্ব মানক সময়,
-      Daylight: অস্ট্রেলীয় পূর্ব দিবালোক সময়
-    }
-  },
-  {
-    Key: Australia/Broken_Hill,
-    Value: {
-      Generic: কেন্দ্রীয় অস্ট্রেলীয় সময়,
-      Standard: অস্ট্রেলীয় কেন্দ্রীয় মানক সময়,
-      Daylight: অস্ট্রেলীয় কেন্দ্রীয় দিবালোক সময়
-    }
-  },
-  {
-    Key: Australia/Canberra,
-    Value: {
-      Generic: পূর্ব অস্ট্রেলীয় সময়,
-      Standard: অস্ট্রেলীয় পূর্ব মানক সময়,
-      Daylight: অস্ট্রেলীয় পূর্ব দিবালোক সময়
-    }
-  },
-  {
-    Key: Australia/Currie,
-    Value: {
-      Generic: পূর্ব অস্ট্রেলীয় সময়,
-      Standard: অস্ট্রেলীয় পূর্ব মানক সময়,
-      Daylight: অস্ট্রেলীয় পূর্ব দিবালোক সময়
-    }
-  },
-  {
-    Key: Australia/Darwin,
-    Value: {
-      Generic: কেন্দ্রীয় অস্ট্রেলীয় সময়,
-      Standard: অস্ট্রেলীয় কেন্দ্রীয় মানক সময়,
-      Daylight: অস্ট্রেলীয় কেন্দ্রীয় দিবালোক সময়
-    }
-  },
-  {
-    Key: Australia/Eucla,
-    Value: {
-      Generic: অস্ট্রেলীয় কেন্দ্রীয় পশ্চিমি সময়,
-      Standard: অস্ট্রেলীয় কেন্দ্রীয় পশ্চিমি মানক সময়,
-      Daylight: অস্ট্রেলীয় কেন্দ্রীয় পশ্চিমি দিবালোক সময়
-    }
-  },
-  {
-    Key: Australia/Hobart,
-    Value: {
-      Generic: পূর্ব অস্ট্রেলীয় সময়,
-      Standard: অস্ট্রেলীয় পূর্ব মানক সময়,
-      Daylight: অস্ট্রেলীয় পূর্ব দিবালোক সময়
-    }
-  },
-  {
-    Key: Australia/LHI,
-    Value: {
-      Generic: লর্ড হাওয়ে সময়,
-      Standard: লর্ড হাওয়ে মানক মসয়,
-      Daylight: লর্ড হাওয়ে দিবালোক মসয়
-    }
-  },
-  {
-    Key: Australia/Lindeman,
-    Value: {
-      Generic: পূর্ব অস্ট্রেলীয় সময়,
-      Standard: অস্ট্রেলীয় পূর্ব মানক সময়,
-      Daylight: অস্ট্রেলীয় পূর্ব দিবালোক সময়
-    }
-  },
-  {
-    Key: Australia/Lord_Howe,
-    Value: {
-      Generic: লর্ড হাওয়ে সময়,
-      Standard: লর্ড হাওয়ে মানক মসয়,
-      Daylight: লর্ড হাওয়ে দিবালোক মসয়
-    }
-  },
-  {
-    Key: Australia/Melbourne,
-    Value: {
-      Generic: পূর্ব অস্ট্রেলীয় সময়,
-      Standard: অস্ট্রেলীয় পূর্ব মানক সময়,
-      Daylight: অস্ট্রেলীয় পূর্ব দিবালোক সময়
-    }
-  },
-  {
-    Key: Australia/North,
-    Value: {
-      Generic: কেন্দ্রীয় অস্ট্রেলীয় সময়,
-      Standard: অস্ট্রেলীয় কেন্দ্রীয় মানক সময়,
-      Daylight: অস্ট্রেলীয় কেন্দ্রীয় দিবালোক সময়
-    }
-  },
-  {
-    Key: Australia/NSW,
-    Value: {
-      Generic: পূর্ব অস্ট্রেলীয় সময়,
-      Standard: অস্ট্রেলীয় পূর্ব মানক সময়,
-      Daylight: অস্ট্রেলীয় পূর্ব দিবালোক সময়
-    }
-  },
-  {
-    Key: Australia/Perth,
-    Value: {
-      Generic: পশ্চিমি অস্ট্রেলীয় সময়,
-      Standard: অস্ট্রেলীয় পশ্চিমি মানক সময়,
-      Daylight: অস্ট্রেলীয় পশ্চিমি দিবালোক সময়
-    }
-  },
-  {
-    Key: Australia/Queensland,
-    Value: {
-      Generic: পূর্ব অস্ট্রেলীয় সময়,
-      Standard: অস্ট্রেলীয় পূর্ব মানক সময়,
-      Daylight: অস্ট্রেলীয় পূর্ব দিবালোক সময়
-    }
-  },
-  {
-    Key: Australia/South,
-    Value: {
-      Generic: কেন্দ্রীয় অস্ট্রেলীয় সময়,
-      Standard: অস্ট্রেলীয় কেন্দ্রীয় মানক সময়,
-      Daylight: অস্ট্রেলীয় কেন্দ্রীয় দিবালোক সময়
-    }
-  },
-  {
-    Key: Australia/Sydney,
-    Value: {
-      Generic: পূর্ব অস্ট্রেলীয় সময়,
-      Standard: অস্ট্রেলীয় পূর্ব মানক সময়,
-      Daylight: অস্ট্রেলীয় পূর্ব দিবালোক সময়
-    }
-  },
-  {
-    Key: Australia/Tasmania,
-    Value: {
-      Generic: পূর্ব অস্ট্রেলীয় সময়,
-      Standard: অস্ট্রেলীয় পূর্ব মানক সময়,
-      Daylight: অস্ট্রেলীয় পূর্ব দিবালোক সময়
-    }
-  },
-  {
-    Key: Australia/Victoria,
-    Value: {
-      Generic: পূর্ব অস্ট্রেলীয় সময়,
-      Standard: অস্ট্রেলীয় পূর্ব মানক সময়,
-      Daylight: অস্ট্রেলীয় পূর্ব দিবালোক সময়
-    }
-  },
-  {
-    Key: Australia/West,
-    Value: {
-      Generic: পশ্চিমি অস্ট্রেলীয় সময়,
-      Standard: অস্ট্রেলীয় পশ্চিমি মানক সময়,
-      Daylight: অস্ট্রেলীয় পশ্চিমি দিবালোক সময়
-    }
-  },
-  {
-    Key: Australia/Yancowinna,
-    Value: {
-      Generic: কেন্দ্রীয় অস্ট্রেলীয় সময়,
-      Standard: অস্ট্রেলীয় কেন্দ্রীয় মানক সময়,
-      Daylight: অস্ট্রেলীয় কেন্দ্রীয় দিবালোক সময়
-    }
-  },
-  {
-    Key: Brazil/Acre,
-    Value: {
-      Generic: একর সময়,
-      Standard: একর মানক সময়,
-      Daylight: একর গ্রীষ্মকাল সময়
-    }
-  },
-  {
-    Key: Brazil/DeNoronha,
-    Value: {
-      Generic: ফার্নান্দো ডি নোরোনহা সময়,
-      Standard: ফার্নান্দো ডি নোরোনহা মানক সময়,
-      Daylight: ফার্নান্দো ডি নোরোনহা গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Brazil/East,
-    Value: {
-      Generic: ব্রাসিলিয়া সময়,
-      Standard: ব্রাসিলিয়া মানক সময়,
-      Daylight: ব্রাসিলিয়া গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Brazil/West,
-    Value: {
-      Generic: অ্যামাজন সময়,
-      Standard: আমাজন মানক সময়,
-      Daylight: অ্যামাজন গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Canada/Atlantic,
-    Value: {
-      Generic: অতলান্তিকের সময়,
-      Standard: অতলান্তিক মানক সময়,
-      Daylight: অতলান্তিক দিবালোক সময়
-    }
-  },
-  {
-    Key: Canada/Central,
-    Value: {
-      Generic: কেন্দ্রীয় সময়,
-      Standard: কেন্দ্রীয় মানক সময়,
-      Daylight: কেন্দ্রীয় দিবালোক সময়
-    }
-  },
-  {
-    Key: Canada/Eastern,
-    Value: {
-      Generic: পূর্বাঞ্চলীয় সময়,
-      Standard: পূর্বাঞ্চলের প্রমাণ সময়,
-      Daylight: পূর্বাঞ্চলের দিবালোক সময়
-    }
-  },
-  {
-    Key: Canada/Mountain,
-    Value: {
-      Generic: পার্বত্য অঞ্চলের সময়,
-      Standard: পার্বত্য অঞ্চলের প্রমাণ সময়,
-      Daylight: পার্বত্য অঞ্চলের দিনের সময়
-    }
-  },
-  {
-    Key: Canada/Newfoundland,
-    Value: {
-      Generic: নিউফাউন্ডল্যান্ড সময়,
-      Standard: নিউফাউন্ডল্যান্ড মানক সময়,
-      Daylight: নিউফাউন্ডল্যান্ড দিবালোক সময়
-    }
-  },
-  {
-    Key: Canada/Pacific,
-    Value: {
-      Generic: প্রশান্ত মহাসাগরীয় অঞ্চলের সময়,
-      Standard: প্রশান্ত মহাসাগরীয় অঞ্চলের মানক সময়,
-      Daylight: প্রশান্ত মহাসাগরীয় অঞ্চলের দিনের সময়
-    }
-  },
-  {
-    Key: Canada/Saskatchewan,
-    Value: {
-      Generic: কেন্দ্রীয় সময়,
-      Standard: কেন্দ্রীয় মানক সময়,
-      Daylight: কেন্দ্রীয় দিবালোক সময়
-    }
-  },
-  {
-    Key: Canada/Yukon,
-    Value: {
-      Generic: ইউকোন সময়,
-      Standard: ইউকোন সময়,
-      Daylight: ইউকোন সময়
-    }
-  },
-  {
-    Key: CET,
-    Value: {
-      Generic: মধ্য ইউরোপীয় সময়,
-      Standard: মধ্য ইউরোপীয় মানক সময়,
-      Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Chile/Continental,
-    Value: {
-      Generic: চিলি সময়,
-      Standard: চিলি মানক সময়,
-      Daylight: চিলি গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Chile/EasterIsland,
-    Value: {
-      Generic: ইস্টার দ্বীপ সময়,
-      Standard: ইস্টার দ্বীপ মানক সময়,
-      Daylight: ইস্টার দ্বীপ গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: CST6CDT,
-    Value: {
-      Generic: কেন্দ্রীয় সময়,
-      Standard: কেন্দ্রীয় মানক সময়,
-      Daylight: কেন্দ্রীয় দিবালোক সময়
-    }
-  },
-  {
-    Key: Cuba,
-    Value: {
-      Generic: কিউবার সময়,
-      Standard: কিউবা মানক সময়,
-      Daylight: কিউবা দিবালোক সময়
-    }
-  },
-  {
-    Key: EET,
-    Value: {
-      Generic: পূর্ব ইউরোপীয় সময়,
-      Standard: পূর্ব ইউরোপীয় মানক সময়,
-      Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Egypt,
-    Value: {
-      Generic: পূর্ব ইউরোপীয় সময়,
-      Standard: পূর্ব ইউরোপীয় মানক সময়,
-      Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Eire,
-    Value: {
-      Generic: আয়ারল্যান্ড সময়,
-      Standard: গ্রীনিচ মিন টাইম,
-      Daylight: আইরিশ মানক সময়
-    }
-  },
-  {
-    Key: EST,
-    Value: {
-      Generic: স্থানাংকিত আন্তর্জাতিক সময় -5,
-      Standard: স্থানাংকিত আন্তর্জাতিক সময় -5,
-      Daylight: স্থানাংকিত আন্তর্জাতিক সময় -5
-    }
-  },
-  {
-    Key: EST5EDT,
-    Value: {
-      Generic: পূর্বাঞ্চলীয় সময়,
-      Standard: পূর্বাঞ্চলের প্রমাণ সময়,
-      Daylight: পূর্বাঞ্চলের দিবালোক সময়
-    }
-  },
-  {
-    Key: Etc/GMT,
-    Value: {
-      Generic: গ্রীনিচ মিন টাইম,
-      Standard: গ্রীনিচ মিন টাইম,
-      Daylight: গ্রীনিচ মিন টাইম
-    }
-  },
-  {
-    Key: Etc/GMT-0,
-    Value: {
-      Generic: গ্রীনিচ মিন টাইম,
-      Standard: গ্রীনিচ মিন টাইম,
-      Daylight: গ্রীনিচ মিন টাইম
-    }
-  },
-  {
-    Key: Etc/GMT-1,
-    Value: {
-      Generic: স্থানাংকিত আন্তর্জাতিক সময় +1,
-      Standard: স্থানাংকিত আন্তর্জাতিক সময় +1,
-      Daylight: স্থানাংকিত আন্তর্জাতিক সময় +1
-    }
-  },
-  {
-    Key: Etc/GMT-10,
-    Value: {
-      Generic: স্থানাংকিত আন্তর্জাতিক সময় +10,
-      Standard: স্থানাংকিত আন্তর্জাতিক সময় +10,
-      Daylight: স্থানাংকিত আন্তর্জাতিক সময় +10
-    }
-  },
-  {
-    Key: Etc/GMT-11,
-    Value: {
-      Generic: স্থানাংকিত আন্তর্জাতিক সময় +11,
-      Standard: স্থানাংকিত আন্তর্জাতিক সময় +11,
-      Daylight: স্থানাংকিত আন্তর্জাতিক সময় +11
-    }
-  },
-  {
-    Key: Etc/GMT-12,
-    Value: {
-      Generic: স্থানাংকিত আন্তর্জাতিক সময় +12,
-      Standard: স্থানাংকিত আন্তর্জাতিক সময় +12,
-      Daylight: স্থানাংকিত আন্তর্জাতিক সময় +12
-    }
-  },
-  {
-    Key: Etc/GMT-13,
-    Value: {
-      Generic: স্থানাংকিত আন্তর্জাতিক সময় +13,
-      Standard: স্থানাংকিত আন্তর্জাতিক সময় +13,
-      Daylight: স্থানাংকিত আন্তর্জাতিক সময় +13
-    }
-  },
-  {
-    Key: Etc/GMT-14,
-    Value: {
-      Generic: স্থানাংকিত আন্তর্জাতিক সময় +14,
-      Standard: স্থানাংকিত আন্তর্জাতিক সময় +14,
-      Daylight: স্থানাংকিত আন্তর্জাতিক সময় +14
-    }
-  },
-  {
-    Key: Etc/GMT-2,
-    Value: {
-      Generic: স্থানাংকিত আন্তর্জাতিক সময় +2,
-      Standard: স্থানাংকিত আন্তর্জাতিক সময় +2,
-      Daylight: স্থানাংকিত আন্তর্জাতিক সময় +2
-    }
-  },
-  {
-    Key: Etc/GMT-3,
-    Value: {
-      Generic: স্থানাংকিত আন্তর্জাতিক সময় +3,
-      Standard: স্থানাংকিত আন্তর্জাতিক সময় +3,
-      Daylight: স্থানাংকিত আন্তর্জাতিক সময় +3
-    }
-  },
-  {
-    Key: Etc/GMT-4,
-    Value: {
-      Generic: স্থানাংকিত আন্তর্জাতিক সময় +4,
-      Standard: স্থানাংকিত আন্তর্জাতিক সময় +4,
-      Daylight: স্থানাংকিত আন্তর্জাতিক সময় +4
-    }
-  },
-  {
-    Key: Etc/GMT-5,
-    Value: {
-      Generic: স্থানাংকিত আন্তর্জাতিক সময় +5,
-      Standard: স্থানাংকিত আন্তর্জাতিক সময় +5,
-      Daylight: স্থানাংকিত আন্তর্জাতিক সময় +5
-    }
-  },
-  {
-    Key: Etc/GMT-6,
-    Value: {
-      Generic: স্থানাংকিত আন্তর্জাতিক সময় +6,
-      Standard: স্থানাংকিত আন্তর্জাতিক সময় +6,
-      Daylight: স্থানাংকিত আন্তর্জাতিক সময় +6
-    }
-  },
-  {
-    Key: Etc/GMT-7,
-    Value: {
-      Generic: স্থানাংকিত আন্তর্জাতিক সময় +7,
-      Standard: স্থানাংকিত আন্তর্জাতিক সময় +7,
-      Daylight: স্থানাংকিত আন্তর্জাতিক সময় +7
-    }
-  },
-  {
-    Key: Etc/GMT-8,
-    Value: {
-      Generic: স্থানাংকিত আন্তর্জাতিক সময় +8,
-      Standard: স্থানাংকিত আন্তর্জাতিক সময় +8,
-      Daylight: স্থানাংকিত আন্তর্জাতিক সময় +8
-    }
-  },
-  {
-    Key: Etc/GMT-9,
-    Value: {
-      Generic: স্থানাংকিত আন্তর্জাতিক সময় +9,
-      Standard: স্থানাংকিত আন্তর্জাতিক সময় +9,
-      Daylight: স্থানাংকিত আন্তর্জাতিক সময় +9
-    }
-  },
-  {
-    Key: Etc/GMT+0,
-    Value: {
-      Generic: গ্রীনিচ মিন টাইম,
-      Standard: গ্রীনিচ মিন টাইম,
-      Daylight: গ্রীনিচ মিন টাইম
-    }
-  },
-  {
-    Key: Etc/GMT+1,
-    Value: {
-      Generic: স্থানাংকিত আন্তর্জাতিক সময় -1,
-      Standard: স্থানাংকিত আন্তর্জাতিক সময় -1,
-      Daylight: স্থানাংকিত আন্তর্জাতিক সময় -1
-    }
-  },
-  {
-    Key: Etc/GMT+10,
-    Value: {
-      Generic: স্থানাংকিত আন্তর্জাতিক সময় -10,
-      Standard: স্থানাংকিত আন্তর্জাতিক সময় -10,
-      Daylight: স্থানাংকিত আন্তর্জাতিক সময় -10
-    }
-  },
-  {
-    Key: Etc/GMT+11,
-    Value: {
-      Generic: স্থানাংকিত আন্তর্জাতিক সময় -11,
-      Standard: স্থানাংকিত আন্তর্জাতিক সময় -11,
-      Daylight: স্থানাংকিত আন্তর্জাতিক সময় -11
-    }
-  },
-  {
-    Key: Etc/GMT+12,
-    Value: {
-      Generic: স্থানাংকিত আন্তর্জাতিক সময় -12,
-      Standard: স্থানাংকিত আন্তর্জাতিক সময় -12,
-      Daylight: স্থানাংকিত আন্তর্জাতিক সময় -12
-    }
-  },
-  {
-    Key: Etc/GMT+2,
-    Value: {
-      Generic: স্থানাংকিত আন্তর্জাতিক সময় -2,
-      Standard: স্থানাংকিত আন্তর্জাতিক সময় -2,
-      Daylight: স্থানাংকিত আন্তর্জাতিক সময় -2
-    }
-  },
-  {
-    Key: Etc/GMT+3,
-    Value: {
-      Generic: স্থানাংকিত আন্তর্জাতিক সময় -3,
-      Standard: স্থানাংকিত আন্তর্জাতিক সময় -3,
-      Daylight: স্থানাংকিত আন্তর্জাতিক সময় -3
-    }
-  },
-  {
-    Key: Etc/GMT+4,
-    Value: {
-      Generic: স্থানাংকিত আন্তর্জাতিক সময় -4,
-      Standard: স্থানাংকিত আন্তর্জাতিক সময় -4,
-      Daylight: স্থানাংকিত আন্তর্জাতিক সময় -4
-    }
-  },
-  {
-    Key: Etc/GMT+5,
-    Value: {
-      Generic: স্থানাংকিত আন্তর্জাতিক সময় -5,
-      Standard: স্থানাংকিত আন্তর্জাতিক সময় -5,
-      Daylight: স্থানাংকিত আন্তর্জাতিক সময় -5
-    }
-  },
-  {
-    Key: Etc/GMT+6,
-    Value: {
-      Generic: স্থানাংকিত আন্তর্জাতিক সময় -6,
-      Standard: স্থানাংকিত আন্তর্জাতিক সময় -6,
-      Daylight: স্থানাংকিত আন্তর্জাতিক সময় -6
-    }
-  },
-  {
-    Key: Etc/GMT+7,
-    Value: {
-      Generic: স্থানাংকিত আন্তর্জাতিক সময় -7,
-      Standard: স্থানাংকিত আন্তর্জাতিক সময় -7,
-      Daylight: স্থানাংকিত আন্তর্জাতিক সময় -7
-    }
-  },
-  {
-    Key: Etc/GMT+8,
-    Value: {
-      Generic: স্থানাংকিত আন্তর্জাতিক সময় -8,
-      Standard: স্থানাংকিত আন্তর্জাতিক সময় -8,
-      Daylight: স্থানাংকিত আন্তর্জাতিক সময় -8
-    }
-  },
-  {
-    Key: Etc/GMT+9,
-    Value: {
-      Generic: স্থানাংকিত আন্তর্জাতিক সময় -9,
-      Standard: স্থানাংকিত আন্তর্জাতিক সময় -9,
-      Daylight: স্থানাংকিত আন্তর্জাতিক সময় -9
-    }
-  },
-  {
-    Key: Etc/GMT0,
-    Value: {
-      Generic: গ্রীনিচ মিন টাইম,
-      Standard: গ্রীনিচ মিন টাইম,
-      Daylight: গ্রীনিচ মিন টাইম
-    }
-  },
-  {
-    Key: Etc/Greenwich,
-    Value: {
-      Generic: গ্রীনিচ মিন টাইম,
-      Standard: গ্রীনিচ মিন টাইম,
-      Daylight: গ্রীনিচ মিন টাইম
-    }
-  },
-  {
-    Key: Etc/UCT,
-    Value: {
-      Generic: স্থানাংকিত আন্তর্জাতিক সময়,
-      Standard: স্থানাংকিত আন্তর্জাতিক সময়,
-      Daylight: স্থানাংকিত আন্তর্জাতিক সময়
-    }
-  },
-  {
-    Key: Etc/Universal,
-    Value: {
-      Generic: স্থানাংকিত আন্তর্জাতিক সময়,
-      Standard: স্থানাংকিত আন্তর্জাতিক সময়,
-      Daylight: স্থানাংকিত আন্তর্জাতিক সময়
-    }
-  },
-  {
-    Key: Etc/UTC,
-    Value: {
-      Generic: স্থানাংকিত আন্তর্জাতিক সময়,
-      Standard: স্থানাংকিত আন্তর্জাতিক সময়,
-      Daylight: স্থানাংকিত আন্তর্জাতিক সময়
-    }
-  },
-  {
-    Key: Etc/Zulu,
-    Value: {
-      Generic: স্থানাংকিত আন্তর্জাতিক সময়,
-      Standard: স্থানাংকিত আন্তর্জাতিক সময়,
-      Daylight: স্থানাংকিত আন্তর্জাতিক সময়
-    }
-  },
-  {
-    Key: Europe/Amsterdam,
-    Value: {
-      Generic: মধ্য ইউরোপীয় সময়,
-      Standard: মধ্য ইউরোপীয় মানক সময়,
-      Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Andorra,
-    Value: {
-      Generic: মধ্য ইউরোপীয় সময়,
-      Standard: মধ্য ইউরোপীয় মানক সময়,
-      Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Astrakhan,
-    Value: {
-      Generic: আসট্রাখান সময়,
-      Standard: আসট্রাখান মানক সময়,
-      Daylight: আসট্রাখান দিবালোক সময়
-    }
-  },
-  {
-    Key: Europe/Athens,
-    Value: {
-      Generic: পূর্ব ইউরোপীয় সময়,
-      Standard: পূর্ব ইউরোপীয় মানক সময়,
-      Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Belfast,
-    Value: {
-      Generic: যুক্তরাজ্য সময়,
-      Standard: গ্রীনিচ মিন টাইম,
-      Daylight: ব্রিটিশ গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Belgrade,
-    Value: {
-      Generic: মধ্য ইউরোপীয় সময়,
-      Standard: মধ্য ইউরোপীয় মানক সময়,
-      Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Berlin,
-    Value: {
-      Generic: মধ্য ইউরোপীয় সময়,
-      Standard: মধ্য ইউরোপীয় মানক সময়,
-      Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Bratislava,
-    Value: {
-      Generic: মধ্য ইউরোপীয় সময়,
-      Standard: মধ্য ইউরোপীয় মানক সময়,
-      Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Brussels,
-    Value: {
-      Generic: মধ্য ইউরোপীয় সময়,
-      Standard: মধ্য ইউরোপীয় মানক সময়,
-      Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Bucharest,
-    Value: {
-      Generic: পূর্ব ইউরোপীয় সময়,
-      Standard: পূর্ব ইউরোপীয় মানক সময়,
-      Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Budapest,
-    Value: {
-      Generic: মধ্য ইউরোপীয় সময়,
-      Standard: মধ্য ইউরোপীয় মানক সময়,
-      Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Busingen,
-    Value: {
-      Generic: মধ্য ইউরোপীয় সময়,
-      Standard: মধ্য ইউরোপীয় মানক সময়,
-      Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Chisinau,
-    Value: {
-      Generic: পূর্ব ইউরোপীয় সময়,
-      Standard: পূর্ব ইউরোপীয় মানক সময়,
-      Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Copenhagen,
-    Value: {
-      Generic: মধ্য ইউরোপীয় সময়,
-      Standard: মধ্য ইউরোপীয় মানক সময়,
-      Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Dublin,
-    Value: {
-      Generic: আয়ারল্যান্ড সময়,
-      Standard: গ্রীনিচ মিন টাইম,
-      Daylight: আইরিশ মানক সময়
-    }
-  },
-  {
-    Key: Europe/Gibraltar,
-    Value: {
-      Generic: মধ্য ইউরোপীয় সময়,
-      Standard: মধ্য ইউরোপীয় মানক সময়,
-      Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Guernsey,
-    Value: {
-      Generic: গ্রীনিচ মিন টাইম,
-      Standard: গ্রীনিচ মিন টাইম,
-      Daylight: গ্রীনিচ মিন টাইম
-    }
-  },
-  {
-    Key: Europe/Helsinki,
-    Value: {
-      Generic: পূর্ব ইউরোপীয় সময়,
-      Standard: পূর্ব ইউরোপীয় মানক সময়,
-      Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Isle_of_Man,
-    Value: {
-      Generic: গ্রীনিচ মিন টাইম,
-      Standard: গ্রীনিচ মিন টাইম,
-      Daylight: গ্রীনিচ মিন টাইম
-    }
-  },
-  {
-    Key: Europe/Istanbul,
-    Value: {
-      Generic: তুরস্ক সময়,
-      Standard: তুরস্ক মানক সময়,
-      Daylight: তুরস্ক দিবালোক সময়
-    }
-  },
-  {
-    Key: Europe/Jersey,
-    Value: {
-      Generic: গ্রীনিচ মিন টাইম,
-      Standard: গ্রীনিচ মিন টাইম,
-      Daylight: গ্রীনিচ মিন টাইম
-    }
-  },
-  {
-    Key: Europe/Kaliningrad,
-    Value: {
-      Generic: কালিনিঙগ্রাড সময়,
-      Standard: কালিনিঙগ্রাড মানক সময়,
-      Daylight: কালিনিঙগ্রাড দিবালোক সময়
-    }
-  },
-  {
-    Key: Europe/Kiev,
-    Value: {
-      Generic: পূর্ব ইউরোপীয় সময়,
-      Standard: পূর্ব ইউরোপীয় মানক সময়,
-      Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Kirov,
-    Value: {
-      Generic: কিরোভ সময়,
-      Standard: কিরোভ মানক সময়,
-      Daylight: কিরোভ দিবালোক সময়
-    }
-  },
-  {
-    Key: Europe/Kyiv,
-    Value: {
-      Generic: ইউক্রেন সময়,
-      Standard: ইউক্রেন মানক সময়,
-      Daylight: ইউক্রেন দিবালোক সময়
-    }
-  },
-  {
-    Key: Europe/Lisbon,
-    Value: {
-      Generic: পশ্চিম ইউরোপীয় সময়,
-      Standard: পশ্চিম ইউরোপীয় মানক সময়,
-      Daylight: পশ্চিম ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Ljubljana,
-    Value: {
-      Generic: মধ্য ইউরোপীয় সময়,
-      Standard: মধ্য ইউরোপীয় মানক সময়,
-      Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/London,
-    Value: {
-      Generic: যুক্তরাজ্য সময়,
-      Standard: গ্রীনিচ মিন টাইম,
-      Daylight: ব্রিটিশ গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Luxembourg,
-    Value: {
-      Generic: মধ্য ইউরোপীয় সময়,
-      Standard: মধ্য ইউরোপীয় মানক সময়,
-      Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Madrid,
-    Value: {
-      Generic: মধ্য ইউরোপীয় সময়,
-      Standard: মধ্য ইউরোপীয় মানক সময়,
-      Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Malta,
-    Value: {
-      Generic: মধ্য ইউরোপীয় সময়,
-      Standard: মধ্য ইউরোপীয় মানক সময়,
-      Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Mariehamn,
-    Value: {
-      Generic: পূর্ব ইউরোপীয় সময়,
-      Standard: পূর্ব ইউরোপীয় মানক সময়,
-      Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Minsk,
-    Value: {
-      Generic: মস্কো সময়,
-      Standard: মস্কো মানক সময়,
-      Daylight: মস্কো গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Monaco,
-    Value: {
-      Generic: মধ্য ইউরোপীয় সময়,
-      Standard: মধ্য ইউরোপীয় মানক সময়,
-      Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Moscow,
-    Value: {
-      Generic: মস্কো সময়,
-      Standard: মস্কো মানক সময়,
-      Daylight: মস্কো দিবালোক সময়
-    }
-  },
-  {
-    Key: Europe/Nicosia,
-    Value: {
-      Generic: পূর্ব ইউরোপীয় সময়,
-      Standard: পূর্ব ইউরোপীয় মানক সময়,
-      Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Oslo,
-    Value: {
-      Generic: মধ্য ইউরোপীয় সময়,
-      Standard: মধ্য ইউরোপীয় মানক সময়,
-      Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Paris,
-    Value: {
-      Generic: মধ্য ইউরোপীয় সময়,
-      Standard: মধ্য ইউরোপীয় মানক সময়,
-      Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Podgorica,
-    Value: {
-      Generic: মধ্য ইউরোপীয় সময়,
-      Standard: মধ্য ইউরোপীয় মানক সময়,
-      Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Prague,
-    Value: {
-      Generic: মধ্য ইউরোপীয় সময়,
-      Standard: মধ্য ইউরোপীয় মানক সময়,
-      Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Riga,
-    Value: {
-      Generic: পূর্ব ইউরোপীয় সময়,
-      Standard: পূর্ব ইউরোপীয় মানক সময়,
-      Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Rome,
-    Value: {
-      Generic: মধ্য ইউরোপীয় সময়,
-      Standard: মধ্য ইউরোপীয় মানক সময়,
-      Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Samara,
-    Value: {
-      Generic: সামারা সময়,
-      Standard: সামারা মানক সময়,
-      Daylight: সামারা দিবালোক সময়
-    }
-  },
-  {
-    Key: Europe/San_Marino,
-    Value: {
-      Generic: মধ্য ইউরোপীয় সময়,
-      Standard: মধ্য ইউরোপীয় মানক সময়,
-      Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Sarajevo,
-    Value: {
-      Generic: মধ্য ইউরোপীয় সময়,
-      Standard: মধ্য ইউরোপীয় মানক সময়,
-      Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Saratov,
-    Value: {
-      Generic: সারাটোভ সময়,
-      Standard: সারাটোভ মানক সময়,
-      Daylight: সারাটোভ দিবালোক সময়
-    }
-  },
-  {
-    Key: Europe/Simferopol,
-    Value: {
-      Generic: মস্কো সময়,
-      Standard: মস্কো মানক সময়,
-      Daylight: মস্কো গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Skopje,
-    Value: {
-      Generic: মধ্য ইউরোপীয় সময়,
-      Standard: মধ্য ইউরোপীয় মানক সময়,
-      Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Sofia,
-    Value: {
-      Generic: পূর্ব ইউরোপীয় সময়,
-      Standard: পূর্ব ইউরোপীয় মানক সময়,
-      Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Stockholm,
-    Value: {
-      Generic: মধ্য ইউরোপীয় সময়,
-      Standard: মধ্য ইউরোপীয় মানক সময়,
-      Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Tallinn,
-    Value: {
-      Generic: পূর্ব ইউরোপীয় সময়,
-      Standard: পূর্ব ইউরোপীয় মানক সময়,
-      Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Tirane,
-    Value: {
-      Generic: মধ্য ইউরোপীয় সময়,
-      Standard: মধ্য ইউরোপীয় মানক সময়,
-      Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Tiraspol,
-    Value: {
-      Generic: পূর্ব ইউরোপীয় সময়,
-      Standard: পূর্ব ইউরোপীয় মানক সময়,
-      Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Ulyanovsk,
-    Value: {
-      Generic: উলিয়ানোভস্ক সময়,
-      Standard: উলিয়ানোভস্ক মানক সময়,
-      Daylight: উলিয়ানোভস্ক দিবালোক সময়
-    }
-  },
-  {
-    Key: Europe/Uzhgorod,
-    Value: {
-      Generic: পূর্ব ইউরোপীয় সময়,
-      Standard: পূর্ব ইউরোপীয় মানক সময়,
-      Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Vaduz,
-    Value: {
-      Generic: মধ্য ইউরোপীয় সময়,
-      Standard: মধ্য ইউরোপীয় মানক সময়,
-      Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Vatican,
-    Value: {
-      Generic: মধ্য ইউরোপীয় সময়,
-      Standard: মধ্য ইউরোপীয় মানক সময়,
-      Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Vienna,
-    Value: {
-      Generic: মধ্য ইউরোপীয় সময়,
-      Standard: মধ্য ইউরোপীয় মানক সময়,
-      Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Vilnius,
-    Value: {
-      Generic: পূর্ব ইউরোপীয় সময়,
-      Standard: পূর্ব ইউরোপীয় মানক সময়,
-      Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Volgograd,
-    Value: {
-      Generic: ভোল্গোগ্রাদ সময়,
-      Standard: ভোল্গোগ্রাদ মানক সময়,
-      Daylight: ভোল্গোগ্রাদ দিবালোক সময়
-    }
-  },
-  {
-    Key: Europe/Warsaw,
-    Value: {
-      Generic: মধ্য ইউরোপীয় সময়,
-      Standard: মধ্য ইউরোপীয় মানক সময়,
-      Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Zagreb,
-    Value: {
-      Generic: মধ্য ইউরোপীয় সময়,
-      Standard: মধ্য ইউরোপীয় মানক সময়,
-      Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Zaporozhye,
-    Value: {
-      Generic: পূর্ব ইউরোপীয় সময়,
-      Standard: পূর্ব ইউরোপীয় মানক সময়,
-      Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Europe/Zurich,
-    Value: {
-      Generic: মধ্য ইউরোপীয় সময়,
-      Standard: মধ্য ইউরোপীয় মানক সময়,
-      Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: GB,
-    Value: {
-      Generic: যুক্তরাজ্য সময়,
-      Standard: গ্রীনিচ মিন টাইম,
-      Daylight: ব্রিটিশ গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: GB-Eire,
-    Value: {
-      Generic: যুক্তরাজ্য সময়,
-      Standard: গ্রীনিচ মিন টাইম,
-      Daylight: ব্রিটিশ গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: GMT,
-    Value: {
-      Generic: গ্রীনিচ মিন টাইম,
-      Standard: গ্রীনিচ মিন টাইম,
-      Daylight: গ্রীনিচ মিন টাইম
-    }
-  },
-  {
-    Key: GMT-0,
-    Value: {
-      Generic: গ্রীনিচ মিন টাইম,
-      Standard: গ্রীনিচ মিন টাইম,
-      Daylight: গ্রীনিচ মিন টাইম
-    }
-  },
-  {
-    Key: GMT+0,
-    Value: {
-      Generic: গ্রীনিচ মিন টাইম,
-      Standard: গ্রীনিচ মিন টাইম,
-      Daylight: গ্রীনিচ মিন টাইম
-    }
-  },
-  {
-    Key: GMT0,
-    Value: {
-      Generic: গ্রীনিচ মিন টাইম,
-      Standard: গ্রীনিচ মিন টাইম,
-      Daylight: গ্রীনিচ মিন টাইম
-    }
-  },
-  {
-    Key: Greenwich,
-    Value: {
-      Generic: গ্রীনিচ মিন টাইম,
-      Standard: গ্রীনিচ মিন টাইম,
-      Daylight: গ্রীনিচ মিন টাইম
-    }
-  },
-  {
-    Key: Hongkong,
-    Value: {
-      Generic: হং কং সময়,
-      Standard: হং কং মানক সময়,
-      Daylight: হং কং গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: HST,
-    Value: {
-      Generic: স্থানাংকিত আন্তর্জাতিক সময় -10,
-      Standard: স্থানাংকিত আন্তর্জাতিক সময় -10,
-      Daylight: স্থানাংকিত আন্তর্জাতিক সময় -10
-    }
-  },
-  {
-    Key: Iceland,
-    Value: {
-      Generic: গ্রীনিচ মিন টাইম,
-      Standard: গ্রীনিচ মিন টাইম,
-      Daylight: গ্রীনিচ মিন টাইম
-    }
-  },
-  {
-    Key: Indian/Antananarivo,
-    Value: {
-      Generic: পূর্ব আফ্রিকা সময়,
-      Standard: পূর্ব আফ্রিকা সময়,
-      Daylight: পূর্ব আফ্রিকা সময়
-    }
-  },
-  {
-    Key: Indian/Chagos,
-    Value: {
-      Generic: ভারত মহাসাগরীয় সময়,
-      Standard: ভারত মহাসাগরীয় সময়,
-      Daylight: ভারত মহাসাগরীয় সময়
-    }
-  },
-  {
-    Key: Indian/Christmas,
-    Value: {
-      Generic: ক্রিসমাস দ্বীপ সময়,
-      Standard: ক্রিসমাস দ্বীপ সময়,
-      Daylight: ক্রিসমাস দ্বীপ সময়
-    }
-  },
-  {
-    Key: Indian/Cocos,
-    Value: {
-      Generic: কোকোস দ্বীপপুঞ্জ সময়,
-      Standard: কোকোস দ্বীপপুঞ্জ সময়,
-      Daylight: কোকোস দ্বীপপুঞ্জ সময়
-    }
-  },
-  {
-    Key: Indian/Comoro,
-    Value: {
-      Generic: পূর্ব আফ্রিকা সময়,
-      Standard: পূর্ব আফ্রিকা সময়,
-      Daylight: পূর্ব আফ্রিকা সময়
-    }
-  },
-  {
-    Key: Indian/Kerguelen,
-    Value: {
-      Generic: ফরাসি দক্ষিণ এবং আন্টার্কটিক সময়,
-      Standard: ফরাসি দক্ষিণ এবং আন্টার্কটিক সময়,
-      Daylight: ফরাসি দক্ষিণ এবং আন্টার্কটিক সময়
-    }
-  },
-  {
-    Key: Indian/Mahe,
-    Value: {
-      Generic: সেশেলস সময়,
-      Standard: সেশেলস সময়,
-      Daylight: সেশেলস সময়
-    }
-  },
-  {
-    Key: Indian/Maldives,
-    Value: {
-      Generic: মালদ্বীপ সময়,
-      Standard: মালদ্বীপ সময়,
-      Daylight: মালদ্বীপ সময়
-    }
-  },
-  {
-    Key: Indian/Mauritius,
-    Value: {
-      Generic: মরিশাস সময়,
-      Standard: মরিশাস মানক সময়,
-      Daylight: মরিশাস গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Indian/Mayotte,
-    Value: {
-      Generic: পূর্ব আফ্রিকা সময়,
-      Standard: পূর্ব আফ্রিকা সময়,
-      Daylight: পূর্ব আফ্রিকা সময়
-    }
-  },
-  {
-    Key: Indian/Reunion,
-    Value: {
-      Generic: রিইউনিয়ন সময়,
-      Standard: রিইউনিয়ন সময়,
-      Daylight: রিইউনিয়ন সময়
-    }
-  },
-  {
-    Key: Iran,
-    Value: {
-      Generic: ইরান সময়,
-      Standard: ইরান মানক সময়,
-      Daylight: ইরান দিবালোক সময়
-    }
-  },
-  {
-    Key: Israel,
-    Value: {
-      Generic: ইজরায়েল সময়,
-      Standard: ইজরায়েল মানক সময়,
-      Daylight: ইজরায়েল দিবালোক সময়
-    }
-  },
-  {
-    Key: Jamaica,
-    Value: {
-      Generic: পূর্বাঞ্চলীয় সময়,
-      Standard: পূর্বাঞ্চলের প্রমাণ সময়,
-      Daylight: পূর্বাঞ্চলের দিবালোক সময়
-    }
-  },
-  {
-    Key: Japan,
-    Value: {
-      Generic: জাপান সময়,
-      Standard: জাপান মানক সময়,
-      Daylight: জাপান দিবালোক সময়
-    }
-  },
-  {
-    Key: Kwajalein,
-    Value: {
-      Generic: মার্শাল দ্বীপপুঞ্জ সময়,
-      Standard: মার্শাল দ্বীপপুঞ্জ সময়,
-      Daylight: মার্শাল দ্বীপপুঞ্জ সময়
-    }
-  },
-  {
-    Key: Libya,
-    Value: {
-      Generic: পূর্ব ইউরোপীয় সময়,
-      Standard: পূর্ব ইউরোপীয় মানক সময়,
-      Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: MET,
-    Value: {
-      Generic: মধ্য ইউরোপীয় সময়,
-      Standard: মধ্য ইউরোপীয় মানক সময়,
-      Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Mexico/BajaNorte,
-    Value: {
-      Generic: প্রশান্ত মহাসাগরীয় অঞ্চলের সময়,
-      Standard: প্রশান্ত মহাসাগরীয় অঞ্চলের মানক সময়,
-      Daylight: প্রশান্ত মহাসাগরীয় অঞ্চলের দিনের সময়
-    }
-  },
-  {
-    Key: Mexico/BajaSur,
-    Value: {
-      Generic: মেক্সিকান প্রশান্ত মহাসাগরীয় সময়,
-      Standard: মেক্সিকান প্রশান্ত মহসাগরীয় মানক সময়,
-      Daylight: মেক্সিকান প্রশান্ত মহাসাগরীয় দিবালোক সময়
-    }
-  },
-  {
-    Key: Mexico/General,
-    Value: {
-      Generic: কেন্দ্রীয় সময়,
-      Standard: কেন্দ্রীয় মানক সময়,
-      Daylight: কেন্দ্রীয় দিবালোক সময়
-    }
-  },
-  {
-    Key: MST,
-    Value: {
-      Generic: স্থানাংকিত আন্তর্জাতিক সময় -7,
-      Standard: স্থানাংকিত আন্তর্জাতিক সময় -7,
-      Daylight: স্থানাংকিত আন্তর্জাতিক সময় -7
-    }
-  },
-  {
-    Key: MST7MDT,
-    Value: {
-      Generic: পার্বত্য অঞ্চলের সময়,
-      Standard: পার্বত্য অঞ্চলের প্রমাণ সময়,
-      Daylight: পার্বত্য অঞ্চলের দিনের সময়
-    }
-  },
-  {
-    Key: Navajo,
-    Value: {
-      Generic: পার্বত্য অঞ্চলের সময়,
-      Standard: পার্বত্য অঞ্চলের প্রমাণ সময়,
-      Daylight: পার্বত্য অঞ্চলের দিনের সময়
-    }
-  },
-  {
-    Key: NZ,
-    Value: {
-      Generic: নিউজিল্যান্ড সময়,
-      Standard: নিউজিল্যান্ড মানক সময়,
-      Daylight: নিউজিল্যান্ড দিবালোক সময়
-    }
-  },
-  {
-    Key: NZ-CHAT,
-    Value: {
-      Generic: চ্যাথাম সময়,
-      Standard: চ্যাথাম মানক সময়,
-      Daylight: চ্যাথাম দিবালোক সময়
-    }
-  },
-  {
-    Key: Pacific/Apia,
-    Value: {
-      Generic: অপিয়া সময়,
-      Standard: অপিয়া মানক সময়,
-      Daylight: অপিয়া দিনের সময়
-    }
-  },
-  {
-    Key: Pacific/Auckland,
-    Value: {
-      Generic: নিউজিল্যান্ড সময়,
-      Standard: নিউজিল্যান্ড মানক সময়,
-      Daylight: নিউজিল্যান্ড দিবালোক সময়
-    }
-  },
-  {
-    Key: Pacific/Bougainville,
-    Value: {
-      Generic: পাপুয়া নিউ গিনি সময়,
-      Standard: পাপুয়া নিউ গিনি সময়,
-      Daylight: পাপুয়া নিউ গিনি সময়
-    }
-  },
-  {
-    Key: Pacific/Chatham,
-    Value: {
-      Generic: চ্যাথাম সময়,
-      Standard: চ্যাথাম মানক সময়,
-      Daylight: চ্যাথাম দিবালোক সময়
-    }
-  },
-  {
-    Key: Pacific/Chuuk,
-    Value: {
-      Generic: চুক সময়,
-      Standard: চুক সময়,
-      Daylight: চুক সময়
-    }
-  },
-  {
-    Key: Pacific/Easter,
-    Value: {
-      Generic: ইস্টার দ্বীপ সময়,
-      Standard: ইস্টার দ্বীপ মানক সময়,
-      Daylight: ইস্টার দ্বীপ গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Pacific/Efate,
-    Value: {
-      Generic: ভানুয়াতু সময়,
-      Standard: ভানুয়াতু মানক সময়,
-      Daylight: ভানুয়াতু গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Pacific/Enderbury,
-    Value: {
-      Generic: ফোনিক্স দ্বীপপুঞ্জ সময়,
-      Standard: ফোনিক্স দ্বীপপুঞ্জ সময়,
-      Daylight: ফোনিক্স দ্বীপপুঞ্জ সময়
-    }
-  },
-  {
-    Key: Pacific/Fakaofo,
-    Value: {
-      Generic: টোকেলাউ সময়,
-      Standard: টোকেলাউ সময়,
-      Daylight: টোকেলাউ সময়
-    }
-  },
-  {
-    Key: Pacific/Fiji,
-    Value: {
-      Generic: ফিজি সময়,
-      Standard: ফিজি মানক সময়,
-      Daylight: ফিজি গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Pacific/Funafuti,
-    Value: {
-      Generic: টুভালু সময়,
-      Standard: টুভালু সময়,
-      Daylight: টুভালু সময়
-    }
-  },
-  {
-    Key: Pacific/Galapagos,
-    Value: {
-      Generic: গালাপাগোস সময়,
-      Standard: গালাপাগোস সময়,
-      Daylight: গালাপাগোস সময়
-    }
-  },
-  {
-    Key: Pacific/Gambier,
-    Value: {
-      Generic: গ্যাম্বিয়ার সময়,
-      Standard: গ্যাম্বিয়ার সময়,
-      Daylight: গ্যাম্বিয়ার সময়
-    }
-  },
-  {
-    Key: Pacific/Guadalcanal,
-    Value: {
-      Generic: সলোমন দ্বীপপুঞ্জ সময়,
-      Standard: সলোমন দ্বীপপুঞ্জ সময়,
-      Daylight: সলোমন দ্বীপপুঞ্জ সময়
-    }
-  },
-  {
-    Key: Pacific/Guam,
-    Value: {
-      Generic: চামেরো মানক সময়,
-      Standard: চামেরো মানক সময়,
-      Daylight: চামেরো মানক সময়
-    }
-  },
-  {
-    Key: Pacific/Honolulu,
-    Value: {
-      Generic: হাওয়াই অ্যালিউটিয়ান সময়,
-      Standard: হাওয়াই-আলেউত মানক সময়,
-      Daylight: হাওয়াই-আলেউত দিবালোক সময়
-    }
-  },
-  {
-    Key: Pacific/Johnston,
-    Value: {
-      Generic: হাওয়াই অ্যালিউটিয়ান সময়,
-      Standard: হাওয়াই-আলেউত মানক সময়,
-      Daylight: হাওয়াই-আলেউত দিবালোক সময়
-    }
-  },
-  {
-    Key: Pacific/Kanton,
-    Value: {
-      Generic: ফোনিক্স দ্বীপপুঞ্জ সময়,
-      Standard: ফোনিক্স দ্বীপপুঞ্জ সময়,
-      Daylight: ফোনিক্স দ্বীপপুঞ্জ সময়
-    }
-  },
-  {
-    Key: Pacific/Kiritimati,
-    Value: {
-      Generic: লাইন দ্বীপপুঞ্জ সময়,
-      Standard: লাইন দ্বীপপুঞ্জ সময়,
-      Daylight: লাইন দ্বীপপুঞ্জ সময়
-    }
-  },
-  {
-    Key: Pacific/Kosrae,
-    Value: {
-      Generic: কোসরেই সময়,
-      Standard: কোসরেই সময়,
-      Daylight: কোসরেই সময়
-    }
-  },
-  {
-    Key: Pacific/Kwajalein,
-    Value: {
-      Generic: মার্শাল দ্বীপপুঞ্জ সময়,
-      Standard: মার্শাল দ্বীপপুঞ্জ সময়,
-      Daylight: মার্শাল দ্বীপপুঞ্জ সময়
-    }
-  },
-  {
-    Key: Pacific/Majuro,
-    Value: {
-      Generic: মার্শাল দ্বীপপুঞ্জ সময়,
-      Standard: মার্শাল দ্বীপপুঞ্জ সময়,
-      Daylight: মার্শাল দ্বীপপুঞ্জ সময়
-    }
-  },
-  {
-    Key: Pacific/Marquesas,
-    Value: {
-      Generic: মার্কেসাস সময়,
-      Standard: মার্কেসাস সময়,
-      Daylight: মার্কেসাস সময়
-    }
-  },
-  {
-    Key: Pacific/Midway,
-    Value: {
-      Generic: সামোয়া সময়,
-      Standard: সামোয়া মানক সময়,
-      Daylight: সামোয়া দিবালোক সময়
-    }
-  },
-  {
-    Key: Pacific/Nauru,
-    Value: {
-      Generic: নাউরু সময়,
-      Standard: নাউরু সময়,
-      Daylight: নাউরু সময়
-    }
-  },
-  {
-    Key: Pacific/Niue,
-    Value: {
-      Generic: নিউই সময়,
-      Standard: নিউই সময়,
-      Daylight: নিউই সময়
-    }
-  },
-  {
-    Key: Pacific/Norfolk,
-    Value: {
-      Generic: নরফোক দ্বীপ সময়,
-      Standard: নরফোক দ্বীপ মানক সময়,
-      Daylight: নরফোক দ্বীপ দিবালোক সময়
-    }
-  },
-  {
-    Key: Pacific/Noumea,
-    Value: {
-      Generic: নিউ ক্যালেডোনিয়া সময়,
-      Standard: নিউ ক্যালেডোনিয়া মানক সময়,
-      Daylight: নিউ ক্যালেডোনিয়া গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Pacific/Pago_Pago,
-    Value: {
-      Generic: সামোয়া সময়,
-      Standard: সামোয়া মানক সময়,
-      Daylight: সামোয়া দিবালোক সময়
-    }
-  },
-  {
-    Key: Pacific/Palau,
-    Value: {
-      Generic: পালাউ সময়,
-      Standard: পালাউ সময়,
-      Daylight: পালাউ সময়
-    }
-  },
-  {
-    Key: Pacific/Pitcairn,
-    Value: {
-      Generic: পিটকেয়ার্ন সময়,
-      Standard: পিটকেয়ার্ন সময়,
-      Daylight: পিটকেয়ার্ন সময়
-    }
-  },
-  {
-    Key: Pacific/Pohnpei,
-    Value: {
-      Generic: পোনাপে সময়,
-      Standard: পোনাপে সময়,
-      Daylight: পোনাপে সময়
-    }
-  },
-  {
-    Key: Pacific/Ponape,
-    Value: {
-      Generic: পোনাপে সময়,
-      Standard: পোনাপে সময়,
-      Daylight: পোনাপে সময়
-    }
-  },
-  {
-    Key: Pacific/Port_Moresby,
-    Value: {
-      Generic: পাপুয়া নিউ গিনি সময়,
-      Standard: পাপুয়া নিউ গিনি সময়,
-      Daylight: পাপুয়া নিউ গিনি সময়
-    }
-  },
-  {
-    Key: Pacific/Rarotonga,
-    Value: {
-      Generic: কুক দ্বীপপুঞ্জ সময়,
-      Standard: কুক দ্বীপপুঞ্জ মানক সময়,
-      Daylight: কুক দ্বীপপুঞ্জ অর্ধেক গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Pacific/Saipan,
-    Value: {
-      Generic: চামেরো মানক সময়,
-      Standard: চামেরো মানক সময়,
-      Daylight: চামেরো মানক সময়
-    }
-  },
-  {
-    Key: Pacific/Samoa,
-    Value: {
-      Generic: সামোয়া সময়,
-      Standard: সামোয়া মানক সময়,
-      Daylight: সামোয়া দিবালোক সময়
-    }
-  },
-  {
-    Key: Pacific/Tahiti,
-    Value: {
-      Generic: তাহিতি সময়,
-      Standard: তাহিতি সময়,
-      Daylight: তাহিতি সময়
-    }
-  },
-  {
-    Key: Pacific/Tarawa,
-    Value: {
-      Generic: গিলবার্ট দ্বীপপুঞ্জ সময়,
-      Standard: গিলবার্ট দ্বীপপুঞ্জ সময়,
-      Daylight: গিলবার্ট দ্বীপপুঞ্জ সময়
-    }
-  },
-  {
-    Key: Pacific/Tongatapu,
-    Value: {
-      Generic: টোঙ্গা সময়,
-      Standard: টোঙ্গা মানক সময়,
-      Daylight: টোঙ্গা গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Pacific/Truk,
-    Value: {
-      Generic: চুক সময়,
-      Standard: চুক সময়,
-      Daylight: চুক সময়
-    }
-  },
-  {
-    Key: Pacific/Wake,
-    Value: {
-      Generic: ওয়েক দ্বীপ সময়,
-      Standard: ওয়েক দ্বীপ সময়,
-      Daylight: ওয়েক দ্বীপ সময়
-    }
-  },
-  {
-    Key: Pacific/Wallis,
-    Value: {
-      Generic: ওয়ালিস এবং ফুটুনা সময়,
-      Standard: ওয়ালিস এবং ফুটুনা সময়,
-      Daylight: ওয়ালিস এবং ফুটুনা সময়
-    }
-  },
-  {
-    Key: Pacific/Yap,
-    Value: {
-      Generic: চুক সময়,
-      Standard: চুক সময়,
-      Daylight: চুক সময়
-    }
-  },
-  {
-    Key: Poland,
-    Value: {
-      Generic: মধ্য ইউরোপীয় সময়,
-      Standard: মধ্য ইউরোপীয় মানক সময়,
-      Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Portugal,
-    Value: {
-      Generic: পশ্চিম ইউরোপীয় সময়,
-      Standard: পশ্চিম ইউরোপীয় মানক সময়,
-      Daylight: পশ্চিম ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: PRC,
-    Value: {
-      Generic: চীন সময়,
-      Standard: চীন মানক সময়,
-      Daylight: চীন দিবালোক সময়
-    }
-  },
-  {
-    Key: PST8PDT,
-    Value: {
-      Generic: প্রশান্ত মহাসাগরীয় অঞ্চলের সময়,
-      Standard: প্রশান্ত মহাসাগরীয় অঞ্চলের মানক সময়,
-      Daylight: প্রশান্ত মহাসাগরীয় অঞ্চলের দিনের সময়
-    }
-  },
-  {
-    Key: ROC,
-    Value: {
-      Generic: তাইপেই সময়,
-      Standard: তাইপেই মানক সময়,
-      Daylight: তাইপেই দিবালোক সময়
-    }
-  },
-  {
-    Key: ROK,
-    Value: {
-      Generic: কোরিয়ান সময়,
-      Standard: কোরিয়ান মানক সময়,
-      Daylight: কোরিয়ান দিবালোক সময়
-    }
-  },
-  {
-    Key: Singapore,
-    Value: {
-      Generic: সিঙ্গাপুর মানক সময়,
-      Standard: সিঙ্গাপুর মানক সময়,
-      Daylight: সিঙ্গাপুর মানক সময়
-    }
-  },
-  {
-    Key: Turkey,
-    Value: {
-      Generic: তুরস্ক সময়,
-      Standard: তুরস্ক মানক সময়,
-      Daylight: তুরস্ক দিবালোক সময়
-    }
-  },
-  {
-    Key: UCT,
-    Value: {
-      Generic: স্থানাংকিত আন্তর্জাতিক সময়,
-      Standard: স্থানাংকিত আন্তর্জাতিক সময়,
-      Daylight: স্থানাংকিত আন্তর্জাতিক সময়
-    }
-  },
-  {
-    Key: Universal,
-    Value: {
-      Generic: স্থানাংকিত আন্তর্জাতিক সময়,
-      Standard: স্থানাংকিত আন্তর্জাতিক সময়,
-      Daylight: স্থানাংকিত আন্তর্জাতিক সময়
-    }
-  },
-  {
-    Key: US/Alaska,
-    Value: {
-      Generic: আলাস্কা সময়,
-      Standard: আলাস্কা মানক সময়,
-      Daylight: আলাস্কা দিবালোক সময়
-    }
-  },
-  {
-    Key: US/Aleutian,
-    Value: {
-      Generic: হাওয়াই অ্যালিউটিয়ান সময়,
-      Standard: হাওয়াই-আলেউত মানক সময়,
-      Daylight: হাওয়াই-আলেউত দিবালোক সময়
-    }
-  },
-  {
-    Key: US/Arizona,
-    Value: {
-      Generic: পার্বত্য অঞ্চলের সময়,
-      Standard: পার্বত্য অঞ্চলের প্রমাণ সময়,
-      Daylight: পার্বত্য অঞ্চলের দিনের সময়
-    }
-  },
-  {
-    Key: US/Central,
-    Value: {
-      Generic: কেন্দ্রীয় সময়,
-      Standard: কেন্দ্রীয় মানক সময়,
-      Daylight: কেন্দ্রীয় দিবালোক সময়
-    }
-  },
-  {
-    Key: US/East-Indiana,
-    Value: {
-      Generic: পূর্বাঞ্চলীয় সময়,
-      Standard: পূর্বাঞ্চলের প্রমাণ সময়,
-      Daylight: পূর্বাঞ্চলের দিবালোক সময়
-    }
-  },
-  {
-    Key: US/Eastern,
-    Value: {
-      Generic: পূর্বাঞ্চলীয় সময়,
-      Standard: পূর্বাঞ্চলের প্রমাণ সময়,
-      Daylight: পূর্বাঞ্চলের দিবালোক সময়
-    }
-  },
-  {
-    Key: US/Hawaii,
-    Value: {
-      Generic: হাওয়াই অ্যালিউটিয়ান সময়,
-      Standard: হাওয়াই-আলেউত মানক সময়,
-      Daylight: হাওয়াই-আলেউত দিবালোক সময়
-    }
-  },
-  {
-    Key: US/Indiana-Starke,
-    Value: {
-      Generic: কেন্দ্রীয় সময়,
-      Standard: কেন্দ্রীয় মানক সময়,
-      Daylight: কেন্দ্রীয় দিবালোক সময়
-    }
-  },
-  {
-    Key: US/Michigan,
-    Value: {
-      Generic: পূর্বাঞ্চলীয় সময়,
-      Standard: পূর্বাঞ্চলের প্রমাণ সময়,
-      Daylight: পূর্বাঞ্চলের দিবালোক সময়
-    }
-  },
-  {
-    Key: US/Mountain,
-    Value: {
-      Generic: পার্বত্য অঞ্চলের সময়,
-      Standard: পার্বত্য অঞ্চলের প্রমাণ সময়,
-      Daylight: পার্বত্য অঞ্চলের দিনের সময়
-    }
-  },
-  {
-    Key: US/Pacific,
-    Value: {
-      Generic: প্রশান্ত মহাসাগরীয় অঞ্চলের সময়,
-      Standard: প্রশান্ত মহাসাগরীয় অঞ্চলের মানক সময়,
-      Daylight: প্রশান্ত মহাসাগরীয় অঞ্চলের দিনের সময়
-    }
-  },
-  {
-    Key: US/Samoa,
-    Value: {
-      Generic: সামোয়া সময়,
-      Standard: সামোয়া মানক সময়,
-      Daylight: সামোয়া দিবালোক সময়
-    }
-  },
-  {
-    Key: UTC,
-    Value: {
-      Generic: স্থানাংকিত আন্তর্জাতিক সময়,
-      Standard: স্থানাংকিত আন্তর্জাতিক সময়,
-      Daylight: স্থানাংকিত আন্তর্জাতিক সময়
-    }
-  },
-  {
-    Key: W-SU,
-    Value: {
-      Generic: মস্কো সময়,
-      Standard: মস্কো মানক সময়,
-      Daylight: মস্কো দিবালোক সময়
-    }
-  },
-  {
-    Key: WET,
-    Value: {
-      Generic: পশ্চিম ইউরোপীয় সময়,
-      Standard: পশ্চিম ইউরোপীয় মানক সময়,
-      Daylight: পশ্চিম ইউরোপীয় গ্রীষ্মকালীন সময়
-    }
-  },
-  {
-    Key: Zulu,
-    Value: {
-      Generic: স্থানাংকিত আন্তর্জাতিক সময়,
-      Standard: স্থানাংকিত আন্তর্জাতিক সময়,
-      Daylight: স্থানাংকিত আন্তর্জাতিক সময়
-    }
+﻿{
+  Australia/Darwin: {
+    Generic: কেন্দ্রীয় অস্ট্রেলীয় সময়,
+    Standard: অস্ট্রেলীয় কেন্দ্রীয় মানক সময়,
+    Daylight: অস্ট্রেলীয় কেন্দ্রীয় দিবালোক সময়
+  },
+  Australia/Sydney: {
+    Generic: পূর্ব অস্ট্রেলীয় সময়,
+    Standard: অস্ট্রেলীয় পূর্ব মানক সময়,
+    Daylight: অস্ট্রেলীয় পূর্ব দিবালোক সময়
+  },
+  Australia/Melbourne: {
+    Generic: পূর্ব অস্ট্রেলীয় সময়,
+    Standard: অস্ট্রেলীয় পূর্ব মানক সময়,
+    Daylight: অস্ট্রেলীয় পূর্ব দিবালোক সময়
+  },
+  Asia/Kabul: {
+    Generic: আফগানিস্তান সময়,
+    Standard: আফগানিস্তান সময়,
+    Daylight: আফগানিস্তান সময়
+  },
+  America/Anchorage: {
+    Generic: আলাস্কা সময়,
+    Standard: আলাস্কা মানক সময়,
+    Daylight: আলাস্কা দিবালোক সময়
+  },
+  America/Juneau: {
+    Generic: আলাস্কা সময়,
+    Standard: আলাস্কা মানক সময়,
+    Daylight: আলাস্কা দিবালোক সময়
+  },
+  America/Metlakatla: {
+    Generic: আলাস্কা সময়,
+    Standard: আলাস্কা মানক সময়,
+    Daylight: আলাস্কা দিবালোক সময়
+  },
+  America/Nome: {
+    Generic: আলাস্কা সময়,
+    Standard: আলাস্কা মানক সময়,
+    Daylight: আলাস্কা দিবালোক সময়
+  },
+  America/Sitka: {
+    Generic: আলাস্কা সময়,
+    Standard: আলাস্কা মানক সময়,
+    Daylight: আলাস্কা দিবালোক সময়
+  },
+  America/Yakutat: {
+    Generic: আলাস্কা সময়,
+    Standard: আলাস্কা মানক সময়,
+    Daylight: আলাস্কা দিবালোক সময়
+  },
+  America/Adak: {
+    Generic: হাওয়াই-আলেউত সময়,
+    Standard: হাওয়াই-আলেউত মানক সময়,
+    Daylight: হাওয়াই-আলেউত দিবালোক সময়
+  },
+  Asia/Barnaul: {
+    Generic: বার্নৌল সময়,
+    Standard: বার্নৌল মানক সময়,
+    Daylight: বার্নৌল দিবালোক সময়
+  },
+  Asia/Riyadh: {
+    Generic: আরবি সময়,
+    Standard: আরবি মানক সময়,
+    Daylight: আরবি দিবালোক সময়
+  },
+  Asia/Bahrain: {
+    Generic: আরবি সময়,
+    Standard: আরবি মানক সময়,
+    Daylight: আরবি দিবালোক সময়
+  },
+  Asia/Kuwait: {
+    Generic: আরবি সময়,
+    Standard: আরবি মানক সময়,
+    Daylight: আরবি দিবালোক সময়
+  },
+  Asia/Qatar: {
+    Generic: আরবি সময়,
+    Standard: আরবি মানক সময়,
+    Daylight: আরবি দিবালোক সময়
+  },
+  Asia/Aden: {
+    Generic: আরবি সময়,
+    Standard: আরবি মানক সময়,
+    Daylight: আরবি দিবালোক সময়
+  },
+  Asia/Dubai: {
+    Generic: উপসাগরীয় মানক সময়,
+    Standard: উপসাগরীয় মানক সময়,
+    Daylight: উপসাগরীয় মানক সময়
+  },
+  Asia/Muscat: {
+    Generic: উপসাগরীয় মানক সময়,
+    Standard: উপসাগরীয় মানক সময়,
+    Daylight: উপসাগরীয় মানক সময়
+  },
+  Etc/GMT-4: {
+    Generic: স্থানাংকিত আন্তর্জাতিক সময় +4,
+    Standard: স্থানাংকিত আন্তর্জাতিক সময় +4,
+    Daylight: স্থানাংকিত আন্তর্জাতিক সময় +4
+  },
+  Asia/Baghdad: {
+    Generic: আরবি সময়,
+    Standard: আরবি মানক সময়,
+    Daylight: আরবি দিবালোক সময়
+  },
+  America/Buenos_Aires: {
+    Generic: আর্জেন্টিনা সময়,
+    Standard: আর্জেন্টিনা মানক সময়,
+    Daylight: আর্জেন্টিনা গ্রীষ্মকালীন সময়
+  },
+  America/Argentina/La_Rioja: {
+    Generic: আর্জেন্টিনা সময়,
+    Standard: আর্জেন্টিনা মানক সময়,
+    Daylight: আর্জেন্টিনা গ্রীষ্মকালীন সময়
+  },
+  America/Argentina/Rio_Gallegos: {
+    Generic: আর্জেন্টিনা সময়,
+    Standard: আর্জেন্টিনা মানক সময়,
+    Daylight: আর্জেন্টিনা গ্রীষ্মকালীন সময়
+  },
+  America/Argentina/Salta: {
+    Generic: আর্জেন্টিনা সময়,
+    Standard: আর্জেন্টিনা মানক সময়,
+    Daylight: আর্জেন্টিনা গ্রীষ্মকালীন সময়
+  },
+  America/Argentina/San_Juan: {
+    Generic: আর্জেন্টিনা সময়,
+    Standard: আর্জেন্টিনা মানক সময়,
+    Daylight: আর্জেন্টিনা গ্রীষ্মকালীন সময়
+  },
+  America/Argentina/San_Luis: {
+    Generic: আর্জেন্টিনা সময়,
+    Standard: আর্জেন্টিনা মানক সময়,
+    Daylight: আর্জেন্টিনা গ্রীষ্মকালীন সময়
+  },
+  America/Argentina/Tucuman: {
+    Generic: আর্জেন্টিনা সময়,
+    Standard: আর্জেন্টিনা মানক সময়,
+    Daylight: আর্জেন্টিনা গ্রীষ্মকালীন সময়
+  },
+  America/Argentina/Ushuaia: {
+    Generic: আর্জেন্টিনা সময়,
+    Standard: আর্জেন্টিনা মানক সময়,
+    Daylight: আর্জেন্টিনা গ্রীষ্মকালীন সময়
+  },
+  America/Catamarca: {
+    Generic: আর্জেন্টিনা সময়,
+    Standard: আর্জেন্টিনা মানক সময়,
+    Daylight: আর্জেন্টিনা গ্রীষ্মকালীন সময়
+  },
+  America/Cordoba: {
+    Generic: আর্জেন্টিনা সময়,
+    Standard: আর্জেন্টিনা মানক সময়,
+    Daylight: আর্জেন্টিনা গ্রীষ্মকালীন সময়
+  },
+  America/Jujuy: {
+    Generic: আর্জেন্টিনা সময়,
+    Standard: আর্জেন্টিনা মানক সময়,
+    Daylight: আর্জেন্টিনা গ্রীষ্মকালীন সময়
+  },
+  America/Mendoza: {
+    Generic: আর্জেন্টিনা সময়,
+    Standard: আর্জেন্টিনা মানক সময়,
+    Daylight: আর্জেন্টিনা গ্রীষ্মকালীন সময়
+  },
+  Europe/Astrakhan: {
+    Generic: আসট্রাখান সময়,
+    Standard: আসট্রাখান মানক সময়,
+    Daylight: আসট্রাখান দিবালোক সময়
+  },
+  Europe/Ulyanovsk: {
+    Generic: উলিয়ানোভস্ক সময়,
+    Standard: উলিয়ানোভস্ক মানক সময়,
+    Daylight: উলিয়ানোভস্ক দিবালোক সময়
+  },
+  America/Halifax: {
+    Generic: অতলান্তিকের সময়,
+    Standard: অতলান্তিক মানক সময়,
+    Daylight: অতলান্তিক দিবালোক সময়
+  },
+  Atlantic/Bermuda: {
+    Generic: অতলান্তিকের সময়,
+    Standard: অতলান্তিক মানক সময়,
+    Daylight: অতলান্তিক দিবালোক সময়
+  },
+  America/Glace_Bay: {
+    Generic: অতলান্তিকের সময়,
+    Standard: অতলান্তিক মানক সময়,
+    Daylight: অতলান্তিক দিবালোক সময়
+  },
+  America/Goose_Bay: {
+    Generic: অতলান্তিকের সময়,
+    Standard: অতলান্তিক মানক সময়,
+    Daylight: অতলান্তিক দিবালোক সময়
+  },
+  America/Moncton: {
+    Generic: অতলান্তিকের সময়,
+    Standard: অতলান্তিক মানক সময়,
+    Daylight: অতলান্তিক দিবালোক সময়
+  },
+  America/Thule: {
+    Generic: অতলান্তিকের সময়,
+    Standard: অতলান্তিক মানক সময়,
+    Daylight: অতলান্তিক দিবালোক সময়
+  },
+  Australia/Eucla: {
+    Generic: অস্ট্রেলীয় কেন্দ্রীয় পশ্চিমি সময়,
+    Standard: অস্ট্রেলীয় কেন্দ্রীয় পশ্চিমি মানক সময়,
+    Daylight: অস্ট্রেলীয় কেন্দ্রীয় পশ্চিমি দিবালোক সময়
+  },
+  Asia/Baku: {
+    Generic: আজারবাইজান সময়,
+    Standard: আজারবাইজান মানক সময়,
+    Daylight: আজারবাইজান গ্রীষ্মকালীন সময়
+  },
+  Atlantic/Azores: {
+    Generic: এজোরেস সময়,
+    Standard: এজোরেস মানক সময়,
+    Daylight: এজোরেস গ্রীষ্মকালীন সময়
+  },
+  America/Scoresbysund: {
+    Generic: পূর্ব গ্রীনল্যান্ড সময়,
+    Standard: পূর্ব গ্রীনল্যান্ড মানক সময়,
+    Daylight: পূর্ব গ্রীনল্যান্ড গ্রীষ্মকালীন সময়
+  },
+  America/Bahia: {
+    Generic: ব্রাসিলিয়া সময়,
+    Standard: ব্রাসিলিয়া মানক সময়,
+    Daylight: ব্রাসিলিয়া গ্রীষ্মকালীন সময়
+  },
+  Asia/Dhaka: {
+    Generic: বাংলাদেশ সময়,
+    Standard: বাংলাদেশ মানক সময়,
+    Daylight: বাংলাদেশ গ্রীষ্মকালীন সময়
+  },
+  Asia/Thimphu: {
+    Generic: ভুটান সময়,
+    Standard: ভুটান সময়,
+    Daylight: ভুটান সময়
+  },
+  Europe/Minsk: {
+    Generic: মস্কো সময়,
+    Standard: মস্কো মানক সময়,
+    Daylight: মস্কো গ্রীষ্মকালীন সময়
+  },
+  Pacific/Bougainville: {
+    Generic: পাপুয়া নিউ গিনি সময়,
+    Standard: পাপুয়া নিউ গিনি সময়,
+    Daylight: পাপুয়া নিউ গিনি সময়
+  },
+  America/Regina: {
+    Generic: কেন্দ্রীয় সময়,
+    Standard: কেন্দ্রীয় মানক সময়,
+    Daylight: কেন্দ্রীয় দিবালোক সময়
+  },
+  America/Swift_Current: {
+    Generic: কেন্দ্রীয় সময়,
+    Standard: কেন্দ্রীয় মানক সময়,
+    Daylight: কেন্দ্রীয় দিবালোক সময়
+  },
+  Atlantic/Cape_Verde: {
+    Generic: কেপ ভার্দ সময়,
+    Standard: কেপ ভার্দ মানক সময়,
+    Daylight: কেপ ভার্দ গ্রীষ্মকালীন সময়
+  },
+  Etc/GMT+1: {
+    Generic: স্থানাংকিত আন্তর্জাতিক সময় -1,
+    Standard: স্থানাংকিত আন্তর্জাতিক সময় -1,
+    Daylight: স্থানাংকিত আন্তর্জাতিক সময় -1
+  },
+  Asia/Yerevan: {
+    Generic: আর্মেনিয়া সময়,
+    Standard: আর্মেনিয়া মানক সময়,
+    Daylight: আর্মেনিয়া গ্রীষ্মকালীন সময়
+  },
+  Australia/Adelaide: {
+    Generic: কেন্দ্রীয় অস্ট্রেলীয় সময়,
+    Standard: অস্ট্রেলীয় কেন্দ্রীয় মানক সময়,
+    Daylight: অস্ট্রেলীয় কেন্দ্রীয় দিবালোক সময়
+  },
+  Australia/Broken_Hill: {
+    Generic: কেন্দ্রীয় অস্ট্রেলীয় সময়,
+    Standard: অস্ট্রেলীয় কেন্দ্রীয় মানক সময়,
+    Daylight: অস্ট্রেলীয় কেন্দ্রীয় দিবালোক সময়
+  },
+  America/Guatemala: {
+    Generic: কেন্দ্রীয় সময়,
+    Standard: কেন্দ্রীয় মানক সময়,
+    Daylight: কেন্দ্রীয় দিবালোক সময়
+  },
+  America/Belize: {
+    Generic: কেন্দ্রীয় সময়,
+    Standard: কেন্দ্রীয় মানক সময়,
+    Daylight: কেন্দ্রীয় দিবালোক সময়
+  },
+  America/Costa_Rica: {
+    Generic: কেন্দ্রীয় সময়,
+    Standard: কেন্দ্রীয় মানক সময়,
+    Daylight: কেন্দ্রীয় দিবালোক সময়
+  },
+  Pacific/Galapagos: {
+    Generic: গালাপাগোস সময়,
+    Standard: গালাপাগোস সময়,
+    Daylight: গালাপাগোস সময়
+  },
+  America/Tegucigalpa: {
+    Generic: কেন্দ্রীয় সময়,
+    Standard: কেন্দ্রীয় মানক সময়,
+    Daylight: কেন্দ্রীয় দিবালোক সময়
+  },
+  America/Managua: {
+    Generic: কেন্দ্রীয় সময়,
+    Standard: কেন্দ্রীয় মানক সময়,
+    Daylight: কেন্দ্রীয় দিবালোক সময়
+  },
+  America/El_Salvador: {
+    Generic: কেন্দ্রীয় সময়,
+    Standard: কেন্দ্রীয় মানক সময়,
+    Daylight: কেন্দ্রীয় দিবালোক সময়
+  },
+  Etc/GMT+6: {
+    Generic: স্থানাংকিত আন্তর্জাতিক সময় -6,
+    Standard: স্থানাংকিত আন্তর্জাতিক সময় -6,
+    Daylight: স্থানাংকিত আন্তর্জাতিক সময় -6
+  },
+  Asia/Almaty: {
+    Generic: পূর্ব কাজাখাস্তান সময়,
+    Standard: পূর্ব কাজাখাস্তান সময়,
+    Daylight: পূর্ব কাজাখাস্তান সময়
+  },
+  Antarctica/Vostok: {
+    Generic: ভসটক সময়,
+    Standard: ভসটক সময়,
+    Daylight: ভসটক সময়
+  },
+  Asia/Urumqi: {
+    Generic: চীন সময়,
+    Standard: চীন মানক সময়,
+    Daylight: চীন দিবালোক সময়
+  },
+  Indian/Chagos: {
+    Generic: ভারত মহাসাগরীয় সময়,
+    Standard: ভারত মহাসাগরীয় সময়,
+    Daylight: ভারত মহাসাগরীয় সময়
+  },
+  Asia/Bishkek: {
+    Generic: কিরগিস্তান সময়,
+    Standard: কিরগিস্তান সময়,
+    Daylight: কিরগিস্তান সময়
+  },
+  Asia/Qostanay: {
+    Generic: পূর্ব কাজাখাস্তান সময়,
+    Standard: পূর্ব কাজাখাস্তান সময়,
+    Daylight: পূর্ব কাজাখাস্তান সময়
+  },
+  Etc/GMT-6: {
+    Generic: স্থানাংকিত আন্তর্জাতিক সময় +6,
+    Standard: স্থানাংকিত আন্তর্জাতিক সময় +6,
+    Daylight: স্থানাংকিত আন্তর্জাতিক সময় +6
+  },
+  America/Cuiaba: {
+    Generic: আমাজন সময়,
+    Standard: আমাজন মানক সময়,
+    Daylight: আমাজন গ্রীষ্মকালীন সময়
+  },
+  America/Campo_Grande: {
+    Generic: আমাজন সময়,
+    Standard: আমাজন মানক সময়,
+    Daylight: আমাজন গ্রীষ্মকালীন সময়
+  },
+  Europe/Budapest: {
+    Generic: মধ্য ইউরোপীয় সময়,
+    Standard: মধ্য ইউরোপীয় মানক সময়,
+    Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/Tirane: {
+    Generic: মধ্য ইউরোপীয় সময়,
+    Standard: মধ্য ইউরোপীয় মানক সময়,
+    Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/Prague: {
+    Generic: মধ্য ইউরোপীয় সময়,
+    Standard: মধ্য ইউরোপীয় মানক সময়,
+    Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/Podgorica: {
+    Generic: মধ্য ইউরোপীয় সময়,
+    Standard: মধ্য ইউরোপীয় মানক সময়,
+    Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/Belgrade: {
+    Generic: মধ্য ইউরোপীয় সময়,
+    Standard: মধ্য ইউরোপীয় মানক সময়,
+    Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/Ljubljana: {
+    Generic: মধ্য ইউরোপীয় সময়,
+    Standard: মধ্য ইউরোপীয় মানক সময়,
+    Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/Bratislava: {
+    Generic: মধ্য ইউরোপীয় সময়,
+    Standard: মধ্য ইউরোপীয় মানক সময়,
+    Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/Warsaw: {
+    Generic: মধ্য ইউরোপীয় সময়,
+    Standard: মধ্য ইউরোপীয় মানক সময়,
+    Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/Sarajevo: {
+    Generic: মধ্য ইউরোপীয় সময়,
+    Standard: মধ্য ইউরোপীয় মানক সময়,
+    Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/Zagreb: {
+    Generic: মধ্য ইউরোপীয় সময়,
+    Standard: মধ্য ইউরোপীয় মানক সময়,
+    Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/Skopje: {
+    Generic: মধ্য ইউরোপীয় সময়,
+    Standard: মধ্য ইউরোপীয় মানক সময়,
+    Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Pacific/Guadalcanal: {
+    Generic: সলোমন দ্বীপপুঞ্জ সময়,
+    Standard: সলোমন দ্বীপপুঞ্জ সময়,
+    Daylight: সলোমন দ্বীপপুঞ্জ সময়
+  },
+  Antarctica/Casey: {
+    Generic: অ্যান্টার্কটিকা সময়,
+    Standard: অ্যান্টার্কটিকা মানক সময়,
+    Daylight: অ্যান্টার্কটিকা দিবালোক সময়
+  },
+  Pacific/Ponape: {
+    Generic: পোনাপে সময়,
+    Standard: পোনাপে সময়,
+    Daylight: পোনাপে সময়
+  },
+  Pacific/Kosrae: {
+    Generic: কোসরেই সময়,
+    Standard: কোসরেই সময়,
+    Daylight: কোসরেই সময়
+  },
+  Pacific/Noumea: {
+    Generic: নিউ ক্যালেডোনিয়া সময়,
+    Standard: নিউ ক্যালেডোনিয়া মানক সময়,
+    Daylight: নিউ ক্যালেডোনিয়া গ্রীষ্মকালীন সময়
+  },
+  Pacific/Efate: {
+    Generic: ভানুয়াতু সময়,
+    Standard: ভানুয়াতু মানক সময়,
+    Daylight: ভানুয়াতু গ্রীষ্মকালীন সময়
+  },
+  Etc/GMT-11: {
+    Generic: স্থানাংকিত আন্তর্জাতিক সময় +11,
+    Standard: স্থানাংকিত আন্তর্জাতিক সময় +11,
+    Daylight: স্থানাংকিত আন্তর্জাতিক সময় +11
+  },
+  America/Mexico_City: {
+    Generic: কেন্দ্রীয় সময়,
+    Standard: কেন্দ্রীয় মানক সময়,
+    Daylight: কেন্দ্রীয় দিবালোক সময়
+  },
+  America/Bahia_Banderas: {
+    Generic: কেন্দ্রীয় সময়,
+    Standard: কেন্দ্রীয় মানক সময়,
+    Daylight: কেন্দ্রীয় দিবালোক সময়
+  },
+  America/Merida: {
+    Generic: কেন্দ্রীয় সময়,
+    Standard: কেন্দ্রীয় মানক সময়,
+    Daylight: কেন্দ্রীয় দিবালোক সময়
+  },
+  America/Monterrey: {
+    Generic: কেন্দ্রীয় সময়,
+    Standard: কেন্দ্রীয় মানক সময়,
+    Daylight: কেন্দ্রীয় দিবালোক সময়
+  },
+  America/Chicago: {
+    Generic: কেন্দ্রীয় সময়,
+    Standard: কেন্দ্রীয় মানক সময়,
+    Daylight: কেন্দ্রীয় দিবালোক সময়
+  },
+  America/Winnipeg: {
+    Generic: কেন্দ্রীয় সময়,
+    Standard: কেন্দ্রীয় মানক সময়,
+    Daylight: কেন্দ্রীয় দিবালোক সময়
+  },
+  America/Rainy_River: {
+    Generic: কেন্দ্রীয় সময়,
+    Standard: কেন্দ্রীয় মানক সময়,
+    Daylight: কেন্দ্রীয় দিবালোক সময়
+  },
+  America/Rankin_Inlet: {
+    Generic: কেন্দ্রীয় সময়,
+    Standard: কেন্দ্রীয় মানক সময়,
+    Daylight: কেন্দ্রীয় দিবালোক সময়
+  },
+  America/Resolute: {
+    Generic: কেন্দ্রীয় সময়,
+    Standard: কেন্দ্রীয় মানক সময়,
+    Daylight: কেন্দ্রীয় দিবালোক সময়
+  },
+  America/Matamoros: {
+    Generic: কেন্দ্রীয় সময়,
+    Standard: কেন্দ্রীয় মানক সময়,
+    Daylight: কেন্দ্রীয় দিবালোক সময়
+  },
+  America/Indiana/Knox: {
+    Generic: কেন্দ্রীয় সময়,
+    Standard: কেন্দ্রীয় মানক সময়,
+    Daylight: কেন্দ্রীয় দিবালোক সময়
+  },
+  America/Indiana/Tell_City: {
+    Generic: কেন্দ্রীয় সময়,
+    Standard: কেন্দ্রীয় মানক সময়,
+    Daylight: কেন্দ্রীয় দিবালোক সময়
+  },
+  America/Menominee: {
+    Generic: কেন্দ্রীয় সময়,
+    Standard: কেন্দ্রীয় মানক সময়,
+    Daylight: কেন্দ্রীয় দিবালোক সময়
+  },
+  America/North_Dakota/Beulah: {
+    Generic: কেন্দ্রীয় সময়,
+    Standard: কেন্দ্রীয় মানক সময়,
+    Daylight: কেন্দ্রীয় দিবালোক সময়
+  },
+  America/North_Dakota/Center: {
+    Generic: কেন্দ্রীয় সময়,
+    Standard: কেন্দ্রীয় মানক সময়,
+    Daylight: কেন্দ্রীয় দিবালোক সময়
+  },
+  America/North_Dakota/New_Salem: {
+    Generic: কেন্দ্রীয় সময়,
+    Standard: কেন্দ্রীয় মানক সময়,
+    Daylight: কেন্দ্রীয় দিবালোক সময়
+  },
+  CST6CDT: {
+    Generic: কেন্দ্রীয় সময়,
+    Standard: কেন্দ্রীয় মানক সময়,
+    Daylight: কেন্দ্রীয় দিবালোক সময়
+  },
+  Pacific/Chatham: {
+    Generic: চ্যাথাম সময়,
+    Standard: চ্যাথাম মানক সময়,
+    Daylight: চ্যাথাম দিবালোক সময়
+  },
+  Asia/Shanghai: {
+    Generic: চীন সময়,
+    Standard: চীন মানক সময়,
+    Daylight: চীন দিবালোক সময়
+  },
+  Asia/Hong_Kong: {
+    Generic: হং কং সময়,
+    Standard: হং কং মানক সময়,
+    Daylight: হং কং গ্রীষ্মকালীন সময়
+  },
+  Asia/Macau: {
+    Generic: চীন সময়,
+    Standard: চীন মানক সময়,
+    Daylight: চীন দিবালোক সময়
+  },
+  America/Havana: {
+    Generic: কিউবার সময়,
+    Standard: কিউবা মানক সময়,
+    Daylight: কিউবা দিবালোক সময়
+  },
+  Etc/GMT+12: {
+    Generic: স্থানাংকিত আন্তর্জাতিক সময় -12,
+    Standard: স্থানাংকিত আন্তর্জাতিক সময় -12,
+    Daylight: স্থানাংকিত আন্তর্জাতিক সময় -12
+  },
+  Africa/Nairobi: {
+    Generic: পূর্ব আফ্রিকা সময়,
+    Standard: পূর্ব আফ্রিকা সময়,
+    Daylight: পূর্ব আফ্রিকা সময়
+  },
+  Antarctica/Syowa: {
+    Generic: সায়োওয়া সময়,
+    Standard: সায়োওয়া সময়,
+    Daylight: সায়োওয়া সময়
+  },
+  Africa/Djibouti: {
+    Generic: পূর্ব আফ্রিকা সময়,
+    Standard: পূর্ব আফ্রিকা সময়,
+    Daylight: পূর্ব আফ্রিকা সময়
+  },
+  Africa/Asmera: {
+    Generic: পূর্ব আফ্রিকা সময়,
+    Standard: পূর্ব আফ্রিকা সময়,
+    Daylight: পূর্ব আফ্রিকা সময়
+  },
+  Africa/Addis_Ababa: {
+    Generic: পূর্ব আফ্রিকা সময়,
+    Standard: পূর্ব আফ্রিকা সময়,
+    Daylight: পূর্ব আফ্রিকা সময়
+  },
+  Indian/Comoro: {
+    Generic: পূর্ব আফ্রিকা সময়,
+    Standard: পূর্ব আফ্রিকা সময়,
+    Daylight: পূর্ব আফ্রিকা সময়
+  },
+  Indian/Antananarivo: {
+    Generic: পূর্ব আফ্রিকা সময়,
+    Standard: পূর্ব আফ্রিকা সময়,
+    Daylight: পূর্ব আফ্রিকা সময়
+  },
+  Africa/Mogadishu: {
+    Generic: পূর্ব আফ্রিকা সময়,
+    Standard: পূর্ব আফ্রিকা সময়,
+    Daylight: পূর্ব আফ্রিকা সময়
+  },
+  Africa/Dar_es_Salaam: {
+    Generic: পূর্ব আফ্রিকা সময়,
+    Standard: পূর্ব আফ্রিকা সময়,
+    Daylight: পূর্ব আফ্রিকা সময়
+  },
+  Africa/Kampala: {
+    Generic: পূর্ব আফ্রিকা সময়,
+    Standard: পূর্ব আফ্রিকা সময়,
+    Daylight: পূর্ব আফ্রিকা সময়
+  },
+  Indian/Mayotte: {
+    Generic: পূর্ব আফ্রিকা সময়,
+    Standard: পূর্ব আফ্রিকা সময়,
+    Daylight: পূর্ব আফ্রিকা সময়
+  },
+  Etc/GMT-3: {
+    Generic: স্থানাংকিত আন্তর্জাতিক সময় +3,
+    Standard: স্থানাংকিত আন্তর্জাতিক সময় +3,
+    Daylight: স্থানাংকিত আন্তর্জাতিক সময় +3
+  },
+  Australia/Brisbane: {
+    Generic: পূর্ব অস্ট্রেলীয় সময়,
+    Standard: অস্ট্রেলীয় পূর্ব মানক সময়,
+    Daylight: অস্ট্রেলীয় পূর্ব দিবালোক সময়
+  },
+  Australia/Lindeman: {
+    Generic: পূর্ব অস্ট্রেলীয় সময়,
+    Standard: অস্ট্রেলীয় পূর্ব মানক সময়,
+    Daylight: অস্ট্রেলীয় পূর্ব দিবালোক সময়
+  },
+  Europe/Chisinau: {
+    Generic: পূর্ব ইউরোপীয় সময়,
+    Standard: পূর্ব ইউরোপীয় মানক সময়,
+    Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  America/Sao_Paulo: {
+    Generic: ব্রাসিলিয়া সময়,
+    Standard: ব্রাসিলিয়া মানক সময়,
+    Daylight: ব্রাসিলিয়া গ্রীষ্মকালীন সময়
+  },
+  Pacific/Easter: {
+    Generic: ইস্টার দ্বীপ সময়,
+    Standard: ইস্টার দ্বীপ মানক সময়,
+    Daylight: ইস্টার দ্বীপ গ্রীষ্মকালীন সময়
+  },
+  America/Cancun: {
+    Generic: পূর্বাঞ্চলীয় সময়,
+    Standard: পূর্বাঞ্চলের প্রমাণ সময়,
+    Daylight: পূর্বাঞ্চলের দিবালোক সময়
+  },
+  America/New_York: {
+    Generic: পূর্বাঞ্চলীয় সময়,
+    Standard: পূর্বাঞ্চলের প্রমাণ সময়,
+    Daylight: পূর্বাঞ্চলের দিবালোক সময়
+  },
+  America/Nassau: {
+    Generic: পূর্বাঞ্চলীয় সময়,
+    Standard: পূর্বাঞ্চলের প্রমাণ সময়,
+    Daylight: পূর্বাঞ্চলের দিবালোক সময়
+  },
+  America/Toronto: {
+    Generic: পূর্বাঞ্চলীয় সময়,
+    Standard: পূর্বাঞ্চলের প্রমাণ সময়,
+    Daylight: পূর্বাঞ্চলের দিবালোক সময়
+  },
+  America/Iqaluit: {
+    Generic: পূর্বাঞ্চলীয় সময়,
+    Standard: পূর্বাঞ্চলের প্রমাণ সময়,
+    Daylight: পূর্বাঞ্চলের দিবালোক সময়
+  },
+  America/Montreal: {
+    Generic: পূর্বাঞ্চলীয় সময়,
+    Standard: পূর্বাঞ্চলের প্রমাণ সময়,
+    Daylight: পূর্বাঞ্চলের দিবালোক সময়
+  },
+  America/Nipigon: {
+    Generic: পূর্বাঞ্চলীয় সময়,
+    Standard: পূর্বাঞ্চলের প্রমাণ সময়,
+    Daylight: পূর্বাঞ্চলের দিবালোক সময়
+  },
+  America/Pangnirtung: {
+    Generic: পূর্বাঞ্চলীয় সময়,
+    Standard: পূর্বাঞ্চলের প্রমাণ সময়,
+    Daylight: পূর্বাঞ্চলের দিবালোক সময়
+  },
+  America/Thunder_Bay: {
+    Generic: পূর্বাঞ্চলীয় সময়,
+    Standard: পূর্বাঞ্চলের প্রমাণ সময়,
+    Daylight: পূর্বাঞ্চলের দিবালোক সময়
+  },
+  America/Detroit: {
+    Generic: পূর্বাঞ্চলীয় সময়,
+    Standard: পূর্বাঞ্চলের প্রমাণ সময়,
+    Daylight: পূর্বাঞ্চলের দিবালোক সময়
+  },
+  America/Indiana/Petersburg: {
+    Generic: পূর্বাঞ্চলীয় সময়,
+    Standard: পূর্বাঞ্চলের প্রমাণ সময়,
+    Daylight: পূর্বাঞ্চলের দিবালোক সময়
+  },
+  America/Indiana/Vincennes: {
+    Generic: পূর্বাঞ্চলীয় সময়,
+    Standard: পূর্বাঞ্চলের প্রমাণ সময়,
+    Daylight: পূর্বাঞ্চলের দিবালোক সময়
+  },
+  America/Indiana/Winamac: {
+    Generic: পূর্বাঞ্চলীয় সময়,
+    Standard: পূর্বাঞ্চলের প্রমাণ সময়,
+    Daylight: পূর্বাঞ্চলের দিবালোক সময়
+  },
+  America/Kentucky/Monticello: {
+    Generic: পূর্বাঞ্চলীয় সময়,
+    Standard: পূর্বাঞ্চলের প্রমাণ সময়,
+    Daylight: পূর্বাঞ্চলের দিবালোক সময়
+  },
+  America/Louisville: {
+    Generic: পূর্বাঞ্চলীয় সময়,
+    Standard: পূর্বাঞ্চলের প্রমাণ সময়,
+    Daylight: পূর্বাঞ্চলের দিবালোক সময়
+  },
+  EST5EDT: {
+    Generic: পূর্বাঞ্চলীয় সময়,
+    Standard: পূর্বাঞ্চলের প্রমাণ সময়,
+    Daylight: পূর্বাঞ্চলের দিবালোক সময়
+  },
+  Africa/Cairo: {
+    Generic: পূর্ব ইউরোপীয় সময়,
+    Standard: পূর্ব ইউরোপীয় মানক সময়,
+    Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Asia/Yekaterinburg: {
+    Generic: ইয়েকাটেরিনবার্গ সময়,
+    Standard: ইয়েকাটেরিনবার্গ মানক সময়,
+    Daylight: ইয়েকাটেরিনবার্গ দিবালোক সময়
+  },
+  Europe/Kiev: {
+    Generic: পূর্ব ইউরোপীয় সময়,
+    Standard: পূর্ব ইউরোপীয় মানক সময়,
+    Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/Mariehamn: {
+    Generic: পূর্ব ইউরোপীয় সময়,
+    Standard: পূর্ব ইউরোপীয় মানক সময়,
+    Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/Sofia: {
+    Generic: পূর্ব ইউরোপীয় সময়,
+    Standard: পূর্ব ইউরোপীয় মানক সময়,
+    Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/Tallinn: {
+    Generic: পূর্ব ইউরোপীয় সময়,
+    Standard: পূর্ব ইউরোপীয় মানক সময়,
+    Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/Helsinki: {
+    Generic: পূর্ব ইউরোপীয় সময়,
+    Standard: পূর্ব ইউরোপীয় মানক সময়,
+    Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/Vilnius: {
+    Generic: পূর্ব ইউরোপীয় সময়,
+    Standard: পূর্ব ইউরোপীয় মানক সময়,
+    Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/Riga: {
+    Generic: পূর্ব ইউরোপীয় সময়,
+    Standard: পূর্ব ইউরোপীয় মানক সময়,
+    Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/Uzhgorod: {
+    Generic: পূর্ব ইউরোপীয় সময়,
+    Standard: পূর্ব ইউরোপীয় মানক সময়,
+    Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/Zaporozhye: {
+    Generic: পূর্ব ইউরোপীয় সময়,
+    Standard: পূর্ব ইউরোপীয় মানক সময়,
+    Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Pacific/Fiji: {
+    Generic: ফিজি সময়,
+    Standard: ফিজি মানক সময়,
+    Daylight: ফিজি গ্রীষ্মকালীন সময়
+  },
+  Europe/London: {
+    Generic: যুক্তরাজ্য সময়,
+    Standard: গ্রীনিচ মিন টাইম,
+    Daylight: ব্রিটিশ গ্রীষ্মকালীন সময়
+  },
+  Atlantic/Canary: {
+    Generic: পশ্চিম ইউরোপীয় সময়,
+    Standard: পশ্চিম ইউরোপীয় মানক সময়,
+    Daylight: পশ্চিম ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Atlantic/Faeroe: {
+    Generic: পশ্চিম ইউরোপীয় সময়,
+    Standard: পশ্চিম ইউরোপীয় মানক সময়,
+    Daylight: পশ্চিম ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/Guernsey: {
+    Generic: গ্রীনিচ মিন টাইম,
+    Standard: গ্রীনিচ মিন টাইম,
+    Daylight: গ্রীনিচ মিন টাইম
+  },
+  Europe/Dublin: {
+    Generic: আয়ারল্যান্ড সময়,
+    Standard: গ্রীনিচ মিন টাইম,
+    Daylight: আইরিশ মানক সময়
+  },
+  Europe/Isle_of_Man: {
+    Generic: গ্রীনিচ মিন টাইম,
+    Standard: গ্রীনিচ মিন টাইম,
+    Daylight: গ্রীনিচ মিন টাইম
+  },
+  Europe/Jersey: {
+    Generic: গ্রীনিচ মিন টাইম,
+    Standard: গ্রীনিচ মিন টাইম,
+    Daylight: গ্রীনিচ মিন টাইম
+  },
+  Europe/Lisbon: {
+    Generic: পশ্চিম ইউরোপীয় সময়,
+    Standard: পশ্চিম ইউরোপীয় মানক সময়,
+    Daylight: পশ্চিম ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Atlantic/Madeira: {
+    Generic: পশ্চিম ইউরোপীয় সময়,
+    Standard: পশ্চিম ইউরোপীয় মানক সময়,
+    Daylight: পশ্চিম ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/Bucharest: {
+    Generic: পূর্ব ইউরোপীয় সময়,
+    Standard: পূর্ব ইউরোপীয় মানক সময়,
+    Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Asia/Nicosia: {
+    Generic: পূর্ব ইউরোপীয় সময়,
+    Standard: পূর্ব ইউরোপীয় মানক সময়,
+    Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Asia/Famagusta: {
+    Generic: পূর্ব ইউরোপীয় সময়,
+    Standard: পূর্ব ইউরোপীয় মানক সময়,
+    Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/Athens: {
+    Generic: পূর্ব ইউরোপীয় সময়,
+    Standard: পূর্ব ইউরোপীয় মানক সময়,
+    Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Asia/Tbilisi: {
+    Generic: জর্জিয়া সময়,
+    Standard: জর্জিয়া মানক সময়,
+    Daylight: জর্জিয়া গ্রীষ্মকালীন সময়
+  },
+  America/Godthab: {
+    Generic: পশ্চিম গ্রীনল্যান্ড সময়,
+    Standard: পশ্চিম গ্রীনল্যান্ড মানক সময়,
+    Daylight: পশ্চিম গ্রীনল্যান্ড গ্রীষ্মকালীন সময়
+  },
+  Atlantic/Reykjavik: {
+    Generic: গ্রীনিচ মিন টাইম,
+    Standard: গ্রীনিচ মিন টাইম,
+    Daylight: গ্রীনিচ মিন টাইম
+  },
+  Atlantic/St_Helena: {
+    Generic: গ্রীনিচ মিন টাইম,
+    Standard: গ্রীনিচ মিন টাইম,
+    Daylight: গ্রীনিচ মিন টাইম
+  },
+  Africa/Ouagadougou: {
+    Generic: গ্রীনিচ মিন টাইম,
+    Standard: গ্রীনিচ মিন টাইম,
+    Daylight: গ্রীনিচ মিন টাইম
+  },
+  Africa/Abidjan: {
+    Generic: গ্রীনিচ মিন টাইম,
+    Standard: গ্রীনিচ মিন টাইম,
+    Daylight: গ্রীনিচ মিন টাইম
+  },
+  Africa/Accra: {
+    Generic: গ্রীনিচ মিন টাইম,
+    Standard: গ্রীনিচ মিন টাইম,
+    Daylight: গ্রীনিচ মিন টাইম
+  },
+  America/Danmarkshavn: {
+    Generic: গ্রীনিচ মিন টাইম,
+    Standard: গ্রীনিচ মিন টাইম,
+    Daylight: গ্রীনিচ মিন টাইম
+  },
+  Africa/Banjul: {
+    Generic: গ্রীনিচ মিন টাইম,
+    Standard: গ্রীনিচ মিন টাইম,
+    Daylight: গ্রীনিচ মিন টাইম
+  },
+  Africa/Conakry: {
+    Generic: গ্রীনিচ মিন টাইম,
+    Standard: গ্রীনিচ মিন টাইম,
+    Daylight: গ্রীনিচ মিন টাইম
+  },
+  Africa/Bissau: {
+    Generic: গ্রীনিচ মিন টাইম,
+    Standard: গ্রীনিচ মিন টাইম,
+    Daylight: গ্রীনিচ মিন টাইম
+  },
+  Africa/Monrovia: {
+    Generic: গ্রীনিচ মিন টাইম,
+    Standard: গ্রীনিচ মিন টাইম,
+    Daylight: গ্রীনিচ মিন টাইম
+  },
+  Africa/Bamako: {
+    Generic: গ্রীনিচ মিন টাইম,
+    Standard: গ্রীনিচ মিন টাইম,
+    Daylight: গ্রীনিচ মিন টাইম
+  },
+  Africa/Nouakchott: {
+    Generic: গ্রীনিচ মিন টাইম,
+    Standard: গ্রীনিচ মিন টাইম,
+    Daylight: গ্রীনিচ মিন টাইম
+  },
+  Africa/Freetown: {
+    Generic: গ্রীনিচ মিন টাইম,
+    Standard: গ্রীনিচ মিন টাইম,
+    Daylight: গ্রীনিচ মিন টাইম
+  },
+  Africa/Dakar: {
+    Generic: গ্রীনিচ মিন টাইম,
+    Standard: গ্রীনিচ মিন টাইম,
+    Daylight: গ্রীনিচ মিন টাইম
+  },
+  Africa/Lome: {
+    Generic: গ্রীনিচ মিন টাইম,
+    Standard: গ্রীনিচ মিন টাইম,
+    Daylight: গ্রীনিচ মিন টাইম
+  },
+  America/Port-au-Prince: {
+    Generic: পূর্বাঞ্চলীয় সময়,
+    Standard: পূর্বাঞ্চলের প্রমাণ সময়,
+    Daylight: পূর্বাঞ্চলের দিবালোক সময়
+  },
+  Pacific/Honolulu: {
+    Generic: হাওয়াই-আলেউত সময়,
+    Standard: হাওয়াই-আলেউত মানক সময়,
+    Daylight: হাওয়াই-আলেউত দিবালোক সময়
+  },
+  Pacific/Rarotonga: {
+    Generic: কুক দ্বীপপুঞ্জ সময়,
+    Standard: কুক দ্বীপপুঞ্জ মানক সময়,
+    Daylight: কুক দ্বীপপুঞ্জ অর্ধেক গ্রীষ্মকালীন সময়
+  },
+  Pacific/Tahiti: {
+    Generic: তাহিতি সময়,
+    Standard: তাহিতি সময়,
+    Daylight: তাহিতি সময়
+  },
+  Pacific/Johnston: {
+    Generic: হাওয়াই-আলেউত সময়,
+    Standard: হাওয়াই-আলেউত মানক সময়,
+    Daylight: হাওয়াই-আলেউত দিবালোক সময়
+  },
+  Etc/GMT+10: {
+    Generic: স্থানাংকিত আন্তর্জাতিক সময় -10,
+    Standard: স্থানাংকিত আন্তর্জাতিক সময় -10,
+    Daylight: স্থানাংকিত আন্তর্জাতিক সময় -10
+  },
+  Asia/Calcutta: {
+    Generic: ভারতীয় মানক সময়,
+    Standard: ভারতীয় মানক সময়,
+    Daylight: ভারতীয় মানক সময়
+  },
+  Asia/Tehran: {
+    Generic: ইরান সময়,
+    Standard: ইরান মানক সময়,
+    Daylight: ইরান দিবালোক সময়
+  },
+  Asia/Jerusalem: {
+    Generic: ইজরায়েল সময়,
+    Standard: ইজরায়েল মানক সময়,
+    Daylight: ইজরায়েল দিবালোক সময়
+  },
+  Asia/Amman: {
+    Generic: পূর্ব ইউরোপীয় সময়,
+    Standard: পূর্ব ইউরোপীয় মানক সময়,
+    Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/Kaliningrad: {
+    Generic: কালিনিঙগ্রাড সময়,
+    Standard: কালিনিঙগ্রাড মানক সময়,
+    Daylight: কালিনিঙগ্রাড দিবালোক সময়
+  },
+  Asia/Seoul: {
+    Generic: কোরিয়ান সময়,
+    Standard: কোরিয়ান মানক সময়,
+    Daylight: কোরিয়ান দিবালোক সময়
+  },
+  Africa/Tripoli: {
+    Generic: পূর্ব ইউরোপীয় সময়,
+    Standard: পূর্ব ইউরোপীয় মানক সময়,
+    Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Pacific/Kiritimati: {
+    Generic: লাইন দ্বীপপুঞ্জ সময়,
+    Standard: লাইন দ্বীপপুঞ্জ সময়,
+    Daylight: লাইন দ্বীপপুঞ্জ সময়
+  },
+  Etc/GMT-14: {
+    Generic: স্থানাংকিত আন্তর্জাতিক সময় +14,
+    Standard: স্থানাংকিত আন্তর্জাতিক সময় +14,
+    Daylight: স্থানাংকিত আন্তর্জাতিক সময় +14
+  },
+  Australia/Lord_Howe: {
+    Generic: লর্ড হাওয়ে সময়,
+    Standard: লর্ড হাওয়ে মানক মসয়,
+    Daylight: লর্ড হাওয়ে দিবালোক মসয়
+  },
+  Asia/Magadan: {
+    Generic: ম্যাগাডান সময়,
+    Standard: ম্যাগাডান মানক সময়,
+    Daylight: ম্যাগাডান দিবালোক সময়
+  },
+  America/Punta_Arenas: {
+    Generic: চিলি সময়,
+    Standard: চিলি মানক সময়,
+    Daylight: চিলি গ্রীষ্মকালীন সময়
+  },
+  Pacific/Marquesas: {
+    Generic: মার্কেসাস সময়,
+    Standard: মার্কেসাস সময়,
+    Daylight: মার্কেসাস সময়
+  },
+  Indian/Mauritius: {
+    Generic: মরিশাস সময়,
+    Standard: মরিশাস মানক সময়,
+    Daylight: মরিশাস গ্রীষ্মকালীন সময়
+  },
+  Indian/Reunion: {
+    Generic: রিইউনিয়ন সময়,
+    Standard: রিইউনিয়ন সময়,
+    Daylight: রিইউনিয়ন সময়
+  },
+  Indian/Mahe: {
+    Generic: সেশেলস সময়,
+    Standard: সেশেলস সময়,
+    Daylight: সেশেলস সময়
+  },
+  Asia/Beirut: {
+    Generic: পূর্ব ইউরোপীয় সময়,
+    Standard: পূর্ব ইউরোপীয় মানক সময়,
+    Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  America/Montevideo: {
+    Generic: উরুগুয়ে সময়,
+    Standard: উরুগুয়ে মানক সময়,
+    Daylight: উরুগুয়ে গ্রীষ্মকালীন সময়
+  },
+  Africa/Casablanca: {
+    Generic: পশ্চিম ইউরোপীয় সময়,
+    Standard: পশ্চিম ইউরোপীয় মানক সময়,
+    Daylight: পশ্চিম ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Africa/El_Aaiun: {
+    Generic: পশ্চিম ইউরোপীয় সময়,
+    Standard: পশ্চিম ইউরোপীয় মানক সময়,
+    Daylight: পশ্চিম ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  America/Chihuahua: {
+    Generic: মেক্সিকান প্রশান্ত মহাসাগরীয় সময়,
+    Standard: মেক্সিকান প্রশান্ত মহসাগরীয় মানক সময়,
+    Daylight: মেক্সিকান প্রশান্ত মহাসাগরীয় দিবালোক সময়
+  },
+  America/Mazatlan: {
+    Generic: মেক্সিকান প্রশান্ত মহাসাগরীয় সময়,
+    Standard: মেক্সিকান প্রশান্ত মহসাগরীয় মানক সময়,
+    Daylight: মেক্সিকান প্রশান্ত মহাসাগরীয় দিবালোক সময়
+  },
+  America/Denver: {
+    Generic: পার্বত্য অঞ্চলের সময়,
+    Standard: পার্বত্য অঞ্চলের প্রমাণ সময়,
+    Daylight: পার্বত্য অঞ্চলের দিনের সময়
+  },
+  America/Edmonton: {
+    Generic: পার্বত্য অঞ্চলের সময়,
+    Standard: পার্বত্য অঞ্চলের প্রমাণ সময়,
+    Daylight: পার্বত্য অঞ্চলের দিনের সময়
+  },
+  America/Cambridge_Bay: {
+    Generic: পার্বত্য অঞ্চলের সময়,
+    Standard: পার্বত্য অঞ্চলের প্রমাণ সময়,
+    Daylight: পার্বত্য অঞ্চলের দিনের সময়
+  },
+  America/Inuvik: {
+    Generic: পার্বত্য অঞ্চলের সময়,
+    Standard: পার্বত্য অঞ্চলের প্রমাণ সময়,
+    Daylight: পার্বত্য অঞ্চলের দিনের সময়
+  },
+  America/Yellowknife: {
+    Generic: পার্বত্য অঞ্চলের সময়,
+    Standard: পার্বত্য অঞ্চলের প্রমাণ সময়,
+    Daylight: পার্বত্য অঞ্চলের দিনের সময়
+  },
+  America/Ojinaga: {
+    Generic: পার্বত্য অঞ্চলের সময়,
+    Standard: পার্বত্য অঞ্চলের প্রমাণ সময়,
+    Daylight: পার্বত্য অঞ্চলের দিনের সময়
+  },
+  America/Boise: {
+    Generic: পার্বত্য অঞ্চলের সময়,
+    Standard: পার্বত্য অঞ্চলের প্রমাণ সময়,
+    Daylight: পার্বত্য অঞ্চলের দিনের সময়
+  },
+  MST7MDT: {
+    Generic: পার্বত্য অঞ্চলের সময়,
+    Standard: পার্বত্য অঞ্চলের প্রমাণ সময়,
+    Daylight: পার্বত্য অঞ্চলের দিনের সময়
+  },
+  Asia/Rangoon: {
+    Generic: মায়ানমার সময়,
+    Standard: মায়ানমার সময়,
+    Daylight: মায়ানমার সময়
+  },
+  Indian/Cocos: {
+    Generic: কোকোস দ্বীপপুঞ্জ সময়,
+    Standard: কোকোস দ্বীপপুঞ্জ সময়,
+    Daylight: কোকোস দ্বীপপুঞ্জ সময়
+  },
+  Asia/Novosibirsk: {
+    Generic: নভোসিবির্স্ক সময়,
+    Standard: নভোসিবির্স্ক মানক সময়,
+    Daylight: নভোসিবির্স্ক দিবালোক সময়
+  },
+  Africa/Windhoek: {
+    Generic: মধ্য আফ্রিকা সময়,
+    Standard: মধ্য আফ্রিকা সময়,
+    Daylight: মধ্য আফ্রিকা সময়
+  },
+  Asia/Katmandu: {
+    Generic: নেপাল সময়,
+    Standard: নেপাল সময়,
+    Daylight: নেপাল সময়
+  },
+  Pacific/Auckland: {
+    Generic: নিউজিল্যান্ড সময়,
+    Standard: নিউজিল্যান্ড মানক সময়,
+    Daylight: নিউজিল্যান্ড দিবালোক সময়
+  },
+  Antarctica/McMurdo: {
+    Generic: নিউজিল্যান্ড সময়,
+    Standard: নিউজিল্যান্ড মানক সময়,
+    Daylight: নিউজিল্যান্ড দিবালোক সময়
+  },
+  America/St_Johns: {
+    Generic: নিউফাউন্ডল্যান্ড সময়,
+    Standard: নিউফাউন্ডল্যান্ড মানক সময়,
+    Daylight: নিউফাউন্ডল্যান্ড দিবালোক সময়
+  },
+  Pacific/Norfolk: {
+    Generic: নরফোক দ্বীপ সময়,
+    Standard: নরফোক দ্বীপ মানক সময়,
+    Daylight: নরফোক দ্বীপ দিবালোক সময়
+  },
+  Asia/Irkutsk: {
+    Generic: ইরকুটস্ক সময়,
+    Standard: ইরকুটস্ক মানক সময়,
+    Daylight: ইরকুটস্ক দিবালোক সময়
+  },
+  Asia/Krasnoyarsk: {
+    Generic: ক্রাসনোইয়ার্স্ক সময়,
+    Standard: ক্রাসনোইয়ার্স্ক মানক সময়,
+    Daylight: ক্রাসনোইয়ার্স্ক দিবালোক সময়
+  },
+  Asia/Novokuznetsk: {
+    Generic: নভকুয়েতস্নক সময়,
+    Standard: নভকুয়েতস্নক মানক সময়,
+    Daylight: নভকুয়েতস্নক দিবালোক সময়
+  },
+  Asia/Pyongyang: {
+    Generic: কোরিয়ান সময়,
+    Standard: কোরিয়ান মানক সময়,
+    Daylight: কোরিয়ান দিবালোক সময়
+  },
+  Asia/Omsk: {
+    Generic: ওম্স্ক সময়,
+    Standard: ওম্স্ক মানক সময়,
+    Daylight: ওম্স্ক দিবালোক সময়
+  },
+  America/Santiago: {
+    Generic: চিলি সময়,
+    Standard: চিলি মানক সময়,
+    Daylight: চিলি গ্রীষ্মকালীন সময়
+  },
+  America/Tijuana: {
+    Generic: প্রশান্ত মহাসাগরীয় অঞ্চলের সময়,
+    Standard: প্রশান্ত মহাসাগরীয় অঞ্চলের মানক সময়,
+    Daylight: প্রশান্ত মহাসাগরীয় অঞ্চলের দিনের সময়
+  },
+  America/Santa_Isabel: {
+    Generic: উত্তরপশ্চিম মেক্সিকোর সময়,
+    Standard: উত্তরপশ্চিম মেক্সিকোর মানক সময়,
+    Daylight: উত্তরপশ্চিম মেক্সিকোর দিনের সময়
+  },
+  America/Los_Angeles: {
+    Generic: প্রশান্ত মহাসাগরীয় অঞ্চলের সময়,
+    Standard: প্রশান্ত মহাসাগরীয় অঞ্চলের মানক সময়,
+    Daylight: প্রশান্ত মহাসাগরীয় অঞ্চলের দিনের সময়
+  },
+  America/Vancouver: {
+    Generic: প্রশান্ত মহাসাগরীয় অঞ্চলের সময়,
+    Standard: প্রশান্ত মহাসাগরীয় অঞ্চলের মানক সময়,
+    Daylight: প্রশান্ত মহাসাগরীয় অঞ্চলের দিনের সময়
+  },
+  PST8PDT: {
+    Generic: প্রশান্ত মহাসাগরীয় অঞ্চলের সময়,
+    Standard: প্রশান্ত মহাসাগরীয় অঞ্চলের মানক সময়,
+    Daylight: প্রশান্ত মহাসাগরীয় অঞ্চলের দিনের সময়
+  },
+  Asia/Karachi: {
+    Generic: পাকিস্তান সময়,
+    Standard: পাকিস্তান মানক সময়,
+    Daylight: পাকিস্তান গ্রীষ্মকালীন সময়
+  },
+  America/Asuncion: {
+    Generic: প্যারাগুয়ে সময়,
+    Standard: প্যারাগুয়ে মানক সময়,
+    Daylight: প্যারাগুয়ে গ্রীষ্মকালীন সময়
+  },
+  Asia/Qyzylorda: {
+    Generic: পশ্চিম কাজাখাস্তান সময়,
+    Standard: পশ্চিম কাজাখাস্তান সময়,
+    Daylight: পশ্চিম কাজাখাস্তান সময়
+  },
+  Europe/Paris: {
+    Generic: মধ্য ইউরোপীয় সময়,
+    Standard: মধ্য ইউরোপীয় মানক সময়,
+    Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/Brussels: {
+    Generic: মধ্য ইউরোপীয় সময়,
+    Standard: মধ্য ইউরোপীয় মানক সময়,
+    Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/Copenhagen: {
+    Generic: মধ্য ইউরোপীয় সময়,
+    Standard: মধ্য ইউরোপীয় মানক সময়,
+    Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Africa/Ceuta: {
+    Generic: মধ্য ইউরোপীয় সময়,
+    Standard: মধ্য ইউরোপীয় মানক সময়,
+    Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/Madrid: {
+    Generic: মধ্য ইউরোপীয় সময়,
+    Standard: মধ্য ইউরোপীয় মানক সময়,
+    Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Asia/Srednekolymsk: {
+    Generic: স্রেদনেকোলয়মস্ক সময়,
+    Standard: স্রেদনেকোলয়মস্ক মানক সময়,
+    Daylight: স্রেদনেকোলয়মস্ক দিবালোক সময়
+  },
+  Asia/Kamchatka: {
+    Generic: কামচাটকা সময়,
+    Standard: কামচাটকা মানক সময়,
+    Daylight: কামচাটকা দিবালোক সময়
+  },
+  Asia/Anadyr: {
+    Generic: অ্যানাডির সময়,
+    Standard: অ্যানাডির মানক সময়,
+    Daylight: অ্যানাডির দিবালোক সময়
+  },
+  Europe/Samara: {
+    Generic: সামারা সময়,
+    Standard: সামারা মানক সময়,
+    Daylight: সামারা দিবালোক সময়
+  },
+  Europe/Moscow: {
+    Generic: মস্কো সময়,
+    Standard: মস্কো মানক সময়,
+    Daylight: মস্কো দিবালোক সময়
+  },
+  Europe/Kirov: {
+    Generic: কিরোভ সময়,
+    Standard: কিরোভ মানক সময়,
+    Daylight: কিরোভ দিবালোক সময়
+  },
+  Europe/Simferopol: {
+    Generic: মস্কো সময়,
+    Standard: মস্কো মানক সময়,
+    Daylight: মস্কো গ্রীষ্মকালীন সময়
+  },
+  America/Cayenne: {
+    Generic: ফরাসি গায়ানা সময়,
+    Standard: ফরাসি গায়ানা সময়,
+    Daylight: ফরাসি গায়ানা সময়
+  },
+  Antarctica/Rothera: {
+    Generic: রথেরা সময়,
+    Standard: রথেরা সময়,
+    Daylight: রথেরা সময়
+  },
+  Antarctica/Palmer: {
+    Generic: চিলি সময়,
+    Standard: চিলি মানক সময়,
+    Daylight: চিলি গ্রীষ্মকালীন সময়
+  },
+  America/Fortaleza: {
+    Generic: ব্রাসিলিয়া সময়,
+    Standard: ব্রাসিলিয়া মানক সময়,
+    Daylight: ব্রাসিলিয়া গ্রীষ্মকালীন সময়
+  },
+  America/Belem: {
+    Generic: ব্রাসিলিয়া সময়,
+    Standard: ব্রাসিলিয়া মানক সময়,
+    Daylight: ব্রাসিলিয়া গ্রীষ্মকালীন সময়
+  },
+  America/Maceio: {
+    Generic: ব্রাসিলিয়া সময়,
+    Standard: ব্রাসিলিয়া মানক সময়,
+    Daylight: ব্রাসিলিয়া গ্রীষ্মকালীন সময়
+  },
+  America/Recife: {
+    Generic: ব্রাসিলিয়া সময়,
+    Standard: ব্রাসিলিয়া মানক সময়,
+    Daylight: ব্রাসিলিয়া গ্রীষ্মকালীন সময়
+  },
+  America/Santarem: {
+    Generic: ব্রাসিলিয়া সময়,
+    Standard: ব্রাসিলিয়া মানক সময়,
+    Daylight: ব্রাসিলিয়া গ্রীষ্মকালীন সময়
+  },
+  Atlantic/Stanley: {
+    Generic: ফকল্যান্ড দ্বীপপুঞ্জ সময়,
+    Standard: ফকল্যান্ড দ্বীপপুঞ্জ মানক সময়,
+    Daylight: ফকল্যান্ড দ্বীপপুঞ্জ গ্রীষ্মকালীন সময়
+  },
+  America/Paramaribo: {
+    Generic: সুরিনাম সময়,
+    Standard: সুরিনাম সময়,
+    Daylight: সুরিনাম সময়
+  },
+  Etc/GMT+3: {
+    Generic: স্থানাংকিত আন্তর্জাতিক সময় -3,
+    Standard: স্থানাংকিত আন্তর্জাতিক সময় -3,
+    Daylight: স্থানাংকিত আন্তর্জাতিক সময় -3
+  },
+  America/Bogota: {
+    Generic: কোলোম্বিয়া সময়,
+    Standard: কোলোম্বিয়া মানক সময়,
+    Daylight: কোলোম্বিয়া গ্রীষ্মকালীন সময়
+  },
+  America/Rio_Branco: {
+    Generic: একর সময়,
+    Standard: একর মানক সময়,
+    Daylight: একর গ্রীষ্মকাল সময়
+  },
+  America/Eirunepe: {
+    Generic: একর সময়,
+    Standard: একর মানক সময়,
+    Daylight: একর গ্রীষ্মকাল সময়
+  },
+  America/Coral_Harbour: {
+    Generic: পূর্বাঞ্চলীয় সময়,
+    Standard: পূর্বাঞ্চলের প্রমাণ সময়,
+    Daylight: পূর্বাঞ্চলের দিবালোক সময়
+  },
+  America/Guayaquil: {
+    Generic: ইকুয়েডর সময়,
+    Standard: ইকুয়েডর সময়,
+    Daylight: ইকুয়েডর সময়
+  },
+  America/Jamaica: {
+    Generic: পূর্বাঞ্চলীয় সময়,
+    Standard: পূর্বাঞ্চলের প্রমাণ সময়,
+    Daylight: পূর্বাঞ্চলের দিবালোক সময়
+  },
+  America/Cayman: {
+    Generic: পূর্বাঞ্চলীয় সময়,
+    Standard: পূর্বাঞ্চলের প্রমাণ সময়,
+    Daylight: পূর্বাঞ্চলের দিবালোক সময়
+  },
+  America/Panama: {
+    Generic: পূর্বাঞ্চলীয় সময়,
+    Standard: পূর্বাঞ্চলের প্রমাণ সময়,
+    Daylight: পূর্বাঞ্চলের দিবালোক সময়
+  },
+  America/Lima: {
+    Generic: পেরু সময়,
+    Standard: পেরু মানক সময়,
+    Daylight: পেরু গ্রীষ্মকালীন সময়
+  },
+  Etc/GMT+5: {
+    Generic: স্থানাংকিত আন্তর্জাতিক সময় -5,
+    Standard: স্থানাংকিত আন্তর্জাতিক সময় -5,
+    Daylight: স্থানাংকিত আন্তর্জাতিক সময় -5
+  },
+  America/La_Paz: {
+    Generic: বোলিভিয়া সময়,
+    Standard: বোলিভিয়া সময়,
+    Daylight: বোলিভিয়া সময়
+  },
+  America/Antigua: {
+    Generic: অতলান্তিকের সময়,
+    Standard: অতলান্তিক মানক সময়,
+    Daylight: অতলান্তিক দিবালোক সময়
+  },
+  America/Anguilla: {
+    Generic: অতলান্তিকের সময়,
+    Standard: অতলান্তিক মানক সময়,
+    Daylight: অতলান্তিক দিবালোক সময়
+  },
+  America/Aruba: {
+    Generic: অতলান্তিকের সময়,
+    Standard: অতলান্তিক মানক সময়,
+    Daylight: অতলান্তিক দিবালোক সময়
+  },
+  America/Barbados: {
+    Generic: অতলান্তিকের সময়,
+    Standard: অতলান্তিক মানক সময়,
+    Daylight: অতলান্তিক দিবালোক সময়
+  },
+  America/St_Barthelemy: {
+    Generic: অতলান্তিকের সময়,
+    Standard: অতলান্তিক মানক সময়,
+    Daylight: অতলান্তিক দিবালোক সময়
+  },
+  America/Kralendijk: {
+    Generic: অতলান্তিকের সময়,
+    Standard: অতলান্তিক মানক সময়,
+    Daylight: অতলান্তিক দিবালোক সময়
+  },
+  America/Manaus: {
+    Generic: আমাজন সময়,
+    Standard: আমাজন মানক সময়,
+    Daylight: আমাজন গ্রীষ্মকালীন সময়
+  },
+  America/Boa_Vista: {
+    Generic: আমাজন সময়,
+    Standard: আমাজন মানক সময়,
+    Daylight: আমাজন গ্রীষ্মকালীন সময়
+  },
+  America/Porto_Velho: {
+    Generic: আমাজন সময়,
+    Standard: আমাজন মানক সময়,
+    Daylight: আমাজন গ্রীষ্মকালীন সময়
+  },
+  America/Blanc-Sablon: {
+    Generic: অতলান্তিকের সময়,
+    Standard: অতলান্তিক মানক সময়,
+    Daylight: অতলান্তিক দিবালোক সময়
+  },
+  America/Curacao: {
+    Generic: অতলান্তিকের সময়,
+    Standard: অতলান্তিক মানক সময়,
+    Daylight: অতলান্তিক দিবালোক সময়
+  },
+  America/Dominica: {
+    Generic: অতলান্তিকের সময়,
+    Standard: অতলান্তিক মানক সময়,
+    Daylight: অতলান্তিক দিবালোক সময়
+  },
+  America/Santo_Domingo: {
+    Generic: অতলান্তিকের সময়,
+    Standard: অতলান্তিক মানক সময়,
+    Daylight: অতলান্তিক দিবালোক সময়
+  },
+  America/Grenada: {
+    Generic: অতলান্তিকের সময়,
+    Standard: অতলান্তিক মানক সময়,
+    Daylight: অতলান্তিক দিবালোক সময়
+  },
+  America/Guadeloupe: {
+    Generic: অতলান্তিকের সময়,
+    Standard: অতলান্তিক মানক সময়,
+    Daylight: অতলান্তিক দিবালোক সময়
+  },
+  America/Guyana: {
+    Generic: গুয়ানা সময়,
+    Standard: গুয়ানা সময়,
+    Daylight: গুয়ানা সময়
+  },
+  America/St_Kitts: {
+    Generic: অতলান্তিকের সময়,
+    Standard: অতলান্তিক মানক সময়,
+    Daylight: অতলান্তিক দিবালোক সময়
+  },
+  America/St_Lucia: {
+    Generic: অতলান্তিকের সময়,
+    Standard: অতলান্তিক মানক সময়,
+    Daylight: অতলান্তিক দিবালোক সময়
+  },
+  America/Marigot: {
+    Generic: অতলান্তিকের সময়,
+    Standard: অতলান্তিক মানক সময়,
+    Daylight: অতলান্তিক দিবালোক সময়
+  },
+  America/Martinique: {
+    Generic: অতলান্তিকের সময়,
+    Standard: অতলান্তিক মানক সময়,
+    Daylight: অতলান্তিক দিবালোক সময়
+  },
+  America/Montserrat: {
+    Generic: অতলান্তিকের সময়,
+    Standard: অতলান্তিক মানক সময়,
+    Daylight: অতলান্তিক দিবালোক সময়
+  },
+  America/Puerto_Rico: {
+    Generic: অতলান্তিকের সময়,
+    Standard: অতলান্তিক মানক সময়,
+    Daylight: অতলান্তিক দিবালোক সময়
+  },
+  America/Lower_Princes: {
+    Generic: অতলান্তিকের সময়,
+    Standard: অতলান্তিক মানক সময়,
+    Daylight: অতলান্তিক দিবালোক সময়
+  },
+  America/Port_of_Spain: {
+    Generic: অতলান্তিকের সময়,
+    Standard: অতলান্তিক মানক সময়,
+    Daylight: অতলান্তিক দিবালোক সময়
+  },
+  America/St_Vincent: {
+    Generic: অতলান্তিকের সময়,
+    Standard: অতলান্তিক মানক সময়,
+    Daylight: অতলান্তিক দিবালোক সময়
+  },
+  America/Tortola: {
+    Generic: অতলান্তিকের সময়,
+    Standard: অতলান্তিক মানক সময়,
+    Daylight: অতলান্তিক দিবালোক সময়
+  },
+  America/St_Thomas: {
+    Generic: অতলান্তিকের সময়,
+    Standard: অতলান্তিক মানক সময়,
+    Daylight: অতলান্তিক দিবালোক সময়
+  },
+  Etc/GMT+4: {
+    Generic: স্থানাংকিত আন্তর্জাতিক সময় -4,
+    Standard: স্থানাংকিত আন্তর্জাতিক সময় -4,
+    Daylight: স্থানাংকিত আন্তর্জাতিক সময় -4
+  },
+  Asia/Bangkok: {
+    Generic: ইন্দোচীন সময়,
+    Standard: ইন্দোচীন সময়,
+    Daylight: ইন্দোচীন সময়
+  },
+  Antarctica/Davis: {
+    Generic: ডেভিস সময়,
+    Standard: ডেভিস সময়,
+    Daylight: ডেভিস সময়
+  },
+  Indian/Christmas: {
+    Generic: ক্রিসমাস দ্বীপ সময়,
+    Standard: ক্রিসমাস দ্বীপ সময়,
+    Daylight: ক্রিসমাস দ্বীপ সময়
+  },
+  Asia/Jakarta: {
+    Generic: পশ্চিমী ইন্দোনেশিয়া সময়,
+    Standard: পশ্চিমী ইন্দোনেশিয়া সময়,
+    Daylight: পশ্চিমী ইন্দোনেশিয়া সময়
+  },
+  Asia/Pontianak: {
+    Generic: পশ্চিমী ইন্দোনেশিয়া সময়,
+    Standard: পশ্চিমী ইন্দোনেশিয়া সময়,
+    Daylight: পশ্চিমী ইন্দোনেশিয়া সময়
+  },
+  Asia/Phnom_Penh: {
+    Generic: ইন্দোচীন সময়,
+    Standard: ইন্দোচীন সময়,
+    Daylight: ইন্দোচীন সময়
+  },
+  Asia/Vientiane: {
+    Generic: ইন্দোচীন সময়,
+    Standard: ইন্দোচীন সময়,
+    Daylight: ইন্দোচীন সময়
+  },
+  Asia/Saigon: {
+    Generic: ইন্দোচীন সময়,
+    Standard: ইন্দোচীন সময়,
+    Daylight: ইন্দোচীন সময়
+  },
+  Etc/GMT-7: {
+    Generic: স্থানাংকিত আন্তর্জাতিক সময় +7,
+    Standard: স্থানাংকিত আন্তর্জাতিক সময় +7,
+    Daylight: স্থানাংকিত আন্তর্জাতিক সময় +7
+  },
+  America/Miquelon: {
+    Generic: সেন্ট পিয়ের ও মিকেলন সময়,
+    Standard: সেন্ট পিয়ের ও মিকেলন মানক সময়,
+    Daylight: সেন্ট পিয়ের ও মিকেলন দিবালোক সময়
+  },
+  Asia/Sakhalin: {
+    Generic: সাখালিন সময়,
+    Standard: সাখালিন মানক সময়,
+    Daylight: সাখালিন দিবালোক সময়
+  },
+  Pacific/Apia: {
+    Generic: অপিয়া সময়,
+    Standard: অপিয়া মানক সময়,
+    Daylight: অপিয়া দিনের সময়
+  },
+  Africa/Sao_Tome: {
+    Generic: গ্রীনিচ মিন টাইম,
+    Standard: গ্রীনিচ মিন টাইম,
+    Daylight: গ্রীনিচ মিন টাইম
+  },
+  Europe/Saratov: {
+    Generic: সারাটোভ সময়,
+    Standard: সারাটোভ মানক সময়,
+    Daylight: সারাটোভ দিবালোক সময়
+  },
+  Asia/Singapore: {
+    Generic: সিঙ্গাপুর মানক সময়,
+    Standard: সিঙ্গাপুর মানক সময়,
+    Daylight: সিঙ্গাপুর মানক সময়
+  },
+  Asia/Brunei: {
+    Generic: ব্রুনেই দারুসসালাম সময়,
+    Standard: ব্রুনেই দারুসসালাম সময়,
+    Daylight: ব্রুনেই দারুসসালাম সময়
+  },
+  Asia/Makassar: {
+    Generic: কেন্দ্রীয় ইন্দোনেশিয়া সময়,
+    Standard: কেন্দ্রীয় ইন্দোনেশিয়া সময়,
+    Daylight: কেন্দ্রীয় ইন্দোনেশিয়া সময়
+  },
+  Asia/Kuala_Lumpur: {
+    Generic: মালয়েশিয়া সময়,
+    Standard: মালয়েশিয়া সময়,
+    Daylight: মালয়েশিয়া সময়
+  },
+  Asia/Kuching: {
+    Generic: মালয়েশিয়া সময়,
+    Standard: মালয়েশিয়া সময়,
+    Daylight: মালয়েশিয়া সময়
+  },
+  Asia/Manila: {
+    Generic: ফিলিপাইন সময়,
+    Standard: ফিলিপাইন মানক সময়,
+    Daylight: ফিলিপাইন গ্রীষ্মকালীন সময়
+  },
+  Etc/GMT-8: {
+    Generic: স্থানাংকিত আন্তর্জাতিক সময় +8,
+    Standard: স্থানাংকিত আন্তর্জাতিক সময় +8,
+    Daylight: স্থানাংকিত আন্তর্জাতিক সময় +8
+  },
+  Africa/Johannesburg: {
+    Generic: দক্ষিণ আফ্রিকা মানক সময়,
+    Standard: দক্ষিণ আফ্রিকা মানক সময়,
+    Daylight: দক্ষিণ আফ্রিকা মানক সময়
+  },
+  Africa/Bujumbura: {
+    Generic: মধ্য আফ্রিকা সময়,
+    Standard: মধ্য আফ্রিকা সময়,
+    Daylight: মধ্য আফ্রিকা সময়
+  },
+  Africa/Gaborone: {
+    Generic: মধ্য আফ্রিকা সময়,
+    Standard: মধ্য আফ্রিকা সময়,
+    Daylight: মধ্য আফ্রিকা সময়
+  },
+  Africa/Lubumbashi: {
+    Generic: মধ্য আফ্রিকা সময়,
+    Standard: মধ্য আফ্রিকা সময়,
+    Daylight: মধ্য আফ্রিকা সময়
+  },
+  Africa/Maseru: {
+    Generic: দক্ষিণ আফ্রিকা মানক সময়,
+    Standard: দক্ষিণ আফ্রিকা মানক সময়,
+    Daylight: দক্ষিণ আফ্রিকা মানক সময়
+  },
+  Africa/Blantyre: {
+    Generic: মধ্য আফ্রিকা সময়,
+    Standard: মধ্য আফ্রিকা সময়,
+    Daylight: মধ্য আফ্রিকা সময়
+  },
+  Africa/Maputo: {
+    Generic: মধ্য আফ্রিকা সময়,
+    Standard: মধ্য আফ্রিকা সময়,
+    Daylight: মধ্য আফ্রিকা সময়
+  },
+  Africa/Kigali: {
+    Generic: মধ্য আফ্রিকা সময়,
+    Standard: মধ্য আফ্রিকা সময়,
+    Daylight: মধ্য আফ্রিকা সময়
+  },
+  Africa/Mbabane: {
+    Generic: দক্ষিণ আফ্রিকা মানক সময়,
+    Standard: দক্ষিণ আফ্রিকা মানক সময়,
+    Daylight: দক্ষিণ আফ্রিকা মানক সময়
+  },
+  Africa/Lusaka: {
+    Generic: মধ্য আফ্রিকা সময়,
+    Standard: মধ্য আফ্রিকা সময়,
+    Daylight: মধ্য আফ্রিকা সময়
+  },
+  Africa/Harare: {
+    Generic: মধ্য আফ্রিকা সময়,
+    Standard: মধ্য আফ্রিকা সময়,
+    Daylight: মধ্য আফ্রিকা সময়
+  },
+  Etc/GMT-2: {
+    Generic: স্থানাংকিত আন্তর্জাতিক সময় +2,
+    Standard: স্থানাংকিত আন্তর্জাতিক সময় +2,
+    Daylight: স্থানাংকিত আন্তর্জাতিক সময় +2
+  },
+  Africa/Juba: {
+    Generic: মধ্য আফ্রিকা সময়,
+    Standard: মধ্য আফ্রিকা সময়,
+    Daylight: মধ্য আফ্রিকা সময়
+  },
+  Asia/Colombo: {
+    Generic: ভারতীয় মানক সময়,
+    Standard: ভারতীয় মানক সময়,
+    Daylight: ভারতীয় মানক সময়
+  },
+  Africa/Khartoum: {
+    Generic: মধ্য আফ্রিকা সময়,
+    Standard: মধ্য আফ্রিকা সময়,
+    Daylight: মধ্য আফ্রিকা সময়
+  },
+  Asia/Damascus: {
+    Generic: পূর্ব ইউরোপীয় সময়,
+    Standard: পূর্ব ইউরোপীয় মানক সময়,
+    Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Asia/Taipei: {
+    Generic: তাইপেই সময়,
+    Standard: তাইপেই মানক সময়,
+    Daylight: তাইপেই দিবালোক সময়
+  },
+  Australia/Hobart: {
+    Generic: পূর্ব অস্ট্রেলীয় সময়,
+    Standard: অস্ট্রেলীয় পূর্ব মানক সময়,
+    Daylight: অস্ট্রেলীয় পূর্ব দিবালোক সময়
+  },
+  Australia/Currie: {
+    Generic: পূর্ব অস্ট্রেলীয় সময়,
+    Standard: অস্ট্রেলীয় পূর্ব মানক সময়,
+    Daylight: অস্ট্রেলীয় পূর্ব দিবালোক সময়
+  },
+  Antarctica/Macquarie: {
+    Generic: পূর্ব অস্ট্রেলীয় সময়,
+    Standard: অস্ট্রেলীয় পূর্ব মানক সময়,
+    Daylight: অস্ট্রেলীয় পূর্ব দিবালোক সময়
+  },
+  America/Araguaina: {
+    Generic: ব্রাসিলিয়া সময়,
+    Standard: ব্রাসিলিয়া মানক সময়,
+    Daylight: ব্রাসিলিয়া গ্রীষ্মকালীন সময়
+  },
+  Asia/Tokyo: {
+    Generic: জাপান সময়,
+    Standard: জাপান মানক সময়,
+    Daylight: জাপান দিবালোক সময়
+  },
+  Asia/Jayapura: {
+    Generic: পূর্ব ইন্দোনেশিয়া সময়,
+    Standard: পূর্ব ইন্দোনেশিয়া সময়,
+    Daylight: পূর্ব ইন্দোনেশিয়া সময়
+  },
+  Pacific/Palau: {
+    Generic: পালাউ সময়,
+    Standard: পালাউ সময়,
+    Daylight: পালাউ সময়
+  },
+  Asia/Dili: {
+    Generic: পূর্ব টিমর সময়,
+    Standard: পূর্ব টিমর সময়,
+    Daylight: পূর্ব টিমর সময়
+  },
+  Etc/GMT-9: {
+    Generic: স্থানাংকিত আন্তর্জাতিক সময় +9,
+    Standard: স্থানাংকিত আন্তর্জাতিক সময় +9,
+    Daylight: স্থানাংকিত আন্তর্জাতিক সময় +9
+  },
+  Asia/Tomsk: {
+    Generic: তোমস্ক সময়,
+    Standard: তোমস্ক মানক সময়,
+    Daylight: তোমস্ক দিবালোক সময়
+  },
+  Pacific/Tongatapu: {
+    Generic: টোঙ্গা সময়,
+    Standard: টোঙ্গা মানক সময়,
+    Daylight: টোঙ্গা গ্রীষ্মকালীন সময়
+  },
+  Asia/Chita: {
+    Generic: চিতা সময়,
+    Standard: চিতা মানক সময়,
+    Daylight: চিতা দিবালোক সময়
+  },
+  Europe/Istanbul: {
+    Generic: তুরস্ক সময়,
+    Standard: তুরস্ক মানক সময়,
+    Daylight: তুরস্ক দিবালোক সময়
+  },
+  America/Grand_Turk: {
+    Generic: পূর্বাঞ্চলীয় সময়,
+    Standard: পূর্বাঞ্চলের প্রমাণ সময়,
+    Daylight: পূর্বাঞ্চলের দিবালোক সময়
+  },
+  America/Indianapolis: {
+    Generic: পূর্বাঞ্চলীয় সময়,
+    Standard: পূর্বাঞ্চলের প্রমাণ সময়,
+    Daylight: পূর্বাঞ্চলের দিবালোক সময়
+  },
+  America/Indiana/Marengo: {
+    Generic: পূর্বাঞ্চলীয় সময়,
+    Standard: পূর্বাঞ্চলের প্রমাণ সময়,
+    Daylight: পূর্বাঞ্চলের দিবালোক সময়
+  },
+  America/Indiana/Vevay: {
+    Generic: পূর্বাঞ্চলীয় সময়,
+    Standard: পূর্বাঞ্চলের প্রমাণ সময়,
+    Daylight: পূর্বাঞ্চলের দিবালোক সময়
+  },
+  America/Phoenix: {
+    Generic: পার্বত্য অঞ্চলের সময়,
+    Standard: পার্বত্য অঞ্চলের প্রমাণ সময়,
+    Daylight: পার্বত্য অঞ্চলের দিনের সময়
+  },
+  America/Creston: {
+    Generic: পার্বত্য অঞ্চলের সময়,
+    Standard: পার্বত্য অঞ্চলের প্রমাণ সময়,
+    Daylight: পার্বত্য অঞ্চলের দিনের সময়
+  },
+  America/Dawson_Creek: {
+    Generic: পার্বত্য অঞ্চলের সময়,
+    Standard: পার্বত্য অঞ্চলের প্রমাণ সময়,
+    Daylight: পার্বত্য অঞ্চলের দিনের সময়
+  },
+  America/Fort_Nelson: {
+    Generic: পার্বত্য অঞ্চলের সময়,
+    Standard: পার্বত্য অঞ্চলের প্রমাণ সময়,
+    Daylight: পার্বত্য অঞ্চলের দিনের সময়
+  },
+  America/Hermosillo: {
+    Generic: মেক্সিকান প্রশান্ত মহাসাগরীয় সময়,
+    Standard: মেক্সিকান প্রশান্ত মহসাগরীয় মানক সময়,
+    Daylight: মেক্সিকান প্রশান্ত মহাসাগরীয় দিবালোক সময়
+  },
+  Etc/GMT+7: {
+    Generic: স্থানাংকিত আন্তর্জাতিক সময় -7,
+    Standard: স্থানাংকিত আন্তর্জাতিক সময় -7,
+    Daylight: স্থানাংকিত আন্তর্জাতিক সময় -7
+  },
+  Etc/GMT-12: {
+    Generic: স্থানাংকিত আন্তর্জাতিক সময় +12,
+    Standard: স্থানাংকিত আন্তর্জাতিক সময় +12,
+    Daylight: স্থানাংকিত আন্তর্জাতিক সময় +12
+  },
+  Pacific/Tarawa: {
+    Generic: গিলবার্ট দ্বীপপুঞ্জ সময়,
+    Standard: গিলবার্ট দ্বীপপুঞ্জ সময়,
+    Daylight: গিলবার্ট দ্বীপপুঞ্জ সময়
+  },
+  Pacific/Majuro: {
+    Generic: মার্শাল দ্বীপপুঞ্জ সময়,
+    Standard: মার্শাল দ্বীপপুঞ্জ সময়,
+    Daylight: মার্শাল দ্বীপপুঞ্জ সময়
+  },
+  Pacific/Kwajalein: {
+    Generic: মার্শাল দ্বীপপুঞ্জ সময়,
+    Standard: মার্শাল দ্বীপপুঞ্জ সময়,
+    Daylight: মার্শাল দ্বীপপুঞ্জ সময়
+  },
+  Pacific/Nauru: {
+    Generic: নাউরু সময়,
+    Standard: নাউরু সময়,
+    Daylight: নাউরু সময়
+  },
+  Pacific/Funafuti: {
+    Generic: টুভালু সময়,
+    Standard: টুভালু সময়,
+    Daylight: টুভালু সময়
+  },
+  Pacific/Wake: {
+    Generic: ওয়েক দ্বীপ সময়,
+    Standard: ওয়েক দ্বীপ সময়,
+    Daylight: ওয়েক দ্বীপ সময়
+  },
+  Pacific/Wallis: {
+    Generic: ওয়ালিস এবং ফুটুনা সময়,
+    Standard: ওয়ালিস এবং ফুটুনা সময়,
+    Daylight: ওয়ালিস এবং ফুটুনা সময়
+  },
+  Etc/GMT-13: {
+    Generic: স্থানাংকিত আন্তর্জাতিক সময় +13,
+    Standard: স্থানাংকিত আন্তর্জাতিক সময় +13,
+    Daylight: স্থানাংকিত আন্তর্জাতিক সময় +13
+  },
+  Pacific/Enderbury: {
+    Generic: ফোনিক্স দ্বীপপুঞ্জ সময়,
+    Standard: ফোনিক্স দ্বীপপুঞ্জ সময়,
+    Daylight: ফোনিক্স দ্বীপপুঞ্জ সময়
+  },
+  Pacific/Fakaofo: {
+    Generic: টোকেলাউ সময়,
+    Standard: টোকেলাউ সময়,
+    Daylight: টোকেলাউ সময়
+  },
+  Etc/UTC: {
+    Generic: স্থানাংকিত আন্তর্জাতিক সময়,
+    Standard: স্থানাংকিত আন্তর্জাতিক সময়,
+    Daylight: স্থানাংকিত আন্তর্জাতিক সময়
+  },
+  Etc/GMT: {
+    Generic: গ্রীনিচ মিন টাইম,
+    Standard: গ্রীনিচ মিন টাইম,
+    Daylight: গ্রীনিচ মিন টাইম
+  },
+  Etc/GMT+2: {
+    Generic: স্থানাংকিত আন্তর্জাতিক সময় -2,
+    Standard: স্থানাংকিত আন্তর্জাতিক সময় -2,
+    Daylight: স্থানাংকিত আন্তর্জাতিক সময় -2
+  },
+  America/Noronha: {
+    Generic: ফার্নান্দো ডি নোরোনহা সময়,
+    Standard: ফার্নান্দো ডি নোরোনহা মানক সময়,
+    Daylight: ফার্নান্দো ডি নোরোনহা গ্রীষ্মকালীন সময়
+  },
+  Atlantic/South_Georgia: {
+    Generic: দক্ষিণ জর্জিয়া সময়,
+    Standard: দক্ষিণ জর্জিয়া সময়,
+    Daylight: দক্ষিণ জর্জিয়া সময়
+  },
+  Etc/GMT+8: {
+    Generic: স্থানাংকিত আন্তর্জাতিক সময় -8,
+    Standard: স্থানাংকিত আন্তর্জাতিক সময় -8,
+    Daylight: স্থানাংকিত আন্তর্জাতিক সময় -8
+  },
+  Pacific/Pitcairn: {
+    Generic: পিটকেয়ার্ন সময়,
+    Standard: পিটকেয়ার্ন সময়,
+    Daylight: পিটকেয়ার্ন সময়
+  },
+  Etc/GMT+9: {
+    Generic: স্থানাংকিত আন্তর্জাতিক সময় -9,
+    Standard: স্থানাংকিত আন্তর্জাতিক সময় -9,
+    Daylight: স্থানাংকিত আন্তর্জাতিক সময় -9
+  },
+  Pacific/Gambier: {
+    Generic: গ্যাম্বিয়ার সময়,
+    Standard: গ্যাম্বিয়ার সময়,
+    Daylight: গ্যাম্বিয়ার সময়
+  },
+  Etc/GMT+11: {
+    Generic: স্থানাংকিত আন্তর্জাতিক সময় -11,
+    Standard: স্থানাংকিত আন্তর্জাতিক সময় -11,
+    Daylight: স্থানাংকিত আন্তর্জাতিক সময় -11
+  },
+  Pacific/Pago_Pago: {
+    Generic: সামোয়া সময়,
+    Standard: সামোয়া মানক সময়,
+    Daylight: সামোয়া দিবালোক সময়
+  },
+  Pacific/Niue: {
+    Generic: নিউই সময়,
+    Standard: নিউই সময়,
+    Daylight: নিউই সময়
+  },
+  Pacific/Midway: {
+    Generic: সামোয়া সময়,
+    Standard: সামোয়া মানক সময়,
+    Daylight: সামোয়া দিবালোক সময়
+  },
+  Asia/Ulaanbaatar: {
+    Generic: উলান বাতোর সময়,
+    Standard: উলান বাতোর মানক সময়,
+    Daylight: উলান বাতোর গ্রীষ্মকালীন সময়
+  },
+  Asia/Choibalsan: {
+    Generic: উলান বাতোর সময়,
+    Standard: উলান বাতোর মানক সময়,
+    Daylight: উলান বাতোর গ্রীষ্মকালীন সময়
+  },
+  America/Caracas: {
+    Generic: ভেনেজুয়েলা সময়,
+    Standard: ভেনেজুয়েলা সময়,
+    Daylight: ভেনেজুয়েলা সময়
+  },
+  Asia/Vladivostok: {
+    Generic: ভ্লাদিভস্তোক সময়,
+    Standard: ভ্লাদিভস্তোক মানক সময়,
+    Daylight: ভ্লাদিভস্তোক দিবালোক সময়
+  },
+  Asia/Ust-Nera: {
+    Generic: উস্ত- নেরা সময়,
+    Standard: উস্ত- নেরা মানক সময়,
+    Daylight: উস্ত- নেরা দিবালোক সময়
+  },
+  Europe/Volgograd: {
+    Generic: ভোল্গোগ্রাদ সময়,
+    Standard: ভোল্গোগ্রাদ মানক সময়,
+    Daylight: ভোল্গোগ্রাদ দিবালোক সময়
+  },
+  Australia/Perth: {
+    Generic: পশ্চিমি অস্ট্রেলীয় সময়,
+    Standard: অস্ট্রেলীয় পশ্চিমি মানক সময়,
+    Daylight: অস্ট্রেলীয় পশ্চিমি দিবালোক সময়
+  },
+  Africa/Lagos: {
+    Generic: পশ্চিম আফ্রিকা সময়,
+    Standard: পশ্চিম আফ্রিকা মানক সময়,
+    Daylight: পশ্চিম আফ্রিকা গ্রীষ্মকালীন সময়
+  },
+  Africa/Luanda: {
+    Generic: পশ্চিম আফ্রিকা সময়,
+    Standard: পশ্চিম আফ্রিকা মানক সময়,
+    Daylight: পশ্চিম আফ্রিকা গ্রীষ্মকালীন সময়
+  },
+  Africa/Porto-Novo: {
+    Generic: পশ্চিম আফ্রিকা সময়,
+    Standard: পশ্চিম আফ্রিকা মানক সময়,
+    Daylight: পশ্চিম আফ্রিকা গ্রীষ্মকালীন সময়
+  },
+  Africa/Kinshasa: {
+    Generic: পশ্চিম আফ্রিকা সময়,
+    Standard: পশ্চিম আফ্রিকা মানক সময়,
+    Daylight: পশ্চিম আফ্রিকা গ্রীষ্মকালীন সময়
+  },
+  Africa/Bangui: {
+    Generic: পশ্চিম আফ্রিকা সময়,
+    Standard: পশ্চিম আফ্রিকা মানক সময়,
+    Daylight: পশ্চিম আফ্রিকা গ্রীষ্মকালীন সময়
+  },
+  Africa/Brazzaville: {
+    Generic: পশ্চিম আফ্রিকা সময়,
+    Standard: পশ্চিম আফ্রিকা মানক সময়,
+    Daylight: পশ্চিম আফ্রিকা গ্রীষ্মকালীন সময়
+  },
+  Africa/Douala: {
+    Generic: পশ্চিম আফ্রিকা সময়,
+    Standard: পশ্চিম আফ্রিকা মানক সময়,
+    Daylight: পশ্চিম আফ্রিকা গ্রীষ্মকালীন সময়
+  },
+  Africa/Algiers: {
+    Generic: মধ্য ইউরোপীয় সময়,
+    Standard: মধ্য ইউরোপীয় মানক সময়,
+    Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Africa/Libreville: {
+    Generic: পশ্চিম আফ্রিকা সময়,
+    Standard: পশ্চিম আফ্রিকা মানক সময়,
+    Daylight: পশ্চিম আফ্রিকা গ্রীষ্মকালীন সময়
+  },
+  Africa/Malabo: {
+    Generic: পশ্চিম আফ্রিকা সময়,
+    Standard: পশ্চিম আফ্রিকা মানক সময়,
+    Daylight: পশ্চিম আফ্রিকা গ্রীষ্মকালীন সময়
+  },
+  Africa/Niamey: {
+    Generic: পশ্চিম আফ্রিকা সময়,
+    Standard: পশ্চিম আফ্রিকা মানক সময়,
+    Daylight: পশ্চিম আফ্রিকা গ্রীষ্মকালীন সময়
+  },
+  Africa/Ndjamena: {
+    Generic: পশ্চিম আফ্রিকা সময়,
+    Standard: পশ্চিম আফ্রিকা মানক সময়,
+    Daylight: পশ্চিম আফ্রিকা গ্রীষ্মকালীন সময়
+  },
+  Africa/Tunis: {
+    Generic: মধ্য ইউরোপীয় সময়,
+    Standard: মধ্য ইউরোপীয় মানক সময়,
+    Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Etc/GMT-1: {
+    Generic: স্থানাংকিত আন্তর্জাতিক সময় +1,
+    Standard: স্থানাংকিত আন্তর্জাতিক সময় +1,
+    Daylight: স্থানাংকিত আন্তর্জাতিক সময় +1
+  },
+  Europe/Berlin: {
+    Generic: মধ্য ইউরোপীয় সময়,
+    Standard: মধ্য ইউরোপীয় মানক সময়,
+    Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/Andorra: {
+    Generic: মধ্য ইউরোপীয় সময়,
+    Standard: মধ্য ইউরোপীয় মানক সময়,
+    Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/Vienna: {
+    Generic: মধ্য ইউরোপীয় সময়,
+    Standard: মধ্য ইউরোপীয় মানক সময়,
+    Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/Zurich: {
+    Generic: মধ্য ইউরোপীয় সময়,
+    Standard: মধ্য ইউরোপীয় মানক সময়,
+    Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/Busingen: {
+    Generic: মধ্য ইউরোপীয় সময়,
+    Standard: মধ্য ইউরোপীয় মানক সময়,
+    Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/Gibraltar: {
+    Generic: মধ্য ইউরোপীয় সময়,
+    Standard: মধ্য ইউরোপীয় মানক সময়,
+    Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/Rome: {
+    Generic: মধ্য ইউরোপীয় সময়,
+    Standard: মধ্য ইউরোপীয় মানক সময়,
+    Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/Vaduz: {
+    Generic: মধ্য ইউরোপীয় সময়,
+    Standard: মধ্য ইউরোপীয় মানক সময়,
+    Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/Luxembourg: {
+    Generic: মধ্য ইউরোপীয় সময়,
+    Standard: মধ্য ইউরোপীয় মানক সময়,
+    Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/Monaco: {
+    Generic: মধ্য ইউরোপীয় সময়,
+    Standard: মধ্য ইউরোপীয় মানক সময়,
+    Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/Malta: {
+    Generic: মধ্য ইউরোপীয় সময়,
+    Standard: মধ্য ইউরোপীয় মানক সময়,
+    Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/Amsterdam: {
+    Generic: মধ্য ইউরোপীয় সময়,
+    Standard: মধ্য ইউরোপীয় মানক সময়,
+    Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/Oslo: {
+    Generic: মধ্য ইউরোপীয় সময়,
+    Standard: মধ্য ইউরোপীয় মানক সময়,
+    Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/Stockholm: {
+    Generic: মধ্য ইউরোপীয় সময়,
+    Standard: মধ্য ইউরোপীয় মানক সময়,
+    Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Arctic/Longyearbyen: {
+    Generic: মধ্য ইউরোপীয় সময়,
+    Standard: মধ্য ইউরোপীয় মানক সময়,
+    Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/San_Marino: {
+    Generic: মধ্য ইউরোপীয় সময়,
+    Standard: মধ্য ইউরোপীয় মানক সময়,
+    Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/Vatican: {
+    Generic: মধ্য ইউরোপীয় সময়,
+    Standard: মধ্য ইউরোপীয় মানক সময়,
+    Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Asia/Hovd: {
+    Generic: হোভড সময়,
+    Standard: হোভড মানক সময়,
+    Daylight: হোভড গ্রীষ্মকালীন সময়
+  },
+  Asia/Tashkent: {
+    Generic: উজবেকিস্তান সময়,
+    Standard: উজবেকিস্তান মানক সময়,
+    Daylight: উজবেকিস্তান গ্রীষ্মকালীন সময়
+  },
+  Antarctica/Mawson: {
+    Generic: মসন সময়,
+    Standard: মসন সময়,
+    Daylight: মসন সময়
+  },
+  Asia/Oral: {
+    Generic: পশ্চিম কাজাখাস্তান সময়,
+    Standard: পশ্চিম কাজাখাস্তান সময়,
+    Daylight: পশ্চিম কাজাখাস্তান সময়
+  },
+  Asia/Aqtau: {
+    Generic: পশ্চিম কাজাখাস্তান সময়,
+    Standard: পশ্চিম কাজাখাস্তান সময়,
+    Daylight: পশ্চিম কাজাখাস্তান সময়
+  },
+  Asia/Aqtobe: {
+    Generic: পশ্চিম কাজাখাস্তান সময়,
+    Standard: পশ্চিম কাজাখাস্তান সময়,
+    Daylight: পশ্চিম কাজাখাস্তান সময়
+  },
+  Asia/Atyrau: {
+    Generic: পশ্চিম কাজাখাস্তান সময়,
+    Standard: পশ্চিম কাজাখাস্তান সময়,
+    Daylight: পশ্চিম কাজাখাস্তান সময়
+  },
+  Indian/Maldives: {
+    Generic: মালদ্বীপ সময়,
+    Standard: মালদ্বীপ সময়,
+    Daylight: মালদ্বীপ সময়
+  },
+  Indian/Kerguelen: {
+    Generic: ফরাসি দক্ষিণ এবং আন্টার্কটিক সময়,
+    Standard: ফরাসি দক্ষিণ এবং আন্টার্কটিক সময়,
+    Daylight: ফরাসি দক্ষিণ এবং আন্টার্কটিক সময়
+  },
+  Asia/Dushanbe: {
+    Generic: তাজাখাস্তান সময়,
+    Standard: তাজাখাস্তান সময়,
+    Daylight: তাজাখাস্তান সময়
+  },
+  Asia/Ashgabat: {
+    Generic: তুর্কমেনিস্তান সময়,
+    Standard: তুর্কমেনিস্তান মানক সময়,
+    Daylight: তুর্কমেনিস্তান গ্রীষ্মকালীন সময়
+  },
+  Asia/Samarkand: {
+    Generic: উজবেকিস্তান সময়,
+    Standard: উজবেকিস্তান মানক সময়,
+    Daylight: উজবেকিস্তান গ্রীষ্মকালীন সময়
+  },
+  Etc/GMT-5: {
+    Generic: স্থানাংকিত আন্তর্জাতিক সময় +5,
+    Standard: স্থানাংকিত আন্তর্জাতিক সময় +5,
+    Daylight: স্থানাংকিত আন্তর্জাতিক সময় +5
+  },
+  Asia/Hebron: {
+    Generic: পূর্ব ইউরোপীয় সময়,
+    Standard: পূর্ব ইউরোপীয় মানক সময়,
+    Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Asia/Gaza: {
+    Generic: পূর্ব ইউরোপীয় সময়,
+    Standard: পূর্ব ইউরোপীয় মানক সময়,
+    Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Pacific/Port_Moresby: {
+    Generic: পাপুয়া নিউ গিনি সময়,
+    Standard: পাপুয়া নিউ গিনি সময়,
+    Daylight: পাপুয়া নিউ গিনি সময়
+  },
+  Antarctica/DumontDUrville: {
+    Generic: ডুমন্ট-দ্য’উরভিলে সময়,
+    Standard: ডুমন্ট-দ্য’উরভিলে সময়,
+    Daylight: ডুমন্ট-দ্য’উরভিলে সময়
+  },
+  Pacific/Truk: {
+    Generic: চুক সময়,
+    Standard: চুক সময়,
+    Daylight: চুক সময়
+  },
+  Pacific/Guam: {
+    Generic: চামেরো মানক সময়,
+    Standard: চামেরো মানক সময়,
+    Daylight: চামেরো মানক সময়
+  },
+  Pacific/Saipan: {
+    Generic: চামেরো মানক সময়,
+    Standard: চামেরো মানক সময়,
+    Daylight: চামেরো মানক সময়
+  },
+  Etc/GMT-10: {
+    Generic: স্থানাংকিত আন্তর্জাতিক সময় +10,
+    Standard: স্থানাংকিত আন্তর্জাতিক সময় +10,
+    Daylight: স্থানাংকিত আন্তর্জাতিক সময় +10
+  },
+  Asia/Yakutsk: {
+    Generic: ইয়াকুটস্ক সময়,
+    Standard: ইয়াকুটস্ক মানক সময়,
+    Daylight: ইয়াকুটস্ক দিবালোক সময়
+  },
+  Asia/Khandyga: {
+    Generic: খানডিয়াগা সময়,
+    Standard: খানডিয়াগা মানক সময়,
+    Daylight: খানডিয়াগা দিবালোক সময়
+  },
+  America/Whitehorse: {
+    Generic: ইউকোন সময়,
+    Standard: ইউকোন সময়,
+    Daylight: ইউকোন সময়
+  },
+  America/Dawson: {
+    Generic: ইউকোন সময়,
+    Standard: ইউকোন সময়,
+    Daylight: ইউকোন সময়
+  },
+  Iceland: {
+    Generic: গ্রীনিচ মিন টাইম,
+    Standard: গ্রীনিচ মিন টাইম,
+    Daylight: গ্রীনিচ মিন টাইম
+  },
+  Africa/Timbuktu: {
+    Generic: গ্রীনিচ মিন টাইম,
+    Standard: গ্রীনিচ মিন টাইম,
+    Daylight: গ্রীনিচ মিন টাইম
+  },
+  Egypt: {
+    Generic: পূর্ব ইউরোপীয় সময়,
+    Standard: পূর্ব ইউরোপীয় মানক সময়,
+    Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Africa/Asmara: {
+    Generic: পূর্ব আফ্রিকা সময়,
+    Standard: পূর্ব আফ্রিকা সময়,
+    Daylight: পূর্ব আফ্রিকা সময়
+  },
+  Libya: {
+    Generic: পূর্ব ইউরোপীয় সময়,
+    Standard: পূর্ব ইউরোপীয় মানক সময়,
+    Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  America/Atka: {
+    Generic: হাওয়াই-আলেউত সময়,
+    Standard: হাওয়াই-আলেউত মানক সময়,
+    Daylight: হাওয়াই-আলেউত দিবালোক সময়
+  },
+  US/Aleutian: {
+    Generic: হাওয়াই-আলেউত সময়,
+    Standard: হাওয়াই-আলেউত মানক সময়,
+    Daylight: হাওয়াই-আলেউত দিবালোক সময়
+  },
+  US/Alaska: {
+    Generic: আলাস্কা সময়,
+    Standard: আলাস্কা মানক সময়,
+    Daylight: আলাস্কা দিবালোক সময়
+  },
+  America/Argentina/Buenos_Aires: {
+    Generic: আর্জেন্টিনা সময়,
+    Standard: আর্জেন্টিনা মানক সময়,
+    Daylight: আর্জেন্টিনা গ্রীষ্মকালীন সময়
+  },
+  America/Argentina/Catamarca: {
+    Generic: আর্জেন্টিনা সময়,
+    Standard: আর্জেন্টিনা মানক সময়,
+    Daylight: আর্জেন্টিনা গ্রীষ্মকালীন সময়
+  },
+  America/Argentina/ComodRivadavia: {
+    Generic: আর্জেন্টিনা সময়,
+    Standard: আর্জেন্টিনা মানক সময়,
+    Daylight: আর্জেন্টিনা গ্রীষ্মকালীন সময়
+  },
+  America/Argentina/Cordoba: {
+    Generic: আর্জেন্টিনা সময়,
+    Standard: আর্জেন্টিনা মানক সময়,
+    Daylight: আর্জেন্টিনা গ্রীষ্মকালীন সময়
+  },
+  America/Rosario: {
+    Generic: আর্জেন্টিনা সময়,
+    Standard: আর্জেন্টিনা মানক সময়,
+    Daylight: আর্জেন্টিনা গ্রীষ্মকালীন সময়
+  },
+  America/Argentina/Jujuy: {
+    Generic: আর্জেন্টিনা সময়,
+    Standard: আর্জেন্টিনা মানক সময়,
+    Daylight: আর্জেন্টিনা গ্রীষ্মকালীন সময়
+  },
+  America/Argentina/Mendoza: {
+    Generic: আর্জেন্টিনা সময়,
+    Standard: আর্জেন্টিনা মানক সময়,
+    Daylight: আর্জেন্টিনা গ্রীষ্মকালীন সময়
+  },
+  US/Central: {
+    Generic: কেন্দ্রীয় সময়,
+    Standard: কেন্দ্রীয় মানক সময়,
+    Daylight: কেন্দ্রীয় দিবালোক সময়
+  },
+  America/Shiprock: {
+    Generic: পার্বত্য অঞ্চলের সময়,
+    Standard: পার্বত্য অঞ্চলের প্রমাণ সময়,
+    Daylight: পার্বত্য অঞ্চলের দিনের সময়
+  },
+  Navajo: {
+    Generic: পার্বত্য অঞ্চলের সময়,
+    Standard: পার্বত্য অঞ্চলের প্রমাণ সময়,
+    Daylight: পার্বত্য অঞ্চলের দিনের সময়
+  },
+  US/Mountain: {
+    Generic: পার্বত্য অঞ্চলের সময়,
+    Standard: পার্বত্য অঞ্চলের প্রমাণ সময়,
+    Daylight: পার্বত্য অঞ্চলের দিনের সময়
+  },
+  US/Michigan: {
+    Generic: পূর্বাঞ্চলীয় সময়,
+    Standard: পূর্বাঞ্চলের প্রমাণ সময়,
+    Daylight: পূর্বাঞ্চলের দিবালোক সময়
+  },
+  Canada/Mountain: {
+    Generic: পার্বত্য অঞ্চলের সময়,
+    Standard: পার্বত্য অঞ্চলের প্রমাণ সময়,
+    Daylight: পার্বত্য অঞ্চলের দিনের সময়
+  },
+  Canada/Atlantic: {
+    Generic: অতলান্তিকের সময়,
+    Standard: অতলান্তিক মানক সময়,
+    Daylight: অতলান্তিক দিবালোক সময়
+  },
+  Cuba: {
+    Generic: কিউবার সময়,
+    Standard: কিউবা মানক সময়,
+    Daylight: কিউবা দিবালোক সময়
+  },
+  America/Indiana/Indianapolis: {
+    Generic: পূর্বাঞ্চলীয় সময়,
+    Standard: পূর্বাঞ্চলের প্রমাণ সময়,
+    Daylight: পূর্বাঞ্চলের দিবালোক সময়
+  },
+  US/East-Indiana: {
+    Generic: পূর্বাঞ্চলীয় সময়,
+    Standard: পূর্বাঞ্চলের প্রমাণ সময়,
+    Daylight: পূর্বাঞ্চলের দিবালোক সময়
+  },
+  America/Knox_IN: {
+    Generic: কেন্দ্রীয় সময়,
+    Standard: কেন্দ্রীয় মানক সময়,
+    Daylight: কেন্দ্রীয় দিবালোক সময়
+  },
+  US/Indiana-Starke: {
+    Generic: কেন্দ্রীয় সময়,
+    Standard: কেন্দ্রীয় মানক সময়,
+    Daylight: কেন্দ্রীয় দিবালোক সময়
+  },
+  Jamaica: {
+    Generic: পূর্বাঞ্চলীয় সময়,
+    Standard: পূর্বাঞ্চলের প্রমাণ সময়,
+    Daylight: পূর্বাঞ্চলের দিবালোক সময়
+  },
+  America/Kentucky/Louisville: {
+    Generic: পূর্বাঞ্চলীয় সময়,
+    Standard: পূর্বাঞ্চলের প্রমাণ সময়,
+    Daylight: পূর্বাঞ্চলের দিবালোক সময়
+  },
+  US/Pacific: {
+    Generic: প্রশান্ত মহাসাগরীয় অঞ্চলের সময়,
+    Standard: প্রশান্ত মহাসাগরীয় অঞ্চলের মানক সময়,
+    Daylight: প্রশান্ত মহাসাগরীয় অঞ্চলের দিনের সময়
+  },
+  Brazil/West: {
+    Generic: আমাজন সময়,
+    Standard: আমাজন মানক সময়,
+    Daylight: আমাজন গ্রীষ্মকালীন সময়
+  },
+  Mexico/BajaSur: {
+    Generic: মেক্সিকান প্রশান্ত মহাসাগরীয় সময়,
+    Standard: মেক্সিকান প্রশান্ত মহসাগরীয় মানক সময়,
+    Daylight: মেক্সিকান প্রশান্ত মহাসাগরীয় দিবালোক সময়
+  },
+  Mexico/General: {
+    Generic: কেন্দ্রীয় সময়,
+    Standard: কেন্দ্রীয় মানক সময়,
+    Daylight: কেন্দ্রীয় দিবালোক সময়
+  },
+  US/Eastern: {
+    Generic: পূর্বাঞ্চলীয় সময়,
+    Standard: পূর্বাঞ্চলের প্রমাণ সময়,
+    Daylight: পূর্বাঞ্চলের দিবালোক সময়
+  },
+  Brazil/DeNoronha: {
+    Generic: ফার্নান্দো ডি নোরোনহা সময়,
+    Standard: ফার্নান্দো ডি নোরোনহা মানক সময়,
+    Daylight: ফার্নান্দো ডি নোরোনহা গ্রীষ্মকালীন সময়
+  },
+  America/Nuuk: {
+    Generic: পশ্চিম গ্রীনল্যান্ড সময়,
+    Standard: পশ্চিম গ্রীনল্যান্ড মানক সময়,
+    Daylight: পশ্চিম গ্রীনল্যান্ড গ্রীষ্মকালীন সময়
+  },
+  America/Atikokan: {
+    Generic: পূর্বাঞ্চলীয় সময়,
+    Standard: পূর্বাঞ্চলের প্রমাণ সময়,
+    Daylight: পূর্বাঞ্চলের দিবালোক সময়
+  },
+  US/Arizona: {
+    Generic: পার্বত্য অঞ্চলের সময়,
+    Standard: পার্বত্য অঞ্চলের প্রমাণ সময়,
+    Daylight: পার্বত্য অঞ্চলের দিনের সময়
+  },
+  America/Virgin: {
+    Generic: অতলান্তিকের সময়,
+    Standard: অতলান্তিক মানক সময়,
+    Daylight: অতলান্তিক দিবালোক সময়
+  },
+  Canada/Saskatchewan: {
+    Generic: কেন্দ্রীয় সময়,
+    Standard: কেন্দ্রীয় মানক সময়,
+    Daylight: কেন্দ্রীয় দিবালোক সময়
+  },
+  America/Porto_Acre: {
+    Generic: একর সময়,
+    Standard: একর মানক সময়,
+    Daylight: একর গ্রীষ্মকাল সময়
+  },
+  Brazil/Acre: {
+    Generic: একর সময়,
+    Standard: একর মানক সময়,
+    Daylight: একর গ্রীষ্মকাল সময়
+  },
+  Chile/Continental: {
+    Generic: চিলি সময়,
+    Standard: চিলি মানক সময়,
+    Daylight: চিলি গ্রীষ্মকালীন সময়
+  },
+  Brazil/East: {
+    Generic: ব্রাসিলিয়া সময়,
+    Standard: ব্রাসিলিয়া মানক সময়,
+    Daylight: ব্রাসিলিয়া গ্রীষ্মকালীন সময়
+  },
+  Canada/Newfoundland: {
+    Generic: নিউফাউন্ডল্যান্ড সময়,
+    Standard: নিউফাউন্ডল্যান্ড মানক সময়,
+    Daylight: নিউফাউন্ডল্যান্ড দিবালোক সময়
+  },
+  America/Ensenada: {
+    Generic: প্রশান্ত মহাসাগরীয় অঞ্চলের সময়,
+    Standard: প্রশান্ত মহাসাগরীয় অঞ্চলের মানক সময়,
+    Daylight: প্রশান্ত মহাসাগরীয় অঞ্চলের দিনের সময়
+  },
+  Mexico/BajaNorte: {
+    Generic: প্রশান্ত মহাসাগরীয় অঞ্চলের সময়,
+    Standard: প্রশান্ত মহাসাগরীয় অঞ্চলের মানক সময়,
+    Daylight: প্রশান্ত মহাসাগরীয় অঞ্চলের দিনের সময়
+  },
+  Canada/Eastern: {
+    Generic: পূর্বাঞ্চলীয় সময়,
+    Standard: পূর্বাঞ্চলের প্রমাণ সময়,
+    Daylight: পূর্বাঞ্চলের দিবালোক সময়
+  },
+  Canada/Pacific: {
+    Generic: প্রশান্ত মহাসাগরীয় অঞ্চলের সময়,
+    Standard: প্রশান্ত মহাসাগরীয় অঞ্চলের মানক সময়,
+    Daylight: প্রশান্ত মহাসাগরীয় অঞ্চলের দিনের সময়
+  },
+  Canada/Yukon: {
+    Generic: ইউকোন সময়,
+    Standard: ইউকোন সময়,
+    Daylight: ইউকোন সময়
+  },
+  Canada/Central: {
+    Generic: কেন্দ্রীয় সময়,
+    Standard: কেন্দ্রীয় মানক সময়,
+    Daylight: কেন্দ্রীয় দিবালোক সময়
+  },
+  Asia/Ashkhabad: {
+    Generic: তুর্কমেনিস্তান সময়,
+    Standard: তুর্কমেনিস্তান মানক সময়,
+    Daylight: তুর্কমেনিস্তান গ্রীষ্মকালীন সময়
+  },
+  Asia/Dacca: {
+    Generic: বাংলাদেশ সময়,
+    Standard: বাংলাদেশ মানক সময়,
+    Daylight: বাংলাদেশ গ্রীষ্মকালীন সময়
+  },
+  Asia/Ho_Chi_Minh: {
+    Generic: ইন্দোচীন সময়,
+    Standard: ইন্দোচীন সময়,
+    Daylight: ইন্দোচীন সময়
+  },
+  Hongkong: {
+    Generic: হং কং সময়,
+    Standard: হং কং মানক সময়,
+    Daylight: হং কং গ্রীষ্মকালীন সময়
+  },
+  Asia/Tel_Aviv: {
+    Generic: ইজরায়েল সময়,
+    Standard: ইজরায়েল মানক সময়,
+    Daylight: ইজরায়েল দিবালোক সময়
+  },
+  Israel: {
+    Generic: ইজরায়েল সময়,
+    Standard: ইজরায়েল মানক সময়,
+    Daylight: ইজরায়েল দিবালোক সময়
+  },
+  Asia/Kathmandu: {
+    Generic: নেপাল সময়,
+    Standard: নেপাল সময়,
+    Daylight: নেপাল সময়
+  },
+  Asia/Kolkata: {
+    Generic: ভারতীয় মানক সময়,
+    Standard: ভারতীয় মানক সময়,
+    Daylight: ভারতীয় মানক সময়
+  },
+  Asia/Macao: {
+    Generic: চীন সময়,
+    Standard: চীন মানক সময়,
+    Daylight: চীন দিবালোক সময়
+  },
+  Asia/Ujung_Pandang: {
+    Generic: কেন্দ্রীয় ইন্দোনেশিয়া সময়,
+    Standard: কেন্দ্রীয় ইন্দোনেশিয়া সময়,
+    Daylight: কেন্দ্রীয় ইন্দোনেশিয়া সময়
+  },
+  Europe/Nicosia: {
+    Generic: পূর্ব ইউরোপীয় সময়,
+    Standard: পূর্ব ইউরোপীয় মানক সময়,
+    Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  ROK: {
+    Generic: কোরিয়ান সময়,
+    Standard: কোরিয়ান মানক সময়,
+    Daylight: কোরিয়ান দিবালোক সময়
+  },
+  Asia/Chongqing: {
+    Generic: চীন সময়,
+    Standard: চীন মানক সময়,
+    Daylight: চীন দিবালোক সময়
+  },
+  Asia/Chungking: {
+    Generic: চীন সময়,
+    Standard: চীন মানক সময়,
+    Daylight: চীন দিবালোক সময়
+  },
+  Asia/Harbin: {
+    Generic: চীন সময়,
+    Standard: চীন মানক সময়,
+    Daylight: চীন দিবালোক সময়
+  },
+  PRC: {
+    Generic: চীন সময়,
+    Standard: চীন মানক সময়,
+    Daylight: চীন দিবালোক সময়
+  },
+  Singapore: {
+    Generic: সিঙ্গাপুর মানক সময়,
+    Standard: সিঙ্গাপুর মানক সময়,
+    Daylight: সিঙ্গাপুর মানক সময়
+  },
+  ROC: {
+    Generic: তাইপেই সময়,
+    Standard: তাইপেই মানক সময়,
+    Daylight: তাইপেই দিবালোক সময়
+  },
+  Iran: {
+    Generic: ইরান সময়,
+    Standard: ইরান মানক সময়,
+    Daylight: ইরান দিবালোক সময়
+  },
+  Asia/Thimbu: {
+    Generic: ভুটান সময়,
+    Standard: ভুটান সময়,
+    Daylight: ভুটান সময়
+  },
+  Japan: {
+    Generic: জাপান সময়,
+    Standard: জাপান মানক সময়,
+    Daylight: জাপান দিবালোক সময়
+  },
+  Asia/Ulan_Bator: {
+    Generic: উলান বাতোর সময়,
+    Standard: উলান বাতোর মানক সময়,
+    Daylight: উলান বাতোর গ্রীষ্মকালীন সময়
+  },
+  Asia/Kashgar: {
+    Generic: চীন সময়,
+    Standard: চীন মানক সময়,
+    Daylight: চীন দিবালোক সময়
+  },
+  Asia/Yangon: {
+    Generic: মায়ানমার সময়,
+    Standard: মায়ানমার সময়,
+    Daylight: মায়ানমার সময়
+  },
+  WET: {
+    Generic: পশ্চিম ইউরোপীয় সময়,
+    Standard: পশ্চিম ইউরোপীয় মানক সময়,
+    Daylight: পশ্চিম ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Atlantic/Faroe: {
+    Generic: পশ্চিম ইউরোপীয় সময়,
+    Standard: পশ্চিম ইউরোপীয় মানক সময়,
+    Daylight: পশ্চিম ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Australia/South: {
+    Generic: কেন্দ্রীয় অস্ট্রেলীয় সময়,
+    Standard: অস্ট্রেলীয় কেন্দ্রীয় মানক সময়,
+    Daylight: অস্ট্রেলীয় কেন্দ্রীয় দিবালোক সময়
+  },
+  Australia/Queensland: {
+    Generic: পূর্ব অস্ট্রেলীয় সময়,
+    Standard: অস্ট্রেলীয় পূর্ব মানক সময়,
+    Daylight: অস্ট্রেলীয় পূর্ব দিবালোক সময়
+  },
+  Australia/Yancowinna: {
+    Generic: কেন্দ্রীয় অস্ট্রেলীয় সময়,
+    Standard: অস্ট্রেলীয় কেন্দ্রীয় মানক সময়,
+    Daylight: অস্ট্রেলীয় কেন্দ্রীয় দিবালোক সময়
+  },
+  Australia/North: {
+    Generic: কেন্দ্রীয় অস্ট্রেলীয় সময়,
+    Standard: অস্ট্রেলীয় কেন্দ্রীয় মানক সময়,
+    Daylight: অস্ট্রেলীয় কেন্দ্রীয় দিবালোক সময়
+  },
+  Australia/Tasmania: {
+    Generic: পূর্ব অস্ট্রেলীয় সময়,
+    Standard: অস্ট্রেলীয় পূর্ব মানক সময়,
+    Daylight: অস্ট্রেলীয় পূর্ব দিবালোক সময়
+  },
+  Australia/LHI: {
+    Generic: লর্ড হাওয়ে সময়,
+    Standard: লর্ড হাওয়ে মানক মসয়,
+    Daylight: লর্ড হাওয়ে দিবালোক মসয়
+  },
+  Australia/Victoria: {
+    Generic: পূর্ব অস্ট্রেলীয় সময়,
+    Standard: অস্ট্রেলীয় পূর্ব মানক সময়,
+    Daylight: অস্ট্রেলীয় পূর্ব দিবালোক সময়
+  },
+  Australia/West: {
+    Generic: পশ্চিমি অস্ট্রেলীয় সময়,
+    Standard: অস্ট্রেলীয় পশ্চিমি মানক সময়,
+    Daylight: অস্ট্রেলীয় পশ্চিমি দিবালোক সময়
+  },
+  Australia/ACT: {
+    Generic: পূর্ব অস্ট্রেলীয় সময়,
+    Standard: অস্ট্রেলীয় পূর্ব মানক সময়,
+    Daylight: অস্ট্রেলীয় পূর্ব দিবালোক সময়
+  },
+  Australia/Canberra: {
+    Generic: পূর্ব অস্ট্রেলীয় সময়,
+    Standard: অস্ট্রেলীয় পূর্ব মানক সময়,
+    Daylight: অস্ট্রেলীয় পূর্ব দিবালোক সময়
+  },
+  Australia/NSW: {
+    Generic: পূর্ব অস্ট্রেলীয় সময়,
+    Standard: অস্ট্রেলীয় পূর্ব মানক সময়,
+    Daylight: অস্ট্রেলীয় পূর্ব দিবালোক সময়
+  },
+  HST: {
+    Generic: স্থানাংকিত আন্তর্জাতিক সময় -10,
+    Standard: স্থানাংকিত আন্তর্জাতিক সময় -10,
+    Daylight: স্থানাংকিত আন্তর্জাতিক সময় -10
+  },
+  EST: {
+    Generic: স্থানাংকিত আন্তর্জাতিক সময় -5,
+    Standard: স্থানাংকিত আন্তর্জাতিক সময় -5,
+    Daylight: স্থানাংকিত আন্তর্জাতিক সময় -5
+  },
+  MST: {
+    Generic: স্থানাংকিত আন্তর্জাতিক সময় -7,
+    Standard: স্থানাংকিত আন্তর্জাতিক সময় -7,
+    Daylight: স্থানাংকিত আন্তর্জাতিক সময় -7
+  },
+  Etc/GMT+0: {
+    Generic: গ্রীনিচ মিন টাইম,
+    Standard: গ্রীনিচ মিন টাইম,
+    Daylight: গ্রীনিচ মিন টাইম
+  },
+  Etc/GMT-0: {
+    Generic: গ্রীনিচ মিন টাইম,
+    Standard: গ্রীনিচ মিন টাইম,
+    Daylight: গ্রীনিচ মিন টাইম
+  },
+  Etc/GMT0: {
+    Generic: গ্রীনিচ মিন টাইম,
+    Standard: গ্রীনিচ মিন টাইম,
+    Daylight: গ্রীনিচ মিন টাইম
+  },
+  Etc/Greenwich: {
+    Generic: গ্রীনিচ মিন টাইম,
+    Standard: গ্রীনিচ মিন টাইম,
+    Daylight: গ্রীনিচ মিন টাইম
+  },
+  GMT: {
+    Generic: গ্রীনিচ মিন টাইম,
+    Standard: গ্রীনিচ মিন টাইম,
+    Daylight: গ্রীনিচ মিন টাইম
+  },
+  GMT+0: {
+    Generic: গ্রীনিচ মিন টাইম,
+    Standard: গ্রীনিচ মিন টাইম,
+    Daylight: গ্রীনিচ মিন টাইম
+  },
+  GMT-0: {
+    Generic: গ্রীনিচ মিন টাইম,
+    Standard: গ্রীনিচ মিন টাইম,
+    Daylight: গ্রীনিচ মিন টাইম
+  },
+  GMT0: {
+    Generic: গ্রীনিচ মিন টাইম,
+    Standard: গ্রীনিচ মিন টাইম,
+    Daylight: গ্রীনিচ মিন টাইম
+  },
+  Greenwich: {
+    Generic: গ্রীনিচ মিন টাইম,
+    Standard: গ্রীনিচ মিন টাইম,
+    Daylight: গ্রীনিচ মিন টাইম
+  },
+  Etc/UCT: {
+    Generic: স্থানাংকিত আন্তর্জাতিক সময়,
+    Standard: স্থানাংকিত আন্তর্জাতিক সময়,
+    Daylight: স্থানাংকিত আন্তর্জাতিক সময়
+  },
+  Etc/Universal: {
+    Generic: স্থানাংকিত আন্তর্জাতিক সময়,
+    Standard: স্থানাংকিত আন্তর্জাতিক সময়,
+    Daylight: স্থানাংকিত আন্তর্জাতিক সময়
+  },
+  Etc/Zulu: {
+    Generic: স্থানাংকিত আন্তর্জাতিক সময়,
+    Standard: স্থানাংকিত আন্তর্জাতিক সময়,
+    Daylight: স্থানাংকিত আন্তর্জাতিক সময়
+  },
+  UCT: {
+    Generic: স্থানাংকিত আন্তর্জাতিক সময়,
+    Standard: স্থানাংকিত আন্তর্জাতিক সময়,
+    Daylight: স্থানাংকিত আন্তর্জাতিক সময়
+  },
+  UTC: {
+    Generic: স্থানাংকিত আন্তর্জাতিক সময়,
+    Standard: স্থানাংকিত আন্তর্জাতিক সময়,
+    Daylight: স্থানাংকিত আন্তর্জাতিক সময়
+  },
+  Universal: {
+    Generic: স্থানাংকিত আন্তর্জাতিক সময়,
+    Standard: স্থানাংকিত আন্তর্জাতিক সময়,
+    Daylight: স্থানাংকিত আন্তর্জাতিক সময়
+  },
+  Zulu: {
+    Generic: স্থানাংকিত আন্তর্জাতিক সময়,
+    Standard: স্থানাংকিত আন্তর্জাতিক সময়,
+    Daylight: স্থানাংকিত আন্তর্জাতিক সময়
+  },
+  Atlantic/Jan_Mayen: {
+    Generic: মধ্য ইউরোপীয় সময়,
+    Standard: মধ্য ইউরোপীয় মানক সময়,
+    Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  MET: {
+    Generic: মধ্য ইউরোপীয় সময়,
+    Standard: মধ্য ইউরোপীয় মানক সময়,
+    Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  EET: {
+    Generic: পূর্ব ইউরোপীয় সময়,
+    Standard: পূর্ব ইউরোপীয় মানক সময়,
+    Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/Tiraspol: {
+    Generic: পূর্ব ইউরোপীয় সময়,
+    Standard: পূর্ব ইউরোপীয় মানক সময়,
+    Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Eire: {
+    Generic: আয়ারল্যান্ড সময়,
+    Standard: গ্রীনিচ মিন টাইম,
+    Daylight: আইরিশ মানক সময়
+  },
+  Asia/Istanbul: {
+    Generic: তুরস্ক সময়,
+    Standard: তুরস্ক মানক সময়,
+    Daylight: তুরস্ক দিবালোক সময়
+  },
+  Turkey: {
+    Generic: তুরস্ক সময়,
+    Standard: তুরস্ক মানক সময়,
+    Daylight: তুরস্ক দিবালোক সময়
+  },
+  Europe/Kyiv: {
+    Generic: পূর্ব ইউরোপীয় সময়,
+    Standard: পূর্ব ইউরোপীয় মানক সময়,
+    Daylight: পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Portugal: {
+    Generic: পশ্চিম ইউরোপীয় সময়,
+    Standard: পশ্চিম ইউরোপীয় মানক সময়,
+    Daylight: পশ্চিম ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Europe/Belfast: {
+    Generic: যুক্তরাজ্য সময়,
+    Standard: গ্রীনিচ মিন টাইম,
+    Daylight: ব্রিটিশ গ্রীষ্মকালীন সময়
+  },
+  GB: {
+    Generic: যুক্তরাজ্য সময়,
+    Standard: গ্রীনিচ মিন টাইম,
+    Daylight: ব্রিটিশ গ্রীষ্মকালীন সময়
+  },
+  GB-Eire: {
+    Generic: যুক্তরাজ্য সময়,
+    Standard: গ্রীনিচ মিন টাইম,
+    Daylight: ব্রিটিশ গ্রীষ্মকালীন সময়
+  },
+  W-SU: {
+    Generic: মস্কো সময়,
+    Standard: মস্কো মানক সময়,
+    Daylight: মস্কো দিবালোক সময়
+  },
+  CET: {
+    Generic: মধ্য ইউরোপীয় সময়,
+    Standard: মধ্য ইউরোপীয় মানক সময়,
+    Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Poland: {
+    Generic: মধ্য ইউরোপীয় সময়,
+    Standard: মধ্য ইউরোপীয় মানক সময়,
+    Daylight: মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়
+  },
+  Antarctica/South_Pole: {
+    Generic: নিউজিল্যান্ড সময়,
+    Standard: নিউজিল্যান্ড মানক সময়,
+    Daylight: নিউজিল্যান্ড দিবালোক সময়
+  },
+  NZ: {
+    Generic: নিউজিল্যান্ড সময়,
+    Standard: নিউজিল্যান্ড মানক সময়,
+    Daylight: নিউজিল্যান্ড দিবালোক সময়
+  },
+  NZ-CHAT: {
+    Generic: চ্যাথাম সময়,
+    Standard: চ্যাথাম মানক সময়,
+    Daylight: চ্যাথাম দিবালোক সময়
+  },
+  Chile/EasterIsland: {
+    Generic: ইস্টার দ্বীপ সময়,
+    Standard: ইস্টার দ্বীপ মানক সময়,
+    Daylight: ইস্টার দ্বীপ গ্রীষ্মকালীন সময়
+  },
+  Pacific/Pohnpei: {
+    Generic: পোনাপে সময়,
+    Standard: পোনাপে সময়,
+    Daylight: পোনাপে সময়
+  },
+  US/Hawaii: {
+    Generic: হাওয়াই-আলেউত সময়,
+    Standard: হাওয়াই-আলেউত মানক সময়,
+    Daylight: হাওয়াই-আলেউত দিবালোক সময়
+  },
+  Pacific/Kanton: {
+    Generic: ফোনিক্স দ্বীপপুঞ্জ সময়,
+    Standard: ফোনিক্স দ্বীপপুঞ্জ সময়,
+    Daylight: ফোনিক্স দ্বীপপুঞ্জ সময়
+  },
+  Kwajalein: {
+    Generic: মার্শাল দ্বীপপুঞ্জ সময়,
+    Standard: মার্শাল দ্বীপপুঞ্জ সময়,
+    Daylight: মার্শাল দ্বীপপুঞ্জ সময়
+  },
+  Pacific/Samoa: {
+    Generic: সামোয়া সময়,
+    Standard: সামোয়া মানক সময়,
+    Daylight: সামোয়া দিবালোক সময়
+  },
+  US/Samoa: {
+    Generic: সামোয়া সময়,
+    Standard: সামোয়া মানক সময়,
+    Daylight: সামোয়া দিবালোক সময়
+  },
+  Pacific/Chuuk: {
+    Generic: চুক সময়,
+    Standard: চুক সময়,
+    Daylight: চুক সময়
+  },
+  Pacific/Yap: {
+    Generic: চুক সময়,
+    Standard: চুক সময়,
+    Daylight: চুক সময়
+  },
+  America/Fort_Wayne: {
+    Generic: পূর্বাঞ্চলীয় সময়,
+    Standard: পূর্বাঞ্চলের প্রমাণ সময়,
+    Daylight: পূর্বাঞ্চলের দিবালোক সময়
+  },
+  Antarctica/Troll: {
+    Generic: গ্রীনিচ মিন টাইম,
+    Standard: গ্রীনিচ মিন টাইম,
+    Daylight: গ্রীনিচ মিন টাইম
   }
-]
+}

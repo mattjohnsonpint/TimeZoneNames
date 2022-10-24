@@ -1,4762 +1,2977 @@
-﻿[
-  {
-    Key: Africa/Abidjan,
-    Value: {
-      Generic: Гринвичийн цаг,
-      Standard: Гринвичийн цаг,
-      Daylight: Гринвичийн цаг
-    }
-  },
-  {
-    Key: Africa/Accra,
-    Value: {
-      Generic: Гринвичийн цаг,
-      Standard: Гринвичийн цаг,
-      Daylight: Гринвичийн цаг
-    }
-  },
-  {
-    Key: Africa/Addis_Ababa,
-    Value: {
-      Generic: Зүүн Африкийн цаг,
-      Standard: Зүүн Африкийн цаг,
-      Daylight: Зүүн Африкийн цаг
-    }
-  },
-  {
-    Key: Africa/Algiers,
-    Value: {
-      Generic: Төв Европын цаг,
-      Standard: Төв Европын стандарт цаг,
-      Daylight: Төв Европын зуны цаг
-    }
-  },
-  {
-    Key: Africa/Asmara,
-    Value: {
-      Generic: Зүүн Африкийн цаг,
-      Standard: Зүүн Африкийн цаг,
-      Daylight: Зүүн Африкийн цаг
-    }
-  },
-  {
-    Key: Africa/Asmera,
-    Value: {
-      Generic: Зүүн Африкийн цаг,
-      Standard: Зүүн Африкийн цаг,
-      Daylight: Зүүн Африкийн цаг
-    }
-  },
-  {
-    Key: Africa/Bamako,
-    Value: {
-      Generic: Гринвичийн цаг,
-      Standard: Гринвичийн цаг,
-      Daylight: Гринвичийн цаг
-    }
-  },
-  {
-    Key: Africa/Bangui,
-    Value: {
-      Generic: Баруун Африкийн цаг,
-      Standard: Баруун Африкийн стандарт цаг,
-      Daylight: Баруун Африкийн зуны цаг
-    }
-  },
-  {
-    Key: Africa/Banjul,
-    Value: {
-      Generic: Гринвичийн цаг,
-      Standard: Гринвичийн цаг,
-      Daylight: Гринвичийн цаг
-    }
-  },
-  {
-    Key: Africa/Bissau,
-    Value: {
-      Generic: Гринвичийн цаг,
-      Standard: Гринвичийн цаг,
-      Daylight: Гринвичийн цаг
-    }
-  },
-  {
-    Key: Africa/Blantyre,
-    Value: {
-      Generic: Төв Африкийн цаг,
-      Standard: Төв Африкийн цаг,
-      Daylight: Төв Африкийн цаг
-    }
-  },
-  {
-    Key: Africa/Brazzaville,
-    Value: {
-      Generic: Баруун Африкийн цаг,
-      Standard: Баруун Африкийн стандарт цаг,
-      Daylight: Баруун Африкийн зуны цаг
-    }
-  },
-  {
-    Key: Africa/Bujumbura,
-    Value: {
-      Generic: Төв Африкийн цаг,
-      Standard: Төв Африкийн цаг,
-      Daylight: Төв Африкийн цаг
-    }
-  },
-  {
-    Key: Africa/Cairo,
-    Value: {
-      Generic: Зүүн Европын цаг,
-      Standard: Зүүн Европын стандарт цаг,
-      Daylight: Зүүн Европын зуны цаг
-    }
-  },
-  {
-    Key: Africa/Casablanca,
-    Value: {
-      Generic: Баруун Европын цаг,
-      Standard: Баруун Европын стандарт цаг,
-      Daylight: Баруун Европын зуны цаг
-    }
-  },
-  {
-    Key: Africa/Ceuta,
-    Value: {
-      Generic: Төв Европын цаг,
-      Standard: Төв Европын стандарт цаг,
-      Daylight: Төв Европын зуны цаг
-    }
-  },
-  {
-    Key: Africa/Conakry,
-    Value: {
-      Generic: Гринвичийн цаг,
-      Standard: Гринвичийн цаг,
-      Daylight: Гринвичийн цаг
-    }
-  },
-  {
-    Key: Africa/Dakar,
-    Value: {
-      Generic: Гринвичийн цаг,
-      Standard: Гринвичийн цаг,
-      Daylight: Гринвичийн цаг
-    }
-  },
-  {
-    Key: Africa/Dar_es_Salaam,
-    Value: {
-      Generic: Зүүн Африкийн цаг,
-      Standard: Зүүн Африкийн цаг,
-      Daylight: Зүүн Африкийн цаг
-    }
-  },
-  {
-    Key: Africa/Djibouti,
-    Value: {
-      Generic: Зүүн Африкийн цаг,
-      Standard: Зүүн Африкийн цаг,
-      Daylight: Зүүн Африкийн цаг
-    }
-  },
-  {
-    Key: Africa/Douala,
-    Value: {
-      Generic: Баруун Африкийн цаг,
-      Standard: Баруун Африкийн стандарт цаг,
-      Daylight: Баруун Африкийн зуны цаг
-    }
-  },
-  {
-    Key: Africa/El_Aaiun,
-    Value: {
-      Generic: Баруун Европын цаг,
-      Standard: Баруун Европын стандарт цаг,
-      Daylight: Баруун Европын зуны цаг
-    }
-  },
-  {
-    Key: Africa/Freetown,
-    Value: {
-      Generic: Гринвичийн цаг,
-      Standard: Гринвичийн цаг,
-      Daylight: Гринвичийн цаг
-    }
-  },
-  {
-    Key: Africa/Gaborone,
-    Value: {
-      Generic: Төв Африкийн цаг,
-      Standard: Төв Африкийн цаг,
-      Daylight: Төв Африкийн цаг
-    }
-  },
-  {
-    Key: Africa/Harare,
-    Value: {
-      Generic: Төв Африкийн цаг,
-      Standard: Төв Африкийн цаг,
-      Daylight: Төв Африкийн цаг
-    }
-  },
-  {
-    Key: Africa/Johannesburg,
-    Value: {
-      Generic: Өмнөд Африкийн стандарт цаг,
-      Standard: Өмнөд Африкийн стандарт цаг,
-      Daylight: Өмнөд Африкийн стандарт цаг
-    }
-  },
-  {
-    Key: Africa/Juba,
-    Value: {
-      Generic: Төв Африкийн цаг,
-      Standard: Төв Африкийн цаг,
-      Daylight: Төв Африкийн цаг
-    }
-  },
-  {
-    Key: Africa/Kampala,
-    Value: {
-      Generic: Зүүн Африкийн цаг,
-      Standard: Зүүн Африкийн цаг,
-      Daylight: Зүүн Африкийн цаг
-    }
-  },
-  {
-    Key: Africa/Khartoum,
-    Value: {
-      Generic: Төв Африкийн цаг,
-      Standard: Төв Африкийн цаг,
-      Daylight: Төв Африкийн цаг
-    }
-  },
-  {
-    Key: Africa/Kigali,
-    Value: {
-      Generic: Төв Африкийн цаг,
-      Standard: Төв Африкийн цаг,
-      Daylight: Төв Африкийн цаг
-    }
-  },
-  {
-    Key: Africa/Kinshasa,
-    Value: {
-      Generic: Баруун Африкийн цаг,
-      Standard: Баруун Африкийн стандарт цаг,
-      Daylight: Баруун Африкийн зуны цаг
-    }
-  },
-  {
-    Key: Africa/Lagos,
-    Value: {
-      Generic: Баруун Африкийн цаг,
-      Standard: Баруун Африкийн стандарт цаг,
-      Daylight: Баруун Африкийн зуны цаг
-    }
-  },
-  {
-    Key: Africa/Libreville,
-    Value: {
-      Generic: Баруун Африкийн цаг,
-      Standard: Баруун Африкийн стандарт цаг,
-      Daylight: Баруун Африкийн зуны цаг
-    }
-  },
-  {
-    Key: Africa/Lome,
-    Value: {
-      Generic: Гринвичийн цаг,
-      Standard: Гринвичийн цаг,
-      Daylight: Гринвичийн цаг
-    }
-  },
-  {
-    Key: Africa/Luanda,
-    Value: {
-      Generic: Баруун Африкийн цаг,
-      Standard: Баруун Африкийн стандарт цаг,
-      Daylight: Баруун Африкийн зуны цаг
-    }
-  },
-  {
-    Key: Africa/Lubumbashi,
-    Value: {
-      Generic: Төв Африкийн цаг,
-      Standard: Төв Африкийн цаг,
-      Daylight: Төв Африкийн цаг
-    }
-  },
-  {
-    Key: Africa/Lusaka,
-    Value: {
-      Generic: Төв Африкийн цаг,
-      Standard: Төв Африкийн цаг,
-      Daylight: Төв Африкийн цаг
-    }
-  },
-  {
-    Key: Africa/Malabo,
-    Value: {
-      Generic: Баруун Африкийн цаг,
-      Standard: Баруун Африкийн стандарт цаг,
-      Daylight: Баруун Африкийн зуны цаг
-    }
-  },
-  {
-    Key: Africa/Maputo,
-    Value: {
-      Generic: Төв Африкийн цаг,
-      Standard: Төв Африкийн цаг,
-      Daylight: Төв Африкийн цаг
-    }
-  },
-  {
-    Key: Africa/Maseru,
-    Value: {
-      Generic: Өмнөд Африкийн стандарт цаг,
-      Standard: Өмнөд Африкийн стандарт цаг,
-      Daylight: Өмнөд Африкийн стандарт цаг
-    }
-  },
-  {
-    Key: Africa/Mbabane,
-    Value: {
-      Generic: Өмнөд Африкийн стандарт цаг,
-      Standard: Өмнөд Африкийн стандарт цаг,
-      Daylight: Өмнөд Африкийн стандарт цаг
-    }
-  },
-  {
-    Key: Africa/Mogadishu,
-    Value: {
-      Generic: Зүүн Африкийн цаг,
-      Standard: Зүүн Африкийн цаг,
-      Daylight: Зүүн Африкийн цаг
-    }
-  },
-  {
-    Key: Africa/Monrovia,
-    Value: {
-      Generic: Гринвичийн цаг,
-      Standard: Гринвичийн цаг,
-      Daylight: Гринвичийн цаг
-    }
-  },
-  {
-    Key: Africa/Nairobi,
-    Value: {
-      Generic: Зүүн Африкийн цаг,
-      Standard: Зүүн Африкийн цаг,
-      Daylight: Зүүн Африкийн цаг
-    }
-  },
-  {
-    Key: Africa/Ndjamena,
-    Value: {
-      Generic: Баруун Африкийн цаг,
-      Standard: Баруун Африкийн стандарт цаг,
-      Daylight: Баруун Африкийн зуны цаг
-    }
-  },
-  {
-    Key: Africa/Niamey,
-    Value: {
-      Generic: Баруун Африкийн цаг,
-      Standard: Баруун Африкийн стандарт цаг,
-      Daylight: Баруун Африкийн зуны цаг
-    }
-  },
-  {
-    Key: Africa/Nouakchott,
-    Value: {
-      Generic: Гринвичийн цаг,
-      Standard: Гринвичийн цаг,
-      Daylight: Гринвичийн цаг
-    }
-  },
-  {
-    Key: Africa/Ouagadougou,
-    Value: {
-      Generic: Гринвичийн цаг,
-      Standard: Гринвичийн цаг,
-      Daylight: Гринвичийн цаг
-    }
-  },
-  {
-    Key: Africa/Porto-Novo,
-    Value: {
-      Generic: Баруун Африкийн цаг,
-      Standard: Баруун Африкийн стандарт цаг,
-      Daylight: Баруун Африкийн зуны цаг
-    }
-  },
-  {
-    Key: Africa/Sao_Tome,
-    Value: {
-      Generic: Гринвичийн цаг,
-      Standard: Гринвичийн цаг,
-      Daylight: Гринвичийн цаг
-    }
-  },
-  {
-    Key: Africa/Timbuktu,
-    Value: {
-      Generic: Гринвичийн цаг,
-      Standard: Гринвичийн цаг,
-      Daylight: Гринвичийн цаг
-    }
-  },
-  {
-    Key: Africa/Tripoli,
-    Value: {
-      Generic: Зүүн Европын цаг,
-      Standard: Зүүн Европын стандарт цаг,
-      Daylight: Зүүн Европын зуны цаг
-    }
-  },
-  {
-    Key: Africa/Tunis,
-    Value: {
-      Generic: Төв Европын цаг,
-      Standard: Төв Европын стандарт цаг,
-      Daylight: Төв Европын зуны цаг
-    }
-  },
-  {
-    Key: Africa/Windhoek,
-    Value: {
-      Generic: Төв Африкийн цаг,
-      Standard: Төв Африкийн цаг,
-      Daylight: Төв Африкийн цаг
-    }
-  },
-  {
-    Key: America/Adak,
-    Value: {
-      Generic: Хавай-Алеутын цаг,
-      Standard: Хавай-Алеутын стандарт цаг,
-      Daylight: Хавай-Алеутын зуны цаг
-    }
-  },
-  {
-    Key: America/Anchorage,
-    Value: {
-      Generic: Аляскийн цаг,
-      Standard: Аляскийн стандарт цаг,
-      Daylight: Аляскийн зуны цаг
-    }
-  },
-  {
-    Key: America/Anguilla,
-    Value: {
-      Generic: Атлантын цаг,
-      Standard: Атлантын стандарт цаг,
-      Daylight: Атлантын зуны цаг
-    }
-  },
-  {
-    Key: America/Antigua,
-    Value: {
-      Generic: Атлантын цаг,
-      Standard: Атлантын стандарт цаг,
-      Daylight: Атлантын зуны цаг
-    }
-  },
-  {
-    Key: America/Araguaina,
-    Value: {
-      Generic: Бразилийн цаг,
-      Standard: Бразилийн стандарт цаг,
-      Daylight: Бразилийн зуны цаг
-    }
-  },
-  {
-    Key: America/Argentina/Buenos_Aires,
-    Value: {
-      Generic: Аргентины цаг,
-      Standard: Аргентины стандарт цаг,
-      Daylight: Аргентины зуны цаг
-    }
-  },
-  {
-    Key: America/Argentina/Catamarca,
-    Value: {
-      Generic: Аргентины цаг,
-      Standard: Аргентины стандарт цаг,
-      Daylight: Аргентины зуны цаг
-    }
-  },
-  {
-    Key: America/Argentina/ComodRivadavia,
-    Value: {
-      Generic: Аргентины цаг,
-      Standard: Аргентины стандарт цаг,
-      Daylight: Аргентины зуны цаг
-    }
-  },
-  {
-    Key: America/Argentina/Cordoba,
-    Value: {
-      Generic: Аргентины цаг,
-      Standard: Аргентины стандарт цаг,
-      Daylight: Аргентины зуны цаг
-    }
-  },
-  {
-    Key: America/Argentina/Jujuy,
-    Value: {
-      Generic: Аргентины цаг,
-      Standard: Аргентины стандарт цаг,
-      Daylight: Аргентины зуны цаг
-    }
-  },
-  {
-    Key: America/Argentina/La_Rioja,
-    Value: {
-      Generic: Аргентины цаг,
-      Standard: Аргентины стандарт цаг,
-      Daylight: Аргентины зуны цаг
-    }
-  },
-  {
-    Key: America/Argentina/Mendoza,
-    Value: {
-      Generic: Аргентины цаг,
-      Standard: Аргентины стандарт цаг,
-      Daylight: Аргентины зуны цаг
-    }
-  },
-  {
-    Key: America/Argentina/Rio_Gallegos,
-    Value: {
-      Generic: Аргентины цаг,
-      Standard: Аргентины стандарт цаг,
-      Daylight: Аргентины зуны цаг
-    }
-  },
-  {
-    Key: America/Argentina/Salta,
-    Value: {
-      Generic: Аргентины цаг,
-      Standard: Аргентины стандарт цаг,
-      Daylight: Аргентины зуны цаг
-    }
-  },
-  {
-    Key: America/Argentina/San_Juan,
-    Value: {
-      Generic: Аргентины цаг,
-      Standard: Аргентины стандарт цаг,
-      Daylight: Аргентины зуны цаг
-    }
-  },
-  {
-    Key: America/Argentina/San_Luis,
-    Value: {
-      Generic: Аргентины цаг,
-      Standard: Аргентины стандарт цаг,
-      Daylight: Аргентины зуны цаг
-    }
-  },
-  {
-    Key: America/Argentina/Tucuman,
-    Value: {
-      Generic: Аргентины цаг,
-      Standard: Аргентины стандарт цаг,
-      Daylight: Аргентины зуны цаг
-    }
-  },
-  {
-    Key: America/Argentina/Ushuaia,
-    Value: {
-      Generic: Аргентины цаг,
-      Standard: Аргентины стандарт цаг,
-      Daylight: Аргентины зуны цаг
-    }
-  },
-  {
-    Key: America/Aruba,
-    Value: {
-      Generic: Атлантын цаг,
-      Standard: Атлантын стандарт цаг,
-      Daylight: Атлантын зуны цаг
-    }
-  },
-  {
-    Key: America/Asuncion,
-    Value: {
-      Generic: Парагвайн цаг,
-      Standard: Парагвайн стандарт цаг,
-      Daylight: Парагвайн зуны цаг
-    }
-  },
-  {
-    Key: America/Atikokan,
-    Value: {
-      Generic: Зүүн эргийн цаг,
-      Standard: Зүүн эргийн стандарт цаг,
-      Daylight: Зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: America/Atka,
-    Value: {
-      Generic: Хавай-Алеутын цаг,
-      Standard: Хавай-Алеутын стандарт цаг,
-      Daylight: Хавай-Алеутын зуны цаг
-    }
-  },
-  {
-    Key: America/Bahia,
-    Value: {
-      Generic: Бразилийн цаг,
-      Standard: Бразилийн стандарт цаг,
-      Daylight: Бразилийн зуны цаг
-    }
-  },
-  {
-    Key: America/Bahia_Banderas,
-    Value: {
-      Generic: Төв цаг,
-      Standard: Төв стандарт цаг,
-      Daylight: Төв зуны цаг
-    }
-  },
-  {
-    Key: America/Barbados,
-    Value: {
-      Generic: Атлантын цаг,
-      Standard: Атлантын стандарт цаг,
-      Daylight: Атлантын зуны цаг
-    }
-  },
-  {
-    Key: America/Belem,
-    Value: {
-      Generic: Бразилийн цаг,
-      Standard: Бразилийн стандарт цаг,
-      Daylight: Бразилийн зуны цаг
-    }
-  },
-  {
-    Key: America/Belize,
-    Value: {
-      Generic: Төв цаг,
-      Standard: Төв стандарт цаг,
-      Daylight: Төв зуны цаг
-    }
-  },
-  {
-    Key: America/Blanc-Sablon,
-    Value: {
-      Generic: Атлантын цаг,
-      Standard: Атлантын стандарт цаг,
-      Daylight: Атлантын зуны цаг
-    }
-  },
-  {
-    Key: America/Boa_Vista,
-    Value: {
-      Generic: Амазоны цаг,
-      Standard: Амазоны стандарт цаг,
-      Daylight: Амазоны зуны цаг
-    }
-  },
-  {
-    Key: America/Bogota,
-    Value: {
-      Generic: Колумбын цаг,
-      Standard: Колумбын стандарт цаг,
-      Daylight: Колумбын зуны цаг
-    }
-  },
-  {
-    Key: America/Boise,
-    Value: {
-      Generic: Уулын цаг,
-      Standard: Уулын стандарт цаг,
-      Daylight: Уулын зуны цаг
-    }
-  },
-  {
-    Key: America/Buenos_Aires,
-    Value: {
-      Generic: Аргентины цаг,
-      Standard: Аргентины стандарт цаг,
-      Daylight: Аргентины зуны цаг
-    }
-  },
-  {
-    Key: America/Cambridge_Bay,
-    Value: {
-      Generic: Уулын цаг,
-      Standard: Уулын стандарт цаг,
-      Daylight: Уулын зуны цаг
-    }
-  },
-  {
-    Key: America/Campo_Grande,
-    Value: {
-      Generic: Амазоны цаг,
-      Standard: Амазоны стандарт цаг,
-      Daylight: Амазоны зуны цаг
-    }
-  },
-  {
-    Key: America/Cancun,
-    Value: {
-      Generic: Зүүн эргийн цаг,
-      Standard: Зүүн эргийн стандарт цаг,
-      Daylight: Зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: America/Caracas,
-    Value: {
-      Generic: Венесуэлийн цаг,
-      Standard: Венесуэлийн цаг,
-      Daylight: Венесуэлийн цаг
-    }
-  },
-  {
-    Key: America/Catamarca,
-    Value: {
-      Generic: Аргентины цаг,
-      Standard: Аргентины стандарт цаг,
-      Daylight: Аргентины зуны цаг
-    }
-  },
-  {
-    Key: America/Cayenne,
-    Value: {
-      Generic: Францын Гвианагийн цаг,
-      Standard: Францын Гвианагийн цаг,
-      Daylight: Францын Гвианагийн цаг
-    }
-  },
-  {
-    Key: America/Cayman,
-    Value: {
-      Generic: Зүүн эргийн цаг,
-      Standard: Зүүн эргийн стандарт цаг,
-      Daylight: Зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: America/Chicago,
-    Value: {
-      Generic: Төв цаг,
-      Standard: Төв стандарт цаг,
-      Daylight: Төв зуны цаг
-    }
-  },
-  {
-    Key: America/Chihuahua,
-    Value: {
-      Generic: Мексик-Номхон далайн цаг,
-      Standard: Мексик-Номхон далайн стандарт цаг,
-      Daylight: Мексик-Номхон далайн зуны цаг
-    }
-  },
-  {
-    Key: America/Coral_Harbour,
-    Value: {
-      Generic: Зүүн эргийн цаг,
-      Standard: Зүүн эргийн стандарт цаг,
-      Daylight: Зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: America/Cordoba,
-    Value: {
-      Generic: Аргентины цаг,
-      Standard: Аргентины стандарт цаг,
-      Daylight: Аргентины зуны цаг
-    }
-  },
-  {
-    Key: America/Costa_Rica,
-    Value: {
-      Generic: Төв цаг,
-      Standard: Төв стандарт цаг,
-      Daylight: Төв зуны цаг
-    }
-  },
-  {
-    Key: America/Creston,
-    Value: {
-      Generic: Уулын цаг,
-      Standard: Уулын стандарт цаг,
-      Daylight: Уулын зуны цаг
-    }
-  },
-  {
-    Key: America/Cuiaba,
-    Value: {
-      Generic: Амазоны цаг,
-      Standard: Амазоны стандарт цаг,
-      Daylight: Амазоны зуны цаг
-    }
-  },
-  {
-    Key: America/Curacao,
-    Value: {
-      Generic: Атлантын цаг,
-      Standard: Атлантын стандарт цаг,
-      Daylight: Атлантын зуны цаг
-    }
-  },
-  {
-    Key: America/Danmarkshavn,
-    Value: {
-      Generic: Гринвичийн цаг,
-      Standard: Гринвичийн цаг,
-      Daylight: Гринвичийн цаг
-    }
-  },
-  {
-    Key: America/Dawson,
-    Value: {
-      Generic: Юкон цагийн бүс,
-      Standard: Юкон цагийн бүс,
-      Daylight: Юкон цагийн бүс
-    }
-  },
-  {
-    Key: America/Dawson_Creek,
-    Value: {
-      Generic: Уулын цаг,
-      Standard: Уулын стандарт цаг,
-      Daylight: Уулын зуны цаг
-    }
-  },
-  {
-    Key: America/Denver,
-    Value: {
-      Generic: Уулын цаг,
-      Standard: Уулын стандарт цаг,
-      Daylight: Уулын зуны цаг
-    }
-  },
-  {
-    Key: America/Detroit,
-    Value: {
-      Generic: Зүүн эргийн цаг,
-      Standard: Зүүн эргийн стандарт цаг,
-      Daylight: Зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: America/Dominica,
-    Value: {
-      Generic: Атлантын цаг,
-      Standard: Атлантын стандарт цаг,
-      Daylight: Атлантын зуны цаг
-    }
-  },
-  {
-    Key: America/Edmonton,
-    Value: {
-      Generic: Уулын цаг,
-      Standard: Уулын стандарт цаг,
-      Daylight: Уулын зуны цаг
-    }
-  },
-  {
-    Key: America/Eirunepe,
-    Value: {
-      Generic: Бразил-н цаг,
-      Standard: Бразил-н стандарт цаг,
-      Daylight: Бразил-н зуны цаг
-    }
-  },
-  {
-    Key: America/El_Salvador,
-    Value: {
-      Generic: Төв цаг,
-      Standard: Төв стандарт цаг,
-      Daylight: Төв зуны цаг
-    }
-  },
-  {
-    Key: America/Ensenada,
-    Value: {
-      Generic: Номхон далайн цаг,
-      Standard: Номхон далайн стандарт цаг,
-      Daylight: Номхон далайн зуны цаг
-    }
-  },
-  {
-    Key: America/Fort_Nelson,
-    Value: {
-      Generic: Уулын цаг,
-      Standard: Уулын стандарт цаг,
-      Daylight: Уулын зуны цаг
-    }
-  },
-  {
-    Key: America/Fort_Wayne,
-    Value: {
-      Generic: Зүүн эргийн цаг,
-      Standard: Зүүн эргийн стандарт цаг,
-      Daylight: Зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: America/Fortaleza,
-    Value: {
-      Generic: Бразилийн цаг,
-      Standard: Бразилийн стандарт цаг,
-      Daylight: Бразилийн зуны цаг
-    }
-  },
-  {
-    Key: America/Glace_Bay,
-    Value: {
-      Generic: Атлантын цаг,
-      Standard: Атлантын стандарт цаг,
-      Daylight: Атлантын зуны цаг
-    }
-  },
-  {
-    Key: America/Godthab,
-    Value: {
-      Generic: Баруун Гренландын цаг,
-      Standard: Баруун Гренландын стандарт цаг,
-      Daylight: Баруун Гренландын зуны цаг
-    }
-  },
-  {
-    Key: America/Goose_Bay,
-    Value: {
-      Generic: Атлантын цаг,
-      Standard: Атлантын стандарт цаг,
-      Daylight: Атлантын зуны цаг
-    }
-  },
-  {
-    Key: America/Grand_Turk,
-    Value: {
-      Generic: Зүүн эргийн цаг,
-      Standard: Зүүн эргийн стандарт цаг,
-      Daylight: Зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: America/Grenada,
-    Value: {
-      Generic: Атлантын цаг,
-      Standard: Атлантын стандарт цаг,
-      Daylight: Атлантын зуны цаг
-    }
-  },
-  {
-    Key: America/Guadeloupe,
-    Value: {
-      Generic: Атлантын цаг,
-      Standard: Атлантын стандарт цаг,
-      Daylight: Атлантын зуны цаг
-    }
-  },
-  {
-    Key: America/Guatemala,
-    Value: {
-      Generic: Төв цаг,
-      Standard: Төв стандарт цаг,
-      Daylight: Төв зуны цаг
-    }
-  },
-  {
-    Key: America/Guayaquil,
-    Value: {
-      Generic: Эквадорын цаг,
-      Standard: Эквадорын цаг,
-      Daylight: Эквадорын цаг
-    }
-  },
-  {
-    Key: America/Guyana,
-    Value: {
-      Generic: Гайанагийн цаг,
-      Standard: Гайанагийн цаг,
-      Daylight: Гайанагийн цаг
-    }
-  },
-  {
-    Key: America/Halifax,
-    Value: {
-      Generic: Атлантын цаг,
-      Standard: Атлантын стандарт цаг,
-      Daylight: Атлантын зуны цаг
-    }
-  },
-  {
-    Key: America/Havana,
-    Value: {
-      Generic: Кубын цаг,
-      Standard: Кубын стандарт цаг,
-      Daylight: Кубын зуны цаг
-    }
-  },
-  {
-    Key: America/Hermosillo,
-    Value: {
-      Generic: Мексик-Номхон далайн цаг,
-      Standard: Мексик-Номхон далайн стандарт цаг,
-      Daylight: Мексик-Номхон далайн зуны цаг
-    }
-  },
-  {
-    Key: America/Indiana/Indianapolis,
-    Value: {
-      Generic: Зүүн эргийн цаг,
-      Standard: Зүүн эргийн стандарт цаг,
-      Daylight: Зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: America/Indiana/Knox,
-    Value: {
-      Generic: Төв цаг,
-      Standard: Төв стандарт цаг,
-      Daylight: Төв зуны цаг
-    }
-  },
-  {
-    Key: America/Indiana/Marengo,
-    Value: {
-      Generic: Зүүн эргийн цаг,
-      Standard: Зүүн эргийн стандарт цаг,
-      Daylight: Зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: America/Indiana/Petersburg,
-    Value: {
-      Generic: Зүүн эргийн цаг,
-      Standard: Зүүн эргийн стандарт цаг,
-      Daylight: Зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: America/Indiana/Tell_City,
-    Value: {
-      Generic: Төв цаг,
-      Standard: Төв стандарт цаг,
-      Daylight: Төв зуны цаг
-    }
-  },
-  {
-    Key: America/Indiana/Vevay,
-    Value: {
-      Generic: Зүүн эргийн цаг,
-      Standard: Зүүн эргийн стандарт цаг,
-      Daylight: Зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: America/Indiana/Vincennes,
-    Value: {
-      Generic: Зүүн эргийн цаг,
-      Standard: Зүүн эргийн стандарт цаг,
-      Daylight: Зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: America/Indiana/Winamac,
-    Value: {
-      Generic: Зүүн эргийн цаг,
-      Standard: Зүүн эргийн стандарт цаг,
-      Daylight: Зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: America/Indianapolis,
-    Value: {
-      Generic: Зүүн эргийн цаг,
-      Standard: Зүүн эргийн стандарт цаг,
-      Daylight: Зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: America/Inuvik,
-    Value: {
-      Generic: Уулын цаг,
-      Standard: Уулын стандарт цаг,
-      Daylight: Уулын зуны цаг
-    }
-  },
-  {
-    Key: America/Iqaluit,
-    Value: {
-      Generic: Зүүн эргийн цаг,
-      Standard: Зүүн эргийн стандарт цаг,
-      Daylight: Зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: America/Jamaica,
-    Value: {
-      Generic: Зүүн эргийн цаг,
-      Standard: Зүүн эргийн стандарт цаг,
-      Daylight: Зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: America/Jujuy,
-    Value: {
-      Generic: Аргентины цаг,
-      Standard: Аргентины стандарт цаг,
-      Daylight: Аргентины зуны цаг
-    }
-  },
-  {
-    Key: America/Juneau,
-    Value: {
-      Generic: Аляскийн цаг,
-      Standard: Аляскийн стандарт цаг,
-      Daylight: Аляскийн зуны цаг
-    }
-  },
-  {
-    Key: America/Kentucky/Louisville,
-    Value: {
-      Generic: Зүүн эргийн цаг,
-      Standard: Зүүн эргийн стандарт цаг,
-      Daylight: Зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: America/Kentucky/Monticello,
-    Value: {
-      Generic: Зүүн эргийн цаг,
-      Standard: Зүүн эргийн стандарт цаг,
-      Daylight: Зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: America/Knox_IN,
-    Value: {
-      Generic: Төв цаг,
-      Standard: Төв стандарт цаг,
-      Daylight: Төв зуны цаг
-    }
-  },
-  {
-    Key: America/Kralendijk,
-    Value: {
-      Generic: Атлантын цаг,
-      Standard: Атлантын стандарт цаг,
-      Daylight: Атлантын зуны цаг
-    }
-  },
-  {
-    Key: America/La_Paz,
-    Value: {
-      Generic: Боливийн цаг,
-      Standard: Боливийн цаг,
-      Daylight: Боливийн цаг
-    }
-  },
-  {
-    Key: America/Lima,
-    Value: {
-      Generic: Перугийн цаг,
-      Standard: Перугийн стандарт цаг,
-      Daylight: Перугийн зуны цаг
-    }
-  },
-  {
-    Key: America/Los_Angeles,
-    Value: {
-      Generic: Номхон далайн цаг,
-      Standard: Номхон далайн стандарт цаг,
-      Daylight: Номхон далайн зуны цаг
-    }
-  },
-  {
-    Key: America/Louisville,
-    Value: {
-      Generic: Зүүн эргийн цаг,
-      Standard: Зүүн эргийн стандарт цаг,
-      Daylight: Зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: America/Lower_Princes,
-    Value: {
-      Generic: Атлантын цаг,
-      Standard: Атлантын стандарт цаг,
-      Daylight: Атлантын зуны цаг
-    }
-  },
-  {
-    Key: America/Maceio,
-    Value: {
-      Generic: Бразилийн цаг,
-      Standard: Бразилийн стандарт цаг,
-      Daylight: Бразилийн зуны цаг
-    }
-  },
-  {
-    Key: America/Managua,
-    Value: {
-      Generic: Төв цаг,
-      Standard: Төв стандарт цаг,
-      Daylight: Төв зуны цаг
-    }
-  },
-  {
-    Key: America/Manaus,
-    Value: {
-      Generic: Амазоны цаг,
-      Standard: Амазоны стандарт цаг,
-      Daylight: Амазоны зуны цаг
-    }
-  },
-  {
-    Key: America/Marigot,
-    Value: {
-      Generic: Атлантын цаг,
-      Standard: Атлантын стандарт цаг,
-      Daylight: Атлантын зуны цаг
-    }
-  },
-  {
-    Key: America/Martinique,
-    Value: {
-      Generic: Атлантын цаг,
-      Standard: Атлантын стандарт цаг,
-      Daylight: Атлантын зуны цаг
-    }
-  },
-  {
-    Key: America/Matamoros,
-    Value: {
-      Generic: Төв цаг,
-      Standard: Төв стандарт цаг,
-      Daylight: Төв зуны цаг
-    }
-  },
-  {
-    Key: America/Mazatlan,
-    Value: {
-      Generic: Мексик-Номхон далайн цаг,
-      Standard: Мексик-Номхон далайн стандарт цаг,
-      Daylight: Мексик-Номхон далайн зуны цаг
-    }
-  },
-  {
-    Key: America/Mendoza,
-    Value: {
-      Generic: Аргентины цаг,
-      Standard: Аргентины стандарт цаг,
-      Daylight: Аргентины зуны цаг
-    }
-  },
-  {
-    Key: America/Menominee,
-    Value: {
-      Generic: Төв цаг,
-      Standard: Төв стандарт цаг,
-      Daylight: Төв зуны цаг
-    }
-  },
-  {
-    Key: America/Merida,
-    Value: {
-      Generic: Төв цаг,
-      Standard: Төв стандарт цаг,
-      Daylight: Төв зуны цаг
-    }
-  },
-  {
-    Key: America/Metlakatla,
-    Value: {
-      Generic: Аляскийн цаг,
-      Standard: Аляскийн стандарт цаг,
-      Daylight: Аляскийн зуны цаг
-    }
-  },
-  {
-    Key: America/Mexico_City,
-    Value: {
-      Generic: Төв цаг,
-      Standard: Төв стандарт цаг,
-      Daylight: Төв зуны цаг
-    }
-  },
-  {
-    Key: America/Miquelon,
-    Value: {
-      Generic: Сент-Пьер ба Микелоны цаг,
-      Standard: Сент-Пьер ба Микелоны стандарт цаг,
-      Daylight: Сент-Пьер ба Микелоны зуны цаг
-    }
-  },
-  {
-    Key: America/Moncton,
-    Value: {
-      Generic: Атлантын цаг,
-      Standard: Атлантын стандарт цаг,
-      Daylight: Атлантын зуны цаг
-    }
-  },
-  {
-    Key: America/Monterrey,
-    Value: {
-      Generic: Төв цаг,
-      Standard: Төв стандарт цаг,
-      Daylight: Төв зуны цаг
-    }
-  },
-  {
-    Key: America/Montevideo,
-    Value: {
-      Generic: Уругвайн цаг,
-      Standard: Уругвайн стандарт цаг,
-      Daylight: Уругвайн зуны цаг
-    }
-  },
-  {
-    Key: America/Montreal,
-    Value: {
-      Generic: Зүүн эргийн цаг,
-      Standard: Зүүн эргийн стандарт цаг,
-      Daylight: Зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: America/Montserrat,
-    Value: {
-      Generic: Атлантын цаг,
-      Standard: Атлантын стандарт цаг,
-      Daylight: Атлантын зуны цаг
-    }
-  },
-  {
-    Key: America/Nassau,
-    Value: {
-      Generic: Зүүн эргийн цаг,
-      Standard: Зүүн эргийн стандарт цаг,
-      Daylight: Зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: America/New_York,
-    Value: {
-      Generic: Зүүн эргийн цаг,
-      Standard: Зүүн эргийн стандарт цаг,
-      Daylight: Зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: America/Nipigon,
-    Value: {
-      Generic: Зүүн эргийн цаг,
-      Standard: Зүүн эргийн стандарт цаг,
-      Daylight: Зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: America/Nome,
-    Value: {
-      Generic: Аляскийн цаг,
-      Standard: Аляскийн стандарт цаг,
-      Daylight: Аляскийн зуны цаг
-    }
-  },
-  {
-    Key: America/Noronha,
-    Value: {
-      Generic: Фернандо де Норонагийн цаг,
-      Standard: Фернандо де Норонагийн стандарт цаг,
-      Daylight: Фернандо де Норонагийн зуны цаг
-    }
-  },
-  {
-    Key: America/North_Dakota/Beulah,
-    Value: {
-      Generic: Төв цаг,
-      Standard: Төв стандарт цаг,
-      Daylight: Төв зуны цаг
-    }
-  },
-  {
-    Key: America/North_Dakota/Center,
-    Value: {
-      Generic: Төв цаг,
-      Standard: Төв стандарт цаг,
-      Daylight: Төв зуны цаг
-    }
-  },
-  {
-    Key: America/North_Dakota/New_Salem,
-    Value: {
-      Generic: Төв цаг,
-      Standard: Төв стандарт цаг,
-      Daylight: Төв зуны цаг
-    }
-  },
-  {
-    Key: America/Nuuk,
-    Value: {
-      Generic: Баруун Гренландын цаг,
-      Standard: Баруун Гренландын стандарт цаг,
-      Daylight: Баруун Гренландын зуны цаг
-    }
-  },
-  {
-    Key: America/Ojinaga,
-    Value: {
-      Generic: Уулын цаг,
-      Standard: Уулын стандарт цаг,
-      Daylight: Уулын зуны цаг
-    }
-  },
-  {
-    Key: America/Panama,
-    Value: {
-      Generic: Зүүн эргийн цаг,
-      Standard: Зүүн эргийн стандарт цаг,
-      Daylight: Зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: America/Pangnirtung,
-    Value: {
-      Generic: Зүүн эргийн цаг,
-      Standard: Зүүн эргийн стандарт цаг,
-      Daylight: Зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: America/Paramaribo,
-    Value: {
-      Generic: Суринамын цаг,
-      Standard: Суринамын цаг,
-      Daylight: Суринамын цаг
-    }
-  },
-  {
-    Key: America/Phoenix,
-    Value: {
-      Generic: Уулын цаг,
-      Standard: Уулын стандарт цаг,
-      Daylight: Уулын зуны цаг
-    }
-  },
-  {
-    Key: America/Port_of_Spain,
-    Value: {
-      Generic: Атлантын цаг,
-      Standard: Атлантын стандарт цаг,
-      Daylight: Атлантын зуны цаг
-    }
-  },
-  {
-    Key: America/Port-au-Prince,
-    Value: {
-      Generic: Зүүн эргийн цаг,
-      Standard: Зүүн эргийн стандарт цаг,
-      Daylight: Зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: America/Porto_Acre,
-    Value: {
-      Generic: Бразил-н цаг,
-      Standard: Бразил-н стандарт цаг,
-      Daylight: Бразил-н зуны цаг
-    }
-  },
-  {
-    Key: America/Porto_Velho,
-    Value: {
-      Generic: Амазоны цаг,
-      Standard: Амазоны стандарт цаг,
-      Daylight: Амазоны зуны цаг
-    }
-  },
-  {
-    Key: America/Puerto_Rico,
-    Value: {
-      Generic: Атлантын цаг,
-      Standard: Атлантын стандарт цаг,
-      Daylight: Атлантын зуны цаг
-    }
-  },
-  {
-    Key: America/Punta_Arenas,
-    Value: {
-      Generic: Чилийн цаг,
-      Standard: Чилийн стандарт цаг,
-      Daylight: Чилийн зуны цаг
-    }
-  },
-  {
-    Key: America/Rainy_River,
-    Value: {
-      Generic: Төв цаг,
-      Standard: Төв стандарт цаг,
-      Daylight: Төв зуны цаг
-    }
-  },
-  {
-    Key: America/Rankin_Inlet,
-    Value: {
-      Generic: Төв цаг,
-      Standard: Төв стандарт цаг,
-      Daylight: Төв зуны цаг
-    }
-  },
-  {
-    Key: America/Recife,
-    Value: {
-      Generic: Бразилийн цаг,
-      Standard: Бразилийн стандарт цаг,
-      Daylight: Бразилийн зуны цаг
-    }
-  },
-  {
-    Key: America/Regina,
-    Value: {
-      Generic: Төв цаг,
-      Standard: Төв стандарт цаг,
-      Daylight: Төв зуны цаг
-    }
-  },
-  {
-    Key: America/Resolute,
-    Value: {
-      Generic: Төв цаг,
-      Standard: Төв стандарт цаг,
-      Daylight: Төв зуны цаг
-    }
-  },
-  {
-    Key: America/Rio_Branco,
-    Value: {
-      Generic: Бразил-н цаг,
-      Standard: Бразил-н стандарт цаг,
-      Daylight: Бразил-н зуны цаг
-    }
-  },
-  {
-    Key: America/Rosario,
-    Value: {
-      Generic: Аргентины цаг,
-      Standard: Аргентины стандарт цаг,
-      Daylight: Аргентины зуны цаг
-    }
-  },
-  {
-    Key: America/Santa_Isabel,
-    Value: {
-      Generic: Баруун хойд Мексикийн цаг,
-      Standard: Баруун хойд Мексикийн стандарт цаг,
-      Daylight: Баруун хойд Мексикийн зуны цаг
-    }
-  },
-  {
-    Key: America/Santarem,
-    Value: {
-      Generic: Бразилийн цаг,
-      Standard: Бразилийн стандарт цаг,
-      Daylight: Бразилийн зуны цаг
-    }
-  },
-  {
-    Key: America/Santiago,
-    Value: {
-      Generic: Чилийн цаг,
-      Standard: Чилийн стандарт цаг,
-      Daylight: Чилийн зуны цаг
-    }
-  },
-  {
-    Key: America/Santo_Domingo,
-    Value: {
-      Generic: Атлантын цаг,
-      Standard: Атлантын стандарт цаг,
-      Daylight: Атлантын зуны цаг
-    }
-  },
-  {
-    Key: America/Sao_Paulo,
-    Value: {
-      Generic: Бразилийн цаг,
-      Standard: Бразилийн стандарт цаг,
-      Daylight: Бразилийн зуны цаг
-    }
-  },
-  {
-    Key: America/Scoresbysund,
-    Value: {
-      Generic: Зүүн Гренландын цаг,
-      Standard: Зүүн Гренландын стандарт цаг,
-      Daylight: Зүүн Гренландын зуны цаг
-    }
-  },
-  {
-    Key: America/Shiprock,
-    Value: {
-      Generic: Уулын цаг,
-      Standard: Уулын стандарт цаг,
-      Daylight: Уулын зуны цаг
-    }
-  },
-  {
-    Key: America/Sitka,
-    Value: {
-      Generic: Аляскийн цаг,
-      Standard: Аляскийн стандарт цаг,
-      Daylight: Аляскийн зуны цаг
-    }
-  },
-  {
-    Key: America/St_Barthelemy,
-    Value: {
-      Generic: Атлантын цаг,
-      Standard: Атлантын стандарт цаг,
-      Daylight: Атлантын зуны цаг
-    }
-  },
-  {
-    Key: America/St_Johns,
-    Value: {
-      Generic: Нью-Фаундлендын цаг,
-      Standard: Нью-Фаундлендын стандарт цаг,
-      Daylight: Нью-Фаундлендын зуны цаг
-    }
-  },
-  {
-    Key: America/St_Kitts,
-    Value: {
-      Generic: Атлантын цаг,
-      Standard: Атлантын стандарт цаг,
-      Daylight: Атлантын зуны цаг
-    }
-  },
-  {
-    Key: America/St_Lucia,
-    Value: {
-      Generic: Атлантын цаг,
-      Standard: Атлантын стандарт цаг,
-      Daylight: Атлантын зуны цаг
-    }
-  },
-  {
-    Key: America/St_Thomas,
-    Value: {
-      Generic: Атлантын цаг,
-      Standard: Атлантын стандарт цаг,
-      Daylight: Атлантын зуны цаг
-    }
-  },
-  {
-    Key: America/St_Vincent,
-    Value: {
-      Generic: Атлантын цаг,
-      Standard: Атлантын стандарт цаг,
-      Daylight: Атлантын зуны цаг
-    }
-  },
-  {
-    Key: America/Swift_Current,
-    Value: {
-      Generic: Төв цаг,
-      Standard: Төв стандарт цаг,
-      Daylight: Төв зуны цаг
-    }
-  },
-  {
-    Key: America/Tegucigalpa,
-    Value: {
-      Generic: Төв цаг,
-      Standard: Төв стандарт цаг,
-      Daylight: Төв зуны цаг
-    }
-  },
-  {
-    Key: America/Thule,
-    Value: {
-      Generic: Атлантын цаг,
-      Standard: Атлантын стандарт цаг,
-      Daylight: Атлантын зуны цаг
-    }
-  },
-  {
-    Key: America/Thunder_Bay,
-    Value: {
-      Generic: Зүүн эргийн цаг,
-      Standard: Зүүн эргийн стандарт цаг,
-      Daylight: Зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: America/Tijuana,
-    Value: {
-      Generic: Номхон далайн цаг,
-      Standard: Номхон далайн стандарт цаг,
-      Daylight: Номхон далайн зуны цаг
-    }
-  },
-  {
-    Key: America/Toronto,
-    Value: {
-      Generic: Зүүн эргийн цаг,
-      Standard: Зүүн эргийн стандарт цаг,
-      Daylight: Зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: America/Tortola,
-    Value: {
-      Generic: Атлантын цаг,
-      Standard: Атлантын стандарт цаг,
-      Daylight: Атлантын зуны цаг
-    }
-  },
-  {
-    Key: America/Vancouver,
-    Value: {
-      Generic: Номхон далайн цаг,
-      Standard: Номхон далайн стандарт цаг,
-      Daylight: Номхон далайн зуны цаг
-    }
-  },
-  {
-    Key: America/Virgin,
-    Value: {
-      Generic: Атлантын цаг,
-      Standard: Атлантын стандарт цаг,
-      Daylight: Атлантын зуны цаг
-    }
-  },
-  {
-    Key: America/Whitehorse,
-    Value: {
-      Generic: Юкон цагийн бүс,
-      Standard: Юкон цагийн бүс,
-      Daylight: Юкон цагийн бүс
-    }
-  },
-  {
-    Key: America/Winnipeg,
-    Value: {
-      Generic: Төв цаг,
-      Standard: Төв стандарт цаг,
-      Daylight: Төв зуны цаг
-    }
-  },
-  {
-    Key: America/Yakutat,
-    Value: {
-      Generic: Аляскийн цаг,
-      Standard: Аляскийн стандарт цаг,
-      Daylight: Аляскийн зуны цаг
-    }
-  },
-  {
-    Key: America/Yellowknife,
-    Value: {
-      Generic: Уулын цаг,
-      Standard: Уулын стандарт цаг,
-      Daylight: Уулын зуны цаг
-    }
-  },
-  {
-    Key: Antarctica/Casey,
-    Value: {
-      Generic: Антарктид-н цаг,
-      Standard: Антарктид-н стандарт цаг,
-      Daylight: Антарктид-н зуны цаг
-    }
-  },
-  {
-    Key: Antarctica/Davis,
-    Value: {
-      Generic: Дэвисийн цаг,
-      Standard: Дэвисийн цаг,
-      Daylight: Дэвисийн цаг
-    }
-  },
-  {
-    Key: Antarctica/DumontDUrville,
-    Value: {
-      Generic: Дюмон д’Юрвилийн цаг,
-      Standard: Дюмон д’Юрвилийн цаг,
-      Daylight: Дюмон д’Юрвилийн цаг
-    }
-  },
-  {
-    Key: Antarctica/Macquarie,
-    Value: {
-      Generic: Зүүн Австралийн цаг,
-      Standard: Австралийн зүүн эргийн стандарт цаг,
-      Daylight: Австралийн зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: Antarctica/Mawson,
-    Value: {
-      Generic: Моусоны цаг,
-      Standard: Моусоны цаг,
-      Daylight: Моусоны цаг
-    }
-  },
-  {
-    Key: Antarctica/McMurdo,
-    Value: {
-      Generic: Шинэ Зеландын цаг,
-      Standard: Шинэ Зеландын стандарт цаг,
-      Daylight: Шинэ Зеландын зуны цаг
-    }
-  },
-  {
-    Key: Antarctica/Palmer,
-    Value: {
-      Generic: Чилийн цаг,
-      Standard: Чилийн стандарт цаг,
-      Daylight: Чилийн зуны цаг
-    }
-  },
-  {
-    Key: Antarctica/Rothera,
-    Value: {
-      Generic: Ротерагийн цаг,
-      Standard: Ротерагийн цаг,
-      Daylight: Ротерагийн цаг
-    }
-  },
-  {
-    Key: Antarctica/South_Pole,
-    Value: {
-      Generic: Шинэ Зеландын цаг,
-      Standard: Шинэ Зеландын стандарт цаг,
-      Daylight: Шинэ Зеландын зуны цаг
-    }
-  },
-  {
-    Key: Antarctica/Syowa,
-    Value: {
-      Generic: Сёвагийн цаг,
-      Standard: Сёвагийн цаг,
-      Daylight: Сёвагийн цаг
-    }
-  },
-  {
-    Key: Antarctica/Troll,
-    Value: {
-      Generic: Гринвичийн цаг,
-      Standard: Гринвичийн цаг,
-      Daylight: Гринвичийн цаг
-    }
-  },
-  {
-    Key: Antarctica/Vostok,
-    Value: {
-      Generic: Востокийн цаг,
-      Standard: Востокийн цаг,
-      Daylight: Востокийн цаг
-    }
-  },
-  {
-    Key: Arctic/Longyearbyen,
-    Value: {
-      Generic: Төв Европын цаг,
-      Standard: Төв Европын стандарт цаг,
-      Daylight: Төв Европын зуны цаг
-    }
-  },
-  {
-    Key: Asia/Aden,
-    Value: {
-      Generic: Арабын цаг,
-      Standard: Арабын стандарт цаг,
-      Daylight: Арабын зуны цаг
-    }
-  },
-  {
-    Key: Asia/Almaty,
-    Value: {
-      Generic: Зүүн Казахстаны цаг,
-      Standard: Зүүн Казахстаны цаг,
-      Daylight: Зүүн Казахстаны цаг
-    }
-  },
-  {
-    Key: Asia/Amman,
-    Value: {
-      Generic: Зүүн Европын цаг,
-      Standard: Зүүн Европын стандарт цаг,
-      Daylight: Зүүн Европын зуны цаг
-    }
-  },
-  {
-    Key: Asia/Anadyr,
-    Value: {
-      Generic: Анадыр-н цаг,
-      Standard: Анадыр-н стандарт цаг,
-      Daylight: Анадыр-н зуны цаг
-    }
-  },
-  {
-    Key: Asia/Aqtau,
-    Value: {
-      Generic: Баруун Казахстаны цаг,
-      Standard: Баруун Казахстаны цаг,
-      Daylight: Баруун Казахстаны цаг
-    }
-  },
-  {
-    Key: Asia/Aqtobe,
-    Value: {
-      Generic: Баруун Казахстаны цаг,
-      Standard: Баруун Казахстаны цаг,
-      Daylight: Баруун Казахстаны цаг
-    }
-  },
-  {
-    Key: Asia/Ashgabat,
-    Value: {
-      Generic: Туркменистаны цаг,
-      Standard: Туркменистаны стандарт цаг,
-      Daylight: Туркменистаны зуны цаг
-    }
-  },
-  {
-    Key: Asia/Ashkhabad,
-    Value: {
-      Generic: Туркменистаны цаг,
-      Standard: Туркменистаны стандарт цаг,
-      Daylight: Туркменистаны зуны цаг
-    }
-  },
-  {
-    Key: Asia/Atyrau,
-    Value: {
-      Generic: Баруун Казахстаны цаг,
-      Standard: Баруун Казахстаны цаг,
-      Daylight: Баруун Казахстаны цаг
-    }
-  },
-  {
-    Key: Asia/Baghdad,
-    Value: {
-      Generic: Арабын цаг,
-      Standard: Арабын стандарт цаг,
-      Daylight: Арабын зуны цаг
-    }
-  },
-  {
-    Key: Asia/Bahrain,
-    Value: {
-      Generic: Арабын цаг,
-      Standard: Арабын стандарт цаг,
-      Daylight: Арабын зуны цаг
-    }
-  },
-  {
-    Key: Asia/Baku,
-    Value: {
-      Generic: Азербайжаны цаг,
-      Standard: Азербайжаны стандарт цаг,
-      Daylight: Азербайжаны зуны цаг
-    }
-  },
-  {
-    Key: Asia/Bangkok,
-    Value: {
-      Generic: Энэтхэг-Хятадын хойгийн цаг,
-      Standard: Энэтхэг-Хятадын хойгийн цаг,
-      Daylight: Энэтхэг-Хятадын хойгийн цаг
-    }
-  },
-  {
-    Key: Asia/Barnaul,
-    Value: {
-      Generic: Барнаул-н цаг,
-      Standard: Барнаул-н стандарт цаг,
-      Daylight: Барнаул-н зуны цаг
-    }
-  },
-  {
-    Key: Asia/Beirut,
-    Value: {
-      Generic: Зүүн Европын цаг,
-      Standard: Зүүн Европын стандарт цаг,
-      Daylight: Зүүн Европын зуны цаг
-    }
-  },
-  {
-    Key: Asia/Bishkek,
-    Value: {
-      Generic: Киргизийн цаг,
-      Standard: Киргизийн цаг,
-      Daylight: Киргизийн цаг
-    }
-  },
-  {
-    Key: Asia/Brunei,
-    Value: {
-      Generic: Бруней Даруссаламын цаг,
-      Standard: Бруней Даруссаламын цаг,
-      Daylight: Бруней Даруссаламын цаг
-    }
-  },
-  {
-    Key: Asia/Calcutta,
-    Value: {
-      Generic: Энэтхэгийн цаг,
-      Standard: Энэтхэгийн цаг,
-      Daylight: Энэтхэгийн цаг
-    }
-  },
-  {
-    Key: Asia/Chita,
-    Value: {
-      Generic: Чита-н цаг,
-      Standard: Чита-н стандарт цаг,
-      Daylight: Чита-н зуны цаг
-    }
-  },
-  {
-    Key: Asia/Choibalsan,
-    Value: {
-      Generic: Улаанбаатарын цаг,
-      Standard: Улаанбаатарын стандарт цаг,
-      Daylight: Улаанбаатарын зуны цаг
-    }
-  },
-  {
-    Key: Asia/Chongqing,
-    Value: {
-      Generic: Хятадын цаг,
-      Standard: Хятадын стандарт цаг,
-      Daylight: Хятадын зуны цаг
-    }
-  },
-  {
-    Key: Asia/Chungking,
-    Value: {
-      Generic: Хятадын цаг,
-      Standard: Хятадын стандарт цаг,
-      Daylight: Хятадын зуны цаг
-    }
-  },
-  {
-    Key: Asia/Colombo,
-    Value: {
-      Generic: Энэтхэгийн цаг,
-      Standard: Энэтхэгийн цаг,
-      Daylight: Энэтхэгийн цаг
-    }
-  },
-  {
-    Key: Asia/Dacca,
-    Value: {
-      Generic: Бангладешийн цаг,
-      Standard: Бангладешийн стандарт цаг,
-      Daylight: Бангладешийн зуны цаг
-    }
-  },
-  {
-    Key: Asia/Damascus,
-    Value: {
-      Generic: Зүүн Европын цаг,
-      Standard: Зүүн Европын стандарт цаг,
-      Daylight: Зүүн Европын зуны цаг
-    }
-  },
-  {
-    Key: Asia/Dhaka,
-    Value: {
-      Generic: Бангладешийн цаг,
-      Standard: Бангладешийн стандарт цаг,
-      Daylight: Бангладешийн зуны цаг
-    }
-  },
-  {
-    Key: Asia/Dili,
-    Value: {
-      Generic: Зүүн Тиморын цаг,
-      Standard: Зүүн Тиморын цаг,
-      Daylight: Зүүн Тиморын цаг
-    }
-  },
-  {
-    Key: Asia/Dubai,
-    Value: {
-      Generic: Персийн булангийн цаг,
-      Standard: Персийн булангийн цаг,
-      Daylight: Персийн булангийн цаг
-    }
-  },
-  {
-    Key: Asia/Dushanbe,
-    Value: {
-      Generic: Тажикистаны цаг,
-      Standard: Тажикистаны цаг,
-      Daylight: Тажикистаны цаг
-    }
-  },
-  {
-    Key: Asia/Famagusta,
-    Value: {
-      Generic: Зүүн Европын цаг,
-      Standard: Зүүн Европын стандарт цаг,
-      Daylight: Зүүн Европын зуны цаг
-    }
-  },
-  {
-    Key: Asia/Gaza,
-    Value: {
-      Generic: Зүүн Европын цаг,
-      Standard: Зүүн Европын стандарт цаг,
-      Daylight: Зүүн Европын зуны цаг
-    }
-  },
-  {
-    Key: Asia/Harbin,
-    Value: {
-      Generic: Хятадын цаг,
-      Standard: Хятадын стандарт цаг,
-      Daylight: Хятадын зуны цаг
-    }
-  },
-  {
-    Key: Asia/Hebron,
-    Value: {
-      Generic: Зүүн Европын цаг,
-      Standard: Зүүн Европын стандарт цаг,
-      Daylight: Зүүн Европын зуны цаг
-    }
-  },
-  {
-    Key: Asia/Ho_Chi_Minh,
-    Value: {
-      Generic: Энэтхэг-Хятадын хойгийн цаг,
-      Standard: Энэтхэг-Хятадын хойгийн цаг,
-      Daylight: Энэтхэг-Хятадын хойгийн цаг
-    }
-  },
-  {
-    Key: Asia/Hong_Kong,
-    Value: {
-      Generic: Хонг Конгийн цаг,
-      Standard: Хонг Конгийн стандарт цаг,
-      Daylight: Хонг Конгийн зуны цаг
-    }
-  },
-  {
-    Key: Asia/Hovd,
-    Value: {
-      Generic: Ховдын цаг,
-      Standard: Ховдын стандарт цаг,
-      Daylight: Ховдын зуны цаг
-    }
-  },
-  {
-    Key: Asia/Irkutsk,
-    Value: {
-      Generic: Эрхүү-н цаг,
-      Standard: Эрхүү-н стандарт цаг,
-      Daylight: Эрхүү-н зуны цаг
-    }
-  },
-  {
-    Key: Asia/Istanbul,
-    Value: {
-      Generic: Турк-н цаг,
-      Standard: Турк-н стандарт цаг,
-      Daylight: Турк-н зуны цаг
-    }
-  },
-  {
-    Key: Asia/Jakarta,
-    Value: {
-      Generic: Баруун Индонезийн цаг,
-      Standard: Баруун Индонезийн цаг,
-      Daylight: Баруун Индонезийн цаг
-    }
-  },
-  {
-    Key: Asia/Jayapura,
-    Value: {
-      Generic: Зүүн Индонезийн цаг,
-      Standard: Зүүн Индонезийн цаг,
-      Daylight: Зүүн Индонезийн цаг
-    }
-  },
-  {
-    Key: Asia/Jerusalem,
-    Value: {
-      Generic: Израилийн цаг,
-      Standard: Израилийн стандарт цаг,
-      Daylight: Израилийн зуны цаг
-    }
-  },
-  {
-    Key: Asia/Kabul,
-    Value: {
-      Generic: Афганистаны цаг,
-      Standard: Афганистаны цаг,
-      Daylight: Афганистаны цаг
-    }
-  },
-  {
-    Key: Asia/Kamchatka,
-    Value: {
-      Generic: Камчатка-н цаг,
-      Standard: Камчатка-н стандарт цаг,
-      Daylight: Камчатка-н зуны цаг
-    }
-  },
-  {
-    Key: Asia/Karachi,
-    Value: {
-      Generic: Пакистаны цаг,
-      Standard: Пакистаны стандарт цаг,
-      Daylight: Пакистаны зуны цаг
-    }
-  },
-  {
-    Key: Asia/Kashgar,
-    Value: {
-      Generic: Хятад-н цаг,
-      Standard: Хятад-н стандарт цаг,
-      Daylight: Хятад-н зуны цаг
-    }
-  },
-  {
-    Key: Asia/Kathmandu,
-    Value: {
-      Generic: Балбын цаг,
-      Standard: Балбын цаг,
-      Daylight: Балбын цаг
-    }
-  },
-  {
-    Key: Asia/Katmandu,
-    Value: {
-      Generic: Балбын цаг,
-      Standard: Балбын цаг,
-      Daylight: Балбын цаг
-    }
-  },
-  {
-    Key: Asia/Khandyga,
-    Value: {
-      Generic: Кандыга-н цаг,
-      Standard: Кандыга-н стандарт цаг,
-      Daylight: Кандыга-н зуны цаг
-    }
-  },
-  {
-    Key: Asia/Kolkata,
-    Value: {
-      Generic: Энэтхэгийн цаг,
-      Standard: Энэтхэгийн цаг,
-      Daylight: Энэтхэгийн цаг
-    }
-  },
-  {
-    Key: Asia/Krasnoyarsk,
-    Value: {
-      Generic: Красноярск-н цаг,
-      Standard: Красноярск-н стандарт цаг,
-      Daylight: Красноярск-н зуны цаг
-    }
-  },
-  {
-    Key: Asia/Kuala_Lumpur,
-    Value: {
-      Generic: Малайзын цаг,
-      Standard: Малайзын цаг,
-      Daylight: Малайзын цаг
-    }
-  },
-  {
-    Key: Asia/Kuching,
-    Value: {
-      Generic: Малайзын цаг,
-      Standard: Малайзын цаг,
-      Daylight: Малайзын цаг
-    }
-  },
-  {
-    Key: Asia/Kuwait,
-    Value: {
-      Generic: Арабын цаг,
-      Standard: Арабын стандарт цаг,
-      Daylight: Арабын зуны цаг
-    }
-  },
-  {
-    Key: Asia/Macao,
-    Value: {
-      Generic: Хятадын цаг,
-      Standard: Хятадын стандарт цаг,
-      Daylight: Хятадын зуны цаг
-    }
-  },
-  {
-    Key: Asia/Macau,
-    Value: {
-      Generic: Хятадын цаг,
-      Standard: Хятадын стандарт цаг,
-      Daylight: Хятадын зуны цаг
-    }
-  },
-  {
-    Key: Asia/Magadan,
-    Value: {
-      Generic: Магадан-н цаг,
-      Standard: Магадан-н стандарт цаг,
-      Daylight: Магадан-н зуны цаг
-    }
-  },
-  {
-    Key: Asia/Makassar,
-    Value: {
-      Generic: Төв Индонезийн цаг,
-      Standard: Төв Индонезийн цаг,
-      Daylight: Төв Индонезийн цаг
-    }
-  },
-  {
-    Key: Asia/Manila,
-    Value: {
-      Generic: Филиппиний цаг,
-      Standard: Филиппиний стандарт цаг,
-      Daylight: Филиппиний зуны цаг
-    }
-  },
-  {
-    Key: Asia/Muscat,
-    Value: {
-      Generic: Персийн булангийн цаг,
-      Standard: Персийн булангийн цаг,
-      Daylight: Персийн булангийн цаг
-    }
-  },
-  {
-    Key: Asia/Nicosia,
-    Value: {
-      Generic: Зүүн Европын цаг,
-      Standard: Зүүн Европын стандарт цаг,
-      Daylight: Зүүн Европын зуны цаг
-    }
-  },
-  {
-    Key: Asia/Novokuznetsk,
-    Value: {
-      Generic: Новокузнецк-н цаг,
-      Standard: Новокузнецк-н стандарт цаг,
-      Daylight: Новокузнецк-н зуны цаг
-    }
-  },
-  {
-    Key: Asia/Novosibirsk,
-    Value: {
-      Generic: Новосибирск-н цаг,
-      Standard: Новосибирск-н стандарт цаг,
-      Daylight: Новосибирск-н зуны цаг
-    }
-  },
-  {
-    Key: Asia/Omsk,
-    Value: {
-      Generic: Омск-н цаг,
-      Standard: Омск-н стандарт цаг,
-      Daylight: Омск-н зуны цаг
-    }
-  },
-  {
-    Key: Asia/Oral,
-    Value: {
-      Generic: Баруун Казахстаны цаг,
-      Standard: Баруун Казахстаны цаг,
-      Daylight: Баруун Казахстаны цаг
-    }
-  },
-  {
-    Key: Asia/Phnom_Penh,
-    Value: {
-      Generic: Энэтхэг-Хятадын хойгийн цаг,
-      Standard: Энэтхэг-Хятадын хойгийн цаг,
-      Daylight: Энэтхэг-Хятадын хойгийн цаг
-    }
-  },
-  {
-    Key: Asia/Pontianak,
-    Value: {
-      Generic: Баруун Индонезийн цаг,
-      Standard: Баруун Индонезийн цаг,
-      Daylight: Баруун Индонезийн цаг
-    }
-  },
-  {
-    Key: Asia/Pyongyang,
-    Value: {
-      Generic: Солонгосын цаг,
-      Standard: Солонгосын стандарт цаг,
-      Daylight: Солонгосын зуны цаг
-    }
-  },
-  {
-    Key: Asia/Qatar,
-    Value: {
-      Generic: Арабын цаг,
-      Standard: Арабын стандарт цаг,
-      Daylight: Арабын зуны цаг
-    }
-  },
-  {
-    Key: Asia/Qostanay,
-    Value: {
-      Generic: Зүүн Казахстаны цаг,
-      Standard: Зүүн Казахстаны цаг,
-      Daylight: Зүүн Казахстаны цаг
-    }
-  },
-  {
-    Key: Asia/Qyzylorda,
-    Value: {
-      Generic: Баруун Казахстаны цаг,
-      Standard: Баруун Казахстаны цаг,
-      Daylight: Баруун Казахстаны цаг
-    }
-  },
-  {
-    Key: Asia/Rangoon,
-    Value: {
-      Generic: Мьянмарын цаг,
-      Standard: Мьянмарын цаг,
-      Daylight: Мьянмарын цаг
-    }
-  },
-  {
-    Key: Asia/Riyadh,
-    Value: {
-      Generic: Арабын цаг,
-      Standard: Арабын стандарт цаг,
-      Daylight: Арабын зуны цаг
-    }
-  },
-  {
-    Key: Asia/Saigon,
-    Value: {
-      Generic: Энэтхэг-Хятадын хойгийн цаг,
-      Standard: Энэтхэг-Хятадын хойгийн цаг,
-      Daylight: Энэтхэг-Хятадын хойгийн цаг
-    }
-  },
-  {
-    Key: Asia/Sakhalin,
-    Value: {
-      Generic: Сахалин-н цаг,
-      Standard: Сахалин-н стандарт цаг,
-      Daylight: Сахалин-н зуны цаг
-    }
-  },
-  {
-    Key: Asia/Samarkand,
-    Value: {
-      Generic: Узбекистаны цаг,
-      Standard: Узбекистаны стандарт цаг,
-      Daylight: Узбекистаны зуны цаг
-    }
-  },
-  {
-    Key: Asia/Seoul,
-    Value: {
-      Generic: Солонгосын цаг,
-      Standard: Солонгосын стандарт цаг,
-      Daylight: Солонгосын зуны цаг
-    }
-  },
-  {
-    Key: Asia/Shanghai,
-    Value: {
-      Generic: Хятадын цаг,
-      Standard: Хятадын стандарт цаг,
-      Daylight: Хятадын зуны цаг
-    }
-  },
-  {
-    Key: Asia/Singapore,
-    Value: {
-      Generic: Сингапурын цаг,
-      Standard: Сингапурын цаг,
-      Daylight: Сингапурын цаг
-    }
-  },
-  {
-    Key: Asia/Srednekolymsk,
-    Value: {
-      Generic: Среднеколымск-н цаг,
-      Standard: Среднеколымск-н стандарт цаг,
-      Daylight: Среднеколымск-н зуны цаг
-    }
-  },
-  {
-    Key: Asia/Taipei,
-    Value: {
-      Generic: Тайпейн цаг,
-      Standard: Тайпейн стандарт цаг,
-      Daylight: Тайпейн зуны цаг
-    }
-  },
-  {
-    Key: Asia/Tashkent,
-    Value: {
-      Generic: Узбекистаны цаг,
-      Standard: Узбекистаны стандарт цаг,
-      Daylight: Узбекистаны зуны цаг
-    }
-  },
-  {
-    Key: Asia/Tbilisi,
-    Value: {
-      Generic: Гүржийн цаг,
-      Standard: Гүржийн стандарт цаг,
-      Daylight: Гүржийн зуны цаг
-    }
-  },
-  {
-    Key: Asia/Tehran,
-    Value: {
-      Generic: Ираны цаг,
-      Standard: Ираны стандарт цаг,
-      Daylight: Ираны зуны цаг
-    }
-  },
-  {
-    Key: Asia/Tel_Aviv,
-    Value: {
-      Generic: Израилийн цаг,
-      Standard: Израилийн стандарт цаг,
-      Daylight: Израилийн зуны цаг
-    }
-  },
-  {
-    Key: Asia/Thimbu,
-    Value: {
-      Generic: Бутаны цаг,
-      Standard: Бутаны цаг,
-      Daylight: Бутаны цаг
-    }
-  },
-  {
-    Key: Asia/Thimphu,
-    Value: {
-      Generic: Бутаны цаг,
-      Standard: Бутаны цаг,
-      Daylight: Бутаны цаг
-    }
-  },
-  {
-    Key: Asia/Tokyo,
-    Value: {
-      Generic: Японы цаг,
-      Standard: Японы стандарт цаг,
-      Daylight: Японы зуны цаг
-    }
-  },
-  {
-    Key: Asia/Tomsk,
-    Value: {
-      Generic: Томск-н цаг,
-      Standard: Томск-н стандарт цаг,
-      Daylight: Томск-н зуны цаг
-    }
-  },
-  {
-    Key: Asia/Ujung_Pandang,
-    Value: {
-      Generic: Төв Индонезийн цаг,
-      Standard: Төв Индонезийн цаг,
-      Daylight: Төв Индонезийн цаг
-    }
-  },
-  {
-    Key: Asia/Ulaanbaatar,
-    Value: {
-      Generic: Улаанбаатарын цаг,
-      Standard: Улаанбаатарын стандарт цаг,
-      Daylight: Улаанбаатарын зуны цаг
-    }
-  },
-  {
-    Key: Asia/Ulan_Bator,
-    Value: {
-      Generic: Улаанбаатарын цаг,
-      Standard: Улаанбаатарын стандарт цаг,
-      Daylight: Улаанбаатарын зуны цаг
-    }
-  },
-  {
-    Key: Asia/Urumqi,
-    Value: {
-      Generic: Хятад-н цаг,
-      Standard: Хятад-н стандарт цаг,
-      Daylight: Хятад-н зуны цаг
-    }
-  },
-  {
-    Key: Asia/Ust-Nera,
-    Value: {
-      Generic: Уст-Нера-н цаг,
-      Standard: Уст-Нера-н стандарт цаг,
-      Daylight: Уст-Нера-н зуны цаг
-    }
-  },
-  {
-    Key: Asia/Vientiane,
-    Value: {
-      Generic: Энэтхэг-Хятадын хойгийн цаг,
-      Standard: Энэтхэг-Хятадын хойгийн цаг,
-      Daylight: Энэтхэг-Хятадын хойгийн цаг
-    }
-  },
-  {
-    Key: Asia/Vladivostok,
-    Value: {
-      Generic: Владивосток-н цаг,
-      Standard: Владивосток-н стандарт цаг,
-      Daylight: Владивосток-н зуны цаг
-    }
-  },
-  {
-    Key: Asia/Yakutsk,
-    Value: {
-      Generic: Якутск-н цаг,
-      Standard: Якутск-н стандарт цаг,
-      Daylight: Якутск-н зуны цаг
-    }
-  },
-  {
-    Key: Asia/Yangon,
-    Value: {
-      Generic: Мьянмарын цаг,
-      Standard: Мьянмарын цаг,
-      Daylight: Мьянмарын цаг
-    }
-  },
-  {
-    Key: Asia/Yekaterinburg,
-    Value: {
-      Generic: Екатеринбург-н цаг,
-      Standard: Екатеринбург-н стандарт цаг,
-      Daylight: Екатеринбург-н зуны цаг
-    }
-  },
-  {
-    Key: Asia/Yerevan,
-    Value: {
-      Generic: Арменийн цаг,
-      Standard: Арменийн стандарт цаг,
-      Daylight: Арменийн зуны цаг
-    }
-  },
-  {
-    Key: Atlantic/Azores,
-    Value: {
-      Generic: Азорын цаг,
-      Standard: Азорын стандарт цаг,
-      Daylight: Азорын зуны цаг
-    }
-  },
-  {
-    Key: Atlantic/Bermuda,
-    Value: {
-      Generic: Атлантын цаг,
-      Standard: Атлантын стандарт цаг,
-      Daylight: Атлантын зуны цаг
-    }
-  },
-  {
-    Key: Atlantic/Canary,
-    Value: {
-      Generic: Баруун Европын цаг,
-      Standard: Баруун Европын стандарт цаг,
-      Daylight: Баруун Европын зуны цаг
-    }
-  },
-  {
-    Key: Atlantic/Cape_Verde,
-    Value: {
-      Generic: Кабо-Вердийн цаг,
-      Standard: Кабо-Вердийн стандарт цаг,
-      Daylight: Кабо-Вердийн зуны цаг
-    }
-  },
-  {
-    Key: Atlantic/Faeroe,
-    Value: {
-      Generic: Баруун Европын цаг,
-      Standard: Баруун Европын стандарт цаг,
-      Daylight: Баруун Европын зуны цаг
-    }
-  },
-  {
-    Key: Atlantic/Faroe,
-    Value: {
-      Generic: Баруун Европын цаг,
-      Standard: Баруун Европын стандарт цаг,
-      Daylight: Баруун Европын зуны цаг
-    }
-  },
-  {
-    Key: Atlantic/Jan_Mayen,
-    Value: {
-      Generic: Төв Европын цаг,
-      Standard: Төв Европын стандарт цаг,
-      Daylight: Төв Европын зуны цаг
-    }
-  },
-  {
-    Key: Atlantic/Madeira,
-    Value: {
-      Generic: Баруун Европын цаг,
-      Standard: Баруун Европын стандарт цаг,
-      Daylight: Баруун Европын зуны цаг
-    }
-  },
-  {
-    Key: Atlantic/Reykjavik,
-    Value: {
-      Generic: Гринвичийн цаг,
-      Standard: Гринвичийн цаг,
-      Daylight: Гринвичийн цаг
-    }
-  },
-  {
-    Key: Atlantic/South_Georgia,
-    Value: {
-      Generic: Өмнөд Жоржиагийн цаг,
-      Standard: Өмнөд Жоржиагийн цаг,
-      Daylight: Өмнөд Жоржиагийн цаг
-    }
-  },
-  {
-    Key: Atlantic/St_Helena,
-    Value: {
-      Generic: Гринвичийн цаг,
-      Standard: Гринвичийн цаг,
-      Daylight: Гринвичийн цаг
-    }
-  },
-  {
-    Key: Atlantic/Stanley,
-    Value: {
-      Generic: Фолклендийн арлуудын цаг,
-      Standard: Фолклендийн арлуудын стандарт цаг,
-      Daylight: Фолклендийн арлуудын зуны цаг
-    }
-  },
-  {
-    Key: Australia/ACT,
-    Value: {
-      Generic: Зүүн Австралийн цаг,
-      Standard: Австралийн зүүн эргийн стандарт цаг,
-      Daylight: Австралийн зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: Australia/Adelaide,
-    Value: {
-      Generic: Төв Австралийн цаг,
-      Standard: Төв Австралийн стандарт цаг,
-      Daylight: Төв Австралийн зуны цаг
-    }
-  },
-  {
-    Key: Australia/Brisbane,
-    Value: {
-      Generic: Зүүн Австралийн цаг,
-      Standard: Австралийн зүүн эргийн стандарт цаг,
-      Daylight: Австралийн зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: Australia/Broken_Hill,
-    Value: {
-      Generic: Төв Австралийн цаг,
-      Standard: Төв Австралийн стандарт цаг,
-      Daylight: Төв Австралийн зуны цаг
-    }
-  },
-  {
-    Key: Australia/Canberra,
-    Value: {
-      Generic: Зүүн Австралийн цаг,
-      Standard: Австралийн зүүн эргийн стандарт цаг,
-      Daylight: Австралийн зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: Australia/Currie,
-    Value: {
-      Generic: Зүүн Австралийн цаг,
-      Standard: Австралийн зүүн эргийн стандарт цаг,
-      Daylight: Австралийн зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: Australia/Darwin,
-    Value: {
-      Generic: Төв Австралийн цаг,
-      Standard: Төв Австралийн стандарт цаг,
-      Daylight: Төв Австралийн зуны цаг
-    }
-  },
-  {
-    Key: Australia/Eucla,
-    Value: {
-      Generic: Австралийн төв баруун эргийн цаг,
-      Standard: Австралийн төв баруун эргийн стандарт цаг,
-      Daylight: Австралийн төв баруун эргийн зуны цаг
-    }
-  },
-  {
-    Key: Australia/Hobart,
-    Value: {
-      Generic: Зүүн Австралийн цаг,
-      Standard: Австралийн зүүн эргийн стандарт цаг,
-      Daylight: Австралийн зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: Australia/LHI,
-    Value: {
-      Generic: Лорд Хоугийн цаг,
-      Standard: Лорд Хоугийн стандарт цаг,
-      Daylight: Лорд Хоугийн зуны цаг
-    }
-  },
-  {
-    Key: Australia/Lindeman,
-    Value: {
-      Generic: Зүүн Австралийн цаг,
-      Standard: Австралийн зүүн эргийн стандарт цаг,
-      Daylight: Австралийн зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: Australia/Lord_Howe,
-    Value: {
-      Generic: Лорд Хоугийн цаг,
-      Standard: Лорд Хоугийн стандарт цаг,
-      Daylight: Лорд Хоугийн зуны цаг
-    }
-  },
-  {
-    Key: Australia/Melbourne,
-    Value: {
-      Generic: Зүүн Австралийн цаг,
-      Standard: Австралийн зүүн эргийн стандарт цаг,
-      Daylight: Австралийн зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: Australia/North,
-    Value: {
-      Generic: Төв Австралийн цаг,
-      Standard: Төв Австралийн стандарт цаг,
-      Daylight: Төв Австралийн зуны цаг
-    }
-  },
-  {
-    Key: Australia/NSW,
-    Value: {
-      Generic: Зүүн Австралийн цаг,
-      Standard: Австралийн зүүн эргийн стандарт цаг,
-      Daylight: Австралийн зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: Australia/Perth,
-    Value: {
-      Generic: Баруун Австралийн цаг,
-      Standard: Австралийн баруун эргийн стандарт цаг,
-      Daylight: Австралийн баруун эргийн зуны цаг
-    }
-  },
-  {
-    Key: Australia/Queensland,
-    Value: {
-      Generic: Зүүн Австралийн цаг,
-      Standard: Австралийн зүүн эргийн стандарт цаг,
-      Daylight: Австралийн зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: Australia/South,
-    Value: {
-      Generic: Төв Австралийн цаг,
-      Standard: Төв Австралийн стандарт цаг,
-      Daylight: Төв Австралийн зуны цаг
-    }
-  },
-  {
-    Key: Australia/Sydney,
-    Value: {
-      Generic: Зүүн Австралийн цаг,
-      Standard: Австралийн зүүн эргийн стандарт цаг,
-      Daylight: Австралийн зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: Australia/Tasmania,
-    Value: {
-      Generic: Зүүн Австралийн цаг,
-      Standard: Австралийн зүүн эргийн стандарт цаг,
-      Daylight: Австралийн зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: Australia/Victoria,
-    Value: {
-      Generic: Зүүн Австралийн цаг,
-      Standard: Австралийн зүүн эргийн стандарт цаг,
-      Daylight: Австралийн зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: Australia/West,
-    Value: {
-      Generic: Баруун Австралийн цаг,
-      Standard: Австралийн баруун эргийн стандарт цаг,
-      Daylight: Австралийн баруун эргийн зуны цаг
-    }
-  },
-  {
-    Key: Australia/Yancowinna,
-    Value: {
-      Generic: Төв Австралийн цаг,
-      Standard: Төв Австралийн стандарт цаг,
-      Daylight: Төв Австралийн зуны цаг
-    }
-  },
-  {
-    Key: Brazil/Acre,
-    Value: {
-      Generic: Бразил-н цаг,
-      Standard: Бразил-н стандарт цаг,
-      Daylight: Бразил-н зуны цаг
-    }
-  },
-  {
-    Key: Brazil/DeNoronha,
-    Value: {
-      Generic: Фернандо де Норонагийн цаг,
-      Standard: Фернандо де Норонагийн стандарт цаг,
-      Daylight: Фернандо де Норонагийн зуны цаг
-    }
-  },
-  {
-    Key: Brazil/East,
-    Value: {
-      Generic: Бразилийн цаг,
-      Standard: Бразилийн стандарт цаг,
-      Daylight: Бразилийн зуны цаг
-    }
-  },
-  {
-    Key: Brazil/West,
-    Value: {
-      Generic: Амазоны цаг,
-      Standard: Амазоны стандарт цаг,
-      Daylight: Амазоны зуны цаг
-    }
-  },
-  {
-    Key: Canada/Atlantic,
-    Value: {
-      Generic: Атлантын цаг,
-      Standard: Атлантын стандарт цаг,
-      Daylight: Атлантын зуны цаг
-    }
-  },
-  {
-    Key: Canada/Central,
-    Value: {
-      Generic: Төв цаг,
-      Standard: Төв стандарт цаг,
-      Daylight: Төв зуны цаг
-    }
-  },
-  {
-    Key: Canada/Eastern,
-    Value: {
-      Generic: Зүүн эргийн цаг,
-      Standard: Зүүн эргийн стандарт цаг,
-      Daylight: Зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: Canada/Mountain,
-    Value: {
-      Generic: Уулын цаг,
-      Standard: Уулын стандарт цаг,
-      Daylight: Уулын зуны цаг
-    }
-  },
-  {
-    Key: Canada/Newfoundland,
-    Value: {
-      Generic: Нью-Фаундлендын цаг,
-      Standard: Нью-Фаундлендын стандарт цаг,
-      Daylight: Нью-Фаундлендын зуны цаг
-    }
-  },
-  {
-    Key: Canada/Pacific,
-    Value: {
-      Generic: Номхон далайн цаг,
-      Standard: Номхон далайн стандарт цаг,
-      Daylight: Номхон далайн зуны цаг
-    }
-  },
-  {
-    Key: Canada/Saskatchewan,
-    Value: {
-      Generic: Төв цаг,
-      Standard: Төв стандарт цаг,
-      Daylight: Төв зуны цаг
-    }
-  },
-  {
-    Key: Canada/Yukon,
-    Value: {
-      Generic: Юкон цагийн бүс,
-      Standard: Юкон цагийн бүс,
-      Daylight: Юкон цагийн бүс
-    }
-  },
-  {
-    Key: CET,
-    Value: {
-      Generic: Төв Европын цаг,
-      Standard: Төв Европын стандарт цаг,
-      Daylight: Төв Европын зуны цаг
-    }
-  },
-  {
-    Key: Chile/Continental,
-    Value: {
-      Generic: Чилийн цаг,
-      Standard: Чилийн стандарт цаг,
-      Daylight: Чилийн зуны цаг
-    }
-  },
-  {
-    Key: Chile/EasterIsland,
-    Value: {
-      Generic: Зүүн Исландын цаг,
-      Standard: Зүүн Исландын стандарт цаг,
-      Daylight: Зүүн Исландын зуны цаг
-    }
-  },
-  {
-    Key: CST6CDT,
-    Value: {
-      Generic: Төв цаг,
-      Standard: Төв стандарт цаг,
-      Daylight: Төв зуны цаг
-    }
-  },
-  {
-    Key: Cuba,
-    Value: {
-      Generic: Кубын цаг,
-      Standard: Кубын стандарт цаг,
-      Daylight: Кубын зуны цаг
-    }
-  },
-  {
-    Key: EET,
-    Value: {
-      Generic: Зүүн Европын цаг,
-      Standard: Зүүн Европын стандарт цаг,
-      Daylight: Зүүн Европын зуны цаг
-    }
-  },
-  {
-    Key: Egypt,
-    Value: {
-      Generic: Зүүн Европын цаг,
-      Standard: Зүүн Европын стандарт цаг,
-      Daylight: Зүүн Европын зуны цаг
-    }
-  },
-  {
-    Key: Eire,
-    Value: {
-      Generic: Ирланд-н цаг,
-      Standard: Гринвичийн цаг,
-      Daylight: Ирландын стандарт цаг
-    }
-  },
-  {
-    Key: EST,
-    Value: {
-      Generic: Олон улсын зохицуулалттай цаг -5,
-      Standard: Олон улсын зохицуулалттай цаг -5,
-      Daylight: Олон улсын зохицуулалттай цаг -5
-    }
-  },
-  {
-    Key: EST5EDT,
-    Value: {
-      Generic: Зүүн эргийн цаг,
-      Standard: Зүүн эргийн стандарт цаг,
-      Daylight: Зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: Etc/GMT,
-    Value: {
-      Generic: Гринвичийн цаг,
-      Standard: Гринвичийн цаг,
-      Daylight: Гринвичийн цаг
-    }
-  },
-  {
-    Key: Etc/GMT-0,
-    Value: {
-      Generic: Гринвичийн цаг,
-      Standard: Гринвичийн цаг,
-      Daylight: Гринвичийн цаг
-    }
-  },
-  {
-    Key: Etc/GMT-1,
-    Value: {
-      Generic: Олон улсын зохицуулалттай цаг +1,
-      Standard: Олон улсын зохицуулалттай цаг +1,
-      Daylight: Олон улсын зохицуулалттай цаг +1
-    }
-  },
-  {
-    Key: Etc/GMT-10,
-    Value: {
-      Generic: Олон улсын зохицуулалттай цаг +10,
-      Standard: Олон улсын зохицуулалттай цаг +10,
-      Daylight: Олон улсын зохицуулалттай цаг +10
-    }
-  },
-  {
-    Key: Etc/GMT-11,
-    Value: {
-      Generic: Олон улсын зохицуулалттай цаг +11,
-      Standard: Олон улсын зохицуулалттай цаг +11,
-      Daylight: Олон улсын зохицуулалттай цаг +11
-    }
-  },
-  {
-    Key: Etc/GMT-12,
-    Value: {
-      Generic: Олон улсын зохицуулалттай цаг +12,
-      Standard: Олон улсын зохицуулалттай цаг +12,
-      Daylight: Олон улсын зохицуулалттай цаг +12
-    }
-  },
-  {
-    Key: Etc/GMT-13,
-    Value: {
-      Generic: Олон улсын зохицуулалттай цаг +13,
-      Standard: Олон улсын зохицуулалттай цаг +13,
-      Daylight: Олон улсын зохицуулалттай цаг +13
-    }
-  },
-  {
-    Key: Etc/GMT-14,
-    Value: {
-      Generic: Олон улсын зохицуулалттай цаг +14,
-      Standard: Олон улсын зохицуулалттай цаг +14,
-      Daylight: Олон улсын зохицуулалттай цаг +14
-    }
-  },
-  {
-    Key: Etc/GMT-2,
-    Value: {
-      Generic: Олон улсын зохицуулалттай цаг +2,
-      Standard: Олон улсын зохицуулалттай цаг +2,
-      Daylight: Олон улсын зохицуулалттай цаг +2
-    }
-  },
-  {
-    Key: Etc/GMT-3,
-    Value: {
-      Generic: Олон улсын зохицуулалттай цаг +3,
-      Standard: Олон улсын зохицуулалттай цаг +3,
-      Daylight: Олон улсын зохицуулалттай цаг +3
-    }
-  },
-  {
-    Key: Etc/GMT-4,
-    Value: {
-      Generic: Олон улсын зохицуулалттай цаг +4,
-      Standard: Олон улсын зохицуулалттай цаг +4,
-      Daylight: Олон улсын зохицуулалттай цаг +4
-    }
-  },
-  {
-    Key: Etc/GMT-5,
-    Value: {
-      Generic: Олон улсын зохицуулалттай цаг +5,
-      Standard: Олон улсын зохицуулалттай цаг +5,
-      Daylight: Олон улсын зохицуулалттай цаг +5
-    }
-  },
-  {
-    Key: Etc/GMT-6,
-    Value: {
-      Generic: Олон улсын зохицуулалттай цаг +6,
-      Standard: Олон улсын зохицуулалттай цаг +6,
-      Daylight: Олон улсын зохицуулалттай цаг +6
-    }
-  },
-  {
-    Key: Etc/GMT-7,
-    Value: {
-      Generic: Олон улсын зохицуулалттай цаг +7,
-      Standard: Олон улсын зохицуулалттай цаг +7,
-      Daylight: Олон улсын зохицуулалттай цаг +7
-    }
-  },
-  {
-    Key: Etc/GMT-8,
-    Value: {
-      Generic: Олон улсын зохицуулалттай цаг +8,
-      Standard: Олон улсын зохицуулалттай цаг +8,
-      Daylight: Олон улсын зохицуулалттай цаг +8
-    }
-  },
-  {
-    Key: Etc/GMT-9,
-    Value: {
-      Generic: Олон улсын зохицуулалттай цаг +9,
-      Standard: Олон улсын зохицуулалттай цаг +9,
-      Daylight: Олон улсын зохицуулалттай цаг +9
-    }
-  },
-  {
-    Key: Etc/GMT+0,
-    Value: {
-      Generic: Гринвичийн цаг,
-      Standard: Гринвичийн цаг,
-      Daylight: Гринвичийн цаг
-    }
-  },
-  {
-    Key: Etc/GMT+1,
-    Value: {
-      Generic: Олон улсын зохицуулалттай цаг -1,
-      Standard: Олон улсын зохицуулалттай цаг -1,
-      Daylight: Олон улсын зохицуулалттай цаг -1
-    }
-  },
-  {
-    Key: Etc/GMT+10,
-    Value: {
-      Generic: Олон улсын зохицуулалттай цаг -10,
-      Standard: Олон улсын зохицуулалттай цаг -10,
-      Daylight: Олон улсын зохицуулалттай цаг -10
-    }
-  },
-  {
-    Key: Etc/GMT+11,
-    Value: {
-      Generic: Олон улсын зохицуулалттай цаг -11,
-      Standard: Олон улсын зохицуулалттай цаг -11,
-      Daylight: Олон улсын зохицуулалттай цаг -11
-    }
-  },
-  {
-    Key: Etc/GMT+12,
-    Value: {
-      Generic: Олон улсын зохицуулалттай цаг -12,
-      Standard: Олон улсын зохицуулалттай цаг -12,
-      Daylight: Олон улсын зохицуулалттай цаг -12
-    }
-  },
-  {
-    Key: Etc/GMT+2,
-    Value: {
-      Generic: Олон улсын зохицуулалттай цаг -2,
-      Standard: Олон улсын зохицуулалттай цаг -2,
-      Daylight: Олон улсын зохицуулалттай цаг -2
-    }
-  },
-  {
-    Key: Etc/GMT+3,
-    Value: {
-      Generic: Олон улсын зохицуулалттай цаг -3,
-      Standard: Олон улсын зохицуулалттай цаг -3,
-      Daylight: Олон улсын зохицуулалттай цаг -3
-    }
-  },
-  {
-    Key: Etc/GMT+4,
-    Value: {
-      Generic: Олон улсын зохицуулалттай цаг -4,
-      Standard: Олон улсын зохицуулалттай цаг -4,
-      Daylight: Олон улсын зохицуулалттай цаг -4
-    }
-  },
-  {
-    Key: Etc/GMT+5,
-    Value: {
-      Generic: Олон улсын зохицуулалттай цаг -5,
-      Standard: Олон улсын зохицуулалттай цаг -5,
-      Daylight: Олон улсын зохицуулалттай цаг -5
-    }
-  },
-  {
-    Key: Etc/GMT+6,
-    Value: {
-      Generic: Олон улсын зохицуулалттай цаг -6,
-      Standard: Олон улсын зохицуулалттай цаг -6,
-      Daylight: Олон улсын зохицуулалттай цаг -6
-    }
-  },
-  {
-    Key: Etc/GMT+7,
-    Value: {
-      Generic: Олон улсын зохицуулалттай цаг -7,
-      Standard: Олон улсын зохицуулалттай цаг -7,
-      Daylight: Олон улсын зохицуулалттай цаг -7
-    }
-  },
-  {
-    Key: Etc/GMT+8,
-    Value: {
-      Generic: Олон улсын зохицуулалттай цаг -8,
-      Standard: Олон улсын зохицуулалттай цаг -8,
-      Daylight: Олон улсын зохицуулалттай цаг -8
-    }
-  },
-  {
-    Key: Etc/GMT+9,
-    Value: {
-      Generic: Олон улсын зохицуулалттай цаг -9,
-      Standard: Олон улсын зохицуулалттай цаг -9,
-      Daylight: Олон улсын зохицуулалттай цаг -9
-    }
-  },
-  {
-    Key: Etc/GMT0,
-    Value: {
-      Generic: Гринвичийн цаг,
-      Standard: Гринвичийн цаг,
-      Daylight: Гринвичийн цаг
-    }
-  },
-  {
-    Key: Etc/Greenwich,
-    Value: {
-      Generic: Гринвичийн цаг,
-      Standard: Гринвичийн цаг,
-      Daylight: Гринвичийн цаг
-    }
-  },
-  {
-    Key: Etc/UCT,
-    Value: {
-      Generic: Олон улсын зохицуулалттай цаг,
-      Standard: Олон улсын зохицуулалттай цаг,
-      Daylight: Олон улсын зохицуулалттай цаг
-    }
-  },
-  {
-    Key: Etc/Universal,
-    Value: {
-      Generic: Олон улсын зохицуулалттай цаг,
-      Standard: Олон улсын зохицуулалттай цаг,
-      Daylight: Олон улсын зохицуулалттай цаг
-    }
-  },
-  {
-    Key: Etc/UTC,
-    Value: {
-      Generic: Олон улсын зохицуулалттай цаг,
-      Standard: Олон улсын зохицуулалттай цаг,
-      Daylight: Олон улсын зохицуулалттай цаг
-    }
-  },
-  {
-    Key: Etc/Zulu,
-    Value: {
-      Generic: Олон улсын зохицуулалттай цаг,
-      Standard: Олон улсын зохицуулалттай цаг,
-      Daylight: Олон улсын зохицуулалттай цаг
-    }
-  },
-  {
-    Key: Europe/Amsterdam,
-    Value: {
-      Generic: Төв Европын цаг,
-      Standard: Төв Европын стандарт цаг,
-      Daylight: Төв Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Andorra,
-    Value: {
-      Generic: Төв Европын цаг,
-      Standard: Төв Европын стандарт цаг,
-      Daylight: Төв Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Astrakhan,
-    Value: {
-      Generic: Астрахань-н цаг,
-      Standard: Астрахань-н стандарт цаг,
-      Daylight: Астрахань-н зуны цаг
-    }
-  },
-  {
-    Key: Europe/Athens,
-    Value: {
-      Generic: Зүүн Европын цаг,
-      Standard: Зүүн Европын стандарт цаг,
-      Daylight: Зүүн Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Belfast,
-    Value: {
-      Generic: Их Британи-н цаг,
-      Standard: Гринвичийн цаг,
-      Daylight: Британийн зуны цаг
-    }
-  },
-  {
-    Key: Europe/Belgrade,
-    Value: {
-      Generic: Төв Европын цаг,
-      Standard: Төв Европын стандарт цаг,
-      Daylight: Төв Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Berlin,
-    Value: {
-      Generic: Төв Европын цаг,
-      Standard: Төв Европын стандарт цаг,
-      Daylight: Төв Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Bratislava,
-    Value: {
-      Generic: Төв Европын цаг,
-      Standard: Төв Европын стандарт цаг,
-      Daylight: Төв Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Brussels,
-    Value: {
-      Generic: Төв Европын цаг,
-      Standard: Төв Европын стандарт цаг,
-      Daylight: Төв Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Bucharest,
-    Value: {
-      Generic: Зүүн Европын цаг,
-      Standard: Зүүн Европын стандарт цаг,
-      Daylight: Зүүн Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Budapest,
-    Value: {
-      Generic: Төв Европын цаг,
-      Standard: Төв Европын стандарт цаг,
-      Daylight: Төв Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Busingen,
-    Value: {
-      Generic: Төв Европын цаг,
-      Standard: Төв Европын стандарт цаг,
-      Daylight: Төв Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Chisinau,
-    Value: {
-      Generic: Зүүн Европын цаг,
-      Standard: Зүүн Европын стандарт цаг,
-      Daylight: Зүүн Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Copenhagen,
-    Value: {
-      Generic: Төв Европын цаг,
-      Standard: Төв Европын стандарт цаг,
-      Daylight: Төв Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Dublin,
-    Value: {
-      Generic: Ирланд-н цаг,
-      Standard: Гринвичийн цаг,
-      Daylight: Ирландын стандарт цаг
-    }
-  },
-  {
-    Key: Europe/Gibraltar,
-    Value: {
-      Generic: Төв Европын цаг,
-      Standard: Төв Европын стандарт цаг,
-      Daylight: Төв Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Guernsey,
-    Value: {
-      Generic: Гринвичийн цаг,
-      Standard: Гринвичийн цаг,
-      Daylight: Гринвичийн цаг
-    }
-  },
-  {
-    Key: Europe/Helsinki,
-    Value: {
-      Generic: Зүүн Европын цаг,
-      Standard: Зүүн Европын стандарт цаг,
-      Daylight: Зүүн Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Isle_of_Man,
-    Value: {
-      Generic: Гринвичийн цаг,
-      Standard: Гринвичийн цаг,
-      Daylight: Гринвичийн цаг
-    }
-  },
-  {
-    Key: Europe/Istanbul,
-    Value: {
-      Generic: Турк-н цаг,
-      Standard: Турк-н стандарт цаг,
-      Daylight: Турк-н зуны цаг
-    }
-  },
-  {
-    Key: Europe/Jersey,
-    Value: {
-      Generic: Гринвичийн цаг,
-      Standard: Гринвичийн цаг,
-      Daylight: Гринвичийн цаг
-    }
-  },
-  {
-    Key: Europe/Kaliningrad,
-    Value: {
-      Generic: Калининград-н цаг,
-      Standard: Калининград-н стандарт цаг,
-      Daylight: Калининград-н зуны цаг
-    }
-  },
-  {
-    Key: Europe/Kiev,
-    Value: {
-      Generic: Зүүн Европын цаг,
-      Standard: Зүүн Европын стандарт цаг,
-      Daylight: Зүүн Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Kirov,
-    Value: {
-      Generic: Киров-н цаг,
-      Standard: Киров-н стандарт цаг,
-      Daylight: Киров-н зуны цаг
-    }
-  },
-  {
-    Key: Europe/Kyiv,
-    Value: {
-      Generic: Украин-н цаг,
-      Standard: Украин-н стандарт цаг,
-      Daylight: Украин-н зуны цаг
-    }
-  },
-  {
-    Key: Europe/Lisbon,
-    Value: {
-      Generic: Баруун Европын цаг,
-      Standard: Баруун Европын стандарт цаг,
-      Daylight: Баруун Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Ljubljana,
-    Value: {
-      Generic: Төв Европын цаг,
-      Standard: Төв Европын стандарт цаг,
-      Daylight: Төв Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/London,
-    Value: {
-      Generic: Их Британи-н цаг,
-      Standard: Гринвичийн цаг,
-      Daylight: Британийн зуны цаг
-    }
-  },
-  {
-    Key: Europe/Luxembourg,
-    Value: {
-      Generic: Төв Европын цаг,
-      Standard: Төв Европын стандарт цаг,
-      Daylight: Төв Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Madrid,
-    Value: {
-      Generic: Төв Европын цаг,
-      Standard: Төв Европын стандарт цаг,
-      Daylight: Төв Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Malta,
-    Value: {
-      Generic: Төв Европын цаг,
-      Standard: Төв Европын стандарт цаг,
-      Daylight: Төв Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Mariehamn,
-    Value: {
-      Generic: Зүүн Европын цаг,
-      Standard: Зүүн Европын стандарт цаг,
-      Daylight: Зүүн Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Minsk,
-    Value: {
-      Generic: Москвагийн цаг,
-      Standard: Москвагийн стандарт цаг,
-      Daylight: Москвагийн зуны цаг
-    }
-  },
-  {
-    Key: Europe/Monaco,
-    Value: {
-      Generic: Төв Европын цаг,
-      Standard: Төв Европын стандарт цаг,
-      Daylight: Төв Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Moscow,
-    Value: {
-      Generic: Москва-н цаг,
-      Standard: Москва-н стандарт цаг,
-      Daylight: Москва-н зуны цаг
-    }
-  },
-  {
-    Key: Europe/Nicosia,
-    Value: {
-      Generic: Зүүн Европын цаг,
-      Standard: Зүүн Европын стандарт цаг,
-      Daylight: Зүүн Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Oslo,
-    Value: {
-      Generic: Төв Европын цаг,
-      Standard: Төв Европын стандарт цаг,
-      Daylight: Төв Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Paris,
-    Value: {
-      Generic: Төв Европын цаг,
-      Standard: Төв Европын стандарт цаг,
-      Daylight: Төв Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Podgorica,
-    Value: {
-      Generic: Төв Европын цаг,
-      Standard: Төв Европын стандарт цаг,
-      Daylight: Төв Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Prague,
-    Value: {
-      Generic: Төв Европын цаг,
-      Standard: Төв Европын стандарт цаг,
-      Daylight: Төв Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Riga,
-    Value: {
-      Generic: Зүүн Европын цаг,
-      Standard: Зүүн Европын стандарт цаг,
-      Daylight: Зүүн Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Rome,
-    Value: {
-      Generic: Төв Европын цаг,
-      Standard: Төв Европын стандарт цаг,
-      Daylight: Төв Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Samara,
-    Value: {
-      Generic: Самара-н цаг,
-      Standard: Самара-н стандарт цаг,
-      Daylight: Самара-н зуны цаг
-    }
-  },
-  {
-    Key: Europe/San_Marino,
-    Value: {
-      Generic: Төв Европын цаг,
-      Standard: Төв Европын стандарт цаг,
-      Daylight: Төв Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Sarajevo,
-    Value: {
-      Generic: Төв Европын цаг,
-      Standard: Төв Европын стандарт цаг,
-      Daylight: Төв Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Saratov,
-    Value: {
-      Generic: Саратов-н цаг,
-      Standard: Саратов-н стандарт цаг,
-      Daylight: Саратов-н зуны цаг
-    }
-  },
-  {
-    Key: Europe/Simferopol,
-    Value: {
-      Generic: Москвагийн цаг,
-      Standard: Москвагийн стандарт цаг,
-      Daylight: Москвагийн зуны цаг
-    }
-  },
-  {
-    Key: Europe/Skopje,
-    Value: {
-      Generic: Төв Европын цаг,
-      Standard: Төв Европын стандарт цаг,
-      Daylight: Төв Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Sofia,
-    Value: {
-      Generic: Зүүн Европын цаг,
-      Standard: Зүүн Европын стандарт цаг,
-      Daylight: Зүүн Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Stockholm,
-    Value: {
-      Generic: Төв Европын цаг,
-      Standard: Төв Европын стандарт цаг,
-      Daylight: Төв Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Tallinn,
-    Value: {
-      Generic: Зүүн Европын цаг,
-      Standard: Зүүн Европын стандарт цаг,
-      Daylight: Зүүн Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Tirane,
-    Value: {
-      Generic: Төв Европын цаг,
-      Standard: Төв Европын стандарт цаг,
-      Daylight: Төв Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Tiraspol,
-    Value: {
-      Generic: Зүүн Европын цаг,
-      Standard: Зүүн Европын стандарт цаг,
-      Daylight: Зүүн Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Ulyanovsk,
-    Value: {
-      Generic: Ульяновск-н цаг,
-      Standard: Ульяновск-н стандарт цаг,
-      Daylight: Ульяновск-н зуны цаг
-    }
-  },
-  {
-    Key: Europe/Uzhgorod,
-    Value: {
-      Generic: Зүүн Европын цаг,
-      Standard: Зүүн Европын стандарт цаг,
-      Daylight: Зүүн Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Vaduz,
-    Value: {
-      Generic: Төв Европын цаг,
-      Standard: Төв Европын стандарт цаг,
-      Daylight: Төв Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Vatican,
-    Value: {
-      Generic: Төв Европын цаг,
-      Standard: Төв Европын стандарт цаг,
-      Daylight: Төв Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Vienna,
-    Value: {
-      Generic: Төв Европын цаг,
-      Standard: Төв Европын стандарт цаг,
-      Daylight: Төв Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Vilnius,
-    Value: {
-      Generic: Зүүн Европын цаг,
-      Standard: Зүүн Европын стандарт цаг,
-      Daylight: Зүүн Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Volgograd,
-    Value: {
-      Generic: Волгоград-н цаг,
-      Standard: Волгоград-н стандарт цаг,
-      Daylight: Волгоград-н зуны цаг
-    }
-  },
-  {
-    Key: Europe/Warsaw,
-    Value: {
-      Generic: Төв Европын цаг,
-      Standard: Төв Европын стандарт цаг,
-      Daylight: Төв Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Zagreb,
-    Value: {
-      Generic: Төв Европын цаг,
-      Standard: Төв Европын стандарт цаг,
-      Daylight: Төв Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Zaporozhye,
-    Value: {
-      Generic: Зүүн Европын цаг,
-      Standard: Зүүн Европын стандарт цаг,
-      Daylight: Зүүн Европын зуны цаг
-    }
-  },
-  {
-    Key: Europe/Zurich,
-    Value: {
-      Generic: Төв Европын цаг,
-      Standard: Төв Европын стандарт цаг,
-      Daylight: Төв Европын зуны цаг
-    }
-  },
-  {
-    Key: GB,
-    Value: {
-      Generic: Их Британи-н цаг,
-      Standard: Гринвичийн цаг,
-      Daylight: Британийн зуны цаг
-    }
-  },
-  {
-    Key: GB-Eire,
-    Value: {
-      Generic: Их Британи-н цаг,
-      Standard: Гринвичийн цаг,
-      Daylight: Британийн зуны цаг
-    }
-  },
-  {
-    Key: GMT,
-    Value: {
-      Generic: Гринвичийн цаг,
-      Standard: Гринвичийн цаг,
-      Daylight: Гринвичийн цаг
-    }
-  },
-  {
-    Key: GMT-0,
-    Value: {
-      Generic: Гринвичийн цаг,
-      Standard: Гринвичийн цаг,
-      Daylight: Гринвичийн цаг
-    }
-  },
-  {
-    Key: GMT+0,
-    Value: {
-      Generic: Гринвичийн цаг,
-      Standard: Гринвичийн цаг,
-      Daylight: Гринвичийн цаг
-    }
-  },
-  {
-    Key: GMT0,
-    Value: {
-      Generic: Гринвичийн цаг,
-      Standard: Гринвичийн цаг,
-      Daylight: Гринвичийн цаг
-    }
-  },
-  {
-    Key: Greenwich,
-    Value: {
-      Generic: Гринвичийн цаг,
-      Standard: Гринвичийн цаг,
-      Daylight: Гринвичийн цаг
-    }
-  },
-  {
-    Key: Hongkong,
-    Value: {
-      Generic: Хонг Конгийн цаг,
-      Standard: Хонг Конгийн стандарт цаг,
-      Daylight: Хонг Конгийн зуны цаг
-    }
-  },
-  {
-    Key: HST,
-    Value: {
-      Generic: Олон улсын зохицуулалттай цаг -10,
-      Standard: Олон улсын зохицуулалттай цаг -10,
-      Daylight: Олон улсын зохицуулалттай цаг -10
-    }
-  },
-  {
-    Key: Iceland,
-    Value: {
-      Generic: Гринвичийн цаг,
-      Standard: Гринвичийн цаг,
-      Daylight: Гринвичийн цаг
-    }
-  },
-  {
-    Key: Indian/Antananarivo,
-    Value: {
-      Generic: Зүүн Африкийн цаг,
-      Standard: Зүүн Африкийн цаг,
-      Daylight: Зүүн Африкийн цаг
-    }
-  },
-  {
-    Key: Indian/Chagos,
-    Value: {
-      Generic: Энэтхэгийн далайн цаг,
-      Standard: Энэтхэгийн далайн цаг,
-      Daylight: Энэтхэгийн далайн цаг
-    }
-  },
-  {
-    Key: Indian/Christmas,
-    Value: {
-      Generic: Крисмас арлын цаг,
-      Standard: Крисмас арлын цаг,
-      Daylight: Крисмас арлын цаг
-    }
-  },
-  {
-    Key: Indian/Cocos,
-    Value: {
-      Generic: Кокос арлын цаг,
-      Standard: Кокос арлын цаг,
-      Daylight: Кокос арлын цаг
-    }
-  },
-  {
-    Key: Indian/Comoro,
-    Value: {
-      Generic: Зүүн Африкийн цаг,
-      Standard: Зүүн Африкийн цаг,
-      Daylight: Зүүн Африкийн цаг
-    }
-  },
-  {
-    Key: Indian/Kerguelen,
-    Value: {
-      Generic: Францын Өмнөд ба Антарктидийн цаг,
-      Standard: Францын Өмнөд ба Антарктидийн цаг,
-      Daylight: Францын Өмнөд ба Антарктидийн цаг
-    }
-  },
-  {
-    Key: Indian/Mahe,
-    Value: {
-      Generic: Сейшелийн арлуудын цаг,
-      Standard: Сейшелийн арлуудын цаг,
-      Daylight: Сейшелийн арлуудын цаг
-    }
-  },
-  {
-    Key: Indian/Maldives,
-    Value: {
-      Generic: Мальдивийн цаг,
-      Standard: Мальдивийн цаг,
-      Daylight: Мальдивийн цаг
-    }
-  },
-  {
-    Key: Indian/Mauritius,
-    Value: {
-      Generic: Маврикийн цаг,
-      Standard: Маврикийн стандарт цаг,
-      Daylight: Маврикийн зуны цаг
-    }
-  },
-  {
-    Key: Indian/Mayotte,
-    Value: {
-      Generic: Зүүн Африкийн цаг,
-      Standard: Зүүн Африкийн цаг,
-      Daylight: Зүүн Африкийн цаг
-    }
-  },
-  {
-    Key: Indian/Reunion,
-    Value: {
-      Generic: Реюнионы цаг,
-      Standard: Реюнионы цаг,
-      Daylight: Реюнионы цаг
-    }
-  },
-  {
-    Key: Iran,
-    Value: {
-      Generic: Ираны цаг,
-      Standard: Ираны стандарт цаг,
-      Daylight: Ираны зуны цаг
-    }
-  },
-  {
-    Key: Israel,
-    Value: {
-      Generic: Израилийн цаг,
-      Standard: Израилийн стандарт цаг,
-      Daylight: Израилийн зуны цаг
-    }
-  },
-  {
-    Key: Jamaica,
-    Value: {
-      Generic: Зүүн эргийн цаг,
-      Standard: Зүүн эргийн стандарт цаг,
-      Daylight: Зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: Japan,
-    Value: {
-      Generic: Японы цаг,
-      Standard: Японы стандарт цаг,
-      Daylight: Японы зуны цаг
-    }
-  },
-  {
-    Key: Kwajalein,
-    Value: {
-      Generic: Маршаллын арлуудын цаг,
-      Standard: Маршаллын арлуудын цаг,
-      Daylight: Маршаллын арлуудын цаг
-    }
-  },
-  {
-    Key: Libya,
-    Value: {
-      Generic: Зүүн Европын цаг,
-      Standard: Зүүн Европын стандарт цаг,
-      Daylight: Зүүн Европын зуны цаг
-    }
-  },
-  {
-    Key: MET,
-    Value: {
-      Generic: Төв Европын цаг,
-      Standard: Төв Европын стандарт цаг,
-      Daylight: Төв Европын зуны цаг
-    }
-  },
-  {
-    Key: Mexico/BajaNorte,
-    Value: {
-      Generic: Номхон далайн цаг,
-      Standard: Номхон далайн стандарт цаг,
-      Daylight: Номхон далайн зуны цаг
-    }
-  },
-  {
-    Key: Mexico/BajaSur,
-    Value: {
-      Generic: Мексик-Номхон далайн цаг,
-      Standard: Мексик-Номхон далайн стандарт цаг,
-      Daylight: Мексик-Номхон далайн зуны цаг
-    }
-  },
-  {
-    Key: Mexico/General,
-    Value: {
-      Generic: Төв цаг,
-      Standard: Төв стандарт цаг,
-      Daylight: Төв зуны цаг
-    }
-  },
-  {
-    Key: MST,
-    Value: {
-      Generic: Олон улсын зохицуулалттай цаг -7,
-      Standard: Олон улсын зохицуулалттай цаг -7,
-      Daylight: Олон улсын зохицуулалттай цаг -7
-    }
-  },
-  {
-    Key: MST7MDT,
-    Value: {
-      Generic: Уулын цаг,
-      Standard: Уулын стандарт цаг,
-      Daylight: Уулын зуны цаг
-    }
-  },
-  {
-    Key: Navajo,
-    Value: {
-      Generic: Уулын цаг,
-      Standard: Уулын стандарт цаг,
-      Daylight: Уулын зуны цаг
-    }
-  },
-  {
-    Key: NZ,
-    Value: {
-      Generic: Шинэ Зеландын цаг,
-      Standard: Шинэ Зеландын стандарт цаг,
-      Daylight: Шинэ Зеландын зуны цаг
-    }
-  },
-  {
-    Key: NZ-CHAT,
-    Value: {
-      Generic: Чатемын цаг,
-      Standard: Чатемын стандарт цаг,
-      Daylight: Чатемын зуны цаг
-    }
-  },
-  {
-    Key: Pacific/Apia,
-    Value: {
-      Generic: Апиагийн цаг,
-      Standard: Апиагийн стандарт цаг,
-      Daylight: Апиагийн зуны цаг
-    }
-  },
-  {
-    Key: Pacific/Auckland,
-    Value: {
-      Generic: Шинэ Зеландын цаг,
-      Standard: Шинэ Зеландын стандарт цаг,
-      Daylight: Шинэ Зеландын зуны цаг
-    }
-  },
-  {
-    Key: Pacific/Bougainville,
-    Value: {
-      Generic: Папуа Шинэ Гвинейн цаг,
-      Standard: Папуа Шинэ Гвинейн цаг,
-      Daylight: Папуа Шинэ Гвинейн цаг
-    }
-  },
-  {
-    Key: Pacific/Chatham,
-    Value: {
-      Generic: Чатемын цаг,
-      Standard: Чатемын стандарт цаг,
-      Daylight: Чатемын зуны цаг
-    }
-  },
-  {
-    Key: Pacific/Chuuk,
-    Value: {
-      Generic: Чүүкийн цаг,
-      Standard: Чүүкийн цаг,
-      Daylight: Чүүкийн цаг
-    }
-  },
-  {
-    Key: Pacific/Easter,
-    Value: {
-      Generic: Зүүн Исландын цаг,
-      Standard: Зүүн Исландын стандарт цаг,
-      Daylight: Зүүн Исландын зуны цаг
-    }
-  },
-  {
-    Key: Pacific/Efate,
-    Value: {
-      Generic: Вануатугийн цаг,
-      Standard: Вануатугийн стандарт цаг,
-      Daylight: Вануатугийн зуны цаг
-    }
-  },
-  {
-    Key: Pacific/Enderbury,
-    Value: {
-      Generic: Феникс арлын цаг,
-      Standard: Феникс арлын цаг,
-      Daylight: Феникс арлын цаг
-    }
-  },
-  {
-    Key: Pacific/Fakaofo,
-    Value: {
-      Generic: Токелаугийн цаг,
-      Standard: Токелаугийн цаг,
-      Daylight: Токелаугийн цаг
-    }
-  },
-  {
-    Key: Pacific/Fiji,
-    Value: {
-      Generic: Фижигийн цаг,
-      Standard: Фижигийн стандарт цаг,
-      Daylight: Фижигийн зуны цаг
-    }
-  },
-  {
-    Key: Pacific/Funafuti,
-    Value: {
-      Generic: Тувалугийн цаг,
-      Standard: Тувалугийн цаг,
-      Daylight: Тувалугийн цаг
-    }
-  },
-  {
-    Key: Pacific/Galapagos,
-    Value: {
-      Generic: Галапагосын цаг,
-      Standard: Галапагосын цаг,
-      Daylight: Галапагосын цаг
-    }
-  },
-  {
-    Key: Pacific/Gambier,
-    Value: {
-      Generic: Гамбьегийн цаг,
-      Standard: Гамбьегийн цаг,
-      Daylight: Гамбьегийн цаг
-    }
-  },
-  {
-    Key: Pacific/Guadalcanal,
-    Value: {
-      Generic: Соломоны арлуудын цаг,
-      Standard: Соломоны арлуудын цаг,
-      Daylight: Соломоны арлуудын цаг
-    }
-  },
-  {
-    Key: Pacific/Guam,
-    Value: {
-      Generic: Чаморрогийн цаг,
-      Standard: Чаморрогийн цаг,
-      Daylight: Чаморрогийн цаг
-    }
-  },
-  {
-    Key: Pacific/Honolulu,
-    Value: {
-      Generic: Хавай-Алеутын цаг,
-      Standard: Хавай-Алеутын стандарт цаг,
-      Daylight: Хавай-Алеутын зуны цаг
-    }
-  },
-  {
-    Key: Pacific/Johnston,
-    Value: {
-      Generic: Хавай-Алеутын цаг,
-      Standard: Хавай-Алеутын стандарт цаг,
-      Daylight: Хавай-Алеутын зуны цаг
-    }
-  },
-  {
-    Key: Pacific/Kanton,
-    Value: {
-      Generic: Феникс арлын цаг,
-      Standard: Феникс арлын цаг,
-      Daylight: Феникс арлын цаг
-    }
-  },
-  {
-    Key: Pacific/Kiritimati,
-    Value: {
-      Generic: Лайн арлуудын цаг,
-      Standard: Лайн арлуудын цаг,
-      Daylight: Лайн арлуудын цаг
-    }
-  },
-  {
-    Key: Pacific/Kosrae,
-    Value: {
-      Generic: Косрэгийн цаг,
-      Standard: Косрэгийн цаг,
-      Daylight: Косрэгийн цаг
-    }
-  },
-  {
-    Key: Pacific/Kwajalein,
-    Value: {
-      Generic: Маршаллын арлуудын цаг,
-      Standard: Маршаллын арлуудын цаг,
-      Daylight: Маршаллын арлуудын цаг
-    }
-  },
-  {
-    Key: Pacific/Majuro,
-    Value: {
-      Generic: Маршаллын арлуудын цаг,
-      Standard: Маршаллын арлуудын цаг,
-      Daylight: Маршаллын арлуудын цаг
-    }
-  },
-  {
-    Key: Pacific/Marquesas,
-    Value: {
-      Generic: Маркезын арлуудын цаг,
-      Standard: Маркезын арлуудын цаг,
-      Daylight: Маркезын арлуудын цаг
-    }
-  },
-  {
-    Key: Pacific/Midway,
-    Value: {
-      Generic: Самоагийн цаг,
-      Standard: Самоагийн стандарт цаг,
-      Daylight: Самоагийн зуны цаг
-    }
-  },
-  {
-    Key: Pacific/Nauru,
-    Value: {
-      Generic: Науругийн цаг,
-      Standard: Науругийн цаг,
-      Daylight: Науругийн цаг
-    }
-  },
-  {
-    Key: Pacific/Niue,
-    Value: {
-      Generic: Ниуэгийн цаг,
-      Standard: Ниуэгийн цаг,
-      Daylight: Ниуэгийн цаг
-    }
-  },
-  {
-    Key: Pacific/Norfolk,
-    Value: {
-      Generic: Норфолк арлын цаг,
-      Standard: Норфолк арлын стандарт цаг,
-      Daylight: Норфолк арлын зуны цаг
-    }
-  },
-  {
-    Key: Pacific/Noumea,
-    Value: {
-      Generic: Шинэ Каледонийн цаг,
-      Standard: Шинэ Каледонийн стандарт цаг,
-      Daylight: Шинэ Каледонийн зуны цаг
-    }
-  },
-  {
-    Key: Pacific/Pago_Pago,
-    Value: {
-      Generic: Самоагийн цаг,
-      Standard: Самоагийн стандарт цаг,
-      Daylight: Самоагийн зуны цаг
-    }
-  },
-  {
-    Key: Pacific/Palau,
-    Value: {
-      Generic: Палаугийн цаг,
-      Standard: Палаугийн цаг,
-      Daylight: Палаугийн цаг
-    }
-  },
-  {
-    Key: Pacific/Pitcairn,
-    Value: {
-      Generic: Питкернийн цаг,
-      Standard: Питкернийн цаг,
-      Daylight: Питкернийн цаг
-    }
-  },
-  {
-    Key: Pacific/Pohnpei,
-    Value: {
-      Generic: Понапегийн цаг,
-      Standard: Понапегийн цаг,
-      Daylight: Понапегийн цаг
-    }
-  },
-  {
-    Key: Pacific/Ponape,
-    Value: {
-      Generic: Понапегийн цаг,
-      Standard: Понапегийн цаг,
-      Daylight: Понапегийн цаг
-    }
-  },
-  {
-    Key: Pacific/Port_Moresby,
-    Value: {
-      Generic: Папуа Шинэ Гвинейн цаг,
-      Standard: Папуа Шинэ Гвинейн цаг,
-      Daylight: Папуа Шинэ Гвинейн цаг
-    }
-  },
-  {
-    Key: Pacific/Rarotonga,
-    Value: {
-      Generic: Күүкийн арлуудын цаг,
-      Standard: Күүкийн арлуудын стандарт цаг,
-      Daylight: Күүкийн арлуудын хагас зуны цаг
-    }
-  },
-  {
-    Key: Pacific/Saipan,
-    Value: {
-      Generic: Чаморрогийн цаг,
-      Standard: Чаморрогийн цаг,
-      Daylight: Чаморрогийн цаг
-    }
-  },
-  {
-    Key: Pacific/Samoa,
-    Value: {
-      Generic: Самоагийн цаг,
-      Standard: Самоагийн стандарт цаг,
-      Daylight: Самоагийн зуны цаг
-    }
-  },
-  {
-    Key: Pacific/Tahiti,
-    Value: {
-      Generic: Таитигийн цаг,
-      Standard: Таитигийн цаг,
-      Daylight: Таитигийн цаг
-    }
-  },
-  {
-    Key: Pacific/Tarawa,
-    Value: {
-      Generic: Гильбертийн арлуудын цаг,
-      Standard: Гильбертийн арлуудын цаг,
-      Daylight: Гильбертийн арлуудын цаг
-    }
-  },
-  {
-    Key: Pacific/Tongatapu,
-    Value: {
-      Generic: Тонгагийн цаг,
-      Standard: Тонгагийн стандарт цаг,
-      Daylight: Тонгагийн зуны цаг
-    }
-  },
-  {
-    Key: Pacific/Truk,
-    Value: {
-      Generic: Чүүкийн цаг,
-      Standard: Чүүкийн цаг,
-      Daylight: Чүүкийн цаг
-    }
-  },
-  {
-    Key: Pacific/Wake,
-    Value: {
-      Generic: Уэкийн арлуудын цаг,
-      Standard: Уэкийн арлуудын цаг,
-      Daylight: Уэкийн арлуудын цаг
-    }
-  },
-  {
-    Key: Pacific/Wallis,
-    Value: {
-      Generic: Уоллис ба Футунагийн цаг,
-      Standard: Уоллис ба Футунагийн цаг,
-      Daylight: Уоллис ба Футунагийн цаг
-    }
-  },
-  {
-    Key: Pacific/Yap,
-    Value: {
-      Generic: Чүүкийн цаг,
-      Standard: Чүүкийн цаг,
-      Daylight: Чүүкийн цаг
-    }
-  },
-  {
-    Key: Poland,
-    Value: {
-      Generic: Төв Европын цаг,
-      Standard: Төв Европын стандарт цаг,
-      Daylight: Төв Европын зуны цаг
-    }
-  },
-  {
-    Key: Portugal,
-    Value: {
-      Generic: Баруун Европын цаг,
-      Standard: Баруун Европын стандарт цаг,
-      Daylight: Баруун Европын зуны цаг
-    }
-  },
-  {
-    Key: PRC,
-    Value: {
-      Generic: Хятадын цаг,
-      Standard: Хятадын стандарт цаг,
-      Daylight: Хятадын зуны цаг
-    }
-  },
-  {
-    Key: PST8PDT,
-    Value: {
-      Generic: Номхон далайн цаг,
-      Standard: Номхон далайн стандарт цаг,
-      Daylight: Номхон далайн зуны цаг
-    }
-  },
-  {
-    Key: ROC,
-    Value: {
-      Generic: Тайпейн цаг,
-      Standard: Тайпейн стандарт цаг,
-      Daylight: Тайпейн зуны цаг
-    }
-  },
-  {
-    Key: ROK,
-    Value: {
-      Generic: Солонгосын цаг,
-      Standard: Солонгосын стандарт цаг,
-      Daylight: Солонгосын зуны цаг
-    }
-  },
-  {
-    Key: Singapore,
-    Value: {
-      Generic: Сингапурын цаг,
-      Standard: Сингапурын цаг,
-      Daylight: Сингапурын цаг
-    }
-  },
-  {
-    Key: Turkey,
-    Value: {
-      Generic: Турк-н цаг,
-      Standard: Турк-н стандарт цаг,
-      Daylight: Турк-н зуны цаг
-    }
-  },
-  {
-    Key: UCT,
-    Value: {
-      Generic: Олон улсын зохицуулалттай цаг,
-      Standard: Олон улсын зохицуулалттай цаг,
-      Daylight: Олон улсын зохицуулалттай цаг
-    }
-  },
-  {
-    Key: Universal,
-    Value: {
-      Generic: Олон улсын зохицуулалттай цаг,
-      Standard: Олон улсын зохицуулалттай цаг,
-      Daylight: Олон улсын зохицуулалттай цаг
-    }
-  },
-  {
-    Key: US/Alaska,
-    Value: {
-      Generic: Аляскийн цаг,
-      Standard: Аляскийн стандарт цаг,
-      Daylight: Аляскийн зуны цаг
-    }
-  },
-  {
-    Key: US/Aleutian,
-    Value: {
-      Generic: Хавай-Алеутын цаг,
-      Standard: Хавай-Алеутын стандарт цаг,
-      Daylight: Хавай-Алеутын зуны цаг
-    }
-  },
-  {
-    Key: US/Arizona,
-    Value: {
-      Generic: Уулын цаг,
-      Standard: Уулын стандарт цаг,
-      Daylight: Уулын зуны цаг
-    }
-  },
-  {
-    Key: US/Central,
-    Value: {
-      Generic: Төв цаг,
-      Standard: Төв стандарт цаг,
-      Daylight: Төв зуны цаг
-    }
-  },
-  {
-    Key: US/East-Indiana,
-    Value: {
-      Generic: Зүүн эргийн цаг,
-      Standard: Зүүн эргийн стандарт цаг,
-      Daylight: Зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: US/Eastern,
-    Value: {
-      Generic: Зүүн эргийн цаг,
-      Standard: Зүүн эргийн стандарт цаг,
-      Daylight: Зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: US/Hawaii,
-    Value: {
-      Generic: Хавай-Алеутын цаг,
-      Standard: Хавай-Алеутын стандарт цаг,
-      Daylight: Хавай-Алеутын зуны цаг
-    }
-  },
-  {
-    Key: US/Indiana-Starke,
-    Value: {
-      Generic: Төв цаг,
-      Standard: Төв стандарт цаг,
-      Daylight: Төв зуны цаг
-    }
-  },
-  {
-    Key: US/Michigan,
-    Value: {
-      Generic: Зүүн эргийн цаг,
-      Standard: Зүүн эргийн стандарт цаг,
-      Daylight: Зүүн эргийн зуны цаг
-    }
-  },
-  {
-    Key: US/Mountain,
-    Value: {
-      Generic: Уулын цаг,
-      Standard: Уулын стандарт цаг,
-      Daylight: Уулын зуны цаг
-    }
-  },
-  {
-    Key: US/Pacific,
-    Value: {
-      Generic: Номхон далайн цаг,
-      Standard: Номхон далайн стандарт цаг,
-      Daylight: Номхон далайн зуны цаг
-    }
-  },
-  {
-    Key: US/Samoa,
-    Value: {
-      Generic: Самоагийн цаг,
-      Standard: Самоагийн стандарт цаг,
-      Daylight: Самоагийн зуны цаг
-    }
-  },
-  {
-    Key: UTC,
-    Value: {
-      Generic: Олон улсын зохицуулалттай цаг,
-      Standard: Олон улсын зохицуулалттай цаг,
-      Daylight: Олон улсын зохицуулалттай цаг
-    }
-  },
-  {
-    Key: W-SU,
-    Value: {
-      Generic: Москва-н цаг,
-      Standard: Москва-н стандарт цаг,
-      Daylight: Москва-н зуны цаг
-    }
-  },
-  {
-    Key: WET,
-    Value: {
-      Generic: Баруун Европын цаг,
-      Standard: Баруун Европын стандарт цаг,
-      Daylight: Баруун Европын зуны цаг
-    }
-  },
-  {
-    Key: Zulu,
-    Value: {
-      Generic: Олон улсын зохицуулалттай цаг,
-      Standard: Олон улсын зохицуулалттай цаг,
-      Daylight: Олон улсын зохицуулалттай цаг
-    }
+﻿{
+  Australia/Darwin: {
+    Generic: Төв Австралийн цаг,
+    Standard: Төв Австралийн стандарт цаг,
+    Daylight: Төв Австралийн зуны цаг
+  },
+  Australia/Sydney: {
+    Generic: Зүүн Австралийн цаг,
+    Standard: Австралийн зүүн эргийн стандарт цаг,
+    Daylight: Австралийн зүүн эргийн зуны цаг
+  },
+  Australia/Melbourne: {
+    Generic: Зүүн Австралийн цаг,
+    Standard: Австралийн зүүн эргийн стандарт цаг,
+    Daylight: Австралийн зүүн эргийн зуны цаг
+  },
+  Asia/Kabul: {
+    Generic: Афганистаны цаг,
+    Standard: Афганистаны цаг,
+    Daylight: Афганистаны цаг
+  },
+  America/Anchorage: {
+    Generic: Аляскийн цаг,
+    Standard: Аляскийн стандарт цаг,
+    Daylight: Аляскийн зуны цаг
+  },
+  America/Juneau: {
+    Generic: Аляскийн цаг,
+    Standard: Аляскийн стандарт цаг,
+    Daylight: Аляскийн зуны цаг
+  },
+  America/Metlakatla: {
+    Generic: Аляскийн цаг,
+    Standard: Аляскийн стандарт цаг,
+    Daylight: Аляскийн зуны цаг
+  },
+  America/Nome: {
+    Generic: Аляскийн цаг,
+    Standard: Аляскийн стандарт цаг,
+    Daylight: Аляскийн зуны цаг
+  },
+  America/Sitka: {
+    Generic: Аляскийн цаг,
+    Standard: Аляскийн стандарт цаг,
+    Daylight: Аляскийн зуны цаг
+  },
+  America/Yakutat: {
+    Generic: Аляскийн цаг,
+    Standard: Аляскийн стандарт цаг,
+    Daylight: Аляскийн зуны цаг
+  },
+  America/Adak: {
+    Generic: Хавай-Алеутын цаг,
+    Standard: Хавай-Алеутын стандарт цаг,
+    Daylight: Хавай-Алеутын зуны цаг
+  },
+  Asia/Barnaul: {
+    Generic: Барнаул-н цаг,
+    Standard: Барнаул-н стандарт цаг,
+    Daylight: Барнаул-н зуны цаг
+  },
+  Asia/Riyadh: {
+    Generic: Арабын цаг,
+    Standard: Арабын стандарт цаг,
+    Daylight: Арабын зуны цаг
+  },
+  Asia/Bahrain: {
+    Generic: Арабын цаг,
+    Standard: Арабын стандарт цаг,
+    Daylight: Арабын зуны цаг
+  },
+  Asia/Kuwait: {
+    Generic: Арабын цаг,
+    Standard: Арабын стандарт цаг,
+    Daylight: Арабын зуны цаг
+  },
+  Asia/Qatar: {
+    Generic: Арабын цаг,
+    Standard: Арабын стандарт цаг,
+    Daylight: Арабын зуны цаг
+  },
+  Asia/Aden: {
+    Generic: Арабын цаг,
+    Standard: Арабын стандарт цаг,
+    Daylight: Арабын зуны цаг
+  },
+  Asia/Dubai: {
+    Generic: Персийн булангийн цаг,
+    Standard: Персийн булангийн цаг,
+    Daylight: Персийн булангийн цаг
+  },
+  Asia/Muscat: {
+    Generic: Персийн булангийн цаг,
+    Standard: Персийн булангийн цаг,
+    Daylight: Персийн булангийн цаг
+  },
+  Etc/GMT-4: {
+    Generic: Олон улсын зохицуулалттай цаг +4,
+    Standard: Олон улсын зохицуулалттай цаг +4,
+    Daylight: Олон улсын зохицуулалттай цаг +4
+  },
+  Asia/Baghdad: {
+    Generic: Арабын цаг,
+    Standard: Арабын стандарт цаг,
+    Daylight: Арабын зуны цаг
+  },
+  America/Buenos_Aires: {
+    Generic: Аргентины цаг,
+    Standard: Аргентины стандарт цаг,
+    Daylight: Аргентины зуны цаг
+  },
+  America/Argentina/La_Rioja: {
+    Generic: Аргентины цаг,
+    Standard: Аргентины стандарт цаг,
+    Daylight: Аргентины зуны цаг
+  },
+  America/Argentina/Rio_Gallegos: {
+    Generic: Аргентины цаг,
+    Standard: Аргентины стандарт цаг,
+    Daylight: Аргентины зуны цаг
+  },
+  America/Argentina/Salta: {
+    Generic: Аргентины цаг,
+    Standard: Аргентины стандарт цаг,
+    Daylight: Аргентины зуны цаг
+  },
+  America/Argentina/San_Juan: {
+    Generic: Аргентины цаг,
+    Standard: Аргентины стандарт цаг,
+    Daylight: Аргентины зуны цаг
+  },
+  America/Argentina/San_Luis: {
+    Generic: Аргентины цаг,
+    Standard: Аргентины стандарт цаг,
+    Daylight: Аргентины зуны цаг
+  },
+  America/Argentina/Tucuman: {
+    Generic: Аргентины цаг,
+    Standard: Аргентины стандарт цаг,
+    Daylight: Аргентины зуны цаг
+  },
+  America/Argentina/Ushuaia: {
+    Generic: Аргентины цаг,
+    Standard: Аргентины стандарт цаг,
+    Daylight: Аргентины зуны цаг
+  },
+  America/Catamarca: {
+    Generic: Аргентины цаг,
+    Standard: Аргентины стандарт цаг,
+    Daylight: Аргентины зуны цаг
+  },
+  America/Cordoba: {
+    Generic: Аргентины цаг,
+    Standard: Аргентины стандарт цаг,
+    Daylight: Аргентины зуны цаг
+  },
+  America/Jujuy: {
+    Generic: Аргентины цаг,
+    Standard: Аргентины стандарт цаг,
+    Daylight: Аргентины зуны цаг
+  },
+  America/Mendoza: {
+    Generic: Аргентины цаг,
+    Standard: Аргентины стандарт цаг,
+    Daylight: Аргентины зуны цаг
+  },
+  Europe/Astrakhan: {
+    Generic: Астрахань-н цаг,
+    Standard: Астрахань-н стандарт цаг,
+    Daylight: Астрахань-н зуны цаг
+  },
+  Europe/Ulyanovsk: {
+    Generic: Ульяновск-н цаг,
+    Standard: Ульяновск-н стандарт цаг,
+    Daylight: Ульяновск-н зуны цаг
+  },
+  America/Halifax: {
+    Generic: Атлантын цаг,
+    Standard: Атлантын стандарт цаг,
+    Daylight: Атлантын зуны цаг
+  },
+  Atlantic/Bermuda: {
+    Generic: Атлантын цаг,
+    Standard: Атлантын стандарт цаг,
+    Daylight: Атлантын зуны цаг
+  },
+  America/Glace_Bay: {
+    Generic: Атлантын цаг,
+    Standard: Атлантын стандарт цаг,
+    Daylight: Атлантын зуны цаг
+  },
+  America/Goose_Bay: {
+    Generic: Атлантын цаг,
+    Standard: Атлантын стандарт цаг,
+    Daylight: Атлантын зуны цаг
+  },
+  America/Moncton: {
+    Generic: Атлантын цаг,
+    Standard: Атлантын стандарт цаг,
+    Daylight: Атлантын зуны цаг
+  },
+  America/Thule: {
+    Generic: Атлантын цаг,
+    Standard: Атлантын стандарт цаг,
+    Daylight: Атлантын зуны цаг
+  },
+  Australia/Eucla: {
+    Generic: Австралийн төв баруун эргийн цаг,
+    Standard: Австралийн төв баруун эргийн стандарт цаг,
+    Daylight: Австралийн төв баруун эргийн зуны цаг
+  },
+  Asia/Baku: {
+    Generic: Азербайжаны цаг,
+    Standard: Азербайжаны стандарт цаг,
+    Daylight: Азербайжаны зуны цаг
+  },
+  Atlantic/Azores: {
+    Generic: Азорын цаг,
+    Standard: Азорын стандарт цаг,
+    Daylight: Азорын зуны цаг
+  },
+  America/Scoresbysund: {
+    Generic: Зүүн Гренландын цаг,
+    Standard: Зүүн Гренландын стандарт цаг,
+    Daylight: Зүүн Гренландын зуны цаг
+  },
+  America/Bahia: {
+    Generic: Бразилийн цаг,
+    Standard: Бразилийн стандарт цаг,
+    Daylight: Бразилийн зуны цаг
+  },
+  Asia/Dhaka: {
+    Generic: Бангладешийн цаг,
+    Standard: Бангладешийн стандарт цаг,
+    Daylight: Бангладешийн зуны цаг
+  },
+  Asia/Thimphu: {
+    Generic: Бутаны цаг,
+    Standard: Бутаны цаг,
+    Daylight: Бутаны цаг
+  },
+  Europe/Minsk: {
+    Generic: Москвагийн цаг,
+    Standard: Москвагийн стандарт цаг,
+    Daylight: Москвагийн зуны цаг
+  },
+  Pacific/Bougainville: {
+    Generic: Папуа Шинэ Гвинейн цаг,
+    Standard: Папуа Шинэ Гвинейн цаг,
+    Daylight: Папуа Шинэ Гвинейн цаг
+  },
+  America/Regina: {
+    Generic: Төв цаг,
+    Standard: Төв стандарт цаг,
+    Daylight: Төв зуны цаг
+  },
+  America/Swift_Current: {
+    Generic: Төв цаг,
+    Standard: Төв стандарт цаг,
+    Daylight: Төв зуны цаг
+  },
+  Atlantic/Cape_Verde: {
+    Generic: Кабо-Вердийн цаг,
+    Standard: Кабо-Вердийн стандарт цаг,
+    Daylight: Кабо-Вердийн зуны цаг
+  },
+  Etc/GMT+1: {
+    Generic: Олон улсын зохицуулалттай цаг -1,
+    Standard: Олон улсын зохицуулалттай цаг -1,
+    Daylight: Олон улсын зохицуулалттай цаг -1
+  },
+  Asia/Yerevan: {
+    Generic: Арменийн цаг,
+    Standard: Арменийн стандарт цаг,
+    Daylight: Арменийн зуны цаг
+  },
+  Australia/Adelaide: {
+    Generic: Төв Австралийн цаг,
+    Standard: Төв Австралийн стандарт цаг,
+    Daylight: Төв Австралийн зуны цаг
+  },
+  Australia/Broken_Hill: {
+    Generic: Төв Австралийн цаг,
+    Standard: Төв Австралийн стандарт цаг,
+    Daylight: Төв Австралийн зуны цаг
+  },
+  America/Guatemala: {
+    Generic: Төв цаг,
+    Standard: Төв стандарт цаг,
+    Daylight: Төв зуны цаг
+  },
+  America/Belize: {
+    Generic: Төв цаг,
+    Standard: Төв стандарт цаг,
+    Daylight: Төв зуны цаг
+  },
+  America/Costa_Rica: {
+    Generic: Төв цаг,
+    Standard: Төв стандарт цаг,
+    Daylight: Төв зуны цаг
+  },
+  Pacific/Galapagos: {
+    Generic: Галапагосын цаг,
+    Standard: Галапагосын цаг,
+    Daylight: Галапагосын цаг
+  },
+  America/Tegucigalpa: {
+    Generic: Төв цаг,
+    Standard: Төв стандарт цаг,
+    Daylight: Төв зуны цаг
+  },
+  America/Managua: {
+    Generic: Төв цаг,
+    Standard: Төв стандарт цаг,
+    Daylight: Төв зуны цаг
+  },
+  America/El_Salvador: {
+    Generic: Төв цаг,
+    Standard: Төв стандарт цаг,
+    Daylight: Төв зуны цаг
+  },
+  Etc/GMT+6: {
+    Generic: Олон улсын зохицуулалттай цаг -6,
+    Standard: Олон улсын зохицуулалттай цаг -6,
+    Daylight: Олон улсын зохицуулалттай цаг -6
+  },
+  Asia/Almaty: {
+    Generic: Зүүн Казахстаны цаг,
+    Standard: Зүүн Казахстаны цаг,
+    Daylight: Зүүн Казахстаны цаг
+  },
+  Antarctica/Vostok: {
+    Generic: Востокийн цаг,
+    Standard: Востокийн цаг,
+    Daylight: Востокийн цаг
+  },
+  Asia/Urumqi: {
+    Generic: Хятад-н цаг,
+    Standard: Хятад-н стандарт цаг,
+    Daylight: Хятад-н зуны цаг
+  },
+  Indian/Chagos: {
+    Generic: Энэтхэгийн далайн цаг,
+    Standard: Энэтхэгийн далайн цаг,
+    Daylight: Энэтхэгийн далайн цаг
+  },
+  Asia/Bishkek: {
+    Generic: Киргизийн цаг,
+    Standard: Киргизийн цаг,
+    Daylight: Киргизийн цаг
+  },
+  Asia/Qostanay: {
+    Generic: Зүүн Казахстаны цаг,
+    Standard: Зүүн Казахстаны цаг,
+    Daylight: Зүүн Казахстаны цаг
+  },
+  Etc/GMT-6: {
+    Generic: Олон улсын зохицуулалттай цаг +6,
+    Standard: Олон улсын зохицуулалттай цаг +6,
+    Daylight: Олон улсын зохицуулалттай цаг +6
+  },
+  America/Cuiaba: {
+    Generic: Амазоны цаг,
+    Standard: Амазоны стандарт цаг,
+    Daylight: Амазоны зуны цаг
+  },
+  America/Campo_Grande: {
+    Generic: Амазоны цаг,
+    Standard: Амазоны стандарт цаг,
+    Daylight: Амазоны зуны цаг
+  },
+  Europe/Budapest: {
+    Generic: Төв Европын цаг,
+    Standard: Төв Европын стандарт цаг,
+    Daylight: Төв Европын зуны цаг
+  },
+  Europe/Tirane: {
+    Generic: Төв Европын цаг,
+    Standard: Төв Европын стандарт цаг,
+    Daylight: Төв Европын зуны цаг
+  },
+  Europe/Prague: {
+    Generic: Төв Европын цаг,
+    Standard: Төв Европын стандарт цаг,
+    Daylight: Төв Европын зуны цаг
+  },
+  Europe/Podgorica: {
+    Generic: Төв Европын цаг,
+    Standard: Төв Европын стандарт цаг,
+    Daylight: Төв Европын зуны цаг
+  },
+  Europe/Belgrade: {
+    Generic: Төв Европын цаг,
+    Standard: Төв Европын стандарт цаг,
+    Daylight: Төв Европын зуны цаг
+  },
+  Europe/Ljubljana: {
+    Generic: Төв Европын цаг,
+    Standard: Төв Европын стандарт цаг,
+    Daylight: Төв Европын зуны цаг
+  },
+  Europe/Bratislava: {
+    Generic: Төв Европын цаг,
+    Standard: Төв Европын стандарт цаг,
+    Daylight: Төв Европын зуны цаг
+  },
+  Europe/Warsaw: {
+    Generic: Төв Европын цаг,
+    Standard: Төв Европын стандарт цаг,
+    Daylight: Төв Европын зуны цаг
+  },
+  Europe/Sarajevo: {
+    Generic: Төв Европын цаг,
+    Standard: Төв Европын стандарт цаг,
+    Daylight: Төв Европын зуны цаг
+  },
+  Europe/Zagreb: {
+    Generic: Төв Европын цаг,
+    Standard: Төв Европын стандарт цаг,
+    Daylight: Төв Европын зуны цаг
+  },
+  Europe/Skopje: {
+    Generic: Төв Европын цаг,
+    Standard: Төв Европын стандарт цаг,
+    Daylight: Төв Европын зуны цаг
+  },
+  Pacific/Guadalcanal: {
+    Generic: Соломоны арлуудын цаг,
+    Standard: Соломоны арлуудын цаг,
+    Daylight: Соломоны арлуудын цаг
+  },
+  Antarctica/Casey: {
+    Generic: Антарктид-н цаг,
+    Standard: Антарктид-н стандарт цаг,
+    Daylight: Антарктид-н зуны цаг
+  },
+  Pacific/Ponape: {
+    Generic: Понапегийн цаг,
+    Standard: Понапегийн цаг,
+    Daylight: Понапегийн цаг
+  },
+  Pacific/Kosrae: {
+    Generic: Косрэгийн цаг,
+    Standard: Косрэгийн цаг,
+    Daylight: Косрэгийн цаг
+  },
+  Pacific/Noumea: {
+    Generic: Шинэ Каледонийн цаг,
+    Standard: Шинэ Каледонийн стандарт цаг,
+    Daylight: Шинэ Каледонийн зуны цаг
+  },
+  Pacific/Efate: {
+    Generic: Вануатугийн цаг,
+    Standard: Вануатугийн стандарт цаг,
+    Daylight: Вануатугийн зуны цаг
+  },
+  Etc/GMT-11: {
+    Generic: Олон улсын зохицуулалттай цаг +11,
+    Standard: Олон улсын зохицуулалттай цаг +11,
+    Daylight: Олон улсын зохицуулалттай цаг +11
+  },
+  America/Mexico_City: {
+    Generic: Төв цаг,
+    Standard: Төв стандарт цаг,
+    Daylight: Төв зуны цаг
+  },
+  America/Bahia_Banderas: {
+    Generic: Төв цаг,
+    Standard: Төв стандарт цаг,
+    Daylight: Төв зуны цаг
+  },
+  America/Merida: {
+    Generic: Төв цаг,
+    Standard: Төв стандарт цаг,
+    Daylight: Төв зуны цаг
+  },
+  America/Monterrey: {
+    Generic: Төв цаг,
+    Standard: Төв стандарт цаг,
+    Daylight: Төв зуны цаг
+  },
+  America/Chicago: {
+    Generic: Төв цаг,
+    Standard: Төв стандарт цаг,
+    Daylight: Төв зуны цаг
+  },
+  America/Winnipeg: {
+    Generic: Төв цаг,
+    Standard: Төв стандарт цаг,
+    Daylight: Төв зуны цаг
+  },
+  America/Rainy_River: {
+    Generic: Төв цаг,
+    Standard: Төв стандарт цаг,
+    Daylight: Төв зуны цаг
+  },
+  America/Rankin_Inlet: {
+    Generic: Төв цаг,
+    Standard: Төв стандарт цаг,
+    Daylight: Төв зуны цаг
+  },
+  America/Resolute: {
+    Generic: Төв цаг,
+    Standard: Төв стандарт цаг,
+    Daylight: Төв зуны цаг
+  },
+  America/Matamoros: {
+    Generic: Төв цаг,
+    Standard: Төв стандарт цаг,
+    Daylight: Төв зуны цаг
+  },
+  America/Indiana/Knox: {
+    Generic: Төв цаг,
+    Standard: Төв стандарт цаг,
+    Daylight: Төв зуны цаг
+  },
+  America/Indiana/Tell_City: {
+    Generic: Төв цаг,
+    Standard: Төв стандарт цаг,
+    Daylight: Төв зуны цаг
+  },
+  America/Menominee: {
+    Generic: Төв цаг,
+    Standard: Төв стандарт цаг,
+    Daylight: Төв зуны цаг
+  },
+  America/North_Dakota/Beulah: {
+    Generic: Төв цаг,
+    Standard: Төв стандарт цаг,
+    Daylight: Төв зуны цаг
+  },
+  America/North_Dakota/Center: {
+    Generic: Төв цаг,
+    Standard: Төв стандарт цаг,
+    Daylight: Төв зуны цаг
+  },
+  America/North_Dakota/New_Salem: {
+    Generic: Төв цаг,
+    Standard: Төв стандарт цаг,
+    Daylight: Төв зуны цаг
+  },
+  CST6CDT: {
+    Generic: Төв цаг,
+    Standard: Төв стандарт цаг,
+    Daylight: Төв зуны цаг
+  },
+  Pacific/Chatham: {
+    Generic: Чатемын цаг,
+    Standard: Чатемын стандарт цаг,
+    Daylight: Чатемын зуны цаг
+  },
+  Asia/Shanghai: {
+    Generic: Хятадын цаг,
+    Standard: Хятадын стандарт цаг,
+    Daylight: Хятадын зуны цаг
+  },
+  Asia/Hong_Kong: {
+    Generic: Хонг Конгийн цаг,
+    Standard: Хонг Конгийн стандарт цаг,
+    Daylight: Хонг Конгийн зуны цаг
+  },
+  Asia/Macau: {
+    Generic: Хятадын цаг,
+    Standard: Хятадын стандарт цаг,
+    Daylight: Хятадын зуны цаг
+  },
+  America/Havana: {
+    Generic: Кубын цаг,
+    Standard: Кубын стандарт цаг,
+    Daylight: Кубын зуны цаг
+  },
+  Etc/GMT+12: {
+    Generic: Олон улсын зохицуулалттай цаг -12,
+    Standard: Олон улсын зохицуулалттай цаг -12,
+    Daylight: Олон улсын зохицуулалттай цаг -12
+  },
+  Africa/Nairobi: {
+    Generic: Зүүн Африкийн цаг,
+    Standard: Зүүн Африкийн цаг,
+    Daylight: Зүүн Африкийн цаг
+  },
+  Antarctica/Syowa: {
+    Generic: Сёвагийн цаг,
+    Standard: Сёвагийн цаг,
+    Daylight: Сёвагийн цаг
+  },
+  Africa/Djibouti: {
+    Generic: Зүүн Африкийн цаг,
+    Standard: Зүүн Африкийн цаг,
+    Daylight: Зүүн Африкийн цаг
+  },
+  Africa/Asmera: {
+    Generic: Зүүн Африкийн цаг,
+    Standard: Зүүн Африкийн цаг,
+    Daylight: Зүүн Африкийн цаг
+  },
+  Africa/Addis_Ababa: {
+    Generic: Зүүн Африкийн цаг,
+    Standard: Зүүн Африкийн цаг,
+    Daylight: Зүүн Африкийн цаг
+  },
+  Indian/Comoro: {
+    Generic: Зүүн Африкийн цаг,
+    Standard: Зүүн Африкийн цаг,
+    Daylight: Зүүн Африкийн цаг
+  },
+  Indian/Antananarivo: {
+    Generic: Зүүн Африкийн цаг,
+    Standard: Зүүн Африкийн цаг,
+    Daylight: Зүүн Африкийн цаг
+  },
+  Africa/Mogadishu: {
+    Generic: Зүүн Африкийн цаг,
+    Standard: Зүүн Африкийн цаг,
+    Daylight: Зүүн Африкийн цаг
+  },
+  Africa/Dar_es_Salaam: {
+    Generic: Зүүн Африкийн цаг,
+    Standard: Зүүн Африкийн цаг,
+    Daylight: Зүүн Африкийн цаг
+  },
+  Africa/Kampala: {
+    Generic: Зүүн Африкийн цаг,
+    Standard: Зүүн Африкийн цаг,
+    Daylight: Зүүн Африкийн цаг
+  },
+  Indian/Mayotte: {
+    Generic: Зүүн Африкийн цаг,
+    Standard: Зүүн Африкийн цаг,
+    Daylight: Зүүн Африкийн цаг
+  },
+  Etc/GMT-3: {
+    Generic: Олон улсын зохицуулалттай цаг +3,
+    Standard: Олон улсын зохицуулалттай цаг +3,
+    Daylight: Олон улсын зохицуулалттай цаг +3
+  },
+  Australia/Brisbane: {
+    Generic: Зүүн Австралийн цаг,
+    Standard: Австралийн зүүн эргийн стандарт цаг,
+    Daylight: Австралийн зүүн эргийн зуны цаг
+  },
+  Australia/Lindeman: {
+    Generic: Зүүн Австралийн цаг,
+    Standard: Австралийн зүүн эргийн стандарт цаг,
+    Daylight: Австралийн зүүн эргийн зуны цаг
+  },
+  Europe/Chisinau: {
+    Generic: Зүүн Европын цаг,
+    Standard: Зүүн Европын стандарт цаг,
+    Daylight: Зүүн Европын зуны цаг
+  },
+  America/Sao_Paulo: {
+    Generic: Бразилийн цаг,
+    Standard: Бразилийн стандарт цаг,
+    Daylight: Бразилийн зуны цаг
+  },
+  Pacific/Easter: {
+    Generic: Зүүн Исландын цаг,
+    Standard: Зүүн Исландын стандарт цаг,
+    Daylight: Зүүн Исландын зуны цаг
+  },
+  America/Cancun: {
+    Generic: Зүүн эргийн цаг,
+    Standard: Зүүн эргийн стандарт цаг,
+    Daylight: Зүүн эргийн зуны цаг
+  },
+  America/New_York: {
+    Generic: Зүүн эргийн цаг,
+    Standard: Зүүн эргийн стандарт цаг,
+    Daylight: Зүүн эргийн зуны цаг
+  },
+  America/Nassau: {
+    Generic: Зүүн эргийн цаг,
+    Standard: Зүүн эргийн стандарт цаг,
+    Daylight: Зүүн эргийн зуны цаг
+  },
+  America/Toronto: {
+    Generic: Зүүн эргийн цаг,
+    Standard: Зүүн эргийн стандарт цаг,
+    Daylight: Зүүн эргийн зуны цаг
+  },
+  America/Iqaluit: {
+    Generic: Зүүн эргийн цаг,
+    Standard: Зүүн эргийн стандарт цаг,
+    Daylight: Зүүн эргийн зуны цаг
+  },
+  America/Montreal: {
+    Generic: Зүүн эргийн цаг,
+    Standard: Зүүн эргийн стандарт цаг,
+    Daylight: Зүүн эргийн зуны цаг
+  },
+  America/Nipigon: {
+    Generic: Зүүн эргийн цаг,
+    Standard: Зүүн эргийн стандарт цаг,
+    Daylight: Зүүн эргийн зуны цаг
+  },
+  America/Pangnirtung: {
+    Generic: Зүүн эргийн цаг,
+    Standard: Зүүн эргийн стандарт цаг,
+    Daylight: Зүүн эргийн зуны цаг
+  },
+  America/Thunder_Bay: {
+    Generic: Зүүн эргийн цаг,
+    Standard: Зүүн эргийн стандарт цаг,
+    Daylight: Зүүн эргийн зуны цаг
+  },
+  America/Detroit: {
+    Generic: Зүүн эргийн цаг,
+    Standard: Зүүн эргийн стандарт цаг,
+    Daylight: Зүүн эргийн зуны цаг
+  },
+  America/Indiana/Petersburg: {
+    Generic: Зүүн эргийн цаг,
+    Standard: Зүүн эргийн стандарт цаг,
+    Daylight: Зүүн эргийн зуны цаг
+  },
+  America/Indiana/Vincennes: {
+    Generic: Зүүн эргийн цаг,
+    Standard: Зүүн эргийн стандарт цаг,
+    Daylight: Зүүн эргийн зуны цаг
+  },
+  America/Indiana/Winamac: {
+    Generic: Зүүн эргийн цаг,
+    Standard: Зүүн эргийн стандарт цаг,
+    Daylight: Зүүн эргийн зуны цаг
+  },
+  America/Kentucky/Monticello: {
+    Generic: Зүүн эргийн цаг,
+    Standard: Зүүн эргийн стандарт цаг,
+    Daylight: Зүүн эргийн зуны цаг
+  },
+  America/Louisville: {
+    Generic: Зүүн эргийн цаг,
+    Standard: Зүүн эргийн стандарт цаг,
+    Daylight: Зүүн эргийн зуны цаг
+  },
+  EST5EDT: {
+    Generic: Зүүн эргийн цаг,
+    Standard: Зүүн эргийн стандарт цаг,
+    Daylight: Зүүн эргийн зуны цаг
+  },
+  Africa/Cairo: {
+    Generic: Зүүн Европын цаг,
+    Standard: Зүүн Европын стандарт цаг,
+    Daylight: Зүүн Европын зуны цаг
+  },
+  Asia/Yekaterinburg: {
+    Generic: Екатеринбург-н цаг,
+    Standard: Екатеринбург-н стандарт цаг,
+    Daylight: Екатеринбург-н зуны цаг
+  },
+  Europe/Kiev: {
+    Generic: Зүүн Европын цаг,
+    Standard: Зүүн Европын стандарт цаг,
+    Daylight: Зүүн Европын зуны цаг
+  },
+  Europe/Mariehamn: {
+    Generic: Зүүн Европын цаг,
+    Standard: Зүүн Европын стандарт цаг,
+    Daylight: Зүүн Европын зуны цаг
+  },
+  Europe/Sofia: {
+    Generic: Зүүн Европын цаг,
+    Standard: Зүүн Европын стандарт цаг,
+    Daylight: Зүүн Европын зуны цаг
+  },
+  Europe/Tallinn: {
+    Generic: Зүүн Европын цаг,
+    Standard: Зүүн Европын стандарт цаг,
+    Daylight: Зүүн Европын зуны цаг
+  },
+  Europe/Helsinki: {
+    Generic: Зүүн Европын цаг,
+    Standard: Зүүн Европын стандарт цаг,
+    Daylight: Зүүн Европын зуны цаг
+  },
+  Europe/Vilnius: {
+    Generic: Зүүн Европын цаг,
+    Standard: Зүүн Европын стандарт цаг,
+    Daylight: Зүүн Европын зуны цаг
+  },
+  Europe/Riga: {
+    Generic: Зүүн Европын цаг,
+    Standard: Зүүн Европын стандарт цаг,
+    Daylight: Зүүн Европын зуны цаг
+  },
+  Europe/Uzhgorod: {
+    Generic: Зүүн Европын цаг,
+    Standard: Зүүн Европын стандарт цаг,
+    Daylight: Зүүн Европын зуны цаг
+  },
+  Europe/Zaporozhye: {
+    Generic: Зүүн Европын цаг,
+    Standard: Зүүн Европын стандарт цаг,
+    Daylight: Зүүн Европын зуны цаг
+  },
+  Pacific/Fiji: {
+    Generic: Фижигийн цаг,
+    Standard: Фижигийн стандарт цаг,
+    Daylight: Фижигийн зуны цаг
+  },
+  Europe/London: {
+    Generic: Их Британи-н цаг,
+    Standard: Гринвичийн цаг,
+    Daylight: Британийн зуны цаг
+  },
+  Atlantic/Canary: {
+    Generic: Баруун Европын цаг,
+    Standard: Баруун Европын стандарт цаг,
+    Daylight: Баруун Европын зуны цаг
+  },
+  Atlantic/Faeroe: {
+    Generic: Баруун Европын цаг,
+    Standard: Баруун Европын стандарт цаг,
+    Daylight: Баруун Европын зуны цаг
+  },
+  Europe/Guernsey: {
+    Generic: Гринвичийн цаг,
+    Standard: Гринвичийн цаг,
+    Daylight: Гринвичийн цаг
+  },
+  Europe/Dublin: {
+    Generic: Ирланд-н цаг,
+    Standard: Гринвичийн цаг,
+    Daylight: Ирландын стандарт цаг
+  },
+  Europe/Isle_of_Man: {
+    Generic: Гринвичийн цаг,
+    Standard: Гринвичийн цаг,
+    Daylight: Гринвичийн цаг
+  },
+  Europe/Jersey: {
+    Generic: Гринвичийн цаг,
+    Standard: Гринвичийн цаг,
+    Daylight: Гринвичийн цаг
+  },
+  Europe/Lisbon: {
+    Generic: Баруун Европын цаг,
+    Standard: Баруун Европын стандарт цаг,
+    Daylight: Баруун Европын зуны цаг
+  },
+  Atlantic/Madeira: {
+    Generic: Баруун Европын цаг,
+    Standard: Баруун Европын стандарт цаг,
+    Daylight: Баруун Европын зуны цаг
+  },
+  Europe/Bucharest: {
+    Generic: Зүүн Европын цаг,
+    Standard: Зүүн Европын стандарт цаг,
+    Daylight: Зүүн Европын зуны цаг
+  },
+  Asia/Nicosia: {
+    Generic: Зүүн Европын цаг,
+    Standard: Зүүн Европын стандарт цаг,
+    Daylight: Зүүн Европын зуны цаг
+  },
+  Asia/Famagusta: {
+    Generic: Зүүн Европын цаг,
+    Standard: Зүүн Европын стандарт цаг,
+    Daylight: Зүүн Европын зуны цаг
+  },
+  Europe/Athens: {
+    Generic: Зүүн Европын цаг,
+    Standard: Зүүн Европын стандарт цаг,
+    Daylight: Зүүн Европын зуны цаг
+  },
+  Asia/Tbilisi: {
+    Generic: Гүржийн цаг,
+    Standard: Гүржийн стандарт цаг,
+    Daylight: Гүржийн зуны цаг
+  },
+  America/Godthab: {
+    Generic: Баруун Гренландын цаг,
+    Standard: Баруун Гренландын стандарт цаг,
+    Daylight: Баруун Гренландын зуны цаг
+  },
+  Atlantic/Reykjavik: {
+    Generic: Гринвичийн цаг,
+    Standard: Гринвичийн цаг,
+    Daylight: Гринвичийн цаг
+  },
+  Atlantic/St_Helena: {
+    Generic: Гринвичийн цаг,
+    Standard: Гринвичийн цаг,
+    Daylight: Гринвичийн цаг
+  },
+  Africa/Ouagadougou: {
+    Generic: Гринвичийн цаг,
+    Standard: Гринвичийн цаг,
+    Daylight: Гринвичийн цаг
+  },
+  Africa/Abidjan: {
+    Generic: Гринвичийн цаг,
+    Standard: Гринвичийн цаг,
+    Daylight: Гринвичийн цаг
+  },
+  Africa/Accra: {
+    Generic: Гринвичийн цаг,
+    Standard: Гринвичийн цаг,
+    Daylight: Гринвичийн цаг
+  },
+  America/Danmarkshavn: {
+    Generic: Гринвичийн цаг,
+    Standard: Гринвичийн цаг,
+    Daylight: Гринвичийн цаг
+  },
+  Africa/Banjul: {
+    Generic: Гринвичийн цаг,
+    Standard: Гринвичийн цаг,
+    Daylight: Гринвичийн цаг
+  },
+  Africa/Conakry: {
+    Generic: Гринвичийн цаг,
+    Standard: Гринвичийн цаг,
+    Daylight: Гринвичийн цаг
+  },
+  Africa/Bissau: {
+    Generic: Гринвичийн цаг,
+    Standard: Гринвичийн цаг,
+    Daylight: Гринвичийн цаг
+  },
+  Africa/Monrovia: {
+    Generic: Гринвичийн цаг,
+    Standard: Гринвичийн цаг,
+    Daylight: Гринвичийн цаг
+  },
+  Africa/Bamako: {
+    Generic: Гринвичийн цаг,
+    Standard: Гринвичийн цаг,
+    Daylight: Гринвичийн цаг
+  },
+  Africa/Nouakchott: {
+    Generic: Гринвичийн цаг,
+    Standard: Гринвичийн цаг,
+    Daylight: Гринвичийн цаг
+  },
+  Africa/Freetown: {
+    Generic: Гринвичийн цаг,
+    Standard: Гринвичийн цаг,
+    Daylight: Гринвичийн цаг
+  },
+  Africa/Dakar: {
+    Generic: Гринвичийн цаг,
+    Standard: Гринвичийн цаг,
+    Daylight: Гринвичийн цаг
+  },
+  Africa/Lome: {
+    Generic: Гринвичийн цаг,
+    Standard: Гринвичийн цаг,
+    Daylight: Гринвичийн цаг
+  },
+  America/Port-au-Prince: {
+    Generic: Зүүн эргийн цаг,
+    Standard: Зүүн эргийн стандарт цаг,
+    Daylight: Зүүн эргийн зуны цаг
+  },
+  Pacific/Honolulu: {
+    Generic: Хавай-Алеутын цаг,
+    Standard: Хавай-Алеутын стандарт цаг,
+    Daylight: Хавай-Алеутын зуны цаг
+  },
+  Pacific/Rarotonga: {
+    Generic: Күүкийн арлуудын цаг,
+    Standard: Күүкийн арлуудын стандарт цаг,
+    Daylight: Күүкийн арлуудын хагас зуны цаг
+  },
+  Pacific/Tahiti: {
+    Generic: Таитигийн цаг,
+    Standard: Таитигийн цаг,
+    Daylight: Таитигийн цаг
+  },
+  Pacific/Johnston: {
+    Generic: Хавай-Алеутын цаг,
+    Standard: Хавай-Алеутын стандарт цаг,
+    Daylight: Хавай-Алеутын зуны цаг
+  },
+  Etc/GMT+10: {
+    Generic: Олон улсын зохицуулалттай цаг -10,
+    Standard: Олон улсын зохицуулалттай цаг -10,
+    Daylight: Олон улсын зохицуулалттай цаг -10
+  },
+  Asia/Calcutta: {
+    Generic: Энэтхэгийн цаг,
+    Standard: Энэтхэгийн цаг,
+    Daylight: Энэтхэгийн цаг
+  },
+  Asia/Tehran: {
+    Generic: Ираны цаг,
+    Standard: Ираны стандарт цаг,
+    Daylight: Ираны зуны цаг
+  },
+  Asia/Jerusalem: {
+    Generic: Израилийн цаг,
+    Standard: Израилийн стандарт цаг,
+    Daylight: Израилийн зуны цаг
+  },
+  Asia/Amman: {
+    Generic: Зүүн Европын цаг,
+    Standard: Зүүн Европын стандарт цаг,
+    Daylight: Зүүн Европын зуны цаг
+  },
+  Europe/Kaliningrad: {
+    Generic: Калининград-н цаг,
+    Standard: Калининград-н стандарт цаг,
+    Daylight: Калининград-н зуны цаг
+  },
+  Asia/Seoul: {
+    Generic: Солонгосын цаг,
+    Standard: Солонгосын стандарт цаг,
+    Daylight: Солонгосын зуны цаг
+  },
+  Africa/Tripoli: {
+    Generic: Зүүн Европын цаг,
+    Standard: Зүүн Европын стандарт цаг,
+    Daylight: Зүүн Европын зуны цаг
+  },
+  Pacific/Kiritimati: {
+    Generic: Лайн арлуудын цаг,
+    Standard: Лайн арлуудын цаг,
+    Daylight: Лайн арлуудын цаг
+  },
+  Etc/GMT-14: {
+    Generic: Олон улсын зохицуулалттай цаг +14,
+    Standard: Олон улсын зохицуулалттай цаг +14,
+    Daylight: Олон улсын зохицуулалттай цаг +14
+  },
+  Australia/Lord_Howe: {
+    Generic: Лорд Хоугийн цаг,
+    Standard: Лорд Хоугийн стандарт цаг,
+    Daylight: Лорд Хоугийн зуны цаг
+  },
+  Asia/Magadan: {
+    Generic: Магадан-н цаг,
+    Standard: Магадан-н стандарт цаг,
+    Daylight: Магадан-н зуны цаг
+  },
+  America/Punta_Arenas: {
+    Generic: Чилийн цаг,
+    Standard: Чилийн стандарт цаг,
+    Daylight: Чилийн зуны цаг
+  },
+  Pacific/Marquesas: {
+    Generic: Маркезын арлуудын цаг,
+    Standard: Маркезын арлуудын цаг,
+    Daylight: Маркезын арлуудын цаг
+  },
+  Indian/Mauritius: {
+    Generic: Маврикийн цаг,
+    Standard: Маврикийн стандарт цаг,
+    Daylight: Маврикийн зуны цаг
+  },
+  Indian/Reunion: {
+    Generic: Реюнионы цаг,
+    Standard: Реюнионы цаг,
+    Daylight: Реюнионы цаг
+  },
+  Indian/Mahe: {
+    Generic: Сейшелийн арлуудын цаг,
+    Standard: Сейшелийн арлуудын цаг,
+    Daylight: Сейшелийн арлуудын цаг
+  },
+  Asia/Beirut: {
+    Generic: Зүүн Европын цаг,
+    Standard: Зүүн Европын стандарт цаг,
+    Daylight: Зүүн Европын зуны цаг
+  },
+  America/Montevideo: {
+    Generic: Уругвайн цаг,
+    Standard: Уругвайн стандарт цаг,
+    Daylight: Уругвайн зуны цаг
+  },
+  Africa/Casablanca: {
+    Generic: Баруун Европын цаг,
+    Standard: Баруун Европын стандарт цаг,
+    Daylight: Баруун Европын зуны цаг
+  },
+  Africa/El_Aaiun: {
+    Generic: Баруун Европын цаг,
+    Standard: Баруун Европын стандарт цаг,
+    Daylight: Баруун Европын зуны цаг
+  },
+  America/Chihuahua: {
+    Generic: Мексик-Номхон далайн цаг,
+    Standard: Мексик-Номхон далайн стандарт цаг,
+    Daylight: Мексик-Номхон далайн зуны цаг
+  },
+  America/Mazatlan: {
+    Generic: Мексик-Номхон далайн цаг,
+    Standard: Мексик-Номхон далайн стандарт цаг,
+    Daylight: Мексик-Номхон далайн зуны цаг
+  },
+  America/Denver: {
+    Generic: Уулын цаг,
+    Standard: Уулын стандарт цаг,
+    Daylight: Уулын зуны цаг
+  },
+  America/Edmonton: {
+    Generic: Уулын цаг,
+    Standard: Уулын стандарт цаг,
+    Daylight: Уулын зуны цаг
+  },
+  America/Cambridge_Bay: {
+    Generic: Уулын цаг,
+    Standard: Уулын стандарт цаг,
+    Daylight: Уулын зуны цаг
+  },
+  America/Inuvik: {
+    Generic: Уулын цаг,
+    Standard: Уулын стандарт цаг,
+    Daylight: Уулын зуны цаг
+  },
+  America/Yellowknife: {
+    Generic: Уулын цаг,
+    Standard: Уулын стандарт цаг,
+    Daylight: Уулын зуны цаг
+  },
+  America/Ojinaga: {
+    Generic: Уулын цаг,
+    Standard: Уулын стандарт цаг,
+    Daylight: Уулын зуны цаг
+  },
+  America/Boise: {
+    Generic: Уулын цаг,
+    Standard: Уулын стандарт цаг,
+    Daylight: Уулын зуны цаг
+  },
+  MST7MDT: {
+    Generic: Уулын цаг,
+    Standard: Уулын стандарт цаг,
+    Daylight: Уулын зуны цаг
+  },
+  Asia/Rangoon: {
+    Generic: Мьянмарын цаг,
+    Standard: Мьянмарын цаг,
+    Daylight: Мьянмарын цаг
+  },
+  Indian/Cocos: {
+    Generic: Кокос арлын цаг,
+    Standard: Кокос арлын цаг,
+    Daylight: Кокос арлын цаг
+  },
+  Asia/Novosibirsk: {
+    Generic: Новосибирск-н цаг,
+    Standard: Новосибирск-н стандарт цаг,
+    Daylight: Новосибирск-н зуны цаг
+  },
+  Africa/Windhoek: {
+    Generic: Төв Африкийн цаг,
+    Standard: Төв Африкийн цаг,
+    Daylight: Төв Африкийн цаг
+  },
+  Asia/Katmandu: {
+    Generic: Балбын цаг,
+    Standard: Балбын цаг,
+    Daylight: Балбын цаг
+  },
+  Pacific/Auckland: {
+    Generic: Шинэ Зеландын цаг,
+    Standard: Шинэ Зеландын стандарт цаг,
+    Daylight: Шинэ Зеландын зуны цаг
+  },
+  Antarctica/McMurdo: {
+    Generic: Шинэ Зеландын цаг,
+    Standard: Шинэ Зеландын стандарт цаг,
+    Daylight: Шинэ Зеландын зуны цаг
+  },
+  America/St_Johns: {
+    Generic: Нью-Фаундлендын цаг,
+    Standard: Нью-Фаундлендын стандарт цаг,
+    Daylight: Нью-Фаундлендын зуны цаг
+  },
+  Pacific/Norfolk: {
+    Generic: Норфолк арлын цаг,
+    Standard: Норфолк арлын стандарт цаг,
+    Daylight: Норфолк арлын зуны цаг
+  },
+  Asia/Irkutsk: {
+    Generic: Эрхүү-н цаг,
+    Standard: Эрхүү-н стандарт цаг,
+    Daylight: Эрхүү-н зуны цаг
+  },
+  Asia/Krasnoyarsk: {
+    Generic: Красноярск-н цаг,
+    Standard: Красноярск-н стандарт цаг,
+    Daylight: Красноярск-н зуны цаг
+  },
+  Asia/Novokuznetsk: {
+    Generic: Новокузнецк-н цаг,
+    Standard: Новокузнецк-н стандарт цаг,
+    Daylight: Новокузнецк-н зуны цаг
+  },
+  Asia/Pyongyang: {
+    Generic: Солонгосын цаг,
+    Standard: Солонгосын стандарт цаг,
+    Daylight: Солонгосын зуны цаг
+  },
+  Asia/Omsk: {
+    Generic: Омск-н цаг,
+    Standard: Омск-н стандарт цаг,
+    Daylight: Омск-н зуны цаг
+  },
+  America/Santiago: {
+    Generic: Чилийн цаг,
+    Standard: Чилийн стандарт цаг,
+    Daylight: Чилийн зуны цаг
+  },
+  America/Tijuana: {
+    Generic: Номхон далайн цаг,
+    Standard: Номхон далайн стандарт цаг,
+    Daylight: Номхон далайн зуны цаг
+  },
+  America/Santa_Isabel: {
+    Generic: Баруун хойд Мексикийн цаг,
+    Standard: Баруун хойд Мексикийн стандарт цаг,
+    Daylight: Баруун хойд Мексикийн зуны цаг
+  },
+  America/Los_Angeles: {
+    Generic: Номхон далайн цаг,
+    Standard: Номхон далайн стандарт цаг,
+    Daylight: Номхон далайн зуны цаг
+  },
+  America/Vancouver: {
+    Generic: Номхон далайн цаг,
+    Standard: Номхон далайн стандарт цаг,
+    Daylight: Номхон далайн зуны цаг
+  },
+  PST8PDT: {
+    Generic: Номхон далайн цаг,
+    Standard: Номхон далайн стандарт цаг,
+    Daylight: Номхон далайн зуны цаг
+  },
+  Asia/Karachi: {
+    Generic: Пакистаны цаг,
+    Standard: Пакистаны стандарт цаг,
+    Daylight: Пакистаны зуны цаг
+  },
+  America/Asuncion: {
+    Generic: Парагвайн цаг,
+    Standard: Парагвайн стандарт цаг,
+    Daylight: Парагвайн зуны цаг
+  },
+  Asia/Qyzylorda: {
+    Generic: Баруун Казахстаны цаг,
+    Standard: Баруун Казахстаны цаг,
+    Daylight: Баруун Казахстаны цаг
+  },
+  Europe/Paris: {
+    Generic: Төв Европын цаг,
+    Standard: Төв Европын стандарт цаг,
+    Daylight: Төв Европын зуны цаг
+  },
+  Europe/Brussels: {
+    Generic: Төв Европын цаг,
+    Standard: Төв Европын стандарт цаг,
+    Daylight: Төв Европын зуны цаг
+  },
+  Europe/Copenhagen: {
+    Generic: Төв Европын цаг,
+    Standard: Төв Европын стандарт цаг,
+    Daylight: Төв Европын зуны цаг
+  },
+  Africa/Ceuta: {
+    Generic: Төв Европын цаг,
+    Standard: Төв Европын стандарт цаг,
+    Daylight: Төв Европын зуны цаг
+  },
+  Europe/Madrid: {
+    Generic: Төв Европын цаг,
+    Standard: Төв Европын стандарт цаг,
+    Daylight: Төв Европын зуны цаг
+  },
+  Asia/Srednekolymsk: {
+    Generic: Среднеколымск-н цаг,
+    Standard: Среднеколымск-н стандарт цаг,
+    Daylight: Среднеколымск-н зуны цаг
+  },
+  Asia/Kamchatka: {
+    Generic: Камчатка-н цаг,
+    Standard: Камчатка-н стандарт цаг,
+    Daylight: Камчатка-н зуны цаг
+  },
+  Asia/Anadyr: {
+    Generic: Анадыр-н цаг,
+    Standard: Анадыр-н стандарт цаг,
+    Daylight: Анадыр-н зуны цаг
+  },
+  Europe/Samara: {
+    Generic: Самара-н цаг,
+    Standard: Самара-н стандарт цаг,
+    Daylight: Самара-н зуны цаг
+  },
+  Europe/Moscow: {
+    Generic: Москва-н цаг,
+    Standard: Москва-н стандарт цаг,
+    Daylight: Москва-н зуны цаг
+  },
+  Europe/Kirov: {
+    Generic: Киров-н цаг,
+    Standard: Киров-н стандарт цаг,
+    Daylight: Киров-н зуны цаг
+  },
+  Europe/Simferopol: {
+    Generic: Москвагийн цаг,
+    Standard: Москвагийн стандарт цаг,
+    Daylight: Москвагийн зуны цаг
+  },
+  America/Cayenne: {
+    Generic: Францын Гвианагийн цаг,
+    Standard: Францын Гвианагийн цаг,
+    Daylight: Францын Гвианагийн цаг
+  },
+  Antarctica/Rothera: {
+    Generic: Ротерагийн цаг,
+    Standard: Ротерагийн цаг,
+    Daylight: Ротерагийн цаг
+  },
+  Antarctica/Palmer: {
+    Generic: Чилийн цаг,
+    Standard: Чилийн стандарт цаг,
+    Daylight: Чилийн зуны цаг
+  },
+  America/Fortaleza: {
+    Generic: Бразилийн цаг,
+    Standard: Бразилийн стандарт цаг,
+    Daylight: Бразилийн зуны цаг
+  },
+  America/Belem: {
+    Generic: Бразилийн цаг,
+    Standard: Бразилийн стандарт цаг,
+    Daylight: Бразилийн зуны цаг
+  },
+  America/Maceio: {
+    Generic: Бразилийн цаг,
+    Standard: Бразилийн стандарт цаг,
+    Daylight: Бразилийн зуны цаг
+  },
+  America/Recife: {
+    Generic: Бразилийн цаг,
+    Standard: Бразилийн стандарт цаг,
+    Daylight: Бразилийн зуны цаг
+  },
+  America/Santarem: {
+    Generic: Бразилийн цаг,
+    Standard: Бразилийн стандарт цаг,
+    Daylight: Бразилийн зуны цаг
+  },
+  Atlantic/Stanley: {
+    Generic: Фолклендийн арлуудын цаг,
+    Standard: Фолклендийн арлуудын стандарт цаг,
+    Daylight: Фолклендийн арлуудын зуны цаг
+  },
+  America/Paramaribo: {
+    Generic: Суринамын цаг,
+    Standard: Суринамын цаг,
+    Daylight: Суринамын цаг
+  },
+  Etc/GMT+3: {
+    Generic: Олон улсын зохицуулалттай цаг -3,
+    Standard: Олон улсын зохицуулалттай цаг -3,
+    Daylight: Олон улсын зохицуулалттай цаг -3
+  },
+  America/Bogota: {
+    Generic: Колумбын цаг,
+    Standard: Колумбын стандарт цаг,
+    Daylight: Колумбын зуны цаг
+  },
+  America/Rio_Branco: {
+    Generic: Бразил-н цаг,
+    Standard: Бразил-н стандарт цаг,
+    Daylight: Бразил-н зуны цаг
+  },
+  America/Eirunepe: {
+    Generic: Бразил-н цаг,
+    Standard: Бразил-н стандарт цаг,
+    Daylight: Бразил-н зуны цаг
+  },
+  America/Coral_Harbour: {
+    Generic: Зүүн эргийн цаг,
+    Standard: Зүүн эргийн стандарт цаг,
+    Daylight: Зүүн эргийн зуны цаг
+  },
+  America/Guayaquil: {
+    Generic: Эквадорын цаг,
+    Standard: Эквадорын цаг,
+    Daylight: Эквадорын цаг
+  },
+  America/Jamaica: {
+    Generic: Зүүн эргийн цаг,
+    Standard: Зүүн эргийн стандарт цаг,
+    Daylight: Зүүн эргийн зуны цаг
+  },
+  America/Cayman: {
+    Generic: Зүүн эргийн цаг,
+    Standard: Зүүн эргийн стандарт цаг,
+    Daylight: Зүүн эргийн зуны цаг
+  },
+  America/Panama: {
+    Generic: Зүүн эргийн цаг,
+    Standard: Зүүн эргийн стандарт цаг,
+    Daylight: Зүүн эргийн зуны цаг
+  },
+  America/Lima: {
+    Generic: Перугийн цаг,
+    Standard: Перугийн стандарт цаг,
+    Daylight: Перугийн зуны цаг
+  },
+  Etc/GMT+5: {
+    Generic: Олон улсын зохицуулалттай цаг -5,
+    Standard: Олон улсын зохицуулалттай цаг -5,
+    Daylight: Олон улсын зохицуулалттай цаг -5
+  },
+  America/La_Paz: {
+    Generic: Боливийн цаг,
+    Standard: Боливийн цаг,
+    Daylight: Боливийн цаг
+  },
+  America/Antigua: {
+    Generic: Атлантын цаг,
+    Standard: Атлантын стандарт цаг,
+    Daylight: Атлантын зуны цаг
+  },
+  America/Anguilla: {
+    Generic: Атлантын цаг,
+    Standard: Атлантын стандарт цаг,
+    Daylight: Атлантын зуны цаг
+  },
+  America/Aruba: {
+    Generic: Атлантын цаг,
+    Standard: Атлантын стандарт цаг,
+    Daylight: Атлантын зуны цаг
+  },
+  America/Barbados: {
+    Generic: Атлантын цаг,
+    Standard: Атлантын стандарт цаг,
+    Daylight: Атлантын зуны цаг
+  },
+  America/St_Barthelemy: {
+    Generic: Атлантын цаг,
+    Standard: Атлантын стандарт цаг,
+    Daylight: Атлантын зуны цаг
+  },
+  America/Kralendijk: {
+    Generic: Атлантын цаг,
+    Standard: Атлантын стандарт цаг,
+    Daylight: Атлантын зуны цаг
+  },
+  America/Manaus: {
+    Generic: Амазоны цаг,
+    Standard: Амазоны стандарт цаг,
+    Daylight: Амазоны зуны цаг
+  },
+  America/Boa_Vista: {
+    Generic: Амазоны цаг,
+    Standard: Амазоны стандарт цаг,
+    Daylight: Амазоны зуны цаг
+  },
+  America/Porto_Velho: {
+    Generic: Амазоны цаг,
+    Standard: Амазоны стандарт цаг,
+    Daylight: Амазоны зуны цаг
+  },
+  America/Blanc-Sablon: {
+    Generic: Атлантын цаг,
+    Standard: Атлантын стандарт цаг,
+    Daylight: Атлантын зуны цаг
+  },
+  America/Curacao: {
+    Generic: Атлантын цаг,
+    Standard: Атлантын стандарт цаг,
+    Daylight: Атлантын зуны цаг
+  },
+  America/Dominica: {
+    Generic: Атлантын цаг,
+    Standard: Атлантын стандарт цаг,
+    Daylight: Атлантын зуны цаг
+  },
+  America/Santo_Domingo: {
+    Generic: Атлантын цаг,
+    Standard: Атлантын стандарт цаг,
+    Daylight: Атлантын зуны цаг
+  },
+  America/Grenada: {
+    Generic: Атлантын цаг,
+    Standard: Атлантын стандарт цаг,
+    Daylight: Атлантын зуны цаг
+  },
+  America/Guadeloupe: {
+    Generic: Атлантын цаг,
+    Standard: Атлантын стандарт цаг,
+    Daylight: Атлантын зуны цаг
+  },
+  America/Guyana: {
+    Generic: Гайанагийн цаг,
+    Standard: Гайанагийн цаг,
+    Daylight: Гайанагийн цаг
+  },
+  America/St_Kitts: {
+    Generic: Атлантын цаг,
+    Standard: Атлантын стандарт цаг,
+    Daylight: Атлантын зуны цаг
+  },
+  America/St_Lucia: {
+    Generic: Атлантын цаг,
+    Standard: Атлантын стандарт цаг,
+    Daylight: Атлантын зуны цаг
+  },
+  America/Marigot: {
+    Generic: Атлантын цаг,
+    Standard: Атлантын стандарт цаг,
+    Daylight: Атлантын зуны цаг
+  },
+  America/Martinique: {
+    Generic: Атлантын цаг,
+    Standard: Атлантын стандарт цаг,
+    Daylight: Атлантын зуны цаг
+  },
+  America/Montserrat: {
+    Generic: Атлантын цаг,
+    Standard: Атлантын стандарт цаг,
+    Daylight: Атлантын зуны цаг
+  },
+  America/Puerto_Rico: {
+    Generic: Атлантын цаг,
+    Standard: Атлантын стандарт цаг,
+    Daylight: Атлантын зуны цаг
+  },
+  America/Lower_Princes: {
+    Generic: Атлантын цаг,
+    Standard: Атлантын стандарт цаг,
+    Daylight: Атлантын зуны цаг
+  },
+  America/Port_of_Spain: {
+    Generic: Атлантын цаг,
+    Standard: Атлантын стандарт цаг,
+    Daylight: Атлантын зуны цаг
+  },
+  America/St_Vincent: {
+    Generic: Атлантын цаг,
+    Standard: Атлантын стандарт цаг,
+    Daylight: Атлантын зуны цаг
+  },
+  America/Tortola: {
+    Generic: Атлантын цаг,
+    Standard: Атлантын стандарт цаг,
+    Daylight: Атлантын зуны цаг
+  },
+  America/St_Thomas: {
+    Generic: Атлантын цаг,
+    Standard: Атлантын стандарт цаг,
+    Daylight: Атлантын зуны цаг
+  },
+  Etc/GMT+4: {
+    Generic: Олон улсын зохицуулалттай цаг -4,
+    Standard: Олон улсын зохицуулалттай цаг -4,
+    Daylight: Олон улсын зохицуулалттай цаг -4
+  },
+  Asia/Bangkok: {
+    Generic: Энэтхэг-Хятадын хойгийн цаг,
+    Standard: Энэтхэг-Хятадын хойгийн цаг,
+    Daylight: Энэтхэг-Хятадын хойгийн цаг
+  },
+  Antarctica/Davis: {
+    Generic: Дэвисийн цаг,
+    Standard: Дэвисийн цаг,
+    Daylight: Дэвисийн цаг
+  },
+  Indian/Christmas: {
+    Generic: Крисмас арлын цаг,
+    Standard: Крисмас арлын цаг,
+    Daylight: Крисмас арлын цаг
+  },
+  Asia/Jakarta: {
+    Generic: Баруун Индонезийн цаг,
+    Standard: Баруун Индонезийн цаг,
+    Daylight: Баруун Индонезийн цаг
+  },
+  Asia/Pontianak: {
+    Generic: Баруун Индонезийн цаг,
+    Standard: Баруун Индонезийн цаг,
+    Daylight: Баруун Индонезийн цаг
+  },
+  Asia/Phnom_Penh: {
+    Generic: Энэтхэг-Хятадын хойгийн цаг,
+    Standard: Энэтхэг-Хятадын хойгийн цаг,
+    Daylight: Энэтхэг-Хятадын хойгийн цаг
+  },
+  Asia/Vientiane: {
+    Generic: Энэтхэг-Хятадын хойгийн цаг,
+    Standard: Энэтхэг-Хятадын хойгийн цаг,
+    Daylight: Энэтхэг-Хятадын хойгийн цаг
+  },
+  Asia/Saigon: {
+    Generic: Энэтхэг-Хятадын хойгийн цаг,
+    Standard: Энэтхэг-Хятадын хойгийн цаг,
+    Daylight: Энэтхэг-Хятадын хойгийн цаг
+  },
+  Etc/GMT-7: {
+    Generic: Олон улсын зохицуулалттай цаг +7,
+    Standard: Олон улсын зохицуулалттай цаг +7,
+    Daylight: Олон улсын зохицуулалттай цаг +7
+  },
+  America/Miquelon: {
+    Generic: Сент-Пьер ба Микелоны цаг,
+    Standard: Сент-Пьер ба Микелоны стандарт цаг,
+    Daylight: Сент-Пьер ба Микелоны зуны цаг
+  },
+  Asia/Sakhalin: {
+    Generic: Сахалин-н цаг,
+    Standard: Сахалин-н стандарт цаг,
+    Daylight: Сахалин-н зуны цаг
+  },
+  Pacific/Apia: {
+    Generic: Апиагийн цаг,
+    Standard: Апиагийн стандарт цаг,
+    Daylight: Апиагийн зуны цаг
+  },
+  Africa/Sao_Tome: {
+    Generic: Гринвичийн цаг,
+    Standard: Гринвичийн цаг,
+    Daylight: Гринвичийн цаг
+  },
+  Europe/Saratov: {
+    Generic: Саратов-н цаг,
+    Standard: Саратов-н стандарт цаг,
+    Daylight: Саратов-н зуны цаг
+  },
+  Asia/Singapore: {
+    Generic: Сингапурын цаг,
+    Standard: Сингапурын цаг,
+    Daylight: Сингапурын цаг
+  },
+  Asia/Brunei: {
+    Generic: Бруней Даруссаламын цаг,
+    Standard: Бруней Даруссаламын цаг,
+    Daylight: Бруней Даруссаламын цаг
+  },
+  Asia/Makassar: {
+    Generic: Төв Индонезийн цаг,
+    Standard: Төв Индонезийн цаг,
+    Daylight: Төв Индонезийн цаг
+  },
+  Asia/Kuala_Lumpur: {
+    Generic: Малайзын цаг,
+    Standard: Малайзын цаг,
+    Daylight: Малайзын цаг
+  },
+  Asia/Kuching: {
+    Generic: Малайзын цаг,
+    Standard: Малайзын цаг,
+    Daylight: Малайзын цаг
+  },
+  Asia/Manila: {
+    Generic: Филиппиний цаг,
+    Standard: Филиппиний стандарт цаг,
+    Daylight: Филиппиний зуны цаг
+  },
+  Etc/GMT-8: {
+    Generic: Олон улсын зохицуулалттай цаг +8,
+    Standard: Олон улсын зохицуулалттай цаг +8,
+    Daylight: Олон улсын зохицуулалттай цаг +8
+  },
+  Africa/Johannesburg: {
+    Generic: Өмнөд Африкийн стандарт цаг,
+    Standard: Өмнөд Африкийн стандарт цаг,
+    Daylight: Өмнөд Африкийн стандарт цаг
+  },
+  Africa/Bujumbura: {
+    Generic: Төв Африкийн цаг,
+    Standard: Төв Африкийн цаг,
+    Daylight: Төв Африкийн цаг
+  },
+  Africa/Gaborone: {
+    Generic: Төв Африкийн цаг,
+    Standard: Төв Африкийн цаг,
+    Daylight: Төв Африкийн цаг
+  },
+  Africa/Lubumbashi: {
+    Generic: Төв Африкийн цаг,
+    Standard: Төв Африкийн цаг,
+    Daylight: Төв Африкийн цаг
+  },
+  Africa/Maseru: {
+    Generic: Өмнөд Африкийн стандарт цаг,
+    Standard: Өмнөд Африкийн стандарт цаг,
+    Daylight: Өмнөд Африкийн стандарт цаг
+  },
+  Africa/Blantyre: {
+    Generic: Төв Африкийн цаг,
+    Standard: Төв Африкийн цаг,
+    Daylight: Төв Африкийн цаг
+  },
+  Africa/Maputo: {
+    Generic: Төв Африкийн цаг,
+    Standard: Төв Африкийн цаг,
+    Daylight: Төв Африкийн цаг
+  },
+  Africa/Kigali: {
+    Generic: Төв Африкийн цаг,
+    Standard: Төв Африкийн цаг,
+    Daylight: Төв Африкийн цаг
+  },
+  Africa/Mbabane: {
+    Generic: Өмнөд Африкийн стандарт цаг,
+    Standard: Өмнөд Африкийн стандарт цаг,
+    Daylight: Өмнөд Африкийн стандарт цаг
+  },
+  Africa/Lusaka: {
+    Generic: Төв Африкийн цаг,
+    Standard: Төв Африкийн цаг,
+    Daylight: Төв Африкийн цаг
+  },
+  Africa/Harare: {
+    Generic: Төв Африкийн цаг,
+    Standard: Төв Африкийн цаг,
+    Daylight: Төв Африкийн цаг
+  },
+  Etc/GMT-2: {
+    Generic: Олон улсын зохицуулалттай цаг +2,
+    Standard: Олон улсын зохицуулалттай цаг +2,
+    Daylight: Олон улсын зохицуулалттай цаг +2
+  },
+  Africa/Juba: {
+    Generic: Төв Африкийн цаг,
+    Standard: Төв Африкийн цаг,
+    Daylight: Төв Африкийн цаг
+  },
+  Asia/Colombo: {
+    Generic: Энэтхэгийн цаг,
+    Standard: Энэтхэгийн цаг,
+    Daylight: Энэтхэгийн цаг
+  },
+  Africa/Khartoum: {
+    Generic: Төв Африкийн цаг,
+    Standard: Төв Африкийн цаг,
+    Daylight: Төв Африкийн цаг
+  },
+  Asia/Damascus: {
+    Generic: Зүүн Европын цаг,
+    Standard: Зүүн Европын стандарт цаг,
+    Daylight: Зүүн Европын зуны цаг
+  },
+  Asia/Taipei: {
+    Generic: Тайпейн цаг,
+    Standard: Тайпейн стандарт цаг,
+    Daylight: Тайпейн зуны цаг
+  },
+  Australia/Hobart: {
+    Generic: Зүүн Австралийн цаг,
+    Standard: Австралийн зүүн эргийн стандарт цаг,
+    Daylight: Австралийн зүүн эргийн зуны цаг
+  },
+  Australia/Currie: {
+    Generic: Зүүн Австралийн цаг,
+    Standard: Австралийн зүүн эргийн стандарт цаг,
+    Daylight: Австралийн зүүн эргийн зуны цаг
+  },
+  Antarctica/Macquarie: {
+    Generic: Зүүн Австралийн цаг,
+    Standard: Австралийн зүүн эргийн стандарт цаг,
+    Daylight: Австралийн зүүн эргийн зуны цаг
+  },
+  America/Araguaina: {
+    Generic: Бразилийн цаг,
+    Standard: Бразилийн стандарт цаг,
+    Daylight: Бразилийн зуны цаг
+  },
+  Asia/Tokyo: {
+    Generic: Японы цаг,
+    Standard: Японы стандарт цаг,
+    Daylight: Японы зуны цаг
+  },
+  Asia/Jayapura: {
+    Generic: Зүүн Индонезийн цаг,
+    Standard: Зүүн Индонезийн цаг,
+    Daylight: Зүүн Индонезийн цаг
+  },
+  Pacific/Palau: {
+    Generic: Палаугийн цаг,
+    Standard: Палаугийн цаг,
+    Daylight: Палаугийн цаг
+  },
+  Asia/Dili: {
+    Generic: Зүүн Тиморын цаг,
+    Standard: Зүүн Тиморын цаг,
+    Daylight: Зүүн Тиморын цаг
+  },
+  Etc/GMT-9: {
+    Generic: Олон улсын зохицуулалттай цаг +9,
+    Standard: Олон улсын зохицуулалттай цаг +9,
+    Daylight: Олон улсын зохицуулалттай цаг +9
+  },
+  Asia/Tomsk: {
+    Generic: Томск-н цаг,
+    Standard: Томск-н стандарт цаг,
+    Daylight: Томск-н зуны цаг
+  },
+  Pacific/Tongatapu: {
+    Generic: Тонгагийн цаг,
+    Standard: Тонгагийн стандарт цаг,
+    Daylight: Тонгагийн зуны цаг
+  },
+  Asia/Chita: {
+    Generic: Чита-н цаг,
+    Standard: Чита-н стандарт цаг,
+    Daylight: Чита-н зуны цаг
+  },
+  Europe/Istanbul: {
+    Generic: Турк-н цаг,
+    Standard: Турк-н стандарт цаг,
+    Daylight: Турк-н зуны цаг
+  },
+  America/Grand_Turk: {
+    Generic: Зүүн эргийн цаг,
+    Standard: Зүүн эргийн стандарт цаг,
+    Daylight: Зүүн эргийн зуны цаг
+  },
+  America/Indianapolis: {
+    Generic: Зүүн эргийн цаг,
+    Standard: Зүүн эргийн стандарт цаг,
+    Daylight: Зүүн эргийн зуны цаг
+  },
+  America/Indiana/Marengo: {
+    Generic: Зүүн эргийн цаг,
+    Standard: Зүүн эргийн стандарт цаг,
+    Daylight: Зүүн эргийн зуны цаг
+  },
+  America/Indiana/Vevay: {
+    Generic: Зүүн эргийн цаг,
+    Standard: Зүүн эргийн стандарт цаг,
+    Daylight: Зүүн эргийн зуны цаг
+  },
+  America/Phoenix: {
+    Generic: Уулын цаг,
+    Standard: Уулын стандарт цаг,
+    Daylight: Уулын зуны цаг
+  },
+  America/Creston: {
+    Generic: Уулын цаг,
+    Standard: Уулын стандарт цаг,
+    Daylight: Уулын зуны цаг
+  },
+  America/Dawson_Creek: {
+    Generic: Уулын цаг,
+    Standard: Уулын стандарт цаг,
+    Daylight: Уулын зуны цаг
+  },
+  America/Fort_Nelson: {
+    Generic: Уулын цаг,
+    Standard: Уулын стандарт цаг,
+    Daylight: Уулын зуны цаг
+  },
+  America/Hermosillo: {
+    Generic: Мексик-Номхон далайн цаг,
+    Standard: Мексик-Номхон далайн стандарт цаг,
+    Daylight: Мексик-Номхон далайн зуны цаг
+  },
+  Etc/GMT+7: {
+    Generic: Олон улсын зохицуулалттай цаг -7,
+    Standard: Олон улсын зохицуулалттай цаг -7,
+    Daylight: Олон улсын зохицуулалттай цаг -7
+  },
+  Etc/GMT-12: {
+    Generic: Олон улсын зохицуулалттай цаг +12,
+    Standard: Олон улсын зохицуулалттай цаг +12,
+    Daylight: Олон улсын зохицуулалттай цаг +12
+  },
+  Pacific/Tarawa: {
+    Generic: Гильбертийн арлуудын цаг,
+    Standard: Гильбертийн арлуудын цаг,
+    Daylight: Гильбертийн арлуудын цаг
+  },
+  Pacific/Majuro: {
+    Generic: Маршаллын арлуудын цаг,
+    Standard: Маршаллын арлуудын цаг,
+    Daylight: Маршаллын арлуудын цаг
+  },
+  Pacific/Kwajalein: {
+    Generic: Маршаллын арлуудын цаг,
+    Standard: Маршаллын арлуудын цаг,
+    Daylight: Маршаллын арлуудын цаг
+  },
+  Pacific/Nauru: {
+    Generic: Науругийн цаг,
+    Standard: Науругийн цаг,
+    Daylight: Науругийн цаг
+  },
+  Pacific/Funafuti: {
+    Generic: Тувалугийн цаг,
+    Standard: Тувалугийн цаг,
+    Daylight: Тувалугийн цаг
+  },
+  Pacific/Wake: {
+    Generic: Уэкийн арлуудын цаг,
+    Standard: Уэкийн арлуудын цаг,
+    Daylight: Уэкийн арлуудын цаг
+  },
+  Pacific/Wallis: {
+    Generic: Уоллис ба Футунагийн цаг,
+    Standard: Уоллис ба Футунагийн цаг,
+    Daylight: Уоллис ба Футунагийн цаг
+  },
+  Etc/GMT-13: {
+    Generic: Олон улсын зохицуулалттай цаг +13,
+    Standard: Олон улсын зохицуулалттай цаг +13,
+    Daylight: Олон улсын зохицуулалттай цаг +13
+  },
+  Pacific/Enderbury: {
+    Generic: Феникс арлын цаг,
+    Standard: Феникс арлын цаг,
+    Daylight: Феникс арлын цаг
+  },
+  Pacific/Fakaofo: {
+    Generic: Токелаугийн цаг,
+    Standard: Токелаугийн цаг,
+    Daylight: Токелаугийн цаг
+  },
+  Etc/UTC: {
+    Generic: Олон улсын зохицуулалттай цаг,
+    Standard: Олон улсын зохицуулалттай цаг,
+    Daylight: Олон улсын зохицуулалттай цаг
+  },
+  Etc/GMT: {
+    Generic: Гринвичийн цаг,
+    Standard: Гринвичийн цаг,
+    Daylight: Гринвичийн цаг
+  },
+  Etc/GMT+2: {
+    Generic: Олон улсын зохицуулалттай цаг -2,
+    Standard: Олон улсын зохицуулалттай цаг -2,
+    Daylight: Олон улсын зохицуулалттай цаг -2
+  },
+  America/Noronha: {
+    Generic: Фернандо де Норонагийн цаг,
+    Standard: Фернандо де Норонагийн стандарт цаг,
+    Daylight: Фернандо де Норонагийн зуны цаг
+  },
+  Atlantic/South_Georgia: {
+    Generic: Өмнөд Жоржиагийн цаг,
+    Standard: Өмнөд Жоржиагийн цаг,
+    Daylight: Өмнөд Жоржиагийн цаг
+  },
+  Etc/GMT+8: {
+    Generic: Олон улсын зохицуулалттай цаг -8,
+    Standard: Олон улсын зохицуулалттай цаг -8,
+    Daylight: Олон улсын зохицуулалттай цаг -8
+  },
+  Pacific/Pitcairn: {
+    Generic: Питкернийн цаг,
+    Standard: Питкернийн цаг,
+    Daylight: Питкернийн цаг
+  },
+  Etc/GMT+9: {
+    Generic: Олон улсын зохицуулалттай цаг -9,
+    Standard: Олон улсын зохицуулалттай цаг -9,
+    Daylight: Олон улсын зохицуулалттай цаг -9
+  },
+  Pacific/Gambier: {
+    Generic: Гамбьегийн цаг,
+    Standard: Гамбьегийн цаг,
+    Daylight: Гамбьегийн цаг
+  },
+  Etc/GMT+11: {
+    Generic: Олон улсын зохицуулалттай цаг -11,
+    Standard: Олон улсын зохицуулалттай цаг -11,
+    Daylight: Олон улсын зохицуулалттай цаг -11
+  },
+  Pacific/Pago_Pago: {
+    Generic: Самоагийн цаг,
+    Standard: Самоагийн стандарт цаг,
+    Daylight: Самоагийн зуны цаг
+  },
+  Pacific/Niue: {
+    Generic: Ниуэгийн цаг,
+    Standard: Ниуэгийн цаг,
+    Daylight: Ниуэгийн цаг
+  },
+  Pacific/Midway: {
+    Generic: Самоагийн цаг,
+    Standard: Самоагийн стандарт цаг,
+    Daylight: Самоагийн зуны цаг
+  },
+  Asia/Ulaanbaatar: {
+    Generic: Улаанбаатарын цаг,
+    Standard: Улаанбаатарын стандарт цаг,
+    Daylight: Улаанбаатарын зуны цаг
+  },
+  Asia/Choibalsan: {
+    Generic: Улаанбаатарын цаг,
+    Standard: Улаанбаатарын стандарт цаг,
+    Daylight: Улаанбаатарын зуны цаг
+  },
+  America/Caracas: {
+    Generic: Венесуэлийн цаг,
+    Standard: Венесуэлийн цаг,
+    Daylight: Венесуэлийн цаг
+  },
+  Asia/Vladivostok: {
+    Generic: Владивосток-н цаг,
+    Standard: Владивосток-н стандарт цаг,
+    Daylight: Владивосток-н зуны цаг
+  },
+  Asia/Ust-Nera: {
+    Generic: Уст-Нера-н цаг,
+    Standard: Уст-Нера-н стандарт цаг,
+    Daylight: Уст-Нера-н зуны цаг
+  },
+  Europe/Volgograd: {
+    Generic: Волгоград-н цаг,
+    Standard: Волгоград-н стандарт цаг,
+    Daylight: Волгоград-н зуны цаг
+  },
+  Australia/Perth: {
+    Generic: Баруун Австралийн цаг,
+    Standard: Австралийн баруун эргийн стандарт цаг,
+    Daylight: Австралийн баруун эргийн зуны цаг
+  },
+  Africa/Lagos: {
+    Generic: Баруун Африкийн цаг,
+    Standard: Баруун Африкийн стандарт цаг,
+    Daylight: Баруун Африкийн зуны цаг
+  },
+  Africa/Luanda: {
+    Generic: Баруун Африкийн цаг,
+    Standard: Баруун Африкийн стандарт цаг,
+    Daylight: Баруун Африкийн зуны цаг
+  },
+  Africa/Porto-Novo: {
+    Generic: Баруун Африкийн цаг,
+    Standard: Баруун Африкийн стандарт цаг,
+    Daylight: Баруун Африкийн зуны цаг
+  },
+  Africa/Kinshasa: {
+    Generic: Баруун Африкийн цаг,
+    Standard: Баруун Африкийн стандарт цаг,
+    Daylight: Баруун Африкийн зуны цаг
+  },
+  Africa/Bangui: {
+    Generic: Баруун Африкийн цаг,
+    Standard: Баруун Африкийн стандарт цаг,
+    Daylight: Баруун Африкийн зуны цаг
+  },
+  Africa/Brazzaville: {
+    Generic: Баруун Африкийн цаг,
+    Standard: Баруун Африкийн стандарт цаг,
+    Daylight: Баруун Африкийн зуны цаг
+  },
+  Africa/Douala: {
+    Generic: Баруун Африкийн цаг,
+    Standard: Баруун Африкийн стандарт цаг,
+    Daylight: Баруун Африкийн зуны цаг
+  },
+  Africa/Algiers: {
+    Generic: Төв Европын цаг,
+    Standard: Төв Европын стандарт цаг,
+    Daylight: Төв Европын зуны цаг
+  },
+  Africa/Libreville: {
+    Generic: Баруун Африкийн цаг,
+    Standard: Баруун Африкийн стандарт цаг,
+    Daylight: Баруун Африкийн зуны цаг
+  },
+  Africa/Malabo: {
+    Generic: Баруун Африкийн цаг,
+    Standard: Баруун Африкийн стандарт цаг,
+    Daylight: Баруун Африкийн зуны цаг
+  },
+  Africa/Niamey: {
+    Generic: Баруун Африкийн цаг,
+    Standard: Баруун Африкийн стандарт цаг,
+    Daylight: Баруун Африкийн зуны цаг
+  },
+  Africa/Ndjamena: {
+    Generic: Баруун Африкийн цаг,
+    Standard: Баруун Африкийн стандарт цаг,
+    Daylight: Баруун Африкийн зуны цаг
+  },
+  Africa/Tunis: {
+    Generic: Төв Европын цаг,
+    Standard: Төв Европын стандарт цаг,
+    Daylight: Төв Европын зуны цаг
+  },
+  Etc/GMT-1: {
+    Generic: Олон улсын зохицуулалттай цаг +1,
+    Standard: Олон улсын зохицуулалттай цаг +1,
+    Daylight: Олон улсын зохицуулалттай цаг +1
+  },
+  Europe/Berlin: {
+    Generic: Төв Европын цаг,
+    Standard: Төв Европын стандарт цаг,
+    Daylight: Төв Европын зуны цаг
+  },
+  Europe/Andorra: {
+    Generic: Төв Европын цаг,
+    Standard: Төв Европын стандарт цаг,
+    Daylight: Төв Европын зуны цаг
+  },
+  Europe/Vienna: {
+    Generic: Төв Европын цаг,
+    Standard: Төв Европын стандарт цаг,
+    Daylight: Төв Европын зуны цаг
+  },
+  Europe/Zurich: {
+    Generic: Төв Европын цаг,
+    Standard: Төв Европын стандарт цаг,
+    Daylight: Төв Европын зуны цаг
+  },
+  Europe/Busingen: {
+    Generic: Төв Европын цаг,
+    Standard: Төв Европын стандарт цаг,
+    Daylight: Төв Европын зуны цаг
+  },
+  Europe/Gibraltar: {
+    Generic: Төв Европын цаг,
+    Standard: Төв Европын стандарт цаг,
+    Daylight: Төв Европын зуны цаг
+  },
+  Europe/Rome: {
+    Generic: Төв Европын цаг,
+    Standard: Төв Европын стандарт цаг,
+    Daylight: Төв Европын зуны цаг
+  },
+  Europe/Vaduz: {
+    Generic: Төв Европын цаг,
+    Standard: Төв Европын стандарт цаг,
+    Daylight: Төв Европын зуны цаг
+  },
+  Europe/Luxembourg: {
+    Generic: Төв Европын цаг,
+    Standard: Төв Европын стандарт цаг,
+    Daylight: Төв Европын зуны цаг
+  },
+  Europe/Monaco: {
+    Generic: Төв Европын цаг,
+    Standard: Төв Европын стандарт цаг,
+    Daylight: Төв Европын зуны цаг
+  },
+  Europe/Malta: {
+    Generic: Төв Европын цаг,
+    Standard: Төв Европын стандарт цаг,
+    Daylight: Төв Европын зуны цаг
+  },
+  Europe/Amsterdam: {
+    Generic: Төв Европын цаг,
+    Standard: Төв Европын стандарт цаг,
+    Daylight: Төв Европын зуны цаг
+  },
+  Europe/Oslo: {
+    Generic: Төв Европын цаг,
+    Standard: Төв Европын стандарт цаг,
+    Daylight: Төв Европын зуны цаг
+  },
+  Europe/Stockholm: {
+    Generic: Төв Европын цаг,
+    Standard: Төв Европын стандарт цаг,
+    Daylight: Төв Европын зуны цаг
+  },
+  Arctic/Longyearbyen: {
+    Generic: Төв Европын цаг,
+    Standard: Төв Европын стандарт цаг,
+    Daylight: Төв Европын зуны цаг
+  },
+  Europe/San_Marino: {
+    Generic: Төв Европын цаг,
+    Standard: Төв Европын стандарт цаг,
+    Daylight: Төв Европын зуны цаг
+  },
+  Europe/Vatican: {
+    Generic: Төв Европын цаг,
+    Standard: Төв Европын стандарт цаг,
+    Daylight: Төв Европын зуны цаг
+  },
+  Asia/Hovd: {
+    Generic: Ховдын цаг,
+    Standard: Ховдын стандарт цаг,
+    Daylight: Ховдын зуны цаг
+  },
+  Asia/Tashkent: {
+    Generic: Узбекистаны цаг,
+    Standard: Узбекистаны стандарт цаг,
+    Daylight: Узбекистаны зуны цаг
+  },
+  Antarctica/Mawson: {
+    Generic: Моусоны цаг,
+    Standard: Моусоны цаг,
+    Daylight: Моусоны цаг
+  },
+  Asia/Oral: {
+    Generic: Баруун Казахстаны цаг,
+    Standard: Баруун Казахстаны цаг,
+    Daylight: Баруун Казахстаны цаг
+  },
+  Asia/Aqtau: {
+    Generic: Баруун Казахстаны цаг,
+    Standard: Баруун Казахстаны цаг,
+    Daylight: Баруун Казахстаны цаг
+  },
+  Asia/Aqtobe: {
+    Generic: Баруун Казахстаны цаг,
+    Standard: Баруун Казахстаны цаг,
+    Daylight: Баруун Казахстаны цаг
+  },
+  Asia/Atyrau: {
+    Generic: Баруун Казахстаны цаг,
+    Standard: Баруун Казахстаны цаг,
+    Daylight: Баруун Казахстаны цаг
+  },
+  Indian/Maldives: {
+    Generic: Мальдивийн цаг,
+    Standard: Мальдивийн цаг,
+    Daylight: Мальдивийн цаг
+  },
+  Indian/Kerguelen: {
+    Generic: Францын Өмнөд ба Антарктидийн цаг,
+    Standard: Францын Өмнөд ба Антарктидийн цаг,
+    Daylight: Францын Өмнөд ба Антарктидийн цаг
+  },
+  Asia/Dushanbe: {
+    Generic: Тажикистаны цаг,
+    Standard: Тажикистаны цаг,
+    Daylight: Тажикистаны цаг
+  },
+  Asia/Ashgabat: {
+    Generic: Туркменистаны цаг,
+    Standard: Туркменистаны стандарт цаг,
+    Daylight: Туркменистаны зуны цаг
+  },
+  Asia/Samarkand: {
+    Generic: Узбекистаны цаг,
+    Standard: Узбекистаны стандарт цаг,
+    Daylight: Узбекистаны зуны цаг
+  },
+  Etc/GMT-5: {
+    Generic: Олон улсын зохицуулалттай цаг +5,
+    Standard: Олон улсын зохицуулалттай цаг +5,
+    Daylight: Олон улсын зохицуулалттай цаг +5
+  },
+  Asia/Hebron: {
+    Generic: Зүүн Европын цаг,
+    Standard: Зүүн Европын стандарт цаг,
+    Daylight: Зүүн Европын зуны цаг
+  },
+  Asia/Gaza: {
+    Generic: Зүүн Европын цаг,
+    Standard: Зүүн Европын стандарт цаг,
+    Daylight: Зүүн Европын зуны цаг
+  },
+  Pacific/Port_Moresby: {
+    Generic: Папуа Шинэ Гвинейн цаг,
+    Standard: Папуа Шинэ Гвинейн цаг,
+    Daylight: Папуа Шинэ Гвинейн цаг
+  },
+  Antarctica/DumontDUrville: {
+    Generic: Дюмон д’Юрвилийн цаг,
+    Standard: Дюмон д’Юрвилийн цаг,
+    Daylight: Дюмон д’Юрвилийн цаг
+  },
+  Pacific/Truk: {
+    Generic: Чүүкийн цаг,
+    Standard: Чүүкийн цаг,
+    Daylight: Чүүкийн цаг
+  },
+  Pacific/Guam: {
+    Generic: Чаморрогийн цаг,
+    Standard: Чаморрогийн цаг,
+    Daylight: Чаморрогийн цаг
+  },
+  Pacific/Saipan: {
+    Generic: Чаморрогийн цаг,
+    Standard: Чаморрогийн цаг,
+    Daylight: Чаморрогийн цаг
+  },
+  Etc/GMT-10: {
+    Generic: Олон улсын зохицуулалттай цаг +10,
+    Standard: Олон улсын зохицуулалттай цаг +10,
+    Daylight: Олон улсын зохицуулалттай цаг +10
+  },
+  Asia/Yakutsk: {
+    Generic: Якутск-н цаг,
+    Standard: Якутск-н стандарт цаг,
+    Daylight: Якутск-н зуны цаг
+  },
+  Asia/Khandyga: {
+    Generic: Кандыга-н цаг,
+    Standard: Кандыга-н стандарт цаг,
+    Daylight: Кандыга-н зуны цаг
+  },
+  America/Whitehorse: {
+    Generic: Юкон цагийн бүс,
+    Standard: Юкон цагийн бүс,
+    Daylight: Юкон цагийн бүс
+  },
+  America/Dawson: {
+    Generic: Юкон цагийн бүс,
+    Standard: Юкон цагийн бүс,
+    Daylight: Юкон цагийн бүс
+  },
+  Iceland: {
+    Generic: Гринвичийн цаг,
+    Standard: Гринвичийн цаг,
+    Daylight: Гринвичийн цаг
+  },
+  Africa/Timbuktu: {
+    Generic: Гринвичийн цаг,
+    Standard: Гринвичийн цаг,
+    Daylight: Гринвичийн цаг
+  },
+  Egypt: {
+    Generic: Зүүн Европын цаг,
+    Standard: Зүүн Европын стандарт цаг,
+    Daylight: Зүүн Европын зуны цаг
+  },
+  Africa/Asmara: {
+    Generic: Зүүн Африкийн цаг,
+    Standard: Зүүн Африкийн цаг,
+    Daylight: Зүүн Африкийн цаг
+  },
+  Libya: {
+    Generic: Зүүн Европын цаг,
+    Standard: Зүүн Европын стандарт цаг,
+    Daylight: Зүүн Европын зуны цаг
+  },
+  America/Atka: {
+    Generic: Хавай-Алеутын цаг,
+    Standard: Хавай-Алеутын стандарт цаг,
+    Daylight: Хавай-Алеутын зуны цаг
+  },
+  US/Aleutian: {
+    Generic: Хавай-Алеутын цаг,
+    Standard: Хавай-Алеутын стандарт цаг,
+    Daylight: Хавай-Алеутын зуны цаг
+  },
+  US/Alaska: {
+    Generic: Аляскийн цаг,
+    Standard: Аляскийн стандарт цаг,
+    Daylight: Аляскийн зуны цаг
+  },
+  America/Argentina/Buenos_Aires: {
+    Generic: Аргентины цаг,
+    Standard: Аргентины стандарт цаг,
+    Daylight: Аргентины зуны цаг
+  },
+  America/Argentina/Catamarca: {
+    Generic: Аргентины цаг,
+    Standard: Аргентины стандарт цаг,
+    Daylight: Аргентины зуны цаг
+  },
+  America/Argentina/ComodRivadavia: {
+    Generic: Аргентины цаг,
+    Standard: Аргентины стандарт цаг,
+    Daylight: Аргентины зуны цаг
+  },
+  America/Argentina/Cordoba: {
+    Generic: Аргентины цаг,
+    Standard: Аргентины стандарт цаг,
+    Daylight: Аргентины зуны цаг
+  },
+  America/Rosario: {
+    Generic: Аргентины цаг,
+    Standard: Аргентины стандарт цаг,
+    Daylight: Аргентины зуны цаг
+  },
+  America/Argentina/Jujuy: {
+    Generic: Аргентины цаг,
+    Standard: Аргентины стандарт цаг,
+    Daylight: Аргентины зуны цаг
+  },
+  America/Argentina/Mendoza: {
+    Generic: Аргентины цаг,
+    Standard: Аргентины стандарт цаг,
+    Daylight: Аргентины зуны цаг
+  },
+  US/Central: {
+    Generic: Төв цаг,
+    Standard: Төв стандарт цаг,
+    Daylight: Төв зуны цаг
+  },
+  America/Shiprock: {
+    Generic: Уулын цаг,
+    Standard: Уулын стандарт цаг,
+    Daylight: Уулын зуны цаг
+  },
+  Navajo: {
+    Generic: Уулын цаг,
+    Standard: Уулын стандарт цаг,
+    Daylight: Уулын зуны цаг
+  },
+  US/Mountain: {
+    Generic: Уулын цаг,
+    Standard: Уулын стандарт цаг,
+    Daylight: Уулын зуны цаг
+  },
+  US/Michigan: {
+    Generic: Зүүн эргийн цаг,
+    Standard: Зүүн эргийн стандарт цаг,
+    Daylight: Зүүн эргийн зуны цаг
+  },
+  Canada/Mountain: {
+    Generic: Уулын цаг,
+    Standard: Уулын стандарт цаг,
+    Daylight: Уулын зуны цаг
+  },
+  Canada/Atlantic: {
+    Generic: Атлантын цаг,
+    Standard: Атлантын стандарт цаг,
+    Daylight: Атлантын зуны цаг
+  },
+  Cuba: {
+    Generic: Кубын цаг,
+    Standard: Кубын стандарт цаг,
+    Daylight: Кубын зуны цаг
+  },
+  America/Indiana/Indianapolis: {
+    Generic: Зүүн эргийн цаг,
+    Standard: Зүүн эргийн стандарт цаг,
+    Daylight: Зүүн эргийн зуны цаг
+  },
+  US/East-Indiana: {
+    Generic: Зүүн эргийн цаг,
+    Standard: Зүүн эргийн стандарт цаг,
+    Daylight: Зүүн эргийн зуны цаг
+  },
+  America/Knox_IN: {
+    Generic: Төв цаг,
+    Standard: Төв стандарт цаг,
+    Daylight: Төв зуны цаг
+  },
+  US/Indiana-Starke: {
+    Generic: Төв цаг,
+    Standard: Төв стандарт цаг,
+    Daylight: Төв зуны цаг
+  },
+  Jamaica: {
+    Generic: Зүүн эргийн цаг,
+    Standard: Зүүн эргийн стандарт цаг,
+    Daylight: Зүүн эргийн зуны цаг
+  },
+  America/Kentucky/Louisville: {
+    Generic: Зүүн эргийн цаг,
+    Standard: Зүүн эргийн стандарт цаг,
+    Daylight: Зүүн эргийн зуны цаг
+  },
+  US/Pacific: {
+    Generic: Номхон далайн цаг,
+    Standard: Номхон далайн стандарт цаг,
+    Daylight: Номхон далайн зуны цаг
+  },
+  Brazil/West: {
+    Generic: Амазоны цаг,
+    Standard: Амазоны стандарт цаг,
+    Daylight: Амазоны зуны цаг
+  },
+  Mexico/BajaSur: {
+    Generic: Мексик-Номхон далайн цаг,
+    Standard: Мексик-Номхон далайн стандарт цаг,
+    Daylight: Мексик-Номхон далайн зуны цаг
+  },
+  Mexico/General: {
+    Generic: Төв цаг,
+    Standard: Төв стандарт цаг,
+    Daylight: Төв зуны цаг
+  },
+  US/Eastern: {
+    Generic: Зүүн эргийн цаг,
+    Standard: Зүүн эргийн стандарт цаг,
+    Daylight: Зүүн эргийн зуны цаг
+  },
+  Brazil/DeNoronha: {
+    Generic: Фернандо де Норонагийн цаг,
+    Standard: Фернандо де Норонагийн стандарт цаг,
+    Daylight: Фернандо де Норонагийн зуны цаг
+  },
+  America/Nuuk: {
+    Generic: Баруун Гренландын цаг,
+    Standard: Баруун Гренландын стандарт цаг,
+    Daylight: Баруун Гренландын зуны цаг
+  },
+  America/Atikokan: {
+    Generic: Зүүн эргийн цаг,
+    Standard: Зүүн эргийн стандарт цаг,
+    Daylight: Зүүн эргийн зуны цаг
+  },
+  US/Arizona: {
+    Generic: Уулын цаг,
+    Standard: Уулын стандарт цаг,
+    Daylight: Уулын зуны цаг
+  },
+  America/Virgin: {
+    Generic: Атлантын цаг,
+    Standard: Атлантын стандарт цаг,
+    Daylight: Атлантын зуны цаг
+  },
+  Canada/Saskatchewan: {
+    Generic: Төв цаг,
+    Standard: Төв стандарт цаг,
+    Daylight: Төв зуны цаг
+  },
+  America/Porto_Acre: {
+    Generic: Бразил-н цаг,
+    Standard: Бразил-н стандарт цаг,
+    Daylight: Бразил-н зуны цаг
+  },
+  Brazil/Acre: {
+    Generic: Бразил-н цаг,
+    Standard: Бразил-н стандарт цаг,
+    Daylight: Бразил-н зуны цаг
+  },
+  Chile/Continental: {
+    Generic: Чилийн цаг,
+    Standard: Чилийн стандарт цаг,
+    Daylight: Чилийн зуны цаг
+  },
+  Brazil/East: {
+    Generic: Бразилийн цаг,
+    Standard: Бразилийн стандарт цаг,
+    Daylight: Бразилийн зуны цаг
+  },
+  Canada/Newfoundland: {
+    Generic: Нью-Фаундлендын цаг,
+    Standard: Нью-Фаундлендын стандарт цаг,
+    Daylight: Нью-Фаундлендын зуны цаг
+  },
+  America/Ensenada: {
+    Generic: Номхон далайн цаг,
+    Standard: Номхон далайн стандарт цаг,
+    Daylight: Номхон далайн зуны цаг
+  },
+  Mexico/BajaNorte: {
+    Generic: Номхон далайн цаг,
+    Standard: Номхон далайн стандарт цаг,
+    Daylight: Номхон далайн зуны цаг
+  },
+  Canada/Eastern: {
+    Generic: Зүүн эргийн цаг,
+    Standard: Зүүн эргийн стандарт цаг,
+    Daylight: Зүүн эргийн зуны цаг
+  },
+  Canada/Pacific: {
+    Generic: Номхон далайн цаг,
+    Standard: Номхон далайн стандарт цаг,
+    Daylight: Номхон далайн зуны цаг
+  },
+  Canada/Yukon: {
+    Generic: Юкон цагийн бүс,
+    Standard: Юкон цагийн бүс,
+    Daylight: Юкон цагийн бүс
+  },
+  Canada/Central: {
+    Generic: Төв цаг,
+    Standard: Төв стандарт цаг,
+    Daylight: Төв зуны цаг
+  },
+  Asia/Ashkhabad: {
+    Generic: Туркменистаны цаг,
+    Standard: Туркменистаны стандарт цаг,
+    Daylight: Туркменистаны зуны цаг
+  },
+  Asia/Dacca: {
+    Generic: Бангладешийн цаг,
+    Standard: Бангладешийн стандарт цаг,
+    Daylight: Бангладешийн зуны цаг
+  },
+  Asia/Ho_Chi_Minh: {
+    Generic: Энэтхэг-Хятадын хойгийн цаг,
+    Standard: Энэтхэг-Хятадын хойгийн цаг,
+    Daylight: Энэтхэг-Хятадын хойгийн цаг
+  },
+  Hongkong: {
+    Generic: Хонг Конгийн цаг,
+    Standard: Хонг Конгийн стандарт цаг,
+    Daylight: Хонг Конгийн зуны цаг
+  },
+  Asia/Tel_Aviv: {
+    Generic: Израилийн цаг,
+    Standard: Израилийн стандарт цаг,
+    Daylight: Израилийн зуны цаг
+  },
+  Israel: {
+    Generic: Израилийн цаг,
+    Standard: Израилийн стандарт цаг,
+    Daylight: Израилийн зуны цаг
+  },
+  Asia/Kathmandu: {
+    Generic: Балбын цаг,
+    Standard: Балбын цаг,
+    Daylight: Балбын цаг
+  },
+  Asia/Kolkata: {
+    Generic: Энэтхэгийн цаг,
+    Standard: Энэтхэгийн цаг,
+    Daylight: Энэтхэгийн цаг
+  },
+  Asia/Macao: {
+    Generic: Хятадын цаг,
+    Standard: Хятадын стандарт цаг,
+    Daylight: Хятадын зуны цаг
+  },
+  Asia/Ujung_Pandang: {
+    Generic: Төв Индонезийн цаг,
+    Standard: Төв Индонезийн цаг,
+    Daylight: Төв Индонезийн цаг
+  },
+  Europe/Nicosia: {
+    Generic: Зүүн Европын цаг,
+    Standard: Зүүн Европын стандарт цаг,
+    Daylight: Зүүн Европын зуны цаг
+  },
+  ROK: {
+    Generic: Солонгосын цаг,
+    Standard: Солонгосын стандарт цаг,
+    Daylight: Солонгосын зуны цаг
+  },
+  Asia/Chongqing: {
+    Generic: Хятадын цаг,
+    Standard: Хятадын стандарт цаг,
+    Daylight: Хятадын зуны цаг
+  },
+  Asia/Chungking: {
+    Generic: Хятадын цаг,
+    Standard: Хятадын стандарт цаг,
+    Daylight: Хятадын зуны цаг
+  },
+  Asia/Harbin: {
+    Generic: Хятадын цаг,
+    Standard: Хятадын стандарт цаг,
+    Daylight: Хятадын зуны цаг
+  },
+  PRC: {
+    Generic: Хятадын цаг,
+    Standard: Хятадын стандарт цаг,
+    Daylight: Хятадын зуны цаг
+  },
+  Singapore: {
+    Generic: Сингапурын цаг,
+    Standard: Сингапурын цаг,
+    Daylight: Сингапурын цаг
+  },
+  ROC: {
+    Generic: Тайпейн цаг,
+    Standard: Тайпейн стандарт цаг,
+    Daylight: Тайпейн зуны цаг
+  },
+  Iran: {
+    Generic: Ираны цаг,
+    Standard: Ираны стандарт цаг,
+    Daylight: Ираны зуны цаг
+  },
+  Asia/Thimbu: {
+    Generic: Бутаны цаг,
+    Standard: Бутаны цаг,
+    Daylight: Бутаны цаг
+  },
+  Japan: {
+    Generic: Японы цаг,
+    Standard: Японы стандарт цаг,
+    Daylight: Японы зуны цаг
+  },
+  Asia/Ulan_Bator: {
+    Generic: Улаанбаатарын цаг,
+    Standard: Улаанбаатарын стандарт цаг,
+    Daylight: Улаанбаатарын зуны цаг
+  },
+  Asia/Kashgar: {
+    Generic: Хятад-н цаг,
+    Standard: Хятад-н стандарт цаг,
+    Daylight: Хятад-н зуны цаг
+  },
+  Asia/Yangon: {
+    Generic: Мьянмарын цаг,
+    Standard: Мьянмарын цаг,
+    Daylight: Мьянмарын цаг
+  },
+  WET: {
+    Generic: Баруун Европын цаг,
+    Standard: Баруун Европын стандарт цаг,
+    Daylight: Баруун Европын зуны цаг
+  },
+  Atlantic/Faroe: {
+    Generic: Баруун Европын цаг,
+    Standard: Баруун Европын стандарт цаг,
+    Daylight: Баруун Европын зуны цаг
+  },
+  Australia/South: {
+    Generic: Төв Австралийн цаг,
+    Standard: Төв Австралийн стандарт цаг,
+    Daylight: Төв Австралийн зуны цаг
+  },
+  Australia/Queensland: {
+    Generic: Зүүн Австралийн цаг,
+    Standard: Австралийн зүүн эргийн стандарт цаг,
+    Daylight: Австралийн зүүн эргийн зуны цаг
+  },
+  Australia/Yancowinna: {
+    Generic: Төв Австралийн цаг,
+    Standard: Төв Австралийн стандарт цаг,
+    Daylight: Төв Австралийн зуны цаг
+  },
+  Australia/North: {
+    Generic: Төв Австралийн цаг,
+    Standard: Төв Австралийн стандарт цаг,
+    Daylight: Төв Австралийн зуны цаг
+  },
+  Australia/Tasmania: {
+    Generic: Зүүн Австралийн цаг,
+    Standard: Австралийн зүүн эргийн стандарт цаг,
+    Daylight: Австралийн зүүн эргийн зуны цаг
+  },
+  Australia/LHI: {
+    Generic: Лорд Хоугийн цаг,
+    Standard: Лорд Хоугийн стандарт цаг,
+    Daylight: Лорд Хоугийн зуны цаг
+  },
+  Australia/Victoria: {
+    Generic: Зүүн Австралийн цаг,
+    Standard: Австралийн зүүн эргийн стандарт цаг,
+    Daylight: Австралийн зүүн эргийн зуны цаг
+  },
+  Australia/West: {
+    Generic: Баруун Австралийн цаг,
+    Standard: Австралийн баруун эргийн стандарт цаг,
+    Daylight: Австралийн баруун эргийн зуны цаг
+  },
+  Australia/ACT: {
+    Generic: Зүүн Австралийн цаг,
+    Standard: Австралийн зүүн эргийн стандарт цаг,
+    Daylight: Австралийн зүүн эргийн зуны цаг
+  },
+  Australia/Canberra: {
+    Generic: Зүүн Австралийн цаг,
+    Standard: Австралийн зүүн эргийн стандарт цаг,
+    Daylight: Австралийн зүүн эргийн зуны цаг
+  },
+  Australia/NSW: {
+    Generic: Зүүн Австралийн цаг,
+    Standard: Австралийн зүүн эргийн стандарт цаг,
+    Daylight: Австралийн зүүн эргийн зуны цаг
+  },
+  HST: {
+    Generic: Олон улсын зохицуулалттай цаг -10,
+    Standard: Олон улсын зохицуулалттай цаг -10,
+    Daylight: Олон улсын зохицуулалттай цаг -10
+  },
+  EST: {
+    Generic: Олон улсын зохицуулалттай цаг -5,
+    Standard: Олон улсын зохицуулалттай цаг -5,
+    Daylight: Олон улсын зохицуулалттай цаг -5
+  },
+  MST: {
+    Generic: Олон улсын зохицуулалттай цаг -7,
+    Standard: Олон улсын зохицуулалттай цаг -7,
+    Daylight: Олон улсын зохицуулалттай цаг -7
+  },
+  Etc/GMT+0: {
+    Generic: Гринвичийн цаг,
+    Standard: Гринвичийн цаг,
+    Daylight: Гринвичийн цаг
+  },
+  Etc/GMT-0: {
+    Generic: Гринвичийн цаг,
+    Standard: Гринвичийн цаг,
+    Daylight: Гринвичийн цаг
+  },
+  Etc/GMT0: {
+    Generic: Гринвичийн цаг,
+    Standard: Гринвичийн цаг,
+    Daylight: Гринвичийн цаг
+  },
+  Etc/Greenwich: {
+    Generic: Гринвичийн цаг,
+    Standard: Гринвичийн цаг,
+    Daylight: Гринвичийн цаг
+  },
+  GMT: {
+    Generic: Гринвичийн цаг,
+    Standard: Гринвичийн цаг,
+    Daylight: Гринвичийн цаг
+  },
+  GMT+0: {
+    Generic: Гринвичийн цаг,
+    Standard: Гринвичийн цаг,
+    Daylight: Гринвичийн цаг
+  },
+  GMT-0: {
+    Generic: Гринвичийн цаг,
+    Standard: Гринвичийн цаг,
+    Daylight: Гринвичийн цаг
+  },
+  GMT0: {
+    Generic: Гринвичийн цаг,
+    Standard: Гринвичийн цаг,
+    Daylight: Гринвичийн цаг
+  },
+  Greenwich: {
+    Generic: Гринвичийн цаг,
+    Standard: Гринвичийн цаг,
+    Daylight: Гринвичийн цаг
+  },
+  Etc/UCT: {
+    Generic: Олон улсын зохицуулалттай цаг,
+    Standard: Олон улсын зохицуулалттай цаг,
+    Daylight: Олон улсын зохицуулалттай цаг
+  },
+  Etc/Universal: {
+    Generic: Олон улсын зохицуулалттай цаг,
+    Standard: Олон улсын зохицуулалттай цаг,
+    Daylight: Олон улсын зохицуулалттай цаг
+  },
+  Etc/Zulu: {
+    Generic: Олон улсын зохицуулалттай цаг,
+    Standard: Олон улсын зохицуулалттай цаг,
+    Daylight: Олон улсын зохицуулалттай цаг
+  },
+  UCT: {
+    Generic: Олон улсын зохицуулалттай цаг,
+    Standard: Олон улсын зохицуулалттай цаг,
+    Daylight: Олон улсын зохицуулалттай цаг
+  },
+  UTC: {
+    Generic: Олон улсын зохицуулалттай цаг,
+    Standard: Олон улсын зохицуулалттай цаг,
+    Daylight: Олон улсын зохицуулалттай цаг
+  },
+  Universal: {
+    Generic: Олон улсын зохицуулалттай цаг,
+    Standard: Олон улсын зохицуулалттай цаг,
+    Daylight: Олон улсын зохицуулалттай цаг
+  },
+  Zulu: {
+    Generic: Олон улсын зохицуулалттай цаг,
+    Standard: Олон улсын зохицуулалттай цаг,
+    Daylight: Олон улсын зохицуулалттай цаг
+  },
+  Atlantic/Jan_Mayen: {
+    Generic: Төв Европын цаг,
+    Standard: Төв Европын стандарт цаг,
+    Daylight: Төв Европын зуны цаг
+  },
+  MET: {
+    Generic: Төв Европын цаг,
+    Standard: Төв Европын стандарт цаг,
+    Daylight: Төв Европын зуны цаг
+  },
+  EET: {
+    Generic: Зүүн Европын цаг,
+    Standard: Зүүн Европын стандарт цаг,
+    Daylight: Зүүн Европын зуны цаг
+  },
+  Europe/Tiraspol: {
+    Generic: Зүүн Европын цаг,
+    Standard: Зүүн Европын стандарт цаг,
+    Daylight: Зүүн Европын зуны цаг
+  },
+  Eire: {
+    Generic: Ирланд-н цаг,
+    Standard: Гринвичийн цаг,
+    Daylight: Ирландын стандарт цаг
+  },
+  Asia/Istanbul: {
+    Generic: Турк-н цаг,
+    Standard: Турк-н стандарт цаг,
+    Daylight: Турк-н зуны цаг
+  },
+  Turkey: {
+    Generic: Турк-н цаг,
+    Standard: Турк-н стандарт цаг,
+    Daylight: Турк-н зуны цаг
+  },
+  Europe/Kyiv: {
+    Generic: Зүүн Европын цаг,
+    Standard: Зүүн Европын стандарт цаг,
+    Daylight: Зүүн Европын зуны цаг
+  },
+  Portugal: {
+    Generic: Баруун Европын цаг,
+    Standard: Баруун Европын стандарт цаг,
+    Daylight: Баруун Европын зуны цаг
+  },
+  Europe/Belfast: {
+    Generic: Их Британи-н цаг,
+    Standard: Гринвичийн цаг,
+    Daylight: Британийн зуны цаг
+  },
+  GB: {
+    Generic: Их Британи-н цаг,
+    Standard: Гринвичийн цаг,
+    Daylight: Британийн зуны цаг
+  },
+  GB-Eire: {
+    Generic: Их Британи-н цаг,
+    Standard: Гринвичийн цаг,
+    Daylight: Британийн зуны цаг
+  },
+  W-SU: {
+    Generic: Москва-н цаг,
+    Standard: Москва-н стандарт цаг,
+    Daylight: Москва-н зуны цаг
+  },
+  CET: {
+    Generic: Төв Европын цаг,
+    Standard: Төв Европын стандарт цаг,
+    Daylight: Төв Европын зуны цаг
+  },
+  Poland: {
+    Generic: Төв Европын цаг,
+    Standard: Төв Европын стандарт цаг,
+    Daylight: Төв Европын зуны цаг
+  },
+  Antarctica/South_Pole: {
+    Generic: Шинэ Зеландын цаг,
+    Standard: Шинэ Зеландын стандарт цаг,
+    Daylight: Шинэ Зеландын зуны цаг
+  },
+  NZ: {
+    Generic: Шинэ Зеландын цаг,
+    Standard: Шинэ Зеландын стандарт цаг,
+    Daylight: Шинэ Зеландын зуны цаг
+  },
+  NZ-CHAT: {
+    Generic: Чатемын цаг,
+    Standard: Чатемын стандарт цаг,
+    Daylight: Чатемын зуны цаг
+  },
+  Chile/EasterIsland: {
+    Generic: Зүүн Исландын цаг,
+    Standard: Зүүн Исландын стандарт цаг,
+    Daylight: Зүүн Исландын зуны цаг
+  },
+  Pacific/Pohnpei: {
+    Generic: Понапегийн цаг,
+    Standard: Понапегийн цаг,
+    Daylight: Понапегийн цаг
+  },
+  US/Hawaii: {
+    Generic: Хавай-Алеутын цаг,
+    Standard: Хавай-Алеутын стандарт цаг,
+    Daylight: Хавай-Алеутын зуны цаг
+  },
+  Pacific/Kanton: {
+    Generic: Феникс арлын цаг,
+    Standard: Феникс арлын цаг,
+    Daylight: Феникс арлын цаг
+  },
+  Kwajalein: {
+    Generic: Маршаллын арлуудын цаг,
+    Standard: Маршаллын арлуудын цаг,
+    Daylight: Маршаллын арлуудын цаг
+  },
+  Pacific/Samoa: {
+    Generic: Самоагийн цаг,
+    Standard: Самоагийн стандарт цаг,
+    Daylight: Самоагийн зуны цаг
+  },
+  US/Samoa: {
+    Generic: Самоагийн цаг,
+    Standard: Самоагийн стандарт цаг,
+    Daylight: Самоагийн зуны цаг
+  },
+  Pacific/Chuuk: {
+    Generic: Чүүкийн цаг,
+    Standard: Чүүкийн цаг,
+    Daylight: Чүүкийн цаг
+  },
+  Pacific/Yap: {
+    Generic: Чүүкийн цаг,
+    Standard: Чүүкийн цаг,
+    Daylight: Чүүкийн цаг
+  },
+  America/Fort_Wayne: {
+    Generic: Зүүн эргийн цаг,
+    Standard: Зүүн эргийн стандарт цаг,
+    Daylight: Зүүн эргийн зуны цаг
+  },
+  Antarctica/Troll: {
+    Generic: Гринвичийн цаг,
+    Standard: Гринвичийн цаг,
+    Daylight: Гринвичийн цаг
   }
-]
+}

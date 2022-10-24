@@ -1,4762 +1,2977 @@
-﻿[
-  {
-    Key: Africa/Abidjan,
-    Value: {
-      Generic: گرین وچ مین ٹائم,
-      Standard: گرین وچ مین ٹائم,
-      Daylight: گرین وچ مین ٹائم
-    }
-  },
-  {
-    Key: Africa/Accra,
-    Value: {
-      Generic: گرین وچ مین ٹائم,
-      Standard: گرین وچ مین ٹائم,
-      Daylight: گرین وچ مین ٹائم
-    }
-  },
-  {
-    Key: Africa/Addis_Ababa,
-    Value: {
-      Generic: مشرقی افریقہ ٹائم,
-      Standard: مشرقی افریقہ ٹائم,
-      Daylight: مشرقی افریقہ ٹائم
-    }
-  },
-  {
-    Key: Africa/Algiers,
-    Value: {
-      Generic: وسطی یورپ کا وقت,
-      Standard: وسطی یورپ کا معیاری وقت,
-      Daylight: وسطی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Africa/Asmara,
-    Value: {
-      Generic: مشرقی افریقہ ٹائم,
-      Standard: مشرقی افریقہ ٹائم,
-      Daylight: مشرقی افریقہ ٹائم
-    }
-  },
-  {
-    Key: Africa/Asmera,
-    Value: {
-      Generic: مشرقی افریقہ ٹائم,
-      Standard: مشرقی افریقہ ٹائم,
-      Daylight: مشرقی افریقہ ٹائم
-    }
-  },
-  {
-    Key: Africa/Bamako,
-    Value: {
-      Generic: گرین وچ مین ٹائم,
-      Standard: گرین وچ مین ٹائم,
-      Daylight: گرین وچ مین ٹائم
-    }
-  },
-  {
-    Key: Africa/Bangui,
-    Value: {
-      Generic: مغربی افریقہ ٹائم,
-      Standard: مغربی افریقہ سٹینڈرڈ ٹائم,
-      Daylight: مغربی افریقہ سمر ٹائم
-    }
-  },
-  {
-    Key: Africa/Banjul,
-    Value: {
-      Generic: گرین وچ مین ٹائم,
-      Standard: گرین وچ مین ٹائم,
-      Daylight: گرین وچ مین ٹائم
-    }
-  },
-  {
-    Key: Africa/Bissau,
-    Value: {
-      Generic: گرین وچ مین ٹائم,
-      Standard: گرین وچ مین ٹائم,
-      Daylight: گرین وچ مین ٹائم
-    }
-  },
-  {
-    Key: Africa/Blantyre,
-    Value: {
-      Generic: وسطی افریقہ ٹائم,
-      Standard: وسطی افریقہ ٹائم,
-      Daylight: وسطی افریقہ ٹائم
-    }
-  },
-  {
-    Key: Africa/Brazzaville,
-    Value: {
-      Generic: مغربی افریقہ ٹائم,
-      Standard: مغربی افریقہ سٹینڈرڈ ٹائم,
-      Daylight: مغربی افریقہ سمر ٹائم
-    }
-  },
-  {
-    Key: Africa/Bujumbura,
-    Value: {
-      Generic: وسطی افریقہ ٹائم,
-      Standard: وسطی افریقہ ٹائم,
-      Daylight: وسطی افریقہ ٹائم
-    }
-  },
-  {
-    Key: Africa/Cairo,
-    Value: {
-      Generic: مشرقی یورپ کا وقت,
-      Standard: مشرقی یورپ کا معیاری وقت,
-      Daylight: مشرقی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Africa/Casablanca,
-    Value: {
-      Generic: مغربی یورپ کا وقت,
-      Standard: مغربی یورپ کا معیاری وقت,
-      Daylight: مغربی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Africa/Ceuta,
-    Value: {
-      Generic: وسطی یورپ کا وقت,
-      Standard: وسطی یورپ کا معیاری وقت,
-      Daylight: وسطی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Africa/Conakry,
-    Value: {
-      Generic: گرین وچ مین ٹائم,
-      Standard: گرین وچ مین ٹائم,
-      Daylight: گرین وچ مین ٹائم
-    }
-  },
-  {
-    Key: Africa/Dakar,
-    Value: {
-      Generic: گرین وچ مین ٹائم,
-      Standard: گرین وچ مین ٹائم,
-      Daylight: گرین وچ مین ٹائم
-    }
-  },
-  {
-    Key: Africa/Dar_es_Salaam,
-    Value: {
-      Generic: مشرقی افریقہ ٹائم,
-      Standard: مشرقی افریقہ ٹائم,
-      Daylight: مشرقی افریقہ ٹائم
-    }
-  },
-  {
-    Key: Africa/Djibouti,
-    Value: {
-      Generic: مشرقی افریقہ ٹائم,
-      Standard: مشرقی افریقہ ٹائم,
-      Daylight: مشرقی افریقہ ٹائم
-    }
-  },
-  {
-    Key: Africa/Douala,
-    Value: {
-      Generic: مغربی افریقہ ٹائم,
-      Standard: مغربی افریقہ سٹینڈرڈ ٹائم,
-      Daylight: مغربی افریقہ سمر ٹائم
-    }
-  },
-  {
-    Key: Africa/El_Aaiun,
-    Value: {
-      Generic: مغربی یورپ کا وقت,
-      Standard: مغربی یورپ کا معیاری وقت,
-      Daylight: مغربی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Africa/Freetown,
-    Value: {
-      Generic: گرین وچ مین ٹائم,
-      Standard: گرین وچ مین ٹائم,
-      Daylight: گرین وچ مین ٹائم
-    }
-  },
-  {
-    Key: Africa/Gaborone,
-    Value: {
-      Generic: وسطی افریقہ ٹائم,
-      Standard: وسطی افریقہ ٹائم,
-      Daylight: وسطی افریقہ ٹائم
-    }
-  },
-  {
-    Key: Africa/Harare,
-    Value: {
-      Generic: وسطی افریقہ ٹائم,
-      Standard: وسطی افریقہ ٹائم,
-      Daylight: وسطی افریقہ ٹائم
-    }
-  },
-  {
-    Key: Africa/Johannesburg,
-    Value: {
-      Generic: جنوبی افریقہ سٹینڈرڈ ٹائم,
-      Standard: جنوبی افریقہ سٹینڈرڈ ٹائم,
-      Daylight: جنوبی افریقہ سٹینڈرڈ ٹائم
-    }
-  },
-  {
-    Key: Africa/Juba,
-    Value: {
-      Generic: وسطی افریقہ ٹائم,
-      Standard: وسطی افریقہ ٹائم,
-      Daylight: وسطی افریقہ ٹائم
-    }
-  },
-  {
-    Key: Africa/Kampala,
-    Value: {
-      Generic: مشرقی افریقہ ٹائم,
-      Standard: مشرقی افریقہ ٹائم,
-      Daylight: مشرقی افریقہ ٹائم
-    }
-  },
-  {
-    Key: Africa/Khartoum,
-    Value: {
-      Generic: وسطی افریقہ ٹائم,
-      Standard: وسطی افریقہ ٹائم,
-      Daylight: وسطی افریقہ ٹائم
-    }
-  },
-  {
-    Key: Africa/Kigali,
-    Value: {
-      Generic: وسطی افریقہ ٹائم,
-      Standard: وسطی افریقہ ٹائم,
-      Daylight: وسطی افریقہ ٹائم
-    }
-  },
-  {
-    Key: Africa/Kinshasa,
-    Value: {
-      Generic: مغربی افریقہ ٹائم,
-      Standard: مغربی افریقہ سٹینڈرڈ ٹائم,
-      Daylight: مغربی افریقہ سمر ٹائم
-    }
-  },
-  {
-    Key: Africa/Lagos,
-    Value: {
-      Generic: مغربی افریقہ ٹائم,
-      Standard: مغربی افریقہ سٹینڈرڈ ٹائم,
-      Daylight: مغربی افریقہ سمر ٹائم
-    }
-  },
-  {
-    Key: Africa/Libreville,
-    Value: {
-      Generic: مغربی افریقہ ٹائم,
-      Standard: مغربی افریقہ سٹینڈرڈ ٹائم,
-      Daylight: مغربی افریقہ سمر ٹائم
-    }
-  },
-  {
-    Key: Africa/Lome,
-    Value: {
-      Generic: گرین وچ مین ٹائم,
-      Standard: گرین وچ مین ٹائم,
-      Daylight: گرین وچ مین ٹائم
-    }
-  },
-  {
-    Key: Africa/Luanda,
-    Value: {
-      Generic: مغربی افریقہ ٹائم,
-      Standard: مغربی افریقہ سٹینڈرڈ ٹائم,
-      Daylight: مغربی افریقہ سمر ٹائم
-    }
-  },
-  {
-    Key: Africa/Lubumbashi,
-    Value: {
-      Generic: وسطی افریقہ ٹائم,
-      Standard: وسطی افریقہ ٹائم,
-      Daylight: وسطی افریقہ ٹائم
-    }
-  },
-  {
-    Key: Africa/Lusaka,
-    Value: {
-      Generic: وسطی افریقہ ٹائم,
-      Standard: وسطی افریقہ ٹائم,
-      Daylight: وسطی افریقہ ٹائم
-    }
-  },
-  {
-    Key: Africa/Malabo,
-    Value: {
-      Generic: مغربی افریقہ ٹائم,
-      Standard: مغربی افریقہ سٹینڈرڈ ٹائم,
-      Daylight: مغربی افریقہ سمر ٹائم
-    }
-  },
-  {
-    Key: Africa/Maputo,
-    Value: {
-      Generic: وسطی افریقہ ٹائم,
-      Standard: وسطی افریقہ ٹائم,
-      Daylight: وسطی افریقہ ٹائم
-    }
-  },
-  {
-    Key: Africa/Maseru,
-    Value: {
-      Generic: جنوبی افریقہ سٹینڈرڈ ٹائم,
-      Standard: جنوبی افریقہ سٹینڈرڈ ٹائم,
-      Daylight: جنوبی افریقہ سٹینڈرڈ ٹائم
-    }
-  },
-  {
-    Key: Africa/Mbabane,
-    Value: {
-      Generic: جنوبی افریقہ سٹینڈرڈ ٹائم,
-      Standard: جنوبی افریقہ سٹینڈرڈ ٹائم,
-      Daylight: جنوبی افریقہ سٹینڈرڈ ٹائم
-    }
-  },
-  {
-    Key: Africa/Mogadishu,
-    Value: {
-      Generic: مشرقی افریقہ ٹائم,
-      Standard: مشرقی افریقہ ٹائم,
-      Daylight: مشرقی افریقہ ٹائم
-    }
-  },
-  {
-    Key: Africa/Monrovia,
-    Value: {
-      Generic: گرین وچ مین ٹائم,
-      Standard: گرین وچ مین ٹائم,
-      Daylight: گرین وچ مین ٹائم
-    }
-  },
-  {
-    Key: Africa/Nairobi,
-    Value: {
-      Generic: مشرقی افریقہ ٹائم,
-      Standard: مشرقی افریقہ ٹائم,
-      Daylight: مشرقی افریقہ ٹائم
-    }
-  },
-  {
-    Key: Africa/Ndjamena,
-    Value: {
-      Generic: مغربی افریقہ ٹائم,
-      Standard: مغربی افریقہ سٹینڈرڈ ٹائم,
-      Daylight: مغربی افریقہ سمر ٹائم
-    }
-  },
-  {
-    Key: Africa/Niamey,
-    Value: {
-      Generic: مغربی افریقہ ٹائم,
-      Standard: مغربی افریقہ سٹینڈرڈ ٹائم,
-      Daylight: مغربی افریقہ سمر ٹائم
-    }
-  },
-  {
-    Key: Africa/Nouakchott,
-    Value: {
-      Generic: گرین وچ مین ٹائم,
-      Standard: گرین وچ مین ٹائم,
-      Daylight: گرین وچ مین ٹائم
-    }
-  },
-  {
-    Key: Africa/Ouagadougou,
-    Value: {
-      Generic: گرین وچ مین ٹائم,
-      Standard: گرین وچ مین ٹائم,
-      Daylight: گرین وچ مین ٹائم
-    }
-  },
-  {
-    Key: Africa/Porto-Novo,
-    Value: {
-      Generic: مغربی افریقہ ٹائم,
-      Standard: مغربی افریقہ سٹینڈرڈ ٹائم,
-      Daylight: مغربی افریقہ سمر ٹائم
-    }
-  },
-  {
-    Key: Africa/Sao_Tome,
-    Value: {
-      Generic: گرین وچ مین ٹائم,
-      Standard: گرین وچ مین ٹائم,
-      Daylight: گرین وچ مین ٹائم
-    }
-  },
-  {
-    Key: Africa/Timbuktu,
-    Value: {
-      Generic: گرین وچ مین ٹائم,
-      Standard: گرین وچ مین ٹائم,
-      Daylight: گرین وچ مین ٹائم
-    }
-  },
-  {
-    Key: Africa/Tripoli,
-    Value: {
-      Generic: مشرقی یورپ کا وقت,
-      Standard: مشرقی یورپ کا معیاری وقت,
-      Daylight: مشرقی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Africa/Tunis,
-    Value: {
-      Generic: وسطی یورپ کا وقت,
-      Standard: وسطی یورپ کا معیاری وقت,
-      Daylight: وسطی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Africa/Windhoek,
-    Value: {
-      Generic: وسطی افریقہ ٹائم,
-      Standard: وسطی افریقہ ٹائم,
-      Daylight: وسطی افریقہ ٹائم
-    }
-  },
-  {
-    Key: America/Adak,
-    Value: {
-      Generic: ہوائی الیوٹیئن ٹائم,
-      Standard: ہوائی الیوٹیئن اسٹینڈرڈ ٹائم,
-      Daylight: ہوائی الیوٹیئن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Anchorage,
-    Value: {
-      Generic: الاسکا ٹائم,
-      Standard: الاسکا اسٹینڈرڈ ٹائم,
-      Daylight: الاسکا ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Anguilla,
-    Value: {
-      Generic: اٹلانٹک ٹائم,
-      Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
-      Daylight: اٹلانٹک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Antigua,
-    Value: {
-      Generic: اٹلانٹک ٹائم,
-      Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
-      Daylight: اٹلانٹک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Araguaina,
-    Value: {
-      Generic: برازیلیا ٹائم,
-      Standard: برازیلیا سٹینڈرڈ ٹائم,
-      Daylight: برازیلیا سمر ٹائم
-    }
-  },
-  {
-    Key: America/Argentina/Buenos_Aires,
-    Value: {
-      Generic: ارجنٹینا کا وقت,
-      Standard: ارجنٹینا کا معیاری وقت,
-      Daylight: ارجنٹینا کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: America/Argentina/Catamarca,
-    Value: {
-      Generic: ارجنٹینا کا وقت,
-      Standard: ارجنٹینا کا معیاری وقت,
-      Daylight: ارجنٹینا کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: America/Argentina/ComodRivadavia,
-    Value: {
-      Generic: ارجنٹینا کا وقت,
-      Standard: ارجنٹینا کا معیاری وقت,
-      Daylight: ارجنٹینا کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: America/Argentina/Cordoba,
-    Value: {
-      Generic: ارجنٹینا کا وقت,
-      Standard: ارجنٹینا کا معیاری وقت,
-      Daylight: ارجنٹینا کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: America/Argentina/Jujuy,
-    Value: {
-      Generic: ارجنٹینا کا وقت,
-      Standard: ارجنٹینا کا معیاری وقت,
-      Daylight: ارجنٹینا کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: America/Argentina/La_Rioja,
-    Value: {
-      Generic: ارجنٹینا کا وقت,
-      Standard: ارجنٹینا کا معیاری وقت,
-      Daylight: ارجنٹینا کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: America/Argentina/Mendoza,
-    Value: {
-      Generic: ارجنٹینا کا وقت,
-      Standard: ارجنٹینا کا معیاری وقت,
-      Daylight: ارجنٹینا کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: America/Argentina/Rio_Gallegos,
-    Value: {
-      Generic: ارجنٹینا کا وقت,
-      Standard: ارجنٹینا کا معیاری وقت,
-      Daylight: ارجنٹینا کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: America/Argentina/Salta,
-    Value: {
-      Generic: ارجنٹینا کا وقت,
-      Standard: ارجنٹینا کا معیاری وقت,
-      Daylight: ارجنٹینا کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: America/Argentina/San_Juan,
-    Value: {
-      Generic: ارجنٹینا کا وقت,
-      Standard: ارجنٹینا کا معیاری وقت,
-      Daylight: ارجنٹینا کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: America/Argentina/San_Luis,
-    Value: {
-      Generic: ارجنٹینا کا وقت,
-      Standard: ارجنٹینا کا معیاری وقت,
-      Daylight: ارجنٹینا کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: America/Argentina/Tucuman,
-    Value: {
-      Generic: ارجنٹینا کا وقت,
-      Standard: ارجنٹینا کا معیاری وقت,
-      Daylight: ارجنٹینا کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: America/Argentina/Ushuaia,
-    Value: {
-      Generic: ارجنٹینا کا وقت,
-      Standard: ارجنٹینا کا معیاری وقت,
-      Daylight: ارجنٹینا کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: America/Aruba,
-    Value: {
-      Generic: اٹلانٹک ٹائم,
-      Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
-      Daylight: اٹلانٹک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Asuncion,
-    Value: {
-      Generic: پیراگوئے ٹائم,
-      Standard: پیراگوئے سٹینڈرڈ ٹائم,
-      Daylight: پیراگوئے سمر ٹائم
-    }
-  },
-  {
-    Key: America/Atikokan,
-    Value: {
-      Generic: ایسٹرن ٹائم,
-      Standard: ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Atka,
-    Value: {
-      Generic: ہوائی الیوٹیئن ٹائم,
-      Standard: ہوائی الیوٹیئن اسٹینڈرڈ ٹائم,
-      Daylight: ہوائی الیوٹیئن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Bahia,
-    Value: {
-      Generic: برازیلیا ٹائم,
-      Standard: برازیلیا سٹینڈرڈ ٹائم,
-      Daylight: برازیلیا سمر ٹائم
-    }
-  },
-  {
-    Key: America/Bahia_Banderas,
-    Value: {
-      Generic: سنٹرل ٹائم,
-      Standard: سنٹرل اسٹینڈرڈ ٹائم,
-      Daylight: سنٹرل ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Barbados,
-    Value: {
-      Generic: اٹلانٹک ٹائم,
-      Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
-      Daylight: اٹلانٹک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Belem,
-    Value: {
-      Generic: برازیلیا ٹائم,
-      Standard: برازیلیا سٹینڈرڈ ٹائم,
-      Daylight: برازیلیا سمر ٹائم
-    }
-  },
-  {
-    Key: America/Belize,
-    Value: {
-      Generic: سنٹرل ٹائم,
-      Standard: سنٹرل اسٹینڈرڈ ٹائم,
-      Daylight: سنٹرل ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Blanc-Sablon,
-    Value: {
-      Generic: اٹلانٹک ٹائم,
-      Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
-      Daylight: اٹلانٹک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Boa_Vista,
-    Value: {
-      Generic: ایمیزون ٹائم,
-      Standard: ایمیزون سٹینڈرڈ ٹائم,
-      Daylight: ایمیزون سمر ٹائم
-    }
-  },
-  {
-    Key: America/Bogota,
-    Value: {
-      Generic: کولمبیا ٹائم,
-      Standard: کولمبیا سٹینڈرڈ ٹائم,
-      Daylight: کولمبیا سمر ٹائم
-    }
-  },
-  {
-    Key: America/Boise,
-    Value: {
-      Generic: ماؤنٹین ٹائم,
-      Standard: ماؤنٹین اسٹینڈرڈ ٹائم,
-      Daylight: ماؤنٹین ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Buenos_Aires,
-    Value: {
-      Generic: ارجنٹینا کا وقت,
-      Standard: ارجنٹینا کا معیاری وقت,
-      Daylight: ارجنٹینا کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: America/Cambridge_Bay,
-    Value: {
-      Generic: ماؤنٹین ٹائم,
-      Standard: ماؤنٹین اسٹینڈرڈ ٹائم,
-      Daylight: ماؤنٹین ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Campo_Grande,
-    Value: {
-      Generic: ایمیزون ٹائم,
-      Standard: ایمیزون سٹینڈرڈ ٹائم,
-      Daylight: ایمیزون سمر ٹائم
-    }
-  },
-  {
-    Key: America/Cancun,
-    Value: {
-      Generic: ایسٹرن ٹائم,
-      Standard: ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Caracas,
-    Value: {
-      Generic: وینزوئیلا ٹائم,
-      Standard: وینزوئیلا ٹائم,
-      Daylight: وینزوئیلا ٹائم
-    }
-  },
-  {
-    Key: America/Catamarca,
-    Value: {
-      Generic: ارجنٹینا کا وقت,
-      Standard: ارجنٹینا کا معیاری وقت,
-      Daylight: ارجنٹینا کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: America/Cayenne,
-    Value: {
-      Generic: فرینچ گیانا ٹائم,
-      Standard: فرینچ گیانا ٹائم,
-      Daylight: فرینچ گیانا ٹائم
-    }
-  },
-  {
-    Key: America/Cayman,
-    Value: {
-      Generic: ایسٹرن ٹائم,
-      Standard: ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Chicago,
-    Value: {
-      Generic: سنٹرل ٹائم,
-      Standard: سنٹرل اسٹینڈرڈ ٹائم,
-      Daylight: سنٹرل ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Chihuahua,
-    Value: {
-      Generic: میکسیکن پیسفک ٹائم,
-      Standard: میکسیکن پیسفک اسٹینڈرڈ ٹائم,
-      Daylight: میکسیکن پیسفک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Coral_Harbour,
-    Value: {
-      Generic: ایسٹرن ٹائم,
-      Standard: ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Cordoba,
-    Value: {
-      Generic: ارجنٹینا کا وقت,
-      Standard: ارجنٹینا کا معیاری وقت,
-      Daylight: ارجنٹینا کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: America/Costa_Rica,
-    Value: {
-      Generic: سنٹرل ٹائم,
-      Standard: سنٹرل اسٹینڈرڈ ٹائم,
-      Daylight: سنٹرل ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Creston,
-    Value: {
-      Generic: ماؤنٹین ٹائم,
-      Standard: ماؤنٹین اسٹینڈرڈ ٹائم,
-      Daylight: ماؤنٹین ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Cuiaba,
-    Value: {
-      Generic: ایمیزون ٹائم,
-      Standard: ایمیزون سٹینڈرڈ ٹائم,
-      Daylight: ایمیزون سمر ٹائم
-    }
-  },
-  {
-    Key: America/Curacao,
-    Value: {
-      Generic: اٹلانٹک ٹائم,
-      Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
-      Daylight: اٹلانٹک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Danmarkshavn,
-    Value: {
-      Generic: گرین وچ مین ٹائم,
-      Standard: گرین وچ مین ٹائم,
-      Daylight: گرین وچ مین ٹائم
-    }
-  },
-  {
-    Key: America/Dawson,
-    Value: {
-      Generic: یوکون ٹائم,
-      Standard: یوکون ٹائم,
-      Daylight: یوکون ٹائم
-    }
-  },
-  {
-    Key: America/Dawson_Creek,
-    Value: {
-      Generic: ماؤنٹین ٹائم,
-      Standard: ماؤنٹین اسٹینڈرڈ ٹائم,
-      Daylight: ماؤنٹین ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Denver,
-    Value: {
-      Generic: ماؤنٹین ٹائم,
-      Standard: ماؤنٹین اسٹینڈرڈ ٹائم,
-      Daylight: ماؤنٹین ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Detroit,
-    Value: {
-      Generic: ایسٹرن ٹائم,
-      Standard: ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Dominica,
-    Value: {
-      Generic: اٹلانٹک ٹائم,
-      Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
-      Daylight: اٹلانٹک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Edmonton,
-    Value: {
-      Generic: ماؤنٹین ٹائم,
-      Standard: ماؤنٹین اسٹینڈرڈ ٹائم,
-      Daylight: ماؤنٹین ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Eirunepe,
-    Value: {
-      Generic: برازیل وقت,
-      Standard: برازیل معیاری وقت,
-      Daylight: برازیل دن کا وقت
-    }
-  },
-  {
-    Key: America/El_Salvador,
-    Value: {
-      Generic: سنٹرل ٹائم,
-      Standard: سنٹرل اسٹینڈرڈ ٹائم,
-      Daylight: سنٹرل ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Ensenada,
-    Value: {
-      Generic: پیسفک ٹائم,
-      Standard: پیسفک اسٹینڈرڈ ٹائم,
-      Daylight: پیسفک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Fort_Nelson,
-    Value: {
-      Generic: ماؤنٹین ٹائم,
-      Standard: ماؤنٹین اسٹینڈرڈ ٹائم,
-      Daylight: ماؤنٹین ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Fort_Wayne,
-    Value: {
-      Generic: ایسٹرن ٹائم,
-      Standard: ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Fortaleza,
-    Value: {
-      Generic: برازیلیا ٹائم,
-      Standard: برازیلیا سٹینڈرڈ ٹائم,
-      Daylight: برازیلیا سمر ٹائم
-    }
-  },
-  {
-    Key: America/Glace_Bay,
-    Value: {
-      Generic: اٹلانٹک ٹائم,
-      Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
-      Daylight: اٹلانٹک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Godthab,
-    Value: {
-      Generic: مغربی گرین لینڈ ٹائم,
-      Standard: مغربی گرین لینڈ اسٹینڈرڈ ٹائم,
-      Daylight: مغربی گرین لینڈ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: America/Goose_Bay,
-    Value: {
-      Generic: اٹلانٹک ٹائم,
-      Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
-      Daylight: اٹلانٹک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Grand_Turk,
-    Value: {
-      Generic: ایسٹرن ٹائم,
-      Standard: ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Grenada,
-    Value: {
-      Generic: اٹلانٹک ٹائم,
-      Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
-      Daylight: اٹلانٹک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Guadeloupe,
-    Value: {
-      Generic: اٹلانٹک ٹائم,
-      Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
-      Daylight: اٹلانٹک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Guatemala,
-    Value: {
-      Generic: سنٹرل ٹائم,
-      Standard: سنٹرل اسٹینڈرڈ ٹائم,
-      Daylight: سنٹرل ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Guayaquil,
-    Value: {
-      Generic: ایکواڈور ٹائم,
-      Standard: ایکواڈور ٹائم,
-      Daylight: ایکواڈور ٹائم
-    }
-  },
-  {
-    Key: America/Guyana,
-    Value: {
-      Generic: گیانا ٹائم,
-      Standard: گیانا ٹائم,
-      Daylight: گیانا ٹائم
-    }
-  },
-  {
-    Key: America/Halifax,
-    Value: {
-      Generic: اٹلانٹک ٹائم,
-      Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
-      Daylight: اٹلانٹک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Havana,
-    Value: {
-      Generic: کیوبا ٹائم,
-      Standard: کیوبا اسٹینڈرڈ ٹائم,
-      Daylight: کیوبا ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Hermosillo,
-    Value: {
-      Generic: میکسیکن پیسفک ٹائم,
-      Standard: میکسیکن پیسفک اسٹینڈرڈ ٹائم,
-      Daylight: میکسیکن پیسفک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Indiana/Indianapolis,
-    Value: {
-      Generic: ایسٹرن ٹائم,
-      Standard: ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Indiana/Knox,
-    Value: {
-      Generic: سنٹرل ٹائم,
-      Standard: سنٹرل اسٹینڈرڈ ٹائم,
-      Daylight: سنٹرل ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Indiana/Marengo,
-    Value: {
-      Generic: ایسٹرن ٹائم,
-      Standard: ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Indiana/Petersburg,
-    Value: {
-      Generic: ایسٹرن ٹائم,
-      Standard: ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Indiana/Tell_City,
-    Value: {
-      Generic: سنٹرل ٹائم,
-      Standard: سنٹرل اسٹینڈرڈ ٹائم,
-      Daylight: سنٹرل ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Indiana/Vevay,
-    Value: {
-      Generic: ایسٹرن ٹائم,
-      Standard: ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Indiana/Vincennes,
-    Value: {
-      Generic: ایسٹرن ٹائم,
-      Standard: ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Indiana/Winamac,
-    Value: {
-      Generic: ایسٹرن ٹائم,
-      Standard: ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Indianapolis,
-    Value: {
-      Generic: ایسٹرن ٹائم,
-      Standard: ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Inuvik,
-    Value: {
-      Generic: ماؤنٹین ٹائم,
-      Standard: ماؤنٹین اسٹینڈرڈ ٹائم,
-      Daylight: ماؤنٹین ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Iqaluit,
-    Value: {
-      Generic: ایسٹرن ٹائم,
-      Standard: ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Jamaica,
-    Value: {
-      Generic: ایسٹرن ٹائم,
-      Standard: ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Jujuy,
-    Value: {
-      Generic: ارجنٹینا کا وقت,
-      Standard: ارجنٹینا کا معیاری وقت,
-      Daylight: ارجنٹینا کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: America/Juneau,
-    Value: {
-      Generic: الاسکا ٹائم,
-      Standard: الاسکا اسٹینڈرڈ ٹائم,
-      Daylight: الاسکا ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Kentucky/Louisville,
-    Value: {
-      Generic: ایسٹرن ٹائم,
-      Standard: ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Kentucky/Monticello,
-    Value: {
-      Generic: ایسٹرن ٹائم,
-      Standard: ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Knox_IN,
-    Value: {
-      Generic: سنٹرل ٹائم,
-      Standard: سنٹرل اسٹینڈرڈ ٹائم,
-      Daylight: سنٹرل ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Kralendijk,
-    Value: {
-      Generic: اٹلانٹک ٹائم,
-      Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
-      Daylight: اٹلانٹک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/La_Paz,
-    Value: {
-      Generic: بولیویا ٹائم,
-      Standard: بولیویا ٹائم,
-      Daylight: بولیویا ٹائم
-    }
-  },
-  {
-    Key: America/Lima,
-    Value: {
-      Generic: پیرو ٹائم,
-      Standard: پیرو سٹینڈرڈ ٹائم,
-      Daylight: پیرو سمر ٹائم
-    }
-  },
-  {
-    Key: America/Los_Angeles,
-    Value: {
-      Generic: پیسفک ٹائم,
-      Standard: پیسفک اسٹینڈرڈ ٹائم,
-      Daylight: پیسفک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Louisville,
-    Value: {
-      Generic: ایسٹرن ٹائم,
-      Standard: ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Lower_Princes,
-    Value: {
-      Generic: اٹلانٹک ٹائم,
-      Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
-      Daylight: اٹلانٹک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Maceio,
-    Value: {
-      Generic: برازیلیا ٹائم,
-      Standard: برازیلیا سٹینڈرڈ ٹائم,
-      Daylight: برازیلیا سمر ٹائم
-    }
-  },
-  {
-    Key: America/Managua,
-    Value: {
-      Generic: سنٹرل ٹائم,
-      Standard: سنٹرل اسٹینڈرڈ ٹائم,
-      Daylight: سنٹرل ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Manaus,
-    Value: {
-      Generic: ایمیزون ٹائم,
-      Standard: ایمیزون سٹینڈرڈ ٹائم,
-      Daylight: ایمیزون سمر ٹائم
-    }
-  },
-  {
-    Key: America/Marigot,
-    Value: {
-      Generic: اٹلانٹک ٹائم,
-      Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
-      Daylight: اٹلانٹک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Martinique,
-    Value: {
-      Generic: اٹلانٹک ٹائم,
-      Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
-      Daylight: اٹلانٹک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Matamoros,
-    Value: {
-      Generic: سنٹرل ٹائم,
-      Standard: سنٹرل اسٹینڈرڈ ٹائم,
-      Daylight: سنٹرل ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Mazatlan,
-    Value: {
-      Generic: میکسیکن پیسفک ٹائم,
-      Standard: میکسیکن پیسفک اسٹینڈرڈ ٹائم,
-      Daylight: میکسیکن پیسفک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Mendoza,
-    Value: {
-      Generic: ارجنٹینا کا وقت,
-      Standard: ارجنٹینا کا معیاری وقت,
-      Daylight: ارجنٹینا کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: America/Menominee,
-    Value: {
-      Generic: سنٹرل ٹائم,
-      Standard: سنٹرل اسٹینڈرڈ ٹائم,
-      Daylight: سنٹرل ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Merida,
-    Value: {
-      Generic: سنٹرل ٹائم,
-      Standard: سنٹرل اسٹینڈرڈ ٹائم,
-      Daylight: سنٹرل ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Metlakatla,
-    Value: {
-      Generic: الاسکا ٹائم,
-      Standard: الاسکا اسٹینڈرڈ ٹائم,
-      Daylight: الاسکا ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Mexico_City,
-    Value: {
-      Generic: سنٹرل ٹائم,
-      Standard: سنٹرل اسٹینڈرڈ ٹائم,
-      Daylight: سنٹرل ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Miquelon,
-    Value: {
-      Generic: سینٹ پیئر اور مکلیئون ٹائم,
-      Standard: سینٹ پیئر اور مکلیئون اسٹینڈرڈ ٹائم,
-      Daylight: سینٹ پیئر اور مکلیئون ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Moncton,
-    Value: {
-      Generic: اٹلانٹک ٹائم,
-      Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
-      Daylight: اٹلانٹک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Monterrey,
-    Value: {
-      Generic: سنٹرل ٹائم,
-      Standard: سنٹرل اسٹینڈرڈ ٹائم,
-      Daylight: سنٹرل ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Montevideo,
-    Value: {
-      Generic: یوروگوئے ٹائم,
-      Standard: یوروگوئے سٹینڈرڈ ٹائم,
-      Daylight: یوروگوئے سمر ٹائم
-    }
-  },
-  {
-    Key: America/Montreal,
-    Value: {
-      Generic: ایسٹرن ٹائم,
-      Standard: ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Montserrat,
-    Value: {
-      Generic: اٹلانٹک ٹائم,
-      Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
-      Daylight: اٹلانٹک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Nassau,
-    Value: {
-      Generic: ایسٹرن ٹائم,
-      Standard: ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/New_York,
-    Value: {
-      Generic: ایسٹرن ٹائم,
-      Standard: ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Nipigon,
-    Value: {
-      Generic: ایسٹرن ٹائم,
-      Standard: ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Nome,
-    Value: {
-      Generic: الاسکا ٹائم,
-      Standard: الاسکا اسٹینڈرڈ ٹائم,
-      Daylight: الاسکا ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Noronha,
-    Value: {
-      Generic: فرنانڈو ڈی نورنہا ٹائم,
-      Standard: فرنانڈو ڈی نورنہا سٹینڈرڈ ٹائم,
-      Daylight: فرنانڈو ڈی نورونہا سمر ٹائم
-    }
-  },
-  {
-    Key: America/North_Dakota/Beulah,
-    Value: {
-      Generic: سنٹرل ٹائم,
-      Standard: سنٹرل اسٹینڈرڈ ٹائم,
-      Daylight: سنٹرل ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/North_Dakota/Center,
-    Value: {
-      Generic: سنٹرل ٹائم,
-      Standard: سنٹرل اسٹینڈرڈ ٹائم,
-      Daylight: سنٹرل ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/North_Dakota/New_Salem,
-    Value: {
-      Generic: سنٹرل ٹائم,
-      Standard: سنٹرل اسٹینڈرڈ ٹائم,
-      Daylight: سنٹرل ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Nuuk,
-    Value: {
-      Generic: مغربی گرین لینڈ ٹائم,
-      Standard: مغربی گرین لینڈ اسٹینڈرڈ ٹائم,
-      Daylight: مغربی گرین لینڈ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: America/Ojinaga,
-    Value: {
-      Generic: ماؤنٹین ٹائم,
-      Standard: ماؤنٹین اسٹینڈرڈ ٹائم,
-      Daylight: ماؤنٹین ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Panama,
-    Value: {
-      Generic: ایسٹرن ٹائم,
-      Standard: ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Pangnirtung,
-    Value: {
-      Generic: ایسٹرن ٹائم,
-      Standard: ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Paramaribo,
-    Value: {
-      Generic: سورینام ٹائم,
-      Standard: سورینام ٹائم,
-      Daylight: سورینام ٹائم
-    }
-  },
-  {
-    Key: America/Phoenix,
-    Value: {
-      Generic: ماؤنٹین ٹائم,
-      Standard: ماؤنٹین اسٹینڈرڈ ٹائم,
-      Daylight: ماؤنٹین ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Port_of_Spain,
-    Value: {
-      Generic: اٹلانٹک ٹائم,
-      Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
-      Daylight: اٹلانٹک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Port-au-Prince,
-    Value: {
-      Generic: ایسٹرن ٹائم,
-      Standard: ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Porto_Acre,
-    Value: {
-      Generic: برازیل وقت,
-      Standard: برازیل معیاری وقت,
-      Daylight: برازیل دن کا وقت
-    }
-  },
-  {
-    Key: America/Porto_Velho,
-    Value: {
-      Generic: ایمیزون ٹائم,
-      Standard: ایمیزون سٹینڈرڈ ٹائم,
-      Daylight: ایمیزون سمر ٹائم
-    }
-  },
-  {
-    Key: America/Puerto_Rico,
-    Value: {
-      Generic: اٹلانٹک ٹائم,
-      Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
-      Daylight: اٹلانٹک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Punta_Arenas,
-    Value: {
-      Generic: چلی ٹائم,
-      Standard: چلی سٹینڈرڈ ٹائم,
-      Daylight: چلی سمر ٹائم
-    }
-  },
-  {
-    Key: America/Rainy_River,
-    Value: {
-      Generic: سنٹرل ٹائم,
-      Standard: سنٹرل اسٹینڈرڈ ٹائم,
-      Daylight: سنٹرل ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Rankin_Inlet,
-    Value: {
-      Generic: سنٹرل ٹائم,
-      Standard: سنٹرل اسٹینڈرڈ ٹائم,
-      Daylight: سنٹرل ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Recife,
-    Value: {
-      Generic: برازیلیا ٹائم,
-      Standard: برازیلیا سٹینڈرڈ ٹائم,
-      Daylight: برازیلیا سمر ٹائم
-    }
-  },
-  {
-    Key: America/Regina,
-    Value: {
-      Generic: سنٹرل ٹائم,
-      Standard: سنٹرل اسٹینڈرڈ ٹائم,
-      Daylight: سنٹرل ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Resolute,
-    Value: {
-      Generic: سنٹرل ٹائم,
-      Standard: سنٹرل اسٹینڈرڈ ٹائم,
-      Daylight: سنٹرل ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Rio_Branco,
-    Value: {
-      Generic: برازیل وقت,
-      Standard: برازیل معیاری وقت,
-      Daylight: برازیل دن کا وقت
-    }
-  },
-  {
-    Key: America/Rosario,
-    Value: {
-      Generic: ارجنٹینا کا وقت,
-      Standard: ارجنٹینا کا معیاری وقت,
-      Daylight: ارجنٹینا کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: America/Santa_Isabel,
-    Value: {
-      Generic: شمال مغربی میکسیکو ٹائم,
-      Standard: شمال مغربی میکسیکو اسٹینڈرڈ ٹائم,
-      Daylight: شمال مغربی میکسیکو ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Santarem,
-    Value: {
-      Generic: برازیلیا ٹائم,
-      Standard: برازیلیا سٹینڈرڈ ٹائم,
-      Daylight: برازیلیا سمر ٹائم
-    }
-  },
-  {
-    Key: America/Santiago,
-    Value: {
-      Generic: چلی ٹائم,
-      Standard: چلی سٹینڈرڈ ٹائم,
-      Daylight: چلی سمر ٹائم
-    }
-  },
-  {
-    Key: America/Santo_Domingo,
-    Value: {
-      Generic: اٹلانٹک ٹائم,
-      Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
-      Daylight: اٹلانٹک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Sao_Paulo,
-    Value: {
-      Generic: برازیلیا ٹائم,
-      Standard: برازیلیا سٹینڈرڈ ٹائم,
-      Daylight: برازیلیا سمر ٹائم
-    }
-  },
-  {
-    Key: America/Scoresbysund,
-    Value: {
-      Generic: مشرقی گرین لینڈ ٹائم,
-      Standard: مشرقی گرین لینڈ اسٹینڈرڈ ٹائم,
-      Daylight: مشرقی گرین لینڈ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: America/Shiprock,
-    Value: {
-      Generic: ماؤنٹین ٹائم,
-      Standard: ماؤنٹین اسٹینڈرڈ ٹائم,
-      Daylight: ماؤنٹین ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Sitka,
-    Value: {
-      Generic: الاسکا ٹائم,
-      Standard: الاسکا اسٹینڈرڈ ٹائم,
-      Daylight: الاسکا ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/St_Barthelemy,
-    Value: {
-      Generic: اٹلانٹک ٹائم,
-      Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
-      Daylight: اٹلانٹک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/St_Johns,
-    Value: {
-      Generic: نیو فاؤنڈ لینڈ ٹائم,
-      Standard: نیو فاؤنڈ لینڈ اسٹینڈرڈ ٹائم,
-      Daylight: نیو فاؤنڈ لینڈ ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/St_Kitts,
-    Value: {
-      Generic: اٹلانٹک ٹائم,
-      Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
-      Daylight: اٹلانٹک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/St_Lucia,
-    Value: {
-      Generic: اٹلانٹک ٹائم,
-      Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
-      Daylight: اٹلانٹک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/St_Thomas,
-    Value: {
-      Generic: اٹلانٹک ٹائم,
-      Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
-      Daylight: اٹلانٹک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/St_Vincent,
-    Value: {
-      Generic: اٹلانٹک ٹائم,
-      Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
-      Daylight: اٹلانٹک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Swift_Current,
-    Value: {
-      Generic: سنٹرل ٹائم,
-      Standard: سنٹرل اسٹینڈرڈ ٹائم,
-      Daylight: سنٹرل ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Tegucigalpa,
-    Value: {
-      Generic: سنٹرل ٹائم,
-      Standard: سنٹرل اسٹینڈرڈ ٹائم,
-      Daylight: سنٹرل ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Thule,
-    Value: {
-      Generic: اٹلانٹک ٹائم,
-      Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
-      Daylight: اٹلانٹک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Thunder_Bay,
-    Value: {
-      Generic: ایسٹرن ٹائم,
-      Standard: ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Tijuana,
-    Value: {
-      Generic: پیسفک ٹائم,
-      Standard: پیسفک اسٹینڈرڈ ٹائم,
-      Daylight: پیسفک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Toronto,
-    Value: {
-      Generic: ایسٹرن ٹائم,
-      Standard: ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Tortola,
-    Value: {
-      Generic: اٹلانٹک ٹائم,
-      Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
-      Daylight: اٹلانٹک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Vancouver,
-    Value: {
-      Generic: پیسفک ٹائم,
-      Standard: پیسفک اسٹینڈرڈ ٹائم,
-      Daylight: پیسفک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Virgin,
-    Value: {
-      Generic: اٹلانٹک ٹائم,
-      Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
-      Daylight: اٹلانٹک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Whitehorse,
-    Value: {
-      Generic: یوکون ٹائم,
-      Standard: یوکون ٹائم,
-      Daylight: یوکون ٹائم
-    }
-  },
-  {
-    Key: America/Winnipeg,
-    Value: {
-      Generic: سنٹرل ٹائم,
-      Standard: سنٹرل اسٹینڈرڈ ٹائم,
-      Daylight: سنٹرل ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Yakutat,
-    Value: {
-      Generic: الاسکا ٹائم,
-      Standard: الاسکا اسٹینڈرڈ ٹائم,
-      Daylight: الاسکا ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: America/Yellowknife,
-    Value: {
-      Generic: ماؤنٹین ٹائم,
-      Standard: ماؤنٹین اسٹینڈرڈ ٹائم,
-      Daylight: ماؤنٹین ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Antarctica/Casey,
-    Value: {
-      Generic: انٹارکٹیکا وقت,
-      Standard: انٹارکٹیکا معیاری وقت,
-      Daylight: انٹارکٹیکا دن کا وقت
-    }
-  },
-  {
-    Key: Antarctica/Davis,
-    Value: {
-      Generic: ڈیوس ٹائم,
-      Standard: ڈیوس ٹائم,
-      Daylight: ڈیوس ٹائم
-    }
-  },
-  {
-    Key: Antarctica/DumontDUrville,
-    Value: {
-      Generic: ڈومونٹ-ڈی’ارویلے ٹائم,
-      Standard: ڈومونٹ-ڈی’ارویلے ٹائم,
-      Daylight: ڈومونٹ-ڈی’ارویلے ٹائم
-    }
-  },
-  {
-    Key: Antarctica/Macquarie,
-    Value: {
-      Generic: ایسٹرن آسٹریلیا ٹائم,
-      Standard: آسٹریلین ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: آسٹریلین ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Antarctica/Mawson,
-    Value: {
-      Generic: ماؤسن ٹائم,
-      Standard: ماؤسن ٹائم,
-      Daylight: ماؤسن ٹائم
-    }
-  },
-  {
-    Key: Antarctica/McMurdo,
-    Value: {
-      Generic: نیوزی لینڈ ٹائم,
-      Standard: نیوزی لینڈ سٹینڈرڈ ٹائم,
-      Daylight: نیوزی لینڈ ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Antarctica/Palmer,
-    Value: {
-      Generic: چلی ٹائم,
-      Standard: چلی سٹینڈرڈ ٹائم,
-      Daylight: چلی سمر ٹائم
-    }
-  },
-  {
-    Key: Antarctica/Rothera,
-    Value: {
-      Generic: روتھیرا ٹائم,
-      Standard: روتھیرا ٹائم,
-      Daylight: روتھیرا ٹائم
-    }
-  },
-  {
-    Key: Antarctica/South_Pole,
-    Value: {
-      Generic: نیوزی لینڈ ٹائم,
-      Standard: نیوزی لینڈ سٹینڈرڈ ٹائم,
-      Daylight: نیوزی لینڈ ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Antarctica/Syowa,
-    Value: {
-      Generic: سیووا ٹائم,
-      Standard: سیووا ٹائم,
-      Daylight: سیووا ٹائم
-    }
-  },
-  {
-    Key: Antarctica/Troll,
-    Value: {
-      Generic: گرین وچ مین ٹائم,
-      Standard: گرین وچ مین ٹائم,
-      Daylight: گرین وچ مین ٹائم
-    }
-  },
-  {
-    Key: Antarctica/Vostok,
-    Value: {
-      Generic: ووسٹاک ٹائم,
-      Standard: ووسٹاک ٹائم,
-      Daylight: ووسٹاک ٹائم
-    }
-  },
-  {
-    Key: Arctic/Longyearbyen,
-    Value: {
-      Generic: وسطی یورپ کا وقت,
-      Standard: وسطی یورپ کا معیاری وقت,
-      Daylight: وسطی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Asia/Aden,
-    Value: {
-      Generic: عرب ٹائم,
-      Standard: عرب سٹینڈرڈ ٹائم,
-      Daylight: عرب ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Asia/Almaty,
-    Value: {
-      Generic: مشرقی قزاخستان ٹائم,
-      Standard: مشرقی قزاخستان ٹائم,
-      Daylight: مشرقی قزاخستان ٹائم
-    }
-  },
-  {
-    Key: Asia/Amman,
-    Value: {
-      Generic: مشرقی یورپ کا وقت,
-      Standard: مشرقی یورپ کا معیاری وقت,
-      Daylight: مشرقی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Asia/Anadyr,
-    Value: {
-      Generic: انیدر وقت,
-      Standard: انیدر معیاری وقت,
-      Daylight: انیدر دن کا وقت
-    }
-  },
-  {
-    Key: Asia/Aqtau,
-    Value: {
-      Generic: مغربی قزاخستان ٹائم,
-      Standard: مغربی قزاخستان ٹائم,
-      Daylight: مغربی قزاخستان ٹائم
-    }
-  },
-  {
-    Key: Asia/Aqtobe,
-    Value: {
-      Generic: مغربی قزاخستان ٹائم,
-      Standard: مغربی قزاخستان ٹائم,
-      Daylight: مغربی قزاخستان ٹائم
-    }
-  },
-  {
-    Key: Asia/Ashgabat,
-    Value: {
-      Generic: ترکمانستان ٹائم,
-      Standard: ترکمانستان سٹینڈرڈ ٹائم,
-      Daylight: ترکمانستان سمر ٹائم
-    }
-  },
-  {
-    Key: Asia/Ashkhabad,
-    Value: {
-      Generic: ترکمانستان ٹائم,
-      Standard: ترکمانستان سٹینڈرڈ ٹائم,
-      Daylight: ترکمانستان سمر ٹائم
-    }
-  },
-  {
-    Key: Asia/Atyrau,
-    Value: {
-      Generic: مغربی قزاخستان ٹائم,
-      Standard: مغربی قزاخستان ٹائم,
-      Daylight: مغربی قزاخستان ٹائم
-    }
-  },
-  {
-    Key: Asia/Baghdad,
-    Value: {
-      Generic: عرب ٹائم,
-      Standard: عرب سٹینڈرڈ ٹائم,
-      Daylight: عرب ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Asia/Bahrain,
-    Value: {
-      Generic: عرب ٹائم,
-      Standard: عرب سٹینڈرڈ ٹائم,
-      Daylight: عرب ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Asia/Baku,
-    Value: {
-      Generic: آذربائیجان ٹائم,
-      Standard: آذربائیجان سٹینڈرڈ ٹائم,
-      Daylight: آذربائیجان سمر ٹائم
-    }
-  },
-  {
-    Key: Asia/Bangkok,
-    Value: {
-      Generic: ہند چین ٹائم,
-      Standard: ہند چین ٹائم,
-      Daylight: ہند چین ٹائم
-    }
-  },
-  {
-    Key: Asia/Barnaul,
-    Value: {
-      Generic: برنال وقت,
-      Standard: برنال معیاری وقت,
-      Daylight: برنال دن کا وقت
-    }
-  },
-  {
-    Key: Asia/Beirut,
-    Value: {
-      Generic: مشرقی یورپ کا وقت,
-      Standard: مشرقی یورپ کا معیاری وقت,
-      Daylight: مشرقی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Asia/Bishkek,
-    Value: {
-      Generic: کرغستان ٹائم,
-      Standard: کرغستان ٹائم,
-      Daylight: کرغستان ٹائم
-    }
-  },
-  {
-    Key: Asia/Brunei,
-    Value: {
-      Generic: برونئی دارالسلام ٹائم,
-      Standard: برونئی دارالسلام ٹائم,
-      Daylight: برونئی دارالسلام ٹائم
-    }
-  },
-  {
-    Key: Asia/Calcutta,
-    Value: {
-      Generic: انڈیا سٹینڈرڈ ٹائم,
-      Standard: انڈیا سٹینڈرڈ ٹائم,
-      Daylight: انڈیا سٹینڈرڈ ٹائم
-    }
-  },
-  {
-    Key: Asia/Chita,
-    Value: {
-      Generic: چیتا وقت,
-      Standard: چیتا معیاری وقت,
-      Daylight: چیتا دن کا وقت
-    }
-  },
-  {
-    Key: Asia/Choibalsan,
-    Value: {
-      Generic: یولان بیتور ٹائم,
-      Standard: یولان بیتور سٹینڈرڈ ٹائم,
-      Daylight: یولان بیتور سمر ٹائم
-    }
-  },
-  {
-    Key: Asia/Chongqing,
-    Value: {
-      Generic: چین کا وقت,
-      Standard: چین سٹینڈرڈ ٹائم,
-      Daylight: چینی ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Asia/Chungking,
-    Value: {
-      Generic: چین کا وقت,
-      Standard: چین سٹینڈرڈ ٹائم,
-      Daylight: چینی ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Asia/Colombo,
-    Value: {
-      Generic: انڈیا سٹینڈرڈ ٹائم,
-      Standard: انڈیا سٹینڈرڈ ٹائم,
-      Daylight: انڈیا سٹینڈرڈ ٹائم
-    }
-  },
-  {
-    Key: Asia/Dacca,
-    Value: {
-      Generic: بنگلہ دیش ٹائم,
-      Standard: بنگلہ دیش سٹینڈرڈ ٹائم,
-      Daylight: بنگلہ دیش سمر ٹائم
-    }
-  },
-  {
-    Key: Asia/Damascus,
-    Value: {
-      Generic: مشرقی یورپ کا وقت,
-      Standard: مشرقی یورپ کا معیاری وقت,
-      Daylight: مشرقی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Asia/Dhaka,
-    Value: {
-      Generic: بنگلہ دیش ٹائم,
-      Standard: بنگلہ دیش سٹینڈرڈ ٹائم,
-      Daylight: بنگلہ دیش سمر ٹائم
-    }
-  },
-  {
-    Key: Asia/Dili,
-    Value: {
-      Generic: مشرقی تیمور ٹائم,
-      Standard: مشرقی تیمور ٹائم,
-      Daylight: مشرقی تیمور ٹائم
-    }
-  },
-  {
-    Key: Asia/Dubai,
-    Value: {
-      Generic: خلیج سٹینڈرڈ ٹائم,
-      Standard: خلیج سٹینڈرڈ ٹائم,
-      Daylight: خلیج سٹینڈرڈ ٹائم
-    }
-  },
-  {
-    Key: Asia/Dushanbe,
-    Value: {
-      Generic: تاجکستان ٹائم,
-      Standard: تاجکستان ٹائم,
-      Daylight: تاجکستان ٹائم
-    }
-  },
-  {
-    Key: Asia/Famagusta,
-    Value: {
-      Generic: مشرقی یورپ کا وقت,
-      Standard: مشرقی یورپ کا معیاری وقت,
-      Daylight: مشرقی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Asia/Gaza,
-    Value: {
-      Generic: مشرقی یورپ کا وقت,
-      Standard: مشرقی یورپ کا معیاری وقت,
-      Daylight: مشرقی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Asia/Harbin,
-    Value: {
-      Generic: چین کا وقت,
-      Standard: چین سٹینڈرڈ ٹائم,
-      Daylight: چینی ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Asia/Hebron,
-    Value: {
-      Generic: مشرقی یورپ کا وقت,
-      Standard: مشرقی یورپ کا معیاری وقت,
-      Daylight: مشرقی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Asia/Ho_Chi_Minh,
-    Value: {
-      Generic: ہند چین ٹائم,
-      Standard: ہند چین ٹائم,
-      Daylight: ہند چین ٹائم
-    }
-  },
-  {
-    Key: Asia/Hong_Kong,
-    Value: {
-      Generic: ہانگ کانگ ٹائم,
-      Standard: ہانگ کانگ سٹینڈرڈ ٹائم,
-      Daylight: ہانگ کانگ سمر ٹائم
-    }
-  },
-  {
-    Key: Asia/Hovd,
-    Value: {
-      Generic: ہووڈ ٹائم,
-      Standard: ہووڈ سٹینڈرڈ ٹائم,
-      Daylight: ہووڈ سمر ٹائم
-    }
-  },
-  {
-    Key: Asia/Irkutsk,
-    Value: {
-      Generic: ارکتسک وقت,
-      Standard: ارکتسک معیاری وقت,
-      Daylight: ارکتسک دن کا وقت
-    }
-  },
-  {
-    Key: Asia/Istanbul,
-    Value: {
-      Generic: ترکی وقت,
-      Standard: ترکی معیاری وقت,
-      Daylight: ترکی دن کا وقت
-    }
-  },
-  {
-    Key: Asia/Jakarta,
-    Value: {
-      Generic: مغربی انڈونیشیا ٹائم,
-      Standard: مغربی انڈونیشیا ٹائم,
-      Daylight: مغربی انڈونیشیا ٹائم
-    }
-  },
-  {
-    Key: Asia/Jayapura,
-    Value: {
-      Generic: مشرقی انڈونیشیا ٹائم,
-      Standard: مشرقی انڈونیشیا ٹائم,
-      Daylight: مشرقی انڈونیشیا ٹائم
-    }
-  },
-  {
-    Key: Asia/Jerusalem,
-    Value: {
-      Generic: اسرائیل ٹائم,
-      Standard: اسرائیل سٹینڈرڈ ٹائم,
-      Daylight: اسرائیل ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Asia/Kabul,
-    Value: {
-      Generic: افغانستان ٹائم,
-      Standard: افغانستان ٹائم,
-      Daylight: افغانستان ٹائم
-    }
-  },
-  {
-    Key: Asia/Kamchatka,
-    Value: {
-      Generic: کیمچٹکا وقت,
-      Standard: کیمچٹکا معیاری وقت,
-      Daylight: کیمچٹکا دن کا وقت
-    }
-  },
-  {
-    Key: Asia/Karachi,
-    Value: {
-      Generic: پاکستان ٹائم,
-      Standard: پاکستان سٹینڈرڈ ٹائم,
-      Daylight: پاکستان سمر ٹائم
-    }
-  },
-  {
-    Key: Asia/Kashgar,
-    Value: {
-      Generic: چین وقت,
-      Standard: چین معیاری وقت,
-      Daylight: چین دن کا وقت
-    }
-  },
-  {
-    Key: Asia/Kathmandu,
-    Value: {
-      Generic: نیپال ٹائم,
-      Standard: نیپال ٹائم,
-      Daylight: نیپال ٹائم
-    }
-  },
-  {
-    Key: Asia/Katmandu,
-    Value: {
-      Generic: نیپال ٹائم,
-      Standard: نیپال ٹائم,
-      Daylight: نیپال ٹائم
-    }
-  },
-  {
-    Key: Asia/Khandyga,
-    Value: {
-      Generic: خندیگا وقت,
-      Standard: خندیگا معیاری وقت,
-      Daylight: خندیگا دن کا وقت
-    }
-  },
-  {
-    Key: Asia/Kolkata,
-    Value: {
-      Generic: انڈیا سٹینڈرڈ ٹائم,
-      Standard: انڈیا سٹینڈرڈ ٹائم,
-      Daylight: انڈیا سٹینڈرڈ ٹائم
-    }
-  },
-  {
-    Key: Asia/Krasnoyarsk,
-    Value: {
-      Generic: کریسنویارسک وقت,
-      Standard: کریسنویارسک معیاری وقت,
-      Daylight: کریسنویارسک دن کا وقت
-    }
-  },
-  {
-    Key: Asia/Kuala_Lumpur,
-    Value: {
-      Generic: ملیشیا ٹائم,
-      Standard: ملیشیا ٹائم,
-      Daylight: ملیشیا ٹائم
-    }
-  },
-  {
-    Key: Asia/Kuching,
-    Value: {
-      Generic: ملیشیا ٹائم,
-      Standard: ملیشیا ٹائم,
-      Daylight: ملیشیا ٹائم
-    }
-  },
-  {
-    Key: Asia/Kuwait,
-    Value: {
-      Generic: عرب ٹائم,
-      Standard: عرب سٹینڈرڈ ٹائم,
-      Daylight: عرب ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Asia/Macao,
-    Value: {
-      Generic: چین کا وقت,
-      Standard: چین سٹینڈرڈ ٹائم,
-      Daylight: چینی ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Asia/Macau,
-    Value: {
-      Generic: چین کا وقت,
-      Standard: چین سٹینڈرڈ ٹائم,
-      Daylight: چینی ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Asia/Magadan,
-    Value: {
-      Generic: میگیدن وقت,
-      Standard: میگیدن معیاری وقت,
-      Daylight: میگیدن دن کا وقت
-    }
-  },
-  {
-    Key: Asia/Makassar,
-    Value: {
-      Generic: وسطی انڈونیشیا ٹائم,
-      Standard: وسطی انڈونیشیا ٹائم,
-      Daylight: وسطی انڈونیشیا ٹائم
-    }
-  },
-  {
-    Key: Asia/Manila,
-    Value: {
-      Generic: فلپائن ٹائم,
-      Standard: فلپائن سٹینڈرڈ ٹائم,
-      Daylight: فلپائن سمر ٹائم
-    }
-  },
-  {
-    Key: Asia/Muscat,
-    Value: {
-      Generic: خلیج سٹینڈرڈ ٹائم,
-      Standard: خلیج سٹینڈرڈ ٹائم,
-      Daylight: خلیج سٹینڈرڈ ٹائم
-    }
-  },
-  {
-    Key: Asia/Nicosia,
-    Value: {
-      Generic: مشرقی یورپ کا وقت,
-      Standard: مشرقی یورپ کا معیاری وقت,
-      Daylight: مشرقی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Asia/Novokuznetsk,
-    Value: {
-      Generic: نوووکیوزنیسک وقت,
-      Standard: نوووکیوزنیسک معیاری وقت,
-      Daylight: نوووکیوزنیسک دن کا وقت
-    }
-  },
-  {
-    Key: Asia/Novosibirsk,
-    Value: {
-      Generic: نوووسِبِرسک وقت,
-      Standard: نوووسِبِرسک معیاری وقت,
-      Daylight: نوووسِبِرسک دن کا وقت
-    }
-  },
-  {
-    Key: Asia/Omsk,
-    Value: {
-      Generic: اومسک وقت,
-      Standard: اومسک معیاری وقت,
-      Daylight: اومسک دن کا وقت
-    }
-  },
-  {
-    Key: Asia/Oral,
-    Value: {
-      Generic: مغربی قزاخستان ٹائم,
-      Standard: مغربی قزاخستان ٹائم,
-      Daylight: مغربی قزاخستان ٹائم
-    }
-  },
-  {
-    Key: Asia/Phnom_Penh,
-    Value: {
-      Generic: ہند چین ٹائم,
-      Standard: ہند چین ٹائم,
-      Daylight: ہند چین ٹائم
-    }
-  },
-  {
-    Key: Asia/Pontianak,
-    Value: {
-      Generic: مغربی انڈونیشیا ٹائم,
-      Standard: مغربی انڈونیشیا ٹائم,
-      Daylight: مغربی انڈونیشیا ٹائم
-    }
-  },
-  {
-    Key: Asia/Pyongyang,
-    Value: {
-      Generic: کوریا ٹائم,
-      Standard: کوریا سٹینڈرڈ ٹائم,
-      Daylight: کوریا ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Asia/Qatar,
-    Value: {
-      Generic: عرب ٹائم,
-      Standard: عرب سٹینڈرڈ ٹائم,
-      Daylight: عرب ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Asia/Qostanay,
-    Value: {
-      Generic: مشرقی قزاخستان ٹائم,
-      Standard: مشرقی قزاخستان ٹائم,
-      Daylight: مشرقی قزاخستان ٹائم
-    }
-  },
-  {
-    Key: Asia/Qyzylorda,
-    Value: {
-      Generic: مغربی قزاخستان ٹائم,
-      Standard: مغربی قزاخستان ٹائم,
-      Daylight: مغربی قزاخستان ٹائم
-    }
-  },
-  {
-    Key: Asia/Rangoon,
-    Value: {
-      Generic: میانمار ٹائم,
-      Standard: میانمار ٹائم,
-      Daylight: میانمار ٹائم
-    }
-  },
-  {
-    Key: Asia/Riyadh,
-    Value: {
-      Generic: عرب ٹائم,
-      Standard: عرب سٹینڈرڈ ٹائم,
-      Daylight: عرب ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Asia/Saigon,
-    Value: {
-      Generic: ہند چین ٹائم,
-      Standard: ہند چین ٹائم,
-      Daylight: ہند چین ٹائم
-    }
-  },
-  {
-    Key: Asia/Sakhalin,
-    Value: {
-      Generic: سخالین وقت,
-      Standard: سخالین معیاری وقت,
-      Daylight: سخالین دن کا وقت
-    }
-  },
-  {
-    Key: Asia/Samarkand,
-    Value: {
-      Generic: ازبکستان ٹائم,
-      Standard: ازبکستان سٹینڈرڈ ٹائم,
-      Daylight: ازبکستان سمر ٹائم
-    }
-  },
-  {
-    Key: Asia/Seoul,
-    Value: {
-      Generic: کوریا ٹائم,
-      Standard: کوریا سٹینڈرڈ ٹائم,
-      Daylight: کوریا ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Asia/Shanghai,
-    Value: {
-      Generic: چین کا وقت,
-      Standard: چین سٹینڈرڈ ٹائم,
-      Daylight: چینی ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Asia/Singapore,
-    Value: {
-      Generic: سنگاپور سٹینڈرڈ ٹائم,
-      Standard: سنگاپور سٹینڈرڈ ٹائم,
-      Daylight: سنگاپور سٹینڈرڈ ٹائم
-    }
-  },
-  {
-    Key: Asia/Srednekolymsk,
-    Value: {
-      Generic: سرہدنیکولیمسک وقت,
-      Standard: سرہدنیکولیمسک معیاری وقت,
-      Daylight: سرہدنیکولیمسک دن کا وقت
-    }
-  },
-  {
-    Key: Asia/Taipei,
-    Value: {
-      Generic: تائی پیئی ٹائم,
-      Standard: تائی پیئی اسٹینڈرڈ ٹائم,
-      Daylight: تئی پیئی ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Asia/Tashkent,
-    Value: {
-      Generic: ازبکستان ٹائم,
-      Standard: ازبکستان سٹینڈرڈ ٹائم,
-      Daylight: ازبکستان سمر ٹائم
-    }
-  },
-  {
-    Key: Asia/Tbilisi,
-    Value: {
-      Generic: جارجیا ٹائم,
-      Standard: جارجیا سٹینڈرڈ ٹائم,
-      Daylight: جارجیا سمر ٹائم
-    }
-  },
-  {
-    Key: Asia/Tehran,
-    Value: {
-      Generic: ایران ٹائم,
-      Standard: ایران سٹینڈرڈ ٹائم,
-      Daylight: ایران ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Asia/Tel_Aviv,
-    Value: {
-      Generic: اسرائیل ٹائم,
-      Standard: اسرائیل سٹینڈرڈ ٹائم,
-      Daylight: اسرائیل ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Asia/Thimbu,
-    Value: {
-      Generic: بھوٹان ٹائم,
-      Standard: بھوٹان ٹائم,
-      Daylight: بھوٹان ٹائم
-    }
-  },
-  {
-    Key: Asia/Thimphu,
-    Value: {
-      Generic: بھوٹان ٹائم,
-      Standard: بھوٹان ٹائم,
-      Daylight: بھوٹان ٹائم
-    }
-  },
-  {
-    Key: Asia/Tokyo,
-    Value: {
-      Generic: جاپان ٹائم,
-      Standard: جاپان سٹینڈرڈ ٹائم,
-      Daylight: جاپان ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Asia/Tomsk,
-    Value: {
-      Generic: ٹامسک وقت,
-      Standard: ٹامسک معیاری وقت,
-      Daylight: ٹامسک دن کا وقت
-    }
-  },
-  {
-    Key: Asia/Ujung_Pandang,
-    Value: {
-      Generic: وسطی انڈونیشیا ٹائم,
-      Standard: وسطی انڈونیشیا ٹائم,
-      Daylight: وسطی انڈونیشیا ٹائم
-    }
-  },
-  {
-    Key: Asia/Ulaanbaatar,
-    Value: {
-      Generic: یولان بیتور ٹائم,
-      Standard: یولان بیتور سٹینڈرڈ ٹائم,
-      Daylight: یولان بیتور سمر ٹائم
-    }
-  },
-  {
-    Key: Asia/Ulan_Bator,
-    Value: {
-      Generic: یولان بیتور ٹائم,
-      Standard: یولان بیتور سٹینڈرڈ ٹائم,
-      Daylight: یولان بیتور سمر ٹائم
-    }
-  },
-  {
-    Key: Asia/Urumqi,
-    Value: {
-      Generic: چین وقت,
-      Standard: چین معیاری وقت,
-      Daylight: چین دن کا وقت
-    }
-  },
-  {
-    Key: Asia/Ust-Nera,
-    Value: {
-      Generic: اوست-نیرا وقت,
-      Standard: اوست-نیرا معیاری وقت,
-      Daylight: اوست-نیرا دن کا وقت
-    }
-  },
-  {
-    Key: Asia/Vientiane,
-    Value: {
-      Generic: ہند چین ٹائم,
-      Standard: ہند چین ٹائم,
-      Daylight: ہند چین ٹائم
-    }
-  },
-  {
-    Key: Asia/Vladivostok,
-    Value: {
-      Generic: ولادی ووستک وقت,
-      Standard: ولادی ووستک معیاری وقت,
-      Daylight: ولادی ووستک دن کا وقت
-    }
-  },
-  {
-    Key: Asia/Yakutsk,
-    Value: {
-      Generic: یکوتسک وقت,
-      Standard: یکوتسک معیاری وقت,
-      Daylight: یکوتسک دن کا وقت
-    }
-  },
-  {
-    Key: Asia/Yangon,
-    Value: {
-      Generic: میانمار ٹائم,
-      Standard: میانمار ٹائم,
-      Daylight: میانمار ٹائم
-    }
-  },
-  {
-    Key: Asia/Yekaterinburg,
-    Value: {
-      Generic: یکاٹیرِنبرگ وقت,
-      Standard: یکاٹیرِنبرگ معیاری وقت,
-      Daylight: یکاٹیرِنبرگ دن کا وقت
-    }
-  },
-  {
-    Key: Asia/Yerevan,
-    Value: {
-      Generic: آرمینیا ٹائم,
-      Standard: آرمینیا سٹینڈرڈ ٹائم,
-      Daylight: آرمینیا سمر ٹائم
-    }
-  },
-  {
-    Key: Atlantic/Azores,
-    Value: {
-      Generic: ازوریس کا وقت,
-      Standard: ازوریس کا معیاری وقت,
-      Daylight: ازوریس کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Atlantic/Bermuda,
-    Value: {
-      Generic: اٹلانٹک ٹائم,
-      Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
-      Daylight: اٹلانٹک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Atlantic/Canary,
-    Value: {
-      Generic: مغربی یورپ کا وقت,
-      Standard: مغربی یورپ کا معیاری وقت,
-      Daylight: مغربی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Atlantic/Cape_Verde,
-    Value: {
-      Generic: کیپ ورڈی ٹائم,
-      Standard: کیپ ورڈی سٹینڈرڈ ٹائم,
-      Daylight: کیپ ورڈی سمر ٹائم
-    }
-  },
-  {
-    Key: Atlantic/Faeroe,
-    Value: {
-      Generic: مغربی یورپ کا وقت,
-      Standard: مغربی یورپ کا معیاری وقت,
-      Daylight: مغربی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Atlantic/Faroe,
-    Value: {
-      Generic: مغربی یورپ کا وقت,
-      Standard: مغربی یورپ کا معیاری وقت,
-      Daylight: مغربی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Atlantic/Jan_Mayen,
-    Value: {
-      Generic: وسطی یورپ کا وقت,
-      Standard: وسطی یورپ کا معیاری وقت,
-      Daylight: وسطی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Atlantic/Madeira,
-    Value: {
-      Generic: مغربی یورپ کا وقت,
-      Standard: مغربی یورپ کا معیاری وقت,
-      Daylight: مغربی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Atlantic/Reykjavik,
-    Value: {
-      Generic: گرین وچ مین ٹائم,
-      Standard: گرین وچ مین ٹائم,
-      Daylight: گرین وچ مین ٹائم
-    }
-  },
-  {
-    Key: Atlantic/South_Georgia,
-    Value: {
-      Generic: جنوبی جارجیا ٹائم,
-      Standard: جنوبی جارجیا ٹائم,
-      Daylight: جنوبی جارجیا ٹائم
-    }
-  },
-  {
-    Key: Atlantic/St_Helena,
-    Value: {
-      Generic: گرین وچ مین ٹائم,
-      Standard: گرین وچ مین ٹائم,
-      Daylight: گرین وچ مین ٹائم
-    }
-  },
-  {
-    Key: Atlantic/Stanley,
-    Value: {
-      Generic: فاک لینڈ آئلینڈز ٹائم,
-      Standard: فاک لینڈ آئلینڈز سٹینڈرڈ ٹائم,
-      Daylight: فاک لینڈ آئلینڈز سمر ٹائم
-    }
-  },
-  {
-    Key: Australia/ACT,
-    Value: {
-      Generic: ایسٹرن آسٹریلیا ٹائم,
-      Standard: آسٹریلین ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: آسٹریلین ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Australia/Adelaide,
-    Value: {
-      Generic: سنٹرل آسٹریلیا ٹائم,
-      Standard: آسٹریلین سنٹرل اسٹینڈرڈ ٹائم,
-      Daylight: آسٹریلین سنٹرل ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Australia/Brisbane,
-    Value: {
-      Generic: ایسٹرن آسٹریلیا ٹائم,
-      Standard: آسٹریلین ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: آسٹریلین ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Australia/Broken_Hill,
-    Value: {
-      Generic: سنٹرل آسٹریلیا ٹائم,
-      Standard: آسٹریلین سنٹرل اسٹینڈرڈ ٹائم,
-      Daylight: آسٹریلین سنٹرل ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Australia/Canberra,
-    Value: {
-      Generic: ایسٹرن آسٹریلیا ٹائم,
-      Standard: آسٹریلین ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: آسٹریلین ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Australia/Currie,
-    Value: {
-      Generic: ایسٹرن آسٹریلیا ٹائم,
-      Standard: آسٹریلین ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: آسٹریلین ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Australia/Darwin,
-    Value: {
-      Generic: سنٹرل آسٹریلیا ٹائم,
-      Standard: آسٹریلین سنٹرل اسٹینڈرڈ ٹائم,
-      Daylight: آسٹریلین سنٹرل ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Australia/Eucla,
-    Value: {
-      Generic: آسٹریلین سنٹرل ویسٹرن ٹائم,
-      Standard: آسٹریلین سنٹرل ویسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: آسٹریلین سنٹرل ویسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Australia/Hobart,
-    Value: {
-      Generic: ایسٹرن آسٹریلیا ٹائم,
-      Standard: آسٹریلین ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: آسٹریلین ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Australia/LHI,
-    Value: {
-      Generic: لارڈ ہووے ٹائم,
-      Standard: لارڈ ہووے اسٹینڈرڈ ٹائم,
-      Daylight: لارڈ ہووے ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Australia/Lindeman,
-    Value: {
-      Generic: ایسٹرن آسٹریلیا ٹائم,
-      Standard: آسٹریلین ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: آسٹریلین ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Australia/Lord_Howe,
-    Value: {
-      Generic: لارڈ ہووے ٹائم,
-      Standard: لارڈ ہووے اسٹینڈرڈ ٹائم,
-      Daylight: لارڈ ہووے ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Australia/Melbourne,
-    Value: {
-      Generic: ایسٹرن آسٹریلیا ٹائم,
-      Standard: آسٹریلین ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: آسٹریلین ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Australia/North,
-    Value: {
-      Generic: سنٹرل آسٹریلیا ٹائم,
-      Standard: آسٹریلین سنٹرل اسٹینڈرڈ ٹائم,
-      Daylight: آسٹریلین سنٹرل ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Australia/NSW,
-    Value: {
-      Generic: ایسٹرن آسٹریلیا ٹائم,
-      Standard: آسٹریلین ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: آسٹریلین ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Australia/Perth,
-    Value: {
-      Generic: ویسٹرن آسٹریلیا ٹائم,
-      Standard: آسٹریلیا ویسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: آسٹریلین ویسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Australia/Queensland,
-    Value: {
-      Generic: ایسٹرن آسٹریلیا ٹائم,
-      Standard: آسٹریلین ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: آسٹریلین ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Australia/South,
-    Value: {
-      Generic: سنٹرل آسٹریلیا ٹائم,
-      Standard: آسٹریلین سنٹرل اسٹینڈرڈ ٹائم,
-      Daylight: آسٹریلین سنٹرل ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Australia/Sydney,
-    Value: {
-      Generic: ایسٹرن آسٹریلیا ٹائم,
-      Standard: آسٹریلین ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: آسٹریلین ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Australia/Tasmania,
-    Value: {
-      Generic: ایسٹرن آسٹریلیا ٹائم,
-      Standard: آسٹریلین ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: آسٹریلین ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Australia/Victoria,
-    Value: {
-      Generic: ایسٹرن آسٹریلیا ٹائم,
-      Standard: آسٹریلین ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: آسٹریلین ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Australia/West,
-    Value: {
-      Generic: ویسٹرن آسٹریلیا ٹائم,
-      Standard: آسٹریلیا ویسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: آسٹریلین ویسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Australia/Yancowinna,
-    Value: {
-      Generic: سنٹرل آسٹریلیا ٹائم,
-      Standard: آسٹریلین سنٹرل اسٹینڈرڈ ٹائم,
-      Daylight: آسٹریلین سنٹرل ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Brazil/Acre,
-    Value: {
-      Generic: برازیل وقت,
-      Standard: برازیل معیاری وقت,
-      Daylight: برازیل دن کا وقت
-    }
-  },
-  {
-    Key: Brazil/DeNoronha,
-    Value: {
-      Generic: فرنانڈو ڈی نورنہا ٹائم,
-      Standard: فرنانڈو ڈی نورنہا سٹینڈرڈ ٹائم,
-      Daylight: فرنانڈو ڈی نورونہا سمر ٹائم
-    }
-  },
-  {
-    Key: Brazil/East,
-    Value: {
-      Generic: برازیلیا ٹائم,
-      Standard: برازیلیا سٹینڈرڈ ٹائم,
-      Daylight: برازیلیا سمر ٹائم
-    }
-  },
-  {
-    Key: Brazil/West,
-    Value: {
-      Generic: ایمیزون ٹائم,
-      Standard: ایمیزون سٹینڈرڈ ٹائم,
-      Daylight: ایمیزون سمر ٹائم
-    }
-  },
-  {
-    Key: Canada/Atlantic,
-    Value: {
-      Generic: اٹلانٹک ٹائم,
-      Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
-      Daylight: اٹلانٹک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Canada/Central,
-    Value: {
-      Generic: سنٹرل ٹائم,
-      Standard: سنٹرل اسٹینڈرڈ ٹائم,
-      Daylight: سنٹرل ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Canada/Eastern,
-    Value: {
-      Generic: ایسٹرن ٹائم,
-      Standard: ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Canada/Mountain,
-    Value: {
-      Generic: ماؤنٹین ٹائم,
-      Standard: ماؤنٹین اسٹینڈرڈ ٹائم,
-      Daylight: ماؤنٹین ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Canada/Newfoundland,
-    Value: {
-      Generic: نیو فاؤنڈ لینڈ ٹائم,
-      Standard: نیو فاؤنڈ لینڈ اسٹینڈرڈ ٹائم,
-      Daylight: نیو فاؤنڈ لینڈ ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Canada/Pacific,
-    Value: {
-      Generic: پیسفک ٹائم,
-      Standard: پیسفک اسٹینڈرڈ ٹائم,
-      Daylight: پیسفک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Canada/Saskatchewan,
-    Value: {
-      Generic: سنٹرل ٹائم,
-      Standard: سنٹرل اسٹینڈرڈ ٹائم,
-      Daylight: سنٹرل ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Canada/Yukon,
-    Value: {
-      Generic: یوکون ٹائم,
-      Standard: یوکون ٹائم,
-      Daylight: یوکون ٹائم
-    }
-  },
-  {
-    Key: CET,
-    Value: {
-      Generic: وسطی یورپ کا وقت,
-      Standard: وسطی یورپ کا معیاری وقت,
-      Daylight: وسطی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Chile/Continental,
-    Value: {
-      Generic: چلی ٹائم,
-      Standard: چلی سٹینڈرڈ ٹائم,
-      Daylight: چلی سمر ٹائم
-    }
-  },
-  {
-    Key: Chile/EasterIsland,
-    Value: {
-      Generic: ایسٹر آئلینڈ ٹائم,
-      Standard: ایسٹر آئلینڈ سٹینڈرڈ ٹائم,
-      Daylight: ایسٹر آئلینڈ سمر ٹائم
-    }
-  },
-  {
-    Key: CST6CDT,
-    Value: {
-      Generic: سنٹرل ٹائم,
-      Standard: سنٹرل اسٹینڈرڈ ٹائم,
-      Daylight: سنٹرل ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Cuba,
-    Value: {
-      Generic: کیوبا ٹائم,
-      Standard: کیوبا اسٹینڈرڈ ٹائم,
-      Daylight: کیوبا ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: EET,
-    Value: {
-      Generic: مشرقی یورپ کا وقت,
-      Standard: مشرقی یورپ کا معیاری وقت,
-      Daylight: مشرقی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Egypt,
-    Value: {
-      Generic: مشرقی یورپ کا وقت,
-      Standard: مشرقی یورپ کا معیاری وقت,
-      Daylight: مشرقی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Eire,
-    Value: {
-      Generic: آئرلینڈ وقت,
-      Standard: گرین وچ مین ٹائم,
-      Daylight: آئرش اسٹینڈرڈ ٹائم
-    }
-  },
-  {
-    Key: EST,
-    Value: {
-      Generic: کوآرڈینیٹڈ یونیورسل ٹائم -5,
-      Standard: کوآرڈینیٹڈ یونیورسل ٹائم -5,
-      Daylight: کوآرڈینیٹڈ یونیورسل ٹائم -5
-    }
-  },
-  {
-    Key: EST5EDT,
-    Value: {
-      Generic: ایسٹرن ٹائم,
-      Standard: ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Etc/GMT,
-    Value: {
-      Generic: گرین وچ مین ٹائم,
-      Standard: گرین وچ مین ٹائم,
-      Daylight: گرین وچ مین ٹائم
-    }
-  },
-  {
-    Key: Etc/GMT-0,
-    Value: {
-      Generic: گرین وچ مین ٹائم,
-      Standard: گرین وچ مین ٹائم,
-      Daylight: گرین وچ مین ٹائم
-    }
-  },
-  {
-    Key: Etc/GMT-1,
-    Value: {
-      Generic: کوآرڈینیٹڈ یونیورسل ٹائم +1,
-      Standard: کوآرڈینیٹڈ یونیورسل ٹائم +1,
-      Daylight: کوآرڈینیٹڈ یونیورسل ٹائم +1
-    }
-  },
-  {
-    Key: Etc/GMT-10,
-    Value: {
-      Generic: کوآرڈینیٹڈ یونیورسل ٹائم +10,
-      Standard: کوآرڈینیٹڈ یونیورسل ٹائم +10,
-      Daylight: کوآرڈینیٹڈ یونیورسل ٹائم +10
-    }
-  },
-  {
-    Key: Etc/GMT-11,
-    Value: {
-      Generic: کوآرڈینیٹڈ یونیورسل ٹائم +11,
-      Standard: کوآرڈینیٹڈ یونیورسل ٹائم +11,
-      Daylight: کوآرڈینیٹڈ یونیورسل ٹائم +11
-    }
-  },
-  {
-    Key: Etc/GMT-12,
-    Value: {
-      Generic: کوآرڈینیٹڈ یونیورسل ٹائم +12,
-      Standard: کوآرڈینیٹڈ یونیورسل ٹائم +12,
-      Daylight: کوآرڈینیٹڈ یونیورسل ٹائم +12
-    }
-  },
-  {
-    Key: Etc/GMT-13,
-    Value: {
-      Generic: کوآرڈینیٹڈ یونیورسل ٹائم +13,
-      Standard: کوآرڈینیٹڈ یونیورسل ٹائم +13,
-      Daylight: کوآرڈینیٹڈ یونیورسل ٹائم +13
-    }
-  },
-  {
-    Key: Etc/GMT-14,
-    Value: {
-      Generic: کوآرڈینیٹڈ یونیورسل ٹائم +14,
-      Standard: کوآرڈینیٹڈ یونیورسل ٹائم +14,
-      Daylight: کوآرڈینیٹڈ یونیورسل ٹائم +14
-    }
-  },
-  {
-    Key: Etc/GMT-2,
-    Value: {
-      Generic: کوآرڈینیٹڈ یونیورسل ٹائم +2,
-      Standard: کوآرڈینیٹڈ یونیورسل ٹائم +2,
-      Daylight: کوآرڈینیٹڈ یونیورسل ٹائم +2
-    }
-  },
-  {
-    Key: Etc/GMT-3,
-    Value: {
-      Generic: کوآرڈینیٹڈ یونیورسل ٹائم +3,
-      Standard: کوآرڈینیٹڈ یونیورسل ٹائم +3,
-      Daylight: کوآرڈینیٹڈ یونیورسل ٹائم +3
-    }
-  },
-  {
-    Key: Etc/GMT-4,
-    Value: {
-      Generic: کوآرڈینیٹڈ یونیورسل ٹائم +4,
-      Standard: کوآرڈینیٹڈ یونیورسل ٹائم +4,
-      Daylight: کوآرڈینیٹڈ یونیورسل ٹائم +4
-    }
-  },
-  {
-    Key: Etc/GMT-5,
-    Value: {
-      Generic: کوآرڈینیٹڈ یونیورسل ٹائم +5,
-      Standard: کوآرڈینیٹڈ یونیورسل ٹائم +5,
-      Daylight: کوآرڈینیٹڈ یونیورسل ٹائم +5
-    }
-  },
-  {
-    Key: Etc/GMT-6,
-    Value: {
-      Generic: کوآرڈینیٹڈ یونیورسل ٹائم +6,
-      Standard: کوآرڈینیٹڈ یونیورسل ٹائم +6,
-      Daylight: کوآرڈینیٹڈ یونیورسل ٹائم +6
-    }
-  },
-  {
-    Key: Etc/GMT-7,
-    Value: {
-      Generic: کوآرڈینیٹڈ یونیورسل ٹائم +7,
-      Standard: کوآرڈینیٹڈ یونیورسل ٹائم +7,
-      Daylight: کوآرڈینیٹڈ یونیورسل ٹائم +7
-    }
-  },
-  {
-    Key: Etc/GMT-8,
-    Value: {
-      Generic: کوآرڈینیٹڈ یونیورسل ٹائم +8,
-      Standard: کوآرڈینیٹڈ یونیورسل ٹائم +8,
-      Daylight: کوآرڈینیٹڈ یونیورسل ٹائم +8
-    }
-  },
-  {
-    Key: Etc/GMT-9,
-    Value: {
-      Generic: کوآرڈینیٹڈ یونیورسل ٹائم +9,
-      Standard: کوآرڈینیٹڈ یونیورسل ٹائم +9,
-      Daylight: کوآرڈینیٹڈ یونیورسل ٹائم +9
-    }
-  },
-  {
-    Key: Etc/GMT+0,
-    Value: {
-      Generic: گرین وچ مین ٹائم,
-      Standard: گرین وچ مین ٹائم,
-      Daylight: گرین وچ مین ٹائم
-    }
-  },
-  {
-    Key: Etc/GMT+1,
-    Value: {
-      Generic: کوآرڈینیٹڈ یونیورسل ٹائم -1,
-      Standard: کوآرڈینیٹڈ یونیورسل ٹائم -1,
-      Daylight: کوآرڈینیٹڈ یونیورسل ٹائم -1
-    }
-  },
-  {
-    Key: Etc/GMT+10,
-    Value: {
-      Generic: کوآرڈینیٹڈ یونیورسل ٹائم -10,
-      Standard: کوآرڈینیٹڈ یونیورسل ٹائم -10,
-      Daylight: کوآرڈینیٹڈ یونیورسل ٹائم -10
-    }
-  },
-  {
-    Key: Etc/GMT+11,
-    Value: {
-      Generic: کوآرڈینیٹڈ یونیورسل ٹائم -11,
-      Standard: کوآرڈینیٹڈ یونیورسل ٹائم -11,
-      Daylight: کوآرڈینیٹڈ یونیورسل ٹائم -11
-    }
-  },
-  {
-    Key: Etc/GMT+12,
-    Value: {
-      Generic: کوآرڈینیٹڈ یونیورسل ٹائم -12,
-      Standard: کوآرڈینیٹڈ یونیورسل ٹائم -12,
-      Daylight: کوآرڈینیٹڈ یونیورسل ٹائم -12
-    }
-  },
-  {
-    Key: Etc/GMT+2,
-    Value: {
-      Generic: کوآرڈینیٹڈ یونیورسل ٹائم -2,
-      Standard: کوآرڈینیٹڈ یونیورسل ٹائم -2,
-      Daylight: کوآرڈینیٹڈ یونیورسل ٹائم -2
-    }
-  },
-  {
-    Key: Etc/GMT+3,
-    Value: {
-      Generic: کوآرڈینیٹڈ یونیورسل ٹائم -3,
-      Standard: کوآرڈینیٹڈ یونیورسل ٹائم -3,
-      Daylight: کوآرڈینیٹڈ یونیورسل ٹائم -3
-    }
-  },
-  {
-    Key: Etc/GMT+4,
-    Value: {
-      Generic: کوآرڈینیٹڈ یونیورسل ٹائم -4,
-      Standard: کوآرڈینیٹڈ یونیورسل ٹائم -4,
-      Daylight: کوآرڈینیٹڈ یونیورسل ٹائم -4
-    }
-  },
-  {
-    Key: Etc/GMT+5,
-    Value: {
-      Generic: کوآرڈینیٹڈ یونیورسل ٹائم -5,
-      Standard: کوآرڈینیٹڈ یونیورسل ٹائم -5,
-      Daylight: کوآرڈینیٹڈ یونیورسل ٹائم -5
-    }
-  },
-  {
-    Key: Etc/GMT+6,
-    Value: {
-      Generic: کوآرڈینیٹڈ یونیورسل ٹائم -6,
-      Standard: کوآرڈینیٹڈ یونیورسل ٹائم -6,
-      Daylight: کوآرڈینیٹڈ یونیورسل ٹائم -6
-    }
-  },
-  {
-    Key: Etc/GMT+7,
-    Value: {
-      Generic: کوآرڈینیٹڈ یونیورسل ٹائم -7,
-      Standard: کوآرڈینیٹڈ یونیورسل ٹائم -7,
-      Daylight: کوآرڈینیٹڈ یونیورسل ٹائم -7
-    }
-  },
-  {
-    Key: Etc/GMT+8,
-    Value: {
-      Generic: کوآرڈینیٹڈ یونیورسل ٹائم -8,
-      Standard: کوآرڈینیٹڈ یونیورسل ٹائم -8,
-      Daylight: کوآرڈینیٹڈ یونیورسل ٹائم -8
-    }
-  },
-  {
-    Key: Etc/GMT+9,
-    Value: {
-      Generic: کوآرڈینیٹڈ یونیورسل ٹائم -9,
-      Standard: کوآرڈینیٹڈ یونیورسل ٹائم -9,
-      Daylight: کوآرڈینیٹڈ یونیورسل ٹائم -9
-    }
-  },
-  {
-    Key: Etc/GMT0,
-    Value: {
-      Generic: گرین وچ مین ٹائم,
-      Standard: گرین وچ مین ٹائم,
-      Daylight: گرین وچ مین ٹائم
-    }
-  },
-  {
-    Key: Etc/Greenwich,
-    Value: {
-      Generic: گرین وچ مین ٹائم,
-      Standard: گرین وچ مین ٹائم,
-      Daylight: گرین وچ مین ٹائم
-    }
-  },
-  {
-    Key: Etc/UCT,
-    Value: {
-      Generic: کوآرڈینیٹڈ یونیورسل ٹائم,
-      Standard: کوآرڈینیٹڈ یونیورسل ٹائم,
-      Daylight: کوآرڈینیٹڈ یونیورسل ٹائم
-    }
-  },
-  {
-    Key: Etc/Universal,
-    Value: {
-      Generic: کوآرڈینیٹڈ یونیورسل ٹائم,
-      Standard: کوآرڈینیٹڈ یونیورسل ٹائم,
-      Daylight: کوآرڈینیٹڈ یونیورسل ٹائم
-    }
-  },
-  {
-    Key: Etc/UTC,
-    Value: {
-      Generic: کوآرڈینیٹڈ یونیورسل ٹائم,
-      Standard: کوآرڈینیٹڈ یونیورسل ٹائم,
-      Daylight: کوآرڈینیٹڈ یونیورسل ٹائم
-    }
-  },
-  {
-    Key: Etc/Zulu,
-    Value: {
-      Generic: کوآرڈینیٹڈ یونیورسل ٹائم,
-      Standard: کوآرڈینیٹڈ یونیورسل ٹائم,
-      Daylight: کوآرڈینیٹڈ یونیورسل ٹائم
-    }
-  },
-  {
-    Key: Europe/Amsterdam,
-    Value: {
-      Generic: وسطی یورپ کا وقت,
-      Standard: وسطی یورپ کا معیاری وقت,
-      Daylight: وسطی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Andorra,
-    Value: {
-      Generic: وسطی یورپ کا وقت,
-      Standard: وسطی یورپ کا معیاری وقت,
-      Daylight: وسطی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Astrakhan,
-    Value: {
-      Generic: استراخان وقت,
-      Standard: استراخان معیاری وقت,
-      Daylight: استراخان دن کا وقت
-    }
-  },
-  {
-    Key: Europe/Athens,
-    Value: {
-      Generic: مشرقی یورپ کا وقت,
-      Standard: مشرقی یورپ کا معیاری وقت,
-      Daylight: مشرقی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Belfast,
-    Value: {
-      Generic: سلطنت متحدہ وقت,
-      Standard: گرین وچ مین ٹائم,
-      Daylight: برٹش سمر ٹائم
-    }
-  },
-  {
-    Key: Europe/Belgrade,
-    Value: {
-      Generic: وسطی یورپ کا وقت,
-      Standard: وسطی یورپ کا معیاری وقت,
-      Daylight: وسطی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Berlin,
-    Value: {
-      Generic: وسطی یورپ کا وقت,
-      Standard: وسطی یورپ کا معیاری وقت,
-      Daylight: وسطی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Bratislava,
-    Value: {
-      Generic: وسطی یورپ کا وقت,
-      Standard: وسطی یورپ کا معیاری وقت,
-      Daylight: وسطی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Brussels,
-    Value: {
-      Generic: وسطی یورپ کا وقت,
-      Standard: وسطی یورپ کا معیاری وقت,
-      Daylight: وسطی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Bucharest,
-    Value: {
-      Generic: مشرقی یورپ کا وقت,
-      Standard: مشرقی یورپ کا معیاری وقت,
-      Daylight: مشرقی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Budapest,
-    Value: {
-      Generic: وسطی یورپ کا وقت,
-      Standard: وسطی یورپ کا معیاری وقت,
-      Daylight: وسطی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Busingen,
-    Value: {
-      Generic: وسطی یورپ کا وقت,
-      Standard: وسطی یورپ کا معیاری وقت,
-      Daylight: وسطی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Chisinau,
-    Value: {
-      Generic: مشرقی یورپ کا وقت,
-      Standard: مشرقی یورپ کا معیاری وقت,
-      Daylight: مشرقی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Copenhagen,
-    Value: {
-      Generic: وسطی یورپ کا وقت,
-      Standard: وسطی یورپ کا معیاری وقت,
-      Daylight: وسطی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Dublin,
-    Value: {
-      Generic: آئرلینڈ وقت,
-      Standard: گرین وچ مین ٹائم,
-      Daylight: آئرش اسٹینڈرڈ ٹائم
-    }
-  },
-  {
-    Key: Europe/Gibraltar,
-    Value: {
-      Generic: وسطی یورپ کا وقت,
-      Standard: وسطی یورپ کا معیاری وقت,
-      Daylight: وسطی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Guernsey,
-    Value: {
-      Generic: گرین وچ مین ٹائم,
-      Standard: گرین وچ مین ٹائم,
-      Daylight: گرین وچ مین ٹائم
-    }
-  },
-  {
-    Key: Europe/Helsinki,
-    Value: {
-      Generic: مشرقی یورپ کا وقت,
-      Standard: مشرقی یورپ کا معیاری وقت,
-      Daylight: مشرقی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Isle_of_Man,
-    Value: {
-      Generic: گرین وچ مین ٹائم,
-      Standard: گرین وچ مین ٹائم,
-      Daylight: گرین وچ مین ٹائم
-    }
-  },
-  {
-    Key: Europe/Istanbul,
-    Value: {
-      Generic: ترکی وقت,
-      Standard: ترکی معیاری وقت,
-      Daylight: ترکی دن کا وقت
-    }
-  },
-  {
-    Key: Europe/Jersey,
-    Value: {
-      Generic: گرین وچ مین ٹائم,
-      Standard: گرین وچ مین ٹائم,
-      Daylight: گرین وچ مین ٹائم
-    }
-  },
-  {
-    Key: Europe/Kaliningrad,
-    Value: {
-      Generic: کالينينغراد وقت,
-      Standard: کالينينغراد معیاری وقت,
-      Daylight: کالينينغراد دن کا وقت
-    }
-  },
-  {
-    Key: Europe/Kiev,
-    Value: {
-      Generic: مشرقی یورپ کا وقت,
-      Standard: مشرقی یورپ کا معیاری وقت,
-      Daylight: مشرقی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Kirov,
-    Value: {
-      Generic: کیروف وقت,
-      Standard: کیروف معیاری وقت,
-      Daylight: کیروف دن کا وقت
-    }
-  },
-  {
-    Key: Europe/Kyiv,
-    Value: {
-      Generic: یوکرین وقت,
-      Standard: یوکرین معیاری وقت,
-      Daylight: یوکرین دن کا وقت
-    }
-  },
-  {
-    Key: Europe/Lisbon,
-    Value: {
-      Generic: مغربی یورپ کا وقت,
-      Standard: مغربی یورپ کا معیاری وقت,
-      Daylight: مغربی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Ljubljana,
-    Value: {
-      Generic: وسطی یورپ کا وقت,
-      Standard: وسطی یورپ کا معیاری وقت,
-      Daylight: وسطی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/London,
-    Value: {
-      Generic: سلطنت متحدہ وقت,
-      Standard: گرین وچ مین ٹائم,
-      Daylight: برٹش سمر ٹائم
-    }
-  },
-  {
-    Key: Europe/Luxembourg,
-    Value: {
-      Generic: وسطی یورپ کا وقت,
-      Standard: وسطی یورپ کا معیاری وقت,
-      Daylight: وسطی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Madrid,
-    Value: {
-      Generic: وسطی یورپ کا وقت,
-      Standard: وسطی یورپ کا معیاری وقت,
-      Daylight: وسطی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Malta,
-    Value: {
-      Generic: وسطی یورپ کا وقت,
-      Standard: وسطی یورپ کا معیاری وقت,
-      Daylight: وسطی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Mariehamn,
-    Value: {
-      Generic: مشرقی یورپ کا وقت,
-      Standard: مشرقی یورپ کا معیاری وقت,
-      Daylight: مشرقی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Minsk,
-    Value: {
-      Generic: ماسکو ٹائم,
-      Standard: ماسکو اسٹینڈرڈ ٹائم,
-      Daylight: ماسکو سمر ٹائم
-    }
-  },
-  {
-    Key: Europe/Monaco,
-    Value: {
-      Generic: وسطی یورپ کا وقت,
-      Standard: وسطی یورپ کا معیاری وقت,
-      Daylight: وسطی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Moscow,
-    Value: {
-      Generic: ماسکو وقت,
-      Standard: ماسکو معیاری وقت,
-      Daylight: ماسکو دن کا وقت
-    }
-  },
-  {
-    Key: Europe/Nicosia,
-    Value: {
-      Generic: مشرقی یورپ کا وقت,
-      Standard: مشرقی یورپ کا معیاری وقت,
-      Daylight: مشرقی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Oslo,
-    Value: {
-      Generic: وسطی یورپ کا وقت,
-      Standard: وسطی یورپ کا معیاری وقت,
-      Daylight: وسطی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Paris,
-    Value: {
-      Generic: وسطی یورپ کا وقت,
-      Standard: وسطی یورپ کا معیاری وقت,
-      Daylight: وسطی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Podgorica,
-    Value: {
-      Generic: وسطی یورپ کا وقت,
-      Standard: وسطی یورپ کا معیاری وقت,
-      Daylight: وسطی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Prague,
-    Value: {
-      Generic: وسطی یورپ کا وقت,
-      Standard: وسطی یورپ کا معیاری وقت,
-      Daylight: وسطی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Riga,
-    Value: {
-      Generic: مشرقی یورپ کا وقت,
-      Standard: مشرقی یورپ کا معیاری وقت,
-      Daylight: مشرقی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Rome,
-    Value: {
-      Generic: وسطی یورپ کا وقت,
-      Standard: وسطی یورپ کا معیاری وقت,
-      Daylight: وسطی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Samara,
-    Value: {
-      Generic: سمارا وقت,
-      Standard: سمارا معیاری وقت,
-      Daylight: سمارا دن کا وقت
-    }
-  },
-  {
-    Key: Europe/San_Marino,
-    Value: {
-      Generic: وسطی یورپ کا وقت,
-      Standard: وسطی یورپ کا معیاری وقت,
-      Daylight: وسطی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Sarajevo,
-    Value: {
-      Generic: وسطی یورپ کا وقت,
-      Standard: وسطی یورپ کا معیاری وقت,
-      Daylight: وسطی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Saratov,
-    Value: {
-      Generic: سیراٹو وقت,
-      Standard: سیراٹو معیاری وقت,
-      Daylight: سیراٹو دن کا وقت
-    }
-  },
-  {
-    Key: Europe/Simferopol,
-    Value: {
-      Generic: ماسکو ٹائم,
-      Standard: ماسکو اسٹینڈرڈ ٹائم,
-      Daylight: ماسکو سمر ٹائم
-    }
-  },
-  {
-    Key: Europe/Skopje,
-    Value: {
-      Generic: وسطی یورپ کا وقت,
-      Standard: وسطی یورپ کا معیاری وقت,
-      Daylight: وسطی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Sofia,
-    Value: {
-      Generic: مشرقی یورپ کا وقت,
-      Standard: مشرقی یورپ کا معیاری وقت,
-      Daylight: مشرقی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Stockholm,
-    Value: {
-      Generic: وسطی یورپ کا وقت,
-      Standard: وسطی یورپ کا معیاری وقت,
-      Daylight: وسطی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Tallinn,
-    Value: {
-      Generic: مشرقی یورپ کا وقت,
-      Standard: مشرقی یورپ کا معیاری وقت,
-      Daylight: مشرقی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Tirane,
-    Value: {
-      Generic: وسطی یورپ کا وقت,
-      Standard: وسطی یورپ کا معیاری وقت,
-      Daylight: وسطی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Tiraspol,
-    Value: {
-      Generic: مشرقی یورپ کا وقت,
-      Standard: مشرقی یورپ کا معیاری وقت,
-      Daylight: مشرقی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Ulyanovsk,
-    Value: {
-      Generic: الیانوسک وقت,
-      Standard: الیانوسک معیاری وقت,
-      Daylight: الیانوسک دن کا وقت
-    }
-  },
-  {
-    Key: Europe/Uzhgorod,
-    Value: {
-      Generic: مشرقی یورپ کا وقت,
-      Standard: مشرقی یورپ کا معیاری وقت,
-      Daylight: مشرقی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Vaduz,
-    Value: {
-      Generic: وسطی یورپ کا وقت,
-      Standard: وسطی یورپ کا معیاری وقت,
-      Daylight: وسطی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Vatican,
-    Value: {
-      Generic: وسطی یورپ کا وقت,
-      Standard: وسطی یورپ کا معیاری وقت,
-      Daylight: وسطی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Vienna,
-    Value: {
-      Generic: وسطی یورپ کا وقت,
-      Standard: وسطی یورپ کا معیاری وقت,
-      Daylight: وسطی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Vilnius,
-    Value: {
-      Generic: مشرقی یورپ کا وقت,
-      Standard: مشرقی یورپ کا معیاری وقت,
-      Daylight: مشرقی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Volgograd,
-    Value: {
-      Generic: وولگوگراد وقت,
-      Standard: وولگوگراد معیاری وقت,
-      Daylight: وولگوگراد دن کا وقت
-    }
-  },
-  {
-    Key: Europe/Warsaw,
-    Value: {
-      Generic: وسطی یورپ کا وقت,
-      Standard: وسطی یورپ کا معیاری وقت,
-      Daylight: وسطی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Zagreb,
-    Value: {
-      Generic: وسطی یورپ کا وقت,
-      Standard: وسطی یورپ کا معیاری وقت,
-      Daylight: وسطی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Zaporozhye,
-    Value: {
-      Generic: مشرقی یورپ کا وقت,
-      Standard: مشرقی یورپ کا معیاری وقت,
-      Daylight: مشرقی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Europe/Zurich,
-    Value: {
-      Generic: وسطی یورپ کا وقت,
-      Standard: وسطی یورپ کا معیاری وقت,
-      Daylight: وسطی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: GB,
-    Value: {
-      Generic: سلطنت متحدہ وقت,
-      Standard: گرین وچ مین ٹائم,
-      Daylight: برٹش سمر ٹائم
-    }
-  },
-  {
-    Key: GB-Eire,
-    Value: {
-      Generic: سلطنت متحدہ وقت,
-      Standard: گرین وچ مین ٹائم,
-      Daylight: برٹش سمر ٹائم
-    }
-  },
-  {
-    Key: GMT,
-    Value: {
-      Generic: گرین وچ مین ٹائم,
-      Standard: گرین وچ مین ٹائم,
-      Daylight: گرین وچ مین ٹائم
-    }
-  },
-  {
-    Key: GMT-0,
-    Value: {
-      Generic: گرین وچ مین ٹائم,
-      Standard: گرین وچ مین ٹائم,
-      Daylight: گرین وچ مین ٹائم
-    }
-  },
-  {
-    Key: GMT+0,
-    Value: {
-      Generic: گرین وچ مین ٹائم,
-      Standard: گرین وچ مین ٹائم,
-      Daylight: گرین وچ مین ٹائم
-    }
-  },
-  {
-    Key: GMT0,
-    Value: {
-      Generic: گرین وچ مین ٹائم,
-      Standard: گرین وچ مین ٹائم,
-      Daylight: گرین وچ مین ٹائم
-    }
-  },
-  {
-    Key: Greenwich,
-    Value: {
-      Generic: گرین وچ مین ٹائم,
-      Standard: گرین وچ مین ٹائم,
-      Daylight: گرین وچ مین ٹائم
-    }
-  },
-  {
-    Key: Hongkong,
-    Value: {
-      Generic: ہانگ کانگ ٹائم,
-      Standard: ہانگ کانگ سٹینڈرڈ ٹائم,
-      Daylight: ہانگ کانگ سمر ٹائم
-    }
-  },
-  {
-    Key: HST,
-    Value: {
-      Generic: کوآرڈینیٹڈ یونیورسل ٹائم -10,
-      Standard: کوآرڈینیٹڈ یونیورسل ٹائم -10,
-      Daylight: کوآرڈینیٹڈ یونیورسل ٹائم -10
-    }
-  },
-  {
-    Key: Iceland,
-    Value: {
-      Generic: گرین وچ مین ٹائم,
-      Standard: گرین وچ مین ٹائم,
-      Daylight: گرین وچ مین ٹائم
-    }
-  },
-  {
-    Key: Indian/Antananarivo,
-    Value: {
-      Generic: مشرقی افریقہ ٹائم,
-      Standard: مشرقی افریقہ ٹائم,
-      Daylight: مشرقی افریقہ ٹائم
-    }
-  },
-  {
-    Key: Indian/Chagos,
-    Value: {
-      Generic: بحر ہند ٹائم,
-      Standard: بحر ہند ٹائم,
-      Daylight: بحر ہند ٹائم
-    }
-  },
-  {
-    Key: Indian/Christmas,
-    Value: {
-      Generic: کرسمس آئلینڈ ٹائم,
-      Standard: کرسمس آئلینڈ ٹائم,
-      Daylight: کرسمس آئلینڈ ٹائم
-    }
-  },
-  {
-    Key: Indian/Cocos,
-    Value: {
-      Generic: کوکوس آئلینڈز ٹائم,
-      Standard: کوکوس آئلینڈز ٹائم,
-      Daylight: کوکوس آئلینڈز ٹائم
-    }
-  },
-  {
-    Key: Indian/Comoro,
-    Value: {
-      Generic: مشرقی افریقہ ٹائم,
-      Standard: مشرقی افریقہ ٹائم,
-      Daylight: مشرقی افریقہ ٹائم
-    }
-  },
-  {
-    Key: Indian/Kerguelen,
-    Value: {
-      Generic: فرینچ جنوبی اور انٹارکٹک ٹائم,
-      Standard: فرینچ جنوبی اور انٹارکٹک ٹائم,
-      Daylight: فرینچ جنوبی اور انٹارکٹک ٹائم
-    }
-  },
-  {
-    Key: Indian/Mahe,
-    Value: {
-      Generic: سیشلیز ٹائم,
-      Standard: سیشلیز ٹائم,
-      Daylight: سیشلیز ٹائم
-    }
-  },
-  {
-    Key: Indian/Maldives,
-    Value: {
-      Generic: مالدیپ ٹائم,
-      Standard: مالدیپ ٹائم,
-      Daylight: مالدیپ ٹائم
-    }
-  },
-  {
-    Key: Indian/Mauritius,
-    Value: {
-      Generic: ماریشس ٹائم,
-      Standard: ماریشس سٹینڈرڈ ٹائم,
-      Daylight: ماریشس سمر ٹائم
-    }
-  },
-  {
-    Key: Indian/Mayotte,
-    Value: {
-      Generic: مشرقی افریقہ ٹائم,
-      Standard: مشرقی افریقہ ٹائم,
-      Daylight: مشرقی افریقہ ٹائم
-    }
-  },
-  {
-    Key: Indian/Reunion,
-    Value: {
-      Generic: ری یونین ٹائم,
-      Standard: ری یونین ٹائم,
-      Daylight: ری یونین ٹائم
-    }
-  },
-  {
-    Key: Iran,
-    Value: {
-      Generic: ایران ٹائم,
-      Standard: ایران سٹینڈرڈ ٹائم,
-      Daylight: ایران ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Israel,
-    Value: {
-      Generic: اسرائیل ٹائم,
-      Standard: اسرائیل سٹینڈرڈ ٹائم,
-      Daylight: اسرائیل ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Jamaica,
-    Value: {
-      Generic: ایسٹرن ٹائم,
-      Standard: ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Japan,
-    Value: {
-      Generic: جاپان ٹائم,
-      Standard: جاپان سٹینڈرڈ ٹائم,
-      Daylight: جاپان ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Kwajalein,
-    Value: {
-      Generic: مارشل آئلینڈز ٹائم,
-      Standard: مارشل آئلینڈز ٹائم,
-      Daylight: مارشل آئلینڈز ٹائم
-    }
-  },
-  {
-    Key: Libya,
-    Value: {
-      Generic: مشرقی یورپ کا وقت,
-      Standard: مشرقی یورپ کا معیاری وقت,
-      Daylight: مشرقی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: MET,
-    Value: {
-      Generic: وسطی یورپ کا وقت,
-      Standard: وسطی یورپ کا معیاری وقت,
-      Daylight: وسطی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Mexico/BajaNorte,
-    Value: {
-      Generic: پیسفک ٹائم,
-      Standard: پیسفک اسٹینڈرڈ ٹائم,
-      Daylight: پیسفک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Mexico/BajaSur,
-    Value: {
-      Generic: میکسیکن پیسفک ٹائم,
-      Standard: میکسیکن پیسفک اسٹینڈرڈ ٹائم,
-      Daylight: میکسیکن پیسفک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Mexico/General,
-    Value: {
-      Generic: سنٹرل ٹائم,
-      Standard: سنٹرل اسٹینڈرڈ ٹائم,
-      Daylight: سنٹرل ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: MST,
-    Value: {
-      Generic: کوآرڈینیٹڈ یونیورسل ٹائم -7,
-      Standard: کوآرڈینیٹڈ یونیورسل ٹائم -7,
-      Daylight: کوآرڈینیٹڈ یونیورسل ٹائم -7
-    }
-  },
-  {
-    Key: MST7MDT,
-    Value: {
-      Generic: ماؤنٹین ٹائم,
-      Standard: ماؤنٹین اسٹینڈرڈ ٹائم,
-      Daylight: ماؤنٹین ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Navajo,
-    Value: {
-      Generic: ماؤنٹین ٹائم,
-      Standard: ماؤنٹین اسٹینڈرڈ ٹائم,
-      Daylight: ماؤنٹین ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: NZ,
-    Value: {
-      Generic: نیوزی لینڈ ٹائم,
-      Standard: نیوزی لینڈ سٹینڈرڈ ٹائم,
-      Daylight: نیوزی لینڈ ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: NZ-CHAT,
-    Value: {
-      Generic: چیتھم ٹائم,
-      Standard: چیتھم اسٹینڈرڈ ٹائم,
-      Daylight: چیتھم ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Pacific/Apia,
-    Value: {
-      Generic: ایپیا ٹائم,
-      Standard: ایپیا سٹینڈرڈ ٹائم,
-      Daylight: ایپیا ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Pacific/Auckland,
-    Value: {
-      Generic: نیوزی لینڈ ٹائم,
-      Standard: نیوزی لینڈ سٹینڈرڈ ٹائم,
-      Daylight: نیوزی لینڈ ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Pacific/Bougainville,
-    Value: {
-      Generic: پاپوآ نیو گنی ٹائم,
-      Standard: پاپوآ نیو گنی ٹائم,
-      Daylight: پاپوآ نیو گنی ٹائم
-    }
-  },
-  {
-    Key: Pacific/Chatham,
-    Value: {
-      Generic: چیتھم ٹائم,
-      Standard: چیتھم اسٹینڈرڈ ٹائم,
-      Daylight: چیتھم ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Pacific/Chuuk,
-    Value: {
-      Generic: چوک ٹائم,
-      Standard: چوک ٹائم,
-      Daylight: چوک ٹائم
-    }
-  },
-  {
-    Key: Pacific/Easter,
-    Value: {
-      Generic: ایسٹر آئلینڈ ٹائم,
-      Standard: ایسٹر آئلینڈ سٹینڈرڈ ٹائم,
-      Daylight: ایسٹر آئلینڈ سمر ٹائم
-    }
-  },
-  {
-    Key: Pacific/Efate,
-    Value: {
-      Generic: وانوآٹو ٹائم,
-      Standard: وانوآٹو سٹینڈرڈ ٹائم,
-      Daylight: وانوآٹو سمر ٹائم
-    }
-  },
-  {
-    Key: Pacific/Enderbury,
-    Value: {
-      Generic: فینکس آئلینڈز ٹائم,
-      Standard: فینکس آئلینڈز ٹائم,
-      Daylight: فینکس آئلینڈز ٹائم
-    }
-  },
-  {
-    Key: Pacific/Fakaofo,
-    Value: {
-      Generic: ٹوکیلاؤ ٹائم,
-      Standard: ٹوکیلاؤ ٹائم,
-      Daylight: ٹوکیلاؤ ٹائم
-    }
-  },
-  {
-    Key: Pacific/Fiji,
-    Value: {
-      Generic: فجی ٹائم,
-      Standard: فجی سٹینڈرڈ ٹائم,
-      Daylight: فجی سمر ٹائم
-    }
-  },
-  {
-    Key: Pacific/Funafuti,
-    Value: {
-      Generic: ٹوالو ٹائم,
-      Standard: ٹوالو ٹائم,
-      Daylight: ٹوالو ٹائم
-    }
-  },
-  {
-    Key: Pacific/Galapagos,
-    Value: {
-      Generic: گالاپاگوز ٹائم,
-      Standard: گالاپاگوز ٹائم,
-      Daylight: گالاپاگوز ٹائم
-    }
-  },
-  {
-    Key: Pacific/Gambier,
-    Value: {
-      Generic: گیمبیئر ٹائم,
-      Standard: گیمبیئر ٹائم,
-      Daylight: گیمبیئر ٹائم
-    }
-  },
-  {
-    Key: Pacific/Guadalcanal,
-    Value: {
-      Generic: سولمن آئلینڈز ٹائم,
-      Standard: سولمن آئلینڈز ٹائم,
-      Daylight: سولمن آئلینڈز ٹائم
-    }
-  },
-  {
-    Key: Pacific/Guam,
-    Value: {
-      Generic: چامورو سٹینڈرڈ ٹائم,
-      Standard: چامورو سٹینڈرڈ ٹائم,
-      Daylight: چامورو سٹینڈرڈ ٹائم
-    }
-  },
-  {
-    Key: Pacific/Honolulu,
-    Value: {
-      Generic: ہوائی الیوٹیئن ٹائم,
-      Standard: ہوائی الیوٹیئن اسٹینڈرڈ ٹائم,
-      Daylight: ہوائی الیوٹیئن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Pacific/Johnston,
-    Value: {
-      Generic: ہوائی الیوٹیئن ٹائم,
-      Standard: ہوائی الیوٹیئن اسٹینڈرڈ ٹائم,
-      Daylight: ہوائی الیوٹیئن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Pacific/Kanton,
-    Value: {
-      Generic: فینکس آئلینڈز ٹائم,
-      Standard: فینکس آئلینڈز ٹائم,
-      Daylight: فینکس آئلینڈز ٹائم
-    }
-  },
-  {
-    Key: Pacific/Kiritimati,
-    Value: {
-      Generic: لائن آئلینڈز ٹائم,
-      Standard: لائن آئلینڈز ٹائم,
-      Daylight: لائن آئلینڈز ٹائم
-    }
-  },
-  {
-    Key: Pacific/Kosrae,
-    Value: {
-      Generic: کوسرے ٹائم,
-      Standard: کوسرے ٹائم,
-      Daylight: کوسرے ٹائم
-    }
-  },
-  {
-    Key: Pacific/Kwajalein,
-    Value: {
-      Generic: مارشل آئلینڈز ٹائم,
-      Standard: مارشل آئلینڈز ٹائم,
-      Daylight: مارشل آئلینڈز ٹائم
-    }
-  },
-  {
-    Key: Pacific/Majuro,
-    Value: {
-      Generic: مارشل آئلینڈز ٹائم,
-      Standard: مارشل آئلینڈز ٹائم,
-      Daylight: مارشل آئلینڈز ٹائم
-    }
-  },
-  {
-    Key: Pacific/Marquesas,
-    Value: {
-      Generic: مارکیسس ٹائم,
-      Standard: مارکیسس ٹائم,
-      Daylight: مارکیسس ٹائم
-    }
-  },
-  {
-    Key: Pacific/Midway,
-    Value: {
-      Generic: ساموآ ٹائم,
-      Standard: ساموآ سٹینڈرڈ ٹائم,
-      Daylight: ساموآ ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Pacific/Nauru,
-    Value: {
-      Generic: ناؤرو ٹائم,
-      Standard: ناؤرو ٹائم,
-      Daylight: ناؤرو ٹائم
-    }
-  },
-  {
-    Key: Pacific/Niue,
-    Value: {
-      Generic: نیئو ٹائم,
-      Standard: نیئو ٹائم,
-      Daylight: نیئو ٹائم
-    }
-  },
-  {
-    Key: Pacific/Norfolk,
-    Value: {
-      Generic: نارفوک آئلینڈ کا وقت,
-      Standard: نارفوک آئلینڈ کا معیاری وقت,
-      Daylight: نارفوک آئلینڈ ڈے لائٹ وقت
-    }
-  },
-  {
-    Key: Pacific/Noumea,
-    Value: {
-      Generic: نیو کیلیڈونیا ٹائم,
-      Standard: نیو کیلیڈونیا سٹینڈرڈ ٹائم,
-      Daylight: نیو کیلیڈونیا سمر ٹائم
-    }
-  },
-  {
-    Key: Pacific/Pago_Pago,
-    Value: {
-      Generic: ساموآ ٹائم,
-      Standard: ساموآ سٹینڈرڈ ٹائم,
-      Daylight: ساموآ ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Pacific/Palau,
-    Value: {
-      Generic: پلاؤ ٹائم,
-      Standard: پلاؤ ٹائم,
-      Daylight: پلاؤ ٹائم
-    }
-  },
-  {
-    Key: Pacific/Pitcairn,
-    Value: {
-      Generic: پٹکائرن ٹائم,
-      Standard: پٹکائرن ٹائم,
-      Daylight: پٹکائرن ٹائم
-    }
-  },
-  {
-    Key: Pacific/Pohnpei,
-    Value: {
-      Generic: پوناپے ٹائم,
-      Standard: پوناپے ٹائم,
-      Daylight: پوناپے ٹائم
-    }
-  },
-  {
-    Key: Pacific/Ponape,
-    Value: {
-      Generic: پوناپے ٹائم,
-      Standard: پوناپے ٹائم,
-      Daylight: پوناپے ٹائم
-    }
-  },
-  {
-    Key: Pacific/Port_Moresby,
-    Value: {
-      Generic: پاپوآ نیو گنی ٹائم,
-      Standard: پاپوآ نیو گنی ٹائم,
-      Daylight: پاپوآ نیو گنی ٹائم
-    }
-  },
-  {
-    Key: Pacific/Rarotonga,
-    Value: {
-      Generic: کک آئلینڈز ٹائم,
-      Standard: کک آئلینڈز سٹینڈرڈ ٹائم,
-      Daylight: کک آئلینڈز نصف سمر ٹائم
-    }
-  },
-  {
-    Key: Pacific/Saipan,
-    Value: {
-      Generic: چامورو سٹینڈرڈ ٹائم,
-      Standard: چامورو سٹینڈرڈ ٹائم,
-      Daylight: چامورو سٹینڈرڈ ٹائم
-    }
-  },
-  {
-    Key: Pacific/Samoa,
-    Value: {
-      Generic: ساموآ ٹائم,
-      Standard: ساموآ سٹینڈرڈ ٹائم,
-      Daylight: ساموآ ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Pacific/Tahiti,
-    Value: {
-      Generic: تاہیتی ٹائم,
-      Standard: تاہیتی ٹائم,
-      Daylight: تاہیتی ٹائم
-    }
-  },
-  {
-    Key: Pacific/Tarawa,
-    Value: {
-      Generic: جلبرٹ آئلینڈز ٹائم,
-      Standard: جلبرٹ آئلینڈز ٹائم,
-      Daylight: جلبرٹ آئلینڈز ٹائم
-    }
-  },
-  {
-    Key: Pacific/Tongatapu,
-    Value: {
-      Generic: ٹونگا ٹائم,
-      Standard: ٹونگا سٹینڈرڈ ٹائم,
-      Daylight: ٹونگا سمر ٹائم
-    }
-  },
-  {
-    Key: Pacific/Truk,
-    Value: {
-      Generic: چوک ٹائم,
-      Standard: چوک ٹائم,
-      Daylight: چوک ٹائم
-    }
-  },
-  {
-    Key: Pacific/Wake,
-    Value: {
-      Generic: ویک آئلینڈ ٹائم,
-      Standard: ویک آئلینڈ ٹائم,
-      Daylight: ویک آئلینڈ ٹائم
-    }
-  },
-  {
-    Key: Pacific/Wallis,
-    Value: {
-      Generic: والیز اور فٹونا ٹائم,
-      Standard: والیز اور فٹونا ٹائم,
-      Daylight: والیز اور فٹونا ٹائم
-    }
-  },
-  {
-    Key: Pacific/Yap,
-    Value: {
-      Generic: چوک ٹائم,
-      Standard: چوک ٹائم,
-      Daylight: چوک ٹائم
-    }
-  },
-  {
-    Key: Poland,
-    Value: {
-      Generic: وسطی یورپ کا وقت,
-      Standard: وسطی یورپ کا معیاری وقت,
-      Daylight: وسطی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Portugal,
-    Value: {
-      Generic: مغربی یورپ کا وقت,
-      Standard: مغربی یورپ کا معیاری وقت,
-      Daylight: مغربی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: PRC,
-    Value: {
-      Generic: چین کا وقت,
-      Standard: چین سٹینڈرڈ ٹائم,
-      Daylight: چینی ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: PST8PDT,
-    Value: {
-      Generic: پیسفک ٹائم,
-      Standard: پیسفک اسٹینڈرڈ ٹائم,
-      Daylight: پیسفک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: ROC,
-    Value: {
-      Generic: تائی پیئی ٹائم,
-      Standard: تائی پیئی اسٹینڈرڈ ٹائم,
-      Daylight: تئی پیئی ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: ROK,
-    Value: {
-      Generic: کوریا ٹائم,
-      Standard: کوریا سٹینڈرڈ ٹائم,
-      Daylight: کوریا ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: Singapore,
-    Value: {
-      Generic: سنگاپور سٹینڈرڈ ٹائم,
-      Standard: سنگاپور سٹینڈرڈ ٹائم,
-      Daylight: سنگاپور سٹینڈرڈ ٹائم
-    }
-  },
-  {
-    Key: Turkey,
-    Value: {
-      Generic: ترکی وقت,
-      Standard: ترکی معیاری وقت,
-      Daylight: ترکی دن کا وقت
-    }
-  },
-  {
-    Key: UCT,
-    Value: {
-      Generic: کوآرڈینیٹڈ یونیورسل ٹائم,
-      Standard: کوآرڈینیٹڈ یونیورسل ٹائم,
-      Daylight: کوآرڈینیٹڈ یونیورسل ٹائم
-    }
-  },
-  {
-    Key: Universal,
-    Value: {
-      Generic: کوآرڈینیٹڈ یونیورسل ٹائم,
-      Standard: کوآرڈینیٹڈ یونیورسل ٹائم,
-      Daylight: کوآرڈینیٹڈ یونیورسل ٹائم
-    }
-  },
-  {
-    Key: US/Alaska,
-    Value: {
-      Generic: الاسکا ٹائم,
-      Standard: الاسکا اسٹینڈرڈ ٹائم,
-      Daylight: الاسکا ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: US/Aleutian,
-    Value: {
-      Generic: ہوائی الیوٹیئن ٹائم,
-      Standard: ہوائی الیوٹیئن اسٹینڈرڈ ٹائم,
-      Daylight: ہوائی الیوٹیئن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: US/Arizona,
-    Value: {
-      Generic: ماؤنٹین ٹائم,
-      Standard: ماؤنٹین اسٹینڈرڈ ٹائم,
-      Daylight: ماؤنٹین ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: US/Central,
-    Value: {
-      Generic: سنٹرل ٹائم,
-      Standard: سنٹرل اسٹینڈرڈ ٹائم,
-      Daylight: سنٹرل ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: US/East-Indiana,
-    Value: {
-      Generic: ایسٹرن ٹائم,
-      Standard: ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: US/Eastern,
-    Value: {
-      Generic: ایسٹرن ٹائم,
-      Standard: ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: US/Hawaii,
-    Value: {
-      Generic: ہوائی الیوٹیئن ٹائم,
-      Standard: ہوائی الیوٹیئن اسٹینڈرڈ ٹائم,
-      Daylight: ہوائی الیوٹیئن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: US/Indiana-Starke,
-    Value: {
-      Generic: سنٹرل ٹائم,
-      Standard: سنٹرل اسٹینڈرڈ ٹائم,
-      Daylight: سنٹرل ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: US/Michigan,
-    Value: {
-      Generic: ایسٹرن ٹائم,
-      Standard: ایسٹرن اسٹینڈرڈ ٹائم,
-      Daylight: ایسٹرن ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: US/Mountain,
-    Value: {
-      Generic: ماؤنٹین ٹائم,
-      Standard: ماؤنٹین اسٹینڈرڈ ٹائم,
-      Daylight: ماؤنٹین ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: US/Pacific,
-    Value: {
-      Generic: پیسفک ٹائم,
-      Standard: پیسفک اسٹینڈرڈ ٹائم,
-      Daylight: پیسفک ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: US/Samoa,
-    Value: {
-      Generic: ساموآ ٹائم,
-      Standard: ساموآ سٹینڈرڈ ٹائم,
-      Daylight: ساموآ ڈے لائٹ ٹائم
-    }
-  },
-  {
-    Key: UTC,
-    Value: {
-      Generic: کوآرڈینیٹڈ یونیورسل ٹائم,
-      Standard: کوآرڈینیٹڈ یونیورسل ٹائم,
-      Daylight: کوآرڈینیٹڈ یونیورسل ٹائم
-    }
-  },
-  {
-    Key: W-SU,
-    Value: {
-      Generic: ماسکو وقت,
-      Standard: ماسکو معیاری وقت,
-      Daylight: ماسکو دن کا وقت
-    }
-  },
-  {
-    Key: WET,
-    Value: {
-      Generic: مغربی یورپ کا وقت,
-      Standard: مغربی یورپ کا معیاری وقت,
-      Daylight: مغربی یورپ کا موسم گرما کا وقت
-    }
-  },
-  {
-    Key: Zulu,
-    Value: {
-      Generic: کوآرڈینیٹڈ یونیورسل ٹائم,
-      Standard: کوآرڈینیٹڈ یونیورسل ٹائم,
-      Daylight: کوآرڈینیٹڈ یونیورسل ٹائم
-    }
+﻿{
+  Australia/Darwin: {
+    Generic: سنٹرل آسٹریلیا ٹائم,
+    Standard: آسٹریلین سنٹرل اسٹینڈرڈ ٹائم,
+    Daylight: آسٹریلین سنٹرل ڈے لائٹ ٹائم
+  },
+  Australia/Sydney: {
+    Generic: ایسٹرن آسٹریلیا ٹائم,
+    Standard: آسٹریلین ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: آسٹریلین ایسٹرن ڈے لائٹ ٹائم
+  },
+  Australia/Melbourne: {
+    Generic: ایسٹرن آسٹریلیا ٹائم,
+    Standard: آسٹریلین ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: آسٹریلین ایسٹرن ڈے لائٹ ٹائم
+  },
+  Asia/Kabul: {
+    Generic: افغانستان ٹائم,
+    Standard: افغانستان ٹائم,
+    Daylight: افغانستان ٹائم
+  },
+  America/Anchorage: {
+    Generic: الاسکا ٹائم,
+    Standard: الاسکا اسٹینڈرڈ ٹائم,
+    Daylight: الاسکا ڈے لائٹ ٹائم
+  },
+  America/Juneau: {
+    Generic: الاسکا ٹائم,
+    Standard: الاسکا اسٹینڈرڈ ٹائم,
+    Daylight: الاسکا ڈے لائٹ ٹائم
+  },
+  America/Metlakatla: {
+    Generic: الاسکا ٹائم,
+    Standard: الاسکا اسٹینڈرڈ ٹائم,
+    Daylight: الاسکا ڈے لائٹ ٹائم
+  },
+  America/Nome: {
+    Generic: الاسکا ٹائم,
+    Standard: الاسکا اسٹینڈرڈ ٹائم,
+    Daylight: الاسکا ڈے لائٹ ٹائم
+  },
+  America/Sitka: {
+    Generic: الاسکا ٹائم,
+    Standard: الاسکا اسٹینڈرڈ ٹائم,
+    Daylight: الاسکا ڈے لائٹ ٹائم
+  },
+  America/Yakutat: {
+    Generic: الاسکا ٹائم,
+    Standard: الاسکا اسٹینڈرڈ ٹائم,
+    Daylight: الاسکا ڈے لائٹ ٹائم
+  },
+  America/Adak: {
+    Generic: ہوائی الیوٹیئن ٹائم,
+    Standard: ہوائی الیوٹیئن اسٹینڈرڈ ٹائم,
+    Daylight: ہوائی الیوٹیئن ڈے لائٹ ٹائم
+  },
+  Asia/Barnaul: {
+    Generic: برنال وقت,
+    Standard: برنال معیاری وقت,
+    Daylight: برنال دن کا وقت
+  },
+  Asia/Riyadh: {
+    Generic: عرب ٹائم,
+    Standard: عرب سٹینڈرڈ ٹائم,
+    Daylight: عرب ڈے لائٹ ٹائم
+  },
+  Asia/Bahrain: {
+    Generic: عرب ٹائم,
+    Standard: عرب سٹینڈرڈ ٹائم,
+    Daylight: عرب ڈے لائٹ ٹائم
+  },
+  Asia/Kuwait: {
+    Generic: عرب ٹائم,
+    Standard: عرب سٹینڈرڈ ٹائم,
+    Daylight: عرب ڈے لائٹ ٹائم
+  },
+  Asia/Qatar: {
+    Generic: عرب ٹائم,
+    Standard: عرب سٹینڈرڈ ٹائم,
+    Daylight: عرب ڈے لائٹ ٹائم
+  },
+  Asia/Aden: {
+    Generic: عرب ٹائم,
+    Standard: عرب سٹینڈرڈ ٹائم,
+    Daylight: عرب ڈے لائٹ ٹائم
+  },
+  Asia/Dubai: {
+    Generic: خلیج سٹینڈرڈ ٹائم,
+    Standard: خلیج سٹینڈرڈ ٹائم,
+    Daylight: خلیج سٹینڈرڈ ٹائم
+  },
+  Asia/Muscat: {
+    Generic: خلیج سٹینڈرڈ ٹائم,
+    Standard: خلیج سٹینڈرڈ ٹائم,
+    Daylight: خلیج سٹینڈرڈ ٹائم
+  },
+  Etc/GMT-4: {
+    Generic: کوآرڈینیٹڈ یونیورسل ٹائم +4,
+    Standard: کوآرڈینیٹڈ یونیورسل ٹائم +4,
+    Daylight: کوآرڈینیٹڈ یونیورسل ٹائم +4
+  },
+  Asia/Baghdad: {
+    Generic: عرب ٹائم,
+    Standard: عرب سٹینڈرڈ ٹائم,
+    Daylight: عرب ڈے لائٹ ٹائم
+  },
+  America/Buenos_Aires: {
+    Generic: ارجنٹینا کا وقت,
+    Standard: ارجنٹینا کا معیاری وقت,
+    Daylight: ارجنٹینا کا موسم گرما کا وقت
+  },
+  America/Argentina/La_Rioja: {
+    Generic: ارجنٹینا کا وقت,
+    Standard: ارجنٹینا کا معیاری وقت,
+    Daylight: ارجنٹینا کا موسم گرما کا وقت
+  },
+  America/Argentina/Rio_Gallegos: {
+    Generic: ارجنٹینا کا وقت,
+    Standard: ارجنٹینا کا معیاری وقت,
+    Daylight: ارجنٹینا کا موسم گرما کا وقت
+  },
+  America/Argentina/Salta: {
+    Generic: ارجنٹینا کا وقت,
+    Standard: ارجنٹینا کا معیاری وقت,
+    Daylight: ارجنٹینا کا موسم گرما کا وقت
+  },
+  America/Argentina/San_Juan: {
+    Generic: ارجنٹینا کا وقت,
+    Standard: ارجنٹینا کا معیاری وقت,
+    Daylight: ارجنٹینا کا موسم گرما کا وقت
+  },
+  America/Argentina/San_Luis: {
+    Generic: ارجنٹینا کا وقت,
+    Standard: ارجنٹینا کا معیاری وقت,
+    Daylight: ارجنٹینا کا موسم گرما کا وقت
+  },
+  America/Argentina/Tucuman: {
+    Generic: ارجنٹینا کا وقت,
+    Standard: ارجنٹینا کا معیاری وقت,
+    Daylight: ارجنٹینا کا موسم گرما کا وقت
+  },
+  America/Argentina/Ushuaia: {
+    Generic: ارجنٹینا کا وقت,
+    Standard: ارجنٹینا کا معیاری وقت,
+    Daylight: ارجنٹینا کا موسم گرما کا وقت
+  },
+  America/Catamarca: {
+    Generic: ارجنٹینا کا وقت,
+    Standard: ارجنٹینا کا معیاری وقت,
+    Daylight: ارجنٹینا کا موسم گرما کا وقت
+  },
+  America/Cordoba: {
+    Generic: ارجنٹینا کا وقت,
+    Standard: ارجنٹینا کا معیاری وقت,
+    Daylight: ارجنٹینا کا موسم گرما کا وقت
+  },
+  America/Jujuy: {
+    Generic: ارجنٹینا کا وقت,
+    Standard: ارجنٹینا کا معیاری وقت,
+    Daylight: ارجنٹینا کا موسم گرما کا وقت
+  },
+  America/Mendoza: {
+    Generic: ارجنٹینا کا وقت,
+    Standard: ارجنٹینا کا معیاری وقت,
+    Daylight: ارجنٹینا کا موسم گرما کا وقت
+  },
+  Europe/Astrakhan: {
+    Generic: استراخان وقت,
+    Standard: استراخان معیاری وقت,
+    Daylight: استراخان دن کا وقت
+  },
+  Europe/Ulyanovsk: {
+    Generic: الیانوسک وقت,
+    Standard: الیانوسک معیاری وقت,
+    Daylight: الیانوسک دن کا وقت
+  },
+  America/Halifax: {
+    Generic: اٹلانٹک ٹائم,
+    Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
+    Daylight: اٹلانٹک ڈے لائٹ ٹائم
+  },
+  Atlantic/Bermuda: {
+    Generic: اٹلانٹک ٹائم,
+    Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
+    Daylight: اٹلانٹک ڈے لائٹ ٹائم
+  },
+  America/Glace_Bay: {
+    Generic: اٹلانٹک ٹائم,
+    Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
+    Daylight: اٹلانٹک ڈے لائٹ ٹائم
+  },
+  America/Goose_Bay: {
+    Generic: اٹلانٹک ٹائم,
+    Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
+    Daylight: اٹلانٹک ڈے لائٹ ٹائم
+  },
+  America/Moncton: {
+    Generic: اٹلانٹک ٹائم,
+    Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
+    Daylight: اٹلانٹک ڈے لائٹ ٹائم
+  },
+  America/Thule: {
+    Generic: اٹلانٹک ٹائم,
+    Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
+    Daylight: اٹلانٹک ڈے لائٹ ٹائم
+  },
+  Australia/Eucla: {
+    Generic: آسٹریلین سنٹرل ویسٹرن ٹائم,
+    Standard: آسٹریلین سنٹرل ویسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: آسٹریلین سنٹرل ویسٹرن ڈے لائٹ ٹائم
+  },
+  Asia/Baku: {
+    Generic: آذربائیجان ٹائم,
+    Standard: آذربائیجان سٹینڈرڈ ٹائم,
+    Daylight: آذربائیجان سمر ٹائم
+  },
+  Atlantic/Azores: {
+    Generic: ازوریس کا وقت,
+    Standard: ازوریس کا معیاری وقت,
+    Daylight: ازوریس کا موسم گرما کا وقت
+  },
+  America/Scoresbysund: {
+    Generic: مشرقی گرین لینڈ ٹائم,
+    Standard: مشرقی گرین لینڈ اسٹینڈرڈ ٹائم,
+    Daylight: مشرقی گرین لینڈ کا موسم گرما کا وقت
+  },
+  America/Bahia: {
+    Generic: برازیلیا ٹائم,
+    Standard: برازیلیا سٹینڈرڈ ٹائم,
+    Daylight: برازیلیا سمر ٹائم
+  },
+  Asia/Dhaka: {
+    Generic: بنگلہ دیش ٹائم,
+    Standard: بنگلہ دیش سٹینڈرڈ ٹائم,
+    Daylight: بنگلہ دیش سمر ٹائم
+  },
+  Asia/Thimphu: {
+    Generic: بھوٹان ٹائم,
+    Standard: بھوٹان ٹائم,
+    Daylight: بھوٹان ٹائم
+  },
+  Europe/Minsk: {
+    Generic: ماسکو ٹائم,
+    Standard: ماسکو اسٹینڈرڈ ٹائم,
+    Daylight: ماسکو سمر ٹائم
+  },
+  Pacific/Bougainville: {
+    Generic: پاپوآ نیو گنی ٹائم,
+    Standard: پاپوآ نیو گنی ٹائم,
+    Daylight: پاپوآ نیو گنی ٹائم
+  },
+  America/Regina: {
+    Generic: سنٹرل ٹائم,
+    Standard: سنٹرل اسٹینڈرڈ ٹائم,
+    Daylight: سنٹرل ڈے لائٹ ٹائم
+  },
+  America/Swift_Current: {
+    Generic: سنٹرل ٹائم,
+    Standard: سنٹرل اسٹینڈرڈ ٹائم,
+    Daylight: سنٹرل ڈے لائٹ ٹائم
+  },
+  Atlantic/Cape_Verde: {
+    Generic: کیپ ورڈی ٹائم,
+    Standard: کیپ ورڈی سٹینڈرڈ ٹائم,
+    Daylight: کیپ ورڈی سمر ٹائم
+  },
+  Etc/GMT+1: {
+    Generic: کوآرڈینیٹڈ یونیورسل ٹائم -1,
+    Standard: کوآرڈینیٹڈ یونیورسل ٹائم -1,
+    Daylight: کوآرڈینیٹڈ یونیورسل ٹائم -1
+  },
+  Asia/Yerevan: {
+    Generic: آرمینیا ٹائم,
+    Standard: آرمینیا سٹینڈرڈ ٹائم,
+    Daylight: آرمینیا سمر ٹائم
+  },
+  Australia/Adelaide: {
+    Generic: سنٹرل آسٹریلیا ٹائم,
+    Standard: آسٹریلین سنٹرل اسٹینڈرڈ ٹائم,
+    Daylight: آسٹریلین سنٹرل ڈے لائٹ ٹائم
+  },
+  Australia/Broken_Hill: {
+    Generic: سنٹرل آسٹریلیا ٹائم,
+    Standard: آسٹریلین سنٹرل اسٹینڈرڈ ٹائم,
+    Daylight: آسٹریلین سنٹرل ڈے لائٹ ٹائم
+  },
+  America/Guatemala: {
+    Generic: سنٹرل ٹائم,
+    Standard: سنٹرل اسٹینڈرڈ ٹائم,
+    Daylight: سنٹرل ڈے لائٹ ٹائم
+  },
+  America/Belize: {
+    Generic: سنٹرل ٹائم,
+    Standard: سنٹرل اسٹینڈرڈ ٹائم,
+    Daylight: سنٹرل ڈے لائٹ ٹائم
+  },
+  America/Costa_Rica: {
+    Generic: سنٹرل ٹائم,
+    Standard: سنٹرل اسٹینڈرڈ ٹائم,
+    Daylight: سنٹرل ڈے لائٹ ٹائم
+  },
+  Pacific/Galapagos: {
+    Generic: گالاپاگوز ٹائم,
+    Standard: گالاپاگوز ٹائم,
+    Daylight: گالاپاگوز ٹائم
+  },
+  America/Tegucigalpa: {
+    Generic: سنٹرل ٹائم,
+    Standard: سنٹرل اسٹینڈرڈ ٹائم,
+    Daylight: سنٹرل ڈے لائٹ ٹائم
+  },
+  America/Managua: {
+    Generic: سنٹرل ٹائم,
+    Standard: سنٹرل اسٹینڈرڈ ٹائم,
+    Daylight: سنٹرل ڈے لائٹ ٹائم
+  },
+  America/El_Salvador: {
+    Generic: سنٹرل ٹائم,
+    Standard: سنٹرل اسٹینڈرڈ ٹائم,
+    Daylight: سنٹرل ڈے لائٹ ٹائم
+  },
+  Etc/GMT+6: {
+    Generic: کوآرڈینیٹڈ یونیورسل ٹائم -6,
+    Standard: کوآرڈینیٹڈ یونیورسل ٹائم -6,
+    Daylight: کوآرڈینیٹڈ یونیورسل ٹائم -6
+  },
+  Asia/Almaty: {
+    Generic: مشرقی قزاخستان ٹائم,
+    Standard: مشرقی قزاخستان ٹائم,
+    Daylight: مشرقی قزاخستان ٹائم
+  },
+  Antarctica/Vostok: {
+    Generic: ووسٹاک ٹائم,
+    Standard: ووسٹاک ٹائم,
+    Daylight: ووسٹاک ٹائم
+  },
+  Asia/Urumqi: {
+    Generic: چین وقت,
+    Standard: چین معیاری وقت,
+    Daylight: چین دن کا وقت
+  },
+  Indian/Chagos: {
+    Generic: بحر ہند ٹائم,
+    Standard: بحر ہند ٹائم,
+    Daylight: بحر ہند ٹائم
+  },
+  Asia/Bishkek: {
+    Generic: کرغستان ٹائم,
+    Standard: کرغستان ٹائم,
+    Daylight: کرغستان ٹائم
+  },
+  Asia/Qostanay: {
+    Generic: مشرقی قزاخستان ٹائم,
+    Standard: مشرقی قزاخستان ٹائم,
+    Daylight: مشرقی قزاخستان ٹائم
+  },
+  Etc/GMT-6: {
+    Generic: کوآرڈینیٹڈ یونیورسل ٹائم +6,
+    Standard: کوآرڈینیٹڈ یونیورسل ٹائم +6,
+    Daylight: کوآرڈینیٹڈ یونیورسل ٹائم +6
+  },
+  America/Cuiaba: {
+    Generic: ایمیزون ٹائم,
+    Standard: ایمیزون سٹینڈرڈ ٹائم,
+    Daylight: ایمیزون سمر ٹائم
+  },
+  America/Campo_Grande: {
+    Generic: ایمیزون ٹائم,
+    Standard: ایمیزون سٹینڈرڈ ٹائم,
+    Daylight: ایمیزون سمر ٹائم
+  },
+  Europe/Budapest: {
+    Generic: وسطی یورپ کا وقت,
+    Standard: وسطی یورپ کا معیاری وقت,
+    Daylight: وسطی یورپ کا موسم گرما کا وقت
+  },
+  Europe/Tirane: {
+    Generic: وسطی یورپ کا وقت,
+    Standard: وسطی یورپ کا معیاری وقت,
+    Daylight: وسطی یورپ کا موسم گرما کا وقت
+  },
+  Europe/Prague: {
+    Generic: وسطی یورپ کا وقت,
+    Standard: وسطی یورپ کا معیاری وقت,
+    Daylight: وسطی یورپ کا موسم گرما کا وقت
+  },
+  Europe/Podgorica: {
+    Generic: وسطی یورپ کا وقت,
+    Standard: وسطی یورپ کا معیاری وقت,
+    Daylight: وسطی یورپ کا موسم گرما کا وقت
+  },
+  Europe/Belgrade: {
+    Generic: وسطی یورپ کا وقت,
+    Standard: وسطی یورپ کا معیاری وقت,
+    Daylight: وسطی یورپ کا موسم گرما کا وقت
+  },
+  Europe/Ljubljana: {
+    Generic: وسطی یورپ کا وقت,
+    Standard: وسطی یورپ کا معیاری وقت,
+    Daylight: وسطی یورپ کا موسم گرما کا وقت
+  },
+  Europe/Bratislava: {
+    Generic: وسطی یورپ کا وقت,
+    Standard: وسطی یورپ کا معیاری وقت,
+    Daylight: وسطی یورپ کا موسم گرما کا وقت
+  },
+  Europe/Warsaw: {
+    Generic: وسطی یورپ کا وقت,
+    Standard: وسطی یورپ کا معیاری وقت,
+    Daylight: وسطی یورپ کا موسم گرما کا وقت
+  },
+  Europe/Sarajevo: {
+    Generic: وسطی یورپ کا وقت,
+    Standard: وسطی یورپ کا معیاری وقت,
+    Daylight: وسطی یورپ کا موسم گرما کا وقت
+  },
+  Europe/Zagreb: {
+    Generic: وسطی یورپ کا وقت,
+    Standard: وسطی یورپ کا معیاری وقت,
+    Daylight: وسطی یورپ کا موسم گرما کا وقت
+  },
+  Europe/Skopje: {
+    Generic: وسطی یورپ کا وقت,
+    Standard: وسطی یورپ کا معیاری وقت,
+    Daylight: وسطی یورپ کا موسم گرما کا وقت
+  },
+  Pacific/Guadalcanal: {
+    Generic: سولمن آئلینڈز ٹائم,
+    Standard: سولمن آئلینڈز ٹائم,
+    Daylight: سولمن آئلینڈز ٹائم
+  },
+  Antarctica/Casey: {
+    Generic: انٹارکٹیکا وقت,
+    Standard: انٹارکٹیکا معیاری وقت,
+    Daylight: انٹارکٹیکا دن کا وقت
+  },
+  Pacific/Ponape: {
+    Generic: پوناپے ٹائم,
+    Standard: پوناپے ٹائم,
+    Daylight: پوناپے ٹائم
+  },
+  Pacific/Kosrae: {
+    Generic: کوسرے ٹائم,
+    Standard: کوسرے ٹائم,
+    Daylight: کوسرے ٹائم
+  },
+  Pacific/Noumea: {
+    Generic: نیو کیلیڈونیا ٹائم,
+    Standard: نیو کیلیڈونیا سٹینڈرڈ ٹائم,
+    Daylight: نیو کیلیڈونیا سمر ٹائم
+  },
+  Pacific/Efate: {
+    Generic: وانوآٹو ٹائم,
+    Standard: وانوآٹو سٹینڈرڈ ٹائم,
+    Daylight: وانوآٹو سمر ٹائم
+  },
+  Etc/GMT-11: {
+    Generic: کوآرڈینیٹڈ یونیورسل ٹائم +11,
+    Standard: کوآرڈینیٹڈ یونیورسل ٹائم +11,
+    Daylight: کوآرڈینیٹڈ یونیورسل ٹائم +11
+  },
+  America/Mexico_City: {
+    Generic: سنٹرل ٹائم,
+    Standard: سنٹرل اسٹینڈرڈ ٹائم,
+    Daylight: سنٹرل ڈے لائٹ ٹائم
+  },
+  America/Bahia_Banderas: {
+    Generic: سنٹرل ٹائم,
+    Standard: سنٹرل اسٹینڈرڈ ٹائم,
+    Daylight: سنٹرل ڈے لائٹ ٹائم
+  },
+  America/Merida: {
+    Generic: سنٹرل ٹائم,
+    Standard: سنٹرل اسٹینڈرڈ ٹائم,
+    Daylight: سنٹرل ڈے لائٹ ٹائم
+  },
+  America/Monterrey: {
+    Generic: سنٹرل ٹائم,
+    Standard: سنٹرل اسٹینڈرڈ ٹائم,
+    Daylight: سنٹرل ڈے لائٹ ٹائم
+  },
+  America/Chicago: {
+    Generic: سنٹرل ٹائم,
+    Standard: سنٹرل اسٹینڈرڈ ٹائم,
+    Daylight: سنٹرل ڈے لائٹ ٹائم
+  },
+  America/Winnipeg: {
+    Generic: سنٹرل ٹائم,
+    Standard: سنٹرل اسٹینڈرڈ ٹائم,
+    Daylight: سنٹرل ڈے لائٹ ٹائم
+  },
+  America/Rainy_River: {
+    Generic: سنٹرل ٹائم,
+    Standard: سنٹرل اسٹینڈرڈ ٹائم,
+    Daylight: سنٹرل ڈے لائٹ ٹائم
+  },
+  America/Rankin_Inlet: {
+    Generic: سنٹرل ٹائم,
+    Standard: سنٹرل اسٹینڈرڈ ٹائم,
+    Daylight: سنٹرل ڈے لائٹ ٹائم
+  },
+  America/Resolute: {
+    Generic: سنٹرل ٹائم,
+    Standard: سنٹرل اسٹینڈرڈ ٹائم,
+    Daylight: سنٹرل ڈے لائٹ ٹائم
+  },
+  America/Matamoros: {
+    Generic: سنٹرل ٹائم,
+    Standard: سنٹرل اسٹینڈرڈ ٹائم,
+    Daylight: سنٹرل ڈے لائٹ ٹائم
+  },
+  America/Indiana/Knox: {
+    Generic: سنٹرل ٹائم,
+    Standard: سنٹرل اسٹینڈرڈ ٹائم,
+    Daylight: سنٹرل ڈے لائٹ ٹائم
+  },
+  America/Indiana/Tell_City: {
+    Generic: سنٹرل ٹائم,
+    Standard: سنٹرل اسٹینڈرڈ ٹائم,
+    Daylight: سنٹرل ڈے لائٹ ٹائم
+  },
+  America/Menominee: {
+    Generic: سنٹرل ٹائم,
+    Standard: سنٹرل اسٹینڈرڈ ٹائم,
+    Daylight: سنٹرل ڈے لائٹ ٹائم
+  },
+  America/North_Dakota/Beulah: {
+    Generic: سنٹرل ٹائم,
+    Standard: سنٹرل اسٹینڈرڈ ٹائم,
+    Daylight: سنٹرل ڈے لائٹ ٹائم
+  },
+  America/North_Dakota/Center: {
+    Generic: سنٹرل ٹائم,
+    Standard: سنٹرل اسٹینڈرڈ ٹائم,
+    Daylight: سنٹرل ڈے لائٹ ٹائم
+  },
+  America/North_Dakota/New_Salem: {
+    Generic: سنٹرل ٹائم,
+    Standard: سنٹرل اسٹینڈرڈ ٹائم,
+    Daylight: سنٹرل ڈے لائٹ ٹائم
+  },
+  CST6CDT: {
+    Generic: سنٹرل ٹائم,
+    Standard: سنٹرل اسٹینڈرڈ ٹائم,
+    Daylight: سنٹرل ڈے لائٹ ٹائم
+  },
+  Pacific/Chatham: {
+    Generic: چیتھم ٹائم,
+    Standard: چیتھم اسٹینڈرڈ ٹائم,
+    Daylight: چیتھم ڈے لائٹ ٹائم
+  },
+  Asia/Shanghai: {
+    Generic: چین کا وقت,
+    Standard: چین سٹینڈرڈ ٹائم,
+    Daylight: چینی ڈے لائٹ ٹائم
+  },
+  Asia/Hong_Kong: {
+    Generic: ہانگ کانگ ٹائم,
+    Standard: ہانگ کانگ سٹینڈرڈ ٹائم,
+    Daylight: ہانگ کانگ سمر ٹائم
+  },
+  Asia/Macau: {
+    Generic: چین کا وقت,
+    Standard: چین سٹینڈرڈ ٹائم,
+    Daylight: چینی ڈے لائٹ ٹائم
+  },
+  America/Havana: {
+    Generic: کیوبا ٹائم,
+    Standard: کیوبا اسٹینڈرڈ ٹائم,
+    Daylight: کیوبا ڈے لائٹ ٹائم
+  },
+  Etc/GMT+12: {
+    Generic: کوآرڈینیٹڈ یونیورسل ٹائم -12,
+    Standard: کوآرڈینیٹڈ یونیورسل ٹائم -12,
+    Daylight: کوآرڈینیٹڈ یونیورسل ٹائم -12
+  },
+  Africa/Nairobi: {
+    Generic: مشرقی افریقہ ٹائم,
+    Standard: مشرقی افریقہ ٹائم,
+    Daylight: مشرقی افریقہ ٹائم
+  },
+  Antarctica/Syowa: {
+    Generic: سیووا ٹائم,
+    Standard: سیووا ٹائم,
+    Daylight: سیووا ٹائم
+  },
+  Africa/Djibouti: {
+    Generic: مشرقی افریقہ ٹائم,
+    Standard: مشرقی افریقہ ٹائم,
+    Daylight: مشرقی افریقہ ٹائم
+  },
+  Africa/Asmera: {
+    Generic: مشرقی افریقہ ٹائم,
+    Standard: مشرقی افریقہ ٹائم,
+    Daylight: مشرقی افریقہ ٹائم
+  },
+  Africa/Addis_Ababa: {
+    Generic: مشرقی افریقہ ٹائم,
+    Standard: مشرقی افریقہ ٹائم,
+    Daylight: مشرقی افریقہ ٹائم
+  },
+  Indian/Comoro: {
+    Generic: مشرقی افریقہ ٹائم,
+    Standard: مشرقی افریقہ ٹائم,
+    Daylight: مشرقی افریقہ ٹائم
+  },
+  Indian/Antananarivo: {
+    Generic: مشرقی افریقہ ٹائم,
+    Standard: مشرقی افریقہ ٹائم,
+    Daylight: مشرقی افریقہ ٹائم
+  },
+  Africa/Mogadishu: {
+    Generic: مشرقی افریقہ ٹائم,
+    Standard: مشرقی افریقہ ٹائم,
+    Daylight: مشرقی افریقہ ٹائم
+  },
+  Africa/Dar_es_Salaam: {
+    Generic: مشرقی افریقہ ٹائم,
+    Standard: مشرقی افریقہ ٹائم,
+    Daylight: مشرقی افریقہ ٹائم
+  },
+  Africa/Kampala: {
+    Generic: مشرقی افریقہ ٹائم,
+    Standard: مشرقی افریقہ ٹائم,
+    Daylight: مشرقی افریقہ ٹائم
+  },
+  Indian/Mayotte: {
+    Generic: مشرقی افریقہ ٹائم,
+    Standard: مشرقی افریقہ ٹائم,
+    Daylight: مشرقی افریقہ ٹائم
+  },
+  Etc/GMT-3: {
+    Generic: کوآرڈینیٹڈ یونیورسل ٹائم +3,
+    Standard: کوآرڈینیٹڈ یونیورسل ٹائم +3,
+    Daylight: کوآرڈینیٹڈ یونیورسل ٹائم +3
+  },
+  Australia/Brisbane: {
+    Generic: ایسٹرن آسٹریلیا ٹائم,
+    Standard: آسٹریلین ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: آسٹریلین ایسٹرن ڈے لائٹ ٹائم
+  },
+  Australia/Lindeman: {
+    Generic: ایسٹرن آسٹریلیا ٹائم,
+    Standard: آسٹریلین ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: آسٹریلین ایسٹرن ڈے لائٹ ٹائم
+  },
+  Europe/Chisinau: {
+    Generic: مشرقی یورپ کا وقت,
+    Standard: مشرقی یورپ کا معیاری وقت,
+    Daylight: مشرقی یورپ کا موسم گرما کا وقت
+  },
+  America/Sao_Paulo: {
+    Generic: برازیلیا ٹائم,
+    Standard: برازیلیا سٹینڈرڈ ٹائم,
+    Daylight: برازیلیا سمر ٹائم
+  },
+  Pacific/Easter: {
+    Generic: ایسٹر آئلینڈ ٹائم,
+    Standard: ایسٹر آئلینڈ سٹینڈرڈ ٹائم,
+    Daylight: ایسٹر آئلینڈ سمر ٹائم
+  },
+  America/Cancun: {
+    Generic: ایسٹرن ٹائم,
+    Standard: ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: ایسٹرن ڈے لائٹ ٹائم
+  },
+  America/New_York: {
+    Generic: ایسٹرن ٹائم,
+    Standard: ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: ایسٹرن ڈے لائٹ ٹائم
+  },
+  America/Nassau: {
+    Generic: ایسٹرن ٹائم,
+    Standard: ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: ایسٹرن ڈے لائٹ ٹائم
+  },
+  America/Toronto: {
+    Generic: ایسٹرن ٹائم,
+    Standard: ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: ایسٹرن ڈے لائٹ ٹائم
+  },
+  America/Iqaluit: {
+    Generic: ایسٹرن ٹائم,
+    Standard: ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: ایسٹرن ڈے لائٹ ٹائم
+  },
+  America/Montreal: {
+    Generic: ایسٹرن ٹائم,
+    Standard: ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: ایسٹرن ڈے لائٹ ٹائم
+  },
+  America/Nipigon: {
+    Generic: ایسٹرن ٹائم,
+    Standard: ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: ایسٹرن ڈے لائٹ ٹائم
+  },
+  America/Pangnirtung: {
+    Generic: ایسٹرن ٹائم,
+    Standard: ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: ایسٹرن ڈے لائٹ ٹائم
+  },
+  America/Thunder_Bay: {
+    Generic: ایسٹرن ٹائم,
+    Standard: ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: ایسٹرن ڈے لائٹ ٹائم
+  },
+  America/Detroit: {
+    Generic: ایسٹرن ٹائم,
+    Standard: ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: ایسٹرن ڈے لائٹ ٹائم
+  },
+  America/Indiana/Petersburg: {
+    Generic: ایسٹرن ٹائم,
+    Standard: ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: ایسٹرن ڈے لائٹ ٹائم
+  },
+  America/Indiana/Vincennes: {
+    Generic: ایسٹرن ٹائم,
+    Standard: ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: ایسٹرن ڈے لائٹ ٹائم
+  },
+  America/Indiana/Winamac: {
+    Generic: ایسٹرن ٹائم,
+    Standard: ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: ایسٹرن ڈے لائٹ ٹائم
+  },
+  America/Kentucky/Monticello: {
+    Generic: ایسٹرن ٹائم,
+    Standard: ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: ایسٹرن ڈے لائٹ ٹائم
+  },
+  America/Louisville: {
+    Generic: ایسٹرن ٹائم,
+    Standard: ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: ایسٹرن ڈے لائٹ ٹائم
+  },
+  EST5EDT: {
+    Generic: ایسٹرن ٹائم,
+    Standard: ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: ایسٹرن ڈے لائٹ ٹائم
+  },
+  Africa/Cairo: {
+    Generic: مشرقی یورپ کا وقت,
+    Standard: مشرقی یورپ کا معیاری وقت,
+    Daylight: مشرقی یورپ کا موسم گرما کا وقت
+  },
+  Asia/Yekaterinburg: {
+    Generic: یکاٹیرِنبرگ وقت,
+    Standard: یکاٹیرِنبرگ معیاری وقت,
+    Daylight: یکاٹیرِنبرگ دن کا وقت
+  },
+  Europe/Kiev: {
+    Generic: مشرقی یورپ کا وقت,
+    Standard: مشرقی یورپ کا معیاری وقت,
+    Daylight: مشرقی یورپ کا موسم گرما کا وقت
+  },
+  Europe/Mariehamn: {
+    Generic: مشرقی یورپ کا وقت,
+    Standard: مشرقی یورپ کا معیاری وقت,
+    Daylight: مشرقی یورپ کا موسم گرما کا وقت
+  },
+  Europe/Sofia: {
+    Generic: مشرقی یورپ کا وقت,
+    Standard: مشرقی یورپ کا معیاری وقت,
+    Daylight: مشرقی یورپ کا موسم گرما کا وقت
+  },
+  Europe/Tallinn: {
+    Generic: مشرقی یورپ کا وقت,
+    Standard: مشرقی یورپ کا معیاری وقت,
+    Daylight: مشرقی یورپ کا موسم گرما کا وقت
+  },
+  Europe/Helsinki: {
+    Generic: مشرقی یورپ کا وقت,
+    Standard: مشرقی یورپ کا معیاری وقت,
+    Daylight: مشرقی یورپ کا موسم گرما کا وقت
+  },
+  Europe/Vilnius: {
+    Generic: مشرقی یورپ کا وقت,
+    Standard: مشرقی یورپ کا معیاری وقت,
+    Daylight: مشرقی یورپ کا موسم گرما کا وقت
+  },
+  Europe/Riga: {
+    Generic: مشرقی یورپ کا وقت,
+    Standard: مشرقی یورپ کا معیاری وقت,
+    Daylight: مشرقی یورپ کا موسم گرما کا وقت
+  },
+  Europe/Uzhgorod: {
+    Generic: مشرقی یورپ کا وقت,
+    Standard: مشرقی یورپ کا معیاری وقت,
+    Daylight: مشرقی یورپ کا موسم گرما کا وقت
+  },
+  Europe/Zaporozhye: {
+    Generic: مشرقی یورپ کا وقت,
+    Standard: مشرقی یورپ کا معیاری وقت,
+    Daylight: مشرقی یورپ کا موسم گرما کا وقت
+  },
+  Pacific/Fiji: {
+    Generic: فجی ٹائم,
+    Standard: فجی سٹینڈرڈ ٹائم,
+    Daylight: فجی سمر ٹائم
+  },
+  Europe/London: {
+    Generic: سلطنت متحدہ وقت,
+    Standard: گرین وچ مین ٹائم,
+    Daylight: برٹش سمر ٹائم
+  },
+  Atlantic/Canary: {
+    Generic: مغربی یورپ کا وقت,
+    Standard: مغربی یورپ کا معیاری وقت,
+    Daylight: مغربی یورپ کا موسم گرما کا وقت
+  },
+  Atlantic/Faeroe: {
+    Generic: مغربی یورپ کا وقت,
+    Standard: مغربی یورپ کا معیاری وقت,
+    Daylight: مغربی یورپ کا موسم گرما کا وقت
+  },
+  Europe/Guernsey: {
+    Generic: گرین وچ مین ٹائم,
+    Standard: گرین وچ مین ٹائم,
+    Daylight: گرین وچ مین ٹائم
+  },
+  Europe/Dublin: {
+    Generic: آئرلینڈ وقت,
+    Standard: گرین وچ مین ٹائم,
+    Daylight: آئرش اسٹینڈرڈ ٹائم
+  },
+  Europe/Isle_of_Man: {
+    Generic: گرین وچ مین ٹائم,
+    Standard: گرین وچ مین ٹائم,
+    Daylight: گرین وچ مین ٹائم
+  },
+  Europe/Jersey: {
+    Generic: گرین وچ مین ٹائم,
+    Standard: گرین وچ مین ٹائم,
+    Daylight: گرین وچ مین ٹائم
+  },
+  Europe/Lisbon: {
+    Generic: مغربی یورپ کا وقت,
+    Standard: مغربی یورپ کا معیاری وقت,
+    Daylight: مغربی یورپ کا موسم گرما کا وقت
+  },
+  Atlantic/Madeira: {
+    Generic: مغربی یورپ کا وقت,
+    Standard: مغربی یورپ کا معیاری وقت,
+    Daylight: مغربی یورپ کا موسم گرما کا وقت
+  },
+  Europe/Bucharest: {
+    Generic: مشرقی یورپ کا وقت,
+    Standard: مشرقی یورپ کا معیاری وقت,
+    Daylight: مشرقی یورپ کا موسم گرما کا وقت
+  },
+  Asia/Nicosia: {
+    Generic: مشرقی یورپ کا وقت,
+    Standard: مشرقی یورپ کا معیاری وقت,
+    Daylight: مشرقی یورپ کا موسم گرما کا وقت
+  },
+  Asia/Famagusta: {
+    Generic: مشرقی یورپ کا وقت,
+    Standard: مشرقی یورپ کا معیاری وقت,
+    Daylight: مشرقی یورپ کا موسم گرما کا وقت
+  },
+  Europe/Athens: {
+    Generic: مشرقی یورپ کا وقت,
+    Standard: مشرقی یورپ کا معیاری وقت,
+    Daylight: مشرقی یورپ کا موسم گرما کا وقت
+  },
+  Asia/Tbilisi: {
+    Generic: جارجیا ٹائم,
+    Standard: جارجیا سٹینڈرڈ ٹائم,
+    Daylight: جارجیا سمر ٹائم
+  },
+  America/Godthab: {
+    Generic: مغربی گرین لینڈ ٹائم,
+    Standard: مغربی گرین لینڈ اسٹینڈرڈ ٹائم,
+    Daylight: مغربی گرین لینڈ کا موسم گرما کا وقت
+  },
+  Atlantic/Reykjavik: {
+    Generic: گرین وچ مین ٹائم,
+    Standard: گرین وچ مین ٹائم,
+    Daylight: گرین وچ مین ٹائم
+  },
+  Atlantic/St_Helena: {
+    Generic: گرین وچ مین ٹائم,
+    Standard: گرین وچ مین ٹائم,
+    Daylight: گرین وچ مین ٹائم
+  },
+  Africa/Ouagadougou: {
+    Generic: گرین وچ مین ٹائم,
+    Standard: گرین وچ مین ٹائم,
+    Daylight: گرین وچ مین ٹائم
+  },
+  Africa/Abidjan: {
+    Generic: گرین وچ مین ٹائم,
+    Standard: گرین وچ مین ٹائم,
+    Daylight: گرین وچ مین ٹائم
+  },
+  Africa/Accra: {
+    Generic: گرین وچ مین ٹائم,
+    Standard: گرین وچ مین ٹائم,
+    Daylight: گرین وچ مین ٹائم
+  },
+  America/Danmarkshavn: {
+    Generic: گرین وچ مین ٹائم,
+    Standard: گرین وچ مین ٹائم,
+    Daylight: گرین وچ مین ٹائم
+  },
+  Africa/Banjul: {
+    Generic: گرین وچ مین ٹائم,
+    Standard: گرین وچ مین ٹائم,
+    Daylight: گرین وچ مین ٹائم
+  },
+  Africa/Conakry: {
+    Generic: گرین وچ مین ٹائم,
+    Standard: گرین وچ مین ٹائم,
+    Daylight: گرین وچ مین ٹائم
+  },
+  Africa/Bissau: {
+    Generic: گرین وچ مین ٹائم,
+    Standard: گرین وچ مین ٹائم,
+    Daylight: گرین وچ مین ٹائم
+  },
+  Africa/Monrovia: {
+    Generic: گرین وچ مین ٹائم,
+    Standard: گرین وچ مین ٹائم,
+    Daylight: گرین وچ مین ٹائم
+  },
+  Africa/Bamako: {
+    Generic: گرین وچ مین ٹائم,
+    Standard: گرین وچ مین ٹائم,
+    Daylight: گرین وچ مین ٹائم
+  },
+  Africa/Nouakchott: {
+    Generic: گرین وچ مین ٹائم,
+    Standard: گرین وچ مین ٹائم,
+    Daylight: گرین وچ مین ٹائم
+  },
+  Africa/Freetown: {
+    Generic: گرین وچ مین ٹائم,
+    Standard: گرین وچ مین ٹائم,
+    Daylight: گرین وچ مین ٹائم
+  },
+  Africa/Dakar: {
+    Generic: گرین وچ مین ٹائم,
+    Standard: گرین وچ مین ٹائم,
+    Daylight: گرین وچ مین ٹائم
+  },
+  Africa/Lome: {
+    Generic: گرین وچ مین ٹائم,
+    Standard: گرین وچ مین ٹائم,
+    Daylight: گرین وچ مین ٹائم
+  },
+  America/Port-au-Prince: {
+    Generic: ایسٹرن ٹائم,
+    Standard: ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: ایسٹرن ڈے لائٹ ٹائم
+  },
+  Pacific/Honolulu: {
+    Generic: ہوائی الیوٹیئن ٹائم,
+    Standard: ہوائی الیوٹیئن اسٹینڈرڈ ٹائم,
+    Daylight: ہوائی الیوٹیئن ڈے لائٹ ٹائم
+  },
+  Pacific/Rarotonga: {
+    Generic: کک آئلینڈز ٹائم,
+    Standard: کک آئلینڈز سٹینڈرڈ ٹائم,
+    Daylight: کک آئلینڈز نصف سمر ٹائم
+  },
+  Pacific/Tahiti: {
+    Generic: تاہیتی ٹائم,
+    Standard: تاہیتی ٹائم,
+    Daylight: تاہیتی ٹائم
+  },
+  Pacific/Johnston: {
+    Generic: ہوائی الیوٹیئن ٹائم,
+    Standard: ہوائی الیوٹیئن اسٹینڈرڈ ٹائم,
+    Daylight: ہوائی الیوٹیئن ڈے لائٹ ٹائم
+  },
+  Etc/GMT+10: {
+    Generic: کوآرڈینیٹڈ یونیورسل ٹائم -10,
+    Standard: کوآرڈینیٹڈ یونیورسل ٹائم -10,
+    Daylight: کوآرڈینیٹڈ یونیورسل ٹائم -10
+  },
+  Asia/Calcutta: {
+    Generic: انڈیا سٹینڈرڈ ٹائم,
+    Standard: انڈیا سٹینڈرڈ ٹائم,
+    Daylight: انڈیا سٹینڈرڈ ٹائم
+  },
+  Asia/Tehran: {
+    Generic: ایران ٹائم,
+    Standard: ایران سٹینڈرڈ ٹائم,
+    Daylight: ایران ڈے لائٹ ٹائم
+  },
+  Asia/Jerusalem: {
+    Generic: اسرائیل ٹائم,
+    Standard: اسرائیل سٹینڈرڈ ٹائم,
+    Daylight: اسرائیل ڈے لائٹ ٹائم
+  },
+  Asia/Amman: {
+    Generic: مشرقی یورپ کا وقت,
+    Standard: مشرقی یورپ کا معیاری وقت,
+    Daylight: مشرقی یورپ کا موسم گرما کا وقت
+  },
+  Europe/Kaliningrad: {
+    Generic: کالينينغراد وقت,
+    Standard: کالينينغراد معیاری وقت,
+    Daylight: کالينينغراد دن کا وقت
+  },
+  Asia/Seoul: {
+    Generic: کوریا ٹائم,
+    Standard: کوریا سٹینڈرڈ ٹائم,
+    Daylight: کوریا ڈے لائٹ ٹائم
+  },
+  Africa/Tripoli: {
+    Generic: مشرقی یورپ کا وقت,
+    Standard: مشرقی یورپ کا معیاری وقت,
+    Daylight: مشرقی یورپ کا موسم گرما کا وقت
+  },
+  Pacific/Kiritimati: {
+    Generic: لائن آئلینڈز ٹائم,
+    Standard: لائن آئلینڈز ٹائم,
+    Daylight: لائن آئلینڈز ٹائم
+  },
+  Etc/GMT-14: {
+    Generic: کوآرڈینیٹڈ یونیورسل ٹائم +14,
+    Standard: کوآرڈینیٹڈ یونیورسل ٹائم +14,
+    Daylight: کوآرڈینیٹڈ یونیورسل ٹائم +14
+  },
+  Australia/Lord_Howe: {
+    Generic: لارڈ ہووے ٹائم,
+    Standard: لارڈ ہووے اسٹینڈرڈ ٹائم,
+    Daylight: لارڈ ہووے ڈے لائٹ ٹائم
+  },
+  Asia/Magadan: {
+    Generic: میگیدن وقت,
+    Standard: میگیدن معیاری وقت,
+    Daylight: میگیدن دن کا وقت
+  },
+  America/Punta_Arenas: {
+    Generic: چلی ٹائم,
+    Standard: چلی سٹینڈرڈ ٹائم,
+    Daylight: چلی سمر ٹائم
+  },
+  Pacific/Marquesas: {
+    Generic: مارکیسس ٹائم,
+    Standard: مارکیسس ٹائم,
+    Daylight: مارکیسس ٹائم
+  },
+  Indian/Mauritius: {
+    Generic: ماریشس ٹائم,
+    Standard: ماریشس سٹینڈرڈ ٹائم,
+    Daylight: ماریشس سمر ٹائم
+  },
+  Indian/Reunion: {
+    Generic: ری یونین ٹائم,
+    Standard: ری یونین ٹائم,
+    Daylight: ری یونین ٹائم
+  },
+  Indian/Mahe: {
+    Generic: سیشلیز ٹائم,
+    Standard: سیشلیز ٹائم,
+    Daylight: سیشلیز ٹائم
+  },
+  Asia/Beirut: {
+    Generic: مشرقی یورپ کا وقت,
+    Standard: مشرقی یورپ کا معیاری وقت,
+    Daylight: مشرقی یورپ کا موسم گرما کا وقت
+  },
+  America/Montevideo: {
+    Generic: یوروگوئے ٹائم,
+    Standard: یوروگوئے سٹینڈرڈ ٹائم,
+    Daylight: یوروگوئے سمر ٹائم
+  },
+  Africa/Casablanca: {
+    Generic: مغربی یورپ کا وقت,
+    Standard: مغربی یورپ کا معیاری وقت,
+    Daylight: مغربی یورپ کا موسم گرما کا وقت
+  },
+  Africa/El_Aaiun: {
+    Generic: مغربی یورپ کا وقت,
+    Standard: مغربی یورپ کا معیاری وقت,
+    Daylight: مغربی یورپ کا موسم گرما کا وقت
+  },
+  America/Chihuahua: {
+    Generic: میکسیکن پیسفک ٹائم,
+    Standard: میکسیکن پیسفک اسٹینڈرڈ ٹائم,
+    Daylight: میکسیکن پیسفک ڈے لائٹ ٹائم
+  },
+  America/Mazatlan: {
+    Generic: میکسیکن پیسفک ٹائم,
+    Standard: میکسیکن پیسفک اسٹینڈرڈ ٹائم,
+    Daylight: میکسیکن پیسفک ڈے لائٹ ٹائم
+  },
+  America/Denver: {
+    Generic: ماؤنٹین ٹائم,
+    Standard: ماؤنٹین اسٹینڈرڈ ٹائم,
+    Daylight: ماؤنٹین ڈے لائٹ ٹائم
+  },
+  America/Edmonton: {
+    Generic: ماؤنٹین ٹائم,
+    Standard: ماؤنٹین اسٹینڈرڈ ٹائم,
+    Daylight: ماؤنٹین ڈے لائٹ ٹائم
+  },
+  America/Cambridge_Bay: {
+    Generic: ماؤنٹین ٹائم,
+    Standard: ماؤنٹین اسٹینڈرڈ ٹائم,
+    Daylight: ماؤنٹین ڈے لائٹ ٹائم
+  },
+  America/Inuvik: {
+    Generic: ماؤنٹین ٹائم,
+    Standard: ماؤنٹین اسٹینڈرڈ ٹائم,
+    Daylight: ماؤنٹین ڈے لائٹ ٹائم
+  },
+  America/Yellowknife: {
+    Generic: ماؤنٹین ٹائم,
+    Standard: ماؤنٹین اسٹینڈرڈ ٹائم,
+    Daylight: ماؤنٹین ڈے لائٹ ٹائم
+  },
+  America/Ojinaga: {
+    Generic: ماؤنٹین ٹائم,
+    Standard: ماؤنٹین اسٹینڈرڈ ٹائم,
+    Daylight: ماؤنٹین ڈے لائٹ ٹائم
+  },
+  America/Boise: {
+    Generic: ماؤنٹین ٹائم,
+    Standard: ماؤنٹین اسٹینڈرڈ ٹائم,
+    Daylight: ماؤنٹین ڈے لائٹ ٹائم
+  },
+  MST7MDT: {
+    Generic: ماؤنٹین ٹائم,
+    Standard: ماؤنٹین اسٹینڈرڈ ٹائم,
+    Daylight: ماؤنٹین ڈے لائٹ ٹائم
+  },
+  Asia/Rangoon: {
+    Generic: میانمار ٹائم,
+    Standard: میانمار ٹائم,
+    Daylight: میانمار ٹائم
+  },
+  Indian/Cocos: {
+    Generic: کوکوس آئلینڈز ٹائم,
+    Standard: کوکوس آئلینڈز ٹائم,
+    Daylight: کوکوس آئلینڈز ٹائم
+  },
+  Asia/Novosibirsk: {
+    Generic: نوووسِبِرسک وقت,
+    Standard: نوووسِبِرسک معیاری وقت,
+    Daylight: نوووسِبِرسک دن کا وقت
+  },
+  Africa/Windhoek: {
+    Generic: وسطی افریقہ ٹائم,
+    Standard: وسطی افریقہ ٹائم,
+    Daylight: وسطی افریقہ ٹائم
+  },
+  Asia/Katmandu: {
+    Generic: نیپال ٹائم,
+    Standard: نیپال ٹائم,
+    Daylight: نیپال ٹائم
+  },
+  Pacific/Auckland: {
+    Generic: نیوزی لینڈ ٹائم,
+    Standard: نیوزی لینڈ سٹینڈرڈ ٹائم,
+    Daylight: نیوزی لینڈ ڈے لائٹ ٹائم
+  },
+  Antarctica/McMurdo: {
+    Generic: نیوزی لینڈ ٹائم,
+    Standard: نیوزی لینڈ سٹینڈرڈ ٹائم,
+    Daylight: نیوزی لینڈ ڈے لائٹ ٹائم
+  },
+  America/St_Johns: {
+    Generic: نیو فاؤنڈ لینڈ ٹائم,
+    Standard: نیو فاؤنڈ لینڈ اسٹینڈرڈ ٹائم,
+    Daylight: نیو فاؤنڈ لینڈ ڈے لائٹ ٹائم
+  },
+  Pacific/Norfolk: {
+    Generic: نارفوک آئلینڈ کا وقت,
+    Standard: نارفوک آئلینڈ کا معیاری وقت,
+    Daylight: نارفوک آئلینڈ ڈے لائٹ وقت
+  },
+  Asia/Irkutsk: {
+    Generic: ارکتسک وقت,
+    Standard: ارکتسک معیاری وقت,
+    Daylight: ارکتسک دن کا وقت
+  },
+  Asia/Krasnoyarsk: {
+    Generic: کریسنویارسک وقت,
+    Standard: کریسنویارسک معیاری وقت,
+    Daylight: کریسنویارسک دن کا وقت
+  },
+  Asia/Novokuznetsk: {
+    Generic: نوووکیوزنیسک وقت,
+    Standard: نوووکیوزنیسک معیاری وقت,
+    Daylight: نوووکیوزنیسک دن کا وقت
+  },
+  Asia/Pyongyang: {
+    Generic: کوریا ٹائم,
+    Standard: کوریا سٹینڈرڈ ٹائم,
+    Daylight: کوریا ڈے لائٹ ٹائم
+  },
+  Asia/Omsk: {
+    Generic: اومسک وقت,
+    Standard: اومسک معیاری وقت,
+    Daylight: اومسک دن کا وقت
+  },
+  America/Santiago: {
+    Generic: چلی ٹائم,
+    Standard: چلی سٹینڈرڈ ٹائم,
+    Daylight: چلی سمر ٹائم
+  },
+  America/Tijuana: {
+    Generic: پیسفک ٹائم,
+    Standard: پیسفک اسٹینڈرڈ ٹائم,
+    Daylight: پیسفک ڈے لائٹ ٹائم
+  },
+  America/Santa_Isabel: {
+    Generic: شمال مغربی میکسیکو ٹائم,
+    Standard: شمال مغربی میکسیکو اسٹینڈرڈ ٹائم,
+    Daylight: شمال مغربی میکسیکو ڈے لائٹ ٹائم
+  },
+  America/Los_Angeles: {
+    Generic: پیسفک ٹائم,
+    Standard: پیسفک اسٹینڈرڈ ٹائم,
+    Daylight: پیسفک ڈے لائٹ ٹائم
+  },
+  America/Vancouver: {
+    Generic: پیسفک ٹائم,
+    Standard: پیسفک اسٹینڈرڈ ٹائم,
+    Daylight: پیسفک ڈے لائٹ ٹائم
+  },
+  PST8PDT: {
+    Generic: پیسفک ٹائم,
+    Standard: پیسفک اسٹینڈرڈ ٹائم,
+    Daylight: پیسفک ڈے لائٹ ٹائم
+  },
+  Asia/Karachi: {
+    Generic: پاکستان ٹائم,
+    Standard: پاکستان سٹینڈرڈ ٹائم,
+    Daylight: پاکستان سمر ٹائم
+  },
+  America/Asuncion: {
+    Generic: پیراگوئے ٹائم,
+    Standard: پیراگوئے سٹینڈرڈ ٹائم,
+    Daylight: پیراگوئے سمر ٹائم
+  },
+  Asia/Qyzylorda: {
+    Generic: مغربی قزاخستان ٹائم,
+    Standard: مغربی قزاخستان ٹائم,
+    Daylight: مغربی قزاخستان ٹائم
+  },
+  Europe/Paris: {
+    Generic: وسطی یورپ کا وقت,
+    Standard: وسطی یورپ کا معیاری وقت,
+    Daylight: وسطی یورپ کا موسم گرما کا وقت
+  },
+  Europe/Brussels: {
+    Generic: وسطی یورپ کا وقت,
+    Standard: وسطی یورپ کا معیاری وقت,
+    Daylight: وسطی یورپ کا موسم گرما کا وقت
+  },
+  Europe/Copenhagen: {
+    Generic: وسطی یورپ کا وقت,
+    Standard: وسطی یورپ کا معیاری وقت,
+    Daylight: وسطی یورپ کا موسم گرما کا وقت
+  },
+  Africa/Ceuta: {
+    Generic: وسطی یورپ کا وقت,
+    Standard: وسطی یورپ کا معیاری وقت,
+    Daylight: وسطی یورپ کا موسم گرما کا وقت
+  },
+  Europe/Madrid: {
+    Generic: وسطی یورپ کا وقت,
+    Standard: وسطی یورپ کا معیاری وقت,
+    Daylight: وسطی یورپ کا موسم گرما کا وقت
+  },
+  Asia/Srednekolymsk: {
+    Generic: سرہدنیکولیمسک وقت,
+    Standard: سرہدنیکولیمسک معیاری وقت,
+    Daylight: سرہدنیکولیمسک دن کا وقت
+  },
+  Asia/Kamchatka: {
+    Generic: کیمچٹکا وقت,
+    Standard: کیمچٹکا معیاری وقت,
+    Daylight: کیمچٹکا دن کا وقت
+  },
+  Asia/Anadyr: {
+    Generic: انیدر وقت,
+    Standard: انیدر معیاری وقت,
+    Daylight: انیدر دن کا وقت
+  },
+  Europe/Samara: {
+    Generic: سمارا وقت,
+    Standard: سمارا معیاری وقت,
+    Daylight: سمارا دن کا وقت
+  },
+  Europe/Moscow: {
+    Generic: ماسکو وقت,
+    Standard: ماسکو معیاری وقت,
+    Daylight: ماسکو دن کا وقت
+  },
+  Europe/Kirov: {
+    Generic: کیروف وقت,
+    Standard: کیروف معیاری وقت,
+    Daylight: کیروف دن کا وقت
+  },
+  Europe/Simferopol: {
+    Generic: ماسکو ٹائم,
+    Standard: ماسکو اسٹینڈرڈ ٹائم,
+    Daylight: ماسکو سمر ٹائم
+  },
+  America/Cayenne: {
+    Generic: فرینچ گیانا ٹائم,
+    Standard: فرینچ گیانا ٹائم,
+    Daylight: فرینچ گیانا ٹائم
+  },
+  Antarctica/Rothera: {
+    Generic: روتھیرا ٹائم,
+    Standard: روتھیرا ٹائم,
+    Daylight: روتھیرا ٹائم
+  },
+  Antarctica/Palmer: {
+    Generic: چلی ٹائم,
+    Standard: چلی سٹینڈرڈ ٹائم,
+    Daylight: چلی سمر ٹائم
+  },
+  America/Fortaleza: {
+    Generic: برازیلیا ٹائم,
+    Standard: برازیلیا سٹینڈرڈ ٹائم,
+    Daylight: برازیلیا سمر ٹائم
+  },
+  America/Belem: {
+    Generic: برازیلیا ٹائم,
+    Standard: برازیلیا سٹینڈرڈ ٹائم,
+    Daylight: برازیلیا سمر ٹائم
+  },
+  America/Maceio: {
+    Generic: برازیلیا ٹائم,
+    Standard: برازیلیا سٹینڈرڈ ٹائم,
+    Daylight: برازیلیا سمر ٹائم
+  },
+  America/Recife: {
+    Generic: برازیلیا ٹائم,
+    Standard: برازیلیا سٹینڈرڈ ٹائم,
+    Daylight: برازیلیا سمر ٹائم
+  },
+  America/Santarem: {
+    Generic: برازیلیا ٹائم,
+    Standard: برازیلیا سٹینڈرڈ ٹائم,
+    Daylight: برازیلیا سمر ٹائم
+  },
+  Atlantic/Stanley: {
+    Generic: فاک لینڈ آئلینڈز ٹائم,
+    Standard: فاک لینڈ آئلینڈز سٹینڈرڈ ٹائم,
+    Daylight: فاک لینڈ آئلینڈز سمر ٹائم
+  },
+  America/Paramaribo: {
+    Generic: سورینام ٹائم,
+    Standard: سورینام ٹائم,
+    Daylight: سورینام ٹائم
+  },
+  Etc/GMT+3: {
+    Generic: کوآرڈینیٹڈ یونیورسل ٹائم -3,
+    Standard: کوآرڈینیٹڈ یونیورسل ٹائم -3,
+    Daylight: کوآرڈینیٹڈ یونیورسل ٹائم -3
+  },
+  America/Bogota: {
+    Generic: کولمبیا ٹائم,
+    Standard: کولمبیا سٹینڈرڈ ٹائم,
+    Daylight: کولمبیا سمر ٹائم
+  },
+  America/Rio_Branco: {
+    Generic: برازیل وقت,
+    Standard: برازیل معیاری وقت,
+    Daylight: برازیل دن کا وقت
+  },
+  America/Eirunepe: {
+    Generic: برازیل وقت,
+    Standard: برازیل معیاری وقت,
+    Daylight: برازیل دن کا وقت
+  },
+  America/Coral_Harbour: {
+    Generic: ایسٹرن ٹائم,
+    Standard: ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: ایسٹرن ڈے لائٹ ٹائم
+  },
+  America/Guayaquil: {
+    Generic: ایکواڈور ٹائم,
+    Standard: ایکواڈور ٹائم,
+    Daylight: ایکواڈور ٹائم
+  },
+  America/Jamaica: {
+    Generic: ایسٹرن ٹائم,
+    Standard: ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: ایسٹرن ڈے لائٹ ٹائم
+  },
+  America/Cayman: {
+    Generic: ایسٹرن ٹائم,
+    Standard: ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: ایسٹرن ڈے لائٹ ٹائم
+  },
+  America/Panama: {
+    Generic: ایسٹرن ٹائم,
+    Standard: ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: ایسٹرن ڈے لائٹ ٹائم
+  },
+  America/Lima: {
+    Generic: پیرو ٹائم,
+    Standard: پیرو سٹینڈرڈ ٹائم,
+    Daylight: پیرو سمر ٹائم
+  },
+  Etc/GMT+5: {
+    Generic: کوآرڈینیٹڈ یونیورسل ٹائم -5,
+    Standard: کوآرڈینیٹڈ یونیورسل ٹائم -5,
+    Daylight: کوآرڈینیٹڈ یونیورسل ٹائم -5
+  },
+  America/La_Paz: {
+    Generic: بولیویا ٹائم,
+    Standard: بولیویا ٹائم,
+    Daylight: بولیویا ٹائم
+  },
+  America/Antigua: {
+    Generic: اٹلانٹک ٹائم,
+    Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
+    Daylight: اٹلانٹک ڈے لائٹ ٹائم
+  },
+  America/Anguilla: {
+    Generic: اٹلانٹک ٹائم,
+    Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
+    Daylight: اٹلانٹک ڈے لائٹ ٹائم
+  },
+  America/Aruba: {
+    Generic: اٹلانٹک ٹائم,
+    Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
+    Daylight: اٹلانٹک ڈے لائٹ ٹائم
+  },
+  America/Barbados: {
+    Generic: اٹلانٹک ٹائم,
+    Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
+    Daylight: اٹلانٹک ڈے لائٹ ٹائم
+  },
+  America/St_Barthelemy: {
+    Generic: اٹلانٹک ٹائم,
+    Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
+    Daylight: اٹلانٹک ڈے لائٹ ٹائم
+  },
+  America/Kralendijk: {
+    Generic: اٹلانٹک ٹائم,
+    Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
+    Daylight: اٹلانٹک ڈے لائٹ ٹائم
+  },
+  America/Manaus: {
+    Generic: ایمیزون ٹائم,
+    Standard: ایمیزون سٹینڈرڈ ٹائم,
+    Daylight: ایمیزون سمر ٹائم
+  },
+  America/Boa_Vista: {
+    Generic: ایمیزون ٹائم,
+    Standard: ایمیزون سٹینڈرڈ ٹائم,
+    Daylight: ایمیزون سمر ٹائم
+  },
+  America/Porto_Velho: {
+    Generic: ایمیزون ٹائم,
+    Standard: ایمیزون سٹینڈرڈ ٹائم,
+    Daylight: ایمیزون سمر ٹائم
+  },
+  America/Blanc-Sablon: {
+    Generic: اٹلانٹک ٹائم,
+    Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
+    Daylight: اٹلانٹک ڈے لائٹ ٹائم
+  },
+  America/Curacao: {
+    Generic: اٹلانٹک ٹائم,
+    Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
+    Daylight: اٹلانٹک ڈے لائٹ ٹائم
+  },
+  America/Dominica: {
+    Generic: اٹلانٹک ٹائم,
+    Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
+    Daylight: اٹلانٹک ڈے لائٹ ٹائم
+  },
+  America/Santo_Domingo: {
+    Generic: اٹلانٹک ٹائم,
+    Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
+    Daylight: اٹلانٹک ڈے لائٹ ٹائم
+  },
+  America/Grenada: {
+    Generic: اٹلانٹک ٹائم,
+    Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
+    Daylight: اٹلانٹک ڈے لائٹ ٹائم
+  },
+  America/Guadeloupe: {
+    Generic: اٹلانٹک ٹائم,
+    Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
+    Daylight: اٹلانٹک ڈے لائٹ ٹائم
+  },
+  America/Guyana: {
+    Generic: گیانا ٹائم,
+    Standard: گیانا ٹائم,
+    Daylight: گیانا ٹائم
+  },
+  America/St_Kitts: {
+    Generic: اٹلانٹک ٹائم,
+    Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
+    Daylight: اٹلانٹک ڈے لائٹ ٹائم
+  },
+  America/St_Lucia: {
+    Generic: اٹلانٹک ٹائم,
+    Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
+    Daylight: اٹلانٹک ڈے لائٹ ٹائم
+  },
+  America/Marigot: {
+    Generic: اٹلانٹک ٹائم,
+    Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
+    Daylight: اٹلانٹک ڈے لائٹ ٹائم
+  },
+  America/Martinique: {
+    Generic: اٹلانٹک ٹائم,
+    Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
+    Daylight: اٹلانٹک ڈے لائٹ ٹائم
+  },
+  America/Montserrat: {
+    Generic: اٹلانٹک ٹائم,
+    Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
+    Daylight: اٹلانٹک ڈے لائٹ ٹائم
+  },
+  America/Puerto_Rico: {
+    Generic: اٹلانٹک ٹائم,
+    Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
+    Daylight: اٹلانٹک ڈے لائٹ ٹائم
+  },
+  America/Lower_Princes: {
+    Generic: اٹلانٹک ٹائم,
+    Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
+    Daylight: اٹلانٹک ڈے لائٹ ٹائم
+  },
+  America/Port_of_Spain: {
+    Generic: اٹلانٹک ٹائم,
+    Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
+    Daylight: اٹلانٹک ڈے لائٹ ٹائم
+  },
+  America/St_Vincent: {
+    Generic: اٹلانٹک ٹائم,
+    Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
+    Daylight: اٹلانٹک ڈے لائٹ ٹائم
+  },
+  America/Tortola: {
+    Generic: اٹلانٹک ٹائم,
+    Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
+    Daylight: اٹلانٹک ڈے لائٹ ٹائم
+  },
+  America/St_Thomas: {
+    Generic: اٹلانٹک ٹائم,
+    Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
+    Daylight: اٹلانٹک ڈے لائٹ ٹائم
+  },
+  Etc/GMT+4: {
+    Generic: کوآرڈینیٹڈ یونیورسل ٹائم -4,
+    Standard: کوآرڈینیٹڈ یونیورسل ٹائم -4,
+    Daylight: کوآرڈینیٹڈ یونیورسل ٹائم -4
+  },
+  Asia/Bangkok: {
+    Generic: ہند چین ٹائم,
+    Standard: ہند چین ٹائم,
+    Daylight: ہند چین ٹائم
+  },
+  Antarctica/Davis: {
+    Generic: ڈیوس ٹائم,
+    Standard: ڈیوس ٹائم,
+    Daylight: ڈیوس ٹائم
+  },
+  Indian/Christmas: {
+    Generic: کرسمس آئلینڈ ٹائم,
+    Standard: کرسمس آئلینڈ ٹائم,
+    Daylight: کرسمس آئلینڈ ٹائم
+  },
+  Asia/Jakarta: {
+    Generic: مغربی انڈونیشیا ٹائم,
+    Standard: مغربی انڈونیشیا ٹائم,
+    Daylight: مغربی انڈونیشیا ٹائم
+  },
+  Asia/Pontianak: {
+    Generic: مغربی انڈونیشیا ٹائم,
+    Standard: مغربی انڈونیشیا ٹائم,
+    Daylight: مغربی انڈونیشیا ٹائم
+  },
+  Asia/Phnom_Penh: {
+    Generic: ہند چین ٹائم,
+    Standard: ہند چین ٹائم,
+    Daylight: ہند چین ٹائم
+  },
+  Asia/Vientiane: {
+    Generic: ہند چین ٹائم,
+    Standard: ہند چین ٹائم,
+    Daylight: ہند چین ٹائم
+  },
+  Asia/Saigon: {
+    Generic: ہند چین ٹائم,
+    Standard: ہند چین ٹائم,
+    Daylight: ہند چین ٹائم
+  },
+  Etc/GMT-7: {
+    Generic: کوآرڈینیٹڈ یونیورسل ٹائم +7,
+    Standard: کوآرڈینیٹڈ یونیورسل ٹائم +7,
+    Daylight: کوآرڈینیٹڈ یونیورسل ٹائم +7
+  },
+  America/Miquelon: {
+    Generic: سینٹ پیئر اور مکلیئون ٹائم,
+    Standard: سینٹ پیئر اور مکلیئون اسٹینڈرڈ ٹائم,
+    Daylight: سینٹ پیئر اور مکلیئون ڈے لائٹ ٹائم
+  },
+  Asia/Sakhalin: {
+    Generic: سخالین وقت,
+    Standard: سخالین معیاری وقت,
+    Daylight: سخالین دن کا وقت
+  },
+  Pacific/Apia: {
+    Generic: ایپیا ٹائم,
+    Standard: ایپیا سٹینڈرڈ ٹائم,
+    Daylight: ایپیا ڈے لائٹ ٹائم
+  },
+  Africa/Sao_Tome: {
+    Generic: گرین وچ مین ٹائم,
+    Standard: گرین وچ مین ٹائم,
+    Daylight: گرین وچ مین ٹائم
+  },
+  Europe/Saratov: {
+    Generic: سیراٹو وقت,
+    Standard: سیراٹو معیاری وقت,
+    Daylight: سیراٹو دن کا وقت
+  },
+  Asia/Singapore: {
+    Generic: سنگاپور سٹینڈرڈ ٹائم,
+    Standard: سنگاپور سٹینڈرڈ ٹائم,
+    Daylight: سنگاپور سٹینڈرڈ ٹائم
+  },
+  Asia/Brunei: {
+    Generic: برونئی دارالسلام ٹائم,
+    Standard: برونئی دارالسلام ٹائم,
+    Daylight: برونئی دارالسلام ٹائم
+  },
+  Asia/Makassar: {
+    Generic: وسطی انڈونیشیا ٹائم,
+    Standard: وسطی انڈونیشیا ٹائم,
+    Daylight: وسطی انڈونیشیا ٹائم
+  },
+  Asia/Kuala_Lumpur: {
+    Generic: ملیشیا ٹائم,
+    Standard: ملیشیا ٹائم,
+    Daylight: ملیشیا ٹائم
+  },
+  Asia/Kuching: {
+    Generic: ملیشیا ٹائم,
+    Standard: ملیشیا ٹائم,
+    Daylight: ملیشیا ٹائم
+  },
+  Asia/Manila: {
+    Generic: فلپائن ٹائم,
+    Standard: فلپائن سٹینڈرڈ ٹائم,
+    Daylight: فلپائن سمر ٹائم
+  },
+  Etc/GMT-8: {
+    Generic: کوآرڈینیٹڈ یونیورسل ٹائم +8,
+    Standard: کوآرڈینیٹڈ یونیورسل ٹائم +8,
+    Daylight: کوآرڈینیٹڈ یونیورسل ٹائم +8
+  },
+  Africa/Johannesburg: {
+    Generic: جنوبی افریقہ سٹینڈرڈ ٹائم,
+    Standard: جنوبی افریقہ سٹینڈرڈ ٹائم,
+    Daylight: جنوبی افریقہ سٹینڈرڈ ٹائم
+  },
+  Africa/Bujumbura: {
+    Generic: وسطی افریقہ ٹائم,
+    Standard: وسطی افریقہ ٹائم,
+    Daylight: وسطی افریقہ ٹائم
+  },
+  Africa/Gaborone: {
+    Generic: وسطی افریقہ ٹائم,
+    Standard: وسطی افریقہ ٹائم,
+    Daylight: وسطی افریقہ ٹائم
+  },
+  Africa/Lubumbashi: {
+    Generic: وسطی افریقہ ٹائم,
+    Standard: وسطی افریقہ ٹائم,
+    Daylight: وسطی افریقہ ٹائم
+  },
+  Africa/Maseru: {
+    Generic: جنوبی افریقہ سٹینڈرڈ ٹائم,
+    Standard: جنوبی افریقہ سٹینڈرڈ ٹائم,
+    Daylight: جنوبی افریقہ سٹینڈرڈ ٹائم
+  },
+  Africa/Blantyre: {
+    Generic: وسطی افریقہ ٹائم,
+    Standard: وسطی افریقہ ٹائم,
+    Daylight: وسطی افریقہ ٹائم
+  },
+  Africa/Maputo: {
+    Generic: وسطی افریقہ ٹائم,
+    Standard: وسطی افریقہ ٹائم,
+    Daylight: وسطی افریقہ ٹائم
+  },
+  Africa/Kigali: {
+    Generic: وسطی افریقہ ٹائم,
+    Standard: وسطی افریقہ ٹائم,
+    Daylight: وسطی افریقہ ٹائم
+  },
+  Africa/Mbabane: {
+    Generic: جنوبی افریقہ سٹینڈرڈ ٹائم,
+    Standard: جنوبی افریقہ سٹینڈرڈ ٹائم,
+    Daylight: جنوبی افریقہ سٹینڈرڈ ٹائم
+  },
+  Africa/Lusaka: {
+    Generic: وسطی افریقہ ٹائم,
+    Standard: وسطی افریقہ ٹائم,
+    Daylight: وسطی افریقہ ٹائم
+  },
+  Africa/Harare: {
+    Generic: وسطی افریقہ ٹائم,
+    Standard: وسطی افریقہ ٹائم,
+    Daylight: وسطی افریقہ ٹائم
+  },
+  Etc/GMT-2: {
+    Generic: کوآرڈینیٹڈ یونیورسل ٹائم +2,
+    Standard: کوآرڈینیٹڈ یونیورسل ٹائم +2,
+    Daylight: کوآرڈینیٹڈ یونیورسل ٹائم +2
+  },
+  Africa/Juba: {
+    Generic: وسطی افریقہ ٹائم,
+    Standard: وسطی افریقہ ٹائم,
+    Daylight: وسطی افریقہ ٹائم
+  },
+  Asia/Colombo: {
+    Generic: انڈیا سٹینڈرڈ ٹائم,
+    Standard: انڈیا سٹینڈرڈ ٹائم,
+    Daylight: انڈیا سٹینڈرڈ ٹائم
+  },
+  Africa/Khartoum: {
+    Generic: وسطی افریقہ ٹائم,
+    Standard: وسطی افریقہ ٹائم,
+    Daylight: وسطی افریقہ ٹائم
+  },
+  Asia/Damascus: {
+    Generic: مشرقی یورپ کا وقت,
+    Standard: مشرقی یورپ کا معیاری وقت,
+    Daylight: مشرقی یورپ کا موسم گرما کا وقت
+  },
+  Asia/Taipei: {
+    Generic: تائی پیئی ٹائم,
+    Standard: تائی پیئی اسٹینڈرڈ ٹائم,
+    Daylight: تئی پیئی ڈے لائٹ ٹائم
+  },
+  Australia/Hobart: {
+    Generic: ایسٹرن آسٹریلیا ٹائم,
+    Standard: آسٹریلین ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: آسٹریلین ایسٹرن ڈے لائٹ ٹائم
+  },
+  Australia/Currie: {
+    Generic: ایسٹرن آسٹریلیا ٹائم,
+    Standard: آسٹریلین ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: آسٹریلین ایسٹرن ڈے لائٹ ٹائم
+  },
+  Antarctica/Macquarie: {
+    Generic: ایسٹرن آسٹریلیا ٹائم,
+    Standard: آسٹریلین ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: آسٹریلین ایسٹرن ڈے لائٹ ٹائم
+  },
+  America/Araguaina: {
+    Generic: برازیلیا ٹائم,
+    Standard: برازیلیا سٹینڈرڈ ٹائم,
+    Daylight: برازیلیا سمر ٹائم
+  },
+  Asia/Tokyo: {
+    Generic: جاپان ٹائم,
+    Standard: جاپان سٹینڈرڈ ٹائم,
+    Daylight: جاپان ڈے لائٹ ٹائم
+  },
+  Asia/Jayapura: {
+    Generic: مشرقی انڈونیشیا ٹائم,
+    Standard: مشرقی انڈونیشیا ٹائم,
+    Daylight: مشرقی انڈونیشیا ٹائم
+  },
+  Pacific/Palau: {
+    Generic: پلاؤ ٹائم,
+    Standard: پلاؤ ٹائم,
+    Daylight: پلاؤ ٹائم
+  },
+  Asia/Dili: {
+    Generic: مشرقی تیمور ٹائم,
+    Standard: مشرقی تیمور ٹائم,
+    Daylight: مشرقی تیمور ٹائم
+  },
+  Etc/GMT-9: {
+    Generic: کوآرڈینیٹڈ یونیورسل ٹائم +9,
+    Standard: کوآرڈینیٹڈ یونیورسل ٹائم +9,
+    Daylight: کوآرڈینیٹڈ یونیورسل ٹائم +9
+  },
+  Asia/Tomsk: {
+    Generic: ٹامسک وقت,
+    Standard: ٹامسک معیاری وقت,
+    Daylight: ٹامسک دن کا وقت
+  },
+  Pacific/Tongatapu: {
+    Generic: ٹونگا ٹائم,
+    Standard: ٹونگا سٹینڈرڈ ٹائم,
+    Daylight: ٹونگا سمر ٹائم
+  },
+  Asia/Chita: {
+    Generic: چیتا وقت,
+    Standard: چیتا معیاری وقت,
+    Daylight: چیتا دن کا وقت
+  },
+  Europe/Istanbul: {
+    Generic: ترکی وقت,
+    Standard: ترکی معیاری وقت,
+    Daylight: ترکی دن کا وقت
+  },
+  America/Grand_Turk: {
+    Generic: ایسٹرن ٹائم,
+    Standard: ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: ایسٹرن ڈے لائٹ ٹائم
+  },
+  America/Indianapolis: {
+    Generic: ایسٹرن ٹائم,
+    Standard: ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: ایسٹرن ڈے لائٹ ٹائم
+  },
+  America/Indiana/Marengo: {
+    Generic: ایسٹرن ٹائم,
+    Standard: ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: ایسٹرن ڈے لائٹ ٹائم
+  },
+  America/Indiana/Vevay: {
+    Generic: ایسٹرن ٹائم,
+    Standard: ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: ایسٹرن ڈے لائٹ ٹائم
+  },
+  America/Phoenix: {
+    Generic: ماؤنٹین ٹائم,
+    Standard: ماؤنٹین اسٹینڈرڈ ٹائم,
+    Daylight: ماؤنٹین ڈے لائٹ ٹائم
+  },
+  America/Creston: {
+    Generic: ماؤنٹین ٹائم,
+    Standard: ماؤنٹین اسٹینڈرڈ ٹائم,
+    Daylight: ماؤنٹین ڈے لائٹ ٹائم
+  },
+  America/Dawson_Creek: {
+    Generic: ماؤنٹین ٹائم,
+    Standard: ماؤنٹین اسٹینڈرڈ ٹائم,
+    Daylight: ماؤنٹین ڈے لائٹ ٹائم
+  },
+  America/Fort_Nelson: {
+    Generic: ماؤنٹین ٹائم,
+    Standard: ماؤنٹین اسٹینڈرڈ ٹائم,
+    Daylight: ماؤنٹین ڈے لائٹ ٹائم
+  },
+  America/Hermosillo: {
+    Generic: میکسیکن پیسفک ٹائم,
+    Standard: میکسیکن پیسفک اسٹینڈرڈ ٹائم,
+    Daylight: میکسیکن پیسفک ڈے لائٹ ٹائم
+  },
+  Etc/GMT+7: {
+    Generic: کوآرڈینیٹڈ یونیورسل ٹائم -7,
+    Standard: کوآرڈینیٹڈ یونیورسل ٹائم -7,
+    Daylight: کوآرڈینیٹڈ یونیورسل ٹائم -7
+  },
+  Etc/GMT-12: {
+    Generic: کوآرڈینیٹڈ یونیورسل ٹائم +12,
+    Standard: کوآرڈینیٹڈ یونیورسل ٹائم +12,
+    Daylight: کوآرڈینیٹڈ یونیورسل ٹائم +12
+  },
+  Pacific/Tarawa: {
+    Generic: جلبرٹ آئلینڈز ٹائم,
+    Standard: جلبرٹ آئلینڈز ٹائم,
+    Daylight: جلبرٹ آئلینڈز ٹائم
+  },
+  Pacific/Majuro: {
+    Generic: مارشل آئلینڈز ٹائم,
+    Standard: مارشل آئلینڈز ٹائم,
+    Daylight: مارشل آئلینڈز ٹائم
+  },
+  Pacific/Kwajalein: {
+    Generic: مارشل آئلینڈز ٹائم,
+    Standard: مارشل آئلینڈز ٹائم,
+    Daylight: مارشل آئلینڈز ٹائم
+  },
+  Pacific/Nauru: {
+    Generic: ناؤرو ٹائم,
+    Standard: ناؤرو ٹائم,
+    Daylight: ناؤرو ٹائم
+  },
+  Pacific/Funafuti: {
+    Generic: ٹوالو ٹائم,
+    Standard: ٹوالو ٹائم,
+    Daylight: ٹوالو ٹائم
+  },
+  Pacific/Wake: {
+    Generic: ویک آئلینڈ ٹائم,
+    Standard: ویک آئلینڈ ٹائم,
+    Daylight: ویک آئلینڈ ٹائم
+  },
+  Pacific/Wallis: {
+    Generic: والیز اور فٹونا ٹائم,
+    Standard: والیز اور فٹونا ٹائم,
+    Daylight: والیز اور فٹونا ٹائم
+  },
+  Etc/GMT-13: {
+    Generic: کوآرڈینیٹڈ یونیورسل ٹائم +13,
+    Standard: کوآرڈینیٹڈ یونیورسل ٹائم +13,
+    Daylight: کوآرڈینیٹڈ یونیورسل ٹائم +13
+  },
+  Pacific/Enderbury: {
+    Generic: فینکس آئلینڈز ٹائم,
+    Standard: فینکس آئلینڈز ٹائم,
+    Daylight: فینکس آئلینڈز ٹائم
+  },
+  Pacific/Fakaofo: {
+    Generic: ٹوکیلاؤ ٹائم,
+    Standard: ٹوکیلاؤ ٹائم,
+    Daylight: ٹوکیلاؤ ٹائم
+  },
+  Etc/UTC: {
+    Generic: کوآرڈینیٹڈ یونیورسل ٹائم,
+    Standard: کوآرڈینیٹڈ یونیورسل ٹائم,
+    Daylight: کوآرڈینیٹڈ یونیورسل ٹائم
+  },
+  Etc/GMT: {
+    Generic: گرین وچ مین ٹائم,
+    Standard: گرین وچ مین ٹائم,
+    Daylight: گرین وچ مین ٹائم
+  },
+  Etc/GMT+2: {
+    Generic: کوآرڈینیٹڈ یونیورسل ٹائم -2,
+    Standard: کوآرڈینیٹڈ یونیورسل ٹائم -2,
+    Daylight: کوآرڈینیٹڈ یونیورسل ٹائم -2
+  },
+  America/Noronha: {
+    Generic: فرنانڈو ڈی نورنہا ٹائم,
+    Standard: فرنانڈو ڈی نورنہا سٹینڈرڈ ٹائم,
+    Daylight: فرنانڈو ڈی نورونہا سمر ٹائم
+  },
+  Atlantic/South_Georgia: {
+    Generic: جنوبی جارجیا ٹائم,
+    Standard: جنوبی جارجیا ٹائم,
+    Daylight: جنوبی جارجیا ٹائم
+  },
+  Etc/GMT+8: {
+    Generic: کوآرڈینیٹڈ یونیورسل ٹائم -8,
+    Standard: کوآرڈینیٹڈ یونیورسل ٹائم -8,
+    Daylight: کوآرڈینیٹڈ یونیورسل ٹائم -8
+  },
+  Pacific/Pitcairn: {
+    Generic: پٹکائرن ٹائم,
+    Standard: پٹکائرن ٹائم,
+    Daylight: پٹکائرن ٹائم
+  },
+  Etc/GMT+9: {
+    Generic: کوآرڈینیٹڈ یونیورسل ٹائم -9,
+    Standard: کوآرڈینیٹڈ یونیورسل ٹائم -9,
+    Daylight: کوآرڈینیٹڈ یونیورسل ٹائم -9
+  },
+  Pacific/Gambier: {
+    Generic: گیمبیئر ٹائم,
+    Standard: گیمبیئر ٹائم,
+    Daylight: گیمبیئر ٹائم
+  },
+  Etc/GMT+11: {
+    Generic: کوآرڈینیٹڈ یونیورسل ٹائم -11,
+    Standard: کوآرڈینیٹڈ یونیورسل ٹائم -11,
+    Daylight: کوآرڈینیٹڈ یونیورسل ٹائم -11
+  },
+  Pacific/Pago_Pago: {
+    Generic: ساموآ ٹائم,
+    Standard: ساموآ سٹینڈرڈ ٹائم,
+    Daylight: ساموآ ڈے لائٹ ٹائم
+  },
+  Pacific/Niue: {
+    Generic: نیئو ٹائم,
+    Standard: نیئو ٹائم,
+    Daylight: نیئو ٹائم
+  },
+  Pacific/Midway: {
+    Generic: ساموآ ٹائم,
+    Standard: ساموآ سٹینڈرڈ ٹائم,
+    Daylight: ساموآ ڈے لائٹ ٹائم
+  },
+  Asia/Ulaanbaatar: {
+    Generic: یولان بیتور ٹائم,
+    Standard: یولان بیتور سٹینڈرڈ ٹائم,
+    Daylight: یولان بیتور سمر ٹائم
+  },
+  Asia/Choibalsan: {
+    Generic: یولان بیتور ٹائم,
+    Standard: یولان بیتور سٹینڈرڈ ٹائم,
+    Daylight: یولان بیتور سمر ٹائم
+  },
+  America/Caracas: {
+    Generic: وینزوئیلا ٹائم,
+    Standard: وینزوئیلا ٹائم,
+    Daylight: وینزوئیلا ٹائم
+  },
+  Asia/Vladivostok: {
+    Generic: ولادی ووستک وقت,
+    Standard: ولادی ووستک معیاری وقت,
+    Daylight: ولادی ووستک دن کا وقت
+  },
+  Asia/Ust-Nera: {
+    Generic: اوست-نیرا وقت,
+    Standard: اوست-نیرا معیاری وقت,
+    Daylight: اوست-نیرا دن کا وقت
+  },
+  Europe/Volgograd: {
+    Generic: وولگوگراد وقت,
+    Standard: وولگوگراد معیاری وقت,
+    Daylight: وولگوگراد دن کا وقت
+  },
+  Australia/Perth: {
+    Generic: ویسٹرن آسٹریلیا ٹائم,
+    Standard: آسٹریلیا ویسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: آسٹریلین ویسٹرن ڈے لائٹ ٹائم
+  },
+  Africa/Lagos: {
+    Generic: مغربی افریقہ ٹائم,
+    Standard: مغربی افریقہ سٹینڈرڈ ٹائم,
+    Daylight: مغربی افریقہ سمر ٹائم
+  },
+  Africa/Luanda: {
+    Generic: مغربی افریقہ ٹائم,
+    Standard: مغربی افریقہ سٹینڈرڈ ٹائم,
+    Daylight: مغربی افریقہ سمر ٹائم
+  },
+  Africa/Porto-Novo: {
+    Generic: مغربی افریقہ ٹائم,
+    Standard: مغربی افریقہ سٹینڈرڈ ٹائم,
+    Daylight: مغربی افریقہ سمر ٹائم
+  },
+  Africa/Kinshasa: {
+    Generic: مغربی افریقہ ٹائم,
+    Standard: مغربی افریقہ سٹینڈرڈ ٹائم,
+    Daylight: مغربی افریقہ سمر ٹائم
+  },
+  Africa/Bangui: {
+    Generic: مغربی افریقہ ٹائم,
+    Standard: مغربی افریقہ سٹینڈرڈ ٹائم,
+    Daylight: مغربی افریقہ سمر ٹائم
+  },
+  Africa/Brazzaville: {
+    Generic: مغربی افریقہ ٹائم,
+    Standard: مغربی افریقہ سٹینڈرڈ ٹائم,
+    Daylight: مغربی افریقہ سمر ٹائم
+  },
+  Africa/Douala: {
+    Generic: مغربی افریقہ ٹائم,
+    Standard: مغربی افریقہ سٹینڈرڈ ٹائم,
+    Daylight: مغربی افریقہ سمر ٹائم
+  },
+  Africa/Algiers: {
+    Generic: وسطی یورپ کا وقت,
+    Standard: وسطی یورپ کا معیاری وقت,
+    Daylight: وسطی یورپ کا موسم گرما کا وقت
+  },
+  Africa/Libreville: {
+    Generic: مغربی افریقہ ٹائم,
+    Standard: مغربی افریقہ سٹینڈرڈ ٹائم,
+    Daylight: مغربی افریقہ سمر ٹائم
+  },
+  Africa/Malabo: {
+    Generic: مغربی افریقہ ٹائم,
+    Standard: مغربی افریقہ سٹینڈرڈ ٹائم,
+    Daylight: مغربی افریقہ سمر ٹائم
+  },
+  Africa/Niamey: {
+    Generic: مغربی افریقہ ٹائم,
+    Standard: مغربی افریقہ سٹینڈرڈ ٹائم,
+    Daylight: مغربی افریقہ سمر ٹائم
+  },
+  Africa/Ndjamena: {
+    Generic: مغربی افریقہ ٹائم,
+    Standard: مغربی افریقہ سٹینڈرڈ ٹائم,
+    Daylight: مغربی افریقہ سمر ٹائم
+  },
+  Africa/Tunis: {
+    Generic: وسطی یورپ کا وقت,
+    Standard: وسطی یورپ کا معیاری وقت,
+    Daylight: وسطی یورپ کا موسم گرما کا وقت
+  },
+  Etc/GMT-1: {
+    Generic: کوآرڈینیٹڈ یونیورسل ٹائم +1,
+    Standard: کوآرڈینیٹڈ یونیورسل ٹائم +1,
+    Daylight: کوآرڈینیٹڈ یونیورسل ٹائم +1
+  },
+  Europe/Berlin: {
+    Generic: وسطی یورپ کا وقت,
+    Standard: وسطی یورپ کا معیاری وقت,
+    Daylight: وسطی یورپ کا موسم گرما کا وقت
+  },
+  Europe/Andorra: {
+    Generic: وسطی یورپ کا وقت,
+    Standard: وسطی یورپ کا معیاری وقت,
+    Daylight: وسطی یورپ کا موسم گرما کا وقت
+  },
+  Europe/Vienna: {
+    Generic: وسطی یورپ کا وقت,
+    Standard: وسطی یورپ کا معیاری وقت,
+    Daylight: وسطی یورپ کا موسم گرما کا وقت
+  },
+  Europe/Zurich: {
+    Generic: وسطی یورپ کا وقت,
+    Standard: وسطی یورپ کا معیاری وقت,
+    Daylight: وسطی یورپ کا موسم گرما کا وقت
+  },
+  Europe/Busingen: {
+    Generic: وسطی یورپ کا وقت,
+    Standard: وسطی یورپ کا معیاری وقت,
+    Daylight: وسطی یورپ کا موسم گرما کا وقت
+  },
+  Europe/Gibraltar: {
+    Generic: وسطی یورپ کا وقت,
+    Standard: وسطی یورپ کا معیاری وقت,
+    Daylight: وسطی یورپ کا موسم گرما کا وقت
+  },
+  Europe/Rome: {
+    Generic: وسطی یورپ کا وقت,
+    Standard: وسطی یورپ کا معیاری وقت,
+    Daylight: وسطی یورپ کا موسم گرما کا وقت
+  },
+  Europe/Vaduz: {
+    Generic: وسطی یورپ کا وقت,
+    Standard: وسطی یورپ کا معیاری وقت,
+    Daylight: وسطی یورپ کا موسم گرما کا وقت
+  },
+  Europe/Luxembourg: {
+    Generic: وسطی یورپ کا وقت,
+    Standard: وسطی یورپ کا معیاری وقت,
+    Daylight: وسطی یورپ کا موسم گرما کا وقت
+  },
+  Europe/Monaco: {
+    Generic: وسطی یورپ کا وقت,
+    Standard: وسطی یورپ کا معیاری وقت,
+    Daylight: وسطی یورپ کا موسم گرما کا وقت
+  },
+  Europe/Malta: {
+    Generic: وسطی یورپ کا وقت,
+    Standard: وسطی یورپ کا معیاری وقت,
+    Daylight: وسطی یورپ کا موسم گرما کا وقت
+  },
+  Europe/Amsterdam: {
+    Generic: وسطی یورپ کا وقت,
+    Standard: وسطی یورپ کا معیاری وقت,
+    Daylight: وسطی یورپ کا موسم گرما کا وقت
+  },
+  Europe/Oslo: {
+    Generic: وسطی یورپ کا وقت,
+    Standard: وسطی یورپ کا معیاری وقت,
+    Daylight: وسطی یورپ کا موسم گرما کا وقت
+  },
+  Europe/Stockholm: {
+    Generic: وسطی یورپ کا وقت,
+    Standard: وسطی یورپ کا معیاری وقت,
+    Daylight: وسطی یورپ کا موسم گرما کا وقت
+  },
+  Arctic/Longyearbyen: {
+    Generic: وسطی یورپ کا وقت,
+    Standard: وسطی یورپ کا معیاری وقت,
+    Daylight: وسطی یورپ کا موسم گرما کا وقت
+  },
+  Europe/San_Marino: {
+    Generic: وسطی یورپ کا وقت,
+    Standard: وسطی یورپ کا معیاری وقت,
+    Daylight: وسطی یورپ کا موسم گرما کا وقت
+  },
+  Europe/Vatican: {
+    Generic: وسطی یورپ کا وقت,
+    Standard: وسطی یورپ کا معیاری وقت,
+    Daylight: وسطی یورپ کا موسم گرما کا وقت
+  },
+  Asia/Hovd: {
+    Generic: ہووڈ ٹائم,
+    Standard: ہووڈ سٹینڈرڈ ٹائم,
+    Daylight: ہووڈ سمر ٹائم
+  },
+  Asia/Tashkent: {
+    Generic: ازبکستان ٹائم,
+    Standard: ازبکستان سٹینڈرڈ ٹائم,
+    Daylight: ازبکستان سمر ٹائم
+  },
+  Antarctica/Mawson: {
+    Generic: ماؤسن ٹائم,
+    Standard: ماؤسن ٹائم,
+    Daylight: ماؤسن ٹائم
+  },
+  Asia/Oral: {
+    Generic: مغربی قزاخستان ٹائم,
+    Standard: مغربی قزاخستان ٹائم,
+    Daylight: مغربی قزاخستان ٹائم
+  },
+  Asia/Aqtau: {
+    Generic: مغربی قزاخستان ٹائم,
+    Standard: مغربی قزاخستان ٹائم,
+    Daylight: مغربی قزاخستان ٹائم
+  },
+  Asia/Aqtobe: {
+    Generic: مغربی قزاخستان ٹائم,
+    Standard: مغربی قزاخستان ٹائم,
+    Daylight: مغربی قزاخستان ٹائم
+  },
+  Asia/Atyrau: {
+    Generic: مغربی قزاخستان ٹائم,
+    Standard: مغربی قزاخستان ٹائم,
+    Daylight: مغربی قزاخستان ٹائم
+  },
+  Indian/Maldives: {
+    Generic: مالدیپ ٹائم,
+    Standard: مالدیپ ٹائم,
+    Daylight: مالدیپ ٹائم
+  },
+  Indian/Kerguelen: {
+    Generic: فرینچ جنوبی اور انٹارکٹک ٹائم,
+    Standard: فرینچ جنوبی اور انٹارکٹک ٹائم,
+    Daylight: فرینچ جنوبی اور انٹارکٹک ٹائم
+  },
+  Asia/Dushanbe: {
+    Generic: تاجکستان ٹائم,
+    Standard: تاجکستان ٹائم,
+    Daylight: تاجکستان ٹائم
+  },
+  Asia/Ashgabat: {
+    Generic: ترکمانستان ٹائم,
+    Standard: ترکمانستان سٹینڈرڈ ٹائم,
+    Daylight: ترکمانستان سمر ٹائم
+  },
+  Asia/Samarkand: {
+    Generic: ازبکستان ٹائم,
+    Standard: ازبکستان سٹینڈرڈ ٹائم,
+    Daylight: ازبکستان سمر ٹائم
+  },
+  Etc/GMT-5: {
+    Generic: کوآرڈینیٹڈ یونیورسل ٹائم +5,
+    Standard: کوآرڈینیٹڈ یونیورسل ٹائم +5,
+    Daylight: کوآرڈینیٹڈ یونیورسل ٹائم +5
+  },
+  Asia/Hebron: {
+    Generic: مشرقی یورپ کا وقت,
+    Standard: مشرقی یورپ کا معیاری وقت,
+    Daylight: مشرقی یورپ کا موسم گرما کا وقت
+  },
+  Asia/Gaza: {
+    Generic: مشرقی یورپ کا وقت,
+    Standard: مشرقی یورپ کا معیاری وقت,
+    Daylight: مشرقی یورپ کا موسم گرما کا وقت
+  },
+  Pacific/Port_Moresby: {
+    Generic: پاپوآ نیو گنی ٹائم,
+    Standard: پاپوآ نیو گنی ٹائم,
+    Daylight: پاپوآ نیو گنی ٹائم
+  },
+  Antarctica/DumontDUrville: {
+    Generic: ڈومونٹ-ڈی’ارویلے ٹائم,
+    Standard: ڈومونٹ-ڈی’ارویلے ٹائم,
+    Daylight: ڈومونٹ-ڈی’ارویلے ٹائم
+  },
+  Pacific/Truk: {
+    Generic: چوک ٹائم,
+    Standard: چوک ٹائم,
+    Daylight: چوک ٹائم
+  },
+  Pacific/Guam: {
+    Generic: چامورو سٹینڈرڈ ٹائم,
+    Standard: چامورو سٹینڈرڈ ٹائم,
+    Daylight: چامورو سٹینڈرڈ ٹائم
+  },
+  Pacific/Saipan: {
+    Generic: چامورو سٹینڈرڈ ٹائم,
+    Standard: چامورو سٹینڈرڈ ٹائم,
+    Daylight: چامورو سٹینڈرڈ ٹائم
+  },
+  Etc/GMT-10: {
+    Generic: کوآرڈینیٹڈ یونیورسل ٹائم +10,
+    Standard: کوآرڈینیٹڈ یونیورسل ٹائم +10,
+    Daylight: کوآرڈینیٹڈ یونیورسل ٹائم +10
+  },
+  Asia/Yakutsk: {
+    Generic: یکوتسک وقت,
+    Standard: یکوتسک معیاری وقت,
+    Daylight: یکوتسک دن کا وقت
+  },
+  Asia/Khandyga: {
+    Generic: خندیگا وقت,
+    Standard: خندیگا معیاری وقت,
+    Daylight: خندیگا دن کا وقت
+  },
+  America/Whitehorse: {
+    Generic: یوکون ٹائم,
+    Standard: یوکون ٹائم,
+    Daylight: یوکون ٹائم
+  },
+  America/Dawson: {
+    Generic: یوکون ٹائم,
+    Standard: یوکون ٹائم,
+    Daylight: یوکون ٹائم
+  },
+  Iceland: {
+    Generic: گرین وچ مین ٹائم,
+    Standard: گرین وچ مین ٹائم,
+    Daylight: گرین وچ مین ٹائم
+  },
+  Africa/Timbuktu: {
+    Generic: گرین وچ مین ٹائم,
+    Standard: گرین وچ مین ٹائم,
+    Daylight: گرین وچ مین ٹائم
+  },
+  Egypt: {
+    Generic: مشرقی یورپ کا وقت,
+    Standard: مشرقی یورپ کا معیاری وقت,
+    Daylight: مشرقی یورپ کا موسم گرما کا وقت
+  },
+  Africa/Asmara: {
+    Generic: مشرقی افریقہ ٹائم,
+    Standard: مشرقی افریقہ ٹائم,
+    Daylight: مشرقی افریقہ ٹائم
+  },
+  Libya: {
+    Generic: مشرقی یورپ کا وقت,
+    Standard: مشرقی یورپ کا معیاری وقت,
+    Daylight: مشرقی یورپ کا موسم گرما کا وقت
+  },
+  America/Atka: {
+    Generic: ہوائی الیوٹیئن ٹائم,
+    Standard: ہوائی الیوٹیئن اسٹینڈرڈ ٹائم,
+    Daylight: ہوائی الیوٹیئن ڈے لائٹ ٹائم
+  },
+  US/Aleutian: {
+    Generic: ہوائی الیوٹیئن ٹائم,
+    Standard: ہوائی الیوٹیئن اسٹینڈرڈ ٹائم,
+    Daylight: ہوائی الیوٹیئن ڈے لائٹ ٹائم
+  },
+  US/Alaska: {
+    Generic: الاسکا ٹائم,
+    Standard: الاسکا اسٹینڈرڈ ٹائم,
+    Daylight: الاسکا ڈے لائٹ ٹائم
+  },
+  America/Argentina/Buenos_Aires: {
+    Generic: ارجنٹینا کا وقت,
+    Standard: ارجنٹینا کا معیاری وقت,
+    Daylight: ارجنٹینا کا موسم گرما کا وقت
+  },
+  America/Argentina/Catamarca: {
+    Generic: ارجنٹینا کا وقت,
+    Standard: ارجنٹینا کا معیاری وقت,
+    Daylight: ارجنٹینا کا موسم گرما کا وقت
+  },
+  America/Argentina/ComodRivadavia: {
+    Generic: ارجنٹینا کا وقت,
+    Standard: ارجنٹینا کا معیاری وقت,
+    Daylight: ارجنٹینا کا موسم گرما کا وقت
+  },
+  America/Argentina/Cordoba: {
+    Generic: ارجنٹینا کا وقت,
+    Standard: ارجنٹینا کا معیاری وقت,
+    Daylight: ارجنٹینا کا موسم گرما کا وقت
+  },
+  America/Rosario: {
+    Generic: ارجنٹینا کا وقت,
+    Standard: ارجنٹینا کا معیاری وقت,
+    Daylight: ارجنٹینا کا موسم گرما کا وقت
+  },
+  America/Argentina/Jujuy: {
+    Generic: ارجنٹینا کا وقت,
+    Standard: ارجنٹینا کا معیاری وقت,
+    Daylight: ارجنٹینا کا موسم گرما کا وقت
+  },
+  America/Argentina/Mendoza: {
+    Generic: ارجنٹینا کا وقت,
+    Standard: ارجنٹینا کا معیاری وقت,
+    Daylight: ارجنٹینا کا موسم گرما کا وقت
+  },
+  US/Central: {
+    Generic: سنٹرل ٹائم,
+    Standard: سنٹرل اسٹینڈرڈ ٹائم,
+    Daylight: سنٹرل ڈے لائٹ ٹائم
+  },
+  America/Shiprock: {
+    Generic: ماؤنٹین ٹائم,
+    Standard: ماؤنٹین اسٹینڈرڈ ٹائم,
+    Daylight: ماؤنٹین ڈے لائٹ ٹائم
+  },
+  Navajo: {
+    Generic: ماؤنٹین ٹائم,
+    Standard: ماؤنٹین اسٹینڈرڈ ٹائم,
+    Daylight: ماؤنٹین ڈے لائٹ ٹائم
+  },
+  US/Mountain: {
+    Generic: ماؤنٹین ٹائم,
+    Standard: ماؤنٹین اسٹینڈرڈ ٹائم,
+    Daylight: ماؤنٹین ڈے لائٹ ٹائم
+  },
+  US/Michigan: {
+    Generic: ایسٹرن ٹائم,
+    Standard: ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: ایسٹرن ڈے لائٹ ٹائم
+  },
+  Canada/Mountain: {
+    Generic: ماؤنٹین ٹائم,
+    Standard: ماؤنٹین اسٹینڈرڈ ٹائم,
+    Daylight: ماؤنٹین ڈے لائٹ ٹائم
+  },
+  Canada/Atlantic: {
+    Generic: اٹلانٹک ٹائم,
+    Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
+    Daylight: اٹلانٹک ڈے لائٹ ٹائم
+  },
+  Cuba: {
+    Generic: کیوبا ٹائم,
+    Standard: کیوبا اسٹینڈرڈ ٹائم,
+    Daylight: کیوبا ڈے لائٹ ٹائم
+  },
+  America/Indiana/Indianapolis: {
+    Generic: ایسٹرن ٹائم,
+    Standard: ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: ایسٹرن ڈے لائٹ ٹائم
+  },
+  US/East-Indiana: {
+    Generic: ایسٹرن ٹائم,
+    Standard: ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: ایسٹرن ڈے لائٹ ٹائم
+  },
+  America/Knox_IN: {
+    Generic: سنٹرل ٹائم,
+    Standard: سنٹرل اسٹینڈرڈ ٹائم,
+    Daylight: سنٹرل ڈے لائٹ ٹائم
+  },
+  US/Indiana-Starke: {
+    Generic: سنٹرل ٹائم,
+    Standard: سنٹرل اسٹینڈرڈ ٹائم,
+    Daylight: سنٹرل ڈے لائٹ ٹائم
+  },
+  Jamaica: {
+    Generic: ایسٹرن ٹائم,
+    Standard: ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: ایسٹرن ڈے لائٹ ٹائم
+  },
+  America/Kentucky/Louisville: {
+    Generic: ایسٹرن ٹائم,
+    Standard: ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: ایسٹرن ڈے لائٹ ٹائم
+  },
+  US/Pacific: {
+    Generic: پیسفک ٹائم,
+    Standard: پیسفک اسٹینڈرڈ ٹائم,
+    Daylight: پیسفک ڈے لائٹ ٹائم
+  },
+  Brazil/West: {
+    Generic: ایمیزون ٹائم,
+    Standard: ایمیزون سٹینڈرڈ ٹائم,
+    Daylight: ایمیزون سمر ٹائم
+  },
+  Mexico/BajaSur: {
+    Generic: میکسیکن پیسفک ٹائم,
+    Standard: میکسیکن پیسفک اسٹینڈرڈ ٹائم,
+    Daylight: میکسیکن پیسفک ڈے لائٹ ٹائم
+  },
+  Mexico/General: {
+    Generic: سنٹرل ٹائم,
+    Standard: سنٹرل اسٹینڈرڈ ٹائم,
+    Daylight: سنٹرل ڈے لائٹ ٹائم
+  },
+  US/Eastern: {
+    Generic: ایسٹرن ٹائم,
+    Standard: ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: ایسٹرن ڈے لائٹ ٹائم
+  },
+  Brazil/DeNoronha: {
+    Generic: فرنانڈو ڈی نورنہا ٹائم,
+    Standard: فرنانڈو ڈی نورنہا سٹینڈرڈ ٹائم,
+    Daylight: فرنانڈو ڈی نورونہا سمر ٹائم
+  },
+  America/Nuuk: {
+    Generic: مغربی گرین لینڈ ٹائم,
+    Standard: مغربی گرین لینڈ اسٹینڈرڈ ٹائم,
+    Daylight: مغربی گرین لینڈ کا موسم گرما کا وقت
+  },
+  America/Atikokan: {
+    Generic: ایسٹرن ٹائم,
+    Standard: ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: ایسٹرن ڈے لائٹ ٹائم
+  },
+  US/Arizona: {
+    Generic: ماؤنٹین ٹائم,
+    Standard: ماؤنٹین اسٹینڈرڈ ٹائم,
+    Daylight: ماؤنٹین ڈے لائٹ ٹائم
+  },
+  America/Virgin: {
+    Generic: اٹلانٹک ٹائم,
+    Standard: اٹلانٹک اسٹینڈرڈ ٹائم,
+    Daylight: اٹلانٹک ڈے لائٹ ٹائم
+  },
+  Canada/Saskatchewan: {
+    Generic: سنٹرل ٹائم,
+    Standard: سنٹرل اسٹینڈرڈ ٹائم,
+    Daylight: سنٹرل ڈے لائٹ ٹائم
+  },
+  America/Porto_Acre: {
+    Generic: برازیل وقت,
+    Standard: برازیل معیاری وقت,
+    Daylight: برازیل دن کا وقت
+  },
+  Brazil/Acre: {
+    Generic: برازیل وقت,
+    Standard: برازیل معیاری وقت,
+    Daylight: برازیل دن کا وقت
+  },
+  Chile/Continental: {
+    Generic: چلی ٹائم,
+    Standard: چلی سٹینڈرڈ ٹائم,
+    Daylight: چلی سمر ٹائم
+  },
+  Brazil/East: {
+    Generic: برازیلیا ٹائم,
+    Standard: برازیلیا سٹینڈرڈ ٹائم,
+    Daylight: برازیلیا سمر ٹائم
+  },
+  Canada/Newfoundland: {
+    Generic: نیو فاؤنڈ لینڈ ٹائم,
+    Standard: نیو فاؤنڈ لینڈ اسٹینڈرڈ ٹائم,
+    Daylight: نیو فاؤنڈ لینڈ ڈے لائٹ ٹائم
+  },
+  America/Ensenada: {
+    Generic: پیسفک ٹائم,
+    Standard: پیسفک اسٹینڈرڈ ٹائم,
+    Daylight: پیسفک ڈے لائٹ ٹائم
+  },
+  Mexico/BajaNorte: {
+    Generic: پیسفک ٹائم,
+    Standard: پیسفک اسٹینڈرڈ ٹائم,
+    Daylight: پیسفک ڈے لائٹ ٹائم
+  },
+  Canada/Eastern: {
+    Generic: ایسٹرن ٹائم,
+    Standard: ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: ایسٹرن ڈے لائٹ ٹائم
+  },
+  Canada/Pacific: {
+    Generic: پیسفک ٹائم,
+    Standard: پیسفک اسٹینڈرڈ ٹائم,
+    Daylight: پیسفک ڈے لائٹ ٹائم
+  },
+  Canada/Yukon: {
+    Generic: یوکون ٹائم,
+    Standard: یوکون ٹائم,
+    Daylight: یوکون ٹائم
+  },
+  Canada/Central: {
+    Generic: سنٹرل ٹائم,
+    Standard: سنٹرل اسٹینڈرڈ ٹائم,
+    Daylight: سنٹرل ڈے لائٹ ٹائم
+  },
+  Asia/Ashkhabad: {
+    Generic: ترکمانستان ٹائم,
+    Standard: ترکمانستان سٹینڈرڈ ٹائم,
+    Daylight: ترکمانستان سمر ٹائم
+  },
+  Asia/Dacca: {
+    Generic: بنگلہ دیش ٹائم,
+    Standard: بنگلہ دیش سٹینڈرڈ ٹائم,
+    Daylight: بنگلہ دیش سمر ٹائم
+  },
+  Asia/Ho_Chi_Minh: {
+    Generic: ہند چین ٹائم,
+    Standard: ہند چین ٹائم,
+    Daylight: ہند چین ٹائم
+  },
+  Hongkong: {
+    Generic: ہانگ کانگ ٹائم,
+    Standard: ہانگ کانگ سٹینڈرڈ ٹائم,
+    Daylight: ہانگ کانگ سمر ٹائم
+  },
+  Asia/Tel_Aviv: {
+    Generic: اسرائیل ٹائم,
+    Standard: اسرائیل سٹینڈرڈ ٹائم,
+    Daylight: اسرائیل ڈے لائٹ ٹائم
+  },
+  Israel: {
+    Generic: اسرائیل ٹائم,
+    Standard: اسرائیل سٹینڈرڈ ٹائم,
+    Daylight: اسرائیل ڈے لائٹ ٹائم
+  },
+  Asia/Kathmandu: {
+    Generic: نیپال ٹائم,
+    Standard: نیپال ٹائم,
+    Daylight: نیپال ٹائم
+  },
+  Asia/Kolkata: {
+    Generic: انڈیا سٹینڈرڈ ٹائم,
+    Standard: انڈیا سٹینڈرڈ ٹائم,
+    Daylight: انڈیا سٹینڈرڈ ٹائم
+  },
+  Asia/Macao: {
+    Generic: چین کا وقت,
+    Standard: چین سٹینڈرڈ ٹائم,
+    Daylight: چینی ڈے لائٹ ٹائم
+  },
+  Asia/Ujung_Pandang: {
+    Generic: وسطی انڈونیشیا ٹائم,
+    Standard: وسطی انڈونیشیا ٹائم,
+    Daylight: وسطی انڈونیشیا ٹائم
+  },
+  Europe/Nicosia: {
+    Generic: مشرقی یورپ کا وقت,
+    Standard: مشرقی یورپ کا معیاری وقت,
+    Daylight: مشرقی یورپ کا موسم گرما کا وقت
+  },
+  ROK: {
+    Generic: کوریا ٹائم,
+    Standard: کوریا سٹینڈرڈ ٹائم,
+    Daylight: کوریا ڈے لائٹ ٹائم
+  },
+  Asia/Chongqing: {
+    Generic: چین کا وقت,
+    Standard: چین سٹینڈرڈ ٹائم,
+    Daylight: چینی ڈے لائٹ ٹائم
+  },
+  Asia/Chungking: {
+    Generic: چین کا وقت,
+    Standard: چین سٹینڈرڈ ٹائم,
+    Daylight: چینی ڈے لائٹ ٹائم
+  },
+  Asia/Harbin: {
+    Generic: چین کا وقت,
+    Standard: چین سٹینڈرڈ ٹائم,
+    Daylight: چینی ڈے لائٹ ٹائم
+  },
+  PRC: {
+    Generic: چین کا وقت,
+    Standard: چین سٹینڈرڈ ٹائم,
+    Daylight: چینی ڈے لائٹ ٹائم
+  },
+  Singapore: {
+    Generic: سنگاپور سٹینڈرڈ ٹائم,
+    Standard: سنگاپور سٹینڈرڈ ٹائم,
+    Daylight: سنگاپور سٹینڈرڈ ٹائم
+  },
+  ROC: {
+    Generic: تائی پیئی ٹائم,
+    Standard: تائی پیئی اسٹینڈرڈ ٹائم,
+    Daylight: تئی پیئی ڈے لائٹ ٹائم
+  },
+  Iran: {
+    Generic: ایران ٹائم,
+    Standard: ایران سٹینڈرڈ ٹائم,
+    Daylight: ایران ڈے لائٹ ٹائم
+  },
+  Asia/Thimbu: {
+    Generic: بھوٹان ٹائم,
+    Standard: بھوٹان ٹائم,
+    Daylight: بھوٹان ٹائم
+  },
+  Japan: {
+    Generic: جاپان ٹائم,
+    Standard: جاپان سٹینڈرڈ ٹائم,
+    Daylight: جاپان ڈے لائٹ ٹائم
+  },
+  Asia/Ulan_Bator: {
+    Generic: یولان بیتور ٹائم,
+    Standard: یولان بیتور سٹینڈرڈ ٹائم,
+    Daylight: یولان بیتور سمر ٹائم
+  },
+  Asia/Kashgar: {
+    Generic: چین وقت,
+    Standard: چین معیاری وقت,
+    Daylight: چین دن کا وقت
+  },
+  Asia/Yangon: {
+    Generic: میانمار ٹائم,
+    Standard: میانمار ٹائم,
+    Daylight: میانمار ٹائم
+  },
+  WET: {
+    Generic: مغربی یورپ کا وقت,
+    Standard: مغربی یورپ کا معیاری وقت,
+    Daylight: مغربی یورپ کا موسم گرما کا وقت
+  },
+  Atlantic/Faroe: {
+    Generic: مغربی یورپ کا وقت,
+    Standard: مغربی یورپ کا معیاری وقت,
+    Daylight: مغربی یورپ کا موسم گرما کا وقت
+  },
+  Australia/South: {
+    Generic: سنٹرل آسٹریلیا ٹائم,
+    Standard: آسٹریلین سنٹرل اسٹینڈرڈ ٹائم,
+    Daylight: آسٹریلین سنٹرل ڈے لائٹ ٹائم
+  },
+  Australia/Queensland: {
+    Generic: ایسٹرن آسٹریلیا ٹائم,
+    Standard: آسٹریلین ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: آسٹریلین ایسٹرن ڈے لائٹ ٹائم
+  },
+  Australia/Yancowinna: {
+    Generic: سنٹرل آسٹریلیا ٹائم,
+    Standard: آسٹریلین سنٹرل اسٹینڈرڈ ٹائم,
+    Daylight: آسٹریلین سنٹرل ڈے لائٹ ٹائم
+  },
+  Australia/North: {
+    Generic: سنٹرل آسٹریلیا ٹائم,
+    Standard: آسٹریلین سنٹرل اسٹینڈرڈ ٹائم,
+    Daylight: آسٹریلین سنٹرل ڈے لائٹ ٹائم
+  },
+  Australia/Tasmania: {
+    Generic: ایسٹرن آسٹریلیا ٹائم,
+    Standard: آسٹریلین ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: آسٹریلین ایسٹرن ڈے لائٹ ٹائم
+  },
+  Australia/LHI: {
+    Generic: لارڈ ہووے ٹائم,
+    Standard: لارڈ ہووے اسٹینڈرڈ ٹائم,
+    Daylight: لارڈ ہووے ڈے لائٹ ٹائم
+  },
+  Australia/Victoria: {
+    Generic: ایسٹرن آسٹریلیا ٹائم,
+    Standard: آسٹریلین ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: آسٹریلین ایسٹرن ڈے لائٹ ٹائم
+  },
+  Australia/West: {
+    Generic: ویسٹرن آسٹریلیا ٹائم,
+    Standard: آسٹریلیا ویسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: آسٹریلین ویسٹرن ڈے لائٹ ٹائم
+  },
+  Australia/ACT: {
+    Generic: ایسٹرن آسٹریلیا ٹائم,
+    Standard: آسٹریلین ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: آسٹریلین ایسٹرن ڈے لائٹ ٹائم
+  },
+  Australia/Canberra: {
+    Generic: ایسٹرن آسٹریلیا ٹائم,
+    Standard: آسٹریلین ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: آسٹریلین ایسٹرن ڈے لائٹ ٹائم
+  },
+  Australia/NSW: {
+    Generic: ایسٹرن آسٹریلیا ٹائم,
+    Standard: آسٹریلین ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: آسٹریلین ایسٹرن ڈے لائٹ ٹائم
+  },
+  HST: {
+    Generic: کوآرڈینیٹڈ یونیورسل ٹائم -10,
+    Standard: کوآرڈینیٹڈ یونیورسل ٹائم -10,
+    Daylight: کوآرڈینیٹڈ یونیورسل ٹائم -10
+  },
+  EST: {
+    Generic: کوآرڈینیٹڈ یونیورسل ٹائم -5,
+    Standard: کوآرڈینیٹڈ یونیورسل ٹائم -5,
+    Daylight: کوآرڈینیٹڈ یونیورسل ٹائم -5
+  },
+  MST: {
+    Generic: کوآرڈینیٹڈ یونیورسل ٹائم -7,
+    Standard: کوآرڈینیٹڈ یونیورسل ٹائم -7,
+    Daylight: کوآرڈینیٹڈ یونیورسل ٹائم -7
+  },
+  Etc/GMT+0: {
+    Generic: گرین وچ مین ٹائم,
+    Standard: گرین وچ مین ٹائم,
+    Daylight: گرین وچ مین ٹائم
+  },
+  Etc/GMT-0: {
+    Generic: گرین وچ مین ٹائم,
+    Standard: گرین وچ مین ٹائم,
+    Daylight: گرین وچ مین ٹائم
+  },
+  Etc/GMT0: {
+    Generic: گرین وچ مین ٹائم,
+    Standard: گرین وچ مین ٹائم,
+    Daylight: گرین وچ مین ٹائم
+  },
+  Etc/Greenwich: {
+    Generic: گرین وچ مین ٹائم,
+    Standard: گرین وچ مین ٹائم,
+    Daylight: گرین وچ مین ٹائم
+  },
+  GMT: {
+    Generic: گرین وچ مین ٹائم,
+    Standard: گرین وچ مین ٹائم,
+    Daylight: گرین وچ مین ٹائم
+  },
+  GMT+0: {
+    Generic: گرین وچ مین ٹائم,
+    Standard: گرین وچ مین ٹائم,
+    Daylight: گرین وچ مین ٹائم
+  },
+  GMT-0: {
+    Generic: گرین وچ مین ٹائم,
+    Standard: گرین وچ مین ٹائم,
+    Daylight: گرین وچ مین ٹائم
+  },
+  GMT0: {
+    Generic: گرین وچ مین ٹائم,
+    Standard: گرین وچ مین ٹائم,
+    Daylight: گرین وچ مین ٹائم
+  },
+  Greenwich: {
+    Generic: گرین وچ مین ٹائم,
+    Standard: گرین وچ مین ٹائم,
+    Daylight: گرین وچ مین ٹائم
+  },
+  Etc/UCT: {
+    Generic: کوآرڈینیٹڈ یونیورسل ٹائم,
+    Standard: کوآرڈینیٹڈ یونیورسل ٹائم,
+    Daylight: کوآرڈینیٹڈ یونیورسل ٹائم
+  },
+  Etc/Universal: {
+    Generic: کوآرڈینیٹڈ یونیورسل ٹائم,
+    Standard: کوآرڈینیٹڈ یونیورسل ٹائم,
+    Daylight: کوآرڈینیٹڈ یونیورسل ٹائم
+  },
+  Etc/Zulu: {
+    Generic: کوآرڈینیٹڈ یونیورسل ٹائم,
+    Standard: کوآرڈینیٹڈ یونیورسل ٹائم,
+    Daylight: کوآرڈینیٹڈ یونیورسل ٹائم
+  },
+  UCT: {
+    Generic: کوآرڈینیٹڈ یونیورسل ٹائم,
+    Standard: کوآرڈینیٹڈ یونیورسل ٹائم,
+    Daylight: کوآرڈینیٹڈ یونیورسل ٹائم
+  },
+  UTC: {
+    Generic: کوآرڈینیٹڈ یونیورسل ٹائم,
+    Standard: کوآرڈینیٹڈ یونیورسل ٹائم,
+    Daylight: کوآرڈینیٹڈ یونیورسل ٹائم
+  },
+  Universal: {
+    Generic: کوآرڈینیٹڈ یونیورسل ٹائم,
+    Standard: کوآرڈینیٹڈ یونیورسل ٹائم,
+    Daylight: کوآرڈینیٹڈ یونیورسل ٹائم
+  },
+  Zulu: {
+    Generic: کوآرڈینیٹڈ یونیورسل ٹائم,
+    Standard: کوآرڈینیٹڈ یونیورسل ٹائم,
+    Daylight: کوآرڈینیٹڈ یونیورسل ٹائم
+  },
+  Atlantic/Jan_Mayen: {
+    Generic: وسطی یورپ کا وقت,
+    Standard: وسطی یورپ کا معیاری وقت,
+    Daylight: وسطی یورپ کا موسم گرما کا وقت
+  },
+  MET: {
+    Generic: وسطی یورپ کا وقت,
+    Standard: وسطی یورپ کا معیاری وقت,
+    Daylight: وسطی یورپ کا موسم گرما کا وقت
+  },
+  EET: {
+    Generic: مشرقی یورپ کا وقت,
+    Standard: مشرقی یورپ کا معیاری وقت,
+    Daylight: مشرقی یورپ کا موسم گرما کا وقت
+  },
+  Europe/Tiraspol: {
+    Generic: مشرقی یورپ کا وقت,
+    Standard: مشرقی یورپ کا معیاری وقت,
+    Daylight: مشرقی یورپ کا موسم گرما کا وقت
+  },
+  Eire: {
+    Generic: آئرلینڈ وقت,
+    Standard: گرین وچ مین ٹائم,
+    Daylight: آئرش اسٹینڈرڈ ٹائم
+  },
+  Asia/Istanbul: {
+    Generic: ترکی وقت,
+    Standard: ترکی معیاری وقت,
+    Daylight: ترکی دن کا وقت
+  },
+  Turkey: {
+    Generic: ترکی وقت,
+    Standard: ترکی معیاری وقت,
+    Daylight: ترکی دن کا وقت
+  },
+  Europe/Kyiv: {
+    Generic: مشرقی یورپ کا وقت,
+    Standard: مشرقی یورپ کا معیاری وقت,
+    Daylight: مشرقی یورپ کا موسم گرما کا وقت
+  },
+  Portugal: {
+    Generic: مغربی یورپ کا وقت,
+    Standard: مغربی یورپ کا معیاری وقت,
+    Daylight: مغربی یورپ کا موسم گرما کا وقت
+  },
+  Europe/Belfast: {
+    Generic: سلطنت متحدہ وقت,
+    Standard: گرین وچ مین ٹائم,
+    Daylight: برٹش سمر ٹائم
+  },
+  GB: {
+    Generic: سلطنت متحدہ وقت,
+    Standard: گرین وچ مین ٹائم,
+    Daylight: برٹش سمر ٹائم
+  },
+  GB-Eire: {
+    Generic: سلطنت متحدہ وقت,
+    Standard: گرین وچ مین ٹائم,
+    Daylight: برٹش سمر ٹائم
+  },
+  W-SU: {
+    Generic: ماسکو وقت,
+    Standard: ماسکو معیاری وقت,
+    Daylight: ماسکو دن کا وقت
+  },
+  CET: {
+    Generic: وسطی یورپ کا وقت,
+    Standard: وسطی یورپ کا معیاری وقت,
+    Daylight: وسطی یورپ کا موسم گرما کا وقت
+  },
+  Poland: {
+    Generic: وسطی یورپ کا وقت,
+    Standard: وسطی یورپ کا معیاری وقت,
+    Daylight: وسطی یورپ کا موسم گرما کا وقت
+  },
+  Antarctica/South_Pole: {
+    Generic: نیوزی لینڈ ٹائم,
+    Standard: نیوزی لینڈ سٹینڈرڈ ٹائم,
+    Daylight: نیوزی لینڈ ڈے لائٹ ٹائم
+  },
+  NZ: {
+    Generic: نیوزی لینڈ ٹائم,
+    Standard: نیوزی لینڈ سٹینڈرڈ ٹائم,
+    Daylight: نیوزی لینڈ ڈے لائٹ ٹائم
+  },
+  NZ-CHAT: {
+    Generic: چیتھم ٹائم,
+    Standard: چیتھم اسٹینڈرڈ ٹائم,
+    Daylight: چیتھم ڈے لائٹ ٹائم
+  },
+  Chile/EasterIsland: {
+    Generic: ایسٹر آئلینڈ ٹائم,
+    Standard: ایسٹر آئلینڈ سٹینڈرڈ ٹائم,
+    Daylight: ایسٹر آئلینڈ سمر ٹائم
+  },
+  Pacific/Pohnpei: {
+    Generic: پوناپے ٹائم,
+    Standard: پوناپے ٹائم,
+    Daylight: پوناپے ٹائم
+  },
+  US/Hawaii: {
+    Generic: ہوائی الیوٹیئن ٹائم,
+    Standard: ہوائی الیوٹیئن اسٹینڈرڈ ٹائم,
+    Daylight: ہوائی الیوٹیئن ڈے لائٹ ٹائم
+  },
+  Pacific/Kanton: {
+    Generic: فینکس آئلینڈز ٹائم,
+    Standard: فینکس آئلینڈز ٹائم,
+    Daylight: فینکس آئلینڈز ٹائم
+  },
+  Kwajalein: {
+    Generic: مارشل آئلینڈز ٹائم,
+    Standard: مارشل آئلینڈز ٹائم,
+    Daylight: مارشل آئلینڈز ٹائم
+  },
+  Pacific/Samoa: {
+    Generic: ساموآ ٹائم,
+    Standard: ساموآ سٹینڈرڈ ٹائم,
+    Daylight: ساموآ ڈے لائٹ ٹائم
+  },
+  US/Samoa: {
+    Generic: ساموآ ٹائم,
+    Standard: ساموآ سٹینڈرڈ ٹائم,
+    Daylight: ساموآ ڈے لائٹ ٹائم
+  },
+  Pacific/Chuuk: {
+    Generic: چوک ٹائم,
+    Standard: چوک ٹائم,
+    Daylight: چوک ٹائم
+  },
+  Pacific/Yap: {
+    Generic: چوک ٹائم,
+    Standard: چوک ٹائم,
+    Daylight: چوک ٹائم
+  },
+  America/Fort_Wayne: {
+    Generic: ایسٹرن ٹائم,
+    Standard: ایسٹرن اسٹینڈرڈ ٹائم,
+    Daylight: ایسٹرن ڈے لائٹ ٹائم
+  },
+  Antarctica/Troll: {
+    Generic: گرین وچ مین ٹائم,
+    Standard: گرین وچ مین ٹائم,
+    Daylight: گرین وچ مین ٹائم
   }
-]
+}

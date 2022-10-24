@@ -1,4762 +1,2977 @@
-﻿[
-  {
-    Key: Africa/Abidjan,
-    Value: {
-      Generic: Greenwich-tyd,
-      Standard: Greenwich-tyd,
-      Daylight: Greenwich-tyd
-    }
-  },
-  {
-    Key: Africa/Accra,
-    Value: {
-      Generic: Greenwich-tyd,
-      Standard: Greenwich-tyd,
-      Daylight: Greenwich-tyd
-    }
-  },
-  {
-    Key: Africa/Addis_Ababa,
-    Value: {
-      Generic: Oos-Afrika-tyd,
-      Standard: Oos-Afrika-tyd,
-      Daylight: Oos-Afrika-tyd
-    }
-  },
-  {
-    Key: Africa/Algiers,
-    Value: {
-      Generic: Sentraal-Europese tyd,
-      Standard: Sentraal-Europese standaardtyd,
-      Daylight: Sentraal-Europese somertyd
-    }
-  },
-  {
-    Key: Africa/Asmara,
-    Value: {
-      Generic: Oos-Afrika-tyd,
-      Standard: Oos-Afrika-tyd,
-      Daylight: Oos-Afrika-tyd
-    }
-  },
-  {
-    Key: Africa/Asmera,
-    Value: {
-      Generic: Oos-Afrika-tyd,
-      Standard: Oos-Afrika-tyd,
-      Daylight: Oos-Afrika-tyd
-    }
-  },
-  {
-    Key: Africa/Bamako,
-    Value: {
-      Generic: Greenwich-tyd,
-      Standard: Greenwich-tyd,
-      Daylight: Greenwich-tyd
-    }
-  },
-  {
-    Key: Africa/Bangui,
-    Value: {
-      Generic: Wes-Afrika-tyd,
-      Standard: Wes-Afrika-standaardtyd,
-      Daylight: Wes-Afrika-somertyd
-    }
-  },
-  {
-    Key: Africa/Banjul,
-    Value: {
-      Generic: Greenwich-tyd,
-      Standard: Greenwich-tyd,
-      Daylight: Greenwich-tyd
-    }
-  },
-  {
-    Key: Africa/Bissau,
-    Value: {
-      Generic: Greenwich-tyd,
-      Standard: Greenwich-tyd,
-      Daylight: Greenwich-tyd
-    }
-  },
-  {
-    Key: Africa/Blantyre,
-    Value: {
-      Generic: Sentraal-Afrika-tyd,
-      Standard: Sentraal-Afrika-tyd,
-      Daylight: Sentraal-Afrika-tyd
-    }
-  },
-  {
-    Key: Africa/Brazzaville,
-    Value: {
-      Generic: Wes-Afrika-tyd,
-      Standard: Wes-Afrika-standaardtyd,
-      Daylight: Wes-Afrika-somertyd
-    }
-  },
-  {
-    Key: Africa/Bujumbura,
-    Value: {
-      Generic: Sentraal-Afrika-tyd,
-      Standard: Sentraal-Afrika-tyd,
-      Daylight: Sentraal-Afrika-tyd
-    }
-  },
-  {
-    Key: Africa/Cairo,
-    Value: {
-      Generic: Oos-Europese tyd,
-      Standard: Oos-Europese standaardtyd,
-      Daylight: Oos-Europese somertyd
-    }
-  },
-  {
-    Key: Africa/Casablanca,
-    Value: {
-      Generic: Wes-Europese tyd,
-      Standard: Wes-Europese standaardtyd,
-      Daylight: Wes-Europese somertyd
-    }
-  },
-  {
-    Key: Africa/Ceuta,
-    Value: {
-      Generic: Sentraal-Europese tyd,
-      Standard: Sentraal-Europese standaardtyd,
-      Daylight: Sentraal-Europese somertyd
-    }
-  },
-  {
-    Key: Africa/Conakry,
-    Value: {
-      Generic: Greenwich-tyd,
-      Standard: Greenwich-tyd,
-      Daylight: Greenwich-tyd
-    }
-  },
-  {
-    Key: Africa/Dakar,
-    Value: {
-      Generic: Greenwich-tyd,
-      Standard: Greenwich-tyd,
-      Daylight: Greenwich-tyd
-    }
-  },
-  {
-    Key: Africa/Dar_es_Salaam,
-    Value: {
-      Generic: Oos-Afrika-tyd,
-      Standard: Oos-Afrika-tyd,
-      Daylight: Oos-Afrika-tyd
-    }
-  },
-  {
-    Key: Africa/Djibouti,
-    Value: {
-      Generic: Oos-Afrika-tyd,
-      Standard: Oos-Afrika-tyd,
-      Daylight: Oos-Afrika-tyd
-    }
-  },
-  {
-    Key: Africa/Douala,
-    Value: {
-      Generic: Wes-Afrika-tyd,
-      Standard: Wes-Afrika-standaardtyd,
-      Daylight: Wes-Afrika-somertyd
-    }
-  },
-  {
-    Key: Africa/El_Aaiun,
-    Value: {
-      Generic: Wes-Europese tyd,
-      Standard: Wes-Europese standaardtyd,
-      Daylight: Wes-Europese somertyd
-    }
-  },
-  {
-    Key: Africa/Freetown,
-    Value: {
-      Generic: Greenwich-tyd,
-      Standard: Greenwich-tyd,
-      Daylight: Greenwich-tyd
-    }
-  },
-  {
-    Key: Africa/Gaborone,
-    Value: {
-      Generic: Sentraal-Afrika-tyd,
-      Standard: Sentraal-Afrika-tyd,
-      Daylight: Sentraal-Afrika-tyd
-    }
-  },
-  {
-    Key: Africa/Harare,
-    Value: {
-      Generic: Sentraal-Afrika-tyd,
-      Standard: Sentraal-Afrika-tyd,
-      Daylight: Sentraal-Afrika-tyd
-    }
-  },
-  {
-    Key: Africa/Johannesburg,
-    Value: {
-      Generic: Suid-Afrika-standaardtyd,
-      Standard: Suid-Afrika-standaardtyd,
-      Daylight: Suid-Afrika-standaardtyd
-    }
-  },
-  {
-    Key: Africa/Juba,
-    Value: {
-      Generic: Sentraal-Afrika-tyd,
-      Standard: Sentraal-Afrika-tyd,
-      Daylight: Sentraal-Afrika-tyd
-    }
-  },
-  {
-    Key: Africa/Kampala,
-    Value: {
-      Generic: Oos-Afrika-tyd,
-      Standard: Oos-Afrika-tyd,
-      Daylight: Oos-Afrika-tyd
-    }
-  },
-  {
-    Key: Africa/Khartoum,
-    Value: {
-      Generic: Sentraal-Afrika-tyd,
-      Standard: Sentraal-Afrika-tyd,
-      Daylight: Sentraal-Afrika-tyd
-    }
-  },
-  {
-    Key: Africa/Kigali,
-    Value: {
-      Generic: Sentraal-Afrika-tyd,
-      Standard: Sentraal-Afrika-tyd,
-      Daylight: Sentraal-Afrika-tyd
-    }
-  },
-  {
-    Key: Africa/Kinshasa,
-    Value: {
-      Generic: Wes-Afrika-tyd,
-      Standard: Wes-Afrika-standaardtyd,
-      Daylight: Wes-Afrika-somertyd
-    }
-  },
-  {
-    Key: Africa/Lagos,
-    Value: {
-      Generic: Wes-Afrika-tyd,
-      Standard: Wes-Afrika-standaardtyd,
-      Daylight: Wes-Afrika-somertyd
-    }
-  },
-  {
-    Key: Africa/Libreville,
-    Value: {
-      Generic: Wes-Afrika-tyd,
-      Standard: Wes-Afrika-standaardtyd,
-      Daylight: Wes-Afrika-somertyd
-    }
-  },
-  {
-    Key: Africa/Lome,
-    Value: {
-      Generic: Greenwich-tyd,
-      Standard: Greenwich-tyd,
-      Daylight: Greenwich-tyd
-    }
-  },
-  {
-    Key: Africa/Luanda,
-    Value: {
-      Generic: Wes-Afrika-tyd,
-      Standard: Wes-Afrika-standaardtyd,
-      Daylight: Wes-Afrika-somertyd
-    }
-  },
-  {
-    Key: Africa/Lubumbashi,
-    Value: {
-      Generic: Sentraal-Afrika-tyd,
-      Standard: Sentraal-Afrika-tyd,
-      Daylight: Sentraal-Afrika-tyd
-    }
-  },
-  {
-    Key: Africa/Lusaka,
-    Value: {
-      Generic: Sentraal-Afrika-tyd,
-      Standard: Sentraal-Afrika-tyd,
-      Daylight: Sentraal-Afrika-tyd
-    }
-  },
-  {
-    Key: Africa/Malabo,
-    Value: {
-      Generic: Wes-Afrika-tyd,
-      Standard: Wes-Afrika-standaardtyd,
-      Daylight: Wes-Afrika-somertyd
-    }
-  },
-  {
-    Key: Africa/Maputo,
-    Value: {
-      Generic: Sentraal-Afrika-tyd,
-      Standard: Sentraal-Afrika-tyd,
-      Daylight: Sentraal-Afrika-tyd
-    }
-  },
-  {
-    Key: Africa/Maseru,
-    Value: {
-      Generic: Suid-Afrika-standaardtyd,
-      Standard: Suid-Afrika-standaardtyd,
-      Daylight: Suid-Afrika-standaardtyd
-    }
-  },
-  {
-    Key: Africa/Mbabane,
-    Value: {
-      Generic: Suid-Afrika-standaardtyd,
-      Standard: Suid-Afrika-standaardtyd,
-      Daylight: Suid-Afrika-standaardtyd
-    }
-  },
-  {
-    Key: Africa/Mogadishu,
-    Value: {
-      Generic: Oos-Afrika-tyd,
-      Standard: Oos-Afrika-tyd,
-      Daylight: Oos-Afrika-tyd
-    }
-  },
-  {
-    Key: Africa/Monrovia,
-    Value: {
-      Generic: Greenwich-tyd,
-      Standard: Greenwich-tyd,
-      Daylight: Greenwich-tyd
-    }
-  },
-  {
-    Key: Africa/Nairobi,
-    Value: {
-      Generic: Oos-Afrika-tyd,
-      Standard: Oos-Afrika-tyd,
-      Daylight: Oos-Afrika-tyd
-    }
-  },
-  {
-    Key: Africa/Ndjamena,
-    Value: {
-      Generic: Wes-Afrika-tyd,
-      Standard: Wes-Afrika-standaardtyd,
-      Daylight: Wes-Afrika-somertyd
-    }
-  },
-  {
-    Key: Africa/Niamey,
-    Value: {
-      Generic: Wes-Afrika-tyd,
-      Standard: Wes-Afrika-standaardtyd,
-      Daylight: Wes-Afrika-somertyd
-    }
-  },
-  {
-    Key: Africa/Nouakchott,
-    Value: {
-      Generic: Greenwich-tyd,
-      Standard: Greenwich-tyd,
-      Daylight: Greenwich-tyd
-    }
-  },
-  {
-    Key: Africa/Ouagadougou,
-    Value: {
-      Generic: Greenwich-tyd,
-      Standard: Greenwich-tyd,
-      Daylight: Greenwich-tyd
-    }
-  },
-  {
-    Key: Africa/Porto-Novo,
-    Value: {
-      Generic: Wes-Afrika-tyd,
-      Standard: Wes-Afrika-standaardtyd,
-      Daylight: Wes-Afrika-somertyd
-    }
-  },
-  {
-    Key: Africa/Sao_Tome,
-    Value: {
-      Generic: Greenwich-tyd,
-      Standard: Greenwich-tyd,
-      Daylight: Greenwich-tyd
-    }
-  },
-  {
-    Key: Africa/Timbuktu,
-    Value: {
-      Generic: Greenwich-tyd,
-      Standard: Greenwich-tyd,
-      Daylight: Greenwich-tyd
-    }
-  },
-  {
-    Key: Africa/Tripoli,
-    Value: {
-      Generic: Oos-Europese tyd,
-      Standard: Oos-Europese standaardtyd,
-      Daylight: Oos-Europese somertyd
-    }
-  },
-  {
-    Key: Africa/Tunis,
-    Value: {
-      Generic: Sentraal-Europese tyd,
-      Standard: Sentraal-Europese standaardtyd,
-      Daylight: Sentraal-Europese somertyd
-    }
-  },
-  {
-    Key: Africa/Windhoek,
-    Value: {
-      Generic: Sentraal-Afrika-tyd,
-      Standard: Sentraal-Afrika-tyd,
-      Daylight: Sentraal-Afrika-tyd
-    }
-  },
-  {
-    Key: America/Adak,
-    Value: {
-      Generic: Hawaii-Aleoete-tyd,
-      Standard: Hawaii-Aleoete-standaardtyd,
-      Daylight: Hawaii-Aleoete-dagligtyd
-    }
-  },
-  {
-    Key: America/Anchorage,
-    Value: {
-      Generic: Alaska-tyd,
-      Standard: Alaska-standaardtyd,
-      Daylight: Alaska-dagligtyd
-    }
-  },
-  {
-    Key: America/Anguilla,
-    Value: {
-      Generic: Atlantiese tyd,
-      Standard: Atlantiese standaardtyd,
-      Daylight: Atlantiese dagligtyd
-    }
-  },
-  {
-    Key: America/Antigua,
-    Value: {
-      Generic: Atlantiese tyd,
-      Standard: Atlantiese standaardtyd,
-      Daylight: Atlantiese dagligtyd
-    }
-  },
-  {
-    Key: America/Araguaina,
-    Value: {
-      Generic: Brasilia-tyd,
-      Standard: Brasilia-standaardtyd,
-      Daylight: Brasilia-somertyd
-    }
-  },
-  {
-    Key: America/Argentina/Buenos_Aires,
-    Value: {
-      Generic: Argentinië-tyd,
-      Standard: Argentinië-standaardtyd,
-      Daylight: Argentinië-somertyd
-    }
-  },
-  {
-    Key: America/Argentina/Catamarca,
-    Value: {
-      Generic: Argentinië-tyd,
-      Standard: Argentinië-standaardtyd,
-      Daylight: Argentinië-somertyd
-    }
-  },
-  {
-    Key: America/Argentina/ComodRivadavia,
-    Value: {
-      Generic: Argentinië-tyd,
-      Standard: Argentinië-standaardtyd,
-      Daylight: Argentinië-somertyd
-    }
-  },
-  {
-    Key: America/Argentina/Cordoba,
-    Value: {
-      Generic: Argentinië-tyd,
-      Standard: Argentinië-standaardtyd,
-      Daylight: Argentinië-somertyd
-    }
-  },
-  {
-    Key: America/Argentina/Jujuy,
-    Value: {
-      Generic: Argentinië-tyd,
-      Standard: Argentinië-standaardtyd,
-      Daylight: Argentinië-somertyd
-    }
-  },
-  {
-    Key: America/Argentina/La_Rioja,
-    Value: {
-      Generic: Argentinië-tyd,
-      Standard: Argentinië-standaardtyd,
-      Daylight: Argentinië-somertyd
-    }
-  },
-  {
-    Key: America/Argentina/Mendoza,
-    Value: {
-      Generic: Argentinië-tyd,
-      Standard: Argentinië-standaardtyd,
-      Daylight: Argentinië-somertyd
-    }
-  },
-  {
-    Key: America/Argentina/Rio_Gallegos,
-    Value: {
-      Generic: Argentinië-tyd,
-      Standard: Argentinië-standaardtyd,
-      Daylight: Argentinië-somertyd
-    }
-  },
-  {
-    Key: America/Argentina/Salta,
-    Value: {
-      Generic: Argentinië-tyd,
-      Standard: Argentinië-standaardtyd,
-      Daylight: Argentinië-somertyd
-    }
-  },
-  {
-    Key: America/Argentina/San_Juan,
-    Value: {
-      Generic: Argentinië-tyd,
-      Standard: Argentinië-standaardtyd,
-      Daylight: Argentinië-somertyd
-    }
-  },
-  {
-    Key: America/Argentina/San_Luis,
-    Value: {
-      Generic: Argentinië-tyd,
-      Standard: Argentinië-standaardtyd,
-      Daylight: Argentinië-somertyd
-    }
-  },
-  {
-    Key: America/Argentina/Tucuman,
-    Value: {
-      Generic: Argentinië-tyd,
-      Standard: Argentinië-standaardtyd,
-      Daylight: Argentinië-somertyd
-    }
-  },
-  {
-    Key: America/Argentina/Ushuaia,
-    Value: {
-      Generic: Argentinië-tyd,
-      Standard: Argentinië-standaardtyd,
-      Daylight: Argentinië-somertyd
-    }
-  },
-  {
-    Key: America/Aruba,
-    Value: {
-      Generic: Atlantiese tyd,
-      Standard: Atlantiese standaardtyd,
-      Daylight: Atlantiese dagligtyd
-    }
-  },
-  {
-    Key: America/Asuncion,
-    Value: {
-      Generic: Paraguay-tyd,
-      Standard: Paraguay-standaardtyd,
-      Daylight: Paraguay-somertyd
-    }
-  },
-  {
-    Key: America/Atikokan,
-    Value: {
-      Generic: Noord-Amerikaanse oostelike tyd,
-      Standard: Noord-Amerikaanse oostelike standaardtyd,
-      Daylight: Noord-Amerikaanse oostelike dagligtyd
-    }
-  },
-  {
-    Key: America/Atka,
-    Value: {
-      Generic: Hawaii-Aleoete-tyd,
-      Standard: Hawaii-Aleoete-standaardtyd,
-      Daylight: Hawaii-Aleoete-dagligtyd
-    }
-  },
-  {
-    Key: America/Bahia,
-    Value: {
-      Generic: Brasilia-tyd,
-      Standard: Brasilia-standaardtyd,
-      Daylight: Brasilia-somertyd
-    }
-  },
-  {
-    Key: America/Bahia_Banderas,
-    Value: {
-      Generic: Noord-Amerikaanse sentrale tyd,
-      Standard: Noord-Amerikaanse sentrale standaardtyd,
-      Daylight: Noord-Amerikaanse sentrale dagligtyd
-    }
-  },
-  {
-    Key: America/Barbados,
-    Value: {
-      Generic: Atlantiese tyd,
-      Standard: Atlantiese standaardtyd,
-      Daylight: Atlantiese dagligtyd
-    }
-  },
-  {
-    Key: America/Belem,
-    Value: {
-      Generic: Brasilia-tyd,
-      Standard: Brasilia-standaardtyd,
-      Daylight: Brasilia-somertyd
-    }
-  },
-  {
-    Key: America/Belize,
-    Value: {
-      Generic: Noord-Amerikaanse sentrale tyd,
-      Standard: Noord-Amerikaanse sentrale standaardtyd,
-      Daylight: Noord-Amerikaanse sentrale dagligtyd
-    }
-  },
-  {
-    Key: America/Blanc-Sablon,
-    Value: {
-      Generic: Atlantiese tyd,
-      Standard: Atlantiese standaardtyd,
-      Daylight: Atlantiese dagligtyd
-    }
-  },
-  {
-    Key: America/Boa_Vista,
-    Value: {
-      Generic: Amasone-tyd,
-      Standard: Amasone-standaardtyd,
-      Daylight: Amasone-somertyd
-    }
-  },
-  {
-    Key: America/Bogota,
-    Value: {
-      Generic: Colombië-tyd,
-      Standard: Colombië-standaardtyd,
-      Daylight: Colombia-somertyd
-    }
-  },
-  {
-    Key: America/Boise,
-    Value: {
-      Generic: Noord-Amerikaanse bergtyd,
-      Standard: Noord-Amerikaanse berg-standaardtyd,
-      Daylight: Noord-Amerikaanse berg-dagligtyd
-    }
-  },
-  {
-    Key: America/Buenos_Aires,
-    Value: {
-      Generic: Argentinië-tyd,
-      Standard: Argentinië-standaardtyd,
-      Daylight: Argentinië-somertyd
-    }
-  },
-  {
-    Key: America/Cambridge_Bay,
-    Value: {
-      Generic: Noord-Amerikaanse bergtyd,
-      Standard: Noord-Amerikaanse berg-standaardtyd,
-      Daylight: Noord-Amerikaanse berg-dagligtyd
-    }
-  },
-  {
-    Key: America/Campo_Grande,
-    Value: {
-      Generic: Amasone-tyd,
-      Standard: Amasone-standaardtyd,
-      Daylight: Amasone-somertyd
-    }
-  },
-  {
-    Key: America/Cancun,
-    Value: {
-      Generic: Noord-Amerikaanse oostelike tyd,
-      Standard: Noord-Amerikaanse oostelike standaardtyd,
-      Daylight: Noord-Amerikaanse oostelike dagligtyd
-    }
-  },
-  {
-    Key: America/Caracas,
-    Value: {
-      Generic: Venezuela-tyd,
-      Standard: Venezuela-tyd,
-      Daylight: Venezuela-tyd
-    }
-  },
-  {
-    Key: America/Catamarca,
-    Value: {
-      Generic: Argentinië-tyd,
-      Standard: Argentinië-standaardtyd,
-      Daylight: Argentinië-somertyd
-    }
-  },
-  {
-    Key: America/Cayenne,
-    Value: {
-      Generic: Frans-Guiana-tyd,
-      Standard: Frans-Guiana-tyd,
-      Daylight: Frans-Guiana-tyd
-    }
-  },
-  {
-    Key: America/Cayman,
-    Value: {
-      Generic: Noord-Amerikaanse oostelike tyd,
-      Standard: Noord-Amerikaanse oostelike standaardtyd,
-      Daylight: Noord-Amerikaanse oostelike dagligtyd
-    }
-  },
-  {
-    Key: America/Chicago,
-    Value: {
-      Generic: Noord-Amerikaanse sentrale tyd,
-      Standard: Noord-Amerikaanse sentrale standaardtyd,
-      Daylight: Noord-Amerikaanse sentrale dagligtyd
-    }
-  },
-  {
-    Key: America/Chihuahua,
-    Value: {
-      Generic: Meksikaanse Pasifiese tyd,
-      Standard: Meksikaanse Pasifiese standaardtyd,
-      Daylight: Meksikaanse Pasifiese dagligtyd
-    }
-  },
-  {
-    Key: America/Coral_Harbour,
-    Value: {
-      Generic: Noord-Amerikaanse oostelike tyd,
-      Standard: Noord-Amerikaanse oostelike standaardtyd,
-      Daylight: Noord-Amerikaanse oostelike dagligtyd
-    }
-  },
-  {
-    Key: America/Cordoba,
-    Value: {
-      Generic: Argentinië-tyd,
-      Standard: Argentinië-standaardtyd,
-      Daylight: Argentinië-somertyd
-    }
-  },
-  {
-    Key: America/Costa_Rica,
-    Value: {
-      Generic: Noord-Amerikaanse sentrale tyd,
-      Standard: Noord-Amerikaanse sentrale standaardtyd,
-      Daylight: Noord-Amerikaanse sentrale dagligtyd
-    }
-  },
-  {
-    Key: America/Creston,
-    Value: {
-      Generic: Noord-Amerikaanse bergtyd,
-      Standard: Noord-Amerikaanse berg-standaardtyd,
-      Daylight: Noord-Amerikaanse berg-dagligtyd
-    }
-  },
-  {
-    Key: America/Cuiaba,
-    Value: {
-      Generic: Amasone-tyd,
-      Standard: Amasone-standaardtyd,
-      Daylight: Amasone-somertyd
-    }
-  },
-  {
-    Key: America/Curacao,
-    Value: {
-      Generic: Atlantiese tyd,
-      Standard: Atlantiese standaardtyd,
-      Daylight: Atlantiese dagligtyd
-    }
-  },
-  {
-    Key: America/Danmarkshavn,
-    Value: {
-      Generic: Greenwich-tyd,
-      Standard: Greenwich-tyd,
-      Daylight: Greenwich-tyd
-    }
-  },
-  {
-    Key: America/Dawson,
-    Value: {
-      Generic: Yukontyd,
-      Standard: Yukontyd,
-      Daylight: Yukontyd
-    }
-  },
-  {
-    Key: America/Dawson_Creek,
-    Value: {
-      Generic: Noord-Amerikaanse bergtyd,
-      Standard: Noord-Amerikaanse berg-standaardtyd,
-      Daylight: Noord-Amerikaanse berg-dagligtyd
-    }
-  },
-  {
-    Key: America/Denver,
-    Value: {
-      Generic: Noord-Amerikaanse bergtyd,
-      Standard: Noord-Amerikaanse berg-standaardtyd,
-      Daylight: Noord-Amerikaanse berg-dagligtyd
-    }
-  },
-  {
-    Key: America/Detroit,
-    Value: {
-      Generic: Noord-Amerikaanse oostelike tyd,
-      Standard: Noord-Amerikaanse oostelike standaardtyd,
-      Daylight: Noord-Amerikaanse oostelike dagligtyd
-    }
-  },
-  {
-    Key: America/Dominica,
-    Value: {
-      Generic: Atlantiese tyd,
-      Standard: Atlantiese standaardtyd,
-      Daylight: Atlantiese dagligtyd
-    }
-  },
-  {
-    Key: America/Edmonton,
-    Value: {
-      Generic: Noord-Amerikaanse bergtyd,
-      Standard: Noord-Amerikaanse berg-standaardtyd,
-      Daylight: Noord-Amerikaanse berg-dagligtyd
-    }
-  },
-  {
-    Key: America/Eirunepe,
-    Value: {
-      Generic: Brasilië-tyd,
-      Standard: Brasilië-standaardtyd,
-      Daylight: Brasilië-dagligtyd
-    }
-  },
-  {
-    Key: America/El_Salvador,
-    Value: {
-      Generic: Noord-Amerikaanse sentrale tyd,
-      Standard: Noord-Amerikaanse sentrale standaardtyd,
-      Daylight: Noord-Amerikaanse sentrale dagligtyd
-    }
-  },
-  {
-    Key: America/Ensenada,
-    Value: {
-      Generic: Pasifiese tyd,
-      Standard: Pasifiese standaardtyd,
-      Daylight: Pasifiese dagligtyd
-    }
-  },
-  {
-    Key: America/Fort_Nelson,
-    Value: {
-      Generic: Noord-Amerikaanse bergtyd,
-      Standard: Noord-Amerikaanse berg-standaardtyd,
-      Daylight: Noord-Amerikaanse berg-dagligtyd
-    }
-  },
-  {
-    Key: America/Fort_Wayne,
-    Value: {
-      Generic: Noord-Amerikaanse oostelike tyd,
-      Standard: Noord-Amerikaanse oostelike standaardtyd,
-      Daylight: Noord-Amerikaanse oostelike dagligtyd
-    }
-  },
-  {
-    Key: America/Fortaleza,
-    Value: {
-      Generic: Brasilia-tyd,
-      Standard: Brasilia-standaardtyd,
-      Daylight: Brasilia-somertyd
-    }
-  },
-  {
-    Key: America/Glace_Bay,
-    Value: {
-      Generic: Atlantiese tyd,
-      Standard: Atlantiese standaardtyd,
-      Daylight: Atlantiese dagligtyd
-    }
-  },
-  {
-    Key: America/Godthab,
-    Value: {
-      Generic: Wes-Groenland-tyd,
-      Standard: Wes-Groenland-standaardtyd,
-      Daylight: Wes-Groenland-somertyd
-    }
-  },
-  {
-    Key: America/Goose_Bay,
-    Value: {
-      Generic: Atlantiese tyd,
-      Standard: Atlantiese standaardtyd,
-      Daylight: Atlantiese dagligtyd
-    }
-  },
-  {
-    Key: America/Grand_Turk,
-    Value: {
-      Generic: Noord-Amerikaanse oostelike tyd,
-      Standard: Noord-Amerikaanse oostelike standaardtyd,
-      Daylight: Noord-Amerikaanse oostelike dagligtyd
-    }
-  },
-  {
-    Key: America/Grenada,
-    Value: {
-      Generic: Atlantiese tyd,
-      Standard: Atlantiese standaardtyd,
-      Daylight: Atlantiese dagligtyd
-    }
-  },
-  {
-    Key: America/Guadeloupe,
-    Value: {
-      Generic: Atlantiese tyd,
-      Standard: Atlantiese standaardtyd,
-      Daylight: Atlantiese dagligtyd
-    }
-  },
-  {
-    Key: America/Guatemala,
-    Value: {
-      Generic: Noord-Amerikaanse sentrale tyd,
-      Standard: Noord-Amerikaanse sentrale standaardtyd,
-      Daylight: Noord-Amerikaanse sentrale dagligtyd
-    }
-  },
-  {
-    Key: America/Guayaquil,
-    Value: {
-      Generic: Ecuador-tyd,
-      Standard: Ecuador-tyd,
-      Daylight: Ecuador-tyd
-    }
-  },
-  {
-    Key: America/Guyana,
-    Value: {
-      Generic: Guiana-tyd,
-      Standard: Guiana-tyd,
-      Daylight: Guiana-tyd
-    }
-  },
-  {
-    Key: America/Halifax,
-    Value: {
-      Generic: Atlantiese tyd,
-      Standard: Atlantiese standaardtyd,
-      Daylight: Atlantiese dagligtyd
-    }
-  },
-  {
-    Key: America/Havana,
-    Value: {
-      Generic: Kuba-tyd,
-      Standard: Kuba-standaardtyd,
-      Daylight: Kuba-dagligtyd
-    }
-  },
-  {
-    Key: America/Hermosillo,
-    Value: {
-      Generic: Meksikaanse Pasifiese tyd,
-      Standard: Meksikaanse Pasifiese standaardtyd,
-      Daylight: Meksikaanse Pasifiese dagligtyd
-    }
-  },
-  {
-    Key: America/Indiana/Indianapolis,
-    Value: {
-      Generic: Noord-Amerikaanse oostelike tyd,
-      Standard: Noord-Amerikaanse oostelike standaardtyd,
-      Daylight: Noord-Amerikaanse oostelike dagligtyd
-    }
-  },
-  {
-    Key: America/Indiana/Knox,
-    Value: {
-      Generic: Noord-Amerikaanse sentrale tyd,
-      Standard: Noord-Amerikaanse sentrale standaardtyd,
-      Daylight: Noord-Amerikaanse sentrale dagligtyd
-    }
-  },
-  {
-    Key: America/Indiana/Marengo,
-    Value: {
-      Generic: Noord-Amerikaanse oostelike tyd,
-      Standard: Noord-Amerikaanse oostelike standaardtyd,
-      Daylight: Noord-Amerikaanse oostelike dagligtyd
-    }
-  },
-  {
-    Key: America/Indiana/Petersburg,
-    Value: {
-      Generic: Noord-Amerikaanse oostelike tyd,
-      Standard: Noord-Amerikaanse oostelike standaardtyd,
-      Daylight: Noord-Amerikaanse oostelike dagligtyd
-    }
-  },
-  {
-    Key: America/Indiana/Tell_City,
-    Value: {
-      Generic: Noord-Amerikaanse sentrale tyd,
-      Standard: Noord-Amerikaanse sentrale standaardtyd,
-      Daylight: Noord-Amerikaanse sentrale dagligtyd
-    }
-  },
-  {
-    Key: America/Indiana/Vevay,
-    Value: {
-      Generic: Noord-Amerikaanse oostelike tyd,
-      Standard: Noord-Amerikaanse oostelike standaardtyd,
-      Daylight: Noord-Amerikaanse oostelike dagligtyd
-    }
-  },
-  {
-    Key: America/Indiana/Vincennes,
-    Value: {
-      Generic: Noord-Amerikaanse oostelike tyd,
-      Standard: Noord-Amerikaanse oostelike standaardtyd,
-      Daylight: Noord-Amerikaanse oostelike dagligtyd
-    }
-  },
-  {
-    Key: America/Indiana/Winamac,
-    Value: {
-      Generic: Noord-Amerikaanse oostelike tyd,
-      Standard: Noord-Amerikaanse oostelike standaardtyd,
-      Daylight: Noord-Amerikaanse oostelike dagligtyd
-    }
-  },
-  {
-    Key: America/Indianapolis,
-    Value: {
-      Generic: Noord-Amerikaanse oostelike tyd,
-      Standard: Noord-Amerikaanse oostelike standaardtyd,
-      Daylight: Noord-Amerikaanse oostelike dagligtyd
-    }
-  },
-  {
-    Key: America/Inuvik,
-    Value: {
-      Generic: Noord-Amerikaanse bergtyd,
-      Standard: Noord-Amerikaanse berg-standaardtyd,
-      Daylight: Noord-Amerikaanse berg-dagligtyd
-    }
-  },
-  {
-    Key: America/Iqaluit,
-    Value: {
-      Generic: Noord-Amerikaanse oostelike tyd,
-      Standard: Noord-Amerikaanse oostelike standaardtyd,
-      Daylight: Noord-Amerikaanse oostelike dagligtyd
-    }
-  },
-  {
-    Key: America/Jamaica,
-    Value: {
-      Generic: Noord-Amerikaanse oostelike tyd,
-      Standard: Noord-Amerikaanse oostelike standaardtyd,
-      Daylight: Noord-Amerikaanse oostelike dagligtyd
-    }
-  },
-  {
-    Key: America/Jujuy,
-    Value: {
-      Generic: Argentinië-tyd,
-      Standard: Argentinië-standaardtyd,
-      Daylight: Argentinië-somertyd
-    }
-  },
-  {
-    Key: America/Juneau,
-    Value: {
-      Generic: Alaska-tyd,
-      Standard: Alaska-standaardtyd,
-      Daylight: Alaska-dagligtyd
-    }
-  },
-  {
-    Key: America/Kentucky/Louisville,
-    Value: {
-      Generic: Noord-Amerikaanse oostelike tyd,
-      Standard: Noord-Amerikaanse oostelike standaardtyd,
-      Daylight: Noord-Amerikaanse oostelike dagligtyd
-    }
-  },
-  {
-    Key: America/Kentucky/Monticello,
-    Value: {
-      Generic: Noord-Amerikaanse oostelike tyd,
-      Standard: Noord-Amerikaanse oostelike standaardtyd,
-      Daylight: Noord-Amerikaanse oostelike dagligtyd
-    }
-  },
-  {
-    Key: America/Knox_IN,
-    Value: {
-      Generic: Noord-Amerikaanse sentrale tyd,
-      Standard: Noord-Amerikaanse sentrale standaardtyd,
-      Daylight: Noord-Amerikaanse sentrale dagligtyd
-    }
-  },
-  {
-    Key: America/Kralendijk,
-    Value: {
-      Generic: Atlantiese tyd,
-      Standard: Atlantiese standaardtyd,
-      Daylight: Atlantiese dagligtyd
-    }
-  },
-  {
-    Key: America/La_Paz,
-    Value: {
-      Generic: Bolivië-tyd,
-      Standard: Bolivië-tyd,
-      Daylight: Bolivië-tyd
-    }
-  },
-  {
-    Key: America/Lima,
-    Value: {
-      Generic: Peru-tyd,
-      Standard: Peru-standaardtyd,
-      Daylight: Peru-somertyd
-    }
-  },
-  {
-    Key: America/Los_Angeles,
-    Value: {
-      Generic: Pasifiese tyd,
-      Standard: Pasifiese standaardtyd,
-      Daylight: Pasifiese dagligtyd
-    }
-  },
-  {
-    Key: America/Louisville,
-    Value: {
-      Generic: Noord-Amerikaanse oostelike tyd,
-      Standard: Noord-Amerikaanse oostelike standaardtyd,
-      Daylight: Noord-Amerikaanse oostelike dagligtyd
-    }
-  },
-  {
-    Key: America/Lower_Princes,
-    Value: {
-      Generic: Atlantiese tyd,
-      Standard: Atlantiese standaardtyd,
-      Daylight: Atlantiese dagligtyd
-    }
-  },
-  {
-    Key: America/Maceio,
-    Value: {
-      Generic: Brasilia-tyd,
-      Standard: Brasilia-standaardtyd,
-      Daylight: Brasilia-somertyd
-    }
-  },
-  {
-    Key: America/Managua,
-    Value: {
-      Generic: Noord-Amerikaanse sentrale tyd,
-      Standard: Noord-Amerikaanse sentrale standaardtyd,
-      Daylight: Noord-Amerikaanse sentrale dagligtyd
-    }
-  },
-  {
-    Key: America/Manaus,
-    Value: {
-      Generic: Amasone-tyd,
-      Standard: Amasone-standaardtyd,
-      Daylight: Amasone-somertyd
-    }
-  },
-  {
-    Key: America/Marigot,
-    Value: {
-      Generic: Atlantiese tyd,
-      Standard: Atlantiese standaardtyd,
-      Daylight: Atlantiese dagligtyd
-    }
-  },
-  {
-    Key: America/Martinique,
-    Value: {
-      Generic: Atlantiese tyd,
-      Standard: Atlantiese standaardtyd,
-      Daylight: Atlantiese dagligtyd
-    }
-  },
-  {
-    Key: America/Matamoros,
-    Value: {
-      Generic: Noord-Amerikaanse sentrale tyd,
-      Standard: Noord-Amerikaanse sentrale standaardtyd,
-      Daylight: Noord-Amerikaanse sentrale dagligtyd
-    }
-  },
-  {
-    Key: America/Mazatlan,
-    Value: {
-      Generic: Meksikaanse Pasifiese tyd,
-      Standard: Meksikaanse Pasifiese standaardtyd,
-      Daylight: Meksikaanse Pasifiese dagligtyd
-    }
-  },
-  {
-    Key: America/Mendoza,
-    Value: {
-      Generic: Argentinië-tyd,
-      Standard: Argentinië-standaardtyd,
-      Daylight: Argentinië-somertyd
-    }
-  },
-  {
-    Key: America/Menominee,
-    Value: {
-      Generic: Noord-Amerikaanse sentrale tyd,
-      Standard: Noord-Amerikaanse sentrale standaardtyd,
-      Daylight: Noord-Amerikaanse sentrale dagligtyd
-    }
-  },
-  {
-    Key: America/Merida,
-    Value: {
-      Generic: Noord-Amerikaanse sentrale tyd,
-      Standard: Noord-Amerikaanse sentrale standaardtyd,
-      Daylight: Noord-Amerikaanse sentrale dagligtyd
-    }
-  },
-  {
-    Key: America/Metlakatla,
-    Value: {
-      Generic: Alaska-tyd,
-      Standard: Alaska-standaardtyd,
-      Daylight: Alaska-dagligtyd
-    }
-  },
-  {
-    Key: America/Mexico_City,
-    Value: {
-      Generic: Noord-Amerikaanse sentrale tyd,
-      Standard: Noord-Amerikaanse sentrale standaardtyd,
-      Daylight: Noord-Amerikaanse sentrale dagligtyd
-    }
-  },
-  {
-    Key: America/Miquelon,
-    Value: {
-      Generic: Sint-Pierre en Miquelon-tyd,
-      Standard: Sint-Pierre en Miquelon-standaardtyd,
-      Daylight: Sint-Pierre en Miquelon-dagligtyd
-    }
-  },
-  {
-    Key: America/Moncton,
-    Value: {
-      Generic: Atlantiese tyd,
-      Standard: Atlantiese standaardtyd,
-      Daylight: Atlantiese dagligtyd
-    }
-  },
-  {
-    Key: America/Monterrey,
-    Value: {
-      Generic: Noord-Amerikaanse sentrale tyd,
-      Standard: Noord-Amerikaanse sentrale standaardtyd,
-      Daylight: Noord-Amerikaanse sentrale dagligtyd
-    }
-  },
-  {
-    Key: America/Montevideo,
-    Value: {
-      Generic: Uruguay-tyd,
-      Standard: Uruguay-standaardtyd,
-      Daylight: Uruguay-somertyd
-    }
-  },
-  {
-    Key: America/Montreal,
-    Value: {
-      Generic: Noord-Amerikaanse oostelike tyd,
-      Standard: Noord-Amerikaanse oostelike standaardtyd,
-      Daylight: Noord-Amerikaanse oostelike dagligtyd
-    }
-  },
-  {
-    Key: America/Montserrat,
-    Value: {
-      Generic: Atlantiese tyd,
-      Standard: Atlantiese standaardtyd,
-      Daylight: Atlantiese dagligtyd
-    }
-  },
-  {
-    Key: America/Nassau,
-    Value: {
-      Generic: Noord-Amerikaanse oostelike tyd,
-      Standard: Noord-Amerikaanse oostelike standaardtyd,
-      Daylight: Noord-Amerikaanse oostelike dagligtyd
-    }
-  },
-  {
-    Key: America/New_York,
-    Value: {
-      Generic: Noord-Amerikaanse oostelike tyd,
-      Standard: Noord-Amerikaanse oostelike standaardtyd,
-      Daylight: Noord-Amerikaanse oostelike dagligtyd
-    }
-  },
-  {
-    Key: America/Nipigon,
-    Value: {
-      Generic: Noord-Amerikaanse oostelike tyd,
-      Standard: Noord-Amerikaanse oostelike standaardtyd,
-      Daylight: Noord-Amerikaanse oostelike dagligtyd
-    }
-  },
-  {
-    Key: America/Nome,
-    Value: {
-      Generic: Alaska-tyd,
-      Standard: Alaska-standaardtyd,
-      Daylight: Alaska-dagligtyd
-    }
-  },
-  {
-    Key: America/Noronha,
-    Value: {
-      Generic: Fernando de Noronha-tyd,
-      Standard: Fernando de Noronha-standaardtyd,
-      Daylight: Fernando de Noronha-somertyd
-    }
-  },
-  {
-    Key: America/North_Dakota/Beulah,
-    Value: {
-      Generic: Noord-Amerikaanse sentrale tyd,
-      Standard: Noord-Amerikaanse sentrale standaardtyd,
-      Daylight: Noord-Amerikaanse sentrale dagligtyd
-    }
-  },
-  {
-    Key: America/North_Dakota/Center,
-    Value: {
-      Generic: Noord-Amerikaanse sentrale tyd,
-      Standard: Noord-Amerikaanse sentrale standaardtyd,
-      Daylight: Noord-Amerikaanse sentrale dagligtyd
-    }
-  },
-  {
-    Key: America/North_Dakota/New_Salem,
-    Value: {
-      Generic: Noord-Amerikaanse sentrale tyd,
-      Standard: Noord-Amerikaanse sentrale standaardtyd,
-      Daylight: Noord-Amerikaanse sentrale dagligtyd
-    }
-  },
-  {
-    Key: America/Nuuk,
-    Value: {
-      Generic: Wes-Groenland-tyd,
-      Standard: Wes-Groenland-standaardtyd,
-      Daylight: Wes-Groenland-somertyd
-    }
-  },
-  {
-    Key: America/Ojinaga,
-    Value: {
-      Generic: Noord-Amerikaanse bergtyd,
-      Standard: Noord-Amerikaanse berg-standaardtyd,
-      Daylight: Noord-Amerikaanse berg-dagligtyd
-    }
-  },
-  {
-    Key: America/Panama,
-    Value: {
-      Generic: Noord-Amerikaanse oostelike tyd,
-      Standard: Noord-Amerikaanse oostelike standaardtyd,
-      Daylight: Noord-Amerikaanse oostelike dagligtyd
-    }
-  },
-  {
-    Key: America/Pangnirtung,
-    Value: {
-      Generic: Noord-Amerikaanse oostelike tyd,
-      Standard: Noord-Amerikaanse oostelike standaardtyd,
-      Daylight: Noord-Amerikaanse oostelike dagligtyd
-    }
-  },
-  {
-    Key: America/Paramaribo,
-    Value: {
-      Generic: Suriname-tyd,
-      Standard: Suriname-tyd,
-      Daylight: Suriname-tyd
-    }
-  },
-  {
-    Key: America/Phoenix,
-    Value: {
-      Generic: Noord-Amerikaanse bergtyd,
-      Standard: Noord-Amerikaanse berg-standaardtyd,
-      Daylight: Noord-Amerikaanse berg-dagligtyd
-    }
-  },
-  {
-    Key: America/Port_of_Spain,
-    Value: {
-      Generic: Atlantiese tyd,
-      Standard: Atlantiese standaardtyd,
-      Daylight: Atlantiese dagligtyd
-    }
-  },
-  {
-    Key: America/Port-au-Prince,
-    Value: {
-      Generic: Noord-Amerikaanse oostelike tyd,
-      Standard: Noord-Amerikaanse oostelike standaardtyd,
-      Daylight: Noord-Amerikaanse oostelike dagligtyd
-    }
-  },
-  {
-    Key: America/Porto_Acre,
-    Value: {
-      Generic: Brasilië-tyd,
-      Standard: Brasilië-standaardtyd,
-      Daylight: Brasilië-dagligtyd
-    }
-  },
-  {
-    Key: America/Porto_Velho,
-    Value: {
-      Generic: Amasone-tyd,
-      Standard: Amasone-standaardtyd,
-      Daylight: Amasone-somertyd
-    }
-  },
-  {
-    Key: America/Puerto_Rico,
-    Value: {
-      Generic: Atlantiese tyd,
-      Standard: Atlantiese standaardtyd,
-      Daylight: Atlantiese dagligtyd
-    }
-  },
-  {
-    Key: America/Punta_Arenas,
-    Value: {
-      Generic: Chili-tyd,
-      Standard: Chili-standaardtyd,
-      Daylight: Chili-somertyd
-    }
-  },
-  {
-    Key: America/Rainy_River,
-    Value: {
-      Generic: Noord-Amerikaanse sentrale tyd,
-      Standard: Noord-Amerikaanse sentrale standaardtyd,
-      Daylight: Noord-Amerikaanse sentrale dagligtyd
-    }
-  },
-  {
-    Key: America/Rankin_Inlet,
-    Value: {
-      Generic: Noord-Amerikaanse sentrale tyd,
-      Standard: Noord-Amerikaanse sentrale standaardtyd,
-      Daylight: Noord-Amerikaanse sentrale dagligtyd
-    }
-  },
-  {
-    Key: America/Recife,
-    Value: {
-      Generic: Brasilia-tyd,
-      Standard: Brasilia-standaardtyd,
-      Daylight: Brasilia-somertyd
-    }
-  },
-  {
-    Key: America/Regina,
-    Value: {
-      Generic: Noord-Amerikaanse sentrale tyd,
-      Standard: Noord-Amerikaanse sentrale standaardtyd,
-      Daylight: Noord-Amerikaanse sentrale dagligtyd
-    }
-  },
-  {
-    Key: America/Resolute,
-    Value: {
-      Generic: Noord-Amerikaanse sentrale tyd,
-      Standard: Noord-Amerikaanse sentrale standaardtyd,
-      Daylight: Noord-Amerikaanse sentrale dagligtyd
-    }
-  },
-  {
-    Key: America/Rio_Branco,
-    Value: {
-      Generic: Brasilië-tyd,
-      Standard: Brasilië-standaardtyd,
-      Daylight: Brasilië-dagligtyd
-    }
-  },
-  {
-    Key: America/Rosario,
-    Value: {
-      Generic: Argentinië-tyd,
-      Standard: Argentinië-standaardtyd,
-      Daylight: Argentinië-somertyd
-    }
-  },
-  {
-    Key: America/Santa_Isabel,
-    Value: {
-      Generic: Noordwes-Meksiko-tyd,
-      Standard: Noordwes-Meksiko-standaardtyd,
-      Daylight: Noordwes-Meksiko-dagligtyd
-    }
-  },
-  {
-    Key: America/Santarem,
-    Value: {
-      Generic: Brasilia-tyd,
-      Standard: Brasilia-standaardtyd,
-      Daylight: Brasilia-somertyd
-    }
-  },
-  {
-    Key: America/Santiago,
-    Value: {
-      Generic: Chili-tyd,
-      Standard: Chili-standaardtyd,
-      Daylight: Chili-somertyd
-    }
-  },
-  {
-    Key: America/Santo_Domingo,
-    Value: {
-      Generic: Atlantiese tyd,
-      Standard: Atlantiese standaardtyd,
-      Daylight: Atlantiese dagligtyd
-    }
-  },
-  {
-    Key: America/Sao_Paulo,
-    Value: {
-      Generic: Brasilia-tyd,
-      Standard: Brasilia-standaardtyd,
-      Daylight: Brasilia-somertyd
-    }
-  },
-  {
-    Key: America/Scoresbysund,
-    Value: {
-      Generic: Oos-Groenland-tyd,
-      Standard: Oos-Groenland-standaardtyd,
-      Daylight: Oos-Groenland-somertyd
-    }
-  },
-  {
-    Key: America/Shiprock,
-    Value: {
-      Generic: Noord-Amerikaanse bergtyd,
-      Standard: Noord-Amerikaanse berg-standaardtyd,
-      Daylight: Noord-Amerikaanse berg-dagligtyd
-    }
-  },
-  {
-    Key: America/Sitka,
-    Value: {
-      Generic: Alaska-tyd,
-      Standard: Alaska-standaardtyd,
-      Daylight: Alaska-dagligtyd
-    }
-  },
-  {
-    Key: America/St_Barthelemy,
-    Value: {
-      Generic: Atlantiese tyd,
-      Standard: Atlantiese standaardtyd,
-      Daylight: Atlantiese dagligtyd
-    }
-  },
-  {
-    Key: America/St_Johns,
-    Value: {
-      Generic: Newfoundland-tyd,
-      Standard: Newfoundland-standaardtyd,
-      Daylight: Newfoundland-dagligtyd
-    }
-  },
-  {
-    Key: America/St_Kitts,
-    Value: {
-      Generic: Atlantiese tyd,
-      Standard: Atlantiese standaardtyd,
-      Daylight: Atlantiese dagligtyd
-    }
-  },
-  {
-    Key: America/St_Lucia,
-    Value: {
-      Generic: Atlantiese tyd,
-      Standard: Atlantiese standaardtyd,
-      Daylight: Atlantiese dagligtyd
-    }
-  },
-  {
-    Key: America/St_Thomas,
-    Value: {
-      Generic: Atlantiese tyd,
-      Standard: Atlantiese standaardtyd,
-      Daylight: Atlantiese dagligtyd
-    }
-  },
-  {
-    Key: America/St_Vincent,
-    Value: {
-      Generic: Atlantiese tyd,
-      Standard: Atlantiese standaardtyd,
-      Daylight: Atlantiese dagligtyd
-    }
-  },
-  {
-    Key: America/Swift_Current,
-    Value: {
-      Generic: Noord-Amerikaanse sentrale tyd,
-      Standard: Noord-Amerikaanse sentrale standaardtyd,
-      Daylight: Noord-Amerikaanse sentrale dagligtyd
-    }
-  },
-  {
-    Key: America/Tegucigalpa,
-    Value: {
-      Generic: Noord-Amerikaanse sentrale tyd,
-      Standard: Noord-Amerikaanse sentrale standaardtyd,
-      Daylight: Noord-Amerikaanse sentrale dagligtyd
-    }
-  },
-  {
-    Key: America/Thule,
-    Value: {
-      Generic: Atlantiese tyd,
-      Standard: Atlantiese standaardtyd,
-      Daylight: Atlantiese dagligtyd
-    }
-  },
-  {
-    Key: America/Thunder_Bay,
-    Value: {
-      Generic: Noord-Amerikaanse oostelike tyd,
-      Standard: Noord-Amerikaanse oostelike standaardtyd,
-      Daylight: Noord-Amerikaanse oostelike dagligtyd
-    }
-  },
-  {
-    Key: America/Tijuana,
-    Value: {
-      Generic: Pasifiese tyd,
-      Standard: Pasifiese standaardtyd,
-      Daylight: Pasifiese dagligtyd
-    }
-  },
-  {
-    Key: America/Toronto,
-    Value: {
-      Generic: Noord-Amerikaanse oostelike tyd,
-      Standard: Noord-Amerikaanse oostelike standaardtyd,
-      Daylight: Noord-Amerikaanse oostelike dagligtyd
-    }
-  },
-  {
-    Key: America/Tortola,
-    Value: {
-      Generic: Atlantiese tyd,
-      Standard: Atlantiese standaardtyd,
-      Daylight: Atlantiese dagligtyd
-    }
-  },
-  {
-    Key: America/Vancouver,
-    Value: {
-      Generic: Pasifiese tyd,
-      Standard: Pasifiese standaardtyd,
-      Daylight: Pasifiese dagligtyd
-    }
-  },
-  {
-    Key: America/Virgin,
-    Value: {
-      Generic: Atlantiese tyd,
-      Standard: Atlantiese standaardtyd,
-      Daylight: Atlantiese dagligtyd
-    }
-  },
-  {
-    Key: America/Whitehorse,
-    Value: {
-      Generic: Yukontyd,
-      Standard: Yukontyd,
-      Daylight: Yukontyd
-    }
-  },
-  {
-    Key: America/Winnipeg,
-    Value: {
-      Generic: Noord-Amerikaanse sentrale tyd,
-      Standard: Noord-Amerikaanse sentrale standaardtyd,
-      Daylight: Noord-Amerikaanse sentrale dagligtyd
-    }
-  },
-  {
-    Key: America/Yakutat,
-    Value: {
-      Generic: Alaska-tyd,
-      Standard: Alaska-standaardtyd,
-      Daylight: Alaska-dagligtyd
-    }
-  },
-  {
-    Key: America/Yellowknife,
-    Value: {
-      Generic: Noord-Amerikaanse bergtyd,
-      Standard: Noord-Amerikaanse berg-standaardtyd,
-      Daylight: Noord-Amerikaanse berg-dagligtyd
-    }
-  },
-  {
-    Key: Antarctica/Casey,
-    Value: {
-      Generic: Antarktika-tyd,
-      Standard: Antarktika-standaardtyd,
-      Daylight: Antarktika-dagligtyd
-    }
-  },
-  {
-    Key: Antarctica/Davis,
-    Value: {
-      Generic: Davis-tyd,
-      Standard: Davis-tyd,
-      Daylight: Davis-tyd
-    }
-  },
-  {
-    Key: Antarctica/DumontDUrville,
-    Value: {
-      Generic: Dumont-d’Urville-tyd,
-      Standard: Dumont-d’Urville-tyd,
-      Daylight: Dumont-d’Urville-tyd
-    }
-  },
-  {
-    Key: Antarctica/Macquarie,
-    Value: {
-      Generic: Oostelike Australiese tyd,
-      Standard: Oostelike Australiese standaardtyd,
-      Daylight: Oostelike Australiese dagligtyd
-    }
-  },
-  {
-    Key: Antarctica/Mawson,
-    Value: {
-      Generic: Mawson-tyd,
-      Standard: Mawson-tyd,
-      Daylight: Mawson-tyd
-    }
-  },
-  {
-    Key: Antarctica/McMurdo,
-    Value: {
-      Generic: Nieu-Seeland-tyd,
-      Standard: Nieu-Seeland-standaardtyd,
-      Daylight: Nieu-Seeland-dagligtyd
-    }
-  },
-  {
-    Key: Antarctica/Palmer,
-    Value: {
-      Generic: Chili-tyd,
-      Standard: Chili-standaardtyd,
-      Daylight: Chili-somertyd
-    }
-  },
-  {
-    Key: Antarctica/Rothera,
-    Value: {
-      Generic: Rothera-tyd,
-      Standard: Rothera-tyd,
-      Daylight: Rothera-tyd
-    }
-  },
-  {
-    Key: Antarctica/South_Pole,
-    Value: {
-      Generic: Nieu-Seeland-tyd,
-      Standard: Nieu-Seeland-standaardtyd,
-      Daylight: Nieu-Seeland-dagligtyd
-    }
-  },
-  {
-    Key: Antarctica/Syowa,
-    Value: {
-      Generic: Syowa-tyd,
-      Standard: Syowa-tyd,
-      Daylight: Syowa-tyd
-    }
-  },
-  {
-    Key: Antarctica/Troll,
-    Value: {
-      Generic: Greenwich-tyd,
-      Standard: Greenwich-tyd,
-      Daylight: Greenwich-tyd
-    }
-  },
-  {
-    Key: Antarctica/Vostok,
-    Value: {
-      Generic: Wostok-tyd,
-      Standard: Wostok-tyd,
-      Daylight: Wostok-tyd
-    }
-  },
-  {
-    Key: Arctic/Longyearbyen,
-    Value: {
-      Generic: Sentraal-Europese tyd,
-      Standard: Sentraal-Europese standaardtyd,
-      Daylight: Sentraal-Europese somertyd
-    }
-  },
-  {
-    Key: Asia/Aden,
-    Value: {
-      Generic: Arabiese tyd,
-      Standard: Arabiese standaardtyd,
-      Daylight: Arabiese dagligtyd
-    }
-  },
-  {
-    Key: Asia/Almaty,
-    Value: {
-      Generic: Oos-Kazakstan-tyd,
-      Standard: Oos-Kazakstan-tyd,
-      Daylight: Oos-Kazakstan-tyd
-    }
-  },
-  {
-    Key: Asia/Amman,
-    Value: {
-      Generic: Oos-Europese tyd,
-      Standard: Oos-Europese standaardtyd,
-      Daylight: Oos-Europese somertyd
-    }
-  },
-  {
-    Key: Asia/Anadyr,
-    Value: {
-      Generic: Anadyr-tyd,
-      Standard: Anadyr-standaardtyd,
-      Daylight: Anadyr-dagligtyd
-    }
-  },
-  {
-    Key: Asia/Aqtau,
-    Value: {
-      Generic: Wes-Kazakstan-tyd,
-      Standard: Wes-Kazakstan-tyd,
-      Daylight: Wes-Kazakstan-tyd
-    }
-  },
-  {
-    Key: Asia/Aqtobe,
-    Value: {
-      Generic: Wes-Kazakstan-tyd,
-      Standard: Wes-Kazakstan-tyd,
-      Daylight: Wes-Kazakstan-tyd
-    }
-  },
-  {
-    Key: Asia/Ashgabat,
-    Value: {
-      Generic: Turkmenistan-tyd,
-      Standard: Turkmenistan-standaardtyd,
-      Daylight: Turkmenistan-somertyd
-    }
-  },
-  {
-    Key: Asia/Ashkhabad,
-    Value: {
-      Generic: Turkmenistan-tyd,
-      Standard: Turkmenistan-standaardtyd,
-      Daylight: Turkmenistan-somertyd
-    }
-  },
-  {
-    Key: Asia/Atyrau,
-    Value: {
-      Generic: Wes-Kazakstan-tyd,
-      Standard: Wes-Kazakstan-tyd,
-      Daylight: Wes-Kazakstan-tyd
-    }
-  },
-  {
-    Key: Asia/Baghdad,
-    Value: {
-      Generic: Arabiese tyd,
-      Standard: Arabiese standaardtyd,
-      Daylight: Arabiese dagligtyd
-    }
-  },
-  {
-    Key: Asia/Bahrain,
-    Value: {
-      Generic: Arabiese tyd,
-      Standard: Arabiese standaardtyd,
-      Daylight: Arabiese dagligtyd
-    }
-  },
-  {
-    Key: Asia/Baku,
-    Value: {
-      Generic: Aserbeidjan-tyd,
-      Standard: Aserbeidjan-standaardtyd,
-      Daylight: Aserbeidjan-somertyd
-    }
-  },
-  {
-    Key: Asia/Bangkok,
-    Value: {
-      Generic: Indosjina-tyd,
-      Standard: Indosjina-tyd,
-      Daylight: Indosjina-tyd
-    }
-  },
-  {
-    Key: Asia/Barnaul,
-    Value: {
-      Generic: Barnaul-tyd,
-      Standard: Barnaul-standaardtyd,
-      Daylight: Barnaul-dagligtyd
-    }
-  },
-  {
-    Key: Asia/Beirut,
-    Value: {
-      Generic: Oos-Europese tyd,
-      Standard: Oos-Europese standaardtyd,
-      Daylight: Oos-Europese somertyd
-    }
-  },
-  {
-    Key: Asia/Bishkek,
-    Value: {
-      Generic: Kirgistan-tyd,
-      Standard: Kirgistan-tyd,
-      Daylight: Kirgistan-tyd
-    }
-  },
-  {
-    Key: Asia/Brunei,
-    Value: {
-      Generic: Broenei Darussalam-tyd,
-      Standard: Broenei Darussalam-tyd,
-      Daylight: Broenei Darussalam-tyd
-    }
-  },
-  {
-    Key: Asia/Calcutta,
-    Value: {
-      Generic: Indië-standaardtyd,
-      Standard: Indië-standaardtyd,
-      Daylight: Indië-standaardtyd
-    }
-  },
-  {
-    Key: Asia/Chita,
-    Value: {
-      Generic: Chita-tyd,
-      Standard: Chita-standaardtyd,
-      Daylight: Chita-dagligtyd
-    }
-  },
-  {
-    Key: Asia/Choibalsan,
-    Value: {
-      Generic: Ulaanbaatar-tyd,
-      Standard: Ulaanbaatar-standaardtyd,
-      Daylight: Ulaanbaatar-somertyd
-    }
-  },
-  {
-    Key: Asia/Chongqing,
-    Value: {
-      Generic: China-tyd,
-      Standard: China-standaardtyd,
-      Daylight: China-dagligtyd
-    }
-  },
-  {
-    Key: Asia/Chungking,
-    Value: {
-      Generic: China-tyd,
-      Standard: China-standaardtyd,
-      Daylight: China-dagligtyd
-    }
-  },
-  {
-    Key: Asia/Colombo,
-    Value: {
-      Generic: Indië-standaardtyd,
-      Standard: Indië-standaardtyd,
-      Daylight: Indië-standaardtyd
-    }
-  },
-  {
-    Key: Asia/Dacca,
-    Value: {
-      Generic: Bangladesj-tyd,
-      Standard: Bangladesj-standaardtyd,
-      Daylight: Bangladesj-somertyd
-    }
-  },
-  {
-    Key: Asia/Damascus,
-    Value: {
-      Generic: Oos-Europese tyd,
-      Standard: Oos-Europese standaardtyd,
-      Daylight: Oos-Europese somertyd
-    }
-  },
-  {
-    Key: Asia/Dhaka,
-    Value: {
-      Generic: Bangladesj-tyd,
-      Standard: Bangladesj-standaardtyd,
-      Daylight: Bangladesj-somertyd
-    }
-  },
-  {
-    Key: Asia/Dili,
-    Value: {
-      Generic: Oos-Timor-tyd,
-      Standard: Oos-Timor-tyd,
-      Daylight: Oos-Timor-tyd
-    }
-  },
-  {
-    Key: Asia/Dubai,
-    Value: {
-      Generic: Persiese Golf-standaardtyd,
-      Standard: Persiese Golf-standaardtyd,
-      Daylight: Persiese Golf-standaardtyd
-    }
-  },
-  {
-    Key: Asia/Dushanbe,
-    Value: {
-      Generic: Tadjikistan-tyd,
-      Standard: Tadjikistan-tyd,
-      Daylight: Tadjikistan-tyd
-    }
-  },
-  {
-    Key: Asia/Famagusta,
-    Value: {
-      Generic: Oos-Europese tyd,
-      Standard: Oos-Europese standaardtyd,
-      Daylight: Oos-Europese somertyd
-    }
-  },
-  {
-    Key: Asia/Gaza,
-    Value: {
-      Generic: Oos-Europese tyd,
-      Standard: Oos-Europese standaardtyd,
-      Daylight: Oos-Europese somertyd
-    }
-  },
-  {
-    Key: Asia/Harbin,
-    Value: {
-      Generic: China-tyd,
-      Standard: China-standaardtyd,
-      Daylight: China-dagligtyd
-    }
-  },
-  {
-    Key: Asia/Hebron,
-    Value: {
-      Generic: Oos-Europese tyd,
-      Standard: Oos-Europese standaardtyd,
-      Daylight: Oos-Europese somertyd
-    }
-  },
-  {
-    Key: Asia/Ho_Chi_Minh,
-    Value: {
-      Generic: Indosjina-tyd,
-      Standard: Indosjina-tyd,
-      Daylight: Indosjina-tyd
-    }
-  },
-  {
-    Key: Asia/Hong_Kong,
-    Value: {
-      Generic: Hongkong-tyd,
-      Standard: Hongkong-standaardtyd,
-      Daylight: Hongkong-somertyd
-    }
-  },
-  {
-    Key: Asia/Hovd,
-    Value: {
-      Generic: Hovd-tyd,
-      Standard: Hovd-standaardtyd,
-      Daylight: Hovd-somertyd
-    }
-  },
-  {
-    Key: Asia/Irkutsk,
-    Value: {
-      Generic: Irkoetsk-tyd,
-      Standard: Irkoetsk-standaardtyd,
-      Daylight: Irkoetsk-dagligtyd
-    }
-  },
-  {
-    Key: Asia/Istanbul,
-    Value: {
-      Generic: Turkye-tyd,
-      Standard: Turkye-standaardtyd,
-      Daylight: Turkye-dagligtyd
-    }
-  },
-  {
-    Key: Asia/Jakarta,
-    Value: {
-      Generic: Wes-Indonesië-tyd,
-      Standard: Wes-Indonesië-tyd,
-      Daylight: Wes-Indonesië-tyd
-    }
-  },
-  {
-    Key: Asia/Jayapura,
-    Value: {
-      Generic: Oos-Indonesië-tyd,
-      Standard: Oos-Indonesië-tyd,
-      Daylight: Oos-Indonesië-tyd
-    }
-  },
-  {
-    Key: Asia/Jerusalem,
-    Value: {
-      Generic: Israel-tyd,
-      Standard: Israel-standaardtyd,
-      Daylight: Israel-dagligtyd
-    }
-  },
-  {
-    Key: Asia/Kabul,
-    Value: {
-      Generic: Afganistan-tyd,
-      Standard: Afganistan-tyd,
-      Daylight: Afganistan-tyd
-    }
-  },
-  {
-    Key: Asia/Kamchatka,
-    Value: {
-      Generic: Kamtsjatka-tyd,
-      Standard: Kamtsjatka-standaardtyd,
-      Daylight: Kamtsjatka-dagligtyd
-    }
-  },
-  {
-    Key: Asia/Karachi,
-    Value: {
-      Generic: Pakistan-tyd,
-      Standard: Pakistan-standaardtyd,
-      Daylight: Pakistan-somertyd
-    }
-  },
-  {
-    Key: Asia/Kashgar,
-    Value: {
-      Generic: China-tyd,
-      Standard: China-standaardtyd,
-      Daylight: China-dagligtyd
-    }
-  },
-  {
-    Key: Asia/Kathmandu,
-    Value: {
-      Generic: Nepal-tyd,
-      Standard: Nepal-tyd,
-      Daylight: Nepal-tyd
-    }
-  },
-  {
-    Key: Asia/Katmandu,
-    Value: {
-      Generic: Nepal-tyd,
-      Standard: Nepal-tyd,
-      Daylight: Nepal-tyd
-    }
-  },
-  {
-    Key: Asia/Khandyga,
-    Value: {
-      Generic: Khandyga-tyd,
-      Standard: Khandyga-standaardtyd,
-      Daylight: Khandyga-dagligtyd
-    }
-  },
-  {
-    Key: Asia/Kolkata,
-    Value: {
-      Generic: Indië-standaardtyd,
-      Standard: Indië-standaardtyd,
-      Daylight: Indië-standaardtyd
-    }
-  },
-  {
-    Key: Asia/Krasnoyarsk,
-    Value: {
-      Generic: Krasnojarsk-tyd,
-      Standard: Krasnojarsk-standaardtyd,
-      Daylight: Krasnojarsk-dagligtyd
-    }
-  },
-  {
-    Key: Asia/Kuala_Lumpur,
-    Value: {
-      Generic: Maleisië-tyd,
-      Standard: Maleisië-tyd,
-      Daylight: Maleisië-tyd
-    }
-  },
-  {
-    Key: Asia/Kuching,
-    Value: {
-      Generic: Maleisië-tyd,
-      Standard: Maleisië-tyd,
-      Daylight: Maleisië-tyd
-    }
-  },
-  {
-    Key: Asia/Kuwait,
-    Value: {
-      Generic: Arabiese tyd,
-      Standard: Arabiese standaardtyd,
-      Daylight: Arabiese dagligtyd
-    }
-  },
-  {
-    Key: Asia/Macao,
-    Value: {
-      Generic: China-tyd,
-      Standard: China-standaardtyd,
-      Daylight: China-dagligtyd
-    }
-  },
-  {
-    Key: Asia/Macau,
-    Value: {
-      Generic: China-tyd,
-      Standard: China-standaardtyd,
-      Daylight: China-dagligtyd
-    }
-  },
-  {
-    Key: Asia/Magadan,
-    Value: {
-      Generic: Magadan-tyd,
-      Standard: Magadan-standaardtyd,
-      Daylight: Magadan-dagligtyd
-    }
-  },
-  {
-    Key: Asia/Makassar,
-    Value: {
-      Generic: Sentraal-Indonesiese tyd,
-      Standard: Sentraal-Indonesiese tyd,
-      Daylight: Sentraal-Indonesiese tyd
-    }
-  },
-  {
-    Key: Asia/Manila,
-    Value: {
-      Generic: Filippynse tyd,
-      Standard: Filippynse standaardtyd,
-      Daylight: Filippynse somertyd
-    }
-  },
-  {
-    Key: Asia/Muscat,
-    Value: {
-      Generic: Persiese Golf-standaardtyd,
-      Standard: Persiese Golf-standaardtyd,
-      Daylight: Persiese Golf-standaardtyd
-    }
-  },
-  {
-    Key: Asia/Nicosia,
-    Value: {
-      Generic: Oos-Europese tyd,
-      Standard: Oos-Europese standaardtyd,
-      Daylight: Oos-Europese somertyd
-    }
-  },
-  {
-    Key: Asia/Novokuznetsk,
-    Value: {
-      Generic: Novokuznetsk-tyd,
-      Standard: Novokuznetsk-standaardtyd,
-      Daylight: Novokuznetsk-dagligtyd
-    }
-  },
-  {
-    Key: Asia/Novosibirsk,
-    Value: {
-      Generic: Novosibirsk-tyd,
-      Standard: Novosibirsk-standaardtyd,
-      Daylight: Novosibirsk-dagligtyd
-    }
-  },
-  {
-    Key: Asia/Omsk,
-    Value: {
-      Generic: Omsk-tyd,
-      Standard: Omsk-standaardtyd,
-      Daylight: Omsk-dagligtyd
-    }
-  },
-  {
-    Key: Asia/Oral,
-    Value: {
-      Generic: Wes-Kazakstan-tyd,
-      Standard: Wes-Kazakstan-tyd,
-      Daylight: Wes-Kazakstan-tyd
-    }
-  },
-  {
-    Key: Asia/Phnom_Penh,
-    Value: {
-      Generic: Indosjina-tyd,
-      Standard: Indosjina-tyd,
-      Daylight: Indosjina-tyd
-    }
-  },
-  {
-    Key: Asia/Pontianak,
-    Value: {
-      Generic: Wes-Indonesië-tyd,
-      Standard: Wes-Indonesië-tyd,
-      Daylight: Wes-Indonesië-tyd
-    }
-  },
-  {
-    Key: Asia/Pyongyang,
-    Value: {
-      Generic: Koreaanse tyd,
-      Standard: Koreaanse standaardtyd,
-      Daylight: Koreaanse dagligtyd
-    }
-  },
-  {
-    Key: Asia/Qatar,
-    Value: {
-      Generic: Arabiese tyd,
-      Standard: Arabiese standaardtyd,
-      Daylight: Arabiese dagligtyd
-    }
-  },
-  {
-    Key: Asia/Qostanay,
-    Value: {
-      Generic: Oos-Kazakstan-tyd,
-      Standard: Oos-Kazakstan-tyd,
-      Daylight: Oos-Kazakstan-tyd
-    }
-  },
-  {
-    Key: Asia/Qyzylorda,
-    Value: {
-      Generic: Wes-Kazakstan-tyd,
-      Standard: Wes-Kazakstan-tyd,
-      Daylight: Wes-Kazakstan-tyd
-    }
-  },
-  {
-    Key: Asia/Rangoon,
-    Value: {
-      Generic: Mianmar-tyd,
-      Standard: Mianmar-tyd,
-      Daylight: Mianmar-tyd
-    }
-  },
-  {
-    Key: Asia/Riyadh,
-    Value: {
-      Generic: Arabiese tyd,
-      Standard: Arabiese standaardtyd,
-      Daylight: Arabiese dagligtyd
-    }
-  },
-  {
-    Key: Asia/Saigon,
-    Value: {
-      Generic: Indosjina-tyd,
-      Standard: Indosjina-tyd,
-      Daylight: Indosjina-tyd
-    }
-  },
-  {
-    Key: Asia/Sakhalin,
-    Value: {
-      Generic: Sakhalin-tyd,
-      Standard: Sakhalin-standaardtyd,
-      Daylight: Sakhalin-dagligtyd
-    }
-  },
-  {
-    Key: Asia/Samarkand,
-    Value: {
-      Generic: Oesbekistan-tyd,
-      Standard: Oesbekistan-standaardtyd,
-      Daylight: Oesbekistan-somertyd
-    }
-  },
-  {
-    Key: Asia/Seoul,
-    Value: {
-      Generic: Koreaanse tyd,
-      Standard: Koreaanse standaardtyd,
-      Daylight: Koreaanse dagligtyd
-    }
-  },
-  {
-    Key: Asia/Shanghai,
-    Value: {
-      Generic: China-tyd,
-      Standard: China-standaardtyd,
-      Daylight: China-dagligtyd
-    }
-  },
-  {
-    Key: Asia/Singapore,
-    Value: {
-      Generic: Singapoer-standaardtyd,
-      Standard: Singapoer-standaardtyd,
-      Daylight: Singapoer-standaardtyd
-    }
-  },
-  {
-    Key: Asia/Srednekolymsk,
-    Value: {
-      Generic: Srednekolymsk-tyd,
-      Standard: Srednekolymsk-standaardtyd,
-      Daylight: Srednekolymsk-dagligtyd
-    }
-  },
-  {
-    Key: Asia/Taipei,
-    Value: {
-      Generic: Taipei-tyd,
-      Standard: Taipei-standaardtyd,
-      Daylight: Taipei-dagligtyd
-    }
-  },
-  {
-    Key: Asia/Tashkent,
-    Value: {
-      Generic: Oesbekistan-tyd,
-      Standard: Oesbekistan-standaardtyd,
-      Daylight: Oesbekistan-somertyd
-    }
-  },
-  {
-    Key: Asia/Tbilisi,
-    Value: {
-      Generic: Georgië-tyd,
-      Standard: Georgië-standaardtyd,
-      Daylight: Georgië-somertyd
-    }
-  },
-  {
-    Key: Asia/Tehran,
-    Value: {
-      Generic: Iran-tyd,
-      Standard: Iran-standaardtyd,
-      Daylight: Iran-dagligtyd
-    }
-  },
-  {
-    Key: Asia/Tel_Aviv,
-    Value: {
-      Generic: Israel-tyd,
-      Standard: Israel-standaardtyd,
-      Daylight: Israel-dagligtyd
-    }
-  },
-  {
-    Key: Asia/Thimbu,
-    Value: {
-      Generic: Bhoetan-tyd,
-      Standard: Bhoetan-tyd,
-      Daylight: Bhoetan-tyd
-    }
-  },
-  {
-    Key: Asia/Thimphu,
-    Value: {
-      Generic: Bhoetan-tyd,
-      Standard: Bhoetan-tyd,
-      Daylight: Bhoetan-tyd
-    }
-  },
-  {
-    Key: Asia/Tokyo,
-    Value: {
-      Generic: Japan-tyd,
-      Standard: Japan-standaardtyd,
-      Daylight: Japan-dagligtyd
-    }
-  },
-  {
-    Key: Asia/Tomsk,
-    Value: {
-      Generic: Tomsk-tyd,
-      Standard: Tomsk-standaardtyd,
-      Daylight: Tomsk-dagligtyd
-    }
-  },
-  {
-    Key: Asia/Ujung_Pandang,
-    Value: {
-      Generic: Sentraal-Indonesiese tyd,
-      Standard: Sentraal-Indonesiese tyd,
-      Daylight: Sentraal-Indonesiese tyd
-    }
-  },
-  {
-    Key: Asia/Ulaanbaatar,
-    Value: {
-      Generic: Ulaanbaatar-tyd,
-      Standard: Ulaanbaatar-standaardtyd,
-      Daylight: Ulaanbaatar-somertyd
-    }
-  },
-  {
-    Key: Asia/Ulan_Bator,
-    Value: {
-      Generic: Ulaanbaatar-tyd,
-      Standard: Ulaanbaatar-standaardtyd,
-      Daylight: Ulaanbaatar-somertyd
-    }
-  },
-  {
-    Key: Asia/Urumqi,
-    Value: {
-      Generic: China-tyd,
-      Standard: China-standaardtyd,
-      Daylight: China-dagligtyd
-    }
-  },
-  {
-    Key: Asia/Ust-Nera,
-    Value: {
-      Generic: Ust-Nera-tyd,
-      Standard: Ust-Nera-standaardtyd,
-      Daylight: Ust-Nera-dagligtyd
-    }
-  },
-  {
-    Key: Asia/Vientiane,
-    Value: {
-      Generic: Indosjina-tyd,
-      Standard: Indosjina-tyd,
-      Daylight: Indosjina-tyd
-    }
-  },
-  {
-    Key: Asia/Vladivostok,
-    Value: {
-      Generic: Wladiwostok-tyd,
-      Standard: Wladiwostok-standaardtyd,
-      Daylight: Wladiwostok-dagligtyd
-    }
-  },
-  {
-    Key: Asia/Yakutsk,
-    Value: {
-      Generic: Jakoetsk-tyd,
-      Standard: Jakoetsk-standaardtyd,
-      Daylight: Jakoetsk-dagligtyd
-    }
-  },
-  {
-    Key: Asia/Yangon,
-    Value: {
-      Generic: Mianmar-tyd,
-      Standard: Mianmar-tyd,
-      Daylight: Mianmar-tyd
-    }
-  },
-  {
-    Key: Asia/Yekaterinburg,
-    Value: {
-      Generic: Jekaterinburg-tyd,
-      Standard: Jekaterinburg-standaardtyd,
-      Daylight: Jekaterinburg-dagligtyd
-    }
-  },
-  {
-    Key: Asia/Yerevan,
-    Value: {
-      Generic: Armenië-tyd,
-      Standard: Armenië-standaardtyd,
-      Daylight: Armenië-somertyd
-    }
-  },
-  {
-    Key: Atlantic/Azores,
-    Value: {
-      Generic: Asore-tyd,
-      Standard: Asore-standaardtyd,
-      Daylight: Asore-somertyd
-    }
-  },
-  {
-    Key: Atlantic/Bermuda,
-    Value: {
-      Generic: Atlantiese tyd,
-      Standard: Atlantiese standaardtyd,
-      Daylight: Atlantiese dagligtyd
-    }
-  },
-  {
-    Key: Atlantic/Canary,
-    Value: {
-      Generic: Wes-Europese tyd,
-      Standard: Wes-Europese standaardtyd,
-      Daylight: Wes-Europese somertyd
-    }
-  },
-  {
-    Key: Atlantic/Cape_Verde,
-    Value: {
-      Generic: Kaap Verde-tyd,
-      Standard: Kaap Verde-standaardtyd,
-      Daylight: Kaap Verde-somertyd
-    }
-  },
-  {
-    Key: Atlantic/Faeroe,
-    Value: {
-      Generic: Wes-Europese tyd,
-      Standard: Wes-Europese standaardtyd,
-      Daylight: Wes-Europese somertyd
-    }
-  },
-  {
-    Key: Atlantic/Faroe,
-    Value: {
-      Generic: Wes-Europese tyd,
-      Standard: Wes-Europese standaardtyd,
-      Daylight: Wes-Europese somertyd
-    }
-  },
-  {
-    Key: Atlantic/Jan_Mayen,
-    Value: {
-      Generic: Sentraal-Europese tyd,
-      Standard: Sentraal-Europese standaardtyd,
-      Daylight: Sentraal-Europese somertyd
-    }
-  },
-  {
-    Key: Atlantic/Madeira,
-    Value: {
-      Generic: Wes-Europese tyd,
-      Standard: Wes-Europese standaardtyd,
-      Daylight: Wes-Europese somertyd
-    }
-  },
-  {
-    Key: Atlantic/Reykjavik,
-    Value: {
-      Generic: Greenwich-tyd,
-      Standard: Greenwich-tyd,
-      Daylight: Greenwich-tyd
-    }
-  },
-  {
-    Key: Atlantic/South_Georgia,
-    Value: {
-      Generic: Suid-Georgië-tyd,
-      Standard: Suid-Georgië-tyd,
-      Daylight: Suid-Georgië-tyd
-    }
-  },
-  {
-    Key: Atlantic/St_Helena,
-    Value: {
-      Generic: Greenwich-tyd,
-      Standard: Greenwich-tyd,
-      Daylight: Greenwich-tyd
-    }
-  },
-  {
-    Key: Atlantic/Stanley,
-    Value: {
-      Generic: Falklandeilande-tyd,
-      Standard: Falklandeilande-standaardtyd,
-      Daylight: Falklandeilande-somertyd
-    }
-  },
-  {
-    Key: Australia/ACT,
-    Value: {
-      Generic: Oostelike Australiese tyd,
-      Standard: Oostelike Australiese standaardtyd,
-      Daylight: Oostelike Australiese dagligtyd
-    }
-  },
-  {
-    Key: Australia/Adelaide,
-    Value: {
-      Generic: Sentraal-Australiese tyd,
-      Standard: Sentraal-Australiese standaardtyd,
-      Daylight: Sentraal-Australiese dagligtyd
-    }
-  },
-  {
-    Key: Australia/Brisbane,
-    Value: {
-      Generic: Oostelike Australiese tyd,
-      Standard: Oostelike Australiese standaardtyd,
-      Daylight: Oostelike Australiese dagligtyd
-    }
-  },
-  {
-    Key: Australia/Broken_Hill,
-    Value: {
-      Generic: Sentraal-Australiese tyd,
-      Standard: Sentraal-Australiese standaardtyd,
-      Daylight: Sentraal-Australiese dagligtyd
-    }
-  },
-  {
-    Key: Australia/Canberra,
-    Value: {
-      Generic: Oostelike Australiese tyd,
-      Standard: Oostelike Australiese standaardtyd,
-      Daylight: Oostelike Australiese dagligtyd
-    }
-  },
-  {
-    Key: Australia/Currie,
-    Value: {
-      Generic: Oostelike Australiese tyd,
-      Standard: Oostelike Australiese standaardtyd,
-      Daylight: Oostelike Australiese dagligtyd
-    }
-  },
-  {
-    Key: Australia/Darwin,
-    Value: {
-      Generic: Sentraal-Australiese tyd,
-      Standard: Sentraal-Australiese standaardtyd,
-      Daylight: Sentraal-Australiese dagligtyd
-    }
-  },
-  {
-    Key: Australia/Eucla,
-    Value: {
-      Generic: Sentraal-westelike Australiese tyd,
-      Standard: Sentraal-westelike Australiese standaard-tyd,
-      Daylight: Sentraal-westelike Australiese dagligtyd
-    }
-  },
-  {
-    Key: Australia/Hobart,
-    Value: {
-      Generic: Oostelike Australiese tyd,
-      Standard: Oostelike Australiese standaardtyd,
-      Daylight: Oostelike Australiese dagligtyd
-    }
-  },
-  {
-    Key: Australia/LHI,
-    Value: {
-      Generic: Lord Howe-tyd,
-      Standard: Lord Howe-standaardtyd,
-      Daylight: Lord Howe-dagligtyd
-    }
-  },
-  {
-    Key: Australia/Lindeman,
-    Value: {
-      Generic: Oostelike Australiese tyd,
-      Standard: Oostelike Australiese standaardtyd,
-      Daylight: Oostelike Australiese dagligtyd
-    }
-  },
-  {
-    Key: Australia/Lord_Howe,
-    Value: {
-      Generic: Lord Howe-tyd,
-      Standard: Lord Howe-standaardtyd,
-      Daylight: Lord Howe-dagligtyd
-    }
-  },
-  {
-    Key: Australia/Melbourne,
-    Value: {
-      Generic: Oostelike Australiese tyd,
-      Standard: Oostelike Australiese standaardtyd,
-      Daylight: Oostelike Australiese dagligtyd
-    }
-  },
-  {
-    Key: Australia/North,
-    Value: {
-      Generic: Sentraal-Australiese tyd,
-      Standard: Sentraal-Australiese standaardtyd,
-      Daylight: Sentraal-Australiese dagligtyd
-    }
-  },
-  {
-    Key: Australia/NSW,
-    Value: {
-      Generic: Oostelike Australiese tyd,
-      Standard: Oostelike Australiese standaardtyd,
-      Daylight: Oostelike Australiese dagligtyd
-    }
-  },
-  {
-    Key: Australia/Perth,
-    Value: {
-      Generic: Westelike Australiese tyd,
-      Standard: Westelike Australiese standaardtyd,
-      Daylight: Westelike Australiese dagligtyd
-    }
-  },
-  {
-    Key: Australia/Queensland,
-    Value: {
-      Generic: Oostelike Australiese tyd,
-      Standard: Oostelike Australiese standaardtyd,
-      Daylight: Oostelike Australiese dagligtyd
-    }
-  },
-  {
-    Key: Australia/South,
-    Value: {
-      Generic: Sentraal-Australiese tyd,
-      Standard: Sentraal-Australiese standaardtyd,
-      Daylight: Sentraal-Australiese dagligtyd
-    }
-  },
-  {
-    Key: Australia/Sydney,
-    Value: {
-      Generic: Oostelike Australiese tyd,
-      Standard: Oostelike Australiese standaardtyd,
-      Daylight: Oostelike Australiese dagligtyd
-    }
-  },
-  {
-    Key: Australia/Tasmania,
-    Value: {
-      Generic: Oostelike Australiese tyd,
-      Standard: Oostelike Australiese standaardtyd,
-      Daylight: Oostelike Australiese dagligtyd
-    }
-  },
-  {
-    Key: Australia/Victoria,
-    Value: {
-      Generic: Oostelike Australiese tyd,
-      Standard: Oostelike Australiese standaardtyd,
-      Daylight: Oostelike Australiese dagligtyd
-    }
-  },
-  {
-    Key: Australia/West,
-    Value: {
-      Generic: Westelike Australiese tyd,
-      Standard: Westelike Australiese standaardtyd,
-      Daylight: Westelike Australiese dagligtyd
-    }
-  },
-  {
-    Key: Australia/Yancowinna,
-    Value: {
-      Generic: Sentraal-Australiese tyd,
-      Standard: Sentraal-Australiese standaardtyd,
-      Daylight: Sentraal-Australiese dagligtyd
-    }
-  },
-  {
-    Key: Brazil/Acre,
-    Value: {
-      Generic: Brasilië-tyd,
-      Standard: Brasilië-standaardtyd,
-      Daylight: Brasilië-dagligtyd
-    }
-  },
-  {
-    Key: Brazil/DeNoronha,
-    Value: {
-      Generic: Fernando de Noronha-tyd,
-      Standard: Fernando de Noronha-standaardtyd,
-      Daylight: Fernando de Noronha-somertyd
-    }
-  },
-  {
-    Key: Brazil/East,
-    Value: {
-      Generic: Brasilia-tyd,
-      Standard: Brasilia-standaardtyd,
-      Daylight: Brasilia-somertyd
-    }
-  },
-  {
-    Key: Brazil/West,
-    Value: {
-      Generic: Amasone-tyd,
-      Standard: Amasone-standaardtyd,
-      Daylight: Amasone-somertyd
-    }
-  },
-  {
-    Key: Canada/Atlantic,
-    Value: {
-      Generic: Atlantiese tyd,
-      Standard: Atlantiese standaardtyd,
-      Daylight: Atlantiese dagligtyd
-    }
-  },
-  {
-    Key: Canada/Central,
-    Value: {
-      Generic: Noord-Amerikaanse sentrale tyd,
-      Standard: Noord-Amerikaanse sentrale standaardtyd,
-      Daylight: Noord-Amerikaanse sentrale dagligtyd
-    }
-  },
-  {
-    Key: Canada/Eastern,
-    Value: {
-      Generic: Noord-Amerikaanse oostelike tyd,
-      Standard: Noord-Amerikaanse oostelike standaardtyd,
-      Daylight: Noord-Amerikaanse oostelike dagligtyd
-    }
-  },
-  {
-    Key: Canada/Mountain,
-    Value: {
-      Generic: Noord-Amerikaanse bergtyd,
-      Standard: Noord-Amerikaanse berg-standaardtyd,
-      Daylight: Noord-Amerikaanse berg-dagligtyd
-    }
-  },
-  {
-    Key: Canada/Newfoundland,
-    Value: {
-      Generic: Newfoundland-tyd,
-      Standard: Newfoundland-standaardtyd,
-      Daylight: Newfoundland-dagligtyd
-    }
-  },
-  {
-    Key: Canada/Pacific,
-    Value: {
-      Generic: Pasifiese tyd,
-      Standard: Pasifiese standaardtyd,
-      Daylight: Pasifiese dagligtyd
-    }
-  },
-  {
-    Key: Canada/Saskatchewan,
-    Value: {
-      Generic: Noord-Amerikaanse sentrale tyd,
-      Standard: Noord-Amerikaanse sentrale standaardtyd,
-      Daylight: Noord-Amerikaanse sentrale dagligtyd
-    }
-  },
-  {
-    Key: Canada/Yukon,
-    Value: {
-      Generic: Yukontyd,
-      Standard: Yukontyd,
-      Daylight: Yukontyd
-    }
-  },
-  {
-    Key: CET,
-    Value: {
-      Generic: Sentraal-Europese tyd,
-      Standard: Sentraal-Europese standaardtyd,
-      Daylight: Sentraal-Europese somertyd
-    }
-  },
-  {
-    Key: Chile/Continental,
-    Value: {
-      Generic: Chili-tyd,
-      Standard: Chili-standaardtyd,
-      Daylight: Chili-somertyd
-    }
-  },
-  {
-    Key: Chile/EasterIsland,
-    Value: {
-      Generic: Paaseiland-tyd,
-      Standard: Paaseiland-standaardtyd,
-      Daylight: Paaseiland-somertyd
-    }
-  },
-  {
-    Key: CST6CDT,
-    Value: {
-      Generic: Noord-Amerikaanse sentrale tyd,
-      Standard: Noord-Amerikaanse sentrale standaardtyd,
-      Daylight: Noord-Amerikaanse sentrale dagligtyd
-    }
-  },
-  {
-    Key: Cuba,
-    Value: {
-      Generic: Kuba-tyd,
-      Standard: Kuba-standaardtyd,
-      Daylight: Kuba-dagligtyd
-    }
-  },
-  {
-    Key: EET,
-    Value: {
-      Generic: Oos-Europese tyd,
-      Standard: Oos-Europese standaardtyd,
-      Daylight: Oos-Europese somertyd
-    }
-  },
-  {
-    Key: Egypt,
-    Value: {
-      Generic: Oos-Europese tyd,
-      Standard: Oos-Europese standaardtyd,
-      Daylight: Oos-Europese somertyd
-    }
-  },
-  {
-    Key: Eire,
-    Value: {
-      Generic: Ierland-tyd,
-      Standard: Greenwich-tyd,
-      Daylight: Ierse standaardtyd
-    }
-  },
-  {
-    Key: EST,
-    Value: {
-      Generic: Gekoördineerde universele tyd -5,
-      Standard: Gekoördineerde universele tyd -5,
-      Daylight: Gekoördineerde universele tyd -5
-    }
-  },
-  {
-    Key: EST5EDT,
-    Value: {
-      Generic: Noord-Amerikaanse oostelike tyd,
-      Standard: Noord-Amerikaanse oostelike standaardtyd,
-      Daylight: Noord-Amerikaanse oostelike dagligtyd
-    }
-  },
-  {
-    Key: Etc/GMT,
-    Value: {
-      Generic: Greenwich-tyd,
-      Standard: Greenwich-tyd,
-      Daylight: Greenwich-tyd
-    }
-  },
-  {
-    Key: Etc/GMT-0,
-    Value: {
-      Generic: Greenwich-tyd,
-      Standard: Greenwich-tyd,
-      Daylight: Greenwich-tyd
-    }
-  },
-  {
-    Key: Etc/GMT-1,
-    Value: {
-      Generic: Gekoördineerde universele tyd +1,
-      Standard: Gekoördineerde universele tyd +1,
-      Daylight: Gekoördineerde universele tyd +1
-    }
-  },
-  {
-    Key: Etc/GMT-10,
-    Value: {
-      Generic: Gekoördineerde universele tyd +10,
-      Standard: Gekoördineerde universele tyd +10,
-      Daylight: Gekoördineerde universele tyd +10
-    }
-  },
-  {
-    Key: Etc/GMT-11,
-    Value: {
-      Generic: Gekoördineerde universele tyd +11,
-      Standard: Gekoördineerde universele tyd +11,
-      Daylight: Gekoördineerde universele tyd +11
-    }
-  },
-  {
-    Key: Etc/GMT-12,
-    Value: {
-      Generic: Gekoördineerde universele tyd +12,
-      Standard: Gekoördineerde universele tyd +12,
-      Daylight: Gekoördineerde universele tyd +12
-    }
-  },
-  {
-    Key: Etc/GMT-13,
-    Value: {
-      Generic: Gekoördineerde universele tyd +13,
-      Standard: Gekoördineerde universele tyd +13,
-      Daylight: Gekoördineerde universele tyd +13
-    }
-  },
-  {
-    Key: Etc/GMT-14,
-    Value: {
-      Generic: Gekoördineerde universele tyd +14,
-      Standard: Gekoördineerde universele tyd +14,
-      Daylight: Gekoördineerde universele tyd +14
-    }
-  },
-  {
-    Key: Etc/GMT-2,
-    Value: {
-      Generic: Gekoördineerde universele tyd +2,
-      Standard: Gekoördineerde universele tyd +2,
-      Daylight: Gekoördineerde universele tyd +2
-    }
-  },
-  {
-    Key: Etc/GMT-3,
-    Value: {
-      Generic: Gekoördineerde universele tyd +3,
-      Standard: Gekoördineerde universele tyd +3,
-      Daylight: Gekoördineerde universele tyd +3
-    }
-  },
-  {
-    Key: Etc/GMT-4,
-    Value: {
-      Generic: Gekoördineerde universele tyd +4,
-      Standard: Gekoördineerde universele tyd +4,
-      Daylight: Gekoördineerde universele tyd +4
-    }
-  },
-  {
-    Key: Etc/GMT-5,
-    Value: {
-      Generic: Gekoördineerde universele tyd +5,
-      Standard: Gekoördineerde universele tyd +5,
-      Daylight: Gekoördineerde universele tyd +5
-    }
-  },
-  {
-    Key: Etc/GMT-6,
-    Value: {
-      Generic: Gekoördineerde universele tyd +6,
-      Standard: Gekoördineerde universele tyd +6,
-      Daylight: Gekoördineerde universele tyd +6
-    }
-  },
-  {
-    Key: Etc/GMT-7,
-    Value: {
-      Generic: Gekoördineerde universele tyd +7,
-      Standard: Gekoördineerde universele tyd +7,
-      Daylight: Gekoördineerde universele tyd +7
-    }
-  },
-  {
-    Key: Etc/GMT-8,
-    Value: {
-      Generic: Gekoördineerde universele tyd +8,
-      Standard: Gekoördineerde universele tyd +8,
-      Daylight: Gekoördineerde universele tyd +8
-    }
-  },
-  {
-    Key: Etc/GMT-9,
-    Value: {
-      Generic: Gekoördineerde universele tyd +9,
-      Standard: Gekoördineerde universele tyd +9,
-      Daylight: Gekoördineerde universele tyd +9
-    }
-  },
-  {
-    Key: Etc/GMT+0,
-    Value: {
-      Generic: Greenwich-tyd,
-      Standard: Greenwich-tyd,
-      Daylight: Greenwich-tyd
-    }
-  },
-  {
-    Key: Etc/GMT+1,
-    Value: {
-      Generic: Gekoördineerde universele tyd -1,
-      Standard: Gekoördineerde universele tyd -1,
-      Daylight: Gekoördineerde universele tyd -1
-    }
-  },
-  {
-    Key: Etc/GMT+10,
-    Value: {
-      Generic: Gekoördineerde universele tyd -10,
-      Standard: Gekoördineerde universele tyd -10,
-      Daylight: Gekoördineerde universele tyd -10
-    }
-  },
-  {
-    Key: Etc/GMT+11,
-    Value: {
-      Generic: Gekoördineerde universele tyd -11,
-      Standard: Gekoördineerde universele tyd -11,
-      Daylight: Gekoördineerde universele tyd -11
-    }
-  },
-  {
-    Key: Etc/GMT+12,
-    Value: {
-      Generic: Gekoördineerde universele tyd -12,
-      Standard: Gekoördineerde universele tyd -12,
-      Daylight: Gekoördineerde universele tyd -12
-    }
-  },
-  {
-    Key: Etc/GMT+2,
-    Value: {
-      Generic: Gekoördineerde universele tyd -2,
-      Standard: Gekoördineerde universele tyd -2,
-      Daylight: Gekoördineerde universele tyd -2
-    }
-  },
-  {
-    Key: Etc/GMT+3,
-    Value: {
-      Generic: Gekoördineerde universele tyd -3,
-      Standard: Gekoördineerde universele tyd -3,
-      Daylight: Gekoördineerde universele tyd -3
-    }
-  },
-  {
-    Key: Etc/GMT+4,
-    Value: {
-      Generic: Gekoördineerde universele tyd -4,
-      Standard: Gekoördineerde universele tyd -4,
-      Daylight: Gekoördineerde universele tyd -4
-    }
-  },
-  {
-    Key: Etc/GMT+5,
-    Value: {
-      Generic: Gekoördineerde universele tyd -5,
-      Standard: Gekoördineerde universele tyd -5,
-      Daylight: Gekoördineerde universele tyd -5
-    }
-  },
-  {
-    Key: Etc/GMT+6,
-    Value: {
-      Generic: Gekoördineerde universele tyd -6,
-      Standard: Gekoördineerde universele tyd -6,
-      Daylight: Gekoördineerde universele tyd -6
-    }
-  },
-  {
-    Key: Etc/GMT+7,
-    Value: {
-      Generic: Gekoördineerde universele tyd -7,
-      Standard: Gekoördineerde universele tyd -7,
-      Daylight: Gekoördineerde universele tyd -7
-    }
-  },
-  {
-    Key: Etc/GMT+8,
-    Value: {
-      Generic: Gekoördineerde universele tyd -8,
-      Standard: Gekoördineerde universele tyd -8,
-      Daylight: Gekoördineerde universele tyd -8
-    }
-  },
-  {
-    Key: Etc/GMT+9,
-    Value: {
-      Generic: Gekoördineerde universele tyd -9,
-      Standard: Gekoördineerde universele tyd -9,
-      Daylight: Gekoördineerde universele tyd -9
-    }
-  },
-  {
-    Key: Etc/GMT0,
-    Value: {
-      Generic: Greenwich-tyd,
-      Standard: Greenwich-tyd,
-      Daylight: Greenwich-tyd
-    }
-  },
-  {
-    Key: Etc/Greenwich,
-    Value: {
-      Generic: Greenwich-tyd,
-      Standard: Greenwich-tyd,
-      Daylight: Greenwich-tyd
-    }
-  },
-  {
-    Key: Etc/UCT,
-    Value: {
-      Generic: Gekoördineerde universele tyd,
-      Standard: Gekoördineerde universele tyd,
-      Daylight: Gekoördineerde universele tyd
-    }
-  },
-  {
-    Key: Etc/Universal,
-    Value: {
-      Generic: Gekoördineerde universele tyd,
-      Standard: Gekoördineerde universele tyd,
-      Daylight: Gekoördineerde universele tyd
-    }
-  },
-  {
-    Key: Etc/UTC,
-    Value: {
-      Generic: Gekoördineerde universele tyd,
-      Standard: Gekoördineerde universele tyd,
-      Daylight: Gekoördineerde universele tyd
-    }
-  },
-  {
-    Key: Etc/Zulu,
-    Value: {
-      Generic: Gekoördineerde universele tyd,
-      Standard: Gekoördineerde universele tyd,
-      Daylight: Gekoördineerde universele tyd
-    }
-  },
-  {
-    Key: Europe/Amsterdam,
-    Value: {
-      Generic: Sentraal-Europese tyd,
-      Standard: Sentraal-Europese standaardtyd,
-      Daylight: Sentraal-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Andorra,
-    Value: {
-      Generic: Sentraal-Europese tyd,
-      Standard: Sentraal-Europese standaardtyd,
-      Daylight: Sentraal-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Astrakhan,
-    Value: {
-      Generic: Astrakhan-tyd,
-      Standard: Astrakhan-standaardtyd,
-      Daylight: Astrakhan-dagligtyd
-    }
-  },
-  {
-    Key: Europe/Athens,
-    Value: {
-      Generic: Oos-Europese tyd,
-      Standard: Oos-Europese standaardtyd,
-      Daylight: Oos-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Belfast,
-    Value: {
-      Generic: Verenigde Koninkryk-tyd,
-      Standard: Greenwich-tyd,
-      Daylight: Britse somertyd
-    }
-  },
-  {
-    Key: Europe/Belgrade,
-    Value: {
-      Generic: Sentraal-Europese tyd,
-      Standard: Sentraal-Europese standaardtyd,
-      Daylight: Sentraal-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Berlin,
-    Value: {
-      Generic: Sentraal-Europese tyd,
-      Standard: Sentraal-Europese standaardtyd,
-      Daylight: Sentraal-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Bratislava,
-    Value: {
-      Generic: Sentraal-Europese tyd,
-      Standard: Sentraal-Europese standaardtyd,
-      Daylight: Sentraal-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Brussels,
-    Value: {
-      Generic: Sentraal-Europese tyd,
-      Standard: Sentraal-Europese standaardtyd,
-      Daylight: Sentraal-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Bucharest,
-    Value: {
-      Generic: Oos-Europese tyd,
-      Standard: Oos-Europese standaardtyd,
-      Daylight: Oos-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Budapest,
-    Value: {
-      Generic: Sentraal-Europese tyd,
-      Standard: Sentraal-Europese standaardtyd,
-      Daylight: Sentraal-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Busingen,
-    Value: {
-      Generic: Sentraal-Europese tyd,
-      Standard: Sentraal-Europese standaardtyd,
-      Daylight: Sentraal-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Chisinau,
-    Value: {
-      Generic: Oos-Europese tyd,
-      Standard: Oos-Europese standaardtyd,
-      Daylight: Oos-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Copenhagen,
-    Value: {
-      Generic: Sentraal-Europese tyd,
-      Standard: Sentraal-Europese standaardtyd,
-      Daylight: Sentraal-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Dublin,
-    Value: {
-      Generic: Ierland-tyd,
-      Standard: Greenwich-tyd,
-      Daylight: Ierse standaardtyd
-    }
-  },
-  {
-    Key: Europe/Gibraltar,
-    Value: {
-      Generic: Sentraal-Europese tyd,
-      Standard: Sentraal-Europese standaardtyd,
-      Daylight: Sentraal-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Guernsey,
-    Value: {
-      Generic: Greenwich-tyd,
-      Standard: Greenwich-tyd,
-      Daylight: Greenwich-tyd
-    }
-  },
-  {
-    Key: Europe/Helsinki,
-    Value: {
-      Generic: Oos-Europese tyd,
-      Standard: Oos-Europese standaardtyd,
-      Daylight: Oos-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Isle_of_Man,
-    Value: {
-      Generic: Greenwich-tyd,
-      Standard: Greenwich-tyd,
-      Daylight: Greenwich-tyd
-    }
-  },
-  {
-    Key: Europe/Istanbul,
-    Value: {
-      Generic: Turkye-tyd,
-      Standard: Turkye-standaardtyd,
-      Daylight: Turkye-dagligtyd
-    }
-  },
-  {
-    Key: Europe/Jersey,
-    Value: {
-      Generic: Greenwich-tyd,
-      Standard: Greenwich-tyd,
-      Daylight: Greenwich-tyd
-    }
-  },
-  {
-    Key: Europe/Kaliningrad,
-    Value: {
-      Generic: Kaliningrad-tyd,
-      Standard: Kaliningrad-standaardtyd,
-      Daylight: Kaliningrad-dagligtyd
-    }
-  },
-  {
-    Key: Europe/Kiev,
-    Value: {
-      Generic: Oos-Europese tyd,
-      Standard: Oos-Europese standaardtyd,
-      Daylight: Oos-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Kirov,
-    Value: {
-      Generic: Kirov-tyd,
-      Standard: Kirov-standaardtyd,
-      Daylight: Kirov-dagligtyd
-    }
-  },
-  {
-    Key: Europe/Kyiv,
-    Value: {
-      Generic: Oekraïne-tyd,
-      Standard: Oekraïne-standaardtyd,
-      Daylight: Oekraïne-dagligtyd
-    }
-  },
-  {
-    Key: Europe/Lisbon,
-    Value: {
-      Generic: Wes-Europese tyd,
-      Standard: Wes-Europese standaardtyd,
-      Daylight: Wes-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Ljubljana,
-    Value: {
-      Generic: Sentraal-Europese tyd,
-      Standard: Sentraal-Europese standaardtyd,
-      Daylight: Sentraal-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/London,
-    Value: {
-      Generic: Verenigde Koninkryk-tyd,
-      Standard: Greenwich-tyd,
-      Daylight: Britse somertyd
-    }
-  },
-  {
-    Key: Europe/Luxembourg,
-    Value: {
-      Generic: Sentraal-Europese tyd,
-      Standard: Sentraal-Europese standaardtyd,
-      Daylight: Sentraal-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Madrid,
-    Value: {
-      Generic: Sentraal-Europese tyd,
-      Standard: Sentraal-Europese standaardtyd,
-      Daylight: Sentraal-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Malta,
-    Value: {
-      Generic: Sentraal-Europese tyd,
-      Standard: Sentraal-Europese standaardtyd,
-      Daylight: Sentraal-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Mariehamn,
-    Value: {
-      Generic: Oos-Europese tyd,
-      Standard: Oos-Europese standaardtyd,
-      Daylight: Oos-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Minsk,
-    Value: {
-      Generic: Moskou-tyd,
-      Standard: Moskou-standaardtyd,
-      Daylight: Moskou-somertyd
-    }
-  },
-  {
-    Key: Europe/Monaco,
-    Value: {
-      Generic: Sentraal-Europese tyd,
-      Standard: Sentraal-Europese standaardtyd,
-      Daylight: Sentraal-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Moscow,
-    Value: {
-      Generic: Moskou-tyd,
-      Standard: Moskou-standaardtyd,
-      Daylight: Moskou-dagligtyd
-    }
-  },
-  {
-    Key: Europe/Nicosia,
-    Value: {
-      Generic: Oos-Europese tyd,
-      Standard: Oos-Europese standaardtyd,
-      Daylight: Oos-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Oslo,
-    Value: {
-      Generic: Sentraal-Europese tyd,
-      Standard: Sentraal-Europese standaardtyd,
-      Daylight: Sentraal-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Paris,
-    Value: {
-      Generic: Sentraal-Europese tyd,
-      Standard: Sentraal-Europese standaardtyd,
-      Daylight: Sentraal-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Podgorica,
-    Value: {
-      Generic: Sentraal-Europese tyd,
-      Standard: Sentraal-Europese standaardtyd,
-      Daylight: Sentraal-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Prague,
-    Value: {
-      Generic: Sentraal-Europese tyd,
-      Standard: Sentraal-Europese standaardtyd,
-      Daylight: Sentraal-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Riga,
-    Value: {
-      Generic: Oos-Europese tyd,
-      Standard: Oos-Europese standaardtyd,
-      Daylight: Oos-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Rome,
-    Value: {
-      Generic: Sentraal-Europese tyd,
-      Standard: Sentraal-Europese standaardtyd,
-      Daylight: Sentraal-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Samara,
-    Value: {
-      Generic: Samara-tyd,
-      Standard: Samara-standaardtyd,
-      Daylight: Samara-dagligtyd
-    }
-  },
-  {
-    Key: Europe/San_Marino,
-    Value: {
-      Generic: Sentraal-Europese tyd,
-      Standard: Sentraal-Europese standaardtyd,
-      Daylight: Sentraal-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Sarajevo,
-    Value: {
-      Generic: Sentraal-Europese tyd,
-      Standard: Sentraal-Europese standaardtyd,
-      Daylight: Sentraal-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Saratov,
-    Value: {
-      Generic: Saratof-tyd,
-      Standard: Saratof-standaardtyd,
-      Daylight: Saratof-dagligtyd
-    }
-  },
-  {
-    Key: Europe/Simferopol,
-    Value: {
-      Generic: Moskou-tyd,
-      Standard: Moskou-standaardtyd,
-      Daylight: Moskou-somertyd
-    }
-  },
-  {
-    Key: Europe/Skopje,
-    Value: {
-      Generic: Sentraal-Europese tyd,
-      Standard: Sentraal-Europese standaardtyd,
-      Daylight: Sentraal-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Sofia,
-    Value: {
-      Generic: Oos-Europese tyd,
-      Standard: Oos-Europese standaardtyd,
-      Daylight: Oos-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Stockholm,
-    Value: {
-      Generic: Sentraal-Europese tyd,
-      Standard: Sentraal-Europese standaardtyd,
-      Daylight: Sentraal-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Tallinn,
-    Value: {
-      Generic: Oos-Europese tyd,
-      Standard: Oos-Europese standaardtyd,
-      Daylight: Oos-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Tirane,
-    Value: {
-      Generic: Sentraal-Europese tyd,
-      Standard: Sentraal-Europese standaardtyd,
-      Daylight: Sentraal-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Tiraspol,
-    Value: {
-      Generic: Oos-Europese tyd,
-      Standard: Oos-Europese standaardtyd,
-      Daylight: Oos-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Ulyanovsk,
-    Value: {
-      Generic: Ulyanovsk-tyd,
-      Standard: Ulyanovsk-standaardtyd,
-      Daylight: Ulyanovsk-dagligtyd
-    }
-  },
-  {
-    Key: Europe/Uzhgorod,
-    Value: {
-      Generic: Oos-Europese tyd,
-      Standard: Oos-Europese standaardtyd,
-      Daylight: Oos-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Vaduz,
-    Value: {
-      Generic: Sentraal-Europese tyd,
-      Standard: Sentraal-Europese standaardtyd,
-      Daylight: Sentraal-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Vatican,
-    Value: {
-      Generic: Sentraal-Europese tyd,
-      Standard: Sentraal-Europese standaardtyd,
-      Daylight: Sentraal-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Vienna,
-    Value: {
-      Generic: Sentraal-Europese tyd,
-      Standard: Sentraal-Europese standaardtyd,
-      Daylight: Sentraal-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Vilnius,
-    Value: {
-      Generic: Oos-Europese tyd,
-      Standard: Oos-Europese standaardtyd,
-      Daylight: Oos-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Volgograd,
-    Value: {
-      Generic: Wolgograd-tyd,
-      Standard: Wolgograd-standaardtyd,
-      Daylight: Wolgograd-dagligtyd
-    }
-  },
-  {
-    Key: Europe/Warsaw,
-    Value: {
-      Generic: Sentraal-Europese tyd,
-      Standard: Sentraal-Europese standaardtyd,
-      Daylight: Sentraal-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Zagreb,
-    Value: {
-      Generic: Sentraal-Europese tyd,
-      Standard: Sentraal-Europese standaardtyd,
-      Daylight: Sentraal-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Zaporozhye,
-    Value: {
-      Generic: Oos-Europese tyd,
-      Standard: Oos-Europese standaardtyd,
-      Daylight: Oos-Europese somertyd
-    }
-  },
-  {
-    Key: Europe/Zurich,
-    Value: {
-      Generic: Sentraal-Europese tyd,
-      Standard: Sentraal-Europese standaardtyd,
-      Daylight: Sentraal-Europese somertyd
-    }
-  },
-  {
-    Key: GB,
-    Value: {
-      Generic: Verenigde Koninkryk-tyd,
-      Standard: Greenwich-tyd,
-      Daylight: Britse somertyd
-    }
-  },
-  {
-    Key: GB-Eire,
-    Value: {
-      Generic: Verenigde Koninkryk-tyd,
-      Standard: Greenwich-tyd,
-      Daylight: Britse somertyd
-    }
-  },
-  {
-    Key: GMT,
-    Value: {
-      Generic: Greenwich-tyd,
-      Standard: Greenwich-tyd,
-      Daylight: Greenwich-tyd
-    }
-  },
-  {
-    Key: GMT-0,
-    Value: {
-      Generic: Greenwich-tyd,
-      Standard: Greenwich-tyd,
-      Daylight: Greenwich-tyd
-    }
-  },
-  {
-    Key: GMT+0,
-    Value: {
-      Generic: Greenwich-tyd,
-      Standard: Greenwich-tyd,
-      Daylight: Greenwich-tyd
-    }
-  },
-  {
-    Key: GMT0,
-    Value: {
-      Generic: Greenwich-tyd,
-      Standard: Greenwich-tyd,
-      Daylight: Greenwich-tyd
-    }
-  },
-  {
-    Key: Greenwich,
-    Value: {
-      Generic: Greenwich-tyd,
-      Standard: Greenwich-tyd,
-      Daylight: Greenwich-tyd
-    }
-  },
-  {
-    Key: Hongkong,
-    Value: {
-      Generic: Hongkong-tyd,
-      Standard: Hongkong-standaardtyd,
-      Daylight: Hongkong-somertyd
-    }
-  },
-  {
-    Key: HST,
-    Value: {
-      Generic: Gekoördineerde universele tyd -10,
-      Standard: Gekoördineerde universele tyd -10,
-      Daylight: Gekoördineerde universele tyd -10
-    }
-  },
-  {
-    Key: Iceland,
-    Value: {
-      Generic: Greenwich-tyd,
-      Standard: Greenwich-tyd,
-      Daylight: Greenwich-tyd
-    }
-  },
-  {
-    Key: Indian/Antananarivo,
-    Value: {
-      Generic: Oos-Afrika-tyd,
-      Standard: Oos-Afrika-tyd,
-      Daylight: Oos-Afrika-tyd
-    }
-  },
-  {
-    Key: Indian/Chagos,
-    Value: {
-      Generic: Indiese Oseaan-tyd,
-      Standard: Indiese Oseaan-tyd,
-      Daylight: Indiese Oseaan-tyd
-    }
-  },
-  {
-    Key: Indian/Christmas,
-    Value: {
-      Generic: Christmaseiland-tyd,
-      Standard: Christmaseiland-tyd,
-      Daylight: Christmaseiland-tyd
-    }
-  },
-  {
-    Key: Indian/Cocos,
-    Value: {
-      Generic: Kokoseilande-tyd,
-      Standard: Kokoseilande-tyd,
-      Daylight: Kokoseilande-tyd
-    }
-  },
-  {
-    Key: Indian/Comoro,
-    Value: {
-      Generic: Oos-Afrika-tyd,
-      Standard: Oos-Afrika-tyd,
-      Daylight: Oos-Afrika-tyd
-    }
-  },
-  {
-    Key: Indian/Kerguelen,
-    Value: {
-      Generic: Franse Suider- en Antarktiese tyd,
-      Standard: Franse Suider- en Antarktiese tyd,
-      Daylight: Franse Suider- en Antarktiese tyd
-    }
-  },
-  {
-    Key: Indian/Mahe,
-    Value: {
-      Generic: Seychelle-tyd,
-      Standard: Seychelle-tyd,
-      Daylight: Seychelle-tyd
-    }
-  },
-  {
-    Key: Indian/Maldives,
-    Value: {
-      Generic: Maledive-tyd,
-      Standard: Maledive-tyd,
-      Daylight: Maledive-tyd
-    }
-  },
-  {
-    Key: Indian/Mauritius,
-    Value: {
-      Generic: Mauritius-tyd,
-      Standard: Mauritius-standaardtyd,
-      Daylight: Mauritius-somertyd
-    }
-  },
-  {
-    Key: Indian/Mayotte,
-    Value: {
-      Generic: Oos-Afrika-tyd,
-      Standard: Oos-Afrika-tyd,
-      Daylight: Oos-Afrika-tyd
-    }
-  },
-  {
-    Key: Indian/Reunion,
-    Value: {
-      Generic: Réunion-tyd,
-      Standard: Réunion-tyd,
-      Daylight: Réunion-tyd
-    }
-  },
-  {
-    Key: Iran,
-    Value: {
-      Generic: Iran-tyd,
-      Standard: Iran-standaardtyd,
-      Daylight: Iran-dagligtyd
-    }
-  },
-  {
-    Key: Israel,
-    Value: {
-      Generic: Israel-tyd,
-      Standard: Israel-standaardtyd,
-      Daylight: Israel-dagligtyd
-    }
-  },
-  {
-    Key: Jamaica,
-    Value: {
-      Generic: Noord-Amerikaanse oostelike tyd,
-      Standard: Noord-Amerikaanse oostelike standaardtyd,
-      Daylight: Noord-Amerikaanse oostelike dagligtyd
-    }
-  },
-  {
-    Key: Japan,
-    Value: {
-      Generic: Japan-tyd,
-      Standard: Japan-standaardtyd,
-      Daylight: Japan-dagligtyd
-    }
-  },
-  {
-    Key: Kwajalein,
-    Value: {
-      Generic: Marshalleilande-tyd,
-      Standard: Marshalleilande-tyd,
-      Daylight: Marshalleilande-tyd
-    }
-  },
-  {
-    Key: Libya,
-    Value: {
-      Generic: Oos-Europese tyd,
-      Standard: Oos-Europese standaardtyd,
-      Daylight: Oos-Europese somertyd
-    }
-  },
-  {
-    Key: MET,
-    Value: {
-      Generic: Sentraal-Europese tyd,
-      Standard: Sentraal-Europese standaardtyd,
-      Daylight: Sentraal-Europese somertyd
-    }
-  },
-  {
-    Key: Mexico/BajaNorte,
-    Value: {
-      Generic: Pasifiese tyd,
-      Standard: Pasifiese standaardtyd,
-      Daylight: Pasifiese dagligtyd
-    }
-  },
-  {
-    Key: Mexico/BajaSur,
-    Value: {
-      Generic: Meksikaanse Pasifiese tyd,
-      Standard: Meksikaanse Pasifiese standaardtyd,
-      Daylight: Meksikaanse Pasifiese dagligtyd
-    }
-  },
-  {
-    Key: Mexico/General,
-    Value: {
-      Generic: Noord-Amerikaanse sentrale tyd,
-      Standard: Noord-Amerikaanse sentrale standaardtyd,
-      Daylight: Noord-Amerikaanse sentrale dagligtyd
-    }
-  },
-  {
-    Key: MST,
-    Value: {
-      Generic: Gekoördineerde universele tyd -7,
-      Standard: Gekoördineerde universele tyd -7,
-      Daylight: Gekoördineerde universele tyd -7
-    }
-  },
-  {
-    Key: MST7MDT,
-    Value: {
-      Generic: Noord-Amerikaanse bergtyd,
-      Standard: Noord-Amerikaanse berg-standaardtyd,
-      Daylight: Noord-Amerikaanse berg-dagligtyd
-    }
-  },
-  {
-    Key: Navajo,
-    Value: {
-      Generic: Noord-Amerikaanse bergtyd,
-      Standard: Noord-Amerikaanse berg-standaardtyd,
-      Daylight: Noord-Amerikaanse berg-dagligtyd
-    }
-  },
-  {
-    Key: NZ,
-    Value: {
-      Generic: Nieu-Seeland-tyd,
-      Standard: Nieu-Seeland-standaardtyd,
-      Daylight: Nieu-Seeland-dagligtyd
-    }
-  },
-  {
-    Key: NZ-CHAT,
-    Value: {
-      Generic: Chatham-tyd,
-      Standard: Chatham-standaardtyd,
-      Daylight: Chatham-dagligtyd
-    }
-  },
-  {
-    Key: Pacific/Apia,
-    Value: {
-      Generic: Apia-tyd,
-      Standard: Apia-standaardtyd,
-      Daylight: Apia-dagligtyd
-    }
-  },
-  {
-    Key: Pacific/Auckland,
-    Value: {
-      Generic: Nieu-Seeland-tyd,
-      Standard: Nieu-Seeland-standaardtyd,
-      Daylight: Nieu-Seeland-dagligtyd
-    }
-  },
-  {
-    Key: Pacific/Bougainville,
-    Value: {
-      Generic: Papoea-Nieu-Guinee-tyd,
-      Standard: Papoea-Nieu-Guinee-tyd,
-      Daylight: Papoea-Nieu-Guinee-tyd
-    }
-  },
-  {
-    Key: Pacific/Chatham,
-    Value: {
-      Generic: Chatham-tyd,
-      Standard: Chatham-standaardtyd,
-      Daylight: Chatham-dagligtyd
-    }
-  },
-  {
-    Key: Pacific/Chuuk,
-    Value: {
-      Generic: Chuuk-tyd,
-      Standard: Chuuk-tyd,
-      Daylight: Chuuk-tyd
-    }
-  },
-  {
-    Key: Pacific/Easter,
-    Value: {
-      Generic: Paaseiland-tyd,
-      Standard: Paaseiland-standaardtyd,
-      Daylight: Paaseiland-somertyd
-    }
-  },
-  {
-    Key: Pacific/Efate,
-    Value: {
-      Generic: Vanuatu-tyd,
-      Standard: Vanuatu-standaardtyd,
-      Daylight: Vanuatu-somertyd
-    }
-  },
-  {
-    Key: Pacific/Enderbury,
-    Value: {
-      Generic: Fenikseilande-tyd,
-      Standard: Fenikseilande-tyd,
-      Daylight: Fenikseilande-tyd
-    }
-  },
-  {
-    Key: Pacific/Fakaofo,
-    Value: {
-      Generic: Tokelau-tyd,
-      Standard: Tokelau-tyd,
-      Daylight: Tokelau-tyd
-    }
-  },
-  {
-    Key: Pacific/Fiji,
-    Value: {
-      Generic: Fidji-tyd,
-      Standard: Fidji-standaardtyd,
-      Daylight: Fidji-somertyd
-    }
-  },
-  {
-    Key: Pacific/Funafuti,
-    Value: {
-      Generic: Tuvalu-tyd,
-      Standard: Tuvalu-tyd,
-      Daylight: Tuvalu-tyd
-    }
-  },
-  {
-    Key: Pacific/Galapagos,
-    Value: {
-      Generic: Galapagos-tyd,
-      Standard: Galapagos-tyd,
-      Daylight: Galapagos-tyd
-    }
-  },
-  {
-    Key: Pacific/Gambier,
-    Value: {
-      Generic: Gambier-tyd,
-      Standard: Gambier-tyd,
-      Daylight: Gambier-tyd
-    }
-  },
-  {
-    Key: Pacific/Guadalcanal,
-    Value: {
-      Generic: Salomonseilande-tyd,
-      Standard: Salomonseilande-tyd,
-      Daylight: Salomonseilande-tyd
-    }
-  },
-  {
-    Key: Pacific/Guam,
-    Value: {
-      Generic: Chamorro-standaardtyd,
-      Standard: Chamorro-standaardtyd,
-      Daylight: Chamorro-standaardtyd
-    }
-  },
-  {
-    Key: Pacific/Honolulu,
-    Value: {
-      Generic: Hawaii-Aleoete-tyd,
-      Standard: Hawaii-Aleoete-standaardtyd,
-      Daylight: Hawaii-Aleoete-dagligtyd
-    }
-  },
-  {
-    Key: Pacific/Johnston,
-    Value: {
-      Generic: Hawaii-Aleoete-tyd,
-      Standard: Hawaii-Aleoete-standaardtyd,
-      Daylight: Hawaii-Aleoete-dagligtyd
-    }
-  },
-  {
-    Key: Pacific/Kanton,
-    Value: {
-      Generic: Fenikseilande-tyd,
-      Standard: Fenikseilande-tyd,
-      Daylight: Fenikseilande-tyd
-    }
-  },
-  {
-    Key: Pacific/Kiritimati,
-    Value: {
-      Generic: Line-eilande-tyd,
-      Standard: Line-eilande-tyd,
-      Daylight: Line-eilande-tyd
-    }
-  },
-  {
-    Key: Pacific/Kosrae,
-    Value: {
-      Generic: Kosrae-tyd,
-      Standard: Kosrae-tyd,
-      Daylight: Kosrae-tyd
-    }
-  },
-  {
-    Key: Pacific/Kwajalein,
-    Value: {
-      Generic: Marshalleilande-tyd,
-      Standard: Marshalleilande-tyd,
-      Daylight: Marshalleilande-tyd
-    }
-  },
-  {
-    Key: Pacific/Majuro,
-    Value: {
-      Generic: Marshalleilande-tyd,
-      Standard: Marshalleilande-tyd,
-      Daylight: Marshalleilande-tyd
-    }
-  },
-  {
-    Key: Pacific/Marquesas,
-    Value: {
-      Generic: Marquesas-tyd,
-      Standard: Marquesas-tyd,
-      Daylight: Marquesas-tyd
-    }
-  },
-  {
-    Key: Pacific/Midway,
-    Value: {
-      Generic: Samoa-tyd,
-      Standard: Samoa-standaardtyd,
-      Daylight: Samoa-dagligtyd
-    }
-  },
-  {
-    Key: Pacific/Nauru,
-    Value: {
-      Generic: Nauru-tyd,
-      Standard: Nauru-tyd,
-      Daylight: Nauru-tyd
-    }
-  },
-  {
-    Key: Pacific/Niue,
-    Value: {
-      Generic: Niue-tyd,
-      Standard: Niue-tyd,
-      Daylight: Niue-tyd
-    }
-  },
-  {
-    Key: Pacific/Norfolk,
-    Value: {
-      Generic: Norfolkeiland-tyd,
-      Standard: Norfolkeiland-standaardtyd,
-      Daylight: Norfolkeiland-dagligtyd
-    }
-  },
-  {
-    Key: Pacific/Noumea,
-    Value: {
-      Generic: Nieu-Kaledonië-tyd,
-      Standard: Nieu-Kaledonië-standaardtyd,
-      Daylight: Nieu-Kaledonië-somertyd
-    }
-  },
-  {
-    Key: Pacific/Pago_Pago,
-    Value: {
-      Generic: Samoa-tyd,
-      Standard: Samoa-standaardtyd,
-      Daylight: Samoa-dagligtyd
-    }
-  },
-  {
-    Key: Pacific/Palau,
-    Value: {
-      Generic: Palau-tyd,
-      Standard: Palau-tyd,
-      Daylight: Palau-tyd
-    }
-  },
-  {
-    Key: Pacific/Pitcairn,
-    Value: {
-      Generic: Pitcairn-tyd,
-      Standard: Pitcairn-tyd,
-      Daylight: Pitcairn-tyd
-    }
-  },
-  {
-    Key: Pacific/Pohnpei,
-    Value: {
-      Generic: Ponape-tyd,
-      Standard: Ponape-tyd,
-      Daylight: Ponape-tyd
-    }
-  },
-  {
-    Key: Pacific/Ponape,
-    Value: {
-      Generic: Ponape-tyd,
-      Standard: Ponape-tyd,
-      Daylight: Ponape-tyd
-    }
-  },
-  {
-    Key: Pacific/Port_Moresby,
-    Value: {
-      Generic: Papoea-Nieu-Guinee-tyd,
-      Standard: Papoea-Nieu-Guinee-tyd,
-      Daylight: Papoea-Nieu-Guinee-tyd
-    }
-  },
-  {
-    Key: Pacific/Rarotonga,
-    Value: {
-      Generic: Cookeilande-tyd,
-      Standard: Cookeilande-standaardtyd,
-      Daylight: Cookeilande-halfsomertyd
-    }
-  },
-  {
-    Key: Pacific/Saipan,
-    Value: {
-      Generic: Chamorro-standaardtyd,
-      Standard: Chamorro-standaardtyd,
-      Daylight: Chamorro-standaardtyd
-    }
-  },
-  {
-    Key: Pacific/Samoa,
-    Value: {
-      Generic: Samoa-tyd,
-      Standard: Samoa-standaardtyd,
-      Daylight: Samoa-dagligtyd
-    }
-  },
-  {
-    Key: Pacific/Tahiti,
-    Value: {
-      Generic: Tahiti-tyd,
-      Standard: Tahiti-tyd,
-      Daylight: Tahiti-tyd
-    }
-  },
-  {
-    Key: Pacific/Tarawa,
-    Value: {
-      Generic: Gilberteilande-tyd,
-      Standard: Gilberteilande-tyd,
-      Daylight: Gilberteilande-tyd
-    }
-  },
-  {
-    Key: Pacific/Tongatapu,
-    Value: {
-      Generic: Tonga-tyd,
-      Standard: Tonga-standaardtyd,
-      Daylight: Tonga-somertyd
-    }
-  },
-  {
-    Key: Pacific/Truk,
-    Value: {
-      Generic: Chuuk-tyd,
-      Standard: Chuuk-tyd,
-      Daylight: Chuuk-tyd
-    }
-  },
-  {
-    Key: Pacific/Wake,
-    Value: {
-      Generic: Wake-eiland-tyd,
-      Standard: Wake-eiland-tyd,
-      Daylight: Wake-eiland-tyd
-    }
-  },
-  {
-    Key: Pacific/Wallis,
-    Value: {
-      Generic: Wallis en Futuna-tyd,
-      Standard: Wallis en Futuna-tyd,
-      Daylight: Wallis en Futuna-tyd
-    }
-  },
-  {
-    Key: Pacific/Yap,
-    Value: {
-      Generic: Chuuk-tyd,
-      Standard: Chuuk-tyd,
-      Daylight: Chuuk-tyd
-    }
-  },
-  {
-    Key: Poland,
-    Value: {
-      Generic: Sentraal-Europese tyd,
-      Standard: Sentraal-Europese standaardtyd,
-      Daylight: Sentraal-Europese somertyd
-    }
-  },
-  {
-    Key: Portugal,
-    Value: {
-      Generic: Wes-Europese tyd,
-      Standard: Wes-Europese standaardtyd,
-      Daylight: Wes-Europese somertyd
-    }
-  },
-  {
-    Key: PRC,
-    Value: {
-      Generic: China-tyd,
-      Standard: China-standaardtyd,
-      Daylight: China-dagligtyd
-    }
-  },
-  {
-    Key: PST8PDT,
-    Value: {
-      Generic: Pasifiese tyd,
-      Standard: Pasifiese standaardtyd,
-      Daylight: Pasifiese dagligtyd
-    }
-  },
-  {
-    Key: ROC,
-    Value: {
-      Generic: Taipei-tyd,
-      Standard: Taipei-standaardtyd,
-      Daylight: Taipei-dagligtyd
-    }
-  },
-  {
-    Key: ROK,
-    Value: {
-      Generic: Koreaanse tyd,
-      Standard: Koreaanse standaardtyd,
-      Daylight: Koreaanse dagligtyd
-    }
-  },
-  {
-    Key: Singapore,
-    Value: {
-      Generic: Singapoer-standaardtyd,
-      Standard: Singapoer-standaardtyd,
-      Daylight: Singapoer-standaardtyd
-    }
-  },
-  {
-    Key: Turkey,
-    Value: {
-      Generic: Turkye-tyd,
-      Standard: Turkye-standaardtyd,
-      Daylight: Turkye-dagligtyd
-    }
-  },
-  {
-    Key: UCT,
-    Value: {
-      Generic: Gekoördineerde universele tyd,
-      Standard: Gekoördineerde universele tyd,
-      Daylight: Gekoördineerde universele tyd
-    }
-  },
-  {
-    Key: Universal,
-    Value: {
-      Generic: Gekoördineerde universele tyd,
-      Standard: Gekoördineerde universele tyd,
-      Daylight: Gekoördineerde universele tyd
-    }
-  },
-  {
-    Key: US/Alaska,
-    Value: {
-      Generic: Alaska-tyd,
-      Standard: Alaska-standaardtyd,
-      Daylight: Alaska-dagligtyd
-    }
-  },
-  {
-    Key: US/Aleutian,
-    Value: {
-      Generic: Hawaii-Aleoete-tyd,
-      Standard: Hawaii-Aleoete-standaardtyd,
-      Daylight: Hawaii-Aleoete-dagligtyd
-    }
-  },
-  {
-    Key: US/Arizona,
-    Value: {
-      Generic: Noord-Amerikaanse bergtyd,
-      Standard: Noord-Amerikaanse berg-standaardtyd,
-      Daylight: Noord-Amerikaanse berg-dagligtyd
-    }
-  },
-  {
-    Key: US/Central,
-    Value: {
-      Generic: Noord-Amerikaanse sentrale tyd,
-      Standard: Noord-Amerikaanse sentrale standaardtyd,
-      Daylight: Noord-Amerikaanse sentrale dagligtyd
-    }
-  },
-  {
-    Key: US/East-Indiana,
-    Value: {
-      Generic: Noord-Amerikaanse oostelike tyd,
-      Standard: Noord-Amerikaanse oostelike standaardtyd,
-      Daylight: Noord-Amerikaanse oostelike dagligtyd
-    }
-  },
-  {
-    Key: US/Eastern,
-    Value: {
-      Generic: Noord-Amerikaanse oostelike tyd,
-      Standard: Noord-Amerikaanse oostelike standaardtyd,
-      Daylight: Noord-Amerikaanse oostelike dagligtyd
-    }
-  },
-  {
-    Key: US/Hawaii,
-    Value: {
-      Generic: Hawaii-Aleoete-tyd,
-      Standard: Hawaii-Aleoete-standaardtyd,
-      Daylight: Hawaii-Aleoete-dagligtyd
-    }
-  },
-  {
-    Key: US/Indiana-Starke,
-    Value: {
-      Generic: Noord-Amerikaanse sentrale tyd,
-      Standard: Noord-Amerikaanse sentrale standaardtyd,
-      Daylight: Noord-Amerikaanse sentrale dagligtyd
-    }
-  },
-  {
-    Key: US/Michigan,
-    Value: {
-      Generic: Noord-Amerikaanse oostelike tyd,
-      Standard: Noord-Amerikaanse oostelike standaardtyd,
-      Daylight: Noord-Amerikaanse oostelike dagligtyd
-    }
-  },
-  {
-    Key: US/Mountain,
-    Value: {
-      Generic: Noord-Amerikaanse bergtyd,
-      Standard: Noord-Amerikaanse berg-standaardtyd,
-      Daylight: Noord-Amerikaanse berg-dagligtyd
-    }
-  },
-  {
-    Key: US/Pacific,
-    Value: {
-      Generic: Pasifiese tyd,
-      Standard: Pasifiese standaardtyd,
-      Daylight: Pasifiese dagligtyd
-    }
-  },
-  {
-    Key: US/Samoa,
-    Value: {
-      Generic: Samoa-tyd,
-      Standard: Samoa-standaardtyd,
-      Daylight: Samoa-dagligtyd
-    }
-  },
-  {
-    Key: UTC,
-    Value: {
-      Generic: Gekoördineerde universele tyd,
-      Standard: Gekoördineerde universele tyd,
-      Daylight: Gekoördineerde universele tyd
-    }
-  },
-  {
-    Key: W-SU,
-    Value: {
-      Generic: Moskou-tyd,
-      Standard: Moskou-standaardtyd,
-      Daylight: Moskou-dagligtyd
-    }
-  },
-  {
-    Key: WET,
-    Value: {
-      Generic: Wes-Europese tyd,
-      Standard: Wes-Europese standaardtyd,
-      Daylight: Wes-Europese somertyd
-    }
-  },
-  {
-    Key: Zulu,
-    Value: {
-      Generic: Gekoördineerde universele tyd,
-      Standard: Gekoördineerde universele tyd,
-      Daylight: Gekoördineerde universele tyd
-    }
+﻿{
+  Australia/Darwin: {
+    Generic: Sentraal-Australiese tyd,
+    Standard: Sentraal-Australiese standaardtyd,
+    Daylight: Sentraal-Australiese dagligtyd
+  },
+  Australia/Sydney: {
+    Generic: Oostelike Australiese tyd,
+    Standard: Oostelike Australiese standaardtyd,
+    Daylight: Oostelike Australiese dagligtyd
+  },
+  Australia/Melbourne: {
+    Generic: Oostelike Australiese tyd,
+    Standard: Oostelike Australiese standaardtyd,
+    Daylight: Oostelike Australiese dagligtyd
+  },
+  Asia/Kabul: {
+    Generic: Afganistan-tyd,
+    Standard: Afganistan-tyd,
+    Daylight: Afganistan-tyd
+  },
+  America/Anchorage: {
+    Generic: Alaska-tyd,
+    Standard: Alaska-standaardtyd,
+    Daylight: Alaska-dagligtyd
+  },
+  America/Juneau: {
+    Generic: Alaska-tyd,
+    Standard: Alaska-standaardtyd,
+    Daylight: Alaska-dagligtyd
+  },
+  America/Metlakatla: {
+    Generic: Alaska-tyd,
+    Standard: Alaska-standaardtyd,
+    Daylight: Alaska-dagligtyd
+  },
+  America/Nome: {
+    Generic: Alaska-tyd,
+    Standard: Alaska-standaardtyd,
+    Daylight: Alaska-dagligtyd
+  },
+  America/Sitka: {
+    Generic: Alaska-tyd,
+    Standard: Alaska-standaardtyd,
+    Daylight: Alaska-dagligtyd
+  },
+  America/Yakutat: {
+    Generic: Alaska-tyd,
+    Standard: Alaska-standaardtyd,
+    Daylight: Alaska-dagligtyd
+  },
+  America/Adak: {
+    Generic: Hawaii-Aleoete-tyd,
+    Standard: Hawaii-Aleoete-standaardtyd,
+    Daylight: Hawaii-Aleoete-dagligtyd
+  },
+  Asia/Barnaul: {
+    Generic: Barnaul-tyd,
+    Standard: Barnaul-standaardtyd,
+    Daylight: Barnaul-dagligtyd
+  },
+  Asia/Riyadh: {
+    Generic: Arabiese tyd,
+    Standard: Arabiese standaardtyd,
+    Daylight: Arabiese dagligtyd
+  },
+  Asia/Bahrain: {
+    Generic: Arabiese tyd,
+    Standard: Arabiese standaardtyd,
+    Daylight: Arabiese dagligtyd
+  },
+  Asia/Kuwait: {
+    Generic: Arabiese tyd,
+    Standard: Arabiese standaardtyd,
+    Daylight: Arabiese dagligtyd
+  },
+  Asia/Qatar: {
+    Generic: Arabiese tyd,
+    Standard: Arabiese standaardtyd,
+    Daylight: Arabiese dagligtyd
+  },
+  Asia/Aden: {
+    Generic: Arabiese tyd,
+    Standard: Arabiese standaardtyd,
+    Daylight: Arabiese dagligtyd
+  },
+  Asia/Dubai: {
+    Generic: Persiese Golf-standaardtyd,
+    Standard: Persiese Golf-standaardtyd,
+    Daylight: Persiese Golf-standaardtyd
+  },
+  Asia/Muscat: {
+    Generic: Persiese Golf-standaardtyd,
+    Standard: Persiese Golf-standaardtyd,
+    Daylight: Persiese Golf-standaardtyd
+  },
+  Etc/GMT-4: {
+    Generic: Gekoördineerde universele tyd +4,
+    Standard: Gekoördineerde universele tyd +4,
+    Daylight: Gekoördineerde universele tyd +4
+  },
+  Asia/Baghdad: {
+    Generic: Arabiese tyd,
+    Standard: Arabiese standaardtyd,
+    Daylight: Arabiese dagligtyd
+  },
+  America/Buenos_Aires: {
+    Generic: Argentinië-tyd,
+    Standard: Argentinië-standaardtyd,
+    Daylight: Argentinië-somertyd
+  },
+  America/Argentina/La_Rioja: {
+    Generic: Argentinië-tyd,
+    Standard: Argentinië-standaardtyd,
+    Daylight: Argentinië-somertyd
+  },
+  America/Argentina/Rio_Gallegos: {
+    Generic: Argentinië-tyd,
+    Standard: Argentinië-standaardtyd,
+    Daylight: Argentinië-somertyd
+  },
+  America/Argentina/Salta: {
+    Generic: Argentinië-tyd,
+    Standard: Argentinië-standaardtyd,
+    Daylight: Argentinië-somertyd
+  },
+  America/Argentina/San_Juan: {
+    Generic: Argentinië-tyd,
+    Standard: Argentinië-standaardtyd,
+    Daylight: Argentinië-somertyd
+  },
+  America/Argentina/San_Luis: {
+    Generic: Argentinië-tyd,
+    Standard: Argentinië-standaardtyd,
+    Daylight: Argentinië-somertyd
+  },
+  America/Argentina/Tucuman: {
+    Generic: Argentinië-tyd,
+    Standard: Argentinië-standaardtyd,
+    Daylight: Argentinië-somertyd
+  },
+  America/Argentina/Ushuaia: {
+    Generic: Argentinië-tyd,
+    Standard: Argentinië-standaardtyd,
+    Daylight: Argentinië-somertyd
+  },
+  America/Catamarca: {
+    Generic: Argentinië-tyd,
+    Standard: Argentinië-standaardtyd,
+    Daylight: Argentinië-somertyd
+  },
+  America/Cordoba: {
+    Generic: Argentinië-tyd,
+    Standard: Argentinië-standaardtyd,
+    Daylight: Argentinië-somertyd
+  },
+  America/Jujuy: {
+    Generic: Argentinië-tyd,
+    Standard: Argentinië-standaardtyd,
+    Daylight: Argentinië-somertyd
+  },
+  America/Mendoza: {
+    Generic: Argentinië-tyd,
+    Standard: Argentinië-standaardtyd,
+    Daylight: Argentinië-somertyd
+  },
+  Europe/Astrakhan: {
+    Generic: Astrakhan-tyd,
+    Standard: Astrakhan-standaardtyd,
+    Daylight: Astrakhan-dagligtyd
+  },
+  Europe/Ulyanovsk: {
+    Generic: Ulyanovsk-tyd,
+    Standard: Ulyanovsk-standaardtyd,
+    Daylight: Ulyanovsk-dagligtyd
+  },
+  America/Halifax: {
+    Generic: Atlantiese tyd,
+    Standard: Atlantiese standaardtyd,
+    Daylight: Atlantiese dagligtyd
+  },
+  Atlantic/Bermuda: {
+    Generic: Atlantiese tyd,
+    Standard: Atlantiese standaardtyd,
+    Daylight: Atlantiese dagligtyd
+  },
+  America/Glace_Bay: {
+    Generic: Atlantiese tyd,
+    Standard: Atlantiese standaardtyd,
+    Daylight: Atlantiese dagligtyd
+  },
+  America/Goose_Bay: {
+    Generic: Atlantiese tyd,
+    Standard: Atlantiese standaardtyd,
+    Daylight: Atlantiese dagligtyd
+  },
+  America/Moncton: {
+    Generic: Atlantiese tyd,
+    Standard: Atlantiese standaardtyd,
+    Daylight: Atlantiese dagligtyd
+  },
+  America/Thule: {
+    Generic: Atlantiese tyd,
+    Standard: Atlantiese standaardtyd,
+    Daylight: Atlantiese dagligtyd
+  },
+  Australia/Eucla: {
+    Generic: Sentraal-westelike Australiese tyd,
+    Standard: Sentraal-westelike Australiese standaard-tyd,
+    Daylight: Sentraal-westelike Australiese dagligtyd
+  },
+  Asia/Baku: {
+    Generic: Aserbeidjan-tyd,
+    Standard: Aserbeidjan-standaardtyd,
+    Daylight: Aserbeidjan-somertyd
+  },
+  Atlantic/Azores: {
+    Generic: Asore-tyd,
+    Standard: Asore-standaardtyd,
+    Daylight: Asore-somertyd
+  },
+  America/Scoresbysund: {
+    Generic: Oos-Groenland-tyd,
+    Standard: Oos-Groenland-standaardtyd,
+    Daylight: Oos-Groenland-somertyd
+  },
+  America/Bahia: {
+    Generic: Brasilia-tyd,
+    Standard: Brasilia-standaardtyd,
+    Daylight: Brasilia-somertyd
+  },
+  Asia/Dhaka: {
+    Generic: Bangladesj-tyd,
+    Standard: Bangladesj-standaardtyd,
+    Daylight: Bangladesj-somertyd
+  },
+  Asia/Thimphu: {
+    Generic: Bhoetan-tyd,
+    Standard: Bhoetan-tyd,
+    Daylight: Bhoetan-tyd
+  },
+  Europe/Minsk: {
+    Generic: Moskou-tyd,
+    Standard: Moskou-standaardtyd,
+    Daylight: Moskou-somertyd
+  },
+  Pacific/Bougainville: {
+    Generic: Papoea-Nieu-Guinee-tyd,
+    Standard: Papoea-Nieu-Guinee-tyd,
+    Daylight: Papoea-Nieu-Guinee-tyd
+  },
+  America/Regina: {
+    Generic: Noord-Amerikaanse sentrale tyd,
+    Standard: Noord-Amerikaanse sentrale standaardtyd,
+    Daylight: Noord-Amerikaanse sentrale dagligtyd
+  },
+  America/Swift_Current: {
+    Generic: Noord-Amerikaanse sentrale tyd,
+    Standard: Noord-Amerikaanse sentrale standaardtyd,
+    Daylight: Noord-Amerikaanse sentrale dagligtyd
+  },
+  Atlantic/Cape_Verde: {
+    Generic: Kaap Verde-tyd,
+    Standard: Kaap Verde-standaardtyd,
+    Daylight: Kaap Verde-somertyd
+  },
+  Etc/GMT+1: {
+    Generic: Gekoördineerde universele tyd -1,
+    Standard: Gekoördineerde universele tyd -1,
+    Daylight: Gekoördineerde universele tyd -1
+  },
+  Asia/Yerevan: {
+    Generic: Armenië-tyd,
+    Standard: Armenië-standaardtyd,
+    Daylight: Armenië-somertyd
+  },
+  Australia/Adelaide: {
+    Generic: Sentraal-Australiese tyd,
+    Standard: Sentraal-Australiese standaardtyd,
+    Daylight: Sentraal-Australiese dagligtyd
+  },
+  Australia/Broken_Hill: {
+    Generic: Sentraal-Australiese tyd,
+    Standard: Sentraal-Australiese standaardtyd,
+    Daylight: Sentraal-Australiese dagligtyd
+  },
+  America/Guatemala: {
+    Generic: Noord-Amerikaanse sentrale tyd,
+    Standard: Noord-Amerikaanse sentrale standaardtyd,
+    Daylight: Noord-Amerikaanse sentrale dagligtyd
+  },
+  America/Belize: {
+    Generic: Noord-Amerikaanse sentrale tyd,
+    Standard: Noord-Amerikaanse sentrale standaardtyd,
+    Daylight: Noord-Amerikaanse sentrale dagligtyd
+  },
+  America/Costa_Rica: {
+    Generic: Noord-Amerikaanse sentrale tyd,
+    Standard: Noord-Amerikaanse sentrale standaardtyd,
+    Daylight: Noord-Amerikaanse sentrale dagligtyd
+  },
+  Pacific/Galapagos: {
+    Generic: Galapagos-tyd,
+    Standard: Galapagos-tyd,
+    Daylight: Galapagos-tyd
+  },
+  America/Tegucigalpa: {
+    Generic: Noord-Amerikaanse sentrale tyd,
+    Standard: Noord-Amerikaanse sentrale standaardtyd,
+    Daylight: Noord-Amerikaanse sentrale dagligtyd
+  },
+  America/Managua: {
+    Generic: Noord-Amerikaanse sentrale tyd,
+    Standard: Noord-Amerikaanse sentrale standaardtyd,
+    Daylight: Noord-Amerikaanse sentrale dagligtyd
+  },
+  America/El_Salvador: {
+    Generic: Noord-Amerikaanse sentrale tyd,
+    Standard: Noord-Amerikaanse sentrale standaardtyd,
+    Daylight: Noord-Amerikaanse sentrale dagligtyd
+  },
+  Etc/GMT+6: {
+    Generic: Gekoördineerde universele tyd -6,
+    Standard: Gekoördineerde universele tyd -6,
+    Daylight: Gekoördineerde universele tyd -6
+  },
+  Asia/Almaty: {
+    Generic: Oos-Kazakstan-tyd,
+    Standard: Oos-Kazakstan-tyd,
+    Daylight: Oos-Kazakstan-tyd
+  },
+  Antarctica/Vostok: {
+    Generic: Wostok-tyd,
+    Standard: Wostok-tyd,
+    Daylight: Wostok-tyd
+  },
+  Asia/Urumqi: {
+    Generic: China-tyd,
+    Standard: China-standaardtyd,
+    Daylight: China-dagligtyd
+  },
+  Indian/Chagos: {
+    Generic: Indiese Oseaan-tyd,
+    Standard: Indiese Oseaan-tyd,
+    Daylight: Indiese Oseaan-tyd
+  },
+  Asia/Bishkek: {
+    Generic: Kirgistan-tyd,
+    Standard: Kirgistan-tyd,
+    Daylight: Kirgistan-tyd
+  },
+  Asia/Qostanay: {
+    Generic: Oos-Kazakstan-tyd,
+    Standard: Oos-Kazakstan-tyd,
+    Daylight: Oos-Kazakstan-tyd
+  },
+  Etc/GMT-6: {
+    Generic: Gekoördineerde universele tyd +6,
+    Standard: Gekoördineerde universele tyd +6,
+    Daylight: Gekoördineerde universele tyd +6
+  },
+  America/Cuiaba: {
+    Generic: Amasone-tyd,
+    Standard: Amasone-standaardtyd,
+    Daylight: Amasone-somertyd
+  },
+  America/Campo_Grande: {
+    Generic: Amasone-tyd,
+    Standard: Amasone-standaardtyd,
+    Daylight: Amasone-somertyd
+  },
+  Europe/Budapest: {
+    Generic: Sentraal-Europese tyd,
+    Standard: Sentraal-Europese standaardtyd,
+    Daylight: Sentraal-Europese somertyd
+  },
+  Europe/Tirane: {
+    Generic: Sentraal-Europese tyd,
+    Standard: Sentraal-Europese standaardtyd,
+    Daylight: Sentraal-Europese somertyd
+  },
+  Europe/Prague: {
+    Generic: Sentraal-Europese tyd,
+    Standard: Sentraal-Europese standaardtyd,
+    Daylight: Sentraal-Europese somertyd
+  },
+  Europe/Podgorica: {
+    Generic: Sentraal-Europese tyd,
+    Standard: Sentraal-Europese standaardtyd,
+    Daylight: Sentraal-Europese somertyd
+  },
+  Europe/Belgrade: {
+    Generic: Sentraal-Europese tyd,
+    Standard: Sentraal-Europese standaardtyd,
+    Daylight: Sentraal-Europese somertyd
+  },
+  Europe/Ljubljana: {
+    Generic: Sentraal-Europese tyd,
+    Standard: Sentraal-Europese standaardtyd,
+    Daylight: Sentraal-Europese somertyd
+  },
+  Europe/Bratislava: {
+    Generic: Sentraal-Europese tyd,
+    Standard: Sentraal-Europese standaardtyd,
+    Daylight: Sentraal-Europese somertyd
+  },
+  Europe/Warsaw: {
+    Generic: Sentraal-Europese tyd,
+    Standard: Sentraal-Europese standaardtyd,
+    Daylight: Sentraal-Europese somertyd
+  },
+  Europe/Sarajevo: {
+    Generic: Sentraal-Europese tyd,
+    Standard: Sentraal-Europese standaardtyd,
+    Daylight: Sentraal-Europese somertyd
+  },
+  Europe/Zagreb: {
+    Generic: Sentraal-Europese tyd,
+    Standard: Sentraal-Europese standaardtyd,
+    Daylight: Sentraal-Europese somertyd
+  },
+  Europe/Skopje: {
+    Generic: Sentraal-Europese tyd,
+    Standard: Sentraal-Europese standaardtyd,
+    Daylight: Sentraal-Europese somertyd
+  },
+  Pacific/Guadalcanal: {
+    Generic: Salomonseilande-tyd,
+    Standard: Salomonseilande-tyd,
+    Daylight: Salomonseilande-tyd
+  },
+  Antarctica/Casey: {
+    Generic: Antarktika-tyd,
+    Standard: Antarktika-standaardtyd,
+    Daylight: Antarktika-dagligtyd
+  },
+  Pacific/Ponape: {
+    Generic: Ponape-tyd,
+    Standard: Ponape-tyd,
+    Daylight: Ponape-tyd
+  },
+  Pacific/Kosrae: {
+    Generic: Kosrae-tyd,
+    Standard: Kosrae-tyd,
+    Daylight: Kosrae-tyd
+  },
+  Pacific/Noumea: {
+    Generic: Nieu-Kaledonië-tyd,
+    Standard: Nieu-Kaledonië-standaardtyd,
+    Daylight: Nieu-Kaledonië-somertyd
+  },
+  Pacific/Efate: {
+    Generic: Vanuatu-tyd,
+    Standard: Vanuatu-standaardtyd,
+    Daylight: Vanuatu-somertyd
+  },
+  Etc/GMT-11: {
+    Generic: Gekoördineerde universele tyd +11,
+    Standard: Gekoördineerde universele tyd +11,
+    Daylight: Gekoördineerde universele tyd +11
+  },
+  America/Mexico_City: {
+    Generic: Noord-Amerikaanse sentrale tyd,
+    Standard: Noord-Amerikaanse sentrale standaardtyd,
+    Daylight: Noord-Amerikaanse sentrale dagligtyd
+  },
+  America/Bahia_Banderas: {
+    Generic: Noord-Amerikaanse sentrale tyd,
+    Standard: Noord-Amerikaanse sentrale standaardtyd,
+    Daylight: Noord-Amerikaanse sentrale dagligtyd
+  },
+  America/Merida: {
+    Generic: Noord-Amerikaanse sentrale tyd,
+    Standard: Noord-Amerikaanse sentrale standaardtyd,
+    Daylight: Noord-Amerikaanse sentrale dagligtyd
+  },
+  America/Monterrey: {
+    Generic: Noord-Amerikaanse sentrale tyd,
+    Standard: Noord-Amerikaanse sentrale standaardtyd,
+    Daylight: Noord-Amerikaanse sentrale dagligtyd
+  },
+  America/Chicago: {
+    Generic: Noord-Amerikaanse sentrale tyd,
+    Standard: Noord-Amerikaanse sentrale standaardtyd,
+    Daylight: Noord-Amerikaanse sentrale dagligtyd
+  },
+  America/Winnipeg: {
+    Generic: Noord-Amerikaanse sentrale tyd,
+    Standard: Noord-Amerikaanse sentrale standaardtyd,
+    Daylight: Noord-Amerikaanse sentrale dagligtyd
+  },
+  America/Rainy_River: {
+    Generic: Noord-Amerikaanse sentrale tyd,
+    Standard: Noord-Amerikaanse sentrale standaardtyd,
+    Daylight: Noord-Amerikaanse sentrale dagligtyd
+  },
+  America/Rankin_Inlet: {
+    Generic: Noord-Amerikaanse sentrale tyd,
+    Standard: Noord-Amerikaanse sentrale standaardtyd,
+    Daylight: Noord-Amerikaanse sentrale dagligtyd
+  },
+  America/Resolute: {
+    Generic: Noord-Amerikaanse sentrale tyd,
+    Standard: Noord-Amerikaanse sentrale standaardtyd,
+    Daylight: Noord-Amerikaanse sentrale dagligtyd
+  },
+  America/Matamoros: {
+    Generic: Noord-Amerikaanse sentrale tyd,
+    Standard: Noord-Amerikaanse sentrale standaardtyd,
+    Daylight: Noord-Amerikaanse sentrale dagligtyd
+  },
+  America/Indiana/Knox: {
+    Generic: Noord-Amerikaanse sentrale tyd,
+    Standard: Noord-Amerikaanse sentrale standaardtyd,
+    Daylight: Noord-Amerikaanse sentrale dagligtyd
+  },
+  America/Indiana/Tell_City: {
+    Generic: Noord-Amerikaanse sentrale tyd,
+    Standard: Noord-Amerikaanse sentrale standaardtyd,
+    Daylight: Noord-Amerikaanse sentrale dagligtyd
+  },
+  America/Menominee: {
+    Generic: Noord-Amerikaanse sentrale tyd,
+    Standard: Noord-Amerikaanse sentrale standaardtyd,
+    Daylight: Noord-Amerikaanse sentrale dagligtyd
+  },
+  America/North_Dakota/Beulah: {
+    Generic: Noord-Amerikaanse sentrale tyd,
+    Standard: Noord-Amerikaanse sentrale standaardtyd,
+    Daylight: Noord-Amerikaanse sentrale dagligtyd
+  },
+  America/North_Dakota/Center: {
+    Generic: Noord-Amerikaanse sentrale tyd,
+    Standard: Noord-Amerikaanse sentrale standaardtyd,
+    Daylight: Noord-Amerikaanse sentrale dagligtyd
+  },
+  America/North_Dakota/New_Salem: {
+    Generic: Noord-Amerikaanse sentrale tyd,
+    Standard: Noord-Amerikaanse sentrale standaardtyd,
+    Daylight: Noord-Amerikaanse sentrale dagligtyd
+  },
+  CST6CDT: {
+    Generic: Noord-Amerikaanse sentrale tyd,
+    Standard: Noord-Amerikaanse sentrale standaardtyd,
+    Daylight: Noord-Amerikaanse sentrale dagligtyd
+  },
+  Pacific/Chatham: {
+    Generic: Chatham-tyd,
+    Standard: Chatham-standaardtyd,
+    Daylight: Chatham-dagligtyd
+  },
+  Asia/Shanghai: {
+    Generic: China-tyd,
+    Standard: China-standaardtyd,
+    Daylight: China-dagligtyd
+  },
+  Asia/Hong_Kong: {
+    Generic: Hongkong-tyd,
+    Standard: Hongkong-standaardtyd,
+    Daylight: Hongkong-somertyd
+  },
+  Asia/Macau: {
+    Generic: China-tyd,
+    Standard: China-standaardtyd,
+    Daylight: China-dagligtyd
+  },
+  America/Havana: {
+    Generic: Kuba-tyd,
+    Standard: Kuba-standaardtyd,
+    Daylight: Kuba-dagligtyd
+  },
+  Etc/GMT+12: {
+    Generic: Gekoördineerde universele tyd -12,
+    Standard: Gekoördineerde universele tyd -12,
+    Daylight: Gekoördineerde universele tyd -12
+  },
+  Africa/Nairobi: {
+    Generic: Oos-Afrika-tyd,
+    Standard: Oos-Afrika-tyd,
+    Daylight: Oos-Afrika-tyd
+  },
+  Antarctica/Syowa: {
+    Generic: Syowa-tyd,
+    Standard: Syowa-tyd,
+    Daylight: Syowa-tyd
+  },
+  Africa/Djibouti: {
+    Generic: Oos-Afrika-tyd,
+    Standard: Oos-Afrika-tyd,
+    Daylight: Oos-Afrika-tyd
+  },
+  Africa/Asmera: {
+    Generic: Oos-Afrika-tyd,
+    Standard: Oos-Afrika-tyd,
+    Daylight: Oos-Afrika-tyd
+  },
+  Africa/Addis_Ababa: {
+    Generic: Oos-Afrika-tyd,
+    Standard: Oos-Afrika-tyd,
+    Daylight: Oos-Afrika-tyd
+  },
+  Indian/Comoro: {
+    Generic: Oos-Afrika-tyd,
+    Standard: Oos-Afrika-tyd,
+    Daylight: Oos-Afrika-tyd
+  },
+  Indian/Antananarivo: {
+    Generic: Oos-Afrika-tyd,
+    Standard: Oos-Afrika-tyd,
+    Daylight: Oos-Afrika-tyd
+  },
+  Africa/Mogadishu: {
+    Generic: Oos-Afrika-tyd,
+    Standard: Oos-Afrika-tyd,
+    Daylight: Oos-Afrika-tyd
+  },
+  Africa/Dar_es_Salaam: {
+    Generic: Oos-Afrika-tyd,
+    Standard: Oos-Afrika-tyd,
+    Daylight: Oos-Afrika-tyd
+  },
+  Africa/Kampala: {
+    Generic: Oos-Afrika-tyd,
+    Standard: Oos-Afrika-tyd,
+    Daylight: Oos-Afrika-tyd
+  },
+  Indian/Mayotte: {
+    Generic: Oos-Afrika-tyd,
+    Standard: Oos-Afrika-tyd,
+    Daylight: Oos-Afrika-tyd
+  },
+  Etc/GMT-3: {
+    Generic: Gekoördineerde universele tyd +3,
+    Standard: Gekoördineerde universele tyd +3,
+    Daylight: Gekoördineerde universele tyd +3
+  },
+  Australia/Brisbane: {
+    Generic: Oostelike Australiese tyd,
+    Standard: Oostelike Australiese standaardtyd,
+    Daylight: Oostelike Australiese dagligtyd
+  },
+  Australia/Lindeman: {
+    Generic: Oostelike Australiese tyd,
+    Standard: Oostelike Australiese standaardtyd,
+    Daylight: Oostelike Australiese dagligtyd
+  },
+  Europe/Chisinau: {
+    Generic: Oos-Europese tyd,
+    Standard: Oos-Europese standaardtyd,
+    Daylight: Oos-Europese somertyd
+  },
+  America/Sao_Paulo: {
+    Generic: Brasilia-tyd,
+    Standard: Brasilia-standaardtyd,
+    Daylight: Brasilia-somertyd
+  },
+  Pacific/Easter: {
+    Generic: Paaseiland-tyd,
+    Standard: Paaseiland-standaardtyd,
+    Daylight: Paaseiland-somertyd
+  },
+  America/Cancun: {
+    Generic: Noord-Amerikaanse oostelike tyd,
+    Standard: Noord-Amerikaanse oostelike standaardtyd,
+    Daylight: Noord-Amerikaanse oostelike dagligtyd
+  },
+  America/New_York: {
+    Generic: Noord-Amerikaanse oostelike tyd,
+    Standard: Noord-Amerikaanse oostelike standaardtyd,
+    Daylight: Noord-Amerikaanse oostelike dagligtyd
+  },
+  America/Nassau: {
+    Generic: Noord-Amerikaanse oostelike tyd,
+    Standard: Noord-Amerikaanse oostelike standaardtyd,
+    Daylight: Noord-Amerikaanse oostelike dagligtyd
+  },
+  America/Toronto: {
+    Generic: Noord-Amerikaanse oostelike tyd,
+    Standard: Noord-Amerikaanse oostelike standaardtyd,
+    Daylight: Noord-Amerikaanse oostelike dagligtyd
+  },
+  America/Iqaluit: {
+    Generic: Noord-Amerikaanse oostelike tyd,
+    Standard: Noord-Amerikaanse oostelike standaardtyd,
+    Daylight: Noord-Amerikaanse oostelike dagligtyd
+  },
+  America/Montreal: {
+    Generic: Noord-Amerikaanse oostelike tyd,
+    Standard: Noord-Amerikaanse oostelike standaardtyd,
+    Daylight: Noord-Amerikaanse oostelike dagligtyd
+  },
+  America/Nipigon: {
+    Generic: Noord-Amerikaanse oostelike tyd,
+    Standard: Noord-Amerikaanse oostelike standaardtyd,
+    Daylight: Noord-Amerikaanse oostelike dagligtyd
+  },
+  America/Pangnirtung: {
+    Generic: Noord-Amerikaanse oostelike tyd,
+    Standard: Noord-Amerikaanse oostelike standaardtyd,
+    Daylight: Noord-Amerikaanse oostelike dagligtyd
+  },
+  America/Thunder_Bay: {
+    Generic: Noord-Amerikaanse oostelike tyd,
+    Standard: Noord-Amerikaanse oostelike standaardtyd,
+    Daylight: Noord-Amerikaanse oostelike dagligtyd
+  },
+  America/Detroit: {
+    Generic: Noord-Amerikaanse oostelike tyd,
+    Standard: Noord-Amerikaanse oostelike standaardtyd,
+    Daylight: Noord-Amerikaanse oostelike dagligtyd
+  },
+  America/Indiana/Petersburg: {
+    Generic: Noord-Amerikaanse oostelike tyd,
+    Standard: Noord-Amerikaanse oostelike standaardtyd,
+    Daylight: Noord-Amerikaanse oostelike dagligtyd
+  },
+  America/Indiana/Vincennes: {
+    Generic: Noord-Amerikaanse oostelike tyd,
+    Standard: Noord-Amerikaanse oostelike standaardtyd,
+    Daylight: Noord-Amerikaanse oostelike dagligtyd
+  },
+  America/Indiana/Winamac: {
+    Generic: Noord-Amerikaanse oostelike tyd,
+    Standard: Noord-Amerikaanse oostelike standaardtyd,
+    Daylight: Noord-Amerikaanse oostelike dagligtyd
+  },
+  America/Kentucky/Monticello: {
+    Generic: Noord-Amerikaanse oostelike tyd,
+    Standard: Noord-Amerikaanse oostelike standaardtyd,
+    Daylight: Noord-Amerikaanse oostelike dagligtyd
+  },
+  America/Louisville: {
+    Generic: Noord-Amerikaanse oostelike tyd,
+    Standard: Noord-Amerikaanse oostelike standaardtyd,
+    Daylight: Noord-Amerikaanse oostelike dagligtyd
+  },
+  EST5EDT: {
+    Generic: Noord-Amerikaanse oostelike tyd,
+    Standard: Noord-Amerikaanse oostelike standaardtyd,
+    Daylight: Noord-Amerikaanse oostelike dagligtyd
+  },
+  Africa/Cairo: {
+    Generic: Oos-Europese tyd,
+    Standard: Oos-Europese standaardtyd,
+    Daylight: Oos-Europese somertyd
+  },
+  Asia/Yekaterinburg: {
+    Generic: Jekaterinburg-tyd,
+    Standard: Jekaterinburg-standaardtyd,
+    Daylight: Jekaterinburg-dagligtyd
+  },
+  Europe/Kiev: {
+    Generic: Oos-Europese tyd,
+    Standard: Oos-Europese standaardtyd,
+    Daylight: Oos-Europese somertyd
+  },
+  Europe/Mariehamn: {
+    Generic: Oos-Europese tyd,
+    Standard: Oos-Europese standaardtyd,
+    Daylight: Oos-Europese somertyd
+  },
+  Europe/Sofia: {
+    Generic: Oos-Europese tyd,
+    Standard: Oos-Europese standaardtyd,
+    Daylight: Oos-Europese somertyd
+  },
+  Europe/Tallinn: {
+    Generic: Oos-Europese tyd,
+    Standard: Oos-Europese standaardtyd,
+    Daylight: Oos-Europese somertyd
+  },
+  Europe/Helsinki: {
+    Generic: Oos-Europese tyd,
+    Standard: Oos-Europese standaardtyd,
+    Daylight: Oos-Europese somertyd
+  },
+  Europe/Vilnius: {
+    Generic: Oos-Europese tyd,
+    Standard: Oos-Europese standaardtyd,
+    Daylight: Oos-Europese somertyd
+  },
+  Europe/Riga: {
+    Generic: Oos-Europese tyd,
+    Standard: Oos-Europese standaardtyd,
+    Daylight: Oos-Europese somertyd
+  },
+  Europe/Uzhgorod: {
+    Generic: Oos-Europese tyd,
+    Standard: Oos-Europese standaardtyd,
+    Daylight: Oos-Europese somertyd
+  },
+  Europe/Zaporozhye: {
+    Generic: Oos-Europese tyd,
+    Standard: Oos-Europese standaardtyd,
+    Daylight: Oos-Europese somertyd
+  },
+  Pacific/Fiji: {
+    Generic: Fidji-tyd,
+    Standard: Fidji-standaardtyd,
+    Daylight: Fidji-somertyd
+  },
+  Europe/London: {
+    Generic: Verenigde Koninkryk-tyd,
+    Standard: Greenwich-tyd,
+    Daylight: Britse somertyd
+  },
+  Atlantic/Canary: {
+    Generic: Wes-Europese tyd,
+    Standard: Wes-Europese standaardtyd,
+    Daylight: Wes-Europese somertyd
+  },
+  Atlantic/Faeroe: {
+    Generic: Wes-Europese tyd,
+    Standard: Wes-Europese standaardtyd,
+    Daylight: Wes-Europese somertyd
+  },
+  Europe/Guernsey: {
+    Generic: Greenwich-tyd,
+    Standard: Greenwich-tyd,
+    Daylight: Greenwich-tyd
+  },
+  Europe/Dublin: {
+    Generic: Ierland-tyd,
+    Standard: Greenwich-tyd,
+    Daylight: Ierse standaardtyd
+  },
+  Europe/Isle_of_Man: {
+    Generic: Greenwich-tyd,
+    Standard: Greenwich-tyd,
+    Daylight: Greenwich-tyd
+  },
+  Europe/Jersey: {
+    Generic: Greenwich-tyd,
+    Standard: Greenwich-tyd,
+    Daylight: Greenwich-tyd
+  },
+  Europe/Lisbon: {
+    Generic: Wes-Europese tyd,
+    Standard: Wes-Europese standaardtyd,
+    Daylight: Wes-Europese somertyd
+  },
+  Atlantic/Madeira: {
+    Generic: Wes-Europese tyd,
+    Standard: Wes-Europese standaardtyd,
+    Daylight: Wes-Europese somertyd
+  },
+  Europe/Bucharest: {
+    Generic: Oos-Europese tyd,
+    Standard: Oos-Europese standaardtyd,
+    Daylight: Oos-Europese somertyd
+  },
+  Asia/Nicosia: {
+    Generic: Oos-Europese tyd,
+    Standard: Oos-Europese standaardtyd,
+    Daylight: Oos-Europese somertyd
+  },
+  Asia/Famagusta: {
+    Generic: Oos-Europese tyd,
+    Standard: Oos-Europese standaardtyd,
+    Daylight: Oos-Europese somertyd
+  },
+  Europe/Athens: {
+    Generic: Oos-Europese tyd,
+    Standard: Oos-Europese standaardtyd,
+    Daylight: Oos-Europese somertyd
+  },
+  Asia/Tbilisi: {
+    Generic: Georgië-tyd,
+    Standard: Georgië-standaardtyd,
+    Daylight: Georgië-somertyd
+  },
+  America/Godthab: {
+    Generic: Wes-Groenland-tyd,
+    Standard: Wes-Groenland-standaardtyd,
+    Daylight: Wes-Groenland-somertyd
+  },
+  Atlantic/Reykjavik: {
+    Generic: Greenwich-tyd,
+    Standard: Greenwich-tyd,
+    Daylight: Greenwich-tyd
+  },
+  Atlantic/St_Helena: {
+    Generic: Greenwich-tyd,
+    Standard: Greenwich-tyd,
+    Daylight: Greenwich-tyd
+  },
+  Africa/Ouagadougou: {
+    Generic: Greenwich-tyd,
+    Standard: Greenwich-tyd,
+    Daylight: Greenwich-tyd
+  },
+  Africa/Abidjan: {
+    Generic: Greenwich-tyd,
+    Standard: Greenwich-tyd,
+    Daylight: Greenwich-tyd
+  },
+  Africa/Accra: {
+    Generic: Greenwich-tyd,
+    Standard: Greenwich-tyd,
+    Daylight: Greenwich-tyd
+  },
+  America/Danmarkshavn: {
+    Generic: Greenwich-tyd,
+    Standard: Greenwich-tyd,
+    Daylight: Greenwich-tyd
+  },
+  Africa/Banjul: {
+    Generic: Greenwich-tyd,
+    Standard: Greenwich-tyd,
+    Daylight: Greenwich-tyd
+  },
+  Africa/Conakry: {
+    Generic: Greenwich-tyd,
+    Standard: Greenwich-tyd,
+    Daylight: Greenwich-tyd
+  },
+  Africa/Bissau: {
+    Generic: Greenwich-tyd,
+    Standard: Greenwich-tyd,
+    Daylight: Greenwich-tyd
+  },
+  Africa/Monrovia: {
+    Generic: Greenwich-tyd,
+    Standard: Greenwich-tyd,
+    Daylight: Greenwich-tyd
+  },
+  Africa/Bamako: {
+    Generic: Greenwich-tyd,
+    Standard: Greenwich-tyd,
+    Daylight: Greenwich-tyd
+  },
+  Africa/Nouakchott: {
+    Generic: Greenwich-tyd,
+    Standard: Greenwich-tyd,
+    Daylight: Greenwich-tyd
+  },
+  Africa/Freetown: {
+    Generic: Greenwich-tyd,
+    Standard: Greenwich-tyd,
+    Daylight: Greenwich-tyd
+  },
+  Africa/Dakar: {
+    Generic: Greenwich-tyd,
+    Standard: Greenwich-tyd,
+    Daylight: Greenwich-tyd
+  },
+  Africa/Lome: {
+    Generic: Greenwich-tyd,
+    Standard: Greenwich-tyd,
+    Daylight: Greenwich-tyd
+  },
+  America/Port-au-Prince: {
+    Generic: Noord-Amerikaanse oostelike tyd,
+    Standard: Noord-Amerikaanse oostelike standaardtyd,
+    Daylight: Noord-Amerikaanse oostelike dagligtyd
+  },
+  Pacific/Honolulu: {
+    Generic: Hawaii-Aleoete-tyd,
+    Standard: Hawaii-Aleoete-standaardtyd,
+    Daylight: Hawaii-Aleoete-dagligtyd
+  },
+  Pacific/Rarotonga: {
+    Generic: Cookeilande-tyd,
+    Standard: Cookeilande-standaardtyd,
+    Daylight: Cookeilande-halfsomertyd
+  },
+  Pacific/Tahiti: {
+    Generic: Tahiti-tyd,
+    Standard: Tahiti-tyd,
+    Daylight: Tahiti-tyd
+  },
+  Pacific/Johnston: {
+    Generic: Hawaii-Aleoete-tyd,
+    Standard: Hawaii-Aleoete-standaardtyd,
+    Daylight: Hawaii-Aleoete-dagligtyd
+  },
+  Etc/GMT+10: {
+    Generic: Gekoördineerde universele tyd -10,
+    Standard: Gekoördineerde universele tyd -10,
+    Daylight: Gekoördineerde universele tyd -10
+  },
+  Asia/Calcutta: {
+    Generic: Indië-standaardtyd,
+    Standard: Indië-standaardtyd,
+    Daylight: Indië-standaardtyd
+  },
+  Asia/Tehran: {
+    Generic: Iran-tyd,
+    Standard: Iran-standaardtyd,
+    Daylight: Iran-dagligtyd
+  },
+  Asia/Jerusalem: {
+    Generic: Israel-tyd,
+    Standard: Israel-standaardtyd,
+    Daylight: Israel-dagligtyd
+  },
+  Asia/Amman: {
+    Generic: Oos-Europese tyd,
+    Standard: Oos-Europese standaardtyd,
+    Daylight: Oos-Europese somertyd
+  },
+  Europe/Kaliningrad: {
+    Generic: Kaliningrad-tyd,
+    Standard: Kaliningrad-standaardtyd,
+    Daylight: Kaliningrad-dagligtyd
+  },
+  Asia/Seoul: {
+    Generic: Koreaanse tyd,
+    Standard: Koreaanse standaardtyd,
+    Daylight: Koreaanse dagligtyd
+  },
+  Africa/Tripoli: {
+    Generic: Oos-Europese tyd,
+    Standard: Oos-Europese standaardtyd,
+    Daylight: Oos-Europese somertyd
+  },
+  Pacific/Kiritimati: {
+    Generic: Line-eilande-tyd,
+    Standard: Line-eilande-tyd,
+    Daylight: Line-eilande-tyd
+  },
+  Etc/GMT-14: {
+    Generic: Gekoördineerde universele tyd +14,
+    Standard: Gekoördineerde universele tyd +14,
+    Daylight: Gekoördineerde universele tyd +14
+  },
+  Australia/Lord_Howe: {
+    Generic: Lord Howe-tyd,
+    Standard: Lord Howe-standaardtyd,
+    Daylight: Lord Howe-dagligtyd
+  },
+  Asia/Magadan: {
+    Generic: Magadan-tyd,
+    Standard: Magadan-standaardtyd,
+    Daylight: Magadan-dagligtyd
+  },
+  America/Punta_Arenas: {
+    Generic: Chili-tyd,
+    Standard: Chili-standaardtyd,
+    Daylight: Chili-somertyd
+  },
+  Pacific/Marquesas: {
+    Generic: Marquesas-tyd,
+    Standard: Marquesas-tyd,
+    Daylight: Marquesas-tyd
+  },
+  Indian/Mauritius: {
+    Generic: Mauritius-tyd,
+    Standard: Mauritius-standaardtyd,
+    Daylight: Mauritius-somertyd
+  },
+  Indian/Reunion: {
+    Generic: Réunion-tyd,
+    Standard: Réunion-tyd,
+    Daylight: Réunion-tyd
+  },
+  Indian/Mahe: {
+    Generic: Seychelle-tyd,
+    Standard: Seychelle-tyd,
+    Daylight: Seychelle-tyd
+  },
+  Asia/Beirut: {
+    Generic: Oos-Europese tyd,
+    Standard: Oos-Europese standaardtyd,
+    Daylight: Oos-Europese somertyd
+  },
+  America/Montevideo: {
+    Generic: Uruguay-tyd,
+    Standard: Uruguay-standaardtyd,
+    Daylight: Uruguay-somertyd
+  },
+  Africa/Casablanca: {
+    Generic: Wes-Europese tyd,
+    Standard: Wes-Europese standaardtyd,
+    Daylight: Wes-Europese somertyd
+  },
+  Africa/El_Aaiun: {
+    Generic: Wes-Europese tyd,
+    Standard: Wes-Europese standaardtyd,
+    Daylight: Wes-Europese somertyd
+  },
+  America/Chihuahua: {
+    Generic: Meksikaanse Pasifiese tyd,
+    Standard: Meksikaanse Pasifiese standaardtyd,
+    Daylight: Meksikaanse Pasifiese dagligtyd
+  },
+  America/Mazatlan: {
+    Generic: Meksikaanse Pasifiese tyd,
+    Standard: Meksikaanse Pasifiese standaardtyd,
+    Daylight: Meksikaanse Pasifiese dagligtyd
+  },
+  America/Denver: {
+    Generic: Noord-Amerikaanse bergtyd,
+    Standard: Noord-Amerikaanse berg-standaardtyd,
+    Daylight: Noord-Amerikaanse berg-dagligtyd
+  },
+  America/Edmonton: {
+    Generic: Noord-Amerikaanse bergtyd,
+    Standard: Noord-Amerikaanse berg-standaardtyd,
+    Daylight: Noord-Amerikaanse berg-dagligtyd
+  },
+  America/Cambridge_Bay: {
+    Generic: Noord-Amerikaanse bergtyd,
+    Standard: Noord-Amerikaanse berg-standaardtyd,
+    Daylight: Noord-Amerikaanse berg-dagligtyd
+  },
+  America/Inuvik: {
+    Generic: Noord-Amerikaanse bergtyd,
+    Standard: Noord-Amerikaanse berg-standaardtyd,
+    Daylight: Noord-Amerikaanse berg-dagligtyd
+  },
+  America/Yellowknife: {
+    Generic: Noord-Amerikaanse bergtyd,
+    Standard: Noord-Amerikaanse berg-standaardtyd,
+    Daylight: Noord-Amerikaanse berg-dagligtyd
+  },
+  America/Ojinaga: {
+    Generic: Noord-Amerikaanse bergtyd,
+    Standard: Noord-Amerikaanse berg-standaardtyd,
+    Daylight: Noord-Amerikaanse berg-dagligtyd
+  },
+  America/Boise: {
+    Generic: Noord-Amerikaanse bergtyd,
+    Standard: Noord-Amerikaanse berg-standaardtyd,
+    Daylight: Noord-Amerikaanse berg-dagligtyd
+  },
+  MST7MDT: {
+    Generic: Noord-Amerikaanse bergtyd,
+    Standard: Noord-Amerikaanse berg-standaardtyd,
+    Daylight: Noord-Amerikaanse berg-dagligtyd
+  },
+  Asia/Rangoon: {
+    Generic: Mianmar-tyd,
+    Standard: Mianmar-tyd,
+    Daylight: Mianmar-tyd
+  },
+  Indian/Cocos: {
+    Generic: Kokoseilande-tyd,
+    Standard: Kokoseilande-tyd,
+    Daylight: Kokoseilande-tyd
+  },
+  Asia/Novosibirsk: {
+    Generic: Novosibirsk-tyd,
+    Standard: Novosibirsk-standaardtyd,
+    Daylight: Novosibirsk-dagligtyd
+  },
+  Africa/Windhoek: {
+    Generic: Sentraal-Afrika-tyd,
+    Standard: Sentraal-Afrika-tyd,
+    Daylight: Sentraal-Afrika-tyd
+  },
+  Asia/Katmandu: {
+    Generic: Nepal-tyd,
+    Standard: Nepal-tyd,
+    Daylight: Nepal-tyd
+  },
+  Pacific/Auckland: {
+    Generic: Nieu-Seeland-tyd,
+    Standard: Nieu-Seeland-standaardtyd,
+    Daylight: Nieu-Seeland-dagligtyd
+  },
+  Antarctica/McMurdo: {
+    Generic: Nieu-Seeland-tyd,
+    Standard: Nieu-Seeland-standaardtyd,
+    Daylight: Nieu-Seeland-dagligtyd
+  },
+  America/St_Johns: {
+    Generic: Newfoundland-tyd,
+    Standard: Newfoundland-standaardtyd,
+    Daylight: Newfoundland-dagligtyd
+  },
+  Pacific/Norfolk: {
+    Generic: Norfolkeiland-tyd,
+    Standard: Norfolkeiland-standaardtyd,
+    Daylight: Norfolkeiland-dagligtyd
+  },
+  Asia/Irkutsk: {
+    Generic: Irkoetsk-tyd,
+    Standard: Irkoetsk-standaardtyd,
+    Daylight: Irkoetsk-dagligtyd
+  },
+  Asia/Krasnoyarsk: {
+    Generic: Krasnojarsk-tyd,
+    Standard: Krasnojarsk-standaardtyd,
+    Daylight: Krasnojarsk-dagligtyd
+  },
+  Asia/Novokuznetsk: {
+    Generic: Novokuznetsk-tyd,
+    Standard: Novokuznetsk-standaardtyd,
+    Daylight: Novokuznetsk-dagligtyd
+  },
+  Asia/Pyongyang: {
+    Generic: Koreaanse tyd,
+    Standard: Koreaanse standaardtyd,
+    Daylight: Koreaanse dagligtyd
+  },
+  Asia/Omsk: {
+    Generic: Omsk-tyd,
+    Standard: Omsk-standaardtyd,
+    Daylight: Omsk-dagligtyd
+  },
+  America/Santiago: {
+    Generic: Chili-tyd,
+    Standard: Chili-standaardtyd,
+    Daylight: Chili-somertyd
+  },
+  America/Tijuana: {
+    Generic: Pasifiese tyd,
+    Standard: Pasifiese standaardtyd,
+    Daylight: Pasifiese dagligtyd
+  },
+  America/Santa_Isabel: {
+    Generic: Noordwes-Meksiko-tyd,
+    Standard: Noordwes-Meksiko-standaardtyd,
+    Daylight: Noordwes-Meksiko-dagligtyd
+  },
+  America/Los_Angeles: {
+    Generic: Pasifiese tyd,
+    Standard: Pasifiese standaardtyd,
+    Daylight: Pasifiese dagligtyd
+  },
+  America/Vancouver: {
+    Generic: Pasifiese tyd,
+    Standard: Pasifiese standaardtyd,
+    Daylight: Pasifiese dagligtyd
+  },
+  PST8PDT: {
+    Generic: Pasifiese tyd,
+    Standard: Pasifiese standaardtyd,
+    Daylight: Pasifiese dagligtyd
+  },
+  Asia/Karachi: {
+    Generic: Pakistan-tyd,
+    Standard: Pakistan-standaardtyd,
+    Daylight: Pakistan-somertyd
+  },
+  America/Asuncion: {
+    Generic: Paraguay-tyd,
+    Standard: Paraguay-standaardtyd,
+    Daylight: Paraguay-somertyd
+  },
+  Asia/Qyzylorda: {
+    Generic: Wes-Kazakstan-tyd,
+    Standard: Wes-Kazakstan-tyd,
+    Daylight: Wes-Kazakstan-tyd
+  },
+  Europe/Paris: {
+    Generic: Sentraal-Europese tyd,
+    Standard: Sentraal-Europese standaardtyd,
+    Daylight: Sentraal-Europese somertyd
+  },
+  Europe/Brussels: {
+    Generic: Sentraal-Europese tyd,
+    Standard: Sentraal-Europese standaardtyd,
+    Daylight: Sentraal-Europese somertyd
+  },
+  Europe/Copenhagen: {
+    Generic: Sentraal-Europese tyd,
+    Standard: Sentraal-Europese standaardtyd,
+    Daylight: Sentraal-Europese somertyd
+  },
+  Africa/Ceuta: {
+    Generic: Sentraal-Europese tyd,
+    Standard: Sentraal-Europese standaardtyd,
+    Daylight: Sentraal-Europese somertyd
+  },
+  Europe/Madrid: {
+    Generic: Sentraal-Europese tyd,
+    Standard: Sentraal-Europese standaardtyd,
+    Daylight: Sentraal-Europese somertyd
+  },
+  Asia/Srednekolymsk: {
+    Generic: Srednekolymsk-tyd,
+    Standard: Srednekolymsk-standaardtyd,
+    Daylight: Srednekolymsk-dagligtyd
+  },
+  Asia/Kamchatka: {
+    Generic: Kamtsjatka-tyd,
+    Standard: Kamtsjatka-standaardtyd,
+    Daylight: Kamtsjatka-dagligtyd
+  },
+  Asia/Anadyr: {
+    Generic: Anadyr-tyd,
+    Standard: Anadyr-standaardtyd,
+    Daylight: Anadyr-dagligtyd
+  },
+  Europe/Samara: {
+    Generic: Samara-tyd,
+    Standard: Samara-standaardtyd,
+    Daylight: Samara-dagligtyd
+  },
+  Europe/Moscow: {
+    Generic: Moskou-tyd,
+    Standard: Moskou-standaardtyd,
+    Daylight: Moskou-dagligtyd
+  },
+  Europe/Kirov: {
+    Generic: Kirov-tyd,
+    Standard: Kirov-standaardtyd,
+    Daylight: Kirov-dagligtyd
+  },
+  Europe/Simferopol: {
+    Generic: Moskou-tyd,
+    Standard: Moskou-standaardtyd,
+    Daylight: Moskou-somertyd
+  },
+  America/Cayenne: {
+    Generic: Frans-Guiana-tyd,
+    Standard: Frans-Guiana-tyd,
+    Daylight: Frans-Guiana-tyd
+  },
+  Antarctica/Rothera: {
+    Generic: Rothera-tyd,
+    Standard: Rothera-tyd,
+    Daylight: Rothera-tyd
+  },
+  Antarctica/Palmer: {
+    Generic: Chili-tyd,
+    Standard: Chili-standaardtyd,
+    Daylight: Chili-somertyd
+  },
+  America/Fortaleza: {
+    Generic: Brasilia-tyd,
+    Standard: Brasilia-standaardtyd,
+    Daylight: Brasilia-somertyd
+  },
+  America/Belem: {
+    Generic: Brasilia-tyd,
+    Standard: Brasilia-standaardtyd,
+    Daylight: Brasilia-somertyd
+  },
+  America/Maceio: {
+    Generic: Brasilia-tyd,
+    Standard: Brasilia-standaardtyd,
+    Daylight: Brasilia-somertyd
+  },
+  America/Recife: {
+    Generic: Brasilia-tyd,
+    Standard: Brasilia-standaardtyd,
+    Daylight: Brasilia-somertyd
+  },
+  America/Santarem: {
+    Generic: Brasilia-tyd,
+    Standard: Brasilia-standaardtyd,
+    Daylight: Brasilia-somertyd
+  },
+  Atlantic/Stanley: {
+    Generic: Falklandeilande-tyd,
+    Standard: Falklandeilande-standaardtyd,
+    Daylight: Falklandeilande-somertyd
+  },
+  America/Paramaribo: {
+    Generic: Suriname-tyd,
+    Standard: Suriname-tyd,
+    Daylight: Suriname-tyd
+  },
+  Etc/GMT+3: {
+    Generic: Gekoördineerde universele tyd -3,
+    Standard: Gekoördineerde universele tyd -3,
+    Daylight: Gekoördineerde universele tyd -3
+  },
+  America/Bogota: {
+    Generic: Colombië-tyd,
+    Standard: Colombië-standaardtyd,
+    Daylight: Colombia-somertyd
+  },
+  America/Rio_Branco: {
+    Generic: Brasilië-tyd,
+    Standard: Brasilië-standaardtyd,
+    Daylight: Brasilië-dagligtyd
+  },
+  America/Eirunepe: {
+    Generic: Brasilië-tyd,
+    Standard: Brasilië-standaardtyd,
+    Daylight: Brasilië-dagligtyd
+  },
+  America/Coral_Harbour: {
+    Generic: Noord-Amerikaanse oostelike tyd,
+    Standard: Noord-Amerikaanse oostelike standaardtyd,
+    Daylight: Noord-Amerikaanse oostelike dagligtyd
+  },
+  America/Guayaquil: {
+    Generic: Ecuador-tyd,
+    Standard: Ecuador-tyd,
+    Daylight: Ecuador-tyd
+  },
+  America/Jamaica: {
+    Generic: Noord-Amerikaanse oostelike tyd,
+    Standard: Noord-Amerikaanse oostelike standaardtyd,
+    Daylight: Noord-Amerikaanse oostelike dagligtyd
+  },
+  America/Cayman: {
+    Generic: Noord-Amerikaanse oostelike tyd,
+    Standard: Noord-Amerikaanse oostelike standaardtyd,
+    Daylight: Noord-Amerikaanse oostelike dagligtyd
+  },
+  America/Panama: {
+    Generic: Noord-Amerikaanse oostelike tyd,
+    Standard: Noord-Amerikaanse oostelike standaardtyd,
+    Daylight: Noord-Amerikaanse oostelike dagligtyd
+  },
+  America/Lima: {
+    Generic: Peru-tyd,
+    Standard: Peru-standaardtyd,
+    Daylight: Peru-somertyd
+  },
+  Etc/GMT+5: {
+    Generic: Gekoördineerde universele tyd -5,
+    Standard: Gekoördineerde universele tyd -5,
+    Daylight: Gekoördineerde universele tyd -5
+  },
+  America/La_Paz: {
+    Generic: Bolivië-tyd,
+    Standard: Bolivië-tyd,
+    Daylight: Bolivië-tyd
+  },
+  America/Antigua: {
+    Generic: Atlantiese tyd,
+    Standard: Atlantiese standaardtyd,
+    Daylight: Atlantiese dagligtyd
+  },
+  America/Anguilla: {
+    Generic: Atlantiese tyd,
+    Standard: Atlantiese standaardtyd,
+    Daylight: Atlantiese dagligtyd
+  },
+  America/Aruba: {
+    Generic: Atlantiese tyd,
+    Standard: Atlantiese standaardtyd,
+    Daylight: Atlantiese dagligtyd
+  },
+  America/Barbados: {
+    Generic: Atlantiese tyd,
+    Standard: Atlantiese standaardtyd,
+    Daylight: Atlantiese dagligtyd
+  },
+  America/St_Barthelemy: {
+    Generic: Atlantiese tyd,
+    Standard: Atlantiese standaardtyd,
+    Daylight: Atlantiese dagligtyd
+  },
+  America/Kralendijk: {
+    Generic: Atlantiese tyd,
+    Standard: Atlantiese standaardtyd,
+    Daylight: Atlantiese dagligtyd
+  },
+  America/Manaus: {
+    Generic: Amasone-tyd,
+    Standard: Amasone-standaardtyd,
+    Daylight: Amasone-somertyd
+  },
+  America/Boa_Vista: {
+    Generic: Amasone-tyd,
+    Standard: Amasone-standaardtyd,
+    Daylight: Amasone-somertyd
+  },
+  America/Porto_Velho: {
+    Generic: Amasone-tyd,
+    Standard: Amasone-standaardtyd,
+    Daylight: Amasone-somertyd
+  },
+  America/Blanc-Sablon: {
+    Generic: Atlantiese tyd,
+    Standard: Atlantiese standaardtyd,
+    Daylight: Atlantiese dagligtyd
+  },
+  America/Curacao: {
+    Generic: Atlantiese tyd,
+    Standard: Atlantiese standaardtyd,
+    Daylight: Atlantiese dagligtyd
+  },
+  America/Dominica: {
+    Generic: Atlantiese tyd,
+    Standard: Atlantiese standaardtyd,
+    Daylight: Atlantiese dagligtyd
+  },
+  America/Santo_Domingo: {
+    Generic: Atlantiese tyd,
+    Standard: Atlantiese standaardtyd,
+    Daylight: Atlantiese dagligtyd
+  },
+  America/Grenada: {
+    Generic: Atlantiese tyd,
+    Standard: Atlantiese standaardtyd,
+    Daylight: Atlantiese dagligtyd
+  },
+  America/Guadeloupe: {
+    Generic: Atlantiese tyd,
+    Standard: Atlantiese standaardtyd,
+    Daylight: Atlantiese dagligtyd
+  },
+  America/Guyana: {
+    Generic: Guiana-tyd,
+    Standard: Guiana-tyd,
+    Daylight: Guiana-tyd
+  },
+  America/St_Kitts: {
+    Generic: Atlantiese tyd,
+    Standard: Atlantiese standaardtyd,
+    Daylight: Atlantiese dagligtyd
+  },
+  America/St_Lucia: {
+    Generic: Atlantiese tyd,
+    Standard: Atlantiese standaardtyd,
+    Daylight: Atlantiese dagligtyd
+  },
+  America/Marigot: {
+    Generic: Atlantiese tyd,
+    Standard: Atlantiese standaardtyd,
+    Daylight: Atlantiese dagligtyd
+  },
+  America/Martinique: {
+    Generic: Atlantiese tyd,
+    Standard: Atlantiese standaardtyd,
+    Daylight: Atlantiese dagligtyd
+  },
+  America/Montserrat: {
+    Generic: Atlantiese tyd,
+    Standard: Atlantiese standaardtyd,
+    Daylight: Atlantiese dagligtyd
+  },
+  America/Puerto_Rico: {
+    Generic: Atlantiese tyd,
+    Standard: Atlantiese standaardtyd,
+    Daylight: Atlantiese dagligtyd
+  },
+  America/Lower_Princes: {
+    Generic: Atlantiese tyd,
+    Standard: Atlantiese standaardtyd,
+    Daylight: Atlantiese dagligtyd
+  },
+  America/Port_of_Spain: {
+    Generic: Atlantiese tyd,
+    Standard: Atlantiese standaardtyd,
+    Daylight: Atlantiese dagligtyd
+  },
+  America/St_Vincent: {
+    Generic: Atlantiese tyd,
+    Standard: Atlantiese standaardtyd,
+    Daylight: Atlantiese dagligtyd
+  },
+  America/Tortola: {
+    Generic: Atlantiese tyd,
+    Standard: Atlantiese standaardtyd,
+    Daylight: Atlantiese dagligtyd
+  },
+  America/St_Thomas: {
+    Generic: Atlantiese tyd,
+    Standard: Atlantiese standaardtyd,
+    Daylight: Atlantiese dagligtyd
+  },
+  Etc/GMT+4: {
+    Generic: Gekoördineerde universele tyd -4,
+    Standard: Gekoördineerde universele tyd -4,
+    Daylight: Gekoördineerde universele tyd -4
+  },
+  Asia/Bangkok: {
+    Generic: Indosjina-tyd,
+    Standard: Indosjina-tyd,
+    Daylight: Indosjina-tyd
+  },
+  Antarctica/Davis: {
+    Generic: Davis-tyd,
+    Standard: Davis-tyd,
+    Daylight: Davis-tyd
+  },
+  Indian/Christmas: {
+    Generic: Christmaseiland-tyd,
+    Standard: Christmaseiland-tyd,
+    Daylight: Christmaseiland-tyd
+  },
+  Asia/Jakarta: {
+    Generic: Wes-Indonesië-tyd,
+    Standard: Wes-Indonesië-tyd,
+    Daylight: Wes-Indonesië-tyd
+  },
+  Asia/Pontianak: {
+    Generic: Wes-Indonesië-tyd,
+    Standard: Wes-Indonesië-tyd,
+    Daylight: Wes-Indonesië-tyd
+  },
+  Asia/Phnom_Penh: {
+    Generic: Indosjina-tyd,
+    Standard: Indosjina-tyd,
+    Daylight: Indosjina-tyd
+  },
+  Asia/Vientiane: {
+    Generic: Indosjina-tyd,
+    Standard: Indosjina-tyd,
+    Daylight: Indosjina-tyd
+  },
+  Asia/Saigon: {
+    Generic: Indosjina-tyd,
+    Standard: Indosjina-tyd,
+    Daylight: Indosjina-tyd
+  },
+  Etc/GMT-7: {
+    Generic: Gekoördineerde universele tyd +7,
+    Standard: Gekoördineerde universele tyd +7,
+    Daylight: Gekoördineerde universele tyd +7
+  },
+  America/Miquelon: {
+    Generic: Sint-Pierre en Miquelon-tyd,
+    Standard: Sint-Pierre en Miquelon-standaardtyd,
+    Daylight: Sint-Pierre en Miquelon-dagligtyd
+  },
+  Asia/Sakhalin: {
+    Generic: Sakhalin-tyd,
+    Standard: Sakhalin-standaardtyd,
+    Daylight: Sakhalin-dagligtyd
+  },
+  Pacific/Apia: {
+    Generic: Apia-tyd,
+    Standard: Apia-standaardtyd,
+    Daylight: Apia-dagligtyd
+  },
+  Africa/Sao_Tome: {
+    Generic: Greenwich-tyd,
+    Standard: Greenwich-tyd,
+    Daylight: Greenwich-tyd
+  },
+  Europe/Saratov: {
+    Generic: Saratof-tyd,
+    Standard: Saratof-standaardtyd,
+    Daylight: Saratof-dagligtyd
+  },
+  Asia/Singapore: {
+    Generic: Singapoer-standaardtyd,
+    Standard: Singapoer-standaardtyd,
+    Daylight: Singapoer-standaardtyd
+  },
+  Asia/Brunei: {
+    Generic: Broenei Darussalam-tyd,
+    Standard: Broenei Darussalam-tyd,
+    Daylight: Broenei Darussalam-tyd
+  },
+  Asia/Makassar: {
+    Generic: Sentraal-Indonesiese tyd,
+    Standard: Sentraal-Indonesiese tyd,
+    Daylight: Sentraal-Indonesiese tyd
+  },
+  Asia/Kuala_Lumpur: {
+    Generic: Maleisië-tyd,
+    Standard: Maleisië-tyd,
+    Daylight: Maleisië-tyd
+  },
+  Asia/Kuching: {
+    Generic: Maleisië-tyd,
+    Standard: Maleisië-tyd,
+    Daylight: Maleisië-tyd
+  },
+  Asia/Manila: {
+    Generic: Filippynse tyd,
+    Standard: Filippynse standaardtyd,
+    Daylight: Filippynse somertyd
+  },
+  Etc/GMT-8: {
+    Generic: Gekoördineerde universele tyd +8,
+    Standard: Gekoördineerde universele tyd +8,
+    Daylight: Gekoördineerde universele tyd +8
+  },
+  Africa/Johannesburg: {
+    Generic: Suid-Afrika-standaardtyd,
+    Standard: Suid-Afrika-standaardtyd,
+    Daylight: Suid-Afrika-standaardtyd
+  },
+  Africa/Bujumbura: {
+    Generic: Sentraal-Afrika-tyd,
+    Standard: Sentraal-Afrika-tyd,
+    Daylight: Sentraal-Afrika-tyd
+  },
+  Africa/Gaborone: {
+    Generic: Sentraal-Afrika-tyd,
+    Standard: Sentraal-Afrika-tyd,
+    Daylight: Sentraal-Afrika-tyd
+  },
+  Africa/Lubumbashi: {
+    Generic: Sentraal-Afrika-tyd,
+    Standard: Sentraal-Afrika-tyd,
+    Daylight: Sentraal-Afrika-tyd
+  },
+  Africa/Maseru: {
+    Generic: Suid-Afrika-standaardtyd,
+    Standard: Suid-Afrika-standaardtyd,
+    Daylight: Suid-Afrika-standaardtyd
+  },
+  Africa/Blantyre: {
+    Generic: Sentraal-Afrika-tyd,
+    Standard: Sentraal-Afrika-tyd,
+    Daylight: Sentraal-Afrika-tyd
+  },
+  Africa/Maputo: {
+    Generic: Sentraal-Afrika-tyd,
+    Standard: Sentraal-Afrika-tyd,
+    Daylight: Sentraal-Afrika-tyd
+  },
+  Africa/Kigali: {
+    Generic: Sentraal-Afrika-tyd,
+    Standard: Sentraal-Afrika-tyd,
+    Daylight: Sentraal-Afrika-tyd
+  },
+  Africa/Mbabane: {
+    Generic: Suid-Afrika-standaardtyd,
+    Standard: Suid-Afrika-standaardtyd,
+    Daylight: Suid-Afrika-standaardtyd
+  },
+  Africa/Lusaka: {
+    Generic: Sentraal-Afrika-tyd,
+    Standard: Sentraal-Afrika-tyd,
+    Daylight: Sentraal-Afrika-tyd
+  },
+  Africa/Harare: {
+    Generic: Sentraal-Afrika-tyd,
+    Standard: Sentraal-Afrika-tyd,
+    Daylight: Sentraal-Afrika-tyd
+  },
+  Etc/GMT-2: {
+    Generic: Gekoördineerde universele tyd +2,
+    Standard: Gekoördineerde universele tyd +2,
+    Daylight: Gekoördineerde universele tyd +2
+  },
+  Africa/Juba: {
+    Generic: Sentraal-Afrika-tyd,
+    Standard: Sentraal-Afrika-tyd,
+    Daylight: Sentraal-Afrika-tyd
+  },
+  Asia/Colombo: {
+    Generic: Indië-standaardtyd,
+    Standard: Indië-standaardtyd,
+    Daylight: Indië-standaardtyd
+  },
+  Africa/Khartoum: {
+    Generic: Sentraal-Afrika-tyd,
+    Standard: Sentraal-Afrika-tyd,
+    Daylight: Sentraal-Afrika-tyd
+  },
+  Asia/Damascus: {
+    Generic: Oos-Europese tyd,
+    Standard: Oos-Europese standaardtyd,
+    Daylight: Oos-Europese somertyd
+  },
+  Asia/Taipei: {
+    Generic: Taipei-tyd,
+    Standard: Taipei-standaardtyd,
+    Daylight: Taipei-dagligtyd
+  },
+  Australia/Hobart: {
+    Generic: Oostelike Australiese tyd,
+    Standard: Oostelike Australiese standaardtyd,
+    Daylight: Oostelike Australiese dagligtyd
+  },
+  Australia/Currie: {
+    Generic: Oostelike Australiese tyd,
+    Standard: Oostelike Australiese standaardtyd,
+    Daylight: Oostelike Australiese dagligtyd
+  },
+  Antarctica/Macquarie: {
+    Generic: Oostelike Australiese tyd,
+    Standard: Oostelike Australiese standaardtyd,
+    Daylight: Oostelike Australiese dagligtyd
+  },
+  America/Araguaina: {
+    Generic: Brasilia-tyd,
+    Standard: Brasilia-standaardtyd,
+    Daylight: Brasilia-somertyd
+  },
+  Asia/Tokyo: {
+    Generic: Japan-tyd,
+    Standard: Japan-standaardtyd,
+    Daylight: Japan-dagligtyd
+  },
+  Asia/Jayapura: {
+    Generic: Oos-Indonesië-tyd,
+    Standard: Oos-Indonesië-tyd,
+    Daylight: Oos-Indonesië-tyd
+  },
+  Pacific/Palau: {
+    Generic: Palau-tyd,
+    Standard: Palau-tyd,
+    Daylight: Palau-tyd
+  },
+  Asia/Dili: {
+    Generic: Oos-Timor-tyd,
+    Standard: Oos-Timor-tyd,
+    Daylight: Oos-Timor-tyd
+  },
+  Etc/GMT-9: {
+    Generic: Gekoördineerde universele tyd +9,
+    Standard: Gekoördineerde universele tyd +9,
+    Daylight: Gekoördineerde universele tyd +9
+  },
+  Asia/Tomsk: {
+    Generic: Tomsk-tyd,
+    Standard: Tomsk-standaardtyd,
+    Daylight: Tomsk-dagligtyd
+  },
+  Pacific/Tongatapu: {
+    Generic: Tonga-tyd,
+    Standard: Tonga-standaardtyd,
+    Daylight: Tonga-somertyd
+  },
+  Asia/Chita: {
+    Generic: Chita-tyd,
+    Standard: Chita-standaardtyd,
+    Daylight: Chita-dagligtyd
+  },
+  Europe/Istanbul: {
+    Generic: Turkye-tyd,
+    Standard: Turkye-standaardtyd,
+    Daylight: Turkye-dagligtyd
+  },
+  America/Grand_Turk: {
+    Generic: Noord-Amerikaanse oostelike tyd,
+    Standard: Noord-Amerikaanse oostelike standaardtyd,
+    Daylight: Noord-Amerikaanse oostelike dagligtyd
+  },
+  America/Indianapolis: {
+    Generic: Noord-Amerikaanse oostelike tyd,
+    Standard: Noord-Amerikaanse oostelike standaardtyd,
+    Daylight: Noord-Amerikaanse oostelike dagligtyd
+  },
+  America/Indiana/Marengo: {
+    Generic: Noord-Amerikaanse oostelike tyd,
+    Standard: Noord-Amerikaanse oostelike standaardtyd,
+    Daylight: Noord-Amerikaanse oostelike dagligtyd
+  },
+  America/Indiana/Vevay: {
+    Generic: Noord-Amerikaanse oostelike tyd,
+    Standard: Noord-Amerikaanse oostelike standaardtyd,
+    Daylight: Noord-Amerikaanse oostelike dagligtyd
+  },
+  America/Phoenix: {
+    Generic: Noord-Amerikaanse bergtyd,
+    Standard: Noord-Amerikaanse berg-standaardtyd,
+    Daylight: Noord-Amerikaanse berg-dagligtyd
+  },
+  America/Creston: {
+    Generic: Noord-Amerikaanse bergtyd,
+    Standard: Noord-Amerikaanse berg-standaardtyd,
+    Daylight: Noord-Amerikaanse berg-dagligtyd
+  },
+  America/Dawson_Creek: {
+    Generic: Noord-Amerikaanse bergtyd,
+    Standard: Noord-Amerikaanse berg-standaardtyd,
+    Daylight: Noord-Amerikaanse berg-dagligtyd
+  },
+  America/Fort_Nelson: {
+    Generic: Noord-Amerikaanse bergtyd,
+    Standard: Noord-Amerikaanse berg-standaardtyd,
+    Daylight: Noord-Amerikaanse berg-dagligtyd
+  },
+  America/Hermosillo: {
+    Generic: Meksikaanse Pasifiese tyd,
+    Standard: Meksikaanse Pasifiese standaardtyd,
+    Daylight: Meksikaanse Pasifiese dagligtyd
+  },
+  Etc/GMT+7: {
+    Generic: Gekoördineerde universele tyd -7,
+    Standard: Gekoördineerde universele tyd -7,
+    Daylight: Gekoördineerde universele tyd -7
+  },
+  Etc/GMT-12: {
+    Generic: Gekoördineerde universele tyd +12,
+    Standard: Gekoördineerde universele tyd +12,
+    Daylight: Gekoördineerde universele tyd +12
+  },
+  Pacific/Tarawa: {
+    Generic: Gilberteilande-tyd,
+    Standard: Gilberteilande-tyd,
+    Daylight: Gilberteilande-tyd
+  },
+  Pacific/Majuro: {
+    Generic: Marshalleilande-tyd,
+    Standard: Marshalleilande-tyd,
+    Daylight: Marshalleilande-tyd
+  },
+  Pacific/Kwajalein: {
+    Generic: Marshalleilande-tyd,
+    Standard: Marshalleilande-tyd,
+    Daylight: Marshalleilande-tyd
+  },
+  Pacific/Nauru: {
+    Generic: Nauru-tyd,
+    Standard: Nauru-tyd,
+    Daylight: Nauru-tyd
+  },
+  Pacific/Funafuti: {
+    Generic: Tuvalu-tyd,
+    Standard: Tuvalu-tyd,
+    Daylight: Tuvalu-tyd
+  },
+  Pacific/Wake: {
+    Generic: Wake-eiland-tyd,
+    Standard: Wake-eiland-tyd,
+    Daylight: Wake-eiland-tyd
+  },
+  Pacific/Wallis: {
+    Generic: Wallis en Futuna-tyd,
+    Standard: Wallis en Futuna-tyd,
+    Daylight: Wallis en Futuna-tyd
+  },
+  Etc/GMT-13: {
+    Generic: Gekoördineerde universele tyd +13,
+    Standard: Gekoördineerde universele tyd +13,
+    Daylight: Gekoördineerde universele tyd +13
+  },
+  Pacific/Enderbury: {
+    Generic: Fenikseilande-tyd,
+    Standard: Fenikseilande-tyd,
+    Daylight: Fenikseilande-tyd
+  },
+  Pacific/Fakaofo: {
+    Generic: Tokelau-tyd,
+    Standard: Tokelau-tyd,
+    Daylight: Tokelau-tyd
+  },
+  Etc/UTC: {
+    Generic: Gekoördineerde universele tyd,
+    Standard: Gekoördineerde universele tyd,
+    Daylight: Gekoördineerde universele tyd
+  },
+  Etc/GMT: {
+    Generic: Greenwich-tyd,
+    Standard: Greenwich-tyd,
+    Daylight: Greenwich-tyd
+  },
+  Etc/GMT+2: {
+    Generic: Gekoördineerde universele tyd -2,
+    Standard: Gekoördineerde universele tyd -2,
+    Daylight: Gekoördineerde universele tyd -2
+  },
+  America/Noronha: {
+    Generic: Fernando de Noronha-tyd,
+    Standard: Fernando de Noronha-standaardtyd,
+    Daylight: Fernando de Noronha-somertyd
+  },
+  Atlantic/South_Georgia: {
+    Generic: Suid-Georgië-tyd,
+    Standard: Suid-Georgië-tyd,
+    Daylight: Suid-Georgië-tyd
+  },
+  Etc/GMT+8: {
+    Generic: Gekoördineerde universele tyd -8,
+    Standard: Gekoördineerde universele tyd -8,
+    Daylight: Gekoördineerde universele tyd -8
+  },
+  Pacific/Pitcairn: {
+    Generic: Pitcairn-tyd,
+    Standard: Pitcairn-tyd,
+    Daylight: Pitcairn-tyd
+  },
+  Etc/GMT+9: {
+    Generic: Gekoördineerde universele tyd -9,
+    Standard: Gekoördineerde universele tyd -9,
+    Daylight: Gekoördineerde universele tyd -9
+  },
+  Pacific/Gambier: {
+    Generic: Gambier-tyd,
+    Standard: Gambier-tyd,
+    Daylight: Gambier-tyd
+  },
+  Etc/GMT+11: {
+    Generic: Gekoördineerde universele tyd -11,
+    Standard: Gekoördineerde universele tyd -11,
+    Daylight: Gekoördineerde universele tyd -11
+  },
+  Pacific/Pago_Pago: {
+    Generic: Samoa-tyd,
+    Standard: Samoa-standaardtyd,
+    Daylight: Samoa-dagligtyd
+  },
+  Pacific/Niue: {
+    Generic: Niue-tyd,
+    Standard: Niue-tyd,
+    Daylight: Niue-tyd
+  },
+  Pacific/Midway: {
+    Generic: Samoa-tyd,
+    Standard: Samoa-standaardtyd,
+    Daylight: Samoa-dagligtyd
+  },
+  Asia/Ulaanbaatar: {
+    Generic: Ulaanbaatar-tyd,
+    Standard: Ulaanbaatar-standaardtyd,
+    Daylight: Ulaanbaatar-somertyd
+  },
+  Asia/Choibalsan: {
+    Generic: Ulaanbaatar-tyd,
+    Standard: Ulaanbaatar-standaardtyd,
+    Daylight: Ulaanbaatar-somertyd
+  },
+  America/Caracas: {
+    Generic: Venezuela-tyd,
+    Standard: Venezuela-tyd,
+    Daylight: Venezuela-tyd
+  },
+  Asia/Vladivostok: {
+    Generic: Wladiwostok-tyd,
+    Standard: Wladiwostok-standaardtyd,
+    Daylight: Wladiwostok-dagligtyd
+  },
+  Asia/Ust-Nera: {
+    Generic: Ust-Nera-tyd,
+    Standard: Ust-Nera-standaardtyd,
+    Daylight: Ust-Nera-dagligtyd
+  },
+  Europe/Volgograd: {
+    Generic: Wolgograd-tyd,
+    Standard: Wolgograd-standaardtyd,
+    Daylight: Wolgograd-dagligtyd
+  },
+  Australia/Perth: {
+    Generic: Westelike Australiese tyd,
+    Standard: Westelike Australiese standaardtyd,
+    Daylight: Westelike Australiese dagligtyd
+  },
+  Africa/Lagos: {
+    Generic: Wes-Afrika-tyd,
+    Standard: Wes-Afrika-standaardtyd,
+    Daylight: Wes-Afrika-somertyd
+  },
+  Africa/Luanda: {
+    Generic: Wes-Afrika-tyd,
+    Standard: Wes-Afrika-standaardtyd,
+    Daylight: Wes-Afrika-somertyd
+  },
+  Africa/Porto-Novo: {
+    Generic: Wes-Afrika-tyd,
+    Standard: Wes-Afrika-standaardtyd,
+    Daylight: Wes-Afrika-somertyd
+  },
+  Africa/Kinshasa: {
+    Generic: Wes-Afrika-tyd,
+    Standard: Wes-Afrika-standaardtyd,
+    Daylight: Wes-Afrika-somertyd
+  },
+  Africa/Bangui: {
+    Generic: Wes-Afrika-tyd,
+    Standard: Wes-Afrika-standaardtyd,
+    Daylight: Wes-Afrika-somertyd
+  },
+  Africa/Brazzaville: {
+    Generic: Wes-Afrika-tyd,
+    Standard: Wes-Afrika-standaardtyd,
+    Daylight: Wes-Afrika-somertyd
+  },
+  Africa/Douala: {
+    Generic: Wes-Afrika-tyd,
+    Standard: Wes-Afrika-standaardtyd,
+    Daylight: Wes-Afrika-somertyd
+  },
+  Africa/Algiers: {
+    Generic: Sentraal-Europese tyd,
+    Standard: Sentraal-Europese standaardtyd,
+    Daylight: Sentraal-Europese somertyd
+  },
+  Africa/Libreville: {
+    Generic: Wes-Afrika-tyd,
+    Standard: Wes-Afrika-standaardtyd,
+    Daylight: Wes-Afrika-somertyd
+  },
+  Africa/Malabo: {
+    Generic: Wes-Afrika-tyd,
+    Standard: Wes-Afrika-standaardtyd,
+    Daylight: Wes-Afrika-somertyd
+  },
+  Africa/Niamey: {
+    Generic: Wes-Afrika-tyd,
+    Standard: Wes-Afrika-standaardtyd,
+    Daylight: Wes-Afrika-somertyd
+  },
+  Africa/Ndjamena: {
+    Generic: Wes-Afrika-tyd,
+    Standard: Wes-Afrika-standaardtyd,
+    Daylight: Wes-Afrika-somertyd
+  },
+  Africa/Tunis: {
+    Generic: Sentraal-Europese tyd,
+    Standard: Sentraal-Europese standaardtyd,
+    Daylight: Sentraal-Europese somertyd
+  },
+  Etc/GMT-1: {
+    Generic: Gekoördineerde universele tyd +1,
+    Standard: Gekoördineerde universele tyd +1,
+    Daylight: Gekoördineerde universele tyd +1
+  },
+  Europe/Berlin: {
+    Generic: Sentraal-Europese tyd,
+    Standard: Sentraal-Europese standaardtyd,
+    Daylight: Sentraal-Europese somertyd
+  },
+  Europe/Andorra: {
+    Generic: Sentraal-Europese tyd,
+    Standard: Sentraal-Europese standaardtyd,
+    Daylight: Sentraal-Europese somertyd
+  },
+  Europe/Vienna: {
+    Generic: Sentraal-Europese tyd,
+    Standard: Sentraal-Europese standaardtyd,
+    Daylight: Sentraal-Europese somertyd
+  },
+  Europe/Zurich: {
+    Generic: Sentraal-Europese tyd,
+    Standard: Sentraal-Europese standaardtyd,
+    Daylight: Sentraal-Europese somertyd
+  },
+  Europe/Busingen: {
+    Generic: Sentraal-Europese tyd,
+    Standard: Sentraal-Europese standaardtyd,
+    Daylight: Sentraal-Europese somertyd
+  },
+  Europe/Gibraltar: {
+    Generic: Sentraal-Europese tyd,
+    Standard: Sentraal-Europese standaardtyd,
+    Daylight: Sentraal-Europese somertyd
+  },
+  Europe/Rome: {
+    Generic: Sentraal-Europese tyd,
+    Standard: Sentraal-Europese standaardtyd,
+    Daylight: Sentraal-Europese somertyd
+  },
+  Europe/Vaduz: {
+    Generic: Sentraal-Europese tyd,
+    Standard: Sentraal-Europese standaardtyd,
+    Daylight: Sentraal-Europese somertyd
+  },
+  Europe/Luxembourg: {
+    Generic: Sentraal-Europese tyd,
+    Standard: Sentraal-Europese standaardtyd,
+    Daylight: Sentraal-Europese somertyd
+  },
+  Europe/Monaco: {
+    Generic: Sentraal-Europese tyd,
+    Standard: Sentraal-Europese standaardtyd,
+    Daylight: Sentraal-Europese somertyd
+  },
+  Europe/Malta: {
+    Generic: Sentraal-Europese tyd,
+    Standard: Sentraal-Europese standaardtyd,
+    Daylight: Sentraal-Europese somertyd
+  },
+  Europe/Amsterdam: {
+    Generic: Sentraal-Europese tyd,
+    Standard: Sentraal-Europese standaardtyd,
+    Daylight: Sentraal-Europese somertyd
+  },
+  Europe/Oslo: {
+    Generic: Sentraal-Europese tyd,
+    Standard: Sentraal-Europese standaardtyd,
+    Daylight: Sentraal-Europese somertyd
+  },
+  Europe/Stockholm: {
+    Generic: Sentraal-Europese tyd,
+    Standard: Sentraal-Europese standaardtyd,
+    Daylight: Sentraal-Europese somertyd
+  },
+  Arctic/Longyearbyen: {
+    Generic: Sentraal-Europese tyd,
+    Standard: Sentraal-Europese standaardtyd,
+    Daylight: Sentraal-Europese somertyd
+  },
+  Europe/San_Marino: {
+    Generic: Sentraal-Europese tyd,
+    Standard: Sentraal-Europese standaardtyd,
+    Daylight: Sentraal-Europese somertyd
+  },
+  Europe/Vatican: {
+    Generic: Sentraal-Europese tyd,
+    Standard: Sentraal-Europese standaardtyd,
+    Daylight: Sentraal-Europese somertyd
+  },
+  Asia/Hovd: {
+    Generic: Hovd-tyd,
+    Standard: Hovd-standaardtyd,
+    Daylight: Hovd-somertyd
+  },
+  Asia/Tashkent: {
+    Generic: Oesbekistan-tyd,
+    Standard: Oesbekistan-standaardtyd,
+    Daylight: Oesbekistan-somertyd
+  },
+  Antarctica/Mawson: {
+    Generic: Mawson-tyd,
+    Standard: Mawson-tyd,
+    Daylight: Mawson-tyd
+  },
+  Asia/Oral: {
+    Generic: Wes-Kazakstan-tyd,
+    Standard: Wes-Kazakstan-tyd,
+    Daylight: Wes-Kazakstan-tyd
+  },
+  Asia/Aqtau: {
+    Generic: Wes-Kazakstan-tyd,
+    Standard: Wes-Kazakstan-tyd,
+    Daylight: Wes-Kazakstan-tyd
+  },
+  Asia/Aqtobe: {
+    Generic: Wes-Kazakstan-tyd,
+    Standard: Wes-Kazakstan-tyd,
+    Daylight: Wes-Kazakstan-tyd
+  },
+  Asia/Atyrau: {
+    Generic: Wes-Kazakstan-tyd,
+    Standard: Wes-Kazakstan-tyd,
+    Daylight: Wes-Kazakstan-tyd
+  },
+  Indian/Maldives: {
+    Generic: Maledive-tyd,
+    Standard: Maledive-tyd,
+    Daylight: Maledive-tyd
+  },
+  Indian/Kerguelen: {
+    Generic: Franse Suider- en Antarktiese tyd,
+    Standard: Franse Suider- en Antarktiese tyd,
+    Daylight: Franse Suider- en Antarktiese tyd
+  },
+  Asia/Dushanbe: {
+    Generic: Tadjikistan-tyd,
+    Standard: Tadjikistan-tyd,
+    Daylight: Tadjikistan-tyd
+  },
+  Asia/Ashgabat: {
+    Generic: Turkmenistan-tyd,
+    Standard: Turkmenistan-standaardtyd,
+    Daylight: Turkmenistan-somertyd
+  },
+  Asia/Samarkand: {
+    Generic: Oesbekistan-tyd,
+    Standard: Oesbekistan-standaardtyd,
+    Daylight: Oesbekistan-somertyd
+  },
+  Etc/GMT-5: {
+    Generic: Gekoördineerde universele tyd +5,
+    Standard: Gekoördineerde universele tyd +5,
+    Daylight: Gekoördineerde universele tyd +5
+  },
+  Asia/Hebron: {
+    Generic: Oos-Europese tyd,
+    Standard: Oos-Europese standaardtyd,
+    Daylight: Oos-Europese somertyd
+  },
+  Asia/Gaza: {
+    Generic: Oos-Europese tyd,
+    Standard: Oos-Europese standaardtyd,
+    Daylight: Oos-Europese somertyd
+  },
+  Pacific/Port_Moresby: {
+    Generic: Papoea-Nieu-Guinee-tyd,
+    Standard: Papoea-Nieu-Guinee-tyd,
+    Daylight: Papoea-Nieu-Guinee-tyd
+  },
+  Antarctica/DumontDUrville: {
+    Generic: Dumont-d’Urville-tyd,
+    Standard: Dumont-d’Urville-tyd,
+    Daylight: Dumont-d’Urville-tyd
+  },
+  Pacific/Truk: {
+    Generic: Chuuk-tyd,
+    Standard: Chuuk-tyd,
+    Daylight: Chuuk-tyd
+  },
+  Pacific/Guam: {
+    Generic: Chamorro-standaardtyd,
+    Standard: Chamorro-standaardtyd,
+    Daylight: Chamorro-standaardtyd
+  },
+  Pacific/Saipan: {
+    Generic: Chamorro-standaardtyd,
+    Standard: Chamorro-standaardtyd,
+    Daylight: Chamorro-standaardtyd
+  },
+  Etc/GMT-10: {
+    Generic: Gekoördineerde universele tyd +10,
+    Standard: Gekoördineerde universele tyd +10,
+    Daylight: Gekoördineerde universele tyd +10
+  },
+  Asia/Yakutsk: {
+    Generic: Jakoetsk-tyd,
+    Standard: Jakoetsk-standaardtyd,
+    Daylight: Jakoetsk-dagligtyd
+  },
+  Asia/Khandyga: {
+    Generic: Khandyga-tyd,
+    Standard: Khandyga-standaardtyd,
+    Daylight: Khandyga-dagligtyd
+  },
+  America/Whitehorse: {
+    Generic: Yukontyd,
+    Standard: Yukontyd,
+    Daylight: Yukontyd
+  },
+  America/Dawson: {
+    Generic: Yukontyd,
+    Standard: Yukontyd,
+    Daylight: Yukontyd
+  },
+  Iceland: {
+    Generic: Greenwich-tyd,
+    Standard: Greenwich-tyd,
+    Daylight: Greenwich-tyd
+  },
+  Africa/Timbuktu: {
+    Generic: Greenwich-tyd,
+    Standard: Greenwich-tyd,
+    Daylight: Greenwich-tyd
+  },
+  Egypt: {
+    Generic: Oos-Europese tyd,
+    Standard: Oos-Europese standaardtyd,
+    Daylight: Oos-Europese somertyd
+  },
+  Africa/Asmara: {
+    Generic: Oos-Afrika-tyd,
+    Standard: Oos-Afrika-tyd,
+    Daylight: Oos-Afrika-tyd
+  },
+  Libya: {
+    Generic: Oos-Europese tyd,
+    Standard: Oos-Europese standaardtyd,
+    Daylight: Oos-Europese somertyd
+  },
+  America/Atka: {
+    Generic: Hawaii-Aleoete-tyd,
+    Standard: Hawaii-Aleoete-standaardtyd,
+    Daylight: Hawaii-Aleoete-dagligtyd
+  },
+  US/Aleutian: {
+    Generic: Hawaii-Aleoete-tyd,
+    Standard: Hawaii-Aleoete-standaardtyd,
+    Daylight: Hawaii-Aleoete-dagligtyd
+  },
+  US/Alaska: {
+    Generic: Alaska-tyd,
+    Standard: Alaska-standaardtyd,
+    Daylight: Alaska-dagligtyd
+  },
+  America/Argentina/Buenos_Aires: {
+    Generic: Argentinië-tyd,
+    Standard: Argentinië-standaardtyd,
+    Daylight: Argentinië-somertyd
+  },
+  America/Argentina/Catamarca: {
+    Generic: Argentinië-tyd,
+    Standard: Argentinië-standaardtyd,
+    Daylight: Argentinië-somertyd
+  },
+  America/Argentina/ComodRivadavia: {
+    Generic: Argentinië-tyd,
+    Standard: Argentinië-standaardtyd,
+    Daylight: Argentinië-somertyd
+  },
+  America/Argentina/Cordoba: {
+    Generic: Argentinië-tyd,
+    Standard: Argentinië-standaardtyd,
+    Daylight: Argentinië-somertyd
+  },
+  America/Rosario: {
+    Generic: Argentinië-tyd,
+    Standard: Argentinië-standaardtyd,
+    Daylight: Argentinië-somertyd
+  },
+  America/Argentina/Jujuy: {
+    Generic: Argentinië-tyd,
+    Standard: Argentinië-standaardtyd,
+    Daylight: Argentinië-somertyd
+  },
+  America/Argentina/Mendoza: {
+    Generic: Argentinië-tyd,
+    Standard: Argentinië-standaardtyd,
+    Daylight: Argentinië-somertyd
+  },
+  US/Central: {
+    Generic: Noord-Amerikaanse sentrale tyd,
+    Standard: Noord-Amerikaanse sentrale standaardtyd,
+    Daylight: Noord-Amerikaanse sentrale dagligtyd
+  },
+  America/Shiprock: {
+    Generic: Noord-Amerikaanse bergtyd,
+    Standard: Noord-Amerikaanse berg-standaardtyd,
+    Daylight: Noord-Amerikaanse berg-dagligtyd
+  },
+  Navajo: {
+    Generic: Noord-Amerikaanse bergtyd,
+    Standard: Noord-Amerikaanse berg-standaardtyd,
+    Daylight: Noord-Amerikaanse berg-dagligtyd
+  },
+  US/Mountain: {
+    Generic: Noord-Amerikaanse bergtyd,
+    Standard: Noord-Amerikaanse berg-standaardtyd,
+    Daylight: Noord-Amerikaanse berg-dagligtyd
+  },
+  US/Michigan: {
+    Generic: Noord-Amerikaanse oostelike tyd,
+    Standard: Noord-Amerikaanse oostelike standaardtyd,
+    Daylight: Noord-Amerikaanse oostelike dagligtyd
+  },
+  Canada/Mountain: {
+    Generic: Noord-Amerikaanse bergtyd,
+    Standard: Noord-Amerikaanse berg-standaardtyd,
+    Daylight: Noord-Amerikaanse berg-dagligtyd
+  },
+  Canada/Atlantic: {
+    Generic: Atlantiese tyd,
+    Standard: Atlantiese standaardtyd,
+    Daylight: Atlantiese dagligtyd
+  },
+  Cuba: {
+    Generic: Kuba-tyd,
+    Standard: Kuba-standaardtyd,
+    Daylight: Kuba-dagligtyd
+  },
+  America/Indiana/Indianapolis: {
+    Generic: Noord-Amerikaanse oostelike tyd,
+    Standard: Noord-Amerikaanse oostelike standaardtyd,
+    Daylight: Noord-Amerikaanse oostelike dagligtyd
+  },
+  US/East-Indiana: {
+    Generic: Noord-Amerikaanse oostelike tyd,
+    Standard: Noord-Amerikaanse oostelike standaardtyd,
+    Daylight: Noord-Amerikaanse oostelike dagligtyd
+  },
+  America/Knox_IN: {
+    Generic: Noord-Amerikaanse sentrale tyd,
+    Standard: Noord-Amerikaanse sentrale standaardtyd,
+    Daylight: Noord-Amerikaanse sentrale dagligtyd
+  },
+  US/Indiana-Starke: {
+    Generic: Noord-Amerikaanse sentrale tyd,
+    Standard: Noord-Amerikaanse sentrale standaardtyd,
+    Daylight: Noord-Amerikaanse sentrale dagligtyd
+  },
+  Jamaica: {
+    Generic: Noord-Amerikaanse oostelike tyd,
+    Standard: Noord-Amerikaanse oostelike standaardtyd,
+    Daylight: Noord-Amerikaanse oostelike dagligtyd
+  },
+  America/Kentucky/Louisville: {
+    Generic: Noord-Amerikaanse oostelike tyd,
+    Standard: Noord-Amerikaanse oostelike standaardtyd,
+    Daylight: Noord-Amerikaanse oostelike dagligtyd
+  },
+  US/Pacific: {
+    Generic: Pasifiese tyd,
+    Standard: Pasifiese standaardtyd,
+    Daylight: Pasifiese dagligtyd
+  },
+  Brazil/West: {
+    Generic: Amasone-tyd,
+    Standard: Amasone-standaardtyd,
+    Daylight: Amasone-somertyd
+  },
+  Mexico/BajaSur: {
+    Generic: Meksikaanse Pasifiese tyd,
+    Standard: Meksikaanse Pasifiese standaardtyd,
+    Daylight: Meksikaanse Pasifiese dagligtyd
+  },
+  Mexico/General: {
+    Generic: Noord-Amerikaanse sentrale tyd,
+    Standard: Noord-Amerikaanse sentrale standaardtyd,
+    Daylight: Noord-Amerikaanse sentrale dagligtyd
+  },
+  US/Eastern: {
+    Generic: Noord-Amerikaanse oostelike tyd,
+    Standard: Noord-Amerikaanse oostelike standaardtyd,
+    Daylight: Noord-Amerikaanse oostelike dagligtyd
+  },
+  Brazil/DeNoronha: {
+    Generic: Fernando de Noronha-tyd,
+    Standard: Fernando de Noronha-standaardtyd,
+    Daylight: Fernando de Noronha-somertyd
+  },
+  America/Nuuk: {
+    Generic: Wes-Groenland-tyd,
+    Standard: Wes-Groenland-standaardtyd,
+    Daylight: Wes-Groenland-somertyd
+  },
+  America/Atikokan: {
+    Generic: Noord-Amerikaanse oostelike tyd,
+    Standard: Noord-Amerikaanse oostelike standaardtyd,
+    Daylight: Noord-Amerikaanse oostelike dagligtyd
+  },
+  US/Arizona: {
+    Generic: Noord-Amerikaanse bergtyd,
+    Standard: Noord-Amerikaanse berg-standaardtyd,
+    Daylight: Noord-Amerikaanse berg-dagligtyd
+  },
+  America/Virgin: {
+    Generic: Atlantiese tyd,
+    Standard: Atlantiese standaardtyd,
+    Daylight: Atlantiese dagligtyd
+  },
+  Canada/Saskatchewan: {
+    Generic: Noord-Amerikaanse sentrale tyd,
+    Standard: Noord-Amerikaanse sentrale standaardtyd,
+    Daylight: Noord-Amerikaanse sentrale dagligtyd
+  },
+  America/Porto_Acre: {
+    Generic: Brasilië-tyd,
+    Standard: Brasilië-standaardtyd,
+    Daylight: Brasilië-dagligtyd
+  },
+  Brazil/Acre: {
+    Generic: Brasilië-tyd,
+    Standard: Brasilië-standaardtyd,
+    Daylight: Brasilië-dagligtyd
+  },
+  Chile/Continental: {
+    Generic: Chili-tyd,
+    Standard: Chili-standaardtyd,
+    Daylight: Chili-somertyd
+  },
+  Brazil/East: {
+    Generic: Brasilia-tyd,
+    Standard: Brasilia-standaardtyd,
+    Daylight: Brasilia-somertyd
+  },
+  Canada/Newfoundland: {
+    Generic: Newfoundland-tyd,
+    Standard: Newfoundland-standaardtyd,
+    Daylight: Newfoundland-dagligtyd
+  },
+  America/Ensenada: {
+    Generic: Pasifiese tyd,
+    Standard: Pasifiese standaardtyd,
+    Daylight: Pasifiese dagligtyd
+  },
+  Mexico/BajaNorte: {
+    Generic: Pasifiese tyd,
+    Standard: Pasifiese standaardtyd,
+    Daylight: Pasifiese dagligtyd
+  },
+  Canada/Eastern: {
+    Generic: Noord-Amerikaanse oostelike tyd,
+    Standard: Noord-Amerikaanse oostelike standaardtyd,
+    Daylight: Noord-Amerikaanse oostelike dagligtyd
+  },
+  Canada/Pacific: {
+    Generic: Pasifiese tyd,
+    Standard: Pasifiese standaardtyd,
+    Daylight: Pasifiese dagligtyd
+  },
+  Canada/Yukon: {
+    Generic: Yukontyd,
+    Standard: Yukontyd,
+    Daylight: Yukontyd
+  },
+  Canada/Central: {
+    Generic: Noord-Amerikaanse sentrale tyd,
+    Standard: Noord-Amerikaanse sentrale standaardtyd,
+    Daylight: Noord-Amerikaanse sentrale dagligtyd
+  },
+  Asia/Ashkhabad: {
+    Generic: Turkmenistan-tyd,
+    Standard: Turkmenistan-standaardtyd,
+    Daylight: Turkmenistan-somertyd
+  },
+  Asia/Dacca: {
+    Generic: Bangladesj-tyd,
+    Standard: Bangladesj-standaardtyd,
+    Daylight: Bangladesj-somertyd
+  },
+  Asia/Ho_Chi_Minh: {
+    Generic: Indosjina-tyd,
+    Standard: Indosjina-tyd,
+    Daylight: Indosjina-tyd
+  },
+  Hongkong: {
+    Generic: Hongkong-tyd,
+    Standard: Hongkong-standaardtyd,
+    Daylight: Hongkong-somertyd
+  },
+  Asia/Tel_Aviv: {
+    Generic: Israel-tyd,
+    Standard: Israel-standaardtyd,
+    Daylight: Israel-dagligtyd
+  },
+  Israel: {
+    Generic: Israel-tyd,
+    Standard: Israel-standaardtyd,
+    Daylight: Israel-dagligtyd
+  },
+  Asia/Kathmandu: {
+    Generic: Nepal-tyd,
+    Standard: Nepal-tyd,
+    Daylight: Nepal-tyd
+  },
+  Asia/Kolkata: {
+    Generic: Indië-standaardtyd,
+    Standard: Indië-standaardtyd,
+    Daylight: Indië-standaardtyd
+  },
+  Asia/Macao: {
+    Generic: China-tyd,
+    Standard: China-standaardtyd,
+    Daylight: China-dagligtyd
+  },
+  Asia/Ujung_Pandang: {
+    Generic: Sentraal-Indonesiese tyd,
+    Standard: Sentraal-Indonesiese tyd,
+    Daylight: Sentraal-Indonesiese tyd
+  },
+  Europe/Nicosia: {
+    Generic: Oos-Europese tyd,
+    Standard: Oos-Europese standaardtyd,
+    Daylight: Oos-Europese somertyd
+  },
+  ROK: {
+    Generic: Koreaanse tyd,
+    Standard: Koreaanse standaardtyd,
+    Daylight: Koreaanse dagligtyd
+  },
+  Asia/Chongqing: {
+    Generic: China-tyd,
+    Standard: China-standaardtyd,
+    Daylight: China-dagligtyd
+  },
+  Asia/Chungking: {
+    Generic: China-tyd,
+    Standard: China-standaardtyd,
+    Daylight: China-dagligtyd
+  },
+  Asia/Harbin: {
+    Generic: China-tyd,
+    Standard: China-standaardtyd,
+    Daylight: China-dagligtyd
+  },
+  PRC: {
+    Generic: China-tyd,
+    Standard: China-standaardtyd,
+    Daylight: China-dagligtyd
+  },
+  Singapore: {
+    Generic: Singapoer-standaardtyd,
+    Standard: Singapoer-standaardtyd,
+    Daylight: Singapoer-standaardtyd
+  },
+  ROC: {
+    Generic: Taipei-tyd,
+    Standard: Taipei-standaardtyd,
+    Daylight: Taipei-dagligtyd
+  },
+  Iran: {
+    Generic: Iran-tyd,
+    Standard: Iran-standaardtyd,
+    Daylight: Iran-dagligtyd
+  },
+  Asia/Thimbu: {
+    Generic: Bhoetan-tyd,
+    Standard: Bhoetan-tyd,
+    Daylight: Bhoetan-tyd
+  },
+  Japan: {
+    Generic: Japan-tyd,
+    Standard: Japan-standaardtyd,
+    Daylight: Japan-dagligtyd
+  },
+  Asia/Ulan_Bator: {
+    Generic: Ulaanbaatar-tyd,
+    Standard: Ulaanbaatar-standaardtyd,
+    Daylight: Ulaanbaatar-somertyd
+  },
+  Asia/Kashgar: {
+    Generic: China-tyd,
+    Standard: China-standaardtyd,
+    Daylight: China-dagligtyd
+  },
+  Asia/Yangon: {
+    Generic: Mianmar-tyd,
+    Standard: Mianmar-tyd,
+    Daylight: Mianmar-tyd
+  },
+  WET: {
+    Generic: Wes-Europese tyd,
+    Standard: Wes-Europese standaardtyd,
+    Daylight: Wes-Europese somertyd
+  },
+  Atlantic/Faroe: {
+    Generic: Wes-Europese tyd,
+    Standard: Wes-Europese standaardtyd,
+    Daylight: Wes-Europese somertyd
+  },
+  Australia/South: {
+    Generic: Sentraal-Australiese tyd,
+    Standard: Sentraal-Australiese standaardtyd,
+    Daylight: Sentraal-Australiese dagligtyd
+  },
+  Australia/Queensland: {
+    Generic: Oostelike Australiese tyd,
+    Standard: Oostelike Australiese standaardtyd,
+    Daylight: Oostelike Australiese dagligtyd
+  },
+  Australia/Yancowinna: {
+    Generic: Sentraal-Australiese tyd,
+    Standard: Sentraal-Australiese standaardtyd,
+    Daylight: Sentraal-Australiese dagligtyd
+  },
+  Australia/North: {
+    Generic: Sentraal-Australiese tyd,
+    Standard: Sentraal-Australiese standaardtyd,
+    Daylight: Sentraal-Australiese dagligtyd
+  },
+  Australia/Tasmania: {
+    Generic: Oostelike Australiese tyd,
+    Standard: Oostelike Australiese standaardtyd,
+    Daylight: Oostelike Australiese dagligtyd
+  },
+  Australia/LHI: {
+    Generic: Lord Howe-tyd,
+    Standard: Lord Howe-standaardtyd,
+    Daylight: Lord Howe-dagligtyd
+  },
+  Australia/Victoria: {
+    Generic: Oostelike Australiese tyd,
+    Standard: Oostelike Australiese standaardtyd,
+    Daylight: Oostelike Australiese dagligtyd
+  },
+  Australia/West: {
+    Generic: Westelike Australiese tyd,
+    Standard: Westelike Australiese standaardtyd,
+    Daylight: Westelike Australiese dagligtyd
+  },
+  Australia/ACT: {
+    Generic: Oostelike Australiese tyd,
+    Standard: Oostelike Australiese standaardtyd,
+    Daylight: Oostelike Australiese dagligtyd
+  },
+  Australia/Canberra: {
+    Generic: Oostelike Australiese tyd,
+    Standard: Oostelike Australiese standaardtyd,
+    Daylight: Oostelike Australiese dagligtyd
+  },
+  Australia/NSW: {
+    Generic: Oostelike Australiese tyd,
+    Standard: Oostelike Australiese standaardtyd,
+    Daylight: Oostelike Australiese dagligtyd
+  },
+  HST: {
+    Generic: Gekoördineerde universele tyd -10,
+    Standard: Gekoördineerde universele tyd -10,
+    Daylight: Gekoördineerde universele tyd -10
+  },
+  EST: {
+    Generic: Gekoördineerde universele tyd -5,
+    Standard: Gekoördineerde universele tyd -5,
+    Daylight: Gekoördineerde universele tyd -5
+  },
+  MST: {
+    Generic: Gekoördineerde universele tyd -7,
+    Standard: Gekoördineerde universele tyd -7,
+    Daylight: Gekoördineerde universele tyd -7
+  },
+  Etc/GMT+0: {
+    Generic: Greenwich-tyd,
+    Standard: Greenwich-tyd,
+    Daylight: Greenwich-tyd
+  },
+  Etc/GMT-0: {
+    Generic: Greenwich-tyd,
+    Standard: Greenwich-tyd,
+    Daylight: Greenwich-tyd
+  },
+  Etc/GMT0: {
+    Generic: Greenwich-tyd,
+    Standard: Greenwich-tyd,
+    Daylight: Greenwich-tyd
+  },
+  Etc/Greenwich: {
+    Generic: Greenwich-tyd,
+    Standard: Greenwich-tyd,
+    Daylight: Greenwich-tyd
+  },
+  GMT: {
+    Generic: Greenwich-tyd,
+    Standard: Greenwich-tyd,
+    Daylight: Greenwich-tyd
+  },
+  GMT+0: {
+    Generic: Greenwich-tyd,
+    Standard: Greenwich-tyd,
+    Daylight: Greenwich-tyd
+  },
+  GMT-0: {
+    Generic: Greenwich-tyd,
+    Standard: Greenwich-tyd,
+    Daylight: Greenwich-tyd
+  },
+  GMT0: {
+    Generic: Greenwich-tyd,
+    Standard: Greenwich-tyd,
+    Daylight: Greenwich-tyd
+  },
+  Greenwich: {
+    Generic: Greenwich-tyd,
+    Standard: Greenwich-tyd,
+    Daylight: Greenwich-tyd
+  },
+  Etc/UCT: {
+    Generic: Gekoördineerde universele tyd,
+    Standard: Gekoördineerde universele tyd,
+    Daylight: Gekoördineerde universele tyd
+  },
+  Etc/Universal: {
+    Generic: Gekoördineerde universele tyd,
+    Standard: Gekoördineerde universele tyd,
+    Daylight: Gekoördineerde universele tyd
+  },
+  Etc/Zulu: {
+    Generic: Gekoördineerde universele tyd,
+    Standard: Gekoördineerde universele tyd,
+    Daylight: Gekoördineerde universele tyd
+  },
+  UCT: {
+    Generic: Gekoördineerde universele tyd,
+    Standard: Gekoördineerde universele tyd,
+    Daylight: Gekoördineerde universele tyd
+  },
+  UTC: {
+    Generic: Gekoördineerde universele tyd,
+    Standard: Gekoördineerde universele tyd,
+    Daylight: Gekoördineerde universele tyd
+  },
+  Universal: {
+    Generic: Gekoördineerde universele tyd,
+    Standard: Gekoördineerde universele tyd,
+    Daylight: Gekoördineerde universele tyd
+  },
+  Zulu: {
+    Generic: Gekoördineerde universele tyd,
+    Standard: Gekoördineerde universele tyd,
+    Daylight: Gekoördineerde universele tyd
+  },
+  Atlantic/Jan_Mayen: {
+    Generic: Sentraal-Europese tyd,
+    Standard: Sentraal-Europese standaardtyd,
+    Daylight: Sentraal-Europese somertyd
+  },
+  MET: {
+    Generic: Sentraal-Europese tyd,
+    Standard: Sentraal-Europese standaardtyd,
+    Daylight: Sentraal-Europese somertyd
+  },
+  EET: {
+    Generic: Oos-Europese tyd,
+    Standard: Oos-Europese standaardtyd,
+    Daylight: Oos-Europese somertyd
+  },
+  Europe/Tiraspol: {
+    Generic: Oos-Europese tyd,
+    Standard: Oos-Europese standaardtyd,
+    Daylight: Oos-Europese somertyd
+  },
+  Eire: {
+    Generic: Ierland-tyd,
+    Standard: Greenwich-tyd,
+    Daylight: Ierse standaardtyd
+  },
+  Asia/Istanbul: {
+    Generic: Turkye-tyd,
+    Standard: Turkye-standaardtyd,
+    Daylight: Turkye-dagligtyd
+  },
+  Turkey: {
+    Generic: Turkye-tyd,
+    Standard: Turkye-standaardtyd,
+    Daylight: Turkye-dagligtyd
+  },
+  Europe/Kyiv: {
+    Generic: Oos-Europese tyd,
+    Standard: Oos-Europese standaardtyd,
+    Daylight: Oos-Europese somertyd
+  },
+  Portugal: {
+    Generic: Wes-Europese tyd,
+    Standard: Wes-Europese standaardtyd,
+    Daylight: Wes-Europese somertyd
+  },
+  Europe/Belfast: {
+    Generic: Verenigde Koninkryk-tyd,
+    Standard: Greenwich-tyd,
+    Daylight: Britse somertyd
+  },
+  GB: {
+    Generic: Verenigde Koninkryk-tyd,
+    Standard: Greenwich-tyd,
+    Daylight: Britse somertyd
+  },
+  GB-Eire: {
+    Generic: Verenigde Koninkryk-tyd,
+    Standard: Greenwich-tyd,
+    Daylight: Britse somertyd
+  },
+  W-SU: {
+    Generic: Moskou-tyd,
+    Standard: Moskou-standaardtyd,
+    Daylight: Moskou-dagligtyd
+  },
+  CET: {
+    Generic: Sentraal-Europese tyd,
+    Standard: Sentraal-Europese standaardtyd,
+    Daylight: Sentraal-Europese somertyd
+  },
+  Poland: {
+    Generic: Sentraal-Europese tyd,
+    Standard: Sentraal-Europese standaardtyd,
+    Daylight: Sentraal-Europese somertyd
+  },
+  Antarctica/South_Pole: {
+    Generic: Nieu-Seeland-tyd,
+    Standard: Nieu-Seeland-standaardtyd,
+    Daylight: Nieu-Seeland-dagligtyd
+  },
+  NZ: {
+    Generic: Nieu-Seeland-tyd,
+    Standard: Nieu-Seeland-standaardtyd,
+    Daylight: Nieu-Seeland-dagligtyd
+  },
+  NZ-CHAT: {
+    Generic: Chatham-tyd,
+    Standard: Chatham-standaardtyd,
+    Daylight: Chatham-dagligtyd
+  },
+  Chile/EasterIsland: {
+    Generic: Paaseiland-tyd,
+    Standard: Paaseiland-standaardtyd,
+    Daylight: Paaseiland-somertyd
+  },
+  Pacific/Pohnpei: {
+    Generic: Ponape-tyd,
+    Standard: Ponape-tyd,
+    Daylight: Ponape-tyd
+  },
+  US/Hawaii: {
+    Generic: Hawaii-Aleoete-tyd,
+    Standard: Hawaii-Aleoete-standaardtyd,
+    Daylight: Hawaii-Aleoete-dagligtyd
+  },
+  Pacific/Kanton: {
+    Generic: Fenikseilande-tyd,
+    Standard: Fenikseilande-tyd,
+    Daylight: Fenikseilande-tyd
+  },
+  Kwajalein: {
+    Generic: Marshalleilande-tyd,
+    Standard: Marshalleilande-tyd,
+    Daylight: Marshalleilande-tyd
+  },
+  Pacific/Samoa: {
+    Generic: Samoa-tyd,
+    Standard: Samoa-standaardtyd,
+    Daylight: Samoa-dagligtyd
+  },
+  US/Samoa: {
+    Generic: Samoa-tyd,
+    Standard: Samoa-standaardtyd,
+    Daylight: Samoa-dagligtyd
+  },
+  Pacific/Chuuk: {
+    Generic: Chuuk-tyd,
+    Standard: Chuuk-tyd,
+    Daylight: Chuuk-tyd
+  },
+  Pacific/Yap: {
+    Generic: Chuuk-tyd,
+    Standard: Chuuk-tyd,
+    Daylight: Chuuk-tyd
+  },
+  America/Fort_Wayne: {
+    Generic: Noord-Amerikaanse oostelike tyd,
+    Standard: Noord-Amerikaanse oostelike standaardtyd,
+    Daylight: Noord-Amerikaanse oostelike dagligtyd
+  },
+  Antarctica/Troll: {
+    Generic: Greenwich-tyd,
+    Standard: Greenwich-tyd,
+    Daylight: Greenwich-tyd
   }
-]
+}

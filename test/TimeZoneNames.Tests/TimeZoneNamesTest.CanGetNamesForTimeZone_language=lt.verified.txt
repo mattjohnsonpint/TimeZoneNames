@@ -1,4762 +1,2977 @@
-﻿[
-  {
-    Key: Africa/Abidjan,
-    Value: {
-      Generic: Grinvičo laikas,
-      Standard: Grinvičo laikas,
-      Daylight: Grinvičo laikas
-    }
-  },
-  {
-    Key: Africa/Accra,
-    Value: {
-      Generic: Grinvičo laikas,
-      Standard: Grinvičo laikas,
-      Daylight: Grinvičo laikas
-    }
-  },
-  {
-    Key: Africa/Addis_Ababa,
-    Value: {
-      Generic: Rytų Afrikos laikas,
-      Standard: Rytų Afrikos laikas,
-      Daylight: Rytų Afrikos laikas
-    }
-  },
-  {
-    Key: Africa/Algiers,
-    Value: {
-      Generic: Vidurio Europos laikas,
-      Standard: Vidurio Europos žiemos laikas,
-      Daylight: Vidurio Europos vasaros laikas
-    }
-  },
-  {
-    Key: Africa/Asmara,
-    Value: {
-      Generic: Rytų Afrikos laikas,
-      Standard: Rytų Afrikos laikas,
-      Daylight: Rytų Afrikos laikas
-    }
-  },
-  {
-    Key: Africa/Asmera,
-    Value: {
-      Generic: Rytų Afrikos laikas,
-      Standard: Rytų Afrikos laikas,
-      Daylight: Rytų Afrikos laikas
-    }
-  },
-  {
-    Key: Africa/Bamako,
-    Value: {
-      Generic: Grinvičo laikas,
-      Standard: Grinvičo laikas,
-      Daylight: Grinvičo laikas
-    }
-  },
-  {
-    Key: Africa/Bangui,
-    Value: {
-      Generic: Vakarų Afrikos laikas,
-      Standard: Vakarų Afrikos žiemos laikas,
-      Daylight: Vakarų Afrikos vasaros laikas
-    }
-  },
-  {
-    Key: Africa/Banjul,
-    Value: {
-      Generic: Grinvičo laikas,
-      Standard: Grinvičo laikas,
-      Daylight: Grinvičo laikas
-    }
-  },
-  {
-    Key: Africa/Bissau,
-    Value: {
-      Generic: Grinvičo laikas,
-      Standard: Grinvičo laikas,
-      Daylight: Grinvičo laikas
-    }
-  },
-  {
-    Key: Africa/Blantyre,
-    Value: {
-      Generic: Centrinės Afrikos laikas,
-      Standard: Centrinės Afrikos laikas,
-      Daylight: Centrinės Afrikos laikas
-    }
-  },
-  {
-    Key: Africa/Brazzaville,
-    Value: {
-      Generic: Vakarų Afrikos laikas,
-      Standard: Vakarų Afrikos žiemos laikas,
-      Daylight: Vakarų Afrikos vasaros laikas
-    }
-  },
-  {
-    Key: Africa/Bujumbura,
-    Value: {
-      Generic: Centrinės Afrikos laikas,
-      Standard: Centrinės Afrikos laikas,
-      Daylight: Centrinės Afrikos laikas
-    }
-  },
-  {
-    Key: Africa/Cairo,
-    Value: {
-      Generic: Rytų Europos laikas,
-      Standard: Rytų Europos žiemos laikas,
-      Daylight: Rytų Europos vasaros laikas
-    }
-  },
-  {
-    Key: Africa/Casablanca,
-    Value: {
-      Generic: Vakarų Europos laikas,
-      Standard: Vakarų Europos žiemos laikas,
-      Daylight: Vakarų Europos vasaros laikas
-    }
-  },
-  {
-    Key: Africa/Ceuta,
-    Value: {
-      Generic: Vidurio Europos laikas,
-      Standard: Vidurio Europos žiemos laikas,
-      Daylight: Vidurio Europos vasaros laikas
-    }
-  },
-  {
-    Key: Africa/Conakry,
-    Value: {
-      Generic: Grinvičo laikas,
-      Standard: Grinvičo laikas,
-      Daylight: Grinvičo laikas
-    }
-  },
-  {
-    Key: Africa/Dakar,
-    Value: {
-      Generic: Grinvičo laikas,
-      Standard: Grinvičo laikas,
-      Daylight: Grinvičo laikas
-    }
-  },
-  {
-    Key: Africa/Dar_es_Salaam,
-    Value: {
-      Generic: Rytų Afrikos laikas,
-      Standard: Rytų Afrikos laikas,
-      Daylight: Rytų Afrikos laikas
-    }
-  },
-  {
-    Key: Africa/Djibouti,
-    Value: {
-      Generic: Rytų Afrikos laikas,
-      Standard: Rytų Afrikos laikas,
-      Daylight: Rytų Afrikos laikas
-    }
-  },
-  {
-    Key: Africa/Douala,
-    Value: {
-      Generic: Vakarų Afrikos laikas,
-      Standard: Vakarų Afrikos žiemos laikas,
-      Daylight: Vakarų Afrikos vasaros laikas
-    }
-  },
-  {
-    Key: Africa/El_Aaiun,
-    Value: {
-      Generic: Vakarų Europos laikas,
-      Standard: Vakarų Europos žiemos laikas,
-      Daylight: Vakarų Europos vasaros laikas
-    }
-  },
-  {
-    Key: Africa/Freetown,
-    Value: {
-      Generic: Grinvičo laikas,
-      Standard: Grinvičo laikas,
-      Daylight: Grinvičo laikas
-    }
-  },
-  {
-    Key: Africa/Gaborone,
-    Value: {
-      Generic: Centrinės Afrikos laikas,
-      Standard: Centrinės Afrikos laikas,
-      Daylight: Centrinės Afrikos laikas
-    }
-  },
-  {
-    Key: Africa/Harare,
-    Value: {
-      Generic: Centrinės Afrikos laikas,
-      Standard: Centrinės Afrikos laikas,
-      Daylight: Centrinės Afrikos laikas
-    }
-  },
-  {
-    Key: Africa/Johannesburg,
-    Value: {
-      Generic: Pietų Afrikos laikas,
-      Standard: Pietų Afrikos laikas,
-      Daylight: Pietų Afrikos laikas
-    }
-  },
-  {
-    Key: Africa/Juba,
-    Value: {
-      Generic: Centrinės Afrikos laikas,
-      Standard: Centrinės Afrikos laikas,
-      Daylight: Centrinės Afrikos laikas
-    }
-  },
-  {
-    Key: Africa/Kampala,
-    Value: {
-      Generic: Rytų Afrikos laikas,
-      Standard: Rytų Afrikos laikas,
-      Daylight: Rytų Afrikos laikas
-    }
-  },
-  {
-    Key: Africa/Khartoum,
-    Value: {
-      Generic: Centrinės Afrikos laikas,
-      Standard: Centrinės Afrikos laikas,
-      Daylight: Centrinės Afrikos laikas
-    }
-  },
-  {
-    Key: Africa/Kigali,
-    Value: {
-      Generic: Centrinės Afrikos laikas,
-      Standard: Centrinės Afrikos laikas,
-      Daylight: Centrinės Afrikos laikas
-    }
-  },
-  {
-    Key: Africa/Kinshasa,
-    Value: {
-      Generic: Vakarų Afrikos laikas,
-      Standard: Vakarų Afrikos žiemos laikas,
-      Daylight: Vakarų Afrikos vasaros laikas
-    }
-  },
-  {
-    Key: Africa/Lagos,
-    Value: {
-      Generic: Vakarų Afrikos laikas,
-      Standard: Vakarų Afrikos žiemos laikas,
-      Daylight: Vakarų Afrikos vasaros laikas
-    }
-  },
-  {
-    Key: Africa/Libreville,
-    Value: {
-      Generic: Vakarų Afrikos laikas,
-      Standard: Vakarų Afrikos žiemos laikas,
-      Daylight: Vakarų Afrikos vasaros laikas
-    }
-  },
-  {
-    Key: Africa/Lome,
-    Value: {
-      Generic: Grinvičo laikas,
-      Standard: Grinvičo laikas,
-      Daylight: Grinvičo laikas
-    }
-  },
-  {
-    Key: Africa/Luanda,
-    Value: {
-      Generic: Vakarų Afrikos laikas,
-      Standard: Vakarų Afrikos žiemos laikas,
-      Daylight: Vakarų Afrikos vasaros laikas
-    }
-  },
-  {
-    Key: Africa/Lubumbashi,
-    Value: {
-      Generic: Centrinės Afrikos laikas,
-      Standard: Centrinės Afrikos laikas,
-      Daylight: Centrinės Afrikos laikas
-    }
-  },
-  {
-    Key: Africa/Lusaka,
-    Value: {
-      Generic: Centrinės Afrikos laikas,
-      Standard: Centrinės Afrikos laikas,
-      Daylight: Centrinės Afrikos laikas
-    }
-  },
-  {
-    Key: Africa/Malabo,
-    Value: {
-      Generic: Vakarų Afrikos laikas,
-      Standard: Vakarų Afrikos žiemos laikas,
-      Daylight: Vakarų Afrikos vasaros laikas
-    }
-  },
-  {
-    Key: Africa/Maputo,
-    Value: {
-      Generic: Centrinės Afrikos laikas,
-      Standard: Centrinės Afrikos laikas,
-      Daylight: Centrinės Afrikos laikas
-    }
-  },
-  {
-    Key: Africa/Maseru,
-    Value: {
-      Generic: Pietų Afrikos laikas,
-      Standard: Pietų Afrikos laikas,
-      Daylight: Pietų Afrikos laikas
-    }
-  },
-  {
-    Key: Africa/Mbabane,
-    Value: {
-      Generic: Pietų Afrikos laikas,
-      Standard: Pietų Afrikos laikas,
-      Daylight: Pietų Afrikos laikas
-    }
-  },
-  {
-    Key: Africa/Mogadishu,
-    Value: {
-      Generic: Rytų Afrikos laikas,
-      Standard: Rytų Afrikos laikas,
-      Daylight: Rytų Afrikos laikas
-    }
-  },
-  {
-    Key: Africa/Monrovia,
-    Value: {
-      Generic: Grinvičo laikas,
-      Standard: Grinvičo laikas,
-      Daylight: Grinvičo laikas
-    }
-  },
-  {
-    Key: Africa/Nairobi,
-    Value: {
-      Generic: Rytų Afrikos laikas,
-      Standard: Rytų Afrikos laikas,
-      Daylight: Rytų Afrikos laikas
-    }
-  },
-  {
-    Key: Africa/Ndjamena,
-    Value: {
-      Generic: Vakarų Afrikos laikas,
-      Standard: Vakarų Afrikos žiemos laikas,
-      Daylight: Vakarų Afrikos vasaros laikas
-    }
-  },
-  {
-    Key: Africa/Niamey,
-    Value: {
-      Generic: Vakarų Afrikos laikas,
-      Standard: Vakarų Afrikos žiemos laikas,
-      Daylight: Vakarų Afrikos vasaros laikas
-    }
-  },
-  {
-    Key: Africa/Nouakchott,
-    Value: {
-      Generic: Grinvičo laikas,
-      Standard: Grinvičo laikas,
-      Daylight: Grinvičo laikas
-    }
-  },
-  {
-    Key: Africa/Ouagadougou,
-    Value: {
-      Generic: Grinvičo laikas,
-      Standard: Grinvičo laikas,
-      Daylight: Grinvičo laikas
-    }
-  },
-  {
-    Key: Africa/Porto-Novo,
-    Value: {
-      Generic: Vakarų Afrikos laikas,
-      Standard: Vakarų Afrikos žiemos laikas,
-      Daylight: Vakarų Afrikos vasaros laikas
-    }
-  },
-  {
-    Key: Africa/Sao_Tome,
-    Value: {
-      Generic: Grinvičo laikas,
-      Standard: Grinvičo laikas,
-      Daylight: Grinvičo laikas
-    }
-  },
-  {
-    Key: Africa/Timbuktu,
-    Value: {
-      Generic: Grinvičo laikas,
-      Standard: Grinvičo laikas,
-      Daylight: Grinvičo laikas
-    }
-  },
-  {
-    Key: Africa/Tripoli,
-    Value: {
-      Generic: Rytų Europos laikas,
-      Standard: Rytų Europos žiemos laikas,
-      Daylight: Rytų Europos vasaros laikas
-    }
-  },
-  {
-    Key: Africa/Tunis,
-    Value: {
-      Generic: Vidurio Europos laikas,
-      Standard: Vidurio Europos žiemos laikas,
-      Daylight: Vidurio Europos vasaros laikas
-    }
-  },
-  {
-    Key: Africa/Windhoek,
-    Value: {
-      Generic: Centrinės Afrikos laikas,
-      Standard: Centrinės Afrikos laikas,
-      Daylight: Centrinės Afrikos laikas
-    }
-  },
-  {
-    Key: America/Adak,
-    Value: {
-      Generic: Havajų-Aleutų laikas,
-      Standard: Havajų–Aleutų žiemos laikas,
-      Daylight: Havajų–Aleutų vasaros laikas
-    }
-  },
-  {
-    Key: America/Anchorage,
-    Value: {
-      Generic: Aliaskos laikas,
-      Standard: Aliaskos žiemos laikas,
-      Daylight: Aliaskos vasaros laikas
-    }
-  },
-  {
-    Key: America/Anguilla,
-    Value: {
-      Generic: Atlanto laikas,
-      Standard: Atlanto žiemos laikas,
-      Daylight: Atlanto vasaros laikas
-    }
-  },
-  {
-    Key: America/Antigua,
-    Value: {
-      Generic: Atlanto laikas,
-      Standard: Atlanto žiemos laikas,
-      Daylight: Atlanto vasaros laikas
-    }
-  },
-  {
-    Key: America/Araguaina,
-    Value: {
-      Generic: Brazilijos laikas,
-      Standard: Brazilijos žiemos laikas,
-      Daylight: Brazilijos vasaros laikas
-    }
-  },
-  {
-    Key: America/Argentina/Buenos_Aires,
-    Value: {
-      Generic: Argentinos laikas,
-      Standard: Argentinos žiemos laikas,
-      Daylight: Argentinos vasaros laikas
-    }
-  },
-  {
-    Key: America/Argentina/Catamarca,
-    Value: {
-      Generic: Argentinos laikas,
-      Standard: Argentinos žiemos laikas,
-      Daylight: Argentinos vasaros laikas
-    }
-  },
-  {
-    Key: America/Argentina/ComodRivadavia,
-    Value: {
-      Generic: Argentinos laikas,
-      Standard: Argentinos žiemos laikas,
-      Daylight: Argentinos vasaros laikas
-    }
-  },
-  {
-    Key: America/Argentina/Cordoba,
-    Value: {
-      Generic: Argentinos laikas,
-      Standard: Argentinos žiemos laikas,
-      Daylight: Argentinos vasaros laikas
-    }
-  },
-  {
-    Key: America/Argentina/Jujuy,
-    Value: {
-      Generic: Argentinos laikas,
-      Standard: Argentinos žiemos laikas,
-      Daylight: Argentinos vasaros laikas
-    }
-  },
-  {
-    Key: America/Argentina/La_Rioja,
-    Value: {
-      Generic: Argentinos laikas,
-      Standard: Argentinos žiemos laikas,
-      Daylight: Argentinos vasaros laikas
-    }
-  },
-  {
-    Key: America/Argentina/Mendoza,
-    Value: {
-      Generic: Argentinos laikas,
-      Standard: Argentinos žiemos laikas,
-      Daylight: Argentinos vasaros laikas
-    }
-  },
-  {
-    Key: America/Argentina/Rio_Gallegos,
-    Value: {
-      Generic: Argentinos laikas,
-      Standard: Argentinos žiemos laikas,
-      Daylight: Argentinos vasaros laikas
-    }
-  },
-  {
-    Key: America/Argentina/Salta,
-    Value: {
-      Generic: Argentinos laikas,
-      Standard: Argentinos žiemos laikas,
-      Daylight: Argentinos vasaros laikas
-    }
-  },
-  {
-    Key: America/Argentina/San_Juan,
-    Value: {
-      Generic: Argentinos laikas,
-      Standard: Argentinos žiemos laikas,
-      Daylight: Argentinos vasaros laikas
-    }
-  },
-  {
-    Key: America/Argentina/San_Luis,
-    Value: {
-      Generic: Argentinos laikas,
-      Standard: Argentinos žiemos laikas,
-      Daylight: Argentinos vasaros laikas
-    }
-  },
-  {
-    Key: America/Argentina/Tucuman,
-    Value: {
-      Generic: Argentinos laikas,
-      Standard: Argentinos žiemos laikas,
-      Daylight: Argentinos vasaros laikas
-    }
-  },
-  {
-    Key: America/Argentina/Ushuaia,
-    Value: {
-      Generic: Argentinos laikas,
-      Standard: Argentinos žiemos laikas,
-      Daylight: Argentinos vasaros laikas
-    }
-  },
-  {
-    Key: America/Aruba,
-    Value: {
-      Generic: Atlanto laikas,
-      Standard: Atlanto žiemos laikas,
-      Daylight: Atlanto vasaros laikas
-    }
-  },
-  {
-    Key: America/Asuncion,
-    Value: {
-      Generic: Paragvajaus laikas,
-      Standard: Paragvajaus žiemos laikas,
-      Daylight: Paragvajaus vasaros laikas
-    }
-  },
-  {
-    Key: America/Atikokan,
-    Value: {
-      Generic: Šiaurės Amerikos rytų laikas,
-      Standard: Šiaurės Amerikos rytų žiemos laikas,
-      Daylight: Šiaurės Amerikos rytų vasaros laikas
-    }
-  },
-  {
-    Key: America/Atka,
-    Value: {
-      Generic: Havajų-Aleutų laikas,
-      Standard: Havajų–Aleutų žiemos laikas,
-      Daylight: Havajų–Aleutų vasaros laikas
-    }
-  },
-  {
-    Key: America/Bahia,
-    Value: {
-      Generic: Brazilijos laikas,
-      Standard: Brazilijos žiemos laikas,
-      Daylight: Brazilijos vasaros laikas
-    }
-  },
-  {
-    Key: America/Bahia_Banderas,
-    Value: {
-      Generic: Šiaurės Amerikos centro laikas,
-      Standard: Šiaurės Amerikos centro žiemos laikas,
-      Daylight: Šiaurės Amerikos centro vasaros laikas
-    }
-  },
-  {
-    Key: America/Barbados,
-    Value: {
-      Generic: Atlanto laikas,
-      Standard: Atlanto žiemos laikas,
-      Daylight: Atlanto vasaros laikas
-    }
-  },
-  {
-    Key: America/Belem,
-    Value: {
-      Generic: Brazilijos laikas,
-      Standard: Brazilijos žiemos laikas,
-      Daylight: Brazilijos vasaros laikas
-    }
-  },
-  {
-    Key: America/Belize,
-    Value: {
-      Generic: Šiaurės Amerikos centro laikas,
-      Standard: Šiaurės Amerikos centro žiemos laikas,
-      Daylight: Šiaurės Amerikos centro vasaros laikas
-    }
-  },
-  {
-    Key: America/Blanc-Sablon,
-    Value: {
-      Generic: Atlanto laikas,
-      Standard: Atlanto žiemos laikas,
-      Daylight: Atlanto vasaros laikas
-    }
-  },
-  {
-    Key: America/Boa_Vista,
-    Value: {
-      Generic: Amazonės laikas,
-      Standard: Amazonės žiemos laikas,
-      Daylight: Amazonės vasaros laikas
-    }
-  },
-  {
-    Key: America/Bogota,
-    Value: {
-      Generic: Kolumbijos laikas,
-      Standard: Kolumbijos žiemos laikas,
-      Daylight: Kolumbijos vasaros laikas
-    }
-  },
-  {
-    Key: America/Boise,
-    Value: {
-      Generic: Šiaurės Amerikos kalnų laikas,
-      Standard: Šiaurės Amerikos kalnų žiemos laikas,
-      Daylight: Šiaurės Amerikos kalnų vasaros laikas
-    }
-  },
-  {
-    Key: America/Buenos_Aires,
-    Value: {
-      Generic: Argentinos laikas,
-      Standard: Argentinos žiemos laikas,
-      Daylight: Argentinos vasaros laikas
-    }
-  },
-  {
-    Key: America/Cambridge_Bay,
-    Value: {
-      Generic: Šiaurės Amerikos kalnų laikas,
-      Standard: Šiaurės Amerikos kalnų žiemos laikas,
-      Daylight: Šiaurės Amerikos kalnų vasaros laikas
-    }
-  },
-  {
-    Key: America/Campo_Grande,
-    Value: {
-      Generic: Amazonės laikas,
-      Standard: Amazonės žiemos laikas,
-      Daylight: Amazonės vasaros laikas
-    }
-  },
-  {
-    Key: America/Cancun,
-    Value: {
-      Generic: Šiaurės Amerikos rytų laikas,
-      Standard: Šiaurės Amerikos rytų žiemos laikas,
-      Daylight: Šiaurės Amerikos rytų vasaros laikas
-    }
-  },
-  {
-    Key: America/Caracas,
-    Value: {
-      Generic: Venesuelos laikas,
-      Standard: Venesuelos laikas,
-      Daylight: Venesuelos laikas
-    }
-  },
-  {
-    Key: America/Catamarca,
-    Value: {
-      Generic: Argentinos laikas,
-      Standard: Argentinos žiemos laikas,
-      Daylight: Argentinos vasaros laikas
-    }
-  },
-  {
-    Key: America/Cayenne,
-    Value: {
-      Generic: Prancūzijos Gvianos laikas,
-      Standard: Prancūzijos Gvianos laikas,
-      Daylight: Prancūzijos Gvianos laikas
-    }
-  },
-  {
-    Key: America/Cayman,
-    Value: {
-      Generic: Šiaurės Amerikos rytų laikas,
-      Standard: Šiaurės Amerikos rytų žiemos laikas,
-      Daylight: Šiaurės Amerikos rytų vasaros laikas
-    }
-  },
-  {
-    Key: America/Chicago,
-    Value: {
-      Generic: Šiaurės Amerikos centro laikas,
-      Standard: Šiaurės Amerikos centro žiemos laikas,
-      Daylight: Šiaurės Amerikos centro vasaros laikas
-    }
-  },
-  {
-    Key: America/Chihuahua,
-    Value: {
-      Generic: Meksikos Ramiojo vandenyno laikas,
-      Standard: Meksikos Ramiojo vandenyno žiemos laikas,
-      Daylight: Meksikos Ramiojo vandenyno vasaros laikas
-    }
-  },
-  {
-    Key: America/Coral_Harbour,
-    Value: {
-      Generic: Šiaurės Amerikos rytų laikas,
-      Standard: Šiaurės Amerikos rytų žiemos laikas,
-      Daylight: Šiaurės Amerikos rytų vasaros laikas
-    }
-  },
-  {
-    Key: America/Cordoba,
-    Value: {
-      Generic: Argentinos laikas,
-      Standard: Argentinos žiemos laikas,
-      Daylight: Argentinos vasaros laikas
-    }
-  },
-  {
-    Key: America/Costa_Rica,
-    Value: {
-      Generic: Šiaurės Amerikos centro laikas,
-      Standard: Šiaurės Amerikos centro žiemos laikas,
-      Daylight: Šiaurės Amerikos centro vasaros laikas
-    }
-  },
-  {
-    Key: America/Creston,
-    Value: {
-      Generic: Šiaurės Amerikos kalnų laikas,
-      Standard: Šiaurės Amerikos kalnų žiemos laikas,
-      Daylight: Šiaurės Amerikos kalnų vasaros laikas
-    }
-  },
-  {
-    Key: America/Cuiaba,
-    Value: {
-      Generic: Amazonės laikas,
-      Standard: Amazonės žiemos laikas,
-      Daylight: Amazonės vasaros laikas
-    }
-  },
-  {
-    Key: America/Curacao,
-    Value: {
-      Generic: Atlanto laikas,
-      Standard: Atlanto žiemos laikas,
-      Daylight: Atlanto vasaros laikas
-    }
-  },
-  {
-    Key: America/Danmarkshavn,
-    Value: {
-      Generic: Grinvičo laikas,
-      Standard: Grinvičo laikas,
-      Daylight: Grinvičo laikas
-    }
-  },
-  {
-    Key: America/Dawson,
-    Value: {
-      Generic: Jukono laikas,
-      Standard: Jukono laikas,
-      Daylight: Jukono laikas
-    }
-  },
-  {
-    Key: America/Dawson_Creek,
-    Value: {
-      Generic: Šiaurės Amerikos kalnų laikas,
-      Standard: Šiaurės Amerikos kalnų žiemos laikas,
-      Daylight: Šiaurės Amerikos kalnų vasaros laikas
-    }
-  },
-  {
-    Key: America/Denver,
-    Value: {
-      Generic: Šiaurės Amerikos kalnų laikas,
-      Standard: Šiaurės Amerikos kalnų žiemos laikas,
-      Daylight: Šiaurės Amerikos kalnų vasaros laikas
-    }
-  },
-  {
-    Key: America/Detroit,
-    Value: {
-      Generic: Šiaurės Amerikos rytų laikas,
-      Standard: Šiaurės Amerikos rytų žiemos laikas,
-      Daylight: Šiaurės Amerikos rytų vasaros laikas
-    }
-  },
-  {
-    Key: America/Dominica,
-    Value: {
-      Generic: Atlanto laikas,
-      Standard: Atlanto žiemos laikas,
-      Daylight: Atlanto vasaros laikas
-    }
-  },
-  {
-    Key: America/Edmonton,
-    Value: {
-      Generic: Šiaurės Amerikos kalnų laikas,
-      Standard: Šiaurės Amerikos kalnų žiemos laikas,
-      Daylight: Šiaurės Amerikos kalnų vasaros laikas
-    }
-  },
-  {
-    Key: America/Eirunepe,
-    Value: {
-      Generic: Ako laikas,
-      Standard: Ako standartinis laikas,
-      Daylight: Ako vasaros laikas
-    }
-  },
-  {
-    Key: America/El_Salvador,
-    Value: {
-      Generic: Šiaurės Amerikos centro laikas,
-      Standard: Šiaurės Amerikos centro žiemos laikas,
-      Daylight: Šiaurės Amerikos centro vasaros laikas
-    }
-  },
-  {
-    Key: America/Ensenada,
-    Value: {
-      Generic: Šiaurės Amerikos Ramiojo vandenyno laikas,
-      Standard: Šiaurės Amerikos Ramiojo vandenyno žiemos laikas,
-      Daylight: Šiaurės Amerikos Ramiojo vandenyno vasaros laikas
-    }
-  },
-  {
-    Key: America/Fort_Nelson,
-    Value: {
-      Generic: Šiaurės Amerikos kalnų laikas,
-      Standard: Šiaurės Amerikos kalnų žiemos laikas,
-      Daylight: Šiaurės Amerikos kalnų vasaros laikas
-    }
-  },
-  {
-    Key: America/Fort_Wayne,
-    Value: {
-      Generic: Šiaurės Amerikos rytų laikas,
-      Standard: Šiaurės Amerikos rytų žiemos laikas,
-      Daylight: Šiaurės Amerikos rytų vasaros laikas
-    }
-  },
-  {
-    Key: America/Fortaleza,
-    Value: {
-      Generic: Brazilijos laikas,
-      Standard: Brazilijos žiemos laikas,
-      Daylight: Brazilijos vasaros laikas
-    }
-  },
-  {
-    Key: America/Glace_Bay,
-    Value: {
-      Generic: Atlanto laikas,
-      Standard: Atlanto žiemos laikas,
-      Daylight: Atlanto vasaros laikas
-    }
-  },
-  {
-    Key: America/Godthab,
-    Value: {
-      Generic: Grenlandijos vakarų laikas,
-      Standard: Grenlandijos vakarų žiemos laikas,
-      Daylight: Grenlandijos vakarų vasaros laikas
-    }
-  },
-  {
-    Key: America/Goose_Bay,
-    Value: {
-      Generic: Atlanto laikas,
-      Standard: Atlanto žiemos laikas,
-      Daylight: Atlanto vasaros laikas
-    }
-  },
-  {
-    Key: America/Grand_Turk,
-    Value: {
-      Generic: Šiaurės Amerikos rytų laikas,
-      Standard: Šiaurės Amerikos rytų žiemos laikas,
-      Daylight: Šiaurės Amerikos rytų vasaros laikas
-    }
-  },
-  {
-    Key: America/Grenada,
-    Value: {
-      Generic: Atlanto laikas,
-      Standard: Atlanto žiemos laikas,
-      Daylight: Atlanto vasaros laikas
-    }
-  },
-  {
-    Key: America/Guadeloupe,
-    Value: {
-      Generic: Atlanto laikas,
-      Standard: Atlanto žiemos laikas,
-      Daylight: Atlanto vasaros laikas
-    }
-  },
-  {
-    Key: America/Guatemala,
-    Value: {
-      Generic: Šiaurės Amerikos centro laikas,
-      Standard: Šiaurės Amerikos centro žiemos laikas,
-      Daylight: Šiaurės Amerikos centro vasaros laikas
-    }
-  },
-  {
-    Key: America/Guayaquil,
-    Value: {
-      Generic: Ekvadoro laikas,
-      Standard: Ekvadoro laikas,
-      Daylight: Ekvadoro laikas
-    }
-  },
-  {
-    Key: America/Guyana,
-    Value: {
-      Generic: Gajanos laikas,
-      Standard: Gajanos laikas,
-      Daylight: Gajanos laikas
-    }
-  },
-  {
-    Key: America/Halifax,
-    Value: {
-      Generic: Atlanto laikas,
-      Standard: Atlanto žiemos laikas,
-      Daylight: Atlanto vasaros laikas
-    }
-  },
-  {
-    Key: America/Havana,
-    Value: {
-      Generic: Kubos laikas,
-      Standard: Kubos žiemos laikas,
-      Daylight: Kubos vasaros laikas
-    }
-  },
-  {
-    Key: America/Hermosillo,
-    Value: {
-      Generic: Meksikos Ramiojo vandenyno laikas,
-      Standard: Meksikos Ramiojo vandenyno žiemos laikas,
-      Daylight: Meksikos Ramiojo vandenyno vasaros laikas
-    }
-  },
-  {
-    Key: America/Indiana/Indianapolis,
-    Value: {
-      Generic: Šiaurės Amerikos rytų laikas,
-      Standard: Šiaurės Amerikos rytų žiemos laikas,
-      Daylight: Šiaurės Amerikos rytų vasaros laikas
-    }
-  },
-  {
-    Key: America/Indiana/Knox,
-    Value: {
-      Generic: Šiaurės Amerikos centro laikas,
-      Standard: Šiaurės Amerikos centro žiemos laikas,
-      Daylight: Šiaurės Amerikos centro vasaros laikas
-    }
-  },
-  {
-    Key: America/Indiana/Marengo,
-    Value: {
-      Generic: Šiaurės Amerikos rytų laikas,
-      Standard: Šiaurės Amerikos rytų žiemos laikas,
-      Daylight: Šiaurės Amerikos rytų vasaros laikas
-    }
-  },
-  {
-    Key: America/Indiana/Petersburg,
-    Value: {
-      Generic: Šiaurės Amerikos rytų laikas,
-      Standard: Šiaurės Amerikos rytų žiemos laikas,
-      Daylight: Šiaurės Amerikos rytų vasaros laikas
-    }
-  },
-  {
-    Key: America/Indiana/Tell_City,
-    Value: {
-      Generic: Šiaurės Amerikos centro laikas,
-      Standard: Šiaurės Amerikos centro žiemos laikas,
-      Daylight: Šiaurės Amerikos centro vasaros laikas
-    }
-  },
-  {
-    Key: America/Indiana/Vevay,
-    Value: {
-      Generic: Šiaurės Amerikos rytų laikas,
-      Standard: Šiaurės Amerikos rytų žiemos laikas,
-      Daylight: Šiaurės Amerikos rytų vasaros laikas
-    }
-  },
-  {
-    Key: America/Indiana/Vincennes,
-    Value: {
-      Generic: Šiaurės Amerikos rytų laikas,
-      Standard: Šiaurės Amerikos rytų žiemos laikas,
-      Daylight: Šiaurės Amerikos rytų vasaros laikas
-    }
-  },
-  {
-    Key: America/Indiana/Winamac,
-    Value: {
-      Generic: Šiaurės Amerikos rytų laikas,
-      Standard: Šiaurės Amerikos rytų žiemos laikas,
-      Daylight: Šiaurės Amerikos rytų vasaros laikas
-    }
-  },
-  {
-    Key: America/Indianapolis,
-    Value: {
-      Generic: Šiaurės Amerikos rytų laikas,
-      Standard: Šiaurės Amerikos rytų žiemos laikas,
-      Daylight: Šiaurės Amerikos rytų vasaros laikas
-    }
-  },
-  {
-    Key: America/Inuvik,
-    Value: {
-      Generic: Šiaurės Amerikos kalnų laikas,
-      Standard: Šiaurės Amerikos kalnų žiemos laikas,
-      Daylight: Šiaurės Amerikos kalnų vasaros laikas
-    }
-  },
-  {
-    Key: America/Iqaluit,
-    Value: {
-      Generic: Šiaurės Amerikos rytų laikas,
-      Standard: Šiaurės Amerikos rytų žiemos laikas,
-      Daylight: Šiaurės Amerikos rytų vasaros laikas
-    }
-  },
-  {
-    Key: America/Jamaica,
-    Value: {
-      Generic: Šiaurės Amerikos rytų laikas,
-      Standard: Šiaurės Amerikos rytų žiemos laikas,
-      Daylight: Šiaurės Amerikos rytų vasaros laikas
-    }
-  },
-  {
-    Key: America/Jujuy,
-    Value: {
-      Generic: Argentinos laikas,
-      Standard: Argentinos žiemos laikas,
-      Daylight: Argentinos vasaros laikas
-    }
-  },
-  {
-    Key: America/Juneau,
-    Value: {
-      Generic: Aliaskos laikas,
-      Standard: Aliaskos žiemos laikas,
-      Daylight: Aliaskos vasaros laikas
-    }
-  },
-  {
-    Key: America/Kentucky/Louisville,
-    Value: {
-      Generic: Šiaurės Amerikos rytų laikas,
-      Standard: Šiaurės Amerikos rytų žiemos laikas,
-      Daylight: Šiaurės Amerikos rytų vasaros laikas
-    }
-  },
-  {
-    Key: America/Kentucky/Monticello,
-    Value: {
-      Generic: Šiaurės Amerikos rytų laikas,
-      Standard: Šiaurės Amerikos rytų žiemos laikas,
-      Daylight: Šiaurės Amerikos rytų vasaros laikas
-    }
-  },
-  {
-    Key: America/Knox_IN,
-    Value: {
-      Generic: Šiaurės Amerikos centro laikas,
-      Standard: Šiaurės Amerikos centro žiemos laikas,
-      Daylight: Šiaurės Amerikos centro vasaros laikas
-    }
-  },
-  {
-    Key: America/Kralendijk,
-    Value: {
-      Generic: Atlanto laikas,
-      Standard: Atlanto žiemos laikas,
-      Daylight: Atlanto vasaros laikas
-    }
-  },
-  {
-    Key: America/La_Paz,
-    Value: {
-      Generic: Bolivijos laikas,
-      Standard: Bolivijos laikas,
-      Daylight: Bolivijos laikas
-    }
-  },
-  {
-    Key: America/Lima,
-    Value: {
-      Generic: Peru laikas,
-      Standard: Peru žiemos laikas,
-      Daylight: Peru vasaros laikas
-    }
-  },
-  {
-    Key: America/Los_Angeles,
-    Value: {
-      Generic: Šiaurės Amerikos Ramiojo vandenyno laikas,
-      Standard: Šiaurės Amerikos Ramiojo vandenyno žiemos laikas,
-      Daylight: Šiaurės Amerikos Ramiojo vandenyno vasaros laikas
-    }
-  },
-  {
-    Key: America/Louisville,
-    Value: {
-      Generic: Šiaurės Amerikos rytų laikas,
-      Standard: Šiaurės Amerikos rytų žiemos laikas,
-      Daylight: Šiaurės Amerikos rytų vasaros laikas
-    }
-  },
-  {
-    Key: America/Lower_Princes,
-    Value: {
-      Generic: Atlanto laikas,
-      Standard: Atlanto žiemos laikas,
-      Daylight: Atlanto vasaros laikas
-    }
-  },
-  {
-    Key: America/Maceio,
-    Value: {
-      Generic: Brazilijos laikas,
-      Standard: Brazilijos žiemos laikas,
-      Daylight: Brazilijos vasaros laikas
-    }
-  },
-  {
-    Key: America/Managua,
-    Value: {
-      Generic: Šiaurės Amerikos centro laikas,
-      Standard: Šiaurės Amerikos centro žiemos laikas,
-      Daylight: Šiaurės Amerikos centro vasaros laikas
-    }
-  },
-  {
-    Key: America/Manaus,
-    Value: {
-      Generic: Amazonės laikas,
-      Standard: Amazonės žiemos laikas,
-      Daylight: Amazonės vasaros laikas
-    }
-  },
-  {
-    Key: America/Marigot,
-    Value: {
-      Generic: Atlanto laikas,
-      Standard: Atlanto žiemos laikas,
-      Daylight: Atlanto vasaros laikas
-    }
-  },
-  {
-    Key: America/Martinique,
-    Value: {
-      Generic: Atlanto laikas,
-      Standard: Atlanto žiemos laikas,
-      Daylight: Atlanto vasaros laikas
-    }
-  },
-  {
-    Key: America/Matamoros,
-    Value: {
-      Generic: Šiaurės Amerikos centro laikas,
-      Standard: Šiaurės Amerikos centro žiemos laikas,
-      Daylight: Šiaurės Amerikos centro vasaros laikas
-    }
-  },
-  {
-    Key: America/Mazatlan,
-    Value: {
-      Generic: Meksikos Ramiojo vandenyno laikas,
-      Standard: Meksikos Ramiojo vandenyno žiemos laikas,
-      Daylight: Meksikos Ramiojo vandenyno vasaros laikas
-    }
-  },
-  {
-    Key: America/Mendoza,
-    Value: {
-      Generic: Argentinos laikas,
-      Standard: Argentinos žiemos laikas,
-      Daylight: Argentinos vasaros laikas
-    }
-  },
-  {
-    Key: America/Menominee,
-    Value: {
-      Generic: Šiaurės Amerikos centro laikas,
-      Standard: Šiaurės Amerikos centro žiemos laikas,
-      Daylight: Šiaurės Amerikos centro vasaros laikas
-    }
-  },
-  {
-    Key: America/Merida,
-    Value: {
-      Generic: Šiaurės Amerikos centro laikas,
-      Standard: Šiaurės Amerikos centro žiemos laikas,
-      Daylight: Šiaurės Amerikos centro vasaros laikas
-    }
-  },
-  {
-    Key: America/Metlakatla,
-    Value: {
-      Generic: Aliaskos laikas,
-      Standard: Aliaskos žiemos laikas,
-      Daylight: Aliaskos vasaros laikas
-    }
-  },
-  {
-    Key: America/Mexico_City,
-    Value: {
-      Generic: Šiaurės Amerikos centro laikas,
-      Standard: Šiaurės Amerikos centro žiemos laikas,
-      Daylight: Šiaurės Amerikos centro vasaros laikas
-    }
-  },
-  {
-    Key: America/Miquelon,
-    Value: {
-      Generic: Sen Pjero ir Mikelono laikas,
-      Standard: Sen Pjero ir Mikelono žiemos laikas,
-      Daylight: Sen Pjero ir Mikelono vasaros laikas
-    }
-  },
-  {
-    Key: America/Moncton,
-    Value: {
-      Generic: Atlanto laikas,
-      Standard: Atlanto žiemos laikas,
-      Daylight: Atlanto vasaros laikas
-    }
-  },
-  {
-    Key: America/Monterrey,
-    Value: {
-      Generic: Šiaurės Amerikos centro laikas,
-      Standard: Šiaurės Amerikos centro žiemos laikas,
-      Daylight: Šiaurės Amerikos centro vasaros laikas
-    }
-  },
-  {
-    Key: America/Montevideo,
-    Value: {
-      Generic: Urugvajaus laikas,
-      Standard: Urugvajaus žiemos laikas,
-      Daylight: Urugvajaus vasaros laikas
-    }
-  },
-  {
-    Key: America/Montreal,
-    Value: {
-      Generic: Šiaurės Amerikos rytų laikas,
-      Standard: Šiaurės Amerikos rytų žiemos laikas,
-      Daylight: Šiaurės Amerikos rytų vasaros laikas
-    }
-  },
-  {
-    Key: America/Montserrat,
-    Value: {
-      Generic: Atlanto laikas,
-      Standard: Atlanto žiemos laikas,
-      Daylight: Atlanto vasaros laikas
-    }
-  },
-  {
-    Key: America/Nassau,
-    Value: {
-      Generic: Šiaurės Amerikos rytų laikas,
-      Standard: Šiaurės Amerikos rytų žiemos laikas,
-      Daylight: Šiaurės Amerikos rytų vasaros laikas
-    }
-  },
-  {
-    Key: America/New_York,
-    Value: {
-      Generic: Šiaurės Amerikos rytų laikas,
-      Standard: Šiaurės Amerikos rytų žiemos laikas,
-      Daylight: Šiaurės Amerikos rytų vasaros laikas
-    }
-  },
-  {
-    Key: America/Nipigon,
-    Value: {
-      Generic: Šiaurės Amerikos rytų laikas,
-      Standard: Šiaurės Amerikos rytų žiemos laikas,
-      Daylight: Šiaurės Amerikos rytų vasaros laikas
-    }
-  },
-  {
-    Key: America/Nome,
-    Value: {
-      Generic: Aliaskos laikas,
-      Standard: Aliaskos žiemos laikas,
-      Daylight: Aliaskos vasaros laikas
-    }
-  },
-  {
-    Key: America/Noronha,
-    Value: {
-      Generic: Fernando de Noronjos laikas,
-      Standard: Fernando de Noronjos žiemos laikas,
-      Daylight: Fernando de Noronjos vasaros laikas
-    }
-  },
-  {
-    Key: America/North_Dakota/Beulah,
-    Value: {
-      Generic: Šiaurės Amerikos centro laikas,
-      Standard: Šiaurės Amerikos centro žiemos laikas,
-      Daylight: Šiaurės Amerikos centro vasaros laikas
-    }
-  },
-  {
-    Key: America/North_Dakota/Center,
-    Value: {
-      Generic: Šiaurės Amerikos centro laikas,
-      Standard: Šiaurės Amerikos centro žiemos laikas,
-      Daylight: Šiaurės Amerikos centro vasaros laikas
-    }
-  },
-  {
-    Key: America/North_Dakota/New_Salem,
-    Value: {
-      Generic: Šiaurės Amerikos centro laikas,
-      Standard: Šiaurės Amerikos centro žiemos laikas,
-      Daylight: Šiaurės Amerikos centro vasaros laikas
-    }
-  },
-  {
-    Key: America/Nuuk,
-    Value: {
-      Generic: Grenlandijos vakarų laikas,
-      Standard: Grenlandijos vakarų žiemos laikas,
-      Daylight: Grenlandijos vakarų vasaros laikas
-    }
-  },
-  {
-    Key: America/Ojinaga,
-    Value: {
-      Generic: Šiaurės Amerikos kalnų laikas,
-      Standard: Šiaurės Amerikos kalnų žiemos laikas,
-      Daylight: Šiaurės Amerikos kalnų vasaros laikas
-    }
-  },
-  {
-    Key: America/Panama,
-    Value: {
-      Generic: Šiaurės Amerikos rytų laikas,
-      Standard: Šiaurės Amerikos rytų žiemos laikas,
-      Daylight: Šiaurės Amerikos rytų vasaros laikas
-    }
-  },
-  {
-    Key: America/Pangnirtung,
-    Value: {
-      Generic: Šiaurės Amerikos rytų laikas,
-      Standard: Šiaurės Amerikos rytų žiemos laikas,
-      Daylight: Šiaurės Amerikos rytų vasaros laikas
-    }
-  },
-  {
-    Key: America/Paramaribo,
-    Value: {
-      Generic: Surinamo laikas,
-      Standard: Surinamo laikas,
-      Daylight: Surinamo laikas
-    }
-  },
-  {
-    Key: America/Phoenix,
-    Value: {
-      Generic: Šiaurės Amerikos kalnų laikas,
-      Standard: Šiaurės Amerikos kalnų žiemos laikas,
-      Daylight: Šiaurės Amerikos kalnų vasaros laikas
-    }
-  },
-  {
-    Key: America/Port_of_Spain,
-    Value: {
-      Generic: Atlanto laikas,
-      Standard: Atlanto žiemos laikas,
-      Daylight: Atlanto vasaros laikas
-    }
-  },
-  {
-    Key: America/Port-au-Prince,
-    Value: {
-      Generic: Šiaurės Amerikos rytų laikas,
-      Standard: Šiaurės Amerikos rytų žiemos laikas,
-      Daylight: Šiaurės Amerikos rytų vasaros laikas
-    }
-  },
-  {
-    Key: America/Porto_Acre,
-    Value: {
-      Generic: Ako laikas,
-      Standard: Ako standartinis laikas,
-      Daylight: Ako vasaros laikas
-    }
-  },
-  {
-    Key: America/Porto_Velho,
-    Value: {
-      Generic: Amazonės laikas,
-      Standard: Amazonės žiemos laikas,
-      Daylight: Amazonės vasaros laikas
-    }
-  },
-  {
-    Key: America/Puerto_Rico,
-    Value: {
-      Generic: Atlanto laikas,
-      Standard: Atlanto žiemos laikas,
-      Daylight: Atlanto vasaros laikas
-    }
-  },
-  {
-    Key: America/Punta_Arenas,
-    Value: {
-      Generic: Čilės laikas,
-      Standard: Čilės žiemos laikas,
-      Daylight: Čilės vasaros laikas
-    }
-  },
-  {
-    Key: America/Rainy_River,
-    Value: {
-      Generic: Šiaurės Amerikos centro laikas,
-      Standard: Šiaurės Amerikos centro žiemos laikas,
-      Daylight: Šiaurės Amerikos centro vasaros laikas
-    }
-  },
-  {
-    Key: America/Rankin_Inlet,
-    Value: {
-      Generic: Šiaurės Amerikos centro laikas,
-      Standard: Šiaurės Amerikos centro žiemos laikas,
-      Daylight: Šiaurės Amerikos centro vasaros laikas
-    }
-  },
-  {
-    Key: America/Recife,
-    Value: {
-      Generic: Brazilijos laikas,
-      Standard: Brazilijos žiemos laikas,
-      Daylight: Brazilijos vasaros laikas
-    }
-  },
-  {
-    Key: America/Regina,
-    Value: {
-      Generic: Šiaurės Amerikos centro laikas,
-      Standard: Šiaurės Amerikos centro žiemos laikas,
-      Daylight: Šiaurės Amerikos centro vasaros laikas
-    }
-  },
-  {
-    Key: America/Resolute,
-    Value: {
-      Generic: Šiaurės Amerikos centro laikas,
-      Standard: Šiaurės Amerikos centro žiemos laikas,
-      Daylight: Šiaurės Amerikos centro vasaros laikas
-    }
-  },
-  {
-    Key: America/Rio_Branco,
-    Value: {
-      Generic: Ako laikas,
-      Standard: Ako standartinis laikas,
-      Daylight: Ako vasaros laikas
-    }
-  },
-  {
-    Key: America/Rosario,
-    Value: {
-      Generic: Argentinos laikas,
-      Standard: Argentinos žiemos laikas,
-      Daylight: Argentinos vasaros laikas
-    }
-  },
-  {
-    Key: America/Santa_Isabel,
-    Value: {
-      Generic: Šiaurės Vakarų Meksikos laikas,
-      Standard: Šiaurės Vakarų Meksikos žiemos laikas,
-      Daylight: Šiaurės Vakarų Meksikos vasaros laikas
-    }
-  },
-  {
-    Key: America/Santarem,
-    Value: {
-      Generic: Brazilijos laikas,
-      Standard: Brazilijos žiemos laikas,
-      Daylight: Brazilijos vasaros laikas
-    }
-  },
-  {
-    Key: America/Santiago,
-    Value: {
-      Generic: Čilės laikas,
-      Standard: Čilės žiemos laikas,
-      Daylight: Čilės vasaros laikas
-    }
-  },
-  {
-    Key: America/Santo_Domingo,
-    Value: {
-      Generic: Atlanto laikas,
-      Standard: Atlanto žiemos laikas,
-      Daylight: Atlanto vasaros laikas
-    }
-  },
-  {
-    Key: America/Sao_Paulo,
-    Value: {
-      Generic: Brazilijos laikas,
-      Standard: Brazilijos žiemos laikas,
-      Daylight: Brazilijos vasaros laikas
-    }
-  },
-  {
-    Key: America/Scoresbysund,
-    Value: {
-      Generic: Grenlandijos rytų laikas,
-      Standard: Grenlandijos rytų žiemos laikas,
-      Daylight: Grenlandijos rytų vasaros laikas
-    }
-  },
-  {
-    Key: America/Shiprock,
-    Value: {
-      Generic: Šiaurės Amerikos kalnų laikas,
-      Standard: Šiaurės Amerikos kalnų žiemos laikas,
-      Daylight: Šiaurės Amerikos kalnų vasaros laikas
-    }
-  },
-  {
-    Key: America/Sitka,
-    Value: {
-      Generic: Aliaskos laikas,
-      Standard: Aliaskos žiemos laikas,
-      Daylight: Aliaskos vasaros laikas
-    }
-  },
-  {
-    Key: America/St_Barthelemy,
-    Value: {
-      Generic: Atlanto laikas,
-      Standard: Atlanto žiemos laikas,
-      Daylight: Atlanto vasaros laikas
-    }
-  },
-  {
-    Key: America/St_Johns,
-    Value: {
-      Generic: Niufaundlendo laikas,
-      Standard: Niufaundlendo žiemos laikas,
-      Daylight: Niufaundlendo vasaros laikas
-    }
-  },
-  {
-    Key: America/St_Kitts,
-    Value: {
-      Generic: Atlanto laikas,
-      Standard: Atlanto žiemos laikas,
-      Daylight: Atlanto vasaros laikas
-    }
-  },
-  {
-    Key: America/St_Lucia,
-    Value: {
-      Generic: Atlanto laikas,
-      Standard: Atlanto žiemos laikas,
-      Daylight: Atlanto vasaros laikas
-    }
-  },
-  {
-    Key: America/St_Thomas,
-    Value: {
-      Generic: Atlanto laikas,
-      Standard: Atlanto žiemos laikas,
-      Daylight: Atlanto vasaros laikas
-    }
-  },
-  {
-    Key: America/St_Vincent,
-    Value: {
-      Generic: Atlanto laikas,
-      Standard: Atlanto žiemos laikas,
-      Daylight: Atlanto vasaros laikas
-    }
-  },
-  {
-    Key: America/Swift_Current,
-    Value: {
-      Generic: Šiaurės Amerikos centro laikas,
-      Standard: Šiaurės Amerikos centro žiemos laikas,
-      Daylight: Šiaurės Amerikos centro vasaros laikas
-    }
-  },
-  {
-    Key: America/Tegucigalpa,
-    Value: {
-      Generic: Šiaurės Amerikos centro laikas,
-      Standard: Šiaurės Amerikos centro žiemos laikas,
-      Daylight: Šiaurės Amerikos centro vasaros laikas
-    }
-  },
-  {
-    Key: America/Thule,
-    Value: {
-      Generic: Atlanto laikas,
-      Standard: Atlanto žiemos laikas,
-      Daylight: Atlanto vasaros laikas
-    }
-  },
-  {
-    Key: America/Thunder_Bay,
-    Value: {
-      Generic: Šiaurės Amerikos rytų laikas,
-      Standard: Šiaurės Amerikos rytų žiemos laikas,
-      Daylight: Šiaurės Amerikos rytų vasaros laikas
-    }
-  },
-  {
-    Key: America/Tijuana,
-    Value: {
-      Generic: Šiaurės Amerikos Ramiojo vandenyno laikas,
-      Standard: Šiaurės Amerikos Ramiojo vandenyno žiemos laikas,
-      Daylight: Šiaurės Amerikos Ramiojo vandenyno vasaros laikas
-    }
-  },
-  {
-    Key: America/Toronto,
-    Value: {
-      Generic: Šiaurės Amerikos rytų laikas,
-      Standard: Šiaurės Amerikos rytų žiemos laikas,
-      Daylight: Šiaurės Amerikos rytų vasaros laikas
-    }
-  },
-  {
-    Key: America/Tortola,
-    Value: {
-      Generic: Atlanto laikas,
-      Standard: Atlanto žiemos laikas,
-      Daylight: Atlanto vasaros laikas
-    }
-  },
-  {
-    Key: America/Vancouver,
-    Value: {
-      Generic: Šiaurės Amerikos Ramiojo vandenyno laikas,
-      Standard: Šiaurės Amerikos Ramiojo vandenyno žiemos laikas,
-      Daylight: Šiaurės Amerikos Ramiojo vandenyno vasaros laikas
-    }
-  },
-  {
-    Key: America/Virgin,
-    Value: {
-      Generic: Atlanto laikas,
-      Standard: Atlanto žiemos laikas,
-      Daylight: Atlanto vasaros laikas
-    }
-  },
-  {
-    Key: America/Whitehorse,
-    Value: {
-      Generic: Jukono laikas,
-      Standard: Jukono laikas,
-      Daylight: Jukono laikas
-    }
-  },
-  {
-    Key: America/Winnipeg,
-    Value: {
-      Generic: Šiaurės Amerikos centro laikas,
-      Standard: Šiaurės Amerikos centro žiemos laikas,
-      Daylight: Šiaurės Amerikos centro vasaros laikas
-    }
-  },
-  {
-    Key: America/Yakutat,
-    Value: {
-      Generic: Aliaskos laikas,
-      Standard: Aliaskos žiemos laikas,
-      Daylight: Aliaskos vasaros laikas
-    }
-  },
-  {
-    Key: America/Yellowknife,
-    Value: {
-      Generic: Šiaurės Amerikos kalnų laikas,
-      Standard: Šiaurės Amerikos kalnų žiemos laikas,
-      Daylight: Šiaurės Amerikos kalnų vasaros laikas
-    }
-  },
-  {
-    Key: Antarctica/Casey,
-    Value: {
-      Generic: Keisio laikas,
-      Standard: Keisio laikas,
-      Daylight: Keisio laikas
-    }
-  },
-  {
-    Key: Antarctica/Davis,
-    Value: {
-      Generic: Deiviso laikas,
-      Standard: Deiviso laikas,
-      Daylight: Deiviso laikas
-    }
-  },
-  {
-    Key: Antarctica/DumontDUrville,
-    Value: {
-      Generic: Diumono d’Urvilio laikas,
-      Standard: Diumono d’Urvilio laikas,
-      Daylight: Diumono d’Urvilio laikas
-    }
-  },
-  {
-    Key: Antarctica/Macquarie,
-    Value: {
-      Generic: Rytų Australijos laikas,
-      Standard: Rytų Australijos žiemos laikas,
-      Daylight: Rytų Australijos vasaros laikas
-    }
-  },
-  {
-    Key: Antarctica/Mawson,
-    Value: {
-      Generic: Mosono laikas,
-      Standard: Mosono laikas,
-      Daylight: Mosono laikas
-    }
-  },
-  {
-    Key: Antarctica/McMurdo,
-    Value: {
-      Generic: Naujosios Zelandijos laikas,
-      Standard: Naujosios Zelandijos žiemos laikas,
-      Daylight: Naujosios Zelandijos vasaros laikas
-    }
-  },
-  {
-    Key: Antarctica/Palmer,
-    Value: {
-      Generic: Čilės laikas,
-      Standard: Čilės žiemos laikas,
-      Daylight: Čilės vasaros laikas
-    }
-  },
-  {
-    Key: Antarctica/Rothera,
-    Value: {
-      Generic: Roteros laikas,
-      Standard: Roteros laikas,
-      Daylight: Roteros laikas
-    }
-  },
-  {
-    Key: Antarctica/South_Pole,
-    Value: {
-      Generic: Naujosios Zelandijos laikas,
-      Standard: Naujosios Zelandijos žiemos laikas,
-      Daylight: Naujosios Zelandijos vasaros laikas
-    }
-  },
-  {
-    Key: Antarctica/Syowa,
-    Value: {
-      Generic: Siovos laikas,
-      Standard: Siovos laikas,
-      Daylight: Siovos laikas
-    }
-  },
-  {
-    Key: Antarctica/Troll,
-    Value: {
-      Generic: Grinvičo laikas,
-      Standard: Grinvičo laikas,
-      Daylight: Grinvičo laikas
-    }
-  },
-  {
-    Key: Antarctica/Vostok,
-    Value: {
-      Generic: Vostoko laikas,
-      Standard: Vostoko laikas,
-      Daylight: Vostoko laikas
-    }
-  },
-  {
-    Key: Arctic/Longyearbyen,
-    Value: {
-      Generic: Vidurio Europos laikas,
-      Standard: Vidurio Europos žiemos laikas,
-      Daylight: Vidurio Europos vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Aden,
-    Value: {
-      Generic: Arabijos laikas,
-      Standard: Arabijos žiemos laikas,
-      Daylight: Arabijos vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Almaty,
-    Value: {
-      Generic: Rytų Kazachstano laikas,
-      Standard: Rytų Kazachstano laikas,
-      Daylight: Rytų Kazachstano laikas
-    }
-  },
-  {
-    Key: Asia/Amman,
-    Value: {
-      Generic: Rytų Europos laikas,
-      Standard: Rytų Europos žiemos laikas,
-      Daylight: Rytų Europos vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Anadyr,
-    Value: {
-      Generic: Laikas: Anadyris,
-      Standard: Žiemos laikas: Anadyris,
-      Daylight: Vasaros laikas: Anadyris
-    }
-  },
-  {
-    Key: Asia/Aqtau,
-    Value: {
-      Generic: Vakarų Kazachstano laikas,
-      Standard: Vakarų Kazachstano laikas,
-      Daylight: Vakarų Kazachstano laikas
-    }
-  },
-  {
-    Key: Asia/Aqtobe,
-    Value: {
-      Generic: Vakarų Kazachstano laikas,
-      Standard: Vakarų Kazachstano laikas,
-      Daylight: Vakarų Kazachstano laikas
-    }
-  },
-  {
-    Key: Asia/Ashgabat,
-    Value: {
-      Generic: Turkmėnistano laikas,
-      Standard: Turkmėnistano žiemos laikas,
-      Daylight: Turkmėnistano vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Ashkhabad,
-    Value: {
-      Generic: Turkmėnistano laikas,
-      Standard: Turkmėnistano žiemos laikas,
-      Daylight: Turkmėnistano vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Atyrau,
-    Value: {
-      Generic: Vakarų Kazachstano laikas,
-      Standard: Vakarų Kazachstano laikas,
-      Daylight: Vakarų Kazachstano laikas
-    }
-  },
-  {
-    Key: Asia/Baghdad,
-    Value: {
-      Generic: Arabijos laikas,
-      Standard: Arabijos žiemos laikas,
-      Daylight: Arabijos vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Bahrain,
-    Value: {
-      Generic: Arabijos laikas,
-      Standard: Arabijos žiemos laikas,
-      Daylight: Arabijos vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Baku,
-    Value: {
-      Generic: Azerbaidžano laikas,
-      Standard: Azerbaidžano žiemos laikas,
-      Daylight: Azerbaidžano vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Bangkok,
-    Value: {
-      Generic: Indokinijos laikas,
-      Standard: Indokinijos laikas,
-      Daylight: Indokinijos laikas
-    }
-  },
-  {
-    Key: Asia/Barnaul,
-    Value: {
-      Generic: Laikas: Barnaulas,
-      Standard: Žiemos laikas: Barnaulas,
-      Daylight: Vasaros laikas: Barnaulas
-    }
-  },
-  {
-    Key: Asia/Beirut,
-    Value: {
-      Generic: Rytų Europos laikas,
-      Standard: Rytų Europos žiemos laikas,
-      Daylight: Rytų Europos vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Bishkek,
-    Value: {
-      Generic: Kirgistano laikas,
-      Standard: Kirgistano laikas,
-      Daylight: Kirgistano laikas
-    }
-  },
-  {
-    Key: Asia/Brunei,
-    Value: {
-      Generic: Brunėjaus Darusalamo laikas,
-      Standard: Brunėjaus Darusalamo laikas,
-      Daylight: Brunėjaus Darusalamo laikas
-    }
-  },
-  {
-    Key: Asia/Calcutta,
-    Value: {
-      Generic: Indijos laikas,
-      Standard: Indijos laikas,
-      Daylight: Indijos laikas
-    }
-  },
-  {
-    Key: Asia/Chita,
-    Value: {
-      Generic: Laikas: Čita,
-      Standard: Žiemos laikas: Čita,
-      Daylight: Vasaros laikas: Čita
-    }
-  },
-  {
-    Key: Asia/Choibalsan,
-    Value: {
-      Generic: Ulan Batoro laikas,
-      Standard: Ulan Batoro žiemos laikas,
-      Daylight: Ulan Batoro vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Chongqing,
-    Value: {
-      Generic: Kinijos laikas,
-      Standard: Kinijos žiemos laikas,
-      Daylight: Kinijos vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Chungking,
-    Value: {
-      Generic: Kinijos laikas,
-      Standard: Kinijos žiemos laikas,
-      Daylight: Kinijos vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Colombo,
-    Value: {
-      Generic: Indijos laikas,
-      Standard: Indijos laikas,
-      Daylight: Indijos laikas
-    }
-  },
-  {
-    Key: Asia/Dacca,
-    Value: {
-      Generic: Bangladešo laikas,
-      Standard: Bangladešo žiemos laikas,
-      Daylight: Bangladešo vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Damascus,
-    Value: {
-      Generic: Rytų Europos laikas,
-      Standard: Rytų Europos žiemos laikas,
-      Daylight: Rytų Europos vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Dhaka,
-    Value: {
-      Generic: Bangladešo laikas,
-      Standard: Bangladešo žiemos laikas,
-      Daylight: Bangladešo vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Dili,
-    Value: {
-      Generic: Rytų Timoro laikas,
-      Standard: Rytų Timoro laikas,
-      Daylight: Rytų Timoro laikas
-    }
-  },
-  {
-    Key: Asia/Dubai,
-    Value: {
-      Generic: Persijos įlankos laikas,
-      Standard: Persijos įlankos laikas,
-      Daylight: Persijos įlankos laikas
-    }
-  },
-  {
-    Key: Asia/Dushanbe,
-    Value: {
-      Generic: Tadžikistano laikas,
-      Standard: Tadžikistano laikas,
-      Daylight: Tadžikistano laikas
-    }
-  },
-  {
-    Key: Asia/Famagusta,
-    Value: {
-      Generic: Rytų Europos laikas,
-      Standard: Rytų Europos žiemos laikas,
-      Daylight: Rytų Europos vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Gaza,
-    Value: {
-      Generic: Rytų Europos laikas,
-      Standard: Rytų Europos žiemos laikas,
-      Daylight: Rytų Europos vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Harbin,
-    Value: {
-      Generic: Kinijos laikas,
-      Standard: Kinijos žiemos laikas,
-      Daylight: Kinijos vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Hebron,
-    Value: {
-      Generic: Rytų Europos laikas,
-      Standard: Rytų Europos žiemos laikas,
-      Daylight: Rytų Europos vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Ho_Chi_Minh,
-    Value: {
-      Generic: Indokinijos laikas,
-      Standard: Indokinijos laikas,
-      Daylight: Indokinijos laikas
-    }
-  },
-  {
-    Key: Asia/Hong_Kong,
-    Value: {
-      Generic: Honkongo laikas,
-      Standard: Honkongo žiemos laikas,
-      Daylight: Honkongo vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Hovd,
-    Value: {
-      Generic: Hovdo laikas,
-      Standard: Hovdo žiemos laikas,
-      Daylight: Hovdo vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Irkutsk,
-    Value: {
-      Generic: Laikas: Irkutskas,
-      Standard: Žiemos laikas: Irkutskas,
-      Daylight: Vasaros laikas: Irkutskas
-    }
-  },
-  {
-    Key: Asia/Istanbul,
-    Value: {
-      Generic: Laikas: Turkija,
-      Standard: Žiemos laikas: Turkija,
-      Daylight: Vasaros laikas: Turkija
-    }
-  },
-  {
-    Key: Asia/Jakarta,
-    Value: {
-      Generic: Vakarų Indonezijos laikas,
-      Standard: Vakarų Indonezijos laikas,
-      Daylight: Vakarų Indonezijos laikas
-    }
-  },
-  {
-    Key: Asia/Jayapura,
-    Value: {
-      Generic: Rytų Indonezijos laikas,
-      Standard: Rytų Indonezijos laikas,
-      Daylight: Rytų Indonezijos laikas
-    }
-  },
-  {
-    Key: Asia/Jerusalem,
-    Value: {
-      Generic: Izraelio laikas,
-      Standard: Izraelio žiemos laikas,
-      Daylight: Izraelio vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Kabul,
-    Value: {
-      Generic: Afganistano laikas,
-      Standard: Afganistano laikas,
-      Daylight: Afganistano laikas
-    }
-  },
-  {
-    Key: Asia/Kamchatka,
-    Value: {
-      Generic: Laikas: Kamčiatka,
-      Standard: Žiemos laikas: Kamčiatka,
-      Daylight: Vasaros laikas: Kamčiatka
-    }
-  },
-  {
-    Key: Asia/Karachi,
-    Value: {
-      Generic: Pakistano laikas,
-      Standard: Pakistano žiemos laikas,
-      Daylight: Pakistano vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Kashgar,
-    Value: {
-      Generic: Laikas: Kinija,
-      Standard: Žiemos laikas: Kinija,
-      Daylight: Vasaros laikas: Kinija
-    }
-  },
-  {
-    Key: Asia/Kathmandu,
-    Value: {
-      Generic: Nepalo laikas,
-      Standard: Nepalo laikas,
-      Daylight: Nepalo laikas
-    }
-  },
-  {
-    Key: Asia/Katmandu,
-    Value: {
-      Generic: Nepalo laikas,
-      Standard: Nepalo laikas,
-      Daylight: Nepalo laikas
-    }
-  },
-  {
-    Key: Asia/Khandyga,
-    Value: {
-      Generic: Laikas: Chandyga,
-      Standard: Žiemos laikas: Chandyga,
-      Daylight: Vasaros laikas: Chandyga
-    }
-  },
-  {
-    Key: Asia/Kolkata,
-    Value: {
-      Generic: Indijos laikas,
-      Standard: Indijos laikas,
-      Daylight: Indijos laikas
-    }
-  },
-  {
-    Key: Asia/Krasnoyarsk,
-    Value: {
-      Generic: Laikas: Krasnojarskas,
-      Standard: Žiemos laikas: Krasnojarskas,
-      Daylight: Vasaros laikas: Krasnojarskas
-    }
-  },
-  {
-    Key: Asia/Kuala_Lumpur,
-    Value: {
-      Generic: Malaizijos laikas,
-      Standard: Malaizijos laikas,
-      Daylight: Malaizijos laikas
-    }
-  },
-  {
-    Key: Asia/Kuching,
-    Value: {
-      Generic: Malaizijos laikas,
-      Standard: Malaizijos laikas,
-      Daylight: Malaizijos laikas
-    }
-  },
-  {
-    Key: Asia/Kuwait,
-    Value: {
-      Generic: Arabijos laikas,
-      Standard: Arabijos žiemos laikas,
-      Daylight: Arabijos vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Macao,
-    Value: {
-      Generic: Kinijos laikas,
-      Standard: Kinijos žiemos laikas,
-      Daylight: Kinijos vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Macau,
-    Value: {
-      Generic: Kinijos laikas,
-      Standard: Kinijos žiemos laikas,
-      Daylight: Kinijos vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Magadan,
-    Value: {
-      Generic: Laikas: Magadanas,
-      Standard: Žiemos laikas: Magadanas,
-      Daylight: Vasaros laikas: Magadanas
-    }
-  },
-  {
-    Key: Asia/Makassar,
-    Value: {
-      Generic: Centrinės Indonezijos laikas,
-      Standard: Centrinės Indonezijos laikas,
-      Daylight: Centrinės Indonezijos laikas
-    }
-  },
-  {
-    Key: Asia/Manila,
-    Value: {
-      Generic: Filipinų laikas,
-      Standard: Filipinų žiemos laikas,
-      Daylight: Filipinų vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Muscat,
-    Value: {
-      Generic: Persijos įlankos laikas,
-      Standard: Persijos įlankos laikas,
-      Daylight: Persijos įlankos laikas
-    }
-  },
-  {
-    Key: Asia/Nicosia,
-    Value: {
-      Generic: Rytų Europos laikas,
-      Standard: Rytų Europos žiemos laikas,
-      Daylight: Rytų Europos vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Novokuznetsk,
-    Value: {
-      Generic: Laikas: Novokuzneckas,
-      Standard: Žiemos laikas: Novokuzneckas,
-      Daylight: Vasaros laikas: Novokuzneckas
-    }
-  },
-  {
-    Key: Asia/Novosibirsk,
-    Value: {
-      Generic: Laikas: Novosibirskas,
-      Standard: Žiemos laikas: Novosibirskas,
-      Daylight: Vasaros laikas: Novosibirskas
-    }
-  },
-  {
-    Key: Asia/Omsk,
-    Value: {
-      Generic: Laikas: Omskas,
-      Standard: Žiemos laikas: Omskas,
-      Daylight: Vasaros laikas: Omskas
-    }
-  },
-  {
-    Key: Asia/Oral,
-    Value: {
-      Generic: Vakarų Kazachstano laikas,
-      Standard: Vakarų Kazachstano laikas,
-      Daylight: Vakarų Kazachstano laikas
-    }
-  },
-  {
-    Key: Asia/Phnom_Penh,
-    Value: {
-      Generic: Indokinijos laikas,
-      Standard: Indokinijos laikas,
-      Daylight: Indokinijos laikas
-    }
-  },
-  {
-    Key: Asia/Pontianak,
-    Value: {
-      Generic: Vakarų Indonezijos laikas,
-      Standard: Vakarų Indonezijos laikas,
-      Daylight: Vakarų Indonezijos laikas
-    }
-  },
-  {
-    Key: Asia/Pyongyang,
-    Value: {
-      Generic: Korėjos laikas,
-      Standard: Korėjos žiemos laikas,
-      Daylight: Korėjos vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Qatar,
-    Value: {
-      Generic: Arabijos laikas,
-      Standard: Arabijos žiemos laikas,
-      Daylight: Arabijos vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Qostanay,
-    Value: {
-      Generic: Rytų Kazachstano laikas,
-      Standard: Rytų Kazachstano laikas,
-      Daylight: Rytų Kazachstano laikas
-    }
-  },
-  {
-    Key: Asia/Qyzylorda,
-    Value: {
-      Generic: Vakarų Kazachstano laikas,
-      Standard: Vakarų Kazachstano laikas,
-      Daylight: Vakarų Kazachstano laikas
-    }
-  },
-  {
-    Key: Asia/Rangoon,
-    Value: {
-      Generic: Mianmaro laikas,
-      Standard: Mianmaro laikas,
-      Daylight: Mianmaro laikas
-    }
-  },
-  {
-    Key: Asia/Riyadh,
-    Value: {
-      Generic: Arabijos laikas,
-      Standard: Arabijos žiemos laikas,
-      Daylight: Arabijos vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Saigon,
-    Value: {
-      Generic: Indokinijos laikas,
-      Standard: Indokinijos laikas,
-      Daylight: Indokinijos laikas
-    }
-  },
-  {
-    Key: Asia/Sakhalin,
-    Value: {
-      Generic: Laikas: Sachalinas,
-      Standard: Žiemos laikas: Sachalinas,
-      Daylight: Vasaros laikas: Sachalinas
-    }
-  },
-  {
-    Key: Asia/Samarkand,
-    Value: {
-      Generic: Uzbekistano laikas,
-      Standard: Uzbekistano žiemos laikas,
-      Daylight: Uzbekistano vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Seoul,
-    Value: {
-      Generic: Korėjos laikas,
-      Standard: Korėjos žiemos laikas,
-      Daylight: Korėjos vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Shanghai,
-    Value: {
-      Generic: Kinijos laikas,
-      Standard: Kinijos žiemos laikas,
-      Daylight: Kinijos vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Singapore,
-    Value: {
-      Generic: Singapūro laikas,
-      Standard: Singapūro laikas,
-      Daylight: Singapūro laikas
-    }
-  },
-  {
-    Key: Asia/Srednekolymsk,
-    Value: {
-      Generic: Laikas: Srednekolymskas,
-      Standard: Žiemos laikas: Srednekolymskas,
-      Daylight: Vasaros laikas: Srednekolymskas
-    }
-  },
-  {
-    Key: Asia/Taipei,
-    Value: {
-      Generic: Taipėjaus laikas,
-      Standard: Taipėjaus žiemos laikas,
-      Daylight: Taipėjaus vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Tashkent,
-    Value: {
-      Generic: Uzbekistano laikas,
-      Standard: Uzbekistano žiemos laikas,
-      Daylight: Uzbekistano vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Tbilisi,
-    Value: {
-      Generic: Gruzijos laikas,
-      Standard: Gruzijos žiemos laikas,
-      Daylight: Gruzijos vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Tehran,
-    Value: {
-      Generic: Irano laikas,
-      Standard: Irano žiemos laikas,
-      Daylight: Irano vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Tel_Aviv,
-    Value: {
-      Generic: Izraelio laikas,
-      Standard: Izraelio žiemos laikas,
-      Daylight: Izraelio vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Thimbu,
-    Value: {
-      Generic: Butano laikas,
-      Standard: Butano laikas,
-      Daylight: Butano laikas
-    }
-  },
-  {
-    Key: Asia/Thimphu,
-    Value: {
-      Generic: Butano laikas,
-      Standard: Butano laikas,
-      Daylight: Butano laikas
-    }
-  },
-  {
-    Key: Asia/Tokyo,
-    Value: {
-      Generic: Japonijos laikas,
-      Standard: Japonijos žiemos laikas,
-      Daylight: Japonijos vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Tomsk,
-    Value: {
-      Generic: Laikas: Tomskas,
-      Standard: Žiemos laikas: Tomskas,
-      Daylight: Vasaros laikas: Tomskas
-    }
-  },
-  {
-    Key: Asia/Ujung_Pandang,
-    Value: {
-      Generic: Centrinės Indonezijos laikas,
-      Standard: Centrinės Indonezijos laikas,
-      Daylight: Centrinės Indonezijos laikas
-    }
-  },
-  {
-    Key: Asia/Ulaanbaatar,
-    Value: {
-      Generic: Ulan Batoro laikas,
-      Standard: Ulan Batoro žiemos laikas,
-      Daylight: Ulan Batoro vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Ulan_Bator,
-    Value: {
-      Generic: Ulan Batoro laikas,
-      Standard: Ulan Batoro žiemos laikas,
-      Daylight: Ulan Batoro vasaros laikas
-    }
-  },
-  {
-    Key: Asia/Urumqi,
-    Value: {
-      Generic: Laikas: Kinija,
-      Standard: Žiemos laikas: Kinija,
-      Daylight: Vasaros laikas: Kinija
-    }
-  },
-  {
-    Key: Asia/Ust-Nera,
-    Value: {
-      Generic: Laikas: Ust Nera,
-      Standard: Žiemos laikas: Ust Nera,
-      Daylight: Vasaros laikas: Ust Nera
-    }
-  },
-  {
-    Key: Asia/Vientiane,
-    Value: {
-      Generic: Indokinijos laikas,
-      Standard: Indokinijos laikas,
-      Daylight: Indokinijos laikas
-    }
-  },
-  {
-    Key: Asia/Vladivostok,
-    Value: {
-      Generic: Laikas: Vladivostokas,
-      Standard: Žiemos laikas: Vladivostokas,
-      Daylight: Vasaros laikas: Vladivostokas
-    }
-  },
-  {
-    Key: Asia/Yakutsk,
-    Value: {
-      Generic: Laikas: Jakutskas,
-      Standard: Žiemos laikas: Jakutskas,
-      Daylight: Vasaros laikas: Jakutskas
-    }
-  },
-  {
-    Key: Asia/Yangon,
-    Value: {
-      Generic: Mianmaro laikas,
-      Standard: Mianmaro laikas,
-      Daylight: Mianmaro laikas
-    }
-  },
-  {
-    Key: Asia/Yekaterinburg,
-    Value: {
-      Generic: Laikas: Jekaterinburgas,
-      Standard: Žiemos laikas: Jekaterinburgas,
-      Daylight: Vasaros laikas: Jekaterinburgas
-    }
-  },
-  {
-    Key: Asia/Yerevan,
-    Value: {
-      Generic: Armėnijos laikas,
-      Standard: Armėnijos žiemos laikas,
-      Daylight: Armėnijos vasaros laikas
-    }
-  },
-  {
-    Key: Atlantic/Azores,
-    Value: {
-      Generic: Azorų Salų laikas,
-      Standard: Azorų Salų žiemos laikas,
-      Daylight: Azorų Salų vasaros laikas
-    }
-  },
-  {
-    Key: Atlantic/Bermuda,
-    Value: {
-      Generic: Atlanto laikas,
-      Standard: Atlanto žiemos laikas,
-      Daylight: Atlanto vasaros laikas
-    }
-  },
-  {
-    Key: Atlantic/Canary,
-    Value: {
-      Generic: Vakarų Europos laikas,
-      Standard: Vakarų Europos žiemos laikas,
-      Daylight: Vakarų Europos vasaros laikas
-    }
-  },
-  {
-    Key: Atlantic/Cape_Verde,
-    Value: {
-      Generic: Žaliojo Kyšulio laikas,
-      Standard: Žaliojo Kyšulio žiemos laikas,
-      Daylight: Žaliojo Kyšulio vasaros laikas
-    }
-  },
-  {
-    Key: Atlantic/Faeroe,
-    Value: {
-      Generic: Vakarų Europos laikas,
-      Standard: Vakarų Europos žiemos laikas,
-      Daylight: Vakarų Europos vasaros laikas
-    }
-  },
-  {
-    Key: Atlantic/Faroe,
-    Value: {
-      Generic: Vakarų Europos laikas,
-      Standard: Vakarų Europos žiemos laikas,
-      Daylight: Vakarų Europos vasaros laikas
-    }
-  },
-  {
-    Key: Atlantic/Jan_Mayen,
-    Value: {
-      Generic: Vidurio Europos laikas,
-      Standard: Vidurio Europos žiemos laikas,
-      Daylight: Vidurio Europos vasaros laikas
-    }
-  },
-  {
-    Key: Atlantic/Madeira,
-    Value: {
-      Generic: Vakarų Europos laikas,
-      Standard: Vakarų Europos žiemos laikas,
-      Daylight: Vakarų Europos vasaros laikas
-    }
-  },
-  {
-    Key: Atlantic/Reykjavik,
-    Value: {
-      Generic: Grinvičo laikas,
-      Standard: Grinvičo laikas,
-      Daylight: Grinvičo laikas
-    }
-  },
-  {
-    Key: Atlantic/South_Georgia,
-    Value: {
-      Generic: Pietų Džordžijos laikas,
-      Standard: Pietų Džordžijos laikas,
-      Daylight: Pietų Džordžijos laikas
-    }
-  },
-  {
-    Key: Atlantic/St_Helena,
-    Value: {
-      Generic: Grinvičo laikas,
-      Standard: Grinvičo laikas,
-      Daylight: Grinvičo laikas
-    }
-  },
-  {
-    Key: Atlantic/Stanley,
-    Value: {
-      Generic: Folklando Salų laikas,
-      Standard: Folklandų Salų žiemos laikas,
-      Daylight: Folklando Salų vasaros laikas
-    }
-  },
-  {
-    Key: Australia/ACT,
-    Value: {
-      Generic: Rytų Australijos laikas,
-      Standard: Rytų Australijos žiemos laikas,
-      Daylight: Rytų Australijos vasaros laikas
-    }
-  },
-  {
-    Key: Australia/Adelaide,
-    Value: {
-      Generic: Centrinės Australijos laikas,
-      Standard: Centrinės Australijos žiemos laikas,
-      Daylight: Centrinės Australijos vasaros laikas
-    }
-  },
-  {
-    Key: Australia/Brisbane,
-    Value: {
-      Generic: Rytų Australijos laikas,
-      Standard: Rytų Australijos žiemos laikas,
-      Daylight: Rytų Australijos vasaros laikas
-    }
-  },
-  {
-    Key: Australia/Broken_Hill,
-    Value: {
-      Generic: Centrinės Australijos laikas,
-      Standard: Centrinės Australijos žiemos laikas,
-      Daylight: Centrinės Australijos vasaros laikas
-    }
-  },
-  {
-    Key: Australia/Canberra,
-    Value: {
-      Generic: Rytų Australijos laikas,
-      Standard: Rytų Australijos žiemos laikas,
-      Daylight: Rytų Australijos vasaros laikas
-    }
-  },
-  {
-    Key: Australia/Currie,
-    Value: {
-      Generic: Rytų Australijos laikas,
-      Standard: Rytų Australijos žiemos laikas,
-      Daylight: Rytų Australijos vasaros laikas
-    }
-  },
-  {
-    Key: Australia/Darwin,
-    Value: {
-      Generic: Centrinės Australijos laikas,
-      Standard: Centrinės Australijos žiemos laikas,
-      Daylight: Centrinės Australijos vasaros laikas
-    }
-  },
-  {
-    Key: Australia/Eucla,
-    Value: {
-      Generic: Centrinės vakarų Australijos laikas,
-      Standard: Centrinės vakarų Australijos žiemos laikas,
-      Daylight: Centrinės vakarų Australijos vasaros laikas
-    }
-  },
-  {
-    Key: Australia/Hobart,
-    Value: {
-      Generic: Rytų Australijos laikas,
-      Standard: Rytų Australijos žiemos laikas,
-      Daylight: Rytų Australijos vasaros laikas
-    }
-  },
-  {
-    Key: Australia/LHI,
-    Value: {
-      Generic: Lordo Hau laikas,
-      Standard: Lordo Hau žiemos laikas,
-      Daylight: Lordo Hau vasaros laikas
-    }
-  },
-  {
-    Key: Australia/Lindeman,
-    Value: {
-      Generic: Rytų Australijos laikas,
-      Standard: Rytų Australijos žiemos laikas,
-      Daylight: Rytų Australijos vasaros laikas
-    }
-  },
-  {
-    Key: Australia/Lord_Howe,
-    Value: {
-      Generic: Lordo Hau laikas,
-      Standard: Lordo Hau žiemos laikas,
-      Daylight: Lordo Hau vasaros laikas
-    }
-  },
-  {
-    Key: Australia/Melbourne,
-    Value: {
-      Generic: Rytų Australijos laikas,
-      Standard: Rytų Australijos žiemos laikas,
-      Daylight: Rytų Australijos vasaros laikas
-    }
-  },
-  {
-    Key: Australia/North,
-    Value: {
-      Generic: Centrinės Australijos laikas,
-      Standard: Centrinės Australijos žiemos laikas,
-      Daylight: Centrinės Australijos vasaros laikas
-    }
-  },
-  {
-    Key: Australia/NSW,
-    Value: {
-      Generic: Rytų Australijos laikas,
-      Standard: Rytų Australijos žiemos laikas,
-      Daylight: Rytų Australijos vasaros laikas
-    }
-  },
-  {
-    Key: Australia/Perth,
-    Value: {
-      Generic: Vakarų Australijos laikas,
-      Standard: Vakarų Australijos žiemos laikas,
-      Daylight: Vakarų Australijos vasaros laikas
-    }
-  },
-  {
-    Key: Australia/Queensland,
-    Value: {
-      Generic: Rytų Australijos laikas,
-      Standard: Rytų Australijos žiemos laikas,
-      Daylight: Rytų Australijos vasaros laikas
-    }
-  },
-  {
-    Key: Australia/South,
-    Value: {
-      Generic: Centrinės Australijos laikas,
-      Standard: Centrinės Australijos žiemos laikas,
-      Daylight: Centrinės Australijos vasaros laikas
-    }
-  },
-  {
-    Key: Australia/Sydney,
-    Value: {
-      Generic: Rytų Australijos laikas,
-      Standard: Rytų Australijos žiemos laikas,
-      Daylight: Rytų Australijos vasaros laikas
-    }
-  },
-  {
-    Key: Australia/Tasmania,
-    Value: {
-      Generic: Rytų Australijos laikas,
-      Standard: Rytų Australijos žiemos laikas,
-      Daylight: Rytų Australijos vasaros laikas
-    }
-  },
-  {
-    Key: Australia/Victoria,
-    Value: {
-      Generic: Rytų Australijos laikas,
-      Standard: Rytų Australijos žiemos laikas,
-      Daylight: Rytų Australijos vasaros laikas
-    }
-  },
-  {
-    Key: Australia/West,
-    Value: {
-      Generic: Vakarų Australijos laikas,
-      Standard: Vakarų Australijos žiemos laikas,
-      Daylight: Vakarų Australijos vasaros laikas
-    }
-  },
-  {
-    Key: Australia/Yancowinna,
-    Value: {
-      Generic: Centrinės Australijos laikas,
-      Standard: Centrinės Australijos žiemos laikas,
-      Daylight: Centrinės Australijos vasaros laikas
-    }
-  },
-  {
-    Key: Brazil/Acre,
-    Value: {
-      Generic: Ako laikas,
-      Standard: Ako standartinis laikas,
-      Daylight: Ako vasaros laikas
-    }
-  },
-  {
-    Key: Brazil/DeNoronha,
-    Value: {
-      Generic: Fernando de Noronjos laikas,
-      Standard: Fernando de Noronjos žiemos laikas,
-      Daylight: Fernando de Noronjos vasaros laikas
-    }
-  },
-  {
-    Key: Brazil/East,
-    Value: {
-      Generic: Brazilijos laikas,
-      Standard: Brazilijos žiemos laikas,
-      Daylight: Brazilijos vasaros laikas
-    }
-  },
-  {
-    Key: Brazil/West,
-    Value: {
-      Generic: Amazonės laikas,
-      Standard: Amazonės žiemos laikas,
-      Daylight: Amazonės vasaros laikas
-    }
-  },
-  {
-    Key: Canada/Atlantic,
-    Value: {
-      Generic: Atlanto laikas,
-      Standard: Atlanto žiemos laikas,
-      Daylight: Atlanto vasaros laikas
-    }
-  },
-  {
-    Key: Canada/Central,
-    Value: {
-      Generic: Šiaurės Amerikos centro laikas,
-      Standard: Šiaurės Amerikos centro žiemos laikas,
-      Daylight: Šiaurės Amerikos centro vasaros laikas
-    }
-  },
-  {
-    Key: Canada/Eastern,
-    Value: {
-      Generic: Šiaurės Amerikos rytų laikas,
-      Standard: Šiaurės Amerikos rytų žiemos laikas,
-      Daylight: Šiaurės Amerikos rytų vasaros laikas
-    }
-  },
-  {
-    Key: Canada/Mountain,
-    Value: {
-      Generic: Šiaurės Amerikos kalnų laikas,
-      Standard: Šiaurės Amerikos kalnų žiemos laikas,
-      Daylight: Šiaurės Amerikos kalnų vasaros laikas
-    }
-  },
-  {
-    Key: Canada/Newfoundland,
-    Value: {
-      Generic: Niufaundlendo laikas,
-      Standard: Niufaundlendo žiemos laikas,
-      Daylight: Niufaundlendo vasaros laikas
-    }
-  },
-  {
-    Key: Canada/Pacific,
-    Value: {
-      Generic: Šiaurės Amerikos Ramiojo vandenyno laikas,
-      Standard: Šiaurės Amerikos Ramiojo vandenyno žiemos laikas,
-      Daylight: Šiaurės Amerikos Ramiojo vandenyno vasaros laikas
-    }
-  },
-  {
-    Key: Canada/Saskatchewan,
-    Value: {
-      Generic: Šiaurės Amerikos centro laikas,
-      Standard: Šiaurės Amerikos centro žiemos laikas,
-      Daylight: Šiaurės Amerikos centro vasaros laikas
-    }
-  },
-  {
-    Key: Canada/Yukon,
-    Value: {
-      Generic: Jukono laikas,
-      Standard: Jukono laikas,
-      Daylight: Jukono laikas
-    }
-  },
-  {
-    Key: CET,
-    Value: {
-      Generic: Vidurio Europos laikas,
-      Standard: Vidurio Europos žiemos laikas,
-      Daylight: Vidurio Europos vasaros laikas
-    }
-  },
-  {
-    Key: Chile/Continental,
-    Value: {
-      Generic: Čilės laikas,
-      Standard: Čilės žiemos laikas,
-      Daylight: Čilės vasaros laikas
-    }
-  },
-  {
-    Key: Chile/EasterIsland,
-    Value: {
-      Generic: Velykų Salos laikas,
-      Standard: Velykų salos žiemos laikas,
-      Daylight: Velykų Salos vasaros laikas
-    }
-  },
-  {
-    Key: CST6CDT,
-    Value: {
-      Generic: Šiaurės Amerikos centro laikas,
-      Standard: Šiaurės Amerikos centro žiemos laikas,
-      Daylight: Šiaurės Amerikos centro vasaros laikas
-    }
-  },
-  {
-    Key: Cuba,
-    Value: {
-      Generic: Kubos laikas,
-      Standard: Kubos žiemos laikas,
-      Daylight: Kubos vasaros laikas
-    }
-  },
-  {
-    Key: EET,
-    Value: {
-      Generic: Rytų Europos laikas,
-      Standard: Rytų Europos žiemos laikas,
-      Daylight: Rytų Europos vasaros laikas
-    }
-  },
-  {
-    Key: Egypt,
-    Value: {
-      Generic: Rytų Europos laikas,
-      Standard: Rytų Europos žiemos laikas,
-      Daylight: Rytų Europos vasaros laikas
-    }
-  },
-  {
-    Key: Eire,
-    Value: {
-      Generic: Laikas: Airija,
-      Standard: Grinvičo laikas,
-      Daylight: Airijos vasaros laikas
-    }
-  },
-  {
-    Key: EST,
-    Value: {
-      Generic: pasaulio suderintasis laikas -5,
-      Standard: pasaulio suderintasis laikas -5,
-      Daylight: pasaulio suderintasis laikas -5
-    }
-  },
-  {
-    Key: EST5EDT,
-    Value: {
-      Generic: Šiaurės Amerikos rytų laikas,
-      Standard: Šiaurės Amerikos rytų žiemos laikas,
-      Daylight: Šiaurės Amerikos rytų vasaros laikas
-    }
-  },
-  {
-    Key: Etc/GMT,
-    Value: {
-      Generic: Grinvičo laikas,
-      Standard: Grinvičo laikas,
-      Daylight: Grinvičo laikas
-    }
-  },
-  {
-    Key: Etc/GMT-0,
-    Value: {
-      Generic: Grinvičo laikas,
-      Standard: Grinvičo laikas,
-      Daylight: Grinvičo laikas
-    }
-  },
-  {
-    Key: Etc/GMT-1,
-    Value: {
-      Generic: pasaulio suderintasis laikas +1,
-      Standard: pasaulio suderintasis laikas +1,
-      Daylight: pasaulio suderintasis laikas +1
-    }
-  },
-  {
-    Key: Etc/GMT-10,
-    Value: {
-      Generic: pasaulio suderintasis laikas +10,
-      Standard: pasaulio suderintasis laikas +10,
-      Daylight: pasaulio suderintasis laikas +10
-    }
-  },
-  {
-    Key: Etc/GMT-11,
-    Value: {
-      Generic: pasaulio suderintasis laikas +11,
-      Standard: pasaulio suderintasis laikas +11,
-      Daylight: pasaulio suderintasis laikas +11
-    }
-  },
-  {
-    Key: Etc/GMT-12,
-    Value: {
-      Generic: pasaulio suderintasis laikas +12,
-      Standard: pasaulio suderintasis laikas +12,
-      Daylight: pasaulio suderintasis laikas +12
-    }
-  },
-  {
-    Key: Etc/GMT-13,
-    Value: {
-      Generic: pasaulio suderintasis laikas +13,
-      Standard: pasaulio suderintasis laikas +13,
-      Daylight: pasaulio suderintasis laikas +13
-    }
-  },
-  {
-    Key: Etc/GMT-14,
-    Value: {
-      Generic: pasaulio suderintasis laikas +14,
-      Standard: pasaulio suderintasis laikas +14,
-      Daylight: pasaulio suderintasis laikas +14
-    }
-  },
-  {
-    Key: Etc/GMT-2,
-    Value: {
-      Generic: pasaulio suderintasis laikas +2,
-      Standard: pasaulio suderintasis laikas +2,
-      Daylight: pasaulio suderintasis laikas +2
-    }
-  },
-  {
-    Key: Etc/GMT-3,
-    Value: {
-      Generic: pasaulio suderintasis laikas +3,
-      Standard: pasaulio suderintasis laikas +3,
-      Daylight: pasaulio suderintasis laikas +3
-    }
-  },
-  {
-    Key: Etc/GMT-4,
-    Value: {
-      Generic: pasaulio suderintasis laikas +4,
-      Standard: pasaulio suderintasis laikas +4,
-      Daylight: pasaulio suderintasis laikas +4
-    }
-  },
-  {
-    Key: Etc/GMT-5,
-    Value: {
-      Generic: pasaulio suderintasis laikas +5,
-      Standard: pasaulio suderintasis laikas +5,
-      Daylight: pasaulio suderintasis laikas +5
-    }
-  },
-  {
-    Key: Etc/GMT-6,
-    Value: {
-      Generic: pasaulio suderintasis laikas +6,
-      Standard: pasaulio suderintasis laikas +6,
-      Daylight: pasaulio suderintasis laikas +6
-    }
-  },
-  {
-    Key: Etc/GMT-7,
-    Value: {
-      Generic: pasaulio suderintasis laikas +7,
-      Standard: pasaulio suderintasis laikas +7,
-      Daylight: pasaulio suderintasis laikas +7
-    }
-  },
-  {
-    Key: Etc/GMT-8,
-    Value: {
-      Generic: pasaulio suderintasis laikas +8,
-      Standard: pasaulio suderintasis laikas +8,
-      Daylight: pasaulio suderintasis laikas +8
-    }
-  },
-  {
-    Key: Etc/GMT-9,
-    Value: {
-      Generic: pasaulio suderintasis laikas +9,
-      Standard: pasaulio suderintasis laikas +9,
-      Daylight: pasaulio suderintasis laikas +9
-    }
-  },
-  {
-    Key: Etc/GMT+0,
-    Value: {
-      Generic: Grinvičo laikas,
-      Standard: Grinvičo laikas,
-      Daylight: Grinvičo laikas
-    }
-  },
-  {
-    Key: Etc/GMT+1,
-    Value: {
-      Generic: pasaulio suderintasis laikas -1,
-      Standard: pasaulio suderintasis laikas -1,
-      Daylight: pasaulio suderintasis laikas -1
-    }
-  },
-  {
-    Key: Etc/GMT+10,
-    Value: {
-      Generic: pasaulio suderintasis laikas -10,
-      Standard: pasaulio suderintasis laikas -10,
-      Daylight: pasaulio suderintasis laikas -10
-    }
-  },
-  {
-    Key: Etc/GMT+11,
-    Value: {
-      Generic: pasaulio suderintasis laikas -11,
-      Standard: pasaulio suderintasis laikas -11,
-      Daylight: pasaulio suderintasis laikas -11
-    }
-  },
-  {
-    Key: Etc/GMT+12,
-    Value: {
-      Generic: pasaulio suderintasis laikas -12,
-      Standard: pasaulio suderintasis laikas -12,
-      Daylight: pasaulio suderintasis laikas -12
-    }
-  },
-  {
-    Key: Etc/GMT+2,
-    Value: {
-      Generic: pasaulio suderintasis laikas -2,
-      Standard: pasaulio suderintasis laikas -2,
-      Daylight: pasaulio suderintasis laikas -2
-    }
-  },
-  {
-    Key: Etc/GMT+3,
-    Value: {
-      Generic: pasaulio suderintasis laikas -3,
-      Standard: pasaulio suderintasis laikas -3,
-      Daylight: pasaulio suderintasis laikas -3
-    }
-  },
-  {
-    Key: Etc/GMT+4,
-    Value: {
-      Generic: pasaulio suderintasis laikas -4,
-      Standard: pasaulio suderintasis laikas -4,
-      Daylight: pasaulio suderintasis laikas -4
-    }
-  },
-  {
-    Key: Etc/GMT+5,
-    Value: {
-      Generic: pasaulio suderintasis laikas -5,
-      Standard: pasaulio suderintasis laikas -5,
-      Daylight: pasaulio suderintasis laikas -5
-    }
-  },
-  {
-    Key: Etc/GMT+6,
-    Value: {
-      Generic: pasaulio suderintasis laikas -6,
-      Standard: pasaulio suderintasis laikas -6,
-      Daylight: pasaulio suderintasis laikas -6
-    }
-  },
-  {
-    Key: Etc/GMT+7,
-    Value: {
-      Generic: pasaulio suderintasis laikas -7,
-      Standard: pasaulio suderintasis laikas -7,
-      Daylight: pasaulio suderintasis laikas -7
-    }
-  },
-  {
-    Key: Etc/GMT+8,
-    Value: {
-      Generic: pasaulio suderintasis laikas -8,
-      Standard: pasaulio suderintasis laikas -8,
-      Daylight: pasaulio suderintasis laikas -8
-    }
-  },
-  {
-    Key: Etc/GMT+9,
-    Value: {
-      Generic: pasaulio suderintasis laikas -9,
-      Standard: pasaulio suderintasis laikas -9,
-      Daylight: pasaulio suderintasis laikas -9
-    }
-  },
-  {
-    Key: Etc/GMT0,
-    Value: {
-      Generic: Grinvičo laikas,
-      Standard: Grinvičo laikas,
-      Daylight: Grinvičo laikas
-    }
-  },
-  {
-    Key: Etc/Greenwich,
-    Value: {
-      Generic: Grinvičo laikas,
-      Standard: Grinvičo laikas,
-      Daylight: Grinvičo laikas
-    }
-  },
-  {
-    Key: Etc/UCT,
-    Value: {
-      Generic: pasaulio suderintasis laikas,
-      Standard: pasaulio suderintasis laikas,
-      Daylight: pasaulio suderintasis laikas
-    }
-  },
-  {
-    Key: Etc/Universal,
-    Value: {
-      Generic: pasaulio suderintasis laikas,
-      Standard: pasaulio suderintasis laikas,
-      Daylight: pasaulio suderintasis laikas
-    }
-  },
-  {
-    Key: Etc/UTC,
-    Value: {
-      Generic: pasaulio suderintasis laikas,
-      Standard: pasaulio suderintasis laikas,
-      Daylight: pasaulio suderintasis laikas
-    }
-  },
-  {
-    Key: Etc/Zulu,
-    Value: {
-      Generic: pasaulio suderintasis laikas,
-      Standard: pasaulio suderintasis laikas,
-      Daylight: pasaulio suderintasis laikas
-    }
-  },
-  {
-    Key: Europe/Amsterdam,
-    Value: {
-      Generic: Vidurio Europos laikas,
-      Standard: Vidurio Europos žiemos laikas,
-      Daylight: Vidurio Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Andorra,
-    Value: {
-      Generic: Vidurio Europos laikas,
-      Standard: Vidurio Europos žiemos laikas,
-      Daylight: Vidurio Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Astrakhan,
-    Value: {
-      Generic: Laikas: Astrachanė,
-      Standard: Žiemos laikas: Astrachanė,
-      Daylight: Vasaros laikas: Astrachanė
-    }
-  },
-  {
-    Key: Europe/Athens,
-    Value: {
-      Generic: Rytų Europos laikas,
-      Standard: Rytų Europos žiemos laikas,
-      Daylight: Rytų Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Belfast,
-    Value: {
-      Generic: Laikas: Jungtinė Karalystė,
-      Standard: Grinvičo laikas,
-      Daylight: Britanijos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Belgrade,
-    Value: {
-      Generic: Vidurio Europos laikas,
-      Standard: Vidurio Europos žiemos laikas,
-      Daylight: Vidurio Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Berlin,
-    Value: {
-      Generic: Vidurio Europos laikas,
-      Standard: Vidurio Europos žiemos laikas,
-      Daylight: Vidurio Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Bratislava,
-    Value: {
-      Generic: Vidurio Europos laikas,
-      Standard: Vidurio Europos žiemos laikas,
-      Daylight: Vidurio Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Brussels,
-    Value: {
-      Generic: Vidurio Europos laikas,
-      Standard: Vidurio Europos žiemos laikas,
-      Daylight: Vidurio Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Bucharest,
-    Value: {
-      Generic: Rytų Europos laikas,
-      Standard: Rytų Europos žiemos laikas,
-      Daylight: Rytų Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Budapest,
-    Value: {
-      Generic: Vidurio Europos laikas,
-      Standard: Vidurio Europos žiemos laikas,
-      Daylight: Vidurio Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Busingen,
-    Value: {
-      Generic: Vidurio Europos laikas,
-      Standard: Vidurio Europos žiemos laikas,
-      Daylight: Vidurio Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Chisinau,
-    Value: {
-      Generic: Rytų Europos laikas,
-      Standard: Rytų Europos žiemos laikas,
-      Daylight: Rytų Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Copenhagen,
-    Value: {
-      Generic: Vidurio Europos laikas,
-      Standard: Vidurio Europos žiemos laikas,
-      Daylight: Vidurio Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Dublin,
-    Value: {
-      Generic: Laikas: Airija,
-      Standard: Grinvičo laikas,
-      Daylight: Airijos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Gibraltar,
-    Value: {
-      Generic: Vidurio Europos laikas,
-      Standard: Vidurio Europos žiemos laikas,
-      Daylight: Vidurio Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Guernsey,
-    Value: {
-      Generic: Grinvičo laikas,
-      Standard: Grinvičo laikas,
-      Daylight: Grinvičo laikas
-    }
-  },
-  {
-    Key: Europe/Helsinki,
-    Value: {
-      Generic: Rytų Europos laikas,
-      Standard: Rytų Europos žiemos laikas,
-      Daylight: Rytų Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Isle_of_Man,
-    Value: {
-      Generic: Grinvičo laikas,
-      Standard: Grinvičo laikas,
-      Daylight: Grinvičo laikas
-    }
-  },
-  {
-    Key: Europe/Istanbul,
-    Value: {
-      Generic: Laikas: Turkija,
-      Standard: Žiemos laikas: Turkija,
-      Daylight: Vasaros laikas: Turkija
-    }
-  },
-  {
-    Key: Europe/Jersey,
-    Value: {
-      Generic: Grinvičo laikas,
-      Standard: Grinvičo laikas,
-      Daylight: Grinvičo laikas
-    }
-  },
-  {
-    Key: Europe/Kaliningrad,
-    Value: {
-      Generic: Laikas: Kaliningradas,
-      Standard: Žiemos laikas: Kaliningradas,
-      Daylight: Vasaros laikas: Kaliningradas
-    }
-  },
-  {
-    Key: Europe/Kiev,
-    Value: {
-      Generic: Rytų Europos laikas,
-      Standard: Rytų Europos žiemos laikas,
-      Daylight: Rytų Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Kirov,
-    Value: {
-      Generic: Laikas: Kirovas,
-      Standard: Žiemos laikas: Kirovas,
-      Daylight: Vasaros laikas: Kirovas
-    }
-  },
-  {
-    Key: Europe/Kyiv,
-    Value: {
-      Generic: Laikas: Ukraina,
-      Standard: Žiemos laikas: Ukraina,
-      Daylight: Vasaros laikas: Ukraina
-    }
-  },
-  {
-    Key: Europe/Lisbon,
-    Value: {
-      Generic: Vakarų Europos laikas,
-      Standard: Vakarų Europos žiemos laikas,
-      Daylight: Vakarų Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Ljubljana,
-    Value: {
-      Generic: Vidurio Europos laikas,
-      Standard: Vidurio Europos žiemos laikas,
-      Daylight: Vidurio Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/London,
-    Value: {
-      Generic: Laikas: Jungtinė Karalystė,
-      Standard: Grinvičo laikas,
-      Daylight: Britanijos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Luxembourg,
-    Value: {
-      Generic: Vidurio Europos laikas,
-      Standard: Vidurio Europos žiemos laikas,
-      Daylight: Vidurio Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Madrid,
-    Value: {
-      Generic: Vidurio Europos laikas,
-      Standard: Vidurio Europos žiemos laikas,
-      Daylight: Vidurio Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Malta,
-    Value: {
-      Generic: Vidurio Europos laikas,
-      Standard: Vidurio Europos žiemos laikas,
-      Daylight: Vidurio Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Mariehamn,
-    Value: {
-      Generic: Rytų Europos laikas,
-      Standard: Rytų Europos žiemos laikas,
-      Daylight: Rytų Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Minsk,
-    Value: {
-      Generic: Maskvos laikas,
-      Standard: Maskvos žiemos laikas,
-      Daylight: Maskvos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Monaco,
-    Value: {
-      Generic: Vidurio Europos laikas,
-      Standard: Vidurio Europos žiemos laikas,
-      Daylight: Vidurio Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Moscow,
-    Value: {
-      Generic: Laikas: Maskva,
-      Standard: Žiemos laikas: Maskva,
-      Daylight: Vasaros laikas: Maskva
-    }
-  },
-  {
-    Key: Europe/Nicosia,
-    Value: {
-      Generic: Rytų Europos laikas,
-      Standard: Rytų Europos žiemos laikas,
-      Daylight: Rytų Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Oslo,
-    Value: {
-      Generic: Vidurio Europos laikas,
-      Standard: Vidurio Europos žiemos laikas,
-      Daylight: Vidurio Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Paris,
-    Value: {
-      Generic: Vidurio Europos laikas,
-      Standard: Vidurio Europos žiemos laikas,
-      Daylight: Vidurio Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Podgorica,
-    Value: {
-      Generic: Vidurio Europos laikas,
-      Standard: Vidurio Europos žiemos laikas,
-      Daylight: Vidurio Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Prague,
-    Value: {
-      Generic: Vidurio Europos laikas,
-      Standard: Vidurio Europos žiemos laikas,
-      Daylight: Vidurio Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Riga,
-    Value: {
-      Generic: Rytų Europos laikas,
-      Standard: Rytų Europos žiemos laikas,
-      Daylight: Rytų Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Rome,
-    Value: {
-      Generic: Vidurio Europos laikas,
-      Standard: Vidurio Europos žiemos laikas,
-      Daylight: Vidurio Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Samara,
-    Value: {
-      Generic: Laikas: Samara,
-      Standard: Žiemos laikas: Samara,
-      Daylight: Vasaros laikas: Samara
-    }
-  },
-  {
-    Key: Europe/San_Marino,
-    Value: {
-      Generic: Vidurio Europos laikas,
-      Standard: Vidurio Europos žiemos laikas,
-      Daylight: Vidurio Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Sarajevo,
-    Value: {
-      Generic: Vidurio Europos laikas,
-      Standard: Vidurio Europos žiemos laikas,
-      Daylight: Vidurio Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Saratov,
-    Value: {
-      Generic: Laikas: Saratovas,
-      Standard: Žiemos laikas: Saratovas,
-      Daylight: Vasaros laikas: Saratovas
-    }
-  },
-  {
-    Key: Europe/Simferopol,
-    Value: {
-      Generic: Maskvos laikas,
-      Standard: Maskvos žiemos laikas,
-      Daylight: Maskvos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Skopje,
-    Value: {
-      Generic: Vidurio Europos laikas,
-      Standard: Vidurio Europos žiemos laikas,
-      Daylight: Vidurio Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Sofia,
-    Value: {
-      Generic: Rytų Europos laikas,
-      Standard: Rytų Europos žiemos laikas,
-      Daylight: Rytų Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Stockholm,
-    Value: {
-      Generic: Vidurio Europos laikas,
-      Standard: Vidurio Europos žiemos laikas,
-      Daylight: Vidurio Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Tallinn,
-    Value: {
-      Generic: Rytų Europos laikas,
-      Standard: Rytų Europos žiemos laikas,
-      Daylight: Rytų Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Tirane,
-    Value: {
-      Generic: Vidurio Europos laikas,
-      Standard: Vidurio Europos žiemos laikas,
-      Daylight: Vidurio Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Tiraspol,
-    Value: {
-      Generic: Rytų Europos laikas,
-      Standard: Rytų Europos žiemos laikas,
-      Daylight: Rytų Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Ulyanovsk,
-    Value: {
-      Generic: Laikas: Uljanovskas,
-      Standard: Žiemos laikas: Uljanovskas,
-      Daylight: Vasaros laikas: Uljanovskas
-    }
-  },
-  {
-    Key: Europe/Uzhgorod,
-    Value: {
-      Generic: Rytų Europos laikas,
-      Standard: Rytų Europos žiemos laikas,
-      Daylight: Rytų Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Vaduz,
-    Value: {
-      Generic: Vidurio Europos laikas,
-      Standard: Vidurio Europos žiemos laikas,
-      Daylight: Vidurio Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Vatican,
-    Value: {
-      Generic: Vidurio Europos laikas,
-      Standard: Vidurio Europos žiemos laikas,
-      Daylight: Vidurio Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Vienna,
-    Value: {
-      Generic: Vidurio Europos laikas,
-      Standard: Vidurio Europos žiemos laikas,
-      Daylight: Vidurio Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Vilnius,
-    Value: {
-      Generic: Rytų Europos laikas,
-      Standard: Rytų Europos žiemos laikas,
-      Daylight: Rytų Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Volgograd,
-    Value: {
-      Generic: Laikas: Volgogradas,
-      Standard: Žiemos laikas: Volgogradas,
-      Daylight: Vasaros laikas: Volgogradas
-    }
-  },
-  {
-    Key: Europe/Warsaw,
-    Value: {
-      Generic: Vidurio Europos laikas,
-      Standard: Vidurio Europos žiemos laikas,
-      Daylight: Vidurio Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Zagreb,
-    Value: {
-      Generic: Vidurio Europos laikas,
-      Standard: Vidurio Europos žiemos laikas,
-      Daylight: Vidurio Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Zaporozhye,
-    Value: {
-      Generic: Rytų Europos laikas,
-      Standard: Rytų Europos žiemos laikas,
-      Daylight: Rytų Europos vasaros laikas
-    }
-  },
-  {
-    Key: Europe/Zurich,
-    Value: {
-      Generic: Vidurio Europos laikas,
-      Standard: Vidurio Europos žiemos laikas,
-      Daylight: Vidurio Europos vasaros laikas
-    }
-  },
-  {
-    Key: GB,
-    Value: {
-      Generic: Laikas: Jungtinė Karalystė,
-      Standard: Grinvičo laikas,
-      Daylight: Britanijos vasaros laikas
-    }
-  },
-  {
-    Key: GB-Eire,
-    Value: {
-      Generic: Laikas: Jungtinė Karalystė,
-      Standard: Grinvičo laikas,
-      Daylight: Britanijos vasaros laikas
-    }
-  },
-  {
-    Key: GMT,
-    Value: {
-      Generic: Grinvičo laikas,
-      Standard: Grinvičo laikas,
-      Daylight: Grinvičo laikas
-    }
-  },
-  {
-    Key: GMT-0,
-    Value: {
-      Generic: Grinvičo laikas,
-      Standard: Grinvičo laikas,
-      Daylight: Grinvičo laikas
-    }
-  },
-  {
-    Key: GMT+0,
-    Value: {
-      Generic: Grinvičo laikas,
-      Standard: Grinvičo laikas,
-      Daylight: Grinvičo laikas
-    }
-  },
-  {
-    Key: GMT0,
-    Value: {
-      Generic: Grinvičo laikas,
-      Standard: Grinvičo laikas,
-      Daylight: Grinvičo laikas
-    }
-  },
-  {
-    Key: Greenwich,
-    Value: {
-      Generic: Grinvičo laikas,
-      Standard: Grinvičo laikas,
-      Daylight: Grinvičo laikas
-    }
-  },
-  {
-    Key: Hongkong,
-    Value: {
-      Generic: Honkongo laikas,
-      Standard: Honkongo žiemos laikas,
-      Daylight: Honkongo vasaros laikas
-    }
-  },
-  {
-    Key: HST,
-    Value: {
-      Generic: pasaulio suderintasis laikas -10,
-      Standard: pasaulio suderintasis laikas -10,
-      Daylight: pasaulio suderintasis laikas -10
-    }
-  },
-  {
-    Key: Iceland,
-    Value: {
-      Generic: Grinvičo laikas,
-      Standard: Grinvičo laikas,
-      Daylight: Grinvičo laikas
-    }
-  },
-  {
-    Key: Indian/Antananarivo,
-    Value: {
-      Generic: Rytų Afrikos laikas,
-      Standard: Rytų Afrikos laikas,
-      Daylight: Rytų Afrikos laikas
-    }
-  },
-  {
-    Key: Indian/Chagos,
-    Value: {
-      Generic: Indijos vandenyno laikas,
-      Standard: Indijos vandenyno laikas,
-      Daylight: Indijos vandenyno laikas
-    }
-  },
-  {
-    Key: Indian/Christmas,
-    Value: {
-      Generic: Kalėdų Salos laikas,
-      Standard: Kalėdų Salos laikas,
-      Daylight: Kalėdų Salos laikas
-    }
-  },
-  {
-    Key: Indian/Cocos,
-    Value: {
-      Generic: Kokosų Salų laikas,
-      Standard: Kokosų Salų laikas,
-      Daylight: Kokosų Salų laikas
-    }
-  },
-  {
-    Key: Indian/Comoro,
-    Value: {
-      Generic: Rytų Afrikos laikas,
-      Standard: Rytų Afrikos laikas,
-      Daylight: Rytų Afrikos laikas
-    }
-  },
-  {
-    Key: Indian/Kerguelen,
-    Value: {
-      Generic: Pietų Prancūzijos ir antarktinis laikas,
-      Standard: Pietų Prancūzijos ir antarktinis laikas,
-      Daylight: Pietų Prancūzijos ir antarktinis laikas
-    }
-  },
-  {
-    Key: Indian/Mahe,
-    Value: {
-      Generic: Seišelių laikas,
-      Standard: Seišelių laikas,
-      Daylight: Seišelių laikas
-    }
-  },
-  {
-    Key: Indian/Maldives,
-    Value: {
-      Generic: Maldyvų laikas,
-      Standard: Maldyvų laikas,
-      Daylight: Maldyvų laikas
-    }
-  },
-  {
-    Key: Indian/Mauritius,
-    Value: {
-      Generic: Mauricijaus laikas,
-      Standard: Mauricijaus žiemos laikas,
-      Daylight: Mauricijaus vasaros laikas
-    }
-  },
-  {
-    Key: Indian/Mayotte,
-    Value: {
-      Generic: Rytų Afrikos laikas,
-      Standard: Rytų Afrikos laikas,
-      Daylight: Rytų Afrikos laikas
-    }
-  },
-  {
-    Key: Indian/Reunion,
-    Value: {
-      Generic: Reunjono laikas,
-      Standard: Reunjono laikas,
-      Daylight: Reunjono laikas
-    }
-  },
-  {
-    Key: Iran,
-    Value: {
-      Generic: Irano laikas,
-      Standard: Irano žiemos laikas,
-      Daylight: Irano vasaros laikas
-    }
-  },
-  {
-    Key: Israel,
-    Value: {
-      Generic: Izraelio laikas,
-      Standard: Izraelio žiemos laikas,
-      Daylight: Izraelio vasaros laikas
-    }
-  },
-  {
-    Key: Jamaica,
-    Value: {
-      Generic: Šiaurės Amerikos rytų laikas,
-      Standard: Šiaurės Amerikos rytų žiemos laikas,
-      Daylight: Šiaurės Amerikos rytų vasaros laikas
-    }
-  },
-  {
-    Key: Japan,
-    Value: {
-      Generic: Japonijos laikas,
-      Standard: Japonijos žiemos laikas,
-      Daylight: Japonijos vasaros laikas
-    }
-  },
-  {
-    Key: Kwajalein,
-    Value: {
-      Generic: Maršalo Salų laikas,
-      Standard: Maršalo Salų laikas,
-      Daylight: Maršalo Salų laikas
-    }
-  },
-  {
-    Key: Libya,
-    Value: {
-      Generic: Rytų Europos laikas,
-      Standard: Rytų Europos žiemos laikas,
-      Daylight: Rytų Europos vasaros laikas
-    }
-  },
-  {
-    Key: MET,
-    Value: {
-      Generic: Vidurio Europos laikas,
-      Standard: Vidurio Europos žiemos laikas,
-      Daylight: Vidurio Europos vasaros laikas
-    }
-  },
-  {
-    Key: Mexico/BajaNorte,
-    Value: {
-      Generic: Šiaurės Amerikos Ramiojo vandenyno laikas,
-      Standard: Šiaurės Amerikos Ramiojo vandenyno žiemos laikas,
-      Daylight: Šiaurės Amerikos Ramiojo vandenyno vasaros laikas
-    }
-  },
-  {
-    Key: Mexico/BajaSur,
-    Value: {
-      Generic: Meksikos Ramiojo vandenyno laikas,
-      Standard: Meksikos Ramiojo vandenyno žiemos laikas,
-      Daylight: Meksikos Ramiojo vandenyno vasaros laikas
-    }
-  },
-  {
-    Key: Mexico/General,
-    Value: {
-      Generic: Šiaurės Amerikos centro laikas,
-      Standard: Šiaurės Amerikos centro žiemos laikas,
-      Daylight: Šiaurės Amerikos centro vasaros laikas
-    }
-  },
-  {
-    Key: MST,
-    Value: {
-      Generic: pasaulio suderintasis laikas -7,
-      Standard: pasaulio suderintasis laikas -7,
-      Daylight: pasaulio suderintasis laikas -7
-    }
-  },
-  {
-    Key: MST7MDT,
-    Value: {
-      Generic: Šiaurės Amerikos kalnų laikas,
-      Standard: Šiaurės Amerikos kalnų žiemos laikas,
-      Daylight: Šiaurės Amerikos kalnų vasaros laikas
-    }
-  },
-  {
-    Key: Navajo,
-    Value: {
-      Generic: Šiaurės Amerikos kalnų laikas,
-      Standard: Šiaurės Amerikos kalnų žiemos laikas,
-      Daylight: Šiaurės Amerikos kalnų vasaros laikas
-    }
-  },
-  {
-    Key: NZ,
-    Value: {
-      Generic: Naujosios Zelandijos laikas,
-      Standard: Naujosios Zelandijos žiemos laikas,
-      Daylight: Naujosios Zelandijos vasaros laikas
-    }
-  },
-  {
-    Key: NZ-CHAT,
-    Value: {
-      Generic: Čatamo laikas,
-      Standard: Čatamo žiemos laikas,
-      Daylight: Čatamo vasaros laikas
-    }
-  },
-  {
-    Key: Pacific/Apia,
-    Value: {
-      Generic: Apijos laikas,
-      Standard: Apijos žiemos laikas,
-      Daylight: Apijos vasaros laikas
-    }
-  },
-  {
-    Key: Pacific/Auckland,
-    Value: {
-      Generic: Naujosios Zelandijos laikas,
-      Standard: Naujosios Zelandijos žiemos laikas,
-      Daylight: Naujosios Zelandijos vasaros laikas
-    }
-  },
-  {
-    Key: Pacific/Bougainville,
-    Value: {
-      Generic: Papua Naujosios Gvinėjos laikas,
-      Standard: Papua Naujosios Gvinėjos laikas,
-      Daylight: Papua Naujosios Gvinėjos laikas
-    }
-  },
-  {
-    Key: Pacific/Chatham,
-    Value: {
-      Generic: Čatamo laikas,
-      Standard: Čatamo žiemos laikas,
-      Daylight: Čatamo vasaros laikas
-    }
-  },
-  {
-    Key: Pacific/Chuuk,
-    Value: {
-      Generic: Čuko laikas,
-      Standard: Čuko laikas,
-      Daylight: Čuko laikas
-    }
-  },
-  {
-    Key: Pacific/Easter,
-    Value: {
-      Generic: Velykų Salos laikas,
-      Standard: Velykų salos žiemos laikas,
-      Daylight: Velykų Salos vasaros laikas
-    }
-  },
-  {
-    Key: Pacific/Efate,
-    Value: {
-      Generic: Vanuatu laikas,
-      Standard: Vanuatu žiemos laikas,
-      Daylight: Vanuatu vasaros laikas
-    }
-  },
-  {
-    Key: Pacific/Enderbury,
-    Value: {
-      Generic: Fenikso Salų laikas,
-      Standard: Fenikso Salų laikas,
-      Daylight: Fenikso Salų laikas
-    }
-  },
-  {
-    Key: Pacific/Fakaofo,
-    Value: {
-      Generic: Tokelau laikas,
-      Standard: Tokelau laikas,
-      Daylight: Tokelau laikas
-    }
-  },
-  {
-    Key: Pacific/Fiji,
-    Value: {
-      Generic: Fidžio laikas,
-      Standard: Fidžio žiemos laikas,
-      Daylight: Fidžio vasaros laikas
-    }
-  },
-  {
-    Key: Pacific/Funafuti,
-    Value: {
-      Generic: Tuvalu laikas,
-      Standard: Tuvalu laikas,
-      Daylight: Tuvalu laikas
-    }
-  },
-  {
-    Key: Pacific/Galapagos,
-    Value: {
-      Generic: Galapagų laikas,
-      Standard: Galapagų laikas,
-      Daylight: Galapagų laikas
-    }
-  },
-  {
-    Key: Pacific/Gambier,
-    Value: {
-      Generic: Gambyro laikas,
-      Standard: Gambyro laikas,
-      Daylight: Gambyro laikas
-    }
-  },
-  {
-    Key: Pacific/Guadalcanal,
-    Value: {
-      Generic: Saliamono Salų laikas,
-      Standard: Saliamono Salų laikas,
-      Daylight: Saliamono Salų laikas
-    }
-  },
-  {
-    Key: Pacific/Guam,
-    Value: {
-      Generic: Čamoro laikas,
-      Standard: Čamoro laikas,
-      Daylight: Čamoro laikas
-    }
-  },
-  {
-    Key: Pacific/Honolulu,
-    Value: {
-      Generic: Havajų-Aleutų laikas,
-      Standard: Havajų–Aleutų žiemos laikas,
-      Daylight: Havajų–Aleutų vasaros laikas
-    }
-  },
-  {
-    Key: Pacific/Johnston,
-    Value: {
-      Generic: Havajų-Aleutų laikas,
-      Standard: Havajų–Aleutų žiemos laikas,
-      Daylight: Havajų–Aleutų vasaros laikas
-    }
-  },
-  {
-    Key: Pacific/Kanton,
-    Value: {
-      Generic: Fenikso Salų laikas,
-      Standard: Fenikso Salų laikas,
-      Daylight: Fenikso Salų laikas
-    }
-  },
-  {
-    Key: Pacific/Kiritimati,
-    Value: {
-      Generic: Laino Salų laikas,
-      Standard: Laino Salų laikas,
-      Daylight: Laino Salų laikas
-    }
-  },
-  {
-    Key: Pacific/Kosrae,
-    Value: {
-      Generic: Kosrajė laikas,
-      Standard: Kosrajė laikas,
-      Daylight: Kosrajė laikas
-    }
-  },
-  {
-    Key: Pacific/Kwajalein,
-    Value: {
-      Generic: Maršalo Salų laikas,
-      Standard: Maršalo Salų laikas,
-      Daylight: Maršalo Salų laikas
-    }
-  },
-  {
-    Key: Pacific/Majuro,
-    Value: {
-      Generic: Maršalo Salų laikas,
-      Standard: Maršalo Salų laikas,
-      Daylight: Maršalo Salų laikas
-    }
-  },
-  {
-    Key: Pacific/Marquesas,
-    Value: {
-      Generic: Markizo Salų laikas,
-      Standard: Markizo Salų laikas,
-      Daylight: Markizo Salų laikas
-    }
-  },
-  {
-    Key: Pacific/Midway,
-    Value: {
-      Generic: Samoa laikas,
-      Standard: Samoa žiemos laikas,
-      Daylight: Samoa vasaros laikas
-    }
-  },
-  {
-    Key: Pacific/Nauru,
-    Value: {
-      Generic: Nauru laikas,
-      Standard: Nauru laikas,
-      Daylight: Nauru laikas
-    }
-  },
-  {
-    Key: Pacific/Niue,
-    Value: {
-      Generic: Niujė laikas,
-      Standard: Niujė laikas,
-      Daylight: Niujė laikas
-    }
-  },
-  {
-    Key: Pacific/Norfolk,
-    Value: {
-      Generic: Norfolko Salų laikas,
-      Standard: Norfolko Salų žiemos laikas,
-      Daylight: Norfolko Salų vasaros laikas
-    }
-  },
-  {
-    Key: Pacific/Noumea,
-    Value: {
-      Generic: Naujosios Kaledonijos laikas,
-      Standard: Naujosios Kaledonijos žiemos laikas,
-      Daylight: Naujosios Kaledonijos vasaros laikas
-    }
-  },
-  {
-    Key: Pacific/Pago_Pago,
-    Value: {
-      Generic: Samoa laikas,
-      Standard: Samoa žiemos laikas,
-      Daylight: Samoa vasaros laikas
-    }
-  },
-  {
-    Key: Pacific/Palau,
-    Value: {
-      Generic: Palau laikas,
-      Standard: Palau laikas,
-      Daylight: Palau laikas
-    }
-  },
-  {
-    Key: Pacific/Pitcairn,
-    Value: {
-      Generic: Pitkerno laikas,
-      Standard: Pitkerno laikas,
-      Daylight: Pitkerno laikas
-    }
-  },
-  {
-    Key: Pacific/Pohnpei,
-    Value: {
-      Generic: Ponapės laikas,
-      Standard: Ponapės laikas,
-      Daylight: Ponapės laikas
-    }
-  },
-  {
-    Key: Pacific/Ponape,
-    Value: {
-      Generic: Ponapės laikas,
-      Standard: Ponapės laikas,
-      Daylight: Ponapės laikas
-    }
-  },
-  {
-    Key: Pacific/Port_Moresby,
-    Value: {
-      Generic: Papua Naujosios Gvinėjos laikas,
-      Standard: Papua Naujosios Gvinėjos laikas,
-      Daylight: Papua Naujosios Gvinėjos laikas
-    }
-  },
-  {
-    Key: Pacific/Rarotonga,
-    Value: {
-      Generic: Kuko Salų laikas,
-      Standard: Kuko Salų žiemos laikas,
-      Daylight: Kuko Salų pusės vasaros laikas
-    }
-  },
-  {
-    Key: Pacific/Saipan,
-    Value: {
-      Generic: Čamoro laikas,
-      Standard: Čamoro laikas,
-      Daylight: Čamoro laikas
-    }
-  },
-  {
-    Key: Pacific/Samoa,
-    Value: {
-      Generic: Samoa laikas,
-      Standard: Samoa žiemos laikas,
-      Daylight: Samoa vasaros laikas
-    }
-  },
-  {
-    Key: Pacific/Tahiti,
-    Value: {
-      Generic: Tahičio laikas,
-      Standard: Tahičio laikas,
-      Daylight: Tahičio laikas
-    }
-  },
-  {
-    Key: Pacific/Tarawa,
-    Value: {
-      Generic: Gilberto Salų laikas,
-      Standard: Gilberto Salų laikas,
-      Daylight: Gilberto Salų laikas
-    }
-  },
-  {
-    Key: Pacific/Tongatapu,
-    Value: {
-      Generic: Tongos laikas,
-      Standard: Tongos žiemos laikas,
-      Daylight: Tongos vasaros laikas
-    }
-  },
-  {
-    Key: Pacific/Truk,
-    Value: {
-      Generic: Čuko laikas,
-      Standard: Čuko laikas,
-      Daylight: Čuko laikas
-    }
-  },
-  {
-    Key: Pacific/Wake,
-    Value: {
-      Generic: Veiko Salos laikas,
-      Standard: Veiko Salos laikas,
-      Daylight: Veiko Salos laikas
-    }
-  },
-  {
-    Key: Pacific/Wallis,
-    Value: {
-      Generic: Voliso ir Futūnos laikas,
-      Standard: Voliso ir Futūnos laikas,
-      Daylight: Voliso ir Futūnos laikas
-    }
-  },
-  {
-    Key: Pacific/Yap,
-    Value: {
-      Generic: Čuko laikas,
-      Standard: Čuko laikas,
-      Daylight: Čuko laikas
-    }
-  },
-  {
-    Key: Poland,
-    Value: {
-      Generic: Vidurio Europos laikas,
-      Standard: Vidurio Europos žiemos laikas,
-      Daylight: Vidurio Europos vasaros laikas
-    }
-  },
-  {
-    Key: Portugal,
-    Value: {
-      Generic: Vakarų Europos laikas,
-      Standard: Vakarų Europos žiemos laikas,
-      Daylight: Vakarų Europos vasaros laikas
-    }
-  },
-  {
-    Key: PRC,
-    Value: {
-      Generic: Kinijos laikas,
-      Standard: Kinijos žiemos laikas,
-      Daylight: Kinijos vasaros laikas
-    }
-  },
-  {
-    Key: PST8PDT,
-    Value: {
-      Generic: Šiaurės Amerikos Ramiojo vandenyno laikas,
-      Standard: Šiaurės Amerikos Ramiojo vandenyno žiemos laikas,
-      Daylight: Šiaurės Amerikos Ramiojo vandenyno vasaros laikas
-    }
-  },
-  {
-    Key: ROC,
-    Value: {
-      Generic: Taipėjaus laikas,
-      Standard: Taipėjaus žiemos laikas,
-      Daylight: Taipėjaus vasaros laikas
-    }
-  },
-  {
-    Key: ROK,
-    Value: {
-      Generic: Korėjos laikas,
-      Standard: Korėjos žiemos laikas,
-      Daylight: Korėjos vasaros laikas
-    }
-  },
-  {
-    Key: Singapore,
-    Value: {
-      Generic: Singapūro laikas,
-      Standard: Singapūro laikas,
-      Daylight: Singapūro laikas
-    }
-  },
-  {
-    Key: Turkey,
-    Value: {
-      Generic: Laikas: Turkija,
-      Standard: Žiemos laikas: Turkija,
-      Daylight: Vasaros laikas: Turkija
-    }
-  },
-  {
-    Key: UCT,
-    Value: {
-      Generic: pasaulio suderintasis laikas,
-      Standard: pasaulio suderintasis laikas,
-      Daylight: pasaulio suderintasis laikas
-    }
-  },
-  {
-    Key: Universal,
-    Value: {
-      Generic: pasaulio suderintasis laikas,
-      Standard: pasaulio suderintasis laikas,
-      Daylight: pasaulio suderintasis laikas
-    }
-  },
-  {
-    Key: US/Alaska,
-    Value: {
-      Generic: Aliaskos laikas,
-      Standard: Aliaskos žiemos laikas,
-      Daylight: Aliaskos vasaros laikas
-    }
-  },
-  {
-    Key: US/Aleutian,
-    Value: {
-      Generic: Havajų-Aleutų laikas,
-      Standard: Havajų–Aleutų žiemos laikas,
-      Daylight: Havajų–Aleutų vasaros laikas
-    }
-  },
-  {
-    Key: US/Arizona,
-    Value: {
-      Generic: Šiaurės Amerikos kalnų laikas,
-      Standard: Šiaurės Amerikos kalnų žiemos laikas,
-      Daylight: Šiaurės Amerikos kalnų vasaros laikas
-    }
-  },
-  {
-    Key: US/Central,
-    Value: {
-      Generic: Šiaurės Amerikos centro laikas,
-      Standard: Šiaurės Amerikos centro žiemos laikas,
-      Daylight: Šiaurės Amerikos centro vasaros laikas
-    }
-  },
-  {
-    Key: US/East-Indiana,
-    Value: {
-      Generic: Šiaurės Amerikos rytų laikas,
-      Standard: Šiaurės Amerikos rytų žiemos laikas,
-      Daylight: Šiaurės Amerikos rytų vasaros laikas
-    }
-  },
-  {
-    Key: US/Eastern,
-    Value: {
-      Generic: Šiaurės Amerikos rytų laikas,
-      Standard: Šiaurės Amerikos rytų žiemos laikas,
-      Daylight: Šiaurės Amerikos rytų vasaros laikas
-    }
-  },
-  {
-    Key: US/Hawaii,
-    Value: {
-      Generic: Havajų-Aleutų laikas,
-      Standard: Havajų–Aleutų žiemos laikas,
-      Daylight: Havajų–Aleutų vasaros laikas
-    }
-  },
-  {
-    Key: US/Indiana-Starke,
-    Value: {
-      Generic: Šiaurės Amerikos centro laikas,
-      Standard: Šiaurės Amerikos centro žiemos laikas,
-      Daylight: Šiaurės Amerikos centro vasaros laikas
-    }
-  },
-  {
-    Key: US/Michigan,
-    Value: {
-      Generic: Šiaurės Amerikos rytų laikas,
-      Standard: Šiaurės Amerikos rytų žiemos laikas,
-      Daylight: Šiaurės Amerikos rytų vasaros laikas
-    }
-  },
-  {
-    Key: US/Mountain,
-    Value: {
-      Generic: Šiaurės Amerikos kalnų laikas,
-      Standard: Šiaurės Amerikos kalnų žiemos laikas,
-      Daylight: Šiaurės Amerikos kalnų vasaros laikas
-    }
-  },
-  {
-    Key: US/Pacific,
-    Value: {
-      Generic: Šiaurės Amerikos Ramiojo vandenyno laikas,
-      Standard: Šiaurės Amerikos Ramiojo vandenyno žiemos laikas,
-      Daylight: Šiaurės Amerikos Ramiojo vandenyno vasaros laikas
-    }
-  },
-  {
-    Key: US/Samoa,
-    Value: {
-      Generic: Samoa laikas,
-      Standard: Samoa žiemos laikas,
-      Daylight: Samoa vasaros laikas
-    }
-  },
-  {
-    Key: UTC,
-    Value: {
-      Generic: pasaulio suderintasis laikas,
-      Standard: pasaulio suderintasis laikas,
-      Daylight: pasaulio suderintasis laikas
-    }
-  },
-  {
-    Key: W-SU,
-    Value: {
-      Generic: Laikas: Maskva,
-      Standard: Žiemos laikas: Maskva,
-      Daylight: Vasaros laikas: Maskva
-    }
-  },
-  {
-    Key: WET,
-    Value: {
-      Generic: Vakarų Europos laikas,
-      Standard: Vakarų Europos žiemos laikas,
-      Daylight: Vakarų Europos vasaros laikas
-    }
-  },
-  {
-    Key: Zulu,
-    Value: {
-      Generic: pasaulio suderintasis laikas,
-      Standard: pasaulio suderintasis laikas,
-      Daylight: pasaulio suderintasis laikas
-    }
+﻿{
+  Australia/Darwin: {
+    Generic: Centrinės Australijos laikas,
+    Standard: Centrinės Australijos žiemos laikas,
+    Daylight: Centrinės Australijos vasaros laikas
+  },
+  Australia/Sydney: {
+    Generic: Rytų Australijos laikas,
+    Standard: Rytų Australijos žiemos laikas,
+    Daylight: Rytų Australijos vasaros laikas
+  },
+  Australia/Melbourne: {
+    Generic: Rytų Australijos laikas,
+    Standard: Rytų Australijos žiemos laikas,
+    Daylight: Rytų Australijos vasaros laikas
+  },
+  Asia/Kabul: {
+    Generic: Afganistano laikas,
+    Standard: Afganistano laikas,
+    Daylight: Afganistano laikas
+  },
+  America/Anchorage: {
+    Generic: Aliaskos laikas,
+    Standard: Aliaskos žiemos laikas,
+    Daylight: Aliaskos vasaros laikas
+  },
+  America/Juneau: {
+    Generic: Aliaskos laikas,
+    Standard: Aliaskos žiemos laikas,
+    Daylight: Aliaskos vasaros laikas
+  },
+  America/Metlakatla: {
+    Generic: Aliaskos laikas,
+    Standard: Aliaskos žiemos laikas,
+    Daylight: Aliaskos vasaros laikas
+  },
+  America/Nome: {
+    Generic: Aliaskos laikas,
+    Standard: Aliaskos žiemos laikas,
+    Daylight: Aliaskos vasaros laikas
+  },
+  America/Sitka: {
+    Generic: Aliaskos laikas,
+    Standard: Aliaskos žiemos laikas,
+    Daylight: Aliaskos vasaros laikas
+  },
+  America/Yakutat: {
+    Generic: Aliaskos laikas,
+    Standard: Aliaskos žiemos laikas,
+    Daylight: Aliaskos vasaros laikas
+  },
+  America/Adak: {
+    Generic: Havajų-Aleutų laikas,
+    Standard: Havajų–Aleutų žiemos laikas,
+    Daylight: Havajų–Aleutų vasaros laikas
+  },
+  Asia/Barnaul: {
+    Generic: Laikas: Barnaulas,
+    Standard: Žiemos laikas: Barnaulas,
+    Daylight: Vasaros laikas: Barnaulas
+  },
+  Asia/Riyadh: {
+    Generic: Arabijos laikas,
+    Standard: Arabijos žiemos laikas,
+    Daylight: Arabijos vasaros laikas
+  },
+  Asia/Bahrain: {
+    Generic: Arabijos laikas,
+    Standard: Arabijos žiemos laikas,
+    Daylight: Arabijos vasaros laikas
+  },
+  Asia/Kuwait: {
+    Generic: Arabijos laikas,
+    Standard: Arabijos žiemos laikas,
+    Daylight: Arabijos vasaros laikas
+  },
+  Asia/Qatar: {
+    Generic: Arabijos laikas,
+    Standard: Arabijos žiemos laikas,
+    Daylight: Arabijos vasaros laikas
+  },
+  Asia/Aden: {
+    Generic: Arabijos laikas,
+    Standard: Arabijos žiemos laikas,
+    Daylight: Arabijos vasaros laikas
+  },
+  Asia/Dubai: {
+    Generic: Persijos įlankos laikas,
+    Standard: Persijos įlankos laikas,
+    Daylight: Persijos įlankos laikas
+  },
+  Asia/Muscat: {
+    Generic: Persijos įlankos laikas,
+    Standard: Persijos įlankos laikas,
+    Daylight: Persijos įlankos laikas
+  },
+  Etc/GMT-4: {
+    Generic: pasaulio suderintasis laikas +4,
+    Standard: pasaulio suderintasis laikas +4,
+    Daylight: pasaulio suderintasis laikas +4
+  },
+  Asia/Baghdad: {
+    Generic: Arabijos laikas,
+    Standard: Arabijos žiemos laikas,
+    Daylight: Arabijos vasaros laikas
+  },
+  America/Buenos_Aires: {
+    Generic: Argentinos laikas,
+    Standard: Argentinos žiemos laikas,
+    Daylight: Argentinos vasaros laikas
+  },
+  America/Argentina/La_Rioja: {
+    Generic: Argentinos laikas,
+    Standard: Argentinos žiemos laikas,
+    Daylight: Argentinos vasaros laikas
+  },
+  America/Argentina/Rio_Gallegos: {
+    Generic: Argentinos laikas,
+    Standard: Argentinos žiemos laikas,
+    Daylight: Argentinos vasaros laikas
+  },
+  America/Argentina/Salta: {
+    Generic: Argentinos laikas,
+    Standard: Argentinos žiemos laikas,
+    Daylight: Argentinos vasaros laikas
+  },
+  America/Argentina/San_Juan: {
+    Generic: Argentinos laikas,
+    Standard: Argentinos žiemos laikas,
+    Daylight: Argentinos vasaros laikas
+  },
+  America/Argentina/San_Luis: {
+    Generic: Argentinos laikas,
+    Standard: Argentinos žiemos laikas,
+    Daylight: Argentinos vasaros laikas
+  },
+  America/Argentina/Tucuman: {
+    Generic: Argentinos laikas,
+    Standard: Argentinos žiemos laikas,
+    Daylight: Argentinos vasaros laikas
+  },
+  America/Argentina/Ushuaia: {
+    Generic: Argentinos laikas,
+    Standard: Argentinos žiemos laikas,
+    Daylight: Argentinos vasaros laikas
+  },
+  America/Catamarca: {
+    Generic: Argentinos laikas,
+    Standard: Argentinos žiemos laikas,
+    Daylight: Argentinos vasaros laikas
+  },
+  America/Cordoba: {
+    Generic: Argentinos laikas,
+    Standard: Argentinos žiemos laikas,
+    Daylight: Argentinos vasaros laikas
+  },
+  America/Jujuy: {
+    Generic: Argentinos laikas,
+    Standard: Argentinos žiemos laikas,
+    Daylight: Argentinos vasaros laikas
+  },
+  America/Mendoza: {
+    Generic: Argentinos laikas,
+    Standard: Argentinos žiemos laikas,
+    Daylight: Argentinos vasaros laikas
+  },
+  Europe/Astrakhan: {
+    Generic: Laikas: Astrachanė,
+    Standard: Žiemos laikas: Astrachanė,
+    Daylight: Vasaros laikas: Astrachanė
+  },
+  Europe/Ulyanovsk: {
+    Generic: Laikas: Uljanovskas,
+    Standard: Žiemos laikas: Uljanovskas,
+    Daylight: Vasaros laikas: Uljanovskas
+  },
+  America/Halifax: {
+    Generic: Atlanto laikas,
+    Standard: Atlanto žiemos laikas,
+    Daylight: Atlanto vasaros laikas
+  },
+  Atlantic/Bermuda: {
+    Generic: Atlanto laikas,
+    Standard: Atlanto žiemos laikas,
+    Daylight: Atlanto vasaros laikas
+  },
+  America/Glace_Bay: {
+    Generic: Atlanto laikas,
+    Standard: Atlanto žiemos laikas,
+    Daylight: Atlanto vasaros laikas
+  },
+  America/Goose_Bay: {
+    Generic: Atlanto laikas,
+    Standard: Atlanto žiemos laikas,
+    Daylight: Atlanto vasaros laikas
+  },
+  America/Moncton: {
+    Generic: Atlanto laikas,
+    Standard: Atlanto žiemos laikas,
+    Daylight: Atlanto vasaros laikas
+  },
+  America/Thule: {
+    Generic: Atlanto laikas,
+    Standard: Atlanto žiemos laikas,
+    Daylight: Atlanto vasaros laikas
+  },
+  Australia/Eucla: {
+    Generic: Centrinės vakarų Australijos laikas,
+    Standard: Centrinės vakarų Australijos žiemos laikas,
+    Daylight: Centrinės vakarų Australijos vasaros laikas
+  },
+  Asia/Baku: {
+    Generic: Azerbaidžano laikas,
+    Standard: Azerbaidžano žiemos laikas,
+    Daylight: Azerbaidžano vasaros laikas
+  },
+  Atlantic/Azores: {
+    Generic: Azorų Salų laikas,
+    Standard: Azorų Salų žiemos laikas,
+    Daylight: Azorų Salų vasaros laikas
+  },
+  America/Scoresbysund: {
+    Generic: Grenlandijos rytų laikas,
+    Standard: Grenlandijos rytų žiemos laikas,
+    Daylight: Grenlandijos rytų vasaros laikas
+  },
+  America/Bahia: {
+    Generic: Brazilijos laikas,
+    Standard: Brazilijos žiemos laikas,
+    Daylight: Brazilijos vasaros laikas
+  },
+  Asia/Dhaka: {
+    Generic: Bangladešo laikas,
+    Standard: Bangladešo žiemos laikas,
+    Daylight: Bangladešo vasaros laikas
+  },
+  Asia/Thimphu: {
+    Generic: Butano laikas,
+    Standard: Butano laikas,
+    Daylight: Butano laikas
+  },
+  Europe/Minsk: {
+    Generic: Maskvos laikas,
+    Standard: Maskvos žiemos laikas,
+    Daylight: Maskvos vasaros laikas
+  },
+  Pacific/Bougainville: {
+    Generic: Papua Naujosios Gvinėjos laikas,
+    Standard: Papua Naujosios Gvinėjos laikas,
+    Daylight: Papua Naujosios Gvinėjos laikas
+  },
+  America/Regina: {
+    Generic: Šiaurės Amerikos centro laikas,
+    Standard: Šiaurės Amerikos centro žiemos laikas,
+    Daylight: Šiaurės Amerikos centro vasaros laikas
+  },
+  America/Swift_Current: {
+    Generic: Šiaurės Amerikos centro laikas,
+    Standard: Šiaurės Amerikos centro žiemos laikas,
+    Daylight: Šiaurės Amerikos centro vasaros laikas
+  },
+  Atlantic/Cape_Verde: {
+    Generic: Žaliojo Kyšulio laikas,
+    Standard: Žaliojo Kyšulio žiemos laikas,
+    Daylight: Žaliojo Kyšulio vasaros laikas
+  },
+  Etc/GMT+1: {
+    Generic: pasaulio suderintasis laikas -1,
+    Standard: pasaulio suderintasis laikas -1,
+    Daylight: pasaulio suderintasis laikas -1
+  },
+  Asia/Yerevan: {
+    Generic: Armėnijos laikas,
+    Standard: Armėnijos žiemos laikas,
+    Daylight: Armėnijos vasaros laikas
+  },
+  Australia/Adelaide: {
+    Generic: Centrinės Australijos laikas,
+    Standard: Centrinės Australijos žiemos laikas,
+    Daylight: Centrinės Australijos vasaros laikas
+  },
+  Australia/Broken_Hill: {
+    Generic: Centrinės Australijos laikas,
+    Standard: Centrinės Australijos žiemos laikas,
+    Daylight: Centrinės Australijos vasaros laikas
+  },
+  America/Guatemala: {
+    Generic: Šiaurės Amerikos centro laikas,
+    Standard: Šiaurės Amerikos centro žiemos laikas,
+    Daylight: Šiaurės Amerikos centro vasaros laikas
+  },
+  America/Belize: {
+    Generic: Šiaurės Amerikos centro laikas,
+    Standard: Šiaurės Amerikos centro žiemos laikas,
+    Daylight: Šiaurės Amerikos centro vasaros laikas
+  },
+  America/Costa_Rica: {
+    Generic: Šiaurės Amerikos centro laikas,
+    Standard: Šiaurės Amerikos centro žiemos laikas,
+    Daylight: Šiaurės Amerikos centro vasaros laikas
+  },
+  Pacific/Galapagos: {
+    Generic: Galapagų laikas,
+    Standard: Galapagų laikas,
+    Daylight: Galapagų laikas
+  },
+  America/Tegucigalpa: {
+    Generic: Šiaurės Amerikos centro laikas,
+    Standard: Šiaurės Amerikos centro žiemos laikas,
+    Daylight: Šiaurės Amerikos centro vasaros laikas
+  },
+  America/Managua: {
+    Generic: Šiaurės Amerikos centro laikas,
+    Standard: Šiaurės Amerikos centro žiemos laikas,
+    Daylight: Šiaurės Amerikos centro vasaros laikas
+  },
+  America/El_Salvador: {
+    Generic: Šiaurės Amerikos centro laikas,
+    Standard: Šiaurės Amerikos centro žiemos laikas,
+    Daylight: Šiaurės Amerikos centro vasaros laikas
+  },
+  Etc/GMT+6: {
+    Generic: pasaulio suderintasis laikas -6,
+    Standard: pasaulio suderintasis laikas -6,
+    Daylight: pasaulio suderintasis laikas -6
+  },
+  Asia/Almaty: {
+    Generic: Rytų Kazachstano laikas,
+    Standard: Rytų Kazachstano laikas,
+    Daylight: Rytų Kazachstano laikas
+  },
+  Antarctica/Vostok: {
+    Generic: Vostoko laikas,
+    Standard: Vostoko laikas,
+    Daylight: Vostoko laikas
+  },
+  Asia/Urumqi: {
+    Generic: Laikas: Kinija,
+    Standard: Žiemos laikas: Kinija,
+    Daylight: Vasaros laikas: Kinija
+  },
+  Indian/Chagos: {
+    Generic: Indijos vandenyno laikas,
+    Standard: Indijos vandenyno laikas,
+    Daylight: Indijos vandenyno laikas
+  },
+  Asia/Bishkek: {
+    Generic: Kirgistano laikas,
+    Standard: Kirgistano laikas,
+    Daylight: Kirgistano laikas
+  },
+  Asia/Qostanay: {
+    Generic: Rytų Kazachstano laikas,
+    Standard: Rytų Kazachstano laikas,
+    Daylight: Rytų Kazachstano laikas
+  },
+  Etc/GMT-6: {
+    Generic: pasaulio suderintasis laikas +6,
+    Standard: pasaulio suderintasis laikas +6,
+    Daylight: pasaulio suderintasis laikas +6
+  },
+  America/Cuiaba: {
+    Generic: Amazonės laikas,
+    Standard: Amazonės žiemos laikas,
+    Daylight: Amazonės vasaros laikas
+  },
+  America/Campo_Grande: {
+    Generic: Amazonės laikas,
+    Standard: Amazonės žiemos laikas,
+    Daylight: Amazonės vasaros laikas
+  },
+  Europe/Budapest: {
+    Generic: Vidurio Europos laikas,
+    Standard: Vidurio Europos žiemos laikas,
+    Daylight: Vidurio Europos vasaros laikas
+  },
+  Europe/Tirane: {
+    Generic: Vidurio Europos laikas,
+    Standard: Vidurio Europos žiemos laikas,
+    Daylight: Vidurio Europos vasaros laikas
+  },
+  Europe/Prague: {
+    Generic: Vidurio Europos laikas,
+    Standard: Vidurio Europos žiemos laikas,
+    Daylight: Vidurio Europos vasaros laikas
+  },
+  Europe/Podgorica: {
+    Generic: Vidurio Europos laikas,
+    Standard: Vidurio Europos žiemos laikas,
+    Daylight: Vidurio Europos vasaros laikas
+  },
+  Europe/Belgrade: {
+    Generic: Vidurio Europos laikas,
+    Standard: Vidurio Europos žiemos laikas,
+    Daylight: Vidurio Europos vasaros laikas
+  },
+  Europe/Ljubljana: {
+    Generic: Vidurio Europos laikas,
+    Standard: Vidurio Europos žiemos laikas,
+    Daylight: Vidurio Europos vasaros laikas
+  },
+  Europe/Bratislava: {
+    Generic: Vidurio Europos laikas,
+    Standard: Vidurio Europos žiemos laikas,
+    Daylight: Vidurio Europos vasaros laikas
+  },
+  Europe/Warsaw: {
+    Generic: Vidurio Europos laikas,
+    Standard: Vidurio Europos žiemos laikas,
+    Daylight: Vidurio Europos vasaros laikas
+  },
+  Europe/Sarajevo: {
+    Generic: Vidurio Europos laikas,
+    Standard: Vidurio Europos žiemos laikas,
+    Daylight: Vidurio Europos vasaros laikas
+  },
+  Europe/Zagreb: {
+    Generic: Vidurio Europos laikas,
+    Standard: Vidurio Europos žiemos laikas,
+    Daylight: Vidurio Europos vasaros laikas
+  },
+  Europe/Skopje: {
+    Generic: Vidurio Europos laikas,
+    Standard: Vidurio Europos žiemos laikas,
+    Daylight: Vidurio Europos vasaros laikas
+  },
+  Pacific/Guadalcanal: {
+    Generic: Saliamono Salų laikas,
+    Standard: Saliamono Salų laikas,
+    Daylight: Saliamono Salų laikas
+  },
+  Antarctica/Casey: {
+    Generic: Keisio laikas,
+    Standard: Keisio laikas,
+    Daylight: Keisio laikas
+  },
+  Pacific/Ponape: {
+    Generic: Ponapės laikas,
+    Standard: Ponapės laikas,
+    Daylight: Ponapės laikas
+  },
+  Pacific/Kosrae: {
+    Generic: Kosrajė laikas,
+    Standard: Kosrajė laikas,
+    Daylight: Kosrajė laikas
+  },
+  Pacific/Noumea: {
+    Generic: Naujosios Kaledonijos laikas,
+    Standard: Naujosios Kaledonijos žiemos laikas,
+    Daylight: Naujosios Kaledonijos vasaros laikas
+  },
+  Pacific/Efate: {
+    Generic: Vanuatu laikas,
+    Standard: Vanuatu žiemos laikas,
+    Daylight: Vanuatu vasaros laikas
+  },
+  Etc/GMT-11: {
+    Generic: pasaulio suderintasis laikas +11,
+    Standard: pasaulio suderintasis laikas +11,
+    Daylight: pasaulio suderintasis laikas +11
+  },
+  America/Mexico_City: {
+    Generic: Šiaurės Amerikos centro laikas,
+    Standard: Šiaurės Amerikos centro žiemos laikas,
+    Daylight: Šiaurės Amerikos centro vasaros laikas
+  },
+  America/Bahia_Banderas: {
+    Generic: Šiaurės Amerikos centro laikas,
+    Standard: Šiaurės Amerikos centro žiemos laikas,
+    Daylight: Šiaurės Amerikos centro vasaros laikas
+  },
+  America/Merida: {
+    Generic: Šiaurės Amerikos centro laikas,
+    Standard: Šiaurės Amerikos centro žiemos laikas,
+    Daylight: Šiaurės Amerikos centro vasaros laikas
+  },
+  America/Monterrey: {
+    Generic: Šiaurės Amerikos centro laikas,
+    Standard: Šiaurės Amerikos centro žiemos laikas,
+    Daylight: Šiaurės Amerikos centro vasaros laikas
+  },
+  America/Chicago: {
+    Generic: Šiaurės Amerikos centro laikas,
+    Standard: Šiaurės Amerikos centro žiemos laikas,
+    Daylight: Šiaurės Amerikos centro vasaros laikas
+  },
+  America/Winnipeg: {
+    Generic: Šiaurės Amerikos centro laikas,
+    Standard: Šiaurės Amerikos centro žiemos laikas,
+    Daylight: Šiaurės Amerikos centro vasaros laikas
+  },
+  America/Rainy_River: {
+    Generic: Šiaurės Amerikos centro laikas,
+    Standard: Šiaurės Amerikos centro žiemos laikas,
+    Daylight: Šiaurės Amerikos centro vasaros laikas
+  },
+  America/Rankin_Inlet: {
+    Generic: Šiaurės Amerikos centro laikas,
+    Standard: Šiaurės Amerikos centro žiemos laikas,
+    Daylight: Šiaurės Amerikos centro vasaros laikas
+  },
+  America/Resolute: {
+    Generic: Šiaurės Amerikos centro laikas,
+    Standard: Šiaurės Amerikos centro žiemos laikas,
+    Daylight: Šiaurės Amerikos centro vasaros laikas
+  },
+  America/Matamoros: {
+    Generic: Šiaurės Amerikos centro laikas,
+    Standard: Šiaurės Amerikos centro žiemos laikas,
+    Daylight: Šiaurės Amerikos centro vasaros laikas
+  },
+  America/Indiana/Knox: {
+    Generic: Šiaurės Amerikos centro laikas,
+    Standard: Šiaurės Amerikos centro žiemos laikas,
+    Daylight: Šiaurės Amerikos centro vasaros laikas
+  },
+  America/Indiana/Tell_City: {
+    Generic: Šiaurės Amerikos centro laikas,
+    Standard: Šiaurės Amerikos centro žiemos laikas,
+    Daylight: Šiaurės Amerikos centro vasaros laikas
+  },
+  America/Menominee: {
+    Generic: Šiaurės Amerikos centro laikas,
+    Standard: Šiaurės Amerikos centro žiemos laikas,
+    Daylight: Šiaurės Amerikos centro vasaros laikas
+  },
+  America/North_Dakota/Beulah: {
+    Generic: Šiaurės Amerikos centro laikas,
+    Standard: Šiaurės Amerikos centro žiemos laikas,
+    Daylight: Šiaurės Amerikos centro vasaros laikas
+  },
+  America/North_Dakota/Center: {
+    Generic: Šiaurės Amerikos centro laikas,
+    Standard: Šiaurės Amerikos centro žiemos laikas,
+    Daylight: Šiaurės Amerikos centro vasaros laikas
+  },
+  America/North_Dakota/New_Salem: {
+    Generic: Šiaurės Amerikos centro laikas,
+    Standard: Šiaurės Amerikos centro žiemos laikas,
+    Daylight: Šiaurės Amerikos centro vasaros laikas
+  },
+  CST6CDT: {
+    Generic: Šiaurės Amerikos centro laikas,
+    Standard: Šiaurės Amerikos centro žiemos laikas,
+    Daylight: Šiaurės Amerikos centro vasaros laikas
+  },
+  Pacific/Chatham: {
+    Generic: Čatamo laikas,
+    Standard: Čatamo žiemos laikas,
+    Daylight: Čatamo vasaros laikas
+  },
+  Asia/Shanghai: {
+    Generic: Kinijos laikas,
+    Standard: Kinijos žiemos laikas,
+    Daylight: Kinijos vasaros laikas
+  },
+  Asia/Hong_Kong: {
+    Generic: Honkongo laikas,
+    Standard: Honkongo žiemos laikas,
+    Daylight: Honkongo vasaros laikas
+  },
+  Asia/Macau: {
+    Generic: Kinijos laikas,
+    Standard: Kinijos žiemos laikas,
+    Daylight: Kinijos vasaros laikas
+  },
+  America/Havana: {
+    Generic: Kubos laikas,
+    Standard: Kubos žiemos laikas,
+    Daylight: Kubos vasaros laikas
+  },
+  Etc/GMT+12: {
+    Generic: pasaulio suderintasis laikas -12,
+    Standard: pasaulio suderintasis laikas -12,
+    Daylight: pasaulio suderintasis laikas -12
+  },
+  Africa/Nairobi: {
+    Generic: Rytų Afrikos laikas,
+    Standard: Rytų Afrikos laikas,
+    Daylight: Rytų Afrikos laikas
+  },
+  Antarctica/Syowa: {
+    Generic: Siovos laikas,
+    Standard: Siovos laikas,
+    Daylight: Siovos laikas
+  },
+  Africa/Djibouti: {
+    Generic: Rytų Afrikos laikas,
+    Standard: Rytų Afrikos laikas,
+    Daylight: Rytų Afrikos laikas
+  },
+  Africa/Asmera: {
+    Generic: Rytų Afrikos laikas,
+    Standard: Rytų Afrikos laikas,
+    Daylight: Rytų Afrikos laikas
+  },
+  Africa/Addis_Ababa: {
+    Generic: Rytų Afrikos laikas,
+    Standard: Rytų Afrikos laikas,
+    Daylight: Rytų Afrikos laikas
+  },
+  Indian/Comoro: {
+    Generic: Rytų Afrikos laikas,
+    Standard: Rytų Afrikos laikas,
+    Daylight: Rytų Afrikos laikas
+  },
+  Indian/Antananarivo: {
+    Generic: Rytų Afrikos laikas,
+    Standard: Rytų Afrikos laikas,
+    Daylight: Rytų Afrikos laikas
+  },
+  Africa/Mogadishu: {
+    Generic: Rytų Afrikos laikas,
+    Standard: Rytų Afrikos laikas,
+    Daylight: Rytų Afrikos laikas
+  },
+  Africa/Dar_es_Salaam: {
+    Generic: Rytų Afrikos laikas,
+    Standard: Rytų Afrikos laikas,
+    Daylight: Rytų Afrikos laikas
+  },
+  Africa/Kampala: {
+    Generic: Rytų Afrikos laikas,
+    Standard: Rytų Afrikos laikas,
+    Daylight: Rytų Afrikos laikas
+  },
+  Indian/Mayotte: {
+    Generic: Rytų Afrikos laikas,
+    Standard: Rytų Afrikos laikas,
+    Daylight: Rytų Afrikos laikas
+  },
+  Etc/GMT-3: {
+    Generic: pasaulio suderintasis laikas +3,
+    Standard: pasaulio suderintasis laikas +3,
+    Daylight: pasaulio suderintasis laikas +3
+  },
+  Australia/Brisbane: {
+    Generic: Rytų Australijos laikas,
+    Standard: Rytų Australijos žiemos laikas,
+    Daylight: Rytų Australijos vasaros laikas
+  },
+  Australia/Lindeman: {
+    Generic: Rytų Australijos laikas,
+    Standard: Rytų Australijos žiemos laikas,
+    Daylight: Rytų Australijos vasaros laikas
+  },
+  Europe/Chisinau: {
+    Generic: Rytų Europos laikas,
+    Standard: Rytų Europos žiemos laikas,
+    Daylight: Rytų Europos vasaros laikas
+  },
+  America/Sao_Paulo: {
+    Generic: Brazilijos laikas,
+    Standard: Brazilijos žiemos laikas,
+    Daylight: Brazilijos vasaros laikas
+  },
+  Pacific/Easter: {
+    Generic: Velykų Salos laikas,
+    Standard: Velykų salos žiemos laikas,
+    Daylight: Velykų Salos vasaros laikas
+  },
+  America/Cancun: {
+    Generic: Šiaurės Amerikos rytų laikas,
+    Standard: Šiaurės Amerikos rytų žiemos laikas,
+    Daylight: Šiaurės Amerikos rytų vasaros laikas
+  },
+  America/New_York: {
+    Generic: Šiaurės Amerikos rytų laikas,
+    Standard: Šiaurės Amerikos rytų žiemos laikas,
+    Daylight: Šiaurės Amerikos rytų vasaros laikas
+  },
+  America/Nassau: {
+    Generic: Šiaurės Amerikos rytų laikas,
+    Standard: Šiaurės Amerikos rytų žiemos laikas,
+    Daylight: Šiaurės Amerikos rytų vasaros laikas
+  },
+  America/Toronto: {
+    Generic: Šiaurės Amerikos rytų laikas,
+    Standard: Šiaurės Amerikos rytų žiemos laikas,
+    Daylight: Šiaurės Amerikos rytų vasaros laikas
+  },
+  America/Iqaluit: {
+    Generic: Šiaurės Amerikos rytų laikas,
+    Standard: Šiaurės Amerikos rytų žiemos laikas,
+    Daylight: Šiaurės Amerikos rytų vasaros laikas
+  },
+  America/Montreal: {
+    Generic: Šiaurės Amerikos rytų laikas,
+    Standard: Šiaurės Amerikos rytų žiemos laikas,
+    Daylight: Šiaurės Amerikos rytų vasaros laikas
+  },
+  America/Nipigon: {
+    Generic: Šiaurės Amerikos rytų laikas,
+    Standard: Šiaurės Amerikos rytų žiemos laikas,
+    Daylight: Šiaurės Amerikos rytų vasaros laikas
+  },
+  America/Pangnirtung: {
+    Generic: Šiaurės Amerikos rytų laikas,
+    Standard: Šiaurės Amerikos rytų žiemos laikas,
+    Daylight: Šiaurės Amerikos rytų vasaros laikas
+  },
+  America/Thunder_Bay: {
+    Generic: Šiaurės Amerikos rytų laikas,
+    Standard: Šiaurės Amerikos rytų žiemos laikas,
+    Daylight: Šiaurės Amerikos rytų vasaros laikas
+  },
+  America/Detroit: {
+    Generic: Šiaurės Amerikos rytų laikas,
+    Standard: Šiaurės Amerikos rytų žiemos laikas,
+    Daylight: Šiaurės Amerikos rytų vasaros laikas
+  },
+  America/Indiana/Petersburg: {
+    Generic: Šiaurės Amerikos rytų laikas,
+    Standard: Šiaurės Amerikos rytų žiemos laikas,
+    Daylight: Šiaurės Amerikos rytų vasaros laikas
+  },
+  America/Indiana/Vincennes: {
+    Generic: Šiaurės Amerikos rytų laikas,
+    Standard: Šiaurės Amerikos rytų žiemos laikas,
+    Daylight: Šiaurės Amerikos rytų vasaros laikas
+  },
+  America/Indiana/Winamac: {
+    Generic: Šiaurės Amerikos rytų laikas,
+    Standard: Šiaurės Amerikos rytų žiemos laikas,
+    Daylight: Šiaurės Amerikos rytų vasaros laikas
+  },
+  America/Kentucky/Monticello: {
+    Generic: Šiaurės Amerikos rytų laikas,
+    Standard: Šiaurės Amerikos rytų žiemos laikas,
+    Daylight: Šiaurės Amerikos rytų vasaros laikas
+  },
+  America/Louisville: {
+    Generic: Šiaurės Amerikos rytų laikas,
+    Standard: Šiaurės Amerikos rytų žiemos laikas,
+    Daylight: Šiaurės Amerikos rytų vasaros laikas
+  },
+  EST5EDT: {
+    Generic: Šiaurės Amerikos rytų laikas,
+    Standard: Šiaurės Amerikos rytų žiemos laikas,
+    Daylight: Šiaurės Amerikos rytų vasaros laikas
+  },
+  Africa/Cairo: {
+    Generic: Rytų Europos laikas,
+    Standard: Rytų Europos žiemos laikas,
+    Daylight: Rytų Europos vasaros laikas
+  },
+  Asia/Yekaterinburg: {
+    Generic: Laikas: Jekaterinburgas,
+    Standard: Žiemos laikas: Jekaterinburgas,
+    Daylight: Vasaros laikas: Jekaterinburgas
+  },
+  Europe/Kiev: {
+    Generic: Rytų Europos laikas,
+    Standard: Rytų Europos žiemos laikas,
+    Daylight: Rytų Europos vasaros laikas
+  },
+  Europe/Mariehamn: {
+    Generic: Rytų Europos laikas,
+    Standard: Rytų Europos žiemos laikas,
+    Daylight: Rytų Europos vasaros laikas
+  },
+  Europe/Sofia: {
+    Generic: Rytų Europos laikas,
+    Standard: Rytų Europos žiemos laikas,
+    Daylight: Rytų Europos vasaros laikas
+  },
+  Europe/Tallinn: {
+    Generic: Rytų Europos laikas,
+    Standard: Rytų Europos žiemos laikas,
+    Daylight: Rytų Europos vasaros laikas
+  },
+  Europe/Helsinki: {
+    Generic: Rytų Europos laikas,
+    Standard: Rytų Europos žiemos laikas,
+    Daylight: Rytų Europos vasaros laikas
+  },
+  Europe/Vilnius: {
+    Generic: Rytų Europos laikas,
+    Standard: Rytų Europos žiemos laikas,
+    Daylight: Rytų Europos vasaros laikas
+  },
+  Europe/Riga: {
+    Generic: Rytų Europos laikas,
+    Standard: Rytų Europos žiemos laikas,
+    Daylight: Rytų Europos vasaros laikas
+  },
+  Europe/Uzhgorod: {
+    Generic: Rytų Europos laikas,
+    Standard: Rytų Europos žiemos laikas,
+    Daylight: Rytų Europos vasaros laikas
+  },
+  Europe/Zaporozhye: {
+    Generic: Rytų Europos laikas,
+    Standard: Rytų Europos žiemos laikas,
+    Daylight: Rytų Europos vasaros laikas
+  },
+  Pacific/Fiji: {
+    Generic: Fidžio laikas,
+    Standard: Fidžio žiemos laikas,
+    Daylight: Fidžio vasaros laikas
+  },
+  Europe/London: {
+    Generic: Laikas: Jungtinė Karalystė,
+    Standard: Grinvičo laikas,
+    Daylight: Britanijos vasaros laikas
+  },
+  Atlantic/Canary: {
+    Generic: Vakarų Europos laikas,
+    Standard: Vakarų Europos žiemos laikas,
+    Daylight: Vakarų Europos vasaros laikas
+  },
+  Atlantic/Faeroe: {
+    Generic: Vakarų Europos laikas,
+    Standard: Vakarų Europos žiemos laikas,
+    Daylight: Vakarų Europos vasaros laikas
+  },
+  Europe/Guernsey: {
+    Generic: Grinvičo laikas,
+    Standard: Grinvičo laikas,
+    Daylight: Grinvičo laikas
+  },
+  Europe/Dublin: {
+    Generic: Laikas: Airija,
+    Standard: Grinvičo laikas,
+    Daylight: Airijos vasaros laikas
+  },
+  Europe/Isle_of_Man: {
+    Generic: Grinvičo laikas,
+    Standard: Grinvičo laikas,
+    Daylight: Grinvičo laikas
+  },
+  Europe/Jersey: {
+    Generic: Grinvičo laikas,
+    Standard: Grinvičo laikas,
+    Daylight: Grinvičo laikas
+  },
+  Europe/Lisbon: {
+    Generic: Vakarų Europos laikas,
+    Standard: Vakarų Europos žiemos laikas,
+    Daylight: Vakarų Europos vasaros laikas
+  },
+  Atlantic/Madeira: {
+    Generic: Vakarų Europos laikas,
+    Standard: Vakarų Europos žiemos laikas,
+    Daylight: Vakarų Europos vasaros laikas
+  },
+  Europe/Bucharest: {
+    Generic: Rytų Europos laikas,
+    Standard: Rytų Europos žiemos laikas,
+    Daylight: Rytų Europos vasaros laikas
+  },
+  Asia/Nicosia: {
+    Generic: Rytų Europos laikas,
+    Standard: Rytų Europos žiemos laikas,
+    Daylight: Rytų Europos vasaros laikas
+  },
+  Asia/Famagusta: {
+    Generic: Rytų Europos laikas,
+    Standard: Rytų Europos žiemos laikas,
+    Daylight: Rytų Europos vasaros laikas
+  },
+  Europe/Athens: {
+    Generic: Rytų Europos laikas,
+    Standard: Rytų Europos žiemos laikas,
+    Daylight: Rytų Europos vasaros laikas
+  },
+  Asia/Tbilisi: {
+    Generic: Gruzijos laikas,
+    Standard: Gruzijos žiemos laikas,
+    Daylight: Gruzijos vasaros laikas
+  },
+  America/Godthab: {
+    Generic: Grenlandijos vakarų laikas,
+    Standard: Grenlandijos vakarų žiemos laikas,
+    Daylight: Grenlandijos vakarų vasaros laikas
+  },
+  Atlantic/Reykjavik: {
+    Generic: Grinvičo laikas,
+    Standard: Grinvičo laikas,
+    Daylight: Grinvičo laikas
+  },
+  Atlantic/St_Helena: {
+    Generic: Grinvičo laikas,
+    Standard: Grinvičo laikas,
+    Daylight: Grinvičo laikas
+  },
+  Africa/Ouagadougou: {
+    Generic: Grinvičo laikas,
+    Standard: Grinvičo laikas,
+    Daylight: Grinvičo laikas
+  },
+  Africa/Abidjan: {
+    Generic: Grinvičo laikas,
+    Standard: Grinvičo laikas,
+    Daylight: Grinvičo laikas
+  },
+  Africa/Accra: {
+    Generic: Grinvičo laikas,
+    Standard: Grinvičo laikas,
+    Daylight: Grinvičo laikas
+  },
+  America/Danmarkshavn: {
+    Generic: Grinvičo laikas,
+    Standard: Grinvičo laikas,
+    Daylight: Grinvičo laikas
+  },
+  Africa/Banjul: {
+    Generic: Grinvičo laikas,
+    Standard: Grinvičo laikas,
+    Daylight: Grinvičo laikas
+  },
+  Africa/Conakry: {
+    Generic: Grinvičo laikas,
+    Standard: Grinvičo laikas,
+    Daylight: Grinvičo laikas
+  },
+  Africa/Bissau: {
+    Generic: Grinvičo laikas,
+    Standard: Grinvičo laikas,
+    Daylight: Grinvičo laikas
+  },
+  Africa/Monrovia: {
+    Generic: Grinvičo laikas,
+    Standard: Grinvičo laikas,
+    Daylight: Grinvičo laikas
+  },
+  Africa/Bamako: {
+    Generic: Grinvičo laikas,
+    Standard: Grinvičo laikas,
+    Daylight: Grinvičo laikas
+  },
+  Africa/Nouakchott: {
+    Generic: Grinvičo laikas,
+    Standard: Grinvičo laikas,
+    Daylight: Grinvičo laikas
+  },
+  Africa/Freetown: {
+    Generic: Grinvičo laikas,
+    Standard: Grinvičo laikas,
+    Daylight: Grinvičo laikas
+  },
+  Africa/Dakar: {
+    Generic: Grinvičo laikas,
+    Standard: Grinvičo laikas,
+    Daylight: Grinvičo laikas
+  },
+  Africa/Lome: {
+    Generic: Grinvičo laikas,
+    Standard: Grinvičo laikas,
+    Daylight: Grinvičo laikas
+  },
+  America/Port-au-Prince: {
+    Generic: Šiaurės Amerikos rytų laikas,
+    Standard: Šiaurės Amerikos rytų žiemos laikas,
+    Daylight: Šiaurės Amerikos rytų vasaros laikas
+  },
+  Pacific/Honolulu: {
+    Generic: Havajų-Aleutų laikas,
+    Standard: Havajų–Aleutų žiemos laikas,
+    Daylight: Havajų–Aleutų vasaros laikas
+  },
+  Pacific/Rarotonga: {
+    Generic: Kuko Salų laikas,
+    Standard: Kuko Salų žiemos laikas,
+    Daylight: Kuko Salų pusės vasaros laikas
+  },
+  Pacific/Tahiti: {
+    Generic: Tahičio laikas,
+    Standard: Tahičio laikas,
+    Daylight: Tahičio laikas
+  },
+  Pacific/Johnston: {
+    Generic: Havajų-Aleutų laikas,
+    Standard: Havajų–Aleutų žiemos laikas,
+    Daylight: Havajų–Aleutų vasaros laikas
+  },
+  Etc/GMT+10: {
+    Generic: pasaulio suderintasis laikas -10,
+    Standard: pasaulio suderintasis laikas -10,
+    Daylight: pasaulio suderintasis laikas -10
+  },
+  Asia/Calcutta: {
+    Generic: Indijos laikas,
+    Standard: Indijos laikas,
+    Daylight: Indijos laikas
+  },
+  Asia/Tehran: {
+    Generic: Irano laikas,
+    Standard: Irano žiemos laikas,
+    Daylight: Irano vasaros laikas
+  },
+  Asia/Jerusalem: {
+    Generic: Izraelio laikas,
+    Standard: Izraelio žiemos laikas,
+    Daylight: Izraelio vasaros laikas
+  },
+  Asia/Amman: {
+    Generic: Rytų Europos laikas,
+    Standard: Rytų Europos žiemos laikas,
+    Daylight: Rytų Europos vasaros laikas
+  },
+  Europe/Kaliningrad: {
+    Generic: Laikas: Kaliningradas,
+    Standard: Žiemos laikas: Kaliningradas,
+    Daylight: Vasaros laikas: Kaliningradas
+  },
+  Asia/Seoul: {
+    Generic: Korėjos laikas,
+    Standard: Korėjos žiemos laikas,
+    Daylight: Korėjos vasaros laikas
+  },
+  Africa/Tripoli: {
+    Generic: Rytų Europos laikas,
+    Standard: Rytų Europos žiemos laikas,
+    Daylight: Rytų Europos vasaros laikas
+  },
+  Pacific/Kiritimati: {
+    Generic: Laino Salų laikas,
+    Standard: Laino Salų laikas,
+    Daylight: Laino Salų laikas
+  },
+  Etc/GMT-14: {
+    Generic: pasaulio suderintasis laikas +14,
+    Standard: pasaulio suderintasis laikas +14,
+    Daylight: pasaulio suderintasis laikas +14
+  },
+  Australia/Lord_Howe: {
+    Generic: Lordo Hau laikas,
+    Standard: Lordo Hau žiemos laikas,
+    Daylight: Lordo Hau vasaros laikas
+  },
+  Asia/Magadan: {
+    Generic: Laikas: Magadanas,
+    Standard: Žiemos laikas: Magadanas,
+    Daylight: Vasaros laikas: Magadanas
+  },
+  America/Punta_Arenas: {
+    Generic: Čilės laikas,
+    Standard: Čilės žiemos laikas,
+    Daylight: Čilės vasaros laikas
+  },
+  Pacific/Marquesas: {
+    Generic: Markizo Salų laikas,
+    Standard: Markizo Salų laikas,
+    Daylight: Markizo Salų laikas
+  },
+  Indian/Mauritius: {
+    Generic: Mauricijaus laikas,
+    Standard: Mauricijaus žiemos laikas,
+    Daylight: Mauricijaus vasaros laikas
+  },
+  Indian/Reunion: {
+    Generic: Reunjono laikas,
+    Standard: Reunjono laikas,
+    Daylight: Reunjono laikas
+  },
+  Indian/Mahe: {
+    Generic: Seišelių laikas,
+    Standard: Seišelių laikas,
+    Daylight: Seišelių laikas
+  },
+  Asia/Beirut: {
+    Generic: Rytų Europos laikas,
+    Standard: Rytų Europos žiemos laikas,
+    Daylight: Rytų Europos vasaros laikas
+  },
+  America/Montevideo: {
+    Generic: Urugvajaus laikas,
+    Standard: Urugvajaus žiemos laikas,
+    Daylight: Urugvajaus vasaros laikas
+  },
+  Africa/Casablanca: {
+    Generic: Vakarų Europos laikas,
+    Standard: Vakarų Europos žiemos laikas,
+    Daylight: Vakarų Europos vasaros laikas
+  },
+  Africa/El_Aaiun: {
+    Generic: Vakarų Europos laikas,
+    Standard: Vakarų Europos žiemos laikas,
+    Daylight: Vakarų Europos vasaros laikas
+  },
+  America/Chihuahua: {
+    Generic: Meksikos Ramiojo vandenyno laikas,
+    Standard: Meksikos Ramiojo vandenyno žiemos laikas,
+    Daylight: Meksikos Ramiojo vandenyno vasaros laikas
+  },
+  America/Mazatlan: {
+    Generic: Meksikos Ramiojo vandenyno laikas,
+    Standard: Meksikos Ramiojo vandenyno žiemos laikas,
+    Daylight: Meksikos Ramiojo vandenyno vasaros laikas
+  },
+  America/Denver: {
+    Generic: Šiaurės Amerikos kalnų laikas,
+    Standard: Šiaurės Amerikos kalnų žiemos laikas,
+    Daylight: Šiaurės Amerikos kalnų vasaros laikas
+  },
+  America/Edmonton: {
+    Generic: Šiaurės Amerikos kalnų laikas,
+    Standard: Šiaurės Amerikos kalnų žiemos laikas,
+    Daylight: Šiaurės Amerikos kalnų vasaros laikas
+  },
+  America/Cambridge_Bay: {
+    Generic: Šiaurės Amerikos kalnų laikas,
+    Standard: Šiaurės Amerikos kalnų žiemos laikas,
+    Daylight: Šiaurės Amerikos kalnų vasaros laikas
+  },
+  America/Inuvik: {
+    Generic: Šiaurės Amerikos kalnų laikas,
+    Standard: Šiaurės Amerikos kalnų žiemos laikas,
+    Daylight: Šiaurės Amerikos kalnų vasaros laikas
+  },
+  America/Yellowknife: {
+    Generic: Šiaurės Amerikos kalnų laikas,
+    Standard: Šiaurės Amerikos kalnų žiemos laikas,
+    Daylight: Šiaurės Amerikos kalnų vasaros laikas
+  },
+  America/Ojinaga: {
+    Generic: Šiaurės Amerikos kalnų laikas,
+    Standard: Šiaurės Amerikos kalnų žiemos laikas,
+    Daylight: Šiaurės Amerikos kalnų vasaros laikas
+  },
+  America/Boise: {
+    Generic: Šiaurės Amerikos kalnų laikas,
+    Standard: Šiaurės Amerikos kalnų žiemos laikas,
+    Daylight: Šiaurės Amerikos kalnų vasaros laikas
+  },
+  MST7MDT: {
+    Generic: Šiaurės Amerikos kalnų laikas,
+    Standard: Šiaurės Amerikos kalnų žiemos laikas,
+    Daylight: Šiaurės Amerikos kalnų vasaros laikas
+  },
+  Asia/Rangoon: {
+    Generic: Mianmaro laikas,
+    Standard: Mianmaro laikas,
+    Daylight: Mianmaro laikas
+  },
+  Indian/Cocos: {
+    Generic: Kokosų Salų laikas,
+    Standard: Kokosų Salų laikas,
+    Daylight: Kokosų Salų laikas
+  },
+  Asia/Novosibirsk: {
+    Generic: Laikas: Novosibirskas,
+    Standard: Žiemos laikas: Novosibirskas,
+    Daylight: Vasaros laikas: Novosibirskas
+  },
+  Africa/Windhoek: {
+    Generic: Centrinės Afrikos laikas,
+    Standard: Centrinės Afrikos laikas,
+    Daylight: Centrinės Afrikos laikas
+  },
+  Asia/Katmandu: {
+    Generic: Nepalo laikas,
+    Standard: Nepalo laikas,
+    Daylight: Nepalo laikas
+  },
+  Pacific/Auckland: {
+    Generic: Naujosios Zelandijos laikas,
+    Standard: Naujosios Zelandijos žiemos laikas,
+    Daylight: Naujosios Zelandijos vasaros laikas
+  },
+  Antarctica/McMurdo: {
+    Generic: Naujosios Zelandijos laikas,
+    Standard: Naujosios Zelandijos žiemos laikas,
+    Daylight: Naujosios Zelandijos vasaros laikas
+  },
+  America/St_Johns: {
+    Generic: Niufaundlendo laikas,
+    Standard: Niufaundlendo žiemos laikas,
+    Daylight: Niufaundlendo vasaros laikas
+  },
+  Pacific/Norfolk: {
+    Generic: Norfolko Salų laikas,
+    Standard: Norfolko Salų žiemos laikas,
+    Daylight: Norfolko Salų vasaros laikas
+  },
+  Asia/Irkutsk: {
+    Generic: Laikas: Irkutskas,
+    Standard: Žiemos laikas: Irkutskas,
+    Daylight: Vasaros laikas: Irkutskas
+  },
+  Asia/Krasnoyarsk: {
+    Generic: Laikas: Krasnojarskas,
+    Standard: Žiemos laikas: Krasnojarskas,
+    Daylight: Vasaros laikas: Krasnojarskas
+  },
+  Asia/Novokuznetsk: {
+    Generic: Laikas: Novokuzneckas,
+    Standard: Žiemos laikas: Novokuzneckas,
+    Daylight: Vasaros laikas: Novokuzneckas
+  },
+  Asia/Pyongyang: {
+    Generic: Korėjos laikas,
+    Standard: Korėjos žiemos laikas,
+    Daylight: Korėjos vasaros laikas
+  },
+  Asia/Omsk: {
+    Generic: Laikas: Omskas,
+    Standard: Žiemos laikas: Omskas,
+    Daylight: Vasaros laikas: Omskas
+  },
+  America/Santiago: {
+    Generic: Čilės laikas,
+    Standard: Čilės žiemos laikas,
+    Daylight: Čilės vasaros laikas
+  },
+  America/Tijuana: {
+    Generic: Šiaurės Amerikos Ramiojo vandenyno laikas,
+    Standard: Šiaurės Amerikos Ramiojo vandenyno žiemos laikas,
+    Daylight: Šiaurės Amerikos Ramiojo vandenyno vasaros laikas
+  },
+  America/Santa_Isabel: {
+    Generic: Šiaurės Vakarų Meksikos laikas,
+    Standard: Šiaurės Vakarų Meksikos žiemos laikas,
+    Daylight: Šiaurės Vakarų Meksikos vasaros laikas
+  },
+  America/Los_Angeles: {
+    Generic: Šiaurės Amerikos Ramiojo vandenyno laikas,
+    Standard: Šiaurės Amerikos Ramiojo vandenyno žiemos laikas,
+    Daylight: Šiaurės Amerikos Ramiojo vandenyno vasaros laikas
+  },
+  America/Vancouver: {
+    Generic: Šiaurės Amerikos Ramiojo vandenyno laikas,
+    Standard: Šiaurės Amerikos Ramiojo vandenyno žiemos laikas,
+    Daylight: Šiaurės Amerikos Ramiojo vandenyno vasaros laikas
+  },
+  PST8PDT: {
+    Generic: Šiaurės Amerikos Ramiojo vandenyno laikas,
+    Standard: Šiaurės Amerikos Ramiojo vandenyno žiemos laikas,
+    Daylight: Šiaurės Amerikos Ramiojo vandenyno vasaros laikas
+  },
+  Asia/Karachi: {
+    Generic: Pakistano laikas,
+    Standard: Pakistano žiemos laikas,
+    Daylight: Pakistano vasaros laikas
+  },
+  America/Asuncion: {
+    Generic: Paragvajaus laikas,
+    Standard: Paragvajaus žiemos laikas,
+    Daylight: Paragvajaus vasaros laikas
+  },
+  Asia/Qyzylorda: {
+    Generic: Vakarų Kazachstano laikas,
+    Standard: Vakarų Kazachstano laikas,
+    Daylight: Vakarų Kazachstano laikas
+  },
+  Europe/Paris: {
+    Generic: Vidurio Europos laikas,
+    Standard: Vidurio Europos žiemos laikas,
+    Daylight: Vidurio Europos vasaros laikas
+  },
+  Europe/Brussels: {
+    Generic: Vidurio Europos laikas,
+    Standard: Vidurio Europos žiemos laikas,
+    Daylight: Vidurio Europos vasaros laikas
+  },
+  Europe/Copenhagen: {
+    Generic: Vidurio Europos laikas,
+    Standard: Vidurio Europos žiemos laikas,
+    Daylight: Vidurio Europos vasaros laikas
+  },
+  Africa/Ceuta: {
+    Generic: Vidurio Europos laikas,
+    Standard: Vidurio Europos žiemos laikas,
+    Daylight: Vidurio Europos vasaros laikas
+  },
+  Europe/Madrid: {
+    Generic: Vidurio Europos laikas,
+    Standard: Vidurio Europos žiemos laikas,
+    Daylight: Vidurio Europos vasaros laikas
+  },
+  Asia/Srednekolymsk: {
+    Generic: Laikas: Srednekolymskas,
+    Standard: Žiemos laikas: Srednekolymskas,
+    Daylight: Vasaros laikas: Srednekolymskas
+  },
+  Asia/Kamchatka: {
+    Generic: Laikas: Kamčiatka,
+    Standard: Žiemos laikas: Kamčiatka,
+    Daylight: Vasaros laikas: Kamčiatka
+  },
+  Asia/Anadyr: {
+    Generic: Laikas: Anadyris,
+    Standard: Žiemos laikas: Anadyris,
+    Daylight: Vasaros laikas: Anadyris
+  },
+  Europe/Samara: {
+    Generic: Laikas: Samara,
+    Standard: Žiemos laikas: Samara,
+    Daylight: Vasaros laikas: Samara
+  },
+  Europe/Moscow: {
+    Generic: Laikas: Maskva,
+    Standard: Žiemos laikas: Maskva,
+    Daylight: Vasaros laikas: Maskva
+  },
+  Europe/Kirov: {
+    Generic: Laikas: Kirovas,
+    Standard: Žiemos laikas: Kirovas,
+    Daylight: Vasaros laikas: Kirovas
+  },
+  Europe/Simferopol: {
+    Generic: Maskvos laikas,
+    Standard: Maskvos žiemos laikas,
+    Daylight: Maskvos vasaros laikas
+  },
+  America/Cayenne: {
+    Generic: Prancūzijos Gvianos laikas,
+    Standard: Prancūzijos Gvianos laikas,
+    Daylight: Prancūzijos Gvianos laikas
+  },
+  Antarctica/Rothera: {
+    Generic: Roteros laikas,
+    Standard: Roteros laikas,
+    Daylight: Roteros laikas
+  },
+  Antarctica/Palmer: {
+    Generic: Čilės laikas,
+    Standard: Čilės žiemos laikas,
+    Daylight: Čilės vasaros laikas
+  },
+  America/Fortaleza: {
+    Generic: Brazilijos laikas,
+    Standard: Brazilijos žiemos laikas,
+    Daylight: Brazilijos vasaros laikas
+  },
+  America/Belem: {
+    Generic: Brazilijos laikas,
+    Standard: Brazilijos žiemos laikas,
+    Daylight: Brazilijos vasaros laikas
+  },
+  America/Maceio: {
+    Generic: Brazilijos laikas,
+    Standard: Brazilijos žiemos laikas,
+    Daylight: Brazilijos vasaros laikas
+  },
+  America/Recife: {
+    Generic: Brazilijos laikas,
+    Standard: Brazilijos žiemos laikas,
+    Daylight: Brazilijos vasaros laikas
+  },
+  America/Santarem: {
+    Generic: Brazilijos laikas,
+    Standard: Brazilijos žiemos laikas,
+    Daylight: Brazilijos vasaros laikas
+  },
+  Atlantic/Stanley: {
+    Generic: Folklando Salų laikas,
+    Standard: Folklandų Salų žiemos laikas,
+    Daylight: Folklando Salų vasaros laikas
+  },
+  America/Paramaribo: {
+    Generic: Surinamo laikas,
+    Standard: Surinamo laikas,
+    Daylight: Surinamo laikas
+  },
+  Etc/GMT+3: {
+    Generic: pasaulio suderintasis laikas -3,
+    Standard: pasaulio suderintasis laikas -3,
+    Daylight: pasaulio suderintasis laikas -3
+  },
+  America/Bogota: {
+    Generic: Kolumbijos laikas,
+    Standard: Kolumbijos žiemos laikas,
+    Daylight: Kolumbijos vasaros laikas
+  },
+  America/Rio_Branco: {
+    Generic: Ako laikas,
+    Standard: Ako standartinis laikas,
+    Daylight: Ako vasaros laikas
+  },
+  America/Eirunepe: {
+    Generic: Ako laikas,
+    Standard: Ako standartinis laikas,
+    Daylight: Ako vasaros laikas
+  },
+  America/Coral_Harbour: {
+    Generic: Šiaurės Amerikos rytų laikas,
+    Standard: Šiaurės Amerikos rytų žiemos laikas,
+    Daylight: Šiaurės Amerikos rytų vasaros laikas
+  },
+  America/Guayaquil: {
+    Generic: Ekvadoro laikas,
+    Standard: Ekvadoro laikas,
+    Daylight: Ekvadoro laikas
+  },
+  America/Jamaica: {
+    Generic: Šiaurės Amerikos rytų laikas,
+    Standard: Šiaurės Amerikos rytų žiemos laikas,
+    Daylight: Šiaurės Amerikos rytų vasaros laikas
+  },
+  America/Cayman: {
+    Generic: Šiaurės Amerikos rytų laikas,
+    Standard: Šiaurės Amerikos rytų žiemos laikas,
+    Daylight: Šiaurės Amerikos rytų vasaros laikas
+  },
+  America/Panama: {
+    Generic: Šiaurės Amerikos rytų laikas,
+    Standard: Šiaurės Amerikos rytų žiemos laikas,
+    Daylight: Šiaurės Amerikos rytų vasaros laikas
+  },
+  America/Lima: {
+    Generic: Peru laikas,
+    Standard: Peru žiemos laikas,
+    Daylight: Peru vasaros laikas
+  },
+  Etc/GMT+5: {
+    Generic: pasaulio suderintasis laikas -5,
+    Standard: pasaulio suderintasis laikas -5,
+    Daylight: pasaulio suderintasis laikas -5
+  },
+  America/La_Paz: {
+    Generic: Bolivijos laikas,
+    Standard: Bolivijos laikas,
+    Daylight: Bolivijos laikas
+  },
+  America/Antigua: {
+    Generic: Atlanto laikas,
+    Standard: Atlanto žiemos laikas,
+    Daylight: Atlanto vasaros laikas
+  },
+  America/Anguilla: {
+    Generic: Atlanto laikas,
+    Standard: Atlanto žiemos laikas,
+    Daylight: Atlanto vasaros laikas
+  },
+  America/Aruba: {
+    Generic: Atlanto laikas,
+    Standard: Atlanto žiemos laikas,
+    Daylight: Atlanto vasaros laikas
+  },
+  America/Barbados: {
+    Generic: Atlanto laikas,
+    Standard: Atlanto žiemos laikas,
+    Daylight: Atlanto vasaros laikas
+  },
+  America/St_Barthelemy: {
+    Generic: Atlanto laikas,
+    Standard: Atlanto žiemos laikas,
+    Daylight: Atlanto vasaros laikas
+  },
+  America/Kralendijk: {
+    Generic: Atlanto laikas,
+    Standard: Atlanto žiemos laikas,
+    Daylight: Atlanto vasaros laikas
+  },
+  America/Manaus: {
+    Generic: Amazonės laikas,
+    Standard: Amazonės žiemos laikas,
+    Daylight: Amazonės vasaros laikas
+  },
+  America/Boa_Vista: {
+    Generic: Amazonės laikas,
+    Standard: Amazonės žiemos laikas,
+    Daylight: Amazonės vasaros laikas
+  },
+  America/Porto_Velho: {
+    Generic: Amazonės laikas,
+    Standard: Amazonės žiemos laikas,
+    Daylight: Amazonės vasaros laikas
+  },
+  America/Blanc-Sablon: {
+    Generic: Atlanto laikas,
+    Standard: Atlanto žiemos laikas,
+    Daylight: Atlanto vasaros laikas
+  },
+  America/Curacao: {
+    Generic: Atlanto laikas,
+    Standard: Atlanto žiemos laikas,
+    Daylight: Atlanto vasaros laikas
+  },
+  America/Dominica: {
+    Generic: Atlanto laikas,
+    Standard: Atlanto žiemos laikas,
+    Daylight: Atlanto vasaros laikas
+  },
+  America/Santo_Domingo: {
+    Generic: Atlanto laikas,
+    Standard: Atlanto žiemos laikas,
+    Daylight: Atlanto vasaros laikas
+  },
+  America/Grenada: {
+    Generic: Atlanto laikas,
+    Standard: Atlanto žiemos laikas,
+    Daylight: Atlanto vasaros laikas
+  },
+  America/Guadeloupe: {
+    Generic: Atlanto laikas,
+    Standard: Atlanto žiemos laikas,
+    Daylight: Atlanto vasaros laikas
+  },
+  America/Guyana: {
+    Generic: Gajanos laikas,
+    Standard: Gajanos laikas,
+    Daylight: Gajanos laikas
+  },
+  America/St_Kitts: {
+    Generic: Atlanto laikas,
+    Standard: Atlanto žiemos laikas,
+    Daylight: Atlanto vasaros laikas
+  },
+  America/St_Lucia: {
+    Generic: Atlanto laikas,
+    Standard: Atlanto žiemos laikas,
+    Daylight: Atlanto vasaros laikas
+  },
+  America/Marigot: {
+    Generic: Atlanto laikas,
+    Standard: Atlanto žiemos laikas,
+    Daylight: Atlanto vasaros laikas
+  },
+  America/Martinique: {
+    Generic: Atlanto laikas,
+    Standard: Atlanto žiemos laikas,
+    Daylight: Atlanto vasaros laikas
+  },
+  America/Montserrat: {
+    Generic: Atlanto laikas,
+    Standard: Atlanto žiemos laikas,
+    Daylight: Atlanto vasaros laikas
+  },
+  America/Puerto_Rico: {
+    Generic: Atlanto laikas,
+    Standard: Atlanto žiemos laikas,
+    Daylight: Atlanto vasaros laikas
+  },
+  America/Lower_Princes: {
+    Generic: Atlanto laikas,
+    Standard: Atlanto žiemos laikas,
+    Daylight: Atlanto vasaros laikas
+  },
+  America/Port_of_Spain: {
+    Generic: Atlanto laikas,
+    Standard: Atlanto žiemos laikas,
+    Daylight: Atlanto vasaros laikas
+  },
+  America/St_Vincent: {
+    Generic: Atlanto laikas,
+    Standard: Atlanto žiemos laikas,
+    Daylight: Atlanto vasaros laikas
+  },
+  America/Tortola: {
+    Generic: Atlanto laikas,
+    Standard: Atlanto žiemos laikas,
+    Daylight: Atlanto vasaros laikas
+  },
+  America/St_Thomas: {
+    Generic: Atlanto laikas,
+    Standard: Atlanto žiemos laikas,
+    Daylight: Atlanto vasaros laikas
+  },
+  Etc/GMT+4: {
+    Generic: pasaulio suderintasis laikas -4,
+    Standard: pasaulio suderintasis laikas -4,
+    Daylight: pasaulio suderintasis laikas -4
+  },
+  Asia/Bangkok: {
+    Generic: Indokinijos laikas,
+    Standard: Indokinijos laikas,
+    Daylight: Indokinijos laikas
+  },
+  Antarctica/Davis: {
+    Generic: Deiviso laikas,
+    Standard: Deiviso laikas,
+    Daylight: Deiviso laikas
+  },
+  Indian/Christmas: {
+    Generic: Kalėdų Salos laikas,
+    Standard: Kalėdų Salos laikas,
+    Daylight: Kalėdų Salos laikas
+  },
+  Asia/Jakarta: {
+    Generic: Vakarų Indonezijos laikas,
+    Standard: Vakarų Indonezijos laikas,
+    Daylight: Vakarų Indonezijos laikas
+  },
+  Asia/Pontianak: {
+    Generic: Vakarų Indonezijos laikas,
+    Standard: Vakarų Indonezijos laikas,
+    Daylight: Vakarų Indonezijos laikas
+  },
+  Asia/Phnom_Penh: {
+    Generic: Indokinijos laikas,
+    Standard: Indokinijos laikas,
+    Daylight: Indokinijos laikas
+  },
+  Asia/Vientiane: {
+    Generic: Indokinijos laikas,
+    Standard: Indokinijos laikas,
+    Daylight: Indokinijos laikas
+  },
+  Asia/Saigon: {
+    Generic: Indokinijos laikas,
+    Standard: Indokinijos laikas,
+    Daylight: Indokinijos laikas
+  },
+  Etc/GMT-7: {
+    Generic: pasaulio suderintasis laikas +7,
+    Standard: pasaulio suderintasis laikas +7,
+    Daylight: pasaulio suderintasis laikas +7
+  },
+  America/Miquelon: {
+    Generic: Sen Pjero ir Mikelono laikas,
+    Standard: Sen Pjero ir Mikelono žiemos laikas,
+    Daylight: Sen Pjero ir Mikelono vasaros laikas
+  },
+  Asia/Sakhalin: {
+    Generic: Laikas: Sachalinas,
+    Standard: Žiemos laikas: Sachalinas,
+    Daylight: Vasaros laikas: Sachalinas
+  },
+  Pacific/Apia: {
+    Generic: Apijos laikas,
+    Standard: Apijos žiemos laikas,
+    Daylight: Apijos vasaros laikas
+  },
+  Africa/Sao_Tome: {
+    Generic: Grinvičo laikas,
+    Standard: Grinvičo laikas,
+    Daylight: Grinvičo laikas
+  },
+  Europe/Saratov: {
+    Generic: Laikas: Saratovas,
+    Standard: Žiemos laikas: Saratovas,
+    Daylight: Vasaros laikas: Saratovas
+  },
+  Asia/Singapore: {
+    Generic: Singapūro laikas,
+    Standard: Singapūro laikas,
+    Daylight: Singapūro laikas
+  },
+  Asia/Brunei: {
+    Generic: Brunėjaus Darusalamo laikas,
+    Standard: Brunėjaus Darusalamo laikas,
+    Daylight: Brunėjaus Darusalamo laikas
+  },
+  Asia/Makassar: {
+    Generic: Centrinės Indonezijos laikas,
+    Standard: Centrinės Indonezijos laikas,
+    Daylight: Centrinės Indonezijos laikas
+  },
+  Asia/Kuala_Lumpur: {
+    Generic: Malaizijos laikas,
+    Standard: Malaizijos laikas,
+    Daylight: Malaizijos laikas
+  },
+  Asia/Kuching: {
+    Generic: Malaizijos laikas,
+    Standard: Malaizijos laikas,
+    Daylight: Malaizijos laikas
+  },
+  Asia/Manila: {
+    Generic: Filipinų laikas,
+    Standard: Filipinų žiemos laikas,
+    Daylight: Filipinų vasaros laikas
+  },
+  Etc/GMT-8: {
+    Generic: pasaulio suderintasis laikas +8,
+    Standard: pasaulio suderintasis laikas +8,
+    Daylight: pasaulio suderintasis laikas +8
+  },
+  Africa/Johannesburg: {
+    Generic: Pietų Afrikos laikas,
+    Standard: Pietų Afrikos laikas,
+    Daylight: Pietų Afrikos laikas
+  },
+  Africa/Bujumbura: {
+    Generic: Centrinės Afrikos laikas,
+    Standard: Centrinės Afrikos laikas,
+    Daylight: Centrinės Afrikos laikas
+  },
+  Africa/Gaborone: {
+    Generic: Centrinės Afrikos laikas,
+    Standard: Centrinės Afrikos laikas,
+    Daylight: Centrinės Afrikos laikas
+  },
+  Africa/Lubumbashi: {
+    Generic: Centrinės Afrikos laikas,
+    Standard: Centrinės Afrikos laikas,
+    Daylight: Centrinės Afrikos laikas
+  },
+  Africa/Maseru: {
+    Generic: Pietų Afrikos laikas,
+    Standard: Pietų Afrikos laikas,
+    Daylight: Pietų Afrikos laikas
+  },
+  Africa/Blantyre: {
+    Generic: Centrinės Afrikos laikas,
+    Standard: Centrinės Afrikos laikas,
+    Daylight: Centrinės Afrikos laikas
+  },
+  Africa/Maputo: {
+    Generic: Centrinės Afrikos laikas,
+    Standard: Centrinės Afrikos laikas,
+    Daylight: Centrinės Afrikos laikas
+  },
+  Africa/Kigali: {
+    Generic: Centrinės Afrikos laikas,
+    Standard: Centrinės Afrikos laikas,
+    Daylight: Centrinės Afrikos laikas
+  },
+  Africa/Mbabane: {
+    Generic: Pietų Afrikos laikas,
+    Standard: Pietų Afrikos laikas,
+    Daylight: Pietų Afrikos laikas
+  },
+  Africa/Lusaka: {
+    Generic: Centrinės Afrikos laikas,
+    Standard: Centrinės Afrikos laikas,
+    Daylight: Centrinės Afrikos laikas
+  },
+  Africa/Harare: {
+    Generic: Centrinės Afrikos laikas,
+    Standard: Centrinės Afrikos laikas,
+    Daylight: Centrinės Afrikos laikas
+  },
+  Etc/GMT-2: {
+    Generic: pasaulio suderintasis laikas +2,
+    Standard: pasaulio suderintasis laikas +2,
+    Daylight: pasaulio suderintasis laikas +2
+  },
+  Africa/Juba: {
+    Generic: Centrinės Afrikos laikas,
+    Standard: Centrinės Afrikos laikas,
+    Daylight: Centrinės Afrikos laikas
+  },
+  Asia/Colombo: {
+    Generic: Indijos laikas,
+    Standard: Indijos laikas,
+    Daylight: Indijos laikas
+  },
+  Africa/Khartoum: {
+    Generic: Centrinės Afrikos laikas,
+    Standard: Centrinės Afrikos laikas,
+    Daylight: Centrinės Afrikos laikas
+  },
+  Asia/Damascus: {
+    Generic: Rytų Europos laikas,
+    Standard: Rytų Europos žiemos laikas,
+    Daylight: Rytų Europos vasaros laikas
+  },
+  Asia/Taipei: {
+    Generic: Taipėjaus laikas,
+    Standard: Taipėjaus žiemos laikas,
+    Daylight: Taipėjaus vasaros laikas
+  },
+  Australia/Hobart: {
+    Generic: Rytų Australijos laikas,
+    Standard: Rytų Australijos žiemos laikas,
+    Daylight: Rytų Australijos vasaros laikas
+  },
+  Australia/Currie: {
+    Generic: Rytų Australijos laikas,
+    Standard: Rytų Australijos žiemos laikas,
+    Daylight: Rytų Australijos vasaros laikas
+  },
+  Antarctica/Macquarie: {
+    Generic: Rytų Australijos laikas,
+    Standard: Rytų Australijos žiemos laikas,
+    Daylight: Rytų Australijos vasaros laikas
+  },
+  America/Araguaina: {
+    Generic: Brazilijos laikas,
+    Standard: Brazilijos žiemos laikas,
+    Daylight: Brazilijos vasaros laikas
+  },
+  Asia/Tokyo: {
+    Generic: Japonijos laikas,
+    Standard: Japonijos žiemos laikas,
+    Daylight: Japonijos vasaros laikas
+  },
+  Asia/Jayapura: {
+    Generic: Rytų Indonezijos laikas,
+    Standard: Rytų Indonezijos laikas,
+    Daylight: Rytų Indonezijos laikas
+  },
+  Pacific/Palau: {
+    Generic: Palau laikas,
+    Standard: Palau laikas,
+    Daylight: Palau laikas
+  },
+  Asia/Dili: {
+    Generic: Rytų Timoro laikas,
+    Standard: Rytų Timoro laikas,
+    Daylight: Rytų Timoro laikas
+  },
+  Etc/GMT-9: {
+    Generic: pasaulio suderintasis laikas +9,
+    Standard: pasaulio suderintasis laikas +9,
+    Daylight: pasaulio suderintasis laikas +9
+  },
+  Asia/Tomsk: {
+    Generic: Laikas: Tomskas,
+    Standard: Žiemos laikas: Tomskas,
+    Daylight: Vasaros laikas: Tomskas
+  },
+  Pacific/Tongatapu: {
+    Generic: Tongos laikas,
+    Standard: Tongos žiemos laikas,
+    Daylight: Tongos vasaros laikas
+  },
+  Asia/Chita: {
+    Generic: Laikas: Čita,
+    Standard: Žiemos laikas: Čita,
+    Daylight: Vasaros laikas: Čita
+  },
+  Europe/Istanbul: {
+    Generic: Laikas: Turkija,
+    Standard: Žiemos laikas: Turkija,
+    Daylight: Vasaros laikas: Turkija
+  },
+  America/Grand_Turk: {
+    Generic: Šiaurės Amerikos rytų laikas,
+    Standard: Šiaurės Amerikos rytų žiemos laikas,
+    Daylight: Šiaurės Amerikos rytų vasaros laikas
+  },
+  America/Indianapolis: {
+    Generic: Šiaurės Amerikos rytų laikas,
+    Standard: Šiaurės Amerikos rytų žiemos laikas,
+    Daylight: Šiaurės Amerikos rytų vasaros laikas
+  },
+  America/Indiana/Marengo: {
+    Generic: Šiaurės Amerikos rytų laikas,
+    Standard: Šiaurės Amerikos rytų žiemos laikas,
+    Daylight: Šiaurės Amerikos rytų vasaros laikas
+  },
+  America/Indiana/Vevay: {
+    Generic: Šiaurės Amerikos rytų laikas,
+    Standard: Šiaurės Amerikos rytų žiemos laikas,
+    Daylight: Šiaurės Amerikos rytų vasaros laikas
+  },
+  America/Phoenix: {
+    Generic: Šiaurės Amerikos kalnų laikas,
+    Standard: Šiaurės Amerikos kalnų žiemos laikas,
+    Daylight: Šiaurės Amerikos kalnų vasaros laikas
+  },
+  America/Creston: {
+    Generic: Šiaurės Amerikos kalnų laikas,
+    Standard: Šiaurės Amerikos kalnų žiemos laikas,
+    Daylight: Šiaurės Amerikos kalnų vasaros laikas
+  },
+  America/Dawson_Creek: {
+    Generic: Šiaurės Amerikos kalnų laikas,
+    Standard: Šiaurės Amerikos kalnų žiemos laikas,
+    Daylight: Šiaurės Amerikos kalnų vasaros laikas
+  },
+  America/Fort_Nelson: {
+    Generic: Šiaurės Amerikos kalnų laikas,
+    Standard: Šiaurės Amerikos kalnų žiemos laikas,
+    Daylight: Šiaurės Amerikos kalnų vasaros laikas
+  },
+  America/Hermosillo: {
+    Generic: Meksikos Ramiojo vandenyno laikas,
+    Standard: Meksikos Ramiojo vandenyno žiemos laikas,
+    Daylight: Meksikos Ramiojo vandenyno vasaros laikas
+  },
+  Etc/GMT+7: {
+    Generic: pasaulio suderintasis laikas -7,
+    Standard: pasaulio suderintasis laikas -7,
+    Daylight: pasaulio suderintasis laikas -7
+  },
+  Etc/GMT-12: {
+    Generic: pasaulio suderintasis laikas +12,
+    Standard: pasaulio suderintasis laikas +12,
+    Daylight: pasaulio suderintasis laikas +12
+  },
+  Pacific/Tarawa: {
+    Generic: Gilberto Salų laikas,
+    Standard: Gilberto Salų laikas,
+    Daylight: Gilberto Salų laikas
+  },
+  Pacific/Majuro: {
+    Generic: Maršalo Salų laikas,
+    Standard: Maršalo Salų laikas,
+    Daylight: Maršalo Salų laikas
+  },
+  Pacific/Kwajalein: {
+    Generic: Maršalo Salų laikas,
+    Standard: Maršalo Salų laikas,
+    Daylight: Maršalo Salų laikas
+  },
+  Pacific/Nauru: {
+    Generic: Nauru laikas,
+    Standard: Nauru laikas,
+    Daylight: Nauru laikas
+  },
+  Pacific/Funafuti: {
+    Generic: Tuvalu laikas,
+    Standard: Tuvalu laikas,
+    Daylight: Tuvalu laikas
+  },
+  Pacific/Wake: {
+    Generic: Veiko Salos laikas,
+    Standard: Veiko Salos laikas,
+    Daylight: Veiko Salos laikas
+  },
+  Pacific/Wallis: {
+    Generic: Voliso ir Futūnos laikas,
+    Standard: Voliso ir Futūnos laikas,
+    Daylight: Voliso ir Futūnos laikas
+  },
+  Etc/GMT-13: {
+    Generic: pasaulio suderintasis laikas +13,
+    Standard: pasaulio suderintasis laikas +13,
+    Daylight: pasaulio suderintasis laikas +13
+  },
+  Pacific/Enderbury: {
+    Generic: Fenikso Salų laikas,
+    Standard: Fenikso Salų laikas,
+    Daylight: Fenikso Salų laikas
+  },
+  Pacific/Fakaofo: {
+    Generic: Tokelau laikas,
+    Standard: Tokelau laikas,
+    Daylight: Tokelau laikas
+  },
+  Etc/UTC: {
+    Generic: pasaulio suderintasis laikas,
+    Standard: pasaulio suderintasis laikas,
+    Daylight: pasaulio suderintasis laikas
+  },
+  Etc/GMT: {
+    Generic: Grinvičo laikas,
+    Standard: Grinvičo laikas,
+    Daylight: Grinvičo laikas
+  },
+  Etc/GMT+2: {
+    Generic: pasaulio suderintasis laikas -2,
+    Standard: pasaulio suderintasis laikas -2,
+    Daylight: pasaulio suderintasis laikas -2
+  },
+  America/Noronha: {
+    Generic: Fernando de Noronjos laikas,
+    Standard: Fernando de Noronjos žiemos laikas,
+    Daylight: Fernando de Noronjos vasaros laikas
+  },
+  Atlantic/South_Georgia: {
+    Generic: Pietų Džordžijos laikas,
+    Standard: Pietų Džordžijos laikas,
+    Daylight: Pietų Džordžijos laikas
+  },
+  Etc/GMT+8: {
+    Generic: pasaulio suderintasis laikas -8,
+    Standard: pasaulio suderintasis laikas -8,
+    Daylight: pasaulio suderintasis laikas -8
+  },
+  Pacific/Pitcairn: {
+    Generic: Pitkerno laikas,
+    Standard: Pitkerno laikas,
+    Daylight: Pitkerno laikas
+  },
+  Etc/GMT+9: {
+    Generic: pasaulio suderintasis laikas -9,
+    Standard: pasaulio suderintasis laikas -9,
+    Daylight: pasaulio suderintasis laikas -9
+  },
+  Pacific/Gambier: {
+    Generic: Gambyro laikas,
+    Standard: Gambyro laikas,
+    Daylight: Gambyro laikas
+  },
+  Etc/GMT+11: {
+    Generic: pasaulio suderintasis laikas -11,
+    Standard: pasaulio suderintasis laikas -11,
+    Daylight: pasaulio suderintasis laikas -11
+  },
+  Pacific/Pago_Pago: {
+    Generic: Samoa laikas,
+    Standard: Samoa žiemos laikas,
+    Daylight: Samoa vasaros laikas
+  },
+  Pacific/Niue: {
+    Generic: Niujė laikas,
+    Standard: Niujė laikas,
+    Daylight: Niujė laikas
+  },
+  Pacific/Midway: {
+    Generic: Samoa laikas,
+    Standard: Samoa žiemos laikas,
+    Daylight: Samoa vasaros laikas
+  },
+  Asia/Ulaanbaatar: {
+    Generic: Ulan Batoro laikas,
+    Standard: Ulan Batoro žiemos laikas,
+    Daylight: Ulan Batoro vasaros laikas
+  },
+  Asia/Choibalsan: {
+    Generic: Ulan Batoro laikas,
+    Standard: Ulan Batoro žiemos laikas,
+    Daylight: Ulan Batoro vasaros laikas
+  },
+  America/Caracas: {
+    Generic: Venesuelos laikas,
+    Standard: Venesuelos laikas,
+    Daylight: Venesuelos laikas
+  },
+  Asia/Vladivostok: {
+    Generic: Laikas: Vladivostokas,
+    Standard: Žiemos laikas: Vladivostokas,
+    Daylight: Vasaros laikas: Vladivostokas
+  },
+  Asia/Ust-Nera: {
+    Generic: Laikas: Ust Nera,
+    Standard: Žiemos laikas: Ust Nera,
+    Daylight: Vasaros laikas: Ust Nera
+  },
+  Europe/Volgograd: {
+    Generic: Laikas: Volgogradas,
+    Standard: Žiemos laikas: Volgogradas,
+    Daylight: Vasaros laikas: Volgogradas
+  },
+  Australia/Perth: {
+    Generic: Vakarų Australijos laikas,
+    Standard: Vakarų Australijos žiemos laikas,
+    Daylight: Vakarų Australijos vasaros laikas
+  },
+  Africa/Lagos: {
+    Generic: Vakarų Afrikos laikas,
+    Standard: Vakarų Afrikos žiemos laikas,
+    Daylight: Vakarų Afrikos vasaros laikas
+  },
+  Africa/Luanda: {
+    Generic: Vakarų Afrikos laikas,
+    Standard: Vakarų Afrikos žiemos laikas,
+    Daylight: Vakarų Afrikos vasaros laikas
+  },
+  Africa/Porto-Novo: {
+    Generic: Vakarų Afrikos laikas,
+    Standard: Vakarų Afrikos žiemos laikas,
+    Daylight: Vakarų Afrikos vasaros laikas
+  },
+  Africa/Kinshasa: {
+    Generic: Vakarų Afrikos laikas,
+    Standard: Vakarų Afrikos žiemos laikas,
+    Daylight: Vakarų Afrikos vasaros laikas
+  },
+  Africa/Bangui: {
+    Generic: Vakarų Afrikos laikas,
+    Standard: Vakarų Afrikos žiemos laikas,
+    Daylight: Vakarų Afrikos vasaros laikas
+  },
+  Africa/Brazzaville: {
+    Generic: Vakarų Afrikos laikas,
+    Standard: Vakarų Afrikos žiemos laikas,
+    Daylight: Vakarų Afrikos vasaros laikas
+  },
+  Africa/Douala: {
+    Generic: Vakarų Afrikos laikas,
+    Standard: Vakarų Afrikos žiemos laikas,
+    Daylight: Vakarų Afrikos vasaros laikas
+  },
+  Africa/Algiers: {
+    Generic: Vidurio Europos laikas,
+    Standard: Vidurio Europos žiemos laikas,
+    Daylight: Vidurio Europos vasaros laikas
+  },
+  Africa/Libreville: {
+    Generic: Vakarų Afrikos laikas,
+    Standard: Vakarų Afrikos žiemos laikas,
+    Daylight: Vakarų Afrikos vasaros laikas
+  },
+  Africa/Malabo: {
+    Generic: Vakarų Afrikos laikas,
+    Standard: Vakarų Afrikos žiemos laikas,
+    Daylight: Vakarų Afrikos vasaros laikas
+  },
+  Africa/Niamey: {
+    Generic: Vakarų Afrikos laikas,
+    Standard: Vakarų Afrikos žiemos laikas,
+    Daylight: Vakarų Afrikos vasaros laikas
+  },
+  Africa/Ndjamena: {
+    Generic: Vakarų Afrikos laikas,
+    Standard: Vakarų Afrikos žiemos laikas,
+    Daylight: Vakarų Afrikos vasaros laikas
+  },
+  Africa/Tunis: {
+    Generic: Vidurio Europos laikas,
+    Standard: Vidurio Europos žiemos laikas,
+    Daylight: Vidurio Europos vasaros laikas
+  },
+  Etc/GMT-1: {
+    Generic: pasaulio suderintasis laikas +1,
+    Standard: pasaulio suderintasis laikas +1,
+    Daylight: pasaulio suderintasis laikas +1
+  },
+  Europe/Berlin: {
+    Generic: Vidurio Europos laikas,
+    Standard: Vidurio Europos žiemos laikas,
+    Daylight: Vidurio Europos vasaros laikas
+  },
+  Europe/Andorra: {
+    Generic: Vidurio Europos laikas,
+    Standard: Vidurio Europos žiemos laikas,
+    Daylight: Vidurio Europos vasaros laikas
+  },
+  Europe/Vienna: {
+    Generic: Vidurio Europos laikas,
+    Standard: Vidurio Europos žiemos laikas,
+    Daylight: Vidurio Europos vasaros laikas
+  },
+  Europe/Zurich: {
+    Generic: Vidurio Europos laikas,
+    Standard: Vidurio Europos žiemos laikas,
+    Daylight: Vidurio Europos vasaros laikas
+  },
+  Europe/Busingen: {
+    Generic: Vidurio Europos laikas,
+    Standard: Vidurio Europos žiemos laikas,
+    Daylight: Vidurio Europos vasaros laikas
+  },
+  Europe/Gibraltar: {
+    Generic: Vidurio Europos laikas,
+    Standard: Vidurio Europos žiemos laikas,
+    Daylight: Vidurio Europos vasaros laikas
+  },
+  Europe/Rome: {
+    Generic: Vidurio Europos laikas,
+    Standard: Vidurio Europos žiemos laikas,
+    Daylight: Vidurio Europos vasaros laikas
+  },
+  Europe/Vaduz: {
+    Generic: Vidurio Europos laikas,
+    Standard: Vidurio Europos žiemos laikas,
+    Daylight: Vidurio Europos vasaros laikas
+  },
+  Europe/Luxembourg: {
+    Generic: Vidurio Europos laikas,
+    Standard: Vidurio Europos žiemos laikas,
+    Daylight: Vidurio Europos vasaros laikas
+  },
+  Europe/Monaco: {
+    Generic: Vidurio Europos laikas,
+    Standard: Vidurio Europos žiemos laikas,
+    Daylight: Vidurio Europos vasaros laikas
+  },
+  Europe/Malta: {
+    Generic: Vidurio Europos laikas,
+    Standard: Vidurio Europos žiemos laikas,
+    Daylight: Vidurio Europos vasaros laikas
+  },
+  Europe/Amsterdam: {
+    Generic: Vidurio Europos laikas,
+    Standard: Vidurio Europos žiemos laikas,
+    Daylight: Vidurio Europos vasaros laikas
+  },
+  Europe/Oslo: {
+    Generic: Vidurio Europos laikas,
+    Standard: Vidurio Europos žiemos laikas,
+    Daylight: Vidurio Europos vasaros laikas
+  },
+  Europe/Stockholm: {
+    Generic: Vidurio Europos laikas,
+    Standard: Vidurio Europos žiemos laikas,
+    Daylight: Vidurio Europos vasaros laikas
+  },
+  Arctic/Longyearbyen: {
+    Generic: Vidurio Europos laikas,
+    Standard: Vidurio Europos žiemos laikas,
+    Daylight: Vidurio Europos vasaros laikas
+  },
+  Europe/San_Marino: {
+    Generic: Vidurio Europos laikas,
+    Standard: Vidurio Europos žiemos laikas,
+    Daylight: Vidurio Europos vasaros laikas
+  },
+  Europe/Vatican: {
+    Generic: Vidurio Europos laikas,
+    Standard: Vidurio Europos žiemos laikas,
+    Daylight: Vidurio Europos vasaros laikas
+  },
+  Asia/Hovd: {
+    Generic: Hovdo laikas,
+    Standard: Hovdo žiemos laikas,
+    Daylight: Hovdo vasaros laikas
+  },
+  Asia/Tashkent: {
+    Generic: Uzbekistano laikas,
+    Standard: Uzbekistano žiemos laikas,
+    Daylight: Uzbekistano vasaros laikas
+  },
+  Antarctica/Mawson: {
+    Generic: Mosono laikas,
+    Standard: Mosono laikas,
+    Daylight: Mosono laikas
+  },
+  Asia/Oral: {
+    Generic: Vakarų Kazachstano laikas,
+    Standard: Vakarų Kazachstano laikas,
+    Daylight: Vakarų Kazachstano laikas
+  },
+  Asia/Aqtau: {
+    Generic: Vakarų Kazachstano laikas,
+    Standard: Vakarų Kazachstano laikas,
+    Daylight: Vakarų Kazachstano laikas
+  },
+  Asia/Aqtobe: {
+    Generic: Vakarų Kazachstano laikas,
+    Standard: Vakarų Kazachstano laikas,
+    Daylight: Vakarų Kazachstano laikas
+  },
+  Asia/Atyrau: {
+    Generic: Vakarų Kazachstano laikas,
+    Standard: Vakarų Kazachstano laikas,
+    Daylight: Vakarų Kazachstano laikas
+  },
+  Indian/Maldives: {
+    Generic: Maldyvų laikas,
+    Standard: Maldyvų laikas,
+    Daylight: Maldyvų laikas
+  },
+  Indian/Kerguelen: {
+    Generic: Pietų Prancūzijos ir antarktinis laikas,
+    Standard: Pietų Prancūzijos ir antarktinis laikas,
+    Daylight: Pietų Prancūzijos ir antarktinis laikas
+  },
+  Asia/Dushanbe: {
+    Generic: Tadžikistano laikas,
+    Standard: Tadžikistano laikas,
+    Daylight: Tadžikistano laikas
+  },
+  Asia/Ashgabat: {
+    Generic: Turkmėnistano laikas,
+    Standard: Turkmėnistano žiemos laikas,
+    Daylight: Turkmėnistano vasaros laikas
+  },
+  Asia/Samarkand: {
+    Generic: Uzbekistano laikas,
+    Standard: Uzbekistano žiemos laikas,
+    Daylight: Uzbekistano vasaros laikas
+  },
+  Etc/GMT-5: {
+    Generic: pasaulio suderintasis laikas +5,
+    Standard: pasaulio suderintasis laikas +5,
+    Daylight: pasaulio suderintasis laikas +5
+  },
+  Asia/Hebron: {
+    Generic: Rytų Europos laikas,
+    Standard: Rytų Europos žiemos laikas,
+    Daylight: Rytų Europos vasaros laikas
+  },
+  Asia/Gaza: {
+    Generic: Rytų Europos laikas,
+    Standard: Rytų Europos žiemos laikas,
+    Daylight: Rytų Europos vasaros laikas
+  },
+  Pacific/Port_Moresby: {
+    Generic: Papua Naujosios Gvinėjos laikas,
+    Standard: Papua Naujosios Gvinėjos laikas,
+    Daylight: Papua Naujosios Gvinėjos laikas
+  },
+  Antarctica/DumontDUrville: {
+    Generic: Diumono d’Urvilio laikas,
+    Standard: Diumono d’Urvilio laikas,
+    Daylight: Diumono d’Urvilio laikas
+  },
+  Pacific/Truk: {
+    Generic: Čuko laikas,
+    Standard: Čuko laikas,
+    Daylight: Čuko laikas
+  },
+  Pacific/Guam: {
+    Generic: Čamoro laikas,
+    Standard: Čamoro laikas,
+    Daylight: Čamoro laikas
+  },
+  Pacific/Saipan: {
+    Generic: Čamoro laikas,
+    Standard: Čamoro laikas,
+    Daylight: Čamoro laikas
+  },
+  Etc/GMT-10: {
+    Generic: pasaulio suderintasis laikas +10,
+    Standard: pasaulio suderintasis laikas +10,
+    Daylight: pasaulio suderintasis laikas +10
+  },
+  Asia/Yakutsk: {
+    Generic: Laikas: Jakutskas,
+    Standard: Žiemos laikas: Jakutskas,
+    Daylight: Vasaros laikas: Jakutskas
+  },
+  Asia/Khandyga: {
+    Generic: Laikas: Chandyga,
+    Standard: Žiemos laikas: Chandyga,
+    Daylight: Vasaros laikas: Chandyga
+  },
+  America/Whitehorse: {
+    Generic: Jukono laikas,
+    Standard: Jukono laikas,
+    Daylight: Jukono laikas
+  },
+  America/Dawson: {
+    Generic: Jukono laikas,
+    Standard: Jukono laikas,
+    Daylight: Jukono laikas
+  },
+  Iceland: {
+    Generic: Grinvičo laikas,
+    Standard: Grinvičo laikas,
+    Daylight: Grinvičo laikas
+  },
+  Africa/Timbuktu: {
+    Generic: Grinvičo laikas,
+    Standard: Grinvičo laikas,
+    Daylight: Grinvičo laikas
+  },
+  Egypt: {
+    Generic: Rytų Europos laikas,
+    Standard: Rytų Europos žiemos laikas,
+    Daylight: Rytų Europos vasaros laikas
+  },
+  Africa/Asmara: {
+    Generic: Rytų Afrikos laikas,
+    Standard: Rytų Afrikos laikas,
+    Daylight: Rytų Afrikos laikas
+  },
+  Libya: {
+    Generic: Rytų Europos laikas,
+    Standard: Rytų Europos žiemos laikas,
+    Daylight: Rytų Europos vasaros laikas
+  },
+  America/Atka: {
+    Generic: Havajų-Aleutų laikas,
+    Standard: Havajų–Aleutų žiemos laikas,
+    Daylight: Havajų–Aleutų vasaros laikas
+  },
+  US/Aleutian: {
+    Generic: Havajų-Aleutų laikas,
+    Standard: Havajų–Aleutų žiemos laikas,
+    Daylight: Havajų–Aleutų vasaros laikas
+  },
+  US/Alaska: {
+    Generic: Aliaskos laikas,
+    Standard: Aliaskos žiemos laikas,
+    Daylight: Aliaskos vasaros laikas
+  },
+  America/Argentina/Buenos_Aires: {
+    Generic: Argentinos laikas,
+    Standard: Argentinos žiemos laikas,
+    Daylight: Argentinos vasaros laikas
+  },
+  America/Argentina/Catamarca: {
+    Generic: Argentinos laikas,
+    Standard: Argentinos žiemos laikas,
+    Daylight: Argentinos vasaros laikas
+  },
+  America/Argentina/ComodRivadavia: {
+    Generic: Argentinos laikas,
+    Standard: Argentinos žiemos laikas,
+    Daylight: Argentinos vasaros laikas
+  },
+  America/Argentina/Cordoba: {
+    Generic: Argentinos laikas,
+    Standard: Argentinos žiemos laikas,
+    Daylight: Argentinos vasaros laikas
+  },
+  America/Rosario: {
+    Generic: Argentinos laikas,
+    Standard: Argentinos žiemos laikas,
+    Daylight: Argentinos vasaros laikas
+  },
+  America/Argentina/Jujuy: {
+    Generic: Argentinos laikas,
+    Standard: Argentinos žiemos laikas,
+    Daylight: Argentinos vasaros laikas
+  },
+  America/Argentina/Mendoza: {
+    Generic: Argentinos laikas,
+    Standard: Argentinos žiemos laikas,
+    Daylight: Argentinos vasaros laikas
+  },
+  US/Central: {
+    Generic: Šiaurės Amerikos centro laikas,
+    Standard: Šiaurės Amerikos centro žiemos laikas,
+    Daylight: Šiaurės Amerikos centro vasaros laikas
+  },
+  America/Shiprock: {
+    Generic: Šiaurės Amerikos kalnų laikas,
+    Standard: Šiaurės Amerikos kalnų žiemos laikas,
+    Daylight: Šiaurės Amerikos kalnų vasaros laikas
+  },
+  Navajo: {
+    Generic: Šiaurės Amerikos kalnų laikas,
+    Standard: Šiaurės Amerikos kalnų žiemos laikas,
+    Daylight: Šiaurės Amerikos kalnų vasaros laikas
+  },
+  US/Mountain: {
+    Generic: Šiaurės Amerikos kalnų laikas,
+    Standard: Šiaurės Amerikos kalnų žiemos laikas,
+    Daylight: Šiaurės Amerikos kalnų vasaros laikas
+  },
+  US/Michigan: {
+    Generic: Šiaurės Amerikos rytų laikas,
+    Standard: Šiaurės Amerikos rytų žiemos laikas,
+    Daylight: Šiaurės Amerikos rytų vasaros laikas
+  },
+  Canada/Mountain: {
+    Generic: Šiaurės Amerikos kalnų laikas,
+    Standard: Šiaurės Amerikos kalnų žiemos laikas,
+    Daylight: Šiaurės Amerikos kalnų vasaros laikas
+  },
+  Canada/Atlantic: {
+    Generic: Atlanto laikas,
+    Standard: Atlanto žiemos laikas,
+    Daylight: Atlanto vasaros laikas
+  },
+  Cuba: {
+    Generic: Kubos laikas,
+    Standard: Kubos žiemos laikas,
+    Daylight: Kubos vasaros laikas
+  },
+  America/Indiana/Indianapolis: {
+    Generic: Šiaurės Amerikos rytų laikas,
+    Standard: Šiaurės Amerikos rytų žiemos laikas,
+    Daylight: Šiaurės Amerikos rytų vasaros laikas
+  },
+  US/East-Indiana: {
+    Generic: Šiaurės Amerikos rytų laikas,
+    Standard: Šiaurės Amerikos rytų žiemos laikas,
+    Daylight: Šiaurės Amerikos rytų vasaros laikas
+  },
+  America/Knox_IN: {
+    Generic: Šiaurės Amerikos centro laikas,
+    Standard: Šiaurės Amerikos centro žiemos laikas,
+    Daylight: Šiaurės Amerikos centro vasaros laikas
+  },
+  US/Indiana-Starke: {
+    Generic: Šiaurės Amerikos centro laikas,
+    Standard: Šiaurės Amerikos centro žiemos laikas,
+    Daylight: Šiaurės Amerikos centro vasaros laikas
+  },
+  Jamaica: {
+    Generic: Šiaurės Amerikos rytų laikas,
+    Standard: Šiaurės Amerikos rytų žiemos laikas,
+    Daylight: Šiaurės Amerikos rytų vasaros laikas
+  },
+  America/Kentucky/Louisville: {
+    Generic: Šiaurės Amerikos rytų laikas,
+    Standard: Šiaurės Amerikos rytų žiemos laikas,
+    Daylight: Šiaurės Amerikos rytų vasaros laikas
+  },
+  US/Pacific: {
+    Generic: Šiaurės Amerikos Ramiojo vandenyno laikas,
+    Standard: Šiaurės Amerikos Ramiojo vandenyno žiemos laikas,
+    Daylight: Šiaurės Amerikos Ramiojo vandenyno vasaros laikas
+  },
+  Brazil/West: {
+    Generic: Amazonės laikas,
+    Standard: Amazonės žiemos laikas,
+    Daylight: Amazonės vasaros laikas
+  },
+  Mexico/BajaSur: {
+    Generic: Meksikos Ramiojo vandenyno laikas,
+    Standard: Meksikos Ramiojo vandenyno žiemos laikas,
+    Daylight: Meksikos Ramiojo vandenyno vasaros laikas
+  },
+  Mexico/General: {
+    Generic: Šiaurės Amerikos centro laikas,
+    Standard: Šiaurės Amerikos centro žiemos laikas,
+    Daylight: Šiaurės Amerikos centro vasaros laikas
+  },
+  US/Eastern: {
+    Generic: Šiaurės Amerikos rytų laikas,
+    Standard: Šiaurės Amerikos rytų žiemos laikas,
+    Daylight: Šiaurės Amerikos rytų vasaros laikas
+  },
+  Brazil/DeNoronha: {
+    Generic: Fernando de Noronjos laikas,
+    Standard: Fernando de Noronjos žiemos laikas,
+    Daylight: Fernando de Noronjos vasaros laikas
+  },
+  America/Nuuk: {
+    Generic: Grenlandijos vakarų laikas,
+    Standard: Grenlandijos vakarų žiemos laikas,
+    Daylight: Grenlandijos vakarų vasaros laikas
+  },
+  America/Atikokan: {
+    Generic: Šiaurės Amerikos rytų laikas,
+    Standard: Šiaurės Amerikos rytų žiemos laikas,
+    Daylight: Šiaurės Amerikos rytų vasaros laikas
+  },
+  US/Arizona: {
+    Generic: Šiaurės Amerikos kalnų laikas,
+    Standard: Šiaurės Amerikos kalnų žiemos laikas,
+    Daylight: Šiaurės Amerikos kalnų vasaros laikas
+  },
+  America/Virgin: {
+    Generic: Atlanto laikas,
+    Standard: Atlanto žiemos laikas,
+    Daylight: Atlanto vasaros laikas
+  },
+  Canada/Saskatchewan: {
+    Generic: Šiaurės Amerikos centro laikas,
+    Standard: Šiaurės Amerikos centro žiemos laikas,
+    Daylight: Šiaurės Amerikos centro vasaros laikas
+  },
+  America/Porto_Acre: {
+    Generic: Ako laikas,
+    Standard: Ako standartinis laikas,
+    Daylight: Ako vasaros laikas
+  },
+  Brazil/Acre: {
+    Generic: Ako laikas,
+    Standard: Ako standartinis laikas,
+    Daylight: Ako vasaros laikas
+  },
+  Chile/Continental: {
+    Generic: Čilės laikas,
+    Standard: Čilės žiemos laikas,
+    Daylight: Čilės vasaros laikas
+  },
+  Brazil/East: {
+    Generic: Brazilijos laikas,
+    Standard: Brazilijos žiemos laikas,
+    Daylight: Brazilijos vasaros laikas
+  },
+  Canada/Newfoundland: {
+    Generic: Niufaundlendo laikas,
+    Standard: Niufaundlendo žiemos laikas,
+    Daylight: Niufaundlendo vasaros laikas
+  },
+  America/Ensenada: {
+    Generic: Šiaurės Amerikos Ramiojo vandenyno laikas,
+    Standard: Šiaurės Amerikos Ramiojo vandenyno žiemos laikas,
+    Daylight: Šiaurės Amerikos Ramiojo vandenyno vasaros laikas
+  },
+  Mexico/BajaNorte: {
+    Generic: Šiaurės Amerikos Ramiojo vandenyno laikas,
+    Standard: Šiaurės Amerikos Ramiojo vandenyno žiemos laikas,
+    Daylight: Šiaurės Amerikos Ramiojo vandenyno vasaros laikas
+  },
+  Canada/Eastern: {
+    Generic: Šiaurės Amerikos rytų laikas,
+    Standard: Šiaurės Amerikos rytų žiemos laikas,
+    Daylight: Šiaurės Amerikos rytų vasaros laikas
+  },
+  Canada/Pacific: {
+    Generic: Šiaurės Amerikos Ramiojo vandenyno laikas,
+    Standard: Šiaurės Amerikos Ramiojo vandenyno žiemos laikas,
+    Daylight: Šiaurės Amerikos Ramiojo vandenyno vasaros laikas
+  },
+  Canada/Yukon: {
+    Generic: Jukono laikas,
+    Standard: Jukono laikas,
+    Daylight: Jukono laikas
+  },
+  Canada/Central: {
+    Generic: Šiaurės Amerikos centro laikas,
+    Standard: Šiaurės Amerikos centro žiemos laikas,
+    Daylight: Šiaurės Amerikos centro vasaros laikas
+  },
+  Asia/Ashkhabad: {
+    Generic: Turkmėnistano laikas,
+    Standard: Turkmėnistano žiemos laikas,
+    Daylight: Turkmėnistano vasaros laikas
+  },
+  Asia/Dacca: {
+    Generic: Bangladešo laikas,
+    Standard: Bangladešo žiemos laikas,
+    Daylight: Bangladešo vasaros laikas
+  },
+  Asia/Ho_Chi_Minh: {
+    Generic: Indokinijos laikas,
+    Standard: Indokinijos laikas,
+    Daylight: Indokinijos laikas
+  },
+  Hongkong: {
+    Generic: Honkongo laikas,
+    Standard: Honkongo žiemos laikas,
+    Daylight: Honkongo vasaros laikas
+  },
+  Asia/Tel_Aviv: {
+    Generic: Izraelio laikas,
+    Standard: Izraelio žiemos laikas,
+    Daylight: Izraelio vasaros laikas
+  },
+  Israel: {
+    Generic: Izraelio laikas,
+    Standard: Izraelio žiemos laikas,
+    Daylight: Izraelio vasaros laikas
+  },
+  Asia/Kathmandu: {
+    Generic: Nepalo laikas,
+    Standard: Nepalo laikas,
+    Daylight: Nepalo laikas
+  },
+  Asia/Kolkata: {
+    Generic: Indijos laikas,
+    Standard: Indijos laikas,
+    Daylight: Indijos laikas
+  },
+  Asia/Macao: {
+    Generic: Kinijos laikas,
+    Standard: Kinijos žiemos laikas,
+    Daylight: Kinijos vasaros laikas
+  },
+  Asia/Ujung_Pandang: {
+    Generic: Centrinės Indonezijos laikas,
+    Standard: Centrinės Indonezijos laikas,
+    Daylight: Centrinės Indonezijos laikas
+  },
+  Europe/Nicosia: {
+    Generic: Rytų Europos laikas,
+    Standard: Rytų Europos žiemos laikas,
+    Daylight: Rytų Europos vasaros laikas
+  },
+  ROK: {
+    Generic: Korėjos laikas,
+    Standard: Korėjos žiemos laikas,
+    Daylight: Korėjos vasaros laikas
+  },
+  Asia/Chongqing: {
+    Generic: Kinijos laikas,
+    Standard: Kinijos žiemos laikas,
+    Daylight: Kinijos vasaros laikas
+  },
+  Asia/Chungking: {
+    Generic: Kinijos laikas,
+    Standard: Kinijos žiemos laikas,
+    Daylight: Kinijos vasaros laikas
+  },
+  Asia/Harbin: {
+    Generic: Kinijos laikas,
+    Standard: Kinijos žiemos laikas,
+    Daylight: Kinijos vasaros laikas
+  },
+  PRC: {
+    Generic: Kinijos laikas,
+    Standard: Kinijos žiemos laikas,
+    Daylight: Kinijos vasaros laikas
+  },
+  Singapore: {
+    Generic: Singapūro laikas,
+    Standard: Singapūro laikas,
+    Daylight: Singapūro laikas
+  },
+  ROC: {
+    Generic: Taipėjaus laikas,
+    Standard: Taipėjaus žiemos laikas,
+    Daylight: Taipėjaus vasaros laikas
+  },
+  Iran: {
+    Generic: Irano laikas,
+    Standard: Irano žiemos laikas,
+    Daylight: Irano vasaros laikas
+  },
+  Asia/Thimbu: {
+    Generic: Butano laikas,
+    Standard: Butano laikas,
+    Daylight: Butano laikas
+  },
+  Japan: {
+    Generic: Japonijos laikas,
+    Standard: Japonijos žiemos laikas,
+    Daylight: Japonijos vasaros laikas
+  },
+  Asia/Ulan_Bator: {
+    Generic: Ulan Batoro laikas,
+    Standard: Ulan Batoro žiemos laikas,
+    Daylight: Ulan Batoro vasaros laikas
+  },
+  Asia/Kashgar: {
+    Generic: Laikas: Kinija,
+    Standard: Žiemos laikas: Kinija,
+    Daylight: Vasaros laikas: Kinija
+  },
+  Asia/Yangon: {
+    Generic: Mianmaro laikas,
+    Standard: Mianmaro laikas,
+    Daylight: Mianmaro laikas
+  },
+  WET: {
+    Generic: Vakarų Europos laikas,
+    Standard: Vakarų Europos žiemos laikas,
+    Daylight: Vakarų Europos vasaros laikas
+  },
+  Atlantic/Faroe: {
+    Generic: Vakarų Europos laikas,
+    Standard: Vakarų Europos žiemos laikas,
+    Daylight: Vakarų Europos vasaros laikas
+  },
+  Australia/South: {
+    Generic: Centrinės Australijos laikas,
+    Standard: Centrinės Australijos žiemos laikas,
+    Daylight: Centrinės Australijos vasaros laikas
+  },
+  Australia/Queensland: {
+    Generic: Rytų Australijos laikas,
+    Standard: Rytų Australijos žiemos laikas,
+    Daylight: Rytų Australijos vasaros laikas
+  },
+  Australia/Yancowinna: {
+    Generic: Centrinės Australijos laikas,
+    Standard: Centrinės Australijos žiemos laikas,
+    Daylight: Centrinės Australijos vasaros laikas
+  },
+  Australia/North: {
+    Generic: Centrinės Australijos laikas,
+    Standard: Centrinės Australijos žiemos laikas,
+    Daylight: Centrinės Australijos vasaros laikas
+  },
+  Australia/Tasmania: {
+    Generic: Rytų Australijos laikas,
+    Standard: Rytų Australijos žiemos laikas,
+    Daylight: Rytų Australijos vasaros laikas
+  },
+  Australia/LHI: {
+    Generic: Lordo Hau laikas,
+    Standard: Lordo Hau žiemos laikas,
+    Daylight: Lordo Hau vasaros laikas
+  },
+  Australia/Victoria: {
+    Generic: Rytų Australijos laikas,
+    Standard: Rytų Australijos žiemos laikas,
+    Daylight: Rytų Australijos vasaros laikas
+  },
+  Australia/West: {
+    Generic: Vakarų Australijos laikas,
+    Standard: Vakarų Australijos žiemos laikas,
+    Daylight: Vakarų Australijos vasaros laikas
+  },
+  Australia/ACT: {
+    Generic: Rytų Australijos laikas,
+    Standard: Rytų Australijos žiemos laikas,
+    Daylight: Rytų Australijos vasaros laikas
+  },
+  Australia/Canberra: {
+    Generic: Rytų Australijos laikas,
+    Standard: Rytų Australijos žiemos laikas,
+    Daylight: Rytų Australijos vasaros laikas
+  },
+  Australia/NSW: {
+    Generic: Rytų Australijos laikas,
+    Standard: Rytų Australijos žiemos laikas,
+    Daylight: Rytų Australijos vasaros laikas
+  },
+  HST: {
+    Generic: pasaulio suderintasis laikas -10,
+    Standard: pasaulio suderintasis laikas -10,
+    Daylight: pasaulio suderintasis laikas -10
+  },
+  EST: {
+    Generic: pasaulio suderintasis laikas -5,
+    Standard: pasaulio suderintasis laikas -5,
+    Daylight: pasaulio suderintasis laikas -5
+  },
+  MST: {
+    Generic: pasaulio suderintasis laikas -7,
+    Standard: pasaulio suderintasis laikas -7,
+    Daylight: pasaulio suderintasis laikas -7
+  },
+  Etc/GMT+0: {
+    Generic: Grinvičo laikas,
+    Standard: Grinvičo laikas,
+    Daylight: Grinvičo laikas
+  },
+  Etc/GMT-0: {
+    Generic: Grinvičo laikas,
+    Standard: Grinvičo laikas,
+    Daylight: Grinvičo laikas
+  },
+  Etc/GMT0: {
+    Generic: Grinvičo laikas,
+    Standard: Grinvičo laikas,
+    Daylight: Grinvičo laikas
+  },
+  Etc/Greenwich: {
+    Generic: Grinvičo laikas,
+    Standard: Grinvičo laikas,
+    Daylight: Grinvičo laikas
+  },
+  GMT: {
+    Generic: Grinvičo laikas,
+    Standard: Grinvičo laikas,
+    Daylight: Grinvičo laikas
+  },
+  GMT+0: {
+    Generic: Grinvičo laikas,
+    Standard: Grinvičo laikas,
+    Daylight: Grinvičo laikas
+  },
+  GMT-0: {
+    Generic: Grinvičo laikas,
+    Standard: Grinvičo laikas,
+    Daylight: Grinvičo laikas
+  },
+  GMT0: {
+    Generic: Grinvičo laikas,
+    Standard: Grinvičo laikas,
+    Daylight: Grinvičo laikas
+  },
+  Greenwich: {
+    Generic: Grinvičo laikas,
+    Standard: Grinvičo laikas,
+    Daylight: Grinvičo laikas
+  },
+  Etc/UCT: {
+    Generic: pasaulio suderintasis laikas,
+    Standard: pasaulio suderintasis laikas,
+    Daylight: pasaulio suderintasis laikas
+  },
+  Etc/Universal: {
+    Generic: pasaulio suderintasis laikas,
+    Standard: pasaulio suderintasis laikas,
+    Daylight: pasaulio suderintasis laikas
+  },
+  Etc/Zulu: {
+    Generic: pasaulio suderintasis laikas,
+    Standard: pasaulio suderintasis laikas,
+    Daylight: pasaulio suderintasis laikas
+  },
+  UCT: {
+    Generic: pasaulio suderintasis laikas,
+    Standard: pasaulio suderintasis laikas,
+    Daylight: pasaulio suderintasis laikas
+  },
+  UTC: {
+    Generic: pasaulio suderintasis laikas,
+    Standard: pasaulio suderintasis laikas,
+    Daylight: pasaulio suderintasis laikas
+  },
+  Universal: {
+    Generic: pasaulio suderintasis laikas,
+    Standard: pasaulio suderintasis laikas,
+    Daylight: pasaulio suderintasis laikas
+  },
+  Zulu: {
+    Generic: pasaulio suderintasis laikas,
+    Standard: pasaulio suderintasis laikas,
+    Daylight: pasaulio suderintasis laikas
+  },
+  Atlantic/Jan_Mayen: {
+    Generic: Vidurio Europos laikas,
+    Standard: Vidurio Europos žiemos laikas,
+    Daylight: Vidurio Europos vasaros laikas
+  },
+  MET: {
+    Generic: Vidurio Europos laikas,
+    Standard: Vidurio Europos žiemos laikas,
+    Daylight: Vidurio Europos vasaros laikas
+  },
+  EET: {
+    Generic: Rytų Europos laikas,
+    Standard: Rytų Europos žiemos laikas,
+    Daylight: Rytų Europos vasaros laikas
+  },
+  Europe/Tiraspol: {
+    Generic: Rytų Europos laikas,
+    Standard: Rytų Europos žiemos laikas,
+    Daylight: Rytų Europos vasaros laikas
+  },
+  Eire: {
+    Generic: Laikas: Airija,
+    Standard: Grinvičo laikas,
+    Daylight: Airijos vasaros laikas
+  },
+  Asia/Istanbul: {
+    Generic: Laikas: Turkija,
+    Standard: Žiemos laikas: Turkija,
+    Daylight: Vasaros laikas: Turkija
+  },
+  Turkey: {
+    Generic: Laikas: Turkija,
+    Standard: Žiemos laikas: Turkija,
+    Daylight: Vasaros laikas: Turkija
+  },
+  Europe/Kyiv: {
+    Generic: Rytų Europos laikas,
+    Standard: Rytų Europos žiemos laikas,
+    Daylight: Rytų Europos vasaros laikas
+  },
+  Portugal: {
+    Generic: Vakarų Europos laikas,
+    Standard: Vakarų Europos žiemos laikas,
+    Daylight: Vakarų Europos vasaros laikas
+  },
+  Europe/Belfast: {
+    Generic: Laikas: Jungtinė Karalystė,
+    Standard: Grinvičo laikas,
+    Daylight: Britanijos vasaros laikas
+  },
+  GB: {
+    Generic: Laikas: Jungtinė Karalystė,
+    Standard: Grinvičo laikas,
+    Daylight: Britanijos vasaros laikas
+  },
+  GB-Eire: {
+    Generic: Laikas: Jungtinė Karalystė,
+    Standard: Grinvičo laikas,
+    Daylight: Britanijos vasaros laikas
+  },
+  W-SU: {
+    Generic: Laikas: Maskva,
+    Standard: Žiemos laikas: Maskva,
+    Daylight: Vasaros laikas: Maskva
+  },
+  CET: {
+    Generic: Vidurio Europos laikas,
+    Standard: Vidurio Europos žiemos laikas,
+    Daylight: Vidurio Europos vasaros laikas
+  },
+  Poland: {
+    Generic: Vidurio Europos laikas,
+    Standard: Vidurio Europos žiemos laikas,
+    Daylight: Vidurio Europos vasaros laikas
+  },
+  Antarctica/South_Pole: {
+    Generic: Naujosios Zelandijos laikas,
+    Standard: Naujosios Zelandijos žiemos laikas,
+    Daylight: Naujosios Zelandijos vasaros laikas
+  },
+  NZ: {
+    Generic: Naujosios Zelandijos laikas,
+    Standard: Naujosios Zelandijos žiemos laikas,
+    Daylight: Naujosios Zelandijos vasaros laikas
+  },
+  NZ-CHAT: {
+    Generic: Čatamo laikas,
+    Standard: Čatamo žiemos laikas,
+    Daylight: Čatamo vasaros laikas
+  },
+  Chile/EasterIsland: {
+    Generic: Velykų Salos laikas,
+    Standard: Velykų salos žiemos laikas,
+    Daylight: Velykų Salos vasaros laikas
+  },
+  Pacific/Pohnpei: {
+    Generic: Ponapės laikas,
+    Standard: Ponapės laikas,
+    Daylight: Ponapės laikas
+  },
+  US/Hawaii: {
+    Generic: Havajų-Aleutų laikas,
+    Standard: Havajų–Aleutų žiemos laikas,
+    Daylight: Havajų–Aleutų vasaros laikas
+  },
+  Pacific/Kanton: {
+    Generic: Fenikso Salų laikas,
+    Standard: Fenikso Salų laikas,
+    Daylight: Fenikso Salų laikas
+  },
+  Kwajalein: {
+    Generic: Maršalo Salų laikas,
+    Standard: Maršalo Salų laikas,
+    Daylight: Maršalo Salų laikas
+  },
+  Pacific/Samoa: {
+    Generic: Samoa laikas,
+    Standard: Samoa žiemos laikas,
+    Daylight: Samoa vasaros laikas
+  },
+  US/Samoa: {
+    Generic: Samoa laikas,
+    Standard: Samoa žiemos laikas,
+    Daylight: Samoa vasaros laikas
+  },
+  Pacific/Chuuk: {
+    Generic: Čuko laikas,
+    Standard: Čuko laikas,
+    Daylight: Čuko laikas
+  },
+  Pacific/Yap: {
+    Generic: Čuko laikas,
+    Standard: Čuko laikas,
+    Daylight: Čuko laikas
+  },
+  America/Fort_Wayne: {
+    Generic: Šiaurės Amerikos rytų laikas,
+    Standard: Šiaurės Amerikos rytų žiemos laikas,
+    Daylight: Šiaurės Amerikos rytų vasaros laikas
+  },
+  Antarctica/Troll: {
+    Generic: Grinvičo laikas,
+    Standard: Grinvičo laikas,
+    Daylight: Grinvičo laikas
   }
-]
+}

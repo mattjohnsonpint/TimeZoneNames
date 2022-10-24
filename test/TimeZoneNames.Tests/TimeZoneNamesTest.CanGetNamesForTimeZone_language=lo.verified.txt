@@ -1,4762 +1,2977 @@
-﻿[
-  {
-    Key: Africa/Abidjan,
-    Value: {
-      Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
-    }
-  },
-  {
-    Key: Africa/Accra,
-    Value: {
-      Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
-    }
-  },
-  {
-    Key: Africa/Addis_Ababa,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Africa/Algiers,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
-    }
-  },
-  {
-    Key: Africa/Asmara,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Africa/Asmera,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Africa/Bamako,
-    Value: {
-      Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
-    }
-  },
-  {
-    Key: Africa/Bangui,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ
-    }
-  },
-  {
-    Key: Africa/Banjul,
-    Value: {
-      Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
-    }
-  },
-  {
-    Key: Africa/Bissau,
-    Value: {
-      Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
-    }
-  },
-  {
-    Key: Africa/Blantyre,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
-      Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
-      Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ
-    }
-  },
-  {
-    Key: Africa/Brazzaville,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ
-    }
-  },
-  {
-    Key: Africa/Bujumbura,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
-      Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
-      Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ
-    }
-  },
-  {
-    Key: Africa/Cairo,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Africa/Casablanca,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ
-    }
-  },
-  {
-    Key: Africa/Ceuta,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
-    }
-  },
-  {
-    Key: Africa/Conakry,
-    Value: {
-      Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
-    }
-  },
-  {
-    Key: Africa/Dakar,
-    Value: {
-      Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
-    }
-  },
-  {
-    Key: Africa/Dar_es_Salaam,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Africa/Djibouti,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Africa/Douala,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ
-    }
-  },
-  {
-    Key: Africa/El_Aaiun,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ
-    }
-  },
-  {
-    Key: Africa/Freetown,
-    Value: {
-      Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
-    }
-  },
-  {
-    Key: Africa/Gaborone,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
-      Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
-      Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ
-    }
-  },
-  {
-    Key: Africa/Harare,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
-      Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
-      Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ
-    }
-  },
-  {
-    Key: Africa/Johannesburg,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ໃຕ້,
-      Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ໃຕ້,
-      Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ໃຕ້
-    }
-  },
-  {
-    Key: Africa/Juba,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
-      Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
-      Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ
-    }
-  },
-  {
-    Key: Africa/Kampala,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Africa/Khartoum,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
-      Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
-      Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ
-    }
-  },
-  {
-    Key: Africa/Kigali,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
-      Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
-      Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ
-    }
-  },
-  {
-    Key: Africa/Kinshasa,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ
-    }
-  },
-  {
-    Key: Africa/Lagos,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ
-    }
-  },
-  {
-    Key: Africa/Libreville,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ
-    }
-  },
-  {
-    Key: Africa/Lome,
-    Value: {
-      Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
-    }
-  },
-  {
-    Key: Africa/Luanda,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ
-    }
-  },
-  {
-    Key: Africa/Lubumbashi,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
-      Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
-      Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ
-    }
-  },
-  {
-    Key: Africa/Lusaka,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
-      Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
-      Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ
-    }
-  },
-  {
-    Key: Africa/Malabo,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ
-    }
-  },
-  {
-    Key: Africa/Maputo,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
-      Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
-      Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ
-    }
-  },
-  {
-    Key: Africa/Maseru,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ໃຕ້,
-      Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ໃຕ້,
-      Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ໃຕ້
-    }
-  },
-  {
-    Key: Africa/Mbabane,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ໃຕ້,
-      Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ໃຕ້,
-      Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ໃຕ້
-    }
-  },
-  {
-    Key: Africa/Mogadishu,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Africa/Monrovia,
-    Value: {
-      Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
-    }
-  },
-  {
-    Key: Africa/Nairobi,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Africa/Ndjamena,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ
-    }
-  },
-  {
-    Key: Africa/Niamey,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ
-    }
-  },
-  {
-    Key: Africa/Nouakchott,
-    Value: {
-      Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
-    }
-  },
-  {
-    Key: Africa/Ouagadougou,
-    Value: {
-      Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
-    }
-  },
-  {
-    Key: Africa/Porto-Novo,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ
-    }
-  },
-  {
-    Key: Africa/Sao_Tome,
-    Value: {
-      Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
-    }
-  },
-  {
-    Key: Africa/Timbuktu,
-    Value: {
-      Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
-    }
-  },
-  {
-    Key: Africa/Tripoli,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Africa/Tunis,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
-    }
-  },
-  {
-    Key: Africa/Windhoek,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
-      Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
-      Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ
-    }
-  },
-  {
-    Key: America/Adak,
-    Value: {
-      Generic: ເວລາຮາວາຍ-ເອລູທຽນ,
-      Standard: ເວລາມາດຕະຖານຮາວາຍ-ເອລູທຽນ,
-      Daylight: ເວລາຕອນທ່ຽງຮາວາຍ-ເອລູທຽນ
-    }
-  },
-  {
-    Key: America/Anchorage,
-    Value: {
-      Generic: ເວລາອະລັສກາ,
-      Standard: ເວລາມາດຕະຖານອະລັສກາ,
-      Daylight: ເວລາກາງເວັນອະລັສກາ
-    }
-  },
-  {
-    Key: America/Anguilla,
-    Value: {
-      Generic: ເວລາຂອງອາແລນຕິກ,
-      Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
-      Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
-    }
-  },
-  {
-    Key: America/Antigua,
-    Value: {
-      Generic: ເວລາຂອງອາແລນຕິກ,
-      Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
-      Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
-    }
-  },
-  {
-    Key: America/Araguaina,
-    Value: {
-      Generic: ເວລາຕາມເຂດບຣາຊິເລຍ,
-      Standard: ເວລາມາດຕາຖານເບຣຊີເລຍ,
-      Daylight: ເວລາຕາມເຂດລະດູຮ້ອນຕາມເຂດບຣາຊີເລຍ
-    }
-  },
-  {
-    Key: America/Argentina/Buenos_Aires,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ເຈ​ທິ​ນາ,
-      Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເຈນ​ທິ​ນາ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ເຈນ​ທິ​ນາ
-    }
-  },
-  {
-    Key: America/Argentina/Catamarca,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ເຈ​ທິ​ນາ,
-      Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເຈນ​ທິ​ນາ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ເຈນ​ທິ​ນາ
-    }
-  },
-  {
-    Key: America/Argentina/ComodRivadavia,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ເຈ​ທິ​ນາ,
-      Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເຈນ​ທິ​ນາ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ເຈນ​ທິ​ນາ
-    }
-  },
-  {
-    Key: America/Argentina/Cordoba,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ເຈ​ທິ​ນາ,
-      Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເຈນ​ທິ​ນາ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ເຈນ​ທິ​ນາ
-    }
-  },
-  {
-    Key: America/Argentina/Jujuy,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ເຈ​ທິ​ນາ,
-      Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເຈນ​ທິ​ນາ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ເຈນ​ທິ​ນາ
-    }
-  },
-  {
-    Key: America/Argentina/La_Rioja,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ເຈ​ທິ​ນາ,
-      Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເຈນ​ທິ​ນາ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ເຈນ​ທິ​ນາ
-    }
-  },
-  {
-    Key: America/Argentina/Mendoza,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ເຈ​ທິ​ນາ,
-      Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເຈນ​ທິ​ນາ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ເຈນ​ທິ​ນາ
-    }
-  },
-  {
-    Key: America/Argentina/Rio_Gallegos,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ເຈ​ທິ​ນາ,
-      Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເຈນ​ທິ​ນາ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ເຈນ​ທິ​ນາ
-    }
-  },
-  {
-    Key: America/Argentina/Salta,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ເຈ​ທິ​ນາ,
-      Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເຈນ​ທິ​ນາ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ເຈນ​ທິ​ນາ
-    }
-  },
-  {
-    Key: America/Argentina/San_Juan,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ເຈ​ທິ​ນາ,
-      Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເຈນ​ທິ​ນາ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ເຈນ​ທິ​ນາ
-    }
-  },
-  {
-    Key: America/Argentina/San_Luis,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ເຈ​ທິ​ນາ,
-      Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເຈນ​ທິ​ນາ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ເຈນ​ທິ​ນາ
-    }
-  },
-  {
-    Key: America/Argentina/Tucuman,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ເຈ​ທິ​ນາ,
-      Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເຈນ​ທິ​ນາ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ເຈນ​ທິ​ນາ
-    }
-  },
-  {
-    Key: America/Argentina/Ushuaia,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ເຈ​ທິ​ນາ,
-      Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເຈນ​ທິ​ນາ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ເຈນ​ທິ​ນາ
-    }
-  },
-  {
-    Key: America/Aruba,
-    Value: {
-      Generic: ເວລາຂອງອາແລນຕິກ,
-      Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
-      Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
-    }
-  },
-  {
-    Key: America/Asuncion,
-    Value: {
-      Generic: ເວ​ລາ​ປາ​ຣາ​ກວຍ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ປາ​ຣາ​ກວຍ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ປາ​ຣາ​ກວຍ
-    }
-  },
-  {
-    Key: America/Atikokan,
-    Value: {
-      Generic: ເວລາຕາເວັນອອກ,
-      Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
-      Daylight: ເວລາກາງເວັນຕາເວັນອອກ
-    }
-  },
-  {
-    Key: America/Atka,
-    Value: {
-      Generic: ເວລາຮາວາຍ-ເອລູທຽນ,
-      Standard: ເວລາມາດຕະຖານຮາວາຍ-ເອລູທຽນ,
-      Daylight: ເວລາຕອນທ່ຽງຮາວາຍ-ເອລູທຽນ
-    }
-  },
-  {
-    Key: America/Bahia,
-    Value: {
-      Generic: ເວລາຕາມເຂດບຣາຊິເລຍ,
-      Standard: ເວລາມາດຕາຖານເບຣຊີເລຍ,
-      Daylight: ເວລາຕາມເຂດລະດູຮ້ອນຕາມເຂດບຣາຊີເລຍ
-    }
-  },
-  {
-    Key: America/Bahia_Banderas,
-    Value: {
-      Generic: ເວລາກາງ,
-      Standard: ເວລາມາດຕະຖານກາງ,
-      Daylight: ເວລາກາງເວັນກາງ
-    }
-  },
-  {
-    Key: America/Barbados,
-    Value: {
-      Generic: ເວລາຂອງອາແລນຕິກ,
-      Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
-      Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
-    }
-  },
-  {
-    Key: America/Belem,
-    Value: {
-      Generic: ເວລາຕາມເຂດບຣາຊິເລຍ,
-      Standard: ເວລາມາດຕາຖານເບຣຊີເລຍ,
-      Daylight: ເວລາຕາມເຂດລະດູຮ້ອນຕາມເຂດບຣາຊີເລຍ
-    }
-  },
-  {
-    Key: America/Belize,
-    Value: {
-      Generic: ເວລາກາງ,
-      Standard: ເວລາມາດຕະຖານກາງ,
-      Daylight: ເວລາກາງເວັນກາງ
-    }
-  },
-  {
-    Key: America/Blanc-Sablon,
-    Value: {
-      Generic: ເວລາຂອງອາແລນຕິກ,
-      Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
-      Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
-    }
-  },
-  {
-    Key: America/Boa_Vista,
-    Value: {
-      Generic: ເວລາຕາມເຂດອາເມຊອນ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເມ​ຊອນ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນອາ​ເມ​ຊອນ
-    }
-  },
-  {
-    Key: America/Bogota,
-    Value: {
-      Generic: ເວລາໂຄລໍາເບຍ,
-      Standard: ເວລາມາດຕະຖານໂຄລຳເບຍ,
-      Daylight: ເວລາລະດູຮ້ອນໂຄລໍາເບຍ
-    }
-  },
-  {
-    Key: America/Boise,
-    Value: {
-      Generic: ເວລາແຖບພູເຂົາ,
-      Standard: ເວລາມາດຕະຖານແຖບພູເຂົາ,
-      Daylight: ເວລາກາງເວັນແຖບພູເຂົາ
-    }
-  },
-  {
-    Key: America/Buenos_Aires,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ເຈ​ທິ​ນາ,
-      Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເຈນ​ທິ​ນາ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ເຈນ​ທິ​ນາ
-    }
-  },
-  {
-    Key: America/Cambridge_Bay,
-    Value: {
-      Generic: ເວລາແຖບພູເຂົາ,
-      Standard: ເວລາມາດຕະຖານແຖບພູເຂົາ,
-      Daylight: ເວລາກາງເວັນແຖບພູເຂົາ
-    }
-  },
-  {
-    Key: America/Campo_Grande,
-    Value: {
-      Generic: ເວລາຕາມເຂດອາເມຊອນ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເມ​ຊອນ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນອາ​ເມ​ຊອນ
-    }
-  },
-  {
-    Key: America/Cancun,
-    Value: {
-      Generic: ເວລາຕາເວັນອອກ,
-      Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
-      Daylight: ເວລາກາງເວັນຕາເວັນອອກ
-    }
-  },
-  {
-    Key: America/Caracas,
-    Value: {
-      Generic: ເວ​ລາ​ເວ​ເນ​ຊູ​ເອ​ລາ,
-      Standard: ເວ​ລາ​ເວ​ເນ​ຊູ​ເອ​ລາ,
-      Daylight: ເວ​ລາ​ເວ​ເນ​ຊູ​ເອ​ລາ
-    }
-  },
-  {
-    Key: America/Catamarca,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ເຈ​ທິ​ນາ,
-      Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເຈນ​ທິ​ນາ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ເຈນ​ທິ​ນາ
-    }
-  },
-  {
-    Key: America/Cayenne,
-    Value: {
-      Generic: ເວ​ລາ​ເຟ​ຣນ​ຊ໌​ເກຍ​ນາ,
-      Standard: ເວ​ລາ​ເຟ​ຣນ​ຊ໌​ເກຍ​ນາ,
-      Daylight: ເວ​ລາ​ເຟ​ຣນ​ຊ໌​ເກຍ​ນາ
-    }
-  },
-  {
-    Key: America/Cayman,
-    Value: {
-      Generic: ເວລາຕາເວັນອອກ,
-      Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
-      Daylight: ເວລາກາງເວັນຕາເວັນອອກ
-    }
-  },
-  {
-    Key: America/Chicago,
-    Value: {
-      Generic: ເວລາກາງ,
-      Standard: ເວລາມາດຕະຖານກາງ,
-      Daylight: ເວລາກາງເວັນກາງ
-    }
-  },
-  {
-    Key: America/Chihuahua,
-    Value: {
-      Generic: ເວລາແປຊິຟິກເມັກຊິກັນ,
-      Standard: ເວລາມາດຕະຖານແປຊິຟິກເມັກຊິກັນ,
-      Daylight: ເວລາກາງເວັນແປຊິຟິກເມັກຊິກັນ
-    }
-  },
-  {
-    Key: America/Coral_Harbour,
-    Value: {
-      Generic: ເວລາຕາເວັນອອກ,
-      Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
-      Daylight: ເວລາກາງເວັນຕາເວັນອອກ
-    }
-  },
-  {
-    Key: America/Cordoba,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ເຈ​ທິ​ນາ,
-      Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເຈນ​ທິ​ນາ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ເຈນ​ທິ​ນາ
-    }
-  },
-  {
-    Key: America/Costa_Rica,
-    Value: {
-      Generic: ເວລາກາງ,
-      Standard: ເວລາມາດຕະຖານກາງ,
-      Daylight: ເວລາກາງເວັນກາງ
-    }
-  },
-  {
-    Key: America/Creston,
-    Value: {
-      Generic: ເວລາແຖບພູເຂົາ,
-      Standard: ເວລາມາດຕະຖານແຖບພູເຂົາ,
-      Daylight: ເວລາກາງເວັນແຖບພູເຂົາ
-    }
-  },
-  {
-    Key: America/Cuiaba,
-    Value: {
-      Generic: ເວລາຕາມເຂດອາເມຊອນ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເມ​ຊອນ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນອາ​ເມ​ຊອນ
-    }
-  },
-  {
-    Key: America/Curacao,
-    Value: {
-      Generic: ເວລາຂອງອາແລນຕິກ,
-      Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
-      Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
-    }
-  },
-  {
-    Key: America/Danmarkshavn,
-    Value: {
-      Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
-    }
-  },
-  {
-    Key: America/Dawson,
-    Value: {
-      Generic: ເວລາຢູຄອນ,
-      Standard: ເວລາຢູຄອນ,
-      Daylight: ເວລາຢູຄອນ
-    }
-  },
-  {
-    Key: America/Dawson_Creek,
-    Value: {
-      Generic: ເວລາແຖບພູເຂົາ,
-      Standard: ເວລາມາດຕະຖານແຖບພູເຂົາ,
-      Daylight: ເວລາກາງເວັນແຖບພູເຂົາ
-    }
-  },
-  {
-    Key: America/Denver,
-    Value: {
-      Generic: ເວລາແຖບພູເຂົາ,
-      Standard: ເວລາມາດຕະຖານແຖບພູເຂົາ,
-      Daylight: ເວລາກາງເວັນແຖບພູເຂົາ
-    }
-  },
-  {
-    Key: America/Detroit,
-    Value: {
-      Generic: ເວລາຕາເວັນອອກ,
-      Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
-      Daylight: ເວລາກາງເວັນຕາເວັນອອກ
-    }
-  },
-  {
-    Key: America/Dominica,
-    Value: {
-      Generic: ເວລາຂອງອາແລນຕິກ,
-      Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
-      Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
-    }
-  },
-  {
-    Key: America/Edmonton,
-    Value: {
-      Generic: ເວລາແຖບພູເຂົາ,
-      Standard: ເວລາມາດຕະຖານແຖບພູເຂົາ,
-      Daylight: ເວລາກາງເວັນແຖບພູເຂົາ
-    }
-  },
-  {
-    Key: America/Eirunepe,
-    Value: {
-      Generic: ເວລາຂອງອາເກຣ,
-      Standard: ເວລາມາດຕະຖານຂອງອາເກຣ,
-      Daylight: ເວລາລະດູຮ້ອນຂອງອາເກຣ
-    }
-  },
-  {
-    Key: America/El_Salvador,
-    Value: {
-      Generic: ເວລາກາງ,
-      Standard: ເວລາມາດຕະຖານກາງ,
-      Daylight: ເວລາກາງເວັນກາງ
-    }
-  },
-  {
-    Key: America/Ensenada,
-    Value: {
-      Generic: ເວລາແປຊິຟິກ,
-      Standard: ເວລາມາດຕະຖານແປຊິຟິກ,
-      Daylight: ເວລາກາງເວັນແປຊິຟິກ
-    }
-  },
-  {
-    Key: America/Fort_Nelson,
-    Value: {
-      Generic: ເວລາແຖບພູເຂົາ,
-      Standard: ເວລາມາດຕະຖານແຖບພູເຂົາ,
-      Daylight: ເວລາກາງເວັນແຖບພູເຂົາ
-    }
-  },
-  {
-    Key: America/Fort_Wayne,
-    Value: {
-      Generic: ເວລາຕາເວັນອອກ,
-      Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
-      Daylight: ເວລາກາງເວັນຕາເວັນອອກ
-    }
-  },
-  {
-    Key: America/Fortaleza,
-    Value: {
-      Generic: ເວລາຕາມເຂດບຣາຊິເລຍ,
-      Standard: ເວລາມາດຕາຖານເບຣຊີເລຍ,
-      Daylight: ເວລາຕາມເຂດລະດູຮ້ອນຕາມເຂດບຣາຊີເລຍ
-    }
-  },
-  {
-    Key: America/Glace_Bay,
-    Value: {
-      Generic: ເວລາຂອງອາແລນຕິກ,
-      Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
-      Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
-    }
-  },
-  {
-    Key: America/Godthab,
-    Value: {
-      Generic: ເວລາກຣີນແລນຕາເວັນຕົກ,
-      Standard: ເວລາມາດຕະຖານກຣີນແລນຕາເວັນຕົກ,
-      Daylight: ເວລາຕອນທ່ຽງກຣີນແລນຕາເວັນຕົກ
-    }
-  },
-  {
-    Key: America/Goose_Bay,
-    Value: {
-      Generic: ເວລາຂອງອາແລນຕິກ,
-      Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
-      Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
-    }
-  },
-  {
-    Key: America/Grand_Turk,
-    Value: {
-      Generic: ເວລາຕາເວັນອອກ,
-      Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
-      Daylight: ເວລາກາງເວັນຕາເວັນອອກ
-    }
-  },
-  {
-    Key: America/Grenada,
-    Value: {
-      Generic: ເວລາຂອງອາແລນຕິກ,
-      Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
-      Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
-    }
-  },
-  {
-    Key: America/Guadeloupe,
-    Value: {
-      Generic: ເວລາຂອງອາແລນຕິກ,
-      Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
-      Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
-    }
-  },
-  {
-    Key: America/Guatemala,
-    Value: {
-      Generic: ເວລາກາງ,
-      Standard: ເວລາມາດຕະຖານກາງ,
-      Daylight: ເວລາກາງເວັນກາງ
-    }
-  },
-  {
-    Key: America/Guayaquil,
-    Value: {
-      Generic: ເວ​ລາ​ເອ​ກົວ​ດໍ,
-      Standard: ເວ​ລາ​ເອ​ກົວ​ດໍ,
-      Daylight: ເວ​ລາ​ເອ​ກົວ​ດໍ
-    }
-  },
-  {
-    Key: America/Guyana,
-    Value: {
-      Generic: ເວລາກາຍອານາ,
-      Standard: ເວລາກາຍອານາ,
-      Daylight: ເວລາກາຍອານາ
-    }
-  },
-  {
-    Key: America/Halifax,
-    Value: {
-      Generic: ເວລາຂອງອາແລນຕິກ,
-      Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
-      Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
-    }
-  },
-  {
-    Key: America/Havana,
-    Value: {
-      Generic: ເວລາຄິວບາ,
-      Standard: ເວລາມາດຕະຖານຂອງຄິວບາ,
-      Daylight: ເວລາກາງເວັນຄິວບາ
-    }
-  },
-  {
-    Key: America/Hermosillo,
-    Value: {
-      Generic: ເວລາແປຊິຟິກເມັກຊິກັນ,
-      Standard: ເວລາມາດຕະຖານແປຊິຟິກເມັກຊິກັນ,
-      Daylight: ເວລາກາງເວັນແປຊິຟິກເມັກຊິກັນ
-    }
-  },
-  {
-    Key: America/Indiana/Indianapolis,
-    Value: {
-      Generic: ເວລາຕາເວັນອອກ,
-      Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
-      Daylight: ເວລາກາງເວັນຕາເວັນອອກ
-    }
-  },
-  {
-    Key: America/Indiana/Knox,
-    Value: {
-      Generic: ເວລາກາງ,
-      Standard: ເວລາມາດຕະຖານກາງ,
-      Daylight: ເວລາກາງເວັນກາງ
-    }
-  },
-  {
-    Key: America/Indiana/Marengo,
-    Value: {
-      Generic: ເວລາຕາເວັນອອກ,
-      Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
-      Daylight: ເວລາກາງເວັນຕາເວັນອອກ
-    }
-  },
-  {
-    Key: America/Indiana/Petersburg,
-    Value: {
-      Generic: ເວລາຕາເວັນອອກ,
-      Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
-      Daylight: ເວລາກາງເວັນຕາເວັນອອກ
-    }
-  },
-  {
-    Key: America/Indiana/Tell_City,
-    Value: {
-      Generic: ເວລາກາງ,
-      Standard: ເວລາມາດຕະຖານກາງ,
-      Daylight: ເວລາກາງເວັນກາງ
-    }
-  },
-  {
-    Key: America/Indiana/Vevay,
-    Value: {
-      Generic: ເວລາຕາເວັນອອກ,
-      Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
-      Daylight: ເວລາກາງເວັນຕາເວັນອອກ
-    }
-  },
-  {
-    Key: America/Indiana/Vincennes,
-    Value: {
-      Generic: ເວລາຕາເວັນອອກ,
-      Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
-      Daylight: ເວລາກາງເວັນຕາເວັນອອກ
-    }
-  },
-  {
-    Key: America/Indiana/Winamac,
-    Value: {
-      Generic: ເວລາຕາເວັນອອກ,
-      Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
-      Daylight: ເວລາກາງເວັນຕາເວັນອອກ
-    }
-  },
-  {
-    Key: America/Indianapolis,
-    Value: {
-      Generic: ເວລາຕາເວັນອອກ,
-      Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
-      Daylight: ເວລາກາງເວັນຕາເວັນອອກ
-    }
-  },
-  {
-    Key: America/Inuvik,
-    Value: {
-      Generic: ເວລາແຖບພູເຂົາ,
-      Standard: ເວລາມາດຕະຖານແຖບພູເຂົາ,
-      Daylight: ເວລາກາງເວັນແຖບພູເຂົາ
-    }
-  },
-  {
-    Key: America/Iqaluit,
-    Value: {
-      Generic: ເວລາຕາເວັນອອກ,
-      Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
-      Daylight: ເວລາກາງເວັນຕາເວັນອອກ
-    }
-  },
-  {
-    Key: America/Jamaica,
-    Value: {
-      Generic: ເວລາຕາເວັນອອກ,
-      Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
-      Daylight: ເວລາກາງເວັນຕາເວັນອອກ
-    }
-  },
-  {
-    Key: America/Jujuy,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ເຈ​ທິ​ນາ,
-      Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເຈນ​ທິ​ນາ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ເຈນ​ທິ​ນາ
-    }
-  },
-  {
-    Key: America/Juneau,
-    Value: {
-      Generic: ເວລາອະລັສກາ,
-      Standard: ເວລາມາດຕະຖານອະລັສກາ,
-      Daylight: ເວລາກາງເວັນອະລັສກາ
-    }
-  },
-  {
-    Key: America/Kentucky/Louisville,
-    Value: {
-      Generic: ເວລາຕາເວັນອອກ,
-      Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
-      Daylight: ເວລາກາງເວັນຕາເວັນອອກ
-    }
-  },
-  {
-    Key: America/Kentucky/Monticello,
-    Value: {
-      Generic: ເວລາຕາເວັນອອກ,
-      Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
-      Daylight: ເວລາກາງເວັນຕາເວັນອອກ
-    }
-  },
-  {
-    Key: America/Knox_IN,
-    Value: {
-      Generic: ເວລາກາງ,
-      Standard: ເວລາມາດຕະຖານກາງ,
-      Daylight: ເວລາກາງເວັນກາງ
-    }
-  },
-  {
-    Key: America/Kralendijk,
-    Value: {
-      Generic: ເວລາຂອງອາແລນຕິກ,
-      Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
-      Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
-    }
-  },
-  {
-    Key: America/La_Paz,
-    Value: {
-      Generic: ເວ​ລາ​ໂບ​ລິ​ເວຍ,
-      Standard: ເວ​ລາ​ໂບ​ລິ​ເວຍ,
-      Daylight: ເວ​ລາ​ໂບ​ລິ​ເວຍ
-    }
-  },
-  {
-    Key: America/Lima,
-    Value: {
-      Generic: ເວ​ລາ​ເປ​ຣູ,
-      Standard: ເວ​ລາ​​ມາ​ດ​ຕະ​ຖານເປ​ຣູ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ເປ​ຣູ
-    }
-  },
-  {
-    Key: America/Los_Angeles,
-    Value: {
-      Generic: ເວລາແປຊິຟິກ,
-      Standard: ເວລາມາດຕະຖານແປຊິຟິກ,
-      Daylight: ເວລາກາງເວັນແປຊິຟິກ
-    }
-  },
-  {
-    Key: America/Louisville,
-    Value: {
-      Generic: ເວລາຕາເວັນອອກ,
-      Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
-      Daylight: ເວລາກາງເວັນຕາເວັນອອກ
-    }
-  },
-  {
-    Key: America/Lower_Princes,
-    Value: {
-      Generic: ເວລາຂອງອາແລນຕິກ,
-      Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
-      Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
-    }
-  },
-  {
-    Key: America/Maceio,
-    Value: {
-      Generic: ເວລາຕາມເຂດບຣາຊິເລຍ,
-      Standard: ເວລາມາດຕາຖານເບຣຊີເລຍ,
-      Daylight: ເວລາຕາມເຂດລະດູຮ້ອນຕາມເຂດບຣາຊີເລຍ
-    }
-  },
-  {
-    Key: America/Managua,
-    Value: {
-      Generic: ເວລາກາງ,
-      Standard: ເວລາມາດຕະຖານກາງ,
-      Daylight: ເວລາກາງເວັນກາງ
-    }
-  },
-  {
-    Key: America/Manaus,
-    Value: {
-      Generic: ເວລາຕາມເຂດອາເມຊອນ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເມ​ຊອນ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນອາ​ເມ​ຊອນ
-    }
-  },
-  {
-    Key: America/Marigot,
-    Value: {
-      Generic: ເວລາຂອງອາແລນຕິກ,
-      Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
-      Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
-    }
-  },
-  {
-    Key: America/Martinique,
-    Value: {
-      Generic: ເວລາຂອງອາແລນຕິກ,
-      Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
-      Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
-    }
-  },
-  {
-    Key: America/Matamoros,
-    Value: {
-      Generic: ເວລາກາງ,
-      Standard: ເວລາມາດຕະຖານກາງ,
-      Daylight: ເວລາກາງເວັນກາງ
-    }
-  },
-  {
-    Key: America/Mazatlan,
-    Value: {
-      Generic: ເວລາແປຊິຟິກເມັກຊິກັນ,
-      Standard: ເວລາມາດຕະຖານແປຊິຟິກເມັກຊິກັນ,
-      Daylight: ເວລາກາງເວັນແປຊິຟິກເມັກຊິກັນ
-    }
-  },
-  {
-    Key: America/Mendoza,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ເຈ​ທິ​ນາ,
-      Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເຈນ​ທິ​ນາ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ເຈນ​ທິ​ນາ
-    }
-  },
-  {
-    Key: America/Menominee,
-    Value: {
-      Generic: ເວລາກາງ,
-      Standard: ເວລາມາດຕະຖານກາງ,
-      Daylight: ເວລາກາງເວັນກາງ
-    }
-  },
-  {
-    Key: America/Merida,
-    Value: {
-      Generic: ເວລາກາງ,
-      Standard: ເວລາມາດຕະຖານກາງ,
-      Daylight: ເວລາກາງເວັນກາງ
-    }
-  },
-  {
-    Key: America/Metlakatla,
-    Value: {
-      Generic: ເວລາອະລັສກາ,
-      Standard: ເວລາມາດຕະຖານອະລັສກາ,
-      Daylight: ເວລາກາງເວັນອະລັສກາ
-    }
-  },
-  {
-    Key: America/Mexico_City,
-    Value: {
-      Generic: ເວລາກາງ,
-      Standard: ເວລາມາດຕະຖານກາງ,
-      Daylight: ເວລາກາງເວັນກາງ
-    }
-  },
-  {
-    Key: America/Miquelon,
-    Value: {
-      Generic: ​ເວ​ລາເຊນ​ປີ​ແອ ແລະ​ມິ​ກົວ​ລອນ,
-      Standard: ​ເວ​ລາມາດ​ຕະ​ຖານເຊນ​ປີ​ແອ ແລະ​ມິ​ກົວ​ລອນ,
-      Daylight: ​ເວ​ລາຕອນ​ທ່ຽງເຊນ​ປີ​ແອ ແລະ​ມິ​ກົວ​ລອນ
-    }
-  },
-  {
-    Key: America/Moncton,
-    Value: {
-      Generic: ເວລາຂອງອາແລນຕິກ,
-      Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
-      Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
-    }
-  },
-  {
-    Key: America/Monterrey,
-    Value: {
-      Generic: ເວລາກາງ,
-      Standard: ເວລາມາດຕະຖານກາງ,
-      Daylight: ເວລາກາງເວັນກາງ
-    }
-  },
-  {
-    Key: America/Montevideo,
-    Value: {
-      Generic: ​ເວ​ລາ​ອູ​ຣູ​ກວຍ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ອູ​ຣູ​ກວຍ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອູ​ຣູ​ກວຍ
-    }
-  },
-  {
-    Key: America/Montreal,
-    Value: {
-      Generic: ເວລາຕາເວັນອອກ,
-      Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
-      Daylight: ເວລາກາງເວັນຕາເວັນອອກ
-    }
-  },
-  {
-    Key: America/Montserrat,
-    Value: {
-      Generic: ເວລາຂອງອາແລນຕິກ,
-      Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
-      Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
-    }
-  },
-  {
-    Key: America/Nassau,
-    Value: {
-      Generic: ເວລາຕາເວັນອອກ,
-      Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
-      Daylight: ເວລາກາງເວັນຕາເວັນອອກ
-    }
-  },
-  {
-    Key: America/New_York,
-    Value: {
-      Generic: ເວລາຕາເວັນອອກ,
-      Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
-      Daylight: ເວລາກາງເວັນຕາເວັນອອກ
-    }
-  },
-  {
-    Key: America/Nipigon,
-    Value: {
-      Generic: ເວລາຕາເວັນອອກ,
-      Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
-      Daylight: ເວລາກາງເວັນຕາເວັນອອກ
-    }
-  },
-  {
-    Key: America/Nome,
-    Value: {
-      Generic: ເວລາອະລັສກາ,
-      Standard: ເວລາມາດຕະຖານອະລັສກາ,
-      Daylight: ເວລາກາງເວັນອະລັສກາ
-    }
-  },
-  {
-    Key: America/Noronha,
-    Value: {
-      Generic: ເວລາເຟນັນໂດເດໂນຮອນຮາ,
-      Standard: ເວລາມາດຕະຖານເຟນັນໂດເດໂນຮອນຮາ,
-      Daylight: ເວລາລະດູຮ້ອນເຟນັນໂດເດໂນຮອນຮາ
-    }
-  },
-  {
-    Key: America/North_Dakota/Beulah,
-    Value: {
-      Generic: ເວລາກາງ,
-      Standard: ເວລາມາດຕະຖານກາງ,
-      Daylight: ເວລາກາງເວັນກາງ
-    }
-  },
-  {
-    Key: America/North_Dakota/Center,
-    Value: {
-      Generic: ເວລາກາງ,
-      Standard: ເວລາມາດຕະຖານກາງ,
-      Daylight: ເວລາກາງເວັນກາງ
-    }
-  },
-  {
-    Key: America/North_Dakota/New_Salem,
-    Value: {
-      Generic: ເວລາກາງ,
-      Standard: ເວລາມາດຕະຖານກາງ,
-      Daylight: ເວລາກາງເວັນກາງ
-    }
-  },
-  {
-    Key: America/Nuuk,
-    Value: {
-      Generic: ເວລາກຣີນແລນຕາເວັນຕົກ,
-      Standard: ເວລາມາດຕະຖານກຣີນແລນຕາເວັນຕົກ,
-      Daylight: ເວລາຕອນທ່ຽງກຣີນແລນຕາເວັນຕົກ
-    }
-  },
-  {
-    Key: America/Ojinaga,
-    Value: {
-      Generic: ເວລາແຖບພູເຂົາ,
-      Standard: ເວລາມາດຕະຖານແຖບພູເຂົາ,
-      Daylight: ເວລາກາງເວັນແຖບພູເຂົາ
-    }
-  },
-  {
-    Key: America/Panama,
-    Value: {
-      Generic: ເວລາຕາເວັນອອກ,
-      Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
-      Daylight: ເວລາກາງເວັນຕາເວັນອອກ
-    }
-  },
-  {
-    Key: America/Pangnirtung,
-    Value: {
-      Generic: ເວລາຕາເວັນອອກ,
-      Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
-      Daylight: ເວລາກາງເວັນຕາເວັນອອກ
-    }
-  },
-  {
-    Key: America/Paramaribo,
-    Value: {
-      Generic: ເວ​ລາ​ຊຸ​ຣິ​ນາມ,
-      Standard: ເວ​ລາ​ຊຸ​ຣິ​ນາມ,
-      Daylight: ເວ​ລາ​ຊຸ​ຣິ​ນາມ
-    }
-  },
-  {
-    Key: America/Phoenix,
-    Value: {
-      Generic: ເວລາແຖບພູເຂົາ,
-      Standard: ເວລາມາດຕະຖານແຖບພູເຂົາ,
-      Daylight: ເວລາກາງເວັນແຖບພູເຂົາ
-    }
-  },
-  {
-    Key: America/Port_of_Spain,
-    Value: {
-      Generic: ເວລາຂອງອາແລນຕິກ,
-      Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
-      Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
-    }
-  },
-  {
-    Key: America/Port-au-Prince,
-    Value: {
-      Generic: ເວລາຕາເວັນອອກ,
-      Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
-      Daylight: ເວລາກາງເວັນຕາເວັນອອກ
-    }
-  },
-  {
-    Key: America/Porto_Acre,
-    Value: {
-      Generic: ເວລາຂອງອາເກຣ,
-      Standard: ເວລາມາດຕະຖານຂອງອາເກຣ,
-      Daylight: ເວລາລະດູຮ້ອນຂອງອາເກຣ
-    }
-  },
-  {
-    Key: America/Porto_Velho,
-    Value: {
-      Generic: ເວລາຕາມເຂດອາເມຊອນ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເມ​ຊອນ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນອາ​ເມ​ຊອນ
-    }
-  },
-  {
-    Key: America/Puerto_Rico,
-    Value: {
-      Generic: ເວລາຂອງອາແລນຕິກ,
-      Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
-      Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
-    }
-  },
-  {
-    Key: America/Punta_Arenas,
-    Value: {
-      Generic: ເວ​ລາ​ຊິ​ລີ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານຊິ​ລີ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຊິ​ລີ
-    }
-  },
-  {
-    Key: America/Rainy_River,
-    Value: {
-      Generic: ເວລາກາງ,
-      Standard: ເວລາມາດຕະຖານກາງ,
-      Daylight: ເວລາກາງເວັນກາງ
-    }
-  },
-  {
-    Key: America/Rankin_Inlet,
-    Value: {
-      Generic: ເວລາກາງ,
-      Standard: ເວລາມາດຕະຖານກາງ,
-      Daylight: ເວລາກາງເວັນກາງ
-    }
-  },
-  {
-    Key: America/Recife,
-    Value: {
-      Generic: ເວລາຕາມເຂດບຣາຊິເລຍ,
-      Standard: ເວລາມາດຕາຖານເບຣຊີເລຍ,
-      Daylight: ເວລາຕາມເຂດລະດູຮ້ອນຕາມເຂດບຣາຊີເລຍ
-    }
-  },
-  {
-    Key: America/Regina,
-    Value: {
-      Generic: ເວລາກາງ,
-      Standard: ເວລາມາດຕະຖານກາງ,
-      Daylight: ເວລາກາງເວັນກາງ
-    }
-  },
-  {
-    Key: America/Resolute,
-    Value: {
-      Generic: ເວລາກາງ,
-      Standard: ເວລາມາດຕະຖານກາງ,
-      Daylight: ເວລາກາງເວັນກາງ
-    }
-  },
-  {
-    Key: America/Rio_Branco,
-    Value: {
-      Generic: ເວລາຂອງອາເກຣ,
-      Standard: ເວລາມາດຕະຖານຂອງອາເກຣ,
-      Daylight: ເວລາລະດູຮ້ອນຂອງອາເກຣ
-    }
-  },
-  {
-    Key: America/Rosario,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ເຈ​ທິ​ນາ,
-      Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເຈນ​ທິ​ນາ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ເຈນ​ທິ​ນາ
-    }
-  },
-  {
-    Key: America/Santa_Isabel,
-    Value: {
-      Generic: ​ເວ​ລາ​ນອດ​ເວ​ສ​ເມັກ​ຊິ​ໂກ,
-      Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານນອດ​ເວ​ສ​ເມັກ​ຊິ​ໂກ,
-      Daylight: ເວລາກາງເວັນເມັກຊິກັນນອດເວສ
-    }
-  },
-  {
-    Key: America/Santarem,
-    Value: {
-      Generic: ເວລາຕາມເຂດບຣາຊິເລຍ,
-      Standard: ເວລາມາດຕາຖານເບຣຊີເລຍ,
-      Daylight: ເວລາຕາມເຂດລະດູຮ້ອນຕາມເຂດບຣາຊີເລຍ
-    }
-  },
-  {
-    Key: America/Santiago,
-    Value: {
-      Generic: ເວ​ລາ​ຊິ​ລີ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານຊິ​ລີ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຊິ​ລີ
-    }
-  },
-  {
-    Key: America/Santo_Domingo,
-    Value: {
-      Generic: ເວລາຂອງອາແລນຕິກ,
-      Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
-      Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
-    }
-  },
-  {
-    Key: America/Sao_Paulo,
-    Value: {
-      Generic: ເວລາຕາມເຂດບຣາຊິເລຍ,
-      Standard: ເວລາມາດຕາຖານເບຣຊີເລຍ,
-      Daylight: ເວລາຕາມເຂດລະດູຮ້ອນຕາມເຂດບຣາຊີເລຍ
-    }
-  },
-  {
-    Key: America/Scoresbysund,
-    Value: {
-      Generic: ເວລາຕາເວັນອອກຂອງກຣີນແລນ,
-      Standard: ເວລາມາດຕະຖານຕາເວັນອອກກຣີນແລນ,
-      Daylight: ເວລາລະດູຮ້ອນກຣີນແລນຕາເວັນອອກ
-    }
-  },
-  {
-    Key: America/Shiprock,
-    Value: {
-      Generic: ເວລາແຖບພູເຂົາ,
-      Standard: ເວລາມາດຕະຖານແຖບພູເຂົາ,
-      Daylight: ເວລາກາງເວັນແຖບພູເຂົາ
-    }
-  },
-  {
-    Key: America/Sitka,
-    Value: {
-      Generic: ເວລາອະລັສກາ,
-      Standard: ເວລາມາດຕະຖານອະລັສກາ,
-      Daylight: ເວລາກາງເວັນອະລັສກາ
-    }
-  },
-  {
-    Key: America/St_Barthelemy,
-    Value: {
-      Generic: ເວລາຂອງອາແລນຕິກ,
-      Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
-      Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
-    }
-  },
-  {
-    Key: America/St_Johns,
-    Value: {
-      Generic: ເວ​ລາ​ນິວ​ຟາວ​ແລນ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ນິວ​ຟາວ​ແລນ,
-      Daylight: ເວລາກາງເວັນນິວຟາວແລນ
-    }
-  },
-  {
-    Key: America/St_Kitts,
-    Value: {
-      Generic: ເວລາຂອງອາແລນຕິກ,
-      Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
-      Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
-    }
-  },
-  {
-    Key: America/St_Lucia,
-    Value: {
-      Generic: ເວລາຂອງອາແລນຕິກ,
-      Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
-      Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
-    }
-  },
-  {
-    Key: America/St_Thomas,
-    Value: {
-      Generic: ເວລາຂອງອາແລນຕິກ,
-      Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
-      Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
-    }
-  },
-  {
-    Key: America/St_Vincent,
-    Value: {
-      Generic: ເວລາຂອງອາແລນຕິກ,
-      Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
-      Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
-    }
-  },
-  {
-    Key: America/Swift_Current,
-    Value: {
-      Generic: ເວລາກາງ,
-      Standard: ເວລາມາດຕະຖານກາງ,
-      Daylight: ເວລາກາງເວັນກາງ
-    }
-  },
-  {
-    Key: America/Tegucigalpa,
-    Value: {
-      Generic: ເວລາກາງ,
-      Standard: ເວລາມາດຕະຖານກາງ,
-      Daylight: ເວລາກາງເວັນກາງ
-    }
-  },
-  {
-    Key: America/Thule,
-    Value: {
-      Generic: ເວລາຂອງອາແລນຕິກ,
-      Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
-      Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
-    }
-  },
-  {
-    Key: America/Thunder_Bay,
-    Value: {
-      Generic: ເວລາຕາເວັນອອກ,
-      Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
-      Daylight: ເວລາກາງເວັນຕາເວັນອອກ
-    }
-  },
-  {
-    Key: America/Tijuana,
-    Value: {
-      Generic: ເວລາແປຊິຟິກ,
-      Standard: ເວລາມາດຕະຖານແປຊິຟິກ,
-      Daylight: ເວລາກາງເວັນແປຊິຟິກ
-    }
-  },
-  {
-    Key: America/Toronto,
-    Value: {
-      Generic: ເວລາຕາເວັນອອກ,
-      Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
-      Daylight: ເວລາກາງເວັນຕາເວັນອອກ
-    }
-  },
-  {
-    Key: America/Tortola,
-    Value: {
-      Generic: ເວລາຂອງອາແລນຕິກ,
-      Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
-      Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
-    }
-  },
-  {
-    Key: America/Vancouver,
-    Value: {
-      Generic: ເວລາແປຊິຟິກ,
-      Standard: ເວລາມາດຕະຖານແປຊິຟິກ,
-      Daylight: ເວລາກາງເວັນແປຊິຟິກ
-    }
-  },
-  {
-    Key: America/Virgin,
-    Value: {
-      Generic: ເວລາຂອງອາແລນຕິກ,
-      Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
-      Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
-    }
-  },
-  {
-    Key: America/Whitehorse,
-    Value: {
-      Generic: ເວລາຢູຄອນ,
-      Standard: ເວລາຢູຄອນ,
-      Daylight: ເວລາຢູຄອນ
-    }
-  },
-  {
-    Key: America/Winnipeg,
-    Value: {
-      Generic: ເວລາກາງ,
-      Standard: ເວລາມາດຕະຖານກາງ,
-      Daylight: ເວລາກາງເວັນກາງ
-    }
-  },
-  {
-    Key: America/Yakutat,
-    Value: {
-      Generic: ເວລາອະລັສກາ,
-      Standard: ເວລາມາດຕະຖານອະລັສກາ,
-      Daylight: ເວລາກາງເວັນອະລັສກາ
-    }
-  },
-  {
-    Key: America/Yellowknife,
-    Value: {
-      Generic: ເວລາແຖບພູເຂົາ,
-      Standard: ເວລາມາດຕະຖານແຖບພູເຂົາ,
-      Daylight: ເວລາກາງເວັນແຖບພູເຂົາ
-    }
-  },
-  {
-    Key: Antarctica/Casey,
-    Value: {
-      Generic: ເວລາເຄຊີ,
-      Standard: ເວລາເຄຊີ,
-      Daylight: ເວລາເຄຊີ
-    }
-  },
-  {
-    Key: Antarctica/Davis,
-    Value: {
-      Generic: ເວລາເດວິດ,
-      Standard: ເວລາເດວິດ,
-      Daylight: ເວລາເດວິດ
-    }
-  },
-  {
-    Key: Antarctica/DumontDUrville,
-    Value: {
-      Generic: ເວລາດູມອງດູວິລ,
-      Standard: ເວລາດູມອງດູວິລ,
-      Daylight: ເວລາດູມອງດູວິລ
-    }
-  },
-  {
-    Key: Antarctica/Macquarie,
-    Value: {
-      Generic: ເວ​ລາອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ມາດຕະຖານ​​​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Antarctica/Mawson,
-    Value: {
-      Generic: ເວລາມໍສັນ,
-      Standard: ເວລາມໍສັນ,
-      Daylight: ເວລາມໍສັນ
-    }
-  },
-  {
-    Key: Antarctica/McMurdo,
-    Value: {
-      Generic: ເວ​ລາ​ນິວ​ຊີ​ແລນ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານນິວ​ຊີ​ແລນ,
-      Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ນິວ​ຊີ​ແລນ
-    }
-  },
-  {
-    Key: Antarctica/Palmer,
-    Value: {
-      Generic: ເວ​ລາ​ຊິ​ລີ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານຊິ​ລີ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຊິ​ລີ
-    }
-  },
-  {
-    Key: Antarctica/Rothera,
-    Value: {
-      Generic: ເວລາ ໂຣທີຕາ,
-      Standard: ເວລາ ໂຣທີຕາ,
-      Daylight: ເວລາ ໂຣທີຕາ
-    }
-  },
-  {
-    Key: Antarctica/South_Pole,
-    Value: {
-      Generic: ເວ​ລາ​ນິວ​ຊີ​ແລນ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານນິວ​ຊີ​ແລນ,
-      Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ນິວ​ຊີ​ແລນ
-    }
-  },
-  {
-    Key: Antarctica/Syowa,
-    Value: {
-      Generic: ເວລາ ໂຊວາ,
-      Standard: ເວລາ ໂຊວາ,
-      Daylight: ເວລາ ໂຊວາ
-    }
-  },
-  {
-    Key: Antarctica/Troll,
-    Value: {
-      Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
-    }
-  },
-  {
-    Key: Antarctica/Vostok,
-    Value: {
-      Generic: ເວລາ ວອສໂຕກ,
-      Standard: ເວລາ ວອສໂຕກ,
-      Daylight: ເວລາ ວອສໂຕກ
-    }
-  },
-  {
-    Key: Arctic/Longyearbyen,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
-    }
-  },
-  {
-    Key: Asia/Aden,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຣາ​ບຽນ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ຣາ​ບຽນ,
-      Daylight: ເວລາກາງເວັນອາຣາບຽນ
-    }
-  },
-  {
-    Key: Asia/Almaty,
-    Value: {
-      Generic: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Asia/Amman,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Asia/Anadyr,
-    Value: {
-      Generic: ເວລາ ອານາດີ,
-      Standard: ເວລາມາດຕະຖານ ອານາດີ,
-      Daylight: ເວລາກາງເວັນ ອານາດີ
-    }
-  },
-  {
-    Key: Asia/Aqtau,
-    Value: {
-      Generic: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ຕົກ,
-      Standard: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ຕົກ,
-      Daylight: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ຕົກ
-    }
-  },
-  {
-    Key: Asia/Aqtobe,
-    Value: {
-      Generic: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ຕົກ,
-      Standard: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ຕົກ,
-      Daylight: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ຕົກ
-    }
-  },
-  {
-    Key: Asia/Ashgabat,
-    Value: {
-      Generic: ເວລາຕວກເມນິສຖານ,
-      Standard: ເວລາມາດຕະຖານຕວກເມນິສຖານ,
-      Daylight: ເວລາລະດູຮ້ອນຕວກເມນິສຖານ
-    }
-  },
-  {
-    Key: Asia/Ashkhabad,
-    Value: {
-      Generic: ເວລາຕວກເມນິສຖານ,
-      Standard: ເວລາມາດຕະຖານຕວກເມນິສຖານ,
-      Daylight: ເວລາລະດູຮ້ອນຕວກເມນິສຖານ
-    }
-  },
-  {
-    Key: Asia/Atyrau,
-    Value: {
-      Generic: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ຕົກ,
-      Standard: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ຕົກ,
-      Daylight: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ຕົກ
-    }
-  },
-  {
-    Key: Asia/Baghdad,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຣາ​ບຽນ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ຣາ​ບຽນ,
-      Daylight: ເວລາກາງເວັນອາຣາບຽນ
-    }
-  },
-  {
-    Key: Asia/Bahrain,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຣາ​ບຽນ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ຣາ​ບຽນ,
-      Daylight: ເວລາກາງເວັນອາຣາບຽນ
-    }
-  },
-  {
-    Key: Asia/Baku,
-    Value: {
-      Generic: ເວລາອັສເຊີໄບຈັນ,
-      Standard: ເວລາມາດຕະຖານອັສເຊີໄບຈັນ,
-      Daylight: ເວລາລະດູຮ້ອນອັສເຊີໄບຈັນ
-    }
-  },
-  {
-    Key: Asia/Bangkok,
-    Value: {
-      Generic: ເວລາອິນດູຈີນ,
-      Standard: ເວລາອິນດູຈີນ,
-      Daylight: ເວລາອິນດູຈີນ
-    }
-  },
-  {
-    Key: Asia/Barnaul,
-    Value: {
-      Generic: ເວລາ ບານົວ,
-      Standard: ເວລາມາດຕະຖານ ບານົວ,
-      Daylight: ເວລາກາງເວັນ ບານົວ
-    }
-  },
-  {
-    Key: Asia/Beirut,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Asia/Bishkek,
-    Value: {
-      Generic: ເວລາເຄຍກິສຖານ,
-      Standard: ເວລາເຄຍກິສຖານ,
-      Daylight: ເວລາເຄຍກິສຖານ
-    }
-  },
-  {
-    Key: Asia/Brunei,
-    Value: {
-      Generic: ​ເວ​ລາບຣູ​ໄນດາ​ຣຸສ​ຊາ​ລາມ,
-      Standard: ​ເວ​ລາບຣູ​ໄນດາ​ຣຸສ​ຊາ​ລາມ,
-      Daylight: ​ເວ​ລາບຣູ​ໄນດາ​ຣຸສ​ຊາ​ລາມ
-    }
-  },
-  {
-    Key: Asia/Calcutta,
-    Value: {
-      Generic: ເວລາ ອິນເດຍ,
-      Standard: ເວລາ ອິນເດຍ,
-      Daylight: ເວລາ ອິນເດຍ
-    }
-  },
-  {
-    Key: Asia/Chita,
-    Value: {
-      Generic: ເວລາ ຊີຕ່າ,
-      Standard: ເວລາມາດຕະຖານ ຊີຕ່າ,
-      Daylight: ເວລາກາງເວັນ ຊີຕ່າ
-    }
-  },
-  {
-    Key: Asia/Choibalsan,
-    Value: {
-      Generic: ເວລາ ອູລານບາເຕີ,
-      Standard: ເວລາມາດຕະຖານ ອູລານບາເຕີ,
-      Daylight: ເວລາລະດູຮ້ອນອູລານບາເຕີ
-    }
-  },
-  {
-    Key: Asia/Chongqing,
-    Value: {
-      Generic: ເວ​ລາ​ຈີນ,
-      Standard: ເວລາມາດຕະຖານຈີນ,
-      Daylight: ​ເວ​ລາ​ຕອນ​ທ່ຽງ​ຈີນ
-    }
-  },
-  {
-    Key: Asia/Chungking,
-    Value: {
-      Generic: ເວ​ລາ​ຈີນ,
-      Standard: ເວລາມາດຕະຖານຈີນ,
-      Daylight: ​ເວ​ລາ​ຕອນ​ທ່ຽງ​ຈີນ
-    }
-  },
-  {
-    Key: Asia/Colombo,
-    Value: {
-      Generic: ເວລາ ອິນເດຍ,
-      Standard: ເວລາ ອິນເດຍ,
-      Daylight: ເວລາ ອິນເດຍ
-    }
-  },
-  {
-    Key: Asia/Dacca,
-    Value: {
-      Generic: ເວລາ ບັງກະລາເທດ,
-      Standard: ເວລາມາດຕະຖານ ບັງກະລາເທດ,
-      Daylight: ເວລາ ລະດູຮ້ອນ ບັງກະລາເທດ
-    }
-  },
-  {
-    Key: Asia/Damascus,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Asia/Dhaka,
-    Value: {
-      Generic: ເວລາ ບັງກະລາເທດ,
-      Standard: ເວລາມາດຕະຖານ ບັງກະລາເທດ,
-      Daylight: ເວລາ ລະດູຮ້ອນ ບັງກະລາເທດ
-    }
-  },
-  {
-    Key: Asia/Dili,
-    Value: {
-      Generic: ເວລາຕີມໍຕາເວັນອອກ,
-      Standard: ເວລາຕີມໍຕາເວັນອອກ,
-      Daylight: ເວລາຕີມໍຕາເວັນອອກ
-    }
-  },
-  {
-    Key: Asia/Dubai,
-    Value: {
-      Generic: ເວ​ລາ​ກູ​ລ​໌ຟ,
-      Standard: ເວ​ລາ​ກູ​ລ​໌ຟ,
-      Daylight: ເວ​ລາ​ກູ​ລ​໌ຟ
-    }
-  },
-  {
-    Key: Asia/Dushanbe,
-    Value: {
-      Generic: ເວລາທາຈິກິສຖານ,
-      Standard: ເວລາທາຈິກິສຖານ,
-      Daylight: ເວລາທາຈິກິສຖານ
-    }
-  },
-  {
-    Key: Asia/Famagusta,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Asia/Gaza,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Asia/Harbin,
-    Value: {
-      Generic: ເວ​ລາ​ຈີນ,
-      Standard: ເວລາມາດຕະຖານຈີນ,
-      Daylight: ​ເວ​ລາ​ຕອນ​ທ່ຽງ​ຈີນ
-    }
-  },
-  {
-    Key: Asia/Hebron,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Asia/Ho_Chi_Minh,
-    Value: {
-      Generic: ເວລາອິນດູຈີນ,
-      Standard: ເວລາອິນດູຈີນ,
-      Daylight: ເວລາອິນດູຈີນ
-    }
-  },
-  {
-    Key: Asia/Hong_Kong,
-    Value: {
-      Generic: ເວ​ລາ​ຮອງ​ກົງ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຮອງ​ກົງ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຮອງ​ກົງ
-    }
-  },
-  {
-    Key: Asia/Hovd,
-    Value: {
-      Generic: ເວ​ລາ​ຮອບ​ດ໌,
-      Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຮອບ​ດ໌,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຮອບ​ດ໌
-    }
-  },
-  {
-    Key: Asia/Irkutsk,
-    Value: {
-      Generic: ເວລາ ອີຄຸສຄ໌,
-      Standard: ເວລາມາດຕະຖານ ອີຄຸສຄ໌,
-      Daylight: ເວລາກາງເວັນ ອີຄຸສຄ໌
-    }
-  },
-  {
-    Key: Asia/Istanbul,
-    Value: {
-      Generic: ເວລາ ເທີຄີ,
-      Standard: ເວລາມາດຕະຖານ ເທີຄີ,
-      Daylight: ເວລາກາງເວັນ ເທີຄີ
-    }
-  },
-  {
-    Key: Asia/Jakarta,
-    Value: {
-      Generic: ເວ​ລາ​ອິນ​ໂດ​ເນ​ເຊຍ​ຕາ​ເວັນ​ຕົກ,
-      Standard: ເວ​ລາ​ອິນ​ໂດ​ເນ​ເຊຍ​ຕາ​ເວັນ​ຕົກ,
-      Daylight: ເວ​ລາ​ອິນ​ໂດ​ເນ​ເຊຍ​ຕາ​ເວັນ​ຕົກ
-    }
-  },
-  {
-    Key: Asia/Jayapura,
-    Value: {
-      Generic: ເວ​ລາ​ອິນ​ໂດ​ເນ​ເຊຍ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ອິນ​ໂດ​ເນ​ເຊຍ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ອິນ​ໂດ​ເນ​ເຊຍ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Asia/Jerusalem,
-    Value: {
-      Generic: ເວ​ລາ​ອິ​ສ​ຣາ​ເອວ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານອິ​ສ​ຣາ​ເອວ,
-      Daylight: ເວລາກາງເວັນອິສຣາເອວ
-    }
-  },
-  {
-    Key: Asia/Kabul,
-    Value: {
-      Generic: ເວລາ ອັຟການິສຖານ,
-      Standard: ເວລາ ອັຟການິສຖານ,
-      Daylight: ເວລາ ອັຟການິສຖານ
-    }
-  },
-  {
-    Key: Asia/Kamchatka,
-    Value: {
-      Generic: ເວລາ ຄາມຊາດກາ,
-      Standard: ເວລາມາດຕະຖານ ຄາມຊາດກາ,
-      Daylight: ເວລາກາງເວັນ ຄາມຊາດກາ
-    }
-  },
-  {
-    Key: Asia/Karachi,
-    Value: {
-      Generic: ເວ​ລາ​ປາ​ກີສຖານ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ປາ​ກີສຖານ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ປາ​ກີ​ສ​ຖານ
-    }
-  },
-  {
-    Key: Asia/Kashgar,
-    Value: {
-      Generic: ເວລາ ຈີນ,
-      Standard: ເວລາມາດຕະຖານ ຈີນ,
-      Daylight: ເວລາກາງເວັນ ຈີນ
-    }
-  },
-  {
-    Key: Asia/Kathmandu,
-    Value: {
-      Generic: ​ເວ​ລາ​ເນ​ປານ,
-      Standard: ​ເວ​ລາ​ເນ​ປານ,
-      Daylight: ​ເວ​ລາ​ເນ​ປານ
-    }
-  },
-  {
-    Key: Asia/Katmandu,
-    Value: {
-      Generic: ​ເວ​ລາ​ເນ​ປານ,
-      Standard: ​ເວ​ລາ​ເນ​ປານ,
-      Daylight: ​ເວ​ລາ​ເນ​ປານ
-    }
-  },
-  {
-    Key: Asia/Khandyga,
-    Value: {
-      Generic: ເວລາ ແຄນດີກາ,
-      Standard: ເວລາມາດຕະຖານ ແຄນດີກາ,
-      Daylight: ເວລາກາງເວັນ ແຄນດີກາ
-    }
-  },
-  {
-    Key: Asia/Kolkata,
-    Value: {
-      Generic: ເວລາ ອິນເດຍ,
-      Standard: ເວລາ ອິນເດຍ,
-      Daylight: ເວລາ ອິນເດຍ
-    }
-  },
-  {
-    Key: Asia/Krasnoyarsk,
-    Value: {
-      Generic: ເວລາ ຄຣັສໂນຢາສຄ໌,
-      Standard: ເວລາມາດຕະຖານ ຄຣັສໂນຢາສຄ໌,
-      Daylight: ເວລາກາງເວັນ ຄຣັສໂນຢາສຄ໌
-    }
-  },
-  {
-    Key: Asia/Kuala_Lumpur,
-    Value: {
-      Generic: ເວ​ລາ​ມາ​ເລ​ເຊຍ,
-      Standard: ເວ​ລາ​ມາ​ເລ​ເຊຍ,
-      Daylight: ເວ​ລາ​ມາ​ເລ​ເຊຍ
-    }
-  },
-  {
-    Key: Asia/Kuching,
-    Value: {
-      Generic: ເວ​ລາ​ມາ​ເລ​ເຊຍ,
-      Standard: ເວ​ລາ​ມາ​ເລ​ເຊຍ,
-      Daylight: ເວ​ລາ​ມາ​ເລ​ເຊຍ
-    }
-  },
-  {
-    Key: Asia/Kuwait,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຣາ​ບຽນ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ຣາ​ບຽນ,
-      Daylight: ເວລາກາງເວັນອາຣາບຽນ
-    }
-  },
-  {
-    Key: Asia/Macao,
-    Value: {
-      Generic: ເວ​ລາ​ຈີນ,
-      Standard: ເວລາມາດຕະຖານຈີນ,
-      Daylight: ​ເວ​ລາ​ຕອນ​ທ່ຽງ​ຈີນ
-    }
-  },
-  {
-    Key: Asia/Macau,
-    Value: {
-      Generic: ເວ​ລາ​ຈີນ,
-      Standard: ເວລາມາດຕະຖານຈີນ,
-      Daylight: ​ເວ​ລາ​ຕອນ​ທ່ຽງ​ຈີນ
-    }
-  },
-  {
-    Key: Asia/Magadan,
-    Value: {
-      Generic: ເວລາ ມາກາແດນ,
-      Standard: ເວລາມາດຕະຖານ ມາກາແດນ,
-      Daylight: ເວລາກາງເວັນ ມາກາແດນ
-    }
-  },
-  {
-    Key: Asia/Makassar,
-    Value: {
-      Generic: ເວ​ລາ​ອິນ​ໂດ​ເນ​ເຊຍ​ກາງ,
-      Standard: ເວ​ລາ​ອິນ​ໂດ​ເນ​ເຊຍ​ກາງ,
-      Daylight: ເວ​ລາ​ອິນ​ໂດ​ເນ​ເຊຍ​ກາງ
-    }
-  },
-  {
-    Key: Asia/Manila,
-    Value: {
-      Generic: ​ເວ​ລາ​ຟິ​ລິບ​ປິນ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຟິ​ລິບ​ປິນ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຟິ​ລິບ​ປິນ
-    }
-  },
-  {
-    Key: Asia/Muscat,
-    Value: {
-      Generic: ເວ​ລາ​ກູ​ລ​໌ຟ,
-      Standard: ເວ​ລາ​ກູ​ລ​໌ຟ,
-      Daylight: ເວ​ລາ​ກູ​ລ​໌ຟ
-    }
-  },
-  {
-    Key: Asia/Nicosia,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Asia/Novokuznetsk,
-    Value: {
-      Generic: ເວລາ ໂນໂວຄຸສເນັດ,
-      Standard: ເວລາມາດຕະຖານ ໂນໂວຄຸສເນັດ,
-      Daylight: ເວລາກາງເວັນ ໂນໂວຄຸສເນັດ
-    }
-  },
-  {
-    Key: Asia/Novosibirsk,
-    Value: {
-      Generic: ເວລາ ໂນໂວຊີບີສຄ໌,
-      Standard: ເວລາມາດຕະຖານ ໂນໂວຊີບີສຄ໌,
-      Daylight: ເວລາກາງເວັນ ໂນໂວຊີບີສຄ໌
-    }
-  },
-  {
-    Key: Asia/Omsk,
-    Value: {
-      Generic: ເວລາ ອອມສຄ໌,
-      Standard: ເວລາມາດຕະຖານ ອອມສຄ໌,
-      Daylight: ເວລາກາງເວັນ ອອມສຄ໌
-    }
-  },
-  {
-    Key: Asia/Oral,
-    Value: {
-      Generic: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ຕົກ,
-      Standard: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ຕົກ,
-      Daylight: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ຕົກ
-    }
-  },
-  {
-    Key: Asia/Phnom_Penh,
-    Value: {
-      Generic: ເວລາອິນດູຈີນ,
-      Standard: ເວລາອິນດູຈີນ,
-      Daylight: ເວລາອິນດູຈີນ
-    }
-  },
-  {
-    Key: Asia/Pontianak,
-    Value: {
-      Generic: ເວ​ລາ​ອິນ​ໂດ​ເນ​ເຊຍ​ຕາ​ເວັນ​ຕົກ,
-      Standard: ເວ​ລາ​ອິນ​ໂດ​ເນ​ເຊຍ​ຕາ​ເວັນ​ຕົກ,
-      Daylight: ເວ​ລາ​ອິນ​ໂດ​ເນ​ເຊຍ​ຕາ​ເວັນ​ຕົກ
-    }
-  },
-  {
-    Key: Asia/Pyongyang,
-    Value: {
-      Generic: ເວລາເກົາຫຼີ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ເກົາ​ຫລີ,
-      Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ເກົາ​ຫລີ
-    }
-  },
-  {
-    Key: Asia/Qatar,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຣາ​ບຽນ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ຣາ​ບຽນ,
-      Daylight: ເວລາກາງເວັນອາຣາບຽນ
-    }
-  },
-  {
-    Key: Asia/Qostanay,
-    Value: {
-      Generic: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Asia/Qyzylorda,
-    Value: {
-      Generic: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ຕົກ,
-      Standard: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ຕົກ,
-      Daylight: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ຕົກ
-    }
-  },
-  {
-    Key: Asia/Rangoon,
-    Value: {
-      Generic: ເວລາມຽນມາ,
-      Standard: ເວລາມຽນມາ,
-      Daylight: ເວລາມຽນມາ
-    }
-  },
-  {
-    Key: Asia/Riyadh,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຣາ​ບຽນ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ຣາ​ບຽນ,
-      Daylight: ເວລາກາງເວັນອາຣາບຽນ
-    }
-  },
-  {
-    Key: Asia/Saigon,
-    Value: {
-      Generic: ເວລາອິນດູຈີນ,
-      Standard: ເວລາອິນດູຈີນ,
-      Daylight: ເວລາອິນດູຈີນ
-    }
-  },
-  {
-    Key: Asia/Sakhalin,
-    Value: {
-      Generic: ເວລາ ຊາຄາລິນ,
-      Standard: ເວລາມາດຕະຖານ ຊາຄາລິນ,
-      Daylight: ເວລາກາງເວັນ ຊາຄາລິນ
-    }
-  },
-  {
-    Key: Asia/Samarkand,
-    Value: {
-      Generic: ເວລາອຸສເບກິດສະຖານ,
-      Standard: ເວລາມາດຕະຖານອຸສເບກິດສະຖານ,
-      Daylight: ເວລາລະດູຮ້ອນອຸສເບກິດສະຖານ
-    }
-  },
-  {
-    Key: Asia/Seoul,
-    Value: {
-      Generic: ເວລາເກົາຫຼີ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ເກົາ​ຫລີ,
-      Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ເກົາ​ຫລີ
-    }
-  },
-  {
-    Key: Asia/Shanghai,
-    Value: {
-      Generic: ເວ​ລາ​ຈີນ,
-      Standard: ເວລາມາດຕະຖານຈີນ,
-      Daylight: ​ເວ​ລາ​ຕອນ​ທ່ຽງ​ຈີນ
-    }
-  },
-  {
-    Key: Asia/Singapore,
-    Value: {
-      Generic: ເວ​ລາ​ສິງ​ກະ​ໂປ,
-      Standard: ເວ​ລາ​ສິງ​ກະ​ໂປ,
-      Daylight: ເວ​ລາ​ສິງ​ກະ​ໂປ
-    }
-  },
-  {
-    Key: Asia/Srednekolymsk,
-    Value: {
-      Generic: ເວລາ ສຣິລເນັກໂກລີດ,
-      Standard: ເວລາມາດຕະຖານ ສຣິລເນັກໂກລີດ,
-      Daylight: ເວລາກາງເວັນ ສຣິລເນັກໂກລີດ
-    }
-  },
-  {
-    Key: Asia/Taipei,
-    Value: {
-      Generic: ເວ​ລາ​ໄທ​ເປ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ໄທ​ເປ,
-      Daylight: ເວ​ລາ​ຕອນ​ທ່​ຽງ​ໄທ​ເປ
-    }
-  },
-  {
-    Key: Asia/Tashkent,
-    Value: {
-      Generic: ເວລາອຸສເບກິດສະຖານ,
-      Standard: ເວລາມາດຕະຖານອຸສເບກິດສະຖານ,
-      Daylight: ເວລາລະດູຮ້ອນອຸສເບກິດສະຖານ
-    }
-  },
-  {
-    Key: Asia/Tbilisi,
-    Value: {
-      Generic: ເວລາຈໍເຈຍ,
-      Standard: ເວລາມາດຕະຖານຈໍເຈຍ,
-      Daylight: ເວລາລະດູຮ້ອນຈໍເຈຍ
-    }
-  },
-  {
-    Key: Asia/Tehran,
-    Value: {
-      Generic: ເວ​ລາ​ອີ​ຣານ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານອີ​ຣານ,
-      Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອີ​ຣາ​ນ
-    }
-  },
-  {
-    Key: Asia/Tel_Aviv,
-    Value: {
-      Generic: ເວ​ລາ​ອິ​ສ​ຣາ​ເອວ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານອິ​ສ​ຣາ​ເອວ,
-      Daylight: ເວລາກາງເວັນອິສຣາເອວ
-    }
-  },
-  {
-    Key: Asia/Thimbu,
-    Value: {
-      Generic: ເວ​ລາ​ພູ​ຖານ,
-      Standard: ເວ​ລາ​ພູ​ຖານ,
-      Daylight: ເວ​ລາ​ພູ​ຖານ
-    }
-  },
-  {
-    Key: Asia/Thimphu,
-    Value: {
-      Generic: ເວ​ລາ​ພູ​ຖານ,
-      Standard: ເວ​ລາ​ພູ​ຖານ,
-      Daylight: ເວ​ລາ​ພູ​ຖານ
-    }
-  },
-  {
-    Key: Asia/Tokyo,
-    Value: {
-      Generic: ເວ​ລາ​ຍີ່​ປຸ່ນ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຍີ່​ປຸ່ນ,
-      Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ຍີ່​ປຸ່ນ
-    }
-  },
-  {
-    Key: Asia/Tomsk,
-    Value: {
-      Generic: ເວລາ ທອມສກ໌,
-      Standard: ເວລາມາດຕະຖານ ທອມສກ໌,
-      Daylight: ເວລາກາງເວັນ ທອມສກ໌
-    }
-  },
-  {
-    Key: Asia/Ujung_Pandang,
-    Value: {
-      Generic: ເວ​ລາ​ອິນ​ໂດ​ເນ​ເຊຍ​ກາງ,
-      Standard: ເວ​ລາ​ອິນ​ໂດ​ເນ​ເຊຍ​ກາງ,
-      Daylight: ເວ​ລາ​ອິນ​ໂດ​ເນ​ເຊຍ​ກາງ
-    }
-  },
-  {
-    Key: Asia/Ulaanbaatar,
-    Value: {
-      Generic: ເວລາ ອູລານບາເຕີ,
-      Standard: ເວລາມາດຕະຖານ ອູລານບາເຕີ,
-      Daylight: ເວລາລະດູຮ້ອນອູລານບາເຕີ
-    }
-  },
-  {
-    Key: Asia/Ulan_Bator,
-    Value: {
-      Generic: ເວລາ ອູລານບາເຕີ,
-      Standard: ເວລາມາດຕະຖານ ອູລານບາເຕີ,
-      Daylight: ເວລາລະດູຮ້ອນອູລານບາເຕີ
-    }
-  },
-  {
-    Key: Asia/Urumqi,
-    Value: {
-      Generic: ເວລາ ຈີນ,
-      Standard: ເວລາມາດຕະຖານ ຈີນ,
-      Daylight: ເວລາກາງເວັນ ຈີນ
-    }
-  },
-  {
-    Key: Asia/Ust-Nera,
-    Value: {
-      Generic: ເວລາ ອຸສ ເນຣາ,
-      Standard: ເວລາມາດຕະຖານ ອຸສ ເນຣາ,
-      Daylight: ເວລາກາງເວັນ ອຸສ ເນຣາ
-    }
-  },
-  {
-    Key: Asia/Vientiane,
-    Value: {
-      Generic: ເວລາອິນດູຈີນ,
-      Standard: ເວລາອິນດູຈີນ,
-      Daylight: ເວລາອິນດູຈີນ
-    }
-  },
-  {
-    Key: Asia/Vladivostok,
-    Value: {
-      Generic: ເວລາ ວີລາດິໂວສຕອກ,
-      Standard: ເວລາມາດຕະຖານ ວີລາດິໂວສຕອກ,
-      Daylight: ເວລາກາງເວັນ ວີລາດິໂວສຕອກ
-    }
-  },
-  {
-    Key: Asia/Yakutsk,
-    Value: {
-      Generic: ເວລາ ຢາຄຸທຊ໌,
-      Standard: ເວລາມາດຕະຖານ ຢາຄຸທຊ໌,
-      Daylight: ເວລາກາງເວັນ ຢາຄຸທຊ໌
-    }
-  },
-  {
-    Key: Asia/Yangon,
-    Value: {
-      Generic: ເວລາມຽນມາ,
-      Standard: ເວລາມຽນມາ,
-      Daylight: ເວລາມຽນມາ
-    }
-  },
-  {
-    Key: Asia/Yekaterinburg,
-    Value: {
-      Generic: ເວລາ ເຢຄາເຕີຣິນເບີກ,
-      Standard: ເວລາມາດຕະຖານ ເຢຄາເຕີຣິນເບີກ,
-      Daylight: ເວລາກາງເວັນ ເຢຄາເຕີຣິນເບີກ
-    }
-  },
-  {
-    Key: Asia/Yerevan,
-    Value: {
-      Generic: ເວລາອາເມເນຍ,
-      Standard: ເວລາມາດຕະຖານອາເມເນຍ,
-      Daylight: ເວລາລະດູຮ້ອນອາເມເນຍ
-    }
-  },
-  {
-    Key: Atlantic/Azores,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ໂຊ​ເຣ​ສ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ໂຊ​ເຣ​ສ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນອາ​ໂຊ​ເຣ​ສ
-    }
-  },
-  {
-    Key: Atlantic/Bermuda,
-    Value: {
-      Generic: ເວລາຂອງອາແລນຕິກ,
-      Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
-      Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
-    }
-  },
-  {
-    Key: Atlantic/Canary,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ
-    }
-  },
-  {
-    Key: Atlantic/Cape_Verde,
-    Value: {
-      Generic: ເວ​ລາ​ເຄບ​ເວີດ,
-      Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານ​ເຄບ​ເວີດ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ເຄບ​ເວີດ
-    }
-  },
-  {
-    Key: Atlantic/Faeroe,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ
-    }
-  },
-  {
-    Key: Atlantic/Faroe,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ
-    }
-  },
-  {
-    Key: Atlantic/Jan_Mayen,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
-    }
-  },
-  {
-    Key: Atlantic/Madeira,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ
-    }
-  },
-  {
-    Key: Atlantic/Reykjavik,
-    Value: {
-      Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
-    }
-  },
-  {
-    Key: Atlantic/South_Georgia,
-    Value: {
-      Generic: ເວລາຈໍເຈຍໃຕ້,
-      Standard: ເວລາຈໍເຈຍໃຕ້,
-      Daylight: ເວລາຈໍເຈຍໃຕ້
-    }
-  },
-  {
-    Key: Atlantic/St_Helena,
-    Value: {
-      Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
-    }
-  },
-  {
-    Key: Atlantic/Stanley,
-    Value: {
-      Generic: ​ເວ​ລາ​ໝູ່​ເກາະ​ຟອ​ລ໌ກ​ແລນ,
-      Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານໝູ່​ເກາະ​ຟອ​ລ໌ກ​ແລນ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນໝູ່​ເກາະ​ຟອ​ລ໌ກ​ແລນ
-    }
-  },
-  {
-    Key: Australia/ACT,
-    Value: {
-      Generic: ເວ​ລາອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ມາດຕະຖານ​​​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Australia/Adelaide,
-    Value: {
-      Generic: ເວ​ລາອອ​ສ​ເຕຣ​ເລຍ​ກາງ,
-      Standard: ເວ​ລາມາດ​ຕະ​ຖານອອ​ສ​ເຕຣ​ເລຍ​ກ​າງ,
-      Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ເລຍ​ກາງ
-    }
-  },
-  {
-    Key: Australia/Brisbane,
-    Value: {
-      Generic: ເວ​ລາອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ມາດຕະຖານ​​​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Australia/Broken_Hill,
-    Value: {
-      Generic: ເວ​ລາອອ​ສ​ເຕຣ​ເລຍ​ກາງ,
-      Standard: ເວ​ລາມາດ​ຕະ​ຖານອອ​ສ​ເຕຣ​ເລຍ​ກ​າງ,
-      Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ເລຍ​ກາງ
-    }
-  },
-  {
-    Key: Australia/Canberra,
-    Value: {
-      Generic: ເວ​ລາອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ມາດຕະຖານ​​​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Australia/Currie,
-    Value: {
-      Generic: ເວ​ລາອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ມາດຕະຖານ​​​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Australia/Darwin,
-    Value: {
-      Generic: ເວ​ລາອອ​ສ​ເຕຣ​ເລຍ​ກາງ,
-      Standard: ເວ​ລາມາດ​ຕະ​ຖານອອ​ສ​ເຕຣ​ເລຍ​ກ​າງ,
-      Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ເລຍ​ກາງ
-    }
-  },
-  {
-    Key: Australia/Eucla,
-    Value: {
-      Generic: ເວ​ລາອອສ​ເຕຣ​ລຽນ​ກາງ​ຕາ​ເວັນ​ຕົກ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານອອສ​ເຕຣ​ລຽນ​ກາງ​ຕາ​ເວັນ​ຕົກ,
-      Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ລຽນ​ກາງ​ຕາ​ເວັນ​ຕົກ
-    }
-  },
-  {
-    Key: Australia/Hobart,
-    Value: {
-      Generic: ເວ​ລາອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ມາດຕະຖານ​​​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Australia/LHI,
-    Value: {
-      Generic: ເວ​ລາ​ລອດ​ເຮົາ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ລອດ​ເຮົາ,
-      Daylight: ​ເວ​ລ​ສາ​ຕອນ​​ທ່ຽງ​ລອດ​ເຮົາ​
-    }
-  },
-  {
-    Key: Australia/Lindeman,
-    Value: {
-      Generic: ເວ​ລາອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ມາດຕະຖານ​​​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Australia/Lord_Howe,
-    Value: {
-      Generic: ເວ​ລາ​ລອດ​ເຮົາ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ລອດ​ເຮົາ,
-      Daylight: ​ເວ​ລ​ສາ​ຕອນ​​ທ່ຽງ​ລອດ​ເຮົາ​
-    }
-  },
-  {
-    Key: Australia/Melbourne,
-    Value: {
-      Generic: ເວ​ລາອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ມາດຕະຖານ​​​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Australia/North,
-    Value: {
-      Generic: ເວ​ລາອອ​ສ​ເຕຣ​ເລຍ​ກາງ,
-      Standard: ເວ​ລາມາດ​ຕະ​ຖານອອ​ສ​ເຕຣ​ເລຍ​ກ​າງ,
-      Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ເລຍ​ກາງ
-    }
-  },
-  {
-    Key: Australia/NSW,
-    Value: {
-      Generic: ເວ​ລາອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ມາດຕະຖານ​​​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Australia/Perth,
-    Value: {
-      Generic: ເວ​ລາ​ອອສ​ເຕຣ​ເລຍ​ຕາ​ເວັນ​ຕົກ,
-      Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ຕົກ,
-      Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ຕົກ
-    }
-  },
-  {
-    Key: Australia/Queensland,
-    Value: {
-      Generic: ເວ​ລາອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ມາດຕະຖານ​​​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Australia/South,
-    Value: {
-      Generic: ເວ​ລາອອ​ສ​ເຕຣ​ເລຍ​ກາງ,
-      Standard: ເວ​ລາມາດ​ຕະ​ຖານອອ​ສ​ເຕຣ​ເລຍ​ກ​າງ,
-      Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ເລຍ​ກາງ
-    }
-  },
-  {
-    Key: Australia/Sydney,
-    Value: {
-      Generic: ເວ​ລາອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ມາດຕະຖານ​​​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Australia/Tasmania,
-    Value: {
-      Generic: ເວ​ລາອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ມາດຕະຖານ​​​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Australia/Victoria,
-    Value: {
-      Generic: ເວ​ລາອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ມາດຕະຖານ​​​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Australia/West,
-    Value: {
-      Generic: ເວ​ລາ​ອອສ​ເຕຣ​ເລຍ​ຕາ​ເວັນ​ຕົກ,
-      Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ຕົກ,
-      Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ຕົກ
-    }
-  },
-  {
-    Key: Australia/Yancowinna,
-    Value: {
-      Generic: ເວ​ລາອອ​ສ​ເຕຣ​ເລຍ​ກາງ,
-      Standard: ເວ​ລາມາດ​ຕະ​ຖານອອ​ສ​ເຕຣ​ເລຍ​ກ​າງ,
-      Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ເລຍ​ກາງ
-    }
-  },
-  {
-    Key: Brazil/Acre,
-    Value: {
-      Generic: ເວລາຂອງອາເກຣ,
-      Standard: ເວລາມາດຕະຖານຂອງອາເກຣ,
-      Daylight: ເວລາລະດູຮ້ອນຂອງອາເກຣ
-    }
-  },
-  {
-    Key: Brazil/DeNoronha,
-    Value: {
-      Generic: ເວລາເຟນັນໂດເດໂນຮອນຮາ,
-      Standard: ເວລາມາດຕະຖານເຟນັນໂດເດໂນຮອນຮາ,
-      Daylight: ເວລາລະດູຮ້ອນເຟນັນໂດເດໂນຮອນຮາ
-    }
-  },
-  {
-    Key: Brazil/East,
-    Value: {
-      Generic: ເວລາຕາມເຂດບຣາຊິເລຍ,
-      Standard: ເວລາມາດຕາຖານເບຣຊີເລຍ,
-      Daylight: ເວລາຕາມເຂດລະດູຮ້ອນຕາມເຂດບຣາຊີເລຍ
-    }
-  },
-  {
-    Key: Brazil/West,
-    Value: {
-      Generic: ເວລາຕາມເຂດອາເມຊອນ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເມ​ຊອນ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນອາ​ເມ​ຊອນ
-    }
-  },
-  {
-    Key: Canada/Atlantic,
-    Value: {
-      Generic: ເວລາຂອງອາແລນຕິກ,
-      Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
-      Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
-    }
-  },
-  {
-    Key: Canada/Central,
-    Value: {
-      Generic: ເວລາກາງ,
-      Standard: ເວລາມາດຕະຖານກາງ,
-      Daylight: ເວລາກາງເວັນກາງ
-    }
-  },
-  {
-    Key: Canada/Eastern,
-    Value: {
-      Generic: ເວລາຕາເວັນອອກ,
-      Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
-      Daylight: ເວລາກາງເວັນຕາເວັນອອກ
-    }
-  },
-  {
-    Key: Canada/Mountain,
-    Value: {
-      Generic: ເວລາແຖບພູເຂົາ,
-      Standard: ເວລາມາດຕະຖານແຖບພູເຂົາ,
-      Daylight: ເວລາກາງເວັນແຖບພູເຂົາ
-    }
-  },
-  {
-    Key: Canada/Newfoundland,
-    Value: {
-      Generic: ເວ​ລາ​ນິວ​ຟາວ​ແລນ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ນິວ​ຟາວ​ແລນ,
-      Daylight: ເວລາກາງເວັນນິວຟາວແລນ
-    }
-  },
-  {
-    Key: Canada/Pacific,
-    Value: {
-      Generic: ເວລາແປຊິຟິກ,
-      Standard: ເວລາມາດຕະຖານແປຊິຟິກ,
-      Daylight: ເວລາກາງເວັນແປຊິຟິກ
-    }
-  },
-  {
-    Key: Canada/Saskatchewan,
-    Value: {
-      Generic: ເວລາກາງ,
-      Standard: ເວລາມາດຕະຖານກາງ,
-      Daylight: ເວລາກາງເວັນກາງ
-    }
-  },
-  {
-    Key: Canada/Yukon,
-    Value: {
-      Generic: ເວລາຢູຄອນ,
-      Standard: ເວລາຢູຄອນ,
-      Daylight: ເວລາຢູຄອນ
-    }
-  },
-  {
-    Key: CET,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
-    }
-  },
-  {
-    Key: Chile/Continental,
-    Value: {
-      Generic: ເວ​ລາ​ຊິ​ລີ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານຊິ​ລີ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຊິ​ລີ
-    }
-  },
-  {
-    Key: Chile/EasterIsland,
-    Value: {
-      Generic: ເວ​ລາ​ເກາະ​ອີ​ສ​ເຕີ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານເກາະ​ອີ​ສ​ເຕີ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນເກາະ​ອີ​ສ​ເຕີ
-    }
-  },
-  {
-    Key: CST6CDT,
-    Value: {
-      Generic: ເວລາກາງ,
-      Standard: ເວລາມາດຕະຖານກາງ,
-      Daylight: ເວລາກາງເວັນກາງ
-    }
-  },
-  {
-    Key: Cuba,
-    Value: {
-      Generic: ເວລາຄິວບາ,
-      Standard: ເວລາມາດຕະຖານຂອງຄິວບາ,
-      Daylight: ເວລາກາງເວັນຄິວບາ
-    }
-  },
-  {
-    Key: EET,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Egypt,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Eire,
-    Value: {
-      Generic: ເວລາ ໄອແລນ,
-      Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Daylight: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ໄອ​ຣິ​ຊ
-    }
-  },
-  {
-    Key: EST,
-    Value: {
-      Generic: ເວລາສາກົນເຊີງພິກັດ -5,
-      Standard: ເວລາສາກົນເຊີງພິກັດ -5,
-      Daylight: ເວລາສາກົນເຊີງພິກັດ -5
-    }
-  },
-  {
-    Key: EST5EDT,
-    Value: {
-      Generic: ເວລາຕາເວັນອອກ,
-      Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
-      Daylight: ເວລາກາງເວັນຕາເວັນອອກ
-    }
-  },
-  {
-    Key: Etc/GMT,
-    Value: {
-      Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
-    }
-  },
-  {
-    Key: Etc/GMT-0,
-    Value: {
-      Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
-    }
-  },
-  {
-    Key: Etc/GMT-1,
-    Value: {
-      Generic: ເວລາສາກົນເຊີງພິກັດ +1,
-      Standard: ເວລາສາກົນເຊີງພິກັດ +1,
-      Daylight: ເວລາສາກົນເຊີງພິກັດ +1
-    }
-  },
-  {
-    Key: Etc/GMT-10,
-    Value: {
-      Generic: ເວລາສາກົນເຊີງພິກັດ +10,
-      Standard: ເວລາສາກົນເຊີງພິກັດ +10,
-      Daylight: ເວລາສາກົນເຊີງພິກັດ +10
-    }
-  },
-  {
-    Key: Etc/GMT-11,
-    Value: {
-      Generic: ເວລາສາກົນເຊີງພິກັດ +11,
-      Standard: ເວລາສາກົນເຊີງພິກັດ +11,
-      Daylight: ເວລາສາກົນເຊີງພິກັດ +11
-    }
-  },
-  {
-    Key: Etc/GMT-12,
-    Value: {
-      Generic: ເວລາສາກົນເຊີງພິກັດ +12,
-      Standard: ເວລາສາກົນເຊີງພິກັດ +12,
-      Daylight: ເວລາສາກົນເຊີງພິກັດ +12
-    }
-  },
-  {
-    Key: Etc/GMT-13,
-    Value: {
-      Generic: ເວລາສາກົນເຊີງພິກັດ +13,
-      Standard: ເວລາສາກົນເຊີງພິກັດ +13,
-      Daylight: ເວລາສາກົນເຊີງພິກັດ +13
-    }
-  },
-  {
-    Key: Etc/GMT-14,
-    Value: {
-      Generic: ເວລາສາກົນເຊີງພິກັດ +14,
-      Standard: ເວລາສາກົນເຊີງພິກັດ +14,
-      Daylight: ເວລາສາກົນເຊີງພິກັດ +14
-    }
-  },
-  {
-    Key: Etc/GMT-2,
-    Value: {
-      Generic: ເວລາສາກົນເຊີງພິກັດ +2,
-      Standard: ເວລາສາກົນເຊີງພິກັດ +2,
-      Daylight: ເວລາສາກົນເຊີງພິກັດ +2
-    }
-  },
-  {
-    Key: Etc/GMT-3,
-    Value: {
-      Generic: ເວລາສາກົນເຊີງພິກັດ +3,
-      Standard: ເວລາສາກົນເຊີງພິກັດ +3,
-      Daylight: ເວລາສາກົນເຊີງພິກັດ +3
-    }
-  },
-  {
-    Key: Etc/GMT-4,
-    Value: {
-      Generic: ເວລາສາກົນເຊີງພິກັດ +4,
-      Standard: ເວລາສາກົນເຊີງພິກັດ +4,
-      Daylight: ເວລາສາກົນເຊີງພິກັດ +4
-    }
-  },
-  {
-    Key: Etc/GMT-5,
-    Value: {
-      Generic: ເວລາສາກົນເຊີງພິກັດ +5,
-      Standard: ເວລາສາກົນເຊີງພິກັດ +5,
-      Daylight: ເວລາສາກົນເຊີງພິກັດ +5
-    }
-  },
-  {
-    Key: Etc/GMT-6,
-    Value: {
-      Generic: ເວລາສາກົນເຊີງພິກັດ +6,
-      Standard: ເວລາສາກົນເຊີງພິກັດ +6,
-      Daylight: ເວລາສາກົນເຊີງພິກັດ +6
-    }
-  },
-  {
-    Key: Etc/GMT-7,
-    Value: {
-      Generic: ເວລາສາກົນເຊີງພິກັດ +7,
-      Standard: ເວລາສາກົນເຊີງພິກັດ +7,
-      Daylight: ເວລາສາກົນເຊີງພິກັດ +7
-    }
-  },
-  {
-    Key: Etc/GMT-8,
-    Value: {
-      Generic: ເວລາສາກົນເຊີງພິກັດ +8,
-      Standard: ເວລາສາກົນເຊີງພິກັດ +8,
-      Daylight: ເວລາສາກົນເຊີງພິກັດ +8
-    }
-  },
-  {
-    Key: Etc/GMT-9,
-    Value: {
-      Generic: ເວລາສາກົນເຊີງພິກັດ +9,
-      Standard: ເວລາສາກົນເຊີງພິກັດ +9,
-      Daylight: ເວລາສາກົນເຊີງພິກັດ +9
-    }
-  },
-  {
-    Key: Etc/GMT+0,
-    Value: {
-      Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
-    }
-  },
-  {
-    Key: Etc/GMT+1,
-    Value: {
-      Generic: ເວລາສາກົນເຊີງພິກັດ -1,
-      Standard: ເວລາສາກົນເຊີງພິກັດ -1,
-      Daylight: ເວລາສາກົນເຊີງພິກັດ -1
-    }
-  },
-  {
-    Key: Etc/GMT+10,
-    Value: {
-      Generic: ເວລາສາກົນເຊີງພິກັດ -10,
-      Standard: ເວລາສາກົນເຊີງພິກັດ -10,
-      Daylight: ເວລາສາກົນເຊີງພິກັດ -10
-    }
-  },
-  {
-    Key: Etc/GMT+11,
-    Value: {
-      Generic: ເວລາສາກົນເຊີງພິກັດ -11,
-      Standard: ເວລາສາກົນເຊີງພິກັດ -11,
-      Daylight: ເວລາສາກົນເຊີງພິກັດ -11
-    }
-  },
-  {
-    Key: Etc/GMT+12,
-    Value: {
-      Generic: ເວລາສາກົນເຊີງພິກັດ -12,
-      Standard: ເວລາສາກົນເຊີງພິກັດ -12,
-      Daylight: ເວລາສາກົນເຊີງພິກັດ -12
-    }
-  },
-  {
-    Key: Etc/GMT+2,
-    Value: {
-      Generic: ເວລາສາກົນເຊີງພິກັດ -2,
-      Standard: ເວລາສາກົນເຊີງພິກັດ -2,
-      Daylight: ເວລາສາກົນເຊີງພິກັດ -2
-    }
-  },
-  {
-    Key: Etc/GMT+3,
-    Value: {
-      Generic: ເວລາສາກົນເຊີງພິກັດ -3,
-      Standard: ເວລາສາກົນເຊີງພິກັດ -3,
-      Daylight: ເວລາສາກົນເຊີງພິກັດ -3
-    }
-  },
-  {
-    Key: Etc/GMT+4,
-    Value: {
-      Generic: ເວລາສາກົນເຊີງພິກັດ -4,
-      Standard: ເວລາສາກົນເຊີງພິກັດ -4,
-      Daylight: ເວລາສາກົນເຊີງພິກັດ -4
-    }
-  },
-  {
-    Key: Etc/GMT+5,
-    Value: {
-      Generic: ເວລາສາກົນເຊີງພິກັດ -5,
-      Standard: ເວລາສາກົນເຊີງພິກັດ -5,
-      Daylight: ເວລາສາກົນເຊີງພິກັດ -5
-    }
-  },
-  {
-    Key: Etc/GMT+6,
-    Value: {
-      Generic: ເວລາສາກົນເຊີງພິກັດ -6,
-      Standard: ເວລາສາກົນເຊີງພິກັດ -6,
-      Daylight: ເວລາສາກົນເຊີງພິກັດ -6
-    }
-  },
-  {
-    Key: Etc/GMT+7,
-    Value: {
-      Generic: ເວລາສາກົນເຊີງພິກັດ -7,
-      Standard: ເວລາສາກົນເຊີງພິກັດ -7,
-      Daylight: ເວລາສາກົນເຊີງພິກັດ -7
-    }
-  },
-  {
-    Key: Etc/GMT+8,
-    Value: {
-      Generic: ເວລາສາກົນເຊີງພິກັດ -8,
-      Standard: ເວລາສາກົນເຊີງພິກັດ -8,
-      Daylight: ເວລາສາກົນເຊີງພິກັດ -8
-    }
-  },
-  {
-    Key: Etc/GMT+9,
-    Value: {
-      Generic: ເວລາສາກົນເຊີງພິກັດ -9,
-      Standard: ເວລາສາກົນເຊີງພິກັດ -9,
-      Daylight: ເວລາສາກົນເຊີງພິກັດ -9
-    }
-  },
-  {
-    Key: Etc/GMT0,
-    Value: {
-      Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
-    }
-  },
-  {
-    Key: Etc/Greenwich,
-    Value: {
-      Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
-    }
-  },
-  {
-    Key: Etc/UCT,
-    Value: {
-      Generic: ເວລາສາກົນເຊີງພິກັດ,
-      Standard: ເວລາສາກົນເຊີງພິກັດ,
-      Daylight: ເວລາສາກົນເຊີງພິກັດ
-    }
-  },
-  {
-    Key: Etc/Universal,
-    Value: {
-      Generic: ເວລາສາກົນເຊີງພິກັດ,
-      Standard: ເວລາສາກົນເຊີງພິກັດ,
-      Daylight: ເວລາສາກົນເຊີງພິກັດ
-    }
-  },
-  {
-    Key: Etc/UTC,
-    Value: {
-      Generic: ເວລາສາກົນເຊີງພິກັດ,
-      Standard: ເວລາສາກົນເຊີງພິກັດ,
-      Daylight: ເວລາສາກົນເຊີງພິກັດ
-    }
-  },
-  {
-    Key: Etc/Zulu,
-    Value: {
-      Generic: ເວລາສາກົນເຊີງພິກັດ,
-      Standard: ເວລາສາກົນເຊີງພິກັດ,
-      Daylight: ເວລາສາກົນເຊີງພິກັດ
-    }
-  },
-  {
-    Key: Europe/Amsterdam,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
-    }
-  },
-  {
-    Key: Europe/Andorra,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
-    }
-  },
-  {
-    Key: Europe/Astrakhan,
-    Value: {
-      Generic: ເວລາ ອາສຕຣາຄານ,
-      Standard: ເວລາມາດຕະຖານ ອາສຕຣາຄານ,
-      Daylight: ເວລາກາງເວັນ ອາສຕຣາຄານ
-    }
-  },
-  {
-    Key: Europe/Athens,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Europe/Belfast,
-    Value: {
-      Generic: ເວລາ ສະຫະລາດຊະອະນາຈັກ,
-      Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອັງ​ກິດ
-    }
-  },
-  {
-    Key: Europe/Belgrade,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
-    }
-  },
-  {
-    Key: Europe/Berlin,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
-    }
-  },
-  {
-    Key: Europe/Bratislava,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
-    }
-  },
-  {
-    Key: Europe/Brussels,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
-    }
-  },
-  {
-    Key: Europe/Bucharest,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Europe/Budapest,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
-    }
-  },
-  {
-    Key: Europe/Busingen,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
-    }
-  },
-  {
-    Key: Europe/Chisinau,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Europe/Copenhagen,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
-    }
-  },
-  {
-    Key: Europe/Dublin,
-    Value: {
-      Generic: ເວລາ ໄອແລນ,
-      Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Daylight: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ໄອ​ຣິ​ຊ
-    }
-  },
-  {
-    Key: Europe/Gibraltar,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
-    }
-  },
-  {
-    Key: Europe/Guernsey,
-    Value: {
-      Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
-    }
-  },
-  {
-    Key: Europe/Helsinki,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Europe/Isle_of_Man,
-    Value: {
-      Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
-    }
-  },
-  {
-    Key: Europe/Istanbul,
-    Value: {
-      Generic: ເວລາ ເທີຄີ,
-      Standard: ເວລາມາດຕະຖານ ເທີຄີ,
-      Daylight: ເວລາກາງເວັນ ເທີຄີ
-    }
-  },
-  {
-    Key: Europe/Jersey,
-    Value: {
-      Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
-    }
-  },
-  {
-    Key: Europe/Kaliningrad,
-    Value: {
-      Generic: ເວລາ ຄາລິນິນກຣາດ,
-      Standard: ເວລາມາດຕະຖານ ຄາລິນິນກຣາດ,
-      Daylight: ເວລາກາງເວັນ ຄາລິນິນກຣາດ
-    }
-  },
-  {
-    Key: Europe/Kiev,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Europe/Kirov,
-    Value: {
-      Generic: ເວລາ ກິໂຣບ,
-      Standard: ເວລາມາດຕະຖານ ກິໂຣບ,
-      Daylight: ເວລາກາງເວັນ ກິໂຣບ
-    }
-  },
-  {
-    Key: Europe/Kyiv,
-    Value: {
-      Generic: ເວລາ ຢູເຄຣນ,
-      Standard: ເວລາມາດຕະຖານ ຢູເຄຣນ,
-      Daylight: ເວລາກາງເວັນ ຢູເຄຣນ
-    }
-  },
-  {
-    Key: Europe/Lisbon,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ
-    }
-  },
-  {
-    Key: Europe/Ljubljana,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
-    }
-  },
-  {
-    Key: Europe/London,
-    Value: {
-      Generic: ເວລາ ສະຫະລາດຊະອະນາຈັກ,
-      Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອັງ​ກິດ
-    }
-  },
-  {
-    Key: Europe/Luxembourg,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
-    }
-  },
-  {
-    Key: Europe/Madrid,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
-    }
-  },
-  {
-    Key: Europe/Malta,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
-    }
-  },
-  {
-    Key: Europe/Mariehamn,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Europe/Minsk,
-    Value: {
-      Generic: ເວ​ລາ​ມອ​ສ​ໂຄ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານມອ​ສ​ໂຄ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນມອ​ສ​ໂຄ
-    }
-  },
-  {
-    Key: Europe/Monaco,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
-    }
-  },
-  {
-    Key: Europe/Moscow,
-    Value: {
-      Generic: ເວລາ ມອສໂຄ,
-      Standard: ເວລາມາດຕະຖານ ມອສໂຄ,
-      Daylight: ເວລາກາງເວັນ ມອສໂຄ
-    }
-  },
-  {
-    Key: Europe/Nicosia,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Europe/Oslo,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
-    }
-  },
-  {
-    Key: Europe/Paris,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
-    }
-  },
-  {
-    Key: Europe/Podgorica,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
-    }
-  },
-  {
-    Key: Europe/Prague,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
-    }
-  },
-  {
-    Key: Europe/Riga,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Europe/Rome,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
-    }
-  },
-  {
-    Key: Europe/Samara,
-    Value: {
-      Generic: ເວລາ ຊາມາຣາ,
-      Standard: ເວລາມາດຕະຖານ ຊາມາຣາ,
-      Daylight: ເວລາກາງເວັນ ຊາມາຣາ
-    }
-  },
-  {
-    Key: Europe/San_Marino,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
-    }
-  },
-  {
-    Key: Europe/Sarajevo,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
-    }
-  },
-  {
-    Key: Europe/Saratov,
-    Value: {
-      Generic: ເວລາ ຊາຣາທອບ,
-      Standard: ເວລາມາດຕະຖານ ຊາຣາທອບ,
-      Daylight: ເວລາກາງເວັນ ຊາຣາທອບ
-    }
-  },
-  {
-    Key: Europe/Simferopol,
-    Value: {
-      Generic: ເວ​ລາ​ມອ​ສ​ໂຄ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານມອ​ສ​ໂຄ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນມອ​ສ​ໂຄ
-    }
-  },
-  {
-    Key: Europe/Skopje,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
-    }
-  },
-  {
-    Key: Europe/Sofia,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Europe/Stockholm,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
-    }
-  },
-  {
-    Key: Europe/Tallinn,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Europe/Tirane,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
-    }
-  },
-  {
-    Key: Europe/Tiraspol,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Europe/Ulyanovsk,
-    Value: {
-      Generic: ເວລາ ອູລີອານອບສຄ໌,
-      Standard: ເວລາມາດຕະຖານ ອູລີອານອບສຄ໌,
-      Daylight: ເວລາກາງເວັນ ອູລີອານອບສຄ໌
-    }
-  },
-  {
-    Key: Europe/Uzhgorod,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Europe/Vaduz,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
-    }
-  },
-  {
-    Key: Europe/Vatican,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
-    }
-  },
-  {
-    Key: Europe/Vienna,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
-    }
-  },
-  {
-    Key: Europe/Vilnius,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Europe/Volgograd,
-    Value: {
-      Generic: ເວລາ ວອລໂກກຣາດ,
-      Standard: ເວລາມາດຕະຖານ ວອລໂກກຣາດ,
-      Daylight: ເວລາກາງເວັນ ວອລໂກກຣາດ
-    }
-  },
-  {
-    Key: Europe/Warsaw,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
-    }
-  },
-  {
-    Key: Europe/Zagreb,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
-    }
-  },
-  {
-    Key: Europe/Zaporozhye,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Europe/Zurich,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
-    }
-  },
-  {
-    Key: GB,
-    Value: {
-      Generic: ເວລາ ສະຫະລາດຊະອະນາຈັກ,
-      Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອັງ​ກິດ
-    }
-  },
-  {
-    Key: GB-Eire,
-    Value: {
-      Generic: ເວລາ ສະຫະລາດຊະອະນາຈັກ,
-      Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອັງ​ກິດ
-    }
-  },
-  {
-    Key: GMT,
-    Value: {
-      Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
-    }
-  },
-  {
-    Key: GMT-0,
-    Value: {
-      Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
-    }
-  },
-  {
-    Key: GMT+0,
-    Value: {
-      Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
-    }
-  },
-  {
-    Key: GMT0,
-    Value: {
-      Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
-    }
-  },
-  {
-    Key: Greenwich,
-    Value: {
-      Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
-    }
-  },
-  {
-    Key: Hongkong,
-    Value: {
-      Generic: ເວ​ລາ​ຮອງ​ກົງ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຮອງ​ກົງ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຮອງ​ກົງ
-    }
-  },
-  {
-    Key: HST,
-    Value: {
-      Generic: ເວລາສາກົນເຊີງພິກັດ -10,
-      Standard: ເວລາສາກົນເຊີງພິກັດ -10,
-      Daylight: ເວລາສາກົນເຊີງພິກັດ -10
-    }
-  },
-  {
-    Key: Iceland,
-    Value: {
-      Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
-      Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
-    }
-  },
-  {
-    Key: Indian/Antananarivo,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Indian/Chagos,
-    Value: {
-      Generic: ເວລາຫມະຫາສະຫມຸດອິນເດຍ,
-      Standard: ເວລາຫມະຫາສະຫມຸດອິນເດຍ,
-      Daylight: ເວລາຫມະຫາສະຫມຸດອິນເດຍ
-    }
-  },
-  {
-    Key: Indian/Christmas,
-    Value: {
-      Generic: ເວ​ລາ​ເກາະ​ຄ​ຣິສ​ມາສ,
-      Standard: ເວ​ລາ​ເກາະ​ຄ​ຣິສ​ມາສ,
-      Daylight: ເວ​ລາ​ເກາະ​ຄ​ຣິສ​ມາສ
-    }
-  },
-  {
-    Key: Indian/Cocos,
-    Value: {
-      Generic: ເວລາຫມູ່ເກາະໂກໂກສ,
-      Standard: ເວລາຫມູ່ເກາະໂກໂກສ,
-      Daylight: ເວລາຫມູ່ເກາະໂກໂກສ
-    }
-  },
-  {
-    Key: Indian/Comoro,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Indian/Kerguelen,
-    Value: {
-      Generic: ເວລາຝຣັ່ງຕອນໃຕ້ ແລະ ແອນຕາກຕິກ,
-      Standard: ເວລາຝຣັ່ງຕອນໃຕ້ ແລະ ແອນຕາກຕິກ,
-      Daylight: ເວລາຝຣັ່ງຕອນໃຕ້ ແລະ ແອນຕາກຕິກ
-    }
-  },
-  {
-    Key: Indian/Mahe,
-    Value: {
-      Generic: ເວ​ລາ​ເຊ​ເຊ​ລ​ສ໌,
-      Standard: ເວ​ລາ​ເຊ​ເຊ​ລ​ສ໌,
-      Daylight: ເວ​ລາ​ເຊ​ເຊ​ລ​ສ໌
-    }
-  },
-  {
-    Key: Indian/Maldives,
-    Value: {
-      Generic: ເວລາມັລດີຟ,
-      Standard: ເວລາມັລດີຟ,
-      Daylight: ເວລາມັລດີຟ
-    }
-  },
-  {
-    Key: Indian/Mauritius,
-    Value: {
-      Generic: ເວ​ລາ​ເມົາ​ຣິ​ທຽ​ສ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານເມົາ​ຣິ​ທຽ​ສ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ເມົາ​ຣິ​ທຽ​ສ
-    }
-  },
-  {
-    Key: Indian/Mayotte,
-    Value: {
-      Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: Indian/Reunion,
-    Value: {
-      Generic: ເວ​ລາ​ເຣ​ອູ​ນິ​ຢົງ,
-      Standard: ເວ​ລາ​ເຣ​ອູ​ນິ​ຢົງ,
-      Daylight: ເວ​ລາ​ເຣ​ອູ​ນິ​ຢົງ
-    }
-  },
-  {
-    Key: Iran,
-    Value: {
-      Generic: ເວ​ລາ​ອີ​ຣານ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານອີ​ຣານ,
-      Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອີ​ຣາ​ນ
-    }
-  },
-  {
-    Key: Israel,
-    Value: {
-      Generic: ເວ​ລາ​ອິ​ສ​ຣາ​ເອວ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານອິ​ສ​ຣາ​ເອວ,
-      Daylight: ເວລາກາງເວັນອິສຣາເອວ
-    }
-  },
-  {
-    Key: Jamaica,
-    Value: {
-      Generic: ເວລາຕາເວັນອອກ,
-      Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
-      Daylight: ເວລາກາງເວັນຕາເວັນອອກ
-    }
-  },
-  {
-    Key: Japan,
-    Value: {
-      Generic: ເວ​ລາ​ຍີ່​ປຸ່ນ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຍີ່​ປຸ່ນ,
-      Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ຍີ່​ປຸ່ນ
-    }
-  },
-  {
-    Key: Kwajalein,
-    Value: {
-      Generic: ເວ​ລາ​ໝູ່​ເກາະ​ມາ​ແຊວ,
-      Standard: ເວ​ລາ​ໝູ່​ເກາະ​ມາ​ແຊວ,
-      Daylight: ເວ​ລາ​ໝູ່​ເກາະ​ມາ​ແຊວ
-    }
-  },
-  {
-    Key: Libya,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
-    }
-  },
-  {
-    Key: MET,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
-    }
-  },
-  {
-    Key: Mexico/BajaNorte,
-    Value: {
-      Generic: ເວລາແປຊິຟິກ,
-      Standard: ເວລາມາດຕະຖານແປຊິຟິກ,
-      Daylight: ເວລາກາງເວັນແປຊິຟິກ
-    }
-  },
-  {
-    Key: Mexico/BajaSur,
-    Value: {
-      Generic: ເວລາແປຊິຟິກເມັກຊິກັນ,
-      Standard: ເວລາມາດຕະຖານແປຊິຟິກເມັກຊິກັນ,
-      Daylight: ເວລາກາງເວັນແປຊິຟິກເມັກຊິກັນ
-    }
-  },
-  {
-    Key: Mexico/General,
-    Value: {
-      Generic: ເວລາກາງ,
-      Standard: ເວລາມາດຕະຖານກາງ,
-      Daylight: ເວລາກາງເວັນກາງ
-    }
-  },
-  {
-    Key: MST,
-    Value: {
-      Generic: ເວລາສາກົນເຊີງພິກັດ -7,
-      Standard: ເວລາສາກົນເຊີງພິກັດ -7,
-      Daylight: ເວລາສາກົນເຊີງພິກັດ -7
-    }
-  },
-  {
-    Key: MST7MDT,
-    Value: {
-      Generic: ເວລາແຖບພູເຂົາ,
-      Standard: ເວລາມາດຕະຖານແຖບພູເຂົາ,
-      Daylight: ເວລາກາງເວັນແຖບພູເຂົາ
-    }
-  },
-  {
-    Key: Navajo,
-    Value: {
-      Generic: ເວລາແຖບພູເຂົາ,
-      Standard: ເວລາມາດຕະຖານແຖບພູເຂົາ,
-      Daylight: ເວລາກາງເວັນແຖບພູເຂົາ
-    }
-  },
-  {
-    Key: NZ,
-    Value: {
-      Generic: ເວ​ລາ​ນິວ​ຊີ​ແລນ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານນິວ​ຊີ​ແລນ,
-      Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ນິວ​ຊີ​ແລນ
-    }
-  },
-  {
-    Key: NZ-CHAT,
-    Value: {
-      Generic: ເວ​ລາ​ຊາ​ທາມ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຊາ​ທາມ,
-      Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ຊາ​ທາມ
-    }
-  },
-  {
-    Key: Pacific/Apia,
-    Value: {
-      Generic: ເວລາເອເພຍ,
-      Standard: ເວລາມາດຕະຖານເອເພຍ,
-      Daylight: ເວລາກາງເວັນອາເພຍ
-    }
-  },
-  {
-    Key: Pacific/Auckland,
-    Value: {
-      Generic: ເວ​ລາ​ນິວ​ຊີ​ແລນ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານນິວ​ຊີ​ແລນ,
-      Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ນິວ​ຊີ​ແລນ
-    }
-  },
-  {
-    Key: Pacific/Bougainville,
-    Value: {
-      Generic: ເວລາປາປົວກິນີ,
-      Standard: ເວລາປາປົວກິນີ,
-      Daylight: ເວລາປາປົວກິນີ
-    }
-  },
-  {
-    Key: Pacific/Chatham,
-    Value: {
-      Generic: ເວ​ລາ​ຊາ​ທາມ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຊາ​ທາມ,
-      Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ຊາ​ທາມ
-    }
-  },
-  {
-    Key: Pacific/Chuuk,
-    Value: {
-      Generic: ເວລາຊຸກ,
-      Standard: ເວລາຊຸກ,
-      Daylight: ເວລາຊຸກ
-    }
-  },
-  {
-    Key: Pacific/Easter,
-    Value: {
-      Generic: ເວ​ລາ​ເກາະ​ອີ​ສ​ເຕີ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານເກາະ​ອີ​ສ​ເຕີ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນເກາະ​ອີ​ສ​ເຕີ
-    }
-  },
-  {
-    Key: Pacific/Efate,
-    Value: {
-      Generic: ເວລາວານູອາຕູ,
-      Standard: ເວລາມາດຕະຖານວານູອາຕູ,
-      Daylight: ເວລາລະດູຮ້ອນວານູອາຕູ
-    }
-  },
-  {
-    Key: Pacific/Enderbury,
-    Value: {
-      Generic: ເວລາຫມູ່ເກາະຟີນິກ,
-      Standard: ເວລາຫມູ່ເກາະຟີນິກ,
-      Daylight: ເວລາຫມູ່ເກາະຟີນິກ
-    }
-  },
-  {
-    Key: Pacific/Fakaofo,
-    Value: {
-      Generic: ເວລາໂຕເກເລົາ,
-      Standard: ເວລາໂຕເກເລົາ,
-      Daylight: ເວລາໂຕເກເລົາ
-    }
-  },
-  {
-    Key: Pacific/Fiji,
-    Value: {
-      Generic: ເວລາຟິຈິ,
-      Standard: ເວລາມາດຕະຖານຟິຈິ,
-      Daylight: ເວລາລະດູຮ້ອນຟິຈິ
-    }
-  },
-  {
-    Key: Pacific/Funafuti,
-    Value: {
-      Generic: ເວລາຕູວາລູ,
-      Standard: ເວລາຕູວາລູ,
-      Daylight: ເວລາຕູວາລູ
-    }
-  },
-  {
-    Key: Pacific/Galapagos,
-    Value: {
-      Generic: ເວ​ລາ​ກາ​ລາ​ປາ​ກອ​ສ,
-      Standard: ເວ​ລາ​ກາ​ລາ​ປາ​ກອ​ສ,
-      Daylight: ເວ​ລາ​ກາ​ລາ​ປາ​ກອ​ສ
-    }
-  },
-  {
-    Key: Pacific/Gambier,
-    Value: {
-      Generic: ເວລາແກມເບຍ,
-      Standard: ເວລາແກມເບຍ,
-      Daylight: ເວລາແກມເບຍ
-    }
-  },
-  {
-    Key: Pacific/Guadalcanal,
-    Value: {
-      Generic: ເວລາຫມູ່ເກາະໂຊໂລມອນ,
-      Standard: ເວລາຫມູ່ເກາະໂຊໂລມອນ,
-      Daylight: ເວລາຫມູ່ເກາະໂຊໂລມອນ
-    }
-  },
-  {
-    Key: Pacific/Guam,
-    Value: {
-      Generic: ເວ​ລາ​ຈາ​ໂມ​ໂຣ,
-      Standard: ເວ​ລາ​ຈາ​ໂມ​ໂຣ,
-      Daylight: ເວ​ລາ​ຈາ​ໂມ​ໂຣ
-    }
-  },
-  {
-    Key: Pacific/Honolulu,
-    Value: {
-      Generic: ເວລາຮາວາຍ-ເອລູທຽນ,
-      Standard: ເວລາມາດຕະຖານຮາວາຍ-ເອລູທຽນ,
-      Daylight: ເວລາຕອນທ່ຽງຮາວາຍ-ເອລູທຽນ
-    }
-  },
-  {
-    Key: Pacific/Johnston,
-    Value: {
-      Generic: ເວລາຮາວາຍ-ເອລູທຽນ,
-      Standard: ເວລາມາດຕະຖານຮາວາຍ-ເອລູທຽນ,
-      Daylight: ເວລາຕອນທ່ຽງຮາວາຍ-ເອລູທຽນ
-    }
-  },
-  {
-    Key: Pacific/Kanton,
-    Value: {
-      Generic: ເວລາຫມູ່ເກາະຟີນິກ,
-      Standard: ເວລາຫມູ່ເກາະຟີນິກ,
-      Daylight: ເວລາຫມູ່ເກາະຟີນິກ
-    }
-  },
-  {
-    Key: Pacific/Kiritimati,
-    Value: {
-      Generic: ເວ​ລາ​ໝູ່​ເກາະ​ລາຍ,
-      Standard: ເວ​ລາ​ໝູ່​ເກາະ​ລາຍ,
-      Daylight: ເວ​ລາ​ໝູ່​ເກາະ​ລາຍ
-    }
-  },
-  {
-    Key: Pacific/Kosrae,
-    Value: {
-      Generic: ເວລາຄອສແຣ,
-      Standard: ເວລາຄອສແຣ,
-      Daylight: ເວລາຄອສແຣ
-    }
-  },
-  {
-    Key: Pacific/Kwajalein,
-    Value: {
-      Generic: ເວ​ລາ​ໝູ່​ເກາະ​ມາ​ແຊວ,
-      Standard: ເວ​ລາ​ໝູ່​ເກາະ​ມາ​ແຊວ,
-      Daylight: ເວ​ລາ​ໝູ່​ເກາະ​ມາ​ແຊວ
-    }
-  },
-  {
-    Key: Pacific/Majuro,
-    Value: {
-      Generic: ເວ​ລາ​ໝູ່​ເກາະ​ມາ​ແຊວ,
-      Standard: ເວ​ລາ​ໝູ່​ເກາະ​ມາ​ແຊວ,
-      Daylight: ເວ​ລາ​ໝູ່​ເກາະ​ມາ​ແຊວ
-    }
-  },
-  {
-    Key: Pacific/Marquesas,
-    Value: {
-      Generic: ເວລາມາເຄີຊັສ,
-      Standard: ເວລາມາເຄີຊັສ,
-      Daylight: ເວລາມາເຄີຊັສ
-    }
-  },
-  {
-    Key: Pacific/Midway,
-    Value: {
-      Generic: ເວລາຊາມົວ,
-      Standard: ເວລາມາດຕະຖານຊາມົວ,
-      Daylight: ເວລາລະດູຮ້ອນຊາມົວ
-    }
-  },
-  {
-    Key: Pacific/Nauru,
-    Value: {
-      Generic: ເວ​ລາ​ນາ​ອູ​ຣຸ,
-      Standard: ເວ​ລາ​ນາ​ອູ​ຣຸ,
-      Daylight: ເວ​ລາ​ນາ​ອູ​ຣຸ
-    }
-  },
-  {
-    Key: Pacific/Niue,
-    Value: {
-      Generic: ເວລານິອູເອ,
-      Standard: ເວລານິອູເອ,
-      Daylight: ເວລານິອູເອ
-    }
-  },
-  {
-    Key: Pacific/Norfolk,
-    Value: {
-      Generic: ເວ​ລາ​ເກາະ​ນໍ​ຟອ​ລ໌ກ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານເກາະ​ນໍ​ຟອ​ລ໌ກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນເກາະ​ນໍ​ຟອ​ລ໌ກ
-    }
-  },
-  {
-    Key: Pacific/Noumea,
-    Value: {
-      Generic: ເວລານິວແຄລິໂດເນຍ,
-      Standard: ເວລາມາດຕະຖານນິວແຄລິໂດເນຍ,
-      Daylight: ເວລາລະດູຮ້ອນນິວແຄລິໂດເນຍ
-    }
-  },
-  {
-    Key: Pacific/Pago_Pago,
-    Value: {
-      Generic: ເວລາຊາມົວ,
-      Standard: ເວລາມາດຕະຖານຊາມົວ,
-      Daylight: ເວລາລະດູຮ້ອນຊາມົວ
-    }
-  },
-  {
-    Key: Pacific/Palau,
-    Value: {
-      Generic: ເວລາປາເລົາ,
-      Standard: ເວລາປາເລົາ,
-      Daylight: ເວລາປາເລົາ
-    }
-  },
-  {
-    Key: Pacific/Pitcairn,
-    Value: {
-      Generic: ເວລາພິດແຄຣ໌ນ,
-      Standard: ເວລາພິດແຄຣ໌ນ,
-      Daylight: ເວລາພິດແຄຣ໌ນ
-    }
-  },
-  {
-    Key: Pacific/Pohnpei,
-    Value: {
-      Generic: ເວລາໂປເນບ,
-      Standard: ເວລາໂປເນບ,
-      Daylight: ເວລາໂປເນບ
-    }
-  },
-  {
-    Key: Pacific/Ponape,
-    Value: {
-      Generic: ເວລາໂປເນບ,
-      Standard: ເວລາໂປເນບ,
-      Daylight: ເວລາໂປເນບ
-    }
-  },
-  {
-    Key: Pacific/Port_Moresby,
-    Value: {
-      Generic: ເວລາປາປົວກິນີ,
-      Standard: ເວລາປາປົວກິນີ,
-      Daylight: ເວລາປາປົວກິນີ
-    }
-  },
-  {
-    Key: Pacific/Rarotonga,
-    Value: {
-      Generic: ເວລາຫມູ່ເກາະຄຸກ,
-      Standard: ເວລາມາດຕະຖານຫມູ່ເກາະຄຸກ,
-      Daylight: ເວ​ລາ​ເຄິ່ງ​ລະ​ດູ​ຮ້ອນ​ໝູ່​ເກາະ​ຄຸກ
-    }
-  },
-  {
-    Key: Pacific/Saipan,
-    Value: {
-      Generic: ເວ​ລາ​ຈາ​ໂມ​ໂຣ,
-      Standard: ເວ​ລາ​ຈາ​ໂມ​ໂຣ,
-      Daylight: ເວ​ລາ​ຈາ​ໂມ​ໂຣ
-    }
-  },
-  {
-    Key: Pacific/Samoa,
-    Value: {
-      Generic: ເວລາຊາມົວ,
-      Standard: ເວລາມາດຕະຖານຊາມົວ,
-      Daylight: ເວລາລະດູຮ້ອນຊາມົວ
-    }
-  },
-  {
-    Key: Pacific/Tahiti,
-    Value: {
-      Generic: ເວລາທາຮິຕິ,
-      Standard: ເວລາທາຮິຕິ,
-      Daylight: ເວລາທາຮິຕິ
-    }
-  },
-  {
-    Key: Pacific/Tarawa,
-    Value: {
-      Generic: ເວລາຫມູ່ເກາະກິລເບີດ,
-      Standard: ເວລາຫມູ່ເກາະກິລເບີດ,
-      Daylight: ເວລາຫມູ່ເກາະກິລເບີດ
-    }
-  },
-  {
-    Key: Pacific/Tongatapu,
-    Value: {
-      Generic: ເວລາຕອງກາ,
-      Standard: ເວລາມາດຕະຖານຕອງກາ,
-      Daylight: ເວລາລະດູຮ້ອນຕອງກາ
-    }
-  },
-  {
-    Key: Pacific/Truk,
-    Value: {
-      Generic: ເວລາຊຸກ,
-      Standard: ເວລາຊຸກ,
-      Daylight: ເວລາຊຸກ
-    }
-  },
-  {
-    Key: Pacific/Wake,
-    Value: {
-      Generic: ເວລາເກາະເວກ,
-      Standard: ເວລາເກາະເວກ,
-      Daylight: ເວລາເກາະເວກ
-    }
-  },
-  {
-    Key: Pacific/Wallis,
-    Value: {
-      Generic: ເວລາວາລລິສ ແລະ ຟູຕູນາ,
-      Standard: ເວລາວາລລິສ ແລະ ຟູຕູນາ,
-      Daylight: ເວລາວາລລິສ ແລະ ຟູຕູນາ
-    }
-  },
-  {
-    Key: Pacific/Yap,
-    Value: {
-      Generic: ເວລາຊຸກ,
-      Standard: ເວລາຊຸກ,
-      Daylight: ເວລາຊຸກ
-    }
-  },
-  {
-    Key: Poland,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
-      Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
-    }
-  },
-  {
-    Key: Portugal,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ
-    }
-  },
-  {
-    Key: PRC,
-    Value: {
-      Generic: ເວ​ລາ​ຈີນ,
-      Standard: ເວລາມາດຕະຖານຈີນ,
-      Daylight: ​ເວ​ລາ​ຕອນ​ທ່ຽງ​ຈີນ
-    }
-  },
-  {
-    Key: PST8PDT,
-    Value: {
-      Generic: ເວລາແປຊິຟິກ,
-      Standard: ເວລາມາດຕະຖານແປຊິຟິກ,
-      Daylight: ເວລາກາງເວັນແປຊິຟິກ
-    }
-  },
-  {
-    Key: ROC,
-    Value: {
-      Generic: ເວ​ລາ​ໄທ​ເປ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ໄທ​ເປ,
-      Daylight: ເວ​ລາ​ຕອນ​ທ່​ຽງ​ໄທ​ເປ
-    }
-  },
-  {
-    Key: ROK,
-    Value: {
-      Generic: ເວລາເກົາຫຼີ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ເກົາ​ຫລີ,
-      Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ເກົາ​ຫລີ
-    }
-  },
-  {
-    Key: Singapore,
-    Value: {
-      Generic: ເວ​ລາ​ສິງ​ກະ​ໂປ,
-      Standard: ເວ​ລາ​ສິງ​ກະ​ໂປ,
-      Daylight: ເວ​ລາ​ສິງ​ກະ​ໂປ
-    }
-  },
-  {
-    Key: Turkey,
-    Value: {
-      Generic: ເວລາ ເທີຄີ,
-      Standard: ເວລາມາດຕະຖານ ເທີຄີ,
-      Daylight: ເວລາກາງເວັນ ເທີຄີ
-    }
-  },
-  {
-    Key: UCT,
-    Value: {
-      Generic: ເວລາສາກົນເຊີງພິກັດ,
-      Standard: ເວລາສາກົນເຊີງພິກັດ,
-      Daylight: ເວລາສາກົນເຊີງພິກັດ
-    }
-  },
-  {
-    Key: Universal,
-    Value: {
-      Generic: ເວລາສາກົນເຊີງພິກັດ,
-      Standard: ເວລາສາກົນເຊີງພິກັດ,
-      Daylight: ເວລາສາກົນເຊີງພິກັດ
-    }
-  },
-  {
-    Key: US/Alaska,
-    Value: {
-      Generic: ເວລາອະລັສກາ,
-      Standard: ເວລາມາດຕະຖານອະລັສກາ,
-      Daylight: ເວລາກາງເວັນອະລັສກາ
-    }
-  },
-  {
-    Key: US/Aleutian,
-    Value: {
-      Generic: ເວລາຮາວາຍ-ເອລູທຽນ,
-      Standard: ເວລາມາດຕະຖານຮາວາຍ-ເອລູທຽນ,
-      Daylight: ເວລາຕອນທ່ຽງຮາວາຍ-ເອລູທຽນ
-    }
-  },
-  {
-    Key: US/Arizona,
-    Value: {
-      Generic: ເວລາແຖບພູເຂົາ,
-      Standard: ເວລາມາດຕະຖານແຖບພູເຂົາ,
-      Daylight: ເວລາກາງເວັນແຖບພູເຂົາ
-    }
-  },
-  {
-    Key: US/Central,
-    Value: {
-      Generic: ເວລາກາງ,
-      Standard: ເວລາມາດຕະຖານກາງ,
-      Daylight: ເວລາກາງເວັນກາງ
-    }
-  },
-  {
-    Key: US/East-Indiana,
-    Value: {
-      Generic: ເວລາຕາເວັນອອກ,
-      Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
-      Daylight: ເວລາກາງເວັນຕາເວັນອອກ
-    }
-  },
-  {
-    Key: US/Eastern,
-    Value: {
-      Generic: ເວລາຕາເວັນອອກ,
-      Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
-      Daylight: ເວລາກາງເວັນຕາເວັນອອກ
-    }
-  },
-  {
-    Key: US/Hawaii,
-    Value: {
-      Generic: ເວລາຮາວາຍ-ເອລູທຽນ,
-      Standard: ເວລາມາດຕະຖານຮາວາຍ-ເອລູທຽນ,
-      Daylight: ເວລາຕອນທ່ຽງຮາວາຍ-ເອລູທຽນ
-    }
-  },
-  {
-    Key: US/Indiana-Starke,
-    Value: {
-      Generic: ເວລາກາງ,
-      Standard: ເວລາມາດຕະຖານກາງ,
-      Daylight: ເວລາກາງເວັນກາງ
-    }
-  },
-  {
-    Key: US/Michigan,
-    Value: {
-      Generic: ເວລາຕາເວັນອອກ,
-      Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
-      Daylight: ເວລາກາງເວັນຕາເວັນອອກ
-    }
-  },
-  {
-    Key: US/Mountain,
-    Value: {
-      Generic: ເວລາແຖບພູເຂົາ,
-      Standard: ເວລາມາດຕະຖານແຖບພູເຂົາ,
-      Daylight: ເວລາກາງເວັນແຖບພູເຂົາ
-    }
-  },
-  {
-    Key: US/Pacific,
-    Value: {
-      Generic: ເວລາແປຊິຟິກ,
-      Standard: ເວລາມາດຕະຖານແປຊິຟິກ,
-      Daylight: ເວລາກາງເວັນແປຊິຟິກ
-    }
-  },
-  {
-    Key: US/Samoa,
-    Value: {
-      Generic: ເວລາຊາມົວ,
-      Standard: ເວລາມາດຕະຖານຊາມົວ,
-      Daylight: ເວລາລະດູຮ້ອນຊາມົວ
-    }
-  },
-  {
-    Key: UTC,
-    Value: {
-      Generic: ເວລາສາກົນເຊີງພິກັດ,
-      Standard: ເວລາສາກົນເຊີງພິກັດ,
-      Daylight: ເວລາສາກົນເຊີງພິກັດ
-    }
-  },
-  {
-    Key: W-SU,
-    Value: {
-      Generic: ເວລາ ມອສໂຄ,
-      Standard: ເວລາມາດຕະຖານ ມອສໂຄ,
-      Daylight: ເວລາກາງເວັນ ມອສໂຄ
-    }
-  },
-  {
-    Key: WET,
-    Value: {
-      Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ,
-      Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ,
-      Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ
-    }
-  },
-  {
-    Key: Zulu,
-    Value: {
-      Generic: ເວລາສາກົນເຊີງພິກັດ,
-      Standard: ເວລາສາກົນເຊີງພິກັດ,
-      Daylight: ເວລາສາກົນເຊີງພິກັດ
-    }
+﻿{
+  Australia/Darwin: {
+    Generic: ເວ​ລາອອ​ສ​ເຕຣ​ເລຍ​ກາງ,
+    Standard: ເວ​ລາມາດ​ຕະ​ຖານອອ​ສ​ເຕຣ​ເລຍ​ກ​າງ,
+    Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ເລຍ​ກາງ
+  },
+  Australia/Sydney: {
+    Generic: ເວ​ລາອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ມາດຕະຖານ​​​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ
+  },
+  Australia/Melbourne: {
+    Generic: ເວ​ລາອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ມາດຕະຖານ​​​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ
+  },
+  Asia/Kabul: {
+    Generic: ເວລາ ອັຟການິສຖານ,
+    Standard: ເວລາ ອັຟການິສຖານ,
+    Daylight: ເວລາ ອັຟການິສຖານ
+  },
+  America/Anchorage: {
+    Generic: ເວລາອະລັສກາ,
+    Standard: ເວລາມາດຕະຖານອະລັສກາ,
+    Daylight: ເວລາກາງເວັນອະລັສກາ
+  },
+  America/Juneau: {
+    Generic: ເວລາອະລັສກາ,
+    Standard: ເວລາມາດຕະຖານອະລັສກາ,
+    Daylight: ເວລາກາງເວັນອະລັສກາ
+  },
+  America/Metlakatla: {
+    Generic: ເວລາອະລັສກາ,
+    Standard: ເວລາມາດຕະຖານອະລັສກາ,
+    Daylight: ເວລາກາງເວັນອະລັສກາ
+  },
+  America/Nome: {
+    Generic: ເວລາອະລັສກາ,
+    Standard: ເວລາມາດຕະຖານອະລັສກາ,
+    Daylight: ເວລາກາງເວັນອະລັສກາ
+  },
+  America/Sitka: {
+    Generic: ເວລາອະລັສກາ,
+    Standard: ເວລາມາດຕະຖານອະລັສກາ,
+    Daylight: ເວລາກາງເວັນອະລັສກາ
+  },
+  America/Yakutat: {
+    Generic: ເວລາອະລັສກາ,
+    Standard: ເວລາມາດຕະຖານອະລັສກາ,
+    Daylight: ເວລາກາງເວັນອະລັສກາ
+  },
+  America/Adak: {
+    Generic: ເວລາຮາວາຍ-ເອລູທຽນ,
+    Standard: ເວລາມາດຕະຖານຮາວາຍ-ເອລູທຽນ,
+    Daylight: ເວລາຕອນທ່ຽງຮາວາຍ-ເອລູທຽນ
+  },
+  Asia/Barnaul: {
+    Generic: ເວລາ ບານົວ,
+    Standard: ເວລາມາດຕະຖານ ບານົວ,
+    Daylight: ເວລາກາງເວັນ ບານົວ
+  },
+  Asia/Riyadh: {
+    Generic: ເວ​ລາ​ອາ​ຣາ​ບຽນ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ຣາ​ບຽນ,
+    Daylight: ເວລາກາງເວັນອາຣາບຽນ
+  },
+  Asia/Bahrain: {
+    Generic: ເວ​ລາ​ອາ​ຣາ​ບຽນ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ຣາ​ບຽນ,
+    Daylight: ເວລາກາງເວັນອາຣາບຽນ
+  },
+  Asia/Kuwait: {
+    Generic: ເວ​ລາ​ອາ​ຣາ​ບຽນ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ຣາ​ບຽນ,
+    Daylight: ເວລາກາງເວັນອາຣາບຽນ
+  },
+  Asia/Qatar: {
+    Generic: ເວ​ລາ​ອາ​ຣາ​ບຽນ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ຣາ​ບຽນ,
+    Daylight: ເວລາກາງເວັນອາຣາບຽນ
+  },
+  Asia/Aden: {
+    Generic: ເວ​ລາ​ອາ​ຣາ​ບຽນ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ຣາ​ບຽນ,
+    Daylight: ເວລາກາງເວັນອາຣາບຽນ
+  },
+  Asia/Dubai: {
+    Generic: ເວ​ລາ​ກູ​ລ​໌ຟ,
+    Standard: ເວ​ລາ​ກູ​ລ​໌ຟ,
+    Daylight: ເວ​ລາ​ກູ​ລ​໌ຟ
+  },
+  Asia/Muscat: {
+    Generic: ເວ​ລາ​ກູ​ລ​໌ຟ,
+    Standard: ເວ​ລາ​ກູ​ລ​໌ຟ,
+    Daylight: ເວ​ລາ​ກູ​ລ​໌ຟ
+  },
+  Etc/GMT-4: {
+    Generic: ເວລາສາກົນເຊີງພິກັດ +4,
+    Standard: ເວລາສາກົນເຊີງພິກັດ +4,
+    Daylight: ເວລາສາກົນເຊີງພິກັດ +4
+  },
+  Asia/Baghdad: {
+    Generic: ເວ​ລາ​ອາ​ຣາ​ບຽນ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ຣາ​ບຽນ,
+    Daylight: ເວລາກາງເວັນອາຣາບຽນ
+  },
+  America/Buenos_Aires: {
+    Generic: ເວ​ລາ​ອາ​ເຈ​ທິ​ນາ,
+    Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເຈນ​ທິ​ນາ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ເຈນ​ທິ​ນາ
+  },
+  America/Argentina/La_Rioja: {
+    Generic: ເວ​ລາ​ອາ​ເຈ​ທິ​ນາ,
+    Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເຈນ​ທິ​ນາ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ເຈນ​ທິ​ນາ
+  },
+  America/Argentina/Rio_Gallegos: {
+    Generic: ເວ​ລາ​ອາ​ເຈ​ທິ​ນາ,
+    Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເຈນ​ທິ​ນາ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ເຈນ​ທິ​ນາ
+  },
+  America/Argentina/Salta: {
+    Generic: ເວ​ລາ​ອາ​ເຈ​ທິ​ນາ,
+    Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເຈນ​ທິ​ນາ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ເຈນ​ທິ​ນາ
+  },
+  America/Argentina/San_Juan: {
+    Generic: ເວ​ລາ​ອາ​ເຈ​ທິ​ນາ,
+    Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເຈນ​ທິ​ນາ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ເຈນ​ທິ​ນາ
+  },
+  America/Argentina/San_Luis: {
+    Generic: ເວ​ລາ​ອາ​ເຈ​ທິ​ນາ,
+    Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເຈນ​ທິ​ນາ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ເຈນ​ທິ​ນາ
+  },
+  America/Argentina/Tucuman: {
+    Generic: ເວ​ລາ​ອາ​ເຈ​ທິ​ນາ,
+    Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເຈນ​ທິ​ນາ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ເຈນ​ທິ​ນາ
+  },
+  America/Argentina/Ushuaia: {
+    Generic: ເວ​ລາ​ອາ​ເຈ​ທິ​ນາ,
+    Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເຈນ​ທິ​ນາ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ເຈນ​ທິ​ນາ
+  },
+  America/Catamarca: {
+    Generic: ເວ​ລາ​ອາ​ເຈ​ທິ​ນາ,
+    Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເຈນ​ທິ​ນາ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ເຈນ​ທິ​ນາ
+  },
+  America/Cordoba: {
+    Generic: ເວ​ລາ​ອາ​ເຈ​ທິ​ນາ,
+    Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເຈນ​ທິ​ນາ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ເຈນ​ທິ​ນາ
+  },
+  America/Jujuy: {
+    Generic: ເວ​ລາ​ອາ​ເຈ​ທິ​ນາ,
+    Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເຈນ​ທິ​ນາ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ເຈນ​ທິ​ນາ
+  },
+  America/Mendoza: {
+    Generic: ເວ​ລາ​ອາ​ເຈ​ທິ​ນາ,
+    Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເຈນ​ທິ​ນາ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ເຈນ​ທິ​ນາ
+  },
+  Europe/Astrakhan: {
+    Generic: ເວລາ ອາສຕຣາຄານ,
+    Standard: ເວລາມາດຕະຖານ ອາສຕຣາຄານ,
+    Daylight: ເວລາກາງເວັນ ອາສຕຣາຄານ
+  },
+  Europe/Ulyanovsk: {
+    Generic: ເວລາ ອູລີອານອບສຄ໌,
+    Standard: ເວລາມາດຕະຖານ ອູລີອານອບສຄ໌,
+    Daylight: ເວລາກາງເວັນ ອູລີອານອບສຄ໌
+  },
+  America/Halifax: {
+    Generic: ເວລາຂອງອາແລນຕິກ,
+    Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
+    Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
+  },
+  Atlantic/Bermuda: {
+    Generic: ເວລາຂອງອາແລນຕິກ,
+    Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
+    Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
+  },
+  America/Glace_Bay: {
+    Generic: ເວລາຂອງອາແລນຕິກ,
+    Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
+    Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
+  },
+  America/Goose_Bay: {
+    Generic: ເວລາຂອງອາແລນຕິກ,
+    Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
+    Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
+  },
+  America/Moncton: {
+    Generic: ເວລາຂອງອາແລນຕິກ,
+    Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
+    Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
+  },
+  America/Thule: {
+    Generic: ເວລາຂອງອາແລນຕິກ,
+    Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
+    Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
+  },
+  Australia/Eucla: {
+    Generic: ເວ​ລາອອສ​ເຕຣ​ລຽນ​ກາງ​ຕາ​ເວັນ​ຕົກ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານອອສ​ເຕຣ​ລຽນ​ກາງ​ຕາ​ເວັນ​ຕົກ,
+    Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ລຽນ​ກາງ​ຕາ​ເວັນ​ຕົກ
+  },
+  Asia/Baku: {
+    Generic: ເວລາອັສເຊີໄບຈັນ,
+    Standard: ເວລາມາດຕະຖານອັສເຊີໄບຈັນ,
+    Daylight: ເວລາລະດູຮ້ອນອັສເຊີໄບຈັນ
+  },
+  Atlantic/Azores: {
+    Generic: ເວ​ລາ​ອາ​ໂຊ​ເຣ​ສ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ໂຊ​ເຣ​ສ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນອາ​ໂຊ​ເຣ​ສ
+  },
+  America/Scoresbysund: {
+    Generic: ເວລາຕາເວັນອອກຂອງກຣີນແລນ,
+    Standard: ເວລາມາດຕະຖານຕາເວັນອອກກຣີນແລນ,
+    Daylight: ເວລາລະດູຮ້ອນກຣີນແລນຕາເວັນອອກ
+  },
+  America/Bahia: {
+    Generic: ເວລາຕາມເຂດບຣາຊິເລຍ,
+    Standard: ເວລາມາດຕາຖານເບຣຊີເລຍ,
+    Daylight: ເວລາຕາມເຂດລະດູຮ້ອນຕາມເຂດບຣາຊີເລຍ
+  },
+  Asia/Dhaka: {
+    Generic: ເວລາ ບັງກະລາເທດ,
+    Standard: ເວລາມາດຕະຖານ ບັງກະລາເທດ,
+    Daylight: ເວລາ ລະດູຮ້ອນ ບັງກະລາເທດ
+  },
+  Asia/Thimphu: {
+    Generic: ເວ​ລາ​ພູ​ຖານ,
+    Standard: ເວ​ລາ​ພູ​ຖານ,
+    Daylight: ເວ​ລາ​ພູ​ຖານ
+  },
+  Europe/Minsk: {
+    Generic: ເວ​ລາ​ມອ​ສ​ໂຄ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານມອ​ສ​ໂຄ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນມອ​ສ​ໂຄ
+  },
+  Pacific/Bougainville: {
+    Generic: ເວລາປາປົວກິນີ,
+    Standard: ເວລາປາປົວກິນີ,
+    Daylight: ເວລາປາປົວກິນີ
+  },
+  America/Regina: {
+    Generic: ເວລາກາງ,
+    Standard: ເວລາມາດຕະຖານກາງ,
+    Daylight: ເວລາກາງເວັນກາງ
+  },
+  America/Swift_Current: {
+    Generic: ເວລາກາງ,
+    Standard: ເວລາມາດຕະຖານກາງ,
+    Daylight: ເວລາກາງເວັນກາງ
+  },
+  Atlantic/Cape_Verde: {
+    Generic: ເວ​ລາ​ເຄບ​ເວີດ,
+    Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານ​ເຄບ​ເວີດ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ເຄບ​ເວີດ
+  },
+  Etc/GMT+1: {
+    Generic: ເວລາສາກົນເຊີງພິກັດ -1,
+    Standard: ເວລາສາກົນເຊີງພິກັດ -1,
+    Daylight: ເວລາສາກົນເຊີງພິກັດ -1
+  },
+  Asia/Yerevan: {
+    Generic: ເວລາອາເມເນຍ,
+    Standard: ເວລາມາດຕະຖານອາເມເນຍ,
+    Daylight: ເວລາລະດູຮ້ອນອາເມເນຍ
+  },
+  Australia/Adelaide: {
+    Generic: ເວ​ລາອອ​ສ​ເຕຣ​ເລຍ​ກາງ,
+    Standard: ເວ​ລາມາດ​ຕະ​ຖານອອ​ສ​ເຕຣ​ເລຍ​ກ​າງ,
+    Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ເລຍ​ກາງ
+  },
+  Australia/Broken_Hill: {
+    Generic: ເວ​ລາອອ​ສ​ເຕຣ​ເລຍ​ກາງ,
+    Standard: ເວ​ລາມາດ​ຕະ​ຖານອອ​ສ​ເຕຣ​ເລຍ​ກ​າງ,
+    Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ເລຍ​ກາງ
+  },
+  America/Guatemala: {
+    Generic: ເວລາກາງ,
+    Standard: ເວລາມາດຕະຖານກາງ,
+    Daylight: ເວລາກາງເວັນກາງ
+  },
+  America/Belize: {
+    Generic: ເວລາກາງ,
+    Standard: ເວລາມາດຕະຖານກາງ,
+    Daylight: ເວລາກາງເວັນກາງ
+  },
+  America/Costa_Rica: {
+    Generic: ເວລາກາງ,
+    Standard: ເວລາມາດຕະຖານກາງ,
+    Daylight: ເວລາກາງເວັນກາງ
+  },
+  Pacific/Galapagos: {
+    Generic: ເວ​ລາ​ກາ​ລາ​ປາ​ກອ​ສ,
+    Standard: ເວ​ລາ​ກາ​ລາ​ປາ​ກອ​ສ,
+    Daylight: ເວ​ລາ​ກາ​ລາ​ປາ​ກອ​ສ
+  },
+  America/Tegucigalpa: {
+    Generic: ເວລາກາງ,
+    Standard: ເວລາມາດຕະຖານກາງ,
+    Daylight: ເວລາກາງເວັນກາງ
+  },
+  America/Managua: {
+    Generic: ເວລາກາງ,
+    Standard: ເວລາມາດຕະຖານກາງ,
+    Daylight: ເວລາກາງເວັນກາງ
+  },
+  America/El_Salvador: {
+    Generic: ເວລາກາງ,
+    Standard: ເວລາມາດຕະຖານກາງ,
+    Daylight: ເວລາກາງເວັນກາງ
+  },
+  Etc/GMT+6: {
+    Generic: ເວລາສາກົນເຊີງພິກັດ -6,
+    Standard: ເວລາສາກົນເຊີງພິກັດ -6,
+    Daylight: ເວລາສາກົນເຊີງພິກັດ -6
+  },
+  Asia/Almaty: {
+    Generic: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ອອກ
+  },
+  Antarctica/Vostok: {
+    Generic: ເວລາ ວອສໂຕກ,
+    Standard: ເວລາ ວອສໂຕກ,
+    Daylight: ເວລາ ວອສໂຕກ
+  },
+  Asia/Urumqi: {
+    Generic: ເວລາ ຈີນ,
+    Standard: ເວລາມາດຕະຖານ ຈີນ,
+    Daylight: ເວລາກາງເວັນ ຈີນ
+  },
+  Indian/Chagos: {
+    Generic: ເວລາຫມະຫາສະຫມຸດອິນເດຍ,
+    Standard: ເວລາຫມະຫາສະຫມຸດອິນເດຍ,
+    Daylight: ເວລາຫມະຫາສະຫມຸດອິນເດຍ
+  },
+  Asia/Bishkek: {
+    Generic: ເວລາເຄຍກິສຖານ,
+    Standard: ເວລາເຄຍກິສຖານ,
+    Daylight: ເວລາເຄຍກິສຖານ
+  },
+  Asia/Qostanay: {
+    Generic: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ອອກ
+  },
+  Etc/GMT-6: {
+    Generic: ເວລາສາກົນເຊີງພິກັດ +6,
+    Standard: ເວລາສາກົນເຊີງພິກັດ +6,
+    Daylight: ເວລາສາກົນເຊີງພິກັດ +6
+  },
+  America/Cuiaba: {
+    Generic: ເວລາຕາມເຂດອາເມຊອນ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເມ​ຊອນ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນອາ​ເມ​ຊອນ
+  },
+  America/Campo_Grande: {
+    Generic: ເວລາຕາມເຂດອາເມຊອນ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເມ​ຊອນ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນອາ​ເມ​ຊອນ
+  },
+  Europe/Budapest: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
+  },
+  Europe/Tirane: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
+  },
+  Europe/Prague: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
+  },
+  Europe/Podgorica: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
+  },
+  Europe/Belgrade: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
+  },
+  Europe/Ljubljana: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
+  },
+  Europe/Bratislava: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
+  },
+  Europe/Warsaw: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
+  },
+  Europe/Sarajevo: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
+  },
+  Europe/Zagreb: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
+  },
+  Europe/Skopje: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
+  },
+  Pacific/Guadalcanal: {
+    Generic: ເວລາຫມູ່ເກາະໂຊໂລມອນ,
+    Standard: ເວລາຫມູ່ເກາະໂຊໂລມອນ,
+    Daylight: ເວລາຫມູ່ເກາະໂຊໂລມອນ
+  },
+  Antarctica/Casey: {
+    Generic: ເວລາເຄຊີ,
+    Standard: ເວລາເຄຊີ,
+    Daylight: ເວລາເຄຊີ
+  },
+  Pacific/Ponape: {
+    Generic: ເວລາໂປເນບ,
+    Standard: ເວລາໂປເນບ,
+    Daylight: ເວລາໂປເນບ
+  },
+  Pacific/Kosrae: {
+    Generic: ເວລາຄອສແຣ,
+    Standard: ເວລາຄອສແຣ,
+    Daylight: ເວລາຄອສແຣ
+  },
+  Pacific/Noumea: {
+    Generic: ເວລານິວແຄລິໂດເນຍ,
+    Standard: ເວລາມາດຕະຖານນິວແຄລິໂດເນຍ,
+    Daylight: ເວລາລະດູຮ້ອນນິວແຄລິໂດເນຍ
+  },
+  Pacific/Efate: {
+    Generic: ເວລາວານູອາຕູ,
+    Standard: ເວລາມາດຕະຖານວານູອາຕູ,
+    Daylight: ເວລາລະດູຮ້ອນວານູອາຕູ
+  },
+  Etc/GMT-11: {
+    Generic: ເວລາສາກົນເຊີງພິກັດ +11,
+    Standard: ເວລາສາກົນເຊີງພິກັດ +11,
+    Daylight: ເວລາສາກົນເຊີງພິກັດ +11
+  },
+  America/Mexico_City: {
+    Generic: ເວລາກາງ,
+    Standard: ເວລາມາດຕະຖານກາງ,
+    Daylight: ເວລາກາງເວັນກາງ
+  },
+  America/Bahia_Banderas: {
+    Generic: ເວລາກາງ,
+    Standard: ເວລາມາດຕະຖານກາງ,
+    Daylight: ເວລາກາງເວັນກາງ
+  },
+  America/Merida: {
+    Generic: ເວລາກາງ,
+    Standard: ເວລາມາດຕະຖານກາງ,
+    Daylight: ເວລາກາງເວັນກາງ
+  },
+  America/Monterrey: {
+    Generic: ເວລາກາງ,
+    Standard: ເວລາມາດຕະຖານກາງ,
+    Daylight: ເວລາກາງເວັນກາງ
+  },
+  America/Chicago: {
+    Generic: ເວລາກາງ,
+    Standard: ເວລາມາດຕະຖານກາງ,
+    Daylight: ເວລາກາງເວັນກາງ
+  },
+  America/Winnipeg: {
+    Generic: ເວລາກາງ,
+    Standard: ເວລາມາດຕະຖານກາງ,
+    Daylight: ເວລາກາງເວັນກາງ
+  },
+  America/Rainy_River: {
+    Generic: ເວລາກາງ,
+    Standard: ເວລາມາດຕະຖານກາງ,
+    Daylight: ເວລາກາງເວັນກາງ
+  },
+  America/Rankin_Inlet: {
+    Generic: ເວລາກາງ,
+    Standard: ເວລາມາດຕະຖານກາງ,
+    Daylight: ເວລາກາງເວັນກາງ
+  },
+  America/Resolute: {
+    Generic: ເວລາກາງ,
+    Standard: ເວລາມາດຕະຖານກາງ,
+    Daylight: ເວລາກາງເວັນກາງ
+  },
+  America/Matamoros: {
+    Generic: ເວລາກາງ,
+    Standard: ເວລາມາດຕະຖານກາງ,
+    Daylight: ເວລາກາງເວັນກາງ
+  },
+  America/Indiana/Knox: {
+    Generic: ເວລາກາງ,
+    Standard: ເວລາມາດຕະຖານກາງ,
+    Daylight: ເວລາກາງເວັນກາງ
+  },
+  America/Indiana/Tell_City: {
+    Generic: ເວລາກາງ,
+    Standard: ເວລາມາດຕະຖານກາງ,
+    Daylight: ເວລາກາງເວັນກາງ
+  },
+  America/Menominee: {
+    Generic: ເວລາກາງ,
+    Standard: ເວລາມາດຕະຖານກາງ,
+    Daylight: ເວລາກາງເວັນກາງ
+  },
+  America/North_Dakota/Beulah: {
+    Generic: ເວລາກາງ,
+    Standard: ເວລາມາດຕະຖານກາງ,
+    Daylight: ເວລາກາງເວັນກາງ
+  },
+  America/North_Dakota/Center: {
+    Generic: ເວລາກາງ,
+    Standard: ເວລາມາດຕະຖານກາງ,
+    Daylight: ເວລາກາງເວັນກາງ
+  },
+  America/North_Dakota/New_Salem: {
+    Generic: ເວລາກາງ,
+    Standard: ເວລາມາດຕະຖານກາງ,
+    Daylight: ເວລາກາງເວັນກາງ
+  },
+  CST6CDT: {
+    Generic: ເວລາກາງ,
+    Standard: ເວລາມາດຕະຖານກາງ,
+    Daylight: ເວລາກາງເວັນກາງ
+  },
+  Pacific/Chatham: {
+    Generic: ເວ​ລາ​ຊາ​ທາມ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຊາ​ທາມ,
+    Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ຊາ​ທາມ
+  },
+  Asia/Shanghai: {
+    Generic: ເວ​ລາ​ຈີນ,
+    Standard: ເວລາມາດຕະຖານຈີນ,
+    Daylight: ​ເວ​ລາ​ຕອນ​ທ່ຽງ​ຈີນ
+  },
+  Asia/Hong_Kong: {
+    Generic: ເວ​ລາ​ຮອງ​ກົງ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຮອງ​ກົງ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຮອງ​ກົງ
+  },
+  Asia/Macau: {
+    Generic: ເວ​ລາ​ຈີນ,
+    Standard: ເວລາມາດຕະຖານຈີນ,
+    Daylight: ​ເວ​ລາ​ຕອນ​ທ່ຽງ​ຈີນ
+  },
+  America/Havana: {
+    Generic: ເວລາຄິວບາ,
+    Standard: ເວລາມາດຕະຖານຂອງຄິວບາ,
+    Daylight: ເວລາກາງເວັນຄິວບາ
+  },
+  Etc/GMT+12: {
+    Generic: ເວລາສາກົນເຊີງພິກັດ -12,
+    Standard: ເວລາສາກົນເຊີງພິກັດ -12,
+    Daylight: ເວລາສາກົນເຊີງພິກັດ -12
+  },
+  Africa/Nairobi: {
+    Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ
+  },
+  Antarctica/Syowa: {
+    Generic: ເວລາ ໂຊວາ,
+    Standard: ເວລາ ໂຊວາ,
+    Daylight: ເວລາ ໂຊວາ
+  },
+  Africa/Djibouti: {
+    Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ
+  },
+  Africa/Asmera: {
+    Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ
+  },
+  Africa/Addis_Ababa: {
+    Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ
+  },
+  Indian/Comoro: {
+    Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ
+  },
+  Indian/Antananarivo: {
+    Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ
+  },
+  Africa/Mogadishu: {
+    Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ
+  },
+  Africa/Dar_es_Salaam: {
+    Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ
+  },
+  Africa/Kampala: {
+    Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ
+  },
+  Indian/Mayotte: {
+    Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ
+  },
+  Etc/GMT-3: {
+    Generic: ເວລາສາກົນເຊີງພິກັດ +3,
+    Standard: ເວລາສາກົນເຊີງພິກັດ +3,
+    Daylight: ເວລາສາກົນເຊີງພິກັດ +3
+  },
+  Australia/Brisbane: {
+    Generic: ເວ​ລາອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ມາດຕະຖານ​​​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ
+  },
+  Australia/Lindeman: {
+    Generic: ເວ​ລາອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ມາດຕະຖານ​​​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ
+  },
+  Europe/Chisinau: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
+  },
+  America/Sao_Paulo: {
+    Generic: ເວລາຕາມເຂດບຣາຊິເລຍ,
+    Standard: ເວລາມາດຕາຖານເບຣຊີເລຍ,
+    Daylight: ເວລາຕາມເຂດລະດູຮ້ອນຕາມເຂດບຣາຊີເລຍ
+  },
+  Pacific/Easter: {
+    Generic: ເວ​ລາ​ເກາະ​ອີ​ສ​ເຕີ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານເກາະ​ອີ​ສ​ເຕີ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນເກາະ​ອີ​ສ​ເຕີ
+  },
+  America/Cancun: {
+    Generic: ເວລາຕາເວັນອອກ,
+    Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
+    Daylight: ເວລາກາງເວັນຕາເວັນອອກ
+  },
+  America/New_York: {
+    Generic: ເວລາຕາເວັນອອກ,
+    Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
+    Daylight: ເວລາກາງເວັນຕາເວັນອອກ
+  },
+  America/Nassau: {
+    Generic: ເວລາຕາເວັນອອກ,
+    Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
+    Daylight: ເວລາກາງເວັນຕາເວັນອອກ
+  },
+  America/Toronto: {
+    Generic: ເວລາຕາເວັນອອກ,
+    Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
+    Daylight: ເວລາກາງເວັນຕາເວັນອອກ
+  },
+  America/Iqaluit: {
+    Generic: ເວລາຕາເວັນອອກ,
+    Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
+    Daylight: ເວລາກາງເວັນຕາເວັນອອກ
+  },
+  America/Montreal: {
+    Generic: ເວລາຕາເວັນອອກ,
+    Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
+    Daylight: ເວລາກາງເວັນຕາເວັນອອກ
+  },
+  America/Nipigon: {
+    Generic: ເວລາຕາເວັນອອກ,
+    Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
+    Daylight: ເວລາກາງເວັນຕາເວັນອອກ
+  },
+  America/Pangnirtung: {
+    Generic: ເວລາຕາເວັນອອກ,
+    Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
+    Daylight: ເວລາກາງເວັນຕາເວັນອອກ
+  },
+  America/Thunder_Bay: {
+    Generic: ເວລາຕາເວັນອອກ,
+    Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
+    Daylight: ເວລາກາງເວັນຕາເວັນອອກ
+  },
+  America/Detroit: {
+    Generic: ເວລາຕາເວັນອອກ,
+    Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
+    Daylight: ເວລາກາງເວັນຕາເວັນອອກ
+  },
+  America/Indiana/Petersburg: {
+    Generic: ເວລາຕາເວັນອອກ,
+    Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
+    Daylight: ເວລາກາງເວັນຕາເວັນອອກ
+  },
+  America/Indiana/Vincennes: {
+    Generic: ເວລາຕາເວັນອອກ,
+    Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
+    Daylight: ເວລາກາງເວັນຕາເວັນອອກ
+  },
+  America/Indiana/Winamac: {
+    Generic: ເວລາຕາເວັນອອກ,
+    Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
+    Daylight: ເວລາກາງເວັນຕາເວັນອອກ
+  },
+  America/Kentucky/Monticello: {
+    Generic: ເວລາຕາເວັນອອກ,
+    Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
+    Daylight: ເວລາກາງເວັນຕາເວັນອອກ
+  },
+  America/Louisville: {
+    Generic: ເວລາຕາເວັນອອກ,
+    Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
+    Daylight: ເວລາກາງເວັນຕາເວັນອອກ
+  },
+  EST5EDT: {
+    Generic: ເວລາຕາເວັນອອກ,
+    Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
+    Daylight: ເວລາກາງເວັນຕາເວັນອອກ
+  },
+  Africa/Cairo: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
+  },
+  Asia/Yekaterinburg: {
+    Generic: ເວລາ ເຢຄາເຕີຣິນເບີກ,
+    Standard: ເວລາມາດຕະຖານ ເຢຄາເຕີຣິນເບີກ,
+    Daylight: ເວລາກາງເວັນ ເຢຄາເຕີຣິນເບີກ
+  },
+  Europe/Kiev: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
+  },
+  Europe/Mariehamn: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
+  },
+  Europe/Sofia: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
+  },
+  Europe/Tallinn: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
+  },
+  Europe/Helsinki: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
+  },
+  Europe/Vilnius: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
+  },
+  Europe/Riga: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
+  },
+  Europe/Uzhgorod: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
+  },
+  Europe/Zaporozhye: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
+  },
+  Pacific/Fiji: {
+    Generic: ເວລາຟິຈິ,
+    Standard: ເວລາມາດຕະຖານຟິຈິ,
+    Daylight: ເວລາລະດູຮ້ອນຟິຈິ
+  },
+  Europe/London: {
+    Generic: ເວລາ ສະຫະລາດຊະອະນາຈັກ,
+    Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອັງ​ກິດ
+  },
+  Atlantic/Canary: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ
+  },
+  Atlantic/Faeroe: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ
+  },
+  Europe/Guernsey: {
+    Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
+  },
+  Europe/Dublin: {
+    Generic: ເວລາ ໄອແລນ,
+    Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Daylight: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ໄອ​ຣິ​ຊ
+  },
+  Europe/Isle_of_Man: {
+    Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
+  },
+  Europe/Jersey: {
+    Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
+  },
+  Europe/Lisbon: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ
+  },
+  Atlantic/Madeira: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ
+  },
+  Europe/Bucharest: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
+  },
+  Asia/Nicosia: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
+  },
+  Asia/Famagusta: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
+  },
+  Europe/Athens: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
+  },
+  Asia/Tbilisi: {
+    Generic: ເວລາຈໍເຈຍ,
+    Standard: ເວລາມາດຕະຖານຈໍເຈຍ,
+    Daylight: ເວລາລະດູຮ້ອນຈໍເຈຍ
+  },
+  America/Godthab: {
+    Generic: ເວລາກຣີນແລນຕາເວັນຕົກ,
+    Standard: ເວລາມາດຕະຖານກຣີນແລນຕາເວັນຕົກ,
+    Daylight: ເວລາຕອນທ່ຽງກຣີນແລນຕາເວັນຕົກ
+  },
+  Atlantic/Reykjavik: {
+    Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
+  },
+  Atlantic/St_Helena: {
+    Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
+  },
+  Africa/Ouagadougou: {
+    Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
+  },
+  Africa/Abidjan: {
+    Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
+  },
+  Africa/Accra: {
+    Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
+  },
+  America/Danmarkshavn: {
+    Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
+  },
+  Africa/Banjul: {
+    Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
+  },
+  Africa/Conakry: {
+    Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
+  },
+  Africa/Bissau: {
+    Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
+  },
+  Africa/Monrovia: {
+    Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
+  },
+  Africa/Bamako: {
+    Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
+  },
+  Africa/Nouakchott: {
+    Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
+  },
+  Africa/Freetown: {
+    Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
+  },
+  Africa/Dakar: {
+    Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
+  },
+  Africa/Lome: {
+    Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
+  },
+  America/Port-au-Prince: {
+    Generic: ເວລາຕາເວັນອອກ,
+    Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
+    Daylight: ເວລາກາງເວັນຕາເວັນອອກ
+  },
+  Pacific/Honolulu: {
+    Generic: ເວລາຮາວາຍ-ເອລູທຽນ,
+    Standard: ເວລາມາດຕະຖານຮາວາຍ-ເອລູທຽນ,
+    Daylight: ເວລາຕອນທ່ຽງຮາວາຍ-ເອລູທຽນ
+  },
+  Pacific/Rarotonga: {
+    Generic: ເວລາຫມູ່ເກາະຄຸກ,
+    Standard: ເວລາມາດຕະຖານຫມູ່ເກາະຄຸກ,
+    Daylight: ເວ​ລາ​ເຄິ່ງ​ລະ​ດູ​ຮ້ອນ​ໝູ່​ເກາະ​ຄຸກ
+  },
+  Pacific/Tahiti: {
+    Generic: ເວລາທາຮິຕິ,
+    Standard: ເວລາທາຮິຕິ,
+    Daylight: ເວລາທາຮິຕິ
+  },
+  Pacific/Johnston: {
+    Generic: ເວລາຮາວາຍ-ເອລູທຽນ,
+    Standard: ເວລາມາດຕະຖານຮາວາຍ-ເອລູທຽນ,
+    Daylight: ເວລາຕອນທ່ຽງຮາວາຍ-ເອລູທຽນ
+  },
+  Etc/GMT+10: {
+    Generic: ເວລາສາກົນເຊີງພິກັດ -10,
+    Standard: ເວລາສາກົນເຊີງພິກັດ -10,
+    Daylight: ເວລາສາກົນເຊີງພິກັດ -10
+  },
+  Asia/Calcutta: {
+    Generic: ເວລາ ອິນເດຍ,
+    Standard: ເວລາ ອິນເດຍ,
+    Daylight: ເວລາ ອິນເດຍ
+  },
+  Asia/Tehran: {
+    Generic: ເວ​ລາ​ອີ​ຣານ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານອີ​ຣານ,
+    Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອີ​ຣາ​ນ
+  },
+  Asia/Jerusalem: {
+    Generic: ເວ​ລາ​ອິ​ສ​ຣາ​ເອວ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານອິ​ສ​ຣາ​ເອວ,
+    Daylight: ເວລາກາງເວັນອິສຣາເອວ
+  },
+  Asia/Amman: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
+  },
+  Europe/Kaliningrad: {
+    Generic: ເວລາ ຄາລິນິນກຣາດ,
+    Standard: ເວລາມາດຕະຖານ ຄາລິນິນກຣາດ,
+    Daylight: ເວລາກາງເວັນ ຄາລິນິນກຣາດ
+  },
+  Asia/Seoul: {
+    Generic: ເວລາເກົາຫຼີ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ເກົາ​ຫລີ,
+    Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ເກົາ​ຫລີ
+  },
+  Africa/Tripoli: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
+  },
+  Pacific/Kiritimati: {
+    Generic: ເວ​ລາ​ໝູ່​ເກາະ​ລາຍ,
+    Standard: ເວ​ລາ​ໝູ່​ເກາະ​ລາຍ,
+    Daylight: ເວ​ລາ​ໝູ່​ເກາະ​ລາຍ
+  },
+  Etc/GMT-14: {
+    Generic: ເວລາສາກົນເຊີງພິກັດ +14,
+    Standard: ເວລາສາກົນເຊີງພິກັດ +14,
+    Daylight: ເວລາສາກົນເຊີງພິກັດ +14
+  },
+  Australia/Lord_Howe: {
+    Generic: ເວ​ລາ​ລອດ​ເຮົາ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ລອດ​ເຮົາ,
+    Daylight: ​ເວ​ລ​ສາ​ຕອນ​​ທ່ຽງ​ລອດ​ເຮົາ​
+  },
+  Asia/Magadan: {
+    Generic: ເວລາ ມາກາແດນ,
+    Standard: ເວລາມາດຕະຖານ ມາກາແດນ,
+    Daylight: ເວລາກາງເວັນ ມາກາແດນ
+  },
+  America/Punta_Arenas: {
+    Generic: ເວ​ລາ​ຊິ​ລີ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານຊິ​ລີ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຊິ​ລີ
+  },
+  Pacific/Marquesas: {
+    Generic: ເວລາມາເຄີຊັສ,
+    Standard: ເວລາມາເຄີຊັສ,
+    Daylight: ເວລາມາເຄີຊັສ
+  },
+  Indian/Mauritius: {
+    Generic: ເວ​ລາ​ເມົາ​ຣິ​ທຽ​ສ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານເມົາ​ຣິ​ທຽ​ສ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ເມົາ​ຣິ​ທຽ​ສ
+  },
+  Indian/Reunion: {
+    Generic: ເວ​ລາ​ເຣ​ອູ​ນິ​ຢົງ,
+    Standard: ເວ​ລາ​ເຣ​ອູ​ນິ​ຢົງ,
+    Daylight: ເວ​ລາ​ເຣ​ອູ​ນິ​ຢົງ
+  },
+  Indian/Mahe: {
+    Generic: ເວ​ລາ​ເຊ​ເຊ​ລ​ສ໌,
+    Standard: ເວ​ລາ​ເຊ​ເຊ​ລ​ສ໌,
+    Daylight: ເວ​ລາ​ເຊ​ເຊ​ລ​ສ໌
+  },
+  Asia/Beirut: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
+  },
+  America/Montevideo: {
+    Generic: ​ເວ​ລາ​ອູ​ຣູ​ກວຍ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ອູ​ຣູ​ກວຍ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອູ​ຣູ​ກວຍ
+  },
+  Africa/Casablanca: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ
+  },
+  Africa/El_Aaiun: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ
+  },
+  America/Chihuahua: {
+    Generic: ເວລາແປຊິຟິກເມັກຊິກັນ,
+    Standard: ເວລາມາດຕະຖານແປຊິຟິກເມັກຊິກັນ,
+    Daylight: ເວລາກາງເວັນແປຊິຟິກເມັກຊິກັນ
+  },
+  America/Mazatlan: {
+    Generic: ເວລາແປຊິຟິກເມັກຊິກັນ,
+    Standard: ເວລາມາດຕະຖານແປຊິຟິກເມັກຊິກັນ,
+    Daylight: ເວລາກາງເວັນແປຊິຟິກເມັກຊິກັນ
+  },
+  America/Denver: {
+    Generic: ເວລາແຖບພູເຂົາ,
+    Standard: ເວລາມາດຕະຖານແຖບພູເຂົາ,
+    Daylight: ເວລາກາງເວັນແຖບພູເຂົາ
+  },
+  America/Edmonton: {
+    Generic: ເວລາແຖບພູເຂົາ,
+    Standard: ເວລາມາດຕະຖານແຖບພູເຂົາ,
+    Daylight: ເວລາກາງເວັນແຖບພູເຂົາ
+  },
+  America/Cambridge_Bay: {
+    Generic: ເວລາແຖບພູເຂົາ,
+    Standard: ເວລາມາດຕະຖານແຖບພູເຂົາ,
+    Daylight: ເວລາກາງເວັນແຖບພູເຂົາ
+  },
+  America/Inuvik: {
+    Generic: ເວລາແຖບພູເຂົາ,
+    Standard: ເວລາມາດຕະຖານແຖບພູເຂົາ,
+    Daylight: ເວລາກາງເວັນແຖບພູເຂົາ
+  },
+  America/Yellowknife: {
+    Generic: ເວລາແຖບພູເຂົາ,
+    Standard: ເວລາມາດຕະຖານແຖບພູເຂົາ,
+    Daylight: ເວລາກາງເວັນແຖບພູເຂົາ
+  },
+  America/Ojinaga: {
+    Generic: ເວລາແຖບພູເຂົາ,
+    Standard: ເວລາມາດຕະຖານແຖບພູເຂົາ,
+    Daylight: ເວລາກາງເວັນແຖບພູເຂົາ
+  },
+  America/Boise: {
+    Generic: ເວລາແຖບພູເຂົາ,
+    Standard: ເວລາມາດຕະຖານແຖບພູເຂົາ,
+    Daylight: ເວລາກາງເວັນແຖບພູເຂົາ
+  },
+  MST7MDT: {
+    Generic: ເວລາແຖບພູເຂົາ,
+    Standard: ເວລາມາດຕະຖານແຖບພູເຂົາ,
+    Daylight: ເວລາກາງເວັນແຖບພູເຂົາ
+  },
+  Asia/Rangoon: {
+    Generic: ເວລາມຽນມາ,
+    Standard: ເວລາມຽນມາ,
+    Daylight: ເວລາມຽນມາ
+  },
+  Indian/Cocos: {
+    Generic: ເວລາຫມູ່ເກາະໂກໂກສ,
+    Standard: ເວລາຫມູ່ເກາະໂກໂກສ,
+    Daylight: ເວລາຫມູ່ເກາະໂກໂກສ
+  },
+  Asia/Novosibirsk: {
+    Generic: ເວລາ ໂນໂວຊີບີສຄ໌,
+    Standard: ເວລາມາດຕະຖານ ໂນໂວຊີບີສຄ໌,
+    Daylight: ເວລາກາງເວັນ ໂນໂວຊີບີສຄ໌
+  },
+  Africa/Windhoek: {
+    Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
+    Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
+    Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ
+  },
+  Asia/Katmandu: {
+    Generic: ​ເວ​ລາ​ເນ​ປານ,
+    Standard: ​ເວ​ລາ​ເນ​ປານ,
+    Daylight: ​ເວ​ລາ​ເນ​ປານ
+  },
+  Pacific/Auckland: {
+    Generic: ເວ​ລາ​ນິວ​ຊີ​ແລນ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານນິວ​ຊີ​ແລນ,
+    Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ນິວ​ຊີ​ແລນ
+  },
+  Antarctica/McMurdo: {
+    Generic: ເວ​ລາ​ນິວ​ຊີ​ແລນ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານນິວ​ຊີ​ແລນ,
+    Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ນິວ​ຊີ​ແລນ
+  },
+  America/St_Johns: {
+    Generic: ເວ​ລາ​ນິວ​ຟາວ​ແລນ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ນິວ​ຟາວ​ແລນ,
+    Daylight: ເວລາກາງເວັນນິວຟາວແລນ
+  },
+  Pacific/Norfolk: {
+    Generic: ເວ​ລາ​ເກາະ​ນໍ​ຟອ​ລ໌ກ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານເກາະ​ນໍ​ຟອ​ລ໌ກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນເກາະ​ນໍ​ຟອ​ລ໌ກ
+  },
+  Asia/Irkutsk: {
+    Generic: ເວລາ ອີຄຸສຄ໌,
+    Standard: ເວລາມາດຕະຖານ ອີຄຸສຄ໌,
+    Daylight: ເວລາກາງເວັນ ອີຄຸສຄ໌
+  },
+  Asia/Krasnoyarsk: {
+    Generic: ເວລາ ຄຣັສໂນຢາສຄ໌,
+    Standard: ເວລາມາດຕະຖານ ຄຣັສໂນຢາສຄ໌,
+    Daylight: ເວລາກາງເວັນ ຄຣັສໂນຢາສຄ໌
+  },
+  Asia/Novokuznetsk: {
+    Generic: ເວລາ ໂນໂວຄຸສເນັດ,
+    Standard: ເວລາມາດຕະຖານ ໂນໂວຄຸສເນັດ,
+    Daylight: ເວລາກາງເວັນ ໂນໂວຄຸສເນັດ
+  },
+  Asia/Pyongyang: {
+    Generic: ເວລາເກົາຫຼີ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ເກົາ​ຫລີ,
+    Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ເກົາ​ຫລີ
+  },
+  Asia/Omsk: {
+    Generic: ເວລາ ອອມສຄ໌,
+    Standard: ເວລາມາດຕະຖານ ອອມສຄ໌,
+    Daylight: ເວລາກາງເວັນ ອອມສຄ໌
+  },
+  America/Santiago: {
+    Generic: ເວ​ລາ​ຊິ​ລີ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານຊິ​ລີ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຊິ​ລີ
+  },
+  America/Tijuana: {
+    Generic: ເວລາແປຊິຟິກ,
+    Standard: ເວລາມາດຕະຖານແປຊິຟິກ,
+    Daylight: ເວລາກາງເວັນແປຊິຟິກ
+  },
+  America/Santa_Isabel: {
+    Generic: ​ເວ​ລາ​ນອດ​ເວ​ສ​ເມັກ​ຊິ​ໂກ,
+    Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານນອດ​ເວ​ສ​ເມັກ​ຊິ​ໂກ,
+    Daylight: ເວລາກາງເວັນເມັກຊິກັນນອດເວສ
+  },
+  America/Los_Angeles: {
+    Generic: ເວລາແປຊິຟິກ,
+    Standard: ເວລາມາດຕະຖານແປຊິຟິກ,
+    Daylight: ເວລາກາງເວັນແປຊິຟິກ
+  },
+  America/Vancouver: {
+    Generic: ເວລາແປຊິຟິກ,
+    Standard: ເວລາມາດຕະຖານແປຊິຟິກ,
+    Daylight: ເວລາກາງເວັນແປຊິຟິກ
+  },
+  PST8PDT: {
+    Generic: ເວລາແປຊິຟິກ,
+    Standard: ເວລາມາດຕະຖານແປຊິຟິກ,
+    Daylight: ເວລາກາງເວັນແປຊິຟິກ
+  },
+  Asia/Karachi: {
+    Generic: ເວ​ລາ​ປາ​ກີສຖານ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ປາ​ກີສຖານ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ປາ​ກີ​ສ​ຖານ
+  },
+  America/Asuncion: {
+    Generic: ເວ​ລາ​ປາ​ຣາ​ກວຍ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ປາ​ຣາ​ກວຍ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ປາ​ຣາ​ກວຍ
+  },
+  Asia/Qyzylorda: {
+    Generic: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ຕົກ,
+    Standard: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ຕົກ,
+    Daylight: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ຕົກ
+  },
+  Europe/Paris: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
+  },
+  Europe/Brussels: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
+  },
+  Europe/Copenhagen: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
+  },
+  Africa/Ceuta: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
+  },
+  Europe/Madrid: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
+  },
+  Asia/Srednekolymsk: {
+    Generic: ເວລາ ສຣິລເນັກໂກລີດ,
+    Standard: ເວລາມາດຕະຖານ ສຣິລເນັກໂກລີດ,
+    Daylight: ເວລາກາງເວັນ ສຣິລເນັກໂກລີດ
+  },
+  Asia/Kamchatka: {
+    Generic: ເວລາ ຄາມຊາດກາ,
+    Standard: ເວລາມາດຕະຖານ ຄາມຊາດກາ,
+    Daylight: ເວລາກາງເວັນ ຄາມຊາດກາ
+  },
+  Asia/Anadyr: {
+    Generic: ເວລາ ອານາດີ,
+    Standard: ເວລາມາດຕະຖານ ອານາດີ,
+    Daylight: ເວລາກາງເວັນ ອານາດີ
+  },
+  Europe/Samara: {
+    Generic: ເວລາ ຊາມາຣາ,
+    Standard: ເວລາມາດຕະຖານ ຊາມາຣາ,
+    Daylight: ເວລາກາງເວັນ ຊາມາຣາ
+  },
+  Europe/Moscow: {
+    Generic: ເວລາ ມອສໂຄ,
+    Standard: ເວລາມາດຕະຖານ ມອສໂຄ,
+    Daylight: ເວລາກາງເວັນ ມອສໂຄ
+  },
+  Europe/Kirov: {
+    Generic: ເວລາ ກິໂຣບ,
+    Standard: ເວລາມາດຕະຖານ ກິໂຣບ,
+    Daylight: ເວລາກາງເວັນ ກິໂຣບ
+  },
+  Europe/Simferopol: {
+    Generic: ເວ​ລາ​ມອ​ສ​ໂຄ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານມອ​ສ​ໂຄ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນມອ​ສ​ໂຄ
+  },
+  America/Cayenne: {
+    Generic: ເວ​ລາ​ເຟ​ຣນ​ຊ໌​ເກຍ​ນາ,
+    Standard: ເວ​ລາ​ເຟ​ຣນ​ຊ໌​ເກຍ​ນາ,
+    Daylight: ເວ​ລາ​ເຟ​ຣນ​ຊ໌​ເກຍ​ນາ
+  },
+  Antarctica/Rothera: {
+    Generic: ເວລາ ໂຣທີຕາ,
+    Standard: ເວລາ ໂຣທີຕາ,
+    Daylight: ເວລາ ໂຣທີຕາ
+  },
+  Antarctica/Palmer: {
+    Generic: ເວ​ລາ​ຊິ​ລີ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານຊິ​ລີ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຊິ​ລີ
+  },
+  America/Fortaleza: {
+    Generic: ເວລາຕາມເຂດບຣາຊິເລຍ,
+    Standard: ເວລາມາດຕາຖານເບຣຊີເລຍ,
+    Daylight: ເວລາຕາມເຂດລະດູຮ້ອນຕາມເຂດບຣາຊີເລຍ
+  },
+  America/Belem: {
+    Generic: ເວລາຕາມເຂດບຣາຊິເລຍ,
+    Standard: ເວລາມາດຕາຖານເບຣຊີເລຍ,
+    Daylight: ເວລາຕາມເຂດລະດູຮ້ອນຕາມເຂດບຣາຊີເລຍ
+  },
+  America/Maceio: {
+    Generic: ເວລາຕາມເຂດບຣາຊິເລຍ,
+    Standard: ເວລາມາດຕາຖານເບຣຊີເລຍ,
+    Daylight: ເວລາຕາມເຂດລະດູຮ້ອນຕາມເຂດບຣາຊີເລຍ
+  },
+  America/Recife: {
+    Generic: ເວລາຕາມເຂດບຣາຊິເລຍ,
+    Standard: ເວລາມາດຕາຖານເບຣຊີເລຍ,
+    Daylight: ເວລາຕາມເຂດລະດູຮ້ອນຕາມເຂດບຣາຊີເລຍ
+  },
+  America/Santarem: {
+    Generic: ເວລາຕາມເຂດບຣາຊິເລຍ,
+    Standard: ເວລາມາດຕາຖານເບຣຊີເລຍ,
+    Daylight: ເວລາຕາມເຂດລະດູຮ້ອນຕາມເຂດບຣາຊີເລຍ
+  },
+  Atlantic/Stanley: {
+    Generic: ​ເວ​ລາ​ໝູ່​ເກາະ​ຟອ​ລ໌ກ​ແລນ,
+    Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານໝູ່​ເກາະ​ຟອ​ລ໌ກ​ແລນ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນໝູ່​ເກາະ​ຟອ​ລ໌ກ​ແລນ
+  },
+  America/Paramaribo: {
+    Generic: ເວ​ລາ​ຊຸ​ຣິ​ນາມ,
+    Standard: ເວ​ລາ​ຊຸ​ຣິ​ນາມ,
+    Daylight: ເວ​ລາ​ຊຸ​ຣິ​ນາມ
+  },
+  Etc/GMT+3: {
+    Generic: ເວລາສາກົນເຊີງພິກັດ -3,
+    Standard: ເວລາສາກົນເຊີງພິກັດ -3,
+    Daylight: ເວລາສາກົນເຊີງພິກັດ -3
+  },
+  America/Bogota: {
+    Generic: ເວລາໂຄລໍາເບຍ,
+    Standard: ເວລາມາດຕະຖານໂຄລຳເບຍ,
+    Daylight: ເວລາລະດູຮ້ອນໂຄລໍາເບຍ
+  },
+  America/Rio_Branco: {
+    Generic: ເວລາຂອງອາເກຣ,
+    Standard: ເວລາມາດຕະຖານຂອງອາເກຣ,
+    Daylight: ເວລາລະດູຮ້ອນຂອງອາເກຣ
+  },
+  America/Eirunepe: {
+    Generic: ເວລາຂອງອາເກຣ,
+    Standard: ເວລາມາດຕະຖານຂອງອາເກຣ,
+    Daylight: ເວລາລະດູຮ້ອນຂອງອາເກຣ
+  },
+  America/Coral_Harbour: {
+    Generic: ເວລາຕາເວັນອອກ,
+    Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
+    Daylight: ເວລາກາງເວັນຕາເວັນອອກ
+  },
+  America/Guayaquil: {
+    Generic: ເວ​ລາ​ເອ​ກົວ​ດໍ,
+    Standard: ເວ​ລາ​ເອ​ກົວ​ດໍ,
+    Daylight: ເວ​ລາ​ເອ​ກົວ​ດໍ
+  },
+  America/Jamaica: {
+    Generic: ເວລາຕາເວັນອອກ,
+    Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
+    Daylight: ເວລາກາງເວັນຕາເວັນອອກ
+  },
+  America/Cayman: {
+    Generic: ເວລາຕາເວັນອອກ,
+    Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
+    Daylight: ເວລາກາງເວັນຕາເວັນອອກ
+  },
+  America/Panama: {
+    Generic: ເວລາຕາເວັນອອກ,
+    Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
+    Daylight: ເວລາກາງເວັນຕາເວັນອອກ
+  },
+  America/Lima: {
+    Generic: ເວ​ລາ​ເປ​ຣູ,
+    Standard: ເວ​ລາ​​ມາ​ດ​ຕະ​ຖານເປ​ຣູ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ເປ​ຣູ
+  },
+  Etc/GMT+5: {
+    Generic: ເວລາສາກົນເຊີງພິກັດ -5,
+    Standard: ເວລາສາກົນເຊີງພິກັດ -5,
+    Daylight: ເວລາສາກົນເຊີງພິກັດ -5
+  },
+  America/La_Paz: {
+    Generic: ເວ​ລາ​ໂບ​ລິ​ເວຍ,
+    Standard: ເວ​ລາ​ໂບ​ລິ​ເວຍ,
+    Daylight: ເວ​ລາ​ໂບ​ລິ​ເວຍ
+  },
+  America/Antigua: {
+    Generic: ເວລາຂອງອາແລນຕິກ,
+    Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
+    Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
+  },
+  America/Anguilla: {
+    Generic: ເວລາຂອງອາແລນຕິກ,
+    Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
+    Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
+  },
+  America/Aruba: {
+    Generic: ເວລາຂອງອາແລນຕິກ,
+    Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
+    Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
+  },
+  America/Barbados: {
+    Generic: ເວລາຂອງອາແລນຕິກ,
+    Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
+    Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
+  },
+  America/St_Barthelemy: {
+    Generic: ເວລາຂອງອາແລນຕິກ,
+    Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
+    Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
+  },
+  America/Kralendijk: {
+    Generic: ເວລາຂອງອາແລນຕິກ,
+    Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
+    Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
+  },
+  America/Manaus: {
+    Generic: ເວລາຕາມເຂດອາເມຊອນ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເມ​ຊອນ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນອາ​ເມ​ຊອນ
+  },
+  America/Boa_Vista: {
+    Generic: ເວລາຕາມເຂດອາເມຊອນ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເມ​ຊອນ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນອາ​ເມ​ຊອນ
+  },
+  America/Porto_Velho: {
+    Generic: ເວລາຕາມເຂດອາເມຊອນ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເມ​ຊອນ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນອາ​ເມ​ຊອນ
+  },
+  America/Blanc-Sablon: {
+    Generic: ເວລາຂອງອາແລນຕິກ,
+    Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
+    Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
+  },
+  America/Curacao: {
+    Generic: ເວລາຂອງອາແລນຕິກ,
+    Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
+    Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
+  },
+  America/Dominica: {
+    Generic: ເວລາຂອງອາແລນຕິກ,
+    Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
+    Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
+  },
+  America/Santo_Domingo: {
+    Generic: ເວລາຂອງອາແລນຕິກ,
+    Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
+    Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
+  },
+  America/Grenada: {
+    Generic: ເວລາຂອງອາແລນຕິກ,
+    Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
+    Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
+  },
+  America/Guadeloupe: {
+    Generic: ເວລາຂອງອາແລນຕິກ,
+    Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
+    Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
+  },
+  America/Guyana: {
+    Generic: ເວລາກາຍອານາ,
+    Standard: ເວລາກາຍອານາ,
+    Daylight: ເວລາກາຍອານາ
+  },
+  America/St_Kitts: {
+    Generic: ເວລາຂອງອາແລນຕິກ,
+    Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
+    Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
+  },
+  America/St_Lucia: {
+    Generic: ເວລາຂອງອາແລນຕິກ,
+    Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
+    Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
+  },
+  America/Marigot: {
+    Generic: ເວລາຂອງອາແລນຕິກ,
+    Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
+    Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
+  },
+  America/Martinique: {
+    Generic: ເວລາຂອງອາແລນຕິກ,
+    Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
+    Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
+  },
+  America/Montserrat: {
+    Generic: ເວລາຂອງອາແລນຕິກ,
+    Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
+    Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
+  },
+  America/Puerto_Rico: {
+    Generic: ເວລາຂອງອາແລນຕິກ,
+    Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
+    Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
+  },
+  America/Lower_Princes: {
+    Generic: ເວລາຂອງອາແລນຕິກ,
+    Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
+    Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
+  },
+  America/Port_of_Spain: {
+    Generic: ເວລາຂອງອາແລນຕິກ,
+    Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
+    Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
+  },
+  America/St_Vincent: {
+    Generic: ເວລາຂອງອາແລນຕິກ,
+    Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
+    Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
+  },
+  America/Tortola: {
+    Generic: ເວລາຂອງອາແລນຕິກ,
+    Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
+    Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
+  },
+  America/St_Thomas: {
+    Generic: ເວລາຂອງອາແລນຕິກ,
+    Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
+    Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
+  },
+  Etc/GMT+4: {
+    Generic: ເວລາສາກົນເຊີງພິກັດ -4,
+    Standard: ເວລາສາກົນເຊີງພິກັດ -4,
+    Daylight: ເວລາສາກົນເຊີງພິກັດ -4
+  },
+  Asia/Bangkok: {
+    Generic: ເວລາອິນດູຈີນ,
+    Standard: ເວລາອິນດູຈີນ,
+    Daylight: ເວລາອິນດູຈີນ
+  },
+  Antarctica/Davis: {
+    Generic: ເວລາເດວິດ,
+    Standard: ເວລາເດວິດ,
+    Daylight: ເວລາເດວິດ
+  },
+  Indian/Christmas: {
+    Generic: ເວ​ລາ​ເກາະ​ຄ​ຣິສ​ມາສ,
+    Standard: ເວ​ລາ​ເກາະ​ຄ​ຣິສ​ມາສ,
+    Daylight: ເວ​ລາ​ເກາະ​ຄ​ຣິສ​ມາສ
+  },
+  Asia/Jakarta: {
+    Generic: ເວ​ລາ​ອິນ​ໂດ​ເນ​ເຊຍ​ຕາ​ເວັນ​ຕົກ,
+    Standard: ເວ​ລາ​ອິນ​ໂດ​ເນ​ເຊຍ​ຕາ​ເວັນ​ຕົກ,
+    Daylight: ເວ​ລາ​ອິນ​ໂດ​ເນ​ເຊຍ​ຕາ​ເວັນ​ຕົກ
+  },
+  Asia/Pontianak: {
+    Generic: ເວ​ລາ​ອິນ​ໂດ​ເນ​ເຊຍ​ຕາ​ເວັນ​ຕົກ,
+    Standard: ເວ​ລາ​ອິນ​ໂດ​ເນ​ເຊຍ​ຕາ​ເວັນ​ຕົກ,
+    Daylight: ເວ​ລາ​ອິນ​ໂດ​ເນ​ເຊຍ​ຕາ​ເວັນ​ຕົກ
+  },
+  Asia/Phnom_Penh: {
+    Generic: ເວລາອິນດູຈີນ,
+    Standard: ເວລາອິນດູຈີນ,
+    Daylight: ເວລາອິນດູຈີນ
+  },
+  Asia/Vientiane: {
+    Generic: ເວລາອິນດູຈີນ,
+    Standard: ເວລາອິນດູຈີນ,
+    Daylight: ເວລາອິນດູຈີນ
+  },
+  Asia/Saigon: {
+    Generic: ເວລາອິນດູຈີນ,
+    Standard: ເວລາອິນດູຈີນ,
+    Daylight: ເວລາອິນດູຈີນ
+  },
+  Etc/GMT-7: {
+    Generic: ເວລາສາກົນເຊີງພິກັດ +7,
+    Standard: ເວລາສາກົນເຊີງພິກັດ +7,
+    Daylight: ເວລາສາກົນເຊີງພິກັດ +7
+  },
+  America/Miquelon: {
+    Generic: ​ເວ​ລາເຊນ​ປີ​ແອ ແລະ​ມິ​ກົວ​ລອນ,
+    Standard: ​ເວ​ລາມາດ​ຕະ​ຖານເຊນ​ປີ​ແອ ແລະ​ມິ​ກົວ​ລອນ,
+    Daylight: ​ເວ​ລາຕອນ​ທ່ຽງເຊນ​ປີ​ແອ ແລະ​ມິ​ກົວ​ລອນ
+  },
+  Asia/Sakhalin: {
+    Generic: ເວລາ ຊາຄາລິນ,
+    Standard: ເວລາມາດຕະຖານ ຊາຄາລິນ,
+    Daylight: ເວລາກາງເວັນ ຊາຄາລິນ
+  },
+  Pacific/Apia: {
+    Generic: ເວລາເອເພຍ,
+    Standard: ເວລາມາດຕະຖານເອເພຍ,
+    Daylight: ເວລາກາງເວັນອາເພຍ
+  },
+  Africa/Sao_Tome: {
+    Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
+  },
+  Europe/Saratov: {
+    Generic: ເວລາ ຊາຣາທອບ,
+    Standard: ເວລາມາດຕະຖານ ຊາຣາທອບ,
+    Daylight: ເວລາກາງເວັນ ຊາຣາທອບ
+  },
+  Asia/Singapore: {
+    Generic: ເວ​ລາ​ສິງ​ກະ​ໂປ,
+    Standard: ເວ​ລາ​ສິງ​ກະ​ໂປ,
+    Daylight: ເວ​ລາ​ສິງ​ກະ​ໂປ
+  },
+  Asia/Brunei: {
+    Generic: ​ເວ​ລາບຣູ​ໄນດາ​ຣຸສ​ຊາ​ລາມ,
+    Standard: ​ເວ​ລາບຣູ​ໄນດາ​ຣຸສ​ຊາ​ລາມ,
+    Daylight: ​ເວ​ລາບຣູ​ໄນດາ​ຣຸສ​ຊາ​ລາມ
+  },
+  Asia/Makassar: {
+    Generic: ເວ​ລາ​ອິນ​ໂດ​ເນ​ເຊຍ​ກາງ,
+    Standard: ເວ​ລາ​ອິນ​ໂດ​ເນ​ເຊຍ​ກາງ,
+    Daylight: ເວ​ລາ​ອິນ​ໂດ​ເນ​ເຊຍ​ກາງ
+  },
+  Asia/Kuala_Lumpur: {
+    Generic: ເວ​ລາ​ມາ​ເລ​ເຊຍ,
+    Standard: ເວ​ລາ​ມາ​ເລ​ເຊຍ,
+    Daylight: ເວ​ລາ​ມາ​ເລ​ເຊຍ
+  },
+  Asia/Kuching: {
+    Generic: ເວ​ລາ​ມາ​ເລ​ເຊຍ,
+    Standard: ເວ​ລາ​ມາ​ເລ​ເຊຍ,
+    Daylight: ເວ​ລາ​ມາ​ເລ​ເຊຍ
+  },
+  Asia/Manila: {
+    Generic: ​ເວ​ລາ​ຟິ​ລິບ​ປິນ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຟິ​ລິບ​ປິນ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຟິ​ລິບ​ປິນ
+  },
+  Etc/GMT-8: {
+    Generic: ເວລາສາກົນເຊີງພິກັດ +8,
+    Standard: ເວລາສາກົນເຊີງພິກັດ +8,
+    Daylight: ເວລາສາກົນເຊີງພິກັດ +8
+  },
+  Africa/Johannesburg: {
+    Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ໃຕ້,
+    Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ໃຕ້,
+    Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ໃຕ້
+  },
+  Africa/Bujumbura: {
+    Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
+    Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
+    Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ
+  },
+  Africa/Gaborone: {
+    Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
+    Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
+    Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ
+  },
+  Africa/Lubumbashi: {
+    Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
+    Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
+    Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ
+  },
+  Africa/Maseru: {
+    Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ໃຕ້,
+    Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ໃຕ້,
+    Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ໃຕ້
+  },
+  Africa/Blantyre: {
+    Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
+    Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
+    Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ
+  },
+  Africa/Maputo: {
+    Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
+    Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
+    Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ
+  },
+  Africa/Kigali: {
+    Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
+    Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
+    Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ
+  },
+  Africa/Mbabane: {
+    Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ໃຕ້,
+    Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ໃຕ້,
+    Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ໃຕ້
+  },
+  Africa/Lusaka: {
+    Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
+    Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
+    Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ
+  },
+  Africa/Harare: {
+    Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
+    Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
+    Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ
+  },
+  Etc/GMT-2: {
+    Generic: ເວລາສາກົນເຊີງພິກັດ +2,
+    Standard: ເວລາສາກົນເຊີງພິກັດ +2,
+    Daylight: ເວລາສາກົນເຊີງພິກັດ +2
+  },
+  Africa/Juba: {
+    Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
+    Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
+    Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ
+  },
+  Asia/Colombo: {
+    Generic: ເວລາ ອິນເດຍ,
+    Standard: ເວລາ ອິນເດຍ,
+    Daylight: ເວລາ ອິນເດຍ
+  },
+  Africa/Khartoum: {
+    Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
+    Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ,
+    Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ກາງ
+  },
+  Asia/Damascus: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
+  },
+  Asia/Taipei: {
+    Generic: ເວ​ລາ​ໄທ​ເປ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ໄທ​ເປ,
+    Daylight: ເວ​ລາ​ຕອນ​ທ່​ຽງ​ໄທ​ເປ
+  },
+  Australia/Hobart: {
+    Generic: ເວ​ລາອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ມາດຕະຖານ​​​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ
+  },
+  Australia/Currie: {
+    Generic: ເວ​ລາອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ມາດຕະຖານ​​​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ
+  },
+  Antarctica/Macquarie: {
+    Generic: ເວ​ລາອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ມາດຕະຖານ​​​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ
+  },
+  America/Araguaina: {
+    Generic: ເວລາຕາມເຂດບຣາຊິເລຍ,
+    Standard: ເວລາມາດຕາຖານເບຣຊີເລຍ,
+    Daylight: ເວລາຕາມເຂດລະດູຮ້ອນຕາມເຂດບຣາຊີເລຍ
+  },
+  Asia/Tokyo: {
+    Generic: ເວ​ລາ​ຍີ່​ປຸ່ນ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຍີ່​ປຸ່ນ,
+    Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ຍີ່​ປຸ່ນ
+  },
+  Asia/Jayapura: {
+    Generic: ເວ​ລາ​ອິນ​ໂດ​ເນ​ເຊຍ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ອິນ​ໂດ​ເນ​ເຊຍ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ອິນ​ໂດ​ເນ​ເຊຍ​ຕາ​ເວັນ​ອອກ
+  },
+  Pacific/Palau: {
+    Generic: ເວລາປາເລົາ,
+    Standard: ເວລາປາເລົາ,
+    Daylight: ເວລາປາເລົາ
+  },
+  Asia/Dili: {
+    Generic: ເວລາຕີມໍຕາເວັນອອກ,
+    Standard: ເວລາຕີມໍຕາເວັນອອກ,
+    Daylight: ເວລາຕີມໍຕາເວັນອອກ
+  },
+  Etc/GMT-9: {
+    Generic: ເວລາສາກົນເຊີງພິກັດ +9,
+    Standard: ເວລາສາກົນເຊີງພິກັດ +9,
+    Daylight: ເວລາສາກົນເຊີງພິກັດ +9
+  },
+  Asia/Tomsk: {
+    Generic: ເວລາ ທອມສກ໌,
+    Standard: ເວລາມາດຕະຖານ ທອມສກ໌,
+    Daylight: ເວລາກາງເວັນ ທອມສກ໌
+  },
+  Pacific/Tongatapu: {
+    Generic: ເວລາຕອງກາ,
+    Standard: ເວລາມາດຕະຖານຕອງກາ,
+    Daylight: ເວລາລະດູຮ້ອນຕອງກາ
+  },
+  Asia/Chita: {
+    Generic: ເວລາ ຊີຕ່າ,
+    Standard: ເວລາມາດຕະຖານ ຊີຕ່າ,
+    Daylight: ເວລາກາງເວັນ ຊີຕ່າ
+  },
+  Europe/Istanbul: {
+    Generic: ເວລາ ເທີຄີ,
+    Standard: ເວລາມາດຕະຖານ ເທີຄີ,
+    Daylight: ເວລາກາງເວັນ ເທີຄີ
+  },
+  America/Grand_Turk: {
+    Generic: ເວລາຕາເວັນອອກ,
+    Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
+    Daylight: ເວລາກາງເວັນຕາເວັນອອກ
+  },
+  America/Indianapolis: {
+    Generic: ເວລາຕາເວັນອອກ,
+    Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
+    Daylight: ເວລາກາງເວັນຕາເວັນອອກ
+  },
+  America/Indiana/Marengo: {
+    Generic: ເວລາຕາເວັນອອກ,
+    Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
+    Daylight: ເວລາກາງເວັນຕາເວັນອອກ
+  },
+  America/Indiana/Vevay: {
+    Generic: ເວລາຕາເວັນອອກ,
+    Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
+    Daylight: ເວລາກາງເວັນຕາເວັນອອກ
+  },
+  America/Phoenix: {
+    Generic: ເວລາແຖບພູເຂົາ,
+    Standard: ເວລາມາດຕະຖານແຖບພູເຂົາ,
+    Daylight: ເວລາກາງເວັນແຖບພູເຂົາ
+  },
+  America/Creston: {
+    Generic: ເວລາແຖບພູເຂົາ,
+    Standard: ເວລາມາດຕະຖານແຖບພູເຂົາ,
+    Daylight: ເວລາກາງເວັນແຖບພູເຂົາ
+  },
+  America/Dawson_Creek: {
+    Generic: ເວລາແຖບພູເຂົາ,
+    Standard: ເວລາມາດຕະຖານແຖບພູເຂົາ,
+    Daylight: ເວລາກາງເວັນແຖບພູເຂົາ
+  },
+  America/Fort_Nelson: {
+    Generic: ເວລາແຖບພູເຂົາ,
+    Standard: ເວລາມາດຕະຖານແຖບພູເຂົາ,
+    Daylight: ເວລາກາງເວັນແຖບພູເຂົາ
+  },
+  America/Hermosillo: {
+    Generic: ເວລາແປຊິຟິກເມັກຊິກັນ,
+    Standard: ເວລາມາດຕະຖານແປຊິຟິກເມັກຊິກັນ,
+    Daylight: ເວລາກາງເວັນແປຊິຟິກເມັກຊິກັນ
+  },
+  Etc/GMT+7: {
+    Generic: ເວລາສາກົນເຊີງພິກັດ -7,
+    Standard: ເວລາສາກົນເຊີງພິກັດ -7,
+    Daylight: ເວລາສາກົນເຊີງພິກັດ -7
+  },
+  Etc/GMT-12: {
+    Generic: ເວລາສາກົນເຊີງພິກັດ +12,
+    Standard: ເວລາສາກົນເຊີງພິກັດ +12,
+    Daylight: ເວລາສາກົນເຊີງພິກັດ +12
+  },
+  Pacific/Tarawa: {
+    Generic: ເວລາຫມູ່ເກາະກິລເບີດ,
+    Standard: ເວລາຫມູ່ເກາະກິລເບີດ,
+    Daylight: ເວລາຫມູ່ເກາະກິລເບີດ
+  },
+  Pacific/Majuro: {
+    Generic: ເວ​ລາ​ໝູ່​ເກາະ​ມາ​ແຊວ,
+    Standard: ເວ​ລາ​ໝູ່​ເກາະ​ມາ​ແຊວ,
+    Daylight: ເວ​ລາ​ໝູ່​ເກາະ​ມາ​ແຊວ
+  },
+  Pacific/Kwajalein: {
+    Generic: ເວ​ລາ​ໝູ່​ເກາະ​ມາ​ແຊວ,
+    Standard: ເວ​ລາ​ໝູ່​ເກາະ​ມາ​ແຊວ,
+    Daylight: ເວ​ລາ​ໝູ່​ເກາະ​ມາ​ແຊວ
+  },
+  Pacific/Nauru: {
+    Generic: ເວ​ລາ​ນາ​ອູ​ຣຸ,
+    Standard: ເວ​ລາ​ນາ​ອູ​ຣຸ,
+    Daylight: ເວ​ລາ​ນາ​ອູ​ຣຸ
+  },
+  Pacific/Funafuti: {
+    Generic: ເວລາຕູວາລູ,
+    Standard: ເວລາຕູວາລູ,
+    Daylight: ເວລາຕູວາລູ
+  },
+  Pacific/Wake: {
+    Generic: ເວລາເກາະເວກ,
+    Standard: ເວລາເກາະເວກ,
+    Daylight: ເວລາເກາະເວກ
+  },
+  Pacific/Wallis: {
+    Generic: ເວລາວາລລິສ ແລະ ຟູຕູນາ,
+    Standard: ເວລາວາລລິສ ແລະ ຟູຕູນາ,
+    Daylight: ເວລາວາລລິສ ແລະ ຟູຕູນາ
+  },
+  Etc/GMT-13: {
+    Generic: ເວລາສາກົນເຊີງພິກັດ +13,
+    Standard: ເວລາສາກົນເຊີງພິກັດ +13,
+    Daylight: ເວລາສາກົນເຊີງພິກັດ +13
+  },
+  Pacific/Enderbury: {
+    Generic: ເວລາຫມູ່ເກາະຟີນິກ,
+    Standard: ເວລາຫມູ່ເກາະຟີນິກ,
+    Daylight: ເວລາຫມູ່ເກາະຟີນິກ
+  },
+  Pacific/Fakaofo: {
+    Generic: ເວລາໂຕເກເລົາ,
+    Standard: ເວລາໂຕເກເລົາ,
+    Daylight: ເວລາໂຕເກເລົາ
+  },
+  Etc/UTC: {
+    Generic: ເວລາສາກົນເຊີງພິກັດ,
+    Standard: ເວລາສາກົນເຊີງພິກັດ,
+    Daylight: ເວລາສາກົນເຊີງພິກັດ
+  },
+  Etc/GMT: {
+    Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
+  },
+  Etc/GMT+2: {
+    Generic: ເວລາສາກົນເຊີງພິກັດ -2,
+    Standard: ເວລາສາກົນເຊີງພິກັດ -2,
+    Daylight: ເວລາສາກົນເຊີງພິກັດ -2
+  },
+  America/Noronha: {
+    Generic: ເວລາເຟນັນໂດເດໂນຮອນຮາ,
+    Standard: ເວລາມາດຕະຖານເຟນັນໂດເດໂນຮອນຮາ,
+    Daylight: ເວລາລະດູຮ້ອນເຟນັນໂດເດໂນຮອນຮາ
+  },
+  Atlantic/South_Georgia: {
+    Generic: ເວລາຈໍເຈຍໃຕ້,
+    Standard: ເວລາຈໍເຈຍໃຕ້,
+    Daylight: ເວລາຈໍເຈຍໃຕ້
+  },
+  Etc/GMT+8: {
+    Generic: ເວລາສາກົນເຊີງພິກັດ -8,
+    Standard: ເວລາສາກົນເຊີງພິກັດ -8,
+    Daylight: ເວລາສາກົນເຊີງພິກັດ -8
+  },
+  Pacific/Pitcairn: {
+    Generic: ເວລາພິດແຄຣ໌ນ,
+    Standard: ເວລາພິດແຄຣ໌ນ,
+    Daylight: ເວລາພິດແຄຣ໌ນ
+  },
+  Etc/GMT+9: {
+    Generic: ເວລາສາກົນເຊີງພິກັດ -9,
+    Standard: ເວລາສາກົນເຊີງພິກັດ -9,
+    Daylight: ເວລາສາກົນເຊີງພິກັດ -9
+  },
+  Pacific/Gambier: {
+    Generic: ເວລາແກມເບຍ,
+    Standard: ເວລາແກມເບຍ,
+    Daylight: ເວລາແກມເບຍ
+  },
+  Etc/GMT+11: {
+    Generic: ເວລາສາກົນເຊີງພິກັດ -11,
+    Standard: ເວລາສາກົນເຊີງພິກັດ -11,
+    Daylight: ເວລາສາກົນເຊີງພິກັດ -11
+  },
+  Pacific/Pago_Pago: {
+    Generic: ເວລາຊາມົວ,
+    Standard: ເວລາມາດຕະຖານຊາມົວ,
+    Daylight: ເວລາລະດູຮ້ອນຊາມົວ
+  },
+  Pacific/Niue: {
+    Generic: ເວລານິອູເອ,
+    Standard: ເວລານິອູເອ,
+    Daylight: ເວລານິອູເອ
+  },
+  Pacific/Midway: {
+    Generic: ເວລາຊາມົວ,
+    Standard: ເວລາມາດຕະຖານຊາມົວ,
+    Daylight: ເວລາລະດູຮ້ອນຊາມົວ
+  },
+  Asia/Ulaanbaatar: {
+    Generic: ເວລາ ອູລານບາເຕີ,
+    Standard: ເວລາມາດຕະຖານ ອູລານບາເຕີ,
+    Daylight: ເວລາລະດູຮ້ອນອູລານບາເຕີ
+  },
+  Asia/Choibalsan: {
+    Generic: ເວລາ ອູລານບາເຕີ,
+    Standard: ເວລາມາດຕະຖານ ອູລານບາເຕີ,
+    Daylight: ເວລາລະດູຮ້ອນອູລານບາເຕີ
+  },
+  America/Caracas: {
+    Generic: ເວ​ລາ​ເວ​ເນ​ຊູ​ເອ​ລາ,
+    Standard: ເວ​ລາ​ເວ​ເນ​ຊູ​ເອ​ລາ,
+    Daylight: ເວ​ລາ​ເວ​ເນ​ຊູ​ເອ​ລາ
+  },
+  Asia/Vladivostok: {
+    Generic: ເວລາ ວີລາດິໂວສຕອກ,
+    Standard: ເວລາມາດຕະຖານ ວີລາດິໂວສຕອກ,
+    Daylight: ເວລາກາງເວັນ ວີລາດິໂວສຕອກ
+  },
+  Asia/Ust-Nera: {
+    Generic: ເວລາ ອຸສ ເນຣາ,
+    Standard: ເວລາມາດຕະຖານ ອຸສ ເນຣາ,
+    Daylight: ເວລາກາງເວັນ ອຸສ ເນຣາ
+  },
+  Europe/Volgograd: {
+    Generic: ເວລາ ວອລໂກກຣາດ,
+    Standard: ເວລາມາດຕະຖານ ວອລໂກກຣາດ,
+    Daylight: ເວລາກາງເວັນ ວອລໂກກຣາດ
+  },
+  Australia/Perth: {
+    Generic: ເວ​ລາ​ອອສ​ເຕຣ​ເລຍ​ຕາ​ເວັນ​ຕົກ,
+    Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ຕົກ,
+    Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ຕົກ
+  },
+  Africa/Lagos: {
+    Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ
+  },
+  Africa/Luanda: {
+    Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ
+  },
+  Africa/Porto-Novo: {
+    Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ
+  },
+  Africa/Kinshasa: {
+    Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ
+  },
+  Africa/Bangui: {
+    Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ
+  },
+  Africa/Brazzaville: {
+    Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ
+  },
+  Africa/Douala: {
+    Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ
+  },
+  Africa/Algiers: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
+  },
+  Africa/Libreville: {
+    Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ
+  },
+  Africa/Malabo: {
+    Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ
+  },
+  Africa/Niamey: {
+    Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ
+  },
+  Africa/Ndjamena: {
+    Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ຕົກ
+  },
+  Africa/Tunis: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
+  },
+  Etc/GMT-1: {
+    Generic: ເວລາສາກົນເຊີງພິກັດ +1,
+    Standard: ເວລາສາກົນເຊີງພິກັດ +1,
+    Daylight: ເວລາສາກົນເຊີງພິກັດ +1
+  },
+  Europe/Berlin: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
+  },
+  Europe/Andorra: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
+  },
+  Europe/Vienna: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
+  },
+  Europe/Zurich: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
+  },
+  Europe/Busingen: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
+  },
+  Europe/Gibraltar: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
+  },
+  Europe/Rome: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
+  },
+  Europe/Vaduz: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
+  },
+  Europe/Luxembourg: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
+  },
+  Europe/Monaco: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
+  },
+  Europe/Malta: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
+  },
+  Europe/Amsterdam: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
+  },
+  Europe/Oslo: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
+  },
+  Europe/Stockholm: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
+  },
+  Arctic/Longyearbyen: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
+  },
+  Europe/San_Marino: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
+  },
+  Europe/Vatican: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
+  },
+  Asia/Hovd: {
+    Generic: ເວ​ລາ​ຮອບ​ດ໌,
+    Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຮອບ​ດ໌,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຮອບ​ດ໌
+  },
+  Asia/Tashkent: {
+    Generic: ເວລາອຸສເບກິດສະຖານ,
+    Standard: ເວລາມາດຕະຖານອຸສເບກິດສະຖານ,
+    Daylight: ເວລາລະດູຮ້ອນອຸສເບກິດສະຖານ
+  },
+  Antarctica/Mawson: {
+    Generic: ເວລາມໍສັນ,
+    Standard: ເວລາມໍສັນ,
+    Daylight: ເວລາມໍສັນ
+  },
+  Asia/Oral: {
+    Generic: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ຕົກ,
+    Standard: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ຕົກ,
+    Daylight: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ຕົກ
+  },
+  Asia/Aqtau: {
+    Generic: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ຕົກ,
+    Standard: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ຕົກ,
+    Daylight: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ຕົກ
+  },
+  Asia/Aqtobe: {
+    Generic: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ຕົກ,
+    Standard: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ຕົກ,
+    Daylight: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ຕົກ
+  },
+  Asia/Atyrau: {
+    Generic: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ຕົກ,
+    Standard: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ຕົກ,
+    Daylight: ເວ​ລາ​ຄາ​ຊັກ​ສ​ຖານ​ຕາ​ເວັນ​ຕົກ
+  },
+  Indian/Maldives: {
+    Generic: ເວລາມັລດີຟ,
+    Standard: ເວລາມັລດີຟ,
+    Daylight: ເວລາມັລດີຟ
+  },
+  Indian/Kerguelen: {
+    Generic: ເວລາຝຣັ່ງຕອນໃຕ້ ແລະ ແອນຕາກຕິກ,
+    Standard: ເວລາຝຣັ່ງຕອນໃຕ້ ແລະ ແອນຕາກຕິກ,
+    Daylight: ເວລາຝຣັ່ງຕອນໃຕ້ ແລະ ແອນຕາກຕິກ
+  },
+  Asia/Dushanbe: {
+    Generic: ເວລາທາຈິກິສຖານ,
+    Standard: ເວລາທາຈິກິສຖານ,
+    Daylight: ເວລາທາຈິກິສຖານ
+  },
+  Asia/Ashgabat: {
+    Generic: ເວລາຕວກເມນິສຖານ,
+    Standard: ເວລາມາດຕະຖານຕວກເມນິສຖານ,
+    Daylight: ເວລາລະດູຮ້ອນຕວກເມນິສຖານ
+  },
+  Asia/Samarkand: {
+    Generic: ເວລາອຸສເບກິດສະຖານ,
+    Standard: ເວລາມາດຕະຖານອຸສເບກິດສະຖານ,
+    Daylight: ເວລາລະດູຮ້ອນອຸສເບກິດສະຖານ
+  },
+  Etc/GMT-5: {
+    Generic: ເວລາສາກົນເຊີງພິກັດ +5,
+    Standard: ເວລາສາກົນເຊີງພິກັດ +5,
+    Daylight: ເວລາສາກົນເຊີງພິກັດ +5
+  },
+  Asia/Hebron: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
+  },
+  Asia/Gaza: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
+  },
+  Pacific/Port_Moresby: {
+    Generic: ເວລາປາປົວກິນີ,
+    Standard: ເວລາປາປົວກິນີ,
+    Daylight: ເວລາປາປົວກິນີ
+  },
+  Antarctica/DumontDUrville: {
+    Generic: ເວລາດູມອງດູວິລ,
+    Standard: ເວລາດູມອງດູວິລ,
+    Daylight: ເວລາດູມອງດູວິລ
+  },
+  Pacific/Truk: {
+    Generic: ເວລາຊຸກ,
+    Standard: ເວລາຊຸກ,
+    Daylight: ເວລາຊຸກ
+  },
+  Pacific/Guam: {
+    Generic: ເວ​ລາ​ຈາ​ໂມ​ໂຣ,
+    Standard: ເວ​ລາ​ຈາ​ໂມ​ໂຣ,
+    Daylight: ເວ​ລາ​ຈາ​ໂມ​ໂຣ
+  },
+  Pacific/Saipan: {
+    Generic: ເວ​ລາ​ຈາ​ໂມ​ໂຣ,
+    Standard: ເວ​ລາ​ຈາ​ໂມ​ໂຣ,
+    Daylight: ເວ​ລາ​ຈາ​ໂມ​ໂຣ
+  },
+  Etc/GMT-10: {
+    Generic: ເວລາສາກົນເຊີງພິກັດ +10,
+    Standard: ເວລາສາກົນເຊີງພິກັດ +10,
+    Daylight: ເວລາສາກົນເຊີງພິກັດ +10
+  },
+  Asia/Yakutsk: {
+    Generic: ເວລາ ຢາຄຸທຊ໌,
+    Standard: ເວລາມາດຕະຖານ ຢາຄຸທຊ໌,
+    Daylight: ເວລາກາງເວັນ ຢາຄຸທຊ໌
+  },
+  Asia/Khandyga: {
+    Generic: ເວລາ ແຄນດີກາ,
+    Standard: ເວລາມາດຕະຖານ ແຄນດີກາ,
+    Daylight: ເວລາກາງເວັນ ແຄນດີກາ
+  },
+  America/Whitehorse: {
+    Generic: ເວລາຢູຄອນ,
+    Standard: ເວລາຢູຄອນ,
+    Daylight: ເວລາຢູຄອນ
+  },
+  America/Dawson: {
+    Generic: ເວລາຢູຄອນ,
+    Standard: ເວລາຢູຄອນ,
+    Daylight: ເວລາຢູຄອນ
+  },
+  Iceland: {
+    Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
+  },
+  Africa/Timbuktu: {
+    Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
+  },
+  Egypt: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
+  },
+  Africa/Asmara: {
+    Generic: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ອາ​ຟຣິ​ກາ​ຕາ​ເວັນ​ອອກ
+  },
+  Libya: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
+  },
+  America/Atka: {
+    Generic: ເວລາຮາວາຍ-ເອລູທຽນ,
+    Standard: ເວລາມາດຕະຖານຮາວາຍ-ເອລູທຽນ,
+    Daylight: ເວລາຕອນທ່ຽງຮາວາຍ-ເອລູທຽນ
+  },
+  US/Aleutian: {
+    Generic: ເວລາຮາວາຍ-ເອລູທຽນ,
+    Standard: ເວລາມາດຕະຖານຮາວາຍ-ເອລູທຽນ,
+    Daylight: ເວລາຕອນທ່ຽງຮາວາຍ-ເອລູທຽນ
+  },
+  US/Alaska: {
+    Generic: ເວລາອະລັສກາ,
+    Standard: ເວລາມາດຕະຖານອະລັສກາ,
+    Daylight: ເວລາກາງເວັນອະລັສກາ
+  },
+  America/Argentina/Buenos_Aires: {
+    Generic: ເວ​ລາ​ອາ​ເຈ​ທິ​ນາ,
+    Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເຈນ​ທິ​ນາ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ເຈນ​ທິ​ນາ
+  },
+  America/Argentina/Catamarca: {
+    Generic: ເວ​ລາ​ອາ​ເຈ​ທິ​ນາ,
+    Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເຈນ​ທິ​ນາ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ເຈນ​ທິ​ນາ
+  },
+  America/Argentina/ComodRivadavia: {
+    Generic: ເວ​ລາ​ອາ​ເຈ​ທິ​ນາ,
+    Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເຈນ​ທິ​ນາ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ເຈນ​ທິ​ນາ
+  },
+  America/Argentina/Cordoba: {
+    Generic: ເວ​ລາ​ອາ​ເຈ​ທິ​ນາ,
+    Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເຈນ​ທິ​ນາ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ເຈນ​ທິ​ນາ
+  },
+  America/Rosario: {
+    Generic: ເວ​ລາ​ອາ​ເຈ​ທິ​ນາ,
+    Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເຈນ​ທິ​ນາ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ເຈນ​ທິ​ນາ
+  },
+  America/Argentina/Jujuy: {
+    Generic: ເວ​ລາ​ອາ​ເຈ​ທິ​ນາ,
+    Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເຈນ​ທິ​ນາ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ເຈນ​ທິ​ນາ
+  },
+  America/Argentina/Mendoza: {
+    Generic: ເວ​ລາ​ອາ​ເຈ​ທິ​ນາ,
+    Standard: ​ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເຈນ​ທິ​ນາ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອາ​ເຈນ​ທິ​ນາ
+  },
+  US/Central: {
+    Generic: ເວລາກາງ,
+    Standard: ເວລາມາດຕະຖານກາງ,
+    Daylight: ເວລາກາງເວັນກາງ
+  },
+  America/Shiprock: {
+    Generic: ເວລາແຖບພູເຂົາ,
+    Standard: ເວລາມາດຕະຖານແຖບພູເຂົາ,
+    Daylight: ເວລາກາງເວັນແຖບພູເຂົາ
+  },
+  Navajo: {
+    Generic: ເວລາແຖບພູເຂົາ,
+    Standard: ເວລາມາດຕະຖານແຖບພູເຂົາ,
+    Daylight: ເວລາກາງເວັນແຖບພູເຂົາ
+  },
+  US/Mountain: {
+    Generic: ເວລາແຖບພູເຂົາ,
+    Standard: ເວລາມາດຕະຖານແຖບພູເຂົາ,
+    Daylight: ເວລາກາງເວັນແຖບພູເຂົາ
+  },
+  US/Michigan: {
+    Generic: ເວລາຕາເວັນອອກ,
+    Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
+    Daylight: ເວລາກາງເວັນຕາເວັນອອກ
+  },
+  Canada/Mountain: {
+    Generic: ເວລາແຖບພູເຂົາ,
+    Standard: ເວລາມາດຕະຖານແຖບພູເຂົາ,
+    Daylight: ເວລາກາງເວັນແຖບພູເຂົາ
+  },
+  Canada/Atlantic: {
+    Generic: ເວລາຂອງອາແລນຕິກ,
+    Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
+    Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
+  },
+  Cuba: {
+    Generic: ເວລາຄິວບາ,
+    Standard: ເວລາມາດຕະຖານຂອງຄິວບາ,
+    Daylight: ເວລາກາງເວັນຄິວບາ
+  },
+  America/Indiana/Indianapolis: {
+    Generic: ເວລາຕາເວັນອອກ,
+    Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
+    Daylight: ເວລາກາງເວັນຕາເວັນອອກ
+  },
+  US/East-Indiana: {
+    Generic: ເວລາຕາເວັນອອກ,
+    Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
+    Daylight: ເວລາກາງເວັນຕາເວັນອອກ
+  },
+  America/Knox_IN: {
+    Generic: ເວລາກາງ,
+    Standard: ເວລາມາດຕະຖານກາງ,
+    Daylight: ເວລາກາງເວັນກາງ
+  },
+  US/Indiana-Starke: {
+    Generic: ເວລາກາງ,
+    Standard: ເວລາມາດຕະຖານກາງ,
+    Daylight: ເວລາກາງເວັນກາງ
+  },
+  Jamaica: {
+    Generic: ເວລາຕາເວັນອອກ,
+    Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
+    Daylight: ເວລາກາງເວັນຕາເວັນອອກ
+  },
+  America/Kentucky/Louisville: {
+    Generic: ເວລາຕາເວັນອອກ,
+    Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
+    Daylight: ເວລາກາງເວັນຕາເວັນອອກ
+  },
+  US/Pacific: {
+    Generic: ເວລາແປຊິຟິກ,
+    Standard: ເວລາມາດຕະຖານແປຊິຟິກ,
+    Daylight: ເວລາກາງເວັນແປຊິຟິກ
+  },
+  Brazil/West: {
+    Generic: ເວລາຕາມເຂດອາເມຊອນ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ເມ​ຊອນ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນອາ​ເມ​ຊອນ
+  },
+  Mexico/BajaSur: {
+    Generic: ເວລາແປຊິຟິກເມັກຊິກັນ,
+    Standard: ເວລາມາດຕະຖານແປຊິຟິກເມັກຊິກັນ,
+    Daylight: ເວລາກາງເວັນແປຊິຟິກເມັກຊິກັນ
+  },
+  Mexico/General: {
+    Generic: ເວລາກາງ,
+    Standard: ເວລາມາດຕະຖານກາງ,
+    Daylight: ເວລາກາງເວັນກາງ
+  },
+  US/Eastern: {
+    Generic: ເວລາຕາເວັນອອກ,
+    Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
+    Daylight: ເວລາກາງເວັນຕາເວັນອອກ
+  },
+  Brazil/DeNoronha: {
+    Generic: ເວລາເຟນັນໂດເດໂນຮອນຮາ,
+    Standard: ເວລາມາດຕະຖານເຟນັນໂດເດໂນຮອນຮາ,
+    Daylight: ເວລາລະດູຮ້ອນເຟນັນໂດເດໂນຮອນຮາ
+  },
+  America/Nuuk: {
+    Generic: ເວລາກຣີນແລນຕາເວັນຕົກ,
+    Standard: ເວລາມາດຕະຖານກຣີນແລນຕາເວັນຕົກ,
+    Daylight: ເວລາຕອນທ່ຽງກຣີນແລນຕາເວັນຕົກ
+  },
+  America/Atikokan: {
+    Generic: ເວລາຕາເວັນອອກ,
+    Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
+    Daylight: ເວລາກາງເວັນຕາເວັນອອກ
+  },
+  US/Arizona: {
+    Generic: ເວລາແຖບພູເຂົາ,
+    Standard: ເວລາມາດຕະຖານແຖບພູເຂົາ,
+    Daylight: ເວລາກາງເວັນແຖບພູເຂົາ
+  },
+  America/Virgin: {
+    Generic: ເວລາຂອງອາແລນຕິກ,
+    Standard: ເວລາມາດຕະຖານຂອງອາແລນຕິກ,
+    Daylight: ເວລາກາງເວັນຂອງອາແລນຕິກ
+  },
+  Canada/Saskatchewan: {
+    Generic: ເວລາກາງ,
+    Standard: ເວລາມາດຕະຖານກາງ,
+    Daylight: ເວລາກາງເວັນກາງ
+  },
+  America/Porto_Acre: {
+    Generic: ເວລາຂອງອາເກຣ,
+    Standard: ເວລາມາດຕະຖານຂອງອາເກຣ,
+    Daylight: ເວລາລະດູຮ້ອນຂອງອາເກຣ
+  },
+  Brazil/Acre: {
+    Generic: ເວລາຂອງອາເກຣ,
+    Standard: ເວລາມາດຕະຖານຂອງອາເກຣ,
+    Daylight: ເວລາລະດູຮ້ອນຂອງອາເກຣ
+  },
+  Chile/Continental: {
+    Generic: ເວ​ລາ​ຊິ​ລີ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານຊິ​ລີ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຊິ​ລີ
+  },
+  Brazil/East: {
+    Generic: ເວລາຕາມເຂດບຣາຊິເລຍ,
+    Standard: ເວລາມາດຕາຖານເບຣຊີເລຍ,
+    Daylight: ເວລາຕາມເຂດລະດູຮ້ອນຕາມເຂດບຣາຊີເລຍ
+  },
+  Canada/Newfoundland: {
+    Generic: ເວ​ລາ​ນິວ​ຟາວ​ແລນ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ນິວ​ຟາວ​ແລນ,
+    Daylight: ເວລາກາງເວັນນິວຟາວແລນ
+  },
+  America/Ensenada: {
+    Generic: ເວລາແປຊິຟິກ,
+    Standard: ເວລາມາດຕະຖານແປຊິຟິກ,
+    Daylight: ເວລາກາງເວັນແປຊິຟິກ
+  },
+  Mexico/BajaNorte: {
+    Generic: ເວລາແປຊິຟິກ,
+    Standard: ເວລາມາດຕະຖານແປຊິຟິກ,
+    Daylight: ເວລາກາງເວັນແປຊິຟິກ
+  },
+  Canada/Eastern: {
+    Generic: ເວລາຕາເວັນອອກ,
+    Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
+    Daylight: ເວລາກາງເວັນຕາເວັນອອກ
+  },
+  Canada/Pacific: {
+    Generic: ເວລາແປຊິຟິກ,
+    Standard: ເວລາມາດຕະຖານແປຊິຟິກ,
+    Daylight: ເວລາກາງເວັນແປຊິຟິກ
+  },
+  Canada/Yukon: {
+    Generic: ເວລາຢູຄອນ,
+    Standard: ເວລາຢູຄອນ,
+    Daylight: ເວລາຢູຄອນ
+  },
+  Canada/Central: {
+    Generic: ເວລາກາງ,
+    Standard: ເວລາມາດຕະຖານກາງ,
+    Daylight: ເວລາກາງເວັນກາງ
+  },
+  Asia/Ashkhabad: {
+    Generic: ເວລາຕວກເມນິສຖານ,
+    Standard: ເວລາມາດຕະຖານຕວກເມນິສຖານ,
+    Daylight: ເວລາລະດູຮ້ອນຕວກເມນິສຖານ
+  },
+  Asia/Dacca: {
+    Generic: ເວລາ ບັງກະລາເທດ,
+    Standard: ເວລາມາດຕະຖານ ບັງກະລາເທດ,
+    Daylight: ເວລາ ລະດູຮ້ອນ ບັງກະລາເທດ
+  },
+  Asia/Ho_Chi_Minh: {
+    Generic: ເວລາອິນດູຈີນ,
+    Standard: ເວລາອິນດູຈີນ,
+    Daylight: ເວລາອິນດູຈີນ
+  },
+  Hongkong: {
+    Generic: ເວ​ລາ​ຮອງ​ກົງ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຮອງ​ກົງ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຮອງ​ກົງ
+  },
+  Asia/Tel_Aviv: {
+    Generic: ເວ​ລາ​ອິ​ສ​ຣາ​ເອວ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານອິ​ສ​ຣາ​ເອວ,
+    Daylight: ເວລາກາງເວັນອິສຣາເອວ
+  },
+  Israel: {
+    Generic: ເວ​ລາ​ອິ​ສ​ຣາ​ເອວ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານອິ​ສ​ຣາ​ເອວ,
+    Daylight: ເວລາກາງເວັນອິສຣາເອວ
+  },
+  Asia/Kathmandu: {
+    Generic: ​ເວ​ລາ​ເນ​ປານ,
+    Standard: ​ເວ​ລາ​ເນ​ປານ,
+    Daylight: ​ເວ​ລາ​ເນ​ປານ
+  },
+  Asia/Kolkata: {
+    Generic: ເວລາ ອິນເດຍ,
+    Standard: ເວລາ ອິນເດຍ,
+    Daylight: ເວລາ ອິນເດຍ
+  },
+  Asia/Macao: {
+    Generic: ເວ​ລາ​ຈີນ,
+    Standard: ເວລາມາດຕະຖານຈີນ,
+    Daylight: ​ເວ​ລາ​ຕອນ​ທ່ຽງ​ຈີນ
+  },
+  Asia/Ujung_Pandang: {
+    Generic: ເວ​ລາ​ອິນ​ໂດ​ເນ​ເຊຍ​ກາງ,
+    Standard: ເວ​ລາ​ອິນ​ໂດ​ເນ​ເຊຍ​ກາງ,
+    Daylight: ເວ​ລາ​ອິນ​ໂດ​ເນ​ເຊຍ​ກາງ
+  },
+  Europe/Nicosia: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
+  },
+  ROK: {
+    Generic: ເວລາເກົາຫຼີ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ເກົາ​ຫລີ,
+    Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ເກົາ​ຫລີ
+  },
+  Asia/Chongqing: {
+    Generic: ເວ​ລາ​ຈີນ,
+    Standard: ເວລາມາດຕະຖານຈີນ,
+    Daylight: ​ເວ​ລາ​ຕອນ​ທ່ຽງ​ຈີນ
+  },
+  Asia/Chungking: {
+    Generic: ເວ​ລາ​ຈີນ,
+    Standard: ເວລາມາດຕະຖານຈີນ,
+    Daylight: ​ເວ​ລາ​ຕອນ​ທ່ຽງ​ຈີນ
+  },
+  Asia/Harbin: {
+    Generic: ເວ​ລາ​ຈີນ,
+    Standard: ເວລາມາດຕະຖານຈີນ,
+    Daylight: ​ເວ​ລາ​ຕອນ​ທ່ຽງ​ຈີນ
+  },
+  PRC: {
+    Generic: ເວ​ລາ​ຈີນ,
+    Standard: ເວລາມາດຕະຖານຈີນ,
+    Daylight: ​ເວ​ລາ​ຕອນ​ທ່ຽງ​ຈີນ
+  },
+  Singapore: {
+    Generic: ເວ​ລາ​ສິງ​ກະ​ໂປ,
+    Standard: ເວ​ລາ​ສິງ​ກະ​ໂປ,
+    Daylight: ເວ​ລາ​ສິງ​ກະ​ໂປ
+  },
+  ROC: {
+    Generic: ເວ​ລາ​ໄທ​ເປ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ໄທ​ເປ,
+    Daylight: ເວ​ລາ​ຕອນ​ທ່​ຽງ​ໄທ​ເປ
+  },
+  Iran: {
+    Generic: ເວ​ລາ​ອີ​ຣານ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານອີ​ຣານ,
+    Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອີ​ຣາ​ນ
+  },
+  Asia/Thimbu: {
+    Generic: ເວ​ລາ​ພູ​ຖານ,
+    Standard: ເວ​ລາ​ພູ​ຖານ,
+    Daylight: ເວ​ລາ​ພູ​ຖານ
+  },
+  Japan: {
+    Generic: ເວ​ລາ​ຍີ່​ປຸ່ນ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຍີ່​ປຸ່ນ,
+    Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ຍີ່​ປຸ່ນ
+  },
+  Asia/Ulan_Bator: {
+    Generic: ເວລາ ອູລານບາເຕີ,
+    Standard: ເວລາມາດຕະຖານ ອູລານບາເຕີ,
+    Daylight: ເວລາລະດູຮ້ອນອູລານບາເຕີ
+  },
+  Asia/Kashgar: {
+    Generic: ເວລາ ຈີນ,
+    Standard: ເວລາມາດຕະຖານ ຈີນ,
+    Daylight: ເວລາກາງເວັນ ຈີນ
+  },
+  Asia/Yangon: {
+    Generic: ເວລາມຽນມາ,
+    Standard: ເວລາມຽນມາ,
+    Daylight: ເວລາມຽນມາ
+  },
+  WET: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ
+  },
+  Atlantic/Faroe: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ
+  },
+  Australia/South: {
+    Generic: ເວ​ລາອອ​ສ​ເຕຣ​ເລຍ​ກາງ,
+    Standard: ເວ​ລາມາດ​ຕະ​ຖານອອ​ສ​ເຕຣ​ເລຍ​ກ​າງ,
+    Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ເລຍ​ກາງ
+  },
+  Australia/Queensland: {
+    Generic: ເວ​ລາອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ມາດຕະຖານ​​​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ
+  },
+  Australia/Yancowinna: {
+    Generic: ເວ​ລາອອ​ສ​ເຕຣ​ເລຍ​ກາງ,
+    Standard: ເວ​ລາມາດ​ຕະ​ຖານອອ​ສ​ເຕຣ​ເລຍ​ກ​າງ,
+    Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ເລຍ​ກາງ
+  },
+  Australia/North: {
+    Generic: ເວ​ລາອອ​ສ​ເຕຣ​ເລຍ​ກາງ,
+    Standard: ເວ​ລາມາດ​ຕະ​ຖານອອ​ສ​ເຕຣ​ເລຍ​ກ​າງ,
+    Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ເລຍ​ກາງ
+  },
+  Australia/Tasmania: {
+    Generic: ເວ​ລາອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ມາດຕະຖານ​​​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ
+  },
+  Australia/LHI: {
+    Generic: ເວ​ລາ​ລອດ​ເຮົາ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ລອດ​ເຮົາ,
+    Daylight: ​ເວ​ລ​ສາ​ຕອນ​​ທ່ຽງ​ລອດ​ເຮົາ​
+  },
+  Australia/Victoria: {
+    Generic: ເວ​ລາອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ມາດຕະຖານ​​​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ
+  },
+  Australia/West: {
+    Generic: ເວ​ລາ​ອອສ​ເຕຣ​ເລຍ​ຕາ​ເວັນ​ຕົກ,
+    Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ຕົກ,
+    Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ຕົກ
+  },
+  Australia/ACT: {
+    Generic: ເວ​ລາອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ມາດຕະຖານ​​​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ
+  },
+  Australia/Canberra: {
+    Generic: ເວ​ລາອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ມາດຕະຖານ​​​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ
+  },
+  Australia/NSW: {
+    Generic: ເວ​ລາອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ມາດຕະຖານ​​​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ອອສ​ເຕຣ​ລຽນ​ຕາ​ເວັນ​ອອກ
+  },
+  HST: {
+    Generic: ເວລາສາກົນເຊີງພິກັດ -10,
+    Standard: ເວລາສາກົນເຊີງພິກັດ -10,
+    Daylight: ເວລາສາກົນເຊີງພິກັດ -10
+  },
+  EST: {
+    Generic: ເວລາສາກົນເຊີງພິກັດ -5,
+    Standard: ເວລາສາກົນເຊີງພິກັດ -5,
+    Daylight: ເວລາສາກົນເຊີງພິກັດ -5
+  },
+  MST: {
+    Generic: ເວລາສາກົນເຊີງພິກັດ -7,
+    Standard: ເວລາສາກົນເຊີງພິກັດ -7,
+    Daylight: ເວລາສາກົນເຊີງພິກັດ -7
+  },
+  Etc/GMT+0: {
+    Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
+  },
+  Etc/GMT-0: {
+    Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
+  },
+  Etc/GMT0: {
+    Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
+  },
+  Etc/Greenwich: {
+    Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
+  },
+  GMT: {
+    Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
+  },
+  GMT+0: {
+    Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
+  },
+  GMT-0: {
+    Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
+  },
+  GMT0: {
+    Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
+  },
+  Greenwich: {
+    Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
+  },
+  Etc/UCT: {
+    Generic: ເວລາສາກົນເຊີງພິກັດ,
+    Standard: ເວລາສາກົນເຊີງພິກັດ,
+    Daylight: ເວລາສາກົນເຊີງພິກັດ
+  },
+  Etc/Universal: {
+    Generic: ເວລາສາກົນເຊີງພິກັດ,
+    Standard: ເວລາສາກົນເຊີງພິກັດ,
+    Daylight: ເວລາສາກົນເຊີງພິກັດ
+  },
+  Etc/Zulu: {
+    Generic: ເວລາສາກົນເຊີງພິກັດ,
+    Standard: ເວລາສາກົນເຊີງພິກັດ,
+    Daylight: ເວລາສາກົນເຊີງພິກັດ
+  },
+  UCT: {
+    Generic: ເວລາສາກົນເຊີງພິກັດ,
+    Standard: ເວລາສາກົນເຊີງພິກັດ,
+    Daylight: ເວລາສາກົນເຊີງພິກັດ
+  },
+  UTC: {
+    Generic: ເວລາສາກົນເຊີງພິກັດ,
+    Standard: ເວລາສາກົນເຊີງພິກັດ,
+    Daylight: ເວລາສາກົນເຊີງພິກັດ
+  },
+  Universal: {
+    Generic: ເວລາສາກົນເຊີງພິກັດ,
+    Standard: ເວລາສາກົນເຊີງພິກັດ,
+    Daylight: ເວລາສາກົນເຊີງພິກັດ
+  },
+  Zulu: {
+    Generic: ເວລາສາກົນເຊີງພິກັດ,
+    Standard: ເວລາສາກົນເຊີງພິກັດ,
+    Daylight: ເວລາສາກົນເຊີງພິກັດ
+  },
+  Atlantic/Jan_Mayen: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
+  },
+  MET: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
+  },
+  EET: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
+  },
+  Europe/Tiraspol: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
+  },
+  Eire: {
+    Generic: ເວລາ ໄອແລນ,
+    Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Daylight: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ໄອ​ຣິ​ຊ
+  },
+  Asia/Istanbul: {
+    Generic: ເວລາ ເທີຄີ,
+    Standard: ເວລາມາດຕະຖານ ເທີຄີ,
+    Daylight: ເວລາກາງເວັນ ເທີຄີ
+  },
+  Turkey: {
+    Generic: ເວລາ ເທີຄີ,
+    Standard: ເວລາມາດຕະຖານ ເທີຄີ,
+    Daylight: ເວລາກາງເວັນ ເທີຄີ
+  },
+  Europe/Kyiv: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Standard: ເວ​ລາ​ມາ​ດ​ຕະ​ຖານ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ອອກ
+  },
+  Portugal: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນຢູ​ໂຣບ​ຕາ​ເວັນ​ຕົກ
+  },
+  Europe/Belfast: {
+    Generic: ເວລາ ສະຫະລາດຊະອະນາຈັກ,
+    Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອັງ​ກິດ
+  },
+  GB: {
+    Generic: ເວລາ ສະຫະລາດຊະອະນາຈັກ,
+    Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອັງ​ກິດ
+  },
+  GB-Eire: {
+    Generic: ເວລາ ສະຫະລາດຊະອະນາຈັກ,
+    Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ອັງ​ກິດ
+  },
+  W-SU: {
+    Generic: ເວລາ ມອສໂຄ,
+    Standard: ເວລາມາດຕະຖານ ມອສໂຄ,
+    Daylight: ເວລາກາງເວັນ ມອສໂຄ
+  },
+  CET: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
+  },
+  Poland: {
+    Generic: ເວ​ລາ​ຢູ​ໂຣບ​ກາງ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຢູ​ໂຣບກາງ,
+    Daylight: ​ເວ​ລາ​ລະ​ດູ​ຮ້ອນ​ຢູ​ໂຣບ​ກາງ
+  },
+  Antarctica/South_Pole: {
+    Generic: ເວ​ລາ​ນິວ​ຊີ​ແລນ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານນິວ​ຊີ​ແລນ,
+    Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ນິວ​ຊີ​ແລນ
+  },
+  NZ: {
+    Generic: ເວ​ລາ​ນິວ​ຊີ​ແລນ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານນິວ​ຊີ​ແລນ,
+    Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ນິວ​ຊີ​ແລນ
+  },
+  NZ-CHAT: {
+    Generic: ເວ​ລາ​ຊາ​ທາມ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານ​ຊາ​ທາມ,
+    Daylight: ເວ​ລາ​ຕອນ​ທ່ຽງ​ຊາ​ທາມ
+  },
+  Chile/EasterIsland: {
+    Generic: ເວ​ລາ​ເກາະ​ອີ​ສ​ເຕີ,
+    Standard: ເວ​ລາ​ມາດ​ຕະ​ຖານເກາະ​ອີ​ສ​ເຕີ,
+    Daylight: ເວ​ລາ​ລະ​ດູ​ຮ້ອນເກາະ​ອີ​ສ​ເຕີ
+  },
+  Pacific/Pohnpei: {
+    Generic: ເວລາໂປເນບ,
+    Standard: ເວລາໂປເນບ,
+    Daylight: ເວລາໂປເນບ
+  },
+  US/Hawaii: {
+    Generic: ເວລາຮາວາຍ-ເອລູທຽນ,
+    Standard: ເວລາມາດຕະຖານຮາວາຍ-ເອລູທຽນ,
+    Daylight: ເວລາຕອນທ່ຽງຮາວາຍ-ເອລູທຽນ
+  },
+  Pacific/Kanton: {
+    Generic: ເວລາຫມູ່ເກາະຟີນິກ,
+    Standard: ເວລາຫມູ່ເກາະຟີນິກ,
+    Daylight: ເວລາຫມູ່ເກາະຟີນິກ
+  },
+  Kwajalein: {
+    Generic: ເວ​ລາ​ໝູ່​ເກາະ​ມາ​ແຊວ,
+    Standard: ເວ​ລາ​ໝູ່​ເກາະ​ມາ​ແຊວ,
+    Daylight: ເວ​ລາ​ໝູ່​ເກາະ​ມາ​ແຊວ
+  },
+  Pacific/Samoa: {
+    Generic: ເວລາຊາມົວ,
+    Standard: ເວລາມາດຕະຖານຊາມົວ,
+    Daylight: ເວລາລະດູຮ້ອນຊາມົວ
+  },
+  US/Samoa: {
+    Generic: ເວລາຊາມົວ,
+    Standard: ເວລາມາດຕະຖານຊາມົວ,
+    Daylight: ເວລາລະດູຮ້ອນຊາມົວ
+  },
+  Pacific/Chuuk: {
+    Generic: ເວລາຊຸກ,
+    Standard: ເວລາຊຸກ,
+    Daylight: ເວລາຊຸກ
+  },
+  Pacific/Yap: {
+    Generic: ເວລາຊຸກ,
+    Standard: ເວລາຊຸກ,
+    Daylight: ເວລາຊຸກ
+  },
+  America/Fort_Wayne: {
+    Generic: ເວລາຕາເວັນອອກ,
+    Standard: ເວລາມາດຕະຖານຕາເວັນອອກ,
+    Daylight: ເວລາກາງເວັນຕາເວັນອອກ
+  },
+  Antarctica/Troll: {
+    Generic: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Standard: ເວ​ລາກຣີນ​ວິ​ຊ,
+    Daylight: ເວ​ລາກຣີນ​ວິ​ຊ
   }
-]
+}

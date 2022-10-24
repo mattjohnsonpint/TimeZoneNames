@@ -1,4762 +1,2977 @@
-﻿[
-  {
-    Key: Africa/Abidjan,
-    Value: {
-      Generic: Gröönwisch-Welttiet,
-      Standard: Gröönwisch-Welttiet,
-      Daylight: Gröönwisch-Welttiet
-    }
-  },
-  {
-    Key: Africa/Accra,
-    Value: {
-      Generic: Gröönwisch-Welttiet,
-      Standard: Gröönwisch-Welttiet,
-      Daylight: Gröönwisch-Welttiet
-    }
-  },
-  {
-    Key: Africa/Addis_Ababa,
-    Value: {
-      Generic: Oostafrikaansch Tiet,
-      Standard: Oostafrikaansch Tiet,
-      Daylight: Oostafrikaansch Tiet
-    }
-  },
-  {
-    Key: Africa/Algiers,
-    Value: {
-      Generic: Zentraaleuropääsch Tiet,
-      Standard: Zentraaleuropääsch Standardtiet,
-      Daylight: Zentraaleuropääsch Summertiet
-    }
-  },
-  {
-    Key: Africa/Asmara,
-    Value: {
-      Generic: Oostafrikaansch Tiet,
-      Standard: Oostafrikaansch Tiet,
-      Daylight: Oostafrikaansch Tiet
-    }
-  },
-  {
-    Key: Africa/Asmera,
-    Value: {
-      Generic: Oostafrikaansch Tiet,
-      Standard: Oostafrikaansch Tiet,
-      Daylight: Oostafrikaansch Tiet
-    }
-  },
-  {
-    Key: Africa/Bamako,
-    Value: {
-      Generic: Gröönwisch-Welttiet,
-      Standard: Gröönwisch-Welttiet,
-      Daylight: Gröönwisch-Welttiet
-    }
-  },
-  {
-    Key: Africa/Bangui,
-    Value: {
-      Generic: Westafrikaansch Tiet,
-      Standard: Westafrikaansch Standardtiet,
-      Daylight: Westafrikaansch Summertiet
-    }
-  },
-  {
-    Key: Africa/Banjul,
-    Value: {
-      Generic: Gröönwisch-Welttiet,
-      Standard: Gröönwisch-Welttiet,
-      Daylight: Gröönwisch-Welttiet
-    }
-  },
-  {
-    Key: Africa/Bissau,
-    Value: {
-      Generic: Gröönwisch-Welttiet,
-      Standard: Gröönwisch-Welttiet,
-      Daylight: Gröönwisch-Welttiet
-    }
-  },
-  {
-    Key: Africa/Blantyre,
-    Value: {
-      Generic: Zentraalafrikaansch Tiet,
-      Standard: Zentraalafrikaansch Tiet,
-      Daylight: Zentraalafrikaansch Tiet
-    }
-  },
-  {
-    Key: Africa/Brazzaville,
-    Value: {
-      Generic: Westafrikaansch Tiet,
-      Standard: Westafrikaansch Standardtiet,
-      Daylight: Westafrikaansch Summertiet
-    }
-  },
-  {
-    Key: Africa/Bujumbura,
-    Value: {
-      Generic: Zentraalafrikaansch Tiet,
-      Standard: Zentraalafrikaansch Tiet,
-      Daylight: Zentraalafrikaansch Tiet
-    }
-  },
-  {
-    Key: Africa/Cairo,
-    Value: {
-      Generic: Oosteuropääsch Tiet,
-      Standard: Oosteuropääsch Standardtiet,
-      Daylight: Oosteuropääsch Summertiet
-    }
-  },
-  {
-    Key: Africa/Casablanca,
-    Value: {
-      Generic: Westeuropääsch Tiet,
-      Standard: Westeuropääsch Standardtiet,
-      Daylight: Westeuropääsch Summertiet
-    }
-  },
-  {
-    Key: Africa/Ceuta,
-    Value: {
-      Generic: Zentraaleuropääsch Tiet,
-      Standard: Zentraaleuropääsch Standardtiet,
-      Daylight: Zentraaleuropääsch Summertiet
-    }
-  },
-  {
-    Key: Africa/Conakry,
-    Value: {
-      Generic: Gröönwisch-Welttiet,
-      Standard: Gröönwisch-Welttiet,
-      Daylight: Gröönwisch-Welttiet
-    }
-  },
-  {
-    Key: Africa/Dakar,
-    Value: {
-      Generic: Gröönwisch-Welttiet,
-      Standard: Gröönwisch-Welttiet,
-      Daylight: Gröönwisch-Welttiet
-    }
-  },
-  {
-    Key: Africa/Dar_es_Salaam,
-    Value: {
-      Generic: Oostafrikaansch Tiet,
-      Standard: Oostafrikaansch Tiet,
-      Daylight: Oostafrikaansch Tiet
-    }
-  },
-  {
-    Key: Africa/Djibouti,
-    Value: {
-      Generic: Oostafrikaansch Tiet,
-      Standard: Oostafrikaansch Tiet,
-      Daylight: Oostafrikaansch Tiet
-    }
-  },
-  {
-    Key: Africa/Douala,
-    Value: {
-      Generic: Westafrikaansch Tiet,
-      Standard: Westafrikaansch Standardtiet,
-      Daylight: Westafrikaansch Summertiet
-    }
-  },
-  {
-    Key: Africa/El_Aaiun,
-    Value: {
-      Generic: Westeuropääsch Tiet,
-      Standard: Westeuropääsch Standardtiet,
-      Daylight: Westeuropääsch Summertiet
-    }
-  },
-  {
-    Key: Africa/Freetown,
-    Value: {
-      Generic: Gröönwisch-Welttiet,
-      Standard: Gröönwisch-Welttiet,
-      Daylight: Gröönwisch-Welttiet
-    }
-  },
-  {
-    Key: Africa/Gaborone,
-    Value: {
-      Generic: Zentraalafrikaansch Tiet,
-      Standard: Zentraalafrikaansch Tiet,
-      Daylight: Zentraalafrikaansch Tiet
-    }
-  },
-  {
-    Key: Africa/Harare,
-    Value: {
-      Generic: Zentraalafrikaansch Tiet,
-      Standard: Zentraalafrikaansch Tiet,
-      Daylight: Zentraalafrikaansch Tiet
-    }
-  },
-  {
-    Key: Africa/Johannesburg,
-    Value: {
-      Generic: Söödafrikaansch Tiet,
-      Standard: Söödafrikaansch Tiet,
-      Daylight: Söödafrikaansch Tiet
-    }
-  },
-  {
-    Key: Africa/Juba,
-    Value: {
-      Generic: Zentraalafrikaansch Tiet,
-      Standard: Zentraalafrikaansch Tiet,
-      Daylight: Zentraalafrikaansch Tiet
-    }
-  },
-  {
-    Key: Africa/Kampala,
-    Value: {
-      Generic: Oostafrikaansch Tiet,
-      Standard: Oostafrikaansch Tiet,
-      Daylight: Oostafrikaansch Tiet
-    }
-  },
-  {
-    Key: Africa/Khartoum,
-    Value: {
-      Generic: Zentraalafrikaansch Tiet,
-      Standard: Zentraalafrikaansch Tiet,
-      Daylight: Zentraalafrikaansch Tiet
-    }
-  },
-  {
-    Key: Africa/Kigali,
-    Value: {
-      Generic: Zentraalafrikaansch Tiet,
-      Standard: Zentraalafrikaansch Tiet,
-      Daylight: Zentraalafrikaansch Tiet
-    }
-  },
-  {
-    Key: Africa/Kinshasa,
-    Value: {
-      Generic: Westafrikaansch Tiet,
-      Standard: Westafrikaansch Standardtiet,
-      Daylight: Westafrikaansch Summertiet
-    }
-  },
-  {
-    Key: Africa/Lagos,
-    Value: {
-      Generic: Westafrikaansch Tiet,
-      Standard: Westafrikaansch Standardtiet,
-      Daylight: Westafrikaansch Summertiet
-    }
-  },
-  {
-    Key: Africa/Libreville,
-    Value: {
-      Generic: Westafrikaansch Tiet,
-      Standard: Westafrikaansch Standardtiet,
-      Daylight: Westafrikaansch Summertiet
-    }
-  },
-  {
-    Key: Africa/Lome,
-    Value: {
-      Generic: Gröönwisch-Welttiet,
-      Standard: Gröönwisch-Welttiet,
-      Daylight: Gröönwisch-Welttiet
-    }
-  },
-  {
-    Key: Africa/Luanda,
-    Value: {
-      Generic: Westafrikaansch Tiet,
-      Standard: Westafrikaansch Standardtiet,
-      Daylight: Westafrikaansch Summertiet
-    }
-  },
-  {
-    Key: Africa/Lubumbashi,
-    Value: {
-      Generic: Zentraalafrikaansch Tiet,
-      Standard: Zentraalafrikaansch Tiet,
-      Daylight: Zentraalafrikaansch Tiet
-    }
-  },
-  {
-    Key: Africa/Lusaka,
-    Value: {
-      Generic: Zentraalafrikaansch Tiet,
-      Standard: Zentraalafrikaansch Tiet,
-      Daylight: Zentraalafrikaansch Tiet
-    }
-  },
-  {
-    Key: Africa/Malabo,
-    Value: {
-      Generic: Westafrikaansch Tiet,
-      Standard: Westafrikaansch Standardtiet,
-      Daylight: Westafrikaansch Summertiet
-    }
-  },
-  {
-    Key: Africa/Maputo,
-    Value: {
-      Generic: Zentraalafrikaansch Tiet,
-      Standard: Zentraalafrikaansch Tiet,
-      Daylight: Zentraalafrikaansch Tiet
-    }
-  },
-  {
-    Key: Africa/Maseru,
-    Value: {
-      Generic: Söödafrikaansch Tiet,
-      Standard: Söödafrikaansch Tiet,
-      Daylight: Söödafrikaansch Tiet
-    }
-  },
-  {
-    Key: Africa/Mbabane,
-    Value: {
-      Generic: Söödafrikaansch Tiet,
-      Standard: Söödafrikaansch Tiet,
-      Daylight: Söödafrikaansch Tiet
-    }
-  },
-  {
-    Key: Africa/Mogadishu,
-    Value: {
-      Generic: Oostafrikaansch Tiet,
-      Standard: Oostafrikaansch Tiet,
-      Daylight: Oostafrikaansch Tiet
-    }
-  },
-  {
-    Key: Africa/Monrovia,
-    Value: {
-      Generic: Gröönwisch-Welttiet,
-      Standard: Gröönwisch-Welttiet,
-      Daylight: Gröönwisch-Welttiet
-    }
-  },
-  {
-    Key: Africa/Nairobi,
-    Value: {
-      Generic: Oostafrikaansch Tiet,
-      Standard: Oostafrikaansch Tiet,
-      Daylight: Oostafrikaansch Tiet
-    }
-  },
-  {
-    Key: Africa/Ndjamena,
-    Value: {
-      Generic: Westafrikaansch Tiet,
-      Standard: Westafrikaansch Standardtiet,
-      Daylight: Westafrikaansch Summertiet
-    }
-  },
-  {
-    Key: Africa/Niamey,
-    Value: {
-      Generic: Westafrikaansch Tiet,
-      Standard: Westafrikaansch Standardtiet,
-      Daylight: Westafrikaansch Summertiet
-    }
-  },
-  {
-    Key: Africa/Nouakchott,
-    Value: {
-      Generic: Gröönwisch-Welttiet,
-      Standard: Gröönwisch-Welttiet,
-      Daylight: Gröönwisch-Welttiet
-    }
-  },
-  {
-    Key: Africa/Ouagadougou,
-    Value: {
-      Generic: Gröönwisch-Welttiet,
-      Standard: Gröönwisch-Welttiet,
-      Daylight: Gröönwisch-Welttiet
-    }
-  },
-  {
-    Key: Africa/Porto-Novo,
-    Value: {
-      Generic: Westafrikaansch Tiet,
-      Standard: Westafrikaansch Standardtiet,
-      Daylight: Westafrikaansch Summertiet
-    }
-  },
-  {
-    Key: Africa/Sao_Tome,
-    Value: {
-      Generic: Gröönwisch-Welttiet,
-      Standard: Gröönwisch-Welttiet,
-      Daylight: Gröönwisch-Welttiet
-    }
-  },
-  {
-    Key: Africa/Timbuktu,
-    Value: {
-      Generic: Gröönwisch-Welttiet,
-      Standard: Gröönwisch-Welttiet,
-      Daylight: Gröönwisch-Welttiet
-    }
-  },
-  {
-    Key: Africa/Tripoli,
-    Value: {
-      Generic: Oosteuropääsch Tiet,
-      Standard: Oosteuropääsch Standardtiet,
-      Daylight: Oosteuropääsch Summertiet
-    }
-  },
-  {
-    Key: Africa/Tunis,
-    Value: {
-      Generic: Zentraaleuropääsch Tiet,
-      Standard: Zentraaleuropääsch Standardtiet,
-      Daylight: Zentraaleuropääsch Summertiet
-    }
-  },
-  {
-    Key: Africa/Windhoek,
-    Value: {
-      Generic: Zentraalafrikaansch Tiet,
-      Standard: Zentraalafrikaansch Tiet,
-      Daylight: Zentraalafrikaansch Tiet
-    }
-  },
-  {
-    Key: America/Adak,
-    Value: {
-      Generic: USA-Tiet,
-      Standard: USA-Standardtiet,
-      Daylight: USA-Summertiet
-    }
-  },
-  {
-    Key: America/Anchorage,
-    Value: {
-      Generic: USA-Tiet,
-      Standard: USA-Standardtiet,
-      Daylight: USA-Summertiet
-    }
-  },
-  {
-    Key: America/Anguilla,
-    Value: {
-      Generic: Noordamerikaansch Atlantiktiet,
-      Standard: Noordamerikaansch Atlantik-Standardtiet,
-      Daylight: Noordamerikaansch Atlantik-Summertiet
-    }
-  },
-  {
-    Key: America/Antigua,
-    Value: {
-      Generic: Noordamerikaansch Atlantiktiet,
-      Standard: Noordamerikaansch Atlantik-Standardtiet,
-      Daylight: Noordamerikaansch Atlantik-Summertiet
-    }
-  },
-  {
-    Key: America/Araguaina,
-    Value: {
-      Generic: Brasilien-Tiet,
-      Standard: Brasilien-Standardtiet,
-      Daylight: Brasilien-Summertiet
-    }
-  },
-  {
-    Key: America/Argentina/Buenos_Aires,
-    Value: {
-      Generic: Argentinien-Tiet,
-      Standard: Argentinien-Standardtiet,
-      Daylight: Argentinien-Summertiet
-    }
-  },
-  {
-    Key: America/Argentina/Catamarca,
-    Value: {
-      Generic: Argentinien-Tiet,
-      Standard: Argentinien-Standardtiet,
-      Daylight: Argentinien-Summertiet
-    }
-  },
-  {
-    Key: America/Argentina/ComodRivadavia,
-    Value: {
-      Generic: Argentinien-Tiet,
-      Standard: Argentinien-Standardtiet,
-      Daylight: Argentinien-Summertiet
-    }
-  },
-  {
-    Key: America/Argentina/Cordoba,
-    Value: {
-      Generic: Argentinien-Tiet,
-      Standard: Argentinien-Standardtiet,
-      Daylight: Argentinien-Summertiet
-    }
-  },
-  {
-    Key: America/Argentina/Jujuy,
-    Value: {
-      Generic: Argentinien-Tiet,
-      Standard: Argentinien-Standardtiet,
-      Daylight: Argentinien-Summertiet
-    }
-  },
-  {
-    Key: America/Argentina/La_Rioja,
-    Value: {
-      Generic: Argentinien-Tiet,
-      Standard: Argentinien-Standardtiet,
-      Daylight: Argentinien-Summertiet
-    }
-  },
-  {
-    Key: America/Argentina/Mendoza,
-    Value: {
-      Generic: Argentinien-Tiet,
-      Standard: Argentinien-Standardtiet,
-      Daylight: Argentinien-Summertiet
-    }
-  },
-  {
-    Key: America/Argentina/Rio_Gallegos,
-    Value: {
-      Generic: Argentinien-Tiet,
-      Standard: Argentinien-Standardtiet,
-      Daylight: Argentinien-Summertiet
-    }
-  },
-  {
-    Key: America/Argentina/Salta,
-    Value: {
-      Generic: Argentinien-Tiet,
-      Standard: Argentinien-Standardtiet,
-      Daylight: Argentinien-Summertiet
-    }
-  },
-  {
-    Key: America/Argentina/San_Juan,
-    Value: {
-      Generic: Argentinien-Tiet,
-      Standard: Argentinien-Standardtiet,
-      Daylight: Argentinien-Summertiet
-    }
-  },
-  {
-    Key: America/Argentina/San_Luis,
-    Value: {
-      Generic: Argentinien-Tiet,
-      Standard: Argentinien-Standardtiet,
-      Daylight: Argentinien-Summertiet
-    }
-  },
-  {
-    Key: America/Argentina/Tucuman,
-    Value: {
-      Generic: Argentinien-Tiet,
-      Standard: Argentinien-Standardtiet,
-      Daylight: Argentinien-Summertiet
-    }
-  },
-  {
-    Key: America/Argentina/Ushuaia,
-    Value: {
-      Generic: Argentinien-Tiet,
-      Standard: Argentinien-Standardtiet,
-      Daylight: Argentinien-Summertiet
-    }
-  },
-  {
-    Key: America/Aruba,
-    Value: {
-      Generic: Noordamerikaansch Atlantiktiet,
-      Standard: Noordamerikaansch Atlantik-Standardtiet,
-      Daylight: Noordamerikaansch Atlantik-Summertiet
-    }
-  },
-  {
-    Key: America/Asuncion,
-    Value: {
-      Generic: Paraguay-Tiet,
-      Standard: Paraguay-Standardtiet,
-      Daylight: Paraguay-Summertiet
-    }
-  },
-  {
-    Key: America/Atikokan,
-    Value: {
-      Generic: Noordamerikaansch oosten Tiet,
-      Standard: Noordamerikaansch oosten Standardtiet,
-      Daylight: Noordamerikaansch oosten Summertiet
-    }
-  },
-  {
-    Key: America/Atka,
-    Value: {
-      Generic: USA-Tiet,
-      Standard: USA-Standardtiet,
-      Daylight: USA-Summertiet
-    }
-  },
-  {
-    Key: America/Bahia,
-    Value: {
-      Generic: Brasilien-Tiet,
-      Standard: Brasilien-Standardtiet,
-      Daylight: Brasilien-Summertiet
-    }
-  },
-  {
-    Key: America/Bahia_Banderas,
-    Value: {
-      Generic: Noordamerikaansch Zentraaltiet,
-      Standard: Noordamerikaansch zentraal Standardtiet,
-      Daylight: Noordamerikaansch zentraal Summertiet
-    }
-  },
-  {
-    Key: America/Barbados,
-    Value: {
-      Generic: Noordamerikaansch Atlantiktiet,
-      Standard: Noordamerikaansch Atlantik-Standardtiet,
-      Daylight: Noordamerikaansch Atlantik-Summertiet
-    }
-  },
-  {
-    Key: America/Belem,
-    Value: {
-      Generic: Brasilien-Tiet,
-      Standard: Brasilien-Standardtiet,
-      Daylight: Brasilien-Summertiet
-    }
-  },
-  {
-    Key: America/Belize,
-    Value: {
-      Generic: Noordamerikaansch Zentraaltiet,
-      Standard: Noordamerikaansch zentraal Standardtiet,
-      Daylight: Noordamerikaansch zentraal Summertiet
-    }
-  },
-  {
-    Key: America/Blanc-Sablon,
-    Value: {
-      Generic: Noordamerikaansch Atlantiktiet,
-      Standard: Noordamerikaansch Atlantik-Standardtiet,
-      Daylight: Noordamerikaansch Atlantik-Summertiet
-    }
-  },
-  {
-    Key: America/Boa_Vista,
-    Value: {
-      Generic: Brasilien-Tiet,
-      Standard: Brasilien-Standardtiet,
-      Daylight: Brasilien-Summertiet
-    }
-  },
-  {
-    Key: America/Bogota,
-    Value: {
-      Generic: Kolumbien-Tiet,
-      Standard: Kolumbien-Standardtiet,
-      Daylight: Kolumbien-Summertiet
-    }
-  },
-  {
-    Key: America/Boise,
-    Value: {
-      Generic: Noordamerikaansch Bargtiet,
-      Standard: Noordamerikaansch Barg-Standardtiet,
-      Daylight: Noordamerikaansch Barg-Summertiet
-    }
-  },
-  {
-    Key: America/Buenos_Aires,
-    Value: {
-      Generic: Argentinien-Tiet,
-      Standard: Argentinien-Standardtiet,
-      Daylight: Argentinien-Summertiet
-    }
-  },
-  {
-    Key: America/Cambridge_Bay,
-    Value: {
-      Generic: Noordamerikaansch Bargtiet,
-      Standard: Noordamerikaansch Barg-Standardtiet,
-      Daylight: Noordamerikaansch Barg-Summertiet
-    }
-  },
-  {
-    Key: America/Campo_Grande,
-    Value: {
-      Generic: Brasilien-Tiet,
-      Standard: Brasilien-Standardtiet,
-      Daylight: Brasilien-Summertiet
-    }
-  },
-  {
-    Key: America/Cancun,
-    Value: {
-      Generic: Noordamerikaansch oosten Tiet,
-      Standard: Noordamerikaansch oosten Standardtiet,
-      Daylight: Noordamerikaansch oosten Summertiet
-    }
-  },
-  {
-    Key: America/Caracas,
-    Value: {
-      Generic: Venezuela-Tiet,
-      Standard: Venezuela-Standardtiet,
-      Daylight: Venezuela-Summertiet
-    }
-  },
-  {
-    Key: America/Catamarca,
-    Value: {
-      Generic: Argentinien-Tiet,
-      Standard: Argentinien-Standardtiet,
-      Daylight: Argentinien-Summertiet
-    }
-  },
-  {
-    Key: America/Cayenne,
-    Value: {
-      Generic: Franzöösch-Guayana-Tiet,
-      Standard: Franzöösch-Guayana-Standardtiet,
-      Daylight: Franzöösch-Guayana-Summertiet
-    }
-  },
-  {
-    Key: America/Cayman,
-    Value: {
-      Generic: Noordamerikaansch oosten Tiet,
-      Standard: Noordamerikaansch oosten Standardtiet,
-      Daylight: Noordamerikaansch oosten Summertiet
-    }
-  },
-  {
-    Key: America/Chicago,
-    Value: {
-      Generic: Noordamerikaansch Zentraaltiet,
-      Standard: Noordamerikaansch zentraal Standardtiet,
-      Daylight: Noordamerikaansch zentraal Summertiet
-    }
-  },
-  {
-    Key: America/Chihuahua,
-    Value: {
-      Generic: Mexiko-Tiet,
-      Standard: Mexiko-Standardtiet,
-      Daylight: Mexiko-Summertiet
-    }
-  },
-  {
-    Key: America/Coral_Harbour,
-    Value: {
-      Generic: Noordamerikaansch oosten Tiet,
-      Standard: Noordamerikaansch oosten Standardtiet,
-      Daylight: Noordamerikaansch oosten Summertiet
-    }
-  },
-  {
-    Key: America/Cordoba,
-    Value: {
-      Generic: Argentinien-Tiet,
-      Standard: Argentinien-Standardtiet,
-      Daylight: Argentinien-Summertiet
-    }
-  },
-  {
-    Key: America/Costa_Rica,
-    Value: {
-      Generic: Noordamerikaansch Zentraaltiet,
-      Standard: Noordamerikaansch zentraal Standardtiet,
-      Daylight: Noordamerikaansch zentraal Summertiet
-    }
-  },
-  {
-    Key: America/Creston,
-    Value: {
-      Generic: Noordamerikaansch Bargtiet,
-      Standard: Noordamerikaansch Barg-Standardtiet,
-      Daylight: Noordamerikaansch Barg-Summertiet
-    }
-  },
-  {
-    Key: America/Cuiaba,
-    Value: {
-      Generic: Brasilien-Tiet,
-      Standard: Brasilien-Standardtiet,
-      Daylight: Brasilien-Summertiet
-    }
-  },
-  {
-    Key: America/Curacao,
-    Value: {
-      Generic: Noordamerikaansch Atlantiktiet,
-      Standard: Noordamerikaansch Atlantik-Standardtiet,
-      Daylight: Noordamerikaansch Atlantik-Summertiet
-    }
-  },
-  {
-    Key: America/Danmarkshavn,
-    Value: {
-      Generic: Gröönwisch-Welttiet,
-      Standard: Gröönwisch-Welttiet,
-      Daylight: Gröönwisch-Welttiet
-    }
-  },
-  {
-    Key: America/Dawson,
-    Value: {
-      Generic: Kanada-Tiet,
-      Standard: Kanada-Standardtiet,
-      Daylight: Kanada-Summertiet
-    }
-  },
-  {
-    Key: America/Dawson_Creek,
-    Value: {
-      Generic: Noordamerikaansch Bargtiet,
-      Standard: Noordamerikaansch Barg-Standardtiet,
-      Daylight: Noordamerikaansch Barg-Summertiet
-    }
-  },
-  {
-    Key: America/Denver,
-    Value: {
-      Generic: Noordamerikaansch Bargtiet,
-      Standard: Noordamerikaansch Barg-Standardtiet,
-      Daylight: Noordamerikaansch Barg-Summertiet
-    }
-  },
-  {
-    Key: America/Detroit,
-    Value: {
-      Generic: Noordamerikaansch oosten Tiet,
-      Standard: Noordamerikaansch oosten Standardtiet,
-      Daylight: Noordamerikaansch oosten Summertiet
-    }
-  },
-  {
-    Key: America/Dominica,
-    Value: {
-      Generic: Noordamerikaansch Atlantiktiet,
-      Standard: Noordamerikaansch Atlantik-Standardtiet,
-      Daylight: Noordamerikaansch Atlantik-Summertiet
-    }
-  },
-  {
-    Key: America/Edmonton,
-    Value: {
-      Generic: Noordamerikaansch Bargtiet,
-      Standard: Noordamerikaansch Barg-Standardtiet,
-      Daylight: Noordamerikaansch Barg-Summertiet
-    }
-  },
-  {
-    Key: America/Eirunepe,
-    Value: {
-      Generic: Brasilien-Tiet,
-      Standard: Brasilien-Standardtiet,
-      Daylight: Brasilien-Summertiet
-    }
-  },
-  {
-    Key: America/El_Salvador,
-    Value: {
-      Generic: Noordamerikaansch Zentraaltiet,
-      Standard: Noordamerikaansch zentraal Standardtiet,
-      Daylight: Noordamerikaansch zentraal Summertiet
-    }
-  },
-  {
-    Key: America/Ensenada,
-    Value: {
-      Generic: Noordamerikaansch Pazifiktiet,
-      Standard: Noordamerikaansch Pazifik-Standardtiet,
-      Daylight: Noordamerikaansch Pazifik-Summertiet
-    }
-  },
-  {
-    Key: America/Fort_Nelson,
-    Value: {
-      Generic: Noordamerikaansch Bargtiet,
-      Standard: Noordamerikaansch Barg-Standardtiet,
-      Daylight: Noordamerikaansch Barg-Summertiet
-    }
-  },
-  {
-    Key: America/Fort_Wayne,
-    Value: {
-      Generic: Noordamerikaansch oosten Tiet,
-      Standard: Noordamerikaansch oosten Standardtiet,
-      Daylight: Noordamerikaansch oosten Summertiet
-    }
-  },
-  {
-    Key: America/Fortaleza,
-    Value: {
-      Generic: Brasilien-Tiet,
-      Standard: Brasilien-Standardtiet,
-      Daylight: Brasilien-Summertiet
-    }
-  },
-  {
-    Key: America/Glace_Bay,
-    Value: {
-      Generic: Noordamerikaansch Atlantiktiet,
-      Standard: Noordamerikaansch Atlantik-Standardtiet,
-      Daylight: Noordamerikaansch Atlantik-Summertiet
-    }
-  },
-  {
-    Key: America/Godthab,
-    Value: {
-      Generic: Gröönland-Tiet,
-      Standard: Gröönland-Standardtiet,
-      Daylight: Gröönland-Summertiet
-    }
-  },
-  {
-    Key: America/Goose_Bay,
-    Value: {
-      Generic: Noordamerikaansch Atlantiktiet,
-      Standard: Noordamerikaansch Atlantik-Standardtiet,
-      Daylight: Noordamerikaansch Atlantik-Summertiet
-    }
-  },
-  {
-    Key: America/Grand_Turk,
-    Value: {
-      Generic: Noordamerikaansch oosten Tiet,
-      Standard: Noordamerikaansch oosten Standardtiet,
-      Daylight: Noordamerikaansch oosten Summertiet
-    }
-  },
-  {
-    Key: America/Grenada,
-    Value: {
-      Generic: Noordamerikaansch Atlantiktiet,
-      Standard: Noordamerikaansch Atlantik-Standardtiet,
-      Daylight: Noordamerikaansch Atlantik-Summertiet
-    }
-  },
-  {
-    Key: America/Guadeloupe,
-    Value: {
-      Generic: Noordamerikaansch Atlantiktiet,
-      Standard: Noordamerikaansch Atlantik-Standardtiet,
-      Daylight: Noordamerikaansch Atlantik-Summertiet
-    }
-  },
-  {
-    Key: America/Guatemala,
-    Value: {
-      Generic: Noordamerikaansch Zentraaltiet,
-      Standard: Noordamerikaansch zentraal Standardtiet,
-      Daylight: Noordamerikaansch zentraal Summertiet
-    }
-  },
-  {
-    Key: America/Guayaquil,
-    Value: {
-      Generic: Ecuador-Tiet,
-      Standard: Ecuador-Standardtiet,
-      Daylight: Ecuador-Summertiet
-    }
-  },
-  {
-    Key: America/Guyana,
-    Value: {
-      Generic: Guyana-Tiet,
-      Standard: Guyana-Standardtiet,
-      Daylight: Guyana-Summertiet
-    }
-  },
-  {
-    Key: America/Halifax,
-    Value: {
-      Generic: Noordamerikaansch Atlantiktiet,
-      Standard: Noordamerikaansch Atlantik-Standardtiet,
-      Daylight: Noordamerikaansch Atlantik-Summertiet
-    }
-  },
-  {
-    Key: America/Havana,
-    Value: {
-      Generic: Kuba-Tiet,
-      Standard: Kuba-Standardtiet,
-      Daylight: Kuba-Summertiet
-    }
-  },
-  {
-    Key: America/Hermosillo,
-    Value: {
-      Generic: Mexiko-Tiet,
-      Standard: Mexiko-Standardtiet,
-      Daylight: Mexiko-Summertiet
-    }
-  },
-  {
-    Key: America/Indiana/Indianapolis,
-    Value: {
-      Generic: Noordamerikaansch oosten Tiet,
-      Standard: Noordamerikaansch oosten Standardtiet,
-      Daylight: Noordamerikaansch oosten Summertiet
-    }
-  },
-  {
-    Key: America/Indiana/Knox,
-    Value: {
-      Generic: Noordamerikaansch Zentraaltiet,
-      Standard: Noordamerikaansch zentraal Standardtiet,
-      Daylight: Noordamerikaansch zentraal Summertiet
-    }
-  },
-  {
-    Key: America/Indiana/Marengo,
-    Value: {
-      Generic: Noordamerikaansch oosten Tiet,
-      Standard: Noordamerikaansch oosten Standardtiet,
-      Daylight: Noordamerikaansch oosten Summertiet
-    }
-  },
-  {
-    Key: America/Indiana/Petersburg,
-    Value: {
-      Generic: Noordamerikaansch oosten Tiet,
-      Standard: Noordamerikaansch oosten Standardtiet,
-      Daylight: Noordamerikaansch oosten Summertiet
-    }
-  },
-  {
-    Key: America/Indiana/Tell_City,
-    Value: {
-      Generic: Noordamerikaansch Zentraaltiet,
-      Standard: Noordamerikaansch zentraal Standardtiet,
-      Daylight: Noordamerikaansch zentraal Summertiet
-    }
-  },
-  {
-    Key: America/Indiana/Vevay,
-    Value: {
-      Generic: Noordamerikaansch oosten Tiet,
-      Standard: Noordamerikaansch oosten Standardtiet,
-      Daylight: Noordamerikaansch oosten Summertiet
-    }
-  },
-  {
-    Key: America/Indiana/Vincennes,
-    Value: {
-      Generic: Noordamerikaansch oosten Tiet,
-      Standard: Noordamerikaansch oosten Standardtiet,
-      Daylight: Noordamerikaansch oosten Summertiet
-    }
-  },
-  {
-    Key: America/Indiana/Winamac,
-    Value: {
-      Generic: Noordamerikaansch oosten Tiet,
-      Standard: Noordamerikaansch oosten Standardtiet,
-      Daylight: Noordamerikaansch oosten Summertiet
-    }
-  },
-  {
-    Key: America/Indianapolis,
-    Value: {
-      Generic: Noordamerikaansch oosten Tiet,
-      Standard: Noordamerikaansch oosten Standardtiet,
-      Daylight: Noordamerikaansch oosten Summertiet
-    }
-  },
-  {
-    Key: America/Inuvik,
-    Value: {
-      Generic: Noordamerikaansch Bargtiet,
-      Standard: Noordamerikaansch Barg-Standardtiet,
-      Daylight: Noordamerikaansch Barg-Summertiet
-    }
-  },
-  {
-    Key: America/Iqaluit,
-    Value: {
-      Generic: Noordamerikaansch oosten Tiet,
-      Standard: Noordamerikaansch oosten Standardtiet,
-      Daylight: Noordamerikaansch oosten Summertiet
-    }
-  },
-  {
-    Key: America/Jamaica,
-    Value: {
-      Generic: Noordamerikaansch oosten Tiet,
-      Standard: Noordamerikaansch oosten Standardtiet,
-      Daylight: Noordamerikaansch oosten Summertiet
-    }
-  },
-  {
-    Key: America/Jujuy,
-    Value: {
-      Generic: Argentinien-Tiet,
-      Standard: Argentinien-Standardtiet,
-      Daylight: Argentinien-Summertiet
-    }
-  },
-  {
-    Key: America/Juneau,
-    Value: {
-      Generic: USA-Tiet,
-      Standard: USA-Standardtiet,
-      Daylight: USA-Summertiet
-    }
-  },
-  {
-    Key: America/Kentucky/Louisville,
-    Value: {
-      Generic: Noordamerikaansch oosten Tiet,
-      Standard: Noordamerikaansch oosten Standardtiet,
-      Daylight: Noordamerikaansch oosten Summertiet
-    }
-  },
-  {
-    Key: America/Kentucky/Monticello,
-    Value: {
-      Generic: Noordamerikaansch oosten Tiet,
-      Standard: Noordamerikaansch oosten Standardtiet,
-      Daylight: Noordamerikaansch oosten Summertiet
-    }
-  },
-  {
-    Key: America/Knox_IN,
-    Value: {
-      Generic: Noordamerikaansch Zentraaltiet,
-      Standard: Noordamerikaansch zentraal Standardtiet,
-      Daylight: Noordamerikaansch zentraal Summertiet
-    }
-  },
-  {
-    Key: America/Kralendijk,
-    Value: {
-      Generic: Noordamerikaansch Atlantiktiet,
-      Standard: Noordamerikaansch Atlantik-Standardtiet,
-      Daylight: Noordamerikaansch Atlantik-Summertiet
-    }
-  },
-  {
-    Key: America/La_Paz,
-    Value: {
-      Generic: Bolivien-Tiet,
-      Standard: Bolivien-Standardtiet,
-      Daylight: Bolivien-Summertiet
-    }
-  },
-  {
-    Key: America/Lima,
-    Value: {
-      Generic: Peru-Tiet,
-      Standard: Peru-Standardtiet,
-      Daylight: Peru-Summertiet
-    }
-  },
-  {
-    Key: America/Los_Angeles,
-    Value: {
-      Generic: Noordamerikaansch Pazifiktiet,
-      Standard: Noordamerikaansch Pazifik-Standardtiet,
-      Daylight: Noordamerikaansch Pazifik-Summertiet
-    }
-  },
-  {
-    Key: America/Louisville,
-    Value: {
-      Generic: Noordamerikaansch oosten Tiet,
-      Standard: Noordamerikaansch oosten Standardtiet,
-      Daylight: Noordamerikaansch oosten Summertiet
-    }
-  },
-  {
-    Key: America/Lower_Princes,
-    Value: {
-      Generic: Noordamerikaansch Atlantiktiet,
-      Standard: Noordamerikaansch Atlantik-Standardtiet,
-      Daylight: Noordamerikaansch Atlantik-Summertiet
-    }
-  },
-  {
-    Key: America/Maceio,
-    Value: {
-      Generic: Brasilien-Tiet,
-      Standard: Brasilien-Standardtiet,
-      Daylight: Brasilien-Summertiet
-    }
-  },
-  {
-    Key: America/Managua,
-    Value: {
-      Generic: Noordamerikaansch Zentraaltiet,
-      Standard: Noordamerikaansch zentraal Standardtiet,
-      Daylight: Noordamerikaansch zentraal Summertiet
-    }
-  },
-  {
-    Key: America/Manaus,
-    Value: {
-      Generic: Brasilien-Tiet,
-      Standard: Brasilien-Standardtiet,
-      Daylight: Brasilien-Summertiet
-    }
-  },
-  {
-    Key: America/Marigot,
-    Value: {
-      Generic: Noordamerikaansch Atlantiktiet,
-      Standard: Noordamerikaansch Atlantik-Standardtiet,
-      Daylight: Noordamerikaansch Atlantik-Summertiet
-    }
-  },
-  {
-    Key: America/Martinique,
-    Value: {
-      Generic: Noordamerikaansch Atlantiktiet,
-      Standard: Noordamerikaansch Atlantik-Standardtiet,
-      Daylight: Noordamerikaansch Atlantik-Summertiet
-    }
-  },
-  {
-    Key: America/Matamoros,
-    Value: {
-      Generic: Noordamerikaansch Zentraaltiet,
-      Standard: Noordamerikaansch zentraal Standardtiet,
-      Daylight: Noordamerikaansch zentraal Summertiet
-    }
-  },
-  {
-    Key: America/Mazatlan,
-    Value: {
-      Generic: Mexiko-Tiet,
-      Standard: Mexiko-Standardtiet,
-      Daylight: Mexiko-Summertiet
-    }
-  },
-  {
-    Key: America/Mendoza,
-    Value: {
-      Generic: Argentinien-Tiet,
-      Standard: Argentinien-Standardtiet,
-      Daylight: Argentinien-Summertiet
-    }
-  },
-  {
-    Key: America/Menominee,
-    Value: {
-      Generic: Noordamerikaansch Zentraaltiet,
-      Standard: Noordamerikaansch zentraal Standardtiet,
-      Daylight: Noordamerikaansch zentraal Summertiet
-    }
-  },
-  {
-    Key: America/Merida,
-    Value: {
-      Generic: Noordamerikaansch Zentraaltiet,
-      Standard: Noordamerikaansch zentraal Standardtiet,
-      Daylight: Noordamerikaansch zentraal Summertiet
-    }
-  },
-  {
-    Key: America/Metlakatla,
-    Value: {
-      Generic: USA-Tiet,
-      Standard: USA-Standardtiet,
-      Daylight: USA-Summertiet
-    }
-  },
-  {
-    Key: America/Mexico_City,
-    Value: {
-      Generic: Noordamerikaansch Zentraaltiet,
-      Standard: Noordamerikaansch zentraal Standardtiet,
-      Daylight: Noordamerikaansch zentraal Summertiet
-    }
-  },
-  {
-    Key: America/Miquelon,
-    Value: {
-      Generic: St. Pierre un Miquelon-Tiet,
-      Standard: St. Pierre un Miquelon-Standardtiet,
-      Daylight: St. Pierre un Miquelon-Summertiet
-    }
-  },
-  {
-    Key: America/Moncton,
-    Value: {
-      Generic: Noordamerikaansch Atlantiktiet,
-      Standard: Noordamerikaansch Atlantik-Standardtiet,
-      Daylight: Noordamerikaansch Atlantik-Summertiet
-    }
-  },
-  {
-    Key: America/Monterrey,
-    Value: {
-      Generic: Noordamerikaansch Zentraaltiet,
-      Standard: Noordamerikaansch zentraal Standardtiet,
-      Daylight: Noordamerikaansch zentraal Summertiet
-    }
-  },
-  {
-    Key: America/Montevideo,
-    Value: {
-      Generic: Uruguay-Tiet,
-      Standard: Uruguay-Standardtiet,
-      Daylight: Uruguay-Summertiet
-    }
-  },
-  {
-    Key: America/Montreal,
-    Value: {
-      Generic: Noordamerikaansch oosten Tiet,
-      Standard: Noordamerikaansch oosten Standardtiet,
-      Daylight: Noordamerikaansch oosten Summertiet
-    }
-  },
-  {
-    Key: America/Montserrat,
-    Value: {
-      Generic: Noordamerikaansch Atlantiktiet,
-      Standard: Noordamerikaansch Atlantik-Standardtiet,
-      Daylight: Noordamerikaansch Atlantik-Summertiet
-    }
-  },
-  {
-    Key: America/Nassau,
-    Value: {
-      Generic: Noordamerikaansch oosten Tiet,
-      Standard: Noordamerikaansch oosten Standardtiet,
-      Daylight: Noordamerikaansch oosten Summertiet
-    }
-  },
-  {
-    Key: America/New_York,
-    Value: {
-      Generic: Noordamerikaansch oosten Tiet,
-      Standard: Noordamerikaansch oosten Standardtiet,
-      Daylight: Noordamerikaansch oosten Summertiet
-    }
-  },
-  {
-    Key: America/Nipigon,
-    Value: {
-      Generic: Noordamerikaansch oosten Tiet,
-      Standard: Noordamerikaansch oosten Standardtiet,
-      Daylight: Noordamerikaansch oosten Summertiet
-    }
-  },
-  {
-    Key: America/Nome,
-    Value: {
-      Generic: USA-Tiet,
-      Standard: USA-Standardtiet,
-      Daylight: USA-Summertiet
-    }
-  },
-  {
-    Key: America/Noronha,
-    Value: {
-      Generic: Brasilien-Tiet,
-      Standard: Brasilien-Standardtiet,
-      Daylight: Brasilien-Summertiet
-    }
-  },
-  {
-    Key: America/North_Dakota/Beulah,
-    Value: {
-      Generic: Noordamerikaansch Zentraaltiet,
-      Standard: Noordamerikaansch zentraal Standardtiet,
-      Daylight: Noordamerikaansch zentraal Summertiet
-    }
-  },
-  {
-    Key: America/North_Dakota/Center,
-    Value: {
-      Generic: Noordamerikaansch Zentraaltiet,
-      Standard: Noordamerikaansch zentraal Standardtiet,
-      Daylight: Noordamerikaansch zentraal Summertiet
-    }
-  },
-  {
-    Key: America/North_Dakota/New_Salem,
-    Value: {
-      Generic: Noordamerikaansch Zentraaltiet,
-      Standard: Noordamerikaansch zentraal Standardtiet,
-      Daylight: Noordamerikaansch zentraal Summertiet
-    }
-  },
-  {
-    Key: America/Nuuk,
-    Value: {
-      Generic: Gröönland-Tiet,
-      Standard: Gröönland-Standardtiet,
-      Daylight: Gröönland-Summertiet
-    }
-  },
-  {
-    Key: America/Ojinaga,
-    Value: {
-      Generic: Noordamerikaansch Bargtiet,
-      Standard: Noordamerikaansch Barg-Standardtiet,
-      Daylight: Noordamerikaansch Barg-Summertiet
-    }
-  },
-  {
-    Key: America/Panama,
-    Value: {
-      Generic: Noordamerikaansch oosten Tiet,
-      Standard: Noordamerikaansch oosten Standardtiet,
-      Daylight: Noordamerikaansch oosten Summertiet
-    }
-  },
-  {
-    Key: America/Pangnirtung,
-    Value: {
-      Generic: Noordamerikaansch oosten Tiet,
-      Standard: Noordamerikaansch oosten Standardtiet,
-      Daylight: Noordamerikaansch oosten Summertiet
-    }
-  },
-  {
-    Key: America/Paramaribo,
-    Value: {
-      Generic: Surinam-Tiet,
-      Standard: Surinam-Standardtiet,
-      Daylight: Surinam-Summertiet
-    }
-  },
-  {
-    Key: America/Phoenix,
-    Value: {
-      Generic: Noordamerikaansch Bargtiet,
-      Standard: Noordamerikaansch Barg-Standardtiet,
-      Daylight: Noordamerikaansch Barg-Summertiet
-    }
-  },
-  {
-    Key: America/Port_of_Spain,
-    Value: {
-      Generic: Noordamerikaansch Atlantiktiet,
-      Standard: Noordamerikaansch Atlantik-Standardtiet,
-      Daylight: Noordamerikaansch Atlantik-Summertiet
-    }
-  },
-  {
-    Key: America/Port-au-Prince,
-    Value: {
-      Generic: Noordamerikaansch oosten Tiet,
-      Standard: Noordamerikaansch oosten Standardtiet,
-      Daylight: Noordamerikaansch oosten Summertiet
-    }
-  },
-  {
-    Key: America/Porto_Acre,
-    Value: {
-      Generic: Brasilien-Tiet,
-      Standard: Brasilien-Standardtiet,
-      Daylight: Brasilien-Summertiet
-    }
-  },
-  {
-    Key: America/Porto_Velho,
-    Value: {
-      Generic: Brasilien-Tiet,
-      Standard: Brasilien-Standardtiet,
-      Daylight: Brasilien-Summertiet
-    }
-  },
-  {
-    Key: America/Puerto_Rico,
-    Value: {
-      Generic: Noordamerikaansch Atlantiktiet,
-      Standard: Noordamerikaansch Atlantik-Standardtiet,
-      Daylight: Noordamerikaansch Atlantik-Summertiet
-    }
-  },
-  {
-    Key: America/Punta_Arenas,
-    Value: {
-      Generic: Chile-Tiet,
-      Standard: Chile-Standardtiet,
-      Daylight: Chile-Summertiet
-    }
-  },
-  {
-    Key: America/Rainy_River,
-    Value: {
-      Generic: Noordamerikaansch Zentraaltiet,
-      Standard: Noordamerikaansch zentraal Standardtiet,
-      Daylight: Noordamerikaansch zentraal Summertiet
-    }
-  },
-  {
-    Key: America/Rankin_Inlet,
-    Value: {
-      Generic: Noordamerikaansch Zentraaltiet,
-      Standard: Noordamerikaansch zentraal Standardtiet,
-      Daylight: Noordamerikaansch zentraal Summertiet
-    }
-  },
-  {
-    Key: America/Recife,
-    Value: {
-      Generic: Brasilien-Tiet,
-      Standard: Brasilien-Standardtiet,
-      Daylight: Brasilien-Summertiet
-    }
-  },
-  {
-    Key: America/Regina,
-    Value: {
-      Generic: Noordamerikaansch Zentraaltiet,
-      Standard: Noordamerikaansch zentraal Standardtiet,
-      Daylight: Noordamerikaansch zentraal Summertiet
-    }
-  },
-  {
-    Key: America/Resolute,
-    Value: {
-      Generic: Noordamerikaansch Zentraaltiet,
-      Standard: Noordamerikaansch zentraal Standardtiet,
-      Daylight: Noordamerikaansch zentraal Summertiet
-    }
-  },
-  {
-    Key: America/Rio_Branco,
-    Value: {
-      Generic: Brasilien-Tiet,
-      Standard: Brasilien-Standardtiet,
-      Daylight: Brasilien-Summertiet
-    }
-  },
-  {
-    Key: America/Rosario,
-    Value: {
-      Generic: Argentinien-Tiet,
-      Standard: Argentinien-Standardtiet,
-      Daylight: Argentinien-Summertiet
-    }
-  },
-  {
-    Key: America/Santa_Isabel,
-    Value: {
-      Generic: Santa Isabel-Tiet,
-      Standard: Santa Isabel-Standardtiet,
-      Daylight: Santa Isabel-Summertiet
-    }
-  },
-  {
-    Key: America/Santarem,
-    Value: {
-      Generic: Brasilien-Tiet,
-      Standard: Brasilien-Standardtiet,
-      Daylight: Brasilien-Summertiet
-    }
-  },
-  {
-    Key: America/Santiago,
-    Value: {
-      Generic: Chile-Tiet,
-      Standard: Chile-Standardtiet,
-      Daylight: Chile-Summertiet
-    }
-  },
-  {
-    Key: America/Santo_Domingo,
-    Value: {
-      Generic: Noordamerikaansch Atlantiktiet,
-      Standard: Noordamerikaansch Atlantik-Standardtiet,
-      Daylight: Noordamerikaansch Atlantik-Summertiet
-    }
-  },
-  {
-    Key: America/Sao_Paulo,
-    Value: {
-      Generic: Brasilien-Tiet,
-      Standard: Brasilien-Standardtiet,
-      Daylight: Brasilien-Summertiet
-    }
-  },
-  {
-    Key: America/Scoresbysund,
-    Value: {
-      Generic: Gröönland-Tiet,
-      Standard: Gröönland-Standardtiet,
-      Daylight: Gröönland-Summertiet
-    }
-  },
-  {
-    Key: America/Shiprock,
-    Value: {
-      Generic: Noordamerikaansch Bargtiet,
-      Standard: Noordamerikaansch Barg-Standardtiet,
-      Daylight: Noordamerikaansch Barg-Summertiet
-    }
-  },
-  {
-    Key: America/Sitka,
-    Value: {
-      Generic: USA-Tiet,
-      Standard: USA-Standardtiet,
-      Daylight: USA-Summertiet
-    }
-  },
-  {
-    Key: America/St_Barthelemy,
-    Value: {
-      Generic: Noordamerikaansch Atlantiktiet,
-      Standard: Noordamerikaansch Atlantik-Standardtiet,
-      Daylight: Noordamerikaansch Atlantik-Summertiet
-    }
-  },
-  {
-    Key: America/St_Johns,
-    Value: {
-      Generic: Kanada-Tiet,
-      Standard: Kanada-Standardtiet,
-      Daylight: Kanada-Summertiet
-    }
-  },
-  {
-    Key: America/St_Kitts,
-    Value: {
-      Generic: Noordamerikaansch Atlantiktiet,
-      Standard: Noordamerikaansch Atlantik-Standardtiet,
-      Daylight: Noordamerikaansch Atlantik-Summertiet
-    }
-  },
-  {
-    Key: America/St_Lucia,
-    Value: {
-      Generic: Noordamerikaansch Atlantiktiet,
-      Standard: Noordamerikaansch Atlantik-Standardtiet,
-      Daylight: Noordamerikaansch Atlantik-Summertiet
-    }
-  },
-  {
-    Key: America/St_Thomas,
-    Value: {
-      Generic: Noordamerikaansch Atlantiktiet,
-      Standard: Noordamerikaansch Atlantik-Standardtiet,
-      Daylight: Noordamerikaansch Atlantik-Summertiet
-    }
-  },
-  {
-    Key: America/St_Vincent,
-    Value: {
-      Generic: Noordamerikaansch Atlantiktiet,
-      Standard: Noordamerikaansch Atlantik-Standardtiet,
-      Daylight: Noordamerikaansch Atlantik-Summertiet
-    }
-  },
-  {
-    Key: America/Swift_Current,
-    Value: {
-      Generic: Noordamerikaansch Zentraaltiet,
-      Standard: Noordamerikaansch zentraal Standardtiet,
-      Daylight: Noordamerikaansch zentraal Summertiet
-    }
-  },
-  {
-    Key: America/Tegucigalpa,
-    Value: {
-      Generic: Noordamerikaansch Zentraaltiet,
-      Standard: Noordamerikaansch zentraal Standardtiet,
-      Daylight: Noordamerikaansch zentraal Summertiet
-    }
-  },
-  {
-    Key: America/Thule,
-    Value: {
-      Generic: Noordamerikaansch Atlantiktiet,
-      Standard: Noordamerikaansch Atlantik-Standardtiet,
-      Daylight: Noordamerikaansch Atlantik-Summertiet
-    }
-  },
-  {
-    Key: America/Thunder_Bay,
-    Value: {
-      Generic: Noordamerikaansch oosten Tiet,
-      Standard: Noordamerikaansch oosten Standardtiet,
-      Daylight: Noordamerikaansch oosten Summertiet
-    }
-  },
-  {
-    Key: America/Tijuana,
-    Value: {
-      Generic: Noordamerikaansch Pazifiktiet,
-      Standard: Noordamerikaansch Pazifik-Standardtiet,
-      Daylight: Noordamerikaansch Pazifik-Summertiet
-    }
-  },
-  {
-    Key: America/Toronto,
-    Value: {
-      Generic: Noordamerikaansch oosten Tiet,
-      Standard: Noordamerikaansch oosten Standardtiet,
-      Daylight: Noordamerikaansch oosten Summertiet
-    }
-  },
-  {
-    Key: America/Tortola,
-    Value: {
-      Generic: Noordamerikaansch Atlantiktiet,
-      Standard: Noordamerikaansch Atlantik-Standardtiet,
-      Daylight: Noordamerikaansch Atlantik-Summertiet
-    }
-  },
-  {
-    Key: America/Vancouver,
-    Value: {
-      Generic: Noordamerikaansch Pazifiktiet,
-      Standard: Noordamerikaansch Pazifik-Standardtiet,
-      Daylight: Noordamerikaansch Pazifik-Summertiet
-    }
-  },
-  {
-    Key: America/Virgin,
-    Value: {
-      Generic: Noordamerikaansch Atlantiktiet,
-      Standard: Noordamerikaansch Atlantik-Standardtiet,
-      Daylight: Noordamerikaansch Atlantik-Summertiet
-    }
-  },
-  {
-    Key: America/Whitehorse,
-    Value: {
-      Generic: Kanada-Tiet,
-      Standard: Kanada-Standardtiet,
-      Daylight: Kanada-Summertiet
-    }
-  },
-  {
-    Key: America/Winnipeg,
-    Value: {
-      Generic: Noordamerikaansch Zentraaltiet,
-      Standard: Noordamerikaansch zentraal Standardtiet,
-      Daylight: Noordamerikaansch zentraal Summertiet
-    }
-  },
-  {
-    Key: America/Yakutat,
-    Value: {
-      Generic: USA-Tiet,
-      Standard: USA-Standardtiet,
-      Daylight: USA-Summertiet
-    }
-  },
-  {
-    Key: America/Yellowknife,
-    Value: {
-      Generic: Noordamerikaansch Bargtiet,
-      Standard: Noordamerikaansch Barg-Standardtiet,
-      Daylight: Noordamerikaansch Barg-Summertiet
-    }
-  },
-  {
-    Key: Antarctica/Casey,
-    Value: {
-      Generic: Antarktis-Tiet,
-      Standard: Antarktis-Standardtiet,
-      Daylight: Antarktis-Summertiet
-    }
-  },
-  {
-    Key: Antarctica/Davis,
-    Value: {
-      Generic: Antarktis-Tiet,
-      Standard: Antarktis-Standardtiet,
-      Daylight: Antarktis-Summertiet
-    }
-  },
-  {
-    Key: Antarctica/DumontDUrville,
-    Value: {
-      Generic: Antarktis-Tiet,
-      Standard: Antarktis-Standardtiet,
-      Daylight: Antarktis-Summertiet
-    }
-  },
-  {
-    Key: Antarctica/Macquarie,
-    Value: {
-      Generic: Oostaustraalsch Tiet,
-      Standard: Oostaustraalsch Standardtiet,
-      Daylight: Oostaustraalsch Summertiet
-    }
-  },
-  {
-    Key: Antarctica/Mawson,
-    Value: {
-      Generic: Antarktis-Tiet,
-      Standard: Antarktis-Standardtiet,
-      Daylight: Antarktis-Summertiet
-    }
-  },
-  {
-    Key: Antarctica/McMurdo,
-    Value: {
-      Generic: Antarktis-Tiet,
-      Standard: Antarktis-Standardtiet,
-      Daylight: Antarktis-Summertiet
-    }
-  },
-  {
-    Key: Antarctica/Palmer,
-    Value: {
-      Generic: Antarktis-Tiet,
-      Standard: Antarktis-Standardtiet,
-      Daylight: Antarktis-Summertiet
-    }
-  },
-  {
-    Key: Antarctica/Rothera,
-    Value: {
-      Generic: Antarktis-Tiet,
-      Standard: Antarktis-Standardtiet,
-      Daylight: Antarktis-Summertiet
-    }
-  },
-  {
-    Key: Antarctica/South_Pole,
-    Value: {
-      Generic: Neeseeland-Tiet,
-      Standard: Neeseeland-Standardtiet,
-      Daylight: Neeseeland-Summertiet
-    }
-  },
-  {
-    Key: Antarctica/Syowa,
-    Value: {
-      Generic: Antarktis-Tiet,
-      Standard: Antarktis-Standardtiet,
-      Daylight: Antarktis-Summertiet
-    }
-  },
-  {
-    Key: Antarctica/Troll,
-    Value: {
-      Generic: Gröönwisch-Welttiet,
-      Standard: Gröönwisch-Welttiet,
-      Daylight: Gröönwisch-Welttiet
-    }
-  },
-  {
-    Key: Antarctica/Vostok,
-    Value: {
-      Generic: Antarktis-Tiet,
-      Standard: Antarktis-Standardtiet,
-      Daylight: Antarktis-Summertiet
-    }
-  },
-  {
-    Key: Arctic/Longyearbyen,
-    Value: {
-      Generic: Zentraaleuropääsch Tiet,
-      Standard: Zentraaleuropääsch Standardtiet,
-      Daylight: Zentraaleuropääsch Summertiet
-    }
-  },
-  {
-    Key: Asia/Aden,
-    Value: {
-      Generic: Araabsch Tiet,
-      Standard: Araabsch Standardtiet,
-      Daylight: Araabsch Summertiet
-    }
-  },
-  {
-    Key: Asia/Almaty,
-    Value: {
-      Generic: Kasachstan-Tiet,
-      Standard: Kasachstan-Standardtiet,
-      Daylight: Kasachstan-Summertiet
-    }
-  },
-  {
-    Key: Asia/Amman,
-    Value: {
-      Generic: Oosteuropääsch Tiet,
-      Standard: Oosteuropääsch Standardtiet,
-      Daylight: Oosteuropääsch Summertiet
-    }
-  },
-  {
-    Key: Asia/Anadyr,
-    Value: {
-      Generic: Anadyr-Tiet,
-      Standard: Anadyr-Standardtiet,
-      Daylight: Anadyr-Summertiet
-    }
-  },
-  {
-    Key: Asia/Aqtau,
-    Value: {
-      Generic: Kasachstan-Tiet,
-      Standard: Kasachstan-Standardtiet,
-      Daylight: Kasachstan-Summertiet
-    }
-  },
-  {
-    Key: Asia/Aqtobe,
-    Value: {
-      Generic: Kasachstan-Tiet,
-      Standard: Kasachstan-Standardtiet,
-      Daylight: Kasachstan-Summertiet
-    }
-  },
-  {
-    Key: Asia/Ashgabat,
-    Value: {
-      Generic: Turkmenistan-Tiet,
-      Standard: Turkmenistan-Standardtiet,
-      Daylight: Turkmenistan-Summertiet
-    }
-  },
-  {
-    Key: Asia/Ashkhabad,
-    Value: {
-      Generic: Turkmenistan-Tiet,
-      Standard: Turkmenistan-Standardtiet,
-      Daylight: Turkmenistan-Summertiet
-    }
-  },
-  {
-    Key: Asia/Atyrau,
-    Value: {
-      Generic: Kasachstan-Tiet,
-      Standard: Kasachstan-Standardtiet,
-      Daylight: Kasachstan-Summertiet
-    }
-  },
-  {
-    Key: Asia/Baghdad,
-    Value: {
-      Generic: Araabsch Tiet,
-      Standard: Araabsch Standardtiet,
-      Daylight: Araabsch Summertiet
-    }
-  },
-  {
-    Key: Asia/Bahrain,
-    Value: {
-      Generic: Araabsch Tiet,
-      Standard: Araabsch Standardtiet,
-      Daylight: Araabsch Summertiet
-    }
-  },
-  {
-    Key: Asia/Baku,
-    Value: {
-      Generic: Aserbaidschan-Tiet,
-      Standard: Aserbaidschan-Standardtiet,
-      Daylight: Aserbaidschan-Summertiet
-    }
-  },
-  {
-    Key: Asia/Bangkok,
-    Value: {
-      Generic: Söödoostasiaatsch Tiet,
-      Standard: Söödoostasiaatsch Tiet,
-      Daylight: Söödoostasiaatsch Tiet
-    }
-  },
-  {
-    Key: Asia/Barnaul,
-    Value: {
-      Generic: Barnaul-Tiet,
-      Standard: Barnaul-Standardtiet,
-      Daylight: Barnaul-Summertiet
-    }
-  },
-  {
-    Key: Asia/Beirut,
-    Value: {
-      Generic: Oosteuropääsch Tiet,
-      Standard: Oosteuropääsch Standardtiet,
-      Daylight: Oosteuropääsch Summertiet
-    }
-  },
-  {
-    Key: Asia/Bishkek,
-    Value: {
-      Generic: Kirgisistan-Tiet,
-      Standard: Kirgisistan-Standardtiet,
-      Daylight: Kirgisistan-Summertiet
-    }
-  },
-  {
-    Key: Asia/Brunei,
-    Value: {
-      Generic: Brunei Darussalam-Tiet,
-      Standard: Brunei Darussalam-Standardtiet,
-      Daylight: Brunei Darussalam-Summertiet
-    }
-  },
-  {
-    Key: Asia/Calcutta,
-    Value: {
-      Generic: Indien-Tiet,
-      Standard: Indien-Tiet,
-      Daylight: Indien-Tiet
-    }
-  },
-  {
-    Key: Asia/Chita,
-    Value: {
-      Generic: Chita-Tiet,
-      Standard: Chita-Standardtiet,
-      Daylight: Chita-Summertiet
-    }
-  },
-  {
-    Key: Asia/Choibalsan,
-    Value: {
-      Generic: Mongolei-Tiet,
-      Standard: Mongolei-Standardtiet,
-      Daylight: Mongolei-Summertiet
-    }
-  },
-  {
-    Key: Asia/Chongqing,
-    Value: {
-      Generic: China-Tiet,
-      Standard: China-Standardtiet,
-      Daylight: China-Summertiet
-    }
-  },
-  {
-    Key: Asia/Chungking,
-    Value: {
-      Generic: China-Tiet,
-      Standard: China-Standardtiet,
-      Daylight: China-Summertiet
-    }
-  },
-  {
-    Key: Asia/Colombo,
-    Value: {
-      Generic: Indien-Tiet,
-      Standard: Indien-Tiet,
-      Daylight: Indien-Tiet
-    }
-  },
-  {
-    Key: Asia/Dacca,
-    Value: {
-      Generic: Bangladesch-Tiet,
-      Standard: Bangladesch-Standardtiet,
-      Daylight: Bangladesch-Summertiet
-    }
-  },
-  {
-    Key: Asia/Damascus,
-    Value: {
-      Generic: Oosteuropääsch Tiet,
-      Standard: Oosteuropääsch Standardtiet,
-      Daylight: Oosteuropääsch Summertiet
-    }
-  },
-  {
-    Key: Asia/Dhaka,
-    Value: {
-      Generic: Bangladesch-Tiet,
-      Standard: Bangladesch-Standardtiet,
-      Daylight: Bangladesch-Summertiet
-    }
-  },
-  {
-    Key: Asia/Dili,
-    Value: {
-      Generic: Oosttimor-Tiet,
-      Standard: Oosttimor-Standardtiet,
-      Daylight: Oosttimor-Summertiet
-    }
-  },
-  {
-    Key: Asia/Dubai,
-    Value: {
-      Generic: Vereenigte Araabsche Emiraten-Tiet,
-      Standard: Vereenigte Araabsche Emiraten-Standardtiet,
-      Daylight: Vereenigte Araabsche Emiraten-Summertiet
-    }
-  },
-  {
-    Key: Asia/Dushanbe,
-    Value: {
-      Generic: Tadschikistan-Tiet,
-      Standard: Tadschikistan-Standardtiet,
-      Daylight: Tadschikistan-Summertiet
-    }
-  },
-  {
-    Key: Asia/Famagusta,
-    Value: {
-      Generic: Oosteuropääsch Tiet,
-      Standard: Oosteuropääsch Standardtiet,
-      Daylight: Oosteuropääsch Summertiet
-    }
-  },
-  {
-    Key: Asia/Gaza,
-    Value: {
-      Generic: Oosteuropääsch Tiet,
-      Standard: Oosteuropääsch Standardtiet,
-      Daylight: Oosteuropääsch Summertiet
-    }
-  },
-  {
-    Key: Asia/Harbin,
-    Value: {
-      Generic: China-Tiet,
-      Standard: China-Standardtiet,
-      Daylight: China-Summertiet
-    }
-  },
-  {
-    Key: Asia/Hebron,
-    Value: {
-      Generic: Oosteuropääsch Tiet,
-      Standard: Oosteuropääsch Standardtiet,
-      Daylight: Oosteuropääsch Summertiet
-    }
-  },
-  {
-    Key: Asia/Ho_Chi_Minh,
-    Value: {
-      Generic: Söödoostasiaatsch Tiet,
-      Standard: Söödoostasiaatsch Tiet,
-      Daylight: Söödoostasiaatsch Tiet
-    }
-  },
-  {
-    Key: Asia/Hong_Kong,
-    Value: {
-      Generic: Sünnerverwaltensrebeet Hongkong-Tiet,
-      Standard: Sünnerverwaltensrebeet Hongkong-Standardtiet,
-      Daylight: Sünnerverwaltensrebeet Hongkong-Summertiet
-    }
-  },
-  {
-    Key: Asia/Hovd,
-    Value: {
-      Generic: Mongolei-Tiet,
-      Standard: Mongolei-Standardtiet,
-      Daylight: Mongolei-Summertiet
-    }
-  },
-  {
-    Key: Asia/Irkutsk,
-    Value: {
-      Generic: Irkutsk-Tiet,
-      Standard: Irkutsk-Standardtiet,
-      Daylight: Irkutsk-Summertiet
-    }
-  },
-  {
-    Key: Asia/Istanbul,
-    Value: {
-      Generic: Törkei-Tiet,
-      Standard: Törkei-Standardtiet,
-      Daylight: Törkei-Summertiet
-    }
-  },
-  {
-    Key: Asia/Jakarta,
-    Value: {
-      Generic: Westindoneesch Tiet,
-      Standard: Westindoneesch Tiet,
-      Daylight: Westindoneesch Tiet
-    }
-  },
-  {
-    Key: Asia/Jayapura,
-    Value: {
-      Generic: Oostindoneesch Tiet,
-      Standard: Oostindoneesch Tiet,
-      Daylight: Oostindoneesch Tiet
-    }
-  },
-  {
-    Key: Asia/Jerusalem,
-    Value: {
-      Generic: Israel-Tiet,
-      Standard: Israel-Standardtiet,
-      Daylight: Israel-Summertiet
-    }
-  },
-  {
-    Key: Asia/Kabul,
-    Value: {
-      Generic: Afghanistan-Tiet,
-      Standard: Afghanistan-Standardtiet,
-      Daylight: Afghanistan-Summertiet
-    }
-  },
-  {
-    Key: Asia/Kamchatka,
-    Value: {
-      Generic: Kamschatka-Tiet,
-      Standard: Kamschatka-Standardtiet,
-      Daylight: Kamschatka-Summertiet
-    }
-  },
-  {
-    Key: Asia/Karachi,
-    Value: {
-      Generic: Pakistan-Tiet,
-      Standard: Pakistan-Standardtiet,
-      Daylight: Pakistan-Summertiet
-    }
-  },
-  {
-    Key: Asia/Kashgar,
-    Value: {
-      Generic: China-Tiet,
-      Standard: China-Standardtiet,
-      Daylight: China-Summertiet
-    }
-  },
-  {
-    Key: Asia/Kathmandu,
-    Value: {
-      Generic: Nepal-Tiet,
-      Standard: Nepal-Standardtiet,
-      Daylight: Nepal-Summertiet
-    }
-  },
-  {
-    Key: Asia/Katmandu,
-    Value: {
-      Generic: Nepal-Tiet,
-      Standard: Nepal-Standardtiet,
-      Daylight: Nepal-Summertiet
-    }
-  },
-  {
-    Key: Asia/Khandyga,
-    Value: {
-      Generic: Khandyga-Tiet,
-      Standard: Khandyga-Standardtiet,
-      Daylight: Khandyga-Summertiet
-    }
-  },
-  {
-    Key: Asia/Kolkata,
-    Value: {
-      Generic: Indien-Tiet,
-      Standard: Indien-Tiet,
-      Daylight: Indien-Tiet
-    }
-  },
-  {
-    Key: Asia/Krasnoyarsk,
-    Value: {
-      Generic: Krasnojarsk-Tiet,
-      Standard: Krasnojarsk-Standardtiet,
-      Daylight: Krasnojarsk-Summertiet
-    }
-  },
-  {
-    Key: Asia/Kuala_Lumpur,
-    Value: {
-      Generic: Malaysia-Tiet,
-      Standard: Malaysia-Standardtiet,
-      Daylight: Malaysia-Summertiet
-    }
-  },
-  {
-    Key: Asia/Kuching,
-    Value: {
-      Generic: Malaysia-Tiet,
-      Standard: Malaysia-Standardtiet,
-      Daylight: Malaysia-Summertiet
-    }
-  },
-  {
-    Key: Asia/Kuwait,
-    Value: {
-      Generic: Araabsch Tiet,
-      Standard: Araabsch Standardtiet,
-      Daylight: Araabsch Summertiet
-    }
-  },
-  {
-    Key: Asia/Macao,
-    Value: {
-      Generic: China-Tiet,
-      Standard: China-Standardtiet,
-      Daylight: China-Summertiet
-    }
-  },
-  {
-    Key: Asia/Macau,
-    Value: {
-      Generic: China-Tiet,
-      Standard: China-Standardtiet,
-      Daylight: China-Summertiet
-    }
-  },
-  {
-    Key: Asia/Magadan,
-    Value: {
-      Generic: Magadan-Tiet,
-      Standard: Magadan-Standardtiet,
-      Daylight: Magadan-Summertiet
-    }
-  },
-  {
-    Key: Asia/Makassar,
-    Value: {
-      Generic: Indoneesch Zentraaltiet,
-      Standard: Indoneesch Zentraaltiet,
-      Daylight: Indoneesch Zentraaltiet
-    }
-  },
-  {
-    Key: Asia/Manila,
-    Value: {
-      Generic: Philippinen-Tiet,
-      Standard: Philippinen-Standardtiet,
-      Daylight: Philippinen-Summertiet
-    }
-  },
-  {
-    Key: Asia/Muscat,
-    Value: {
-      Generic: Oman-Tiet,
-      Standard: Oman-Standardtiet,
-      Daylight: Oman-Summertiet
-    }
-  },
-  {
-    Key: Asia/Nicosia,
-    Value: {
-      Generic: Oosteuropääsch Tiet,
-      Standard: Oosteuropääsch Standardtiet,
-      Daylight: Oosteuropääsch Summertiet
-    }
-  },
-  {
-    Key: Asia/Novokuznetsk,
-    Value: {
-      Generic: Novokuznetsk-Tiet,
-      Standard: Novokuznetsk-Standardtiet,
-      Daylight: Novokuznetsk-Summertiet
-    }
-  },
-  {
-    Key: Asia/Novosibirsk,
-    Value: {
-      Generic: Nowosibirsk-Tiet,
-      Standard: Nowosibirsk-Standardtiet,
-      Daylight: Nowosibirsk-Summertiet
-    }
-  },
-  {
-    Key: Asia/Omsk,
-    Value: {
-      Generic: Omsk-Tiet,
-      Standard: Omsk-Standardtiet,
-      Daylight: Omsk-Summertiet
-    }
-  },
-  {
-    Key: Asia/Oral,
-    Value: {
-      Generic: Kasachstan-Tiet,
-      Standard: Kasachstan-Standardtiet,
-      Daylight: Kasachstan-Summertiet
-    }
-  },
-  {
-    Key: Asia/Phnom_Penh,
-    Value: {
-      Generic: Söödoostasiaatsch Tiet,
-      Standard: Söödoostasiaatsch Tiet,
-      Daylight: Söödoostasiaatsch Tiet
-    }
-  },
-  {
-    Key: Asia/Pontianak,
-    Value: {
-      Generic: Westindoneesch Tiet,
-      Standard: Westindoneesch Tiet,
-      Daylight: Westindoneesch Tiet
-    }
-  },
-  {
-    Key: Asia/Pyongyang,
-    Value: {
-      Generic: Koreaansch Tiet,
-      Standard: Koreaansch Standardtiet,
-      Daylight: Koreaansch Summertiet
-    }
-  },
-  {
-    Key: Asia/Qatar,
-    Value: {
-      Generic: Araabsch Tiet,
-      Standard: Araabsch Standardtiet,
-      Daylight: Araabsch Summertiet
-    }
-  },
-  {
-    Key: Asia/Qostanay,
-    Value: {
-      Generic: Kasachstan-Tiet,
-      Standard: Kasachstan-Standardtiet,
-      Daylight: Kasachstan-Summertiet
-    }
-  },
-  {
-    Key: Asia/Qyzylorda,
-    Value: {
-      Generic: Kasachstan-Tiet,
-      Standard: Kasachstan-Standardtiet,
-      Daylight: Kasachstan-Summertiet
-    }
-  },
-  {
-    Key: Asia/Rangoon,
-    Value: {
-      Generic: Birma-Tiet,
-      Standard: Birma-Standardtiet,
-      Daylight: Birma-Summertiet
-    }
-  },
-  {
-    Key: Asia/Riyadh,
-    Value: {
-      Generic: Araabsch Tiet,
-      Standard: Araabsch Standardtiet,
-      Daylight: Araabsch Summertiet
-    }
-  },
-  {
-    Key: Asia/Saigon,
-    Value: {
-      Generic: Söödoostasiaatsch Tiet,
-      Standard: Söödoostasiaatsch Tiet,
-      Daylight: Söödoostasiaatsch Tiet
-    }
-  },
-  {
-    Key: Asia/Sakhalin,
-    Value: {
-      Generic: Sachalin-Tiet,
-      Standard: Sachalin-Standardtiet,
-      Daylight: Sachalin-Summertiet
-    }
-  },
-  {
-    Key: Asia/Samarkand,
-    Value: {
-      Generic: Usbekistan-Tiet,
-      Standard: Usbekistan-Standardtiet,
-      Daylight: Usbekistan-Summertiet
-    }
-  },
-  {
-    Key: Asia/Seoul,
-    Value: {
-      Generic: Koreaansch Tiet,
-      Standard: Koreaansch Standardtiet,
-      Daylight: Koreaansch Summertiet
-    }
-  },
-  {
-    Key: Asia/Shanghai,
-    Value: {
-      Generic: China-Tiet,
-      Standard: China-Standardtiet,
-      Daylight: China-Summertiet
-    }
-  },
-  {
-    Key: Asia/Singapore,
-    Value: {
-      Generic: Singapur-Tiet,
-      Standard: Singapur-Standardtiet,
-      Daylight: Singapur-Summertiet
-    }
-  },
-  {
-    Key: Asia/Srednekolymsk,
-    Value: {
-      Generic: Srednekolymsk-Tiet,
-      Standard: Srednekolymsk-Standardtiet,
-      Daylight: Srednekolymsk-Summertiet
-    }
-  },
-  {
-    Key: Asia/Taipei,
-    Value: {
-      Generic: Taiwan-Tiet,
-      Standard: Taiwan-Standardtiet,
-      Daylight: Taiwan-Summertiet
-    }
-  },
-  {
-    Key: Asia/Tashkent,
-    Value: {
-      Generic: Usbekistan-Tiet,
-      Standard: Usbekistan-Standardtiet,
-      Daylight: Usbekistan-Summertiet
-    }
-  },
-  {
-    Key: Asia/Tbilisi,
-    Value: {
-      Generic: Georgien-Tiet,
-      Standard: Georgien-Standardtiet,
-      Daylight: Georgien-Summertiet
-    }
-  },
-  {
-    Key: Asia/Tehran,
-    Value: {
-      Generic: Iran-Tiet,
-      Standard: Iran-Standardtiet,
-      Daylight: Iran-Summertiet
-    }
-  },
-  {
-    Key: Asia/Tel_Aviv,
-    Value: {
-      Generic: Israel-Tiet,
-      Standard: Israel-Standardtiet,
-      Daylight: Israel-Summertiet
-    }
-  },
-  {
-    Key: Asia/Thimbu,
-    Value: {
-      Generic: Bhutan-Tiet,
-      Standard: Bhutan-Standardtiet,
-      Daylight: Bhutan-Summertiet
-    }
-  },
-  {
-    Key: Asia/Thimphu,
-    Value: {
-      Generic: Bhutan-Tiet,
-      Standard: Bhutan-Standardtiet,
-      Daylight: Bhutan-Summertiet
-    }
-  },
-  {
-    Key: Asia/Tokyo,
-    Value: {
-      Generic: Japaansch Tiet,
-      Standard: Japaansch Standardtiet,
-      Daylight: Japaansch Summertiet
-    }
-  },
-  {
-    Key: Asia/Tomsk,
-    Value: {
-      Generic: Tomsk-Tiet,
-      Standard: Tomsk-Standardtiet,
-      Daylight: Tomsk-Summertiet
-    }
-  },
-  {
-    Key: Asia/Ujung_Pandang,
-    Value: {
-      Generic: Indoneesch Zentraaltiet,
-      Standard: Indoneesch Zentraaltiet,
-      Daylight: Indoneesch Zentraaltiet
-    }
-  },
-  {
-    Key: Asia/Ulaanbaatar,
-    Value: {
-      Generic: Mongolei-Tiet,
-      Standard: Mongolei-Standardtiet,
-      Daylight: Mongolei-Summertiet
-    }
-  },
-  {
-    Key: Asia/Ulan_Bator,
-    Value: {
-      Generic: Mongolei-Tiet,
-      Standard: Mongolei-Standardtiet,
-      Daylight: Mongolei-Summertiet
-    }
-  },
-  {
-    Key: Asia/Urumqi,
-    Value: {
-      Generic: China-Tiet,
-      Standard: China-Standardtiet,
-      Daylight: China-Summertiet
-    }
-  },
-  {
-    Key: Asia/Ust-Nera,
-    Value: {
-      Generic: Ust-Nera-Tiet,
-      Standard: Ust-Nera-Standardtiet,
-      Daylight: Ust-Nera-Summertiet
-    }
-  },
-  {
-    Key: Asia/Vientiane,
-    Value: {
-      Generic: Söödoostasiaatsch Tiet,
-      Standard: Söödoostasiaatsch Tiet,
-      Daylight: Söödoostasiaatsch Tiet
-    }
-  },
-  {
-    Key: Asia/Vladivostok,
-    Value: {
-      Generic: Wladiwostok-Tiet,
-      Standard: Wladiwostok-Standardtiet,
-      Daylight: Wladiwostok-Summertiet
-    }
-  },
-  {
-    Key: Asia/Yakutsk,
-    Value: {
-      Generic: Jakutsk-Tiet,
-      Standard: Jakutsk-Standardtiet,
-      Daylight: Jakutsk-Summertiet
-    }
-  },
-  {
-    Key: Asia/Yangon,
-    Value: {
-      Generic: Birma-Tiet,
-      Standard: Birma-Standardtiet,
-      Daylight: Birma-Summertiet
-    }
-  },
-  {
-    Key: Asia/Yekaterinburg,
-    Value: {
-      Generic: Jekaterinborg-Tiet,
-      Standard: Jekaterinborg-Standardtiet,
-      Daylight: Jekaterinborg-Summertiet
-    }
-  },
-  {
-    Key: Asia/Yerevan,
-    Value: {
-      Generic: Armenien-Tiet,
-      Standard: Armenien-Standardtiet,
-      Daylight: Armenien-Summertiet
-    }
-  },
-  {
-    Key: Atlantic/Azores,
-    Value: {
-      Generic: Portugal-Tiet,
-      Standard: Portugal-Standardtiet,
-      Daylight: Portugal-Summertiet
-    }
-  },
-  {
-    Key: Atlantic/Bermuda,
-    Value: {
-      Generic: Noordamerikaansch Atlantiktiet,
-      Standard: Noordamerikaansch Atlantik-Standardtiet,
-      Daylight: Noordamerikaansch Atlantik-Summertiet
-    }
-  },
-  {
-    Key: Atlantic/Canary,
-    Value: {
-      Generic: Westeuropääsch Tiet,
-      Standard: Westeuropääsch Standardtiet,
-      Daylight: Westeuropääsch Summertiet
-    }
-  },
-  {
-    Key: Atlantic/Cape_Verde,
-    Value: {
-      Generic: Kap Verde-Tiet,
-      Standard: Kap Verde-Standardtiet,
-      Daylight: Kap Verde-Summertiet
-    }
-  },
-  {
-    Key: Atlantic/Faeroe,
-    Value: {
-      Generic: Westeuropääsch Tiet,
-      Standard: Westeuropääsch Standardtiet,
-      Daylight: Westeuropääsch Summertiet
-    }
-  },
-  {
-    Key: Atlantic/Faroe,
-    Value: {
-      Generic: Westeuropääsch Tiet,
-      Standard: Westeuropääsch Standardtiet,
-      Daylight: Westeuropääsch Summertiet
-    }
-  },
-  {
-    Key: Atlantic/Jan_Mayen,
-    Value: {
-      Generic: Zentraaleuropääsch Tiet,
-      Standard: Zentraaleuropääsch Standardtiet,
-      Daylight: Zentraaleuropääsch Summertiet
-    }
-  },
-  {
-    Key: Atlantic/Madeira,
-    Value: {
-      Generic: Westeuropääsch Tiet,
-      Standard: Westeuropääsch Standardtiet,
-      Daylight: Westeuropääsch Summertiet
-    }
-  },
-  {
-    Key: Atlantic/Reykjavik,
-    Value: {
-      Generic: Gröönwisch-Welttiet,
-      Standard: Gröönwisch-Welttiet,
-      Daylight: Gröönwisch-Welttiet
-    }
-  },
-  {
-    Key: Atlantic/South_Georgia,
-    Value: {
-      Generic: Süüdgeorgien un de Südlichen Sandwich-Eilannen-Tiet,
-      Standard: Süüdgeorgien un de Südlichen Sandwich-Eilannen-Standardtiet,
-      Daylight: Süüdgeorgien un de Südlichen Sandwich-Eilannen-Summertiet
-    }
-  },
-  {
-    Key: Atlantic/St_Helena,
-    Value: {
-      Generic: Gröönwisch-Welttiet,
-      Standard: Gröönwisch-Welttiet,
-      Daylight: Gröönwisch-Welttiet
-    }
-  },
-  {
-    Key: Atlantic/Stanley,
-    Value: {
-      Generic: Falkland-Eilannen-Tiet,
-      Standard: Falkland-Eilannen-Standardtiet,
-      Daylight: Falkland-Eilannen-Summertiet
-    }
-  },
-  {
-    Key: Australia/ACT,
-    Value: {
-      Generic: Oostaustraalsch Tiet,
-      Standard: Oostaustraalsch Standardtiet,
-      Daylight: Oostaustraalsch Summertiet
-    }
-  },
-  {
-    Key: Australia/Adelaide,
-    Value: {
-      Generic: Zentraalaustraalsch Tiet,
-      Standard: Zentraalaustraalsch Standardtiet,
-      Daylight: Zentraalaustraalsch Summertiet
-    }
-  },
-  {
-    Key: Australia/Brisbane,
-    Value: {
-      Generic: Oostaustraalsch Tiet,
-      Standard: Oostaustraalsch Standardtiet,
-      Daylight: Oostaustraalsch Summertiet
-    }
-  },
-  {
-    Key: Australia/Broken_Hill,
-    Value: {
-      Generic: Zentraalaustraalsch Tiet,
-      Standard: Zentraalaustraalsch Standardtiet,
-      Daylight: Zentraalaustraalsch Summertiet
-    }
-  },
-  {
-    Key: Australia/Canberra,
-    Value: {
-      Generic: Oostaustraalsch Tiet,
-      Standard: Oostaustraalsch Standardtiet,
-      Daylight: Oostaustraalsch Summertiet
-    }
-  },
-  {
-    Key: Australia/Currie,
-    Value: {
-      Generic: Oostaustraalsch Tiet,
-      Standard: Oostaustraalsch Standardtiet,
-      Daylight: Oostaustraalsch Summertiet
-    }
-  },
-  {
-    Key: Australia/Darwin,
-    Value: {
-      Generic: Zentraalaustraalsch Tiet,
-      Standard: Zentraalaustraalsch Standardtiet,
-      Daylight: Zentraalaustraalsch Summertiet
-    }
-  },
-  {
-    Key: Australia/Eucla,
-    Value: {
-      Generic: Westzentraalaustraalsch Tiet,
-      Standard: Westzentraalaustraalsch Standardtiet,
-      Daylight: Westzentraalaustraalsch Summertiet
-    }
-  },
-  {
-    Key: Australia/Hobart,
-    Value: {
-      Generic: Oostaustraalsch Tiet,
-      Standard: Oostaustraalsch Standardtiet,
-      Daylight: Oostaustraalsch Summertiet
-    }
-  },
-  {
-    Key: Australia/LHI,
-    Value: {
-      Generic: Australien-Tiet,
-      Standard: Australien-Standardtiet,
-      Daylight: Australien-Summertiet
-    }
-  },
-  {
-    Key: Australia/Lindeman,
-    Value: {
-      Generic: Oostaustraalsch Tiet,
-      Standard: Oostaustraalsch Standardtiet,
-      Daylight: Oostaustraalsch Summertiet
-    }
-  },
-  {
-    Key: Australia/Lord_Howe,
-    Value: {
-      Generic: Australien-Tiet,
-      Standard: Australien-Standardtiet,
-      Daylight: Australien-Summertiet
-    }
-  },
-  {
-    Key: Australia/Melbourne,
-    Value: {
-      Generic: Oostaustraalsch Tiet,
-      Standard: Oostaustraalsch Standardtiet,
-      Daylight: Oostaustraalsch Summertiet
-    }
-  },
-  {
-    Key: Australia/North,
-    Value: {
-      Generic: Zentraalaustraalsch Tiet,
-      Standard: Zentraalaustraalsch Standardtiet,
-      Daylight: Zentraalaustraalsch Summertiet
-    }
-  },
-  {
-    Key: Australia/NSW,
-    Value: {
-      Generic: Oostaustraalsch Tiet,
-      Standard: Oostaustraalsch Standardtiet,
-      Daylight: Oostaustraalsch Summertiet
-    }
-  },
-  {
-    Key: Australia/Perth,
-    Value: {
-      Generic: Westaustraalsch Tiet,
-      Standard: Westaustraalsch Standardtiet,
-      Daylight: Westaustraalsch Summertiet
-    }
-  },
-  {
-    Key: Australia/Queensland,
-    Value: {
-      Generic: Oostaustraalsch Tiet,
-      Standard: Oostaustraalsch Standardtiet,
-      Daylight: Oostaustraalsch Summertiet
-    }
-  },
-  {
-    Key: Australia/South,
-    Value: {
-      Generic: Zentraalaustraalsch Tiet,
-      Standard: Zentraalaustraalsch Standardtiet,
-      Daylight: Zentraalaustraalsch Summertiet
-    }
-  },
-  {
-    Key: Australia/Sydney,
-    Value: {
-      Generic: Oostaustraalsch Tiet,
-      Standard: Oostaustraalsch Standardtiet,
-      Daylight: Oostaustraalsch Summertiet
-    }
-  },
-  {
-    Key: Australia/Tasmania,
-    Value: {
-      Generic: Oostaustraalsch Tiet,
-      Standard: Oostaustraalsch Standardtiet,
-      Daylight: Oostaustraalsch Summertiet
-    }
-  },
-  {
-    Key: Australia/Victoria,
-    Value: {
-      Generic: Oostaustraalsch Tiet,
-      Standard: Oostaustraalsch Standardtiet,
-      Daylight: Oostaustraalsch Summertiet
-    }
-  },
-  {
-    Key: Australia/West,
-    Value: {
-      Generic: Westaustraalsch Tiet,
-      Standard: Westaustraalsch Standardtiet,
-      Daylight: Westaustraalsch Summertiet
-    }
-  },
-  {
-    Key: Australia/Yancowinna,
-    Value: {
-      Generic: Zentraalaustraalsch Tiet,
-      Standard: Zentraalaustraalsch Standardtiet,
-      Daylight: Zentraalaustraalsch Summertiet
-    }
-  },
-  {
-    Key: Brazil/Acre,
-    Value: {
-      Generic: Brasilien-Tiet,
-      Standard: Brasilien-Standardtiet,
-      Daylight: Brasilien-Summertiet
-    }
-  },
-  {
-    Key: Brazil/DeNoronha,
-    Value: {
-      Generic: Brasilien-Tiet,
-      Standard: Brasilien-Standardtiet,
-      Daylight: Brasilien-Summertiet
-    }
-  },
-  {
-    Key: Brazil/East,
-    Value: {
-      Generic: Brasilien-Tiet,
-      Standard: Brasilien-Standardtiet,
-      Daylight: Brasilien-Summertiet
-    }
-  },
-  {
-    Key: Brazil/West,
-    Value: {
-      Generic: Brasilien-Tiet,
-      Standard: Brasilien-Standardtiet,
-      Daylight: Brasilien-Summertiet
-    }
-  },
-  {
-    Key: Canada/Atlantic,
-    Value: {
-      Generic: Noordamerikaansch Atlantiktiet,
-      Standard: Noordamerikaansch Atlantik-Standardtiet,
-      Daylight: Noordamerikaansch Atlantik-Summertiet
-    }
-  },
-  {
-    Key: Canada/Central,
-    Value: {
-      Generic: Noordamerikaansch Zentraaltiet,
-      Standard: Noordamerikaansch zentraal Standardtiet,
-      Daylight: Noordamerikaansch zentraal Summertiet
-    }
-  },
-  {
-    Key: Canada/Eastern,
-    Value: {
-      Generic: Noordamerikaansch oosten Tiet,
-      Standard: Noordamerikaansch oosten Standardtiet,
-      Daylight: Noordamerikaansch oosten Summertiet
-    }
-  },
-  {
-    Key: Canada/Mountain,
-    Value: {
-      Generic: Noordamerikaansch Bargtiet,
-      Standard: Noordamerikaansch Barg-Standardtiet,
-      Daylight: Noordamerikaansch Barg-Summertiet
-    }
-  },
-  {
-    Key: Canada/Newfoundland,
-    Value: {
-      Generic: Kanada-Tiet,
-      Standard: Kanada-Standardtiet,
-      Daylight: Kanada-Summertiet
-    }
-  },
-  {
-    Key: Canada/Pacific,
-    Value: {
-      Generic: Noordamerikaansch Pazifiktiet,
-      Standard: Noordamerikaansch Pazifik-Standardtiet,
-      Daylight: Noordamerikaansch Pazifik-Summertiet
-    }
-  },
-  {
-    Key: Canada/Saskatchewan,
-    Value: {
-      Generic: Noordamerikaansch Zentraaltiet,
-      Standard: Noordamerikaansch zentraal Standardtiet,
-      Daylight: Noordamerikaansch zentraal Summertiet
-    }
-  },
-  {
-    Key: Canada/Yukon,
-    Value: {
-      Generic: Kanada-Tiet,
-      Standard: Kanada-Standardtiet,
-      Daylight: Kanada-Summertiet
-    }
-  },
-  {
-    Key: CET,
-    Value: {
-      Generic: Zentraaleuropääsch Tiet,
-      Standard: Zentraaleuropääsch Standardtiet,
-      Daylight: Zentraaleuropääsch Summertiet
-    }
-  },
-  {
-    Key: Chile/Continental,
-    Value: {
-      Generic: Chile-Tiet,
-      Standard: Chile-Standardtiet,
-      Daylight: Chile-Summertiet
-    }
-  },
-  {
-    Key: Chile/EasterIsland,
-    Value: {
-      Generic: Chile-Tiet,
-      Standard: Chile-Standardtiet,
-      Daylight: Chile-Summertiet
-    }
-  },
-  {
-    Key: CST6CDT,
-    Value: {
-      Generic: Noordamerikaansch Zentraaltiet,
-      Standard: Noordamerikaansch zentraal Standardtiet,
-      Daylight: Noordamerikaansch zentraal Summertiet
-    }
-  },
-  {
-    Key: Cuba,
-    Value: {
-      Generic: Kuba-Tiet,
-      Standard: Kuba-Standardtiet,
-      Daylight: Kuba-Summertiet
-    }
-  },
-  {
-    Key: EET,
-    Value: {
-      Generic: Oosteuropääsch Tiet,
-      Standard: Oosteuropääsch Standardtiet,
-      Daylight: Oosteuropääsch Summertiet
-    }
-  },
-  {
-    Key: Egypt,
-    Value: {
-      Generic: Oosteuropääsch Tiet,
-      Standard: Oosteuropääsch Standardtiet,
-      Daylight: Oosteuropääsch Summertiet
-    }
-  },
-  {
-    Key: Eire,
-    Value: {
-      Generic: Gröönwisch-Welttiet,
-      Standard: Gröönwisch-Welttiet,
-      Daylight: Gröönwisch-Welttiet
-    }
-  },
-  {
-    Key: EST,
-    Value: {
-      Generic: UTC-Tiet -5,
-      Standard: UTC-Standardtiet -5,
-      Daylight: UTC-Summertiet -5
-    }
-  },
-  {
-    Key: EST5EDT,
-    Value: {
-      Generic: Noordamerikaansch oosten Tiet,
-      Standard: Noordamerikaansch oosten Standardtiet,
-      Daylight: Noordamerikaansch oosten Summertiet
-    }
-  },
-  {
-    Key: Etc/GMT,
-    Value: {
-      Generic: Gröönwisch-Welttiet,
-      Standard: Gröönwisch-Welttiet,
-      Daylight: Gröönwisch-Welttiet
-    }
-  },
-  {
-    Key: Etc/GMT-0,
-    Value: {
-      Generic: Gröönwisch-Welttiet,
-      Standard: Gröönwisch-Welttiet,
-      Daylight: Gröönwisch-Welttiet
-    }
-  },
-  {
-    Key: Etc/GMT-1,
-    Value: {
-      Generic: UTC-Tiet +1,
-      Standard: UTC-Standardtiet +1,
-      Daylight: UTC-Summertiet +1
-    }
-  },
-  {
-    Key: Etc/GMT-10,
-    Value: {
-      Generic: UTC-Tiet +10,
-      Standard: UTC-Standardtiet +10,
-      Daylight: UTC-Summertiet +10
-    }
-  },
-  {
-    Key: Etc/GMT-11,
-    Value: {
-      Generic: UTC-Tiet +11,
-      Standard: UTC-Standardtiet +11,
-      Daylight: UTC-Summertiet +11
-    }
-  },
-  {
-    Key: Etc/GMT-12,
-    Value: {
-      Generic: UTC-Tiet +12,
-      Standard: UTC-Standardtiet +12,
-      Daylight: UTC-Summertiet +12
-    }
-  },
-  {
-    Key: Etc/GMT-13,
-    Value: {
-      Generic: UTC-Tiet +13,
-      Standard: UTC-Standardtiet +13,
-      Daylight: UTC-Summertiet +13
-    }
-  },
-  {
-    Key: Etc/GMT-14,
-    Value: {
-      Generic: UTC-Tiet +14,
-      Standard: UTC-Standardtiet +14,
-      Daylight: UTC-Summertiet +14
-    }
-  },
-  {
-    Key: Etc/GMT-2,
-    Value: {
-      Generic: UTC-Tiet +2,
-      Standard: UTC-Standardtiet +2,
-      Daylight: UTC-Summertiet +2
-    }
-  },
-  {
-    Key: Etc/GMT-3,
-    Value: {
-      Generic: UTC-Tiet +3,
-      Standard: UTC-Standardtiet +3,
-      Daylight: UTC-Summertiet +3
-    }
-  },
-  {
-    Key: Etc/GMT-4,
-    Value: {
-      Generic: UTC-Tiet +4,
-      Standard: UTC-Standardtiet +4,
-      Daylight: UTC-Summertiet +4
-    }
-  },
-  {
-    Key: Etc/GMT-5,
-    Value: {
-      Generic: UTC-Tiet +5,
-      Standard: UTC-Standardtiet +5,
-      Daylight: UTC-Summertiet +5
-    }
-  },
-  {
-    Key: Etc/GMT-6,
-    Value: {
-      Generic: UTC-Tiet +6,
-      Standard: UTC-Standardtiet +6,
-      Daylight: UTC-Summertiet +6
-    }
-  },
-  {
-    Key: Etc/GMT-7,
-    Value: {
-      Generic: UTC-Tiet +7,
-      Standard: UTC-Standardtiet +7,
-      Daylight: UTC-Summertiet +7
-    }
-  },
-  {
-    Key: Etc/GMT-8,
-    Value: {
-      Generic: UTC-Tiet +8,
-      Standard: UTC-Standardtiet +8,
-      Daylight: UTC-Summertiet +8
-    }
-  },
-  {
-    Key: Etc/GMT-9,
-    Value: {
-      Generic: UTC-Tiet +9,
-      Standard: UTC-Standardtiet +9,
-      Daylight: UTC-Summertiet +9
-    }
-  },
-  {
-    Key: Etc/GMT+0,
-    Value: {
-      Generic: Gröönwisch-Welttiet,
-      Standard: Gröönwisch-Welttiet,
-      Daylight: Gröönwisch-Welttiet
-    }
-  },
-  {
-    Key: Etc/GMT+1,
-    Value: {
-      Generic: UTC-Tiet -1,
-      Standard: UTC-Standardtiet -1,
-      Daylight: UTC-Summertiet -1
-    }
-  },
-  {
-    Key: Etc/GMT+10,
-    Value: {
-      Generic: UTC-Tiet -10,
-      Standard: UTC-Standardtiet -10,
-      Daylight: UTC-Summertiet -10
-    }
-  },
-  {
-    Key: Etc/GMT+11,
-    Value: {
-      Generic: UTC-Tiet -11,
-      Standard: UTC-Standardtiet -11,
-      Daylight: UTC-Summertiet -11
-    }
-  },
-  {
-    Key: Etc/GMT+12,
-    Value: {
-      Generic: UTC-Tiet -12,
-      Standard: UTC-Standardtiet -12,
-      Daylight: UTC-Summertiet -12
-    }
-  },
-  {
-    Key: Etc/GMT+2,
-    Value: {
-      Generic: UTC-Tiet -2,
-      Standard: UTC-Standardtiet -2,
-      Daylight: UTC-Summertiet -2
-    }
-  },
-  {
-    Key: Etc/GMT+3,
-    Value: {
-      Generic: UTC-Tiet -3,
-      Standard: UTC-Standardtiet -3,
-      Daylight: UTC-Summertiet -3
-    }
-  },
-  {
-    Key: Etc/GMT+4,
-    Value: {
-      Generic: UTC-Tiet -4,
-      Standard: UTC-Standardtiet -4,
-      Daylight: UTC-Summertiet -4
-    }
-  },
-  {
-    Key: Etc/GMT+5,
-    Value: {
-      Generic: UTC-Tiet -5,
-      Standard: UTC-Standardtiet -5,
-      Daylight: UTC-Summertiet -5
-    }
-  },
-  {
-    Key: Etc/GMT+6,
-    Value: {
-      Generic: UTC-Tiet -6,
-      Standard: UTC-Standardtiet -6,
-      Daylight: UTC-Summertiet -6
-    }
-  },
-  {
-    Key: Etc/GMT+7,
-    Value: {
-      Generic: UTC-Tiet -7,
-      Standard: UTC-Standardtiet -7,
-      Daylight: UTC-Summertiet -7
-    }
-  },
-  {
-    Key: Etc/GMT+8,
-    Value: {
-      Generic: UTC-Tiet -8,
-      Standard: UTC-Standardtiet -8,
-      Daylight: UTC-Summertiet -8
-    }
-  },
-  {
-    Key: Etc/GMT+9,
-    Value: {
-      Generic: UTC-Tiet -9,
-      Standard: UTC-Standardtiet -9,
-      Daylight: UTC-Summertiet -9
-    }
-  },
-  {
-    Key: Etc/GMT0,
-    Value: {
-      Generic: Gröönwisch-Welttiet,
-      Standard: Gröönwisch-Welttiet,
-      Daylight: Gröönwisch-Welttiet
-    }
-  },
-  {
-    Key: Etc/Greenwich,
-    Value: {
-      Generic: Gröönwisch-Welttiet,
-      Standard: Gröönwisch-Welttiet,
-      Daylight: Gröönwisch-Welttiet
-    }
-  },
-  {
-    Key: Etc/UCT,
-    Value: {
-      Generic: UTC-Tiet,
-      Standard: UTC-Standardtiet,
-      Daylight: UTC-Summertiet
-    }
-  },
-  {
-    Key: Etc/Universal,
-    Value: {
-      Generic: UTC-Tiet,
-      Standard: UTC-Standardtiet,
-      Daylight: UTC-Summertiet
-    }
-  },
-  {
-    Key: Etc/UTC,
-    Value: {
-      Generic: UTC-Tiet,
-      Standard: UTC-Standardtiet,
-      Daylight: UTC-Summertiet
-    }
-  },
-  {
-    Key: Etc/Zulu,
-    Value: {
-      Generic: UTC-Tiet,
-      Standard: UTC-Standardtiet,
-      Daylight: UTC-Summertiet
-    }
-  },
-  {
-    Key: Europe/Amsterdam,
-    Value: {
-      Generic: Zentraaleuropääsch Tiet,
-      Standard: Zentraaleuropääsch Standardtiet,
-      Daylight: Zentraaleuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Andorra,
-    Value: {
-      Generic: Zentraaleuropääsch Tiet,
-      Standard: Zentraaleuropääsch Standardtiet,
-      Daylight: Zentraaleuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Astrakhan,
-    Value: {
-      Generic: Astrakhan-Tiet,
-      Standard: Astrakhan-Standardtiet,
-      Daylight: Astrakhan-Summertiet
-    }
-  },
-  {
-    Key: Europe/Athens,
-    Value: {
-      Generic: Oosteuropääsch Tiet,
-      Standard: Oosteuropääsch Standardtiet,
-      Daylight: Oosteuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Belfast,
-    Value: {
-      Generic: Gröönwisch-Welttiet,
-      Standard: Gröönwisch-Welttiet,
-      Daylight: Gröönwisch-Welttiet
-    }
-  },
-  {
-    Key: Europe/Belgrade,
-    Value: {
-      Generic: Zentraaleuropääsch Tiet,
-      Standard: Zentraaleuropääsch Standardtiet,
-      Daylight: Zentraaleuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Berlin,
-    Value: {
-      Generic: Zentraaleuropääsch Tiet,
-      Standard: Zentraaleuropääsch Standardtiet,
-      Daylight: Zentraaleuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Bratislava,
-    Value: {
-      Generic: Zentraaleuropääsch Tiet,
-      Standard: Zentraaleuropääsch Standardtiet,
-      Daylight: Zentraaleuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Brussels,
-    Value: {
-      Generic: Zentraaleuropääsch Tiet,
-      Standard: Zentraaleuropääsch Standardtiet,
-      Daylight: Zentraaleuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Bucharest,
-    Value: {
-      Generic: Oosteuropääsch Tiet,
-      Standard: Oosteuropääsch Standardtiet,
-      Daylight: Oosteuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Budapest,
-    Value: {
-      Generic: Zentraaleuropääsch Tiet,
-      Standard: Zentraaleuropääsch Standardtiet,
-      Daylight: Zentraaleuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Busingen,
-    Value: {
-      Generic: Zentraaleuropääsch Tiet,
-      Standard: Zentraaleuropääsch Standardtiet,
-      Daylight: Zentraaleuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Chisinau,
-    Value: {
-      Generic: Oosteuropääsch Tiet,
-      Standard: Oosteuropääsch Standardtiet,
-      Daylight: Oosteuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Copenhagen,
-    Value: {
-      Generic: Zentraaleuropääsch Tiet,
-      Standard: Zentraaleuropääsch Standardtiet,
-      Daylight: Zentraaleuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Dublin,
-    Value: {
-      Generic: Gröönwisch-Welttiet,
-      Standard: Gröönwisch-Welttiet,
-      Daylight: Gröönwisch-Welttiet
-    }
-  },
-  {
-    Key: Europe/Gibraltar,
-    Value: {
-      Generic: Zentraaleuropääsch Tiet,
-      Standard: Zentraaleuropääsch Standardtiet,
-      Daylight: Zentraaleuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Guernsey,
-    Value: {
-      Generic: Gröönwisch-Welttiet,
-      Standard: Gröönwisch-Welttiet,
-      Daylight: Gröönwisch-Welttiet
-    }
-  },
-  {
-    Key: Europe/Helsinki,
-    Value: {
-      Generic: Oosteuropääsch Tiet,
-      Standard: Oosteuropääsch Standardtiet,
-      Daylight: Oosteuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Isle_of_Man,
-    Value: {
-      Generic: Gröönwisch-Welttiet,
-      Standard: Gröönwisch-Welttiet,
-      Daylight: Gröönwisch-Welttiet
-    }
-  },
-  {
-    Key: Europe/Istanbul,
-    Value: {
-      Generic: Törkei-Tiet,
-      Standard: Törkei-Standardtiet,
-      Daylight: Törkei-Summertiet
-    }
-  },
-  {
-    Key: Europe/Jersey,
-    Value: {
-      Generic: Gröönwisch-Welttiet,
-      Standard: Gröönwisch-Welttiet,
-      Daylight: Gröönwisch-Welttiet
-    }
-  },
-  {
-    Key: Europe/Kaliningrad,
-    Value: {
-      Generic: Kaliningrad-Tiet,
-      Standard: Kaliningrad-Standardtiet,
-      Daylight: Kaliningrad-Summertiet
-    }
-  },
-  {
-    Key: Europe/Kiev,
-    Value: {
-      Generic: Oosteuropääsch Tiet,
-      Standard: Oosteuropääsch Standardtiet,
-      Daylight: Oosteuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Kirov,
-    Value: {
-      Generic: Kirov-Tiet,
-      Standard: Kirov-Standardtiet,
-      Daylight: Kirov-Summertiet
-    }
-  },
-  {
-    Key: Europe/Kyiv,
-    Value: {
-      Generic: Ukraine-Tiet,
-      Standard: Ukraine-Standardtiet,
-      Daylight: Ukraine-Summertiet
-    }
-  },
-  {
-    Key: Europe/Lisbon,
-    Value: {
-      Generic: Westeuropääsch Tiet,
-      Standard: Westeuropääsch Standardtiet,
-      Daylight: Westeuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Ljubljana,
-    Value: {
-      Generic: Zentraaleuropääsch Tiet,
-      Standard: Zentraaleuropääsch Standardtiet,
-      Daylight: Zentraaleuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/London,
-    Value: {
-      Generic: Gröönwisch-Welttiet,
-      Standard: Gröönwisch-Welttiet,
-      Daylight: Gröönwisch-Welttiet
-    }
-  },
-  {
-    Key: Europe/Luxembourg,
-    Value: {
-      Generic: Zentraaleuropääsch Tiet,
-      Standard: Zentraaleuropääsch Standardtiet,
-      Daylight: Zentraaleuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Madrid,
-    Value: {
-      Generic: Zentraaleuropääsch Tiet,
-      Standard: Zentraaleuropääsch Standardtiet,
-      Daylight: Zentraaleuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Malta,
-    Value: {
-      Generic: Zentraaleuropääsch Tiet,
-      Standard: Zentraaleuropääsch Standardtiet,
-      Daylight: Zentraaleuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Mariehamn,
-    Value: {
-      Generic: Oosteuropääsch Tiet,
-      Standard: Oosteuropääsch Standardtiet,
-      Daylight: Oosteuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Minsk,
-    Value: {
-      Generic: Moskau-Tiet,
-      Standard: Moskau-Standardtiet,
-      Daylight: Moskau-Summertiet
-    }
-  },
-  {
-    Key: Europe/Monaco,
-    Value: {
-      Generic: Zentraaleuropääsch Tiet,
-      Standard: Zentraaleuropääsch Standardtiet,
-      Daylight: Zentraaleuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Moscow,
-    Value: {
-      Generic: Moskau-Tiet,
-      Standard: Moskau-Standardtiet,
-      Daylight: Moskau-Summertiet
-    }
-  },
-  {
-    Key: Europe/Nicosia,
-    Value: {
-      Generic: Oosteuropääsch Tiet,
-      Standard: Oosteuropääsch Standardtiet,
-      Daylight: Oosteuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Oslo,
-    Value: {
-      Generic: Zentraaleuropääsch Tiet,
-      Standard: Zentraaleuropääsch Standardtiet,
-      Daylight: Zentraaleuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Paris,
-    Value: {
-      Generic: Zentraaleuropääsch Tiet,
-      Standard: Zentraaleuropääsch Standardtiet,
-      Daylight: Zentraaleuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Podgorica,
-    Value: {
-      Generic: Zentraaleuropääsch Tiet,
-      Standard: Zentraaleuropääsch Standardtiet,
-      Daylight: Zentraaleuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Prague,
-    Value: {
-      Generic: Zentraaleuropääsch Tiet,
-      Standard: Zentraaleuropääsch Standardtiet,
-      Daylight: Zentraaleuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Riga,
-    Value: {
-      Generic: Oosteuropääsch Tiet,
-      Standard: Oosteuropääsch Standardtiet,
-      Daylight: Oosteuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Rome,
-    Value: {
-      Generic: Zentraaleuropääsch Tiet,
-      Standard: Zentraaleuropääsch Standardtiet,
-      Daylight: Zentraaleuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Samara,
-    Value: {
-      Generic: Samara-Tiet,
-      Standard: Samara-Standardtiet,
-      Daylight: Samara-Summertiet
-    }
-  },
-  {
-    Key: Europe/San_Marino,
-    Value: {
-      Generic: Zentraaleuropääsch Tiet,
-      Standard: Zentraaleuropääsch Standardtiet,
-      Daylight: Zentraaleuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Sarajevo,
-    Value: {
-      Generic: Zentraaleuropääsch Tiet,
-      Standard: Zentraaleuropääsch Standardtiet,
-      Daylight: Zentraaleuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Saratov,
-    Value: {
-      Generic: Saratov-Tiet,
-      Standard: Saratov-Standardtiet,
-      Daylight: Saratov-Summertiet
-    }
-  },
-  {
-    Key: Europe/Simferopol,
-    Value: {
-      Generic: Moskau-Tiet,
-      Standard: Moskau-Standardtiet,
-      Daylight: Moskau-Summertiet
-    }
-  },
-  {
-    Key: Europe/Skopje,
-    Value: {
-      Generic: Zentraaleuropääsch Tiet,
-      Standard: Zentraaleuropääsch Standardtiet,
-      Daylight: Zentraaleuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Sofia,
-    Value: {
-      Generic: Oosteuropääsch Tiet,
-      Standard: Oosteuropääsch Standardtiet,
-      Daylight: Oosteuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Stockholm,
-    Value: {
-      Generic: Zentraaleuropääsch Tiet,
-      Standard: Zentraaleuropääsch Standardtiet,
-      Daylight: Zentraaleuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Tallinn,
-    Value: {
-      Generic: Oosteuropääsch Tiet,
-      Standard: Oosteuropääsch Standardtiet,
-      Daylight: Oosteuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Tirane,
-    Value: {
-      Generic: Zentraaleuropääsch Tiet,
-      Standard: Zentraaleuropääsch Standardtiet,
-      Daylight: Zentraaleuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Tiraspol,
-    Value: {
-      Generic: Oosteuropääsch Tiet,
-      Standard: Oosteuropääsch Standardtiet,
-      Daylight: Oosteuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Ulyanovsk,
-    Value: {
-      Generic: Ulyanovsk-Tiet,
-      Standard: Ulyanovsk-Standardtiet,
-      Daylight: Ulyanovsk-Summertiet
-    }
-  },
-  {
-    Key: Europe/Uzhgorod,
-    Value: {
-      Generic: Oosteuropääsch Tiet,
-      Standard: Oosteuropääsch Standardtiet,
-      Daylight: Oosteuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Vaduz,
-    Value: {
-      Generic: Zentraaleuropääsch Tiet,
-      Standard: Zentraaleuropääsch Standardtiet,
-      Daylight: Zentraaleuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Vatican,
-    Value: {
-      Generic: Zentraaleuropääsch Tiet,
-      Standard: Zentraaleuropääsch Standardtiet,
-      Daylight: Zentraaleuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Vienna,
-    Value: {
-      Generic: Zentraaleuropääsch Tiet,
-      Standard: Zentraaleuropääsch Standardtiet,
-      Daylight: Zentraaleuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Vilnius,
-    Value: {
-      Generic: Oosteuropääsch Tiet,
-      Standard: Oosteuropääsch Standardtiet,
-      Daylight: Oosteuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Volgograd,
-    Value: {
-      Generic: Wolgograd-Tiet,
-      Standard: Wolgograd-Standardtiet,
-      Daylight: Wolgograd-Summertiet
-    }
-  },
-  {
-    Key: Europe/Warsaw,
-    Value: {
-      Generic: Zentraaleuropääsch Tiet,
-      Standard: Zentraaleuropääsch Standardtiet,
-      Daylight: Zentraaleuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Zagreb,
-    Value: {
-      Generic: Zentraaleuropääsch Tiet,
-      Standard: Zentraaleuropääsch Standardtiet,
-      Daylight: Zentraaleuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Zaporozhye,
-    Value: {
-      Generic: Oosteuropääsch Tiet,
-      Standard: Oosteuropääsch Standardtiet,
-      Daylight: Oosteuropääsch Summertiet
-    }
-  },
-  {
-    Key: Europe/Zurich,
-    Value: {
-      Generic: Zentraaleuropääsch Tiet,
-      Standard: Zentraaleuropääsch Standardtiet,
-      Daylight: Zentraaleuropääsch Summertiet
-    }
-  },
-  {
-    Key: GB,
-    Value: {
-      Generic: Gröönwisch-Welttiet,
-      Standard: Gröönwisch-Welttiet,
-      Daylight: Gröönwisch-Welttiet
-    }
-  },
-  {
-    Key: GB-Eire,
-    Value: {
-      Generic: Gröönwisch-Welttiet,
-      Standard: Gröönwisch-Welttiet,
-      Daylight: Gröönwisch-Welttiet
-    }
-  },
-  {
-    Key: GMT,
-    Value: {
-      Generic: Gröönwisch-Welttiet,
-      Standard: Gröönwisch-Welttiet,
-      Daylight: Gröönwisch-Welttiet
-    }
-  },
-  {
-    Key: GMT-0,
-    Value: {
-      Generic: Gröönwisch-Welttiet,
-      Standard: Gröönwisch-Welttiet,
-      Daylight: Gröönwisch-Welttiet
-    }
-  },
-  {
-    Key: GMT+0,
-    Value: {
-      Generic: Gröönwisch-Welttiet,
-      Standard: Gröönwisch-Welttiet,
-      Daylight: Gröönwisch-Welttiet
-    }
-  },
-  {
-    Key: GMT0,
-    Value: {
-      Generic: Gröönwisch-Welttiet,
-      Standard: Gröönwisch-Welttiet,
-      Daylight: Gröönwisch-Welttiet
-    }
-  },
-  {
-    Key: Greenwich,
-    Value: {
-      Generic: Gröönwisch-Welttiet,
-      Standard: Gröönwisch-Welttiet,
-      Daylight: Gröönwisch-Welttiet
-    }
-  },
-  {
-    Key: Hongkong,
-    Value: {
-      Generic: Sünnerverwaltensrebeet Hongkong-Tiet,
-      Standard: Sünnerverwaltensrebeet Hongkong-Standardtiet,
-      Daylight: Sünnerverwaltensrebeet Hongkong-Summertiet
-    }
-  },
-  {
-    Key: HST,
-    Value: {
-      Generic: UTC-Tiet -10,
-      Standard: UTC-Standardtiet -10,
-      Daylight: UTC-Summertiet -10
-    }
-  },
-  {
-    Key: Iceland,
-    Value: {
-      Generic: Gröönwisch-Welttiet,
-      Standard: Gröönwisch-Welttiet,
-      Daylight: Gröönwisch-Welttiet
-    }
-  },
-  {
-    Key: Indian/Antananarivo,
-    Value: {
-      Generic: Oostafrikaansch Tiet,
-      Standard: Oostafrikaansch Tiet,
-      Daylight: Oostafrikaansch Tiet
-    }
-  },
-  {
-    Key: Indian/Chagos,
-    Value: {
-      Generic: Britisch Rebeed in’n Indischen Ozean-Tiet,
-      Standard: Britisch Rebeed in’n Indischen Ozean-Standardtiet,
-      Daylight: Britisch Rebeed in’n Indischen Ozean-Summertiet
-    }
-  },
-  {
-    Key: Indian/Christmas,
-    Value: {
-      Generic: Wiehnachtseiland-Tiet,
-      Standard: Wiehnachtseiland-Standardtiet,
-      Daylight: Wiehnachtseiland-Summertiet
-    }
-  },
-  {
-    Key: Indian/Cocos,
-    Value: {
-      Generic: Kokos-Eilannen-Tiet,
-      Standard: Kokos-Eilannen-Standardtiet,
-      Daylight: Kokos-Eilannen-Summertiet
-    }
-  },
-  {
-    Key: Indian/Comoro,
-    Value: {
-      Generic: Oostafrikaansch Tiet,
-      Standard: Oostafrikaansch Tiet,
-      Daylight: Oostafrikaansch Tiet
-    }
-  },
-  {
-    Key: Indian/Kerguelen,
-    Value: {
-      Generic: Franzöösche Süüd- un Antarktisrebeden-Tiet,
-      Standard: Franzöösche Süüd- un Antarktisrebeden-Standardtiet,
-      Daylight: Franzöösche Süüd- un Antarktisrebeden-Summertiet
-    }
-  },
-  {
-    Key: Indian/Mahe,
-    Value: {
-      Generic: Seychellen-Tiet,
-      Standard: Seychellen-Standardtiet,
-      Daylight: Seychellen-Summertiet
-    }
-  },
-  {
-    Key: Indian/Maldives,
-    Value: {
-      Generic: Malediven-Tiet,
-      Standard: Malediven-Standardtiet,
-      Daylight: Malediven-Summertiet
-    }
-  },
-  {
-    Key: Indian/Mauritius,
-    Value: {
-      Generic: Mauritius-Tiet,
-      Standard: Mauritius-Standardtiet,
-      Daylight: Mauritius-Summertiet
-    }
-  },
-  {
-    Key: Indian/Mayotte,
-    Value: {
-      Generic: Oostafrikaansch Tiet,
-      Standard: Oostafrikaansch Tiet,
-      Daylight: Oostafrikaansch Tiet
-    }
-  },
-  {
-    Key: Indian/Reunion,
-    Value: {
-      Generic: Reunion-Tiet,
-      Standard: Reunion-Standardtiet,
-      Daylight: Reunion-Summertiet
-    }
-  },
-  {
-    Key: Iran,
-    Value: {
-      Generic: Iran-Tiet,
-      Standard: Iran-Standardtiet,
-      Daylight: Iran-Summertiet
-    }
-  },
-  {
-    Key: Israel,
-    Value: {
-      Generic: Israel-Tiet,
-      Standard: Israel-Standardtiet,
-      Daylight: Israel-Summertiet
-    }
-  },
-  {
-    Key: Jamaica,
-    Value: {
-      Generic: Noordamerikaansch oosten Tiet,
-      Standard: Noordamerikaansch oosten Standardtiet,
-      Daylight: Noordamerikaansch oosten Summertiet
-    }
-  },
-  {
-    Key: Japan,
-    Value: {
-      Generic: Japaansch Tiet,
-      Standard: Japaansch Standardtiet,
-      Daylight: Japaansch Summertiet
-    }
-  },
-  {
-    Key: Kwajalein,
-    Value: {
-      Generic: Marshall-Eilannen-Tiet,
-      Standard: Marshall-Eilannen-Standardtiet,
-      Daylight: Marshall-Eilannen-Summertiet
-    }
-  },
-  {
-    Key: Libya,
-    Value: {
-      Generic: Oosteuropääsch Tiet,
-      Standard: Oosteuropääsch Standardtiet,
-      Daylight: Oosteuropääsch Summertiet
-    }
-  },
-  {
-    Key: MET,
-    Value: {
-      Generic: Zentraaleuropääsch Tiet,
-      Standard: Zentraaleuropääsch Standardtiet,
-      Daylight: Zentraaleuropääsch Summertiet
-    }
-  },
-  {
-    Key: Mexico/BajaNorte,
-    Value: {
-      Generic: Noordamerikaansch Pazifiktiet,
-      Standard: Noordamerikaansch Pazifik-Standardtiet,
-      Daylight: Noordamerikaansch Pazifik-Summertiet
-    }
-  },
-  {
-    Key: Mexico/BajaSur,
-    Value: {
-      Generic: Mexiko-Tiet,
-      Standard: Mexiko-Standardtiet,
-      Daylight: Mexiko-Summertiet
-    }
-  },
-  {
-    Key: Mexico/General,
-    Value: {
-      Generic: Noordamerikaansch Zentraaltiet,
-      Standard: Noordamerikaansch zentraal Standardtiet,
-      Daylight: Noordamerikaansch zentraal Summertiet
-    }
-  },
-  {
-    Key: MST,
-    Value: {
-      Generic: UTC-Tiet -7,
-      Standard: UTC-Standardtiet -7,
-      Daylight: UTC-Summertiet -7
-    }
-  },
-  {
-    Key: MST7MDT,
-    Value: {
-      Generic: Noordamerikaansch Bargtiet,
-      Standard: Noordamerikaansch Barg-Standardtiet,
-      Daylight: Noordamerikaansch Barg-Summertiet
-    }
-  },
-  {
-    Key: Navajo,
-    Value: {
-      Generic: Noordamerikaansch Bargtiet,
-      Standard: Noordamerikaansch Barg-Standardtiet,
-      Daylight: Noordamerikaansch Barg-Summertiet
-    }
-  },
-  {
-    Key: NZ,
-    Value: {
-      Generic: Neeseeland-Tiet,
-      Standard: Neeseeland-Standardtiet,
-      Daylight: Neeseeland-Summertiet
-    }
-  },
-  {
-    Key: NZ-CHAT,
-    Value: {
-      Generic: Neeseeland-Tiet,
-      Standard: Neeseeland-Standardtiet,
-      Daylight: Neeseeland-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Apia,
-    Value: {
-      Generic: Samoa-Tiet,
-      Standard: Samoa-Standardtiet,
-      Daylight: Samoa-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Auckland,
-    Value: {
-      Generic: Neeseeland-Tiet,
-      Standard: Neeseeland-Standardtiet,
-      Daylight: Neeseeland-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Bougainville,
-    Value: {
-      Generic: Papua-Neeguinea-Tiet,
-      Standard: Papua-Neeguinea-Standardtiet,
-      Daylight: Papua-Neeguinea-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Chatham,
-    Value: {
-      Generic: Neeseeland-Tiet,
-      Standard: Neeseeland-Standardtiet,
-      Daylight: Neeseeland-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Chuuk,
-    Value: {
-      Generic: Mikronesien-Tiet,
-      Standard: Mikronesien-Standardtiet,
-      Daylight: Mikronesien-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Easter,
-    Value: {
-      Generic: Chile-Tiet,
-      Standard: Chile-Standardtiet,
-      Daylight: Chile-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Efate,
-    Value: {
-      Generic: Vanuatu-Tiet,
-      Standard: Vanuatu-Standardtiet,
-      Daylight: Vanuatu-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Enderbury,
-    Value: {
-      Generic: Kiribati-Tiet,
-      Standard: Kiribati-Standardtiet,
-      Daylight: Kiribati-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Fakaofo,
-    Value: {
-      Generic: Tokelau-Tiet,
-      Standard: Tokelau-Standardtiet,
-      Daylight: Tokelau-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Fiji,
-    Value: {
-      Generic: Fidschi-Tiet,
-      Standard: Fidschi-Standardtiet,
-      Daylight: Fidschi-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Funafuti,
-    Value: {
-      Generic: Tuvalu-Tiet,
-      Standard: Tuvalu-Standardtiet,
-      Daylight: Tuvalu-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Galapagos,
-    Value: {
-      Generic: Ecuador-Tiet,
-      Standard: Ecuador-Standardtiet,
-      Daylight: Ecuador-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Gambier,
-    Value: {
-      Generic: Franzöösch-Polynesien-Tiet,
-      Standard: Franzöösch-Polynesien-Standardtiet,
-      Daylight: Franzöösch-Polynesien-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Guadalcanal,
-    Value: {
-      Generic: Salomonen-Tiet,
-      Standard: Salomonen-Standardtiet,
-      Daylight: Salomonen-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Guam,
-    Value: {
-      Generic: Guam-Tiet,
-      Standard: Guam-Standardtiet,
-      Daylight: Guam-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Honolulu,
-    Value: {
-      Generic: USA-Tiet,
-      Standard: USA-Standardtiet,
-      Daylight: USA-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Johnston,
-    Value: {
-      Generic: Johnston-Tiet,
-      Standard: Johnston-Standardtiet,
-      Daylight: Johnston-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Kanton,
-    Value: {
-      Generic: Kiribati-Tiet,
-      Standard: Kiribati-Standardtiet,
-      Daylight: Kiribati-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Kiritimati,
-    Value: {
-      Generic: Kiribati-Tiet,
-      Standard: Kiribati-Standardtiet,
-      Daylight: Kiribati-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Kosrae,
-    Value: {
-      Generic: Mikronesien-Tiet,
-      Standard: Mikronesien-Standardtiet,
-      Daylight: Mikronesien-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Kwajalein,
-    Value: {
-      Generic: Marshall-Eilannen-Tiet,
-      Standard: Marshall-Eilannen-Standardtiet,
-      Daylight: Marshall-Eilannen-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Majuro,
-    Value: {
-      Generic: Marshall-Eilannen-Tiet,
-      Standard: Marshall-Eilannen-Standardtiet,
-      Daylight: Marshall-Eilannen-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Marquesas,
-    Value: {
-      Generic: Franzöösch-Polynesien-Tiet,
-      Standard: Franzöösch-Polynesien-Standardtiet,
-      Daylight: Franzöösch-Polynesien-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Midway,
-    Value: {
-      Generic: Amerikaansch-Ozeanien-Tiet,
-      Standard: Amerikaansch-Ozeanien-Standardtiet,
-      Daylight: Amerikaansch-Ozeanien-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Nauru,
-    Value: {
-      Generic: Nauru-Tiet,
-      Standard: Nauru-Standardtiet,
-      Daylight: Nauru-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Niue,
-    Value: {
-      Generic: Niue-Tiet,
-      Standard: Niue-Standardtiet,
-      Daylight: Niue-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Norfolk,
-    Value: {
-      Generic: Norfolk-Tiet,
-      Standard: Norfolk-Standardtiet,
-      Daylight: Norfolk-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Noumea,
-    Value: {
-      Generic: Neekaledonien-Tiet,
-      Standard: Neekaledonien-Standardtiet,
-      Daylight: Neekaledonien-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Pago_Pago,
-    Value: {
-      Generic: Amerikaansch-Samoa-Tiet,
-      Standard: Amerikaansch-Samoa-Standardtiet,
-      Daylight: Amerikaansch-Samoa-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Palau,
-    Value: {
-      Generic: Palau-Tiet,
-      Standard: Palau-Standardtiet,
-      Daylight: Palau-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Pitcairn,
-    Value: {
-      Generic: Pitcairn-Tiet,
-      Standard: Pitcairn-Standardtiet,
-      Daylight: Pitcairn-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Pohnpei,
-    Value: {
-      Generic: Mikronesien-Tiet,
-      Standard: Mikronesien-Standardtiet,
-      Daylight: Mikronesien-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Ponape,
-    Value: {
-      Generic: Mikronesien-Tiet,
-      Standard: Mikronesien-Standardtiet,
-      Daylight: Mikronesien-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Port_Moresby,
-    Value: {
-      Generic: Papua-Neeguinea-Tiet,
-      Standard: Papua-Neeguinea-Standardtiet,
-      Daylight: Papua-Neeguinea-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Rarotonga,
-    Value: {
-      Generic: Cook-Eilannen-Tiet,
-      Standard: Cook-Eilannen-Standardtiet,
-      Daylight: Cook-Eilannen-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Saipan,
-    Value: {
-      Generic: Nöördliche Marianen-Tiet,
-      Standard: Nöördliche Marianen-Standardtiet,
-      Daylight: Nöördliche Marianen-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Samoa,
-    Value: {
-      Generic: Amerikaansch-Samoa-Tiet,
-      Standard: Amerikaansch-Samoa-Standardtiet,
-      Daylight: Amerikaansch-Samoa-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Tahiti,
-    Value: {
-      Generic: Franzöösch-Polynesien-Tiet,
-      Standard: Franzöösch-Polynesien-Standardtiet,
-      Daylight: Franzöösch-Polynesien-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Tarawa,
-    Value: {
-      Generic: Kiribati-Tiet,
-      Standard: Kiribati-Standardtiet,
-      Daylight: Kiribati-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Tongatapu,
-    Value: {
-      Generic: Tonga-Tiet,
-      Standard: Tonga-Standardtiet,
-      Daylight: Tonga-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Truk,
-    Value: {
-      Generic: Mikronesien-Tiet,
-      Standard: Mikronesien-Standardtiet,
-      Daylight: Mikronesien-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Wake,
-    Value: {
-      Generic: Amerikaansch-Ozeanien-Tiet,
-      Standard: Amerikaansch-Ozeanien-Standardtiet,
-      Daylight: Amerikaansch-Ozeanien-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Wallis,
-    Value: {
-      Generic: Wallis un Futuna-Tiet,
-      Standard: Wallis un Futuna-Standardtiet,
-      Daylight: Wallis un Futuna-Summertiet
-    }
-  },
-  {
-    Key: Pacific/Yap,
-    Value: {
-      Generic: Mikronesien-Tiet,
-      Standard: Mikronesien-Standardtiet,
-      Daylight: Mikronesien-Summertiet
-    }
-  },
-  {
-    Key: Poland,
-    Value: {
-      Generic: Zentraaleuropääsch Tiet,
-      Standard: Zentraaleuropääsch Standardtiet,
-      Daylight: Zentraaleuropääsch Summertiet
-    }
-  },
-  {
-    Key: Portugal,
-    Value: {
-      Generic: Westeuropääsch Tiet,
-      Standard: Westeuropääsch Standardtiet,
-      Daylight: Westeuropääsch Summertiet
-    }
-  },
-  {
-    Key: PRC,
-    Value: {
-      Generic: China-Tiet,
-      Standard: China-Standardtiet,
-      Daylight: China-Summertiet
-    }
-  },
-  {
-    Key: PST8PDT,
-    Value: {
-      Generic: Noordamerikaansch Pazifiktiet,
-      Standard: Noordamerikaansch Pazifik-Standardtiet,
-      Daylight: Noordamerikaansch Pazifik-Summertiet
-    }
-  },
-  {
-    Key: ROC,
-    Value: {
-      Generic: Taiwan-Tiet,
-      Standard: Taiwan-Standardtiet,
-      Daylight: Taiwan-Summertiet
-    }
-  },
-  {
-    Key: ROK,
-    Value: {
-      Generic: Koreaansch Tiet,
-      Standard: Koreaansch Standardtiet,
-      Daylight: Koreaansch Summertiet
-    }
-  },
-  {
-    Key: Singapore,
-    Value: {
-      Generic: Singapur-Tiet,
-      Standard: Singapur-Standardtiet,
-      Daylight: Singapur-Summertiet
-    }
-  },
-  {
-    Key: Turkey,
-    Value: {
-      Generic: Törkei-Tiet,
-      Standard: Törkei-Standardtiet,
-      Daylight: Törkei-Summertiet
-    }
-  },
-  {
-    Key: UCT,
-    Value: {
-      Generic: UTC-Tiet,
-      Standard: UTC-Standardtiet,
-      Daylight: UTC-Summertiet
-    }
-  },
-  {
-    Key: Universal,
-    Value: {
-      Generic: UTC-Tiet,
-      Standard: UTC-Standardtiet,
-      Daylight: UTC-Summertiet
-    }
-  },
-  {
-    Key: US/Alaska,
-    Value: {
-      Generic: USA-Tiet,
-      Standard: USA-Standardtiet,
-      Daylight: USA-Summertiet
-    }
-  },
-  {
-    Key: US/Aleutian,
-    Value: {
-      Generic: USA-Tiet,
-      Standard: USA-Standardtiet,
-      Daylight: USA-Summertiet
-    }
-  },
-  {
-    Key: US/Arizona,
-    Value: {
-      Generic: Noordamerikaansch Bargtiet,
-      Standard: Noordamerikaansch Barg-Standardtiet,
-      Daylight: Noordamerikaansch Barg-Summertiet
-    }
-  },
-  {
-    Key: US/Central,
-    Value: {
-      Generic: Noordamerikaansch Zentraaltiet,
-      Standard: Noordamerikaansch zentraal Standardtiet,
-      Daylight: Noordamerikaansch zentraal Summertiet
-    }
-  },
-  {
-    Key: US/East-Indiana,
-    Value: {
-      Generic: Noordamerikaansch oosten Tiet,
-      Standard: Noordamerikaansch oosten Standardtiet,
-      Daylight: Noordamerikaansch oosten Summertiet
-    }
-  },
-  {
-    Key: US/Eastern,
-    Value: {
-      Generic: Noordamerikaansch oosten Tiet,
-      Standard: Noordamerikaansch oosten Standardtiet,
-      Daylight: Noordamerikaansch oosten Summertiet
-    }
-  },
-  {
-    Key: US/Hawaii,
-    Value: {
-      Generic: USA-Tiet,
-      Standard: USA-Standardtiet,
-      Daylight: USA-Summertiet
-    }
-  },
-  {
-    Key: US/Indiana-Starke,
-    Value: {
-      Generic: Noordamerikaansch Zentraaltiet,
-      Standard: Noordamerikaansch zentraal Standardtiet,
-      Daylight: Noordamerikaansch zentraal Summertiet
-    }
-  },
-  {
-    Key: US/Michigan,
-    Value: {
-      Generic: Noordamerikaansch oosten Tiet,
-      Standard: Noordamerikaansch oosten Standardtiet,
-      Daylight: Noordamerikaansch oosten Summertiet
-    }
-  },
-  {
-    Key: US/Mountain,
-    Value: {
-      Generic: Noordamerikaansch Bargtiet,
-      Standard: Noordamerikaansch Barg-Standardtiet,
-      Daylight: Noordamerikaansch Barg-Summertiet
-    }
-  },
-  {
-    Key: US/Pacific,
-    Value: {
-      Generic: Noordamerikaansch Pazifiktiet,
-      Standard: Noordamerikaansch Pazifik-Standardtiet,
-      Daylight: Noordamerikaansch Pazifik-Summertiet
-    }
-  },
-  {
-    Key: US/Samoa,
-    Value: {
-      Generic: Amerikaansch-Samoa-Tiet,
-      Standard: Amerikaansch-Samoa-Standardtiet,
-      Daylight: Amerikaansch-Samoa-Summertiet
-    }
-  },
-  {
-    Key: UTC,
-    Value: {
-      Generic: UTC-Tiet,
-      Standard: UTC-Standardtiet,
-      Daylight: UTC-Summertiet
-    }
-  },
-  {
-    Key: W-SU,
-    Value: {
-      Generic: Moskau-Tiet,
-      Standard: Moskau-Standardtiet,
-      Daylight: Moskau-Summertiet
-    }
-  },
-  {
-    Key: WET,
-    Value: {
-      Generic: Westeuropääsch Tiet,
-      Standard: Westeuropääsch Standardtiet,
-      Daylight: Westeuropääsch Summertiet
-    }
-  },
-  {
-    Key: Zulu,
-    Value: {
-      Generic: UTC-Tiet,
-      Standard: UTC-Standardtiet,
-      Daylight: UTC-Summertiet
-    }
+﻿{
+  Australia/Darwin: {
+    Generic: Zentraalaustraalsch Tiet,
+    Standard: Zentraalaustraalsch Standardtiet,
+    Daylight: Zentraalaustraalsch Summertiet
+  },
+  Australia/Sydney: {
+    Generic: Oostaustraalsch Tiet,
+    Standard: Oostaustraalsch Standardtiet,
+    Daylight: Oostaustraalsch Summertiet
+  },
+  Australia/Melbourne: {
+    Generic: Oostaustraalsch Tiet,
+    Standard: Oostaustraalsch Standardtiet,
+    Daylight: Oostaustraalsch Summertiet
+  },
+  Asia/Kabul: {
+    Generic: Afghanistan-Tiet,
+    Standard: Afghanistan-Standardtiet,
+    Daylight: Afghanistan-Summertiet
+  },
+  America/Anchorage: {
+    Generic: USA-Tiet,
+    Standard: USA-Standardtiet,
+    Daylight: USA-Summertiet
+  },
+  America/Juneau: {
+    Generic: USA-Tiet,
+    Standard: USA-Standardtiet,
+    Daylight: USA-Summertiet
+  },
+  America/Metlakatla: {
+    Generic: USA-Tiet,
+    Standard: USA-Standardtiet,
+    Daylight: USA-Summertiet
+  },
+  America/Nome: {
+    Generic: USA-Tiet,
+    Standard: USA-Standardtiet,
+    Daylight: USA-Summertiet
+  },
+  America/Sitka: {
+    Generic: USA-Tiet,
+    Standard: USA-Standardtiet,
+    Daylight: USA-Summertiet
+  },
+  America/Yakutat: {
+    Generic: USA-Tiet,
+    Standard: USA-Standardtiet,
+    Daylight: USA-Summertiet
+  },
+  America/Adak: {
+    Generic: USA-Tiet,
+    Standard: USA-Standardtiet,
+    Daylight: USA-Summertiet
+  },
+  Asia/Barnaul: {
+    Generic: Barnaul-Tiet,
+    Standard: Barnaul-Standardtiet,
+    Daylight: Barnaul-Summertiet
+  },
+  Asia/Riyadh: {
+    Generic: Araabsch Tiet,
+    Standard: Araabsch Standardtiet,
+    Daylight: Araabsch Summertiet
+  },
+  Asia/Bahrain: {
+    Generic: Araabsch Tiet,
+    Standard: Araabsch Standardtiet,
+    Daylight: Araabsch Summertiet
+  },
+  Asia/Kuwait: {
+    Generic: Araabsch Tiet,
+    Standard: Araabsch Standardtiet,
+    Daylight: Araabsch Summertiet
+  },
+  Asia/Qatar: {
+    Generic: Araabsch Tiet,
+    Standard: Araabsch Standardtiet,
+    Daylight: Araabsch Summertiet
+  },
+  Asia/Aden: {
+    Generic: Araabsch Tiet,
+    Standard: Araabsch Standardtiet,
+    Daylight: Araabsch Summertiet
+  },
+  Asia/Dubai: {
+    Generic: Vereenigte Araabsche Emiraten-Tiet,
+    Standard: Vereenigte Araabsche Emiraten-Standardtiet,
+    Daylight: Vereenigte Araabsche Emiraten-Summertiet
+  },
+  Asia/Muscat: {
+    Generic: Oman-Tiet,
+    Standard: Oman-Standardtiet,
+    Daylight: Oman-Summertiet
+  },
+  Etc/GMT-4: {
+    Generic: UTC-Tiet +4,
+    Standard: UTC-Standardtiet +4,
+    Daylight: UTC-Summertiet +4
+  },
+  Asia/Baghdad: {
+    Generic: Araabsch Tiet,
+    Standard: Araabsch Standardtiet,
+    Daylight: Araabsch Summertiet
+  },
+  America/Buenos_Aires: {
+    Generic: Argentinien-Tiet,
+    Standard: Argentinien-Standardtiet,
+    Daylight: Argentinien-Summertiet
+  },
+  America/Argentina/La_Rioja: {
+    Generic: Argentinien-Tiet,
+    Standard: Argentinien-Standardtiet,
+    Daylight: Argentinien-Summertiet
+  },
+  America/Argentina/Rio_Gallegos: {
+    Generic: Argentinien-Tiet,
+    Standard: Argentinien-Standardtiet,
+    Daylight: Argentinien-Summertiet
+  },
+  America/Argentina/Salta: {
+    Generic: Argentinien-Tiet,
+    Standard: Argentinien-Standardtiet,
+    Daylight: Argentinien-Summertiet
+  },
+  America/Argentina/San_Juan: {
+    Generic: Argentinien-Tiet,
+    Standard: Argentinien-Standardtiet,
+    Daylight: Argentinien-Summertiet
+  },
+  America/Argentina/San_Luis: {
+    Generic: Argentinien-Tiet,
+    Standard: Argentinien-Standardtiet,
+    Daylight: Argentinien-Summertiet
+  },
+  America/Argentina/Tucuman: {
+    Generic: Argentinien-Tiet,
+    Standard: Argentinien-Standardtiet,
+    Daylight: Argentinien-Summertiet
+  },
+  America/Argentina/Ushuaia: {
+    Generic: Argentinien-Tiet,
+    Standard: Argentinien-Standardtiet,
+    Daylight: Argentinien-Summertiet
+  },
+  America/Catamarca: {
+    Generic: Argentinien-Tiet,
+    Standard: Argentinien-Standardtiet,
+    Daylight: Argentinien-Summertiet
+  },
+  America/Cordoba: {
+    Generic: Argentinien-Tiet,
+    Standard: Argentinien-Standardtiet,
+    Daylight: Argentinien-Summertiet
+  },
+  America/Jujuy: {
+    Generic: Argentinien-Tiet,
+    Standard: Argentinien-Standardtiet,
+    Daylight: Argentinien-Summertiet
+  },
+  America/Mendoza: {
+    Generic: Argentinien-Tiet,
+    Standard: Argentinien-Standardtiet,
+    Daylight: Argentinien-Summertiet
+  },
+  Europe/Astrakhan: {
+    Generic: Astrakhan-Tiet,
+    Standard: Astrakhan-Standardtiet,
+    Daylight: Astrakhan-Summertiet
+  },
+  Europe/Ulyanovsk: {
+    Generic: Ulyanovsk-Tiet,
+    Standard: Ulyanovsk-Standardtiet,
+    Daylight: Ulyanovsk-Summertiet
+  },
+  America/Halifax: {
+    Generic: Noordamerikaansch Atlantiktiet,
+    Standard: Noordamerikaansch Atlantik-Standardtiet,
+    Daylight: Noordamerikaansch Atlantik-Summertiet
+  },
+  Atlantic/Bermuda: {
+    Generic: Noordamerikaansch Atlantiktiet,
+    Standard: Noordamerikaansch Atlantik-Standardtiet,
+    Daylight: Noordamerikaansch Atlantik-Summertiet
+  },
+  America/Glace_Bay: {
+    Generic: Noordamerikaansch Atlantiktiet,
+    Standard: Noordamerikaansch Atlantik-Standardtiet,
+    Daylight: Noordamerikaansch Atlantik-Summertiet
+  },
+  America/Goose_Bay: {
+    Generic: Noordamerikaansch Atlantiktiet,
+    Standard: Noordamerikaansch Atlantik-Standardtiet,
+    Daylight: Noordamerikaansch Atlantik-Summertiet
+  },
+  America/Moncton: {
+    Generic: Noordamerikaansch Atlantiktiet,
+    Standard: Noordamerikaansch Atlantik-Standardtiet,
+    Daylight: Noordamerikaansch Atlantik-Summertiet
+  },
+  America/Thule: {
+    Generic: Noordamerikaansch Atlantiktiet,
+    Standard: Noordamerikaansch Atlantik-Standardtiet,
+    Daylight: Noordamerikaansch Atlantik-Summertiet
+  },
+  Australia/Eucla: {
+    Generic: Westzentraalaustraalsch Tiet,
+    Standard: Westzentraalaustraalsch Standardtiet,
+    Daylight: Westzentraalaustraalsch Summertiet
+  },
+  Asia/Baku: {
+    Generic: Aserbaidschan-Tiet,
+    Standard: Aserbaidschan-Standardtiet,
+    Daylight: Aserbaidschan-Summertiet
+  },
+  Atlantic/Azores: {
+    Generic: Portugal-Tiet,
+    Standard: Portugal-Standardtiet,
+    Daylight: Portugal-Summertiet
+  },
+  America/Scoresbysund: {
+    Generic: Gröönland-Tiet,
+    Standard: Gröönland-Standardtiet,
+    Daylight: Gröönland-Summertiet
+  },
+  America/Bahia: {
+    Generic: Brasilien-Tiet,
+    Standard: Brasilien-Standardtiet,
+    Daylight: Brasilien-Summertiet
+  },
+  Asia/Dhaka: {
+    Generic: Bangladesch-Tiet,
+    Standard: Bangladesch-Standardtiet,
+    Daylight: Bangladesch-Summertiet
+  },
+  Asia/Thimphu: {
+    Generic: Bhutan-Tiet,
+    Standard: Bhutan-Standardtiet,
+    Daylight: Bhutan-Summertiet
+  },
+  Europe/Minsk: {
+    Generic: Moskau-Tiet,
+    Standard: Moskau-Standardtiet,
+    Daylight: Moskau-Summertiet
+  },
+  Pacific/Bougainville: {
+    Generic: Papua-Neeguinea-Tiet,
+    Standard: Papua-Neeguinea-Standardtiet,
+    Daylight: Papua-Neeguinea-Summertiet
+  },
+  America/Regina: {
+    Generic: Noordamerikaansch Zentraaltiet,
+    Standard: Noordamerikaansch zentraal Standardtiet,
+    Daylight: Noordamerikaansch zentraal Summertiet
+  },
+  America/Swift_Current: {
+    Generic: Noordamerikaansch Zentraaltiet,
+    Standard: Noordamerikaansch zentraal Standardtiet,
+    Daylight: Noordamerikaansch zentraal Summertiet
+  },
+  Atlantic/Cape_Verde: {
+    Generic: Kap Verde-Tiet,
+    Standard: Kap Verde-Standardtiet,
+    Daylight: Kap Verde-Summertiet
+  },
+  Etc/GMT+1: {
+    Generic: UTC-Tiet -1,
+    Standard: UTC-Standardtiet -1,
+    Daylight: UTC-Summertiet -1
+  },
+  Asia/Yerevan: {
+    Generic: Armenien-Tiet,
+    Standard: Armenien-Standardtiet,
+    Daylight: Armenien-Summertiet
+  },
+  Australia/Adelaide: {
+    Generic: Zentraalaustraalsch Tiet,
+    Standard: Zentraalaustraalsch Standardtiet,
+    Daylight: Zentraalaustraalsch Summertiet
+  },
+  Australia/Broken_Hill: {
+    Generic: Zentraalaustraalsch Tiet,
+    Standard: Zentraalaustraalsch Standardtiet,
+    Daylight: Zentraalaustraalsch Summertiet
+  },
+  America/Guatemala: {
+    Generic: Noordamerikaansch Zentraaltiet,
+    Standard: Noordamerikaansch zentraal Standardtiet,
+    Daylight: Noordamerikaansch zentraal Summertiet
+  },
+  America/Belize: {
+    Generic: Noordamerikaansch Zentraaltiet,
+    Standard: Noordamerikaansch zentraal Standardtiet,
+    Daylight: Noordamerikaansch zentraal Summertiet
+  },
+  America/Costa_Rica: {
+    Generic: Noordamerikaansch Zentraaltiet,
+    Standard: Noordamerikaansch zentraal Standardtiet,
+    Daylight: Noordamerikaansch zentraal Summertiet
+  },
+  Pacific/Galapagos: {
+    Generic: Ecuador-Tiet,
+    Standard: Ecuador-Standardtiet,
+    Daylight: Ecuador-Summertiet
+  },
+  America/Tegucigalpa: {
+    Generic: Noordamerikaansch Zentraaltiet,
+    Standard: Noordamerikaansch zentraal Standardtiet,
+    Daylight: Noordamerikaansch zentraal Summertiet
+  },
+  America/Managua: {
+    Generic: Noordamerikaansch Zentraaltiet,
+    Standard: Noordamerikaansch zentraal Standardtiet,
+    Daylight: Noordamerikaansch zentraal Summertiet
+  },
+  America/El_Salvador: {
+    Generic: Noordamerikaansch Zentraaltiet,
+    Standard: Noordamerikaansch zentraal Standardtiet,
+    Daylight: Noordamerikaansch zentraal Summertiet
+  },
+  Etc/GMT+6: {
+    Generic: UTC-Tiet -6,
+    Standard: UTC-Standardtiet -6,
+    Daylight: UTC-Summertiet -6
+  },
+  Asia/Almaty: {
+    Generic: Kasachstan-Tiet,
+    Standard: Kasachstan-Standardtiet,
+    Daylight: Kasachstan-Summertiet
+  },
+  Antarctica/Vostok: {
+    Generic: Antarktis-Tiet,
+    Standard: Antarktis-Standardtiet,
+    Daylight: Antarktis-Summertiet
+  },
+  Asia/Urumqi: {
+    Generic: China-Tiet,
+    Standard: China-Standardtiet,
+    Daylight: China-Summertiet
+  },
+  Indian/Chagos: {
+    Generic: Britisch Rebeed in’n Indischen Ozean-Tiet,
+    Standard: Britisch Rebeed in’n Indischen Ozean-Standardtiet,
+    Daylight: Britisch Rebeed in’n Indischen Ozean-Summertiet
+  },
+  Asia/Bishkek: {
+    Generic: Kirgisistan-Tiet,
+    Standard: Kirgisistan-Standardtiet,
+    Daylight: Kirgisistan-Summertiet
+  },
+  Asia/Qostanay: {
+    Generic: Kasachstan-Tiet,
+    Standard: Kasachstan-Standardtiet,
+    Daylight: Kasachstan-Summertiet
+  },
+  Etc/GMT-6: {
+    Generic: UTC-Tiet +6,
+    Standard: UTC-Standardtiet +6,
+    Daylight: UTC-Summertiet +6
+  },
+  America/Cuiaba: {
+    Generic: Brasilien-Tiet,
+    Standard: Brasilien-Standardtiet,
+    Daylight: Brasilien-Summertiet
+  },
+  America/Campo_Grande: {
+    Generic: Brasilien-Tiet,
+    Standard: Brasilien-Standardtiet,
+    Daylight: Brasilien-Summertiet
+  },
+  Europe/Budapest: {
+    Generic: Zentraaleuropääsch Tiet,
+    Standard: Zentraaleuropääsch Standardtiet,
+    Daylight: Zentraaleuropääsch Summertiet
+  },
+  Europe/Tirane: {
+    Generic: Zentraaleuropääsch Tiet,
+    Standard: Zentraaleuropääsch Standardtiet,
+    Daylight: Zentraaleuropääsch Summertiet
+  },
+  Europe/Prague: {
+    Generic: Zentraaleuropääsch Tiet,
+    Standard: Zentraaleuropääsch Standardtiet,
+    Daylight: Zentraaleuropääsch Summertiet
+  },
+  Europe/Podgorica: {
+    Generic: Zentraaleuropääsch Tiet,
+    Standard: Zentraaleuropääsch Standardtiet,
+    Daylight: Zentraaleuropääsch Summertiet
+  },
+  Europe/Belgrade: {
+    Generic: Zentraaleuropääsch Tiet,
+    Standard: Zentraaleuropääsch Standardtiet,
+    Daylight: Zentraaleuropääsch Summertiet
+  },
+  Europe/Ljubljana: {
+    Generic: Zentraaleuropääsch Tiet,
+    Standard: Zentraaleuropääsch Standardtiet,
+    Daylight: Zentraaleuropääsch Summertiet
+  },
+  Europe/Bratislava: {
+    Generic: Zentraaleuropääsch Tiet,
+    Standard: Zentraaleuropääsch Standardtiet,
+    Daylight: Zentraaleuropääsch Summertiet
+  },
+  Europe/Warsaw: {
+    Generic: Zentraaleuropääsch Tiet,
+    Standard: Zentraaleuropääsch Standardtiet,
+    Daylight: Zentraaleuropääsch Summertiet
+  },
+  Europe/Sarajevo: {
+    Generic: Zentraaleuropääsch Tiet,
+    Standard: Zentraaleuropääsch Standardtiet,
+    Daylight: Zentraaleuropääsch Summertiet
+  },
+  Europe/Zagreb: {
+    Generic: Zentraaleuropääsch Tiet,
+    Standard: Zentraaleuropääsch Standardtiet,
+    Daylight: Zentraaleuropääsch Summertiet
+  },
+  Europe/Skopje: {
+    Generic: Zentraaleuropääsch Tiet,
+    Standard: Zentraaleuropääsch Standardtiet,
+    Daylight: Zentraaleuropääsch Summertiet
+  },
+  Pacific/Guadalcanal: {
+    Generic: Salomonen-Tiet,
+    Standard: Salomonen-Standardtiet,
+    Daylight: Salomonen-Summertiet
+  },
+  Antarctica/Casey: {
+    Generic: Antarktis-Tiet,
+    Standard: Antarktis-Standardtiet,
+    Daylight: Antarktis-Summertiet
+  },
+  Pacific/Ponape: {
+    Generic: Mikronesien-Tiet,
+    Standard: Mikronesien-Standardtiet,
+    Daylight: Mikronesien-Summertiet
+  },
+  Pacific/Kosrae: {
+    Generic: Mikronesien-Tiet,
+    Standard: Mikronesien-Standardtiet,
+    Daylight: Mikronesien-Summertiet
+  },
+  Pacific/Noumea: {
+    Generic: Neekaledonien-Tiet,
+    Standard: Neekaledonien-Standardtiet,
+    Daylight: Neekaledonien-Summertiet
+  },
+  Pacific/Efate: {
+    Generic: Vanuatu-Tiet,
+    Standard: Vanuatu-Standardtiet,
+    Daylight: Vanuatu-Summertiet
+  },
+  Etc/GMT-11: {
+    Generic: UTC-Tiet +11,
+    Standard: UTC-Standardtiet +11,
+    Daylight: UTC-Summertiet +11
+  },
+  America/Mexico_City: {
+    Generic: Noordamerikaansch Zentraaltiet,
+    Standard: Noordamerikaansch zentraal Standardtiet,
+    Daylight: Noordamerikaansch zentraal Summertiet
+  },
+  America/Bahia_Banderas: {
+    Generic: Noordamerikaansch Zentraaltiet,
+    Standard: Noordamerikaansch zentraal Standardtiet,
+    Daylight: Noordamerikaansch zentraal Summertiet
+  },
+  America/Merida: {
+    Generic: Noordamerikaansch Zentraaltiet,
+    Standard: Noordamerikaansch zentraal Standardtiet,
+    Daylight: Noordamerikaansch zentraal Summertiet
+  },
+  America/Monterrey: {
+    Generic: Noordamerikaansch Zentraaltiet,
+    Standard: Noordamerikaansch zentraal Standardtiet,
+    Daylight: Noordamerikaansch zentraal Summertiet
+  },
+  America/Chicago: {
+    Generic: Noordamerikaansch Zentraaltiet,
+    Standard: Noordamerikaansch zentraal Standardtiet,
+    Daylight: Noordamerikaansch zentraal Summertiet
+  },
+  America/Winnipeg: {
+    Generic: Noordamerikaansch Zentraaltiet,
+    Standard: Noordamerikaansch zentraal Standardtiet,
+    Daylight: Noordamerikaansch zentraal Summertiet
+  },
+  America/Rainy_River: {
+    Generic: Noordamerikaansch Zentraaltiet,
+    Standard: Noordamerikaansch zentraal Standardtiet,
+    Daylight: Noordamerikaansch zentraal Summertiet
+  },
+  America/Rankin_Inlet: {
+    Generic: Noordamerikaansch Zentraaltiet,
+    Standard: Noordamerikaansch zentraal Standardtiet,
+    Daylight: Noordamerikaansch zentraal Summertiet
+  },
+  America/Resolute: {
+    Generic: Noordamerikaansch Zentraaltiet,
+    Standard: Noordamerikaansch zentraal Standardtiet,
+    Daylight: Noordamerikaansch zentraal Summertiet
+  },
+  America/Matamoros: {
+    Generic: Noordamerikaansch Zentraaltiet,
+    Standard: Noordamerikaansch zentraal Standardtiet,
+    Daylight: Noordamerikaansch zentraal Summertiet
+  },
+  America/Indiana/Knox: {
+    Generic: Noordamerikaansch Zentraaltiet,
+    Standard: Noordamerikaansch zentraal Standardtiet,
+    Daylight: Noordamerikaansch zentraal Summertiet
+  },
+  America/Indiana/Tell_City: {
+    Generic: Noordamerikaansch Zentraaltiet,
+    Standard: Noordamerikaansch zentraal Standardtiet,
+    Daylight: Noordamerikaansch zentraal Summertiet
+  },
+  America/Menominee: {
+    Generic: Noordamerikaansch Zentraaltiet,
+    Standard: Noordamerikaansch zentraal Standardtiet,
+    Daylight: Noordamerikaansch zentraal Summertiet
+  },
+  America/North_Dakota/Beulah: {
+    Generic: Noordamerikaansch Zentraaltiet,
+    Standard: Noordamerikaansch zentraal Standardtiet,
+    Daylight: Noordamerikaansch zentraal Summertiet
+  },
+  America/North_Dakota/Center: {
+    Generic: Noordamerikaansch Zentraaltiet,
+    Standard: Noordamerikaansch zentraal Standardtiet,
+    Daylight: Noordamerikaansch zentraal Summertiet
+  },
+  America/North_Dakota/New_Salem: {
+    Generic: Noordamerikaansch Zentraaltiet,
+    Standard: Noordamerikaansch zentraal Standardtiet,
+    Daylight: Noordamerikaansch zentraal Summertiet
+  },
+  CST6CDT: {
+    Generic: Noordamerikaansch Zentraaltiet,
+    Standard: Noordamerikaansch zentraal Standardtiet,
+    Daylight: Noordamerikaansch zentraal Summertiet
+  },
+  Pacific/Chatham: {
+    Generic: Neeseeland-Tiet,
+    Standard: Neeseeland-Standardtiet,
+    Daylight: Neeseeland-Summertiet
+  },
+  Asia/Shanghai: {
+    Generic: China-Tiet,
+    Standard: China-Standardtiet,
+    Daylight: China-Summertiet
+  },
+  Asia/Hong_Kong: {
+    Generic: Sünnerverwaltensrebeet Hongkong-Tiet,
+    Standard: Sünnerverwaltensrebeet Hongkong-Standardtiet,
+    Daylight: Sünnerverwaltensrebeet Hongkong-Summertiet
+  },
+  Asia/Macau: {
+    Generic: China-Tiet,
+    Standard: China-Standardtiet,
+    Daylight: China-Summertiet
+  },
+  America/Havana: {
+    Generic: Kuba-Tiet,
+    Standard: Kuba-Standardtiet,
+    Daylight: Kuba-Summertiet
+  },
+  Etc/GMT+12: {
+    Generic: UTC-Tiet -12,
+    Standard: UTC-Standardtiet -12,
+    Daylight: UTC-Summertiet -12
+  },
+  Africa/Nairobi: {
+    Generic: Oostafrikaansch Tiet,
+    Standard: Oostafrikaansch Tiet,
+    Daylight: Oostafrikaansch Tiet
+  },
+  Antarctica/Syowa: {
+    Generic: Antarktis-Tiet,
+    Standard: Antarktis-Standardtiet,
+    Daylight: Antarktis-Summertiet
+  },
+  Africa/Djibouti: {
+    Generic: Oostafrikaansch Tiet,
+    Standard: Oostafrikaansch Tiet,
+    Daylight: Oostafrikaansch Tiet
+  },
+  Africa/Asmera: {
+    Generic: Oostafrikaansch Tiet,
+    Standard: Oostafrikaansch Tiet,
+    Daylight: Oostafrikaansch Tiet
+  },
+  Africa/Addis_Ababa: {
+    Generic: Oostafrikaansch Tiet,
+    Standard: Oostafrikaansch Tiet,
+    Daylight: Oostafrikaansch Tiet
+  },
+  Indian/Comoro: {
+    Generic: Oostafrikaansch Tiet,
+    Standard: Oostafrikaansch Tiet,
+    Daylight: Oostafrikaansch Tiet
+  },
+  Indian/Antananarivo: {
+    Generic: Oostafrikaansch Tiet,
+    Standard: Oostafrikaansch Tiet,
+    Daylight: Oostafrikaansch Tiet
+  },
+  Africa/Mogadishu: {
+    Generic: Oostafrikaansch Tiet,
+    Standard: Oostafrikaansch Tiet,
+    Daylight: Oostafrikaansch Tiet
+  },
+  Africa/Dar_es_Salaam: {
+    Generic: Oostafrikaansch Tiet,
+    Standard: Oostafrikaansch Tiet,
+    Daylight: Oostafrikaansch Tiet
+  },
+  Africa/Kampala: {
+    Generic: Oostafrikaansch Tiet,
+    Standard: Oostafrikaansch Tiet,
+    Daylight: Oostafrikaansch Tiet
+  },
+  Indian/Mayotte: {
+    Generic: Oostafrikaansch Tiet,
+    Standard: Oostafrikaansch Tiet,
+    Daylight: Oostafrikaansch Tiet
+  },
+  Etc/GMT-3: {
+    Generic: UTC-Tiet +3,
+    Standard: UTC-Standardtiet +3,
+    Daylight: UTC-Summertiet +3
+  },
+  Australia/Brisbane: {
+    Generic: Oostaustraalsch Tiet,
+    Standard: Oostaustraalsch Standardtiet,
+    Daylight: Oostaustraalsch Summertiet
+  },
+  Australia/Lindeman: {
+    Generic: Oostaustraalsch Tiet,
+    Standard: Oostaustraalsch Standardtiet,
+    Daylight: Oostaustraalsch Summertiet
+  },
+  Europe/Chisinau: {
+    Generic: Oosteuropääsch Tiet,
+    Standard: Oosteuropääsch Standardtiet,
+    Daylight: Oosteuropääsch Summertiet
+  },
+  America/Sao_Paulo: {
+    Generic: Brasilien-Tiet,
+    Standard: Brasilien-Standardtiet,
+    Daylight: Brasilien-Summertiet
+  },
+  Pacific/Easter: {
+    Generic: Chile-Tiet,
+    Standard: Chile-Standardtiet,
+    Daylight: Chile-Summertiet
+  },
+  America/Cancun: {
+    Generic: Noordamerikaansch oosten Tiet,
+    Standard: Noordamerikaansch oosten Standardtiet,
+    Daylight: Noordamerikaansch oosten Summertiet
+  },
+  America/New_York: {
+    Generic: Noordamerikaansch oosten Tiet,
+    Standard: Noordamerikaansch oosten Standardtiet,
+    Daylight: Noordamerikaansch oosten Summertiet
+  },
+  America/Nassau: {
+    Generic: Noordamerikaansch oosten Tiet,
+    Standard: Noordamerikaansch oosten Standardtiet,
+    Daylight: Noordamerikaansch oosten Summertiet
+  },
+  America/Toronto: {
+    Generic: Noordamerikaansch oosten Tiet,
+    Standard: Noordamerikaansch oosten Standardtiet,
+    Daylight: Noordamerikaansch oosten Summertiet
+  },
+  America/Iqaluit: {
+    Generic: Noordamerikaansch oosten Tiet,
+    Standard: Noordamerikaansch oosten Standardtiet,
+    Daylight: Noordamerikaansch oosten Summertiet
+  },
+  America/Montreal: {
+    Generic: Noordamerikaansch oosten Tiet,
+    Standard: Noordamerikaansch oosten Standardtiet,
+    Daylight: Noordamerikaansch oosten Summertiet
+  },
+  America/Nipigon: {
+    Generic: Noordamerikaansch oosten Tiet,
+    Standard: Noordamerikaansch oosten Standardtiet,
+    Daylight: Noordamerikaansch oosten Summertiet
+  },
+  America/Pangnirtung: {
+    Generic: Noordamerikaansch oosten Tiet,
+    Standard: Noordamerikaansch oosten Standardtiet,
+    Daylight: Noordamerikaansch oosten Summertiet
+  },
+  America/Thunder_Bay: {
+    Generic: Noordamerikaansch oosten Tiet,
+    Standard: Noordamerikaansch oosten Standardtiet,
+    Daylight: Noordamerikaansch oosten Summertiet
+  },
+  America/Detroit: {
+    Generic: Noordamerikaansch oosten Tiet,
+    Standard: Noordamerikaansch oosten Standardtiet,
+    Daylight: Noordamerikaansch oosten Summertiet
+  },
+  America/Indiana/Petersburg: {
+    Generic: Noordamerikaansch oosten Tiet,
+    Standard: Noordamerikaansch oosten Standardtiet,
+    Daylight: Noordamerikaansch oosten Summertiet
+  },
+  America/Indiana/Vincennes: {
+    Generic: Noordamerikaansch oosten Tiet,
+    Standard: Noordamerikaansch oosten Standardtiet,
+    Daylight: Noordamerikaansch oosten Summertiet
+  },
+  America/Indiana/Winamac: {
+    Generic: Noordamerikaansch oosten Tiet,
+    Standard: Noordamerikaansch oosten Standardtiet,
+    Daylight: Noordamerikaansch oosten Summertiet
+  },
+  America/Kentucky/Monticello: {
+    Generic: Noordamerikaansch oosten Tiet,
+    Standard: Noordamerikaansch oosten Standardtiet,
+    Daylight: Noordamerikaansch oosten Summertiet
+  },
+  America/Louisville: {
+    Generic: Noordamerikaansch oosten Tiet,
+    Standard: Noordamerikaansch oosten Standardtiet,
+    Daylight: Noordamerikaansch oosten Summertiet
+  },
+  EST5EDT: {
+    Generic: Noordamerikaansch oosten Tiet,
+    Standard: Noordamerikaansch oosten Standardtiet,
+    Daylight: Noordamerikaansch oosten Summertiet
+  },
+  Africa/Cairo: {
+    Generic: Oosteuropääsch Tiet,
+    Standard: Oosteuropääsch Standardtiet,
+    Daylight: Oosteuropääsch Summertiet
+  },
+  Asia/Yekaterinburg: {
+    Generic: Jekaterinborg-Tiet,
+    Standard: Jekaterinborg-Standardtiet,
+    Daylight: Jekaterinborg-Summertiet
+  },
+  Europe/Kiev: {
+    Generic: Oosteuropääsch Tiet,
+    Standard: Oosteuropääsch Standardtiet,
+    Daylight: Oosteuropääsch Summertiet
+  },
+  Europe/Mariehamn: {
+    Generic: Oosteuropääsch Tiet,
+    Standard: Oosteuropääsch Standardtiet,
+    Daylight: Oosteuropääsch Summertiet
+  },
+  Europe/Sofia: {
+    Generic: Oosteuropääsch Tiet,
+    Standard: Oosteuropääsch Standardtiet,
+    Daylight: Oosteuropääsch Summertiet
+  },
+  Europe/Tallinn: {
+    Generic: Oosteuropääsch Tiet,
+    Standard: Oosteuropääsch Standardtiet,
+    Daylight: Oosteuropääsch Summertiet
+  },
+  Europe/Helsinki: {
+    Generic: Oosteuropääsch Tiet,
+    Standard: Oosteuropääsch Standardtiet,
+    Daylight: Oosteuropääsch Summertiet
+  },
+  Europe/Vilnius: {
+    Generic: Oosteuropääsch Tiet,
+    Standard: Oosteuropääsch Standardtiet,
+    Daylight: Oosteuropääsch Summertiet
+  },
+  Europe/Riga: {
+    Generic: Oosteuropääsch Tiet,
+    Standard: Oosteuropääsch Standardtiet,
+    Daylight: Oosteuropääsch Summertiet
+  },
+  Europe/Uzhgorod: {
+    Generic: Oosteuropääsch Tiet,
+    Standard: Oosteuropääsch Standardtiet,
+    Daylight: Oosteuropääsch Summertiet
+  },
+  Europe/Zaporozhye: {
+    Generic: Oosteuropääsch Tiet,
+    Standard: Oosteuropääsch Standardtiet,
+    Daylight: Oosteuropääsch Summertiet
+  },
+  Pacific/Fiji: {
+    Generic: Fidschi-Tiet,
+    Standard: Fidschi-Standardtiet,
+    Daylight: Fidschi-Summertiet
+  },
+  Europe/London: {
+    Generic: Gröönwisch-Welttiet,
+    Standard: Gröönwisch-Welttiet,
+    Daylight: Gröönwisch-Welttiet
+  },
+  Atlantic/Canary: {
+    Generic: Westeuropääsch Tiet,
+    Standard: Westeuropääsch Standardtiet,
+    Daylight: Westeuropääsch Summertiet
+  },
+  Atlantic/Faeroe: {
+    Generic: Westeuropääsch Tiet,
+    Standard: Westeuropääsch Standardtiet,
+    Daylight: Westeuropääsch Summertiet
+  },
+  Europe/Guernsey: {
+    Generic: Gröönwisch-Welttiet,
+    Standard: Gröönwisch-Welttiet,
+    Daylight: Gröönwisch-Welttiet
+  },
+  Europe/Dublin: {
+    Generic: Gröönwisch-Welttiet,
+    Standard: Gröönwisch-Welttiet,
+    Daylight: Gröönwisch-Welttiet
+  },
+  Europe/Isle_of_Man: {
+    Generic: Gröönwisch-Welttiet,
+    Standard: Gröönwisch-Welttiet,
+    Daylight: Gröönwisch-Welttiet
+  },
+  Europe/Jersey: {
+    Generic: Gröönwisch-Welttiet,
+    Standard: Gröönwisch-Welttiet,
+    Daylight: Gröönwisch-Welttiet
+  },
+  Europe/Lisbon: {
+    Generic: Westeuropääsch Tiet,
+    Standard: Westeuropääsch Standardtiet,
+    Daylight: Westeuropääsch Summertiet
+  },
+  Atlantic/Madeira: {
+    Generic: Westeuropääsch Tiet,
+    Standard: Westeuropääsch Standardtiet,
+    Daylight: Westeuropääsch Summertiet
+  },
+  Europe/Bucharest: {
+    Generic: Oosteuropääsch Tiet,
+    Standard: Oosteuropääsch Standardtiet,
+    Daylight: Oosteuropääsch Summertiet
+  },
+  Asia/Nicosia: {
+    Generic: Oosteuropääsch Tiet,
+    Standard: Oosteuropääsch Standardtiet,
+    Daylight: Oosteuropääsch Summertiet
+  },
+  Asia/Famagusta: {
+    Generic: Oosteuropääsch Tiet,
+    Standard: Oosteuropääsch Standardtiet,
+    Daylight: Oosteuropääsch Summertiet
+  },
+  Europe/Athens: {
+    Generic: Oosteuropääsch Tiet,
+    Standard: Oosteuropääsch Standardtiet,
+    Daylight: Oosteuropääsch Summertiet
+  },
+  Asia/Tbilisi: {
+    Generic: Georgien-Tiet,
+    Standard: Georgien-Standardtiet,
+    Daylight: Georgien-Summertiet
+  },
+  America/Godthab: {
+    Generic: Gröönland-Tiet,
+    Standard: Gröönland-Standardtiet,
+    Daylight: Gröönland-Summertiet
+  },
+  Atlantic/Reykjavik: {
+    Generic: Gröönwisch-Welttiet,
+    Standard: Gröönwisch-Welttiet,
+    Daylight: Gröönwisch-Welttiet
+  },
+  Atlantic/St_Helena: {
+    Generic: Gröönwisch-Welttiet,
+    Standard: Gröönwisch-Welttiet,
+    Daylight: Gröönwisch-Welttiet
+  },
+  Africa/Ouagadougou: {
+    Generic: Gröönwisch-Welttiet,
+    Standard: Gröönwisch-Welttiet,
+    Daylight: Gröönwisch-Welttiet
+  },
+  Africa/Abidjan: {
+    Generic: Gröönwisch-Welttiet,
+    Standard: Gröönwisch-Welttiet,
+    Daylight: Gröönwisch-Welttiet
+  },
+  Africa/Accra: {
+    Generic: Gröönwisch-Welttiet,
+    Standard: Gröönwisch-Welttiet,
+    Daylight: Gröönwisch-Welttiet
+  },
+  America/Danmarkshavn: {
+    Generic: Gröönwisch-Welttiet,
+    Standard: Gröönwisch-Welttiet,
+    Daylight: Gröönwisch-Welttiet
+  },
+  Africa/Banjul: {
+    Generic: Gröönwisch-Welttiet,
+    Standard: Gröönwisch-Welttiet,
+    Daylight: Gröönwisch-Welttiet
+  },
+  Africa/Conakry: {
+    Generic: Gröönwisch-Welttiet,
+    Standard: Gröönwisch-Welttiet,
+    Daylight: Gröönwisch-Welttiet
+  },
+  Africa/Bissau: {
+    Generic: Gröönwisch-Welttiet,
+    Standard: Gröönwisch-Welttiet,
+    Daylight: Gröönwisch-Welttiet
+  },
+  Africa/Monrovia: {
+    Generic: Gröönwisch-Welttiet,
+    Standard: Gröönwisch-Welttiet,
+    Daylight: Gröönwisch-Welttiet
+  },
+  Africa/Bamako: {
+    Generic: Gröönwisch-Welttiet,
+    Standard: Gröönwisch-Welttiet,
+    Daylight: Gröönwisch-Welttiet
+  },
+  Africa/Nouakchott: {
+    Generic: Gröönwisch-Welttiet,
+    Standard: Gröönwisch-Welttiet,
+    Daylight: Gröönwisch-Welttiet
+  },
+  Africa/Freetown: {
+    Generic: Gröönwisch-Welttiet,
+    Standard: Gröönwisch-Welttiet,
+    Daylight: Gröönwisch-Welttiet
+  },
+  Africa/Dakar: {
+    Generic: Gröönwisch-Welttiet,
+    Standard: Gröönwisch-Welttiet,
+    Daylight: Gröönwisch-Welttiet
+  },
+  Africa/Lome: {
+    Generic: Gröönwisch-Welttiet,
+    Standard: Gröönwisch-Welttiet,
+    Daylight: Gröönwisch-Welttiet
+  },
+  America/Port-au-Prince: {
+    Generic: Noordamerikaansch oosten Tiet,
+    Standard: Noordamerikaansch oosten Standardtiet,
+    Daylight: Noordamerikaansch oosten Summertiet
+  },
+  Pacific/Honolulu: {
+    Generic: USA-Tiet,
+    Standard: USA-Standardtiet,
+    Daylight: USA-Summertiet
+  },
+  Pacific/Rarotonga: {
+    Generic: Cook-Eilannen-Tiet,
+    Standard: Cook-Eilannen-Standardtiet,
+    Daylight: Cook-Eilannen-Summertiet
+  },
+  Pacific/Tahiti: {
+    Generic: Franzöösch-Polynesien-Tiet,
+    Standard: Franzöösch-Polynesien-Standardtiet,
+    Daylight: Franzöösch-Polynesien-Summertiet
+  },
+  Pacific/Johnston: {
+    Generic: Johnston-Tiet,
+    Standard: Johnston-Standardtiet,
+    Daylight: Johnston-Summertiet
+  },
+  Etc/GMT+10: {
+    Generic: UTC-Tiet -10,
+    Standard: UTC-Standardtiet -10,
+    Daylight: UTC-Summertiet -10
+  },
+  Asia/Calcutta: {
+    Generic: Indien-Tiet,
+    Standard: Indien-Tiet,
+    Daylight: Indien-Tiet
+  },
+  Asia/Tehran: {
+    Generic: Iran-Tiet,
+    Standard: Iran-Standardtiet,
+    Daylight: Iran-Summertiet
+  },
+  Asia/Jerusalem: {
+    Generic: Israel-Tiet,
+    Standard: Israel-Standardtiet,
+    Daylight: Israel-Summertiet
+  },
+  Asia/Amman: {
+    Generic: Oosteuropääsch Tiet,
+    Standard: Oosteuropääsch Standardtiet,
+    Daylight: Oosteuropääsch Summertiet
+  },
+  Europe/Kaliningrad: {
+    Generic: Kaliningrad-Tiet,
+    Standard: Kaliningrad-Standardtiet,
+    Daylight: Kaliningrad-Summertiet
+  },
+  Asia/Seoul: {
+    Generic: Koreaansch Tiet,
+    Standard: Koreaansch Standardtiet,
+    Daylight: Koreaansch Summertiet
+  },
+  Africa/Tripoli: {
+    Generic: Oosteuropääsch Tiet,
+    Standard: Oosteuropääsch Standardtiet,
+    Daylight: Oosteuropääsch Summertiet
+  },
+  Pacific/Kiritimati: {
+    Generic: Kiribati-Tiet,
+    Standard: Kiribati-Standardtiet,
+    Daylight: Kiribati-Summertiet
+  },
+  Etc/GMT-14: {
+    Generic: UTC-Tiet +14,
+    Standard: UTC-Standardtiet +14,
+    Daylight: UTC-Summertiet +14
+  },
+  Australia/Lord_Howe: {
+    Generic: Australien-Tiet,
+    Standard: Australien-Standardtiet,
+    Daylight: Australien-Summertiet
+  },
+  Asia/Magadan: {
+    Generic: Magadan-Tiet,
+    Standard: Magadan-Standardtiet,
+    Daylight: Magadan-Summertiet
+  },
+  America/Punta_Arenas: {
+    Generic: Chile-Tiet,
+    Standard: Chile-Standardtiet,
+    Daylight: Chile-Summertiet
+  },
+  Pacific/Marquesas: {
+    Generic: Franzöösch-Polynesien-Tiet,
+    Standard: Franzöösch-Polynesien-Standardtiet,
+    Daylight: Franzöösch-Polynesien-Summertiet
+  },
+  Indian/Mauritius: {
+    Generic: Mauritius-Tiet,
+    Standard: Mauritius-Standardtiet,
+    Daylight: Mauritius-Summertiet
+  },
+  Indian/Reunion: {
+    Generic: Reunion-Tiet,
+    Standard: Reunion-Standardtiet,
+    Daylight: Reunion-Summertiet
+  },
+  Indian/Mahe: {
+    Generic: Seychellen-Tiet,
+    Standard: Seychellen-Standardtiet,
+    Daylight: Seychellen-Summertiet
+  },
+  Asia/Beirut: {
+    Generic: Oosteuropääsch Tiet,
+    Standard: Oosteuropääsch Standardtiet,
+    Daylight: Oosteuropääsch Summertiet
+  },
+  America/Montevideo: {
+    Generic: Uruguay-Tiet,
+    Standard: Uruguay-Standardtiet,
+    Daylight: Uruguay-Summertiet
+  },
+  Africa/Casablanca: {
+    Generic: Westeuropääsch Tiet,
+    Standard: Westeuropääsch Standardtiet,
+    Daylight: Westeuropääsch Summertiet
+  },
+  Africa/El_Aaiun: {
+    Generic: Westeuropääsch Tiet,
+    Standard: Westeuropääsch Standardtiet,
+    Daylight: Westeuropääsch Summertiet
+  },
+  America/Chihuahua: {
+    Generic: Mexiko-Tiet,
+    Standard: Mexiko-Standardtiet,
+    Daylight: Mexiko-Summertiet
+  },
+  America/Mazatlan: {
+    Generic: Mexiko-Tiet,
+    Standard: Mexiko-Standardtiet,
+    Daylight: Mexiko-Summertiet
+  },
+  America/Denver: {
+    Generic: Noordamerikaansch Bargtiet,
+    Standard: Noordamerikaansch Barg-Standardtiet,
+    Daylight: Noordamerikaansch Barg-Summertiet
+  },
+  America/Edmonton: {
+    Generic: Noordamerikaansch Bargtiet,
+    Standard: Noordamerikaansch Barg-Standardtiet,
+    Daylight: Noordamerikaansch Barg-Summertiet
+  },
+  America/Cambridge_Bay: {
+    Generic: Noordamerikaansch Bargtiet,
+    Standard: Noordamerikaansch Barg-Standardtiet,
+    Daylight: Noordamerikaansch Barg-Summertiet
+  },
+  America/Inuvik: {
+    Generic: Noordamerikaansch Bargtiet,
+    Standard: Noordamerikaansch Barg-Standardtiet,
+    Daylight: Noordamerikaansch Barg-Summertiet
+  },
+  America/Yellowknife: {
+    Generic: Noordamerikaansch Bargtiet,
+    Standard: Noordamerikaansch Barg-Standardtiet,
+    Daylight: Noordamerikaansch Barg-Summertiet
+  },
+  America/Ojinaga: {
+    Generic: Noordamerikaansch Bargtiet,
+    Standard: Noordamerikaansch Barg-Standardtiet,
+    Daylight: Noordamerikaansch Barg-Summertiet
+  },
+  America/Boise: {
+    Generic: Noordamerikaansch Bargtiet,
+    Standard: Noordamerikaansch Barg-Standardtiet,
+    Daylight: Noordamerikaansch Barg-Summertiet
+  },
+  MST7MDT: {
+    Generic: Noordamerikaansch Bargtiet,
+    Standard: Noordamerikaansch Barg-Standardtiet,
+    Daylight: Noordamerikaansch Barg-Summertiet
+  },
+  Asia/Rangoon: {
+    Generic: Birma-Tiet,
+    Standard: Birma-Standardtiet,
+    Daylight: Birma-Summertiet
+  },
+  Indian/Cocos: {
+    Generic: Kokos-Eilannen-Tiet,
+    Standard: Kokos-Eilannen-Standardtiet,
+    Daylight: Kokos-Eilannen-Summertiet
+  },
+  Asia/Novosibirsk: {
+    Generic: Nowosibirsk-Tiet,
+    Standard: Nowosibirsk-Standardtiet,
+    Daylight: Nowosibirsk-Summertiet
+  },
+  Africa/Windhoek: {
+    Generic: Zentraalafrikaansch Tiet,
+    Standard: Zentraalafrikaansch Tiet,
+    Daylight: Zentraalafrikaansch Tiet
+  },
+  Asia/Katmandu: {
+    Generic: Nepal-Tiet,
+    Standard: Nepal-Standardtiet,
+    Daylight: Nepal-Summertiet
+  },
+  Pacific/Auckland: {
+    Generic: Neeseeland-Tiet,
+    Standard: Neeseeland-Standardtiet,
+    Daylight: Neeseeland-Summertiet
+  },
+  Antarctica/McMurdo: {
+    Generic: Antarktis-Tiet,
+    Standard: Antarktis-Standardtiet,
+    Daylight: Antarktis-Summertiet
+  },
+  America/St_Johns: {
+    Generic: Kanada-Tiet,
+    Standard: Kanada-Standardtiet,
+    Daylight: Kanada-Summertiet
+  },
+  Pacific/Norfolk: {
+    Generic: Norfolk-Tiet,
+    Standard: Norfolk-Standardtiet,
+    Daylight: Norfolk-Summertiet
+  },
+  Asia/Irkutsk: {
+    Generic: Irkutsk-Tiet,
+    Standard: Irkutsk-Standardtiet,
+    Daylight: Irkutsk-Summertiet
+  },
+  Asia/Krasnoyarsk: {
+    Generic: Krasnojarsk-Tiet,
+    Standard: Krasnojarsk-Standardtiet,
+    Daylight: Krasnojarsk-Summertiet
+  },
+  Asia/Novokuznetsk: {
+    Generic: Novokuznetsk-Tiet,
+    Standard: Novokuznetsk-Standardtiet,
+    Daylight: Novokuznetsk-Summertiet
+  },
+  Asia/Pyongyang: {
+    Generic: Koreaansch Tiet,
+    Standard: Koreaansch Standardtiet,
+    Daylight: Koreaansch Summertiet
+  },
+  Asia/Omsk: {
+    Generic: Omsk-Tiet,
+    Standard: Omsk-Standardtiet,
+    Daylight: Omsk-Summertiet
+  },
+  America/Santiago: {
+    Generic: Chile-Tiet,
+    Standard: Chile-Standardtiet,
+    Daylight: Chile-Summertiet
+  },
+  America/Tijuana: {
+    Generic: Noordamerikaansch Pazifiktiet,
+    Standard: Noordamerikaansch Pazifik-Standardtiet,
+    Daylight: Noordamerikaansch Pazifik-Summertiet
+  },
+  America/Santa_Isabel: {
+    Generic: Santa Isabel-Tiet,
+    Standard: Santa Isabel-Standardtiet,
+    Daylight: Santa Isabel-Summertiet
+  },
+  America/Los_Angeles: {
+    Generic: Noordamerikaansch Pazifiktiet,
+    Standard: Noordamerikaansch Pazifik-Standardtiet,
+    Daylight: Noordamerikaansch Pazifik-Summertiet
+  },
+  America/Vancouver: {
+    Generic: Noordamerikaansch Pazifiktiet,
+    Standard: Noordamerikaansch Pazifik-Standardtiet,
+    Daylight: Noordamerikaansch Pazifik-Summertiet
+  },
+  PST8PDT: {
+    Generic: Noordamerikaansch Pazifiktiet,
+    Standard: Noordamerikaansch Pazifik-Standardtiet,
+    Daylight: Noordamerikaansch Pazifik-Summertiet
+  },
+  Asia/Karachi: {
+    Generic: Pakistan-Tiet,
+    Standard: Pakistan-Standardtiet,
+    Daylight: Pakistan-Summertiet
+  },
+  America/Asuncion: {
+    Generic: Paraguay-Tiet,
+    Standard: Paraguay-Standardtiet,
+    Daylight: Paraguay-Summertiet
+  },
+  Asia/Qyzylorda: {
+    Generic: Kasachstan-Tiet,
+    Standard: Kasachstan-Standardtiet,
+    Daylight: Kasachstan-Summertiet
+  },
+  Europe/Paris: {
+    Generic: Zentraaleuropääsch Tiet,
+    Standard: Zentraaleuropääsch Standardtiet,
+    Daylight: Zentraaleuropääsch Summertiet
+  },
+  Europe/Brussels: {
+    Generic: Zentraaleuropääsch Tiet,
+    Standard: Zentraaleuropääsch Standardtiet,
+    Daylight: Zentraaleuropääsch Summertiet
+  },
+  Europe/Copenhagen: {
+    Generic: Zentraaleuropääsch Tiet,
+    Standard: Zentraaleuropääsch Standardtiet,
+    Daylight: Zentraaleuropääsch Summertiet
+  },
+  Africa/Ceuta: {
+    Generic: Zentraaleuropääsch Tiet,
+    Standard: Zentraaleuropääsch Standardtiet,
+    Daylight: Zentraaleuropääsch Summertiet
+  },
+  Europe/Madrid: {
+    Generic: Zentraaleuropääsch Tiet,
+    Standard: Zentraaleuropääsch Standardtiet,
+    Daylight: Zentraaleuropääsch Summertiet
+  },
+  Asia/Srednekolymsk: {
+    Generic: Srednekolymsk-Tiet,
+    Standard: Srednekolymsk-Standardtiet,
+    Daylight: Srednekolymsk-Summertiet
+  },
+  Asia/Kamchatka: {
+    Generic: Kamschatka-Tiet,
+    Standard: Kamschatka-Standardtiet,
+    Daylight: Kamschatka-Summertiet
+  },
+  Asia/Anadyr: {
+    Generic: Anadyr-Tiet,
+    Standard: Anadyr-Standardtiet,
+    Daylight: Anadyr-Summertiet
+  },
+  Europe/Samara: {
+    Generic: Samara-Tiet,
+    Standard: Samara-Standardtiet,
+    Daylight: Samara-Summertiet
+  },
+  Europe/Moscow: {
+    Generic: Moskau-Tiet,
+    Standard: Moskau-Standardtiet,
+    Daylight: Moskau-Summertiet
+  },
+  Europe/Kirov: {
+    Generic: Kirov-Tiet,
+    Standard: Kirov-Standardtiet,
+    Daylight: Kirov-Summertiet
+  },
+  Europe/Simferopol: {
+    Generic: Moskau-Tiet,
+    Standard: Moskau-Standardtiet,
+    Daylight: Moskau-Summertiet
+  },
+  America/Cayenne: {
+    Generic: Franzöösch-Guayana-Tiet,
+    Standard: Franzöösch-Guayana-Standardtiet,
+    Daylight: Franzöösch-Guayana-Summertiet
+  },
+  Antarctica/Rothera: {
+    Generic: Antarktis-Tiet,
+    Standard: Antarktis-Standardtiet,
+    Daylight: Antarktis-Summertiet
+  },
+  Antarctica/Palmer: {
+    Generic: Antarktis-Tiet,
+    Standard: Antarktis-Standardtiet,
+    Daylight: Antarktis-Summertiet
+  },
+  America/Fortaleza: {
+    Generic: Brasilien-Tiet,
+    Standard: Brasilien-Standardtiet,
+    Daylight: Brasilien-Summertiet
+  },
+  America/Belem: {
+    Generic: Brasilien-Tiet,
+    Standard: Brasilien-Standardtiet,
+    Daylight: Brasilien-Summertiet
+  },
+  America/Maceio: {
+    Generic: Brasilien-Tiet,
+    Standard: Brasilien-Standardtiet,
+    Daylight: Brasilien-Summertiet
+  },
+  America/Recife: {
+    Generic: Brasilien-Tiet,
+    Standard: Brasilien-Standardtiet,
+    Daylight: Brasilien-Summertiet
+  },
+  America/Santarem: {
+    Generic: Brasilien-Tiet,
+    Standard: Brasilien-Standardtiet,
+    Daylight: Brasilien-Summertiet
+  },
+  Atlantic/Stanley: {
+    Generic: Falkland-Eilannen-Tiet,
+    Standard: Falkland-Eilannen-Standardtiet,
+    Daylight: Falkland-Eilannen-Summertiet
+  },
+  America/Paramaribo: {
+    Generic: Surinam-Tiet,
+    Standard: Surinam-Standardtiet,
+    Daylight: Surinam-Summertiet
+  },
+  Etc/GMT+3: {
+    Generic: UTC-Tiet -3,
+    Standard: UTC-Standardtiet -3,
+    Daylight: UTC-Summertiet -3
+  },
+  America/Bogota: {
+    Generic: Kolumbien-Tiet,
+    Standard: Kolumbien-Standardtiet,
+    Daylight: Kolumbien-Summertiet
+  },
+  America/Rio_Branco: {
+    Generic: Brasilien-Tiet,
+    Standard: Brasilien-Standardtiet,
+    Daylight: Brasilien-Summertiet
+  },
+  America/Eirunepe: {
+    Generic: Brasilien-Tiet,
+    Standard: Brasilien-Standardtiet,
+    Daylight: Brasilien-Summertiet
+  },
+  America/Coral_Harbour: {
+    Generic: Noordamerikaansch oosten Tiet,
+    Standard: Noordamerikaansch oosten Standardtiet,
+    Daylight: Noordamerikaansch oosten Summertiet
+  },
+  America/Guayaquil: {
+    Generic: Ecuador-Tiet,
+    Standard: Ecuador-Standardtiet,
+    Daylight: Ecuador-Summertiet
+  },
+  America/Jamaica: {
+    Generic: Noordamerikaansch oosten Tiet,
+    Standard: Noordamerikaansch oosten Standardtiet,
+    Daylight: Noordamerikaansch oosten Summertiet
+  },
+  America/Cayman: {
+    Generic: Noordamerikaansch oosten Tiet,
+    Standard: Noordamerikaansch oosten Standardtiet,
+    Daylight: Noordamerikaansch oosten Summertiet
+  },
+  America/Panama: {
+    Generic: Noordamerikaansch oosten Tiet,
+    Standard: Noordamerikaansch oosten Standardtiet,
+    Daylight: Noordamerikaansch oosten Summertiet
+  },
+  America/Lima: {
+    Generic: Peru-Tiet,
+    Standard: Peru-Standardtiet,
+    Daylight: Peru-Summertiet
+  },
+  Etc/GMT+5: {
+    Generic: UTC-Tiet -5,
+    Standard: UTC-Standardtiet -5,
+    Daylight: UTC-Summertiet -5
+  },
+  America/La_Paz: {
+    Generic: Bolivien-Tiet,
+    Standard: Bolivien-Standardtiet,
+    Daylight: Bolivien-Summertiet
+  },
+  America/Antigua: {
+    Generic: Noordamerikaansch Atlantiktiet,
+    Standard: Noordamerikaansch Atlantik-Standardtiet,
+    Daylight: Noordamerikaansch Atlantik-Summertiet
+  },
+  America/Anguilla: {
+    Generic: Noordamerikaansch Atlantiktiet,
+    Standard: Noordamerikaansch Atlantik-Standardtiet,
+    Daylight: Noordamerikaansch Atlantik-Summertiet
+  },
+  America/Aruba: {
+    Generic: Noordamerikaansch Atlantiktiet,
+    Standard: Noordamerikaansch Atlantik-Standardtiet,
+    Daylight: Noordamerikaansch Atlantik-Summertiet
+  },
+  America/Barbados: {
+    Generic: Noordamerikaansch Atlantiktiet,
+    Standard: Noordamerikaansch Atlantik-Standardtiet,
+    Daylight: Noordamerikaansch Atlantik-Summertiet
+  },
+  America/St_Barthelemy: {
+    Generic: Noordamerikaansch Atlantiktiet,
+    Standard: Noordamerikaansch Atlantik-Standardtiet,
+    Daylight: Noordamerikaansch Atlantik-Summertiet
+  },
+  America/Kralendijk: {
+    Generic: Noordamerikaansch Atlantiktiet,
+    Standard: Noordamerikaansch Atlantik-Standardtiet,
+    Daylight: Noordamerikaansch Atlantik-Summertiet
+  },
+  America/Manaus: {
+    Generic: Brasilien-Tiet,
+    Standard: Brasilien-Standardtiet,
+    Daylight: Brasilien-Summertiet
+  },
+  America/Boa_Vista: {
+    Generic: Brasilien-Tiet,
+    Standard: Brasilien-Standardtiet,
+    Daylight: Brasilien-Summertiet
+  },
+  America/Porto_Velho: {
+    Generic: Brasilien-Tiet,
+    Standard: Brasilien-Standardtiet,
+    Daylight: Brasilien-Summertiet
+  },
+  America/Blanc-Sablon: {
+    Generic: Noordamerikaansch Atlantiktiet,
+    Standard: Noordamerikaansch Atlantik-Standardtiet,
+    Daylight: Noordamerikaansch Atlantik-Summertiet
+  },
+  America/Curacao: {
+    Generic: Noordamerikaansch Atlantiktiet,
+    Standard: Noordamerikaansch Atlantik-Standardtiet,
+    Daylight: Noordamerikaansch Atlantik-Summertiet
+  },
+  America/Dominica: {
+    Generic: Noordamerikaansch Atlantiktiet,
+    Standard: Noordamerikaansch Atlantik-Standardtiet,
+    Daylight: Noordamerikaansch Atlantik-Summertiet
+  },
+  America/Santo_Domingo: {
+    Generic: Noordamerikaansch Atlantiktiet,
+    Standard: Noordamerikaansch Atlantik-Standardtiet,
+    Daylight: Noordamerikaansch Atlantik-Summertiet
+  },
+  America/Grenada: {
+    Generic: Noordamerikaansch Atlantiktiet,
+    Standard: Noordamerikaansch Atlantik-Standardtiet,
+    Daylight: Noordamerikaansch Atlantik-Summertiet
+  },
+  America/Guadeloupe: {
+    Generic: Noordamerikaansch Atlantiktiet,
+    Standard: Noordamerikaansch Atlantik-Standardtiet,
+    Daylight: Noordamerikaansch Atlantik-Summertiet
+  },
+  America/Guyana: {
+    Generic: Guyana-Tiet,
+    Standard: Guyana-Standardtiet,
+    Daylight: Guyana-Summertiet
+  },
+  America/St_Kitts: {
+    Generic: Noordamerikaansch Atlantiktiet,
+    Standard: Noordamerikaansch Atlantik-Standardtiet,
+    Daylight: Noordamerikaansch Atlantik-Summertiet
+  },
+  America/St_Lucia: {
+    Generic: Noordamerikaansch Atlantiktiet,
+    Standard: Noordamerikaansch Atlantik-Standardtiet,
+    Daylight: Noordamerikaansch Atlantik-Summertiet
+  },
+  America/Marigot: {
+    Generic: Noordamerikaansch Atlantiktiet,
+    Standard: Noordamerikaansch Atlantik-Standardtiet,
+    Daylight: Noordamerikaansch Atlantik-Summertiet
+  },
+  America/Martinique: {
+    Generic: Noordamerikaansch Atlantiktiet,
+    Standard: Noordamerikaansch Atlantik-Standardtiet,
+    Daylight: Noordamerikaansch Atlantik-Summertiet
+  },
+  America/Montserrat: {
+    Generic: Noordamerikaansch Atlantiktiet,
+    Standard: Noordamerikaansch Atlantik-Standardtiet,
+    Daylight: Noordamerikaansch Atlantik-Summertiet
+  },
+  America/Puerto_Rico: {
+    Generic: Noordamerikaansch Atlantiktiet,
+    Standard: Noordamerikaansch Atlantik-Standardtiet,
+    Daylight: Noordamerikaansch Atlantik-Summertiet
+  },
+  America/Lower_Princes: {
+    Generic: Noordamerikaansch Atlantiktiet,
+    Standard: Noordamerikaansch Atlantik-Standardtiet,
+    Daylight: Noordamerikaansch Atlantik-Summertiet
+  },
+  America/Port_of_Spain: {
+    Generic: Noordamerikaansch Atlantiktiet,
+    Standard: Noordamerikaansch Atlantik-Standardtiet,
+    Daylight: Noordamerikaansch Atlantik-Summertiet
+  },
+  America/St_Vincent: {
+    Generic: Noordamerikaansch Atlantiktiet,
+    Standard: Noordamerikaansch Atlantik-Standardtiet,
+    Daylight: Noordamerikaansch Atlantik-Summertiet
+  },
+  America/Tortola: {
+    Generic: Noordamerikaansch Atlantiktiet,
+    Standard: Noordamerikaansch Atlantik-Standardtiet,
+    Daylight: Noordamerikaansch Atlantik-Summertiet
+  },
+  America/St_Thomas: {
+    Generic: Noordamerikaansch Atlantiktiet,
+    Standard: Noordamerikaansch Atlantik-Standardtiet,
+    Daylight: Noordamerikaansch Atlantik-Summertiet
+  },
+  Etc/GMT+4: {
+    Generic: UTC-Tiet -4,
+    Standard: UTC-Standardtiet -4,
+    Daylight: UTC-Summertiet -4
+  },
+  Asia/Bangkok: {
+    Generic: Söödoostasiaatsch Tiet,
+    Standard: Söödoostasiaatsch Tiet,
+    Daylight: Söödoostasiaatsch Tiet
+  },
+  Antarctica/Davis: {
+    Generic: Antarktis-Tiet,
+    Standard: Antarktis-Standardtiet,
+    Daylight: Antarktis-Summertiet
+  },
+  Indian/Christmas: {
+    Generic: Wiehnachtseiland-Tiet,
+    Standard: Wiehnachtseiland-Standardtiet,
+    Daylight: Wiehnachtseiland-Summertiet
+  },
+  Asia/Jakarta: {
+    Generic: Westindoneesch Tiet,
+    Standard: Westindoneesch Tiet,
+    Daylight: Westindoneesch Tiet
+  },
+  Asia/Pontianak: {
+    Generic: Westindoneesch Tiet,
+    Standard: Westindoneesch Tiet,
+    Daylight: Westindoneesch Tiet
+  },
+  Asia/Phnom_Penh: {
+    Generic: Söödoostasiaatsch Tiet,
+    Standard: Söödoostasiaatsch Tiet,
+    Daylight: Söödoostasiaatsch Tiet
+  },
+  Asia/Vientiane: {
+    Generic: Söödoostasiaatsch Tiet,
+    Standard: Söödoostasiaatsch Tiet,
+    Daylight: Söödoostasiaatsch Tiet
+  },
+  Asia/Saigon: {
+    Generic: Söödoostasiaatsch Tiet,
+    Standard: Söödoostasiaatsch Tiet,
+    Daylight: Söödoostasiaatsch Tiet
+  },
+  Etc/GMT-7: {
+    Generic: UTC-Tiet +7,
+    Standard: UTC-Standardtiet +7,
+    Daylight: UTC-Summertiet +7
+  },
+  America/Miquelon: {
+    Generic: St. Pierre un Miquelon-Tiet,
+    Standard: St. Pierre un Miquelon-Standardtiet,
+    Daylight: St. Pierre un Miquelon-Summertiet
+  },
+  Asia/Sakhalin: {
+    Generic: Sachalin-Tiet,
+    Standard: Sachalin-Standardtiet,
+    Daylight: Sachalin-Summertiet
+  },
+  Pacific/Apia: {
+    Generic: Samoa-Tiet,
+    Standard: Samoa-Standardtiet,
+    Daylight: Samoa-Summertiet
+  },
+  Africa/Sao_Tome: {
+    Generic: Gröönwisch-Welttiet,
+    Standard: Gröönwisch-Welttiet,
+    Daylight: Gröönwisch-Welttiet
+  },
+  Europe/Saratov: {
+    Generic: Saratov-Tiet,
+    Standard: Saratov-Standardtiet,
+    Daylight: Saratov-Summertiet
+  },
+  Asia/Singapore: {
+    Generic: Singapur-Tiet,
+    Standard: Singapur-Standardtiet,
+    Daylight: Singapur-Summertiet
+  },
+  Asia/Brunei: {
+    Generic: Brunei Darussalam-Tiet,
+    Standard: Brunei Darussalam-Standardtiet,
+    Daylight: Brunei Darussalam-Summertiet
+  },
+  Asia/Makassar: {
+    Generic: Indoneesch Zentraaltiet,
+    Standard: Indoneesch Zentraaltiet,
+    Daylight: Indoneesch Zentraaltiet
+  },
+  Asia/Kuala_Lumpur: {
+    Generic: Malaysia-Tiet,
+    Standard: Malaysia-Standardtiet,
+    Daylight: Malaysia-Summertiet
+  },
+  Asia/Kuching: {
+    Generic: Malaysia-Tiet,
+    Standard: Malaysia-Standardtiet,
+    Daylight: Malaysia-Summertiet
+  },
+  Asia/Manila: {
+    Generic: Philippinen-Tiet,
+    Standard: Philippinen-Standardtiet,
+    Daylight: Philippinen-Summertiet
+  },
+  Etc/GMT-8: {
+    Generic: UTC-Tiet +8,
+    Standard: UTC-Standardtiet +8,
+    Daylight: UTC-Summertiet +8
+  },
+  Africa/Johannesburg: {
+    Generic: Söödafrikaansch Tiet,
+    Standard: Söödafrikaansch Tiet,
+    Daylight: Söödafrikaansch Tiet
+  },
+  Africa/Bujumbura: {
+    Generic: Zentraalafrikaansch Tiet,
+    Standard: Zentraalafrikaansch Tiet,
+    Daylight: Zentraalafrikaansch Tiet
+  },
+  Africa/Gaborone: {
+    Generic: Zentraalafrikaansch Tiet,
+    Standard: Zentraalafrikaansch Tiet,
+    Daylight: Zentraalafrikaansch Tiet
+  },
+  Africa/Lubumbashi: {
+    Generic: Zentraalafrikaansch Tiet,
+    Standard: Zentraalafrikaansch Tiet,
+    Daylight: Zentraalafrikaansch Tiet
+  },
+  Africa/Maseru: {
+    Generic: Söödafrikaansch Tiet,
+    Standard: Söödafrikaansch Tiet,
+    Daylight: Söödafrikaansch Tiet
+  },
+  Africa/Blantyre: {
+    Generic: Zentraalafrikaansch Tiet,
+    Standard: Zentraalafrikaansch Tiet,
+    Daylight: Zentraalafrikaansch Tiet
+  },
+  Africa/Maputo: {
+    Generic: Zentraalafrikaansch Tiet,
+    Standard: Zentraalafrikaansch Tiet,
+    Daylight: Zentraalafrikaansch Tiet
+  },
+  Africa/Kigali: {
+    Generic: Zentraalafrikaansch Tiet,
+    Standard: Zentraalafrikaansch Tiet,
+    Daylight: Zentraalafrikaansch Tiet
+  },
+  Africa/Mbabane: {
+    Generic: Söödafrikaansch Tiet,
+    Standard: Söödafrikaansch Tiet,
+    Daylight: Söödafrikaansch Tiet
+  },
+  Africa/Lusaka: {
+    Generic: Zentraalafrikaansch Tiet,
+    Standard: Zentraalafrikaansch Tiet,
+    Daylight: Zentraalafrikaansch Tiet
+  },
+  Africa/Harare: {
+    Generic: Zentraalafrikaansch Tiet,
+    Standard: Zentraalafrikaansch Tiet,
+    Daylight: Zentraalafrikaansch Tiet
+  },
+  Etc/GMT-2: {
+    Generic: UTC-Tiet +2,
+    Standard: UTC-Standardtiet +2,
+    Daylight: UTC-Summertiet +2
+  },
+  Africa/Juba: {
+    Generic: Zentraalafrikaansch Tiet,
+    Standard: Zentraalafrikaansch Tiet,
+    Daylight: Zentraalafrikaansch Tiet
+  },
+  Asia/Colombo: {
+    Generic: Indien-Tiet,
+    Standard: Indien-Tiet,
+    Daylight: Indien-Tiet
+  },
+  Africa/Khartoum: {
+    Generic: Zentraalafrikaansch Tiet,
+    Standard: Zentraalafrikaansch Tiet,
+    Daylight: Zentraalafrikaansch Tiet
+  },
+  Asia/Damascus: {
+    Generic: Oosteuropääsch Tiet,
+    Standard: Oosteuropääsch Standardtiet,
+    Daylight: Oosteuropääsch Summertiet
+  },
+  Asia/Taipei: {
+    Generic: Taiwan-Tiet,
+    Standard: Taiwan-Standardtiet,
+    Daylight: Taiwan-Summertiet
+  },
+  Australia/Hobart: {
+    Generic: Oostaustraalsch Tiet,
+    Standard: Oostaustraalsch Standardtiet,
+    Daylight: Oostaustraalsch Summertiet
+  },
+  Australia/Currie: {
+    Generic: Oostaustraalsch Tiet,
+    Standard: Oostaustraalsch Standardtiet,
+    Daylight: Oostaustraalsch Summertiet
+  },
+  Antarctica/Macquarie: {
+    Generic: Oostaustraalsch Tiet,
+    Standard: Oostaustraalsch Standardtiet,
+    Daylight: Oostaustraalsch Summertiet
+  },
+  America/Araguaina: {
+    Generic: Brasilien-Tiet,
+    Standard: Brasilien-Standardtiet,
+    Daylight: Brasilien-Summertiet
+  },
+  Asia/Tokyo: {
+    Generic: Japaansch Tiet,
+    Standard: Japaansch Standardtiet,
+    Daylight: Japaansch Summertiet
+  },
+  Asia/Jayapura: {
+    Generic: Oostindoneesch Tiet,
+    Standard: Oostindoneesch Tiet,
+    Daylight: Oostindoneesch Tiet
+  },
+  Pacific/Palau: {
+    Generic: Palau-Tiet,
+    Standard: Palau-Standardtiet,
+    Daylight: Palau-Summertiet
+  },
+  Asia/Dili: {
+    Generic: Oosttimor-Tiet,
+    Standard: Oosttimor-Standardtiet,
+    Daylight: Oosttimor-Summertiet
+  },
+  Etc/GMT-9: {
+    Generic: UTC-Tiet +9,
+    Standard: UTC-Standardtiet +9,
+    Daylight: UTC-Summertiet +9
+  },
+  Asia/Tomsk: {
+    Generic: Tomsk-Tiet,
+    Standard: Tomsk-Standardtiet,
+    Daylight: Tomsk-Summertiet
+  },
+  Pacific/Tongatapu: {
+    Generic: Tonga-Tiet,
+    Standard: Tonga-Standardtiet,
+    Daylight: Tonga-Summertiet
+  },
+  Asia/Chita: {
+    Generic: Chita-Tiet,
+    Standard: Chita-Standardtiet,
+    Daylight: Chita-Summertiet
+  },
+  Europe/Istanbul: {
+    Generic: Törkei-Tiet,
+    Standard: Törkei-Standardtiet,
+    Daylight: Törkei-Summertiet
+  },
+  America/Grand_Turk: {
+    Generic: Noordamerikaansch oosten Tiet,
+    Standard: Noordamerikaansch oosten Standardtiet,
+    Daylight: Noordamerikaansch oosten Summertiet
+  },
+  America/Indianapolis: {
+    Generic: Noordamerikaansch oosten Tiet,
+    Standard: Noordamerikaansch oosten Standardtiet,
+    Daylight: Noordamerikaansch oosten Summertiet
+  },
+  America/Indiana/Marengo: {
+    Generic: Noordamerikaansch oosten Tiet,
+    Standard: Noordamerikaansch oosten Standardtiet,
+    Daylight: Noordamerikaansch oosten Summertiet
+  },
+  America/Indiana/Vevay: {
+    Generic: Noordamerikaansch oosten Tiet,
+    Standard: Noordamerikaansch oosten Standardtiet,
+    Daylight: Noordamerikaansch oosten Summertiet
+  },
+  America/Phoenix: {
+    Generic: Noordamerikaansch Bargtiet,
+    Standard: Noordamerikaansch Barg-Standardtiet,
+    Daylight: Noordamerikaansch Barg-Summertiet
+  },
+  America/Creston: {
+    Generic: Noordamerikaansch Bargtiet,
+    Standard: Noordamerikaansch Barg-Standardtiet,
+    Daylight: Noordamerikaansch Barg-Summertiet
+  },
+  America/Dawson_Creek: {
+    Generic: Noordamerikaansch Bargtiet,
+    Standard: Noordamerikaansch Barg-Standardtiet,
+    Daylight: Noordamerikaansch Barg-Summertiet
+  },
+  America/Fort_Nelson: {
+    Generic: Noordamerikaansch Bargtiet,
+    Standard: Noordamerikaansch Barg-Standardtiet,
+    Daylight: Noordamerikaansch Barg-Summertiet
+  },
+  America/Hermosillo: {
+    Generic: Mexiko-Tiet,
+    Standard: Mexiko-Standardtiet,
+    Daylight: Mexiko-Summertiet
+  },
+  Etc/GMT+7: {
+    Generic: UTC-Tiet -7,
+    Standard: UTC-Standardtiet -7,
+    Daylight: UTC-Summertiet -7
+  },
+  Etc/GMT-12: {
+    Generic: UTC-Tiet +12,
+    Standard: UTC-Standardtiet +12,
+    Daylight: UTC-Summertiet +12
+  },
+  Pacific/Tarawa: {
+    Generic: Kiribati-Tiet,
+    Standard: Kiribati-Standardtiet,
+    Daylight: Kiribati-Summertiet
+  },
+  Pacific/Majuro: {
+    Generic: Marshall-Eilannen-Tiet,
+    Standard: Marshall-Eilannen-Standardtiet,
+    Daylight: Marshall-Eilannen-Summertiet
+  },
+  Pacific/Kwajalein: {
+    Generic: Marshall-Eilannen-Tiet,
+    Standard: Marshall-Eilannen-Standardtiet,
+    Daylight: Marshall-Eilannen-Summertiet
+  },
+  Pacific/Nauru: {
+    Generic: Nauru-Tiet,
+    Standard: Nauru-Standardtiet,
+    Daylight: Nauru-Summertiet
+  },
+  Pacific/Funafuti: {
+    Generic: Tuvalu-Tiet,
+    Standard: Tuvalu-Standardtiet,
+    Daylight: Tuvalu-Summertiet
+  },
+  Pacific/Wake: {
+    Generic: Amerikaansch-Ozeanien-Tiet,
+    Standard: Amerikaansch-Ozeanien-Standardtiet,
+    Daylight: Amerikaansch-Ozeanien-Summertiet
+  },
+  Pacific/Wallis: {
+    Generic: Wallis un Futuna-Tiet,
+    Standard: Wallis un Futuna-Standardtiet,
+    Daylight: Wallis un Futuna-Summertiet
+  },
+  Etc/GMT-13: {
+    Generic: UTC-Tiet +13,
+    Standard: UTC-Standardtiet +13,
+    Daylight: UTC-Summertiet +13
+  },
+  Pacific/Enderbury: {
+    Generic: Kiribati-Tiet,
+    Standard: Kiribati-Standardtiet,
+    Daylight: Kiribati-Summertiet
+  },
+  Pacific/Fakaofo: {
+    Generic: Tokelau-Tiet,
+    Standard: Tokelau-Standardtiet,
+    Daylight: Tokelau-Summertiet
+  },
+  Etc/UTC: {
+    Generic: UTC-Tiet,
+    Standard: UTC-Standardtiet,
+    Daylight: UTC-Summertiet
+  },
+  Etc/GMT: {
+    Generic: Gröönwisch-Welttiet,
+    Standard: Gröönwisch-Welttiet,
+    Daylight: Gröönwisch-Welttiet
+  },
+  Etc/GMT+2: {
+    Generic: UTC-Tiet -2,
+    Standard: UTC-Standardtiet -2,
+    Daylight: UTC-Summertiet -2
+  },
+  America/Noronha: {
+    Generic: Brasilien-Tiet,
+    Standard: Brasilien-Standardtiet,
+    Daylight: Brasilien-Summertiet
+  },
+  Atlantic/South_Georgia: {
+    Generic: Süüdgeorgien un de Südlichen Sandwich-Eilannen-Tiet,
+    Standard: Süüdgeorgien un de Südlichen Sandwich-Eilannen-Standardtiet,
+    Daylight: Süüdgeorgien un de Südlichen Sandwich-Eilannen-Summertiet
+  },
+  Etc/GMT+8: {
+    Generic: UTC-Tiet -8,
+    Standard: UTC-Standardtiet -8,
+    Daylight: UTC-Summertiet -8
+  },
+  Pacific/Pitcairn: {
+    Generic: Pitcairn-Tiet,
+    Standard: Pitcairn-Standardtiet,
+    Daylight: Pitcairn-Summertiet
+  },
+  Etc/GMT+9: {
+    Generic: UTC-Tiet -9,
+    Standard: UTC-Standardtiet -9,
+    Daylight: UTC-Summertiet -9
+  },
+  Pacific/Gambier: {
+    Generic: Franzöösch-Polynesien-Tiet,
+    Standard: Franzöösch-Polynesien-Standardtiet,
+    Daylight: Franzöösch-Polynesien-Summertiet
+  },
+  Etc/GMT+11: {
+    Generic: UTC-Tiet -11,
+    Standard: UTC-Standardtiet -11,
+    Daylight: UTC-Summertiet -11
+  },
+  Pacific/Pago_Pago: {
+    Generic: Amerikaansch-Samoa-Tiet,
+    Standard: Amerikaansch-Samoa-Standardtiet,
+    Daylight: Amerikaansch-Samoa-Summertiet
+  },
+  Pacific/Niue: {
+    Generic: Niue-Tiet,
+    Standard: Niue-Standardtiet,
+    Daylight: Niue-Summertiet
+  },
+  Pacific/Midway: {
+    Generic: Amerikaansch-Ozeanien-Tiet,
+    Standard: Amerikaansch-Ozeanien-Standardtiet,
+    Daylight: Amerikaansch-Ozeanien-Summertiet
+  },
+  Asia/Ulaanbaatar: {
+    Generic: Mongolei-Tiet,
+    Standard: Mongolei-Standardtiet,
+    Daylight: Mongolei-Summertiet
+  },
+  Asia/Choibalsan: {
+    Generic: Mongolei-Tiet,
+    Standard: Mongolei-Standardtiet,
+    Daylight: Mongolei-Summertiet
+  },
+  America/Caracas: {
+    Generic: Venezuela-Tiet,
+    Standard: Venezuela-Standardtiet,
+    Daylight: Venezuela-Summertiet
+  },
+  Asia/Vladivostok: {
+    Generic: Wladiwostok-Tiet,
+    Standard: Wladiwostok-Standardtiet,
+    Daylight: Wladiwostok-Summertiet
+  },
+  Asia/Ust-Nera: {
+    Generic: Ust-Nera-Tiet,
+    Standard: Ust-Nera-Standardtiet,
+    Daylight: Ust-Nera-Summertiet
+  },
+  Europe/Volgograd: {
+    Generic: Wolgograd-Tiet,
+    Standard: Wolgograd-Standardtiet,
+    Daylight: Wolgograd-Summertiet
+  },
+  Australia/Perth: {
+    Generic: Westaustraalsch Tiet,
+    Standard: Westaustraalsch Standardtiet,
+    Daylight: Westaustraalsch Summertiet
+  },
+  Africa/Lagos: {
+    Generic: Westafrikaansch Tiet,
+    Standard: Westafrikaansch Standardtiet,
+    Daylight: Westafrikaansch Summertiet
+  },
+  Africa/Luanda: {
+    Generic: Westafrikaansch Tiet,
+    Standard: Westafrikaansch Standardtiet,
+    Daylight: Westafrikaansch Summertiet
+  },
+  Africa/Porto-Novo: {
+    Generic: Westafrikaansch Tiet,
+    Standard: Westafrikaansch Standardtiet,
+    Daylight: Westafrikaansch Summertiet
+  },
+  Africa/Kinshasa: {
+    Generic: Westafrikaansch Tiet,
+    Standard: Westafrikaansch Standardtiet,
+    Daylight: Westafrikaansch Summertiet
+  },
+  Africa/Bangui: {
+    Generic: Westafrikaansch Tiet,
+    Standard: Westafrikaansch Standardtiet,
+    Daylight: Westafrikaansch Summertiet
+  },
+  Africa/Brazzaville: {
+    Generic: Westafrikaansch Tiet,
+    Standard: Westafrikaansch Standardtiet,
+    Daylight: Westafrikaansch Summertiet
+  },
+  Africa/Douala: {
+    Generic: Westafrikaansch Tiet,
+    Standard: Westafrikaansch Standardtiet,
+    Daylight: Westafrikaansch Summertiet
+  },
+  Africa/Algiers: {
+    Generic: Zentraaleuropääsch Tiet,
+    Standard: Zentraaleuropääsch Standardtiet,
+    Daylight: Zentraaleuropääsch Summertiet
+  },
+  Africa/Libreville: {
+    Generic: Westafrikaansch Tiet,
+    Standard: Westafrikaansch Standardtiet,
+    Daylight: Westafrikaansch Summertiet
+  },
+  Africa/Malabo: {
+    Generic: Westafrikaansch Tiet,
+    Standard: Westafrikaansch Standardtiet,
+    Daylight: Westafrikaansch Summertiet
+  },
+  Africa/Niamey: {
+    Generic: Westafrikaansch Tiet,
+    Standard: Westafrikaansch Standardtiet,
+    Daylight: Westafrikaansch Summertiet
+  },
+  Africa/Ndjamena: {
+    Generic: Westafrikaansch Tiet,
+    Standard: Westafrikaansch Standardtiet,
+    Daylight: Westafrikaansch Summertiet
+  },
+  Africa/Tunis: {
+    Generic: Zentraaleuropääsch Tiet,
+    Standard: Zentraaleuropääsch Standardtiet,
+    Daylight: Zentraaleuropääsch Summertiet
+  },
+  Etc/GMT-1: {
+    Generic: UTC-Tiet +1,
+    Standard: UTC-Standardtiet +1,
+    Daylight: UTC-Summertiet +1
+  },
+  Europe/Berlin: {
+    Generic: Zentraaleuropääsch Tiet,
+    Standard: Zentraaleuropääsch Standardtiet,
+    Daylight: Zentraaleuropääsch Summertiet
+  },
+  Europe/Andorra: {
+    Generic: Zentraaleuropääsch Tiet,
+    Standard: Zentraaleuropääsch Standardtiet,
+    Daylight: Zentraaleuropääsch Summertiet
+  },
+  Europe/Vienna: {
+    Generic: Zentraaleuropääsch Tiet,
+    Standard: Zentraaleuropääsch Standardtiet,
+    Daylight: Zentraaleuropääsch Summertiet
+  },
+  Europe/Zurich: {
+    Generic: Zentraaleuropääsch Tiet,
+    Standard: Zentraaleuropääsch Standardtiet,
+    Daylight: Zentraaleuropääsch Summertiet
+  },
+  Europe/Busingen: {
+    Generic: Zentraaleuropääsch Tiet,
+    Standard: Zentraaleuropääsch Standardtiet,
+    Daylight: Zentraaleuropääsch Summertiet
+  },
+  Europe/Gibraltar: {
+    Generic: Zentraaleuropääsch Tiet,
+    Standard: Zentraaleuropääsch Standardtiet,
+    Daylight: Zentraaleuropääsch Summertiet
+  },
+  Europe/Rome: {
+    Generic: Zentraaleuropääsch Tiet,
+    Standard: Zentraaleuropääsch Standardtiet,
+    Daylight: Zentraaleuropääsch Summertiet
+  },
+  Europe/Vaduz: {
+    Generic: Zentraaleuropääsch Tiet,
+    Standard: Zentraaleuropääsch Standardtiet,
+    Daylight: Zentraaleuropääsch Summertiet
+  },
+  Europe/Luxembourg: {
+    Generic: Zentraaleuropääsch Tiet,
+    Standard: Zentraaleuropääsch Standardtiet,
+    Daylight: Zentraaleuropääsch Summertiet
+  },
+  Europe/Monaco: {
+    Generic: Zentraaleuropääsch Tiet,
+    Standard: Zentraaleuropääsch Standardtiet,
+    Daylight: Zentraaleuropääsch Summertiet
+  },
+  Europe/Malta: {
+    Generic: Zentraaleuropääsch Tiet,
+    Standard: Zentraaleuropääsch Standardtiet,
+    Daylight: Zentraaleuropääsch Summertiet
+  },
+  Europe/Amsterdam: {
+    Generic: Zentraaleuropääsch Tiet,
+    Standard: Zentraaleuropääsch Standardtiet,
+    Daylight: Zentraaleuropääsch Summertiet
+  },
+  Europe/Oslo: {
+    Generic: Zentraaleuropääsch Tiet,
+    Standard: Zentraaleuropääsch Standardtiet,
+    Daylight: Zentraaleuropääsch Summertiet
+  },
+  Europe/Stockholm: {
+    Generic: Zentraaleuropääsch Tiet,
+    Standard: Zentraaleuropääsch Standardtiet,
+    Daylight: Zentraaleuropääsch Summertiet
+  },
+  Arctic/Longyearbyen: {
+    Generic: Zentraaleuropääsch Tiet,
+    Standard: Zentraaleuropääsch Standardtiet,
+    Daylight: Zentraaleuropääsch Summertiet
+  },
+  Europe/San_Marino: {
+    Generic: Zentraaleuropääsch Tiet,
+    Standard: Zentraaleuropääsch Standardtiet,
+    Daylight: Zentraaleuropääsch Summertiet
+  },
+  Europe/Vatican: {
+    Generic: Zentraaleuropääsch Tiet,
+    Standard: Zentraaleuropääsch Standardtiet,
+    Daylight: Zentraaleuropääsch Summertiet
+  },
+  Asia/Hovd: {
+    Generic: Mongolei-Tiet,
+    Standard: Mongolei-Standardtiet,
+    Daylight: Mongolei-Summertiet
+  },
+  Asia/Tashkent: {
+    Generic: Usbekistan-Tiet,
+    Standard: Usbekistan-Standardtiet,
+    Daylight: Usbekistan-Summertiet
+  },
+  Antarctica/Mawson: {
+    Generic: Antarktis-Tiet,
+    Standard: Antarktis-Standardtiet,
+    Daylight: Antarktis-Summertiet
+  },
+  Asia/Oral: {
+    Generic: Kasachstan-Tiet,
+    Standard: Kasachstan-Standardtiet,
+    Daylight: Kasachstan-Summertiet
+  },
+  Asia/Aqtau: {
+    Generic: Kasachstan-Tiet,
+    Standard: Kasachstan-Standardtiet,
+    Daylight: Kasachstan-Summertiet
+  },
+  Asia/Aqtobe: {
+    Generic: Kasachstan-Tiet,
+    Standard: Kasachstan-Standardtiet,
+    Daylight: Kasachstan-Summertiet
+  },
+  Asia/Atyrau: {
+    Generic: Kasachstan-Tiet,
+    Standard: Kasachstan-Standardtiet,
+    Daylight: Kasachstan-Summertiet
+  },
+  Indian/Maldives: {
+    Generic: Malediven-Tiet,
+    Standard: Malediven-Standardtiet,
+    Daylight: Malediven-Summertiet
+  },
+  Indian/Kerguelen: {
+    Generic: Franzöösche Süüd- un Antarktisrebeden-Tiet,
+    Standard: Franzöösche Süüd- un Antarktisrebeden-Standardtiet,
+    Daylight: Franzöösche Süüd- un Antarktisrebeden-Summertiet
+  },
+  Asia/Dushanbe: {
+    Generic: Tadschikistan-Tiet,
+    Standard: Tadschikistan-Standardtiet,
+    Daylight: Tadschikistan-Summertiet
+  },
+  Asia/Ashgabat: {
+    Generic: Turkmenistan-Tiet,
+    Standard: Turkmenistan-Standardtiet,
+    Daylight: Turkmenistan-Summertiet
+  },
+  Asia/Samarkand: {
+    Generic: Usbekistan-Tiet,
+    Standard: Usbekistan-Standardtiet,
+    Daylight: Usbekistan-Summertiet
+  },
+  Etc/GMT-5: {
+    Generic: UTC-Tiet +5,
+    Standard: UTC-Standardtiet +5,
+    Daylight: UTC-Summertiet +5
+  },
+  Asia/Hebron: {
+    Generic: Oosteuropääsch Tiet,
+    Standard: Oosteuropääsch Standardtiet,
+    Daylight: Oosteuropääsch Summertiet
+  },
+  Asia/Gaza: {
+    Generic: Oosteuropääsch Tiet,
+    Standard: Oosteuropääsch Standardtiet,
+    Daylight: Oosteuropääsch Summertiet
+  },
+  Pacific/Port_Moresby: {
+    Generic: Papua-Neeguinea-Tiet,
+    Standard: Papua-Neeguinea-Standardtiet,
+    Daylight: Papua-Neeguinea-Summertiet
+  },
+  Antarctica/DumontDUrville: {
+    Generic: Antarktis-Tiet,
+    Standard: Antarktis-Standardtiet,
+    Daylight: Antarktis-Summertiet
+  },
+  Pacific/Truk: {
+    Generic: Mikronesien-Tiet,
+    Standard: Mikronesien-Standardtiet,
+    Daylight: Mikronesien-Summertiet
+  },
+  Pacific/Guam: {
+    Generic: Guam-Tiet,
+    Standard: Guam-Standardtiet,
+    Daylight: Guam-Summertiet
+  },
+  Pacific/Saipan: {
+    Generic: Nöördliche Marianen-Tiet,
+    Standard: Nöördliche Marianen-Standardtiet,
+    Daylight: Nöördliche Marianen-Summertiet
+  },
+  Etc/GMT-10: {
+    Generic: UTC-Tiet +10,
+    Standard: UTC-Standardtiet +10,
+    Daylight: UTC-Summertiet +10
+  },
+  Asia/Yakutsk: {
+    Generic: Jakutsk-Tiet,
+    Standard: Jakutsk-Standardtiet,
+    Daylight: Jakutsk-Summertiet
+  },
+  Asia/Khandyga: {
+    Generic: Khandyga-Tiet,
+    Standard: Khandyga-Standardtiet,
+    Daylight: Khandyga-Summertiet
+  },
+  America/Whitehorse: {
+    Generic: Kanada-Tiet,
+    Standard: Kanada-Standardtiet,
+    Daylight: Kanada-Summertiet
+  },
+  America/Dawson: {
+    Generic: Kanada-Tiet,
+    Standard: Kanada-Standardtiet,
+    Daylight: Kanada-Summertiet
+  },
+  Iceland: {
+    Generic: Gröönwisch-Welttiet,
+    Standard: Gröönwisch-Welttiet,
+    Daylight: Gröönwisch-Welttiet
+  },
+  Africa/Timbuktu: {
+    Generic: Gröönwisch-Welttiet,
+    Standard: Gröönwisch-Welttiet,
+    Daylight: Gröönwisch-Welttiet
+  },
+  Egypt: {
+    Generic: Oosteuropääsch Tiet,
+    Standard: Oosteuropääsch Standardtiet,
+    Daylight: Oosteuropääsch Summertiet
+  },
+  Africa/Asmara: {
+    Generic: Oostafrikaansch Tiet,
+    Standard: Oostafrikaansch Tiet,
+    Daylight: Oostafrikaansch Tiet
+  },
+  Libya: {
+    Generic: Oosteuropääsch Tiet,
+    Standard: Oosteuropääsch Standardtiet,
+    Daylight: Oosteuropääsch Summertiet
+  },
+  America/Atka: {
+    Generic: USA-Tiet,
+    Standard: USA-Standardtiet,
+    Daylight: USA-Summertiet
+  },
+  US/Aleutian: {
+    Generic: USA-Tiet,
+    Standard: USA-Standardtiet,
+    Daylight: USA-Summertiet
+  },
+  US/Alaska: {
+    Generic: USA-Tiet,
+    Standard: USA-Standardtiet,
+    Daylight: USA-Summertiet
+  },
+  America/Argentina/Buenos_Aires: {
+    Generic: Argentinien-Tiet,
+    Standard: Argentinien-Standardtiet,
+    Daylight: Argentinien-Summertiet
+  },
+  America/Argentina/Catamarca: {
+    Generic: Argentinien-Tiet,
+    Standard: Argentinien-Standardtiet,
+    Daylight: Argentinien-Summertiet
+  },
+  America/Argentina/ComodRivadavia: {
+    Generic: Argentinien-Tiet,
+    Standard: Argentinien-Standardtiet,
+    Daylight: Argentinien-Summertiet
+  },
+  America/Argentina/Cordoba: {
+    Generic: Argentinien-Tiet,
+    Standard: Argentinien-Standardtiet,
+    Daylight: Argentinien-Summertiet
+  },
+  America/Rosario: {
+    Generic: Argentinien-Tiet,
+    Standard: Argentinien-Standardtiet,
+    Daylight: Argentinien-Summertiet
+  },
+  America/Argentina/Jujuy: {
+    Generic: Argentinien-Tiet,
+    Standard: Argentinien-Standardtiet,
+    Daylight: Argentinien-Summertiet
+  },
+  America/Argentina/Mendoza: {
+    Generic: Argentinien-Tiet,
+    Standard: Argentinien-Standardtiet,
+    Daylight: Argentinien-Summertiet
+  },
+  US/Central: {
+    Generic: Noordamerikaansch Zentraaltiet,
+    Standard: Noordamerikaansch zentraal Standardtiet,
+    Daylight: Noordamerikaansch zentraal Summertiet
+  },
+  America/Shiprock: {
+    Generic: Noordamerikaansch Bargtiet,
+    Standard: Noordamerikaansch Barg-Standardtiet,
+    Daylight: Noordamerikaansch Barg-Summertiet
+  },
+  Navajo: {
+    Generic: Noordamerikaansch Bargtiet,
+    Standard: Noordamerikaansch Barg-Standardtiet,
+    Daylight: Noordamerikaansch Barg-Summertiet
+  },
+  US/Mountain: {
+    Generic: Noordamerikaansch Bargtiet,
+    Standard: Noordamerikaansch Barg-Standardtiet,
+    Daylight: Noordamerikaansch Barg-Summertiet
+  },
+  US/Michigan: {
+    Generic: Noordamerikaansch oosten Tiet,
+    Standard: Noordamerikaansch oosten Standardtiet,
+    Daylight: Noordamerikaansch oosten Summertiet
+  },
+  Canada/Mountain: {
+    Generic: Noordamerikaansch Bargtiet,
+    Standard: Noordamerikaansch Barg-Standardtiet,
+    Daylight: Noordamerikaansch Barg-Summertiet
+  },
+  Canada/Atlantic: {
+    Generic: Noordamerikaansch Atlantiktiet,
+    Standard: Noordamerikaansch Atlantik-Standardtiet,
+    Daylight: Noordamerikaansch Atlantik-Summertiet
+  },
+  Cuba: {
+    Generic: Kuba-Tiet,
+    Standard: Kuba-Standardtiet,
+    Daylight: Kuba-Summertiet
+  },
+  America/Indiana/Indianapolis: {
+    Generic: Noordamerikaansch oosten Tiet,
+    Standard: Noordamerikaansch oosten Standardtiet,
+    Daylight: Noordamerikaansch oosten Summertiet
+  },
+  US/East-Indiana: {
+    Generic: Noordamerikaansch oosten Tiet,
+    Standard: Noordamerikaansch oosten Standardtiet,
+    Daylight: Noordamerikaansch oosten Summertiet
+  },
+  America/Knox_IN: {
+    Generic: Noordamerikaansch Zentraaltiet,
+    Standard: Noordamerikaansch zentraal Standardtiet,
+    Daylight: Noordamerikaansch zentraal Summertiet
+  },
+  US/Indiana-Starke: {
+    Generic: Noordamerikaansch Zentraaltiet,
+    Standard: Noordamerikaansch zentraal Standardtiet,
+    Daylight: Noordamerikaansch zentraal Summertiet
+  },
+  Jamaica: {
+    Generic: Noordamerikaansch oosten Tiet,
+    Standard: Noordamerikaansch oosten Standardtiet,
+    Daylight: Noordamerikaansch oosten Summertiet
+  },
+  America/Kentucky/Louisville: {
+    Generic: Noordamerikaansch oosten Tiet,
+    Standard: Noordamerikaansch oosten Standardtiet,
+    Daylight: Noordamerikaansch oosten Summertiet
+  },
+  US/Pacific: {
+    Generic: Noordamerikaansch Pazifiktiet,
+    Standard: Noordamerikaansch Pazifik-Standardtiet,
+    Daylight: Noordamerikaansch Pazifik-Summertiet
+  },
+  Brazil/West: {
+    Generic: Brasilien-Tiet,
+    Standard: Brasilien-Standardtiet,
+    Daylight: Brasilien-Summertiet
+  },
+  Mexico/BajaSur: {
+    Generic: Mexiko-Tiet,
+    Standard: Mexiko-Standardtiet,
+    Daylight: Mexiko-Summertiet
+  },
+  Mexico/General: {
+    Generic: Noordamerikaansch Zentraaltiet,
+    Standard: Noordamerikaansch zentraal Standardtiet,
+    Daylight: Noordamerikaansch zentraal Summertiet
+  },
+  US/Eastern: {
+    Generic: Noordamerikaansch oosten Tiet,
+    Standard: Noordamerikaansch oosten Standardtiet,
+    Daylight: Noordamerikaansch oosten Summertiet
+  },
+  Brazil/DeNoronha: {
+    Generic: Brasilien-Tiet,
+    Standard: Brasilien-Standardtiet,
+    Daylight: Brasilien-Summertiet
+  },
+  America/Nuuk: {
+    Generic: Gröönland-Tiet,
+    Standard: Gröönland-Standardtiet,
+    Daylight: Gröönland-Summertiet
+  },
+  America/Atikokan: {
+    Generic: Noordamerikaansch oosten Tiet,
+    Standard: Noordamerikaansch oosten Standardtiet,
+    Daylight: Noordamerikaansch oosten Summertiet
+  },
+  US/Arizona: {
+    Generic: Noordamerikaansch Bargtiet,
+    Standard: Noordamerikaansch Barg-Standardtiet,
+    Daylight: Noordamerikaansch Barg-Summertiet
+  },
+  America/Virgin: {
+    Generic: Noordamerikaansch Atlantiktiet,
+    Standard: Noordamerikaansch Atlantik-Standardtiet,
+    Daylight: Noordamerikaansch Atlantik-Summertiet
+  },
+  Canada/Saskatchewan: {
+    Generic: Noordamerikaansch Zentraaltiet,
+    Standard: Noordamerikaansch zentraal Standardtiet,
+    Daylight: Noordamerikaansch zentraal Summertiet
+  },
+  America/Porto_Acre: {
+    Generic: Brasilien-Tiet,
+    Standard: Brasilien-Standardtiet,
+    Daylight: Brasilien-Summertiet
+  },
+  Brazil/Acre: {
+    Generic: Brasilien-Tiet,
+    Standard: Brasilien-Standardtiet,
+    Daylight: Brasilien-Summertiet
+  },
+  Chile/Continental: {
+    Generic: Chile-Tiet,
+    Standard: Chile-Standardtiet,
+    Daylight: Chile-Summertiet
+  },
+  Brazil/East: {
+    Generic: Brasilien-Tiet,
+    Standard: Brasilien-Standardtiet,
+    Daylight: Brasilien-Summertiet
+  },
+  Canada/Newfoundland: {
+    Generic: Kanada-Tiet,
+    Standard: Kanada-Standardtiet,
+    Daylight: Kanada-Summertiet
+  },
+  America/Ensenada: {
+    Generic: Noordamerikaansch Pazifiktiet,
+    Standard: Noordamerikaansch Pazifik-Standardtiet,
+    Daylight: Noordamerikaansch Pazifik-Summertiet
+  },
+  Mexico/BajaNorte: {
+    Generic: Noordamerikaansch Pazifiktiet,
+    Standard: Noordamerikaansch Pazifik-Standardtiet,
+    Daylight: Noordamerikaansch Pazifik-Summertiet
+  },
+  Canada/Eastern: {
+    Generic: Noordamerikaansch oosten Tiet,
+    Standard: Noordamerikaansch oosten Standardtiet,
+    Daylight: Noordamerikaansch oosten Summertiet
+  },
+  Canada/Pacific: {
+    Generic: Noordamerikaansch Pazifiktiet,
+    Standard: Noordamerikaansch Pazifik-Standardtiet,
+    Daylight: Noordamerikaansch Pazifik-Summertiet
+  },
+  Canada/Yukon: {
+    Generic: Kanada-Tiet,
+    Standard: Kanada-Standardtiet,
+    Daylight: Kanada-Summertiet
+  },
+  Canada/Central: {
+    Generic: Noordamerikaansch Zentraaltiet,
+    Standard: Noordamerikaansch zentraal Standardtiet,
+    Daylight: Noordamerikaansch zentraal Summertiet
+  },
+  Asia/Ashkhabad: {
+    Generic: Turkmenistan-Tiet,
+    Standard: Turkmenistan-Standardtiet,
+    Daylight: Turkmenistan-Summertiet
+  },
+  Asia/Dacca: {
+    Generic: Bangladesch-Tiet,
+    Standard: Bangladesch-Standardtiet,
+    Daylight: Bangladesch-Summertiet
+  },
+  Asia/Ho_Chi_Minh: {
+    Generic: Söödoostasiaatsch Tiet,
+    Standard: Söödoostasiaatsch Tiet,
+    Daylight: Söödoostasiaatsch Tiet
+  },
+  Hongkong: {
+    Generic: Sünnerverwaltensrebeet Hongkong-Tiet,
+    Standard: Sünnerverwaltensrebeet Hongkong-Standardtiet,
+    Daylight: Sünnerverwaltensrebeet Hongkong-Summertiet
+  },
+  Asia/Tel_Aviv: {
+    Generic: Israel-Tiet,
+    Standard: Israel-Standardtiet,
+    Daylight: Israel-Summertiet
+  },
+  Israel: {
+    Generic: Israel-Tiet,
+    Standard: Israel-Standardtiet,
+    Daylight: Israel-Summertiet
+  },
+  Asia/Kathmandu: {
+    Generic: Nepal-Tiet,
+    Standard: Nepal-Standardtiet,
+    Daylight: Nepal-Summertiet
+  },
+  Asia/Kolkata: {
+    Generic: Indien-Tiet,
+    Standard: Indien-Tiet,
+    Daylight: Indien-Tiet
+  },
+  Asia/Macao: {
+    Generic: China-Tiet,
+    Standard: China-Standardtiet,
+    Daylight: China-Summertiet
+  },
+  Asia/Ujung_Pandang: {
+    Generic: Indoneesch Zentraaltiet,
+    Standard: Indoneesch Zentraaltiet,
+    Daylight: Indoneesch Zentraaltiet
+  },
+  Europe/Nicosia: {
+    Generic: Oosteuropääsch Tiet,
+    Standard: Oosteuropääsch Standardtiet,
+    Daylight: Oosteuropääsch Summertiet
+  },
+  ROK: {
+    Generic: Koreaansch Tiet,
+    Standard: Koreaansch Standardtiet,
+    Daylight: Koreaansch Summertiet
+  },
+  Asia/Chongqing: {
+    Generic: China-Tiet,
+    Standard: China-Standardtiet,
+    Daylight: China-Summertiet
+  },
+  Asia/Chungking: {
+    Generic: China-Tiet,
+    Standard: China-Standardtiet,
+    Daylight: China-Summertiet
+  },
+  Asia/Harbin: {
+    Generic: China-Tiet,
+    Standard: China-Standardtiet,
+    Daylight: China-Summertiet
+  },
+  PRC: {
+    Generic: China-Tiet,
+    Standard: China-Standardtiet,
+    Daylight: China-Summertiet
+  },
+  Singapore: {
+    Generic: Singapur-Tiet,
+    Standard: Singapur-Standardtiet,
+    Daylight: Singapur-Summertiet
+  },
+  ROC: {
+    Generic: Taiwan-Tiet,
+    Standard: Taiwan-Standardtiet,
+    Daylight: Taiwan-Summertiet
+  },
+  Iran: {
+    Generic: Iran-Tiet,
+    Standard: Iran-Standardtiet,
+    Daylight: Iran-Summertiet
+  },
+  Asia/Thimbu: {
+    Generic: Bhutan-Tiet,
+    Standard: Bhutan-Standardtiet,
+    Daylight: Bhutan-Summertiet
+  },
+  Japan: {
+    Generic: Japaansch Tiet,
+    Standard: Japaansch Standardtiet,
+    Daylight: Japaansch Summertiet
+  },
+  Asia/Ulan_Bator: {
+    Generic: Mongolei-Tiet,
+    Standard: Mongolei-Standardtiet,
+    Daylight: Mongolei-Summertiet
+  },
+  Asia/Kashgar: {
+    Generic: China-Tiet,
+    Standard: China-Standardtiet,
+    Daylight: China-Summertiet
+  },
+  Asia/Yangon: {
+    Generic: Birma-Tiet,
+    Standard: Birma-Standardtiet,
+    Daylight: Birma-Summertiet
+  },
+  WET: {
+    Generic: Westeuropääsch Tiet,
+    Standard: Westeuropääsch Standardtiet,
+    Daylight: Westeuropääsch Summertiet
+  },
+  Atlantic/Faroe: {
+    Generic: Westeuropääsch Tiet,
+    Standard: Westeuropääsch Standardtiet,
+    Daylight: Westeuropääsch Summertiet
+  },
+  Australia/South: {
+    Generic: Zentraalaustraalsch Tiet,
+    Standard: Zentraalaustraalsch Standardtiet,
+    Daylight: Zentraalaustraalsch Summertiet
+  },
+  Australia/Queensland: {
+    Generic: Oostaustraalsch Tiet,
+    Standard: Oostaustraalsch Standardtiet,
+    Daylight: Oostaustraalsch Summertiet
+  },
+  Australia/Yancowinna: {
+    Generic: Zentraalaustraalsch Tiet,
+    Standard: Zentraalaustraalsch Standardtiet,
+    Daylight: Zentraalaustraalsch Summertiet
+  },
+  Australia/North: {
+    Generic: Zentraalaustraalsch Tiet,
+    Standard: Zentraalaustraalsch Standardtiet,
+    Daylight: Zentraalaustraalsch Summertiet
+  },
+  Australia/Tasmania: {
+    Generic: Oostaustraalsch Tiet,
+    Standard: Oostaustraalsch Standardtiet,
+    Daylight: Oostaustraalsch Summertiet
+  },
+  Australia/LHI: {
+    Generic: Australien-Tiet,
+    Standard: Australien-Standardtiet,
+    Daylight: Australien-Summertiet
+  },
+  Australia/Victoria: {
+    Generic: Oostaustraalsch Tiet,
+    Standard: Oostaustraalsch Standardtiet,
+    Daylight: Oostaustraalsch Summertiet
+  },
+  Australia/West: {
+    Generic: Westaustraalsch Tiet,
+    Standard: Westaustraalsch Standardtiet,
+    Daylight: Westaustraalsch Summertiet
+  },
+  Australia/ACT: {
+    Generic: Oostaustraalsch Tiet,
+    Standard: Oostaustraalsch Standardtiet,
+    Daylight: Oostaustraalsch Summertiet
+  },
+  Australia/Canberra: {
+    Generic: Oostaustraalsch Tiet,
+    Standard: Oostaustraalsch Standardtiet,
+    Daylight: Oostaustraalsch Summertiet
+  },
+  Australia/NSW: {
+    Generic: Oostaustraalsch Tiet,
+    Standard: Oostaustraalsch Standardtiet,
+    Daylight: Oostaustraalsch Summertiet
+  },
+  HST: {
+    Generic: UTC-Tiet -10,
+    Standard: UTC-Standardtiet -10,
+    Daylight: UTC-Summertiet -10
+  },
+  EST: {
+    Generic: UTC-Tiet -5,
+    Standard: UTC-Standardtiet -5,
+    Daylight: UTC-Summertiet -5
+  },
+  MST: {
+    Generic: UTC-Tiet -7,
+    Standard: UTC-Standardtiet -7,
+    Daylight: UTC-Summertiet -7
+  },
+  Etc/GMT+0: {
+    Generic: Gröönwisch-Welttiet,
+    Standard: Gröönwisch-Welttiet,
+    Daylight: Gröönwisch-Welttiet
+  },
+  Etc/GMT-0: {
+    Generic: Gröönwisch-Welttiet,
+    Standard: Gröönwisch-Welttiet,
+    Daylight: Gröönwisch-Welttiet
+  },
+  Etc/GMT0: {
+    Generic: Gröönwisch-Welttiet,
+    Standard: Gröönwisch-Welttiet,
+    Daylight: Gröönwisch-Welttiet
+  },
+  Etc/Greenwich: {
+    Generic: Gröönwisch-Welttiet,
+    Standard: Gröönwisch-Welttiet,
+    Daylight: Gröönwisch-Welttiet
+  },
+  GMT: {
+    Generic: Gröönwisch-Welttiet,
+    Standard: Gröönwisch-Welttiet,
+    Daylight: Gröönwisch-Welttiet
+  },
+  GMT+0: {
+    Generic: Gröönwisch-Welttiet,
+    Standard: Gröönwisch-Welttiet,
+    Daylight: Gröönwisch-Welttiet
+  },
+  GMT-0: {
+    Generic: Gröönwisch-Welttiet,
+    Standard: Gröönwisch-Welttiet,
+    Daylight: Gröönwisch-Welttiet
+  },
+  GMT0: {
+    Generic: Gröönwisch-Welttiet,
+    Standard: Gröönwisch-Welttiet,
+    Daylight: Gröönwisch-Welttiet
+  },
+  Greenwich: {
+    Generic: Gröönwisch-Welttiet,
+    Standard: Gröönwisch-Welttiet,
+    Daylight: Gröönwisch-Welttiet
+  },
+  Etc/UCT: {
+    Generic: UTC-Tiet,
+    Standard: UTC-Standardtiet,
+    Daylight: UTC-Summertiet
+  },
+  Etc/Universal: {
+    Generic: UTC-Tiet,
+    Standard: UTC-Standardtiet,
+    Daylight: UTC-Summertiet
+  },
+  Etc/Zulu: {
+    Generic: UTC-Tiet,
+    Standard: UTC-Standardtiet,
+    Daylight: UTC-Summertiet
+  },
+  UCT: {
+    Generic: UTC-Tiet,
+    Standard: UTC-Standardtiet,
+    Daylight: UTC-Summertiet
+  },
+  UTC: {
+    Generic: UTC-Tiet,
+    Standard: UTC-Standardtiet,
+    Daylight: UTC-Summertiet
+  },
+  Universal: {
+    Generic: UTC-Tiet,
+    Standard: UTC-Standardtiet,
+    Daylight: UTC-Summertiet
+  },
+  Zulu: {
+    Generic: UTC-Tiet,
+    Standard: UTC-Standardtiet,
+    Daylight: UTC-Summertiet
+  },
+  Atlantic/Jan_Mayen: {
+    Generic: Zentraaleuropääsch Tiet,
+    Standard: Zentraaleuropääsch Standardtiet,
+    Daylight: Zentraaleuropääsch Summertiet
+  },
+  MET: {
+    Generic: Zentraaleuropääsch Tiet,
+    Standard: Zentraaleuropääsch Standardtiet,
+    Daylight: Zentraaleuropääsch Summertiet
+  },
+  EET: {
+    Generic: Oosteuropääsch Tiet,
+    Standard: Oosteuropääsch Standardtiet,
+    Daylight: Oosteuropääsch Summertiet
+  },
+  Europe/Tiraspol: {
+    Generic: Oosteuropääsch Tiet,
+    Standard: Oosteuropääsch Standardtiet,
+    Daylight: Oosteuropääsch Summertiet
+  },
+  Eire: {
+    Generic: Gröönwisch-Welttiet,
+    Standard: Gröönwisch-Welttiet,
+    Daylight: Gröönwisch-Welttiet
+  },
+  Asia/Istanbul: {
+    Generic: Törkei-Tiet,
+    Standard: Törkei-Standardtiet,
+    Daylight: Törkei-Summertiet
+  },
+  Turkey: {
+    Generic: Törkei-Tiet,
+    Standard: Törkei-Standardtiet,
+    Daylight: Törkei-Summertiet
+  },
+  Europe/Kyiv: {
+    Generic: Oosteuropääsch Tiet,
+    Standard: Oosteuropääsch Standardtiet,
+    Daylight: Oosteuropääsch Summertiet
+  },
+  Portugal: {
+    Generic: Westeuropääsch Tiet,
+    Standard: Westeuropääsch Standardtiet,
+    Daylight: Westeuropääsch Summertiet
+  },
+  Europe/Belfast: {
+    Generic: Gröönwisch-Welttiet,
+    Standard: Gröönwisch-Welttiet,
+    Daylight: Gröönwisch-Welttiet
+  },
+  GB: {
+    Generic: Gröönwisch-Welttiet,
+    Standard: Gröönwisch-Welttiet,
+    Daylight: Gröönwisch-Welttiet
+  },
+  GB-Eire: {
+    Generic: Gröönwisch-Welttiet,
+    Standard: Gröönwisch-Welttiet,
+    Daylight: Gröönwisch-Welttiet
+  },
+  W-SU: {
+    Generic: Moskau-Tiet,
+    Standard: Moskau-Standardtiet,
+    Daylight: Moskau-Summertiet
+  },
+  CET: {
+    Generic: Zentraaleuropääsch Tiet,
+    Standard: Zentraaleuropääsch Standardtiet,
+    Daylight: Zentraaleuropääsch Summertiet
+  },
+  Poland: {
+    Generic: Zentraaleuropääsch Tiet,
+    Standard: Zentraaleuropääsch Standardtiet,
+    Daylight: Zentraaleuropääsch Summertiet
+  },
+  Antarctica/South_Pole: {
+    Generic: Neeseeland-Tiet,
+    Standard: Neeseeland-Standardtiet,
+    Daylight: Neeseeland-Summertiet
+  },
+  NZ: {
+    Generic: Neeseeland-Tiet,
+    Standard: Neeseeland-Standardtiet,
+    Daylight: Neeseeland-Summertiet
+  },
+  NZ-CHAT: {
+    Generic: Neeseeland-Tiet,
+    Standard: Neeseeland-Standardtiet,
+    Daylight: Neeseeland-Summertiet
+  },
+  Chile/EasterIsland: {
+    Generic: Chile-Tiet,
+    Standard: Chile-Standardtiet,
+    Daylight: Chile-Summertiet
+  },
+  Pacific/Pohnpei: {
+    Generic: Mikronesien-Tiet,
+    Standard: Mikronesien-Standardtiet,
+    Daylight: Mikronesien-Summertiet
+  },
+  US/Hawaii: {
+    Generic: USA-Tiet,
+    Standard: USA-Standardtiet,
+    Daylight: USA-Summertiet
+  },
+  Pacific/Kanton: {
+    Generic: Kiribati-Tiet,
+    Standard: Kiribati-Standardtiet,
+    Daylight: Kiribati-Summertiet
+  },
+  Kwajalein: {
+    Generic: Marshall-Eilannen-Tiet,
+    Standard: Marshall-Eilannen-Standardtiet,
+    Daylight: Marshall-Eilannen-Summertiet
+  },
+  Pacific/Samoa: {
+    Generic: Amerikaansch-Samoa-Tiet,
+    Standard: Amerikaansch-Samoa-Standardtiet,
+    Daylight: Amerikaansch-Samoa-Summertiet
+  },
+  US/Samoa: {
+    Generic: Amerikaansch-Samoa-Tiet,
+    Standard: Amerikaansch-Samoa-Standardtiet,
+    Daylight: Amerikaansch-Samoa-Summertiet
+  },
+  Pacific/Chuuk: {
+    Generic: Mikronesien-Tiet,
+    Standard: Mikronesien-Standardtiet,
+    Daylight: Mikronesien-Summertiet
+  },
+  Pacific/Yap: {
+    Generic: Mikronesien-Tiet,
+    Standard: Mikronesien-Standardtiet,
+    Daylight: Mikronesien-Summertiet
+  },
+  America/Fort_Wayne: {
+    Generic: Noordamerikaansch oosten Tiet,
+    Standard: Noordamerikaansch oosten Standardtiet,
+    Daylight: Noordamerikaansch oosten Summertiet
+  },
+  Antarctica/Troll: {
+    Generic: Gröönwisch-Welttiet,
+    Standard: Gröönwisch-Welttiet,
+    Daylight: Gröönwisch-Welttiet
   }
-]
+}
