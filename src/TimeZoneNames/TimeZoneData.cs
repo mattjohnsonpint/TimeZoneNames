@@ -30,7 +30,7 @@ internal class TimeZoneData
 
     public List<TimeZoneSelectionData> SelectionZones { get; set; } = new();
 
-    public Dictionary<string, Dictionary<string, string>> DisplayNames { get; set; } = new(StringComparer.OrdinalIgnoreCase);
+    public Dictionary<string, IDictionary<string, string>> DisplayNames { get; set; } = new(StringComparer.OrdinalIgnoreCase);
 
     [SecuritySafeCritical]
     public static TimeZoneData Load()

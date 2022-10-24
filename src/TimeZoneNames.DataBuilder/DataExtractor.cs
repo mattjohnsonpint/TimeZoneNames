@@ -527,7 +527,8 @@ public class DataExtractor
         foreach (var item in languages.AsArray())
         {
             var locale = item["Locale"]!.GetValue<string>().Replace("-", "_");
-            var timeZones = item["TimeZones"]!.AsObject().ToDictionary(o=> o.Key, o=> (string)o.Value);
+            var timeZones = item["TimeZones"]!.AsObject()
+                .ToOrderedDictionary(o => o.Key, o => (string) o.Value);
 
             _data.DisplayNames.Add(locale, timeZones);
         }

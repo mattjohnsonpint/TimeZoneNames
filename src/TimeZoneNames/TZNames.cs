@@ -176,7 +176,6 @@ public static class TZNames
             results.Add(zone, name);
         }
 
-
         return results;
     }
 
@@ -292,24 +291,22 @@ public static class TZNames
             throw new ArgumentException("Invalid Language Code", nameof(languageCode));
         }
 
-        var displayNames = Data.DisplayNames[langKey];
+        var displayNames = Data.DisplayNames[langKey]
+            .Where(x => !TimeZoneData.ObsoleteWindowsZones.Contains(x.Key))
+            .ToList();
 
         if (!useIanaZoneIds)
         {
-            return displayNames;
+            return displayNames.ToOrderedDictionary(StringComparer.OrdinalIgnoreCase);
         }
-
+        
         var languageCodeParts = languageCode.Split('_', '-');
         var territoryCode = languageCodeParts.Length < 2 ? "001" : languageCodeParts[1];
-        return displayNames
-            .Where(x => !TimeZoneData.ObsoleteWindowsZones.Contains(x.Key))
-            .ToDictionary(
-                x => TZConvert.WindowsToIana(x.Key, territoryCode),
-                x => x.Value,
-                StringComparer.OrdinalIgnoreCase);
+        return displayNames.ToOrderedDictionary(
+            x => TZConvert.WindowsToIana(x.Key, territoryCode),
+            x => x.Value,
+            StringComparer.OrdinalIgnoreCase);
     }
-
-
 
     /// <summary>
     /// Gets a list of all language codes supported by this library.
