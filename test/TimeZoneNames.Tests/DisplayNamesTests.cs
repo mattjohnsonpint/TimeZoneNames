@@ -34,6 +34,9 @@ public class DisplayNamesTests
         // This test requires Windows
         Skip.IfNot(RuntimeInformation.IsOSPlatform(OSPlatform.Windows));
         
+        // The data has an update for Jordan Standard Time that might not yet be installed
+        Skip.If(!TimeZoneInfo.FindSystemTimeZoneById("Jordan Standard Time").DisplayName.Contains("+03:00"));
+        
         var languageCode = CultureInfo.InstalledUICulture.IetfLanguageTag;
 
         var displayNames = TZNames.GetDisplayNames(languageCode);
