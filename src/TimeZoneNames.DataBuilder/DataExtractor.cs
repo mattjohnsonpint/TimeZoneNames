@@ -527,7 +527,18 @@ public class DataExtractor
         foreach (var item in languages.AsArray())
         {
             var locale = item["Locale"]!.GetValue<string>().Replace("-", "_");
-            var timeZones = item["TimeZones"]!.AsObject()
+            var list = item["TimeZones"]!.AsObject()
+                .Select(o => new KeyValuePair<string, string>(o.Key, (string) o.Value))
+                .ToList();
+            
+            // Base offset change for Jordan, reflected in Windows, not yet in tzinfo.json
+            var jordan = list.First(x => x.Key == "Jordan Standard Time");
+            list.Remove(jordan);
+            jordan = new KeyValuePair<string, string>(jordan.Key, jordan.Value.Replace("+02:00", "+03:00"));
+            var i = list.FindIndex(x => x.Key == "Arabic Standard Time");
+            list.Insert(i, jordan);
+            
+            var timeZones = list
                 .ToOrderedDictionary(o => o.Key, o => (string) o.Value);
 
             _data.DisplayNames.Add(locale, timeZones);
