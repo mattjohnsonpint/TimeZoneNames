@@ -4,19 +4,22 @@
     <Description>Provides localized time zone names.</Description>
     <Authors>Matt Johnson-Pint</Authors>
     <TargetFrameworks>net6.0;netstandard2.1;netstandard2.0;net462</TargetFrameworks>
-    <LangVersion>10</LangVersion>
     <PackageId>TimeZoneNames</PackageId>
     <PackageTags>timezone;time;zone;time zone;iana;tzdb;olson;timezoneinfo;globalization;international;localization</PackageTags>
     <PackageProjectUrl>https://github.com/mattjohnsonpint/TimeZoneNames</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Version>6.0.0</Version>
+    <Trimmable>true</Trimmable>
   </PropertyGroup>
 
   <PropertyGroup>
-    <GenerateDocumentationFile>true</GenerateDocumentationFile>
-    <AssemblyOriginatorKeyFile>mj1856_oss.snk</AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyFile>..\..\.assets\mattjohnsonpint.snk</AssemblyOriginatorKeyFile>
     <SignAssembly>true</SignAssembly>
-    <Trimmable>true</Trimmable>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
+    <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+    <EmbedUntrackedSources>true</EmbedUntrackedSources>
   </PropertyGroup>
 
   <ItemGroup>
@@ -25,6 +28,7 @@
   
   <ItemGroup>
     <PackageReference Include="TimeZoneConverter" Version="6.0.1" />
+    <PackageReference Include="Microsoft.SourceLink.GitHub" Version="1.1.1" PrivateAssets="All"/>
   </ItemGroup>
 
   <ItemGroup Condition="'$(TargetFramework)' != 'net6.0'">

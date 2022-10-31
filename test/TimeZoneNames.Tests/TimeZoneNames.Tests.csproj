@@ -2,7 +2,6 @@
 
   <PropertyGroup>
     <TargetFrameworks>net6.0;netcoreapp3.1;net48</TargetFrameworks>
-    <LangVersion>10</LangVersion>
   </PropertyGroup>
 
   <ItemGroup>
@@ -25,8 +24,8 @@
     <PackageReference Include="Xunit.SkippableFact" Version="1.4.13" />
   </ItemGroup>
 
-  <ItemGroup Condition="'$(TargetFramework)' == 'net48'">
-    <PackageReference Include="System.Collections.Immutable" Version="6.0.0" />
+  <ItemGroup Condition="'$(GITHUB_ACTIONS)' == 'true'">
+    <PackageReference Include="GitHubActionsTestLogger" Version="2.0.1" />
   </ItemGroup>
   
 </Project>
