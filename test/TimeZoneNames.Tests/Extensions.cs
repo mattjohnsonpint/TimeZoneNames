@@ -1,5 +1,3 @@
-using System.Collections.Generic;
-
 namespace TimeZoneNames.Tests;
 
 internal static class Extensions

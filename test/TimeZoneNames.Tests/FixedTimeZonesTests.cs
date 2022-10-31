@@ -1,9 +1,4 @@
-﻿using System.IO;
-using System.Threading.Tasks;
-using VerifyXunit;
-using Xunit;
-
-namespace TimeZoneNames.Tests;
+﻿namespace TimeZoneNames.Tests;
 
 [UsesVerify]
 public class FixedTimeZonesTests

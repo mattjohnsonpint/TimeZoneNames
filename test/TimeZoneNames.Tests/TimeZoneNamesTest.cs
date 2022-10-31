@@ -1,12 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Threading.Tasks;
-using NodaTime;
+﻿using NodaTime;
 using TimeZoneConverter;
-using VerifyXunit;
-using Xunit;
 using Xunit.Abstractions;
 
 namespace TimeZoneNames.Tests;
