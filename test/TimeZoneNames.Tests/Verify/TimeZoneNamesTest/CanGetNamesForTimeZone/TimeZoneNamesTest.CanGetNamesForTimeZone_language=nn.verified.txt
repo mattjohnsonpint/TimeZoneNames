@@ -1,115 +1,330 @@
 ﻿{
-  Australia/Darwin: {
-    Generic: sentralaustralsk tid,
-    Standard: sentralaustralsk standardtid,
-    Daylight: sentralaustralsk sommartid
+  Africa/Abidjan: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
   },
-  Australia/Sydney: {
-    Generic: austaustralsk tid,
-    Standard: austaustralsk standardtid,
-    Daylight: austaustralsk sommartid
+  Africa/Accra: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
   },
-  Australia/Melbourne: {
-    Generic: austaustralsk tid,
-    Standard: austaustralsk standardtid,
-    Daylight: austaustralsk sommartid
+  Africa/Addis_Ababa: {
+    Generic: austafrikansk tid,
+    Standard: austafrikansk tid,
+    Daylight: austafrikansk tid
   },
-  Asia/Kabul: {
-    Generic: Afghanistan Time,
-    Standard: Afghanistan Time,
-    Daylight: Afghanistan Time
+  Africa/Algiers: {
+    Generic: sentraleuropeisk tid,
+    Standard: sentraleuropeisk standardtid,
+    Daylight: sentraleuropeisk sommartid
   },
-  America/Anchorage: {
-    Generic: alaskisk tid,
-    Standard: alaskisk normaltid,
-    Daylight: alaskisk sommartid
+  Africa/Asmara: {
+    Generic: austafrikansk tid,
+    Standard: austafrikansk tid,
+    Daylight: austafrikansk tid
   },
-  America/Juneau: {
-    Generic: alaskisk tid,
-    Standard: alaskisk normaltid,
-    Daylight: alaskisk sommartid
+  Africa/Asmera: {
+    Generic: austafrikansk tid,
+    Standard: austafrikansk tid,
+    Daylight: austafrikansk tid
   },
-  America/Metlakatla: {
-    Generic: alaskisk tid,
-    Standard: alaskisk normaltid,
-    Daylight: alaskisk sommartid
+  Africa/Bamako: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
   },
-  America/Nome: {
-    Generic: alaskisk tid,
-    Standard: alaskisk normaltid,
-    Daylight: alaskisk sommartid
+  Africa/Bangui: {
+    Generic: vestafrikansk tid,
+    Standard: vestafrikansk standardtid,
+    Daylight: vestafrikansk sommartid
   },
-  America/Sitka: {
-    Generic: alaskisk tid,
-    Standard: alaskisk normaltid,
-    Daylight: alaskisk sommartid
+  Africa/Banjul: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
   },
-  America/Yakutat: {
-    Generic: alaskisk tid,
-    Standard: alaskisk normaltid,
-    Daylight: alaskisk sommartid
+  Africa/Bissau: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
+  },
+  Africa/Blantyre: {
+    Generic: Central Africa Time,
+    Standard: Central Africa Time,
+    Daylight: Central Africa Time
+  },
+  Africa/Brazzaville: {
+    Generic: vestafrikansk tid,
+    Standard: vestafrikansk standardtid,
+    Daylight: vestafrikansk sommartid
+  },
+  Africa/Bujumbura: {
+    Generic: Central Africa Time,
+    Standard: Central Africa Time,
+    Daylight: Central Africa Time
+  },
+  Africa/Cairo: {
+    Generic: austeuropeisk tid,
+    Standard: austeuropeisk standardtid,
+    Daylight: austeuropeisk sommartid
+  },
+  Africa/Casablanca: {
+    Generic: vesteuropeisk tid,
+    Standard: vesteuropeisk standardtid,
+    Daylight: vesteuropeisk sommartid
+  },
+  Africa/Ceuta: {
+    Generic: sentraleuropeisk tid,
+    Standard: sentraleuropeisk standardtid,
+    Daylight: sentraleuropeisk sommartid
+  },
+  Africa/Conakry: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
+  },
+  Africa/Dakar: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
+  },
+  Africa/Dar_es_Salaam: {
+    Generic: austafrikansk tid,
+    Standard: austafrikansk tid,
+    Daylight: austafrikansk tid
+  },
+  Africa/Djibouti: {
+    Generic: austafrikansk tid,
+    Standard: austafrikansk tid,
+    Daylight: austafrikansk tid
+  },
+  Africa/Douala: {
+    Generic: vestafrikansk tid,
+    Standard: vestafrikansk standardtid,
+    Daylight: vestafrikansk sommartid
+  },
+  Africa/El_Aaiun: {
+    Generic: vesteuropeisk tid,
+    Standard: vesteuropeisk standardtid,
+    Daylight: vesteuropeisk sommartid
+  },
+  Africa/Freetown: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
+  },
+  Africa/Gaborone: {
+    Generic: Central Africa Time,
+    Standard: Central Africa Time,
+    Daylight: Central Africa Time
+  },
+  Africa/Harare: {
+    Generic: Central Africa Time,
+    Standard: Central Africa Time,
+    Daylight: Central Africa Time
+  },
+  Africa/Johannesburg: {
+    Generic: South Africa Standard Time,
+    Standard: South Africa Standard Time,
+    Daylight: South Africa Standard Time
+  },
+  Africa/Juba: {
+    Generic: Central Africa Time,
+    Standard: Central Africa Time,
+    Daylight: Central Africa Time
+  },
+  Africa/Kampala: {
+    Generic: austafrikansk tid,
+    Standard: austafrikansk tid,
+    Daylight: austafrikansk tid
+  },
+  Africa/Khartoum: {
+    Generic: Central Africa Time,
+    Standard: Central Africa Time,
+    Daylight: Central Africa Time
+  },
+  Africa/Kigali: {
+    Generic: Central Africa Time,
+    Standard: Central Africa Time,
+    Daylight: Central Africa Time
+  },
+  Africa/Kinshasa: {
+    Generic: vestafrikansk tid,
+    Standard: vestafrikansk standardtid,
+    Daylight: vestafrikansk sommartid
+  },
+  Africa/Lagos: {
+    Generic: vestafrikansk tid,
+    Standard: vestafrikansk standardtid,
+    Daylight: vestafrikansk sommartid
+  },
+  Africa/Libreville: {
+    Generic: vestafrikansk tid,
+    Standard: vestafrikansk standardtid,
+    Daylight: vestafrikansk sommartid
+  },
+  Africa/Lome: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
+  },
+  Africa/Luanda: {
+    Generic: vestafrikansk tid,
+    Standard: vestafrikansk standardtid,
+    Daylight: vestafrikansk sommartid
+  },
+  Africa/Lubumbashi: {
+    Generic: Central Africa Time,
+    Standard: Central Africa Time,
+    Daylight: Central Africa Time
+  },
+  Africa/Lusaka: {
+    Generic: Central Africa Time,
+    Standard: Central Africa Time,
+    Daylight: Central Africa Time
+  },
+  Africa/Malabo: {
+    Generic: vestafrikansk tid,
+    Standard: vestafrikansk standardtid,
+    Daylight: vestafrikansk sommartid
+  },
+  Africa/Maputo: {
+    Generic: Central Africa Time,
+    Standard: Central Africa Time,
+    Daylight: Central Africa Time
+  },
+  Africa/Maseru: {
+    Generic: South Africa Standard Time,
+    Standard: South Africa Standard Time,
+    Daylight: South Africa Standard Time
+  },
+  Africa/Mbabane: {
+    Generic: South Africa Standard Time,
+    Standard: South Africa Standard Time,
+    Daylight: South Africa Standard Time
+  },
+  Africa/Mogadishu: {
+    Generic: austafrikansk tid,
+    Standard: austafrikansk tid,
+    Daylight: austafrikansk tid
+  },
+  Africa/Monrovia: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
+  },
+  Africa/Nairobi: {
+    Generic: austafrikansk tid,
+    Standard: austafrikansk tid,
+    Daylight: austafrikansk tid
+  },
+  Africa/Ndjamena: {
+    Generic: vestafrikansk tid,
+    Standard: vestafrikansk standardtid,
+    Daylight: vestafrikansk sommartid
+  },
+  Africa/Niamey: {
+    Generic: vestafrikansk tid,
+    Standard: vestafrikansk standardtid,
+    Daylight: vestafrikansk sommartid
+  },
+  Africa/Nouakchott: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
+  },
+  Africa/Ouagadougou: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
+  },
+  Africa/Porto-Novo: {
+    Generic: vestafrikansk tid,
+    Standard: vestafrikansk standardtid,
+    Daylight: vestafrikansk sommartid
+  },
+  Africa/Sao_Tome: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
+  },
+  Africa/Timbuktu: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
+  },
+  Africa/Tripoli: {
+    Generic: austeuropeisk tid,
+    Standard: austeuropeisk standardtid,
+    Daylight: austeuropeisk sommartid
+  },
+  Africa/Tunis: {
+    Generic: sentraleuropeisk tid,
+    Standard: sentraleuropeisk standardtid,
+    Daylight: sentraleuropeisk sommartid
+  },
+  Africa/Windhoek: {
+    Generic: Central Africa Time,
+    Standard: Central Africa Time,
+    Daylight: Central Africa Time
   },
   America/Adak: {
     Generic: tidssone for Hawaii og Aleutene,
     Standard: normaltid for Hawaii og Aleutene,
     Daylight: sommartid for Hawaii og Aleutene
   },
-  Asia/Barnaul: {
-    Generic: Barnaul Time,
-    Standard: Barnaul Standard Time,
-    Daylight: Barnaul Daylight Time
+  America/Anchorage: {
+    Generic: alaskisk tid,
+    Standard: alaskisk normaltid,
+    Daylight: alaskisk sommartid
   },
-  Asia/Riyadh: {
-    Generic: arabisk tid,
-    Standard: arabisk normaltid,
-    Daylight: arabisk sommartid
+  America/Anguilla: {
+    Generic: tidssone for den nordamerikanske atlanterhavskysten,
+    Standard: normaltid for den nordamerikanske atlanterhavskysten,
+    Daylight: sommartid for den nordamerikanske atlanterhavskysten
   },
-  Asia/Bahrain: {
-    Generic: arabisk tid,
-    Standard: arabisk normaltid,
-    Daylight: arabisk sommartid
+  America/Antigua: {
+    Generic: tidssone for den nordamerikanske atlanterhavskysten,
+    Standard: normaltid for den nordamerikanske atlanterhavskysten,
+    Daylight: sommartid for den nordamerikanske atlanterhavskysten
   },
-  Asia/Kuwait: {
-    Generic: arabisk tid,
-    Standard: arabisk normaltid,
-    Daylight: arabisk sommartid
+  America/Araguaina: {
+    Generic: tidssone for Brasilia,
+    Standard: normaltid for Brasilia,
+    Daylight: sommartid for Brasilia
   },
-  Asia/Qatar: {
-    Generic: arabisk tid,
-    Standard: arabisk normaltid,
-    Daylight: arabisk sommartid
+  America/Argentina/Buenos_Aires: {
+    Generic: argentinsk tid,
+    Standard: argentinsk normaltid,
+    Daylight: argentinsk sommartid
   },
-  Asia/Aden: {
-    Generic: arabisk tid,
-    Standard: arabisk normaltid,
-    Daylight: arabisk sommartid
+  America/Argentina/Catamarca: {
+    Generic: argentinsk tid,
+    Standard: argentinsk normaltid,
+    Daylight: argentinsk sommartid
   },
-  Asia/Dubai: {
-    Generic: Gulf Standard Time,
-    Standard: Gulf Standard Time,
-    Daylight: Gulf Standard Time
+  America/Argentina/ComodRivadavia: {
+    Generic: argentinsk tid,
+    Standard: argentinsk normaltid,
+    Daylight: argentinsk sommartid
   },
-  Asia/Muscat: {
-    Generic: Gulf Standard Time,
-    Standard: Gulf Standard Time,
-    Daylight: Gulf Standard Time
+  America/Argentina/Cordoba: {
+    Generic: argentinsk tid,
+    Standard: argentinsk normaltid,
+    Daylight: argentinsk sommartid
   },
-  Etc/GMT-4: {
-    Generic: Coordinated Universal Time +4,
-    Standard: Coordinated Universal Time +4,
-    Daylight: Coordinated Universal Time +4
-  },
-  Asia/Baghdad: {
-    Generic: arabisk tid,
-    Standard: arabisk normaltid,
-    Daylight: arabisk sommartid
-  },
-  America/Buenos_Aires: {
+  America/Argentina/Jujuy: {
     Generic: argentinsk tid,
     Standard: argentinsk normaltid,
     Daylight: argentinsk sommartid
   },
   America/Argentina/La_Rioja: {
+    Generic: argentinsk tid,
+    Standard: argentinsk normaltid,
+    Daylight: argentinsk sommartid
+  },
+  America/Argentina/Mendoza: {
     Generic: argentinsk tid,
     Standard: argentinsk normaltid,
     Daylight: argentinsk sommartid
@@ -144,327 +359,432 @@
     Standard: argentinsk normaltid,
     Daylight: argentinsk sommartid
   },
-  America/Catamarca: {
-    Generic: argentinsk tid,
-    Standard: argentinsk normaltid,
-    Daylight: argentinsk sommartid
-  },
-  America/Cordoba: {
-    Generic: argentinsk tid,
-    Standard: argentinsk normaltid,
-    Daylight: argentinsk sommartid
-  },
-  America/Jujuy: {
-    Generic: argentinsk tid,
-    Standard: argentinsk normaltid,
-    Daylight: argentinsk sommartid
-  },
-  America/Mendoza: {
-    Generic: argentinsk tid,
-    Standard: argentinsk normaltid,
-    Daylight: argentinsk sommartid
-  },
-  Europe/Astrakhan: {
-    Generic: Astrakhan Time,
-    Standard: Astrakhan Standard Time,
-    Daylight: Astrakhan Daylight Time
-  },
-  Europe/Ulyanovsk: {
-    Generic: Ulyanovsk Time,
-    Standard: Ulyanovsk Standard Time,
-    Daylight: Ulyanovsk Daylight Time
-  },
-  America/Halifax: {
+  America/Aruba: {
     Generic: tidssone for den nordamerikanske atlanterhavskysten,
     Standard: normaltid for den nordamerikanske atlanterhavskysten,
     Daylight: sommartid for den nordamerikanske atlanterhavskysten
   },
-  Atlantic/Bermuda: {
-    Generic: tidssone for den nordamerikanske atlanterhavskysten,
-    Standard: normaltid for den nordamerikanske atlanterhavskysten,
-    Daylight: sommartid for den nordamerikanske atlanterhavskysten
+  America/Asuncion: {
+    Generic: paraguayansk tid,
+    Standard: paraguayansk normaltid,
+    Daylight: paraguayansk sommartid
   },
-  America/Glace_Bay: {
-    Generic: tidssone for den nordamerikanske atlanterhavskysten,
-    Standard: normaltid for den nordamerikanske atlanterhavskysten,
-    Daylight: sommartid for den nordamerikanske atlanterhavskysten
+  America/Atikokan: {
+    Generic: tidssone for den nordamerikanske austkysten,
+    Standard: normaltid for den nordamerikanske austkysten,
+    Daylight: sommartid for den nordamerikansk austkysten
   },
-  America/Goose_Bay: {
-    Generic: tidssone for den nordamerikanske atlanterhavskysten,
-    Standard: normaltid for den nordamerikanske atlanterhavskysten,
-    Daylight: sommartid for den nordamerikanske atlanterhavskysten
-  },
-  America/Moncton: {
-    Generic: tidssone for den nordamerikanske atlanterhavskysten,
-    Standard: normaltid for den nordamerikanske atlanterhavskysten,
-    Daylight: sommartid for den nordamerikanske atlanterhavskysten
-  },
-  America/Thule: {
-    Generic: tidssone for den nordamerikanske atlanterhavskysten,
-    Standard: normaltid for den nordamerikanske atlanterhavskysten,
-    Daylight: sommartid for den nordamerikanske atlanterhavskysten
-  },
-  Australia/Eucla: {
-    Generic: vest-sentralaustralsk tid,
-    Standard: vest-sentralaustralsk standardtid,
-    Daylight: vest-sentralaustralsk sommartid
-  },
-  Asia/Baku: {
-    Generic: aserbajdsjansk tid,
-    Standard: aserbajdsjansk normaltid,
-    Daylight: aserbajdsjansk sommartid
-  },
-  Atlantic/Azores: {
-    Generic: asorisk tid,
-    Standard: asorisk normaltid,
-    Daylight: asorisk sommartid
-  },
-  America/Scoresbysund: {
-    Generic: austgrønlandsk tid,
-    Standard: austgrønlandsk normaltid,
-    Daylight: austgrønlandsk sommartid
+  America/Atka: {
+    Generic: tidssone for Hawaii og Aleutene,
+    Standard: normaltid for Hawaii og Aleutene,
+    Daylight: sommartid for Hawaii og Aleutene
   },
   America/Bahia: {
     Generic: tidssone for Brasilia,
     Standard: normaltid for Brasilia,
     Daylight: sommartid for Brasilia
   },
-  Asia/Dhaka: {
-    Generic: bangladeshisk tid,
-    Standard: bangladeshisk normaltid,
-    Daylight: bangladeshisk sommartid
-  },
-  Asia/Thimphu: {
-    Generic: Bhutan Time,
-    Standard: Bhutan Time,
-    Daylight: Bhutan Time
-  },
-  Europe/Minsk: {
-    Generic: tidssone for Moskva,
-    Standard: normaltid for Moskva,
-    Daylight: sommartid for Moskva
-  },
-  Pacific/Bougainville: {
-    Generic: Papua New Guinea Time,
-    Standard: Papua New Guinea Time,
-    Daylight: Papua New Guinea Time
-  },
-  America/Regina: {
+  America/Bahia_Banderas: {
     Generic: tidssone for sentrale Nord-Amerika,
     Standard: normaltid for sentrale Nord-Amerika,
     Daylight: sommartid for sentrale Nord-Amerika
   },
-  America/Swift_Current: {
-    Generic: tidssone for sentrale Nord-Amerika,
-    Standard: normaltid for sentrale Nord-Amerika,
-    Daylight: sommartid for sentrale Nord-Amerika
+  America/Barbados: {
+    Generic: tidssone for den nordamerikanske atlanterhavskysten,
+    Standard: normaltid for den nordamerikanske atlanterhavskysten,
+    Daylight: sommartid for den nordamerikanske atlanterhavskysten
   },
-  Atlantic/Cape_Verde: {
-    Generic: kappverdisk tid,
-    Standard: kappverdisk normaltid,
-    Daylight: kappverdisk sommartid
-  },
-  Etc/GMT+1: {
-    Generic: Coordinated Universal Time -1,
-    Standard: Coordinated Universal Time -1,
-    Daylight: Coordinated Universal Time -1
-  },
-  Asia/Yerevan: {
-    Generic: armensk tid,
-    Standard: armensk normaltid,
-    Daylight: armensk sommartid
-  },
-  Australia/Adelaide: {
-    Generic: sentralaustralsk tid,
-    Standard: sentralaustralsk standardtid,
-    Daylight: sentralaustralsk sommartid
-  },
-  Australia/Broken_Hill: {
-    Generic: sentralaustralsk tid,
-    Standard: sentralaustralsk standardtid,
-    Daylight: sentralaustralsk sommartid
-  },
-  America/Guatemala: {
-    Generic: tidssone for sentrale Nord-Amerika,
-    Standard: normaltid for sentrale Nord-Amerika,
-    Daylight: sommartid for sentrale Nord-Amerika
+  America/Belem: {
+    Generic: tidssone for Brasilia,
+    Standard: normaltid for Brasilia,
+    Daylight: sommartid for Brasilia
   },
   America/Belize: {
     Generic: tidssone for sentrale Nord-Amerika,
     Standard: normaltid for sentrale Nord-Amerika,
     Daylight: sommartid for sentrale Nord-Amerika
   },
-  America/Costa_Rica: {
-    Generic: tidssone for sentrale Nord-Amerika,
-    Standard: normaltid for sentrale Nord-Amerika,
-    Daylight: sommartid for sentrale Nord-Amerika
+  America/Blanc-Sablon: {
+    Generic: tidssone for den nordamerikanske atlanterhavskysten,
+    Standard: normaltid for den nordamerikanske atlanterhavskysten,
+    Daylight: sommartid for den nordamerikanske atlanterhavskysten
   },
-  Pacific/Galapagos: {
-    Generic: tidssone for Galápagosøyane,
-    Standard: tidssone for Galápagosøyane,
-    Daylight: tidssone for Galápagosøyane
-  },
-  America/Tegucigalpa: {
-    Generic: tidssone for sentrale Nord-Amerika,
-    Standard: normaltid for sentrale Nord-Amerika,
-    Daylight: sommartid for sentrale Nord-Amerika
-  },
-  America/Managua: {
-    Generic: tidssone for sentrale Nord-Amerika,
-    Standard: normaltid for sentrale Nord-Amerika,
-    Daylight: sommartid for sentrale Nord-Amerika
-  },
-  America/El_Salvador: {
-    Generic: tidssone for sentrale Nord-Amerika,
-    Standard: normaltid for sentrale Nord-Amerika,
-    Daylight: sommartid for sentrale Nord-Amerika
-  },
-  Etc/GMT+6: {
-    Generic: Coordinated Universal Time -6,
-    Standard: Coordinated Universal Time -6,
-    Daylight: Coordinated Universal Time -6
-  },
-  Asia/Almaty: {
-    Generic: austkasakhstansk tid,
-    Standard: austkasakhstansk tid,
-    Daylight: austkasakhstansk tid
-  },
-  Antarctica/Vostok: {
-    Generic: Vostok Time,
-    Standard: Vostok Time,
-    Daylight: Vostok Time
-  },
-  Asia/Urumqi: {
-    Generic: China Time,
-    Standard: China Standard Time,
-    Daylight: China Daylight Time
-  },
-  Indian/Chagos: {
-    Generic: Indian Ocean Time,
-    Standard: Indian Ocean Time,
-    Daylight: Indian Ocean Time
-  },
-  Asia/Bishkek: {
-    Generic: Kyrgyzstan Time,
-    Standard: Kyrgyzstan Time,
-    Daylight: Kyrgyzstan Time
-  },
-  Asia/Qostanay: {
-    Generic: austkasakhstansk tid,
-    Standard: austkasakhstansk tid,
-    Daylight: austkasakhstansk tid
-  },
-  Etc/GMT-6: {
-    Generic: Coordinated Universal Time +6,
-    Standard: Coordinated Universal Time +6,
-    Daylight: Coordinated Universal Time +6
-  },
-  America/Cuiaba: {
+  America/Boa_Vista: {
     Generic: tidssone for Amazonas,
     Standard: normaltid for Amazonas,
     Daylight: sommartid for Amazonas
+  },
+  America/Bogota: {
+    Generic: kolombiansk tid,
+    Standard: kolombiansk normaltid,
+    Daylight: kolombiansk sommartid
+  },
+  America/Boise: {
+    Generic: tidssone for Rocky Mountains (USA),
+    Standard: normaltid for Rocky Mountains (USA),
+    Daylight: sommartid for Rocky Mountains (USA)
+  },
+  America/Buenos_Aires: {
+    Generic: argentinsk tid,
+    Standard: argentinsk normaltid,
+    Daylight: argentinsk sommartid
+  },
+  America/Cambridge_Bay: {
+    Generic: tidssone for Rocky Mountains (USA),
+    Standard: normaltid for Rocky Mountains (USA),
+    Daylight: sommartid for Rocky Mountains (USA)
   },
   America/Campo_Grande: {
     Generic: tidssone for Amazonas,
     Standard: normaltid for Amazonas,
     Daylight: sommartid for Amazonas
   },
-  Europe/Budapest: {
-    Generic: sentraleuropeisk tid,
-    Standard: sentraleuropeisk standardtid,
-    Daylight: sentraleuropeisk sommartid
+  America/Cancun: {
+    Generic: tidssone for den nordamerikanske austkysten,
+    Standard: normaltid for den nordamerikanske austkysten,
+    Daylight: sommartid for den nordamerikansk austkysten
   },
-  Europe/Tirane: {
-    Generic: sentraleuropeisk tid,
-    Standard: sentraleuropeisk standardtid,
-    Daylight: sentraleuropeisk sommartid
+  America/Caracas: {
+    Generic: Venezuela Time,
+    Standard: Venezuela Time,
+    Daylight: Venezuela Time
   },
-  Europe/Prague: {
-    Generic: sentraleuropeisk tid,
-    Standard: sentraleuropeisk standardtid,
-    Daylight: sentraleuropeisk sommartid
+  America/Catamarca: {
+    Generic: argentinsk tid,
+    Standard: argentinsk normaltid,
+    Daylight: argentinsk sommartid
   },
-  Europe/Podgorica: {
-    Generic: sentraleuropeisk tid,
-    Standard: sentraleuropeisk standardtid,
-    Daylight: sentraleuropeisk sommartid
+  America/Cayenne: {
+    Generic: French Guiana Time,
+    Standard: French Guiana Time,
+    Daylight: French Guiana Time
   },
-  Europe/Belgrade: {
-    Generic: sentraleuropeisk tid,
-    Standard: sentraleuropeisk standardtid,
-    Daylight: sentraleuropeisk sommartid
+  America/Cayman: {
+    Generic: tidssone for den nordamerikanske austkysten,
+    Standard: normaltid for den nordamerikanske austkysten,
+    Daylight: sommartid for den nordamerikansk austkysten
   },
-  Europe/Ljubljana: {
-    Generic: sentraleuropeisk tid,
-    Standard: sentraleuropeisk standardtid,
-    Daylight: sentraleuropeisk sommartid
-  },
-  Europe/Bratislava: {
-    Generic: sentraleuropeisk tid,
-    Standard: sentraleuropeisk standardtid,
-    Daylight: sentraleuropeisk sommartid
-  },
-  Europe/Warsaw: {
-    Generic: sentraleuropeisk tid,
-    Standard: sentraleuropeisk standardtid,
-    Daylight: sentraleuropeisk sommartid
-  },
-  Europe/Sarajevo: {
-    Generic: sentraleuropeisk tid,
-    Standard: sentraleuropeisk standardtid,
-    Daylight: sentraleuropeisk sommartid
-  },
-  Europe/Zagreb: {
-    Generic: sentraleuropeisk tid,
-    Standard: sentraleuropeisk standardtid,
-    Daylight: sentraleuropeisk sommartid
-  },
-  Europe/Skopje: {
-    Generic: sentraleuropeisk tid,
-    Standard: sentraleuropeisk standardtid,
-    Daylight: sentraleuropeisk sommartid
-  },
-  Pacific/Guadalcanal: {
-    Generic: Solomon Islands Time,
-    Standard: Solomon Islands Time,
-    Daylight: Solomon Islands Time
-  },
-  Antarctica/Casey: {
-    Generic: Casey Time,
-    Standard: Casey Time,
-    Daylight: Casey Time
-  },
-  Pacific/Ponape: {
-    Generic: Ponape Time,
-    Standard: Ponape Time,
-    Daylight: Ponape Time
-  },
-  Pacific/Kosrae: {
-    Generic: Kosrae Time,
-    Standard: Kosrae Time,
-    Daylight: Kosrae Time
-  },
-  Pacific/Noumea: {
-    Generic: kaledonsk tid,
-    Standard: kaledonsk normaltid,
-    Daylight: kaledonsk sommartid
-  },
-  Pacific/Efate: {
-    Generic: vanuatisk tid,
-    Standard: vanuatisk normaltid,
-    Daylight: vanuatisk sommartid
-  },
-  Etc/GMT-11: {
-    Generic: Coordinated Universal Time +11,
-    Standard: Coordinated Universal Time +11,
-    Daylight: Coordinated Universal Time +11
-  },
-  America/Mexico_City: {
+  America/Chicago: {
     Generic: tidssone for sentrale Nord-Amerika,
     Standard: normaltid for sentrale Nord-Amerika,
     Daylight: sommartid for sentrale Nord-Amerika
   },
-  America/Bahia_Banderas: {
+  America/Chihuahua: {
+    Generic: tidssone for den meksikanske stillehavskysten,
+    Standard: normaltid for den meksikanske stillehavskysten,
+    Daylight: sommartid for den meksikanske stillehavskysten
+  },
+  America/Coral_Harbour: {
+    Generic: tidssone for den nordamerikanske austkysten,
+    Standard: normaltid for den nordamerikanske austkysten,
+    Daylight: sommartid for den nordamerikansk austkysten
+  },
+  America/Cordoba: {
+    Generic: argentinsk tid,
+    Standard: argentinsk normaltid,
+    Daylight: argentinsk sommartid
+  },
+  America/Costa_Rica: {
+    Generic: tidssone for sentrale Nord-Amerika,
+    Standard: normaltid for sentrale Nord-Amerika,
+    Daylight: sommartid for sentrale Nord-Amerika
+  },
+  America/Creston: {
+    Generic: tidssone for Rocky Mountains (USA),
+    Standard: normaltid for Rocky Mountains (USA),
+    Daylight: sommartid for Rocky Mountains (USA)
+  },
+  America/Cuiaba: {
+    Generic: tidssone for Amazonas,
+    Standard: normaltid for Amazonas,
+    Daylight: sommartid for Amazonas
+  },
+  America/Curacao: {
+    Generic: tidssone for den nordamerikanske atlanterhavskysten,
+    Standard: normaltid for den nordamerikanske atlanterhavskysten,
+    Daylight: sommartid for den nordamerikanske atlanterhavskysten
+  },
+  America/Danmarkshavn: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
+  },
+  America/Dawson: {
+    Generic: Yukon Time,
+    Standard: Yukon Time,
+    Daylight: Yukon Time
+  },
+  America/Dawson_Creek: {
+    Generic: tidssone for Rocky Mountains (USA),
+    Standard: normaltid for Rocky Mountains (USA),
+    Daylight: sommartid for Rocky Mountains (USA)
+  },
+  America/Denver: {
+    Generic: tidssone for Rocky Mountains (USA),
+    Standard: normaltid for Rocky Mountains (USA),
+    Daylight: sommartid for Rocky Mountains (USA)
+  },
+  America/Detroit: {
+    Generic: tidssone for den nordamerikanske austkysten,
+    Standard: normaltid for den nordamerikanske austkysten,
+    Daylight: sommartid for den nordamerikansk austkysten
+  },
+  America/Dominica: {
+    Generic: tidssone for den nordamerikanske atlanterhavskysten,
+    Standard: normaltid for den nordamerikanske atlanterhavskysten,
+    Daylight: sommartid for den nordamerikanske atlanterhavskysten
+  },
+  America/Edmonton: {
+    Generic: tidssone for Rocky Mountains (USA),
+    Standard: normaltid for Rocky Mountains (USA),
+    Daylight: sommartid for Rocky Mountains (USA)
+  },
+  America/Eirunepe: {
+    Generic: Acre Time,
+    Standard: Acre Standard Time,
+    Daylight: Acre Summer Time
+  },
+  America/El_Salvador: {
+    Generic: tidssone for sentrale Nord-Amerika,
+    Standard: normaltid for sentrale Nord-Amerika,
+    Daylight: sommartid for sentrale Nord-Amerika
+  },
+  America/Ensenada: {
+    Generic: tidssone for den nordamerikanske stillehavskysten,
+    Standard: normaltid for den nordamerikanske stillehavskysten,
+    Daylight: sommartid for den nordamerikanske stillehavskysten
+  },
+  America/Fort_Nelson: {
+    Generic: tidssone for Rocky Mountains (USA),
+    Standard: normaltid for Rocky Mountains (USA),
+    Daylight: sommartid for Rocky Mountains (USA)
+  },
+  America/Fort_Wayne: {
+    Generic: tidssone for den nordamerikanske austkysten,
+    Standard: normaltid for den nordamerikanske austkysten,
+    Daylight: sommartid for den nordamerikansk austkysten
+  },
+  America/Fortaleza: {
+    Generic: tidssone for Brasilia,
+    Standard: normaltid for Brasilia,
+    Daylight: sommartid for Brasilia
+  },
+  America/Glace_Bay: {
+    Generic: tidssone for den nordamerikanske atlanterhavskysten,
+    Standard: normaltid for den nordamerikanske atlanterhavskysten,
+    Daylight: sommartid for den nordamerikanske atlanterhavskysten
+  },
+  America/Godthab: {
+    Generic: vestgrønlandsk tid,
+    Standard: vestgrønlandsk normaltid,
+    Daylight: vestgrønlandsk sommartid
+  },
+  America/Goose_Bay: {
+    Generic: tidssone for den nordamerikanske atlanterhavskysten,
+    Standard: normaltid for den nordamerikanske atlanterhavskysten,
+    Daylight: sommartid for den nordamerikanske atlanterhavskysten
+  },
+  America/Grand_Turk: {
+    Generic: tidssone for den nordamerikanske austkysten,
+    Standard: normaltid for den nordamerikanske austkysten,
+    Daylight: sommartid for den nordamerikansk austkysten
+  },
+  America/Grenada: {
+    Generic: tidssone for den nordamerikanske atlanterhavskysten,
+    Standard: normaltid for den nordamerikanske atlanterhavskysten,
+    Daylight: sommartid for den nordamerikanske atlanterhavskysten
+  },
+  America/Guadeloupe: {
+    Generic: tidssone for den nordamerikanske atlanterhavskysten,
+    Standard: normaltid for den nordamerikanske atlanterhavskysten,
+    Daylight: sommartid for den nordamerikanske atlanterhavskysten
+  },
+  America/Guatemala: {
+    Generic: tidssone for sentrale Nord-Amerika,
+    Standard: normaltid for sentrale Nord-Amerika,
+    Daylight: sommartid for sentrale Nord-Amerika
+  },
+  America/Guayaquil: {
+    Generic: Ecuador Time,
+    Standard: Ecuador Time,
+    Daylight: Ecuador Time
+  },
+  America/Guyana: {
+    Generic: Guyana Time,
+    Standard: Guyana Time,
+    Daylight: Guyana Time
+  },
+  America/Halifax: {
+    Generic: tidssone for den nordamerikanske atlanterhavskysten,
+    Standard: normaltid for den nordamerikanske atlanterhavskysten,
+    Daylight: sommartid for den nordamerikanske atlanterhavskysten
+  },
+  America/Havana: {
+    Generic: kubansk tid,
+    Standard: kubansk normaltid,
+    Daylight: kubansk sommartid
+  },
+  America/Hermosillo: {
+    Generic: tidssone for den meksikanske stillehavskysten,
+    Standard: normaltid for den meksikanske stillehavskysten,
+    Daylight: sommartid for den meksikanske stillehavskysten
+  },
+  America/Indiana/Indianapolis: {
+    Generic: tidssone for den nordamerikanske austkysten,
+    Standard: normaltid for den nordamerikanske austkysten,
+    Daylight: sommartid for den nordamerikansk austkysten
+  },
+  America/Indiana/Knox: {
+    Generic: tidssone for sentrale Nord-Amerika,
+    Standard: normaltid for sentrale Nord-Amerika,
+    Daylight: sommartid for sentrale Nord-Amerika
+  },
+  America/Indiana/Marengo: {
+    Generic: tidssone for den nordamerikanske austkysten,
+    Standard: normaltid for den nordamerikanske austkysten,
+    Daylight: sommartid for den nordamerikansk austkysten
+  },
+  America/Indiana/Petersburg: {
+    Generic: tidssone for den nordamerikanske austkysten,
+    Standard: normaltid for den nordamerikanske austkysten,
+    Daylight: sommartid for den nordamerikansk austkysten
+  },
+  America/Indiana/Tell_City: {
+    Generic: tidssone for sentrale Nord-Amerika,
+    Standard: normaltid for sentrale Nord-Amerika,
+    Daylight: sommartid for sentrale Nord-Amerika
+  },
+  America/Indiana/Vevay: {
+    Generic: tidssone for den nordamerikanske austkysten,
+    Standard: normaltid for den nordamerikanske austkysten,
+    Daylight: sommartid for den nordamerikansk austkysten
+  },
+  America/Indiana/Vincennes: {
+    Generic: tidssone for den nordamerikanske austkysten,
+    Standard: normaltid for den nordamerikanske austkysten,
+    Daylight: sommartid for den nordamerikansk austkysten
+  },
+  America/Indiana/Winamac: {
+    Generic: tidssone for den nordamerikanske austkysten,
+    Standard: normaltid for den nordamerikanske austkysten,
+    Daylight: sommartid for den nordamerikansk austkysten
+  },
+  America/Indianapolis: {
+    Generic: tidssone for den nordamerikanske austkysten,
+    Standard: normaltid for den nordamerikanske austkysten,
+    Daylight: sommartid for den nordamerikansk austkysten
+  },
+  America/Inuvik: {
+    Generic: tidssone for Rocky Mountains (USA),
+    Standard: normaltid for Rocky Mountains (USA),
+    Daylight: sommartid for Rocky Mountains (USA)
+  },
+  America/Iqaluit: {
+    Generic: tidssone for den nordamerikanske austkysten,
+    Standard: normaltid for den nordamerikanske austkysten,
+    Daylight: sommartid for den nordamerikansk austkysten
+  },
+  America/Jamaica: {
+    Generic: tidssone for den nordamerikanske austkysten,
+    Standard: normaltid for den nordamerikanske austkysten,
+    Daylight: sommartid for den nordamerikansk austkysten
+  },
+  America/Jujuy: {
+    Generic: argentinsk tid,
+    Standard: argentinsk normaltid,
+    Daylight: argentinsk sommartid
+  },
+  America/Juneau: {
+    Generic: alaskisk tid,
+    Standard: alaskisk normaltid,
+    Daylight: alaskisk sommartid
+  },
+  America/Kentucky/Louisville: {
+    Generic: tidssone for den nordamerikanske austkysten,
+    Standard: normaltid for den nordamerikanske austkysten,
+    Daylight: sommartid for den nordamerikansk austkysten
+  },
+  America/Kentucky/Monticello: {
+    Generic: tidssone for den nordamerikanske austkysten,
+    Standard: normaltid for den nordamerikanske austkysten,
+    Daylight: sommartid for den nordamerikansk austkysten
+  },
+  America/Knox_IN: {
+    Generic: tidssone for sentrale Nord-Amerika,
+    Standard: normaltid for sentrale Nord-Amerika,
+    Daylight: sommartid for sentrale Nord-Amerika
+  },
+  America/Kralendijk: {
+    Generic: tidssone for den nordamerikanske atlanterhavskysten,
+    Standard: normaltid for den nordamerikanske atlanterhavskysten,
+    Daylight: sommartid for den nordamerikanske atlanterhavskysten
+  },
+  America/La_Paz: {
+    Generic: Bolivia Time,
+    Standard: Bolivia Time,
+    Daylight: Bolivia Time
+  },
+  America/Lima: {
+    Generic: peruansk tid,
+    Standard: peruansk normaltid,
+    Daylight: peruansk sommartid
+  },
+  America/Los_Angeles: {
+    Generic: tidssone for den nordamerikanske stillehavskysten,
+    Standard: normaltid for den nordamerikanske stillehavskysten,
+    Daylight: sommartid for den nordamerikanske stillehavskysten
+  },
+  America/Louisville: {
+    Generic: tidssone for den nordamerikanske austkysten,
+    Standard: normaltid for den nordamerikanske austkysten,
+    Daylight: sommartid for den nordamerikansk austkysten
+  },
+  America/Lower_Princes: {
+    Generic: tidssone for den nordamerikanske atlanterhavskysten,
+    Standard: normaltid for den nordamerikanske atlanterhavskysten,
+    Daylight: sommartid for den nordamerikanske atlanterhavskysten
+  },
+  America/Maceio: {
+    Generic: tidssone for Brasilia,
+    Standard: normaltid for Brasilia,
+    Daylight: sommartid for Brasilia
+  },
+  America/Managua: {
+    Generic: tidssone for sentrale Nord-Amerika,
+    Standard: normaltid for sentrale Nord-Amerika,
+    Daylight: sommartid for sentrale Nord-Amerika
+  },
+  America/Manaus: {
+    Generic: tidssone for Amazonas,
+    Standard: normaltid for Amazonas,
+    Daylight: sommartid for Amazonas
+  },
+  America/Marigot: {
+    Generic: tidssone for den nordamerikanske atlanterhavskysten,
+    Standard: normaltid for den nordamerikanske atlanterhavskysten,
+    Daylight: sommartid for den nordamerikanske atlanterhavskysten
+  },
+  America/Martinique: {
+    Generic: tidssone for den nordamerikanske atlanterhavskysten,
+    Standard: normaltid for den nordamerikanske atlanterhavskysten,
+    Daylight: sommartid for den nordamerikanske atlanterhavskysten
+  },
+  America/Matamoros: {
+    Generic: tidssone for sentrale Nord-Amerika,
+    Standard: normaltid for sentrale Nord-Amerika,
+    Daylight: sommartid for sentrale Nord-Amerika
+  },
+  America/Mazatlan: {
+    Generic: tidssone for den meksikanske stillehavskysten,
+    Standard: normaltid for den meksikanske stillehavskysten,
+    Daylight: sommartid for den meksikanske stillehavskysten
+  },
+  America/Mendoza: {
+    Generic: argentinsk tid,
+    Standard: argentinsk normaltid,
+    Daylight: argentinsk sommartid
+  },
+  America/Menominee: {
     Generic: tidssone for sentrale Nord-Amerika,
     Standard: normaltid for sentrale Nord-Amerika,
     Daylight: sommartid for sentrale Nord-Amerika
@@ -474,55 +794,70 @@
     Standard: normaltid for sentrale Nord-Amerika,
     Daylight: sommartid for sentrale Nord-Amerika
   },
+  America/Metlakatla: {
+    Generic: alaskisk tid,
+    Standard: alaskisk normaltid,
+    Daylight: alaskisk sommartid
+  },
+  America/Mexico_City: {
+    Generic: tidssone for sentrale Nord-Amerika,
+    Standard: normaltid for sentrale Nord-Amerika,
+    Daylight: sommartid for sentrale Nord-Amerika
+  },
+  America/Miquelon: {
+    Generic: tidssone for Saint-Pierre-et-Miquelon,
+    Standard: normaltid for Saint-Pierre-et-Miquelon,
+    Daylight: sommartid for Saint-Pierre-et-Miquelon
+  },
+  America/Moncton: {
+    Generic: tidssone for den nordamerikanske atlanterhavskysten,
+    Standard: normaltid for den nordamerikanske atlanterhavskysten,
+    Daylight: sommartid for den nordamerikanske atlanterhavskysten
+  },
   America/Monterrey: {
     Generic: tidssone for sentrale Nord-Amerika,
     Standard: normaltid for sentrale Nord-Amerika,
     Daylight: sommartid for sentrale Nord-Amerika
   },
-  America/Chicago: {
-    Generic: tidssone for sentrale Nord-Amerika,
-    Standard: normaltid for sentrale Nord-Amerika,
-    Daylight: sommartid for sentrale Nord-Amerika
+  America/Montevideo: {
+    Generic: uruguayansk tid,
+    Standard: uruguayansk normaltid,
+    Daylight: uruguayansk sommartid
   },
-  America/Winnipeg: {
-    Generic: tidssone for sentrale Nord-Amerika,
-    Standard: normaltid for sentrale Nord-Amerika,
-    Daylight: sommartid for sentrale Nord-Amerika
+  America/Montreal: {
+    Generic: tidssone for den nordamerikanske austkysten,
+    Standard: normaltid for den nordamerikanske austkysten,
+    Daylight: sommartid for den nordamerikansk austkysten
   },
-  America/Rainy_River: {
-    Generic: tidssone for sentrale Nord-Amerika,
-    Standard: normaltid for sentrale Nord-Amerika,
-    Daylight: sommartid for sentrale Nord-Amerika
+  America/Montserrat: {
+    Generic: tidssone for den nordamerikanske atlanterhavskysten,
+    Standard: normaltid for den nordamerikanske atlanterhavskysten,
+    Daylight: sommartid for den nordamerikanske atlanterhavskysten
   },
-  America/Rankin_Inlet: {
-    Generic: tidssone for sentrale Nord-Amerika,
-    Standard: normaltid for sentrale Nord-Amerika,
-    Daylight: sommartid for sentrale Nord-Amerika
+  America/Nassau: {
+    Generic: tidssone for den nordamerikanske austkysten,
+    Standard: normaltid for den nordamerikanske austkysten,
+    Daylight: sommartid for den nordamerikansk austkysten
   },
-  America/Resolute: {
-    Generic: tidssone for sentrale Nord-Amerika,
-    Standard: normaltid for sentrale Nord-Amerika,
-    Daylight: sommartid for sentrale Nord-Amerika
+  America/New_York: {
+    Generic: tidssone for den nordamerikanske austkysten,
+    Standard: normaltid for den nordamerikanske austkysten,
+    Daylight: sommartid for den nordamerikansk austkysten
   },
-  America/Matamoros: {
-    Generic: tidssone for sentrale Nord-Amerika,
-    Standard: normaltid for sentrale Nord-Amerika,
-    Daylight: sommartid for sentrale Nord-Amerika
+  America/Nipigon: {
+    Generic: tidssone for den nordamerikanske austkysten,
+    Standard: normaltid for den nordamerikanske austkysten,
+    Daylight: sommartid for den nordamerikansk austkysten
   },
-  America/Indiana/Knox: {
-    Generic: tidssone for sentrale Nord-Amerika,
-    Standard: normaltid for sentrale Nord-Amerika,
-    Daylight: sommartid for sentrale Nord-Amerika
+  America/Nome: {
+    Generic: alaskisk tid,
+    Standard: alaskisk normaltid,
+    Daylight: alaskisk sommartid
   },
-  America/Indiana/Tell_City: {
-    Generic: tidssone for sentrale Nord-Amerika,
-    Standard: normaltid for sentrale Nord-Amerika,
-    Daylight: sommartid for sentrale Nord-Amerika
-  },
-  America/Menominee: {
-    Generic: tidssone for sentrale Nord-Amerika,
-    Standard: normaltid for sentrale Nord-Amerika,
-    Daylight: sommartid for sentrale Nord-Amerika
+  America/Noronha: {
+    Generic: tidssone for Fernando de Noronha,
+    Standard: normaltid for Fernando de Noronha,
+    Daylight: sommartid for Fernando de Noronha
   },
   America/North_Dakota/Beulah: {
     Generic: tidssone for sentrale Nord-Amerika,
@@ -539,157 +874,17 @@
     Standard: normaltid for sentrale Nord-Amerika,
     Daylight: sommartid for sentrale Nord-Amerika
   },
-  CST6CDT: {
-    Generic: tidssone for sentrale Nord-Amerika,
-    Standard: normaltid for sentrale Nord-Amerika,
-    Daylight: sommartid for sentrale Nord-Amerika
+  America/Nuuk: {
+    Generic: vestgrønlandsk tid,
+    Standard: vestgrønlandsk normaltid,
+    Daylight: vestgrønlandsk sommartid
   },
-  Pacific/Chatham: {
-    Generic: tidssone for Chatham,
-    Standard: normaltid for Chatham,
-    Daylight: sommartid for Chatham
+  America/Ojinaga: {
+    Generic: tidssone for Rocky Mountains (USA),
+    Standard: normaltid for Rocky Mountains (USA),
+    Daylight: sommartid for Rocky Mountains (USA)
   },
-  Asia/Shanghai: {
-    Generic: kinesisk tid,
-    Standard: kinesisk normaltid,
-    Daylight: kinesisk sommartid
-  },
-  Asia/Hong_Kong: {
-    Generic: hongkongkinesisk tid,
-    Standard: hongkongkinesisk normaltid,
-    Daylight: hongkongkinesisk sommartid
-  },
-  Asia/Macau: {
-    Generic: kinesisk tid,
-    Standard: kinesisk normaltid,
-    Daylight: kinesisk sommartid
-  },
-  America/Havana: {
-    Generic: kubansk tid,
-    Standard: kubansk normaltid,
-    Daylight: kubansk sommartid
-  },
-  Etc/GMT+12: {
-    Generic: Coordinated Universal Time -12,
-    Standard: Coordinated Universal Time -12,
-    Daylight: Coordinated Universal Time -12
-  },
-  Africa/Nairobi: {
-    Generic: austafrikansk tid,
-    Standard: austafrikansk tid,
-    Daylight: austafrikansk tid
-  },
-  Antarctica/Syowa: {
-    Generic: Syowa Time,
-    Standard: Syowa Time,
-    Daylight: Syowa Time
-  },
-  Africa/Djibouti: {
-    Generic: austafrikansk tid,
-    Standard: austafrikansk tid,
-    Daylight: austafrikansk tid
-  },
-  Africa/Asmera: {
-    Generic: austafrikansk tid,
-    Standard: austafrikansk tid,
-    Daylight: austafrikansk tid
-  },
-  Africa/Addis_Ababa: {
-    Generic: austafrikansk tid,
-    Standard: austafrikansk tid,
-    Daylight: austafrikansk tid
-  },
-  Indian/Comoro: {
-    Generic: austafrikansk tid,
-    Standard: austafrikansk tid,
-    Daylight: austafrikansk tid
-  },
-  Indian/Antananarivo: {
-    Generic: austafrikansk tid,
-    Standard: austafrikansk tid,
-    Daylight: austafrikansk tid
-  },
-  Africa/Mogadishu: {
-    Generic: austafrikansk tid,
-    Standard: austafrikansk tid,
-    Daylight: austafrikansk tid
-  },
-  Africa/Dar_es_Salaam: {
-    Generic: austafrikansk tid,
-    Standard: austafrikansk tid,
-    Daylight: austafrikansk tid
-  },
-  Africa/Kampala: {
-    Generic: austafrikansk tid,
-    Standard: austafrikansk tid,
-    Daylight: austafrikansk tid
-  },
-  Indian/Mayotte: {
-    Generic: austafrikansk tid,
-    Standard: austafrikansk tid,
-    Daylight: austafrikansk tid
-  },
-  Etc/GMT-3: {
-    Generic: Coordinated Universal Time +3,
-    Standard: Coordinated Universal Time +3,
-    Daylight: Coordinated Universal Time +3
-  },
-  Australia/Brisbane: {
-    Generic: austaustralsk tid,
-    Standard: austaustralsk standardtid,
-    Daylight: austaustralsk sommartid
-  },
-  Australia/Lindeman: {
-    Generic: austaustralsk tid,
-    Standard: austaustralsk standardtid,
-    Daylight: austaustralsk sommartid
-  },
-  Europe/Chisinau: {
-    Generic: austeuropeisk tid,
-    Standard: austeuropeisk standardtid,
-    Daylight: austeuropeisk sommartid
-  },
-  America/Sao_Paulo: {
-    Generic: tidssone for Brasilia,
-    Standard: normaltid for Brasilia,
-    Daylight: sommartid for Brasilia
-  },
-  Pacific/Easter: {
-    Generic: tidssone for Påskeøya,
-    Standard: normaltid for Påskeøya,
-    Daylight: sommartid for Påskeøya
-  },
-  America/Cancun: {
-    Generic: tidssone for den nordamerikanske austkysten,
-    Standard: normaltid for den nordamerikanske austkysten,
-    Daylight: sommartid for den nordamerikansk austkysten
-  },
-  America/New_York: {
-    Generic: tidssone for den nordamerikanske austkysten,
-    Standard: normaltid for den nordamerikanske austkysten,
-    Daylight: sommartid for den nordamerikansk austkysten
-  },
-  America/Nassau: {
-    Generic: tidssone for den nordamerikanske austkysten,
-    Standard: normaltid for den nordamerikanske austkysten,
-    Daylight: sommartid for den nordamerikansk austkysten
-  },
-  America/Toronto: {
-    Generic: tidssone for den nordamerikanske austkysten,
-    Standard: normaltid for den nordamerikanske austkysten,
-    Daylight: sommartid for den nordamerikansk austkysten
-  },
-  America/Iqaluit: {
-    Generic: tidssone for den nordamerikanske austkysten,
-    Standard: normaltid for den nordamerikanske austkysten,
-    Daylight: sommartid for den nordamerikansk austkysten
-  },
-  America/Montreal: {
-    Generic: tidssone for den nordamerikanske austkysten,
-    Standard: normaltid for den nordamerikanske austkysten,
-    Daylight: sommartid for den nordamerikansk austkysten
-  },
-  America/Nipigon: {
+  America/Panama: {
     Generic: tidssone for den nordamerikanske austkysten,
     Standard: normaltid for den nordamerikanske austkysten,
     Daylight: sommartid for den nordamerikansk austkysten
@@ -699,800 +894,130 @@
     Standard: normaltid for den nordamerikanske austkysten,
     Daylight: sommartid for den nordamerikansk austkysten
   },
-  America/Thunder_Bay: {
-    Generic: tidssone for den nordamerikanske austkysten,
-    Standard: normaltid for den nordamerikanske austkysten,
-    Daylight: sommartid for den nordamerikansk austkysten
+  America/Paramaribo: {
+    Generic: Suriname Time,
+    Standard: Suriname Time,
+    Daylight: Suriname Time
   },
-  America/Detroit: {
-    Generic: tidssone for den nordamerikanske austkysten,
-    Standard: normaltid for den nordamerikanske austkysten,
-    Daylight: sommartid for den nordamerikansk austkysten
-  },
-  America/Indiana/Petersburg: {
-    Generic: tidssone for den nordamerikanske austkysten,
-    Standard: normaltid for den nordamerikanske austkysten,
-    Daylight: sommartid for den nordamerikansk austkysten
-  },
-  America/Indiana/Vincennes: {
-    Generic: tidssone for den nordamerikanske austkysten,
-    Standard: normaltid for den nordamerikanske austkysten,
-    Daylight: sommartid for den nordamerikansk austkysten
-  },
-  America/Indiana/Winamac: {
-    Generic: tidssone for den nordamerikanske austkysten,
-    Standard: normaltid for den nordamerikanske austkysten,
-    Daylight: sommartid for den nordamerikansk austkysten
-  },
-  America/Kentucky/Monticello: {
-    Generic: tidssone for den nordamerikanske austkysten,
-    Standard: normaltid for den nordamerikanske austkysten,
-    Daylight: sommartid for den nordamerikansk austkysten
-  },
-  America/Louisville: {
-    Generic: tidssone for den nordamerikanske austkysten,
-    Standard: normaltid for den nordamerikanske austkysten,
-    Daylight: sommartid for den nordamerikansk austkysten
-  },
-  EST5EDT: {
-    Generic: tidssone for den nordamerikanske austkysten,
-    Standard: normaltid for den nordamerikanske austkysten,
-    Daylight: sommartid for den nordamerikansk austkysten
-  },
-  Africa/Cairo: {
-    Generic: austeuropeisk tid,
-    Standard: austeuropeisk standardtid,
-    Daylight: austeuropeisk sommartid
-  },
-  Asia/Yekaterinburg: {
-    Generic: Yekaterinburg Time,
-    Standard: Yekaterinburg Standard Time,
-    Daylight: Yekaterinburg Daylight Time
-  },
-  Europe/Kiev: {
-    Generic: austeuropeisk tid,
-    Standard: austeuropeisk standardtid,
-    Daylight: austeuropeisk sommartid
-  },
-  Europe/Mariehamn: {
-    Generic: austeuropeisk tid,
-    Standard: austeuropeisk standardtid,
-    Daylight: austeuropeisk sommartid
-  },
-  Europe/Sofia: {
-    Generic: austeuropeisk tid,
-    Standard: austeuropeisk standardtid,
-    Daylight: austeuropeisk sommartid
-  },
-  Europe/Tallinn: {
-    Generic: austeuropeisk tid,
-    Standard: austeuropeisk standardtid,
-    Daylight: austeuropeisk sommartid
-  },
-  Europe/Helsinki: {
-    Generic: austeuropeisk tid,
-    Standard: austeuropeisk standardtid,
-    Daylight: austeuropeisk sommartid
-  },
-  Europe/Vilnius: {
-    Generic: austeuropeisk tid,
-    Standard: austeuropeisk standardtid,
-    Daylight: austeuropeisk sommartid
-  },
-  Europe/Riga: {
-    Generic: austeuropeisk tid,
-    Standard: austeuropeisk standardtid,
-    Daylight: austeuropeisk sommartid
-  },
-  Europe/Uzhgorod: {
-    Generic: austeuropeisk tid,
-    Standard: austeuropeisk standardtid,
-    Daylight: austeuropeisk sommartid
-  },
-  Europe/Zaporozhye: {
-    Generic: austeuropeisk tid,
-    Standard: austeuropeisk standardtid,
-    Daylight: austeuropeisk sommartid
-  },
-  Pacific/Fiji: {
-    Generic: fijiansk tid,
-    Standard: fijiansk normaltid,
-    Daylight: fijiansk sommartid
-  },
-  Europe/London: {
-    Generic: United Kingdom Time,
-    Standard: Greenwich Mean Time,
-    Daylight: British Summer Time
-  },
-  Atlantic/Canary: {
-    Generic: vesteuropeisk tid,
-    Standard: vesteuropeisk standardtid,
-    Daylight: vesteuropeisk sommartid
-  },
-  Atlantic/Faeroe: {
-    Generic: vesteuropeisk tid,
-    Standard: vesteuropeisk standardtid,
-    Daylight: vesteuropeisk sommartid
-  },
-  Europe/Guernsey: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
-  },
-  Europe/Dublin: {
-    Generic: Ireland Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Irish Standard Time
-  },
-  Europe/Isle_of_Man: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
-  },
-  Europe/Jersey: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
-  },
-  Europe/Lisbon: {
-    Generic: vesteuropeisk tid,
-    Standard: vesteuropeisk standardtid,
-    Daylight: vesteuropeisk sommartid
-  },
-  Atlantic/Madeira: {
-    Generic: vesteuropeisk tid,
-    Standard: vesteuropeisk standardtid,
-    Daylight: vesteuropeisk sommartid
-  },
-  Europe/Bucharest: {
-    Generic: austeuropeisk tid,
-    Standard: austeuropeisk standardtid,
-    Daylight: austeuropeisk sommartid
-  },
-  Asia/Nicosia: {
-    Generic: austeuropeisk tid,
-    Standard: austeuropeisk standardtid,
-    Daylight: austeuropeisk sommartid
-  },
-  Asia/Famagusta: {
-    Generic: austeuropeisk tid,
-    Standard: austeuropeisk standardtid,
-    Daylight: austeuropeisk sommartid
-  },
-  Europe/Athens: {
-    Generic: austeuropeisk tid,
-    Standard: austeuropeisk standardtid,
-    Daylight: austeuropeisk sommartid
-  },
-  Asia/Tbilisi: {
-    Generic: georgisk tid,
-    Standard: georgisk normaltid,
-    Daylight: georgisk sommartid
-  },
-  America/Godthab: {
-    Generic: vestgrønlandsk tid,
-    Standard: vestgrønlandsk normaltid,
-    Daylight: vestgrønlandsk sommartid
-  },
-  Atlantic/Reykjavik: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
-  },
-  Atlantic/St_Helena: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
-  },
-  Africa/Ouagadougou: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
-  },
-  Africa/Abidjan: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
-  },
-  Africa/Accra: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
-  },
-  America/Danmarkshavn: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
-  },
-  Africa/Banjul: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
-  },
-  Africa/Conakry: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
-  },
-  Africa/Bissau: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
-  },
-  Africa/Monrovia: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
-  },
-  Africa/Bamako: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
-  },
-  Africa/Nouakchott: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
-  },
-  Africa/Freetown: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
-  },
-  Africa/Dakar: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
-  },
-  Africa/Lome: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
+  America/Phoenix: {
+    Generic: tidssone for Rocky Mountains (USA),
+    Standard: normaltid for Rocky Mountains (USA),
+    Daylight: sommartid for Rocky Mountains (USA)
   },
   America/Port-au-Prince: {
     Generic: tidssone for den nordamerikanske austkysten,
     Standard: normaltid for den nordamerikanske austkysten,
     Daylight: sommartid for den nordamerikansk austkysten
   },
-  Pacific/Honolulu: {
-    Generic: tidssone for Hawaii og Aleutene,
-    Standard: normaltid for Hawaii og Aleutene,
-    Daylight: sommartid for Hawaii og Aleutene
-  },
-  Pacific/Rarotonga: {
-    Generic: tidssone for Cookøyane,
-    Standard: normaltid for Cookøyane,
-    Daylight: sommartid for Cookøyane
-  },
-  Pacific/Tahiti: {
-    Generic: Tahiti Time,
-    Standard: Tahiti Time,
-    Daylight: Tahiti Time
-  },
-  Pacific/Johnston: {
-    Generic: tidssone for Hawaii og Aleutene,
-    Standard: normaltid for Hawaii og Aleutene,
-    Daylight: sommartid for Hawaii og Aleutene
-  },
-  Etc/GMT+10: {
-    Generic: Coordinated Universal Time -10,
-    Standard: Coordinated Universal Time -10,
-    Daylight: Coordinated Universal Time -10
-  },
-  Asia/Calcutta: {
-    Generic: India Standard Time,
-    Standard: India Standard Time,
-    Daylight: India Standard Time
-  },
-  Asia/Tehran: {
-    Generic: iransk tid,
-    Standard: iransk normaltid,
-    Daylight: iransk sommartid
-  },
-  Asia/Jerusalem: {
-    Generic: israelsk tid,
-    Standard: israelsk normaltid,
-    Daylight: israelsk sommartid
-  },
-  Asia/Amman: {
-    Generic: austeuropeisk tid,
-    Standard: austeuropeisk standardtid,
-    Daylight: austeuropeisk sommartid
-  },
-  Europe/Kaliningrad: {
-    Generic: Kaliningrad Time,
-    Standard: Kaliningrad Standard Time,
-    Daylight: Kaliningrad Daylight Time
-  },
-  Asia/Seoul: {
-    Generic: koreansk tid,
-    Standard: koreansk normaltid,
-    Daylight: koreansk sommartid
-  },
-  Africa/Tripoli: {
-    Generic: austeuropeisk tid,
-    Standard: austeuropeisk standardtid,
-    Daylight: austeuropeisk sommartid
-  },
-  Pacific/Kiritimati: {
-    Generic: tidssone for Lineøyane,
-    Standard: tidssone for Lineøyane,
-    Daylight: tidssone for Lineøyane
-  },
-  Etc/GMT-14: {
-    Generic: Coordinated Universal Time +14,
-    Standard: Coordinated Universal Time +14,
-    Daylight: Coordinated Universal Time +14
-  },
-  Australia/Lord_Howe: {
-    Generic: tidssone for Lord Howe-øya,
-    Standard: normaltid for Lord Howe-øya,
-    Daylight: sommartid for Lord Howe-øya
-  },
-  Asia/Magadan: {
-    Generic: Magadan Time,
-    Standard: Magadan Standard Time,
-    Daylight: Magadan Daylight Time
-  },
-  America/Punta_Arenas: {
-    Generic: chilensk tid,
-    Standard: chilensk normaltid,
-    Daylight: chilensk sommartid
-  },
-  Pacific/Marquesas: {
-    Generic: tidssone for Marquesasøyane,
-    Standard: tidssone for Marquesasøyane,
-    Daylight: tidssone for Marquesasøyane
-  },
-  Indian/Mauritius: {
-    Generic: mauritisk tid,
-    Standard: mauritisk normaltid,
-    Daylight: mauritisk sommartid
-  },
-  Indian/Reunion: {
-    Generic: Réunion Time,
-    Standard: Réunion Time,
-    Daylight: Réunion Time
-  },
-  Indian/Mahe: {
-    Generic: Seychelles Time,
-    Standard: Seychelles Time,
-    Daylight: Seychelles Time
-  },
-  Asia/Beirut: {
-    Generic: austeuropeisk tid,
-    Standard: austeuropeisk standardtid,
-    Daylight: austeuropeisk sommartid
-  },
-  America/Montevideo: {
-    Generic: uruguayansk tid,
-    Standard: uruguayansk normaltid,
-    Daylight: uruguayansk sommartid
-  },
-  Africa/Casablanca: {
-    Generic: vesteuropeisk tid,
-    Standard: vesteuropeisk standardtid,
-    Daylight: vesteuropeisk sommartid
-  },
-  Africa/El_Aaiun: {
-    Generic: vesteuropeisk tid,
-    Standard: vesteuropeisk standardtid,
-    Daylight: vesteuropeisk sommartid
-  },
-  America/Chihuahua: {
-    Generic: tidssone for den meksikanske stillehavskysten,
-    Standard: normaltid for den meksikanske stillehavskysten,
-    Daylight: sommartid for den meksikanske stillehavskysten
-  },
-  America/Mazatlan: {
-    Generic: tidssone for den meksikanske stillehavskysten,
-    Standard: normaltid for den meksikanske stillehavskysten,
-    Daylight: sommartid for den meksikanske stillehavskysten
-  },
-  America/Denver: {
-    Generic: tidssone for Rocky Mountains (USA),
-    Standard: normaltid for Rocky Mountains (USA),
-    Daylight: sommartid for Rocky Mountains (USA)
-  },
-  America/Edmonton: {
-    Generic: tidssone for Rocky Mountains (USA),
-    Standard: normaltid for Rocky Mountains (USA),
-    Daylight: sommartid for Rocky Mountains (USA)
-  },
-  America/Cambridge_Bay: {
-    Generic: tidssone for Rocky Mountains (USA),
-    Standard: normaltid for Rocky Mountains (USA),
-    Daylight: sommartid for Rocky Mountains (USA)
-  },
-  America/Inuvik: {
-    Generic: tidssone for Rocky Mountains (USA),
-    Standard: normaltid for Rocky Mountains (USA),
-    Daylight: sommartid for Rocky Mountains (USA)
-  },
-  America/Yellowknife: {
-    Generic: tidssone for Rocky Mountains (USA),
-    Standard: normaltid for Rocky Mountains (USA),
-    Daylight: sommartid for Rocky Mountains (USA)
-  },
-  America/Ojinaga: {
-    Generic: tidssone for Rocky Mountains (USA),
-    Standard: normaltid for Rocky Mountains (USA),
-    Daylight: sommartid for Rocky Mountains (USA)
-  },
-  America/Boise: {
-    Generic: tidssone for Rocky Mountains (USA),
-    Standard: normaltid for Rocky Mountains (USA),
-    Daylight: sommartid for Rocky Mountains (USA)
-  },
-  MST7MDT: {
-    Generic: tidssone for Rocky Mountains (USA),
-    Standard: normaltid for Rocky Mountains (USA),
-    Daylight: sommartid for Rocky Mountains (USA)
-  },
-  Asia/Rangoon: {
-    Generic: Myanmar Time,
-    Standard: Myanmar Time,
-    Daylight: Myanmar Time
-  },
-  Indian/Cocos: {
-    Generic: tidssone for Kokosøyane,
-    Standard: tidssone for Kokosøyane,
-    Daylight: tidssone for Kokosøyane
-  },
-  Asia/Novosibirsk: {
-    Generic: Novosibirsk Time,
-    Standard: Novosibirsk Standard Time,
-    Daylight: Novosibirsk Daylight Time
-  },
-  Africa/Windhoek: {
-    Generic: Central Africa Time,
-    Standard: Central Africa Time,
-    Daylight: Central Africa Time
-  },
-  Asia/Katmandu: {
-    Generic: Nepal Time,
-    Standard: Nepal Time,
-    Daylight: Nepal Time
-  },
-  Pacific/Auckland: {
-    Generic: nyzealandsk tid,
-    Standard: nyzealandsk normaltid,
-    Daylight: nyzealandsk sumartid
-  },
-  Antarctica/McMurdo: {
-    Generic: nyzealandsk tid,
-    Standard: nyzealandsk normaltid,
-    Daylight: nyzealandsk sumartid
-  },
-  America/St_Johns: {
-    Generic: tidssone for Newfoundland,
-    Standard: normaltid for Newfoundland,
-    Daylight: sommartid for Newfoundland
-  },
-  Pacific/Norfolk: {
-    Generic: tidssone for Norfolkøya,
-    Standard: normaltid for Norfolkøya,
-    Daylight: sommartid for Norfolkøya
-  },
-  Asia/Irkutsk: {
-    Generic: Irkutsk Time,
-    Standard: Irkutsk Standard Time,
-    Daylight: Irkutsk Daylight Time
-  },
-  Asia/Krasnoyarsk: {
-    Generic: Krasnoyarsk Time,
-    Standard: Krasnoyarsk Standard Time,
-    Daylight: Krasnoyarsk Daylight Time
-  },
-  Asia/Novokuznetsk: {
-    Generic: Novokuznetsk Time,
-    Standard: Novokuznetsk Standard Time,
-    Daylight: Novokuznetsk Daylight Time
-  },
-  Asia/Pyongyang: {
-    Generic: koreansk tid,
-    Standard: koreansk normaltid,
-    Daylight: koreansk sommartid
-  },
-  Asia/Omsk: {
-    Generic: Omsk Time,
-    Standard: Omsk Standard Time,
-    Daylight: Omsk Daylight Time
-  },
-  America/Santiago: {
-    Generic: chilensk tid,
-    Standard: chilensk normaltid,
-    Daylight: chilensk sommartid
-  },
-  America/Tijuana: {
-    Generic: tidssone for den nordamerikanske stillehavskysten,
-    Standard: normaltid for den nordamerikanske stillehavskysten,
-    Daylight: sommartid for den nordamerikanske stillehavskysten
-  },
-  America/Santa_Isabel: {
-    Generic: tidssone for nordvestlege Mexico,
-    Standard: normaltid for nordvestlege Mexico,
-    Daylight: sommartid for nordvestlege Mexico
-  },
-  America/Los_Angeles: {
-    Generic: tidssone for den nordamerikanske stillehavskysten,
-    Standard: normaltid for den nordamerikanske stillehavskysten,
-    Daylight: sommartid for den nordamerikanske stillehavskysten
-  },
-  America/Vancouver: {
-    Generic: tidssone for den nordamerikanske stillehavskysten,
-    Standard: normaltid for den nordamerikanske stillehavskysten,
-    Daylight: sommartid for den nordamerikanske stillehavskysten
-  },
-  PST8PDT: {
-    Generic: tidssone for den nordamerikanske stillehavskysten,
-    Standard: normaltid for den nordamerikanske stillehavskysten,
-    Daylight: sommartid for den nordamerikanske stillehavskysten
-  },
-  Asia/Karachi: {
-    Generic: pakistansk tid,
-    Standard: pakistansk normaltid,
-    Daylight: pakistansk sommartid
-  },
-  America/Asuncion: {
-    Generic: paraguayansk tid,
-    Standard: paraguayansk normaltid,
-    Daylight: paraguayansk sommartid
-  },
-  Asia/Qyzylorda: {
-    Generic: West Kazakhstan Time,
-    Standard: West Kazakhstan Time,
-    Daylight: West Kazakhstan Time
-  },
-  Europe/Paris: {
-    Generic: sentraleuropeisk tid,
-    Standard: sentraleuropeisk standardtid,
-    Daylight: sentraleuropeisk sommartid
-  },
-  Europe/Brussels: {
-    Generic: sentraleuropeisk tid,
-    Standard: sentraleuropeisk standardtid,
-    Daylight: sentraleuropeisk sommartid
-  },
-  Europe/Copenhagen: {
-    Generic: sentraleuropeisk tid,
-    Standard: sentraleuropeisk standardtid,
-    Daylight: sentraleuropeisk sommartid
-  },
-  Africa/Ceuta: {
-    Generic: sentraleuropeisk tid,
-    Standard: sentraleuropeisk standardtid,
-    Daylight: sentraleuropeisk sommartid
-  },
-  Europe/Madrid: {
-    Generic: sentraleuropeisk tid,
-    Standard: sentraleuropeisk standardtid,
-    Daylight: sentraleuropeisk sommartid
-  },
-  Asia/Srednekolymsk: {
-    Generic: Srednekolymsk Time,
-    Standard: Srednekolymsk Standard Time,
-    Daylight: Srednekolymsk Daylight Time
-  },
-  Asia/Kamchatka: {
-    Generic: Kamchatka Time,
-    Standard: Kamchatka Standard Time,
-    Daylight: Kamchatka Daylight Time
-  },
-  Asia/Anadyr: {
-    Generic: Anadyr Time,
-    Standard: Anadyr Standard Time,
-    Daylight: Anadyr Daylight Time
-  },
-  Europe/Samara: {
-    Generic: Samara Time,
-    Standard: Samara Standard Time,
-    Daylight: Samara Daylight Time
-  },
-  Europe/Moscow: {
-    Generic: Moscow Time,
-    Standard: Moscow Standard Time,
-    Daylight: Moscow Daylight Time
-  },
-  Europe/Kirov: {
-    Generic: Kirov Time,
-    Standard: Kirov Standard Time,
-    Daylight: Kirov Daylight Time
-  },
-  Europe/Simferopol: {
-    Generic: tidssone for Moskva,
-    Standard: normaltid for Moskva,
-    Daylight: sommartid for Moskva
-  },
-  America/Cayenne: {
-    Generic: French Guiana Time,
-    Standard: French Guiana Time,
-    Daylight: French Guiana Time
-  },
-  Antarctica/Rothera: {
-    Generic: Rothera Time,
-    Standard: Rothera Time,
-    Daylight: Rothera Time
-  },
-  Antarctica/Palmer: {
-    Generic: chilensk tid,
-    Standard: chilensk normaltid,
-    Daylight: chilensk sommartid
-  },
-  America/Fortaleza: {
-    Generic: tidssone for Brasilia,
-    Standard: normaltid for Brasilia,
-    Daylight: sommartid for Brasilia
-  },
-  America/Belem: {
-    Generic: tidssone for Brasilia,
-    Standard: normaltid for Brasilia,
-    Daylight: sommartid for Brasilia
-  },
-  America/Maceio: {
-    Generic: tidssone for Brasilia,
-    Standard: normaltid for Brasilia,
-    Daylight: sommartid for Brasilia
-  },
-  America/Recife: {
-    Generic: tidssone for Brasilia,
-    Standard: normaltid for Brasilia,
-    Daylight: sommartid for Brasilia
-  },
-  America/Santarem: {
-    Generic: tidssone for Brasilia,
-    Standard: normaltid for Brasilia,
-    Daylight: sommartid for Brasilia
-  },
-  Atlantic/Stanley: {
-    Generic: tidssone for Falklandsøyane,
-    Standard: normaltid for Falklandsøyane,
-    Daylight: sommartid for Falklandsøyane
-  },
-  America/Paramaribo: {
-    Generic: Suriname Time,
-    Standard: Suriname Time,
-    Daylight: Suriname Time
-  },
-  Etc/GMT+3: {
-    Generic: Coordinated Universal Time -3,
-    Standard: Coordinated Universal Time -3,
-    Daylight: Coordinated Universal Time -3
-  },
-  America/Bogota: {
-    Generic: kolombiansk tid,
-    Standard: kolombiansk normaltid,
-    Daylight: kolombiansk sommartid
-  },
-  America/Rio_Branco: {
+  America/Port_of_Spain: {
+    Generic: tidssone for den nordamerikanske atlanterhavskysten,
+    Standard: normaltid for den nordamerikanske atlanterhavskysten,
+    Daylight: sommartid for den nordamerikanske atlanterhavskysten
+  },
+  America/Porto_Acre: {
     Generic: Acre Time,
     Standard: Acre Standard Time,
     Daylight: Acre Summer Time
-  },
-  America/Eirunepe: {
-    Generic: Acre Time,
-    Standard: Acre Standard Time,
-    Daylight: Acre Summer Time
-  },
-  America/Coral_Harbour: {
-    Generic: tidssone for den nordamerikanske austkysten,
-    Standard: normaltid for den nordamerikanske austkysten,
-    Daylight: sommartid for den nordamerikansk austkysten
-  },
-  America/Guayaquil: {
-    Generic: Ecuador Time,
-    Standard: Ecuador Time,
-    Daylight: Ecuador Time
-  },
-  America/Jamaica: {
-    Generic: tidssone for den nordamerikanske austkysten,
-    Standard: normaltid for den nordamerikanske austkysten,
-    Daylight: sommartid for den nordamerikansk austkysten
-  },
-  America/Cayman: {
-    Generic: tidssone for den nordamerikanske austkysten,
-    Standard: normaltid for den nordamerikanske austkysten,
-    Daylight: sommartid for den nordamerikansk austkysten
-  },
-  America/Panama: {
-    Generic: tidssone for den nordamerikanske austkysten,
-    Standard: normaltid for den nordamerikanske austkysten,
-    Daylight: sommartid for den nordamerikansk austkysten
-  },
-  America/Lima: {
-    Generic: peruansk tid,
-    Standard: peruansk normaltid,
-    Daylight: peruansk sommartid
-  },
-  Etc/GMT+5: {
-    Generic: Coordinated Universal Time -5,
-    Standard: Coordinated Universal Time -5,
-    Daylight: Coordinated Universal Time -5
-  },
-  America/La_Paz: {
-    Generic: Bolivia Time,
-    Standard: Bolivia Time,
-    Daylight: Bolivia Time
-  },
-  America/Antigua: {
-    Generic: tidssone for den nordamerikanske atlanterhavskysten,
-    Standard: normaltid for den nordamerikanske atlanterhavskysten,
-    Daylight: sommartid for den nordamerikanske atlanterhavskysten
-  },
-  America/Anguilla: {
-    Generic: tidssone for den nordamerikanske atlanterhavskysten,
-    Standard: normaltid for den nordamerikanske atlanterhavskysten,
-    Daylight: sommartid for den nordamerikanske atlanterhavskysten
-  },
-  America/Aruba: {
-    Generic: tidssone for den nordamerikanske atlanterhavskysten,
-    Standard: normaltid for den nordamerikanske atlanterhavskysten,
-    Daylight: sommartid for den nordamerikanske atlanterhavskysten
-  },
-  America/Barbados: {
-    Generic: tidssone for den nordamerikanske atlanterhavskysten,
-    Standard: normaltid for den nordamerikanske atlanterhavskysten,
-    Daylight: sommartid for den nordamerikanske atlanterhavskysten
-  },
-  America/St_Barthelemy: {
-    Generic: tidssone for den nordamerikanske atlanterhavskysten,
-    Standard: normaltid for den nordamerikanske atlanterhavskysten,
-    Daylight: sommartid for den nordamerikanske atlanterhavskysten
-  },
-  America/Kralendijk: {
-    Generic: tidssone for den nordamerikanske atlanterhavskysten,
-    Standard: normaltid for den nordamerikanske atlanterhavskysten,
-    Daylight: sommartid for den nordamerikanske atlanterhavskysten
-  },
-  America/Manaus: {
-    Generic: tidssone for Amazonas,
-    Standard: normaltid for Amazonas,
-    Daylight: sommartid for Amazonas
-  },
-  America/Boa_Vista: {
-    Generic: tidssone for Amazonas,
-    Standard: normaltid for Amazonas,
-    Daylight: sommartid for Amazonas
   },
   America/Porto_Velho: {
     Generic: tidssone for Amazonas,
     Standard: normaltid for Amazonas,
     Daylight: sommartid for Amazonas
   },
-  America/Blanc-Sablon: {
+  America/Puerto_Rico: {
     Generic: tidssone for den nordamerikanske atlanterhavskysten,
     Standard: normaltid for den nordamerikanske atlanterhavskysten,
     Daylight: sommartid for den nordamerikanske atlanterhavskysten
   },
-  America/Curacao: {
-    Generic: tidssone for den nordamerikanske atlanterhavskysten,
-    Standard: normaltid for den nordamerikanske atlanterhavskysten,
-    Daylight: sommartid for den nordamerikanske atlanterhavskysten
+  America/Punta_Arenas: {
+    Generic: chilensk tid,
+    Standard: chilensk normaltid,
+    Daylight: chilensk sommartid
   },
-  America/Dominica: {
-    Generic: tidssone for den nordamerikanske atlanterhavskysten,
-    Standard: normaltid for den nordamerikanske atlanterhavskysten,
-    Daylight: sommartid for den nordamerikanske atlanterhavskysten
+  America/Rainy_River: {
+    Generic: tidssone for sentrale Nord-Amerika,
+    Standard: normaltid for sentrale Nord-Amerika,
+    Daylight: sommartid for sentrale Nord-Amerika
+  },
+  America/Rankin_Inlet: {
+    Generic: tidssone for sentrale Nord-Amerika,
+    Standard: normaltid for sentrale Nord-Amerika,
+    Daylight: sommartid for sentrale Nord-Amerika
+  },
+  America/Recife: {
+    Generic: tidssone for Brasilia,
+    Standard: normaltid for Brasilia,
+    Daylight: sommartid for Brasilia
+  },
+  America/Regina: {
+    Generic: tidssone for sentrale Nord-Amerika,
+    Standard: normaltid for sentrale Nord-Amerika,
+    Daylight: sommartid for sentrale Nord-Amerika
+  },
+  America/Resolute: {
+    Generic: tidssone for sentrale Nord-Amerika,
+    Standard: normaltid for sentrale Nord-Amerika,
+    Daylight: sommartid for sentrale Nord-Amerika
+  },
+  America/Rio_Branco: {
+    Generic: Acre Time,
+    Standard: Acre Standard Time,
+    Daylight: Acre Summer Time
+  },
+  America/Rosario: {
+    Generic: argentinsk tid,
+    Standard: argentinsk normaltid,
+    Daylight: argentinsk sommartid
+  },
+  America/Santa_Isabel: {
+    Generic: tidssone for nordvestlege Mexico,
+    Standard: normaltid for nordvestlege Mexico,
+    Daylight: sommartid for nordvestlege Mexico
+  },
+  America/Santarem: {
+    Generic: tidssone for Brasilia,
+    Standard: normaltid for Brasilia,
+    Daylight: sommartid for Brasilia
+  },
+  America/Santiago: {
+    Generic: chilensk tid,
+    Standard: chilensk normaltid,
+    Daylight: chilensk sommartid
   },
   America/Santo_Domingo: {
     Generic: tidssone for den nordamerikanske atlanterhavskysten,
     Standard: normaltid for den nordamerikanske atlanterhavskysten,
     Daylight: sommartid for den nordamerikanske atlanterhavskysten
   },
-  America/Grenada: {
+  America/Sao_Paulo: {
+    Generic: tidssone for Brasilia,
+    Standard: normaltid for Brasilia,
+    Daylight: sommartid for Brasilia
+  },
+  America/Scoresbysund: {
+    Generic: austgrønlandsk tid,
+    Standard: austgrønlandsk normaltid,
+    Daylight: austgrønlandsk sommartid
+  },
+  America/Shiprock: {
+    Generic: tidssone for Rocky Mountains (USA),
+    Standard: normaltid for Rocky Mountains (USA),
+    Daylight: sommartid for Rocky Mountains (USA)
+  },
+  America/Sitka: {
+    Generic: alaskisk tid,
+    Standard: alaskisk normaltid,
+    Daylight: alaskisk sommartid
+  },
+  America/St_Barthelemy: {
     Generic: tidssone for den nordamerikanske atlanterhavskysten,
     Standard: normaltid for den nordamerikanske atlanterhavskysten,
     Daylight: sommartid for den nordamerikanske atlanterhavskysten
   },
-  America/Guadeloupe: {
-    Generic: tidssone for den nordamerikanske atlanterhavskysten,
-    Standard: normaltid for den nordamerikanske atlanterhavskysten,
-    Daylight: sommartid for den nordamerikanske atlanterhavskysten
-  },
-  America/Guyana: {
-    Generic: Guyana Time,
-    Standard: Guyana Time,
-    Daylight: Guyana Time
+  America/St_Johns: {
+    Generic: tidssone for Newfoundland,
+    Standard: normaltid for Newfoundland,
+    Daylight: sommartid for Newfoundland
   },
   America/St_Kitts: {
     Generic: tidssone for den nordamerikanske atlanterhavskysten,
@@ -1504,32 +1029,7 @@
     Standard: normaltid for den nordamerikanske atlanterhavskysten,
     Daylight: sommartid for den nordamerikanske atlanterhavskysten
   },
-  America/Marigot: {
-    Generic: tidssone for den nordamerikanske atlanterhavskysten,
-    Standard: normaltid for den nordamerikanske atlanterhavskysten,
-    Daylight: sommartid for den nordamerikanske atlanterhavskysten
-  },
-  America/Martinique: {
-    Generic: tidssone for den nordamerikanske atlanterhavskysten,
-    Standard: normaltid for den nordamerikanske atlanterhavskysten,
-    Daylight: sommartid for den nordamerikanske atlanterhavskysten
-  },
-  America/Montserrat: {
-    Generic: tidssone for den nordamerikanske atlanterhavskysten,
-    Standard: normaltid for den nordamerikanske atlanterhavskysten,
-    Daylight: sommartid for den nordamerikanske atlanterhavskysten
-  },
-  America/Puerto_Rico: {
-    Generic: tidssone for den nordamerikanske atlanterhavskysten,
-    Standard: normaltid for den nordamerikanske atlanterhavskysten,
-    Daylight: sommartid for den nordamerikanske atlanterhavskysten
-  },
-  America/Lower_Princes: {
-    Generic: tidssone for den nordamerikanske atlanterhavskysten,
-    Standard: normaltid for den nordamerikanske atlanterhavskysten,
-    Daylight: sommartid for den nordamerikanske atlanterhavskysten
-  },
-  America/Port_of_Spain: {
+  America/St_Thomas: {
     Generic: tidssone for den nordamerikanske atlanterhavskysten,
     Standard: normaltid for den nordamerikanske atlanterhavskysten,
     Daylight: sommartid for den nordamerikanske atlanterhavskysten
@@ -1539,655 +1039,155 @@
     Standard: normaltid for den nordamerikanske atlanterhavskysten,
     Daylight: sommartid for den nordamerikanske atlanterhavskysten
   },
+  America/Swift_Current: {
+    Generic: tidssone for sentrale Nord-Amerika,
+    Standard: normaltid for sentrale Nord-Amerika,
+    Daylight: sommartid for sentrale Nord-Amerika
+  },
+  America/Tegucigalpa: {
+    Generic: tidssone for sentrale Nord-Amerika,
+    Standard: normaltid for sentrale Nord-Amerika,
+    Daylight: sommartid for sentrale Nord-Amerika
+  },
+  America/Thule: {
+    Generic: tidssone for den nordamerikanske atlanterhavskysten,
+    Standard: normaltid for den nordamerikanske atlanterhavskysten,
+    Daylight: sommartid for den nordamerikanske atlanterhavskysten
+  },
+  America/Thunder_Bay: {
+    Generic: tidssone for den nordamerikanske austkysten,
+    Standard: normaltid for den nordamerikanske austkysten,
+    Daylight: sommartid for den nordamerikansk austkysten
+  },
+  America/Tijuana: {
+    Generic: tidssone for den nordamerikanske stillehavskysten,
+    Standard: normaltid for den nordamerikanske stillehavskysten,
+    Daylight: sommartid for den nordamerikanske stillehavskysten
+  },
+  America/Toronto: {
+    Generic: tidssone for den nordamerikanske austkysten,
+    Standard: normaltid for den nordamerikanske austkysten,
+    Daylight: sommartid for den nordamerikansk austkysten
+  },
   America/Tortola: {
     Generic: tidssone for den nordamerikanske atlanterhavskysten,
     Standard: normaltid for den nordamerikanske atlanterhavskysten,
     Daylight: sommartid for den nordamerikanske atlanterhavskysten
   },
-  America/St_Thomas: {
+  America/Vancouver: {
+    Generic: tidssone for den nordamerikanske stillehavskysten,
+    Standard: normaltid for den nordamerikanske stillehavskysten,
+    Daylight: sommartid for den nordamerikanske stillehavskysten
+  },
+  America/Virgin: {
     Generic: tidssone for den nordamerikanske atlanterhavskysten,
     Standard: normaltid for den nordamerikanske atlanterhavskysten,
     Daylight: sommartid for den nordamerikanske atlanterhavskysten
   },
-  Etc/GMT+4: {
-    Generic: Coordinated Universal Time -4,
-    Standard: Coordinated Universal Time -4,
-    Daylight: Coordinated Universal Time -4
+  America/Whitehorse: {
+    Generic: Yukon Time,
+    Standard: Yukon Time,
+    Daylight: Yukon Time
   },
-  Asia/Bangkok: {
-    Generic: Indochina Time,
-    Standard: Indochina Time,
-    Daylight: Indochina Time
+  America/Winnipeg: {
+    Generic: tidssone for sentrale Nord-Amerika,
+    Standard: normaltid for sentrale Nord-Amerika,
+    Daylight: sommartid for sentrale Nord-Amerika
+  },
+  America/Yakutat: {
+    Generic: alaskisk tid,
+    Standard: alaskisk normaltid,
+    Daylight: alaskisk sommartid
+  },
+  America/Yellowknife: {
+    Generic: tidssone for Rocky Mountains (USA),
+    Standard: normaltid for Rocky Mountains (USA),
+    Daylight: sommartid for Rocky Mountains (USA)
+  },
+  Antarctica/Casey: {
+    Generic: Casey Time,
+    Standard: Casey Time,
+    Daylight: Casey Time
   },
   Antarctica/Davis: {
     Generic: Davis Time,
     Standard: Davis Time,
     Daylight: Davis Time
   },
-  Indian/Christmas: {
-    Generic: Christmas Island Time,
-    Standard: Christmas Island Time,
-    Daylight: Christmas Island Time
-  },
-  Asia/Jakarta: {
-    Generic: Western Indonesia Time,
-    Standard: Western Indonesia Time,
-    Daylight: Western Indonesia Time
-  },
-  Asia/Pontianak: {
-    Generic: Western Indonesia Time,
-    Standard: Western Indonesia Time,
-    Daylight: Western Indonesia Time
-  },
-  Asia/Phnom_Penh: {
-    Generic: Indochina Time,
-    Standard: Indochina Time,
-    Daylight: Indochina Time
-  },
-  Asia/Vientiane: {
-    Generic: Indochina Time,
-    Standard: Indochina Time,
-    Daylight: Indochina Time
-  },
-  Asia/Saigon: {
-    Generic: Indochina Time,
-    Standard: Indochina Time,
-    Daylight: Indochina Time
-  },
-  Etc/GMT-7: {
-    Generic: Coordinated Universal Time +7,
-    Standard: Coordinated Universal Time +7,
-    Daylight: Coordinated Universal Time +7
-  },
-  America/Miquelon: {
-    Generic: tidssone for Saint-Pierre-et-Miquelon,
-    Standard: normaltid for Saint-Pierre-et-Miquelon,
-    Daylight: sommartid for Saint-Pierre-et-Miquelon
-  },
-  Asia/Sakhalin: {
-    Generic: Sakhalin Time,
-    Standard: Sakhalin Standard Time,
-    Daylight: Sakhalin Daylight Time
-  },
-  Pacific/Apia: {
-    Generic: tidssone for Apia,
-    Standard: normaltid for Apia,
-    Daylight: sommartid for Apia
-  },
-  Africa/Sao_Tome: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
-  },
-  Europe/Saratov: {
-    Generic: Saratov Time,
-    Standard: Saratov Standard Time,
-    Daylight: Saratov Daylight Time
-  },
-  Asia/Singapore: {
-    Generic: Singapore Standard Time,
-    Standard: Singapore Standard Time,
-    Daylight: Singapore Standard Time
-  },
-  Asia/Brunei: {
-    Generic: Brunei Darussalam Time,
-    Standard: Brunei Darussalam Time,
-    Daylight: Brunei Darussalam Time
-  },
-  Asia/Makassar: {
-    Generic: Central Indonesia Time,
-    Standard: Central Indonesia Time,
-    Daylight: Central Indonesia Time
-  },
-  Asia/Kuala_Lumpur: {
-    Generic: Malaysia Time,
-    Standard: Malaysia Time,
-    Daylight: Malaysia Time
-  },
-  Asia/Kuching: {
-    Generic: Malaysia Time,
-    Standard: Malaysia Time,
-    Daylight: Malaysia Time
-  },
-  Asia/Manila: {
-    Generic: filippinsk tid,
-    Standard: filippinsk normaltid,
-    Daylight: filippinsk sommartid
-  },
-  Etc/GMT-8: {
-    Generic: Coordinated Universal Time +8,
-    Standard: Coordinated Universal Time +8,
-    Daylight: Coordinated Universal Time +8
-  },
-  Africa/Johannesburg: {
-    Generic: South Africa Standard Time,
-    Standard: South Africa Standard Time,
-    Daylight: South Africa Standard Time
-  },
-  Africa/Bujumbura: {
-    Generic: Central Africa Time,
-    Standard: Central Africa Time,
-    Daylight: Central Africa Time
-  },
-  Africa/Gaborone: {
-    Generic: Central Africa Time,
-    Standard: Central Africa Time,
-    Daylight: Central Africa Time
-  },
-  Africa/Lubumbashi: {
-    Generic: Central Africa Time,
-    Standard: Central Africa Time,
-    Daylight: Central Africa Time
-  },
-  Africa/Maseru: {
-    Generic: South Africa Standard Time,
-    Standard: South Africa Standard Time,
-    Daylight: South Africa Standard Time
-  },
-  Africa/Blantyre: {
-    Generic: Central Africa Time,
-    Standard: Central Africa Time,
-    Daylight: Central Africa Time
-  },
-  Africa/Maputo: {
-    Generic: Central Africa Time,
-    Standard: Central Africa Time,
-    Daylight: Central Africa Time
-  },
-  Africa/Kigali: {
-    Generic: Central Africa Time,
-    Standard: Central Africa Time,
-    Daylight: Central Africa Time
-  },
-  Africa/Mbabane: {
-    Generic: South Africa Standard Time,
-    Standard: South Africa Standard Time,
-    Daylight: South Africa Standard Time
-  },
-  Africa/Lusaka: {
-    Generic: Central Africa Time,
-    Standard: Central Africa Time,
-    Daylight: Central Africa Time
-  },
-  Africa/Harare: {
-    Generic: Central Africa Time,
-    Standard: Central Africa Time,
-    Daylight: Central Africa Time
-  },
-  Etc/GMT-2: {
-    Generic: Coordinated Universal Time +2,
-    Standard: Coordinated Universal Time +2,
-    Daylight: Coordinated Universal Time +2
-  },
-  Africa/Juba: {
-    Generic: Central Africa Time,
-    Standard: Central Africa Time,
-    Daylight: Central Africa Time
-  },
-  Asia/Colombo: {
-    Generic: India Standard Time,
-    Standard: India Standard Time,
-    Daylight: India Standard Time
-  },
-  Africa/Khartoum: {
-    Generic: Central Africa Time,
-    Standard: Central Africa Time,
-    Daylight: Central Africa Time
-  },
-  Asia/Damascus: {
-    Generic: austeuropeisk tid,
-    Standard: austeuropeisk standardtid,
-    Daylight: austeuropeisk sommartid
-  },
-  Asia/Taipei: {
-    Generic: tidssone for Taipei,
-    Standard: normaltid for Taipei,
-    Daylight: sommartid for Taipei
-  },
-  Australia/Hobart: {
-    Generic: austaustralsk tid,
-    Standard: austaustralsk standardtid,
-    Daylight: austaustralsk sommartid
-  },
-  Australia/Currie: {
-    Generic: austaustralsk tid,
-    Standard: austaustralsk standardtid,
-    Daylight: austaustralsk sommartid
+  Antarctica/DumontDUrville: {
+    Generic: tidssone for Dumont-d’Urville,
+    Standard: tidssone for Dumont-d’Urville,
+    Daylight: tidssone for Dumont-d’Urville
   },
   Antarctica/Macquarie: {
     Generic: austaustralsk tid,
     Standard: austaustralsk standardtid,
     Daylight: austaustralsk sommartid
   },
-  America/Araguaina: {
-    Generic: tidssone for Brasilia,
-    Standard: normaltid for Brasilia,
-    Daylight: sommartid for Brasilia
+  Antarctica/Mawson: {
+    Generic: Mawson Time,
+    Standard: Mawson Time,
+    Daylight: Mawson Time
   },
-  Asia/Tokyo: {
-    Generic: japansk tid,
-    Standard: japansk normaltid,
-    Daylight: japansk sommartid
+  Antarctica/McMurdo: {
+    Generic: nyzealandsk tid,
+    Standard: nyzealandsk normaltid,
+    Daylight: nyzealandsk sumartid
   },
-  Asia/Jayapura: {
-    Generic: austindonesisk tid,
-    Standard: austindonesisk tid,
-    Daylight: austindonesisk tid
+  Antarctica/Palmer: {
+    Generic: chilensk tid,
+    Standard: chilensk normaltid,
+    Daylight: chilensk sommartid
   },
-  Pacific/Palau: {
-    Generic: Palau Time,
-    Standard: Palau Time,
-    Daylight: Palau Time
+  Antarctica/Rothera: {
+    Generic: Rothera Time,
+    Standard: Rothera Time,
+    Daylight: Rothera Time
   },
-  Asia/Dili: {
-    Generic: austtimoresisk tid,
-    Standard: austtimoresisk tid,
-    Daylight: austtimoresisk tid
+  Antarctica/South_Pole: {
+    Generic: nyzealandsk tid,
+    Standard: nyzealandsk normaltid,
+    Daylight: nyzealandsk sumartid
   },
-  Etc/GMT-9: {
-    Generic: Coordinated Universal Time +9,
-    Standard: Coordinated Universal Time +9,
-    Daylight: Coordinated Universal Time +9
+  Antarctica/Syowa: {
+    Generic: Syowa Time,
+    Standard: Syowa Time,
+    Daylight: Syowa Time
   },
-  Asia/Tomsk: {
-    Generic: Tomsk Time,
-    Standard: Tomsk Standard Time,
-    Daylight: Tomsk Daylight Time
-  },
-  Pacific/Tongatapu: {
-    Generic: tongansk tid,
-    Standard: tongansk normaltid,
-    Daylight: tongansk sommartid
-  },
-  Asia/Chita: {
-    Generic: Chita Time,
-    Standard: Chita Standard Time,
-    Daylight: Chita Daylight Time
-  },
-  Europe/Istanbul: {
-    Generic: Turkey Time,
-    Standard: Turkey Standard Time,
-    Daylight: Turkey Daylight Time
-  },
-  America/Grand_Turk: {
-    Generic: tidssone for den nordamerikanske austkysten,
-    Standard: normaltid for den nordamerikanske austkysten,
-    Daylight: sommartid for den nordamerikansk austkysten
-  },
-  America/Indianapolis: {
-    Generic: tidssone for den nordamerikanske austkysten,
-    Standard: normaltid for den nordamerikanske austkysten,
-    Daylight: sommartid for den nordamerikansk austkysten
-  },
-  America/Indiana/Marengo: {
-    Generic: tidssone for den nordamerikanske austkysten,
-    Standard: normaltid for den nordamerikanske austkysten,
-    Daylight: sommartid for den nordamerikansk austkysten
-  },
-  America/Indiana/Vevay: {
-    Generic: tidssone for den nordamerikanske austkysten,
-    Standard: normaltid for den nordamerikanske austkysten,
-    Daylight: sommartid for den nordamerikansk austkysten
-  },
-  America/Phoenix: {
-    Generic: tidssone for Rocky Mountains (USA),
-    Standard: normaltid for Rocky Mountains (USA),
-    Daylight: sommartid for Rocky Mountains (USA)
-  },
-  America/Creston: {
-    Generic: tidssone for Rocky Mountains (USA),
-    Standard: normaltid for Rocky Mountains (USA),
-    Daylight: sommartid for Rocky Mountains (USA)
-  },
-  America/Dawson_Creek: {
-    Generic: tidssone for Rocky Mountains (USA),
-    Standard: normaltid for Rocky Mountains (USA),
-    Daylight: sommartid for Rocky Mountains (USA)
-  },
-  America/Fort_Nelson: {
-    Generic: tidssone for Rocky Mountains (USA),
-    Standard: normaltid for Rocky Mountains (USA),
-    Daylight: sommartid for Rocky Mountains (USA)
-  },
-  America/Hermosillo: {
-    Generic: tidssone for den meksikanske stillehavskysten,
-    Standard: normaltid for den meksikanske stillehavskysten,
-    Daylight: sommartid for den meksikanske stillehavskysten
-  },
-  Etc/GMT+7: {
-    Generic: Coordinated Universal Time -7,
-    Standard: Coordinated Universal Time -7,
-    Daylight: Coordinated Universal Time -7
-  },
-  Etc/GMT-12: {
-    Generic: Coordinated Universal Time +12,
-    Standard: Coordinated Universal Time +12,
-    Daylight: Coordinated Universal Time +12
-  },
-  Pacific/Tarawa: {
-    Generic: tidssone for Gilbertøyane,
-    Standard: tidssone for Gilbertøyane,
-    Daylight: tidssone for Gilbertøyane
-  },
-  Pacific/Majuro: {
-    Generic: Marshall Islands Time,
-    Standard: Marshall Islands Time,
-    Daylight: Marshall Islands Time
-  },
-  Pacific/Kwajalein: {
-    Generic: Marshall Islands Time,
-    Standard: Marshall Islands Time,
-    Daylight: Marshall Islands Time
-  },
-  Pacific/Nauru: {
-    Generic: Nauru Time,
-    Standard: Nauru Time,
-    Daylight: Nauru Time
-  },
-  Pacific/Funafuti: {
-    Generic: Tuvalu Time,
-    Standard: Tuvalu Time,
-    Daylight: Tuvalu Time
-  },
-  Pacific/Wake: {
-    Generic: Wake Island Time,
-    Standard: Wake Island Time,
-    Daylight: Wake Island Time
-  },
-  Pacific/Wallis: {
-    Generic: tidssone for Wallis- og Futunaøyane,
-    Standard: tidssone for Wallis- og Futunaøyane,
-    Daylight: tidssone for Wallis- og Futunaøyane
-  },
-  Etc/GMT-13: {
-    Generic: Coordinated Universal Time +13,
-    Standard: Coordinated Universal Time +13,
-    Daylight: Coordinated Universal Time +13
-  },
-  Pacific/Enderbury: {
-    Generic: tidssone for Phoenixøyane,
-    Standard: tidssone for Phoenixøyane,
-    Daylight: tidssone for Phoenixøyane
-  },
-  Pacific/Fakaofo: {
-    Generic: Tokelau Time,
-    Standard: Tokelau Time,
-    Daylight: Tokelau Time
-  },
-  Etc/UTC: {
-    Generic: Coordinated Universal Time,
-    Standard: Coordinated Universal Time,
-    Daylight: Coordinated Universal Time
-  },
-  Etc/GMT: {
+  Antarctica/Troll: {
     Generic: Greenwich Mean Time,
     Standard: Greenwich Mean Time,
     Daylight: Greenwich Mean Time
   },
-  Etc/GMT+2: {
-    Generic: Coordinated Universal Time -2,
-    Standard: Coordinated Universal Time -2,
-    Daylight: Coordinated Universal Time -2
-  },
-  America/Noronha: {
-    Generic: tidssone for Fernando de Noronha,
-    Standard: normaltid for Fernando de Noronha,
-    Daylight: sommartid for Fernando de Noronha
-  },
-  Atlantic/South_Georgia: {
-    Generic: South Georgia Time,
-    Standard: South Georgia Time,
-    Daylight: South Georgia Time
-  },
-  Etc/GMT+8: {
-    Generic: Coordinated Universal Time -8,
-    Standard: Coordinated Universal Time -8,
-    Daylight: Coordinated Universal Time -8
-  },
-  Pacific/Pitcairn: {
-    Generic: Pitcairn Time,
-    Standard: Pitcairn Time,
-    Daylight: Pitcairn Time
-  },
-  Etc/GMT+9: {
-    Generic: Coordinated Universal Time -9,
-    Standard: Coordinated Universal Time -9,
-    Daylight: Coordinated Universal Time -9
-  },
-  Pacific/Gambier: {
-    Generic: Gambier Time,
-    Standard: Gambier Time,
-    Daylight: Gambier Time
-  },
-  Etc/GMT+11: {
-    Generic: Coordinated Universal Time -11,
-    Standard: Coordinated Universal Time -11,
-    Daylight: Coordinated Universal Time -11
-  },
-  Pacific/Pago_Pago: {
-    Generic: samoansk tid,
-    Standard: samoansk normaltid,
-    Daylight: samoansk sommartid
-  },
-  Pacific/Niue: {
-    Generic: Niue Time,
-    Standard: Niue Time,
-    Daylight: Niue Time
-  },
-  Pacific/Midway: {
-    Generic: samoansk tid,
-    Standard: samoansk normaltid,
-    Daylight: samoansk sommartid
-  },
-  Asia/Ulaanbaatar: {
-    Generic: tidssone for Ulan Bator,
-    Standard: normaltid for Ulan Bator,
-    Daylight: sommartid for Ulan Bator
-  },
-  Asia/Choibalsan: {
-    Generic: tidssone for Ulan Bator,
-    Standard: normaltid for Ulan Bator,
-    Daylight: sommartid for Ulan Bator
-  },
-  America/Caracas: {
-    Generic: Venezuela Time,
-    Standard: Venezuela Time,
-    Daylight: Venezuela Time
-  },
-  Asia/Vladivostok: {
-    Generic: Vladivostok Time,
-    Standard: Vladivostok Standard Time,
-    Daylight: Vladivostok Daylight Time
-  },
-  Asia/Ust-Nera: {
-    Generic: Ust-Nera Time,
-    Standard: Ust-Nera Standard Time,
-    Daylight: Ust-Nera Daylight Time
-  },
-  Europe/Volgograd: {
-    Generic: Volgograd Time,
-    Standard: Volgograd Standard Time,
-    Daylight: Volgograd Daylight Time
-  },
-  Australia/Perth: {
-    Generic: vestaustralsk tid,
-    Standard: vestaustralsk standardtid,
-    Daylight: vestaustralsk sommartid
-  },
-  Africa/Lagos: {
-    Generic: vestafrikansk tid,
-    Standard: vestafrikansk standardtid,
-    Daylight: vestafrikansk sommartid
-  },
-  Africa/Luanda: {
-    Generic: vestafrikansk tid,
-    Standard: vestafrikansk standardtid,
-    Daylight: vestafrikansk sommartid
-  },
-  Africa/Porto-Novo: {
-    Generic: vestafrikansk tid,
-    Standard: vestafrikansk standardtid,
-    Daylight: vestafrikansk sommartid
-  },
-  Africa/Kinshasa: {
-    Generic: vestafrikansk tid,
-    Standard: vestafrikansk standardtid,
-    Daylight: vestafrikansk sommartid
-  },
-  Africa/Bangui: {
-    Generic: vestafrikansk tid,
-    Standard: vestafrikansk standardtid,
-    Daylight: vestafrikansk sommartid
-  },
-  Africa/Brazzaville: {
-    Generic: vestafrikansk tid,
-    Standard: vestafrikansk standardtid,
-    Daylight: vestafrikansk sommartid
-  },
-  Africa/Douala: {
-    Generic: vestafrikansk tid,
-    Standard: vestafrikansk standardtid,
-    Daylight: vestafrikansk sommartid
-  },
-  Africa/Algiers: {
-    Generic: sentraleuropeisk tid,
-    Standard: sentraleuropeisk standardtid,
-    Daylight: sentraleuropeisk sommartid
-  },
-  Africa/Libreville: {
-    Generic: vestafrikansk tid,
-    Standard: vestafrikansk standardtid,
-    Daylight: vestafrikansk sommartid
-  },
-  Africa/Malabo: {
-    Generic: vestafrikansk tid,
-    Standard: vestafrikansk standardtid,
-    Daylight: vestafrikansk sommartid
-  },
-  Africa/Niamey: {
-    Generic: vestafrikansk tid,
-    Standard: vestafrikansk standardtid,
-    Daylight: vestafrikansk sommartid
-  },
-  Africa/Ndjamena: {
-    Generic: vestafrikansk tid,
-    Standard: vestafrikansk standardtid,
-    Daylight: vestafrikansk sommartid
-  },
-  Africa/Tunis: {
-    Generic: sentraleuropeisk tid,
-    Standard: sentraleuropeisk standardtid,
-    Daylight: sentraleuropeisk sommartid
-  },
-  Etc/GMT-1: {
-    Generic: Coordinated Universal Time +1,
-    Standard: Coordinated Universal Time +1,
-    Daylight: Coordinated Universal Time +1
-  },
-  Europe/Berlin: {
-    Generic: sentraleuropeisk tid,
-    Standard: sentraleuropeisk standardtid,
-    Daylight: sentraleuropeisk sommartid
-  },
-  Europe/Andorra: {
-    Generic: sentraleuropeisk tid,
-    Standard: sentraleuropeisk standardtid,
-    Daylight: sentraleuropeisk sommartid
-  },
-  Europe/Vienna: {
-    Generic: sentraleuropeisk tid,
-    Standard: sentraleuropeisk standardtid,
-    Daylight: sentraleuropeisk sommartid
-  },
-  Europe/Zurich: {
-    Generic: sentraleuropeisk tid,
-    Standard: sentraleuropeisk standardtid,
-    Daylight: sentraleuropeisk sommartid
-  },
-  Europe/Busingen: {
-    Generic: sentraleuropeisk tid,
-    Standard: sentraleuropeisk standardtid,
-    Daylight: sentraleuropeisk sommartid
-  },
-  Europe/Gibraltar: {
-    Generic: sentraleuropeisk tid,
-    Standard: sentraleuropeisk standardtid,
-    Daylight: sentraleuropeisk sommartid
-  },
-  Europe/Rome: {
-    Generic: sentraleuropeisk tid,
-    Standard: sentraleuropeisk standardtid,
-    Daylight: sentraleuropeisk sommartid
-  },
-  Europe/Vaduz: {
-    Generic: sentraleuropeisk tid,
-    Standard: sentraleuropeisk standardtid,
-    Daylight: sentraleuropeisk sommartid
-  },
-  Europe/Luxembourg: {
-    Generic: sentraleuropeisk tid,
-    Standard: sentraleuropeisk standardtid,
-    Daylight: sentraleuropeisk sommartid
-  },
-  Europe/Monaco: {
-    Generic: sentraleuropeisk tid,
-    Standard: sentraleuropeisk standardtid,
-    Daylight: sentraleuropeisk sommartid
-  },
-  Europe/Malta: {
-    Generic: sentraleuropeisk tid,
-    Standard: sentraleuropeisk standardtid,
-    Daylight: sentraleuropeisk sommartid
-  },
-  Europe/Amsterdam: {
-    Generic: sentraleuropeisk tid,
-    Standard: sentraleuropeisk standardtid,
-    Daylight: sentraleuropeisk sommartid
-  },
-  Europe/Oslo: {
-    Generic: sentraleuropeisk tid,
-    Standard: sentraleuropeisk standardtid,
-    Daylight: sentraleuropeisk sommartid
-  },
-  Europe/Stockholm: {
-    Generic: sentraleuropeisk tid,
-    Standard: sentraleuropeisk standardtid,
-    Daylight: sentraleuropeisk sommartid
+  Antarctica/Vostok: {
+    Generic: Vostok Time,
+    Standard: Vostok Time,
+    Daylight: Vostok Time
   },
   Arctic/Longyearbyen: {
     Generic: sentraleuropeisk tid,
     Standard: sentraleuropeisk standardtid,
     Daylight: sentraleuropeisk sommartid
   },
-  Europe/San_Marino: {
-    Generic: sentraleuropeisk tid,
-    Standard: sentraleuropeisk standardtid,
-    Daylight: sentraleuropeisk sommartid
+  Asia/Aden: {
+    Generic: arabisk tid,
+    Standard: arabisk normaltid,
+    Daylight: arabisk sommartid
   },
-  Europe/Vatican: {
-    Generic: sentraleuropeisk tid,
-    Standard: sentraleuropeisk standardtid,
-    Daylight: sentraleuropeisk sommartid
+  Asia/Almaty: {
+    Generic: austkasakhstansk tid,
+    Standard: austkasakhstansk tid,
+    Daylight: austkasakhstansk tid
   },
-  Asia/Hovd: {
-    Generic: tidssone for Khovd,
-    Standard: normaltid for Khovd,
-    Daylight: sommartid for Khovd
+  Asia/Amman: {
+    Generic: austeuropeisk tid,
+    Standard: austeuropeisk standardtid,
+    Daylight: austeuropeisk sommartid
   },
-  Asia/Tashkent: {
-    Generic: usbekisk tid,
-    Standard: usbekisk normaltid,
-    Daylight: usbekisk sommartid
-  },
-  Antarctica/Mawson: {
-    Generic: Mawson Time,
-    Standard: Mawson Time,
-    Daylight: Mawson Time
-  },
-  Asia/Oral: {
-    Generic: West Kazakhstan Time,
-    Standard: West Kazakhstan Time,
-    Daylight: West Kazakhstan Time
+  Asia/Anadyr: {
+    Generic: Anadyr Time,
+    Standard: Anadyr Standard Time,
+    Daylight: Anadyr Daylight Time
   },
   Asia/Aqtau: {
     Generic: West Kazakhstan Time,
@@ -2199,415 +1199,75 @@
     Standard: West Kazakhstan Time,
     Daylight: West Kazakhstan Time
   },
-  Asia/Atyrau: {
-    Generic: West Kazakhstan Time,
-    Standard: West Kazakhstan Time,
-    Daylight: West Kazakhstan Time
-  },
-  Indian/Maldives: {
-    Generic: Maldives Time,
-    Standard: Maldives Time,
-    Daylight: Maldives Time
-  },
-  Indian/Kerguelen: {
-    Generic: tidssone for Dei franske sørterritoria,
-    Standard: tidssone for Dei franske sørterritoria,
-    Daylight: tidssone for Dei franske sørterritoria
-  },
-  Asia/Dushanbe: {
-    Generic: Tajikistan Time,
-    Standard: Tajikistan Time,
-    Daylight: Tajikistan Time
-  },
   Asia/Ashgabat: {
     Generic: turkmensk tid,
     Standard: turkmensk normaltid,
     Daylight: turkmensk sommartid
-  },
-  Asia/Samarkand: {
-    Generic: usbekisk tid,
-    Standard: usbekisk normaltid,
-    Daylight: usbekisk sommartid
-  },
-  Etc/GMT-5: {
-    Generic: Coordinated Universal Time +5,
-    Standard: Coordinated Universal Time +5,
-    Daylight: Coordinated Universal Time +5
-  },
-  Asia/Hebron: {
-    Generic: austeuropeisk tid,
-    Standard: austeuropeisk standardtid,
-    Daylight: austeuropeisk sommartid
-  },
-  Asia/Gaza: {
-    Generic: austeuropeisk tid,
-    Standard: austeuropeisk standardtid,
-    Daylight: austeuropeisk sommartid
-  },
-  Pacific/Port_Moresby: {
-    Generic: Papua New Guinea Time,
-    Standard: Papua New Guinea Time,
-    Daylight: Papua New Guinea Time
-  },
-  Antarctica/DumontDUrville: {
-    Generic: tidssone for Dumont-d’Urville,
-    Standard: tidssone for Dumont-d’Urville,
-    Daylight: tidssone for Dumont-d’Urville
-  },
-  Pacific/Truk: {
-    Generic: tidssone for Chuukøyane,
-    Standard: tidssone for Chuukøyane,
-    Daylight: tidssone for Chuukøyane
-  },
-  Pacific/Guam: {
-    Generic: Chamorro Standard Time,
-    Standard: Chamorro Standard Time,
-    Daylight: Chamorro Standard Time
-  },
-  Pacific/Saipan: {
-    Generic: Chamorro Standard Time,
-    Standard: Chamorro Standard Time,
-    Daylight: Chamorro Standard Time
-  },
-  Etc/GMT-10: {
-    Generic: Coordinated Universal Time +10,
-    Standard: Coordinated Universal Time +10,
-    Daylight: Coordinated Universal Time +10
-  },
-  Asia/Yakutsk: {
-    Generic: Yakutsk Time,
-    Standard: Yakutsk Standard Time,
-    Daylight: Yakutsk Daylight Time
-  },
-  Asia/Khandyga: {
-    Generic: Khandyga Time,
-    Standard: Khandyga Standard Time,
-    Daylight: Khandyga Daylight Time
-  },
-  America/Whitehorse: {
-    Generic: Yukon Time,
-    Standard: Yukon Time,
-    Daylight: Yukon Time
-  },
-  America/Dawson: {
-    Generic: Yukon Time,
-    Standard: Yukon Time,
-    Daylight: Yukon Time
-  },
-  Iceland: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
-  },
-  Africa/Timbuktu: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
-  },
-  Egypt: {
-    Generic: austeuropeisk tid,
-    Standard: austeuropeisk standardtid,
-    Daylight: austeuropeisk sommartid
-  },
-  Africa/Asmara: {
-    Generic: austafrikansk tid,
-    Standard: austafrikansk tid,
-    Daylight: austafrikansk tid
-  },
-  Libya: {
-    Generic: austeuropeisk tid,
-    Standard: austeuropeisk standardtid,
-    Daylight: austeuropeisk sommartid
-  },
-  America/Atka: {
-    Generic: tidssone for Hawaii og Aleutene,
-    Standard: normaltid for Hawaii og Aleutene,
-    Daylight: sommartid for Hawaii og Aleutene
-  },
-  US/Aleutian: {
-    Generic: tidssone for Hawaii og Aleutene,
-    Standard: normaltid for Hawaii og Aleutene,
-    Daylight: sommartid for Hawaii og Aleutene
-  },
-  US/Alaska: {
-    Generic: alaskisk tid,
-    Standard: alaskisk normaltid,
-    Daylight: alaskisk sommartid
-  },
-  America/Argentina/Buenos_Aires: {
-    Generic: argentinsk tid,
-    Standard: argentinsk normaltid,
-    Daylight: argentinsk sommartid
-  },
-  America/Argentina/Catamarca: {
-    Generic: argentinsk tid,
-    Standard: argentinsk normaltid,
-    Daylight: argentinsk sommartid
-  },
-  America/Argentina/ComodRivadavia: {
-    Generic: argentinsk tid,
-    Standard: argentinsk normaltid,
-    Daylight: argentinsk sommartid
-  },
-  America/Argentina/Cordoba: {
-    Generic: argentinsk tid,
-    Standard: argentinsk normaltid,
-    Daylight: argentinsk sommartid
-  },
-  America/Rosario: {
-    Generic: argentinsk tid,
-    Standard: argentinsk normaltid,
-    Daylight: argentinsk sommartid
-  },
-  America/Argentina/Jujuy: {
-    Generic: argentinsk tid,
-    Standard: argentinsk normaltid,
-    Daylight: argentinsk sommartid
-  },
-  America/Argentina/Mendoza: {
-    Generic: argentinsk tid,
-    Standard: argentinsk normaltid,
-    Daylight: argentinsk sommartid
-  },
-  US/Central: {
-    Generic: tidssone for sentrale Nord-Amerika,
-    Standard: normaltid for sentrale Nord-Amerika,
-    Daylight: sommartid for sentrale Nord-Amerika
-  },
-  America/Shiprock: {
-    Generic: tidssone for Rocky Mountains (USA),
-    Standard: normaltid for Rocky Mountains (USA),
-    Daylight: sommartid for Rocky Mountains (USA)
-  },
-  Navajo: {
-    Generic: tidssone for Rocky Mountains (USA),
-    Standard: normaltid for Rocky Mountains (USA),
-    Daylight: sommartid for Rocky Mountains (USA)
-  },
-  US/Mountain: {
-    Generic: tidssone for Rocky Mountains (USA),
-    Standard: normaltid for Rocky Mountains (USA),
-    Daylight: sommartid for Rocky Mountains (USA)
-  },
-  US/Michigan: {
-    Generic: tidssone for den nordamerikanske austkysten,
-    Standard: normaltid for den nordamerikanske austkysten,
-    Daylight: sommartid for den nordamerikansk austkysten
-  },
-  Canada/Mountain: {
-    Generic: tidssone for Rocky Mountains (USA),
-    Standard: normaltid for Rocky Mountains (USA),
-    Daylight: sommartid for Rocky Mountains (USA)
-  },
-  Canada/Atlantic: {
-    Generic: tidssone for den nordamerikanske atlanterhavskysten,
-    Standard: normaltid for den nordamerikanske atlanterhavskysten,
-    Daylight: sommartid for den nordamerikanske atlanterhavskysten
-  },
-  Cuba: {
-    Generic: kubansk tid,
-    Standard: kubansk normaltid,
-    Daylight: kubansk sommartid
-  },
-  America/Indiana/Indianapolis: {
-    Generic: tidssone for den nordamerikanske austkysten,
-    Standard: normaltid for den nordamerikanske austkysten,
-    Daylight: sommartid for den nordamerikansk austkysten
-  },
-  US/East-Indiana: {
-    Generic: tidssone for den nordamerikanske austkysten,
-    Standard: normaltid for den nordamerikanske austkysten,
-    Daylight: sommartid for den nordamerikansk austkysten
-  },
-  America/Knox_IN: {
-    Generic: tidssone for sentrale Nord-Amerika,
-    Standard: normaltid for sentrale Nord-Amerika,
-    Daylight: sommartid for sentrale Nord-Amerika
-  },
-  US/Indiana-Starke: {
-    Generic: tidssone for sentrale Nord-Amerika,
-    Standard: normaltid for sentrale Nord-Amerika,
-    Daylight: sommartid for sentrale Nord-Amerika
-  },
-  Jamaica: {
-    Generic: tidssone for den nordamerikanske austkysten,
-    Standard: normaltid for den nordamerikanske austkysten,
-    Daylight: sommartid for den nordamerikansk austkysten
-  },
-  America/Kentucky/Louisville: {
-    Generic: tidssone for den nordamerikanske austkysten,
-    Standard: normaltid for den nordamerikanske austkysten,
-    Daylight: sommartid for den nordamerikansk austkysten
-  },
-  US/Pacific: {
-    Generic: tidssone for den nordamerikanske stillehavskysten,
-    Standard: normaltid for den nordamerikanske stillehavskysten,
-    Daylight: sommartid for den nordamerikanske stillehavskysten
-  },
-  Brazil/West: {
-    Generic: tidssone for Amazonas,
-    Standard: normaltid for Amazonas,
-    Daylight: sommartid for Amazonas
-  },
-  Mexico/BajaSur: {
-    Generic: tidssone for den meksikanske stillehavskysten,
-    Standard: normaltid for den meksikanske stillehavskysten,
-    Daylight: sommartid for den meksikanske stillehavskysten
-  },
-  Mexico/General: {
-    Generic: tidssone for sentrale Nord-Amerika,
-    Standard: normaltid for sentrale Nord-Amerika,
-    Daylight: sommartid for sentrale Nord-Amerika
-  },
-  US/Eastern: {
-    Generic: tidssone for den nordamerikanske austkysten,
-    Standard: normaltid for den nordamerikanske austkysten,
-    Daylight: sommartid for den nordamerikansk austkysten
-  },
-  Brazil/DeNoronha: {
-    Generic: tidssone for Fernando de Noronha,
-    Standard: normaltid for Fernando de Noronha,
-    Daylight: sommartid for Fernando de Noronha
-  },
-  America/Nuuk: {
-    Generic: vestgrønlandsk tid,
-    Standard: vestgrønlandsk normaltid,
-    Daylight: vestgrønlandsk sommartid
-  },
-  America/Atikokan: {
-    Generic: tidssone for den nordamerikanske austkysten,
-    Standard: normaltid for den nordamerikanske austkysten,
-    Daylight: sommartid for den nordamerikansk austkysten
-  },
-  US/Arizona: {
-    Generic: tidssone for Rocky Mountains (USA),
-    Standard: normaltid for Rocky Mountains (USA),
-    Daylight: sommartid for Rocky Mountains (USA)
-  },
-  America/Virgin: {
-    Generic: tidssone for den nordamerikanske atlanterhavskysten,
-    Standard: normaltid for den nordamerikanske atlanterhavskysten,
-    Daylight: sommartid for den nordamerikanske atlanterhavskysten
-  },
-  Canada/Saskatchewan: {
-    Generic: tidssone for sentrale Nord-Amerika,
-    Standard: normaltid for sentrale Nord-Amerika,
-    Daylight: sommartid for sentrale Nord-Amerika
-  },
-  America/Porto_Acre: {
-    Generic: Acre Time,
-    Standard: Acre Standard Time,
-    Daylight: Acre Summer Time
-  },
-  Brazil/Acre: {
-    Generic: Acre Time,
-    Standard: Acre Standard Time,
-    Daylight: Acre Summer Time
-  },
-  Chile/Continental: {
-    Generic: chilensk tid,
-    Standard: chilensk normaltid,
-    Daylight: chilensk sommartid
-  },
-  Brazil/East: {
-    Generic: tidssone for Brasilia,
-    Standard: normaltid for Brasilia,
-    Daylight: sommartid for Brasilia
-  },
-  Canada/Newfoundland: {
-    Generic: tidssone for Newfoundland,
-    Standard: normaltid for Newfoundland,
-    Daylight: sommartid for Newfoundland
-  },
-  America/Ensenada: {
-    Generic: tidssone for den nordamerikanske stillehavskysten,
-    Standard: normaltid for den nordamerikanske stillehavskysten,
-    Daylight: sommartid for den nordamerikanske stillehavskysten
-  },
-  Mexico/BajaNorte: {
-    Generic: tidssone for den nordamerikanske stillehavskysten,
-    Standard: normaltid for den nordamerikanske stillehavskysten,
-    Daylight: sommartid for den nordamerikanske stillehavskysten
-  },
-  Canada/Eastern: {
-    Generic: tidssone for den nordamerikanske austkysten,
-    Standard: normaltid for den nordamerikanske austkysten,
-    Daylight: sommartid for den nordamerikansk austkysten
-  },
-  Canada/Pacific: {
-    Generic: tidssone for den nordamerikanske stillehavskysten,
-    Standard: normaltid for den nordamerikanske stillehavskysten,
-    Daylight: sommartid for den nordamerikanske stillehavskysten
-  },
-  Canada/Yukon: {
-    Generic: Yukon Time,
-    Standard: Yukon Time,
-    Daylight: Yukon Time
-  },
-  Canada/Central: {
-    Generic: tidssone for sentrale Nord-Amerika,
-    Standard: normaltid for sentrale Nord-Amerika,
-    Daylight: sommartid for sentrale Nord-Amerika
   },
   Asia/Ashkhabad: {
     Generic: turkmensk tid,
     Standard: turkmensk normaltid,
     Daylight: turkmensk sommartid
   },
-  Asia/Dacca: {
-    Generic: bangladeshisk tid,
-    Standard: bangladeshisk normaltid,
-    Daylight: bangladeshisk sommartid
+  Asia/Atyrau: {
+    Generic: West Kazakhstan Time,
+    Standard: West Kazakhstan Time,
+    Daylight: West Kazakhstan Time
   },
-  Asia/Ho_Chi_Minh: {
+  Asia/Baghdad: {
+    Generic: arabisk tid,
+    Standard: arabisk normaltid,
+    Daylight: arabisk sommartid
+  },
+  Asia/Bahrain: {
+    Generic: arabisk tid,
+    Standard: arabisk normaltid,
+    Daylight: arabisk sommartid
+  },
+  Asia/Baku: {
+    Generic: aserbajdsjansk tid,
+    Standard: aserbajdsjansk normaltid,
+    Daylight: aserbajdsjansk sommartid
+  },
+  Asia/Bangkok: {
     Generic: Indochina Time,
     Standard: Indochina Time,
     Daylight: Indochina Time
   },
-  Hongkong: {
-    Generic: hongkongkinesisk tid,
-    Standard: hongkongkinesisk normaltid,
-    Daylight: hongkongkinesisk sommartid
+  Asia/Barnaul: {
+    Generic: Barnaul Time,
+    Standard: Barnaul Standard Time,
+    Daylight: Barnaul Daylight Time
   },
-  Asia/Tel_Aviv: {
-    Generic: israelsk tid,
-    Standard: israelsk normaltid,
-    Daylight: israelsk sommartid
-  },
-  Israel: {
-    Generic: israelsk tid,
-    Standard: israelsk normaltid,
-    Daylight: israelsk sommartid
-  },
-  Asia/Kathmandu: {
-    Generic: Nepal Time,
-    Standard: Nepal Time,
-    Daylight: Nepal Time
-  },
-  Asia/Kolkata: {
-    Generic: India Standard Time,
-    Standard: India Standard Time,
-    Daylight: India Standard Time
-  },
-  Asia/Macao: {
-    Generic: kinesisk tid,
-    Standard: kinesisk normaltid,
-    Daylight: kinesisk sommartid
-  },
-  Asia/Ujung_Pandang: {
-    Generic: Central Indonesia Time,
-    Standard: Central Indonesia Time,
-    Daylight: Central Indonesia Time
-  },
-  Europe/Nicosia: {
+  Asia/Beirut: {
     Generic: austeuropeisk tid,
     Standard: austeuropeisk standardtid,
     Daylight: austeuropeisk sommartid
   },
-  ROK: {
-    Generic: koreansk tid,
-    Standard: koreansk normaltid,
-    Daylight: koreansk sommartid
+  Asia/Bishkek: {
+    Generic: Kyrgyzstan Time,
+    Standard: Kyrgyzstan Time,
+    Daylight: Kyrgyzstan Time
+  },
+  Asia/Brunei: {
+    Generic: Brunei Darussalam Time,
+    Standard: Brunei Darussalam Time,
+    Daylight: Brunei Darussalam Time
+  },
+  Asia/Calcutta: {
+    Generic: India Standard Time,
+    Standard: India Standard Time,
+    Daylight: India Standard Time
+  },
+  Asia/Chita: {
+    Generic: Chita Time,
+    Standard: Chita Standard Time,
+    Daylight: Chita Daylight Time
+  },
+  Asia/Choibalsan: {
+    Generic: tidssone for Ulan Bator,
+    Standard: normaltid for Ulan Bator,
+    Daylight: sommartid for Ulan Bator
   },
   Asia/Chongqing: {
     Generic: kinesisk tid,
@@ -2619,57 +1279,412 @@
     Standard: kinesisk normaltid,
     Daylight: kinesisk sommartid
   },
+  Asia/Colombo: {
+    Generic: India Standard Time,
+    Standard: India Standard Time,
+    Daylight: India Standard Time
+  },
+  Asia/Dacca: {
+    Generic: bangladeshisk tid,
+    Standard: bangladeshisk normaltid,
+    Daylight: bangladeshisk sommartid
+  },
+  Asia/Damascus: {
+    Generic: austeuropeisk tid,
+    Standard: austeuropeisk standardtid,
+    Daylight: austeuropeisk sommartid
+  },
+  Asia/Dhaka: {
+    Generic: bangladeshisk tid,
+    Standard: bangladeshisk normaltid,
+    Daylight: bangladeshisk sommartid
+  },
+  Asia/Dili: {
+    Generic: austtimoresisk tid,
+    Standard: austtimoresisk tid,
+    Daylight: austtimoresisk tid
+  },
+  Asia/Dubai: {
+    Generic: Gulf Standard Time,
+    Standard: Gulf Standard Time,
+    Daylight: Gulf Standard Time
+  },
+  Asia/Dushanbe: {
+    Generic: Tajikistan Time,
+    Standard: Tajikistan Time,
+    Daylight: Tajikistan Time
+  },
+  Asia/Famagusta: {
+    Generic: austeuropeisk tid,
+    Standard: austeuropeisk standardtid,
+    Daylight: austeuropeisk sommartid
+  },
+  Asia/Gaza: {
+    Generic: austeuropeisk tid,
+    Standard: austeuropeisk standardtid,
+    Daylight: austeuropeisk sommartid
+  },
   Asia/Harbin: {
     Generic: kinesisk tid,
     Standard: kinesisk normaltid,
     Daylight: kinesisk sommartid
   },
-  PRC: {
-    Generic: kinesisk tid,
-    Standard: kinesisk normaltid,
-    Daylight: kinesisk sommartid
+  Asia/Hebron: {
+    Generic: austeuropeisk tid,
+    Standard: austeuropeisk standardtid,
+    Daylight: austeuropeisk sommartid
   },
-  Singapore: {
-    Generic: Singapore Standard Time,
-    Standard: Singapore Standard Time,
-    Daylight: Singapore Standard Time
+  Asia/Ho_Chi_Minh: {
+    Generic: Indochina Time,
+    Standard: Indochina Time,
+    Daylight: Indochina Time
   },
-  ROC: {
-    Generic: tidssone for Taipei,
-    Standard: normaltid for Taipei,
-    Daylight: sommartid for Taipei
+  Asia/Hong_Kong: {
+    Generic: hongkongkinesisk tid,
+    Standard: hongkongkinesisk normaltid,
+    Daylight: hongkongkinesisk sommartid
   },
-  Iran: {
-    Generic: iransk tid,
-    Standard: iransk normaltid,
-    Daylight: iransk sommartid
+  Asia/Hovd: {
+    Generic: tidssone for Khovd,
+    Standard: normaltid for Khovd,
+    Daylight: sommartid for Khovd
   },
-  Asia/Thimbu: {
-    Generic: Bhutan Time,
-    Standard: Bhutan Time,
-    Daylight: Bhutan Time
+  Asia/Irkutsk: {
+    Generic: Irkutsk Time,
+    Standard: Irkutsk Standard Time,
+    Daylight: Irkutsk Daylight Time
   },
-  Japan: {
-    Generic: japansk tid,
-    Standard: japansk normaltid,
-    Daylight: japansk sommartid
+  Asia/Istanbul: {
+    Generic: Turkey Time,
+    Standard: Turkey Standard Time,
+    Daylight: Turkey Daylight Time
   },
-  Asia/Ulan_Bator: {
-    Generic: tidssone for Ulan Bator,
-    Standard: normaltid for Ulan Bator,
-    Daylight: sommartid for Ulan Bator
+  Asia/Jakarta: {
+    Generic: Western Indonesia Time,
+    Standard: Western Indonesia Time,
+    Daylight: Western Indonesia Time
+  },
+  Asia/Jayapura: {
+    Generic: austindonesisk tid,
+    Standard: austindonesisk tid,
+    Daylight: austindonesisk tid
+  },
+  Asia/Jerusalem: {
+    Generic: israelsk tid,
+    Standard: israelsk normaltid,
+    Daylight: israelsk sommartid
+  },
+  Asia/Kabul: {
+    Generic: Afghanistan Time,
+    Standard: Afghanistan Time,
+    Daylight: Afghanistan Time
+  },
+  Asia/Kamchatka: {
+    Generic: Kamchatka Time,
+    Standard: Kamchatka Standard Time,
+    Daylight: Kamchatka Daylight Time
+  },
+  Asia/Karachi: {
+    Generic: pakistansk tid,
+    Standard: pakistansk normaltid,
+    Daylight: pakistansk sommartid
   },
   Asia/Kashgar: {
     Generic: China Time,
     Standard: China Standard Time,
     Daylight: China Daylight Time
   },
+  Asia/Kathmandu: {
+    Generic: Nepal Time,
+    Standard: Nepal Time,
+    Daylight: Nepal Time
+  },
+  Asia/Katmandu: {
+    Generic: Nepal Time,
+    Standard: Nepal Time,
+    Daylight: Nepal Time
+  },
+  Asia/Khandyga: {
+    Generic: Khandyga Time,
+    Standard: Khandyga Standard Time,
+    Daylight: Khandyga Daylight Time
+  },
+  Asia/Kolkata: {
+    Generic: India Standard Time,
+    Standard: India Standard Time,
+    Daylight: India Standard Time
+  },
+  Asia/Krasnoyarsk: {
+    Generic: Krasnoyarsk Time,
+    Standard: Krasnoyarsk Standard Time,
+    Daylight: Krasnoyarsk Daylight Time
+  },
+  Asia/Kuala_Lumpur: {
+    Generic: Malaysia Time,
+    Standard: Malaysia Time,
+    Daylight: Malaysia Time
+  },
+  Asia/Kuching: {
+    Generic: Malaysia Time,
+    Standard: Malaysia Time,
+    Daylight: Malaysia Time
+  },
+  Asia/Kuwait: {
+    Generic: arabisk tid,
+    Standard: arabisk normaltid,
+    Daylight: arabisk sommartid
+  },
+  Asia/Macao: {
+    Generic: kinesisk tid,
+    Standard: kinesisk normaltid,
+    Daylight: kinesisk sommartid
+  },
+  Asia/Macau: {
+    Generic: kinesisk tid,
+    Standard: kinesisk normaltid,
+    Daylight: kinesisk sommartid
+  },
+  Asia/Magadan: {
+    Generic: Magadan Time,
+    Standard: Magadan Standard Time,
+    Daylight: Magadan Daylight Time
+  },
+  Asia/Makassar: {
+    Generic: Central Indonesia Time,
+    Standard: Central Indonesia Time,
+    Daylight: Central Indonesia Time
+  },
+  Asia/Manila: {
+    Generic: filippinsk tid,
+    Standard: filippinsk normaltid,
+    Daylight: filippinsk sommartid
+  },
+  Asia/Muscat: {
+    Generic: Gulf Standard Time,
+    Standard: Gulf Standard Time,
+    Daylight: Gulf Standard Time
+  },
+  Asia/Nicosia: {
+    Generic: austeuropeisk tid,
+    Standard: austeuropeisk standardtid,
+    Daylight: austeuropeisk sommartid
+  },
+  Asia/Novokuznetsk: {
+    Generic: Novokuznetsk Time,
+    Standard: Novokuznetsk Standard Time,
+    Daylight: Novokuznetsk Daylight Time
+  },
+  Asia/Novosibirsk: {
+    Generic: Novosibirsk Time,
+    Standard: Novosibirsk Standard Time,
+    Daylight: Novosibirsk Daylight Time
+  },
+  Asia/Omsk: {
+    Generic: Omsk Time,
+    Standard: Omsk Standard Time,
+    Daylight: Omsk Daylight Time
+  },
+  Asia/Oral: {
+    Generic: West Kazakhstan Time,
+    Standard: West Kazakhstan Time,
+    Daylight: West Kazakhstan Time
+  },
+  Asia/Phnom_Penh: {
+    Generic: Indochina Time,
+    Standard: Indochina Time,
+    Daylight: Indochina Time
+  },
+  Asia/Pontianak: {
+    Generic: Western Indonesia Time,
+    Standard: Western Indonesia Time,
+    Daylight: Western Indonesia Time
+  },
+  Asia/Pyongyang: {
+    Generic: koreansk tid,
+    Standard: koreansk normaltid,
+    Daylight: koreansk sommartid
+  },
+  Asia/Qatar: {
+    Generic: arabisk tid,
+    Standard: arabisk normaltid,
+    Daylight: arabisk sommartid
+  },
+  Asia/Qostanay: {
+    Generic: austkasakhstansk tid,
+    Standard: austkasakhstansk tid,
+    Daylight: austkasakhstansk tid
+  },
+  Asia/Qyzylorda: {
+    Generic: West Kazakhstan Time,
+    Standard: West Kazakhstan Time,
+    Daylight: West Kazakhstan Time
+  },
+  Asia/Rangoon: {
+    Generic: Myanmar Time,
+    Standard: Myanmar Time,
+    Daylight: Myanmar Time
+  },
+  Asia/Riyadh: {
+    Generic: arabisk tid,
+    Standard: arabisk normaltid,
+    Daylight: arabisk sommartid
+  },
+  Asia/Saigon: {
+    Generic: Indochina Time,
+    Standard: Indochina Time,
+    Daylight: Indochina Time
+  },
+  Asia/Sakhalin: {
+    Generic: Sakhalin Time,
+    Standard: Sakhalin Standard Time,
+    Daylight: Sakhalin Daylight Time
+  },
+  Asia/Samarkand: {
+    Generic: usbekisk tid,
+    Standard: usbekisk normaltid,
+    Daylight: usbekisk sommartid
+  },
+  Asia/Seoul: {
+    Generic: koreansk tid,
+    Standard: koreansk normaltid,
+    Daylight: koreansk sommartid
+  },
+  Asia/Shanghai: {
+    Generic: kinesisk tid,
+    Standard: kinesisk normaltid,
+    Daylight: kinesisk sommartid
+  },
+  Asia/Singapore: {
+    Generic: Singapore Standard Time,
+    Standard: Singapore Standard Time,
+    Daylight: Singapore Standard Time
+  },
+  Asia/Srednekolymsk: {
+    Generic: Srednekolymsk Time,
+    Standard: Srednekolymsk Standard Time,
+    Daylight: Srednekolymsk Daylight Time
+  },
+  Asia/Taipei: {
+    Generic: tidssone for Taipei,
+    Standard: normaltid for Taipei,
+    Daylight: sommartid for Taipei
+  },
+  Asia/Tashkent: {
+    Generic: usbekisk tid,
+    Standard: usbekisk normaltid,
+    Daylight: usbekisk sommartid
+  },
+  Asia/Tbilisi: {
+    Generic: georgisk tid,
+    Standard: georgisk normaltid,
+    Daylight: georgisk sommartid
+  },
+  Asia/Tehran: {
+    Generic: iransk tid,
+    Standard: iransk normaltid,
+    Daylight: iransk sommartid
+  },
+  Asia/Tel_Aviv: {
+    Generic: israelsk tid,
+    Standard: israelsk normaltid,
+    Daylight: israelsk sommartid
+  },
+  Asia/Thimbu: {
+    Generic: Bhutan Time,
+    Standard: Bhutan Time,
+    Daylight: Bhutan Time
+  },
+  Asia/Thimphu: {
+    Generic: Bhutan Time,
+    Standard: Bhutan Time,
+    Daylight: Bhutan Time
+  },
+  Asia/Tokyo: {
+    Generic: japansk tid,
+    Standard: japansk normaltid,
+    Daylight: japansk sommartid
+  },
+  Asia/Tomsk: {
+    Generic: Tomsk Time,
+    Standard: Tomsk Standard Time,
+    Daylight: Tomsk Daylight Time
+  },
+  Asia/Ujung_Pandang: {
+    Generic: Central Indonesia Time,
+    Standard: Central Indonesia Time,
+    Daylight: Central Indonesia Time
+  },
+  Asia/Ulaanbaatar: {
+    Generic: tidssone for Ulan Bator,
+    Standard: normaltid for Ulan Bator,
+    Daylight: sommartid for Ulan Bator
+  },
+  Asia/Ulan_Bator: {
+    Generic: tidssone for Ulan Bator,
+    Standard: normaltid for Ulan Bator,
+    Daylight: sommartid for Ulan Bator
+  },
+  Asia/Urumqi: {
+    Generic: China Time,
+    Standard: China Standard Time,
+    Daylight: China Daylight Time
+  },
+  Asia/Ust-Nera: {
+    Generic: Ust-Nera Time,
+    Standard: Ust-Nera Standard Time,
+    Daylight: Ust-Nera Daylight Time
+  },
+  Asia/Vientiane: {
+    Generic: Indochina Time,
+    Standard: Indochina Time,
+    Daylight: Indochina Time
+  },
+  Asia/Vladivostok: {
+    Generic: Vladivostok Time,
+    Standard: Vladivostok Standard Time,
+    Daylight: Vladivostok Daylight Time
+  },
+  Asia/Yakutsk: {
+    Generic: Yakutsk Time,
+    Standard: Yakutsk Standard Time,
+    Daylight: Yakutsk Daylight Time
+  },
   Asia/Yangon: {
     Generic: Myanmar Time,
     Standard: Myanmar Time,
     Daylight: Myanmar Time
   },
-  WET: {
+  Asia/Yekaterinburg: {
+    Generic: Yekaterinburg Time,
+    Standard: Yekaterinburg Standard Time,
+    Daylight: Yekaterinburg Daylight Time
+  },
+  Asia/Yerevan: {
+    Generic: armensk tid,
+    Standard: armensk normaltid,
+    Daylight: armensk sommartid
+  },
+  Atlantic/Azores: {
+    Generic: asorisk tid,
+    Standard: asorisk normaltid,
+    Daylight: asorisk sommartid
+  },
+  Atlantic/Bermuda: {
+    Generic: tidssone for den nordamerikanske atlanterhavskysten,
+    Standard: normaltid for den nordamerikanske atlanterhavskysten,
+    Daylight: sommartid for den nordamerikanske atlanterhavskysten
+  },
+  Atlantic/Canary: {
+    Generic: vesteuropeisk tid,
+    Standard: vesteuropeisk standardtid,
+    Daylight: vesteuropeisk sommartid
+  },
+  Atlantic/Cape_Verde: {
+    Generic: kappverdisk tid,
+    Standard: kappverdisk normaltid,
+    Daylight: kappverdisk sommartid
+  },
+  Atlantic/Faeroe: {
     Generic: vesteuropeisk tid,
     Standard: vesteuropeisk standardtid,
     Daylight: vesteuropeisk sommartid
@@ -2679,27 +1694,77 @@
     Standard: vesteuropeisk standardtid,
     Daylight: vesteuropeisk sommartid
   },
-  Australia/South: {
-    Generic: sentralaustralsk tid,
-    Standard: sentralaustralsk standardtid,
-    Daylight: sentralaustralsk sommartid
+  Atlantic/Jan_Mayen: {
+    Generic: sentraleuropeisk tid,
+    Standard: sentraleuropeisk standardtid,
+    Daylight: sentraleuropeisk sommartid
   },
-  Australia/Queensland: {
+  Atlantic/Madeira: {
+    Generic: vesteuropeisk tid,
+    Standard: vesteuropeisk standardtid,
+    Daylight: vesteuropeisk sommartid
+  },
+  Atlantic/Reykjavik: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
+  },
+  Atlantic/South_Georgia: {
+    Generic: South Georgia Time,
+    Standard: South Georgia Time,
+    Daylight: South Georgia Time
+  },
+  Atlantic/St_Helena: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
+  },
+  Atlantic/Stanley: {
+    Generic: tidssone for Falklandsøyane,
+    Standard: normaltid for Falklandsøyane,
+    Daylight: sommartid for Falklandsøyane
+  },
+  Australia/ACT: {
     Generic: austaustralsk tid,
     Standard: austaustralsk standardtid,
     Daylight: austaustralsk sommartid
   },
-  Australia/Yancowinna: {
+  Australia/Adelaide: {
     Generic: sentralaustralsk tid,
     Standard: sentralaustralsk standardtid,
     Daylight: sentralaustralsk sommartid
   },
-  Australia/North: {
+  Australia/Brisbane: {
+    Generic: austaustralsk tid,
+    Standard: austaustralsk standardtid,
+    Daylight: austaustralsk sommartid
+  },
+  Australia/Broken_Hill: {
     Generic: sentralaustralsk tid,
     Standard: sentralaustralsk standardtid,
     Daylight: sentralaustralsk sommartid
   },
-  Australia/Tasmania: {
+  Australia/Canberra: {
+    Generic: austaustralsk tid,
+    Standard: austaustralsk standardtid,
+    Daylight: austaustralsk sommartid
+  },
+  Australia/Currie: {
+    Generic: austaustralsk tid,
+    Standard: austaustralsk standardtid,
+    Daylight: austaustralsk sommartid
+  },
+  Australia/Darwin: {
+    Generic: sentralaustralsk tid,
+    Standard: sentralaustralsk standardtid,
+    Daylight: sentralaustralsk sommartid
+  },
+  Australia/Eucla: {
+    Generic: vest-sentralaustralsk tid,
+    Standard: vest-sentralaustralsk standardtid,
+    Daylight: vest-sentralaustralsk sommartid
+  },
+  Australia/Hobart: {
     Generic: austaustralsk tid,
     Standard: austaustralsk standardtid,
     Daylight: austaustralsk sommartid
@@ -2708,6 +1773,56 @@
     Generic: tidssone for Lord Howe-øya,
     Standard: normaltid for Lord Howe-øya,
     Daylight: sommartid for Lord Howe-øya
+  },
+  Australia/Lindeman: {
+    Generic: austaustralsk tid,
+    Standard: austaustralsk standardtid,
+    Daylight: austaustralsk sommartid
+  },
+  Australia/Lord_Howe: {
+    Generic: tidssone for Lord Howe-øya,
+    Standard: normaltid for Lord Howe-øya,
+    Daylight: sommartid for Lord Howe-øya
+  },
+  Australia/Melbourne: {
+    Generic: austaustralsk tid,
+    Standard: austaustralsk standardtid,
+    Daylight: austaustralsk sommartid
+  },
+  Australia/NSW: {
+    Generic: austaustralsk tid,
+    Standard: austaustralsk standardtid,
+    Daylight: austaustralsk sommartid
+  },
+  Australia/North: {
+    Generic: sentralaustralsk tid,
+    Standard: sentralaustralsk standardtid,
+    Daylight: sentralaustralsk sommartid
+  },
+  Australia/Perth: {
+    Generic: vestaustralsk tid,
+    Standard: vestaustralsk standardtid,
+    Daylight: vestaustralsk sommartid
+  },
+  Australia/Queensland: {
+    Generic: austaustralsk tid,
+    Standard: austaustralsk standardtid,
+    Daylight: austaustralsk sommartid
+  },
+  Australia/South: {
+    Generic: sentralaustralsk tid,
+    Standard: sentralaustralsk standardtid,
+    Daylight: sentralaustralsk sommartid
+  },
+  Australia/Sydney: {
+    Generic: austaustralsk tid,
+    Standard: austaustralsk standardtid,
+    Daylight: austaustralsk sommartid
+  },
+  Australia/Tasmania: {
+    Generic: austaustralsk tid,
+    Standard: austaustralsk standardtid,
+    Daylight: austaustralsk sommartid
   },
   Australia/Victoria: {
     Generic: austaustralsk tid,
@@ -2719,45 +1834,265 @@
     Standard: vestaustralsk standardtid,
     Daylight: vestaustralsk sommartid
   },
-  Australia/ACT: {
-    Generic: austaustralsk tid,
-    Standard: austaustralsk standardtid,
-    Daylight: austaustralsk sommartid
+  Australia/Yancowinna: {
+    Generic: sentralaustralsk tid,
+    Standard: sentralaustralsk standardtid,
+    Daylight: sentralaustralsk sommartid
   },
-  Australia/Canberra: {
-    Generic: austaustralsk tid,
-    Standard: austaustralsk standardtid,
-    Daylight: austaustralsk sommartid
+  Brazil/Acre: {
+    Generic: Acre Time,
+    Standard: Acre Standard Time,
+    Daylight: Acre Summer Time
   },
-  Australia/NSW: {
-    Generic: austaustralsk tid,
-    Standard: austaustralsk standardtid,
-    Daylight: austaustralsk sommartid
+  Brazil/DeNoronha: {
+    Generic: tidssone for Fernando de Noronha,
+    Standard: normaltid for Fernando de Noronha,
+    Daylight: sommartid for Fernando de Noronha
   },
-  HST: {
-    Generic: Coordinated Universal Time -10,
-    Standard: Coordinated Universal Time -10,
-    Daylight: Coordinated Universal Time -10
+  Brazil/East: {
+    Generic: tidssone for Brasilia,
+    Standard: normaltid for Brasilia,
+    Daylight: sommartid for Brasilia
+  },
+  Brazil/West: {
+    Generic: tidssone for Amazonas,
+    Standard: normaltid for Amazonas,
+    Daylight: sommartid for Amazonas
+  },
+  CET: {
+    Generic: sentraleuropeisk tid,
+    Standard: sentraleuropeisk standardtid,
+    Daylight: sentraleuropeisk sommartid
+  },
+  CST6CDT: {
+    Generic: tidssone for sentrale Nord-Amerika,
+    Standard: normaltid for sentrale Nord-Amerika,
+    Daylight: sommartid for sentrale Nord-Amerika
+  },
+  Canada/Atlantic: {
+    Generic: tidssone for den nordamerikanske atlanterhavskysten,
+    Standard: normaltid for den nordamerikanske atlanterhavskysten,
+    Daylight: sommartid for den nordamerikanske atlanterhavskysten
+  },
+  Canada/Central: {
+    Generic: tidssone for sentrale Nord-Amerika,
+    Standard: normaltid for sentrale Nord-Amerika,
+    Daylight: sommartid for sentrale Nord-Amerika
+  },
+  Canada/Eastern: {
+    Generic: tidssone for den nordamerikanske austkysten,
+    Standard: normaltid for den nordamerikanske austkysten,
+    Daylight: sommartid for den nordamerikansk austkysten
+  },
+  Canada/Mountain: {
+    Generic: tidssone for Rocky Mountains (USA),
+    Standard: normaltid for Rocky Mountains (USA),
+    Daylight: sommartid for Rocky Mountains (USA)
+  },
+  Canada/Newfoundland: {
+    Generic: tidssone for Newfoundland,
+    Standard: normaltid for Newfoundland,
+    Daylight: sommartid for Newfoundland
+  },
+  Canada/Pacific: {
+    Generic: tidssone for den nordamerikanske stillehavskysten,
+    Standard: normaltid for den nordamerikanske stillehavskysten,
+    Daylight: sommartid for den nordamerikanske stillehavskysten
+  },
+  Canada/Saskatchewan: {
+    Generic: tidssone for sentrale Nord-Amerika,
+    Standard: normaltid for sentrale Nord-Amerika,
+    Daylight: sommartid for sentrale Nord-Amerika
+  },
+  Canada/Yukon: {
+    Generic: Yukon Time,
+    Standard: Yukon Time,
+    Daylight: Yukon Time
+  },
+  Chile/Continental: {
+    Generic: chilensk tid,
+    Standard: chilensk normaltid,
+    Daylight: chilensk sommartid
+  },
+  Chile/EasterIsland: {
+    Generic: tidssone for Påskeøya,
+    Standard: normaltid for Påskeøya,
+    Daylight: sommartid for Påskeøya
+  },
+  Cuba: {
+    Generic: kubansk tid,
+    Standard: kubansk normaltid,
+    Daylight: kubansk sommartid
+  },
+  EET: {
+    Generic: austeuropeisk tid,
+    Standard: austeuropeisk standardtid,
+    Daylight: austeuropeisk sommartid
   },
   EST: {
     Generic: Coordinated Universal Time -5,
     Standard: Coordinated Universal Time -5,
     Daylight: Coordinated Universal Time -5
   },
-  MST: {
-    Generic: Coordinated Universal Time -7,
-    Standard: Coordinated Universal Time -7,
-    Daylight: Coordinated Universal Time -7
+  EST5EDT: {
+    Generic: tidssone for den nordamerikanske austkysten,
+    Standard: normaltid for den nordamerikanske austkysten,
+    Daylight: sommartid for den nordamerikansk austkysten
+  },
+  Egypt: {
+    Generic: austeuropeisk tid,
+    Standard: austeuropeisk standardtid,
+    Daylight: austeuropeisk sommartid
+  },
+  Eire: {
+    Generic: Ireland Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Irish Standard Time
+  },
+  Etc/GMT: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
   },
   Etc/GMT+0: {
     Generic: Greenwich Mean Time,
     Standard: Greenwich Mean Time,
     Daylight: Greenwich Mean Time
   },
+  Etc/GMT+1: {
+    Generic: Coordinated Universal Time -1,
+    Standard: Coordinated Universal Time -1,
+    Daylight: Coordinated Universal Time -1
+  },
+  Etc/GMT+10: {
+    Generic: Coordinated Universal Time -10,
+    Standard: Coordinated Universal Time -10,
+    Daylight: Coordinated Universal Time -10
+  },
+  Etc/GMT+11: {
+    Generic: Coordinated Universal Time -11,
+    Standard: Coordinated Universal Time -11,
+    Daylight: Coordinated Universal Time -11
+  },
+  Etc/GMT+12: {
+    Generic: Coordinated Universal Time -12,
+    Standard: Coordinated Universal Time -12,
+    Daylight: Coordinated Universal Time -12
+  },
+  Etc/GMT+2: {
+    Generic: Coordinated Universal Time -2,
+    Standard: Coordinated Universal Time -2,
+    Daylight: Coordinated Universal Time -2
+  },
+  Etc/GMT+3: {
+    Generic: Coordinated Universal Time -3,
+    Standard: Coordinated Universal Time -3,
+    Daylight: Coordinated Universal Time -3
+  },
+  Etc/GMT+4: {
+    Generic: Coordinated Universal Time -4,
+    Standard: Coordinated Universal Time -4,
+    Daylight: Coordinated Universal Time -4
+  },
+  Etc/GMT+5: {
+    Generic: Coordinated Universal Time -5,
+    Standard: Coordinated Universal Time -5,
+    Daylight: Coordinated Universal Time -5
+  },
+  Etc/GMT+6: {
+    Generic: Coordinated Universal Time -6,
+    Standard: Coordinated Universal Time -6,
+    Daylight: Coordinated Universal Time -6
+  },
+  Etc/GMT+7: {
+    Generic: Coordinated Universal Time -7,
+    Standard: Coordinated Universal Time -7,
+    Daylight: Coordinated Universal Time -7
+  },
+  Etc/GMT+8: {
+    Generic: Coordinated Universal Time -8,
+    Standard: Coordinated Universal Time -8,
+    Daylight: Coordinated Universal Time -8
+  },
+  Etc/GMT+9: {
+    Generic: Coordinated Universal Time -9,
+    Standard: Coordinated Universal Time -9,
+    Daylight: Coordinated Universal Time -9
+  },
   Etc/GMT-0: {
     Generic: Greenwich Mean Time,
     Standard: Greenwich Mean Time,
     Daylight: Greenwich Mean Time
+  },
+  Etc/GMT-1: {
+    Generic: Coordinated Universal Time +1,
+    Standard: Coordinated Universal Time +1,
+    Daylight: Coordinated Universal Time +1
+  },
+  Etc/GMT-10: {
+    Generic: Coordinated Universal Time +10,
+    Standard: Coordinated Universal Time +10,
+    Daylight: Coordinated Universal Time +10
+  },
+  Etc/GMT-11: {
+    Generic: Coordinated Universal Time +11,
+    Standard: Coordinated Universal Time +11,
+    Daylight: Coordinated Universal Time +11
+  },
+  Etc/GMT-12: {
+    Generic: Coordinated Universal Time +12,
+    Standard: Coordinated Universal Time +12,
+    Daylight: Coordinated Universal Time +12
+  },
+  Etc/GMT-13: {
+    Generic: Coordinated Universal Time +13,
+    Standard: Coordinated Universal Time +13,
+    Daylight: Coordinated Universal Time +13
+  },
+  Etc/GMT-14: {
+    Generic: Coordinated Universal Time +14,
+    Standard: Coordinated Universal Time +14,
+    Daylight: Coordinated Universal Time +14
+  },
+  Etc/GMT-2: {
+    Generic: Coordinated Universal Time +2,
+    Standard: Coordinated Universal Time +2,
+    Daylight: Coordinated Universal Time +2
+  },
+  Etc/GMT-3: {
+    Generic: Coordinated Universal Time +3,
+    Standard: Coordinated Universal Time +3,
+    Daylight: Coordinated Universal Time +3
+  },
+  Etc/GMT-4: {
+    Generic: Coordinated Universal Time +4,
+    Standard: Coordinated Universal Time +4,
+    Daylight: Coordinated Universal Time +4
+  },
+  Etc/GMT-5: {
+    Generic: Coordinated Universal Time +5,
+    Standard: Coordinated Universal Time +5,
+    Daylight: Coordinated Universal Time +5
+  },
+  Etc/GMT-6: {
+    Generic: Coordinated Universal Time +6,
+    Standard: Coordinated Universal Time +6,
+    Daylight: Coordinated Universal Time +6
+  },
+  Etc/GMT-7: {
+    Generic: Coordinated Universal Time +7,
+    Standard: Coordinated Universal Time +7,
+    Daylight: Coordinated Universal Time +7
+  },
+  Etc/GMT-8: {
+    Generic: Coordinated Universal Time +8,
+    Standard: Coordinated Universal Time +8,
+    Daylight: Coordinated Universal Time +8
+  },
+  Etc/GMT-9: {
+    Generic: Coordinated Universal Time +9,
+    Standard: Coordinated Universal Time +9,
+    Daylight: Coordinated Universal Time +9
   },
   Etc/GMT0: {
     Generic: Greenwich Mean Time,
@@ -2768,6 +2103,356 @@
     Generic: Greenwich Mean Time,
     Standard: Greenwich Mean Time,
     Daylight: Greenwich Mean Time
+  },
+  Etc/UCT: {
+    Generic: Coordinated Universal Time,
+    Standard: Coordinated Universal Time,
+    Daylight: Coordinated Universal Time
+  },
+  Etc/UTC: {
+    Generic: Coordinated Universal Time,
+    Standard: Coordinated Universal Time,
+    Daylight: Coordinated Universal Time
+  },
+  Etc/Universal: {
+    Generic: Coordinated Universal Time,
+    Standard: Coordinated Universal Time,
+    Daylight: Coordinated Universal Time
+  },
+  Etc/Zulu: {
+    Generic: Coordinated Universal Time,
+    Standard: Coordinated Universal Time,
+    Daylight: Coordinated Universal Time
+  },
+  Europe/Amsterdam: {
+    Generic: sentraleuropeisk tid,
+    Standard: sentraleuropeisk standardtid,
+    Daylight: sentraleuropeisk sommartid
+  },
+  Europe/Andorra: {
+    Generic: sentraleuropeisk tid,
+    Standard: sentraleuropeisk standardtid,
+    Daylight: sentraleuropeisk sommartid
+  },
+  Europe/Astrakhan: {
+    Generic: Astrakhan Time,
+    Standard: Astrakhan Standard Time,
+    Daylight: Astrakhan Daylight Time
+  },
+  Europe/Athens: {
+    Generic: austeuropeisk tid,
+    Standard: austeuropeisk standardtid,
+    Daylight: austeuropeisk sommartid
+  },
+  Europe/Belfast: {
+    Generic: United Kingdom Time,
+    Standard: Greenwich Mean Time,
+    Daylight: British Summer Time
+  },
+  Europe/Belgrade: {
+    Generic: sentraleuropeisk tid,
+    Standard: sentraleuropeisk standardtid,
+    Daylight: sentraleuropeisk sommartid
+  },
+  Europe/Berlin: {
+    Generic: sentraleuropeisk tid,
+    Standard: sentraleuropeisk standardtid,
+    Daylight: sentraleuropeisk sommartid
+  },
+  Europe/Bratislava: {
+    Generic: sentraleuropeisk tid,
+    Standard: sentraleuropeisk standardtid,
+    Daylight: sentraleuropeisk sommartid
+  },
+  Europe/Brussels: {
+    Generic: sentraleuropeisk tid,
+    Standard: sentraleuropeisk standardtid,
+    Daylight: sentraleuropeisk sommartid
+  },
+  Europe/Bucharest: {
+    Generic: austeuropeisk tid,
+    Standard: austeuropeisk standardtid,
+    Daylight: austeuropeisk sommartid
+  },
+  Europe/Budapest: {
+    Generic: sentraleuropeisk tid,
+    Standard: sentraleuropeisk standardtid,
+    Daylight: sentraleuropeisk sommartid
+  },
+  Europe/Busingen: {
+    Generic: sentraleuropeisk tid,
+    Standard: sentraleuropeisk standardtid,
+    Daylight: sentraleuropeisk sommartid
+  },
+  Europe/Chisinau: {
+    Generic: austeuropeisk tid,
+    Standard: austeuropeisk standardtid,
+    Daylight: austeuropeisk sommartid
+  },
+  Europe/Copenhagen: {
+    Generic: sentraleuropeisk tid,
+    Standard: sentraleuropeisk standardtid,
+    Daylight: sentraleuropeisk sommartid
+  },
+  Europe/Dublin: {
+    Generic: Ireland Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Irish Standard Time
+  },
+  Europe/Gibraltar: {
+    Generic: sentraleuropeisk tid,
+    Standard: sentraleuropeisk standardtid,
+    Daylight: sentraleuropeisk sommartid
+  },
+  Europe/Guernsey: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
+  },
+  Europe/Helsinki: {
+    Generic: austeuropeisk tid,
+    Standard: austeuropeisk standardtid,
+    Daylight: austeuropeisk sommartid
+  },
+  Europe/Isle_of_Man: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
+  },
+  Europe/Istanbul: {
+    Generic: Turkey Time,
+    Standard: Turkey Standard Time,
+    Daylight: Turkey Daylight Time
+  },
+  Europe/Jersey: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
+  },
+  Europe/Kaliningrad: {
+    Generic: Kaliningrad Time,
+    Standard: Kaliningrad Standard Time,
+    Daylight: Kaliningrad Daylight Time
+  },
+  Europe/Kiev: {
+    Generic: austeuropeisk tid,
+    Standard: austeuropeisk standardtid,
+    Daylight: austeuropeisk sommartid
+  },
+  Europe/Kirov: {
+    Generic: Kirov Time,
+    Standard: Kirov Standard Time,
+    Daylight: Kirov Daylight Time
+  },
+  Europe/Kyiv: {
+    Generic: austeuropeisk tid,
+    Standard: austeuropeisk standardtid,
+    Daylight: austeuropeisk sommartid
+  },
+  Europe/Lisbon: {
+    Generic: vesteuropeisk tid,
+    Standard: vesteuropeisk standardtid,
+    Daylight: vesteuropeisk sommartid
+  },
+  Europe/Ljubljana: {
+    Generic: sentraleuropeisk tid,
+    Standard: sentraleuropeisk standardtid,
+    Daylight: sentraleuropeisk sommartid
+  },
+  Europe/London: {
+    Generic: United Kingdom Time,
+    Standard: Greenwich Mean Time,
+    Daylight: British Summer Time
+  },
+  Europe/Luxembourg: {
+    Generic: sentraleuropeisk tid,
+    Standard: sentraleuropeisk standardtid,
+    Daylight: sentraleuropeisk sommartid
+  },
+  Europe/Madrid: {
+    Generic: sentraleuropeisk tid,
+    Standard: sentraleuropeisk standardtid,
+    Daylight: sentraleuropeisk sommartid
+  },
+  Europe/Malta: {
+    Generic: sentraleuropeisk tid,
+    Standard: sentraleuropeisk standardtid,
+    Daylight: sentraleuropeisk sommartid
+  },
+  Europe/Mariehamn: {
+    Generic: austeuropeisk tid,
+    Standard: austeuropeisk standardtid,
+    Daylight: austeuropeisk sommartid
+  },
+  Europe/Minsk: {
+    Generic: tidssone for Moskva,
+    Standard: normaltid for Moskva,
+    Daylight: sommartid for Moskva
+  },
+  Europe/Monaco: {
+    Generic: sentraleuropeisk tid,
+    Standard: sentraleuropeisk standardtid,
+    Daylight: sentraleuropeisk sommartid
+  },
+  Europe/Moscow: {
+    Generic: Moscow Time,
+    Standard: Moscow Standard Time,
+    Daylight: Moscow Daylight Time
+  },
+  Europe/Nicosia: {
+    Generic: austeuropeisk tid,
+    Standard: austeuropeisk standardtid,
+    Daylight: austeuropeisk sommartid
+  },
+  Europe/Oslo: {
+    Generic: sentraleuropeisk tid,
+    Standard: sentraleuropeisk standardtid,
+    Daylight: sentraleuropeisk sommartid
+  },
+  Europe/Paris: {
+    Generic: sentraleuropeisk tid,
+    Standard: sentraleuropeisk standardtid,
+    Daylight: sentraleuropeisk sommartid
+  },
+  Europe/Podgorica: {
+    Generic: sentraleuropeisk tid,
+    Standard: sentraleuropeisk standardtid,
+    Daylight: sentraleuropeisk sommartid
+  },
+  Europe/Prague: {
+    Generic: sentraleuropeisk tid,
+    Standard: sentraleuropeisk standardtid,
+    Daylight: sentraleuropeisk sommartid
+  },
+  Europe/Riga: {
+    Generic: austeuropeisk tid,
+    Standard: austeuropeisk standardtid,
+    Daylight: austeuropeisk sommartid
+  },
+  Europe/Rome: {
+    Generic: sentraleuropeisk tid,
+    Standard: sentraleuropeisk standardtid,
+    Daylight: sentraleuropeisk sommartid
+  },
+  Europe/Samara: {
+    Generic: Samara Time,
+    Standard: Samara Standard Time,
+    Daylight: Samara Daylight Time
+  },
+  Europe/San_Marino: {
+    Generic: sentraleuropeisk tid,
+    Standard: sentraleuropeisk standardtid,
+    Daylight: sentraleuropeisk sommartid
+  },
+  Europe/Sarajevo: {
+    Generic: sentraleuropeisk tid,
+    Standard: sentraleuropeisk standardtid,
+    Daylight: sentraleuropeisk sommartid
+  },
+  Europe/Saratov: {
+    Generic: Saratov Time,
+    Standard: Saratov Standard Time,
+    Daylight: Saratov Daylight Time
+  },
+  Europe/Simferopol: {
+    Generic: tidssone for Moskva,
+    Standard: normaltid for Moskva,
+    Daylight: sommartid for Moskva
+  },
+  Europe/Skopje: {
+    Generic: sentraleuropeisk tid,
+    Standard: sentraleuropeisk standardtid,
+    Daylight: sentraleuropeisk sommartid
+  },
+  Europe/Sofia: {
+    Generic: austeuropeisk tid,
+    Standard: austeuropeisk standardtid,
+    Daylight: austeuropeisk sommartid
+  },
+  Europe/Stockholm: {
+    Generic: sentraleuropeisk tid,
+    Standard: sentraleuropeisk standardtid,
+    Daylight: sentraleuropeisk sommartid
+  },
+  Europe/Tallinn: {
+    Generic: austeuropeisk tid,
+    Standard: austeuropeisk standardtid,
+    Daylight: austeuropeisk sommartid
+  },
+  Europe/Tirane: {
+    Generic: sentraleuropeisk tid,
+    Standard: sentraleuropeisk standardtid,
+    Daylight: sentraleuropeisk sommartid
+  },
+  Europe/Tiraspol: {
+    Generic: austeuropeisk tid,
+    Standard: austeuropeisk standardtid,
+    Daylight: austeuropeisk sommartid
+  },
+  Europe/Ulyanovsk: {
+    Generic: Ulyanovsk Time,
+    Standard: Ulyanovsk Standard Time,
+    Daylight: Ulyanovsk Daylight Time
+  },
+  Europe/Uzhgorod: {
+    Generic: austeuropeisk tid,
+    Standard: austeuropeisk standardtid,
+    Daylight: austeuropeisk sommartid
+  },
+  Europe/Vaduz: {
+    Generic: sentraleuropeisk tid,
+    Standard: sentraleuropeisk standardtid,
+    Daylight: sentraleuropeisk sommartid
+  },
+  Europe/Vatican: {
+    Generic: sentraleuropeisk tid,
+    Standard: sentraleuropeisk standardtid,
+    Daylight: sentraleuropeisk sommartid
+  },
+  Europe/Vienna: {
+    Generic: sentraleuropeisk tid,
+    Standard: sentraleuropeisk standardtid,
+    Daylight: sentraleuropeisk sommartid
+  },
+  Europe/Vilnius: {
+    Generic: austeuropeisk tid,
+    Standard: austeuropeisk standardtid,
+    Daylight: austeuropeisk sommartid
+  },
+  Europe/Volgograd: {
+    Generic: Volgograd Time,
+    Standard: Volgograd Standard Time,
+    Daylight: Volgograd Daylight Time
+  },
+  Europe/Warsaw: {
+    Generic: sentraleuropeisk tid,
+    Standard: sentraleuropeisk standardtid,
+    Daylight: sentraleuropeisk sommartid
+  },
+  Europe/Zagreb: {
+    Generic: sentraleuropeisk tid,
+    Standard: sentraleuropeisk standardtid,
+    Daylight: sentraleuropeisk sommartid
+  },
+  Europe/Zaporozhye: {
+    Generic: austeuropeisk tid,
+    Standard: austeuropeisk standardtid,
+    Daylight: austeuropeisk sommartid
+  },
+  Europe/Zurich: {
+    Generic: sentraleuropeisk tid,
+    Standard: sentraleuropeisk standardtid,
+    Daylight: sentraleuropeisk sommartid
+  },
+  GB: {
+    Generic: United Kingdom Time,
+    Standard: Greenwich Mean Time,
+    Daylight: British Summer Time
+  },
+  GB-Eire: {
+    Generic: United Kingdom Time,
+    Standard: Greenwich Mean Time,
+    Daylight: British Summer Time
   },
   GMT: {
     Generic: Greenwich Mean Time,
@@ -2794,120 +2479,135 @@
     Standard: Greenwich Mean Time,
     Daylight: Greenwich Mean Time
   },
-  Etc/UCT: {
-    Generic: Coordinated Universal Time,
-    Standard: Coordinated Universal Time,
-    Daylight: Coordinated Universal Time
+  HST: {
+    Generic: Coordinated Universal Time -10,
+    Standard: Coordinated Universal Time -10,
+    Daylight: Coordinated Universal Time -10
   },
-  Etc/Universal: {
-    Generic: Coordinated Universal Time,
-    Standard: Coordinated Universal Time,
-    Daylight: Coordinated Universal Time
+  Hongkong: {
+    Generic: hongkongkinesisk tid,
+    Standard: hongkongkinesisk normaltid,
+    Daylight: hongkongkinesisk sommartid
   },
-  Etc/Zulu: {
-    Generic: Coordinated Universal Time,
-    Standard: Coordinated Universal Time,
-    Daylight: Coordinated Universal Time
+  Iceland: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
   },
-  UCT: {
-    Generic: Coordinated Universal Time,
-    Standard: Coordinated Universal Time,
-    Daylight: Coordinated Universal Time
+  Indian/Antananarivo: {
+    Generic: austafrikansk tid,
+    Standard: austafrikansk tid,
+    Daylight: austafrikansk tid
   },
-  UTC: {
-    Generic: Coordinated Universal Time,
-    Standard: Coordinated Universal Time,
-    Daylight: Coordinated Universal Time
+  Indian/Chagos: {
+    Generic: Indian Ocean Time,
+    Standard: Indian Ocean Time,
+    Daylight: Indian Ocean Time
   },
-  Universal: {
-    Generic: Coordinated Universal Time,
-    Standard: Coordinated Universal Time,
-    Daylight: Coordinated Universal Time
+  Indian/Christmas: {
+    Generic: Christmas Island Time,
+    Standard: Christmas Island Time,
+    Daylight: Christmas Island Time
   },
-  Zulu: {
-    Generic: Coordinated Universal Time,
-    Standard: Coordinated Universal Time,
-    Daylight: Coordinated Universal Time
+  Indian/Cocos: {
+    Generic: tidssone for Kokosøyane,
+    Standard: tidssone for Kokosøyane,
+    Daylight: tidssone for Kokosøyane
   },
-  Atlantic/Jan_Mayen: {
-    Generic: sentraleuropeisk tid,
-    Standard: sentraleuropeisk standardtid,
-    Daylight: sentraleuropeisk sommartid
+  Indian/Comoro: {
+    Generic: austafrikansk tid,
+    Standard: austafrikansk tid,
+    Daylight: austafrikansk tid
+  },
+  Indian/Kerguelen: {
+    Generic: tidssone for Dei franske sørterritoria,
+    Standard: tidssone for Dei franske sørterritoria,
+    Daylight: tidssone for Dei franske sørterritoria
+  },
+  Indian/Mahe: {
+    Generic: Seychelles Time,
+    Standard: Seychelles Time,
+    Daylight: Seychelles Time
+  },
+  Indian/Maldives: {
+    Generic: Maldives Time,
+    Standard: Maldives Time,
+    Daylight: Maldives Time
+  },
+  Indian/Mauritius: {
+    Generic: mauritisk tid,
+    Standard: mauritisk normaltid,
+    Daylight: mauritisk sommartid
+  },
+  Indian/Mayotte: {
+    Generic: austafrikansk tid,
+    Standard: austafrikansk tid,
+    Daylight: austafrikansk tid
+  },
+  Indian/Reunion: {
+    Generic: Réunion Time,
+    Standard: Réunion Time,
+    Daylight: Réunion Time
+  },
+  Iran: {
+    Generic: iransk tid,
+    Standard: iransk normaltid,
+    Daylight: iransk sommartid
+  },
+  Israel: {
+    Generic: israelsk tid,
+    Standard: israelsk normaltid,
+    Daylight: israelsk sommartid
+  },
+  Jamaica: {
+    Generic: tidssone for den nordamerikanske austkysten,
+    Standard: normaltid for den nordamerikanske austkysten,
+    Daylight: sommartid for den nordamerikansk austkysten
+  },
+  Japan: {
+    Generic: japansk tid,
+    Standard: japansk normaltid,
+    Daylight: japansk sommartid
+  },
+  Kwajalein: {
+    Generic: Marshall Islands Time,
+    Standard: Marshall Islands Time,
+    Daylight: Marshall Islands Time
+  },
+  Libya: {
+    Generic: austeuropeisk tid,
+    Standard: austeuropeisk standardtid,
+    Daylight: austeuropeisk sommartid
   },
   MET: {
     Generic: sentraleuropeisk tid,
     Standard: sentraleuropeisk standardtid,
     Daylight: sentraleuropeisk sommartid
   },
-  EET: {
-    Generic: austeuropeisk tid,
-    Standard: austeuropeisk standardtid,
-    Daylight: austeuropeisk sommartid
+  MST: {
+    Generic: Coordinated Universal Time -7,
+    Standard: Coordinated Universal Time -7,
+    Daylight: Coordinated Universal Time -7
   },
-  Europe/Tiraspol: {
-    Generic: austeuropeisk tid,
-    Standard: austeuropeisk standardtid,
-    Daylight: austeuropeisk sommartid
+  MST7MDT: {
+    Generic: tidssone for Rocky Mountains (USA),
+    Standard: normaltid for Rocky Mountains (USA),
+    Daylight: sommartid for Rocky Mountains (USA)
   },
-  Eire: {
-    Generic: Ireland Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Irish Standard Time
+  Mexico/BajaNorte: {
+    Generic: tidssone for den nordamerikanske stillehavskysten,
+    Standard: normaltid for den nordamerikanske stillehavskysten,
+    Daylight: sommartid for den nordamerikanske stillehavskysten
   },
-  Asia/Istanbul: {
-    Generic: Turkey Time,
-    Standard: Turkey Standard Time,
-    Daylight: Turkey Daylight Time
+  Mexico/BajaSur: {
+    Generic: tidssone for den meksikanske stillehavskysten,
+    Standard: normaltid for den meksikanske stillehavskysten,
+    Daylight: sommartid for den meksikanske stillehavskysten
   },
-  Turkey: {
-    Generic: Turkey Time,
-    Standard: Turkey Standard Time,
-    Daylight: Turkey Daylight Time
-  },
-  Europe/Kyiv: {
-    Generic: austeuropeisk tid,
-    Standard: austeuropeisk standardtid,
-    Daylight: austeuropeisk sommartid
-  },
-  Portugal: {
-    Generic: vesteuropeisk tid,
-    Standard: vesteuropeisk standardtid,
-    Daylight: vesteuropeisk sommartid
-  },
-  Europe/Belfast: {
-    Generic: United Kingdom Time,
-    Standard: Greenwich Mean Time,
-    Daylight: British Summer Time
-  },
-  GB: {
-    Generic: United Kingdom Time,
-    Standard: Greenwich Mean Time,
-    Daylight: British Summer Time
-  },
-  GB-Eire: {
-    Generic: United Kingdom Time,
-    Standard: Greenwich Mean Time,
-    Daylight: British Summer Time
-  },
-  W-SU: {
-    Generic: Moscow Time,
-    Standard: Moscow Standard Time,
-    Daylight: Moscow Daylight Time
-  },
-  CET: {
-    Generic: sentraleuropeisk tid,
-    Standard: sentraleuropeisk standardtid,
-    Daylight: sentraleuropeisk sommartid
-  },
-  Poland: {
-    Generic: sentraleuropeisk tid,
-    Standard: sentraleuropeisk standardtid,
-    Daylight: sentraleuropeisk sommartid
-  },
-  Antarctica/South_Pole: {
-    Generic: nyzealandsk tid,
-    Standard: nyzealandsk normaltid,
-    Daylight: nyzealandsk sumartid
+  Mexico/General: {
+    Generic: tidssone for sentrale Nord-Amerika,
+    Standard: normaltid for sentrale Nord-Amerika,
+    Daylight: sommartid for sentrale Nord-Amerika
   },
   NZ: {
     Generic: nyzealandsk tid,
@@ -2919,17 +2619,102 @@
     Standard: normaltid for Chatham,
     Daylight: sommartid for Chatham
   },
-  Chile/EasterIsland: {
+  Navajo: {
+    Generic: tidssone for Rocky Mountains (USA),
+    Standard: normaltid for Rocky Mountains (USA),
+    Daylight: sommartid for Rocky Mountains (USA)
+  },
+  PRC: {
+    Generic: kinesisk tid,
+    Standard: kinesisk normaltid,
+    Daylight: kinesisk sommartid
+  },
+  PST8PDT: {
+    Generic: tidssone for den nordamerikanske stillehavskysten,
+    Standard: normaltid for den nordamerikanske stillehavskysten,
+    Daylight: sommartid for den nordamerikanske stillehavskysten
+  },
+  Pacific/Apia: {
+    Generic: tidssone for Apia,
+    Standard: normaltid for Apia,
+    Daylight: sommartid for Apia
+  },
+  Pacific/Auckland: {
+    Generic: nyzealandsk tid,
+    Standard: nyzealandsk normaltid,
+    Daylight: nyzealandsk sumartid
+  },
+  Pacific/Bougainville: {
+    Generic: Papua New Guinea Time,
+    Standard: Papua New Guinea Time,
+    Daylight: Papua New Guinea Time
+  },
+  Pacific/Chatham: {
+    Generic: tidssone for Chatham,
+    Standard: normaltid for Chatham,
+    Daylight: sommartid for Chatham
+  },
+  Pacific/Chuuk: {
+    Generic: tidssone for Chuukøyane,
+    Standard: tidssone for Chuukøyane,
+    Daylight: tidssone for Chuukøyane
+  },
+  Pacific/Easter: {
     Generic: tidssone for Påskeøya,
     Standard: normaltid for Påskeøya,
     Daylight: sommartid for Påskeøya
   },
-  Pacific/Pohnpei: {
-    Generic: Ponape Time,
-    Standard: Ponape Time,
-    Daylight: Ponape Time
+  Pacific/Efate: {
+    Generic: vanuatisk tid,
+    Standard: vanuatisk normaltid,
+    Daylight: vanuatisk sommartid
   },
-  US/Hawaii: {
+  Pacific/Enderbury: {
+    Generic: tidssone for Phoenixøyane,
+    Standard: tidssone for Phoenixøyane,
+    Daylight: tidssone for Phoenixøyane
+  },
+  Pacific/Fakaofo: {
+    Generic: Tokelau Time,
+    Standard: Tokelau Time,
+    Daylight: Tokelau Time
+  },
+  Pacific/Fiji: {
+    Generic: fijiansk tid,
+    Standard: fijiansk normaltid,
+    Daylight: fijiansk sommartid
+  },
+  Pacific/Funafuti: {
+    Generic: Tuvalu Time,
+    Standard: Tuvalu Time,
+    Daylight: Tuvalu Time
+  },
+  Pacific/Galapagos: {
+    Generic: tidssone for Galápagosøyane,
+    Standard: tidssone for Galápagosøyane,
+    Daylight: tidssone for Galápagosøyane
+  },
+  Pacific/Gambier: {
+    Generic: Gambier Time,
+    Standard: Gambier Time,
+    Daylight: Gambier Time
+  },
+  Pacific/Guadalcanal: {
+    Generic: Solomon Islands Time,
+    Standard: Solomon Islands Time,
+    Daylight: Solomon Islands Time
+  },
+  Pacific/Guam: {
+    Generic: Chamorro Standard Time,
+    Standard: Chamorro Standard Time,
+    Daylight: Chamorro Standard Time
+  },
+  Pacific/Honolulu: {
+    Generic: tidssone for Hawaii og Aleutene,
+    Standard: normaltid for Hawaii og Aleutene,
+    Daylight: sommartid for Hawaii og Aleutene
+  },
+  Pacific/Johnston: {
     Generic: tidssone for Hawaii og Aleutene,
     Standard: normaltid for Hawaii og Aleutene,
     Daylight: sommartid for Hawaii og Aleutene
@@ -2939,39 +2724,254 @@
     Standard: tidssone for Phoenixøyane,
     Daylight: tidssone for Phoenixøyane
   },
-  Kwajalein: {
+  Pacific/Kiritimati: {
+    Generic: tidssone for Lineøyane,
+    Standard: tidssone for Lineøyane,
+    Daylight: tidssone for Lineøyane
+  },
+  Pacific/Kosrae: {
+    Generic: Kosrae Time,
+    Standard: Kosrae Time,
+    Daylight: Kosrae Time
+  },
+  Pacific/Kwajalein: {
     Generic: Marshall Islands Time,
     Standard: Marshall Islands Time,
     Daylight: Marshall Islands Time
+  },
+  Pacific/Majuro: {
+    Generic: Marshall Islands Time,
+    Standard: Marshall Islands Time,
+    Daylight: Marshall Islands Time
+  },
+  Pacific/Marquesas: {
+    Generic: tidssone for Marquesasøyane,
+    Standard: tidssone for Marquesasøyane,
+    Daylight: tidssone for Marquesasøyane
+  },
+  Pacific/Midway: {
+    Generic: samoansk tid,
+    Standard: samoansk normaltid,
+    Daylight: samoansk sommartid
+  },
+  Pacific/Nauru: {
+    Generic: Nauru Time,
+    Standard: Nauru Time,
+    Daylight: Nauru Time
+  },
+  Pacific/Niue: {
+    Generic: Niue Time,
+    Standard: Niue Time,
+    Daylight: Niue Time
+  },
+  Pacific/Norfolk: {
+    Generic: tidssone for Norfolkøya,
+    Standard: normaltid for Norfolkøya,
+    Daylight: sommartid for Norfolkøya
+  },
+  Pacific/Noumea: {
+    Generic: kaledonsk tid,
+    Standard: kaledonsk normaltid,
+    Daylight: kaledonsk sommartid
+  },
+  Pacific/Pago_Pago: {
+    Generic: samoansk tid,
+    Standard: samoansk normaltid,
+    Daylight: samoansk sommartid
+  },
+  Pacific/Palau: {
+    Generic: Palau Time,
+    Standard: Palau Time,
+    Daylight: Palau Time
+  },
+  Pacific/Pitcairn: {
+    Generic: Pitcairn Time,
+    Standard: Pitcairn Time,
+    Daylight: Pitcairn Time
+  },
+  Pacific/Pohnpei: {
+    Generic: Ponape Time,
+    Standard: Ponape Time,
+    Daylight: Ponape Time
+  },
+  Pacific/Ponape: {
+    Generic: Ponape Time,
+    Standard: Ponape Time,
+    Daylight: Ponape Time
+  },
+  Pacific/Port_Moresby: {
+    Generic: Papua New Guinea Time,
+    Standard: Papua New Guinea Time,
+    Daylight: Papua New Guinea Time
+  },
+  Pacific/Rarotonga: {
+    Generic: tidssone for Cookøyane,
+    Standard: normaltid for Cookøyane,
+    Daylight: sommartid for Cookøyane
+  },
+  Pacific/Saipan: {
+    Generic: Chamorro Standard Time,
+    Standard: Chamorro Standard Time,
+    Daylight: Chamorro Standard Time
   },
   Pacific/Samoa: {
     Generic: samoansk tid,
     Standard: samoansk normaltid,
     Daylight: samoansk sommartid
   },
-  US/Samoa: {
-    Generic: samoansk tid,
-    Standard: samoansk normaltid,
-    Daylight: samoansk sommartid
+  Pacific/Tahiti: {
+    Generic: Tahiti Time,
+    Standard: Tahiti Time,
+    Daylight: Tahiti Time
   },
-  Pacific/Chuuk: {
+  Pacific/Tarawa: {
+    Generic: tidssone for Gilbertøyane,
+    Standard: tidssone for Gilbertøyane,
+    Daylight: tidssone for Gilbertøyane
+  },
+  Pacific/Tongatapu: {
+    Generic: tongansk tid,
+    Standard: tongansk normaltid,
+    Daylight: tongansk sommartid
+  },
+  Pacific/Truk: {
     Generic: tidssone for Chuukøyane,
     Standard: tidssone for Chuukøyane,
     Daylight: tidssone for Chuukøyane
+  },
+  Pacific/Wake: {
+    Generic: Wake Island Time,
+    Standard: Wake Island Time,
+    Daylight: Wake Island Time
+  },
+  Pacific/Wallis: {
+    Generic: tidssone for Wallis- og Futunaøyane,
+    Standard: tidssone for Wallis- og Futunaøyane,
+    Daylight: tidssone for Wallis- og Futunaøyane
   },
   Pacific/Yap: {
     Generic: tidssone for Chuukøyane,
     Standard: tidssone for Chuukøyane,
     Daylight: tidssone for Chuukøyane
   },
-  America/Fort_Wayne: {
+  Poland: {
+    Generic: sentraleuropeisk tid,
+    Standard: sentraleuropeisk standardtid,
+    Daylight: sentraleuropeisk sommartid
+  },
+  Portugal: {
+    Generic: vesteuropeisk tid,
+    Standard: vesteuropeisk standardtid,
+    Daylight: vesteuropeisk sommartid
+  },
+  ROC: {
+    Generic: tidssone for Taipei,
+    Standard: normaltid for Taipei,
+    Daylight: sommartid for Taipei
+  },
+  ROK: {
+    Generic: koreansk tid,
+    Standard: koreansk normaltid,
+    Daylight: koreansk sommartid
+  },
+  Singapore: {
+    Generic: Singapore Standard Time,
+    Standard: Singapore Standard Time,
+    Daylight: Singapore Standard Time
+  },
+  Turkey: {
+    Generic: Turkey Time,
+    Standard: Turkey Standard Time,
+    Daylight: Turkey Daylight Time
+  },
+  UCT: {
+    Generic: Coordinated Universal Time,
+    Standard: Coordinated Universal Time,
+    Daylight: Coordinated Universal Time
+  },
+  US/Alaska: {
+    Generic: alaskisk tid,
+    Standard: alaskisk normaltid,
+    Daylight: alaskisk sommartid
+  },
+  US/Aleutian: {
+    Generic: tidssone for Hawaii og Aleutene,
+    Standard: normaltid for Hawaii og Aleutene,
+    Daylight: sommartid for Hawaii og Aleutene
+  },
+  US/Arizona: {
+    Generic: tidssone for Rocky Mountains (USA),
+    Standard: normaltid for Rocky Mountains (USA),
+    Daylight: sommartid for Rocky Mountains (USA)
+  },
+  US/Central: {
+    Generic: tidssone for sentrale Nord-Amerika,
+    Standard: normaltid for sentrale Nord-Amerika,
+    Daylight: sommartid for sentrale Nord-Amerika
+  },
+  US/East-Indiana: {
     Generic: tidssone for den nordamerikanske austkysten,
     Standard: normaltid for den nordamerikanske austkysten,
     Daylight: sommartid for den nordamerikansk austkysten
   },
-  Antarctica/Troll: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
+  US/Eastern: {
+    Generic: tidssone for den nordamerikanske austkysten,
+    Standard: normaltid for den nordamerikanske austkysten,
+    Daylight: sommartid for den nordamerikansk austkysten
+  },
+  US/Hawaii: {
+    Generic: tidssone for Hawaii og Aleutene,
+    Standard: normaltid for Hawaii og Aleutene,
+    Daylight: sommartid for Hawaii og Aleutene
+  },
+  US/Indiana-Starke: {
+    Generic: tidssone for sentrale Nord-Amerika,
+    Standard: normaltid for sentrale Nord-Amerika,
+    Daylight: sommartid for sentrale Nord-Amerika
+  },
+  US/Michigan: {
+    Generic: tidssone for den nordamerikanske austkysten,
+    Standard: normaltid for den nordamerikanske austkysten,
+    Daylight: sommartid for den nordamerikansk austkysten
+  },
+  US/Mountain: {
+    Generic: tidssone for Rocky Mountains (USA),
+    Standard: normaltid for Rocky Mountains (USA),
+    Daylight: sommartid for Rocky Mountains (USA)
+  },
+  US/Pacific: {
+    Generic: tidssone for den nordamerikanske stillehavskysten,
+    Standard: normaltid for den nordamerikanske stillehavskysten,
+    Daylight: sommartid for den nordamerikanske stillehavskysten
+  },
+  US/Samoa: {
+    Generic: samoansk tid,
+    Standard: samoansk normaltid,
+    Daylight: samoansk sommartid
+  },
+  UTC: {
+    Generic: Coordinated Universal Time,
+    Standard: Coordinated Universal Time,
+    Daylight: Coordinated Universal Time
+  },
+  Universal: {
+    Generic: Coordinated Universal Time,
+    Standard: Coordinated Universal Time,
+    Daylight: Coordinated Universal Time
+  },
+  W-SU: {
+    Generic: Moscow Time,
+    Standard: Moscow Standard Time,
+    Daylight: Moscow Daylight Time
+  },
+  WET: {
+    Generic: vesteuropeisk tid,
+    Standard: vesteuropeisk standardtid,
+    Daylight: vesteuropeisk sommartid
+  },
+  Zulu: {
+    Generic: Coordinated Universal Time,
+    Standard: Coordinated Universal Time,
+    Daylight: Coordinated Universal Time
   }
 }

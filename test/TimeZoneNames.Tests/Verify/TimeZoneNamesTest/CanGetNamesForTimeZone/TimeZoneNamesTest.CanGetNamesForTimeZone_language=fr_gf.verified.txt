@@ -1,115 +1,330 @@
 ﻿{
-  Australia/Darwin: {
-    Generic: heure du centre de l’Australie,
-    Standard: heure normale du centre de l’Australie,
-    Daylight: heure d’été du centre de l’Australie
+  Africa/Abidjan: {
+    Generic: heure moyenne de Greenwich,
+    Standard: heure moyenne de Greenwich,
+    Daylight: heure moyenne de Greenwich
   },
-  Australia/Sydney: {
-    Generic: heure de l’Est de l’Australie,
-    Standard: heure normale de l’Est de l’Australie,
-    Daylight: heure d’été de l’Est de l’Australie
+  Africa/Accra: {
+    Generic: heure moyenne de Greenwich,
+    Standard: heure moyenne de Greenwich,
+    Daylight: heure moyenne de Greenwich
   },
-  Australia/Melbourne: {
-    Generic: heure de l’Est de l’Australie,
-    Standard: heure normale de l’Est de l’Australie,
-    Daylight: heure d’été de l’Est de l’Australie
+  Africa/Addis_Ababa: {
+    Generic: heure normale d’Afrique de l’Est,
+    Standard: heure normale d’Afrique de l’Est,
+    Daylight: heure normale d’Afrique de l’Est
   },
-  Asia/Kabul: {
-    Generic: heure de l’Afghanistan,
-    Standard: heure de l’Afghanistan,
-    Daylight: heure de l’Afghanistan
+  Africa/Algiers: {
+    Generic: heure d’Europe centrale,
+    Standard: heure normale d’Europe centrale,
+    Daylight: heure d’été d’Europe centrale
   },
-  America/Anchorage: {
-    Generic: heure de l’Alaska,
-    Standard: heure normale de l’Alaska,
-    Daylight: heure d’été de l’Alaska
+  Africa/Asmara: {
+    Generic: heure normale d’Afrique de l’Est,
+    Standard: heure normale d’Afrique de l’Est,
+    Daylight: heure normale d’Afrique de l’Est
   },
-  America/Juneau: {
-    Generic: heure de l’Alaska,
-    Standard: heure normale de l’Alaska,
-    Daylight: heure d’été de l’Alaska
+  Africa/Asmera: {
+    Generic: heure normale d’Afrique de l’Est,
+    Standard: heure normale d’Afrique de l’Est,
+    Daylight: heure normale d’Afrique de l’Est
   },
-  America/Metlakatla: {
-    Generic: heure de l’Alaska,
-    Standard: heure normale de l’Alaska,
-    Daylight: heure d’été de l’Alaska
+  Africa/Bamako: {
+    Generic: heure moyenne de Greenwich,
+    Standard: heure moyenne de Greenwich,
+    Daylight: heure moyenne de Greenwich
   },
-  America/Nome: {
-    Generic: heure de l’Alaska,
-    Standard: heure normale de l’Alaska,
-    Daylight: heure d’été de l’Alaska
+  Africa/Bangui: {
+    Generic: heure d’Afrique de l’Ouest,
+    Standard: heure normale d’Afrique de l’Ouest,
+    Daylight: heure d’été d’Afrique de l’Ouest
   },
-  America/Sitka: {
-    Generic: heure de l’Alaska,
-    Standard: heure normale de l’Alaska,
-    Daylight: heure d’été de l’Alaska
+  Africa/Banjul: {
+    Generic: heure moyenne de Greenwich,
+    Standard: heure moyenne de Greenwich,
+    Daylight: heure moyenne de Greenwich
   },
-  America/Yakutat: {
-    Generic: heure de l’Alaska,
-    Standard: heure normale de l’Alaska,
-    Daylight: heure d’été de l’Alaska
+  Africa/Bissau: {
+    Generic: heure moyenne de Greenwich,
+    Standard: heure moyenne de Greenwich,
+    Daylight: heure moyenne de Greenwich
+  },
+  Africa/Blantyre: {
+    Generic: heure normale d’Afrique centrale,
+    Standard: heure normale d’Afrique centrale,
+    Daylight: heure normale d’Afrique centrale
+  },
+  Africa/Brazzaville: {
+    Generic: heure d’Afrique de l’Ouest,
+    Standard: heure normale d’Afrique de l’Ouest,
+    Daylight: heure d’été d’Afrique de l’Ouest
+  },
+  Africa/Bujumbura: {
+    Generic: heure normale d’Afrique centrale,
+    Standard: heure normale d’Afrique centrale,
+    Daylight: heure normale d’Afrique centrale
+  },
+  Africa/Cairo: {
+    Generic: heure d’Europe de l’Est,
+    Standard: heure normale d’Europe de l’Est,
+    Daylight: heure d’été d’Europe de l’Est
+  },
+  Africa/Casablanca: {
+    Generic: heure d’Europe de l’Ouest,
+    Standard: heure normale d’Europe de l’Ouest,
+    Daylight: heure d’été d’Europe de l’Ouest
+  },
+  Africa/Ceuta: {
+    Generic: heure d’Europe centrale,
+    Standard: heure normale d’Europe centrale,
+    Daylight: heure d’été d’Europe centrale
+  },
+  Africa/Conakry: {
+    Generic: heure moyenne de Greenwich,
+    Standard: heure moyenne de Greenwich,
+    Daylight: heure moyenne de Greenwich
+  },
+  Africa/Dakar: {
+    Generic: heure moyenne de Greenwich,
+    Standard: heure moyenne de Greenwich,
+    Daylight: heure moyenne de Greenwich
+  },
+  Africa/Dar_es_Salaam: {
+    Generic: heure normale d’Afrique de l’Est,
+    Standard: heure normale d’Afrique de l’Est,
+    Daylight: heure normale d’Afrique de l’Est
+  },
+  Africa/Djibouti: {
+    Generic: heure normale d’Afrique de l’Est,
+    Standard: heure normale d’Afrique de l’Est,
+    Daylight: heure normale d’Afrique de l’Est
+  },
+  Africa/Douala: {
+    Generic: heure d’Afrique de l’Ouest,
+    Standard: heure normale d’Afrique de l’Ouest,
+    Daylight: heure d’été d’Afrique de l’Ouest
+  },
+  Africa/El_Aaiun: {
+    Generic: heure d’Europe de l’Ouest,
+    Standard: heure normale d’Europe de l’Ouest,
+    Daylight: heure d’été d’Europe de l’Ouest
+  },
+  Africa/Freetown: {
+    Generic: heure moyenne de Greenwich,
+    Standard: heure moyenne de Greenwich,
+    Daylight: heure moyenne de Greenwich
+  },
+  Africa/Gaborone: {
+    Generic: heure normale d’Afrique centrale,
+    Standard: heure normale d’Afrique centrale,
+    Daylight: heure normale d’Afrique centrale
+  },
+  Africa/Harare: {
+    Generic: heure normale d’Afrique centrale,
+    Standard: heure normale d’Afrique centrale,
+    Daylight: heure normale d’Afrique centrale
+  },
+  Africa/Johannesburg: {
+    Generic: heure normale d’Afrique méridionale,
+    Standard: heure normale d’Afrique méridionale,
+    Daylight: heure normale d’Afrique méridionale
+  },
+  Africa/Juba: {
+    Generic: heure normale d’Afrique centrale,
+    Standard: heure normale d’Afrique centrale,
+    Daylight: heure normale d’Afrique centrale
+  },
+  Africa/Kampala: {
+    Generic: heure normale d’Afrique de l’Est,
+    Standard: heure normale d’Afrique de l’Est,
+    Daylight: heure normale d’Afrique de l’Est
+  },
+  Africa/Khartoum: {
+    Generic: heure normale d’Afrique centrale,
+    Standard: heure normale d’Afrique centrale,
+    Daylight: heure normale d’Afrique centrale
+  },
+  Africa/Kigali: {
+    Generic: heure normale d’Afrique centrale,
+    Standard: heure normale d’Afrique centrale,
+    Daylight: heure normale d’Afrique centrale
+  },
+  Africa/Kinshasa: {
+    Generic: heure d’Afrique de l’Ouest,
+    Standard: heure normale d’Afrique de l’Ouest,
+    Daylight: heure d’été d’Afrique de l’Ouest
+  },
+  Africa/Lagos: {
+    Generic: heure d’Afrique de l’Ouest,
+    Standard: heure normale d’Afrique de l’Ouest,
+    Daylight: heure d’été d’Afrique de l’Ouest
+  },
+  Africa/Libreville: {
+    Generic: heure d’Afrique de l’Ouest,
+    Standard: heure normale d’Afrique de l’Ouest,
+    Daylight: heure d’été d’Afrique de l’Ouest
+  },
+  Africa/Lome: {
+    Generic: heure moyenne de Greenwich,
+    Standard: heure moyenne de Greenwich,
+    Daylight: heure moyenne de Greenwich
+  },
+  Africa/Luanda: {
+    Generic: heure d’Afrique de l’Ouest,
+    Standard: heure normale d’Afrique de l’Ouest,
+    Daylight: heure d’été d’Afrique de l’Ouest
+  },
+  Africa/Lubumbashi: {
+    Generic: heure normale d’Afrique centrale,
+    Standard: heure normale d’Afrique centrale,
+    Daylight: heure normale d’Afrique centrale
+  },
+  Africa/Lusaka: {
+    Generic: heure normale d’Afrique centrale,
+    Standard: heure normale d’Afrique centrale,
+    Daylight: heure normale d’Afrique centrale
+  },
+  Africa/Malabo: {
+    Generic: heure d’Afrique de l’Ouest,
+    Standard: heure normale d’Afrique de l’Ouest,
+    Daylight: heure d’été d’Afrique de l’Ouest
+  },
+  Africa/Maputo: {
+    Generic: heure normale d’Afrique centrale,
+    Standard: heure normale d’Afrique centrale,
+    Daylight: heure normale d’Afrique centrale
+  },
+  Africa/Maseru: {
+    Generic: heure normale d’Afrique méridionale,
+    Standard: heure normale d’Afrique méridionale,
+    Daylight: heure normale d’Afrique méridionale
+  },
+  Africa/Mbabane: {
+    Generic: heure normale d’Afrique méridionale,
+    Standard: heure normale d’Afrique méridionale,
+    Daylight: heure normale d’Afrique méridionale
+  },
+  Africa/Mogadishu: {
+    Generic: heure normale d’Afrique de l’Est,
+    Standard: heure normale d’Afrique de l’Est,
+    Daylight: heure normale d’Afrique de l’Est
+  },
+  Africa/Monrovia: {
+    Generic: heure moyenne de Greenwich,
+    Standard: heure moyenne de Greenwich,
+    Daylight: heure moyenne de Greenwich
+  },
+  Africa/Nairobi: {
+    Generic: heure normale d’Afrique de l’Est,
+    Standard: heure normale d’Afrique de l’Est,
+    Daylight: heure normale d’Afrique de l’Est
+  },
+  Africa/Ndjamena: {
+    Generic: heure d’Afrique de l’Ouest,
+    Standard: heure normale d’Afrique de l’Ouest,
+    Daylight: heure d’été d’Afrique de l’Ouest
+  },
+  Africa/Niamey: {
+    Generic: heure d’Afrique de l’Ouest,
+    Standard: heure normale d’Afrique de l’Ouest,
+    Daylight: heure d’été d’Afrique de l’Ouest
+  },
+  Africa/Nouakchott: {
+    Generic: heure moyenne de Greenwich,
+    Standard: heure moyenne de Greenwich,
+    Daylight: heure moyenne de Greenwich
+  },
+  Africa/Ouagadougou: {
+    Generic: heure moyenne de Greenwich,
+    Standard: heure moyenne de Greenwich,
+    Daylight: heure moyenne de Greenwich
+  },
+  Africa/Porto-Novo: {
+    Generic: heure d’Afrique de l’Ouest,
+    Standard: heure normale d’Afrique de l’Ouest,
+    Daylight: heure d’été d’Afrique de l’Ouest
+  },
+  Africa/Sao_Tome: {
+    Generic: heure moyenne de Greenwich,
+    Standard: heure moyenne de Greenwich,
+    Daylight: heure moyenne de Greenwich
+  },
+  Africa/Timbuktu: {
+    Generic: heure moyenne de Greenwich,
+    Standard: heure moyenne de Greenwich,
+    Daylight: heure moyenne de Greenwich
+  },
+  Africa/Tripoli: {
+    Generic: heure d’Europe de l’Est,
+    Standard: heure normale d’Europe de l’Est,
+    Daylight: heure d’été d’Europe de l’Est
+  },
+  Africa/Tunis: {
+    Generic: heure d’Europe centrale,
+    Standard: heure normale d’Europe centrale,
+    Daylight: heure d’été d’Europe centrale
+  },
+  Africa/Windhoek: {
+    Generic: heure normale d’Afrique centrale,
+    Standard: heure normale d’Afrique centrale,
+    Daylight: heure normale d’Afrique centrale
   },
   America/Adak: {
     Generic: heure d’Hawaï - Aléoutiennes,
     Standard: heure normale d’Hawaï - Aléoutiennes,
     Daylight: heure d’été d’Hawaï - Aléoutiennes
   },
-  Asia/Barnaul: {
-    Generic: heure : Barnaul,
-    Standard: Barnaul (heure standard),
-    Daylight: Barnaul (heure d’été)
+  America/Anchorage: {
+    Generic: heure de l’Alaska,
+    Standard: heure normale de l’Alaska,
+    Daylight: heure d’été de l’Alaska
   },
-  Asia/Riyadh: {
-    Generic: heure de l’Arabie,
-    Standard: heure normale de l’Arabie,
-    Daylight: heure d’été de l’Arabie
+  America/Anguilla: {
+    Generic: heure de l’Atlantique,
+    Standard: heure normale de l’Atlantique,
+    Daylight: heure d’été de l’Atlantique
   },
-  Asia/Bahrain: {
-    Generic: heure de l’Arabie,
-    Standard: heure normale de l’Arabie,
-    Daylight: heure d’été de l’Arabie
+  America/Antigua: {
+    Generic: heure de l’Atlantique,
+    Standard: heure normale de l’Atlantique,
+    Daylight: heure d’été de l’Atlantique
   },
-  Asia/Kuwait: {
-    Generic: heure de l’Arabie,
-    Standard: heure normale de l’Arabie,
-    Daylight: heure d’été de l’Arabie
+  America/Araguaina: {
+    Generic: heure de Brasilia,
+    Standard: heure normale de Brasilia,
+    Daylight: heure d’été de Brasilia
   },
-  Asia/Qatar: {
-    Generic: heure de l’Arabie,
-    Standard: heure normale de l’Arabie,
-    Daylight: heure d’été de l’Arabie
+  America/Argentina/Buenos_Aires: {
+    Generic: heure de l’Argentine,
+    Standard: heure normale d’Argentine,
+    Daylight: heure d’été de l’Argentine
   },
-  Asia/Aden: {
-    Generic: heure de l’Arabie,
-    Standard: heure normale de l’Arabie,
-    Daylight: heure d’été de l’Arabie
+  America/Argentina/Catamarca: {
+    Generic: heure de l’Argentine,
+    Standard: heure normale d’Argentine,
+    Daylight: heure d’été de l’Argentine
   },
-  Asia/Dubai: {
-    Generic: heure du Golfe,
-    Standard: heure du Golfe,
-    Daylight: heure du Golfe
+  America/Argentina/ComodRivadavia: {
+    Generic: heure de l’Argentine,
+    Standard: heure normale d’Argentine,
+    Daylight: heure d’été de l’Argentine
   },
-  Asia/Muscat: {
-    Generic: heure du Golfe,
-    Standard: heure du Golfe,
-    Daylight: heure du Golfe
+  America/Argentina/Cordoba: {
+    Generic: heure de l’Argentine,
+    Standard: heure normale d’Argentine,
+    Daylight: heure d’été de l’Argentine
   },
-  Etc/GMT-4: {
-    Generic: temps universel coordonné +4,
-    Standard: temps universel coordonné +4,
-    Daylight: temps universel coordonné +4
-  },
-  Asia/Baghdad: {
-    Generic: heure de l’Arabie,
-    Standard: heure normale de l’Arabie,
-    Daylight: heure d’été de l’Arabie
-  },
-  America/Buenos_Aires: {
+  America/Argentina/Jujuy: {
     Generic: heure de l’Argentine,
     Standard: heure normale d’Argentine,
     Daylight: heure d’été de l’Argentine
   },
   America/Argentina/La_Rioja: {
+    Generic: heure de l’Argentine,
+    Standard: heure normale d’Argentine,
+    Daylight: heure d’été de l’Argentine
+  },
+  America/Argentina/Mendoza: {
     Generic: heure de l’Argentine,
     Standard: heure normale d’Argentine,
     Daylight: heure d’été de l’Argentine
@@ -144,327 +359,432 @@
     Standard: heure normale d’Argentine,
     Daylight: heure d’été de l’Argentine
   },
-  America/Catamarca: {
-    Generic: heure de l’Argentine,
-    Standard: heure normale d’Argentine,
-    Daylight: heure d’été de l’Argentine
-  },
-  America/Cordoba: {
-    Generic: heure de l’Argentine,
-    Standard: heure normale d’Argentine,
-    Daylight: heure d’été de l’Argentine
-  },
-  America/Jujuy: {
-    Generic: heure de l’Argentine,
-    Standard: heure normale d’Argentine,
-    Daylight: heure d’été de l’Argentine
-  },
-  America/Mendoza: {
-    Generic: heure de l’Argentine,
-    Standard: heure normale d’Argentine,
-    Daylight: heure d’été de l’Argentine
-  },
-  Europe/Astrakhan: {
-    Generic: heure : Astrakhan,
-    Standard: Astrakhan (heure standard),
-    Daylight: Astrakhan (heure d’été)
-  },
-  Europe/Ulyanovsk: {
-    Generic: heure : Oulianovsk,
-    Standard: Oulianovsk (heure standard),
-    Daylight: Oulianovsk (heure d’été)
-  },
-  America/Halifax: {
+  America/Aruba: {
     Generic: heure de l’Atlantique,
     Standard: heure normale de l’Atlantique,
     Daylight: heure d’été de l’Atlantique
   },
-  Atlantic/Bermuda: {
-    Generic: heure de l’Atlantique,
-    Standard: heure normale de l’Atlantique,
-    Daylight: heure d’été de l’Atlantique
+  America/Asuncion: {
+    Generic: heure du Paraguay,
+    Standard: heure normale du Paraguay,
+    Daylight: heure d’été du Paraguay
   },
-  America/Glace_Bay: {
-    Generic: heure de l’Atlantique,
-    Standard: heure normale de l’Atlantique,
-    Daylight: heure d’été de l’Atlantique
+  America/Atikokan: {
+    Generic: heure de l’Est nord-américain,
+    Standard: heure normale de l’Est nord-américain,
+    Daylight: heure d’été de l’Est nord-américain
   },
-  America/Goose_Bay: {
-    Generic: heure de l’Atlantique,
-    Standard: heure normale de l’Atlantique,
-    Daylight: heure d’été de l’Atlantique
-  },
-  America/Moncton: {
-    Generic: heure de l’Atlantique,
-    Standard: heure normale de l’Atlantique,
-    Daylight: heure d’été de l’Atlantique
-  },
-  America/Thule: {
-    Generic: heure de l’Atlantique,
-    Standard: heure normale de l’Atlantique,
-    Daylight: heure d’été de l’Atlantique
-  },
-  Australia/Eucla: {
-    Generic: heure du centre-ouest de l’Australie,
-    Standard: heure normale du centre-ouest de l’Australie,
-    Daylight: heure d’été du centre-ouest de l’Australie
-  },
-  Asia/Baku: {
-    Generic: heure de l’Azerbaïdjan,
-    Standard: heure normale de l’Azerbaïdjan,
-    Daylight: heure d’été d’Azerbaïdjan
-  },
-  Atlantic/Azores: {
-    Generic: heure des Açores,
-    Standard: heure normale des Açores,
-    Daylight: heure d’été des Açores
-  },
-  America/Scoresbysund: {
-    Generic: heure de l’Est du Groenland,
-    Standard: heure normale de l’Est du Groenland,
-    Daylight: heure d’été de l’Est du Groenland
+  America/Atka: {
+    Generic: heure d’Hawaï - Aléoutiennes,
+    Standard: heure normale d’Hawaï - Aléoutiennes,
+    Daylight: heure d’été d’Hawaï - Aléoutiennes
   },
   America/Bahia: {
     Generic: heure de Brasilia,
     Standard: heure normale de Brasilia,
     Daylight: heure d’été de Brasilia
   },
-  Asia/Dhaka: {
-    Generic: heure du Bangladesh,
-    Standard: heure normale du Bangladesh,
-    Daylight: heure d’été du Bangladesh
-  },
-  Asia/Thimphu: {
-    Generic: heure du Bhoutan,
-    Standard: heure du Bhoutan,
-    Daylight: heure du Bhoutan
-  },
-  Europe/Minsk: {
-    Generic: heure de Moscou,
-    Standard: heure normale de Moscou,
-    Daylight: heure d’été de Moscou
-  },
-  Pacific/Bougainville: {
-    Generic: heure de la Papouasie-Nouvelle-Guinée,
-    Standard: heure de la Papouasie-Nouvelle-Guinée,
-    Daylight: heure de la Papouasie-Nouvelle-Guinée
-  },
-  America/Regina: {
+  America/Bahia_Banderas: {
     Generic: heure du centre nord-américain,
     Standard: heure normale du centre nord-américain,
     Daylight: heure d’été du centre nord-américain
   },
-  America/Swift_Current: {
-    Generic: heure du centre nord-américain,
-    Standard: heure normale du centre nord-américain,
-    Daylight: heure d’été du centre nord-américain
+  America/Barbados: {
+    Generic: heure de l’Atlantique,
+    Standard: heure normale de l’Atlantique,
+    Daylight: heure d’été de l’Atlantique
   },
-  Atlantic/Cape_Verde: {
-    Generic: heure du Cap-Vert,
-    Standard: heure normale du Cap-Vert,
-    Daylight: heure d’été du Cap-Vert
-  },
-  Etc/GMT+1: {
-    Generic: temps universel coordonné -1,
-    Standard: temps universel coordonné -1,
-    Daylight: temps universel coordonné -1
-  },
-  Asia/Yerevan: {
-    Generic: heure de l’Arménie,
-    Standard: heure normale de l’Arménie,
-    Daylight: heure d’été d’Arménie
-  },
-  Australia/Adelaide: {
-    Generic: heure du centre de l’Australie,
-    Standard: heure normale du centre de l’Australie,
-    Daylight: heure d’été du centre de l’Australie
-  },
-  Australia/Broken_Hill: {
-    Generic: heure du centre de l’Australie,
-    Standard: heure normale du centre de l’Australie,
-    Daylight: heure d’été du centre de l’Australie
-  },
-  America/Guatemala: {
-    Generic: heure du centre nord-américain,
-    Standard: heure normale du centre nord-américain,
-    Daylight: heure d’été du centre nord-américain
+  America/Belem: {
+    Generic: heure de Brasilia,
+    Standard: heure normale de Brasilia,
+    Daylight: heure d’été de Brasilia
   },
   America/Belize: {
     Generic: heure du centre nord-américain,
     Standard: heure normale du centre nord-américain,
     Daylight: heure d’été du centre nord-américain
   },
-  America/Costa_Rica: {
-    Generic: heure du centre nord-américain,
-    Standard: heure normale du centre nord-américain,
-    Daylight: heure d’été du centre nord-américain
+  America/Blanc-Sablon: {
+    Generic: heure de l’Atlantique,
+    Standard: heure normale de l’Atlantique,
+    Daylight: heure d’été de l’Atlantique
   },
-  Pacific/Galapagos: {
-    Generic: heure des îles Galápagos,
-    Standard: heure des îles Galápagos,
-    Daylight: heure des îles Galápagos
-  },
-  America/Tegucigalpa: {
-    Generic: heure du centre nord-américain,
-    Standard: heure normale du centre nord-américain,
-    Daylight: heure d’été du centre nord-américain
-  },
-  America/Managua: {
-    Generic: heure du centre nord-américain,
-    Standard: heure normale du centre nord-américain,
-    Daylight: heure d’été du centre nord-américain
-  },
-  America/El_Salvador: {
-    Generic: heure du centre nord-américain,
-    Standard: heure normale du centre nord-américain,
-    Daylight: heure d’été du centre nord-américain
-  },
-  Etc/GMT+6: {
-    Generic: temps universel coordonné -6,
-    Standard: temps universel coordonné -6,
-    Daylight: temps universel coordonné -6
-  },
-  Asia/Almaty: {
-    Generic: heure de l’Est du Kazakhstan,
-    Standard: heure de l’Est du Kazakhstan,
-    Daylight: heure de l’Est du Kazakhstan
-  },
-  Antarctica/Vostok: {
-    Generic: heure de Vostok,
-    Standard: heure de Vostok,
-    Daylight: heure de Vostok
-  },
-  Asia/Urumqi: {
-    Generic: heure : Chine,
-    Standard: Chine (heure standard),
-    Daylight: Chine (heure d’été)
-  },
-  Indian/Chagos: {
-    Generic: heure de l’Océan Indien,
-    Standard: heure de l’Océan Indien,
-    Daylight: heure de l’Océan Indien
-  },
-  Asia/Bishkek: {
-    Generic: heure du Kirghizistan,
-    Standard: heure du Kirghizistan,
-    Daylight: heure du Kirghizistan
-  },
-  Asia/Qostanay: {
-    Generic: heure de l’Est du Kazakhstan,
-    Standard: heure de l’Est du Kazakhstan,
-    Daylight: heure de l’Est du Kazakhstan
-  },
-  Etc/GMT-6: {
-    Generic: temps universel coordonné +6,
-    Standard: temps universel coordonné +6,
-    Daylight: temps universel coordonné +6
-  },
-  America/Cuiaba: {
+  America/Boa_Vista: {
     Generic: heure de l’Amazonie,
     Standard: heure normale de l’Amazonie,
     Daylight: heure d’été de l’Amazonie
+  },
+  America/Bogota: {
+    Generic: heure de Colombie,
+    Standard: heure normale de Colombie,
+    Daylight: heure d’été de Colombie
+  },
+  America/Boise: {
+    Generic: heure des Rocheuses,
+    Standard: heure normale des Rocheuses,
+    Daylight: heure d’été des Rocheuses
+  },
+  America/Buenos_Aires: {
+    Generic: heure de l’Argentine,
+    Standard: heure normale d’Argentine,
+    Daylight: heure d’été de l’Argentine
+  },
+  America/Cambridge_Bay: {
+    Generic: heure des Rocheuses,
+    Standard: heure normale des Rocheuses,
+    Daylight: heure d’été des Rocheuses
   },
   America/Campo_Grande: {
     Generic: heure de l’Amazonie,
     Standard: heure normale de l’Amazonie,
     Daylight: heure d’été de l’Amazonie
   },
-  Europe/Budapest: {
-    Generic: heure d’Europe centrale,
-    Standard: heure normale d’Europe centrale,
-    Daylight: heure d’été d’Europe centrale
+  America/Cancun: {
+    Generic: heure de l’Est nord-américain,
+    Standard: heure normale de l’Est nord-américain,
+    Daylight: heure d’été de l’Est nord-américain
   },
-  Europe/Tirane: {
-    Generic: heure d’Europe centrale,
-    Standard: heure normale d’Europe centrale,
-    Daylight: heure d’été d’Europe centrale
+  America/Caracas: {
+    Generic: heure du Venezuela,
+    Standard: heure du Venezuela,
+    Daylight: heure du Venezuela
   },
-  Europe/Prague: {
-    Generic: heure d’Europe centrale,
-    Standard: heure normale d’Europe centrale,
-    Daylight: heure d’été d’Europe centrale
+  America/Catamarca: {
+    Generic: heure de l’Argentine,
+    Standard: heure normale d’Argentine,
+    Daylight: heure d’été de l’Argentine
   },
-  Europe/Podgorica: {
-    Generic: heure d’Europe centrale,
-    Standard: heure normale d’Europe centrale,
-    Daylight: heure d’été d’Europe centrale
+  America/Cayenne: {
+    Generic: heure de la Guyane française,
+    Standard: heure de la Guyane française,
+    Daylight: heure de la Guyane française
   },
-  Europe/Belgrade: {
-    Generic: heure d’Europe centrale,
-    Standard: heure normale d’Europe centrale,
-    Daylight: heure d’été d’Europe centrale
+  America/Cayman: {
+    Generic: heure de l’Est nord-américain,
+    Standard: heure normale de l’Est nord-américain,
+    Daylight: heure d’été de l’Est nord-américain
   },
-  Europe/Ljubljana: {
-    Generic: heure d’Europe centrale,
-    Standard: heure normale d’Europe centrale,
-    Daylight: heure d’été d’Europe centrale
-  },
-  Europe/Bratislava: {
-    Generic: heure d’Europe centrale,
-    Standard: heure normale d’Europe centrale,
-    Daylight: heure d’été d’Europe centrale
-  },
-  Europe/Warsaw: {
-    Generic: heure d’Europe centrale,
-    Standard: heure normale d’Europe centrale,
-    Daylight: heure d’été d’Europe centrale
-  },
-  Europe/Sarajevo: {
-    Generic: heure d’Europe centrale,
-    Standard: heure normale d’Europe centrale,
-    Daylight: heure d’été d’Europe centrale
-  },
-  Europe/Zagreb: {
-    Generic: heure d’Europe centrale,
-    Standard: heure normale d’Europe centrale,
-    Daylight: heure d’été d’Europe centrale
-  },
-  Europe/Skopje: {
-    Generic: heure d’Europe centrale,
-    Standard: heure normale d’Europe centrale,
-    Daylight: heure d’été d’Europe centrale
-  },
-  Pacific/Guadalcanal: {
-    Generic: heure des îles Salomon,
-    Standard: heure des îles Salomon,
-    Daylight: heure des îles Salomon
-  },
-  Antarctica/Casey: {
-    Generic: heure de Casey,
-    Standard: heure de Casey,
-    Daylight: heure de Casey
-  },
-  Pacific/Ponape: {
-    Generic: heure de l’île de Pohnpei,
-    Standard: heure de l’île de Pohnpei,
-    Daylight: heure de l’île de Pohnpei
-  },
-  Pacific/Kosrae: {
-    Generic: heure de Kosrae,
-    Standard: heure de Kosrae,
-    Daylight: heure de Kosrae
-  },
-  Pacific/Noumea: {
-    Generic: heure de la Nouvelle-Calédonie,
-    Standard: heure normale de la Nouvelle-Calédonie,
-    Daylight: heure d’été de Nouvelle-Calédonie
-  },
-  Pacific/Efate: {
-    Generic: heure du Vanuatu,
-    Standard: heure normale du Vanuatu,
-    Daylight: heure d’été de Vanuatu
-  },
-  Etc/GMT-11: {
-    Generic: temps universel coordonné +11,
-    Standard: temps universel coordonné +11,
-    Daylight: temps universel coordonné +11
-  },
-  America/Mexico_City: {
+  America/Chicago: {
     Generic: heure du centre nord-américain,
     Standard: heure normale du centre nord-américain,
     Daylight: heure d’été du centre nord-américain
   },
-  America/Bahia_Banderas: {
+  America/Chihuahua: {
+    Generic: heure du Pacifique mexicain,
+    Standard: heure normale du Pacifique mexicain,
+    Daylight: heure d’été du Pacifique mexicain
+  },
+  America/Coral_Harbour: {
+    Generic: heure de l’Est nord-américain,
+    Standard: heure normale de l’Est nord-américain,
+    Daylight: heure d’été de l’Est nord-américain
+  },
+  America/Cordoba: {
+    Generic: heure de l’Argentine,
+    Standard: heure normale d’Argentine,
+    Daylight: heure d’été de l’Argentine
+  },
+  America/Costa_Rica: {
+    Generic: heure du centre nord-américain,
+    Standard: heure normale du centre nord-américain,
+    Daylight: heure d’été du centre nord-américain
+  },
+  America/Creston: {
+    Generic: heure des Rocheuses,
+    Standard: heure normale des Rocheuses,
+    Daylight: heure d’été des Rocheuses
+  },
+  America/Cuiaba: {
+    Generic: heure de l’Amazonie,
+    Standard: heure normale de l’Amazonie,
+    Daylight: heure d’été de l’Amazonie
+  },
+  America/Curacao: {
+    Generic: heure de l’Atlantique,
+    Standard: heure normale de l’Atlantique,
+    Daylight: heure d’été de l’Atlantique
+  },
+  America/Danmarkshavn: {
+    Generic: heure moyenne de Greenwich,
+    Standard: heure moyenne de Greenwich,
+    Daylight: heure moyenne de Greenwich
+  },
+  America/Dawson: {
+    Generic: heure normale du Yukon,
+    Standard: heure normale du Yukon,
+    Daylight: heure normale du Yukon
+  },
+  America/Dawson_Creek: {
+    Generic: heure des Rocheuses,
+    Standard: heure normale des Rocheuses,
+    Daylight: heure d’été des Rocheuses
+  },
+  America/Denver: {
+    Generic: heure des Rocheuses,
+    Standard: heure normale des Rocheuses,
+    Daylight: heure d’été des Rocheuses
+  },
+  America/Detroit: {
+    Generic: heure de l’Est nord-américain,
+    Standard: heure normale de l’Est nord-américain,
+    Daylight: heure d’été de l’Est nord-américain
+  },
+  America/Dominica: {
+    Generic: heure de l’Atlantique,
+    Standard: heure normale de l’Atlantique,
+    Daylight: heure d’été de l’Atlantique
+  },
+  America/Edmonton: {
+    Generic: heure des Rocheuses,
+    Standard: heure normale des Rocheuses,
+    Daylight: heure d’été des Rocheuses
+  },
+  America/Eirunepe: {
+    Generic: heure de l’Acre,
+    Standard: heure normale de l’Acre,
+    Daylight: heure d’été de l’Acre
+  },
+  America/El_Salvador: {
+    Generic: heure du centre nord-américain,
+    Standard: heure normale du centre nord-américain,
+    Daylight: heure d’été du centre nord-américain
+  },
+  America/Ensenada: {
+    Generic: heure du Pacifique nord-américain,
+    Standard: heure normale du Pacifique nord-américain,
+    Daylight: heure d’été du Pacifique nord-américain
+  },
+  America/Fort_Nelson: {
+    Generic: heure des Rocheuses,
+    Standard: heure normale des Rocheuses,
+    Daylight: heure d’été des Rocheuses
+  },
+  America/Fort_Wayne: {
+    Generic: heure de l’Est nord-américain,
+    Standard: heure normale de l’Est nord-américain,
+    Daylight: heure d’été de l’Est nord-américain
+  },
+  America/Fortaleza: {
+    Generic: heure de Brasilia,
+    Standard: heure normale de Brasilia,
+    Daylight: heure d’été de Brasilia
+  },
+  America/Glace_Bay: {
+    Generic: heure de l’Atlantique,
+    Standard: heure normale de l’Atlantique,
+    Daylight: heure d’été de l’Atlantique
+  },
+  America/Godthab: {
+    Generic: heure de l’Ouest du Groenland,
+    Standard: heure normale de l’Ouest du Groenland,
+    Daylight: heure d’été de l’Ouest du Groenland
+  },
+  America/Goose_Bay: {
+    Generic: heure de l’Atlantique,
+    Standard: heure normale de l’Atlantique,
+    Daylight: heure d’été de l’Atlantique
+  },
+  America/Grand_Turk: {
+    Generic: heure de l’Est nord-américain,
+    Standard: heure normale de l’Est nord-américain,
+    Daylight: heure d’été de l’Est nord-américain
+  },
+  America/Grenada: {
+    Generic: heure de l’Atlantique,
+    Standard: heure normale de l’Atlantique,
+    Daylight: heure d’été de l’Atlantique
+  },
+  America/Guadeloupe: {
+    Generic: heure de l’Atlantique,
+    Standard: heure normale de l’Atlantique,
+    Daylight: heure d’été de l’Atlantique
+  },
+  America/Guatemala: {
+    Generic: heure du centre nord-américain,
+    Standard: heure normale du centre nord-américain,
+    Daylight: heure d’été du centre nord-américain
+  },
+  America/Guayaquil: {
+    Generic: heure de l’Équateur,
+    Standard: heure de l’Équateur,
+    Daylight: heure de l’Équateur
+  },
+  America/Guyana: {
+    Generic: heure du Guyana,
+    Standard: heure du Guyana,
+    Daylight: heure du Guyana
+  },
+  America/Halifax: {
+    Generic: heure de l’Atlantique,
+    Standard: heure normale de l’Atlantique,
+    Daylight: heure d’été de l’Atlantique
+  },
+  America/Havana: {
+    Generic: heure de Cuba,
+    Standard: heure normale de Cuba,
+    Daylight: heure d’été de Cuba
+  },
+  America/Hermosillo: {
+    Generic: heure du Pacifique mexicain,
+    Standard: heure normale du Pacifique mexicain,
+    Daylight: heure d’été du Pacifique mexicain
+  },
+  America/Indiana/Indianapolis: {
+    Generic: heure de l’Est nord-américain,
+    Standard: heure normale de l’Est nord-américain,
+    Daylight: heure d’été de l’Est nord-américain
+  },
+  America/Indiana/Knox: {
+    Generic: heure du centre nord-américain,
+    Standard: heure normale du centre nord-américain,
+    Daylight: heure d’été du centre nord-américain
+  },
+  America/Indiana/Marengo: {
+    Generic: heure de l’Est nord-américain,
+    Standard: heure normale de l’Est nord-américain,
+    Daylight: heure d’été de l’Est nord-américain
+  },
+  America/Indiana/Petersburg: {
+    Generic: heure de l’Est nord-américain,
+    Standard: heure normale de l’Est nord-américain,
+    Daylight: heure d’été de l’Est nord-américain
+  },
+  America/Indiana/Tell_City: {
+    Generic: heure du centre nord-américain,
+    Standard: heure normale du centre nord-américain,
+    Daylight: heure d’été du centre nord-américain
+  },
+  America/Indiana/Vevay: {
+    Generic: heure de l’Est nord-américain,
+    Standard: heure normale de l’Est nord-américain,
+    Daylight: heure d’été de l’Est nord-américain
+  },
+  America/Indiana/Vincennes: {
+    Generic: heure de l’Est nord-américain,
+    Standard: heure normale de l’Est nord-américain,
+    Daylight: heure d’été de l’Est nord-américain
+  },
+  America/Indiana/Winamac: {
+    Generic: heure de l’Est nord-américain,
+    Standard: heure normale de l’Est nord-américain,
+    Daylight: heure d’été de l’Est nord-américain
+  },
+  America/Indianapolis: {
+    Generic: heure de l’Est nord-américain,
+    Standard: heure normale de l’Est nord-américain,
+    Daylight: heure d’été de l’Est nord-américain
+  },
+  America/Inuvik: {
+    Generic: heure des Rocheuses,
+    Standard: heure normale des Rocheuses,
+    Daylight: heure d’été des Rocheuses
+  },
+  America/Iqaluit: {
+    Generic: heure de l’Est nord-américain,
+    Standard: heure normale de l’Est nord-américain,
+    Daylight: heure d’été de l’Est nord-américain
+  },
+  America/Jamaica: {
+    Generic: heure de l’Est nord-américain,
+    Standard: heure normale de l’Est nord-américain,
+    Daylight: heure d’été de l’Est nord-américain
+  },
+  America/Jujuy: {
+    Generic: heure de l’Argentine,
+    Standard: heure normale d’Argentine,
+    Daylight: heure d’été de l’Argentine
+  },
+  America/Juneau: {
+    Generic: heure de l’Alaska,
+    Standard: heure normale de l’Alaska,
+    Daylight: heure d’été de l’Alaska
+  },
+  America/Kentucky/Louisville: {
+    Generic: heure de l’Est nord-américain,
+    Standard: heure normale de l’Est nord-américain,
+    Daylight: heure d’été de l’Est nord-américain
+  },
+  America/Kentucky/Monticello: {
+    Generic: heure de l’Est nord-américain,
+    Standard: heure normale de l’Est nord-américain,
+    Daylight: heure d’été de l’Est nord-américain
+  },
+  America/Knox_IN: {
+    Generic: heure du centre nord-américain,
+    Standard: heure normale du centre nord-américain,
+    Daylight: heure d’été du centre nord-américain
+  },
+  America/Kralendijk: {
+    Generic: heure de l’Atlantique,
+    Standard: heure normale de l’Atlantique,
+    Daylight: heure d’été de l’Atlantique
+  },
+  America/La_Paz: {
+    Generic: heure de Bolivie,
+    Standard: heure de Bolivie,
+    Daylight: heure de Bolivie
+  },
+  America/Lima: {
+    Generic: heure du Pérou,
+    Standard: heure normale du Pérou,
+    Daylight: heure d’été du Pérou
+  },
+  America/Los_Angeles: {
+    Generic: heure du Pacifique nord-américain,
+    Standard: heure normale du Pacifique nord-américain,
+    Daylight: heure d’été du Pacifique nord-américain
+  },
+  America/Louisville: {
+    Generic: heure de l’Est nord-américain,
+    Standard: heure normale de l’Est nord-américain,
+    Daylight: heure d’été de l’Est nord-américain
+  },
+  America/Lower_Princes: {
+    Generic: heure de l’Atlantique,
+    Standard: heure normale de l’Atlantique,
+    Daylight: heure d’été de l’Atlantique
+  },
+  America/Maceio: {
+    Generic: heure de Brasilia,
+    Standard: heure normale de Brasilia,
+    Daylight: heure d’été de Brasilia
+  },
+  America/Managua: {
+    Generic: heure du centre nord-américain,
+    Standard: heure normale du centre nord-américain,
+    Daylight: heure d’été du centre nord-américain
+  },
+  America/Manaus: {
+    Generic: heure de l’Amazonie,
+    Standard: heure normale de l’Amazonie,
+    Daylight: heure d’été de l’Amazonie
+  },
+  America/Marigot: {
+    Generic: heure de l’Atlantique,
+    Standard: heure normale de l’Atlantique,
+    Daylight: heure d’été de l’Atlantique
+  },
+  America/Martinique: {
+    Generic: heure de l’Atlantique,
+    Standard: heure normale de l’Atlantique,
+    Daylight: heure d’été de l’Atlantique
+  },
+  America/Matamoros: {
+    Generic: heure du centre nord-américain,
+    Standard: heure normale du centre nord-américain,
+    Daylight: heure d’été du centre nord-américain
+  },
+  America/Mazatlan: {
+    Generic: heure du Pacifique mexicain,
+    Standard: heure normale du Pacifique mexicain,
+    Daylight: heure d’été du Pacifique mexicain
+  },
+  America/Mendoza: {
+    Generic: heure de l’Argentine,
+    Standard: heure normale d’Argentine,
+    Daylight: heure d’été de l’Argentine
+  },
+  America/Menominee: {
     Generic: heure du centre nord-américain,
     Standard: heure normale du centre nord-américain,
     Daylight: heure d’été du centre nord-américain
@@ -474,55 +794,70 @@
     Standard: heure normale du centre nord-américain,
     Daylight: heure d’été du centre nord-américain
   },
+  America/Metlakatla: {
+    Generic: heure de l’Alaska,
+    Standard: heure normale de l’Alaska,
+    Daylight: heure d’été de l’Alaska
+  },
+  America/Mexico_City: {
+    Generic: heure du centre nord-américain,
+    Standard: heure normale du centre nord-américain,
+    Daylight: heure d’été du centre nord-américain
+  },
+  America/Miquelon: {
+    Generic: heure de Saint-Pierre-et-Miquelon,
+    Standard: heure normale de Saint-Pierre-et-Miquelon,
+    Daylight: heure d’été de Saint-Pierre-et-Miquelon
+  },
+  America/Moncton: {
+    Generic: heure de l’Atlantique,
+    Standard: heure normale de l’Atlantique,
+    Daylight: heure d’été de l’Atlantique
+  },
   America/Monterrey: {
     Generic: heure du centre nord-américain,
     Standard: heure normale du centre nord-américain,
     Daylight: heure d’été du centre nord-américain
   },
-  America/Chicago: {
-    Generic: heure du centre nord-américain,
-    Standard: heure normale du centre nord-américain,
-    Daylight: heure d’été du centre nord-américain
+  America/Montevideo: {
+    Generic: heure de l’Uruguay,
+    Standard: heure normale de l’Uruguay,
+    Daylight: heure d’été de l’Uruguay
   },
-  America/Winnipeg: {
-    Generic: heure du centre nord-américain,
-    Standard: heure normale du centre nord-américain,
-    Daylight: heure d’été du centre nord-américain
+  America/Montreal: {
+    Generic: heure de l’Est nord-américain,
+    Standard: heure normale de l’Est nord-américain,
+    Daylight: heure d’été de l’Est nord-américain
   },
-  America/Rainy_River: {
-    Generic: heure du centre nord-américain,
-    Standard: heure normale du centre nord-américain,
-    Daylight: heure d’été du centre nord-américain
+  America/Montserrat: {
+    Generic: heure de l’Atlantique,
+    Standard: heure normale de l’Atlantique,
+    Daylight: heure d’été de l’Atlantique
   },
-  America/Rankin_Inlet: {
-    Generic: heure du centre nord-américain,
-    Standard: heure normale du centre nord-américain,
-    Daylight: heure d’été du centre nord-américain
+  America/Nassau: {
+    Generic: heure de l’Est nord-américain,
+    Standard: heure normale de l’Est nord-américain,
+    Daylight: heure d’été de l’Est nord-américain
   },
-  America/Resolute: {
-    Generic: heure du centre nord-américain,
-    Standard: heure normale du centre nord-américain,
-    Daylight: heure d’été du centre nord-américain
+  America/New_York: {
+    Generic: heure de l’Est nord-américain,
+    Standard: heure normale de l’Est nord-américain,
+    Daylight: heure d’été de l’Est nord-américain
   },
-  America/Matamoros: {
-    Generic: heure du centre nord-américain,
-    Standard: heure normale du centre nord-américain,
-    Daylight: heure d’été du centre nord-américain
+  America/Nipigon: {
+    Generic: heure de l’Est nord-américain,
+    Standard: heure normale de l’Est nord-américain,
+    Daylight: heure d’été de l’Est nord-américain
   },
-  America/Indiana/Knox: {
-    Generic: heure du centre nord-américain,
-    Standard: heure normale du centre nord-américain,
-    Daylight: heure d’été du centre nord-américain
+  America/Nome: {
+    Generic: heure de l’Alaska,
+    Standard: heure normale de l’Alaska,
+    Daylight: heure d’été de l’Alaska
   },
-  America/Indiana/Tell_City: {
-    Generic: heure du centre nord-américain,
-    Standard: heure normale du centre nord-américain,
-    Daylight: heure d’été du centre nord-américain
-  },
-  America/Menominee: {
-    Generic: heure du centre nord-américain,
-    Standard: heure normale du centre nord-américain,
-    Daylight: heure d’été du centre nord-américain
+  America/Noronha: {
+    Generic: heure de Fernando de Noronha,
+    Standard: heure normale de Fernando de Noronha,
+    Daylight: heure d’été de Fernando de Noronha
   },
   America/North_Dakota/Beulah: {
     Generic: heure du centre nord-américain,
@@ -539,157 +874,17 @@
     Standard: heure normale du centre nord-américain,
     Daylight: heure d’été du centre nord-américain
   },
-  CST6CDT: {
-    Generic: heure du centre nord-américain,
-    Standard: heure normale du centre nord-américain,
-    Daylight: heure d’été du centre nord-américain
+  America/Nuuk: {
+    Generic: heure de l’Ouest du Groenland,
+    Standard: heure normale de l’Ouest du Groenland,
+    Daylight: heure d’été de l’Ouest du Groenland
   },
-  Pacific/Chatham: {
-    Generic: heure des îles Chatham,
-    Standard: heure normale des îles Chatham,
-    Daylight: heure d’été des îles Chatham
+  America/Ojinaga: {
+    Generic: heure des Rocheuses,
+    Standard: heure normale des Rocheuses,
+    Daylight: heure d’été des Rocheuses
   },
-  Asia/Shanghai: {
-    Generic: heure de la Chine,
-    Standard: heure normale de la Chine,
-    Daylight: heure d’été de Chine
-  },
-  Asia/Hong_Kong: {
-    Generic: heure de Hong Kong,
-    Standard: heure normale de Hong Kong,
-    Daylight: heure d’été de Hong Kong
-  },
-  Asia/Macau: {
-    Generic: heure de la Chine,
-    Standard: heure normale de la Chine,
-    Daylight: heure d’été de Chine
-  },
-  America/Havana: {
-    Generic: heure de Cuba,
-    Standard: heure normale de Cuba,
-    Daylight: heure d’été de Cuba
-  },
-  Etc/GMT+12: {
-    Generic: temps universel coordonné -12,
-    Standard: temps universel coordonné -12,
-    Daylight: temps universel coordonné -12
-  },
-  Africa/Nairobi: {
-    Generic: heure normale d’Afrique de l’Est,
-    Standard: heure normale d’Afrique de l’Est,
-    Daylight: heure normale d’Afrique de l’Est
-  },
-  Antarctica/Syowa: {
-    Generic: heure de Syowa,
-    Standard: heure de Syowa,
-    Daylight: heure de Syowa
-  },
-  Africa/Djibouti: {
-    Generic: heure normale d’Afrique de l’Est,
-    Standard: heure normale d’Afrique de l’Est,
-    Daylight: heure normale d’Afrique de l’Est
-  },
-  Africa/Asmera: {
-    Generic: heure normale d’Afrique de l’Est,
-    Standard: heure normale d’Afrique de l’Est,
-    Daylight: heure normale d’Afrique de l’Est
-  },
-  Africa/Addis_Ababa: {
-    Generic: heure normale d’Afrique de l’Est,
-    Standard: heure normale d’Afrique de l’Est,
-    Daylight: heure normale d’Afrique de l’Est
-  },
-  Indian/Comoro: {
-    Generic: heure normale d’Afrique de l’Est,
-    Standard: heure normale d’Afrique de l’Est,
-    Daylight: heure normale d’Afrique de l’Est
-  },
-  Indian/Antananarivo: {
-    Generic: heure normale d’Afrique de l’Est,
-    Standard: heure normale d’Afrique de l’Est,
-    Daylight: heure normale d’Afrique de l’Est
-  },
-  Africa/Mogadishu: {
-    Generic: heure normale d’Afrique de l’Est,
-    Standard: heure normale d’Afrique de l’Est,
-    Daylight: heure normale d’Afrique de l’Est
-  },
-  Africa/Dar_es_Salaam: {
-    Generic: heure normale d’Afrique de l’Est,
-    Standard: heure normale d’Afrique de l’Est,
-    Daylight: heure normale d’Afrique de l’Est
-  },
-  Africa/Kampala: {
-    Generic: heure normale d’Afrique de l’Est,
-    Standard: heure normale d’Afrique de l’Est,
-    Daylight: heure normale d’Afrique de l’Est
-  },
-  Indian/Mayotte: {
-    Generic: heure normale d’Afrique de l’Est,
-    Standard: heure normale d’Afrique de l’Est,
-    Daylight: heure normale d’Afrique de l’Est
-  },
-  Etc/GMT-3: {
-    Generic: temps universel coordonné +3,
-    Standard: temps universel coordonné +3,
-    Daylight: temps universel coordonné +3
-  },
-  Australia/Brisbane: {
-    Generic: heure de l’Est de l’Australie,
-    Standard: heure normale de l’Est de l’Australie,
-    Daylight: heure d’été de l’Est de l’Australie
-  },
-  Australia/Lindeman: {
-    Generic: heure de l’Est de l’Australie,
-    Standard: heure normale de l’Est de l’Australie,
-    Daylight: heure d’été de l’Est de l’Australie
-  },
-  Europe/Chisinau: {
-    Generic: heure d’Europe de l’Est,
-    Standard: heure normale d’Europe de l’Est,
-    Daylight: heure d’été d’Europe de l’Est
-  },
-  America/Sao_Paulo: {
-    Generic: heure de Brasilia,
-    Standard: heure normale de Brasilia,
-    Daylight: heure d’été de Brasilia
-  },
-  Pacific/Easter: {
-    Generic: heure de l’île de Pâques,
-    Standard: heure normale de l’île de Pâques,
-    Daylight: heure d’été de l’île de Pâques
-  },
-  America/Cancun: {
-    Generic: heure de l’Est nord-américain,
-    Standard: heure normale de l’Est nord-américain,
-    Daylight: heure d’été de l’Est nord-américain
-  },
-  America/New_York: {
-    Generic: heure de l’Est nord-américain,
-    Standard: heure normale de l’Est nord-américain,
-    Daylight: heure d’été de l’Est nord-américain
-  },
-  America/Nassau: {
-    Generic: heure de l’Est nord-américain,
-    Standard: heure normale de l’Est nord-américain,
-    Daylight: heure d’été de l’Est nord-américain
-  },
-  America/Toronto: {
-    Generic: heure de l’Est nord-américain,
-    Standard: heure normale de l’Est nord-américain,
-    Daylight: heure d’été de l’Est nord-américain
-  },
-  America/Iqaluit: {
-    Generic: heure de l’Est nord-américain,
-    Standard: heure normale de l’Est nord-américain,
-    Daylight: heure d’été de l’Est nord-américain
-  },
-  America/Montreal: {
-    Generic: heure de l’Est nord-américain,
-    Standard: heure normale de l’Est nord-américain,
-    Daylight: heure d’été de l’Est nord-américain
-  },
-  America/Nipigon: {
+  America/Panama: {
     Generic: heure de l’Est nord-américain,
     Standard: heure normale de l’Est nord-américain,
     Daylight: heure d’été de l’Est nord-américain
@@ -699,800 +894,130 @@
     Standard: heure normale de l’Est nord-américain,
     Daylight: heure d’été de l’Est nord-américain
   },
-  America/Thunder_Bay: {
-    Generic: heure de l’Est nord-américain,
-    Standard: heure normale de l’Est nord-américain,
-    Daylight: heure d’été de l’Est nord-américain
+  America/Paramaribo: {
+    Generic: heure du Suriname,
+    Standard: heure du Suriname,
+    Daylight: heure du Suriname
   },
-  America/Detroit: {
-    Generic: heure de l’Est nord-américain,
-    Standard: heure normale de l’Est nord-américain,
-    Daylight: heure d’été de l’Est nord-américain
-  },
-  America/Indiana/Petersburg: {
-    Generic: heure de l’Est nord-américain,
-    Standard: heure normale de l’Est nord-américain,
-    Daylight: heure d’été de l’Est nord-américain
-  },
-  America/Indiana/Vincennes: {
-    Generic: heure de l’Est nord-américain,
-    Standard: heure normale de l’Est nord-américain,
-    Daylight: heure d’été de l’Est nord-américain
-  },
-  America/Indiana/Winamac: {
-    Generic: heure de l’Est nord-américain,
-    Standard: heure normale de l’Est nord-américain,
-    Daylight: heure d’été de l’Est nord-américain
-  },
-  America/Kentucky/Monticello: {
-    Generic: heure de l’Est nord-américain,
-    Standard: heure normale de l’Est nord-américain,
-    Daylight: heure d’été de l’Est nord-américain
-  },
-  America/Louisville: {
-    Generic: heure de l’Est nord-américain,
-    Standard: heure normale de l’Est nord-américain,
-    Daylight: heure d’été de l’Est nord-américain
-  },
-  EST5EDT: {
-    Generic: heure de l’Est nord-américain,
-    Standard: heure normale de l’Est nord-américain,
-    Daylight: heure d’été de l’Est nord-américain
-  },
-  Africa/Cairo: {
-    Generic: heure d’Europe de l’Est,
-    Standard: heure normale d’Europe de l’Est,
-    Daylight: heure d’été d’Europe de l’Est
-  },
-  Asia/Yekaterinburg: {
-    Generic: heure : Ekaterinbourg,
-    Standard: Ekaterinbourg (heure standard),
-    Daylight: Ekaterinbourg (heure d’été)
-  },
-  Europe/Kiev: {
-    Generic: heure d’Europe de l’Est,
-    Standard: heure normale d’Europe de l’Est,
-    Daylight: heure d’été d’Europe de l’Est
-  },
-  Europe/Mariehamn: {
-    Generic: heure d’Europe de l’Est,
-    Standard: heure normale d’Europe de l’Est,
-    Daylight: heure d’été d’Europe de l’Est
-  },
-  Europe/Sofia: {
-    Generic: heure d’Europe de l’Est,
-    Standard: heure normale d’Europe de l’Est,
-    Daylight: heure d’été d’Europe de l’Est
-  },
-  Europe/Tallinn: {
-    Generic: heure d’Europe de l’Est,
-    Standard: heure normale d’Europe de l’Est,
-    Daylight: heure d’été d’Europe de l’Est
-  },
-  Europe/Helsinki: {
-    Generic: heure d’Europe de l’Est,
-    Standard: heure normale d’Europe de l’Est,
-    Daylight: heure d’été d’Europe de l’Est
-  },
-  Europe/Vilnius: {
-    Generic: heure d’Europe de l’Est,
-    Standard: heure normale d’Europe de l’Est,
-    Daylight: heure d’été d’Europe de l’Est
-  },
-  Europe/Riga: {
-    Generic: heure d’Europe de l’Est,
-    Standard: heure normale d’Europe de l’Est,
-    Daylight: heure d’été d’Europe de l’Est
-  },
-  Europe/Uzhgorod: {
-    Generic: heure d’Europe de l’Est,
-    Standard: heure normale d’Europe de l’Est,
-    Daylight: heure d’été d’Europe de l’Est
-  },
-  Europe/Zaporozhye: {
-    Generic: heure d’Europe de l’Est,
-    Standard: heure normale d’Europe de l’Est,
-    Daylight: heure d’été d’Europe de l’Est
-  },
-  Pacific/Fiji: {
-    Generic: heure des îles Fidji,
-    Standard: heure normale des îles Fidji,
-    Daylight: heure d’été des îles Fidji
-  },
-  Europe/London: {
-    Generic: heure : Royaume-Uni,
-    Standard: heure moyenne de Greenwich,
-    Daylight: heure d’été britannique
-  },
-  Atlantic/Canary: {
-    Generic: heure d’Europe de l’Ouest,
-    Standard: heure normale d’Europe de l’Ouest,
-    Daylight: heure d’été d’Europe de l’Ouest
-  },
-  Atlantic/Faeroe: {
-    Generic: heure d’Europe de l’Ouest,
-    Standard: heure normale d’Europe de l’Ouest,
-    Daylight: heure d’été d’Europe de l’Ouest
-  },
-  Europe/Guernsey: {
-    Generic: heure moyenne de Greenwich,
-    Standard: heure moyenne de Greenwich,
-    Daylight: heure moyenne de Greenwich
-  },
-  Europe/Dublin: {
-    Generic: heure : Irlande,
-    Standard: heure moyenne de Greenwich,
-    Daylight: heure d’été irlandaise
-  },
-  Europe/Isle_of_Man: {
-    Generic: heure moyenne de Greenwich,
-    Standard: heure moyenne de Greenwich,
-    Daylight: heure moyenne de Greenwich
-  },
-  Europe/Jersey: {
-    Generic: heure moyenne de Greenwich,
-    Standard: heure moyenne de Greenwich,
-    Daylight: heure moyenne de Greenwich
-  },
-  Europe/Lisbon: {
-    Generic: heure d’Europe de l’Ouest,
-    Standard: heure normale d’Europe de l’Ouest,
-    Daylight: heure d’été d’Europe de l’Ouest
-  },
-  Atlantic/Madeira: {
-    Generic: heure d’Europe de l’Ouest,
-    Standard: heure normale d’Europe de l’Ouest,
-    Daylight: heure d’été d’Europe de l’Ouest
-  },
-  Europe/Bucharest: {
-    Generic: heure d’Europe de l’Est,
-    Standard: heure normale d’Europe de l’Est,
-    Daylight: heure d’été d’Europe de l’Est
-  },
-  Asia/Nicosia: {
-    Generic: heure d’Europe de l’Est,
-    Standard: heure normale d’Europe de l’Est,
-    Daylight: heure d’été d’Europe de l’Est
-  },
-  Asia/Famagusta: {
-    Generic: heure d’Europe de l’Est,
-    Standard: heure normale d’Europe de l’Est,
-    Daylight: heure d’été d’Europe de l’Est
-  },
-  Europe/Athens: {
-    Generic: heure d’Europe de l’Est,
-    Standard: heure normale d’Europe de l’Est,
-    Daylight: heure d’été d’Europe de l’Est
-  },
-  Asia/Tbilisi: {
-    Generic: heure de la Géorgie,
-    Standard: heure normale de la Géorgie,
-    Daylight: heure d’été de Géorgie
-  },
-  America/Godthab: {
-    Generic: heure de l’Ouest du Groenland,
-    Standard: heure normale de l’Ouest du Groenland,
-    Daylight: heure d’été de l’Ouest du Groenland
-  },
-  Atlantic/Reykjavik: {
-    Generic: heure moyenne de Greenwich,
-    Standard: heure moyenne de Greenwich,
-    Daylight: heure moyenne de Greenwich
-  },
-  Atlantic/St_Helena: {
-    Generic: heure moyenne de Greenwich,
-    Standard: heure moyenne de Greenwich,
-    Daylight: heure moyenne de Greenwich
-  },
-  Africa/Ouagadougou: {
-    Generic: heure moyenne de Greenwich,
-    Standard: heure moyenne de Greenwich,
-    Daylight: heure moyenne de Greenwich
-  },
-  Africa/Abidjan: {
-    Generic: heure moyenne de Greenwich,
-    Standard: heure moyenne de Greenwich,
-    Daylight: heure moyenne de Greenwich
-  },
-  Africa/Accra: {
-    Generic: heure moyenne de Greenwich,
-    Standard: heure moyenne de Greenwich,
-    Daylight: heure moyenne de Greenwich
-  },
-  America/Danmarkshavn: {
-    Generic: heure moyenne de Greenwich,
-    Standard: heure moyenne de Greenwich,
-    Daylight: heure moyenne de Greenwich
-  },
-  Africa/Banjul: {
-    Generic: heure moyenne de Greenwich,
-    Standard: heure moyenne de Greenwich,
-    Daylight: heure moyenne de Greenwich
-  },
-  Africa/Conakry: {
-    Generic: heure moyenne de Greenwich,
-    Standard: heure moyenne de Greenwich,
-    Daylight: heure moyenne de Greenwich
-  },
-  Africa/Bissau: {
-    Generic: heure moyenne de Greenwich,
-    Standard: heure moyenne de Greenwich,
-    Daylight: heure moyenne de Greenwich
-  },
-  Africa/Monrovia: {
-    Generic: heure moyenne de Greenwich,
-    Standard: heure moyenne de Greenwich,
-    Daylight: heure moyenne de Greenwich
-  },
-  Africa/Bamako: {
-    Generic: heure moyenne de Greenwich,
-    Standard: heure moyenne de Greenwich,
-    Daylight: heure moyenne de Greenwich
-  },
-  Africa/Nouakchott: {
-    Generic: heure moyenne de Greenwich,
-    Standard: heure moyenne de Greenwich,
-    Daylight: heure moyenne de Greenwich
-  },
-  Africa/Freetown: {
-    Generic: heure moyenne de Greenwich,
-    Standard: heure moyenne de Greenwich,
-    Daylight: heure moyenne de Greenwich
-  },
-  Africa/Dakar: {
-    Generic: heure moyenne de Greenwich,
-    Standard: heure moyenne de Greenwich,
-    Daylight: heure moyenne de Greenwich
-  },
-  Africa/Lome: {
-    Generic: heure moyenne de Greenwich,
-    Standard: heure moyenne de Greenwich,
-    Daylight: heure moyenne de Greenwich
+  America/Phoenix: {
+    Generic: heure des Rocheuses,
+    Standard: heure normale des Rocheuses,
+    Daylight: heure d’été des Rocheuses
   },
   America/Port-au-Prince: {
     Generic: heure de l’Est nord-américain,
     Standard: heure normale de l’Est nord-américain,
     Daylight: heure d’été de l’Est nord-américain
   },
-  Pacific/Honolulu: {
-    Generic: heure d’Hawaï - Aléoutiennes,
-    Standard: heure normale d’Hawaï - Aléoutiennes,
-    Daylight: heure d’été d’Hawaï - Aléoutiennes
-  },
-  Pacific/Rarotonga: {
-    Generic: heure des îles Cook,
-    Standard: heure normale des îles Cook,
-    Daylight: heure d’été des îles Cook
-  },
-  Pacific/Tahiti: {
-    Generic: heure de Tahiti,
-    Standard: heure de Tahiti,
-    Daylight: heure de Tahiti
-  },
-  Pacific/Johnston: {
-    Generic: heure d’Hawaï - Aléoutiennes,
-    Standard: heure normale d’Hawaï - Aléoutiennes,
-    Daylight: heure d’été d’Hawaï - Aléoutiennes
-  },
-  Etc/GMT+10: {
-    Generic: temps universel coordonné -10,
-    Standard: temps universel coordonné -10,
-    Daylight: temps universel coordonné -10
-  },
-  Asia/Calcutta: {
-    Generic: heure de l’Inde,
-    Standard: heure de l’Inde,
-    Daylight: heure de l’Inde
-  },
-  Asia/Tehran: {
-    Generic: heure de l’Iran,
-    Standard: heure normale d’Iran,
-    Daylight: heure d’été d’Iran
-  },
-  Asia/Jerusalem: {
-    Generic: heure d’Israël,
-    Standard: heure normale d’Israël,
-    Daylight: heure d’été d’Israël
-  },
-  Asia/Amman: {
-    Generic: heure d’Europe de l’Est,
-    Standard: heure normale d’Europe de l’Est,
-    Daylight: heure d’été d’Europe de l’Est
-  },
-  Europe/Kaliningrad: {
-    Generic: heure : Kaliningrad,
-    Standard: Kaliningrad (heure standard),
-    Daylight: Kaliningrad (heure d’été)
-  },
-  Asia/Seoul: {
-    Generic: heure de la Corée,
-    Standard: heure normale de la Corée,
-    Daylight: heure d’été de Corée
-  },
-  Africa/Tripoli: {
-    Generic: heure d’Europe de l’Est,
-    Standard: heure normale d’Europe de l’Est,
-    Daylight: heure d’été d’Europe de l’Est
-  },
-  Pacific/Kiritimati: {
-    Generic: heure des îles de la Ligne,
-    Standard: heure des îles de la Ligne,
-    Daylight: heure des îles de la Ligne
-  },
-  Etc/GMT-14: {
-    Generic: temps universel coordonné +14,
-    Standard: temps universel coordonné +14,
-    Daylight: temps universel coordonné +14
-  },
-  Australia/Lord_Howe: {
-    Generic: heure de Lord Howe,
-    Standard: heure normale de Lord Howe,
-    Daylight: heure d’été de Lord Howe
-  },
-  Asia/Magadan: {
-    Generic: heure : Magadan,
-    Standard: Magadan (heure standard),
-    Daylight: Magadan (heure d’été)
-  },
-  America/Punta_Arenas: {
-    Generic: heure du Chili,
-    Standard: heure normale du Chili,
-    Daylight: heure d’été du Chili
-  },
-  Pacific/Marquesas: {
-    Generic: heure des îles Marquises,
-    Standard: heure des îles Marquises,
-    Daylight: heure des îles Marquises
-  },
-  Indian/Mauritius: {
-    Generic: heure de Maurice,
-    Standard: heure normale de Maurice,
-    Daylight: heure d’été de Maurice
-  },
-  Indian/Reunion: {
-    Generic: heure de La Réunion,
-    Standard: heure de La Réunion,
-    Daylight: heure de La Réunion
-  },
-  Indian/Mahe: {
-    Generic: heure des Seychelles,
-    Standard: heure des Seychelles,
-    Daylight: heure des Seychelles
-  },
-  Asia/Beirut: {
-    Generic: heure d’Europe de l’Est,
-    Standard: heure normale d’Europe de l’Est,
-    Daylight: heure d’été d’Europe de l’Est
-  },
-  America/Montevideo: {
-    Generic: heure de l’Uruguay,
-    Standard: heure normale de l’Uruguay,
-    Daylight: heure d’été de l’Uruguay
-  },
-  Africa/Casablanca: {
-    Generic: heure d’Europe de l’Ouest,
-    Standard: heure normale d’Europe de l’Ouest,
-    Daylight: heure d’été d’Europe de l’Ouest
-  },
-  Africa/El_Aaiun: {
-    Generic: heure d’Europe de l’Ouest,
-    Standard: heure normale d’Europe de l’Ouest,
-    Daylight: heure d’été d’Europe de l’Ouest
-  },
-  America/Chihuahua: {
-    Generic: heure du Pacifique mexicain,
-    Standard: heure normale du Pacifique mexicain,
-    Daylight: heure d’été du Pacifique mexicain
-  },
-  America/Mazatlan: {
-    Generic: heure du Pacifique mexicain,
-    Standard: heure normale du Pacifique mexicain,
-    Daylight: heure d’été du Pacifique mexicain
-  },
-  America/Denver: {
-    Generic: heure des Rocheuses,
-    Standard: heure normale des Rocheuses,
-    Daylight: heure d’été des Rocheuses
-  },
-  America/Edmonton: {
-    Generic: heure des Rocheuses,
-    Standard: heure normale des Rocheuses,
-    Daylight: heure d’été des Rocheuses
-  },
-  America/Cambridge_Bay: {
-    Generic: heure des Rocheuses,
-    Standard: heure normale des Rocheuses,
-    Daylight: heure d’été des Rocheuses
-  },
-  America/Inuvik: {
-    Generic: heure des Rocheuses,
-    Standard: heure normale des Rocheuses,
-    Daylight: heure d’été des Rocheuses
-  },
-  America/Yellowknife: {
-    Generic: heure des Rocheuses,
-    Standard: heure normale des Rocheuses,
-    Daylight: heure d’été des Rocheuses
-  },
-  America/Ojinaga: {
-    Generic: heure des Rocheuses,
-    Standard: heure normale des Rocheuses,
-    Daylight: heure d’été des Rocheuses
-  },
-  America/Boise: {
-    Generic: heure des Rocheuses,
-    Standard: heure normale des Rocheuses,
-    Daylight: heure d’été des Rocheuses
-  },
-  MST7MDT: {
-    Generic: heure des Rocheuses,
-    Standard: heure normale des Rocheuses,
-    Daylight: heure d’été des Rocheuses
-  },
-  Asia/Rangoon: {
-    Generic: heure du Myanmar,
-    Standard: heure du Myanmar,
-    Daylight: heure du Myanmar
-  },
-  Indian/Cocos: {
-    Generic: heure des îles Cocos,
-    Standard: heure des îles Cocos,
-    Daylight: heure des îles Cocos
-  },
-  Asia/Novosibirsk: {
-    Generic: heure : Novossibirsk,
-    Standard: Novossibirsk (heure standard),
-    Daylight: Novossibirsk (heure d’été)
-  },
-  Africa/Windhoek: {
-    Generic: heure normale d’Afrique centrale,
-    Standard: heure normale d’Afrique centrale,
-    Daylight: heure normale d’Afrique centrale
-  },
-  Asia/Katmandu: {
-    Generic: heure du Népal,
-    Standard: heure du Népal,
-    Daylight: heure du Népal
-  },
-  Pacific/Auckland: {
-    Generic: heure de la Nouvelle-Zélande,
-    Standard: heure normale de la Nouvelle-Zélande,
-    Daylight: heure d’été de la Nouvelle-Zélande
-  },
-  Antarctica/McMurdo: {
-    Generic: heure de la Nouvelle-Zélande,
-    Standard: heure normale de la Nouvelle-Zélande,
-    Daylight: heure d’été de la Nouvelle-Zélande
-  },
-  America/St_Johns: {
-    Generic: heure de Terre-Neuve,
-    Standard: heure normale de Terre-Neuve,
-    Daylight: heure d’été de Terre-Neuve
-  },
-  Pacific/Norfolk: {
-    Generic: heure de l’île Norfolk,
-    Standard: heure normale de l’île Norfolk,
-    Daylight: heure d’été de l’île Norfolk
-  },
-  Asia/Irkutsk: {
-    Generic: heure : Irkoutsk,
-    Standard: Irkoutsk (heure standard),
-    Daylight: Irkoutsk (heure d’été)
-  },
-  Asia/Krasnoyarsk: {
-    Generic: heure : Krasnoïarsk,
-    Standard: Krasnoïarsk (heure standard),
-    Daylight: Krasnoïarsk (heure d’été)
-  },
-  Asia/Novokuznetsk: {
-    Generic: heure : Novokuznetsk,
-    Standard: Novokuznetsk (heure standard),
-    Daylight: Novokuznetsk (heure d’été)
-  },
-  Asia/Pyongyang: {
-    Generic: heure de la Corée,
-    Standard: heure normale de la Corée,
-    Daylight: heure d’été de Corée
-  },
-  Asia/Omsk: {
-    Generic: heure : Omsk,
-    Standard: Omsk (heure standard),
-    Daylight: Omsk (heure d’été)
-  },
-  America/Santiago: {
-    Generic: heure du Chili,
-    Standard: heure normale du Chili,
-    Daylight: heure d’été du Chili
-  },
-  America/Tijuana: {
-    Generic: heure du Pacifique nord-américain,
-    Standard: heure normale du Pacifique nord-américain,
-    Daylight: heure d’été du Pacifique nord-américain
-  },
-  America/Santa_Isabel: {
-    Generic: heure du Nord-Ouest du Mexique,
-    Standard: heure normale du Nord-Ouest du Mexique,
-    Daylight: heure d’été du Nord-Ouest du Mexique
-  },
-  America/Los_Angeles: {
-    Generic: heure du Pacifique nord-américain,
-    Standard: heure normale du Pacifique nord-américain,
-    Daylight: heure d’été du Pacifique nord-américain
-  },
-  America/Vancouver: {
-    Generic: heure du Pacifique nord-américain,
-    Standard: heure normale du Pacifique nord-américain,
-    Daylight: heure d’été du Pacifique nord-américain
-  },
-  PST8PDT: {
-    Generic: heure du Pacifique nord-américain,
-    Standard: heure normale du Pacifique nord-américain,
-    Daylight: heure d’été du Pacifique nord-américain
-  },
-  Asia/Karachi: {
-    Generic: heure du Pakistan,
-    Standard: heure normale du Pakistan,
-    Daylight: heure d’été du Pakistan
-  },
-  America/Asuncion: {
-    Generic: heure du Paraguay,
-    Standard: heure normale du Paraguay,
-    Daylight: heure d’été du Paraguay
-  },
-  Asia/Qyzylorda: {
-    Generic: heure de l’Ouest du Kazakhstan,
-    Standard: heure de l’Ouest du Kazakhstan,
-    Daylight: heure de l’Ouest du Kazakhstan
-  },
-  Europe/Paris: {
-    Generic: heure d’Europe centrale,
-    Standard: heure normale d’Europe centrale,
-    Daylight: heure d’été d’Europe centrale
-  },
-  Europe/Brussels: {
-    Generic: heure d’Europe centrale,
-    Standard: heure normale d’Europe centrale,
-    Daylight: heure d’été d’Europe centrale
-  },
-  Europe/Copenhagen: {
-    Generic: heure d’Europe centrale,
-    Standard: heure normale d’Europe centrale,
-    Daylight: heure d’été d’Europe centrale
-  },
-  Africa/Ceuta: {
-    Generic: heure d’Europe centrale,
-    Standard: heure normale d’Europe centrale,
-    Daylight: heure d’été d’Europe centrale
-  },
-  Europe/Madrid: {
-    Generic: heure d’Europe centrale,
-    Standard: heure normale d’Europe centrale,
-    Daylight: heure d’été d’Europe centrale
-  },
-  Asia/Srednekolymsk: {
-    Generic: heure : Srednekolymsk,
-    Standard: Srednekolymsk (heure standard),
-    Daylight: Srednekolymsk (heure d’été)
-  },
-  Asia/Kamchatka: {
-    Generic: heure : Kamtchatka,
-    Standard: Kamtchatka (heure standard),
-    Daylight: Kamtchatka (heure d’été)
-  },
-  Asia/Anadyr: {
-    Generic: heure : Anadyr,
-    Standard: Anadyr (heure standard),
-    Daylight: Anadyr (heure d’été)
-  },
-  Europe/Samara: {
-    Generic: heure : Samara,
-    Standard: Samara (heure standard),
-    Daylight: Samara (heure d’été)
-  },
-  Europe/Moscow: {
-    Generic: heure : Moscou,
-    Standard: Moscou (heure standard),
-    Daylight: Moscou (heure d’été)
-  },
-  Europe/Kirov: {
-    Generic: heure : Kirov,
-    Standard: Kirov (heure standard),
-    Daylight: Kirov (heure d’été)
-  },
-  Europe/Simferopol: {
-    Generic: heure de Moscou,
-    Standard: heure normale de Moscou,
-    Daylight: heure d’été de Moscou
-  },
-  America/Cayenne: {
-    Generic: heure de la Guyane française,
-    Standard: heure de la Guyane française,
-    Daylight: heure de la Guyane française
-  },
-  Antarctica/Rothera: {
-    Generic: heure de Rothera,
-    Standard: heure de Rothera,
-    Daylight: heure de Rothera
-  },
-  Antarctica/Palmer: {
-    Generic: heure du Chili,
-    Standard: heure normale du Chili,
-    Daylight: heure d’été du Chili
-  },
-  America/Fortaleza: {
-    Generic: heure de Brasilia,
-    Standard: heure normale de Brasilia,
-    Daylight: heure d’été de Brasilia
-  },
-  America/Belem: {
-    Generic: heure de Brasilia,
-    Standard: heure normale de Brasilia,
-    Daylight: heure d’été de Brasilia
-  },
-  America/Maceio: {
-    Generic: heure de Brasilia,
-    Standard: heure normale de Brasilia,
-    Daylight: heure d’été de Brasilia
-  },
-  America/Recife: {
-    Generic: heure de Brasilia,
-    Standard: heure normale de Brasilia,
-    Daylight: heure d’été de Brasilia
-  },
-  America/Santarem: {
-    Generic: heure de Brasilia,
-    Standard: heure normale de Brasilia,
-    Daylight: heure d’été de Brasilia
-  },
-  Atlantic/Stanley: {
-    Generic: heure des îles Malouines,
-    Standard: heure normale des îles Malouines,
-    Daylight: heure d’été des îles Malouines
-  },
-  America/Paramaribo: {
-    Generic: heure du Suriname,
-    Standard: heure du Suriname,
-    Daylight: heure du Suriname
-  },
-  Etc/GMT+3: {
-    Generic: temps universel coordonné -3,
-    Standard: temps universel coordonné -3,
-    Daylight: temps universel coordonné -3
-  },
-  America/Bogota: {
-    Generic: heure de Colombie,
-    Standard: heure normale de Colombie,
-    Daylight: heure d’été de Colombie
-  },
-  America/Rio_Branco: {
+  America/Port_of_Spain: {
+    Generic: heure de l’Atlantique,
+    Standard: heure normale de l’Atlantique,
+    Daylight: heure d’été de l’Atlantique
+  },
+  America/Porto_Acre: {
     Generic: heure de l’Acre,
     Standard: heure normale de l’Acre,
     Daylight: heure d’été de l’Acre
-  },
-  America/Eirunepe: {
-    Generic: heure de l’Acre,
-    Standard: heure normale de l’Acre,
-    Daylight: heure d’été de l’Acre
-  },
-  America/Coral_Harbour: {
-    Generic: heure de l’Est nord-américain,
-    Standard: heure normale de l’Est nord-américain,
-    Daylight: heure d’été de l’Est nord-américain
-  },
-  America/Guayaquil: {
-    Generic: heure de l’Équateur,
-    Standard: heure de l’Équateur,
-    Daylight: heure de l’Équateur
-  },
-  America/Jamaica: {
-    Generic: heure de l’Est nord-américain,
-    Standard: heure normale de l’Est nord-américain,
-    Daylight: heure d’été de l’Est nord-américain
-  },
-  America/Cayman: {
-    Generic: heure de l’Est nord-américain,
-    Standard: heure normale de l’Est nord-américain,
-    Daylight: heure d’été de l’Est nord-américain
-  },
-  America/Panama: {
-    Generic: heure de l’Est nord-américain,
-    Standard: heure normale de l’Est nord-américain,
-    Daylight: heure d’été de l’Est nord-américain
-  },
-  America/Lima: {
-    Generic: heure du Pérou,
-    Standard: heure normale du Pérou,
-    Daylight: heure d’été du Pérou
-  },
-  Etc/GMT+5: {
-    Generic: temps universel coordonné -5,
-    Standard: temps universel coordonné -5,
-    Daylight: temps universel coordonné -5
-  },
-  America/La_Paz: {
-    Generic: heure de Bolivie,
-    Standard: heure de Bolivie,
-    Daylight: heure de Bolivie
-  },
-  America/Antigua: {
-    Generic: heure de l’Atlantique,
-    Standard: heure normale de l’Atlantique,
-    Daylight: heure d’été de l’Atlantique
-  },
-  America/Anguilla: {
-    Generic: heure de l’Atlantique,
-    Standard: heure normale de l’Atlantique,
-    Daylight: heure d’été de l’Atlantique
-  },
-  America/Aruba: {
-    Generic: heure de l’Atlantique,
-    Standard: heure normale de l’Atlantique,
-    Daylight: heure d’été de l’Atlantique
-  },
-  America/Barbados: {
-    Generic: heure de l’Atlantique,
-    Standard: heure normale de l’Atlantique,
-    Daylight: heure d’été de l’Atlantique
-  },
-  America/St_Barthelemy: {
-    Generic: heure de l’Atlantique,
-    Standard: heure normale de l’Atlantique,
-    Daylight: heure d’été de l’Atlantique
-  },
-  America/Kralendijk: {
-    Generic: heure de l’Atlantique,
-    Standard: heure normale de l’Atlantique,
-    Daylight: heure d’été de l’Atlantique
-  },
-  America/Manaus: {
-    Generic: heure de l’Amazonie,
-    Standard: heure normale de l’Amazonie,
-    Daylight: heure d’été de l’Amazonie
-  },
-  America/Boa_Vista: {
-    Generic: heure de l’Amazonie,
-    Standard: heure normale de l’Amazonie,
-    Daylight: heure d’été de l’Amazonie
   },
   America/Porto_Velho: {
     Generic: heure de l’Amazonie,
     Standard: heure normale de l’Amazonie,
     Daylight: heure d’été de l’Amazonie
   },
-  America/Blanc-Sablon: {
+  America/Puerto_Rico: {
     Generic: heure de l’Atlantique,
     Standard: heure normale de l’Atlantique,
     Daylight: heure d’été de l’Atlantique
   },
-  America/Curacao: {
-    Generic: heure de l’Atlantique,
-    Standard: heure normale de l’Atlantique,
-    Daylight: heure d’été de l’Atlantique
+  America/Punta_Arenas: {
+    Generic: heure du Chili,
+    Standard: heure normale du Chili,
+    Daylight: heure d’été du Chili
   },
-  America/Dominica: {
-    Generic: heure de l’Atlantique,
-    Standard: heure normale de l’Atlantique,
-    Daylight: heure d’été de l’Atlantique
+  America/Rainy_River: {
+    Generic: heure du centre nord-américain,
+    Standard: heure normale du centre nord-américain,
+    Daylight: heure d’été du centre nord-américain
+  },
+  America/Rankin_Inlet: {
+    Generic: heure du centre nord-américain,
+    Standard: heure normale du centre nord-américain,
+    Daylight: heure d’été du centre nord-américain
+  },
+  America/Recife: {
+    Generic: heure de Brasilia,
+    Standard: heure normale de Brasilia,
+    Daylight: heure d’été de Brasilia
+  },
+  America/Regina: {
+    Generic: heure du centre nord-américain,
+    Standard: heure normale du centre nord-américain,
+    Daylight: heure d’été du centre nord-américain
+  },
+  America/Resolute: {
+    Generic: heure du centre nord-américain,
+    Standard: heure normale du centre nord-américain,
+    Daylight: heure d’été du centre nord-américain
+  },
+  America/Rio_Branco: {
+    Generic: heure de l’Acre,
+    Standard: heure normale de l’Acre,
+    Daylight: heure d’été de l’Acre
+  },
+  America/Rosario: {
+    Generic: heure de l’Argentine,
+    Standard: heure normale d’Argentine,
+    Daylight: heure d’été de l’Argentine
+  },
+  America/Santa_Isabel: {
+    Generic: heure du Nord-Ouest du Mexique,
+    Standard: heure normale du Nord-Ouest du Mexique,
+    Daylight: heure d’été du Nord-Ouest du Mexique
+  },
+  America/Santarem: {
+    Generic: heure de Brasilia,
+    Standard: heure normale de Brasilia,
+    Daylight: heure d’été de Brasilia
+  },
+  America/Santiago: {
+    Generic: heure du Chili,
+    Standard: heure normale du Chili,
+    Daylight: heure d’été du Chili
   },
   America/Santo_Domingo: {
     Generic: heure de l’Atlantique,
     Standard: heure normale de l’Atlantique,
     Daylight: heure d’été de l’Atlantique
   },
-  America/Grenada: {
+  America/Sao_Paulo: {
+    Generic: heure de Brasilia,
+    Standard: heure normale de Brasilia,
+    Daylight: heure d’été de Brasilia
+  },
+  America/Scoresbysund: {
+    Generic: heure de l’Est du Groenland,
+    Standard: heure normale de l’Est du Groenland,
+    Daylight: heure d’été de l’Est du Groenland
+  },
+  America/Shiprock: {
+    Generic: heure des Rocheuses,
+    Standard: heure normale des Rocheuses,
+    Daylight: heure d’été des Rocheuses
+  },
+  America/Sitka: {
+    Generic: heure de l’Alaska,
+    Standard: heure normale de l’Alaska,
+    Daylight: heure d’été de l’Alaska
+  },
+  America/St_Barthelemy: {
     Generic: heure de l’Atlantique,
     Standard: heure normale de l’Atlantique,
     Daylight: heure d’été de l’Atlantique
   },
-  America/Guadeloupe: {
-    Generic: heure de l’Atlantique,
-    Standard: heure normale de l’Atlantique,
-    Daylight: heure d’été de l’Atlantique
-  },
-  America/Guyana: {
-    Generic: heure du Guyana,
-    Standard: heure du Guyana,
-    Daylight: heure du Guyana
+  America/St_Johns: {
+    Generic: heure de Terre-Neuve,
+    Standard: heure normale de Terre-Neuve,
+    Daylight: heure d’été de Terre-Neuve
   },
   America/St_Kitts: {
     Generic: heure de l’Atlantique,
@@ -1504,32 +1029,7 @@
     Standard: heure normale de l’Atlantique,
     Daylight: heure d’été de l’Atlantique
   },
-  America/Marigot: {
-    Generic: heure de l’Atlantique,
-    Standard: heure normale de l’Atlantique,
-    Daylight: heure d’été de l’Atlantique
-  },
-  America/Martinique: {
-    Generic: heure de l’Atlantique,
-    Standard: heure normale de l’Atlantique,
-    Daylight: heure d’été de l’Atlantique
-  },
-  America/Montserrat: {
-    Generic: heure de l’Atlantique,
-    Standard: heure normale de l’Atlantique,
-    Daylight: heure d’été de l’Atlantique
-  },
-  America/Puerto_Rico: {
-    Generic: heure de l’Atlantique,
-    Standard: heure normale de l’Atlantique,
-    Daylight: heure d’été de l’Atlantique
-  },
-  America/Lower_Princes: {
-    Generic: heure de l’Atlantique,
-    Standard: heure normale de l’Atlantique,
-    Daylight: heure d’été de l’Atlantique
-  },
-  America/Port_of_Spain: {
+  America/St_Thomas: {
     Generic: heure de l’Atlantique,
     Standard: heure normale de l’Atlantique,
     Daylight: heure d’été de l’Atlantique
@@ -1539,655 +1039,155 @@
     Standard: heure normale de l’Atlantique,
     Daylight: heure d’été de l’Atlantique
   },
+  America/Swift_Current: {
+    Generic: heure du centre nord-américain,
+    Standard: heure normale du centre nord-américain,
+    Daylight: heure d’été du centre nord-américain
+  },
+  America/Tegucigalpa: {
+    Generic: heure du centre nord-américain,
+    Standard: heure normale du centre nord-américain,
+    Daylight: heure d’été du centre nord-américain
+  },
+  America/Thule: {
+    Generic: heure de l’Atlantique,
+    Standard: heure normale de l’Atlantique,
+    Daylight: heure d’été de l’Atlantique
+  },
+  America/Thunder_Bay: {
+    Generic: heure de l’Est nord-américain,
+    Standard: heure normale de l’Est nord-américain,
+    Daylight: heure d’été de l’Est nord-américain
+  },
+  America/Tijuana: {
+    Generic: heure du Pacifique nord-américain,
+    Standard: heure normale du Pacifique nord-américain,
+    Daylight: heure d’été du Pacifique nord-américain
+  },
+  America/Toronto: {
+    Generic: heure de l’Est nord-américain,
+    Standard: heure normale de l’Est nord-américain,
+    Daylight: heure d’été de l’Est nord-américain
+  },
   America/Tortola: {
     Generic: heure de l’Atlantique,
     Standard: heure normale de l’Atlantique,
     Daylight: heure d’été de l’Atlantique
   },
-  America/St_Thomas: {
+  America/Vancouver: {
+    Generic: heure du Pacifique nord-américain,
+    Standard: heure normale du Pacifique nord-américain,
+    Daylight: heure d’été du Pacifique nord-américain
+  },
+  America/Virgin: {
     Generic: heure de l’Atlantique,
     Standard: heure normale de l’Atlantique,
     Daylight: heure d’été de l’Atlantique
   },
-  Etc/GMT+4: {
-    Generic: temps universel coordonné -4,
-    Standard: temps universel coordonné -4,
-    Daylight: temps universel coordonné -4
+  America/Whitehorse: {
+    Generic: heure normale du Yukon,
+    Standard: heure normale du Yukon,
+    Daylight: heure normale du Yukon
   },
-  Asia/Bangkok: {
-    Generic: heure d’Indochine,
-    Standard: heure d’Indochine,
-    Daylight: heure d’Indochine
+  America/Winnipeg: {
+    Generic: heure du centre nord-américain,
+    Standard: heure normale du centre nord-américain,
+    Daylight: heure d’été du centre nord-américain
+  },
+  America/Yakutat: {
+    Generic: heure de l’Alaska,
+    Standard: heure normale de l’Alaska,
+    Daylight: heure d’été de l’Alaska
+  },
+  America/Yellowknife: {
+    Generic: heure des Rocheuses,
+    Standard: heure normale des Rocheuses,
+    Daylight: heure d’été des Rocheuses
+  },
+  Antarctica/Casey: {
+    Generic: heure de Casey,
+    Standard: heure de Casey,
+    Daylight: heure de Casey
   },
   Antarctica/Davis: {
     Generic: heure de Davis,
     Standard: heure de Davis,
     Daylight: heure de Davis
   },
-  Indian/Christmas: {
-    Generic: heure de l’île Christmas,
-    Standard: heure de l’île Christmas,
-    Daylight: heure de l’île Christmas
-  },
-  Asia/Jakarta: {
-    Generic: heure de l’Ouest indonésien,
-    Standard: heure de l’Ouest indonésien,
-    Daylight: heure de l’Ouest indonésien
-  },
-  Asia/Pontianak: {
-    Generic: heure de l’Ouest indonésien,
-    Standard: heure de l’Ouest indonésien,
-    Daylight: heure de l’Ouest indonésien
-  },
-  Asia/Phnom_Penh: {
-    Generic: heure d’Indochine,
-    Standard: heure d’Indochine,
-    Daylight: heure d’Indochine
-  },
-  Asia/Vientiane: {
-    Generic: heure d’Indochine,
-    Standard: heure d’Indochine,
-    Daylight: heure d’Indochine
-  },
-  Asia/Saigon: {
-    Generic: heure d’Indochine,
-    Standard: heure d’Indochine,
-    Daylight: heure d’Indochine
-  },
-  Etc/GMT-7: {
-    Generic: temps universel coordonné +7,
-    Standard: temps universel coordonné +7,
-    Daylight: temps universel coordonné +7
-  },
-  America/Miquelon: {
-    Generic: heure de Saint-Pierre-et-Miquelon,
-    Standard: heure normale de Saint-Pierre-et-Miquelon,
-    Daylight: heure d’été de Saint-Pierre-et-Miquelon
-  },
-  Asia/Sakhalin: {
-    Generic: heure : Sakhaline,
-    Standard: Sakhaline (heure standard),
-    Daylight: Sakhaline (heure d’été)
-  },
-  Pacific/Apia: {
-    Generic: heure d’Apia,
-    Standard: heure normale d’Apia,
-    Daylight: heure d’été d’Apia
-  },
-  Africa/Sao_Tome: {
-    Generic: heure moyenne de Greenwich,
-    Standard: heure moyenne de Greenwich,
-    Daylight: heure moyenne de Greenwich
-  },
-  Europe/Saratov: {
-    Generic: heure : Saratov,
-    Standard: Saratov (heure standard),
-    Daylight: Saratov (heure d’été)
-  },
-  Asia/Singapore: {
-    Generic: heure de Singapour,
-    Standard: heure de Singapour,
-    Daylight: heure de Singapour
-  },
-  Asia/Brunei: {
-    Generic: heure du Brunei,
-    Standard: heure du Brunei,
-    Daylight: heure du Brunei
-  },
-  Asia/Makassar: {
-    Generic: heure du Centre indonésien,
-    Standard: heure du Centre indonésien,
-    Daylight: heure du Centre indonésien
-  },
-  Asia/Kuala_Lumpur: {
-    Generic: heure de la Malaisie,
-    Standard: heure de la Malaisie,
-    Daylight: heure de la Malaisie
-  },
-  Asia/Kuching: {
-    Generic: heure de la Malaisie,
-    Standard: heure de la Malaisie,
-    Daylight: heure de la Malaisie
-  },
-  Asia/Manila: {
-    Generic: heure des Philippines,
-    Standard: heure normale des Philippines,
-    Daylight: heure d’été des Philippines
-  },
-  Etc/GMT-8: {
-    Generic: temps universel coordonné +8,
-    Standard: temps universel coordonné +8,
-    Daylight: temps universel coordonné +8
-  },
-  Africa/Johannesburg: {
-    Generic: heure normale d’Afrique méridionale,
-    Standard: heure normale d’Afrique méridionale,
-    Daylight: heure normale d’Afrique méridionale
-  },
-  Africa/Bujumbura: {
-    Generic: heure normale d’Afrique centrale,
-    Standard: heure normale d’Afrique centrale,
-    Daylight: heure normale d’Afrique centrale
-  },
-  Africa/Gaborone: {
-    Generic: heure normale d’Afrique centrale,
-    Standard: heure normale d’Afrique centrale,
-    Daylight: heure normale d’Afrique centrale
-  },
-  Africa/Lubumbashi: {
-    Generic: heure normale d’Afrique centrale,
-    Standard: heure normale d’Afrique centrale,
-    Daylight: heure normale d’Afrique centrale
-  },
-  Africa/Maseru: {
-    Generic: heure normale d’Afrique méridionale,
-    Standard: heure normale d’Afrique méridionale,
-    Daylight: heure normale d’Afrique méridionale
-  },
-  Africa/Blantyre: {
-    Generic: heure normale d’Afrique centrale,
-    Standard: heure normale d’Afrique centrale,
-    Daylight: heure normale d’Afrique centrale
-  },
-  Africa/Maputo: {
-    Generic: heure normale d’Afrique centrale,
-    Standard: heure normale d’Afrique centrale,
-    Daylight: heure normale d’Afrique centrale
-  },
-  Africa/Kigali: {
-    Generic: heure normale d’Afrique centrale,
-    Standard: heure normale d’Afrique centrale,
-    Daylight: heure normale d’Afrique centrale
-  },
-  Africa/Mbabane: {
-    Generic: heure normale d’Afrique méridionale,
-    Standard: heure normale d’Afrique méridionale,
-    Daylight: heure normale d’Afrique méridionale
-  },
-  Africa/Lusaka: {
-    Generic: heure normale d’Afrique centrale,
-    Standard: heure normale d’Afrique centrale,
-    Daylight: heure normale d’Afrique centrale
-  },
-  Africa/Harare: {
-    Generic: heure normale d’Afrique centrale,
-    Standard: heure normale d’Afrique centrale,
-    Daylight: heure normale d’Afrique centrale
-  },
-  Etc/GMT-2: {
-    Generic: temps universel coordonné +2,
-    Standard: temps universel coordonné +2,
-    Daylight: temps universel coordonné +2
-  },
-  Africa/Juba: {
-    Generic: heure normale d’Afrique centrale,
-    Standard: heure normale d’Afrique centrale,
-    Daylight: heure normale d’Afrique centrale
-  },
-  Asia/Colombo: {
-    Generic: heure de l’Inde,
-    Standard: heure de l’Inde,
-    Daylight: heure de l’Inde
-  },
-  Africa/Khartoum: {
-    Generic: heure normale d’Afrique centrale,
-    Standard: heure normale d’Afrique centrale,
-    Daylight: heure normale d’Afrique centrale
-  },
-  Asia/Damascus: {
-    Generic: heure d’Europe de l’Est,
-    Standard: heure normale d’Europe de l’Est,
-    Daylight: heure d’été d’Europe de l’Est
-  },
-  Asia/Taipei: {
-    Generic: heure de Taipei,
-    Standard: heure normale de Taipei,
-    Daylight: heure d’été de Taipei
-  },
-  Australia/Hobart: {
-    Generic: heure de l’Est de l’Australie,
-    Standard: heure normale de l’Est de l’Australie,
-    Daylight: heure d’été de l’Est de l’Australie
-  },
-  Australia/Currie: {
-    Generic: heure de l’Est de l’Australie,
-    Standard: heure normale de l’Est de l’Australie,
-    Daylight: heure d’été de l’Est de l’Australie
+  Antarctica/DumontDUrville: {
+    Generic: heure de Dumont-d’Urville,
+    Standard: heure de Dumont-d’Urville,
+    Daylight: heure de Dumont-d’Urville
   },
   Antarctica/Macquarie: {
     Generic: heure de l’Est de l’Australie,
     Standard: heure normale de l’Est de l’Australie,
     Daylight: heure d’été de l’Est de l’Australie
   },
-  America/Araguaina: {
-    Generic: heure de Brasilia,
-    Standard: heure normale de Brasilia,
-    Daylight: heure d’été de Brasilia
+  Antarctica/Mawson: {
+    Generic: heure de Mawson,
+    Standard: heure de Mawson,
+    Daylight: heure de Mawson
   },
-  Asia/Tokyo: {
-    Generic: heure du Japon,
-    Standard: heure normale du Japon,
-    Daylight: heure d’été du Japon
+  Antarctica/McMurdo: {
+    Generic: heure de la Nouvelle-Zélande,
+    Standard: heure normale de la Nouvelle-Zélande,
+    Daylight: heure d’été de la Nouvelle-Zélande
   },
-  Asia/Jayapura: {
-    Generic: heure de l’Est indonésien,
-    Standard: heure de l’Est indonésien,
-    Daylight: heure de l’Est indonésien
+  Antarctica/Palmer: {
+    Generic: heure du Chili,
+    Standard: heure normale du Chili,
+    Daylight: heure d’été du Chili
   },
-  Pacific/Palau: {
-    Generic: heure des Palaos,
-    Standard: heure des Palaos,
-    Daylight: heure des Palaos
+  Antarctica/Rothera: {
+    Generic: heure de Rothera,
+    Standard: heure de Rothera,
+    Daylight: heure de Rothera
   },
-  Asia/Dili: {
-    Generic: heure du Timor oriental,
-    Standard: heure du Timor oriental,
-    Daylight: heure du Timor oriental
+  Antarctica/South_Pole: {
+    Generic: heure de la Nouvelle-Zélande,
+    Standard: heure normale de la Nouvelle-Zélande,
+    Daylight: heure d’été de la Nouvelle-Zélande
   },
-  Etc/GMT-9: {
-    Generic: temps universel coordonné +9,
-    Standard: temps universel coordonné +9,
-    Daylight: temps universel coordonné +9
+  Antarctica/Syowa: {
+    Generic: heure de Syowa,
+    Standard: heure de Syowa,
+    Daylight: heure de Syowa
   },
-  Asia/Tomsk: {
-    Generic: heure : Tomsk,
-    Standard: Tomsk (heure standard),
-    Daylight: Tomsk (heure d’été)
-  },
-  Pacific/Tongatapu: {
-    Generic: heure des Tonga,
-    Standard: heure normale des Tonga,
-    Daylight: heure d’été de Tonga
-  },
-  Asia/Chita: {
-    Generic: heure : Tchita,
-    Standard: Tchita (heure standard),
-    Daylight: Tchita (heure d’été)
-  },
-  Europe/Istanbul: {
-    Generic: heure : Turquie,
-    Standard: Turquie (heure standard),
-    Daylight: Turquie (heure d’été)
-  },
-  America/Grand_Turk: {
-    Generic: heure de l’Est nord-américain,
-    Standard: heure normale de l’Est nord-américain,
-    Daylight: heure d’été de l’Est nord-américain
-  },
-  America/Indianapolis: {
-    Generic: heure de l’Est nord-américain,
-    Standard: heure normale de l’Est nord-américain,
-    Daylight: heure d’été de l’Est nord-américain
-  },
-  America/Indiana/Marengo: {
-    Generic: heure de l’Est nord-américain,
-    Standard: heure normale de l’Est nord-américain,
-    Daylight: heure d’été de l’Est nord-américain
-  },
-  America/Indiana/Vevay: {
-    Generic: heure de l’Est nord-américain,
-    Standard: heure normale de l’Est nord-américain,
-    Daylight: heure d’été de l’Est nord-américain
-  },
-  America/Phoenix: {
-    Generic: heure des Rocheuses,
-    Standard: heure normale des Rocheuses,
-    Daylight: heure d’été des Rocheuses
-  },
-  America/Creston: {
-    Generic: heure des Rocheuses,
-    Standard: heure normale des Rocheuses,
-    Daylight: heure d’été des Rocheuses
-  },
-  America/Dawson_Creek: {
-    Generic: heure des Rocheuses,
-    Standard: heure normale des Rocheuses,
-    Daylight: heure d’été des Rocheuses
-  },
-  America/Fort_Nelson: {
-    Generic: heure des Rocheuses,
-    Standard: heure normale des Rocheuses,
-    Daylight: heure d’été des Rocheuses
-  },
-  America/Hermosillo: {
-    Generic: heure du Pacifique mexicain,
-    Standard: heure normale du Pacifique mexicain,
-    Daylight: heure d’été du Pacifique mexicain
-  },
-  Etc/GMT+7: {
-    Generic: temps universel coordonné -7,
-    Standard: temps universel coordonné -7,
-    Daylight: temps universel coordonné -7
-  },
-  Etc/GMT-12: {
-    Generic: temps universel coordonné +12,
-    Standard: temps universel coordonné +12,
-    Daylight: temps universel coordonné +12
-  },
-  Pacific/Tarawa: {
-    Generic: heure des îles Gilbert,
-    Standard: heure des îles Gilbert,
-    Daylight: heure des îles Gilbert
-  },
-  Pacific/Majuro: {
-    Generic: heure des îles Marshall,
-    Standard: heure des îles Marshall,
-    Daylight: heure des îles Marshall
-  },
-  Pacific/Kwajalein: {
-    Generic: heure des îles Marshall,
-    Standard: heure des îles Marshall,
-    Daylight: heure des îles Marshall
-  },
-  Pacific/Nauru: {
-    Generic: heure de Nauru,
-    Standard: heure de Nauru,
-    Daylight: heure de Nauru
-  },
-  Pacific/Funafuti: {
-    Generic: heure des Tuvalu,
-    Standard: heure des Tuvalu,
-    Daylight: heure des Tuvalu
-  },
-  Pacific/Wake: {
-    Generic: heure de l’île Wake,
-    Standard: heure de l’île Wake,
-    Daylight: heure de l’île Wake
-  },
-  Pacific/Wallis: {
-    Generic: heure de Wallis-et-Futuna,
-    Standard: heure de Wallis-et-Futuna,
-    Daylight: heure de Wallis-et-Futuna
-  },
-  Etc/GMT-13: {
-    Generic: temps universel coordonné +13,
-    Standard: temps universel coordonné +13,
-    Daylight: temps universel coordonné +13
-  },
-  Pacific/Enderbury: {
-    Generic: heure des îles Phoenix,
-    Standard: heure des îles Phoenix,
-    Daylight: heure des îles Phoenix
-  },
-  Pacific/Fakaofo: {
-    Generic: heure de Tokelau,
-    Standard: heure de Tokelau,
-    Daylight: heure de Tokelau
-  },
-  Etc/UTC: {
-    Generic: temps universel coordonné,
-    Standard: temps universel coordonné,
-    Daylight: temps universel coordonné
-  },
-  Etc/GMT: {
+  Antarctica/Troll: {
     Generic: heure moyenne de Greenwich,
     Standard: heure moyenne de Greenwich,
     Daylight: heure moyenne de Greenwich
   },
-  Etc/GMT+2: {
-    Generic: temps universel coordonné -2,
-    Standard: temps universel coordonné -2,
-    Daylight: temps universel coordonné -2
-  },
-  America/Noronha: {
-    Generic: heure de Fernando de Noronha,
-    Standard: heure normale de Fernando de Noronha,
-    Daylight: heure d’été de Fernando de Noronha
-  },
-  Atlantic/South_Georgia: {
-    Generic: heure de Géorgie du Sud,
-    Standard: heure de Géorgie du Sud,
-    Daylight: heure de Géorgie du Sud
-  },
-  Etc/GMT+8: {
-    Generic: temps universel coordonné -8,
-    Standard: temps universel coordonné -8,
-    Daylight: temps universel coordonné -8
-  },
-  Pacific/Pitcairn: {
-    Generic: heure des îles Pitcairn,
-    Standard: heure des îles Pitcairn,
-    Daylight: heure des îles Pitcairn
-  },
-  Etc/GMT+9: {
-    Generic: temps universel coordonné -9,
-    Standard: temps universel coordonné -9,
-    Daylight: temps universel coordonné -9
-  },
-  Pacific/Gambier: {
-    Generic: heure des îles Gambier,
-    Standard: heure des îles Gambier,
-    Daylight: heure des îles Gambier
-  },
-  Etc/GMT+11: {
-    Generic: temps universel coordonné -11,
-    Standard: temps universel coordonné -11,
-    Daylight: temps universel coordonné -11
-  },
-  Pacific/Pago_Pago: {
-    Generic: heure des Samoa,
-    Standard: heure normale des Samoa,
-    Daylight: heure d’été des Samoa
-  },
-  Pacific/Niue: {
-    Generic: heure de Niue,
-    Standard: heure de Niue,
-    Daylight: heure de Niue
-  },
-  Pacific/Midway: {
-    Generic: heure des Samoa,
-    Standard: heure normale des Samoa,
-    Daylight: heure d’été des Samoa
-  },
-  Asia/Ulaanbaatar: {
-    Generic: heure d’Oulan-Bator,
-    Standard: heure normale d’Oulan-Bator,
-    Daylight: heure d’été d’Oulan-Bator
-  },
-  Asia/Choibalsan: {
-    Generic: heure d’Oulan-Bator,
-    Standard: heure normale d’Oulan-Bator,
-    Daylight: heure d’été d’Oulan-Bator
-  },
-  America/Caracas: {
-    Generic: heure du Venezuela,
-    Standard: heure du Venezuela,
-    Daylight: heure du Venezuela
-  },
-  Asia/Vladivostok: {
-    Generic: heure : Vladivostok,
-    Standard: Vladivostok (heure standard),
-    Daylight: Vladivostok (heure d’été)
-  },
-  Asia/Ust-Nera: {
-    Generic: heure : Ust-Nera,
-    Standard: Ust-Nera (heure standard),
-    Daylight: Ust-Nera (heure d’été)
-  },
-  Europe/Volgograd: {
-    Generic: heure : Volgograd,
-    Standard: Volgograd (heure standard),
-    Daylight: Volgograd (heure d’été)
-  },
-  Australia/Perth: {
-    Generic: heure de l’Ouest de l’Australie,
-    Standard: heure normale de l’Ouest de l’Australie,
-    Daylight: heure d’été de l’Ouest de l’Australie
-  },
-  Africa/Lagos: {
-    Generic: heure d’Afrique de l’Ouest,
-    Standard: heure normale d’Afrique de l’Ouest,
-    Daylight: heure d’été d’Afrique de l’Ouest
-  },
-  Africa/Luanda: {
-    Generic: heure d’Afrique de l’Ouest,
-    Standard: heure normale d’Afrique de l’Ouest,
-    Daylight: heure d’été d’Afrique de l’Ouest
-  },
-  Africa/Porto-Novo: {
-    Generic: heure d’Afrique de l’Ouest,
-    Standard: heure normale d’Afrique de l’Ouest,
-    Daylight: heure d’été d’Afrique de l’Ouest
-  },
-  Africa/Kinshasa: {
-    Generic: heure d’Afrique de l’Ouest,
-    Standard: heure normale d’Afrique de l’Ouest,
-    Daylight: heure d’été d’Afrique de l’Ouest
-  },
-  Africa/Bangui: {
-    Generic: heure d’Afrique de l’Ouest,
-    Standard: heure normale d’Afrique de l’Ouest,
-    Daylight: heure d’été d’Afrique de l’Ouest
-  },
-  Africa/Brazzaville: {
-    Generic: heure d’Afrique de l’Ouest,
-    Standard: heure normale d’Afrique de l’Ouest,
-    Daylight: heure d’été d’Afrique de l’Ouest
-  },
-  Africa/Douala: {
-    Generic: heure d’Afrique de l’Ouest,
-    Standard: heure normale d’Afrique de l’Ouest,
-    Daylight: heure d’été d’Afrique de l’Ouest
-  },
-  Africa/Algiers: {
-    Generic: heure d’Europe centrale,
-    Standard: heure normale d’Europe centrale,
-    Daylight: heure d’été d’Europe centrale
-  },
-  Africa/Libreville: {
-    Generic: heure d’Afrique de l’Ouest,
-    Standard: heure normale d’Afrique de l’Ouest,
-    Daylight: heure d’été d’Afrique de l’Ouest
-  },
-  Africa/Malabo: {
-    Generic: heure d’Afrique de l’Ouest,
-    Standard: heure normale d’Afrique de l’Ouest,
-    Daylight: heure d’été d’Afrique de l’Ouest
-  },
-  Africa/Niamey: {
-    Generic: heure d’Afrique de l’Ouest,
-    Standard: heure normale d’Afrique de l’Ouest,
-    Daylight: heure d’été d’Afrique de l’Ouest
-  },
-  Africa/Ndjamena: {
-    Generic: heure d’Afrique de l’Ouest,
-    Standard: heure normale d’Afrique de l’Ouest,
-    Daylight: heure d’été d’Afrique de l’Ouest
-  },
-  Africa/Tunis: {
-    Generic: heure d’Europe centrale,
-    Standard: heure normale d’Europe centrale,
-    Daylight: heure d’été d’Europe centrale
-  },
-  Etc/GMT-1: {
-    Generic: temps universel coordonné +1,
-    Standard: temps universel coordonné +1,
-    Daylight: temps universel coordonné +1
-  },
-  Europe/Berlin: {
-    Generic: heure d’Europe centrale,
-    Standard: heure normale d’Europe centrale,
-    Daylight: heure d’été d’Europe centrale
-  },
-  Europe/Andorra: {
-    Generic: heure d’Europe centrale,
-    Standard: heure normale d’Europe centrale,
-    Daylight: heure d’été d’Europe centrale
-  },
-  Europe/Vienna: {
-    Generic: heure d’Europe centrale,
-    Standard: heure normale d’Europe centrale,
-    Daylight: heure d’été d’Europe centrale
-  },
-  Europe/Zurich: {
-    Generic: heure d’Europe centrale,
-    Standard: heure normale d’Europe centrale,
-    Daylight: heure d’été d’Europe centrale
-  },
-  Europe/Busingen: {
-    Generic: heure d’Europe centrale,
-    Standard: heure normale d’Europe centrale,
-    Daylight: heure d’été d’Europe centrale
-  },
-  Europe/Gibraltar: {
-    Generic: heure d’Europe centrale,
-    Standard: heure normale d’Europe centrale,
-    Daylight: heure d’été d’Europe centrale
-  },
-  Europe/Rome: {
-    Generic: heure d’Europe centrale,
-    Standard: heure normale d’Europe centrale,
-    Daylight: heure d’été d’Europe centrale
-  },
-  Europe/Vaduz: {
-    Generic: heure d’Europe centrale,
-    Standard: heure normale d’Europe centrale,
-    Daylight: heure d’été d’Europe centrale
-  },
-  Europe/Luxembourg: {
-    Generic: heure d’Europe centrale,
-    Standard: heure normale d’Europe centrale,
-    Daylight: heure d’été d’Europe centrale
-  },
-  Europe/Monaco: {
-    Generic: heure d’Europe centrale,
-    Standard: heure normale d’Europe centrale,
-    Daylight: heure d’été d’Europe centrale
-  },
-  Europe/Malta: {
-    Generic: heure d’Europe centrale,
-    Standard: heure normale d’Europe centrale,
-    Daylight: heure d’été d’Europe centrale
-  },
-  Europe/Amsterdam: {
-    Generic: heure d’Europe centrale,
-    Standard: heure normale d’Europe centrale,
-    Daylight: heure d’été d’Europe centrale
-  },
-  Europe/Oslo: {
-    Generic: heure d’Europe centrale,
-    Standard: heure normale d’Europe centrale,
-    Daylight: heure d’été d’Europe centrale
-  },
-  Europe/Stockholm: {
-    Generic: heure d’Europe centrale,
-    Standard: heure normale d’Europe centrale,
-    Daylight: heure d’été d’Europe centrale
+  Antarctica/Vostok: {
+    Generic: heure de Vostok,
+    Standard: heure de Vostok,
+    Daylight: heure de Vostok
   },
   Arctic/Longyearbyen: {
     Generic: heure d’Europe centrale,
     Standard: heure normale d’Europe centrale,
     Daylight: heure d’été d’Europe centrale
   },
-  Europe/San_Marino: {
-    Generic: heure d’Europe centrale,
-    Standard: heure normale d’Europe centrale,
-    Daylight: heure d’été d’Europe centrale
+  Asia/Aden: {
+    Generic: heure de l’Arabie,
+    Standard: heure normale de l’Arabie,
+    Daylight: heure d’été de l’Arabie
   },
-  Europe/Vatican: {
-    Generic: heure d’Europe centrale,
-    Standard: heure normale d’Europe centrale,
-    Daylight: heure d’été d’Europe centrale
+  Asia/Almaty: {
+    Generic: heure de l’Est du Kazakhstan,
+    Standard: heure de l’Est du Kazakhstan,
+    Daylight: heure de l’Est du Kazakhstan
   },
-  Asia/Hovd: {
-    Generic: heure de Hovd,
-    Standard: heure normale de Hovd,
-    Daylight: heure d’été de Hovd
+  Asia/Amman: {
+    Generic: heure d’Europe de l’Est,
+    Standard: heure normale d’Europe de l’Est,
+    Daylight: heure d’été d’Europe de l’Est
   },
-  Asia/Tashkent: {
-    Generic: heure de l’Ouzbékistan,
-    Standard: heure normale de l’Ouzbékistan,
-    Daylight: heure d’été de l’Ouzbékistan
-  },
-  Antarctica/Mawson: {
-    Generic: heure de Mawson,
-    Standard: heure de Mawson,
-    Daylight: heure de Mawson
-  },
-  Asia/Oral: {
-    Generic: heure de l’Ouest du Kazakhstan,
-    Standard: heure de l’Ouest du Kazakhstan,
-    Daylight: heure de l’Ouest du Kazakhstan
+  Asia/Anadyr: {
+    Generic: heure : Anadyr,
+    Standard: Anadyr (heure standard),
+    Daylight: Anadyr (heure d’été)
   },
   Asia/Aqtau: {
     Generic: heure de l’Ouest du Kazakhstan,
@@ -2199,415 +1199,75 @@
     Standard: heure de l’Ouest du Kazakhstan,
     Daylight: heure de l’Ouest du Kazakhstan
   },
-  Asia/Atyrau: {
-    Generic: heure de l’Ouest du Kazakhstan,
-    Standard: heure de l’Ouest du Kazakhstan,
-    Daylight: heure de l’Ouest du Kazakhstan
-  },
-  Indian/Maldives: {
-    Generic: heure des Maldives,
-    Standard: heure des Maldives,
-    Daylight: heure des Maldives
-  },
-  Indian/Kerguelen: {
-    Generic: heure des Terres australes et antarctiques françaises,
-    Standard: heure des Terres australes et antarctiques françaises,
-    Daylight: heure des Terres australes et antarctiques françaises
-  },
-  Asia/Dushanbe: {
-    Generic: heure du Tadjikistan,
-    Standard: heure du Tadjikistan,
-    Daylight: heure du Tadjikistan
-  },
   Asia/Ashgabat: {
     Generic: heure du Turkménistan,
     Standard: heure normale du Turkménistan,
     Daylight: heure d’été du Turkménistan
-  },
-  Asia/Samarkand: {
-    Generic: heure de l’Ouzbékistan,
-    Standard: heure normale de l’Ouzbékistan,
-    Daylight: heure d’été de l’Ouzbékistan
-  },
-  Etc/GMT-5: {
-    Generic: temps universel coordonné +5,
-    Standard: temps universel coordonné +5,
-    Daylight: temps universel coordonné +5
-  },
-  Asia/Hebron: {
-    Generic: heure d’Europe de l’Est,
-    Standard: heure normale d’Europe de l’Est,
-    Daylight: heure d’été d’Europe de l’Est
-  },
-  Asia/Gaza: {
-    Generic: heure d’Europe de l’Est,
-    Standard: heure normale d’Europe de l’Est,
-    Daylight: heure d’été d’Europe de l’Est
-  },
-  Pacific/Port_Moresby: {
-    Generic: heure de la Papouasie-Nouvelle-Guinée,
-    Standard: heure de la Papouasie-Nouvelle-Guinée,
-    Daylight: heure de la Papouasie-Nouvelle-Guinée
-  },
-  Antarctica/DumontDUrville: {
-    Generic: heure de Dumont-d’Urville,
-    Standard: heure de Dumont-d’Urville,
-    Daylight: heure de Dumont-d’Urville
-  },
-  Pacific/Truk: {
-    Generic: heure de Chuuk,
-    Standard: heure de Chuuk,
-    Daylight: heure de Chuuk
-  },
-  Pacific/Guam: {
-    Generic: heure des Chamorro,
-    Standard: heure des Chamorro,
-    Daylight: heure des Chamorro
-  },
-  Pacific/Saipan: {
-    Generic: heure des Chamorro,
-    Standard: heure des Chamorro,
-    Daylight: heure des Chamorro
-  },
-  Etc/GMT-10: {
-    Generic: temps universel coordonné +10,
-    Standard: temps universel coordonné +10,
-    Daylight: temps universel coordonné +10
-  },
-  Asia/Yakutsk: {
-    Generic: heure : Iakoutsk,
-    Standard: Iakoutsk (heure standard),
-    Daylight: Iakoutsk (heure d’été)
-  },
-  Asia/Khandyga: {
-    Generic: heure : Khandyga,
-    Standard: Khandyga (heure standard),
-    Daylight: Khandyga (heure d’été)
-  },
-  America/Whitehorse: {
-    Generic: heure normale du Yukon,
-    Standard: heure normale du Yukon,
-    Daylight: heure normale du Yukon
-  },
-  America/Dawson: {
-    Generic: heure normale du Yukon,
-    Standard: heure normale du Yukon,
-    Daylight: heure normale du Yukon
-  },
-  Iceland: {
-    Generic: heure moyenne de Greenwich,
-    Standard: heure moyenne de Greenwich,
-    Daylight: heure moyenne de Greenwich
-  },
-  Africa/Timbuktu: {
-    Generic: heure moyenne de Greenwich,
-    Standard: heure moyenne de Greenwich,
-    Daylight: heure moyenne de Greenwich
-  },
-  Egypt: {
-    Generic: heure d’Europe de l’Est,
-    Standard: heure normale d’Europe de l’Est,
-    Daylight: heure d’été d’Europe de l’Est
-  },
-  Africa/Asmara: {
-    Generic: heure normale d’Afrique de l’Est,
-    Standard: heure normale d’Afrique de l’Est,
-    Daylight: heure normale d’Afrique de l’Est
-  },
-  Libya: {
-    Generic: heure d’Europe de l’Est,
-    Standard: heure normale d’Europe de l’Est,
-    Daylight: heure d’été d’Europe de l’Est
-  },
-  America/Atka: {
-    Generic: heure d’Hawaï - Aléoutiennes,
-    Standard: heure normale d’Hawaï - Aléoutiennes,
-    Daylight: heure d’été d’Hawaï - Aléoutiennes
-  },
-  US/Aleutian: {
-    Generic: heure d’Hawaï - Aléoutiennes,
-    Standard: heure normale d’Hawaï - Aléoutiennes,
-    Daylight: heure d’été d’Hawaï - Aléoutiennes
-  },
-  US/Alaska: {
-    Generic: heure de l’Alaska,
-    Standard: heure normale de l’Alaska,
-    Daylight: heure d’été de l’Alaska
-  },
-  America/Argentina/Buenos_Aires: {
-    Generic: heure de l’Argentine,
-    Standard: heure normale d’Argentine,
-    Daylight: heure d’été de l’Argentine
-  },
-  America/Argentina/Catamarca: {
-    Generic: heure de l’Argentine,
-    Standard: heure normale d’Argentine,
-    Daylight: heure d’été de l’Argentine
-  },
-  America/Argentina/ComodRivadavia: {
-    Generic: heure de l’Argentine,
-    Standard: heure normale d’Argentine,
-    Daylight: heure d’été de l’Argentine
-  },
-  America/Argentina/Cordoba: {
-    Generic: heure de l’Argentine,
-    Standard: heure normale d’Argentine,
-    Daylight: heure d’été de l’Argentine
-  },
-  America/Rosario: {
-    Generic: heure de l’Argentine,
-    Standard: heure normale d’Argentine,
-    Daylight: heure d’été de l’Argentine
-  },
-  America/Argentina/Jujuy: {
-    Generic: heure de l’Argentine,
-    Standard: heure normale d’Argentine,
-    Daylight: heure d’été de l’Argentine
-  },
-  America/Argentina/Mendoza: {
-    Generic: heure de l’Argentine,
-    Standard: heure normale d’Argentine,
-    Daylight: heure d’été de l’Argentine
-  },
-  US/Central: {
-    Generic: heure du centre nord-américain,
-    Standard: heure normale du centre nord-américain,
-    Daylight: heure d’été du centre nord-américain
-  },
-  America/Shiprock: {
-    Generic: heure des Rocheuses,
-    Standard: heure normale des Rocheuses,
-    Daylight: heure d’été des Rocheuses
-  },
-  Navajo: {
-    Generic: heure des Rocheuses,
-    Standard: heure normale des Rocheuses,
-    Daylight: heure d’été des Rocheuses
-  },
-  US/Mountain: {
-    Generic: heure des Rocheuses,
-    Standard: heure normale des Rocheuses,
-    Daylight: heure d’été des Rocheuses
-  },
-  US/Michigan: {
-    Generic: heure de l’Est nord-américain,
-    Standard: heure normale de l’Est nord-américain,
-    Daylight: heure d’été de l’Est nord-américain
-  },
-  Canada/Mountain: {
-    Generic: heure des Rocheuses,
-    Standard: heure normale des Rocheuses,
-    Daylight: heure d’été des Rocheuses
-  },
-  Canada/Atlantic: {
-    Generic: heure de l’Atlantique,
-    Standard: heure normale de l’Atlantique,
-    Daylight: heure d’été de l’Atlantique
-  },
-  Cuba: {
-    Generic: heure de Cuba,
-    Standard: heure normale de Cuba,
-    Daylight: heure d’été de Cuba
-  },
-  America/Indiana/Indianapolis: {
-    Generic: heure de l’Est nord-américain,
-    Standard: heure normale de l’Est nord-américain,
-    Daylight: heure d’été de l’Est nord-américain
-  },
-  US/East-Indiana: {
-    Generic: heure de l’Est nord-américain,
-    Standard: heure normale de l’Est nord-américain,
-    Daylight: heure d’été de l’Est nord-américain
-  },
-  America/Knox_IN: {
-    Generic: heure du centre nord-américain,
-    Standard: heure normale du centre nord-américain,
-    Daylight: heure d’été du centre nord-américain
-  },
-  US/Indiana-Starke: {
-    Generic: heure du centre nord-américain,
-    Standard: heure normale du centre nord-américain,
-    Daylight: heure d’été du centre nord-américain
-  },
-  Jamaica: {
-    Generic: heure de l’Est nord-américain,
-    Standard: heure normale de l’Est nord-américain,
-    Daylight: heure d’été de l’Est nord-américain
-  },
-  America/Kentucky/Louisville: {
-    Generic: heure de l’Est nord-américain,
-    Standard: heure normale de l’Est nord-américain,
-    Daylight: heure d’été de l’Est nord-américain
-  },
-  US/Pacific: {
-    Generic: heure du Pacifique nord-américain,
-    Standard: heure normale du Pacifique nord-américain,
-    Daylight: heure d’été du Pacifique nord-américain
-  },
-  Brazil/West: {
-    Generic: heure de l’Amazonie,
-    Standard: heure normale de l’Amazonie,
-    Daylight: heure d’été de l’Amazonie
-  },
-  Mexico/BajaSur: {
-    Generic: heure du Pacifique mexicain,
-    Standard: heure normale du Pacifique mexicain,
-    Daylight: heure d’été du Pacifique mexicain
-  },
-  Mexico/General: {
-    Generic: heure du centre nord-américain,
-    Standard: heure normale du centre nord-américain,
-    Daylight: heure d’été du centre nord-américain
-  },
-  US/Eastern: {
-    Generic: heure de l’Est nord-américain,
-    Standard: heure normale de l’Est nord-américain,
-    Daylight: heure d’été de l’Est nord-américain
-  },
-  Brazil/DeNoronha: {
-    Generic: heure de Fernando de Noronha,
-    Standard: heure normale de Fernando de Noronha,
-    Daylight: heure d’été de Fernando de Noronha
-  },
-  America/Nuuk: {
-    Generic: heure de l’Ouest du Groenland,
-    Standard: heure normale de l’Ouest du Groenland,
-    Daylight: heure d’été de l’Ouest du Groenland
-  },
-  America/Atikokan: {
-    Generic: heure de l’Est nord-américain,
-    Standard: heure normale de l’Est nord-américain,
-    Daylight: heure d’été de l’Est nord-américain
-  },
-  US/Arizona: {
-    Generic: heure des Rocheuses,
-    Standard: heure normale des Rocheuses,
-    Daylight: heure d’été des Rocheuses
-  },
-  America/Virgin: {
-    Generic: heure de l’Atlantique,
-    Standard: heure normale de l’Atlantique,
-    Daylight: heure d’été de l’Atlantique
-  },
-  Canada/Saskatchewan: {
-    Generic: heure du centre nord-américain,
-    Standard: heure normale du centre nord-américain,
-    Daylight: heure d’été du centre nord-américain
-  },
-  America/Porto_Acre: {
-    Generic: heure de l’Acre,
-    Standard: heure normale de l’Acre,
-    Daylight: heure d’été de l’Acre
-  },
-  Brazil/Acre: {
-    Generic: heure de l’Acre,
-    Standard: heure normale de l’Acre,
-    Daylight: heure d’été de l’Acre
-  },
-  Chile/Continental: {
-    Generic: heure du Chili,
-    Standard: heure normale du Chili,
-    Daylight: heure d’été du Chili
-  },
-  Brazil/East: {
-    Generic: heure de Brasilia,
-    Standard: heure normale de Brasilia,
-    Daylight: heure d’été de Brasilia
-  },
-  Canada/Newfoundland: {
-    Generic: heure de Terre-Neuve,
-    Standard: heure normale de Terre-Neuve,
-    Daylight: heure d’été de Terre-Neuve
-  },
-  America/Ensenada: {
-    Generic: heure du Pacifique nord-américain,
-    Standard: heure normale du Pacifique nord-américain,
-    Daylight: heure d’été du Pacifique nord-américain
-  },
-  Mexico/BajaNorte: {
-    Generic: heure du Pacifique nord-américain,
-    Standard: heure normale du Pacifique nord-américain,
-    Daylight: heure d’été du Pacifique nord-américain
-  },
-  Canada/Eastern: {
-    Generic: heure de l’Est nord-américain,
-    Standard: heure normale de l’Est nord-américain,
-    Daylight: heure d’été de l’Est nord-américain
-  },
-  Canada/Pacific: {
-    Generic: heure du Pacifique nord-américain,
-    Standard: heure normale du Pacifique nord-américain,
-    Daylight: heure d’été du Pacifique nord-américain
-  },
-  Canada/Yukon: {
-    Generic: heure normale du Yukon,
-    Standard: heure normale du Yukon,
-    Daylight: heure normale du Yukon
-  },
-  Canada/Central: {
-    Generic: heure du centre nord-américain,
-    Standard: heure normale du centre nord-américain,
-    Daylight: heure d’été du centre nord-américain
   },
   Asia/Ashkhabad: {
     Generic: heure du Turkménistan,
     Standard: heure normale du Turkménistan,
     Daylight: heure d’été du Turkménistan
   },
-  Asia/Dacca: {
-    Generic: heure du Bangladesh,
-    Standard: heure normale du Bangladesh,
-    Daylight: heure d’été du Bangladesh
+  Asia/Atyrau: {
+    Generic: heure de l’Ouest du Kazakhstan,
+    Standard: heure de l’Ouest du Kazakhstan,
+    Daylight: heure de l’Ouest du Kazakhstan
   },
-  Asia/Ho_Chi_Minh: {
+  Asia/Baghdad: {
+    Generic: heure de l’Arabie,
+    Standard: heure normale de l’Arabie,
+    Daylight: heure d’été de l’Arabie
+  },
+  Asia/Bahrain: {
+    Generic: heure de l’Arabie,
+    Standard: heure normale de l’Arabie,
+    Daylight: heure d’été de l’Arabie
+  },
+  Asia/Baku: {
+    Generic: heure de l’Azerbaïdjan,
+    Standard: heure normale de l’Azerbaïdjan,
+    Daylight: heure d’été d’Azerbaïdjan
+  },
+  Asia/Bangkok: {
     Generic: heure d’Indochine,
     Standard: heure d’Indochine,
     Daylight: heure d’Indochine
   },
-  Hongkong: {
-    Generic: heure de Hong Kong,
-    Standard: heure normale de Hong Kong,
-    Daylight: heure d’été de Hong Kong
+  Asia/Barnaul: {
+    Generic: heure : Barnaul,
+    Standard: Barnaul (heure standard),
+    Daylight: Barnaul (heure d’été)
   },
-  Asia/Tel_Aviv: {
-    Generic: heure d’Israël,
-    Standard: heure normale d’Israël,
-    Daylight: heure d’été d’Israël
-  },
-  Israel: {
-    Generic: heure d’Israël,
-    Standard: heure normale d’Israël,
-    Daylight: heure d’été d’Israël
-  },
-  Asia/Kathmandu: {
-    Generic: heure du Népal,
-    Standard: heure du Népal,
-    Daylight: heure du Népal
-  },
-  Asia/Kolkata: {
-    Generic: heure de l’Inde,
-    Standard: heure de l’Inde,
-    Daylight: heure de l’Inde
-  },
-  Asia/Macao: {
-    Generic: heure de la Chine,
-    Standard: heure normale de la Chine,
-    Daylight: heure d’été de Chine
-  },
-  Asia/Ujung_Pandang: {
-    Generic: heure du Centre indonésien,
-    Standard: heure du Centre indonésien,
-    Daylight: heure du Centre indonésien
-  },
-  Europe/Nicosia: {
+  Asia/Beirut: {
     Generic: heure d’Europe de l’Est,
     Standard: heure normale d’Europe de l’Est,
     Daylight: heure d’été d’Europe de l’Est
   },
-  ROK: {
-    Generic: heure de la Corée,
-    Standard: heure normale de la Corée,
-    Daylight: heure d’été de Corée
+  Asia/Bishkek: {
+    Generic: heure du Kirghizistan,
+    Standard: heure du Kirghizistan,
+    Daylight: heure du Kirghizistan
+  },
+  Asia/Brunei: {
+    Generic: heure du Brunei,
+    Standard: heure du Brunei,
+    Daylight: heure du Brunei
+  },
+  Asia/Calcutta: {
+    Generic: heure de l’Inde,
+    Standard: heure de l’Inde,
+    Daylight: heure de l’Inde
+  },
+  Asia/Chita: {
+    Generic: heure : Tchita,
+    Standard: Tchita (heure standard),
+    Daylight: Tchita (heure d’été)
+  },
+  Asia/Choibalsan: {
+    Generic: heure d’Oulan-Bator,
+    Standard: heure normale d’Oulan-Bator,
+    Daylight: heure d’été d’Oulan-Bator
   },
   Asia/Chongqing: {
     Generic: heure de la Chine,
@@ -2619,57 +1279,412 @@
     Standard: heure normale de la Chine,
     Daylight: heure d’été de Chine
   },
+  Asia/Colombo: {
+    Generic: heure de l’Inde,
+    Standard: heure de l’Inde,
+    Daylight: heure de l’Inde
+  },
+  Asia/Dacca: {
+    Generic: heure du Bangladesh,
+    Standard: heure normale du Bangladesh,
+    Daylight: heure d’été du Bangladesh
+  },
+  Asia/Damascus: {
+    Generic: heure d’Europe de l’Est,
+    Standard: heure normale d’Europe de l’Est,
+    Daylight: heure d’été d’Europe de l’Est
+  },
+  Asia/Dhaka: {
+    Generic: heure du Bangladesh,
+    Standard: heure normale du Bangladesh,
+    Daylight: heure d’été du Bangladesh
+  },
+  Asia/Dili: {
+    Generic: heure du Timor oriental,
+    Standard: heure du Timor oriental,
+    Daylight: heure du Timor oriental
+  },
+  Asia/Dubai: {
+    Generic: heure du Golfe,
+    Standard: heure du Golfe,
+    Daylight: heure du Golfe
+  },
+  Asia/Dushanbe: {
+    Generic: heure du Tadjikistan,
+    Standard: heure du Tadjikistan,
+    Daylight: heure du Tadjikistan
+  },
+  Asia/Famagusta: {
+    Generic: heure d’Europe de l’Est,
+    Standard: heure normale d’Europe de l’Est,
+    Daylight: heure d’été d’Europe de l’Est
+  },
+  Asia/Gaza: {
+    Generic: heure d’Europe de l’Est,
+    Standard: heure normale d’Europe de l’Est,
+    Daylight: heure d’été d’Europe de l’Est
+  },
   Asia/Harbin: {
     Generic: heure de la Chine,
     Standard: heure normale de la Chine,
     Daylight: heure d’été de Chine
   },
-  PRC: {
-    Generic: heure de la Chine,
-    Standard: heure normale de la Chine,
-    Daylight: heure d’été de Chine
+  Asia/Hebron: {
+    Generic: heure d’Europe de l’Est,
+    Standard: heure normale d’Europe de l’Est,
+    Daylight: heure d’été d’Europe de l’Est
   },
-  Singapore: {
-    Generic: heure de Singapour,
-    Standard: heure de Singapour,
-    Daylight: heure de Singapour
+  Asia/Ho_Chi_Minh: {
+    Generic: heure d’Indochine,
+    Standard: heure d’Indochine,
+    Daylight: heure d’Indochine
   },
-  ROC: {
-    Generic: heure de Taipei,
-    Standard: heure normale de Taipei,
-    Daylight: heure d’été de Taipei
+  Asia/Hong_Kong: {
+    Generic: heure de Hong Kong,
+    Standard: heure normale de Hong Kong,
+    Daylight: heure d’été de Hong Kong
   },
-  Iran: {
-    Generic: heure de l’Iran,
-    Standard: heure normale d’Iran,
-    Daylight: heure d’été d’Iran
+  Asia/Hovd: {
+    Generic: heure de Hovd,
+    Standard: heure normale de Hovd,
+    Daylight: heure d’été de Hovd
   },
-  Asia/Thimbu: {
-    Generic: heure du Bhoutan,
-    Standard: heure du Bhoutan,
-    Daylight: heure du Bhoutan
+  Asia/Irkutsk: {
+    Generic: heure : Irkoutsk,
+    Standard: Irkoutsk (heure standard),
+    Daylight: Irkoutsk (heure d’été)
   },
-  Japan: {
-    Generic: heure du Japon,
-    Standard: heure normale du Japon,
-    Daylight: heure d’été du Japon
+  Asia/Istanbul: {
+    Generic: heure : Turquie,
+    Standard: Turquie (heure standard),
+    Daylight: Turquie (heure d’été)
   },
-  Asia/Ulan_Bator: {
-    Generic: heure d’Oulan-Bator,
-    Standard: heure normale d’Oulan-Bator,
-    Daylight: heure d’été d’Oulan-Bator
+  Asia/Jakarta: {
+    Generic: heure de l’Ouest indonésien,
+    Standard: heure de l’Ouest indonésien,
+    Daylight: heure de l’Ouest indonésien
+  },
+  Asia/Jayapura: {
+    Generic: heure de l’Est indonésien,
+    Standard: heure de l’Est indonésien,
+    Daylight: heure de l’Est indonésien
+  },
+  Asia/Jerusalem: {
+    Generic: heure d’Israël,
+    Standard: heure normale d’Israël,
+    Daylight: heure d’été d’Israël
+  },
+  Asia/Kabul: {
+    Generic: heure de l’Afghanistan,
+    Standard: heure de l’Afghanistan,
+    Daylight: heure de l’Afghanistan
+  },
+  Asia/Kamchatka: {
+    Generic: heure : Kamtchatka,
+    Standard: Kamtchatka (heure standard),
+    Daylight: Kamtchatka (heure d’été)
+  },
+  Asia/Karachi: {
+    Generic: heure du Pakistan,
+    Standard: heure normale du Pakistan,
+    Daylight: heure d’été du Pakistan
   },
   Asia/Kashgar: {
     Generic: heure : Chine,
     Standard: Chine (heure standard),
     Daylight: Chine (heure d’été)
   },
+  Asia/Kathmandu: {
+    Generic: heure du Népal,
+    Standard: heure du Népal,
+    Daylight: heure du Népal
+  },
+  Asia/Katmandu: {
+    Generic: heure du Népal,
+    Standard: heure du Népal,
+    Daylight: heure du Népal
+  },
+  Asia/Khandyga: {
+    Generic: heure : Khandyga,
+    Standard: Khandyga (heure standard),
+    Daylight: Khandyga (heure d’été)
+  },
+  Asia/Kolkata: {
+    Generic: heure de l’Inde,
+    Standard: heure de l’Inde,
+    Daylight: heure de l’Inde
+  },
+  Asia/Krasnoyarsk: {
+    Generic: heure : Krasnoïarsk,
+    Standard: Krasnoïarsk (heure standard),
+    Daylight: Krasnoïarsk (heure d’été)
+  },
+  Asia/Kuala_Lumpur: {
+    Generic: heure de la Malaisie,
+    Standard: heure de la Malaisie,
+    Daylight: heure de la Malaisie
+  },
+  Asia/Kuching: {
+    Generic: heure de la Malaisie,
+    Standard: heure de la Malaisie,
+    Daylight: heure de la Malaisie
+  },
+  Asia/Kuwait: {
+    Generic: heure de l’Arabie,
+    Standard: heure normale de l’Arabie,
+    Daylight: heure d’été de l’Arabie
+  },
+  Asia/Macao: {
+    Generic: heure de la Chine,
+    Standard: heure normale de la Chine,
+    Daylight: heure d’été de Chine
+  },
+  Asia/Macau: {
+    Generic: heure de la Chine,
+    Standard: heure normale de la Chine,
+    Daylight: heure d’été de Chine
+  },
+  Asia/Magadan: {
+    Generic: heure : Magadan,
+    Standard: Magadan (heure standard),
+    Daylight: Magadan (heure d’été)
+  },
+  Asia/Makassar: {
+    Generic: heure du Centre indonésien,
+    Standard: heure du Centre indonésien,
+    Daylight: heure du Centre indonésien
+  },
+  Asia/Manila: {
+    Generic: heure des Philippines,
+    Standard: heure normale des Philippines,
+    Daylight: heure d’été des Philippines
+  },
+  Asia/Muscat: {
+    Generic: heure du Golfe,
+    Standard: heure du Golfe,
+    Daylight: heure du Golfe
+  },
+  Asia/Nicosia: {
+    Generic: heure d’Europe de l’Est,
+    Standard: heure normale d’Europe de l’Est,
+    Daylight: heure d’été d’Europe de l’Est
+  },
+  Asia/Novokuznetsk: {
+    Generic: heure : Novokuznetsk,
+    Standard: Novokuznetsk (heure standard),
+    Daylight: Novokuznetsk (heure d’été)
+  },
+  Asia/Novosibirsk: {
+    Generic: heure : Novossibirsk,
+    Standard: Novossibirsk (heure standard),
+    Daylight: Novossibirsk (heure d’été)
+  },
+  Asia/Omsk: {
+    Generic: heure : Omsk,
+    Standard: Omsk (heure standard),
+    Daylight: Omsk (heure d’été)
+  },
+  Asia/Oral: {
+    Generic: heure de l’Ouest du Kazakhstan,
+    Standard: heure de l’Ouest du Kazakhstan,
+    Daylight: heure de l’Ouest du Kazakhstan
+  },
+  Asia/Phnom_Penh: {
+    Generic: heure d’Indochine,
+    Standard: heure d’Indochine,
+    Daylight: heure d’Indochine
+  },
+  Asia/Pontianak: {
+    Generic: heure de l’Ouest indonésien,
+    Standard: heure de l’Ouest indonésien,
+    Daylight: heure de l’Ouest indonésien
+  },
+  Asia/Pyongyang: {
+    Generic: heure de la Corée,
+    Standard: heure normale de la Corée,
+    Daylight: heure d’été de Corée
+  },
+  Asia/Qatar: {
+    Generic: heure de l’Arabie,
+    Standard: heure normale de l’Arabie,
+    Daylight: heure d’été de l’Arabie
+  },
+  Asia/Qostanay: {
+    Generic: heure de l’Est du Kazakhstan,
+    Standard: heure de l’Est du Kazakhstan,
+    Daylight: heure de l’Est du Kazakhstan
+  },
+  Asia/Qyzylorda: {
+    Generic: heure de l’Ouest du Kazakhstan,
+    Standard: heure de l’Ouest du Kazakhstan,
+    Daylight: heure de l’Ouest du Kazakhstan
+  },
+  Asia/Rangoon: {
+    Generic: heure du Myanmar,
+    Standard: heure du Myanmar,
+    Daylight: heure du Myanmar
+  },
+  Asia/Riyadh: {
+    Generic: heure de l’Arabie,
+    Standard: heure normale de l’Arabie,
+    Daylight: heure d’été de l’Arabie
+  },
+  Asia/Saigon: {
+    Generic: heure d’Indochine,
+    Standard: heure d’Indochine,
+    Daylight: heure d’Indochine
+  },
+  Asia/Sakhalin: {
+    Generic: heure : Sakhaline,
+    Standard: Sakhaline (heure standard),
+    Daylight: Sakhaline (heure d’été)
+  },
+  Asia/Samarkand: {
+    Generic: heure de l’Ouzbékistan,
+    Standard: heure normale de l’Ouzbékistan,
+    Daylight: heure d’été de l’Ouzbékistan
+  },
+  Asia/Seoul: {
+    Generic: heure de la Corée,
+    Standard: heure normale de la Corée,
+    Daylight: heure d’été de Corée
+  },
+  Asia/Shanghai: {
+    Generic: heure de la Chine,
+    Standard: heure normale de la Chine,
+    Daylight: heure d’été de Chine
+  },
+  Asia/Singapore: {
+    Generic: heure de Singapour,
+    Standard: heure de Singapour,
+    Daylight: heure de Singapour
+  },
+  Asia/Srednekolymsk: {
+    Generic: heure : Srednekolymsk,
+    Standard: Srednekolymsk (heure standard),
+    Daylight: Srednekolymsk (heure d’été)
+  },
+  Asia/Taipei: {
+    Generic: heure de Taipei,
+    Standard: heure normale de Taipei,
+    Daylight: heure d’été de Taipei
+  },
+  Asia/Tashkent: {
+    Generic: heure de l’Ouzbékistan,
+    Standard: heure normale de l’Ouzbékistan,
+    Daylight: heure d’été de l’Ouzbékistan
+  },
+  Asia/Tbilisi: {
+    Generic: heure de la Géorgie,
+    Standard: heure normale de la Géorgie,
+    Daylight: heure d’été de Géorgie
+  },
+  Asia/Tehran: {
+    Generic: heure de l’Iran,
+    Standard: heure normale d’Iran,
+    Daylight: heure d’été d’Iran
+  },
+  Asia/Tel_Aviv: {
+    Generic: heure d’Israël,
+    Standard: heure normale d’Israël,
+    Daylight: heure d’été d’Israël
+  },
+  Asia/Thimbu: {
+    Generic: heure du Bhoutan,
+    Standard: heure du Bhoutan,
+    Daylight: heure du Bhoutan
+  },
+  Asia/Thimphu: {
+    Generic: heure du Bhoutan,
+    Standard: heure du Bhoutan,
+    Daylight: heure du Bhoutan
+  },
+  Asia/Tokyo: {
+    Generic: heure du Japon,
+    Standard: heure normale du Japon,
+    Daylight: heure d’été du Japon
+  },
+  Asia/Tomsk: {
+    Generic: heure : Tomsk,
+    Standard: Tomsk (heure standard),
+    Daylight: Tomsk (heure d’été)
+  },
+  Asia/Ujung_Pandang: {
+    Generic: heure du Centre indonésien,
+    Standard: heure du Centre indonésien,
+    Daylight: heure du Centre indonésien
+  },
+  Asia/Ulaanbaatar: {
+    Generic: heure d’Oulan-Bator,
+    Standard: heure normale d’Oulan-Bator,
+    Daylight: heure d’été d’Oulan-Bator
+  },
+  Asia/Ulan_Bator: {
+    Generic: heure d’Oulan-Bator,
+    Standard: heure normale d’Oulan-Bator,
+    Daylight: heure d’été d’Oulan-Bator
+  },
+  Asia/Urumqi: {
+    Generic: heure : Chine,
+    Standard: Chine (heure standard),
+    Daylight: Chine (heure d’été)
+  },
+  Asia/Ust-Nera: {
+    Generic: heure : Ust-Nera,
+    Standard: Ust-Nera (heure standard),
+    Daylight: Ust-Nera (heure d’été)
+  },
+  Asia/Vientiane: {
+    Generic: heure d’Indochine,
+    Standard: heure d’Indochine,
+    Daylight: heure d’Indochine
+  },
+  Asia/Vladivostok: {
+    Generic: heure : Vladivostok,
+    Standard: Vladivostok (heure standard),
+    Daylight: Vladivostok (heure d’été)
+  },
+  Asia/Yakutsk: {
+    Generic: heure : Iakoutsk,
+    Standard: Iakoutsk (heure standard),
+    Daylight: Iakoutsk (heure d’été)
+  },
   Asia/Yangon: {
     Generic: heure du Myanmar,
     Standard: heure du Myanmar,
     Daylight: heure du Myanmar
   },
-  WET: {
+  Asia/Yekaterinburg: {
+    Generic: heure : Ekaterinbourg,
+    Standard: Ekaterinbourg (heure standard),
+    Daylight: Ekaterinbourg (heure d’été)
+  },
+  Asia/Yerevan: {
+    Generic: heure de l’Arménie,
+    Standard: heure normale de l’Arménie,
+    Daylight: heure d’été d’Arménie
+  },
+  Atlantic/Azores: {
+    Generic: heure des Açores,
+    Standard: heure normale des Açores,
+    Daylight: heure d’été des Açores
+  },
+  Atlantic/Bermuda: {
+    Generic: heure de l’Atlantique,
+    Standard: heure normale de l’Atlantique,
+    Daylight: heure d’été de l’Atlantique
+  },
+  Atlantic/Canary: {
+    Generic: heure d’Europe de l’Ouest,
+    Standard: heure normale d’Europe de l’Ouest,
+    Daylight: heure d’été d’Europe de l’Ouest
+  },
+  Atlantic/Cape_Verde: {
+    Generic: heure du Cap-Vert,
+    Standard: heure normale du Cap-Vert,
+    Daylight: heure d’été du Cap-Vert
+  },
+  Atlantic/Faeroe: {
     Generic: heure d’Europe de l’Ouest,
     Standard: heure normale d’Europe de l’Ouest,
     Daylight: heure d’été d’Europe de l’Ouest
@@ -2679,27 +1694,77 @@
     Standard: heure normale d’Europe de l’Ouest,
     Daylight: heure d’été d’Europe de l’Ouest
   },
-  Australia/South: {
-    Generic: heure du centre de l’Australie,
-    Standard: heure normale du centre de l’Australie,
-    Daylight: heure d’été du centre de l’Australie
+  Atlantic/Jan_Mayen: {
+    Generic: heure d’Europe centrale,
+    Standard: heure normale d’Europe centrale,
+    Daylight: heure d’été d’Europe centrale
   },
-  Australia/Queensland: {
+  Atlantic/Madeira: {
+    Generic: heure d’Europe de l’Ouest,
+    Standard: heure normale d’Europe de l’Ouest,
+    Daylight: heure d’été d’Europe de l’Ouest
+  },
+  Atlantic/Reykjavik: {
+    Generic: heure moyenne de Greenwich,
+    Standard: heure moyenne de Greenwich,
+    Daylight: heure moyenne de Greenwich
+  },
+  Atlantic/South_Georgia: {
+    Generic: heure de Géorgie du Sud,
+    Standard: heure de Géorgie du Sud,
+    Daylight: heure de Géorgie du Sud
+  },
+  Atlantic/St_Helena: {
+    Generic: heure moyenne de Greenwich,
+    Standard: heure moyenne de Greenwich,
+    Daylight: heure moyenne de Greenwich
+  },
+  Atlantic/Stanley: {
+    Generic: heure des îles Malouines,
+    Standard: heure normale des îles Malouines,
+    Daylight: heure d’été des îles Malouines
+  },
+  Australia/ACT: {
     Generic: heure de l’Est de l’Australie,
     Standard: heure normale de l’Est de l’Australie,
     Daylight: heure d’été de l’Est de l’Australie
   },
-  Australia/Yancowinna: {
+  Australia/Adelaide: {
     Generic: heure du centre de l’Australie,
     Standard: heure normale du centre de l’Australie,
     Daylight: heure d’été du centre de l’Australie
   },
-  Australia/North: {
+  Australia/Brisbane: {
+    Generic: heure de l’Est de l’Australie,
+    Standard: heure normale de l’Est de l’Australie,
+    Daylight: heure d’été de l’Est de l’Australie
+  },
+  Australia/Broken_Hill: {
     Generic: heure du centre de l’Australie,
     Standard: heure normale du centre de l’Australie,
     Daylight: heure d’été du centre de l’Australie
   },
-  Australia/Tasmania: {
+  Australia/Canberra: {
+    Generic: heure de l’Est de l’Australie,
+    Standard: heure normale de l’Est de l’Australie,
+    Daylight: heure d’été de l’Est de l’Australie
+  },
+  Australia/Currie: {
+    Generic: heure de l’Est de l’Australie,
+    Standard: heure normale de l’Est de l’Australie,
+    Daylight: heure d’été de l’Est de l’Australie
+  },
+  Australia/Darwin: {
+    Generic: heure du centre de l’Australie,
+    Standard: heure normale du centre de l’Australie,
+    Daylight: heure d’été du centre de l’Australie
+  },
+  Australia/Eucla: {
+    Generic: heure du centre-ouest de l’Australie,
+    Standard: heure normale du centre-ouest de l’Australie,
+    Daylight: heure d’été du centre-ouest de l’Australie
+  },
+  Australia/Hobart: {
     Generic: heure de l’Est de l’Australie,
     Standard: heure normale de l’Est de l’Australie,
     Daylight: heure d’été de l’Est de l’Australie
@@ -2708,6 +1773,56 @@
     Generic: heure de Lord Howe,
     Standard: heure normale de Lord Howe,
     Daylight: heure d’été de Lord Howe
+  },
+  Australia/Lindeman: {
+    Generic: heure de l’Est de l’Australie,
+    Standard: heure normale de l’Est de l’Australie,
+    Daylight: heure d’été de l’Est de l’Australie
+  },
+  Australia/Lord_Howe: {
+    Generic: heure de Lord Howe,
+    Standard: heure normale de Lord Howe,
+    Daylight: heure d’été de Lord Howe
+  },
+  Australia/Melbourne: {
+    Generic: heure de l’Est de l’Australie,
+    Standard: heure normale de l’Est de l’Australie,
+    Daylight: heure d’été de l’Est de l’Australie
+  },
+  Australia/NSW: {
+    Generic: heure de l’Est de l’Australie,
+    Standard: heure normale de l’Est de l’Australie,
+    Daylight: heure d’été de l’Est de l’Australie
+  },
+  Australia/North: {
+    Generic: heure du centre de l’Australie,
+    Standard: heure normale du centre de l’Australie,
+    Daylight: heure d’été du centre de l’Australie
+  },
+  Australia/Perth: {
+    Generic: heure de l’Ouest de l’Australie,
+    Standard: heure normale de l’Ouest de l’Australie,
+    Daylight: heure d’été de l’Ouest de l’Australie
+  },
+  Australia/Queensland: {
+    Generic: heure de l’Est de l’Australie,
+    Standard: heure normale de l’Est de l’Australie,
+    Daylight: heure d’été de l’Est de l’Australie
+  },
+  Australia/South: {
+    Generic: heure du centre de l’Australie,
+    Standard: heure normale du centre de l’Australie,
+    Daylight: heure d’été du centre de l’Australie
+  },
+  Australia/Sydney: {
+    Generic: heure de l’Est de l’Australie,
+    Standard: heure normale de l’Est de l’Australie,
+    Daylight: heure d’été de l’Est de l’Australie
+  },
+  Australia/Tasmania: {
+    Generic: heure de l’Est de l’Australie,
+    Standard: heure normale de l’Est de l’Australie,
+    Daylight: heure d’été de l’Est de l’Australie
   },
   Australia/Victoria: {
     Generic: heure de l’Est de l’Australie,
@@ -2719,45 +1834,265 @@
     Standard: heure normale de l’Ouest de l’Australie,
     Daylight: heure d’été de l’Ouest de l’Australie
   },
-  Australia/ACT: {
-    Generic: heure de l’Est de l’Australie,
-    Standard: heure normale de l’Est de l’Australie,
-    Daylight: heure d’été de l’Est de l’Australie
+  Australia/Yancowinna: {
+    Generic: heure du centre de l’Australie,
+    Standard: heure normale du centre de l’Australie,
+    Daylight: heure d’été du centre de l’Australie
   },
-  Australia/Canberra: {
-    Generic: heure de l’Est de l’Australie,
-    Standard: heure normale de l’Est de l’Australie,
-    Daylight: heure d’été de l’Est de l’Australie
+  Brazil/Acre: {
+    Generic: heure de l’Acre,
+    Standard: heure normale de l’Acre,
+    Daylight: heure d’été de l’Acre
   },
-  Australia/NSW: {
-    Generic: heure de l’Est de l’Australie,
-    Standard: heure normale de l’Est de l’Australie,
-    Daylight: heure d’été de l’Est de l’Australie
+  Brazil/DeNoronha: {
+    Generic: heure de Fernando de Noronha,
+    Standard: heure normale de Fernando de Noronha,
+    Daylight: heure d’été de Fernando de Noronha
   },
-  HST: {
-    Generic: temps universel coordonné -10,
-    Standard: temps universel coordonné -10,
-    Daylight: temps universel coordonné -10
+  Brazil/East: {
+    Generic: heure de Brasilia,
+    Standard: heure normale de Brasilia,
+    Daylight: heure d’été de Brasilia
+  },
+  Brazil/West: {
+    Generic: heure de l’Amazonie,
+    Standard: heure normale de l’Amazonie,
+    Daylight: heure d’été de l’Amazonie
+  },
+  CET: {
+    Generic: heure d’Europe centrale,
+    Standard: heure normale d’Europe centrale,
+    Daylight: heure d’été d’Europe centrale
+  },
+  CST6CDT: {
+    Generic: heure du centre nord-américain,
+    Standard: heure normale du centre nord-américain,
+    Daylight: heure d’été du centre nord-américain
+  },
+  Canada/Atlantic: {
+    Generic: heure de l’Atlantique,
+    Standard: heure normale de l’Atlantique,
+    Daylight: heure d’été de l’Atlantique
+  },
+  Canada/Central: {
+    Generic: heure du centre nord-américain,
+    Standard: heure normale du centre nord-américain,
+    Daylight: heure d’été du centre nord-américain
+  },
+  Canada/Eastern: {
+    Generic: heure de l’Est nord-américain,
+    Standard: heure normale de l’Est nord-américain,
+    Daylight: heure d’été de l’Est nord-américain
+  },
+  Canada/Mountain: {
+    Generic: heure des Rocheuses,
+    Standard: heure normale des Rocheuses,
+    Daylight: heure d’été des Rocheuses
+  },
+  Canada/Newfoundland: {
+    Generic: heure de Terre-Neuve,
+    Standard: heure normale de Terre-Neuve,
+    Daylight: heure d’été de Terre-Neuve
+  },
+  Canada/Pacific: {
+    Generic: heure du Pacifique nord-américain,
+    Standard: heure normale du Pacifique nord-américain,
+    Daylight: heure d’été du Pacifique nord-américain
+  },
+  Canada/Saskatchewan: {
+    Generic: heure du centre nord-américain,
+    Standard: heure normale du centre nord-américain,
+    Daylight: heure d’été du centre nord-américain
+  },
+  Canada/Yukon: {
+    Generic: heure normale du Yukon,
+    Standard: heure normale du Yukon,
+    Daylight: heure normale du Yukon
+  },
+  Chile/Continental: {
+    Generic: heure du Chili,
+    Standard: heure normale du Chili,
+    Daylight: heure d’été du Chili
+  },
+  Chile/EasterIsland: {
+    Generic: heure de l’île de Pâques,
+    Standard: heure normale de l’île de Pâques,
+    Daylight: heure d’été de l’île de Pâques
+  },
+  Cuba: {
+    Generic: heure de Cuba,
+    Standard: heure normale de Cuba,
+    Daylight: heure d’été de Cuba
+  },
+  EET: {
+    Generic: heure d’Europe de l’Est,
+    Standard: heure normale d’Europe de l’Est,
+    Daylight: heure d’été d’Europe de l’Est
   },
   EST: {
     Generic: temps universel coordonné -5,
     Standard: temps universel coordonné -5,
     Daylight: temps universel coordonné -5
   },
-  MST: {
-    Generic: temps universel coordonné -7,
-    Standard: temps universel coordonné -7,
-    Daylight: temps universel coordonné -7
+  EST5EDT: {
+    Generic: heure de l’Est nord-américain,
+    Standard: heure normale de l’Est nord-américain,
+    Daylight: heure d’été de l’Est nord-américain
+  },
+  Egypt: {
+    Generic: heure d’Europe de l’Est,
+    Standard: heure normale d’Europe de l’Est,
+    Daylight: heure d’été d’Europe de l’Est
+  },
+  Eire: {
+    Generic: heure : Irlande,
+    Standard: heure moyenne de Greenwich,
+    Daylight: heure d’été irlandaise
+  },
+  Etc/GMT: {
+    Generic: heure moyenne de Greenwich,
+    Standard: heure moyenne de Greenwich,
+    Daylight: heure moyenne de Greenwich
   },
   Etc/GMT+0: {
     Generic: heure moyenne de Greenwich,
     Standard: heure moyenne de Greenwich,
     Daylight: heure moyenne de Greenwich
   },
+  Etc/GMT+1: {
+    Generic: temps universel coordonné -1,
+    Standard: temps universel coordonné -1,
+    Daylight: temps universel coordonné -1
+  },
+  Etc/GMT+10: {
+    Generic: temps universel coordonné -10,
+    Standard: temps universel coordonné -10,
+    Daylight: temps universel coordonné -10
+  },
+  Etc/GMT+11: {
+    Generic: temps universel coordonné -11,
+    Standard: temps universel coordonné -11,
+    Daylight: temps universel coordonné -11
+  },
+  Etc/GMT+12: {
+    Generic: temps universel coordonné -12,
+    Standard: temps universel coordonné -12,
+    Daylight: temps universel coordonné -12
+  },
+  Etc/GMT+2: {
+    Generic: temps universel coordonné -2,
+    Standard: temps universel coordonné -2,
+    Daylight: temps universel coordonné -2
+  },
+  Etc/GMT+3: {
+    Generic: temps universel coordonné -3,
+    Standard: temps universel coordonné -3,
+    Daylight: temps universel coordonné -3
+  },
+  Etc/GMT+4: {
+    Generic: temps universel coordonné -4,
+    Standard: temps universel coordonné -4,
+    Daylight: temps universel coordonné -4
+  },
+  Etc/GMT+5: {
+    Generic: temps universel coordonné -5,
+    Standard: temps universel coordonné -5,
+    Daylight: temps universel coordonné -5
+  },
+  Etc/GMT+6: {
+    Generic: temps universel coordonné -6,
+    Standard: temps universel coordonné -6,
+    Daylight: temps universel coordonné -6
+  },
+  Etc/GMT+7: {
+    Generic: temps universel coordonné -7,
+    Standard: temps universel coordonné -7,
+    Daylight: temps universel coordonné -7
+  },
+  Etc/GMT+8: {
+    Generic: temps universel coordonné -8,
+    Standard: temps universel coordonné -8,
+    Daylight: temps universel coordonné -8
+  },
+  Etc/GMT+9: {
+    Generic: temps universel coordonné -9,
+    Standard: temps universel coordonné -9,
+    Daylight: temps universel coordonné -9
+  },
   Etc/GMT-0: {
     Generic: heure moyenne de Greenwich,
     Standard: heure moyenne de Greenwich,
     Daylight: heure moyenne de Greenwich
+  },
+  Etc/GMT-1: {
+    Generic: temps universel coordonné +1,
+    Standard: temps universel coordonné +1,
+    Daylight: temps universel coordonné +1
+  },
+  Etc/GMT-10: {
+    Generic: temps universel coordonné +10,
+    Standard: temps universel coordonné +10,
+    Daylight: temps universel coordonné +10
+  },
+  Etc/GMT-11: {
+    Generic: temps universel coordonné +11,
+    Standard: temps universel coordonné +11,
+    Daylight: temps universel coordonné +11
+  },
+  Etc/GMT-12: {
+    Generic: temps universel coordonné +12,
+    Standard: temps universel coordonné +12,
+    Daylight: temps universel coordonné +12
+  },
+  Etc/GMT-13: {
+    Generic: temps universel coordonné +13,
+    Standard: temps universel coordonné +13,
+    Daylight: temps universel coordonné +13
+  },
+  Etc/GMT-14: {
+    Generic: temps universel coordonné +14,
+    Standard: temps universel coordonné +14,
+    Daylight: temps universel coordonné +14
+  },
+  Etc/GMT-2: {
+    Generic: temps universel coordonné +2,
+    Standard: temps universel coordonné +2,
+    Daylight: temps universel coordonné +2
+  },
+  Etc/GMT-3: {
+    Generic: temps universel coordonné +3,
+    Standard: temps universel coordonné +3,
+    Daylight: temps universel coordonné +3
+  },
+  Etc/GMT-4: {
+    Generic: temps universel coordonné +4,
+    Standard: temps universel coordonné +4,
+    Daylight: temps universel coordonné +4
+  },
+  Etc/GMT-5: {
+    Generic: temps universel coordonné +5,
+    Standard: temps universel coordonné +5,
+    Daylight: temps universel coordonné +5
+  },
+  Etc/GMT-6: {
+    Generic: temps universel coordonné +6,
+    Standard: temps universel coordonné +6,
+    Daylight: temps universel coordonné +6
+  },
+  Etc/GMT-7: {
+    Generic: temps universel coordonné +7,
+    Standard: temps universel coordonné +7,
+    Daylight: temps universel coordonné +7
+  },
+  Etc/GMT-8: {
+    Generic: temps universel coordonné +8,
+    Standard: temps universel coordonné +8,
+    Daylight: temps universel coordonné +8
+  },
+  Etc/GMT-9: {
+    Generic: temps universel coordonné +9,
+    Standard: temps universel coordonné +9,
+    Daylight: temps universel coordonné +9
   },
   Etc/GMT0: {
     Generic: heure moyenne de Greenwich,
@@ -2768,6 +2103,356 @@
     Generic: heure moyenne de Greenwich,
     Standard: heure moyenne de Greenwich,
     Daylight: heure moyenne de Greenwich
+  },
+  Etc/UCT: {
+    Generic: temps universel coordonné,
+    Standard: temps universel coordonné,
+    Daylight: temps universel coordonné
+  },
+  Etc/UTC: {
+    Generic: temps universel coordonné,
+    Standard: temps universel coordonné,
+    Daylight: temps universel coordonné
+  },
+  Etc/Universal: {
+    Generic: temps universel coordonné,
+    Standard: temps universel coordonné,
+    Daylight: temps universel coordonné
+  },
+  Etc/Zulu: {
+    Generic: temps universel coordonné,
+    Standard: temps universel coordonné,
+    Daylight: temps universel coordonné
+  },
+  Europe/Amsterdam: {
+    Generic: heure d’Europe centrale,
+    Standard: heure normale d’Europe centrale,
+    Daylight: heure d’été d’Europe centrale
+  },
+  Europe/Andorra: {
+    Generic: heure d’Europe centrale,
+    Standard: heure normale d’Europe centrale,
+    Daylight: heure d’été d’Europe centrale
+  },
+  Europe/Astrakhan: {
+    Generic: heure : Astrakhan,
+    Standard: Astrakhan (heure standard),
+    Daylight: Astrakhan (heure d’été)
+  },
+  Europe/Athens: {
+    Generic: heure d’Europe de l’Est,
+    Standard: heure normale d’Europe de l’Est,
+    Daylight: heure d’été d’Europe de l’Est
+  },
+  Europe/Belfast: {
+    Generic: heure : Royaume-Uni,
+    Standard: heure moyenne de Greenwich,
+    Daylight: heure d’été britannique
+  },
+  Europe/Belgrade: {
+    Generic: heure d’Europe centrale,
+    Standard: heure normale d’Europe centrale,
+    Daylight: heure d’été d’Europe centrale
+  },
+  Europe/Berlin: {
+    Generic: heure d’Europe centrale,
+    Standard: heure normale d’Europe centrale,
+    Daylight: heure d’été d’Europe centrale
+  },
+  Europe/Bratislava: {
+    Generic: heure d’Europe centrale,
+    Standard: heure normale d’Europe centrale,
+    Daylight: heure d’été d’Europe centrale
+  },
+  Europe/Brussels: {
+    Generic: heure d’Europe centrale,
+    Standard: heure normale d’Europe centrale,
+    Daylight: heure d’été d’Europe centrale
+  },
+  Europe/Bucharest: {
+    Generic: heure d’Europe de l’Est,
+    Standard: heure normale d’Europe de l’Est,
+    Daylight: heure d’été d’Europe de l’Est
+  },
+  Europe/Budapest: {
+    Generic: heure d’Europe centrale,
+    Standard: heure normale d’Europe centrale,
+    Daylight: heure d’été d’Europe centrale
+  },
+  Europe/Busingen: {
+    Generic: heure d’Europe centrale,
+    Standard: heure normale d’Europe centrale,
+    Daylight: heure d’été d’Europe centrale
+  },
+  Europe/Chisinau: {
+    Generic: heure d’Europe de l’Est,
+    Standard: heure normale d’Europe de l’Est,
+    Daylight: heure d’été d’Europe de l’Est
+  },
+  Europe/Copenhagen: {
+    Generic: heure d’Europe centrale,
+    Standard: heure normale d’Europe centrale,
+    Daylight: heure d’été d’Europe centrale
+  },
+  Europe/Dublin: {
+    Generic: heure : Irlande,
+    Standard: heure moyenne de Greenwich,
+    Daylight: heure d’été irlandaise
+  },
+  Europe/Gibraltar: {
+    Generic: heure d’Europe centrale,
+    Standard: heure normale d’Europe centrale,
+    Daylight: heure d’été d’Europe centrale
+  },
+  Europe/Guernsey: {
+    Generic: heure moyenne de Greenwich,
+    Standard: heure moyenne de Greenwich,
+    Daylight: heure moyenne de Greenwich
+  },
+  Europe/Helsinki: {
+    Generic: heure d’Europe de l’Est,
+    Standard: heure normale d’Europe de l’Est,
+    Daylight: heure d’été d’Europe de l’Est
+  },
+  Europe/Isle_of_Man: {
+    Generic: heure moyenne de Greenwich,
+    Standard: heure moyenne de Greenwich,
+    Daylight: heure moyenne de Greenwich
+  },
+  Europe/Istanbul: {
+    Generic: heure : Turquie,
+    Standard: Turquie (heure standard),
+    Daylight: Turquie (heure d’été)
+  },
+  Europe/Jersey: {
+    Generic: heure moyenne de Greenwich,
+    Standard: heure moyenne de Greenwich,
+    Daylight: heure moyenne de Greenwich
+  },
+  Europe/Kaliningrad: {
+    Generic: heure : Kaliningrad,
+    Standard: Kaliningrad (heure standard),
+    Daylight: Kaliningrad (heure d’été)
+  },
+  Europe/Kiev: {
+    Generic: heure d’Europe de l’Est,
+    Standard: heure normale d’Europe de l’Est,
+    Daylight: heure d’été d’Europe de l’Est
+  },
+  Europe/Kirov: {
+    Generic: heure : Kirov,
+    Standard: Kirov (heure standard),
+    Daylight: Kirov (heure d’été)
+  },
+  Europe/Kyiv: {
+    Generic: heure d’Europe de l’Est,
+    Standard: heure normale d’Europe de l’Est,
+    Daylight: heure d’été d’Europe de l’Est
+  },
+  Europe/Lisbon: {
+    Generic: heure d’Europe de l’Ouest,
+    Standard: heure normale d’Europe de l’Ouest,
+    Daylight: heure d’été d’Europe de l’Ouest
+  },
+  Europe/Ljubljana: {
+    Generic: heure d’Europe centrale,
+    Standard: heure normale d’Europe centrale,
+    Daylight: heure d’été d’Europe centrale
+  },
+  Europe/London: {
+    Generic: heure : Royaume-Uni,
+    Standard: heure moyenne de Greenwich,
+    Daylight: heure d’été britannique
+  },
+  Europe/Luxembourg: {
+    Generic: heure d’Europe centrale,
+    Standard: heure normale d’Europe centrale,
+    Daylight: heure d’été d’Europe centrale
+  },
+  Europe/Madrid: {
+    Generic: heure d’Europe centrale,
+    Standard: heure normale d’Europe centrale,
+    Daylight: heure d’été d’Europe centrale
+  },
+  Europe/Malta: {
+    Generic: heure d’Europe centrale,
+    Standard: heure normale d’Europe centrale,
+    Daylight: heure d’été d’Europe centrale
+  },
+  Europe/Mariehamn: {
+    Generic: heure d’Europe de l’Est,
+    Standard: heure normale d’Europe de l’Est,
+    Daylight: heure d’été d’Europe de l’Est
+  },
+  Europe/Minsk: {
+    Generic: heure de Moscou,
+    Standard: heure normale de Moscou,
+    Daylight: heure d’été de Moscou
+  },
+  Europe/Monaco: {
+    Generic: heure d’Europe centrale,
+    Standard: heure normale d’Europe centrale,
+    Daylight: heure d’été d’Europe centrale
+  },
+  Europe/Moscow: {
+    Generic: heure : Moscou,
+    Standard: Moscou (heure standard),
+    Daylight: Moscou (heure d’été)
+  },
+  Europe/Nicosia: {
+    Generic: heure d’Europe de l’Est,
+    Standard: heure normale d’Europe de l’Est,
+    Daylight: heure d’été d’Europe de l’Est
+  },
+  Europe/Oslo: {
+    Generic: heure d’Europe centrale,
+    Standard: heure normale d’Europe centrale,
+    Daylight: heure d’été d’Europe centrale
+  },
+  Europe/Paris: {
+    Generic: heure d’Europe centrale,
+    Standard: heure normale d’Europe centrale,
+    Daylight: heure d’été d’Europe centrale
+  },
+  Europe/Podgorica: {
+    Generic: heure d’Europe centrale,
+    Standard: heure normale d’Europe centrale,
+    Daylight: heure d’été d’Europe centrale
+  },
+  Europe/Prague: {
+    Generic: heure d’Europe centrale,
+    Standard: heure normale d’Europe centrale,
+    Daylight: heure d’été d’Europe centrale
+  },
+  Europe/Riga: {
+    Generic: heure d’Europe de l’Est,
+    Standard: heure normale d’Europe de l’Est,
+    Daylight: heure d’été d’Europe de l’Est
+  },
+  Europe/Rome: {
+    Generic: heure d’Europe centrale,
+    Standard: heure normale d’Europe centrale,
+    Daylight: heure d’été d’Europe centrale
+  },
+  Europe/Samara: {
+    Generic: heure : Samara,
+    Standard: Samara (heure standard),
+    Daylight: Samara (heure d’été)
+  },
+  Europe/San_Marino: {
+    Generic: heure d’Europe centrale,
+    Standard: heure normale d’Europe centrale,
+    Daylight: heure d’été d’Europe centrale
+  },
+  Europe/Sarajevo: {
+    Generic: heure d’Europe centrale,
+    Standard: heure normale d’Europe centrale,
+    Daylight: heure d’été d’Europe centrale
+  },
+  Europe/Saratov: {
+    Generic: heure : Saratov,
+    Standard: Saratov (heure standard),
+    Daylight: Saratov (heure d’été)
+  },
+  Europe/Simferopol: {
+    Generic: heure de Moscou,
+    Standard: heure normale de Moscou,
+    Daylight: heure d’été de Moscou
+  },
+  Europe/Skopje: {
+    Generic: heure d’Europe centrale,
+    Standard: heure normale d’Europe centrale,
+    Daylight: heure d’été d’Europe centrale
+  },
+  Europe/Sofia: {
+    Generic: heure d’Europe de l’Est,
+    Standard: heure normale d’Europe de l’Est,
+    Daylight: heure d’été d’Europe de l’Est
+  },
+  Europe/Stockholm: {
+    Generic: heure d’Europe centrale,
+    Standard: heure normale d’Europe centrale,
+    Daylight: heure d’été d’Europe centrale
+  },
+  Europe/Tallinn: {
+    Generic: heure d’Europe de l’Est,
+    Standard: heure normale d’Europe de l’Est,
+    Daylight: heure d’été d’Europe de l’Est
+  },
+  Europe/Tirane: {
+    Generic: heure d’Europe centrale,
+    Standard: heure normale d’Europe centrale,
+    Daylight: heure d’été d’Europe centrale
+  },
+  Europe/Tiraspol: {
+    Generic: heure d’Europe de l’Est,
+    Standard: heure normale d’Europe de l’Est,
+    Daylight: heure d’été d’Europe de l’Est
+  },
+  Europe/Ulyanovsk: {
+    Generic: heure : Oulianovsk,
+    Standard: Oulianovsk (heure standard),
+    Daylight: Oulianovsk (heure d’été)
+  },
+  Europe/Uzhgorod: {
+    Generic: heure d’Europe de l’Est,
+    Standard: heure normale d’Europe de l’Est,
+    Daylight: heure d’été d’Europe de l’Est
+  },
+  Europe/Vaduz: {
+    Generic: heure d’Europe centrale,
+    Standard: heure normale d’Europe centrale,
+    Daylight: heure d’été d’Europe centrale
+  },
+  Europe/Vatican: {
+    Generic: heure d’Europe centrale,
+    Standard: heure normale d’Europe centrale,
+    Daylight: heure d’été d’Europe centrale
+  },
+  Europe/Vienna: {
+    Generic: heure d’Europe centrale,
+    Standard: heure normale d’Europe centrale,
+    Daylight: heure d’été d’Europe centrale
+  },
+  Europe/Vilnius: {
+    Generic: heure d’Europe de l’Est,
+    Standard: heure normale d’Europe de l’Est,
+    Daylight: heure d’été d’Europe de l’Est
+  },
+  Europe/Volgograd: {
+    Generic: heure : Volgograd,
+    Standard: Volgograd (heure standard),
+    Daylight: Volgograd (heure d’été)
+  },
+  Europe/Warsaw: {
+    Generic: heure d’Europe centrale,
+    Standard: heure normale d’Europe centrale,
+    Daylight: heure d’été d’Europe centrale
+  },
+  Europe/Zagreb: {
+    Generic: heure d’Europe centrale,
+    Standard: heure normale d’Europe centrale,
+    Daylight: heure d’été d’Europe centrale
+  },
+  Europe/Zaporozhye: {
+    Generic: heure d’Europe de l’Est,
+    Standard: heure normale d’Europe de l’Est,
+    Daylight: heure d’été d’Europe de l’Est
+  },
+  Europe/Zurich: {
+    Generic: heure d’Europe centrale,
+    Standard: heure normale d’Europe centrale,
+    Daylight: heure d’été d’Europe centrale
+  },
+  GB: {
+    Generic: heure : Royaume-Uni,
+    Standard: heure moyenne de Greenwich,
+    Daylight: heure d’été britannique
+  },
+  GB-Eire: {
+    Generic: heure : Royaume-Uni,
+    Standard: heure moyenne de Greenwich,
+    Daylight: heure d’été britannique
   },
   GMT: {
     Generic: heure moyenne de Greenwich,
@@ -2794,120 +2479,135 @@
     Standard: heure moyenne de Greenwich,
     Daylight: heure moyenne de Greenwich
   },
-  Etc/UCT: {
-    Generic: temps universel coordonné,
-    Standard: temps universel coordonné,
-    Daylight: temps universel coordonné
+  HST: {
+    Generic: temps universel coordonné -10,
+    Standard: temps universel coordonné -10,
+    Daylight: temps universel coordonné -10
   },
-  Etc/Universal: {
-    Generic: temps universel coordonné,
-    Standard: temps universel coordonné,
-    Daylight: temps universel coordonné
+  Hongkong: {
+    Generic: heure de Hong Kong,
+    Standard: heure normale de Hong Kong,
+    Daylight: heure d’été de Hong Kong
   },
-  Etc/Zulu: {
-    Generic: temps universel coordonné,
-    Standard: temps universel coordonné,
-    Daylight: temps universel coordonné
+  Iceland: {
+    Generic: heure moyenne de Greenwich,
+    Standard: heure moyenne de Greenwich,
+    Daylight: heure moyenne de Greenwich
   },
-  UCT: {
-    Generic: temps universel coordonné,
-    Standard: temps universel coordonné,
-    Daylight: temps universel coordonné
+  Indian/Antananarivo: {
+    Generic: heure normale d’Afrique de l’Est,
+    Standard: heure normale d’Afrique de l’Est,
+    Daylight: heure normale d’Afrique de l’Est
   },
-  UTC: {
-    Generic: temps universel coordonné,
-    Standard: temps universel coordonné,
-    Daylight: temps universel coordonné
+  Indian/Chagos: {
+    Generic: heure de l’Océan Indien,
+    Standard: heure de l’Océan Indien,
+    Daylight: heure de l’Océan Indien
   },
-  Universal: {
-    Generic: temps universel coordonné,
-    Standard: temps universel coordonné,
-    Daylight: temps universel coordonné
+  Indian/Christmas: {
+    Generic: heure de l’île Christmas,
+    Standard: heure de l’île Christmas,
+    Daylight: heure de l’île Christmas
   },
-  Zulu: {
-    Generic: temps universel coordonné,
-    Standard: temps universel coordonné,
-    Daylight: temps universel coordonné
+  Indian/Cocos: {
+    Generic: heure des îles Cocos,
+    Standard: heure des îles Cocos,
+    Daylight: heure des îles Cocos
   },
-  Atlantic/Jan_Mayen: {
-    Generic: heure d’Europe centrale,
-    Standard: heure normale d’Europe centrale,
-    Daylight: heure d’été d’Europe centrale
+  Indian/Comoro: {
+    Generic: heure normale d’Afrique de l’Est,
+    Standard: heure normale d’Afrique de l’Est,
+    Daylight: heure normale d’Afrique de l’Est
+  },
+  Indian/Kerguelen: {
+    Generic: heure des Terres australes et antarctiques françaises,
+    Standard: heure des Terres australes et antarctiques françaises,
+    Daylight: heure des Terres australes et antarctiques françaises
+  },
+  Indian/Mahe: {
+    Generic: heure des Seychelles,
+    Standard: heure des Seychelles,
+    Daylight: heure des Seychelles
+  },
+  Indian/Maldives: {
+    Generic: heure des Maldives,
+    Standard: heure des Maldives,
+    Daylight: heure des Maldives
+  },
+  Indian/Mauritius: {
+    Generic: heure de Maurice,
+    Standard: heure normale de Maurice,
+    Daylight: heure d’été de Maurice
+  },
+  Indian/Mayotte: {
+    Generic: heure normale d’Afrique de l’Est,
+    Standard: heure normale d’Afrique de l’Est,
+    Daylight: heure normale d’Afrique de l’Est
+  },
+  Indian/Reunion: {
+    Generic: heure de La Réunion,
+    Standard: heure de La Réunion,
+    Daylight: heure de La Réunion
+  },
+  Iran: {
+    Generic: heure de l’Iran,
+    Standard: heure normale d’Iran,
+    Daylight: heure d’été d’Iran
+  },
+  Israel: {
+    Generic: heure d’Israël,
+    Standard: heure normale d’Israël,
+    Daylight: heure d’été d’Israël
+  },
+  Jamaica: {
+    Generic: heure de l’Est nord-américain,
+    Standard: heure normale de l’Est nord-américain,
+    Daylight: heure d’été de l’Est nord-américain
+  },
+  Japan: {
+    Generic: heure du Japon,
+    Standard: heure normale du Japon,
+    Daylight: heure d’été du Japon
+  },
+  Kwajalein: {
+    Generic: heure des îles Marshall,
+    Standard: heure des îles Marshall,
+    Daylight: heure des îles Marshall
+  },
+  Libya: {
+    Generic: heure d’Europe de l’Est,
+    Standard: heure normale d’Europe de l’Est,
+    Daylight: heure d’été d’Europe de l’Est
   },
   MET: {
     Generic: heure d’Europe centrale,
     Standard: heure normale d’Europe centrale,
     Daylight: heure d’été d’Europe centrale
   },
-  EET: {
-    Generic: heure d’Europe de l’Est,
-    Standard: heure normale d’Europe de l’Est,
-    Daylight: heure d’été d’Europe de l’Est
+  MST: {
+    Generic: temps universel coordonné -7,
+    Standard: temps universel coordonné -7,
+    Daylight: temps universel coordonné -7
   },
-  Europe/Tiraspol: {
-    Generic: heure d’Europe de l’Est,
-    Standard: heure normale d’Europe de l’Est,
-    Daylight: heure d’été d’Europe de l’Est
+  MST7MDT: {
+    Generic: heure des Rocheuses,
+    Standard: heure normale des Rocheuses,
+    Daylight: heure d’été des Rocheuses
   },
-  Eire: {
-    Generic: heure : Irlande,
-    Standard: heure moyenne de Greenwich,
-    Daylight: heure d’été irlandaise
+  Mexico/BajaNorte: {
+    Generic: heure du Pacifique nord-américain,
+    Standard: heure normale du Pacifique nord-américain,
+    Daylight: heure d’été du Pacifique nord-américain
   },
-  Asia/Istanbul: {
-    Generic: heure : Turquie,
-    Standard: Turquie (heure standard),
-    Daylight: Turquie (heure d’été)
+  Mexico/BajaSur: {
+    Generic: heure du Pacifique mexicain,
+    Standard: heure normale du Pacifique mexicain,
+    Daylight: heure d’été du Pacifique mexicain
   },
-  Turkey: {
-    Generic: heure : Turquie,
-    Standard: Turquie (heure standard),
-    Daylight: Turquie (heure d’été)
-  },
-  Europe/Kyiv: {
-    Generic: heure d’Europe de l’Est,
-    Standard: heure normale d’Europe de l’Est,
-    Daylight: heure d’été d’Europe de l’Est
-  },
-  Portugal: {
-    Generic: heure d’Europe de l’Ouest,
-    Standard: heure normale d’Europe de l’Ouest,
-    Daylight: heure d’été d’Europe de l’Ouest
-  },
-  Europe/Belfast: {
-    Generic: heure : Royaume-Uni,
-    Standard: heure moyenne de Greenwich,
-    Daylight: heure d’été britannique
-  },
-  GB: {
-    Generic: heure : Royaume-Uni,
-    Standard: heure moyenne de Greenwich,
-    Daylight: heure d’été britannique
-  },
-  GB-Eire: {
-    Generic: heure : Royaume-Uni,
-    Standard: heure moyenne de Greenwich,
-    Daylight: heure d’été britannique
-  },
-  W-SU: {
-    Generic: heure : Moscou,
-    Standard: Moscou (heure standard),
-    Daylight: Moscou (heure d’été)
-  },
-  CET: {
-    Generic: heure d’Europe centrale,
-    Standard: heure normale d’Europe centrale,
-    Daylight: heure d’été d’Europe centrale
-  },
-  Poland: {
-    Generic: heure d’Europe centrale,
-    Standard: heure normale d’Europe centrale,
-    Daylight: heure d’été d’Europe centrale
-  },
-  Antarctica/South_Pole: {
-    Generic: heure de la Nouvelle-Zélande,
-    Standard: heure normale de la Nouvelle-Zélande,
-    Daylight: heure d’été de la Nouvelle-Zélande
+  Mexico/General: {
+    Generic: heure du centre nord-américain,
+    Standard: heure normale du centre nord-américain,
+    Daylight: heure d’été du centre nord-américain
   },
   NZ: {
     Generic: heure de la Nouvelle-Zélande,
@@ -2919,17 +2619,102 @@
     Standard: heure normale des îles Chatham,
     Daylight: heure d’été des îles Chatham
   },
-  Chile/EasterIsland: {
+  Navajo: {
+    Generic: heure des Rocheuses,
+    Standard: heure normale des Rocheuses,
+    Daylight: heure d’été des Rocheuses
+  },
+  PRC: {
+    Generic: heure de la Chine,
+    Standard: heure normale de la Chine,
+    Daylight: heure d’été de Chine
+  },
+  PST8PDT: {
+    Generic: heure du Pacifique nord-américain,
+    Standard: heure normale du Pacifique nord-américain,
+    Daylight: heure d’été du Pacifique nord-américain
+  },
+  Pacific/Apia: {
+    Generic: heure d’Apia,
+    Standard: heure normale d’Apia,
+    Daylight: heure d’été d’Apia
+  },
+  Pacific/Auckland: {
+    Generic: heure de la Nouvelle-Zélande,
+    Standard: heure normale de la Nouvelle-Zélande,
+    Daylight: heure d’été de la Nouvelle-Zélande
+  },
+  Pacific/Bougainville: {
+    Generic: heure de la Papouasie-Nouvelle-Guinée,
+    Standard: heure de la Papouasie-Nouvelle-Guinée,
+    Daylight: heure de la Papouasie-Nouvelle-Guinée
+  },
+  Pacific/Chatham: {
+    Generic: heure des îles Chatham,
+    Standard: heure normale des îles Chatham,
+    Daylight: heure d’été des îles Chatham
+  },
+  Pacific/Chuuk: {
+    Generic: heure de Chuuk,
+    Standard: heure de Chuuk,
+    Daylight: heure de Chuuk
+  },
+  Pacific/Easter: {
     Generic: heure de l’île de Pâques,
     Standard: heure normale de l’île de Pâques,
     Daylight: heure d’été de l’île de Pâques
   },
-  Pacific/Pohnpei: {
-    Generic: heure de l’île de Pohnpei,
-    Standard: heure de l’île de Pohnpei,
-    Daylight: heure de l’île de Pohnpei
+  Pacific/Efate: {
+    Generic: heure du Vanuatu,
+    Standard: heure normale du Vanuatu,
+    Daylight: heure d’été de Vanuatu
   },
-  US/Hawaii: {
+  Pacific/Enderbury: {
+    Generic: heure des îles Phoenix,
+    Standard: heure des îles Phoenix,
+    Daylight: heure des îles Phoenix
+  },
+  Pacific/Fakaofo: {
+    Generic: heure de Tokelau,
+    Standard: heure de Tokelau,
+    Daylight: heure de Tokelau
+  },
+  Pacific/Fiji: {
+    Generic: heure des îles Fidji,
+    Standard: heure normale des îles Fidji,
+    Daylight: heure d’été des îles Fidji
+  },
+  Pacific/Funafuti: {
+    Generic: heure des Tuvalu,
+    Standard: heure des Tuvalu,
+    Daylight: heure des Tuvalu
+  },
+  Pacific/Galapagos: {
+    Generic: heure des îles Galápagos,
+    Standard: heure des îles Galápagos,
+    Daylight: heure des îles Galápagos
+  },
+  Pacific/Gambier: {
+    Generic: heure des îles Gambier,
+    Standard: heure des îles Gambier,
+    Daylight: heure des îles Gambier
+  },
+  Pacific/Guadalcanal: {
+    Generic: heure des îles Salomon,
+    Standard: heure des îles Salomon,
+    Daylight: heure des îles Salomon
+  },
+  Pacific/Guam: {
+    Generic: heure des Chamorro,
+    Standard: heure des Chamorro,
+    Daylight: heure des Chamorro
+  },
+  Pacific/Honolulu: {
+    Generic: heure d’Hawaï - Aléoutiennes,
+    Standard: heure normale d’Hawaï - Aléoutiennes,
+    Daylight: heure d’été d’Hawaï - Aléoutiennes
+  },
+  Pacific/Johnston: {
     Generic: heure d’Hawaï - Aléoutiennes,
     Standard: heure normale d’Hawaï - Aléoutiennes,
     Daylight: heure d’été d’Hawaï - Aléoutiennes
@@ -2939,39 +2724,254 @@
     Standard: heure des îles Phoenix,
     Daylight: heure des îles Phoenix
   },
-  Kwajalein: {
+  Pacific/Kiritimati: {
+    Generic: heure des îles de la Ligne,
+    Standard: heure des îles de la Ligne,
+    Daylight: heure des îles de la Ligne
+  },
+  Pacific/Kosrae: {
+    Generic: heure de Kosrae,
+    Standard: heure de Kosrae,
+    Daylight: heure de Kosrae
+  },
+  Pacific/Kwajalein: {
     Generic: heure des îles Marshall,
     Standard: heure des îles Marshall,
     Daylight: heure des îles Marshall
+  },
+  Pacific/Majuro: {
+    Generic: heure des îles Marshall,
+    Standard: heure des îles Marshall,
+    Daylight: heure des îles Marshall
+  },
+  Pacific/Marquesas: {
+    Generic: heure des îles Marquises,
+    Standard: heure des îles Marquises,
+    Daylight: heure des îles Marquises
+  },
+  Pacific/Midway: {
+    Generic: heure des Samoa,
+    Standard: heure normale des Samoa,
+    Daylight: heure d’été des Samoa
+  },
+  Pacific/Nauru: {
+    Generic: heure de Nauru,
+    Standard: heure de Nauru,
+    Daylight: heure de Nauru
+  },
+  Pacific/Niue: {
+    Generic: heure de Niue,
+    Standard: heure de Niue,
+    Daylight: heure de Niue
+  },
+  Pacific/Norfolk: {
+    Generic: heure de l’île Norfolk,
+    Standard: heure normale de l’île Norfolk,
+    Daylight: heure d’été de l’île Norfolk
+  },
+  Pacific/Noumea: {
+    Generic: heure de la Nouvelle-Calédonie,
+    Standard: heure normale de la Nouvelle-Calédonie,
+    Daylight: heure d’été de Nouvelle-Calédonie
+  },
+  Pacific/Pago_Pago: {
+    Generic: heure des Samoa,
+    Standard: heure normale des Samoa,
+    Daylight: heure d’été des Samoa
+  },
+  Pacific/Palau: {
+    Generic: heure des Palaos,
+    Standard: heure des Palaos,
+    Daylight: heure des Palaos
+  },
+  Pacific/Pitcairn: {
+    Generic: heure des îles Pitcairn,
+    Standard: heure des îles Pitcairn,
+    Daylight: heure des îles Pitcairn
+  },
+  Pacific/Pohnpei: {
+    Generic: heure de l’île de Pohnpei,
+    Standard: heure de l’île de Pohnpei,
+    Daylight: heure de l’île de Pohnpei
+  },
+  Pacific/Ponape: {
+    Generic: heure de l’île de Pohnpei,
+    Standard: heure de l’île de Pohnpei,
+    Daylight: heure de l’île de Pohnpei
+  },
+  Pacific/Port_Moresby: {
+    Generic: heure de la Papouasie-Nouvelle-Guinée,
+    Standard: heure de la Papouasie-Nouvelle-Guinée,
+    Daylight: heure de la Papouasie-Nouvelle-Guinée
+  },
+  Pacific/Rarotonga: {
+    Generic: heure des îles Cook,
+    Standard: heure normale des îles Cook,
+    Daylight: heure d’été des îles Cook
+  },
+  Pacific/Saipan: {
+    Generic: heure des Chamorro,
+    Standard: heure des Chamorro,
+    Daylight: heure des Chamorro
   },
   Pacific/Samoa: {
     Generic: heure des Samoa,
     Standard: heure normale des Samoa,
     Daylight: heure d’été des Samoa
   },
-  US/Samoa: {
-    Generic: heure des Samoa,
-    Standard: heure normale des Samoa,
-    Daylight: heure d’été des Samoa
+  Pacific/Tahiti: {
+    Generic: heure de Tahiti,
+    Standard: heure de Tahiti,
+    Daylight: heure de Tahiti
   },
-  Pacific/Chuuk: {
+  Pacific/Tarawa: {
+    Generic: heure des îles Gilbert,
+    Standard: heure des îles Gilbert,
+    Daylight: heure des îles Gilbert
+  },
+  Pacific/Tongatapu: {
+    Generic: heure des Tonga,
+    Standard: heure normale des Tonga,
+    Daylight: heure d’été de Tonga
+  },
+  Pacific/Truk: {
     Generic: heure de Chuuk,
     Standard: heure de Chuuk,
     Daylight: heure de Chuuk
+  },
+  Pacific/Wake: {
+    Generic: heure de l’île Wake,
+    Standard: heure de l’île Wake,
+    Daylight: heure de l’île Wake
+  },
+  Pacific/Wallis: {
+    Generic: heure de Wallis-et-Futuna,
+    Standard: heure de Wallis-et-Futuna,
+    Daylight: heure de Wallis-et-Futuna
   },
   Pacific/Yap: {
     Generic: heure de Chuuk,
     Standard: heure de Chuuk,
     Daylight: heure de Chuuk
   },
-  America/Fort_Wayne: {
+  Poland: {
+    Generic: heure d’Europe centrale,
+    Standard: heure normale d’Europe centrale,
+    Daylight: heure d’été d’Europe centrale
+  },
+  Portugal: {
+    Generic: heure d’Europe de l’Ouest,
+    Standard: heure normale d’Europe de l’Ouest,
+    Daylight: heure d’été d’Europe de l’Ouest
+  },
+  ROC: {
+    Generic: heure de Taipei,
+    Standard: heure normale de Taipei,
+    Daylight: heure d’été de Taipei
+  },
+  ROK: {
+    Generic: heure de la Corée,
+    Standard: heure normale de la Corée,
+    Daylight: heure d’été de Corée
+  },
+  Singapore: {
+    Generic: heure de Singapour,
+    Standard: heure de Singapour,
+    Daylight: heure de Singapour
+  },
+  Turkey: {
+    Generic: heure : Turquie,
+    Standard: Turquie (heure standard),
+    Daylight: Turquie (heure d’été)
+  },
+  UCT: {
+    Generic: temps universel coordonné,
+    Standard: temps universel coordonné,
+    Daylight: temps universel coordonné
+  },
+  US/Alaska: {
+    Generic: heure de l’Alaska,
+    Standard: heure normale de l’Alaska,
+    Daylight: heure d’été de l’Alaska
+  },
+  US/Aleutian: {
+    Generic: heure d’Hawaï - Aléoutiennes,
+    Standard: heure normale d’Hawaï - Aléoutiennes,
+    Daylight: heure d’été d’Hawaï - Aléoutiennes
+  },
+  US/Arizona: {
+    Generic: heure des Rocheuses,
+    Standard: heure normale des Rocheuses,
+    Daylight: heure d’été des Rocheuses
+  },
+  US/Central: {
+    Generic: heure du centre nord-américain,
+    Standard: heure normale du centre nord-américain,
+    Daylight: heure d’été du centre nord-américain
+  },
+  US/East-Indiana: {
     Generic: heure de l’Est nord-américain,
     Standard: heure normale de l’Est nord-américain,
     Daylight: heure d’été de l’Est nord-américain
   },
-  Antarctica/Troll: {
-    Generic: heure moyenne de Greenwich,
-    Standard: heure moyenne de Greenwich,
-    Daylight: heure moyenne de Greenwich
+  US/Eastern: {
+    Generic: heure de l’Est nord-américain,
+    Standard: heure normale de l’Est nord-américain,
+    Daylight: heure d’été de l’Est nord-américain
+  },
+  US/Hawaii: {
+    Generic: heure d’Hawaï - Aléoutiennes,
+    Standard: heure normale d’Hawaï - Aléoutiennes,
+    Daylight: heure d’été d’Hawaï - Aléoutiennes
+  },
+  US/Indiana-Starke: {
+    Generic: heure du centre nord-américain,
+    Standard: heure normale du centre nord-américain,
+    Daylight: heure d’été du centre nord-américain
+  },
+  US/Michigan: {
+    Generic: heure de l’Est nord-américain,
+    Standard: heure normale de l’Est nord-américain,
+    Daylight: heure d’été de l’Est nord-américain
+  },
+  US/Mountain: {
+    Generic: heure des Rocheuses,
+    Standard: heure normale des Rocheuses,
+    Daylight: heure d’été des Rocheuses
+  },
+  US/Pacific: {
+    Generic: heure du Pacifique nord-américain,
+    Standard: heure normale du Pacifique nord-américain,
+    Daylight: heure d’été du Pacifique nord-américain
+  },
+  US/Samoa: {
+    Generic: heure des Samoa,
+    Standard: heure normale des Samoa,
+    Daylight: heure d’été des Samoa
+  },
+  UTC: {
+    Generic: temps universel coordonné,
+    Standard: temps universel coordonné,
+    Daylight: temps universel coordonné
+  },
+  Universal: {
+    Generic: temps universel coordonné,
+    Standard: temps universel coordonné,
+    Daylight: temps universel coordonné
+  },
+  W-SU: {
+    Generic: heure : Moscou,
+    Standard: Moscou (heure standard),
+    Daylight: Moscou (heure d’été)
+  },
+  WET: {
+    Generic: heure d’Europe de l’Ouest,
+    Standard: heure normale d’Europe de l’Ouest,
+    Daylight: heure d’été d’Europe de l’Ouest
+  },
+  Zulu: {
+    Generic: temps universel coordonné,
+    Standard: temps universel coordonné,
+    Daylight: temps universel coordonné
   }
 }

@@ -1,115 +1,330 @@
 ﻿{
-  Australia/Darwin: {
-    Generic: Ora Australiei Centrale,
-    Standard: Ora standard a Australiei Centrale,
-    Daylight: Ora de vară a Australiei Centrale
+  Africa/Abidjan: {
+    Generic: Ora de Greenwhich,
+    Standard: Ora de Greenwhich,
+    Daylight: Ora de Greenwhich
   },
-  Australia/Sydney: {
-    Generic: Ora Australiei Orientale,
-    Standard: Ora standard a Australiei Orientale,
-    Daylight: Ora de vară a Australiei Orientale
+  Africa/Accra: {
+    Generic: Ora de Greenwhich,
+    Standard: Ora de Greenwhich,
+    Daylight: Ora de Greenwhich
   },
-  Australia/Melbourne: {
-    Generic: Ora Australiei Orientale,
-    Standard: Ora standard a Australiei Orientale,
-    Daylight: Ora de vară a Australiei Orientale
+  Africa/Addis_Ababa: {
+    Generic: Ora Africii Orientale,
+    Standard: Ora Africii Orientale,
+    Daylight: Ora Africii Orientale
   },
-  Asia/Kabul: {
-    Generic: Ora Afganistanului,
-    Standard: Ora Afganistanului,
-    Daylight: Ora Afganistanului
+  Africa/Algiers: {
+    Generic: Ora Europei Centrale,
+    Standard: Ora standard a Europei Centrale,
+    Daylight: Ora de vară a Europei Centrale
   },
-  America/Anchorage: {
-    Generic: Ora din Alaska,
-    Standard: Ora standard din Alaska,
-    Daylight: Ora de vară din Alaska
+  Africa/Asmara: {
+    Generic: Ora Africii Orientale,
+    Standard: Ora Africii Orientale,
+    Daylight: Ora Africii Orientale
   },
-  America/Juneau: {
-    Generic: Ora din Alaska,
-    Standard: Ora standard din Alaska,
-    Daylight: Ora de vară din Alaska
+  Africa/Asmera: {
+    Generic: Ora Africii Orientale,
+    Standard: Ora Africii Orientale,
+    Daylight: Ora Africii Orientale
   },
-  America/Metlakatla: {
-    Generic: Ora din Alaska,
-    Standard: Ora standard din Alaska,
-    Daylight: Ora de vară din Alaska
+  Africa/Bamako: {
+    Generic: Ora de Greenwhich,
+    Standard: Ora de Greenwhich,
+    Daylight: Ora de Greenwhich
   },
-  America/Nome: {
-    Generic: Ora din Alaska,
-    Standard: Ora standard din Alaska,
-    Daylight: Ora de vară din Alaska
+  Africa/Bangui: {
+    Generic: Ora Africii Occidentale,
+    Standard: Ora standard a Africii Occidentale,
+    Daylight: Ora de vară a Africii Occidentale
   },
-  America/Sitka: {
-    Generic: Ora din Alaska,
-    Standard: Ora standard din Alaska,
-    Daylight: Ora de vară din Alaska
+  Africa/Banjul: {
+    Generic: Ora de Greenwhich,
+    Standard: Ora de Greenwhich,
+    Daylight: Ora de Greenwhich
   },
-  America/Yakutat: {
-    Generic: Ora din Alaska,
-    Standard: Ora standard din Alaska,
-    Daylight: Ora de vară din Alaska
+  Africa/Bissau: {
+    Generic: Ora de Greenwhich,
+    Standard: Ora de Greenwhich,
+    Daylight: Ora de Greenwhich
+  },
+  Africa/Blantyre: {
+    Generic: Ora Africii Centrale,
+    Standard: Ora Africii Centrale,
+    Daylight: Ora Africii Centrale
+  },
+  Africa/Brazzaville: {
+    Generic: Ora Africii Occidentale,
+    Standard: Ora standard a Africii Occidentale,
+    Daylight: Ora de vară a Africii Occidentale
+  },
+  Africa/Bujumbura: {
+    Generic: Ora Africii Centrale,
+    Standard: Ora Africii Centrale,
+    Daylight: Ora Africii Centrale
+  },
+  Africa/Cairo: {
+    Generic: Ora Europei de Est,
+    Standard: Ora standard a Europei de Est,
+    Daylight: Ora de vară a Europei de Est
+  },
+  Africa/Casablanca: {
+    Generic: Ora Europei de Vest,
+    Standard: Ora standard a Europei de Vest,
+    Daylight: Ora de vară a Europei de Vest
+  },
+  Africa/Ceuta: {
+    Generic: Ora Europei Centrale,
+    Standard: Ora standard a Europei Centrale,
+    Daylight: Ora de vară a Europei Centrale
+  },
+  Africa/Conakry: {
+    Generic: Ora de Greenwhich,
+    Standard: Ora de Greenwhich,
+    Daylight: Ora de Greenwhich
+  },
+  Africa/Dakar: {
+    Generic: Ora de Greenwhich,
+    Standard: Ora de Greenwhich,
+    Daylight: Ora de Greenwhich
+  },
+  Africa/Dar_es_Salaam: {
+    Generic: Ora Africii Orientale,
+    Standard: Ora Africii Orientale,
+    Daylight: Ora Africii Orientale
+  },
+  Africa/Djibouti: {
+    Generic: Ora Africii Orientale,
+    Standard: Ora Africii Orientale,
+    Daylight: Ora Africii Orientale
+  },
+  Africa/Douala: {
+    Generic: Ora Africii Occidentale,
+    Standard: Ora standard a Africii Occidentale,
+    Daylight: Ora de vară a Africii Occidentale
+  },
+  Africa/El_Aaiun: {
+    Generic: Ora Europei de Vest,
+    Standard: Ora standard a Europei de Vest,
+    Daylight: Ora de vară a Europei de Vest
+  },
+  Africa/Freetown: {
+    Generic: Ora de Greenwhich,
+    Standard: Ora de Greenwhich,
+    Daylight: Ora de Greenwhich
+  },
+  Africa/Gaborone: {
+    Generic: Ora Africii Centrale,
+    Standard: Ora Africii Centrale,
+    Daylight: Ora Africii Centrale
+  },
+  Africa/Harare: {
+    Generic: Ora Africii Centrale,
+    Standard: Ora Africii Centrale,
+    Daylight: Ora Africii Centrale
+  },
+  Africa/Johannesburg: {
+    Generic: Ora Africii Meridionale,
+    Standard: Ora Africii Meridionale,
+    Daylight: Ora Africii Meridionale
+  },
+  Africa/Juba: {
+    Generic: Ora Africii Centrale,
+    Standard: Ora Africii Centrale,
+    Daylight: Ora Africii Centrale
+  },
+  Africa/Kampala: {
+    Generic: Ora Africii Orientale,
+    Standard: Ora Africii Orientale,
+    Daylight: Ora Africii Orientale
+  },
+  Africa/Khartoum: {
+    Generic: Ora Africii Centrale,
+    Standard: Ora Africii Centrale,
+    Daylight: Ora Africii Centrale
+  },
+  Africa/Kigali: {
+    Generic: Ora Africii Centrale,
+    Standard: Ora Africii Centrale,
+    Daylight: Ora Africii Centrale
+  },
+  Africa/Kinshasa: {
+    Generic: Ora Africii Occidentale,
+    Standard: Ora standard a Africii Occidentale,
+    Daylight: Ora de vară a Africii Occidentale
+  },
+  Africa/Lagos: {
+    Generic: Ora Africii Occidentale,
+    Standard: Ora standard a Africii Occidentale,
+    Daylight: Ora de vară a Africii Occidentale
+  },
+  Africa/Libreville: {
+    Generic: Ora Africii Occidentale,
+    Standard: Ora standard a Africii Occidentale,
+    Daylight: Ora de vară a Africii Occidentale
+  },
+  Africa/Lome: {
+    Generic: Ora de Greenwhich,
+    Standard: Ora de Greenwhich,
+    Daylight: Ora de Greenwhich
+  },
+  Africa/Luanda: {
+    Generic: Ora Africii Occidentale,
+    Standard: Ora standard a Africii Occidentale,
+    Daylight: Ora de vară a Africii Occidentale
+  },
+  Africa/Lubumbashi: {
+    Generic: Ora Africii Centrale,
+    Standard: Ora Africii Centrale,
+    Daylight: Ora Africii Centrale
+  },
+  Africa/Lusaka: {
+    Generic: Ora Africii Centrale,
+    Standard: Ora Africii Centrale,
+    Daylight: Ora Africii Centrale
+  },
+  Africa/Malabo: {
+    Generic: Ora Africii Occidentale,
+    Standard: Ora standard a Africii Occidentale,
+    Daylight: Ora de vară a Africii Occidentale
+  },
+  Africa/Maputo: {
+    Generic: Ora Africii Centrale,
+    Standard: Ora Africii Centrale,
+    Daylight: Ora Africii Centrale
+  },
+  Africa/Maseru: {
+    Generic: Ora Africii Meridionale,
+    Standard: Ora Africii Meridionale,
+    Daylight: Ora Africii Meridionale
+  },
+  Africa/Mbabane: {
+    Generic: Ora Africii Meridionale,
+    Standard: Ora Africii Meridionale,
+    Daylight: Ora Africii Meridionale
+  },
+  Africa/Mogadishu: {
+    Generic: Ora Africii Orientale,
+    Standard: Ora Africii Orientale,
+    Daylight: Ora Africii Orientale
+  },
+  Africa/Monrovia: {
+    Generic: Ora de Greenwhich,
+    Standard: Ora de Greenwhich,
+    Daylight: Ora de Greenwhich
+  },
+  Africa/Nairobi: {
+    Generic: Ora Africii Orientale,
+    Standard: Ora Africii Orientale,
+    Daylight: Ora Africii Orientale
+  },
+  Africa/Ndjamena: {
+    Generic: Ora Africii Occidentale,
+    Standard: Ora standard a Africii Occidentale,
+    Daylight: Ora de vară a Africii Occidentale
+  },
+  Africa/Niamey: {
+    Generic: Ora Africii Occidentale,
+    Standard: Ora standard a Africii Occidentale,
+    Daylight: Ora de vară a Africii Occidentale
+  },
+  Africa/Nouakchott: {
+    Generic: Ora de Greenwhich,
+    Standard: Ora de Greenwhich,
+    Daylight: Ora de Greenwhich
+  },
+  Africa/Ouagadougou: {
+    Generic: Ora de Greenwhich,
+    Standard: Ora de Greenwhich,
+    Daylight: Ora de Greenwhich
+  },
+  Africa/Porto-Novo: {
+    Generic: Ora Africii Occidentale,
+    Standard: Ora standard a Africii Occidentale,
+    Daylight: Ora de vară a Africii Occidentale
+  },
+  Africa/Sao_Tome: {
+    Generic: Ora de Greenwhich,
+    Standard: Ora de Greenwhich,
+    Daylight: Ora de Greenwhich
+  },
+  Africa/Timbuktu: {
+    Generic: Ora de Greenwhich,
+    Standard: Ora de Greenwhich,
+    Daylight: Ora de Greenwhich
+  },
+  Africa/Tripoli: {
+    Generic: Ora Europei de Est,
+    Standard: Ora standard a Europei de Est,
+    Daylight: Ora de vară a Europei de Est
+  },
+  Africa/Tunis: {
+    Generic: Ora Europei Centrale,
+    Standard: Ora standard a Europei Centrale,
+    Daylight: Ora de vară a Europei Centrale
+  },
+  Africa/Windhoek: {
+    Generic: Ora Africii Centrale,
+    Standard: Ora Africii Centrale,
+    Daylight: Ora Africii Centrale
   },
   America/Adak: {
     Generic: Ora din Hawaii-Aleutine,
     Standard: Ora standard din Hawaii-Aleutine,
     Daylight: Ora de vară din Hawaii-Aleutine
   },
-  Asia/Barnaul: {
-    Generic: Ora din Barnaul,
-    Standard: Ora standard din Barnaul,
-    Daylight: Ora de vară din Barnaul
+  America/Anchorage: {
+    Generic: Ora din Alaska,
+    Standard: Ora standard din Alaska,
+    Daylight: Ora de vară din Alaska
   },
-  Asia/Riyadh: {
-    Generic: Ora arabă,
-    Standard: Ora standard arabă,
-    Daylight: Ora de vară arabă
+  America/Anguilla: {
+    Generic: Ora zonei Atlantic nord-americane,
+    Standard: Ora standard în zona Atlantic nord-americană,
+    Daylight: Ora de vară în zona Atlantic nord-americană
   },
-  Asia/Bahrain: {
-    Generic: Ora arabă,
-    Standard: Ora standard arabă,
-    Daylight: Ora de vară arabă
+  America/Antigua: {
+    Generic: Ora zonei Atlantic nord-americane,
+    Standard: Ora standard în zona Atlantic nord-americană,
+    Daylight: Ora de vară în zona Atlantic nord-americană
   },
-  Asia/Kuwait: {
-    Generic: Ora arabă,
-    Standard: Ora standard arabă,
-    Daylight: Ora de vară arabă
+  America/Araguaina: {
+    Generic: Ora Brasiliei,
+    Standard: Ora standard a Brasiliei,
+    Daylight: Ora de vară a Brasiliei
   },
-  Asia/Qatar: {
-    Generic: Ora arabă,
-    Standard: Ora standard arabă,
-    Daylight: Ora de vară arabă
+  America/Argentina/Buenos_Aires: {
+    Generic: Ora Argentinei,
+    Standard: Ora standard a Argentinei,
+    Daylight: Ora de vară a Argentinei
   },
-  Asia/Aden: {
-    Generic: Ora arabă,
-    Standard: Ora standard arabă,
-    Daylight: Ora de vară arabă
+  America/Argentina/Catamarca: {
+    Generic: Ora Argentinei,
+    Standard: Ora standard a Argentinei,
+    Daylight: Ora de vară a Argentinei
   },
-  Asia/Dubai: {
-    Generic: Ora standard a Golfului,
-    Standard: Ora standard a Golfului,
-    Daylight: Ora standard a Golfului
+  America/Argentina/ComodRivadavia: {
+    Generic: Ora Argentinei,
+    Standard: Ora standard a Argentinei,
+    Daylight: Ora de vară a Argentinei
   },
-  Asia/Muscat: {
-    Generic: Ora standard a Golfului,
-    Standard: Ora standard a Golfului,
-    Daylight: Ora standard a Golfului
+  America/Argentina/Cordoba: {
+    Generic: Ora Argentinei,
+    Standard: Ora standard a Argentinei,
+    Daylight: Ora de vară a Argentinei
   },
-  Etc/GMT-4: {
-    Generic: Timpul universal coordonat +4,
-    Standard: Timpul universal coordonat +4,
-    Daylight: Timpul universal coordonat +4
-  },
-  Asia/Baghdad: {
-    Generic: Ora arabă,
-    Standard: Ora standard arabă,
-    Daylight: Ora de vară arabă
-  },
-  America/Buenos_Aires: {
+  America/Argentina/Jujuy: {
     Generic: Ora Argentinei,
     Standard: Ora standard a Argentinei,
     Daylight: Ora de vară a Argentinei
   },
   America/Argentina/La_Rioja: {
+    Generic: Ora Argentinei,
+    Standard: Ora standard a Argentinei,
+    Daylight: Ora de vară a Argentinei
+  },
+  America/Argentina/Mendoza: {
     Generic: Ora Argentinei,
     Standard: Ora standard a Argentinei,
     Daylight: Ora de vară a Argentinei
@@ -144,327 +359,432 @@
     Standard: Ora standard a Argentinei,
     Daylight: Ora de vară a Argentinei
   },
-  America/Catamarca: {
-    Generic: Ora Argentinei,
-    Standard: Ora standard a Argentinei,
-    Daylight: Ora de vară a Argentinei
-  },
-  America/Cordoba: {
-    Generic: Ora Argentinei,
-    Standard: Ora standard a Argentinei,
-    Daylight: Ora de vară a Argentinei
-  },
-  America/Jujuy: {
-    Generic: Ora Argentinei,
-    Standard: Ora standard a Argentinei,
-    Daylight: Ora de vară a Argentinei
-  },
-  America/Mendoza: {
-    Generic: Ora Argentinei,
-    Standard: Ora standard a Argentinei,
-    Daylight: Ora de vară a Argentinei
-  },
-  Europe/Astrakhan: {
-    Generic: Ora din Astrahan,
-    Standard: Ora standard din Astrahan,
-    Daylight: Ora de vară din Astrahan
-  },
-  Europe/Ulyanovsk: {
-    Generic: Ora din Ulianovsk,
-    Standard: Ora standard din Ulianovsk,
-    Daylight: Ora de vară din Ulianovsk
-  },
-  America/Halifax: {
+  America/Aruba: {
     Generic: Ora zonei Atlantic nord-americane,
     Standard: Ora standard în zona Atlantic nord-americană,
     Daylight: Ora de vară în zona Atlantic nord-americană
   },
-  Atlantic/Bermuda: {
-    Generic: Ora zonei Atlantic nord-americane,
-    Standard: Ora standard în zona Atlantic nord-americană,
-    Daylight: Ora de vară în zona Atlantic nord-americană
+  America/Asuncion: {
+    Generic: Ora din Paraguay,
+    Standard: Ora standard din Paraguay,
+    Daylight: Ora de vară din Paraguay
   },
-  America/Glace_Bay: {
-    Generic: Ora zonei Atlantic nord-americane,
-    Standard: Ora standard în zona Atlantic nord-americană,
-    Daylight: Ora de vară în zona Atlantic nord-americană
+  America/Atikokan: {
+    Generic: Ora orientală nord-americană,
+    Standard: Ora standard orientală nord-americană,
+    Daylight: Ora de vară orientală nord-americană
   },
-  America/Goose_Bay: {
-    Generic: Ora zonei Atlantic nord-americane,
-    Standard: Ora standard în zona Atlantic nord-americană,
-    Daylight: Ora de vară în zona Atlantic nord-americană
-  },
-  America/Moncton: {
-    Generic: Ora zonei Atlantic nord-americane,
-    Standard: Ora standard în zona Atlantic nord-americană,
-    Daylight: Ora de vară în zona Atlantic nord-americană
-  },
-  America/Thule: {
-    Generic: Ora zonei Atlantic nord-americane,
-    Standard: Ora standard în zona Atlantic nord-americană,
-    Daylight: Ora de vară în zona Atlantic nord-americană
-  },
-  Australia/Eucla: {
-    Generic: Ora Australiei Central Occidentale,
-    Standard: Ora standard a Australiei Central Occidentale,
-    Daylight: Ora de vară a Australiei Central Occidentale
-  },
-  Asia/Baku: {
-    Generic: Ora Azerbaidjanului,
-    Standard: Ora standard a Azerbaidjanului,
-    Daylight: Ora de vară a Azerbaidjanului
-  },
-  Atlantic/Azores: {
-    Generic: Ora din Azore,
-    Standard: Ora standard din Azore,
-    Daylight: Ora de vară din Azore
-  },
-  America/Scoresbysund: {
-    Generic: Ora Groenlandei orientale,
-    Standard: Ora standard a Groenlandei orientale,
-    Daylight: Ora de vară a Groenlandei orientale
+  America/Atka: {
+    Generic: Ora din Hawaii-Aleutine,
+    Standard: Ora standard din Hawaii-Aleutine,
+    Daylight: Ora de vară din Hawaii-Aleutine
   },
   America/Bahia: {
     Generic: Ora Brasiliei,
     Standard: Ora standard a Brasiliei,
     Daylight: Ora de vară a Brasiliei
   },
-  Asia/Dhaka: {
-    Generic: Ora din Bangladesh,
-    Standard: Ora standard din Bangladesh,
-    Daylight: Ora de vară din Bangladesh
-  },
-  Asia/Thimphu: {
-    Generic: Ora Bhutanului,
-    Standard: Ora Bhutanului,
-    Daylight: Ora Bhutanului
-  },
-  Europe/Minsk: {
-    Generic: Ora Moscovei,
-    Standard: Ora standard a Moscovei,
-    Daylight: Ora de vară a Moscovei
-  },
-  Pacific/Bougainville: {
-    Generic: Ora din Papua Noua Guinee,
-    Standard: Ora din Papua Noua Guinee,
-    Daylight: Ora din Papua Noua Guinee
-  },
-  America/Regina: {
+  America/Bahia_Banderas: {
     Generic: Ora centrală nord-americană,
     Standard: Ora standard centrală nord-americană,
     Daylight: Ora de vară centrală nord-americană
   },
-  America/Swift_Current: {
-    Generic: Ora centrală nord-americană,
-    Standard: Ora standard centrală nord-americană,
-    Daylight: Ora de vară centrală nord-americană
+  America/Barbados: {
+    Generic: Ora zonei Atlantic nord-americane,
+    Standard: Ora standard în zona Atlantic nord-americană,
+    Daylight: Ora de vară în zona Atlantic nord-americană
   },
-  Atlantic/Cape_Verde: {
-    Generic: Ora din Capul Verde,
-    Standard: Ora standard din Capul Verde,
-    Daylight: Ora de vară din Capul Verde
-  },
-  Etc/GMT+1: {
-    Generic: Timpul universal coordonat -1,
-    Standard: Timpul universal coordonat -1,
-    Daylight: Timpul universal coordonat -1
-  },
-  Asia/Yerevan: {
-    Generic: Ora Armeniei,
-    Standard: Ora standard a Armeniei,
-    Daylight: Ora de vară a Armeniei
-  },
-  Australia/Adelaide: {
-    Generic: Ora Australiei Centrale,
-    Standard: Ora standard a Australiei Centrale,
-    Daylight: Ora de vară a Australiei Centrale
-  },
-  Australia/Broken_Hill: {
-    Generic: Ora Australiei Centrale,
-    Standard: Ora standard a Australiei Centrale,
-    Daylight: Ora de vară a Australiei Centrale
-  },
-  America/Guatemala: {
-    Generic: Ora centrală nord-americană,
-    Standard: Ora standard centrală nord-americană,
-    Daylight: Ora de vară centrală nord-americană
+  America/Belem: {
+    Generic: Ora Brasiliei,
+    Standard: Ora standard a Brasiliei,
+    Daylight: Ora de vară a Brasiliei
   },
   America/Belize: {
     Generic: Ora centrală nord-americană,
     Standard: Ora standard centrală nord-americană,
     Daylight: Ora de vară centrală nord-americană
   },
-  America/Costa_Rica: {
-    Generic: Ora centrală nord-americană,
-    Standard: Ora standard centrală nord-americană,
-    Daylight: Ora de vară centrală nord-americană
+  America/Blanc-Sablon: {
+    Generic: Ora zonei Atlantic nord-americane,
+    Standard: Ora standard în zona Atlantic nord-americană,
+    Daylight: Ora de vară în zona Atlantic nord-americană
   },
-  Pacific/Galapagos: {
-    Generic: Ora din Galapagos,
-    Standard: Ora din Galapagos,
-    Daylight: Ora din Galapagos
-  },
-  America/Tegucigalpa: {
-    Generic: Ora centrală nord-americană,
-    Standard: Ora standard centrală nord-americană,
-    Daylight: Ora de vară centrală nord-americană
-  },
-  America/Managua: {
-    Generic: Ora centrală nord-americană,
-    Standard: Ora standard centrală nord-americană,
-    Daylight: Ora de vară centrală nord-americană
-  },
-  America/El_Salvador: {
-    Generic: Ora centrală nord-americană,
-    Standard: Ora standard centrală nord-americană,
-    Daylight: Ora de vară centrală nord-americană
-  },
-  Etc/GMT+6: {
-    Generic: Timpul universal coordonat -6,
-    Standard: Timpul universal coordonat -6,
-    Daylight: Timpul universal coordonat -6
-  },
-  Asia/Almaty: {
-    Generic: Ora din Kazahstanul de Est,
-    Standard: Ora din Kazahstanul de Est,
-    Daylight: Ora din Kazahstanul de Est
-  },
-  Antarctica/Vostok: {
-    Generic: Ora din Vostok,
-    Standard: Ora din Vostok,
-    Daylight: Ora din Vostok
-  },
-  Asia/Urumqi: {
-    Generic: Ora din China,
-    Standard: Ora standard din China,
-    Daylight: Ora de vară din China
-  },
-  Indian/Chagos: {
-    Generic: Ora Oceanului Indian,
-    Standard: Ora Oceanului Indian,
-    Daylight: Ora Oceanului Indian
-  },
-  Asia/Bishkek: {
-    Generic: Ora din Kârgâzstan,
-    Standard: Ora din Kârgâzstan,
-    Daylight: Ora din Kârgâzstan
-  },
-  Asia/Qostanay: {
-    Generic: Ora din Kazahstanul de Est,
-    Standard: Ora din Kazahstanul de Est,
-    Daylight: Ora din Kazahstanul de Est
-  },
-  Etc/GMT-6: {
-    Generic: Timpul universal coordonat +6,
-    Standard: Timpul universal coordonat +6,
-    Daylight: Timpul universal coordonat +6
-  },
-  America/Cuiaba: {
+  America/Boa_Vista: {
     Generic: Ora Amazonului,
     Standard: Ora standard a Amazonului,
     Daylight: Ora de vară a Amazonului
+  },
+  America/Bogota: {
+    Generic: Ora Columbiei,
+    Standard: Ora standard a Columbiei,
+    Daylight: Ora de vară a Columbiei
+  },
+  America/Boise: {
+    Generic: Ora zonei montane nord-americane,
+    Standard: Ora standard în zona montană nord-americană,
+    Daylight: Ora de vară în zona montană nord-americană
+  },
+  America/Buenos_Aires: {
+    Generic: Ora Argentinei,
+    Standard: Ora standard a Argentinei,
+    Daylight: Ora de vară a Argentinei
+  },
+  America/Cambridge_Bay: {
+    Generic: Ora zonei montane nord-americane,
+    Standard: Ora standard în zona montană nord-americană,
+    Daylight: Ora de vară în zona montană nord-americană
   },
   America/Campo_Grande: {
     Generic: Ora Amazonului,
     Standard: Ora standard a Amazonului,
     Daylight: Ora de vară a Amazonului
   },
-  Europe/Budapest: {
-    Generic: Ora Europei Centrale,
-    Standard: Ora standard a Europei Centrale,
-    Daylight: Ora de vară a Europei Centrale
+  America/Cancun: {
+    Generic: Ora orientală nord-americană,
+    Standard: Ora standard orientală nord-americană,
+    Daylight: Ora de vară orientală nord-americană
   },
-  Europe/Tirane: {
-    Generic: Ora Europei Centrale,
-    Standard: Ora standard a Europei Centrale,
-    Daylight: Ora de vară a Europei Centrale
+  America/Caracas: {
+    Generic: Ora Venezuelei,
+    Standard: Ora Venezuelei,
+    Daylight: Ora Venezuelei
   },
-  Europe/Prague: {
-    Generic: Ora Europei Centrale,
-    Standard: Ora standard a Europei Centrale,
-    Daylight: Ora de vară a Europei Centrale
+  America/Catamarca: {
+    Generic: Ora Argentinei,
+    Standard: Ora standard a Argentinei,
+    Daylight: Ora de vară a Argentinei
   },
-  Europe/Podgorica: {
-    Generic: Ora Europei Centrale,
-    Standard: Ora standard a Europei Centrale,
-    Daylight: Ora de vară a Europei Centrale
+  America/Cayenne: {
+    Generic: Ora din Guyana Franceză,
+    Standard: Ora din Guyana Franceză,
+    Daylight: Ora din Guyana Franceză
   },
-  Europe/Belgrade: {
-    Generic: Ora Europei Centrale,
-    Standard: Ora standard a Europei Centrale,
-    Daylight: Ora de vară a Europei Centrale
+  America/Cayman: {
+    Generic: Ora orientală nord-americană,
+    Standard: Ora standard orientală nord-americană,
+    Daylight: Ora de vară orientală nord-americană
   },
-  Europe/Ljubljana: {
-    Generic: Ora Europei Centrale,
-    Standard: Ora standard a Europei Centrale,
-    Daylight: Ora de vară a Europei Centrale
-  },
-  Europe/Bratislava: {
-    Generic: Ora Europei Centrale,
-    Standard: Ora standard a Europei Centrale,
-    Daylight: Ora de vară a Europei Centrale
-  },
-  Europe/Warsaw: {
-    Generic: Ora Europei Centrale,
-    Standard: Ora standard a Europei Centrale,
-    Daylight: Ora de vară a Europei Centrale
-  },
-  Europe/Sarajevo: {
-    Generic: Ora Europei Centrale,
-    Standard: Ora standard a Europei Centrale,
-    Daylight: Ora de vară a Europei Centrale
-  },
-  Europe/Zagreb: {
-    Generic: Ora Europei Centrale,
-    Standard: Ora standard a Europei Centrale,
-    Daylight: Ora de vară a Europei Centrale
-  },
-  Europe/Skopje: {
-    Generic: Ora Europei Centrale,
-    Standard: Ora standard a Europei Centrale,
-    Daylight: Ora de vară a Europei Centrale
-  },
-  Pacific/Guadalcanal: {
-    Generic: Ora Insulelor Solomon,
-    Standard: Ora Insulelor Solomon,
-    Daylight: Ora Insulelor Solomon
-  },
-  Antarctica/Casey: {
-    Generic: Ora din Antarctica,
-    Standard: Ora standard din Antarctica,
-    Daylight: Ora de vară din Antarctica
-  },
-  Pacific/Ponape: {
-    Generic: Ora din Ponape,
-    Standard: Ora din Ponape,
-    Daylight: Ora din Ponape
-  },
-  Pacific/Kosrae: {
-    Generic: Ora din Kosrae,
-    Standard: Ora din Kosrae,
-    Daylight: Ora din Kosrae
-  },
-  Pacific/Noumea: {
-    Generic: Ora Noii Caledonii,
-    Standard: Ora standard a Noii Caledonii,
-    Daylight: Ora de vară a Noii Caledonii
-  },
-  Pacific/Efate: {
-    Generic: Ora din Vanuatu,
-    Standard: Ora standard din Vanuatu,
-    Daylight: Ora de vară din Vanuatu
-  },
-  Etc/GMT-11: {
-    Generic: Timpul universal coordonat +11,
-    Standard: Timpul universal coordonat +11,
-    Daylight: Timpul universal coordonat +11
-  },
-  America/Mexico_City: {
+  America/Chicago: {
     Generic: Ora centrală nord-americană,
     Standard: Ora standard centrală nord-americană,
     Daylight: Ora de vară centrală nord-americană
   },
-  America/Bahia_Banderas: {
+  America/Chihuahua: {
+    Generic: Ora zonei Pacific mexicane,
+    Standard: Ora standard a zonei Pacific mexicane,
+    Daylight: Ora de vară a zonei Pacific mexicane
+  },
+  America/Coral_Harbour: {
+    Generic: Ora orientală nord-americană,
+    Standard: Ora standard orientală nord-americană,
+    Daylight: Ora de vară orientală nord-americană
+  },
+  America/Cordoba: {
+    Generic: Ora Argentinei,
+    Standard: Ora standard a Argentinei,
+    Daylight: Ora de vară a Argentinei
+  },
+  America/Costa_Rica: {
+    Generic: Ora centrală nord-americană,
+    Standard: Ora standard centrală nord-americană,
+    Daylight: Ora de vară centrală nord-americană
+  },
+  America/Creston: {
+    Generic: Ora zonei montane nord-americane,
+    Standard: Ora standard în zona montană nord-americană,
+    Daylight: Ora de vară în zona montană nord-americană
+  },
+  America/Cuiaba: {
+    Generic: Ora Amazonului,
+    Standard: Ora standard a Amazonului,
+    Daylight: Ora de vară a Amazonului
+  },
+  America/Curacao: {
+    Generic: Ora zonei Atlantic nord-americane,
+    Standard: Ora standard în zona Atlantic nord-americană,
+    Daylight: Ora de vară în zona Atlantic nord-americană
+  },
+  America/Danmarkshavn: {
+    Generic: Ora de Greenwhich,
+    Standard: Ora de Greenwhich,
+    Daylight: Ora de Greenwhich
+  },
+  America/Dawson: {
+    Generic: Ora din Yukon,
+    Standard: Ora din Yukon,
+    Daylight: Ora din Yukon
+  },
+  America/Dawson_Creek: {
+    Generic: Ora zonei montane nord-americane,
+    Standard: Ora standard în zona montană nord-americană,
+    Daylight: Ora de vară în zona montană nord-americană
+  },
+  America/Denver: {
+    Generic: Ora zonei montane nord-americane,
+    Standard: Ora standard în zona montană nord-americană,
+    Daylight: Ora de vară în zona montană nord-americană
+  },
+  America/Detroit: {
+    Generic: Ora orientală nord-americană,
+    Standard: Ora standard orientală nord-americană,
+    Daylight: Ora de vară orientală nord-americană
+  },
+  America/Dominica: {
+    Generic: Ora zonei Atlantic nord-americane,
+    Standard: Ora standard în zona Atlantic nord-americană,
+    Daylight: Ora de vară în zona Atlantic nord-americană
+  },
+  America/Edmonton: {
+    Generic: Ora zonei montane nord-americane,
+    Standard: Ora standard în zona montană nord-americană,
+    Daylight: Ora de vară în zona montană nord-americană
+  },
+  America/Eirunepe: {
+    Generic: Ora Acre,
+    Standard: Ora standard Acre,
+    Daylight: Ora de vară Acre
+  },
+  America/El_Salvador: {
+    Generic: Ora centrală nord-americană,
+    Standard: Ora standard centrală nord-americană,
+    Daylight: Ora de vară centrală nord-americană
+  },
+  America/Ensenada: {
+    Generic: Ora zonei Pacific nord-americane,
+    Standard: Ora standard în zona Pacific nord-americană,
+    Daylight: Ora de vară în zona Pacific nord-americană
+  },
+  America/Fort_Nelson: {
+    Generic: Ora zonei montane nord-americane,
+    Standard: Ora standard în zona montană nord-americană,
+    Daylight: Ora de vară în zona montană nord-americană
+  },
+  America/Fort_Wayne: {
+    Generic: Ora orientală nord-americană,
+    Standard: Ora standard orientală nord-americană,
+    Daylight: Ora de vară orientală nord-americană
+  },
+  America/Fortaleza: {
+    Generic: Ora Brasiliei,
+    Standard: Ora standard a Brasiliei,
+    Daylight: Ora de vară a Brasiliei
+  },
+  America/Glace_Bay: {
+    Generic: Ora zonei Atlantic nord-americane,
+    Standard: Ora standard în zona Atlantic nord-americană,
+    Daylight: Ora de vară în zona Atlantic nord-americană
+  },
+  America/Godthab: {
+    Generic: Ora Groenlandei occidentale,
+    Standard: Ora standard a Groenlandei occidentale,
+    Daylight: Ora de vară a Groenlandei occidentale
+  },
+  America/Goose_Bay: {
+    Generic: Ora zonei Atlantic nord-americane,
+    Standard: Ora standard în zona Atlantic nord-americană,
+    Daylight: Ora de vară în zona Atlantic nord-americană
+  },
+  America/Grand_Turk: {
+    Generic: Ora orientală nord-americană,
+    Standard: Ora standard orientală nord-americană,
+    Daylight: Ora de vară orientală nord-americană
+  },
+  America/Grenada: {
+    Generic: Ora zonei Atlantic nord-americane,
+    Standard: Ora standard în zona Atlantic nord-americană,
+    Daylight: Ora de vară în zona Atlantic nord-americană
+  },
+  America/Guadeloupe: {
+    Generic: Ora zonei Atlantic nord-americane,
+    Standard: Ora standard în zona Atlantic nord-americană,
+    Daylight: Ora de vară în zona Atlantic nord-americană
+  },
+  America/Guatemala: {
+    Generic: Ora centrală nord-americană,
+    Standard: Ora standard centrală nord-americană,
+    Daylight: Ora de vară centrală nord-americană
+  },
+  America/Guayaquil: {
+    Generic: Ora Ecuadorului,
+    Standard: Ora Ecuadorului,
+    Daylight: Ora Ecuadorului
+  },
+  America/Guyana: {
+    Generic: Ora din Guyana,
+    Standard: Ora din Guyana,
+    Daylight: Ora din Guyana
+  },
+  America/Halifax: {
+    Generic: Ora zonei Atlantic nord-americane,
+    Standard: Ora standard în zona Atlantic nord-americană,
+    Daylight: Ora de vară în zona Atlantic nord-americană
+  },
+  America/Havana: {
+    Generic: Ora Cubei,
+    Standard: Ora standard a Cubei,
+    Daylight: Ora de vară a Cubei
+  },
+  America/Hermosillo: {
+    Generic: Ora zonei Pacific mexicane,
+    Standard: Ora standard a zonei Pacific mexicane,
+    Daylight: Ora de vară a zonei Pacific mexicane
+  },
+  America/Indiana/Indianapolis: {
+    Generic: Ora orientală nord-americană,
+    Standard: Ora standard orientală nord-americană,
+    Daylight: Ora de vară orientală nord-americană
+  },
+  America/Indiana/Knox: {
+    Generic: Ora centrală nord-americană,
+    Standard: Ora standard centrală nord-americană,
+    Daylight: Ora de vară centrală nord-americană
+  },
+  America/Indiana/Marengo: {
+    Generic: Ora orientală nord-americană,
+    Standard: Ora standard orientală nord-americană,
+    Daylight: Ora de vară orientală nord-americană
+  },
+  America/Indiana/Petersburg: {
+    Generic: Ora orientală nord-americană,
+    Standard: Ora standard orientală nord-americană,
+    Daylight: Ora de vară orientală nord-americană
+  },
+  America/Indiana/Tell_City: {
+    Generic: Ora centrală nord-americană,
+    Standard: Ora standard centrală nord-americană,
+    Daylight: Ora de vară centrală nord-americană
+  },
+  America/Indiana/Vevay: {
+    Generic: Ora orientală nord-americană,
+    Standard: Ora standard orientală nord-americană,
+    Daylight: Ora de vară orientală nord-americană
+  },
+  America/Indiana/Vincennes: {
+    Generic: Ora orientală nord-americană,
+    Standard: Ora standard orientală nord-americană,
+    Daylight: Ora de vară orientală nord-americană
+  },
+  America/Indiana/Winamac: {
+    Generic: Ora orientală nord-americană,
+    Standard: Ora standard orientală nord-americană,
+    Daylight: Ora de vară orientală nord-americană
+  },
+  America/Indianapolis: {
+    Generic: Ora orientală nord-americană,
+    Standard: Ora standard orientală nord-americană,
+    Daylight: Ora de vară orientală nord-americană
+  },
+  America/Inuvik: {
+    Generic: Ora zonei montane nord-americane,
+    Standard: Ora standard în zona montană nord-americană,
+    Daylight: Ora de vară în zona montană nord-americană
+  },
+  America/Iqaluit: {
+    Generic: Ora orientală nord-americană,
+    Standard: Ora standard orientală nord-americană,
+    Daylight: Ora de vară orientală nord-americană
+  },
+  America/Jamaica: {
+    Generic: Ora orientală nord-americană,
+    Standard: Ora standard orientală nord-americană,
+    Daylight: Ora de vară orientală nord-americană
+  },
+  America/Jujuy: {
+    Generic: Ora Argentinei,
+    Standard: Ora standard a Argentinei,
+    Daylight: Ora de vară a Argentinei
+  },
+  America/Juneau: {
+    Generic: Ora din Alaska,
+    Standard: Ora standard din Alaska,
+    Daylight: Ora de vară din Alaska
+  },
+  America/Kentucky/Louisville: {
+    Generic: Ora orientală nord-americană,
+    Standard: Ora standard orientală nord-americană,
+    Daylight: Ora de vară orientală nord-americană
+  },
+  America/Kentucky/Monticello: {
+    Generic: Ora orientală nord-americană,
+    Standard: Ora standard orientală nord-americană,
+    Daylight: Ora de vară orientală nord-americană
+  },
+  America/Knox_IN: {
+    Generic: Ora centrală nord-americană,
+    Standard: Ora standard centrală nord-americană,
+    Daylight: Ora de vară centrală nord-americană
+  },
+  America/Kralendijk: {
+    Generic: Ora zonei Atlantic nord-americane,
+    Standard: Ora standard în zona Atlantic nord-americană,
+    Daylight: Ora de vară în zona Atlantic nord-americană
+  },
+  America/La_Paz: {
+    Generic: Ora Boliviei,
+    Standard: Ora Boliviei,
+    Daylight: Ora Boliviei
+  },
+  America/Lima: {
+    Generic: Ora din Peru,
+    Standard: Ora standard din Peru,
+    Daylight: Ora de vară din Peru
+  },
+  America/Los_Angeles: {
+    Generic: Ora zonei Pacific nord-americane,
+    Standard: Ora standard în zona Pacific nord-americană,
+    Daylight: Ora de vară în zona Pacific nord-americană
+  },
+  America/Louisville: {
+    Generic: Ora orientală nord-americană,
+    Standard: Ora standard orientală nord-americană,
+    Daylight: Ora de vară orientală nord-americană
+  },
+  America/Lower_Princes: {
+    Generic: Ora zonei Atlantic nord-americane,
+    Standard: Ora standard în zona Atlantic nord-americană,
+    Daylight: Ora de vară în zona Atlantic nord-americană
+  },
+  America/Maceio: {
+    Generic: Ora Brasiliei,
+    Standard: Ora standard a Brasiliei,
+    Daylight: Ora de vară a Brasiliei
+  },
+  America/Managua: {
+    Generic: Ora centrală nord-americană,
+    Standard: Ora standard centrală nord-americană,
+    Daylight: Ora de vară centrală nord-americană
+  },
+  America/Manaus: {
+    Generic: Ora Amazonului,
+    Standard: Ora standard a Amazonului,
+    Daylight: Ora de vară a Amazonului
+  },
+  America/Marigot: {
+    Generic: Ora zonei Atlantic nord-americane,
+    Standard: Ora standard în zona Atlantic nord-americană,
+    Daylight: Ora de vară în zona Atlantic nord-americană
+  },
+  America/Martinique: {
+    Generic: Ora zonei Atlantic nord-americane,
+    Standard: Ora standard în zona Atlantic nord-americană,
+    Daylight: Ora de vară în zona Atlantic nord-americană
+  },
+  America/Matamoros: {
+    Generic: Ora centrală nord-americană,
+    Standard: Ora standard centrală nord-americană,
+    Daylight: Ora de vară centrală nord-americană
+  },
+  America/Mazatlan: {
+    Generic: Ora zonei Pacific mexicane,
+    Standard: Ora standard a zonei Pacific mexicane,
+    Daylight: Ora de vară a zonei Pacific mexicane
+  },
+  America/Mendoza: {
+    Generic: Ora Argentinei,
+    Standard: Ora standard a Argentinei,
+    Daylight: Ora de vară a Argentinei
+  },
+  America/Menominee: {
     Generic: Ora centrală nord-americană,
     Standard: Ora standard centrală nord-americană,
     Daylight: Ora de vară centrală nord-americană
@@ -474,55 +794,70 @@
     Standard: Ora standard centrală nord-americană,
     Daylight: Ora de vară centrală nord-americană
   },
+  America/Metlakatla: {
+    Generic: Ora din Alaska,
+    Standard: Ora standard din Alaska,
+    Daylight: Ora de vară din Alaska
+  },
+  America/Mexico_City: {
+    Generic: Ora centrală nord-americană,
+    Standard: Ora standard centrală nord-americană,
+    Daylight: Ora de vară centrală nord-americană
+  },
+  America/Miquelon: {
+    Generic: Ora din Saint-Pierre și Miquelon,
+    Standard: Ora standard din Saint-Pierre și Miquelon,
+    Daylight: Ora de vară din Saint-Pierre și Miquelon
+  },
+  America/Moncton: {
+    Generic: Ora zonei Atlantic nord-americane,
+    Standard: Ora standard în zona Atlantic nord-americană,
+    Daylight: Ora de vară în zona Atlantic nord-americană
+  },
   America/Monterrey: {
     Generic: Ora centrală nord-americană,
     Standard: Ora standard centrală nord-americană,
     Daylight: Ora de vară centrală nord-americană
   },
-  America/Chicago: {
-    Generic: Ora centrală nord-americană,
-    Standard: Ora standard centrală nord-americană,
-    Daylight: Ora de vară centrală nord-americană
+  America/Montevideo: {
+    Generic: Ora Uruguayului,
+    Standard: Ora standard a Uruguayului,
+    Daylight: Ora de vară a Uruguayului
   },
-  America/Winnipeg: {
-    Generic: Ora centrală nord-americană,
-    Standard: Ora standard centrală nord-americană,
-    Daylight: Ora de vară centrală nord-americană
+  America/Montreal: {
+    Generic: Ora orientală nord-americană,
+    Standard: Ora standard orientală nord-americană,
+    Daylight: Ora de vară orientală nord-americană
   },
-  America/Rainy_River: {
-    Generic: Ora centrală nord-americană,
-    Standard: Ora standard centrală nord-americană,
-    Daylight: Ora de vară centrală nord-americană
+  America/Montserrat: {
+    Generic: Ora zonei Atlantic nord-americane,
+    Standard: Ora standard în zona Atlantic nord-americană,
+    Daylight: Ora de vară în zona Atlantic nord-americană
   },
-  America/Rankin_Inlet: {
-    Generic: Ora centrală nord-americană,
-    Standard: Ora standard centrală nord-americană,
-    Daylight: Ora de vară centrală nord-americană
+  America/Nassau: {
+    Generic: Ora orientală nord-americană,
+    Standard: Ora standard orientală nord-americană,
+    Daylight: Ora de vară orientală nord-americană
   },
-  America/Resolute: {
-    Generic: Ora centrală nord-americană,
-    Standard: Ora standard centrală nord-americană,
-    Daylight: Ora de vară centrală nord-americană
+  America/New_York: {
+    Generic: Ora orientală nord-americană,
+    Standard: Ora standard orientală nord-americană,
+    Daylight: Ora de vară orientală nord-americană
   },
-  America/Matamoros: {
-    Generic: Ora centrală nord-americană,
-    Standard: Ora standard centrală nord-americană,
-    Daylight: Ora de vară centrală nord-americană
+  America/Nipigon: {
+    Generic: Ora orientală nord-americană,
+    Standard: Ora standard orientală nord-americană,
+    Daylight: Ora de vară orientală nord-americană
   },
-  America/Indiana/Knox: {
-    Generic: Ora centrală nord-americană,
-    Standard: Ora standard centrală nord-americană,
-    Daylight: Ora de vară centrală nord-americană
+  America/Nome: {
+    Generic: Ora din Alaska,
+    Standard: Ora standard din Alaska,
+    Daylight: Ora de vară din Alaska
   },
-  America/Indiana/Tell_City: {
-    Generic: Ora centrală nord-americană,
-    Standard: Ora standard centrală nord-americană,
-    Daylight: Ora de vară centrală nord-americană
-  },
-  America/Menominee: {
-    Generic: Ora centrală nord-americană,
-    Standard: Ora standard centrală nord-americană,
-    Daylight: Ora de vară centrală nord-americană
+  America/Noronha: {
+    Generic: Ora din Fernando de Noronha,
+    Standard: Ora standard din Fernando de Noronha,
+    Daylight: Ora de vară din Fernando de Noronha
   },
   America/North_Dakota/Beulah: {
     Generic: Ora centrală nord-americană,
@@ -539,157 +874,17 @@
     Standard: Ora standard centrală nord-americană,
     Daylight: Ora de vară centrală nord-americană
   },
-  CST6CDT: {
-    Generic: Ora centrală nord-americană,
-    Standard: Ora standard centrală nord-americană,
-    Daylight: Ora de vară centrală nord-americană
+  America/Nuuk: {
+    Generic: Ora Groenlandei occidentale,
+    Standard: Ora standard a Groenlandei occidentale,
+    Daylight: Ora de vară a Groenlandei occidentale
   },
-  Pacific/Chatham: {
-    Generic: Ora din Chatham,
-    Standard: Ora standard din Chatham,
-    Daylight: Ora de vară din Chatham
+  America/Ojinaga: {
+    Generic: Ora zonei montane nord-americane,
+    Standard: Ora standard în zona montană nord-americană,
+    Daylight: Ora de vară în zona montană nord-americană
   },
-  Asia/Shanghai: {
-    Generic: Ora Chinei,
-    Standard: Ora standard a Chinei,
-    Daylight: Ora de vară a Chinei
-  },
-  Asia/Hong_Kong: {
-    Generic: Ora din Hong Kong,
-    Standard: Ora standard din Hong Kong,
-    Daylight: Ora de vară din Hong Kong
-  },
-  Asia/Macau: {
-    Generic: Ora Chinei,
-    Standard: Ora standard a Chinei,
-    Daylight: Ora de vară a Chinei
-  },
-  America/Havana: {
-    Generic: Ora Cubei,
-    Standard: Ora standard a Cubei,
-    Daylight: Ora de vară a Cubei
-  },
-  Etc/GMT+12: {
-    Generic: Timpul universal coordonat -12,
-    Standard: Timpul universal coordonat -12,
-    Daylight: Timpul universal coordonat -12
-  },
-  Africa/Nairobi: {
-    Generic: Ora Africii Orientale,
-    Standard: Ora Africii Orientale,
-    Daylight: Ora Africii Orientale
-  },
-  Antarctica/Syowa: {
-    Generic: Ora din Syowa,
-    Standard: Ora din Syowa,
-    Daylight: Ora din Syowa
-  },
-  Africa/Djibouti: {
-    Generic: Ora Africii Orientale,
-    Standard: Ora Africii Orientale,
-    Daylight: Ora Africii Orientale
-  },
-  Africa/Asmera: {
-    Generic: Ora Africii Orientale,
-    Standard: Ora Africii Orientale,
-    Daylight: Ora Africii Orientale
-  },
-  Africa/Addis_Ababa: {
-    Generic: Ora Africii Orientale,
-    Standard: Ora Africii Orientale,
-    Daylight: Ora Africii Orientale
-  },
-  Indian/Comoro: {
-    Generic: Ora Africii Orientale,
-    Standard: Ora Africii Orientale,
-    Daylight: Ora Africii Orientale
-  },
-  Indian/Antananarivo: {
-    Generic: Ora Africii Orientale,
-    Standard: Ora Africii Orientale,
-    Daylight: Ora Africii Orientale
-  },
-  Africa/Mogadishu: {
-    Generic: Ora Africii Orientale,
-    Standard: Ora Africii Orientale,
-    Daylight: Ora Africii Orientale
-  },
-  Africa/Dar_es_Salaam: {
-    Generic: Ora Africii Orientale,
-    Standard: Ora Africii Orientale,
-    Daylight: Ora Africii Orientale
-  },
-  Africa/Kampala: {
-    Generic: Ora Africii Orientale,
-    Standard: Ora Africii Orientale,
-    Daylight: Ora Africii Orientale
-  },
-  Indian/Mayotte: {
-    Generic: Ora Africii Orientale,
-    Standard: Ora Africii Orientale,
-    Daylight: Ora Africii Orientale
-  },
-  Etc/GMT-3: {
-    Generic: Timpul universal coordonat +3,
-    Standard: Timpul universal coordonat +3,
-    Daylight: Timpul universal coordonat +3
-  },
-  Australia/Brisbane: {
-    Generic: Ora Australiei Orientale,
-    Standard: Ora standard a Australiei Orientale,
-    Daylight: Ora de vară a Australiei Orientale
-  },
-  Australia/Lindeman: {
-    Generic: Ora Australiei Orientale,
-    Standard: Ora standard a Australiei Orientale,
-    Daylight: Ora de vară a Australiei Orientale
-  },
-  Europe/Chisinau: {
-    Generic: Ora Europei de Est,
-    Standard: Ora standard a Europei de Est,
-    Daylight: Ora de vară a Europei de Est
-  },
-  America/Sao_Paulo: {
-    Generic: Ora Brasiliei,
-    Standard: Ora standard a Brasiliei,
-    Daylight: Ora de vară a Brasiliei
-  },
-  Pacific/Easter: {
-    Generic: Ora din Insula Paștelui,
-    Standard: Ora standard din Insula Paștelui,
-    Daylight: Ora de vară din Insula Paștelui
-  },
-  America/Cancun: {
-    Generic: Ora orientală nord-americană,
-    Standard: Ora standard orientală nord-americană,
-    Daylight: Ora de vară orientală nord-americană
-  },
-  America/New_York: {
-    Generic: Ora orientală nord-americană,
-    Standard: Ora standard orientală nord-americană,
-    Daylight: Ora de vară orientală nord-americană
-  },
-  America/Nassau: {
-    Generic: Ora orientală nord-americană,
-    Standard: Ora standard orientală nord-americană,
-    Daylight: Ora de vară orientală nord-americană
-  },
-  America/Toronto: {
-    Generic: Ora orientală nord-americană,
-    Standard: Ora standard orientală nord-americană,
-    Daylight: Ora de vară orientală nord-americană
-  },
-  America/Iqaluit: {
-    Generic: Ora orientală nord-americană,
-    Standard: Ora standard orientală nord-americană,
-    Daylight: Ora de vară orientală nord-americană
-  },
-  America/Montreal: {
-    Generic: Ora orientală nord-americană,
-    Standard: Ora standard orientală nord-americană,
-    Daylight: Ora de vară orientală nord-americană
-  },
-  America/Nipigon: {
+  America/Panama: {
     Generic: Ora orientală nord-americană,
     Standard: Ora standard orientală nord-americană,
     Daylight: Ora de vară orientală nord-americană
@@ -699,800 +894,130 @@
     Standard: Ora standard orientală nord-americană,
     Daylight: Ora de vară orientală nord-americană
   },
-  America/Thunder_Bay: {
-    Generic: Ora orientală nord-americană,
-    Standard: Ora standard orientală nord-americană,
-    Daylight: Ora de vară orientală nord-americană
+  America/Paramaribo: {
+    Generic: Ora Surinamului,
+    Standard: Ora Surinamului,
+    Daylight: Ora Surinamului
   },
-  America/Detroit: {
-    Generic: Ora orientală nord-americană,
-    Standard: Ora standard orientală nord-americană,
-    Daylight: Ora de vară orientală nord-americană
-  },
-  America/Indiana/Petersburg: {
-    Generic: Ora orientală nord-americană,
-    Standard: Ora standard orientală nord-americană,
-    Daylight: Ora de vară orientală nord-americană
-  },
-  America/Indiana/Vincennes: {
-    Generic: Ora orientală nord-americană,
-    Standard: Ora standard orientală nord-americană,
-    Daylight: Ora de vară orientală nord-americană
-  },
-  America/Indiana/Winamac: {
-    Generic: Ora orientală nord-americană,
-    Standard: Ora standard orientală nord-americană,
-    Daylight: Ora de vară orientală nord-americană
-  },
-  America/Kentucky/Monticello: {
-    Generic: Ora orientală nord-americană,
-    Standard: Ora standard orientală nord-americană,
-    Daylight: Ora de vară orientală nord-americană
-  },
-  America/Louisville: {
-    Generic: Ora orientală nord-americană,
-    Standard: Ora standard orientală nord-americană,
-    Daylight: Ora de vară orientală nord-americană
-  },
-  EST5EDT: {
-    Generic: Ora orientală nord-americană,
-    Standard: Ora standard orientală nord-americană,
-    Daylight: Ora de vară orientală nord-americană
-  },
-  Africa/Cairo: {
-    Generic: Ora Europei de Est,
-    Standard: Ora standard a Europei de Est,
-    Daylight: Ora de vară a Europei de Est
-  },
-  Asia/Yekaterinburg: {
-    Generic: Ora din Ekaterinburg,
-    Standard: Ora standard din Ekaterinburg,
-    Daylight: Ora de vară din Ekaterinburg
-  },
-  Europe/Kiev: {
-    Generic: Ora Europei de Est,
-    Standard: Ora standard a Europei de Est,
-    Daylight: Ora de vară a Europei de Est
-  },
-  Europe/Mariehamn: {
-    Generic: Ora Europei de Est,
-    Standard: Ora standard a Europei de Est,
-    Daylight: Ora de vară a Europei de Est
-  },
-  Europe/Sofia: {
-    Generic: Ora Europei de Est,
-    Standard: Ora standard a Europei de Est,
-    Daylight: Ora de vară a Europei de Est
-  },
-  Europe/Tallinn: {
-    Generic: Ora Europei de Est,
-    Standard: Ora standard a Europei de Est,
-    Daylight: Ora de vară a Europei de Est
-  },
-  Europe/Helsinki: {
-    Generic: Ora Europei de Est,
-    Standard: Ora standard a Europei de Est,
-    Daylight: Ora de vară a Europei de Est
-  },
-  Europe/Vilnius: {
-    Generic: Ora Europei de Est,
-    Standard: Ora standard a Europei de Est,
-    Daylight: Ora de vară a Europei de Est
-  },
-  Europe/Riga: {
-    Generic: Ora Europei de Est,
-    Standard: Ora standard a Europei de Est,
-    Daylight: Ora de vară a Europei de Est
-  },
-  Europe/Uzhgorod: {
-    Generic: Ora Europei de Est,
-    Standard: Ora standard a Europei de Est,
-    Daylight: Ora de vară a Europei de Est
-  },
-  Europe/Zaporozhye: {
-    Generic: Ora Europei de Est,
-    Standard: Ora standard a Europei de Est,
-    Daylight: Ora de vară a Europei de Est
-  },
-  Pacific/Fiji: {
-    Generic: Ora din Fiji,
-    Standard: Ora standard din Fiji,
-    Daylight: Ora de vară din Fiji
-  },
-  Europe/London: {
-    Generic: Ora din Regatul Unit,
-    Standard: Ora de Greenwhich,
-    Daylight: Ora de vară britanică
-  },
-  Atlantic/Canary: {
-    Generic: Ora Europei de Vest,
-    Standard: Ora standard a Europei de Vest,
-    Daylight: Ora de vară a Europei de Vest
-  },
-  Atlantic/Faeroe: {
-    Generic: Ora Europei de Vest,
-    Standard: Ora standard a Europei de Vest,
-    Daylight: Ora de vară a Europei de Vest
-  },
-  Europe/Guernsey: {
-    Generic: Ora de Greenwhich,
-    Standard: Ora de Greenwhich,
-    Daylight: Ora de Greenwhich
-  },
-  Europe/Dublin: {
-    Generic: Ora din Irlanda,
-    Standard: Ora de Greenwhich,
-    Daylight: Ora de vară a Irlandei
-  },
-  Europe/Isle_of_Man: {
-    Generic: Ora de Greenwhich,
-    Standard: Ora de Greenwhich,
-    Daylight: Ora de Greenwhich
-  },
-  Europe/Jersey: {
-    Generic: Ora de Greenwhich,
-    Standard: Ora de Greenwhich,
-    Daylight: Ora de Greenwhich
-  },
-  Europe/Lisbon: {
-    Generic: Ora Europei de Vest,
-    Standard: Ora standard a Europei de Vest,
-    Daylight: Ora de vară a Europei de Vest
-  },
-  Atlantic/Madeira: {
-    Generic: Ora Europei de Vest,
-    Standard: Ora standard a Europei de Vest,
-    Daylight: Ora de vară a Europei de Vest
-  },
-  Europe/Bucharest: {
-    Generic: Ora Europei de Est,
-    Standard: Ora standard a Europei de Est,
-    Daylight: Ora de vară a Europei de Est
-  },
-  Asia/Nicosia: {
-    Generic: Ora Europei de Est,
-    Standard: Ora standard a Europei de Est,
-    Daylight: Ora de vară a Europei de Est
-  },
-  Asia/Famagusta: {
-    Generic: Ora Europei de Est,
-    Standard: Ora standard a Europei de Est,
-    Daylight: Ora de vară a Europei de Est
-  },
-  Europe/Athens: {
-    Generic: Ora Europei de Est,
-    Standard: Ora standard a Europei de Est,
-    Daylight: Ora de vară a Europei de Est
-  },
-  Asia/Tbilisi: {
-    Generic: Ora Georgiei,
-    Standard: Ora standard a Georgiei,
-    Daylight: Ora de vară a Georgiei
-  },
-  America/Godthab: {
-    Generic: Ora Groenlandei occidentale,
-    Standard: Ora standard a Groenlandei occidentale,
-    Daylight: Ora de vară a Groenlandei occidentale
-  },
-  Atlantic/Reykjavik: {
-    Generic: Ora de Greenwhich,
-    Standard: Ora de Greenwhich,
-    Daylight: Ora de Greenwhich
-  },
-  Atlantic/St_Helena: {
-    Generic: Ora de Greenwhich,
-    Standard: Ora de Greenwhich,
-    Daylight: Ora de Greenwhich
-  },
-  Africa/Ouagadougou: {
-    Generic: Ora de Greenwhich,
-    Standard: Ora de Greenwhich,
-    Daylight: Ora de Greenwhich
-  },
-  Africa/Abidjan: {
-    Generic: Ora de Greenwhich,
-    Standard: Ora de Greenwhich,
-    Daylight: Ora de Greenwhich
-  },
-  Africa/Accra: {
-    Generic: Ora de Greenwhich,
-    Standard: Ora de Greenwhich,
-    Daylight: Ora de Greenwhich
-  },
-  America/Danmarkshavn: {
-    Generic: Ora de Greenwhich,
-    Standard: Ora de Greenwhich,
-    Daylight: Ora de Greenwhich
-  },
-  Africa/Banjul: {
-    Generic: Ora de Greenwhich,
-    Standard: Ora de Greenwhich,
-    Daylight: Ora de Greenwhich
-  },
-  Africa/Conakry: {
-    Generic: Ora de Greenwhich,
-    Standard: Ora de Greenwhich,
-    Daylight: Ora de Greenwhich
-  },
-  Africa/Bissau: {
-    Generic: Ora de Greenwhich,
-    Standard: Ora de Greenwhich,
-    Daylight: Ora de Greenwhich
-  },
-  Africa/Monrovia: {
-    Generic: Ora de Greenwhich,
-    Standard: Ora de Greenwhich,
-    Daylight: Ora de Greenwhich
-  },
-  Africa/Bamako: {
-    Generic: Ora de Greenwhich,
-    Standard: Ora de Greenwhich,
-    Daylight: Ora de Greenwhich
-  },
-  Africa/Nouakchott: {
-    Generic: Ora de Greenwhich,
-    Standard: Ora de Greenwhich,
-    Daylight: Ora de Greenwhich
-  },
-  Africa/Freetown: {
-    Generic: Ora de Greenwhich,
-    Standard: Ora de Greenwhich,
-    Daylight: Ora de Greenwhich
-  },
-  Africa/Dakar: {
-    Generic: Ora de Greenwhich,
-    Standard: Ora de Greenwhich,
-    Daylight: Ora de Greenwhich
-  },
-  Africa/Lome: {
-    Generic: Ora de Greenwhich,
-    Standard: Ora de Greenwhich,
-    Daylight: Ora de Greenwhich
+  America/Phoenix: {
+    Generic: Ora zonei montane nord-americane,
+    Standard: Ora standard în zona montană nord-americană,
+    Daylight: Ora de vară în zona montană nord-americană
   },
   America/Port-au-Prince: {
     Generic: Ora orientală nord-americană,
     Standard: Ora standard orientală nord-americană,
     Daylight: Ora de vară orientală nord-americană
   },
-  Pacific/Honolulu: {
-    Generic: Ora din Hawaii-Aleutine,
-    Standard: Ora standard din Hawaii-Aleutine,
-    Daylight: Ora de vară din Hawaii-Aleutine
-  },
-  Pacific/Rarotonga: {
-    Generic: Ora Insulelor Cook,
-    Standard: Ora standard a Insulelor Cook,
-    Daylight: Ora de vară a Insulelor Cook
-  },
-  Pacific/Tahiti: {
-    Generic: Ora din Tahiti,
-    Standard: Ora din Tahiti,
-    Daylight: Ora din Tahiti
-  },
-  Pacific/Johnston: {
-    Generic: Ora din Hawaii-Aleutine,
-    Standard: Ora standard din Hawaii-Aleutine,
-    Daylight: Ora de vară din Hawaii-Aleutine
-  },
-  Etc/GMT+10: {
-    Generic: Timpul universal coordonat -10,
-    Standard: Timpul universal coordonat -10,
-    Daylight: Timpul universal coordonat -10
-  },
-  Asia/Calcutta: {
-    Generic: Ora Indiei,
-    Standard: Ora Indiei,
-    Daylight: Ora Indiei
-  },
-  Asia/Tehran: {
-    Generic: Ora Iranului,
-    Standard: Ora standard a Iranului,
-    Daylight: Ora de vară a Iranului
-  },
-  Asia/Jerusalem: {
-    Generic: Ora Israelului,
-    Standard: Ora standard a Israelului,
-    Daylight: Ora de vară a Israelului
-  },
-  Asia/Amman: {
-    Generic: Ora Europei de Est,
-    Standard: Ora standard a Europei de Est,
-    Daylight: Ora de vară a Europei de Est
-  },
-  Europe/Kaliningrad: {
-    Generic: Ora din Kaliningrad,
-    Standard: Ora standard din Kaliningrad,
-    Daylight: Ora de vară din Kaliningrad
-  },
-  Asia/Seoul: {
-    Generic: Ora Coreei,
-    Standard: Ora standard a Coreei,
-    Daylight: Ora de vară a Coreei
-  },
-  Africa/Tripoli: {
-    Generic: Ora Europei de Est,
-    Standard: Ora standard a Europei de Est,
-    Daylight: Ora de vară a Europei de Est
-  },
-  Pacific/Kiritimati: {
-    Generic: Ora din Insulele Line,
-    Standard: Ora din Insulele Line,
-    Daylight: Ora din Insulele Line
-  },
-  Etc/GMT-14: {
-    Generic: Timpul universal coordonat +14,
-    Standard: Timpul universal coordonat +14,
-    Daylight: Timpul universal coordonat +14
-  },
-  Australia/Lord_Howe: {
-    Generic: Ora din Lord Howe,
-    Standard: Ora standard din Lord Howe,
-    Daylight: Ora de vară din Lord Howe
-  },
-  Asia/Magadan: {
-    Generic: Ora din Magadan,
-    Standard: Ora standard din Magadan,
-    Daylight: Ora de vară din Magadan
-  },
-  America/Punta_Arenas: {
-    Generic: Ora din Chile,
-    Standard: Ora standard din Chile,
-    Daylight: Ora de vară din Chile
-  },
-  Pacific/Marquesas: {
-    Generic: Ora Insulelor Marchize,
-    Standard: Ora Insulelor Marchize,
-    Daylight: Ora Insulelor Marchize
-  },
-  Indian/Mauritius: {
-    Generic: Ora din Mauritius,
-    Standard: Ora standard din Mauritius,
-    Daylight: Ora de vară din Mauritius
-  },
-  Indian/Reunion: {
-    Generic: Ora din Reunion,
-    Standard: Ora din Reunion,
-    Daylight: Ora din Reunion
-  },
-  Indian/Mahe: {
-    Generic: Ora din Seychelles,
-    Standard: Ora din Seychelles,
-    Daylight: Ora din Seychelles
-  },
-  Asia/Beirut: {
-    Generic: Ora Europei de Est,
-    Standard: Ora standard a Europei de Est,
-    Daylight: Ora de vară a Europei de Est
-  },
-  America/Montevideo: {
-    Generic: Ora Uruguayului,
-    Standard: Ora standard a Uruguayului,
-    Daylight: Ora de vară a Uruguayului
-  },
-  Africa/Casablanca: {
-    Generic: Ora Europei de Vest,
-    Standard: Ora standard a Europei de Vest,
-    Daylight: Ora de vară a Europei de Vest
-  },
-  Africa/El_Aaiun: {
-    Generic: Ora Europei de Vest,
-    Standard: Ora standard a Europei de Vest,
-    Daylight: Ora de vară a Europei de Vest
-  },
-  America/Chihuahua: {
-    Generic: Ora zonei Pacific mexicane,
-    Standard: Ora standard a zonei Pacific mexicane,
-    Daylight: Ora de vară a zonei Pacific mexicane
-  },
-  America/Mazatlan: {
-    Generic: Ora zonei Pacific mexicane,
-    Standard: Ora standard a zonei Pacific mexicane,
-    Daylight: Ora de vară a zonei Pacific mexicane
-  },
-  America/Denver: {
-    Generic: Ora zonei montane nord-americane,
-    Standard: Ora standard în zona montană nord-americană,
-    Daylight: Ora de vară în zona montană nord-americană
-  },
-  America/Edmonton: {
-    Generic: Ora zonei montane nord-americane,
-    Standard: Ora standard în zona montană nord-americană,
-    Daylight: Ora de vară în zona montană nord-americană
-  },
-  America/Cambridge_Bay: {
-    Generic: Ora zonei montane nord-americane,
-    Standard: Ora standard în zona montană nord-americană,
-    Daylight: Ora de vară în zona montană nord-americană
-  },
-  America/Inuvik: {
-    Generic: Ora zonei montane nord-americane,
-    Standard: Ora standard în zona montană nord-americană,
-    Daylight: Ora de vară în zona montană nord-americană
-  },
-  America/Yellowknife: {
-    Generic: Ora zonei montane nord-americane,
-    Standard: Ora standard în zona montană nord-americană,
-    Daylight: Ora de vară în zona montană nord-americană
-  },
-  America/Ojinaga: {
-    Generic: Ora zonei montane nord-americane,
-    Standard: Ora standard în zona montană nord-americană,
-    Daylight: Ora de vară în zona montană nord-americană
-  },
-  America/Boise: {
-    Generic: Ora zonei montane nord-americane,
-    Standard: Ora standard în zona montană nord-americană,
-    Daylight: Ora de vară în zona montană nord-americană
-  },
-  MST7MDT: {
-    Generic: Ora zonei montane nord-americane,
-    Standard: Ora standard în zona montană nord-americană,
-    Daylight: Ora de vară în zona montană nord-americană
-  },
-  Asia/Rangoon: {
-    Generic: Ora Myanmarului,
-    Standard: Ora Myanmarului,
-    Daylight: Ora Myanmarului
-  },
-  Indian/Cocos: {
-    Generic: Ora Insulelor Cocos,
-    Standard: Ora Insulelor Cocos,
-    Daylight: Ora Insulelor Cocos
-  },
-  Asia/Novosibirsk: {
-    Generic: Ora din Novosibirsk,
-    Standard: Ora standard din Novosibirsk,
-    Daylight: Ora de vară din Novosibirsk
-  },
-  Africa/Windhoek: {
-    Generic: Ora Africii Centrale,
-    Standard: Ora Africii Centrale,
-    Daylight: Ora Africii Centrale
-  },
-  Asia/Katmandu: {
-    Generic: Ora Nepalului,
-    Standard: Ora Nepalului,
-    Daylight: Ora Nepalului
-  },
-  Pacific/Auckland: {
-    Generic: Ora Noii Zeelande,
-    Standard: Ora standard a Noii Zeelande,
-    Daylight: Ora de vară a Noii Zeelande
-  },
-  Antarctica/McMurdo: {
-    Generic: Ora Noii Zeelande,
-    Standard: Ora standard a Noii Zeelande,
-    Daylight: Ora de vară a Noii Zeelande
-  },
-  America/St_Johns: {
-    Generic: Ora din Newfoundland,
-    Standard: Ora standard din Newfoundland,
-    Daylight: Ora de vară din Newfoundland
-  },
-  Pacific/Norfolk: {
-    Generic: Ora Insulei Norfolk,
-    Standard: Ora standard a Insulei Norfolk,
-    Daylight: Ora de vară a Insulei Norfolk
-  },
-  Asia/Irkutsk: {
-    Generic: Ora din Irkuțk,
-    Standard: Ora standard din Irkuțk,
-    Daylight: Ora de vară din Irkuțk
-  },
-  Asia/Krasnoyarsk: {
-    Generic: Ora din Krasnoiarsk,
-    Standard: Ora standard din Krasnoiarsk,
-    Daylight: Ora de vară din Krasnoiarsk
-  },
-  Asia/Novokuznetsk: {
-    Generic: Ora din Novokuznețk,
-    Standard: Ora standard din Novokuznețk,
-    Daylight: Ora de vară din Novokuznețk
-  },
-  Asia/Pyongyang: {
-    Generic: Ora Coreei,
-    Standard: Ora standard a Coreei,
-    Daylight: Ora de vară a Coreei
-  },
-  Asia/Omsk: {
-    Generic: Ora din Omsk,
-    Standard: Ora standard din Omsk,
-    Daylight: Ora de vară din Omsk
-  },
-  America/Santiago: {
-    Generic: Ora din Chile,
-    Standard: Ora standard din Chile,
-    Daylight: Ora de vară din Chile
-  },
-  America/Tijuana: {
-    Generic: Ora zonei Pacific nord-americane,
-    Standard: Ora standard în zona Pacific nord-americană,
-    Daylight: Ora de vară în zona Pacific nord-americană
-  },
-  America/Santa_Isabel: {
-    Generic: Ora Mexicului de nord-vest,
-    Standard: Ora standard a Mexicului de nord-vest,
-    Daylight: Ora de vară a Mexicului de nord-vest
-  },
-  America/Los_Angeles: {
-    Generic: Ora zonei Pacific nord-americane,
-    Standard: Ora standard în zona Pacific nord-americană,
-    Daylight: Ora de vară în zona Pacific nord-americană
-  },
-  America/Vancouver: {
-    Generic: Ora zonei Pacific nord-americane,
-    Standard: Ora standard în zona Pacific nord-americană,
-    Daylight: Ora de vară în zona Pacific nord-americană
-  },
-  PST8PDT: {
-    Generic: Ora zonei Pacific nord-americane,
-    Standard: Ora standard în zona Pacific nord-americană,
-    Daylight: Ora de vară în zona Pacific nord-americană
-  },
-  Asia/Karachi: {
-    Generic: Ora Pakistanului,
-    Standard: Ora standard a Pakistanului,
-    Daylight: Ora de vară a Pakistanului
-  },
-  America/Asuncion: {
-    Generic: Ora din Paraguay,
-    Standard: Ora standard din Paraguay,
-    Daylight: Ora de vară din Paraguay
-  },
-  Asia/Qyzylorda: {
-    Generic: Ora din Kazahstanul de Vest,
-    Standard: Ora din Kazahstanul de Vest,
-    Daylight: Ora din Kazahstanul de Vest
-  },
-  Europe/Paris: {
-    Generic: Ora Europei Centrale,
-    Standard: Ora standard a Europei Centrale,
-    Daylight: Ora de vară a Europei Centrale
-  },
-  Europe/Brussels: {
-    Generic: Ora Europei Centrale,
-    Standard: Ora standard a Europei Centrale,
-    Daylight: Ora de vară a Europei Centrale
-  },
-  Europe/Copenhagen: {
-    Generic: Ora Europei Centrale,
-    Standard: Ora standard a Europei Centrale,
-    Daylight: Ora de vară a Europei Centrale
-  },
-  Africa/Ceuta: {
-    Generic: Ora Europei Centrale,
-    Standard: Ora standard a Europei Centrale,
-    Daylight: Ora de vară a Europei Centrale
-  },
-  Europe/Madrid: {
-    Generic: Ora Europei Centrale,
-    Standard: Ora standard a Europei Centrale,
-    Daylight: Ora de vară a Europei Centrale
-  },
-  Asia/Srednekolymsk: {
-    Generic: Ora din Srednekolimsk,
-    Standard: Ora standard din Srednekolimsk,
-    Daylight: Ora de vară din Srednekolimsk
-  },
-  Asia/Kamchatka: {
-    Generic: Ora din Kamciatka,
-    Standard: Ora standard din Kamciatka,
-    Daylight: Ora de vară din Kamciatka
-  },
-  Asia/Anadyr: {
-    Generic: Ora din Anadir,
-    Standard: Ora standard din Anadir,
-    Daylight: Ora de vară din Anadir
-  },
-  Europe/Samara: {
-    Generic: Ora din Samara,
-    Standard: Ora standard din Samara,
-    Daylight: Ora de vară din Samara
-  },
-  Europe/Moscow: {
-    Generic: Ora din Moscova,
-    Standard: Ora standard din Moscova,
-    Daylight: Ora de vară din Moscova
-  },
-  Europe/Kirov: {
-    Generic: Ora din Kirov,
-    Standard: Ora standard din Kirov,
-    Daylight: Ora de vară din Kirov
-  },
-  Europe/Simferopol: {
-    Generic: Ora Moscovei,
-    Standard: Ora standard a Moscovei,
-    Daylight: Ora de vară a Moscovei
-  },
-  America/Cayenne: {
-    Generic: Ora din Guyana Franceză,
-    Standard: Ora din Guyana Franceză,
-    Daylight: Ora din Guyana Franceză
-  },
-  Antarctica/Rothera: {
-    Generic: Ora din Rothera,
-    Standard: Ora din Rothera,
-    Daylight: Ora din Rothera
-  },
-  Antarctica/Palmer: {
-    Generic: Ora din Chile,
-    Standard: Ora standard din Chile,
-    Daylight: Ora de vară din Chile
-  },
-  America/Fortaleza: {
-    Generic: Ora Brasiliei,
-    Standard: Ora standard a Brasiliei,
-    Daylight: Ora de vară a Brasiliei
-  },
-  America/Belem: {
-    Generic: Ora Brasiliei,
-    Standard: Ora standard a Brasiliei,
-    Daylight: Ora de vară a Brasiliei
-  },
-  America/Maceio: {
-    Generic: Ora Brasiliei,
-    Standard: Ora standard a Brasiliei,
-    Daylight: Ora de vară a Brasiliei
-  },
-  America/Recife: {
-    Generic: Ora Brasiliei,
-    Standard: Ora standard a Brasiliei,
-    Daylight: Ora de vară a Brasiliei
-  },
-  America/Santarem: {
-    Generic: Ora Brasiliei,
-    Standard: Ora standard a Brasiliei,
-    Daylight: Ora de vară a Brasiliei
-  },
-  Atlantic/Stanley: {
-    Generic: Ora din Insulele Falkland,
-    Standard: Ora standard din Insulele Falkland,
-    Daylight: Ora de vară din Insulele Falkland
-  },
-  America/Paramaribo: {
-    Generic: Ora Surinamului,
-    Standard: Ora Surinamului,
-    Daylight: Ora Surinamului
-  },
-  Etc/GMT+3: {
-    Generic: Timpul universal coordonat -3,
-    Standard: Timpul universal coordonat -3,
-    Daylight: Timpul universal coordonat -3
-  },
-  America/Bogota: {
-    Generic: Ora Columbiei,
-    Standard: Ora standard a Columbiei,
-    Daylight: Ora de vară a Columbiei
-  },
-  America/Rio_Branco: {
+  America/Port_of_Spain: {
+    Generic: Ora zonei Atlantic nord-americane,
+    Standard: Ora standard în zona Atlantic nord-americană,
+    Daylight: Ora de vară în zona Atlantic nord-americană
+  },
+  America/Porto_Acre: {
     Generic: Ora Acre,
     Standard: Ora standard Acre,
     Daylight: Ora de vară Acre
-  },
-  America/Eirunepe: {
-    Generic: Ora Acre,
-    Standard: Ora standard Acre,
-    Daylight: Ora de vară Acre
-  },
-  America/Coral_Harbour: {
-    Generic: Ora orientală nord-americană,
-    Standard: Ora standard orientală nord-americană,
-    Daylight: Ora de vară orientală nord-americană
-  },
-  America/Guayaquil: {
-    Generic: Ora Ecuadorului,
-    Standard: Ora Ecuadorului,
-    Daylight: Ora Ecuadorului
-  },
-  America/Jamaica: {
-    Generic: Ora orientală nord-americană,
-    Standard: Ora standard orientală nord-americană,
-    Daylight: Ora de vară orientală nord-americană
-  },
-  America/Cayman: {
-    Generic: Ora orientală nord-americană,
-    Standard: Ora standard orientală nord-americană,
-    Daylight: Ora de vară orientală nord-americană
-  },
-  America/Panama: {
-    Generic: Ora orientală nord-americană,
-    Standard: Ora standard orientală nord-americană,
-    Daylight: Ora de vară orientală nord-americană
-  },
-  America/Lima: {
-    Generic: Ora din Peru,
-    Standard: Ora standard din Peru,
-    Daylight: Ora de vară din Peru
-  },
-  Etc/GMT+5: {
-    Generic: Timpul universal coordonat -5,
-    Standard: Timpul universal coordonat -5,
-    Daylight: Timpul universal coordonat -5
-  },
-  America/La_Paz: {
-    Generic: Ora Boliviei,
-    Standard: Ora Boliviei,
-    Daylight: Ora Boliviei
-  },
-  America/Antigua: {
-    Generic: Ora zonei Atlantic nord-americane,
-    Standard: Ora standard în zona Atlantic nord-americană,
-    Daylight: Ora de vară în zona Atlantic nord-americană
-  },
-  America/Anguilla: {
-    Generic: Ora zonei Atlantic nord-americane,
-    Standard: Ora standard în zona Atlantic nord-americană,
-    Daylight: Ora de vară în zona Atlantic nord-americană
-  },
-  America/Aruba: {
-    Generic: Ora zonei Atlantic nord-americane,
-    Standard: Ora standard în zona Atlantic nord-americană,
-    Daylight: Ora de vară în zona Atlantic nord-americană
-  },
-  America/Barbados: {
-    Generic: Ora zonei Atlantic nord-americane,
-    Standard: Ora standard în zona Atlantic nord-americană,
-    Daylight: Ora de vară în zona Atlantic nord-americană
-  },
-  America/St_Barthelemy: {
-    Generic: Ora zonei Atlantic nord-americane,
-    Standard: Ora standard în zona Atlantic nord-americană,
-    Daylight: Ora de vară în zona Atlantic nord-americană
-  },
-  America/Kralendijk: {
-    Generic: Ora zonei Atlantic nord-americane,
-    Standard: Ora standard în zona Atlantic nord-americană,
-    Daylight: Ora de vară în zona Atlantic nord-americană
-  },
-  America/Manaus: {
-    Generic: Ora Amazonului,
-    Standard: Ora standard a Amazonului,
-    Daylight: Ora de vară a Amazonului
-  },
-  America/Boa_Vista: {
-    Generic: Ora Amazonului,
-    Standard: Ora standard a Amazonului,
-    Daylight: Ora de vară a Amazonului
   },
   America/Porto_Velho: {
     Generic: Ora Amazonului,
     Standard: Ora standard a Amazonului,
     Daylight: Ora de vară a Amazonului
   },
-  America/Blanc-Sablon: {
+  America/Puerto_Rico: {
     Generic: Ora zonei Atlantic nord-americane,
     Standard: Ora standard în zona Atlantic nord-americană,
     Daylight: Ora de vară în zona Atlantic nord-americană
   },
-  America/Curacao: {
-    Generic: Ora zonei Atlantic nord-americane,
-    Standard: Ora standard în zona Atlantic nord-americană,
-    Daylight: Ora de vară în zona Atlantic nord-americană
+  America/Punta_Arenas: {
+    Generic: Ora din Chile,
+    Standard: Ora standard din Chile,
+    Daylight: Ora de vară din Chile
   },
-  America/Dominica: {
-    Generic: Ora zonei Atlantic nord-americane,
-    Standard: Ora standard în zona Atlantic nord-americană,
-    Daylight: Ora de vară în zona Atlantic nord-americană
+  America/Rainy_River: {
+    Generic: Ora centrală nord-americană,
+    Standard: Ora standard centrală nord-americană,
+    Daylight: Ora de vară centrală nord-americană
+  },
+  America/Rankin_Inlet: {
+    Generic: Ora centrală nord-americană,
+    Standard: Ora standard centrală nord-americană,
+    Daylight: Ora de vară centrală nord-americană
+  },
+  America/Recife: {
+    Generic: Ora Brasiliei,
+    Standard: Ora standard a Brasiliei,
+    Daylight: Ora de vară a Brasiliei
+  },
+  America/Regina: {
+    Generic: Ora centrală nord-americană,
+    Standard: Ora standard centrală nord-americană,
+    Daylight: Ora de vară centrală nord-americană
+  },
+  America/Resolute: {
+    Generic: Ora centrală nord-americană,
+    Standard: Ora standard centrală nord-americană,
+    Daylight: Ora de vară centrală nord-americană
+  },
+  America/Rio_Branco: {
+    Generic: Ora Acre,
+    Standard: Ora standard Acre,
+    Daylight: Ora de vară Acre
+  },
+  America/Rosario: {
+    Generic: Ora Argentinei,
+    Standard: Ora standard a Argentinei,
+    Daylight: Ora de vară a Argentinei
+  },
+  America/Santa_Isabel: {
+    Generic: Ora Mexicului de nord-vest,
+    Standard: Ora standard a Mexicului de nord-vest,
+    Daylight: Ora de vară a Mexicului de nord-vest
+  },
+  America/Santarem: {
+    Generic: Ora Brasiliei,
+    Standard: Ora standard a Brasiliei,
+    Daylight: Ora de vară a Brasiliei
+  },
+  America/Santiago: {
+    Generic: Ora din Chile,
+    Standard: Ora standard din Chile,
+    Daylight: Ora de vară din Chile
   },
   America/Santo_Domingo: {
     Generic: Ora zonei Atlantic nord-americane,
     Standard: Ora standard în zona Atlantic nord-americană,
     Daylight: Ora de vară în zona Atlantic nord-americană
   },
-  America/Grenada: {
+  America/Sao_Paulo: {
+    Generic: Ora Brasiliei,
+    Standard: Ora standard a Brasiliei,
+    Daylight: Ora de vară a Brasiliei
+  },
+  America/Scoresbysund: {
+    Generic: Ora Groenlandei orientale,
+    Standard: Ora standard a Groenlandei orientale,
+    Daylight: Ora de vară a Groenlandei orientale
+  },
+  America/Shiprock: {
+    Generic: Ora zonei montane nord-americane,
+    Standard: Ora standard în zona montană nord-americană,
+    Daylight: Ora de vară în zona montană nord-americană
+  },
+  America/Sitka: {
+    Generic: Ora din Alaska,
+    Standard: Ora standard din Alaska,
+    Daylight: Ora de vară din Alaska
+  },
+  America/St_Barthelemy: {
     Generic: Ora zonei Atlantic nord-americane,
     Standard: Ora standard în zona Atlantic nord-americană,
     Daylight: Ora de vară în zona Atlantic nord-americană
   },
-  America/Guadeloupe: {
-    Generic: Ora zonei Atlantic nord-americane,
-    Standard: Ora standard în zona Atlantic nord-americană,
-    Daylight: Ora de vară în zona Atlantic nord-americană
-  },
-  America/Guyana: {
-    Generic: Ora din Guyana,
-    Standard: Ora din Guyana,
-    Daylight: Ora din Guyana
+  America/St_Johns: {
+    Generic: Ora din Newfoundland,
+    Standard: Ora standard din Newfoundland,
+    Daylight: Ora de vară din Newfoundland
   },
   America/St_Kitts: {
     Generic: Ora zonei Atlantic nord-americane,
@@ -1504,32 +1029,7 @@
     Standard: Ora standard în zona Atlantic nord-americană,
     Daylight: Ora de vară în zona Atlantic nord-americană
   },
-  America/Marigot: {
-    Generic: Ora zonei Atlantic nord-americane,
-    Standard: Ora standard în zona Atlantic nord-americană,
-    Daylight: Ora de vară în zona Atlantic nord-americană
-  },
-  America/Martinique: {
-    Generic: Ora zonei Atlantic nord-americane,
-    Standard: Ora standard în zona Atlantic nord-americană,
-    Daylight: Ora de vară în zona Atlantic nord-americană
-  },
-  America/Montserrat: {
-    Generic: Ora zonei Atlantic nord-americane,
-    Standard: Ora standard în zona Atlantic nord-americană,
-    Daylight: Ora de vară în zona Atlantic nord-americană
-  },
-  America/Puerto_Rico: {
-    Generic: Ora zonei Atlantic nord-americane,
-    Standard: Ora standard în zona Atlantic nord-americană,
-    Daylight: Ora de vară în zona Atlantic nord-americană
-  },
-  America/Lower_Princes: {
-    Generic: Ora zonei Atlantic nord-americane,
-    Standard: Ora standard în zona Atlantic nord-americană,
-    Daylight: Ora de vară în zona Atlantic nord-americană
-  },
-  America/Port_of_Spain: {
+  America/St_Thomas: {
     Generic: Ora zonei Atlantic nord-americane,
     Standard: Ora standard în zona Atlantic nord-americană,
     Daylight: Ora de vară în zona Atlantic nord-americană
@@ -1539,655 +1039,155 @@
     Standard: Ora standard în zona Atlantic nord-americană,
     Daylight: Ora de vară în zona Atlantic nord-americană
   },
+  America/Swift_Current: {
+    Generic: Ora centrală nord-americană,
+    Standard: Ora standard centrală nord-americană,
+    Daylight: Ora de vară centrală nord-americană
+  },
+  America/Tegucigalpa: {
+    Generic: Ora centrală nord-americană,
+    Standard: Ora standard centrală nord-americană,
+    Daylight: Ora de vară centrală nord-americană
+  },
+  America/Thule: {
+    Generic: Ora zonei Atlantic nord-americane,
+    Standard: Ora standard în zona Atlantic nord-americană,
+    Daylight: Ora de vară în zona Atlantic nord-americană
+  },
+  America/Thunder_Bay: {
+    Generic: Ora orientală nord-americană,
+    Standard: Ora standard orientală nord-americană,
+    Daylight: Ora de vară orientală nord-americană
+  },
+  America/Tijuana: {
+    Generic: Ora zonei Pacific nord-americane,
+    Standard: Ora standard în zona Pacific nord-americană,
+    Daylight: Ora de vară în zona Pacific nord-americană
+  },
+  America/Toronto: {
+    Generic: Ora orientală nord-americană,
+    Standard: Ora standard orientală nord-americană,
+    Daylight: Ora de vară orientală nord-americană
+  },
   America/Tortola: {
     Generic: Ora zonei Atlantic nord-americane,
     Standard: Ora standard în zona Atlantic nord-americană,
     Daylight: Ora de vară în zona Atlantic nord-americană
   },
-  America/St_Thomas: {
+  America/Vancouver: {
+    Generic: Ora zonei Pacific nord-americane,
+    Standard: Ora standard în zona Pacific nord-americană,
+    Daylight: Ora de vară în zona Pacific nord-americană
+  },
+  America/Virgin: {
     Generic: Ora zonei Atlantic nord-americane,
     Standard: Ora standard în zona Atlantic nord-americană,
     Daylight: Ora de vară în zona Atlantic nord-americană
   },
-  Etc/GMT+4: {
-    Generic: Timpul universal coordonat -4,
-    Standard: Timpul universal coordonat -4,
-    Daylight: Timpul universal coordonat -4
+  America/Whitehorse: {
+    Generic: Ora din Yukon,
+    Standard: Ora din Yukon,
+    Daylight: Ora din Yukon
   },
-  Asia/Bangkok: {
-    Generic: Ora Indochinei,
-    Standard: Ora Indochinei,
-    Daylight: Ora Indochinei
+  America/Winnipeg: {
+    Generic: Ora centrală nord-americană,
+    Standard: Ora standard centrală nord-americană,
+    Daylight: Ora de vară centrală nord-americană
+  },
+  America/Yakutat: {
+    Generic: Ora din Alaska,
+    Standard: Ora standard din Alaska,
+    Daylight: Ora de vară din Alaska
+  },
+  America/Yellowknife: {
+    Generic: Ora zonei montane nord-americane,
+    Standard: Ora standard în zona montană nord-americană,
+    Daylight: Ora de vară în zona montană nord-americană
+  },
+  Antarctica/Casey: {
+    Generic: Ora din Antarctica,
+    Standard: Ora standard din Antarctica,
+    Daylight: Ora de vară din Antarctica
   },
   Antarctica/Davis: {
     Generic: Ora din Davis,
     Standard: Ora din Davis,
     Daylight: Ora din Davis
   },
-  Indian/Christmas: {
-    Generic: Ora din Insula Christmas,
-    Standard: Ora din Insula Christmas,
-    Daylight: Ora din Insula Christmas
-  },
-  Asia/Jakarta: {
-    Generic: Ora Indoneziei de Vest,
-    Standard: Ora Indoneziei de Vest,
-    Daylight: Ora Indoneziei de Vest
-  },
-  Asia/Pontianak: {
-    Generic: Ora Indoneziei de Vest,
-    Standard: Ora Indoneziei de Vest,
-    Daylight: Ora Indoneziei de Vest
-  },
-  Asia/Phnom_Penh: {
-    Generic: Ora Indochinei,
-    Standard: Ora Indochinei,
-    Daylight: Ora Indochinei
-  },
-  Asia/Vientiane: {
-    Generic: Ora Indochinei,
-    Standard: Ora Indochinei,
-    Daylight: Ora Indochinei
-  },
-  Asia/Saigon: {
-    Generic: Ora Indochinei,
-    Standard: Ora Indochinei,
-    Daylight: Ora Indochinei
-  },
-  Etc/GMT-7: {
-    Generic: Timpul universal coordonat +7,
-    Standard: Timpul universal coordonat +7,
-    Daylight: Timpul universal coordonat +7
-  },
-  America/Miquelon: {
-    Generic: Ora din Saint-Pierre și Miquelon,
-    Standard: Ora standard din Saint-Pierre și Miquelon,
-    Daylight: Ora de vară din Saint-Pierre și Miquelon
-  },
-  Asia/Sakhalin: {
-    Generic: Ora din Sahalin,
-    Standard: Ora standard din Sahalin,
-    Daylight: Ora de vară din Sahalin
-  },
-  Pacific/Apia: {
-    Generic: Ora din Apia,
-    Standard: Ora standard din Apia,
-    Daylight: Ora de vară din Apia
-  },
-  Africa/Sao_Tome: {
-    Generic: Ora de Greenwhich,
-    Standard: Ora de Greenwhich,
-    Daylight: Ora de Greenwhich
-  },
-  Europe/Saratov: {
-    Generic: Ora din Saratov,
-    Standard: Ora standard din Saratov,
-    Daylight: Ora de vară din Saratov
-  },
-  Asia/Singapore: {
-    Generic: Ora din Singapore,
-    Standard: Ora din Singapore,
-    Daylight: Ora din Singapore
-  },
-  Asia/Brunei: {
-    Generic: Ora din Brunei Darussalam,
-    Standard: Ora din Brunei Darussalam,
-    Daylight: Ora din Brunei Darussalam
-  },
-  Asia/Makassar: {
-    Generic: Ora Indoneziei Centrale,
-    Standard: Ora Indoneziei Centrale,
-    Daylight: Ora Indoneziei Centrale
-  },
-  Asia/Kuala_Lumpur: {
-    Generic: Ora din Malaysia,
-    Standard: Ora din Malaysia,
-    Daylight: Ora din Malaysia
-  },
-  Asia/Kuching: {
-    Generic: Ora din Malaysia,
-    Standard: Ora din Malaysia,
-    Daylight: Ora din Malaysia
-  },
-  Asia/Manila: {
-    Generic: Ora din Filipine,
-    Standard: Ora standard din Filipine,
-    Daylight: Ora de vară din Filipine
-  },
-  Etc/GMT-8: {
-    Generic: Timpul universal coordonat +8,
-    Standard: Timpul universal coordonat +8,
-    Daylight: Timpul universal coordonat +8
-  },
-  Africa/Johannesburg: {
-    Generic: Ora Africii Meridionale,
-    Standard: Ora Africii Meridionale,
-    Daylight: Ora Africii Meridionale
-  },
-  Africa/Bujumbura: {
-    Generic: Ora Africii Centrale,
-    Standard: Ora Africii Centrale,
-    Daylight: Ora Africii Centrale
-  },
-  Africa/Gaborone: {
-    Generic: Ora Africii Centrale,
-    Standard: Ora Africii Centrale,
-    Daylight: Ora Africii Centrale
-  },
-  Africa/Lubumbashi: {
-    Generic: Ora Africii Centrale,
-    Standard: Ora Africii Centrale,
-    Daylight: Ora Africii Centrale
-  },
-  Africa/Maseru: {
-    Generic: Ora Africii Meridionale,
-    Standard: Ora Africii Meridionale,
-    Daylight: Ora Africii Meridionale
-  },
-  Africa/Blantyre: {
-    Generic: Ora Africii Centrale,
-    Standard: Ora Africii Centrale,
-    Daylight: Ora Africii Centrale
-  },
-  Africa/Maputo: {
-    Generic: Ora Africii Centrale,
-    Standard: Ora Africii Centrale,
-    Daylight: Ora Africii Centrale
-  },
-  Africa/Kigali: {
-    Generic: Ora Africii Centrale,
-    Standard: Ora Africii Centrale,
-    Daylight: Ora Africii Centrale
-  },
-  Africa/Mbabane: {
-    Generic: Ora Africii Meridionale,
-    Standard: Ora Africii Meridionale,
-    Daylight: Ora Africii Meridionale
-  },
-  Africa/Lusaka: {
-    Generic: Ora Africii Centrale,
-    Standard: Ora Africii Centrale,
-    Daylight: Ora Africii Centrale
-  },
-  Africa/Harare: {
-    Generic: Ora Africii Centrale,
-    Standard: Ora Africii Centrale,
-    Daylight: Ora Africii Centrale
-  },
-  Etc/GMT-2: {
-    Generic: Timpul universal coordonat +2,
-    Standard: Timpul universal coordonat +2,
-    Daylight: Timpul universal coordonat +2
-  },
-  Africa/Juba: {
-    Generic: Ora Africii Centrale,
-    Standard: Ora Africii Centrale,
-    Daylight: Ora Africii Centrale
-  },
-  Asia/Colombo: {
-    Generic: Ora Indiei,
-    Standard: Ora Indiei,
-    Daylight: Ora Indiei
-  },
-  Africa/Khartoum: {
-    Generic: Ora Africii Centrale,
-    Standard: Ora Africii Centrale,
-    Daylight: Ora Africii Centrale
-  },
-  Asia/Damascus: {
-    Generic: Ora Europei de Est,
-    Standard: Ora standard a Europei de Est,
-    Daylight: Ora de vară a Europei de Est
-  },
-  Asia/Taipei: {
-    Generic: Ora din Taipei,
-    Standard: Ora standard din Taipei,
-    Daylight: Ora de vară din Taipei
-  },
-  Australia/Hobart: {
-    Generic: Ora Australiei Orientale,
-    Standard: Ora standard a Australiei Orientale,
-    Daylight: Ora de vară a Australiei Orientale
-  },
-  Australia/Currie: {
-    Generic: Ora Australiei Orientale,
-    Standard: Ora standard a Australiei Orientale,
-    Daylight: Ora de vară a Australiei Orientale
+  Antarctica/DumontDUrville: {
+    Generic: Ora din Dumont-d’Urville,
+    Standard: Ora din Dumont-d’Urville,
+    Daylight: Ora din Dumont-d’Urville
   },
   Antarctica/Macquarie: {
     Generic: Ora Australiei Orientale,
     Standard: Ora standard a Australiei Orientale,
     Daylight: Ora de vară a Australiei Orientale
   },
-  America/Araguaina: {
-    Generic: Ora Brasiliei,
-    Standard: Ora standard a Brasiliei,
-    Daylight: Ora de vară a Brasiliei
+  Antarctica/Mawson: {
+    Generic: Ora din Mawson,
+    Standard: Ora din Mawson,
+    Daylight: Ora din Mawson
   },
-  Asia/Tokyo: {
-    Generic: Ora Japoniei,
-    Standard: Ora standard a Japoniei,
-    Daylight: Ora de vară a Japoniei
+  Antarctica/McMurdo: {
+    Generic: Ora Noii Zeelande,
+    Standard: Ora standard a Noii Zeelande,
+    Daylight: Ora de vară a Noii Zeelande
   },
-  Asia/Jayapura: {
-    Generic: Ora Indoneziei de Est,
-    Standard: Ora Indoneziei de Est,
-    Daylight: Ora Indoneziei de Est
+  Antarctica/Palmer: {
+    Generic: Ora din Chile,
+    Standard: Ora standard din Chile,
+    Daylight: Ora de vară din Chile
   },
-  Pacific/Palau: {
-    Generic: Ora din Palau,
-    Standard: Ora din Palau,
-    Daylight: Ora din Palau
+  Antarctica/Rothera: {
+    Generic: Ora din Rothera,
+    Standard: Ora din Rothera,
+    Daylight: Ora din Rothera
   },
-  Asia/Dili: {
-    Generic: Ora Timorului de Est,
-    Standard: Ora Timorului de Est,
-    Daylight: Ora Timorului de Est
+  Antarctica/South_Pole: {
+    Generic: Ora Noii Zeelande,
+    Standard: Ora standard a Noii Zeelande,
+    Daylight: Ora de vară a Noii Zeelande
   },
-  Etc/GMT-9: {
-    Generic: Timpul universal coordonat +9,
-    Standard: Timpul universal coordonat +9,
-    Daylight: Timpul universal coordonat +9
+  Antarctica/Syowa: {
+    Generic: Ora din Syowa,
+    Standard: Ora din Syowa,
+    Daylight: Ora din Syowa
   },
-  Asia/Tomsk: {
-    Generic: Ora din Tomsk,
-    Standard: Ora standard din Tomsk,
-    Daylight: Ora de vară din Tomsk
-  },
-  Pacific/Tongatapu: {
-    Generic: Ora din Tonga,
-    Standard: Ora standard din Tonga,
-    Daylight: Ora de vară din Tonga
-  },
-  Asia/Chita: {
-    Generic: Ora din Cita,
-    Standard: Ora standard din Cita,
-    Daylight: Ora de vară din Cita
-  },
-  Europe/Istanbul: {
-    Generic: Ora din Turcia,
-    Standard: Ora standard din Turcia,
-    Daylight: Ora de vară din Turcia
-  },
-  America/Grand_Turk: {
-    Generic: Ora orientală nord-americană,
-    Standard: Ora standard orientală nord-americană,
-    Daylight: Ora de vară orientală nord-americană
-  },
-  America/Indianapolis: {
-    Generic: Ora orientală nord-americană,
-    Standard: Ora standard orientală nord-americană,
-    Daylight: Ora de vară orientală nord-americană
-  },
-  America/Indiana/Marengo: {
-    Generic: Ora orientală nord-americană,
-    Standard: Ora standard orientală nord-americană,
-    Daylight: Ora de vară orientală nord-americană
-  },
-  America/Indiana/Vevay: {
-    Generic: Ora orientală nord-americană,
-    Standard: Ora standard orientală nord-americană,
-    Daylight: Ora de vară orientală nord-americană
-  },
-  America/Phoenix: {
-    Generic: Ora zonei montane nord-americane,
-    Standard: Ora standard în zona montană nord-americană,
-    Daylight: Ora de vară în zona montană nord-americană
-  },
-  America/Creston: {
-    Generic: Ora zonei montane nord-americane,
-    Standard: Ora standard în zona montană nord-americană,
-    Daylight: Ora de vară în zona montană nord-americană
-  },
-  America/Dawson_Creek: {
-    Generic: Ora zonei montane nord-americane,
-    Standard: Ora standard în zona montană nord-americană,
-    Daylight: Ora de vară în zona montană nord-americană
-  },
-  America/Fort_Nelson: {
-    Generic: Ora zonei montane nord-americane,
-    Standard: Ora standard în zona montană nord-americană,
-    Daylight: Ora de vară în zona montană nord-americană
-  },
-  America/Hermosillo: {
-    Generic: Ora zonei Pacific mexicane,
-    Standard: Ora standard a zonei Pacific mexicane,
-    Daylight: Ora de vară a zonei Pacific mexicane
-  },
-  Etc/GMT+7: {
-    Generic: Timpul universal coordonat -7,
-    Standard: Timpul universal coordonat -7,
-    Daylight: Timpul universal coordonat -7
-  },
-  Etc/GMT-12: {
-    Generic: Timpul universal coordonat +12,
-    Standard: Timpul universal coordonat +12,
-    Daylight: Timpul universal coordonat +12
-  },
-  Pacific/Tarawa: {
-    Generic: Ora Insulelor Gilbert,
-    Standard: Ora Insulelor Gilbert,
-    Daylight: Ora Insulelor Gilbert
-  },
-  Pacific/Majuro: {
-    Generic: Ora Insulelor Marshall,
-    Standard: Ora Insulelor Marshall,
-    Daylight: Ora Insulelor Marshall
-  },
-  Pacific/Kwajalein: {
-    Generic: Ora Insulelor Marshall,
-    Standard: Ora Insulelor Marshall,
-    Daylight: Ora Insulelor Marshall
-  },
-  Pacific/Nauru: {
-    Generic: Ora din Nauru,
-    Standard: Ora din Nauru,
-    Daylight: Ora din Nauru
-  },
-  Pacific/Funafuti: {
-    Generic: Ora din Tuvalu,
-    Standard: Ora din Tuvalu,
-    Daylight: Ora din Tuvalu
-  },
-  Pacific/Wake: {
-    Generic: Ora Insulei Wake,
-    Standard: Ora Insulei Wake,
-    Daylight: Ora Insulei Wake
-  },
-  Pacific/Wallis: {
-    Generic: Ora din Wallis și Futuna,
-    Standard: Ora din Wallis și Futuna,
-    Daylight: Ora din Wallis și Futuna
-  },
-  Etc/GMT-13: {
-    Generic: Timpul universal coordonat +13,
-    Standard: Timpul universal coordonat +13,
-    Daylight: Timpul universal coordonat +13
-  },
-  Pacific/Enderbury: {
-    Generic: Ora Insulelor Phoenix,
-    Standard: Ora Insulelor Phoenix,
-    Daylight: Ora Insulelor Phoenix
-  },
-  Pacific/Fakaofo: {
-    Generic: Ora din Tokelau,
-    Standard: Ora din Tokelau,
-    Daylight: Ora din Tokelau
-  },
-  Etc/UTC: {
-    Generic: Timpul universal coordonat,
-    Standard: Timpul universal coordonat,
-    Daylight: Timpul universal coordonat
-  },
-  Etc/GMT: {
+  Antarctica/Troll: {
     Generic: Ora de Greenwhich,
     Standard: Ora de Greenwhich,
     Daylight: Ora de Greenwhich
   },
-  Etc/GMT+2: {
-    Generic: Timpul universal coordonat -2,
-    Standard: Timpul universal coordonat -2,
-    Daylight: Timpul universal coordonat -2
-  },
-  America/Noronha: {
-    Generic: Ora din Fernando de Noronha,
-    Standard: Ora standard din Fernando de Noronha,
-    Daylight: Ora de vară din Fernando de Noronha
-  },
-  Atlantic/South_Georgia: {
-    Generic: Ora Georgiei de Sud,
-    Standard: Ora Georgiei de Sud,
-    Daylight: Ora Georgiei de Sud
-  },
-  Etc/GMT+8: {
-    Generic: Timpul universal coordonat -8,
-    Standard: Timpul universal coordonat -8,
-    Daylight: Timpul universal coordonat -8
-  },
-  Pacific/Pitcairn: {
-    Generic: Ora din Pitcairn,
-    Standard: Ora din Pitcairn,
-    Daylight: Ora din Pitcairn
-  },
-  Etc/GMT+9: {
-    Generic: Timpul universal coordonat -9,
-    Standard: Timpul universal coordonat -9,
-    Daylight: Timpul universal coordonat -9
-  },
-  Pacific/Gambier: {
-    Generic: Ora din Gambier,
-    Standard: Ora din Gambier,
-    Daylight: Ora din Gambier
-  },
-  Etc/GMT+11: {
-    Generic: Timpul universal coordonat -11,
-    Standard: Timpul universal coordonat -11,
-    Daylight: Timpul universal coordonat -11
-  },
-  Pacific/Pago_Pago: {
-    Generic: Ora din Samoa,
-    Standard: Ora standard din Samoa,
-    Daylight: Ora de vară din Samoa
-  },
-  Pacific/Niue: {
-    Generic: Ora din Niue,
-    Standard: Ora din Niue,
-    Daylight: Ora din Niue
-  },
-  Pacific/Midway: {
-    Generic: Ora din Samoa,
-    Standard: Ora standard din Samoa,
-    Daylight: Ora de vară din Samoa
-  },
-  Asia/Ulaanbaatar: {
-    Generic: Ora din Ulan Bator,
-    Standard: Ora standard din Ulan Bator,
-    Daylight: Ora de vară din Ulan Bator
-  },
-  Asia/Choibalsan: {
-    Generic: Ora din Ulan Bator,
-    Standard: Ora standard din Ulan Bator,
-    Daylight: Ora de vară din Ulan Bator
-  },
-  America/Caracas: {
-    Generic: Ora Venezuelei,
-    Standard: Ora Venezuelei,
-    Daylight: Ora Venezuelei
-  },
-  Asia/Vladivostok: {
-    Generic: Ora din Vladivostok,
-    Standard: Ora standard din Vladivostok,
-    Daylight: Ora de vară din Vladivostok
-  },
-  Asia/Ust-Nera: {
-    Generic: Ora din Ust-Nera,
-    Standard: Ora standard din Ust-Nera,
-    Daylight: Ora de vară din Ust-Nera
-  },
-  Europe/Volgograd: {
-    Generic: Ora din Volgograd,
-    Standard: Ora standard din Volgograd,
-    Daylight: Ora de vară din Volgograd
-  },
-  Australia/Perth: {
-    Generic: Ora Australiei Occidentale,
-    Standard: Ora standard a Australiei Occidentale,
-    Daylight: Ora de vară a Australiei Occidentale
-  },
-  Africa/Lagos: {
-    Generic: Ora Africii Occidentale,
-    Standard: Ora standard a Africii Occidentale,
-    Daylight: Ora de vară a Africii Occidentale
-  },
-  Africa/Luanda: {
-    Generic: Ora Africii Occidentale,
-    Standard: Ora standard a Africii Occidentale,
-    Daylight: Ora de vară a Africii Occidentale
-  },
-  Africa/Porto-Novo: {
-    Generic: Ora Africii Occidentale,
-    Standard: Ora standard a Africii Occidentale,
-    Daylight: Ora de vară a Africii Occidentale
-  },
-  Africa/Kinshasa: {
-    Generic: Ora Africii Occidentale,
-    Standard: Ora standard a Africii Occidentale,
-    Daylight: Ora de vară a Africii Occidentale
-  },
-  Africa/Bangui: {
-    Generic: Ora Africii Occidentale,
-    Standard: Ora standard a Africii Occidentale,
-    Daylight: Ora de vară a Africii Occidentale
-  },
-  Africa/Brazzaville: {
-    Generic: Ora Africii Occidentale,
-    Standard: Ora standard a Africii Occidentale,
-    Daylight: Ora de vară a Africii Occidentale
-  },
-  Africa/Douala: {
-    Generic: Ora Africii Occidentale,
-    Standard: Ora standard a Africii Occidentale,
-    Daylight: Ora de vară a Africii Occidentale
-  },
-  Africa/Algiers: {
-    Generic: Ora Europei Centrale,
-    Standard: Ora standard a Europei Centrale,
-    Daylight: Ora de vară a Europei Centrale
-  },
-  Africa/Libreville: {
-    Generic: Ora Africii Occidentale,
-    Standard: Ora standard a Africii Occidentale,
-    Daylight: Ora de vară a Africii Occidentale
-  },
-  Africa/Malabo: {
-    Generic: Ora Africii Occidentale,
-    Standard: Ora standard a Africii Occidentale,
-    Daylight: Ora de vară a Africii Occidentale
-  },
-  Africa/Niamey: {
-    Generic: Ora Africii Occidentale,
-    Standard: Ora standard a Africii Occidentale,
-    Daylight: Ora de vară a Africii Occidentale
-  },
-  Africa/Ndjamena: {
-    Generic: Ora Africii Occidentale,
-    Standard: Ora standard a Africii Occidentale,
-    Daylight: Ora de vară a Africii Occidentale
-  },
-  Africa/Tunis: {
-    Generic: Ora Europei Centrale,
-    Standard: Ora standard a Europei Centrale,
-    Daylight: Ora de vară a Europei Centrale
-  },
-  Etc/GMT-1: {
-    Generic: Timpul universal coordonat +1,
-    Standard: Timpul universal coordonat +1,
-    Daylight: Timpul universal coordonat +1
-  },
-  Europe/Berlin: {
-    Generic: Ora Europei Centrale,
-    Standard: Ora standard a Europei Centrale,
-    Daylight: Ora de vară a Europei Centrale
-  },
-  Europe/Andorra: {
-    Generic: Ora Europei Centrale,
-    Standard: Ora standard a Europei Centrale,
-    Daylight: Ora de vară a Europei Centrale
-  },
-  Europe/Vienna: {
-    Generic: Ora Europei Centrale,
-    Standard: Ora standard a Europei Centrale,
-    Daylight: Ora de vară a Europei Centrale
-  },
-  Europe/Zurich: {
-    Generic: Ora Europei Centrale,
-    Standard: Ora standard a Europei Centrale,
-    Daylight: Ora de vară a Europei Centrale
-  },
-  Europe/Busingen: {
-    Generic: Ora Europei Centrale,
-    Standard: Ora standard a Europei Centrale,
-    Daylight: Ora de vară a Europei Centrale
-  },
-  Europe/Gibraltar: {
-    Generic: Ora Europei Centrale,
-    Standard: Ora standard a Europei Centrale,
-    Daylight: Ora de vară a Europei Centrale
-  },
-  Europe/Rome: {
-    Generic: Ora Europei Centrale,
-    Standard: Ora standard a Europei Centrale,
-    Daylight: Ora de vară a Europei Centrale
-  },
-  Europe/Vaduz: {
-    Generic: Ora Europei Centrale,
-    Standard: Ora standard a Europei Centrale,
-    Daylight: Ora de vară a Europei Centrale
-  },
-  Europe/Luxembourg: {
-    Generic: Ora Europei Centrale,
-    Standard: Ora standard a Europei Centrale,
-    Daylight: Ora de vară a Europei Centrale
-  },
-  Europe/Monaco: {
-    Generic: Ora Europei Centrale,
-    Standard: Ora standard a Europei Centrale,
-    Daylight: Ora de vară a Europei Centrale
-  },
-  Europe/Malta: {
-    Generic: Ora Europei Centrale,
-    Standard: Ora standard a Europei Centrale,
-    Daylight: Ora de vară a Europei Centrale
-  },
-  Europe/Amsterdam: {
-    Generic: Ora Europei Centrale,
-    Standard: Ora standard a Europei Centrale,
-    Daylight: Ora de vară a Europei Centrale
-  },
-  Europe/Oslo: {
-    Generic: Ora Europei Centrale,
-    Standard: Ora standard a Europei Centrale,
-    Daylight: Ora de vară a Europei Centrale
-  },
-  Europe/Stockholm: {
-    Generic: Ora Europei Centrale,
-    Standard: Ora standard a Europei Centrale,
-    Daylight: Ora de vară a Europei Centrale
+  Antarctica/Vostok: {
+    Generic: Ora din Vostok,
+    Standard: Ora din Vostok,
+    Daylight: Ora din Vostok
   },
   Arctic/Longyearbyen: {
     Generic: Ora Europei Centrale,
     Standard: Ora standard a Europei Centrale,
     Daylight: Ora de vară a Europei Centrale
   },
-  Europe/San_Marino: {
-    Generic: Ora Europei Centrale,
-    Standard: Ora standard a Europei Centrale,
-    Daylight: Ora de vară a Europei Centrale
+  Asia/Aden: {
+    Generic: Ora arabă,
+    Standard: Ora standard arabă,
+    Daylight: Ora de vară arabă
   },
-  Europe/Vatican: {
-    Generic: Ora Europei Centrale,
-    Standard: Ora standard a Europei Centrale,
-    Daylight: Ora de vară a Europei Centrale
+  Asia/Almaty: {
+    Generic: Ora din Kazahstanul de Est,
+    Standard: Ora din Kazahstanul de Est,
+    Daylight: Ora din Kazahstanul de Est
   },
-  Asia/Hovd: {
-    Generic: Ora din Hovd,
-    Standard: Ora standard din Hovd,
-    Daylight: Ora de vară din Hovd
+  Asia/Amman: {
+    Generic: Ora Europei de Est,
+    Standard: Ora standard a Europei de Est,
+    Daylight: Ora de vară a Europei de Est
   },
-  Asia/Tashkent: {
-    Generic: Ora din Uzbekistan,
-    Standard: Ora standard din Uzbekistan,
-    Daylight: Ora de vară din Uzbekistan
-  },
-  Antarctica/Mawson: {
-    Generic: Ora din Mawson,
-    Standard: Ora din Mawson,
-    Daylight: Ora din Mawson
-  },
-  Asia/Oral: {
-    Generic: Ora din Kazahstanul de Vest,
-    Standard: Ora din Kazahstanul de Vest,
-    Daylight: Ora din Kazahstanul de Vest
+  Asia/Anadyr: {
+    Generic: Ora din Anadir,
+    Standard: Ora standard din Anadir,
+    Daylight: Ora de vară din Anadir
   },
   Asia/Aqtau: {
     Generic: Ora din Kazahstanul de Vest,
@@ -2199,415 +1199,75 @@
     Standard: Ora din Kazahstanul de Vest,
     Daylight: Ora din Kazahstanul de Vest
   },
-  Asia/Atyrau: {
-    Generic: Ora din Kazahstanul de Vest,
-    Standard: Ora din Kazahstanul de Vest,
-    Daylight: Ora din Kazahstanul de Vest
-  },
-  Indian/Maldives: {
-    Generic: Ora din Maldive,
-    Standard: Ora din Maldive,
-    Daylight: Ora din Maldive
-  },
-  Indian/Kerguelen: {
-    Generic: Ora din Teritoriile Australe și Antarctice Franceze,
-    Standard: Ora din Teritoriile Australe și Antarctice Franceze,
-    Daylight: Ora din Teritoriile Australe și Antarctice Franceze
-  },
-  Asia/Dushanbe: {
-    Generic: Ora din Tadjikistan,
-    Standard: Ora din Tadjikistan,
-    Daylight: Ora din Tadjikistan
-  },
   Asia/Ashgabat: {
     Generic: Ora din Turkmenistan,
     Standard: Ora standard din Turkmenistan,
     Daylight: Ora de vară din Turkmenistan
-  },
-  Asia/Samarkand: {
-    Generic: Ora din Uzbekistan,
-    Standard: Ora standard din Uzbekistan,
-    Daylight: Ora de vară din Uzbekistan
-  },
-  Etc/GMT-5: {
-    Generic: Timpul universal coordonat +5,
-    Standard: Timpul universal coordonat +5,
-    Daylight: Timpul universal coordonat +5
-  },
-  Asia/Hebron: {
-    Generic: Ora Europei de Est,
-    Standard: Ora standard a Europei de Est,
-    Daylight: Ora de vară a Europei de Est
-  },
-  Asia/Gaza: {
-    Generic: Ora Europei de Est,
-    Standard: Ora standard a Europei de Est,
-    Daylight: Ora de vară a Europei de Est
-  },
-  Pacific/Port_Moresby: {
-    Generic: Ora din Papua Noua Guinee,
-    Standard: Ora din Papua Noua Guinee,
-    Daylight: Ora din Papua Noua Guinee
-  },
-  Antarctica/DumontDUrville: {
-    Generic: Ora din Dumont-d’Urville,
-    Standard: Ora din Dumont-d’Urville,
-    Daylight: Ora din Dumont-d’Urville
-  },
-  Pacific/Truk: {
-    Generic: Ora din Chuuk,
-    Standard: Ora din Chuuk,
-    Daylight: Ora din Chuuk
-  },
-  Pacific/Guam: {
-    Generic: Ora din Chamorro,
-    Standard: Ora din Chamorro,
-    Daylight: Ora din Chamorro
-  },
-  Pacific/Saipan: {
-    Generic: Ora din Chamorro,
-    Standard: Ora din Chamorro,
-    Daylight: Ora din Chamorro
-  },
-  Etc/GMT-10: {
-    Generic: Timpul universal coordonat +10,
-    Standard: Timpul universal coordonat +10,
-    Daylight: Timpul universal coordonat +10
-  },
-  Asia/Yakutsk: {
-    Generic: Ora din Iakuțk,
-    Standard: Ora standard din Iakuțk,
-    Daylight: Ora de vară din Iakuțk
-  },
-  Asia/Khandyga: {
-    Generic: Ora din Khandyga,
-    Standard: Ora standard din Khandyga,
-    Daylight: Ora de vară din Khandyga
-  },
-  America/Whitehorse: {
-    Generic: Ora din Yukon,
-    Standard: Ora din Yukon,
-    Daylight: Ora din Yukon
-  },
-  America/Dawson: {
-    Generic: Ora din Yukon,
-    Standard: Ora din Yukon,
-    Daylight: Ora din Yukon
-  },
-  Iceland: {
-    Generic: Ora de Greenwhich,
-    Standard: Ora de Greenwhich,
-    Daylight: Ora de Greenwhich
-  },
-  Africa/Timbuktu: {
-    Generic: Ora de Greenwhich,
-    Standard: Ora de Greenwhich,
-    Daylight: Ora de Greenwhich
-  },
-  Egypt: {
-    Generic: Ora Europei de Est,
-    Standard: Ora standard a Europei de Est,
-    Daylight: Ora de vară a Europei de Est
-  },
-  Africa/Asmara: {
-    Generic: Ora Africii Orientale,
-    Standard: Ora Africii Orientale,
-    Daylight: Ora Africii Orientale
-  },
-  Libya: {
-    Generic: Ora Europei de Est,
-    Standard: Ora standard a Europei de Est,
-    Daylight: Ora de vară a Europei de Est
-  },
-  America/Atka: {
-    Generic: Ora din Hawaii-Aleutine,
-    Standard: Ora standard din Hawaii-Aleutine,
-    Daylight: Ora de vară din Hawaii-Aleutine
-  },
-  US/Aleutian: {
-    Generic: Ora din Hawaii-Aleutine,
-    Standard: Ora standard din Hawaii-Aleutine,
-    Daylight: Ora de vară din Hawaii-Aleutine
-  },
-  US/Alaska: {
-    Generic: Ora din Alaska,
-    Standard: Ora standard din Alaska,
-    Daylight: Ora de vară din Alaska
-  },
-  America/Argentina/Buenos_Aires: {
-    Generic: Ora Argentinei,
-    Standard: Ora standard a Argentinei,
-    Daylight: Ora de vară a Argentinei
-  },
-  America/Argentina/Catamarca: {
-    Generic: Ora Argentinei,
-    Standard: Ora standard a Argentinei,
-    Daylight: Ora de vară a Argentinei
-  },
-  America/Argentina/ComodRivadavia: {
-    Generic: Ora Argentinei,
-    Standard: Ora standard a Argentinei,
-    Daylight: Ora de vară a Argentinei
-  },
-  America/Argentina/Cordoba: {
-    Generic: Ora Argentinei,
-    Standard: Ora standard a Argentinei,
-    Daylight: Ora de vară a Argentinei
-  },
-  America/Rosario: {
-    Generic: Ora Argentinei,
-    Standard: Ora standard a Argentinei,
-    Daylight: Ora de vară a Argentinei
-  },
-  America/Argentina/Jujuy: {
-    Generic: Ora Argentinei,
-    Standard: Ora standard a Argentinei,
-    Daylight: Ora de vară a Argentinei
-  },
-  America/Argentina/Mendoza: {
-    Generic: Ora Argentinei,
-    Standard: Ora standard a Argentinei,
-    Daylight: Ora de vară a Argentinei
-  },
-  US/Central: {
-    Generic: Ora centrală nord-americană,
-    Standard: Ora standard centrală nord-americană,
-    Daylight: Ora de vară centrală nord-americană
-  },
-  America/Shiprock: {
-    Generic: Ora zonei montane nord-americane,
-    Standard: Ora standard în zona montană nord-americană,
-    Daylight: Ora de vară în zona montană nord-americană
-  },
-  Navajo: {
-    Generic: Ora zonei montane nord-americane,
-    Standard: Ora standard în zona montană nord-americană,
-    Daylight: Ora de vară în zona montană nord-americană
-  },
-  US/Mountain: {
-    Generic: Ora zonei montane nord-americane,
-    Standard: Ora standard în zona montană nord-americană,
-    Daylight: Ora de vară în zona montană nord-americană
-  },
-  US/Michigan: {
-    Generic: Ora orientală nord-americană,
-    Standard: Ora standard orientală nord-americană,
-    Daylight: Ora de vară orientală nord-americană
-  },
-  Canada/Mountain: {
-    Generic: Ora zonei montane nord-americane,
-    Standard: Ora standard în zona montană nord-americană,
-    Daylight: Ora de vară în zona montană nord-americană
-  },
-  Canada/Atlantic: {
-    Generic: Ora zonei Atlantic nord-americane,
-    Standard: Ora standard în zona Atlantic nord-americană,
-    Daylight: Ora de vară în zona Atlantic nord-americană
-  },
-  Cuba: {
-    Generic: Ora Cubei,
-    Standard: Ora standard a Cubei,
-    Daylight: Ora de vară a Cubei
-  },
-  America/Indiana/Indianapolis: {
-    Generic: Ora orientală nord-americană,
-    Standard: Ora standard orientală nord-americană,
-    Daylight: Ora de vară orientală nord-americană
-  },
-  US/East-Indiana: {
-    Generic: Ora orientală nord-americană,
-    Standard: Ora standard orientală nord-americană,
-    Daylight: Ora de vară orientală nord-americană
-  },
-  America/Knox_IN: {
-    Generic: Ora centrală nord-americană,
-    Standard: Ora standard centrală nord-americană,
-    Daylight: Ora de vară centrală nord-americană
-  },
-  US/Indiana-Starke: {
-    Generic: Ora centrală nord-americană,
-    Standard: Ora standard centrală nord-americană,
-    Daylight: Ora de vară centrală nord-americană
-  },
-  Jamaica: {
-    Generic: Ora orientală nord-americană,
-    Standard: Ora standard orientală nord-americană,
-    Daylight: Ora de vară orientală nord-americană
-  },
-  America/Kentucky/Louisville: {
-    Generic: Ora orientală nord-americană,
-    Standard: Ora standard orientală nord-americană,
-    Daylight: Ora de vară orientală nord-americană
-  },
-  US/Pacific: {
-    Generic: Ora zonei Pacific nord-americane,
-    Standard: Ora standard în zona Pacific nord-americană,
-    Daylight: Ora de vară în zona Pacific nord-americană
-  },
-  Brazil/West: {
-    Generic: Ora Amazonului,
-    Standard: Ora standard a Amazonului,
-    Daylight: Ora de vară a Amazonului
-  },
-  Mexico/BajaSur: {
-    Generic: Ora zonei Pacific mexicane,
-    Standard: Ora standard a zonei Pacific mexicane,
-    Daylight: Ora de vară a zonei Pacific mexicane
-  },
-  Mexico/General: {
-    Generic: Ora centrală nord-americană,
-    Standard: Ora standard centrală nord-americană,
-    Daylight: Ora de vară centrală nord-americană
-  },
-  US/Eastern: {
-    Generic: Ora orientală nord-americană,
-    Standard: Ora standard orientală nord-americană,
-    Daylight: Ora de vară orientală nord-americană
-  },
-  Brazil/DeNoronha: {
-    Generic: Ora din Fernando de Noronha,
-    Standard: Ora standard din Fernando de Noronha,
-    Daylight: Ora de vară din Fernando de Noronha
-  },
-  America/Nuuk: {
-    Generic: Ora Groenlandei occidentale,
-    Standard: Ora standard a Groenlandei occidentale,
-    Daylight: Ora de vară a Groenlandei occidentale
-  },
-  America/Atikokan: {
-    Generic: Ora orientală nord-americană,
-    Standard: Ora standard orientală nord-americană,
-    Daylight: Ora de vară orientală nord-americană
-  },
-  US/Arizona: {
-    Generic: Ora zonei montane nord-americane,
-    Standard: Ora standard în zona montană nord-americană,
-    Daylight: Ora de vară în zona montană nord-americană
-  },
-  America/Virgin: {
-    Generic: Ora zonei Atlantic nord-americane,
-    Standard: Ora standard în zona Atlantic nord-americană,
-    Daylight: Ora de vară în zona Atlantic nord-americană
-  },
-  Canada/Saskatchewan: {
-    Generic: Ora centrală nord-americană,
-    Standard: Ora standard centrală nord-americană,
-    Daylight: Ora de vară centrală nord-americană
-  },
-  America/Porto_Acre: {
-    Generic: Ora Acre,
-    Standard: Ora standard Acre,
-    Daylight: Ora de vară Acre
-  },
-  Brazil/Acre: {
-    Generic: Ora Acre,
-    Standard: Ora standard Acre,
-    Daylight: Ora de vară Acre
-  },
-  Chile/Continental: {
-    Generic: Ora din Chile,
-    Standard: Ora standard din Chile,
-    Daylight: Ora de vară din Chile
-  },
-  Brazil/East: {
-    Generic: Ora Brasiliei,
-    Standard: Ora standard a Brasiliei,
-    Daylight: Ora de vară a Brasiliei
-  },
-  Canada/Newfoundland: {
-    Generic: Ora din Newfoundland,
-    Standard: Ora standard din Newfoundland,
-    Daylight: Ora de vară din Newfoundland
-  },
-  America/Ensenada: {
-    Generic: Ora zonei Pacific nord-americane,
-    Standard: Ora standard în zona Pacific nord-americană,
-    Daylight: Ora de vară în zona Pacific nord-americană
-  },
-  Mexico/BajaNorte: {
-    Generic: Ora zonei Pacific nord-americane,
-    Standard: Ora standard în zona Pacific nord-americană,
-    Daylight: Ora de vară în zona Pacific nord-americană
-  },
-  Canada/Eastern: {
-    Generic: Ora orientală nord-americană,
-    Standard: Ora standard orientală nord-americană,
-    Daylight: Ora de vară orientală nord-americană
-  },
-  Canada/Pacific: {
-    Generic: Ora zonei Pacific nord-americane,
-    Standard: Ora standard în zona Pacific nord-americană,
-    Daylight: Ora de vară în zona Pacific nord-americană
-  },
-  Canada/Yukon: {
-    Generic: Ora din Yukon,
-    Standard: Ora din Yukon,
-    Daylight: Ora din Yukon
-  },
-  Canada/Central: {
-    Generic: Ora centrală nord-americană,
-    Standard: Ora standard centrală nord-americană,
-    Daylight: Ora de vară centrală nord-americană
   },
   Asia/Ashkhabad: {
     Generic: Ora din Turkmenistan,
     Standard: Ora standard din Turkmenistan,
     Daylight: Ora de vară din Turkmenistan
   },
-  Asia/Dacca: {
-    Generic: Ora din Bangladesh,
-    Standard: Ora standard din Bangladesh,
-    Daylight: Ora de vară din Bangladesh
+  Asia/Atyrau: {
+    Generic: Ora din Kazahstanul de Vest,
+    Standard: Ora din Kazahstanul de Vest,
+    Daylight: Ora din Kazahstanul de Vest
   },
-  Asia/Ho_Chi_Minh: {
+  Asia/Baghdad: {
+    Generic: Ora arabă,
+    Standard: Ora standard arabă,
+    Daylight: Ora de vară arabă
+  },
+  Asia/Bahrain: {
+    Generic: Ora arabă,
+    Standard: Ora standard arabă,
+    Daylight: Ora de vară arabă
+  },
+  Asia/Baku: {
+    Generic: Ora Azerbaidjanului,
+    Standard: Ora standard a Azerbaidjanului,
+    Daylight: Ora de vară a Azerbaidjanului
+  },
+  Asia/Bangkok: {
     Generic: Ora Indochinei,
     Standard: Ora Indochinei,
     Daylight: Ora Indochinei
   },
-  Hongkong: {
-    Generic: Ora din Hong Kong,
-    Standard: Ora standard din Hong Kong,
-    Daylight: Ora de vară din Hong Kong
+  Asia/Barnaul: {
+    Generic: Ora din Barnaul,
+    Standard: Ora standard din Barnaul,
+    Daylight: Ora de vară din Barnaul
   },
-  Asia/Tel_Aviv: {
-    Generic: Ora Israelului,
-    Standard: Ora standard a Israelului,
-    Daylight: Ora de vară a Israelului
-  },
-  Israel: {
-    Generic: Ora Israelului,
-    Standard: Ora standard a Israelului,
-    Daylight: Ora de vară a Israelului
-  },
-  Asia/Kathmandu: {
-    Generic: Ora Nepalului,
-    Standard: Ora Nepalului,
-    Daylight: Ora Nepalului
-  },
-  Asia/Kolkata: {
-    Generic: Ora Indiei,
-    Standard: Ora Indiei,
-    Daylight: Ora Indiei
-  },
-  Asia/Macao: {
-    Generic: Ora Chinei,
-    Standard: Ora standard a Chinei,
-    Daylight: Ora de vară a Chinei
-  },
-  Asia/Ujung_Pandang: {
-    Generic: Ora Indoneziei Centrale,
-    Standard: Ora Indoneziei Centrale,
-    Daylight: Ora Indoneziei Centrale
-  },
-  Europe/Nicosia: {
+  Asia/Beirut: {
     Generic: Ora Europei de Est,
     Standard: Ora standard a Europei de Est,
     Daylight: Ora de vară a Europei de Est
   },
-  ROK: {
-    Generic: Ora Coreei,
-    Standard: Ora standard a Coreei,
-    Daylight: Ora de vară a Coreei
+  Asia/Bishkek: {
+    Generic: Ora din Kârgâzstan,
+    Standard: Ora din Kârgâzstan,
+    Daylight: Ora din Kârgâzstan
+  },
+  Asia/Brunei: {
+    Generic: Ora din Brunei Darussalam,
+    Standard: Ora din Brunei Darussalam,
+    Daylight: Ora din Brunei Darussalam
+  },
+  Asia/Calcutta: {
+    Generic: Ora Indiei,
+    Standard: Ora Indiei,
+    Daylight: Ora Indiei
+  },
+  Asia/Chita: {
+    Generic: Ora din Cita,
+    Standard: Ora standard din Cita,
+    Daylight: Ora de vară din Cita
+  },
+  Asia/Choibalsan: {
+    Generic: Ora din Ulan Bator,
+    Standard: Ora standard din Ulan Bator,
+    Daylight: Ora de vară din Ulan Bator
   },
   Asia/Chongqing: {
     Generic: Ora Chinei,
@@ -2619,57 +1279,412 @@
     Standard: Ora standard a Chinei,
     Daylight: Ora de vară a Chinei
   },
+  Asia/Colombo: {
+    Generic: Ora Indiei,
+    Standard: Ora Indiei,
+    Daylight: Ora Indiei
+  },
+  Asia/Dacca: {
+    Generic: Ora din Bangladesh,
+    Standard: Ora standard din Bangladesh,
+    Daylight: Ora de vară din Bangladesh
+  },
+  Asia/Damascus: {
+    Generic: Ora Europei de Est,
+    Standard: Ora standard a Europei de Est,
+    Daylight: Ora de vară a Europei de Est
+  },
+  Asia/Dhaka: {
+    Generic: Ora din Bangladesh,
+    Standard: Ora standard din Bangladesh,
+    Daylight: Ora de vară din Bangladesh
+  },
+  Asia/Dili: {
+    Generic: Ora Timorului de Est,
+    Standard: Ora Timorului de Est,
+    Daylight: Ora Timorului de Est
+  },
+  Asia/Dubai: {
+    Generic: Ora standard a Golfului,
+    Standard: Ora standard a Golfului,
+    Daylight: Ora standard a Golfului
+  },
+  Asia/Dushanbe: {
+    Generic: Ora din Tadjikistan,
+    Standard: Ora din Tadjikistan,
+    Daylight: Ora din Tadjikistan
+  },
+  Asia/Famagusta: {
+    Generic: Ora Europei de Est,
+    Standard: Ora standard a Europei de Est,
+    Daylight: Ora de vară a Europei de Est
+  },
+  Asia/Gaza: {
+    Generic: Ora Europei de Est,
+    Standard: Ora standard a Europei de Est,
+    Daylight: Ora de vară a Europei de Est
+  },
   Asia/Harbin: {
     Generic: Ora Chinei,
     Standard: Ora standard a Chinei,
     Daylight: Ora de vară a Chinei
   },
-  PRC: {
-    Generic: Ora Chinei,
-    Standard: Ora standard a Chinei,
-    Daylight: Ora de vară a Chinei
+  Asia/Hebron: {
+    Generic: Ora Europei de Est,
+    Standard: Ora standard a Europei de Est,
+    Daylight: Ora de vară a Europei de Est
   },
-  Singapore: {
-    Generic: Ora din Singapore,
-    Standard: Ora din Singapore,
-    Daylight: Ora din Singapore
+  Asia/Ho_Chi_Minh: {
+    Generic: Ora Indochinei,
+    Standard: Ora Indochinei,
+    Daylight: Ora Indochinei
   },
-  ROC: {
-    Generic: Ora din Taipei,
-    Standard: Ora standard din Taipei,
-    Daylight: Ora de vară din Taipei
+  Asia/Hong_Kong: {
+    Generic: Ora din Hong Kong,
+    Standard: Ora standard din Hong Kong,
+    Daylight: Ora de vară din Hong Kong
   },
-  Iran: {
-    Generic: Ora Iranului,
-    Standard: Ora standard a Iranului,
-    Daylight: Ora de vară a Iranului
+  Asia/Hovd: {
+    Generic: Ora din Hovd,
+    Standard: Ora standard din Hovd,
+    Daylight: Ora de vară din Hovd
   },
-  Asia/Thimbu: {
-    Generic: Ora Bhutanului,
-    Standard: Ora Bhutanului,
-    Daylight: Ora Bhutanului
+  Asia/Irkutsk: {
+    Generic: Ora din Irkuțk,
+    Standard: Ora standard din Irkuțk,
+    Daylight: Ora de vară din Irkuțk
   },
-  Japan: {
-    Generic: Ora Japoniei,
-    Standard: Ora standard a Japoniei,
-    Daylight: Ora de vară a Japoniei
+  Asia/Istanbul: {
+    Generic: Ora din Turcia,
+    Standard: Ora standard din Turcia,
+    Daylight: Ora de vară din Turcia
   },
-  Asia/Ulan_Bator: {
-    Generic: Ora din Ulan Bator,
-    Standard: Ora standard din Ulan Bator,
-    Daylight: Ora de vară din Ulan Bator
+  Asia/Jakarta: {
+    Generic: Ora Indoneziei de Vest,
+    Standard: Ora Indoneziei de Vest,
+    Daylight: Ora Indoneziei de Vest
+  },
+  Asia/Jayapura: {
+    Generic: Ora Indoneziei de Est,
+    Standard: Ora Indoneziei de Est,
+    Daylight: Ora Indoneziei de Est
+  },
+  Asia/Jerusalem: {
+    Generic: Ora Israelului,
+    Standard: Ora standard a Israelului,
+    Daylight: Ora de vară a Israelului
+  },
+  Asia/Kabul: {
+    Generic: Ora Afganistanului,
+    Standard: Ora Afganistanului,
+    Daylight: Ora Afganistanului
+  },
+  Asia/Kamchatka: {
+    Generic: Ora din Kamciatka,
+    Standard: Ora standard din Kamciatka,
+    Daylight: Ora de vară din Kamciatka
+  },
+  Asia/Karachi: {
+    Generic: Ora Pakistanului,
+    Standard: Ora standard a Pakistanului,
+    Daylight: Ora de vară a Pakistanului
   },
   Asia/Kashgar: {
     Generic: Ora din China,
     Standard: Ora standard din China,
     Daylight: Ora de vară din China
   },
+  Asia/Kathmandu: {
+    Generic: Ora Nepalului,
+    Standard: Ora Nepalului,
+    Daylight: Ora Nepalului
+  },
+  Asia/Katmandu: {
+    Generic: Ora Nepalului,
+    Standard: Ora Nepalului,
+    Daylight: Ora Nepalului
+  },
+  Asia/Khandyga: {
+    Generic: Ora din Khandyga,
+    Standard: Ora standard din Khandyga,
+    Daylight: Ora de vară din Khandyga
+  },
+  Asia/Kolkata: {
+    Generic: Ora Indiei,
+    Standard: Ora Indiei,
+    Daylight: Ora Indiei
+  },
+  Asia/Krasnoyarsk: {
+    Generic: Ora din Krasnoiarsk,
+    Standard: Ora standard din Krasnoiarsk,
+    Daylight: Ora de vară din Krasnoiarsk
+  },
+  Asia/Kuala_Lumpur: {
+    Generic: Ora din Malaysia,
+    Standard: Ora din Malaysia,
+    Daylight: Ora din Malaysia
+  },
+  Asia/Kuching: {
+    Generic: Ora din Malaysia,
+    Standard: Ora din Malaysia,
+    Daylight: Ora din Malaysia
+  },
+  Asia/Kuwait: {
+    Generic: Ora arabă,
+    Standard: Ora standard arabă,
+    Daylight: Ora de vară arabă
+  },
+  Asia/Macao: {
+    Generic: Ora Chinei,
+    Standard: Ora standard a Chinei,
+    Daylight: Ora de vară a Chinei
+  },
+  Asia/Macau: {
+    Generic: Ora Chinei,
+    Standard: Ora standard a Chinei,
+    Daylight: Ora de vară a Chinei
+  },
+  Asia/Magadan: {
+    Generic: Ora din Magadan,
+    Standard: Ora standard din Magadan,
+    Daylight: Ora de vară din Magadan
+  },
+  Asia/Makassar: {
+    Generic: Ora Indoneziei Centrale,
+    Standard: Ora Indoneziei Centrale,
+    Daylight: Ora Indoneziei Centrale
+  },
+  Asia/Manila: {
+    Generic: Ora din Filipine,
+    Standard: Ora standard din Filipine,
+    Daylight: Ora de vară din Filipine
+  },
+  Asia/Muscat: {
+    Generic: Ora standard a Golfului,
+    Standard: Ora standard a Golfului,
+    Daylight: Ora standard a Golfului
+  },
+  Asia/Nicosia: {
+    Generic: Ora Europei de Est,
+    Standard: Ora standard a Europei de Est,
+    Daylight: Ora de vară a Europei de Est
+  },
+  Asia/Novokuznetsk: {
+    Generic: Ora din Novokuznețk,
+    Standard: Ora standard din Novokuznețk,
+    Daylight: Ora de vară din Novokuznețk
+  },
+  Asia/Novosibirsk: {
+    Generic: Ora din Novosibirsk,
+    Standard: Ora standard din Novosibirsk,
+    Daylight: Ora de vară din Novosibirsk
+  },
+  Asia/Omsk: {
+    Generic: Ora din Omsk,
+    Standard: Ora standard din Omsk,
+    Daylight: Ora de vară din Omsk
+  },
+  Asia/Oral: {
+    Generic: Ora din Kazahstanul de Vest,
+    Standard: Ora din Kazahstanul de Vest,
+    Daylight: Ora din Kazahstanul de Vest
+  },
+  Asia/Phnom_Penh: {
+    Generic: Ora Indochinei,
+    Standard: Ora Indochinei,
+    Daylight: Ora Indochinei
+  },
+  Asia/Pontianak: {
+    Generic: Ora Indoneziei de Vest,
+    Standard: Ora Indoneziei de Vest,
+    Daylight: Ora Indoneziei de Vest
+  },
+  Asia/Pyongyang: {
+    Generic: Ora Coreei,
+    Standard: Ora standard a Coreei,
+    Daylight: Ora de vară a Coreei
+  },
+  Asia/Qatar: {
+    Generic: Ora arabă,
+    Standard: Ora standard arabă,
+    Daylight: Ora de vară arabă
+  },
+  Asia/Qostanay: {
+    Generic: Ora din Kazahstanul de Est,
+    Standard: Ora din Kazahstanul de Est,
+    Daylight: Ora din Kazahstanul de Est
+  },
+  Asia/Qyzylorda: {
+    Generic: Ora din Kazahstanul de Vest,
+    Standard: Ora din Kazahstanul de Vest,
+    Daylight: Ora din Kazahstanul de Vest
+  },
+  Asia/Rangoon: {
+    Generic: Ora Myanmarului,
+    Standard: Ora Myanmarului,
+    Daylight: Ora Myanmarului
+  },
+  Asia/Riyadh: {
+    Generic: Ora arabă,
+    Standard: Ora standard arabă,
+    Daylight: Ora de vară arabă
+  },
+  Asia/Saigon: {
+    Generic: Ora Indochinei,
+    Standard: Ora Indochinei,
+    Daylight: Ora Indochinei
+  },
+  Asia/Sakhalin: {
+    Generic: Ora din Sahalin,
+    Standard: Ora standard din Sahalin,
+    Daylight: Ora de vară din Sahalin
+  },
+  Asia/Samarkand: {
+    Generic: Ora din Uzbekistan,
+    Standard: Ora standard din Uzbekistan,
+    Daylight: Ora de vară din Uzbekistan
+  },
+  Asia/Seoul: {
+    Generic: Ora Coreei,
+    Standard: Ora standard a Coreei,
+    Daylight: Ora de vară a Coreei
+  },
+  Asia/Shanghai: {
+    Generic: Ora Chinei,
+    Standard: Ora standard a Chinei,
+    Daylight: Ora de vară a Chinei
+  },
+  Asia/Singapore: {
+    Generic: Ora din Singapore,
+    Standard: Ora din Singapore,
+    Daylight: Ora din Singapore
+  },
+  Asia/Srednekolymsk: {
+    Generic: Ora din Srednekolimsk,
+    Standard: Ora standard din Srednekolimsk,
+    Daylight: Ora de vară din Srednekolimsk
+  },
+  Asia/Taipei: {
+    Generic: Ora din Taipei,
+    Standard: Ora standard din Taipei,
+    Daylight: Ora de vară din Taipei
+  },
+  Asia/Tashkent: {
+    Generic: Ora din Uzbekistan,
+    Standard: Ora standard din Uzbekistan,
+    Daylight: Ora de vară din Uzbekistan
+  },
+  Asia/Tbilisi: {
+    Generic: Ora Georgiei,
+    Standard: Ora standard a Georgiei,
+    Daylight: Ora de vară a Georgiei
+  },
+  Asia/Tehran: {
+    Generic: Ora Iranului,
+    Standard: Ora standard a Iranului,
+    Daylight: Ora de vară a Iranului
+  },
+  Asia/Tel_Aviv: {
+    Generic: Ora Israelului,
+    Standard: Ora standard a Israelului,
+    Daylight: Ora de vară a Israelului
+  },
+  Asia/Thimbu: {
+    Generic: Ora Bhutanului,
+    Standard: Ora Bhutanului,
+    Daylight: Ora Bhutanului
+  },
+  Asia/Thimphu: {
+    Generic: Ora Bhutanului,
+    Standard: Ora Bhutanului,
+    Daylight: Ora Bhutanului
+  },
+  Asia/Tokyo: {
+    Generic: Ora Japoniei,
+    Standard: Ora standard a Japoniei,
+    Daylight: Ora de vară a Japoniei
+  },
+  Asia/Tomsk: {
+    Generic: Ora din Tomsk,
+    Standard: Ora standard din Tomsk,
+    Daylight: Ora de vară din Tomsk
+  },
+  Asia/Ujung_Pandang: {
+    Generic: Ora Indoneziei Centrale,
+    Standard: Ora Indoneziei Centrale,
+    Daylight: Ora Indoneziei Centrale
+  },
+  Asia/Ulaanbaatar: {
+    Generic: Ora din Ulan Bator,
+    Standard: Ora standard din Ulan Bator,
+    Daylight: Ora de vară din Ulan Bator
+  },
+  Asia/Ulan_Bator: {
+    Generic: Ora din Ulan Bator,
+    Standard: Ora standard din Ulan Bator,
+    Daylight: Ora de vară din Ulan Bator
+  },
+  Asia/Urumqi: {
+    Generic: Ora din China,
+    Standard: Ora standard din China,
+    Daylight: Ora de vară din China
+  },
+  Asia/Ust-Nera: {
+    Generic: Ora din Ust-Nera,
+    Standard: Ora standard din Ust-Nera,
+    Daylight: Ora de vară din Ust-Nera
+  },
+  Asia/Vientiane: {
+    Generic: Ora Indochinei,
+    Standard: Ora Indochinei,
+    Daylight: Ora Indochinei
+  },
+  Asia/Vladivostok: {
+    Generic: Ora din Vladivostok,
+    Standard: Ora standard din Vladivostok,
+    Daylight: Ora de vară din Vladivostok
+  },
+  Asia/Yakutsk: {
+    Generic: Ora din Iakuțk,
+    Standard: Ora standard din Iakuțk,
+    Daylight: Ora de vară din Iakuțk
+  },
   Asia/Yangon: {
     Generic: Ora Myanmarului,
     Standard: Ora Myanmarului,
     Daylight: Ora Myanmarului
   },
-  WET: {
+  Asia/Yekaterinburg: {
+    Generic: Ora din Ekaterinburg,
+    Standard: Ora standard din Ekaterinburg,
+    Daylight: Ora de vară din Ekaterinburg
+  },
+  Asia/Yerevan: {
+    Generic: Ora Armeniei,
+    Standard: Ora standard a Armeniei,
+    Daylight: Ora de vară a Armeniei
+  },
+  Atlantic/Azores: {
+    Generic: Ora din Azore,
+    Standard: Ora standard din Azore,
+    Daylight: Ora de vară din Azore
+  },
+  Atlantic/Bermuda: {
+    Generic: Ora zonei Atlantic nord-americane,
+    Standard: Ora standard în zona Atlantic nord-americană,
+    Daylight: Ora de vară în zona Atlantic nord-americană
+  },
+  Atlantic/Canary: {
+    Generic: Ora Europei de Vest,
+    Standard: Ora standard a Europei de Vest,
+    Daylight: Ora de vară a Europei de Vest
+  },
+  Atlantic/Cape_Verde: {
+    Generic: Ora din Capul Verde,
+    Standard: Ora standard din Capul Verde,
+    Daylight: Ora de vară din Capul Verde
+  },
+  Atlantic/Faeroe: {
     Generic: Ora Europei de Vest,
     Standard: Ora standard a Europei de Vest,
     Daylight: Ora de vară a Europei de Vest
@@ -2679,27 +1694,77 @@
     Standard: Ora standard a Europei de Vest,
     Daylight: Ora de vară a Europei de Vest
   },
-  Australia/South: {
-    Generic: Ora Australiei Centrale,
-    Standard: Ora standard a Australiei Centrale,
-    Daylight: Ora de vară a Australiei Centrale
+  Atlantic/Jan_Mayen: {
+    Generic: Ora Europei Centrale,
+    Standard: Ora standard a Europei Centrale,
+    Daylight: Ora de vară a Europei Centrale
   },
-  Australia/Queensland: {
+  Atlantic/Madeira: {
+    Generic: Ora Europei de Vest,
+    Standard: Ora standard a Europei de Vest,
+    Daylight: Ora de vară a Europei de Vest
+  },
+  Atlantic/Reykjavik: {
+    Generic: Ora de Greenwhich,
+    Standard: Ora de Greenwhich,
+    Daylight: Ora de Greenwhich
+  },
+  Atlantic/South_Georgia: {
+    Generic: Ora Georgiei de Sud,
+    Standard: Ora Georgiei de Sud,
+    Daylight: Ora Georgiei de Sud
+  },
+  Atlantic/St_Helena: {
+    Generic: Ora de Greenwhich,
+    Standard: Ora de Greenwhich,
+    Daylight: Ora de Greenwhich
+  },
+  Atlantic/Stanley: {
+    Generic: Ora din Insulele Falkland,
+    Standard: Ora standard din Insulele Falkland,
+    Daylight: Ora de vară din Insulele Falkland
+  },
+  Australia/ACT: {
     Generic: Ora Australiei Orientale,
     Standard: Ora standard a Australiei Orientale,
     Daylight: Ora de vară a Australiei Orientale
   },
-  Australia/Yancowinna: {
+  Australia/Adelaide: {
     Generic: Ora Australiei Centrale,
     Standard: Ora standard a Australiei Centrale,
     Daylight: Ora de vară a Australiei Centrale
   },
-  Australia/North: {
+  Australia/Brisbane: {
+    Generic: Ora Australiei Orientale,
+    Standard: Ora standard a Australiei Orientale,
+    Daylight: Ora de vară a Australiei Orientale
+  },
+  Australia/Broken_Hill: {
     Generic: Ora Australiei Centrale,
     Standard: Ora standard a Australiei Centrale,
     Daylight: Ora de vară a Australiei Centrale
   },
-  Australia/Tasmania: {
+  Australia/Canberra: {
+    Generic: Ora Australiei Orientale,
+    Standard: Ora standard a Australiei Orientale,
+    Daylight: Ora de vară a Australiei Orientale
+  },
+  Australia/Currie: {
+    Generic: Ora Australiei Orientale,
+    Standard: Ora standard a Australiei Orientale,
+    Daylight: Ora de vară a Australiei Orientale
+  },
+  Australia/Darwin: {
+    Generic: Ora Australiei Centrale,
+    Standard: Ora standard a Australiei Centrale,
+    Daylight: Ora de vară a Australiei Centrale
+  },
+  Australia/Eucla: {
+    Generic: Ora Australiei Central Occidentale,
+    Standard: Ora standard a Australiei Central Occidentale,
+    Daylight: Ora de vară a Australiei Central Occidentale
+  },
+  Australia/Hobart: {
     Generic: Ora Australiei Orientale,
     Standard: Ora standard a Australiei Orientale,
     Daylight: Ora de vară a Australiei Orientale
@@ -2708,6 +1773,56 @@
     Generic: Ora din Lord Howe,
     Standard: Ora standard din Lord Howe,
     Daylight: Ora de vară din Lord Howe
+  },
+  Australia/Lindeman: {
+    Generic: Ora Australiei Orientale,
+    Standard: Ora standard a Australiei Orientale,
+    Daylight: Ora de vară a Australiei Orientale
+  },
+  Australia/Lord_Howe: {
+    Generic: Ora din Lord Howe,
+    Standard: Ora standard din Lord Howe,
+    Daylight: Ora de vară din Lord Howe
+  },
+  Australia/Melbourne: {
+    Generic: Ora Australiei Orientale,
+    Standard: Ora standard a Australiei Orientale,
+    Daylight: Ora de vară a Australiei Orientale
+  },
+  Australia/NSW: {
+    Generic: Ora Australiei Orientale,
+    Standard: Ora standard a Australiei Orientale,
+    Daylight: Ora de vară a Australiei Orientale
+  },
+  Australia/North: {
+    Generic: Ora Australiei Centrale,
+    Standard: Ora standard a Australiei Centrale,
+    Daylight: Ora de vară a Australiei Centrale
+  },
+  Australia/Perth: {
+    Generic: Ora Australiei Occidentale,
+    Standard: Ora standard a Australiei Occidentale,
+    Daylight: Ora de vară a Australiei Occidentale
+  },
+  Australia/Queensland: {
+    Generic: Ora Australiei Orientale,
+    Standard: Ora standard a Australiei Orientale,
+    Daylight: Ora de vară a Australiei Orientale
+  },
+  Australia/South: {
+    Generic: Ora Australiei Centrale,
+    Standard: Ora standard a Australiei Centrale,
+    Daylight: Ora de vară a Australiei Centrale
+  },
+  Australia/Sydney: {
+    Generic: Ora Australiei Orientale,
+    Standard: Ora standard a Australiei Orientale,
+    Daylight: Ora de vară a Australiei Orientale
+  },
+  Australia/Tasmania: {
+    Generic: Ora Australiei Orientale,
+    Standard: Ora standard a Australiei Orientale,
+    Daylight: Ora de vară a Australiei Orientale
   },
   Australia/Victoria: {
     Generic: Ora Australiei Orientale,
@@ -2719,45 +1834,265 @@
     Standard: Ora standard a Australiei Occidentale,
     Daylight: Ora de vară a Australiei Occidentale
   },
-  Australia/ACT: {
-    Generic: Ora Australiei Orientale,
-    Standard: Ora standard a Australiei Orientale,
-    Daylight: Ora de vară a Australiei Orientale
+  Australia/Yancowinna: {
+    Generic: Ora Australiei Centrale,
+    Standard: Ora standard a Australiei Centrale,
+    Daylight: Ora de vară a Australiei Centrale
   },
-  Australia/Canberra: {
-    Generic: Ora Australiei Orientale,
-    Standard: Ora standard a Australiei Orientale,
-    Daylight: Ora de vară a Australiei Orientale
+  Brazil/Acre: {
+    Generic: Ora Acre,
+    Standard: Ora standard Acre,
+    Daylight: Ora de vară Acre
   },
-  Australia/NSW: {
-    Generic: Ora Australiei Orientale,
-    Standard: Ora standard a Australiei Orientale,
-    Daylight: Ora de vară a Australiei Orientale
+  Brazil/DeNoronha: {
+    Generic: Ora din Fernando de Noronha,
+    Standard: Ora standard din Fernando de Noronha,
+    Daylight: Ora de vară din Fernando de Noronha
   },
-  HST: {
-    Generic: Timpul universal coordonat -10,
-    Standard: Timpul universal coordonat -10,
-    Daylight: Timpul universal coordonat -10
+  Brazil/East: {
+    Generic: Ora Brasiliei,
+    Standard: Ora standard a Brasiliei,
+    Daylight: Ora de vară a Brasiliei
+  },
+  Brazil/West: {
+    Generic: Ora Amazonului,
+    Standard: Ora standard a Amazonului,
+    Daylight: Ora de vară a Amazonului
+  },
+  CET: {
+    Generic: Ora Europei Centrale,
+    Standard: Ora standard a Europei Centrale,
+    Daylight: Ora de vară a Europei Centrale
+  },
+  CST6CDT: {
+    Generic: Ora centrală nord-americană,
+    Standard: Ora standard centrală nord-americană,
+    Daylight: Ora de vară centrală nord-americană
+  },
+  Canada/Atlantic: {
+    Generic: Ora zonei Atlantic nord-americane,
+    Standard: Ora standard în zona Atlantic nord-americană,
+    Daylight: Ora de vară în zona Atlantic nord-americană
+  },
+  Canada/Central: {
+    Generic: Ora centrală nord-americană,
+    Standard: Ora standard centrală nord-americană,
+    Daylight: Ora de vară centrală nord-americană
+  },
+  Canada/Eastern: {
+    Generic: Ora orientală nord-americană,
+    Standard: Ora standard orientală nord-americană,
+    Daylight: Ora de vară orientală nord-americană
+  },
+  Canada/Mountain: {
+    Generic: Ora zonei montane nord-americane,
+    Standard: Ora standard în zona montană nord-americană,
+    Daylight: Ora de vară în zona montană nord-americană
+  },
+  Canada/Newfoundland: {
+    Generic: Ora din Newfoundland,
+    Standard: Ora standard din Newfoundland,
+    Daylight: Ora de vară din Newfoundland
+  },
+  Canada/Pacific: {
+    Generic: Ora zonei Pacific nord-americane,
+    Standard: Ora standard în zona Pacific nord-americană,
+    Daylight: Ora de vară în zona Pacific nord-americană
+  },
+  Canada/Saskatchewan: {
+    Generic: Ora centrală nord-americană,
+    Standard: Ora standard centrală nord-americană,
+    Daylight: Ora de vară centrală nord-americană
+  },
+  Canada/Yukon: {
+    Generic: Ora din Yukon,
+    Standard: Ora din Yukon,
+    Daylight: Ora din Yukon
+  },
+  Chile/Continental: {
+    Generic: Ora din Chile,
+    Standard: Ora standard din Chile,
+    Daylight: Ora de vară din Chile
+  },
+  Chile/EasterIsland: {
+    Generic: Ora din Insula Paștelui,
+    Standard: Ora standard din Insula Paștelui,
+    Daylight: Ora de vară din Insula Paștelui
+  },
+  Cuba: {
+    Generic: Ora Cubei,
+    Standard: Ora standard a Cubei,
+    Daylight: Ora de vară a Cubei
+  },
+  EET: {
+    Generic: Ora Europei de Est,
+    Standard: Ora standard a Europei de Est,
+    Daylight: Ora de vară a Europei de Est
   },
   EST: {
     Generic: Timpul universal coordonat -5,
     Standard: Timpul universal coordonat -5,
     Daylight: Timpul universal coordonat -5
   },
-  MST: {
-    Generic: Timpul universal coordonat -7,
-    Standard: Timpul universal coordonat -7,
-    Daylight: Timpul universal coordonat -7
+  EST5EDT: {
+    Generic: Ora orientală nord-americană,
+    Standard: Ora standard orientală nord-americană,
+    Daylight: Ora de vară orientală nord-americană
+  },
+  Egypt: {
+    Generic: Ora Europei de Est,
+    Standard: Ora standard a Europei de Est,
+    Daylight: Ora de vară a Europei de Est
+  },
+  Eire: {
+    Generic: Ora din Irlanda,
+    Standard: Ora de Greenwhich,
+    Daylight: Ora de vară a Irlandei
+  },
+  Etc/GMT: {
+    Generic: Ora de Greenwhich,
+    Standard: Ora de Greenwhich,
+    Daylight: Ora de Greenwhich
   },
   Etc/GMT+0: {
     Generic: Ora de Greenwhich,
     Standard: Ora de Greenwhich,
     Daylight: Ora de Greenwhich
   },
+  Etc/GMT+1: {
+    Generic: Timpul universal coordonat -1,
+    Standard: Timpul universal coordonat -1,
+    Daylight: Timpul universal coordonat -1
+  },
+  Etc/GMT+10: {
+    Generic: Timpul universal coordonat -10,
+    Standard: Timpul universal coordonat -10,
+    Daylight: Timpul universal coordonat -10
+  },
+  Etc/GMT+11: {
+    Generic: Timpul universal coordonat -11,
+    Standard: Timpul universal coordonat -11,
+    Daylight: Timpul universal coordonat -11
+  },
+  Etc/GMT+12: {
+    Generic: Timpul universal coordonat -12,
+    Standard: Timpul universal coordonat -12,
+    Daylight: Timpul universal coordonat -12
+  },
+  Etc/GMT+2: {
+    Generic: Timpul universal coordonat -2,
+    Standard: Timpul universal coordonat -2,
+    Daylight: Timpul universal coordonat -2
+  },
+  Etc/GMT+3: {
+    Generic: Timpul universal coordonat -3,
+    Standard: Timpul universal coordonat -3,
+    Daylight: Timpul universal coordonat -3
+  },
+  Etc/GMT+4: {
+    Generic: Timpul universal coordonat -4,
+    Standard: Timpul universal coordonat -4,
+    Daylight: Timpul universal coordonat -4
+  },
+  Etc/GMT+5: {
+    Generic: Timpul universal coordonat -5,
+    Standard: Timpul universal coordonat -5,
+    Daylight: Timpul universal coordonat -5
+  },
+  Etc/GMT+6: {
+    Generic: Timpul universal coordonat -6,
+    Standard: Timpul universal coordonat -6,
+    Daylight: Timpul universal coordonat -6
+  },
+  Etc/GMT+7: {
+    Generic: Timpul universal coordonat -7,
+    Standard: Timpul universal coordonat -7,
+    Daylight: Timpul universal coordonat -7
+  },
+  Etc/GMT+8: {
+    Generic: Timpul universal coordonat -8,
+    Standard: Timpul universal coordonat -8,
+    Daylight: Timpul universal coordonat -8
+  },
+  Etc/GMT+9: {
+    Generic: Timpul universal coordonat -9,
+    Standard: Timpul universal coordonat -9,
+    Daylight: Timpul universal coordonat -9
+  },
   Etc/GMT-0: {
     Generic: Ora de Greenwhich,
     Standard: Ora de Greenwhich,
     Daylight: Ora de Greenwhich
+  },
+  Etc/GMT-1: {
+    Generic: Timpul universal coordonat +1,
+    Standard: Timpul universal coordonat +1,
+    Daylight: Timpul universal coordonat +1
+  },
+  Etc/GMT-10: {
+    Generic: Timpul universal coordonat +10,
+    Standard: Timpul universal coordonat +10,
+    Daylight: Timpul universal coordonat +10
+  },
+  Etc/GMT-11: {
+    Generic: Timpul universal coordonat +11,
+    Standard: Timpul universal coordonat +11,
+    Daylight: Timpul universal coordonat +11
+  },
+  Etc/GMT-12: {
+    Generic: Timpul universal coordonat +12,
+    Standard: Timpul universal coordonat +12,
+    Daylight: Timpul universal coordonat +12
+  },
+  Etc/GMT-13: {
+    Generic: Timpul universal coordonat +13,
+    Standard: Timpul universal coordonat +13,
+    Daylight: Timpul universal coordonat +13
+  },
+  Etc/GMT-14: {
+    Generic: Timpul universal coordonat +14,
+    Standard: Timpul universal coordonat +14,
+    Daylight: Timpul universal coordonat +14
+  },
+  Etc/GMT-2: {
+    Generic: Timpul universal coordonat +2,
+    Standard: Timpul universal coordonat +2,
+    Daylight: Timpul universal coordonat +2
+  },
+  Etc/GMT-3: {
+    Generic: Timpul universal coordonat +3,
+    Standard: Timpul universal coordonat +3,
+    Daylight: Timpul universal coordonat +3
+  },
+  Etc/GMT-4: {
+    Generic: Timpul universal coordonat +4,
+    Standard: Timpul universal coordonat +4,
+    Daylight: Timpul universal coordonat +4
+  },
+  Etc/GMT-5: {
+    Generic: Timpul universal coordonat +5,
+    Standard: Timpul universal coordonat +5,
+    Daylight: Timpul universal coordonat +5
+  },
+  Etc/GMT-6: {
+    Generic: Timpul universal coordonat +6,
+    Standard: Timpul universal coordonat +6,
+    Daylight: Timpul universal coordonat +6
+  },
+  Etc/GMT-7: {
+    Generic: Timpul universal coordonat +7,
+    Standard: Timpul universal coordonat +7,
+    Daylight: Timpul universal coordonat +7
+  },
+  Etc/GMT-8: {
+    Generic: Timpul universal coordonat +8,
+    Standard: Timpul universal coordonat +8,
+    Daylight: Timpul universal coordonat +8
+  },
+  Etc/GMT-9: {
+    Generic: Timpul universal coordonat +9,
+    Standard: Timpul universal coordonat +9,
+    Daylight: Timpul universal coordonat +9
   },
   Etc/GMT0: {
     Generic: Ora de Greenwhich,
@@ -2768,6 +2103,356 @@
     Generic: Ora de Greenwhich,
     Standard: Ora de Greenwhich,
     Daylight: Ora de Greenwhich
+  },
+  Etc/UCT: {
+    Generic: Timpul universal coordonat,
+    Standard: Timpul universal coordonat,
+    Daylight: Timpul universal coordonat
+  },
+  Etc/UTC: {
+    Generic: Timpul universal coordonat,
+    Standard: Timpul universal coordonat,
+    Daylight: Timpul universal coordonat
+  },
+  Etc/Universal: {
+    Generic: Timpul universal coordonat,
+    Standard: Timpul universal coordonat,
+    Daylight: Timpul universal coordonat
+  },
+  Etc/Zulu: {
+    Generic: Timpul universal coordonat,
+    Standard: Timpul universal coordonat,
+    Daylight: Timpul universal coordonat
+  },
+  Europe/Amsterdam: {
+    Generic: Ora Europei Centrale,
+    Standard: Ora standard a Europei Centrale,
+    Daylight: Ora de vară a Europei Centrale
+  },
+  Europe/Andorra: {
+    Generic: Ora Europei Centrale,
+    Standard: Ora standard a Europei Centrale,
+    Daylight: Ora de vară a Europei Centrale
+  },
+  Europe/Astrakhan: {
+    Generic: Ora din Astrahan,
+    Standard: Ora standard din Astrahan,
+    Daylight: Ora de vară din Astrahan
+  },
+  Europe/Athens: {
+    Generic: Ora Europei de Est,
+    Standard: Ora standard a Europei de Est,
+    Daylight: Ora de vară a Europei de Est
+  },
+  Europe/Belfast: {
+    Generic: Ora din Regatul Unit,
+    Standard: Ora de Greenwhich,
+    Daylight: Ora de vară britanică
+  },
+  Europe/Belgrade: {
+    Generic: Ora Europei Centrale,
+    Standard: Ora standard a Europei Centrale,
+    Daylight: Ora de vară a Europei Centrale
+  },
+  Europe/Berlin: {
+    Generic: Ora Europei Centrale,
+    Standard: Ora standard a Europei Centrale,
+    Daylight: Ora de vară a Europei Centrale
+  },
+  Europe/Bratislava: {
+    Generic: Ora Europei Centrale,
+    Standard: Ora standard a Europei Centrale,
+    Daylight: Ora de vară a Europei Centrale
+  },
+  Europe/Brussels: {
+    Generic: Ora Europei Centrale,
+    Standard: Ora standard a Europei Centrale,
+    Daylight: Ora de vară a Europei Centrale
+  },
+  Europe/Bucharest: {
+    Generic: Ora Europei de Est,
+    Standard: Ora standard a Europei de Est,
+    Daylight: Ora de vară a Europei de Est
+  },
+  Europe/Budapest: {
+    Generic: Ora Europei Centrale,
+    Standard: Ora standard a Europei Centrale,
+    Daylight: Ora de vară a Europei Centrale
+  },
+  Europe/Busingen: {
+    Generic: Ora Europei Centrale,
+    Standard: Ora standard a Europei Centrale,
+    Daylight: Ora de vară a Europei Centrale
+  },
+  Europe/Chisinau: {
+    Generic: Ora Europei de Est,
+    Standard: Ora standard a Europei de Est,
+    Daylight: Ora de vară a Europei de Est
+  },
+  Europe/Copenhagen: {
+    Generic: Ora Europei Centrale,
+    Standard: Ora standard a Europei Centrale,
+    Daylight: Ora de vară a Europei Centrale
+  },
+  Europe/Dublin: {
+    Generic: Ora din Irlanda,
+    Standard: Ora de Greenwhich,
+    Daylight: Ora de vară a Irlandei
+  },
+  Europe/Gibraltar: {
+    Generic: Ora Europei Centrale,
+    Standard: Ora standard a Europei Centrale,
+    Daylight: Ora de vară a Europei Centrale
+  },
+  Europe/Guernsey: {
+    Generic: Ora de Greenwhich,
+    Standard: Ora de Greenwhich,
+    Daylight: Ora de Greenwhich
+  },
+  Europe/Helsinki: {
+    Generic: Ora Europei de Est,
+    Standard: Ora standard a Europei de Est,
+    Daylight: Ora de vară a Europei de Est
+  },
+  Europe/Isle_of_Man: {
+    Generic: Ora de Greenwhich,
+    Standard: Ora de Greenwhich,
+    Daylight: Ora de Greenwhich
+  },
+  Europe/Istanbul: {
+    Generic: Ora din Turcia,
+    Standard: Ora standard din Turcia,
+    Daylight: Ora de vară din Turcia
+  },
+  Europe/Jersey: {
+    Generic: Ora de Greenwhich,
+    Standard: Ora de Greenwhich,
+    Daylight: Ora de Greenwhich
+  },
+  Europe/Kaliningrad: {
+    Generic: Ora din Kaliningrad,
+    Standard: Ora standard din Kaliningrad,
+    Daylight: Ora de vară din Kaliningrad
+  },
+  Europe/Kiev: {
+    Generic: Ora Europei de Est,
+    Standard: Ora standard a Europei de Est,
+    Daylight: Ora de vară a Europei de Est
+  },
+  Europe/Kirov: {
+    Generic: Ora din Kirov,
+    Standard: Ora standard din Kirov,
+    Daylight: Ora de vară din Kirov
+  },
+  Europe/Kyiv: {
+    Generic: Ora Europei de Est,
+    Standard: Ora standard a Europei de Est,
+    Daylight: Ora de vară a Europei de Est
+  },
+  Europe/Lisbon: {
+    Generic: Ora Europei de Vest,
+    Standard: Ora standard a Europei de Vest,
+    Daylight: Ora de vară a Europei de Vest
+  },
+  Europe/Ljubljana: {
+    Generic: Ora Europei Centrale,
+    Standard: Ora standard a Europei Centrale,
+    Daylight: Ora de vară a Europei Centrale
+  },
+  Europe/London: {
+    Generic: Ora din Regatul Unit,
+    Standard: Ora de Greenwhich,
+    Daylight: Ora de vară britanică
+  },
+  Europe/Luxembourg: {
+    Generic: Ora Europei Centrale,
+    Standard: Ora standard a Europei Centrale,
+    Daylight: Ora de vară a Europei Centrale
+  },
+  Europe/Madrid: {
+    Generic: Ora Europei Centrale,
+    Standard: Ora standard a Europei Centrale,
+    Daylight: Ora de vară a Europei Centrale
+  },
+  Europe/Malta: {
+    Generic: Ora Europei Centrale,
+    Standard: Ora standard a Europei Centrale,
+    Daylight: Ora de vară a Europei Centrale
+  },
+  Europe/Mariehamn: {
+    Generic: Ora Europei de Est,
+    Standard: Ora standard a Europei de Est,
+    Daylight: Ora de vară a Europei de Est
+  },
+  Europe/Minsk: {
+    Generic: Ora Moscovei,
+    Standard: Ora standard a Moscovei,
+    Daylight: Ora de vară a Moscovei
+  },
+  Europe/Monaco: {
+    Generic: Ora Europei Centrale,
+    Standard: Ora standard a Europei Centrale,
+    Daylight: Ora de vară a Europei Centrale
+  },
+  Europe/Moscow: {
+    Generic: Ora din Moscova,
+    Standard: Ora standard din Moscova,
+    Daylight: Ora de vară din Moscova
+  },
+  Europe/Nicosia: {
+    Generic: Ora Europei de Est,
+    Standard: Ora standard a Europei de Est,
+    Daylight: Ora de vară a Europei de Est
+  },
+  Europe/Oslo: {
+    Generic: Ora Europei Centrale,
+    Standard: Ora standard a Europei Centrale,
+    Daylight: Ora de vară a Europei Centrale
+  },
+  Europe/Paris: {
+    Generic: Ora Europei Centrale,
+    Standard: Ora standard a Europei Centrale,
+    Daylight: Ora de vară a Europei Centrale
+  },
+  Europe/Podgorica: {
+    Generic: Ora Europei Centrale,
+    Standard: Ora standard a Europei Centrale,
+    Daylight: Ora de vară a Europei Centrale
+  },
+  Europe/Prague: {
+    Generic: Ora Europei Centrale,
+    Standard: Ora standard a Europei Centrale,
+    Daylight: Ora de vară a Europei Centrale
+  },
+  Europe/Riga: {
+    Generic: Ora Europei de Est,
+    Standard: Ora standard a Europei de Est,
+    Daylight: Ora de vară a Europei de Est
+  },
+  Europe/Rome: {
+    Generic: Ora Europei Centrale,
+    Standard: Ora standard a Europei Centrale,
+    Daylight: Ora de vară a Europei Centrale
+  },
+  Europe/Samara: {
+    Generic: Ora din Samara,
+    Standard: Ora standard din Samara,
+    Daylight: Ora de vară din Samara
+  },
+  Europe/San_Marino: {
+    Generic: Ora Europei Centrale,
+    Standard: Ora standard a Europei Centrale,
+    Daylight: Ora de vară a Europei Centrale
+  },
+  Europe/Sarajevo: {
+    Generic: Ora Europei Centrale,
+    Standard: Ora standard a Europei Centrale,
+    Daylight: Ora de vară a Europei Centrale
+  },
+  Europe/Saratov: {
+    Generic: Ora din Saratov,
+    Standard: Ora standard din Saratov,
+    Daylight: Ora de vară din Saratov
+  },
+  Europe/Simferopol: {
+    Generic: Ora Moscovei,
+    Standard: Ora standard a Moscovei,
+    Daylight: Ora de vară a Moscovei
+  },
+  Europe/Skopje: {
+    Generic: Ora Europei Centrale,
+    Standard: Ora standard a Europei Centrale,
+    Daylight: Ora de vară a Europei Centrale
+  },
+  Europe/Sofia: {
+    Generic: Ora Europei de Est,
+    Standard: Ora standard a Europei de Est,
+    Daylight: Ora de vară a Europei de Est
+  },
+  Europe/Stockholm: {
+    Generic: Ora Europei Centrale,
+    Standard: Ora standard a Europei Centrale,
+    Daylight: Ora de vară a Europei Centrale
+  },
+  Europe/Tallinn: {
+    Generic: Ora Europei de Est,
+    Standard: Ora standard a Europei de Est,
+    Daylight: Ora de vară a Europei de Est
+  },
+  Europe/Tirane: {
+    Generic: Ora Europei Centrale,
+    Standard: Ora standard a Europei Centrale,
+    Daylight: Ora de vară a Europei Centrale
+  },
+  Europe/Tiraspol: {
+    Generic: Ora Europei de Est,
+    Standard: Ora standard a Europei de Est,
+    Daylight: Ora de vară a Europei de Est
+  },
+  Europe/Ulyanovsk: {
+    Generic: Ora din Ulianovsk,
+    Standard: Ora standard din Ulianovsk,
+    Daylight: Ora de vară din Ulianovsk
+  },
+  Europe/Uzhgorod: {
+    Generic: Ora Europei de Est,
+    Standard: Ora standard a Europei de Est,
+    Daylight: Ora de vară a Europei de Est
+  },
+  Europe/Vaduz: {
+    Generic: Ora Europei Centrale,
+    Standard: Ora standard a Europei Centrale,
+    Daylight: Ora de vară a Europei Centrale
+  },
+  Europe/Vatican: {
+    Generic: Ora Europei Centrale,
+    Standard: Ora standard a Europei Centrale,
+    Daylight: Ora de vară a Europei Centrale
+  },
+  Europe/Vienna: {
+    Generic: Ora Europei Centrale,
+    Standard: Ora standard a Europei Centrale,
+    Daylight: Ora de vară a Europei Centrale
+  },
+  Europe/Vilnius: {
+    Generic: Ora Europei de Est,
+    Standard: Ora standard a Europei de Est,
+    Daylight: Ora de vară a Europei de Est
+  },
+  Europe/Volgograd: {
+    Generic: Ora din Volgograd,
+    Standard: Ora standard din Volgograd,
+    Daylight: Ora de vară din Volgograd
+  },
+  Europe/Warsaw: {
+    Generic: Ora Europei Centrale,
+    Standard: Ora standard a Europei Centrale,
+    Daylight: Ora de vară a Europei Centrale
+  },
+  Europe/Zagreb: {
+    Generic: Ora Europei Centrale,
+    Standard: Ora standard a Europei Centrale,
+    Daylight: Ora de vară a Europei Centrale
+  },
+  Europe/Zaporozhye: {
+    Generic: Ora Europei de Est,
+    Standard: Ora standard a Europei de Est,
+    Daylight: Ora de vară a Europei de Est
+  },
+  Europe/Zurich: {
+    Generic: Ora Europei Centrale,
+    Standard: Ora standard a Europei Centrale,
+    Daylight: Ora de vară a Europei Centrale
+  },
+  GB: {
+    Generic: Ora din Regatul Unit,
+    Standard: Ora de Greenwhich,
+    Daylight: Ora de vară britanică
+  },
+  GB-Eire: {
+    Generic: Ora din Regatul Unit,
+    Standard: Ora de Greenwhich,
+    Daylight: Ora de vară britanică
   },
   GMT: {
     Generic: Ora de Greenwhich,
@@ -2794,120 +2479,135 @@
     Standard: Ora de Greenwhich,
     Daylight: Ora de Greenwhich
   },
-  Etc/UCT: {
-    Generic: Timpul universal coordonat,
-    Standard: Timpul universal coordonat,
-    Daylight: Timpul universal coordonat
+  HST: {
+    Generic: Timpul universal coordonat -10,
+    Standard: Timpul universal coordonat -10,
+    Daylight: Timpul universal coordonat -10
   },
-  Etc/Universal: {
-    Generic: Timpul universal coordonat,
-    Standard: Timpul universal coordonat,
-    Daylight: Timpul universal coordonat
+  Hongkong: {
+    Generic: Ora din Hong Kong,
+    Standard: Ora standard din Hong Kong,
+    Daylight: Ora de vară din Hong Kong
   },
-  Etc/Zulu: {
-    Generic: Timpul universal coordonat,
-    Standard: Timpul universal coordonat,
-    Daylight: Timpul universal coordonat
+  Iceland: {
+    Generic: Ora de Greenwhich,
+    Standard: Ora de Greenwhich,
+    Daylight: Ora de Greenwhich
   },
-  UCT: {
-    Generic: Timpul universal coordonat,
-    Standard: Timpul universal coordonat,
-    Daylight: Timpul universal coordonat
+  Indian/Antananarivo: {
+    Generic: Ora Africii Orientale,
+    Standard: Ora Africii Orientale,
+    Daylight: Ora Africii Orientale
   },
-  UTC: {
-    Generic: Timpul universal coordonat,
-    Standard: Timpul universal coordonat,
-    Daylight: Timpul universal coordonat
+  Indian/Chagos: {
+    Generic: Ora Oceanului Indian,
+    Standard: Ora Oceanului Indian,
+    Daylight: Ora Oceanului Indian
   },
-  Universal: {
-    Generic: Timpul universal coordonat,
-    Standard: Timpul universal coordonat,
-    Daylight: Timpul universal coordonat
+  Indian/Christmas: {
+    Generic: Ora din Insula Christmas,
+    Standard: Ora din Insula Christmas,
+    Daylight: Ora din Insula Christmas
   },
-  Zulu: {
-    Generic: Timpul universal coordonat,
-    Standard: Timpul universal coordonat,
-    Daylight: Timpul universal coordonat
+  Indian/Cocos: {
+    Generic: Ora Insulelor Cocos,
+    Standard: Ora Insulelor Cocos,
+    Daylight: Ora Insulelor Cocos
   },
-  Atlantic/Jan_Mayen: {
-    Generic: Ora Europei Centrale,
-    Standard: Ora standard a Europei Centrale,
-    Daylight: Ora de vară a Europei Centrale
+  Indian/Comoro: {
+    Generic: Ora Africii Orientale,
+    Standard: Ora Africii Orientale,
+    Daylight: Ora Africii Orientale
+  },
+  Indian/Kerguelen: {
+    Generic: Ora din Teritoriile Australe și Antarctice Franceze,
+    Standard: Ora din Teritoriile Australe și Antarctice Franceze,
+    Daylight: Ora din Teritoriile Australe și Antarctice Franceze
+  },
+  Indian/Mahe: {
+    Generic: Ora din Seychelles,
+    Standard: Ora din Seychelles,
+    Daylight: Ora din Seychelles
+  },
+  Indian/Maldives: {
+    Generic: Ora din Maldive,
+    Standard: Ora din Maldive,
+    Daylight: Ora din Maldive
+  },
+  Indian/Mauritius: {
+    Generic: Ora din Mauritius,
+    Standard: Ora standard din Mauritius,
+    Daylight: Ora de vară din Mauritius
+  },
+  Indian/Mayotte: {
+    Generic: Ora Africii Orientale,
+    Standard: Ora Africii Orientale,
+    Daylight: Ora Africii Orientale
+  },
+  Indian/Reunion: {
+    Generic: Ora din Reunion,
+    Standard: Ora din Reunion,
+    Daylight: Ora din Reunion
+  },
+  Iran: {
+    Generic: Ora Iranului,
+    Standard: Ora standard a Iranului,
+    Daylight: Ora de vară a Iranului
+  },
+  Israel: {
+    Generic: Ora Israelului,
+    Standard: Ora standard a Israelului,
+    Daylight: Ora de vară a Israelului
+  },
+  Jamaica: {
+    Generic: Ora orientală nord-americană,
+    Standard: Ora standard orientală nord-americană,
+    Daylight: Ora de vară orientală nord-americană
+  },
+  Japan: {
+    Generic: Ora Japoniei,
+    Standard: Ora standard a Japoniei,
+    Daylight: Ora de vară a Japoniei
+  },
+  Kwajalein: {
+    Generic: Ora Insulelor Marshall,
+    Standard: Ora Insulelor Marshall,
+    Daylight: Ora Insulelor Marshall
+  },
+  Libya: {
+    Generic: Ora Europei de Est,
+    Standard: Ora standard a Europei de Est,
+    Daylight: Ora de vară a Europei de Est
   },
   MET: {
     Generic: Ora Europei Centrale,
     Standard: Ora standard a Europei Centrale,
     Daylight: Ora de vară a Europei Centrale
   },
-  EET: {
-    Generic: Ora Europei de Est,
-    Standard: Ora standard a Europei de Est,
-    Daylight: Ora de vară a Europei de Est
+  MST: {
+    Generic: Timpul universal coordonat -7,
+    Standard: Timpul universal coordonat -7,
+    Daylight: Timpul universal coordonat -7
   },
-  Europe/Tiraspol: {
-    Generic: Ora Europei de Est,
-    Standard: Ora standard a Europei de Est,
-    Daylight: Ora de vară a Europei de Est
+  MST7MDT: {
+    Generic: Ora zonei montane nord-americane,
+    Standard: Ora standard în zona montană nord-americană,
+    Daylight: Ora de vară în zona montană nord-americană
   },
-  Eire: {
-    Generic: Ora din Irlanda,
-    Standard: Ora de Greenwhich,
-    Daylight: Ora de vară a Irlandei
+  Mexico/BajaNorte: {
+    Generic: Ora zonei Pacific nord-americane,
+    Standard: Ora standard în zona Pacific nord-americană,
+    Daylight: Ora de vară în zona Pacific nord-americană
   },
-  Asia/Istanbul: {
-    Generic: Ora din Turcia,
-    Standard: Ora standard din Turcia,
-    Daylight: Ora de vară din Turcia
+  Mexico/BajaSur: {
+    Generic: Ora zonei Pacific mexicane,
+    Standard: Ora standard a zonei Pacific mexicane,
+    Daylight: Ora de vară a zonei Pacific mexicane
   },
-  Turkey: {
-    Generic: Ora din Turcia,
-    Standard: Ora standard din Turcia,
-    Daylight: Ora de vară din Turcia
-  },
-  Europe/Kyiv: {
-    Generic: Ora Europei de Est,
-    Standard: Ora standard a Europei de Est,
-    Daylight: Ora de vară a Europei de Est
-  },
-  Portugal: {
-    Generic: Ora Europei de Vest,
-    Standard: Ora standard a Europei de Vest,
-    Daylight: Ora de vară a Europei de Vest
-  },
-  Europe/Belfast: {
-    Generic: Ora din Regatul Unit,
-    Standard: Ora de Greenwhich,
-    Daylight: Ora de vară britanică
-  },
-  GB: {
-    Generic: Ora din Regatul Unit,
-    Standard: Ora de Greenwhich,
-    Daylight: Ora de vară britanică
-  },
-  GB-Eire: {
-    Generic: Ora din Regatul Unit,
-    Standard: Ora de Greenwhich,
-    Daylight: Ora de vară britanică
-  },
-  W-SU: {
-    Generic: Ora din Moscova,
-    Standard: Ora standard din Moscova,
-    Daylight: Ora de vară din Moscova
-  },
-  CET: {
-    Generic: Ora Europei Centrale,
-    Standard: Ora standard a Europei Centrale,
-    Daylight: Ora de vară a Europei Centrale
-  },
-  Poland: {
-    Generic: Ora Europei Centrale,
-    Standard: Ora standard a Europei Centrale,
-    Daylight: Ora de vară a Europei Centrale
-  },
-  Antarctica/South_Pole: {
-    Generic: Ora Noii Zeelande,
-    Standard: Ora standard a Noii Zeelande,
-    Daylight: Ora de vară a Noii Zeelande
+  Mexico/General: {
+    Generic: Ora centrală nord-americană,
+    Standard: Ora standard centrală nord-americană,
+    Daylight: Ora de vară centrală nord-americană
   },
   NZ: {
     Generic: Ora Noii Zeelande,
@@ -2919,17 +2619,102 @@
     Standard: Ora standard din Chatham,
     Daylight: Ora de vară din Chatham
   },
-  Chile/EasterIsland: {
+  Navajo: {
+    Generic: Ora zonei montane nord-americane,
+    Standard: Ora standard în zona montană nord-americană,
+    Daylight: Ora de vară în zona montană nord-americană
+  },
+  PRC: {
+    Generic: Ora Chinei,
+    Standard: Ora standard a Chinei,
+    Daylight: Ora de vară a Chinei
+  },
+  PST8PDT: {
+    Generic: Ora zonei Pacific nord-americane,
+    Standard: Ora standard în zona Pacific nord-americană,
+    Daylight: Ora de vară în zona Pacific nord-americană
+  },
+  Pacific/Apia: {
+    Generic: Ora din Apia,
+    Standard: Ora standard din Apia,
+    Daylight: Ora de vară din Apia
+  },
+  Pacific/Auckland: {
+    Generic: Ora Noii Zeelande,
+    Standard: Ora standard a Noii Zeelande,
+    Daylight: Ora de vară a Noii Zeelande
+  },
+  Pacific/Bougainville: {
+    Generic: Ora din Papua Noua Guinee,
+    Standard: Ora din Papua Noua Guinee,
+    Daylight: Ora din Papua Noua Guinee
+  },
+  Pacific/Chatham: {
+    Generic: Ora din Chatham,
+    Standard: Ora standard din Chatham,
+    Daylight: Ora de vară din Chatham
+  },
+  Pacific/Chuuk: {
+    Generic: Ora din Chuuk,
+    Standard: Ora din Chuuk,
+    Daylight: Ora din Chuuk
+  },
+  Pacific/Easter: {
     Generic: Ora din Insula Paștelui,
     Standard: Ora standard din Insula Paștelui,
     Daylight: Ora de vară din Insula Paștelui
   },
-  Pacific/Pohnpei: {
-    Generic: Ora din Ponape,
-    Standard: Ora din Ponape,
-    Daylight: Ora din Ponape
+  Pacific/Efate: {
+    Generic: Ora din Vanuatu,
+    Standard: Ora standard din Vanuatu,
+    Daylight: Ora de vară din Vanuatu
   },
-  US/Hawaii: {
+  Pacific/Enderbury: {
+    Generic: Ora Insulelor Phoenix,
+    Standard: Ora Insulelor Phoenix,
+    Daylight: Ora Insulelor Phoenix
+  },
+  Pacific/Fakaofo: {
+    Generic: Ora din Tokelau,
+    Standard: Ora din Tokelau,
+    Daylight: Ora din Tokelau
+  },
+  Pacific/Fiji: {
+    Generic: Ora din Fiji,
+    Standard: Ora standard din Fiji,
+    Daylight: Ora de vară din Fiji
+  },
+  Pacific/Funafuti: {
+    Generic: Ora din Tuvalu,
+    Standard: Ora din Tuvalu,
+    Daylight: Ora din Tuvalu
+  },
+  Pacific/Galapagos: {
+    Generic: Ora din Galapagos,
+    Standard: Ora din Galapagos,
+    Daylight: Ora din Galapagos
+  },
+  Pacific/Gambier: {
+    Generic: Ora din Gambier,
+    Standard: Ora din Gambier,
+    Daylight: Ora din Gambier
+  },
+  Pacific/Guadalcanal: {
+    Generic: Ora Insulelor Solomon,
+    Standard: Ora Insulelor Solomon,
+    Daylight: Ora Insulelor Solomon
+  },
+  Pacific/Guam: {
+    Generic: Ora din Chamorro,
+    Standard: Ora din Chamorro,
+    Daylight: Ora din Chamorro
+  },
+  Pacific/Honolulu: {
+    Generic: Ora din Hawaii-Aleutine,
+    Standard: Ora standard din Hawaii-Aleutine,
+    Daylight: Ora de vară din Hawaii-Aleutine
+  },
+  Pacific/Johnston: {
     Generic: Ora din Hawaii-Aleutine,
     Standard: Ora standard din Hawaii-Aleutine,
     Daylight: Ora de vară din Hawaii-Aleutine
@@ -2939,39 +2724,254 @@
     Standard: Ora Insulelor Phoenix,
     Daylight: Ora Insulelor Phoenix
   },
-  Kwajalein: {
+  Pacific/Kiritimati: {
+    Generic: Ora din Insulele Line,
+    Standard: Ora din Insulele Line,
+    Daylight: Ora din Insulele Line
+  },
+  Pacific/Kosrae: {
+    Generic: Ora din Kosrae,
+    Standard: Ora din Kosrae,
+    Daylight: Ora din Kosrae
+  },
+  Pacific/Kwajalein: {
     Generic: Ora Insulelor Marshall,
     Standard: Ora Insulelor Marshall,
     Daylight: Ora Insulelor Marshall
+  },
+  Pacific/Majuro: {
+    Generic: Ora Insulelor Marshall,
+    Standard: Ora Insulelor Marshall,
+    Daylight: Ora Insulelor Marshall
+  },
+  Pacific/Marquesas: {
+    Generic: Ora Insulelor Marchize,
+    Standard: Ora Insulelor Marchize,
+    Daylight: Ora Insulelor Marchize
+  },
+  Pacific/Midway: {
+    Generic: Ora din Samoa,
+    Standard: Ora standard din Samoa,
+    Daylight: Ora de vară din Samoa
+  },
+  Pacific/Nauru: {
+    Generic: Ora din Nauru,
+    Standard: Ora din Nauru,
+    Daylight: Ora din Nauru
+  },
+  Pacific/Niue: {
+    Generic: Ora din Niue,
+    Standard: Ora din Niue,
+    Daylight: Ora din Niue
+  },
+  Pacific/Norfolk: {
+    Generic: Ora Insulei Norfolk,
+    Standard: Ora standard a Insulei Norfolk,
+    Daylight: Ora de vară a Insulei Norfolk
+  },
+  Pacific/Noumea: {
+    Generic: Ora Noii Caledonii,
+    Standard: Ora standard a Noii Caledonii,
+    Daylight: Ora de vară a Noii Caledonii
+  },
+  Pacific/Pago_Pago: {
+    Generic: Ora din Samoa,
+    Standard: Ora standard din Samoa,
+    Daylight: Ora de vară din Samoa
+  },
+  Pacific/Palau: {
+    Generic: Ora din Palau,
+    Standard: Ora din Palau,
+    Daylight: Ora din Palau
+  },
+  Pacific/Pitcairn: {
+    Generic: Ora din Pitcairn,
+    Standard: Ora din Pitcairn,
+    Daylight: Ora din Pitcairn
+  },
+  Pacific/Pohnpei: {
+    Generic: Ora din Ponape,
+    Standard: Ora din Ponape,
+    Daylight: Ora din Ponape
+  },
+  Pacific/Ponape: {
+    Generic: Ora din Ponape,
+    Standard: Ora din Ponape,
+    Daylight: Ora din Ponape
+  },
+  Pacific/Port_Moresby: {
+    Generic: Ora din Papua Noua Guinee,
+    Standard: Ora din Papua Noua Guinee,
+    Daylight: Ora din Papua Noua Guinee
+  },
+  Pacific/Rarotonga: {
+    Generic: Ora Insulelor Cook,
+    Standard: Ora standard a Insulelor Cook,
+    Daylight: Ora de vară a Insulelor Cook
+  },
+  Pacific/Saipan: {
+    Generic: Ora din Chamorro,
+    Standard: Ora din Chamorro,
+    Daylight: Ora din Chamorro
   },
   Pacific/Samoa: {
     Generic: Ora din Samoa,
     Standard: Ora standard din Samoa,
     Daylight: Ora de vară din Samoa
   },
-  US/Samoa: {
-    Generic: Ora din Samoa,
-    Standard: Ora standard din Samoa,
-    Daylight: Ora de vară din Samoa
+  Pacific/Tahiti: {
+    Generic: Ora din Tahiti,
+    Standard: Ora din Tahiti,
+    Daylight: Ora din Tahiti
   },
-  Pacific/Chuuk: {
+  Pacific/Tarawa: {
+    Generic: Ora Insulelor Gilbert,
+    Standard: Ora Insulelor Gilbert,
+    Daylight: Ora Insulelor Gilbert
+  },
+  Pacific/Tongatapu: {
+    Generic: Ora din Tonga,
+    Standard: Ora standard din Tonga,
+    Daylight: Ora de vară din Tonga
+  },
+  Pacific/Truk: {
     Generic: Ora din Chuuk,
     Standard: Ora din Chuuk,
     Daylight: Ora din Chuuk
+  },
+  Pacific/Wake: {
+    Generic: Ora Insulei Wake,
+    Standard: Ora Insulei Wake,
+    Daylight: Ora Insulei Wake
+  },
+  Pacific/Wallis: {
+    Generic: Ora din Wallis și Futuna,
+    Standard: Ora din Wallis și Futuna,
+    Daylight: Ora din Wallis și Futuna
   },
   Pacific/Yap: {
     Generic: Ora din Chuuk,
     Standard: Ora din Chuuk,
     Daylight: Ora din Chuuk
   },
-  America/Fort_Wayne: {
+  Poland: {
+    Generic: Ora Europei Centrale,
+    Standard: Ora standard a Europei Centrale,
+    Daylight: Ora de vară a Europei Centrale
+  },
+  Portugal: {
+    Generic: Ora Europei de Vest,
+    Standard: Ora standard a Europei de Vest,
+    Daylight: Ora de vară a Europei de Vest
+  },
+  ROC: {
+    Generic: Ora din Taipei,
+    Standard: Ora standard din Taipei,
+    Daylight: Ora de vară din Taipei
+  },
+  ROK: {
+    Generic: Ora Coreei,
+    Standard: Ora standard a Coreei,
+    Daylight: Ora de vară a Coreei
+  },
+  Singapore: {
+    Generic: Ora din Singapore,
+    Standard: Ora din Singapore,
+    Daylight: Ora din Singapore
+  },
+  Turkey: {
+    Generic: Ora din Turcia,
+    Standard: Ora standard din Turcia,
+    Daylight: Ora de vară din Turcia
+  },
+  UCT: {
+    Generic: Timpul universal coordonat,
+    Standard: Timpul universal coordonat,
+    Daylight: Timpul universal coordonat
+  },
+  US/Alaska: {
+    Generic: Ora din Alaska,
+    Standard: Ora standard din Alaska,
+    Daylight: Ora de vară din Alaska
+  },
+  US/Aleutian: {
+    Generic: Ora din Hawaii-Aleutine,
+    Standard: Ora standard din Hawaii-Aleutine,
+    Daylight: Ora de vară din Hawaii-Aleutine
+  },
+  US/Arizona: {
+    Generic: Ora zonei montane nord-americane,
+    Standard: Ora standard în zona montană nord-americană,
+    Daylight: Ora de vară în zona montană nord-americană
+  },
+  US/Central: {
+    Generic: Ora centrală nord-americană,
+    Standard: Ora standard centrală nord-americană,
+    Daylight: Ora de vară centrală nord-americană
+  },
+  US/East-Indiana: {
     Generic: Ora orientală nord-americană,
     Standard: Ora standard orientală nord-americană,
     Daylight: Ora de vară orientală nord-americană
   },
-  Antarctica/Troll: {
-    Generic: Ora de Greenwhich,
-    Standard: Ora de Greenwhich,
-    Daylight: Ora de Greenwhich
+  US/Eastern: {
+    Generic: Ora orientală nord-americană,
+    Standard: Ora standard orientală nord-americană,
+    Daylight: Ora de vară orientală nord-americană
+  },
+  US/Hawaii: {
+    Generic: Ora din Hawaii-Aleutine,
+    Standard: Ora standard din Hawaii-Aleutine,
+    Daylight: Ora de vară din Hawaii-Aleutine
+  },
+  US/Indiana-Starke: {
+    Generic: Ora centrală nord-americană,
+    Standard: Ora standard centrală nord-americană,
+    Daylight: Ora de vară centrală nord-americană
+  },
+  US/Michigan: {
+    Generic: Ora orientală nord-americană,
+    Standard: Ora standard orientală nord-americană,
+    Daylight: Ora de vară orientală nord-americană
+  },
+  US/Mountain: {
+    Generic: Ora zonei montane nord-americane,
+    Standard: Ora standard în zona montană nord-americană,
+    Daylight: Ora de vară în zona montană nord-americană
+  },
+  US/Pacific: {
+    Generic: Ora zonei Pacific nord-americane,
+    Standard: Ora standard în zona Pacific nord-americană,
+    Daylight: Ora de vară în zona Pacific nord-americană
+  },
+  US/Samoa: {
+    Generic: Ora din Samoa,
+    Standard: Ora standard din Samoa,
+    Daylight: Ora de vară din Samoa
+  },
+  UTC: {
+    Generic: Timpul universal coordonat,
+    Standard: Timpul universal coordonat,
+    Daylight: Timpul universal coordonat
+  },
+  Universal: {
+    Generic: Timpul universal coordonat,
+    Standard: Timpul universal coordonat,
+    Daylight: Timpul universal coordonat
+  },
+  W-SU: {
+    Generic: Ora din Moscova,
+    Standard: Ora standard din Moscova,
+    Daylight: Ora de vară din Moscova
+  },
+  WET: {
+    Generic: Ora Europei de Vest,
+    Standard: Ora standard a Europei de Vest,
+    Daylight: Ora de vară a Europei de Vest
+  },
+  Zulu: {
+    Generic: Timpul universal coordonat,
+    Standard: Timpul universal coordonat,
+    Daylight: Timpul universal coordonat
   }
 }

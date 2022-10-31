@@ -1,115 +1,330 @@
 ﻿{
-  Australia/Darwin: {
-    Generic: středoaustralský čas,
-    Standard: středoaustralský standardní čas,
-    Daylight: středoaustralský letní čas
+  Africa/Abidjan: {
+    Generic: greenwichský střední čas,
+    Standard: greenwichský střední čas,
+    Daylight: greenwichský střední čas
   },
-  Australia/Sydney: {
-    Generic: východoaustralský čas,
-    Standard: východoaustralský standardní čas,
-    Daylight: východoaustralský letní čas
+  Africa/Accra: {
+    Generic: greenwichský střední čas,
+    Standard: greenwichský střední čas,
+    Daylight: greenwichský střední čas
   },
-  Australia/Melbourne: {
-    Generic: východoaustralský čas,
-    Standard: východoaustralský standardní čas,
-    Daylight: východoaustralský letní čas
+  Africa/Addis_Ababa: {
+    Generic: východoafrický čas,
+    Standard: východoafrický čas,
+    Daylight: východoafrický čas
   },
-  Asia/Kabul: {
-    Generic: afghánský čas,
-    Standard: afghánský čas,
-    Daylight: afghánský čas
+  Africa/Algiers: {
+    Generic: středoevropský čas,
+    Standard: středoevropský standardní čas,
+    Daylight: středoevropský letní čas
   },
-  America/Anchorage: {
-    Generic: aljašský čas,
-    Standard: aljašský standardní čas,
-    Daylight: aljašský letní čas
+  Africa/Asmara: {
+    Generic: východoafrický čas,
+    Standard: východoafrický čas,
+    Daylight: východoafrický čas
   },
-  America/Juneau: {
-    Generic: aljašský čas,
-    Standard: aljašský standardní čas,
-    Daylight: aljašský letní čas
+  Africa/Asmera: {
+    Generic: východoafrický čas,
+    Standard: východoafrický čas,
+    Daylight: východoafrický čas
   },
-  America/Metlakatla: {
-    Generic: aljašský čas,
-    Standard: aljašský standardní čas,
-    Daylight: aljašský letní čas
+  Africa/Bamako: {
+    Generic: greenwichský střední čas,
+    Standard: greenwichský střední čas,
+    Daylight: greenwichský střední čas
   },
-  America/Nome: {
-    Generic: aljašský čas,
-    Standard: aljašský standardní čas,
-    Daylight: aljašský letní čas
+  Africa/Bangui: {
+    Generic: západoafrický čas,
+    Standard: západoafrický standardní čas,
+    Daylight: západoafrický letní čas
   },
-  America/Sitka: {
-    Generic: aljašský čas,
-    Standard: aljašský standardní čas,
-    Daylight: aljašský letní čas
+  Africa/Banjul: {
+    Generic: greenwichský střední čas,
+    Standard: greenwichský střední čas,
+    Daylight: greenwichský střední čas
   },
-  America/Yakutat: {
-    Generic: aljašský čas,
-    Standard: aljašský standardní čas,
-    Daylight: aljašský letní čas
+  Africa/Bissau: {
+    Generic: greenwichský střední čas,
+    Standard: greenwichský střední čas,
+    Daylight: greenwichský střední čas
+  },
+  Africa/Blantyre: {
+    Generic: středoafrický čas,
+    Standard: středoafrický čas,
+    Daylight: středoafrický čas
+  },
+  Africa/Brazzaville: {
+    Generic: západoafrický čas,
+    Standard: západoafrický standardní čas,
+    Daylight: západoafrický letní čas
+  },
+  Africa/Bujumbura: {
+    Generic: středoafrický čas,
+    Standard: středoafrický čas,
+    Daylight: středoafrický čas
+  },
+  Africa/Cairo: {
+    Generic: východoevropský čas,
+    Standard: východoevropský standardní čas,
+    Daylight: východoevropský letní čas
+  },
+  Africa/Casablanca: {
+    Generic: západoevropský čas,
+    Standard: západoevropský standardní čas,
+    Daylight: západoevropský letní čas
+  },
+  Africa/Ceuta: {
+    Generic: středoevropský čas,
+    Standard: středoevropský standardní čas,
+    Daylight: středoevropský letní čas
+  },
+  Africa/Conakry: {
+    Generic: greenwichský střední čas,
+    Standard: greenwichský střední čas,
+    Daylight: greenwichský střední čas
+  },
+  Africa/Dakar: {
+    Generic: greenwichský střední čas,
+    Standard: greenwichský střední čas,
+    Daylight: greenwichský střední čas
+  },
+  Africa/Dar_es_Salaam: {
+    Generic: východoafrický čas,
+    Standard: východoafrický čas,
+    Daylight: východoafrický čas
+  },
+  Africa/Djibouti: {
+    Generic: východoafrický čas,
+    Standard: východoafrický čas,
+    Daylight: východoafrický čas
+  },
+  Africa/Douala: {
+    Generic: západoafrický čas,
+    Standard: západoafrický standardní čas,
+    Daylight: západoafrický letní čas
+  },
+  Africa/El_Aaiun: {
+    Generic: západoevropský čas,
+    Standard: západoevropský standardní čas,
+    Daylight: západoevropský letní čas
+  },
+  Africa/Freetown: {
+    Generic: greenwichský střední čas,
+    Standard: greenwichský střední čas,
+    Daylight: greenwichský střední čas
+  },
+  Africa/Gaborone: {
+    Generic: středoafrický čas,
+    Standard: středoafrický čas,
+    Daylight: středoafrický čas
+  },
+  Africa/Harare: {
+    Generic: středoafrický čas,
+    Standard: středoafrický čas,
+    Daylight: středoafrický čas
+  },
+  Africa/Johannesburg: {
+    Generic: jihoafrický čas,
+    Standard: jihoafrický čas,
+    Daylight: jihoafrický čas
+  },
+  Africa/Juba: {
+    Generic: středoafrický čas,
+    Standard: středoafrický čas,
+    Daylight: středoafrický čas
+  },
+  Africa/Kampala: {
+    Generic: východoafrický čas,
+    Standard: východoafrický čas,
+    Daylight: východoafrický čas
+  },
+  Africa/Khartoum: {
+    Generic: středoafrický čas,
+    Standard: středoafrický čas,
+    Daylight: středoafrický čas
+  },
+  Africa/Kigali: {
+    Generic: středoafrický čas,
+    Standard: středoafrický čas,
+    Daylight: středoafrický čas
+  },
+  Africa/Kinshasa: {
+    Generic: západoafrický čas,
+    Standard: západoafrický standardní čas,
+    Daylight: západoafrický letní čas
+  },
+  Africa/Lagos: {
+    Generic: západoafrický čas,
+    Standard: západoafrický standardní čas,
+    Daylight: západoafrický letní čas
+  },
+  Africa/Libreville: {
+    Generic: západoafrický čas,
+    Standard: západoafrický standardní čas,
+    Daylight: západoafrický letní čas
+  },
+  Africa/Lome: {
+    Generic: greenwichský střední čas,
+    Standard: greenwichský střední čas,
+    Daylight: greenwichský střední čas
+  },
+  Africa/Luanda: {
+    Generic: západoafrický čas,
+    Standard: západoafrický standardní čas,
+    Daylight: západoafrický letní čas
+  },
+  Africa/Lubumbashi: {
+    Generic: středoafrický čas,
+    Standard: středoafrický čas,
+    Daylight: středoafrický čas
+  },
+  Africa/Lusaka: {
+    Generic: středoafrický čas,
+    Standard: středoafrický čas,
+    Daylight: středoafrický čas
+  },
+  Africa/Malabo: {
+    Generic: západoafrický čas,
+    Standard: západoafrický standardní čas,
+    Daylight: západoafrický letní čas
+  },
+  Africa/Maputo: {
+    Generic: středoafrický čas,
+    Standard: středoafrický čas,
+    Daylight: středoafrický čas
+  },
+  Africa/Maseru: {
+    Generic: jihoafrický čas,
+    Standard: jihoafrický čas,
+    Daylight: jihoafrický čas
+  },
+  Africa/Mbabane: {
+    Generic: jihoafrický čas,
+    Standard: jihoafrický čas,
+    Daylight: jihoafrický čas
+  },
+  Africa/Mogadishu: {
+    Generic: východoafrický čas,
+    Standard: východoafrický čas,
+    Daylight: východoafrický čas
+  },
+  Africa/Monrovia: {
+    Generic: greenwichský střední čas,
+    Standard: greenwichský střední čas,
+    Daylight: greenwichský střední čas
+  },
+  Africa/Nairobi: {
+    Generic: východoafrický čas,
+    Standard: východoafrický čas,
+    Daylight: východoafrický čas
+  },
+  Africa/Ndjamena: {
+    Generic: západoafrický čas,
+    Standard: západoafrický standardní čas,
+    Daylight: západoafrický letní čas
+  },
+  Africa/Niamey: {
+    Generic: západoafrický čas,
+    Standard: západoafrický standardní čas,
+    Daylight: západoafrický letní čas
+  },
+  Africa/Nouakchott: {
+    Generic: greenwichský střední čas,
+    Standard: greenwichský střední čas,
+    Daylight: greenwichský střední čas
+  },
+  Africa/Ouagadougou: {
+    Generic: greenwichský střední čas,
+    Standard: greenwichský střední čas,
+    Daylight: greenwichský střední čas
+  },
+  Africa/Porto-Novo: {
+    Generic: západoafrický čas,
+    Standard: západoafrický standardní čas,
+    Daylight: západoafrický letní čas
+  },
+  Africa/Sao_Tome: {
+    Generic: greenwichský střední čas,
+    Standard: greenwichský střední čas,
+    Daylight: greenwichský střední čas
+  },
+  Africa/Timbuktu: {
+    Generic: greenwichský střední čas,
+    Standard: greenwichský střední čas,
+    Daylight: greenwichský střední čas
+  },
+  Africa/Tripoli: {
+    Generic: východoevropský čas,
+    Standard: východoevropský standardní čas,
+    Daylight: východoevropský letní čas
+  },
+  Africa/Tunis: {
+    Generic: středoevropský čas,
+    Standard: středoevropský standardní čas,
+    Daylight: středoevropský letní čas
+  },
+  Africa/Windhoek: {
+    Generic: středoafrický čas,
+    Standard: středoafrický čas,
+    Daylight: středoafrický čas
   },
   America/Adak: {
     Generic: havajsko-aleutský čas,
     Standard: havajsko-aleutský standardní čas,
     Daylight: havajsko-aleutský letní čas
   },
-  Asia/Barnaul: {
-    Generic: časové pásmo Barnaul,
-    Standard: Barnaul (+0),
-    Daylight: Barnaul (+1)
+  America/Anchorage: {
+    Generic: aljašský čas,
+    Standard: aljašský standardní čas,
+    Daylight: aljašský letní čas
   },
-  Asia/Riyadh: {
-    Generic: arabský čas,
-    Standard: arabský standardní čas,
-    Daylight: arabský letní čas
+  America/Anguilla: {
+    Generic: atlantický čas,
+    Standard: atlantický standardní čas,
+    Daylight: atlantický letní čas
   },
-  Asia/Bahrain: {
-    Generic: arabský čas,
-    Standard: arabský standardní čas,
-    Daylight: arabský letní čas
+  America/Antigua: {
+    Generic: atlantický čas,
+    Standard: atlantický standardní čas,
+    Daylight: atlantický letní čas
   },
-  Asia/Kuwait: {
-    Generic: arabský čas,
-    Standard: arabský standardní čas,
-    Daylight: arabský letní čas
+  America/Araguaina: {
+    Generic: brasilijský čas,
+    Standard: brasilijský standardní čas,
+    Daylight: brasilijský letní čas
   },
-  Asia/Qatar: {
-    Generic: arabský čas,
-    Standard: arabský standardní čas,
-    Daylight: arabský letní čas
+  America/Argentina/Buenos_Aires: {
+    Generic: argentinský čas,
+    Standard: argentinský standardní čas,
+    Daylight: argentinský letní čas
   },
-  Asia/Aden: {
-    Generic: arabský čas,
-    Standard: arabský standardní čas,
-    Daylight: arabský letní čas
+  America/Argentina/Catamarca: {
+    Generic: argentinský čas,
+    Standard: argentinský standardní čas,
+    Daylight: argentinský letní čas
   },
-  Asia/Dubai: {
-    Generic: standardní čas Perského zálivu,
-    Standard: standardní čas Perského zálivu,
-    Daylight: standardní čas Perského zálivu
+  America/Argentina/ComodRivadavia: {
+    Generic: argentinský čas,
+    Standard: argentinský standardní čas,
+    Daylight: argentinský letní čas
   },
-  Asia/Muscat: {
-    Generic: standardní čas Perského zálivu,
-    Standard: standardní čas Perského zálivu,
-    Daylight: standardní čas Perského zálivu
+  America/Argentina/Cordoba: {
+    Generic: argentinský čas,
+    Standard: argentinský standardní čas,
+    Daylight: argentinský letní čas
   },
-  Etc/GMT-4: {
-    Generic: koordinovaný světový čas +4,
-    Standard: koordinovaný světový čas +4,
-    Daylight: koordinovaný světový čas +4
-  },
-  Asia/Baghdad: {
-    Generic: arabský čas,
-    Standard: arabský standardní čas,
-    Daylight: arabský letní čas
-  },
-  America/Buenos_Aires: {
+  America/Argentina/Jujuy: {
     Generic: argentinský čas,
     Standard: argentinský standardní čas,
     Daylight: argentinský letní čas
   },
   America/Argentina/La_Rioja: {
+    Generic: argentinský čas,
+    Standard: argentinský standardní čas,
+    Daylight: argentinský letní čas
+  },
+  America/Argentina/Mendoza: {
     Generic: argentinský čas,
     Standard: argentinský standardní čas,
     Daylight: argentinský letní čas
@@ -144,327 +359,432 @@
     Standard: argentinský standardní čas,
     Daylight: argentinský letní čas
   },
-  America/Catamarca: {
-    Generic: argentinský čas,
-    Standard: argentinský standardní čas,
-    Daylight: argentinský letní čas
-  },
-  America/Cordoba: {
-    Generic: argentinský čas,
-    Standard: argentinský standardní čas,
-    Daylight: argentinský letní čas
-  },
-  America/Jujuy: {
-    Generic: argentinský čas,
-    Standard: argentinský standardní čas,
-    Daylight: argentinský letní čas
-  },
-  America/Mendoza: {
-    Generic: argentinský čas,
-    Standard: argentinský standardní čas,
-    Daylight: argentinský letní čas
-  },
-  Europe/Astrakhan: {
-    Generic: časové pásmo Astrachaň,
-    Standard: Astrachaň (+0),
-    Daylight: Astrachaň (+1)
-  },
-  Europe/Ulyanovsk: {
-    Generic: časové pásmo Uljanovsk,
-    Standard: Uljanovsk (+0),
-    Daylight: Uljanovsk (+1)
-  },
-  America/Halifax: {
+  America/Aruba: {
     Generic: atlantický čas,
     Standard: atlantický standardní čas,
     Daylight: atlantický letní čas
   },
-  Atlantic/Bermuda: {
-    Generic: atlantický čas,
-    Standard: atlantický standardní čas,
-    Daylight: atlantický letní čas
+  America/Asuncion: {
+    Generic: paraguayský čas,
+    Standard: paraguayský standardní čas,
+    Daylight: paraguayský letní čas
   },
-  America/Glace_Bay: {
-    Generic: atlantický čas,
-    Standard: atlantický standardní čas,
-    Daylight: atlantický letní čas
+  America/Atikokan: {
+    Generic: severoamerický východní čas,
+    Standard: severoamerický východní standardní čas,
+    Daylight: severoamerický východní letní čas
   },
-  America/Goose_Bay: {
-    Generic: atlantický čas,
-    Standard: atlantický standardní čas,
-    Daylight: atlantický letní čas
-  },
-  America/Moncton: {
-    Generic: atlantický čas,
-    Standard: atlantický standardní čas,
-    Daylight: atlantický letní čas
-  },
-  America/Thule: {
-    Generic: atlantický čas,
-    Standard: atlantický standardní čas,
-    Daylight: atlantický letní čas
-  },
-  Australia/Eucla: {
-    Generic: středozápadní australský čas,
-    Standard: středozápadní australský standardní čas,
-    Daylight: středozápadní australský letní čas
-  },
-  Asia/Baku: {
-    Generic: ázerbájdžánský čas,
-    Standard: ázerbájdžánský standardní čas,
-    Daylight: ázerbájdžánský letní čas
-  },
-  Atlantic/Azores: {
-    Generic: azorský čas,
-    Standard: azorský standardní čas,
-    Daylight: azorský letní čas
-  },
-  America/Scoresbysund: {
-    Generic: východogrónský čas,
-    Standard: východogrónský standardní čas,
-    Daylight: východogrónský letní čas
+  America/Atka: {
+    Generic: havajsko-aleutský čas,
+    Standard: havajsko-aleutský standardní čas,
+    Daylight: havajsko-aleutský letní čas
   },
   America/Bahia: {
     Generic: brasilijský čas,
     Standard: brasilijský standardní čas,
     Daylight: brasilijský letní čas
   },
-  Asia/Dhaka: {
-    Generic: bangladéšský čas,
-    Standard: bangladéšský standardní čas,
-    Daylight: bangladéšský letní čas
-  },
-  Asia/Thimphu: {
-    Generic: bhútánský čas,
-    Standard: bhútánský čas,
-    Daylight: bhútánský čas
-  },
-  Europe/Minsk: {
-    Generic: moskevský čas,
-    Standard: moskevský standardní čas,
-    Daylight: moskevský letní čas
-  },
-  Pacific/Bougainville: {
-    Generic: čas Papuy-Nové Guiney,
-    Standard: čas Papuy-Nové Guiney,
-    Daylight: čas Papuy-Nové Guiney
-  },
-  America/Regina: {
+  America/Bahia_Banderas: {
     Generic: severoamerický centrální čas,
     Standard: severoamerický centrální standardní čas,
     Daylight: severoamerický centrální letní čas
   },
-  America/Swift_Current: {
-    Generic: severoamerický centrální čas,
-    Standard: severoamerický centrální standardní čas,
-    Daylight: severoamerický centrální letní čas
+  America/Barbados: {
+    Generic: atlantický čas,
+    Standard: atlantický standardní čas,
+    Daylight: atlantický letní čas
   },
-  Atlantic/Cape_Verde: {
-    Generic: kapverdský čas,
-    Standard: kapverdský standardní čas,
-    Daylight: kapverdský letní čas
-  },
-  Etc/GMT+1: {
-    Generic: koordinovaný světový čas -1,
-    Standard: koordinovaný světový čas -1,
-    Daylight: koordinovaný světový čas -1
-  },
-  Asia/Yerevan: {
-    Generic: arménský čas,
-    Standard: arménský standardní čas,
-    Daylight: arménský letní čas
-  },
-  Australia/Adelaide: {
-    Generic: středoaustralský čas,
-    Standard: středoaustralský standardní čas,
-    Daylight: středoaustralský letní čas
-  },
-  Australia/Broken_Hill: {
-    Generic: středoaustralský čas,
-    Standard: středoaustralský standardní čas,
-    Daylight: středoaustralský letní čas
-  },
-  America/Guatemala: {
-    Generic: severoamerický centrální čas,
-    Standard: severoamerický centrální standardní čas,
-    Daylight: severoamerický centrální letní čas
+  America/Belem: {
+    Generic: brasilijský čas,
+    Standard: brasilijský standardní čas,
+    Daylight: brasilijský letní čas
   },
   America/Belize: {
     Generic: severoamerický centrální čas,
     Standard: severoamerický centrální standardní čas,
     Daylight: severoamerický centrální letní čas
   },
-  America/Costa_Rica: {
-    Generic: severoamerický centrální čas,
-    Standard: severoamerický centrální standardní čas,
-    Daylight: severoamerický centrální letní čas
+  America/Blanc-Sablon: {
+    Generic: atlantický čas,
+    Standard: atlantický standardní čas,
+    Daylight: atlantický letní čas
   },
-  Pacific/Galapagos: {
-    Generic: galapážský čas,
-    Standard: galapážský čas,
-    Daylight: galapážský čas
-  },
-  America/Tegucigalpa: {
-    Generic: severoamerický centrální čas,
-    Standard: severoamerický centrální standardní čas,
-    Daylight: severoamerický centrální letní čas
-  },
-  America/Managua: {
-    Generic: severoamerický centrální čas,
-    Standard: severoamerický centrální standardní čas,
-    Daylight: severoamerický centrální letní čas
-  },
-  America/El_Salvador: {
-    Generic: severoamerický centrální čas,
-    Standard: severoamerický centrální standardní čas,
-    Daylight: severoamerický centrální letní čas
-  },
-  Etc/GMT+6: {
-    Generic: koordinovaný světový čas -6,
-    Standard: koordinovaný světový čas -6,
-    Daylight: koordinovaný světový čas -6
-  },
-  Asia/Almaty: {
-    Generic: východokazachstánský čas,
-    Standard: východokazachstánský čas,
-    Daylight: východokazachstánský čas
-  },
-  Antarctica/Vostok: {
-    Generic: čas stanice Vostok,
-    Standard: čas stanice Vostok,
-    Daylight: čas stanice Vostok
-  },
-  Asia/Urumqi: {
-    Generic: časové pásmo Čína,
-    Standard: Čína (+0),
-    Daylight: Čína (+1)
-  },
-  Indian/Chagos: {
-    Generic: indickooceánský čas,
-    Standard: indickooceánský čas,
-    Daylight: indickooceánský čas
-  },
-  Asia/Bishkek: {
-    Generic: kyrgyzský čas,
-    Standard: kyrgyzský čas,
-    Daylight: kyrgyzský čas
-  },
-  Asia/Qostanay: {
-    Generic: východokazachstánský čas,
-    Standard: východokazachstánský čas,
-    Daylight: východokazachstánský čas
-  },
-  Etc/GMT-6: {
-    Generic: koordinovaný světový čas +6,
-    Standard: koordinovaný světový čas +6,
-    Daylight: koordinovaný světový čas +6
-  },
-  America/Cuiaba: {
+  America/Boa_Vista: {
     Generic: amazonský čas,
     Standard: amazonský standardní čas,
     Daylight: amazonský letní čas
+  },
+  America/Bogota: {
+    Generic: kolumbijský čas,
+    Standard: kolumbijský standardní čas,
+    Daylight: kolumbijský letní čas
+  },
+  America/Boise: {
+    Generic: severoamerický horský čas,
+    Standard: severoamerický horský standardní čas,
+    Daylight: severoamerický horský letní čas
+  },
+  America/Buenos_Aires: {
+    Generic: argentinský čas,
+    Standard: argentinský standardní čas,
+    Daylight: argentinský letní čas
+  },
+  America/Cambridge_Bay: {
+    Generic: severoamerický horský čas,
+    Standard: severoamerický horský standardní čas,
+    Daylight: severoamerický horský letní čas
   },
   America/Campo_Grande: {
     Generic: amazonský čas,
     Standard: amazonský standardní čas,
     Daylight: amazonský letní čas
   },
-  Europe/Budapest: {
-    Generic: středoevropský čas,
-    Standard: středoevropský standardní čas,
-    Daylight: středoevropský letní čas
+  America/Cancun: {
+    Generic: severoamerický východní čas,
+    Standard: severoamerický východní standardní čas,
+    Daylight: severoamerický východní letní čas
   },
-  Europe/Tirane: {
-    Generic: středoevropský čas,
-    Standard: středoevropský standardní čas,
-    Daylight: středoevropský letní čas
+  America/Caracas: {
+    Generic: venezuelský čas,
+    Standard: venezuelský čas,
+    Daylight: venezuelský čas
   },
-  Europe/Prague: {
-    Generic: středoevropský čas,
-    Standard: středoevropský standardní čas,
-    Daylight: středoevropský letní čas
+  America/Catamarca: {
+    Generic: argentinský čas,
+    Standard: argentinský standardní čas,
+    Daylight: argentinský letní čas
   },
-  Europe/Podgorica: {
-    Generic: středoevropský čas,
-    Standard: středoevropský standardní čas,
-    Daylight: středoevropský letní čas
+  America/Cayenne: {
+    Generic: francouzskoguyanský čas,
+    Standard: francouzskoguyanský čas,
+    Daylight: francouzskoguyanský čas
   },
-  Europe/Belgrade: {
-    Generic: středoevropský čas,
-    Standard: středoevropský standardní čas,
-    Daylight: středoevropský letní čas
+  America/Cayman: {
+    Generic: severoamerický východní čas,
+    Standard: severoamerický východní standardní čas,
+    Daylight: severoamerický východní letní čas
   },
-  Europe/Ljubljana: {
-    Generic: středoevropský čas,
-    Standard: středoevropský standardní čas,
-    Daylight: středoevropský letní čas
-  },
-  Europe/Bratislava: {
-    Generic: středoevropský čas,
-    Standard: středoevropský standardní čas,
-    Daylight: středoevropský letní čas
-  },
-  Europe/Warsaw: {
-    Generic: středoevropský čas,
-    Standard: středoevropský standardní čas,
-    Daylight: středoevropský letní čas
-  },
-  Europe/Sarajevo: {
-    Generic: středoevropský čas,
-    Standard: středoevropský standardní čas,
-    Daylight: středoevropský letní čas
-  },
-  Europe/Zagreb: {
-    Generic: středoevropský čas,
-    Standard: středoevropský standardní čas,
-    Daylight: středoevropský letní čas
-  },
-  Europe/Skopje: {
-    Generic: středoevropský čas,
-    Standard: středoevropský standardní čas,
-    Daylight: středoevropský letní čas
-  },
-  Pacific/Guadalcanal: {
-    Generic: čas Šalamounových ostrovů,
-    Standard: čas Šalamounových ostrovů,
-    Daylight: čas Šalamounových ostrovů
-  },
-  Antarctica/Casey: {
-    Generic: Čas Caseyho stanice,
-    Standard: Čas Caseyho stanice,
-    Daylight: Čas Caseyho stanice
-  },
-  Pacific/Ponape: {
-    Generic: ponapský čas,
-    Standard: ponapský čas,
-    Daylight: ponapský čas
-  },
-  Pacific/Kosrae: {
-    Generic: kosrajský čas,
-    Standard: kosrajský čas,
-    Daylight: kosrajský čas
-  },
-  Pacific/Noumea: {
-    Generic: novokaledonský čas,
-    Standard: novokaledonský standardní čas,
-    Daylight: novokaledonský letní čas
-  },
-  Pacific/Efate: {
-    Generic: vanuatský čas,
-    Standard: vanuatský standardní čas,
-    Daylight: vanuatský letní čas
-  },
-  Etc/GMT-11: {
-    Generic: koordinovaný světový čas +11,
-    Standard: koordinovaný světový čas +11,
-    Daylight: koordinovaný světový čas +11
-  },
-  America/Mexico_City: {
+  America/Chicago: {
     Generic: severoamerický centrální čas,
     Standard: severoamerický centrální standardní čas,
     Daylight: severoamerický centrální letní čas
   },
-  America/Bahia_Banderas: {
+  America/Chihuahua: {
+    Generic: mexický pacifický čas,
+    Standard: mexický pacifický standardní čas,
+    Daylight: mexický pacifický letní čas
+  },
+  America/Coral_Harbour: {
+    Generic: severoamerický východní čas,
+    Standard: severoamerický východní standardní čas,
+    Daylight: severoamerický východní letní čas
+  },
+  America/Cordoba: {
+    Generic: argentinský čas,
+    Standard: argentinský standardní čas,
+    Daylight: argentinský letní čas
+  },
+  America/Costa_Rica: {
+    Generic: severoamerický centrální čas,
+    Standard: severoamerický centrální standardní čas,
+    Daylight: severoamerický centrální letní čas
+  },
+  America/Creston: {
+    Generic: severoamerický horský čas,
+    Standard: severoamerický horský standardní čas,
+    Daylight: severoamerický horský letní čas
+  },
+  America/Cuiaba: {
+    Generic: amazonský čas,
+    Standard: amazonský standardní čas,
+    Daylight: amazonský letní čas
+  },
+  America/Curacao: {
+    Generic: atlantický čas,
+    Standard: atlantický standardní čas,
+    Daylight: atlantický letní čas
+  },
+  America/Danmarkshavn: {
+    Generic: greenwichský střední čas,
+    Standard: greenwichský střední čas,
+    Daylight: greenwichský střední čas
+  },
+  America/Dawson: {
+    Generic: yukonský čas,
+    Standard: yukonský čas,
+    Daylight: yukonský čas
+  },
+  America/Dawson_Creek: {
+    Generic: severoamerický horský čas,
+    Standard: severoamerický horský standardní čas,
+    Daylight: severoamerický horský letní čas
+  },
+  America/Denver: {
+    Generic: severoamerický horský čas,
+    Standard: severoamerický horský standardní čas,
+    Daylight: severoamerický horský letní čas
+  },
+  America/Detroit: {
+    Generic: severoamerický východní čas,
+    Standard: severoamerický východní standardní čas,
+    Daylight: severoamerický východní letní čas
+  },
+  America/Dominica: {
+    Generic: atlantický čas,
+    Standard: atlantický standardní čas,
+    Daylight: atlantický letní čas
+  },
+  America/Edmonton: {
+    Generic: severoamerický horský čas,
+    Standard: severoamerický horský standardní čas,
+    Daylight: severoamerický horský letní čas
+  },
+  America/Eirunepe: {
+    Generic: Acrejský čas,
+    Standard: Acrejský standardní čas,
+    Daylight: Acrejský letní čas
+  },
+  America/El_Salvador: {
+    Generic: severoamerický centrální čas,
+    Standard: severoamerický centrální standardní čas,
+    Daylight: severoamerický centrální letní čas
+  },
+  America/Ensenada: {
+    Generic: severoamerický pacifický čas,
+    Standard: severoamerický pacifický standardní čas,
+    Daylight: severoamerický pacifický letní čas
+  },
+  America/Fort_Nelson: {
+    Generic: severoamerický horský čas,
+    Standard: severoamerický horský standardní čas,
+    Daylight: severoamerický horský letní čas
+  },
+  America/Fort_Wayne: {
+    Generic: severoamerický východní čas,
+    Standard: severoamerický východní standardní čas,
+    Daylight: severoamerický východní letní čas
+  },
+  America/Fortaleza: {
+    Generic: brasilijský čas,
+    Standard: brasilijský standardní čas,
+    Daylight: brasilijský letní čas
+  },
+  America/Glace_Bay: {
+    Generic: atlantický čas,
+    Standard: atlantický standardní čas,
+    Daylight: atlantický letní čas
+  },
+  America/Godthab: {
+    Generic: západogrónský čas,
+    Standard: západogrónský standardní čas,
+    Daylight: západogrónský letní čas
+  },
+  America/Goose_Bay: {
+    Generic: atlantický čas,
+    Standard: atlantický standardní čas,
+    Daylight: atlantický letní čas
+  },
+  America/Grand_Turk: {
+    Generic: severoamerický východní čas,
+    Standard: severoamerický východní standardní čas,
+    Daylight: severoamerický východní letní čas
+  },
+  America/Grenada: {
+    Generic: atlantický čas,
+    Standard: atlantický standardní čas,
+    Daylight: atlantický letní čas
+  },
+  America/Guadeloupe: {
+    Generic: atlantický čas,
+    Standard: atlantický standardní čas,
+    Daylight: atlantický letní čas
+  },
+  America/Guatemala: {
+    Generic: severoamerický centrální čas,
+    Standard: severoamerický centrální standardní čas,
+    Daylight: severoamerický centrální letní čas
+  },
+  America/Guayaquil: {
+    Generic: ekvádorský čas,
+    Standard: ekvádorský čas,
+    Daylight: ekvádorský čas
+  },
+  America/Guyana: {
+    Generic: guyanský čas,
+    Standard: guyanský čas,
+    Daylight: guyanský čas
+  },
+  America/Halifax: {
+    Generic: atlantický čas,
+    Standard: atlantický standardní čas,
+    Daylight: atlantický letní čas
+  },
+  America/Havana: {
+    Generic: kubánský čas,
+    Standard: kubánský standardní čas,
+    Daylight: kubánský letní čas
+  },
+  America/Hermosillo: {
+    Generic: mexický pacifický čas,
+    Standard: mexický pacifický standardní čas,
+    Daylight: mexický pacifický letní čas
+  },
+  America/Indiana/Indianapolis: {
+    Generic: severoamerický východní čas,
+    Standard: severoamerický východní standardní čas,
+    Daylight: severoamerický východní letní čas
+  },
+  America/Indiana/Knox: {
+    Generic: severoamerický centrální čas,
+    Standard: severoamerický centrální standardní čas,
+    Daylight: severoamerický centrální letní čas
+  },
+  America/Indiana/Marengo: {
+    Generic: severoamerický východní čas,
+    Standard: severoamerický východní standardní čas,
+    Daylight: severoamerický východní letní čas
+  },
+  America/Indiana/Petersburg: {
+    Generic: severoamerický východní čas,
+    Standard: severoamerický východní standardní čas,
+    Daylight: severoamerický východní letní čas
+  },
+  America/Indiana/Tell_City: {
+    Generic: severoamerický centrální čas,
+    Standard: severoamerický centrální standardní čas,
+    Daylight: severoamerický centrální letní čas
+  },
+  America/Indiana/Vevay: {
+    Generic: severoamerický východní čas,
+    Standard: severoamerický východní standardní čas,
+    Daylight: severoamerický východní letní čas
+  },
+  America/Indiana/Vincennes: {
+    Generic: severoamerický východní čas,
+    Standard: severoamerický východní standardní čas,
+    Daylight: severoamerický východní letní čas
+  },
+  America/Indiana/Winamac: {
+    Generic: severoamerický východní čas,
+    Standard: severoamerický východní standardní čas,
+    Daylight: severoamerický východní letní čas
+  },
+  America/Indianapolis: {
+    Generic: severoamerický východní čas,
+    Standard: severoamerický východní standardní čas,
+    Daylight: severoamerický východní letní čas
+  },
+  America/Inuvik: {
+    Generic: severoamerický horský čas,
+    Standard: severoamerický horský standardní čas,
+    Daylight: severoamerický horský letní čas
+  },
+  America/Iqaluit: {
+    Generic: severoamerický východní čas,
+    Standard: severoamerický východní standardní čas,
+    Daylight: severoamerický východní letní čas
+  },
+  America/Jamaica: {
+    Generic: severoamerický východní čas,
+    Standard: severoamerický východní standardní čas,
+    Daylight: severoamerický východní letní čas
+  },
+  America/Jujuy: {
+    Generic: argentinský čas,
+    Standard: argentinský standardní čas,
+    Daylight: argentinský letní čas
+  },
+  America/Juneau: {
+    Generic: aljašský čas,
+    Standard: aljašský standardní čas,
+    Daylight: aljašský letní čas
+  },
+  America/Kentucky/Louisville: {
+    Generic: severoamerický východní čas,
+    Standard: severoamerický východní standardní čas,
+    Daylight: severoamerický východní letní čas
+  },
+  America/Kentucky/Monticello: {
+    Generic: severoamerický východní čas,
+    Standard: severoamerický východní standardní čas,
+    Daylight: severoamerický východní letní čas
+  },
+  America/Knox_IN: {
+    Generic: severoamerický centrální čas,
+    Standard: severoamerický centrální standardní čas,
+    Daylight: severoamerický centrální letní čas
+  },
+  America/Kralendijk: {
+    Generic: atlantický čas,
+    Standard: atlantický standardní čas,
+    Daylight: atlantický letní čas
+  },
+  America/La_Paz: {
+    Generic: bolivijský čas,
+    Standard: bolivijský čas,
+    Daylight: bolivijský čas
+  },
+  America/Lima: {
+    Generic: peruánský čas,
+    Standard: peruánský standardní čas,
+    Daylight: peruánský letní čas
+  },
+  America/Los_Angeles: {
+    Generic: severoamerický pacifický čas,
+    Standard: severoamerický pacifický standardní čas,
+    Daylight: severoamerický pacifický letní čas
+  },
+  America/Louisville: {
+    Generic: severoamerický východní čas,
+    Standard: severoamerický východní standardní čas,
+    Daylight: severoamerický východní letní čas
+  },
+  America/Lower_Princes: {
+    Generic: atlantický čas,
+    Standard: atlantický standardní čas,
+    Daylight: atlantický letní čas
+  },
+  America/Maceio: {
+    Generic: brasilijský čas,
+    Standard: brasilijský standardní čas,
+    Daylight: brasilijský letní čas
+  },
+  America/Managua: {
+    Generic: severoamerický centrální čas,
+    Standard: severoamerický centrální standardní čas,
+    Daylight: severoamerický centrální letní čas
+  },
+  America/Manaus: {
+    Generic: amazonský čas,
+    Standard: amazonský standardní čas,
+    Daylight: amazonský letní čas
+  },
+  America/Marigot: {
+    Generic: atlantický čas,
+    Standard: atlantický standardní čas,
+    Daylight: atlantický letní čas
+  },
+  America/Martinique: {
+    Generic: atlantický čas,
+    Standard: atlantický standardní čas,
+    Daylight: atlantický letní čas
+  },
+  America/Matamoros: {
+    Generic: severoamerický centrální čas,
+    Standard: severoamerický centrální standardní čas,
+    Daylight: severoamerický centrální letní čas
+  },
+  America/Mazatlan: {
+    Generic: mexický pacifický čas,
+    Standard: mexický pacifický standardní čas,
+    Daylight: mexický pacifický letní čas
+  },
+  America/Mendoza: {
+    Generic: argentinský čas,
+    Standard: argentinský standardní čas,
+    Daylight: argentinský letní čas
+  },
+  America/Menominee: {
     Generic: severoamerický centrální čas,
     Standard: severoamerický centrální standardní čas,
     Daylight: severoamerický centrální letní čas
@@ -474,55 +794,70 @@
     Standard: severoamerický centrální standardní čas,
     Daylight: severoamerický centrální letní čas
   },
+  America/Metlakatla: {
+    Generic: aljašský čas,
+    Standard: aljašský standardní čas,
+    Daylight: aljašský letní čas
+  },
+  America/Mexico_City: {
+    Generic: severoamerický centrální čas,
+    Standard: severoamerický centrální standardní čas,
+    Daylight: severoamerický centrální letní čas
+  },
+  America/Miquelon: {
+    Generic: pierre-miquelonský čas,
+    Standard: pierre-miquelonský standardní čas,
+    Daylight: pierre-miquelonský letní čas
+  },
+  America/Moncton: {
+    Generic: atlantický čas,
+    Standard: atlantický standardní čas,
+    Daylight: atlantický letní čas
+  },
   America/Monterrey: {
     Generic: severoamerický centrální čas,
     Standard: severoamerický centrální standardní čas,
     Daylight: severoamerický centrální letní čas
   },
-  America/Chicago: {
-    Generic: severoamerický centrální čas,
-    Standard: severoamerický centrální standardní čas,
-    Daylight: severoamerický centrální letní čas
+  America/Montevideo: {
+    Generic: uruguayský čas,
+    Standard: uruguayský standardní čas,
+    Daylight: uruguayský letní čas
   },
-  America/Winnipeg: {
-    Generic: severoamerický centrální čas,
-    Standard: severoamerický centrální standardní čas,
-    Daylight: severoamerický centrální letní čas
+  America/Montreal: {
+    Generic: severoamerický východní čas,
+    Standard: severoamerický východní standardní čas,
+    Daylight: severoamerický východní letní čas
   },
-  America/Rainy_River: {
-    Generic: severoamerický centrální čas,
-    Standard: severoamerický centrální standardní čas,
-    Daylight: severoamerický centrální letní čas
+  America/Montserrat: {
+    Generic: atlantický čas,
+    Standard: atlantický standardní čas,
+    Daylight: atlantický letní čas
   },
-  America/Rankin_Inlet: {
-    Generic: severoamerický centrální čas,
-    Standard: severoamerický centrální standardní čas,
-    Daylight: severoamerický centrální letní čas
+  America/Nassau: {
+    Generic: severoamerický východní čas,
+    Standard: severoamerický východní standardní čas,
+    Daylight: severoamerický východní letní čas
   },
-  America/Resolute: {
-    Generic: severoamerický centrální čas,
-    Standard: severoamerický centrální standardní čas,
-    Daylight: severoamerický centrální letní čas
+  America/New_York: {
+    Generic: severoamerický východní čas,
+    Standard: severoamerický východní standardní čas,
+    Daylight: severoamerický východní letní čas
   },
-  America/Matamoros: {
-    Generic: severoamerický centrální čas,
-    Standard: severoamerický centrální standardní čas,
-    Daylight: severoamerický centrální letní čas
+  America/Nipigon: {
+    Generic: severoamerický východní čas,
+    Standard: severoamerický východní standardní čas,
+    Daylight: severoamerický východní letní čas
   },
-  America/Indiana/Knox: {
-    Generic: severoamerický centrální čas,
-    Standard: severoamerický centrální standardní čas,
-    Daylight: severoamerický centrální letní čas
+  America/Nome: {
+    Generic: aljašský čas,
+    Standard: aljašský standardní čas,
+    Daylight: aljašský letní čas
   },
-  America/Indiana/Tell_City: {
-    Generic: severoamerický centrální čas,
-    Standard: severoamerický centrální standardní čas,
-    Daylight: severoamerický centrální letní čas
-  },
-  America/Menominee: {
-    Generic: severoamerický centrální čas,
-    Standard: severoamerický centrální standardní čas,
-    Daylight: severoamerický centrální letní čas
+  America/Noronha: {
+    Generic: čas souostroví Fernando de Noronha,
+    Standard: standardní čas souostroví Fernando de Noronha,
+    Daylight: letní čas souostroví Fernando de Noronha
   },
   America/North_Dakota/Beulah: {
     Generic: severoamerický centrální čas,
@@ -539,157 +874,17 @@
     Standard: severoamerický centrální standardní čas,
     Daylight: severoamerický centrální letní čas
   },
-  CST6CDT: {
-    Generic: severoamerický centrální čas,
-    Standard: severoamerický centrální standardní čas,
-    Daylight: severoamerický centrální letní čas
+  America/Nuuk: {
+    Generic: západogrónský čas,
+    Standard: západogrónský standardní čas,
+    Daylight: západogrónský letní čas
   },
-  Pacific/Chatham: {
-    Generic: chathamský čas,
-    Standard: chathamský standardní čas,
-    Daylight: chathamský letní čas
+  America/Ojinaga: {
+    Generic: severoamerický horský čas,
+    Standard: severoamerický horský standardní čas,
+    Daylight: severoamerický horský letní čas
   },
-  Asia/Shanghai: {
-    Generic: čínský čas,
-    Standard: čínský standardní čas,
-    Daylight: čínský letní čas
-  },
-  Asia/Hong_Kong: {
-    Generic: hongkongský čas,
-    Standard: hongkongský standardní čas,
-    Daylight: hongkongský letní čas
-  },
-  Asia/Macau: {
-    Generic: čínský čas,
-    Standard: čínský standardní čas,
-    Daylight: čínský letní čas
-  },
-  America/Havana: {
-    Generic: kubánský čas,
-    Standard: kubánský standardní čas,
-    Daylight: kubánský letní čas
-  },
-  Etc/GMT+12: {
-    Generic: koordinovaný světový čas -12,
-    Standard: koordinovaný světový čas -12,
-    Daylight: koordinovaný světový čas -12
-  },
-  Africa/Nairobi: {
-    Generic: východoafrický čas,
-    Standard: východoafrický čas,
-    Daylight: východoafrický čas
-  },
-  Antarctica/Syowa: {
-    Generic: čas stanice Šówa,
-    Standard: čas stanice Šówa,
-    Daylight: čas stanice Šówa
-  },
-  Africa/Djibouti: {
-    Generic: východoafrický čas,
-    Standard: východoafrický čas,
-    Daylight: východoafrický čas
-  },
-  Africa/Asmera: {
-    Generic: východoafrický čas,
-    Standard: východoafrický čas,
-    Daylight: východoafrický čas
-  },
-  Africa/Addis_Ababa: {
-    Generic: východoafrický čas,
-    Standard: východoafrický čas,
-    Daylight: východoafrický čas
-  },
-  Indian/Comoro: {
-    Generic: východoafrický čas,
-    Standard: východoafrický čas,
-    Daylight: východoafrický čas
-  },
-  Indian/Antananarivo: {
-    Generic: východoafrický čas,
-    Standard: východoafrický čas,
-    Daylight: východoafrický čas
-  },
-  Africa/Mogadishu: {
-    Generic: východoafrický čas,
-    Standard: východoafrický čas,
-    Daylight: východoafrický čas
-  },
-  Africa/Dar_es_Salaam: {
-    Generic: východoafrický čas,
-    Standard: východoafrický čas,
-    Daylight: východoafrický čas
-  },
-  Africa/Kampala: {
-    Generic: východoafrický čas,
-    Standard: východoafrický čas,
-    Daylight: východoafrický čas
-  },
-  Indian/Mayotte: {
-    Generic: východoafrický čas,
-    Standard: východoafrický čas,
-    Daylight: východoafrický čas
-  },
-  Etc/GMT-3: {
-    Generic: koordinovaný světový čas +3,
-    Standard: koordinovaný světový čas +3,
-    Daylight: koordinovaný světový čas +3
-  },
-  Australia/Brisbane: {
-    Generic: východoaustralský čas,
-    Standard: východoaustralský standardní čas,
-    Daylight: východoaustralský letní čas
-  },
-  Australia/Lindeman: {
-    Generic: východoaustralský čas,
-    Standard: východoaustralský standardní čas,
-    Daylight: východoaustralský letní čas
-  },
-  Europe/Chisinau: {
-    Generic: východoevropský čas,
-    Standard: východoevropský standardní čas,
-    Daylight: východoevropský letní čas
-  },
-  America/Sao_Paulo: {
-    Generic: brasilijský čas,
-    Standard: brasilijský standardní čas,
-    Daylight: brasilijský letní čas
-  },
-  Pacific/Easter: {
-    Generic: čas Velikonočního ostrova,
-    Standard: standardní čas Velikonočního ostrova,
-    Daylight: letní čas Velikonočního ostrova
-  },
-  America/Cancun: {
-    Generic: severoamerický východní čas,
-    Standard: severoamerický východní standardní čas,
-    Daylight: severoamerický východní letní čas
-  },
-  America/New_York: {
-    Generic: severoamerický východní čas,
-    Standard: severoamerický východní standardní čas,
-    Daylight: severoamerický východní letní čas
-  },
-  America/Nassau: {
-    Generic: severoamerický východní čas,
-    Standard: severoamerický východní standardní čas,
-    Daylight: severoamerický východní letní čas
-  },
-  America/Toronto: {
-    Generic: severoamerický východní čas,
-    Standard: severoamerický východní standardní čas,
-    Daylight: severoamerický východní letní čas
-  },
-  America/Iqaluit: {
-    Generic: severoamerický východní čas,
-    Standard: severoamerický východní standardní čas,
-    Daylight: severoamerický východní letní čas
-  },
-  America/Montreal: {
-    Generic: severoamerický východní čas,
-    Standard: severoamerický východní standardní čas,
-    Daylight: severoamerický východní letní čas
-  },
-  America/Nipigon: {
+  America/Panama: {
     Generic: severoamerický východní čas,
     Standard: severoamerický východní standardní čas,
     Daylight: severoamerický východní letní čas
@@ -699,800 +894,130 @@
     Standard: severoamerický východní standardní čas,
     Daylight: severoamerický východní letní čas
   },
-  America/Thunder_Bay: {
-    Generic: severoamerický východní čas,
-    Standard: severoamerický východní standardní čas,
-    Daylight: severoamerický východní letní čas
+  America/Paramaribo: {
+    Generic: surinamský čas,
+    Standard: surinamský čas,
+    Daylight: surinamský čas
   },
-  America/Detroit: {
-    Generic: severoamerický východní čas,
-    Standard: severoamerický východní standardní čas,
-    Daylight: severoamerický východní letní čas
-  },
-  America/Indiana/Petersburg: {
-    Generic: severoamerický východní čas,
-    Standard: severoamerický východní standardní čas,
-    Daylight: severoamerický východní letní čas
-  },
-  America/Indiana/Vincennes: {
-    Generic: severoamerický východní čas,
-    Standard: severoamerický východní standardní čas,
-    Daylight: severoamerický východní letní čas
-  },
-  America/Indiana/Winamac: {
-    Generic: severoamerický východní čas,
-    Standard: severoamerický východní standardní čas,
-    Daylight: severoamerický východní letní čas
-  },
-  America/Kentucky/Monticello: {
-    Generic: severoamerický východní čas,
-    Standard: severoamerický východní standardní čas,
-    Daylight: severoamerický východní letní čas
-  },
-  America/Louisville: {
-    Generic: severoamerický východní čas,
-    Standard: severoamerický východní standardní čas,
-    Daylight: severoamerický východní letní čas
-  },
-  EST5EDT: {
-    Generic: severoamerický východní čas,
-    Standard: severoamerický východní standardní čas,
-    Daylight: severoamerický východní letní čas
-  },
-  Africa/Cairo: {
-    Generic: východoevropský čas,
-    Standard: východoevropský standardní čas,
-    Daylight: východoevropský letní čas
-  },
-  Asia/Yekaterinburg: {
-    Generic: časové pásmo Jekatěrinburg,
-    Standard: Jekatěrinburg (+0),
-    Daylight: Jekatěrinburg (+1)
-  },
-  Europe/Kiev: {
-    Generic: východoevropský čas,
-    Standard: východoevropský standardní čas,
-    Daylight: východoevropský letní čas
-  },
-  Europe/Mariehamn: {
-    Generic: východoevropský čas,
-    Standard: východoevropský standardní čas,
-    Daylight: východoevropský letní čas
-  },
-  Europe/Sofia: {
-    Generic: východoevropský čas,
-    Standard: východoevropský standardní čas,
-    Daylight: východoevropský letní čas
-  },
-  Europe/Tallinn: {
-    Generic: východoevropský čas,
-    Standard: východoevropský standardní čas,
-    Daylight: východoevropský letní čas
-  },
-  Europe/Helsinki: {
-    Generic: východoevropský čas,
-    Standard: východoevropský standardní čas,
-    Daylight: východoevropský letní čas
-  },
-  Europe/Vilnius: {
-    Generic: východoevropský čas,
-    Standard: východoevropský standardní čas,
-    Daylight: východoevropský letní čas
-  },
-  Europe/Riga: {
-    Generic: východoevropský čas,
-    Standard: východoevropský standardní čas,
-    Daylight: východoevropský letní čas
-  },
-  Europe/Uzhgorod: {
-    Generic: východoevropský čas,
-    Standard: východoevropský standardní čas,
-    Daylight: východoevropský letní čas
-  },
-  Europe/Zaporozhye: {
-    Generic: východoevropský čas,
-    Standard: východoevropský standardní čas,
-    Daylight: východoevropský letní čas
-  },
-  Pacific/Fiji: {
-    Generic: fidžijský čas,
-    Standard: fidžijský standardní čas,
-    Daylight: fidžijský letní čas
-  },
-  Europe/London: {
-    Generic: časové pásmo Spojené království,
-    Standard: greenwichský střední čas,
-    Daylight: britský letní čas
-  },
-  Atlantic/Canary: {
-    Generic: západoevropský čas,
-    Standard: západoevropský standardní čas,
-    Daylight: západoevropský letní čas
-  },
-  Atlantic/Faeroe: {
-    Generic: západoevropský čas,
-    Standard: západoevropský standardní čas,
-    Daylight: západoevropský letní čas
-  },
-  Europe/Guernsey: {
-    Generic: greenwichský střední čas,
-    Standard: greenwichský střední čas,
-    Daylight: greenwichský střední čas
-  },
-  Europe/Dublin: {
-    Generic: časové pásmo Irsko,
-    Standard: greenwichský střední čas,
-    Daylight: irský letní čas
-  },
-  Europe/Isle_of_Man: {
-    Generic: greenwichský střední čas,
-    Standard: greenwichský střední čas,
-    Daylight: greenwichský střední čas
-  },
-  Europe/Jersey: {
-    Generic: greenwichský střední čas,
-    Standard: greenwichský střední čas,
-    Daylight: greenwichský střední čas
-  },
-  Europe/Lisbon: {
-    Generic: západoevropský čas,
-    Standard: západoevropský standardní čas,
-    Daylight: západoevropský letní čas
-  },
-  Atlantic/Madeira: {
-    Generic: západoevropský čas,
-    Standard: západoevropský standardní čas,
-    Daylight: západoevropský letní čas
-  },
-  Europe/Bucharest: {
-    Generic: východoevropský čas,
-    Standard: východoevropský standardní čas,
-    Daylight: východoevropský letní čas
-  },
-  Asia/Nicosia: {
-    Generic: východoevropský čas,
-    Standard: východoevropský standardní čas,
-    Daylight: východoevropský letní čas
-  },
-  Asia/Famagusta: {
-    Generic: východoevropský čas,
-    Standard: východoevropský standardní čas,
-    Daylight: východoevropský letní čas
-  },
-  Europe/Athens: {
-    Generic: východoevropský čas,
-    Standard: východoevropský standardní čas,
-    Daylight: východoevropský letní čas
-  },
-  Asia/Tbilisi: {
-    Generic: gruzínský čas,
-    Standard: gruzínský standardní čas,
-    Daylight: gruzínský letní čas
-  },
-  America/Godthab: {
-    Generic: západogrónský čas,
-    Standard: západogrónský standardní čas,
-    Daylight: západogrónský letní čas
-  },
-  Atlantic/Reykjavik: {
-    Generic: greenwichský střední čas,
-    Standard: greenwichský střední čas,
-    Daylight: greenwichský střední čas
-  },
-  Atlantic/St_Helena: {
-    Generic: greenwichský střední čas,
-    Standard: greenwichský střední čas,
-    Daylight: greenwichský střední čas
-  },
-  Africa/Ouagadougou: {
-    Generic: greenwichský střední čas,
-    Standard: greenwichský střední čas,
-    Daylight: greenwichský střední čas
-  },
-  Africa/Abidjan: {
-    Generic: greenwichský střední čas,
-    Standard: greenwichský střední čas,
-    Daylight: greenwichský střední čas
-  },
-  Africa/Accra: {
-    Generic: greenwichský střední čas,
-    Standard: greenwichský střední čas,
-    Daylight: greenwichský střední čas
-  },
-  America/Danmarkshavn: {
-    Generic: greenwichský střední čas,
-    Standard: greenwichský střední čas,
-    Daylight: greenwichský střední čas
-  },
-  Africa/Banjul: {
-    Generic: greenwichský střední čas,
-    Standard: greenwichský střední čas,
-    Daylight: greenwichský střední čas
-  },
-  Africa/Conakry: {
-    Generic: greenwichský střední čas,
-    Standard: greenwichský střední čas,
-    Daylight: greenwichský střední čas
-  },
-  Africa/Bissau: {
-    Generic: greenwichský střední čas,
-    Standard: greenwichský střední čas,
-    Daylight: greenwichský střední čas
-  },
-  Africa/Monrovia: {
-    Generic: greenwichský střední čas,
-    Standard: greenwichský střední čas,
-    Daylight: greenwichský střední čas
-  },
-  Africa/Bamako: {
-    Generic: greenwichský střední čas,
-    Standard: greenwichský střední čas,
-    Daylight: greenwichský střední čas
-  },
-  Africa/Nouakchott: {
-    Generic: greenwichský střední čas,
-    Standard: greenwichský střední čas,
-    Daylight: greenwichský střední čas
-  },
-  Africa/Freetown: {
-    Generic: greenwichský střední čas,
-    Standard: greenwichský střední čas,
-    Daylight: greenwichský střední čas
-  },
-  Africa/Dakar: {
-    Generic: greenwichský střední čas,
-    Standard: greenwichský střední čas,
-    Daylight: greenwichský střední čas
-  },
-  Africa/Lome: {
-    Generic: greenwichský střední čas,
-    Standard: greenwichský střední čas,
-    Daylight: greenwichský střední čas
+  America/Phoenix: {
+    Generic: severoamerický horský čas,
+    Standard: severoamerický horský standardní čas,
+    Daylight: severoamerický horský letní čas
   },
   America/Port-au-Prince: {
     Generic: severoamerický východní čas,
     Standard: severoamerický východní standardní čas,
     Daylight: severoamerický východní letní čas
   },
-  Pacific/Honolulu: {
-    Generic: havajsko-aleutský čas,
-    Standard: havajsko-aleutský standardní čas,
-    Daylight: havajsko-aleutský letní čas
-  },
-  Pacific/Rarotonga: {
-    Generic: čas Cookových ostrovů,
-    Standard: standardní čas Cookových ostrovů,
-    Daylight: letní čas Cookových ostrovů
-  },
-  Pacific/Tahiti: {
-    Generic: tahitský čas,
-    Standard: tahitský čas,
-    Daylight: tahitský čas
-  },
-  Pacific/Johnston: {
-    Generic: havajsko-aleutský čas,
-    Standard: havajsko-aleutský standardní čas,
-    Daylight: havajsko-aleutský letní čas
-  },
-  Etc/GMT+10: {
-    Generic: koordinovaný světový čas -10,
-    Standard: koordinovaný světový čas -10,
-    Daylight: koordinovaný světový čas -10
-  },
-  Asia/Calcutta: {
-    Generic: indický čas,
-    Standard: indický čas,
-    Daylight: indický čas
-  },
-  Asia/Tehran: {
-    Generic: íránský čas,
-    Standard: íránský standardní čas,
-    Daylight: íránský letní čas
-  },
-  Asia/Jerusalem: {
-    Generic: izraelský čas,
-    Standard: izraelský standardní čas,
-    Daylight: izraelský letní čas
-  },
-  Asia/Amman: {
-    Generic: východoevropský čas,
-    Standard: východoevropský standardní čas,
-    Daylight: východoevropský letní čas
-  },
-  Europe/Kaliningrad: {
-    Generic: časové pásmo Kaliningrad,
-    Standard: Kaliningrad (+0),
-    Daylight: Kaliningrad (+1)
-  },
-  Asia/Seoul: {
-    Generic: korejský čas,
-    Standard: korejský standardní čas,
-    Daylight: korejský letní čas
-  },
-  Africa/Tripoli: {
-    Generic: východoevropský čas,
-    Standard: východoevropský standardní čas,
-    Daylight: východoevropský letní čas
-  },
-  Pacific/Kiritimati: {
-    Generic: čas Rovníkových ostrovů,
-    Standard: čas Rovníkových ostrovů,
-    Daylight: čas Rovníkových ostrovů
-  },
-  Etc/GMT-14: {
-    Generic: koordinovaný světový čas +14,
-    Standard: koordinovaný světový čas +14,
-    Daylight: koordinovaný světový čas +14
-  },
-  Australia/Lord_Howe: {
-    Generic: čas ostrova lorda Howa,
-    Standard: standardní čas ostrova lorda Howa,
-    Daylight: letní čas ostrova lorda Howa
-  },
-  Asia/Magadan: {
-    Generic: časové pásmo Magadan,
-    Standard: Magadan (+0),
-    Daylight: Magadan (+1)
-  },
-  America/Punta_Arenas: {
-    Generic: chilský čas,
-    Standard: chilský standardní čas,
-    Daylight: chilský letní čas
-  },
-  Pacific/Marquesas: {
-    Generic: markézský čas,
-    Standard: markézský čas,
-    Daylight: markézský čas
-  },
-  Indian/Mauritius: {
-    Generic: mauricijský čas,
-    Standard: mauricijský standardní čas,
-    Daylight: mauricijský letní čas
-  },
-  Indian/Reunion: {
-    Generic: réunionský čas,
-    Standard: réunionský čas,
-    Daylight: réunionský čas
-  },
-  Indian/Mahe: {
-    Generic: seychelský čas,
-    Standard: seychelský čas,
-    Daylight: seychelský čas
-  },
-  Asia/Beirut: {
-    Generic: východoevropský čas,
-    Standard: východoevropský standardní čas,
-    Daylight: východoevropský letní čas
-  },
-  America/Montevideo: {
-    Generic: uruguayský čas,
-    Standard: uruguayský standardní čas,
-    Daylight: uruguayský letní čas
-  },
-  Africa/Casablanca: {
-    Generic: západoevropský čas,
-    Standard: západoevropský standardní čas,
-    Daylight: západoevropský letní čas
-  },
-  Africa/El_Aaiun: {
-    Generic: západoevropský čas,
-    Standard: západoevropský standardní čas,
-    Daylight: západoevropský letní čas
-  },
-  America/Chihuahua: {
-    Generic: mexický pacifický čas,
-    Standard: mexický pacifický standardní čas,
-    Daylight: mexický pacifický letní čas
-  },
-  America/Mazatlan: {
-    Generic: mexický pacifický čas,
-    Standard: mexický pacifický standardní čas,
-    Daylight: mexický pacifický letní čas
-  },
-  America/Denver: {
-    Generic: severoamerický horský čas,
-    Standard: severoamerický horský standardní čas,
-    Daylight: severoamerický horský letní čas
-  },
-  America/Edmonton: {
-    Generic: severoamerický horský čas,
-    Standard: severoamerický horský standardní čas,
-    Daylight: severoamerický horský letní čas
-  },
-  America/Cambridge_Bay: {
-    Generic: severoamerický horský čas,
-    Standard: severoamerický horský standardní čas,
-    Daylight: severoamerický horský letní čas
-  },
-  America/Inuvik: {
-    Generic: severoamerický horský čas,
-    Standard: severoamerický horský standardní čas,
-    Daylight: severoamerický horský letní čas
-  },
-  America/Yellowknife: {
-    Generic: severoamerický horský čas,
-    Standard: severoamerický horský standardní čas,
-    Daylight: severoamerický horský letní čas
-  },
-  America/Ojinaga: {
-    Generic: severoamerický horský čas,
-    Standard: severoamerický horský standardní čas,
-    Daylight: severoamerický horský letní čas
-  },
-  America/Boise: {
-    Generic: severoamerický horský čas,
-    Standard: severoamerický horský standardní čas,
-    Daylight: severoamerický horský letní čas
-  },
-  MST7MDT: {
-    Generic: severoamerický horský čas,
-    Standard: severoamerický horský standardní čas,
-    Daylight: severoamerický horský letní čas
-  },
-  Asia/Rangoon: {
-    Generic: myanmarský čas,
-    Standard: myanmarský čas,
-    Daylight: myanmarský čas
-  },
-  Indian/Cocos: {
-    Generic: čas Kokosových ostrovů,
-    Standard: čas Kokosových ostrovů,
-    Daylight: čas Kokosových ostrovů
-  },
-  Asia/Novosibirsk: {
-    Generic: časové pásmo Novosibirsk,
-    Standard: Novosibirsk (+0),
-    Daylight: Novosibirsk (+1)
-  },
-  Africa/Windhoek: {
-    Generic: středoafrický čas,
-    Standard: středoafrický čas,
-    Daylight: středoafrický čas
-  },
-  Asia/Katmandu: {
-    Generic: nepálský čas,
-    Standard: nepálský čas,
-    Daylight: nepálský čas
-  },
-  Pacific/Auckland: {
-    Generic: novozélandský čas,
-    Standard: novozélandský standardní čas,
-    Daylight: novozélandský letní čas
-  },
-  Antarctica/McMurdo: {
-    Generic: novozélandský čas,
-    Standard: novozélandský standardní čas,
-    Daylight: novozélandský letní čas
-  },
-  America/St_Johns: {
-    Generic: newfoundlandský čas,
-    Standard: newfoundlandský standardní čas,
-    Daylight: newfoundlandský letní čas
-  },
-  Pacific/Norfolk: {
-    Generic: norfolkský čas,
-    Standard: norfolkský standardní čas,
-    Daylight: norfolkský letní čas
-  },
-  Asia/Irkutsk: {
-    Generic: časové pásmo Irkutsk,
-    Standard: Irkutsk (+0),
-    Daylight: Irkutsk (+1)
-  },
-  Asia/Krasnoyarsk: {
-    Generic: časové pásmo Krasnojarsk,
-    Standard: Krasnojarsk (+0),
-    Daylight: Krasnojarsk (+1)
-  },
-  Asia/Novokuznetsk: {
-    Generic: časové pásmo Novokuzněck,
-    Standard: Novokuzněck (+0),
-    Daylight: Novokuzněck (+1)
-  },
-  Asia/Pyongyang: {
-    Generic: korejský čas,
-    Standard: korejský standardní čas,
-    Daylight: korejský letní čas
-  },
-  Asia/Omsk: {
-    Generic: časové pásmo Omsk,
-    Standard: Omsk (+0),
-    Daylight: Omsk (+1)
-  },
-  America/Santiago: {
-    Generic: chilský čas,
-    Standard: chilský standardní čas,
-    Daylight: chilský letní čas
-  },
-  America/Tijuana: {
-    Generic: severoamerický pacifický čas,
-    Standard: severoamerický pacifický standardní čas,
-    Daylight: severoamerický pacifický letní čas
-  },
-  America/Santa_Isabel: {
-    Generic: severozápadní mexický čas,
-    Standard: severozápadní mexický standardní čas,
-    Daylight: severozápadní mexický letní čas
-  },
-  America/Los_Angeles: {
-    Generic: severoamerický pacifický čas,
-    Standard: severoamerický pacifický standardní čas,
-    Daylight: severoamerický pacifický letní čas
-  },
-  America/Vancouver: {
-    Generic: severoamerický pacifický čas,
-    Standard: severoamerický pacifický standardní čas,
-    Daylight: severoamerický pacifický letní čas
-  },
-  PST8PDT: {
-    Generic: severoamerický pacifický čas,
-    Standard: severoamerický pacifický standardní čas,
-    Daylight: severoamerický pacifický letní čas
-  },
-  Asia/Karachi: {
-    Generic: pákistánský čas,
-    Standard: pákistánský standardní čas,
-    Daylight: pákistánský letní čas
-  },
-  America/Asuncion: {
-    Generic: paraguayský čas,
-    Standard: paraguayský standardní čas,
-    Daylight: paraguayský letní čas
-  },
-  Asia/Qyzylorda: {
-    Generic: západokazachstánský čas,
-    Standard: západokazachstánský čas,
-    Daylight: západokazachstánský čas
-  },
-  Europe/Paris: {
-    Generic: středoevropský čas,
-    Standard: středoevropský standardní čas,
-    Daylight: středoevropský letní čas
-  },
-  Europe/Brussels: {
-    Generic: středoevropský čas,
-    Standard: středoevropský standardní čas,
-    Daylight: středoevropský letní čas
-  },
-  Europe/Copenhagen: {
-    Generic: středoevropský čas,
-    Standard: středoevropský standardní čas,
-    Daylight: středoevropský letní čas
-  },
-  Africa/Ceuta: {
-    Generic: středoevropský čas,
-    Standard: středoevropský standardní čas,
-    Daylight: středoevropský letní čas
-  },
-  Europe/Madrid: {
-    Generic: středoevropský čas,
-    Standard: středoevropský standardní čas,
-    Daylight: středoevropský letní čas
-  },
-  Asia/Srednekolymsk: {
-    Generic: časové pásmo Sredněkolymsk,
-    Standard: Sredněkolymsk (+0),
-    Daylight: Sredněkolymsk (+1)
-  },
-  Asia/Kamchatka: {
-    Generic: časové pásmo Kamčatka,
-    Standard: Kamčatka (+0),
-    Daylight: Kamčatka (+1)
-  },
-  Asia/Anadyr: {
-    Generic: časové pásmo Anadyr,
-    Standard: Anadyr (+0),
-    Daylight: Anadyr (+1)
-  },
-  Europe/Samara: {
-    Generic: časové pásmo Samara,
-    Standard: Samara (+0),
-    Daylight: Samara (+1)
-  },
-  Europe/Moscow: {
-    Generic: časové pásmo Moskva,
-    Standard: Moskva (+0),
-    Daylight: Moskva (+1)
-  },
-  Europe/Kirov: {
-    Generic: časové pásmo Kirov,
-    Standard: Kirov (+0),
-    Daylight: Kirov (+1)
-  },
-  Europe/Simferopol: {
-    Generic: moskevský čas,
-    Standard: moskevský standardní čas,
-    Daylight: moskevský letní čas
-  },
-  America/Cayenne: {
-    Generic: francouzskoguyanský čas,
-    Standard: francouzskoguyanský čas,
-    Daylight: francouzskoguyanský čas
-  },
-  Antarctica/Rothera: {
-    Generic: čas Rotherovy stanice,
-    Standard: čas Rotherovy stanice,
-    Daylight: čas Rotherovy stanice
-  },
-  Antarctica/Palmer: {
-    Generic: chilský čas,
-    Standard: chilský standardní čas,
-    Daylight: chilský letní čas
-  },
-  America/Fortaleza: {
-    Generic: brasilijský čas,
-    Standard: brasilijský standardní čas,
-    Daylight: brasilijský letní čas
-  },
-  America/Belem: {
-    Generic: brasilijský čas,
-    Standard: brasilijský standardní čas,
-    Daylight: brasilijský letní čas
-  },
-  America/Maceio: {
-    Generic: brasilijský čas,
-    Standard: brasilijský standardní čas,
-    Daylight: brasilijský letní čas
-  },
-  America/Recife: {
-    Generic: brasilijský čas,
-    Standard: brasilijský standardní čas,
-    Daylight: brasilijský letní čas
-  },
-  America/Santarem: {
-    Generic: brasilijský čas,
-    Standard: brasilijský standardní čas,
-    Daylight: brasilijský letní čas
-  },
-  Atlantic/Stanley: {
-    Generic: falklandský čas,
-    Standard: falklandský standardní čas,
-    Daylight: falklandský letní čas
-  },
-  America/Paramaribo: {
-    Generic: surinamský čas,
-    Standard: surinamský čas,
-    Daylight: surinamský čas
-  },
-  Etc/GMT+3: {
-    Generic: koordinovaný světový čas -3,
-    Standard: koordinovaný světový čas -3,
-    Daylight: koordinovaný světový čas -3
-  },
-  America/Bogota: {
-    Generic: kolumbijský čas,
-    Standard: kolumbijský standardní čas,
-    Daylight: kolumbijský letní čas
-  },
-  America/Rio_Branco: {
+  America/Port_of_Spain: {
+    Generic: atlantický čas,
+    Standard: atlantický standardní čas,
+    Daylight: atlantický letní čas
+  },
+  America/Porto_Acre: {
     Generic: Acrejský čas,
     Standard: Acrejský standardní čas,
     Daylight: Acrejský letní čas
-  },
-  America/Eirunepe: {
-    Generic: Acrejský čas,
-    Standard: Acrejský standardní čas,
-    Daylight: Acrejský letní čas
-  },
-  America/Coral_Harbour: {
-    Generic: severoamerický východní čas,
-    Standard: severoamerický východní standardní čas,
-    Daylight: severoamerický východní letní čas
-  },
-  America/Guayaquil: {
-    Generic: ekvádorský čas,
-    Standard: ekvádorský čas,
-    Daylight: ekvádorský čas
-  },
-  America/Jamaica: {
-    Generic: severoamerický východní čas,
-    Standard: severoamerický východní standardní čas,
-    Daylight: severoamerický východní letní čas
-  },
-  America/Cayman: {
-    Generic: severoamerický východní čas,
-    Standard: severoamerický východní standardní čas,
-    Daylight: severoamerický východní letní čas
-  },
-  America/Panama: {
-    Generic: severoamerický východní čas,
-    Standard: severoamerický východní standardní čas,
-    Daylight: severoamerický východní letní čas
-  },
-  America/Lima: {
-    Generic: peruánský čas,
-    Standard: peruánský standardní čas,
-    Daylight: peruánský letní čas
-  },
-  Etc/GMT+5: {
-    Generic: koordinovaný světový čas -5,
-    Standard: koordinovaný světový čas -5,
-    Daylight: koordinovaný světový čas -5
-  },
-  America/La_Paz: {
-    Generic: bolivijský čas,
-    Standard: bolivijský čas,
-    Daylight: bolivijský čas
-  },
-  America/Antigua: {
-    Generic: atlantický čas,
-    Standard: atlantický standardní čas,
-    Daylight: atlantický letní čas
-  },
-  America/Anguilla: {
-    Generic: atlantický čas,
-    Standard: atlantický standardní čas,
-    Daylight: atlantický letní čas
-  },
-  America/Aruba: {
-    Generic: atlantický čas,
-    Standard: atlantický standardní čas,
-    Daylight: atlantický letní čas
-  },
-  America/Barbados: {
-    Generic: atlantický čas,
-    Standard: atlantický standardní čas,
-    Daylight: atlantický letní čas
-  },
-  America/St_Barthelemy: {
-    Generic: atlantický čas,
-    Standard: atlantický standardní čas,
-    Daylight: atlantický letní čas
-  },
-  America/Kralendijk: {
-    Generic: atlantický čas,
-    Standard: atlantický standardní čas,
-    Daylight: atlantický letní čas
-  },
-  America/Manaus: {
-    Generic: amazonský čas,
-    Standard: amazonský standardní čas,
-    Daylight: amazonský letní čas
-  },
-  America/Boa_Vista: {
-    Generic: amazonský čas,
-    Standard: amazonský standardní čas,
-    Daylight: amazonský letní čas
   },
   America/Porto_Velho: {
     Generic: amazonský čas,
     Standard: amazonský standardní čas,
     Daylight: amazonský letní čas
   },
-  America/Blanc-Sablon: {
+  America/Puerto_Rico: {
     Generic: atlantický čas,
     Standard: atlantický standardní čas,
     Daylight: atlantický letní čas
   },
-  America/Curacao: {
-    Generic: atlantický čas,
-    Standard: atlantický standardní čas,
-    Daylight: atlantický letní čas
+  America/Punta_Arenas: {
+    Generic: chilský čas,
+    Standard: chilský standardní čas,
+    Daylight: chilský letní čas
   },
-  America/Dominica: {
-    Generic: atlantický čas,
-    Standard: atlantický standardní čas,
-    Daylight: atlantický letní čas
+  America/Rainy_River: {
+    Generic: severoamerický centrální čas,
+    Standard: severoamerický centrální standardní čas,
+    Daylight: severoamerický centrální letní čas
+  },
+  America/Rankin_Inlet: {
+    Generic: severoamerický centrální čas,
+    Standard: severoamerický centrální standardní čas,
+    Daylight: severoamerický centrální letní čas
+  },
+  America/Recife: {
+    Generic: brasilijský čas,
+    Standard: brasilijský standardní čas,
+    Daylight: brasilijský letní čas
+  },
+  America/Regina: {
+    Generic: severoamerický centrální čas,
+    Standard: severoamerický centrální standardní čas,
+    Daylight: severoamerický centrální letní čas
+  },
+  America/Resolute: {
+    Generic: severoamerický centrální čas,
+    Standard: severoamerický centrální standardní čas,
+    Daylight: severoamerický centrální letní čas
+  },
+  America/Rio_Branco: {
+    Generic: Acrejský čas,
+    Standard: Acrejský standardní čas,
+    Daylight: Acrejský letní čas
+  },
+  America/Rosario: {
+    Generic: argentinský čas,
+    Standard: argentinský standardní čas,
+    Daylight: argentinský letní čas
+  },
+  America/Santa_Isabel: {
+    Generic: severozápadní mexický čas,
+    Standard: severozápadní mexický standardní čas,
+    Daylight: severozápadní mexický letní čas
+  },
+  America/Santarem: {
+    Generic: brasilijský čas,
+    Standard: brasilijský standardní čas,
+    Daylight: brasilijský letní čas
+  },
+  America/Santiago: {
+    Generic: chilský čas,
+    Standard: chilský standardní čas,
+    Daylight: chilský letní čas
   },
   America/Santo_Domingo: {
     Generic: atlantický čas,
     Standard: atlantický standardní čas,
     Daylight: atlantický letní čas
   },
-  America/Grenada: {
+  America/Sao_Paulo: {
+    Generic: brasilijský čas,
+    Standard: brasilijský standardní čas,
+    Daylight: brasilijský letní čas
+  },
+  America/Scoresbysund: {
+    Generic: východogrónský čas,
+    Standard: východogrónský standardní čas,
+    Daylight: východogrónský letní čas
+  },
+  America/Shiprock: {
+    Generic: severoamerický horský čas,
+    Standard: severoamerický horský standardní čas,
+    Daylight: severoamerický horský letní čas
+  },
+  America/Sitka: {
+    Generic: aljašský čas,
+    Standard: aljašský standardní čas,
+    Daylight: aljašský letní čas
+  },
+  America/St_Barthelemy: {
     Generic: atlantický čas,
     Standard: atlantický standardní čas,
     Daylight: atlantický letní čas
   },
-  America/Guadeloupe: {
-    Generic: atlantický čas,
-    Standard: atlantický standardní čas,
-    Daylight: atlantický letní čas
-  },
-  America/Guyana: {
-    Generic: guyanský čas,
-    Standard: guyanský čas,
-    Daylight: guyanský čas
+  America/St_Johns: {
+    Generic: newfoundlandský čas,
+    Standard: newfoundlandský standardní čas,
+    Daylight: newfoundlandský letní čas
   },
   America/St_Kitts: {
     Generic: atlantický čas,
@@ -1504,32 +1029,7 @@
     Standard: atlantický standardní čas,
     Daylight: atlantický letní čas
   },
-  America/Marigot: {
-    Generic: atlantický čas,
-    Standard: atlantický standardní čas,
-    Daylight: atlantický letní čas
-  },
-  America/Martinique: {
-    Generic: atlantický čas,
-    Standard: atlantický standardní čas,
-    Daylight: atlantický letní čas
-  },
-  America/Montserrat: {
-    Generic: atlantický čas,
-    Standard: atlantický standardní čas,
-    Daylight: atlantický letní čas
-  },
-  America/Puerto_Rico: {
-    Generic: atlantický čas,
-    Standard: atlantický standardní čas,
-    Daylight: atlantický letní čas
-  },
-  America/Lower_Princes: {
-    Generic: atlantický čas,
-    Standard: atlantický standardní čas,
-    Daylight: atlantický letní čas
-  },
-  America/Port_of_Spain: {
+  America/St_Thomas: {
     Generic: atlantický čas,
     Standard: atlantický standardní čas,
     Daylight: atlantický letní čas
@@ -1539,655 +1039,155 @@
     Standard: atlantický standardní čas,
     Daylight: atlantický letní čas
   },
+  America/Swift_Current: {
+    Generic: severoamerický centrální čas,
+    Standard: severoamerický centrální standardní čas,
+    Daylight: severoamerický centrální letní čas
+  },
+  America/Tegucigalpa: {
+    Generic: severoamerický centrální čas,
+    Standard: severoamerický centrální standardní čas,
+    Daylight: severoamerický centrální letní čas
+  },
+  America/Thule: {
+    Generic: atlantický čas,
+    Standard: atlantický standardní čas,
+    Daylight: atlantický letní čas
+  },
+  America/Thunder_Bay: {
+    Generic: severoamerický východní čas,
+    Standard: severoamerický východní standardní čas,
+    Daylight: severoamerický východní letní čas
+  },
+  America/Tijuana: {
+    Generic: severoamerický pacifický čas,
+    Standard: severoamerický pacifický standardní čas,
+    Daylight: severoamerický pacifický letní čas
+  },
+  America/Toronto: {
+    Generic: severoamerický východní čas,
+    Standard: severoamerický východní standardní čas,
+    Daylight: severoamerický východní letní čas
+  },
   America/Tortola: {
     Generic: atlantický čas,
     Standard: atlantický standardní čas,
     Daylight: atlantický letní čas
   },
-  America/St_Thomas: {
+  America/Vancouver: {
+    Generic: severoamerický pacifický čas,
+    Standard: severoamerický pacifický standardní čas,
+    Daylight: severoamerický pacifický letní čas
+  },
+  America/Virgin: {
     Generic: atlantický čas,
     Standard: atlantický standardní čas,
     Daylight: atlantický letní čas
   },
-  Etc/GMT+4: {
-    Generic: koordinovaný světový čas -4,
-    Standard: koordinovaný světový čas -4,
-    Daylight: koordinovaný světový čas -4
+  America/Whitehorse: {
+    Generic: yukonský čas,
+    Standard: yukonský čas,
+    Daylight: yukonský čas
   },
-  Asia/Bangkok: {
-    Generic: indočínský čas,
-    Standard: indočínský čas,
-    Daylight: indočínský čas
+  America/Winnipeg: {
+    Generic: severoamerický centrální čas,
+    Standard: severoamerický centrální standardní čas,
+    Daylight: severoamerický centrální letní čas
+  },
+  America/Yakutat: {
+    Generic: aljašský čas,
+    Standard: aljašský standardní čas,
+    Daylight: aljašský letní čas
+  },
+  America/Yellowknife: {
+    Generic: severoamerický horský čas,
+    Standard: severoamerický horský standardní čas,
+    Daylight: severoamerický horský letní čas
+  },
+  Antarctica/Casey: {
+    Generic: Čas Caseyho stanice,
+    Standard: Čas Caseyho stanice,
+    Daylight: Čas Caseyho stanice
   },
   Antarctica/Davis: {
     Generic: čas Davisovy stanice,
     Standard: čas Davisovy stanice,
     Daylight: čas Davisovy stanice
   },
-  Indian/Christmas: {
-    Generic: čas Vánočního ostrova,
-    Standard: čas Vánočního ostrova,
-    Daylight: čas Vánočního ostrova
-  },
-  Asia/Jakarta: {
-    Generic: západoindonéský čas,
-    Standard: západoindonéský čas,
-    Daylight: západoindonéský čas
-  },
-  Asia/Pontianak: {
-    Generic: západoindonéský čas,
-    Standard: západoindonéský čas,
-    Daylight: západoindonéský čas
-  },
-  Asia/Phnom_Penh: {
-    Generic: indočínský čas,
-    Standard: indočínský čas,
-    Daylight: indočínský čas
-  },
-  Asia/Vientiane: {
-    Generic: indočínský čas,
-    Standard: indočínský čas,
-    Daylight: indočínský čas
-  },
-  Asia/Saigon: {
-    Generic: indočínský čas,
-    Standard: indočínský čas,
-    Daylight: indočínský čas
-  },
-  Etc/GMT-7: {
-    Generic: koordinovaný světový čas +7,
-    Standard: koordinovaný světový čas +7,
-    Daylight: koordinovaný světový čas +7
-  },
-  America/Miquelon: {
-    Generic: pierre-miquelonský čas,
-    Standard: pierre-miquelonský standardní čas,
-    Daylight: pierre-miquelonský letní čas
-  },
-  Asia/Sakhalin: {
-    Generic: časové pásmo Sachalin,
-    Standard: Sachalin (+0),
-    Daylight: Sachalin (+1)
-  },
-  Pacific/Apia: {
-    Generic: apijský čas,
-    Standard: apijský standardní čas,
-    Daylight: apijský letní čas
-  },
-  Africa/Sao_Tome: {
-    Generic: greenwichský střední čas,
-    Standard: greenwichský střední čas,
-    Daylight: greenwichský střední čas
-  },
-  Europe/Saratov: {
-    Generic: časové pásmo Saratov,
-    Standard: Saratov (+0),
-    Daylight: Saratov (+1)
-  },
-  Asia/Singapore: {
-    Generic: singapurský čas,
-    Standard: singapurský čas,
-    Daylight: singapurský čas
-  },
-  Asia/Brunei: {
-    Generic: brunejský čas,
-    Standard: brunejský čas,
-    Daylight: brunejský čas
-  },
-  Asia/Makassar: {
-    Generic: středoindonéský čas,
-    Standard: středoindonéský čas,
-    Daylight: středoindonéský čas
-  },
-  Asia/Kuala_Lumpur: {
-    Generic: malajský čas,
-    Standard: malajský čas,
-    Daylight: malajský čas
-  },
-  Asia/Kuching: {
-    Generic: malajský čas,
-    Standard: malajský čas,
-    Daylight: malajský čas
-  },
-  Asia/Manila: {
-    Generic: filipínský čas,
-    Standard: filipínský standardní čas,
-    Daylight: filipínský letní čas
-  },
-  Etc/GMT-8: {
-    Generic: koordinovaný světový čas +8,
-    Standard: koordinovaný světový čas +8,
-    Daylight: koordinovaný světový čas +8
-  },
-  Africa/Johannesburg: {
-    Generic: jihoafrický čas,
-    Standard: jihoafrický čas,
-    Daylight: jihoafrický čas
-  },
-  Africa/Bujumbura: {
-    Generic: středoafrický čas,
-    Standard: středoafrický čas,
-    Daylight: středoafrický čas
-  },
-  Africa/Gaborone: {
-    Generic: středoafrický čas,
-    Standard: středoafrický čas,
-    Daylight: středoafrický čas
-  },
-  Africa/Lubumbashi: {
-    Generic: středoafrický čas,
-    Standard: středoafrický čas,
-    Daylight: středoafrický čas
-  },
-  Africa/Maseru: {
-    Generic: jihoafrický čas,
-    Standard: jihoafrický čas,
-    Daylight: jihoafrický čas
-  },
-  Africa/Blantyre: {
-    Generic: středoafrický čas,
-    Standard: středoafrický čas,
-    Daylight: středoafrický čas
-  },
-  Africa/Maputo: {
-    Generic: středoafrický čas,
-    Standard: středoafrický čas,
-    Daylight: středoafrický čas
-  },
-  Africa/Kigali: {
-    Generic: středoafrický čas,
-    Standard: středoafrický čas,
-    Daylight: středoafrický čas
-  },
-  Africa/Mbabane: {
-    Generic: jihoafrický čas,
-    Standard: jihoafrický čas,
-    Daylight: jihoafrický čas
-  },
-  Africa/Lusaka: {
-    Generic: středoafrický čas,
-    Standard: středoafrický čas,
-    Daylight: středoafrický čas
-  },
-  Africa/Harare: {
-    Generic: středoafrický čas,
-    Standard: středoafrický čas,
-    Daylight: středoafrický čas
-  },
-  Etc/GMT-2: {
-    Generic: koordinovaný světový čas +2,
-    Standard: koordinovaný světový čas +2,
-    Daylight: koordinovaný světový čas +2
-  },
-  Africa/Juba: {
-    Generic: středoafrický čas,
-    Standard: středoafrický čas,
-    Daylight: středoafrický čas
-  },
-  Asia/Colombo: {
-    Generic: indický čas,
-    Standard: indický čas,
-    Daylight: indický čas
-  },
-  Africa/Khartoum: {
-    Generic: středoafrický čas,
-    Standard: středoafrický čas,
-    Daylight: středoafrický čas
-  },
-  Asia/Damascus: {
-    Generic: východoevropský čas,
-    Standard: východoevropský standardní čas,
-    Daylight: východoevropský letní čas
-  },
-  Asia/Taipei: {
-    Generic: tchajpejský čas,
-    Standard: tchajpejský standardní čas,
-    Daylight: tchajpejský letní čas
-  },
-  Australia/Hobart: {
-    Generic: východoaustralský čas,
-    Standard: východoaustralský standardní čas,
-    Daylight: východoaustralský letní čas
-  },
-  Australia/Currie: {
-    Generic: východoaustralský čas,
-    Standard: východoaustralský standardní čas,
-    Daylight: východoaustralský letní čas
+  Antarctica/DumontDUrville: {
+    Generic: čas stanice Dumonta d’Urvilla,
+    Standard: čas stanice Dumonta d’Urvilla,
+    Daylight: čas stanice Dumonta d’Urvilla
   },
   Antarctica/Macquarie: {
     Generic: východoaustralský čas,
     Standard: východoaustralský standardní čas,
     Daylight: východoaustralský letní čas
   },
-  America/Araguaina: {
-    Generic: brasilijský čas,
-    Standard: brasilijský standardní čas,
-    Daylight: brasilijský letní čas
+  Antarctica/Mawson: {
+    Generic: čas Mawsonovy stanice,
+    Standard: čas Mawsonovy stanice,
+    Daylight: čas Mawsonovy stanice
   },
-  Asia/Tokyo: {
-    Generic: japonský čas,
-    Standard: japonský standardní čas,
-    Daylight: japonský letní čas
+  Antarctica/McMurdo: {
+    Generic: novozélandský čas,
+    Standard: novozélandský standardní čas,
+    Daylight: novozélandský letní čas
   },
-  Asia/Jayapura: {
-    Generic: východoindonéský čas,
-    Standard: východoindonéský čas,
-    Daylight: východoindonéský čas
+  Antarctica/Palmer: {
+    Generic: chilský čas,
+    Standard: chilský standardní čas,
+    Daylight: chilský letní čas
   },
-  Pacific/Palau: {
-    Generic: palauský čas,
-    Standard: palauský čas,
-    Daylight: palauský čas
+  Antarctica/Rothera: {
+    Generic: čas Rotherovy stanice,
+    Standard: čas Rotherovy stanice,
+    Daylight: čas Rotherovy stanice
   },
-  Asia/Dili: {
-    Generic: východotimorský čas,
-    Standard: východotimorský čas,
-    Daylight: východotimorský čas
+  Antarctica/South_Pole: {
+    Generic: novozélandský čas,
+    Standard: novozélandský standardní čas,
+    Daylight: novozélandský letní čas
   },
-  Etc/GMT-9: {
-    Generic: koordinovaný světový čas +9,
-    Standard: koordinovaný světový čas +9,
-    Daylight: koordinovaný světový čas +9
+  Antarctica/Syowa: {
+    Generic: čas stanice Šówa,
+    Standard: čas stanice Šówa,
+    Daylight: čas stanice Šówa
   },
-  Asia/Tomsk: {
-    Generic: časové pásmo Tomsk,
-    Standard: Tomsk (+0),
-    Daylight: Tomsk (+1)
-  },
-  Pacific/Tongatapu: {
-    Generic: tonžský čas,
-    Standard: tonžský standardní čas,
-    Daylight: tonžský letní čas
-  },
-  Asia/Chita: {
-    Generic: časové pásmo Čita,
-    Standard: Čita (+0),
-    Daylight: Čita (+1)
-  },
-  Europe/Istanbul: {
-    Generic: časové pásmo Turecko,
-    Standard: Turecko (+0),
-    Daylight: Turecko (+1)
-  },
-  America/Grand_Turk: {
-    Generic: severoamerický východní čas,
-    Standard: severoamerický východní standardní čas,
-    Daylight: severoamerický východní letní čas
-  },
-  America/Indianapolis: {
-    Generic: severoamerický východní čas,
-    Standard: severoamerický východní standardní čas,
-    Daylight: severoamerický východní letní čas
-  },
-  America/Indiana/Marengo: {
-    Generic: severoamerický východní čas,
-    Standard: severoamerický východní standardní čas,
-    Daylight: severoamerický východní letní čas
-  },
-  America/Indiana/Vevay: {
-    Generic: severoamerický východní čas,
-    Standard: severoamerický východní standardní čas,
-    Daylight: severoamerický východní letní čas
-  },
-  America/Phoenix: {
-    Generic: severoamerický horský čas,
-    Standard: severoamerický horský standardní čas,
-    Daylight: severoamerický horský letní čas
-  },
-  America/Creston: {
-    Generic: severoamerický horský čas,
-    Standard: severoamerický horský standardní čas,
-    Daylight: severoamerický horský letní čas
-  },
-  America/Dawson_Creek: {
-    Generic: severoamerický horský čas,
-    Standard: severoamerický horský standardní čas,
-    Daylight: severoamerický horský letní čas
-  },
-  America/Fort_Nelson: {
-    Generic: severoamerický horský čas,
-    Standard: severoamerický horský standardní čas,
-    Daylight: severoamerický horský letní čas
-  },
-  America/Hermosillo: {
-    Generic: mexický pacifický čas,
-    Standard: mexický pacifický standardní čas,
-    Daylight: mexický pacifický letní čas
-  },
-  Etc/GMT+7: {
-    Generic: koordinovaný světový čas -7,
-    Standard: koordinovaný světový čas -7,
-    Daylight: koordinovaný světový čas -7
-  },
-  Etc/GMT-12: {
-    Generic: koordinovaný světový čas +12,
-    Standard: koordinovaný světový čas +12,
-    Daylight: koordinovaný světový čas +12
-  },
-  Pacific/Tarawa: {
-    Generic: čas Gilbertových ostrovů,
-    Standard: čas Gilbertových ostrovů,
-    Daylight: čas Gilbertových ostrovů
-  },
-  Pacific/Majuro: {
-    Generic: čas Marshallových ostrovů,
-    Standard: čas Marshallových ostrovů,
-    Daylight: čas Marshallových ostrovů
-  },
-  Pacific/Kwajalein: {
-    Generic: čas Marshallových ostrovů,
-    Standard: čas Marshallových ostrovů,
-    Daylight: čas Marshallových ostrovů
-  },
-  Pacific/Nauru: {
-    Generic: naurský čas,
-    Standard: naurský čas,
-    Daylight: naurský čas
-  },
-  Pacific/Funafuti: {
-    Generic: tuvalský čas,
-    Standard: tuvalský čas,
-    Daylight: tuvalský čas
-  },
-  Pacific/Wake: {
-    Generic: čas ostrova Wake,
-    Standard: čas ostrova Wake,
-    Daylight: čas ostrova Wake
-  },
-  Pacific/Wallis: {
-    Generic: čas ostrovů Wallis a Futuna,
-    Standard: čas ostrovů Wallis a Futuna,
-    Daylight: čas ostrovů Wallis a Futuna
-  },
-  Etc/GMT-13: {
-    Generic: koordinovaný světový čas +13,
-    Standard: koordinovaný světový čas +13,
-    Daylight: koordinovaný světový čas +13
-  },
-  Pacific/Enderbury: {
-    Generic: čas Fénixových ostrovů,
-    Standard: čas Fénixových ostrovů,
-    Daylight: čas Fénixových ostrovů
-  },
-  Pacific/Fakaofo: {
-    Generic: tokelauský čas,
-    Standard: tokelauský čas,
-    Daylight: tokelauský čas
-  },
-  Etc/UTC: {
-    Generic: koordinovaný světový čas,
-    Standard: koordinovaný světový čas,
-    Daylight: koordinovaný světový čas
-  },
-  Etc/GMT: {
+  Antarctica/Troll: {
     Generic: greenwichský střední čas,
     Standard: greenwichský střední čas,
     Daylight: greenwichský střední čas
   },
-  Etc/GMT+2: {
-    Generic: koordinovaný světový čas -2,
-    Standard: koordinovaný světový čas -2,
-    Daylight: koordinovaný světový čas -2
-  },
-  America/Noronha: {
-    Generic: čas souostroví Fernando de Noronha,
-    Standard: standardní čas souostroví Fernando de Noronha,
-    Daylight: letní čas souostroví Fernando de Noronha
-  },
-  Atlantic/South_Georgia: {
-    Generic: čas Jižní Georgie,
-    Standard: čas Jižní Georgie,
-    Daylight: čas Jižní Georgie
-  },
-  Etc/GMT+8: {
-    Generic: koordinovaný světový čas -8,
-    Standard: koordinovaný světový čas -8,
-    Daylight: koordinovaný světový čas -8
-  },
-  Pacific/Pitcairn: {
-    Generic: čas Pitcairnových ostrovů,
-    Standard: čas Pitcairnových ostrovů,
-    Daylight: čas Pitcairnových ostrovů
-  },
-  Etc/GMT+9: {
-    Generic: koordinovaný světový čas -9,
-    Standard: koordinovaný světový čas -9,
-    Daylight: koordinovaný světový čas -9
-  },
-  Pacific/Gambier: {
-    Generic: gambierský čas,
-    Standard: gambierský čas,
-    Daylight: gambierský čas
-  },
-  Etc/GMT+11: {
-    Generic: koordinovaný světový čas -11,
-    Standard: koordinovaný světový čas -11,
-    Daylight: koordinovaný světový čas -11
-  },
-  Pacific/Pago_Pago: {
-    Generic: samojský čas,
-    Standard: samojský standardní čas,
-    Daylight: samojský letní čas
-  },
-  Pacific/Niue: {
-    Generic: niuejský čas,
-    Standard: niuejský čas,
-    Daylight: niuejský čas
-  },
-  Pacific/Midway: {
-    Generic: samojský čas,
-    Standard: samojský standardní čas,
-    Daylight: samojský letní čas
-  },
-  Asia/Ulaanbaatar: {
-    Generic: ulánbátarský čas,
-    Standard: ulánbátarský standardní čas,
-    Daylight: ulánbátarský letní čas
-  },
-  Asia/Choibalsan: {
-    Generic: ulánbátarský čas,
-    Standard: ulánbátarský standardní čas,
-    Daylight: ulánbátarský letní čas
-  },
-  America/Caracas: {
-    Generic: venezuelský čas,
-    Standard: venezuelský čas,
-    Daylight: venezuelský čas
-  },
-  Asia/Vladivostok: {
-    Generic: časové pásmo Vladivostok,
-    Standard: Vladivostok (+0),
-    Daylight: Vladivostok (+1)
-  },
-  Asia/Ust-Nera: {
-    Generic: časové pásmo Ust-Nera,
-    Standard: Ust-Nera (+0),
-    Daylight: Ust-Nera (+1)
-  },
-  Europe/Volgograd: {
-    Generic: časové pásmo Volgograd,
-    Standard: Volgograd (+0),
-    Daylight: Volgograd (+1)
-  },
-  Australia/Perth: {
-    Generic: západoaustralský čas,
-    Standard: západoaustralský standardní čas,
-    Daylight: západoaustralský letní čas
-  },
-  Africa/Lagos: {
-    Generic: západoafrický čas,
-    Standard: západoafrický standardní čas,
-    Daylight: západoafrický letní čas
-  },
-  Africa/Luanda: {
-    Generic: západoafrický čas,
-    Standard: západoafrický standardní čas,
-    Daylight: západoafrický letní čas
-  },
-  Africa/Porto-Novo: {
-    Generic: západoafrický čas,
-    Standard: západoafrický standardní čas,
-    Daylight: západoafrický letní čas
-  },
-  Africa/Kinshasa: {
-    Generic: západoafrický čas,
-    Standard: západoafrický standardní čas,
-    Daylight: západoafrický letní čas
-  },
-  Africa/Bangui: {
-    Generic: západoafrický čas,
-    Standard: západoafrický standardní čas,
-    Daylight: západoafrický letní čas
-  },
-  Africa/Brazzaville: {
-    Generic: západoafrický čas,
-    Standard: západoafrický standardní čas,
-    Daylight: západoafrický letní čas
-  },
-  Africa/Douala: {
-    Generic: západoafrický čas,
-    Standard: západoafrický standardní čas,
-    Daylight: západoafrický letní čas
-  },
-  Africa/Algiers: {
-    Generic: středoevropský čas,
-    Standard: středoevropský standardní čas,
-    Daylight: středoevropský letní čas
-  },
-  Africa/Libreville: {
-    Generic: západoafrický čas,
-    Standard: západoafrický standardní čas,
-    Daylight: západoafrický letní čas
-  },
-  Africa/Malabo: {
-    Generic: západoafrický čas,
-    Standard: západoafrický standardní čas,
-    Daylight: západoafrický letní čas
-  },
-  Africa/Niamey: {
-    Generic: západoafrický čas,
-    Standard: západoafrický standardní čas,
-    Daylight: západoafrický letní čas
-  },
-  Africa/Ndjamena: {
-    Generic: západoafrický čas,
-    Standard: západoafrický standardní čas,
-    Daylight: západoafrický letní čas
-  },
-  Africa/Tunis: {
-    Generic: středoevropský čas,
-    Standard: středoevropský standardní čas,
-    Daylight: středoevropský letní čas
-  },
-  Etc/GMT-1: {
-    Generic: koordinovaný světový čas +1,
-    Standard: koordinovaný světový čas +1,
-    Daylight: koordinovaný světový čas +1
-  },
-  Europe/Berlin: {
-    Generic: středoevropský čas,
-    Standard: středoevropský standardní čas,
-    Daylight: středoevropský letní čas
-  },
-  Europe/Andorra: {
-    Generic: středoevropský čas,
-    Standard: středoevropský standardní čas,
-    Daylight: středoevropský letní čas
-  },
-  Europe/Vienna: {
-    Generic: středoevropský čas,
-    Standard: středoevropský standardní čas,
-    Daylight: středoevropský letní čas
-  },
-  Europe/Zurich: {
-    Generic: středoevropský čas,
-    Standard: středoevropský standardní čas,
-    Daylight: středoevropský letní čas
-  },
-  Europe/Busingen: {
-    Generic: středoevropský čas,
-    Standard: středoevropský standardní čas,
-    Daylight: středoevropský letní čas
-  },
-  Europe/Gibraltar: {
-    Generic: středoevropský čas,
-    Standard: středoevropský standardní čas,
-    Daylight: středoevropský letní čas
-  },
-  Europe/Rome: {
-    Generic: středoevropský čas,
-    Standard: středoevropský standardní čas,
-    Daylight: středoevropský letní čas
-  },
-  Europe/Vaduz: {
-    Generic: středoevropský čas,
-    Standard: středoevropský standardní čas,
-    Daylight: středoevropský letní čas
-  },
-  Europe/Luxembourg: {
-    Generic: středoevropský čas,
-    Standard: středoevropský standardní čas,
-    Daylight: středoevropský letní čas
-  },
-  Europe/Monaco: {
-    Generic: středoevropský čas,
-    Standard: středoevropský standardní čas,
-    Daylight: středoevropský letní čas
-  },
-  Europe/Malta: {
-    Generic: středoevropský čas,
-    Standard: středoevropský standardní čas,
-    Daylight: středoevropský letní čas
-  },
-  Europe/Amsterdam: {
-    Generic: středoevropský čas,
-    Standard: středoevropský standardní čas,
-    Daylight: středoevropský letní čas
-  },
-  Europe/Oslo: {
-    Generic: středoevropský čas,
-    Standard: středoevropský standardní čas,
-    Daylight: středoevropský letní čas
-  },
-  Europe/Stockholm: {
-    Generic: středoevropský čas,
-    Standard: středoevropský standardní čas,
-    Daylight: středoevropský letní čas
+  Antarctica/Vostok: {
+    Generic: čas stanice Vostok,
+    Standard: čas stanice Vostok,
+    Daylight: čas stanice Vostok
   },
   Arctic/Longyearbyen: {
     Generic: středoevropský čas,
     Standard: středoevropský standardní čas,
     Daylight: středoevropský letní čas
   },
-  Europe/San_Marino: {
-    Generic: středoevropský čas,
-    Standard: středoevropský standardní čas,
-    Daylight: středoevropský letní čas
+  Asia/Aden: {
+    Generic: arabský čas,
+    Standard: arabský standardní čas,
+    Daylight: arabský letní čas
   },
-  Europe/Vatican: {
-    Generic: středoevropský čas,
-    Standard: středoevropský standardní čas,
-    Daylight: středoevropský letní čas
+  Asia/Almaty: {
+    Generic: východokazachstánský čas,
+    Standard: východokazachstánský čas,
+    Daylight: východokazachstánský čas
   },
-  Asia/Hovd: {
-    Generic: hovdský čas,
-    Standard: hovdský standardní čas,
-    Daylight: hovdský letní čas
+  Asia/Amman: {
+    Generic: východoevropský čas,
+    Standard: východoevropský standardní čas,
+    Daylight: východoevropský letní čas
   },
-  Asia/Tashkent: {
-    Generic: uzbecký čas,
-    Standard: uzbecký standardní čas,
-    Daylight: uzbecký letní čas
-  },
-  Antarctica/Mawson: {
-    Generic: čas Mawsonovy stanice,
-    Standard: čas Mawsonovy stanice,
-    Daylight: čas Mawsonovy stanice
-  },
-  Asia/Oral: {
-    Generic: západokazachstánský čas,
-    Standard: západokazachstánský čas,
-    Daylight: západokazachstánský čas
+  Asia/Anadyr: {
+    Generic: časové pásmo Anadyr,
+    Standard: Anadyr (+0),
+    Daylight: Anadyr (+1)
   },
   Asia/Aqtau: {
     Generic: západokazachstánský čas,
@@ -2199,415 +1199,75 @@
     Standard: západokazachstánský čas,
     Daylight: západokazachstánský čas
   },
-  Asia/Atyrau: {
-    Generic: západokazachstánský čas,
-    Standard: západokazachstánský čas,
-    Daylight: západokazachstánský čas
-  },
-  Indian/Maldives: {
-    Generic: maledivský čas,
-    Standard: maledivský čas,
-    Daylight: maledivský čas
-  },
-  Indian/Kerguelen: {
-    Generic: čas Francouzských jižních a antarktických území,
-    Standard: čas Francouzských jižních a antarktických území,
-    Daylight: čas Francouzských jižních a antarktických území
-  },
-  Asia/Dushanbe: {
-    Generic: tádžický čas,
-    Standard: tádžický čas,
-    Daylight: tádžický čas
-  },
   Asia/Ashgabat: {
     Generic: turkmenský čas,
     Standard: turkmenský standardní čas,
     Daylight: turkmenský letní čas
-  },
-  Asia/Samarkand: {
-    Generic: uzbecký čas,
-    Standard: uzbecký standardní čas,
-    Daylight: uzbecký letní čas
-  },
-  Etc/GMT-5: {
-    Generic: koordinovaný světový čas +5,
-    Standard: koordinovaný světový čas +5,
-    Daylight: koordinovaný světový čas +5
-  },
-  Asia/Hebron: {
-    Generic: východoevropský čas,
-    Standard: východoevropský standardní čas,
-    Daylight: východoevropský letní čas
-  },
-  Asia/Gaza: {
-    Generic: východoevropský čas,
-    Standard: východoevropský standardní čas,
-    Daylight: východoevropský letní čas
-  },
-  Pacific/Port_Moresby: {
-    Generic: čas Papuy-Nové Guiney,
-    Standard: čas Papuy-Nové Guiney,
-    Daylight: čas Papuy-Nové Guiney
-  },
-  Antarctica/DumontDUrville: {
-    Generic: čas stanice Dumonta d’Urvilla,
-    Standard: čas stanice Dumonta d’Urvilla,
-    Daylight: čas stanice Dumonta d’Urvilla
-  },
-  Pacific/Truk: {
-    Generic: chuukský čas,
-    Standard: chuukský čas,
-    Daylight: chuukský čas
-  },
-  Pacific/Guam: {
-    Generic: chamorrský čas,
-    Standard: chamorrský čas,
-    Daylight: chamorrský čas
-  },
-  Pacific/Saipan: {
-    Generic: chamorrský čas,
-    Standard: chamorrský čas,
-    Daylight: chamorrský čas
-  },
-  Etc/GMT-10: {
-    Generic: koordinovaný světový čas +10,
-    Standard: koordinovaný světový čas +10,
-    Daylight: koordinovaný světový čas +10
-  },
-  Asia/Yakutsk: {
-    Generic: časové pásmo Jakutsk,
-    Standard: Jakutsk (+0),
-    Daylight: Jakutsk (+1)
-  },
-  Asia/Khandyga: {
-    Generic: časové pásmo Chandyga,
-    Standard: Chandyga (+0),
-    Daylight: Chandyga (+1)
-  },
-  America/Whitehorse: {
-    Generic: yukonský čas,
-    Standard: yukonský čas,
-    Daylight: yukonský čas
-  },
-  America/Dawson: {
-    Generic: yukonský čas,
-    Standard: yukonský čas,
-    Daylight: yukonský čas
-  },
-  Iceland: {
-    Generic: greenwichský střední čas,
-    Standard: greenwichský střední čas,
-    Daylight: greenwichský střední čas
-  },
-  Africa/Timbuktu: {
-    Generic: greenwichský střední čas,
-    Standard: greenwichský střední čas,
-    Daylight: greenwichský střední čas
-  },
-  Egypt: {
-    Generic: východoevropský čas,
-    Standard: východoevropský standardní čas,
-    Daylight: východoevropský letní čas
-  },
-  Africa/Asmara: {
-    Generic: východoafrický čas,
-    Standard: východoafrický čas,
-    Daylight: východoafrický čas
-  },
-  Libya: {
-    Generic: východoevropský čas,
-    Standard: východoevropský standardní čas,
-    Daylight: východoevropský letní čas
-  },
-  America/Atka: {
-    Generic: havajsko-aleutský čas,
-    Standard: havajsko-aleutský standardní čas,
-    Daylight: havajsko-aleutský letní čas
-  },
-  US/Aleutian: {
-    Generic: havajsko-aleutský čas,
-    Standard: havajsko-aleutský standardní čas,
-    Daylight: havajsko-aleutský letní čas
-  },
-  US/Alaska: {
-    Generic: aljašský čas,
-    Standard: aljašský standardní čas,
-    Daylight: aljašský letní čas
-  },
-  America/Argentina/Buenos_Aires: {
-    Generic: argentinský čas,
-    Standard: argentinský standardní čas,
-    Daylight: argentinský letní čas
-  },
-  America/Argentina/Catamarca: {
-    Generic: argentinský čas,
-    Standard: argentinský standardní čas,
-    Daylight: argentinský letní čas
-  },
-  America/Argentina/ComodRivadavia: {
-    Generic: argentinský čas,
-    Standard: argentinský standardní čas,
-    Daylight: argentinský letní čas
-  },
-  America/Argentina/Cordoba: {
-    Generic: argentinský čas,
-    Standard: argentinský standardní čas,
-    Daylight: argentinský letní čas
-  },
-  America/Rosario: {
-    Generic: argentinský čas,
-    Standard: argentinský standardní čas,
-    Daylight: argentinský letní čas
-  },
-  America/Argentina/Jujuy: {
-    Generic: argentinský čas,
-    Standard: argentinský standardní čas,
-    Daylight: argentinský letní čas
-  },
-  America/Argentina/Mendoza: {
-    Generic: argentinský čas,
-    Standard: argentinský standardní čas,
-    Daylight: argentinský letní čas
-  },
-  US/Central: {
-    Generic: severoamerický centrální čas,
-    Standard: severoamerický centrální standardní čas,
-    Daylight: severoamerický centrální letní čas
-  },
-  America/Shiprock: {
-    Generic: severoamerický horský čas,
-    Standard: severoamerický horský standardní čas,
-    Daylight: severoamerický horský letní čas
-  },
-  Navajo: {
-    Generic: severoamerický horský čas,
-    Standard: severoamerický horský standardní čas,
-    Daylight: severoamerický horský letní čas
-  },
-  US/Mountain: {
-    Generic: severoamerický horský čas,
-    Standard: severoamerický horský standardní čas,
-    Daylight: severoamerický horský letní čas
-  },
-  US/Michigan: {
-    Generic: severoamerický východní čas,
-    Standard: severoamerický východní standardní čas,
-    Daylight: severoamerický východní letní čas
-  },
-  Canada/Mountain: {
-    Generic: severoamerický horský čas,
-    Standard: severoamerický horský standardní čas,
-    Daylight: severoamerický horský letní čas
-  },
-  Canada/Atlantic: {
-    Generic: atlantický čas,
-    Standard: atlantický standardní čas,
-    Daylight: atlantický letní čas
-  },
-  Cuba: {
-    Generic: kubánský čas,
-    Standard: kubánský standardní čas,
-    Daylight: kubánský letní čas
-  },
-  America/Indiana/Indianapolis: {
-    Generic: severoamerický východní čas,
-    Standard: severoamerický východní standardní čas,
-    Daylight: severoamerický východní letní čas
-  },
-  US/East-Indiana: {
-    Generic: severoamerický východní čas,
-    Standard: severoamerický východní standardní čas,
-    Daylight: severoamerický východní letní čas
-  },
-  America/Knox_IN: {
-    Generic: severoamerický centrální čas,
-    Standard: severoamerický centrální standardní čas,
-    Daylight: severoamerický centrální letní čas
-  },
-  US/Indiana-Starke: {
-    Generic: severoamerický centrální čas,
-    Standard: severoamerický centrální standardní čas,
-    Daylight: severoamerický centrální letní čas
-  },
-  Jamaica: {
-    Generic: severoamerický východní čas,
-    Standard: severoamerický východní standardní čas,
-    Daylight: severoamerický východní letní čas
-  },
-  America/Kentucky/Louisville: {
-    Generic: severoamerický východní čas,
-    Standard: severoamerický východní standardní čas,
-    Daylight: severoamerický východní letní čas
-  },
-  US/Pacific: {
-    Generic: severoamerický pacifický čas,
-    Standard: severoamerický pacifický standardní čas,
-    Daylight: severoamerický pacifický letní čas
-  },
-  Brazil/West: {
-    Generic: amazonský čas,
-    Standard: amazonský standardní čas,
-    Daylight: amazonský letní čas
-  },
-  Mexico/BajaSur: {
-    Generic: mexický pacifický čas,
-    Standard: mexický pacifický standardní čas,
-    Daylight: mexický pacifický letní čas
-  },
-  Mexico/General: {
-    Generic: severoamerický centrální čas,
-    Standard: severoamerický centrální standardní čas,
-    Daylight: severoamerický centrální letní čas
-  },
-  US/Eastern: {
-    Generic: severoamerický východní čas,
-    Standard: severoamerický východní standardní čas,
-    Daylight: severoamerický východní letní čas
-  },
-  Brazil/DeNoronha: {
-    Generic: čas souostroví Fernando de Noronha,
-    Standard: standardní čas souostroví Fernando de Noronha,
-    Daylight: letní čas souostroví Fernando de Noronha
-  },
-  America/Nuuk: {
-    Generic: západogrónský čas,
-    Standard: západogrónský standardní čas,
-    Daylight: západogrónský letní čas
-  },
-  America/Atikokan: {
-    Generic: severoamerický východní čas,
-    Standard: severoamerický východní standardní čas,
-    Daylight: severoamerický východní letní čas
-  },
-  US/Arizona: {
-    Generic: severoamerický horský čas,
-    Standard: severoamerický horský standardní čas,
-    Daylight: severoamerický horský letní čas
-  },
-  America/Virgin: {
-    Generic: atlantický čas,
-    Standard: atlantický standardní čas,
-    Daylight: atlantický letní čas
-  },
-  Canada/Saskatchewan: {
-    Generic: severoamerický centrální čas,
-    Standard: severoamerický centrální standardní čas,
-    Daylight: severoamerický centrální letní čas
-  },
-  America/Porto_Acre: {
-    Generic: Acrejský čas,
-    Standard: Acrejský standardní čas,
-    Daylight: Acrejský letní čas
-  },
-  Brazil/Acre: {
-    Generic: Acrejský čas,
-    Standard: Acrejský standardní čas,
-    Daylight: Acrejský letní čas
-  },
-  Chile/Continental: {
-    Generic: chilský čas,
-    Standard: chilský standardní čas,
-    Daylight: chilský letní čas
-  },
-  Brazil/East: {
-    Generic: brasilijský čas,
-    Standard: brasilijský standardní čas,
-    Daylight: brasilijský letní čas
-  },
-  Canada/Newfoundland: {
-    Generic: newfoundlandský čas,
-    Standard: newfoundlandský standardní čas,
-    Daylight: newfoundlandský letní čas
-  },
-  America/Ensenada: {
-    Generic: severoamerický pacifický čas,
-    Standard: severoamerický pacifický standardní čas,
-    Daylight: severoamerický pacifický letní čas
-  },
-  Mexico/BajaNorte: {
-    Generic: severoamerický pacifický čas,
-    Standard: severoamerický pacifický standardní čas,
-    Daylight: severoamerický pacifický letní čas
-  },
-  Canada/Eastern: {
-    Generic: severoamerický východní čas,
-    Standard: severoamerický východní standardní čas,
-    Daylight: severoamerický východní letní čas
-  },
-  Canada/Pacific: {
-    Generic: severoamerický pacifický čas,
-    Standard: severoamerický pacifický standardní čas,
-    Daylight: severoamerický pacifický letní čas
-  },
-  Canada/Yukon: {
-    Generic: yukonský čas,
-    Standard: yukonský čas,
-    Daylight: yukonský čas
-  },
-  Canada/Central: {
-    Generic: severoamerický centrální čas,
-    Standard: severoamerický centrální standardní čas,
-    Daylight: severoamerický centrální letní čas
   },
   Asia/Ashkhabad: {
     Generic: turkmenský čas,
     Standard: turkmenský standardní čas,
     Daylight: turkmenský letní čas
   },
-  Asia/Dacca: {
-    Generic: bangladéšský čas,
-    Standard: bangladéšský standardní čas,
-    Daylight: bangladéšský letní čas
+  Asia/Atyrau: {
+    Generic: západokazachstánský čas,
+    Standard: západokazachstánský čas,
+    Daylight: západokazachstánský čas
   },
-  Asia/Ho_Chi_Minh: {
+  Asia/Baghdad: {
+    Generic: arabský čas,
+    Standard: arabský standardní čas,
+    Daylight: arabský letní čas
+  },
+  Asia/Bahrain: {
+    Generic: arabský čas,
+    Standard: arabský standardní čas,
+    Daylight: arabský letní čas
+  },
+  Asia/Baku: {
+    Generic: ázerbájdžánský čas,
+    Standard: ázerbájdžánský standardní čas,
+    Daylight: ázerbájdžánský letní čas
+  },
+  Asia/Bangkok: {
     Generic: indočínský čas,
     Standard: indočínský čas,
     Daylight: indočínský čas
   },
-  Hongkong: {
-    Generic: hongkongský čas,
-    Standard: hongkongský standardní čas,
-    Daylight: hongkongský letní čas
+  Asia/Barnaul: {
+    Generic: časové pásmo Barnaul,
+    Standard: Barnaul (+0),
+    Daylight: Barnaul (+1)
   },
-  Asia/Tel_Aviv: {
-    Generic: izraelský čas,
-    Standard: izraelský standardní čas,
-    Daylight: izraelský letní čas
-  },
-  Israel: {
-    Generic: izraelský čas,
-    Standard: izraelský standardní čas,
-    Daylight: izraelský letní čas
-  },
-  Asia/Kathmandu: {
-    Generic: nepálský čas,
-    Standard: nepálský čas,
-    Daylight: nepálský čas
-  },
-  Asia/Kolkata: {
-    Generic: indický čas,
-    Standard: indický čas,
-    Daylight: indický čas
-  },
-  Asia/Macao: {
-    Generic: čínský čas,
-    Standard: čínský standardní čas,
-    Daylight: čínský letní čas
-  },
-  Asia/Ujung_Pandang: {
-    Generic: středoindonéský čas,
-    Standard: středoindonéský čas,
-    Daylight: středoindonéský čas
-  },
-  Europe/Nicosia: {
+  Asia/Beirut: {
     Generic: východoevropský čas,
     Standard: východoevropský standardní čas,
     Daylight: východoevropský letní čas
   },
-  ROK: {
-    Generic: korejský čas,
-    Standard: korejský standardní čas,
-    Daylight: korejský letní čas
+  Asia/Bishkek: {
+    Generic: kyrgyzský čas,
+    Standard: kyrgyzský čas,
+    Daylight: kyrgyzský čas
+  },
+  Asia/Brunei: {
+    Generic: brunejský čas,
+    Standard: brunejský čas,
+    Daylight: brunejský čas
+  },
+  Asia/Calcutta: {
+    Generic: indický čas,
+    Standard: indický čas,
+    Daylight: indický čas
+  },
+  Asia/Chita: {
+    Generic: časové pásmo Čita,
+    Standard: Čita (+0),
+    Daylight: Čita (+1)
+  },
+  Asia/Choibalsan: {
+    Generic: ulánbátarský čas,
+    Standard: ulánbátarský standardní čas,
+    Daylight: ulánbátarský letní čas
   },
   Asia/Chongqing: {
     Generic: čínský čas,
@@ -2619,57 +1279,412 @@
     Standard: čínský standardní čas,
     Daylight: čínský letní čas
   },
+  Asia/Colombo: {
+    Generic: indický čas,
+    Standard: indický čas,
+    Daylight: indický čas
+  },
+  Asia/Dacca: {
+    Generic: bangladéšský čas,
+    Standard: bangladéšský standardní čas,
+    Daylight: bangladéšský letní čas
+  },
+  Asia/Damascus: {
+    Generic: východoevropský čas,
+    Standard: východoevropský standardní čas,
+    Daylight: východoevropský letní čas
+  },
+  Asia/Dhaka: {
+    Generic: bangladéšský čas,
+    Standard: bangladéšský standardní čas,
+    Daylight: bangladéšský letní čas
+  },
+  Asia/Dili: {
+    Generic: východotimorský čas,
+    Standard: východotimorský čas,
+    Daylight: východotimorský čas
+  },
+  Asia/Dubai: {
+    Generic: standardní čas Perského zálivu,
+    Standard: standardní čas Perského zálivu,
+    Daylight: standardní čas Perského zálivu
+  },
+  Asia/Dushanbe: {
+    Generic: tádžický čas,
+    Standard: tádžický čas,
+    Daylight: tádžický čas
+  },
+  Asia/Famagusta: {
+    Generic: východoevropský čas,
+    Standard: východoevropský standardní čas,
+    Daylight: východoevropský letní čas
+  },
+  Asia/Gaza: {
+    Generic: východoevropský čas,
+    Standard: východoevropský standardní čas,
+    Daylight: východoevropský letní čas
+  },
   Asia/Harbin: {
     Generic: čínský čas,
     Standard: čínský standardní čas,
     Daylight: čínský letní čas
   },
-  PRC: {
-    Generic: čínský čas,
-    Standard: čínský standardní čas,
-    Daylight: čínský letní čas
+  Asia/Hebron: {
+    Generic: východoevropský čas,
+    Standard: východoevropský standardní čas,
+    Daylight: východoevropský letní čas
   },
-  Singapore: {
-    Generic: singapurský čas,
-    Standard: singapurský čas,
-    Daylight: singapurský čas
+  Asia/Ho_Chi_Minh: {
+    Generic: indočínský čas,
+    Standard: indočínský čas,
+    Daylight: indočínský čas
   },
-  ROC: {
-    Generic: tchajpejský čas,
-    Standard: tchajpejský standardní čas,
-    Daylight: tchajpejský letní čas
+  Asia/Hong_Kong: {
+    Generic: hongkongský čas,
+    Standard: hongkongský standardní čas,
+    Daylight: hongkongský letní čas
   },
-  Iran: {
-    Generic: íránský čas,
-    Standard: íránský standardní čas,
-    Daylight: íránský letní čas
+  Asia/Hovd: {
+    Generic: hovdský čas,
+    Standard: hovdský standardní čas,
+    Daylight: hovdský letní čas
   },
-  Asia/Thimbu: {
-    Generic: bhútánský čas,
-    Standard: bhútánský čas,
-    Daylight: bhútánský čas
+  Asia/Irkutsk: {
+    Generic: časové pásmo Irkutsk,
+    Standard: Irkutsk (+0),
+    Daylight: Irkutsk (+1)
   },
-  Japan: {
-    Generic: japonský čas,
-    Standard: japonský standardní čas,
-    Daylight: japonský letní čas
+  Asia/Istanbul: {
+    Generic: časové pásmo Turecko,
+    Standard: Turecko (+0),
+    Daylight: Turecko (+1)
   },
-  Asia/Ulan_Bator: {
-    Generic: ulánbátarský čas,
-    Standard: ulánbátarský standardní čas,
-    Daylight: ulánbátarský letní čas
+  Asia/Jakarta: {
+    Generic: západoindonéský čas,
+    Standard: západoindonéský čas,
+    Daylight: západoindonéský čas
+  },
+  Asia/Jayapura: {
+    Generic: východoindonéský čas,
+    Standard: východoindonéský čas,
+    Daylight: východoindonéský čas
+  },
+  Asia/Jerusalem: {
+    Generic: izraelský čas,
+    Standard: izraelský standardní čas,
+    Daylight: izraelský letní čas
+  },
+  Asia/Kabul: {
+    Generic: afghánský čas,
+    Standard: afghánský čas,
+    Daylight: afghánský čas
+  },
+  Asia/Kamchatka: {
+    Generic: časové pásmo Kamčatka,
+    Standard: Kamčatka (+0),
+    Daylight: Kamčatka (+1)
+  },
+  Asia/Karachi: {
+    Generic: pákistánský čas,
+    Standard: pákistánský standardní čas,
+    Daylight: pákistánský letní čas
   },
   Asia/Kashgar: {
     Generic: časové pásmo Čína,
     Standard: Čína (+0),
     Daylight: Čína (+1)
   },
+  Asia/Kathmandu: {
+    Generic: nepálský čas,
+    Standard: nepálský čas,
+    Daylight: nepálský čas
+  },
+  Asia/Katmandu: {
+    Generic: nepálský čas,
+    Standard: nepálský čas,
+    Daylight: nepálský čas
+  },
+  Asia/Khandyga: {
+    Generic: časové pásmo Chandyga,
+    Standard: Chandyga (+0),
+    Daylight: Chandyga (+1)
+  },
+  Asia/Kolkata: {
+    Generic: indický čas,
+    Standard: indický čas,
+    Daylight: indický čas
+  },
+  Asia/Krasnoyarsk: {
+    Generic: časové pásmo Krasnojarsk,
+    Standard: Krasnojarsk (+0),
+    Daylight: Krasnojarsk (+1)
+  },
+  Asia/Kuala_Lumpur: {
+    Generic: malajský čas,
+    Standard: malajský čas,
+    Daylight: malajský čas
+  },
+  Asia/Kuching: {
+    Generic: malajský čas,
+    Standard: malajský čas,
+    Daylight: malajský čas
+  },
+  Asia/Kuwait: {
+    Generic: arabský čas,
+    Standard: arabský standardní čas,
+    Daylight: arabský letní čas
+  },
+  Asia/Macao: {
+    Generic: čínský čas,
+    Standard: čínský standardní čas,
+    Daylight: čínský letní čas
+  },
+  Asia/Macau: {
+    Generic: čínský čas,
+    Standard: čínský standardní čas,
+    Daylight: čínský letní čas
+  },
+  Asia/Magadan: {
+    Generic: časové pásmo Magadan,
+    Standard: Magadan (+0),
+    Daylight: Magadan (+1)
+  },
+  Asia/Makassar: {
+    Generic: středoindonéský čas,
+    Standard: středoindonéský čas,
+    Daylight: středoindonéský čas
+  },
+  Asia/Manila: {
+    Generic: filipínský čas,
+    Standard: filipínský standardní čas,
+    Daylight: filipínský letní čas
+  },
+  Asia/Muscat: {
+    Generic: standardní čas Perského zálivu,
+    Standard: standardní čas Perského zálivu,
+    Daylight: standardní čas Perského zálivu
+  },
+  Asia/Nicosia: {
+    Generic: východoevropský čas,
+    Standard: východoevropský standardní čas,
+    Daylight: východoevropský letní čas
+  },
+  Asia/Novokuznetsk: {
+    Generic: časové pásmo Novokuzněck,
+    Standard: Novokuzněck (+0),
+    Daylight: Novokuzněck (+1)
+  },
+  Asia/Novosibirsk: {
+    Generic: časové pásmo Novosibirsk,
+    Standard: Novosibirsk (+0),
+    Daylight: Novosibirsk (+1)
+  },
+  Asia/Omsk: {
+    Generic: časové pásmo Omsk,
+    Standard: Omsk (+0),
+    Daylight: Omsk (+1)
+  },
+  Asia/Oral: {
+    Generic: západokazachstánský čas,
+    Standard: západokazachstánský čas,
+    Daylight: západokazachstánský čas
+  },
+  Asia/Phnom_Penh: {
+    Generic: indočínský čas,
+    Standard: indočínský čas,
+    Daylight: indočínský čas
+  },
+  Asia/Pontianak: {
+    Generic: západoindonéský čas,
+    Standard: západoindonéský čas,
+    Daylight: západoindonéský čas
+  },
+  Asia/Pyongyang: {
+    Generic: korejský čas,
+    Standard: korejský standardní čas,
+    Daylight: korejský letní čas
+  },
+  Asia/Qatar: {
+    Generic: arabský čas,
+    Standard: arabský standardní čas,
+    Daylight: arabský letní čas
+  },
+  Asia/Qostanay: {
+    Generic: východokazachstánský čas,
+    Standard: východokazachstánský čas,
+    Daylight: východokazachstánský čas
+  },
+  Asia/Qyzylorda: {
+    Generic: západokazachstánský čas,
+    Standard: západokazachstánský čas,
+    Daylight: západokazachstánský čas
+  },
+  Asia/Rangoon: {
+    Generic: myanmarský čas,
+    Standard: myanmarský čas,
+    Daylight: myanmarský čas
+  },
+  Asia/Riyadh: {
+    Generic: arabský čas,
+    Standard: arabský standardní čas,
+    Daylight: arabský letní čas
+  },
+  Asia/Saigon: {
+    Generic: indočínský čas,
+    Standard: indočínský čas,
+    Daylight: indočínský čas
+  },
+  Asia/Sakhalin: {
+    Generic: časové pásmo Sachalin,
+    Standard: Sachalin (+0),
+    Daylight: Sachalin (+1)
+  },
+  Asia/Samarkand: {
+    Generic: uzbecký čas,
+    Standard: uzbecký standardní čas,
+    Daylight: uzbecký letní čas
+  },
+  Asia/Seoul: {
+    Generic: korejský čas,
+    Standard: korejský standardní čas,
+    Daylight: korejský letní čas
+  },
+  Asia/Shanghai: {
+    Generic: čínský čas,
+    Standard: čínský standardní čas,
+    Daylight: čínský letní čas
+  },
+  Asia/Singapore: {
+    Generic: singapurský čas,
+    Standard: singapurský čas,
+    Daylight: singapurský čas
+  },
+  Asia/Srednekolymsk: {
+    Generic: časové pásmo Sredněkolymsk,
+    Standard: Sredněkolymsk (+0),
+    Daylight: Sredněkolymsk (+1)
+  },
+  Asia/Taipei: {
+    Generic: tchajpejský čas,
+    Standard: tchajpejský standardní čas,
+    Daylight: tchajpejský letní čas
+  },
+  Asia/Tashkent: {
+    Generic: uzbecký čas,
+    Standard: uzbecký standardní čas,
+    Daylight: uzbecký letní čas
+  },
+  Asia/Tbilisi: {
+    Generic: gruzínský čas,
+    Standard: gruzínský standardní čas,
+    Daylight: gruzínský letní čas
+  },
+  Asia/Tehran: {
+    Generic: íránský čas,
+    Standard: íránský standardní čas,
+    Daylight: íránský letní čas
+  },
+  Asia/Tel_Aviv: {
+    Generic: izraelský čas,
+    Standard: izraelský standardní čas,
+    Daylight: izraelský letní čas
+  },
+  Asia/Thimbu: {
+    Generic: bhútánský čas,
+    Standard: bhútánský čas,
+    Daylight: bhútánský čas
+  },
+  Asia/Thimphu: {
+    Generic: bhútánský čas,
+    Standard: bhútánský čas,
+    Daylight: bhútánský čas
+  },
+  Asia/Tokyo: {
+    Generic: japonský čas,
+    Standard: japonský standardní čas,
+    Daylight: japonský letní čas
+  },
+  Asia/Tomsk: {
+    Generic: časové pásmo Tomsk,
+    Standard: Tomsk (+0),
+    Daylight: Tomsk (+1)
+  },
+  Asia/Ujung_Pandang: {
+    Generic: středoindonéský čas,
+    Standard: středoindonéský čas,
+    Daylight: středoindonéský čas
+  },
+  Asia/Ulaanbaatar: {
+    Generic: ulánbátarský čas,
+    Standard: ulánbátarský standardní čas,
+    Daylight: ulánbátarský letní čas
+  },
+  Asia/Ulan_Bator: {
+    Generic: ulánbátarský čas,
+    Standard: ulánbátarský standardní čas,
+    Daylight: ulánbátarský letní čas
+  },
+  Asia/Urumqi: {
+    Generic: časové pásmo Čína,
+    Standard: Čína (+0),
+    Daylight: Čína (+1)
+  },
+  Asia/Ust-Nera: {
+    Generic: časové pásmo Ust-Nera,
+    Standard: Ust-Nera (+0),
+    Daylight: Ust-Nera (+1)
+  },
+  Asia/Vientiane: {
+    Generic: indočínský čas,
+    Standard: indočínský čas,
+    Daylight: indočínský čas
+  },
+  Asia/Vladivostok: {
+    Generic: časové pásmo Vladivostok,
+    Standard: Vladivostok (+0),
+    Daylight: Vladivostok (+1)
+  },
+  Asia/Yakutsk: {
+    Generic: časové pásmo Jakutsk,
+    Standard: Jakutsk (+0),
+    Daylight: Jakutsk (+1)
+  },
   Asia/Yangon: {
     Generic: myanmarský čas,
     Standard: myanmarský čas,
     Daylight: myanmarský čas
   },
-  WET: {
+  Asia/Yekaterinburg: {
+    Generic: časové pásmo Jekatěrinburg,
+    Standard: Jekatěrinburg (+0),
+    Daylight: Jekatěrinburg (+1)
+  },
+  Asia/Yerevan: {
+    Generic: arménský čas,
+    Standard: arménský standardní čas,
+    Daylight: arménský letní čas
+  },
+  Atlantic/Azores: {
+    Generic: azorský čas,
+    Standard: azorský standardní čas,
+    Daylight: azorský letní čas
+  },
+  Atlantic/Bermuda: {
+    Generic: atlantický čas,
+    Standard: atlantický standardní čas,
+    Daylight: atlantický letní čas
+  },
+  Atlantic/Canary: {
+    Generic: západoevropský čas,
+    Standard: západoevropský standardní čas,
+    Daylight: západoevropský letní čas
+  },
+  Atlantic/Cape_Verde: {
+    Generic: kapverdský čas,
+    Standard: kapverdský standardní čas,
+    Daylight: kapverdský letní čas
+  },
+  Atlantic/Faeroe: {
     Generic: západoevropský čas,
     Standard: západoevropský standardní čas,
     Daylight: západoevropský letní čas
@@ -2679,27 +1694,77 @@
     Standard: západoevropský standardní čas,
     Daylight: západoevropský letní čas
   },
-  Australia/South: {
-    Generic: středoaustralský čas,
-    Standard: středoaustralský standardní čas,
-    Daylight: středoaustralský letní čas
+  Atlantic/Jan_Mayen: {
+    Generic: středoevropský čas,
+    Standard: středoevropský standardní čas,
+    Daylight: středoevropský letní čas
   },
-  Australia/Queensland: {
+  Atlantic/Madeira: {
+    Generic: západoevropský čas,
+    Standard: západoevropský standardní čas,
+    Daylight: západoevropský letní čas
+  },
+  Atlantic/Reykjavik: {
+    Generic: greenwichský střední čas,
+    Standard: greenwichský střední čas,
+    Daylight: greenwichský střední čas
+  },
+  Atlantic/South_Georgia: {
+    Generic: čas Jižní Georgie,
+    Standard: čas Jižní Georgie,
+    Daylight: čas Jižní Georgie
+  },
+  Atlantic/St_Helena: {
+    Generic: greenwichský střední čas,
+    Standard: greenwichský střední čas,
+    Daylight: greenwichský střední čas
+  },
+  Atlantic/Stanley: {
+    Generic: falklandský čas,
+    Standard: falklandský standardní čas,
+    Daylight: falklandský letní čas
+  },
+  Australia/ACT: {
     Generic: východoaustralský čas,
     Standard: východoaustralský standardní čas,
     Daylight: východoaustralský letní čas
   },
-  Australia/Yancowinna: {
+  Australia/Adelaide: {
     Generic: středoaustralský čas,
     Standard: středoaustralský standardní čas,
     Daylight: středoaustralský letní čas
   },
-  Australia/North: {
+  Australia/Brisbane: {
+    Generic: východoaustralský čas,
+    Standard: východoaustralský standardní čas,
+    Daylight: východoaustralský letní čas
+  },
+  Australia/Broken_Hill: {
     Generic: středoaustralský čas,
     Standard: středoaustralský standardní čas,
     Daylight: středoaustralský letní čas
   },
-  Australia/Tasmania: {
+  Australia/Canberra: {
+    Generic: východoaustralský čas,
+    Standard: východoaustralský standardní čas,
+    Daylight: východoaustralský letní čas
+  },
+  Australia/Currie: {
+    Generic: východoaustralský čas,
+    Standard: východoaustralský standardní čas,
+    Daylight: východoaustralský letní čas
+  },
+  Australia/Darwin: {
+    Generic: středoaustralský čas,
+    Standard: středoaustralský standardní čas,
+    Daylight: středoaustralský letní čas
+  },
+  Australia/Eucla: {
+    Generic: středozápadní australský čas,
+    Standard: středozápadní australský standardní čas,
+    Daylight: středozápadní australský letní čas
+  },
+  Australia/Hobart: {
     Generic: východoaustralský čas,
     Standard: východoaustralský standardní čas,
     Daylight: východoaustralský letní čas
@@ -2708,6 +1773,56 @@
     Generic: čas ostrova lorda Howa,
     Standard: standardní čas ostrova lorda Howa,
     Daylight: letní čas ostrova lorda Howa
+  },
+  Australia/Lindeman: {
+    Generic: východoaustralský čas,
+    Standard: východoaustralský standardní čas,
+    Daylight: východoaustralský letní čas
+  },
+  Australia/Lord_Howe: {
+    Generic: čas ostrova lorda Howa,
+    Standard: standardní čas ostrova lorda Howa,
+    Daylight: letní čas ostrova lorda Howa
+  },
+  Australia/Melbourne: {
+    Generic: východoaustralský čas,
+    Standard: východoaustralský standardní čas,
+    Daylight: východoaustralský letní čas
+  },
+  Australia/NSW: {
+    Generic: východoaustralský čas,
+    Standard: východoaustralský standardní čas,
+    Daylight: východoaustralský letní čas
+  },
+  Australia/North: {
+    Generic: středoaustralský čas,
+    Standard: středoaustralský standardní čas,
+    Daylight: středoaustralský letní čas
+  },
+  Australia/Perth: {
+    Generic: západoaustralský čas,
+    Standard: západoaustralský standardní čas,
+    Daylight: západoaustralský letní čas
+  },
+  Australia/Queensland: {
+    Generic: východoaustralský čas,
+    Standard: východoaustralský standardní čas,
+    Daylight: východoaustralský letní čas
+  },
+  Australia/South: {
+    Generic: středoaustralský čas,
+    Standard: středoaustralský standardní čas,
+    Daylight: středoaustralský letní čas
+  },
+  Australia/Sydney: {
+    Generic: východoaustralský čas,
+    Standard: východoaustralský standardní čas,
+    Daylight: východoaustralský letní čas
+  },
+  Australia/Tasmania: {
+    Generic: východoaustralský čas,
+    Standard: východoaustralský standardní čas,
+    Daylight: východoaustralský letní čas
   },
   Australia/Victoria: {
     Generic: východoaustralský čas,
@@ -2719,45 +1834,265 @@
     Standard: západoaustralský standardní čas,
     Daylight: západoaustralský letní čas
   },
-  Australia/ACT: {
-    Generic: východoaustralský čas,
-    Standard: východoaustralský standardní čas,
-    Daylight: východoaustralský letní čas
+  Australia/Yancowinna: {
+    Generic: středoaustralský čas,
+    Standard: středoaustralský standardní čas,
+    Daylight: středoaustralský letní čas
   },
-  Australia/Canberra: {
-    Generic: východoaustralský čas,
-    Standard: východoaustralský standardní čas,
-    Daylight: východoaustralský letní čas
+  Brazil/Acre: {
+    Generic: Acrejský čas,
+    Standard: Acrejský standardní čas,
+    Daylight: Acrejský letní čas
   },
-  Australia/NSW: {
-    Generic: východoaustralský čas,
-    Standard: východoaustralský standardní čas,
-    Daylight: východoaustralský letní čas
+  Brazil/DeNoronha: {
+    Generic: čas souostroví Fernando de Noronha,
+    Standard: standardní čas souostroví Fernando de Noronha,
+    Daylight: letní čas souostroví Fernando de Noronha
   },
-  HST: {
-    Generic: koordinovaný světový čas -10,
-    Standard: koordinovaný světový čas -10,
-    Daylight: koordinovaný světový čas -10
+  Brazil/East: {
+    Generic: brasilijský čas,
+    Standard: brasilijský standardní čas,
+    Daylight: brasilijský letní čas
+  },
+  Brazil/West: {
+    Generic: amazonský čas,
+    Standard: amazonský standardní čas,
+    Daylight: amazonský letní čas
+  },
+  CET: {
+    Generic: středoevropský čas,
+    Standard: středoevropský standardní čas,
+    Daylight: středoevropský letní čas
+  },
+  CST6CDT: {
+    Generic: severoamerický centrální čas,
+    Standard: severoamerický centrální standardní čas,
+    Daylight: severoamerický centrální letní čas
+  },
+  Canada/Atlantic: {
+    Generic: atlantický čas,
+    Standard: atlantický standardní čas,
+    Daylight: atlantický letní čas
+  },
+  Canada/Central: {
+    Generic: severoamerický centrální čas,
+    Standard: severoamerický centrální standardní čas,
+    Daylight: severoamerický centrální letní čas
+  },
+  Canada/Eastern: {
+    Generic: severoamerický východní čas,
+    Standard: severoamerický východní standardní čas,
+    Daylight: severoamerický východní letní čas
+  },
+  Canada/Mountain: {
+    Generic: severoamerický horský čas,
+    Standard: severoamerický horský standardní čas,
+    Daylight: severoamerický horský letní čas
+  },
+  Canada/Newfoundland: {
+    Generic: newfoundlandský čas,
+    Standard: newfoundlandský standardní čas,
+    Daylight: newfoundlandský letní čas
+  },
+  Canada/Pacific: {
+    Generic: severoamerický pacifický čas,
+    Standard: severoamerický pacifický standardní čas,
+    Daylight: severoamerický pacifický letní čas
+  },
+  Canada/Saskatchewan: {
+    Generic: severoamerický centrální čas,
+    Standard: severoamerický centrální standardní čas,
+    Daylight: severoamerický centrální letní čas
+  },
+  Canada/Yukon: {
+    Generic: yukonský čas,
+    Standard: yukonský čas,
+    Daylight: yukonský čas
+  },
+  Chile/Continental: {
+    Generic: chilský čas,
+    Standard: chilský standardní čas,
+    Daylight: chilský letní čas
+  },
+  Chile/EasterIsland: {
+    Generic: čas Velikonočního ostrova,
+    Standard: standardní čas Velikonočního ostrova,
+    Daylight: letní čas Velikonočního ostrova
+  },
+  Cuba: {
+    Generic: kubánský čas,
+    Standard: kubánský standardní čas,
+    Daylight: kubánský letní čas
+  },
+  EET: {
+    Generic: východoevropský čas,
+    Standard: východoevropský standardní čas,
+    Daylight: východoevropský letní čas
   },
   EST: {
     Generic: koordinovaný světový čas -5,
     Standard: koordinovaný světový čas -5,
     Daylight: koordinovaný světový čas -5
   },
-  MST: {
-    Generic: koordinovaný světový čas -7,
-    Standard: koordinovaný světový čas -7,
-    Daylight: koordinovaný světový čas -7
+  EST5EDT: {
+    Generic: severoamerický východní čas,
+    Standard: severoamerický východní standardní čas,
+    Daylight: severoamerický východní letní čas
+  },
+  Egypt: {
+    Generic: východoevropský čas,
+    Standard: východoevropský standardní čas,
+    Daylight: východoevropský letní čas
+  },
+  Eire: {
+    Generic: časové pásmo Irsko,
+    Standard: greenwichský střední čas,
+    Daylight: irský letní čas
+  },
+  Etc/GMT: {
+    Generic: greenwichský střední čas,
+    Standard: greenwichský střední čas,
+    Daylight: greenwichský střední čas
   },
   Etc/GMT+0: {
     Generic: greenwichský střední čas,
     Standard: greenwichský střední čas,
     Daylight: greenwichský střední čas
   },
+  Etc/GMT+1: {
+    Generic: koordinovaný světový čas -1,
+    Standard: koordinovaný světový čas -1,
+    Daylight: koordinovaný světový čas -1
+  },
+  Etc/GMT+10: {
+    Generic: koordinovaný světový čas -10,
+    Standard: koordinovaný světový čas -10,
+    Daylight: koordinovaný světový čas -10
+  },
+  Etc/GMT+11: {
+    Generic: koordinovaný světový čas -11,
+    Standard: koordinovaný světový čas -11,
+    Daylight: koordinovaný světový čas -11
+  },
+  Etc/GMT+12: {
+    Generic: koordinovaný světový čas -12,
+    Standard: koordinovaný světový čas -12,
+    Daylight: koordinovaný světový čas -12
+  },
+  Etc/GMT+2: {
+    Generic: koordinovaný světový čas -2,
+    Standard: koordinovaný světový čas -2,
+    Daylight: koordinovaný světový čas -2
+  },
+  Etc/GMT+3: {
+    Generic: koordinovaný světový čas -3,
+    Standard: koordinovaný světový čas -3,
+    Daylight: koordinovaný světový čas -3
+  },
+  Etc/GMT+4: {
+    Generic: koordinovaný světový čas -4,
+    Standard: koordinovaný světový čas -4,
+    Daylight: koordinovaný světový čas -4
+  },
+  Etc/GMT+5: {
+    Generic: koordinovaný světový čas -5,
+    Standard: koordinovaný světový čas -5,
+    Daylight: koordinovaný světový čas -5
+  },
+  Etc/GMT+6: {
+    Generic: koordinovaný světový čas -6,
+    Standard: koordinovaný světový čas -6,
+    Daylight: koordinovaný světový čas -6
+  },
+  Etc/GMT+7: {
+    Generic: koordinovaný světový čas -7,
+    Standard: koordinovaný světový čas -7,
+    Daylight: koordinovaný světový čas -7
+  },
+  Etc/GMT+8: {
+    Generic: koordinovaný světový čas -8,
+    Standard: koordinovaný světový čas -8,
+    Daylight: koordinovaný světový čas -8
+  },
+  Etc/GMT+9: {
+    Generic: koordinovaný světový čas -9,
+    Standard: koordinovaný světový čas -9,
+    Daylight: koordinovaný světový čas -9
+  },
   Etc/GMT-0: {
     Generic: greenwichský střední čas,
     Standard: greenwichský střední čas,
     Daylight: greenwichský střední čas
+  },
+  Etc/GMT-1: {
+    Generic: koordinovaný světový čas +1,
+    Standard: koordinovaný světový čas +1,
+    Daylight: koordinovaný světový čas +1
+  },
+  Etc/GMT-10: {
+    Generic: koordinovaný světový čas +10,
+    Standard: koordinovaný světový čas +10,
+    Daylight: koordinovaný světový čas +10
+  },
+  Etc/GMT-11: {
+    Generic: koordinovaný světový čas +11,
+    Standard: koordinovaný světový čas +11,
+    Daylight: koordinovaný světový čas +11
+  },
+  Etc/GMT-12: {
+    Generic: koordinovaný světový čas +12,
+    Standard: koordinovaný světový čas +12,
+    Daylight: koordinovaný světový čas +12
+  },
+  Etc/GMT-13: {
+    Generic: koordinovaný světový čas +13,
+    Standard: koordinovaný světový čas +13,
+    Daylight: koordinovaný světový čas +13
+  },
+  Etc/GMT-14: {
+    Generic: koordinovaný světový čas +14,
+    Standard: koordinovaný světový čas +14,
+    Daylight: koordinovaný světový čas +14
+  },
+  Etc/GMT-2: {
+    Generic: koordinovaný světový čas +2,
+    Standard: koordinovaný světový čas +2,
+    Daylight: koordinovaný světový čas +2
+  },
+  Etc/GMT-3: {
+    Generic: koordinovaný světový čas +3,
+    Standard: koordinovaný světový čas +3,
+    Daylight: koordinovaný světový čas +3
+  },
+  Etc/GMT-4: {
+    Generic: koordinovaný světový čas +4,
+    Standard: koordinovaný světový čas +4,
+    Daylight: koordinovaný světový čas +4
+  },
+  Etc/GMT-5: {
+    Generic: koordinovaný světový čas +5,
+    Standard: koordinovaný světový čas +5,
+    Daylight: koordinovaný světový čas +5
+  },
+  Etc/GMT-6: {
+    Generic: koordinovaný světový čas +6,
+    Standard: koordinovaný světový čas +6,
+    Daylight: koordinovaný světový čas +6
+  },
+  Etc/GMT-7: {
+    Generic: koordinovaný světový čas +7,
+    Standard: koordinovaný světový čas +7,
+    Daylight: koordinovaný světový čas +7
+  },
+  Etc/GMT-8: {
+    Generic: koordinovaný světový čas +8,
+    Standard: koordinovaný světový čas +8,
+    Daylight: koordinovaný světový čas +8
+  },
+  Etc/GMT-9: {
+    Generic: koordinovaný světový čas +9,
+    Standard: koordinovaný světový čas +9,
+    Daylight: koordinovaný světový čas +9
   },
   Etc/GMT0: {
     Generic: greenwichský střední čas,
@@ -2768,6 +2103,356 @@
     Generic: greenwichský střední čas,
     Standard: greenwichský střední čas,
     Daylight: greenwichský střední čas
+  },
+  Etc/UCT: {
+    Generic: koordinovaný světový čas,
+    Standard: koordinovaný světový čas,
+    Daylight: koordinovaný světový čas
+  },
+  Etc/UTC: {
+    Generic: koordinovaný světový čas,
+    Standard: koordinovaný světový čas,
+    Daylight: koordinovaný světový čas
+  },
+  Etc/Universal: {
+    Generic: koordinovaný světový čas,
+    Standard: koordinovaný světový čas,
+    Daylight: koordinovaný světový čas
+  },
+  Etc/Zulu: {
+    Generic: koordinovaný světový čas,
+    Standard: koordinovaný světový čas,
+    Daylight: koordinovaný světový čas
+  },
+  Europe/Amsterdam: {
+    Generic: středoevropský čas,
+    Standard: středoevropský standardní čas,
+    Daylight: středoevropský letní čas
+  },
+  Europe/Andorra: {
+    Generic: středoevropský čas,
+    Standard: středoevropský standardní čas,
+    Daylight: středoevropský letní čas
+  },
+  Europe/Astrakhan: {
+    Generic: časové pásmo Astrachaň,
+    Standard: Astrachaň (+0),
+    Daylight: Astrachaň (+1)
+  },
+  Europe/Athens: {
+    Generic: východoevropský čas,
+    Standard: východoevropský standardní čas,
+    Daylight: východoevropský letní čas
+  },
+  Europe/Belfast: {
+    Generic: časové pásmo Spojené království,
+    Standard: greenwichský střední čas,
+    Daylight: britský letní čas
+  },
+  Europe/Belgrade: {
+    Generic: středoevropský čas,
+    Standard: středoevropský standardní čas,
+    Daylight: středoevropský letní čas
+  },
+  Europe/Berlin: {
+    Generic: středoevropský čas,
+    Standard: středoevropský standardní čas,
+    Daylight: středoevropský letní čas
+  },
+  Europe/Bratislava: {
+    Generic: středoevropský čas,
+    Standard: středoevropský standardní čas,
+    Daylight: středoevropský letní čas
+  },
+  Europe/Brussels: {
+    Generic: středoevropský čas,
+    Standard: středoevropský standardní čas,
+    Daylight: středoevropský letní čas
+  },
+  Europe/Bucharest: {
+    Generic: východoevropský čas,
+    Standard: východoevropský standardní čas,
+    Daylight: východoevropský letní čas
+  },
+  Europe/Budapest: {
+    Generic: středoevropský čas,
+    Standard: středoevropský standardní čas,
+    Daylight: středoevropský letní čas
+  },
+  Europe/Busingen: {
+    Generic: středoevropský čas,
+    Standard: středoevropský standardní čas,
+    Daylight: středoevropský letní čas
+  },
+  Europe/Chisinau: {
+    Generic: východoevropský čas,
+    Standard: východoevropský standardní čas,
+    Daylight: východoevropský letní čas
+  },
+  Europe/Copenhagen: {
+    Generic: středoevropský čas,
+    Standard: středoevropský standardní čas,
+    Daylight: středoevropský letní čas
+  },
+  Europe/Dublin: {
+    Generic: časové pásmo Irsko,
+    Standard: greenwichský střední čas,
+    Daylight: irský letní čas
+  },
+  Europe/Gibraltar: {
+    Generic: středoevropský čas,
+    Standard: středoevropský standardní čas,
+    Daylight: středoevropský letní čas
+  },
+  Europe/Guernsey: {
+    Generic: greenwichský střední čas,
+    Standard: greenwichský střední čas,
+    Daylight: greenwichský střední čas
+  },
+  Europe/Helsinki: {
+    Generic: východoevropský čas,
+    Standard: východoevropský standardní čas,
+    Daylight: východoevropský letní čas
+  },
+  Europe/Isle_of_Man: {
+    Generic: greenwichský střední čas,
+    Standard: greenwichský střední čas,
+    Daylight: greenwichský střední čas
+  },
+  Europe/Istanbul: {
+    Generic: časové pásmo Turecko,
+    Standard: Turecko (+0),
+    Daylight: Turecko (+1)
+  },
+  Europe/Jersey: {
+    Generic: greenwichský střední čas,
+    Standard: greenwichský střední čas,
+    Daylight: greenwichský střední čas
+  },
+  Europe/Kaliningrad: {
+    Generic: časové pásmo Kaliningrad,
+    Standard: Kaliningrad (+0),
+    Daylight: Kaliningrad (+1)
+  },
+  Europe/Kiev: {
+    Generic: východoevropský čas,
+    Standard: východoevropský standardní čas,
+    Daylight: východoevropský letní čas
+  },
+  Europe/Kirov: {
+    Generic: časové pásmo Kirov,
+    Standard: Kirov (+0),
+    Daylight: Kirov (+1)
+  },
+  Europe/Kyiv: {
+    Generic: východoevropský čas,
+    Standard: východoevropský standardní čas,
+    Daylight: východoevropský letní čas
+  },
+  Europe/Lisbon: {
+    Generic: západoevropský čas,
+    Standard: západoevropský standardní čas,
+    Daylight: západoevropský letní čas
+  },
+  Europe/Ljubljana: {
+    Generic: středoevropský čas,
+    Standard: středoevropský standardní čas,
+    Daylight: středoevropský letní čas
+  },
+  Europe/London: {
+    Generic: časové pásmo Spojené království,
+    Standard: greenwichský střední čas,
+    Daylight: britský letní čas
+  },
+  Europe/Luxembourg: {
+    Generic: středoevropský čas,
+    Standard: středoevropský standardní čas,
+    Daylight: středoevropský letní čas
+  },
+  Europe/Madrid: {
+    Generic: středoevropský čas,
+    Standard: středoevropský standardní čas,
+    Daylight: středoevropský letní čas
+  },
+  Europe/Malta: {
+    Generic: středoevropský čas,
+    Standard: středoevropský standardní čas,
+    Daylight: středoevropský letní čas
+  },
+  Europe/Mariehamn: {
+    Generic: východoevropský čas,
+    Standard: východoevropský standardní čas,
+    Daylight: východoevropský letní čas
+  },
+  Europe/Minsk: {
+    Generic: moskevský čas,
+    Standard: moskevský standardní čas,
+    Daylight: moskevský letní čas
+  },
+  Europe/Monaco: {
+    Generic: středoevropský čas,
+    Standard: středoevropský standardní čas,
+    Daylight: středoevropský letní čas
+  },
+  Europe/Moscow: {
+    Generic: časové pásmo Moskva,
+    Standard: Moskva (+0),
+    Daylight: Moskva (+1)
+  },
+  Europe/Nicosia: {
+    Generic: východoevropský čas,
+    Standard: východoevropský standardní čas,
+    Daylight: východoevropský letní čas
+  },
+  Europe/Oslo: {
+    Generic: středoevropský čas,
+    Standard: středoevropský standardní čas,
+    Daylight: středoevropský letní čas
+  },
+  Europe/Paris: {
+    Generic: středoevropský čas,
+    Standard: středoevropský standardní čas,
+    Daylight: středoevropský letní čas
+  },
+  Europe/Podgorica: {
+    Generic: středoevropský čas,
+    Standard: středoevropský standardní čas,
+    Daylight: středoevropský letní čas
+  },
+  Europe/Prague: {
+    Generic: středoevropský čas,
+    Standard: středoevropský standardní čas,
+    Daylight: středoevropský letní čas
+  },
+  Europe/Riga: {
+    Generic: východoevropský čas,
+    Standard: východoevropský standardní čas,
+    Daylight: východoevropský letní čas
+  },
+  Europe/Rome: {
+    Generic: středoevropský čas,
+    Standard: středoevropský standardní čas,
+    Daylight: středoevropský letní čas
+  },
+  Europe/Samara: {
+    Generic: časové pásmo Samara,
+    Standard: Samara (+0),
+    Daylight: Samara (+1)
+  },
+  Europe/San_Marino: {
+    Generic: středoevropský čas,
+    Standard: středoevropský standardní čas,
+    Daylight: středoevropský letní čas
+  },
+  Europe/Sarajevo: {
+    Generic: středoevropský čas,
+    Standard: středoevropský standardní čas,
+    Daylight: středoevropský letní čas
+  },
+  Europe/Saratov: {
+    Generic: časové pásmo Saratov,
+    Standard: Saratov (+0),
+    Daylight: Saratov (+1)
+  },
+  Europe/Simferopol: {
+    Generic: moskevský čas,
+    Standard: moskevský standardní čas,
+    Daylight: moskevský letní čas
+  },
+  Europe/Skopje: {
+    Generic: středoevropský čas,
+    Standard: středoevropský standardní čas,
+    Daylight: středoevropský letní čas
+  },
+  Europe/Sofia: {
+    Generic: východoevropský čas,
+    Standard: východoevropský standardní čas,
+    Daylight: východoevropský letní čas
+  },
+  Europe/Stockholm: {
+    Generic: středoevropský čas,
+    Standard: středoevropský standardní čas,
+    Daylight: středoevropský letní čas
+  },
+  Europe/Tallinn: {
+    Generic: východoevropský čas,
+    Standard: východoevropský standardní čas,
+    Daylight: východoevropský letní čas
+  },
+  Europe/Tirane: {
+    Generic: středoevropský čas,
+    Standard: středoevropský standardní čas,
+    Daylight: středoevropský letní čas
+  },
+  Europe/Tiraspol: {
+    Generic: východoevropský čas,
+    Standard: východoevropský standardní čas,
+    Daylight: východoevropský letní čas
+  },
+  Europe/Ulyanovsk: {
+    Generic: časové pásmo Uljanovsk,
+    Standard: Uljanovsk (+0),
+    Daylight: Uljanovsk (+1)
+  },
+  Europe/Uzhgorod: {
+    Generic: východoevropský čas,
+    Standard: východoevropský standardní čas,
+    Daylight: východoevropský letní čas
+  },
+  Europe/Vaduz: {
+    Generic: středoevropský čas,
+    Standard: středoevropský standardní čas,
+    Daylight: středoevropský letní čas
+  },
+  Europe/Vatican: {
+    Generic: středoevropský čas,
+    Standard: středoevropský standardní čas,
+    Daylight: středoevropský letní čas
+  },
+  Europe/Vienna: {
+    Generic: středoevropský čas,
+    Standard: středoevropský standardní čas,
+    Daylight: středoevropský letní čas
+  },
+  Europe/Vilnius: {
+    Generic: východoevropský čas,
+    Standard: východoevropský standardní čas,
+    Daylight: východoevropský letní čas
+  },
+  Europe/Volgograd: {
+    Generic: časové pásmo Volgograd,
+    Standard: Volgograd (+0),
+    Daylight: Volgograd (+1)
+  },
+  Europe/Warsaw: {
+    Generic: středoevropský čas,
+    Standard: středoevropský standardní čas,
+    Daylight: středoevropský letní čas
+  },
+  Europe/Zagreb: {
+    Generic: středoevropský čas,
+    Standard: středoevropský standardní čas,
+    Daylight: středoevropský letní čas
+  },
+  Europe/Zaporozhye: {
+    Generic: východoevropský čas,
+    Standard: východoevropský standardní čas,
+    Daylight: východoevropský letní čas
+  },
+  Europe/Zurich: {
+    Generic: středoevropský čas,
+    Standard: středoevropský standardní čas,
+    Daylight: středoevropský letní čas
+  },
+  GB: {
+    Generic: časové pásmo Spojené království,
+    Standard: greenwichský střední čas,
+    Daylight: britský letní čas
+  },
+  GB-Eire: {
+    Generic: časové pásmo Spojené království,
+    Standard: greenwichský střední čas,
+    Daylight: britský letní čas
   },
   GMT: {
     Generic: greenwichský střední čas,
@@ -2794,120 +2479,135 @@
     Standard: greenwichský střední čas,
     Daylight: greenwichský střední čas
   },
-  Etc/UCT: {
-    Generic: koordinovaný světový čas,
-    Standard: koordinovaný světový čas,
-    Daylight: koordinovaný světový čas
+  HST: {
+    Generic: koordinovaný světový čas -10,
+    Standard: koordinovaný světový čas -10,
+    Daylight: koordinovaný světový čas -10
   },
-  Etc/Universal: {
-    Generic: koordinovaný světový čas,
-    Standard: koordinovaný světový čas,
-    Daylight: koordinovaný světový čas
+  Hongkong: {
+    Generic: hongkongský čas,
+    Standard: hongkongský standardní čas,
+    Daylight: hongkongský letní čas
   },
-  Etc/Zulu: {
-    Generic: koordinovaný světový čas,
-    Standard: koordinovaný světový čas,
-    Daylight: koordinovaný světový čas
+  Iceland: {
+    Generic: greenwichský střední čas,
+    Standard: greenwichský střední čas,
+    Daylight: greenwichský střední čas
   },
-  UCT: {
-    Generic: koordinovaný světový čas,
-    Standard: koordinovaný světový čas,
-    Daylight: koordinovaný světový čas
+  Indian/Antananarivo: {
+    Generic: východoafrický čas,
+    Standard: východoafrický čas,
+    Daylight: východoafrický čas
   },
-  UTC: {
-    Generic: koordinovaný světový čas,
-    Standard: koordinovaný světový čas,
-    Daylight: koordinovaný světový čas
+  Indian/Chagos: {
+    Generic: indickooceánský čas,
+    Standard: indickooceánský čas,
+    Daylight: indickooceánský čas
   },
-  Universal: {
-    Generic: koordinovaný světový čas,
-    Standard: koordinovaný světový čas,
-    Daylight: koordinovaný světový čas
+  Indian/Christmas: {
+    Generic: čas Vánočního ostrova,
+    Standard: čas Vánočního ostrova,
+    Daylight: čas Vánočního ostrova
   },
-  Zulu: {
-    Generic: koordinovaný světový čas,
-    Standard: koordinovaný světový čas,
-    Daylight: koordinovaný světový čas
+  Indian/Cocos: {
+    Generic: čas Kokosových ostrovů,
+    Standard: čas Kokosových ostrovů,
+    Daylight: čas Kokosových ostrovů
   },
-  Atlantic/Jan_Mayen: {
-    Generic: středoevropský čas,
-    Standard: středoevropský standardní čas,
-    Daylight: středoevropský letní čas
+  Indian/Comoro: {
+    Generic: východoafrický čas,
+    Standard: východoafrický čas,
+    Daylight: východoafrický čas
+  },
+  Indian/Kerguelen: {
+    Generic: čas Francouzských jižních a antarktických území,
+    Standard: čas Francouzských jižních a antarktických území,
+    Daylight: čas Francouzských jižních a antarktických území
+  },
+  Indian/Mahe: {
+    Generic: seychelský čas,
+    Standard: seychelský čas,
+    Daylight: seychelský čas
+  },
+  Indian/Maldives: {
+    Generic: maledivský čas,
+    Standard: maledivský čas,
+    Daylight: maledivský čas
+  },
+  Indian/Mauritius: {
+    Generic: mauricijský čas,
+    Standard: mauricijský standardní čas,
+    Daylight: mauricijský letní čas
+  },
+  Indian/Mayotte: {
+    Generic: východoafrický čas,
+    Standard: východoafrický čas,
+    Daylight: východoafrický čas
+  },
+  Indian/Reunion: {
+    Generic: réunionský čas,
+    Standard: réunionský čas,
+    Daylight: réunionský čas
+  },
+  Iran: {
+    Generic: íránský čas,
+    Standard: íránský standardní čas,
+    Daylight: íránský letní čas
+  },
+  Israel: {
+    Generic: izraelský čas,
+    Standard: izraelský standardní čas,
+    Daylight: izraelský letní čas
+  },
+  Jamaica: {
+    Generic: severoamerický východní čas,
+    Standard: severoamerický východní standardní čas,
+    Daylight: severoamerický východní letní čas
+  },
+  Japan: {
+    Generic: japonský čas,
+    Standard: japonský standardní čas,
+    Daylight: japonský letní čas
+  },
+  Kwajalein: {
+    Generic: čas Marshallových ostrovů,
+    Standard: čas Marshallových ostrovů,
+    Daylight: čas Marshallových ostrovů
+  },
+  Libya: {
+    Generic: východoevropský čas,
+    Standard: východoevropský standardní čas,
+    Daylight: východoevropský letní čas
   },
   MET: {
     Generic: středoevropský čas,
     Standard: středoevropský standardní čas,
     Daylight: středoevropský letní čas
   },
-  EET: {
-    Generic: východoevropský čas,
-    Standard: východoevropský standardní čas,
-    Daylight: východoevropský letní čas
+  MST: {
+    Generic: koordinovaný světový čas -7,
+    Standard: koordinovaný světový čas -7,
+    Daylight: koordinovaný světový čas -7
   },
-  Europe/Tiraspol: {
-    Generic: východoevropský čas,
-    Standard: východoevropský standardní čas,
-    Daylight: východoevropský letní čas
+  MST7MDT: {
+    Generic: severoamerický horský čas,
+    Standard: severoamerický horský standardní čas,
+    Daylight: severoamerický horský letní čas
   },
-  Eire: {
-    Generic: časové pásmo Irsko,
-    Standard: greenwichský střední čas,
-    Daylight: irský letní čas
+  Mexico/BajaNorte: {
+    Generic: severoamerický pacifický čas,
+    Standard: severoamerický pacifický standardní čas,
+    Daylight: severoamerický pacifický letní čas
   },
-  Asia/Istanbul: {
-    Generic: časové pásmo Turecko,
-    Standard: Turecko (+0),
-    Daylight: Turecko (+1)
+  Mexico/BajaSur: {
+    Generic: mexický pacifický čas,
+    Standard: mexický pacifický standardní čas,
+    Daylight: mexický pacifický letní čas
   },
-  Turkey: {
-    Generic: časové pásmo Turecko,
-    Standard: Turecko (+0),
-    Daylight: Turecko (+1)
-  },
-  Europe/Kyiv: {
-    Generic: východoevropský čas,
-    Standard: východoevropský standardní čas,
-    Daylight: východoevropský letní čas
-  },
-  Portugal: {
-    Generic: západoevropský čas,
-    Standard: západoevropský standardní čas,
-    Daylight: západoevropský letní čas
-  },
-  Europe/Belfast: {
-    Generic: časové pásmo Spojené království,
-    Standard: greenwichský střední čas,
-    Daylight: britský letní čas
-  },
-  GB: {
-    Generic: časové pásmo Spojené království,
-    Standard: greenwichský střední čas,
-    Daylight: britský letní čas
-  },
-  GB-Eire: {
-    Generic: časové pásmo Spojené království,
-    Standard: greenwichský střední čas,
-    Daylight: britský letní čas
-  },
-  W-SU: {
-    Generic: časové pásmo Moskva,
-    Standard: Moskva (+0),
-    Daylight: Moskva (+1)
-  },
-  CET: {
-    Generic: středoevropský čas,
-    Standard: středoevropský standardní čas,
-    Daylight: středoevropský letní čas
-  },
-  Poland: {
-    Generic: středoevropský čas,
-    Standard: středoevropský standardní čas,
-    Daylight: středoevropský letní čas
-  },
-  Antarctica/South_Pole: {
-    Generic: novozélandský čas,
-    Standard: novozélandský standardní čas,
-    Daylight: novozélandský letní čas
+  Mexico/General: {
+    Generic: severoamerický centrální čas,
+    Standard: severoamerický centrální standardní čas,
+    Daylight: severoamerický centrální letní čas
   },
   NZ: {
     Generic: novozélandský čas,
@@ -2919,17 +2619,102 @@
     Standard: chathamský standardní čas,
     Daylight: chathamský letní čas
   },
-  Chile/EasterIsland: {
+  Navajo: {
+    Generic: severoamerický horský čas,
+    Standard: severoamerický horský standardní čas,
+    Daylight: severoamerický horský letní čas
+  },
+  PRC: {
+    Generic: čínský čas,
+    Standard: čínský standardní čas,
+    Daylight: čínský letní čas
+  },
+  PST8PDT: {
+    Generic: severoamerický pacifický čas,
+    Standard: severoamerický pacifický standardní čas,
+    Daylight: severoamerický pacifický letní čas
+  },
+  Pacific/Apia: {
+    Generic: apijský čas,
+    Standard: apijský standardní čas,
+    Daylight: apijský letní čas
+  },
+  Pacific/Auckland: {
+    Generic: novozélandský čas,
+    Standard: novozélandský standardní čas,
+    Daylight: novozélandský letní čas
+  },
+  Pacific/Bougainville: {
+    Generic: čas Papuy-Nové Guiney,
+    Standard: čas Papuy-Nové Guiney,
+    Daylight: čas Papuy-Nové Guiney
+  },
+  Pacific/Chatham: {
+    Generic: chathamský čas,
+    Standard: chathamský standardní čas,
+    Daylight: chathamský letní čas
+  },
+  Pacific/Chuuk: {
+    Generic: chuukský čas,
+    Standard: chuukský čas,
+    Daylight: chuukský čas
+  },
+  Pacific/Easter: {
     Generic: čas Velikonočního ostrova,
     Standard: standardní čas Velikonočního ostrova,
     Daylight: letní čas Velikonočního ostrova
   },
-  Pacific/Pohnpei: {
-    Generic: ponapský čas,
-    Standard: ponapský čas,
-    Daylight: ponapský čas
+  Pacific/Efate: {
+    Generic: vanuatský čas,
+    Standard: vanuatský standardní čas,
+    Daylight: vanuatský letní čas
   },
-  US/Hawaii: {
+  Pacific/Enderbury: {
+    Generic: čas Fénixových ostrovů,
+    Standard: čas Fénixových ostrovů,
+    Daylight: čas Fénixových ostrovů
+  },
+  Pacific/Fakaofo: {
+    Generic: tokelauský čas,
+    Standard: tokelauský čas,
+    Daylight: tokelauský čas
+  },
+  Pacific/Fiji: {
+    Generic: fidžijský čas,
+    Standard: fidžijský standardní čas,
+    Daylight: fidžijský letní čas
+  },
+  Pacific/Funafuti: {
+    Generic: tuvalský čas,
+    Standard: tuvalský čas,
+    Daylight: tuvalský čas
+  },
+  Pacific/Galapagos: {
+    Generic: galapážský čas,
+    Standard: galapážský čas,
+    Daylight: galapážský čas
+  },
+  Pacific/Gambier: {
+    Generic: gambierský čas,
+    Standard: gambierský čas,
+    Daylight: gambierský čas
+  },
+  Pacific/Guadalcanal: {
+    Generic: čas Šalamounových ostrovů,
+    Standard: čas Šalamounových ostrovů,
+    Daylight: čas Šalamounových ostrovů
+  },
+  Pacific/Guam: {
+    Generic: chamorrský čas,
+    Standard: chamorrský čas,
+    Daylight: chamorrský čas
+  },
+  Pacific/Honolulu: {
+    Generic: havajsko-aleutský čas,
+    Standard: havajsko-aleutský standardní čas,
+    Daylight: havajsko-aleutský letní čas
+  },
+  Pacific/Johnston: {
     Generic: havajsko-aleutský čas,
     Standard: havajsko-aleutský standardní čas,
     Daylight: havajsko-aleutský letní čas
@@ -2939,39 +2724,254 @@
     Standard: čas Fénixových ostrovů,
     Daylight: čas Fénixových ostrovů
   },
-  Kwajalein: {
+  Pacific/Kiritimati: {
+    Generic: čas Rovníkových ostrovů,
+    Standard: čas Rovníkových ostrovů,
+    Daylight: čas Rovníkových ostrovů
+  },
+  Pacific/Kosrae: {
+    Generic: kosrajský čas,
+    Standard: kosrajský čas,
+    Daylight: kosrajský čas
+  },
+  Pacific/Kwajalein: {
     Generic: čas Marshallových ostrovů,
     Standard: čas Marshallových ostrovů,
     Daylight: čas Marshallových ostrovů
+  },
+  Pacific/Majuro: {
+    Generic: čas Marshallových ostrovů,
+    Standard: čas Marshallových ostrovů,
+    Daylight: čas Marshallových ostrovů
+  },
+  Pacific/Marquesas: {
+    Generic: markézský čas,
+    Standard: markézský čas,
+    Daylight: markézský čas
+  },
+  Pacific/Midway: {
+    Generic: samojský čas,
+    Standard: samojský standardní čas,
+    Daylight: samojský letní čas
+  },
+  Pacific/Nauru: {
+    Generic: naurský čas,
+    Standard: naurský čas,
+    Daylight: naurský čas
+  },
+  Pacific/Niue: {
+    Generic: niuejský čas,
+    Standard: niuejský čas,
+    Daylight: niuejský čas
+  },
+  Pacific/Norfolk: {
+    Generic: norfolkský čas,
+    Standard: norfolkský standardní čas,
+    Daylight: norfolkský letní čas
+  },
+  Pacific/Noumea: {
+    Generic: novokaledonský čas,
+    Standard: novokaledonský standardní čas,
+    Daylight: novokaledonský letní čas
+  },
+  Pacific/Pago_Pago: {
+    Generic: samojský čas,
+    Standard: samojský standardní čas,
+    Daylight: samojský letní čas
+  },
+  Pacific/Palau: {
+    Generic: palauský čas,
+    Standard: palauský čas,
+    Daylight: palauský čas
+  },
+  Pacific/Pitcairn: {
+    Generic: čas Pitcairnových ostrovů,
+    Standard: čas Pitcairnových ostrovů,
+    Daylight: čas Pitcairnových ostrovů
+  },
+  Pacific/Pohnpei: {
+    Generic: ponapský čas,
+    Standard: ponapský čas,
+    Daylight: ponapský čas
+  },
+  Pacific/Ponape: {
+    Generic: ponapský čas,
+    Standard: ponapský čas,
+    Daylight: ponapský čas
+  },
+  Pacific/Port_Moresby: {
+    Generic: čas Papuy-Nové Guiney,
+    Standard: čas Papuy-Nové Guiney,
+    Daylight: čas Papuy-Nové Guiney
+  },
+  Pacific/Rarotonga: {
+    Generic: čas Cookových ostrovů,
+    Standard: standardní čas Cookových ostrovů,
+    Daylight: letní čas Cookových ostrovů
+  },
+  Pacific/Saipan: {
+    Generic: chamorrský čas,
+    Standard: chamorrský čas,
+    Daylight: chamorrský čas
   },
   Pacific/Samoa: {
     Generic: samojský čas,
     Standard: samojský standardní čas,
     Daylight: samojský letní čas
   },
-  US/Samoa: {
-    Generic: samojský čas,
-    Standard: samojský standardní čas,
-    Daylight: samojský letní čas
+  Pacific/Tahiti: {
+    Generic: tahitský čas,
+    Standard: tahitský čas,
+    Daylight: tahitský čas
   },
-  Pacific/Chuuk: {
+  Pacific/Tarawa: {
+    Generic: čas Gilbertových ostrovů,
+    Standard: čas Gilbertových ostrovů,
+    Daylight: čas Gilbertových ostrovů
+  },
+  Pacific/Tongatapu: {
+    Generic: tonžský čas,
+    Standard: tonžský standardní čas,
+    Daylight: tonžský letní čas
+  },
+  Pacific/Truk: {
     Generic: chuukský čas,
     Standard: chuukský čas,
     Daylight: chuukský čas
+  },
+  Pacific/Wake: {
+    Generic: čas ostrova Wake,
+    Standard: čas ostrova Wake,
+    Daylight: čas ostrova Wake
+  },
+  Pacific/Wallis: {
+    Generic: čas ostrovů Wallis a Futuna,
+    Standard: čas ostrovů Wallis a Futuna,
+    Daylight: čas ostrovů Wallis a Futuna
   },
   Pacific/Yap: {
     Generic: chuukský čas,
     Standard: chuukský čas,
     Daylight: chuukský čas
   },
-  America/Fort_Wayne: {
+  Poland: {
+    Generic: středoevropský čas,
+    Standard: středoevropský standardní čas,
+    Daylight: středoevropský letní čas
+  },
+  Portugal: {
+    Generic: západoevropský čas,
+    Standard: západoevropský standardní čas,
+    Daylight: západoevropský letní čas
+  },
+  ROC: {
+    Generic: tchajpejský čas,
+    Standard: tchajpejský standardní čas,
+    Daylight: tchajpejský letní čas
+  },
+  ROK: {
+    Generic: korejský čas,
+    Standard: korejský standardní čas,
+    Daylight: korejský letní čas
+  },
+  Singapore: {
+    Generic: singapurský čas,
+    Standard: singapurský čas,
+    Daylight: singapurský čas
+  },
+  Turkey: {
+    Generic: časové pásmo Turecko,
+    Standard: Turecko (+0),
+    Daylight: Turecko (+1)
+  },
+  UCT: {
+    Generic: koordinovaný světový čas,
+    Standard: koordinovaný světový čas,
+    Daylight: koordinovaný světový čas
+  },
+  US/Alaska: {
+    Generic: aljašský čas,
+    Standard: aljašský standardní čas,
+    Daylight: aljašský letní čas
+  },
+  US/Aleutian: {
+    Generic: havajsko-aleutský čas,
+    Standard: havajsko-aleutský standardní čas,
+    Daylight: havajsko-aleutský letní čas
+  },
+  US/Arizona: {
+    Generic: severoamerický horský čas,
+    Standard: severoamerický horský standardní čas,
+    Daylight: severoamerický horský letní čas
+  },
+  US/Central: {
+    Generic: severoamerický centrální čas,
+    Standard: severoamerický centrální standardní čas,
+    Daylight: severoamerický centrální letní čas
+  },
+  US/East-Indiana: {
     Generic: severoamerický východní čas,
     Standard: severoamerický východní standardní čas,
     Daylight: severoamerický východní letní čas
   },
-  Antarctica/Troll: {
-    Generic: greenwichský střední čas,
-    Standard: greenwichský střední čas,
-    Daylight: greenwichský střední čas
+  US/Eastern: {
+    Generic: severoamerický východní čas,
+    Standard: severoamerický východní standardní čas,
+    Daylight: severoamerický východní letní čas
+  },
+  US/Hawaii: {
+    Generic: havajsko-aleutský čas,
+    Standard: havajsko-aleutský standardní čas,
+    Daylight: havajsko-aleutský letní čas
+  },
+  US/Indiana-Starke: {
+    Generic: severoamerický centrální čas,
+    Standard: severoamerický centrální standardní čas,
+    Daylight: severoamerický centrální letní čas
+  },
+  US/Michigan: {
+    Generic: severoamerický východní čas,
+    Standard: severoamerický východní standardní čas,
+    Daylight: severoamerický východní letní čas
+  },
+  US/Mountain: {
+    Generic: severoamerický horský čas,
+    Standard: severoamerický horský standardní čas,
+    Daylight: severoamerický horský letní čas
+  },
+  US/Pacific: {
+    Generic: severoamerický pacifický čas,
+    Standard: severoamerický pacifický standardní čas,
+    Daylight: severoamerický pacifický letní čas
+  },
+  US/Samoa: {
+    Generic: samojský čas,
+    Standard: samojský standardní čas,
+    Daylight: samojský letní čas
+  },
+  UTC: {
+    Generic: koordinovaný světový čas,
+    Standard: koordinovaný světový čas,
+    Daylight: koordinovaný světový čas
+  },
+  Universal: {
+    Generic: koordinovaný světový čas,
+    Standard: koordinovaný světový čas,
+    Daylight: koordinovaný světový čas
+  },
+  W-SU: {
+    Generic: časové pásmo Moskva,
+    Standard: Moskva (+0),
+    Daylight: Moskva (+1)
+  },
+  WET: {
+    Generic: západoevropský čas,
+    Standard: západoevropský standardní čas,
+    Daylight: západoevropský letní čas
+  },
+  Zulu: {
+    Generic: koordinovaný světový čas,
+    Standard: koordinovaný světový čas,
+    Daylight: koordinovaný světový čas
   }
 }

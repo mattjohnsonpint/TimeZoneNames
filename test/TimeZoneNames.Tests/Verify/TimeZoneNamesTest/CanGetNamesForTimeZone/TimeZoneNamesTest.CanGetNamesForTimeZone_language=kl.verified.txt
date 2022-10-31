@@ -1,73 +1,200 @@
 ﻿{
-  Australia/Darwin: {
-    Generic: Australia
+  Africa/Abidjan: {
+    Generic: Abidjan
   },
-  Australia/Sydney: {
-    Generic: Australia
+  Africa/Accra: {
+    Generic: Ghana
   },
-  Australia/Melbourne: {
-    Generic: Australia
+  Africa/Addis_Ababa: {
+    Generic: Ethiopia
   },
-  Asia/Kabul: {
-    Generic: Afghanistani
+  Africa/Algiers: {
+    Generic: Algeriet
   },
-  America/Anchorage: {
-    Generic: Naalagaaffeqatigiit
+  Africa/Asmara: {
+    Generic: Eritrea
   },
-  America/Juneau: {
-    Generic: Naalagaaffeqatigiit
+  Africa/Asmera: {
+    Generic: Eritrea
   },
-  America/Metlakatla: {
-    Generic: Naalagaaffeqatigiit
+  Africa/Bamako: {
+    Generic: Mali
   },
-  America/Nome: {
-    Generic: Naalagaaffeqatigiit
+  Africa/Bangui: {
+    Generic: Bangui
   },
-  America/Sitka: {
-    Generic: Naalagaaffeqatigiit
+  Africa/Banjul: {
+    Generic: Gambia
   },
-  America/Yakutat: {
-    Generic: Naalagaaffeqatigiit
+  Africa/Bissau: {
+    Generic: Guinea-Bissau
+  },
+  Africa/Blantyre: {
+    Generic: Malawi
+  },
+  Africa/Brazzaville: {
+    Generic: Kongo-Brazzaville
+  },
+  Africa/Bujumbura: {
+    Generic: Burundi
+  },
+  Africa/Cairo: {
+    Generic: Egypten
+  },
+  Africa/Casablanca: {
+    Generic: Marocko
+  },
+  Africa/Ceuta: {
+    Generic: Spania
+  },
+  Africa/Conakry: {
+    Generic: Guinea
+  },
+  Africa/Dakar: {
+    Generic: Senegal
+  },
+  Africa/Dar_es_Salaam: {
+    Generic: Tanzania
+  },
+  Africa/Djibouti: {
+    Generic: Djibouti
+  },
+  Africa/Douala: {
+    Generic: Kamerun
+  },
+  Africa/El_Aaiun: {
+    Generic: Sahara Killiit
+  },
+  Africa/Freetown: {
+    Generic: Sierra Leone
+  },
+  Africa/Gaborone: {
+    Generic: Botswana
+  },
+  Africa/Harare: {
+    Generic: Zimbabwe
+  },
+  Africa/Johannesburg: {
+    Generic: Kujalleqafrika
+  },
+  Africa/Juba: {
+    Generic: Kujalleqsudan
+  },
+  Africa/Kampala: {
+    Generic: Uganda
+  },
+  Africa/Khartoum: {
+    Generic: Avannarleqsudan
+  },
+  Africa/Kigali: {
+    Generic: Rwanda
+  },
+  Africa/Kinshasa: {
+    Generic: Kongo-Kinshasa
+  },
+  Africa/Lagos: {
+    Generic: Nigeria
+  },
+  Africa/Libreville: {
+    Generic: Gabon
+  },
+  Africa/Lome: {
+    Generic: Togo
+  },
+  Africa/Luanda: {
+    Generic: Angola
+  },
+  Africa/Lubumbashi: {
+    Generic: Kongo-Kinshasa
+  },
+  Africa/Lusaka: {
+    Generic: Zambia
+  },
+  Africa/Malabo: {
+    Generic: Malabo
+  },
+  Africa/Maputo: {
+    Generic: Moçambique
+  },
+  Africa/Maseru: {
+    Generic: Lesotho
+  },
+  Africa/Mbabane: {
+    Generic: Swazilandi
+  },
+  Africa/Mogadishu: {
+    Generic: Somalia
+  },
+  Africa/Monrovia: {
+    Generic: Liberia
+  },
+  Africa/Nairobi: {
+    Generic: Kenya
+  },
+  Africa/Ndjamena: {
+    Generic: Chad
+  },
+  Africa/Niamey: {
+    Generic: Niger
+  },
+  Africa/Nouakchott: {
+    Generic: Mauritania
+  },
+  Africa/Ouagadougou: {
+    Generic: Burkina Faso
+  },
+  Africa/Porto-Novo: {
+    Generic: Benin
+  },
+  Africa/Sao_Tome: {
+    Generic: São Tomé aamma Príncipe
+  },
+  Africa/Timbuktu: {
+    Generic: Mali
+  },
+  Africa/Tripoli: {
+    Generic: Libya
+  },
+  Africa/Tunis: {
+    Generic: Tunisia
+  },
+  Africa/Windhoek: {
+    Generic: Namibia
   },
   America/Adak: {
     Generic: Naalagaaffeqatigiit
   },
-  Asia/Barnaul: {
-    Generic: Barnaul
+  America/Anchorage: {
+    Generic: Naalagaaffeqatigiit
   },
-  Asia/Riyadh: {
-    Generic: Saudi Arabia
+  America/Anguilla: {
+    Generic: Anguilla
   },
-  Asia/Bahrain: {
-    Generic: Bahrain
+  America/Antigua: {
+    Generic: Antigua aamma Barbuda
   },
-  Asia/Kuwait: {
-    Generic: Kuwait
+  America/Araguaina: {
+    Generic: Brazil
   },
-  Asia/Qatar: {
-    Generic: Quatar
+  America/Argentina/Buenos_Aires: {
+    Generic: Argentina
   },
-  Asia/Aden: {
-    Generic: Jemen
+  America/Argentina/Catamarca: {
+    Generic: Argentina
   },
-  Asia/Dubai: {
-    Generic: Dubai
+  America/Argentina/ComodRivadavia: {
+    Generic: Argentina
   },
-  Asia/Muscat: {
-    Generic: Oman
+  America/Argentina/Cordoba: {
+    Generic: Argentina
   },
-  Etc/GMT-4: {
-    Generic: UTC +4,
-    Standard:  +4,
-    Daylight:  +4
-  },
-  Asia/Baghdad: {
-    Generic: Irak
-  },
-  America/Buenos_Aires: {
+  America/Argentina/Jujuy: {
     Generic: Argentina
   },
   America/Argentina/La_Rioja: {
+    Generic: Argentina
+  },
+  America/Argentina/Mendoza: {
     Generic: Argentina
   },
   America/Argentina/Rio_Gallegos: {
@@ -88,241 +215,305 @@
   America/Argentina/Ushuaia: {
     Generic: Argentina
   },
-  America/Catamarca: {
-    Generic: Argentina
+  America/Aruba: {
+    Generic: Aruba
   },
-  America/Cordoba: {
-    Generic: Argentina
+  America/Asuncion: {
+    Generic: Paraguay
   },
-  America/Jujuy: {
-    Generic: Argentina
-  },
-  America/Mendoza: {
-    Generic: Argentina
-  },
-  Europe/Astrakhan: {
-    Generic: Astrakhan
-  },
-  Europe/Ulyanovsk: {
-    Generic: Ulyanovsk
-  },
-  America/Halifax: {
+  America/Atikokan: {
     Generic: Canada
   },
-  Atlantic/Bermuda: {
-    Generic: Bermuda
-  },
-  America/Glace_Bay: {
-    Generic: Canada
-  },
-  America/Goose_Bay: {
-    Generic: Canada
-  },
-  America/Moncton: {
-    Generic: Canada
-  },
-  America/Thule: {
-    Generic: Kalaallit Nunaat
-  },
-  Australia/Eucla: {
-    Generic: Australia
-  },
-  Asia/Baku: {
-    Generic: Baku
-  },
-  Atlantic/Azores: {
-    Generic: Portugali
-  },
-  America/Scoresbysund: {
-    Generic: Kalaallit Nunaat
+  America/Atka: {
+    Generic: Naalagaaffeqatigiit
   },
   America/Bahia: {
     Generic: Brazil
   },
-  Asia/Dhaka: {
-    Generic: Bangladesh
+  America/Bahia_Banderas: {
+    Generic: Mexiko
   },
-  Asia/Thimphu: {
-    Generic: Bhutan
+  America/Barbados: {
+    Generic: Barbados
   },
-  Europe/Minsk: {
-    Generic: Hvideruslandi
-  },
-  Pacific/Bougainville: {
-    Generic: Papua Nutaaq Guinea
-  },
-  America/Regina: {
-    Generic: Canada
-  },
-  America/Swift_Current: {
-    Generic: Canada
-  },
-  Atlantic/Cape_Verde: {
-    Generic: Cap Verde
-  },
-  Etc/GMT+1: {
-    Generic: UTC -1,
-    Standard:  -1,
-    Daylight:  -1
-  },
-  Asia/Yerevan: {
-    Generic: Armenia
-  },
-  Australia/Adelaide: {
-    Generic: Australia
-  },
-  Australia/Broken_Hill: {
-    Generic: Australia
-  },
-  America/Guatemala: {
-    Generic: Guatemala
+  America/Belem: {
+    Generic: Brazil
   },
   America/Belize: {
     Generic: Belize
   },
-  America/Costa_Rica: {
-    Generic: Costa Rica
+  America/Blanc-Sablon: {
+    Generic: Canada
   },
-  Pacific/Galapagos: {
-    Generic: Ecuador
-  },
-  America/Tegucigalpa: {
-    Generic: Honduras
-  },
-  America/Managua: {
-    Generic: Nicaragua
-  },
-  America/El_Salvador: {
-    Generic: El Salvador
-  },
-  Etc/GMT+6: {
-    Generic: UTC -6,
-    Standard:  -6,
-    Daylight:  -6
-  },
-  Asia/Almaty: {
-    Generic: Kasakhstani
-  },
-  Antarctica/Vostok: {
-    Generic: Qalasersuaq Kujalleq
-  },
-  Asia/Urumqi: {
-    Generic: Kina
-  },
-  Indian/Chagos: {
-    Generic: Chagos
-  },
-  Asia/Bishkek: {
-    Generic: Bishkek
-  },
-  Asia/Qostanay: {
-    Generic: Kasakhstani
-  },
-  Etc/GMT-6: {
-    Generic: UTC +6,
-    Standard:  +6,
-    Daylight:  +6
-  },
-  America/Cuiaba: {
+  America/Boa_Vista: {
     Generic: Brazil
+  },
+  America/Bogota: {
+    Generic: Colombia
+  },
+  America/Boise: {
+    Generic: Naalagaaffeqatigiit
+  },
+  America/Buenos_Aires: {
+    Generic: Argentina
+  },
+  America/Cambridge_Bay: {
+    Generic: Canada
   },
   America/Campo_Grande: {
     Generic: Brazil
   },
-  Europe/Budapest: {
-    Generic: Ungarni
-  },
-  Europe/Tirane: {
-    Generic: Albania
-  },
-  Europe/Prague: {
-    Generic: Tjekkia
-  },
-  Europe/Podgorica: {
-    Generic: Montenegro
-  },
-  Europe/Belgrade: {
-    Generic: Serbia
-  },
-  Europe/Ljubljana: {
-    Generic: Slovenia
-  },
-  Europe/Bratislava: {
-    Generic: Slovakia
-  },
-  Europe/Warsaw: {
-    Generic: Poleni
-  },
-  Europe/Sarajevo: {
-    Generic: Bosnia aamma Herzegovina
-  },
-  Europe/Zagreb: {
-    Generic: Kroatia
-  },
-  Europe/Skopje: {
-    Generic: Skopje
-  },
-  Pacific/Guadalcanal: {
-    Generic: Guadalcanal
-  },
-  Antarctica/Casey: {
-    Generic: Qalasersuaq Kujalleq
-  },
-  Pacific/Ponape: {
-    Generic: Micronesia
-  },
-  Pacific/Kosrae: {
-    Generic: Micronesia
-  },
-  Pacific/Noumea: {
-    Generic: Nutaaq Caledonia
-  },
-  Pacific/Efate: {
-    Generic: Vanuatu
-  },
-  Etc/GMT-11: {
-    Generic: UTC +11,
-    Standard:  +11,
-    Daylight:  +11
-  },
-  America/Mexico_City: {
+  America/Cancun: {
     Generic: Mexiko
   },
-  America/Bahia_Banderas: {
-    Generic: Mexiko
+  America/Caracas: {
+    Generic: Venezuela
   },
-  America/Merida: {
-    Generic: Mexiko
+  America/Catamarca: {
+    Generic: Argentina
   },
-  America/Monterrey: {
-    Generic: Mexiko
+  America/Cayenne: {
+    Generic: Cayenne
+  },
+  America/Cayman: {
+    Generic: Cayman qeqertaq
   },
   America/Chicago: {
     Generic: Naalagaaffeqatigiit
   },
-  America/Winnipeg: {
-    Generic: Canada
-  },
-  America/Rainy_River: {
-    Generic: Canada
-  },
-  America/Rankin_Inlet: {
-    Generic: Canada
-  },
-  America/Resolute: {
-    Generic: Canada
-  },
-  America/Matamoros: {
+  America/Chihuahua: {
     Generic: Mexiko
   },
+  America/Coral_Harbour: {
+    Generic: Canada
+  },
+  America/Cordoba: {
+    Generic: Argentina
+  },
+  America/Costa_Rica: {
+    Generic: Costa Rica
+  },
+  America/Creston: {
+    Generic: Canada
+  },
+  America/Cuiaba: {
+    Generic: Brazil
+  },
+  America/Curacao: {
+    Generic: Curaçao
+  },
+  America/Danmarkshavn: {
+    Generic: Kalaallit Nunaat
+  },
+  America/Dawson: {
+    Generic: Canada
+  },
+  America/Dawson_Creek: {
+    Generic: Canada
+  },
+  America/Denver: {
+    Generic: Naalagaaffeqatigiit
+  },
+  America/Detroit: {
+    Generic: Naalagaaffeqatigiit
+  },
+  America/Dominica: {
+    Generic: Dominica
+  },
+  America/Edmonton: {
+    Generic: Canada
+  },
+  America/Eirunepe: {
+    Generic: Brazil
+  },
+  America/El_Salvador: {
+    Generic: El Salvador
+  },
+  America/Ensenada: {
+    Generic: Mexiko
+  },
+  America/Fort_Nelson: {
+    Generic: Canada
+  },
+  America/Fort_Wayne: {
+    Generic: Naalagaaffeqatigiit
+  },
+  America/Fortaleza: {
+    Generic: Brazil
+  },
+  America/Glace_Bay: {
+    Generic: Canada
+  },
+  America/Godthab: {
+    Generic: Kalaallit Nunaat
+  },
+  America/Goose_Bay: {
+    Generic: Canada
+  },
+  America/Grand_Turk: {
+    Generic: Grand Turk
+  },
+  America/Grenada: {
+    Generic: Grenada
+  },
+  America/Guadeloupe: {
+    Generic: Guadeloupe
+  },
+  America/Guatemala: {
+    Generic: Guatemala
+  },
+  America/Guayaquil: {
+    Generic: Ecuador
+  },
+  America/Guyana: {
+    Generic: Guyana
+  },
+  America/Halifax: {
+    Generic: Canada
+  },
+  America/Havana: {
+    Generic: Kuba
+  },
+  America/Hermosillo: {
+    Generic: Mexiko
+  },
+  America/Indiana/Indianapolis: {
+    Generic: Naalagaaffeqatigiit
+  },
   America/Indiana/Knox: {
+    Generic: Naalagaaffeqatigiit
+  },
+  America/Indiana/Marengo: {
+    Generic: Naalagaaffeqatigiit
+  },
+  America/Indiana/Petersburg: {
     Generic: Naalagaaffeqatigiit
   },
   America/Indiana/Tell_City: {
     Generic: Naalagaaffeqatigiit
   },
+  America/Indiana/Vevay: {
+    Generic: Naalagaaffeqatigiit
+  },
+  America/Indiana/Vincennes: {
+    Generic: Naalagaaffeqatigiit
+  },
+  America/Indiana/Winamac: {
+    Generic: Naalagaaffeqatigiit
+  },
+  America/Indianapolis: {
+    Generic: Naalagaaffeqatigiit
+  },
+  America/Inuvik: {
+    Generic: Canada
+  },
+  America/Iqaluit: {
+    Generic: Canada
+  },
+  America/Jamaica: {
+    Generic: Jamaica
+  },
+  America/Jujuy: {
+    Generic: Argentina
+  },
+  America/Juneau: {
+    Generic: Naalagaaffeqatigiit
+  },
+  America/Kentucky/Louisville: {
+    Generic: Naalagaaffeqatigiit
+  },
+  America/Kentucky/Monticello: {
+    Generic: Naalagaaffeqatigiit
+  },
+  America/Knox_IN: {
+    Generic: Naalagaaffeqatigiit
+  },
+  America/Kralendijk: {
+    Generic: Kralendijk
+  },
+  America/La_Paz: {
+    Generic: Bolivia
+  },
+  America/Lima: {
+    Generic: Peru
+  },
+  America/Los_Angeles: {
+    Generic: Naalagaaffeqatigiit
+  },
+  America/Louisville: {
+    Generic: Naalagaaffeqatigiit
+  },
+  America/Lower_Princes: {
+    Generic: Lower Princes
+  },
+  America/Maceio: {
+    Generic: Brazil
+  },
+  America/Managua: {
+    Generic: Nicaragua
+  },
+  America/Manaus: {
+    Generic: Brazil
+  },
+  America/Marigot: {
+    Generic: Frankrigi Saint Martin
+  },
+  America/Martinique: {
+    Generic: Martinique
+  },
+  America/Matamoros: {
+    Generic: Mexiko
+  },
+  America/Mazatlan: {
+    Generic: Mexiko
+  },
+  America/Mendoza: {
+    Generic: Argentina
+  },
   America/Menominee: {
     Generic: Naalagaaffeqatigiit
+  },
+  America/Merida: {
+    Generic: Mexiko
+  },
+  America/Metlakatla: {
+    Generic: Naalagaaffeqatigiit
+  },
+  America/Mexico_City: {
+    Generic: Mexiko
+  },
+  America/Miquelon: {
+    Generic: Saint Pierre aamma Miquelon
+  },
+  America/Moncton: {
+    Generic: Canada
+  },
+  America/Monterrey: {
+    Generic: Mexiko
+  },
+  America/Montevideo: {
+    Generic: Uruguay
+  },
+  America/Montreal: {
+    Generic: Montreal
+  },
+  America/Montserrat: {
+    Generic: Montserrat
+  },
+  America/Nassau: {
+    Generic: Bahamas
+  },
+  America/New_York: {
+    Generic: Naalagaaffeqatigiit
+  },
+  America/Nipigon: {
+    Generic: Nipigon
+  },
+  America/Nome: {
+    Generic: Naalagaaffeqatigiit
+  },
+  America/Noronha: {
+    Generic: Brazil
   },
   America/North_Dakota/Beulah: {
     Generic: Naalagaaffeqatigiit
@@ -333,590 +524,92 @@
   America/North_Dakota/New_Salem: {
     Generic: Naalagaaffeqatigiit
   },
-  CST6CDT: {
-    Generic: CST6CDT
-  },
-  Pacific/Chatham: {
-    Generic: Nutaaq Zeelandi
-  },
-  Asia/Shanghai: {
-    Generic: Kina
-  },
-  Asia/Hong_Kong: {
-    Generic: Hongkong
-  },
-  Asia/Macau: {
-    Generic: Macao
-  },
-  America/Havana: {
-    Generic: Kuba
-  },
-  Etc/GMT+12: {
-    Generic: UTC -12,
-    Standard:  -12,
-    Daylight:  -12
-  },
-  Africa/Nairobi: {
-    Generic: Kenya
-  },
-  Antarctica/Syowa: {
-    Generic: Qalasersuaq Kujalleq
-  },
-  Africa/Djibouti: {
-    Generic: Djibouti
-  },
-  Africa/Asmera: {
-    Generic: Eritrea
-  },
-  Africa/Addis_Ababa: {
-    Generic: Ethiopia
-  },
-  Indian/Comoro: {
-    Generic: Comoros
-  },
-  Indian/Antananarivo: {
-    Generic: Madagaskar
-  },
-  Africa/Mogadishu: {
-    Generic: Somalia
-  },
-  Africa/Dar_es_Salaam: {
-    Generic: Tanzania
-  },
-  Africa/Kampala: {
-    Generic: Uganda
-  },
-  Indian/Mayotte: {
-    Generic: Mayotte
-  },
-  Etc/GMT-3: {
-    Generic: UTC +3,
-    Standard:  +3,
-    Daylight:  +3
-  },
-  Australia/Brisbane: {
-    Generic: Australia
-  },
-  Australia/Lindeman: {
-    Generic: Australia
-  },
-  Europe/Chisinau: {
-    Generic: Moldova
-  },
-  America/Sao_Paulo: {
-    Generic: Brazil
-  },
-  Pacific/Easter: {
-    Generic: Chile
-  },
-  America/Cancun: {
-    Generic: Mexiko
-  },
-  America/New_York: {
-    Generic: Naalagaaffeqatigiit
-  },
-  America/Nassau: {
-    Generic: Bahamas
-  },
-  America/Toronto: {
-    Generic: Canada
-  },
-  America/Iqaluit: {
-    Generic: Canada
-  },
-  America/Montreal: {
-    Generic: Montreal
-  },
-  America/Nipigon: {
-    Generic: Canada
-  },
-  America/Pangnirtung: {
-    Generic: Canada
-  },
-  America/Thunder_Bay: {
-    Generic: Canada
-  },
-  America/Detroit: {
-    Generic: Naalagaaffeqatigiit
-  },
-  America/Indiana/Petersburg: {
-    Generic: Naalagaaffeqatigiit
-  },
-  America/Indiana/Vincennes: {
-    Generic: Naalagaaffeqatigiit
-  },
-  America/Indiana/Winamac: {
-    Generic: Naalagaaffeqatigiit
-  },
-  America/Kentucky/Monticello: {
-    Generic: Naalagaaffeqatigiit
-  },
-  America/Louisville: {
-    Generic: Naalagaaffeqatigiit
-  },
-  EST5EDT: {
-    Generic: EST5EDT
-  },
-  Africa/Cairo: {
-    Generic: Egypten
-  },
-  Asia/Yekaterinburg: {
-    Generic: Yekaterinburg
-  },
-  Europe/Kiev: {
-    Generic: Ukraina
-  },
-  Europe/Mariehamn: {
-    Generic: Ålandi
-  },
-  Europe/Sofia: {
-    Generic: Bulgaria
-  },
-  Europe/Tallinn: {
-    Generic: Estlandi
-  },
-  Europe/Helsinki: {
-    Generic: Finlandi
-  },
-  Europe/Vilnius: {
-    Generic: Litaueni
-  },
-  Europe/Riga: {
-    Generic: Letlandi
-  },
-  Europe/Uzhgorod: {
-    Generic: Uzhgorod
-  },
-  Europe/Zaporozhye: {
-    Generic: Zaporozhye
-  },
-  Pacific/Fiji: {
-    Generic: Fiji
-  },
-  Europe/London: {
-    Generic: Tuluit Nunaat
-  },
-  Atlantic/Canary: {
-    Generic: Spania
-  },
-  Atlantic/Faeroe: {
-    Generic: Savalimmiut
-  },
-  Europe/Guernsey: {
-    Generic: Guernsey
-  },
-  Europe/Dublin: {
-    Generic: Irlandi
-  },
-  Europe/Isle_of_Man: {
-    Generic: Isle of Man
-  },
-  Europe/Jersey: {
-    Generic: Jersey
-  },
-  Europe/Lisbon: {
-    Generic: Portugali
-  },
-  Atlantic/Madeira: {
-    Generic: Portugali
-  },
-  Europe/Bucharest: {
-    Generic: Rumænia
-  },
-  Asia/Nicosia: {
-    Generic: Cypern
-  },
-  Asia/Famagusta: {
-    Generic: Cypern
-  },
-  Europe/Athens: {
-    Generic: Grækenlandi
-  },
-  Asia/Tbilisi: {
-    Generic: Georgia
-  },
-  America/Godthab: {
+  America/Nuuk: {
     Generic: Kalaallit Nunaat
-  },
-  Atlantic/Reykjavik: {
-    Generic: Islandi
-  },
-  Atlantic/St_Helena: {
-    Generic: Saint Helena
-  },
-  Africa/Ouagadougou: {
-    Generic: Burkina Faso
-  },
-  Africa/Abidjan: {
-    Generic: Abidjan
-  },
-  Africa/Accra: {
-    Generic: Ghana
-  },
-  America/Danmarkshavn: {
-    Generic: Kalaallit Nunaat
-  },
-  Africa/Banjul: {
-    Generic: Gambia
-  },
-  Africa/Conakry: {
-    Generic: Guinea
-  },
-  Africa/Bissau: {
-    Generic: Guinea-Bissau
-  },
-  Africa/Monrovia: {
-    Generic: Liberia
-  },
-  Africa/Bamako: {
-    Generic: Mali
-  },
-  Africa/Nouakchott: {
-    Generic: Mauritania
-  },
-  Africa/Freetown: {
-    Generic: Sierra Leone
-  },
-  Africa/Dakar: {
-    Generic: Senegal
-  },
-  Africa/Lome: {
-    Generic: Togo
-  },
-  America/Port-au-Prince: {
-    Generic: Haiti
-  },
-  Pacific/Honolulu: {
-    Generic: Naalagaaffeqatigiit
-  },
-  Pacific/Rarotonga: {
-    Generic: Cook qeqertaq
-  },
-  Pacific/Tahiti: {
-    Generic: Tahiti
-  },
-  Pacific/Johnston: {
-    Generic: Johnston
-  },
-  Etc/GMT+10: {
-    Generic: UTC -10,
-    Standard:  -10,
-    Daylight:  -10
-  },
-  Asia/Calcutta: {
-    Generic: India
-  },
-  Asia/Tehran: {
-    Generic: Iran
-  },
-  Asia/Jerusalem: {
-    Generic: Israel
-  },
-  Asia/Amman: {
-    Generic: Jordani
-  },
-  Europe/Kaliningrad: {
-    Generic: Kaliningrad
-  },
-  Asia/Seoul: {
-    Generic: Korea Kujalleq
-  },
-  Africa/Tripoli: {
-    Generic: Libya
-  },
-  Pacific/Kiritimati: {
-    Generic: Kiribati
-  },
-  Etc/GMT-14: {
-    Generic: UTC +14,
-    Standard:  +14,
-    Daylight:  +14
-  },
-  Australia/Lord_Howe: {
-    Generic: Australia
-  },
-  Asia/Magadan: {
-    Generic: Magadan
-  },
-  America/Punta_Arenas: {
-    Generic: Chile
-  },
-  Pacific/Marquesas: {
-    Generic: Marquesas
-  },
-  Indian/Mauritius: {
-    Generic: Mauritius
-  },
-  Indian/Reunion: {
-    Generic: Réunion
-  },
-  Indian/Mahe: {
-    Generic: Mahe
-  },
-  Asia/Beirut: {
-    Generic: Libanon
-  },
-  America/Montevideo: {
-    Generic: Uruguay
-  },
-  Africa/Casablanca: {
-    Generic: Marocko
-  },
-  Africa/El_Aaiun: {
-    Generic: Sahara Killiit
-  },
-  America/Chihuahua: {
-    Generic: Mexiko
-  },
-  America/Mazatlan: {
-    Generic: Mexiko
-  },
-  America/Denver: {
-    Generic: Naalagaaffeqatigiit
-  },
-  America/Edmonton: {
-    Generic: Canada
-  },
-  America/Cambridge_Bay: {
-    Generic: Canada
-  },
-  America/Inuvik: {
-    Generic: Canada
-  },
-  America/Yellowknife: {
-    Generic: Canada
   },
   America/Ojinaga: {
     Generic: Mexiko
   },
-  America/Boise: {
-    Generic: Naalagaaffeqatigiit
+  America/Panama: {
+    Generic: Panama
   },
-  MST7MDT: {
-    Generic: MST7MDT
-  },
-  Asia/Rangoon: {
-    Generic: Burma
-  },
-  Indian/Cocos: {
-    Generic: Cocos qeqertaq
-  },
-  Asia/Novosibirsk: {
-    Generic: Novosibirsk
-  },
-  Africa/Windhoek: {
-    Generic: Namibia
-  },
-  Asia/Katmandu: {
-    Generic: Nepal
-  },
-  Pacific/Auckland: {
-    Generic: Nutaaq Zeelandi
-  },
-  Antarctica/McMurdo: {
-    Generic: Qalasersuaq Kujalleq
-  },
-  America/St_Johns: {
+  America/Pangnirtung: {
     Generic: Canada
-  },
-  Pacific/Norfolk: {
-    Generic: Norfolk
-  },
-  Asia/Irkutsk: {
-    Generic: Irkutsk
-  },
-  Asia/Krasnoyarsk: {
-    Generic: Krasnoyarsk
-  },
-  Asia/Novokuznetsk: {
-    Generic: Novokuznetsk
-  },
-  Asia/Pyongyang: {
-    Generic: Korea Avannarleq
-  },
-  Asia/Omsk: {
-    Generic: Omsk
-  },
-  America/Santiago: {
-    Generic: Chile
-  },
-  America/Tijuana: {
-    Generic: Mexiko
-  },
-  America/Santa_Isabel: {
-    Generic: Santa Isabel
-  },
-  America/Los_Angeles: {
-    Generic: Naalagaaffeqatigiit
-  },
-  America/Vancouver: {
-    Generic: Canada
-  },
-  PST8PDT: {
-    Generic: PST8PDT
-  },
-  Asia/Karachi: {
-    Generic: Pakistani
-  },
-  America/Asuncion: {
-    Generic: Paraguay
-  },
-  Asia/Qyzylorda: {
-    Generic: Kasakhstani
-  },
-  Europe/Paris: {
-    Generic: Frankrigi
-  },
-  Europe/Brussels: {
-    Generic: Belgia
-  },
-  Europe/Copenhagen: {
-    Generic: Danmarki
-  },
-  Africa/Ceuta: {
-    Generic: Spania
-  },
-  Europe/Madrid: {
-    Generic: Spania
-  },
-  Asia/Srednekolymsk: {
-    Generic: Srednekolymsk
-  },
-  Asia/Kamchatka: {
-    Generic: Kamchatka
-  },
-  Asia/Anadyr: {
-    Generic: Anadyr
-  },
-  Europe/Samara: {
-    Generic: Samara
-  },
-  Europe/Moscow: {
-    Generic: Moscow
-  },
-  Europe/Kirov: {
-    Generic: Kirov
-  },
-  Europe/Simferopol: {
-    Generic: Ukraina
-  },
-  America/Cayenne: {
-    Generic: Cayenne
-  },
-  Antarctica/Rothera: {
-    Generic: Qalasersuaq Kujalleq
-  },
-  Antarctica/Palmer: {
-    Generic: Qalasersuaq Kujalleq
-  },
-  America/Fortaleza: {
-    Generic: Brazil
-  },
-  America/Belem: {
-    Generic: Brazil
-  },
-  America/Maceio: {
-    Generic: Brazil
-  },
-  America/Recife: {
-    Generic: Brazil
-  },
-  America/Santarem: {
-    Generic: Brazil
-  },
-  Atlantic/Stanley: {
-    Generic: Falklandi qeqertaq
   },
   America/Paramaribo: {
     Generic: Suriname
   },
-  Etc/GMT+3: {
-    Generic: UTC -3,
-    Standard:  -3,
-    Daylight:  -3
+  America/Phoenix: {
+    Generic: Naalagaaffeqatigiit
   },
-  America/Bogota: {
-    Generic: Colombia
+  America/Port-au-Prince: {
+    Generic: Haiti
   },
-  America/Rio_Branco: {
-    Generic: Brazil
+  America/Port_of_Spain: {
+    Generic: Trinidad aamma Tobago
   },
-  America/Eirunepe: {
-    Generic: Brazil
-  },
-  America/Coral_Harbour: {
-    Generic: Canada
-  },
-  America/Guayaquil: {
-    Generic: Ecuador
-  },
-  America/Jamaica: {
-    Generic: Jamaica
-  },
-  America/Cayman: {
-    Generic: Cayman qeqertaq
-  },
-  America/Panama: {
-    Generic: Panama
-  },
-  America/Lima: {
-    Generic: Peru
-  },
-  Etc/GMT+5: {
-    Generic: UTC -5,
-    Standard:  -5,
-    Daylight:  -5
-  },
-  America/La_Paz: {
-    Generic: Bolivia
-  },
-  America/Antigua: {
-    Generic: Antigua aamma Barbuda
-  },
-  America/Anguilla: {
-    Generic: Anguilla
-  },
-  America/Aruba: {
-    Generic: Aruba
-  },
-  America/Barbados: {
-    Generic: Barbados
-  },
-  America/St_Barthelemy: {
-    Generic: Saint Barthélemy
-  },
-  America/Kralendijk: {
-    Generic: Kralendijk
-  },
-  America/Manaus: {
-    Generic: Brazil
-  },
-  America/Boa_Vista: {
+  America/Porto_Acre: {
     Generic: Brazil
   },
   America/Porto_Velho: {
     Generic: Brazil
   },
-  America/Blanc-Sablon: {
+  America/Puerto_Rico: {
+    Generic: Puerto Rico
+  },
+  America/Punta_Arenas: {
+    Generic: Chile
+  },
+  America/Rainy_River: {
+    Generic: Rainy River
+  },
+  America/Rankin_Inlet: {
     Generic: Canada
   },
-  America/Curacao: {
-    Generic: Curaçao
+  America/Recife: {
+    Generic: Brazil
   },
-  America/Dominica: {
-    Generic: Dominica
+  America/Regina: {
+    Generic: Canada
+  },
+  America/Resolute: {
+    Generic: Canada
+  },
+  America/Rio_Branco: {
+    Generic: Brazil
+  },
+  America/Rosario: {
+    Generic: Argentina
+  },
+  America/Santa_Isabel: {
+    Generic: Santa Isabel
+  },
+  America/Santarem: {
+    Generic: Brazil
+  },
+  America/Santiago: {
+    Generic: Chile
   },
   America/Santo_Domingo: {
     Generic: Santo Domingo
   },
-  America/Grenada: {
-    Generic: Grenada
+  America/Sao_Paulo: {
+    Generic: Brazil
   },
-  America/Guadeloupe: {
-    Generic: Guadeloupe
+  America/Scoresbysund: {
+    Generic: Kalaallit Nunaat
   },
-  America/Guyana: {
-    Generic: Guyana
+  America/Shiprock: {
+    Generic: Naalagaaffeqatigiit
+  },
+  America/Sitka: {
+    Generic: Naalagaaffeqatigiit
+  },
+  America/St_Barthelemy: {
+    Generic: Saint Barthélemy
+  },
+  America/St_Johns: {
+    Generic: Canada
   },
   America/St_Kitts: {
     Generic: Saint Kitts aamma Nevis
@@ -924,442 +617,101 @@
   America/St_Lucia: {
     Generic: Saint Lucia
   },
-  America/Marigot: {
-    Generic: Frankrigi Saint Martin
-  },
-  America/Martinique: {
-    Generic: Martinique
-  },
-  America/Montserrat: {
-    Generic: Montserrat
-  },
-  America/Puerto_Rico: {
-    Generic: Puerto Rico
-  },
-  America/Lower_Princes: {
-    Generic: Lower Princes
-  },
-  America/Port_of_Spain: {
-    Generic: Trinidad aamma Tobago
+  America/St_Thomas: {
+    Generic: St Thomas
   },
   America/St_Vincent: {
     Generic: St Vincent
   },
+  America/Swift_Current: {
+    Generic: Canada
+  },
+  America/Tegucigalpa: {
+    Generic: Honduras
+  },
+  America/Thule: {
+    Generic: Kalaallit Nunaat
+  },
+  America/Thunder_Bay: {
+    Generic: Thunder Bay
+  },
+  America/Tijuana: {
+    Generic: Mexiko
+  },
+  America/Toronto: {
+    Generic: Canada
+  },
   America/Tortola: {
     Generic: Tortola
   },
-  America/St_Thomas: {
+  America/Vancouver: {
+    Generic: Canada
+  },
+  America/Virgin: {
     Generic: St Thomas
   },
-  Etc/GMT+4: {
-    Generic: UTC -4,
-    Standard:  -4,
-    Daylight:  -4
+  America/Whitehorse: {
+    Generic: Canada
   },
-  Asia/Bangkok: {
-    Generic: Thailandi
+  America/Winnipeg: {
+    Generic: Canada
+  },
+  America/Yakutat: {
+    Generic: Naalagaaffeqatigiit
+  },
+  America/Yellowknife: {
+    Generic: Canada
+  },
+  Antarctica/Casey: {
+    Generic: Qalasersuaq Kujalleq
   },
   Antarctica/Davis: {
     Generic: Qalasersuaq Kujalleq
   },
-  Indian/Christmas: {
-    Generic: Jul-qeqertaq
-  },
-  Asia/Jakarta: {
-    Generic: Indonesia
-  },
-  Asia/Pontianak: {
-    Generic: Indonesia
-  },
-  Asia/Phnom_Penh: {
-    Generic: Kambodia
-  },
-  Asia/Vientiane: {
-    Generic: Laos
-  },
-  Asia/Saigon: {
-    Generic: Vietnam
-  },
-  Etc/GMT-7: {
-    Generic: UTC +7,
-    Standard:  +7,
-    Daylight:  +7
-  },
-  America/Miquelon: {
-    Generic: Saint Pierre aamma Miquelon
-  },
-  Asia/Sakhalin: {
-    Generic: Sakhalin
-  },
-  Pacific/Apia: {
-    Generic: Samoa
-  },
-  Africa/Sao_Tome: {
-    Generic: São Tomé aamma Príncipe
-  },
-  Europe/Saratov: {
-    Generic: Saratov
-  },
-  Asia/Singapore: {
-    Generic: Singapore
-  },
-  Asia/Brunei: {
-    Generic: Brunei
-  },
-  Asia/Makassar: {
-    Generic: Indonesia
-  },
-  Asia/Kuala_Lumpur: {
-    Generic: Malaysia
-  },
-  Asia/Kuching: {
-    Generic: Malaysia
-  },
-  Asia/Manila: {
-    Generic: Manila
-  },
-  Etc/GMT-8: {
-    Generic: UTC +8,
-    Standard:  +8,
-    Daylight:  +8
-  },
-  Africa/Johannesburg: {
-    Generic: Kujalleqafrika
-  },
-  Africa/Bujumbura: {
-    Generic: Burundi
-  },
-  Africa/Gaborone: {
-    Generic: Botswana
-  },
-  Africa/Lubumbashi: {
-    Generic: Kongo-Kinshasa
-  },
-  Africa/Maseru: {
-    Generic: Lesotho
-  },
-  Africa/Blantyre: {
-    Generic: Malawi
-  },
-  Africa/Maputo: {
-    Generic: Moçambique
-  },
-  Africa/Kigali: {
-    Generic: Rwanda
-  },
-  Africa/Mbabane: {
-    Generic: Swazilandi
-  },
-  Africa/Lusaka: {
-    Generic: Zambia
-  },
-  Africa/Harare: {
-    Generic: Zimbabwe
-  },
-  Etc/GMT-2: {
-    Generic: UTC +2,
-    Standard:  +2,
-    Daylight:  +2
-  },
-  Africa/Juba: {
-    Generic: Kujalleqsudan
-  },
-  Asia/Colombo: {
-    Generic: Sri Lanka
-  },
-  Africa/Khartoum: {
-    Generic: Avannarleqsudan
-  },
-  Asia/Damascus: {
-    Generic: Syria
-  },
-  Asia/Taipei: {
-    Generic: Taiwan
-  },
-  Australia/Hobart: {
-    Generic: Australia
-  },
-  Australia/Currie: {
-    Generic: Currie
+  Antarctica/DumontDUrville: {
+    Generic: Qalasersuaq Kujalleq
   },
   Antarctica/Macquarie: {
     Generic: Australia
   },
-  America/Araguaina: {
-    Generic: Brazil
+  Antarctica/Mawson: {
+    Generic: Qalasersuaq Kujalleq
   },
-  Asia/Tokyo: {
-    Generic: Japani
+  Antarctica/McMurdo: {
+    Generic: Qalasersuaq Kujalleq
   },
-  Asia/Jayapura: {
-    Generic: Indonesia
+  Antarctica/Palmer: {
+    Generic: Qalasersuaq Kujalleq
   },
-  Pacific/Palau: {
-    Generic: Palau
+  Antarctica/Rothera: {
+    Generic: Qalasersuaq Kujalleq
   },
-  Asia/Dili: {
-    Generic: Timor Kangilliit
+  Antarctica/South_Pole: {
+    Generic: Nutaaq Zeelandi
   },
-  Etc/GMT-9: {
-    Generic: UTC +9,
-    Standard:  +9,
-    Daylight:  +9
+  Antarctica/Syowa: {
+    Generic: Qalasersuaq Kujalleq
   },
-  Asia/Tomsk: {
-    Generic: Tomsk
+  Antarctica/Troll: {
+    Generic: Qalasersuaq Kujalleq
   },
-  Pacific/Tongatapu: {
-    Generic: Tonga
-  },
-  Asia/Chita: {
-    Generic: Chita
-  },
-  Europe/Istanbul: {
-    Generic: Tyrkia
-  },
-  America/Grand_Turk: {
-    Generic: Grand Turk
-  },
-  America/Indianapolis: {
-    Generic: Naalagaaffeqatigiit
-  },
-  America/Indiana/Marengo: {
-    Generic: Naalagaaffeqatigiit
-  },
-  America/Indiana/Vevay: {
-    Generic: Naalagaaffeqatigiit
-  },
-  America/Phoenix: {
-    Generic: Naalagaaffeqatigiit
-  },
-  America/Creston: {
-    Generic: Canada
-  },
-  America/Dawson_Creek: {
-    Generic: Canada
-  },
-  America/Fort_Nelson: {
-    Generic: Canada
-  },
-  America/Hermosillo: {
-    Generic: Mexiko
-  },
-  Etc/GMT+7: {
-    Generic: UTC -7,
-    Standard:  -7,
-    Daylight:  -7
-  },
-  Etc/GMT-12: {
-    Generic: UTC +12,
-    Standard:  +12,
-    Daylight:  +12
-  },
-  Pacific/Tarawa: {
-    Generic: Kiribati
-  },
-  Pacific/Majuro: {
-    Generic: Majuro
-  },
-  Pacific/Kwajalein: {
-    Generic: Kwajalein
-  },
-  Pacific/Nauru: {
-    Generic: Nauru
-  },
-  Pacific/Funafuti: {
-    Generic: Tuvalu
-  },
-  Pacific/Wake: {
-    Generic: Wake
-  },
-  Pacific/Wallis: {
-    Generic: Wallis aamma Futuna
-  },
-  Etc/GMT-13: {
-    Generic: UTC +13,
-    Standard:  +13,
-    Daylight:  +13
-  },
-  Pacific/Enderbury: {
-    Generic: Kiribati
-  },
-  Pacific/Fakaofo: {
-    Generic: Tokelau
-  },
-  Etc/UTC: {
-    Generic: UTC
-  },
-  Etc/GMT: {
-    Generic: GMT
-  },
-  Etc/GMT+2: {
-    Generic: UTC -2,
-    Standard:  -2,
-    Daylight:  -2
-  },
-  America/Noronha: {
-    Generic: Brazil
-  },
-  Atlantic/South_Georgia: {
-    Generic: South Georgia
-  },
-  Etc/GMT+8: {
-    Generic: UTC -8,
-    Standard:  -8,
-    Daylight:  -8
-  },
-  Pacific/Pitcairn: {
-    Generic: Pitcairn
-  },
-  Etc/GMT+9: {
-    Generic: UTC -9,
-    Standard:  -9,
-    Daylight:  -9
-  },
-  Pacific/Gambier: {
-    Generic: Gambier
-  },
-  Etc/GMT+11: {
-    Generic: UTC -11,
-    Standard:  -11,
-    Daylight:  -11
-  },
-  Pacific/Pago_Pago: {
-    Generic: Pago Pago
-  },
-  Pacific/Niue: {
-    Generic: Niue
-  },
-  Pacific/Midway: {
-    Generic: Midway
-  },
-  Asia/Ulaanbaatar: {
-    Generic: Ulaanbaatar
-  },
-  Asia/Choibalsan: {
-    Generic: Choibalsan
-  },
-  America/Caracas: {
-    Generic: Venezuela
-  },
-  Asia/Vladivostok: {
-    Generic: Vladivostok
-  },
-  Asia/Ust-Nera: {
-    Generic: Ust-Nera
-  },
-  Europe/Volgograd: {
-    Generic: Volgograd
-  },
-  Australia/Perth: {
-    Generic: Australia
-  },
-  Africa/Lagos: {
-    Generic: Nigeria
-  },
-  Africa/Luanda: {
-    Generic: Angola
-  },
-  Africa/Porto-Novo: {
-    Generic: Benin
-  },
-  Africa/Kinshasa: {
-    Generic: Kongo-Kinshasa
-  },
-  Africa/Bangui: {
-    Generic: Bangui
-  },
-  Africa/Brazzaville: {
-    Generic: Kongo-Brazzaville
-  },
-  Africa/Douala: {
-    Generic: Kamerun
-  },
-  Africa/Algiers: {
-    Generic: Algeriet
-  },
-  Africa/Libreville: {
-    Generic: Gabon
-  },
-  Africa/Malabo: {
-    Generic: Malabo
-  },
-  Africa/Niamey: {
-    Generic: Niger
-  },
-  Africa/Ndjamena: {
-    Generic: Chad
-  },
-  Africa/Tunis: {
-    Generic: Tunisia
-  },
-  Etc/GMT-1: {
-    Generic: UTC +1,
-    Standard:  +1,
-    Daylight:  +1
-  },
-  Europe/Berlin: {
-    Generic: Tysklandi
-  },
-  Europe/Andorra: {
-    Generic: Andorra
-  },
-  Europe/Vienna: {
-    Generic: Østrigi
-  },
-  Europe/Zurich: {
-    Generic: Schweizi
-  },
-  Europe/Busingen: {
-    Generic: Tysklandi
-  },
-  Europe/Gibraltar: {
-    Generic: Gibraltar
-  },
-  Europe/Rome: {
-    Generic: Italia
-  },
-  Europe/Vaduz: {
-    Generic: Liechtensteini
-  },
-  Europe/Luxembourg: {
-    Generic: Luxembourg
-  },
-  Europe/Monaco: {
-    Generic: Monaco
-  },
-  Europe/Malta: {
-    Generic: Malta
-  },
-  Europe/Amsterdam: {
-    Generic: Hollandi
-  },
-  Europe/Oslo: {
-    Generic: Norge
-  },
-  Europe/Stockholm: {
-    Generic: Sverige
+  Antarctica/Vostok: {
+    Generic: Qalasersuaq Kujalleq
   },
   Arctic/Longyearbyen: {
     Generic: Svalbard aamma Jan Mayen
   },
-  Europe/San_Marino: {
-    Generic: San Marino
+  Asia/Aden: {
+    Generic: Jemen
   },
-  Europe/Vatican: {
-    Generic: Vatikani
-  },
-  Asia/Hovd: {
-    Generic: Hovd
-  },
-  Asia/Tashkent: {
-    Generic: Uzbekistani
-  },
-  Antarctica/Mawson: {
-    Generic: Qalasersuaq Kujalleq
-  },
-  Asia/Oral: {
+  Asia/Almaty: {
     Generic: Kasakhstani
+  },
+  Asia/Amman: {
+    Generic: Jordani
+  },
+  Asia/Anadyr: {
+    Generic: Anadyr
   },
   Asia/Aqtau: {
     Generic: Kasakhstani
@@ -1367,255 +719,47 @@
   Asia/Aqtobe: {
     Generic: Kasakhstani
   },
-  Asia/Atyrau: {
-    Generic: Kasakhstani
-  },
-  Indian/Maldives: {
-    Generic: Maldives
-  },
-  Indian/Kerguelen: {
-    Generic: Kerguelen
-  },
-  Asia/Dushanbe: {
-    Generic: Tajikistani
-  },
   Asia/Ashgabat: {
     Generic: Turkmenistani
-  },
-  Asia/Samarkand: {
-    Generic: Uzbekistani
-  },
-  Etc/GMT-5: {
-    Generic: UTC +5,
-    Standard:  +5,
-    Daylight:  +5
-  },
-  Asia/Hebron: {
-    Generic: Hebron
-  },
-  Asia/Gaza: {
-    Generic: Gaza
-  },
-  Pacific/Port_Moresby: {
-    Generic: Papua Nutaaq Guinea
-  },
-  Antarctica/DumontDUrville: {
-    Generic: Qalasersuaq Kujalleq
-  },
-  Pacific/Truk: {
-    Generic: Micronesia
-  },
-  Pacific/Guam: {
-    Generic: Guam
-  },
-  Pacific/Saipan: {
-    Generic: Saipan
-  },
-  Etc/GMT-10: {
-    Generic: UTC +10,
-    Standard:  +10,
-    Daylight:  +10
-  },
-  Asia/Yakutsk: {
-    Generic: Yakutsk
-  },
-  Asia/Khandyga: {
-    Generic: Khandyga
-  },
-  America/Whitehorse: {
-    Generic: Canada
-  },
-  America/Dawson: {
-    Generic: Canada
-  },
-  Iceland: {
-    Generic: Islandi
-  },
-  Africa/Timbuktu: {
-    Generic: Mali
-  },
-  Egypt: {
-    Generic: Egypten
-  },
-  Africa/Asmara: {
-    Generic: Eritrea
-  },
-  Libya: {
-    Generic: Libya
-  },
-  America/Atka: {
-    Generic: Naalagaaffeqatigiit
-  },
-  US/Aleutian: {
-    Generic: Naalagaaffeqatigiit
-  },
-  US/Alaska: {
-    Generic: Naalagaaffeqatigiit
-  },
-  America/Argentina/Buenos_Aires: {
-    Generic: Argentina
-  },
-  America/Argentina/Catamarca: {
-    Generic: Argentina
-  },
-  America/Argentina/ComodRivadavia: {
-    Generic: Argentina
-  },
-  America/Argentina/Cordoba: {
-    Generic: Argentina
-  },
-  America/Rosario: {
-    Generic: Argentina
-  },
-  America/Argentina/Jujuy: {
-    Generic: Argentina
-  },
-  America/Argentina/Mendoza: {
-    Generic: Argentina
-  },
-  US/Central: {
-    Generic: Naalagaaffeqatigiit
-  },
-  America/Shiprock: {
-    Generic: Naalagaaffeqatigiit
-  },
-  Navajo: {
-    Generic: Naalagaaffeqatigiit
-  },
-  US/Mountain: {
-    Generic: Naalagaaffeqatigiit
-  },
-  US/Michigan: {
-    Generic: Naalagaaffeqatigiit
-  },
-  Canada/Mountain: {
-    Generic: Canada
-  },
-  Canada/Atlantic: {
-    Generic: Canada
-  },
-  Cuba: {
-    Generic: Kuba
-  },
-  America/Indiana/Indianapolis: {
-    Generic: Naalagaaffeqatigiit
-  },
-  US/East-Indiana: {
-    Generic: Naalagaaffeqatigiit
-  },
-  America/Knox_IN: {
-    Generic: Naalagaaffeqatigiit
-  },
-  US/Indiana-Starke: {
-    Generic: Naalagaaffeqatigiit
-  },
-  Jamaica: {
-    Generic: Jamaica
-  },
-  America/Kentucky/Louisville: {
-    Generic: Naalagaaffeqatigiit
-  },
-  US/Pacific: {
-    Generic: Naalagaaffeqatigiit
-  },
-  Brazil/West: {
-    Generic: Brazil
-  },
-  Mexico/BajaSur: {
-    Generic: Mexiko
-  },
-  Mexico/General: {
-    Generic: Mexiko
-  },
-  US/Eastern: {
-    Generic: Naalagaaffeqatigiit
-  },
-  Brazil/DeNoronha: {
-    Generic: Brazil
-  },
-  America/Nuuk: {
-    Generic: Kalaallit Nunaat
-  },
-  America/Atikokan: {
-    Generic: Canada
-  },
-  US/Arizona: {
-    Generic: Naalagaaffeqatigiit
-  },
-  America/Virgin: {
-    Generic: St Thomas
-  },
-  Canada/Saskatchewan: {
-    Generic: Canada
-  },
-  America/Porto_Acre: {
-    Generic: Brazil
-  },
-  Brazil/Acre: {
-    Generic: Brazil
-  },
-  Chile/Continental: {
-    Generic: Chile
-  },
-  Brazil/East: {
-    Generic: Brazil
-  },
-  Canada/Newfoundland: {
-    Generic: Canada
-  },
-  America/Ensenada: {
-    Generic: Mexiko
-  },
-  Mexico/BajaNorte: {
-    Generic: Mexiko
-  },
-  Canada/Eastern: {
-    Generic: Canada
-  },
-  Canada/Pacific: {
-    Generic: Canada
-  },
-  Canada/Yukon: {
-    Generic: Canada
-  },
-  Canada/Central: {
-    Generic: Canada
   },
   Asia/Ashkhabad: {
     Generic: Turkmenistani
   },
-  Asia/Dacca: {
-    Generic: Bangladesh
+  Asia/Atyrau: {
+    Generic: Kasakhstani
   },
-  Asia/Ho_Chi_Minh: {
-    Generic: Vietnam
+  Asia/Baghdad: {
+    Generic: Irak
   },
-  Hongkong: {
-    Generic: Hongkong
+  Asia/Bahrain: {
+    Generic: Bahrain
   },
-  Asia/Tel_Aviv: {
-    Generic: Israel
+  Asia/Baku: {
+    Generic: Baku
   },
-  Israel: {
-    Generic: Israel
+  Asia/Bangkok: {
+    Generic: Thailandi
   },
-  Asia/Kathmandu: {
-    Generic: Nepal
+  Asia/Barnaul: {
+    Generic: Barnaul
   },
-  Asia/Kolkata: {
+  Asia/Beirut: {
+    Generic: Libanon
+  },
+  Asia/Bishkek: {
+    Generic: Bishkek
+  },
+  Asia/Brunei: {
+    Generic: Brunei
+  },
+  Asia/Calcutta: {
     Generic: India
   },
-  Asia/Macao: {
-    Generic: Macao
+  Asia/Chita: {
+    Generic: Chita
   },
-  Asia/Ujung_Pandang: {
-    Generic: Indonesia
-  },
-  Europe/Nicosia: {
-    Generic: Cypern
-  },
-  ROK: {
-    Generic: Korea Kujalleq
+  Asia/Choibalsan: {
+    Generic: Choibalsan
   },
   Asia/Chongqing: {
     Generic: Kina
@@ -1623,58 +767,331 @@
   Asia/Chungking: {
     Generic: Kina
   },
+  Asia/Colombo: {
+    Generic: Sri Lanka
+  },
+  Asia/Dacca: {
+    Generic: Bangladesh
+  },
+  Asia/Damascus: {
+    Generic: Syria
+  },
+  Asia/Dhaka: {
+    Generic: Bangladesh
+  },
+  Asia/Dili: {
+    Generic: Timor Kangilliit
+  },
+  Asia/Dubai: {
+    Generic: Dubai
+  },
+  Asia/Dushanbe: {
+    Generic: Tajikistani
+  },
+  Asia/Famagusta: {
+    Generic: Cypern
+  },
+  Asia/Gaza: {
+    Generic: Gaza
+  },
   Asia/Harbin: {
     Generic: Kina
   },
-  PRC: {
-    Generic: Kina
+  Asia/Hebron: {
+    Generic: Hebron
   },
-  Singapore: {
-    Generic: Singapore
+  Asia/Ho_Chi_Minh: {
+    Generic: Vietnam
   },
-  ROC: {
-    Generic: Taiwan
+  Asia/Hong_Kong: {
+    Generic: Hongkong
   },
-  Iran: {
-    Generic: Iran
+  Asia/Hovd: {
+    Generic: Hovd
   },
-  Asia/Thimbu: {
-    Generic: Bhutan
+  Asia/Irkutsk: {
+    Generic: Irkutsk
   },
-  Japan: {
-    Generic: Japani
+  Asia/Istanbul: {
+    Generic: Tyrkia
   },
-  Asia/Ulan_Bator: {
-    Generic: Ulaanbaatar
+  Asia/Jakarta: {
+    Generic: Indonesia
+  },
+  Asia/Jayapura: {
+    Generic: Indonesia
+  },
+  Asia/Jerusalem: {
+    Generic: Israel
+  },
+  Asia/Kabul: {
+    Generic: Afghanistani
+  },
+  Asia/Kamchatka: {
+    Generic: Kamchatka
+  },
+  Asia/Karachi: {
+    Generic: Pakistani
   },
   Asia/Kashgar: {
     Generic: Kina
   },
+  Asia/Kathmandu: {
+    Generic: Nepal
+  },
+  Asia/Katmandu: {
+    Generic: Nepal
+  },
+  Asia/Khandyga: {
+    Generic: Khandyga
+  },
+  Asia/Kolkata: {
+    Generic: India
+  },
+  Asia/Krasnoyarsk: {
+    Generic: Krasnoyarsk
+  },
+  Asia/Kuala_Lumpur: {
+    Generic: Malaysia
+  },
+  Asia/Kuching: {
+    Generic: Malaysia
+  },
+  Asia/Kuwait: {
+    Generic: Kuwait
+  },
+  Asia/Macao: {
+    Generic: Macao
+  },
+  Asia/Macau: {
+    Generic: Macao
+  },
+  Asia/Magadan: {
+    Generic: Magadan
+  },
+  Asia/Makassar: {
+    Generic: Indonesia
+  },
+  Asia/Manila: {
+    Generic: Manila
+  },
+  Asia/Muscat: {
+    Generic: Oman
+  },
+  Asia/Nicosia: {
+    Generic: Cypern
+  },
+  Asia/Novokuznetsk: {
+    Generic: Novokuznetsk
+  },
+  Asia/Novosibirsk: {
+    Generic: Novosibirsk
+  },
+  Asia/Omsk: {
+    Generic: Omsk
+  },
+  Asia/Oral: {
+    Generic: Kasakhstani
+  },
+  Asia/Phnom_Penh: {
+    Generic: Kambodia
+  },
+  Asia/Pontianak: {
+    Generic: Indonesia
+  },
+  Asia/Pyongyang: {
+    Generic: Korea Avannarleq
+  },
+  Asia/Qatar: {
+    Generic: Quatar
+  },
+  Asia/Qostanay: {
+    Generic: Kasakhstani
+  },
+  Asia/Qyzylorda: {
+    Generic: Kasakhstani
+  },
+  Asia/Rangoon: {
+    Generic: Burma
+  },
+  Asia/Riyadh: {
+    Generic: Saudi Arabia
+  },
+  Asia/Saigon: {
+    Generic: Vietnam
+  },
+  Asia/Sakhalin: {
+    Generic: Sakhalin
+  },
+  Asia/Samarkand: {
+    Generic: Uzbekistani
+  },
+  Asia/Seoul: {
+    Generic: Korea Kujalleq
+  },
+  Asia/Shanghai: {
+    Generic: Kina
+  },
+  Asia/Singapore: {
+    Generic: Singapore
+  },
+  Asia/Srednekolymsk: {
+    Generic: Srednekolymsk
+  },
+  Asia/Taipei: {
+    Generic: Taiwan
+  },
+  Asia/Tashkent: {
+    Generic: Uzbekistani
+  },
+  Asia/Tbilisi: {
+    Generic: Georgia
+  },
+  Asia/Tehran: {
+    Generic: Iran
+  },
+  Asia/Tel_Aviv: {
+    Generic: Israel
+  },
+  Asia/Thimbu: {
+    Generic: Bhutan
+  },
+  Asia/Thimphu: {
+    Generic: Bhutan
+  },
+  Asia/Tokyo: {
+    Generic: Japani
+  },
+  Asia/Tomsk: {
+    Generic: Tomsk
+  },
+  Asia/Ujung_Pandang: {
+    Generic: Indonesia
+  },
+  Asia/Ulaanbaatar: {
+    Generic: Ulaanbaatar
+  },
+  Asia/Ulan_Bator: {
+    Generic: Ulaanbaatar
+  },
+  Asia/Urumqi: {
+    Generic: Kina
+  },
+  Asia/Ust-Nera: {
+    Generic: Ust-Nera
+  },
+  Asia/Vientiane: {
+    Generic: Laos
+  },
+  Asia/Vladivostok: {
+    Generic: Vladivostok
+  },
+  Asia/Yakutsk: {
+    Generic: Yakutsk
+  },
   Asia/Yangon: {
     Generic: Burma
   },
-  WET: {
+  Asia/Yekaterinburg: {
+    Generic: Yekaterinburg
+  },
+  Asia/Yerevan: {
+    Generic: Armenia
+  },
+  Atlantic/Azores: {
+    Generic: Portugali
+  },
+  Atlantic/Bermuda: {
+    Generic: Bermuda
+  },
+  Atlantic/Canary: {
     Generic: Spania
+  },
+  Atlantic/Cape_Verde: {
+    Generic: Cap Verde
+  },
+  Atlantic/Faeroe: {
+    Generic: Savalimmiut
   },
   Atlantic/Faroe: {
     Generic: Savalimmiut
   },
-  Australia/South: {
+  Atlantic/Jan_Mayen: {
+    Generic: Svalbard aamma Jan Mayen
+  },
+  Atlantic/Madeira: {
+    Generic: Portugali
+  },
+  Atlantic/Reykjavik: {
+    Generic: Islandi
+  },
+  Atlantic/South_Georgia: {
+    Generic: South Georgia
+  },
+  Atlantic/St_Helena: {
+    Generic: Saint Helena
+  },
+  Atlantic/Stanley: {
+    Generic: Falklandi qeqertaq
+  },
+  Australia/ACT: {
     Generic: Australia
   },
-  Australia/Queensland: {
+  Australia/Adelaide: {
     Generic: Australia
   },
-  Australia/Yancowinna: {
+  Australia/Brisbane: {
+    Generic: Australia
+  },
+  Australia/Broken_Hill: {
+    Generic: Australia
+  },
+  Australia/Canberra: {
+    Generic: Australia
+  },
+  Australia/Currie: {
+    Generic: Currie
+  },
+  Australia/Darwin: {
+    Generic: Australia
+  },
+  Australia/Eucla: {
+    Generic: Australia
+  },
+  Australia/Hobart: {
+    Generic: Australia
+  },
+  Australia/LHI: {
+    Generic: Australia
+  },
+  Australia/Lindeman: {
+    Generic: Australia
+  },
+  Australia/Lord_Howe: {
+    Generic: Australia
+  },
+  Australia/Melbourne: {
+    Generic: Australia
+  },
+  Australia/NSW: {
     Generic: Australia
   },
   Australia/North: {
     Generic: Australia
   },
-  Australia/Tasmania: {
+  Australia/Perth: {
     Generic: Australia
   },
-  Australia/LHI: {
+  Australia/Queensland: {
+    Generic: Australia
+  },
+  Australia/South: {
+    Generic: Australia
+  },
+  Australia/Sydney: {
+    Generic: Australia
+  },
+  Australia/Tasmania: {
     Generic: Australia
   },
   Australia/Victoria: {
@@ -1683,41 +1100,431 @@
   Australia/West: {
     Generic: Australia
   },
-  Australia/ACT: {
+  Australia/Yancowinna: {
     Generic: Australia
   },
-  Australia/Canberra: {
-    Generic: Australia
+  Brazil/Acre: {
+    Generic: Brazil
   },
-  Australia/NSW: {
-    Generic: Australia
+  Brazil/DeNoronha: {
+    Generic: Brazil
   },
-  HST: {
-    Generic: UTC -10,
-    Standard:  -10,
-    Daylight:  -10
+  Brazil/East: {
+    Generic: Brazil
+  },
+  Brazil/West: {
+    Generic: Brazil
+  },
+  CET: {
+    Generic: Frankrigi
+  },
+  CST6CDT: {
+    Generic: CST6CDT
+  },
+  Canada/Atlantic: {
+    Generic: Canada
+  },
+  Canada/Central: {
+    Generic: Canada
+  },
+  Canada/Eastern: {
+    Generic: Canada
+  },
+  Canada/Mountain: {
+    Generic: Canada
+  },
+  Canada/Newfoundland: {
+    Generic: Canada
+  },
+  Canada/Pacific: {
+    Generic: Canada
+  },
+  Canada/Saskatchewan: {
+    Generic: Canada
+  },
+  Canada/Yukon: {
+    Generic: Canada
+  },
+  Chile/Continental: {
+    Generic: Chile
+  },
+  Chile/EasterIsland: {
+    Generic: Chile
+  },
+  Cuba: {
+    Generic: Kuba
+  },
+  EET: {
+    Generic: Rumænia
   },
   EST: {
     Generic: UTC -5,
     Standard:  -5,
     Daylight:  -5
   },
-  MST: {
-    Generic: UTC -7,
-    Standard:  -7,
-    Daylight:  -7
+  EST5EDT: {
+    Generic: EST5EDT
+  },
+  Egypt: {
+    Generic: Egypten
+  },
+  Eire: {
+    Generic: Irlandi
+  },
+  Etc/GMT: {
+    Generic: GMT
   },
   Etc/GMT+0: {
     Generic: GMT
   },
+  Etc/GMT+1: {
+    Generic: UTC -1,
+    Standard:  -1,
+    Daylight:  -1
+  },
+  Etc/GMT+10: {
+    Generic: UTC -10,
+    Standard:  -10,
+    Daylight:  -10
+  },
+  Etc/GMT+11: {
+    Generic: UTC -11,
+    Standard:  -11,
+    Daylight:  -11
+  },
+  Etc/GMT+12: {
+    Generic: UTC -12,
+    Standard:  -12,
+    Daylight:  -12
+  },
+  Etc/GMT+2: {
+    Generic: UTC -2,
+    Standard:  -2,
+    Daylight:  -2
+  },
+  Etc/GMT+3: {
+    Generic: UTC -3,
+    Standard:  -3,
+    Daylight:  -3
+  },
+  Etc/GMT+4: {
+    Generic: UTC -4,
+    Standard:  -4,
+    Daylight:  -4
+  },
+  Etc/GMT+5: {
+    Generic: UTC -5,
+    Standard:  -5,
+    Daylight:  -5
+  },
+  Etc/GMT+6: {
+    Generic: UTC -6,
+    Standard:  -6,
+    Daylight:  -6
+  },
+  Etc/GMT+7: {
+    Generic: UTC -7,
+    Standard:  -7,
+    Daylight:  -7
+  },
+  Etc/GMT+8: {
+    Generic: UTC -8,
+    Standard:  -8,
+    Daylight:  -8
+  },
+  Etc/GMT+9: {
+    Generic: UTC -9,
+    Standard:  -9,
+    Daylight:  -9
+  },
   Etc/GMT-0: {
     Generic: GMT
+  },
+  Etc/GMT-1: {
+    Generic: UTC +1,
+    Standard:  +1,
+    Daylight:  +1
+  },
+  Etc/GMT-10: {
+    Generic: UTC +10,
+    Standard:  +10,
+    Daylight:  +10
+  },
+  Etc/GMT-11: {
+    Generic: UTC +11,
+    Standard:  +11,
+    Daylight:  +11
+  },
+  Etc/GMT-12: {
+    Generic: UTC +12,
+    Standard:  +12,
+    Daylight:  +12
+  },
+  Etc/GMT-13: {
+    Generic: UTC +13,
+    Standard:  +13,
+    Daylight:  +13
+  },
+  Etc/GMT-14: {
+    Generic: UTC +14,
+    Standard:  +14,
+    Daylight:  +14
+  },
+  Etc/GMT-2: {
+    Generic: UTC +2,
+    Standard:  +2,
+    Daylight:  +2
+  },
+  Etc/GMT-3: {
+    Generic: UTC +3,
+    Standard:  +3,
+    Daylight:  +3
+  },
+  Etc/GMT-4: {
+    Generic: UTC +4,
+    Standard:  +4,
+    Daylight:  +4
+  },
+  Etc/GMT-5: {
+    Generic: UTC +5,
+    Standard:  +5,
+    Daylight:  +5
+  },
+  Etc/GMT-6: {
+    Generic: UTC +6,
+    Standard:  +6,
+    Daylight:  +6
+  },
+  Etc/GMT-7: {
+    Generic: UTC +7,
+    Standard:  +7,
+    Daylight:  +7
+  },
+  Etc/GMT-8: {
+    Generic: UTC +8,
+    Standard:  +8,
+    Daylight:  +8
+  },
+  Etc/GMT-9: {
+    Generic: UTC +9,
+    Standard:  +9,
+    Daylight:  +9
   },
   Etc/GMT0: {
     Generic: GMT
   },
   Etc/Greenwich: {
     Generic: GMT
+  },
+  Etc/UCT: {
+    Generic: UTC
+  },
+  Etc/UTC: {
+    Generic: UTC
+  },
+  Etc/Universal: {
+    Generic: UTC
+  },
+  Etc/Zulu: {
+    Generic: UTC
+  },
+  Europe/Amsterdam: {
+    Generic: Hollandi
+  },
+  Europe/Andorra: {
+    Generic: Andorra
+  },
+  Europe/Astrakhan: {
+    Generic: Astrakhan
+  },
+  Europe/Athens: {
+    Generic: Grækenlandi
+  },
+  Europe/Belfast: {
+    Generic: Tuluit Nunaat
+  },
+  Europe/Belgrade: {
+    Generic: Serbia
+  },
+  Europe/Berlin: {
+    Generic: Tysklandi
+  },
+  Europe/Bratislava: {
+    Generic: Slovakia
+  },
+  Europe/Brussels: {
+    Generic: Belgia
+  },
+  Europe/Bucharest: {
+    Generic: Rumænia
+  },
+  Europe/Budapest: {
+    Generic: Ungarni
+  },
+  Europe/Busingen: {
+    Generic: Tysklandi
+  },
+  Europe/Chisinau: {
+    Generic: Moldova
+  },
+  Europe/Copenhagen: {
+    Generic: Danmarki
+  },
+  Europe/Dublin: {
+    Generic: Irlandi
+  },
+  Europe/Gibraltar: {
+    Generic: Gibraltar
+  },
+  Europe/Guernsey: {
+    Generic: Guernsey
+  },
+  Europe/Helsinki: {
+    Generic: Finlandi
+  },
+  Europe/Isle_of_Man: {
+    Generic: Isle of Man
+  },
+  Europe/Istanbul: {
+    Generic: Tyrkia
+  },
+  Europe/Jersey: {
+    Generic: Jersey
+  },
+  Europe/Kaliningrad: {
+    Generic: Kaliningrad
+  },
+  Europe/Kiev: {
+    Generic: Ukraina
+  },
+  Europe/Kirov: {
+    Generic: Kirov
+  },
+  Europe/Kyiv: {
+    Generic: Ukraina
+  },
+  Europe/Lisbon: {
+    Generic: Portugali
+  },
+  Europe/Ljubljana: {
+    Generic: Slovenia
+  },
+  Europe/London: {
+    Generic: Tuluit Nunaat
+  },
+  Europe/Luxembourg: {
+    Generic: Luxembourg
+  },
+  Europe/Madrid: {
+    Generic: Spania
+  },
+  Europe/Malta: {
+    Generic: Malta
+  },
+  Europe/Mariehamn: {
+    Generic: Ålandi
+  },
+  Europe/Minsk: {
+    Generic: Hvideruslandi
+  },
+  Europe/Monaco: {
+    Generic: Monaco
+  },
+  Europe/Moscow: {
+    Generic: Moscow
+  },
+  Europe/Nicosia: {
+    Generic: Cypern
+  },
+  Europe/Oslo: {
+    Generic: Norge
+  },
+  Europe/Paris: {
+    Generic: Frankrigi
+  },
+  Europe/Podgorica: {
+    Generic: Montenegro
+  },
+  Europe/Prague: {
+    Generic: Tjekkia
+  },
+  Europe/Riga: {
+    Generic: Letlandi
+  },
+  Europe/Rome: {
+    Generic: Italia
+  },
+  Europe/Samara: {
+    Generic: Samara
+  },
+  Europe/San_Marino: {
+    Generic: San Marino
+  },
+  Europe/Sarajevo: {
+    Generic: Bosnia aamma Herzegovina
+  },
+  Europe/Saratov: {
+    Generic: Saratov
+  },
+  Europe/Simferopol: {
+    Generic: Ukraina
+  },
+  Europe/Skopje: {
+    Generic: Skopje
+  },
+  Europe/Sofia: {
+    Generic: Bulgaria
+  },
+  Europe/Stockholm: {
+    Generic: Sverige
+  },
+  Europe/Tallinn: {
+    Generic: Estlandi
+  },
+  Europe/Tirane: {
+    Generic: Albania
+  },
+  Europe/Tiraspol: {
+    Generic: Moldova
+  },
+  Europe/Ulyanovsk: {
+    Generic: Ulyanovsk
+  },
+  Europe/Uzhgorod: {
+    Generic: Uzhgorod
+  },
+  Europe/Vaduz: {
+    Generic: Liechtensteini
+  },
+  Europe/Vatican: {
+    Generic: Vatikani
+  },
+  Europe/Vienna: {
+    Generic: Østrigi
+  },
+  Europe/Vilnius: {
+    Generic: Litaueni
+  },
+  Europe/Volgograd: {
+    Generic: Volgograd
+  },
+  Europe/Warsaw: {
+    Generic: Poleni
+  },
+  Europe/Zagreb: {
+    Generic: Kroatia
+  },
+  Europe/Zaporozhye: {
+    Generic: Zaporozhye
+  },
+  Europe/Zurich: {
+    Generic: Schweizi
+  },
+  GB: {
+    Generic: Tuluit Nunaat
+  },
+  GB-Eire: {
+    Generic: Tuluit Nunaat
   },
   GMT: {
     Generic: GMT
@@ -1734,74 +1541,87 @@
   Greenwich: {
     Generic: GMT
   },
-  Etc/UCT: {
-    Generic: UTC
+  HST: {
+    Generic: UTC -10,
+    Standard:  -10,
+    Daylight:  -10
   },
-  Etc/Universal: {
-    Generic: UTC
+  Hongkong: {
+    Generic: Hongkong
   },
-  Etc/Zulu: {
-    Generic: UTC
+  Iceland: {
+    Generic: Islandi
   },
-  UCT: {
-    Generic: UTC
+  Indian/Antananarivo: {
+    Generic: Madagaskar
   },
-  UTC: {
-    Generic: UTC
+  Indian/Chagos: {
+    Generic: Chagos
   },
-  Universal: {
-    Generic: UTC
+  Indian/Christmas: {
+    Generic: Jul-qeqertaq
   },
-  Zulu: {
-    Generic: UTC
+  Indian/Cocos: {
+    Generic: Cocos qeqertaq
   },
-  Atlantic/Jan_Mayen: {
-    Generic: Svalbard aamma Jan Mayen
+  Indian/Comoro: {
+    Generic: Comoros
+  },
+  Indian/Kerguelen: {
+    Generic: Kerguelen
+  },
+  Indian/Mahe: {
+    Generic: Mahe
+  },
+  Indian/Maldives: {
+    Generic: Maldives
+  },
+  Indian/Mauritius: {
+    Generic: Mauritius
+  },
+  Indian/Mayotte: {
+    Generic: Mayotte
+  },
+  Indian/Reunion: {
+    Generic: Réunion
+  },
+  Iran: {
+    Generic: Iran
+  },
+  Israel: {
+    Generic: Israel
+  },
+  Jamaica: {
+    Generic: Jamaica
+  },
+  Japan: {
+    Generic: Japani
+  },
+  Kwajalein: {
+    Generic: Kwajalein
+  },
+  Libya: {
+    Generic: Libya
   },
   MET: {
     Generic: Tysklandi
   },
-  EET: {
-    Generic: Rumænia
+  MST: {
+    Generic: UTC -7,
+    Standard:  -7,
+    Daylight:  -7
   },
-  Europe/Tiraspol: {
-    Generic: Moldova
+  MST7MDT: {
+    Generic: MST7MDT
   },
-  Eire: {
-    Generic: Irlandi
+  Mexico/BajaNorte: {
+    Generic: Mexiko
   },
-  Asia/Istanbul: {
-    Generic: Tyrkia
+  Mexico/BajaSur: {
+    Generic: Mexiko
   },
-  Turkey: {
-    Generic: Tyrkia
-  },
-  Europe/Kyiv: {
-    Generic: Ukraina
-  },
-  Portugal: {
-    Generic: Portugali
-  },
-  Europe/Belfast: {
-    Generic: Tuluit Nunaat
-  },
-  GB: {
-    Generic: Tuluit Nunaat
-  },
-  GB-Eire: {
-    Generic: Tuluit Nunaat
-  },
-  W-SU: {
-    Generic: Moscow
-  },
-  CET: {
-    Generic: Frankrigi
-  },
-  Poland: {
-    Generic: Poleni
-  },
-  Antarctica/South_Pole: {
-    Generic: Nutaaq Zeelandi
+  Mexico/General: {
+    Generic: Mexiko
   },
   NZ: {
     Generic: Nutaaq Zeelandi
@@ -1809,37 +1629,217 @@
   NZ-CHAT: {
     Generic: Nutaaq Zeelandi
   },
-  Chile/EasterIsland: {
-    Generic: Chile
-  },
-  Pacific/Pohnpei: {
-    Generic: Micronesia
-  },
-  US/Hawaii: {
+  Navajo: {
     Generic: Naalagaaffeqatigiit
   },
-  Pacific/Kanton: {
-    Generic: Kiribati
+  PRC: {
+    Generic: Kina
   },
-  Kwajalein: {
-    Generic: Kwajalein
+  PST8PDT: {
+    Generic: PST8PDT
   },
-  Pacific/Samoa: {
-    Generic: Pago Pago
+  Pacific/Apia: {
+    Generic: Samoa
   },
-  US/Samoa: {
-    Generic: Pago Pago
+  Pacific/Auckland: {
+    Generic: Nutaaq Zeelandi
+  },
+  Pacific/Bougainville: {
+    Generic: Papua Nutaaq Guinea
+  },
+  Pacific/Chatham: {
+    Generic: Nutaaq Zeelandi
   },
   Pacific/Chuuk: {
     Generic: Micronesia
   },
+  Pacific/Easter: {
+    Generic: Chile
+  },
+  Pacific/Efate: {
+    Generic: Vanuatu
+  },
+  Pacific/Enderbury: {
+    Generic: Kiribati
+  },
+  Pacific/Fakaofo: {
+    Generic: Tokelau
+  },
+  Pacific/Fiji: {
+    Generic: Fiji
+  },
+  Pacific/Funafuti: {
+    Generic: Tuvalu
+  },
+  Pacific/Galapagos: {
+    Generic: Ecuador
+  },
+  Pacific/Gambier: {
+    Generic: Gambier
+  },
+  Pacific/Guadalcanal: {
+    Generic: Guadalcanal
+  },
+  Pacific/Guam: {
+    Generic: Guam
+  },
+  Pacific/Honolulu: {
+    Generic: Naalagaaffeqatigiit
+  },
+  Pacific/Johnston: {
+    Generic: Johnston
+  },
+  Pacific/Kanton: {
+    Generic: Kiribati
+  },
+  Pacific/Kiritimati: {
+    Generic: Kiribati
+  },
+  Pacific/Kosrae: {
+    Generic: Micronesia
+  },
+  Pacific/Kwajalein: {
+    Generic: Kwajalein
+  },
+  Pacific/Majuro: {
+    Generic: Majuro
+  },
+  Pacific/Marquesas: {
+    Generic: Marquesas
+  },
+  Pacific/Midway: {
+    Generic: Midway
+  },
+  Pacific/Nauru: {
+    Generic: Nauru
+  },
+  Pacific/Niue: {
+    Generic: Niue
+  },
+  Pacific/Norfolk: {
+    Generic: Norfolk
+  },
+  Pacific/Noumea: {
+    Generic: Nutaaq Caledonia
+  },
+  Pacific/Pago_Pago: {
+    Generic: Pago Pago
+  },
+  Pacific/Palau: {
+    Generic: Palau
+  },
+  Pacific/Pitcairn: {
+    Generic: Pitcairn
+  },
+  Pacific/Pohnpei: {
+    Generic: Micronesia
+  },
+  Pacific/Ponape: {
+    Generic: Micronesia
+  },
+  Pacific/Port_Moresby: {
+    Generic: Papua Nutaaq Guinea
+  },
+  Pacific/Rarotonga: {
+    Generic: Cook qeqertaq
+  },
+  Pacific/Saipan: {
+    Generic: Saipan
+  },
+  Pacific/Samoa: {
+    Generic: Pago Pago
+  },
+  Pacific/Tahiti: {
+    Generic: Tahiti
+  },
+  Pacific/Tarawa: {
+    Generic: Kiribati
+  },
+  Pacific/Tongatapu: {
+    Generic: Tonga
+  },
+  Pacific/Truk: {
+    Generic: Micronesia
+  },
+  Pacific/Wake: {
+    Generic: Wake
+  },
+  Pacific/Wallis: {
+    Generic: Wallis aamma Futuna
+  },
   Pacific/Yap: {
     Generic: Micronesia
   },
-  America/Fort_Wayne: {
+  Poland: {
+    Generic: Poleni
+  },
+  Portugal: {
+    Generic: Portugali
+  },
+  ROC: {
+    Generic: Taiwan
+  },
+  ROK: {
+    Generic: Korea Kujalleq
+  },
+  Singapore: {
+    Generic: Singapore
+  },
+  Turkey: {
+    Generic: Tyrkia
+  },
+  UCT: {
+    Generic: UTC
+  },
+  US/Alaska: {
     Generic: Naalagaaffeqatigiit
   },
-  Antarctica/Troll: {
-    Generic: Qalasersuaq Kujalleq
+  US/Aleutian: {
+    Generic: Naalagaaffeqatigiit
+  },
+  US/Arizona: {
+    Generic: Naalagaaffeqatigiit
+  },
+  US/Central: {
+    Generic: Naalagaaffeqatigiit
+  },
+  US/East-Indiana: {
+    Generic: Naalagaaffeqatigiit
+  },
+  US/Eastern: {
+    Generic: Naalagaaffeqatigiit
+  },
+  US/Hawaii: {
+    Generic: Naalagaaffeqatigiit
+  },
+  US/Indiana-Starke: {
+    Generic: Naalagaaffeqatigiit
+  },
+  US/Michigan: {
+    Generic: Naalagaaffeqatigiit
+  },
+  US/Mountain: {
+    Generic: Naalagaaffeqatigiit
+  },
+  US/Pacific: {
+    Generic: Naalagaaffeqatigiit
+  },
+  US/Samoa: {
+    Generic: Pago Pago
+  },
+  UTC: {
+    Generic: UTC
+  },
+  Universal: {
+    Generic: UTC
+  },
+  W-SU: {
+    Generic: Moscow
+  },
+  WET: {
+    Generic: Spania
+  },
+  Zulu: {
+    Generic: UTC
   }
 }

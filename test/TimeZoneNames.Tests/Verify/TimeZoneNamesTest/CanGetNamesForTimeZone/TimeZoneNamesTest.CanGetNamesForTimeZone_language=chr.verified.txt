@@ -1,115 +1,330 @@
 ﻿{
-  Australia/Darwin: {
-    Generic: ᎠᏰᏟ ᎡᎳᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᎡᎳᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᎡᎳᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  Africa/Abidjan: {
+    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
   },
-  Australia/Sydney: {
-    Generic: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  Africa/Accra: {
+    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
   },
-  Australia/Melbourne: {
-    Generic: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  Africa/Addis_Ababa: {
+    Generic: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
   },
-  Asia/Kabul: {
-    Generic: ᎠᏫᎨᏂᏍᏖᏂ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏫᎨᏂᏍᏖᏂ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏫᎨᏂᏍᏖᏂ ᎠᏟᎢᎵᏒ
+  Africa/Algiers: {
+    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
   },
-  America/Anchorage: {
-    Generic: ᎠᎳᏍᎦ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᎳᏍᎦ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᎳᏍᎦ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  Africa/Asmara: {
+    Generic: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
   },
-  America/Juneau: {
-    Generic: ᎠᎳᏍᎦ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᎳᏍᎦ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᎳᏍᎦ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  Africa/Asmera: {
+    Generic: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
   },
-  America/Metlakatla: {
-    Generic: ᎠᎳᏍᎦ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᎳᏍᎦ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᎳᏍᎦ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  Africa/Bamako: {
+    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
   },
-  America/Nome: {
-    Generic: ᎠᎳᏍᎦ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᎳᏍᎦ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᎳᏍᎦ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  Africa/Bangui: {
+    Generic: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎪᎩ ᎠᏟᎢᎵᏒ
   },
-  America/Sitka: {
-    Generic: ᎠᎳᏍᎦ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᎳᏍᎦ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᎳᏍᎦ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  Africa/Banjul: {
+    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
   },
-  America/Yakutat: {
-    Generic: ᎠᎳᏍᎦ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᎳᏍᎦ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᎳᏍᎦ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  Africa/Bissau: {
+    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Blantyre: {
+    Generic: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Brazzaville: {
+    Generic: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Bujumbura: {
+    Generic: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Cairo: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Casablanca: {
+    Generic: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Ceuta: {
+    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Conakry: {
+    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Dakar: {
+    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Dar_es_Salaam: {
+    Generic: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Djibouti: {
+    Generic: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Douala: {
+    Generic: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Africa/El_Aaiun: {
+    Generic: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Freetown: {
+    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Gaborone: {
+    Generic: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Harare: {
+    Generic: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Johannesburg: {
+    Generic: ᏧᎦᎾᏮ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Standard: ᏧᎦᎾᏮ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏧᎦᎾᏮ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Juba: {
+    Generic: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Kampala: {
+    Generic: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Khartoum: {
+    Generic: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Kigali: {
+    Generic: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Kinshasa: {
+    Generic: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Lagos: {
+    Generic: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Libreville: {
+    Generic: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Lome: {
+    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Luanda: {
+    Generic: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Lubumbashi: {
+    Generic: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Lusaka: {
+    Generic: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Malabo: {
+    Generic: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Maputo: {
+    Generic: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Maseru: {
+    Generic: ᏧᎦᎾᏮ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Standard: ᏧᎦᎾᏮ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏧᎦᎾᏮ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Mbabane: {
+    Generic: ᏧᎦᎾᏮ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Standard: ᏧᎦᎾᏮ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏧᎦᎾᏮ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Mogadishu: {
+    Generic: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Monrovia: {
+    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Nairobi: {
+    Generic: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Ndjamena: {
+    Generic: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Niamey: {
+    Generic: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Nouakchott: {
+    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Ouagadougou: {
+    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Porto-Novo: {
+    Generic: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Sao_Tome: {
+    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Timbuktu: {
+    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Tripoli: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Tunis: {
+    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Africa/Windhoek: {
+    Generic: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
   },
   America/Adak: {
     Generic: ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎠᏟᎢᎵᏒ,
     Standard: ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  Asia/Barnaul: {
-    Generic: ᏆᎾᎣᎵ ᎠᏟᎢᎵᏒ,
-    Standard: ᏆᎾᎣᎵ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏆᎾᎣᎵ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  America/Anchorage: {
+    Generic: ᎠᎳᏍᎦ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᎳᏍᎦ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᎳᏍᎦ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  Asia/Riyadh: {
-    Generic: ᎠᎴᏈᏯ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᎴᏈᏯ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᎴᏈᏯ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  America/Anguilla: {
+    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  Asia/Bahrain: {
-    Generic: ᎠᎴᏈᏯ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᎴᏈᏯ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᎴᏈᏯ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  America/Antigua: {
+    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  Asia/Kuwait: {
-    Generic: ᎠᎴᏈᏯ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᎴᏈᏯ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᎴᏈᏯ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  America/Araguaina: {
+    Generic: ᏆᏏᎵᏯ ᎠᏟᎢᎵᏒ,
+    Standard: ᏆᏏᎵᏯ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏆᏏᎵᏯ ᎪᎩ ᎠᏟᎢᎵᏒ
   },
-  Asia/Qatar: {
-    Generic: ᎠᎴᏈᏯ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᎴᏈᏯ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᎴᏈᏯ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  America/Argentina/Buenos_Aires: {
+    Generic: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏥᏂᏘᏂᎠ ᎪᎩ ᎠᏟᎢᎵᏒ
   },
-  Asia/Aden: {
-    Generic: ᎠᎴᏈᏯ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᎴᏈᏯ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᎴᏈᏯ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  America/Argentina/Catamarca: {
+    Generic: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏥᏂᏘᏂᎠ ᎪᎩ ᎠᏟᎢᎵᏒ
   },
-  Asia/Dubai: {
-    Generic: ᎡᏉᏄᎸᏗ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Standard: ᎡᏉᏄᎸᏗ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎡᏉᏄᎸᏗ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ
+  America/Argentina/ComodRivadavia: {
+    Generic: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏥᏂᏘᏂᎠ ᎪᎩ ᎠᏟᎢᎵᏒ
   },
-  Asia/Muscat: {
-    Generic: ᎡᏉᏄᎸᏗ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Standard: ᎡᏉᏄᎸᏗ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎡᏉᏄᎸᏗ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ
+  America/Argentina/Cordoba: {
+    Generic: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏥᏂᏘᏂᎠ ᎪᎩ ᎠᏟᎢᎵᏒ
   },
-  Etc/GMT-4: {
-    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +4,
-    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +4,
-    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +4
-  },
-  Asia/Baghdad: {
-    Generic: ᎠᎴᏈᏯ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᎴᏈᏯ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᎴᏈᏯ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Buenos_Aires: {
+  America/Argentina/Jujuy: {
     Generic: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎢᎵᏒ,
     Standard: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᎠᏥᏂᏘᏂᎠ ᎪᎩ ᎠᏟᎢᎵᏒ
   },
   America/Argentina/La_Rioja: {
+    Generic: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏥᏂᏘᏂᎠ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  America/Argentina/Mendoza: {
     Generic: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎢᎵᏒ,
     Standard: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᎠᏥᏂᏘᏂᎠ ᎪᎩ ᎠᏟᎢᎵᏒ
@@ -144,327 +359,432 @@
     Standard: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᎠᏥᏂᏘᏂᎠ ᎪᎩ ᎠᏟᎢᎵᏒ
   },
-  America/Catamarca: {
-    Generic: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏥᏂᏘᏂᎠ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  America/Cordoba: {
-    Generic: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏥᏂᏘᏂᎠ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  America/Jujuy: {
-    Generic: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏥᏂᏘᏂᎠ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  America/Mendoza: {
-    Generic: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏥᏂᏘᏂᎠ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Astrakhan: {
-    Generic: ᎠᏝᎧᏂ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏝᎧᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏝᎧᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Ulyanovsk: {
-    Generic: ᎤᎵᏯᏃᏬᏍᎧ ᎠᏟᎢᎵᏒ,
-    Standard: ᎤᎵᏯᏃᏬᏍᎧ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎤᎵᏯᏃᏬᏍᎧ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Halifax: {
+  America/Aruba: {
     Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
     Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  Atlantic/Bermuda: {
-    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  America/Asuncion: {
+    Generic: ᏆᎵᏇ ᎠᏟᎢᎵᏒ,
+    Standard: ᏆᎵᏇ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏆᎵᏇ ᎪᎩ ᎠᏟᎢᎵᏒ
   },
-  America/Glace_Bay: {
-    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  America/Atikokan: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  America/Goose_Bay: {
-    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Moncton: {
-    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Thule: {
-    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Australia/Eucla: {
-    Generic: ᎠᏰᏟ ᎡᎳᏗᏜ ᏭᏕᎵᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᎡᎳᏗᏜ ᏭᏕᎵᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᎡᎳᏗᏜ ᏭᏕᎵᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Baku: {
-    Generic: ᎠᏏᎵᏆᏌᏂ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏏᎵᏆᏌᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏏᎵᏆᏌᏂ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Atlantic/Azores: {
-    Generic: ᎠᏐᎴᏏ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏐᎴᏏ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏐᎴᏏ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  America/Scoresbysund: {
-    Generic: ᏗᎧᎸᎬ ᎢᏤᏍᏛᏱ ᎠᎵᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᎢᏤᏍᏛᏱ ᎠᏟᎶᏍᏗ ᎠᎵᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᎢᏤᏍᏛᏱ ᎪᎩ ᎠᏟᎢᎵᏒ
+  America/Atka: {
+    Generic: ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎠᏟᎢᎵᏒ,
+    Standard: ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
   America/Bahia: {
     Generic: ᏆᏏᎵᏯ ᎠᏟᎢᎵᏒ,
     Standard: ᏆᏏᎵᏯ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᏆᏏᎵᏯ ᎪᎩ ᎠᏟᎢᎵᏒ
   },
-  Asia/Dhaka: {
-    Generic: ᏆᏂᎦᎵᏕᏍ ᎠᏟᎢᎵᏒ,
-    Standard: ᏆᏂᎦᎵᏕᏍ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏆᏂᎦᎵᏕᏍ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Thimphu: {
-    Generic: ᏊᏔᏂ ᎠᏟᎢᎵᏒ,
-    Standard: ᏊᏔᏂ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏊᏔᏂ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Minsk: {
-    Generic: ᎹᏍᎦᏫ ᎠᏟᎢᎵᏒ,
-    Standard: ᎹᏍᎦᏫ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎹᏍᎦᏫ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Pacific/Bougainville: {
-    Generic: ᏆᏇ ᎢᏤ ᎩᎢᏂ ᎠᏟᎢᎵᏒ,
-    Standard: ᏆᏇ ᎢᏤ ᎩᎢᏂ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏆᏇ ᎢᏤ ᎩᎢᏂ ᎠᏟᎢᎵᏒ
-  },
-  America/Regina: {
+  America/Bahia_Banderas: {
     Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
     Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  America/Swift_Current: {
-    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  America/Barbados: {
+    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  Atlantic/Cape_Verde: {
-    Generic: ᎢᎬᎾᏕᎾ ᎢᏤᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᎬᎾᏕᎾ ᎢᏤᏳᏍᏗ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᎬᎾᏕᎾ ᎢᏤᏳᏍᏗ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Etc/GMT+1: {
-    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -1,
-    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -1,
-    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -1
-  },
-  Asia/Yerevan: {
-    Generic: ᎠᎵᎻᏂᎠ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᎵᎻᏂᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᎵᎻᏂᎠ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Australia/Adelaide: {
-    Generic: ᎠᏰᏟ ᎡᎳᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᎡᎳᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᎡᎳᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Australia/Broken_Hill: {
-    Generic: ᎠᏰᏟ ᎡᎳᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᎡᎳᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᎡᎳᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Guatemala: {
-    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  America/Belem: {
+    Generic: ᏆᏏᎵᏯ ᎠᏟᎢᎵᏒ,
+    Standard: ᏆᏏᎵᏯ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏆᏏᎵᏯ ᎪᎩ ᎠᏟᎢᎵᏒ
   },
   America/Belize: {
     Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
     Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  America/Costa_Rica: {
-    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  America/Blanc-Sablon: {
+    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  Pacific/Galapagos: {
-    Generic: ᎡᏆ ᏓᎦᏏ ᎤᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
-    Standard: ᎡᏆ ᏓᎦᏏ ᎤᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎡᏆ ᏓᎦᏏ ᎤᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ
-  },
-  America/Tegucigalpa: {
-    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Managua: {
-    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/El_Salvador: {
-    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Etc/GMT+6: {
-    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -6,
-    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -6,
-    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -6
-  },
-  Asia/Almaty: {
-    Generic: ᏗᎧᎸᎬ ᎧᏎᎧᏍᏕᏂ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᎧᏎᎧᏍᏕᏂ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᎧᏎᎧᏍᏕᏂ ᎠᏟᎢᎵᏒ
-  },
-  Antarctica/Vostok: {
-    Generic: ᏬᏍᏙᎧ ᎠᏟᎢᎵᏒ,
-    Standard: ᏬᏍᏙᎧ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏬᏍᏙᎧ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Urumqi: {
-    Generic: ᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᏓᎶᏂᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏓᎶᏂᎨᏍᏛ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Indian/Chagos: {
-    Generic: ᎠᏂᏴᏫᏯ ᎠᎺᏉᎯ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏂᏴᏫᏯ ᎠᎺᏉᎯ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏂᏴᏫᏯ ᎠᎺᏉᎯ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Bishkek: {
-    Generic: ᎩᎵᏣᎢᏍ ᎠᏟᎢᎵᏒ,
-    Standard: ᎩᎵᏣᎢᏍ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎩᎵᏣᎢᏍ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Qostanay: {
-    Generic: ᏗᎧᎸᎬ ᎧᏎᎧᏍᏕᏂ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᎧᏎᎧᏍᏕᏂ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᎧᏎᎧᏍᏕᏂ ᎠᏟᎢᎵᏒ
-  },
-  Etc/GMT-6: {
-    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +6,
-    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +6,
-    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +6
-  },
-  America/Cuiaba: {
+  America/Boa_Vista: {
     Generic: ᎠᎺᏌᏂ ᎠᏟᎢᎵᏒ,
     Standard: ᎠᎺᏌᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᎠᎺᏌᏂ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  America/Bogota: {
+    Generic: ᎪᎸᎻᏈᎢᎠ ᎠᏟᎢᎵᏒ,
+    Standard: ᎪᎸᎻᏈᎢᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎪᎸᎻᏈᎢᎠ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  America/Boise: {
+    Generic: ᎣᏓᎸ ᎠᏟᎢᎵᏒ,
+    Standard: ᎣᏓᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎣᏓᎸ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Buenos_Aires: {
+    Generic: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏥᏂᏘᏂᎠ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  America/Cambridge_Bay: {
+    Generic: ᎣᏓᎸ ᎠᏟᎢᎵᏒ,
+    Standard: ᎣᏓᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎣᏓᎸ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
   America/Campo_Grande: {
     Generic: ᎠᎺᏌᏂ ᎠᏟᎢᎵᏒ,
     Standard: ᎠᎺᏌᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᎠᎺᏌᏂ ᎪᎩ ᎠᏟᎢᎵᏒ
   },
-  Europe/Budapest: {
-    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  America/Cancun: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  Europe/Tirane: {
-    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  America/Caracas: {
+    Generic: ᏪᏁᏑᏪᎳ ᎠᏟᎢᎵᏒ,
+    Standard: ᏪᏁᏑᏪᎳ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏪᏁᏑᏪᎳ ᎠᏟᎢᎵᏒ
   },
-  Europe/Prague: {
-    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  America/Catamarca: {
+    Generic: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏥᏂᏘᏂᎠ ᎪᎩ ᎠᏟᎢᎵᏒ
   },
-  Europe/Podgorica: {
-    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  America/Cayenne: {
+    Generic: ᎠᏂᎦᎸ ᏈᏯᎾ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏂᎦᎸ ᏈᏯᎾ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏂᎦᎸ ᏈᏯᎾ ᎠᏟᎢᎵᏒ
   },
-  Europe/Belgrade: {
-    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  America/Cayman: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  Europe/Ljubljana: {
-    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Bratislava: {
-    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Warsaw: {
-    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Sarajevo: {
-    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Zagreb: {
-    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Skopje: {
-    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Pacific/Guadalcanal: {
-    Generic: ᏐᎶᎹᏂ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
-    Standard: ᏐᎶᎹᏂ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏐᎶᎹᏂ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ
-  },
-  Antarctica/Casey: {
-    Generic: ᏧᏁᏍᏓᎸ ᎠᏟᎢᎵᏒ,
-    Standard: ᏧᏁᏍᏓᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏧᏁᏍᏓᎸ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Pacific/Ponape: {
-    Generic: ᏉᎾᏇ ᎠᏟᎢᎵᏒ,
-    Standard: ᏉᎾᏇ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏉᎾᏇ ᎠᏟᎢᎵᏒ
-  },
-  Pacific/Kosrae: {
-    Generic: ᎪᏍᎴ ᎠᏟᎢᎵᏒ,
-    Standard: ᎪᏍᎴ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎪᏍᎴ ᎠᏟᎢᎵᏒ
-  },
-  Pacific/Noumea: {
-    Generic: ᎢᏤ ᎧᎵᏙᏂᎠᏂ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏤ ᎧᎵᏙᏂᎠᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᏤ ᎧᎵᏙᏂᎠᏂ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Pacific/Efate: {
-    Generic: ᏩᏄᏩᏚ ᎠᏟᎢᎵᏒ,
-    Standard: ᏩᏄᏩᏚ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏩᏄᏩᏚ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Etc/GMT-11: {
-    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +11,
-    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +11,
-    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +11
-  },
-  America/Mexico_City: {
+  America/Chicago: {
     Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
     Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  America/Bahia_Banderas: {
+  America/Chihuahua: {
+    Generic: ᎠᏂᏍᏆᏂ ᏭᏕᎵᎬ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏂᏍᏆᏂ ᏭᏕᎵᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏂᏍᏆᏂ ᏭᏕᎵᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Coral_Harbour: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Cordoba: {
+    Generic: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏥᏂᏘᏂᎠ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  America/Costa_Rica: {
+    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Creston: {
+    Generic: ᎣᏓᎸ ᎠᏟᎢᎵᏒ,
+    Standard: ᎣᏓᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎣᏓᎸ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Cuiaba: {
+    Generic: ᎠᎺᏌᏂ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᎺᏌᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᎺᏌᏂ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  America/Curacao: {
+    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Danmarkshavn: {
+    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
+  },
+  America/Dawson: {
+    Generic: ᏳᎧᏂ ᎠᏟᎢᎵᏒ,
+    Standard: ᏳᎧᏂ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏳᎧᏂ ᎠᏟᎢᎵᏒ
+  },
+  America/Dawson_Creek: {
+    Generic: ᎣᏓᎸ ᎠᏟᎢᎵᏒ,
+    Standard: ᎣᏓᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎣᏓᎸ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Denver: {
+    Generic: ᎣᏓᎸ ᎠᏟᎢᎵᏒ,
+    Standard: ᎣᏓᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎣᏓᎸ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Detroit: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Dominica: {
+    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Edmonton: {
+    Generic: ᎣᏓᎸ ᎠᏟᎢᎵᏒ,
+    Standard: ᎣᏓᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎣᏓᎸ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Eirunepe: {
+    Generic: ᏆᏏᎵ ᎠᏟᎢᎵᏒ,
+    Standard: ᏆᏏᎵ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏆᏏᎵ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/El_Salvador: {
+    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Ensenada: {
+    Generic: ᏭᏕᎵᎬ ᎠᏟᎢᎵᏒ,
+    Standard: ᏭᏕᎵᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏭᏕᎵᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Fort_Nelson: {
+    Generic: ᎣᏓᎸ ᎠᏟᎢᎵᏒ,
+    Standard: ᎣᏓᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎣᏓᎸ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Fort_Wayne: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Fortaleza: {
+    Generic: ᏆᏏᎵᏯ ᎠᏟᎢᎵᏒ,
+    Standard: ᏆᏏᎵᏯ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏆᏏᎵᏯ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  America/Glace_Bay: {
+    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Godthab: {
+    Generic: ᏭᏕᎵᎬ ᎢᏤᏍᏛᏱ ᎠᎵᎢᎵᏒ,
+    Standard: ᏭᏕᎵᎬ ᎢᏤᏍᏛᏱ ᎠᏟᎶᏍᏗ ᎠᎵᎢᎵᏒ,
+    Daylight: ᏭᏕᎵᎬ ᎢᏤᏍᏛᏱ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  America/Goose_Bay: {
+    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Grand_Turk: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Grenada: {
+    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Guadeloupe: {
+    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Guatemala: {
+    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Guayaquil: {
+    Generic: ᎡᏆᏙᎵ ᎠᏟᎢᎵᏒ,
+    Standard: ᎡᏆᏙᎵ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎡᏆᏙᎵ ᎠᏟᎢᎵᏒ
+  },
+  America/Guyana: {
+    Generic: ᎦᏯᎾ ᎠᏟᎢᎵᏒ,
+    Standard: ᎦᏯᎾ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎦᏯᎾ ᎠᏟᎢᎵᏒ
+  },
+  America/Halifax: {
+    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Havana: {
+    Generic: ᎫᏆ ᎠᏟᎢᎵᏒ,
+    Standard: ᎫᏆ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎫᏆ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Hermosillo: {
+    Generic: ᎠᏂᏍᏆᏂ ᏭᏕᎵᎬ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏂᏍᏆᏂ ᏭᏕᎵᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏂᏍᏆᏂ ᏭᏕᎵᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Indiana/Indianapolis: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Indiana/Knox: {
+    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Indiana/Marengo: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Indiana/Petersburg: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Indiana/Tell_City: {
+    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Indiana/Vevay: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Indiana/Vincennes: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Indiana/Winamac: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Indianapolis: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Inuvik: {
+    Generic: ᎣᏓᎸ ᎠᏟᎢᎵᏒ,
+    Standard: ᎣᏓᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎣᏓᎸ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Iqaluit: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Jamaica: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Jujuy: {
+    Generic: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏥᏂᏘᏂᎠ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  America/Juneau: {
+    Generic: ᎠᎳᏍᎦ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᎳᏍᎦ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᎳᏍᎦ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Kentucky/Louisville: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Kentucky/Monticello: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Knox_IN: {
+    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Kralendijk: {
+    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/La_Paz: {
+    Generic: ᏉᎵᏫᎠ ᎠᏟᎢᎵᏒ,
+    Standard: ᏉᎵᏫᎠ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏉᎵᏫᎠ ᎠᏟᎢᎵᏒ
+  },
+  America/Lima: {
+    Generic: ᏇᎷ ᎠᏟᎢᎵᏒ,
+    Standard: ᏇᎷ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏇᎷ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  America/Los_Angeles: {
+    Generic: ᏭᏕᎵᎬ ᎠᏟᎢᎵᏒ,
+    Standard: ᏭᏕᎵᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏭᏕᎵᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Louisville: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Lower_Princes: {
+    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Maceio: {
+    Generic: ᏆᏏᎵᏯ ᎠᏟᎢᎵᏒ,
+    Standard: ᏆᏏᎵᏯ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏆᏏᎵᏯ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  America/Managua: {
+    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Manaus: {
+    Generic: ᎠᎺᏌᏂ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᎺᏌᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᎺᏌᏂ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  America/Marigot: {
+    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Martinique: {
+    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Matamoros: {
+    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Mazatlan: {
+    Generic: ᎠᏂᏍᏆᏂ ᏭᏕᎵᎬ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏂᏍᏆᏂ ᏭᏕᎵᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏂᏍᏆᏂ ᏭᏕᎵᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Mendoza: {
+    Generic: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏥᏂᏘᏂᎠ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  America/Menominee: {
     Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
     Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
@@ -474,55 +794,70 @@
     Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
+  America/Metlakatla: {
+    Generic: ᎠᎳᏍᎦ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᎳᏍᎦ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᎳᏍᎦ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Mexico_City: {
+    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Miquelon: {
+    Generic: ᎤᏓᏅᏘ ᏈᏰ & ᎻᏇᎶᏂ ᎠᏟᎢᎵᏒ,
+    Standard: ᎤᏓᏅᏘ ᏈᏰ & ᎻᏇᎶᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎤᏓᏅᏘ ᏈᏰ & ᎻᏇᎶᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Moncton: {
+    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
   America/Monterrey: {
     Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
     Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  America/Chicago: {
-    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  America/Montevideo: {
+    Generic: ᏳᎷᏇ ᎠᏟᎢᎵᏒ,
+    Standard: ᏳᎷᏇ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏳᎷᏇ ᎪᎩ ᎠᏟᎢᎵᏒ
   },
-  America/Winnipeg: {
-    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  America/Montreal: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  America/Rainy_River: {
-    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  America/Montserrat: {
+    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  America/Rankin_Inlet: {
-    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  America/Nassau: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  America/Resolute: {
-    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  America/New_York: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  America/Matamoros: {
-    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  America/Nipigon: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  America/Indiana/Knox: {
-    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  America/Nome: {
+    Generic: ᎠᎳᏍᎦ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᎳᏍᎦ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᎳᏍᎦ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  America/Indiana/Tell_City: {
-    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Menominee: {
-    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  America/Noronha: {
+    Generic: ᏪᎾᏅᏙ Ꮥ ᏃᎶᎾᎭ ᎠᏟᎢᎵᏒ,
+    Standard: ᏪᎾᏅᏙ Ꮥ ᏃᎶᎾᎭ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏪᎾᏅᏙ Ꮥ ᏃᎶᎾᎭ ᎪᎩ ᎠᏟᎢᎵᏒ
   },
   America/North_Dakota/Beulah: {
     Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
@@ -539,157 +874,17 @@
     Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  CST6CDT: {
-    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  America/Nuuk: {
+    Generic: ᏭᏕᎵᎬ ᎢᏤᏍᏛᏱ ᎠᎵᎢᎵᏒ,
+    Standard: ᏭᏕᎵᎬ ᎢᏤᏍᏛᏱ ᎠᏟᎶᏍᏗ ᎠᎵᎢᎵᏒ,
+    Daylight: ᏭᏕᎵᎬ ᎢᏤᏍᏛᏱ ᎪᎩ ᎠᏟᎢᎵᏒ
   },
-  Pacific/Chatham: {
-    Generic: ᏣᏝᎻ ᎠᏟᎢᎵᏒ,
-    Standard: ᏣᏝᎻ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏣᏝᎻ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  America/Ojinaga: {
+    Generic: ᎣᏓᎸ ᎠᏟᎢᎵᏒ,
+    Standard: ᎣᏓᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎣᏓᎸ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  Asia/Shanghai: {
-    Generic: ᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᏓᎶᏂᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏓᎶᏂᎨᏍᏛ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Hong_Kong: {
-    Generic: ᎰᏂᎩ ᎪᏂᎩ ᎠᏟᎢᎵᏒ,
-    Standard: ᎰᏂᎩ ᎪᏂᎩ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎰᏂᎩ ᎪᏂᎩ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Macau: {
-    Generic: ᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᏓᎶᏂᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏓᎶᏂᎨᏍᏛ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Havana: {
-    Generic: ᎫᏆ ᎠᏟᎢᎵᏒ,
-    Standard: ᎫᏆ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎫᏆ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Etc/GMT+12: {
-    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -12,
-    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -12,
-    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -12
-  },
-  Africa/Nairobi: {
-    Generic: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
-  },
-  Antarctica/Syowa: {
-    Generic: ᏏᏲᏩ ᎠᏟᎢᎵᏒ,
-    Standard: ᏏᏲᏩ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏏᏲᏩ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Djibouti: {
-    Generic: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Asmera: {
-    Generic: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Addis_Ababa: {
-    Generic: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
-  },
-  Indian/Comoro: {
-    Generic: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
-  },
-  Indian/Antananarivo: {
-    Generic: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Mogadishu: {
-    Generic: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Dar_es_Salaam: {
-    Generic: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Kampala: {
-    Generic: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
-  },
-  Indian/Mayotte: {
-    Generic: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
-  },
-  Etc/GMT-3: {
-    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +3,
-    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +3,
-    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +3
-  },
-  Australia/Brisbane: {
-    Generic: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Australia/Lindeman: {
-    Generic: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Chisinau: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  America/Sao_Paulo: {
-    Generic: ᏆᏏᎵᏯ ᎠᏟᎢᎵᏒ,
-    Standard: ᏆᏏᎵᏯ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏆᏏᎵᏯ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Pacific/Easter: {
-    Generic: ᏥᏌᏕᎴᎯᏌᏅ ᎤᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
-    Standard: ᏥᏌᏕᎴᎯᏌᏅ ᎤᎦᏚᏛᎢ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏥᏌᏕᎴᎯᏌᏅ ᎤᎦᏚᏛᎢ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  America/Cancun: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/New_York: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Nassau: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Toronto: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Iqaluit: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Montreal: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Nipigon: {
+  America/Panama: {
     Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
     Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
@@ -699,800 +894,130 @@
     Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  America/Thunder_Bay: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  America/Paramaribo: {
+    Generic: ᏒᎵᎾᎻ ᎠᏟᎢᎵᏒ,
+    Standard: ᏒᎵᎾᎻ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏒᎵᎾᎻ ᎠᏟᎢᎵᏒ
   },
-  America/Detroit: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Indiana/Petersburg: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Indiana/Vincennes: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Indiana/Winamac: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Kentucky/Monticello: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Louisville: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  EST5EDT: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Cairo: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Yekaterinburg: {
-    Generic: ᏰᎧᏖᎵᏂᏊᎦ ᎠᏟᎢᎵᏒ,
-    Standard: ᏰᎧᏖᎵᏂᏊᎦ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏰᎧᏖᎵᏂᏊᎦ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Kiev: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Mariehamn: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Sofia: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Tallinn: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Helsinki: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Vilnius: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Riga: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Uzhgorod: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Zaporozhye: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Pacific/Fiji: {
-    Generic: ᏫᏥ ᎠᏟᎢᎵᏒ,
-    Standard: ᏫᏥ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏫᏥ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Europe/London: {
-    Generic: ᎩᎵᏏᏲ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏈᏗᏏ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Atlantic/Canary: {
-    Generic: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Atlantic/Faeroe: {
-    Generic: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Guernsey: {
-    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Dublin: {
-    Generic: ᎠᏲᎳᏂ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎨᎵᎩ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Isle_of_Man: {
-    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Jersey: {
-    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Lisbon: {
-    Generic: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Atlantic/Madeira: {
-    Generic: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Bucharest: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Nicosia: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Famagusta: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Athens: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Tbilisi: {
-    Generic: ᏣᎠᏥᎢ ᎠᏟᎢᎵᏒ,
-    Standard: ᏣᎠᏥᎢ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏣᎠᏥᎢ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  America/Godthab: {
-    Generic: ᏭᏕᎵᎬ ᎢᏤᏍᏛᏱ ᎠᎵᎢᎵᏒ,
-    Standard: ᏭᏕᎵᎬ ᎢᏤᏍᏛᏱ ᎠᏟᎶᏍᏗ ᎠᎵᎢᎵᏒ,
-    Daylight: ᏭᏕᎵᎬ ᎢᏤᏍᏛᏱ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Atlantic/Reykjavik: {
-    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
-  },
-  Atlantic/St_Helena: {
-    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Ouagadougou: {
-    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Abidjan: {
-    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Accra: {
-    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
-  },
-  America/Danmarkshavn: {
-    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Banjul: {
-    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Conakry: {
-    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Bissau: {
-    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Monrovia: {
-    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Bamako: {
-    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Nouakchott: {
-    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Freetown: {
-    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Dakar: {
-    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Lome: {
-    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
+  America/Phoenix: {
+    Generic: ᎣᏓᎸ ᎠᏟᎢᎵᏒ,
+    Standard: ᎣᏓᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎣᏓᎸ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
   America/Port-au-Prince: {
     Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
     Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  Pacific/Honolulu: {
-    Generic: ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎠᏟᎢᎵᏒ,
-    Standard: ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Pacific/Rarotonga: {
-    Generic: ᎠᏓᏍᏓᏴᎲᏍᎩ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏓᏍᏓᏴᎲᏍᎩ ᏚᎦᏚᏛᎢ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏓᏍᏓᏴᎲᏍᎩ ᏚᎦᏚᏛᎢ ᎠᏰᏟ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Pacific/Tahiti: {
-    Generic: ᏔᎯᏘ ᎠᏟᎢᎵᏒ,
-    Standard: ᏔᎯᏘ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏔᎯᏘ ᎠᏟᎢᎵᏒ
-  },
-  Pacific/Johnston: {
-    Generic: ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎠᏟᎢᎵᏒ,
-    Standard: ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Etc/GMT+10: {
-    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -10,
-    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -10,
-    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -10
-  },
-  Asia/Calcutta: {
-    Generic: ᎢᏂᏗᎢᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏂᏗᎢᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᏂᏗᎢᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Tehran: {
-    Generic: ᎢᎳᏂ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᎳᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᎳᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Jerusalem: {
-    Generic: ᎢᏏᎵᏱ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏏᎵᏱ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᏏᎵᏱ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒᎩ
-  },
-  Asia/Amman: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Kaliningrad: {
-    Generic: ᎧᎵᏂᏆᏗ ᎠᏟᎢᎵᏒ,
-    Standard: ᎧᎵᏂᏆᏗ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎧᎵᏂᏆᏗ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Seoul: {
-    Generic: ᎪᎵᎠᏂ ᎠᏟᎢᎵᏒ,
-    Standard: ᎪᎵᎠᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎪᎵᎠᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Tripoli: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Pacific/Kiritimati: {
-    Generic: ᎠᏍᏓᏅᏅ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏍᏓᏅᏅ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏍᏓᏅᏅ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ
-  },
-  Etc/GMT-14: {
-    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +14,
-    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +14,
-    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +14
-  },
-  Australia/Lord_Howe: {
-    Generic: ᎤᎬᏫᏳᎯ ᎭᏫ ᎠᏟᎢᎵᏒ,
-    Standard: ᎤᎬᏫᏳᎯ ᎭᏫ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎤᎬᏫᏳᎯ ᎭᏫ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Magadan: {
-    Generic: ᎹᎦᏓᏂ ᎠᏟᎢᎵᏒ,
-    Standard: ᎹᎦᏓᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎹᎦᏓᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Punta_Arenas: {
-    Generic: ᏥᎵ ᎠᏟᎢᎵᏒ,
-    Standard: ᏥᎵ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏥᎵ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Pacific/Marquesas: {
-    Generic: ᎹᎵᎨᏌᏏ ᎠᏟᎢᎵᏒ,
-    Standard: ᎹᎵᎨᏌᏏ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎹᎵᎨᏌᏏ ᎠᏟᎢᎵᏒ
-  },
-  Indian/Mauritius: {
-    Generic: ᎼᎵᏏᎥᏍ ᎠᏟᎢᎵᏒ,
-    Standard: ᎼᎵᏏᎥᏍ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎼᎵᏏᎥᏍ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Indian/Reunion: {
-    Generic: ᎴᏳᏂᎠᏂ ᎠᏟᎢᎵᏒ,
-    Standard: ᎴᏳᏂᎠᏂ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎴᏳᏂᎠᏂ ᎠᏟᎢᎵᏒ
-  },
-  Indian/Mahe: {
-    Generic: ᏎᏤᎴᏏ ᎠᏟᎢᎵᏒ,
-    Standard: ᏎᏤᎴᏏ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏎᏤᎴᏏ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Beirut: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  America/Montevideo: {
-    Generic: ᏳᎷᏇ ᎠᏟᎢᎵᏒ,
-    Standard: ᏳᎷᏇ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏳᎷᏇ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Casablanca: {
-    Generic: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Africa/El_Aaiun: {
-    Generic: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  America/Chihuahua: {
-    Generic: ᎠᏂᏍᏆᏂ ᏭᏕᎵᎬ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏂᏍᏆᏂ ᏭᏕᎵᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏂᏍᏆᏂ ᏭᏕᎵᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Mazatlan: {
-    Generic: ᎠᏂᏍᏆᏂ ᏭᏕᎵᎬ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏂᏍᏆᏂ ᏭᏕᎵᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏂᏍᏆᏂ ᏭᏕᎵᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Denver: {
-    Generic: ᎣᏓᎸ ᎠᏟᎢᎵᏒ,
-    Standard: ᎣᏓᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎣᏓᎸ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Edmonton: {
-    Generic: ᎣᏓᎸ ᎠᏟᎢᎵᏒ,
-    Standard: ᎣᏓᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎣᏓᎸ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Cambridge_Bay: {
-    Generic: ᎣᏓᎸ ᎠᏟᎢᎵᏒ,
-    Standard: ᎣᏓᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎣᏓᎸ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Inuvik: {
-    Generic: ᎣᏓᎸ ᎠᏟᎢᎵᏒ,
-    Standard: ᎣᏓᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎣᏓᎸ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Yellowknife: {
-    Generic: ᎣᏓᎸ ᎠᏟᎢᎵᏒ,
-    Standard: ᎣᏓᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎣᏓᎸ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Ojinaga: {
-    Generic: ᎣᏓᎸ ᎠᏟᎢᎵᏒ,
-    Standard: ᎣᏓᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎣᏓᎸ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Boise: {
-    Generic: ᎣᏓᎸ ᎠᏟᎢᎵᏒ,
-    Standard: ᎣᏓᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎣᏓᎸ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  MST7MDT: {
-    Generic: ᎣᏓᎸ ᎠᏟᎢᎵᏒ,
-    Standard: ᎣᏓᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎣᏓᎸ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Rangoon: {
-    Generic: ᎹᏯᎹᎵ ᎠᏟᎢᎵᏒ,
-    Standard: ᎹᏯᎹᎵ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎹᏯᎹᎵ ᎠᏟᎢᎵᏒ
-  },
-  Indian/Cocos: {
-    Generic: ᎪᎪᏍ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
-    Standard: ᎪᎪᏍ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎪᎪᏍ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Novosibirsk: {
-    Generic: ᏃᏬᏏᏈᏍᎧ ᎠᏟᎢᎵᏒ,
-    Standard: ᏃᏬᏏᏈᏍᎧ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏃᏬᏏᏈᏍᎧ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Windhoek: {
-    Generic: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Katmandu: {
-    Generic: ᏁᏆᎵ ᎠᏟᎢᎵᏒ,
-    Standard: ᏁᏆᎵ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏁᏆᎵ ᎠᏟᎢᎵᏒ
-  },
-  Pacific/Auckland: {
-    Generic: ᎢᏤ ᏏᎢᎴᏂᏗ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏤ ᏏᎢᎴᏂᏗ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᏤ ᏏᎢᎴᏂᏗ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Antarctica/McMurdo: {
-    Generic: ᎢᏤ ᏏᎢᎴᏂᏗ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏤ ᏏᎢᎴᏂᏗ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᏤ ᏏᎢᎴᏂᏗ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/St_Johns: {
-    Generic: ᎢᏤᎤᏂᏩᏛᏓᎦᏙᎯ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏤᎤᏂᏩᏛᏓᎦᏙᎯ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᏤᎤᏂᏩᏛᏓᎦᏙᎯ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Pacific/Norfolk: {
-    Generic: ᏃᎵᏬᎵᎩ ᎤᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
-    Standard: ᏃᎵᏬᎵᎩ ᎤᎦᏚᏛᎢ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏃᎵᏬᎵᎩ ᎤᎦᏚᏛᎢ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Irkutsk: {
-    Generic: ᎢᎫᏥᎧ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᎫᏥᎧ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᎫᏥᎧ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Krasnoyarsk: {
-    Generic: ᏝᏍᏃᏯᏍᎧ ᎠᏟᎢᎵᏒ,
-    Standard: ᏝᏍᏃᏯᏍᎧ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏝᏍᏃᏯᏍᎧ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Novokuznetsk: {
-    Generic: ᏃᏬᎫᏁᏖᏍᎧ ᎠᏟᎢᎵᏒ,
-    Standard: ᏃᏬᎫᏁᏖᏍᎧ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏃᏬᎫᏁᏖᏍᎧ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Pyongyang: {
-    Generic: ᎪᎵᎠᏂ ᎠᏟᎢᎵᏒ,
-    Standard: ᎪᎵᎠᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎪᎵᎠᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Omsk: {
-    Generic: ᎣᎻᏍᎧ ᎠᏟᎢᎵᏒ,
-    Standard: ᎣᎻᏍᎧ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎣᎻᏍᎧ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Santiago: {
-    Generic: ᏥᎵ ᎠᏟᎢᎵᏒ,
-    Standard: ᏥᎵ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏥᎵ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  America/Tijuana: {
-    Generic: ᏭᏕᎵᎬ ᎠᏟᎢᎵᏒ,
-    Standard: ᏭᏕᎵᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏭᏕᎵᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Santa_Isabel: {
-    Generic: ᏧᏴᏢ ᏭᏕᎵᎬ ᎠᏂᏍᏆᏂ ᎠᏟᎢᎵᏒ,
-    Standard: ᏧᏴᏢ ᏭᏕᎵᎬ ᎠᏂᏍᏆᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏧᏴᏢ ᏭᏕᎵᎬ ᎠᏂᏍᏆᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Los_Angeles: {
-    Generic: ᏭᏕᎵᎬ ᎠᏟᎢᎵᏒ,
-    Standard: ᏭᏕᎵᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏭᏕᎵᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Vancouver: {
-    Generic: ᏭᏕᎵᎬ ᎠᏟᎢᎵᏒ,
-    Standard: ᏭᏕᎵᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏭᏕᎵᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  PST8PDT: {
-    Generic: ᏭᏕᎵᎬ ᎠᏟᎢᎵᏒ,
-    Standard: ᏭᏕᎵᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏭᏕᎵᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Karachi: {
-    Generic: ᏆᎩᏍᏖᏂ ᎠᏟᎢᎵᏒ,
-    Standard: ᏆᎩᏍᏖᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏆᎩᏍᏖᏂ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  America/Asuncion: {
-    Generic: ᏆᎵᏇ ᎠᏟᎢᎵᏒ,
-    Standard: ᏆᎵᏇ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏆᎵᏇ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Qyzylorda: {
-    Generic: ᏭᏕᎵᎬ ᎧᏎᎧᏍᏕᏂ ᎠᏟᎢᎵᏒ,
-    Standard: ᏭᏕᎵᎬ ᎧᏎᎧᏍᏕᏂ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏭᏕᎵᎬ ᎧᏎᎧᏍᏕᏂ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Paris: {
-    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Brussels: {
-    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Copenhagen: {
-    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Ceuta: {
-    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Madrid: {
-    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Srednekolymsk: {
-    Generic: ᏍᎴᏗᏁᎪᎵᎻᏍᎧ ᎠᏟᎢᎵᏒ,
-    Standard: ᏍᎴᏗᏁᎪᎵᎻᏍᎧ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏍᎴᏗᏁᎪᎵᎻᏍᎧ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Kamchatka: {
-    Generic: ᎧᎻᏣᎧ ᎠᏟᎢᎵᏒ,
-    Standard: ᎧᎻᏣᎧ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎧᎻᏣᎧ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Anadyr: {
-    Generic: ᎠᎾᏗᎵ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᎾᏗᎵ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᎾᏗᎵ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Samara: {
-    Generic: ᏌᎹᎳ ᎠᏟᎢᎵᏒ,
-    Standard: ᏌᎹᎳ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏌᎹᎳ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Moscow: {
-    Generic: ᎹᏍᎦᏫ ᎠᏟᎢᎵᏒ,
-    Standard: ᎹᏍᎦᏫ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎹᏍᎦᏫ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Kirov: {
-    Generic: ᎩᎶᏩ ᎠᏟᎢᎵᏒ,
-    Standard: ᎩᎶᏩ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎩᎶᏩ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Simferopol: {
-    Generic: ᎹᏍᎦᏫ ᎠᏟᎢᎵᏒ,
-    Standard: ᎹᏍᎦᏫ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎹᏍᎦᏫ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  America/Cayenne: {
-    Generic: ᎠᏂᎦᎸ ᏈᏯᎾ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏂᎦᎸ ᏈᏯᎾ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏂᎦᎸ ᏈᏯᎾ ᎠᏟᎢᎵᏒ
-  },
-  Antarctica/Rothera: {
-    Generic: ᎳᏞᎳ ᎠᏟᎢᎵᏒ,
-    Standard: ᎳᏞᎳ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎳᏞᎳ ᎠᏟᎢᎵᏒ
-  },
-  Antarctica/Palmer: {
-    Generic: ᏥᎵ ᎠᏟᎢᎵᏒ,
-    Standard: ᏥᎵ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏥᎵ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  America/Fortaleza: {
-    Generic: ᏆᏏᎵᏯ ᎠᏟᎢᎵᏒ,
-    Standard: ᏆᏏᎵᏯ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏆᏏᎵᏯ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  America/Belem: {
-    Generic: ᏆᏏᎵᏯ ᎠᏟᎢᎵᏒ,
-    Standard: ᏆᏏᎵᏯ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏆᏏᎵᏯ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  America/Maceio: {
-    Generic: ᏆᏏᎵᏯ ᎠᏟᎢᎵᏒ,
-    Standard: ᏆᏏᎵᏯ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏆᏏᎵᏯ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  America/Recife: {
-    Generic: ᏆᏏᎵᏯ ᎠᏟᎢᎵᏒ,
-    Standard: ᏆᏏᎵᏯ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏆᏏᎵᏯ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  America/Santarem: {
-    Generic: ᏆᏏᎵᏯ ᎠᏟᎢᎵᏒ,
-    Standard: ᏆᏏᎵᏯ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏆᏏᎵᏯ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Atlantic/Stanley: {
-    Generic: ᏩᎩ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
-    Standard: ᏩᎩ ᏚᎦᏚᏛᎢ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏩᎩ ᏚᎦᏚᏛᎢ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  America/Paramaribo: {
-    Generic: ᏒᎵᎾᎻ ᎠᏟᎢᎵᏒ,
-    Standard: ᏒᎵᎾᎻ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏒᎵᎾᎻ ᎠᏟᎢᎵᏒ
-  },
-  Etc/GMT+3: {
-    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -3,
-    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -3,
-    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -3
-  },
-  America/Bogota: {
-    Generic: ᎪᎸᎻᏈᎢᎠ ᎠᏟᎢᎵᏒ,
-    Standard: ᎪᎸᎻᏈᎢᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎪᎸᎻᏈᎢᎠ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  America/Rio_Branco: {
+  America/Port_of_Spain: {
+    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Porto_Acre: {
     Generic: ᏆᏏᎵ ᎠᏟᎢᎵᏒ,
     Standard: ᏆᏏᎵ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᏆᏏᎵ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Eirunepe: {
-    Generic: ᏆᏏᎵ ᎠᏟᎢᎵᏒ,
-    Standard: ᏆᏏᎵ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏆᏏᎵ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Coral_Harbour: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Guayaquil: {
-    Generic: ᎡᏆᏙᎵ ᎠᏟᎢᎵᏒ,
-    Standard: ᎡᏆᏙᎵ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎡᏆᏙᎵ ᎠᏟᎢᎵᏒ
-  },
-  America/Jamaica: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Cayman: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Panama: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Lima: {
-    Generic: ᏇᎷ ᎠᏟᎢᎵᏒ,
-    Standard: ᏇᎷ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏇᎷ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Etc/GMT+5: {
-    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -5,
-    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -5,
-    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -5
-  },
-  America/La_Paz: {
-    Generic: ᏉᎵᏫᎠ ᎠᏟᎢᎵᏒ,
-    Standard: ᏉᎵᏫᎠ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏉᎵᏫᎠ ᎠᏟᎢᎵᏒ
-  },
-  America/Antigua: {
-    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Anguilla: {
-    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Aruba: {
-    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Barbados: {
-    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/St_Barthelemy: {
-    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Kralendijk: {
-    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Manaus: {
-    Generic: ᎠᎺᏌᏂ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᎺᏌᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᎺᏌᏂ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  America/Boa_Vista: {
-    Generic: ᎠᎺᏌᏂ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᎺᏌᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᎺᏌᏂ ᎪᎩ ᎠᏟᎢᎵᏒ
   },
   America/Porto_Velho: {
     Generic: ᎠᎺᏌᏂ ᎠᏟᎢᎵᏒ,
     Standard: ᎠᎺᏌᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᎠᎺᏌᏂ ᎪᎩ ᎠᏟᎢᎵᏒ
   },
-  America/Blanc-Sablon: {
+  America/Puerto_Rico: {
     Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
     Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  America/Curacao: {
-    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  America/Punta_Arenas: {
+    Generic: ᏥᎵ ᎠᏟᎢᎵᏒ,
+    Standard: ᏥᎵ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏥᎵ ᎪᎩ ᎠᏟᎢᎵᏒ
   },
-  America/Dominica: {
-    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  America/Rainy_River: {
+    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Rankin_Inlet: {
+    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Recife: {
+    Generic: ᏆᏏᎵᏯ ᎠᏟᎢᎵᏒ,
+    Standard: ᏆᏏᎵᏯ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏆᏏᎵᏯ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  America/Regina: {
+    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Resolute: {
+    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Rio_Branco: {
+    Generic: ᏆᏏᎵ ᎠᏟᎢᎵᏒ,
+    Standard: ᏆᏏᎵ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏆᏏᎵ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Rosario: {
+    Generic: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏥᏂᏘᏂᎠ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  America/Santa_Isabel: {
+    Generic: ᏧᏴᏢ ᏭᏕᎵᎬ ᎠᏂᏍᏆᏂ ᎠᏟᎢᎵᏒ,
+    Standard: ᏧᏴᏢ ᏭᏕᎵᎬ ᎠᏂᏍᏆᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏧᏴᏢ ᏭᏕᎵᎬ ᎠᏂᏍᏆᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Santarem: {
+    Generic: ᏆᏏᎵᏯ ᎠᏟᎢᎵᏒ,
+    Standard: ᏆᏏᎵᏯ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏆᏏᎵᏯ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  America/Santiago: {
+    Generic: ᏥᎵ ᎠᏟᎢᎵᏒ,
+    Standard: ᏥᎵ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏥᎵ ᎪᎩ ᎠᏟᎢᎵᏒ
   },
   America/Santo_Domingo: {
     Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
     Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  America/Grenada: {
+  America/Sao_Paulo: {
+    Generic: ᏆᏏᎵᏯ ᎠᏟᎢᎵᏒ,
+    Standard: ᏆᏏᎵᏯ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏆᏏᎵᏯ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  America/Scoresbysund: {
+    Generic: ᏗᎧᎸᎬ ᎢᏤᏍᏛᏱ ᎠᎵᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᎢᏤᏍᏛᏱ ᎠᏟᎶᏍᏗ ᎠᎵᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᎢᏤᏍᏛᏱ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  America/Shiprock: {
+    Generic: ᎣᏓᎸ ᎠᏟᎢᎵᏒ,
+    Standard: ᎣᏓᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎣᏓᎸ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Sitka: {
+    Generic: ᎠᎳᏍᎦ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᎳᏍᎦ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᎳᏍᎦ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/St_Barthelemy: {
     Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
     Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  America/Guadeloupe: {
-    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Guyana: {
-    Generic: ᎦᏯᎾ ᎠᏟᎢᎵᏒ,
-    Standard: ᎦᏯᎾ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎦᏯᎾ ᎠᏟᎢᎵᏒ
+  America/St_Johns: {
+    Generic: ᎢᏤᎤᏂᏩᏛᏓᎦᏙᎯ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏤᎤᏂᏩᏛᏓᎦᏙᎯ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᏤᎤᏂᏩᏛᏓᎦᏙᎯ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
   America/St_Kitts: {
     Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
@@ -1504,32 +1029,7 @@
     Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  America/Marigot: {
-    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Martinique: {
-    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Montserrat: {
-    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Puerto_Rico: {
-    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Lower_Princes: {
-    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Port_of_Spain: {
+  America/St_Thomas: {
     Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
     Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
@@ -1539,655 +1039,155 @@
     Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
+  America/Swift_Current: {
+    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Tegucigalpa: {
+    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Thule: {
+    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Thunder_Bay: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Tijuana: {
+    Generic: ᏭᏕᎵᎬ ᎠᏟᎢᎵᏒ,
+    Standard: ᏭᏕᎵᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏭᏕᎵᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Toronto: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
   America/Tortola: {
     Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
     Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  America/St_Thomas: {
+  America/Vancouver: {
+    Generic: ᏭᏕᎵᎬ ᎠᏟᎢᎵᏒ,
+    Standard: ᏭᏕᎵᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏭᏕᎵᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Virgin: {
     Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
     Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  Etc/GMT+4: {
-    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -4,
-    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -4,
-    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -4
+  America/Whitehorse: {
+    Generic: ᏳᎧᏂ ᎠᏟᎢᎵᏒ,
+    Standard: ᏳᎧᏂ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏳᎧᏂ ᎠᏟᎢᎵᏒ
   },
-  Asia/Bangkok: {
-    Generic: ᎢᏂᏙᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏂᏙᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᏂᏙᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ
+  America/Winnipeg: {
+    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Yakutat: {
+    Generic: ᎠᎳᏍᎦ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᎳᏍᎦ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᎳᏍᎦ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  America/Yellowknife: {
+    Generic: ᎣᏓᎸ ᎠᏟᎢᎵᏒ,
+    Standard: ᎣᏓᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎣᏓᎸ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Antarctica/Casey: {
+    Generic: ᏧᏁᏍᏓᎸ ᎠᏟᎢᎵᏒ,
+    Standard: ᏧᏁᏍᏓᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏧᏁᏍᏓᎸ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
   Antarctica/Davis: {
     Generic: ᏕᏫᏏ ᎠᏟᎢᎵᏒ,
     Standard: ᏕᏫᏏ ᎠᏟᎢᎵᏒ,
     Daylight: ᏕᏫᏏ ᎠᏟᎢᎵᏒ
   },
-  Indian/Christmas: {
-    Generic: ᏓᏂᏍᏓᏲᎯᎲ ᎤᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
-    Standard: ᏓᏂᏍᏓᏲᎯᎲ ᎤᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏓᏂᏍᏓᏲᎯᎲ ᎤᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Jakarta: {
-    Generic: ᏭᏕᎵᎬ ᏗᏜ ᎢᏂᏙᏂᏍᏯ ᎠᏟᎢᎵᏒ,
-    Standard: ᏭᏕᎵᎬ ᏗᏜ ᎢᏂᏙᏂᏍᏯ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏭᏕᎵᎬ ᏗᏜ ᎢᏂᏙᏂᏍᏯ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Pontianak: {
-    Generic: ᏭᏕᎵᎬ ᏗᏜ ᎢᏂᏙᏂᏍᏯ ᎠᏟᎢᎵᏒ,
-    Standard: ᏭᏕᎵᎬ ᏗᏜ ᎢᏂᏙᏂᏍᏯ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏭᏕᎵᎬ ᏗᏜ ᎢᏂᏙᏂᏍᏯ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Phnom_Penh: {
-    Generic: ᎢᏂᏙᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏂᏙᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᏂᏙᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Vientiane: {
-    Generic: ᎢᏂᏙᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏂᏙᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᏂᏙᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Saigon: {
-    Generic: ᎢᏂᏙᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏂᏙᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᏂᏙᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ
-  },
-  Etc/GMT-7: {
-    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +7,
-    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +7,
-    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +7
-  },
-  America/Miquelon: {
-    Generic: ᎤᏓᏅᏘ ᏈᏰ & ᎻᏇᎶᏂ ᎠᏟᎢᎵᏒ,
-    Standard: ᎤᏓᏅᏘ ᏈᏰ & ᎻᏇᎶᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎤᏓᏅᏘ ᏈᏰ & ᎻᏇᎶᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Sakhalin: {
-    Generic: ᏌᎧᎵᏂ ᎠᏟᎢᎵᏒ,
-    Standard: ᏌᎧᎵᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏌᎧᎵᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Pacific/Apia: {
-    Generic: ᎠᏈᎠ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏈᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏈᎠ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Sao_Tome: {
-    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Saratov: {
-    Generic: ᏌᏆᏙᎥ ᎠᏟᎢᎵᏒ,
-    Standard: ᏌᏆᏙᎥ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏌᏆᏙᎥ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Singapore: {
-    Generic: ᏏᏂᎦᏉᎵ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Standard: ᏏᏂᎦᏉᎵ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏏᏂᎦᏉᎵ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Brunei: {
-    Generic: ᏊᎾᎢ ᏓᎷᏌᎳᎻ ᎠᏟᎢᎵᏒ,
-    Standard: ᏊᎾᎢ ᏓᎷᏌᎳᎻ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏊᎾᎢ ᏓᎷᏌᎳᎻ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Makassar: {
-    Generic: ᎠᏰᏟ ᎢᏂᏙᏂᏍᏯ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᎢᏂᏙᏂᏍᏯ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᎢᏂᏙᏂᏍᏯ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Kuala_Lumpur: {
-    Generic: ᎹᎴᏏᎢᎠ ᎠᏟᎢᎵᏒ,
-    Standard: ᎹᎴᏏᎢᎠ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎹᎴᏏᎢᎠ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Kuching: {
-    Generic: ᎹᎴᏏᎢᎠ ᎠᏟᎢᎵᏒ,
-    Standard: ᎹᎴᏏᎢᎠ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎹᎴᏏᎢᎠ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Manila: {
-    Generic: ᎠᏂᏈᎵᎩᏃ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏂᏈᎵᎩᏃ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏂᏈᎵᎩᏃ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Etc/GMT-8: {
-    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +8,
-    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +8,
-    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +8
-  },
-  Africa/Johannesburg: {
-    Generic: ᏧᎦᎾᏮ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Standard: ᏧᎦᎾᏮ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏧᎦᎾᏮ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Bujumbura: {
-    Generic: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Gaborone: {
-    Generic: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Lubumbashi: {
-    Generic: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Maseru: {
-    Generic: ᏧᎦᎾᏮ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Standard: ᏧᎦᎾᏮ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏧᎦᎾᏮ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Blantyre: {
-    Generic: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Maputo: {
-    Generic: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Kigali: {
-    Generic: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Mbabane: {
-    Generic: ᏧᎦᎾᏮ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Standard: ᏧᎦᎾᏮ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏧᎦᎾᏮ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Lusaka: {
-    Generic: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Harare: {
-    Generic: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
-  },
-  Etc/GMT-2: {
-    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +2,
-    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +2,
-    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +2
-  },
-  Africa/Juba: {
-    Generic: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Colombo: {
-    Generic: ᎢᏂᏗᎢᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏂᏗᎢᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᏂᏗᎢᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Khartoum: {
-    Generic: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Damascus: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Taipei: {
-    Generic: ᏔᏱᏇ ᎠᏟᎢᎵᏒ,
-    Standard: ᏔᏱᏇ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏔᏱᏇ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Australia/Hobart: {
-    Generic: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Australia/Currie: {
-    Generic: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  Antarctica/DumontDUrville: {
+    Generic: ᏚᎼᎾᏘ-Ꮧ’ᎤᎵᏫᎵ ᎠᏟᎢᎵᏒ,
+    Standard: ᏚᎼᎾᏘ-Ꮧ’ᎤᎵᏫᎵ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏚᎼᎾᏘ-Ꮧ’ᎤᎵᏫᎵ ᎠᏟᎢᎵᏒ
   },
   Antarctica/Macquarie: {
     Generic: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
     Standard: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  America/Araguaina: {
-    Generic: ᏆᏏᎵᏯ ᎠᏟᎢᎵᏒ,
-    Standard: ᏆᏏᎵᏯ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏆᏏᎵᏯ ᎪᎩ ᎠᏟᎢᎵᏒ
+  Antarctica/Mawson: {
+    Generic: ᎹᏌᏂ ᎠᏟᎢᎵᏒ,
+    Standard: ᎹᏌᏂ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎹᏌᏂ ᎠᏟᎢᎵᏒ
   },
-  Asia/Tokyo: {
-    Generic: ᏣᏩᏂᏏ ᎠᏟᎢᎵᏒ,
-    Standard: ᏣᏩᏂᏏ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏣᏩᏂᏏ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  Antarctica/McMurdo: {
+    Generic: ᎢᏤ ᏏᎢᎴᏂᏗ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏤ ᏏᎢᎴᏂᏗ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᏤ ᏏᎢᎴᏂᏗ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  Asia/Jayapura: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎢᏂᏙᏂᏍᏯ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎢᏂᏙᏂᏍᏯ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎢᏂᏙᏂᏍᏯ ᎠᏟᎢᎵᏒ
+  Antarctica/Palmer: {
+    Generic: ᏥᎵ ᎠᏟᎢᎵᏒ,
+    Standard: ᏥᎵ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏥᎵ ᎪᎩ ᎠᏟᎢᎵᏒ
   },
-  Pacific/Palau: {
-    Generic: ᏆᎷ ᎠᏟᎢᎵᏒ,
-    Standard: ᏆᎷ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏆᎷ ᎠᏟᎢᎵᏒ
+  Antarctica/Rothera: {
+    Generic: ᎳᏞᎳ ᎠᏟᎢᎵᏒ,
+    Standard: ᎳᏞᎳ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎳᏞᎳ ᎠᏟᎢᎵᏒ
   },
-  Asia/Dili: {
-    Generic: ᏗᎧᎸᎬ ᏘᎼᎵ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏘᎼᎵ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏘᎼᎵ ᎠᏟᎢᎵᏒ
+  Antarctica/South_Pole: {
+    Generic: ᎢᏤ ᏏᎢᎴᏂᏗ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏤ ᏏᎢᎴᏂᏗ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᏤ ᏏᎢᎴᏂᏗ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  Etc/GMT-9: {
-    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +9,
-    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +9,
-    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +9
+  Antarctica/Syowa: {
+    Generic: ᏏᏲᏩ ᎠᏟᎢᎵᏒ,
+    Standard: ᏏᏲᏩ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏏᏲᏩ ᎠᏟᎢᎵᏒ
   },
-  Asia/Tomsk: {
-    Generic: ᏙᎻᏍᎧ ᎠᏟᎢᎵᏒ,
-    Standard: ᏙᎻᏍᎧ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏙᎻᏍᎧ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Pacific/Tongatapu: {
-    Generic: ᏙᎾᎦ ᎠᏟᎢᎵᏒ,
-    Standard: ᏙᎾᎦ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏙᎾᎦ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Chita: {
-    Generic: ᏥᏔ ᎠᏟᎢᎵᏒ,
-    Standard: ᏥᏔ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏥᏔ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Istanbul: {
-    Generic: ᎬᏃ ᎠᏟᎢᎵᏒ,
-    Standard: ᎬᏃ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎬᏃ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Grand_Turk: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Indianapolis: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Indiana/Marengo: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Indiana/Vevay: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Phoenix: {
-    Generic: ᎣᏓᎸ ᎠᏟᎢᎵᏒ,
-    Standard: ᎣᏓᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎣᏓᎸ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Creston: {
-    Generic: ᎣᏓᎸ ᎠᏟᎢᎵᏒ,
-    Standard: ᎣᏓᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎣᏓᎸ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Dawson_Creek: {
-    Generic: ᎣᏓᎸ ᎠᏟᎢᎵᏒ,
-    Standard: ᎣᏓᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎣᏓᎸ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Fort_Nelson: {
-    Generic: ᎣᏓᎸ ᎠᏟᎢᎵᏒ,
-    Standard: ᎣᏓᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎣᏓᎸ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Hermosillo: {
-    Generic: ᎠᏂᏍᏆᏂ ᏭᏕᎵᎬ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏂᏍᏆᏂ ᏭᏕᎵᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏂᏍᏆᏂ ᏭᏕᎵᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Etc/GMT+7: {
-    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -7,
-    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -7,
-    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -7
-  },
-  Etc/GMT-12: {
-    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +12,
-    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +12,
-    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +12
-  },
-  Pacific/Tarawa: {
-    Generic: ᎩᎵᏇᏘ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
-    Standard: ᎩᎵᏇᏘ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎩᎵᏇᏘ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ
-  },
-  Pacific/Majuro: {
-    Generic: ᎹᏌᎵ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
-    Standard: ᎹᏌᎵ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎹᏌᎵ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ
-  },
-  Pacific/Kwajalein: {
-    Generic: ᎹᏌᎵ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
-    Standard: ᎹᏌᎵ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎹᏌᎵ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ
-  },
-  Pacific/Nauru: {
-    Generic: ᎾᎷ ᎠᏟᎢᎵᏒ,
-    Standard: ᎾᎷ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎾᎷ ᎠᏟᎢᎵᏒ
-  },
-  Pacific/Funafuti: {
-    Generic: ᏚᏩᎷ ᎠᏟᎢᎵᏒ,
-    Standard: ᏚᏩᎷ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏚᏩᎷ ᎠᏟᎢᎵᏒ
-  },
-  Pacific/Wake: {
-    Generic: ᎤᏰᏨ ᎤᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
-    Standard: ᎤᏰᏨ ᎤᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎤᏰᏨ ᎤᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ
-  },
-  Pacific/Wallis: {
-    Generic: ᏩᎵᏍ ᎠᎴ ᏊᏚᎾ ᎠᏟᎢᎵᏒ,
-    Standard: ᏩᎵᏍ ᎠᎴ ᏊᏚᎾ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏩᎵᏍ ᎠᎴ ᏊᏚᎾ ᎠᏟᎢᎵᏒ
-  },
-  Etc/GMT-13: {
-    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +13,
-    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +13,
-    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +13
-  },
-  Pacific/Enderbury: {
-    Generic: ᏧᎴᎯᏌᏅᎯ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
-    Standard: ᏧᎴᎯᏌᏅᎯ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏧᎴᎯᏌᏅᎯ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ
-  },
-  Pacific/Fakaofo: {
-    Generic: ᏙᎨᎳᎤ ᎠᏟᎢᎵᏒ,
-    Standard: ᏙᎨᎳᎤ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏙᎨᎳᎤ ᎠᏟᎢᎵᏒ
-  },
-  Etc/UTC: {
-    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ
-  },
-  Etc/GMT: {
+  Antarctica/Troll: {
     Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
     Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
   },
-  Etc/GMT+2: {
-    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -2,
-    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -2,
-    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -2
-  },
-  America/Noronha: {
-    Generic: ᏪᎾᏅᏙ Ꮥ ᏃᎶᎾᎭ ᎠᏟᎢᎵᏒ,
-    Standard: ᏪᎾᏅᏙ Ꮥ ᏃᎶᎾᎭ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏪᎾᏅᏙ Ꮥ ᏃᎶᎾᎭ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Atlantic/South_Georgia: {
-    Generic: ᏧᎦᎾᏮ ᏣᎠᏥᎢ ᎠᏟᎢᎵᏒ,
-    Standard: ᏧᎦᎾᏮ ᏣᎠᏥᎢ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏧᎦᎾᏮ ᏣᎠᏥᎢ ᎠᏟᎢᎵᏒ
-  },
-  Etc/GMT+8: {
-    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -8,
-    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -8,
-    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -8
-  },
-  Pacific/Pitcairn: {
-    Generic: ᏈᎧᎵᏂ ᎠᏟᎢᎵᏒ,
-    Standard: ᏈᎧᎵᏂ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏈᎧᎵᏂ ᎠᏟᎢᎵᏒ
-  },
-  Etc/GMT+9: {
-    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -9,
-    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -9,
-    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -9
-  },
-  Pacific/Gambier: {
-    Generic: ᎦᎻᏇᎵ ᎠᏟᎢᎵᏒ,
-    Standard: ᎦᎻᏇᎵ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎦᎻᏇᎵ ᎠᏟᎢᎵᏒ
-  },
-  Etc/GMT+11: {
-    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -11,
-    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -11,
-    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -11
-  },
-  Pacific/Pago_Pago: {
-    Generic: ᏌᎼᎠ ᎠᏟᎢᎵᏒ,
-    Standard: ᏌᎼᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏌᎼᎠ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Pacific/Niue: {
-    Generic: ᏂᏳ ᎠᏟᎢᎵᏒ,
-    Standard: ᏂᏳ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏂᏳ ᎠᏟᎢᎵᏒ
-  },
-  Pacific/Midway: {
-    Generic: ᏌᎼᎠ ᎠᏟᎢᎵᏒ,
-    Standard: ᏌᎼᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏌᎼᎠ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Ulaanbaatar: {
-    Generic: ᎤᎳᏂ ᏆᏙᎸ ᎠᏟᎢᎵᏒ,
-    Standard: ᎤᎳᏂ ᏆᏙᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎤᎳᏂ ᏆᏙᎸ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Choibalsan: {
-    Generic: ᎤᎳᏂ ᏆᏙᎸ ᎠᏟᎢᎵᏒ,
-    Standard: ᎤᎳᏂ ᏆᏙᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎤᎳᏂ ᏆᏙᎸ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  America/Caracas: {
-    Generic: ᏪᏁᏑᏪᎳ ᎠᏟᎢᎵᏒ,
-    Standard: ᏪᏁᏑᏪᎳ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏪᏁᏑᏪᎳ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Vladivostok: {
-    Generic: ᏭᎳᏗᏬᏍᏙᎩ ᎠᏟᎢᎵᏒ,
-    Standard: ᏭᎳᏗᏬᏍᏙᎩ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏭᎳᏗᏬᏍᏙᎩ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Ust-Nera: {
-    Generic: ᎤᏍᏔ-ᏁᎳ ᎠᏟᎢᎵᏒ,
-    Standard: ᎤᏍᏔ-ᏁᎳ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎤᏍᏔ-ᏁᎳ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Volgograd: {
-    Generic: ᏬᎶᎪᏝᏗ ᎠᏟᎢᎵᏒ,
-    Standard: ᏬᎶᎪᏝᏗ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏬᎶᎪᏝᏗ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Australia/Perth: {
-    Generic: ᎡᎳᏗᏜ ᏭᏕᎵᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᎡᎳᏗᏜ ᏭᏕᎵᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎡᎳᏗᏜ ᏭᏕᎵᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Lagos: {
-    Generic: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Luanda: {
-    Generic: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Porto-Novo: {
-    Generic: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Kinshasa: {
-    Generic: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Bangui: {
-    Generic: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Brazzaville: {
-    Generic: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Douala: {
-    Generic: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Algiers: {
-    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Libreville: {
-    Generic: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Malabo: {
-    Generic: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Niamey: {
-    Generic: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Ndjamena: {
-    Generic: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Tunis: {
-    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Etc/GMT-1: {
-    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +1,
-    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +1,
-    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +1
-  },
-  Europe/Berlin: {
-    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Andorra: {
-    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Vienna: {
-    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Zurich: {
-    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Busingen: {
-    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Gibraltar: {
-    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Rome: {
-    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Vaduz: {
-    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Luxembourg: {
-    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Monaco: {
-    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Malta: {
-    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Amsterdam: {
-    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Oslo: {
-    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Stockholm: {
-    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  Antarctica/Vostok: {
+    Generic: ᏬᏍᏙᎧ ᎠᏟᎢᎵᏒ,
+    Standard: ᏬᏍᏙᎧ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏬᏍᏙᎧ ᎠᏟᎢᎵᏒ
   },
   Arctic/Longyearbyen: {
     Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
     Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
   },
-  Europe/San_Marino: {
-    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  Asia/Aden: {
+    Generic: ᎠᎴᏈᏯ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᎴᏈᏯ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᎴᏈᏯ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  Europe/Vatican: {
-    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  Asia/Almaty: {
+    Generic: ᏗᎧᎸᎬ ᎧᏎᎧᏍᏕᏂ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᎧᏎᎧᏍᏕᏂ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᎧᏎᎧᏍᏕᏂ ᎠᏟᎢᎵᏒ
   },
-  Asia/Hovd: {
-    Generic: ᎰᏩᏗ ᎠᏟᎢᎵᏒ,
-    Standard: ᎰᏩᏗ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎰᏩᏗ ᎪᎩ ᎠᏟᎢᎵᏒ
+  Asia/Amman: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
   },
-  Asia/Tashkent: {
-    Generic: ᎤᏍᏇᎩᏍᏖᏂ ᎠᏟᎢᎵᏒ,
-    Standard: ᎤᏍᏇᎩᏍᏖᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎤᏍᏇᎩᏍᏖᏂ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Antarctica/Mawson: {
-    Generic: ᎹᏌᏂ ᎠᏟᎢᎵᏒ,
-    Standard: ᎹᏌᏂ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎹᏌᏂ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Oral: {
-    Generic: ᏭᏕᎵᎬ ᎧᏎᎧᏍᏕᏂ ᎠᏟᎢᎵᏒ,
-    Standard: ᏭᏕᎵᎬ ᎧᏎᎧᏍᏕᏂ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏭᏕᎵᎬ ᎧᏎᎧᏍᏕᏂ ᎠᏟᎢᎵᏒ
+  Asia/Anadyr: {
+    Generic: ᎠᎾᏗᎵ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᎾᏗᎵ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᎾᏗᎵ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
   Asia/Aqtau: {
     Generic: ᏭᏕᎵᎬ ᎧᏎᎧᏍᏕᏂ ᎠᏟᎢᎵᏒ,
@@ -2199,415 +1199,75 @@
     Standard: ᏭᏕᎵᎬ ᎧᏎᎧᏍᏕᏂ ᎠᏟᎢᎵᏒ,
     Daylight: ᏭᏕᎵᎬ ᎧᏎᎧᏍᏕᏂ ᎠᏟᎢᎵᏒ
   },
-  Asia/Atyrau: {
-    Generic: ᏭᏕᎵᎬ ᎧᏎᎧᏍᏕᏂ ᎠᏟᎢᎵᏒ,
-    Standard: ᏭᏕᎵᎬ ᎧᏎᎧᏍᏕᏂ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏭᏕᎵᎬ ᎧᏎᎧᏍᏕᏂ ᎠᏟᎢᎵᏒ
-  },
-  Indian/Maldives: {
-    Generic: ᎹᎵᏗᏫᏍ ᎠᏟᎢᎵᏒ,
-    Standard: ᎹᎵᏗᏫᏍ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎹᎵᏗᏫᏍ ᎠᏟᎢᎵᏒ
-  },
-  Indian/Kerguelen: {
-    Generic: ᎠᏂᎦᎸᏥ ᎤᎦᏃᏮ & ᎤᏁᏍᏓᎶ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏂᎦᎸᏥ ᎤᎦᏃᏮ & ᎤᏁᏍᏓᎶ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏂᎦᎸᏥ ᎤᎦᏃᏮ & ᎤᏁᏍᏓᎶ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Dushanbe: {
-    Generic: ᏔᏥᎩᏍᏕᏂ ᎠᏟᎢᎵᏒ,
-    Standard: ᏔᏥᎩᏍᏕᏂ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏔᏥᎩᏍᏕᏂ ᎠᏟᎢᎵᏒ
-  },
   Asia/Ashgabat: {
     Generic: ᏛᎵᎩᎺᏂᏍᏔᏂ ᎠᏟᎢᎵᏒ,
     Standard: ᏛᎵᎩᎺᏂᏍᏔᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᏛᎵᎩᎺᏂᏍᏔᏂ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Samarkand: {
-    Generic: ᎤᏍᏇᎩᏍᏖᏂ ᎠᏟᎢᎵᏒ,
-    Standard: ᎤᏍᏇᎩᏍᏖᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎤᏍᏇᎩᏍᏖᏂ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Etc/GMT-5: {
-    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +5,
-    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +5,
-    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +5
-  },
-  Asia/Hebron: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Gaza: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Pacific/Port_Moresby: {
-    Generic: ᏆᏇ ᎢᏤ ᎩᎢᏂ ᎠᏟᎢᎵᏒ,
-    Standard: ᏆᏇ ᎢᏤ ᎩᎢᏂ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏆᏇ ᎢᏤ ᎩᎢᏂ ᎠᏟᎢᎵᏒ
-  },
-  Antarctica/DumontDUrville: {
-    Generic: ᏚᎼᎾᏘ-Ꮧ’ᎤᎵᏫᎵ ᎠᏟᎢᎵᏒ,
-    Standard: ᏚᎼᎾᏘ-Ꮧ’ᎤᎵᏫᎵ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏚᎼᎾᏘ-Ꮧ’ᎤᎵᏫᎵ ᎠᏟᎢᎵᏒ
-  },
-  Pacific/Truk: {
-    Generic: ᏧᎩ ᎠᏟᎢᎵᏒ,
-    Standard: ᏧᎩ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏧᎩ ᎠᏟᎢᎵᏒ
-  },
-  Pacific/Guam: {
-    Generic: ᏣᎼᎶ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Standard: ᏣᎼᎶ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏣᎼᎶ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ
-  },
-  Pacific/Saipan: {
-    Generic: ᏣᎼᎶ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Standard: ᏣᎼᎶ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏣᎼᎶ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ
-  },
-  Etc/GMT-10: {
-    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +10,
-    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +10,
-    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +10
-  },
-  Asia/Yakutsk: {
-    Generic: ᏯᎫᏥᎧ ᎠᏟᎢᎵᏒ,
-    Standard: ᏯᎫᏥᎧ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏯᎫᏥᎧ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Khandyga: {
-    Generic: ᎧᏂᏗᎦ ᎠᏟᎢᎵᏒ,
-    Standard: ᎧᏂᏗᎦ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎧᏂᏗᎦ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Whitehorse: {
-    Generic: ᏳᎧᏂ ᎠᏟᎢᎵᏒ,
-    Standard: ᏳᎧᏂ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏳᎧᏂ ᎠᏟᎢᎵᏒ
-  },
-  America/Dawson: {
-    Generic: ᏳᎧᏂ ᎠᏟᎢᎵᏒ,
-    Standard: ᏳᎧᏂ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏳᎧᏂ ᎠᏟᎢᎵᏒ
-  },
-  Iceland: {
-    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Timbuktu: {
-    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
-  },
-  Egypt: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Africa/Asmara: {
-    Generic: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
-  },
-  Libya: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  America/Atka: {
-    Generic: ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎠᏟᎢᎵᏒ,
-    Standard: ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  US/Aleutian: {
-    Generic: ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎠᏟᎢᎵᏒ,
-    Standard: ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  US/Alaska: {
-    Generic: ᎠᎳᏍᎦ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᎳᏍᎦ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᎳᏍᎦ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Argentina/Buenos_Aires: {
-    Generic: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏥᏂᏘᏂᎠ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  America/Argentina/Catamarca: {
-    Generic: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏥᏂᏘᏂᎠ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  America/Argentina/ComodRivadavia: {
-    Generic: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏥᏂᏘᏂᎠ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  America/Argentina/Cordoba: {
-    Generic: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏥᏂᏘᏂᎠ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  America/Rosario: {
-    Generic: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏥᏂᏘᏂᎠ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  America/Argentina/Jujuy: {
-    Generic: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏥᏂᏘᏂᎠ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  America/Argentina/Mendoza: {
-    Generic: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏥᏂᏘᏂᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏥᏂᏘᏂᎠ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  US/Central: {
-    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Shiprock: {
-    Generic: ᎣᏓᎸ ᎠᏟᎢᎵᏒ,
-    Standard: ᎣᏓᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎣᏓᎸ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Navajo: {
-    Generic: ᎣᏓᎸ ᎠᏟᎢᎵᏒ,
-    Standard: ᎣᏓᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎣᏓᎸ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  US/Mountain: {
-    Generic: ᎣᏓᎸ ᎠᏟᎢᎵᏒ,
-    Standard: ᎣᏓᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎣᏓᎸ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  US/Michigan: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Canada/Mountain: {
-    Generic: ᎣᏓᎸ ᎠᏟᎢᎵᏒ,
-    Standard: ᎣᏓᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎣᏓᎸ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Canada/Atlantic: {
-    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Cuba: {
-    Generic: ᎫᏆ ᎠᏟᎢᎵᏒ,
-    Standard: ᎫᏆ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎫᏆ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Indiana/Indianapolis: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  US/East-Indiana: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Knox_IN: {
-    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  US/Indiana-Starke: {
-    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Jamaica: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Kentucky/Louisville: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  US/Pacific: {
-    Generic: ᏭᏕᎵᎬ ᎠᏟᎢᎵᏒ,
-    Standard: ᏭᏕᎵᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏭᏕᎵᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Brazil/West: {
-    Generic: ᎠᎺᏌᏂ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᎺᏌᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᎺᏌᏂ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Mexico/BajaSur: {
-    Generic: ᎠᏂᏍᏆᏂ ᏭᏕᎵᎬ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏂᏍᏆᏂ ᏭᏕᎵᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏂᏍᏆᏂ ᏭᏕᎵᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Mexico/General: {
-    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  US/Eastern: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Brazil/DeNoronha: {
-    Generic: ᏪᎾᏅᏙ Ꮥ ᏃᎶᎾᎭ ᎠᏟᎢᎵᏒ,
-    Standard: ᏪᎾᏅᏙ Ꮥ ᏃᎶᎾᎭ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏪᎾᏅᏙ Ꮥ ᏃᎶᎾᎭ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  America/Nuuk: {
-    Generic: ᏭᏕᎵᎬ ᎢᏤᏍᏛᏱ ᎠᎵᎢᎵᏒ,
-    Standard: ᏭᏕᎵᎬ ᎢᏤᏍᏛᏱ ᎠᏟᎶᏍᏗ ᎠᎵᎢᎵᏒ,
-    Daylight: ᏭᏕᎵᎬ ᎢᏤᏍᏛᏱ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  America/Atikokan: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  US/Arizona: {
-    Generic: ᎣᏓᎸ ᎠᏟᎢᎵᏒ,
-    Standard: ᎣᏓᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎣᏓᎸ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Virgin: {
-    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Canada/Saskatchewan: {
-    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Porto_Acre: {
-    Generic: ᏆᏏᎵ ᎠᏟᎢᎵᏒ,
-    Standard: ᏆᏏᎵ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏆᏏᎵ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Brazil/Acre: {
-    Generic: ᏆᏏᎵ ᎠᏟᎢᎵᏒ,
-    Standard: ᏆᏏᎵ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏆᏏᎵ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Chile/Continental: {
-    Generic: ᏥᎵ ᎠᏟᎢᎵᏒ,
-    Standard: ᏥᎵ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏥᎵ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Brazil/East: {
-    Generic: ᏆᏏᎵᏯ ᎠᏟᎢᎵᏒ,
-    Standard: ᏆᏏᎵᏯ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏆᏏᎵᏯ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Canada/Newfoundland: {
-    Generic: ᎢᏤᎤᏂᏩᏛᏓᎦᏙᎯ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏤᎤᏂᏩᏛᏓᎦᏙᎯ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᏤᎤᏂᏩᏛᏓᎦᏙᎯ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  America/Ensenada: {
-    Generic: ᏭᏕᎵᎬ ᎠᏟᎢᎵᏒ,
-    Standard: ᏭᏕᎵᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏭᏕᎵᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Mexico/BajaNorte: {
-    Generic: ᏭᏕᎵᎬ ᎠᏟᎢᎵᏒ,
-    Standard: ᏭᏕᎵᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏭᏕᎵᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Canada/Eastern: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Canada/Pacific: {
-    Generic: ᏭᏕᎵᎬ ᎠᏟᎢᎵᏒ,
-    Standard: ᏭᏕᎵᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏭᏕᎵᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Canada/Yukon: {
-    Generic: ᏳᎧᏂ ᎠᏟᎢᎵᏒ,
-    Standard: ᏳᎧᏂ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏳᎧᏂ ᎠᏟᎢᎵᏒ
-  },
-  Canada/Central: {
-    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
   Asia/Ashkhabad: {
     Generic: ᏛᎵᎩᎺᏂᏍᏔᏂ ᎠᏟᎢᎵᏒ,
     Standard: ᏛᎵᎩᎺᏂᏍᏔᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᏛᎵᎩᎺᏂᏍᏔᏂ ᎪᎩ ᎠᏟᎢᎵᏒ
   },
-  Asia/Dacca: {
-    Generic: ᏆᏂᎦᎵᏕᏍ ᎠᏟᎢᎵᏒ,
-    Standard: ᏆᏂᎦᎵᏕᏍ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏆᏂᎦᎵᏕᏍ ᎪᎩ ᎠᏟᎢᎵᏒ
+  Asia/Atyrau: {
+    Generic: ᏭᏕᎵᎬ ᎧᏎᎧᏍᏕᏂ ᎠᏟᎢᎵᏒ,
+    Standard: ᏭᏕᎵᎬ ᎧᏎᎧᏍᏕᏂ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏭᏕᎵᎬ ᎧᏎᎧᏍᏕᏂ ᎠᏟᎢᎵᏒ
   },
-  Asia/Ho_Chi_Minh: {
+  Asia/Baghdad: {
+    Generic: ᎠᎴᏈᏯ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᎴᏈᏯ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᎴᏈᏯ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Bahrain: {
+    Generic: ᎠᎴᏈᏯ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᎴᏈᏯ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᎴᏈᏯ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Baku: {
+    Generic: ᎠᏏᎵᏆᏌᏂ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏏᎵᏆᏌᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏏᎵᏆᏌᏂ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Bangkok: {
     Generic: ᎢᏂᏙᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ,
     Standard: ᎢᏂᏙᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ,
     Daylight: ᎢᏂᏙᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ
   },
-  Hongkong: {
-    Generic: ᎰᏂᎩ ᎪᏂᎩ ᎠᏟᎢᎵᏒ,
-    Standard: ᎰᏂᎩ ᎪᏂᎩ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎰᏂᎩ ᎪᏂᎩ ᎪᎩ ᎠᏟᎢᎵᏒ
+  Asia/Barnaul: {
+    Generic: ᏆᎾᎣᎵ ᎠᏟᎢᎵᏒ,
+    Standard: ᏆᎾᎣᎵ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏆᎾᎣᎵ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  Asia/Tel_Aviv: {
-    Generic: ᎢᏏᎵᏱ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏏᎵᏱ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᏏᎵᏱ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒᎩ
-  },
-  Israel: {
-    Generic: ᎢᏏᎵᏱ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏏᎵᏱ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᏏᎵᏱ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒᎩ
-  },
-  Asia/Kathmandu: {
-    Generic: ᏁᏆᎵ ᎠᏟᎢᎵᏒ,
-    Standard: ᏁᏆᎵ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏁᏆᎵ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Kolkata: {
-    Generic: ᎢᏂᏗᎢᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏂᏗᎢᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᏂᏗᎢᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Macao: {
-    Generic: ᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᏓᎶᏂᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏓᎶᏂᎨᏍᏛ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Asia/Ujung_Pandang: {
-    Generic: ᎠᏰᏟ ᎢᏂᏙᏂᏍᏯ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᎢᏂᏙᏂᏍᏯ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᎢᏂᏙᏂᏍᏯ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Nicosia: {
+  Asia/Beirut: {
     Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
     Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
   },
-  ROK: {
-    Generic: ᎪᎵᎠᏂ ᎠᏟᎢᎵᏒ,
-    Standard: ᎪᎵᎠᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎪᎵᎠᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  Asia/Bishkek: {
+    Generic: ᎩᎵᏣᎢᏍ ᎠᏟᎢᎵᏒ,
+    Standard: ᎩᎵᏣᎢᏍ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎩᎵᏣᎢᏍ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Brunei: {
+    Generic: ᏊᎾᎢ ᏓᎷᏌᎳᎻ ᎠᏟᎢᎵᏒ,
+    Standard: ᏊᎾᎢ ᏓᎷᏌᎳᎻ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏊᎾᎢ ᏓᎷᏌᎳᎻ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Calcutta: {
+    Generic: ᎢᏂᏗᎢᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏂᏗᎢᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᏂᏗᎢᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Chita: {
+    Generic: ᏥᏔ ᎠᏟᎢᎵᏒ,
+    Standard: ᏥᏔ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏥᏔ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Choibalsan: {
+    Generic: ᎤᎳᏂ ᏆᏙᎸ ᎠᏟᎢᎵᏒ,
+    Standard: ᎤᎳᏂ ᏆᏙᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎤᎳᏂ ᏆᏙᎸ ᎪᎩ ᎠᏟᎢᎵᏒ
   },
   Asia/Chongqing: {
     Generic: ᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ,
@@ -2619,57 +1279,412 @@
     Standard: ᏓᎶᏂᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᏓᎶᏂᎨᏍᏛ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
+  Asia/Colombo: {
+    Generic: ᎢᏂᏗᎢᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏂᏗᎢᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᏂᏗᎢᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Dacca: {
+    Generic: ᏆᏂᎦᎵᏕᏍ ᎠᏟᎢᎵᏒ,
+    Standard: ᏆᏂᎦᎵᏕᏍ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏆᏂᎦᎵᏕᏍ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Damascus: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Dhaka: {
+    Generic: ᏆᏂᎦᎵᏕᏍ ᎠᏟᎢᎵᏒ,
+    Standard: ᏆᏂᎦᎵᏕᏍ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏆᏂᎦᎵᏕᏍ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Dili: {
+    Generic: ᏗᎧᎸᎬ ᏘᎼᎵ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏘᎼᎵ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏘᎼᎵ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Dubai: {
+    Generic: ᎡᏉᏄᎸᏗ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Standard: ᎡᏉᏄᎸᏗ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎡᏉᏄᎸᏗ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Dushanbe: {
+    Generic: ᏔᏥᎩᏍᏕᏂ ᎠᏟᎢᎵᏒ,
+    Standard: ᏔᏥᎩᏍᏕᏂ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏔᏥᎩᏍᏕᏂ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Famagusta: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Gaza: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
   Asia/Harbin: {
     Generic: ᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ,
     Standard: ᏓᎶᏂᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᏓᎶᏂᎨᏍᏛ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  PRC: {
-    Generic: ᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ,
-    Standard: ᏓᎶᏂᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏓᎶᏂᎨᏍᏛ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  Asia/Hebron: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
   },
-  Singapore: {
-    Generic: ᏏᏂᎦᏉᎵ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Standard: ᏏᏂᎦᏉᎵ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏏᏂᎦᏉᎵ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ
+  Asia/Ho_Chi_Minh: {
+    Generic: ᎢᏂᏙᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏂᏙᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᏂᏙᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ
   },
-  ROC: {
-    Generic: ᏔᏱᏇ ᎠᏟᎢᎵᏒ,
-    Standard: ᏔᏱᏇ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏔᏱᏇ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  Asia/Hong_Kong: {
+    Generic: ᎰᏂᎩ ᎪᏂᎩ ᎠᏟᎢᎵᏒ,
+    Standard: ᎰᏂᎩ ᎪᏂᎩ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎰᏂᎩ ᎪᏂᎩ ᎪᎩ ᎠᏟᎢᎵᏒ
   },
-  Iran: {
-    Generic: ᎢᎳᏂ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᎳᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᎳᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  Asia/Hovd: {
+    Generic: ᎰᏩᏗ ᎠᏟᎢᎵᏒ,
+    Standard: ᎰᏩᏗ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎰᏩᏗ ᎪᎩ ᎠᏟᎢᎵᏒ
   },
-  Asia/Thimbu: {
-    Generic: ᏊᏔᏂ ᎠᏟᎢᎵᏒ,
-    Standard: ᏊᏔᏂ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏊᏔᏂ ᎠᏟᎢᎵᏒ
+  Asia/Irkutsk: {
+    Generic: ᎢᎫᏥᎧ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᎫᏥᎧ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᎫᏥᎧ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  Japan: {
-    Generic: ᏣᏩᏂᏏ ᎠᏟᎢᎵᏒ,
-    Standard: ᏣᏩᏂᏏ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏣᏩᏂᏏ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  Asia/Istanbul: {
+    Generic: ᎬᏃ ᎠᏟᎢᎵᏒ,
+    Standard: ᎬᏃ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎬᏃ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  Asia/Ulan_Bator: {
-    Generic: ᎤᎳᏂ ᏆᏙᎸ ᎠᏟᎢᎵᏒ,
-    Standard: ᎤᎳᏂ ᏆᏙᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎤᎳᏂ ᏆᏙᎸ ᎪᎩ ᎠᏟᎢᎵᏒ
+  Asia/Jakarta: {
+    Generic: ᏭᏕᎵᎬ ᏗᏜ ᎢᏂᏙᏂᏍᏯ ᎠᏟᎢᎵᏒ,
+    Standard: ᏭᏕᎵᎬ ᏗᏜ ᎢᏂᏙᏂᏍᏯ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏭᏕᎵᎬ ᏗᏜ ᎢᏂᏙᏂᏍᏯ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Jayapura: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎢᏂᏙᏂᏍᏯ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎢᏂᏙᏂᏍᏯ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎢᏂᏙᏂᏍᏯ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Jerusalem: {
+    Generic: ᎢᏏᎵᏱ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏏᎵᏱ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᏏᎵᏱ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒᎩ
+  },
+  Asia/Kabul: {
+    Generic: ᎠᏫᎨᏂᏍᏖᏂ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏫᎨᏂᏍᏖᏂ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏫᎨᏂᏍᏖᏂ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Kamchatka: {
+    Generic: ᎧᎻᏣᎧ ᎠᏟᎢᎵᏒ,
+    Standard: ᎧᎻᏣᎧ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎧᎻᏣᎧ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Karachi: {
+    Generic: ᏆᎩᏍᏖᏂ ᎠᏟᎢᎵᏒ,
+    Standard: ᏆᎩᏍᏖᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏆᎩᏍᏖᏂ ᎪᎩ ᎠᏟᎢᎵᏒ
   },
   Asia/Kashgar: {
     Generic: ᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ,
     Standard: ᏓᎶᏂᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᏓᎶᏂᎨᏍᏛ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
+  Asia/Kathmandu: {
+    Generic: ᏁᏆᎵ ᎠᏟᎢᎵᏒ,
+    Standard: ᏁᏆᎵ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏁᏆᎵ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Katmandu: {
+    Generic: ᏁᏆᎵ ᎠᏟᎢᎵᏒ,
+    Standard: ᏁᏆᎵ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏁᏆᎵ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Khandyga: {
+    Generic: ᎧᏂᏗᎦ ᎠᏟᎢᎵᏒ,
+    Standard: ᎧᏂᏗᎦ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎧᏂᏗᎦ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Kolkata: {
+    Generic: ᎢᏂᏗᎢᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏂᏗᎢᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᏂᏗᎢᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Krasnoyarsk: {
+    Generic: ᏝᏍᏃᏯᏍᎧ ᎠᏟᎢᎵᏒ,
+    Standard: ᏝᏍᏃᏯᏍᎧ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏝᏍᏃᏯᏍᎧ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Kuala_Lumpur: {
+    Generic: ᎹᎴᏏᎢᎠ ᎠᏟᎢᎵᏒ,
+    Standard: ᎹᎴᏏᎢᎠ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎹᎴᏏᎢᎠ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Kuching: {
+    Generic: ᎹᎴᏏᎢᎠ ᎠᏟᎢᎵᏒ,
+    Standard: ᎹᎴᏏᎢᎠ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎹᎴᏏᎢᎠ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Kuwait: {
+    Generic: ᎠᎴᏈᏯ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᎴᏈᏯ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᎴᏈᏯ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Macao: {
+    Generic: ᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᏓᎶᏂᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏓᎶᏂᎨᏍᏛ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Macau: {
+    Generic: ᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᏓᎶᏂᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏓᎶᏂᎨᏍᏛ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Magadan: {
+    Generic: ᎹᎦᏓᏂ ᎠᏟᎢᎵᏒ,
+    Standard: ᎹᎦᏓᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎹᎦᏓᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Makassar: {
+    Generic: ᎠᏰᏟ ᎢᏂᏙᏂᏍᏯ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᎢᏂᏙᏂᏍᏯ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᎢᏂᏙᏂᏍᏯ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Manila: {
+    Generic: ᎠᏂᏈᎵᎩᏃ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏂᏈᎵᎩᏃ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏂᏈᎵᎩᏃ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Muscat: {
+    Generic: ᎡᏉᏄᎸᏗ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Standard: ᎡᏉᏄᎸᏗ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎡᏉᏄᎸᏗ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Nicosia: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Novokuznetsk: {
+    Generic: ᏃᏬᎫᏁᏖᏍᎧ ᎠᏟᎢᎵᏒ,
+    Standard: ᏃᏬᎫᏁᏖᏍᎧ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏃᏬᎫᏁᏖᏍᎧ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Novosibirsk: {
+    Generic: ᏃᏬᏏᏈᏍᎧ ᎠᏟᎢᎵᏒ,
+    Standard: ᏃᏬᏏᏈᏍᎧ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏃᏬᏏᏈᏍᎧ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Omsk: {
+    Generic: ᎣᎻᏍᎧ ᎠᏟᎢᎵᏒ,
+    Standard: ᎣᎻᏍᎧ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎣᎻᏍᎧ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Oral: {
+    Generic: ᏭᏕᎵᎬ ᎧᏎᎧᏍᏕᏂ ᎠᏟᎢᎵᏒ,
+    Standard: ᏭᏕᎵᎬ ᎧᏎᎧᏍᏕᏂ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏭᏕᎵᎬ ᎧᏎᎧᏍᏕᏂ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Phnom_Penh: {
+    Generic: ᎢᏂᏙᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏂᏙᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᏂᏙᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Pontianak: {
+    Generic: ᏭᏕᎵᎬ ᏗᏜ ᎢᏂᏙᏂᏍᏯ ᎠᏟᎢᎵᏒ,
+    Standard: ᏭᏕᎵᎬ ᏗᏜ ᎢᏂᏙᏂᏍᏯ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏭᏕᎵᎬ ᏗᏜ ᎢᏂᏙᏂᏍᏯ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Pyongyang: {
+    Generic: ᎪᎵᎠᏂ ᎠᏟᎢᎵᏒ,
+    Standard: ᎪᎵᎠᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎪᎵᎠᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Qatar: {
+    Generic: ᎠᎴᏈᏯ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᎴᏈᏯ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᎴᏈᏯ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Qostanay: {
+    Generic: ᏗᎧᎸᎬ ᎧᏎᎧᏍᏕᏂ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᎧᏎᎧᏍᏕᏂ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᎧᏎᎧᏍᏕᏂ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Qyzylorda: {
+    Generic: ᏭᏕᎵᎬ ᎧᏎᎧᏍᏕᏂ ᎠᏟᎢᎵᏒ,
+    Standard: ᏭᏕᎵᎬ ᎧᏎᎧᏍᏕᏂ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏭᏕᎵᎬ ᎧᏎᎧᏍᏕᏂ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Rangoon: {
+    Generic: ᎹᏯᎹᎵ ᎠᏟᎢᎵᏒ,
+    Standard: ᎹᏯᎹᎵ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎹᏯᎹᎵ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Riyadh: {
+    Generic: ᎠᎴᏈᏯ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᎴᏈᏯ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᎴᏈᏯ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Saigon: {
+    Generic: ᎢᏂᏙᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏂᏙᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᏂᏙᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Sakhalin: {
+    Generic: ᏌᎧᎵᏂ ᎠᏟᎢᎵᏒ,
+    Standard: ᏌᎧᎵᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏌᎧᎵᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Samarkand: {
+    Generic: ᎤᏍᏇᎩᏍᏖᏂ ᎠᏟᎢᎵᏒ,
+    Standard: ᎤᏍᏇᎩᏍᏖᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎤᏍᏇᎩᏍᏖᏂ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Seoul: {
+    Generic: ᎪᎵᎠᏂ ᎠᏟᎢᎵᏒ,
+    Standard: ᎪᎵᎠᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎪᎵᎠᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Shanghai: {
+    Generic: ᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᏓᎶᏂᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏓᎶᏂᎨᏍᏛ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Singapore: {
+    Generic: ᏏᏂᎦᏉᎵ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Standard: ᏏᏂᎦᏉᎵ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏏᏂᎦᏉᎵ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Srednekolymsk: {
+    Generic: ᏍᎴᏗᏁᎪᎵᎻᏍᎧ ᎠᏟᎢᎵᏒ,
+    Standard: ᏍᎴᏗᏁᎪᎵᎻᏍᎧ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏍᎴᏗᏁᎪᎵᎻᏍᎧ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Taipei: {
+    Generic: ᏔᏱᏇ ᎠᏟᎢᎵᏒ,
+    Standard: ᏔᏱᏇ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏔᏱᏇ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Tashkent: {
+    Generic: ᎤᏍᏇᎩᏍᏖᏂ ᎠᏟᎢᎵᏒ,
+    Standard: ᎤᏍᏇᎩᏍᏖᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎤᏍᏇᎩᏍᏖᏂ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Tbilisi: {
+    Generic: ᏣᎠᏥᎢ ᎠᏟᎢᎵᏒ,
+    Standard: ᏣᎠᏥᎢ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏣᎠᏥᎢ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Tehran: {
+    Generic: ᎢᎳᏂ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᎳᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᎳᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Tel_Aviv: {
+    Generic: ᎢᏏᎵᏱ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏏᎵᏱ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᏏᎵᏱ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒᎩ
+  },
+  Asia/Thimbu: {
+    Generic: ᏊᏔᏂ ᎠᏟᎢᎵᏒ,
+    Standard: ᏊᏔᏂ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏊᏔᏂ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Thimphu: {
+    Generic: ᏊᏔᏂ ᎠᏟᎢᎵᏒ,
+    Standard: ᏊᏔᏂ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏊᏔᏂ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Tokyo: {
+    Generic: ᏣᏩᏂᏏ ᎠᏟᎢᎵᏒ,
+    Standard: ᏣᏩᏂᏏ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏣᏩᏂᏏ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Tomsk: {
+    Generic: ᏙᎻᏍᎧ ᎠᏟᎢᎵᏒ,
+    Standard: ᏙᎻᏍᎧ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏙᎻᏍᎧ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Ujung_Pandang: {
+    Generic: ᎠᏰᏟ ᎢᏂᏙᏂᏍᏯ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᎢᏂᏙᏂᏍᏯ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᎢᏂᏙᏂᏍᏯ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Ulaanbaatar: {
+    Generic: ᎤᎳᏂ ᏆᏙᎸ ᎠᏟᎢᎵᏒ,
+    Standard: ᎤᎳᏂ ᏆᏙᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎤᎳᏂ ᏆᏙᎸ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Ulan_Bator: {
+    Generic: ᎤᎳᏂ ᏆᏙᎸ ᎠᏟᎢᎵᏒ,
+    Standard: ᎤᎳᏂ ᏆᏙᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎤᎳᏂ ᏆᏙᎸ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Urumqi: {
+    Generic: ᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᏓᎶᏂᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏓᎶᏂᎨᏍᏛ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Ust-Nera: {
+    Generic: ᎤᏍᏔ-ᏁᎳ ᎠᏟᎢᎵᏒ,
+    Standard: ᎤᏍᏔ-ᏁᎳ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎤᏍᏔ-ᏁᎳ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Vientiane: {
+    Generic: ᎢᏂᏙᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏂᏙᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᏂᏙᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Vladivostok: {
+    Generic: ᏭᎳᏗᏬᏍᏙᎩ ᎠᏟᎢᎵᏒ,
+    Standard: ᏭᎳᏗᏬᏍᏙᎩ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏭᎳᏗᏬᏍᏙᎩ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Yakutsk: {
+    Generic: ᏯᎫᏥᎧ ᎠᏟᎢᎵᏒ,
+    Standard: ᏯᎫᏥᎧ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏯᎫᏥᎧ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
   Asia/Yangon: {
     Generic: ᎹᏯᎹᎵ ᎠᏟᎢᎵᏒ,
     Standard: ᎹᏯᎹᎵ ᎠᏟᎢᎵᏒ,
     Daylight: ᎹᏯᎹᎵ ᎠᏟᎢᎵᏒ
   },
-  WET: {
+  Asia/Yekaterinburg: {
+    Generic: ᏰᎧᏖᎵᏂᏊᎦ ᎠᏟᎢᎵᏒ,
+    Standard: ᏰᎧᏖᎵᏂᏊᎦ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏰᎧᏖᎵᏂᏊᎦ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Asia/Yerevan: {
+    Generic: ᎠᎵᎻᏂᎠ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᎵᎻᏂᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᎵᎻᏂᎠ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Atlantic/Azores: {
+    Generic: ᎠᏐᎴᏏ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏐᎴᏏ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏐᎴᏏ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Atlantic/Bermuda: {
+    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Atlantic/Canary: {
+    Generic: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Atlantic/Cape_Verde: {
+    Generic: ᎢᎬᎾᏕᎾ ᎢᏤᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᎬᎾᏕᎾ ᎢᏤᏳᏍᏗ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᎬᎾᏕᎾ ᎢᏤᏳᏍᏗ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Atlantic/Faeroe: {
     Generic: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
     Standard: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
@@ -2679,27 +1694,77 @@
     Standard: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
   },
-  Australia/South: {
-    Generic: ᎠᏰᏟ ᎡᎳᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᎡᎳᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᎡᎳᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  Atlantic/Jan_Mayen: {
+    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
   },
-  Australia/Queensland: {
+  Atlantic/Madeira: {
+    Generic: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Atlantic/Reykjavik: {
+    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
+  },
+  Atlantic/South_Georgia: {
+    Generic: ᏧᎦᎾᏮ ᏣᎠᏥᎢ ᎠᏟᎢᎵᏒ,
+    Standard: ᏧᎦᎾᏮ ᏣᎠᏥᎢ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏧᎦᎾᏮ ᏣᎠᏥᎢ ᎠᏟᎢᎵᏒ
+  },
+  Atlantic/St_Helena: {
+    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
+  },
+  Atlantic/Stanley: {
+    Generic: ᏩᎩ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
+    Standard: ᏩᎩ ᏚᎦᏚᏛᎢ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏩᎩ ᏚᎦᏚᏛᎢ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Australia/ACT: {
     Generic: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
     Standard: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  Australia/Yancowinna: {
+  Australia/Adelaide: {
     Generic: ᎠᏰᏟ ᎡᎳᏗᏜ ᎠᏟᎢᎵᏒ,
     Standard: ᎠᏰᏟ ᎡᎳᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᎠᏰᏟ ᎡᎳᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  Australia/North: {
+  Australia/Brisbane: {
+    Generic: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Australia/Broken_Hill: {
     Generic: ᎠᏰᏟ ᎡᎳᏗᏜ ᎠᏟᎢᎵᏒ,
     Standard: ᎠᏰᏟ ᎡᎳᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᎠᏰᏟ ᎡᎳᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  Australia/Tasmania: {
+  Australia/Canberra: {
+    Generic: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Australia/Currie: {
+    Generic: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Australia/Darwin: {
+    Generic: ᎠᏰᏟ ᎡᎳᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᎡᎳᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᎡᎳᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Australia/Eucla: {
+    Generic: ᎠᏰᏟ ᎡᎳᏗᏜ ᏭᏕᎵᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᎡᎳᏗᏜ ᏭᏕᎵᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᎡᎳᏗᏜ ᏭᏕᎵᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Australia/Hobart: {
     Generic: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
     Standard: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
@@ -2708,6 +1773,56 @@
     Generic: ᎤᎬᏫᏳᎯ ᎭᏫ ᎠᏟᎢᎵᏒ,
     Standard: ᎤᎬᏫᏳᎯ ᎭᏫ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᎤᎬᏫᏳᎯ ᎭᏫ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Australia/Lindeman: {
+    Generic: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Australia/Lord_Howe: {
+    Generic: ᎤᎬᏫᏳᎯ ᎭᏫ ᎠᏟᎢᎵᏒ,
+    Standard: ᎤᎬᏫᏳᎯ ᎭᏫ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎤᎬᏫᏳᎯ ᎭᏫ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Australia/Melbourne: {
+    Generic: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Australia/NSW: {
+    Generic: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Australia/North: {
+    Generic: ᎠᏰᏟ ᎡᎳᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᎡᎳᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᎡᎳᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Australia/Perth: {
+    Generic: ᎡᎳᏗᏜ ᏭᏕᎵᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᎡᎳᏗᏜ ᏭᏕᎵᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎡᎳᏗᏜ ᏭᏕᎵᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Australia/Queensland: {
+    Generic: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Australia/South: {
+    Generic: ᎠᏰᏟ ᎡᎳᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᎡᎳᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᎡᎳᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Australia/Sydney: {
+    Generic: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Australia/Tasmania: {
+    Generic: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
   Australia/Victoria: {
     Generic: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
@@ -2719,45 +1834,265 @@
     Standard: ᎡᎳᏗᏜ ᏭᏕᎵᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᎡᎳᏗᏜ ᏭᏕᎵᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  Australia/ACT: {
-    Generic: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  Australia/Yancowinna: {
+    Generic: ᎠᏰᏟ ᎡᎳᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᎡᎳᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᎡᎳᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  Australia/Canberra: {
-    Generic: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  Brazil/Acre: {
+    Generic: ᏆᏏᎵ ᎠᏟᎢᎵᏒ,
+    Standard: ᏆᏏᎵ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏆᏏᎵ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  Australia/NSW: {
-    Generic: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
-    Standard: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  Brazil/DeNoronha: {
+    Generic: ᏪᎾᏅᏙ Ꮥ ᏃᎶᎾᎭ ᎠᏟᎢᎵᏒ,
+    Standard: ᏪᎾᏅᏙ Ꮥ ᏃᎶᎾᎭ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏪᎾᏅᏙ Ꮥ ᏃᎶᎾᎭ ᎪᎩ ᎠᏟᎢᎵᏒ
   },
-  HST: {
-    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -10,
-    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -10,
-    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -10
+  Brazil/East: {
+    Generic: ᏆᏏᎵᏯ ᎠᏟᎢᎵᏒ,
+    Standard: ᏆᏏᎵᏯ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏆᏏᎵᏯ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Brazil/West: {
+    Generic: ᎠᎺᏌᏂ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᎺᏌᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᎺᏌᏂ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  CET: {
+    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  CST6CDT: {
+    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Canada/Atlantic: {
+    Generic: ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Canada/Central: {
+    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Canada/Eastern: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Canada/Mountain: {
+    Generic: ᎣᏓᎸ ᎠᏟᎢᎵᏒ,
+    Standard: ᎣᏓᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎣᏓᎸ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Canada/Newfoundland: {
+    Generic: ᎢᏤᎤᏂᏩᏛᏓᎦᏙᎯ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏤᎤᏂᏩᏛᏓᎦᏙᎯ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᏤᎤᏂᏩᏛᏓᎦᏙᎯ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Canada/Pacific: {
+    Generic: ᏭᏕᎵᎬ ᎠᏟᎢᎵᏒ,
+    Standard: ᏭᏕᎵᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏭᏕᎵᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Canada/Saskatchewan: {
+    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Canada/Yukon: {
+    Generic: ᏳᎧᏂ ᎠᏟᎢᎵᏒ,
+    Standard: ᏳᎧᏂ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏳᎧᏂ ᎠᏟᎢᎵᏒ
+  },
+  Chile/Continental: {
+    Generic: ᏥᎵ ᎠᏟᎢᎵᏒ,
+    Standard: ᏥᎵ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏥᎵ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Chile/EasterIsland: {
+    Generic: ᏥᏌᏕᎴᎯᏌᏅ ᎤᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
+    Standard: ᏥᏌᏕᎴᎯᏌᏅ ᎤᎦᏚᏛᎢ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏥᏌᏕᎴᎯᏌᏅ ᎤᎦᏚᏛᎢ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Cuba: {
+    Generic: ᎫᏆ ᎠᏟᎢᎵᏒ,
+    Standard: ᎫᏆ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎫᏆ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  EET: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
   },
   EST: {
     Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -5,
     Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -5,
     Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -5
   },
-  MST: {
-    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -7,
-    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -7,
-    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -7
+  EST5EDT: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Egypt: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Eire: {
+    Generic: ᎠᏲᎳᏂ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎨᎵᎩ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ
+  },
+  Etc/GMT: {
+    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
   },
   Etc/GMT+0: {
     Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
     Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
   },
+  Etc/GMT+1: {
+    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -1,
+    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -1,
+    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -1
+  },
+  Etc/GMT+10: {
+    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -10,
+    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -10,
+    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -10
+  },
+  Etc/GMT+11: {
+    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -11,
+    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -11,
+    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -11
+  },
+  Etc/GMT+12: {
+    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -12,
+    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -12,
+    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -12
+  },
+  Etc/GMT+2: {
+    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -2,
+    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -2,
+    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -2
+  },
+  Etc/GMT+3: {
+    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -3,
+    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -3,
+    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -3
+  },
+  Etc/GMT+4: {
+    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -4,
+    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -4,
+    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -4
+  },
+  Etc/GMT+5: {
+    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -5,
+    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -5,
+    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -5
+  },
+  Etc/GMT+6: {
+    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -6,
+    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -6,
+    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -6
+  },
+  Etc/GMT+7: {
+    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -7,
+    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -7,
+    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -7
+  },
+  Etc/GMT+8: {
+    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -8,
+    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -8,
+    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -8
+  },
+  Etc/GMT+9: {
+    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -9,
+    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -9,
+    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -9
+  },
   Etc/GMT-0: {
     Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
     Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
+  },
+  Etc/GMT-1: {
+    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +1,
+    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +1,
+    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +1
+  },
+  Etc/GMT-10: {
+    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +10,
+    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +10,
+    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +10
+  },
+  Etc/GMT-11: {
+    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +11,
+    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +11,
+    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +11
+  },
+  Etc/GMT-12: {
+    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +12,
+    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +12,
+    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +12
+  },
+  Etc/GMT-13: {
+    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +13,
+    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +13,
+    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +13
+  },
+  Etc/GMT-14: {
+    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +14,
+    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +14,
+    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +14
+  },
+  Etc/GMT-2: {
+    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +2,
+    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +2,
+    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +2
+  },
+  Etc/GMT-3: {
+    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +3,
+    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +3,
+    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +3
+  },
+  Etc/GMT-4: {
+    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +4,
+    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +4,
+    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +4
+  },
+  Etc/GMT-5: {
+    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +5,
+    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +5,
+    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +5
+  },
+  Etc/GMT-6: {
+    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +6,
+    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +6,
+    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +6
+  },
+  Etc/GMT-7: {
+    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +7,
+    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +7,
+    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +7
+  },
+  Etc/GMT-8: {
+    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +8,
+    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +8,
+    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +8
+  },
+  Etc/GMT-9: {
+    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +9,
+    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +9,
+    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ +9
   },
   Etc/GMT0: {
     Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
@@ -2768,6 +2103,356 @@
     Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
     Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
+  },
+  Etc/UCT: {
+    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ
+  },
+  Etc/UTC: {
+    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ
+  },
+  Etc/Universal: {
+    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ
+  },
+  Etc/Zulu: {
+    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Amsterdam: {
+    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Andorra: {
+    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Astrakhan: {
+    Generic: ᎠᏝᎧᏂ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏝᎧᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏝᎧᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Athens: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Belfast: {
+    Generic: ᎩᎵᏏᏲ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏈᏗᏏ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Belgrade: {
+    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Berlin: {
+    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Bratislava: {
+    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Brussels: {
+    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Bucharest: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Budapest: {
+    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Busingen: {
+    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Chisinau: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Copenhagen: {
+    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Dublin: {
+    Generic: ᎠᏲᎳᏂ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎨᎵᎩ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Gibraltar: {
+    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Guernsey: {
+    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Helsinki: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Isle_of_Man: {
+    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Istanbul: {
+    Generic: ᎬᏃ ᎠᏟᎢᎵᏒ,
+    Standard: ᎬᏃ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎬᏃ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Jersey: {
+    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Kaliningrad: {
+    Generic: ᎧᎵᏂᏆᏗ ᎠᏟᎢᎵᏒ,
+    Standard: ᎧᎵᏂᏆᏗ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎧᎵᏂᏆᏗ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Kiev: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Kirov: {
+    Generic: ᎩᎶᏩ ᎠᏟᎢᎵᏒ,
+    Standard: ᎩᎶᏩ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎩᎶᏩ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Kyiv: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Lisbon: {
+    Generic: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Ljubljana: {
+    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/London: {
+    Generic: ᎩᎵᏏᏲ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏈᏗᏏ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Luxembourg: {
+    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Madrid: {
+    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Malta: {
+    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Mariehamn: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Minsk: {
+    Generic: ᎹᏍᎦᏫ ᎠᏟᎢᎵᏒ,
+    Standard: ᎹᏍᎦᏫ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎹᏍᎦᏫ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Monaco: {
+    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Moscow: {
+    Generic: ᎹᏍᎦᏫ ᎠᏟᎢᎵᏒ,
+    Standard: ᎹᏍᎦᏫ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎹᏍᎦᏫ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Nicosia: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Oslo: {
+    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Paris: {
+    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Podgorica: {
+    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Prague: {
+    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Riga: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Rome: {
+    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Samara: {
+    Generic: ᏌᎹᎳ ᎠᏟᎢᎵᏒ,
+    Standard: ᏌᎹᎳ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏌᎹᎳ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Europe/San_Marino: {
+    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Sarajevo: {
+    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Saratov: {
+    Generic: ᏌᏆᏙᎥ ᎠᏟᎢᎵᏒ,
+    Standard: ᏌᏆᏙᎥ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏌᏆᏙᎥ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Simferopol: {
+    Generic: ᎹᏍᎦᏫ ᎠᏟᎢᎵᏒ,
+    Standard: ᎹᏍᎦᏫ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎹᏍᎦᏫ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Skopje: {
+    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Sofia: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Stockholm: {
+    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Tallinn: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Tirane: {
+    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Tiraspol: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Ulyanovsk: {
+    Generic: ᎤᎵᏯᏃᏬᏍᎧ ᎠᏟᎢᎵᏒ,
+    Standard: ᎤᎵᏯᏃᏬᏍᎧ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎤᎵᏯᏃᏬᏍᎧ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Uzhgorod: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Vaduz: {
+    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Vatican: {
+    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Vienna: {
+    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Vilnius: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Volgograd: {
+    Generic: ᏬᎶᎪᏝᏗ ᎠᏟᎢᎵᏒ,
+    Standard: ᏬᎶᎪᏝᏗ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏬᎶᎪᏝᏗ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Warsaw: {
+    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Zagreb: {
+    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Zaporozhye: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Europe/Zurich: {
+    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  GB: {
+    Generic: ᎩᎵᏏᏲ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏈᏗᏏ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  GB-Eire: {
+    Generic: ᎩᎵᏏᏲ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏈᏗᏏ ᎪᎩ ᎠᏟᎢᎵᏒ
   },
   GMT: {
     Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
@@ -2794,120 +2479,135 @@
     Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
   },
-  Etc/UCT: {
-    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ
+  HST: {
+    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -10,
+    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -10,
+    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -10
   },
-  Etc/Universal: {
-    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ
+  Hongkong: {
+    Generic: ᎰᏂᎩ ᎪᏂᎩ ᎠᏟᎢᎵᏒ,
+    Standard: ᎰᏂᎩ ᎪᏂᎩ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎰᏂᎩ ᎪᏂᎩ ᎪᎩ ᎠᏟᎢᎵᏒ
   },
-  Etc/Zulu: {
-    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ
+  Iceland: {
+    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
   },
-  UCT: {
-    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ
+  Indian/Antananarivo: {
+    Generic: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
   },
-  UTC: {
-    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ
+  Indian/Chagos: {
+    Generic: ᎠᏂᏴᏫᏯ ᎠᎺᏉᎯ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏂᏴᏫᏯ ᎠᎺᏉᎯ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏂᏴᏫᏯ ᎠᎺᏉᎯ ᎠᏟᎢᎵᏒ
   },
-  Universal: {
-    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ
+  Indian/Christmas: {
+    Generic: ᏓᏂᏍᏓᏲᎯᎲ ᎤᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
+    Standard: ᏓᏂᏍᏓᏲᎯᎲ ᎤᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏓᏂᏍᏓᏲᎯᎲ ᎤᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ
   },
-  Zulu: {
-    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ
+  Indian/Cocos: {
+    Generic: ᎪᎪᏍ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
+    Standard: ᎪᎪᏍ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎪᎪᏍ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ
   },
-  Atlantic/Jan_Mayen: {
-    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  Indian/Comoro: {
+    Generic: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
+  },
+  Indian/Kerguelen: {
+    Generic: ᎠᏂᎦᎸᏥ ᎤᎦᏃᏮ & ᎤᏁᏍᏓᎶ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏂᎦᎸᏥ ᎤᎦᏃᏮ & ᎤᏁᏍᏓᎶ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏂᎦᎸᏥ ᎤᎦᏃᏮ & ᎤᏁᏍᏓᎶ ᎠᏟᎢᎵᏒ
+  },
+  Indian/Mahe: {
+    Generic: ᏎᏤᎴᏏ ᎠᏟᎢᎵᏒ,
+    Standard: ᏎᏤᎴᏏ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏎᏤᎴᏏ ᎠᏟᎢᎵᏒ
+  },
+  Indian/Maldives: {
+    Generic: ᎹᎵᏗᏫᏍ ᎠᏟᎢᎵᏒ,
+    Standard: ᎹᎵᏗᏫᏍ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎹᎵᏗᏫᏍ ᎠᏟᎢᎵᏒ
+  },
+  Indian/Mauritius: {
+    Generic: ᎼᎵᏏᎥᏍ ᎠᏟᎢᎵᏒ,
+    Standard: ᎼᎵᏏᎥᏍ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎼᎵᏏᎥᏍ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Indian/Mayotte: {
+    Generic: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ
+  },
+  Indian/Reunion: {
+    Generic: ᎴᏳᏂᎠᏂ ᎠᏟᎢᎵᏒ,
+    Standard: ᎴᏳᏂᎠᏂ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎴᏳᏂᎠᏂ ᎠᏟᎢᎵᏒ
+  },
+  Iran: {
+    Generic: ᎢᎳᏂ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᎳᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᎳᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Israel: {
+    Generic: ᎢᏏᎵᏱ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏏᎵᏱ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᏏᎵᏱ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒᎩ
+  },
+  Jamaica: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Japan: {
+    Generic: ᏣᏩᏂᏏ ᎠᏟᎢᎵᏒ,
+    Standard: ᏣᏩᏂᏏ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏣᏩᏂᏏ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Kwajalein: {
+    Generic: ᎹᏌᎵ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
+    Standard: ᎹᏌᎵ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎹᏌᎵ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ
+  },
+  Libya: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
   },
   MET: {
     Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
     Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
   },
-  EET: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  MST: {
+    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -7,
+    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -7,
+    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ -7
   },
-  Europe/Tiraspol: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  MST7MDT: {
+    Generic: ᎣᏓᎸ ᎠᏟᎢᎵᏒ,
+    Standard: ᎣᏓᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎣᏓᎸ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  Eire: {
-    Generic: ᎠᏲᎳᏂ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎨᎵᎩ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ
+  Mexico/BajaNorte: {
+    Generic: ᏭᏕᎵᎬ ᎠᏟᎢᎵᏒ,
+    Standard: ᏭᏕᎵᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏭᏕᎵᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  Asia/Istanbul: {
-    Generic: ᎬᏃ ᎠᏟᎢᎵᏒ,
-    Standard: ᎬᏃ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎬᏃ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  Mexico/BajaSur: {
+    Generic: ᎠᏂᏍᏆᏂ ᏭᏕᎵᎬ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏂᏍᏆᏂ ᏭᏕᎵᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏂᏍᏆᏂ ᏭᏕᎵᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  Turkey: {
-    Generic: ᎬᏃ ᎠᏟᎢᎵᏒ,
-    Standard: ᎬᏃ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎬᏃ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Kyiv: {
-    Generic: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Portugal: {
-    Generic: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Europe/Belfast: {
-    Generic: ᎩᎵᏏᏲ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏈᏗᏏ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  GB: {
-    Generic: ᎩᎵᏏᏲ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏈᏗᏏ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  GB-Eire: {
-    Generic: ᎩᎵᏏᏲ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏈᏗᏏ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  W-SU: {
-    Generic: ᎹᏍᎦᏫ ᎠᏟᎢᎵᏒ,
-    Standard: ᎹᏍᎦᏫ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎹᏍᎦᏫ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
-  },
-  CET: {
-    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Poland: {
-    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
-    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
-  },
-  Antarctica/South_Pole: {
-    Generic: ᎢᏤ ᏏᎢᎴᏂᏗ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏤ ᏏᎢᎴᏂᏗ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᏤ ᏏᎢᎴᏂᏗ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  Mexico/General: {
+    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
   NZ: {
     Generic: ᎢᏤ ᏏᎢᎴᏂᏗ ᎠᏟᎢᎵᏒ,
@@ -2919,17 +2619,102 @@
     Standard: ᏣᏝᎻ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᏣᏝᎻ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  Chile/EasterIsland: {
+  Navajo: {
+    Generic: ᎣᏓᎸ ᎠᏟᎢᎵᏒ,
+    Standard: ᎣᏓᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎣᏓᎸ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  PRC: {
+    Generic: ᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ,
+    Standard: ᏓᎶᏂᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏓᎶᏂᎨᏍᏛ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  PST8PDT: {
+    Generic: ᏭᏕᎵᎬ ᎠᏟᎢᎵᏒ,
+    Standard: ᏭᏕᎵᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏭᏕᎵᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Pacific/Apia: {
+    Generic: ᎠᏈᎠ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏈᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏈᎠ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Pacific/Auckland: {
+    Generic: ᎢᏤ ᏏᎢᎴᏂᏗ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏤ ᏏᎢᎴᏂᏗ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᏤ ᏏᎢᎴᏂᏗ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Pacific/Bougainville: {
+    Generic: ᏆᏇ ᎢᏤ ᎩᎢᏂ ᎠᏟᎢᎵᏒ,
+    Standard: ᏆᏇ ᎢᏤ ᎩᎢᏂ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏆᏇ ᎢᏤ ᎩᎢᏂ ᎠᏟᎢᎵᏒ
+  },
+  Pacific/Chatham: {
+    Generic: ᏣᏝᎻ ᎠᏟᎢᎵᏒ,
+    Standard: ᏣᏝᎻ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏣᏝᎻ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Pacific/Chuuk: {
+    Generic: ᏧᎩ ᎠᏟᎢᎵᏒ,
+    Standard: ᏧᎩ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏧᎩ ᎠᏟᎢᎵᏒ
+  },
+  Pacific/Easter: {
     Generic: ᏥᏌᏕᎴᎯᏌᏅ ᎤᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
     Standard: ᏥᏌᏕᎴᎯᏌᏅ ᎤᎦᏚᏛᎢ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᏥᏌᏕᎴᎯᏌᏅ ᎤᎦᏚᏛᎢ ᎪᎩ ᎠᏟᎢᎵᏒ
   },
-  Pacific/Pohnpei: {
-    Generic: ᏉᎾᏇ ᎠᏟᎢᎵᏒ,
-    Standard: ᏉᎾᏇ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏉᎾᏇ ᎠᏟᎢᎵᏒ
+  Pacific/Efate: {
+    Generic: ᏩᏄᏩᏚ ᎠᏟᎢᎵᏒ,
+    Standard: ᏩᏄᏩᏚ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏩᏄᏩᏚ ᎪᎩ ᎠᏟᎢᎵᏒ
   },
-  US/Hawaii: {
+  Pacific/Enderbury: {
+    Generic: ᏧᎴᎯᏌᏅᎯ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
+    Standard: ᏧᎴᎯᏌᏅᎯ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏧᎴᎯᏌᏅᎯ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ
+  },
+  Pacific/Fakaofo: {
+    Generic: ᏙᎨᎳᎤ ᎠᏟᎢᎵᏒ,
+    Standard: ᏙᎨᎳᎤ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏙᎨᎳᎤ ᎠᏟᎢᎵᏒ
+  },
+  Pacific/Fiji: {
+    Generic: ᏫᏥ ᎠᏟᎢᎵᏒ,
+    Standard: ᏫᏥ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏫᏥ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Pacific/Funafuti: {
+    Generic: ᏚᏩᎷ ᎠᏟᎢᎵᏒ,
+    Standard: ᏚᏩᎷ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏚᏩᎷ ᎠᏟᎢᎵᏒ
+  },
+  Pacific/Galapagos: {
+    Generic: ᎡᏆ ᏓᎦᏏ ᎤᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
+    Standard: ᎡᏆ ᏓᎦᏏ ᎤᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎡᏆ ᏓᎦᏏ ᎤᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ
+  },
+  Pacific/Gambier: {
+    Generic: ᎦᎻᏇᎵ ᎠᏟᎢᎵᏒ,
+    Standard: ᎦᎻᏇᎵ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎦᎻᏇᎵ ᎠᏟᎢᎵᏒ
+  },
+  Pacific/Guadalcanal: {
+    Generic: ᏐᎶᎹᏂ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
+    Standard: ᏐᎶᎹᏂ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏐᎶᎹᏂ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ
+  },
+  Pacific/Guam: {
+    Generic: ᏣᎼᎶ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Standard: ᏣᎼᎶ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏣᎼᎶ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ
+  },
+  Pacific/Honolulu: {
+    Generic: ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎠᏟᎢᎵᏒ,
+    Standard: ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Pacific/Johnston: {
     Generic: ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎠᏟᎢᎵᏒ,
     Standard: ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
@@ -2939,39 +2724,254 @@
     Standard: ᏧᎴᎯᏌᏅᎯ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
     Daylight: ᏧᎴᎯᏌᏅᎯ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ
   },
-  Kwajalein: {
+  Pacific/Kiritimati: {
+    Generic: ᎠᏍᏓᏅᏅ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏍᏓᏅᏅ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏍᏓᏅᏅ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ
+  },
+  Pacific/Kosrae: {
+    Generic: ᎪᏍᎴ ᎠᏟᎢᎵᏒ,
+    Standard: ᎪᏍᎴ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎪᏍᎴ ᎠᏟᎢᎵᏒ
+  },
+  Pacific/Kwajalein: {
     Generic: ᎹᏌᎵ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
     Standard: ᎹᏌᎵ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
     Daylight: ᎹᏌᎵ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ
+  },
+  Pacific/Majuro: {
+    Generic: ᎹᏌᎵ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
+    Standard: ᎹᏌᎵ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎹᏌᎵ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ
+  },
+  Pacific/Marquesas: {
+    Generic: ᎹᎵᎨᏌᏏ ᎠᏟᎢᎵᏒ,
+    Standard: ᎹᎵᎨᏌᏏ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎹᎵᎨᏌᏏ ᎠᏟᎢᎵᏒ
+  },
+  Pacific/Midway: {
+    Generic: ᏌᎼᎠ ᎠᏟᎢᎵᏒ,
+    Standard: ᏌᎼᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏌᎼᎠ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Pacific/Nauru: {
+    Generic: ᎾᎷ ᎠᏟᎢᎵᏒ,
+    Standard: ᎾᎷ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎾᎷ ᎠᏟᎢᎵᏒ
+  },
+  Pacific/Niue: {
+    Generic: ᏂᏳ ᎠᏟᎢᎵᏒ,
+    Standard: ᏂᏳ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏂᏳ ᎠᏟᎢᎵᏒ
+  },
+  Pacific/Norfolk: {
+    Generic: ᏃᎵᏬᎵᎩ ᎤᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
+    Standard: ᏃᎵᏬᎵᎩ ᎤᎦᏚᏛᎢ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏃᎵᏬᎵᎩ ᎤᎦᏚᏛᎢ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Pacific/Noumea: {
+    Generic: ᎢᏤ ᎧᎵᏙᏂᎠᏂ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᏤ ᎧᎵᏙᏂᎠᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᏤ ᎧᎵᏙᏂᎠᏂ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Pacific/Pago_Pago: {
+    Generic: ᏌᎼᎠ ᎠᏟᎢᎵᏒ,
+    Standard: ᏌᎼᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏌᎼᎠ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Pacific/Palau: {
+    Generic: ᏆᎷ ᎠᏟᎢᎵᏒ,
+    Standard: ᏆᎷ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏆᎷ ᎠᏟᎢᎵᏒ
+  },
+  Pacific/Pitcairn: {
+    Generic: ᏈᎧᎵᏂ ᎠᏟᎢᎵᏒ,
+    Standard: ᏈᎧᎵᏂ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏈᎧᎵᏂ ᎠᏟᎢᎵᏒ
+  },
+  Pacific/Pohnpei: {
+    Generic: ᏉᎾᏇ ᎠᏟᎢᎵᏒ,
+    Standard: ᏉᎾᏇ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏉᎾᏇ ᎠᏟᎢᎵᏒ
+  },
+  Pacific/Ponape: {
+    Generic: ᏉᎾᏇ ᎠᏟᎢᎵᏒ,
+    Standard: ᏉᎾᏇ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏉᎾᏇ ᎠᏟᎢᎵᏒ
+  },
+  Pacific/Port_Moresby: {
+    Generic: ᏆᏇ ᎢᏤ ᎩᎢᏂ ᎠᏟᎢᎵᏒ,
+    Standard: ᏆᏇ ᎢᏤ ᎩᎢᏂ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏆᏇ ᎢᏤ ᎩᎢᏂ ᎠᏟᎢᎵᏒ
+  },
+  Pacific/Rarotonga: {
+    Generic: ᎠᏓᏍᏓᏴᎲᏍᎩ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏓᏍᏓᏴᎲᏍᎩ ᏚᎦᏚᏛᎢ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏓᏍᏓᏴᎲᏍᎩ ᏚᎦᏚᏛᎢ ᎠᏰᏟ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Pacific/Saipan: {
+    Generic: ᏣᎼᎶ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Standard: ᏣᎼᎶ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏣᎼᎶ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ
   },
   Pacific/Samoa: {
     Generic: ᏌᎼᎠ ᎠᏟᎢᎵᏒ,
     Standard: ᏌᎼᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᏌᎼᎠ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  US/Samoa: {
-    Generic: ᏌᎼᎠ ᎠᏟᎢᎵᏒ,
-    Standard: ᏌᎼᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᏌᎼᎠ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  Pacific/Tahiti: {
+    Generic: ᏔᎯᏘ ᎠᏟᎢᎵᏒ,
+    Standard: ᏔᎯᏘ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏔᎯᏘ ᎠᏟᎢᎵᏒ
   },
-  Pacific/Chuuk: {
+  Pacific/Tarawa: {
+    Generic: ᎩᎵᏇᏘ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
+    Standard: ᎩᎵᏇᏘ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎩᎵᏇᏘ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ
+  },
+  Pacific/Tongatapu: {
+    Generic: ᏙᎾᎦ ᎠᏟᎢᎵᏒ,
+    Standard: ᏙᎾᎦ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏙᎾᎦ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Pacific/Truk: {
     Generic: ᏧᎩ ᎠᏟᎢᎵᏒ,
     Standard: ᏧᎩ ᎠᏟᎢᎵᏒ,
     Daylight: ᏧᎩ ᎠᏟᎢᎵᏒ
+  },
+  Pacific/Wake: {
+    Generic: ᎤᏰᏨ ᎤᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
+    Standard: ᎤᏰᏨ ᎤᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎤᏰᏨ ᎤᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ
+  },
+  Pacific/Wallis: {
+    Generic: ᏩᎵᏍ ᎠᎴ ᏊᏚᎾ ᎠᏟᎢᎵᏒ,
+    Standard: ᏩᎵᏍ ᎠᎴ ᏊᏚᎾ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏩᎵᏍ ᎠᎴ ᏊᏚᎾ ᎠᏟᎢᎵᏒ
   },
   Pacific/Yap: {
     Generic: ᏧᎩ ᎠᏟᎢᎵᏒ,
     Standard: ᏧᎩ ᎠᏟᎢᎵᏒ,
     Daylight: ᏧᎩ ᎠᏟᎢᎵᏒ
   },
-  America/Fort_Wayne: {
+  Poland: {
+    Generic: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Portugal: {
+    Generic: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  ROC: {
+    Generic: ᏔᏱᏇ ᎠᏟᎢᎵᏒ,
+    Standard: ᏔᏱᏇ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏔᏱᏇ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  ROK: {
+    Generic: ᎪᎵᎠᏂ ᎠᏟᎢᎵᏒ,
+    Standard: ᎪᎵᎠᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎪᎵᎠᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  Singapore: {
+    Generic: ᏏᏂᎦᏉᎵ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Standard: ᏏᏂᎦᏉᎵ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏏᏂᎦᏉᎵ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ
+  },
+  Turkey: {
+    Generic: ᎬᏃ ᎠᏟᎢᎵᏒ,
+    Standard: ᎬᏃ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎬᏃ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  UCT: {
+    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ
+  },
+  US/Alaska: {
+    Generic: ᎠᎳᏍᎦ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᎳᏍᎦ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᎳᏍᎦ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  US/Aleutian: {
+    Generic: ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎠᏟᎢᎵᏒ,
+    Standard: ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  US/Arizona: {
+    Generic: ᎣᏓᎸ ᎠᏟᎢᎵᏒ,
+    Standard: ᎣᏓᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎣᏓᎸ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  US/Central: {
+    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  US/East-Indiana: {
     Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
     Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
     Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
   },
-  Antarctica/Troll: {
-    Generic: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Standard: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ,
-    Daylight: ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ
+  US/Eastern: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  US/Hawaii: {
+    Generic: ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎠᏟᎢᎵᏒ,
+    Standard: ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  US/Indiana-Starke: {
+    Generic: ᎠᏰᏟ ᎠᏟᎢᎵᏒ,
+    Standard: ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  US/Michigan: {
+    Generic: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ,
+    Standard: ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  US/Mountain: {
+    Generic: ᎣᏓᎸ ᎠᏟᎢᎵᏒ,
+    Standard: ᎣᏓᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎣᏓᎸ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  US/Pacific: {
+    Generic: ᏭᏕᎵᎬ ᎠᏟᎢᎵᏒ,
+    Standard: ᏭᏕᎵᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏭᏕᎵᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  US/Samoa: {
+    Generic: ᏌᎼᎠ ᎠᏟᎢᎵᏒ,
+    Standard: ᏌᎼᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏌᎼᎠ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  UTC: {
+    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ
+  },
+  Universal: {
+    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ
+  },
+  W-SU: {
+    Generic: ᎹᏍᎦᏫ ᎠᏟᎢᎵᏒ,
+    Standard: ᎹᏍᎦᏫ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎹᏍᎦᏫ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ
+  },
+  WET: {
+    Generic: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ,
+    Standard: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ,
+    Daylight: ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ
+  },
+  Zulu: {
+    Generic: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ,
+    Standard: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ,
+    Daylight: ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ
   }
 }

@@ -1,115 +1,330 @@
 ﻿{
-  Australia/Darwin: {
-    Generic: Horário da Austrália Central,
-    Standard: Horário Padrão da Austrália Central,
-    Daylight: Horário de Verão da Austrália Central
+  Africa/Abidjan: {
+    Generic: Horário do Meridiano de Greenwich,
+    Standard: Horário do Meridiano de Greenwich,
+    Daylight: Horário do Meridiano de Greenwich
   },
-  Australia/Sydney: {
-    Generic: Horário da Austrália Oriental,
-    Standard: Horário Padrão da Austrália Oriental,
-    Daylight: Horário de Verão da Austrália Oriental
+  Africa/Accra: {
+    Generic: Horário do Meridiano de Greenwich,
+    Standard: Horário do Meridiano de Greenwich,
+    Daylight: Horário do Meridiano de Greenwich
   },
-  Australia/Melbourne: {
-    Generic: Horário da Austrália Oriental,
-    Standard: Horário Padrão da Austrália Oriental,
-    Daylight: Horário de Verão da Austrália Oriental
+  Africa/Addis_Ababa: {
+    Generic: Horário da África Oriental,
+    Standard: Horário da África Oriental,
+    Daylight: Horário da África Oriental
   },
-  Asia/Kabul: {
-    Generic: Horário do Afeganistão,
-    Standard: Horário do Afeganistão,
-    Daylight: Horário do Afeganistão
+  Africa/Algiers: {
+    Generic: Horário da Europa Central,
+    Standard: Horário Padrão da Europa Central,
+    Daylight: Horário de Verão da Europa Central
   },
-  America/Anchorage: {
-    Generic: Horário do Alasca,
-    Standard: Horário Padrão do Alasca,
-    Daylight: Horário de Verão do Alasca
+  Africa/Asmara: {
+    Generic: Horário da África Oriental,
+    Standard: Horário da África Oriental,
+    Daylight: Horário da África Oriental
   },
-  America/Juneau: {
-    Generic: Horário do Alasca,
-    Standard: Horário Padrão do Alasca,
-    Daylight: Horário de Verão do Alasca
+  Africa/Asmera: {
+    Generic: Horário da África Oriental,
+    Standard: Horário da África Oriental,
+    Daylight: Horário da África Oriental
   },
-  America/Metlakatla: {
-    Generic: Horário do Alasca,
-    Standard: Horário Padrão do Alasca,
-    Daylight: Horário de Verão do Alasca
+  Africa/Bamako: {
+    Generic: Horário do Meridiano de Greenwich,
+    Standard: Horário do Meridiano de Greenwich,
+    Daylight: Horário do Meridiano de Greenwich
   },
-  America/Nome: {
-    Generic: Horário do Alasca,
-    Standard: Horário Padrão do Alasca,
-    Daylight: Horário de Verão do Alasca
+  Africa/Bangui: {
+    Generic: Horário da África Ocidental,
+    Standard: Horário Padrão da África Ocidental,
+    Daylight: Horário de Verão da África Ocidental
   },
-  America/Sitka: {
-    Generic: Horário do Alasca,
-    Standard: Horário Padrão do Alasca,
-    Daylight: Horário de Verão do Alasca
+  Africa/Banjul: {
+    Generic: Horário do Meridiano de Greenwich,
+    Standard: Horário do Meridiano de Greenwich,
+    Daylight: Horário do Meridiano de Greenwich
   },
-  America/Yakutat: {
-    Generic: Horário do Alasca,
-    Standard: Horário Padrão do Alasca,
-    Daylight: Horário de Verão do Alasca
+  Africa/Bissau: {
+    Generic: Horário do Meridiano de Greenwich,
+    Standard: Horário do Meridiano de Greenwich,
+    Daylight: Horário do Meridiano de Greenwich
+  },
+  Africa/Blantyre: {
+    Generic: Horário da África Central,
+    Standard: Horário da África Central,
+    Daylight: Horário da África Central
+  },
+  Africa/Brazzaville: {
+    Generic: Horário da África Ocidental,
+    Standard: Horário Padrão da África Ocidental,
+    Daylight: Horário de Verão da África Ocidental
+  },
+  Africa/Bujumbura: {
+    Generic: Horário da África Central,
+    Standard: Horário da África Central,
+    Daylight: Horário da África Central
+  },
+  Africa/Cairo: {
+    Generic: Horário da Europa Oriental,
+    Standard: Horário Padrão da Europa Oriental,
+    Daylight: Horário de Verão da Europa Oriental
+  },
+  Africa/Casablanca: {
+    Generic: Horário da Europa Ocidental,
+    Standard: Horário Padrão da Europa Ocidental,
+    Daylight: Horário de Verão da Europa Ocidental
+  },
+  Africa/Ceuta: {
+    Generic: Horário da Europa Central,
+    Standard: Horário Padrão da Europa Central,
+    Daylight: Horário de Verão da Europa Central
+  },
+  Africa/Conakry: {
+    Generic: Horário do Meridiano de Greenwich,
+    Standard: Horário do Meridiano de Greenwich,
+    Daylight: Horário do Meridiano de Greenwich
+  },
+  Africa/Dakar: {
+    Generic: Horário do Meridiano de Greenwich,
+    Standard: Horário do Meridiano de Greenwich,
+    Daylight: Horário do Meridiano de Greenwich
+  },
+  Africa/Dar_es_Salaam: {
+    Generic: Horário da África Oriental,
+    Standard: Horário da África Oriental,
+    Daylight: Horário da África Oriental
+  },
+  Africa/Djibouti: {
+    Generic: Horário da África Oriental,
+    Standard: Horário da África Oriental,
+    Daylight: Horário da África Oriental
+  },
+  Africa/Douala: {
+    Generic: Horário da África Ocidental,
+    Standard: Horário Padrão da África Ocidental,
+    Daylight: Horário de Verão da África Ocidental
+  },
+  Africa/El_Aaiun: {
+    Generic: Horário da Europa Ocidental,
+    Standard: Horário Padrão da Europa Ocidental,
+    Daylight: Horário de Verão da Europa Ocidental
+  },
+  Africa/Freetown: {
+    Generic: Horário do Meridiano de Greenwich,
+    Standard: Horário do Meridiano de Greenwich,
+    Daylight: Horário do Meridiano de Greenwich
+  },
+  Africa/Gaborone: {
+    Generic: Horário da África Central,
+    Standard: Horário da África Central,
+    Daylight: Horário da África Central
+  },
+  Africa/Harare: {
+    Generic: Horário da África Central,
+    Standard: Horário da África Central,
+    Daylight: Horário da África Central
+  },
+  Africa/Johannesburg: {
+    Generic: Horário da África do Sul,
+    Standard: Horário da África do Sul,
+    Daylight: Horário da África do Sul
+  },
+  Africa/Juba: {
+    Generic: Horário da África Central,
+    Standard: Horário da África Central,
+    Daylight: Horário da África Central
+  },
+  Africa/Kampala: {
+    Generic: Horário da África Oriental,
+    Standard: Horário da África Oriental,
+    Daylight: Horário da África Oriental
+  },
+  Africa/Khartoum: {
+    Generic: Horário da África Central,
+    Standard: Horário da África Central,
+    Daylight: Horário da África Central
+  },
+  Africa/Kigali: {
+    Generic: Horário da África Central,
+    Standard: Horário da África Central,
+    Daylight: Horário da África Central
+  },
+  Africa/Kinshasa: {
+    Generic: Horário da África Ocidental,
+    Standard: Horário Padrão da África Ocidental,
+    Daylight: Horário de Verão da África Ocidental
+  },
+  Africa/Lagos: {
+    Generic: Horário da África Ocidental,
+    Standard: Horário Padrão da África Ocidental,
+    Daylight: Horário de Verão da África Ocidental
+  },
+  Africa/Libreville: {
+    Generic: Horário da África Ocidental,
+    Standard: Horário Padrão da África Ocidental,
+    Daylight: Horário de Verão da África Ocidental
+  },
+  Africa/Lome: {
+    Generic: Horário do Meridiano de Greenwich,
+    Standard: Horário do Meridiano de Greenwich,
+    Daylight: Horário do Meridiano de Greenwich
+  },
+  Africa/Luanda: {
+    Generic: Horário da África Ocidental,
+    Standard: Horário Padrão da África Ocidental,
+    Daylight: Horário de Verão da África Ocidental
+  },
+  Africa/Lubumbashi: {
+    Generic: Horário da África Central,
+    Standard: Horário da África Central,
+    Daylight: Horário da África Central
+  },
+  Africa/Lusaka: {
+    Generic: Horário da África Central,
+    Standard: Horário da África Central,
+    Daylight: Horário da África Central
+  },
+  Africa/Malabo: {
+    Generic: Horário da África Ocidental,
+    Standard: Horário Padrão da África Ocidental,
+    Daylight: Horário de Verão da África Ocidental
+  },
+  Africa/Maputo: {
+    Generic: Horário da África Central,
+    Standard: Horário da África Central,
+    Daylight: Horário da África Central
+  },
+  Africa/Maseru: {
+    Generic: Horário da África do Sul,
+    Standard: Horário da África do Sul,
+    Daylight: Horário da África do Sul
+  },
+  Africa/Mbabane: {
+    Generic: Horário da África do Sul,
+    Standard: Horário da África do Sul,
+    Daylight: Horário da África do Sul
+  },
+  Africa/Mogadishu: {
+    Generic: Horário da África Oriental,
+    Standard: Horário da África Oriental,
+    Daylight: Horário da África Oriental
+  },
+  Africa/Monrovia: {
+    Generic: Horário do Meridiano de Greenwich,
+    Standard: Horário do Meridiano de Greenwich,
+    Daylight: Horário do Meridiano de Greenwich
+  },
+  Africa/Nairobi: {
+    Generic: Horário da África Oriental,
+    Standard: Horário da África Oriental,
+    Daylight: Horário da África Oriental
+  },
+  Africa/Ndjamena: {
+    Generic: Horário da África Ocidental,
+    Standard: Horário Padrão da África Ocidental,
+    Daylight: Horário de Verão da África Ocidental
+  },
+  Africa/Niamey: {
+    Generic: Horário da África Ocidental,
+    Standard: Horário Padrão da África Ocidental,
+    Daylight: Horário de Verão da África Ocidental
+  },
+  Africa/Nouakchott: {
+    Generic: Horário do Meridiano de Greenwich,
+    Standard: Horário do Meridiano de Greenwich,
+    Daylight: Horário do Meridiano de Greenwich
+  },
+  Africa/Ouagadougou: {
+    Generic: Horário do Meridiano de Greenwich,
+    Standard: Horário do Meridiano de Greenwich,
+    Daylight: Horário do Meridiano de Greenwich
+  },
+  Africa/Porto-Novo: {
+    Generic: Horário da África Ocidental,
+    Standard: Horário Padrão da África Ocidental,
+    Daylight: Horário de Verão da África Ocidental
+  },
+  Africa/Sao_Tome: {
+    Generic: Horário do Meridiano de Greenwich,
+    Standard: Horário do Meridiano de Greenwich,
+    Daylight: Horário do Meridiano de Greenwich
+  },
+  Africa/Timbuktu: {
+    Generic: Horário do Meridiano de Greenwich,
+    Standard: Horário do Meridiano de Greenwich,
+    Daylight: Horário do Meridiano de Greenwich
+  },
+  Africa/Tripoli: {
+    Generic: Horário da Europa Oriental,
+    Standard: Horário Padrão da Europa Oriental,
+    Daylight: Horário de Verão da Europa Oriental
+  },
+  Africa/Tunis: {
+    Generic: Horário da Europa Central,
+    Standard: Horário Padrão da Europa Central,
+    Daylight: Horário de Verão da Europa Central
+  },
+  Africa/Windhoek: {
+    Generic: Horário da África Central,
+    Standard: Horário da África Central,
+    Daylight: Horário da África Central
   },
   America/Adak: {
     Generic: Horário do Havaí e Ilhas Aleutas,
     Standard: Horário Padrão do Havaí e Ilhas Aleutas,
     Daylight: Horário de Verão do Havaí e Ilhas Aleutas
   },
-  Asia/Barnaul: {
-    Generic: Horário Barnaul,
-    Standard: Horário Padrão: Barnaul,
-    Daylight: Horário de Verão: Barnaul
+  America/Anchorage: {
+    Generic: Horário do Alasca,
+    Standard: Horário Padrão do Alasca,
+    Daylight: Horário de Verão do Alasca
   },
-  Asia/Riyadh: {
-    Generic: Horário da Arábia,
-    Standard: Horário Padrão da Arábia,
-    Daylight: Horário de Verão da Arábia
+  America/Anguilla: {
+    Generic: Horário do Atlântico,
+    Standard: Horário Padrão do Atlântico,
+    Daylight: Horário de Verão do Atlântico
   },
-  Asia/Bahrain: {
-    Generic: Horário da Arábia,
-    Standard: Horário Padrão da Arábia,
-    Daylight: Horário de Verão da Arábia
+  America/Antigua: {
+    Generic: Horário do Atlântico,
+    Standard: Horário Padrão do Atlântico,
+    Daylight: Horário de Verão do Atlântico
   },
-  Asia/Kuwait: {
-    Generic: Horário da Arábia,
-    Standard: Horário Padrão da Arábia,
-    Daylight: Horário de Verão da Arábia
+  America/Araguaina: {
+    Generic: Horário de Brasília,
+    Standard: Horário Padrão de Brasília,
+    Daylight: Horário de Verão de Brasília
   },
-  Asia/Qatar: {
-    Generic: Horário da Arábia,
-    Standard: Horário Padrão da Arábia,
-    Daylight: Horário de Verão da Arábia
+  America/Argentina/Buenos_Aires: {
+    Generic: Horário da Argentina,
+    Standard: Horário Padrão da Argentina,
+    Daylight: Horário de Verão da Argentina
   },
-  Asia/Aden: {
-    Generic: Horário da Arábia,
-    Standard: Horário Padrão da Arábia,
-    Daylight: Horário de Verão da Arábia
+  America/Argentina/Catamarca: {
+    Generic: Horário da Argentina,
+    Standard: Horário Padrão da Argentina,
+    Daylight: Horário de Verão da Argentina
   },
-  Asia/Dubai: {
-    Generic: Horário do Golfo,
-    Standard: Horário do Golfo,
-    Daylight: Horário do Golfo
+  America/Argentina/ComodRivadavia: {
+    Generic: Horário da Argentina,
+    Standard: Horário Padrão da Argentina,
+    Daylight: Horário de Verão da Argentina
   },
-  Asia/Muscat: {
-    Generic: Horário do Golfo,
-    Standard: Horário do Golfo,
-    Daylight: Horário do Golfo
+  America/Argentina/Cordoba: {
+    Generic: Horário da Argentina,
+    Standard: Horário Padrão da Argentina,
+    Daylight: Horário de Verão da Argentina
   },
-  Etc/GMT-4: {
-    Generic: Horário Universal Coordenado +4,
-    Standard: Horário Universal Coordenado +4,
-    Daylight: Horário Universal Coordenado +4
-  },
-  Asia/Baghdad: {
-    Generic: Horário da Arábia,
-    Standard: Horário Padrão da Arábia,
-    Daylight: Horário de Verão da Arábia
-  },
-  America/Buenos_Aires: {
+  America/Argentina/Jujuy: {
     Generic: Horário da Argentina,
     Standard: Horário Padrão da Argentina,
     Daylight: Horário de Verão da Argentina
   },
   America/Argentina/La_Rioja: {
+    Generic: Horário da Argentina,
+    Standard: Horário Padrão da Argentina,
+    Daylight: Horário de Verão da Argentina
+  },
+  America/Argentina/Mendoza: {
     Generic: Horário da Argentina,
     Standard: Horário Padrão da Argentina,
     Daylight: Horário de Verão da Argentina
@@ -144,327 +359,432 @@
     Standard: Horário Padrão da Argentina,
     Daylight: Horário de Verão da Argentina
   },
-  America/Catamarca: {
-    Generic: Horário da Argentina,
-    Standard: Horário Padrão da Argentina,
-    Daylight: Horário de Verão da Argentina
-  },
-  America/Cordoba: {
-    Generic: Horário da Argentina,
-    Standard: Horário Padrão da Argentina,
-    Daylight: Horário de Verão da Argentina
-  },
-  America/Jujuy: {
-    Generic: Horário da Argentina,
-    Standard: Horário Padrão da Argentina,
-    Daylight: Horário de Verão da Argentina
-  },
-  America/Mendoza: {
-    Generic: Horário da Argentina,
-    Standard: Horário Padrão da Argentina,
-    Daylight: Horário de Verão da Argentina
-  },
-  Europe/Astrakhan: {
-    Generic: Horário Astracã,
-    Standard: Horário Padrão: Astracã,
-    Daylight: Horário de Verão: Astracã
-  },
-  Europe/Ulyanovsk: {
-    Generic: Horário Ulianovsk,
-    Standard: Horário Padrão: Ulianovsk,
-    Daylight: Horário de Verão: Ulianovsk
-  },
-  America/Halifax: {
+  America/Aruba: {
     Generic: Horário do Atlântico,
     Standard: Horário Padrão do Atlântico,
     Daylight: Horário de Verão do Atlântico
   },
-  Atlantic/Bermuda: {
-    Generic: Horário do Atlântico,
-    Standard: Horário Padrão do Atlântico,
-    Daylight: Horário de Verão do Atlântico
+  America/Asuncion: {
+    Generic: Horário do Paraguai,
+    Standard: Horário Padrão do Paraguai,
+    Daylight: Horário de Verão do Paraguai
   },
-  America/Glace_Bay: {
-    Generic: Horário do Atlântico,
-    Standard: Horário Padrão do Atlântico,
-    Daylight: Horário de Verão do Atlântico
+  America/Atikokan: {
+    Generic: Horário do Leste,
+    Standard: Horário Padrão do Leste,
+    Daylight: Horário de Verão do Leste
   },
-  America/Goose_Bay: {
-    Generic: Horário do Atlântico,
-    Standard: Horário Padrão do Atlântico,
-    Daylight: Horário de Verão do Atlântico
-  },
-  America/Moncton: {
-    Generic: Horário do Atlântico,
-    Standard: Horário Padrão do Atlântico,
-    Daylight: Horário de Verão do Atlântico
-  },
-  America/Thule: {
-    Generic: Horário do Atlântico,
-    Standard: Horário Padrão do Atlântico,
-    Daylight: Horário de Verão do Atlântico
-  },
-  Australia/Eucla: {
-    Generic: Horário da Austrália Centro-Ocidental,
-    Standard: Horário Padrão da Austrália Centro-Ocidental,
-    Daylight: Horário de Verão da Austrália Centro-Ocidental
-  },
-  Asia/Baku: {
-    Generic: Horário do Arzeibaijão,
-    Standard: Horário Padrão do Arzeibaijão,
-    Daylight: Horário de Verão do Arzeibaijão
-  },
-  Atlantic/Azores: {
-    Generic: Horário dos Açores,
-    Standard: Horário Padrão dos Açores,
-    Daylight: Horário de Verão dos Açores
-  },
-  America/Scoresbysund: {
-    Generic: Horário da Groelândia Oriental,
-    Standard: Horário Padrão da Groelândia Oriental,
-    Daylight: Horário de Verão da Groelândia Oriental
+  America/Atka: {
+    Generic: Horário do Havaí e Ilhas Aleutas,
+    Standard: Horário Padrão do Havaí e Ilhas Aleutas,
+    Daylight: Horário de Verão do Havaí e Ilhas Aleutas
   },
   America/Bahia: {
     Generic: Horário de Brasília,
     Standard: Horário Padrão de Brasília,
     Daylight: Horário de Verão de Brasília
   },
-  Asia/Dhaka: {
-    Generic: Horário de Bangladesh,
-    Standard: Horário Padrão de Bangladesh,
-    Daylight: Horário de Verão de Bangladesh
-  },
-  Asia/Thimphu: {
-    Generic: Horário do Butão,
-    Standard: Horário do Butão,
-    Daylight: Horário do Butão
-  },
-  Europe/Minsk: {
-    Generic: Horário de Moscou,
-    Standard: Horário Padrão de Moscou,
-    Daylight: Horário de Verão de Moscou
-  },
-  Pacific/Bougainville: {
-    Generic: Horário de Papua-Nova Guiné,
-    Standard: Horário de Papua-Nova Guiné,
-    Daylight: Horário de Papua-Nova Guiné
-  },
-  America/Regina: {
+  America/Bahia_Banderas: {
     Generic: Horário Central,
     Standard: Horário Padrão Central,
     Daylight: Horário de Verão Central
   },
-  America/Swift_Current: {
-    Generic: Horário Central,
-    Standard: Horário Padrão Central,
-    Daylight: Horário de Verão Central
+  America/Barbados: {
+    Generic: Horário do Atlântico,
+    Standard: Horário Padrão do Atlântico,
+    Daylight: Horário de Verão do Atlântico
   },
-  Atlantic/Cape_Verde: {
-    Generic: Horário de Cabo Verde,
-    Standard: Horário Padrão de Cabo Verde,
-    Daylight: Horário de Verão de Cabo Verde
-  },
-  Etc/GMT+1: {
-    Generic: Horário Universal Coordenado -1,
-    Standard: Horário Universal Coordenado -1,
-    Daylight: Horário Universal Coordenado -1
-  },
-  Asia/Yerevan: {
-    Generic: Horário da Armênia,
-    Standard: Horário Padrão da Armênia,
-    Daylight: Horário de Verão da Armênia
-  },
-  Australia/Adelaide: {
-    Generic: Horário da Austrália Central,
-    Standard: Horário Padrão da Austrália Central,
-    Daylight: Horário de Verão da Austrália Central
-  },
-  Australia/Broken_Hill: {
-    Generic: Horário da Austrália Central,
-    Standard: Horário Padrão da Austrália Central,
-    Daylight: Horário de Verão da Austrália Central
-  },
-  America/Guatemala: {
-    Generic: Horário Central,
-    Standard: Horário Padrão Central,
-    Daylight: Horário de Verão Central
+  America/Belem: {
+    Generic: Horário de Brasília,
+    Standard: Horário Padrão de Brasília,
+    Daylight: Horário de Verão de Brasília
   },
   America/Belize: {
     Generic: Horário Central,
     Standard: Horário Padrão Central,
     Daylight: Horário de Verão Central
   },
-  America/Costa_Rica: {
-    Generic: Horário Central,
-    Standard: Horário Padrão Central,
-    Daylight: Horário de Verão Central
+  America/Blanc-Sablon: {
+    Generic: Horário do Atlântico,
+    Standard: Horário Padrão do Atlântico,
+    Daylight: Horário de Verão do Atlântico
   },
-  Pacific/Galapagos: {
-    Generic: Horário de Galápagos,
-    Standard: Horário de Galápagos,
-    Daylight: Horário de Galápagos
-  },
-  America/Tegucigalpa: {
-    Generic: Horário Central,
-    Standard: Horário Padrão Central,
-    Daylight: Horário de Verão Central
-  },
-  America/Managua: {
-    Generic: Horário Central,
-    Standard: Horário Padrão Central,
-    Daylight: Horário de Verão Central
-  },
-  America/El_Salvador: {
-    Generic: Horário Central,
-    Standard: Horário Padrão Central,
-    Daylight: Horário de Verão Central
-  },
-  Etc/GMT+6: {
-    Generic: Horário Universal Coordenado -6,
-    Standard: Horário Universal Coordenado -6,
-    Daylight: Horário Universal Coordenado -6
-  },
-  Asia/Almaty: {
-    Generic: Horário do Casaquistão Oriental,
-    Standard: Horário do Casaquistão Oriental,
-    Daylight: Horário do Casaquistão Oriental
-  },
-  Antarctica/Vostok: {
-    Generic: Horário de Vostok,
-    Standard: Horário de Vostok,
-    Daylight: Horário de Vostok
-  },
-  Asia/Urumqi: {
-    Generic: Horário China,
-    Standard: Horário Padrão: China,
-    Daylight: Horário de Verão: China
-  },
-  Indian/Chagos: {
-    Generic: Horário do Oceano Índico,
-    Standard: Horário do Oceano Índico,
-    Daylight: Horário do Oceano Índico
-  },
-  Asia/Bishkek: {
-    Generic: Horário do Quirguistão,
-    Standard: Horário do Quirguistão,
-    Daylight: Horário do Quirguistão
-  },
-  Asia/Qostanay: {
-    Generic: Horário do Casaquistão Oriental,
-    Standard: Horário do Casaquistão Oriental,
-    Daylight: Horário do Casaquistão Oriental
-  },
-  Etc/GMT-6: {
-    Generic: Horário Universal Coordenado +6,
-    Standard: Horário Universal Coordenado +6,
-    Daylight: Horário Universal Coordenado +6
-  },
-  America/Cuiaba: {
+  America/Boa_Vista: {
     Generic: Horário do Amazonas,
     Standard: Horário Padrão do Amazonas,
     Daylight: Horário de Verão do Amazonas
+  },
+  America/Bogota: {
+    Generic: Horário da Colômbia,
+    Standard: Horário Padrão da Colômbia,
+    Daylight: Horário de Verão da Colômbia
+  },
+  America/Boise: {
+    Generic: Horário das Montanhas,
+    Standard: Horário Padrão das Montanhas,
+    Daylight: Horário de Verão das Montanhas
+  },
+  America/Buenos_Aires: {
+    Generic: Horário da Argentina,
+    Standard: Horário Padrão da Argentina,
+    Daylight: Horário de Verão da Argentina
+  },
+  America/Cambridge_Bay: {
+    Generic: Horário das Montanhas,
+    Standard: Horário Padrão das Montanhas,
+    Daylight: Horário de Verão das Montanhas
   },
   America/Campo_Grande: {
     Generic: Horário do Amazonas,
     Standard: Horário Padrão do Amazonas,
     Daylight: Horário de Verão do Amazonas
   },
-  Europe/Budapest: {
-    Generic: Horário da Europa Central,
-    Standard: Horário Padrão da Europa Central,
-    Daylight: Horário de Verão da Europa Central
+  America/Cancun: {
+    Generic: Horário do Leste,
+    Standard: Horário Padrão do Leste,
+    Daylight: Horário de Verão do Leste
   },
-  Europe/Tirane: {
-    Generic: Horário da Europa Central,
-    Standard: Horário Padrão da Europa Central,
-    Daylight: Horário de Verão da Europa Central
+  America/Caracas: {
+    Generic: Horário da Venezuela,
+    Standard: Horário da Venezuela,
+    Daylight: Horário da Venezuela
   },
-  Europe/Prague: {
-    Generic: Horário da Europa Central,
-    Standard: Horário Padrão da Europa Central,
-    Daylight: Horário de Verão da Europa Central
+  America/Catamarca: {
+    Generic: Horário da Argentina,
+    Standard: Horário Padrão da Argentina,
+    Daylight: Horário de Verão da Argentina
   },
-  Europe/Podgorica: {
-    Generic: Horário da Europa Central,
-    Standard: Horário Padrão da Europa Central,
-    Daylight: Horário de Verão da Europa Central
+  America/Cayenne: {
+    Generic: Horário da Guiana Francesa,
+    Standard: Horário da Guiana Francesa,
+    Daylight: Horário da Guiana Francesa
   },
-  Europe/Belgrade: {
-    Generic: Horário da Europa Central,
-    Standard: Horário Padrão da Europa Central,
-    Daylight: Horário de Verão da Europa Central
+  America/Cayman: {
+    Generic: Horário do Leste,
+    Standard: Horário Padrão do Leste,
+    Daylight: Horário de Verão do Leste
   },
-  Europe/Ljubljana: {
-    Generic: Horário da Europa Central,
-    Standard: Horário Padrão da Europa Central,
-    Daylight: Horário de Verão da Europa Central
-  },
-  Europe/Bratislava: {
-    Generic: Horário da Europa Central,
-    Standard: Horário Padrão da Europa Central,
-    Daylight: Horário de Verão da Europa Central
-  },
-  Europe/Warsaw: {
-    Generic: Horário da Europa Central,
-    Standard: Horário Padrão da Europa Central,
-    Daylight: Horário de Verão da Europa Central
-  },
-  Europe/Sarajevo: {
-    Generic: Horário da Europa Central,
-    Standard: Horário Padrão da Europa Central,
-    Daylight: Horário de Verão da Europa Central
-  },
-  Europe/Zagreb: {
-    Generic: Horário da Europa Central,
-    Standard: Horário Padrão da Europa Central,
-    Daylight: Horário de Verão da Europa Central
-  },
-  Europe/Skopje: {
-    Generic: Horário da Europa Central,
-    Standard: Horário Padrão da Europa Central,
-    Daylight: Horário de Verão da Europa Central
-  },
-  Pacific/Guadalcanal: {
-    Generic: Horário das Ilhas Salomão,
-    Standard: Horário das Ilhas Salomão,
-    Daylight: Horário das Ilhas Salomão
-  },
-  Antarctica/Casey: {
-    Generic: Horário Antártida,
-    Standard: Horário Padrão: Antártida,
-    Daylight: Horário de Verão: Antártida
-  },
-  Pacific/Ponape: {
-    Generic: Horário de Ponape,
-    Standard: Horário de Ponape,
-    Daylight: Horário de Ponape
-  },
-  Pacific/Kosrae: {
-    Generic: Horário de Kosrae,
-    Standard: Horário de Kosrae,
-    Daylight: Horário de Kosrae
-  },
-  Pacific/Noumea: {
-    Generic: Horário da Nova Caledônia,
-    Standard: Horário Padrão da Nova Caledônia,
-    Daylight: Horário de Verão da Nova Caledônia
-  },
-  Pacific/Efate: {
-    Generic: Horário de Vanuatu,
-    Standard: Horário Padrão de Vanuatu,
-    Daylight: Horário de Verão de Vanuatu
-  },
-  Etc/GMT-11: {
-    Generic: Horário Universal Coordenado +11,
-    Standard: Horário Universal Coordenado +11,
-    Daylight: Horário Universal Coordenado +11
-  },
-  America/Mexico_City: {
+  America/Chicago: {
     Generic: Horário Central,
     Standard: Horário Padrão Central,
     Daylight: Horário de Verão Central
   },
-  America/Bahia_Banderas: {
+  America/Chihuahua: {
+    Generic: Horário do Pacífico Mexicano,
+    Standard: Horário Padrão do Pacífico Mexicano,
+    Daylight: Horário de Verão do Pacífico Mexicano
+  },
+  America/Coral_Harbour: {
+    Generic: Horário do Leste,
+    Standard: Horário Padrão do Leste,
+    Daylight: Horário de Verão do Leste
+  },
+  America/Cordoba: {
+    Generic: Horário da Argentina,
+    Standard: Horário Padrão da Argentina,
+    Daylight: Horário de Verão da Argentina
+  },
+  America/Costa_Rica: {
+    Generic: Horário Central,
+    Standard: Horário Padrão Central,
+    Daylight: Horário de Verão Central
+  },
+  America/Creston: {
+    Generic: Horário das Montanhas,
+    Standard: Horário Padrão das Montanhas,
+    Daylight: Horário de Verão das Montanhas
+  },
+  America/Cuiaba: {
+    Generic: Horário do Amazonas,
+    Standard: Horário Padrão do Amazonas,
+    Daylight: Horário de Verão do Amazonas
+  },
+  America/Curacao: {
+    Generic: Horário do Atlântico,
+    Standard: Horário Padrão do Atlântico,
+    Daylight: Horário de Verão do Atlântico
+  },
+  America/Danmarkshavn: {
+    Generic: Horário do Meridiano de Greenwich,
+    Standard: Horário do Meridiano de Greenwich,
+    Daylight: Horário do Meridiano de Greenwich
+  },
+  America/Dawson: {
+    Generic: Horário do Yukon,
+    Standard: Horário do Yukon,
+    Daylight: Horário do Yukon
+  },
+  America/Dawson_Creek: {
+    Generic: Horário das Montanhas,
+    Standard: Horário Padrão das Montanhas,
+    Daylight: Horário de Verão das Montanhas
+  },
+  America/Denver: {
+    Generic: Horário das Montanhas,
+    Standard: Horário Padrão das Montanhas,
+    Daylight: Horário de Verão das Montanhas
+  },
+  America/Detroit: {
+    Generic: Horário do Leste,
+    Standard: Horário Padrão do Leste,
+    Daylight: Horário de Verão do Leste
+  },
+  America/Dominica: {
+    Generic: Horário do Atlântico,
+    Standard: Horário Padrão do Atlântico,
+    Daylight: Horário de Verão do Atlântico
+  },
+  America/Edmonton: {
+    Generic: Horário das Montanhas,
+    Standard: Horário Padrão das Montanhas,
+    Daylight: Horário de Verão das Montanhas
+  },
+  America/Eirunepe: {
+    Generic: Horário do Acre,
+    Standard: Horário Padrão do Acre,
+    Daylight: Horário de Verão do Acre
+  },
+  America/El_Salvador: {
+    Generic: Horário Central,
+    Standard: Horário Padrão Central,
+    Daylight: Horário de Verão Central
+  },
+  America/Ensenada: {
+    Generic: Horário do Pacífico,
+    Standard: Horário Padrão do Pacífico,
+    Daylight: Horário de Verão do Pacífico
+  },
+  America/Fort_Nelson: {
+    Generic: Horário das Montanhas,
+    Standard: Horário Padrão das Montanhas,
+    Daylight: Horário de Verão das Montanhas
+  },
+  America/Fort_Wayne: {
+    Generic: Horário do Leste,
+    Standard: Horário Padrão do Leste,
+    Daylight: Horário de Verão do Leste
+  },
+  America/Fortaleza: {
+    Generic: Horário de Brasília,
+    Standard: Horário Padrão de Brasília,
+    Daylight: Horário de Verão de Brasília
+  },
+  America/Glace_Bay: {
+    Generic: Horário do Atlântico,
+    Standard: Horário Padrão do Atlântico,
+    Daylight: Horário de Verão do Atlântico
+  },
+  America/Godthab: {
+    Generic: Horário da Groenlândia Ocidental,
+    Standard: Horário Padrão da Groenlândia Ocidental,
+    Daylight: Horário de Verão da Groenlândia Ocidental
+  },
+  America/Goose_Bay: {
+    Generic: Horário do Atlântico,
+    Standard: Horário Padrão do Atlântico,
+    Daylight: Horário de Verão do Atlântico
+  },
+  America/Grand_Turk: {
+    Generic: Horário do Leste,
+    Standard: Horário Padrão do Leste,
+    Daylight: Horário de Verão do Leste
+  },
+  America/Grenada: {
+    Generic: Horário do Atlântico,
+    Standard: Horário Padrão do Atlântico,
+    Daylight: Horário de Verão do Atlântico
+  },
+  America/Guadeloupe: {
+    Generic: Horário do Atlântico,
+    Standard: Horário Padrão do Atlântico,
+    Daylight: Horário de Verão do Atlântico
+  },
+  America/Guatemala: {
+    Generic: Horário Central,
+    Standard: Horário Padrão Central,
+    Daylight: Horário de Verão Central
+  },
+  America/Guayaquil: {
+    Generic: Horário do Equador,
+    Standard: Horário do Equador,
+    Daylight: Horário do Equador
+  },
+  America/Guyana: {
+    Generic: Horário da Guiana,
+    Standard: Horário da Guiana,
+    Daylight: Horário da Guiana
+  },
+  America/Halifax: {
+    Generic: Horário do Atlântico,
+    Standard: Horário Padrão do Atlântico,
+    Daylight: Horário de Verão do Atlântico
+  },
+  America/Havana: {
+    Generic: Horário de Cuba,
+    Standard: Horário Padrão de Cuba,
+    Daylight: Horário de Verão de Cuba
+  },
+  America/Hermosillo: {
+    Generic: Horário do Pacífico Mexicano,
+    Standard: Horário Padrão do Pacífico Mexicano,
+    Daylight: Horário de Verão do Pacífico Mexicano
+  },
+  America/Indiana/Indianapolis: {
+    Generic: Horário do Leste,
+    Standard: Horário Padrão do Leste,
+    Daylight: Horário de Verão do Leste
+  },
+  America/Indiana/Knox: {
+    Generic: Horário Central,
+    Standard: Horário Padrão Central,
+    Daylight: Horário de Verão Central
+  },
+  America/Indiana/Marengo: {
+    Generic: Horário do Leste,
+    Standard: Horário Padrão do Leste,
+    Daylight: Horário de Verão do Leste
+  },
+  America/Indiana/Petersburg: {
+    Generic: Horário do Leste,
+    Standard: Horário Padrão do Leste,
+    Daylight: Horário de Verão do Leste
+  },
+  America/Indiana/Tell_City: {
+    Generic: Horário Central,
+    Standard: Horário Padrão Central,
+    Daylight: Horário de Verão Central
+  },
+  America/Indiana/Vevay: {
+    Generic: Horário do Leste,
+    Standard: Horário Padrão do Leste,
+    Daylight: Horário de Verão do Leste
+  },
+  America/Indiana/Vincennes: {
+    Generic: Horário do Leste,
+    Standard: Horário Padrão do Leste,
+    Daylight: Horário de Verão do Leste
+  },
+  America/Indiana/Winamac: {
+    Generic: Horário do Leste,
+    Standard: Horário Padrão do Leste,
+    Daylight: Horário de Verão do Leste
+  },
+  America/Indianapolis: {
+    Generic: Horário do Leste,
+    Standard: Horário Padrão do Leste,
+    Daylight: Horário de Verão do Leste
+  },
+  America/Inuvik: {
+    Generic: Horário das Montanhas,
+    Standard: Horário Padrão das Montanhas,
+    Daylight: Horário de Verão das Montanhas
+  },
+  America/Iqaluit: {
+    Generic: Horário do Leste,
+    Standard: Horário Padrão do Leste,
+    Daylight: Horário de Verão do Leste
+  },
+  America/Jamaica: {
+    Generic: Horário do Leste,
+    Standard: Horário Padrão do Leste,
+    Daylight: Horário de Verão do Leste
+  },
+  America/Jujuy: {
+    Generic: Horário da Argentina,
+    Standard: Horário Padrão da Argentina,
+    Daylight: Horário de Verão da Argentina
+  },
+  America/Juneau: {
+    Generic: Horário do Alasca,
+    Standard: Horário Padrão do Alasca,
+    Daylight: Horário de Verão do Alasca
+  },
+  America/Kentucky/Louisville: {
+    Generic: Horário do Leste,
+    Standard: Horário Padrão do Leste,
+    Daylight: Horário de Verão do Leste
+  },
+  America/Kentucky/Monticello: {
+    Generic: Horário do Leste,
+    Standard: Horário Padrão do Leste,
+    Daylight: Horário de Verão do Leste
+  },
+  America/Knox_IN: {
+    Generic: Horário Central,
+    Standard: Horário Padrão Central,
+    Daylight: Horário de Verão Central
+  },
+  America/Kralendijk: {
+    Generic: Horário do Atlântico,
+    Standard: Horário Padrão do Atlântico,
+    Daylight: Horário de Verão do Atlântico
+  },
+  America/La_Paz: {
+    Generic: Horário da Bolívia,
+    Standard: Horário da Bolívia,
+    Daylight: Horário da Bolívia
+  },
+  America/Lima: {
+    Generic: Horário do Peru,
+    Standard: Horário Padrão do Peru,
+    Daylight: Horário de Verão do Peru
+  },
+  America/Los_Angeles: {
+    Generic: Horário do Pacífico,
+    Standard: Horário Padrão do Pacífico,
+    Daylight: Horário de Verão do Pacífico
+  },
+  America/Louisville: {
+    Generic: Horário do Leste,
+    Standard: Horário Padrão do Leste,
+    Daylight: Horário de Verão do Leste
+  },
+  America/Lower_Princes: {
+    Generic: Horário do Atlântico,
+    Standard: Horário Padrão do Atlântico,
+    Daylight: Horário de Verão do Atlântico
+  },
+  America/Maceio: {
+    Generic: Horário de Brasília,
+    Standard: Horário Padrão de Brasília,
+    Daylight: Horário de Verão de Brasília
+  },
+  America/Managua: {
+    Generic: Horário Central,
+    Standard: Horário Padrão Central,
+    Daylight: Horário de Verão Central
+  },
+  America/Manaus: {
+    Generic: Horário do Amazonas,
+    Standard: Horário Padrão do Amazonas,
+    Daylight: Horário de Verão do Amazonas
+  },
+  America/Marigot: {
+    Generic: Horário do Atlântico,
+    Standard: Horário Padrão do Atlântico,
+    Daylight: Horário de Verão do Atlântico
+  },
+  America/Martinique: {
+    Generic: Horário do Atlântico,
+    Standard: Horário Padrão do Atlântico,
+    Daylight: Horário de Verão do Atlântico
+  },
+  America/Matamoros: {
+    Generic: Horário Central,
+    Standard: Horário Padrão Central,
+    Daylight: Horário de Verão Central
+  },
+  America/Mazatlan: {
+    Generic: Horário do Pacífico Mexicano,
+    Standard: Horário Padrão do Pacífico Mexicano,
+    Daylight: Horário de Verão do Pacífico Mexicano
+  },
+  America/Mendoza: {
+    Generic: Horário da Argentina,
+    Standard: Horário Padrão da Argentina,
+    Daylight: Horário de Verão da Argentina
+  },
+  America/Menominee: {
     Generic: Horário Central,
     Standard: Horário Padrão Central,
     Daylight: Horário de Verão Central
@@ -474,55 +794,70 @@
     Standard: Horário Padrão Central,
     Daylight: Horário de Verão Central
   },
+  America/Metlakatla: {
+    Generic: Horário do Alasca,
+    Standard: Horário Padrão do Alasca,
+    Daylight: Horário de Verão do Alasca
+  },
+  America/Mexico_City: {
+    Generic: Horário Central,
+    Standard: Horário Padrão Central,
+    Daylight: Horário de Verão Central
+  },
+  America/Miquelon: {
+    Generic: Horário de São Pedro e Miquelão,
+    Standard: Horário Padrão de São Pedro e Miquelão,
+    Daylight: Horário Verão de São Pedro e Miquelão
+  },
+  America/Moncton: {
+    Generic: Horário do Atlântico,
+    Standard: Horário Padrão do Atlântico,
+    Daylight: Horário de Verão do Atlântico
+  },
   America/Monterrey: {
     Generic: Horário Central,
     Standard: Horário Padrão Central,
     Daylight: Horário de Verão Central
   },
-  America/Chicago: {
-    Generic: Horário Central,
-    Standard: Horário Padrão Central,
-    Daylight: Horário de Verão Central
+  America/Montevideo: {
+    Generic: Horário do Uruguai,
+    Standard: Horário Padrão do Uruguai,
+    Daylight: Horário de Verão do Uruguai
   },
-  America/Winnipeg: {
-    Generic: Horário Central,
-    Standard: Horário Padrão Central,
-    Daylight: Horário de Verão Central
+  America/Montreal: {
+    Generic: Horário do Leste,
+    Standard: Horário Padrão do Leste,
+    Daylight: Horário de Verão do Leste
   },
-  America/Rainy_River: {
-    Generic: Horário Central,
-    Standard: Horário Padrão Central,
-    Daylight: Horário de Verão Central
+  America/Montserrat: {
+    Generic: Horário do Atlântico,
+    Standard: Horário Padrão do Atlântico,
+    Daylight: Horário de Verão do Atlântico
   },
-  America/Rankin_Inlet: {
-    Generic: Horário Central,
-    Standard: Horário Padrão Central,
-    Daylight: Horário de Verão Central
+  America/Nassau: {
+    Generic: Horário do Leste,
+    Standard: Horário Padrão do Leste,
+    Daylight: Horário de Verão do Leste
   },
-  America/Resolute: {
-    Generic: Horário Central,
-    Standard: Horário Padrão Central,
-    Daylight: Horário de Verão Central
+  America/New_York: {
+    Generic: Horário do Leste,
+    Standard: Horário Padrão do Leste,
+    Daylight: Horário de Verão do Leste
   },
-  America/Matamoros: {
-    Generic: Horário Central,
-    Standard: Horário Padrão Central,
-    Daylight: Horário de Verão Central
+  America/Nipigon: {
+    Generic: Horário do Leste,
+    Standard: Horário Padrão do Leste,
+    Daylight: Horário de Verão do Leste
   },
-  America/Indiana/Knox: {
-    Generic: Horário Central,
-    Standard: Horário Padrão Central,
-    Daylight: Horário de Verão Central
+  America/Nome: {
+    Generic: Horário do Alasca,
+    Standard: Horário Padrão do Alasca,
+    Daylight: Horário de Verão do Alasca
   },
-  America/Indiana/Tell_City: {
-    Generic: Horário Central,
-    Standard: Horário Padrão Central,
-    Daylight: Horário de Verão Central
-  },
-  America/Menominee: {
-    Generic: Horário Central,
-    Standard: Horário Padrão Central,
-    Daylight: Horário de Verão Central
+  America/Noronha: {
+    Generic: Horário de Fernando de Noronha,
+    Standard: Horário Padrão de Fernando de Noronha,
+    Daylight: Horário de Verão de Fernando de Noronha
   },
   America/North_Dakota/Beulah: {
     Generic: Horário Central,
@@ -539,157 +874,17 @@
     Standard: Horário Padrão Central,
     Daylight: Horário de Verão Central
   },
-  CST6CDT: {
-    Generic: Horário Central,
-    Standard: Horário Padrão Central,
-    Daylight: Horário de Verão Central
+  America/Nuuk: {
+    Generic: Horário da Groenlândia Ocidental,
+    Standard: Horário Padrão da Groenlândia Ocidental,
+    Daylight: Horário de Verão da Groenlândia Ocidental
   },
-  Pacific/Chatham: {
-    Generic: Horário de Chatham,
-    Standard: Horário Padrão de Chatham,
-    Daylight: Horário de Verão de Chatham
+  America/Ojinaga: {
+    Generic: Horário das Montanhas,
+    Standard: Horário Padrão das Montanhas,
+    Daylight: Horário de Verão das Montanhas
   },
-  Asia/Shanghai: {
-    Generic: Horário da China,
-    Standard: Horário Padrão da China,
-    Daylight: Horário de Verão da China
-  },
-  Asia/Hong_Kong: {
-    Generic: Horário de Hong Kong,
-    Standard: Horário Padrão de Hong Kong,
-    Daylight: Horário de Verão de Hong Kong
-  },
-  Asia/Macau: {
-    Generic: Horário da China,
-    Standard: Horário Padrão da China,
-    Daylight: Horário de Verão da China
-  },
-  America/Havana: {
-    Generic: Horário de Cuba,
-    Standard: Horário Padrão de Cuba,
-    Daylight: Horário de Verão de Cuba
-  },
-  Etc/GMT+12: {
-    Generic: Horário Universal Coordenado -12,
-    Standard: Horário Universal Coordenado -12,
-    Daylight: Horário Universal Coordenado -12
-  },
-  Africa/Nairobi: {
-    Generic: Horário da África Oriental,
-    Standard: Horário da África Oriental,
-    Daylight: Horário da África Oriental
-  },
-  Antarctica/Syowa: {
-    Generic: Horário de Syowa,
-    Standard: Horário de Syowa,
-    Daylight: Horário de Syowa
-  },
-  Africa/Djibouti: {
-    Generic: Horário da África Oriental,
-    Standard: Horário da África Oriental,
-    Daylight: Horário da África Oriental
-  },
-  Africa/Asmera: {
-    Generic: Horário da África Oriental,
-    Standard: Horário da África Oriental,
-    Daylight: Horário da África Oriental
-  },
-  Africa/Addis_Ababa: {
-    Generic: Horário da África Oriental,
-    Standard: Horário da África Oriental,
-    Daylight: Horário da África Oriental
-  },
-  Indian/Comoro: {
-    Generic: Horário da África Oriental,
-    Standard: Horário da África Oriental,
-    Daylight: Horário da África Oriental
-  },
-  Indian/Antananarivo: {
-    Generic: Horário da África Oriental,
-    Standard: Horário da África Oriental,
-    Daylight: Horário da África Oriental
-  },
-  Africa/Mogadishu: {
-    Generic: Horário da África Oriental,
-    Standard: Horário da África Oriental,
-    Daylight: Horário da África Oriental
-  },
-  Africa/Dar_es_Salaam: {
-    Generic: Horário da África Oriental,
-    Standard: Horário da África Oriental,
-    Daylight: Horário da África Oriental
-  },
-  Africa/Kampala: {
-    Generic: Horário da África Oriental,
-    Standard: Horário da África Oriental,
-    Daylight: Horário da África Oriental
-  },
-  Indian/Mayotte: {
-    Generic: Horário da África Oriental,
-    Standard: Horário da África Oriental,
-    Daylight: Horário da África Oriental
-  },
-  Etc/GMT-3: {
-    Generic: Horário Universal Coordenado +3,
-    Standard: Horário Universal Coordenado +3,
-    Daylight: Horário Universal Coordenado +3
-  },
-  Australia/Brisbane: {
-    Generic: Horário da Austrália Oriental,
-    Standard: Horário Padrão da Austrália Oriental,
-    Daylight: Horário de Verão da Austrália Oriental
-  },
-  Australia/Lindeman: {
-    Generic: Horário da Austrália Oriental,
-    Standard: Horário Padrão da Austrália Oriental,
-    Daylight: Horário de Verão da Austrália Oriental
-  },
-  Europe/Chisinau: {
-    Generic: Horário da Europa Oriental,
-    Standard: Horário Padrão da Europa Oriental,
-    Daylight: Horário de Verão da Europa Oriental
-  },
-  America/Sao_Paulo: {
-    Generic: Horário de Brasília,
-    Standard: Horário Padrão de Brasília,
-    Daylight: Horário de Verão de Brasília
-  },
-  Pacific/Easter: {
-    Generic: Horário da Ilha de Páscoa,
-    Standard: Horário Padrão da Ilha de Páscoa,
-    Daylight: Horário de Verão da Ilha de Páscoa
-  },
-  America/Cancun: {
-    Generic: Horário do Leste,
-    Standard: Horário Padrão do Leste,
-    Daylight: Horário de Verão do Leste
-  },
-  America/New_York: {
-    Generic: Horário do Leste,
-    Standard: Horário Padrão do Leste,
-    Daylight: Horário de Verão do Leste
-  },
-  America/Nassau: {
-    Generic: Horário do Leste,
-    Standard: Horário Padrão do Leste,
-    Daylight: Horário de Verão do Leste
-  },
-  America/Toronto: {
-    Generic: Horário do Leste,
-    Standard: Horário Padrão do Leste,
-    Daylight: Horário de Verão do Leste
-  },
-  America/Iqaluit: {
-    Generic: Horário do Leste,
-    Standard: Horário Padrão do Leste,
-    Daylight: Horário de Verão do Leste
-  },
-  America/Montreal: {
-    Generic: Horário do Leste,
-    Standard: Horário Padrão do Leste,
-    Daylight: Horário de Verão do Leste
-  },
-  America/Nipigon: {
+  America/Panama: {
     Generic: Horário do Leste,
     Standard: Horário Padrão do Leste,
     Daylight: Horário de Verão do Leste
@@ -699,800 +894,130 @@
     Standard: Horário Padrão do Leste,
     Daylight: Horário de Verão do Leste
   },
-  America/Thunder_Bay: {
-    Generic: Horário do Leste,
-    Standard: Horário Padrão do Leste,
-    Daylight: Horário de Verão do Leste
+  America/Paramaribo: {
+    Generic: Horário do Suriname,
+    Standard: Horário do Suriname,
+    Daylight: Horário do Suriname
   },
-  America/Detroit: {
-    Generic: Horário do Leste,
-    Standard: Horário Padrão do Leste,
-    Daylight: Horário de Verão do Leste
-  },
-  America/Indiana/Petersburg: {
-    Generic: Horário do Leste,
-    Standard: Horário Padrão do Leste,
-    Daylight: Horário de Verão do Leste
-  },
-  America/Indiana/Vincennes: {
-    Generic: Horário do Leste,
-    Standard: Horário Padrão do Leste,
-    Daylight: Horário de Verão do Leste
-  },
-  America/Indiana/Winamac: {
-    Generic: Horário do Leste,
-    Standard: Horário Padrão do Leste,
-    Daylight: Horário de Verão do Leste
-  },
-  America/Kentucky/Monticello: {
-    Generic: Horário do Leste,
-    Standard: Horário Padrão do Leste,
-    Daylight: Horário de Verão do Leste
-  },
-  America/Louisville: {
-    Generic: Horário do Leste,
-    Standard: Horário Padrão do Leste,
-    Daylight: Horário de Verão do Leste
-  },
-  EST5EDT: {
-    Generic: Horário do Leste,
-    Standard: Horário Padrão do Leste,
-    Daylight: Horário de Verão do Leste
-  },
-  Africa/Cairo: {
-    Generic: Horário da Europa Oriental,
-    Standard: Horário Padrão da Europa Oriental,
-    Daylight: Horário de Verão da Europa Oriental
-  },
-  Asia/Yekaterinburg: {
-    Generic: Horário Ecaterimburgo,
-    Standard: Horário Padrão: Ecaterimburgo,
-    Daylight: Horário de Verão: Ecaterimburgo
-  },
-  Europe/Kiev: {
-    Generic: Horário da Europa Oriental,
-    Standard: Horário Padrão da Europa Oriental,
-    Daylight: Horário de Verão da Europa Oriental
-  },
-  Europe/Mariehamn: {
-    Generic: Horário da Europa Oriental,
-    Standard: Horário Padrão da Europa Oriental,
-    Daylight: Horário de Verão da Europa Oriental
-  },
-  Europe/Sofia: {
-    Generic: Horário da Europa Oriental,
-    Standard: Horário Padrão da Europa Oriental,
-    Daylight: Horário de Verão da Europa Oriental
-  },
-  Europe/Tallinn: {
-    Generic: Horário da Europa Oriental,
-    Standard: Horário Padrão da Europa Oriental,
-    Daylight: Horário de Verão da Europa Oriental
-  },
-  Europe/Helsinki: {
-    Generic: Horário da Europa Oriental,
-    Standard: Horário Padrão da Europa Oriental,
-    Daylight: Horário de Verão da Europa Oriental
-  },
-  Europe/Vilnius: {
-    Generic: Horário da Europa Oriental,
-    Standard: Horário Padrão da Europa Oriental,
-    Daylight: Horário de Verão da Europa Oriental
-  },
-  Europe/Riga: {
-    Generic: Horário da Europa Oriental,
-    Standard: Horário Padrão da Europa Oriental,
-    Daylight: Horário de Verão da Europa Oriental
-  },
-  Europe/Uzhgorod: {
-    Generic: Horário da Europa Oriental,
-    Standard: Horário Padrão da Europa Oriental,
-    Daylight: Horário de Verão da Europa Oriental
-  },
-  Europe/Zaporozhye: {
-    Generic: Horário da Europa Oriental,
-    Standard: Horário Padrão da Europa Oriental,
-    Daylight: Horário de Verão da Europa Oriental
-  },
-  Pacific/Fiji: {
-    Generic: Horário de Fiji,
-    Standard: Horário Padrão de Fiji,
-    Daylight: Horário de Verão de Fiji
-  },
-  Europe/London: {
-    Generic: Horário Reino Unido,
-    Standard: Horário do Meridiano de Greenwich,
-    Daylight: Horário de Verão Britânico
-  },
-  Atlantic/Canary: {
-    Generic: Horário da Europa Ocidental,
-    Standard: Horário Padrão da Europa Ocidental,
-    Daylight: Horário de Verão da Europa Ocidental
-  },
-  Atlantic/Faeroe: {
-    Generic: Horário da Europa Ocidental,
-    Standard: Horário Padrão da Europa Ocidental,
-    Daylight: Horário de Verão da Europa Ocidental
-  },
-  Europe/Guernsey: {
-    Generic: Horário do Meridiano de Greenwich,
-    Standard: Horário do Meridiano de Greenwich,
-    Daylight: Horário do Meridiano de Greenwich
-  },
-  Europe/Dublin: {
-    Generic: Horário Irlanda,
-    Standard: Horário do Meridiano de Greenwich,
-    Daylight: Horário Padrão Irlandês
-  },
-  Europe/Isle_of_Man: {
-    Generic: Horário do Meridiano de Greenwich,
-    Standard: Horário do Meridiano de Greenwich,
-    Daylight: Horário do Meridiano de Greenwich
-  },
-  Europe/Jersey: {
-    Generic: Horário do Meridiano de Greenwich,
-    Standard: Horário do Meridiano de Greenwich,
-    Daylight: Horário do Meridiano de Greenwich
-  },
-  Europe/Lisbon: {
-    Generic: Horário da Europa Ocidental,
-    Standard: Horário Padrão da Europa Ocidental,
-    Daylight: Horário de Verão da Europa Ocidental
-  },
-  Atlantic/Madeira: {
-    Generic: Horário da Europa Ocidental,
-    Standard: Horário Padrão da Europa Ocidental,
-    Daylight: Horário de Verão da Europa Ocidental
-  },
-  Europe/Bucharest: {
-    Generic: Horário da Europa Oriental,
-    Standard: Horário Padrão da Europa Oriental,
-    Daylight: Horário de Verão da Europa Oriental
-  },
-  Asia/Nicosia: {
-    Generic: Horário da Europa Oriental,
-    Standard: Horário Padrão da Europa Oriental,
-    Daylight: Horário de Verão da Europa Oriental
-  },
-  Asia/Famagusta: {
-    Generic: Horário da Europa Oriental,
-    Standard: Horário Padrão da Europa Oriental,
-    Daylight: Horário de Verão da Europa Oriental
-  },
-  Europe/Athens: {
-    Generic: Horário da Europa Oriental,
-    Standard: Horário Padrão da Europa Oriental,
-    Daylight: Horário de Verão da Europa Oriental
-  },
-  Asia/Tbilisi: {
-    Generic: Horário da Geórgia,
-    Standard: Horário Padrão da Geórgia,
-    Daylight: Horário de Verão da Geórgia
-  },
-  America/Godthab: {
-    Generic: Horário da Groenlândia Ocidental,
-    Standard: Horário Padrão da Groenlândia Ocidental,
-    Daylight: Horário de Verão da Groenlândia Ocidental
-  },
-  Atlantic/Reykjavik: {
-    Generic: Horário do Meridiano de Greenwich,
-    Standard: Horário do Meridiano de Greenwich,
-    Daylight: Horário do Meridiano de Greenwich
-  },
-  Atlantic/St_Helena: {
-    Generic: Horário do Meridiano de Greenwich,
-    Standard: Horário do Meridiano de Greenwich,
-    Daylight: Horário do Meridiano de Greenwich
-  },
-  Africa/Ouagadougou: {
-    Generic: Horário do Meridiano de Greenwich,
-    Standard: Horário do Meridiano de Greenwich,
-    Daylight: Horário do Meridiano de Greenwich
-  },
-  Africa/Abidjan: {
-    Generic: Horário do Meridiano de Greenwich,
-    Standard: Horário do Meridiano de Greenwich,
-    Daylight: Horário do Meridiano de Greenwich
-  },
-  Africa/Accra: {
-    Generic: Horário do Meridiano de Greenwich,
-    Standard: Horário do Meridiano de Greenwich,
-    Daylight: Horário do Meridiano de Greenwich
-  },
-  America/Danmarkshavn: {
-    Generic: Horário do Meridiano de Greenwich,
-    Standard: Horário do Meridiano de Greenwich,
-    Daylight: Horário do Meridiano de Greenwich
-  },
-  Africa/Banjul: {
-    Generic: Horário do Meridiano de Greenwich,
-    Standard: Horário do Meridiano de Greenwich,
-    Daylight: Horário do Meridiano de Greenwich
-  },
-  Africa/Conakry: {
-    Generic: Horário do Meridiano de Greenwich,
-    Standard: Horário do Meridiano de Greenwich,
-    Daylight: Horário do Meridiano de Greenwich
-  },
-  Africa/Bissau: {
-    Generic: Horário do Meridiano de Greenwich,
-    Standard: Horário do Meridiano de Greenwich,
-    Daylight: Horário do Meridiano de Greenwich
-  },
-  Africa/Monrovia: {
-    Generic: Horário do Meridiano de Greenwich,
-    Standard: Horário do Meridiano de Greenwich,
-    Daylight: Horário do Meridiano de Greenwich
-  },
-  Africa/Bamako: {
-    Generic: Horário do Meridiano de Greenwich,
-    Standard: Horário do Meridiano de Greenwich,
-    Daylight: Horário do Meridiano de Greenwich
-  },
-  Africa/Nouakchott: {
-    Generic: Horário do Meridiano de Greenwich,
-    Standard: Horário do Meridiano de Greenwich,
-    Daylight: Horário do Meridiano de Greenwich
-  },
-  Africa/Freetown: {
-    Generic: Horário do Meridiano de Greenwich,
-    Standard: Horário do Meridiano de Greenwich,
-    Daylight: Horário do Meridiano de Greenwich
-  },
-  Africa/Dakar: {
-    Generic: Horário do Meridiano de Greenwich,
-    Standard: Horário do Meridiano de Greenwich,
-    Daylight: Horário do Meridiano de Greenwich
-  },
-  Africa/Lome: {
-    Generic: Horário do Meridiano de Greenwich,
-    Standard: Horário do Meridiano de Greenwich,
-    Daylight: Horário do Meridiano de Greenwich
+  America/Phoenix: {
+    Generic: Horário das Montanhas,
+    Standard: Horário Padrão das Montanhas,
+    Daylight: Horário de Verão das Montanhas
   },
   America/Port-au-Prince: {
     Generic: Horário do Leste,
     Standard: Horário Padrão do Leste,
     Daylight: Horário de Verão do Leste
   },
-  Pacific/Honolulu: {
-    Generic: Horário do Havaí e Ilhas Aleutas,
-    Standard: Horário Padrão do Havaí e Ilhas Aleutas,
-    Daylight: Horário de Verão do Havaí e Ilhas Aleutas
-  },
-  Pacific/Rarotonga: {
-    Generic: Horário das Ilhas Cook,
-    Standard: Horário Padrão das Ilhas Cook,
-    Daylight: Meio Horário de Verão das Ilhas Cook
-  },
-  Pacific/Tahiti: {
-    Generic: Horário do Taiti,
-    Standard: Horário do Taiti,
-    Daylight: Horário do Taiti
-  },
-  Pacific/Johnston: {
-    Generic: Horário do Havaí e Ilhas Aleutas,
-    Standard: Horário Padrão do Havaí e Ilhas Aleutas,
-    Daylight: Horário de Verão do Havaí e Ilhas Aleutas
-  },
-  Etc/GMT+10: {
-    Generic: Horário Universal Coordenado -10,
-    Standard: Horário Universal Coordenado -10,
-    Daylight: Horário Universal Coordenado -10
-  },
-  Asia/Calcutta: {
-    Generic: Horário Padrão da Índia,
-    Standard: Horário Padrão da Índia,
-    Daylight: Horário Padrão da Índia
-  },
-  Asia/Tehran: {
-    Generic: Horário do Irã,
-    Standard: Horário Padrão do Irã,
-    Daylight: Horário de Verão do Irã
-  },
-  Asia/Jerusalem: {
-    Generic: Horário de Israel,
-    Standard: Horário Padrão de Israel,
-    Daylight: Horário de Verão de Israel
-  },
-  Asia/Amman: {
-    Generic: Horário da Europa Oriental,
-    Standard: Horário Padrão da Europa Oriental,
-    Daylight: Horário de Verão da Europa Oriental
-  },
-  Europe/Kaliningrad: {
-    Generic: Horário Kaliningrado,
-    Standard: Horário Padrão: Kaliningrado,
-    Daylight: Horário de Verão: Kaliningrado
-  },
-  Asia/Seoul: {
-    Generic: Horário da Coreia,
-    Standard: Horário Padrão da Coreia,
-    Daylight: Horário de Verão da Coreia
-  },
-  Africa/Tripoli: {
-    Generic: Horário da Europa Oriental,
-    Standard: Horário Padrão da Europa Oriental,
-    Daylight: Horário de Verão da Europa Oriental
-  },
-  Pacific/Kiritimati: {
-    Generic: Horário das Ilhas da Linha,
-    Standard: Horário das Ilhas da Linha,
-    Daylight: Horário das Ilhas da Linha
-  },
-  Etc/GMT-14: {
-    Generic: Horário Universal Coordenado +14,
-    Standard: Horário Universal Coordenado +14,
-    Daylight: Horário Universal Coordenado +14
-  },
-  Australia/Lord_Howe: {
-    Generic: Horário de Lord Howe,
-    Standard: Horário Padrão de Lord Howe,
-    Daylight: Horário de Verão de Lord Howe
-  },
-  Asia/Magadan: {
-    Generic: Horário Magadan,
-    Standard: Horário Padrão: Magadan,
-    Daylight: Horário de Verão: Magadan
-  },
-  America/Punta_Arenas: {
-    Generic: Horário do Chile,
-    Standard: Horário Padrão do Chile,
-    Daylight: Horário de Verão do Chile
-  },
-  Pacific/Marquesas: {
-    Generic: Horário das Marquesas,
-    Standard: Horário das Marquesas,
-    Daylight: Horário das Marquesas
-  },
-  Indian/Mauritius: {
-    Generic: Horário de Maurício,
-    Standard: Horário Padrão de Maurício,
-    Daylight: Horário de Verão de Maurício
-  },
-  Indian/Reunion: {
-    Generic: Horário de Reunião,
-    Standard: Horário de Reunião,
-    Daylight: Horário de Reunião
-  },
-  Indian/Mahe: {
-    Generic: Horário de Seicheles,
-    Standard: Horário de Seicheles,
-    Daylight: Horário de Seicheles
-  },
-  Asia/Beirut: {
-    Generic: Horário da Europa Oriental,
-    Standard: Horário Padrão da Europa Oriental,
-    Daylight: Horário de Verão da Europa Oriental
-  },
-  America/Montevideo: {
-    Generic: Horário do Uruguai,
-    Standard: Horário Padrão do Uruguai,
-    Daylight: Horário de Verão do Uruguai
-  },
-  Africa/Casablanca: {
-    Generic: Horário da Europa Ocidental,
-    Standard: Horário Padrão da Europa Ocidental,
-    Daylight: Horário de Verão da Europa Ocidental
-  },
-  Africa/El_Aaiun: {
-    Generic: Horário da Europa Ocidental,
-    Standard: Horário Padrão da Europa Ocidental,
-    Daylight: Horário de Verão da Europa Ocidental
-  },
-  America/Chihuahua: {
-    Generic: Horário do Pacífico Mexicano,
-    Standard: Horário Padrão do Pacífico Mexicano,
-    Daylight: Horário de Verão do Pacífico Mexicano
-  },
-  America/Mazatlan: {
-    Generic: Horário do Pacífico Mexicano,
-    Standard: Horário Padrão do Pacífico Mexicano,
-    Daylight: Horário de Verão do Pacífico Mexicano
-  },
-  America/Denver: {
-    Generic: Horário das Montanhas,
-    Standard: Horário Padrão das Montanhas,
-    Daylight: Horário de Verão das Montanhas
-  },
-  America/Edmonton: {
-    Generic: Horário das Montanhas,
-    Standard: Horário Padrão das Montanhas,
-    Daylight: Horário de Verão das Montanhas
-  },
-  America/Cambridge_Bay: {
-    Generic: Horário das Montanhas,
-    Standard: Horário Padrão das Montanhas,
-    Daylight: Horário de Verão das Montanhas
-  },
-  America/Inuvik: {
-    Generic: Horário das Montanhas,
-    Standard: Horário Padrão das Montanhas,
-    Daylight: Horário de Verão das Montanhas
-  },
-  America/Yellowknife: {
-    Generic: Horário das Montanhas,
-    Standard: Horário Padrão das Montanhas,
-    Daylight: Horário de Verão das Montanhas
-  },
-  America/Ojinaga: {
-    Generic: Horário das Montanhas,
-    Standard: Horário Padrão das Montanhas,
-    Daylight: Horário de Verão das Montanhas
-  },
-  America/Boise: {
-    Generic: Horário das Montanhas,
-    Standard: Horário Padrão das Montanhas,
-    Daylight: Horário de Verão das Montanhas
-  },
-  MST7MDT: {
-    Generic: Horário das Montanhas,
-    Standard: Horário Padrão das Montanhas,
-    Daylight: Horário de Verão das Montanhas
-  },
-  Asia/Rangoon: {
-    Generic: Horário de Mianmar,
-    Standard: Horário de Mianmar,
-    Daylight: Horário de Mianmar
-  },
-  Indian/Cocos: {
-    Generic: Horário das Ilhas Coco,
-    Standard: Horário das Ilhas Coco,
-    Daylight: Horário das Ilhas Coco
-  },
-  Asia/Novosibirsk: {
-    Generic: Horário Novosibirsk,
-    Standard: Horário Padrão: Novosibirsk,
-    Daylight: Horário de Verão: Novosibirsk
-  },
-  Africa/Windhoek: {
-    Generic: Horário da África Central,
-    Standard: Horário da África Central,
-    Daylight: Horário da África Central
-  },
-  Asia/Katmandu: {
-    Generic: Horário do Nepal,
-    Standard: Horário do Nepal,
-    Daylight: Horário do Nepal
-  },
-  Pacific/Auckland: {
-    Generic: Horário da Nova Zelândia,
-    Standard: Horário Padrão da Nova Zelândia,
-    Daylight: Horário de Verão da Nova Zelândia
-  },
-  Antarctica/McMurdo: {
-    Generic: Horário da Nova Zelândia,
-    Standard: Horário Padrão da Nova Zelândia,
-    Daylight: Horário de Verão da Nova Zelândia
-  },
-  America/St_Johns: {
-    Generic: Horário da Terra Nova,
-    Standard: Horário Padrão da Terra Nova,
-    Daylight: Horário de Verão da Terra Nova
-  },
-  Pacific/Norfolk: {
-    Generic: Horário da Ilha Norfolk,
-    Standard: Horário Padrão da Ilha Norfolk,
-    Daylight: Horário de Verão da Ilha Norfolk
-  },
-  Asia/Irkutsk: {
-    Generic: Horário Irkutsk,
-    Standard: Horário Padrão: Irkutsk,
-    Daylight: Horário de Verão: Irkutsk
-  },
-  Asia/Krasnoyarsk: {
-    Generic: Horário Krasnoyarsk,
-    Standard: Horário Padrão: Krasnoyarsk,
-    Daylight: Horário de Verão: Krasnoyarsk
-  },
-  Asia/Novokuznetsk: {
-    Generic: Horário Novokuznetsk,
-    Standard: Horário Padrão: Novokuznetsk,
-    Daylight: Horário de Verão: Novokuznetsk
-  },
-  Asia/Pyongyang: {
-    Generic: Horário da Coreia,
-    Standard: Horário Padrão da Coreia,
-    Daylight: Horário de Verão da Coreia
-  },
-  Asia/Omsk: {
-    Generic: Horário Omsk,
-    Standard: Horário Padrão: Omsk,
-    Daylight: Horário de Verão: Omsk
-  },
-  America/Santiago: {
-    Generic: Horário do Chile,
-    Standard: Horário Padrão do Chile,
-    Daylight: Horário de Verão do Chile
-  },
-  America/Tijuana: {
-    Generic: Horário do Pacífico,
-    Standard: Horário Padrão do Pacífico,
-    Daylight: Horário de Verão do Pacífico
-  },
-  America/Santa_Isabel: {
-    Generic: Horário do Noroeste do México,
-    Standard: Horário Padrão do Noroeste do México,
-    Daylight: Horário de Verão do Noroeste do México
-  },
-  America/Los_Angeles: {
-    Generic: Horário do Pacífico,
-    Standard: Horário Padrão do Pacífico,
-    Daylight: Horário de Verão do Pacífico
-  },
-  America/Vancouver: {
-    Generic: Horário do Pacífico,
-    Standard: Horário Padrão do Pacífico,
-    Daylight: Horário de Verão do Pacífico
-  },
-  PST8PDT: {
-    Generic: Horário do Pacífico,
-    Standard: Horário Padrão do Pacífico,
-    Daylight: Horário de Verão do Pacífico
-  },
-  Asia/Karachi: {
-    Generic: Horário do Paquistão,
-    Standard: Horário Padrão do Paquistão,
-    Daylight: Horário de Verão do Paquistão
-  },
-  America/Asuncion: {
-    Generic: Horário do Paraguai,
-    Standard: Horário Padrão do Paraguai,
-    Daylight: Horário de Verão do Paraguai
-  },
-  Asia/Qyzylorda: {
-    Generic: Horário do Casaquistão Ocidental,
-    Standard: Horário do Casaquistão Ocidental,
-    Daylight: Horário do Casaquistão Ocidental
-  },
-  Europe/Paris: {
-    Generic: Horário da Europa Central,
-    Standard: Horário Padrão da Europa Central,
-    Daylight: Horário de Verão da Europa Central
-  },
-  Europe/Brussels: {
-    Generic: Horário da Europa Central,
-    Standard: Horário Padrão da Europa Central,
-    Daylight: Horário de Verão da Europa Central
-  },
-  Europe/Copenhagen: {
-    Generic: Horário da Europa Central,
-    Standard: Horário Padrão da Europa Central,
-    Daylight: Horário de Verão da Europa Central
-  },
-  Africa/Ceuta: {
-    Generic: Horário da Europa Central,
-    Standard: Horário Padrão da Europa Central,
-    Daylight: Horário de Verão da Europa Central
-  },
-  Europe/Madrid: {
-    Generic: Horário da Europa Central,
-    Standard: Horário Padrão da Europa Central,
-    Daylight: Horário de Verão da Europa Central
-  },
-  Asia/Srednekolymsk: {
-    Generic: Horário Srednekolymsk,
-    Standard: Horário Padrão: Srednekolymsk,
-    Daylight: Horário de Verão: Srednekolymsk
-  },
-  Asia/Kamchatka: {
-    Generic: Horário Kamchatka,
-    Standard: Horário Padrão: Kamchatka,
-    Daylight: Horário de Verão: Kamchatka
-  },
-  Asia/Anadyr: {
-    Generic: Horário Anadyr,
-    Standard: Horário Padrão: Anadyr,
-    Daylight: Horário de Verão: Anadyr
-  },
-  Europe/Samara: {
-    Generic: Horário Samara,
-    Standard: Horário Padrão: Samara,
-    Daylight: Horário de Verão: Samara
-  },
-  Europe/Moscow: {
-    Generic: Horário Moscou,
-    Standard: Horário Padrão: Moscou,
-    Daylight: Horário de Verão: Moscou
-  },
-  Europe/Kirov: {
-    Generic: Horário Kirov,
-    Standard: Horário Padrão: Kirov,
-    Daylight: Horário de Verão: Kirov
-  },
-  Europe/Simferopol: {
-    Generic: Horário de Moscou,
-    Standard: Horário Padrão de Moscou,
-    Daylight: Horário de Verão de Moscou
-  },
-  America/Cayenne: {
-    Generic: Horário da Guiana Francesa,
-    Standard: Horário da Guiana Francesa,
-    Daylight: Horário da Guiana Francesa
-  },
-  Antarctica/Rothera: {
-    Generic: Horário de Rothera,
-    Standard: Horário de Rothera,
-    Daylight: Horário de Rothera
-  },
-  Antarctica/Palmer: {
-    Generic: Horário do Chile,
-    Standard: Horário Padrão do Chile,
-    Daylight: Horário de Verão do Chile
-  },
-  America/Fortaleza: {
-    Generic: Horário de Brasília,
-    Standard: Horário Padrão de Brasília,
-    Daylight: Horário de Verão de Brasília
-  },
-  America/Belem: {
-    Generic: Horário de Brasília,
-    Standard: Horário Padrão de Brasília,
-    Daylight: Horário de Verão de Brasília
-  },
-  America/Maceio: {
-    Generic: Horário de Brasília,
-    Standard: Horário Padrão de Brasília,
-    Daylight: Horário de Verão de Brasília
-  },
-  America/Recife: {
-    Generic: Horário de Brasília,
-    Standard: Horário Padrão de Brasília,
-    Daylight: Horário de Verão de Brasília
-  },
-  America/Santarem: {
-    Generic: Horário de Brasília,
-    Standard: Horário Padrão de Brasília,
-    Daylight: Horário de Verão de Brasília
-  },
-  Atlantic/Stanley: {
-    Generic: Horário das Ilhas Malvinas,
-    Standard: Horário Padrão das Ilhas Malvinas,
-    Daylight: Horário de Verão das Ilhas Malvinas
-  },
-  America/Paramaribo: {
-    Generic: Horário do Suriname,
-    Standard: Horário do Suriname,
-    Daylight: Horário do Suriname
-  },
-  Etc/GMT+3: {
-    Generic: Horário Universal Coordenado -3,
-    Standard: Horário Universal Coordenado -3,
-    Daylight: Horário Universal Coordenado -3
-  },
-  America/Bogota: {
-    Generic: Horário da Colômbia,
-    Standard: Horário Padrão da Colômbia,
-    Daylight: Horário de Verão da Colômbia
-  },
-  America/Rio_Branco: {
+  America/Port_of_Spain: {
+    Generic: Horário do Atlântico,
+    Standard: Horário Padrão do Atlântico,
+    Daylight: Horário de Verão do Atlântico
+  },
+  America/Porto_Acre: {
     Generic: Horário do Acre,
     Standard: Horário Padrão do Acre,
     Daylight: Horário de Verão do Acre
-  },
-  America/Eirunepe: {
-    Generic: Horário do Acre,
-    Standard: Horário Padrão do Acre,
-    Daylight: Horário de Verão do Acre
-  },
-  America/Coral_Harbour: {
-    Generic: Horário do Leste,
-    Standard: Horário Padrão do Leste,
-    Daylight: Horário de Verão do Leste
-  },
-  America/Guayaquil: {
-    Generic: Horário do Equador,
-    Standard: Horário do Equador,
-    Daylight: Horário do Equador
-  },
-  America/Jamaica: {
-    Generic: Horário do Leste,
-    Standard: Horário Padrão do Leste,
-    Daylight: Horário de Verão do Leste
-  },
-  America/Cayman: {
-    Generic: Horário do Leste,
-    Standard: Horário Padrão do Leste,
-    Daylight: Horário de Verão do Leste
-  },
-  America/Panama: {
-    Generic: Horário do Leste,
-    Standard: Horário Padrão do Leste,
-    Daylight: Horário de Verão do Leste
-  },
-  America/Lima: {
-    Generic: Horário do Peru,
-    Standard: Horário Padrão do Peru,
-    Daylight: Horário de Verão do Peru
-  },
-  Etc/GMT+5: {
-    Generic: Horário Universal Coordenado -5,
-    Standard: Horário Universal Coordenado -5,
-    Daylight: Horário Universal Coordenado -5
-  },
-  America/La_Paz: {
-    Generic: Horário da Bolívia,
-    Standard: Horário da Bolívia,
-    Daylight: Horário da Bolívia
-  },
-  America/Antigua: {
-    Generic: Horário do Atlântico,
-    Standard: Horário Padrão do Atlântico,
-    Daylight: Horário de Verão do Atlântico
-  },
-  America/Anguilla: {
-    Generic: Horário do Atlântico,
-    Standard: Horário Padrão do Atlântico,
-    Daylight: Horário de Verão do Atlântico
-  },
-  America/Aruba: {
-    Generic: Horário do Atlântico,
-    Standard: Horário Padrão do Atlântico,
-    Daylight: Horário de Verão do Atlântico
-  },
-  America/Barbados: {
-    Generic: Horário do Atlântico,
-    Standard: Horário Padrão do Atlântico,
-    Daylight: Horário de Verão do Atlântico
-  },
-  America/St_Barthelemy: {
-    Generic: Horário do Atlântico,
-    Standard: Horário Padrão do Atlântico,
-    Daylight: Horário de Verão do Atlântico
-  },
-  America/Kralendijk: {
-    Generic: Horário do Atlântico,
-    Standard: Horário Padrão do Atlântico,
-    Daylight: Horário de Verão do Atlântico
-  },
-  America/Manaus: {
-    Generic: Horário do Amazonas,
-    Standard: Horário Padrão do Amazonas,
-    Daylight: Horário de Verão do Amazonas
-  },
-  America/Boa_Vista: {
-    Generic: Horário do Amazonas,
-    Standard: Horário Padrão do Amazonas,
-    Daylight: Horário de Verão do Amazonas
   },
   America/Porto_Velho: {
     Generic: Horário do Amazonas,
     Standard: Horário Padrão do Amazonas,
     Daylight: Horário de Verão do Amazonas
   },
-  America/Blanc-Sablon: {
+  America/Puerto_Rico: {
     Generic: Horário do Atlântico,
     Standard: Horário Padrão do Atlântico,
     Daylight: Horário de Verão do Atlântico
   },
-  America/Curacao: {
-    Generic: Horário do Atlântico,
-    Standard: Horário Padrão do Atlântico,
-    Daylight: Horário de Verão do Atlântico
+  America/Punta_Arenas: {
+    Generic: Horário do Chile,
+    Standard: Horário Padrão do Chile,
+    Daylight: Horário de Verão do Chile
   },
-  America/Dominica: {
-    Generic: Horário do Atlântico,
-    Standard: Horário Padrão do Atlântico,
-    Daylight: Horário de Verão do Atlântico
+  America/Rainy_River: {
+    Generic: Horário Central,
+    Standard: Horário Padrão Central,
+    Daylight: Horário de Verão Central
+  },
+  America/Rankin_Inlet: {
+    Generic: Horário Central,
+    Standard: Horário Padrão Central,
+    Daylight: Horário de Verão Central
+  },
+  America/Recife: {
+    Generic: Horário de Brasília,
+    Standard: Horário Padrão de Brasília,
+    Daylight: Horário de Verão de Brasília
+  },
+  America/Regina: {
+    Generic: Horário Central,
+    Standard: Horário Padrão Central,
+    Daylight: Horário de Verão Central
+  },
+  America/Resolute: {
+    Generic: Horário Central,
+    Standard: Horário Padrão Central,
+    Daylight: Horário de Verão Central
+  },
+  America/Rio_Branco: {
+    Generic: Horário do Acre,
+    Standard: Horário Padrão do Acre,
+    Daylight: Horário de Verão do Acre
+  },
+  America/Rosario: {
+    Generic: Horário da Argentina,
+    Standard: Horário Padrão da Argentina,
+    Daylight: Horário de Verão da Argentina
+  },
+  America/Santa_Isabel: {
+    Generic: Horário do Noroeste do México,
+    Standard: Horário Padrão do Noroeste do México,
+    Daylight: Horário de Verão do Noroeste do México
+  },
+  America/Santarem: {
+    Generic: Horário de Brasília,
+    Standard: Horário Padrão de Brasília,
+    Daylight: Horário de Verão de Brasília
+  },
+  America/Santiago: {
+    Generic: Horário do Chile,
+    Standard: Horário Padrão do Chile,
+    Daylight: Horário de Verão do Chile
   },
   America/Santo_Domingo: {
     Generic: Horário do Atlântico,
     Standard: Horário Padrão do Atlântico,
     Daylight: Horário de Verão do Atlântico
   },
-  America/Grenada: {
+  America/Sao_Paulo: {
+    Generic: Horário de Brasília,
+    Standard: Horário Padrão de Brasília,
+    Daylight: Horário de Verão de Brasília
+  },
+  America/Scoresbysund: {
+    Generic: Horário da Groelândia Oriental,
+    Standard: Horário Padrão da Groelândia Oriental,
+    Daylight: Horário de Verão da Groelândia Oriental
+  },
+  America/Shiprock: {
+    Generic: Horário das Montanhas,
+    Standard: Horário Padrão das Montanhas,
+    Daylight: Horário de Verão das Montanhas
+  },
+  America/Sitka: {
+    Generic: Horário do Alasca,
+    Standard: Horário Padrão do Alasca,
+    Daylight: Horário de Verão do Alasca
+  },
+  America/St_Barthelemy: {
     Generic: Horário do Atlântico,
     Standard: Horário Padrão do Atlântico,
     Daylight: Horário de Verão do Atlântico
   },
-  America/Guadeloupe: {
-    Generic: Horário do Atlântico,
-    Standard: Horário Padrão do Atlântico,
-    Daylight: Horário de Verão do Atlântico
-  },
-  America/Guyana: {
-    Generic: Horário da Guiana,
-    Standard: Horário da Guiana,
-    Daylight: Horário da Guiana
+  America/St_Johns: {
+    Generic: Horário da Terra Nova,
+    Standard: Horário Padrão da Terra Nova,
+    Daylight: Horário de Verão da Terra Nova
   },
   America/St_Kitts: {
     Generic: Horário do Atlântico,
@@ -1504,32 +1029,7 @@
     Standard: Horário Padrão do Atlântico,
     Daylight: Horário de Verão do Atlântico
   },
-  America/Marigot: {
-    Generic: Horário do Atlântico,
-    Standard: Horário Padrão do Atlântico,
-    Daylight: Horário de Verão do Atlântico
-  },
-  America/Martinique: {
-    Generic: Horário do Atlântico,
-    Standard: Horário Padrão do Atlântico,
-    Daylight: Horário de Verão do Atlântico
-  },
-  America/Montserrat: {
-    Generic: Horário do Atlântico,
-    Standard: Horário Padrão do Atlântico,
-    Daylight: Horário de Verão do Atlântico
-  },
-  America/Puerto_Rico: {
-    Generic: Horário do Atlântico,
-    Standard: Horário Padrão do Atlântico,
-    Daylight: Horário de Verão do Atlântico
-  },
-  America/Lower_Princes: {
-    Generic: Horário do Atlântico,
-    Standard: Horário Padrão do Atlântico,
-    Daylight: Horário de Verão do Atlântico
-  },
-  America/Port_of_Spain: {
+  America/St_Thomas: {
     Generic: Horário do Atlântico,
     Standard: Horário Padrão do Atlântico,
     Daylight: Horário de Verão do Atlântico
@@ -1539,655 +1039,155 @@
     Standard: Horário Padrão do Atlântico,
     Daylight: Horário de Verão do Atlântico
   },
+  America/Swift_Current: {
+    Generic: Horário Central,
+    Standard: Horário Padrão Central,
+    Daylight: Horário de Verão Central
+  },
+  America/Tegucigalpa: {
+    Generic: Horário Central,
+    Standard: Horário Padrão Central,
+    Daylight: Horário de Verão Central
+  },
+  America/Thule: {
+    Generic: Horário do Atlântico,
+    Standard: Horário Padrão do Atlântico,
+    Daylight: Horário de Verão do Atlântico
+  },
+  America/Thunder_Bay: {
+    Generic: Horário do Leste,
+    Standard: Horário Padrão do Leste,
+    Daylight: Horário de Verão do Leste
+  },
+  America/Tijuana: {
+    Generic: Horário do Pacífico,
+    Standard: Horário Padrão do Pacífico,
+    Daylight: Horário de Verão do Pacífico
+  },
+  America/Toronto: {
+    Generic: Horário do Leste,
+    Standard: Horário Padrão do Leste,
+    Daylight: Horário de Verão do Leste
+  },
   America/Tortola: {
     Generic: Horário do Atlântico,
     Standard: Horário Padrão do Atlântico,
     Daylight: Horário de Verão do Atlântico
   },
-  America/St_Thomas: {
+  America/Vancouver: {
+    Generic: Horário do Pacífico,
+    Standard: Horário Padrão do Pacífico,
+    Daylight: Horário de Verão do Pacífico
+  },
+  America/Virgin: {
     Generic: Horário do Atlântico,
     Standard: Horário Padrão do Atlântico,
     Daylight: Horário de Verão do Atlântico
   },
-  Etc/GMT+4: {
-    Generic: Horário Universal Coordenado -4,
-    Standard: Horário Universal Coordenado -4,
-    Daylight: Horário Universal Coordenado -4
+  America/Whitehorse: {
+    Generic: Horário do Yukon,
+    Standard: Horário do Yukon,
+    Daylight: Horário do Yukon
   },
-  Asia/Bangkok: {
-    Generic: Horário da Indochina,
-    Standard: Horário da Indochina,
-    Daylight: Horário da Indochina
+  America/Winnipeg: {
+    Generic: Horário Central,
+    Standard: Horário Padrão Central,
+    Daylight: Horário de Verão Central
+  },
+  America/Yakutat: {
+    Generic: Horário do Alasca,
+    Standard: Horário Padrão do Alasca,
+    Daylight: Horário de Verão do Alasca
+  },
+  America/Yellowknife: {
+    Generic: Horário das Montanhas,
+    Standard: Horário Padrão das Montanhas,
+    Daylight: Horário de Verão das Montanhas
+  },
+  Antarctica/Casey: {
+    Generic: Horário Antártida,
+    Standard: Horário Padrão: Antártida,
+    Daylight: Horário de Verão: Antártida
   },
   Antarctica/Davis: {
     Generic: Horário de Davis,
     Standard: Horário de Davis,
     Daylight: Horário de Davis
   },
-  Indian/Christmas: {
-    Generic: Horário da Ilha Christmas,
-    Standard: Horário da Ilha Christmas,
-    Daylight: Horário da Ilha Christmas
-  },
-  Asia/Jakarta: {
-    Generic: Horário da Indonésia Ocidental,
-    Standard: Horário da Indonésia Ocidental,
-    Daylight: Horário da Indonésia Ocidental
-  },
-  Asia/Pontianak: {
-    Generic: Horário da Indonésia Ocidental,
-    Standard: Horário da Indonésia Ocidental,
-    Daylight: Horário da Indonésia Ocidental
-  },
-  Asia/Phnom_Penh: {
-    Generic: Horário da Indochina,
-    Standard: Horário da Indochina,
-    Daylight: Horário da Indochina
-  },
-  Asia/Vientiane: {
-    Generic: Horário da Indochina,
-    Standard: Horário da Indochina,
-    Daylight: Horário da Indochina
-  },
-  Asia/Saigon: {
-    Generic: Horário da Indochina,
-    Standard: Horário da Indochina,
-    Daylight: Horário da Indochina
-  },
-  Etc/GMT-7: {
-    Generic: Horário Universal Coordenado +7,
-    Standard: Horário Universal Coordenado +7,
-    Daylight: Horário Universal Coordenado +7
-  },
-  America/Miquelon: {
-    Generic: Horário de São Pedro e Miquelão,
-    Standard: Horário Padrão de São Pedro e Miquelão,
-    Daylight: Horário Verão de São Pedro e Miquelão
-  },
-  Asia/Sakhalin: {
-    Generic: Horário Sacalina,
-    Standard: Horário Padrão: Sacalina,
-    Daylight: Horário de Verão: Sacalina
-  },
-  Pacific/Apia: {
-    Generic: Horário de Apia,
-    Standard: Horário Padrão de Apia,
-    Daylight: Horário de Verão de Apia
-  },
-  Africa/Sao_Tome: {
-    Generic: Horário do Meridiano de Greenwich,
-    Standard: Horário do Meridiano de Greenwich,
-    Daylight: Horário do Meridiano de Greenwich
-  },
-  Europe/Saratov: {
-    Generic: Horário Saratov,
-    Standard: Horário Padrão: Saratov,
-    Daylight: Horário de Verão: Saratov
-  },
-  Asia/Singapore: {
-    Generic: Horário Padrão de Singapura,
-    Standard: Horário Padrão de Singapura,
-    Daylight: Horário Padrão de Singapura
-  },
-  Asia/Brunei: {
-    Generic: Horário de Brunei Darussalam,
-    Standard: Horário de Brunei Darussalam,
-    Daylight: Horário de Brunei Darussalam
-  },
-  Asia/Makassar: {
-    Generic: Horário da Indonésia Central,
-    Standard: Horário da Indonésia Central,
-    Daylight: Horário da Indonésia Central
-  },
-  Asia/Kuala_Lumpur: {
-    Generic: Horário da Malásia,
-    Standard: Horário da Malásia,
-    Daylight: Horário da Malásia
-  },
-  Asia/Kuching: {
-    Generic: Horário da Malásia,
-    Standard: Horário da Malásia,
-    Daylight: Horário da Malásia
-  },
-  Asia/Manila: {
-    Generic: Horário das Filipinas,
-    Standard: Horário Padrão das Filipinas,
-    Daylight: Horário de Verão das Filipinas
-  },
-  Etc/GMT-8: {
-    Generic: Horário Universal Coordenado +8,
-    Standard: Horário Universal Coordenado +8,
-    Daylight: Horário Universal Coordenado +8
-  },
-  Africa/Johannesburg: {
-    Generic: Horário da África do Sul,
-    Standard: Horário da África do Sul,
-    Daylight: Horário da África do Sul
-  },
-  Africa/Bujumbura: {
-    Generic: Horário da África Central,
-    Standard: Horário da África Central,
-    Daylight: Horário da África Central
-  },
-  Africa/Gaborone: {
-    Generic: Horário da África Central,
-    Standard: Horário da África Central,
-    Daylight: Horário da África Central
-  },
-  Africa/Lubumbashi: {
-    Generic: Horário da África Central,
-    Standard: Horário da África Central,
-    Daylight: Horário da África Central
-  },
-  Africa/Maseru: {
-    Generic: Horário da África do Sul,
-    Standard: Horário da África do Sul,
-    Daylight: Horário da África do Sul
-  },
-  Africa/Blantyre: {
-    Generic: Horário da África Central,
-    Standard: Horário da África Central,
-    Daylight: Horário da África Central
-  },
-  Africa/Maputo: {
-    Generic: Horário da África Central,
-    Standard: Horário da África Central,
-    Daylight: Horário da África Central
-  },
-  Africa/Kigali: {
-    Generic: Horário da África Central,
-    Standard: Horário da África Central,
-    Daylight: Horário da África Central
-  },
-  Africa/Mbabane: {
-    Generic: Horário da África do Sul,
-    Standard: Horário da África do Sul,
-    Daylight: Horário da África do Sul
-  },
-  Africa/Lusaka: {
-    Generic: Horário da África Central,
-    Standard: Horário da África Central,
-    Daylight: Horário da África Central
-  },
-  Africa/Harare: {
-    Generic: Horário da África Central,
-    Standard: Horário da África Central,
-    Daylight: Horário da África Central
-  },
-  Etc/GMT-2: {
-    Generic: Horário Universal Coordenado +2,
-    Standard: Horário Universal Coordenado +2,
-    Daylight: Horário Universal Coordenado +2
-  },
-  Africa/Juba: {
-    Generic: Horário da África Central,
-    Standard: Horário da África Central,
-    Daylight: Horário da África Central
-  },
-  Asia/Colombo: {
-    Generic: Horário Padrão da Índia,
-    Standard: Horário Padrão da Índia,
-    Daylight: Horário Padrão da Índia
-  },
-  Africa/Khartoum: {
-    Generic: Horário da África Central,
-    Standard: Horário da África Central,
-    Daylight: Horário da África Central
-  },
-  Asia/Damascus: {
-    Generic: Horário da Europa Oriental,
-    Standard: Horário Padrão da Europa Oriental,
-    Daylight: Horário de Verão da Europa Oriental
-  },
-  Asia/Taipei: {
-    Generic: Horário de Taipei,
-    Standard: Horário Padrão de Taipei,
-    Daylight: Horário de Verão de Taipei
-  },
-  Australia/Hobart: {
-    Generic: Horário da Austrália Oriental,
-    Standard: Horário Padrão da Austrália Oriental,
-    Daylight: Horário de Verão da Austrália Oriental
-  },
-  Australia/Currie: {
-    Generic: Horário da Austrália Oriental,
-    Standard: Horário Padrão da Austrália Oriental,
-    Daylight: Horário de Verão da Austrália Oriental
+  Antarctica/DumontDUrville: {
+    Generic: Horário de Dumont-d’Urville,
+    Standard: Horário de Dumont-d’Urville,
+    Daylight: Horário de Dumont-d’Urville
   },
   Antarctica/Macquarie: {
     Generic: Horário da Austrália Oriental,
     Standard: Horário Padrão da Austrália Oriental,
     Daylight: Horário de Verão da Austrália Oriental
   },
-  America/Araguaina: {
-    Generic: Horário de Brasília,
-    Standard: Horário Padrão de Brasília,
-    Daylight: Horário de Verão de Brasília
+  Antarctica/Mawson: {
+    Generic: Horário de Mawson,
+    Standard: Horário de Mawson,
+    Daylight: Horário de Mawson
   },
-  Asia/Tokyo: {
-    Generic: Horário do Japão,
-    Standard: Horário Padrão do Japão,
-    Daylight: Horário de Verão do Japão
+  Antarctica/McMurdo: {
+    Generic: Horário da Nova Zelândia,
+    Standard: Horário Padrão da Nova Zelândia,
+    Daylight: Horário de Verão da Nova Zelândia
   },
-  Asia/Jayapura: {
-    Generic: Horário da Indonésia Oriental,
-    Standard: Horário da Indonésia Oriental,
-    Daylight: Horário da Indonésia Oriental
+  Antarctica/Palmer: {
+    Generic: Horário do Chile,
+    Standard: Horário Padrão do Chile,
+    Daylight: Horário de Verão do Chile
   },
-  Pacific/Palau: {
-    Generic: Horário de Palau,
-    Standard: Horário de Palau,
-    Daylight: Horário de Palau
+  Antarctica/Rothera: {
+    Generic: Horário de Rothera,
+    Standard: Horário de Rothera,
+    Daylight: Horário de Rothera
   },
-  Asia/Dili: {
-    Generic: Horário do Timor-Leste,
-    Standard: Horário do Timor-Leste,
-    Daylight: Horário do Timor-Leste
+  Antarctica/South_Pole: {
+    Generic: Horário da Nova Zelândia,
+    Standard: Horário Padrão da Nova Zelândia,
+    Daylight: Horário de Verão da Nova Zelândia
   },
-  Etc/GMT-9: {
-    Generic: Horário Universal Coordenado +9,
-    Standard: Horário Universal Coordenado +9,
-    Daylight: Horário Universal Coordenado +9
+  Antarctica/Syowa: {
+    Generic: Horário de Syowa,
+    Standard: Horário de Syowa,
+    Daylight: Horário de Syowa
   },
-  Asia/Tomsk: {
-    Generic: Horário Tomsk,
-    Standard: Horário Padrão: Tomsk,
-    Daylight: Horário de Verão: Tomsk
-  },
-  Pacific/Tongatapu: {
-    Generic: Horário de Tonga,
-    Standard: Horário Padrão de Tonga,
-    Daylight: Horário de Verão de Tonga
-  },
-  Asia/Chita: {
-    Generic: Horário Chita,
-    Standard: Horário Padrão: Chita,
-    Daylight: Horário de Verão: Chita
-  },
-  Europe/Istanbul: {
-    Generic: Horário Turquia,
-    Standard: Horário Padrão: Turquia,
-    Daylight: Horário de Verão: Turquia
-  },
-  America/Grand_Turk: {
-    Generic: Horário do Leste,
-    Standard: Horário Padrão do Leste,
-    Daylight: Horário de Verão do Leste
-  },
-  America/Indianapolis: {
-    Generic: Horário do Leste,
-    Standard: Horário Padrão do Leste,
-    Daylight: Horário de Verão do Leste
-  },
-  America/Indiana/Marengo: {
-    Generic: Horário do Leste,
-    Standard: Horário Padrão do Leste,
-    Daylight: Horário de Verão do Leste
-  },
-  America/Indiana/Vevay: {
-    Generic: Horário do Leste,
-    Standard: Horário Padrão do Leste,
-    Daylight: Horário de Verão do Leste
-  },
-  America/Phoenix: {
-    Generic: Horário das Montanhas,
-    Standard: Horário Padrão das Montanhas,
-    Daylight: Horário de Verão das Montanhas
-  },
-  America/Creston: {
-    Generic: Horário das Montanhas,
-    Standard: Horário Padrão das Montanhas,
-    Daylight: Horário de Verão das Montanhas
-  },
-  America/Dawson_Creek: {
-    Generic: Horário das Montanhas,
-    Standard: Horário Padrão das Montanhas,
-    Daylight: Horário de Verão das Montanhas
-  },
-  America/Fort_Nelson: {
-    Generic: Horário das Montanhas,
-    Standard: Horário Padrão das Montanhas,
-    Daylight: Horário de Verão das Montanhas
-  },
-  America/Hermosillo: {
-    Generic: Horário do Pacífico Mexicano,
-    Standard: Horário Padrão do Pacífico Mexicano,
-    Daylight: Horário de Verão do Pacífico Mexicano
-  },
-  Etc/GMT+7: {
-    Generic: Horário Universal Coordenado -7,
-    Standard: Horário Universal Coordenado -7,
-    Daylight: Horário Universal Coordenado -7
-  },
-  Etc/GMT-12: {
-    Generic: Horário Universal Coordenado +12,
-    Standard: Horário Universal Coordenado +12,
-    Daylight: Horário Universal Coordenado +12
-  },
-  Pacific/Tarawa: {
-    Generic: Horário das Ilhas Gilberto,
-    Standard: Horário das Ilhas Gilberto,
-    Daylight: Horário das Ilhas Gilberto
-  },
-  Pacific/Majuro: {
-    Generic: Horário das Ilhas Marshall,
-    Standard: Horário das Ilhas Marshall,
-    Daylight: Horário das Ilhas Marshall
-  },
-  Pacific/Kwajalein: {
-    Generic: Horário das Ilhas Marshall,
-    Standard: Horário das Ilhas Marshall,
-    Daylight: Horário das Ilhas Marshall
-  },
-  Pacific/Nauru: {
-    Generic: Horário de Nauru,
-    Standard: Horário de Nauru,
-    Daylight: Horário de Nauru
-  },
-  Pacific/Funafuti: {
-    Generic: Horário de Tuvalu,
-    Standard: Horário de Tuvalu,
-    Daylight: Horário de Tuvalu
-  },
-  Pacific/Wake: {
-    Generic: Horário das Ilhas Wake,
-    Standard: Horário das Ilhas Wake,
-    Daylight: Horário das Ilhas Wake
-  },
-  Pacific/Wallis: {
-    Generic: Horário de Wallis e Futuna,
-    Standard: Horário de Wallis e Futuna,
-    Daylight: Horário de Wallis e Futuna
-  },
-  Etc/GMT-13: {
-    Generic: Horário Universal Coordenado +13,
-    Standard: Horário Universal Coordenado +13,
-    Daylight: Horário Universal Coordenado +13
-  },
-  Pacific/Enderbury: {
-    Generic: Horário das Ilhas Fênix,
-    Standard: Horário das Ilhas Fênix,
-    Daylight: Horário das Ilhas Fênix
-  },
-  Pacific/Fakaofo: {
-    Generic: Horário de Tokelau,
-    Standard: Horário de Tokelau,
-    Daylight: Horário de Tokelau
-  },
-  Etc/UTC: {
-    Generic: Horário Universal Coordenado,
-    Standard: Horário Universal Coordenado,
-    Daylight: Horário Universal Coordenado
-  },
-  Etc/GMT: {
+  Antarctica/Troll: {
     Generic: Horário do Meridiano de Greenwich,
     Standard: Horário do Meridiano de Greenwich,
     Daylight: Horário do Meridiano de Greenwich
   },
-  Etc/GMT+2: {
-    Generic: Horário Universal Coordenado -2,
-    Standard: Horário Universal Coordenado -2,
-    Daylight: Horário Universal Coordenado -2
-  },
-  America/Noronha: {
-    Generic: Horário de Fernando de Noronha,
-    Standard: Horário Padrão de Fernando de Noronha,
-    Daylight: Horário de Verão de Fernando de Noronha
-  },
-  Atlantic/South_Georgia: {
-    Generic: Horário da Geórgia do Sul,
-    Standard: Horário da Geórgia do Sul,
-    Daylight: Horário da Geórgia do Sul
-  },
-  Etc/GMT+8: {
-    Generic: Horário Universal Coordenado -8,
-    Standard: Horário Universal Coordenado -8,
-    Daylight: Horário Universal Coordenado -8
-  },
-  Pacific/Pitcairn: {
-    Generic: Horário de Pitcairn,
-    Standard: Horário de Pitcairn,
-    Daylight: Horário de Pitcairn
-  },
-  Etc/GMT+9: {
-    Generic: Horário Universal Coordenado -9,
-    Standard: Horário Universal Coordenado -9,
-    Daylight: Horário Universal Coordenado -9
-  },
-  Pacific/Gambier: {
-    Generic: Horário de Gambier,
-    Standard: Horário de Gambier,
-    Daylight: Horário de Gambier
-  },
-  Etc/GMT+11: {
-    Generic: Horário Universal Coordenado -11,
-    Standard: Horário Universal Coordenado -11,
-    Daylight: Horário Universal Coordenado -11
-  },
-  Pacific/Pago_Pago: {
-    Generic: Horário de Samoa,
-    Standard: Horário Padrão de Samoa,
-    Daylight: Horário de Verão de Samoa
-  },
-  Pacific/Niue: {
-    Generic: Horário de Niue,
-    Standard: Horário de Niue,
-    Daylight: Horário de Niue
-  },
-  Pacific/Midway: {
-    Generic: Horário de Samoa,
-    Standard: Horário Padrão de Samoa,
-    Daylight: Horário de Verão de Samoa
-  },
-  Asia/Ulaanbaatar: {
-    Generic: Horário de Ulan Bator,
-    Standard: Horário Padrão de Ulan Bator,
-    Daylight: Horário de Verão de Ulan Bator
-  },
-  Asia/Choibalsan: {
-    Generic: Horário de Ulan Bator,
-    Standard: Horário Padrão de Ulan Bator,
-    Daylight: Horário de Verão de Ulan Bator
-  },
-  America/Caracas: {
-    Generic: Horário da Venezuela,
-    Standard: Horário da Venezuela,
-    Daylight: Horário da Venezuela
-  },
-  Asia/Vladivostok: {
-    Generic: Horário Vladivostok,
-    Standard: Horário Padrão: Vladivostok,
-    Daylight: Horário de Verão: Vladivostok
-  },
-  Asia/Ust-Nera: {
-    Generic: Horário Ust-Nera,
-    Standard: Horário Padrão: Ust-Nera,
-    Daylight: Horário de Verão: Ust-Nera
-  },
-  Europe/Volgograd: {
-    Generic: Horário Volgogrado,
-    Standard: Horário Padrão: Volgogrado,
-    Daylight: Horário de Verão: Volgogrado
-  },
-  Australia/Perth: {
-    Generic: Horário da Austrália Ocidental,
-    Standard: Horário Padrão da Austrália Ocidental,
-    Daylight: Horário de Verão da Austrália Ocidental
-  },
-  Africa/Lagos: {
-    Generic: Horário da África Ocidental,
-    Standard: Horário Padrão da África Ocidental,
-    Daylight: Horário de Verão da África Ocidental
-  },
-  Africa/Luanda: {
-    Generic: Horário da África Ocidental,
-    Standard: Horário Padrão da África Ocidental,
-    Daylight: Horário de Verão da África Ocidental
-  },
-  Africa/Porto-Novo: {
-    Generic: Horário da África Ocidental,
-    Standard: Horário Padrão da África Ocidental,
-    Daylight: Horário de Verão da África Ocidental
-  },
-  Africa/Kinshasa: {
-    Generic: Horário da África Ocidental,
-    Standard: Horário Padrão da África Ocidental,
-    Daylight: Horário de Verão da África Ocidental
-  },
-  Africa/Bangui: {
-    Generic: Horário da África Ocidental,
-    Standard: Horário Padrão da África Ocidental,
-    Daylight: Horário de Verão da África Ocidental
-  },
-  Africa/Brazzaville: {
-    Generic: Horário da África Ocidental,
-    Standard: Horário Padrão da África Ocidental,
-    Daylight: Horário de Verão da África Ocidental
-  },
-  Africa/Douala: {
-    Generic: Horário da África Ocidental,
-    Standard: Horário Padrão da África Ocidental,
-    Daylight: Horário de Verão da África Ocidental
-  },
-  Africa/Algiers: {
-    Generic: Horário da Europa Central,
-    Standard: Horário Padrão da Europa Central,
-    Daylight: Horário de Verão da Europa Central
-  },
-  Africa/Libreville: {
-    Generic: Horário da África Ocidental,
-    Standard: Horário Padrão da África Ocidental,
-    Daylight: Horário de Verão da África Ocidental
-  },
-  Africa/Malabo: {
-    Generic: Horário da África Ocidental,
-    Standard: Horário Padrão da África Ocidental,
-    Daylight: Horário de Verão da África Ocidental
-  },
-  Africa/Niamey: {
-    Generic: Horário da África Ocidental,
-    Standard: Horário Padrão da África Ocidental,
-    Daylight: Horário de Verão da África Ocidental
-  },
-  Africa/Ndjamena: {
-    Generic: Horário da África Ocidental,
-    Standard: Horário Padrão da África Ocidental,
-    Daylight: Horário de Verão da África Ocidental
-  },
-  Africa/Tunis: {
-    Generic: Horário da Europa Central,
-    Standard: Horário Padrão da Europa Central,
-    Daylight: Horário de Verão da Europa Central
-  },
-  Etc/GMT-1: {
-    Generic: Horário Universal Coordenado +1,
-    Standard: Horário Universal Coordenado +1,
-    Daylight: Horário Universal Coordenado +1
-  },
-  Europe/Berlin: {
-    Generic: Horário da Europa Central,
-    Standard: Horário Padrão da Europa Central,
-    Daylight: Horário de Verão da Europa Central
-  },
-  Europe/Andorra: {
-    Generic: Horário da Europa Central,
-    Standard: Horário Padrão da Europa Central,
-    Daylight: Horário de Verão da Europa Central
-  },
-  Europe/Vienna: {
-    Generic: Horário da Europa Central,
-    Standard: Horário Padrão da Europa Central,
-    Daylight: Horário de Verão da Europa Central
-  },
-  Europe/Zurich: {
-    Generic: Horário da Europa Central,
-    Standard: Horário Padrão da Europa Central,
-    Daylight: Horário de Verão da Europa Central
-  },
-  Europe/Busingen: {
-    Generic: Horário da Europa Central,
-    Standard: Horário Padrão da Europa Central,
-    Daylight: Horário de Verão da Europa Central
-  },
-  Europe/Gibraltar: {
-    Generic: Horário da Europa Central,
-    Standard: Horário Padrão da Europa Central,
-    Daylight: Horário de Verão da Europa Central
-  },
-  Europe/Rome: {
-    Generic: Horário da Europa Central,
-    Standard: Horário Padrão da Europa Central,
-    Daylight: Horário de Verão da Europa Central
-  },
-  Europe/Vaduz: {
-    Generic: Horário da Europa Central,
-    Standard: Horário Padrão da Europa Central,
-    Daylight: Horário de Verão da Europa Central
-  },
-  Europe/Luxembourg: {
-    Generic: Horário da Europa Central,
-    Standard: Horário Padrão da Europa Central,
-    Daylight: Horário de Verão da Europa Central
-  },
-  Europe/Monaco: {
-    Generic: Horário da Europa Central,
-    Standard: Horário Padrão da Europa Central,
-    Daylight: Horário de Verão da Europa Central
-  },
-  Europe/Malta: {
-    Generic: Horário da Europa Central,
-    Standard: Horário Padrão da Europa Central,
-    Daylight: Horário de Verão da Europa Central
-  },
-  Europe/Amsterdam: {
-    Generic: Horário da Europa Central,
-    Standard: Horário Padrão da Europa Central,
-    Daylight: Horário de Verão da Europa Central
-  },
-  Europe/Oslo: {
-    Generic: Horário da Europa Central,
-    Standard: Horário Padrão da Europa Central,
-    Daylight: Horário de Verão da Europa Central
-  },
-  Europe/Stockholm: {
-    Generic: Horário da Europa Central,
-    Standard: Horário Padrão da Europa Central,
-    Daylight: Horário de Verão da Europa Central
+  Antarctica/Vostok: {
+    Generic: Horário de Vostok,
+    Standard: Horário de Vostok,
+    Daylight: Horário de Vostok
   },
   Arctic/Longyearbyen: {
     Generic: Horário da Europa Central,
     Standard: Horário Padrão da Europa Central,
     Daylight: Horário de Verão da Europa Central
   },
-  Europe/San_Marino: {
-    Generic: Horário da Europa Central,
-    Standard: Horário Padrão da Europa Central,
-    Daylight: Horário de Verão da Europa Central
+  Asia/Aden: {
+    Generic: Horário da Arábia,
+    Standard: Horário Padrão da Arábia,
+    Daylight: Horário de Verão da Arábia
   },
-  Europe/Vatican: {
-    Generic: Horário da Europa Central,
-    Standard: Horário Padrão da Europa Central,
-    Daylight: Horário de Verão da Europa Central
+  Asia/Almaty: {
+    Generic: Horário do Casaquistão Oriental,
+    Standard: Horário do Casaquistão Oriental,
+    Daylight: Horário do Casaquistão Oriental
   },
-  Asia/Hovd: {
-    Generic: Horário de Hovd,
-    Standard: Horário Padrão de Hovd,
-    Daylight: Horário de Verão de Hovd
+  Asia/Amman: {
+    Generic: Horário da Europa Oriental,
+    Standard: Horário Padrão da Europa Oriental,
+    Daylight: Horário de Verão da Europa Oriental
   },
-  Asia/Tashkent: {
-    Generic: Horário do Uzbequistão,
-    Standard: Horário Padrão do Uzbequistão,
-    Daylight: Horário de Verão do Uzbequistão
-  },
-  Antarctica/Mawson: {
-    Generic: Horário de Mawson,
-    Standard: Horário de Mawson,
-    Daylight: Horário de Mawson
-  },
-  Asia/Oral: {
-    Generic: Horário do Casaquistão Ocidental,
-    Standard: Horário do Casaquistão Ocidental,
-    Daylight: Horário do Casaquistão Ocidental
+  Asia/Anadyr: {
+    Generic: Horário Anadyr,
+    Standard: Horário Padrão: Anadyr,
+    Daylight: Horário de Verão: Anadyr
   },
   Asia/Aqtau: {
     Generic: Horário do Casaquistão Ocidental,
@@ -2199,415 +1199,75 @@
     Standard: Horário do Casaquistão Ocidental,
     Daylight: Horário do Casaquistão Ocidental
   },
-  Asia/Atyrau: {
-    Generic: Horário do Casaquistão Ocidental,
-    Standard: Horário do Casaquistão Ocidental,
-    Daylight: Horário do Casaquistão Ocidental
-  },
-  Indian/Maldives: {
-    Generic: Horário das Ilhas Maldivas,
-    Standard: Horário das Ilhas Maldivas,
-    Daylight: Horário das Ilhas Maldivas
-  },
-  Indian/Kerguelen: {
-    Generic: Horário dos Territórios Franceses do Sul e Antártida,
-    Standard: Horário dos Territórios Franceses do Sul e Antártida,
-    Daylight: Horário dos Territórios Franceses do Sul e Antártida
-  },
-  Asia/Dushanbe: {
-    Generic: Horário do Tajiquistão,
-    Standard: Horário do Tajiquistão,
-    Daylight: Horário do Tajiquistão
-  },
   Asia/Ashgabat: {
     Generic: Horário do Turcomenistão,
     Standard: Horário Padrão do Turcomenistão,
     Daylight: Horário de Verão do Turcomenistão
-  },
-  Asia/Samarkand: {
-    Generic: Horário do Uzbequistão,
-    Standard: Horário Padrão do Uzbequistão,
-    Daylight: Horário de Verão do Uzbequistão
-  },
-  Etc/GMT-5: {
-    Generic: Horário Universal Coordenado +5,
-    Standard: Horário Universal Coordenado +5,
-    Daylight: Horário Universal Coordenado +5
-  },
-  Asia/Hebron: {
-    Generic: Horário da Europa Oriental,
-    Standard: Horário Padrão da Europa Oriental,
-    Daylight: Horário de Verão da Europa Oriental
-  },
-  Asia/Gaza: {
-    Generic: Horário da Europa Oriental,
-    Standard: Horário Padrão da Europa Oriental,
-    Daylight: Horário de Verão da Europa Oriental
-  },
-  Pacific/Port_Moresby: {
-    Generic: Horário de Papua-Nova Guiné,
-    Standard: Horário de Papua-Nova Guiné,
-    Daylight: Horário de Papua-Nova Guiné
-  },
-  Antarctica/DumontDUrville: {
-    Generic: Horário de Dumont-d’Urville,
-    Standard: Horário de Dumont-d’Urville,
-    Daylight: Horário de Dumont-d’Urville
-  },
-  Pacific/Truk: {
-    Generic: Horário de Chuuk,
-    Standard: Horário de Chuuk,
-    Daylight: Horário de Chuuk
-  },
-  Pacific/Guam: {
-    Generic: Horário de Chamorro,
-    Standard: Horário de Chamorro,
-    Daylight: Horário de Chamorro
-  },
-  Pacific/Saipan: {
-    Generic: Horário de Chamorro,
-    Standard: Horário de Chamorro,
-    Daylight: Horário de Chamorro
-  },
-  Etc/GMT-10: {
-    Generic: Horário Universal Coordenado +10,
-    Standard: Horário Universal Coordenado +10,
-    Daylight: Horário Universal Coordenado +10
-  },
-  Asia/Yakutsk: {
-    Generic: Horário Yakutsk,
-    Standard: Horário Padrão: Yakutsk,
-    Daylight: Horário de Verão: Yakutsk
-  },
-  Asia/Khandyga: {
-    Generic: Horário Khandyga,
-    Standard: Horário Padrão: Khandyga,
-    Daylight: Horário de Verão: Khandyga
-  },
-  America/Whitehorse: {
-    Generic: Horário do Yukon,
-    Standard: Horário do Yukon,
-    Daylight: Horário do Yukon
-  },
-  America/Dawson: {
-    Generic: Horário do Yukon,
-    Standard: Horário do Yukon,
-    Daylight: Horário do Yukon
-  },
-  Iceland: {
-    Generic: Horário do Meridiano de Greenwich,
-    Standard: Horário do Meridiano de Greenwich,
-    Daylight: Horário do Meridiano de Greenwich
-  },
-  Africa/Timbuktu: {
-    Generic: Horário do Meridiano de Greenwich,
-    Standard: Horário do Meridiano de Greenwich,
-    Daylight: Horário do Meridiano de Greenwich
-  },
-  Egypt: {
-    Generic: Horário da Europa Oriental,
-    Standard: Horário Padrão da Europa Oriental,
-    Daylight: Horário de Verão da Europa Oriental
-  },
-  Africa/Asmara: {
-    Generic: Horário da África Oriental,
-    Standard: Horário da África Oriental,
-    Daylight: Horário da África Oriental
-  },
-  Libya: {
-    Generic: Horário da Europa Oriental,
-    Standard: Horário Padrão da Europa Oriental,
-    Daylight: Horário de Verão da Europa Oriental
-  },
-  America/Atka: {
-    Generic: Horário do Havaí e Ilhas Aleutas,
-    Standard: Horário Padrão do Havaí e Ilhas Aleutas,
-    Daylight: Horário de Verão do Havaí e Ilhas Aleutas
-  },
-  US/Aleutian: {
-    Generic: Horário do Havaí e Ilhas Aleutas,
-    Standard: Horário Padrão do Havaí e Ilhas Aleutas,
-    Daylight: Horário de Verão do Havaí e Ilhas Aleutas
-  },
-  US/Alaska: {
-    Generic: Horário do Alasca,
-    Standard: Horário Padrão do Alasca,
-    Daylight: Horário de Verão do Alasca
-  },
-  America/Argentina/Buenos_Aires: {
-    Generic: Horário da Argentina,
-    Standard: Horário Padrão da Argentina,
-    Daylight: Horário de Verão da Argentina
-  },
-  America/Argentina/Catamarca: {
-    Generic: Horário da Argentina,
-    Standard: Horário Padrão da Argentina,
-    Daylight: Horário de Verão da Argentina
-  },
-  America/Argentina/ComodRivadavia: {
-    Generic: Horário da Argentina,
-    Standard: Horário Padrão da Argentina,
-    Daylight: Horário de Verão da Argentina
-  },
-  America/Argentina/Cordoba: {
-    Generic: Horário da Argentina,
-    Standard: Horário Padrão da Argentina,
-    Daylight: Horário de Verão da Argentina
-  },
-  America/Rosario: {
-    Generic: Horário da Argentina,
-    Standard: Horário Padrão da Argentina,
-    Daylight: Horário de Verão da Argentina
-  },
-  America/Argentina/Jujuy: {
-    Generic: Horário da Argentina,
-    Standard: Horário Padrão da Argentina,
-    Daylight: Horário de Verão da Argentina
-  },
-  America/Argentina/Mendoza: {
-    Generic: Horário da Argentina,
-    Standard: Horário Padrão da Argentina,
-    Daylight: Horário de Verão da Argentina
-  },
-  US/Central: {
-    Generic: Horário Central,
-    Standard: Horário Padrão Central,
-    Daylight: Horário de Verão Central
-  },
-  America/Shiprock: {
-    Generic: Horário das Montanhas,
-    Standard: Horário Padrão das Montanhas,
-    Daylight: Horário de Verão das Montanhas
-  },
-  Navajo: {
-    Generic: Horário das Montanhas,
-    Standard: Horário Padrão das Montanhas,
-    Daylight: Horário de Verão das Montanhas
-  },
-  US/Mountain: {
-    Generic: Horário das Montanhas,
-    Standard: Horário Padrão das Montanhas,
-    Daylight: Horário de Verão das Montanhas
-  },
-  US/Michigan: {
-    Generic: Horário do Leste,
-    Standard: Horário Padrão do Leste,
-    Daylight: Horário de Verão do Leste
-  },
-  Canada/Mountain: {
-    Generic: Horário das Montanhas,
-    Standard: Horário Padrão das Montanhas,
-    Daylight: Horário de Verão das Montanhas
-  },
-  Canada/Atlantic: {
-    Generic: Horário do Atlântico,
-    Standard: Horário Padrão do Atlântico,
-    Daylight: Horário de Verão do Atlântico
-  },
-  Cuba: {
-    Generic: Horário de Cuba,
-    Standard: Horário Padrão de Cuba,
-    Daylight: Horário de Verão de Cuba
-  },
-  America/Indiana/Indianapolis: {
-    Generic: Horário do Leste,
-    Standard: Horário Padrão do Leste,
-    Daylight: Horário de Verão do Leste
-  },
-  US/East-Indiana: {
-    Generic: Horário do Leste,
-    Standard: Horário Padrão do Leste,
-    Daylight: Horário de Verão do Leste
-  },
-  America/Knox_IN: {
-    Generic: Horário Central,
-    Standard: Horário Padrão Central,
-    Daylight: Horário de Verão Central
-  },
-  US/Indiana-Starke: {
-    Generic: Horário Central,
-    Standard: Horário Padrão Central,
-    Daylight: Horário de Verão Central
-  },
-  Jamaica: {
-    Generic: Horário do Leste,
-    Standard: Horário Padrão do Leste,
-    Daylight: Horário de Verão do Leste
-  },
-  America/Kentucky/Louisville: {
-    Generic: Horário do Leste,
-    Standard: Horário Padrão do Leste,
-    Daylight: Horário de Verão do Leste
-  },
-  US/Pacific: {
-    Generic: Horário do Pacífico,
-    Standard: Horário Padrão do Pacífico,
-    Daylight: Horário de Verão do Pacífico
-  },
-  Brazil/West: {
-    Generic: Horário do Amazonas,
-    Standard: Horário Padrão do Amazonas,
-    Daylight: Horário de Verão do Amazonas
-  },
-  Mexico/BajaSur: {
-    Generic: Horário do Pacífico Mexicano,
-    Standard: Horário Padrão do Pacífico Mexicano,
-    Daylight: Horário de Verão do Pacífico Mexicano
-  },
-  Mexico/General: {
-    Generic: Horário Central,
-    Standard: Horário Padrão Central,
-    Daylight: Horário de Verão Central
-  },
-  US/Eastern: {
-    Generic: Horário do Leste,
-    Standard: Horário Padrão do Leste,
-    Daylight: Horário de Verão do Leste
-  },
-  Brazil/DeNoronha: {
-    Generic: Horário de Fernando de Noronha,
-    Standard: Horário Padrão de Fernando de Noronha,
-    Daylight: Horário de Verão de Fernando de Noronha
-  },
-  America/Nuuk: {
-    Generic: Horário da Groenlândia Ocidental,
-    Standard: Horário Padrão da Groenlândia Ocidental,
-    Daylight: Horário de Verão da Groenlândia Ocidental
-  },
-  America/Atikokan: {
-    Generic: Horário do Leste,
-    Standard: Horário Padrão do Leste,
-    Daylight: Horário de Verão do Leste
-  },
-  US/Arizona: {
-    Generic: Horário das Montanhas,
-    Standard: Horário Padrão das Montanhas,
-    Daylight: Horário de Verão das Montanhas
-  },
-  America/Virgin: {
-    Generic: Horário do Atlântico,
-    Standard: Horário Padrão do Atlântico,
-    Daylight: Horário de Verão do Atlântico
-  },
-  Canada/Saskatchewan: {
-    Generic: Horário Central,
-    Standard: Horário Padrão Central,
-    Daylight: Horário de Verão Central
-  },
-  America/Porto_Acre: {
-    Generic: Horário do Acre,
-    Standard: Horário Padrão do Acre,
-    Daylight: Horário de Verão do Acre
-  },
-  Brazil/Acre: {
-    Generic: Horário do Acre,
-    Standard: Horário Padrão do Acre,
-    Daylight: Horário de Verão do Acre
-  },
-  Chile/Continental: {
-    Generic: Horário do Chile,
-    Standard: Horário Padrão do Chile,
-    Daylight: Horário de Verão do Chile
-  },
-  Brazil/East: {
-    Generic: Horário de Brasília,
-    Standard: Horário Padrão de Brasília,
-    Daylight: Horário de Verão de Brasília
-  },
-  Canada/Newfoundland: {
-    Generic: Horário da Terra Nova,
-    Standard: Horário Padrão da Terra Nova,
-    Daylight: Horário de Verão da Terra Nova
-  },
-  America/Ensenada: {
-    Generic: Horário do Pacífico,
-    Standard: Horário Padrão do Pacífico,
-    Daylight: Horário de Verão do Pacífico
-  },
-  Mexico/BajaNorte: {
-    Generic: Horário do Pacífico,
-    Standard: Horário Padrão do Pacífico,
-    Daylight: Horário de Verão do Pacífico
-  },
-  Canada/Eastern: {
-    Generic: Horário do Leste,
-    Standard: Horário Padrão do Leste,
-    Daylight: Horário de Verão do Leste
-  },
-  Canada/Pacific: {
-    Generic: Horário do Pacífico,
-    Standard: Horário Padrão do Pacífico,
-    Daylight: Horário de Verão do Pacífico
-  },
-  Canada/Yukon: {
-    Generic: Horário do Yukon,
-    Standard: Horário do Yukon,
-    Daylight: Horário do Yukon
-  },
-  Canada/Central: {
-    Generic: Horário Central,
-    Standard: Horário Padrão Central,
-    Daylight: Horário de Verão Central
   },
   Asia/Ashkhabad: {
     Generic: Horário do Turcomenistão,
     Standard: Horário Padrão do Turcomenistão,
     Daylight: Horário de Verão do Turcomenistão
   },
-  Asia/Dacca: {
-    Generic: Horário de Bangladesh,
-    Standard: Horário Padrão de Bangladesh,
-    Daylight: Horário de Verão de Bangladesh
+  Asia/Atyrau: {
+    Generic: Horário do Casaquistão Ocidental,
+    Standard: Horário do Casaquistão Ocidental,
+    Daylight: Horário do Casaquistão Ocidental
   },
-  Asia/Ho_Chi_Minh: {
+  Asia/Baghdad: {
+    Generic: Horário da Arábia,
+    Standard: Horário Padrão da Arábia,
+    Daylight: Horário de Verão da Arábia
+  },
+  Asia/Bahrain: {
+    Generic: Horário da Arábia,
+    Standard: Horário Padrão da Arábia,
+    Daylight: Horário de Verão da Arábia
+  },
+  Asia/Baku: {
+    Generic: Horário do Arzeibaijão,
+    Standard: Horário Padrão do Arzeibaijão,
+    Daylight: Horário de Verão do Arzeibaijão
+  },
+  Asia/Bangkok: {
     Generic: Horário da Indochina,
     Standard: Horário da Indochina,
     Daylight: Horário da Indochina
   },
-  Hongkong: {
-    Generic: Horário de Hong Kong,
-    Standard: Horário Padrão de Hong Kong,
-    Daylight: Horário de Verão de Hong Kong
+  Asia/Barnaul: {
+    Generic: Horário Barnaul,
+    Standard: Horário Padrão: Barnaul,
+    Daylight: Horário de Verão: Barnaul
   },
-  Asia/Tel_Aviv: {
-    Generic: Horário de Israel,
-    Standard: Horário Padrão de Israel,
-    Daylight: Horário de Verão de Israel
-  },
-  Israel: {
-    Generic: Horário de Israel,
-    Standard: Horário Padrão de Israel,
-    Daylight: Horário de Verão de Israel
-  },
-  Asia/Kathmandu: {
-    Generic: Horário do Nepal,
-    Standard: Horário do Nepal,
-    Daylight: Horário do Nepal
-  },
-  Asia/Kolkata: {
-    Generic: Horário Padrão da Índia,
-    Standard: Horário Padrão da Índia,
-    Daylight: Horário Padrão da Índia
-  },
-  Asia/Macao: {
-    Generic: Horário da China,
-    Standard: Horário Padrão da China,
-    Daylight: Horário de Verão da China
-  },
-  Asia/Ujung_Pandang: {
-    Generic: Horário da Indonésia Central,
-    Standard: Horário da Indonésia Central,
-    Daylight: Horário da Indonésia Central
-  },
-  Europe/Nicosia: {
+  Asia/Beirut: {
     Generic: Horário da Europa Oriental,
     Standard: Horário Padrão da Europa Oriental,
     Daylight: Horário de Verão da Europa Oriental
   },
-  ROK: {
-    Generic: Horário da Coreia,
-    Standard: Horário Padrão da Coreia,
-    Daylight: Horário de Verão da Coreia
+  Asia/Bishkek: {
+    Generic: Horário do Quirguistão,
+    Standard: Horário do Quirguistão,
+    Daylight: Horário do Quirguistão
+  },
+  Asia/Brunei: {
+    Generic: Horário de Brunei Darussalam,
+    Standard: Horário de Brunei Darussalam,
+    Daylight: Horário de Brunei Darussalam
+  },
+  Asia/Calcutta: {
+    Generic: Horário Padrão da Índia,
+    Standard: Horário Padrão da Índia,
+    Daylight: Horário Padrão da Índia
+  },
+  Asia/Chita: {
+    Generic: Horário Chita,
+    Standard: Horário Padrão: Chita,
+    Daylight: Horário de Verão: Chita
+  },
+  Asia/Choibalsan: {
+    Generic: Horário de Ulan Bator,
+    Standard: Horário Padrão de Ulan Bator,
+    Daylight: Horário de Verão de Ulan Bator
   },
   Asia/Chongqing: {
     Generic: Horário da China,
@@ -2619,57 +1279,412 @@
     Standard: Horário Padrão da China,
     Daylight: Horário de Verão da China
   },
+  Asia/Colombo: {
+    Generic: Horário Padrão da Índia,
+    Standard: Horário Padrão da Índia,
+    Daylight: Horário Padrão da Índia
+  },
+  Asia/Dacca: {
+    Generic: Horário de Bangladesh,
+    Standard: Horário Padrão de Bangladesh,
+    Daylight: Horário de Verão de Bangladesh
+  },
+  Asia/Damascus: {
+    Generic: Horário da Europa Oriental,
+    Standard: Horário Padrão da Europa Oriental,
+    Daylight: Horário de Verão da Europa Oriental
+  },
+  Asia/Dhaka: {
+    Generic: Horário de Bangladesh,
+    Standard: Horário Padrão de Bangladesh,
+    Daylight: Horário de Verão de Bangladesh
+  },
+  Asia/Dili: {
+    Generic: Horário do Timor-Leste,
+    Standard: Horário do Timor-Leste,
+    Daylight: Horário do Timor-Leste
+  },
+  Asia/Dubai: {
+    Generic: Horário do Golfo,
+    Standard: Horário do Golfo,
+    Daylight: Horário do Golfo
+  },
+  Asia/Dushanbe: {
+    Generic: Horário do Tajiquistão,
+    Standard: Horário do Tajiquistão,
+    Daylight: Horário do Tajiquistão
+  },
+  Asia/Famagusta: {
+    Generic: Horário da Europa Oriental,
+    Standard: Horário Padrão da Europa Oriental,
+    Daylight: Horário de Verão da Europa Oriental
+  },
+  Asia/Gaza: {
+    Generic: Horário da Europa Oriental,
+    Standard: Horário Padrão da Europa Oriental,
+    Daylight: Horário de Verão da Europa Oriental
+  },
   Asia/Harbin: {
     Generic: Horário da China,
     Standard: Horário Padrão da China,
     Daylight: Horário de Verão da China
   },
-  PRC: {
-    Generic: Horário da China,
-    Standard: Horário Padrão da China,
-    Daylight: Horário de Verão da China
+  Asia/Hebron: {
+    Generic: Horário da Europa Oriental,
+    Standard: Horário Padrão da Europa Oriental,
+    Daylight: Horário de Verão da Europa Oriental
   },
-  Singapore: {
-    Generic: Horário Padrão de Singapura,
-    Standard: Horário Padrão de Singapura,
-    Daylight: Horário Padrão de Singapura
+  Asia/Ho_Chi_Minh: {
+    Generic: Horário da Indochina,
+    Standard: Horário da Indochina,
+    Daylight: Horário da Indochina
   },
-  ROC: {
-    Generic: Horário de Taipei,
-    Standard: Horário Padrão de Taipei,
-    Daylight: Horário de Verão de Taipei
+  Asia/Hong_Kong: {
+    Generic: Horário de Hong Kong,
+    Standard: Horário Padrão de Hong Kong,
+    Daylight: Horário de Verão de Hong Kong
   },
-  Iran: {
-    Generic: Horário do Irã,
-    Standard: Horário Padrão do Irã,
-    Daylight: Horário de Verão do Irã
+  Asia/Hovd: {
+    Generic: Horário de Hovd,
+    Standard: Horário Padrão de Hovd,
+    Daylight: Horário de Verão de Hovd
   },
-  Asia/Thimbu: {
-    Generic: Horário do Butão,
-    Standard: Horário do Butão,
-    Daylight: Horário do Butão
+  Asia/Irkutsk: {
+    Generic: Horário Irkutsk,
+    Standard: Horário Padrão: Irkutsk,
+    Daylight: Horário de Verão: Irkutsk
   },
-  Japan: {
-    Generic: Horário do Japão,
-    Standard: Horário Padrão do Japão,
-    Daylight: Horário de Verão do Japão
+  Asia/Istanbul: {
+    Generic: Horário Turquia,
+    Standard: Horário Padrão: Turquia,
+    Daylight: Horário de Verão: Turquia
   },
-  Asia/Ulan_Bator: {
-    Generic: Horário de Ulan Bator,
-    Standard: Horário Padrão de Ulan Bator,
-    Daylight: Horário de Verão de Ulan Bator
+  Asia/Jakarta: {
+    Generic: Horário da Indonésia Ocidental,
+    Standard: Horário da Indonésia Ocidental,
+    Daylight: Horário da Indonésia Ocidental
+  },
+  Asia/Jayapura: {
+    Generic: Horário da Indonésia Oriental,
+    Standard: Horário da Indonésia Oriental,
+    Daylight: Horário da Indonésia Oriental
+  },
+  Asia/Jerusalem: {
+    Generic: Horário de Israel,
+    Standard: Horário Padrão de Israel,
+    Daylight: Horário de Verão de Israel
+  },
+  Asia/Kabul: {
+    Generic: Horário do Afeganistão,
+    Standard: Horário do Afeganistão,
+    Daylight: Horário do Afeganistão
+  },
+  Asia/Kamchatka: {
+    Generic: Horário Kamchatka,
+    Standard: Horário Padrão: Kamchatka,
+    Daylight: Horário de Verão: Kamchatka
+  },
+  Asia/Karachi: {
+    Generic: Horário do Paquistão,
+    Standard: Horário Padrão do Paquistão,
+    Daylight: Horário de Verão do Paquistão
   },
   Asia/Kashgar: {
     Generic: Horário China,
     Standard: Horário Padrão: China,
     Daylight: Horário de Verão: China
   },
+  Asia/Kathmandu: {
+    Generic: Horário do Nepal,
+    Standard: Horário do Nepal,
+    Daylight: Horário do Nepal
+  },
+  Asia/Katmandu: {
+    Generic: Horário do Nepal,
+    Standard: Horário do Nepal,
+    Daylight: Horário do Nepal
+  },
+  Asia/Khandyga: {
+    Generic: Horário Khandyga,
+    Standard: Horário Padrão: Khandyga,
+    Daylight: Horário de Verão: Khandyga
+  },
+  Asia/Kolkata: {
+    Generic: Horário Padrão da Índia,
+    Standard: Horário Padrão da Índia,
+    Daylight: Horário Padrão da Índia
+  },
+  Asia/Krasnoyarsk: {
+    Generic: Horário Krasnoyarsk,
+    Standard: Horário Padrão: Krasnoyarsk,
+    Daylight: Horário de Verão: Krasnoyarsk
+  },
+  Asia/Kuala_Lumpur: {
+    Generic: Horário da Malásia,
+    Standard: Horário da Malásia,
+    Daylight: Horário da Malásia
+  },
+  Asia/Kuching: {
+    Generic: Horário da Malásia,
+    Standard: Horário da Malásia,
+    Daylight: Horário da Malásia
+  },
+  Asia/Kuwait: {
+    Generic: Horário da Arábia,
+    Standard: Horário Padrão da Arábia,
+    Daylight: Horário de Verão da Arábia
+  },
+  Asia/Macao: {
+    Generic: Horário da China,
+    Standard: Horário Padrão da China,
+    Daylight: Horário de Verão da China
+  },
+  Asia/Macau: {
+    Generic: Horário da China,
+    Standard: Horário Padrão da China,
+    Daylight: Horário de Verão da China
+  },
+  Asia/Magadan: {
+    Generic: Horário Magadan,
+    Standard: Horário Padrão: Magadan,
+    Daylight: Horário de Verão: Magadan
+  },
+  Asia/Makassar: {
+    Generic: Horário da Indonésia Central,
+    Standard: Horário da Indonésia Central,
+    Daylight: Horário da Indonésia Central
+  },
+  Asia/Manila: {
+    Generic: Horário das Filipinas,
+    Standard: Horário Padrão das Filipinas,
+    Daylight: Horário de Verão das Filipinas
+  },
+  Asia/Muscat: {
+    Generic: Horário do Golfo,
+    Standard: Horário do Golfo,
+    Daylight: Horário do Golfo
+  },
+  Asia/Nicosia: {
+    Generic: Horário da Europa Oriental,
+    Standard: Horário Padrão da Europa Oriental,
+    Daylight: Horário de Verão da Europa Oriental
+  },
+  Asia/Novokuznetsk: {
+    Generic: Horário Novokuznetsk,
+    Standard: Horário Padrão: Novokuznetsk,
+    Daylight: Horário de Verão: Novokuznetsk
+  },
+  Asia/Novosibirsk: {
+    Generic: Horário Novosibirsk,
+    Standard: Horário Padrão: Novosibirsk,
+    Daylight: Horário de Verão: Novosibirsk
+  },
+  Asia/Omsk: {
+    Generic: Horário Omsk,
+    Standard: Horário Padrão: Omsk,
+    Daylight: Horário de Verão: Omsk
+  },
+  Asia/Oral: {
+    Generic: Horário do Casaquistão Ocidental,
+    Standard: Horário do Casaquistão Ocidental,
+    Daylight: Horário do Casaquistão Ocidental
+  },
+  Asia/Phnom_Penh: {
+    Generic: Horário da Indochina,
+    Standard: Horário da Indochina,
+    Daylight: Horário da Indochina
+  },
+  Asia/Pontianak: {
+    Generic: Horário da Indonésia Ocidental,
+    Standard: Horário da Indonésia Ocidental,
+    Daylight: Horário da Indonésia Ocidental
+  },
+  Asia/Pyongyang: {
+    Generic: Horário da Coreia,
+    Standard: Horário Padrão da Coreia,
+    Daylight: Horário de Verão da Coreia
+  },
+  Asia/Qatar: {
+    Generic: Horário da Arábia,
+    Standard: Horário Padrão da Arábia,
+    Daylight: Horário de Verão da Arábia
+  },
+  Asia/Qostanay: {
+    Generic: Horário do Casaquistão Oriental,
+    Standard: Horário do Casaquistão Oriental,
+    Daylight: Horário do Casaquistão Oriental
+  },
+  Asia/Qyzylorda: {
+    Generic: Horário do Casaquistão Ocidental,
+    Standard: Horário do Casaquistão Ocidental,
+    Daylight: Horário do Casaquistão Ocidental
+  },
+  Asia/Rangoon: {
+    Generic: Horário de Mianmar,
+    Standard: Horário de Mianmar,
+    Daylight: Horário de Mianmar
+  },
+  Asia/Riyadh: {
+    Generic: Horário da Arábia,
+    Standard: Horário Padrão da Arábia,
+    Daylight: Horário de Verão da Arábia
+  },
+  Asia/Saigon: {
+    Generic: Horário da Indochina,
+    Standard: Horário da Indochina,
+    Daylight: Horário da Indochina
+  },
+  Asia/Sakhalin: {
+    Generic: Horário Sacalina,
+    Standard: Horário Padrão: Sacalina,
+    Daylight: Horário de Verão: Sacalina
+  },
+  Asia/Samarkand: {
+    Generic: Horário do Uzbequistão,
+    Standard: Horário Padrão do Uzbequistão,
+    Daylight: Horário de Verão do Uzbequistão
+  },
+  Asia/Seoul: {
+    Generic: Horário da Coreia,
+    Standard: Horário Padrão da Coreia,
+    Daylight: Horário de Verão da Coreia
+  },
+  Asia/Shanghai: {
+    Generic: Horário da China,
+    Standard: Horário Padrão da China,
+    Daylight: Horário de Verão da China
+  },
+  Asia/Singapore: {
+    Generic: Horário Padrão de Singapura,
+    Standard: Horário Padrão de Singapura,
+    Daylight: Horário Padrão de Singapura
+  },
+  Asia/Srednekolymsk: {
+    Generic: Horário Srednekolymsk,
+    Standard: Horário Padrão: Srednekolymsk,
+    Daylight: Horário de Verão: Srednekolymsk
+  },
+  Asia/Taipei: {
+    Generic: Horário de Taipei,
+    Standard: Horário Padrão de Taipei,
+    Daylight: Horário de Verão de Taipei
+  },
+  Asia/Tashkent: {
+    Generic: Horário do Uzbequistão,
+    Standard: Horário Padrão do Uzbequistão,
+    Daylight: Horário de Verão do Uzbequistão
+  },
+  Asia/Tbilisi: {
+    Generic: Horário da Geórgia,
+    Standard: Horário Padrão da Geórgia,
+    Daylight: Horário de Verão da Geórgia
+  },
+  Asia/Tehran: {
+    Generic: Horário do Irã,
+    Standard: Horário Padrão do Irã,
+    Daylight: Horário de Verão do Irã
+  },
+  Asia/Tel_Aviv: {
+    Generic: Horário de Israel,
+    Standard: Horário Padrão de Israel,
+    Daylight: Horário de Verão de Israel
+  },
+  Asia/Thimbu: {
+    Generic: Horário do Butão,
+    Standard: Horário do Butão,
+    Daylight: Horário do Butão
+  },
+  Asia/Thimphu: {
+    Generic: Horário do Butão,
+    Standard: Horário do Butão,
+    Daylight: Horário do Butão
+  },
+  Asia/Tokyo: {
+    Generic: Horário do Japão,
+    Standard: Horário Padrão do Japão,
+    Daylight: Horário de Verão do Japão
+  },
+  Asia/Tomsk: {
+    Generic: Horário Tomsk,
+    Standard: Horário Padrão: Tomsk,
+    Daylight: Horário de Verão: Tomsk
+  },
+  Asia/Ujung_Pandang: {
+    Generic: Horário da Indonésia Central,
+    Standard: Horário da Indonésia Central,
+    Daylight: Horário da Indonésia Central
+  },
+  Asia/Ulaanbaatar: {
+    Generic: Horário de Ulan Bator,
+    Standard: Horário Padrão de Ulan Bator,
+    Daylight: Horário de Verão de Ulan Bator
+  },
+  Asia/Ulan_Bator: {
+    Generic: Horário de Ulan Bator,
+    Standard: Horário Padrão de Ulan Bator,
+    Daylight: Horário de Verão de Ulan Bator
+  },
+  Asia/Urumqi: {
+    Generic: Horário China,
+    Standard: Horário Padrão: China,
+    Daylight: Horário de Verão: China
+  },
+  Asia/Ust-Nera: {
+    Generic: Horário Ust-Nera,
+    Standard: Horário Padrão: Ust-Nera,
+    Daylight: Horário de Verão: Ust-Nera
+  },
+  Asia/Vientiane: {
+    Generic: Horário da Indochina,
+    Standard: Horário da Indochina,
+    Daylight: Horário da Indochina
+  },
+  Asia/Vladivostok: {
+    Generic: Horário Vladivostok,
+    Standard: Horário Padrão: Vladivostok,
+    Daylight: Horário de Verão: Vladivostok
+  },
+  Asia/Yakutsk: {
+    Generic: Horário Yakutsk,
+    Standard: Horário Padrão: Yakutsk,
+    Daylight: Horário de Verão: Yakutsk
+  },
   Asia/Yangon: {
     Generic: Horário de Mianmar,
     Standard: Horário de Mianmar,
     Daylight: Horário de Mianmar
   },
-  WET: {
+  Asia/Yekaterinburg: {
+    Generic: Horário Ecaterimburgo,
+    Standard: Horário Padrão: Ecaterimburgo,
+    Daylight: Horário de Verão: Ecaterimburgo
+  },
+  Asia/Yerevan: {
+    Generic: Horário da Armênia,
+    Standard: Horário Padrão da Armênia,
+    Daylight: Horário de Verão da Armênia
+  },
+  Atlantic/Azores: {
+    Generic: Horário dos Açores,
+    Standard: Horário Padrão dos Açores,
+    Daylight: Horário de Verão dos Açores
+  },
+  Atlantic/Bermuda: {
+    Generic: Horário do Atlântico,
+    Standard: Horário Padrão do Atlântico,
+    Daylight: Horário de Verão do Atlântico
+  },
+  Atlantic/Canary: {
+    Generic: Horário da Europa Ocidental,
+    Standard: Horário Padrão da Europa Ocidental,
+    Daylight: Horário de Verão da Europa Ocidental
+  },
+  Atlantic/Cape_Verde: {
+    Generic: Horário de Cabo Verde,
+    Standard: Horário Padrão de Cabo Verde,
+    Daylight: Horário de Verão de Cabo Verde
+  },
+  Atlantic/Faeroe: {
     Generic: Horário da Europa Ocidental,
     Standard: Horário Padrão da Europa Ocidental,
     Daylight: Horário de Verão da Europa Ocidental
@@ -2679,27 +1694,77 @@
     Standard: Horário Padrão da Europa Ocidental,
     Daylight: Horário de Verão da Europa Ocidental
   },
-  Australia/South: {
-    Generic: Horário da Austrália Central,
-    Standard: Horário Padrão da Austrália Central,
-    Daylight: Horário de Verão da Austrália Central
+  Atlantic/Jan_Mayen: {
+    Generic: Horário da Europa Central,
+    Standard: Horário Padrão da Europa Central,
+    Daylight: Horário de Verão da Europa Central
   },
-  Australia/Queensland: {
+  Atlantic/Madeira: {
+    Generic: Horário da Europa Ocidental,
+    Standard: Horário Padrão da Europa Ocidental,
+    Daylight: Horário de Verão da Europa Ocidental
+  },
+  Atlantic/Reykjavik: {
+    Generic: Horário do Meridiano de Greenwich,
+    Standard: Horário do Meridiano de Greenwich,
+    Daylight: Horário do Meridiano de Greenwich
+  },
+  Atlantic/South_Georgia: {
+    Generic: Horário da Geórgia do Sul,
+    Standard: Horário da Geórgia do Sul,
+    Daylight: Horário da Geórgia do Sul
+  },
+  Atlantic/St_Helena: {
+    Generic: Horário do Meridiano de Greenwich,
+    Standard: Horário do Meridiano de Greenwich,
+    Daylight: Horário do Meridiano de Greenwich
+  },
+  Atlantic/Stanley: {
+    Generic: Horário das Ilhas Malvinas,
+    Standard: Horário Padrão das Ilhas Malvinas,
+    Daylight: Horário de Verão das Ilhas Malvinas
+  },
+  Australia/ACT: {
     Generic: Horário da Austrália Oriental,
     Standard: Horário Padrão da Austrália Oriental,
     Daylight: Horário de Verão da Austrália Oriental
   },
-  Australia/Yancowinna: {
+  Australia/Adelaide: {
     Generic: Horário da Austrália Central,
     Standard: Horário Padrão da Austrália Central,
     Daylight: Horário de Verão da Austrália Central
   },
-  Australia/North: {
+  Australia/Brisbane: {
+    Generic: Horário da Austrália Oriental,
+    Standard: Horário Padrão da Austrália Oriental,
+    Daylight: Horário de Verão da Austrália Oriental
+  },
+  Australia/Broken_Hill: {
     Generic: Horário da Austrália Central,
     Standard: Horário Padrão da Austrália Central,
     Daylight: Horário de Verão da Austrália Central
   },
-  Australia/Tasmania: {
+  Australia/Canberra: {
+    Generic: Horário da Austrália Oriental,
+    Standard: Horário Padrão da Austrália Oriental,
+    Daylight: Horário de Verão da Austrália Oriental
+  },
+  Australia/Currie: {
+    Generic: Horário da Austrália Oriental,
+    Standard: Horário Padrão da Austrália Oriental,
+    Daylight: Horário de Verão da Austrália Oriental
+  },
+  Australia/Darwin: {
+    Generic: Horário da Austrália Central,
+    Standard: Horário Padrão da Austrália Central,
+    Daylight: Horário de Verão da Austrália Central
+  },
+  Australia/Eucla: {
+    Generic: Horário da Austrália Centro-Ocidental,
+    Standard: Horário Padrão da Austrália Centro-Ocidental,
+    Daylight: Horário de Verão da Austrália Centro-Ocidental
+  },
+  Australia/Hobart: {
     Generic: Horário da Austrália Oriental,
     Standard: Horário Padrão da Austrália Oriental,
     Daylight: Horário de Verão da Austrália Oriental
@@ -2708,6 +1773,56 @@
     Generic: Horário de Lord Howe,
     Standard: Horário Padrão de Lord Howe,
     Daylight: Horário de Verão de Lord Howe
+  },
+  Australia/Lindeman: {
+    Generic: Horário da Austrália Oriental,
+    Standard: Horário Padrão da Austrália Oriental,
+    Daylight: Horário de Verão da Austrália Oriental
+  },
+  Australia/Lord_Howe: {
+    Generic: Horário de Lord Howe,
+    Standard: Horário Padrão de Lord Howe,
+    Daylight: Horário de Verão de Lord Howe
+  },
+  Australia/Melbourne: {
+    Generic: Horário da Austrália Oriental,
+    Standard: Horário Padrão da Austrália Oriental,
+    Daylight: Horário de Verão da Austrália Oriental
+  },
+  Australia/NSW: {
+    Generic: Horário da Austrália Oriental,
+    Standard: Horário Padrão da Austrália Oriental,
+    Daylight: Horário de Verão da Austrália Oriental
+  },
+  Australia/North: {
+    Generic: Horário da Austrália Central,
+    Standard: Horário Padrão da Austrália Central,
+    Daylight: Horário de Verão da Austrália Central
+  },
+  Australia/Perth: {
+    Generic: Horário da Austrália Ocidental,
+    Standard: Horário Padrão da Austrália Ocidental,
+    Daylight: Horário de Verão da Austrália Ocidental
+  },
+  Australia/Queensland: {
+    Generic: Horário da Austrália Oriental,
+    Standard: Horário Padrão da Austrália Oriental,
+    Daylight: Horário de Verão da Austrália Oriental
+  },
+  Australia/South: {
+    Generic: Horário da Austrália Central,
+    Standard: Horário Padrão da Austrália Central,
+    Daylight: Horário de Verão da Austrália Central
+  },
+  Australia/Sydney: {
+    Generic: Horário da Austrália Oriental,
+    Standard: Horário Padrão da Austrália Oriental,
+    Daylight: Horário de Verão da Austrália Oriental
+  },
+  Australia/Tasmania: {
+    Generic: Horário da Austrália Oriental,
+    Standard: Horário Padrão da Austrália Oriental,
+    Daylight: Horário de Verão da Austrália Oriental
   },
   Australia/Victoria: {
     Generic: Horário da Austrália Oriental,
@@ -2719,45 +1834,265 @@
     Standard: Horário Padrão da Austrália Ocidental,
     Daylight: Horário de Verão da Austrália Ocidental
   },
-  Australia/ACT: {
-    Generic: Horário da Austrália Oriental,
-    Standard: Horário Padrão da Austrália Oriental,
-    Daylight: Horário de Verão da Austrália Oriental
+  Australia/Yancowinna: {
+    Generic: Horário da Austrália Central,
+    Standard: Horário Padrão da Austrália Central,
+    Daylight: Horário de Verão da Austrália Central
   },
-  Australia/Canberra: {
-    Generic: Horário da Austrália Oriental,
-    Standard: Horário Padrão da Austrália Oriental,
-    Daylight: Horário de Verão da Austrália Oriental
+  Brazil/Acre: {
+    Generic: Horário do Acre,
+    Standard: Horário Padrão do Acre,
+    Daylight: Horário de Verão do Acre
   },
-  Australia/NSW: {
-    Generic: Horário da Austrália Oriental,
-    Standard: Horário Padrão da Austrália Oriental,
-    Daylight: Horário de Verão da Austrália Oriental
+  Brazil/DeNoronha: {
+    Generic: Horário de Fernando de Noronha,
+    Standard: Horário Padrão de Fernando de Noronha,
+    Daylight: Horário de Verão de Fernando de Noronha
   },
-  HST: {
-    Generic: Horário Universal Coordenado -10,
-    Standard: Horário Universal Coordenado -10,
-    Daylight: Horário Universal Coordenado -10
+  Brazil/East: {
+    Generic: Horário de Brasília,
+    Standard: Horário Padrão de Brasília,
+    Daylight: Horário de Verão de Brasília
+  },
+  Brazil/West: {
+    Generic: Horário do Amazonas,
+    Standard: Horário Padrão do Amazonas,
+    Daylight: Horário de Verão do Amazonas
+  },
+  CET: {
+    Generic: Horário da Europa Central,
+    Standard: Horário Padrão da Europa Central,
+    Daylight: Horário de Verão da Europa Central
+  },
+  CST6CDT: {
+    Generic: Horário Central,
+    Standard: Horário Padrão Central,
+    Daylight: Horário de Verão Central
+  },
+  Canada/Atlantic: {
+    Generic: Horário do Atlântico,
+    Standard: Horário Padrão do Atlântico,
+    Daylight: Horário de Verão do Atlântico
+  },
+  Canada/Central: {
+    Generic: Horário Central,
+    Standard: Horário Padrão Central,
+    Daylight: Horário de Verão Central
+  },
+  Canada/Eastern: {
+    Generic: Horário do Leste,
+    Standard: Horário Padrão do Leste,
+    Daylight: Horário de Verão do Leste
+  },
+  Canada/Mountain: {
+    Generic: Horário das Montanhas,
+    Standard: Horário Padrão das Montanhas,
+    Daylight: Horário de Verão das Montanhas
+  },
+  Canada/Newfoundland: {
+    Generic: Horário da Terra Nova,
+    Standard: Horário Padrão da Terra Nova,
+    Daylight: Horário de Verão da Terra Nova
+  },
+  Canada/Pacific: {
+    Generic: Horário do Pacífico,
+    Standard: Horário Padrão do Pacífico,
+    Daylight: Horário de Verão do Pacífico
+  },
+  Canada/Saskatchewan: {
+    Generic: Horário Central,
+    Standard: Horário Padrão Central,
+    Daylight: Horário de Verão Central
+  },
+  Canada/Yukon: {
+    Generic: Horário do Yukon,
+    Standard: Horário do Yukon,
+    Daylight: Horário do Yukon
+  },
+  Chile/Continental: {
+    Generic: Horário do Chile,
+    Standard: Horário Padrão do Chile,
+    Daylight: Horário de Verão do Chile
+  },
+  Chile/EasterIsland: {
+    Generic: Horário da Ilha de Páscoa,
+    Standard: Horário Padrão da Ilha de Páscoa,
+    Daylight: Horário de Verão da Ilha de Páscoa
+  },
+  Cuba: {
+    Generic: Horário de Cuba,
+    Standard: Horário Padrão de Cuba,
+    Daylight: Horário de Verão de Cuba
+  },
+  EET: {
+    Generic: Horário da Europa Oriental,
+    Standard: Horário Padrão da Europa Oriental,
+    Daylight: Horário de Verão da Europa Oriental
   },
   EST: {
     Generic: Horário Universal Coordenado -5,
     Standard: Horário Universal Coordenado -5,
     Daylight: Horário Universal Coordenado -5
   },
-  MST: {
-    Generic: Horário Universal Coordenado -7,
-    Standard: Horário Universal Coordenado -7,
-    Daylight: Horário Universal Coordenado -7
+  EST5EDT: {
+    Generic: Horário do Leste,
+    Standard: Horário Padrão do Leste,
+    Daylight: Horário de Verão do Leste
+  },
+  Egypt: {
+    Generic: Horário da Europa Oriental,
+    Standard: Horário Padrão da Europa Oriental,
+    Daylight: Horário de Verão da Europa Oriental
+  },
+  Eire: {
+    Generic: Horário Irlanda,
+    Standard: Horário do Meridiano de Greenwich,
+    Daylight: Horário Padrão Irlandês
+  },
+  Etc/GMT: {
+    Generic: Horário do Meridiano de Greenwich,
+    Standard: Horário do Meridiano de Greenwich,
+    Daylight: Horário do Meridiano de Greenwich
   },
   Etc/GMT+0: {
     Generic: Horário do Meridiano de Greenwich,
     Standard: Horário do Meridiano de Greenwich,
     Daylight: Horário do Meridiano de Greenwich
   },
+  Etc/GMT+1: {
+    Generic: Horário Universal Coordenado -1,
+    Standard: Horário Universal Coordenado -1,
+    Daylight: Horário Universal Coordenado -1
+  },
+  Etc/GMT+10: {
+    Generic: Horário Universal Coordenado -10,
+    Standard: Horário Universal Coordenado -10,
+    Daylight: Horário Universal Coordenado -10
+  },
+  Etc/GMT+11: {
+    Generic: Horário Universal Coordenado -11,
+    Standard: Horário Universal Coordenado -11,
+    Daylight: Horário Universal Coordenado -11
+  },
+  Etc/GMT+12: {
+    Generic: Horário Universal Coordenado -12,
+    Standard: Horário Universal Coordenado -12,
+    Daylight: Horário Universal Coordenado -12
+  },
+  Etc/GMT+2: {
+    Generic: Horário Universal Coordenado -2,
+    Standard: Horário Universal Coordenado -2,
+    Daylight: Horário Universal Coordenado -2
+  },
+  Etc/GMT+3: {
+    Generic: Horário Universal Coordenado -3,
+    Standard: Horário Universal Coordenado -3,
+    Daylight: Horário Universal Coordenado -3
+  },
+  Etc/GMT+4: {
+    Generic: Horário Universal Coordenado -4,
+    Standard: Horário Universal Coordenado -4,
+    Daylight: Horário Universal Coordenado -4
+  },
+  Etc/GMT+5: {
+    Generic: Horário Universal Coordenado -5,
+    Standard: Horário Universal Coordenado -5,
+    Daylight: Horário Universal Coordenado -5
+  },
+  Etc/GMT+6: {
+    Generic: Horário Universal Coordenado -6,
+    Standard: Horário Universal Coordenado -6,
+    Daylight: Horário Universal Coordenado -6
+  },
+  Etc/GMT+7: {
+    Generic: Horário Universal Coordenado -7,
+    Standard: Horário Universal Coordenado -7,
+    Daylight: Horário Universal Coordenado -7
+  },
+  Etc/GMT+8: {
+    Generic: Horário Universal Coordenado -8,
+    Standard: Horário Universal Coordenado -8,
+    Daylight: Horário Universal Coordenado -8
+  },
+  Etc/GMT+9: {
+    Generic: Horário Universal Coordenado -9,
+    Standard: Horário Universal Coordenado -9,
+    Daylight: Horário Universal Coordenado -9
+  },
   Etc/GMT-0: {
     Generic: Horário do Meridiano de Greenwich,
     Standard: Horário do Meridiano de Greenwich,
     Daylight: Horário do Meridiano de Greenwich
+  },
+  Etc/GMT-1: {
+    Generic: Horário Universal Coordenado +1,
+    Standard: Horário Universal Coordenado +1,
+    Daylight: Horário Universal Coordenado +1
+  },
+  Etc/GMT-10: {
+    Generic: Horário Universal Coordenado +10,
+    Standard: Horário Universal Coordenado +10,
+    Daylight: Horário Universal Coordenado +10
+  },
+  Etc/GMT-11: {
+    Generic: Horário Universal Coordenado +11,
+    Standard: Horário Universal Coordenado +11,
+    Daylight: Horário Universal Coordenado +11
+  },
+  Etc/GMT-12: {
+    Generic: Horário Universal Coordenado +12,
+    Standard: Horário Universal Coordenado +12,
+    Daylight: Horário Universal Coordenado +12
+  },
+  Etc/GMT-13: {
+    Generic: Horário Universal Coordenado +13,
+    Standard: Horário Universal Coordenado +13,
+    Daylight: Horário Universal Coordenado +13
+  },
+  Etc/GMT-14: {
+    Generic: Horário Universal Coordenado +14,
+    Standard: Horário Universal Coordenado +14,
+    Daylight: Horário Universal Coordenado +14
+  },
+  Etc/GMT-2: {
+    Generic: Horário Universal Coordenado +2,
+    Standard: Horário Universal Coordenado +2,
+    Daylight: Horário Universal Coordenado +2
+  },
+  Etc/GMT-3: {
+    Generic: Horário Universal Coordenado +3,
+    Standard: Horário Universal Coordenado +3,
+    Daylight: Horário Universal Coordenado +3
+  },
+  Etc/GMT-4: {
+    Generic: Horário Universal Coordenado +4,
+    Standard: Horário Universal Coordenado +4,
+    Daylight: Horário Universal Coordenado +4
+  },
+  Etc/GMT-5: {
+    Generic: Horário Universal Coordenado +5,
+    Standard: Horário Universal Coordenado +5,
+    Daylight: Horário Universal Coordenado +5
+  },
+  Etc/GMT-6: {
+    Generic: Horário Universal Coordenado +6,
+    Standard: Horário Universal Coordenado +6,
+    Daylight: Horário Universal Coordenado +6
+  },
+  Etc/GMT-7: {
+    Generic: Horário Universal Coordenado +7,
+    Standard: Horário Universal Coordenado +7,
+    Daylight: Horário Universal Coordenado +7
+  },
+  Etc/GMT-8: {
+    Generic: Horário Universal Coordenado +8,
+    Standard: Horário Universal Coordenado +8,
+    Daylight: Horário Universal Coordenado +8
+  },
+  Etc/GMT-9: {
+    Generic: Horário Universal Coordenado +9,
+    Standard: Horário Universal Coordenado +9,
+    Daylight: Horário Universal Coordenado +9
   },
   Etc/GMT0: {
     Generic: Horário do Meridiano de Greenwich,
@@ -2768,6 +2103,356 @@
     Generic: Horário do Meridiano de Greenwich,
     Standard: Horário do Meridiano de Greenwich,
     Daylight: Horário do Meridiano de Greenwich
+  },
+  Etc/UCT: {
+    Generic: Horário Universal Coordenado,
+    Standard: Horário Universal Coordenado,
+    Daylight: Horário Universal Coordenado
+  },
+  Etc/UTC: {
+    Generic: Horário Universal Coordenado,
+    Standard: Horário Universal Coordenado,
+    Daylight: Horário Universal Coordenado
+  },
+  Etc/Universal: {
+    Generic: Horário Universal Coordenado,
+    Standard: Horário Universal Coordenado,
+    Daylight: Horário Universal Coordenado
+  },
+  Etc/Zulu: {
+    Generic: Horário Universal Coordenado,
+    Standard: Horário Universal Coordenado,
+    Daylight: Horário Universal Coordenado
+  },
+  Europe/Amsterdam: {
+    Generic: Horário da Europa Central,
+    Standard: Horário Padrão da Europa Central,
+    Daylight: Horário de Verão da Europa Central
+  },
+  Europe/Andorra: {
+    Generic: Horário da Europa Central,
+    Standard: Horário Padrão da Europa Central,
+    Daylight: Horário de Verão da Europa Central
+  },
+  Europe/Astrakhan: {
+    Generic: Horário Astracã,
+    Standard: Horário Padrão: Astracã,
+    Daylight: Horário de Verão: Astracã
+  },
+  Europe/Athens: {
+    Generic: Horário da Europa Oriental,
+    Standard: Horário Padrão da Europa Oriental,
+    Daylight: Horário de Verão da Europa Oriental
+  },
+  Europe/Belfast: {
+    Generic: Horário Reino Unido,
+    Standard: Horário do Meridiano de Greenwich,
+    Daylight: Horário de Verão Britânico
+  },
+  Europe/Belgrade: {
+    Generic: Horário da Europa Central,
+    Standard: Horário Padrão da Europa Central,
+    Daylight: Horário de Verão da Europa Central
+  },
+  Europe/Berlin: {
+    Generic: Horário da Europa Central,
+    Standard: Horário Padrão da Europa Central,
+    Daylight: Horário de Verão da Europa Central
+  },
+  Europe/Bratislava: {
+    Generic: Horário da Europa Central,
+    Standard: Horário Padrão da Europa Central,
+    Daylight: Horário de Verão da Europa Central
+  },
+  Europe/Brussels: {
+    Generic: Horário da Europa Central,
+    Standard: Horário Padrão da Europa Central,
+    Daylight: Horário de Verão da Europa Central
+  },
+  Europe/Bucharest: {
+    Generic: Horário da Europa Oriental,
+    Standard: Horário Padrão da Europa Oriental,
+    Daylight: Horário de Verão da Europa Oriental
+  },
+  Europe/Budapest: {
+    Generic: Horário da Europa Central,
+    Standard: Horário Padrão da Europa Central,
+    Daylight: Horário de Verão da Europa Central
+  },
+  Europe/Busingen: {
+    Generic: Horário da Europa Central,
+    Standard: Horário Padrão da Europa Central,
+    Daylight: Horário de Verão da Europa Central
+  },
+  Europe/Chisinau: {
+    Generic: Horário da Europa Oriental,
+    Standard: Horário Padrão da Europa Oriental,
+    Daylight: Horário de Verão da Europa Oriental
+  },
+  Europe/Copenhagen: {
+    Generic: Horário da Europa Central,
+    Standard: Horário Padrão da Europa Central,
+    Daylight: Horário de Verão da Europa Central
+  },
+  Europe/Dublin: {
+    Generic: Horário Irlanda,
+    Standard: Horário do Meridiano de Greenwich,
+    Daylight: Horário Padrão Irlandês
+  },
+  Europe/Gibraltar: {
+    Generic: Horário da Europa Central,
+    Standard: Horário Padrão da Europa Central,
+    Daylight: Horário de Verão da Europa Central
+  },
+  Europe/Guernsey: {
+    Generic: Horário do Meridiano de Greenwich,
+    Standard: Horário do Meridiano de Greenwich,
+    Daylight: Horário do Meridiano de Greenwich
+  },
+  Europe/Helsinki: {
+    Generic: Horário da Europa Oriental,
+    Standard: Horário Padrão da Europa Oriental,
+    Daylight: Horário de Verão da Europa Oriental
+  },
+  Europe/Isle_of_Man: {
+    Generic: Horário do Meridiano de Greenwich,
+    Standard: Horário do Meridiano de Greenwich,
+    Daylight: Horário do Meridiano de Greenwich
+  },
+  Europe/Istanbul: {
+    Generic: Horário Turquia,
+    Standard: Horário Padrão: Turquia,
+    Daylight: Horário de Verão: Turquia
+  },
+  Europe/Jersey: {
+    Generic: Horário do Meridiano de Greenwich,
+    Standard: Horário do Meridiano de Greenwich,
+    Daylight: Horário do Meridiano de Greenwich
+  },
+  Europe/Kaliningrad: {
+    Generic: Horário Kaliningrado,
+    Standard: Horário Padrão: Kaliningrado,
+    Daylight: Horário de Verão: Kaliningrado
+  },
+  Europe/Kiev: {
+    Generic: Horário da Europa Oriental,
+    Standard: Horário Padrão da Europa Oriental,
+    Daylight: Horário de Verão da Europa Oriental
+  },
+  Europe/Kirov: {
+    Generic: Horário Kirov,
+    Standard: Horário Padrão: Kirov,
+    Daylight: Horário de Verão: Kirov
+  },
+  Europe/Kyiv: {
+    Generic: Horário da Europa Oriental,
+    Standard: Horário Padrão da Europa Oriental,
+    Daylight: Horário de Verão da Europa Oriental
+  },
+  Europe/Lisbon: {
+    Generic: Horário da Europa Ocidental,
+    Standard: Horário Padrão da Europa Ocidental,
+    Daylight: Horário de Verão da Europa Ocidental
+  },
+  Europe/Ljubljana: {
+    Generic: Horário da Europa Central,
+    Standard: Horário Padrão da Europa Central,
+    Daylight: Horário de Verão da Europa Central
+  },
+  Europe/London: {
+    Generic: Horário Reino Unido,
+    Standard: Horário do Meridiano de Greenwich,
+    Daylight: Horário de Verão Britânico
+  },
+  Europe/Luxembourg: {
+    Generic: Horário da Europa Central,
+    Standard: Horário Padrão da Europa Central,
+    Daylight: Horário de Verão da Europa Central
+  },
+  Europe/Madrid: {
+    Generic: Horário da Europa Central,
+    Standard: Horário Padrão da Europa Central,
+    Daylight: Horário de Verão da Europa Central
+  },
+  Europe/Malta: {
+    Generic: Horário da Europa Central,
+    Standard: Horário Padrão da Europa Central,
+    Daylight: Horário de Verão da Europa Central
+  },
+  Europe/Mariehamn: {
+    Generic: Horário da Europa Oriental,
+    Standard: Horário Padrão da Europa Oriental,
+    Daylight: Horário de Verão da Europa Oriental
+  },
+  Europe/Minsk: {
+    Generic: Horário de Moscou,
+    Standard: Horário Padrão de Moscou,
+    Daylight: Horário de Verão de Moscou
+  },
+  Europe/Monaco: {
+    Generic: Horário da Europa Central,
+    Standard: Horário Padrão da Europa Central,
+    Daylight: Horário de Verão da Europa Central
+  },
+  Europe/Moscow: {
+    Generic: Horário Moscou,
+    Standard: Horário Padrão: Moscou,
+    Daylight: Horário de Verão: Moscou
+  },
+  Europe/Nicosia: {
+    Generic: Horário da Europa Oriental,
+    Standard: Horário Padrão da Europa Oriental,
+    Daylight: Horário de Verão da Europa Oriental
+  },
+  Europe/Oslo: {
+    Generic: Horário da Europa Central,
+    Standard: Horário Padrão da Europa Central,
+    Daylight: Horário de Verão da Europa Central
+  },
+  Europe/Paris: {
+    Generic: Horário da Europa Central,
+    Standard: Horário Padrão da Europa Central,
+    Daylight: Horário de Verão da Europa Central
+  },
+  Europe/Podgorica: {
+    Generic: Horário da Europa Central,
+    Standard: Horário Padrão da Europa Central,
+    Daylight: Horário de Verão da Europa Central
+  },
+  Europe/Prague: {
+    Generic: Horário da Europa Central,
+    Standard: Horário Padrão da Europa Central,
+    Daylight: Horário de Verão da Europa Central
+  },
+  Europe/Riga: {
+    Generic: Horário da Europa Oriental,
+    Standard: Horário Padrão da Europa Oriental,
+    Daylight: Horário de Verão da Europa Oriental
+  },
+  Europe/Rome: {
+    Generic: Horário da Europa Central,
+    Standard: Horário Padrão da Europa Central,
+    Daylight: Horário de Verão da Europa Central
+  },
+  Europe/Samara: {
+    Generic: Horário Samara,
+    Standard: Horário Padrão: Samara,
+    Daylight: Horário de Verão: Samara
+  },
+  Europe/San_Marino: {
+    Generic: Horário da Europa Central,
+    Standard: Horário Padrão da Europa Central,
+    Daylight: Horário de Verão da Europa Central
+  },
+  Europe/Sarajevo: {
+    Generic: Horário da Europa Central,
+    Standard: Horário Padrão da Europa Central,
+    Daylight: Horário de Verão da Europa Central
+  },
+  Europe/Saratov: {
+    Generic: Horário Saratov,
+    Standard: Horário Padrão: Saratov,
+    Daylight: Horário de Verão: Saratov
+  },
+  Europe/Simferopol: {
+    Generic: Horário de Moscou,
+    Standard: Horário Padrão de Moscou,
+    Daylight: Horário de Verão de Moscou
+  },
+  Europe/Skopje: {
+    Generic: Horário da Europa Central,
+    Standard: Horário Padrão da Europa Central,
+    Daylight: Horário de Verão da Europa Central
+  },
+  Europe/Sofia: {
+    Generic: Horário da Europa Oriental,
+    Standard: Horário Padrão da Europa Oriental,
+    Daylight: Horário de Verão da Europa Oriental
+  },
+  Europe/Stockholm: {
+    Generic: Horário da Europa Central,
+    Standard: Horário Padrão da Europa Central,
+    Daylight: Horário de Verão da Europa Central
+  },
+  Europe/Tallinn: {
+    Generic: Horário da Europa Oriental,
+    Standard: Horário Padrão da Europa Oriental,
+    Daylight: Horário de Verão da Europa Oriental
+  },
+  Europe/Tirane: {
+    Generic: Horário da Europa Central,
+    Standard: Horário Padrão da Europa Central,
+    Daylight: Horário de Verão da Europa Central
+  },
+  Europe/Tiraspol: {
+    Generic: Horário da Europa Oriental,
+    Standard: Horário Padrão da Europa Oriental,
+    Daylight: Horário de Verão da Europa Oriental
+  },
+  Europe/Ulyanovsk: {
+    Generic: Horário Ulianovsk,
+    Standard: Horário Padrão: Ulianovsk,
+    Daylight: Horário de Verão: Ulianovsk
+  },
+  Europe/Uzhgorod: {
+    Generic: Horário da Europa Oriental,
+    Standard: Horário Padrão da Europa Oriental,
+    Daylight: Horário de Verão da Europa Oriental
+  },
+  Europe/Vaduz: {
+    Generic: Horário da Europa Central,
+    Standard: Horário Padrão da Europa Central,
+    Daylight: Horário de Verão da Europa Central
+  },
+  Europe/Vatican: {
+    Generic: Horário da Europa Central,
+    Standard: Horário Padrão da Europa Central,
+    Daylight: Horário de Verão da Europa Central
+  },
+  Europe/Vienna: {
+    Generic: Horário da Europa Central,
+    Standard: Horário Padrão da Europa Central,
+    Daylight: Horário de Verão da Europa Central
+  },
+  Europe/Vilnius: {
+    Generic: Horário da Europa Oriental,
+    Standard: Horário Padrão da Europa Oriental,
+    Daylight: Horário de Verão da Europa Oriental
+  },
+  Europe/Volgograd: {
+    Generic: Horário Volgogrado,
+    Standard: Horário Padrão: Volgogrado,
+    Daylight: Horário de Verão: Volgogrado
+  },
+  Europe/Warsaw: {
+    Generic: Horário da Europa Central,
+    Standard: Horário Padrão da Europa Central,
+    Daylight: Horário de Verão da Europa Central
+  },
+  Europe/Zagreb: {
+    Generic: Horário da Europa Central,
+    Standard: Horário Padrão da Europa Central,
+    Daylight: Horário de Verão da Europa Central
+  },
+  Europe/Zaporozhye: {
+    Generic: Horário da Europa Oriental,
+    Standard: Horário Padrão da Europa Oriental,
+    Daylight: Horário de Verão da Europa Oriental
+  },
+  Europe/Zurich: {
+    Generic: Horário da Europa Central,
+    Standard: Horário Padrão da Europa Central,
+    Daylight: Horário de Verão da Europa Central
+  },
+  GB: {
+    Generic: Horário Reino Unido,
+    Standard: Horário do Meridiano de Greenwich,
+    Daylight: Horário de Verão Britânico
+  },
+  GB-Eire: {
+    Generic: Horário Reino Unido,
+    Standard: Horário do Meridiano de Greenwich,
+    Daylight: Horário de Verão Britânico
   },
   GMT: {
     Generic: Horário do Meridiano de Greenwich,
@@ -2794,120 +2479,135 @@
     Standard: Horário do Meridiano de Greenwich,
     Daylight: Horário do Meridiano de Greenwich
   },
-  Etc/UCT: {
-    Generic: Horário Universal Coordenado,
-    Standard: Horário Universal Coordenado,
-    Daylight: Horário Universal Coordenado
+  HST: {
+    Generic: Horário Universal Coordenado -10,
+    Standard: Horário Universal Coordenado -10,
+    Daylight: Horário Universal Coordenado -10
   },
-  Etc/Universal: {
-    Generic: Horário Universal Coordenado,
-    Standard: Horário Universal Coordenado,
-    Daylight: Horário Universal Coordenado
+  Hongkong: {
+    Generic: Horário de Hong Kong,
+    Standard: Horário Padrão de Hong Kong,
+    Daylight: Horário de Verão de Hong Kong
   },
-  Etc/Zulu: {
-    Generic: Horário Universal Coordenado,
-    Standard: Horário Universal Coordenado,
-    Daylight: Horário Universal Coordenado
+  Iceland: {
+    Generic: Horário do Meridiano de Greenwich,
+    Standard: Horário do Meridiano de Greenwich,
+    Daylight: Horário do Meridiano de Greenwich
   },
-  UCT: {
-    Generic: Horário Universal Coordenado,
-    Standard: Horário Universal Coordenado,
-    Daylight: Horário Universal Coordenado
+  Indian/Antananarivo: {
+    Generic: Horário da África Oriental,
+    Standard: Horário da África Oriental,
+    Daylight: Horário da África Oriental
   },
-  UTC: {
-    Generic: Horário Universal Coordenado,
-    Standard: Horário Universal Coordenado,
-    Daylight: Horário Universal Coordenado
+  Indian/Chagos: {
+    Generic: Horário do Oceano Índico,
+    Standard: Horário do Oceano Índico,
+    Daylight: Horário do Oceano Índico
   },
-  Universal: {
-    Generic: Horário Universal Coordenado,
-    Standard: Horário Universal Coordenado,
-    Daylight: Horário Universal Coordenado
+  Indian/Christmas: {
+    Generic: Horário da Ilha Christmas,
+    Standard: Horário da Ilha Christmas,
+    Daylight: Horário da Ilha Christmas
   },
-  Zulu: {
-    Generic: Horário Universal Coordenado,
-    Standard: Horário Universal Coordenado,
-    Daylight: Horário Universal Coordenado
+  Indian/Cocos: {
+    Generic: Horário das Ilhas Coco,
+    Standard: Horário das Ilhas Coco,
+    Daylight: Horário das Ilhas Coco
   },
-  Atlantic/Jan_Mayen: {
-    Generic: Horário da Europa Central,
-    Standard: Horário Padrão da Europa Central,
-    Daylight: Horário de Verão da Europa Central
+  Indian/Comoro: {
+    Generic: Horário da África Oriental,
+    Standard: Horário da África Oriental,
+    Daylight: Horário da África Oriental
+  },
+  Indian/Kerguelen: {
+    Generic: Horário dos Territórios Franceses do Sul e Antártida,
+    Standard: Horário dos Territórios Franceses do Sul e Antártida,
+    Daylight: Horário dos Territórios Franceses do Sul e Antártida
+  },
+  Indian/Mahe: {
+    Generic: Horário de Seicheles,
+    Standard: Horário de Seicheles,
+    Daylight: Horário de Seicheles
+  },
+  Indian/Maldives: {
+    Generic: Horário das Ilhas Maldivas,
+    Standard: Horário das Ilhas Maldivas,
+    Daylight: Horário das Ilhas Maldivas
+  },
+  Indian/Mauritius: {
+    Generic: Horário de Maurício,
+    Standard: Horário Padrão de Maurício,
+    Daylight: Horário de Verão de Maurício
+  },
+  Indian/Mayotte: {
+    Generic: Horário da África Oriental,
+    Standard: Horário da África Oriental,
+    Daylight: Horário da África Oriental
+  },
+  Indian/Reunion: {
+    Generic: Horário de Reunião,
+    Standard: Horário de Reunião,
+    Daylight: Horário de Reunião
+  },
+  Iran: {
+    Generic: Horário do Irã,
+    Standard: Horário Padrão do Irã,
+    Daylight: Horário de Verão do Irã
+  },
+  Israel: {
+    Generic: Horário de Israel,
+    Standard: Horário Padrão de Israel,
+    Daylight: Horário de Verão de Israel
+  },
+  Jamaica: {
+    Generic: Horário do Leste,
+    Standard: Horário Padrão do Leste,
+    Daylight: Horário de Verão do Leste
+  },
+  Japan: {
+    Generic: Horário do Japão,
+    Standard: Horário Padrão do Japão,
+    Daylight: Horário de Verão do Japão
+  },
+  Kwajalein: {
+    Generic: Horário das Ilhas Marshall,
+    Standard: Horário das Ilhas Marshall,
+    Daylight: Horário das Ilhas Marshall
+  },
+  Libya: {
+    Generic: Horário da Europa Oriental,
+    Standard: Horário Padrão da Europa Oriental,
+    Daylight: Horário de Verão da Europa Oriental
   },
   MET: {
     Generic: Horário da Europa Central,
     Standard: Horário Padrão da Europa Central,
     Daylight: Horário de Verão da Europa Central
   },
-  EET: {
-    Generic: Horário da Europa Oriental,
-    Standard: Horário Padrão da Europa Oriental,
-    Daylight: Horário de Verão da Europa Oriental
+  MST: {
+    Generic: Horário Universal Coordenado -7,
+    Standard: Horário Universal Coordenado -7,
+    Daylight: Horário Universal Coordenado -7
   },
-  Europe/Tiraspol: {
-    Generic: Horário da Europa Oriental,
-    Standard: Horário Padrão da Europa Oriental,
-    Daylight: Horário de Verão da Europa Oriental
+  MST7MDT: {
+    Generic: Horário das Montanhas,
+    Standard: Horário Padrão das Montanhas,
+    Daylight: Horário de Verão das Montanhas
   },
-  Eire: {
-    Generic: Horário Irlanda,
-    Standard: Horário do Meridiano de Greenwich,
-    Daylight: Horário Padrão Irlandês
+  Mexico/BajaNorte: {
+    Generic: Horário do Pacífico,
+    Standard: Horário Padrão do Pacífico,
+    Daylight: Horário de Verão do Pacífico
   },
-  Asia/Istanbul: {
-    Generic: Horário Turquia,
-    Standard: Horário Padrão: Turquia,
-    Daylight: Horário de Verão: Turquia
+  Mexico/BajaSur: {
+    Generic: Horário do Pacífico Mexicano,
+    Standard: Horário Padrão do Pacífico Mexicano,
+    Daylight: Horário de Verão do Pacífico Mexicano
   },
-  Turkey: {
-    Generic: Horário Turquia,
-    Standard: Horário Padrão: Turquia,
-    Daylight: Horário de Verão: Turquia
-  },
-  Europe/Kyiv: {
-    Generic: Horário da Europa Oriental,
-    Standard: Horário Padrão da Europa Oriental,
-    Daylight: Horário de Verão da Europa Oriental
-  },
-  Portugal: {
-    Generic: Horário da Europa Ocidental,
-    Standard: Horário Padrão da Europa Ocidental,
-    Daylight: Horário de Verão da Europa Ocidental
-  },
-  Europe/Belfast: {
-    Generic: Horário Reino Unido,
-    Standard: Horário do Meridiano de Greenwich,
-    Daylight: Horário de Verão Britânico
-  },
-  GB: {
-    Generic: Horário Reino Unido,
-    Standard: Horário do Meridiano de Greenwich,
-    Daylight: Horário de Verão Britânico
-  },
-  GB-Eire: {
-    Generic: Horário Reino Unido,
-    Standard: Horário do Meridiano de Greenwich,
-    Daylight: Horário de Verão Britânico
-  },
-  W-SU: {
-    Generic: Horário Moscou,
-    Standard: Horário Padrão: Moscou,
-    Daylight: Horário de Verão: Moscou
-  },
-  CET: {
-    Generic: Horário da Europa Central,
-    Standard: Horário Padrão da Europa Central,
-    Daylight: Horário de Verão da Europa Central
-  },
-  Poland: {
-    Generic: Horário da Europa Central,
-    Standard: Horário Padrão da Europa Central,
-    Daylight: Horário de Verão da Europa Central
-  },
-  Antarctica/South_Pole: {
-    Generic: Horário da Nova Zelândia,
-    Standard: Horário Padrão da Nova Zelândia,
-    Daylight: Horário de Verão da Nova Zelândia
+  Mexico/General: {
+    Generic: Horário Central,
+    Standard: Horário Padrão Central,
+    Daylight: Horário de Verão Central
   },
   NZ: {
     Generic: Horário da Nova Zelândia,
@@ -2919,17 +2619,102 @@
     Standard: Horário Padrão de Chatham,
     Daylight: Horário de Verão de Chatham
   },
-  Chile/EasterIsland: {
+  Navajo: {
+    Generic: Horário das Montanhas,
+    Standard: Horário Padrão das Montanhas,
+    Daylight: Horário de Verão das Montanhas
+  },
+  PRC: {
+    Generic: Horário da China,
+    Standard: Horário Padrão da China,
+    Daylight: Horário de Verão da China
+  },
+  PST8PDT: {
+    Generic: Horário do Pacífico,
+    Standard: Horário Padrão do Pacífico,
+    Daylight: Horário de Verão do Pacífico
+  },
+  Pacific/Apia: {
+    Generic: Horário de Apia,
+    Standard: Horário Padrão de Apia,
+    Daylight: Horário de Verão de Apia
+  },
+  Pacific/Auckland: {
+    Generic: Horário da Nova Zelândia,
+    Standard: Horário Padrão da Nova Zelândia,
+    Daylight: Horário de Verão da Nova Zelândia
+  },
+  Pacific/Bougainville: {
+    Generic: Horário de Papua-Nova Guiné,
+    Standard: Horário de Papua-Nova Guiné,
+    Daylight: Horário de Papua-Nova Guiné
+  },
+  Pacific/Chatham: {
+    Generic: Horário de Chatham,
+    Standard: Horário Padrão de Chatham,
+    Daylight: Horário de Verão de Chatham
+  },
+  Pacific/Chuuk: {
+    Generic: Horário de Chuuk,
+    Standard: Horário de Chuuk,
+    Daylight: Horário de Chuuk
+  },
+  Pacific/Easter: {
     Generic: Horário da Ilha de Páscoa,
     Standard: Horário Padrão da Ilha de Páscoa,
     Daylight: Horário de Verão da Ilha de Páscoa
   },
-  Pacific/Pohnpei: {
-    Generic: Horário de Ponape,
-    Standard: Horário de Ponape,
-    Daylight: Horário de Ponape
+  Pacific/Efate: {
+    Generic: Horário de Vanuatu,
+    Standard: Horário Padrão de Vanuatu,
+    Daylight: Horário de Verão de Vanuatu
   },
-  US/Hawaii: {
+  Pacific/Enderbury: {
+    Generic: Horário das Ilhas Fênix,
+    Standard: Horário das Ilhas Fênix,
+    Daylight: Horário das Ilhas Fênix
+  },
+  Pacific/Fakaofo: {
+    Generic: Horário de Tokelau,
+    Standard: Horário de Tokelau,
+    Daylight: Horário de Tokelau
+  },
+  Pacific/Fiji: {
+    Generic: Horário de Fiji,
+    Standard: Horário Padrão de Fiji,
+    Daylight: Horário de Verão de Fiji
+  },
+  Pacific/Funafuti: {
+    Generic: Horário de Tuvalu,
+    Standard: Horário de Tuvalu,
+    Daylight: Horário de Tuvalu
+  },
+  Pacific/Galapagos: {
+    Generic: Horário de Galápagos,
+    Standard: Horário de Galápagos,
+    Daylight: Horário de Galápagos
+  },
+  Pacific/Gambier: {
+    Generic: Horário de Gambier,
+    Standard: Horário de Gambier,
+    Daylight: Horário de Gambier
+  },
+  Pacific/Guadalcanal: {
+    Generic: Horário das Ilhas Salomão,
+    Standard: Horário das Ilhas Salomão,
+    Daylight: Horário das Ilhas Salomão
+  },
+  Pacific/Guam: {
+    Generic: Horário de Chamorro,
+    Standard: Horário de Chamorro,
+    Daylight: Horário de Chamorro
+  },
+  Pacific/Honolulu: {
+    Generic: Horário do Havaí e Ilhas Aleutas,
+    Standard: Horário Padrão do Havaí e Ilhas Aleutas,
+    Daylight: Horário de Verão do Havaí e Ilhas Aleutas
+  },
+  Pacific/Johnston: {
     Generic: Horário do Havaí e Ilhas Aleutas,
     Standard: Horário Padrão do Havaí e Ilhas Aleutas,
     Daylight: Horário de Verão do Havaí e Ilhas Aleutas
@@ -2939,39 +2724,254 @@
     Standard: Horário das Ilhas Fênix,
     Daylight: Horário das Ilhas Fênix
   },
-  Kwajalein: {
+  Pacific/Kiritimati: {
+    Generic: Horário das Ilhas da Linha,
+    Standard: Horário das Ilhas da Linha,
+    Daylight: Horário das Ilhas da Linha
+  },
+  Pacific/Kosrae: {
+    Generic: Horário de Kosrae,
+    Standard: Horário de Kosrae,
+    Daylight: Horário de Kosrae
+  },
+  Pacific/Kwajalein: {
     Generic: Horário das Ilhas Marshall,
     Standard: Horário das Ilhas Marshall,
     Daylight: Horário das Ilhas Marshall
+  },
+  Pacific/Majuro: {
+    Generic: Horário das Ilhas Marshall,
+    Standard: Horário das Ilhas Marshall,
+    Daylight: Horário das Ilhas Marshall
+  },
+  Pacific/Marquesas: {
+    Generic: Horário das Marquesas,
+    Standard: Horário das Marquesas,
+    Daylight: Horário das Marquesas
+  },
+  Pacific/Midway: {
+    Generic: Horário de Samoa,
+    Standard: Horário Padrão de Samoa,
+    Daylight: Horário de Verão de Samoa
+  },
+  Pacific/Nauru: {
+    Generic: Horário de Nauru,
+    Standard: Horário de Nauru,
+    Daylight: Horário de Nauru
+  },
+  Pacific/Niue: {
+    Generic: Horário de Niue,
+    Standard: Horário de Niue,
+    Daylight: Horário de Niue
+  },
+  Pacific/Norfolk: {
+    Generic: Horário da Ilha Norfolk,
+    Standard: Horário Padrão da Ilha Norfolk,
+    Daylight: Horário de Verão da Ilha Norfolk
+  },
+  Pacific/Noumea: {
+    Generic: Horário da Nova Caledônia,
+    Standard: Horário Padrão da Nova Caledônia,
+    Daylight: Horário de Verão da Nova Caledônia
+  },
+  Pacific/Pago_Pago: {
+    Generic: Horário de Samoa,
+    Standard: Horário Padrão de Samoa,
+    Daylight: Horário de Verão de Samoa
+  },
+  Pacific/Palau: {
+    Generic: Horário de Palau,
+    Standard: Horário de Palau,
+    Daylight: Horário de Palau
+  },
+  Pacific/Pitcairn: {
+    Generic: Horário de Pitcairn,
+    Standard: Horário de Pitcairn,
+    Daylight: Horário de Pitcairn
+  },
+  Pacific/Pohnpei: {
+    Generic: Horário de Ponape,
+    Standard: Horário de Ponape,
+    Daylight: Horário de Ponape
+  },
+  Pacific/Ponape: {
+    Generic: Horário de Ponape,
+    Standard: Horário de Ponape,
+    Daylight: Horário de Ponape
+  },
+  Pacific/Port_Moresby: {
+    Generic: Horário de Papua-Nova Guiné,
+    Standard: Horário de Papua-Nova Guiné,
+    Daylight: Horário de Papua-Nova Guiné
+  },
+  Pacific/Rarotonga: {
+    Generic: Horário das Ilhas Cook,
+    Standard: Horário Padrão das Ilhas Cook,
+    Daylight: Meio Horário de Verão das Ilhas Cook
+  },
+  Pacific/Saipan: {
+    Generic: Horário de Chamorro,
+    Standard: Horário de Chamorro,
+    Daylight: Horário de Chamorro
   },
   Pacific/Samoa: {
     Generic: Horário de Samoa,
     Standard: Horário Padrão de Samoa,
     Daylight: Horário de Verão de Samoa
   },
-  US/Samoa: {
-    Generic: Horário de Samoa,
-    Standard: Horário Padrão de Samoa,
-    Daylight: Horário de Verão de Samoa
+  Pacific/Tahiti: {
+    Generic: Horário do Taiti,
+    Standard: Horário do Taiti,
+    Daylight: Horário do Taiti
   },
-  Pacific/Chuuk: {
+  Pacific/Tarawa: {
+    Generic: Horário das Ilhas Gilberto,
+    Standard: Horário das Ilhas Gilberto,
+    Daylight: Horário das Ilhas Gilberto
+  },
+  Pacific/Tongatapu: {
+    Generic: Horário de Tonga,
+    Standard: Horário Padrão de Tonga,
+    Daylight: Horário de Verão de Tonga
+  },
+  Pacific/Truk: {
     Generic: Horário de Chuuk,
     Standard: Horário de Chuuk,
     Daylight: Horário de Chuuk
+  },
+  Pacific/Wake: {
+    Generic: Horário das Ilhas Wake,
+    Standard: Horário das Ilhas Wake,
+    Daylight: Horário das Ilhas Wake
+  },
+  Pacific/Wallis: {
+    Generic: Horário de Wallis e Futuna,
+    Standard: Horário de Wallis e Futuna,
+    Daylight: Horário de Wallis e Futuna
   },
   Pacific/Yap: {
     Generic: Horário de Chuuk,
     Standard: Horário de Chuuk,
     Daylight: Horário de Chuuk
   },
-  America/Fort_Wayne: {
+  Poland: {
+    Generic: Horário da Europa Central,
+    Standard: Horário Padrão da Europa Central,
+    Daylight: Horário de Verão da Europa Central
+  },
+  Portugal: {
+    Generic: Horário da Europa Ocidental,
+    Standard: Horário Padrão da Europa Ocidental,
+    Daylight: Horário de Verão da Europa Ocidental
+  },
+  ROC: {
+    Generic: Horário de Taipei,
+    Standard: Horário Padrão de Taipei,
+    Daylight: Horário de Verão de Taipei
+  },
+  ROK: {
+    Generic: Horário da Coreia,
+    Standard: Horário Padrão da Coreia,
+    Daylight: Horário de Verão da Coreia
+  },
+  Singapore: {
+    Generic: Horário Padrão de Singapura,
+    Standard: Horário Padrão de Singapura,
+    Daylight: Horário Padrão de Singapura
+  },
+  Turkey: {
+    Generic: Horário Turquia,
+    Standard: Horário Padrão: Turquia,
+    Daylight: Horário de Verão: Turquia
+  },
+  UCT: {
+    Generic: Horário Universal Coordenado,
+    Standard: Horário Universal Coordenado,
+    Daylight: Horário Universal Coordenado
+  },
+  US/Alaska: {
+    Generic: Horário do Alasca,
+    Standard: Horário Padrão do Alasca,
+    Daylight: Horário de Verão do Alasca
+  },
+  US/Aleutian: {
+    Generic: Horário do Havaí e Ilhas Aleutas,
+    Standard: Horário Padrão do Havaí e Ilhas Aleutas,
+    Daylight: Horário de Verão do Havaí e Ilhas Aleutas
+  },
+  US/Arizona: {
+    Generic: Horário das Montanhas,
+    Standard: Horário Padrão das Montanhas,
+    Daylight: Horário de Verão das Montanhas
+  },
+  US/Central: {
+    Generic: Horário Central,
+    Standard: Horário Padrão Central,
+    Daylight: Horário de Verão Central
+  },
+  US/East-Indiana: {
     Generic: Horário do Leste,
     Standard: Horário Padrão do Leste,
     Daylight: Horário de Verão do Leste
   },
-  Antarctica/Troll: {
-    Generic: Horário do Meridiano de Greenwich,
-    Standard: Horário do Meridiano de Greenwich,
-    Daylight: Horário do Meridiano de Greenwich
+  US/Eastern: {
+    Generic: Horário do Leste,
+    Standard: Horário Padrão do Leste,
+    Daylight: Horário de Verão do Leste
+  },
+  US/Hawaii: {
+    Generic: Horário do Havaí e Ilhas Aleutas,
+    Standard: Horário Padrão do Havaí e Ilhas Aleutas,
+    Daylight: Horário de Verão do Havaí e Ilhas Aleutas
+  },
+  US/Indiana-Starke: {
+    Generic: Horário Central,
+    Standard: Horário Padrão Central,
+    Daylight: Horário de Verão Central
+  },
+  US/Michigan: {
+    Generic: Horário do Leste,
+    Standard: Horário Padrão do Leste,
+    Daylight: Horário de Verão do Leste
+  },
+  US/Mountain: {
+    Generic: Horário das Montanhas,
+    Standard: Horário Padrão das Montanhas,
+    Daylight: Horário de Verão das Montanhas
+  },
+  US/Pacific: {
+    Generic: Horário do Pacífico,
+    Standard: Horário Padrão do Pacífico,
+    Daylight: Horário de Verão do Pacífico
+  },
+  US/Samoa: {
+    Generic: Horário de Samoa,
+    Standard: Horário Padrão de Samoa,
+    Daylight: Horário de Verão de Samoa
+  },
+  UTC: {
+    Generic: Horário Universal Coordenado,
+    Standard: Horário Universal Coordenado,
+    Daylight: Horário Universal Coordenado
+  },
+  Universal: {
+    Generic: Horário Universal Coordenado,
+    Standard: Horário Universal Coordenado,
+    Daylight: Horário Universal Coordenado
+  },
+  W-SU: {
+    Generic: Horário Moscou,
+    Standard: Horário Padrão: Moscou,
+    Daylight: Horário de Verão: Moscou
+  },
+  WET: {
+    Generic: Horário da Europa Ocidental,
+    Standard: Horário Padrão da Europa Ocidental,
+    Daylight: Horário de Verão da Europa Ocidental
+  },
+  Zulu: {
+    Generic: Horário Universal Coordenado,
+    Standard: Horário Universal Coordenado,
+    Daylight: Horário Universal Coordenado
   }
 }

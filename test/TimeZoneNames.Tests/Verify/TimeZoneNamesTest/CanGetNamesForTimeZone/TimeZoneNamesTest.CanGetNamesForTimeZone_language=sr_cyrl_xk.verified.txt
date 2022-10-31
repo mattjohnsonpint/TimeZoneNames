@@ -1,115 +1,330 @@
 ﻿{
-  Australia/Darwin: {
-    Generic: Аустралијско централно време,
-    Standard: Аустралијско централно стандардно време,
-    Daylight: Аустралијско централно летње време
+  Africa/Abidjan: {
+    Generic: Средње време по Гриничу,
+    Standard: Средње време по Гриничу,
+    Daylight: Средње време по Гриничу
   },
-  Australia/Sydney: {
-    Generic: Аустралијско источно време,
-    Standard: Аустралијско источно стандардно време,
-    Daylight: Аустралијско источно летње време
+  Africa/Accra: {
+    Generic: Средње време по Гриничу,
+    Standard: Средње време по Гриничу,
+    Daylight: Средње време по Гриничу
   },
-  Australia/Melbourne: {
-    Generic: Аустралијско источно време,
-    Standard: Аустралијско источно стандардно време,
-    Daylight: Аустралијско источно летње време
+  Africa/Addis_Ababa: {
+    Generic: Источно-афричко време,
+    Standard: Источно-афричко време,
+    Daylight: Источно-афричко време
   },
-  Asia/Kabul: {
-    Generic: Авганистан време,
-    Standard: Авганистан време,
-    Daylight: Авганистан време
+  Africa/Algiers: {
+    Generic: Средњеевропско време,
+    Standard: Средњеевропско стандардно време,
+    Daylight: Средњеевропско летње време
   },
-  America/Anchorage: {
-    Generic: Аљаска,
-    Standard: Аљаска, стандардно време,
-    Daylight: Аљаска, летње време
+  Africa/Asmara: {
+    Generic: Источно-афричко време,
+    Standard: Источно-афричко време,
+    Daylight: Источно-афричко време
   },
-  America/Juneau: {
-    Generic: Аљаска,
-    Standard: Аљаска, стандардно време,
-    Daylight: Аљаска, летње време
+  Africa/Asmera: {
+    Generic: Источно-афричко време,
+    Standard: Источно-афричко време,
+    Daylight: Источно-афричко време
   },
-  America/Metlakatla: {
-    Generic: Аљаска,
-    Standard: Аљаска, стандардно време,
-    Daylight: Аљаска, летње време
+  Africa/Bamako: {
+    Generic: Средње време по Гриничу,
+    Standard: Средње време по Гриничу,
+    Daylight: Средње време по Гриничу
   },
-  America/Nome: {
-    Generic: Аљаска,
-    Standard: Аљаска, стандардно време,
-    Daylight: Аљаска, летње време
+  Africa/Bangui: {
+    Generic: Западно-афричко време,
+    Standard: Западно-афричко стандардно време,
+    Daylight: Западно-афричко летње време
   },
-  America/Sitka: {
-    Generic: Аљаска,
-    Standard: Аљаска, стандардно време,
-    Daylight: Аљаска, летње време
+  Africa/Banjul: {
+    Generic: Средње време по Гриничу,
+    Standard: Средње време по Гриничу,
+    Daylight: Средње време по Гриничу
   },
-  America/Yakutat: {
-    Generic: Аљаска,
-    Standard: Аљаска, стандардно време,
-    Daylight: Аљаска, летње време
+  Africa/Bissau: {
+    Generic: Средње време по Гриничу,
+    Standard: Средње време по Гриничу,
+    Daylight: Средње време по Гриничу
+  },
+  Africa/Blantyre: {
+    Generic: Централно-афричко време,
+    Standard: Централно-афричко време,
+    Daylight: Централно-афричко време
+  },
+  Africa/Brazzaville: {
+    Generic: Западно-афричко време,
+    Standard: Западно-афричко стандардно време,
+    Daylight: Западно-афричко летње време
+  },
+  Africa/Bujumbura: {
+    Generic: Централно-афричко време,
+    Standard: Централно-афричко време,
+    Daylight: Централно-афричко време
+  },
+  Africa/Cairo: {
+    Generic: Источноевропско време,
+    Standard: Источноевропско стандардно време,
+    Daylight: Источноевропско летње време
+  },
+  Africa/Casablanca: {
+    Generic: Западноевропско време,
+    Standard: Западноевропско стандардно време,
+    Daylight: Западноевропско летње време
+  },
+  Africa/Ceuta: {
+    Generic: Средњеевропско време,
+    Standard: Средњеевропско стандардно време,
+    Daylight: Средњеевропско летње време
+  },
+  Africa/Conakry: {
+    Generic: Средње време по Гриничу,
+    Standard: Средње време по Гриничу,
+    Daylight: Средње време по Гриничу
+  },
+  Africa/Dakar: {
+    Generic: Средње време по Гриничу,
+    Standard: Средње време по Гриничу,
+    Daylight: Средње време по Гриничу
+  },
+  Africa/Dar_es_Salaam: {
+    Generic: Источно-афричко време,
+    Standard: Источно-афричко време,
+    Daylight: Источно-афричко време
+  },
+  Africa/Djibouti: {
+    Generic: Источно-афричко време,
+    Standard: Источно-афричко време,
+    Daylight: Источно-афричко време
+  },
+  Africa/Douala: {
+    Generic: Западно-афричко време,
+    Standard: Западно-афричко стандардно време,
+    Daylight: Западно-афричко летње време
+  },
+  Africa/El_Aaiun: {
+    Generic: Западноевропско време,
+    Standard: Западноевропско стандардно време,
+    Daylight: Западноевропско летње време
+  },
+  Africa/Freetown: {
+    Generic: Средње време по Гриничу,
+    Standard: Средње време по Гриничу,
+    Daylight: Средње време по Гриничу
+  },
+  Africa/Gaborone: {
+    Generic: Централно-афричко време,
+    Standard: Централно-афричко време,
+    Daylight: Централно-афричко време
+  },
+  Africa/Harare: {
+    Generic: Централно-афричко време,
+    Standard: Централно-афричко време,
+    Daylight: Централно-афричко време
+  },
+  Africa/Johannesburg: {
+    Generic: Јужно-афричко време,
+    Standard: Јужно-афричко време,
+    Daylight: Јужно-афричко време
+  },
+  Africa/Juba: {
+    Generic: Централно-афричко време,
+    Standard: Централно-афричко време,
+    Daylight: Централно-афричко време
+  },
+  Africa/Kampala: {
+    Generic: Источно-афричко време,
+    Standard: Источно-афричко време,
+    Daylight: Источно-афричко време
+  },
+  Africa/Khartoum: {
+    Generic: Централно-афричко време,
+    Standard: Централно-афричко време,
+    Daylight: Централно-афричко време
+  },
+  Africa/Kigali: {
+    Generic: Централно-афричко време,
+    Standard: Централно-афричко време,
+    Daylight: Централно-афричко време
+  },
+  Africa/Kinshasa: {
+    Generic: Западно-афричко време,
+    Standard: Западно-афричко стандардно време,
+    Daylight: Западно-афричко летње време
+  },
+  Africa/Lagos: {
+    Generic: Западно-афричко време,
+    Standard: Западно-афричко стандардно време,
+    Daylight: Западно-афричко летње време
+  },
+  Africa/Libreville: {
+    Generic: Западно-афричко време,
+    Standard: Западно-афричко стандардно време,
+    Daylight: Западно-афричко летње време
+  },
+  Africa/Lome: {
+    Generic: Средње време по Гриничу,
+    Standard: Средње време по Гриничу,
+    Daylight: Средње време по Гриничу
+  },
+  Africa/Luanda: {
+    Generic: Западно-афричко време,
+    Standard: Западно-афричко стандардно време,
+    Daylight: Западно-афричко летње време
+  },
+  Africa/Lubumbashi: {
+    Generic: Централно-афричко време,
+    Standard: Централно-афричко време,
+    Daylight: Централно-афричко време
+  },
+  Africa/Lusaka: {
+    Generic: Централно-афричко време,
+    Standard: Централно-афричко време,
+    Daylight: Централно-афричко време
+  },
+  Africa/Malabo: {
+    Generic: Западно-афричко време,
+    Standard: Западно-афричко стандардно време,
+    Daylight: Западно-афричко летње време
+  },
+  Africa/Maputo: {
+    Generic: Централно-афричко време,
+    Standard: Централно-афричко време,
+    Daylight: Централно-афричко време
+  },
+  Africa/Maseru: {
+    Generic: Јужно-афричко време,
+    Standard: Јужно-афричко време,
+    Daylight: Јужно-афричко време
+  },
+  Africa/Mbabane: {
+    Generic: Јужно-афричко време,
+    Standard: Јужно-афричко време,
+    Daylight: Јужно-афричко време
+  },
+  Africa/Mogadishu: {
+    Generic: Источно-афричко време,
+    Standard: Источно-афричко време,
+    Daylight: Источно-афричко време
+  },
+  Africa/Monrovia: {
+    Generic: Средње време по Гриничу,
+    Standard: Средње време по Гриничу,
+    Daylight: Средње време по Гриничу
+  },
+  Africa/Nairobi: {
+    Generic: Источно-афричко време,
+    Standard: Источно-афричко време,
+    Daylight: Источно-афричко време
+  },
+  Africa/Ndjamena: {
+    Generic: Западно-афричко време,
+    Standard: Западно-афричко стандардно време,
+    Daylight: Западно-афричко летње време
+  },
+  Africa/Niamey: {
+    Generic: Западно-афричко време,
+    Standard: Западно-афричко стандардно време,
+    Daylight: Западно-афричко летње време
+  },
+  Africa/Nouakchott: {
+    Generic: Средње време по Гриничу,
+    Standard: Средње време по Гриничу,
+    Daylight: Средње време по Гриничу
+  },
+  Africa/Ouagadougou: {
+    Generic: Средње време по Гриничу,
+    Standard: Средње време по Гриничу,
+    Daylight: Средње време по Гриничу
+  },
+  Africa/Porto-Novo: {
+    Generic: Западно-афричко време,
+    Standard: Западно-афричко стандардно време,
+    Daylight: Западно-афричко летње време
+  },
+  Africa/Sao_Tome: {
+    Generic: Средње време по Гриничу,
+    Standard: Средње време по Гриничу,
+    Daylight: Средње време по Гриничу
+  },
+  Africa/Timbuktu: {
+    Generic: Средње време по Гриничу,
+    Standard: Средње време по Гриничу,
+    Daylight: Средње време по Гриничу
+  },
+  Africa/Tripoli: {
+    Generic: Источноевропско време,
+    Standard: Источноевропско стандардно време,
+    Daylight: Источноевропско летње време
+  },
+  Africa/Tunis: {
+    Generic: Средњеевропско време,
+    Standard: Средњеевропско стандардно време,
+    Daylight: Средњеевропско летње време
+  },
+  Africa/Windhoek: {
+    Generic: Централно-афричко време,
+    Standard: Централно-афричко време,
+    Daylight: Централно-афричко време
   },
   America/Adak: {
     Generic: Хавајско-алеутско време,
     Standard: Хавајско-алеутско стандардно време,
     Daylight: Хавајско-алеутско летње време
   },
-  Asia/Barnaul: {
-    Generic: Барнаул,
-    Standard: Барнаул, стандардно време,
-    Daylight: Барнаул, летње време
+  America/Anchorage: {
+    Generic: Аљаска,
+    Standard: Аљаска, стандардно време,
+    Daylight: Аљаска, летње време
   },
-  Asia/Riyadh: {
-    Generic: Арабијско време,
-    Standard: Арабијско стандардно време,
-    Daylight: Арабијско летње време
+  America/Anguilla: {
+    Generic: Атлантско време,
+    Standard: Атлантско стандардно време,
+    Daylight: Атлантско летње време
   },
-  Asia/Bahrain: {
-    Generic: Арабијско време,
-    Standard: Арабијско стандардно време,
-    Daylight: Арабијско летње време
+  America/Antigua: {
+    Generic: Атлантско време,
+    Standard: Атлантско стандардно време,
+    Daylight: Атлантско летње време
   },
-  Asia/Kuwait: {
-    Generic: Арабијско време,
-    Standard: Арабијско стандардно време,
-    Daylight: Арабијско летње време
+  America/Araguaina: {
+    Generic: Бразилија време,
+    Standard: Бразилија, стандардно време,
+    Daylight: Бразилија, летње време
   },
-  Asia/Qatar: {
-    Generic: Арабијско време,
-    Standard: Арабијско стандардно време,
-    Daylight: Арабијско летње време
+  America/Argentina/Buenos_Aires: {
+    Generic: Аргентина време,
+    Standard: Аргентина, стандардно време,
+    Daylight: Аргентина, летње време
   },
-  Asia/Aden: {
-    Generic: Арабијско време,
-    Standard: Арабијско стандардно време,
-    Daylight: Арабијско летње време
+  America/Argentina/Catamarca: {
+    Generic: Аргентина време,
+    Standard: Аргентина, стандардно време,
+    Daylight: Аргентина, летње време
   },
-  Asia/Dubai: {
-    Generic: Заливско време,
-    Standard: Заливско време,
-    Daylight: Заливско време
+  America/Argentina/ComodRivadavia: {
+    Generic: Аргентина време,
+    Standard: Аргентина, стандардно време,
+    Daylight: Аргентина, летње време
   },
-  Asia/Muscat: {
-    Generic: Заливско време,
-    Standard: Заливско време,
-    Daylight: Заливско време
+  America/Argentina/Cordoba: {
+    Generic: Аргентина време,
+    Standard: Аргентина, стандардно време,
+    Daylight: Аргентина, летње време
   },
-  Etc/GMT-4: {
-    Generic: Координисано универзално време +4,
-    Standard: Координисано универзално време +4,
-    Daylight: Координисано универзално време +4
-  },
-  Asia/Baghdad: {
-    Generic: Арабијско време,
-    Standard: Арабијско стандардно време,
-    Daylight: Арабијско летње време
-  },
-  America/Buenos_Aires: {
+  America/Argentina/Jujuy: {
     Generic: Аргентина време,
     Standard: Аргентина, стандардно време,
     Daylight: Аргентина, летње време
   },
   America/Argentina/La_Rioja: {
+    Generic: Аргентина време,
+    Standard: Аргентина, стандардно време,
+    Daylight: Аргентина, летње време
+  },
+  America/Argentina/Mendoza: {
     Generic: Аргентина време,
     Standard: Аргентина, стандардно време,
     Daylight: Аргентина, летње време
@@ -144,327 +359,432 @@
     Standard: Аргентина, стандардно време,
     Daylight: Аргентина, летње време
   },
-  America/Catamarca: {
-    Generic: Аргентина време,
-    Standard: Аргентина, стандардно време,
-    Daylight: Аргентина, летње време
-  },
-  America/Cordoba: {
-    Generic: Аргентина време,
-    Standard: Аргентина, стандардно време,
-    Daylight: Аргентина, летње време
-  },
-  America/Jujuy: {
-    Generic: Аргентина време,
-    Standard: Аргентина, стандардно време,
-    Daylight: Аргентина, летње време
-  },
-  America/Mendoza: {
-    Generic: Аргентина време,
-    Standard: Аргентина, стандардно време,
-    Daylight: Аргентина, летње време
-  },
-  Europe/Astrakhan: {
-    Generic: Астракан,
-    Standard: Астракан, стандардно време,
-    Daylight: Астракан, летње време
-  },
-  Europe/Ulyanovsk: {
-    Generic: Уљановск,
-    Standard: Уљановск, стандардно време,
-    Daylight: Уљановск, летње време
-  },
-  America/Halifax: {
+  America/Aruba: {
     Generic: Атлантско време,
     Standard: Атлантско стандардно време,
     Daylight: Атлантско летње време
   },
-  Atlantic/Bermuda: {
-    Generic: Атлантско време,
-    Standard: Атлантско стандардно време,
-    Daylight: Атлантско летње време
+  America/Asuncion: {
+    Generic: Парагвај време,
+    Standard: Парагвај, стандардно време,
+    Daylight: Парагвај, летње време
   },
-  America/Glace_Bay: {
-    Generic: Атлантско време,
-    Standard: Атлантско стандардно време,
-    Daylight: Атлантско летње време
+  America/Atikokan: {
+    Generic: Северноамеричко источно време,
+    Standard: Северноамеричко источно стандардно време,
+    Daylight: Северноамеричко источно летње време
   },
-  America/Goose_Bay: {
-    Generic: Атлантско време,
-    Standard: Атлантско стандардно време,
-    Daylight: Атлантско летње време
-  },
-  America/Moncton: {
-    Generic: Атлантско време,
-    Standard: Атлантско стандардно време,
-    Daylight: Атлантско летње време
-  },
-  America/Thule: {
-    Generic: Атлантско време,
-    Standard: Атлантско стандардно време,
-    Daylight: Атлантско летње време
-  },
-  Australia/Eucla: {
-    Generic: Аустралијско централно западно време,
-    Standard: Аустралијско централно западно стандардно време,
-    Daylight: Аустралијско централно западно летње време
-  },
-  Asia/Baku: {
-    Generic: Азербејџан време,
-    Standard: Азербејџан, стандардно време,
-    Daylight: Азербејџан, летње време
-  },
-  Atlantic/Azores: {
-    Generic: Азори време,
-    Standard: Азори, стандардно време,
-    Daylight: Азори, летње време
-  },
-  America/Scoresbysund: {
-    Generic: Источни Гренланд,
-    Standard: Источни Гренланд, стандардно време,
-    Daylight: Источни Гренланд, летње време
+  America/Atka: {
+    Generic: Хавајско-алеутско време,
+    Standard: Хавајско-алеутско стандардно време,
+    Daylight: Хавајско-алеутско летње време
   },
   America/Bahia: {
     Generic: Бразилија време,
     Standard: Бразилија, стандардно време,
     Daylight: Бразилија, летње време
   },
-  Asia/Dhaka: {
-    Generic: Бангладеш време,
-    Standard: Бангладеш, стандардно време,
-    Daylight: Бангладеш, летње време
-  },
-  Asia/Thimphu: {
-    Generic: Бутан време,
-    Standard: Бутан време,
-    Daylight: Бутан време
-  },
-  Europe/Minsk: {
-    Generic: Москва време,
-    Standard: Москва, стандардно време,
-    Daylight: Москва, летње време
-  },
-  Pacific/Bougainville: {
-    Generic: Папуа Нова Гвинеја време,
-    Standard: Папуа Нова Гвинеја време,
-    Daylight: Папуа Нова Гвинеја време
-  },
-  America/Regina: {
+  America/Bahia_Banderas: {
     Generic: Северноамеричко централно време,
     Standard: Северноамеричко централно стандардно време,
     Daylight: Северноамеричко централно летње време
   },
-  America/Swift_Current: {
-    Generic: Северноамеричко централно време,
-    Standard: Северноамеричко централно стандардно време,
-    Daylight: Северноамеричко централно летње време
+  America/Barbados: {
+    Generic: Атлантско време,
+    Standard: Атлантско стандардно време,
+    Daylight: Атлантско летње време
   },
-  Atlantic/Cape_Verde: {
-    Generic: Зеленортска Острва време,
-    Standard: Зеленортска Острва, стандардно време,
-    Daylight: Зеленортска Острва, летње време
-  },
-  Etc/GMT+1: {
-    Generic: Координисано универзално време -1,
-    Standard: Координисано универзално време -1,
-    Daylight: Координисано универзално време -1
-  },
-  Asia/Yerevan: {
-    Generic: Јерменија време,
-    Standard: Јерменија, стандардно време,
-    Daylight: Јерменија, летње време
-  },
-  Australia/Adelaide: {
-    Generic: Аустралијско централно време,
-    Standard: Аустралијско централно стандардно време,
-    Daylight: Аустралијско централно летње време
-  },
-  Australia/Broken_Hill: {
-    Generic: Аустралијско централно време,
-    Standard: Аустралијско централно стандардно време,
-    Daylight: Аустралијско централно летње време
-  },
-  America/Guatemala: {
-    Generic: Северноамеричко централно време,
-    Standard: Северноамеричко централно стандардно време,
-    Daylight: Северноамеричко централно летње време
+  America/Belem: {
+    Generic: Бразилија време,
+    Standard: Бразилија, стандардно време,
+    Daylight: Бразилија, летње време
   },
   America/Belize: {
     Generic: Северноамеричко централно време,
     Standard: Северноамеричко централно стандардно време,
     Daylight: Северноамеричко централно летње време
   },
-  America/Costa_Rica: {
-    Generic: Северноамеричко централно време,
-    Standard: Северноамеричко централно стандардно време,
-    Daylight: Северноамеричко централно летње време
+  America/Blanc-Sablon: {
+    Generic: Атлантско време,
+    Standard: Атлантско стандардно време,
+    Daylight: Атлантско летње време
   },
-  Pacific/Galapagos: {
-    Generic: Галапагос време,
-    Standard: Галапагос време,
-    Daylight: Галапагос време
-  },
-  America/Tegucigalpa: {
-    Generic: Северноамеричко централно време,
-    Standard: Северноамеричко централно стандардно време,
-    Daylight: Северноамеричко централно летње време
-  },
-  America/Managua: {
-    Generic: Северноамеричко централно време,
-    Standard: Северноамеричко централно стандардно време,
-    Daylight: Северноамеричко централно летње време
-  },
-  America/El_Salvador: {
-    Generic: Северноамеричко централно време,
-    Standard: Северноамеричко централно стандардно време,
-    Daylight: Северноамеричко централно летње време
-  },
-  Etc/GMT+6: {
-    Generic: Координисано универзално време -6,
-    Standard: Координисано универзално време -6,
-    Daylight: Координисано универзално време -6
-  },
-  Asia/Almaty: {
-    Generic: Источно-казахстанско време,
-    Standard: Источно-казахстанско време,
-    Daylight: Источно-казахстанско време
-  },
-  Antarctica/Vostok: {
-    Generic: Восток време,
-    Standard: Восток време,
-    Daylight: Восток време
-  },
-  Asia/Urumqi: {
-    Generic: Кина,
-    Standard: Кина, стандардно време,
-    Daylight: Кина, летње време
-  },
-  Indian/Chagos: {
-    Generic: Индијско океанско време,
-    Standard: Индијско океанско време,
-    Daylight: Индијско океанско време
-  },
-  Asia/Bishkek: {
-    Generic: Киргистан време,
-    Standard: Киргистан време,
-    Daylight: Киргистан време
-  },
-  Asia/Qostanay: {
-    Generic: Источно-казахстанско време,
-    Standard: Источно-казахстанско време,
-    Daylight: Источно-казахстанско време
-  },
-  Etc/GMT-6: {
-    Generic: Координисано универзално време +6,
-    Standard: Координисано универзално време +6,
-    Daylight: Координисано универзално време +6
-  },
-  America/Cuiaba: {
+  America/Boa_Vista: {
     Generic: Амазон време,
     Standard: Амазон, стандардно време,
     Daylight: Амазон, летње време
+  },
+  America/Bogota: {
+    Generic: Колумбија време,
+    Standard: Колумбија, стандардно време,
+    Daylight: Колумбија, летње време
+  },
+  America/Boise: {
+    Generic: Северноамеричко планинско време,
+    Standard: Северноамеричко планинско стандардно време,
+    Daylight: Северноамеричко планинско летње време
+  },
+  America/Buenos_Aires: {
+    Generic: Аргентина време,
+    Standard: Аргентина, стандардно време,
+    Daylight: Аргентина, летње време
+  },
+  America/Cambridge_Bay: {
+    Generic: Северноамеричко планинско време,
+    Standard: Северноамеричко планинско стандардно време,
+    Daylight: Северноамеричко планинско летње време
   },
   America/Campo_Grande: {
     Generic: Амазон време,
     Standard: Амазон, стандардно време,
     Daylight: Амазон, летње време
   },
-  Europe/Budapest: {
-    Generic: Средњеевропско време,
-    Standard: Средњеевропско стандардно време,
-    Daylight: Средњеевропско летње време
+  America/Cancun: {
+    Generic: Северноамеричко источно време,
+    Standard: Северноамеричко источно стандардно време,
+    Daylight: Северноамеричко источно летње време
   },
-  Europe/Tirane: {
-    Generic: Средњеевропско време,
-    Standard: Средњеевропско стандардно време,
-    Daylight: Средњеевропско летње време
+  America/Caracas: {
+    Generic: Венецуела време,
+    Standard: Венецуела време,
+    Daylight: Венецуела време
   },
-  Europe/Prague: {
-    Generic: Средњеевропско време,
-    Standard: Средњеевропско стандардно време,
-    Daylight: Средњеевропско летње време
+  America/Catamarca: {
+    Generic: Аргентина време,
+    Standard: Аргентина, стандардно време,
+    Daylight: Аргентина, летње време
   },
-  Europe/Podgorica: {
-    Generic: Средњеевропско време,
-    Standard: Средњеевропско стандардно време,
-    Daylight: Средњеевропско летње време
+  America/Cayenne: {
+    Generic: Француска Гвајана време,
+    Standard: Француска Гвајана време,
+    Daylight: Француска Гвајана време
   },
-  Europe/Belgrade: {
-    Generic: Средњеевропско време,
-    Standard: Средњеевропско стандардно време,
-    Daylight: Средњеевропско летње време
+  America/Cayman: {
+    Generic: Северноамеричко источно време,
+    Standard: Северноамеричко источно стандардно време,
+    Daylight: Северноамеричко источно летње време
   },
-  Europe/Ljubljana: {
-    Generic: Средњеевропско време,
-    Standard: Средњеевропско стандардно време,
-    Daylight: Средњеевропско летње време
-  },
-  Europe/Bratislava: {
-    Generic: Средњеевропско време,
-    Standard: Средњеевропско стандардно време,
-    Daylight: Средњеевропско летње време
-  },
-  Europe/Warsaw: {
-    Generic: Средњеевропско време,
-    Standard: Средњеевропско стандардно време,
-    Daylight: Средњеевропско летње време
-  },
-  Europe/Sarajevo: {
-    Generic: Средњеевропско време,
-    Standard: Средњеевропско стандардно време,
-    Daylight: Средњеевропско летње време
-  },
-  Europe/Zagreb: {
-    Generic: Средњеевропско време,
-    Standard: Средњеевропско стандардно време,
-    Daylight: Средњеевропско летње време
-  },
-  Europe/Skopje: {
-    Generic: Средњеевропско време,
-    Standard: Средњеевропско стандардно време,
-    Daylight: Средњеевропско летње време
-  },
-  Pacific/Guadalcanal: {
-    Generic: Соломонска Острва време,
-    Standard: Соломонска Острва време,
-    Daylight: Соломонска Острва време
-  },
-  Antarctica/Casey: {
-    Generic: Антарктик,
-    Standard: Антарктик, стандардно време,
-    Daylight: Антарктик, летње време
-  },
-  Pacific/Ponape: {
-    Generic: Понпеј време,
-    Standard: Понпеј време,
-    Daylight: Понпеј време
-  },
-  Pacific/Kosrae: {
-    Generic: Кошре време,
-    Standard: Кошре време,
-    Daylight: Кошре време
-  },
-  Pacific/Noumea: {
-    Generic: Нова Каледонија време,
-    Standard: Нова Каледонија, стандардно време,
-    Daylight: Нова Каледонија, летње време
-  },
-  Pacific/Efate: {
-    Generic: Вануату време,
-    Standard: Вануату, стандардно време,
-    Daylight: Вануату, летње време
-  },
-  Etc/GMT-11: {
-    Generic: Координисано универзално време +11,
-    Standard: Координисано универзално време +11,
-    Daylight: Координисано универзално време +11
-  },
-  America/Mexico_City: {
+  America/Chicago: {
     Generic: Северноамеричко централно време,
     Standard: Северноамеричко централно стандардно време,
     Daylight: Северноамеричко централно летње време
   },
-  America/Bahia_Banderas: {
+  America/Chihuahua: {
+    Generic: Мексички Пацифик,
+    Standard: Мексички Пацифик, стандардно време,
+    Daylight: Мексички Пацифик, летње време
+  },
+  America/Coral_Harbour: {
+    Generic: Северноамеричко источно време,
+    Standard: Северноамеричко источно стандардно време,
+    Daylight: Северноамеричко источно летње време
+  },
+  America/Cordoba: {
+    Generic: Аргентина време,
+    Standard: Аргентина, стандардно време,
+    Daylight: Аргентина, летње време
+  },
+  America/Costa_Rica: {
+    Generic: Северноамеричко централно време,
+    Standard: Северноамеричко централно стандардно време,
+    Daylight: Северноамеричко централно летње време
+  },
+  America/Creston: {
+    Generic: Северноамеричко планинско време,
+    Standard: Северноамеричко планинско стандардно време,
+    Daylight: Северноамеричко планинско летње време
+  },
+  America/Cuiaba: {
+    Generic: Амазон време,
+    Standard: Амазон, стандардно време,
+    Daylight: Амазон, летње време
+  },
+  America/Curacao: {
+    Generic: Атлантско време,
+    Standard: Атлантско стандардно време,
+    Daylight: Атлантско летње време
+  },
+  America/Danmarkshavn: {
+    Generic: Средње време по Гриничу,
+    Standard: Средње време по Гриничу,
+    Daylight: Средње време по Гриничу
+  },
+  America/Dawson: {
+    Generic: Јукон,
+    Standard: Јукон,
+    Daylight: Јукон
+  },
+  America/Dawson_Creek: {
+    Generic: Северноамеричко планинско време,
+    Standard: Северноамеричко планинско стандардно време,
+    Daylight: Северноамеричко планинско летње време
+  },
+  America/Denver: {
+    Generic: Северноамеричко планинско време,
+    Standard: Северноамеричко планинско стандардно време,
+    Daylight: Северноамеричко планинско летње време
+  },
+  America/Detroit: {
+    Generic: Северноамеричко источно време,
+    Standard: Северноамеричко источно стандардно време,
+    Daylight: Северноамеричко источно летње време
+  },
+  America/Dominica: {
+    Generic: Атлантско време,
+    Standard: Атлантско стандардно време,
+    Daylight: Атлантско летње време
+  },
+  America/Edmonton: {
+    Generic: Северноамеричко планинско време,
+    Standard: Северноамеричко планинско стандардно време,
+    Daylight: Северноамеричко планинско летње време
+  },
+  America/Eirunepe: {
+    Generic: Акре време,
+    Standard: Акре стандардно време,
+    Daylight: Акре летње рачунање времена
+  },
+  America/El_Salvador: {
+    Generic: Северноамеричко централно време,
+    Standard: Северноамеричко централно стандардно време,
+    Daylight: Северноамеричко централно летње време
+  },
+  America/Ensenada: {
+    Generic: Северноамеричко пацифичко време,
+    Standard: Северноамеричко пацифичко стандардно време,
+    Daylight: Северноамеричко пацифичко летње време
+  },
+  America/Fort_Nelson: {
+    Generic: Северноамеричко планинско време,
+    Standard: Северноамеричко планинско стандардно време,
+    Daylight: Северноамеричко планинско летње време
+  },
+  America/Fort_Wayne: {
+    Generic: Северноамеричко источно време,
+    Standard: Северноамеричко источно стандардно време,
+    Daylight: Северноамеричко источно летње време
+  },
+  America/Fortaleza: {
+    Generic: Бразилија време,
+    Standard: Бразилија, стандардно време,
+    Daylight: Бразилија, летње време
+  },
+  America/Glace_Bay: {
+    Generic: Атлантско време,
+    Standard: Атлантско стандардно време,
+    Daylight: Атлантско летње време
+  },
+  America/Godthab: {
+    Generic: Западни Гренланд,
+    Standard: Западни Гренланд, стандардно време,
+    Daylight: Западни Гренланд, летње време
+  },
+  America/Goose_Bay: {
+    Generic: Атлантско време,
+    Standard: Атлантско стандардно време,
+    Daylight: Атлантско летње време
+  },
+  America/Grand_Turk: {
+    Generic: Северноамеричко источно време,
+    Standard: Северноамеричко источно стандардно време,
+    Daylight: Северноамеричко источно летње време
+  },
+  America/Grenada: {
+    Generic: Атлантско време,
+    Standard: Атлантско стандардно време,
+    Daylight: Атлантско летње време
+  },
+  America/Guadeloupe: {
+    Generic: Атлантско време,
+    Standard: Атлантско стандардно време,
+    Daylight: Атлантско летње време
+  },
+  America/Guatemala: {
+    Generic: Северноамеричко централно време,
+    Standard: Северноамеричко централно стандардно време,
+    Daylight: Северноамеричко централно летње време
+  },
+  America/Guayaquil: {
+    Generic: Еквадор време,
+    Standard: Еквадор време,
+    Daylight: Еквадор време
+  },
+  America/Guyana: {
+    Generic: Гвајана време,
+    Standard: Гвајана време,
+    Daylight: Гвајана време
+  },
+  America/Halifax: {
+    Generic: Атлантско време,
+    Standard: Атлантско стандардно време,
+    Daylight: Атлантско летње време
+  },
+  America/Havana: {
+    Generic: Куба,
+    Standard: Куба, стандардно време,
+    Daylight: Куба, летње време
+  },
+  America/Hermosillo: {
+    Generic: Мексички Пацифик,
+    Standard: Мексички Пацифик, стандардно време,
+    Daylight: Мексички Пацифик, летње време
+  },
+  America/Indiana/Indianapolis: {
+    Generic: Северноамеричко источно време,
+    Standard: Северноамеричко источно стандардно време,
+    Daylight: Северноамеричко источно летње време
+  },
+  America/Indiana/Knox: {
+    Generic: Северноамеричко централно време,
+    Standard: Северноамеричко централно стандардно време,
+    Daylight: Северноамеричко централно летње време
+  },
+  America/Indiana/Marengo: {
+    Generic: Северноамеричко источно време,
+    Standard: Северноамеричко источно стандардно време,
+    Daylight: Северноамеричко источно летње време
+  },
+  America/Indiana/Petersburg: {
+    Generic: Северноамеричко источно време,
+    Standard: Северноамеричко источно стандардно време,
+    Daylight: Северноамеричко источно летње време
+  },
+  America/Indiana/Tell_City: {
+    Generic: Северноамеричко централно време,
+    Standard: Северноамеричко централно стандардно време,
+    Daylight: Северноамеричко централно летње време
+  },
+  America/Indiana/Vevay: {
+    Generic: Северноамеричко источно време,
+    Standard: Северноамеричко источно стандардно време,
+    Daylight: Северноамеричко источно летње време
+  },
+  America/Indiana/Vincennes: {
+    Generic: Северноамеричко источно време,
+    Standard: Северноамеричко источно стандардно време,
+    Daylight: Северноамеричко источно летње време
+  },
+  America/Indiana/Winamac: {
+    Generic: Северноамеричко источно време,
+    Standard: Северноамеричко источно стандардно време,
+    Daylight: Северноамеричко источно летње време
+  },
+  America/Indianapolis: {
+    Generic: Северноамеричко источно време,
+    Standard: Северноамеричко источно стандардно време,
+    Daylight: Северноамеричко источно летње време
+  },
+  America/Inuvik: {
+    Generic: Северноамеричко планинско време,
+    Standard: Северноамеричко планинско стандардно време,
+    Daylight: Северноамеричко планинско летње време
+  },
+  America/Iqaluit: {
+    Generic: Северноамеричко источно време,
+    Standard: Северноамеричко источно стандардно време,
+    Daylight: Северноамеричко источно летње време
+  },
+  America/Jamaica: {
+    Generic: Северноамеричко источно време,
+    Standard: Северноамеричко источно стандардно време,
+    Daylight: Северноамеричко источно летње време
+  },
+  America/Jujuy: {
+    Generic: Аргентина време,
+    Standard: Аргентина, стандардно време,
+    Daylight: Аргентина, летње време
+  },
+  America/Juneau: {
+    Generic: Аљаска,
+    Standard: Аљаска, стандардно време,
+    Daylight: Аљаска, летње време
+  },
+  America/Kentucky/Louisville: {
+    Generic: Северноамеричко источно време,
+    Standard: Северноамеричко источно стандардно време,
+    Daylight: Северноамеричко источно летње време
+  },
+  America/Kentucky/Monticello: {
+    Generic: Северноамеричко источно време,
+    Standard: Северноамеричко источно стандардно време,
+    Daylight: Северноамеричко источно летње време
+  },
+  America/Knox_IN: {
+    Generic: Северноамеричко централно време,
+    Standard: Северноамеричко централно стандардно време,
+    Daylight: Северноамеричко централно летње време
+  },
+  America/Kralendijk: {
+    Generic: Атлантско време,
+    Standard: Атлантско стандардно време,
+    Daylight: Атлантско летње време
+  },
+  America/La_Paz: {
+    Generic: Боливија време,
+    Standard: Боливија време,
+    Daylight: Боливија време
+  },
+  America/Lima: {
+    Generic: Перу време,
+    Standard: Перу, стандардно време,
+    Daylight: Перу, летње време
+  },
+  America/Los_Angeles: {
+    Generic: Северноамеричко пацифичко време,
+    Standard: Северноамеричко пацифичко стандардно време,
+    Daylight: Северноамеричко пацифичко летње време
+  },
+  America/Louisville: {
+    Generic: Северноамеричко источно време,
+    Standard: Северноамеричко источно стандардно време,
+    Daylight: Северноамеричко источно летње време
+  },
+  America/Lower_Princes: {
+    Generic: Атлантско време,
+    Standard: Атлантско стандардно време,
+    Daylight: Атлантско летње време
+  },
+  America/Maceio: {
+    Generic: Бразилија време,
+    Standard: Бразилија, стандардно време,
+    Daylight: Бразилија, летње време
+  },
+  America/Managua: {
+    Generic: Северноамеричко централно време,
+    Standard: Северноамеричко централно стандардно време,
+    Daylight: Северноамеричко централно летње време
+  },
+  America/Manaus: {
+    Generic: Амазон време,
+    Standard: Амазон, стандардно време,
+    Daylight: Амазон, летње време
+  },
+  America/Marigot: {
+    Generic: Атлантско време,
+    Standard: Атлантско стандардно време,
+    Daylight: Атлантско летње време
+  },
+  America/Martinique: {
+    Generic: Атлантско време,
+    Standard: Атлантско стандардно време,
+    Daylight: Атлантско летње време
+  },
+  America/Matamoros: {
+    Generic: Северноамеричко централно време,
+    Standard: Северноамеричко централно стандардно време,
+    Daylight: Северноамеричко централно летње време
+  },
+  America/Mazatlan: {
+    Generic: Мексички Пацифик,
+    Standard: Мексички Пацифик, стандардно време,
+    Daylight: Мексички Пацифик, летње време
+  },
+  America/Mendoza: {
+    Generic: Аргентина време,
+    Standard: Аргентина, стандардно време,
+    Daylight: Аргентина, летње време
+  },
+  America/Menominee: {
     Generic: Северноамеричко централно време,
     Standard: Северноамеричко централно стандардно време,
     Daylight: Северноамеричко централно летње време
@@ -474,55 +794,70 @@
     Standard: Северноамеричко централно стандардно време,
     Daylight: Северноамеричко централно летње време
   },
+  America/Metlakatla: {
+    Generic: Аљаска,
+    Standard: Аљаска, стандардно време,
+    Daylight: Аљаска, летње време
+  },
+  America/Mexico_City: {
+    Generic: Северноамеричко централно време,
+    Standard: Северноамеричко централно стандардно време,
+    Daylight: Северноамеричко централно летње време
+  },
+  America/Miquelon: {
+    Generic: Сен Пјер и Микелон,
+    Standard: Сен Пјер и Микелон, стандардно време,
+    Daylight: Сен Пјер и Микелон, летње време
+  },
+  America/Moncton: {
+    Generic: Атлантско време,
+    Standard: Атлантско стандардно време,
+    Daylight: Атлантско летње време
+  },
   America/Monterrey: {
     Generic: Северноамеричко централно време,
     Standard: Северноамеричко централно стандардно време,
     Daylight: Северноамеричко централно летње време
   },
-  America/Chicago: {
-    Generic: Северноамеричко централно време,
-    Standard: Северноамеричко централно стандардно време,
-    Daylight: Северноамеричко централно летње време
+  America/Montevideo: {
+    Generic: Уругвај време,
+    Standard: Уругвај, стандардно време,
+    Daylight: Уругвај, летње време
   },
-  America/Winnipeg: {
-    Generic: Северноамеричко централно време,
-    Standard: Северноамеричко централно стандардно време,
-    Daylight: Северноамеричко централно летње време
+  America/Montreal: {
+    Generic: Северноамеричко источно време,
+    Standard: Северноамеричко источно стандардно време,
+    Daylight: Северноамеричко источно летње време
   },
-  America/Rainy_River: {
-    Generic: Северноамеричко централно време,
-    Standard: Северноамеричко централно стандардно време,
-    Daylight: Северноамеричко централно летње време
+  America/Montserrat: {
+    Generic: Атлантско време,
+    Standard: Атлантско стандардно време,
+    Daylight: Атлантско летње време
   },
-  America/Rankin_Inlet: {
-    Generic: Северноамеричко централно време,
-    Standard: Северноамеричко централно стандардно време,
-    Daylight: Северноамеричко централно летње време
+  America/Nassau: {
+    Generic: Северноамеричко источно време,
+    Standard: Северноамеричко источно стандардно време,
+    Daylight: Северноамеричко источно летње време
   },
-  America/Resolute: {
-    Generic: Северноамеричко централно време,
-    Standard: Северноамеричко централно стандардно време,
-    Daylight: Северноамеричко централно летње време
+  America/New_York: {
+    Generic: Северноамеричко источно време,
+    Standard: Северноамеричко источно стандардно време,
+    Daylight: Северноамеричко источно летње време
   },
-  America/Matamoros: {
-    Generic: Северноамеричко централно време,
-    Standard: Северноамеричко централно стандардно време,
-    Daylight: Северноамеричко централно летње време
+  America/Nipigon: {
+    Generic: Северноамеричко источно време,
+    Standard: Северноамеричко источно стандардно време,
+    Daylight: Северноамеричко источно летње време
   },
-  America/Indiana/Knox: {
-    Generic: Северноамеричко централно време,
-    Standard: Северноамеричко централно стандардно време,
-    Daylight: Северноамеричко централно летње време
+  America/Nome: {
+    Generic: Аљаска,
+    Standard: Аљаска, стандардно време,
+    Daylight: Аљаска, летње време
   },
-  America/Indiana/Tell_City: {
-    Generic: Северноамеричко централно време,
-    Standard: Северноамеричко централно стандардно време,
-    Daylight: Северноамеричко централно летње време
-  },
-  America/Menominee: {
-    Generic: Северноамеричко централно време,
-    Standard: Северноамеричко централно стандардно време,
-    Daylight: Северноамеричко централно летње време
+  America/Noronha: {
+    Generic: Фернандо де Нороња време,
+    Standard: Фернандо де Нороња, стандардно време,
+    Daylight: Фернандо де Нороња, летње време
   },
   America/North_Dakota/Beulah: {
     Generic: Северноамеричко централно време,
@@ -539,157 +874,17 @@
     Standard: Северноамеричко централно стандардно време,
     Daylight: Северноамеричко централно летње време
   },
-  CST6CDT: {
-    Generic: Северноамеричко централно време,
-    Standard: Северноамеричко централно стандардно време,
-    Daylight: Северноамеричко централно летње време
+  America/Nuuk: {
+    Generic: Западни Гренланд,
+    Standard: Западни Гренланд, стандардно време,
+    Daylight: Западни Гренланд, летње време
   },
-  Pacific/Chatham: {
-    Generic: Чатам време,
-    Standard: Чатам, стандардно време,
-    Daylight: Чатам, летње време
+  America/Ojinaga: {
+    Generic: Северноамеричко планинско време,
+    Standard: Северноамеричко планинско стандардно време,
+    Daylight: Северноамеричко планинско летње време
   },
-  Asia/Shanghai: {
-    Generic: Кина време,
-    Standard: Кинеско стандардно време,
-    Daylight: Кина, летње време
-  },
-  Asia/Hong_Kong: {
-    Generic: Хонг Конг време,
-    Standard: Хонг Конг, стандардно време,
-    Daylight: Хонг Конг, летње време
-  },
-  Asia/Macau: {
-    Generic: Кина време,
-    Standard: Кинеско стандардно време,
-    Daylight: Кина, летње време
-  },
-  America/Havana: {
-    Generic: Куба,
-    Standard: Куба, стандардно време,
-    Daylight: Куба, летње време
-  },
-  Etc/GMT+12: {
-    Generic: Координисано универзално време -12,
-    Standard: Координисано универзално време -12,
-    Daylight: Координисано универзално време -12
-  },
-  Africa/Nairobi: {
-    Generic: Источно-афричко време,
-    Standard: Источно-афричко време,
-    Daylight: Источно-афричко време
-  },
-  Antarctica/Syowa: {
-    Generic: Шова време,
-    Standard: Шова време,
-    Daylight: Шова време
-  },
-  Africa/Djibouti: {
-    Generic: Источно-афричко време,
-    Standard: Источно-афричко време,
-    Daylight: Источно-афричко време
-  },
-  Africa/Asmera: {
-    Generic: Источно-афричко време,
-    Standard: Источно-афричко време,
-    Daylight: Источно-афричко време
-  },
-  Africa/Addis_Ababa: {
-    Generic: Источно-афричко време,
-    Standard: Источно-афричко време,
-    Daylight: Источно-афричко време
-  },
-  Indian/Comoro: {
-    Generic: Источно-афричко време,
-    Standard: Источно-афричко време,
-    Daylight: Источно-афричко време
-  },
-  Indian/Antananarivo: {
-    Generic: Источно-афричко време,
-    Standard: Источно-афричко време,
-    Daylight: Источно-афричко време
-  },
-  Africa/Mogadishu: {
-    Generic: Источно-афричко време,
-    Standard: Источно-афричко време,
-    Daylight: Источно-афричко време
-  },
-  Africa/Dar_es_Salaam: {
-    Generic: Источно-афричко време,
-    Standard: Источно-афричко време,
-    Daylight: Источно-афричко време
-  },
-  Africa/Kampala: {
-    Generic: Источно-афричко време,
-    Standard: Источно-афричко време,
-    Daylight: Источно-афричко време
-  },
-  Indian/Mayotte: {
-    Generic: Источно-афричко време,
-    Standard: Источно-афричко време,
-    Daylight: Источно-афричко време
-  },
-  Etc/GMT-3: {
-    Generic: Координисано универзално време +3,
-    Standard: Координисано универзално време +3,
-    Daylight: Координисано универзално време +3
-  },
-  Australia/Brisbane: {
-    Generic: Аустралијско источно време,
-    Standard: Аустралијско источно стандардно време,
-    Daylight: Аустралијско источно летње време
-  },
-  Australia/Lindeman: {
-    Generic: Аустралијско источно време,
-    Standard: Аустралијско источно стандардно време,
-    Daylight: Аустралијско источно летње време
-  },
-  Europe/Chisinau: {
-    Generic: Источноевропско време,
-    Standard: Источноевропско стандардно време,
-    Daylight: Источноевропско летње време
-  },
-  America/Sao_Paulo: {
-    Generic: Бразилија време,
-    Standard: Бразилија, стандардно време,
-    Daylight: Бразилија, летње време
-  },
-  Pacific/Easter: {
-    Generic: Ускршња острва време,
-    Standard: Ускршња острва, стандардно време,
-    Daylight: Ускршња острва, летње време
-  },
-  America/Cancun: {
-    Generic: Северноамеричко источно време,
-    Standard: Северноамеричко источно стандардно време,
-    Daylight: Северноамеричко источно летње време
-  },
-  America/New_York: {
-    Generic: Северноамеричко источно време,
-    Standard: Северноамеричко источно стандардно време,
-    Daylight: Северноамеричко источно летње време
-  },
-  America/Nassau: {
-    Generic: Северноамеричко источно време,
-    Standard: Северноамеричко источно стандардно време,
-    Daylight: Северноамеричко источно летње време
-  },
-  America/Toronto: {
-    Generic: Северноамеричко источно време,
-    Standard: Северноамеричко источно стандардно време,
-    Daylight: Северноамеричко источно летње време
-  },
-  America/Iqaluit: {
-    Generic: Северноамеричко источно време,
-    Standard: Северноамеричко источно стандардно време,
-    Daylight: Северноамеричко источно летње време
-  },
-  America/Montreal: {
-    Generic: Северноамеричко источно време,
-    Standard: Северноамеричко источно стандардно време,
-    Daylight: Северноамеричко источно летње време
-  },
-  America/Nipigon: {
+  America/Panama: {
     Generic: Северноамеричко источно време,
     Standard: Северноамеричко источно стандардно време,
     Daylight: Северноамеричко источно летње време
@@ -699,800 +894,130 @@
     Standard: Северноамеричко источно стандардно време,
     Daylight: Северноамеричко источно летње време
   },
-  America/Thunder_Bay: {
-    Generic: Северноамеричко источно време,
-    Standard: Северноамеричко источно стандардно време,
-    Daylight: Северноамеричко источно летње време
+  America/Paramaribo: {
+    Generic: Суринам време,
+    Standard: Суринам време,
+    Daylight: Суринам време
   },
-  America/Detroit: {
-    Generic: Северноамеричко источно време,
-    Standard: Северноамеричко источно стандардно време,
-    Daylight: Северноамеричко источно летње време
-  },
-  America/Indiana/Petersburg: {
-    Generic: Северноамеричко источно време,
-    Standard: Северноамеричко источно стандардно време,
-    Daylight: Северноамеричко источно летње време
-  },
-  America/Indiana/Vincennes: {
-    Generic: Северноамеричко источно време,
-    Standard: Северноамеричко источно стандардно време,
-    Daylight: Северноамеричко источно летње време
-  },
-  America/Indiana/Winamac: {
-    Generic: Северноамеричко источно време,
-    Standard: Северноамеричко источно стандардно време,
-    Daylight: Северноамеричко источно летње време
-  },
-  America/Kentucky/Monticello: {
-    Generic: Северноамеричко источно време,
-    Standard: Северноамеричко источно стандардно време,
-    Daylight: Северноамеричко источно летње време
-  },
-  America/Louisville: {
-    Generic: Северноамеричко источно време,
-    Standard: Северноамеричко источно стандардно време,
-    Daylight: Северноамеричко источно летње време
-  },
-  EST5EDT: {
-    Generic: Северноамеричко источно време,
-    Standard: Северноамеричко источно стандардно време,
-    Daylight: Северноамеричко источно летње време
-  },
-  Africa/Cairo: {
-    Generic: Источноевропско време,
-    Standard: Источноевропско стандардно време,
-    Daylight: Источноевропско летње време
-  },
-  Asia/Yekaterinburg: {
-    Generic: Јекатеринбург,
-    Standard: Јекатеринбург, стандардно време,
-    Daylight: Јекатеринбург, летње време
-  },
-  Europe/Kiev: {
-    Generic: Источноевропско време,
-    Standard: Источноевропско стандардно време,
-    Daylight: Источноевропско летње време
-  },
-  Europe/Mariehamn: {
-    Generic: Источноевропско време,
-    Standard: Источноевропско стандардно време,
-    Daylight: Источноевропско летње време
-  },
-  Europe/Sofia: {
-    Generic: Источноевропско време,
-    Standard: Источноевропско стандардно време,
-    Daylight: Источноевропско летње време
-  },
-  Europe/Tallinn: {
-    Generic: Источноевропско време,
-    Standard: Источноевропско стандардно време,
-    Daylight: Источноевропско летње време
-  },
-  Europe/Helsinki: {
-    Generic: Источноевропско време,
-    Standard: Источноевропско стандардно време,
-    Daylight: Источноевропско летње време
-  },
-  Europe/Vilnius: {
-    Generic: Источноевропско време,
-    Standard: Источноевропско стандардно време,
-    Daylight: Источноевропско летње време
-  },
-  Europe/Riga: {
-    Generic: Источноевропско време,
-    Standard: Источноевропско стандардно време,
-    Daylight: Источноевропско летње време
-  },
-  Europe/Uzhgorod: {
-    Generic: Источноевропско време,
-    Standard: Источноевропско стандардно време,
-    Daylight: Источноевропско летње време
-  },
-  Europe/Zaporozhye: {
-    Generic: Источноевропско време,
-    Standard: Источноевропско стандардно време,
-    Daylight: Источноевропско летње време
-  },
-  Pacific/Fiji: {
-    Generic: Фиџи време,
-    Standard: Фиџи, стандардно време,
-    Daylight: Фиџи, летње време
-  },
-  Europe/London: {
-    Generic: Уједињено Краљевство,
-    Standard: Средње време по Гриничу,
-    Daylight: Британија, летње време
-  },
-  Atlantic/Canary: {
-    Generic: Западноевропско време,
-    Standard: Западноевропско стандардно време,
-    Daylight: Западноевропско летње време
-  },
-  Atlantic/Faeroe: {
-    Generic: Западноевропско време,
-    Standard: Западноевропско стандардно време,
-    Daylight: Западноевропско летње време
-  },
-  Europe/Guernsey: {
-    Generic: Средње време по Гриничу,
-    Standard: Средње време по Гриничу,
-    Daylight: Средње време по Гриничу
-  },
-  Europe/Dublin: {
-    Generic: Ирска,
-    Standard: Средње време по Гриничу,
-    Daylight: Ирска, стандардно време
-  },
-  Europe/Isle_of_Man: {
-    Generic: Средње време по Гриничу,
-    Standard: Средње време по Гриничу,
-    Daylight: Средње време по Гриничу
-  },
-  Europe/Jersey: {
-    Generic: Средње време по Гриничу,
-    Standard: Средње време по Гриничу,
-    Daylight: Средње време по Гриничу
-  },
-  Europe/Lisbon: {
-    Generic: Западноевропско време,
-    Standard: Западноевропско стандардно време,
-    Daylight: Западноевропско летње време
-  },
-  Atlantic/Madeira: {
-    Generic: Западноевропско време,
-    Standard: Западноевропско стандардно време,
-    Daylight: Западноевропско летње време
-  },
-  Europe/Bucharest: {
-    Generic: Источноевропско време,
-    Standard: Источноевропско стандардно време,
-    Daylight: Источноевропско летње време
-  },
-  Asia/Nicosia: {
-    Generic: Источноевропско време,
-    Standard: Источноевропско стандардно време,
-    Daylight: Источноевропско летње време
-  },
-  Asia/Famagusta: {
-    Generic: Источноевропско време,
-    Standard: Источноевропско стандардно време,
-    Daylight: Источноевропско летње време
-  },
-  Europe/Athens: {
-    Generic: Источноевропско време,
-    Standard: Источноевропско стандардно време,
-    Daylight: Источноевропско летње време
-  },
-  Asia/Tbilisi: {
-    Generic: Грузија време,
-    Standard: Грузија, стандардно време,
-    Daylight: Грузија, летње време
-  },
-  America/Godthab: {
-    Generic: Западни Гренланд,
-    Standard: Западни Гренланд, стандардно време,
-    Daylight: Западни Гренланд, летње време
-  },
-  Atlantic/Reykjavik: {
-    Generic: Средње време по Гриничу,
-    Standard: Средње време по Гриничу,
-    Daylight: Средње време по Гриничу
-  },
-  Atlantic/St_Helena: {
-    Generic: Средње време по Гриничу,
-    Standard: Средње време по Гриничу,
-    Daylight: Средње време по Гриничу
-  },
-  Africa/Ouagadougou: {
-    Generic: Средње време по Гриничу,
-    Standard: Средње време по Гриничу,
-    Daylight: Средње време по Гриничу
-  },
-  Africa/Abidjan: {
-    Generic: Средње време по Гриничу,
-    Standard: Средње време по Гриничу,
-    Daylight: Средње време по Гриничу
-  },
-  Africa/Accra: {
-    Generic: Средње време по Гриничу,
-    Standard: Средње време по Гриничу,
-    Daylight: Средње време по Гриничу
-  },
-  America/Danmarkshavn: {
-    Generic: Средње време по Гриничу,
-    Standard: Средње време по Гриничу,
-    Daylight: Средње време по Гриничу
-  },
-  Africa/Banjul: {
-    Generic: Средње време по Гриничу,
-    Standard: Средње време по Гриничу,
-    Daylight: Средње време по Гриничу
-  },
-  Africa/Conakry: {
-    Generic: Средње време по Гриничу,
-    Standard: Средње време по Гриничу,
-    Daylight: Средње време по Гриничу
-  },
-  Africa/Bissau: {
-    Generic: Средње време по Гриничу,
-    Standard: Средње време по Гриничу,
-    Daylight: Средње време по Гриничу
-  },
-  Africa/Monrovia: {
-    Generic: Средње време по Гриничу,
-    Standard: Средње време по Гриничу,
-    Daylight: Средње време по Гриничу
-  },
-  Africa/Bamako: {
-    Generic: Средње време по Гриничу,
-    Standard: Средње време по Гриничу,
-    Daylight: Средње време по Гриничу
-  },
-  Africa/Nouakchott: {
-    Generic: Средње време по Гриничу,
-    Standard: Средње време по Гриничу,
-    Daylight: Средње време по Гриничу
-  },
-  Africa/Freetown: {
-    Generic: Средње време по Гриничу,
-    Standard: Средње време по Гриничу,
-    Daylight: Средње време по Гриничу
-  },
-  Africa/Dakar: {
-    Generic: Средње време по Гриничу,
-    Standard: Средње време по Гриничу,
-    Daylight: Средње време по Гриничу
-  },
-  Africa/Lome: {
-    Generic: Средње време по Гриничу,
-    Standard: Средње време по Гриничу,
-    Daylight: Средње време по Гриничу
+  America/Phoenix: {
+    Generic: Северноамеричко планинско време,
+    Standard: Северноамеричко планинско стандардно време,
+    Daylight: Северноамеричко планинско летње време
   },
   America/Port-au-Prince: {
     Generic: Северноамеричко источно време,
     Standard: Северноамеричко источно стандардно време,
     Daylight: Северноамеричко источно летње време
   },
-  Pacific/Honolulu: {
-    Generic: Хавајско-алеутско време,
-    Standard: Хавајско-алеутско стандардно време,
-    Daylight: Хавајско-алеутско летње време
-  },
-  Pacific/Rarotonga: {
-    Generic: Кукова острва време,
-    Standard: Кукова острва, стандардно време,
-    Daylight: Кукова острва, полу-летње време
-  },
-  Pacific/Tahiti: {
-    Generic: Тахити време,
-    Standard: Тахити време,
-    Daylight: Тахити време
-  },
-  Pacific/Johnston: {
-    Generic: Хавајско-алеутско време,
-    Standard: Хавајско-алеутско стандардно време,
-    Daylight: Хавајско-алеутско летње време
-  },
-  Etc/GMT+10: {
-    Generic: Координисано универзално време -10,
-    Standard: Координисано универзално време -10,
-    Daylight: Координисано универзално време -10
-  },
-  Asia/Calcutta: {
-    Generic: Индијско стандардно време,
-    Standard: Индијско стандардно време,
-    Daylight: Индијско стандардно време
-  },
-  Asia/Tehran: {
-    Generic: Иран време,
-    Standard: Иран, стандардно време,
-    Daylight: Иран, летње време
-  },
-  Asia/Jerusalem: {
-    Generic: Израелско време,
-    Standard: Израелско стандардно време,
-    Daylight: Израелско летње време
-  },
-  Asia/Amman: {
-    Generic: Источноевропско време,
-    Standard: Источноевропско стандардно време,
-    Daylight: Источноевропско летње време
-  },
-  Europe/Kaliningrad: {
-    Generic: Калињинград,
-    Standard: Калињинград, стандардно време,
-    Daylight: Калињинград, летње време
-  },
-  Asia/Seoul: {
-    Generic: Корејско време,
-    Standard: Корејско стандардно време,
-    Daylight: Корејско летње време
-  },
-  Africa/Tripoli: {
-    Generic: Источноевропско време,
-    Standard: Источноевропско стандардно време,
-    Daylight: Источноевропско летње време
-  },
-  Pacific/Kiritimati: {
-    Generic: Острва Лајн време,
-    Standard: Острва Лајн време,
-    Daylight: Острва Лајн време
-  },
-  Etc/GMT-14: {
-    Generic: Координисано универзално време +14,
-    Standard: Координисано универзално време +14,
-    Daylight: Координисано универзално време +14
-  },
-  Australia/Lord_Howe: {
-    Generic: Лорд Хов време,
-    Standard: Лорд Хов, стандардно време,
-    Daylight: Лорд Хов, летње време
-  },
-  Asia/Magadan: {
-    Generic: Магадан,
-    Standard: Магадан, стандардно време,
-    Daylight: Магадан, летње време
-  },
-  America/Punta_Arenas: {
-    Generic: Чиле време,
-    Standard: Чиле, стандардно време,
-    Daylight: Чиле, летње време
-  },
-  Pacific/Marquesas: {
-    Generic: Маркиз време,
-    Standard: Маркиз време,
-    Daylight: Маркиз време
-  },
-  Indian/Mauritius: {
-    Generic: Маурицијус време,
-    Standard: Маурицијус, стандардно време,
-    Daylight: Маурицијус, летње време
-  },
-  Indian/Reunion: {
-    Generic: Реинион време,
-    Standard: Реинион време,
-    Daylight: Реинион време
-  },
-  Indian/Mahe: {
-    Generic: Сејшели време,
-    Standard: Сејшели време,
-    Daylight: Сејшели време
-  },
-  Asia/Beirut: {
-    Generic: Источноевропско време,
-    Standard: Источноевропско стандардно време,
-    Daylight: Источноевропско летње време
-  },
-  America/Montevideo: {
-    Generic: Уругвај време,
-    Standard: Уругвај, стандардно време,
-    Daylight: Уругвај, летње време
-  },
-  Africa/Casablanca: {
-    Generic: Западноевропско време,
-    Standard: Западноевропско стандардно време,
-    Daylight: Западноевропско летње време
-  },
-  Africa/El_Aaiun: {
-    Generic: Западноевропско време,
-    Standard: Западноевропско стандардно време,
-    Daylight: Западноевропско летње време
-  },
-  America/Chihuahua: {
-    Generic: Мексички Пацифик,
-    Standard: Мексички Пацифик, стандардно време,
-    Daylight: Мексички Пацифик, летње време
-  },
-  America/Mazatlan: {
-    Generic: Мексички Пацифик,
-    Standard: Мексички Пацифик, стандардно време,
-    Daylight: Мексички Пацифик, летње време
-  },
-  America/Denver: {
-    Generic: Северноамеричко планинско време,
-    Standard: Северноамеричко планинско стандардно време,
-    Daylight: Северноамеричко планинско летње време
-  },
-  America/Edmonton: {
-    Generic: Северноамеричко планинско време,
-    Standard: Северноамеричко планинско стандардно време,
-    Daylight: Северноамеричко планинско летње време
-  },
-  America/Cambridge_Bay: {
-    Generic: Северноамеричко планинско време,
-    Standard: Северноамеричко планинско стандардно време,
-    Daylight: Северноамеричко планинско летње време
-  },
-  America/Inuvik: {
-    Generic: Северноамеричко планинско време,
-    Standard: Северноамеричко планинско стандардно време,
-    Daylight: Северноамеричко планинско летње време
-  },
-  America/Yellowknife: {
-    Generic: Северноамеричко планинско време,
-    Standard: Северноамеричко планинско стандардно време,
-    Daylight: Северноамеричко планинско летње време
-  },
-  America/Ojinaga: {
-    Generic: Северноамеричко планинско време,
-    Standard: Северноамеричко планинско стандардно време,
-    Daylight: Северноамеричко планинско летње време
-  },
-  America/Boise: {
-    Generic: Северноамеричко планинско време,
-    Standard: Северноамеричко планинско стандардно време,
-    Daylight: Северноамеричко планинско летње време
-  },
-  MST7MDT: {
-    Generic: Северноамеричко планинско време,
-    Standard: Северноамеричко планинско стандардно време,
-    Daylight: Северноамеричко планинско летње време
-  },
-  Asia/Rangoon: {
-    Generic: Мијанмар време,
-    Standard: Мијанмар време,
-    Daylight: Мијанмар време
-  },
-  Indian/Cocos: {
-    Generic: Кокос (Келинг) Острва време,
-    Standard: Кокос (Келинг) Острва време,
-    Daylight: Кокос (Келинг) Острва време
-  },
-  Asia/Novosibirsk: {
-    Generic: Новосибирск,
-    Standard: Новосибирск, стандардно време,
-    Daylight: Новосибирск, летње време
-  },
-  Africa/Windhoek: {
-    Generic: Централно-афричко време,
-    Standard: Централно-афричко време,
-    Daylight: Централно-афричко време
-  },
-  Asia/Katmandu: {
-    Generic: Непал време,
-    Standard: Непал време,
-    Daylight: Непал време
-  },
-  Pacific/Auckland: {
-    Generic: Нови Зеланд време,
-    Standard: Нови Зеланд, стандардно време,
-    Daylight: Нови Зеланд, летње време
-  },
-  Antarctica/McMurdo: {
-    Generic: Нови Зеланд време,
-    Standard: Нови Зеланд, стандардно време,
-    Daylight: Нови Зеланд, летње време
-  },
-  America/St_Johns: {
-    Generic: Њуфаундленд,
-    Standard: Њуфаундленд, стандардно време,
-    Daylight: Њуфаундленд, летње време
-  },
-  Pacific/Norfolk: {
-    Generic: Норфолк Острво време,
-    Standard: Норфолк Острво, стандардно време,
-    Daylight: Норфолк Острво, летње време
-  },
-  Asia/Irkutsk: {
-    Generic: Иркуцк,
-    Standard: Иркуцк, стандардно време,
-    Daylight: Иркуцк, летње време
-  },
-  Asia/Krasnoyarsk: {
-    Generic: Краснојарск,
-    Standard: Краснојарск, стандардно време,
-    Daylight: Краснојарск, летње време
-  },
-  Asia/Novokuznetsk: {
-    Generic: Новокузњецк,
-    Standard: Новокузњецк, стандардно време,
-    Daylight: Новокузњецк, летње време
-  },
-  Asia/Pyongyang: {
-    Generic: Корејско време,
-    Standard: Корејско стандардно време,
-    Daylight: Корејско летње време
-  },
-  Asia/Omsk: {
-    Generic: Омск,
-    Standard: Омск, стандардно време,
-    Daylight: Омск, летње време
-  },
-  America/Santiago: {
-    Generic: Чиле време,
-    Standard: Чиле, стандардно време,
-    Daylight: Чиле, летње време
-  },
-  America/Tijuana: {
-    Generic: Северноамеричко пацифичко време,
-    Standard: Северноамеричко пацифичко стандардно време,
-    Daylight: Северноамеричко пацифичко летње време
-  },
-  America/Santa_Isabel: {
-    Generic: Северозападни Мексико,
-    Standard: Северозападни Мексико, стандардно време,
-    Daylight: Северозападни Мексико, летње време
-  },
-  America/Los_Angeles: {
-    Generic: Северноамеричко пацифичко време,
-    Standard: Северноамеричко пацифичко стандардно време,
-    Daylight: Северноамеричко пацифичко летње време
-  },
-  America/Vancouver: {
-    Generic: Северноамеричко пацифичко време,
-    Standard: Северноамеричко пацифичко стандардно време,
-    Daylight: Северноамеричко пацифичко летње време
-  },
-  PST8PDT: {
-    Generic: Северноамеричко пацифичко време,
-    Standard: Северноамеричко пацифичко стандардно време,
-    Daylight: Северноамеричко пацифичко летње време
-  },
-  Asia/Karachi: {
-    Generic: Пакистан време,
-    Standard: Пакистан, стандардно време,
-    Daylight: Пакистан, летње време
-  },
-  America/Asuncion: {
-    Generic: Парагвај време,
-    Standard: Парагвај, стандардно време,
-    Daylight: Парагвај, летње време
-  },
-  Asia/Qyzylorda: {
-    Generic: Западно-казахстанско време,
-    Standard: Западно-казахстанско време,
-    Daylight: Западно-казахстанско време
-  },
-  Europe/Paris: {
-    Generic: Средњеевропско време,
-    Standard: Средњеевропско стандардно време,
-    Daylight: Средњеевропско летње време
-  },
-  Europe/Brussels: {
-    Generic: Средњеевропско време,
-    Standard: Средњеевропско стандардно време,
-    Daylight: Средњеевропско летње време
-  },
-  Europe/Copenhagen: {
-    Generic: Средњеевропско време,
-    Standard: Средњеевропско стандардно време,
-    Daylight: Средњеевропско летње време
-  },
-  Africa/Ceuta: {
-    Generic: Средњеевропско време,
-    Standard: Средњеевропско стандардно време,
-    Daylight: Средњеевропско летње време
-  },
-  Europe/Madrid: {
-    Generic: Средњеевропско време,
-    Standard: Средњеевропско стандардно време,
-    Daylight: Средњеевропско летње време
-  },
-  Asia/Srednekolymsk: {
-    Generic: Средњеколимск,
-    Standard: Средњеколимск, стандардно време,
-    Daylight: Средњеколимск, летње време
-  },
-  Asia/Kamchatka: {
-    Generic: Камчатка,
-    Standard: Камчатка, стандардно време,
-    Daylight: Камчатка, летње време
-  },
-  Asia/Anadyr: {
-    Generic: Анадир,
-    Standard: Анадир, стандардно време,
-    Daylight: Анадир, летње време
-  },
-  Europe/Samara: {
-    Generic: Самара,
-    Standard: Самара, стандардно време,
-    Daylight: Самара, летње време
-  },
-  Europe/Moscow: {
-    Generic: Москва,
-    Standard: Москва, стандардно време,
-    Daylight: Москва, летње време
-  },
-  Europe/Kirov: {
-    Generic: Киров,
-    Standard: Киров, стандардно време,
-    Daylight: Киров, летње време
-  },
-  Europe/Simferopol: {
-    Generic: Москва време,
-    Standard: Москва, стандардно време,
-    Daylight: Москва, летње време
-  },
-  America/Cayenne: {
-    Generic: Француска Гвајана време,
-    Standard: Француска Гвајана време,
-    Daylight: Француска Гвајана време
-  },
-  Antarctica/Rothera: {
-    Generic: Ротера време,
-    Standard: Ротера време,
-    Daylight: Ротера време
-  },
-  Antarctica/Palmer: {
-    Generic: Чиле време,
-    Standard: Чиле, стандардно време,
-    Daylight: Чиле, летње време
-  },
-  America/Fortaleza: {
-    Generic: Бразилија време,
-    Standard: Бразилија, стандардно време,
-    Daylight: Бразилија, летње време
-  },
-  America/Belem: {
-    Generic: Бразилија време,
-    Standard: Бразилија, стандардно време,
-    Daylight: Бразилија, летње време
-  },
-  America/Maceio: {
-    Generic: Бразилија време,
-    Standard: Бразилија, стандардно време,
-    Daylight: Бразилија, летње време
-  },
-  America/Recife: {
-    Generic: Бразилија време,
-    Standard: Бразилија, стандардно време,
-    Daylight: Бразилија, летње време
-  },
-  America/Santarem: {
-    Generic: Бразилија време,
-    Standard: Бразилија, стандардно време,
-    Daylight: Бразилија, летње време
-  },
-  Atlantic/Stanley: {
-    Generic: Фолкландска Острва време,
-    Standard: Фолкландска Острва, стандардно време,
-    Daylight: Фолкландска Острва, летње време
-  },
-  America/Paramaribo: {
-    Generic: Суринам време,
-    Standard: Суринам време,
-    Daylight: Суринам време
-  },
-  Etc/GMT+3: {
-    Generic: Координисано универзално време -3,
-    Standard: Координисано универзално време -3,
-    Daylight: Координисано универзално време -3
-  },
-  America/Bogota: {
-    Generic: Колумбија време,
-    Standard: Колумбија, стандардно време,
-    Daylight: Колумбија, летње време
-  },
-  America/Rio_Branco: {
+  America/Port_of_Spain: {
+    Generic: Атлантско време,
+    Standard: Атлантско стандардно време,
+    Daylight: Атлантско летње време
+  },
+  America/Porto_Acre: {
     Generic: Акре време,
     Standard: Акре стандардно време,
     Daylight: Акре летње рачунање времена
-  },
-  America/Eirunepe: {
-    Generic: Акре време,
-    Standard: Акре стандардно време,
-    Daylight: Акре летње рачунање времена
-  },
-  America/Coral_Harbour: {
-    Generic: Северноамеричко источно време,
-    Standard: Северноамеричко источно стандардно време,
-    Daylight: Северноамеричко источно летње време
-  },
-  America/Guayaquil: {
-    Generic: Еквадор време,
-    Standard: Еквадор време,
-    Daylight: Еквадор време
-  },
-  America/Jamaica: {
-    Generic: Северноамеричко источно време,
-    Standard: Северноамеричко источно стандардно време,
-    Daylight: Северноамеричко источно летње време
-  },
-  America/Cayman: {
-    Generic: Северноамеричко источно време,
-    Standard: Северноамеричко источно стандардно време,
-    Daylight: Северноамеричко источно летње време
-  },
-  America/Panama: {
-    Generic: Северноамеричко источно време,
-    Standard: Северноамеричко источно стандардно време,
-    Daylight: Северноамеричко источно летње време
-  },
-  America/Lima: {
-    Generic: Перу време,
-    Standard: Перу, стандардно време,
-    Daylight: Перу, летње време
-  },
-  Etc/GMT+5: {
-    Generic: Координисано универзално време -5,
-    Standard: Координисано универзално време -5,
-    Daylight: Координисано универзално време -5
-  },
-  America/La_Paz: {
-    Generic: Боливија време,
-    Standard: Боливија време,
-    Daylight: Боливија време
-  },
-  America/Antigua: {
-    Generic: Атлантско време,
-    Standard: Атлантско стандардно време,
-    Daylight: Атлантско летње време
-  },
-  America/Anguilla: {
-    Generic: Атлантско време,
-    Standard: Атлантско стандардно време,
-    Daylight: Атлантско летње време
-  },
-  America/Aruba: {
-    Generic: Атлантско време,
-    Standard: Атлантско стандардно време,
-    Daylight: Атлантско летње време
-  },
-  America/Barbados: {
-    Generic: Атлантско време,
-    Standard: Атлантско стандардно време,
-    Daylight: Атлантско летње време
-  },
-  America/St_Barthelemy: {
-    Generic: Атлантско време,
-    Standard: Атлантско стандардно време,
-    Daylight: Атлантско летње време
-  },
-  America/Kralendijk: {
-    Generic: Атлантско време,
-    Standard: Атлантско стандардно време,
-    Daylight: Атлантско летње време
-  },
-  America/Manaus: {
-    Generic: Амазон време,
-    Standard: Амазон, стандардно време,
-    Daylight: Амазон, летње време
-  },
-  America/Boa_Vista: {
-    Generic: Амазон време,
-    Standard: Амазон, стандардно време,
-    Daylight: Амазон, летње време
   },
   America/Porto_Velho: {
     Generic: Амазон време,
     Standard: Амазон, стандардно време,
     Daylight: Амазон, летње време
   },
-  America/Blanc-Sablon: {
+  America/Puerto_Rico: {
     Generic: Атлантско време,
     Standard: Атлантско стандардно време,
     Daylight: Атлантско летње време
   },
-  America/Curacao: {
-    Generic: Атлантско време,
-    Standard: Атлантско стандардно време,
-    Daylight: Атлантско летње време
+  America/Punta_Arenas: {
+    Generic: Чиле време,
+    Standard: Чиле, стандардно време,
+    Daylight: Чиле, летње време
   },
-  America/Dominica: {
-    Generic: Атлантско време,
-    Standard: Атлантско стандардно време,
-    Daylight: Атлантско летње време
+  America/Rainy_River: {
+    Generic: Северноамеричко централно време,
+    Standard: Северноамеричко централно стандардно време,
+    Daylight: Северноамеричко централно летње време
+  },
+  America/Rankin_Inlet: {
+    Generic: Северноамеричко централно време,
+    Standard: Северноамеричко централно стандардно време,
+    Daylight: Северноамеричко централно летње време
+  },
+  America/Recife: {
+    Generic: Бразилија време,
+    Standard: Бразилија, стандардно време,
+    Daylight: Бразилија, летње време
+  },
+  America/Regina: {
+    Generic: Северноамеричко централно време,
+    Standard: Северноамеричко централно стандардно време,
+    Daylight: Северноамеричко централно летње време
+  },
+  America/Resolute: {
+    Generic: Северноамеричко централно време,
+    Standard: Северноамеричко централно стандардно време,
+    Daylight: Северноамеричко централно летње време
+  },
+  America/Rio_Branco: {
+    Generic: Акре време,
+    Standard: Акре стандардно време,
+    Daylight: Акре летње рачунање времена
+  },
+  America/Rosario: {
+    Generic: Аргентина време,
+    Standard: Аргентина, стандардно време,
+    Daylight: Аргентина, летње време
+  },
+  America/Santa_Isabel: {
+    Generic: Северозападни Мексико,
+    Standard: Северозападни Мексико, стандардно време,
+    Daylight: Северозападни Мексико, летње време
+  },
+  America/Santarem: {
+    Generic: Бразилија време,
+    Standard: Бразилија, стандардно време,
+    Daylight: Бразилија, летње време
+  },
+  America/Santiago: {
+    Generic: Чиле време,
+    Standard: Чиле, стандардно време,
+    Daylight: Чиле, летње време
   },
   America/Santo_Domingo: {
     Generic: Атлантско време,
     Standard: Атлантско стандардно време,
     Daylight: Атлантско летње време
   },
-  America/Grenada: {
+  America/Sao_Paulo: {
+    Generic: Бразилија време,
+    Standard: Бразилија, стандардно време,
+    Daylight: Бразилија, летње време
+  },
+  America/Scoresbysund: {
+    Generic: Источни Гренланд,
+    Standard: Источни Гренланд, стандардно време,
+    Daylight: Источни Гренланд, летње време
+  },
+  America/Shiprock: {
+    Generic: Северноамеричко планинско време,
+    Standard: Северноамеричко планинско стандардно време,
+    Daylight: Северноамеричко планинско летње време
+  },
+  America/Sitka: {
+    Generic: Аљаска,
+    Standard: Аљаска, стандардно време,
+    Daylight: Аљаска, летње време
+  },
+  America/St_Barthelemy: {
     Generic: Атлантско време,
     Standard: Атлантско стандардно време,
     Daylight: Атлантско летње време
   },
-  America/Guadeloupe: {
-    Generic: Атлантско време,
-    Standard: Атлантско стандардно време,
-    Daylight: Атлантско летње време
-  },
-  America/Guyana: {
-    Generic: Гвајана време,
-    Standard: Гвајана време,
-    Daylight: Гвајана време
+  America/St_Johns: {
+    Generic: Њуфаундленд,
+    Standard: Њуфаундленд, стандардно време,
+    Daylight: Њуфаундленд, летње време
   },
   America/St_Kitts: {
     Generic: Атлантско време,
@@ -1504,32 +1029,7 @@
     Standard: Атлантско стандардно време,
     Daylight: Атлантско летње време
   },
-  America/Marigot: {
-    Generic: Атлантско време,
-    Standard: Атлантско стандардно време,
-    Daylight: Атлантско летње време
-  },
-  America/Martinique: {
-    Generic: Атлантско време,
-    Standard: Атлантско стандардно време,
-    Daylight: Атлантско летње време
-  },
-  America/Montserrat: {
-    Generic: Атлантско време,
-    Standard: Атлантско стандардно време,
-    Daylight: Атлантско летње време
-  },
-  America/Puerto_Rico: {
-    Generic: Атлантско време,
-    Standard: Атлантско стандардно време,
-    Daylight: Атлантско летње време
-  },
-  America/Lower_Princes: {
-    Generic: Атлантско време,
-    Standard: Атлантско стандардно време,
-    Daylight: Атлантско летње време
-  },
-  America/Port_of_Spain: {
+  America/St_Thomas: {
     Generic: Атлантско време,
     Standard: Атлантско стандардно време,
     Daylight: Атлантско летње време
@@ -1539,655 +1039,155 @@
     Standard: Атлантско стандардно време,
     Daylight: Атлантско летње време
   },
+  America/Swift_Current: {
+    Generic: Северноамеричко централно време,
+    Standard: Северноамеричко централно стандардно време,
+    Daylight: Северноамеричко централно летње време
+  },
+  America/Tegucigalpa: {
+    Generic: Северноамеричко централно време,
+    Standard: Северноамеричко централно стандардно време,
+    Daylight: Северноамеричко централно летње време
+  },
+  America/Thule: {
+    Generic: Атлантско време,
+    Standard: Атлантско стандардно време,
+    Daylight: Атлантско летње време
+  },
+  America/Thunder_Bay: {
+    Generic: Северноамеричко источно време,
+    Standard: Северноамеричко источно стандардно време,
+    Daylight: Северноамеричко источно летње време
+  },
+  America/Tijuana: {
+    Generic: Северноамеричко пацифичко време,
+    Standard: Северноамеричко пацифичко стандардно време,
+    Daylight: Северноамеричко пацифичко летње време
+  },
+  America/Toronto: {
+    Generic: Северноамеричко источно време,
+    Standard: Северноамеричко источно стандардно време,
+    Daylight: Северноамеричко источно летње време
+  },
   America/Tortola: {
     Generic: Атлантско време,
     Standard: Атлантско стандардно време,
     Daylight: Атлантско летње време
   },
-  America/St_Thomas: {
+  America/Vancouver: {
+    Generic: Северноамеричко пацифичко време,
+    Standard: Северноамеричко пацифичко стандардно време,
+    Daylight: Северноамеричко пацифичко летње време
+  },
+  America/Virgin: {
     Generic: Атлантско време,
     Standard: Атлантско стандардно време,
     Daylight: Атлантско летње време
   },
-  Etc/GMT+4: {
-    Generic: Координисано универзално време -4,
-    Standard: Координисано универзално време -4,
-    Daylight: Координисано универзално време -4
+  America/Whitehorse: {
+    Generic: Јукон,
+    Standard: Јукон,
+    Daylight: Јукон
   },
-  Asia/Bangkok: {
-    Generic: Индокина време,
-    Standard: Индокина време,
-    Daylight: Индокина време
+  America/Winnipeg: {
+    Generic: Северноамеричко централно време,
+    Standard: Северноамеричко централно стандардно време,
+    Daylight: Северноамеричко централно летње време
+  },
+  America/Yakutat: {
+    Generic: Аљаска,
+    Standard: Аљаска, стандардно време,
+    Daylight: Аљаска, летње време
+  },
+  America/Yellowknife: {
+    Generic: Северноамеричко планинско време,
+    Standard: Северноамеричко планинско стандардно време,
+    Daylight: Северноамеричко планинско летње време
+  },
+  Antarctica/Casey: {
+    Generic: Антарктик,
+    Standard: Антарктик, стандардно време,
+    Daylight: Антарктик, летње време
   },
   Antarctica/Davis: {
     Generic: Дејвис време,
     Standard: Дејвис време,
     Daylight: Дејвис време
   },
-  Indian/Christmas: {
-    Generic: Божићно острво време,
-    Standard: Божићно острво време,
-    Daylight: Божићно острво време
-  },
-  Asia/Jakarta: {
-    Generic: Западно-индонезијско време,
-    Standard: Западно-индонезијско време,
-    Daylight: Западно-индонезијско време
-  },
-  Asia/Pontianak: {
-    Generic: Западно-индонезијско време,
-    Standard: Западно-индонезијско време,
-    Daylight: Западно-индонезијско време
-  },
-  Asia/Phnom_Penh: {
-    Generic: Индокина време,
-    Standard: Индокина време,
-    Daylight: Индокина време
-  },
-  Asia/Vientiane: {
-    Generic: Индокина време,
-    Standard: Индокина време,
-    Daylight: Индокина време
-  },
-  Asia/Saigon: {
-    Generic: Индокина време,
-    Standard: Индокина време,
-    Daylight: Индокина време
-  },
-  Etc/GMT-7: {
-    Generic: Координисано универзално време +7,
-    Standard: Координисано универзално време +7,
-    Daylight: Координисано универзално време +7
-  },
-  America/Miquelon: {
-    Generic: Сен Пјер и Микелон,
-    Standard: Сен Пјер и Микелон, стандардно време,
-    Daylight: Сен Пјер и Микелон, летње време
-  },
-  Asia/Sakhalin: {
-    Generic: Сахалин,
-    Standard: Сахалин, стандардно време,
-    Daylight: Сахалин, летње време
-  },
-  Pacific/Apia: {
-    Generic: Апија време,
-    Standard: Апија, стандардно време,
-    Daylight: Апија, летње време
-  },
-  Africa/Sao_Tome: {
-    Generic: Средње време по Гриничу,
-    Standard: Средње време по Гриничу,
-    Daylight: Средње време по Гриничу
-  },
-  Europe/Saratov: {
-    Generic: Саратов,
-    Standard: Саратов, стандардно време,
-    Daylight: Саратов, летње време
-  },
-  Asia/Singapore: {
-    Generic: Сингапур, стандардно време,
-    Standard: Сингапур, стандардно време,
-    Daylight: Сингапур, стандардно време
-  },
-  Asia/Brunei: {
-    Generic: Брунеј Дарусалум време,
-    Standard: Брунеј Дарусалум време,
-    Daylight: Брунеј Дарусалум време
-  },
-  Asia/Makassar: {
-    Generic: Централно-индонезијско време,
-    Standard: Централно-индонезијско време,
-    Daylight: Централно-индонезијско време
-  },
-  Asia/Kuala_Lumpur: {
-    Generic: Малезија време,
-    Standard: Малезија време,
-    Daylight: Малезија време
-  },
-  Asia/Kuching: {
-    Generic: Малезија време,
-    Standard: Малезија време,
-    Daylight: Малезија време
-  },
-  Asia/Manila: {
-    Generic: Филипини време,
-    Standard: Филипини, стандардно време,
-    Daylight: Филипини, летње време
-  },
-  Etc/GMT-8: {
-    Generic: Координисано универзално време +8,
-    Standard: Координисано универзално време +8,
-    Daylight: Координисано универзално време +8
-  },
-  Africa/Johannesburg: {
-    Generic: Јужно-афричко време,
-    Standard: Јужно-афричко време,
-    Daylight: Јужно-афричко време
-  },
-  Africa/Bujumbura: {
-    Generic: Централно-афричко време,
-    Standard: Централно-афричко време,
-    Daylight: Централно-афричко време
-  },
-  Africa/Gaborone: {
-    Generic: Централно-афричко време,
-    Standard: Централно-афричко време,
-    Daylight: Централно-афричко време
-  },
-  Africa/Lubumbashi: {
-    Generic: Централно-афричко време,
-    Standard: Централно-афричко време,
-    Daylight: Централно-афричко време
-  },
-  Africa/Maseru: {
-    Generic: Јужно-афричко време,
-    Standard: Јужно-афричко време,
-    Daylight: Јужно-афричко време
-  },
-  Africa/Blantyre: {
-    Generic: Централно-афричко време,
-    Standard: Централно-афричко време,
-    Daylight: Централно-афричко време
-  },
-  Africa/Maputo: {
-    Generic: Централно-афричко време,
-    Standard: Централно-афричко време,
-    Daylight: Централно-афричко време
-  },
-  Africa/Kigali: {
-    Generic: Централно-афричко време,
-    Standard: Централно-афричко време,
-    Daylight: Централно-афричко време
-  },
-  Africa/Mbabane: {
-    Generic: Јужно-афричко време,
-    Standard: Јужно-афричко време,
-    Daylight: Јужно-афричко време
-  },
-  Africa/Lusaka: {
-    Generic: Централно-афричко време,
-    Standard: Централно-афричко време,
-    Daylight: Централно-афричко време
-  },
-  Africa/Harare: {
-    Generic: Централно-афричко време,
-    Standard: Централно-афричко време,
-    Daylight: Централно-афричко време
-  },
-  Etc/GMT-2: {
-    Generic: Координисано универзално време +2,
-    Standard: Координисано универзално време +2,
-    Daylight: Координисано универзално време +2
-  },
-  Africa/Juba: {
-    Generic: Централно-афричко време,
-    Standard: Централно-афричко време,
-    Daylight: Централно-афричко време
-  },
-  Asia/Colombo: {
-    Generic: Индијско стандардно време,
-    Standard: Индијско стандардно време,
-    Daylight: Индијско стандардно време
-  },
-  Africa/Khartoum: {
-    Generic: Централно-афричко време,
-    Standard: Централно-афричко време,
-    Daylight: Централно-афричко време
-  },
-  Asia/Damascus: {
-    Generic: Источноевропско време,
-    Standard: Источноевропско стандардно време,
-    Daylight: Источноевропско летње време
-  },
-  Asia/Taipei: {
-    Generic: Тајпеј време,
-    Standard: Тајпеј, стандардно време,
-    Daylight: Тајпеј, летње време
-  },
-  Australia/Hobart: {
-    Generic: Аустралијско источно време,
-    Standard: Аустралијско источно стандардно време,
-    Daylight: Аустралијско источно летње време
-  },
-  Australia/Currie: {
-    Generic: Аустралијско источно време,
-    Standard: Аустралијско источно стандардно време,
-    Daylight: Аустралијско источно летње време
+  Antarctica/DumontDUrville: {
+    Generic: Димон д’Урвил време,
+    Standard: Димон д’Урвил време,
+    Daylight: Димон д’Урвил време
   },
   Antarctica/Macquarie: {
     Generic: Аустралијско источно време,
     Standard: Аустралијско источно стандардно време,
     Daylight: Аустралијско источно летње време
   },
-  America/Araguaina: {
-    Generic: Бразилија време,
-    Standard: Бразилија, стандардно време,
-    Daylight: Бразилија, летње време
+  Antarctica/Mawson: {
+    Generic: Мосон време,
+    Standard: Мосон време,
+    Daylight: Мосон време
   },
-  Asia/Tokyo: {
-    Generic: Јапанско време,
-    Standard: Јапанско стандардно време,
-    Daylight: Јапанско летње време
+  Antarctica/McMurdo: {
+    Generic: Нови Зеланд време,
+    Standard: Нови Зеланд, стандардно време,
+    Daylight: Нови Зеланд, летње време
   },
-  Asia/Jayapura: {
-    Generic: Источно-индонезијско време,
-    Standard: Источно-индонезијско време,
-    Daylight: Источно-индонезијско време
+  Antarctica/Palmer: {
+    Generic: Чиле време,
+    Standard: Чиле, стандардно време,
+    Daylight: Чиле, летње време
   },
-  Pacific/Palau: {
-    Generic: Палау време,
-    Standard: Палау време,
-    Daylight: Палау време
+  Antarctica/Rothera: {
+    Generic: Ротера време,
+    Standard: Ротера време,
+    Daylight: Ротера време
   },
-  Asia/Dili: {
-    Generic: Источни тимор време,
-    Standard: Источни тимор време,
-    Daylight: Источни тимор време
+  Antarctica/South_Pole: {
+    Generic: Нови Зеланд време,
+    Standard: Нови Зеланд, стандардно време,
+    Daylight: Нови Зеланд, летње време
   },
-  Etc/GMT-9: {
-    Generic: Координисано универзално време +9,
-    Standard: Координисано универзално време +9,
-    Daylight: Координисано универзално време +9
+  Antarctica/Syowa: {
+    Generic: Шова време,
+    Standard: Шова време,
+    Daylight: Шова време
   },
-  Asia/Tomsk: {
-    Generic: Томск,
-    Standard: Томск, стандардно време,
-    Daylight: Томск, летње време
-  },
-  Pacific/Tongatapu: {
-    Generic: Тонга време,
-    Standard: Тонга, стандардно време,
-    Daylight: Тонга, летње време
-  },
-  Asia/Chita: {
-    Generic: Чита,
-    Standard: Чита, стандардно време,
-    Daylight: Чита, летње време
-  },
-  Europe/Istanbul: {
-    Generic: Турска,
-    Standard: Турска, стандардно време,
-    Daylight: Турска, летње време
-  },
-  America/Grand_Turk: {
-    Generic: Северноамеричко источно време,
-    Standard: Северноамеричко источно стандардно време,
-    Daylight: Северноамеричко источно летње време
-  },
-  America/Indianapolis: {
-    Generic: Северноамеричко источно време,
-    Standard: Северноамеричко источно стандардно време,
-    Daylight: Северноамеричко источно летње време
-  },
-  America/Indiana/Marengo: {
-    Generic: Северноамеричко источно време,
-    Standard: Северноамеричко источно стандардно време,
-    Daylight: Северноамеричко источно летње време
-  },
-  America/Indiana/Vevay: {
-    Generic: Северноамеричко источно време,
-    Standard: Северноамеричко источно стандардно време,
-    Daylight: Северноамеричко источно летње време
-  },
-  America/Phoenix: {
-    Generic: Северноамеричко планинско време,
-    Standard: Северноамеричко планинско стандардно време,
-    Daylight: Северноамеричко планинско летње време
-  },
-  America/Creston: {
-    Generic: Северноамеричко планинско време,
-    Standard: Северноамеричко планинско стандардно време,
-    Daylight: Северноамеричко планинско летње време
-  },
-  America/Dawson_Creek: {
-    Generic: Северноамеричко планинско време,
-    Standard: Северноамеричко планинско стандардно време,
-    Daylight: Северноамеричко планинско летње време
-  },
-  America/Fort_Nelson: {
-    Generic: Северноамеричко планинско време,
-    Standard: Северноамеричко планинско стандардно време,
-    Daylight: Северноамеричко планинско летње време
-  },
-  America/Hermosillo: {
-    Generic: Мексички Пацифик,
-    Standard: Мексички Пацифик, стандардно време,
-    Daylight: Мексички Пацифик, летње време
-  },
-  Etc/GMT+7: {
-    Generic: Координисано универзално време -7,
-    Standard: Координисано универзално време -7,
-    Daylight: Координисано универзално време -7
-  },
-  Etc/GMT-12: {
-    Generic: Координисано универзално време +12,
-    Standard: Координисано универзално време +12,
-    Daylight: Координисано универзално време +12
-  },
-  Pacific/Tarawa: {
-    Generic: Гилберт острва време,
-    Standard: Гилберт острва време,
-    Daylight: Гилберт острва време
-  },
-  Pacific/Majuro: {
-    Generic: Маршалска Острва време,
-    Standard: Маршалска Острва време,
-    Daylight: Маршалска Острва време
-  },
-  Pacific/Kwajalein: {
-    Generic: Маршалска Острва време,
-    Standard: Маршалска Острва време,
-    Daylight: Маршалска Острва време
-  },
-  Pacific/Nauru: {
-    Generic: Науру време,
-    Standard: Науру време,
-    Daylight: Науру време
-  },
-  Pacific/Funafuti: {
-    Generic: Тувалу време,
-    Standard: Тувалу време,
-    Daylight: Тувалу време
-  },
-  Pacific/Wake: {
-    Generic: Вејк острво време,
-    Standard: Вејк острво време,
-    Daylight: Вејк острво време
-  },
-  Pacific/Wallis: {
-    Generic: Валис и Футуна Острва време,
-    Standard: Валис и Футуна Острва време,
-    Daylight: Валис и Футуна Острва време
-  },
-  Etc/GMT-13: {
-    Generic: Координисано универзално време +13,
-    Standard: Координисано универзално време +13,
-    Daylight: Координисано универзално време +13
-  },
-  Pacific/Enderbury: {
-    Generic: Феникс острва време,
-    Standard: Феникс острва време,
-    Daylight: Феникс острва време
-  },
-  Pacific/Fakaofo: {
-    Generic: Токелау време,
-    Standard: Токелау време,
-    Daylight: Токелау време
-  },
-  Etc/UTC: {
-    Generic: Координисано универзално време,
-    Standard: Координисано универзално време,
-    Daylight: Координисано универзално време
-  },
-  Etc/GMT: {
+  Antarctica/Troll: {
     Generic: Средње време по Гриничу,
     Standard: Средње време по Гриничу,
     Daylight: Средње време по Гриничу
   },
-  Etc/GMT+2: {
-    Generic: Координисано универзално време -2,
-    Standard: Координисано универзално време -2,
-    Daylight: Координисано универзално време -2
-  },
-  America/Noronha: {
-    Generic: Фернандо де Нороња време,
-    Standard: Фернандо де Нороња, стандардно време,
-    Daylight: Фернандо де Нороња, летње време
-  },
-  Atlantic/South_Georgia: {
-    Generic: Јужна Џорџија време,
-    Standard: Јужна Џорџија време,
-    Daylight: Јужна Џорџија време
-  },
-  Etc/GMT+8: {
-    Generic: Координисано универзално време -8,
-    Standard: Координисано универзално време -8,
-    Daylight: Координисано универзално време -8
-  },
-  Pacific/Pitcairn: {
-    Generic: Питкерн време,
-    Standard: Питкерн време,
-    Daylight: Питкерн време
-  },
-  Etc/GMT+9: {
-    Generic: Координисано универзално време -9,
-    Standard: Координисано универзално време -9,
-    Daylight: Координисано универзално време -9
-  },
-  Pacific/Gambier: {
-    Generic: Гамбије време,
-    Standard: Гамбије време,
-    Daylight: Гамбије време
-  },
-  Etc/GMT+11: {
-    Generic: Координисано универзално време -11,
-    Standard: Координисано универзално време -11,
-    Daylight: Координисано универзално време -11
-  },
-  Pacific/Pago_Pago: {
-    Generic: Самоа време,
-    Standard: Самоа, стандардно време,
-    Daylight: Самоа, летње време
-  },
-  Pacific/Niue: {
-    Generic: Ниуе време,
-    Standard: Ниуе време,
-    Daylight: Ниуе време
-  },
-  Pacific/Midway: {
-    Generic: Самоа време,
-    Standard: Самоа, стандардно време,
-    Daylight: Самоа, летње време
-  },
-  Asia/Ulaanbaatar: {
-    Generic: Улан Батор време,
-    Standard: Улан Батор, стандардно време,
-    Daylight: Улан Батор, летње време
-  },
-  Asia/Choibalsan: {
-    Generic: Улан Батор време,
-    Standard: Улан Батор, стандардно време,
-    Daylight: Улан Батор, летње време
-  },
-  America/Caracas: {
-    Generic: Венецуела време,
-    Standard: Венецуела време,
-    Daylight: Венецуела време
-  },
-  Asia/Vladivostok: {
-    Generic: Владивосток,
-    Standard: Владивосток, стандардно време,
-    Daylight: Владивосток, летње време
-  },
-  Asia/Ust-Nera: {
-    Generic: Уст-Нера,
-    Standard: Уст-Нера, стандардно време,
-    Daylight: Уст-Нера, летње време
-  },
-  Europe/Volgograd: {
-    Generic: Волгоград,
-    Standard: Волгоград, стандардно време,
-    Daylight: Волгоград, летње време
-  },
-  Australia/Perth: {
-    Generic: Аустралијско западно време,
-    Standard: Аустралијско западно стандардно време,
-    Daylight: Аустралијско западно летње време
-  },
-  Africa/Lagos: {
-    Generic: Западно-афричко време,
-    Standard: Западно-афричко стандардно време,
-    Daylight: Западно-афричко летње време
-  },
-  Africa/Luanda: {
-    Generic: Западно-афричко време,
-    Standard: Западно-афричко стандардно време,
-    Daylight: Западно-афричко летње време
-  },
-  Africa/Porto-Novo: {
-    Generic: Западно-афричко време,
-    Standard: Западно-афричко стандардно време,
-    Daylight: Западно-афричко летње време
-  },
-  Africa/Kinshasa: {
-    Generic: Западно-афричко време,
-    Standard: Западно-афричко стандардно време,
-    Daylight: Западно-афричко летње време
-  },
-  Africa/Bangui: {
-    Generic: Западно-афричко време,
-    Standard: Западно-афричко стандардно време,
-    Daylight: Западно-афричко летње време
-  },
-  Africa/Brazzaville: {
-    Generic: Западно-афричко време,
-    Standard: Западно-афричко стандардно време,
-    Daylight: Западно-афричко летње време
-  },
-  Africa/Douala: {
-    Generic: Западно-афричко време,
-    Standard: Западно-афричко стандардно време,
-    Daylight: Западно-афричко летње време
-  },
-  Africa/Algiers: {
-    Generic: Средњеевропско време,
-    Standard: Средњеевропско стандардно време,
-    Daylight: Средњеевропско летње време
-  },
-  Africa/Libreville: {
-    Generic: Западно-афричко време,
-    Standard: Западно-афричко стандардно време,
-    Daylight: Западно-афричко летње време
-  },
-  Africa/Malabo: {
-    Generic: Западно-афричко време,
-    Standard: Западно-афричко стандардно време,
-    Daylight: Западно-афричко летње време
-  },
-  Africa/Niamey: {
-    Generic: Западно-афричко време,
-    Standard: Западно-афричко стандардно време,
-    Daylight: Западно-афричко летње време
-  },
-  Africa/Ndjamena: {
-    Generic: Западно-афричко време,
-    Standard: Западно-афричко стандардно време,
-    Daylight: Западно-афричко летње време
-  },
-  Africa/Tunis: {
-    Generic: Средњеевропско време,
-    Standard: Средњеевропско стандардно време,
-    Daylight: Средњеевропско летње време
-  },
-  Etc/GMT-1: {
-    Generic: Координисано универзално време +1,
-    Standard: Координисано универзално време +1,
-    Daylight: Координисано универзално време +1
-  },
-  Europe/Berlin: {
-    Generic: Средњеевропско време,
-    Standard: Средњеевропско стандардно време,
-    Daylight: Средњеевропско летње време
-  },
-  Europe/Andorra: {
-    Generic: Средњеевропско време,
-    Standard: Средњеевропско стандардно време,
-    Daylight: Средњеевропско летње време
-  },
-  Europe/Vienna: {
-    Generic: Средњеевропско време,
-    Standard: Средњеевропско стандардно време,
-    Daylight: Средњеевропско летње време
-  },
-  Europe/Zurich: {
-    Generic: Средњеевропско време,
-    Standard: Средњеевропско стандардно време,
-    Daylight: Средњеевропско летње време
-  },
-  Europe/Busingen: {
-    Generic: Средњеевропско време,
-    Standard: Средњеевропско стандардно време,
-    Daylight: Средњеевропско летње време
-  },
-  Europe/Gibraltar: {
-    Generic: Средњеевропско време,
-    Standard: Средњеевропско стандардно време,
-    Daylight: Средњеевропско летње време
-  },
-  Europe/Rome: {
-    Generic: Средњеевропско време,
-    Standard: Средњеевропско стандардно време,
-    Daylight: Средњеевропско летње време
-  },
-  Europe/Vaduz: {
-    Generic: Средњеевропско време,
-    Standard: Средњеевропско стандардно време,
-    Daylight: Средњеевропско летње време
-  },
-  Europe/Luxembourg: {
-    Generic: Средњеевропско време,
-    Standard: Средњеевропско стандардно време,
-    Daylight: Средњеевропско летње време
-  },
-  Europe/Monaco: {
-    Generic: Средњеевропско време,
-    Standard: Средњеевропско стандардно време,
-    Daylight: Средњеевропско летње време
-  },
-  Europe/Malta: {
-    Generic: Средњеевропско време,
-    Standard: Средњеевропско стандардно време,
-    Daylight: Средњеевропско летње време
-  },
-  Europe/Amsterdam: {
-    Generic: Средњеевропско време,
-    Standard: Средњеевропско стандардно време,
-    Daylight: Средњеевропско летње време
-  },
-  Europe/Oslo: {
-    Generic: Средњеевропско време,
-    Standard: Средњеевропско стандардно време,
-    Daylight: Средњеевропско летње време
-  },
-  Europe/Stockholm: {
-    Generic: Средњеевропско време,
-    Standard: Средњеевропско стандардно време,
-    Daylight: Средњеевропско летње време
+  Antarctica/Vostok: {
+    Generic: Восток време,
+    Standard: Восток време,
+    Daylight: Восток време
   },
   Arctic/Longyearbyen: {
     Generic: Средњеевропско време,
     Standard: Средњеевропско стандардно време,
     Daylight: Средњеевропско летње време
   },
-  Europe/San_Marino: {
-    Generic: Средњеевропско време,
-    Standard: Средњеевропско стандардно време,
-    Daylight: Средњеевропско летње време
+  Asia/Aden: {
+    Generic: Арабијско време,
+    Standard: Арабијско стандардно време,
+    Daylight: Арабијско летње време
   },
-  Europe/Vatican: {
-    Generic: Средњеевропско време,
-    Standard: Средњеевропско стандардно време,
-    Daylight: Средњеевропско летње време
+  Asia/Almaty: {
+    Generic: Источно-казахстанско време,
+    Standard: Источно-казахстанско време,
+    Daylight: Источно-казахстанско време
   },
-  Asia/Hovd: {
-    Generic: Ховд време,
-    Standard: Ховд, стандардно време,
-    Daylight: Ховд, летње време
+  Asia/Amman: {
+    Generic: Источноевропско време,
+    Standard: Источноевропско стандардно време,
+    Daylight: Источноевропско летње време
   },
-  Asia/Tashkent: {
-    Generic: Узбекистан време,
-    Standard: Узбекистан, стандардно време,
-    Daylight: Узбекистан, летње време
-  },
-  Antarctica/Mawson: {
-    Generic: Мосон време,
-    Standard: Мосон време,
-    Daylight: Мосон време
-  },
-  Asia/Oral: {
-    Generic: Западно-казахстанско време,
-    Standard: Западно-казахстанско време,
-    Daylight: Западно-казахстанско време
+  Asia/Anadyr: {
+    Generic: Анадир,
+    Standard: Анадир, стандардно време,
+    Daylight: Анадир, летње време
   },
   Asia/Aqtau: {
     Generic: Западно-казахстанско време,
@@ -2199,415 +1199,75 @@
     Standard: Западно-казахстанско време,
     Daylight: Западно-казахстанско време
   },
-  Asia/Atyrau: {
-    Generic: Западно-казахстанско време,
-    Standard: Западно-казахстанско време,
-    Daylight: Западно-казахстанско време
-  },
-  Indian/Maldives: {
-    Generic: Малдиви време,
-    Standard: Малдиви време,
-    Daylight: Малдиви време
-  },
-  Indian/Kerguelen: {
-    Generic: Француско јужно и антарктичко време,
-    Standard: Француско јужно и антарктичко време,
-    Daylight: Француско јужно и антарктичко време
-  },
-  Asia/Dushanbe: {
-    Generic: Таџикистан време,
-    Standard: Таџикистан време,
-    Daylight: Таџикистан време
-  },
   Asia/Ashgabat: {
     Generic: Туркменистан време,
     Standard: Туркменистан, стандардно време,
     Daylight: Туркменистан, летње време
-  },
-  Asia/Samarkand: {
-    Generic: Узбекистан време,
-    Standard: Узбекистан, стандардно време,
-    Daylight: Узбекистан, летње време
-  },
-  Etc/GMT-5: {
-    Generic: Координисано универзално време +5,
-    Standard: Координисано универзално време +5,
-    Daylight: Координисано универзално време +5
-  },
-  Asia/Hebron: {
-    Generic: Источноевропско време,
-    Standard: Источноевропско стандардно време,
-    Daylight: Источноевропско летње време
-  },
-  Asia/Gaza: {
-    Generic: Источноевропско време,
-    Standard: Источноевропско стандардно време,
-    Daylight: Источноевропско летње време
-  },
-  Pacific/Port_Moresby: {
-    Generic: Папуа Нова Гвинеја време,
-    Standard: Папуа Нова Гвинеја време,
-    Daylight: Папуа Нова Гвинеја време
-  },
-  Antarctica/DumontDUrville: {
-    Generic: Димон д’Урвил време,
-    Standard: Димон д’Урвил време,
-    Daylight: Димон д’Урвил време
-  },
-  Pacific/Truk: {
-    Generic: Чуук време,
-    Standard: Чуук време,
-    Daylight: Чуук време
-  },
-  Pacific/Guam: {
-    Generic: Чаморо време,
-    Standard: Чаморо време,
-    Daylight: Чаморо време
-  },
-  Pacific/Saipan: {
-    Generic: Чаморо време,
-    Standard: Чаморо време,
-    Daylight: Чаморо време
-  },
-  Etc/GMT-10: {
-    Generic: Координисано универзално време +10,
-    Standard: Координисано универзално време +10,
-    Daylight: Координисано универзално време +10
-  },
-  Asia/Yakutsk: {
-    Generic: Јакутск,
-    Standard: Јакутск, стандардно време,
-    Daylight: Јакутск, летње време
-  },
-  Asia/Khandyga: {
-    Generic: Хандига,
-    Standard: Хандига, стандардно време,
-    Daylight: Хандига, летње време
-  },
-  America/Whitehorse: {
-    Generic: Јукон,
-    Standard: Јукон,
-    Daylight: Јукон
-  },
-  America/Dawson: {
-    Generic: Јукон,
-    Standard: Јукон,
-    Daylight: Јукон
-  },
-  Iceland: {
-    Generic: Средње време по Гриничу,
-    Standard: Средње време по Гриничу,
-    Daylight: Средње време по Гриничу
-  },
-  Africa/Timbuktu: {
-    Generic: Средње време по Гриничу,
-    Standard: Средње време по Гриничу,
-    Daylight: Средње време по Гриничу
-  },
-  Egypt: {
-    Generic: Источноевропско време,
-    Standard: Источноевропско стандардно време,
-    Daylight: Источноевропско летње време
-  },
-  Africa/Asmara: {
-    Generic: Источно-афричко време,
-    Standard: Источно-афричко време,
-    Daylight: Источно-афричко време
-  },
-  Libya: {
-    Generic: Источноевропско време,
-    Standard: Источноевропско стандардно време,
-    Daylight: Источноевропско летње време
-  },
-  America/Atka: {
-    Generic: Хавајско-алеутско време,
-    Standard: Хавајско-алеутско стандардно време,
-    Daylight: Хавајско-алеутско летње време
-  },
-  US/Aleutian: {
-    Generic: Хавајско-алеутско време,
-    Standard: Хавајско-алеутско стандардно време,
-    Daylight: Хавајско-алеутско летње време
-  },
-  US/Alaska: {
-    Generic: Аљаска,
-    Standard: Аљаска, стандардно време,
-    Daylight: Аљаска, летње време
-  },
-  America/Argentina/Buenos_Aires: {
-    Generic: Аргентина време,
-    Standard: Аргентина, стандардно време,
-    Daylight: Аргентина, летње време
-  },
-  America/Argentina/Catamarca: {
-    Generic: Аргентина време,
-    Standard: Аргентина, стандардно време,
-    Daylight: Аргентина, летње време
-  },
-  America/Argentina/ComodRivadavia: {
-    Generic: Аргентина време,
-    Standard: Аргентина, стандардно време,
-    Daylight: Аргентина, летње време
-  },
-  America/Argentina/Cordoba: {
-    Generic: Аргентина време,
-    Standard: Аргентина, стандардно време,
-    Daylight: Аргентина, летње време
-  },
-  America/Rosario: {
-    Generic: Аргентина време,
-    Standard: Аргентина, стандардно време,
-    Daylight: Аргентина, летње време
-  },
-  America/Argentina/Jujuy: {
-    Generic: Аргентина време,
-    Standard: Аргентина, стандардно време,
-    Daylight: Аргентина, летње време
-  },
-  America/Argentina/Mendoza: {
-    Generic: Аргентина време,
-    Standard: Аргентина, стандардно време,
-    Daylight: Аргентина, летње време
-  },
-  US/Central: {
-    Generic: Северноамеричко централно време,
-    Standard: Северноамеричко централно стандардно време,
-    Daylight: Северноамеричко централно летње време
-  },
-  America/Shiprock: {
-    Generic: Северноамеричко планинско време,
-    Standard: Северноамеричко планинско стандардно време,
-    Daylight: Северноамеричко планинско летње време
-  },
-  Navajo: {
-    Generic: Северноамеричко планинско време,
-    Standard: Северноамеричко планинско стандардно време,
-    Daylight: Северноамеричко планинско летње време
-  },
-  US/Mountain: {
-    Generic: Северноамеричко планинско време,
-    Standard: Северноамеричко планинско стандардно време,
-    Daylight: Северноамеричко планинско летње време
-  },
-  US/Michigan: {
-    Generic: Северноамеричко источно време,
-    Standard: Северноамеричко источно стандардно време,
-    Daylight: Северноамеричко источно летње време
-  },
-  Canada/Mountain: {
-    Generic: Северноамеричко планинско време,
-    Standard: Северноамеричко планинско стандардно време,
-    Daylight: Северноамеричко планинско летње време
-  },
-  Canada/Atlantic: {
-    Generic: Атлантско време,
-    Standard: Атлантско стандардно време,
-    Daylight: Атлантско летње време
-  },
-  Cuba: {
-    Generic: Куба,
-    Standard: Куба, стандардно време,
-    Daylight: Куба, летње време
-  },
-  America/Indiana/Indianapolis: {
-    Generic: Северноамеричко источно време,
-    Standard: Северноамеричко источно стандардно време,
-    Daylight: Северноамеричко источно летње време
-  },
-  US/East-Indiana: {
-    Generic: Северноамеричко источно време,
-    Standard: Северноамеричко источно стандардно време,
-    Daylight: Северноамеричко источно летње време
-  },
-  America/Knox_IN: {
-    Generic: Северноамеричко централно време,
-    Standard: Северноамеричко централно стандардно време,
-    Daylight: Северноамеричко централно летње време
-  },
-  US/Indiana-Starke: {
-    Generic: Северноамеричко централно време,
-    Standard: Северноамеричко централно стандардно време,
-    Daylight: Северноамеричко централно летње време
-  },
-  Jamaica: {
-    Generic: Северноамеричко источно време,
-    Standard: Северноамеричко источно стандардно време,
-    Daylight: Северноамеричко источно летње време
-  },
-  America/Kentucky/Louisville: {
-    Generic: Северноамеричко источно време,
-    Standard: Северноамеричко источно стандардно време,
-    Daylight: Северноамеричко источно летње време
-  },
-  US/Pacific: {
-    Generic: Северноамеричко пацифичко време,
-    Standard: Северноамеричко пацифичко стандардно време,
-    Daylight: Северноамеричко пацифичко летње време
-  },
-  Brazil/West: {
-    Generic: Амазон време,
-    Standard: Амазон, стандардно време,
-    Daylight: Амазон, летње време
-  },
-  Mexico/BajaSur: {
-    Generic: Мексички Пацифик,
-    Standard: Мексички Пацифик, стандардно време,
-    Daylight: Мексички Пацифик, летње време
-  },
-  Mexico/General: {
-    Generic: Северноамеричко централно време,
-    Standard: Северноамеричко централно стандардно време,
-    Daylight: Северноамеричко централно летње време
-  },
-  US/Eastern: {
-    Generic: Северноамеричко источно време,
-    Standard: Северноамеричко источно стандардно време,
-    Daylight: Северноамеричко источно летње време
-  },
-  Brazil/DeNoronha: {
-    Generic: Фернандо де Нороња време,
-    Standard: Фернандо де Нороња, стандардно време,
-    Daylight: Фернандо де Нороња, летње време
-  },
-  America/Nuuk: {
-    Generic: Западни Гренланд,
-    Standard: Западни Гренланд, стандардно време,
-    Daylight: Западни Гренланд, летње време
-  },
-  America/Atikokan: {
-    Generic: Северноамеричко источно време,
-    Standard: Северноамеричко источно стандардно време,
-    Daylight: Северноамеричко источно летње време
-  },
-  US/Arizona: {
-    Generic: Северноамеричко планинско време,
-    Standard: Северноамеричко планинско стандардно време,
-    Daylight: Северноамеричко планинско летње време
-  },
-  America/Virgin: {
-    Generic: Атлантско време,
-    Standard: Атлантско стандардно време,
-    Daylight: Атлантско летње време
-  },
-  Canada/Saskatchewan: {
-    Generic: Северноамеричко централно време,
-    Standard: Северноамеричко централно стандардно време,
-    Daylight: Северноамеричко централно летње време
-  },
-  America/Porto_Acre: {
-    Generic: Акре време,
-    Standard: Акре стандардно време,
-    Daylight: Акре летње рачунање времена
-  },
-  Brazil/Acre: {
-    Generic: Акре време,
-    Standard: Акре стандардно време,
-    Daylight: Акре летње рачунање времена
-  },
-  Chile/Continental: {
-    Generic: Чиле време,
-    Standard: Чиле, стандардно време,
-    Daylight: Чиле, летње време
-  },
-  Brazil/East: {
-    Generic: Бразилија време,
-    Standard: Бразилија, стандардно време,
-    Daylight: Бразилија, летње време
-  },
-  Canada/Newfoundland: {
-    Generic: Њуфаундленд,
-    Standard: Њуфаундленд, стандардно време,
-    Daylight: Њуфаундленд, летње време
-  },
-  America/Ensenada: {
-    Generic: Северноамеричко пацифичко време,
-    Standard: Северноамеричко пацифичко стандардно време,
-    Daylight: Северноамеричко пацифичко летње време
-  },
-  Mexico/BajaNorte: {
-    Generic: Северноамеричко пацифичко време,
-    Standard: Северноамеричко пацифичко стандардно време,
-    Daylight: Северноамеричко пацифичко летње време
-  },
-  Canada/Eastern: {
-    Generic: Северноамеричко источно време,
-    Standard: Северноамеричко источно стандардно време,
-    Daylight: Северноамеричко источно летње време
-  },
-  Canada/Pacific: {
-    Generic: Северноамеричко пацифичко време,
-    Standard: Северноамеричко пацифичко стандардно време,
-    Daylight: Северноамеричко пацифичко летње време
-  },
-  Canada/Yukon: {
-    Generic: Јукон,
-    Standard: Јукон,
-    Daylight: Јукон
-  },
-  Canada/Central: {
-    Generic: Северноамеричко централно време,
-    Standard: Северноамеричко централно стандардно време,
-    Daylight: Северноамеричко централно летње време
   },
   Asia/Ashkhabad: {
     Generic: Туркменистан време,
     Standard: Туркменистан, стандардно време,
     Daylight: Туркменистан, летње време
   },
-  Asia/Dacca: {
-    Generic: Бангладеш време,
-    Standard: Бангладеш, стандардно време,
-    Daylight: Бангладеш, летње време
+  Asia/Atyrau: {
+    Generic: Западно-казахстанско време,
+    Standard: Западно-казахстанско време,
+    Daylight: Западно-казахстанско време
   },
-  Asia/Ho_Chi_Minh: {
+  Asia/Baghdad: {
+    Generic: Арабијско време,
+    Standard: Арабијско стандардно време,
+    Daylight: Арабијско летње време
+  },
+  Asia/Bahrain: {
+    Generic: Арабијско време,
+    Standard: Арабијско стандардно време,
+    Daylight: Арабијско летње време
+  },
+  Asia/Baku: {
+    Generic: Азербејџан време,
+    Standard: Азербејџан, стандардно време,
+    Daylight: Азербејџан, летње време
+  },
+  Asia/Bangkok: {
     Generic: Индокина време,
     Standard: Индокина време,
     Daylight: Индокина време
   },
-  Hongkong: {
-    Generic: Хонг Конг време,
-    Standard: Хонг Конг, стандардно време,
-    Daylight: Хонг Конг, летње време
+  Asia/Barnaul: {
+    Generic: Барнаул,
+    Standard: Барнаул, стандардно време,
+    Daylight: Барнаул, летње време
   },
-  Asia/Tel_Aviv: {
-    Generic: Израелско време,
-    Standard: Израелско стандардно време,
-    Daylight: Израелско летње време
-  },
-  Israel: {
-    Generic: Израелско време,
-    Standard: Израелско стандардно време,
-    Daylight: Израелско летње време
-  },
-  Asia/Kathmandu: {
-    Generic: Непал време,
-    Standard: Непал време,
-    Daylight: Непал време
-  },
-  Asia/Kolkata: {
-    Generic: Индијско стандардно време,
-    Standard: Индијско стандардно време,
-    Daylight: Индијско стандардно време
-  },
-  Asia/Macao: {
-    Generic: Кина време,
-    Standard: Кинеско стандардно време,
-    Daylight: Кина, летње време
-  },
-  Asia/Ujung_Pandang: {
-    Generic: Централно-индонезијско време,
-    Standard: Централно-индонезијско време,
-    Daylight: Централно-индонезијско време
-  },
-  Europe/Nicosia: {
+  Asia/Beirut: {
     Generic: Источноевропско време,
     Standard: Источноевропско стандардно време,
     Daylight: Источноевропско летње време
   },
-  ROK: {
-    Generic: Корејско време,
-    Standard: Корејско стандардно време,
-    Daylight: Корејско летње време
+  Asia/Bishkek: {
+    Generic: Киргистан време,
+    Standard: Киргистан време,
+    Daylight: Киргистан време
+  },
+  Asia/Brunei: {
+    Generic: Брунеј Дарусалум време,
+    Standard: Брунеј Дарусалум време,
+    Daylight: Брунеј Дарусалум време
+  },
+  Asia/Calcutta: {
+    Generic: Индијско стандардно време,
+    Standard: Индијско стандардно време,
+    Daylight: Индијско стандардно време
+  },
+  Asia/Chita: {
+    Generic: Чита,
+    Standard: Чита, стандардно време,
+    Daylight: Чита, летње време
+  },
+  Asia/Choibalsan: {
+    Generic: Улан Батор време,
+    Standard: Улан Батор, стандардно време,
+    Daylight: Улан Батор, летње време
   },
   Asia/Chongqing: {
     Generic: Кина време,
@@ -2619,57 +1279,412 @@
     Standard: Кинеско стандардно време,
     Daylight: Кина, летње време
   },
+  Asia/Colombo: {
+    Generic: Индијско стандардно време,
+    Standard: Индијско стандардно време,
+    Daylight: Индијско стандардно време
+  },
+  Asia/Dacca: {
+    Generic: Бангладеш време,
+    Standard: Бангладеш, стандардно време,
+    Daylight: Бангладеш, летње време
+  },
+  Asia/Damascus: {
+    Generic: Источноевропско време,
+    Standard: Источноевропско стандардно време,
+    Daylight: Источноевропско летње време
+  },
+  Asia/Dhaka: {
+    Generic: Бангладеш време,
+    Standard: Бангладеш, стандардно време,
+    Daylight: Бангладеш, летње време
+  },
+  Asia/Dili: {
+    Generic: Источни тимор време,
+    Standard: Источни тимор време,
+    Daylight: Источни тимор време
+  },
+  Asia/Dubai: {
+    Generic: Заливско време,
+    Standard: Заливско време,
+    Daylight: Заливско време
+  },
+  Asia/Dushanbe: {
+    Generic: Таџикистан време,
+    Standard: Таџикистан време,
+    Daylight: Таџикистан време
+  },
+  Asia/Famagusta: {
+    Generic: Источноевропско време,
+    Standard: Источноевропско стандардно време,
+    Daylight: Источноевропско летње време
+  },
+  Asia/Gaza: {
+    Generic: Источноевропско време,
+    Standard: Источноевропско стандардно време,
+    Daylight: Источноевропско летње време
+  },
   Asia/Harbin: {
     Generic: Кина време,
     Standard: Кинеско стандардно време,
     Daylight: Кина, летње време
   },
-  PRC: {
-    Generic: Кина време,
-    Standard: Кинеско стандардно време,
-    Daylight: Кина, летње време
+  Asia/Hebron: {
+    Generic: Источноевропско време,
+    Standard: Источноевропско стандардно време,
+    Daylight: Источноевропско летње време
   },
-  Singapore: {
-    Generic: Сингапур, стандардно време,
-    Standard: Сингапур, стандардно време,
-    Daylight: Сингапур, стандардно време
+  Asia/Ho_Chi_Minh: {
+    Generic: Индокина време,
+    Standard: Индокина време,
+    Daylight: Индокина време
   },
-  ROC: {
-    Generic: Тајпеј време,
-    Standard: Тајпеј, стандардно време,
-    Daylight: Тајпеј, летње време
+  Asia/Hong_Kong: {
+    Generic: Хонг Конг време,
+    Standard: Хонг Конг, стандардно време,
+    Daylight: Хонг Конг, летње време
   },
-  Iran: {
-    Generic: Иран време,
-    Standard: Иран, стандардно време,
-    Daylight: Иран, летње време
+  Asia/Hovd: {
+    Generic: Ховд време,
+    Standard: Ховд, стандардно време,
+    Daylight: Ховд, летње време
   },
-  Asia/Thimbu: {
-    Generic: Бутан време,
-    Standard: Бутан време,
-    Daylight: Бутан време
+  Asia/Irkutsk: {
+    Generic: Иркуцк,
+    Standard: Иркуцк, стандардно време,
+    Daylight: Иркуцк, летње време
   },
-  Japan: {
-    Generic: Јапанско време,
-    Standard: Јапанско стандардно време,
-    Daylight: Јапанско летње време
+  Asia/Istanbul: {
+    Generic: Турска,
+    Standard: Турска, стандардно време,
+    Daylight: Турска, летње време
   },
-  Asia/Ulan_Bator: {
-    Generic: Улан Батор време,
-    Standard: Улан Батор, стандардно време,
-    Daylight: Улан Батор, летње време
+  Asia/Jakarta: {
+    Generic: Западно-индонезијско време,
+    Standard: Западно-индонезијско време,
+    Daylight: Западно-индонезијско време
+  },
+  Asia/Jayapura: {
+    Generic: Источно-индонезијско време,
+    Standard: Источно-индонезијско време,
+    Daylight: Источно-индонезијско време
+  },
+  Asia/Jerusalem: {
+    Generic: Израелско време,
+    Standard: Израелско стандардно време,
+    Daylight: Израелско летње време
+  },
+  Asia/Kabul: {
+    Generic: Авганистан време,
+    Standard: Авганистан време,
+    Daylight: Авганистан време
+  },
+  Asia/Kamchatka: {
+    Generic: Камчатка,
+    Standard: Камчатка, стандардно време,
+    Daylight: Камчатка, летње време
+  },
+  Asia/Karachi: {
+    Generic: Пакистан време,
+    Standard: Пакистан, стандардно време,
+    Daylight: Пакистан, летње време
   },
   Asia/Kashgar: {
     Generic: Кина,
     Standard: Кина, стандардно време,
     Daylight: Кина, летње време
   },
+  Asia/Kathmandu: {
+    Generic: Непал време,
+    Standard: Непал време,
+    Daylight: Непал време
+  },
+  Asia/Katmandu: {
+    Generic: Непал време,
+    Standard: Непал време,
+    Daylight: Непал време
+  },
+  Asia/Khandyga: {
+    Generic: Хандига,
+    Standard: Хандига, стандардно време,
+    Daylight: Хандига, летње време
+  },
+  Asia/Kolkata: {
+    Generic: Индијско стандардно време,
+    Standard: Индијско стандардно време,
+    Daylight: Индијско стандардно време
+  },
+  Asia/Krasnoyarsk: {
+    Generic: Краснојарск,
+    Standard: Краснојарск, стандардно време,
+    Daylight: Краснојарск, летње време
+  },
+  Asia/Kuala_Lumpur: {
+    Generic: Малезија време,
+    Standard: Малезија време,
+    Daylight: Малезија време
+  },
+  Asia/Kuching: {
+    Generic: Малезија време,
+    Standard: Малезија време,
+    Daylight: Малезија време
+  },
+  Asia/Kuwait: {
+    Generic: Арабијско време,
+    Standard: Арабијско стандардно време,
+    Daylight: Арабијско летње време
+  },
+  Asia/Macao: {
+    Generic: Кина време,
+    Standard: Кинеско стандардно време,
+    Daylight: Кина, летње време
+  },
+  Asia/Macau: {
+    Generic: Кина време,
+    Standard: Кинеско стандардно време,
+    Daylight: Кина, летње време
+  },
+  Asia/Magadan: {
+    Generic: Магадан,
+    Standard: Магадан, стандардно време,
+    Daylight: Магадан, летње време
+  },
+  Asia/Makassar: {
+    Generic: Централно-индонезијско време,
+    Standard: Централно-индонезијско време,
+    Daylight: Централно-индонезијско време
+  },
+  Asia/Manila: {
+    Generic: Филипини време,
+    Standard: Филипини, стандардно време,
+    Daylight: Филипини, летње време
+  },
+  Asia/Muscat: {
+    Generic: Заливско време,
+    Standard: Заливско време,
+    Daylight: Заливско време
+  },
+  Asia/Nicosia: {
+    Generic: Источноевропско време,
+    Standard: Источноевропско стандардно време,
+    Daylight: Источноевропско летње време
+  },
+  Asia/Novokuznetsk: {
+    Generic: Новокузњецк,
+    Standard: Новокузњецк, стандардно време,
+    Daylight: Новокузњецк, летње време
+  },
+  Asia/Novosibirsk: {
+    Generic: Новосибирск,
+    Standard: Новосибирск, стандардно време,
+    Daylight: Новосибирск, летње време
+  },
+  Asia/Omsk: {
+    Generic: Омск,
+    Standard: Омск, стандардно време,
+    Daylight: Омск, летње време
+  },
+  Asia/Oral: {
+    Generic: Западно-казахстанско време,
+    Standard: Западно-казахстанско време,
+    Daylight: Западно-казахстанско време
+  },
+  Asia/Phnom_Penh: {
+    Generic: Индокина време,
+    Standard: Индокина време,
+    Daylight: Индокина време
+  },
+  Asia/Pontianak: {
+    Generic: Западно-индонезијско време,
+    Standard: Западно-индонезијско време,
+    Daylight: Западно-индонезијско време
+  },
+  Asia/Pyongyang: {
+    Generic: Корејско време,
+    Standard: Корејско стандардно време,
+    Daylight: Корејско летње време
+  },
+  Asia/Qatar: {
+    Generic: Арабијско време,
+    Standard: Арабијско стандардно време,
+    Daylight: Арабијско летње време
+  },
+  Asia/Qostanay: {
+    Generic: Источно-казахстанско време,
+    Standard: Источно-казахстанско време,
+    Daylight: Источно-казахстанско време
+  },
+  Asia/Qyzylorda: {
+    Generic: Западно-казахстанско време,
+    Standard: Западно-казахстанско време,
+    Daylight: Западно-казахстанско време
+  },
+  Asia/Rangoon: {
+    Generic: Мијанмар време,
+    Standard: Мијанмар време,
+    Daylight: Мијанмар време
+  },
+  Asia/Riyadh: {
+    Generic: Арабијско време,
+    Standard: Арабијско стандардно време,
+    Daylight: Арабијско летње време
+  },
+  Asia/Saigon: {
+    Generic: Индокина време,
+    Standard: Индокина време,
+    Daylight: Индокина време
+  },
+  Asia/Sakhalin: {
+    Generic: Сахалин,
+    Standard: Сахалин, стандардно време,
+    Daylight: Сахалин, летње време
+  },
+  Asia/Samarkand: {
+    Generic: Узбекистан време,
+    Standard: Узбекистан, стандардно време,
+    Daylight: Узбекистан, летње време
+  },
+  Asia/Seoul: {
+    Generic: Корејско време,
+    Standard: Корејско стандардно време,
+    Daylight: Корејско летње време
+  },
+  Asia/Shanghai: {
+    Generic: Кина време,
+    Standard: Кинеско стандардно време,
+    Daylight: Кина, летње време
+  },
+  Asia/Singapore: {
+    Generic: Сингапур, стандардно време,
+    Standard: Сингапур, стандардно време,
+    Daylight: Сингапур, стандардно време
+  },
+  Asia/Srednekolymsk: {
+    Generic: Средњеколимск,
+    Standard: Средњеколимск, стандардно време,
+    Daylight: Средњеколимск, летње време
+  },
+  Asia/Taipei: {
+    Generic: Тајпеј време,
+    Standard: Тајпеј, стандардно време,
+    Daylight: Тајпеј, летње време
+  },
+  Asia/Tashkent: {
+    Generic: Узбекистан време,
+    Standard: Узбекистан, стандардно време,
+    Daylight: Узбекистан, летње време
+  },
+  Asia/Tbilisi: {
+    Generic: Грузија време,
+    Standard: Грузија, стандардно време,
+    Daylight: Грузија, летње време
+  },
+  Asia/Tehran: {
+    Generic: Иран време,
+    Standard: Иран, стандардно време,
+    Daylight: Иран, летње време
+  },
+  Asia/Tel_Aviv: {
+    Generic: Израелско време,
+    Standard: Израелско стандардно време,
+    Daylight: Израелско летње време
+  },
+  Asia/Thimbu: {
+    Generic: Бутан време,
+    Standard: Бутан време,
+    Daylight: Бутан време
+  },
+  Asia/Thimphu: {
+    Generic: Бутан време,
+    Standard: Бутан време,
+    Daylight: Бутан време
+  },
+  Asia/Tokyo: {
+    Generic: Јапанско време,
+    Standard: Јапанско стандардно време,
+    Daylight: Јапанско летње време
+  },
+  Asia/Tomsk: {
+    Generic: Томск,
+    Standard: Томск, стандардно време,
+    Daylight: Томск, летње време
+  },
+  Asia/Ujung_Pandang: {
+    Generic: Централно-индонезијско време,
+    Standard: Централно-индонезијско време,
+    Daylight: Централно-индонезијско време
+  },
+  Asia/Ulaanbaatar: {
+    Generic: Улан Батор време,
+    Standard: Улан Батор, стандардно време,
+    Daylight: Улан Батор, летње време
+  },
+  Asia/Ulan_Bator: {
+    Generic: Улан Батор време,
+    Standard: Улан Батор, стандардно време,
+    Daylight: Улан Батор, летње време
+  },
+  Asia/Urumqi: {
+    Generic: Кина,
+    Standard: Кина, стандардно време,
+    Daylight: Кина, летње време
+  },
+  Asia/Ust-Nera: {
+    Generic: Уст-Нера,
+    Standard: Уст-Нера, стандардно време,
+    Daylight: Уст-Нера, летње време
+  },
+  Asia/Vientiane: {
+    Generic: Индокина време,
+    Standard: Индокина време,
+    Daylight: Индокина време
+  },
+  Asia/Vladivostok: {
+    Generic: Владивосток,
+    Standard: Владивосток, стандардно време,
+    Daylight: Владивосток, летње време
+  },
+  Asia/Yakutsk: {
+    Generic: Јакутск,
+    Standard: Јакутск, стандардно време,
+    Daylight: Јакутск, летње време
+  },
   Asia/Yangon: {
     Generic: Мијанмар време,
     Standard: Мијанмар време,
     Daylight: Мијанмар време
   },
-  WET: {
+  Asia/Yekaterinburg: {
+    Generic: Јекатеринбург,
+    Standard: Јекатеринбург, стандардно време,
+    Daylight: Јекатеринбург, летње време
+  },
+  Asia/Yerevan: {
+    Generic: Јерменија време,
+    Standard: Јерменија, стандардно време,
+    Daylight: Јерменија, летње време
+  },
+  Atlantic/Azores: {
+    Generic: Азори време,
+    Standard: Азори, стандардно време,
+    Daylight: Азори, летње време
+  },
+  Atlantic/Bermuda: {
+    Generic: Атлантско време,
+    Standard: Атлантско стандардно време,
+    Daylight: Атлантско летње време
+  },
+  Atlantic/Canary: {
+    Generic: Западноевропско време,
+    Standard: Западноевропско стандардно време,
+    Daylight: Западноевропско летње време
+  },
+  Atlantic/Cape_Verde: {
+    Generic: Зеленортска Острва време,
+    Standard: Зеленортска Острва, стандардно време,
+    Daylight: Зеленортска Острва, летње време
+  },
+  Atlantic/Faeroe: {
     Generic: Западноевропско време,
     Standard: Западноевропско стандардно време,
     Daylight: Западноевропско летње време
@@ -2679,27 +1694,77 @@
     Standard: Западноевропско стандардно време,
     Daylight: Западноевропско летње време
   },
-  Australia/South: {
-    Generic: Аустралијско централно време,
-    Standard: Аустралијско централно стандардно време,
-    Daylight: Аустралијско централно летње време
+  Atlantic/Jan_Mayen: {
+    Generic: Средњеевропско време,
+    Standard: Средњеевропско стандардно време,
+    Daylight: Средњеевропско летње време
   },
-  Australia/Queensland: {
+  Atlantic/Madeira: {
+    Generic: Западноевропско време,
+    Standard: Западноевропско стандардно време,
+    Daylight: Западноевропско летње време
+  },
+  Atlantic/Reykjavik: {
+    Generic: Средње време по Гриничу,
+    Standard: Средње време по Гриничу,
+    Daylight: Средње време по Гриничу
+  },
+  Atlantic/South_Georgia: {
+    Generic: Јужна Џорџија време,
+    Standard: Јужна Џорџија време,
+    Daylight: Јужна Џорџија време
+  },
+  Atlantic/St_Helena: {
+    Generic: Средње време по Гриничу,
+    Standard: Средње време по Гриничу,
+    Daylight: Средње време по Гриничу
+  },
+  Atlantic/Stanley: {
+    Generic: Фолкландска Острва време,
+    Standard: Фолкландска Острва, стандардно време,
+    Daylight: Фолкландска Острва, летње време
+  },
+  Australia/ACT: {
     Generic: Аустралијско источно време,
     Standard: Аустралијско источно стандардно време,
     Daylight: Аустралијско источно летње време
   },
-  Australia/Yancowinna: {
+  Australia/Adelaide: {
     Generic: Аустралијско централно време,
     Standard: Аустралијско централно стандардно време,
     Daylight: Аустралијско централно летње време
   },
-  Australia/North: {
+  Australia/Brisbane: {
+    Generic: Аустралијско источно време,
+    Standard: Аустралијско источно стандардно време,
+    Daylight: Аустралијско источно летње време
+  },
+  Australia/Broken_Hill: {
     Generic: Аустралијско централно време,
     Standard: Аустралијско централно стандардно време,
     Daylight: Аустралијско централно летње време
   },
-  Australia/Tasmania: {
+  Australia/Canberra: {
+    Generic: Аустралијско источно време,
+    Standard: Аустралијско источно стандардно време,
+    Daylight: Аустралијско источно летње време
+  },
+  Australia/Currie: {
+    Generic: Аустралијско источно време,
+    Standard: Аустралијско источно стандардно време,
+    Daylight: Аустралијско источно летње време
+  },
+  Australia/Darwin: {
+    Generic: Аустралијско централно време,
+    Standard: Аустралијско централно стандардно време,
+    Daylight: Аустралијско централно летње време
+  },
+  Australia/Eucla: {
+    Generic: Аустралијско централно западно време,
+    Standard: Аустралијско централно западно стандардно време,
+    Daylight: Аустралијско централно западно летње време
+  },
+  Australia/Hobart: {
     Generic: Аустралијско источно време,
     Standard: Аустралијско источно стандардно време,
     Daylight: Аустралијско источно летње време
@@ -2708,6 +1773,56 @@
     Generic: Лорд Хов време,
     Standard: Лорд Хов, стандардно време,
     Daylight: Лорд Хов, летње време
+  },
+  Australia/Lindeman: {
+    Generic: Аустралијско источно време,
+    Standard: Аустралијско источно стандардно време,
+    Daylight: Аустралијско источно летње време
+  },
+  Australia/Lord_Howe: {
+    Generic: Лорд Хов време,
+    Standard: Лорд Хов, стандардно време,
+    Daylight: Лорд Хов, летње време
+  },
+  Australia/Melbourne: {
+    Generic: Аустралијско источно време,
+    Standard: Аустралијско источно стандардно време,
+    Daylight: Аустралијско источно летње време
+  },
+  Australia/NSW: {
+    Generic: Аустралијско источно време,
+    Standard: Аустралијско источно стандардно време,
+    Daylight: Аустралијско источно летње време
+  },
+  Australia/North: {
+    Generic: Аустралијско централно време,
+    Standard: Аустралијско централно стандардно време,
+    Daylight: Аустралијско централно летње време
+  },
+  Australia/Perth: {
+    Generic: Аустралијско западно време,
+    Standard: Аустралијско западно стандардно време,
+    Daylight: Аустралијско западно летње време
+  },
+  Australia/Queensland: {
+    Generic: Аустралијско источно време,
+    Standard: Аустралијско источно стандардно време,
+    Daylight: Аустралијско источно летње време
+  },
+  Australia/South: {
+    Generic: Аустралијско централно време,
+    Standard: Аустралијско централно стандардно време,
+    Daylight: Аустралијско централно летње време
+  },
+  Australia/Sydney: {
+    Generic: Аустралијско источно време,
+    Standard: Аустралијско источно стандардно време,
+    Daylight: Аустралијско источно летње време
+  },
+  Australia/Tasmania: {
+    Generic: Аустралијско источно време,
+    Standard: Аустралијско источно стандардно време,
+    Daylight: Аустралијско источно летње време
   },
   Australia/Victoria: {
     Generic: Аустралијско источно време,
@@ -2719,45 +1834,265 @@
     Standard: Аустралијско западно стандардно време,
     Daylight: Аустралијско западно летње време
   },
-  Australia/ACT: {
-    Generic: Аустралијско источно време,
-    Standard: Аустралијско источно стандардно време,
-    Daylight: Аустралијско источно летње време
+  Australia/Yancowinna: {
+    Generic: Аустралијско централно време,
+    Standard: Аустралијско централно стандардно време,
+    Daylight: Аустралијско централно летње време
   },
-  Australia/Canberra: {
-    Generic: Аустралијско источно време,
-    Standard: Аустралијско источно стандардно време,
-    Daylight: Аустралијско источно летње време
+  Brazil/Acre: {
+    Generic: Акре време,
+    Standard: Акре стандардно време,
+    Daylight: Акре летње рачунање времена
   },
-  Australia/NSW: {
-    Generic: Аустралијско источно време,
-    Standard: Аустралијско источно стандардно време,
-    Daylight: Аустралијско источно летње време
+  Brazil/DeNoronha: {
+    Generic: Фернандо де Нороња време,
+    Standard: Фернандо де Нороња, стандардно време,
+    Daylight: Фернандо де Нороња, летње време
   },
-  HST: {
-    Generic: Координисано универзално време -10,
-    Standard: Координисано универзално време -10,
-    Daylight: Координисано универзално време -10
+  Brazil/East: {
+    Generic: Бразилија време,
+    Standard: Бразилија, стандардно време,
+    Daylight: Бразилија, летње време
+  },
+  Brazil/West: {
+    Generic: Амазон време,
+    Standard: Амазон, стандардно време,
+    Daylight: Амазон, летње време
+  },
+  CET: {
+    Generic: Средњеевропско време,
+    Standard: Средњеевропско стандардно време,
+    Daylight: Средњеевропско летње време
+  },
+  CST6CDT: {
+    Generic: Северноамеричко централно време,
+    Standard: Северноамеричко централно стандардно време,
+    Daylight: Северноамеричко централно летње време
+  },
+  Canada/Atlantic: {
+    Generic: Атлантско време,
+    Standard: Атлантско стандардно време,
+    Daylight: Атлантско летње време
+  },
+  Canada/Central: {
+    Generic: Северноамеричко централно време,
+    Standard: Северноамеричко централно стандардно време,
+    Daylight: Северноамеричко централно летње време
+  },
+  Canada/Eastern: {
+    Generic: Северноамеричко источно време,
+    Standard: Северноамеричко источно стандардно време,
+    Daylight: Северноамеричко источно летње време
+  },
+  Canada/Mountain: {
+    Generic: Северноамеричко планинско време,
+    Standard: Северноамеричко планинско стандардно време,
+    Daylight: Северноамеричко планинско летње време
+  },
+  Canada/Newfoundland: {
+    Generic: Њуфаундленд,
+    Standard: Њуфаундленд, стандардно време,
+    Daylight: Њуфаундленд, летње време
+  },
+  Canada/Pacific: {
+    Generic: Северноамеричко пацифичко време,
+    Standard: Северноамеричко пацифичко стандардно време,
+    Daylight: Северноамеричко пацифичко летње време
+  },
+  Canada/Saskatchewan: {
+    Generic: Северноамеричко централно време,
+    Standard: Северноамеричко централно стандардно време,
+    Daylight: Северноамеричко централно летње време
+  },
+  Canada/Yukon: {
+    Generic: Јукон,
+    Standard: Јукон,
+    Daylight: Јукон
+  },
+  Chile/Continental: {
+    Generic: Чиле време,
+    Standard: Чиле, стандардно време,
+    Daylight: Чиле, летње време
+  },
+  Chile/EasterIsland: {
+    Generic: Ускршња острва време,
+    Standard: Ускршња острва, стандардно време,
+    Daylight: Ускршња острва, летње време
+  },
+  Cuba: {
+    Generic: Куба,
+    Standard: Куба, стандардно време,
+    Daylight: Куба, летње време
+  },
+  EET: {
+    Generic: Источноевропско време,
+    Standard: Источноевропско стандардно време,
+    Daylight: Источноевропско летње време
   },
   EST: {
     Generic: Координисано универзално време -5,
     Standard: Координисано универзално време -5,
     Daylight: Координисано универзално време -5
   },
-  MST: {
-    Generic: Координисано универзално време -7,
-    Standard: Координисано универзално време -7,
-    Daylight: Координисано универзално време -7
+  EST5EDT: {
+    Generic: Северноамеричко источно време,
+    Standard: Северноамеричко источно стандардно време,
+    Daylight: Северноамеричко источно летње време
+  },
+  Egypt: {
+    Generic: Источноевропско време,
+    Standard: Источноевропско стандардно време,
+    Daylight: Источноевропско летње време
+  },
+  Eire: {
+    Generic: Ирска,
+    Standard: Средње време по Гриничу,
+    Daylight: Ирска, стандардно време
+  },
+  Etc/GMT: {
+    Generic: Средње време по Гриничу,
+    Standard: Средње време по Гриничу,
+    Daylight: Средње време по Гриничу
   },
   Etc/GMT+0: {
     Generic: Средње време по Гриничу,
     Standard: Средње време по Гриничу,
     Daylight: Средње време по Гриничу
   },
+  Etc/GMT+1: {
+    Generic: Координисано универзално време -1,
+    Standard: Координисано универзално време -1,
+    Daylight: Координисано универзално време -1
+  },
+  Etc/GMT+10: {
+    Generic: Координисано универзално време -10,
+    Standard: Координисано универзално време -10,
+    Daylight: Координисано универзално време -10
+  },
+  Etc/GMT+11: {
+    Generic: Координисано универзално време -11,
+    Standard: Координисано универзално време -11,
+    Daylight: Координисано универзално време -11
+  },
+  Etc/GMT+12: {
+    Generic: Координисано универзално време -12,
+    Standard: Координисано универзално време -12,
+    Daylight: Координисано универзално време -12
+  },
+  Etc/GMT+2: {
+    Generic: Координисано универзално време -2,
+    Standard: Координисано универзално време -2,
+    Daylight: Координисано универзално време -2
+  },
+  Etc/GMT+3: {
+    Generic: Координисано универзално време -3,
+    Standard: Координисано универзално време -3,
+    Daylight: Координисано универзално време -3
+  },
+  Etc/GMT+4: {
+    Generic: Координисано универзално време -4,
+    Standard: Координисано универзално време -4,
+    Daylight: Координисано универзално време -4
+  },
+  Etc/GMT+5: {
+    Generic: Координисано универзално време -5,
+    Standard: Координисано универзално време -5,
+    Daylight: Координисано универзално време -5
+  },
+  Etc/GMT+6: {
+    Generic: Координисано универзално време -6,
+    Standard: Координисано универзално време -6,
+    Daylight: Координисано универзално време -6
+  },
+  Etc/GMT+7: {
+    Generic: Координисано универзално време -7,
+    Standard: Координисано универзално време -7,
+    Daylight: Координисано универзално време -7
+  },
+  Etc/GMT+8: {
+    Generic: Координисано универзално време -8,
+    Standard: Координисано универзално време -8,
+    Daylight: Координисано универзално време -8
+  },
+  Etc/GMT+9: {
+    Generic: Координисано универзално време -9,
+    Standard: Координисано универзално време -9,
+    Daylight: Координисано универзално време -9
+  },
   Etc/GMT-0: {
     Generic: Средње време по Гриничу,
     Standard: Средње време по Гриничу,
     Daylight: Средње време по Гриничу
+  },
+  Etc/GMT-1: {
+    Generic: Координисано универзално време +1,
+    Standard: Координисано универзално време +1,
+    Daylight: Координисано универзално време +1
+  },
+  Etc/GMT-10: {
+    Generic: Координисано универзално време +10,
+    Standard: Координисано универзално време +10,
+    Daylight: Координисано универзално време +10
+  },
+  Etc/GMT-11: {
+    Generic: Координисано универзално време +11,
+    Standard: Координисано универзално време +11,
+    Daylight: Координисано универзално време +11
+  },
+  Etc/GMT-12: {
+    Generic: Координисано универзално време +12,
+    Standard: Координисано универзално време +12,
+    Daylight: Координисано универзално време +12
+  },
+  Etc/GMT-13: {
+    Generic: Координисано универзално време +13,
+    Standard: Координисано универзално време +13,
+    Daylight: Координисано универзално време +13
+  },
+  Etc/GMT-14: {
+    Generic: Координисано универзално време +14,
+    Standard: Координисано универзално време +14,
+    Daylight: Координисано универзално време +14
+  },
+  Etc/GMT-2: {
+    Generic: Координисано универзално време +2,
+    Standard: Координисано универзално време +2,
+    Daylight: Координисано универзално време +2
+  },
+  Etc/GMT-3: {
+    Generic: Координисано универзално време +3,
+    Standard: Координисано универзално време +3,
+    Daylight: Координисано универзално време +3
+  },
+  Etc/GMT-4: {
+    Generic: Координисано универзално време +4,
+    Standard: Координисано универзално време +4,
+    Daylight: Координисано универзално време +4
+  },
+  Etc/GMT-5: {
+    Generic: Координисано универзално време +5,
+    Standard: Координисано универзално време +5,
+    Daylight: Координисано универзално време +5
+  },
+  Etc/GMT-6: {
+    Generic: Координисано универзално време +6,
+    Standard: Координисано универзално време +6,
+    Daylight: Координисано универзално време +6
+  },
+  Etc/GMT-7: {
+    Generic: Координисано универзално време +7,
+    Standard: Координисано универзално време +7,
+    Daylight: Координисано универзално време +7
+  },
+  Etc/GMT-8: {
+    Generic: Координисано универзално време +8,
+    Standard: Координисано универзално време +8,
+    Daylight: Координисано универзално време +8
+  },
+  Etc/GMT-9: {
+    Generic: Координисано универзално време +9,
+    Standard: Координисано универзално време +9,
+    Daylight: Координисано универзално време +9
   },
   Etc/GMT0: {
     Generic: Средње време по Гриничу,
@@ -2768,6 +2103,356 @@
     Generic: Средње време по Гриничу,
     Standard: Средње време по Гриничу,
     Daylight: Средње време по Гриничу
+  },
+  Etc/UCT: {
+    Generic: Координисано универзално време,
+    Standard: Координисано универзално време,
+    Daylight: Координисано универзално време
+  },
+  Etc/UTC: {
+    Generic: Координисано универзално време,
+    Standard: Координисано универзално време,
+    Daylight: Координисано универзално време
+  },
+  Etc/Universal: {
+    Generic: Координисано универзално време,
+    Standard: Координисано универзално време,
+    Daylight: Координисано универзално време
+  },
+  Etc/Zulu: {
+    Generic: Координисано универзално време,
+    Standard: Координисано универзално време,
+    Daylight: Координисано универзално време
+  },
+  Europe/Amsterdam: {
+    Generic: Средњеевропско време,
+    Standard: Средњеевропско стандардно време,
+    Daylight: Средњеевропско летње време
+  },
+  Europe/Andorra: {
+    Generic: Средњеевропско време,
+    Standard: Средњеевропско стандардно време,
+    Daylight: Средњеевропско летње време
+  },
+  Europe/Astrakhan: {
+    Generic: Астракан,
+    Standard: Астракан, стандардно време,
+    Daylight: Астракан, летње време
+  },
+  Europe/Athens: {
+    Generic: Источноевропско време,
+    Standard: Источноевропско стандардно време,
+    Daylight: Источноевропско летње време
+  },
+  Europe/Belfast: {
+    Generic: Уједињено Краљевство,
+    Standard: Средње време по Гриничу,
+    Daylight: Британија, летње време
+  },
+  Europe/Belgrade: {
+    Generic: Средњеевропско време,
+    Standard: Средњеевропско стандардно време,
+    Daylight: Средњеевропско летње време
+  },
+  Europe/Berlin: {
+    Generic: Средњеевропско време,
+    Standard: Средњеевропско стандардно време,
+    Daylight: Средњеевропско летње време
+  },
+  Europe/Bratislava: {
+    Generic: Средњеевропско време,
+    Standard: Средњеевропско стандардно време,
+    Daylight: Средњеевропско летње време
+  },
+  Europe/Brussels: {
+    Generic: Средњеевропско време,
+    Standard: Средњеевропско стандардно време,
+    Daylight: Средњеевропско летње време
+  },
+  Europe/Bucharest: {
+    Generic: Источноевропско време,
+    Standard: Источноевропско стандардно време,
+    Daylight: Источноевропско летње време
+  },
+  Europe/Budapest: {
+    Generic: Средњеевропско време,
+    Standard: Средњеевропско стандардно време,
+    Daylight: Средњеевропско летње време
+  },
+  Europe/Busingen: {
+    Generic: Средњеевропско време,
+    Standard: Средњеевропско стандардно време,
+    Daylight: Средњеевропско летње време
+  },
+  Europe/Chisinau: {
+    Generic: Источноевропско време,
+    Standard: Источноевропско стандардно време,
+    Daylight: Источноевропско летње време
+  },
+  Europe/Copenhagen: {
+    Generic: Средњеевропско време,
+    Standard: Средњеевропско стандардно време,
+    Daylight: Средњеевропско летње време
+  },
+  Europe/Dublin: {
+    Generic: Ирска,
+    Standard: Средње време по Гриничу,
+    Daylight: Ирска, стандардно време
+  },
+  Europe/Gibraltar: {
+    Generic: Средњеевропско време,
+    Standard: Средњеевропско стандардно време,
+    Daylight: Средњеевропско летње време
+  },
+  Europe/Guernsey: {
+    Generic: Средње време по Гриничу,
+    Standard: Средње време по Гриничу,
+    Daylight: Средње време по Гриничу
+  },
+  Europe/Helsinki: {
+    Generic: Источноевропско време,
+    Standard: Источноевропско стандардно време,
+    Daylight: Источноевропско летње време
+  },
+  Europe/Isle_of_Man: {
+    Generic: Средње време по Гриничу,
+    Standard: Средње време по Гриничу,
+    Daylight: Средње време по Гриничу
+  },
+  Europe/Istanbul: {
+    Generic: Турска,
+    Standard: Турска, стандардно време,
+    Daylight: Турска, летње време
+  },
+  Europe/Jersey: {
+    Generic: Средње време по Гриничу,
+    Standard: Средње време по Гриничу,
+    Daylight: Средње време по Гриничу
+  },
+  Europe/Kaliningrad: {
+    Generic: Калињинград,
+    Standard: Калињинград, стандардно време,
+    Daylight: Калињинград, летње време
+  },
+  Europe/Kiev: {
+    Generic: Источноевропско време,
+    Standard: Источноевропско стандардно време,
+    Daylight: Источноевропско летње време
+  },
+  Europe/Kirov: {
+    Generic: Киров,
+    Standard: Киров, стандардно време,
+    Daylight: Киров, летње време
+  },
+  Europe/Kyiv: {
+    Generic: Источноевропско време,
+    Standard: Источноевропско стандардно време,
+    Daylight: Источноевропско летње време
+  },
+  Europe/Lisbon: {
+    Generic: Западноевропско време,
+    Standard: Западноевропско стандардно време,
+    Daylight: Западноевропско летње време
+  },
+  Europe/Ljubljana: {
+    Generic: Средњеевропско време,
+    Standard: Средњеевропско стандардно време,
+    Daylight: Средњеевропско летње време
+  },
+  Europe/London: {
+    Generic: Уједињено Краљевство,
+    Standard: Средње време по Гриничу,
+    Daylight: Британија, летње време
+  },
+  Europe/Luxembourg: {
+    Generic: Средњеевропско време,
+    Standard: Средњеевропско стандардно време,
+    Daylight: Средњеевропско летње време
+  },
+  Europe/Madrid: {
+    Generic: Средњеевропско време,
+    Standard: Средњеевропско стандардно време,
+    Daylight: Средњеевропско летње време
+  },
+  Europe/Malta: {
+    Generic: Средњеевропско време,
+    Standard: Средњеевропско стандардно време,
+    Daylight: Средњеевропско летње време
+  },
+  Europe/Mariehamn: {
+    Generic: Источноевропско време,
+    Standard: Источноевропско стандардно време,
+    Daylight: Источноевропско летње време
+  },
+  Europe/Minsk: {
+    Generic: Москва време,
+    Standard: Москва, стандардно време,
+    Daylight: Москва, летње време
+  },
+  Europe/Monaco: {
+    Generic: Средњеевропско време,
+    Standard: Средњеевропско стандардно време,
+    Daylight: Средњеевропско летње време
+  },
+  Europe/Moscow: {
+    Generic: Москва,
+    Standard: Москва, стандардно време,
+    Daylight: Москва, летње време
+  },
+  Europe/Nicosia: {
+    Generic: Источноевропско време,
+    Standard: Источноевропско стандардно време,
+    Daylight: Источноевропско летње време
+  },
+  Europe/Oslo: {
+    Generic: Средњеевропско време,
+    Standard: Средњеевропско стандардно време,
+    Daylight: Средњеевропско летње време
+  },
+  Europe/Paris: {
+    Generic: Средњеевропско време,
+    Standard: Средњеевропско стандардно време,
+    Daylight: Средњеевропско летње време
+  },
+  Europe/Podgorica: {
+    Generic: Средњеевропско време,
+    Standard: Средњеевропско стандардно време,
+    Daylight: Средњеевропско летње време
+  },
+  Europe/Prague: {
+    Generic: Средњеевропско време,
+    Standard: Средњеевропско стандардно време,
+    Daylight: Средњеевропско летње време
+  },
+  Europe/Riga: {
+    Generic: Источноевропско време,
+    Standard: Источноевропско стандардно време,
+    Daylight: Источноевропско летње време
+  },
+  Europe/Rome: {
+    Generic: Средњеевропско време,
+    Standard: Средњеевропско стандардно време,
+    Daylight: Средњеевропско летње време
+  },
+  Europe/Samara: {
+    Generic: Самара,
+    Standard: Самара, стандардно време,
+    Daylight: Самара, летње време
+  },
+  Europe/San_Marino: {
+    Generic: Средњеевропско време,
+    Standard: Средњеевропско стандардно време,
+    Daylight: Средњеевропско летње време
+  },
+  Europe/Sarajevo: {
+    Generic: Средњеевропско време,
+    Standard: Средњеевропско стандардно време,
+    Daylight: Средњеевропско летње време
+  },
+  Europe/Saratov: {
+    Generic: Саратов,
+    Standard: Саратов, стандардно време,
+    Daylight: Саратов, летње време
+  },
+  Europe/Simferopol: {
+    Generic: Москва време,
+    Standard: Москва, стандардно време,
+    Daylight: Москва, летње време
+  },
+  Europe/Skopje: {
+    Generic: Средњеевропско време,
+    Standard: Средњеевропско стандардно време,
+    Daylight: Средњеевропско летње време
+  },
+  Europe/Sofia: {
+    Generic: Источноевропско време,
+    Standard: Источноевропско стандардно време,
+    Daylight: Источноевропско летње време
+  },
+  Europe/Stockholm: {
+    Generic: Средњеевропско време,
+    Standard: Средњеевропско стандардно време,
+    Daylight: Средњеевропско летње време
+  },
+  Europe/Tallinn: {
+    Generic: Источноевропско време,
+    Standard: Источноевропско стандардно време,
+    Daylight: Источноевропско летње време
+  },
+  Europe/Tirane: {
+    Generic: Средњеевропско време,
+    Standard: Средњеевропско стандардно време,
+    Daylight: Средњеевропско летње време
+  },
+  Europe/Tiraspol: {
+    Generic: Источноевропско време,
+    Standard: Источноевропско стандардно време,
+    Daylight: Источноевропско летње време
+  },
+  Europe/Ulyanovsk: {
+    Generic: Уљановск,
+    Standard: Уљановск, стандардно време,
+    Daylight: Уљановск, летње време
+  },
+  Europe/Uzhgorod: {
+    Generic: Источноевропско време,
+    Standard: Источноевропско стандардно време,
+    Daylight: Источноевропско летње време
+  },
+  Europe/Vaduz: {
+    Generic: Средњеевропско време,
+    Standard: Средњеевропско стандардно време,
+    Daylight: Средњеевропско летње време
+  },
+  Europe/Vatican: {
+    Generic: Средњеевропско време,
+    Standard: Средњеевропско стандардно време,
+    Daylight: Средњеевропско летње време
+  },
+  Europe/Vienna: {
+    Generic: Средњеевропско време,
+    Standard: Средњеевропско стандардно време,
+    Daylight: Средњеевропско летње време
+  },
+  Europe/Vilnius: {
+    Generic: Источноевропско време,
+    Standard: Источноевропско стандардно време,
+    Daylight: Источноевропско летње време
+  },
+  Europe/Volgograd: {
+    Generic: Волгоград,
+    Standard: Волгоград, стандардно време,
+    Daylight: Волгоград, летње време
+  },
+  Europe/Warsaw: {
+    Generic: Средњеевропско време,
+    Standard: Средњеевропско стандардно време,
+    Daylight: Средњеевропско летње време
+  },
+  Europe/Zagreb: {
+    Generic: Средњеевропско време,
+    Standard: Средњеевропско стандардно време,
+    Daylight: Средњеевропско летње време
+  },
+  Europe/Zaporozhye: {
+    Generic: Источноевропско време,
+    Standard: Источноевропско стандардно време,
+    Daylight: Источноевропско летње време
+  },
+  Europe/Zurich: {
+    Generic: Средњеевропско време,
+    Standard: Средњеевропско стандардно време,
+    Daylight: Средњеевропско летње време
+  },
+  GB: {
+    Generic: Уједињено Краљевство,
+    Standard: Средње време по Гриничу,
+    Daylight: Британија, летње време
+  },
+  GB-Eire: {
+    Generic: Уједињено Краљевство,
+    Standard: Средње време по Гриничу,
+    Daylight: Британија, летње време
   },
   GMT: {
     Generic: Средње време по Гриничу,
@@ -2794,120 +2479,135 @@
     Standard: Средње време по Гриничу,
     Daylight: Средње време по Гриничу
   },
-  Etc/UCT: {
-    Generic: Координисано универзално време,
-    Standard: Координисано универзално време,
-    Daylight: Координисано универзално време
+  HST: {
+    Generic: Координисано универзално време -10,
+    Standard: Координисано универзално време -10,
+    Daylight: Координисано универзално време -10
   },
-  Etc/Universal: {
-    Generic: Координисано универзално време,
-    Standard: Координисано универзално време,
-    Daylight: Координисано универзално време
+  Hongkong: {
+    Generic: Хонг Конг време,
+    Standard: Хонг Конг, стандардно време,
+    Daylight: Хонг Конг, летње време
   },
-  Etc/Zulu: {
-    Generic: Координисано универзално време,
-    Standard: Координисано универзално време,
-    Daylight: Координисано универзално време
+  Iceland: {
+    Generic: Средње време по Гриничу,
+    Standard: Средње време по Гриничу,
+    Daylight: Средње време по Гриничу
   },
-  UCT: {
-    Generic: Координисано универзално време,
-    Standard: Координисано универзално време,
-    Daylight: Координисано универзално време
+  Indian/Antananarivo: {
+    Generic: Источно-афричко време,
+    Standard: Источно-афричко време,
+    Daylight: Источно-афричко време
   },
-  UTC: {
-    Generic: Координисано универзално време,
-    Standard: Координисано универзално време,
-    Daylight: Координисано универзално време
+  Indian/Chagos: {
+    Generic: Индијско океанско време,
+    Standard: Индијско океанско време,
+    Daylight: Индијско океанско време
   },
-  Universal: {
-    Generic: Координисано универзално време,
-    Standard: Координисано универзално време,
-    Daylight: Координисано универзално време
+  Indian/Christmas: {
+    Generic: Божићно острво време,
+    Standard: Божићно острво време,
+    Daylight: Божићно острво време
   },
-  Zulu: {
-    Generic: Координисано универзално време,
-    Standard: Координисано универзално време,
-    Daylight: Координисано универзално време
+  Indian/Cocos: {
+    Generic: Кокос (Келинг) Острва време,
+    Standard: Кокос (Келинг) Острва време,
+    Daylight: Кокос (Келинг) Острва време
   },
-  Atlantic/Jan_Mayen: {
-    Generic: Средњеевропско време,
-    Standard: Средњеевропско стандардно време,
-    Daylight: Средњеевропско летње време
+  Indian/Comoro: {
+    Generic: Источно-афричко време,
+    Standard: Источно-афричко време,
+    Daylight: Источно-афричко време
+  },
+  Indian/Kerguelen: {
+    Generic: Француско јужно и антарктичко време,
+    Standard: Француско јужно и антарктичко време,
+    Daylight: Француско јужно и антарктичко време
+  },
+  Indian/Mahe: {
+    Generic: Сејшели време,
+    Standard: Сејшели време,
+    Daylight: Сејшели време
+  },
+  Indian/Maldives: {
+    Generic: Малдиви време,
+    Standard: Малдиви време,
+    Daylight: Малдиви време
+  },
+  Indian/Mauritius: {
+    Generic: Маурицијус време,
+    Standard: Маурицијус, стандардно време,
+    Daylight: Маурицијус, летње време
+  },
+  Indian/Mayotte: {
+    Generic: Источно-афричко време,
+    Standard: Источно-афричко време,
+    Daylight: Источно-афричко време
+  },
+  Indian/Reunion: {
+    Generic: Реинион време,
+    Standard: Реинион време,
+    Daylight: Реинион време
+  },
+  Iran: {
+    Generic: Иран време,
+    Standard: Иран, стандардно време,
+    Daylight: Иран, летње време
+  },
+  Israel: {
+    Generic: Израелско време,
+    Standard: Израелско стандардно време,
+    Daylight: Израелско летње време
+  },
+  Jamaica: {
+    Generic: Северноамеричко источно време,
+    Standard: Северноамеричко источно стандардно време,
+    Daylight: Северноамеричко источно летње време
+  },
+  Japan: {
+    Generic: Јапанско време,
+    Standard: Јапанско стандардно време,
+    Daylight: Јапанско летње време
+  },
+  Kwajalein: {
+    Generic: Маршалска Острва време,
+    Standard: Маршалска Острва време,
+    Daylight: Маршалска Острва време
+  },
+  Libya: {
+    Generic: Источноевропско време,
+    Standard: Источноевропско стандардно време,
+    Daylight: Источноевропско летње време
   },
   MET: {
     Generic: Средњеевропско време,
     Standard: Средњеевропско стандардно време,
     Daylight: Средњеевропско летње време
   },
-  EET: {
-    Generic: Источноевропско време,
-    Standard: Источноевропско стандардно време,
-    Daylight: Источноевропско летње време
+  MST: {
+    Generic: Координисано универзално време -7,
+    Standard: Координисано универзално време -7,
+    Daylight: Координисано универзално време -7
   },
-  Europe/Tiraspol: {
-    Generic: Источноевропско време,
-    Standard: Источноевропско стандардно време,
-    Daylight: Источноевропско летње време
+  MST7MDT: {
+    Generic: Северноамеричко планинско време,
+    Standard: Северноамеричко планинско стандардно време,
+    Daylight: Северноамеричко планинско летње време
   },
-  Eire: {
-    Generic: Ирска,
-    Standard: Средње време по Гриничу,
-    Daylight: Ирска, стандардно време
+  Mexico/BajaNorte: {
+    Generic: Северноамеричко пацифичко време,
+    Standard: Северноамеричко пацифичко стандардно време,
+    Daylight: Северноамеричко пацифичко летње време
   },
-  Asia/Istanbul: {
-    Generic: Турска,
-    Standard: Турска, стандардно време,
-    Daylight: Турска, летње време
+  Mexico/BajaSur: {
+    Generic: Мексички Пацифик,
+    Standard: Мексички Пацифик, стандардно време,
+    Daylight: Мексички Пацифик, летње време
   },
-  Turkey: {
-    Generic: Турска,
-    Standard: Турска, стандардно време,
-    Daylight: Турска, летње време
-  },
-  Europe/Kyiv: {
-    Generic: Источноевропско време,
-    Standard: Источноевропско стандардно време,
-    Daylight: Источноевропско летње време
-  },
-  Portugal: {
-    Generic: Западноевропско време,
-    Standard: Западноевропско стандардно време,
-    Daylight: Западноевропско летње време
-  },
-  Europe/Belfast: {
-    Generic: Уједињено Краљевство,
-    Standard: Средње време по Гриничу,
-    Daylight: Британија, летње време
-  },
-  GB: {
-    Generic: Уједињено Краљевство,
-    Standard: Средње време по Гриничу,
-    Daylight: Британија, летње време
-  },
-  GB-Eire: {
-    Generic: Уједињено Краљевство,
-    Standard: Средње време по Гриничу,
-    Daylight: Британија, летње време
-  },
-  W-SU: {
-    Generic: Москва,
-    Standard: Москва, стандардно време,
-    Daylight: Москва, летње време
-  },
-  CET: {
-    Generic: Средњеевропско време,
-    Standard: Средњеевропско стандардно време,
-    Daylight: Средњеевропско летње време
-  },
-  Poland: {
-    Generic: Средњеевропско време,
-    Standard: Средњеевропско стандардно време,
-    Daylight: Средњеевропско летње време
-  },
-  Antarctica/South_Pole: {
-    Generic: Нови Зеланд време,
-    Standard: Нови Зеланд, стандардно време,
-    Daylight: Нови Зеланд, летње време
+  Mexico/General: {
+    Generic: Северноамеричко централно време,
+    Standard: Северноамеричко централно стандардно време,
+    Daylight: Северноамеричко централно летње време
   },
   NZ: {
     Generic: Нови Зеланд време,
@@ -2919,17 +2619,102 @@
     Standard: Чатам, стандардно време,
     Daylight: Чатам, летње време
   },
-  Chile/EasterIsland: {
+  Navajo: {
+    Generic: Северноамеричко планинско време,
+    Standard: Северноамеричко планинско стандардно време,
+    Daylight: Северноамеричко планинско летње време
+  },
+  PRC: {
+    Generic: Кина време,
+    Standard: Кинеско стандардно време,
+    Daylight: Кина, летње време
+  },
+  PST8PDT: {
+    Generic: Северноамеричко пацифичко време,
+    Standard: Северноамеричко пацифичко стандардно време,
+    Daylight: Северноамеричко пацифичко летње време
+  },
+  Pacific/Apia: {
+    Generic: Апија време,
+    Standard: Апија, стандардно време,
+    Daylight: Апија, летње време
+  },
+  Pacific/Auckland: {
+    Generic: Нови Зеланд време,
+    Standard: Нови Зеланд, стандардно време,
+    Daylight: Нови Зеланд, летње време
+  },
+  Pacific/Bougainville: {
+    Generic: Папуа Нова Гвинеја време,
+    Standard: Папуа Нова Гвинеја време,
+    Daylight: Папуа Нова Гвинеја време
+  },
+  Pacific/Chatham: {
+    Generic: Чатам време,
+    Standard: Чатам, стандардно време,
+    Daylight: Чатам, летње време
+  },
+  Pacific/Chuuk: {
+    Generic: Чуук време,
+    Standard: Чуук време,
+    Daylight: Чуук време
+  },
+  Pacific/Easter: {
     Generic: Ускршња острва време,
     Standard: Ускршња острва, стандардно време,
     Daylight: Ускршња острва, летње време
   },
-  Pacific/Pohnpei: {
-    Generic: Понпеј време,
-    Standard: Понпеј време,
-    Daylight: Понпеј време
+  Pacific/Efate: {
+    Generic: Вануату време,
+    Standard: Вануату, стандардно време,
+    Daylight: Вануату, летње време
   },
-  US/Hawaii: {
+  Pacific/Enderbury: {
+    Generic: Феникс острва време,
+    Standard: Феникс острва време,
+    Daylight: Феникс острва време
+  },
+  Pacific/Fakaofo: {
+    Generic: Токелау време,
+    Standard: Токелау време,
+    Daylight: Токелау време
+  },
+  Pacific/Fiji: {
+    Generic: Фиџи време,
+    Standard: Фиџи, стандардно време,
+    Daylight: Фиџи, летње време
+  },
+  Pacific/Funafuti: {
+    Generic: Тувалу време,
+    Standard: Тувалу време,
+    Daylight: Тувалу време
+  },
+  Pacific/Galapagos: {
+    Generic: Галапагос време,
+    Standard: Галапагос време,
+    Daylight: Галапагос време
+  },
+  Pacific/Gambier: {
+    Generic: Гамбије време,
+    Standard: Гамбије време,
+    Daylight: Гамбије време
+  },
+  Pacific/Guadalcanal: {
+    Generic: Соломонска Острва време,
+    Standard: Соломонска Острва време,
+    Daylight: Соломонска Острва време
+  },
+  Pacific/Guam: {
+    Generic: Чаморо време,
+    Standard: Чаморо време,
+    Daylight: Чаморо време
+  },
+  Pacific/Honolulu: {
+    Generic: Хавајско-алеутско време,
+    Standard: Хавајско-алеутско стандардно време,
+    Daylight: Хавајско-алеутско летње време
+  },
+  Pacific/Johnston: {
     Generic: Хавајско-алеутско време,
     Standard: Хавајско-алеутско стандардно време,
     Daylight: Хавајско-алеутско летње време
@@ -2939,39 +2724,254 @@
     Standard: Феникс острва време,
     Daylight: Феникс острва време
   },
-  Kwajalein: {
+  Pacific/Kiritimati: {
+    Generic: Острва Лајн време,
+    Standard: Острва Лајн време,
+    Daylight: Острва Лајн време
+  },
+  Pacific/Kosrae: {
+    Generic: Кошре време,
+    Standard: Кошре време,
+    Daylight: Кошре време
+  },
+  Pacific/Kwajalein: {
     Generic: Маршалска Острва време,
     Standard: Маршалска Острва време,
     Daylight: Маршалска Острва време
+  },
+  Pacific/Majuro: {
+    Generic: Маршалска Острва време,
+    Standard: Маршалска Острва време,
+    Daylight: Маршалска Острва време
+  },
+  Pacific/Marquesas: {
+    Generic: Маркиз време,
+    Standard: Маркиз време,
+    Daylight: Маркиз време
+  },
+  Pacific/Midway: {
+    Generic: Самоа време,
+    Standard: Самоа, стандардно време,
+    Daylight: Самоа, летње време
+  },
+  Pacific/Nauru: {
+    Generic: Науру време,
+    Standard: Науру време,
+    Daylight: Науру време
+  },
+  Pacific/Niue: {
+    Generic: Ниуе време,
+    Standard: Ниуе време,
+    Daylight: Ниуе време
+  },
+  Pacific/Norfolk: {
+    Generic: Норфолк Острво време,
+    Standard: Норфолк Острво, стандардно време,
+    Daylight: Норфолк Острво, летње време
+  },
+  Pacific/Noumea: {
+    Generic: Нова Каледонија време,
+    Standard: Нова Каледонија, стандардно време,
+    Daylight: Нова Каледонија, летње време
+  },
+  Pacific/Pago_Pago: {
+    Generic: Самоа време,
+    Standard: Самоа, стандардно време,
+    Daylight: Самоа, летње време
+  },
+  Pacific/Palau: {
+    Generic: Палау време,
+    Standard: Палау време,
+    Daylight: Палау време
+  },
+  Pacific/Pitcairn: {
+    Generic: Питкерн време,
+    Standard: Питкерн време,
+    Daylight: Питкерн време
+  },
+  Pacific/Pohnpei: {
+    Generic: Понпеј време,
+    Standard: Понпеј време,
+    Daylight: Понпеј време
+  },
+  Pacific/Ponape: {
+    Generic: Понпеј време,
+    Standard: Понпеј време,
+    Daylight: Понпеј време
+  },
+  Pacific/Port_Moresby: {
+    Generic: Папуа Нова Гвинеја време,
+    Standard: Папуа Нова Гвинеја време,
+    Daylight: Папуа Нова Гвинеја време
+  },
+  Pacific/Rarotonga: {
+    Generic: Кукова острва време,
+    Standard: Кукова острва, стандардно време,
+    Daylight: Кукова острва, полу-летње време
+  },
+  Pacific/Saipan: {
+    Generic: Чаморо време,
+    Standard: Чаморо време,
+    Daylight: Чаморо време
   },
   Pacific/Samoa: {
     Generic: Самоа време,
     Standard: Самоа, стандардно време,
     Daylight: Самоа, летње време
   },
-  US/Samoa: {
-    Generic: Самоа време,
-    Standard: Самоа, стандардно време,
-    Daylight: Самоа, летње време
+  Pacific/Tahiti: {
+    Generic: Тахити време,
+    Standard: Тахити време,
+    Daylight: Тахити време
   },
-  Pacific/Chuuk: {
+  Pacific/Tarawa: {
+    Generic: Гилберт острва време,
+    Standard: Гилберт острва време,
+    Daylight: Гилберт острва време
+  },
+  Pacific/Tongatapu: {
+    Generic: Тонга време,
+    Standard: Тонга, стандардно време,
+    Daylight: Тонга, летње време
+  },
+  Pacific/Truk: {
     Generic: Чуук време,
     Standard: Чуук време,
     Daylight: Чуук време
+  },
+  Pacific/Wake: {
+    Generic: Вејк острво време,
+    Standard: Вејк острво време,
+    Daylight: Вејк острво време
+  },
+  Pacific/Wallis: {
+    Generic: Валис и Футуна Острва време,
+    Standard: Валис и Футуна Острва време,
+    Daylight: Валис и Футуна Острва време
   },
   Pacific/Yap: {
     Generic: Чуук време,
     Standard: Чуук време,
     Daylight: Чуук време
   },
-  America/Fort_Wayne: {
+  Poland: {
+    Generic: Средњеевропско време,
+    Standard: Средњеевропско стандардно време,
+    Daylight: Средњеевропско летње време
+  },
+  Portugal: {
+    Generic: Западноевропско време,
+    Standard: Западноевропско стандардно време,
+    Daylight: Западноевропско летње време
+  },
+  ROC: {
+    Generic: Тајпеј време,
+    Standard: Тајпеј, стандардно време,
+    Daylight: Тајпеј, летње време
+  },
+  ROK: {
+    Generic: Корејско време,
+    Standard: Корејско стандардно време,
+    Daylight: Корејско летње време
+  },
+  Singapore: {
+    Generic: Сингапур, стандардно време,
+    Standard: Сингапур, стандардно време,
+    Daylight: Сингапур, стандардно време
+  },
+  Turkey: {
+    Generic: Турска,
+    Standard: Турска, стандардно време,
+    Daylight: Турска, летње време
+  },
+  UCT: {
+    Generic: Координисано универзално време,
+    Standard: Координисано универзално време,
+    Daylight: Координисано универзално време
+  },
+  US/Alaska: {
+    Generic: Аљаска,
+    Standard: Аљаска, стандардно време,
+    Daylight: Аљаска, летње време
+  },
+  US/Aleutian: {
+    Generic: Хавајско-алеутско време,
+    Standard: Хавајско-алеутско стандардно време,
+    Daylight: Хавајско-алеутско летње време
+  },
+  US/Arizona: {
+    Generic: Северноамеричко планинско време,
+    Standard: Северноамеричко планинско стандардно време,
+    Daylight: Северноамеричко планинско летње време
+  },
+  US/Central: {
+    Generic: Северноамеричко централно време,
+    Standard: Северноамеричко централно стандардно време,
+    Daylight: Северноамеричко централно летње време
+  },
+  US/East-Indiana: {
     Generic: Северноамеричко источно време,
     Standard: Северноамеричко источно стандардно време,
     Daylight: Северноамеричко источно летње време
   },
-  Antarctica/Troll: {
-    Generic: Средње време по Гриничу,
-    Standard: Средње време по Гриничу,
-    Daylight: Средње време по Гриничу
+  US/Eastern: {
+    Generic: Северноамеричко источно време,
+    Standard: Северноамеричко источно стандардно време,
+    Daylight: Северноамеричко источно летње време
+  },
+  US/Hawaii: {
+    Generic: Хавајско-алеутско време,
+    Standard: Хавајско-алеутско стандардно време,
+    Daylight: Хавајско-алеутско летње време
+  },
+  US/Indiana-Starke: {
+    Generic: Северноамеричко централно време,
+    Standard: Северноамеричко централно стандардно време,
+    Daylight: Северноамеричко централно летње време
+  },
+  US/Michigan: {
+    Generic: Северноамеричко источно време,
+    Standard: Северноамеричко источно стандардно време,
+    Daylight: Северноамеричко источно летње време
+  },
+  US/Mountain: {
+    Generic: Северноамеричко планинско време,
+    Standard: Северноамеричко планинско стандардно време,
+    Daylight: Северноамеричко планинско летње време
+  },
+  US/Pacific: {
+    Generic: Северноамеричко пацифичко време,
+    Standard: Северноамеричко пацифичко стандардно време,
+    Daylight: Северноамеричко пацифичко летње време
+  },
+  US/Samoa: {
+    Generic: Самоа време,
+    Standard: Самоа, стандардно време,
+    Daylight: Самоа, летње време
+  },
+  UTC: {
+    Generic: Координисано универзално време,
+    Standard: Координисано универзално време,
+    Daylight: Координисано универзално време
+  },
+  Universal: {
+    Generic: Координисано универзално време,
+    Standard: Координисано универзално време,
+    Daylight: Координисано универзално време
+  },
+  W-SU: {
+    Generic: Москва,
+    Standard: Москва, стандардно време,
+    Daylight: Москва, летње време
+  },
+  WET: {
+    Generic: Западноевропско време,
+    Standard: Западноевропско стандардно време,
+    Daylight: Западноевропско летње време
+  },
+  Zulu: {
+    Generic: Координисано универзално време,
+    Standard: Координисано универзално време,
+    Daylight: Координисано универзално време
   }
 }

@@ -1,115 +1,330 @@
 ﻿{
-  Australia/Darwin: {
-    Generic: Ostarali,
-    Standard: Ostarali (+0),
-    Daylight: Ostarali (+1)
+  Africa/Abidjan: {
+    Generic: GMT (waxtu Greenwich),
+    Standard: GMT (waxtu Greenwich),
+    Daylight: GMT (waxtu Greenwich)
   },
-  Australia/Sydney: {
-    Generic: Ostarali,
-    Standard: Ostarali (+0),
-    Daylight: Ostarali (+1)
+  Africa/Accra: {
+    Generic: GMT (waxtu Greenwich),
+    Standard: GMT (waxtu Greenwich),
+    Daylight: GMT (waxtu Greenwich)
   },
-  Australia/Melbourne: {
-    Generic: Ostarali,
-    Standard: Ostarali (+0),
-    Daylight: Ostarali (+1)
+  Africa/Addis_Ababa: {
+    Generic: Ecopi,
+    Standard: Ecopi (+0),
+    Daylight: Ecopi (+1)
   },
-  Asia/Kabul: {
-    Generic: Afganistaŋ,
-    Standard: Afganistaŋ (+0),
-    Daylight: Afganistaŋ (+1)
+  Africa/Algiers: {
+    Generic: CTE (waxtu ëroop sàntaraal),
+    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
+    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
   },
-  America/Anchorage: {
-    Generic: Etaa Sini,
-    Standard: Etaa Sini (+0),
-    Daylight: Etaa Sini (+1)
+  Africa/Asmara: {
+    Generic: Eritere,
+    Standard: Eritere (+0),
+    Daylight: Eritere (+1)
   },
-  America/Juneau: {
-    Generic: Etaa Sini,
-    Standard: Etaa Sini (+0),
-    Daylight: Etaa Sini (+1)
+  Africa/Asmera: {
+    Generic: Eritere,
+    Standard: Eritere (+0),
+    Daylight: Eritere (+1)
   },
-  America/Metlakatla: {
-    Generic: Etaa Sini,
-    Standard: Etaa Sini (+0),
-    Daylight: Etaa Sini (+1)
+  Africa/Bamako: {
+    Generic: GMT (waxtu Greenwich),
+    Standard: GMT (waxtu Greenwich),
+    Daylight: GMT (waxtu Greenwich)
   },
-  America/Nome: {
-    Generic: Etaa Sini,
-    Standard: Etaa Sini (+0),
-    Daylight: Etaa Sini (+1)
+  Africa/Bangui: {
+    Generic: Repiblik Sàntar Afrik,
+    Standard: Repiblik Sàntar Afrik (+0),
+    Daylight: Repiblik Sàntar Afrik (+1)
   },
-  America/Sitka: {
-    Generic: Etaa Sini,
-    Standard: Etaa Sini (+0),
-    Daylight: Etaa Sini (+1)
+  Africa/Banjul: {
+    Generic: GMT (waxtu Greenwich),
+    Standard: GMT (waxtu Greenwich),
+    Daylight: GMT (waxtu Greenwich)
   },
-  America/Yakutat: {
-    Generic: Etaa Sini,
-    Standard: Etaa Sini (+0),
-    Daylight: Etaa Sini (+1)
+  Africa/Bissau: {
+    Generic: GMT (waxtu Greenwich),
+    Standard: GMT (waxtu Greenwich),
+    Daylight: GMT (waxtu Greenwich)
+  },
+  Africa/Blantyre: {
+    Generic: Malawi,
+    Standard: Malawi (+0),
+    Daylight: Malawi (+1)
+  },
+  Africa/Brazzaville: {
+    Generic: Réewum Kongo,
+    Standard: Réewum Kongo (+0),
+    Daylight: Réewum Kongo (+1)
+  },
+  Africa/Bujumbura: {
+    Generic: Burundi,
+    Standard: Burundi (+0),
+    Daylight: Burundi (+1)
+  },
+  Africa/Cairo: {
+    Generic: EET (waxtu ëroop u penku),
+    Standard: EEST (waxtu estàndaaru ëroop u penku),
+    Daylight: EEST (waxtu ete wu ëroop u penku)
+  },
+  Africa/Casablanca: {
+    Generic: WET (waxtu ëroop u sowwu-jant,
+    Standard: WEST (waxtu estàndaaru ëroop u sowwu-jant),
+    Daylight: WEST (waxtu ete wu ëroop u sowwu-jant)
+  },
+  Africa/Ceuta: {
+    Generic: CTE (waxtu ëroop sàntaraal),
+    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
+    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  },
+  Africa/Conakry: {
+    Generic: GMT (waxtu Greenwich),
+    Standard: GMT (waxtu Greenwich),
+    Daylight: GMT (waxtu Greenwich)
+  },
+  Africa/Dakar: {
+    Generic: GMT (waxtu Greenwich),
+    Standard: GMT (waxtu Greenwich),
+    Daylight: GMT (waxtu Greenwich)
+  },
+  Africa/Dar_es_Salaam: {
+    Generic: Taŋsani,
+    Standard: Taŋsani (+0),
+    Daylight: Taŋsani (+1)
+  },
+  Africa/Djibouti: {
+    Generic: Jibuti,
+    Standard: Jibuti (+0),
+    Daylight: Jibuti (+1)
+  },
+  Africa/Douala: {
+    Generic: Kamerun,
+    Standard: Kamerun (+0),
+    Daylight: Kamerun (+1)
+  },
+  Africa/El_Aaiun: {
+    Generic: WET (waxtu ëroop u sowwu-jant,
+    Standard: WEST (waxtu estàndaaru ëroop u sowwu-jant),
+    Daylight: WEST (waxtu ete wu ëroop u sowwu-jant)
+  },
+  Africa/Freetown: {
+    Generic: GMT (waxtu Greenwich),
+    Standard: GMT (waxtu Greenwich),
+    Daylight: GMT (waxtu Greenwich)
+  },
+  Africa/Gaborone: {
+    Generic: Botswana,
+    Standard: Botswana (+0),
+    Daylight: Botswana (+1)
+  },
+  Africa/Harare: {
+    Generic: Simbabwe,
+    Standard: Simbabwe (+0),
+    Daylight: Simbabwe (+1)
+  },
+  Africa/Johannesburg: {
+    Generic: Afrik di Sid,
+    Standard: Afrik di Sid (+0),
+    Daylight: Afrik di Sid (+1)
+  },
+  Africa/Juba: {
+    Generic: Sudaŋ di Sid,
+    Standard: Sudaŋ di Sid (+0),
+    Daylight: Sudaŋ di Sid (+1)
+  },
+  Africa/Kampala: {
+    Generic: Ugànda,
+    Standard: Ugànda (+0),
+    Daylight: Ugànda (+1)
+  },
+  Africa/Khartoum: {
+    Generic: Sudaŋ,
+    Standard: Sudaŋ (+0),
+    Daylight: Sudaŋ (+1)
+  },
+  Africa/Kigali: {
+    Generic: Ruwànda,
+    Standard: Ruwànda (+0),
+    Daylight: Ruwànda (+1)
+  },
+  Africa/Kinshasa: {
+    Generic: Kongo (R K D),
+    Standard: Kongo (R K D) (+0),
+    Daylight: Kongo (R K D) (+1)
+  },
+  Africa/Lagos: {
+    Generic: Niseriya,
+    Standard: Niseriya (+0),
+    Daylight: Niseriya (+1)
+  },
+  Africa/Libreville: {
+    Generic: Gaboŋ,
+    Standard: Gaboŋ (+0),
+    Daylight: Gaboŋ (+1)
+  },
+  Africa/Lome: {
+    Generic: GMT (waxtu Greenwich),
+    Standard: GMT (waxtu Greenwich),
+    Daylight: GMT (waxtu Greenwich)
+  },
+  Africa/Luanda: {
+    Generic: Àngolaa,
+    Standard: Àngolaa (+0),
+    Daylight: Àngolaa (+1)
+  },
+  Africa/Lubumbashi: {
+    Generic: Kongo (R K D),
+    Standard: Kongo (R K D) (+0),
+    Daylight: Kongo (R K D) (+1)
+  },
+  Africa/Lusaka: {
+    Generic: Sàmbi,
+    Standard: Sàmbi (+0),
+    Daylight: Sàmbi (+1)
+  },
+  Africa/Malabo: {
+    Generic: Gine Ekuwatoriyal,
+    Standard: Gine Ekuwatoriyal (+0),
+    Daylight: Gine Ekuwatoriyal (+1)
+  },
+  Africa/Maputo: {
+    Generic: Mosàmbig,
+    Standard: Mosàmbig (+0),
+    Daylight: Mosàmbig (+1)
+  },
+  Africa/Maseru: {
+    Generic: Lesoto,
+    Standard: Lesoto (+0),
+    Daylight: Lesoto (+1)
+  },
+  Africa/Mbabane: {
+    Generic: Suwasilànd,
+    Standard: Suwasilànd (+0),
+    Daylight: Suwasilànd (+1)
+  },
+  Africa/Mogadishu: {
+    Generic: Somali,
+    Standard: Somali (+0),
+    Daylight: Somali (+1)
+  },
+  Africa/Monrovia: {
+    Generic: GMT (waxtu Greenwich),
+    Standard: GMT (waxtu Greenwich),
+    Daylight: GMT (waxtu Greenwich)
+  },
+  Africa/Nairobi: {
+    Generic: Keeña,
+    Standard: Keeña (+0),
+    Daylight: Keeña (+1)
+  },
+  Africa/Ndjamena: {
+    Generic: Càdd,
+    Standard: Càdd (+0),
+    Daylight: Càdd (+1)
+  },
+  Africa/Niamey: {
+    Generic: Niiseer,
+    Standard: Niiseer (+0),
+    Daylight: Niiseer (+1)
+  },
+  Africa/Nouakchott: {
+    Generic: GMT (waxtu Greenwich),
+    Standard: GMT (waxtu Greenwich),
+    Daylight: GMT (waxtu Greenwich)
+  },
+  Africa/Ouagadougou: {
+    Generic: GMT (waxtu Greenwich),
+    Standard: GMT (waxtu Greenwich),
+    Daylight: GMT (waxtu Greenwich)
+  },
+  Africa/Porto-Novo: {
+    Generic: Benee,
+    Standard: Benee (+0),
+    Daylight: Benee (+1)
+  },
+  Africa/Sao_Tome: {
+    Generic: GMT (waxtu Greenwich),
+    Standard: GMT (waxtu Greenwich),
+    Daylight: GMT (waxtu Greenwich)
+  },
+  Africa/Timbuktu: {
+    Generic: GMT (waxtu Greenwich),
+    Standard: GMT (waxtu Greenwich),
+    Daylight: GMT (waxtu Greenwich)
+  },
+  Africa/Tripoli: {
+    Generic: EET (waxtu ëroop u penku),
+    Standard: EEST (waxtu estàndaaru ëroop u penku),
+    Daylight: EEST (waxtu ete wu ëroop u penku)
+  },
+  Africa/Tunis: {
+    Generic: CTE (waxtu ëroop sàntaraal),
+    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
+    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  },
+  Africa/Windhoek: {
+    Generic: Namibi,
+    Standard: Namibi (+0),
+    Daylight: Namibi (+1)
   },
   America/Adak: {
     Generic: Etaa Sini,
     Standard: Etaa Sini (+0),
     Daylight: Etaa Sini (+1)
   },
-  Asia/Barnaul: {
-    Generic: Barnaul,
-    Standard: Barnaul (+0),
-    Daylight: Barnaul (+1)
+  America/Anchorage: {
+    Generic: Etaa Sini,
+    Standard: Etaa Sini (+0),
+    Daylight: Etaa Sini (+1)
   },
-  Asia/Riyadh: {
-    Generic: Arabi Sawudi,
-    Standard: Arabi Sawudi (+0),
-    Daylight: Arabi Sawudi (+1)
+  America/Anguilla: {
+    Generic: AT (waxtu atlàntik),
+    Standard: AST (waxtu estàndaaru penku),
+    Daylight: ADT (waxtu bëccëgu atlàntik)
   },
-  Asia/Bahrain: {
-    Generic: Bahreyin,
-    Standard: Bahreyin (+0),
-    Daylight: Bahreyin (+1)
+  America/Antigua: {
+    Generic: AT (waxtu atlàntik),
+    Standard: AST (waxtu estàndaaru penku),
+    Daylight: ADT (waxtu bëccëgu atlàntik)
   },
-  Asia/Kuwait: {
-    Generic: Kowet,
-    Standard: Kowet (+0),
-    Daylight: Kowet (+1)
+  America/Araguaina: {
+    Generic: Beresil,
+    Standard: Beresil (+0),
+    Daylight: Beresil (+1)
   },
-  Asia/Qatar: {
-    Generic: Kataar,
-    Standard: Kataar (+0),
-    Daylight: Kataar (+1)
+  America/Argentina/Buenos_Aires: {
+    Generic: Arsàntin,
+    Standard: Arsàntin (+0),
+    Daylight: Arsàntin (+1)
   },
-  Asia/Aden: {
-    Generic: Yaman,
-    Standard: Yaman (+0),
-    Daylight: Yaman (+1)
+  America/Argentina/Catamarca: {
+    Generic: Arsàntin,
+    Standard: Arsàntin (+0),
+    Daylight: Arsàntin (+1)
   },
-  Asia/Dubai: {
-    Generic: Emira Arab Ini,
-    Standard: Emira Arab Ini (+0),
-    Daylight: Emira Arab Ini (+1)
+  America/Argentina/ComodRivadavia: {
+    Generic: Arsàntin,
+    Standard: Arsàntin (+0),
+    Daylight: Arsàntin (+1)
   },
-  Asia/Muscat: {
-    Generic: Omaan,
-    Standard: Omaan (+0),
-    Daylight: Omaan (+1)
+  America/Argentina/Cordoba: {
+    Generic: Arsàntin,
+    Standard: Arsàntin (+0),
+    Daylight: Arsàntin (+1)
   },
-  Etc/GMT-4: {
-    Generic: CUT (waxtu iniwelsel yuñ boole) +4,
-    Standard: CUT (waxtu iniwelsel yuñ boole) +4,
-    Daylight: CUT (waxtu iniwelsel yuñ boole) +4
-  },
-  Asia/Baghdad: {
-    Generic: Irag,
-    Standard: Irag (+0),
-    Daylight: Irag (+1)
-  },
-  America/Buenos_Aires: {
+  America/Argentina/Jujuy: {
     Generic: Arsàntin,
     Standard: Arsàntin (+0),
     Daylight: Arsàntin (+1)
   },
   America/Argentina/La_Rioja: {
+    Generic: Arsàntin,
+    Standard: Arsàntin (+0),
+    Daylight: Arsàntin (+1)
+  },
+  America/Argentina/Mendoza: {
     Generic: Arsàntin,
     Standard: Arsàntin (+0),
     Daylight: Arsàntin (+1)
@@ -144,327 +359,432 @@
     Standard: Arsàntin (+0),
     Daylight: Arsàntin (+1)
   },
-  America/Catamarca: {
-    Generic: Arsàntin,
-    Standard: Arsàntin (+0),
-    Daylight: Arsàntin (+1)
-  },
-  America/Cordoba: {
-    Generic: Arsàntin,
-    Standard: Arsàntin (+0),
-    Daylight: Arsàntin (+1)
-  },
-  America/Jujuy: {
-    Generic: Arsàntin,
-    Standard: Arsàntin (+0),
-    Daylight: Arsàntin (+1)
-  },
-  America/Mendoza: {
-    Generic: Arsàntin,
-    Standard: Arsàntin (+0),
-    Daylight: Arsàntin (+1)
-  },
-  Europe/Astrakhan: {
-    Generic: Astrakhan,
-    Standard: Astrakhan (+0),
-    Daylight: Astrakhan (+1)
-  },
-  Europe/Ulyanovsk: {
-    Generic: Ulyanovsk,
-    Standard: Ulyanovsk (+0),
-    Daylight: Ulyanovsk (+1)
-  },
-  America/Halifax: {
+  America/Aruba: {
     Generic: AT (waxtu atlàntik),
     Standard: AST (waxtu estàndaaru penku),
     Daylight: ADT (waxtu bëccëgu atlàntik)
   },
-  Atlantic/Bermuda: {
-    Generic: AT (waxtu atlàntik),
-    Standard: AST (waxtu estàndaaru penku),
-    Daylight: ADT (waxtu bëccëgu atlàntik)
+  America/Asuncion: {
+    Generic: Paraguwe,
+    Standard: Paraguwe (+0),
+    Daylight: Paraguwe (+1)
   },
-  America/Glace_Bay: {
-    Generic: AT (waxtu atlàntik),
-    Standard: AST (waxtu estàndaaru penku),
-    Daylight: ADT (waxtu bëccëgu atlàntik)
+  America/Atikokan: {
+    Generic: ET waxtu penku,
+    Standard: EST (waxtu estàndaaru penku),
+    Daylight: EDT (waxtu bëccëgu penku)
   },
-  America/Goose_Bay: {
-    Generic: AT (waxtu atlàntik),
-    Standard: AST (waxtu estàndaaru penku),
-    Daylight: ADT (waxtu bëccëgu atlàntik)
-  },
-  America/Moncton: {
-    Generic: AT (waxtu atlàntik),
-    Standard: AST (waxtu estàndaaru penku),
-    Daylight: ADT (waxtu bëccëgu atlàntik)
-  },
-  America/Thule: {
-    Generic: AT (waxtu atlàntik),
-    Standard: AST (waxtu estàndaaru penku),
-    Daylight: ADT (waxtu bëccëgu atlàntik)
-  },
-  Australia/Eucla: {
-    Generic: Ostarali,
-    Standard: Ostarali (+0),
-    Daylight: Ostarali (+1)
-  },
-  Asia/Baku: {
-    Generic: Aserbayjaŋ,
-    Standard: Aserbayjaŋ (+0),
-    Daylight: Aserbayjaŋ (+1)
-  },
-  Atlantic/Azores: {
-    Generic: Portigaal,
-    Standard: Portigaal (+0),
-    Daylight: Portigaal (+1)
-  },
-  America/Scoresbysund: {
-    Generic: Girinlànd,
-    Standard: Girinlànd (+0),
-    Daylight: Girinlànd (+1)
+  America/Atka: {
+    Generic: Etaa Sini,
+    Standard: Etaa Sini (+0),
+    Daylight: Etaa Sini (+1)
   },
   America/Bahia: {
     Generic: Beresil,
     Standard: Beresil (+0),
     Daylight: Beresil (+1)
   },
-  Asia/Dhaka: {
-    Generic: Bengalades,
-    Standard: Bengalades (+0),
-    Daylight: Bengalades (+1)
-  },
-  Asia/Thimphu: {
-    Generic: Butaŋ,
-    Standard: Butaŋ (+0),
-    Daylight: Butaŋ (+1)
-  },
-  Europe/Minsk: {
-    Generic: Belaris,
-    Standard: Belaris (+0),
-    Daylight: Belaris (+1)
-  },
-  Pacific/Bougainville: {
-    Generic: Papuwasi Gine Gu Bees,
-    Standard: Papuwasi Gine Gu Bees (+0),
-    Daylight: Papuwasi Gine Gu Bees (+1)
-  },
-  America/Regina: {
+  America/Bahia_Banderas: {
     Generic: CT (waxtu sàntaral),
     Standard: CST (waxtu estàndaaru sàntaraal),
     Daylight: CDT (waxtu bëccëgu sàntaraal
   },
-  America/Swift_Current: {
-    Generic: CT (waxtu sàntaral),
-    Standard: CST (waxtu estàndaaru sàntaraal),
-    Daylight: CDT (waxtu bëccëgu sàntaraal
+  America/Barbados: {
+    Generic: AT (waxtu atlàntik),
+    Standard: AST (waxtu estàndaaru penku),
+    Daylight: ADT (waxtu bëccëgu atlàntik)
   },
-  Atlantic/Cape_Verde: {
-    Generic: Kabo Werde,
-    Standard: Kabo Werde (+0),
-    Daylight: Kabo Werde (+1)
-  },
-  Etc/GMT+1: {
-    Generic: CUT (waxtu iniwelsel yuñ boole) -1,
-    Standard: CUT (waxtu iniwelsel yuñ boole) -1,
-    Daylight: CUT (waxtu iniwelsel yuñ boole) -1
-  },
-  Asia/Yerevan: {
-    Generic: Armeni,
-    Standard: Armeni (+0),
-    Daylight: Armeni (+1)
-  },
-  Australia/Adelaide: {
-    Generic: Ostarali,
-    Standard: Ostarali (+0),
-    Daylight: Ostarali (+1)
-  },
-  Australia/Broken_Hill: {
-    Generic: Ostarali,
-    Standard: Ostarali (+0),
-    Daylight: Ostarali (+1)
-  },
-  America/Guatemala: {
-    Generic: CT (waxtu sàntaral),
-    Standard: CST (waxtu estàndaaru sàntaraal),
-    Daylight: CDT (waxtu bëccëgu sàntaraal
+  America/Belem: {
+    Generic: Beresil,
+    Standard: Beresil (+0),
+    Daylight: Beresil (+1)
   },
   America/Belize: {
     Generic: CT (waxtu sàntaral),
     Standard: CST (waxtu estàndaaru sàntaraal),
     Daylight: CDT (waxtu bëccëgu sàntaraal
   },
-  America/Costa_Rica: {
-    Generic: CT (waxtu sàntaral),
-    Standard: CST (waxtu estàndaaru sàntaraal),
-    Daylight: CDT (waxtu bëccëgu sàntaraal
+  America/Blanc-Sablon: {
+    Generic: AT (waxtu atlàntik),
+    Standard: AST (waxtu estàndaaru penku),
+    Daylight: ADT (waxtu bëccëgu atlàntik)
   },
-  Pacific/Galapagos: {
-    Generic: Ekwaatër,
-    Standard: Ekwaatër (+0),
-    Daylight: Ekwaatër (+1)
-  },
-  America/Tegucigalpa: {
-    Generic: CT (waxtu sàntaral),
-    Standard: CST (waxtu estàndaaru sàntaraal),
-    Daylight: CDT (waxtu bëccëgu sàntaraal
-  },
-  America/Managua: {
-    Generic: CT (waxtu sàntaral),
-    Standard: CST (waxtu estàndaaru sàntaraal),
-    Daylight: CDT (waxtu bëccëgu sàntaraal
-  },
-  America/El_Salvador: {
-    Generic: CT (waxtu sàntaral),
-    Standard: CST (waxtu estàndaaru sàntaraal),
-    Daylight: CDT (waxtu bëccëgu sàntaraal
-  },
-  Etc/GMT+6: {
-    Generic: CUT (waxtu iniwelsel yuñ boole) -6,
-    Standard: CUT (waxtu iniwelsel yuñ boole) -6,
-    Daylight: CUT (waxtu iniwelsel yuñ boole) -6
-  },
-  Asia/Almaty: {
-    Generic: Kasaxstaŋ,
-    Standard: Kasaxstaŋ (+0),
-    Daylight: Kasaxstaŋ (+1)
-  },
-  Antarctica/Vostok: {
-    Generic: Antarktik,
-    Standard: Antarktik (+0),
-    Daylight: Antarktik (+1)
-  },
-  Asia/Urumqi: {
-    Generic: Siin,
-    Standard: Siin (+0),
-    Daylight: Siin (+1)
-  },
-  Indian/Chagos: {
-    Generic: Terituwaaru Brëtaañ ci Oseyaa Enjeŋ,
-    Standard: Terituwaaru Brëtaañ ci Oseyaa Enjeŋ (+0),
-    Daylight: Terituwaaru Brëtaañ ci Oseyaa Enjeŋ (+1)
-  },
-  Asia/Bishkek: {
-    Generic: Kirgistaŋ,
-    Standard: Kirgistaŋ (+0),
-    Daylight: Kirgistaŋ (+1)
-  },
-  Asia/Qostanay: {
-    Generic: Kasaxstaŋ,
-    Standard: Kasaxstaŋ (+0),
-    Daylight: Kasaxstaŋ (+1)
-  },
-  Etc/GMT-6: {
-    Generic: CUT (waxtu iniwelsel yuñ boole) +6,
-    Standard: CUT (waxtu iniwelsel yuñ boole) +6,
-    Daylight: CUT (waxtu iniwelsel yuñ boole) +6
-  },
-  America/Cuiaba: {
+  America/Boa_Vista: {
     Generic: Beresil,
     Standard: Beresil (+0),
     Daylight: Beresil (+1)
+  },
+  America/Bogota: {
+    Generic: Kolombi,
+    Standard: Kolombi (+0),
+    Daylight: Kolombi (+1)
+  },
+  America/Boise: {
+    Generic: MT (waxtu tundu),
+    Standard: MST (waxtu estàndaaru tundu),
+    Daylight: MDT (waxtu bëccëgu tundu)
+  },
+  America/Buenos_Aires: {
+    Generic: Arsàntin,
+    Standard: Arsàntin (+0),
+    Daylight: Arsàntin (+1)
+  },
+  America/Cambridge_Bay: {
+    Generic: MT (waxtu tundu),
+    Standard: MST (waxtu estàndaaru tundu),
+    Daylight: MDT (waxtu bëccëgu tundu)
   },
   America/Campo_Grande: {
     Generic: Beresil,
     Standard: Beresil (+0),
     Daylight: Beresil (+1)
   },
-  Europe/Budapest: {
-    Generic: CTE (waxtu ëroop sàntaraal),
-    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
-    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  America/Cancun: {
+    Generic: ET waxtu penku,
+    Standard: EST (waxtu estàndaaru penku),
+    Daylight: EDT (waxtu bëccëgu penku)
   },
-  Europe/Tirane: {
-    Generic: CTE (waxtu ëroop sàntaraal),
-    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
-    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  America/Caracas: {
+    Generic: Wenesiyela,
+    Standard: Wenesiyela (+0),
+    Daylight: Wenesiyela (+1)
   },
-  Europe/Prague: {
-    Generic: CTE (waxtu ëroop sàntaraal),
-    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
-    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  America/Catamarca: {
+    Generic: Arsàntin,
+    Standard: Arsàntin (+0),
+    Daylight: Arsàntin (+1)
   },
-  Europe/Podgorica: {
-    Generic: CTE (waxtu ëroop sàntaraal),
-    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
-    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  America/Cayenne: {
+    Generic: Guyaan Farañse,
+    Standard: Guyaan Farañse (+0),
+    Daylight: Guyaan Farañse (+1)
   },
-  Europe/Belgrade: {
-    Generic: CTE (waxtu ëroop sàntaraal),
-    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
-    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  America/Cayman: {
+    Generic: ET waxtu penku,
+    Standard: EST (waxtu estàndaaru penku),
+    Daylight: EDT (waxtu bëccëgu penku)
   },
-  Europe/Ljubljana: {
-    Generic: CTE (waxtu ëroop sàntaraal),
-    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
-    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
-  },
-  Europe/Bratislava: {
-    Generic: CTE (waxtu ëroop sàntaraal),
-    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
-    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
-  },
-  Europe/Warsaw: {
-    Generic: CTE (waxtu ëroop sàntaraal),
-    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
-    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
-  },
-  Europe/Sarajevo: {
-    Generic: CTE (waxtu ëroop sàntaraal),
-    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
-    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
-  },
-  Europe/Zagreb: {
-    Generic: CTE (waxtu ëroop sàntaraal),
-    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
-    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
-  },
-  Europe/Skopje: {
-    Generic: CTE (waxtu ëroop sàntaraal),
-    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
-    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
-  },
-  Pacific/Guadalcanal: {
-    Generic: Duni Salmoon,
-    Standard: Duni Salmoon (+0),
-    Daylight: Duni Salmoon (+1)
-  },
-  Antarctica/Casey: {
-    Generic: Antarktik,
-    Standard: Antarktik (+0),
-    Daylight: Antarktik (+1)
-  },
-  Pacific/Ponape: {
-    Generic: Mikoronesi,
-    Standard: Mikoronesi (+0),
-    Daylight: Mikoronesi (+1)
-  },
-  Pacific/Kosrae: {
-    Generic: Mikoronesi,
-    Standard: Mikoronesi (+0),
-    Daylight: Mikoronesi (+1)
-  },
-  Pacific/Noumea: {
-    Generic: Nuwel Kaledoni,
-    Standard: Nuwel Kaledoni (+0),
-    Daylight: Nuwel Kaledoni (+1)
-  },
-  Pacific/Efate: {
-    Generic: Wanuatu,
-    Standard: Wanuatu (+0),
-    Daylight: Wanuatu (+1)
-  },
-  Etc/GMT-11: {
-    Generic: CUT (waxtu iniwelsel yuñ boole) +11,
-    Standard: CUT (waxtu iniwelsel yuñ boole) +11,
-    Daylight: CUT (waxtu iniwelsel yuñ boole) +11
-  },
-  America/Mexico_City: {
+  America/Chicago: {
     Generic: CT (waxtu sàntaral),
     Standard: CST (waxtu estàndaaru sàntaraal),
     Daylight: CDT (waxtu bëccëgu sàntaraal
   },
-  America/Bahia_Banderas: {
+  America/Chihuahua: {
+    Generic: Meksiko,
+    Standard: Meksiko (+0),
+    Daylight: Meksiko (+1)
+  },
+  America/Coral_Harbour: {
+    Generic: ET waxtu penku,
+    Standard: EST (waxtu estàndaaru penku),
+    Daylight: EDT (waxtu bëccëgu penku)
+  },
+  America/Cordoba: {
+    Generic: Arsàntin,
+    Standard: Arsàntin (+0),
+    Daylight: Arsàntin (+1)
+  },
+  America/Costa_Rica: {
+    Generic: CT (waxtu sàntaral),
+    Standard: CST (waxtu estàndaaru sàntaraal),
+    Daylight: CDT (waxtu bëccëgu sàntaraal
+  },
+  America/Creston: {
+    Generic: MT (waxtu tundu),
+    Standard: MST (waxtu estàndaaru tundu),
+    Daylight: MDT (waxtu bëccëgu tundu)
+  },
+  America/Cuiaba: {
+    Generic: Beresil,
+    Standard: Beresil (+0),
+    Daylight: Beresil (+1)
+  },
+  America/Curacao: {
+    Generic: AT (waxtu atlàntik),
+    Standard: AST (waxtu estàndaaru penku),
+    Daylight: ADT (waxtu bëccëgu atlàntik)
+  },
+  America/Danmarkshavn: {
+    Generic: GMT (waxtu Greenwich),
+    Standard: GMT (waxtu Greenwich),
+    Daylight: GMT (waxtu Greenwich)
+  },
+  America/Dawson: {
+    Generic: Kanadaa,
+    Standard: Kanadaa (+0),
+    Daylight: Kanadaa (+1)
+  },
+  America/Dawson_Creek: {
+    Generic: MT (waxtu tundu),
+    Standard: MST (waxtu estàndaaru tundu),
+    Daylight: MDT (waxtu bëccëgu tundu)
+  },
+  America/Denver: {
+    Generic: MT (waxtu tundu),
+    Standard: MST (waxtu estàndaaru tundu),
+    Daylight: MDT (waxtu bëccëgu tundu)
+  },
+  America/Detroit: {
+    Generic: ET waxtu penku,
+    Standard: EST (waxtu estàndaaru penku),
+    Daylight: EDT (waxtu bëccëgu penku)
+  },
+  America/Dominica: {
+    Generic: AT (waxtu atlàntik),
+    Standard: AST (waxtu estàndaaru penku),
+    Daylight: ADT (waxtu bëccëgu atlàntik)
+  },
+  America/Edmonton: {
+    Generic: MT (waxtu tundu),
+    Standard: MST (waxtu estàndaaru tundu),
+    Daylight: MDT (waxtu bëccëgu tundu)
+  },
+  America/Eirunepe: {
+    Generic: Beresil,
+    Standard: Beresil (+0),
+    Daylight: Beresil (+1)
+  },
+  America/El_Salvador: {
+    Generic: CT (waxtu sàntaral),
+    Standard: CST (waxtu estàndaaru sàntaraal),
+    Daylight: CDT (waxtu bëccëgu sàntaraal
+  },
+  America/Ensenada: {
+    Generic: PT (waxtu pasifik),
+    Standard: PST (waxtu estàndaaru pasifik),
+    Daylight: PDT (waxtu bëccëgu pasifik)
+  },
+  America/Fort_Nelson: {
+    Generic: MT (waxtu tundu),
+    Standard: MST (waxtu estàndaaru tundu),
+    Daylight: MDT (waxtu bëccëgu tundu)
+  },
+  America/Fort_Wayne: {
+    Generic: ET waxtu penku,
+    Standard: EST (waxtu estàndaaru penku),
+    Daylight: EDT (waxtu bëccëgu penku)
+  },
+  America/Fortaleza: {
+    Generic: Beresil,
+    Standard: Beresil (+0),
+    Daylight: Beresil (+1)
+  },
+  America/Glace_Bay: {
+    Generic: AT (waxtu atlàntik),
+    Standard: AST (waxtu estàndaaru penku),
+    Daylight: ADT (waxtu bëccëgu atlàntik)
+  },
+  America/Godthab: {
+    Generic: Girinlànd,
+    Standard: Girinlànd (+0),
+    Daylight: Girinlànd (+1)
+  },
+  America/Goose_Bay: {
+    Generic: AT (waxtu atlàntik),
+    Standard: AST (waxtu estàndaaru penku),
+    Daylight: ADT (waxtu bëccëgu atlàntik)
+  },
+  America/Grand_Turk: {
+    Generic: ET waxtu penku,
+    Standard: EST (waxtu estàndaaru penku),
+    Daylight: EDT (waxtu bëccëgu penku)
+  },
+  America/Grenada: {
+    Generic: AT (waxtu atlàntik),
+    Standard: AST (waxtu estàndaaru penku),
+    Daylight: ADT (waxtu bëccëgu atlàntik)
+  },
+  America/Guadeloupe: {
+    Generic: AT (waxtu atlàntik),
+    Standard: AST (waxtu estàndaaru penku),
+    Daylight: ADT (waxtu bëccëgu atlàntik)
+  },
+  America/Guatemala: {
+    Generic: CT (waxtu sàntaral),
+    Standard: CST (waxtu estàndaaru sàntaraal),
+    Daylight: CDT (waxtu bëccëgu sàntaraal
+  },
+  America/Guayaquil: {
+    Generic: Ekwaatër,
+    Standard: Ekwaatër (+0),
+    Daylight: Ekwaatër (+1)
+  },
+  America/Guyana: {
+    Generic: Giyaan,
+    Standard: Giyaan (+0),
+    Daylight: Giyaan (+1)
+  },
+  America/Halifax: {
+    Generic: AT (waxtu atlàntik),
+    Standard: AST (waxtu estàndaaru penku),
+    Daylight: ADT (waxtu bëccëgu atlàntik)
+  },
+  America/Havana: {
+    Generic: Kuba,
+    Standard: Kuba (+0),
+    Daylight: Kuba (+1)
+  },
+  America/Hermosillo: {
+    Generic: Meksiko,
+    Standard: Meksiko (+0),
+    Daylight: Meksiko (+1)
+  },
+  America/Indiana/Indianapolis: {
+    Generic: ET waxtu penku,
+    Standard: EST (waxtu estàndaaru penku),
+    Daylight: EDT (waxtu bëccëgu penku)
+  },
+  America/Indiana/Knox: {
+    Generic: CT (waxtu sàntaral),
+    Standard: CST (waxtu estàndaaru sàntaraal),
+    Daylight: CDT (waxtu bëccëgu sàntaraal
+  },
+  America/Indiana/Marengo: {
+    Generic: ET waxtu penku,
+    Standard: EST (waxtu estàndaaru penku),
+    Daylight: EDT (waxtu bëccëgu penku)
+  },
+  America/Indiana/Petersburg: {
+    Generic: ET waxtu penku,
+    Standard: EST (waxtu estàndaaru penku),
+    Daylight: EDT (waxtu bëccëgu penku)
+  },
+  America/Indiana/Tell_City: {
+    Generic: CT (waxtu sàntaral),
+    Standard: CST (waxtu estàndaaru sàntaraal),
+    Daylight: CDT (waxtu bëccëgu sàntaraal
+  },
+  America/Indiana/Vevay: {
+    Generic: ET waxtu penku,
+    Standard: EST (waxtu estàndaaru penku),
+    Daylight: EDT (waxtu bëccëgu penku)
+  },
+  America/Indiana/Vincennes: {
+    Generic: ET waxtu penku,
+    Standard: EST (waxtu estàndaaru penku),
+    Daylight: EDT (waxtu bëccëgu penku)
+  },
+  America/Indiana/Winamac: {
+    Generic: ET waxtu penku,
+    Standard: EST (waxtu estàndaaru penku),
+    Daylight: EDT (waxtu bëccëgu penku)
+  },
+  America/Indianapolis: {
+    Generic: ET waxtu penku,
+    Standard: EST (waxtu estàndaaru penku),
+    Daylight: EDT (waxtu bëccëgu penku)
+  },
+  America/Inuvik: {
+    Generic: MT (waxtu tundu),
+    Standard: MST (waxtu estàndaaru tundu),
+    Daylight: MDT (waxtu bëccëgu tundu)
+  },
+  America/Iqaluit: {
+    Generic: ET waxtu penku,
+    Standard: EST (waxtu estàndaaru penku),
+    Daylight: EDT (waxtu bëccëgu penku)
+  },
+  America/Jamaica: {
+    Generic: ET waxtu penku,
+    Standard: EST (waxtu estàndaaru penku),
+    Daylight: EDT (waxtu bëccëgu penku)
+  },
+  America/Jujuy: {
+    Generic: Arsàntin,
+    Standard: Arsàntin (+0),
+    Daylight: Arsàntin (+1)
+  },
+  America/Juneau: {
+    Generic: Etaa Sini,
+    Standard: Etaa Sini (+0),
+    Daylight: Etaa Sini (+1)
+  },
+  America/Kentucky/Louisville: {
+    Generic: ET waxtu penku,
+    Standard: EST (waxtu estàndaaru penku),
+    Daylight: EDT (waxtu bëccëgu penku)
+  },
+  America/Kentucky/Monticello: {
+    Generic: ET waxtu penku,
+    Standard: EST (waxtu estàndaaru penku),
+    Daylight: EDT (waxtu bëccëgu penku)
+  },
+  America/Knox_IN: {
+    Generic: CT (waxtu sàntaral),
+    Standard: CST (waxtu estàndaaru sàntaraal),
+    Daylight: CDT (waxtu bëccëgu sàntaraal
+  },
+  America/Kralendijk: {
+    Generic: AT (waxtu atlàntik),
+    Standard: AST (waxtu estàndaaru penku),
+    Daylight: ADT (waxtu bëccëgu atlàntik)
+  },
+  America/La_Paz: {
+    Generic: Boliwi,
+    Standard: Boliwi (+0),
+    Daylight: Boliwi (+1)
+  },
+  America/Lima: {
+    Generic: Peru,
+    Standard: Peru (+0),
+    Daylight: Peru (+1)
+  },
+  America/Los_Angeles: {
+    Generic: PT (waxtu pasifik),
+    Standard: PST (waxtu estàndaaru pasifik),
+    Daylight: PDT (waxtu bëccëgu pasifik)
+  },
+  America/Louisville: {
+    Generic: ET waxtu penku,
+    Standard: EST (waxtu estàndaaru penku),
+    Daylight: EDT (waxtu bëccëgu penku)
+  },
+  America/Lower_Princes: {
+    Generic: AT (waxtu atlàntik),
+    Standard: AST (waxtu estàndaaru penku),
+    Daylight: ADT (waxtu bëccëgu atlàntik)
+  },
+  America/Maceio: {
+    Generic: Beresil,
+    Standard: Beresil (+0),
+    Daylight: Beresil (+1)
+  },
+  America/Managua: {
+    Generic: CT (waxtu sàntaral),
+    Standard: CST (waxtu estàndaaru sàntaraal),
+    Daylight: CDT (waxtu bëccëgu sàntaraal
+  },
+  America/Manaus: {
+    Generic: Beresil,
+    Standard: Beresil (+0),
+    Daylight: Beresil (+1)
+  },
+  America/Marigot: {
+    Generic: AT (waxtu atlàntik),
+    Standard: AST (waxtu estàndaaru penku),
+    Daylight: ADT (waxtu bëccëgu atlàntik)
+  },
+  America/Martinique: {
+    Generic: AT (waxtu atlàntik),
+    Standard: AST (waxtu estàndaaru penku),
+    Daylight: ADT (waxtu bëccëgu atlàntik)
+  },
+  America/Matamoros: {
+    Generic: CT (waxtu sàntaral),
+    Standard: CST (waxtu estàndaaru sàntaraal),
+    Daylight: CDT (waxtu bëccëgu sàntaraal
+  },
+  America/Mazatlan: {
+    Generic: Meksiko,
+    Standard: Meksiko (+0),
+    Daylight: Meksiko (+1)
+  },
+  America/Mendoza: {
+    Generic: Arsàntin,
+    Standard: Arsàntin (+0),
+    Daylight: Arsàntin (+1)
+  },
+  America/Menominee: {
     Generic: CT (waxtu sàntaral),
     Standard: CST (waxtu estàndaaru sàntaraal),
     Daylight: CDT (waxtu bëccëgu sàntaraal
@@ -474,55 +794,70 @@
     Standard: CST (waxtu estàndaaru sàntaraal),
     Daylight: CDT (waxtu bëccëgu sàntaraal
   },
+  America/Metlakatla: {
+    Generic: Etaa Sini,
+    Standard: Etaa Sini (+0),
+    Daylight: Etaa Sini (+1)
+  },
+  America/Mexico_City: {
+    Generic: CT (waxtu sàntaral),
+    Standard: CST (waxtu estàndaaru sàntaraal),
+    Daylight: CDT (waxtu bëccëgu sàntaraal
+  },
+  America/Miquelon: {
+    Generic: Saŋ Peer ak Mikeloŋ,
+    Standard: Saŋ Peer ak Mikeloŋ (+0),
+    Daylight: Saŋ Peer ak Mikeloŋ (+1)
+  },
+  America/Moncton: {
+    Generic: AT (waxtu atlàntik),
+    Standard: AST (waxtu estàndaaru penku),
+    Daylight: ADT (waxtu bëccëgu atlàntik)
+  },
   America/Monterrey: {
     Generic: CT (waxtu sàntaral),
     Standard: CST (waxtu estàndaaru sàntaraal),
     Daylight: CDT (waxtu bëccëgu sàntaraal
   },
-  America/Chicago: {
-    Generic: CT (waxtu sàntaral),
-    Standard: CST (waxtu estàndaaru sàntaraal),
-    Daylight: CDT (waxtu bëccëgu sàntaraal
+  America/Montevideo: {
+    Generic: Uruge,
+    Standard: Uruge (+0),
+    Daylight: Uruge (+1)
   },
-  America/Winnipeg: {
-    Generic: CT (waxtu sàntaral),
-    Standard: CST (waxtu estàndaaru sàntaraal),
-    Daylight: CDT (waxtu bëccëgu sàntaraal
+  America/Montreal: {
+    Generic: ET waxtu penku,
+    Standard: EST (waxtu estàndaaru penku),
+    Daylight: EDT (waxtu bëccëgu penku)
   },
-  America/Rainy_River: {
-    Generic: CT (waxtu sàntaral),
-    Standard: CST (waxtu estàndaaru sàntaraal),
-    Daylight: CDT (waxtu bëccëgu sàntaraal
+  America/Montserrat: {
+    Generic: AT (waxtu atlàntik),
+    Standard: AST (waxtu estàndaaru penku),
+    Daylight: ADT (waxtu bëccëgu atlàntik)
   },
-  America/Rankin_Inlet: {
-    Generic: CT (waxtu sàntaral),
-    Standard: CST (waxtu estàndaaru sàntaraal),
-    Daylight: CDT (waxtu bëccëgu sàntaraal
+  America/Nassau: {
+    Generic: ET waxtu penku,
+    Standard: EST (waxtu estàndaaru penku),
+    Daylight: EDT (waxtu bëccëgu penku)
   },
-  America/Resolute: {
-    Generic: CT (waxtu sàntaral),
-    Standard: CST (waxtu estàndaaru sàntaraal),
-    Daylight: CDT (waxtu bëccëgu sàntaraal
+  America/New_York: {
+    Generic: ET waxtu penku,
+    Standard: EST (waxtu estàndaaru penku),
+    Daylight: EDT (waxtu bëccëgu penku)
   },
-  America/Matamoros: {
-    Generic: CT (waxtu sàntaral),
-    Standard: CST (waxtu estàndaaru sàntaraal),
-    Daylight: CDT (waxtu bëccëgu sàntaraal
+  America/Nipigon: {
+    Generic: ET waxtu penku,
+    Standard: EST (waxtu estàndaaru penku),
+    Daylight: EDT (waxtu bëccëgu penku)
   },
-  America/Indiana/Knox: {
-    Generic: CT (waxtu sàntaral),
-    Standard: CST (waxtu estàndaaru sàntaraal),
-    Daylight: CDT (waxtu bëccëgu sàntaraal
+  America/Nome: {
+    Generic: Etaa Sini,
+    Standard: Etaa Sini (+0),
+    Daylight: Etaa Sini (+1)
   },
-  America/Indiana/Tell_City: {
-    Generic: CT (waxtu sàntaral),
-    Standard: CST (waxtu estàndaaru sàntaraal),
-    Daylight: CDT (waxtu bëccëgu sàntaraal
-  },
-  America/Menominee: {
-    Generic: CT (waxtu sàntaral),
-    Standard: CST (waxtu estàndaaru sàntaraal),
-    Daylight: CDT (waxtu bëccëgu sàntaraal
+  America/Noronha: {
+    Generic: Beresil,
+    Standard: Beresil (+0),
+    Daylight: Beresil (+1)
   },
   America/North_Dakota/Beulah: {
     Generic: CT (waxtu sàntaral),
@@ -539,157 +874,17 @@
     Standard: CST (waxtu estàndaaru sàntaraal),
     Daylight: CDT (waxtu bëccëgu sàntaraal
   },
-  CST6CDT: {
-    Generic: CT (waxtu sàntaral),
-    Standard: CST (waxtu estàndaaru sàntaraal),
-    Daylight: CDT (waxtu bëccëgu sàntaraal
+  America/Nuuk: {
+    Generic: Girinlànd,
+    Standard: Girinlànd (+0),
+    Daylight: Girinlànd (+1)
   },
-  Pacific/Chatham: {
-    Generic: Nuwel Selànd,
-    Standard: Nuwel Selànd (+0),
-    Daylight: Nuwel Selànd (+1)
+  America/Ojinaga: {
+    Generic: MT (waxtu tundu),
+    Standard: MST (waxtu estàndaaru tundu),
+    Daylight: MDT (waxtu bëccëgu tundu)
   },
-  Asia/Shanghai: {
-    Generic: Siin,
-    Standard: Siin (+0),
-    Daylight: Siin (+1)
-  },
-  Asia/Hong_Kong: {
-    Generic: Ooŋ Koŋ,
-    Standard: Ooŋ Koŋ (+0),
-    Daylight: Ooŋ Koŋ (+1)
-  },
-  Asia/Macau: {
-    Generic: Makaawo,
-    Standard: Makaawo (+0),
-    Daylight: Makaawo (+1)
-  },
-  America/Havana: {
-    Generic: Kuba,
-    Standard: Kuba (+0),
-    Daylight: Kuba (+1)
-  },
-  Etc/GMT+12: {
-    Generic: CUT (waxtu iniwelsel yuñ boole) -12,
-    Standard: CUT (waxtu iniwelsel yuñ boole) -12,
-    Daylight: CUT (waxtu iniwelsel yuñ boole) -12
-  },
-  Africa/Nairobi: {
-    Generic: Keeña,
-    Standard: Keeña (+0),
-    Daylight: Keeña (+1)
-  },
-  Antarctica/Syowa: {
-    Generic: Antarktik,
-    Standard: Antarktik (+0),
-    Daylight: Antarktik (+1)
-  },
-  Africa/Djibouti: {
-    Generic: Jibuti,
-    Standard: Jibuti (+0),
-    Daylight: Jibuti (+1)
-  },
-  Africa/Asmera: {
-    Generic: Eritere,
-    Standard: Eritere (+0),
-    Daylight: Eritere (+1)
-  },
-  Africa/Addis_Ababa: {
-    Generic: Ecopi,
-    Standard: Ecopi (+0),
-    Daylight: Ecopi (+1)
-  },
-  Indian/Comoro: {
-    Generic: Komoor,
-    Standard: Komoor (+0),
-    Daylight: Komoor (+1)
-  },
-  Indian/Antananarivo: {
-    Generic: Madagaskaar,
-    Standard: Madagaskaar (+0),
-    Daylight: Madagaskaar (+1)
-  },
-  Africa/Mogadishu: {
-    Generic: Somali,
-    Standard: Somali (+0),
-    Daylight: Somali (+1)
-  },
-  Africa/Dar_es_Salaam: {
-    Generic: Taŋsani,
-    Standard: Taŋsani (+0),
-    Daylight: Taŋsani (+1)
-  },
-  Africa/Kampala: {
-    Generic: Ugànda,
-    Standard: Ugànda (+0),
-    Daylight: Ugànda (+1)
-  },
-  Indian/Mayotte: {
-    Generic: Mayot,
-    Standard: Mayot (+0),
-    Daylight: Mayot (+1)
-  },
-  Etc/GMT-3: {
-    Generic: CUT (waxtu iniwelsel yuñ boole) +3,
-    Standard: CUT (waxtu iniwelsel yuñ boole) +3,
-    Daylight: CUT (waxtu iniwelsel yuñ boole) +3
-  },
-  Australia/Brisbane: {
-    Generic: Ostarali,
-    Standard: Ostarali (+0),
-    Daylight: Ostarali (+1)
-  },
-  Australia/Lindeman: {
-    Generic: Ostarali,
-    Standard: Ostarali (+0),
-    Daylight: Ostarali (+1)
-  },
-  Europe/Chisinau: {
-    Generic: EET (waxtu ëroop u penku),
-    Standard: EEST (waxtu estàndaaru ëroop u penku),
-    Daylight: EEST (waxtu ete wu ëroop u penku)
-  },
-  America/Sao_Paulo: {
-    Generic: Beresil,
-    Standard: Beresil (+0),
-    Daylight: Beresil (+1)
-  },
-  Pacific/Easter: {
-    Generic: Sili,
-    Standard: Sili (+0),
-    Daylight: Sili (+1)
-  },
-  America/Cancun: {
-    Generic: ET waxtu penku,
-    Standard: EST (waxtu estàndaaru penku),
-    Daylight: EDT (waxtu bëccëgu penku)
-  },
-  America/New_York: {
-    Generic: ET waxtu penku,
-    Standard: EST (waxtu estàndaaru penku),
-    Daylight: EDT (waxtu bëccëgu penku)
-  },
-  America/Nassau: {
-    Generic: ET waxtu penku,
-    Standard: EST (waxtu estàndaaru penku),
-    Daylight: EDT (waxtu bëccëgu penku)
-  },
-  America/Toronto: {
-    Generic: ET waxtu penku,
-    Standard: EST (waxtu estàndaaru penku),
-    Daylight: EDT (waxtu bëccëgu penku)
-  },
-  America/Iqaluit: {
-    Generic: ET waxtu penku,
-    Standard: EST (waxtu estàndaaru penku),
-    Daylight: EDT (waxtu bëccëgu penku)
-  },
-  America/Montreal: {
-    Generic: ET waxtu penku,
-    Standard: EST (waxtu estàndaaru penku),
-    Daylight: EDT (waxtu bëccëgu penku)
-  },
-  America/Nipigon: {
+  America/Panama: {
     Generic: ET waxtu penku,
     Standard: EST (waxtu estàndaaru penku),
     Daylight: EDT (waxtu bëccëgu penku)
@@ -699,757 +894,27 @@
     Standard: EST (waxtu estàndaaru penku),
     Daylight: EDT (waxtu bëccëgu penku)
   },
-  America/Thunder_Bay: {
-    Generic: ET waxtu penku,
-    Standard: EST (waxtu estàndaaru penku),
-    Daylight: EDT (waxtu bëccëgu penku)
+  America/Paramaribo: {
+    Generic: Sirinam,
+    Standard: Sirinam (+0),
+    Daylight: Sirinam (+1)
   },
-  America/Detroit: {
-    Generic: ET waxtu penku,
-    Standard: EST (waxtu estàndaaru penku),
-    Daylight: EDT (waxtu bëccëgu penku)
-  },
-  America/Indiana/Petersburg: {
-    Generic: ET waxtu penku,
-    Standard: EST (waxtu estàndaaru penku),
-    Daylight: EDT (waxtu bëccëgu penku)
-  },
-  America/Indiana/Vincennes: {
-    Generic: ET waxtu penku,
-    Standard: EST (waxtu estàndaaru penku),
-    Daylight: EDT (waxtu bëccëgu penku)
-  },
-  America/Indiana/Winamac: {
-    Generic: ET waxtu penku,
-    Standard: EST (waxtu estàndaaru penku),
-    Daylight: EDT (waxtu bëccëgu penku)
-  },
-  America/Kentucky/Monticello: {
-    Generic: ET waxtu penku,
-    Standard: EST (waxtu estàndaaru penku),
-    Daylight: EDT (waxtu bëccëgu penku)
-  },
-  America/Louisville: {
-    Generic: ET waxtu penku,
-    Standard: EST (waxtu estàndaaru penku),
-    Daylight: EDT (waxtu bëccëgu penku)
-  },
-  EST5EDT: {
-    Generic: ET waxtu penku,
-    Standard: EST (waxtu estàndaaru penku),
-    Daylight: EDT (waxtu bëccëgu penku)
-  },
-  Africa/Cairo: {
-    Generic: EET (waxtu ëroop u penku),
-    Standard: EEST (waxtu estàndaaru ëroop u penku),
-    Daylight: EEST (waxtu ete wu ëroop u penku)
-  },
-  Asia/Yekaterinburg: {
-    Generic: Yekaterinburg,
-    Standard: Yekaterinburg (+0),
-    Daylight: Yekaterinburg (+1)
-  },
-  Europe/Kiev: {
-    Generic: EET (waxtu ëroop u penku),
-    Standard: EEST (waxtu estàndaaru ëroop u penku),
-    Daylight: EEST (waxtu ete wu ëroop u penku)
-  },
-  Europe/Mariehamn: {
-    Generic: EET (waxtu ëroop u penku),
-    Standard: EEST (waxtu estàndaaru ëroop u penku),
-    Daylight: EEST (waxtu ete wu ëroop u penku)
-  },
-  Europe/Sofia: {
-    Generic: EET (waxtu ëroop u penku),
-    Standard: EEST (waxtu estàndaaru ëroop u penku),
-    Daylight: EEST (waxtu ete wu ëroop u penku)
-  },
-  Europe/Tallinn: {
-    Generic: EET (waxtu ëroop u penku),
-    Standard: EEST (waxtu estàndaaru ëroop u penku),
-    Daylight: EEST (waxtu ete wu ëroop u penku)
-  },
-  Europe/Helsinki: {
-    Generic: EET (waxtu ëroop u penku),
-    Standard: EEST (waxtu estàndaaru ëroop u penku),
-    Daylight: EEST (waxtu ete wu ëroop u penku)
-  },
-  Europe/Vilnius: {
-    Generic: EET (waxtu ëroop u penku),
-    Standard: EEST (waxtu estàndaaru ëroop u penku),
-    Daylight: EEST (waxtu ete wu ëroop u penku)
-  },
-  Europe/Riga: {
-    Generic: EET (waxtu ëroop u penku),
-    Standard: EEST (waxtu estàndaaru ëroop u penku),
-    Daylight: EEST (waxtu ete wu ëroop u penku)
-  },
-  Europe/Uzhgorod: {
-    Generic: EET (waxtu ëroop u penku),
-    Standard: EEST (waxtu estàndaaru ëroop u penku),
-    Daylight: EEST (waxtu ete wu ëroop u penku)
-  },
-  Europe/Zaporozhye: {
-    Generic: EET (waxtu ëroop u penku),
-    Standard: EEST (waxtu estàndaaru ëroop u penku),
-    Daylight: EEST (waxtu ete wu ëroop u penku)
-  },
-  Pacific/Fiji: {
-    Generic: Fijji,
-    Standard: Fijji (+0),
-    Daylight: Fijji (+1)
-  },
-  Europe/London: {
-    Generic: GMT (waxtu Greenwich),
-    Standard: GMT (waxtu Greenwich),
-    Daylight: GMT (waxtu Greenwich)
-  },
-  Atlantic/Canary: {
-    Generic: WET (waxtu ëroop u sowwu-jant,
-    Standard: WEST (waxtu estàndaaru ëroop u sowwu-jant),
-    Daylight: WEST (waxtu ete wu ëroop u sowwu-jant)
-  },
-  Atlantic/Faeroe: {
-    Generic: WET (waxtu ëroop u sowwu-jant,
-    Standard: WEST (waxtu estàndaaru ëroop u sowwu-jant),
-    Daylight: WEST (waxtu ete wu ëroop u sowwu-jant)
-  },
-  Europe/Guernsey: {
-    Generic: GMT (waxtu Greenwich),
-    Standard: GMT (waxtu Greenwich),
-    Daylight: GMT (waxtu Greenwich)
-  },
-  Europe/Dublin: {
-    Generic: GMT (waxtu Greenwich),
-    Standard: GMT (waxtu Greenwich),
-    Daylight: GMT (waxtu Greenwich)
-  },
-  Europe/Isle_of_Man: {
-    Generic: GMT (waxtu Greenwich),
-    Standard: GMT (waxtu Greenwich),
-    Daylight: GMT (waxtu Greenwich)
-  },
-  Europe/Jersey: {
-    Generic: GMT (waxtu Greenwich),
-    Standard: GMT (waxtu Greenwich),
-    Daylight: GMT (waxtu Greenwich)
-  },
-  Europe/Lisbon: {
-    Generic: WET (waxtu ëroop u sowwu-jant,
-    Standard: WEST (waxtu estàndaaru ëroop u sowwu-jant),
-    Daylight: WEST (waxtu ete wu ëroop u sowwu-jant)
-  },
-  Atlantic/Madeira: {
-    Generic: WET (waxtu ëroop u sowwu-jant,
-    Standard: WEST (waxtu estàndaaru ëroop u sowwu-jant),
-    Daylight: WEST (waxtu ete wu ëroop u sowwu-jant)
-  },
-  Europe/Bucharest: {
-    Generic: EET (waxtu ëroop u penku),
-    Standard: EEST (waxtu estàndaaru ëroop u penku),
-    Daylight: EEST (waxtu ete wu ëroop u penku)
-  },
-  Asia/Nicosia: {
-    Generic: EET (waxtu ëroop u penku),
-    Standard: EEST (waxtu estàndaaru ëroop u penku),
-    Daylight: EEST (waxtu ete wu ëroop u penku)
-  },
-  Asia/Famagusta: {
-    Generic: EET (waxtu ëroop u penku),
-    Standard: EEST (waxtu estàndaaru ëroop u penku),
-    Daylight: EEST (waxtu ete wu ëroop u penku)
-  },
-  Europe/Athens: {
-    Generic: EET (waxtu ëroop u penku),
-    Standard: EEST (waxtu estàndaaru ëroop u penku),
-    Daylight: EEST (waxtu ete wu ëroop u penku)
-  },
-  Asia/Tbilisi: {
-    Generic: Seworsi,
-    Standard: Seworsi (+0),
-    Daylight: Seworsi (+1)
-  },
-  America/Godthab: {
-    Generic: Girinlànd,
-    Standard: Girinlànd (+0),
-    Daylight: Girinlànd (+1)
-  },
-  Atlantic/Reykjavik: {
-    Generic: GMT (waxtu Greenwich),
-    Standard: GMT (waxtu Greenwich),
-    Daylight: GMT (waxtu Greenwich)
-  },
-  Atlantic/St_Helena: {
-    Generic: GMT (waxtu Greenwich),
-    Standard: GMT (waxtu Greenwich),
-    Daylight: GMT (waxtu Greenwich)
-  },
-  Africa/Ouagadougou: {
-    Generic: GMT (waxtu Greenwich),
-    Standard: GMT (waxtu Greenwich),
-    Daylight: GMT (waxtu Greenwich)
-  },
-  Africa/Abidjan: {
-    Generic: GMT (waxtu Greenwich),
-    Standard: GMT (waxtu Greenwich),
-    Daylight: GMT (waxtu Greenwich)
-  },
-  Africa/Accra: {
-    Generic: GMT (waxtu Greenwich),
-    Standard: GMT (waxtu Greenwich),
-    Daylight: GMT (waxtu Greenwich)
-  },
-  America/Danmarkshavn: {
-    Generic: GMT (waxtu Greenwich),
-    Standard: GMT (waxtu Greenwich),
-    Daylight: GMT (waxtu Greenwich)
-  },
-  Africa/Banjul: {
-    Generic: GMT (waxtu Greenwich),
-    Standard: GMT (waxtu Greenwich),
-    Daylight: GMT (waxtu Greenwich)
-  },
-  Africa/Conakry: {
-    Generic: GMT (waxtu Greenwich),
-    Standard: GMT (waxtu Greenwich),
-    Daylight: GMT (waxtu Greenwich)
-  },
-  Africa/Bissau: {
-    Generic: GMT (waxtu Greenwich),
-    Standard: GMT (waxtu Greenwich),
-    Daylight: GMT (waxtu Greenwich)
-  },
-  Africa/Monrovia: {
-    Generic: GMT (waxtu Greenwich),
-    Standard: GMT (waxtu Greenwich),
-    Daylight: GMT (waxtu Greenwich)
-  },
-  Africa/Bamako: {
-    Generic: GMT (waxtu Greenwich),
-    Standard: GMT (waxtu Greenwich),
-    Daylight: GMT (waxtu Greenwich)
-  },
-  Africa/Nouakchott: {
-    Generic: GMT (waxtu Greenwich),
-    Standard: GMT (waxtu Greenwich),
-    Daylight: GMT (waxtu Greenwich)
-  },
-  Africa/Freetown: {
-    Generic: GMT (waxtu Greenwich),
-    Standard: GMT (waxtu Greenwich),
-    Daylight: GMT (waxtu Greenwich)
-  },
-  Africa/Dakar: {
-    Generic: GMT (waxtu Greenwich),
-    Standard: GMT (waxtu Greenwich),
-    Daylight: GMT (waxtu Greenwich)
-  },
-  Africa/Lome: {
-    Generic: GMT (waxtu Greenwich),
-    Standard: GMT (waxtu Greenwich),
-    Daylight: GMT (waxtu Greenwich)
+  America/Phoenix: {
+    Generic: MT (waxtu tundu),
+    Standard: MST (waxtu estàndaaru tundu),
+    Daylight: MDT (waxtu bëccëgu tundu)
   },
   America/Port-au-Prince: {
     Generic: ET waxtu penku,
     Standard: EST (waxtu estàndaaru penku),
     Daylight: EDT (waxtu bëccëgu penku)
   },
-  Pacific/Honolulu: {
-    Generic: Etaa Sini,
-    Standard: Etaa Sini (+0),
-    Daylight: Etaa Sini (+1)
-  },
-  Pacific/Rarotonga: {
-    Generic: Duni Kuuk,
-    Standard: Duni Kuuk (+0),
-    Daylight: Duni Kuuk (+1)
-  },
-  Pacific/Tahiti: {
-    Generic: Polinesi Farañse,
-    Standard: Polinesi Farañse (+0),
-    Daylight: Polinesi Farañse (+1)
-  },
-  Pacific/Johnston: {
-    Generic: Johnston,
-    Standard: Johnston (+0),
-    Daylight: Johnston (+1)
-  },
-  Etc/GMT+10: {
-    Generic: CUT (waxtu iniwelsel yuñ boole) -10,
-    Standard: CUT (waxtu iniwelsel yuñ boole) -10,
-    Daylight: CUT (waxtu iniwelsel yuñ boole) -10
-  },
-  Asia/Calcutta: {
-    Generic: End,
-    Standard: End (+0),
-    Daylight: End (+1)
-  },
-  Asia/Tehran: {
-    Generic: Iraŋ,
-    Standard: Iraŋ (+0),
-    Daylight: Iraŋ (+1)
-  },
-  Asia/Jerusalem: {
-    Generic: Israyel,
-    Standard: Israyel (+0),
-    Daylight: Israyel (+1)
-  },
-  Asia/Amman: {
-    Generic: EET (waxtu ëroop u penku),
-    Standard: EEST (waxtu estàndaaru ëroop u penku),
-    Daylight: EEST (waxtu ete wu ëroop u penku)
-  },
-  Europe/Kaliningrad: {
-    Generic: Kaliningrad,
-    Standard: Kaliningrad (+0),
-    Daylight: Kaliningrad (+1)
-  },
-  Asia/Seoul: {
-    Generic: Seoul,
-    Standard: Seoul (+0),
-    Daylight: Seoul (+1)
-  },
-  Africa/Tripoli: {
-    Generic: EET (waxtu ëroop u penku),
-    Standard: EEST (waxtu estàndaaru ëroop u penku),
-    Daylight: EEST (waxtu ete wu ëroop u penku)
-  },
-  Pacific/Kiritimati: {
-    Generic: Kiribati,
-    Standard: Kiribati (+0),
-    Daylight: Kiribati (+1)
-  },
-  Etc/GMT-14: {
-    Generic: CUT (waxtu iniwelsel yuñ boole) +14,
-    Standard: CUT (waxtu iniwelsel yuñ boole) +14,
-    Daylight: CUT (waxtu iniwelsel yuñ boole) +14
-  },
-  Australia/Lord_Howe: {
-    Generic: Ostarali,
-    Standard: Ostarali (+0),
-    Daylight: Ostarali (+1)
-  },
-  Asia/Magadan: {
-    Generic: Magadan,
-    Standard: Magadan (+0),
-    Daylight: Magadan (+1)
-  },
-  America/Punta_Arenas: {
-    Generic: Sili,
-    Standard: Sili (+0),
-    Daylight: Sili (+1)
-  },
-  Pacific/Marquesas: {
-    Generic: Polinesi Farañse,
-    Standard: Polinesi Farañse (+0),
-    Daylight: Polinesi Farañse (+1)
-  },
-  Indian/Mauritius: {
-    Generic: Moriis,
-    Standard: Moriis (+0),
-    Daylight: Moriis (+1)
-  },
-  Indian/Reunion: {
-    Generic: Reeñoo,
-    Standard: Reeñoo (+0),
-    Daylight: Reeñoo (+1)
-  },
-  Indian/Mahe: {
-    Generic: Seysel,
-    Standard: Seysel (+0),
-    Daylight: Seysel (+1)
-  },
-  Asia/Beirut: {
-    Generic: EET (waxtu ëroop u penku),
-    Standard: EEST (waxtu estàndaaru ëroop u penku),
-    Daylight: EEST (waxtu ete wu ëroop u penku)
-  },
-  America/Montevideo: {
-    Generic: Uruge,
-    Standard: Uruge (+0),
-    Daylight: Uruge (+1)
-  },
-  Africa/Casablanca: {
-    Generic: WET (waxtu ëroop u sowwu-jant,
-    Standard: WEST (waxtu estàndaaru ëroop u sowwu-jant),
-    Daylight: WEST (waxtu ete wu ëroop u sowwu-jant)
-  },
-  Africa/El_Aaiun: {
-    Generic: WET (waxtu ëroop u sowwu-jant,
-    Standard: WEST (waxtu estàndaaru ëroop u sowwu-jant),
-    Daylight: WEST (waxtu ete wu ëroop u sowwu-jant)
-  },
-  America/Chihuahua: {
-    Generic: Meksiko,
-    Standard: Meksiko (+0),
-    Daylight: Meksiko (+1)
-  },
-  America/Mazatlan: {
-    Generic: Meksiko,
-    Standard: Meksiko (+0),
-    Daylight: Meksiko (+1)
-  },
-  America/Denver: {
-    Generic: MT (waxtu tundu),
-    Standard: MST (waxtu estàndaaru tundu),
-    Daylight: MDT (waxtu bëccëgu tundu)
-  },
-  America/Edmonton: {
-    Generic: MT (waxtu tundu),
-    Standard: MST (waxtu estàndaaru tundu),
-    Daylight: MDT (waxtu bëccëgu tundu)
-  },
-  America/Cambridge_Bay: {
-    Generic: MT (waxtu tundu),
-    Standard: MST (waxtu estàndaaru tundu),
-    Daylight: MDT (waxtu bëccëgu tundu)
-  },
-  America/Inuvik: {
-    Generic: MT (waxtu tundu),
-    Standard: MST (waxtu estàndaaru tundu),
-    Daylight: MDT (waxtu bëccëgu tundu)
-  },
-  America/Yellowknife: {
-    Generic: MT (waxtu tundu),
-    Standard: MST (waxtu estàndaaru tundu),
-    Daylight: MDT (waxtu bëccëgu tundu)
-  },
-  America/Ojinaga: {
-    Generic: MT (waxtu tundu),
-    Standard: MST (waxtu estàndaaru tundu),
-    Daylight: MDT (waxtu bëccëgu tundu)
-  },
-  America/Boise: {
-    Generic: MT (waxtu tundu),
-    Standard: MST (waxtu estàndaaru tundu),
-    Daylight: MDT (waxtu bëccëgu tundu)
-  },
-  MST7MDT: {
-    Generic: MT (waxtu tundu),
-    Standard: MST (waxtu estàndaaru tundu),
-    Daylight: MDT (waxtu bëccëgu tundu)
-  },
-  Asia/Rangoon: {
-    Generic: Miyanmaar,
-    Standard: Miyanmaar (+0),
-    Daylight: Miyanmaar (+1)
-  },
-  Indian/Cocos: {
-    Generic: Duni Koko (Kilin),
-    Standard: Duni Koko (Kilin) (+0),
-    Daylight: Duni Koko (Kilin) (+1)
-  },
-  Asia/Novosibirsk: {
-    Generic: Novosibirsk,
-    Standard: Novosibirsk (+0),
-    Daylight: Novosibirsk (+1)
-  },
-  Africa/Windhoek: {
-    Generic: Namibi,
-    Standard: Namibi (+0),
-    Daylight: Namibi (+1)
-  },
-  Asia/Katmandu: {
-    Generic: Nepaal,
-    Standard: Nepaal (+0),
-    Daylight: Nepaal (+1)
-  },
-  Pacific/Auckland: {
-    Generic: Nuwel Selànd,
-    Standard: Nuwel Selànd (+0),
-    Daylight: Nuwel Selànd (+1)
-  },
-  Antarctica/McMurdo: {
-    Generic: Antarktik,
-    Standard: Antarktik (+0),
-    Daylight: Antarktik (+1)
-  },
-  America/St_Johns: {
-    Generic: Kanadaa,
-    Standard: Kanadaa (+0),
-    Daylight: Kanadaa (+1)
-  },
-  Pacific/Norfolk: {
-    Generic: Dunu Norfolk,
-    Standard: Dunu Norfolk (+0),
-    Daylight: Dunu Norfolk (+1)
-  },
-  Asia/Irkutsk: {
-    Generic: Irkutsk,
-    Standard: Irkutsk (+0),
-    Daylight: Irkutsk (+1)
-  },
-  Asia/Krasnoyarsk: {
-    Generic: Krasnoyarsk,
-    Standard: Krasnoyarsk (+0),
-    Daylight: Krasnoyarsk (+1)
-  },
-  Asia/Novokuznetsk: {
-    Generic: Novokuznetsk,
-    Standard: Novokuznetsk (+0),
-    Daylight: Novokuznetsk (+1)
-  },
-  Asia/Pyongyang: {
-    Generic: Kore Noor,
-    Standard: Kore Noor (+0),
-    Daylight: Kore Noor (+1)
-  },
-  Asia/Omsk: {
-    Generic: Omsk,
-    Standard: Omsk (+0),
-    Daylight: Omsk (+1)
-  },
-  America/Santiago: {
-    Generic: Sili,
-    Standard: Sili (+0),
-    Daylight: Sili (+1)
-  },
-  America/Tijuana: {
-    Generic: PT (waxtu pasifik),
-    Standard: PST (waxtu estàndaaru pasifik),
-    Daylight: PDT (waxtu bëccëgu pasifik)
-  },
-  America/Santa_Isabel: {
-    Generic: Santa Isabel,
-    Standard: Santa Isabel (+0),
-    Daylight: Santa Isabel (+1)
-  },
-  America/Los_Angeles: {
-    Generic: PT (waxtu pasifik),
-    Standard: PST (waxtu estàndaaru pasifik),
-    Daylight: PDT (waxtu bëccëgu pasifik)
-  },
-  America/Vancouver: {
-    Generic: PT (waxtu pasifik),
-    Standard: PST (waxtu estàndaaru pasifik),
-    Daylight: PDT (waxtu bëccëgu pasifik)
-  },
-  PST8PDT: {
-    Generic: PT (waxtu pasifik),
-    Standard: PST (waxtu estàndaaru pasifik),
-    Daylight: PDT (waxtu bëccëgu pasifik)
-  },
-  Asia/Karachi: {
-    Generic: Pakistaŋ,
-    Standard: Pakistaŋ (+0),
-    Daylight: Pakistaŋ (+1)
-  },
-  America/Asuncion: {
-    Generic: Paraguwe,
-    Standard: Paraguwe (+0),
-    Daylight: Paraguwe (+1)
-  },
-  Asia/Qyzylorda: {
-    Generic: Kasaxstaŋ,
-    Standard: Kasaxstaŋ (+0),
-    Daylight: Kasaxstaŋ (+1)
-  },
-  Europe/Paris: {
-    Generic: CTE (waxtu ëroop sàntaraal),
-    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
-    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
-  },
-  Europe/Brussels: {
-    Generic: CTE (waxtu ëroop sàntaraal),
-    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
-    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
-  },
-  Europe/Copenhagen: {
-    Generic: CTE (waxtu ëroop sàntaraal),
-    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
-    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
-  },
-  Africa/Ceuta: {
-    Generic: CTE (waxtu ëroop sàntaraal),
-    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
-    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
-  },
-  Europe/Madrid: {
-    Generic: CTE (waxtu ëroop sàntaraal),
-    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
-    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
-  },
-  Asia/Srednekolymsk: {
-    Generic: Srednekolymsk,
-    Standard: Srednekolymsk (+0),
-    Daylight: Srednekolymsk (+1)
-  },
-  Asia/Kamchatka: {
-    Generic: Kamchatka,
-    Standard: Kamchatka (+0),
-    Daylight: Kamchatka (+1)
-  },
-  Asia/Anadyr: {
-    Generic: Anadyr,
-    Standard: Anadyr (+0),
-    Daylight: Anadyr (+1)
-  },
-  Europe/Samara: {
-    Generic: Samara,
-    Standard: Samara (+0),
-    Daylight: Samara (+1)
-  },
-  Europe/Moscow: {
-    Generic: Moscow,
-    Standard: Moscow (+0),
-    Daylight: Moscow (+1)
-  },
-  Europe/Kirov: {
-    Generic: Kirov,
-    Standard: Kirov (+0),
-    Daylight: Kirov (+1)
-  },
-  Europe/Simferopol: {
-    Generic: Ikeren,
-    Standard: Ikeren (+0),
-    Daylight: Ikeren (+1)
-  },
-  America/Cayenne: {
-    Generic: Guyaan Farañse,
-    Standard: Guyaan Farañse (+0),
-    Daylight: Guyaan Farañse (+1)
-  },
-  Antarctica/Rothera: {
-    Generic: Antarktik,
-    Standard: Antarktik (+0),
-    Daylight: Antarktik (+1)
-  },
-  Antarctica/Palmer: {
-    Generic: Antarktik,
-    Standard: Antarktik (+0),
-    Daylight: Antarktik (+1)
-  },
-  America/Fortaleza: {
-    Generic: Beresil,
-    Standard: Beresil (+0),
-    Daylight: Beresil (+1)
-  },
-  America/Belem: {
-    Generic: Beresil,
-    Standard: Beresil (+0),
-    Daylight: Beresil (+1)
-  },
-  America/Maceio: {
-    Generic: Beresil,
-    Standard: Beresil (+0),
-    Daylight: Beresil (+1)
-  },
-  America/Recife: {
-    Generic: Beresil,
-    Standard: Beresil (+0),
-    Daylight: Beresil (+1)
-  },
-  America/Santarem: {
-    Generic: Beresil,
-    Standard: Beresil (+0),
-    Daylight: Beresil (+1)
-  },
-  Atlantic/Stanley: {
-    Generic: Duni Falkland,
-    Standard: Duni Falkland (+0),
-    Daylight: Duni Falkland (+1)
-  },
-  America/Paramaribo: {
-    Generic: Sirinam,
-    Standard: Sirinam (+0),
-    Daylight: Sirinam (+1)
-  },
-  Etc/GMT+3: {
-    Generic: CUT (waxtu iniwelsel yuñ boole) -3,
-    Standard: CUT (waxtu iniwelsel yuñ boole) -3,
-    Daylight: CUT (waxtu iniwelsel yuñ boole) -3
-  },
-  America/Bogota: {
-    Generic: Kolombi,
-    Standard: Kolombi (+0),
-    Daylight: Kolombi (+1)
-  },
-  America/Rio_Branco: {
-    Generic: Beresil,
-    Standard: Beresil (+0),
-    Daylight: Beresil (+1)
-  },
-  America/Eirunepe: {
-    Generic: Beresil,
-    Standard: Beresil (+0),
-    Daylight: Beresil (+1)
-  },
-  America/Coral_Harbour: {
-    Generic: ET waxtu penku,
-    Standard: EST (waxtu estàndaaru penku),
-    Daylight: EDT (waxtu bëccëgu penku)
-  },
-  America/Guayaquil: {
-    Generic: Ekwaatër,
-    Standard: Ekwaatër (+0),
-    Daylight: Ekwaatër (+1)
-  },
-  America/Jamaica: {
-    Generic: ET waxtu penku,
-    Standard: EST (waxtu estàndaaru penku),
-    Daylight: EDT (waxtu bëccëgu penku)
-  },
-  America/Cayman: {
-    Generic: ET waxtu penku,
-    Standard: EST (waxtu estàndaaru penku),
-    Daylight: EDT (waxtu bëccëgu penku)
-  },
-  America/Panama: {
-    Generic: ET waxtu penku,
-    Standard: EST (waxtu estàndaaru penku),
-    Daylight: EDT (waxtu bëccëgu penku)
-  },
-  America/Lima: {
-    Generic: Peru,
-    Standard: Peru (+0),
-    Daylight: Peru (+1)
-  },
-  Etc/GMT+5: {
-    Generic: CUT (waxtu iniwelsel yuñ boole) -5,
-    Standard: CUT (waxtu iniwelsel yuñ boole) -5,
-    Daylight: CUT (waxtu iniwelsel yuñ boole) -5
-  },
-  America/La_Paz: {
-    Generic: Boliwi,
-    Standard: Boliwi (+0),
-    Daylight: Boliwi (+1)
-  },
-  America/Antigua: {
+  America/Port_of_Spain: {
     Generic: AT (waxtu atlàntik),
     Standard: AST (waxtu estàndaaru penku),
     Daylight: ADT (waxtu bëccëgu atlàntik)
   },
-  America/Anguilla: {
-    Generic: AT (waxtu atlàntik),
-    Standard: AST (waxtu estàndaaru penku),
-    Daylight: ADT (waxtu bëccëgu atlàntik)
-  },
-  America/Aruba: {
-    Generic: AT (waxtu atlàntik),
-    Standard: AST (waxtu estàndaaru penku),
-    Daylight: ADT (waxtu bëccëgu atlàntik)
-  },
-  America/Barbados: {
-    Generic: AT (waxtu atlàntik),
-    Standard: AST (waxtu estàndaaru penku),
-    Daylight: ADT (waxtu bëccëgu atlàntik)
-  },
-  America/St_Barthelemy: {
-    Generic: AT (waxtu atlàntik),
-    Standard: AST (waxtu estàndaaru penku),
-    Daylight: ADT (waxtu bëccëgu atlàntik)
-  },
-  America/Kralendijk: {
-    Generic: AT (waxtu atlàntik),
-    Standard: AST (waxtu estàndaaru penku),
-    Daylight: ADT (waxtu bëccëgu atlàntik)
-  },
-  America/Manaus: {
-    Generic: Beresil,
-    Standard: Beresil (+0),
-    Daylight: Beresil (+1)
-  },
-  America/Boa_Vista: {
+  America/Porto_Acre: {
     Generic: Beresil,
     Standard: Beresil (+0),
     Daylight: Beresil (+1)
@@ -1459,40 +924,100 @@
     Standard: Beresil (+0),
     Daylight: Beresil (+1)
   },
-  America/Blanc-Sablon: {
+  America/Puerto_Rico: {
     Generic: AT (waxtu atlàntik),
     Standard: AST (waxtu estàndaaru penku),
     Daylight: ADT (waxtu bëccëgu atlàntik)
   },
-  America/Curacao: {
-    Generic: AT (waxtu atlàntik),
-    Standard: AST (waxtu estàndaaru penku),
-    Daylight: ADT (waxtu bëccëgu atlàntik)
+  America/Punta_Arenas: {
+    Generic: Sili,
+    Standard: Sili (+0),
+    Daylight: Sili (+1)
   },
-  America/Dominica: {
-    Generic: AT (waxtu atlàntik),
-    Standard: AST (waxtu estàndaaru penku),
-    Daylight: ADT (waxtu bëccëgu atlàntik)
+  America/Rainy_River: {
+    Generic: CT (waxtu sàntaral),
+    Standard: CST (waxtu estàndaaru sàntaraal),
+    Daylight: CDT (waxtu bëccëgu sàntaraal
+  },
+  America/Rankin_Inlet: {
+    Generic: CT (waxtu sàntaral),
+    Standard: CST (waxtu estàndaaru sàntaraal),
+    Daylight: CDT (waxtu bëccëgu sàntaraal
+  },
+  America/Recife: {
+    Generic: Beresil,
+    Standard: Beresil (+0),
+    Daylight: Beresil (+1)
+  },
+  America/Regina: {
+    Generic: CT (waxtu sàntaral),
+    Standard: CST (waxtu estàndaaru sàntaraal),
+    Daylight: CDT (waxtu bëccëgu sàntaraal
+  },
+  America/Resolute: {
+    Generic: CT (waxtu sàntaral),
+    Standard: CST (waxtu estàndaaru sàntaraal),
+    Daylight: CDT (waxtu bëccëgu sàntaraal
+  },
+  America/Rio_Branco: {
+    Generic: Beresil,
+    Standard: Beresil (+0),
+    Daylight: Beresil (+1)
+  },
+  America/Rosario: {
+    Generic: Arsàntin,
+    Standard: Arsàntin (+0),
+    Daylight: Arsàntin (+1)
+  },
+  America/Santa_Isabel: {
+    Generic: Santa Isabel,
+    Standard: Santa Isabel (+0),
+    Daylight: Santa Isabel (+1)
+  },
+  America/Santarem: {
+    Generic: Beresil,
+    Standard: Beresil (+0),
+    Daylight: Beresil (+1)
+  },
+  America/Santiago: {
+    Generic: Sili,
+    Standard: Sili (+0),
+    Daylight: Sili (+1)
   },
   America/Santo_Domingo: {
     Generic: AT (waxtu atlàntik),
     Standard: AST (waxtu estàndaaru penku),
     Daylight: ADT (waxtu bëccëgu atlàntik)
   },
-  America/Grenada: {
+  America/Sao_Paulo: {
+    Generic: Beresil,
+    Standard: Beresil (+0),
+    Daylight: Beresil (+1)
+  },
+  America/Scoresbysund: {
+    Generic: Girinlànd,
+    Standard: Girinlànd (+0),
+    Daylight: Girinlànd (+1)
+  },
+  America/Shiprock: {
+    Generic: MT (waxtu tundu),
+    Standard: MST (waxtu estàndaaru tundu),
+    Daylight: MDT (waxtu bëccëgu tundu)
+  },
+  America/Sitka: {
+    Generic: Etaa Sini,
+    Standard: Etaa Sini (+0),
+    Daylight: Etaa Sini (+1)
+  },
+  America/St_Barthelemy: {
     Generic: AT (waxtu atlàntik),
     Standard: AST (waxtu estàndaaru penku),
     Daylight: ADT (waxtu bëccëgu atlàntik)
   },
-  America/Guadeloupe: {
-    Generic: AT (waxtu atlàntik),
-    Standard: AST (waxtu estàndaaru penku),
-    Daylight: ADT (waxtu bëccëgu atlàntik)
-  },
-  America/Guyana: {
-    Generic: Giyaan,
-    Standard: Giyaan (+0),
-    Daylight: Giyaan (+1)
+  America/St_Johns: {
+    Generic: Kanadaa,
+    Standard: Kanadaa (+0),
+    Daylight: Kanadaa (+1)
   },
   America/St_Kitts: {
     Generic: AT (waxtu atlàntik),
@@ -1504,32 +1029,7 @@
     Standard: AST (waxtu estàndaaru penku),
     Daylight: ADT (waxtu bëccëgu atlàntik)
   },
-  America/Marigot: {
-    Generic: AT (waxtu atlàntik),
-    Standard: AST (waxtu estàndaaru penku),
-    Daylight: ADT (waxtu bëccëgu atlàntik)
-  },
-  America/Martinique: {
-    Generic: AT (waxtu atlàntik),
-    Standard: AST (waxtu estàndaaru penku),
-    Daylight: ADT (waxtu bëccëgu atlàntik)
-  },
-  America/Montserrat: {
-    Generic: AT (waxtu atlàntik),
-    Standard: AST (waxtu estàndaaru penku),
-    Daylight: ADT (waxtu bëccëgu atlàntik)
-  },
-  America/Puerto_Rico: {
-    Generic: AT (waxtu atlàntik),
-    Standard: AST (waxtu estàndaaru penku),
-    Daylight: ADT (waxtu bëccëgu atlàntik)
-  },
-  America/Lower_Princes: {
-    Generic: AT (waxtu atlàntik),
-    Standard: AST (waxtu estàndaaru penku),
-    Daylight: ADT (waxtu bëccëgu atlàntik)
-  },
-  America/Port_of_Spain: {
+  America/St_Thomas: {
     Generic: AT (waxtu atlàntik),
     Standard: AST (waxtu estàndaaru penku),
     Daylight: ADT (waxtu bëccëgu atlàntik)
@@ -1539,655 +1039,155 @@
     Standard: AST (waxtu estàndaaru penku),
     Daylight: ADT (waxtu bëccëgu atlàntik)
   },
+  America/Swift_Current: {
+    Generic: CT (waxtu sàntaral),
+    Standard: CST (waxtu estàndaaru sàntaraal),
+    Daylight: CDT (waxtu bëccëgu sàntaraal
+  },
+  America/Tegucigalpa: {
+    Generic: CT (waxtu sàntaral),
+    Standard: CST (waxtu estàndaaru sàntaraal),
+    Daylight: CDT (waxtu bëccëgu sàntaraal
+  },
+  America/Thule: {
+    Generic: AT (waxtu atlàntik),
+    Standard: AST (waxtu estàndaaru penku),
+    Daylight: ADT (waxtu bëccëgu atlàntik)
+  },
+  America/Thunder_Bay: {
+    Generic: ET waxtu penku,
+    Standard: EST (waxtu estàndaaru penku),
+    Daylight: EDT (waxtu bëccëgu penku)
+  },
+  America/Tijuana: {
+    Generic: PT (waxtu pasifik),
+    Standard: PST (waxtu estàndaaru pasifik),
+    Daylight: PDT (waxtu bëccëgu pasifik)
+  },
+  America/Toronto: {
+    Generic: ET waxtu penku,
+    Standard: EST (waxtu estàndaaru penku),
+    Daylight: EDT (waxtu bëccëgu penku)
+  },
   America/Tortola: {
     Generic: AT (waxtu atlàntik),
     Standard: AST (waxtu estàndaaru penku),
     Daylight: ADT (waxtu bëccëgu atlàntik)
   },
-  America/St_Thomas: {
+  America/Vancouver: {
+    Generic: PT (waxtu pasifik),
+    Standard: PST (waxtu estàndaaru pasifik),
+    Daylight: PDT (waxtu bëccëgu pasifik)
+  },
+  America/Virgin: {
     Generic: AT (waxtu atlàntik),
     Standard: AST (waxtu estàndaaru penku),
     Daylight: ADT (waxtu bëccëgu atlàntik)
   },
-  Etc/GMT+4: {
-    Generic: CUT (waxtu iniwelsel yuñ boole) -4,
-    Standard: CUT (waxtu iniwelsel yuñ boole) -4,
-    Daylight: CUT (waxtu iniwelsel yuñ boole) -4
+  America/Whitehorse: {
+    Generic: Kanadaa,
+    Standard: Kanadaa (+0),
+    Daylight: Kanadaa (+1)
   },
-  Asia/Bangkok: {
-    Generic: Taylànd,
-    Standard: Taylànd (+0),
-    Daylight: Taylànd (+1)
+  America/Winnipeg: {
+    Generic: CT (waxtu sàntaral),
+    Standard: CST (waxtu estàndaaru sàntaraal),
+    Daylight: CDT (waxtu bëccëgu sàntaraal
+  },
+  America/Yakutat: {
+    Generic: Etaa Sini,
+    Standard: Etaa Sini (+0),
+    Daylight: Etaa Sini (+1)
+  },
+  America/Yellowknife: {
+    Generic: MT (waxtu tundu),
+    Standard: MST (waxtu estàndaaru tundu),
+    Daylight: MDT (waxtu bëccëgu tundu)
+  },
+  Antarctica/Casey: {
+    Generic: Antarktik,
+    Standard: Antarktik (+0),
+    Daylight: Antarktik (+1)
   },
   Antarctica/Davis: {
     Generic: Antarktik,
     Standard: Antarktik (+0),
     Daylight: Antarktik (+1)
   },
-  Indian/Christmas: {
-    Generic: Dunu Kirismas,
-    Standard: Dunu Kirismas (+0),
-    Daylight: Dunu Kirismas (+1)
-  },
-  Asia/Jakarta: {
-    Generic: Indonesi,
-    Standard: Indonesi (+0),
-    Daylight: Indonesi (+1)
-  },
-  Asia/Pontianak: {
-    Generic: Indonesi,
-    Standard: Indonesi (+0),
-    Daylight: Indonesi (+1)
-  },
-  Asia/Phnom_Penh: {
-    Generic: Kàmboj,
-    Standard: Kàmboj (+0),
-    Daylight: Kàmboj (+1)
-  },
-  Asia/Vientiane: {
-    Generic: Lawos,
-    Standard: Lawos (+0),
-    Daylight: Lawos (+1)
-  },
-  Asia/Saigon: {
-    Generic: Wiyetnam,
-    Standard: Wiyetnam (+0),
-    Daylight: Wiyetnam (+1)
-  },
-  Etc/GMT-7: {
-    Generic: CUT (waxtu iniwelsel yuñ boole) +7,
-    Standard: CUT (waxtu iniwelsel yuñ boole) +7,
-    Daylight: CUT (waxtu iniwelsel yuñ boole) +7
-  },
-  America/Miquelon: {
-    Generic: Saŋ Peer ak Mikeloŋ,
-    Standard: Saŋ Peer ak Mikeloŋ (+0),
-    Daylight: Saŋ Peer ak Mikeloŋ (+1)
-  },
-  Asia/Sakhalin: {
-    Generic: Sakhalin,
-    Standard: Sakhalin (+0),
-    Daylight: Sakhalin (+1)
-  },
-  Pacific/Apia: {
-    Generic: Samowa,
-    Standard: Samowa (+0),
-    Daylight: Samowa (+1)
-  },
-  Africa/Sao_Tome: {
-    Generic: GMT (waxtu Greenwich),
-    Standard: GMT (waxtu Greenwich),
-    Daylight: GMT (waxtu Greenwich)
-  },
-  Europe/Saratov: {
-    Generic: Saratov,
-    Standard: Saratov (+0),
-    Daylight: Saratov (+1)
-  },
-  Asia/Singapore: {
-    Generic: Singapuur,
-    Standard: Singapuur (+0),
-    Daylight: Singapuur (+1)
-  },
-  Asia/Brunei: {
-    Generic: Burney,
-    Standard: Burney (+0),
-    Daylight: Burney (+1)
-  },
-  Asia/Makassar: {
-    Generic: Indonesi,
-    Standard: Indonesi (+0),
-    Daylight: Indonesi (+1)
-  },
-  Asia/Kuala_Lumpur: {
-    Generic: Malesi,
-    Standard: Malesi (+0),
-    Daylight: Malesi (+1)
-  },
-  Asia/Kuching: {
-    Generic: Malesi,
-    Standard: Malesi (+0),
-    Daylight: Malesi (+1)
-  },
-  Asia/Manila: {
-    Generic: Filipin,
-    Standard: Filipin (+0),
-    Daylight: Filipin (+1)
-  },
-  Etc/GMT-8: {
-    Generic: CUT (waxtu iniwelsel yuñ boole) +8,
-    Standard: CUT (waxtu iniwelsel yuñ boole) +8,
-    Daylight: CUT (waxtu iniwelsel yuñ boole) +8
-  },
-  Africa/Johannesburg: {
-    Generic: Afrik di Sid,
-    Standard: Afrik di Sid (+0),
-    Daylight: Afrik di Sid (+1)
-  },
-  Africa/Bujumbura: {
-    Generic: Burundi,
-    Standard: Burundi (+0),
-    Daylight: Burundi (+1)
-  },
-  Africa/Gaborone: {
-    Generic: Botswana,
-    Standard: Botswana (+0),
-    Daylight: Botswana (+1)
-  },
-  Africa/Lubumbashi: {
-    Generic: Kongo (R K D),
-    Standard: Kongo (R K D) (+0),
-    Daylight: Kongo (R K D) (+1)
-  },
-  Africa/Maseru: {
-    Generic: Lesoto,
-    Standard: Lesoto (+0),
-    Daylight: Lesoto (+1)
-  },
-  Africa/Blantyre: {
-    Generic: Malawi,
-    Standard: Malawi (+0),
-    Daylight: Malawi (+1)
-  },
-  Africa/Maputo: {
-    Generic: Mosàmbig,
-    Standard: Mosàmbig (+0),
-    Daylight: Mosàmbig (+1)
-  },
-  Africa/Kigali: {
-    Generic: Ruwànda,
-    Standard: Ruwànda (+0),
-    Daylight: Ruwànda (+1)
-  },
-  Africa/Mbabane: {
-    Generic: Suwasilànd,
-    Standard: Suwasilànd (+0),
-    Daylight: Suwasilànd (+1)
-  },
-  Africa/Lusaka: {
-    Generic: Sàmbi,
-    Standard: Sàmbi (+0),
-    Daylight: Sàmbi (+1)
-  },
-  Africa/Harare: {
-    Generic: Simbabwe,
-    Standard: Simbabwe (+0),
-    Daylight: Simbabwe (+1)
-  },
-  Etc/GMT-2: {
-    Generic: CUT (waxtu iniwelsel yuñ boole) +2,
-    Standard: CUT (waxtu iniwelsel yuñ boole) +2,
-    Daylight: CUT (waxtu iniwelsel yuñ boole) +2
-  },
-  Africa/Juba: {
-    Generic: Sudaŋ di Sid,
-    Standard: Sudaŋ di Sid (+0),
-    Daylight: Sudaŋ di Sid (+1)
-  },
-  Asia/Colombo: {
-    Generic: Siri Lànka,
-    Standard: Siri Lànka (+0),
-    Daylight: Siri Lànka (+1)
-  },
-  Africa/Khartoum: {
-    Generic: Sudaŋ,
-    Standard: Sudaŋ (+0),
-    Daylight: Sudaŋ (+1)
-  },
-  Asia/Damascus: {
-    Generic: EET (waxtu ëroop u penku),
-    Standard: EEST (waxtu estàndaaru ëroop u penku),
-    Daylight: EEST (waxtu ete wu ëroop u penku)
-  },
-  Asia/Taipei: {
-    Generic: Taywan,
-    Standard: Taywan (+0),
-    Daylight: Taywan (+1)
-  },
-  Australia/Hobart: {
-    Generic: Ostarali,
-    Standard: Ostarali (+0),
-    Daylight: Ostarali (+1)
-  },
-  Australia/Currie: {
-    Generic: Currie,
-    Standard: Currie (+0),
-    Daylight: Currie (+1)
+  Antarctica/DumontDUrville: {
+    Generic: Antarktik,
+    Standard: Antarktik (+0),
+    Daylight: Antarktik (+1)
   },
   Antarctica/Macquarie: {
     Generic: Ostarali,
     Standard: Ostarali (+0),
     Daylight: Ostarali (+1)
   },
-  America/Araguaina: {
-    Generic: Beresil,
-    Standard: Beresil (+0),
-    Daylight: Beresil (+1)
+  Antarctica/Mawson: {
+    Generic: Antarktik,
+    Standard: Antarktik (+0),
+    Daylight: Antarktik (+1)
   },
-  Asia/Tokyo: {
-    Generic: Sàppoŋ,
-    Standard: Sàppoŋ (+0),
-    Daylight: Sàppoŋ (+1)
+  Antarctica/McMurdo: {
+    Generic: Antarktik,
+    Standard: Antarktik (+0),
+    Daylight: Antarktik (+1)
   },
-  Asia/Jayapura: {
-    Generic: Indonesi,
-    Standard: Indonesi (+0),
-    Daylight: Indonesi (+1)
+  Antarctica/Palmer: {
+    Generic: Antarktik,
+    Standard: Antarktik (+0),
+    Daylight: Antarktik (+1)
   },
-  Pacific/Palau: {
-    Generic: Palaw,
-    Standard: Palaw (+0),
-    Daylight: Palaw (+1)
+  Antarctica/Rothera: {
+    Generic: Antarktik,
+    Standard: Antarktik (+0),
+    Daylight: Antarktik (+1)
   },
-  Asia/Dili: {
-    Generic: Timor Leste,
-    Standard: Timor Leste (+0),
-    Daylight: Timor Leste (+1)
+  Antarctica/South_Pole: {
+    Generic: Nuwel Selànd,
+    Standard: Nuwel Selànd (+0),
+    Daylight: Nuwel Selànd (+1)
   },
-  Etc/GMT-9: {
-    Generic: CUT (waxtu iniwelsel yuñ boole) +9,
-    Standard: CUT (waxtu iniwelsel yuñ boole) +9,
-    Daylight: CUT (waxtu iniwelsel yuñ boole) +9
+  Antarctica/Syowa: {
+    Generic: Antarktik,
+    Standard: Antarktik (+0),
+    Daylight: Antarktik (+1)
   },
-  Asia/Tomsk: {
-    Generic: Tomsk,
-    Standard: Tomsk (+0),
-    Daylight: Tomsk (+1)
-  },
-  Pacific/Tongatapu: {
-    Generic: Tonga,
-    Standard: Tonga (+0),
-    Daylight: Tonga (+1)
-  },
-  Asia/Chita: {
-    Generic: Chita,
-    Standard: Chita (+0),
-    Daylight: Chita (+1)
-  },
-  Europe/Istanbul: {
-    Generic: Tirki,
-    Standard: Tirki (+0),
-    Daylight: Tirki (+1)
-  },
-  America/Grand_Turk: {
-    Generic: ET waxtu penku,
-    Standard: EST (waxtu estàndaaru penku),
-    Daylight: EDT (waxtu bëccëgu penku)
-  },
-  America/Indianapolis: {
-    Generic: ET waxtu penku,
-    Standard: EST (waxtu estàndaaru penku),
-    Daylight: EDT (waxtu bëccëgu penku)
-  },
-  America/Indiana/Marengo: {
-    Generic: ET waxtu penku,
-    Standard: EST (waxtu estàndaaru penku),
-    Daylight: EDT (waxtu bëccëgu penku)
-  },
-  America/Indiana/Vevay: {
-    Generic: ET waxtu penku,
-    Standard: EST (waxtu estàndaaru penku),
-    Daylight: EDT (waxtu bëccëgu penku)
-  },
-  America/Phoenix: {
-    Generic: MT (waxtu tundu),
-    Standard: MST (waxtu estàndaaru tundu),
-    Daylight: MDT (waxtu bëccëgu tundu)
-  },
-  America/Creston: {
-    Generic: MT (waxtu tundu),
-    Standard: MST (waxtu estàndaaru tundu),
-    Daylight: MDT (waxtu bëccëgu tundu)
-  },
-  America/Dawson_Creek: {
-    Generic: MT (waxtu tundu),
-    Standard: MST (waxtu estàndaaru tundu),
-    Daylight: MDT (waxtu bëccëgu tundu)
-  },
-  America/Fort_Nelson: {
-    Generic: MT (waxtu tundu),
-    Standard: MST (waxtu estàndaaru tundu),
-    Daylight: MDT (waxtu bëccëgu tundu)
-  },
-  America/Hermosillo: {
-    Generic: Meksiko,
-    Standard: Meksiko (+0),
-    Daylight: Meksiko (+1)
-  },
-  Etc/GMT+7: {
-    Generic: CUT (waxtu iniwelsel yuñ boole) -7,
-    Standard: CUT (waxtu iniwelsel yuñ boole) -7,
-    Daylight: CUT (waxtu iniwelsel yuñ boole) -7
-  },
-  Etc/GMT-12: {
-    Generic: CUT (waxtu iniwelsel yuñ boole) +12,
-    Standard: CUT (waxtu iniwelsel yuñ boole) +12,
-    Daylight: CUT (waxtu iniwelsel yuñ boole) +12
-  },
-  Pacific/Tarawa: {
-    Generic: Kiribati,
-    Standard: Kiribati (+0),
-    Daylight: Kiribati (+1)
-  },
-  Pacific/Majuro: {
-    Generic: Duni Marsaal,
-    Standard: Duni Marsaal (+0),
-    Daylight: Duni Marsaal (+1)
-  },
-  Pacific/Kwajalein: {
-    Generic: Duni Marsaal,
-    Standard: Duni Marsaal (+0),
-    Daylight: Duni Marsaal (+1)
-  },
-  Pacific/Nauru: {
-    Generic: Nawru,
-    Standard: Nawru (+0),
-    Daylight: Nawru (+1)
-  },
-  Pacific/Funafuti: {
-    Generic: Tuwalo,
-    Standard: Tuwalo (+0),
-    Daylight: Tuwalo (+1)
-  },
-  Pacific/Wake: {
-    Generic: Duni Amerig Utar meer,
-    Standard: Duni Amerig Utar meer (+0),
-    Daylight: Duni Amerig Utar meer (+1)
-  },
-  Pacific/Wallis: {
-    Generic: Walis ak Futuna,
-    Standard: Walis ak Futuna (+0),
-    Daylight: Walis ak Futuna (+1)
-  },
-  Etc/GMT-13: {
-    Generic: CUT (waxtu iniwelsel yuñ boole) +13,
-    Standard: CUT (waxtu iniwelsel yuñ boole) +13,
-    Daylight: CUT (waxtu iniwelsel yuñ boole) +13
-  },
-  Pacific/Enderbury: {
-    Generic: Kiribati,
-    Standard: Kiribati (+0),
-    Daylight: Kiribati (+1)
-  },
-  Pacific/Fakaofo: {
-    Generic: Tokoloo,
-    Standard: Tokoloo (+0),
-    Daylight: Tokoloo (+1)
-  },
-  Etc/UTC: {
-    Generic: CUT (waxtu iniwelsel yuñ boole),
-    Standard: CUT (waxtu iniwelsel yuñ boole),
-    Daylight: CUT (waxtu iniwelsel yuñ boole)
-  },
-  Etc/GMT: {
+  Antarctica/Troll: {
     Generic: GMT (waxtu Greenwich),
     Standard: GMT (waxtu Greenwich),
     Daylight: GMT (waxtu Greenwich)
   },
-  Etc/GMT+2: {
-    Generic: CUT (waxtu iniwelsel yuñ boole) -2,
-    Standard: CUT (waxtu iniwelsel yuñ boole) -2,
-    Daylight: CUT (waxtu iniwelsel yuñ boole) -2
-  },
-  America/Noronha: {
-    Generic: Beresil,
-    Standard: Beresil (+0),
-    Daylight: Beresil (+1)
-  },
-  Atlantic/South_Georgia: {
-    Generic: Seworsi di Sid ak Duni Sàndwiis di Sid,
-    Standard: Seworsi di Sid ak Duni Sàndwiis di Sid (+0),
-    Daylight: Seworsi di Sid ak Duni Sàndwiis di Sid (+1)
-  },
-  Etc/GMT+8: {
-    Generic: CUT (waxtu iniwelsel yuñ boole) -8,
-    Standard: CUT (waxtu iniwelsel yuñ boole) -8,
-    Daylight: CUT (waxtu iniwelsel yuñ boole) -8
-  },
-  Pacific/Pitcairn: {
-    Generic: Duni Pitkayirn,
-    Standard: Duni Pitkayirn (+0),
-    Daylight: Duni Pitkayirn (+1)
-  },
-  Etc/GMT+9: {
-    Generic: CUT (waxtu iniwelsel yuñ boole) -9,
-    Standard: CUT (waxtu iniwelsel yuñ boole) -9,
-    Daylight: CUT (waxtu iniwelsel yuñ boole) -9
-  },
-  Pacific/Gambier: {
-    Generic: Polinesi Farañse,
-    Standard: Polinesi Farañse (+0),
-    Daylight: Polinesi Farañse (+1)
-  },
-  Etc/GMT+11: {
-    Generic: CUT (waxtu iniwelsel yuñ boole) -11,
-    Standard: CUT (waxtu iniwelsel yuñ boole) -11,
-    Daylight: CUT (waxtu iniwelsel yuñ boole) -11
-  },
-  Pacific/Pago_Pago: {
-    Generic: Samowa bu Amerig,
-    Standard: Samowa bu Amerig (+0),
-    Daylight: Samowa bu Amerig (+1)
-  },
-  Pacific/Niue: {
-    Generic: Niw,
-    Standard: Niw (+0),
-    Daylight: Niw (+1)
-  },
-  Pacific/Midway: {
-    Generic: Duni Amerig Utar meer,
-    Standard: Duni Amerig Utar meer (+0),
-    Daylight: Duni Amerig Utar meer (+1)
-  },
-  Asia/Ulaanbaatar: {
-    Generic: Mongoli,
-    Standard: Mongoli (+0),
-    Daylight: Mongoli (+1)
-  },
-  Asia/Choibalsan: {
-    Generic: Mongoli,
-    Standard: Mongoli (+0),
-    Daylight: Mongoli (+1)
-  },
-  America/Caracas: {
-    Generic: Wenesiyela,
-    Standard: Wenesiyela (+0),
-    Daylight: Wenesiyela (+1)
-  },
-  Asia/Vladivostok: {
-    Generic: Vladivostok,
-    Standard: Vladivostok (+0),
-    Daylight: Vladivostok (+1)
-  },
-  Asia/Ust-Nera: {
-    Generic: Ust-Nera,
-    Standard: Ust-Nera (+0),
-    Daylight: Ust-Nera (+1)
-  },
-  Europe/Volgograd: {
-    Generic: Volgograd,
-    Standard: Volgograd (+0),
-    Daylight: Volgograd (+1)
-  },
-  Australia/Perth: {
-    Generic: Ostarali,
-    Standard: Ostarali (+0),
-    Daylight: Ostarali (+1)
-  },
-  Africa/Lagos: {
-    Generic: Niseriya,
-    Standard: Niseriya (+0),
-    Daylight: Niseriya (+1)
-  },
-  Africa/Luanda: {
-    Generic: Àngolaa,
-    Standard: Àngolaa (+0),
-    Daylight: Àngolaa (+1)
-  },
-  Africa/Porto-Novo: {
-    Generic: Benee,
-    Standard: Benee (+0),
-    Daylight: Benee (+1)
-  },
-  Africa/Kinshasa: {
-    Generic: Kongo (R K D),
-    Standard: Kongo (R K D) (+0),
-    Daylight: Kongo (R K D) (+1)
-  },
-  Africa/Bangui: {
-    Generic: Repiblik Sàntar Afrik,
-    Standard: Repiblik Sàntar Afrik (+0),
-    Daylight: Repiblik Sàntar Afrik (+1)
-  },
-  Africa/Brazzaville: {
-    Generic: Réewum Kongo,
-    Standard: Réewum Kongo (+0),
-    Daylight: Réewum Kongo (+1)
-  },
-  Africa/Douala: {
-    Generic: Kamerun,
-    Standard: Kamerun (+0),
-    Daylight: Kamerun (+1)
-  },
-  Africa/Algiers: {
-    Generic: CTE (waxtu ëroop sàntaraal),
-    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
-    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
-  },
-  Africa/Libreville: {
-    Generic: Gaboŋ,
-    Standard: Gaboŋ (+0),
-    Daylight: Gaboŋ (+1)
-  },
-  Africa/Malabo: {
-    Generic: Gine Ekuwatoriyal,
-    Standard: Gine Ekuwatoriyal (+0),
-    Daylight: Gine Ekuwatoriyal (+1)
-  },
-  Africa/Niamey: {
-    Generic: Niiseer,
-    Standard: Niiseer (+0),
-    Daylight: Niiseer (+1)
-  },
-  Africa/Ndjamena: {
-    Generic: Càdd,
-    Standard: Càdd (+0),
-    Daylight: Càdd (+1)
-  },
-  Africa/Tunis: {
-    Generic: CTE (waxtu ëroop sàntaraal),
-    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
-    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
-  },
-  Etc/GMT-1: {
-    Generic: CUT (waxtu iniwelsel yuñ boole) +1,
-    Standard: CUT (waxtu iniwelsel yuñ boole) +1,
-    Daylight: CUT (waxtu iniwelsel yuñ boole) +1
-  },
-  Europe/Berlin: {
-    Generic: CTE (waxtu ëroop sàntaraal),
-    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
-    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
-  },
-  Europe/Andorra: {
-    Generic: CTE (waxtu ëroop sàntaraal),
-    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
-    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
-  },
-  Europe/Vienna: {
-    Generic: CTE (waxtu ëroop sàntaraal),
-    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
-    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
-  },
-  Europe/Zurich: {
-    Generic: CTE (waxtu ëroop sàntaraal),
-    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
-    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
-  },
-  Europe/Busingen: {
-    Generic: CTE (waxtu ëroop sàntaraal),
-    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
-    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
-  },
-  Europe/Gibraltar: {
-    Generic: CTE (waxtu ëroop sàntaraal),
-    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
-    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
-  },
-  Europe/Rome: {
-    Generic: CTE (waxtu ëroop sàntaraal),
-    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
-    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
-  },
-  Europe/Vaduz: {
-    Generic: CTE (waxtu ëroop sàntaraal),
-    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
-    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
-  },
-  Europe/Luxembourg: {
-    Generic: CTE (waxtu ëroop sàntaraal),
-    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
-    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
-  },
-  Europe/Monaco: {
-    Generic: CTE (waxtu ëroop sàntaraal),
-    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
-    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
-  },
-  Europe/Malta: {
-    Generic: CTE (waxtu ëroop sàntaraal),
-    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
-    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
-  },
-  Europe/Amsterdam: {
-    Generic: CTE (waxtu ëroop sàntaraal),
-    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
-    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
-  },
-  Europe/Oslo: {
-    Generic: CTE (waxtu ëroop sàntaraal),
-    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
-    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
-  },
-  Europe/Stockholm: {
-    Generic: CTE (waxtu ëroop sàntaraal),
-    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
-    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  Antarctica/Vostok: {
+    Generic: Antarktik,
+    Standard: Antarktik (+0),
+    Daylight: Antarktik (+1)
   },
   Arctic/Longyearbyen: {
     Generic: CTE (waxtu ëroop sàntaraal),
     Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
     Daylight: CEST (waxtu ete wu ëroop sàntaraal)
   },
-  Europe/San_Marino: {
-    Generic: CTE (waxtu ëroop sàntaraal),
-    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
-    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  Asia/Aden: {
+    Generic: Yaman,
+    Standard: Yaman (+0),
+    Daylight: Yaman (+1)
   },
-  Europe/Vatican: {
-    Generic: CTE (waxtu ëroop sàntaraal),
-    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
-    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
-  },
-  Asia/Hovd: {
-    Generic: Mongoli,
-    Standard: Mongoli (+0),
-    Daylight: Mongoli (+1)
-  },
-  Asia/Tashkent: {
-    Generic: Usbekistaŋ,
-    Standard: Usbekistaŋ (+0),
-    Daylight: Usbekistaŋ (+1)
-  },
-  Antarctica/Mawson: {
-    Generic: Antarktik,
-    Standard: Antarktik (+0),
-    Daylight: Antarktik (+1)
-  },
-  Asia/Oral: {
+  Asia/Almaty: {
     Generic: Kasaxstaŋ,
     Standard: Kasaxstaŋ (+0),
     Daylight: Kasaxstaŋ (+1)
+  },
+  Asia/Amman: {
+    Generic: EET (waxtu ëroop u penku),
+    Standard: EEST (waxtu estàndaaru ëroop u penku),
+    Daylight: EEST (waxtu ete wu ëroop u penku)
+  },
+  Asia/Anadyr: {
+    Generic: Anadyr,
+    Standard: Anadyr (+0),
+    Daylight: Anadyr (+1)
   },
   Asia/Aqtau: {
     Generic: Kasaxstaŋ,
@@ -2199,415 +1199,75 @@
     Standard: Kasaxstaŋ (+0),
     Daylight: Kasaxstaŋ (+1)
   },
-  Asia/Atyrau: {
-    Generic: Kasaxstaŋ,
-    Standard: Kasaxstaŋ (+0),
-    Daylight: Kasaxstaŋ (+1)
-  },
-  Indian/Maldives: {
-    Generic: Maldiiw,
-    Standard: Maldiiw (+0),
-    Daylight: Maldiiw (+1)
-  },
-  Indian/Kerguelen: {
-    Generic: Teer Ostraal gu Fraas,
-    Standard: Teer Ostraal gu Fraas (+0),
-    Daylight: Teer Ostraal gu Fraas (+1)
-  },
-  Asia/Dushanbe: {
-    Generic: Tajikistaŋ,
-    Standard: Tajikistaŋ (+0),
-    Daylight: Tajikistaŋ (+1)
-  },
   Asia/Ashgabat: {
     Generic: Tirkmenistaŋ,
     Standard: Tirkmenistaŋ (+0),
     Daylight: Tirkmenistaŋ (+1)
-  },
-  Asia/Samarkand: {
-    Generic: Usbekistaŋ,
-    Standard: Usbekistaŋ (+0),
-    Daylight: Usbekistaŋ (+1)
-  },
-  Etc/GMT-5: {
-    Generic: CUT (waxtu iniwelsel yuñ boole) +5,
-    Standard: CUT (waxtu iniwelsel yuñ boole) +5,
-    Daylight: CUT (waxtu iniwelsel yuñ boole) +5
-  },
-  Asia/Hebron: {
-    Generic: EET (waxtu ëroop u penku),
-    Standard: EEST (waxtu estàndaaru ëroop u penku),
-    Daylight: EEST (waxtu ete wu ëroop u penku)
-  },
-  Asia/Gaza: {
-    Generic: EET (waxtu ëroop u penku),
-    Standard: EEST (waxtu estàndaaru ëroop u penku),
-    Daylight: EEST (waxtu ete wu ëroop u penku)
-  },
-  Pacific/Port_Moresby: {
-    Generic: Papuwasi Gine Gu Bees,
-    Standard: Papuwasi Gine Gu Bees (+0),
-    Daylight: Papuwasi Gine Gu Bees (+1)
-  },
-  Antarctica/DumontDUrville: {
-    Generic: Antarktik,
-    Standard: Antarktik (+0),
-    Daylight: Antarktik (+1)
-  },
-  Pacific/Truk: {
-    Generic: Mikoronesi,
-    Standard: Mikoronesi (+0),
-    Daylight: Mikoronesi (+1)
-  },
-  Pacific/Guam: {
-    Generic: Guwam,
-    Standard: Guwam (+0),
-    Daylight: Guwam (+1)
-  },
-  Pacific/Saipan: {
-    Generic: Duni Mariyaan Noor,
-    Standard: Duni Mariyaan Noor (+0),
-    Daylight: Duni Mariyaan Noor (+1)
-  },
-  Etc/GMT-10: {
-    Generic: CUT (waxtu iniwelsel yuñ boole) +10,
-    Standard: CUT (waxtu iniwelsel yuñ boole) +10,
-    Daylight: CUT (waxtu iniwelsel yuñ boole) +10
-  },
-  Asia/Yakutsk: {
-    Generic: Yakutsk,
-    Standard: Yakutsk (+0),
-    Daylight: Yakutsk (+1)
-  },
-  Asia/Khandyga: {
-    Generic: Khandyga,
-    Standard: Khandyga (+0),
-    Daylight: Khandyga (+1)
-  },
-  America/Whitehorse: {
-    Generic: Kanadaa,
-    Standard: Kanadaa (+0),
-    Daylight: Kanadaa (+1)
-  },
-  America/Dawson: {
-    Generic: Kanadaa,
-    Standard: Kanadaa (+0),
-    Daylight: Kanadaa (+1)
-  },
-  Iceland: {
-    Generic: GMT (waxtu Greenwich),
-    Standard: GMT (waxtu Greenwich),
-    Daylight: GMT (waxtu Greenwich)
-  },
-  Africa/Timbuktu: {
-    Generic: GMT (waxtu Greenwich),
-    Standard: GMT (waxtu Greenwich),
-    Daylight: GMT (waxtu Greenwich)
-  },
-  Egypt: {
-    Generic: EET (waxtu ëroop u penku),
-    Standard: EEST (waxtu estàndaaru ëroop u penku),
-    Daylight: EEST (waxtu ete wu ëroop u penku)
-  },
-  Africa/Asmara: {
-    Generic: Eritere,
-    Standard: Eritere (+0),
-    Daylight: Eritere (+1)
-  },
-  Libya: {
-    Generic: EET (waxtu ëroop u penku),
-    Standard: EEST (waxtu estàndaaru ëroop u penku),
-    Daylight: EEST (waxtu ete wu ëroop u penku)
-  },
-  America/Atka: {
-    Generic: Etaa Sini,
-    Standard: Etaa Sini (+0),
-    Daylight: Etaa Sini (+1)
-  },
-  US/Aleutian: {
-    Generic: Etaa Sini,
-    Standard: Etaa Sini (+0),
-    Daylight: Etaa Sini (+1)
-  },
-  US/Alaska: {
-    Generic: Etaa Sini,
-    Standard: Etaa Sini (+0),
-    Daylight: Etaa Sini (+1)
-  },
-  America/Argentina/Buenos_Aires: {
-    Generic: Arsàntin,
-    Standard: Arsàntin (+0),
-    Daylight: Arsàntin (+1)
-  },
-  America/Argentina/Catamarca: {
-    Generic: Arsàntin,
-    Standard: Arsàntin (+0),
-    Daylight: Arsàntin (+1)
-  },
-  America/Argentina/ComodRivadavia: {
-    Generic: Arsàntin,
-    Standard: Arsàntin (+0),
-    Daylight: Arsàntin (+1)
-  },
-  America/Argentina/Cordoba: {
-    Generic: Arsàntin,
-    Standard: Arsàntin (+0),
-    Daylight: Arsàntin (+1)
-  },
-  America/Rosario: {
-    Generic: Arsàntin,
-    Standard: Arsàntin (+0),
-    Daylight: Arsàntin (+1)
-  },
-  America/Argentina/Jujuy: {
-    Generic: Arsàntin,
-    Standard: Arsàntin (+0),
-    Daylight: Arsàntin (+1)
-  },
-  America/Argentina/Mendoza: {
-    Generic: Arsàntin,
-    Standard: Arsàntin (+0),
-    Daylight: Arsàntin (+1)
-  },
-  US/Central: {
-    Generic: CT (waxtu sàntaral),
-    Standard: CST (waxtu estàndaaru sàntaraal),
-    Daylight: CDT (waxtu bëccëgu sàntaraal
-  },
-  America/Shiprock: {
-    Generic: MT (waxtu tundu),
-    Standard: MST (waxtu estàndaaru tundu),
-    Daylight: MDT (waxtu bëccëgu tundu)
-  },
-  Navajo: {
-    Generic: MT (waxtu tundu),
-    Standard: MST (waxtu estàndaaru tundu),
-    Daylight: MDT (waxtu bëccëgu tundu)
-  },
-  US/Mountain: {
-    Generic: MT (waxtu tundu),
-    Standard: MST (waxtu estàndaaru tundu),
-    Daylight: MDT (waxtu bëccëgu tundu)
-  },
-  US/Michigan: {
-    Generic: ET waxtu penku,
-    Standard: EST (waxtu estàndaaru penku),
-    Daylight: EDT (waxtu bëccëgu penku)
-  },
-  Canada/Mountain: {
-    Generic: MT (waxtu tundu),
-    Standard: MST (waxtu estàndaaru tundu),
-    Daylight: MDT (waxtu bëccëgu tundu)
-  },
-  Canada/Atlantic: {
-    Generic: AT (waxtu atlàntik),
-    Standard: AST (waxtu estàndaaru penku),
-    Daylight: ADT (waxtu bëccëgu atlàntik)
-  },
-  Cuba: {
-    Generic: Kuba,
-    Standard: Kuba (+0),
-    Daylight: Kuba (+1)
-  },
-  America/Indiana/Indianapolis: {
-    Generic: ET waxtu penku,
-    Standard: EST (waxtu estàndaaru penku),
-    Daylight: EDT (waxtu bëccëgu penku)
-  },
-  US/East-Indiana: {
-    Generic: ET waxtu penku,
-    Standard: EST (waxtu estàndaaru penku),
-    Daylight: EDT (waxtu bëccëgu penku)
-  },
-  America/Knox_IN: {
-    Generic: CT (waxtu sàntaral),
-    Standard: CST (waxtu estàndaaru sàntaraal),
-    Daylight: CDT (waxtu bëccëgu sàntaraal
-  },
-  US/Indiana-Starke: {
-    Generic: CT (waxtu sàntaral),
-    Standard: CST (waxtu estàndaaru sàntaraal),
-    Daylight: CDT (waxtu bëccëgu sàntaraal
-  },
-  Jamaica: {
-    Generic: ET waxtu penku,
-    Standard: EST (waxtu estàndaaru penku),
-    Daylight: EDT (waxtu bëccëgu penku)
-  },
-  America/Kentucky/Louisville: {
-    Generic: ET waxtu penku,
-    Standard: EST (waxtu estàndaaru penku),
-    Daylight: EDT (waxtu bëccëgu penku)
-  },
-  US/Pacific: {
-    Generic: PT (waxtu pasifik),
-    Standard: PST (waxtu estàndaaru pasifik),
-    Daylight: PDT (waxtu bëccëgu pasifik)
-  },
-  Brazil/West: {
-    Generic: Beresil,
-    Standard: Beresil (+0),
-    Daylight: Beresil (+1)
-  },
-  Mexico/BajaSur: {
-    Generic: Meksiko,
-    Standard: Meksiko (+0),
-    Daylight: Meksiko (+1)
-  },
-  Mexico/General: {
-    Generic: CT (waxtu sàntaral),
-    Standard: CST (waxtu estàndaaru sàntaraal),
-    Daylight: CDT (waxtu bëccëgu sàntaraal
-  },
-  US/Eastern: {
-    Generic: ET waxtu penku,
-    Standard: EST (waxtu estàndaaru penku),
-    Daylight: EDT (waxtu bëccëgu penku)
-  },
-  Brazil/DeNoronha: {
-    Generic: Beresil,
-    Standard: Beresil (+0),
-    Daylight: Beresil (+1)
-  },
-  America/Nuuk: {
-    Generic: Girinlànd,
-    Standard: Girinlànd (+0),
-    Daylight: Girinlànd (+1)
-  },
-  America/Atikokan: {
-    Generic: ET waxtu penku,
-    Standard: EST (waxtu estàndaaru penku),
-    Daylight: EDT (waxtu bëccëgu penku)
-  },
-  US/Arizona: {
-    Generic: MT (waxtu tundu),
-    Standard: MST (waxtu estàndaaru tundu),
-    Daylight: MDT (waxtu bëccëgu tundu)
-  },
-  America/Virgin: {
-    Generic: AT (waxtu atlàntik),
-    Standard: AST (waxtu estàndaaru penku),
-    Daylight: ADT (waxtu bëccëgu atlàntik)
-  },
-  Canada/Saskatchewan: {
-    Generic: CT (waxtu sàntaral),
-    Standard: CST (waxtu estàndaaru sàntaraal),
-    Daylight: CDT (waxtu bëccëgu sàntaraal
-  },
-  America/Porto_Acre: {
-    Generic: Beresil,
-    Standard: Beresil (+0),
-    Daylight: Beresil (+1)
-  },
-  Brazil/Acre: {
-    Generic: Beresil,
-    Standard: Beresil (+0),
-    Daylight: Beresil (+1)
-  },
-  Chile/Continental: {
-    Generic: Sili,
-    Standard: Sili (+0),
-    Daylight: Sili (+1)
-  },
-  Brazil/East: {
-    Generic: Beresil,
-    Standard: Beresil (+0),
-    Daylight: Beresil (+1)
-  },
-  Canada/Newfoundland: {
-    Generic: Kanadaa,
-    Standard: Kanadaa (+0),
-    Daylight: Kanadaa (+1)
-  },
-  America/Ensenada: {
-    Generic: PT (waxtu pasifik),
-    Standard: PST (waxtu estàndaaru pasifik),
-    Daylight: PDT (waxtu bëccëgu pasifik)
-  },
-  Mexico/BajaNorte: {
-    Generic: PT (waxtu pasifik),
-    Standard: PST (waxtu estàndaaru pasifik),
-    Daylight: PDT (waxtu bëccëgu pasifik)
-  },
-  Canada/Eastern: {
-    Generic: ET waxtu penku,
-    Standard: EST (waxtu estàndaaru penku),
-    Daylight: EDT (waxtu bëccëgu penku)
-  },
-  Canada/Pacific: {
-    Generic: PT (waxtu pasifik),
-    Standard: PST (waxtu estàndaaru pasifik),
-    Daylight: PDT (waxtu bëccëgu pasifik)
-  },
-  Canada/Yukon: {
-    Generic: Kanadaa,
-    Standard: Kanadaa (+0),
-    Daylight: Kanadaa (+1)
-  },
-  Canada/Central: {
-    Generic: CT (waxtu sàntaral),
-    Standard: CST (waxtu estàndaaru sàntaraal),
-    Daylight: CDT (waxtu bëccëgu sàntaraal
   },
   Asia/Ashkhabad: {
     Generic: Tirkmenistaŋ,
     Standard: Tirkmenistaŋ (+0),
     Daylight: Tirkmenistaŋ (+1)
   },
-  Asia/Dacca: {
-    Generic: Bengalades,
-    Standard: Bengalades (+0),
-    Daylight: Bengalades (+1)
+  Asia/Atyrau: {
+    Generic: Kasaxstaŋ,
+    Standard: Kasaxstaŋ (+0),
+    Daylight: Kasaxstaŋ (+1)
   },
-  Asia/Ho_Chi_Minh: {
-    Generic: Wiyetnam,
-    Standard: Wiyetnam (+0),
-    Daylight: Wiyetnam (+1)
+  Asia/Baghdad: {
+    Generic: Irag,
+    Standard: Irag (+0),
+    Daylight: Irag (+1)
   },
-  Hongkong: {
-    Generic: Ooŋ Koŋ,
-    Standard: Ooŋ Koŋ (+0),
-    Daylight: Ooŋ Koŋ (+1)
+  Asia/Bahrain: {
+    Generic: Bahreyin,
+    Standard: Bahreyin (+0),
+    Daylight: Bahreyin (+1)
   },
-  Asia/Tel_Aviv: {
-    Generic: Israyel,
-    Standard: Israyel (+0),
-    Daylight: Israyel (+1)
+  Asia/Baku: {
+    Generic: Aserbayjaŋ,
+    Standard: Aserbayjaŋ (+0),
+    Daylight: Aserbayjaŋ (+1)
   },
-  Israel: {
-    Generic: Israyel,
-    Standard: Israyel (+0),
-    Daylight: Israyel (+1)
+  Asia/Bangkok: {
+    Generic: Taylànd,
+    Standard: Taylànd (+0),
+    Daylight: Taylànd (+1)
   },
-  Asia/Kathmandu: {
-    Generic: Nepaal,
-    Standard: Nepaal (+0),
-    Daylight: Nepaal (+1)
+  Asia/Barnaul: {
+    Generic: Barnaul,
+    Standard: Barnaul (+0),
+    Daylight: Barnaul (+1)
   },
-  Asia/Kolkata: {
-    Generic: End,
-    Standard: End (+0),
-    Daylight: End (+1)
-  },
-  Asia/Macao: {
-    Generic: Makaawo,
-    Standard: Makaawo (+0),
-    Daylight: Makaawo (+1)
-  },
-  Asia/Ujung_Pandang: {
-    Generic: Indonesi,
-    Standard: Indonesi (+0),
-    Daylight: Indonesi (+1)
-  },
-  Europe/Nicosia: {
+  Asia/Beirut: {
     Generic: EET (waxtu ëroop u penku),
     Standard: EEST (waxtu estàndaaru ëroop u penku),
     Daylight: EEST (waxtu ete wu ëroop u penku)
   },
-  ROK: {
-    Generic: Seoul,
-    Standard: Seoul (+0),
-    Daylight: Seoul (+1)
+  Asia/Bishkek: {
+    Generic: Kirgistaŋ,
+    Standard: Kirgistaŋ (+0),
+    Daylight: Kirgistaŋ (+1)
+  },
+  Asia/Brunei: {
+    Generic: Burney,
+    Standard: Burney (+0),
+    Daylight: Burney (+1)
+  },
+  Asia/Calcutta: {
+    Generic: End,
+    Standard: End (+0),
+    Daylight: End (+1)
+  },
+  Asia/Chita: {
+    Generic: Chita,
+    Standard: Chita (+0),
+    Daylight: Chita (+1)
+  },
+  Asia/Choibalsan: {
+    Generic: Mongoli,
+    Standard: Mongoli (+0),
+    Daylight: Mongoli (+1)
   },
   Asia/Chongqing: {
     Generic: Siin,
@@ -2619,57 +1279,412 @@
     Standard: Siin (+0),
     Daylight: Siin (+1)
   },
+  Asia/Colombo: {
+    Generic: Siri Lànka,
+    Standard: Siri Lànka (+0),
+    Daylight: Siri Lànka (+1)
+  },
+  Asia/Dacca: {
+    Generic: Bengalades,
+    Standard: Bengalades (+0),
+    Daylight: Bengalades (+1)
+  },
+  Asia/Damascus: {
+    Generic: EET (waxtu ëroop u penku),
+    Standard: EEST (waxtu estàndaaru ëroop u penku),
+    Daylight: EEST (waxtu ete wu ëroop u penku)
+  },
+  Asia/Dhaka: {
+    Generic: Bengalades,
+    Standard: Bengalades (+0),
+    Daylight: Bengalades (+1)
+  },
+  Asia/Dili: {
+    Generic: Timor Leste,
+    Standard: Timor Leste (+0),
+    Daylight: Timor Leste (+1)
+  },
+  Asia/Dubai: {
+    Generic: Emira Arab Ini,
+    Standard: Emira Arab Ini (+0),
+    Daylight: Emira Arab Ini (+1)
+  },
+  Asia/Dushanbe: {
+    Generic: Tajikistaŋ,
+    Standard: Tajikistaŋ (+0),
+    Daylight: Tajikistaŋ (+1)
+  },
+  Asia/Famagusta: {
+    Generic: EET (waxtu ëroop u penku),
+    Standard: EEST (waxtu estàndaaru ëroop u penku),
+    Daylight: EEST (waxtu ete wu ëroop u penku)
+  },
+  Asia/Gaza: {
+    Generic: EET (waxtu ëroop u penku),
+    Standard: EEST (waxtu estàndaaru ëroop u penku),
+    Daylight: EEST (waxtu ete wu ëroop u penku)
+  },
   Asia/Harbin: {
     Generic: Siin,
     Standard: Siin (+0),
     Daylight: Siin (+1)
   },
-  PRC: {
-    Generic: Siin,
-    Standard: Siin (+0),
-    Daylight: Siin (+1)
+  Asia/Hebron: {
+    Generic: EET (waxtu ëroop u penku),
+    Standard: EEST (waxtu estàndaaru ëroop u penku),
+    Daylight: EEST (waxtu ete wu ëroop u penku)
   },
-  Singapore: {
-    Generic: Singapuur,
-    Standard: Singapuur (+0),
-    Daylight: Singapuur (+1)
+  Asia/Ho_Chi_Minh: {
+    Generic: Wiyetnam,
+    Standard: Wiyetnam (+0),
+    Daylight: Wiyetnam (+1)
   },
-  ROC: {
-    Generic: Taywan,
-    Standard: Taywan (+0),
-    Daylight: Taywan (+1)
+  Asia/Hong_Kong: {
+    Generic: Ooŋ Koŋ,
+    Standard: Ooŋ Koŋ (+0),
+    Daylight: Ooŋ Koŋ (+1)
   },
-  Iran: {
-    Generic: Iraŋ,
-    Standard: Iraŋ (+0),
-    Daylight: Iraŋ (+1)
-  },
-  Asia/Thimbu: {
-    Generic: Butaŋ,
-    Standard: Butaŋ (+0),
-    Daylight: Butaŋ (+1)
-  },
-  Japan: {
-    Generic: Sàppoŋ,
-    Standard: Sàppoŋ (+0),
-    Daylight: Sàppoŋ (+1)
-  },
-  Asia/Ulan_Bator: {
+  Asia/Hovd: {
     Generic: Mongoli,
     Standard: Mongoli (+0),
     Daylight: Mongoli (+1)
+  },
+  Asia/Irkutsk: {
+    Generic: Irkutsk,
+    Standard: Irkutsk (+0),
+    Daylight: Irkutsk (+1)
+  },
+  Asia/Istanbul: {
+    Generic: Tirki,
+    Standard: Tirki (+0),
+    Daylight: Tirki (+1)
+  },
+  Asia/Jakarta: {
+    Generic: Indonesi,
+    Standard: Indonesi (+0),
+    Daylight: Indonesi (+1)
+  },
+  Asia/Jayapura: {
+    Generic: Indonesi,
+    Standard: Indonesi (+0),
+    Daylight: Indonesi (+1)
+  },
+  Asia/Jerusalem: {
+    Generic: Israyel,
+    Standard: Israyel (+0),
+    Daylight: Israyel (+1)
+  },
+  Asia/Kabul: {
+    Generic: Afganistaŋ,
+    Standard: Afganistaŋ (+0),
+    Daylight: Afganistaŋ (+1)
+  },
+  Asia/Kamchatka: {
+    Generic: Kamchatka,
+    Standard: Kamchatka (+0),
+    Daylight: Kamchatka (+1)
+  },
+  Asia/Karachi: {
+    Generic: Pakistaŋ,
+    Standard: Pakistaŋ (+0),
+    Daylight: Pakistaŋ (+1)
   },
   Asia/Kashgar: {
     Generic: Siin,
     Standard: Siin (+0),
     Daylight: Siin (+1)
   },
+  Asia/Kathmandu: {
+    Generic: Nepaal,
+    Standard: Nepaal (+0),
+    Daylight: Nepaal (+1)
+  },
+  Asia/Katmandu: {
+    Generic: Nepaal,
+    Standard: Nepaal (+0),
+    Daylight: Nepaal (+1)
+  },
+  Asia/Khandyga: {
+    Generic: Khandyga,
+    Standard: Khandyga (+0),
+    Daylight: Khandyga (+1)
+  },
+  Asia/Kolkata: {
+    Generic: End,
+    Standard: End (+0),
+    Daylight: End (+1)
+  },
+  Asia/Krasnoyarsk: {
+    Generic: Krasnoyarsk,
+    Standard: Krasnoyarsk (+0),
+    Daylight: Krasnoyarsk (+1)
+  },
+  Asia/Kuala_Lumpur: {
+    Generic: Malesi,
+    Standard: Malesi (+0),
+    Daylight: Malesi (+1)
+  },
+  Asia/Kuching: {
+    Generic: Malesi,
+    Standard: Malesi (+0),
+    Daylight: Malesi (+1)
+  },
+  Asia/Kuwait: {
+    Generic: Kowet,
+    Standard: Kowet (+0),
+    Daylight: Kowet (+1)
+  },
+  Asia/Macao: {
+    Generic: Makaawo,
+    Standard: Makaawo (+0),
+    Daylight: Makaawo (+1)
+  },
+  Asia/Macau: {
+    Generic: Makaawo,
+    Standard: Makaawo (+0),
+    Daylight: Makaawo (+1)
+  },
+  Asia/Magadan: {
+    Generic: Magadan,
+    Standard: Magadan (+0),
+    Daylight: Magadan (+1)
+  },
+  Asia/Makassar: {
+    Generic: Indonesi,
+    Standard: Indonesi (+0),
+    Daylight: Indonesi (+1)
+  },
+  Asia/Manila: {
+    Generic: Filipin,
+    Standard: Filipin (+0),
+    Daylight: Filipin (+1)
+  },
+  Asia/Muscat: {
+    Generic: Omaan,
+    Standard: Omaan (+0),
+    Daylight: Omaan (+1)
+  },
+  Asia/Nicosia: {
+    Generic: EET (waxtu ëroop u penku),
+    Standard: EEST (waxtu estàndaaru ëroop u penku),
+    Daylight: EEST (waxtu ete wu ëroop u penku)
+  },
+  Asia/Novokuznetsk: {
+    Generic: Novokuznetsk,
+    Standard: Novokuznetsk (+0),
+    Daylight: Novokuznetsk (+1)
+  },
+  Asia/Novosibirsk: {
+    Generic: Novosibirsk,
+    Standard: Novosibirsk (+0),
+    Daylight: Novosibirsk (+1)
+  },
+  Asia/Omsk: {
+    Generic: Omsk,
+    Standard: Omsk (+0),
+    Daylight: Omsk (+1)
+  },
+  Asia/Oral: {
+    Generic: Kasaxstaŋ,
+    Standard: Kasaxstaŋ (+0),
+    Daylight: Kasaxstaŋ (+1)
+  },
+  Asia/Phnom_Penh: {
+    Generic: Kàmboj,
+    Standard: Kàmboj (+0),
+    Daylight: Kàmboj (+1)
+  },
+  Asia/Pontianak: {
+    Generic: Indonesi,
+    Standard: Indonesi (+0),
+    Daylight: Indonesi (+1)
+  },
+  Asia/Pyongyang: {
+    Generic: Kore Noor,
+    Standard: Kore Noor (+0),
+    Daylight: Kore Noor (+1)
+  },
+  Asia/Qatar: {
+    Generic: Kataar,
+    Standard: Kataar (+0),
+    Daylight: Kataar (+1)
+  },
+  Asia/Qostanay: {
+    Generic: Kasaxstaŋ,
+    Standard: Kasaxstaŋ (+0),
+    Daylight: Kasaxstaŋ (+1)
+  },
+  Asia/Qyzylorda: {
+    Generic: Kasaxstaŋ,
+    Standard: Kasaxstaŋ (+0),
+    Daylight: Kasaxstaŋ (+1)
+  },
+  Asia/Rangoon: {
+    Generic: Miyanmaar,
+    Standard: Miyanmaar (+0),
+    Daylight: Miyanmaar (+1)
+  },
+  Asia/Riyadh: {
+    Generic: Arabi Sawudi,
+    Standard: Arabi Sawudi (+0),
+    Daylight: Arabi Sawudi (+1)
+  },
+  Asia/Saigon: {
+    Generic: Wiyetnam,
+    Standard: Wiyetnam (+0),
+    Daylight: Wiyetnam (+1)
+  },
+  Asia/Sakhalin: {
+    Generic: Sakhalin,
+    Standard: Sakhalin (+0),
+    Daylight: Sakhalin (+1)
+  },
+  Asia/Samarkand: {
+    Generic: Usbekistaŋ,
+    Standard: Usbekistaŋ (+0),
+    Daylight: Usbekistaŋ (+1)
+  },
+  Asia/Seoul: {
+    Generic: Seoul,
+    Standard: Seoul (+0),
+    Daylight: Seoul (+1)
+  },
+  Asia/Shanghai: {
+    Generic: Siin,
+    Standard: Siin (+0),
+    Daylight: Siin (+1)
+  },
+  Asia/Singapore: {
+    Generic: Singapuur,
+    Standard: Singapuur (+0),
+    Daylight: Singapuur (+1)
+  },
+  Asia/Srednekolymsk: {
+    Generic: Srednekolymsk,
+    Standard: Srednekolymsk (+0),
+    Daylight: Srednekolymsk (+1)
+  },
+  Asia/Taipei: {
+    Generic: Taywan,
+    Standard: Taywan (+0),
+    Daylight: Taywan (+1)
+  },
+  Asia/Tashkent: {
+    Generic: Usbekistaŋ,
+    Standard: Usbekistaŋ (+0),
+    Daylight: Usbekistaŋ (+1)
+  },
+  Asia/Tbilisi: {
+    Generic: Seworsi,
+    Standard: Seworsi (+0),
+    Daylight: Seworsi (+1)
+  },
+  Asia/Tehran: {
+    Generic: Iraŋ,
+    Standard: Iraŋ (+0),
+    Daylight: Iraŋ (+1)
+  },
+  Asia/Tel_Aviv: {
+    Generic: Israyel,
+    Standard: Israyel (+0),
+    Daylight: Israyel (+1)
+  },
+  Asia/Thimbu: {
+    Generic: Butaŋ,
+    Standard: Butaŋ (+0),
+    Daylight: Butaŋ (+1)
+  },
+  Asia/Thimphu: {
+    Generic: Butaŋ,
+    Standard: Butaŋ (+0),
+    Daylight: Butaŋ (+1)
+  },
+  Asia/Tokyo: {
+    Generic: Sàppoŋ,
+    Standard: Sàppoŋ (+0),
+    Daylight: Sàppoŋ (+1)
+  },
+  Asia/Tomsk: {
+    Generic: Tomsk,
+    Standard: Tomsk (+0),
+    Daylight: Tomsk (+1)
+  },
+  Asia/Ujung_Pandang: {
+    Generic: Indonesi,
+    Standard: Indonesi (+0),
+    Daylight: Indonesi (+1)
+  },
+  Asia/Ulaanbaatar: {
+    Generic: Mongoli,
+    Standard: Mongoli (+0),
+    Daylight: Mongoli (+1)
+  },
+  Asia/Ulan_Bator: {
+    Generic: Mongoli,
+    Standard: Mongoli (+0),
+    Daylight: Mongoli (+1)
+  },
+  Asia/Urumqi: {
+    Generic: Siin,
+    Standard: Siin (+0),
+    Daylight: Siin (+1)
+  },
+  Asia/Ust-Nera: {
+    Generic: Ust-Nera,
+    Standard: Ust-Nera (+0),
+    Daylight: Ust-Nera (+1)
+  },
+  Asia/Vientiane: {
+    Generic: Lawos,
+    Standard: Lawos (+0),
+    Daylight: Lawos (+1)
+  },
+  Asia/Vladivostok: {
+    Generic: Vladivostok,
+    Standard: Vladivostok (+0),
+    Daylight: Vladivostok (+1)
+  },
+  Asia/Yakutsk: {
+    Generic: Yakutsk,
+    Standard: Yakutsk (+0),
+    Daylight: Yakutsk (+1)
+  },
   Asia/Yangon: {
     Generic: Miyanmaar,
     Standard: Miyanmaar (+0),
     Daylight: Miyanmaar (+1)
   },
-  WET: {
+  Asia/Yekaterinburg: {
+    Generic: Yekaterinburg,
+    Standard: Yekaterinburg (+0),
+    Daylight: Yekaterinburg (+1)
+  },
+  Asia/Yerevan: {
+    Generic: Armeni,
+    Standard: Armeni (+0),
+    Daylight: Armeni (+1)
+  },
+  Atlantic/Azores: {
+    Generic: Portigaal,
+    Standard: Portigaal (+0),
+    Daylight: Portigaal (+1)
+  },
+  Atlantic/Bermuda: {
+    Generic: AT (waxtu atlàntik),
+    Standard: AST (waxtu estàndaaru penku),
+    Daylight: ADT (waxtu bëccëgu atlàntik)
+  },
+  Atlantic/Canary: {
+    Generic: WET (waxtu ëroop u sowwu-jant,
+    Standard: WEST (waxtu estàndaaru ëroop u sowwu-jant),
+    Daylight: WEST (waxtu ete wu ëroop u sowwu-jant)
+  },
+  Atlantic/Cape_Verde: {
+    Generic: Kabo Werde,
+    Standard: Kabo Werde (+0),
+    Daylight: Kabo Werde (+1)
+  },
+  Atlantic/Faeroe: {
     Generic: WET (waxtu ëroop u sowwu-jant,
     Standard: WEST (waxtu estàndaaru ëroop u sowwu-jant),
     Daylight: WEST (waxtu ete wu ëroop u sowwu-jant)
@@ -2679,17 +1694,102 @@
     Standard: WEST (waxtu estàndaaru ëroop u sowwu-jant),
     Daylight: WEST (waxtu ete wu ëroop u sowwu-jant)
   },
-  Australia/South: {
+  Atlantic/Jan_Mayen: {
+    Generic: CTE (waxtu ëroop sàntaraal),
+    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
+    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  },
+  Atlantic/Madeira: {
+    Generic: WET (waxtu ëroop u sowwu-jant,
+    Standard: WEST (waxtu estàndaaru ëroop u sowwu-jant),
+    Daylight: WEST (waxtu ete wu ëroop u sowwu-jant)
+  },
+  Atlantic/Reykjavik: {
+    Generic: GMT (waxtu Greenwich),
+    Standard: GMT (waxtu Greenwich),
+    Daylight: GMT (waxtu Greenwich)
+  },
+  Atlantic/South_Georgia: {
+    Generic: Seworsi di Sid ak Duni Sàndwiis di Sid,
+    Standard: Seworsi di Sid ak Duni Sàndwiis di Sid (+0),
+    Daylight: Seworsi di Sid ak Duni Sàndwiis di Sid (+1)
+  },
+  Atlantic/St_Helena: {
+    Generic: GMT (waxtu Greenwich),
+    Standard: GMT (waxtu Greenwich),
+    Daylight: GMT (waxtu Greenwich)
+  },
+  Atlantic/Stanley: {
+    Generic: Duni Falkland,
+    Standard: Duni Falkland (+0),
+    Daylight: Duni Falkland (+1)
+  },
+  Australia/ACT: {
     Generic: Ostarali,
     Standard: Ostarali (+0),
     Daylight: Ostarali (+1)
   },
-  Australia/Queensland: {
+  Australia/Adelaide: {
     Generic: Ostarali,
     Standard: Ostarali (+0),
     Daylight: Ostarali (+1)
   },
-  Australia/Yancowinna: {
+  Australia/Brisbane: {
+    Generic: Ostarali,
+    Standard: Ostarali (+0),
+    Daylight: Ostarali (+1)
+  },
+  Australia/Broken_Hill: {
+    Generic: Ostarali,
+    Standard: Ostarali (+0),
+    Daylight: Ostarali (+1)
+  },
+  Australia/Canberra: {
+    Generic: Ostarali,
+    Standard: Ostarali (+0),
+    Daylight: Ostarali (+1)
+  },
+  Australia/Currie: {
+    Generic: Currie,
+    Standard: Currie (+0),
+    Daylight: Currie (+1)
+  },
+  Australia/Darwin: {
+    Generic: Ostarali,
+    Standard: Ostarali (+0),
+    Daylight: Ostarali (+1)
+  },
+  Australia/Eucla: {
+    Generic: Ostarali,
+    Standard: Ostarali (+0),
+    Daylight: Ostarali (+1)
+  },
+  Australia/Hobart: {
+    Generic: Ostarali,
+    Standard: Ostarali (+0),
+    Daylight: Ostarali (+1)
+  },
+  Australia/LHI: {
+    Generic: Ostarali,
+    Standard: Ostarali (+0),
+    Daylight: Ostarali (+1)
+  },
+  Australia/Lindeman: {
+    Generic: Ostarali,
+    Standard: Ostarali (+0),
+    Daylight: Ostarali (+1)
+  },
+  Australia/Lord_Howe: {
+    Generic: Ostarali,
+    Standard: Ostarali (+0),
+    Daylight: Ostarali (+1)
+  },
+  Australia/Melbourne: {
+    Generic: Ostarali,
+    Standard: Ostarali (+0),
+    Daylight: Ostarali (+1)
+  },
+  Australia/NSW: {
     Generic: Ostarali,
     Standard: Ostarali (+0),
     Daylight: Ostarali (+1)
@@ -2699,12 +1799,27 @@
     Standard: Ostarali (+0),
     Daylight: Ostarali (+1)
   },
-  Australia/Tasmania: {
+  Australia/Perth: {
     Generic: Ostarali,
     Standard: Ostarali (+0),
     Daylight: Ostarali (+1)
   },
-  Australia/LHI: {
+  Australia/Queensland: {
+    Generic: Ostarali,
+    Standard: Ostarali (+0),
+    Daylight: Ostarali (+1)
+  },
+  Australia/South: {
+    Generic: Ostarali,
+    Standard: Ostarali (+0),
+    Daylight: Ostarali (+1)
+  },
+  Australia/Sydney: {
+    Generic: Ostarali,
+    Standard: Ostarali (+0),
+    Daylight: Ostarali (+1)
+  },
+  Australia/Tasmania: {
     Generic: Ostarali,
     Standard: Ostarali (+0),
     Daylight: Ostarali (+1)
@@ -2719,45 +1834,265 @@
     Standard: Ostarali (+0),
     Daylight: Ostarali (+1)
   },
-  Australia/ACT: {
+  Australia/Yancowinna: {
     Generic: Ostarali,
     Standard: Ostarali (+0),
     Daylight: Ostarali (+1)
   },
-  Australia/Canberra: {
-    Generic: Ostarali,
-    Standard: Ostarali (+0),
-    Daylight: Ostarali (+1)
+  Brazil/Acre: {
+    Generic: Beresil,
+    Standard: Beresil (+0),
+    Daylight: Beresil (+1)
   },
-  Australia/NSW: {
-    Generic: Ostarali,
-    Standard: Ostarali (+0),
-    Daylight: Ostarali (+1)
+  Brazil/DeNoronha: {
+    Generic: Beresil,
+    Standard: Beresil (+0),
+    Daylight: Beresil (+1)
   },
-  HST: {
-    Generic: CUT (waxtu iniwelsel yuñ boole) -10,
-    Standard: CUT (waxtu iniwelsel yuñ boole) -10,
-    Daylight: CUT (waxtu iniwelsel yuñ boole) -10
+  Brazil/East: {
+    Generic: Beresil,
+    Standard: Beresil (+0),
+    Daylight: Beresil (+1)
+  },
+  Brazil/West: {
+    Generic: Beresil,
+    Standard: Beresil (+0),
+    Daylight: Beresil (+1)
+  },
+  CET: {
+    Generic: CTE (waxtu ëroop sàntaraal),
+    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
+    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  },
+  CST6CDT: {
+    Generic: CT (waxtu sàntaral),
+    Standard: CST (waxtu estàndaaru sàntaraal),
+    Daylight: CDT (waxtu bëccëgu sàntaraal
+  },
+  Canada/Atlantic: {
+    Generic: AT (waxtu atlàntik),
+    Standard: AST (waxtu estàndaaru penku),
+    Daylight: ADT (waxtu bëccëgu atlàntik)
+  },
+  Canada/Central: {
+    Generic: CT (waxtu sàntaral),
+    Standard: CST (waxtu estàndaaru sàntaraal),
+    Daylight: CDT (waxtu bëccëgu sàntaraal
+  },
+  Canada/Eastern: {
+    Generic: ET waxtu penku,
+    Standard: EST (waxtu estàndaaru penku),
+    Daylight: EDT (waxtu bëccëgu penku)
+  },
+  Canada/Mountain: {
+    Generic: MT (waxtu tundu),
+    Standard: MST (waxtu estàndaaru tundu),
+    Daylight: MDT (waxtu bëccëgu tundu)
+  },
+  Canada/Newfoundland: {
+    Generic: Kanadaa,
+    Standard: Kanadaa (+0),
+    Daylight: Kanadaa (+1)
+  },
+  Canada/Pacific: {
+    Generic: PT (waxtu pasifik),
+    Standard: PST (waxtu estàndaaru pasifik),
+    Daylight: PDT (waxtu bëccëgu pasifik)
+  },
+  Canada/Saskatchewan: {
+    Generic: CT (waxtu sàntaral),
+    Standard: CST (waxtu estàndaaru sàntaraal),
+    Daylight: CDT (waxtu bëccëgu sàntaraal
+  },
+  Canada/Yukon: {
+    Generic: Kanadaa,
+    Standard: Kanadaa (+0),
+    Daylight: Kanadaa (+1)
+  },
+  Chile/Continental: {
+    Generic: Sili,
+    Standard: Sili (+0),
+    Daylight: Sili (+1)
+  },
+  Chile/EasterIsland: {
+    Generic: Sili,
+    Standard: Sili (+0),
+    Daylight: Sili (+1)
+  },
+  Cuba: {
+    Generic: Kuba,
+    Standard: Kuba (+0),
+    Daylight: Kuba (+1)
+  },
+  EET: {
+    Generic: EET (waxtu ëroop u penku),
+    Standard: EEST (waxtu estàndaaru ëroop u penku),
+    Daylight: EEST (waxtu ete wu ëroop u penku)
   },
   EST: {
     Generic: CUT (waxtu iniwelsel yuñ boole) -5,
     Standard: CUT (waxtu iniwelsel yuñ boole) -5,
     Daylight: CUT (waxtu iniwelsel yuñ boole) -5
   },
-  MST: {
-    Generic: CUT (waxtu iniwelsel yuñ boole) -7,
-    Standard: CUT (waxtu iniwelsel yuñ boole) -7,
-    Daylight: CUT (waxtu iniwelsel yuñ boole) -7
+  EST5EDT: {
+    Generic: ET waxtu penku,
+    Standard: EST (waxtu estàndaaru penku),
+    Daylight: EDT (waxtu bëccëgu penku)
+  },
+  Egypt: {
+    Generic: EET (waxtu ëroop u penku),
+    Standard: EEST (waxtu estàndaaru ëroop u penku),
+    Daylight: EEST (waxtu ete wu ëroop u penku)
+  },
+  Eire: {
+    Generic: GMT (waxtu Greenwich),
+    Standard: GMT (waxtu Greenwich),
+    Daylight: GMT (waxtu Greenwich)
+  },
+  Etc/GMT: {
+    Generic: GMT (waxtu Greenwich),
+    Standard: GMT (waxtu Greenwich),
+    Daylight: GMT (waxtu Greenwich)
   },
   Etc/GMT+0: {
     Generic: GMT (waxtu Greenwich),
     Standard: GMT (waxtu Greenwich),
     Daylight: GMT (waxtu Greenwich)
   },
+  Etc/GMT+1: {
+    Generic: CUT (waxtu iniwelsel yuñ boole) -1,
+    Standard: CUT (waxtu iniwelsel yuñ boole) -1,
+    Daylight: CUT (waxtu iniwelsel yuñ boole) -1
+  },
+  Etc/GMT+10: {
+    Generic: CUT (waxtu iniwelsel yuñ boole) -10,
+    Standard: CUT (waxtu iniwelsel yuñ boole) -10,
+    Daylight: CUT (waxtu iniwelsel yuñ boole) -10
+  },
+  Etc/GMT+11: {
+    Generic: CUT (waxtu iniwelsel yuñ boole) -11,
+    Standard: CUT (waxtu iniwelsel yuñ boole) -11,
+    Daylight: CUT (waxtu iniwelsel yuñ boole) -11
+  },
+  Etc/GMT+12: {
+    Generic: CUT (waxtu iniwelsel yuñ boole) -12,
+    Standard: CUT (waxtu iniwelsel yuñ boole) -12,
+    Daylight: CUT (waxtu iniwelsel yuñ boole) -12
+  },
+  Etc/GMT+2: {
+    Generic: CUT (waxtu iniwelsel yuñ boole) -2,
+    Standard: CUT (waxtu iniwelsel yuñ boole) -2,
+    Daylight: CUT (waxtu iniwelsel yuñ boole) -2
+  },
+  Etc/GMT+3: {
+    Generic: CUT (waxtu iniwelsel yuñ boole) -3,
+    Standard: CUT (waxtu iniwelsel yuñ boole) -3,
+    Daylight: CUT (waxtu iniwelsel yuñ boole) -3
+  },
+  Etc/GMT+4: {
+    Generic: CUT (waxtu iniwelsel yuñ boole) -4,
+    Standard: CUT (waxtu iniwelsel yuñ boole) -4,
+    Daylight: CUT (waxtu iniwelsel yuñ boole) -4
+  },
+  Etc/GMT+5: {
+    Generic: CUT (waxtu iniwelsel yuñ boole) -5,
+    Standard: CUT (waxtu iniwelsel yuñ boole) -5,
+    Daylight: CUT (waxtu iniwelsel yuñ boole) -5
+  },
+  Etc/GMT+6: {
+    Generic: CUT (waxtu iniwelsel yuñ boole) -6,
+    Standard: CUT (waxtu iniwelsel yuñ boole) -6,
+    Daylight: CUT (waxtu iniwelsel yuñ boole) -6
+  },
+  Etc/GMT+7: {
+    Generic: CUT (waxtu iniwelsel yuñ boole) -7,
+    Standard: CUT (waxtu iniwelsel yuñ boole) -7,
+    Daylight: CUT (waxtu iniwelsel yuñ boole) -7
+  },
+  Etc/GMT+8: {
+    Generic: CUT (waxtu iniwelsel yuñ boole) -8,
+    Standard: CUT (waxtu iniwelsel yuñ boole) -8,
+    Daylight: CUT (waxtu iniwelsel yuñ boole) -8
+  },
+  Etc/GMT+9: {
+    Generic: CUT (waxtu iniwelsel yuñ boole) -9,
+    Standard: CUT (waxtu iniwelsel yuñ boole) -9,
+    Daylight: CUT (waxtu iniwelsel yuñ boole) -9
+  },
   Etc/GMT-0: {
     Generic: GMT (waxtu Greenwich),
     Standard: GMT (waxtu Greenwich),
     Daylight: GMT (waxtu Greenwich)
+  },
+  Etc/GMT-1: {
+    Generic: CUT (waxtu iniwelsel yuñ boole) +1,
+    Standard: CUT (waxtu iniwelsel yuñ boole) +1,
+    Daylight: CUT (waxtu iniwelsel yuñ boole) +1
+  },
+  Etc/GMT-10: {
+    Generic: CUT (waxtu iniwelsel yuñ boole) +10,
+    Standard: CUT (waxtu iniwelsel yuñ boole) +10,
+    Daylight: CUT (waxtu iniwelsel yuñ boole) +10
+  },
+  Etc/GMT-11: {
+    Generic: CUT (waxtu iniwelsel yuñ boole) +11,
+    Standard: CUT (waxtu iniwelsel yuñ boole) +11,
+    Daylight: CUT (waxtu iniwelsel yuñ boole) +11
+  },
+  Etc/GMT-12: {
+    Generic: CUT (waxtu iniwelsel yuñ boole) +12,
+    Standard: CUT (waxtu iniwelsel yuñ boole) +12,
+    Daylight: CUT (waxtu iniwelsel yuñ boole) +12
+  },
+  Etc/GMT-13: {
+    Generic: CUT (waxtu iniwelsel yuñ boole) +13,
+    Standard: CUT (waxtu iniwelsel yuñ boole) +13,
+    Daylight: CUT (waxtu iniwelsel yuñ boole) +13
+  },
+  Etc/GMT-14: {
+    Generic: CUT (waxtu iniwelsel yuñ boole) +14,
+    Standard: CUT (waxtu iniwelsel yuñ boole) +14,
+    Daylight: CUT (waxtu iniwelsel yuñ boole) +14
+  },
+  Etc/GMT-2: {
+    Generic: CUT (waxtu iniwelsel yuñ boole) +2,
+    Standard: CUT (waxtu iniwelsel yuñ boole) +2,
+    Daylight: CUT (waxtu iniwelsel yuñ boole) +2
+  },
+  Etc/GMT-3: {
+    Generic: CUT (waxtu iniwelsel yuñ boole) +3,
+    Standard: CUT (waxtu iniwelsel yuñ boole) +3,
+    Daylight: CUT (waxtu iniwelsel yuñ boole) +3
+  },
+  Etc/GMT-4: {
+    Generic: CUT (waxtu iniwelsel yuñ boole) +4,
+    Standard: CUT (waxtu iniwelsel yuñ boole) +4,
+    Daylight: CUT (waxtu iniwelsel yuñ boole) +4
+  },
+  Etc/GMT-5: {
+    Generic: CUT (waxtu iniwelsel yuñ boole) +5,
+    Standard: CUT (waxtu iniwelsel yuñ boole) +5,
+    Daylight: CUT (waxtu iniwelsel yuñ boole) +5
+  },
+  Etc/GMT-6: {
+    Generic: CUT (waxtu iniwelsel yuñ boole) +6,
+    Standard: CUT (waxtu iniwelsel yuñ boole) +6,
+    Daylight: CUT (waxtu iniwelsel yuñ boole) +6
+  },
+  Etc/GMT-7: {
+    Generic: CUT (waxtu iniwelsel yuñ boole) +7,
+    Standard: CUT (waxtu iniwelsel yuñ boole) +7,
+    Daylight: CUT (waxtu iniwelsel yuñ boole) +7
+  },
+  Etc/GMT-8: {
+    Generic: CUT (waxtu iniwelsel yuñ boole) +8,
+    Standard: CUT (waxtu iniwelsel yuñ boole) +8,
+    Daylight: CUT (waxtu iniwelsel yuñ boole) +8
+  },
+  Etc/GMT-9: {
+    Generic: CUT (waxtu iniwelsel yuñ boole) +9,
+    Standard: CUT (waxtu iniwelsel yuñ boole) +9,
+    Daylight: CUT (waxtu iniwelsel yuñ boole) +9
   },
   Etc/GMT0: {
     Generic: GMT (waxtu Greenwich),
@@ -2765,6 +2100,356 @@
     Daylight: GMT (waxtu Greenwich)
   },
   Etc/Greenwich: {
+    Generic: GMT (waxtu Greenwich),
+    Standard: GMT (waxtu Greenwich),
+    Daylight: GMT (waxtu Greenwich)
+  },
+  Etc/UCT: {
+    Generic: CUT (waxtu iniwelsel yuñ boole),
+    Standard: CUT (waxtu iniwelsel yuñ boole),
+    Daylight: CUT (waxtu iniwelsel yuñ boole)
+  },
+  Etc/UTC: {
+    Generic: CUT (waxtu iniwelsel yuñ boole),
+    Standard: CUT (waxtu iniwelsel yuñ boole),
+    Daylight: CUT (waxtu iniwelsel yuñ boole)
+  },
+  Etc/Universal: {
+    Generic: CUT (waxtu iniwelsel yuñ boole),
+    Standard: CUT (waxtu iniwelsel yuñ boole),
+    Daylight: CUT (waxtu iniwelsel yuñ boole)
+  },
+  Etc/Zulu: {
+    Generic: CUT (waxtu iniwelsel yuñ boole),
+    Standard: CUT (waxtu iniwelsel yuñ boole),
+    Daylight: CUT (waxtu iniwelsel yuñ boole)
+  },
+  Europe/Amsterdam: {
+    Generic: CTE (waxtu ëroop sàntaraal),
+    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
+    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  },
+  Europe/Andorra: {
+    Generic: CTE (waxtu ëroop sàntaraal),
+    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
+    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  },
+  Europe/Astrakhan: {
+    Generic: Astrakhan,
+    Standard: Astrakhan (+0),
+    Daylight: Astrakhan (+1)
+  },
+  Europe/Athens: {
+    Generic: EET (waxtu ëroop u penku),
+    Standard: EEST (waxtu estàndaaru ëroop u penku),
+    Daylight: EEST (waxtu ete wu ëroop u penku)
+  },
+  Europe/Belfast: {
+    Generic: GMT (waxtu Greenwich),
+    Standard: GMT (waxtu Greenwich),
+    Daylight: GMT (waxtu Greenwich)
+  },
+  Europe/Belgrade: {
+    Generic: CTE (waxtu ëroop sàntaraal),
+    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
+    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  },
+  Europe/Berlin: {
+    Generic: CTE (waxtu ëroop sàntaraal),
+    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
+    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  },
+  Europe/Bratislava: {
+    Generic: CTE (waxtu ëroop sàntaraal),
+    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
+    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  },
+  Europe/Brussels: {
+    Generic: CTE (waxtu ëroop sàntaraal),
+    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
+    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  },
+  Europe/Bucharest: {
+    Generic: EET (waxtu ëroop u penku),
+    Standard: EEST (waxtu estàndaaru ëroop u penku),
+    Daylight: EEST (waxtu ete wu ëroop u penku)
+  },
+  Europe/Budapest: {
+    Generic: CTE (waxtu ëroop sàntaraal),
+    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
+    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  },
+  Europe/Busingen: {
+    Generic: CTE (waxtu ëroop sàntaraal),
+    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
+    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  },
+  Europe/Chisinau: {
+    Generic: EET (waxtu ëroop u penku),
+    Standard: EEST (waxtu estàndaaru ëroop u penku),
+    Daylight: EEST (waxtu ete wu ëroop u penku)
+  },
+  Europe/Copenhagen: {
+    Generic: CTE (waxtu ëroop sàntaraal),
+    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
+    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  },
+  Europe/Dublin: {
+    Generic: GMT (waxtu Greenwich),
+    Standard: GMT (waxtu Greenwich),
+    Daylight: GMT (waxtu Greenwich)
+  },
+  Europe/Gibraltar: {
+    Generic: CTE (waxtu ëroop sàntaraal),
+    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
+    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  },
+  Europe/Guernsey: {
+    Generic: GMT (waxtu Greenwich),
+    Standard: GMT (waxtu Greenwich),
+    Daylight: GMT (waxtu Greenwich)
+  },
+  Europe/Helsinki: {
+    Generic: EET (waxtu ëroop u penku),
+    Standard: EEST (waxtu estàndaaru ëroop u penku),
+    Daylight: EEST (waxtu ete wu ëroop u penku)
+  },
+  Europe/Isle_of_Man: {
+    Generic: GMT (waxtu Greenwich),
+    Standard: GMT (waxtu Greenwich),
+    Daylight: GMT (waxtu Greenwich)
+  },
+  Europe/Istanbul: {
+    Generic: Tirki,
+    Standard: Tirki (+0),
+    Daylight: Tirki (+1)
+  },
+  Europe/Jersey: {
+    Generic: GMT (waxtu Greenwich),
+    Standard: GMT (waxtu Greenwich),
+    Daylight: GMT (waxtu Greenwich)
+  },
+  Europe/Kaliningrad: {
+    Generic: Kaliningrad,
+    Standard: Kaliningrad (+0),
+    Daylight: Kaliningrad (+1)
+  },
+  Europe/Kiev: {
+    Generic: EET (waxtu ëroop u penku),
+    Standard: EEST (waxtu estàndaaru ëroop u penku),
+    Daylight: EEST (waxtu ete wu ëroop u penku)
+  },
+  Europe/Kirov: {
+    Generic: Kirov,
+    Standard: Kirov (+0),
+    Daylight: Kirov (+1)
+  },
+  Europe/Kyiv: {
+    Generic: EET (waxtu ëroop u penku),
+    Standard: EEST (waxtu estàndaaru ëroop u penku),
+    Daylight: EEST (waxtu ete wu ëroop u penku)
+  },
+  Europe/Lisbon: {
+    Generic: WET (waxtu ëroop u sowwu-jant,
+    Standard: WEST (waxtu estàndaaru ëroop u sowwu-jant),
+    Daylight: WEST (waxtu ete wu ëroop u sowwu-jant)
+  },
+  Europe/Ljubljana: {
+    Generic: CTE (waxtu ëroop sàntaraal),
+    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
+    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  },
+  Europe/London: {
+    Generic: GMT (waxtu Greenwich),
+    Standard: GMT (waxtu Greenwich),
+    Daylight: GMT (waxtu Greenwich)
+  },
+  Europe/Luxembourg: {
+    Generic: CTE (waxtu ëroop sàntaraal),
+    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
+    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  },
+  Europe/Madrid: {
+    Generic: CTE (waxtu ëroop sàntaraal),
+    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
+    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  },
+  Europe/Malta: {
+    Generic: CTE (waxtu ëroop sàntaraal),
+    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
+    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  },
+  Europe/Mariehamn: {
+    Generic: EET (waxtu ëroop u penku),
+    Standard: EEST (waxtu estàndaaru ëroop u penku),
+    Daylight: EEST (waxtu ete wu ëroop u penku)
+  },
+  Europe/Minsk: {
+    Generic: Belaris,
+    Standard: Belaris (+0),
+    Daylight: Belaris (+1)
+  },
+  Europe/Monaco: {
+    Generic: CTE (waxtu ëroop sàntaraal),
+    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
+    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  },
+  Europe/Moscow: {
+    Generic: Moscow,
+    Standard: Moscow (+0),
+    Daylight: Moscow (+1)
+  },
+  Europe/Nicosia: {
+    Generic: EET (waxtu ëroop u penku),
+    Standard: EEST (waxtu estàndaaru ëroop u penku),
+    Daylight: EEST (waxtu ete wu ëroop u penku)
+  },
+  Europe/Oslo: {
+    Generic: CTE (waxtu ëroop sàntaraal),
+    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
+    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  },
+  Europe/Paris: {
+    Generic: CTE (waxtu ëroop sàntaraal),
+    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
+    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  },
+  Europe/Podgorica: {
+    Generic: CTE (waxtu ëroop sàntaraal),
+    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
+    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  },
+  Europe/Prague: {
+    Generic: CTE (waxtu ëroop sàntaraal),
+    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
+    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  },
+  Europe/Riga: {
+    Generic: EET (waxtu ëroop u penku),
+    Standard: EEST (waxtu estàndaaru ëroop u penku),
+    Daylight: EEST (waxtu ete wu ëroop u penku)
+  },
+  Europe/Rome: {
+    Generic: CTE (waxtu ëroop sàntaraal),
+    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
+    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  },
+  Europe/Samara: {
+    Generic: Samara,
+    Standard: Samara (+0),
+    Daylight: Samara (+1)
+  },
+  Europe/San_Marino: {
+    Generic: CTE (waxtu ëroop sàntaraal),
+    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
+    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  },
+  Europe/Sarajevo: {
+    Generic: CTE (waxtu ëroop sàntaraal),
+    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
+    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  },
+  Europe/Saratov: {
+    Generic: Saratov,
+    Standard: Saratov (+0),
+    Daylight: Saratov (+1)
+  },
+  Europe/Simferopol: {
+    Generic: Ikeren,
+    Standard: Ikeren (+0),
+    Daylight: Ikeren (+1)
+  },
+  Europe/Skopje: {
+    Generic: CTE (waxtu ëroop sàntaraal),
+    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
+    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  },
+  Europe/Sofia: {
+    Generic: EET (waxtu ëroop u penku),
+    Standard: EEST (waxtu estàndaaru ëroop u penku),
+    Daylight: EEST (waxtu ete wu ëroop u penku)
+  },
+  Europe/Stockholm: {
+    Generic: CTE (waxtu ëroop sàntaraal),
+    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
+    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  },
+  Europe/Tallinn: {
+    Generic: EET (waxtu ëroop u penku),
+    Standard: EEST (waxtu estàndaaru ëroop u penku),
+    Daylight: EEST (waxtu ete wu ëroop u penku)
+  },
+  Europe/Tirane: {
+    Generic: CTE (waxtu ëroop sàntaraal),
+    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
+    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  },
+  Europe/Tiraspol: {
+    Generic: EET (waxtu ëroop u penku),
+    Standard: EEST (waxtu estàndaaru ëroop u penku),
+    Daylight: EEST (waxtu ete wu ëroop u penku)
+  },
+  Europe/Ulyanovsk: {
+    Generic: Ulyanovsk,
+    Standard: Ulyanovsk (+0),
+    Daylight: Ulyanovsk (+1)
+  },
+  Europe/Uzhgorod: {
+    Generic: EET (waxtu ëroop u penku),
+    Standard: EEST (waxtu estàndaaru ëroop u penku),
+    Daylight: EEST (waxtu ete wu ëroop u penku)
+  },
+  Europe/Vaduz: {
+    Generic: CTE (waxtu ëroop sàntaraal),
+    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
+    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  },
+  Europe/Vatican: {
+    Generic: CTE (waxtu ëroop sàntaraal),
+    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
+    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  },
+  Europe/Vienna: {
+    Generic: CTE (waxtu ëroop sàntaraal),
+    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
+    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  },
+  Europe/Vilnius: {
+    Generic: EET (waxtu ëroop u penku),
+    Standard: EEST (waxtu estàndaaru ëroop u penku),
+    Daylight: EEST (waxtu ete wu ëroop u penku)
+  },
+  Europe/Volgograd: {
+    Generic: Volgograd,
+    Standard: Volgograd (+0),
+    Daylight: Volgograd (+1)
+  },
+  Europe/Warsaw: {
+    Generic: CTE (waxtu ëroop sàntaraal),
+    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
+    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  },
+  Europe/Zagreb: {
+    Generic: CTE (waxtu ëroop sàntaraal),
+    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
+    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  },
+  Europe/Zaporozhye: {
+    Generic: EET (waxtu ëroop u penku),
+    Standard: EEST (waxtu estàndaaru ëroop u penku),
+    Daylight: EEST (waxtu ete wu ëroop u penku)
+  },
+  Europe/Zurich: {
+    Generic: CTE (waxtu ëroop sàntaraal),
+    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
+    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  },
+  GB: {
+    Generic: GMT (waxtu Greenwich),
+    Standard: GMT (waxtu Greenwich),
+    Daylight: GMT (waxtu Greenwich)
+  },
+  GB-Eire: {
     Generic: GMT (waxtu Greenwich),
     Standard: GMT (waxtu Greenwich),
     Daylight: GMT (waxtu Greenwich)
@@ -2794,120 +2479,135 @@
     Standard: GMT (waxtu Greenwich),
     Daylight: GMT (waxtu Greenwich)
   },
-  Etc/UCT: {
-    Generic: CUT (waxtu iniwelsel yuñ boole),
-    Standard: CUT (waxtu iniwelsel yuñ boole),
-    Daylight: CUT (waxtu iniwelsel yuñ boole)
+  HST: {
+    Generic: CUT (waxtu iniwelsel yuñ boole) -10,
+    Standard: CUT (waxtu iniwelsel yuñ boole) -10,
+    Daylight: CUT (waxtu iniwelsel yuñ boole) -10
   },
-  Etc/Universal: {
-    Generic: CUT (waxtu iniwelsel yuñ boole),
-    Standard: CUT (waxtu iniwelsel yuñ boole),
-    Daylight: CUT (waxtu iniwelsel yuñ boole)
+  Hongkong: {
+    Generic: Ooŋ Koŋ,
+    Standard: Ooŋ Koŋ (+0),
+    Daylight: Ooŋ Koŋ (+1)
   },
-  Etc/Zulu: {
-    Generic: CUT (waxtu iniwelsel yuñ boole),
-    Standard: CUT (waxtu iniwelsel yuñ boole),
-    Daylight: CUT (waxtu iniwelsel yuñ boole)
+  Iceland: {
+    Generic: GMT (waxtu Greenwich),
+    Standard: GMT (waxtu Greenwich),
+    Daylight: GMT (waxtu Greenwich)
   },
-  UCT: {
-    Generic: CUT (waxtu iniwelsel yuñ boole),
-    Standard: CUT (waxtu iniwelsel yuñ boole),
-    Daylight: CUT (waxtu iniwelsel yuñ boole)
+  Indian/Antananarivo: {
+    Generic: Madagaskaar,
+    Standard: Madagaskaar (+0),
+    Daylight: Madagaskaar (+1)
   },
-  UTC: {
-    Generic: CUT (waxtu iniwelsel yuñ boole),
-    Standard: CUT (waxtu iniwelsel yuñ boole),
-    Daylight: CUT (waxtu iniwelsel yuñ boole)
+  Indian/Chagos: {
+    Generic: Terituwaaru Brëtaañ ci Oseyaa Enjeŋ,
+    Standard: Terituwaaru Brëtaañ ci Oseyaa Enjeŋ (+0),
+    Daylight: Terituwaaru Brëtaañ ci Oseyaa Enjeŋ (+1)
   },
-  Universal: {
-    Generic: CUT (waxtu iniwelsel yuñ boole),
-    Standard: CUT (waxtu iniwelsel yuñ boole),
-    Daylight: CUT (waxtu iniwelsel yuñ boole)
+  Indian/Christmas: {
+    Generic: Dunu Kirismas,
+    Standard: Dunu Kirismas (+0),
+    Daylight: Dunu Kirismas (+1)
   },
-  Zulu: {
-    Generic: CUT (waxtu iniwelsel yuñ boole),
-    Standard: CUT (waxtu iniwelsel yuñ boole),
-    Daylight: CUT (waxtu iniwelsel yuñ boole)
+  Indian/Cocos: {
+    Generic: Duni Koko (Kilin),
+    Standard: Duni Koko (Kilin) (+0),
+    Daylight: Duni Koko (Kilin) (+1)
   },
-  Atlantic/Jan_Mayen: {
-    Generic: CTE (waxtu ëroop sàntaraal),
-    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
-    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  Indian/Comoro: {
+    Generic: Komoor,
+    Standard: Komoor (+0),
+    Daylight: Komoor (+1)
+  },
+  Indian/Kerguelen: {
+    Generic: Teer Ostraal gu Fraas,
+    Standard: Teer Ostraal gu Fraas (+0),
+    Daylight: Teer Ostraal gu Fraas (+1)
+  },
+  Indian/Mahe: {
+    Generic: Seysel,
+    Standard: Seysel (+0),
+    Daylight: Seysel (+1)
+  },
+  Indian/Maldives: {
+    Generic: Maldiiw,
+    Standard: Maldiiw (+0),
+    Daylight: Maldiiw (+1)
+  },
+  Indian/Mauritius: {
+    Generic: Moriis,
+    Standard: Moriis (+0),
+    Daylight: Moriis (+1)
+  },
+  Indian/Mayotte: {
+    Generic: Mayot,
+    Standard: Mayot (+0),
+    Daylight: Mayot (+1)
+  },
+  Indian/Reunion: {
+    Generic: Reeñoo,
+    Standard: Reeñoo (+0),
+    Daylight: Reeñoo (+1)
+  },
+  Iran: {
+    Generic: Iraŋ,
+    Standard: Iraŋ (+0),
+    Daylight: Iraŋ (+1)
+  },
+  Israel: {
+    Generic: Israyel,
+    Standard: Israyel (+0),
+    Daylight: Israyel (+1)
+  },
+  Jamaica: {
+    Generic: ET waxtu penku,
+    Standard: EST (waxtu estàndaaru penku),
+    Daylight: EDT (waxtu bëccëgu penku)
+  },
+  Japan: {
+    Generic: Sàppoŋ,
+    Standard: Sàppoŋ (+0),
+    Daylight: Sàppoŋ (+1)
+  },
+  Kwajalein: {
+    Generic: Duni Marsaal,
+    Standard: Duni Marsaal (+0),
+    Daylight: Duni Marsaal (+1)
+  },
+  Libya: {
+    Generic: EET (waxtu ëroop u penku),
+    Standard: EEST (waxtu estàndaaru ëroop u penku),
+    Daylight: EEST (waxtu ete wu ëroop u penku)
   },
   MET: {
     Generic: CTE (waxtu ëroop sàntaraal),
     Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
     Daylight: CEST (waxtu ete wu ëroop sàntaraal)
   },
-  EET: {
-    Generic: EET (waxtu ëroop u penku),
-    Standard: EEST (waxtu estàndaaru ëroop u penku),
-    Daylight: EEST (waxtu ete wu ëroop u penku)
+  MST: {
+    Generic: CUT (waxtu iniwelsel yuñ boole) -7,
+    Standard: CUT (waxtu iniwelsel yuñ boole) -7,
+    Daylight: CUT (waxtu iniwelsel yuñ boole) -7
   },
-  Europe/Tiraspol: {
-    Generic: EET (waxtu ëroop u penku),
-    Standard: EEST (waxtu estàndaaru ëroop u penku),
-    Daylight: EEST (waxtu ete wu ëroop u penku)
+  MST7MDT: {
+    Generic: MT (waxtu tundu),
+    Standard: MST (waxtu estàndaaru tundu),
+    Daylight: MDT (waxtu bëccëgu tundu)
   },
-  Eire: {
-    Generic: GMT (waxtu Greenwich),
-    Standard: GMT (waxtu Greenwich),
-    Daylight: GMT (waxtu Greenwich)
+  Mexico/BajaNorte: {
+    Generic: PT (waxtu pasifik),
+    Standard: PST (waxtu estàndaaru pasifik),
+    Daylight: PDT (waxtu bëccëgu pasifik)
   },
-  Asia/Istanbul: {
-    Generic: Tirki,
-    Standard: Tirki (+0),
-    Daylight: Tirki (+1)
+  Mexico/BajaSur: {
+    Generic: Meksiko,
+    Standard: Meksiko (+0),
+    Daylight: Meksiko (+1)
   },
-  Turkey: {
-    Generic: Tirki,
-    Standard: Tirki (+0),
-    Daylight: Tirki (+1)
-  },
-  Europe/Kyiv: {
-    Generic: EET (waxtu ëroop u penku),
-    Standard: EEST (waxtu estàndaaru ëroop u penku),
-    Daylight: EEST (waxtu ete wu ëroop u penku)
-  },
-  Portugal: {
-    Generic: WET (waxtu ëroop u sowwu-jant,
-    Standard: WEST (waxtu estàndaaru ëroop u sowwu-jant),
-    Daylight: WEST (waxtu ete wu ëroop u sowwu-jant)
-  },
-  Europe/Belfast: {
-    Generic: GMT (waxtu Greenwich),
-    Standard: GMT (waxtu Greenwich),
-    Daylight: GMT (waxtu Greenwich)
-  },
-  GB: {
-    Generic: GMT (waxtu Greenwich),
-    Standard: GMT (waxtu Greenwich),
-    Daylight: GMT (waxtu Greenwich)
-  },
-  GB-Eire: {
-    Generic: GMT (waxtu Greenwich),
-    Standard: GMT (waxtu Greenwich),
-    Daylight: GMT (waxtu Greenwich)
-  },
-  W-SU: {
-    Generic: Moscow,
-    Standard: Moscow (+0),
-    Daylight: Moscow (+1)
-  },
-  CET: {
-    Generic: CTE (waxtu ëroop sàntaraal),
-    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
-    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
-  },
-  Poland: {
-    Generic: CTE (waxtu ëroop sàntaraal),
-    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
-    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
-  },
-  Antarctica/South_Pole: {
-    Generic: Nuwel Selànd,
-    Standard: Nuwel Selànd (+0),
-    Daylight: Nuwel Selànd (+1)
+  Mexico/General: {
+    Generic: CT (waxtu sàntaral),
+    Standard: CST (waxtu estàndaaru sàntaraal),
+    Daylight: CDT (waxtu bëccëgu sàntaraal
   },
   NZ: {
     Generic: Nuwel Selànd,
@@ -2919,59 +2619,359 @@
     Standard: Nuwel Selànd (+0),
     Daylight: Nuwel Selànd (+1)
   },
-  Chile/EasterIsland: {
-    Generic: Sili,
-    Standard: Sili (+0),
-    Daylight: Sili (+1)
+  Navajo: {
+    Generic: MT (waxtu tundu),
+    Standard: MST (waxtu estàndaaru tundu),
+    Daylight: MDT (waxtu bëccëgu tundu)
   },
-  Pacific/Pohnpei: {
-    Generic: Mikoronesi,
-    Standard: Mikoronesi (+0),
-    Daylight: Mikoronesi (+1)
+  PRC: {
+    Generic: Siin,
+    Standard: Siin (+0),
+    Daylight: Siin (+1)
   },
-  US/Hawaii: {
-    Generic: Etaa Sini,
-    Standard: Etaa Sini (+0),
-    Daylight: Etaa Sini (+1)
+  PST8PDT: {
+    Generic: PT (waxtu pasifik),
+    Standard: PST (waxtu estàndaaru pasifik),
+    Daylight: PDT (waxtu bëccëgu pasifik)
   },
-  Pacific/Kanton: {
-    Generic: Kiribati,
-    Standard: Kiribati (+0),
-    Daylight: Kiribati (+1)
+  Pacific/Apia: {
+    Generic: Samowa,
+    Standard: Samowa (+0),
+    Daylight: Samowa (+1)
   },
-  Kwajalein: {
-    Generic: Duni Marsaal,
-    Standard: Duni Marsaal (+0),
-    Daylight: Duni Marsaal (+1)
+  Pacific/Auckland: {
+    Generic: Nuwel Selànd,
+    Standard: Nuwel Selànd (+0),
+    Daylight: Nuwel Selànd (+1)
   },
-  Pacific/Samoa: {
-    Generic: Samowa bu Amerig,
-    Standard: Samowa bu Amerig (+0),
-    Daylight: Samowa bu Amerig (+1)
+  Pacific/Bougainville: {
+    Generic: Papuwasi Gine Gu Bees,
+    Standard: Papuwasi Gine Gu Bees (+0),
+    Daylight: Papuwasi Gine Gu Bees (+1)
   },
-  US/Samoa: {
-    Generic: Samowa bu Amerig,
-    Standard: Samowa bu Amerig (+0),
-    Daylight: Samowa bu Amerig (+1)
+  Pacific/Chatham: {
+    Generic: Nuwel Selànd,
+    Standard: Nuwel Selànd (+0),
+    Daylight: Nuwel Selànd (+1)
   },
   Pacific/Chuuk: {
     Generic: Mikoronesi,
     Standard: Mikoronesi (+0),
     Daylight: Mikoronesi (+1)
   },
+  Pacific/Easter: {
+    Generic: Sili,
+    Standard: Sili (+0),
+    Daylight: Sili (+1)
+  },
+  Pacific/Efate: {
+    Generic: Wanuatu,
+    Standard: Wanuatu (+0),
+    Daylight: Wanuatu (+1)
+  },
+  Pacific/Enderbury: {
+    Generic: Kiribati,
+    Standard: Kiribati (+0),
+    Daylight: Kiribati (+1)
+  },
+  Pacific/Fakaofo: {
+    Generic: Tokoloo,
+    Standard: Tokoloo (+0),
+    Daylight: Tokoloo (+1)
+  },
+  Pacific/Fiji: {
+    Generic: Fijji,
+    Standard: Fijji (+0),
+    Daylight: Fijji (+1)
+  },
+  Pacific/Funafuti: {
+    Generic: Tuwalo,
+    Standard: Tuwalo (+0),
+    Daylight: Tuwalo (+1)
+  },
+  Pacific/Galapagos: {
+    Generic: Ekwaatër,
+    Standard: Ekwaatër (+0),
+    Daylight: Ekwaatër (+1)
+  },
+  Pacific/Gambier: {
+    Generic: Polinesi Farañse,
+    Standard: Polinesi Farañse (+0),
+    Daylight: Polinesi Farañse (+1)
+  },
+  Pacific/Guadalcanal: {
+    Generic: Duni Salmoon,
+    Standard: Duni Salmoon (+0),
+    Daylight: Duni Salmoon (+1)
+  },
+  Pacific/Guam: {
+    Generic: Guwam,
+    Standard: Guwam (+0),
+    Daylight: Guwam (+1)
+  },
+  Pacific/Honolulu: {
+    Generic: Etaa Sini,
+    Standard: Etaa Sini (+0),
+    Daylight: Etaa Sini (+1)
+  },
+  Pacific/Johnston: {
+    Generic: Johnston,
+    Standard: Johnston (+0),
+    Daylight: Johnston (+1)
+  },
+  Pacific/Kanton: {
+    Generic: Kiribati,
+    Standard: Kiribati (+0),
+    Daylight: Kiribati (+1)
+  },
+  Pacific/Kiritimati: {
+    Generic: Kiribati,
+    Standard: Kiribati (+0),
+    Daylight: Kiribati (+1)
+  },
+  Pacific/Kosrae: {
+    Generic: Mikoronesi,
+    Standard: Mikoronesi (+0),
+    Daylight: Mikoronesi (+1)
+  },
+  Pacific/Kwajalein: {
+    Generic: Duni Marsaal,
+    Standard: Duni Marsaal (+0),
+    Daylight: Duni Marsaal (+1)
+  },
+  Pacific/Majuro: {
+    Generic: Duni Marsaal,
+    Standard: Duni Marsaal (+0),
+    Daylight: Duni Marsaal (+1)
+  },
+  Pacific/Marquesas: {
+    Generic: Polinesi Farañse,
+    Standard: Polinesi Farañse (+0),
+    Daylight: Polinesi Farañse (+1)
+  },
+  Pacific/Midway: {
+    Generic: Duni Amerig Utar meer,
+    Standard: Duni Amerig Utar meer (+0),
+    Daylight: Duni Amerig Utar meer (+1)
+  },
+  Pacific/Nauru: {
+    Generic: Nawru,
+    Standard: Nawru (+0),
+    Daylight: Nawru (+1)
+  },
+  Pacific/Niue: {
+    Generic: Niw,
+    Standard: Niw (+0),
+    Daylight: Niw (+1)
+  },
+  Pacific/Norfolk: {
+    Generic: Dunu Norfolk,
+    Standard: Dunu Norfolk (+0),
+    Daylight: Dunu Norfolk (+1)
+  },
+  Pacific/Noumea: {
+    Generic: Nuwel Kaledoni,
+    Standard: Nuwel Kaledoni (+0),
+    Daylight: Nuwel Kaledoni (+1)
+  },
+  Pacific/Pago_Pago: {
+    Generic: Samowa bu Amerig,
+    Standard: Samowa bu Amerig (+0),
+    Daylight: Samowa bu Amerig (+1)
+  },
+  Pacific/Palau: {
+    Generic: Palaw,
+    Standard: Palaw (+0),
+    Daylight: Palaw (+1)
+  },
+  Pacific/Pitcairn: {
+    Generic: Duni Pitkayirn,
+    Standard: Duni Pitkayirn (+0),
+    Daylight: Duni Pitkayirn (+1)
+  },
+  Pacific/Pohnpei: {
+    Generic: Mikoronesi,
+    Standard: Mikoronesi (+0),
+    Daylight: Mikoronesi (+1)
+  },
+  Pacific/Ponape: {
+    Generic: Mikoronesi,
+    Standard: Mikoronesi (+0),
+    Daylight: Mikoronesi (+1)
+  },
+  Pacific/Port_Moresby: {
+    Generic: Papuwasi Gine Gu Bees,
+    Standard: Papuwasi Gine Gu Bees (+0),
+    Daylight: Papuwasi Gine Gu Bees (+1)
+  },
+  Pacific/Rarotonga: {
+    Generic: Duni Kuuk,
+    Standard: Duni Kuuk (+0),
+    Daylight: Duni Kuuk (+1)
+  },
+  Pacific/Saipan: {
+    Generic: Duni Mariyaan Noor,
+    Standard: Duni Mariyaan Noor (+0),
+    Daylight: Duni Mariyaan Noor (+1)
+  },
+  Pacific/Samoa: {
+    Generic: Samowa bu Amerig,
+    Standard: Samowa bu Amerig (+0),
+    Daylight: Samowa bu Amerig (+1)
+  },
+  Pacific/Tahiti: {
+    Generic: Polinesi Farañse,
+    Standard: Polinesi Farañse (+0),
+    Daylight: Polinesi Farañse (+1)
+  },
+  Pacific/Tarawa: {
+    Generic: Kiribati,
+    Standard: Kiribati (+0),
+    Daylight: Kiribati (+1)
+  },
+  Pacific/Tongatapu: {
+    Generic: Tonga,
+    Standard: Tonga (+0),
+    Daylight: Tonga (+1)
+  },
+  Pacific/Truk: {
+    Generic: Mikoronesi,
+    Standard: Mikoronesi (+0),
+    Daylight: Mikoronesi (+1)
+  },
+  Pacific/Wake: {
+    Generic: Duni Amerig Utar meer,
+    Standard: Duni Amerig Utar meer (+0),
+    Daylight: Duni Amerig Utar meer (+1)
+  },
+  Pacific/Wallis: {
+    Generic: Walis ak Futuna,
+    Standard: Walis ak Futuna (+0),
+    Daylight: Walis ak Futuna (+1)
+  },
   Pacific/Yap: {
     Generic: Mikoronesi,
     Standard: Mikoronesi (+0),
     Daylight: Mikoronesi (+1)
   },
-  America/Fort_Wayne: {
+  Poland: {
+    Generic: CTE (waxtu ëroop sàntaraal),
+    Standard: CEST (waxtu estàndaaru ëroop sàntaraal),
+    Daylight: CEST (waxtu ete wu ëroop sàntaraal)
+  },
+  Portugal: {
+    Generic: WET (waxtu ëroop u sowwu-jant,
+    Standard: WEST (waxtu estàndaaru ëroop u sowwu-jant),
+    Daylight: WEST (waxtu ete wu ëroop u sowwu-jant)
+  },
+  ROC: {
+    Generic: Taywan,
+    Standard: Taywan (+0),
+    Daylight: Taywan (+1)
+  },
+  ROK: {
+    Generic: Seoul,
+    Standard: Seoul (+0),
+    Daylight: Seoul (+1)
+  },
+  Singapore: {
+    Generic: Singapuur,
+    Standard: Singapuur (+0),
+    Daylight: Singapuur (+1)
+  },
+  Turkey: {
+    Generic: Tirki,
+    Standard: Tirki (+0),
+    Daylight: Tirki (+1)
+  },
+  UCT: {
+    Generic: CUT (waxtu iniwelsel yuñ boole),
+    Standard: CUT (waxtu iniwelsel yuñ boole),
+    Daylight: CUT (waxtu iniwelsel yuñ boole)
+  },
+  US/Alaska: {
+    Generic: Etaa Sini,
+    Standard: Etaa Sini (+0),
+    Daylight: Etaa Sini (+1)
+  },
+  US/Aleutian: {
+    Generic: Etaa Sini,
+    Standard: Etaa Sini (+0),
+    Daylight: Etaa Sini (+1)
+  },
+  US/Arizona: {
+    Generic: MT (waxtu tundu),
+    Standard: MST (waxtu estàndaaru tundu),
+    Daylight: MDT (waxtu bëccëgu tundu)
+  },
+  US/Central: {
+    Generic: CT (waxtu sàntaral),
+    Standard: CST (waxtu estàndaaru sàntaraal),
+    Daylight: CDT (waxtu bëccëgu sàntaraal
+  },
+  US/East-Indiana: {
     Generic: ET waxtu penku,
     Standard: EST (waxtu estàndaaru penku),
     Daylight: EDT (waxtu bëccëgu penku)
   },
-  Antarctica/Troll: {
-    Generic: GMT (waxtu Greenwich),
-    Standard: GMT (waxtu Greenwich),
-    Daylight: GMT (waxtu Greenwich)
+  US/Eastern: {
+    Generic: ET waxtu penku,
+    Standard: EST (waxtu estàndaaru penku),
+    Daylight: EDT (waxtu bëccëgu penku)
+  },
+  US/Hawaii: {
+    Generic: Etaa Sini,
+    Standard: Etaa Sini (+0),
+    Daylight: Etaa Sini (+1)
+  },
+  US/Indiana-Starke: {
+    Generic: CT (waxtu sàntaral),
+    Standard: CST (waxtu estàndaaru sàntaraal),
+    Daylight: CDT (waxtu bëccëgu sàntaraal
+  },
+  US/Michigan: {
+    Generic: ET waxtu penku,
+    Standard: EST (waxtu estàndaaru penku),
+    Daylight: EDT (waxtu bëccëgu penku)
+  },
+  US/Mountain: {
+    Generic: MT (waxtu tundu),
+    Standard: MST (waxtu estàndaaru tundu),
+    Daylight: MDT (waxtu bëccëgu tundu)
+  },
+  US/Pacific: {
+    Generic: PT (waxtu pasifik),
+    Standard: PST (waxtu estàndaaru pasifik),
+    Daylight: PDT (waxtu bëccëgu pasifik)
+  },
+  US/Samoa: {
+    Generic: Samowa bu Amerig,
+    Standard: Samowa bu Amerig (+0),
+    Daylight: Samowa bu Amerig (+1)
+  },
+  UTC: {
+    Generic: CUT (waxtu iniwelsel yuñ boole),
+    Standard: CUT (waxtu iniwelsel yuñ boole),
+    Daylight: CUT (waxtu iniwelsel yuñ boole)
+  },
+  Universal: {
+    Generic: CUT (waxtu iniwelsel yuñ boole),
+    Standard: CUT (waxtu iniwelsel yuñ boole),
+    Daylight: CUT (waxtu iniwelsel yuñ boole)
+  },
+  W-SU: {
+    Generic: Moscow,
+    Standard: Moscow (+0),
+    Daylight: Moscow (+1)
+  },
+  WET: {
+    Generic: WET (waxtu ëroop u sowwu-jant,
+    Standard: WEST (waxtu estàndaaru ëroop u sowwu-jant),
+    Daylight: WEST (waxtu ete wu ëroop u sowwu-jant)
+  },
+  Zulu: {
+    Generic: CUT (waxtu iniwelsel yuñ boole),
+    Standard: CUT (waxtu iniwelsel yuñ boole),
+    Daylight: CUT (waxtu iniwelsel yuñ boole)
   }
 }

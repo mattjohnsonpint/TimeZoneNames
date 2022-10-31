@@ -1,115 +1,330 @@
 ﻿{
-  Australia/Darwin: {
-    Generic: temp: Australia,
-    Standard: temp normal: Australia,
-    Daylight: temp da stad: Australia
+  Africa/Abidjan: {
+    Generic: Temp Greenwich,
+    Standard: Temp Greenwich,
+    Daylight: Temp Greenwich
   },
-  Australia/Sydney: {
-    Generic: temp: Australia,
-    Standard: temp normal: Australia,
-    Daylight: temp da stad: Australia
+  Africa/Accra: {
+    Generic: Temp Greenwich,
+    Standard: Temp Greenwich,
+    Daylight: Temp Greenwich
   },
-  Australia/Melbourne: {
-    Generic: temp: Australia,
-    Standard: temp normal: Australia,
-    Daylight: temp da stad: Australia
+  Africa/Addis_Ababa: {
+    Generic: temp: Etiopia,
+    Standard: temp normal: Etiopia,
+    Daylight: temp da stad: Etiopia
   },
-  Asia/Kabul: {
-    Generic: temp: Afghanistan,
-    Standard: temp normal: Afghanistan,
-    Daylight: temp da stad: Afghanistan
+  Africa/Algiers: {
+    Generic: Temp da l’Europa Centrala,
+    Standard: Temp da standard da l’Europa Centrala,
+    Daylight: Temp da stad da l’Europa Centrala
   },
-  America/Anchorage: {
-    Generic: temp: Stadis Unids da l’America,
-    Standard: temp normal: Stadis Unids da l’America,
-    Daylight: temp da stad: Stadis Unids da l’America
+  Africa/Asmara: {
+    Generic: temp: Eritrea,
+    Standard: temp normal: Eritrea,
+    Daylight: temp da stad: Eritrea
   },
-  America/Juneau: {
-    Generic: temp: Stadis Unids da l’America,
-    Standard: temp normal: Stadis Unids da l’America,
-    Daylight: temp da stad: Stadis Unids da l’America
+  Africa/Asmera: {
+    Generic: temp: Eritrea,
+    Standard: temp normal: Eritrea,
+    Daylight: temp da stad: Eritrea
   },
-  America/Metlakatla: {
-    Generic: temp: Stadis Unids da l’America,
-    Standard: temp normal: Stadis Unids da l’America,
-    Daylight: temp da stad: Stadis Unids da l’America
+  Africa/Bamako: {
+    Generic: Temp Greenwich,
+    Standard: Temp Greenwich,
+    Daylight: Temp Greenwich
   },
-  America/Nome: {
-    Generic: temp: Stadis Unids da l’America,
-    Standard: temp normal: Stadis Unids da l’America,
-    Daylight: temp da stad: Stadis Unids da l’America
+  Africa/Bangui: {
+    Generic: temp: Republica Centralafricana,
+    Standard: temp normal: Republica Centralafricana,
+    Daylight: temp da stad: Republica Centralafricana
   },
-  America/Sitka: {
-    Generic: temp: Stadis Unids da l’America,
-    Standard: temp normal: Stadis Unids da l’America,
-    Daylight: temp da stad: Stadis Unids da l’America
+  Africa/Banjul: {
+    Generic: Temp Greenwich,
+    Standard: Temp Greenwich,
+    Daylight: Temp Greenwich
   },
-  America/Yakutat: {
-    Generic: temp: Stadis Unids da l’America,
-    Standard: temp normal: Stadis Unids da l’America,
-    Daylight: temp da stad: Stadis Unids da l’America
+  Africa/Bissau: {
+    Generic: Temp Greenwich,
+    Standard: Temp Greenwich,
+    Daylight: Temp Greenwich
+  },
+  Africa/Blantyre: {
+    Generic: temp: Malawi,
+    Standard: temp normal: Malawi,
+    Daylight: temp da stad: Malawi
+  },
+  Africa/Brazzaville: {
+    Generic: temp: Congo,
+    Standard: temp normal: Congo,
+    Daylight: temp da stad: Congo
+  },
+  Africa/Bujumbura: {
+    Generic: temp: Burundi,
+    Standard: temp normal: Burundi,
+    Daylight: temp da stad: Burundi
+  },
+  Africa/Cairo: {
+    Generic: Temp da l’Europa Orientala,
+    Standard: Temp da standard da l’Europa Orientala,
+    Daylight: Temp da stad da l’Europa Orientala
+  },
+  Africa/Casablanca: {
+    Generic: Temp da l’Europa dal Vest,
+    Standard: Temp da standard da l’Europa dal Vest,
+    Daylight: Temp da stad da l’Europa dal Vest
+  },
+  Africa/Ceuta: {
+    Generic: Temp da l’Europa Centrala,
+    Standard: Temp da standard da l’Europa Centrala,
+    Daylight: Temp da stad da l’Europa Centrala
+  },
+  Africa/Conakry: {
+    Generic: Temp Greenwich,
+    Standard: Temp Greenwich,
+    Daylight: Temp Greenwich
+  },
+  Africa/Dakar: {
+    Generic: Temp Greenwich,
+    Standard: Temp Greenwich,
+    Daylight: Temp Greenwich
+  },
+  Africa/Dar_es_Salaam: {
+    Generic: temp: Tansania,
+    Standard: temp normal: Tansania,
+    Daylight: temp da stad: Tansania
+  },
+  Africa/Djibouti: {
+    Generic: temp: Dschibuti,
+    Standard: temp normal: Dschibuti,
+    Daylight: temp da stad: Dschibuti
+  },
+  Africa/Douala: {
+    Generic: temp: Camerun,
+    Standard: temp normal: Camerun,
+    Daylight: temp da stad: Camerun
+  },
+  Africa/El_Aaiun: {
+    Generic: Temp da l’Europa dal Vest,
+    Standard: Temp da standard da l’Europa dal Vest,
+    Daylight: Temp da stad da l’Europa dal Vest
+  },
+  Africa/Freetown: {
+    Generic: Temp Greenwich,
+    Standard: Temp Greenwich,
+    Daylight: Temp Greenwich
+  },
+  Africa/Gaborone: {
+    Generic: temp: Botswana,
+    Standard: temp normal: Botswana,
+    Daylight: temp da stad: Botswana
+  },
+  Africa/Harare: {
+    Generic: temp: Simbabwe,
+    Standard: temp normal: Simbabwe,
+    Daylight: temp da stad: Simbabwe
+  },
+  Africa/Johannesburg: {
+    Generic: temp: Africa dal Sid,
+    Standard: temp normal: Africa dal Sid,
+    Daylight: temp da stad: Africa dal Sid
+  },
+  Africa/Juba: {
+    Generic: temp: Sudan dal Sid,
+    Standard: temp normal: Sudan dal Sid,
+    Daylight: temp da stad: Sudan dal Sid
+  },
+  Africa/Kampala: {
+    Generic: temp: Uganda,
+    Standard: temp normal: Uganda,
+    Daylight: temp da stad: Uganda
+  },
+  Africa/Khartoum: {
+    Generic: temp: Sudan,
+    Standard: temp normal: Sudan,
+    Daylight: temp da stad: Sudan
+  },
+  Africa/Kigali: {
+    Generic: temp: Ruanda,
+    Standard: temp normal: Ruanda,
+    Daylight: temp da stad: Ruanda
+  },
+  Africa/Kinshasa: {
+    Generic: temp: Congo - Kinshasa,
+    Standard: temp normal: Congo - Kinshasa,
+    Daylight: temp da stad: Congo - Kinshasa
+  },
+  Africa/Lagos: {
+    Generic: temp: Nigeria,
+    Standard: temp normal: Nigeria,
+    Daylight: temp da stad: Nigeria
+  },
+  Africa/Libreville: {
+    Generic: temp: Gabun,
+    Standard: temp normal: Gabun,
+    Daylight: temp da stad: Gabun
+  },
+  Africa/Lome: {
+    Generic: Temp Greenwich,
+    Standard: Temp Greenwich,
+    Daylight: Temp Greenwich
+  },
+  Africa/Luanda: {
+    Generic: temp: Angola,
+    Standard: temp normal: Angola,
+    Daylight: temp da stad: Angola
+  },
+  Africa/Lubumbashi: {
+    Generic: temp: Congo - Kinshasa,
+    Standard: temp normal: Congo - Kinshasa,
+    Daylight: temp da stad: Congo - Kinshasa
+  },
+  Africa/Lusaka: {
+    Generic: temp: Sambia,
+    Standard: temp normal: Sambia,
+    Daylight: temp da stad: Sambia
+  },
+  Africa/Malabo: {
+    Generic: temp: Guinea Equatoriala,
+    Standard: temp normal: Guinea Equatoriala,
+    Daylight: temp da stad: Guinea Equatoriala
+  },
+  Africa/Maputo: {
+    Generic: temp: Mosambic,
+    Standard: temp normal: Mosambic,
+    Daylight: temp da stad: Mosambic
+  },
+  Africa/Maseru: {
+    Generic: temp: Lesotho,
+    Standard: temp normal: Lesotho,
+    Daylight: temp da stad: Lesotho
+  },
+  Africa/Mbabane: {
+    Generic: temp: Eswatini,
+    Standard: temp normal: Eswatini,
+    Daylight: temp da stad: Eswatini
+  },
+  Africa/Mogadishu: {
+    Generic: temp: Somalia,
+    Standard: temp normal: Somalia,
+    Daylight: temp da stad: Somalia
+  },
+  Africa/Monrovia: {
+    Generic: Temp Greenwich,
+    Standard: Temp Greenwich,
+    Daylight: Temp Greenwich
+  },
+  Africa/Nairobi: {
+    Generic: temp: Kenia,
+    Standard: temp normal: Kenia,
+    Daylight: temp da stad: Kenia
+  },
+  Africa/Ndjamena: {
+    Generic: temp: Tschad,
+    Standard: temp normal: Tschad,
+    Daylight: temp da stad: Tschad
+  },
+  Africa/Niamey: {
+    Generic: temp: Niger,
+    Standard: temp normal: Niger,
+    Daylight: temp da stad: Niger
+  },
+  Africa/Nouakchott: {
+    Generic: Temp Greenwich,
+    Standard: Temp Greenwich,
+    Daylight: Temp Greenwich
+  },
+  Africa/Ouagadougou: {
+    Generic: Temp Greenwich,
+    Standard: Temp Greenwich,
+    Daylight: Temp Greenwich
+  },
+  Africa/Porto-Novo: {
+    Generic: temp: Benin,
+    Standard: temp normal: Benin,
+    Daylight: temp da stad: Benin
+  },
+  Africa/Sao_Tome: {
+    Generic: Temp Greenwich,
+    Standard: Temp Greenwich,
+    Daylight: Temp Greenwich
+  },
+  Africa/Timbuktu: {
+    Generic: Temp Greenwich,
+    Standard: Temp Greenwich,
+    Daylight: Temp Greenwich
+  },
+  Africa/Tripoli: {
+    Generic: Temp da l’Europa Orientala,
+    Standard: Temp da standard da l’Europa Orientala,
+    Daylight: Temp da stad da l’Europa Orientala
+  },
+  Africa/Tunis: {
+    Generic: Temp da l’Europa Centrala,
+    Standard: Temp da standard da l’Europa Centrala,
+    Daylight: Temp da stad da l’Europa Centrala
+  },
+  Africa/Windhoek: {
+    Generic: temp: Namibia,
+    Standard: temp normal: Namibia,
+    Daylight: temp da stad: Namibia
   },
   America/Adak: {
     Generic: temp: Stadis Unids da l’America,
     Standard: temp normal: Stadis Unids da l’America,
     Daylight: temp da stad: Stadis Unids da l’America
   },
-  Asia/Barnaul: {
-    Generic: temp: Barnaul,
-    Standard: temp normal: Barnaul,
-    Daylight: temp da stad: Barnaul
+  America/Anchorage: {
+    Generic: temp: Stadis Unids da l’America,
+    Standard: temp normal: Stadis Unids da l’America,
+    Daylight: temp da stad: Stadis Unids da l’America
   },
-  Asia/Riyadh: {
-    Generic: temp: Arabia Saudita,
-    Standard: temp normal: Arabia Saudita,
-    Daylight: temp da stad: Arabia Saudita
+  America/Anguilla: {
+    Generic: Temp atlantic,
+    Standard: Temp da standard atlantic,
+    Daylight: Temp da stad atlantic
   },
-  Asia/Bahrain: {
-    Generic: temp: Bahrain,
-    Standard: temp normal: Bahrain,
-    Daylight: temp da stad: Bahrain
+  America/Antigua: {
+    Generic: Temp atlantic,
+    Standard: Temp da standard atlantic,
+    Daylight: Temp da stad atlantic
   },
-  Asia/Kuwait: {
-    Generic: temp: Kuwait,
-    Standard: temp normal: Kuwait,
-    Daylight: temp da stad: Kuwait
+  America/Araguaina: {
+    Generic: temp: Brasilia,
+    Standard: temp normal: Brasilia,
+    Daylight: temp da stad: Brasilia
   },
-  Asia/Qatar: {
-    Generic: temp: Katar,
-    Standard: temp normal: Katar,
-    Daylight: temp da stad: Katar
+  America/Argentina/Buenos_Aires: {
+    Generic: temp: Argentinia,
+    Standard: temp normal: Argentinia,
+    Daylight: temp da stad: Argentinia
   },
-  Asia/Aden: {
-    Generic: temp: Jemen,
-    Standard: temp normal: Jemen,
-    Daylight: temp da stad: Jemen
+  America/Argentina/Catamarca: {
+    Generic: temp: Argentinia,
+    Standard: temp normal: Argentinia,
+    Daylight: temp da stad: Argentinia
   },
-  Asia/Dubai: {
-    Generic: temp: Emirats Arabs Unids,
-    Standard: temp normal: Emirats Arabs Unids,
-    Daylight: temp da stad: Emirats Arabs Unids
+  America/Argentina/ComodRivadavia: {
+    Generic: temp: Argentinia,
+    Standard: temp normal: Argentinia,
+    Daylight: temp da stad: Argentinia
   },
-  Asia/Muscat: {
-    Generic: temp: Oman,
-    Standard: temp normal: Oman,
-    Daylight: temp da stad: Oman
+  America/Argentina/Cordoba: {
+    Generic: temp: Argentinia,
+    Standard: temp normal: Argentinia,
+    Daylight: temp da stad: Argentinia
   },
-  Etc/GMT-4: {
-    Generic: Temp universal coordinà +4,
-    Standard: Temp universal coordinà +4,
-    Daylight: Temp universal coordinà +4
-  },
-  Asia/Baghdad: {
-    Generic: temp: Irac,
-    Standard: temp normal: Irac,
-    Daylight: temp da stad: Irac
-  },
-  America/Buenos_Aires: {
+  America/Argentina/Jujuy: {
     Generic: temp: Argentinia,
     Standard: temp normal: Argentinia,
     Daylight: temp da stad: Argentinia
   },
   America/Argentina/La_Rioja: {
+    Generic: temp: Argentinia,
+    Standard: temp normal: Argentinia,
+    Daylight: temp da stad: Argentinia
+  },
+  America/Argentina/Mendoza: {
     Generic: temp: Argentinia,
     Standard: temp normal: Argentinia,
     Daylight: temp da stad: Argentinia
@@ -144,327 +359,432 @@
     Standard: temp normal: Argentinia,
     Daylight: temp da stad: Argentinia
   },
-  America/Catamarca: {
-    Generic: temp: Argentinia,
-    Standard: temp normal: Argentinia,
-    Daylight: temp da stad: Argentinia
-  },
-  America/Cordoba: {
-    Generic: temp: Argentinia,
-    Standard: temp normal: Argentinia,
-    Daylight: temp da stad: Argentinia
-  },
-  America/Jujuy: {
-    Generic: temp: Argentinia,
-    Standard: temp normal: Argentinia,
-    Daylight: temp da stad: Argentinia
-  },
-  America/Mendoza: {
-    Generic: temp: Argentinia,
-    Standard: temp normal: Argentinia,
-    Daylight: temp da stad: Argentinia
-  },
-  Europe/Astrakhan: {
-    Generic: temp: Astrakhan,
-    Standard: temp normal: Astrakhan,
-    Daylight: temp da stad: Astrakhan
-  },
-  Europe/Ulyanovsk: {
-    Generic: temp: Ulyanovsk,
-    Standard: temp normal: Ulyanovsk,
-    Daylight: temp da stad: Ulyanovsk
-  },
-  America/Halifax: {
+  America/Aruba: {
     Generic: Temp atlantic,
     Standard: Temp da standard atlantic,
     Daylight: Temp da stad atlantic
   },
-  Atlantic/Bermuda: {
-    Generic: Temp atlantic,
-    Standard: Temp da standard atlantic,
-    Daylight: Temp da stad atlantic
+  America/Asuncion: {
+    Generic: temp: Paraguai,
+    Standard: temp normal: Paraguai,
+    Daylight: temp da stad: Paraguai
   },
-  America/Glace_Bay: {
-    Generic: Temp atlantic,
-    Standard: Temp da standard atlantic,
-    Daylight: Temp da stad atlantic
+  America/Atikokan: {
+    Generic: Temp oriental,
+    Standard: Temp da standard oriental,
+    Daylight: Temp da stad oriental
   },
-  America/Goose_Bay: {
-    Generic: Temp atlantic,
-    Standard: Temp da standard atlantic,
-    Daylight: Temp da stad atlantic
-  },
-  America/Moncton: {
-    Generic: Temp atlantic,
-    Standard: Temp da standard atlantic,
-    Daylight: Temp da stad atlantic
-  },
-  America/Thule: {
-    Generic: Temp atlantic,
-    Standard: Temp da standard atlantic,
-    Daylight: Temp da stad atlantic
-  },
-  Australia/Eucla: {
-    Generic: temp: Australia,
-    Standard: temp normal: Australia,
-    Daylight: temp da stad: Australia
-  },
-  Asia/Baku: {
-    Generic: temp: Aserbaidschan,
-    Standard: temp normal: Aserbaidschan,
-    Daylight: temp da stad: Aserbaidschan
-  },
-  Atlantic/Azores: {
-    Generic: temp: Portugal,
-    Standard: temp normal: Portugal,
-    Daylight: temp da stad: Portugal
-  },
-  America/Scoresbysund: {
-    Generic: temp: Grönlanda,
-    Standard: temp normal: Grönlanda,
-    Daylight: temp da stad: Grönlanda
+  America/Atka: {
+    Generic: temp: Stadis Unids da l’America,
+    Standard: temp normal: Stadis Unids da l’America,
+    Daylight: temp da stad: Stadis Unids da l’America
   },
   America/Bahia: {
     Generic: temp: Brasilia,
     Standard: temp normal: Brasilia,
     Daylight: temp da stad: Brasilia
   },
-  Asia/Dhaka: {
-    Generic: temp: Bangladesch,
-    Standard: temp normal: Bangladesch,
-    Daylight: temp da stad: Bangladesch
-  },
-  Asia/Thimphu: {
-    Generic: temp: Bhutan,
-    Standard: temp normal: Bhutan,
-    Daylight: temp da stad: Bhutan
-  },
-  Europe/Minsk: {
-    Generic: temp: Bielorussia,
-    Standard: temp normal: Bielorussia,
-    Daylight: temp da stad: Bielorussia
-  },
-  Pacific/Bougainville: {
-    Generic: temp: Papua Nova Guinea,
-    Standard: temp normal: Papua Nova Guinea,
-    Daylight: temp da stad: Papua Nova Guinea
-  },
-  America/Regina: {
+  America/Bahia_Banderas: {
     Generic: Temp central,
     Standard: Temp da standard central,
     Daylight: Temp da stad central
   },
-  America/Swift_Current: {
-    Generic: Temp central,
-    Standard: Temp da standard central,
-    Daylight: Temp da stad central
+  America/Barbados: {
+    Generic: Temp atlantic,
+    Standard: Temp da standard atlantic,
+    Daylight: Temp da stad atlantic
   },
-  Atlantic/Cape_Verde: {
-    Generic: temp: Cap Verd,
-    Standard: temp normal: Cap Verd,
-    Daylight: temp da stad: Cap Verd
-  },
-  Etc/GMT+1: {
-    Generic: Temp universal coordinà -1,
-    Standard: Temp universal coordinà -1,
-    Daylight: Temp universal coordinà -1
-  },
-  Asia/Yerevan: {
-    Generic: temp: Armenia,
-    Standard: temp normal: Armenia,
-    Daylight: temp da stad: Armenia
-  },
-  Australia/Adelaide: {
-    Generic: temp: Australia,
-    Standard: temp normal: Australia,
-    Daylight: temp da stad: Australia
-  },
-  Australia/Broken_Hill: {
-    Generic: temp: Australia,
-    Standard: temp normal: Australia,
-    Daylight: temp da stad: Australia
-  },
-  America/Guatemala: {
-    Generic: Temp central,
-    Standard: Temp da standard central,
-    Daylight: Temp da stad central
+  America/Belem: {
+    Generic: temp: Brasilia,
+    Standard: temp normal: Brasilia,
+    Daylight: temp da stad: Brasilia
   },
   America/Belize: {
     Generic: Temp central,
     Standard: Temp da standard central,
     Daylight: Temp da stad central
   },
-  America/Costa_Rica: {
-    Generic: Temp central,
-    Standard: Temp da standard central,
-    Daylight: Temp da stad central
+  America/Blanc-Sablon: {
+    Generic: Temp atlantic,
+    Standard: Temp da standard atlantic,
+    Daylight: Temp da stad atlantic
   },
-  Pacific/Galapagos: {
-    Generic: temp: Ecuador,
-    Standard: temp normal: Ecuador,
-    Daylight: temp da stad: Ecuador
-  },
-  America/Tegucigalpa: {
-    Generic: Temp central,
-    Standard: Temp da standard central,
-    Daylight: Temp da stad central
-  },
-  America/Managua: {
-    Generic: Temp central,
-    Standard: Temp da standard central,
-    Daylight: Temp da stad central
-  },
-  America/El_Salvador: {
-    Generic: Temp central,
-    Standard: Temp da standard central,
-    Daylight: Temp da stad central
-  },
-  Etc/GMT+6: {
-    Generic: Temp universal coordinà -6,
-    Standard: Temp universal coordinà -6,
-    Daylight: Temp universal coordinà -6
-  },
-  Asia/Almaty: {
-    Generic: temp: Kasachstan,
-    Standard: temp normal: Kasachstan,
-    Daylight: temp da stad: Kasachstan
-  },
-  Antarctica/Vostok: {
-    Generic: temp: Antarctica,
-    Standard: temp normal: Antarctica,
-    Daylight: temp da stad: Antarctica
-  },
-  Asia/Urumqi: {
-    Generic: temp: China,
-    Standard: temp normal: China,
-    Daylight: temp da stad: China
-  },
-  Indian/Chagos: {
-    Generic: temp: Territori Britannic en l’Ocean Indic,
-    Standard: temp normal: Territori Britannic en l’Ocean Indic,
-    Daylight: temp da stad: Territori Britannic en l’Ocean Indic
-  },
-  Asia/Bishkek: {
-    Generic: temp: Kirgisistan,
-    Standard: temp normal: Kirgisistan,
-    Daylight: temp da stad: Kirgisistan
-  },
-  Asia/Qostanay: {
-    Generic: temp: Kasachstan,
-    Standard: temp normal: Kasachstan,
-    Daylight: temp da stad: Kasachstan
-  },
-  Etc/GMT-6: {
-    Generic: Temp universal coordinà +6,
-    Standard: Temp universal coordinà +6,
-    Daylight: Temp universal coordinà +6
-  },
-  America/Cuiaba: {
+  America/Boa_Vista: {
     Generic: temp: Brasilia,
     Standard: temp normal: Brasilia,
     Daylight: temp da stad: Brasilia
+  },
+  America/Bogota: {
+    Generic: temp: Columbia,
+    Standard: temp normal: Columbia,
+    Daylight: temp da stad: Columbia
+  },
+  America/Boise: {
+    Generic: Temp da muntogna,
+    Standard: Temp da standard da muntogna,
+    Daylight: Temp da stad da muntogna
+  },
+  America/Buenos_Aires: {
+    Generic: temp: Argentinia,
+    Standard: temp normal: Argentinia,
+    Daylight: temp da stad: Argentinia
+  },
+  America/Cambridge_Bay: {
+    Generic: Temp da muntogna,
+    Standard: Temp da standard da muntogna,
+    Daylight: Temp da stad da muntogna
   },
   America/Campo_Grande: {
     Generic: temp: Brasilia,
     Standard: temp normal: Brasilia,
     Daylight: temp da stad: Brasilia
   },
-  Europe/Budapest: {
-    Generic: Temp da l’Europa Centrala,
-    Standard: Temp da standard da l’Europa Centrala,
-    Daylight: Temp da stad da l’Europa Centrala
+  America/Cancun: {
+    Generic: Temp oriental,
+    Standard: Temp da standard oriental,
+    Daylight: Temp da stad oriental
   },
-  Europe/Tirane: {
-    Generic: Temp da l’Europa Centrala,
-    Standard: Temp da standard da l’Europa Centrala,
-    Daylight: Temp da stad da l’Europa Centrala
+  America/Caracas: {
+    Generic: temp: Venezuela,
+    Standard: temp normal: Venezuela,
+    Daylight: temp da stad: Venezuela
   },
-  Europe/Prague: {
-    Generic: Temp da l’Europa Centrala,
-    Standard: Temp da standard da l’Europa Centrala,
-    Daylight: Temp da stad da l’Europa Centrala
+  America/Catamarca: {
+    Generic: temp: Argentinia,
+    Standard: temp normal: Argentinia,
+    Daylight: temp da stad: Argentinia
   },
-  Europe/Podgorica: {
-    Generic: Temp da l’Europa Centrala,
-    Standard: Temp da standard da l’Europa Centrala,
-    Daylight: Temp da stad da l’Europa Centrala
+  America/Cayenne: {
+    Generic: temp: Guyana Franzosa,
+    Standard: temp normal: Guyana Franzosa,
+    Daylight: temp da stad: Guyana Franzosa
   },
-  Europe/Belgrade: {
-    Generic: Temp da l’Europa Centrala,
-    Standard: Temp da standard da l’Europa Centrala,
-    Daylight: Temp da stad da l’Europa Centrala
+  America/Cayman: {
+    Generic: Temp oriental,
+    Standard: Temp da standard oriental,
+    Daylight: Temp da stad oriental
   },
-  Europe/Ljubljana: {
-    Generic: Temp da l’Europa Centrala,
-    Standard: Temp da standard da l’Europa Centrala,
-    Daylight: Temp da stad da l’Europa Centrala
-  },
-  Europe/Bratislava: {
-    Generic: Temp da l’Europa Centrala,
-    Standard: Temp da standard da l’Europa Centrala,
-    Daylight: Temp da stad da l’Europa Centrala
-  },
-  Europe/Warsaw: {
-    Generic: Temp da l’Europa Centrala,
-    Standard: Temp da standard da l’Europa Centrala,
-    Daylight: Temp da stad da l’Europa Centrala
-  },
-  Europe/Sarajevo: {
-    Generic: Temp da l’Europa Centrala,
-    Standard: Temp da standard da l’Europa Centrala,
-    Daylight: Temp da stad da l’Europa Centrala
-  },
-  Europe/Zagreb: {
-    Generic: Temp da l’Europa Centrala,
-    Standard: Temp da standard da l’Europa Centrala,
-    Daylight: Temp da stad da l’Europa Centrala
-  },
-  Europe/Skopje: {
-    Generic: Temp da l’Europa Centrala,
-    Standard: Temp da standard da l’Europa Centrala,
-    Daylight: Temp da stad da l’Europa Centrala
-  },
-  Pacific/Guadalcanal: {
-    Generic: temp: Inslas Salomonas,
-    Standard: temp normal: Inslas Salomonas,
-    Daylight: temp da stad: Inslas Salomonas
-  },
-  Antarctica/Casey: {
-    Generic: temp: Antarctica,
-    Standard: temp normal: Antarctica,
-    Daylight: temp da stad: Antarctica
-  },
-  Pacific/Ponape: {
-    Generic: temp: Micronesia,
-    Standard: temp normal: Micronesia,
-    Daylight: temp da stad: Micronesia
-  },
-  Pacific/Kosrae: {
-    Generic: temp: Micronesia,
-    Standard: temp normal: Micronesia,
-    Daylight: temp da stad: Micronesia
-  },
-  Pacific/Noumea: {
-    Generic: temp: Nova Caledonia,
-    Standard: temp normal: Nova Caledonia,
-    Daylight: temp da stad: Nova Caledonia
-  },
-  Pacific/Efate: {
-    Generic: temp: Vanuatu,
-    Standard: temp normal: Vanuatu,
-    Daylight: temp da stad: Vanuatu
-  },
-  Etc/GMT-11: {
-    Generic: Temp universal coordinà +11,
-    Standard: Temp universal coordinà +11,
-    Daylight: Temp universal coordinà +11
-  },
-  America/Mexico_City: {
+  America/Chicago: {
     Generic: Temp central,
     Standard: Temp da standard central,
     Daylight: Temp da stad central
   },
-  America/Bahia_Banderas: {
+  America/Chihuahua: {
+    Generic: temp: Mexico,
+    Standard: temp normal: Mexico,
+    Daylight: temp da stad: Mexico
+  },
+  America/Coral_Harbour: {
+    Generic: Temp oriental,
+    Standard: Temp da standard oriental,
+    Daylight: Temp da stad oriental
+  },
+  America/Cordoba: {
+    Generic: temp: Argentinia,
+    Standard: temp normal: Argentinia,
+    Daylight: temp da stad: Argentinia
+  },
+  America/Costa_Rica: {
+    Generic: Temp central,
+    Standard: Temp da standard central,
+    Daylight: Temp da stad central
+  },
+  America/Creston: {
+    Generic: Temp da muntogna,
+    Standard: Temp da standard da muntogna,
+    Daylight: Temp da stad da muntogna
+  },
+  America/Cuiaba: {
+    Generic: temp: Brasilia,
+    Standard: temp normal: Brasilia,
+    Daylight: temp da stad: Brasilia
+  },
+  America/Curacao: {
+    Generic: Temp atlantic,
+    Standard: Temp da standard atlantic,
+    Daylight: Temp da stad atlantic
+  },
+  America/Danmarkshavn: {
+    Generic: Temp Greenwich,
+    Standard: Temp Greenwich,
+    Daylight: Temp Greenwich
+  },
+  America/Dawson: {
+    Generic: temp: Canada,
+    Standard: temp normal: Canada,
+    Daylight: temp da stad: Canada
+  },
+  America/Dawson_Creek: {
+    Generic: Temp da muntogna,
+    Standard: Temp da standard da muntogna,
+    Daylight: Temp da stad da muntogna
+  },
+  America/Denver: {
+    Generic: Temp da muntogna,
+    Standard: Temp da standard da muntogna,
+    Daylight: Temp da stad da muntogna
+  },
+  America/Detroit: {
+    Generic: Temp oriental,
+    Standard: Temp da standard oriental,
+    Daylight: Temp da stad oriental
+  },
+  America/Dominica: {
+    Generic: Temp atlantic,
+    Standard: Temp da standard atlantic,
+    Daylight: Temp da stad atlantic
+  },
+  America/Edmonton: {
+    Generic: Temp da muntogna,
+    Standard: Temp da standard da muntogna,
+    Daylight: Temp da stad da muntogna
+  },
+  America/Eirunepe: {
+    Generic: temp: Brasilia,
+    Standard: temp normal: Brasilia,
+    Daylight: temp da stad: Brasilia
+  },
+  America/El_Salvador: {
+    Generic: Temp central,
+    Standard: Temp da standard central,
+    Daylight: Temp da stad central
+  },
+  America/Ensenada: {
+    Generic: Temp pacific,
+    Standard: Temp da standard pacific,
+    Daylight: Temp da stad pacific
+  },
+  America/Fort_Nelson: {
+    Generic: Temp da muntogna,
+    Standard: Temp da standard da muntogna,
+    Daylight: Temp da stad da muntogna
+  },
+  America/Fort_Wayne: {
+    Generic: Temp oriental,
+    Standard: Temp da standard oriental,
+    Daylight: Temp da stad oriental
+  },
+  America/Fortaleza: {
+    Generic: temp: Brasilia,
+    Standard: temp normal: Brasilia,
+    Daylight: temp da stad: Brasilia
+  },
+  America/Glace_Bay: {
+    Generic: Temp atlantic,
+    Standard: Temp da standard atlantic,
+    Daylight: Temp da stad atlantic
+  },
+  America/Godthab: {
+    Generic: temp: Grönlanda,
+    Standard: temp normal: Grönlanda,
+    Daylight: temp da stad: Grönlanda
+  },
+  America/Goose_Bay: {
+    Generic: Temp atlantic,
+    Standard: Temp da standard atlantic,
+    Daylight: Temp da stad atlantic
+  },
+  America/Grand_Turk: {
+    Generic: Temp oriental,
+    Standard: Temp da standard oriental,
+    Daylight: Temp da stad oriental
+  },
+  America/Grenada: {
+    Generic: Temp atlantic,
+    Standard: Temp da standard atlantic,
+    Daylight: Temp da stad atlantic
+  },
+  America/Guadeloupe: {
+    Generic: Temp atlantic,
+    Standard: Temp da standard atlantic,
+    Daylight: Temp da stad atlantic
+  },
+  America/Guatemala: {
+    Generic: Temp central,
+    Standard: Temp da standard central,
+    Daylight: Temp da stad central
+  },
+  America/Guayaquil: {
+    Generic: temp: Ecuador,
+    Standard: temp normal: Ecuador,
+    Daylight: temp da stad: Ecuador
+  },
+  America/Guyana: {
+    Generic: temp: Guyana,
+    Standard: temp normal: Guyana,
+    Daylight: temp da stad: Guyana
+  },
+  America/Halifax: {
+    Generic: Temp atlantic,
+    Standard: Temp da standard atlantic,
+    Daylight: Temp da stad atlantic
+  },
+  America/Havana: {
+    Generic: temp: Cuba,
+    Standard: temp normal: Cuba,
+    Daylight: temp da stad: Cuba
+  },
+  America/Hermosillo: {
+    Generic: temp: Mexico,
+    Standard: temp normal: Mexico,
+    Daylight: temp da stad: Mexico
+  },
+  America/Indiana/Indianapolis: {
+    Generic: Temp oriental,
+    Standard: Temp da standard oriental,
+    Daylight: Temp da stad oriental
+  },
+  America/Indiana/Knox: {
+    Generic: Temp central,
+    Standard: Temp da standard central,
+    Daylight: Temp da stad central
+  },
+  America/Indiana/Marengo: {
+    Generic: Temp oriental,
+    Standard: Temp da standard oriental,
+    Daylight: Temp da stad oriental
+  },
+  America/Indiana/Petersburg: {
+    Generic: Temp oriental,
+    Standard: Temp da standard oriental,
+    Daylight: Temp da stad oriental
+  },
+  America/Indiana/Tell_City: {
+    Generic: Temp central,
+    Standard: Temp da standard central,
+    Daylight: Temp da stad central
+  },
+  America/Indiana/Vevay: {
+    Generic: Temp oriental,
+    Standard: Temp da standard oriental,
+    Daylight: Temp da stad oriental
+  },
+  America/Indiana/Vincennes: {
+    Generic: Temp oriental,
+    Standard: Temp da standard oriental,
+    Daylight: Temp da stad oriental
+  },
+  America/Indiana/Winamac: {
+    Generic: Temp oriental,
+    Standard: Temp da standard oriental,
+    Daylight: Temp da stad oriental
+  },
+  America/Indianapolis: {
+    Generic: Temp oriental,
+    Standard: Temp da standard oriental,
+    Daylight: Temp da stad oriental
+  },
+  America/Inuvik: {
+    Generic: Temp da muntogna,
+    Standard: Temp da standard da muntogna,
+    Daylight: Temp da stad da muntogna
+  },
+  America/Iqaluit: {
+    Generic: Temp oriental,
+    Standard: Temp da standard oriental,
+    Daylight: Temp da stad oriental
+  },
+  America/Jamaica: {
+    Generic: Temp oriental,
+    Standard: Temp da standard oriental,
+    Daylight: Temp da stad oriental
+  },
+  America/Jujuy: {
+    Generic: temp: Argentinia,
+    Standard: temp normal: Argentinia,
+    Daylight: temp da stad: Argentinia
+  },
+  America/Juneau: {
+    Generic: temp: Stadis Unids da l’America,
+    Standard: temp normal: Stadis Unids da l’America,
+    Daylight: temp da stad: Stadis Unids da l’America
+  },
+  America/Kentucky/Louisville: {
+    Generic: Temp oriental,
+    Standard: Temp da standard oriental,
+    Daylight: Temp da stad oriental
+  },
+  America/Kentucky/Monticello: {
+    Generic: Temp oriental,
+    Standard: Temp da standard oriental,
+    Daylight: Temp da stad oriental
+  },
+  America/Knox_IN: {
+    Generic: Temp central,
+    Standard: Temp da standard central,
+    Daylight: Temp da stad central
+  },
+  America/Kralendijk: {
+    Generic: Temp atlantic,
+    Standard: Temp da standard atlantic,
+    Daylight: Temp da stad atlantic
+  },
+  America/La_Paz: {
+    Generic: temp: Bolivia,
+    Standard: temp normal: Bolivia,
+    Daylight: temp da stad: Bolivia
+  },
+  America/Lima: {
+    Generic: temp: Peru,
+    Standard: temp normal: Peru,
+    Daylight: temp da stad: Peru
+  },
+  America/Los_Angeles: {
+    Generic: Temp pacific,
+    Standard: Temp da standard pacific,
+    Daylight: Temp da stad pacific
+  },
+  America/Louisville: {
+    Generic: Temp oriental,
+    Standard: Temp da standard oriental,
+    Daylight: Temp da stad oriental
+  },
+  America/Lower_Princes: {
+    Generic: Temp atlantic,
+    Standard: Temp da standard atlantic,
+    Daylight: Temp da stad atlantic
+  },
+  America/Maceio: {
+    Generic: temp: Brasilia,
+    Standard: temp normal: Brasilia,
+    Daylight: temp da stad: Brasilia
+  },
+  America/Managua: {
+    Generic: Temp central,
+    Standard: Temp da standard central,
+    Daylight: Temp da stad central
+  },
+  America/Manaus: {
+    Generic: temp: Brasilia,
+    Standard: temp normal: Brasilia,
+    Daylight: temp da stad: Brasilia
+  },
+  America/Marigot: {
+    Generic: Temp atlantic,
+    Standard: Temp da standard atlantic,
+    Daylight: Temp da stad atlantic
+  },
+  America/Martinique: {
+    Generic: Temp atlantic,
+    Standard: Temp da standard atlantic,
+    Daylight: Temp da stad atlantic
+  },
+  America/Matamoros: {
+    Generic: Temp central,
+    Standard: Temp da standard central,
+    Daylight: Temp da stad central
+  },
+  America/Mazatlan: {
+    Generic: temp: Mexico,
+    Standard: temp normal: Mexico,
+    Daylight: temp da stad: Mexico
+  },
+  America/Mendoza: {
+    Generic: temp: Argentinia,
+    Standard: temp normal: Argentinia,
+    Daylight: temp da stad: Argentinia
+  },
+  America/Menominee: {
     Generic: Temp central,
     Standard: Temp da standard central,
     Daylight: Temp da stad central
@@ -474,55 +794,70 @@
     Standard: Temp da standard central,
     Daylight: Temp da stad central
   },
+  America/Metlakatla: {
+    Generic: temp: Stadis Unids da l’America,
+    Standard: temp normal: Stadis Unids da l’America,
+    Daylight: temp da stad: Stadis Unids da l’America
+  },
+  America/Mexico_City: {
+    Generic: Temp central,
+    Standard: Temp da standard central,
+    Daylight: Temp da stad central
+  },
+  America/Miquelon: {
+    Generic: temp: Saint Pierre e Miquelon,
+    Standard: temp normal: Saint Pierre e Miquelon,
+    Daylight: temp da stad: Saint Pierre e Miquelon
+  },
+  America/Moncton: {
+    Generic: Temp atlantic,
+    Standard: Temp da standard atlantic,
+    Daylight: Temp da stad atlantic
+  },
   America/Monterrey: {
     Generic: Temp central,
     Standard: Temp da standard central,
     Daylight: Temp da stad central
   },
-  America/Chicago: {
-    Generic: Temp central,
-    Standard: Temp da standard central,
-    Daylight: Temp da stad central
+  America/Montevideo: {
+    Generic: temp: Uruguay,
+    Standard: temp normal: Uruguay,
+    Daylight: temp da stad: Uruguay
   },
-  America/Winnipeg: {
-    Generic: Temp central,
-    Standard: Temp da standard central,
-    Daylight: Temp da stad central
+  America/Montreal: {
+    Generic: Temp oriental,
+    Standard: Temp da standard oriental,
+    Daylight: Temp da stad oriental
   },
-  America/Rainy_River: {
-    Generic: Temp central,
-    Standard: Temp da standard central,
-    Daylight: Temp da stad central
+  America/Montserrat: {
+    Generic: Temp atlantic,
+    Standard: Temp da standard atlantic,
+    Daylight: Temp da stad atlantic
   },
-  America/Rankin_Inlet: {
-    Generic: Temp central,
-    Standard: Temp da standard central,
-    Daylight: Temp da stad central
+  America/Nassau: {
+    Generic: Temp oriental,
+    Standard: Temp da standard oriental,
+    Daylight: Temp da stad oriental
   },
-  America/Resolute: {
-    Generic: Temp central,
-    Standard: Temp da standard central,
-    Daylight: Temp da stad central
+  America/New_York: {
+    Generic: Temp oriental,
+    Standard: Temp da standard oriental,
+    Daylight: Temp da stad oriental
   },
-  America/Matamoros: {
-    Generic: Temp central,
-    Standard: Temp da standard central,
-    Daylight: Temp da stad central
+  America/Nipigon: {
+    Generic: Temp oriental,
+    Standard: Temp da standard oriental,
+    Daylight: Temp da stad oriental
   },
-  America/Indiana/Knox: {
-    Generic: Temp central,
-    Standard: Temp da standard central,
-    Daylight: Temp da stad central
+  America/Nome: {
+    Generic: temp: Stadis Unids da l’America,
+    Standard: temp normal: Stadis Unids da l’America,
+    Daylight: temp da stad: Stadis Unids da l’America
   },
-  America/Indiana/Tell_City: {
-    Generic: Temp central,
-    Standard: Temp da standard central,
-    Daylight: Temp da stad central
-  },
-  America/Menominee: {
-    Generic: Temp central,
-    Standard: Temp da standard central,
-    Daylight: Temp da stad central
+  America/Noronha: {
+    Generic: temp: Brasilia,
+    Standard: temp normal: Brasilia,
+    Daylight: temp da stad: Brasilia
   },
   America/North_Dakota/Beulah: {
     Generic: Temp central,
@@ -539,157 +874,17 @@
     Standard: Temp da standard central,
     Daylight: Temp da stad central
   },
-  CST6CDT: {
-    Generic: Temp central,
-    Standard: Temp da standard central,
-    Daylight: Temp da stad central
+  America/Nuuk: {
+    Generic: temp: Grönlanda,
+    Standard: temp normal: Grönlanda,
+    Daylight: temp da stad: Grönlanda
   },
-  Pacific/Chatham: {
-    Generic: temp: Nova Zelanda,
-    Standard: temp normal: Nova Zelanda,
-    Daylight: temp da stad: Nova Zelanda
+  America/Ojinaga: {
+    Generic: Temp da muntogna,
+    Standard: Temp da standard da muntogna,
+    Daylight: Temp da stad da muntogna
   },
-  Asia/Shanghai: {
-    Generic: temp: China,
-    Standard: temp normal: China,
-    Daylight: temp da stad: China
-  },
-  Asia/Hong_Kong: {
-    Generic: temp: Regiun d’administraziun speziala da Hongkong, China,
-    Standard: temp normal: Regiun d’administraziun speziala da Hongkong, China,
-    Daylight: temp da stad: Regiun d’administraziun speziala da Hongkong, China
-  },
-  Asia/Macau: {
-    Generic: temp: Regiun d’administraziun speziala Macao, China,
-    Standard: temp normal: Regiun d’administraziun speziala Macao, China,
-    Daylight: temp da stad: Regiun d’administraziun speziala Macao, China
-  },
-  America/Havana: {
-    Generic: temp: Cuba,
-    Standard: temp normal: Cuba,
-    Daylight: temp da stad: Cuba
-  },
-  Etc/GMT+12: {
-    Generic: Temp universal coordinà -12,
-    Standard: Temp universal coordinà -12,
-    Daylight: Temp universal coordinà -12
-  },
-  Africa/Nairobi: {
-    Generic: temp: Kenia,
-    Standard: temp normal: Kenia,
-    Daylight: temp da stad: Kenia
-  },
-  Antarctica/Syowa: {
-    Generic: temp: Antarctica,
-    Standard: temp normal: Antarctica,
-    Daylight: temp da stad: Antarctica
-  },
-  Africa/Djibouti: {
-    Generic: temp: Dschibuti,
-    Standard: temp normal: Dschibuti,
-    Daylight: temp da stad: Dschibuti
-  },
-  Africa/Asmera: {
-    Generic: temp: Eritrea,
-    Standard: temp normal: Eritrea,
-    Daylight: temp da stad: Eritrea
-  },
-  Africa/Addis_Ababa: {
-    Generic: temp: Etiopia,
-    Standard: temp normal: Etiopia,
-    Daylight: temp da stad: Etiopia
-  },
-  Indian/Comoro: {
-    Generic: temp: Comoras,
-    Standard: temp normal: Comoras,
-    Daylight: temp da stad: Comoras
-  },
-  Indian/Antananarivo: {
-    Generic: temp: Madagascar,
-    Standard: temp normal: Madagascar,
-    Daylight: temp da stad: Madagascar
-  },
-  Africa/Mogadishu: {
-    Generic: temp: Somalia,
-    Standard: temp normal: Somalia,
-    Daylight: temp da stad: Somalia
-  },
-  Africa/Dar_es_Salaam: {
-    Generic: temp: Tansania,
-    Standard: temp normal: Tansania,
-    Daylight: temp da stad: Tansania
-  },
-  Africa/Kampala: {
-    Generic: temp: Uganda,
-    Standard: temp normal: Uganda,
-    Daylight: temp da stad: Uganda
-  },
-  Indian/Mayotte: {
-    Generic: temp: Mayotte,
-    Standard: temp normal: Mayotte,
-    Daylight: temp da stad: Mayotte
-  },
-  Etc/GMT-3: {
-    Generic: Temp universal coordinà +3,
-    Standard: Temp universal coordinà +3,
-    Daylight: Temp universal coordinà +3
-  },
-  Australia/Brisbane: {
-    Generic: temp: Australia,
-    Standard: temp normal: Australia,
-    Daylight: temp da stad: Australia
-  },
-  Australia/Lindeman: {
-    Generic: temp: Australia,
-    Standard: temp normal: Australia,
-    Daylight: temp da stad: Australia
-  },
-  Europe/Chisinau: {
-    Generic: Temp da l’Europa Orientala,
-    Standard: Temp da standard da l’Europa Orientala,
-    Daylight: Temp da stad da l’Europa Orientala
-  },
-  America/Sao_Paulo: {
-    Generic: temp: Brasilia,
-    Standard: temp normal: Brasilia,
-    Daylight: temp da stad: Brasilia
-  },
-  Pacific/Easter: {
-    Generic: temp: Chile,
-    Standard: temp normal: Chile,
-    Daylight: temp da stad: Chile
-  },
-  America/Cancun: {
-    Generic: Temp oriental,
-    Standard: Temp da standard oriental,
-    Daylight: Temp da stad oriental
-  },
-  America/New_York: {
-    Generic: Temp oriental,
-    Standard: Temp da standard oriental,
-    Daylight: Temp da stad oriental
-  },
-  America/Nassau: {
-    Generic: Temp oriental,
-    Standard: Temp da standard oriental,
-    Daylight: Temp da stad oriental
-  },
-  America/Toronto: {
-    Generic: Temp oriental,
-    Standard: Temp da standard oriental,
-    Daylight: Temp da stad oriental
-  },
-  America/Iqaluit: {
-    Generic: Temp oriental,
-    Standard: Temp da standard oriental,
-    Daylight: Temp da stad oriental
-  },
-  America/Montreal: {
-    Generic: Temp oriental,
-    Standard: Temp da standard oriental,
-    Daylight: Temp da stad oriental
-  },
-  America/Nipigon: {
+  America/Panama: {
     Generic: Temp oriental,
     Standard: Temp da standard oriental,
     Daylight: Temp da stad oriental
@@ -699,757 +894,27 @@
     Standard: Temp da standard oriental,
     Daylight: Temp da stad oriental
   },
-  America/Thunder_Bay: {
-    Generic: Temp oriental,
-    Standard: Temp da standard oriental,
-    Daylight: Temp da stad oriental
+  America/Paramaribo: {
+    Generic: temp: Surinam,
+    Standard: temp normal: Surinam,
+    Daylight: temp da stad: Surinam
   },
-  America/Detroit: {
-    Generic: Temp oriental,
-    Standard: Temp da standard oriental,
-    Daylight: Temp da stad oriental
-  },
-  America/Indiana/Petersburg: {
-    Generic: Temp oriental,
-    Standard: Temp da standard oriental,
-    Daylight: Temp da stad oriental
-  },
-  America/Indiana/Vincennes: {
-    Generic: Temp oriental,
-    Standard: Temp da standard oriental,
-    Daylight: Temp da stad oriental
-  },
-  America/Indiana/Winamac: {
-    Generic: Temp oriental,
-    Standard: Temp da standard oriental,
-    Daylight: Temp da stad oriental
-  },
-  America/Kentucky/Monticello: {
-    Generic: Temp oriental,
-    Standard: Temp da standard oriental,
-    Daylight: Temp da stad oriental
-  },
-  America/Louisville: {
-    Generic: Temp oriental,
-    Standard: Temp da standard oriental,
-    Daylight: Temp da stad oriental
-  },
-  EST5EDT: {
-    Generic: Temp oriental,
-    Standard: Temp da standard oriental,
-    Daylight: Temp da stad oriental
-  },
-  Africa/Cairo: {
-    Generic: Temp da l’Europa Orientala,
-    Standard: Temp da standard da l’Europa Orientala,
-    Daylight: Temp da stad da l’Europa Orientala
-  },
-  Asia/Yekaterinburg: {
-    Generic: temp: Jekaterinburg,
-    Standard: temp normal: Jekaterinburg,
-    Daylight: temp da stad: Jekaterinburg
-  },
-  Europe/Kiev: {
-    Generic: Temp da l’Europa Orientala,
-    Standard: Temp da standard da l’Europa Orientala,
-    Daylight: Temp da stad da l’Europa Orientala
-  },
-  Europe/Mariehamn: {
-    Generic: Temp da l’Europa Orientala,
-    Standard: Temp da standard da l’Europa Orientala,
-    Daylight: Temp da stad da l’Europa Orientala
-  },
-  Europe/Sofia: {
-    Generic: Temp da l’Europa Orientala,
-    Standard: Temp da standard da l’Europa Orientala,
-    Daylight: Temp da stad da l’Europa Orientala
-  },
-  Europe/Tallinn: {
-    Generic: Temp da l’Europa Orientala,
-    Standard: Temp da standard da l’Europa Orientala,
-    Daylight: Temp da stad da l’Europa Orientala
-  },
-  Europe/Helsinki: {
-    Generic: Temp da l’Europa Orientala,
-    Standard: Temp da standard da l’Europa Orientala,
-    Daylight: Temp da stad da l’Europa Orientala
-  },
-  Europe/Vilnius: {
-    Generic: Temp da l’Europa Orientala,
-    Standard: Temp da standard da l’Europa Orientala,
-    Daylight: Temp da stad da l’Europa Orientala
-  },
-  Europe/Riga: {
-    Generic: Temp da l’Europa Orientala,
-    Standard: Temp da standard da l’Europa Orientala,
-    Daylight: Temp da stad da l’Europa Orientala
-  },
-  Europe/Uzhgorod: {
-    Generic: Temp da l’Europa Orientala,
-    Standard: Temp da standard da l’Europa Orientala,
-    Daylight: Temp da stad da l’Europa Orientala
-  },
-  Europe/Zaporozhye: {
-    Generic: Temp da l’Europa Orientala,
-    Standard: Temp da standard da l’Europa Orientala,
-    Daylight: Temp da stad da l’Europa Orientala
-  },
-  Pacific/Fiji: {
-    Generic: temp: Fidschi,
-    Standard: temp normal: Fidschi,
-    Daylight: temp da stad: Fidschi
-  },
-  Europe/London: {
-    Generic: temp: Reginavel Unì,
-    Standard: Temp Greenwich,
-    Daylight: temp da stad britannic
-  },
-  Atlantic/Canary: {
-    Generic: Temp da l’Europa dal Vest,
-    Standard: Temp da standard da l’Europa dal Vest,
-    Daylight: Temp da stad da l’Europa dal Vest
-  },
-  Atlantic/Faeroe: {
-    Generic: Temp da l’Europa dal Vest,
-    Standard: Temp da standard da l’Europa dal Vest,
-    Daylight: Temp da stad da l’Europa dal Vest
-  },
-  Europe/Guernsey: {
-    Generic: Temp Greenwich,
-    Standard: Temp Greenwich,
-    Daylight: Temp Greenwich
-  },
-  Europe/Dublin: {
-    Generic: Temp Greenwich,
-    Standard: Temp Greenwich,
-    Daylight: Temp Greenwich
-  },
-  Europe/Isle_of_Man: {
-    Generic: Temp Greenwich,
-    Standard: Temp Greenwich,
-    Daylight: Temp Greenwich
-  },
-  Europe/Jersey: {
-    Generic: Temp Greenwich,
-    Standard: Temp Greenwich,
-    Daylight: Temp Greenwich
-  },
-  Europe/Lisbon: {
-    Generic: Temp da l’Europa dal Vest,
-    Standard: Temp da standard da l’Europa dal Vest,
-    Daylight: Temp da stad da l’Europa dal Vest
-  },
-  Atlantic/Madeira: {
-    Generic: Temp da l’Europa dal Vest,
-    Standard: Temp da standard da l’Europa dal Vest,
-    Daylight: Temp da stad da l’Europa dal Vest
-  },
-  Europe/Bucharest: {
-    Generic: Temp da l’Europa Orientala,
-    Standard: Temp da standard da l’Europa Orientala,
-    Daylight: Temp da stad da l’Europa Orientala
-  },
-  Asia/Nicosia: {
-    Generic: Temp da l’Europa Orientala,
-    Standard: Temp da standard da l’Europa Orientala,
-    Daylight: Temp da stad da l’Europa Orientala
-  },
-  Asia/Famagusta: {
-    Generic: Temp da l’Europa Orientala,
-    Standard: Temp da standard da l’Europa Orientala,
-    Daylight: Temp da stad da l’Europa Orientala
-  },
-  Europe/Athens: {
-    Generic: Temp da l’Europa Orientala,
-    Standard: Temp da standard da l’Europa Orientala,
-    Daylight: Temp da stad da l’Europa Orientala
-  },
-  Asia/Tbilisi: {
-    Generic: temp: Georgia,
-    Standard: temp normal: Georgia,
-    Daylight: temp da stad: Georgia
-  },
-  America/Godthab: {
-    Generic: temp: Grönlanda,
-    Standard: temp normal: Grönlanda,
-    Daylight: temp da stad: Grönlanda
-  },
-  Atlantic/Reykjavik: {
-    Generic: Temp Greenwich,
-    Standard: Temp Greenwich,
-    Daylight: Temp Greenwich
-  },
-  Atlantic/St_Helena: {
-    Generic: Temp Greenwich,
-    Standard: Temp Greenwich,
-    Daylight: Temp Greenwich
-  },
-  Africa/Ouagadougou: {
-    Generic: Temp Greenwich,
-    Standard: Temp Greenwich,
-    Daylight: Temp Greenwich
-  },
-  Africa/Abidjan: {
-    Generic: Temp Greenwich,
-    Standard: Temp Greenwich,
-    Daylight: Temp Greenwich
-  },
-  Africa/Accra: {
-    Generic: Temp Greenwich,
-    Standard: Temp Greenwich,
-    Daylight: Temp Greenwich
-  },
-  America/Danmarkshavn: {
-    Generic: Temp Greenwich,
-    Standard: Temp Greenwich,
-    Daylight: Temp Greenwich
-  },
-  Africa/Banjul: {
-    Generic: Temp Greenwich,
-    Standard: Temp Greenwich,
-    Daylight: Temp Greenwich
-  },
-  Africa/Conakry: {
-    Generic: Temp Greenwich,
-    Standard: Temp Greenwich,
-    Daylight: Temp Greenwich
-  },
-  Africa/Bissau: {
-    Generic: Temp Greenwich,
-    Standard: Temp Greenwich,
-    Daylight: Temp Greenwich
-  },
-  Africa/Monrovia: {
-    Generic: Temp Greenwich,
-    Standard: Temp Greenwich,
-    Daylight: Temp Greenwich
-  },
-  Africa/Bamako: {
-    Generic: Temp Greenwich,
-    Standard: Temp Greenwich,
-    Daylight: Temp Greenwich
-  },
-  Africa/Nouakchott: {
-    Generic: Temp Greenwich,
-    Standard: Temp Greenwich,
-    Daylight: Temp Greenwich
-  },
-  Africa/Freetown: {
-    Generic: Temp Greenwich,
-    Standard: Temp Greenwich,
-    Daylight: Temp Greenwich
-  },
-  Africa/Dakar: {
-    Generic: Temp Greenwich,
-    Standard: Temp Greenwich,
-    Daylight: Temp Greenwich
-  },
-  Africa/Lome: {
-    Generic: Temp Greenwich,
-    Standard: Temp Greenwich,
-    Daylight: Temp Greenwich
+  America/Phoenix: {
+    Generic: Temp da muntogna,
+    Standard: Temp da standard da muntogna,
+    Daylight: Temp da stad da muntogna
   },
   America/Port-au-Prince: {
     Generic: Temp oriental,
     Standard: Temp da standard oriental,
     Daylight: Temp da stad oriental
   },
-  Pacific/Honolulu: {
-    Generic: temp: Stadis Unids da l’America,
-    Standard: temp normal: Stadis Unids da l’America,
-    Daylight: temp da stad: Stadis Unids da l’America
-  },
-  Pacific/Rarotonga: {
-    Generic: temp: Inslas Cook,
-    Standard: temp normal: Inslas Cook,
-    Daylight: temp da stad: Inslas Cook
-  },
-  Pacific/Tahiti: {
-    Generic: temp: Polinesia Franzosa,
-    Standard: temp normal: Polinesia Franzosa,
-    Daylight: temp da stad: Polinesia Franzosa
-  },
-  Pacific/Johnston: {
-    Generic: temp: Johnston,
-    Standard: temp normal: Johnston,
-    Daylight: temp da stad: Johnston
-  },
-  Etc/GMT+10: {
-    Generic: Temp universal coordinà -10,
-    Standard: Temp universal coordinà -10,
-    Daylight: Temp universal coordinà -10
-  },
-  Asia/Calcutta: {
-    Generic: temp: India,
-    Standard: temp normal: India,
-    Daylight: temp da stad: India
-  },
-  Asia/Tehran: {
-    Generic: temp: Iran,
-    Standard: temp normal: Iran,
-    Daylight: temp da stad: Iran
-  },
-  Asia/Jerusalem: {
-    Generic: temp: Israel,
-    Standard: temp normal: Israel,
-    Daylight: temp da stad: Israel
-  },
-  Asia/Amman: {
-    Generic: Temp da l’Europa Orientala,
-    Standard: Temp da standard da l’Europa Orientala,
-    Daylight: Temp da stad da l’Europa Orientala
-  },
-  Europe/Kaliningrad: {
-    Generic: temp: Kaliningrad,
-    Standard: temp normal: Kaliningrad,
-    Daylight: temp da stad: Kaliningrad
-  },
-  Asia/Seoul: {
-    Generic: temp: Corea dal Sid,
-    Standard: temp normal: Corea dal Sid,
-    Daylight: temp da stad: Corea dal Sid
-  },
-  Africa/Tripoli: {
-    Generic: Temp da l’Europa Orientala,
-    Standard: Temp da standard da l’Europa Orientala,
-    Daylight: Temp da stad da l’Europa Orientala
-  },
-  Pacific/Kiritimati: {
-    Generic: temp: Kiribati,
-    Standard: temp normal: Kiribati,
-    Daylight: temp da stad: Kiribati
-  },
-  Etc/GMT-14: {
-    Generic: Temp universal coordinà +14,
-    Standard: Temp universal coordinà +14,
-    Daylight: Temp universal coordinà +14
-  },
-  Australia/Lord_Howe: {
-    Generic: temp: Australia,
-    Standard: temp normal: Australia,
-    Daylight: temp da stad: Australia
-  },
-  Asia/Magadan: {
-    Generic: temp: Magadan,
-    Standard: temp normal: Magadan,
-    Daylight: temp da stad: Magadan
-  },
-  America/Punta_Arenas: {
-    Generic: temp: Chile,
-    Standard: temp normal: Chile,
-    Daylight: temp da stad: Chile
-  },
-  Pacific/Marquesas: {
-    Generic: temp: Polinesia Franzosa,
-    Standard: temp normal: Polinesia Franzosa,
-    Daylight: temp da stad: Polinesia Franzosa
-  },
-  Indian/Mauritius: {
-    Generic: temp: Mauritius,
-    Standard: temp normal: Mauritius,
-    Daylight: temp da stad: Mauritius
-  },
-  Indian/Reunion: {
-    Generic: temp: Réunion,
-    Standard: temp normal: Réunion,
-    Daylight: temp da stad: Réunion
-  },
-  Indian/Mahe: {
-    Generic: temp: Seychellas,
-    Standard: temp normal: Seychellas,
-    Daylight: temp da stad: Seychellas
-  },
-  Asia/Beirut: {
-    Generic: Temp da l’Europa Orientala,
-    Standard: Temp da standard da l’Europa Orientala,
-    Daylight: Temp da stad da l’Europa Orientala
-  },
-  America/Montevideo: {
-    Generic: temp: Uruguay,
-    Standard: temp normal: Uruguay,
-    Daylight: temp da stad: Uruguay
-  },
-  Africa/Casablanca: {
-    Generic: Temp da l’Europa dal Vest,
-    Standard: Temp da standard da l’Europa dal Vest,
-    Daylight: Temp da stad da l’Europa dal Vest
-  },
-  Africa/El_Aaiun: {
-    Generic: Temp da l’Europa dal Vest,
-    Standard: Temp da standard da l’Europa dal Vest,
-    Daylight: Temp da stad da l’Europa dal Vest
-  },
-  America/Chihuahua: {
-    Generic: temp: Mexico,
-    Standard: temp normal: Mexico,
-    Daylight: temp da stad: Mexico
-  },
-  America/Mazatlan: {
-    Generic: temp: Mexico,
-    Standard: temp normal: Mexico,
-    Daylight: temp da stad: Mexico
-  },
-  America/Denver: {
-    Generic: Temp da muntogna,
-    Standard: Temp da standard da muntogna,
-    Daylight: Temp da stad da muntogna
-  },
-  America/Edmonton: {
-    Generic: Temp da muntogna,
-    Standard: Temp da standard da muntogna,
-    Daylight: Temp da stad da muntogna
-  },
-  America/Cambridge_Bay: {
-    Generic: Temp da muntogna,
-    Standard: Temp da standard da muntogna,
-    Daylight: Temp da stad da muntogna
-  },
-  America/Inuvik: {
-    Generic: Temp da muntogna,
-    Standard: Temp da standard da muntogna,
-    Daylight: Temp da stad da muntogna
-  },
-  America/Yellowknife: {
-    Generic: Temp da muntogna,
-    Standard: Temp da standard da muntogna,
-    Daylight: Temp da stad da muntogna
-  },
-  America/Ojinaga: {
-    Generic: Temp da muntogna,
-    Standard: Temp da standard da muntogna,
-    Daylight: Temp da stad da muntogna
-  },
-  America/Boise: {
-    Generic: Temp da muntogna,
-    Standard: Temp da standard da muntogna,
-    Daylight: Temp da stad da muntogna
-  },
-  MST7MDT: {
-    Generic: Temp da muntogna,
-    Standard: Temp da standard da muntogna,
-    Daylight: Temp da stad da muntogna
-  },
-  Asia/Rangoon: {
-    Generic: temp: Myanmar (Burma),
-    Standard: temp normal: Myanmar (Burma),
-    Daylight: temp da stad: Myanmar (Burma)
-  },
-  Indian/Cocos: {
-    Generic: temp: Inslas Cocos,
-    Standard: temp normal: Inslas Cocos,
-    Daylight: temp da stad: Inslas Cocos
-  },
-  Asia/Novosibirsk: {
-    Generic: temp: Nowosibirsk,
-    Standard: temp normal: Nowosibirsk,
-    Daylight: temp da stad: Nowosibirsk
-  },
-  Africa/Windhoek: {
-    Generic: temp: Namibia,
-    Standard: temp normal: Namibia,
-    Daylight: temp da stad: Namibia
-  },
-  Asia/Katmandu: {
-    Generic: temp: Nepal,
-    Standard: temp normal: Nepal,
-    Daylight: temp da stad: Nepal
-  },
-  Pacific/Auckland: {
-    Generic: temp: Nova Zelanda,
-    Standard: temp normal: Nova Zelanda,
-    Daylight: temp da stad: Nova Zelanda
-  },
-  Antarctica/McMurdo: {
-    Generic: temp: Antarctica,
-    Standard: temp normal: Antarctica,
-    Daylight: temp da stad: Antarctica
-  },
-  America/St_Johns: {
-    Generic: temp: Canada,
-    Standard: temp normal: Canada,
-    Daylight: temp da stad: Canada
-  },
-  Pacific/Norfolk: {
-    Generic: temp: Insla Norfolk,
-    Standard: temp normal: Insla Norfolk,
-    Daylight: temp da stad: Insla Norfolk
-  },
-  Asia/Irkutsk: {
-    Generic: temp: Irkutsk,
-    Standard: temp normal: Irkutsk,
-    Daylight: temp da stad: Irkutsk
-  },
-  Asia/Krasnoyarsk: {
-    Generic: temp: Krasnojarsk,
-    Standard: temp normal: Krasnojarsk,
-    Daylight: temp da stad: Krasnojarsk
-  },
-  Asia/Novokuznetsk: {
-    Generic: temp: Novokuznetsk,
-    Standard: temp normal: Novokuznetsk,
-    Daylight: temp da stad: Novokuznetsk
-  },
-  Asia/Pyongyang: {
-    Generic: temp: Corea dal Nord,
-    Standard: temp normal: Corea dal Nord,
-    Daylight: temp da stad: Corea dal Nord
-  },
-  Asia/Omsk: {
-    Generic: temp: Omsk,
-    Standard: temp normal: Omsk,
-    Daylight: temp da stad: Omsk
-  },
-  America/Santiago: {
-    Generic: temp: Chile,
-    Standard: temp normal: Chile,
-    Daylight: temp da stad: Chile
-  },
-  America/Tijuana: {
-    Generic: Temp pacific,
-    Standard: Temp da standard pacific,
-    Daylight: Temp da stad pacific
-  },
-  America/Santa_Isabel: {
-    Generic: temp: Santa Isabel,
-    Standard: temp normal: Santa Isabel,
-    Daylight: temp da stad: Santa Isabel
-  },
-  America/Los_Angeles: {
-    Generic: Temp pacific,
-    Standard: Temp da standard pacific,
-    Daylight: Temp da stad pacific
-  },
-  America/Vancouver: {
-    Generic: Temp pacific,
-    Standard: Temp da standard pacific,
-    Daylight: Temp da stad pacific
-  },
-  PST8PDT: {
-    Generic: Temp pacific,
-    Standard: Temp da standard pacific,
-    Daylight: Temp da stad pacific
-  },
-  Asia/Karachi: {
-    Generic: temp: Pakistan,
-    Standard: temp normal: Pakistan,
-    Daylight: temp da stad: Pakistan
-  },
-  America/Asuncion: {
-    Generic: temp: Paraguai,
-    Standard: temp normal: Paraguai,
-    Daylight: temp da stad: Paraguai
-  },
-  Asia/Qyzylorda: {
-    Generic: temp: Kasachstan,
-    Standard: temp normal: Kasachstan,
-    Daylight: temp da stad: Kasachstan
-  },
-  Europe/Paris: {
-    Generic: Temp da l’Europa Centrala,
-    Standard: Temp da standard da l’Europa Centrala,
-    Daylight: Temp da stad da l’Europa Centrala
-  },
-  Europe/Brussels: {
-    Generic: Temp da l’Europa Centrala,
-    Standard: Temp da standard da l’Europa Centrala,
-    Daylight: Temp da stad da l’Europa Centrala
-  },
-  Europe/Copenhagen: {
-    Generic: Temp da l’Europa Centrala,
-    Standard: Temp da standard da l’Europa Centrala,
-    Daylight: Temp da stad da l’Europa Centrala
-  },
-  Africa/Ceuta: {
-    Generic: Temp da l’Europa Centrala,
-    Standard: Temp da standard da l’Europa Centrala,
-    Daylight: Temp da stad da l’Europa Centrala
-  },
-  Europe/Madrid: {
-    Generic: Temp da l’Europa Centrala,
-    Standard: Temp da standard da l’Europa Centrala,
-    Daylight: Temp da stad da l’Europa Centrala
-  },
-  Asia/Srednekolymsk: {
-    Generic: temp: Srednekolymsk,
-    Standard: temp normal: Srednekolymsk,
-    Daylight: temp da stad: Srednekolymsk
-  },
-  Asia/Kamchatka: {
-    Generic: temp: Kamtschatka,
-    Standard: temp normal: Kamtschatka,
-    Daylight: temp da stad: Kamtschatka
-  },
-  Asia/Anadyr: {
-    Generic: temp: Anadyr,
-    Standard: temp normal: Anadyr,
-    Daylight: temp da stad: Anadyr
-  },
-  Europe/Samara: {
-    Generic: temp: Samara,
-    Standard: temp normal: Samara,
-    Daylight: temp da stad: Samara
-  },
-  Europe/Moscow: {
-    Generic: temp: Moscau,
-    Standard: temp normal: Moscau,
-    Daylight: temp da stad: Moscau
-  },
-  Europe/Kirov: {
-    Generic: temp: Kirov,
-    Standard: temp normal: Kirov,
-    Daylight: temp da stad: Kirov
-  },
-  Europe/Simferopol: {
-    Generic: temp: Ucraina,
-    Standard: temp normal: Ucraina,
-    Daylight: temp da stad: Ucraina
-  },
-  America/Cayenne: {
-    Generic: temp: Guyana Franzosa,
-    Standard: temp normal: Guyana Franzosa,
-    Daylight: temp da stad: Guyana Franzosa
-  },
-  Antarctica/Rothera: {
-    Generic: temp: Antarctica,
-    Standard: temp normal: Antarctica,
-    Daylight: temp da stad: Antarctica
-  },
-  Antarctica/Palmer: {
-    Generic: temp: Antarctica,
-    Standard: temp normal: Antarctica,
-    Daylight: temp da stad: Antarctica
-  },
-  America/Fortaleza: {
-    Generic: temp: Brasilia,
-    Standard: temp normal: Brasilia,
-    Daylight: temp da stad: Brasilia
-  },
-  America/Belem: {
-    Generic: temp: Brasilia,
-    Standard: temp normal: Brasilia,
-    Daylight: temp da stad: Brasilia
-  },
-  America/Maceio: {
-    Generic: temp: Brasilia,
-    Standard: temp normal: Brasilia,
-    Daylight: temp da stad: Brasilia
-  },
-  America/Recife: {
-    Generic: temp: Brasilia,
-    Standard: temp normal: Brasilia,
-    Daylight: temp da stad: Brasilia
-  },
-  America/Santarem: {
-    Generic: temp: Brasilia,
-    Standard: temp normal: Brasilia,
-    Daylight: temp da stad: Brasilia
-  },
-  Atlantic/Stanley: {
-    Generic: temp: Inslas dal Falkland,
-    Standard: temp normal: Inslas dal Falkland,
-    Daylight: temp da stad: Inslas dal Falkland
-  },
-  America/Paramaribo: {
-    Generic: temp: Surinam,
-    Standard: temp normal: Surinam,
-    Daylight: temp da stad: Surinam
-  },
-  Etc/GMT+3: {
-    Generic: Temp universal coordinà -3,
-    Standard: Temp universal coordinà -3,
-    Daylight: Temp universal coordinà -3
-  },
-  America/Bogota: {
-    Generic: temp: Columbia,
-    Standard: temp normal: Columbia,
-    Daylight: temp da stad: Columbia
-  },
-  America/Rio_Branco: {
-    Generic: temp: Brasilia,
-    Standard: temp normal: Brasilia,
-    Daylight: temp da stad: Brasilia
-  },
-  America/Eirunepe: {
-    Generic: temp: Brasilia,
-    Standard: temp normal: Brasilia,
-    Daylight: temp da stad: Brasilia
-  },
-  America/Coral_Harbour: {
-    Generic: Temp oriental,
-    Standard: Temp da standard oriental,
-    Daylight: Temp da stad oriental
-  },
-  America/Guayaquil: {
-    Generic: temp: Ecuador,
-    Standard: temp normal: Ecuador,
-    Daylight: temp da stad: Ecuador
-  },
-  America/Jamaica: {
-    Generic: Temp oriental,
-    Standard: Temp da standard oriental,
-    Daylight: Temp da stad oriental
-  },
-  America/Cayman: {
-    Generic: Temp oriental,
-    Standard: Temp da standard oriental,
-    Daylight: Temp da stad oriental
-  },
-  America/Panama: {
-    Generic: Temp oriental,
-    Standard: Temp da standard oriental,
-    Daylight: Temp da stad oriental
-  },
-  America/Lima: {
-    Generic: temp: Peru,
-    Standard: temp normal: Peru,
-    Daylight: temp da stad: Peru
-  },
-  Etc/GMT+5: {
-    Generic: Temp universal coordinà -5,
-    Standard: Temp universal coordinà -5,
-    Daylight: Temp universal coordinà -5
-  },
-  America/La_Paz: {
-    Generic: temp: Bolivia,
-    Standard: temp normal: Bolivia,
-    Daylight: temp da stad: Bolivia
-  },
-  America/Antigua: {
+  America/Port_of_Spain: {
     Generic: Temp atlantic,
     Standard: Temp da standard atlantic,
     Daylight: Temp da stad atlantic
   },
-  America/Anguilla: {
-    Generic: Temp atlantic,
-    Standard: Temp da standard atlantic,
-    Daylight: Temp da stad atlantic
-  },
-  America/Aruba: {
-    Generic: Temp atlantic,
-    Standard: Temp da standard atlantic,
-    Daylight: Temp da stad atlantic
-  },
-  America/Barbados: {
-    Generic: Temp atlantic,
-    Standard: Temp da standard atlantic,
-    Daylight: Temp da stad atlantic
-  },
-  America/St_Barthelemy: {
-    Generic: Temp atlantic,
-    Standard: Temp da standard atlantic,
-    Daylight: Temp da stad atlantic
-  },
-  America/Kralendijk: {
-    Generic: Temp atlantic,
-    Standard: Temp da standard atlantic,
-    Daylight: Temp da stad atlantic
-  },
-  America/Manaus: {
-    Generic: temp: Brasilia,
-    Standard: temp normal: Brasilia,
-    Daylight: temp da stad: Brasilia
-  },
-  America/Boa_Vista: {
+  America/Porto_Acre: {
     Generic: temp: Brasilia,
     Standard: temp normal: Brasilia,
     Daylight: temp da stad: Brasilia
@@ -1459,40 +924,100 @@
     Standard: temp normal: Brasilia,
     Daylight: temp da stad: Brasilia
   },
-  America/Blanc-Sablon: {
+  America/Puerto_Rico: {
     Generic: Temp atlantic,
     Standard: Temp da standard atlantic,
     Daylight: Temp da stad atlantic
   },
-  America/Curacao: {
-    Generic: Temp atlantic,
-    Standard: Temp da standard atlantic,
-    Daylight: Temp da stad atlantic
+  America/Punta_Arenas: {
+    Generic: temp: Chile,
+    Standard: temp normal: Chile,
+    Daylight: temp da stad: Chile
   },
-  America/Dominica: {
-    Generic: Temp atlantic,
-    Standard: Temp da standard atlantic,
-    Daylight: Temp da stad atlantic
+  America/Rainy_River: {
+    Generic: Temp central,
+    Standard: Temp da standard central,
+    Daylight: Temp da stad central
+  },
+  America/Rankin_Inlet: {
+    Generic: Temp central,
+    Standard: Temp da standard central,
+    Daylight: Temp da stad central
+  },
+  America/Recife: {
+    Generic: temp: Brasilia,
+    Standard: temp normal: Brasilia,
+    Daylight: temp da stad: Brasilia
+  },
+  America/Regina: {
+    Generic: Temp central,
+    Standard: Temp da standard central,
+    Daylight: Temp da stad central
+  },
+  America/Resolute: {
+    Generic: Temp central,
+    Standard: Temp da standard central,
+    Daylight: Temp da stad central
+  },
+  America/Rio_Branco: {
+    Generic: temp: Brasilia,
+    Standard: temp normal: Brasilia,
+    Daylight: temp da stad: Brasilia
+  },
+  America/Rosario: {
+    Generic: temp: Argentinia,
+    Standard: temp normal: Argentinia,
+    Daylight: temp da stad: Argentinia
+  },
+  America/Santa_Isabel: {
+    Generic: temp: Santa Isabel,
+    Standard: temp normal: Santa Isabel,
+    Daylight: temp da stad: Santa Isabel
+  },
+  America/Santarem: {
+    Generic: temp: Brasilia,
+    Standard: temp normal: Brasilia,
+    Daylight: temp da stad: Brasilia
+  },
+  America/Santiago: {
+    Generic: temp: Chile,
+    Standard: temp normal: Chile,
+    Daylight: temp da stad: Chile
   },
   America/Santo_Domingo: {
     Generic: Temp atlantic,
     Standard: Temp da standard atlantic,
     Daylight: Temp da stad atlantic
   },
-  America/Grenada: {
+  America/Sao_Paulo: {
+    Generic: temp: Brasilia,
+    Standard: temp normal: Brasilia,
+    Daylight: temp da stad: Brasilia
+  },
+  America/Scoresbysund: {
+    Generic: temp: Grönlanda,
+    Standard: temp normal: Grönlanda,
+    Daylight: temp da stad: Grönlanda
+  },
+  America/Shiprock: {
+    Generic: Temp da muntogna,
+    Standard: Temp da standard da muntogna,
+    Daylight: Temp da stad da muntogna
+  },
+  America/Sitka: {
+    Generic: temp: Stadis Unids da l’America,
+    Standard: temp normal: Stadis Unids da l’America,
+    Daylight: temp da stad: Stadis Unids da l’America
+  },
+  America/St_Barthelemy: {
     Generic: Temp atlantic,
     Standard: Temp da standard atlantic,
     Daylight: Temp da stad atlantic
   },
-  America/Guadeloupe: {
-    Generic: Temp atlantic,
-    Standard: Temp da standard atlantic,
-    Daylight: Temp da stad atlantic
-  },
-  America/Guyana: {
-    Generic: temp: Guyana,
-    Standard: temp normal: Guyana,
-    Daylight: temp da stad: Guyana
+  America/St_Johns: {
+    Generic: temp: Canada,
+    Standard: temp normal: Canada,
+    Daylight: temp da stad: Canada
   },
   America/St_Kitts: {
     Generic: Temp atlantic,
@@ -1504,32 +1029,7 @@
     Standard: Temp da standard atlantic,
     Daylight: Temp da stad atlantic
   },
-  America/Marigot: {
-    Generic: Temp atlantic,
-    Standard: Temp da standard atlantic,
-    Daylight: Temp da stad atlantic
-  },
-  America/Martinique: {
-    Generic: Temp atlantic,
-    Standard: Temp da standard atlantic,
-    Daylight: Temp da stad atlantic
-  },
-  America/Montserrat: {
-    Generic: Temp atlantic,
-    Standard: Temp da standard atlantic,
-    Daylight: Temp da stad atlantic
-  },
-  America/Puerto_Rico: {
-    Generic: Temp atlantic,
-    Standard: Temp da standard atlantic,
-    Daylight: Temp da stad atlantic
-  },
-  America/Lower_Princes: {
-    Generic: Temp atlantic,
-    Standard: Temp da standard atlantic,
-    Daylight: Temp da stad atlantic
-  },
-  America/Port_of_Spain: {
+  America/St_Thomas: {
     Generic: Temp atlantic,
     Standard: Temp da standard atlantic,
     Daylight: Temp da stad atlantic
@@ -1539,655 +1039,155 @@
     Standard: Temp da standard atlantic,
     Daylight: Temp da stad atlantic
   },
+  America/Swift_Current: {
+    Generic: Temp central,
+    Standard: Temp da standard central,
+    Daylight: Temp da stad central
+  },
+  America/Tegucigalpa: {
+    Generic: Temp central,
+    Standard: Temp da standard central,
+    Daylight: Temp da stad central
+  },
+  America/Thule: {
+    Generic: Temp atlantic,
+    Standard: Temp da standard atlantic,
+    Daylight: Temp da stad atlantic
+  },
+  America/Thunder_Bay: {
+    Generic: Temp oriental,
+    Standard: Temp da standard oriental,
+    Daylight: Temp da stad oriental
+  },
+  America/Tijuana: {
+    Generic: Temp pacific,
+    Standard: Temp da standard pacific,
+    Daylight: Temp da stad pacific
+  },
+  America/Toronto: {
+    Generic: Temp oriental,
+    Standard: Temp da standard oriental,
+    Daylight: Temp da stad oriental
+  },
   America/Tortola: {
     Generic: Temp atlantic,
     Standard: Temp da standard atlantic,
     Daylight: Temp da stad atlantic
   },
-  America/St_Thomas: {
+  America/Vancouver: {
+    Generic: Temp pacific,
+    Standard: Temp da standard pacific,
+    Daylight: Temp da stad pacific
+  },
+  America/Virgin: {
     Generic: Temp atlantic,
     Standard: Temp da standard atlantic,
     Daylight: Temp da stad atlantic
   },
-  Etc/GMT+4: {
-    Generic: Temp universal coordinà -4,
-    Standard: Temp universal coordinà -4,
-    Daylight: Temp universal coordinà -4
+  America/Whitehorse: {
+    Generic: temp: Canada,
+    Standard: temp normal: Canada,
+    Daylight: temp da stad: Canada
   },
-  Asia/Bangkok: {
-    Generic: temp: Tailanda,
-    Standard: temp normal: Tailanda,
-    Daylight: temp da stad: Tailanda
+  America/Winnipeg: {
+    Generic: Temp central,
+    Standard: Temp da standard central,
+    Daylight: Temp da stad central
+  },
+  America/Yakutat: {
+    Generic: temp: Stadis Unids da l’America,
+    Standard: temp normal: Stadis Unids da l’America,
+    Daylight: temp da stad: Stadis Unids da l’America
+  },
+  America/Yellowknife: {
+    Generic: Temp da muntogna,
+    Standard: Temp da standard da muntogna,
+    Daylight: Temp da stad da muntogna
+  },
+  Antarctica/Casey: {
+    Generic: temp: Antarctica,
+    Standard: temp normal: Antarctica,
+    Daylight: temp da stad: Antarctica
   },
   Antarctica/Davis: {
     Generic: temp: Antarctica,
     Standard: temp normal: Antarctica,
     Daylight: temp da stad: Antarctica
   },
-  Indian/Christmas: {
-    Generic: temp: Insla da Nadal,
-    Standard: temp normal: Insla da Nadal,
-    Daylight: temp da stad: Insla da Nadal
-  },
-  Asia/Jakarta: {
-    Generic: temp: Indonesia,
-    Standard: temp normal: Indonesia,
-    Daylight: temp da stad: Indonesia
-  },
-  Asia/Pontianak: {
-    Generic: temp: Indonesia,
-    Standard: temp normal: Indonesia,
-    Daylight: temp da stad: Indonesia
-  },
-  Asia/Phnom_Penh: {
-    Generic: temp: Cambodscha,
-    Standard: temp normal: Cambodscha,
-    Daylight: temp da stad: Cambodscha
-  },
-  Asia/Vientiane: {
-    Generic: temp: Laos,
-    Standard: temp normal: Laos,
-    Daylight: temp da stad: Laos
-  },
-  Asia/Saigon: {
-    Generic: temp: Vietnam,
-    Standard: temp normal: Vietnam,
-    Daylight: temp da stad: Vietnam
-  },
-  Etc/GMT-7: {
-    Generic: Temp universal coordinà +7,
-    Standard: Temp universal coordinà +7,
-    Daylight: Temp universal coordinà +7
-  },
-  America/Miquelon: {
-    Generic: temp: Saint Pierre e Miquelon,
-    Standard: temp normal: Saint Pierre e Miquelon,
-    Daylight: temp da stad: Saint Pierre e Miquelon
-  },
-  Asia/Sakhalin: {
-    Generic: temp: Sachalin,
-    Standard: temp normal: Sachalin,
-    Daylight: temp da stad: Sachalin
-  },
-  Pacific/Apia: {
-    Generic: temp: Samoa,
-    Standard: temp normal: Samoa,
-    Daylight: temp da stad: Samoa
-  },
-  Africa/Sao_Tome: {
-    Generic: Temp Greenwich,
-    Standard: Temp Greenwich,
-    Daylight: Temp Greenwich
-  },
-  Europe/Saratov: {
-    Generic: temp: Saratov,
-    Standard: temp normal: Saratov,
-    Daylight: temp da stad: Saratov
-  },
-  Asia/Singapore: {
-    Generic: temp: Singapur,
-    Standard: temp normal: Singapur,
-    Daylight: temp da stad: Singapur
-  },
-  Asia/Brunei: {
-    Generic: temp: Brunei,
-    Standard: temp normal: Brunei,
-    Daylight: temp da stad: Brunei
-  },
-  Asia/Makassar: {
-    Generic: temp: Indonesia,
-    Standard: temp normal: Indonesia,
-    Daylight: temp da stad: Indonesia
-  },
-  Asia/Kuala_Lumpur: {
-    Generic: temp: Malaisia,
-    Standard: temp normal: Malaisia,
-    Daylight: temp da stad: Malaisia
-  },
-  Asia/Kuching: {
-    Generic: temp: Malaisia,
-    Standard: temp normal: Malaisia,
-    Daylight: temp da stad: Malaisia
-  },
-  Asia/Manila: {
-    Generic: temp: Filippinas,
-    Standard: temp normal: Filippinas,
-    Daylight: temp da stad: Filippinas
-  },
-  Etc/GMT-8: {
-    Generic: Temp universal coordinà +8,
-    Standard: Temp universal coordinà +8,
-    Daylight: Temp universal coordinà +8
-  },
-  Africa/Johannesburg: {
-    Generic: temp: Africa dal Sid,
-    Standard: temp normal: Africa dal Sid,
-    Daylight: temp da stad: Africa dal Sid
-  },
-  Africa/Bujumbura: {
-    Generic: temp: Burundi,
-    Standard: temp normal: Burundi,
-    Daylight: temp da stad: Burundi
-  },
-  Africa/Gaborone: {
-    Generic: temp: Botswana,
-    Standard: temp normal: Botswana,
-    Daylight: temp da stad: Botswana
-  },
-  Africa/Lubumbashi: {
-    Generic: temp: Congo - Kinshasa,
-    Standard: temp normal: Congo - Kinshasa,
-    Daylight: temp da stad: Congo - Kinshasa
-  },
-  Africa/Maseru: {
-    Generic: temp: Lesotho,
-    Standard: temp normal: Lesotho,
-    Daylight: temp da stad: Lesotho
-  },
-  Africa/Blantyre: {
-    Generic: temp: Malawi,
-    Standard: temp normal: Malawi,
-    Daylight: temp da stad: Malawi
-  },
-  Africa/Maputo: {
-    Generic: temp: Mosambic,
-    Standard: temp normal: Mosambic,
-    Daylight: temp da stad: Mosambic
-  },
-  Africa/Kigali: {
-    Generic: temp: Ruanda,
-    Standard: temp normal: Ruanda,
-    Daylight: temp da stad: Ruanda
-  },
-  Africa/Mbabane: {
-    Generic: temp: Eswatini,
-    Standard: temp normal: Eswatini,
-    Daylight: temp da stad: Eswatini
-  },
-  Africa/Lusaka: {
-    Generic: temp: Sambia,
-    Standard: temp normal: Sambia,
-    Daylight: temp da stad: Sambia
-  },
-  Africa/Harare: {
-    Generic: temp: Simbabwe,
-    Standard: temp normal: Simbabwe,
-    Daylight: temp da stad: Simbabwe
-  },
-  Etc/GMT-2: {
-    Generic: Temp universal coordinà +2,
-    Standard: Temp universal coordinà +2,
-    Daylight: Temp universal coordinà +2
-  },
-  Africa/Juba: {
-    Generic: temp: Sudan dal Sid,
-    Standard: temp normal: Sudan dal Sid,
-    Daylight: temp da stad: Sudan dal Sid
-  },
-  Asia/Colombo: {
-    Generic: temp: Sri Lanka,
-    Standard: temp normal: Sri Lanka,
-    Daylight: temp da stad: Sri Lanka
-  },
-  Africa/Khartoum: {
-    Generic: temp: Sudan,
-    Standard: temp normal: Sudan,
-    Daylight: temp da stad: Sudan
-  },
-  Asia/Damascus: {
-    Generic: Temp da l’Europa Orientala,
-    Standard: Temp da standard da l’Europa Orientala,
-    Daylight: Temp da stad da l’Europa Orientala
-  },
-  Asia/Taipei: {
-    Generic: temp: Taiwan,
-    Standard: temp normal: Taiwan,
-    Daylight: temp da stad: Taiwan
-  },
-  Australia/Hobart: {
-    Generic: temp: Australia,
-    Standard: temp normal: Australia,
-    Daylight: temp da stad: Australia
-  },
-  Australia/Currie: {
-    Generic: temp: Currie,
-    Standard: temp normal: Currie,
-    Daylight: temp da stad: Currie
+  Antarctica/DumontDUrville: {
+    Generic: temp: Antarctica,
+    Standard: temp normal: Antarctica,
+    Daylight: temp da stad: Antarctica
   },
   Antarctica/Macquarie: {
     Generic: temp: Australia,
     Standard: temp normal: Australia,
     Daylight: temp da stad: Australia
   },
-  America/Araguaina: {
-    Generic: temp: Brasilia,
-    Standard: temp normal: Brasilia,
-    Daylight: temp da stad: Brasilia
+  Antarctica/Mawson: {
+    Generic: temp: Antarctica,
+    Standard: temp normal: Antarctica,
+    Daylight: temp da stad: Antarctica
   },
-  Asia/Tokyo: {
-    Generic: temp: Giapun,
-    Standard: temp normal: Giapun,
-    Daylight: temp da stad: Giapun
+  Antarctica/McMurdo: {
+    Generic: temp: Antarctica,
+    Standard: temp normal: Antarctica,
+    Daylight: temp da stad: Antarctica
   },
-  Asia/Jayapura: {
-    Generic: temp: Indonesia,
-    Standard: temp normal: Indonesia,
-    Daylight: temp da stad: Indonesia
+  Antarctica/Palmer: {
+    Generic: temp: Antarctica,
+    Standard: temp normal: Antarctica,
+    Daylight: temp da stad: Antarctica
   },
-  Pacific/Palau: {
-    Generic: temp: Palau,
-    Standard: temp normal: Palau,
-    Daylight: temp da stad: Palau
+  Antarctica/Rothera: {
+    Generic: temp: Antarctica,
+    Standard: temp normal: Antarctica,
+    Daylight: temp da stad: Antarctica
   },
-  Asia/Dili: {
-    Generic: temp: Timor da l’Ost,
-    Standard: temp normal: Timor da l’Ost,
-    Daylight: temp da stad: Timor da l’Ost
+  Antarctica/South_Pole: {
+    Generic: temp: Nova Zelanda,
+    Standard: temp normal: Nova Zelanda,
+    Daylight: temp da stad: Nova Zelanda
   },
-  Etc/GMT-9: {
-    Generic: Temp universal coordinà +9,
-    Standard: Temp universal coordinà +9,
-    Daylight: Temp universal coordinà +9
+  Antarctica/Syowa: {
+    Generic: temp: Antarctica,
+    Standard: temp normal: Antarctica,
+    Daylight: temp da stad: Antarctica
   },
-  Asia/Tomsk: {
-    Generic: temp: Tomsk,
-    Standard: temp normal: Tomsk,
-    Daylight: temp da stad: Tomsk
-  },
-  Pacific/Tongatapu: {
-    Generic: temp: Tonga,
-    Standard: temp normal: Tonga,
-    Daylight: temp da stad: Tonga
-  },
-  Asia/Chita: {
-    Generic: temp: Chita,
-    Standard: temp normal: Chita,
-    Daylight: temp da stad: Chita
-  },
-  Europe/Istanbul: {
-    Generic: temp: Tirchia,
-    Standard: temp normal: Tirchia,
-    Daylight: temp da stad: Tirchia
-  },
-  America/Grand_Turk: {
-    Generic: Temp oriental,
-    Standard: Temp da standard oriental,
-    Daylight: Temp da stad oriental
-  },
-  America/Indianapolis: {
-    Generic: Temp oriental,
-    Standard: Temp da standard oriental,
-    Daylight: Temp da stad oriental
-  },
-  America/Indiana/Marengo: {
-    Generic: Temp oriental,
-    Standard: Temp da standard oriental,
-    Daylight: Temp da stad oriental
-  },
-  America/Indiana/Vevay: {
-    Generic: Temp oriental,
-    Standard: Temp da standard oriental,
-    Daylight: Temp da stad oriental
-  },
-  America/Phoenix: {
-    Generic: Temp da muntogna,
-    Standard: Temp da standard da muntogna,
-    Daylight: Temp da stad da muntogna
-  },
-  America/Creston: {
-    Generic: Temp da muntogna,
-    Standard: Temp da standard da muntogna,
-    Daylight: Temp da stad da muntogna
-  },
-  America/Dawson_Creek: {
-    Generic: Temp da muntogna,
-    Standard: Temp da standard da muntogna,
-    Daylight: Temp da stad da muntogna
-  },
-  America/Fort_Nelson: {
-    Generic: Temp da muntogna,
-    Standard: Temp da standard da muntogna,
-    Daylight: Temp da stad da muntogna
-  },
-  America/Hermosillo: {
-    Generic: temp: Mexico,
-    Standard: temp normal: Mexico,
-    Daylight: temp da stad: Mexico
-  },
-  Etc/GMT+7: {
-    Generic: Temp universal coordinà -7,
-    Standard: Temp universal coordinà -7,
-    Daylight: Temp universal coordinà -7
-  },
-  Etc/GMT-12: {
-    Generic: Temp universal coordinà +12,
-    Standard: Temp universal coordinà +12,
-    Daylight: Temp universal coordinà +12
-  },
-  Pacific/Tarawa: {
-    Generic: temp: Kiribati,
-    Standard: temp normal: Kiribati,
-    Daylight: temp da stad: Kiribati
-  },
-  Pacific/Majuro: {
-    Generic: temp: Inslas da Marshall,
-    Standard: temp normal: Inslas da Marshall,
-    Daylight: temp da stad: Inslas da Marshall
-  },
-  Pacific/Kwajalein: {
-    Generic: temp: Inslas da Marshall,
-    Standard: temp normal: Inslas da Marshall,
-    Daylight: temp da stad: Inslas da Marshall
-  },
-  Pacific/Nauru: {
-    Generic: temp: Nauru,
-    Standard: temp normal: Nauru,
-    Daylight: temp da stad: Nauru
-  },
-  Pacific/Funafuti: {
-    Generic: temp: Tuvalu,
-    Standard: temp normal: Tuvalu,
-    Daylight: temp da stad: Tuvalu
-  },
-  Pacific/Wake: {
-    Generic: temp: Inslas Pitschnas Perifericas dals Stadis Unids da l’America,
-    Standard: temp normal: Inslas Pitschnas Perifericas dals Stadis Unids da l’America,
-    Daylight: temp da stad: Inslas Pitschnas Perifericas dals Stadis Unids da l’America
-  },
-  Pacific/Wallis: {
-    Generic: temp: Wallis & Futuna,
-    Standard: temp normal: Wallis & Futuna,
-    Daylight: temp da stad: Wallis & Futuna
-  },
-  Etc/GMT-13: {
-    Generic: Temp universal coordinà +13,
-    Standard: Temp universal coordinà +13,
-    Daylight: Temp universal coordinà +13
-  },
-  Pacific/Enderbury: {
-    Generic: temp: Kiribati,
-    Standard: temp normal: Kiribati,
-    Daylight: temp da stad: Kiribati
-  },
-  Pacific/Fakaofo: {
-    Generic: temp: Tokelau,
-    Standard: temp normal: Tokelau,
-    Daylight: temp da stad: Tokelau
-  },
-  Etc/UTC: {
-    Generic: Temp universal coordinà,
-    Standard: Temp universal coordinà,
-    Daylight: Temp universal coordinà
-  },
-  Etc/GMT: {
+  Antarctica/Troll: {
     Generic: Temp Greenwich,
     Standard: Temp Greenwich,
     Daylight: Temp Greenwich
   },
-  Etc/GMT+2: {
-    Generic: Temp universal coordinà -2,
-    Standard: Temp universal coordinà -2,
-    Daylight: Temp universal coordinà -2
-  },
-  America/Noronha: {
-    Generic: temp: Brasilia,
-    Standard: temp normal: Brasilia,
-    Daylight: temp da stad: Brasilia
-  },
-  Atlantic/South_Georgia: {
-    Generic: temp: Georgia dal Sid e las Inslas Sandwich dal Sid,
-    Standard: temp normal: Georgia dal Sid e las Inslas Sandwich dal Sid,
-    Daylight: temp da stad: Georgia dal Sid e las Inslas Sandwich dal Sid
-  },
-  Etc/GMT+8: {
-    Generic: Temp universal coordinà -8,
-    Standard: Temp universal coordinà -8,
-    Daylight: Temp universal coordinà -8
-  },
-  Pacific/Pitcairn: {
-    Generic: temp: Pitcairn,
-    Standard: temp normal: Pitcairn,
-    Daylight: temp da stad: Pitcairn
-  },
-  Etc/GMT+9: {
-    Generic: Temp universal coordinà -9,
-    Standard: Temp universal coordinà -9,
-    Daylight: Temp universal coordinà -9
-  },
-  Pacific/Gambier: {
-    Generic: temp: Polinesia Franzosa,
-    Standard: temp normal: Polinesia Franzosa,
-    Daylight: temp da stad: Polinesia Franzosa
-  },
-  Etc/GMT+11: {
-    Generic: Temp universal coordinà -11,
-    Standard: Temp universal coordinà -11,
-    Daylight: Temp universal coordinà -11
-  },
-  Pacific/Pago_Pago: {
-    Generic: temp: Samoa Americana,
-    Standard: temp normal: Samoa Americana,
-    Daylight: temp da stad: Samoa Americana
-  },
-  Pacific/Niue: {
-    Generic: temp: Niue,
-    Standard: temp normal: Niue,
-    Daylight: temp da stad: Niue
-  },
-  Pacific/Midway: {
-    Generic: temp: Inslas Pitschnas Perifericas dals Stadis Unids da l’America,
-    Standard: temp normal: Inslas Pitschnas Perifericas dals Stadis Unids da l’America,
-    Daylight: temp da stad: Inslas Pitschnas Perifericas dals Stadis Unids da l’America
-  },
-  Asia/Ulaanbaatar: {
-    Generic: temp: Mongolia,
-    Standard: temp normal: Mongolia,
-    Daylight: temp da stad: Mongolia
-  },
-  Asia/Choibalsan: {
-    Generic: temp: Mongolia,
-    Standard: temp normal: Mongolia,
-    Daylight: temp da stad: Mongolia
-  },
-  America/Caracas: {
-    Generic: temp: Venezuela,
-    Standard: temp normal: Venezuela,
-    Daylight: temp da stad: Venezuela
-  },
-  Asia/Vladivostok: {
-    Generic: temp: Vladivostok,
-    Standard: temp normal: Vladivostok,
-    Daylight: temp da stad: Vladivostok
-  },
-  Asia/Ust-Nera: {
-    Generic: temp: Ust-Nera,
-    Standard: temp normal: Ust-Nera,
-    Daylight: temp da stad: Ust-Nera
-  },
-  Europe/Volgograd: {
-    Generic: temp: Volgograd,
-    Standard: temp normal: Volgograd,
-    Daylight: temp da stad: Volgograd
-  },
-  Australia/Perth: {
-    Generic: temp: Australia,
-    Standard: temp normal: Australia,
-    Daylight: temp da stad: Australia
-  },
-  Africa/Lagos: {
-    Generic: temp: Nigeria,
-    Standard: temp normal: Nigeria,
-    Daylight: temp da stad: Nigeria
-  },
-  Africa/Luanda: {
-    Generic: temp: Angola,
-    Standard: temp normal: Angola,
-    Daylight: temp da stad: Angola
-  },
-  Africa/Porto-Novo: {
-    Generic: temp: Benin,
-    Standard: temp normal: Benin,
-    Daylight: temp da stad: Benin
-  },
-  Africa/Kinshasa: {
-    Generic: temp: Congo - Kinshasa,
-    Standard: temp normal: Congo - Kinshasa,
-    Daylight: temp da stad: Congo - Kinshasa
-  },
-  Africa/Bangui: {
-    Generic: temp: Republica Centralafricana,
-    Standard: temp normal: Republica Centralafricana,
-    Daylight: temp da stad: Republica Centralafricana
-  },
-  Africa/Brazzaville: {
-    Generic: temp: Congo,
-    Standard: temp normal: Congo,
-    Daylight: temp da stad: Congo
-  },
-  Africa/Douala: {
-    Generic: temp: Camerun,
-    Standard: temp normal: Camerun,
-    Daylight: temp da stad: Camerun
-  },
-  Africa/Algiers: {
-    Generic: Temp da l’Europa Centrala,
-    Standard: Temp da standard da l’Europa Centrala,
-    Daylight: Temp da stad da l’Europa Centrala
-  },
-  Africa/Libreville: {
-    Generic: temp: Gabun,
-    Standard: temp normal: Gabun,
-    Daylight: temp da stad: Gabun
-  },
-  Africa/Malabo: {
-    Generic: temp: Guinea Equatoriala,
-    Standard: temp normal: Guinea Equatoriala,
-    Daylight: temp da stad: Guinea Equatoriala
-  },
-  Africa/Niamey: {
-    Generic: temp: Niger,
-    Standard: temp normal: Niger,
-    Daylight: temp da stad: Niger
-  },
-  Africa/Ndjamena: {
-    Generic: temp: Tschad,
-    Standard: temp normal: Tschad,
-    Daylight: temp da stad: Tschad
-  },
-  Africa/Tunis: {
-    Generic: Temp da l’Europa Centrala,
-    Standard: Temp da standard da l’Europa Centrala,
-    Daylight: Temp da stad da l’Europa Centrala
-  },
-  Etc/GMT-1: {
-    Generic: Temp universal coordinà +1,
-    Standard: Temp universal coordinà +1,
-    Daylight: Temp universal coordinà +1
-  },
-  Europe/Berlin: {
-    Generic: Temp da l’Europa Centrala,
-    Standard: Temp da standard da l’Europa Centrala,
-    Daylight: Temp da stad da l’Europa Centrala
-  },
-  Europe/Andorra: {
-    Generic: Temp da l’Europa Centrala,
-    Standard: Temp da standard da l’Europa Centrala,
-    Daylight: Temp da stad da l’Europa Centrala
-  },
-  Europe/Vienna: {
-    Generic: Temp da l’Europa Centrala,
-    Standard: Temp da standard da l’Europa Centrala,
-    Daylight: Temp da stad da l’Europa Centrala
-  },
-  Europe/Zurich: {
-    Generic: Temp da l’Europa Centrala,
-    Standard: Temp da standard da l’Europa Centrala,
-    Daylight: Temp da stad da l’Europa Centrala
-  },
-  Europe/Busingen: {
-    Generic: Temp da l’Europa Centrala,
-    Standard: Temp da standard da l’Europa Centrala,
-    Daylight: Temp da stad da l’Europa Centrala
-  },
-  Europe/Gibraltar: {
-    Generic: Temp da l’Europa Centrala,
-    Standard: Temp da standard da l’Europa Centrala,
-    Daylight: Temp da stad da l’Europa Centrala
-  },
-  Europe/Rome: {
-    Generic: Temp da l’Europa Centrala,
-    Standard: Temp da standard da l’Europa Centrala,
-    Daylight: Temp da stad da l’Europa Centrala
-  },
-  Europe/Vaduz: {
-    Generic: Temp da l’Europa Centrala,
-    Standard: Temp da standard da l’Europa Centrala,
-    Daylight: Temp da stad da l’Europa Centrala
-  },
-  Europe/Luxembourg: {
-    Generic: Temp da l’Europa Centrala,
-    Standard: Temp da standard da l’Europa Centrala,
-    Daylight: Temp da stad da l’Europa Centrala
-  },
-  Europe/Monaco: {
-    Generic: Temp da l’Europa Centrala,
-    Standard: Temp da standard da l’Europa Centrala,
-    Daylight: Temp da stad da l’Europa Centrala
-  },
-  Europe/Malta: {
-    Generic: Temp da l’Europa Centrala,
-    Standard: Temp da standard da l’Europa Centrala,
-    Daylight: Temp da stad da l’Europa Centrala
-  },
-  Europe/Amsterdam: {
-    Generic: Temp da l’Europa Centrala,
-    Standard: Temp da standard da l’Europa Centrala,
-    Daylight: Temp da stad da l’Europa Centrala
-  },
-  Europe/Oslo: {
-    Generic: Temp da l’Europa Centrala,
-    Standard: Temp da standard da l’Europa Centrala,
-    Daylight: Temp da stad da l’Europa Centrala
-  },
-  Europe/Stockholm: {
-    Generic: Temp da l’Europa Centrala,
-    Standard: Temp da standard da l’Europa Centrala,
-    Daylight: Temp da stad da l’Europa Centrala
+  Antarctica/Vostok: {
+    Generic: temp: Antarctica,
+    Standard: temp normal: Antarctica,
+    Daylight: temp da stad: Antarctica
   },
   Arctic/Longyearbyen: {
     Generic: Temp da l’Europa Centrala,
     Standard: Temp da standard da l’Europa Centrala,
     Daylight: Temp da stad da l’Europa Centrala
   },
-  Europe/San_Marino: {
-    Generic: Temp da l’Europa Centrala,
-    Standard: Temp da standard da l’Europa Centrala,
-    Daylight: Temp da stad da l’Europa Centrala
+  Asia/Aden: {
+    Generic: temp: Jemen,
+    Standard: temp normal: Jemen,
+    Daylight: temp da stad: Jemen
   },
-  Europe/Vatican: {
-    Generic: Temp da l’Europa Centrala,
-    Standard: Temp da standard da l’Europa Centrala,
-    Daylight: Temp da stad da l’Europa Centrala
-  },
-  Asia/Hovd: {
-    Generic: temp: Mongolia,
-    Standard: temp normal: Mongolia,
-    Daylight: temp da stad: Mongolia
-  },
-  Asia/Tashkent: {
-    Generic: temp: Usbekistan,
-    Standard: temp normal: Usbekistan,
-    Daylight: temp da stad: Usbekistan
-  },
-  Antarctica/Mawson: {
-    Generic: temp: Antarctica,
-    Standard: temp normal: Antarctica,
-    Daylight: temp da stad: Antarctica
-  },
-  Asia/Oral: {
+  Asia/Almaty: {
     Generic: temp: Kasachstan,
     Standard: temp normal: Kasachstan,
     Daylight: temp da stad: Kasachstan
+  },
+  Asia/Amman: {
+    Generic: Temp da l’Europa Orientala,
+    Standard: Temp da standard da l’Europa Orientala,
+    Daylight: Temp da stad da l’Europa Orientala
+  },
+  Asia/Anadyr: {
+    Generic: temp: Anadyr,
+    Standard: temp normal: Anadyr,
+    Daylight: temp da stad: Anadyr
   },
   Asia/Aqtau: {
     Generic: temp: Kasachstan,
@@ -2199,415 +1199,75 @@
     Standard: temp normal: Kasachstan,
     Daylight: temp da stad: Kasachstan
   },
-  Asia/Atyrau: {
-    Generic: temp: Kasachstan,
-    Standard: temp normal: Kasachstan,
-    Daylight: temp da stad: Kasachstan
-  },
-  Indian/Maldives: {
-    Generic: temp: Maldivas,
-    Standard: temp normal: Maldivas,
-    Daylight: temp da stad: Maldivas
-  },
-  Indian/Kerguelen: {
-    Generic: temp: Territoris Franzos Meridiunals,
-    Standard: temp normal: Territoris Franzos Meridiunals,
-    Daylight: temp da stad: Territoris Franzos Meridiunals
-  },
-  Asia/Dushanbe: {
-    Generic: temp: Tadschikistan,
-    Standard: temp normal: Tadschikistan,
-    Daylight: temp da stad: Tadschikistan
-  },
   Asia/Ashgabat: {
     Generic: temp: Turkmenistan,
     Standard: temp normal: Turkmenistan,
     Daylight: temp da stad: Turkmenistan
-  },
-  Asia/Samarkand: {
-    Generic: temp: Usbekistan,
-    Standard: temp normal: Usbekistan,
-    Daylight: temp da stad: Usbekistan
-  },
-  Etc/GMT-5: {
-    Generic: Temp universal coordinà +5,
-    Standard: Temp universal coordinà +5,
-    Daylight: Temp universal coordinà +5
-  },
-  Asia/Hebron: {
-    Generic: Temp da l’Europa Orientala,
-    Standard: Temp da standard da l’Europa Orientala,
-    Daylight: Temp da stad da l’Europa Orientala
-  },
-  Asia/Gaza: {
-    Generic: Temp da l’Europa Orientala,
-    Standard: Temp da standard da l’Europa Orientala,
-    Daylight: Temp da stad da l’Europa Orientala
-  },
-  Pacific/Port_Moresby: {
-    Generic: temp: Papua Nova Guinea,
-    Standard: temp normal: Papua Nova Guinea,
-    Daylight: temp da stad: Papua Nova Guinea
-  },
-  Antarctica/DumontDUrville: {
-    Generic: temp: Antarctica,
-    Standard: temp normal: Antarctica,
-    Daylight: temp da stad: Antarctica
-  },
-  Pacific/Truk: {
-    Generic: temp: Micronesia,
-    Standard: temp normal: Micronesia,
-    Daylight: temp da stad: Micronesia
-  },
-  Pacific/Guam: {
-    Generic: temp: Guam,
-    Standard: temp normal: Guam,
-    Daylight: temp da stad: Guam
-  },
-  Pacific/Saipan: {
-    Generic: temp: Inslas Mariannas dal Nord,
-    Standard: temp normal: Inslas Mariannas dal Nord,
-    Daylight: temp da stad: Inslas Mariannas dal Nord
-  },
-  Etc/GMT-10: {
-    Generic: Temp universal coordinà +10,
-    Standard: Temp universal coordinà +10,
-    Daylight: Temp universal coordinà +10
-  },
-  Asia/Yakutsk: {
-    Generic: temp: Jakutsk,
-    Standard: temp normal: Jakutsk,
-    Daylight: temp da stad: Jakutsk
-  },
-  Asia/Khandyga: {
-    Generic: temp: Khandyga,
-    Standard: temp normal: Khandyga,
-    Daylight: temp da stad: Khandyga
-  },
-  America/Whitehorse: {
-    Generic: temp: Canada,
-    Standard: temp normal: Canada,
-    Daylight: temp da stad: Canada
-  },
-  America/Dawson: {
-    Generic: temp: Canada,
-    Standard: temp normal: Canada,
-    Daylight: temp da stad: Canada
-  },
-  Iceland: {
-    Generic: Temp Greenwich,
-    Standard: Temp Greenwich,
-    Daylight: Temp Greenwich
-  },
-  Africa/Timbuktu: {
-    Generic: Temp Greenwich,
-    Standard: Temp Greenwich,
-    Daylight: Temp Greenwich
-  },
-  Egypt: {
-    Generic: Temp da l’Europa Orientala,
-    Standard: Temp da standard da l’Europa Orientala,
-    Daylight: Temp da stad da l’Europa Orientala
-  },
-  Africa/Asmara: {
-    Generic: temp: Eritrea,
-    Standard: temp normal: Eritrea,
-    Daylight: temp da stad: Eritrea
-  },
-  Libya: {
-    Generic: Temp da l’Europa Orientala,
-    Standard: Temp da standard da l’Europa Orientala,
-    Daylight: Temp da stad da l’Europa Orientala
-  },
-  America/Atka: {
-    Generic: temp: Stadis Unids da l’America,
-    Standard: temp normal: Stadis Unids da l’America,
-    Daylight: temp da stad: Stadis Unids da l’America
-  },
-  US/Aleutian: {
-    Generic: temp: Stadis Unids da l’America,
-    Standard: temp normal: Stadis Unids da l’America,
-    Daylight: temp da stad: Stadis Unids da l’America
-  },
-  US/Alaska: {
-    Generic: temp: Stadis Unids da l’America,
-    Standard: temp normal: Stadis Unids da l’America,
-    Daylight: temp da stad: Stadis Unids da l’America
-  },
-  America/Argentina/Buenos_Aires: {
-    Generic: temp: Argentinia,
-    Standard: temp normal: Argentinia,
-    Daylight: temp da stad: Argentinia
-  },
-  America/Argentina/Catamarca: {
-    Generic: temp: Argentinia,
-    Standard: temp normal: Argentinia,
-    Daylight: temp da stad: Argentinia
-  },
-  America/Argentina/ComodRivadavia: {
-    Generic: temp: Argentinia,
-    Standard: temp normal: Argentinia,
-    Daylight: temp da stad: Argentinia
-  },
-  America/Argentina/Cordoba: {
-    Generic: temp: Argentinia,
-    Standard: temp normal: Argentinia,
-    Daylight: temp da stad: Argentinia
-  },
-  America/Rosario: {
-    Generic: temp: Argentinia,
-    Standard: temp normal: Argentinia,
-    Daylight: temp da stad: Argentinia
-  },
-  America/Argentina/Jujuy: {
-    Generic: temp: Argentinia,
-    Standard: temp normal: Argentinia,
-    Daylight: temp da stad: Argentinia
-  },
-  America/Argentina/Mendoza: {
-    Generic: temp: Argentinia,
-    Standard: temp normal: Argentinia,
-    Daylight: temp da stad: Argentinia
-  },
-  US/Central: {
-    Generic: Temp central,
-    Standard: Temp da standard central,
-    Daylight: Temp da stad central
-  },
-  America/Shiprock: {
-    Generic: Temp da muntogna,
-    Standard: Temp da standard da muntogna,
-    Daylight: Temp da stad da muntogna
-  },
-  Navajo: {
-    Generic: Temp da muntogna,
-    Standard: Temp da standard da muntogna,
-    Daylight: Temp da stad da muntogna
-  },
-  US/Mountain: {
-    Generic: Temp da muntogna,
-    Standard: Temp da standard da muntogna,
-    Daylight: Temp da stad da muntogna
-  },
-  US/Michigan: {
-    Generic: Temp oriental,
-    Standard: Temp da standard oriental,
-    Daylight: Temp da stad oriental
-  },
-  Canada/Mountain: {
-    Generic: Temp da muntogna,
-    Standard: Temp da standard da muntogna,
-    Daylight: Temp da stad da muntogna
-  },
-  Canada/Atlantic: {
-    Generic: Temp atlantic,
-    Standard: Temp da standard atlantic,
-    Daylight: Temp da stad atlantic
-  },
-  Cuba: {
-    Generic: temp: Cuba,
-    Standard: temp normal: Cuba,
-    Daylight: temp da stad: Cuba
-  },
-  America/Indiana/Indianapolis: {
-    Generic: Temp oriental,
-    Standard: Temp da standard oriental,
-    Daylight: Temp da stad oriental
-  },
-  US/East-Indiana: {
-    Generic: Temp oriental,
-    Standard: Temp da standard oriental,
-    Daylight: Temp da stad oriental
-  },
-  America/Knox_IN: {
-    Generic: Temp central,
-    Standard: Temp da standard central,
-    Daylight: Temp da stad central
-  },
-  US/Indiana-Starke: {
-    Generic: Temp central,
-    Standard: Temp da standard central,
-    Daylight: Temp da stad central
-  },
-  Jamaica: {
-    Generic: Temp oriental,
-    Standard: Temp da standard oriental,
-    Daylight: Temp da stad oriental
-  },
-  America/Kentucky/Louisville: {
-    Generic: Temp oriental,
-    Standard: Temp da standard oriental,
-    Daylight: Temp da stad oriental
-  },
-  US/Pacific: {
-    Generic: Temp pacific,
-    Standard: Temp da standard pacific,
-    Daylight: Temp da stad pacific
-  },
-  Brazil/West: {
-    Generic: temp: Brasilia,
-    Standard: temp normal: Brasilia,
-    Daylight: temp da stad: Brasilia
-  },
-  Mexico/BajaSur: {
-    Generic: temp: Mexico,
-    Standard: temp normal: Mexico,
-    Daylight: temp da stad: Mexico
-  },
-  Mexico/General: {
-    Generic: Temp central,
-    Standard: Temp da standard central,
-    Daylight: Temp da stad central
-  },
-  US/Eastern: {
-    Generic: Temp oriental,
-    Standard: Temp da standard oriental,
-    Daylight: Temp da stad oriental
-  },
-  Brazil/DeNoronha: {
-    Generic: temp: Brasilia,
-    Standard: temp normal: Brasilia,
-    Daylight: temp da stad: Brasilia
-  },
-  America/Nuuk: {
-    Generic: temp: Grönlanda,
-    Standard: temp normal: Grönlanda,
-    Daylight: temp da stad: Grönlanda
-  },
-  America/Atikokan: {
-    Generic: Temp oriental,
-    Standard: Temp da standard oriental,
-    Daylight: Temp da stad oriental
-  },
-  US/Arizona: {
-    Generic: Temp da muntogna,
-    Standard: Temp da standard da muntogna,
-    Daylight: Temp da stad da muntogna
-  },
-  America/Virgin: {
-    Generic: Temp atlantic,
-    Standard: Temp da standard atlantic,
-    Daylight: Temp da stad atlantic
-  },
-  Canada/Saskatchewan: {
-    Generic: Temp central,
-    Standard: Temp da standard central,
-    Daylight: Temp da stad central
-  },
-  America/Porto_Acre: {
-    Generic: temp: Brasilia,
-    Standard: temp normal: Brasilia,
-    Daylight: temp da stad: Brasilia
-  },
-  Brazil/Acre: {
-    Generic: temp: Brasilia,
-    Standard: temp normal: Brasilia,
-    Daylight: temp da stad: Brasilia
-  },
-  Chile/Continental: {
-    Generic: temp: Chile,
-    Standard: temp normal: Chile,
-    Daylight: temp da stad: Chile
-  },
-  Brazil/East: {
-    Generic: temp: Brasilia,
-    Standard: temp normal: Brasilia,
-    Daylight: temp da stad: Brasilia
-  },
-  Canada/Newfoundland: {
-    Generic: temp: Canada,
-    Standard: temp normal: Canada,
-    Daylight: temp da stad: Canada
-  },
-  America/Ensenada: {
-    Generic: Temp pacific,
-    Standard: Temp da standard pacific,
-    Daylight: Temp da stad pacific
-  },
-  Mexico/BajaNorte: {
-    Generic: Temp pacific,
-    Standard: Temp da standard pacific,
-    Daylight: Temp da stad pacific
-  },
-  Canada/Eastern: {
-    Generic: Temp oriental,
-    Standard: Temp da standard oriental,
-    Daylight: Temp da stad oriental
-  },
-  Canada/Pacific: {
-    Generic: Temp pacific,
-    Standard: Temp da standard pacific,
-    Daylight: Temp da stad pacific
-  },
-  Canada/Yukon: {
-    Generic: temp: Canada,
-    Standard: temp normal: Canada,
-    Daylight: temp da stad: Canada
-  },
-  Canada/Central: {
-    Generic: Temp central,
-    Standard: Temp da standard central,
-    Daylight: Temp da stad central
   },
   Asia/Ashkhabad: {
     Generic: temp: Turkmenistan,
     Standard: temp normal: Turkmenistan,
     Daylight: temp da stad: Turkmenistan
   },
-  Asia/Dacca: {
-    Generic: temp: Bangladesch,
-    Standard: temp normal: Bangladesch,
-    Daylight: temp da stad: Bangladesch
+  Asia/Atyrau: {
+    Generic: temp: Kasachstan,
+    Standard: temp normal: Kasachstan,
+    Daylight: temp da stad: Kasachstan
   },
-  Asia/Ho_Chi_Minh: {
-    Generic: temp: Vietnam,
-    Standard: temp normal: Vietnam,
-    Daylight: temp da stad: Vietnam
+  Asia/Baghdad: {
+    Generic: temp: Irac,
+    Standard: temp normal: Irac,
+    Daylight: temp da stad: Irac
   },
-  Hongkong: {
-    Generic: temp: Regiun d’administraziun speziala da Hongkong, China,
-    Standard: temp normal: Regiun d’administraziun speziala da Hongkong, China,
-    Daylight: temp da stad: Regiun d’administraziun speziala da Hongkong, China
+  Asia/Bahrain: {
+    Generic: temp: Bahrain,
+    Standard: temp normal: Bahrain,
+    Daylight: temp da stad: Bahrain
   },
-  Asia/Tel_Aviv: {
-    Generic: temp: Israel,
-    Standard: temp normal: Israel,
-    Daylight: temp da stad: Israel
+  Asia/Baku: {
+    Generic: temp: Aserbaidschan,
+    Standard: temp normal: Aserbaidschan,
+    Daylight: temp da stad: Aserbaidschan
   },
-  Israel: {
-    Generic: temp: Israel,
-    Standard: temp normal: Israel,
-    Daylight: temp da stad: Israel
+  Asia/Bangkok: {
+    Generic: temp: Tailanda,
+    Standard: temp normal: Tailanda,
+    Daylight: temp da stad: Tailanda
   },
-  Asia/Kathmandu: {
-    Generic: temp: Nepal,
-    Standard: temp normal: Nepal,
-    Daylight: temp da stad: Nepal
+  Asia/Barnaul: {
+    Generic: temp: Barnaul,
+    Standard: temp normal: Barnaul,
+    Daylight: temp da stad: Barnaul
   },
-  Asia/Kolkata: {
-    Generic: temp: India,
-    Standard: temp normal: India,
-    Daylight: temp da stad: India
-  },
-  Asia/Macao: {
-    Generic: temp: Regiun d’administraziun speziala Macao, China,
-    Standard: temp normal: Regiun d’administraziun speziala Macao, China,
-    Daylight: temp da stad: Regiun d’administraziun speziala Macao, China
-  },
-  Asia/Ujung_Pandang: {
-    Generic: temp: Indonesia,
-    Standard: temp normal: Indonesia,
-    Daylight: temp da stad: Indonesia
-  },
-  Europe/Nicosia: {
+  Asia/Beirut: {
     Generic: Temp da l’Europa Orientala,
     Standard: Temp da standard da l’Europa Orientala,
     Daylight: Temp da stad da l’Europa Orientala
   },
-  ROK: {
-    Generic: temp: Corea dal Sid,
-    Standard: temp normal: Corea dal Sid,
-    Daylight: temp da stad: Corea dal Sid
+  Asia/Bishkek: {
+    Generic: temp: Kirgisistan,
+    Standard: temp normal: Kirgisistan,
+    Daylight: temp da stad: Kirgisistan
+  },
+  Asia/Brunei: {
+    Generic: temp: Brunei,
+    Standard: temp normal: Brunei,
+    Daylight: temp da stad: Brunei
+  },
+  Asia/Calcutta: {
+    Generic: temp: India,
+    Standard: temp normal: India,
+    Daylight: temp da stad: India
+  },
+  Asia/Chita: {
+    Generic: temp: Chita,
+    Standard: temp normal: Chita,
+    Daylight: temp da stad: Chita
+  },
+  Asia/Choibalsan: {
+    Generic: temp: Mongolia,
+    Standard: temp normal: Mongolia,
+    Daylight: temp da stad: Mongolia
   },
   Asia/Chongqing: {
     Generic: temp: China,
@@ -2619,57 +1279,412 @@
     Standard: temp normal: China,
     Daylight: temp da stad: China
   },
+  Asia/Colombo: {
+    Generic: temp: Sri Lanka,
+    Standard: temp normal: Sri Lanka,
+    Daylight: temp da stad: Sri Lanka
+  },
+  Asia/Dacca: {
+    Generic: temp: Bangladesch,
+    Standard: temp normal: Bangladesch,
+    Daylight: temp da stad: Bangladesch
+  },
+  Asia/Damascus: {
+    Generic: Temp da l’Europa Orientala,
+    Standard: Temp da standard da l’Europa Orientala,
+    Daylight: Temp da stad da l’Europa Orientala
+  },
+  Asia/Dhaka: {
+    Generic: temp: Bangladesch,
+    Standard: temp normal: Bangladesch,
+    Daylight: temp da stad: Bangladesch
+  },
+  Asia/Dili: {
+    Generic: temp: Timor da l’Ost,
+    Standard: temp normal: Timor da l’Ost,
+    Daylight: temp da stad: Timor da l’Ost
+  },
+  Asia/Dubai: {
+    Generic: temp: Emirats Arabs Unids,
+    Standard: temp normal: Emirats Arabs Unids,
+    Daylight: temp da stad: Emirats Arabs Unids
+  },
+  Asia/Dushanbe: {
+    Generic: temp: Tadschikistan,
+    Standard: temp normal: Tadschikistan,
+    Daylight: temp da stad: Tadschikistan
+  },
+  Asia/Famagusta: {
+    Generic: Temp da l’Europa Orientala,
+    Standard: Temp da standard da l’Europa Orientala,
+    Daylight: Temp da stad da l’Europa Orientala
+  },
+  Asia/Gaza: {
+    Generic: Temp da l’Europa Orientala,
+    Standard: Temp da standard da l’Europa Orientala,
+    Daylight: Temp da stad da l’Europa Orientala
+  },
   Asia/Harbin: {
     Generic: temp: China,
     Standard: temp normal: China,
     Daylight: temp da stad: China
   },
-  PRC: {
-    Generic: temp: China,
-    Standard: temp normal: China,
-    Daylight: temp da stad: China
+  Asia/Hebron: {
+    Generic: Temp da l’Europa Orientala,
+    Standard: Temp da standard da l’Europa Orientala,
+    Daylight: Temp da stad da l’Europa Orientala
   },
-  Singapore: {
-    Generic: temp: Singapur,
-    Standard: temp normal: Singapur,
-    Daylight: temp da stad: Singapur
+  Asia/Ho_Chi_Minh: {
+    Generic: temp: Vietnam,
+    Standard: temp normal: Vietnam,
+    Daylight: temp da stad: Vietnam
   },
-  ROC: {
-    Generic: temp: Taiwan,
-    Standard: temp normal: Taiwan,
-    Daylight: temp da stad: Taiwan
+  Asia/Hong_Kong: {
+    Generic: temp: Regiun d’administraziun speziala da Hongkong, China,
+    Standard: temp normal: Regiun d’administraziun speziala da Hongkong, China,
+    Daylight: temp da stad: Regiun d’administraziun speziala da Hongkong, China
   },
-  Iran: {
-    Generic: temp: Iran,
-    Standard: temp normal: Iran,
-    Daylight: temp da stad: Iran
-  },
-  Asia/Thimbu: {
-    Generic: temp: Bhutan,
-    Standard: temp normal: Bhutan,
-    Daylight: temp da stad: Bhutan
-  },
-  Japan: {
-    Generic: temp: Giapun,
-    Standard: temp normal: Giapun,
-    Daylight: temp da stad: Giapun
-  },
-  Asia/Ulan_Bator: {
+  Asia/Hovd: {
     Generic: temp: Mongolia,
     Standard: temp normal: Mongolia,
     Daylight: temp da stad: Mongolia
+  },
+  Asia/Irkutsk: {
+    Generic: temp: Irkutsk,
+    Standard: temp normal: Irkutsk,
+    Daylight: temp da stad: Irkutsk
+  },
+  Asia/Istanbul: {
+    Generic: temp: Tirchia,
+    Standard: temp normal: Tirchia,
+    Daylight: temp da stad: Tirchia
+  },
+  Asia/Jakarta: {
+    Generic: temp: Indonesia,
+    Standard: temp normal: Indonesia,
+    Daylight: temp da stad: Indonesia
+  },
+  Asia/Jayapura: {
+    Generic: temp: Indonesia,
+    Standard: temp normal: Indonesia,
+    Daylight: temp da stad: Indonesia
+  },
+  Asia/Jerusalem: {
+    Generic: temp: Israel,
+    Standard: temp normal: Israel,
+    Daylight: temp da stad: Israel
+  },
+  Asia/Kabul: {
+    Generic: temp: Afghanistan,
+    Standard: temp normal: Afghanistan,
+    Daylight: temp da stad: Afghanistan
+  },
+  Asia/Kamchatka: {
+    Generic: temp: Kamtschatka,
+    Standard: temp normal: Kamtschatka,
+    Daylight: temp da stad: Kamtschatka
+  },
+  Asia/Karachi: {
+    Generic: temp: Pakistan,
+    Standard: temp normal: Pakistan,
+    Daylight: temp da stad: Pakistan
   },
   Asia/Kashgar: {
     Generic: temp: China,
     Standard: temp normal: China,
     Daylight: temp da stad: China
   },
+  Asia/Kathmandu: {
+    Generic: temp: Nepal,
+    Standard: temp normal: Nepal,
+    Daylight: temp da stad: Nepal
+  },
+  Asia/Katmandu: {
+    Generic: temp: Nepal,
+    Standard: temp normal: Nepal,
+    Daylight: temp da stad: Nepal
+  },
+  Asia/Khandyga: {
+    Generic: temp: Khandyga,
+    Standard: temp normal: Khandyga,
+    Daylight: temp da stad: Khandyga
+  },
+  Asia/Kolkata: {
+    Generic: temp: India,
+    Standard: temp normal: India,
+    Daylight: temp da stad: India
+  },
+  Asia/Krasnoyarsk: {
+    Generic: temp: Krasnojarsk,
+    Standard: temp normal: Krasnojarsk,
+    Daylight: temp da stad: Krasnojarsk
+  },
+  Asia/Kuala_Lumpur: {
+    Generic: temp: Malaisia,
+    Standard: temp normal: Malaisia,
+    Daylight: temp da stad: Malaisia
+  },
+  Asia/Kuching: {
+    Generic: temp: Malaisia,
+    Standard: temp normal: Malaisia,
+    Daylight: temp da stad: Malaisia
+  },
+  Asia/Kuwait: {
+    Generic: temp: Kuwait,
+    Standard: temp normal: Kuwait,
+    Daylight: temp da stad: Kuwait
+  },
+  Asia/Macao: {
+    Generic: temp: Regiun d’administraziun speziala Macao, China,
+    Standard: temp normal: Regiun d’administraziun speziala Macao, China,
+    Daylight: temp da stad: Regiun d’administraziun speziala Macao, China
+  },
+  Asia/Macau: {
+    Generic: temp: Regiun d’administraziun speziala Macao, China,
+    Standard: temp normal: Regiun d’administraziun speziala Macao, China,
+    Daylight: temp da stad: Regiun d’administraziun speziala Macao, China
+  },
+  Asia/Magadan: {
+    Generic: temp: Magadan,
+    Standard: temp normal: Magadan,
+    Daylight: temp da stad: Magadan
+  },
+  Asia/Makassar: {
+    Generic: temp: Indonesia,
+    Standard: temp normal: Indonesia,
+    Daylight: temp da stad: Indonesia
+  },
+  Asia/Manila: {
+    Generic: temp: Filippinas,
+    Standard: temp normal: Filippinas,
+    Daylight: temp da stad: Filippinas
+  },
+  Asia/Muscat: {
+    Generic: temp: Oman,
+    Standard: temp normal: Oman,
+    Daylight: temp da stad: Oman
+  },
+  Asia/Nicosia: {
+    Generic: Temp da l’Europa Orientala,
+    Standard: Temp da standard da l’Europa Orientala,
+    Daylight: Temp da stad da l’Europa Orientala
+  },
+  Asia/Novokuznetsk: {
+    Generic: temp: Novokuznetsk,
+    Standard: temp normal: Novokuznetsk,
+    Daylight: temp da stad: Novokuznetsk
+  },
+  Asia/Novosibirsk: {
+    Generic: temp: Nowosibirsk,
+    Standard: temp normal: Nowosibirsk,
+    Daylight: temp da stad: Nowosibirsk
+  },
+  Asia/Omsk: {
+    Generic: temp: Omsk,
+    Standard: temp normal: Omsk,
+    Daylight: temp da stad: Omsk
+  },
+  Asia/Oral: {
+    Generic: temp: Kasachstan,
+    Standard: temp normal: Kasachstan,
+    Daylight: temp da stad: Kasachstan
+  },
+  Asia/Phnom_Penh: {
+    Generic: temp: Cambodscha,
+    Standard: temp normal: Cambodscha,
+    Daylight: temp da stad: Cambodscha
+  },
+  Asia/Pontianak: {
+    Generic: temp: Indonesia,
+    Standard: temp normal: Indonesia,
+    Daylight: temp da stad: Indonesia
+  },
+  Asia/Pyongyang: {
+    Generic: temp: Corea dal Nord,
+    Standard: temp normal: Corea dal Nord,
+    Daylight: temp da stad: Corea dal Nord
+  },
+  Asia/Qatar: {
+    Generic: temp: Katar,
+    Standard: temp normal: Katar,
+    Daylight: temp da stad: Katar
+  },
+  Asia/Qostanay: {
+    Generic: temp: Kasachstan,
+    Standard: temp normal: Kasachstan,
+    Daylight: temp da stad: Kasachstan
+  },
+  Asia/Qyzylorda: {
+    Generic: temp: Kasachstan,
+    Standard: temp normal: Kasachstan,
+    Daylight: temp da stad: Kasachstan
+  },
+  Asia/Rangoon: {
+    Generic: temp: Myanmar (Burma),
+    Standard: temp normal: Myanmar (Burma),
+    Daylight: temp da stad: Myanmar (Burma)
+  },
+  Asia/Riyadh: {
+    Generic: temp: Arabia Saudita,
+    Standard: temp normal: Arabia Saudita,
+    Daylight: temp da stad: Arabia Saudita
+  },
+  Asia/Saigon: {
+    Generic: temp: Vietnam,
+    Standard: temp normal: Vietnam,
+    Daylight: temp da stad: Vietnam
+  },
+  Asia/Sakhalin: {
+    Generic: temp: Sachalin,
+    Standard: temp normal: Sachalin,
+    Daylight: temp da stad: Sachalin
+  },
+  Asia/Samarkand: {
+    Generic: temp: Usbekistan,
+    Standard: temp normal: Usbekistan,
+    Daylight: temp da stad: Usbekistan
+  },
+  Asia/Seoul: {
+    Generic: temp: Corea dal Sid,
+    Standard: temp normal: Corea dal Sid,
+    Daylight: temp da stad: Corea dal Sid
+  },
+  Asia/Shanghai: {
+    Generic: temp: China,
+    Standard: temp normal: China,
+    Daylight: temp da stad: China
+  },
+  Asia/Singapore: {
+    Generic: temp: Singapur,
+    Standard: temp normal: Singapur,
+    Daylight: temp da stad: Singapur
+  },
+  Asia/Srednekolymsk: {
+    Generic: temp: Srednekolymsk,
+    Standard: temp normal: Srednekolymsk,
+    Daylight: temp da stad: Srednekolymsk
+  },
+  Asia/Taipei: {
+    Generic: temp: Taiwan,
+    Standard: temp normal: Taiwan,
+    Daylight: temp da stad: Taiwan
+  },
+  Asia/Tashkent: {
+    Generic: temp: Usbekistan,
+    Standard: temp normal: Usbekistan,
+    Daylight: temp da stad: Usbekistan
+  },
+  Asia/Tbilisi: {
+    Generic: temp: Georgia,
+    Standard: temp normal: Georgia,
+    Daylight: temp da stad: Georgia
+  },
+  Asia/Tehran: {
+    Generic: temp: Iran,
+    Standard: temp normal: Iran,
+    Daylight: temp da stad: Iran
+  },
+  Asia/Tel_Aviv: {
+    Generic: temp: Israel,
+    Standard: temp normal: Israel,
+    Daylight: temp da stad: Israel
+  },
+  Asia/Thimbu: {
+    Generic: temp: Bhutan,
+    Standard: temp normal: Bhutan,
+    Daylight: temp da stad: Bhutan
+  },
+  Asia/Thimphu: {
+    Generic: temp: Bhutan,
+    Standard: temp normal: Bhutan,
+    Daylight: temp da stad: Bhutan
+  },
+  Asia/Tokyo: {
+    Generic: temp: Giapun,
+    Standard: temp normal: Giapun,
+    Daylight: temp da stad: Giapun
+  },
+  Asia/Tomsk: {
+    Generic: temp: Tomsk,
+    Standard: temp normal: Tomsk,
+    Daylight: temp da stad: Tomsk
+  },
+  Asia/Ujung_Pandang: {
+    Generic: temp: Indonesia,
+    Standard: temp normal: Indonesia,
+    Daylight: temp da stad: Indonesia
+  },
+  Asia/Ulaanbaatar: {
+    Generic: temp: Mongolia,
+    Standard: temp normal: Mongolia,
+    Daylight: temp da stad: Mongolia
+  },
+  Asia/Ulan_Bator: {
+    Generic: temp: Mongolia,
+    Standard: temp normal: Mongolia,
+    Daylight: temp da stad: Mongolia
+  },
+  Asia/Urumqi: {
+    Generic: temp: China,
+    Standard: temp normal: China,
+    Daylight: temp da stad: China
+  },
+  Asia/Ust-Nera: {
+    Generic: temp: Ust-Nera,
+    Standard: temp normal: Ust-Nera,
+    Daylight: temp da stad: Ust-Nera
+  },
+  Asia/Vientiane: {
+    Generic: temp: Laos,
+    Standard: temp normal: Laos,
+    Daylight: temp da stad: Laos
+  },
+  Asia/Vladivostok: {
+    Generic: temp: Vladivostok,
+    Standard: temp normal: Vladivostok,
+    Daylight: temp da stad: Vladivostok
+  },
+  Asia/Yakutsk: {
+    Generic: temp: Jakutsk,
+    Standard: temp normal: Jakutsk,
+    Daylight: temp da stad: Jakutsk
+  },
   Asia/Yangon: {
     Generic: temp: Myanmar (Burma),
     Standard: temp normal: Myanmar (Burma),
     Daylight: temp da stad: Myanmar (Burma)
   },
-  WET: {
+  Asia/Yekaterinburg: {
+    Generic: temp: Jekaterinburg,
+    Standard: temp normal: Jekaterinburg,
+    Daylight: temp da stad: Jekaterinburg
+  },
+  Asia/Yerevan: {
+    Generic: temp: Armenia,
+    Standard: temp normal: Armenia,
+    Daylight: temp da stad: Armenia
+  },
+  Atlantic/Azores: {
+    Generic: temp: Portugal,
+    Standard: temp normal: Portugal,
+    Daylight: temp da stad: Portugal
+  },
+  Atlantic/Bermuda: {
+    Generic: Temp atlantic,
+    Standard: Temp da standard atlantic,
+    Daylight: Temp da stad atlantic
+  },
+  Atlantic/Canary: {
+    Generic: Temp da l’Europa dal Vest,
+    Standard: Temp da standard da l’Europa dal Vest,
+    Daylight: Temp da stad da l’Europa dal Vest
+  },
+  Atlantic/Cape_Verde: {
+    Generic: temp: Cap Verd,
+    Standard: temp normal: Cap Verd,
+    Daylight: temp da stad: Cap Verd
+  },
+  Atlantic/Faeroe: {
     Generic: Temp da l’Europa dal Vest,
     Standard: Temp da standard da l’Europa dal Vest,
     Daylight: Temp da stad da l’Europa dal Vest
@@ -2679,17 +1694,102 @@
     Standard: Temp da standard da l’Europa dal Vest,
     Daylight: Temp da stad da l’Europa dal Vest
   },
-  Australia/South: {
+  Atlantic/Jan_Mayen: {
+    Generic: Temp da l’Europa Centrala,
+    Standard: Temp da standard da l’Europa Centrala,
+    Daylight: Temp da stad da l’Europa Centrala
+  },
+  Atlantic/Madeira: {
+    Generic: Temp da l’Europa dal Vest,
+    Standard: Temp da standard da l’Europa dal Vest,
+    Daylight: Temp da stad da l’Europa dal Vest
+  },
+  Atlantic/Reykjavik: {
+    Generic: Temp Greenwich,
+    Standard: Temp Greenwich,
+    Daylight: Temp Greenwich
+  },
+  Atlantic/South_Georgia: {
+    Generic: temp: Georgia dal Sid e las Inslas Sandwich dal Sid,
+    Standard: temp normal: Georgia dal Sid e las Inslas Sandwich dal Sid,
+    Daylight: temp da stad: Georgia dal Sid e las Inslas Sandwich dal Sid
+  },
+  Atlantic/St_Helena: {
+    Generic: Temp Greenwich,
+    Standard: Temp Greenwich,
+    Daylight: Temp Greenwich
+  },
+  Atlantic/Stanley: {
+    Generic: temp: Inslas dal Falkland,
+    Standard: temp normal: Inslas dal Falkland,
+    Daylight: temp da stad: Inslas dal Falkland
+  },
+  Australia/ACT: {
     Generic: temp: Australia,
     Standard: temp normal: Australia,
     Daylight: temp da stad: Australia
   },
-  Australia/Queensland: {
+  Australia/Adelaide: {
     Generic: temp: Australia,
     Standard: temp normal: Australia,
     Daylight: temp da stad: Australia
   },
-  Australia/Yancowinna: {
+  Australia/Brisbane: {
+    Generic: temp: Australia,
+    Standard: temp normal: Australia,
+    Daylight: temp da stad: Australia
+  },
+  Australia/Broken_Hill: {
+    Generic: temp: Australia,
+    Standard: temp normal: Australia,
+    Daylight: temp da stad: Australia
+  },
+  Australia/Canberra: {
+    Generic: temp: Australia,
+    Standard: temp normal: Australia,
+    Daylight: temp da stad: Australia
+  },
+  Australia/Currie: {
+    Generic: temp: Currie,
+    Standard: temp normal: Currie,
+    Daylight: temp da stad: Currie
+  },
+  Australia/Darwin: {
+    Generic: temp: Australia,
+    Standard: temp normal: Australia,
+    Daylight: temp da stad: Australia
+  },
+  Australia/Eucla: {
+    Generic: temp: Australia,
+    Standard: temp normal: Australia,
+    Daylight: temp da stad: Australia
+  },
+  Australia/Hobart: {
+    Generic: temp: Australia,
+    Standard: temp normal: Australia,
+    Daylight: temp da stad: Australia
+  },
+  Australia/LHI: {
+    Generic: temp: Australia,
+    Standard: temp normal: Australia,
+    Daylight: temp da stad: Australia
+  },
+  Australia/Lindeman: {
+    Generic: temp: Australia,
+    Standard: temp normal: Australia,
+    Daylight: temp da stad: Australia
+  },
+  Australia/Lord_Howe: {
+    Generic: temp: Australia,
+    Standard: temp normal: Australia,
+    Daylight: temp da stad: Australia
+  },
+  Australia/Melbourne: {
+    Generic: temp: Australia,
+    Standard: temp normal: Australia,
+    Daylight: temp da stad: Australia
+  },
+  Australia/NSW: {
     Generic: temp: Australia,
     Standard: temp normal: Australia,
     Daylight: temp da stad: Australia
@@ -2699,12 +1799,27 @@
     Standard: temp normal: Australia,
     Daylight: temp da stad: Australia
   },
-  Australia/Tasmania: {
+  Australia/Perth: {
     Generic: temp: Australia,
     Standard: temp normal: Australia,
     Daylight: temp da stad: Australia
   },
-  Australia/LHI: {
+  Australia/Queensland: {
+    Generic: temp: Australia,
+    Standard: temp normal: Australia,
+    Daylight: temp da stad: Australia
+  },
+  Australia/South: {
+    Generic: temp: Australia,
+    Standard: temp normal: Australia,
+    Daylight: temp da stad: Australia
+  },
+  Australia/Sydney: {
+    Generic: temp: Australia,
+    Standard: temp normal: Australia,
+    Daylight: temp da stad: Australia
+  },
+  Australia/Tasmania: {
     Generic: temp: Australia,
     Standard: temp normal: Australia,
     Daylight: temp da stad: Australia
@@ -2719,45 +1834,265 @@
     Standard: temp normal: Australia,
     Daylight: temp da stad: Australia
   },
-  Australia/ACT: {
+  Australia/Yancowinna: {
     Generic: temp: Australia,
     Standard: temp normal: Australia,
     Daylight: temp da stad: Australia
   },
-  Australia/Canberra: {
-    Generic: temp: Australia,
-    Standard: temp normal: Australia,
-    Daylight: temp da stad: Australia
+  Brazil/Acre: {
+    Generic: temp: Brasilia,
+    Standard: temp normal: Brasilia,
+    Daylight: temp da stad: Brasilia
   },
-  Australia/NSW: {
-    Generic: temp: Australia,
-    Standard: temp normal: Australia,
-    Daylight: temp da stad: Australia
+  Brazil/DeNoronha: {
+    Generic: temp: Brasilia,
+    Standard: temp normal: Brasilia,
+    Daylight: temp da stad: Brasilia
   },
-  HST: {
-    Generic: Temp universal coordinà -10,
-    Standard: Temp universal coordinà -10,
-    Daylight: Temp universal coordinà -10
+  Brazil/East: {
+    Generic: temp: Brasilia,
+    Standard: temp normal: Brasilia,
+    Daylight: temp da stad: Brasilia
+  },
+  Brazil/West: {
+    Generic: temp: Brasilia,
+    Standard: temp normal: Brasilia,
+    Daylight: temp da stad: Brasilia
+  },
+  CET: {
+    Generic: Temp da l’Europa Centrala,
+    Standard: Temp da standard da l’Europa Centrala,
+    Daylight: Temp da stad da l’Europa Centrala
+  },
+  CST6CDT: {
+    Generic: Temp central,
+    Standard: Temp da standard central,
+    Daylight: Temp da stad central
+  },
+  Canada/Atlantic: {
+    Generic: Temp atlantic,
+    Standard: Temp da standard atlantic,
+    Daylight: Temp da stad atlantic
+  },
+  Canada/Central: {
+    Generic: Temp central,
+    Standard: Temp da standard central,
+    Daylight: Temp da stad central
+  },
+  Canada/Eastern: {
+    Generic: Temp oriental,
+    Standard: Temp da standard oriental,
+    Daylight: Temp da stad oriental
+  },
+  Canada/Mountain: {
+    Generic: Temp da muntogna,
+    Standard: Temp da standard da muntogna,
+    Daylight: Temp da stad da muntogna
+  },
+  Canada/Newfoundland: {
+    Generic: temp: Canada,
+    Standard: temp normal: Canada,
+    Daylight: temp da stad: Canada
+  },
+  Canada/Pacific: {
+    Generic: Temp pacific,
+    Standard: Temp da standard pacific,
+    Daylight: Temp da stad pacific
+  },
+  Canada/Saskatchewan: {
+    Generic: Temp central,
+    Standard: Temp da standard central,
+    Daylight: Temp da stad central
+  },
+  Canada/Yukon: {
+    Generic: temp: Canada,
+    Standard: temp normal: Canada,
+    Daylight: temp da stad: Canada
+  },
+  Chile/Continental: {
+    Generic: temp: Chile,
+    Standard: temp normal: Chile,
+    Daylight: temp da stad: Chile
+  },
+  Chile/EasterIsland: {
+    Generic: temp: Chile,
+    Standard: temp normal: Chile,
+    Daylight: temp da stad: Chile
+  },
+  Cuba: {
+    Generic: temp: Cuba,
+    Standard: temp normal: Cuba,
+    Daylight: temp da stad: Cuba
+  },
+  EET: {
+    Generic: Temp da l’Europa Orientala,
+    Standard: Temp da standard da l’Europa Orientala,
+    Daylight: Temp da stad da l’Europa Orientala
   },
   EST: {
     Generic: Temp universal coordinà -5,
     Standard: Temp universal coordinà -5,
     Daylight: Temp universal coordinà -5
   },
-  MST: {
-    Generic: Temp universal coordinà -7,
-    Standard: Temp universal coordinà -7,
-    Daylight: Temp universal coordinà -7
+  EST5EDT: {
+    Generic: Temp oriental,
+    Standard: Temp da standard oriental,
+    Daylight: Temp da stad oriental
+  },
+  Egypt: {
+    Generic: Temp da l’Europa Orientala,
+    Standard: Temp da standard da l’Europa Orientala,
+    Daylight: Temp da stad da l’Europa Orientala
+  },
+  Eire: {
+    Generic: Temp Greenwich,
+    Standard: Temp Greenwich,
+    Daylight: Temp Greenwich
+  },
+  Etc/GMT: {
+    Generic: Temp Greenwich,
+    Standard: Temp Greenwich,
+    Daylight: Temp Greenwich
   },
   Etc/GMT+0: {
     Generic: Temp Greenwich,
     Standard: Temp Greenwich,
     Daylight: Temp Greenwich
   },
+  Etc/GMT+1: {
+    Generic: Temp universal coordinà -1,
+    Standard: Temp universal coordinà -1,
+    Daylight: Temp universal coordinà -1
+  },
+  Etc/GMT+10: {
+    Generic: Temp universal coordinà -10,
+    Standard: Temp universal coordinà -10,
+    Daylight: Temp universal coordinà -10
+  },
+  Etc/GMT+11: {
+    Generic: Temp universal coordinà -11,
+    Standard: Temp universal coordinà -11,
+    Daylight: Temp universal coordinà -11
+  },
+  Etc/GMT+12: {
+    Generic: Temp universal coordinà -12,
+    Standard: Temp universal coordinà -12,
+    Daylight: Temp universal coordinà -12
+  },
+  Etc/GMT+2: {
+    Generic: Temp universal coordinà -2,
+    Standard: Temp universal coordinà -2,
+    Daylight: Temp universal coordinà -2
+  },
+  Etc/GMT+3: {
+    Generic: Temp universal coordinà -3,
+    Standard: Temp universal coordinà -3,
+    Daylight: Temp universal coordinà -3
+  },
+  Etc/GMT+4: {
+    Generic: Temp universal coordinà -4,
+    Standard: Temp universal coordinà -4,
+    Daylight: Temp universal coordinà -4
+  },
+  Etc/GMT+5: {
+    Generic: Temp universal coordinà -5,
+    Standard: Temp universal coordinà -5,
+    Daylight: Temp universal coordinà -5
+  },
+  Etc/GMT+6: {
+    Generic: Temp universal coordinà -6,
+    Standard: Temp universal coordinà -6,
+    Daylight: Temp universal coordinà -6
+  },
+  Etc/GMT+7: {
+    Generic: Temp universal coordinà -7,
+    Standard: Temp universal coordinà -7,
+    Daylight: Temp universal coordinà -7
+  },
+  Etc/GMT+8: {
+    Generic: Temp universal coordinà -8,
+    Standard: Temp universal coordinà -8,
+    Daylight: Temp universal coordinà -8
+  },
+  Etc/GMT+9: {
+    Generic: Temp universal coordinà -9,
+    Standard: Temp universal coordinà -9,
+    Daylight: Temp universal coordinà -9
+  },
   Etc/GMT-0: {
     Generic: Temp Greenwich,
     Standard: Temp Greenwich,
     Daylight: Temp Greenwich
+  },
+  Etc/GMT-1: {
+    Generic: Temp universal coordinà +1,
+    Standard: Temp universal coordinà +1,
+    Daylight: Temp universal coordinà +1
+  },
+  Etc/GMT-10: {
+    Generic: Temp universal coordinà +10,
+    Standard: Temp universal coordinà +10,
+    Daylight: Temp universal coordinà +10
+  },
+  Etc/GMT-11: {
+    Generic: Temp universal coordinà +11,
+    Standard: Temp universal coordinà +11,
+    Daylight: Temp universal coordinà +11
+  },
+  Etc/GMT-12: {
+    Generic: Temp universal coordinà +12,
+    Standard: Temp universal coordinà +12,
+    Daylight: Temp universal coordinà +12
+  },
+  Etc/GMT-13: {
+    Generic: Temp universal coordinà +13,
+    Standard: Temp universal coordinà +13,
+    Daylight: Temp universal coordinà +13
+  },
+  Etc/GMT-14: {
+    Generic: Temp universal coordinà +14,
+    Standard: Temp universal coordinà +14,
+    Daylight: Temp universal coordinà +14
+  },
+  Etc/GMT-2: {
+    Generic: Temp universal coordinà +2,
+    Standard: Temp universal coordinà +2,
+    Daylight: Temp universal coordinà +2
+  },
+  Etc/GMT-3: {
+    Generic: Temp universal coordinà +3,
+    Standard: Temp universal coordinà +3,
+    Daylight: Temp universal coordinà +3
+  },
+  Etc/GMT-4: {
+    Generic: Temp universal coordinà +4,
+    Standard: Temp universal coordinà +4,
+    Daylight: Temp universal coordinà +4
+  },
+  Etc/GMT-5: {
+    Generic: Temp universal coordinà +5,
+    Standard: Temp universal coordinà +5,
+    Daylight: Temp universal coordinà +5
+  },
+  Etc/GMT-6: {
+    Generic: Temp universal coordinà +6,
+    Standard: Temp universal coordinà +6,
+    Daylight: Temp universal coordinà +6
+  },
+  Etc/GMT-7: {
+    Generic: Temp universal coordinà +7,
+    Standard: Temp universal coordinà +7,
+    Daylight: Temp universal coordinà +7
+  },
+  Etc/GMT-8: {
+    Generic: Temp universal coordinà +8,
+    Standard: Temp universal coordinà +8,
+    Daylight: Temp universal coordinà +8
+  },
+  Etc/GMT-9: {
+    Generic: Temp universal coordinà +9,
+    Standard: Temp universal coordinà +9,
+    Daylight: Temp universal coordinà +9
   },
   Etc/GMT0: {
     Generic: Temp Greenwich,
@@ -2768,6 +2103,356 @@
     Generic: Temp Greenwich,
     Standard: Temp Greenwich,
     Daylight: Temp Greenwich
+  },
+  Etc/UCT: {
+    Generic: Temp universal coordinà,
+    Standard: Temp universal coordinà,
+    Daylight: Temp universal coordinà
+  },
+  Etc/UTC: {
+    Generic: Temp universal coordinà,
+    Standard: Temp universal coordinà,
+    Daylight: Temp universal coordinà
+  },
+  Etc/Universal: {
+    Generic: Temp universal coordinà,
+    Standard: Temp universal coordinà,
+    Daylight: Temp universal coordinà
+  },
+  Etc/Zulu: {
+    Generic: Temp universal coordinà,
+    Standard: Temp universal coordinà,
+    Daylight: Temp universal coordinà
+  },
+  Europe/Amsterdam: {
+    Generic: Temp da l’Europa Centrala,
+    Standard: Temp da standard da l’Europa Centrala,
+    Daylight: Temp da stad da l’Europa Centrala
+  },
+  Europe/Andorra: {
+    Generic: Temp da l’Europa Centrala,
+    Standard: Temp da standard da l’Europa Centrala,
+    Daylight: Temp da stad da l’Europa Centrala
+  },
+  Europe/Astrakhan: {
+    Generic: temp: Astrakhan,
+    Standard: temp normal: Astrakhan,
+    Daylight: temp da stad: Astrakhan
+  },
+  Europe/Athens: {
+    Generic: Temp da l’Europa Orientala,
+    Standard: Temp da standard da l’Europa Orientala,
+    Daylight: Temp da stad da l’Europa Orientala
+  },
+  Europe/Belfast: {
+    Generic: temp: Reginavel Unì,
+    Standard: Temp Greenwich,
+    Daylight: temp da stad britannic
+  },
+  Europe/Belgrade: {
+    Generic: Temp da l’Europa Centrala,
+    Standard: Temp da standard da l’Europa Centrala,
+    Daylight: Temp da stad da l’Europa Centrala
+  },
+  Europe/Berlin: {
+    Generic: Temp da l’Europa Centrala,
+    Standard: Temp da standard da l’Europa Centrala,
+    Daylight: Temp da stad da l’Europa Centrala
+  },
+  Europe/Bratislava: {
+    Generic: Temp da l’Europa Centrala,
+    Standard: Temp da standard da l’Europa Centrala,
+    Daylight: Temp da stad da l’Europa Centrala
+  },
+  Europe/Brussels: {
+    Generic: Temp da l’Europa Centrala,
+    Standard: Temp da standard da l’Europa Centrala,
+    Daylight: Temp da stad da l’Europa Centrala
+  },
+  Europe/Bucharest: {
+    Generic: Temp da l’Europa Orientala,
+    Standard: Temp da standard da l’Europa Orientala,
+    Daylight: Temp da stad da l’Europa Orientala
+  },
+  Europe/Budapest: {
+    Generic: Temp da l’Europa Centrala,
+    Standard: Temp da standard da l’Europa Centrala,
+    Daylight: Temp da stad da l’Europa Centrala
+  },
+  Europe/Busingen: {
+    Generic: Temp da l’Europa Centrala,
+    Standard: Temp da standard da l’Europa Centrala,
+    Daylight: Temp da stad da l’Europa Centrala
+  },
+  Europe/Chisinau: {
+    Generic: Temp da l’Europa Orientala,
+    Standard: Temp da standard da l’Europa Orientala,
+    Daylight: Temp da stad da l’Europa Orientala
+  },
+  Europe/Copenhagen: {
+    Generic: Temp da l’Europa Centrala,
+    Standard: Temp da standard da l’Europa Centrala,
+    Daylight: Temp da stad da l’Europa Centrala
+  },
+  Europe/Dublin: {
+    Generic: Temp Greenwich,
+    Standard: Temp Greenwich,
+    Daylight: Temp Greenwich
+  },
+  Europe/Gibraltar: {
+    Generic: Temp da l’Europa Centrala,
+    Standard: Temp da standard da l’Europa Centrala,
+    Daylight: Temp da stad da l’Europa Centrala
+  },
+  Europe/Guernsey: {
+    Generic: Temp Greenwich,
+    Standard: Temp Greenwich,
+    Daylight: Temp Greenwich
+  },
+  Europe/Helsinki: {
+    Generic: Temp da l’Europa Orientala,
+    Standard: Temp da standard da l’Europa Orientala,
+    Daylight: Temp da stad da l’Europa Orientala
+  },
+  Europe/Isle_of_Man: {
+    Generic: Temp Greenwich,
+    Standard: Temp Greenwich,
+    Daylight: Temp Greenwich
+  },
+  Europe/Istanbul: {
+    Generic: temp: Tirchia,
+    Standard: temp normal: Tirchia,
+    Daylight: temp da stad: Tirchia
+  },
+  Europe/Jersey: {
+    Generic: Temp Greenwich,
+    Standard: Temp Greenwich,
+    Daylight: Temp Greenwich
+  },
+  Europe/Kaliningrad: {
+    Generic: temp: Kaliningrad,
+    Standard: temp normal: Kaliningrad,
+    Daylight: temp da stad: Kaliningrad
+  },
+  Europe/Kiev: {
+    Generic: Temp da l’Europa Orientala,
+    Standard: Temp da standard da l’Europa Orientala,
+    Daylight: Temp da stad da l’Europa Orientala
+  },
+  Europe/Kirov: {
+    Generic: temp: Kirov,
+    Standard: temp normal: Kirov,
+    Daylight: temp da stad: Kirov
+  },
+  Europe/Kyiv: {
+    Generic: Temp da l’Europa Orientala,
+    Standard: Temp da standard da l’Europa Orientala,
+    Daylight: Temp da stad da l’Europa Orientala
+  },
+  Europe/Lisbon: {
+    Generic: Temp da l’Europa dal Vest,
+    Standard: Temp da standard da l’Europa dal Vest,
+    Daylight: Temp da stad da l’Europa dal Vest
+  },
+  Europe/Ljubljana: {
+    Generic: Temp da l’Europa Centrala,
+    Standard: Temp da standard da l’Europa Centrala,
+    Daylight: Temp da stad da l’Europa Centrala
+  },
+  Europe/London: {
+    Generic: temp: Reginavel Unì,
+    Standard: Temp Greenwich,
+    Daylight: temp da stad britannic
+  },
+  Europe/Luxembourg: {
+    Generic: Temp da l’Europa Centrala,
+    Standard: Temp da standard da l’Europa Centrala,
+    Daylight: Temp da stad da l’Europa Centrala
+  },
+  Europe/Madrid: {
+    Generic: Temp da l’Europa Centrala,
+    Standard: Temp da standard da l’Europa Centrala,
+    Daylight: Temp da stad da l’Europa Centrala
+  },
+  Europe/Malta: {
+    Generic: Temp da l’Europa Centrala,
+    Standard: Temp da standard da l’Europa Centrala,
+    Daylight: Temp da stad da l’Europa Centrala
+  },
+  Europe/Mariehamn: {
+    Generic: Temp da l’Europa Orientala,
+    Standard: Temp da standard da l’Europa Orientala,
+    Daylight: Temp da stad da l’Europa Orientala
+  },
+  Europe/Minsk: {
+    Generic: temp: Bielorussia,
+    Standard: temp normal: Bielorussia,
+    Daylight: temp da stad: Bielorussia
+  },
+  Europe/Monaco: {
+    Generic: Temp da l’Europa Centrala,
+    Standard: Temp da standard da l’Europa Centrala,
+    Daylight: Temp da stad da l’Europa Centrala
+  },
+  Europe/Moscow: {
+    Generic: temp: Moscau,
+    Standard: temp normal: Moscau,
+    Daylight: temp da stad: Moscau
+  },
+  Europe/Nicosia: {
+    Generic: Temp da l’Europa Orientala,
+    Standard: Temp da standard da l’Europa Orientala,
+    Daylight: Temp da stad da l’Europa Orientala
+  },
+  Europe/Oslo: {
+    Generic: Temp da l’Europa Centrala,
+    Standard: Temp da standard da l’Europa Centrala,
+    Daylight: Temp da stad da l’Europa Centrala
+  },
+  Europe/Paris: {
+    Generic: Temp da l’Europa Centrala,
+    Standard: Temp da standard da l’Europa Centrala,
+    Daylight: Temp da stad da l’Europa Centrala
+  },
+  Europe/Podgorica: {
+    Generic: Temp da l’Europa Centrala,
+    Standard: Temp da standard da l’Europa Centrala,
+    Daylight: Temp da stad da l’Europa Centrala
+  },
+  Europe/Prague: {
+    Generic: Temp da l’Europa Centrala,
+    Standard: Temp da standard da l’Europa Centrala,
+    Daylight: Temp da stad da l’Europa Centrala
+  },
+  Europe/Riga: {
+    Generic: Temp da l’Europa Orientala,
+    Standard: Temp da standard da l’Europa Orientala,
+    Daylight: Temp da stad da l’Europa Orientala
+  },
+  Europe/Rome: {
+    Generic: Temp da l’Europa Centrala,
+    Standard: Temp da standard da l’Europa Centrala,
+    Daylight: Temp da stad da l’Europa Centrala
+  },
+  Europe/Samara: {
+    Generic: temp: Samara,
+    Standard: temp normal: Samara,
+    Daylight: temp da stad: Samara
+  },
+  Europe/San_Marino: {
+    Generic: Temp da l’Europa Centrala,
+    Standard: Temp da standard da l’Europa Centrala,
+    Daylight: Temp da stad da l’Europa Centrala
+  },
+  Europe/Sarajevo: {
+    Generic: Temp da l’Europa Centrala,
+    Standard: Temp da standard da l’Europa Centrala,
+    Daylight: Temp da stad da l’Europa Centrala
+  },
+  Europe/Saratov: {
+    Generic: temp: Saratov,
+    Standard: temp normal: Saratov,
+    Daylight: temp da stad: Saratov
+  },
+  Europe/Simferopol: {
+    Generic: temp: Ucraina,
+    Standard: temp normal: Ucraina,
+    Daylight: temp da stad: Ucraina
+  },
+  Europe/Skopje: {
+    Generic: Temp da l’Europa Centrala,
+    Standard: Temp da standard da l’Europa Centrala,
+    Daylight: Temp da stad da l’Europa Centrala
+  },
+  Europe/Sofia: {
+    Generic: Temp da l’Europa Orientala,
+    Standard: Temp da standard da l’Europa Orientala,
+    Daylight: Temp da stad da l’Europa Orientala
+  },
+  Europe/Stockholm: {
+    Generic: Temp da l’Europa Centrala,
+    Standard: Temp da standard da l’Europa Centrala,
+    Daylight: Temp da stad da l’Europa Centrala
+  },
+  Europe/Tallinn: {
+    Generic: Temp da l’Europa Orientala,
+    Standard: Temp da standard da l’Europa Orientala,
+    Daylight: Temp da stad da l’Europa Orientala
+  },
+  Europe/Tirane: {
+    Generic: Temp da l’Europa Centrala,
+    Standard: Temp da standard da l’Europa Centrala,
+    Daylight: Temp da stad da l’Europa Centrala
+  },
+  Europe/Tiraspol: {
+    Generic: Temp da l’Europa Orientala,
+    Standard: Temp da standard da l’Europa Orientala,
+    Daylight: Temp da stad da l’Europa Orientala
+  },
+  Europe/Ulyanovsk: {
+    Generic: temp: Ulyanovsk,
+    Standard: temp normal: Ulyanovsk,
+    Daylight: temp da stad: Ulyanovsk
+  },
+  Europe/Uzhgorod: {
+    Generic: Temp da l’Europa Orientala,
+    Standard: Temp da standard da l’Europa Orientala,
+    Daylight: Temp da stad da l’Europa Orientala
+  },
+  Europe/Vaduz: {
+    Generic: Temp da l’Europa Centrala,
+    Standard: Temp da standard da l’Europa Centrala,
+    Daylight: Temp da stad da l’Europa Centrala
+  },
+  Europe/Vatican: {
+    Generic: Temp da l’Europa Centrala,
+    Standard: Temp da standard da l’Europa Centrala,
+    Daylight: Temp da stad da l’Europa Centrala
+  },
+  Europe/Vienna: {
+    Generic: Temp da l’Europa Centrala,
+    Standard: Temp da standard da l’Europa Centrala,
+    Daylight: Temp da stad da l’Europa Centrala
+  },
+  Europe/Vilnius: {
+    Generic: Temp da l’Europa Orientala,
+    Standard: Temp da standard da l’Europa Orientala,
+    Daylight: Temp da stad da l’Europa Orientala
+  },
+  Europe/Volgograd: {
+    Generic: temp: Volgograd,
+    Standard: temp normal: Volgograd,
+    Daylight: temp da stad: Volgograd
+  },
+  Europe/Warsaw: {
+    Generic: Temp da l’Europa Centrala,
+    Standard: Temp da standard da l’Europa Centrala,
+    Daylight: Temp da stad da l’Europa Centrala
+  },
+  Europe/Zagreb: {
+    Generic: Temp da l’Europa Centrala,
+    Standard: Temp da standard da l’Europa Centrala,
+    Daylight: Temp da stad da l’Europa Centrala
+  },
+  Europe/Zaporozhye: {
+    Generic: Temp da l’Europa Orientala,
+    Standard: Temp da standard da l’Europa Orientala,
+    Daylight: Temp da stad da l’Europa Orientala
+  },
+  Europe/Zurich: {
+    Generic: Temp da l’Europa Centrala,
+    Standard: Temp da standard da l’Europa Centrala,
+    Daylight: Temp da stad da l’Europa Centrala
+  },
+  GB: {
+    Generic: temp: Reginavel Unì,
+    Standard: Temp Greenwich,
+    Daylight: temp da stad britannic
+  },
+  GB-Eire: {
+    Generic: temp: Reginavel Unì,
+    Standard: Temp Greenwich,
+    Daylight: temp da stad britannic
   },
   GMT: {
     Generic: Temp Greenwich,
@@ -2794,120 +2479,135 @@
     Standard: Temp Greenwich,
     Daylight: Temp Greenwich
   },
-  Etc/UCT: {
-    Generic: Temp universal coordinà,
-    Standard: Temp universal coordinà,
-    Daylight: Temp universal coordinà
+  HST: {
+    Generic: Temp universal coordinà -10,
+    Standard: Temp universal coordinà -10,
+    Daylight: Temp universal coordinà -10
   },
-  Etc/Universal: {
-    Generic: Temp universal coordinà,
-    Standard: Temp universal coordinà,
-    Daylight: Temp universal coordinà
+  Hongkong: {
+    Generic: temp: Regiun d’administraziun speziala da Hongkong, China,
+    Standard: temp normal: Regiun d’administraziun speziala da Hongkong, China,
+    Daylight: temp da stad: Regiun d’administraziun speziala da Hongkong, China
   },
-  Etc/Zulu: {
-    Generic: Temp universal coordinà,
-    Standard: Temp universal coordinà,
-    Daylight: Temp universal coordinà
+  Iceland: {
+    Generic: Temp Greenwich,
+    Standard: Temp Greenwich,
+    Daylight: Temp Greenwich
   },
-  UCT: {
-    Generic: Temp universal coordinà,
-    Standard: Temp universal coordinà,
-    Daylight: Temp universal coordinà
+  Indian/Antananarivo: {
+    Generic: temp: Madagascar,
+    Standard: temp normal: Madagascar,
+    Daylight: temp da stad: Madagascar
   },
-  UTC: {
-    Generic: Temp universal coordinà,
-    Standard: Temp universal coordinà,
-    Daylight: Temp universal coordinà
+  Indian/Chagos: {
+    Generic: temp: Territori Britannic en l’Ocean Indic,
+    Standard: temp normal: Territori Britannic en l’Ocean Indic,
+    Daylight: temp da stad: Territori Britannic en l’Ocean Indic
   },
-  Universal: {
-    Generic: Temp universal coordinà,
-    Standard: Temp universal coordinà,
-    Daylight: Temp universal coordinà
+  Indian/Christmas: {
+    Generic: temp: Insla da Nadal,
+    Standard: temp normal: Insla da Nadal,
+    Daylight: temp da stad: Insla da Nadal
   },
-  Zulu: {
-    Generic: Temp universal coordinà,
-    Standard: Temp universal coordinà,
-    Daylight: Temp universal coordinà
+  Indian/Cocos: {
+    Generic: temp: Inslas Cocos,
+    Standard: temp normal: Inslas Cocos,
+    Daylight: temp da stad: Inslas Cocos
   },
-  Atlantic/Jan_Mayen: {
-    Generic: Temp da l’Europa Centrala,
-    Standard: Temp da standard da l’Europa Centrala,
-    Daylight: Temp da stad da l’Europa Centrala
+  Indian/Comoro: {
+    Generic: temp: Comoras,
+    Standard: temp normal: Comoras,
+    Daylight: temp da stad: Comoras
+  },
+  Indian/Kerguelen: {
+    Generic: temp: Territoris Franzos Meridiunals,
+    Standard: temp normal: Territoris Franzos Meridiunals,
+    Daylight: temp da stad: Territoris Franzos Meridiunals
+  },
+  Indian/Mahe: {
+    Generic: temp: Seychellas,
+    Standard: temp normal: Seychellas,
+    Daylight: temp da stad: Seychellas
+  },
+  Indian/Maldives: {
+    Generic: temp: Maldivas,
+    Standard: temp normal: Maldivas,
+    Daylight: temp da stad: Maldivas
+  },
+  Indian/Mauritius: {
+    Generic: temp: Mauritius,
+    Standard: temp normal: Mauritius,
+    Daylight: temp da stad: Mauritius
+  },
+  Indian/Mayotte: {
+    Generic: temp: Mayotte,
+    Standard: temp normal: Mayotte,
+    Daylight: temp da stad: Mayotte
+  },
+  Indian/Reunion: {
+    Generic: temp: Réunion,
+    Standard: temp normal: Réunion,
+    Daylight: temp da stad: Réunion
+  },
+  Iran: {
+    Generic: temp: Iran,
+    Standard: temp normal: Iran,
+    Daylight: temp da stad: Iran
+  },
+  Israel: {
+    Generic: temp: Israel,
+    Standard: temp normal: Israel,
+    Daylight: temp da stad: Israel
+  },
+  Jamaica: {
+    Generic: Temp oriental,
+    Standard: Temp da standard oriental,
+    Daylight: Temp da stad oriental
+  },
+  Japan: {
+    Generic: temp: Giapun,
+    Standard: temp normal: Giapun,
+    Daylight: temp da stad: Giapun
+  },
+  Kwajalein: {
+    Generic: temp: Inslas da Marshall,
+    Standard: temp normal: Inslas da Marshall,
+    Daylight: temp da stad: Inslas da Marshall
+  },
+  Libya: {
+    Generic: Temp da l’Europa Orientala,
+    Standard: Temp da standard da l’Europa Orientala,
+    Daylight: Temp da stad da l’Europa Orientala
   },
   MET: {
     Generic: Temp da l’Europa Centrala,
     Standard: Temp da standard da l’Europa Centrala,
     Daylight: Temp da stad da l’Europa Centrala
   },
-  EET: {
-    Generic: Temp da l’Europa Orientala,
-    Standard: Temp da standard da l’Europa Orientala,
-    Daylight: Temp da stad da l’Europa Orientala
+  MST: {
+    Generic: Temp universal coordinà -7,
+    Standard: Temp universal coordinà -7,
+    Daylight: Temp universal coordinà -7
   },
-  Europe/Tiraspol: {
-    Generic: Temp da l’Europa Orientala,
-    Standard: Temp da standard da l’Europa Orientala,
-    Daylight: Temp da stad da l’Europa Orientala
+  MST7MDT: {
+    Generic: Temp da muntogna,
+    Standard: Temp da standard da muntogna,
+    Daylight: Temp da stad da muntogna
   },
-  Eire: {
-    Generic: Temp Greenwich,
-    Standard: Temp Greenwich,
-    Daylight: Temp Greenwich
+  Mexico/BajaNorte: {
+    Generic: Temp pacific,
+    Standard: Temp da standard pacific,
+    Daylight: Temp da stad pacific
   },
-  Asia/Istanbul: {
-    Generic: temp: Tirchia,
-    Standard: temp normal: Tirchia,
-    Daylight: temp da stad: Tirchia
+  Mexico/BajaSur: {
+    Generic: temp: Mexico,
+    Standard: temp normal: Mexico,
+    Daylight: temp da stad: Mexico
   },
-  Turkey: {
-    Generic: temp: Tirchia,
-    Standard: temp normal: Tirchia,
-    Daylight: temp da stad: Tirchia
-  },
-  Europe/Kyiv: {
-    Generic: Temp da l’Europa Orientala,
-    Standard: Temp da standard da l’Europa Orientala,
-    Daylight: Temp da stad da l’Europa Orientala
-  },
-  Portugal: {
-    Generic: Temp da l’Europa dal Vest,
-    Standard: Temp da standard da l’Europa dal Vest,
-    Daylight: Temp da stad da l’Europa dal Vest
-  },
-  Europe/Belfast: {
-    Generic: temp: Reginavel Unì,
-    Standard: Temp Greenwich,
-    Daylight: temp da stad britannic
-  },
-  GB: {
-    Generic: temp: Reginavel Unì,
-    Standard: Temp Greenwich,
-    Daylight: temp da stad britannic
-  },
-  GB-Eire: {
-    Generic: temp: Reginavel Unì,
-    Standard: Temp Greenwich,
-    Daylight: temp da stad britannic
-  },
-  W-SU: {
-    Generic: temp: Moscau,
-    Standard: temp normal: Moscau,
-    Daylight: temp da stad: Moscau
-  },
-  CET: {
-    Generic: Temp da l’Europa Centrala,
-    Standard: Temp da standard da l’Europa Centrala,
-    Daylight: Temp da stad da l’Europa Centrala
-  },
-  Poland: {
-    Generic: Temp da l’Europa Centrala,
-    Standard: Temp da standard da l’Europa Centrala,
-    Daylight: Temp da stad da l’Europa Centrala
-  },
-  Antarctica/South_Pole: {
-    Generic: temp: Nova Zelanda,
-    Standard: temp normal: Nova Zelanda,
-    Daylight: temp da stad: Nova Zelanda
+  Mexico/General: {
+    Generic: Temp central,
+    Standard: Temp da standard central,
+    Daylight: Temp da stad central
   },
   NZ: {
     Generic: temp: Nova Zelanda,
@@ -2919,59 +2619,359 @@
     Standard: temp normal: Nova Zelanda,
     Daylight: temp da stad: Nova Zelanda
   },
-  Chile/EasterIsland: {
-    Generic: temp: Chile,
-    Standard: temp normal: Chile,
-    Daylight: temp da stad: Chile
+  Navajo: {
+    Generic: Temp da muntogna,
+    Standard: Temp da standard da muntogna,
+    Daylight: Temp da stad da muntogna
   },
-  Pacific/Pohnpei: {
-    Generic: temp: Micronesia,
-    Standard: temp normal: Micronesia,
-    Daylight: temp da stad: Micronesia
+  PRC: {
+    Generic: temp: China,
+    Standard: temp normal: China,
+    Daylight: temp da stad: China
   },
-  US/Hawaii: {
-    Generic: temp: Stadis Unids da l’America,
-    Standard: temp normal: Stadis Unids da l’America,
-    Daylight: temp da stad: Stadis Unids da l’America
+  PST8PDT: {
+    Generic: Temp pacific,
+    Standard: Temp da standard pacific,
+    Daylight: Temp da stad pacific
   },
-  Pacific/Kanton: {
-    Generic: temp: Kiribati,
-    Standard: temp normal: Kiribati,
-    Daylight: temp da stad: Kiribati
+  Pacific/Apia: {
+    Generic: temp: Samoa,
+    Standard: temp normal: Samoa,
+    Daylight: temp da stad: Samoa
   },
-  Kwajalein: {
-    Generic: temp: Inslas da Marshall,
-    Standard: temp normal: Inslas da Marshall,
-    Daylight: temp da stad: Inslas da Marshall
+  Pacific/Auckland: {
+    Generic: temp: Nova Zelanda,
+    Standard: temp normal: Nova Zelanda,
+    Daylight: temp da stad: Nova Zelanda
   },
-  Pacific/Samoa: {
-    Generic: temp: Samoa Americana,
-    Standard: temp normal: Samoa Americana,
-    Daylight: temp da stad: Samoa Americana
+  Pacific/Bougainville: {
+    Generic: temp: Papua Nova Guinea,
+    Standard: temp normal: Papua Nova Guinea,
+    Daylight: temp da stad: Papua Nova Guinea
   },
-  US/Samoa: {
-    Generic: temp: Samoa Americana,
-    Standard: temp normal: Samoa Americana,
-    Daylight: temp da stad: Samoa Americana
+  Pacific/Chatham: {
+    Generic: temp: Nova Zelanda,
+    Standard: temp normal: Nova Zelanda,
+    Daylight: temp da stad: Nova Zelanda
   },
   Pacific/Chuuk: {
     Generic: temp: Micronesia,
     Standard: temp normal: Micronesia,
     Daylight: temp da stad: Micronesia
   },
+  Pacific/Easter: {
+    Generic: temp: Chile,
+    Standard: temp normal: Chile,
+    Daylight: temp da stad: Chile
+  },
+  Pacific/Efate: {
+    Generic: temp: Vanuatu,
+    Standard: temp normal: Vanuatu,
+    Daylight: temp da stad: Vanuatu
+  },
+  Pacific/Enderbury: {
+    Generic: temp: Kiribati,
+    Standard: temp normal: Kiribati,
+    Daylight: temp da stad: Kiribati
+  },
+  Pacific/Fakaofo: {
+    Generic: temp: Tokelau,
+    Standard: temp normal: Tokelau,
+    Daylight: temp da stad: Tokelau
+  },
+  Pacific/Fiji: {
+    Generic: temp: Fidschi,
+    Standard: temp normal: Fidschi,
+    Daylight: temp da stad: Fidschi
+  },
+  Pacific/Funafuti: {
+    Generic: temp: Tuvalu,
+    Standard: temp normal: Tuvalu,
+    Daylight: temp da stad: Tuvalu
+  },
+  Pacific/Galapagos: {
+    Generic: temp: Ecuador,
+    Standard: temp normal: Ecuador,
+    Daylight: temp da stad: Ecuador
+  },
+  Pacific/Gambier: {
+    Generic: temp: Polinesia Franzosa,
+    Standard: temp normal: Polinesia Franzosa,
+    Daylight: temp da stad: Polinesia Franzosa
+  },
+  Pacific/Guadalcanal: {
+    Generic: temp: Inslas Salomonas,
+    Standard: temp normal: Inslas Salomonas,
+    Daylight: temp da stad: Inslas Salomonas
+  },
+  Pacific/Guam: {
+    Generic: temp: Guam,
+    Standard: temp normal: Guam,
+    Daylight: temp da stad: Guam
+  },
+  Pacific/Honolulu: {
+    Generic: temp: Stadis Unids da l’America,
+    Standard: temp normal: Stadis Unids da l’America,
+    Daylight: temp da stad: Stadis Unids da l’America
+  },
+  Pacific/Johnston: {
+    Generic: temp: Johnston,
+    Standard: temp normal: Johnston,
+    Daylight: temp da stad: Johnston
+  },
+  Pacific/Kanton: {
+    Generic: temp: Kiribati,
+    Standard: temp normal: Kiribati,
+    Daylight: temp da stad: Kiribati
+  },
+  Pacific/Kiritimati: {
+    Generic: temp: Kiribati,
+    Standard: temp normal: Kiribati,
+    Daylight: temp da stad: Kiribati
+  },
+  Pacific/Kosrae: {
+    Generic: temp: Micronesia,
+    Standard: temp normal: Micronesia,
+    Daylight: temp da stad: Micronesia
+  },
+  Pacific/Kwajalein: {
+    Generic: temp: Inslas da Marshall,
+    Standard: temp normal: Inslas da Marshall,
+    Daylight: temp da stad: Inslas da Marshall
+  },
+  Pacific/Majuro: {
+    Generic: temp: Inslas da Marshall,
+    Standard: temp normal: Inslas da Marshall,
+    Daylight: temp da stad: Inslas da Marshall
+  },
+  Pacific/Marquesas: {
+    Generic: temp: Polinesia Franzosa,
+    Standard: temp normal: Polinesia Franzosa,
+    Daylight: temp da stad: Polinesia Franzosa
+  },
+  Pacific/Midway: {
+    Generic: temp: Inslas Pitschnas Perifericas dals Stadis Unids da l’America,
+    Standard: temp normal: Inslas Pitschnas Perifericas dals Stadis Unids da l’America,
+    Daylight: temp da stad: Inslas Pitschnas Perifericas dals Stadis Unids da l’America
+  },
+  Pacific/Nauru: {
+    Generic: temp: Nauru,
+    Standard: temp normal: Nauru,
+    Daylight: temp da stad: Nauru
+  },
+  Pacific/Niue: {
+    Generic: temp: Niue,
+    Standard: temp normal: Niue,
+    Daylight: temp da stad: Niue
+  },
+  Pacific/Norfolk: {
+    Generic: temp: Insla Norfolk,
+    Standard: temp normal: Insla Norfolk,
+    Daylight: temp da stad: Insla Norfolk
+  },
+  Pacific/Noumea: {
+    Generic: temp: Nova Caledonia,
+    Standard: temp normal: Nova Caledonia,
+    Daylight: temp da stad: Nova Caledonia
+  },
+  Pacific/Pago_Pago: {
+    Generic: temp: Samoa Americana,
+    Standard: temp normal: Samoa Americana,
+    Daylight: temp da stad: Samoa Americana
+  },
+  Pacific/Palau: {
+    Generic: temp: Palau,
+    Standard: temp normal: Palau,
+    Daylight: temp da stad: Palau
+  },
+  Pacific/Pitcairn: {
+    Generic: temp: Pitcairn,
+    Standard: temp normal: Pitcairn,
+    Daylight: temp da stad: Pitcairn
+  },
+  Pacific/Pohnpei: {
+    Generic: temp: Micronesia,
+    Standard: temp normal: Micronesia,
+    Daylight: temp da stad: Micronesia
+  },
+  Pacific/Ponape: {
+    Generic: temp: Micronesia,
+    Standard: temp normal: Micronesia,
+    Daylight: temp da stad: Micronesia
+  },
+  Pacific/Port_Moresby: {
+    Generic: temp: Papua Nova Guinea,
+    Standard: temp normal: Papua Nova Guinea,
+    Daylight: temp da stad: Papua Nova Guinea
+  },
+  Pacific/Rarotonga: {
+    Generic: temp: Inslas Cook,
+    Standard: temp normal: Inslas Cook,
+    Daylight: temp da stad: Inslas Cook
+  },
+  Pacific/Saipan: {
+    Generic: temp: Inslas Mariannas dal Nord,
+    Standard: temp normal: Inslas Mariannas dal Nord,
+    Daylight: temp da stad: Inslas Mariannas dal Nord
+  },
+  Pacific/Samoa: {
+    Generic: temp: Samoa Americana,
+    Standard: temp normal: Samoa Americana,
+    Daylight: temp da stad: Samoa Americana
+  },
+  Pacific/Tahiti: {
+    Generic: temp: Polinesia Franzosa,
+    Standard: temp normal: Polinesia Franzosa,
+    Daylight: temp da stad: Polinesia Franzosa
+  },
+  Pacific/Tarawa: {
+    Generic: temp: Kiribati,
+    Standard: temp normal: Kiribati,
+    Daylight: temp da stad: Kiribati
+  },
+  Pacific/Tongatapu: {
+    Generic: temp: Tonga,
+    Standard: temp normal: Tonga,
+    Daylight: temp da stad: Tonga
+  },
+  Pacific/Truk: {
+    Generic: temp: Micronesia,
+    Standard: temp normal: Micronesia,
+    Daylight: temp da stad: Micronesia
+  },
+  Pacific/Wake: {
+    Generic: temp: Inslas Pitschnas Perifericas dals Stadis Unids da l’America,
+    Standard: temp normal: Inslas Pitschnas Perifericas dals Stadis Unids da l’America,
+    Daylight: temp da stad: Inslas Pitschnas Perifericas dals Stadis Unids da l’America
+  },
+  Pacific/Wallis: {
+    Generic: temp: Wallis & Futuna,
+    Standard: temp normal: Wallis & Futuna,
+    Daylight: temp da stad: Wallis & Futuna
+  },
   Pacific/Yap: {
     Generic: temp: Micronesia,
     Standard: temp normal: Micronesia,
     Daylight: temp da stad: Micronesia
   },
-  America/Fort_Wayne: {
+  Poland: {
+    Generic: Temp da l’Europa Centrala,
+    Standard: Temp da standard da l’Europa Centrala,
+    Daylight: Temp da stad da l’Europa Centrala
+  },
+  Portugal: {
+    Generic: Temp da l’Europa dal Vest,
+    Standard: Temp da standard da l’Europa dal Vest,
+    Daylight: Temp da stad da l’Europa dal Vest
+  },
+  ROC: {
+    Generic: temp: Taiwan,
+    Standard: temp normal: Taiwan,
+    Daylight: temp da stad: Taiwan
+  },
+  ROK: {
+    Generic: temp: Corea dal Sid,
+    Standard: temp normal: Corea dal Sid,
+    Daylight: temp da stad: Corea dal Sid
+  },
+  Singapore: {
+    Generic: temp: Singapur,
+    Standard: temp normal: Singapur,
+    Daylight: temp da stad: Singapur
+  },
+  Turkey: {
+    Generic: temp: Tirchia,
+    Standard: temp normal: Tirchia,
+    Daylight: temp da stad: Tirchia
+  },
+  UCT: {
+    Generic: Temp universal coordinà,
+    Standard: Temp universal coordinà,
+    Daylight: Temp universal coordinà
+  },
+  US/Alaska: {
+    Generic: temp: Stadis Unids da l’America,
+    Standard: temp normal: Stadis Unids da l’America,
+    Daylight: temp da stad: Stadis Unids da l’America
+  },
+  US/Aleutian: {
+    Generic: temp: Stadis Unids da l’America,
+    Standard: temp normal: Stadis Unids da l’America,
+    Daylight: temp da stad: Stadis Unids da l’America
+  },
+  US/Arizona: {
+    Generic: Temp da muntogna,
+    Standard: Temp da standard da muntogna,
+    Daylight: Temp da stad da muntogna
+  },
+  US/Central: {
+    Generic: Temp central,
+    Standard: Temp da standard central,
+    Daylight: Temp da stad central
+  },
+  US/East-Indiana: {
     Generic: Temp oriental,
     Standard: Temp da standard oriental,
     Daylight: Temp da stad oriental
   },
-  Antarctica/Troll: {
-    Generic: Temp Greenwich,
-    Standard: Temp Greenwich,
-    Daylight: Temp Greenwich
+  US/Eastern: {
+    Generic: Temp oriental,
+    Standard: Temp da standard oriental,
+    Daylight: Temp da stad oriental
+  },
+  US/Hawaii: {
+    Generic: temp: Stadis Unids da l’America,
+    Standard: temp normal: Stadis Unids da l’America,
+    Daylight: temp da stad: Stadis Unids da l’America
+  },
+  US/Indiana-Starke: {
+    Generic: Temp central,
+    Standard: Temp da standard central,
+    Daylight: Temp da stad central
+  },
+  US/Michigan: {
+    Generic: Temp oriental,
+    Standard: Temp da standard oriental,
+    Daylight: Temp da stad oriental
+  },
+  US/Mountain: {
+    Generic: Temp da muntogna,
+    Standard: Temp da standard da muntogna,
+    Daylight: Temp da stad da muntogna
+  },
+  US/Pacific: {
+    Generic: Temp pacific,
+    Standard: Temp da standard pacific,
+    Daylight: Temp da stad pacific
+  },
+  US/Samoa: {
+    Generic: temp: Samoa Americana,
+    Standard: temp normal: Samoa Americana,
+    Daylight: temp da stad: Samoa Americana
+  },
+  UTC: {
+    Generic: Temp universal coordinà,
+    Standard: Temp universal coordinà,
+    Daylight: Temp universal coordinà
+  },
+  Universal: {
+    Generic: Temp universal coordinà,
+    Standard: Temp universal coordinà,
+    Daylight: Temp universal coordinà
+  },
+  W-SU: {
+    Generic: temp: Moscau,
+    Standard: temp normal: Moscau,
+    Daylight: temp da stad: Moscau
+  },
+  WET: {
+    Generic: Temp da l’Europa dal Vest,
+    Standard: Temp da standard da l’Europa dal Vest,
+    Daylight: Temp da stad da l’Europa dal Vest
+  },
+  Zulu: {
+    Generic: Temp universal coordinà,
+    Standard: Temp universal coordinà,
+    Daylight: Temp universal coordinà
   }
 }

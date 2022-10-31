@@ -1,115 +1,330 @@
 ﻿{
-  Australia/Darwin: {
-    Generic: Central Australia Time,
-    Standard: Tsayayyen Lokacin Tsakiyar Austiraliya,
-    Daylight: Lokacin Rana na Tsakiyar Austiraliya
+  Africa/Abidjan: {
+    Generic: Lokacin Greenwhich a London,
+    Standard: Lokacin Greenwhich a London,
+    Daylight: Lokacin Greenwhich a London
   },
-  Australia/Sydney: {
-    Generic: Lokacin Gabashin Austiraliya,
-    Standard: Australian Eastern Standard Time,
-    Daylight: Lokacin Rana na Gabashin Austiraliya
+  Africa/Accra: {
+    Generic: Lokacin Greenwhich a London,
+    Standard: Lokacin Greenwhich a London,
+    Daylight: Lokacin Greenwhich a London
   },
-  Australia/Melbourne: {
-    Generic: Lokacin Gabashin Austiraliya,
-    Standard: Australian Eastern Standard Time,
-    Daylight: Lokacin Rana na Gabashin Austiraliya
+  Africa/Addis_Ababa: {
+    Generic: Lokacin Gabashin Afirka,
+    Standard: Lokacin Gabashin Afirka,
+    Daylight: Lokacin Gabashin Afirka
   },
-  Asia/Kabul: {
-    Generic: Lokacin Afghanistan,
-    Standard: Lokacin Afghanistan,
-    Daylight: Lokacin Afghanistan
+  Africa/Algiers: {
+    Generic: Tsakiyar a lokaci turai,
+    Standard: Ida Tsakiyar a Lokaci Turai,
+    Daylight: Tsakiyar bazara a lokaci turai
   },
-  America/Anchorage: {
-    Generic: Lokacin Alaska,
-    Standard: Tsayayyen Lokacin Alaska,
-    Daylight: Lokacin Rana na Alaska
+  Africa/Asmara: {
+    Generic: Lokacin Gabashin Afirka,
+    Standard: Lokacin Gabashin Afirka,
+    Daylight: Lokacin Gabashin Afirka
   },
-  America/Juneau: {
-    Generic: Lokacin Alaska,
-    Standard: Tsayayyen Lokacin Alaska,
-    Daylight: Lokacin Rana na Alaska
+  Africa/Asmera: {
+    Generic: Lokacin Gabashin Afirka,
+    Standard: Lokacin Gabashin Afirka,
+    Daylight: Lokacin Gabashin Afirka
   },
-  America/Metlakatla: {
-    Generic: Lokacin Alaska,
-    Standard: Tsayayyen Lokacin Alaska,
-    Daylight: Lokacin Rana na Alaska
+  Africa/Bamako: {
+    Generic: Lokacin Greenwhich a London,
+    Standard: Lokacin Greenwhich a London,
+    Daylight: Lokacin Greenwhich a London
   },
-  America/Nome: {
-    Generic: Lokacin Alaska,
-    Standard: Tsayayyen Lokacin Alaska,
-    Daylight: Lokacin Rana na Alaska
+  Africa/Bangui: {
+    Generic: Lokacin Afirka ta Yamma,
+    Standard: Tsayayyen Lokacin Afirka ta Yamma,
+    Daylight: Lokacin Bazara na Afirka ta Yamma
   },
-  America/Sitka: {
-    Generic: Lokacin Alaska,
-    Standard: Tsayayyen Lokacin Alaska,
-    Daylight: Lokacin Rana na Alaska
+  Africa/Banjul: {
+    Generic: Lokacin Greenwhich a London,
+    Standard: Lokacin Greenwhich a London,
+    Daylight: Lokacin Greenwhich a London
   },
-  America/Yakutat: {
-    Generic: Lokacin Alaska,
-    Standard: Tsayayyen Lokacin Alaska,
-    Daylight: Lokacin Rana na Alaska
+  Africa/Bissau: {
+    Generic: Lokacin Greenwhich a London,
+    Standard: Lokacin Greenwhich a London,
+    Daylight: Lokacin Greenwhich a London
+  },
+  Africa/Blantyre: {
+    Generic: Lokacin Afirka ta Tsakiya,
+    Standard: Lokacin Afirka ta Tsakiya,
+    Daylight: Lokacin Afirka ta Tsakiya
+  },
+  Africa/Brazzaville: {
+    Generic: Lokacin Afirka ta Yamma,
+    Standard: Tsayayyen Lokacin Afirka ta Yamma,
+    Daylight: Lokacin Bazara na Afirka ta Yamma
+  },
+  Africa/Bujumbura: {
+    Generic: Lokacin Afirka ta Tsakiya,
+    Standard: Lokacin Afirka ta Tsakiya,
+    Daylight: Lokacin Afirka ta Tsakiya
+  },
+  Africa/Cairo: {
+    Generic: Lokaci a turai gabas,
+    Standard: Ida lokaci a turai gabas,
+    Daylight: Gabas a lokaci turai da bazara
+  },
+  Africa/Casablanca: {
+    Generic: Lokaci ta yammacin turai,
+    Standard: Ida lokaci ta yammacin turai,
+    Daylight: Ida lokaci ta yammacin turai da bazara
+  },
+  Africa/Ceuta: {
+    Generic: Tsakiyar a lokaci turai,
+    Standard: Ida Tsakiyar a Lokaci Turai,
+    Daylight: Tsakiyar bazara a lokaci turai
+  },
+  Africa/Conakry: {
+    Generic: Lokacin Greenwhich a London,
+    Standard: Lokacin Greenwhich a London,
+    Daylight: Lokacin Greenwhich a London
+  },
+  Africa/Dakar: {
+    Generic: Lokacin Greenwhich a London,
+    Standard: Lokacin Greenwhich a London,
+    Daylight: Lokacin Greenwhich a London
+  },
+  Africa/Dar_es_Salaam: {
+    Generic: Lokacin Gabashin Afirka,
+    Standard: Lokacin Gabashin Afirka,
+    Daylight: Lokacin Gabashin Afirka
+  },
+  Africa/Djibouti: {
+    Generic: Lokacin Gabashin Afirka,
+    Standard: Lokacin Gabashin Afirka,
+    Daylight: Lokacin Gabashin Afirka
+  },
+  Africa/Douala: {
+    Generic: Lokacin Afirka ta Yamma,
+    Standard: Tsayayyen Lokacin Afirka ta Yamma,
+    Daylight: Lokacin Bazara na Afirka ta Yamma
+  },
+  Africa/El_Aaiun: {
+    Generic: Lokaci ta yammacin turai,
+    Standard: Ida lokaci ta yammacin turai,
+    Daylight: Ida lokaci ta yammacin turai da bazara
+  },
+  Africa/Freetown: {
+    Generic: Lokacin Greenwhich a London,
+    Standard: Lokacin Greenwhich a London,
+    Daylight: Lokacin Greenwhich a London
+  },
+  Africa/Gaborone: {
+    Generic: Lokacin Afirka ta Tsakiya,
+    Standard: Lokacin Afirka ta Tsakiya,
+    Daylight: Lokacin Afirka ta Tsakiya
+  },
+  Africa/Harare: {
+    Generic: Lokacin Afirka ta Tsakiya,
+    Standard: Lokacin Afirka ta Tsakiya,
+    Daylight: Lokacin Afirka ta Tsakiya
+  },
+  Africa/Johannesburg: {
+    Generic: South Africa Standard Time,
+    Standard: South Africa Standard Time,
+    Daylight: South Africa Standard Time
+  },
+  Africa/Juba: {
+    Generic: Lokacin Afirka ta Tsakiya,
+    Standard: Lokacin Afirka ta Tsakiya,
+    Daylight: Lokacin Afirka ta Tsakiya
+  },
+  Africa/Kampala: {
+    Generic: Lokacin Gabashin Afirka,
+    Standard: Lokacin Gabashin Afirka,
+    Daylight: Lokacin Gabashin Afirka
+  },
+  Africa/Khartoum: {
+    Generic: Lokacin Afirka ta Tsakiya,
+    Standard: Lokacin Afirka ta Tsakiya,
+    Daylight: Lokacin Afirka ta Tsakiya
+  },
+  Africa/Kigali: {
+    Generic: Lokacin Afirka ta Tsakiya,
+    Standard: Lokacin Afirka ta Tsakiya,
+    Daylight: Lokacin Afirka ta Tsakiya
+  },
+  Africa/Kinshasa: {
+    Generic: Lokacin Afirka ta Yamma,
+    Standard: Tsayayyen Lokacin Afirka ta Yamma,
+    Daylight: Lokacin Bazara na Afirka ta Yamma
+  },
+  Africa/Lagos: {
+    Generic: Lokacin Afirka ta Yamma,
+    Standard: Tsayayyen Lokacin Afirka ta Yamma,
+    Daylight: Lokacin Bazara na Afirka ta Yamma
+  },
+  Africa/Libreville: {
+    Generic: Lokacin Afirka ta Yamma,
+    Standard: Tsayayyen Lokacin Afirka ta Yamma,
+    Daylight: Lokacin Bazara na Afirka ta Yamma
+  },
+  Africa/Lome: {
+    Generic: Lokacin Greenwhich a London,
+    Standard: Lokacin Greenwhich a London,
+    Daylight: Lokacin Greenwhich a London
+  },
+  Africa/Luanda: {
+    Generic: Lokacin Afirka ta Yamma,
+    Standard: Tsayayyen Lokacin Afirka ta Yamma,
+    Daylight: Lokacin Bazara na Afirka ta Yamma
+  },
+  Africa/Lubumbashi: {
+    Generic: Lokacin Afirka ta Tsakiya,
+    Standard: Lokacin Afirka ta Tsakiya,
+    Daylight: Lokacin Afirka ta Tsakiya
+  },
+  Africa/Lusaka: {
+    Generic: Lokacin Afirka ta Tsakiya,
+    Standard: Lokacin Afirka ta Tsakiya,
+    Daylight: Lokacin Afirka ta Tsakiya
+  },
+  Africa/Malabo: {
+    Generic: Lokacin Afirka ta Yamma,
+    Standard: Tsayayyen Lokacin Afirka ta Yamma,
+    Daylight: Lokacin Bazara na Afirka ta Yamma
+  },
+  Africa/Maputo: {
+    Generic: Lokacin Afirka ta Tsakiya,
+    Standard: Lokacin Afirka ta Tsakiya,
+    Daylight: Lokacin Afirka ta Tsakiya
+  },
+  Africa/Maseru: {
+    Generic: South Africa Standard Time,
+    Standard: South Africa Standard Time,
+    Daylight: South Africa Standard Time
+  },
+  Africa/Mbabane: {
+    Generic: South Africa Standard Time,
+    Standard: South Africa Standard Time,
+    Daylight: South Africa Standard Time
+  },
+  Africa/Mogadishu: {
+    Generic: Lokacin Gabashin Afirka,
+    Standard: Lokacin Gabashin Afirka,
+    Daylight: Lokacin Gabashin Afirka
+  },
+  Africa/Monrovia: {
+    Generic: Lokacin Greenwhich a London,
+    Standard: Lokacin Greenwhich a London,
+    Daylight: Lokacin Greenwhich a London
+  },
+  Africa/Nairobi: {
+    Generic: Lokacin Gabashin Afirka,
+    Standard: Lokacin Gabashin Afirka,
+    Daylight: Lokacin Gabashin Afirka
+  },
+  Africa/Ndjamena: {
+    Generic: Lokacin Afirka ta Yamma,
+    Standard: Tsayayyen Lokacin Afirka ta Yamma,
+    Daylight: Lokacin Bazara na Afirka ta Yamma
+  },
+  Africa/Niamey: {
+    Generic: Lokacin Afirka ta Yamma,
+    Standard: Tsayayyen Lokacin Afirka ta Yamma,
+    Daylight: Lokacin Bazara na Afirka ta Yamma
+  },
+  Africa/Nouakchott: {
+    Generic: Lokacin Greenwhich a London,
+    Standard: Lokacin Greenwhich a London,
+    Daylight: Lokacin Greenwhich a London
+  },
+  Africa/Ouagadougou: {
+    Generic: Lokacin Greenwhich a London,
+    Standard: Lokacin Greenwhich a London,
+    Daylight: Lokacin Greenwhich a London
+  },
+  Africa/Porto-Novo: {
+    Generic: Lokacin Afirka ta Yamma,
+    Standard: Tsayayyen Lokacin Afirka ta Yamma,
+    Daylight: Lokacin Bazara na Afirka ta Yamma
+  },
+  Africa/Sao_Tome: {
+    Generic: Lokacin Greenwhich a London,
+    Standard: Lokacin Greenwhich a London,
+    Daylight: Lokacin Greenwhich a London
+  },
+  Africa/Timbuktu: {
+    Generic: Lokacin Greenwhich a London,
+    Standard: Lokacin Greenwhich a London,
+    Daylight: Lokacin Greenwhich a London
+  },
+  Africa/Tripoli: {
+    Generic: Lokaci a turai gabas,
+    Standard: Ida lokaci a turai gabas,
+    Daylight: Gabas a lokaci turai da bazara
+  },
+  Africa/Tunis: {
+    Generic: Tsakiyar a lokaci turai,
+    Standard: Ida Tsakiyar a Lokaci Turai,
+    Daylight: Tsakiyar bazara a lokaci turai
+  },
+  Africa/Windhoek: {
+    Generic: Lokacin Afirka ta Tsakiya,
+    Standard: Lokacin Afirka ta Tsakiya,
+    Daylight: Lokacin Afirka ta Tsakiya
   },
   America/Adak: {
     Generic: Lokaci na Hawaii-Aleutian,
     Standard: Tsayayyen Lokacin Hawaii-Aleutian,
     Daylight: Lokacin Rana na Hawaii-Aleutian
   },
-  Asia/Barnaul: {
-    Generic: Barnaul Lokaci,
-    Standard: Barnaul Daidaitaccen Lokaci,
-    Daylight: Barnaul Lokacin Rana
+  America/Anchorage: {
+    Generic: Lokacin Alaska,
+    Standard: Tsayayyen Lokacin Alaska,
+    Daylight: Lokacin Rana na Alaska
   },
-  Asia/Riyadh: {
-    Generic: Lokacin Arebiya,
-    Standard: Arabian Standard Time,
-    Daylight: Lokacin Rana na Arebiya
+  America/Anguilla: {
+    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
   },
-  Asia/Bahrain: {
-    Generic: Lokacin Arebiya,
-    Standard: Arabian Standard Time,
-    Daylight: Lokacin Rana na Arebiya
+  America/Antigua: {
+    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
   },
-  Asia/Kuwait: {
-    Generic: Lokacin Arebiya,
-    Standard: Arabian Standard Time,
-    Daylight: Lokacin Rana na Arebiya
+  America/Araguaina: {
+    Generic: Lokacin Brasillia,
+    Standard: Tsayayyen Lokacin Brasillia,
+    Daylight: Lokacin Bazara na Brasillia
   },
-  Asia/Qatar: {
-    Generic: Lokacin Arebiya,
-    Standard: Arabian Standard Time,
-    Daylight: Lokacin Rana na Arebiya
+  America/Argentina/Buenos_Aires: {
+    Generic: Lokacin Argentina,
+    Standard: Tsayayyen Lokacin Argentina,
+    Daylight: Lokacin Bazara na Argentina
   },
-  Asia/Aden: {
-    Generic: Lokacin Arebiya,
-    Standard: Arabian Standard Time,
-    Daylight: Lokacin Rana na Arebiya
+  America/Argentina/Catamarca: {
+    Generic: Lokacin Argentina,
+    Standard: Tsayayyen Lokacin Argentina,
+    Daylight: Lokacin Bazara na Argentina
   },
-  Asia/Dubai: {
-    Generic: Lokacin Golf,
-    Standard: Lokacin Golf,
-    Daylight: Lokacin Golf
+  America/Argentina/ComodRivadavia: {
+    Generic: Lokacin Argentina,
+    Standard: Tsayayyen Lokacin Argentina,
+    Daylight: Lokacin Bazara na Argentina
   },
-  Asia/Muscat: {
-    Generic: Lokacin Golf,
-    Standard: Lokacin Golf,
-    Daylight: Lokacin Golf
+  America/Argentina/Cordoba: {
+    Generic: Lokacin Argentina,
+    Standard: Tsayayyen Lokacin Argentina,
+    Daylight: Lokacin Bazara na Argentina
   },
-  Etc/GMT-4: {
-    Generic: Hadewa Lokaci na Duniya +4,
-    Standard: Hadewa Lokaci na Duniya +4,
-    Daylight: Hadewa Lokaci na Duniya +4
-  },
-  Asia/Baghdad: {
-    Generic: Lokacin Arebiya,
-    Standard: Arabian Standard Time,
-    Daylight: Lokacin Rana na Arebiya
-  },
-  America/Buenos_Aires: {
+  America/Argentina/Jujuy: {
     Generic: Lokacin Argentina,
     Standard: Tsayayyen Lokacin Argentina,
     Daylight: Lokacin Bazara na Argentina
   },
   America/Argentina/La_Rioja: {
+    Generic: Lokacin Argentina,
+    Standard: Tsayayyen Lokacin Argentina,
+    Daylight: Lokacin Bazara na Argentina
+  },
+  America/Argentina/Mendoza: {
     Generic: Lokacin Argentina,
     Standard: Tsayayyen Lokacin Argentina,
     Daylight: Lokacin Bazara na Argentina
@@ -144,327 +359,432 @@
     Standard: Tsayayyen Lokacin Argentina,
     Daylight: Lokacin Bazara na Argentina
   },
-  America/Catamarca: {
-    Generic: Lokacin Argentina,
-    Standard: Tsayayyen Lokacin Argentina,
-    Daylight: Lokacin Bazara na Argentina
-  },
-  America/Cordoba: {
-    Generic: Lokacin Argentina,
-    Standard: Tsayayyen Lokacin Argentina,
-    Daylight: Lokacin Bazara na Argentina
-  },
-  America/Jujuy: {
-    Generic: Lokacin Argentina,
-    Standard: Tsayayyen Lokacin Argentina,
-    Daylight: Lokacin Bazara na Argentina
-  },
-  America/Mendoza: {
-    Generic: Lokacin Argentina,
-    Standard: Tsayayyen Lokacin Argentina,
-    Daylight: Lokacin Bazara na Argentina
-  },
-  Europe/Astrakhan: {
-    Generic: Astrakhan Lokaci,
-    Standard: Astrakhan Daidaitaccen Lokaci,
-    Daylight: Astrakhan Lokacin Rana
-  },
-  Europe/Ulyanovsk: {
-    Generic: Ulyanovsk Lokaci,
-    Standard: Ulyanovsk Daidaitaccen Lokaci,
-    Daylight: Ulyanovsk Lokacin Rana
-  },
-  America/Halifax: {
+  America/Aruba: {
     Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
     Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
     Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
   },
-  Atlantic/Bermuda: {
-    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
+  America/Asuncion: {
+    Generic: Lokacin Paraguay,
+    Standard: Tsayayyen Lokacin Paraguay,
+    Daylight: Lokacin Bazara na Paraguay
   },
-  America/Glace_Bay: {
-    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
+  America/Atikokan: {
+    Generic: Lokacin Gabas dake Arewacin Amurikaa,
+    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
+    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
   },
-  America/Goose_Bay: {
-    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
-  },
-  America/Moncton: {
-    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
-  },
-  America/Thule: {
-    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
-  },
-  Australia/Eucla: {
-    Generic: Lokacin Yammacin Tsakiyar Austiraliya,
-    Standard: Tsayayyen Lokacin Yammacin Tsakiyar Austiraliya,
-    Daylight: Lokacin Rana na Yammacin Tsakiyar Austiraliya
-  },
-  Asia/Baku: {
-    Generic: Lokacin Azerbaijan,
-    Standard: Tsayayyen Lokacin Azerbaijan,
-    Daylight: Lokacin Bazara na Azerbaijan
-  },
-  Atlantic/Azores: {
-    Generic: Lokacin Azores,
-    Standard: Lokacin Azores Daidaitacce,
-    Daylight: Lokacin Azure na Bazara
-  },
-  America/Scoresbysund: {
-    Generic: Lokacin Gabas na Greenland,
-    Standard: Tsayayyen Lokacin Gabashin Greenland,
-    Daylight: Lokacin Rana na Gabashin Greenland
+  America/Atka: {
+    Generic: Lokaci na Hawaii-Aleutian,
+    Standard: Tsayayyen Lokacin Hawaii-Aleutian,
+    Daylight: Lokacin Rana na Hawaii-Aleutian
   },
   America/Bahia: {
     Generic: Lokacin Brasillia,
     Standard: Tsayayyen Lokacin Brasillia,
     Daylight: Lokacin Bazara na Brasillia
   },
-  Asia/Dhaka: {
-    Generic: Lokacin Bangladesh,
-    Standard: Tsayayyen Lokacin Bangladesh,
-    Daylight: Lokacin Bazara na Bangladesh
-  },
-  Asia/Thimphu: {
-    Generic: Bhutan Time,
-    Standard: Bhutan Time,
-    Daylight: Bhutan Time
-  },
-  Europe/Minsk: {
-    Generic: Lokacin Moscow,
-    Standard: Tsayayyen Lokacin Moscow,
-    Daylight: Lokacin Bazara na Moscow
-  },
-  Pacific/Bougainville: {
-    Generic: Lokacin Papua New Guinea,
-    Standard: Lokacin Papua New Guinea,
-    Daylight: Lokacin Papua New Guinea
-  },
-  America/Regina: {
+  America/Bahia_Banderas: {
     Generic: Lokaci dake Amurika arewa ta tsakiyar,
     Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
     Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
   },
-  America/Swift_Current: {
-    Generic: Lokaci dake Amurika arewa ta tsakiyar,
-    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
-    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
+  America/Barbados: {
+    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
   },
-  Atlantic/Cape_Verde: {
-    Generic: Lokacin Cape Verde,
-    Standard: Cape Verde Standard Time,
-    Daylight: Lokacin Bazara na Cape Verde
-  },
-  Etc/GMT+1: {
-    Generic: Hadewa Lokaci na Duniya -1,
-    Standard: Hadewa Lokaci na Duniya -1,
-    Daylight: Hadewa Lokaci na Duniya -1
-  },
-  Asia/Yerevan: {
-    Generic: Lokacin Armenia,
-    Standard: Tsayayyen Lokacin Armenia,
-    Daylight: Lokacin Bazara na Armenia
-  },
-  Australia/Adelaide: {
-    Generic: Central Australia Time,
-    Standard: Tsayayyen Lokacin Tsakiyar Austiraliya,
-    Daylight: Lokacin Rana na Tsakiyar Austiraliya
-  },
-  Australia/Broken_Hill: {
-    Generic: Central Australia Time,
-    Standard: Tsayayyen Lokacin Tsakiyar Austiraliya,
-    Daylight: Lokacin Rana na Tsakiyar Austiraliya
-  },
-  America/Guatemala: {
-    Generic: Lokaci dake Amurika arewa ta tsakiyar,
-    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
-    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
+  America/Belem: {
+    Generic: Lokacin Brasillia,
+    Standard: Tsayayyen Lokacin Brasillia,
+    Daylight: Lokacin Bazara na Brasillia
   },
   America/Belize: {
     Generic: Lokaci dake Amurika arewa ta tsakiyar,
     Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
     Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
   },
-  America/Costa_Rica: {
-    Generic: Lokaci dake Amurika arewa ta tsakiyar,
-    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
-    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
+  America/Blanc-Sablon: {
+    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
   },
-  Pacific/Galapagos: {
-    Generic: Lokacin Galapagos,
-    Standard: Lokacin Galapagos,
-    Daylight: Lokacin Galapagos
-  },
-  America/Tegucigalpa: {
-    Generic: Lokaci dake Amurika arewa ta tsakiyar,
-    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
-    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
-  },
-  America/Managua: {
-    Generic: Lokaci dake Amurika arewa ta tsakiyar,
-    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
-    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
-  },
-  America/El_Salvador: {
-    Generic: Lokaci dake Amurika arewa ta tsakiyar,
-    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
-    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
-  },
-  Etc/GMT+6: {
-    Generic: Hadewa Lokaci na Duniya -6,
-    Standard: Hadewa Lokaci na Duniya -6,
-    Daylight: Hadewa Lokaci na Duniya -6
-  },
-  Asia/Almaty: {
-    Generic: Lokacin Gabashin Kazakhstan,
-    Standard: Lokacin Gabashin Kazakhstan,
-    Daylight: Lokacin Gabashin Kazakhstan
-  },
-  Antarctica/Vostok: {
-    Generic: Lokacin Vostok,
-    Standard: Lokacin Vostok,
-    Daylight: Lokacin Vostok
-  },
-  Asia/Urumqi: {
-    Generic: Sin Lokaci,
-    Standard: Sin Daidaitaccen Lokaci,
-    Daylight: Sin Lokacin Rana
-  },
-  Indian/Chagos: {
-    Generic: Lokacin Tekun Indiya,
-    Standard: Lokacin Tekun Indiya,
-    Daylight: Lokacin Tekun Indiya
-  },
-  Asia/Bishkek: {
-    Generic: Lokacin Kazakhstan,
-    Standard: Lokacin Kazakhstan,
-    Daylight: Lokacin Kazakhstan
-  },
-  Asia/Qostanay: {
-    Generic: Lokacin Gabashin Kazakhstan,
-    Standard: Lokacin Gabashin Kazakhstan,
-    Daylight: Lokacin Gabashin Kazakhstan
-  },
-  Etc/GMT-6: {
-    Generic: Hadewa Lokaci na Duniya +6,
-    Standard: Hadewa Lokaci na Duniya +6,
-    Daylight: Hadewa Lokaci na Duniya +6
-  },
-  America/Cuiaba: {
+  America/Boa_Vista: {
     Generic: Lokacin Amazon,
     Standard: Tsayayyen Lokacin Amazon,
     Daylight: Lokacin Bazara na Amazon
+  },
+  America/Bogota: {
+    Generic: Lokacin Colombia,
+    Standard: Tsayayyen Lokacin Colombia,
+    Daylight: Lokacin Bazara na Colombia
+  },
+  America/Boise: {
+    Generic: Lokacin Tsauni na Arewacin Amurka,
+    Standard: Lokaci tsayayye na tsauni a Arewacin Amurica,
+    Daylight: Lokacin Rana na Tsaunin Arewacin Amurka
+  },
+  America/Buenos_Aires: {
+    Generic: Lokacin Argentina,
+    Standard: Tsayayyen Lokacin Argentina,
+    Daylight: Lokacin Bazara na Argentina
+  },
+  America/Cambridge_Bay: {
+    Generic: Lokacin Tsauni na Arewacin Amurka,
+    Standard: Lokaci tsayayye na tsauni a Arewacin Amurica,
+    Daylight: Lokacin Rana na Tsaunin Arewacin Amurka
   },
   America/Campo_Grande: {
     Generic: Lokacin Amazon,
     Standard: Tsayayyen Lokacin Amazon,
     Daylight: Lokacin Bazara na Amazon
   },
-  Europe/Budapest: {
-    Generic: Tsakiyar a lokaci turai,
-    Standard: Ida Tsakiyar a Lokaci Turai,
-    Daylight: Tsakiyar bazara a lokaci turai
+  America/Cancun: {
+    Generic: Lokacin Gabas dake Arewacin Amurikaa,
+    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
+    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
   },
-  Europe/Tirane: {
-    Generic: Tsakiyar a lokaci turai,
-    Standard: Ida Tsakiyar a Lokaci Turai,
-    Daylight: Tsakiyar bazara a lokaci turai
+  America/Caracas: {
+    Generic: Lokacin Venezuela,
+    Standard: Lokacin Venezuela,
+    Daylight: Lokacin Venezuela
   },
-  Europe/Prague: {
-    Generic: Tsakiyar a lokaci turai,
-    Standard: Ida Tsakiyar a Lokaci Turai,
-    Daylight: Tsakiyar bazara a lokaci turai
+  America/Catamarca: {
+    Generic: Lokacin Argentina,
+    Standard: Tsayayyen Lokacin Argentina,
+    Daylight: Lokacin Bazara na Argentina
   },
-  Europe/Podgorica: {
-    Generic: Tsakiyar a lokaci turai,
-    Standard: Ida Tsakiyar a Lokaci Turai,
-    Daylight: Tsakiyar bazara a lokaci turai
+  America/Cayenne: {
+    Generic: Lokacin French Guiana,
+    Standard: Lokacin French Guiana,
+    Daylight: Lokacin French Guiana
   },
-  Europe/Belgrade: {
-    Generic: Tsakiyar a lokaci turai,
-    Standard: Ida Tsakiyar a Lokaci Turai,
-    Daylight: Tsakiyar bazara a lokaci turai
+  America/Cayman: {
+    Generic: Lokacin Gabas dake Arewacin Amurikaa,
+    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
+    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
   },
-  Europe/Ljubljana: {
-    Generic: Tsakiyar a lokaci turai,
-    Standard: Ida Tsakiyar a Lokaci Turai,
-    Daylight: Tsakiyar bazara a lokaci turai
-  },
-  Europe/Bratislava: {
-    Generic: Tsakiyar a lokaci turai,
-    Standard: Ida Tsakiyar a Lokaci Turai,
-    Daylight: Tsakiyar bazara a lokaci turai
-  },
-  Europe/Warsaw: {
-    Generic: Tsakiyar a lokaci turai,
-    Standard: Ida Tsakiyar a Lokaci Turai,
-    Daylight: Tsakiyar bazara a lokaci turai
-  },
-  Europe/Sarajevo: {
-    Generic: Tsakiyar a lokaci turai,
-    Standard: Ida Tsakiyar a Lokaci Turai,
-    Daylight: Tsakiyar bazara a lokaci turai
-  },
-  Europe/Zagreb: {
-    Generic: Tsakiyar a lokaci turai,
-    Standard: Ida Tsakiyar a Lokaci Turai,
-    Daylight: Tsakiyar bazara a lokaci turai
-  },
-  Europe/Skopje: {
-    Generic: Tsakiyar a lokaci turai,
-    Standard: Ida Tsakiyar a Lokaci Turai,
-    Daylight: Tsakiyar bazara a lokaci turai
-  },
-  Pacific/Guadalcanal: {
-    Generic: Lokacin Rana na Solomon,
-    Standard: Lokacin Rana na Solomon,
-    Daylight: Lokacin Rana na Solomon
-  },
-  Antarctica/Casey: {
-    Generic: Antatika Lokaci,
-    Standard: Antatika Daidaitaccen Lokaci,
-    Daylight: Antatika Lokacin Rana
-  },
-  Pacific/Ponape: {
-    Generic: Lokacin Ponape,
-    Standard: Lokacin Ponape,
-    Daylight: Lokacin Ponape
-  },
-  Pacific/Kosrae: {
-    Generic: Lokacin Kosrae,
-    Standard: Lokacin Kosrae,
-    Daylight: Lokacin Kosrae
-  },
-  Pacific/Noumea: {
-    Generic: Lokacin New Caledonia,
-    Standard: Tsayayyen Lokacin New Caledonia,
-    Daylight: Lokacin Bazara na New Caledonia
-  },
-  Pacific/Efate: {
-    Generic: Lokacin Vanuatu,
-    Standard: Tsayayyen Lokacin Vanuatu,
-    Daylight: Lokacin Bazara na Vanuatu
-  },
-  Etc/GMT-11: {
-    Generic: Hadewa Lokaci na Duniya +11,
-    Standard: Hadewa Lokaci na Duniya +11,
-    Daylight: Hadewa Lokaci na Duniya +11
-  },
-  America/Mexico_City: {
+  America/Chicago: {
     Generic: Lokaci dake Amurika arewa ta tsakiyar,
     Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
     Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
   },
-  America/Bahia_Banderas: {
+  America/Chihuahua: {
+    Generic: Lokacin Mekziko Pacific,
+    Standard: Tsayayyen Lokacin Mekziko Pacific,
+    Daylight: Lokacin Rana na Mekziko Pacific
+  },
+  America/Coral_Harbour: {
+    Generic: Lokacin Gabas dake Arewacin Amurikaa,
+    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
+    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
+  },
+  America/Cordoba: {
+    Generic: Lokacin Argentina,
+    Standard: Tsayayyen Lokacin Argentina,
+    Daylight: Lokacin Bazara na Argentina
+  },
+  America/Costa_Rica: {
+    Generic: Lokaci dake Amurika arewa ta tsakiyar,
+    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
+    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
+  },
+  America/Creston: {
+    Generic: Lokacin Tsauni na Arewacin Amurka,
+    Standard: Lokaci tsayayye na tsauni a Arewacin Amurica,
+    Daylight: Lokacin Rana na Tsaunin Arewacin Amurka
+  },
+  America/Cuiaba: {
+    Generic: Lokacin Amazon,
+    Standard: Tsayayyen Lokacin Amazon,
+    Daylight: Lokacin Bazara na Amazon
+  },
+  America/Curacao: {
+    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
+  },
+  America/Danmarkshavn: {
+    Generic: Lokacin Greenwhich a London,
+    Standard: Lokacin Greenwhich a London,
+    Daylight: Lokacin Greenwhich a London
+  },
+  America/Dawson: {
+    Generic: Lokacin Yukon,
+    Standard: Lokacin Yukon,
+    Daylight: Lokacin Yukon
+  },
+  America/Dawson_Creek: {
+    Generic: Lokacin Tsauni na Arewacin Amurka,
+    Standard: Lokaci tsayayye na tsauni a Arewacin Amurica,
+    Daylight: Lokacin Rana na Tsaunin Arewacin Amurka
+  },
+  America/Denver: {
+    Generic: Lokacin Tsauni na Arewacin Amurka,
+    Standard: Lokaci tsayayye na tsauni a Arewacin Amurica,
+    Daylight: Lokacin Rana na Tsaunin Arewacin Amurka
+  },
+  America/Detroit: {
+    Generic: Lokacin Gabas dake Arewacin Amurikaa,
+    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
+    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
+  },
+  America/Dominica: {
+    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
+  },
+  America/Edmonton: {
+    Generic: Lokacin Tsauni na Arewacin Amurka,
+    Standard: Lokaci tsayayye na tsauni a Arewacin Amurica,
+    Daylight: Lokacin Rana na Tsaunin Arewacin Amurka
+  },
+  America/Eirunepe: {
+    Generic: Birazil Lokaci,
+    Standard: Birazil Daidaitaccen Lokaci,
+    Daylight: Birazil Lokacin Rana
+  },
+  America/El_Salvador: {
+    Generic: Lokaci dake Amurika arewa ta tsakiyar,
+    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
+    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
+  },
+  America/Ensenada: {
+    Generic: Lokacin Arewacin Amurika,
+    Standard: Lokaci Tsayayye na Arewacin Amurika,
+    Daylight: Lokacin Rana na Arewacin Amurka
+  },
+  America/Fort_Nelson: {
+    Generic: Lokacin Tsauni na Arewacin Amurka,
+    Standard: Lokaci tsayayye na tsauni a Arewacin Amurica,
+    Daylight: Lokacin Rana na Tsaunin Arewacin Amurka
+  },
+  America/Fort_Wayne: {
+    Generic: Lokacin Gabas dake Arewacin Amurikaa,
+    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
+    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
+  },
+  America/Fortaleza: {
+    Generic: Lokacin Brasillia,
+    Standard: Tsayayyen Lokacin Brasillia,
+    Daylight: Lokacin Bazara na Brasillia
+  },
+  America/Glace_Bay: {
+    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
+  },
+  America/Godthab: {
+    Generic: Lokacin Yammacin Greenland,
+    Standard: Tsayayyen Lokacin Yammacin Greenland,
+    Daylight: Lokacin Rana na Yammacin Greenland
+  },
+  America/Goose_Bay: {
+    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
+  },
+  America/Grand_Turk: {
+    Generic: Lokacin Gabas dake Arewacin Amurikaa,
+    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
+    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
+  },
+  America/Grenada: {
+    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
+  },
+  America/Guadeloupe: {
+    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
+  },
+  America/Guatemala: {
+    Generic: Lokaci dake Amurika arewa ta tsakiyar,
+    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
+    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
+  },
+  America/Guayaquil: {
+    Generic: Lokacin Ecuador,
+    Standard: Lokacin Ecuador,
+    Daylight: Lokacin Ecuador
+  },
+  America/Guyana: {
+    Generic: Lokacin Guyana,
+    Standard: Lokacin Guyana,
+    Daylight: Lokacin Guyana
+  },
+  America/Halifax: {
+    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
+  },
+  America/Havana: {
+    Generic: Lokaci na Kuba,
+    Standard: Tsayayyen Lokacin Kuba,
+    Daylight: Lokacin Rana na Kuba
+  },
+  America/Hermosillo: {
+    Generic: Lokacin Mekziko Pacific,
+    Standard: Tsayayyen Lokacin Mekziko Pacific,
+    Daylight: Lokacin Rana na Mekziko Pacific
+  },
+  America/Indiana/Indianapolis: {
+    Generic: Lokacin Gabas dake Arewacin Amurikaa,
+    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
+    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
+  },
+  America/Indiana/Knox: {
+    Generic: Lokaci dake Amurika arewa ta tsakiyar,
+    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
+    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
+  },
+  America/Indiana/Marengo: {
+    Generic: Lokacin Gabas dake Arewacin Amurikaa,
+    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
+    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
+  },
+  America/Indiana/Petersburg: {
+    Generic: Lokacin Gabas dake Arewacin Amurikaa,
+    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
+    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
+  },
+  America/Indiana/Tell_City: {
+    Generic: Lokaci dake Amurika arewa ta tsakiyar,
+    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
+    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
+  },
+  America/Indiana/Vevay: {
+    Generic: Lokacin Gabas dake Arewacin Amurikaa,
+    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
+    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
+  },
+  America/Indiana/Vincennes: {
+    Generic: Lokacin Gabas dake Arewacin Amurikaa,
+    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
+    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
+  },
+  America/Indiana/Winamac: {
+    Generic: Lokacin Gabas dake Arewacin Amurikaa,
+    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
+    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
+  },
+  America/Indianapolis: {
+    Generic: Lokacin Gabas dake Arewacin Amurikaa,
+    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
+    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
+  },
+  America/Inuvik: {
+    Generic: Lokacin Tsauni na Arewacin Amurka,
+    Standard: Lokaci tsayayye na tsauni a Arewacin Amurica,
+    Daylight: Lokacin Rana na Tsaunin Arewacin Amurka
+  },
+  America/Iqaluit: {
+    Generic: Lokacin Gabas dake Arewacin Amurikaa,
+    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
+    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
+  },
+  America/Jamaica: {
+    Generic: Lokacin Gabas dake Arewacin Amurikaa,
+    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
+    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
+  },
+  America/Jujuy: {
+    Generic: Lokacin Argentina,
+    Standard: Tsayayyen Lokacin Argentina,
+    Daylight: Lokacin Bazara na Argentina
+  },
+  America/Juneau: {
+    Generic: Lokacin Alaska,
+    Standard: Tsayayyen Lokacin Alaska,
+    Daylight: Lokacin Rana na Alaska
+  },
+  America/Kentucky/Louisville: {
+    Generic: Lokacin Gabas dake Arewacin Amurikaa,
+    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
+    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
+  },
+  America/Kentucky/Monticello: {
+    Generic: Lokacin Gabas dake Arewacin Amurikaa,
+    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
+    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
+  },
+  America/Knox_IN: {
+    Generic: Lokaci dake Amurika arewa ta tsakiyar,
+    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
+    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
+  },
+  America/Kralendijk: {
+    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
+  },
+  America/La_Paz: {
+    Generic: Lokacin Bolivia,
+    Standard: Lokacin Bolivia,
+    Daylight: Lokacin Bolivia
+  },
+  America/Lima: {
+    Generic: Lokacin Peru,
+    Standard: Tsayayyen Lokacin Peru,
+    Daylight: Lokacin Bazara na Peru
+  },
+  America/Los_Angeles: {
+    Generic: Lokacin Arewacin Amurika,
+    Standard: Lokaci Tsayayye na Arewacin Amurika,
+    Daylight: Lokacin Rana na Arewacin Amurka
+  },
+  America/Louisville: {
+    Generic: Lokacin Gabas dake Arewacin Amurikaa,
+    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
+    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
+  },
+  America/Lower_Princes: {
+    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
+  },
+  America/Maceio: {
+    Generic: Lokacin Brasillia,
+    Standard: Tsayayyen Lokacin Brasillia,
+    Daylight: Lokacin Bazara na Brasillia
+  },
+  America/Managua: {
+    Generic: Lokaci dake Amurika arewa ta tsakiyar,
+    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
+    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
+  },
+  America/Manaus: {
+    Generic: Lokacin Amazon,
+    Standard: Tsayayyen Lokacin Amazon,
+    Daylight: Lokacin Bazara na Amazon
+  },
+  America/Marigot: {
+    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
+  },
+  America/Martinique: {
+    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
+  },
+  America/Matamoros: {
+    Generic: Lokaci dake Amurika arewa ta tsakiyar,
+    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
+    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
+  },
+  America/Mazatlan: {
+    Generic: Lokacin Mekziko Pacific,
+    Standard: Tsayayyen Lokacin Mekziko Pacific,
+    Daylight: Lokacin Rana na Mekziko Pacific
+  },
+  America/Mendoza: {
+    Generic: Lokacin Argentina,
+    Standard: Tsayayyen Lokacin Argentina,
+    Daylight: Lokacin Bazara na Argentina
+  },
+  America/Menominee: {
     Generic: Lokaci dake Amurika arewa ta tsakiyar,
     Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
     Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
@@ -474,55 +794,70 @@
     Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
     Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
   },
+  America/Metlakatla: {
+    Generic: Lokacin Alaska,
+    Standard: Tsayayyen Lokacin Alaska,
+    Daylight: Lokacin Rana na Alaska
+  },
+  America/Mexico_City: {
+    Generic: Lokaci dake Amurika arewa ta tsakiyar,
+    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
+    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
+  },
+  America/Miquelon: {
+    Generic: Lokacin St. Pierre da Miquelon,
+    Standard: Tsayayyen Lokacin St. Pierre da Miquelon,
+    Daylight: Lokacin Rana na St. Pierre da Miquelon
+  },
+  America/Moncton: {
+    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
+  },
   America/Monterrey: {
     Generic: Lokaci dake Amurika arewa ta tsakiyar,
     Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
     Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
   },
-  America/Chicago: {
-    Generic: Lokaci dake Amurika arewa ta tsakiyar,
-    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
-    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
+  America/Montevideo: {
+    Generic: Lokacin Uruguay,
+    Standard: Tsayayyen Lokacin Uruguay,
+    Daylight: Lokacin Bazara na Uruguay
   },
-  America/Winnipeg: {
-    Generic: Lokaci dake Amurika arewa ta tsakiyar,
-    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
-    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
+  America/Montreal: {
+    Generic: Lokacin Gabas dake Arewacin Amurikaa,
+    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
+    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
   },
-  America/Rainy_River: {
-    Generic: Lokaci dake Amurika arewa ta tsakiyar,
-    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
-    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
+  America/Montserrat: {
+    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
   },
-  America/Rankin_Inlet: {
-    Generic: Lokaci dake Amurika arewa ta tsakiyar,
-    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
-    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
+  America/Nassau: {
+    Generic: Lokacin Gabas dake Arewacin Amurikaa,
+    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
+    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
   },
-  America/Resolute: {
-    Generic: Lokaci dake Amurika arewa ta tsakiyar,
-    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
-    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
+  America/New_York: {
+    Generic: Lokacin Gabas dake Arewacin Amurikaa,
+    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
+    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
   },
-  America/Matamoros: {
-    Generic: Lokaci dake Amurika arewa ta tsakiyar,
-    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
-    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
+  America/Nipigon: {
+    Generic: Lokacin Gabas dake Arewacin Amurikaa,
+    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
+    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
   },
-  America/Indiana/Knox: {
-    Generic: Lokaci dake Amurika arewa ta tsakiyar,
-    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
-    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
+  America/Nome: {
+    Generic: Lokacin Alaska,
+    Standard: Tsayayyen Lokacin Alaska,
+    Daylight: Lokacin Rana na Alaska
   },
-  America/Indiana/Tell_City: {
-    Generic: Lokaci dake Amurika arewa ta tsakiyar,
-    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
-    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
-  },
-  America/Menominee: {
-    Generic: Lokaci dake Amurika arewa ta tsakiyar,
-    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
-    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
+  America/Noronha: {
+    Generic: Lokacin Fernando de Noronha,
+    Standard: Tsayayyen Lokacin Fernando de Noronha,
+    Daylight: Lokacin Bazara na Fernando de Noronha
   },
   America/North_Dakota/Beulah: {
     Generic: Lokaci dake Amurika arewa ta tsakiyar,
@@ -539,157 +874,17 @@
     Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
     Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
   },
-  CST6CDT: {
-    Generic: Lokaci dake Amurika arewa ta tsakiyar,
-    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
-    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
+  America/Nuuk: {
+    Generic: Lokacin Yammacin Greenland,
+    Standard: Tsayayyen Lokacin Yammacin Greenland,
+    Daylight: Lokacin Rana na Yammacin Greenland
   },
-  Pacific/Chatham: {
-    Generic: Lokacin Chatham,
-    Standard: Tsayayyen Lokacin Chatham,
-    Daylight: Lokacin Rana na Chatham
+  America/Ojinaga: {
+    Generic: Lokacin Tsauni na Arewacin Amurka,
+    Standard: Lokaci tsayayye na tsauni a Arewacin Amurica,
+    Daylight: Lokacin Rana na Tsaunin Arewacin Amurka
   },
-  Asia/Shanghai: {
-    Generic: Lokacin Sin,
-    Standard: Tsayayyen Lokacin Sin,
-    Daylight: Lokacin Rana na Sin
-  },
-  Asia/Hong_Kong: {
-    Generic: Lokacin Hong Kong,
-    Standard: Tsayayyen Lokacin Hong Kong,
-    Daylight: Lokacin Bazara na Hong Kong
-  },
-  Asia/Macau: {
-    Generic: Lokacin Sin,
-    Standard: Tsayayyen Lokacin Sin,
-    Daylight: Lokacin Rana na Sin
-  },
-  America/Havana: {
-    Generic: Lokaci na Kuba,
-    Standard: Tsayayyen Lokacin Kuba,
-    Daylight: Lokacin Rana na Kuba
-  },
-  Etc/GMT+12: {
-    Generic: Hadewa Lokaci na Duniya -12,
-    Standard: Hadewa Lokaci na Duniya -12,
-    Daylight: Hadewa Lokaci na Duniya -12
-  },
-  Africa/Nairobi: {
-    Generic: Lokacin Gabashin Afirka,
-    Standard: Lokacin Gabashin Afirka,
-    Daylight: Lokacin Gabashin Afirka
-  },
-  Antarctica/Syowa: {
-    Generic: Lokacin Syowa,
-    Standard: Lokacin Syowa,
-    Daylight: Lokacin Syowa
-  },
-  Africa/Djibouti: {
-    Generic: Lokacin Gabashin Afirka,
-    Standard: Lokacin Gabashin Afirka,
-    Daylight: Lokacin Gabashin Afirka
-  },
-  Africa/Asmera: {
-    Generic: Lokacin Gabashin Afirka,
-    Standard: Lokacin Gabashin Afirka,
-    Daylight: Lokacin Gabashin Afirka
-  },
-  Africa/Addis_Ababa: {
-    Generic: Lokacin Gabashin Afirka,
-    Standard: Lokacin Gabashin Afirka,
-    Daylight: Lokacin Gabashin Afirka
-  },
-  Indian/Comoro: {
-    Generic: Lokacin Gabashin Afirka,
-    Standard: Lokacin Gabashin Afirka,
-    Daylight: Lokacin Gabashin Afirka
-  },
-  Indian/Antananarivo: {
-    Generic: Lokacin Gabashin Afirka,
-    Standard: Lokacin Gabashin Afirka,
-    Daylight: Lokacin Gabashin Afirka
-  },
-  Africa/Mogadishu: {
-    Generic: Lokacin Gabashin Afirka,
-    Standard: Lokacin Gabashin Afirka,
-    Daylight: Lokacin Gabashin Afirka
-  },
-  Africa/Dar_es_Salaam: {
-    Generic: Lokacin Gabashin Afirka,
-    Standard: Lokacin Gabashin Afirka,
-    Daylight: Lokacin Gabashin Afirka
-  },
-  Africa/Kampala: {
-    Generic: Lokacin Gabashin Afirka,
-    Standard: Lokacin Gabashin Afirka,
-    Daylight: Lokacin Gabashin Afirka
-  },
-  Indian/Mayotte: {
-    Generic: Lokacin Gabashin Afirka,
-    Standard: Lokacin Gabashin Afirka,
-    Daylight: Lokacin Gabashin Afirka
-  },
-  Etc/GMT-3: {
-    Generic: Hadewa Lokaci na Duniya +3,
-    Standard: Hadewa Lokaci na Duniya +3,
-    Daylight: Hadewa Lokaci na Duniya +3
-  },
-  Australia/Brisbane: {
-    Generic: Lokacin Gabashin Austiraliya,
-    Standard: Australian Eastern Standard Time,
-    Daylight: Lokacin Rana na Gabashin Austiraliya
-  },
-  Australia/Lindeman: {
-    Generic: Lokacin Gabashin Austiraliya,
-    Standard: Australian Eastern Standard Time,
-    Daylight: Lokacin Rana na Gabashin Austiraliya
-  },
-  Europe/Chisinau: {
-    Generic: Lokaci a turai gabas,
-    Standard: Ida lokaci a turai gabas,
-    Daylight: Gabas a lokaci turai da bazara
-  },
-  America/Sao_Paulo: {
-    Generic: Lokacin Brasillia,
-    Standard: Tsayayyen Lokacin Brasillia,
-    Daylight: Lokacin Bazara na Brasillia
-  },
-  Pacific/Easter: {
-    Generic: Lokacin Easter Island,
-    Standard: Tsayayyen Lokacin Easter Island,
-    Daylight: Lokacin Bazara na Easter Island
-  },
-  America/Cancun: {
-    Generic: Lokacin Gabas dake Arewacin Amurikaa,
-    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
-    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
-  },
-  America/New_York: {
-    Generic: Lokacin Gabas dake Arewacin Amurikaa,
-    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
-    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
-  },
-  America/Nassau: {
-    Generic: Lokacin Gabas dake Arewacin Amurikaa,
-    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
-    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
-  },
-  America/Toronto: {
-    Generic: Lokacin Gabas dake Arewacin Amurikaa,
-    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
-    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
-  },
-  America/Iqaluit: {
-    Generic: Lokacin Gabas dake Arewacin Amurikaa,
-    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
-    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
-  },
-  America/Montreal: {
-    Generic: Lokacin Gabas dake Arewacin Amurikaa,
-    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
-    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
-  },
-  America/Nipigon: {
+  America/Panama: {
     Generic: Lokacin Gabas dake Arewacin Amurikaa,
     Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
     Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
@@ -699,800 +894,130 @@
     Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
     Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
   },
-  America/Thunder_Bay: {
-    Generic: Lokacin Gabas dake Arewacin Amurikaa,
-    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
-    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
+  America/Paramaribo: {
+    Generic: Lokacin Suriname,
+    Standard: Lokacin Suriname,
+    Daylight: Lokacin Suriname
   },
-  America/Detroit: {
-    Generic: Lokacin Gabas dake Arewacin Amurikaa,
-    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
-    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
-  },
-  America/Indiana/Petersburg: {
-    Generic: Lokacin Gabas dake Arewacin Amurikaa,
-    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
-    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
-  },
-  America/Indiana/Vincennes: {
-    Generic: Lokacin Gabas dake Arewacin Amurikaa,
-    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
-    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
-  },
-  America/Indiana/Winamac: {
-    Generic: Lokacin Gabas dake Arewacin Amurikaa,
-    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
-    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
-  },
-  America/Kentucky/Monticello: {
-    Generic: Lokacin Gabas dake Arewacin Amurikaa,
-    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
-    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
-  },
-  America/Louisville: {
-    Generic: Lokacin Gabas dake Arewacin Amurikaa,
-    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
-    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
-  },
-  EST5EDT: {
-    Generic: Lokacin Gabas dake Arewacin Amurikaa,
-    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
-    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
-  },
-  Africa/Cairo: {
-    Generic: Lokaci a turai gabas,
-    Standard: Ida lokaci a turai gabas,
-    Daylight: Gabas a lokaci turai da bazara
-  },
-  Asia/Yekaterinburg: {
-    Generic: Yekaterinburg Lokaci,
-    Standard: Yekaterinburg Daidaitaccen Lokaci,
-    Daylight: Yekaterinburg Lokacin Rana
-  },
-  Europe/Kiev: {
-    Generic: Lokaci a turai gabas,
-    Standard: Ida lokaci a turai gabas,
-    Daylight: Gabas a lokaci turai da bazara
-  },
-  Europe/Mariehamn: {
-    Generic: Lokaci a turai gabas,
-    Standard: Ida lokaci a turai gabas,
-    Daylight: Gabas a lokaci turai da bazara
-  },
-  Europe/Sofia: {
-    Generic: Lokaci a turai gabas,
-    Standard: Ida lokaci a turai gabas,
-    Daylight: Gabas a lokaci turai da bazara
-  },
-  Europe/Tallinn: {
-    Generic: Lokaci a turai gabas,
-    Standard: Ida lokaci a turai gabas,
-    Daylight: Gabas a lokaci turai da bazara
-  },
-  Europe/Helsinki: {
-    Generic: Lokaci a turai gabas,
-    Standard: Ida lokaci a turai gabas,
-    Daylight: Gabas a lokaci turai da bazara
-  },
-  Europe/Vilnius: {
-    Generic: Lokaci a turai gabas,
-    Standard: Ida lokaci a turai gabas,
-    Daylight: Gabas a lokaci turai da bazara
-  },
-  Europe/Riga: {
-    Generic: Lokaci a turai gabas,
-    Standard: Ida lokaci a turai gabas,
-    Daylight: Gabas a lokaci turai da bazara
-  },
-  Europe/Uzhgorod: {
-    Generic: Lokaci a turai gabas,
-    Standard: Ida lokaci a turai gabas,
-    Daylight: Gabas a lokaci turai da bazara
-  },
-  Europe/Zaporozhye: {
-    Generic: Lokaci a turai gabas,
-    Standard: Ida lokaci a turai gabas,
-    Daylight: Gabas a lokaci turai da bazara
-  },
-  Pacific/Fiji: {
-    Generic: Lokacin Fiji,
-    Standard: Tsayayyen Lokacin Fiji,
-    Daylight: Lokacin Bazara na Fiji
-  },
-  Europe/London: {
-    Generic: Biritaniya Lokaci,
-    Standard: Lokacin Greenwhich a London,
-    Daylight: Lokacin Bazara na Birtaniya
-  },
-  Atlantic/Canary: {
-    Generic: Lokaci ta yammacin turai,
-    Standard: Ida lokaci ta yammacin turai,
-    Daylight: Ida lokaci ta yammacin turai da bazara
-  },
-  Atlantic/Faeroe: {
-    Generic: Lokaci ta yammacin turai,
-    Standard: Ida lokaci ta yammacin turai,
-    Daylight: Ida lokaci ta yammacin turai da bazara
-  },
-  Europe/Guernsey: {
-    Generic: Lokacin Greenwhich a London,
-    Standard: Lokacin Greenwhich a London,
-    Daylight: Lokacin Greenwhich a London
-  },
-  Europe/Dublin: {
-    Generic: Ayalan Lokaci,
-    Standard: Lokacin Greenwhich a London,
-    Daylight: Tsayayyen Lokacin Irish
-  },
-  Europe/Isle_of_Man: {
-    Generic: Lokacin Greenwhich a London,
-    Standard: Lokacin Greenwhich a London,
-    Daylight: Lokacin Greenwhich a London
-  },
-  Europe/Jersey: {
-    Generic: Lokacin Greenwhich a London,
-    Standard: Lokacin Greenwhich a London,
-    Daylight: Lokacin Greenwhich a London
-  },
-  Europe/Lisbon: {
-    Generic: Lokaci ta yammacin turai,
-    Standard: Ida lokaci ta yammacin turai,
-    Daylight: Ida lokaci ta yammacin turai da bazara
-  },
-  Atlantic/Madeira: {
-    Generic: Lokaci ta yammacin turai,
-    Standard: Ida lokaci ta yammacin turai,
-    Daylight: Ida lokaci ta yammacin turai da bazara
-  },
-  Europe/Bucharest: {
-    Generic: Lokaci a turai gabas,
-    Standard: Ida lokaci a turai gabas,
-    Daylight: Gabas a lokaci turai da bazara
-  },
-  Asia/Nicosia: {
-    Generic: Lokaci a turai gabas,
-    Standard: Ida lokaci a turai gabas,
-    Daylight: Gabas a lokaci turai da bazara
-  },
-  Asia/Famagusta: {
-    Generic: Lokaci a turai gabas,
-    Standard: Ida lokaci a turai gabas,
-    Daylight: Gabas a lokaci turai da bazara
-  },
-  Europe/Athens: {
-    Generic: Lokaci a turai gabas,
-    Standard: Ida lokaci a turai gabas,
-    Daylight: Gabas a lokaci turai da bazara
-  },
-  Asia/Tbilisi: {
-    Generic: Lokacin Georgia,
-    Standard: Tsayayyen Lokacin Georgia,
-    Daylight: Georgia Summer Time
-  },
-  America/Godthab: {
-    Generic: Lokacin Yammacin Greenland,
-    Standard: Tsayayyen Lokacin Yammacin Greenland,
-    Daylight: Lokacin Rana na Yammacin Greenland
-  },
-  Atlantic/Reykjavik: {
-    Generic: Lokacin Greenwhich a London,
-    Standard: Lokacin Greenwhich a London,
-    Daylight: Lokacin Greenwhich a London
-  },
-  Atlantic/St_Helena: {
-    Generic: Lokacin Greenwhich a London,
-    Standard: Lokacin Greenwhich a London,
-    Daylight: Lokacin Greenwhich a London
-  },
-  Africa/Ouagadougou: {
-    Generic: Lokacin Greenwhich a London,
-    Standard: Lokacin Greenwhich a London,
-    Daylight: Lokacin Greenwhich a London
-  },
-  Africa/Abidjan: {
-    Generic: Lokacin Greenwhich a London,
-    Standard: Lokacin Greenwhich a London,
-    Daylight: Lokacin Greenwhich a London
-  },
-  Africa/Accra: {
-    Generic: Lokacin Greenwhich a London,
-    Standard: Lokacin Greenwhich a London,
-    Daylight: Lokacin Greenwhich a London
-  },
-  America/Danmarkshavn: {
-    Generic: Lokacin Greenwhich a London,
-    Standard: Lokacin Greenwhich a London,
-    Daylight: Lokacin Greenwhich a London
-  },
-  Africa/Banjul: {
-    Generic: Lokacin Greenwhich a London,
-    Standard: Lokacin Greenwhich a London,
-    Daylight: Lokacin Greenwhich a London
-  },
-  Africa/Conakry: {
-    Generic: Lokacin Greenwhich a London,
-    Standard: Lokacin Greenwhich a London,
-    Daylight: Lokacin Greenwhich a London
-  },
-  Africa/Bissau: {
-    Generic: Lokacin Greenwhich a London,
-    Standard: Lokacin Greenwhich a London,
-    Daylight: Lokacin Greenwhich a London
-  },
-  Africa/Monrovia: {
-    Generic: Lokacin Greenwhich a London,
-    Standard: Lokacin Greenwhich a London,
-    Daylight: Lokacin Greenwhich a London
-  },
-  Africa/Bamako: {
-    Generic: Lokacin Greenwhich a London,
-    Standard: Lokacin Greenwhich a London,
-    Daylight: Lokacin Greenwhich a London
-  },
-  Africa/Nouakchott: {
-    Generic: Lokacin Greenwhich a London,
-    Standard: Lokacin Greenwhich a London,
-    Daylight: Lokacin Greenwhich a London
-  },
-  Africa/Freetown: {
-    Generic: Lokacin Greenwhich a London,
-    Standard: Lokacin Greenwhich a London,
-    Daylight: Lokacin Greenwhich a London
-  },
-  Africa/Dakar: {
-    Generic: Lokacin Greenwhich a London,
-    Standard: Lokacin Greenwhich a London,
-    Daylight: Lokacin Greenwhich a London
-  },
-  Africa/Lome: {
-    Generic: Lokacin Greenwhich a London,
-    Standard: Lokacin Greenwhich a London,
-    Daylight: Lokacin Greenwhich a London
+  America/Phoenix: {
+    Generic: Lokacin Tsauni na Arewacin Amurka,
+    Standard: Lokaci tsayayye na tsauni a Arewacin Amurica,
+    Daylight: Lokacin Rana na Tsaunin Arewacin Amurka
   },
   America/Port-au-Prince: {
     Generic: Lokacin Gabas dake Arewacin Amurikaa,
     Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
     Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
   },
-  Pacific/Honolulu: {
-    Generic: Lokaci na Hawaii-Aleutian,
-    Standard: Tsayayyen Lokacin Hawaii-Aleutian,
-    Daylight: Lokacin Rana na Hawaii-Aleutian
-  },
-  Pacific/Rarotonga: {
-    Generic: Lokacin Cook Islands,
-    Standard: Tsayayyen Lokacin Cook Islands,
-    Daylight: Rabin Lokacin Bazara na Cook Islands
-  },
-  Pacific/Tahiti: {
-    Generic: Lokacin Tahiti,
-    Standard: Lokacin Tahiti,
-    Daylight: Lokacin Tahiti
-  },
-  Pacific/Johnston: {
-    Generic: Lokaci na Hawaii-Aleutian,
-    Standard: Tsayayyen Lokacin Hawaii-Aleutian,
-    Daylight: Lokacin Rana na Hawaii-Aleutian
-  },
-  Etc/GMT+10: {
-    Generic: Hadewa Lokaci na Duniya -10,
-    Standard: Hadewa Lokaci na Duniya -10,
-    Daylight: Hadewa Lokaci na Duniya -10
-  },
-  Asia/Calcutta: {
-    Generic: India Standard Time,
-    Standard: India Standard Time,
-    Daylight: India Standard Time
-  },
-  Asia/Tehran: {
-    Generic: Lokacin Iran,
-    Standard: Tsayayyen Lokacin Iran,
-    Daylight: Lokacin Rana na Iran
-  },
-  Asia/Jerusalem: {
-    Generic: Lokacin Israʼila,
-    Standard: Israel Standard Time,
-    Daylight: Israel Daylight Time
-  },
-  Asia/Amman: {
-    Generic: Lokaci a turai gabas,
-    Standard: Ida lokaci a turai gabas,
-    Daylight: Gabas a lokaci turai da bazara
-  },
-  Europe/Kaliningrad: {
-    Generic: Kaliningrad Lokaci,
-    Standard: Kaliningrad Daidaitaccen Lokaci,
-    Daylight: Kaliningrad Lokacin Rana
-  },
-  Asia/Seoul: {
-    Generic: Lokacin Koriya,
-    Standard: Tsayayyen Lokacin Koriya,
-    Daylight: Lokacin Rana na Koriya
-  },
-  Africa/Tripoli: {
-    Generic: Lokaci a turai gabas,
-    Standard: Ida lokaci a turai gabas,
-    Daylight: Gabas a lokaci turai da bazara
-  },
-  Pacific/Kiritimati: {
-    Generic: Lokacin Line Islands,
-    Standard: Lokacin Line Islands,
-    Daylight: Lokacin Line Islands
-  },
-  Etc/GMT-14: {
-    Generic: Hadewa Lokaci na Duniya +14,
-    Standard: Hadewa Lokaci na Duniya +14,
-    Daylight: Hadewa Lokaci na Duniya +14
-  },
-  Australia/Lord_Howe: {
-    Generic: Lokacin Lord Howe,
-    Standard: Tsayayyen Lokacin Lord Howe,
-    Daylight: Lokacin Rana na Vote Lord Howe
-  },
-  Asia/Magadan: {
-    Generic: Magadan Lokaci,
-    Standard: Magadan Daidaitaccen Lokaci,
-    Daylight: Magadan Lokacin Rana
-  },
-  America/Punta_Arenas: {
-    Generic: Lokacin Chile,
-    Standard: Tsayayyen Lokacin Chile,
-    Daylight: Lokacin Bazara na Chile
-  },
-  Pacific/Marquesas: {
-    Generic: Lokacin Marquesas,
-    Standard: Lokacin Marquesas,
-    Daylight: Lokacin Marquesas
-  },
-  Indian/Mauritius: {
-    Generic: Lokacin Mauritius,
-    Standard: Tsayayyen Lokacin Mauritius,
-    Daylight: Lokacin Bazara na Mauritius
-  },
-  Indian/Reunion: {
-    Generic: Lokacin Réunion,
-    Standard: Lokacin Réunion,
-    Daylight: Lokacin Réunion
-  },
-  Indian/Mahe: {
-    Generic: Lokacin Seychelles,
-    Standard: Lokacin Seychelles,
-    Daylight: Lokacin Seychelles
-  },
-  Asia/Beirut: {
-    Generic: Lokaci a turai gabas,
-    Standard: Ida lokaci a turai gabas,
-    Daylight: Gabas a lokaci turai da bazara
-  },
-  America/Montevideo: {
-    Generic: Lokacin Uruguay,
-    Standard: Tsayayyen Lokacin Uruguay,
-    Daylight: Lokacin Bazara na Uruguay
-  },
-  Africa/Casablanca: {
-    Generic: Lokaci ta yammacin turai,
-    Standard: Ida lokaci ta yammacin turai,
-    Daylight: Ida lokaci ta yammacin turai da bazara
-  },
-  Africa/El_Aaiun: {
-    Generic: Lokaci ta yammacin turai,
-    Standard: Ida lokaci ta yammacin turai,
-    Daylight: Ida lokaci ta yammacin turai da bazara
-  },
-  America/Chihuahua: {
-    Generic: Lokacin Mekziko Pacific,
-    Standard: Tsayayyen Lokacin Mekziko Pacific,
-    Daylight: Lokacin Rana na Mekziko Pacific
-  },
-  America/Mazatlan: {
-    Generic: Lokacin Mekziko Pacific,
-    Standard: Tsayayyen Lokacin Mekziko Pacific,
-    Daylight: Lokacin Rana na Mekziko Pacific
-  },
-  America/Denver: {
-    Generic: Lokacin Tsauni na Arewacin Amurka,
-    Standard: Lokaci tsayayye na tsauni a Arewacin Amurica,
-    Daylight: Lokacin Rana na Tsaunin Arewacin Amurka
-  },
-  America/Edmonton: {
-    Generic: Lokacin Tsauni na Arewacin Amurka,
-    Standard: Lokaci tsayayye na tsauni a Arewacin Amurica,
-    Daylight: Lokacin Rana na Tsaunin Arewacin Amurka
-  },
-  America/Cambridge_Bay: {
-    Generic: Lokacin Tsauni na Arewacin Amurka,
-    Standard: Lokaci tsayayye na tsauni a Arewacin Amurica,
-    Daylight: Lokacin Rana na Tsaunin Arewacin Amurka
-  },
-  America/Inuvik: {
-    Generic: Lokacin Tsauni na Arewacin Amurka,
-    Standard: Lokaci tsayayye na tsauni a Arewacin Amurica,
-    Daylight: Lokacin Rana na Tsaunin Arewacin Amurka
-  },
-  America/Yellowknife: {
-    Generic: Lokacin Tsauni na Arewacin Amurka,
-    Standard: Lokaci tsayayye na tsauni a Arewacin Amurica,
-    Daylight: Lokacin Rana na Tsaunin Arewacin Amurka
-  },
-  America/Ojinaga: {
-    Generic: Lokacin Tsauni na Arewacin Amurka,
-    Standard: Lokaci tsayayye na tsauni a Arewacin Amurica,
-    Daylight: Lokacin Rana na Tsaunin Arewacin Amurka
-  },
-  America/Boise: {
-    Generic: Lokacin Tsauni na Arewacin Amurka,
-    Standard: Lokaci tsayayye na tsauni a Arewacin Amurica,
-    Daylight: Lokacin Rana na Tsaunin Arewacin Amurka
-  },
-  MST7MDT: {
-    Generic: Lokacin Tsauni na Arewacin Amurka,
-    Standard: Lokaci tsayayye na tsauni a Arewacin Amurica,
-    Daylight: Lokacin Rana na Tsaunin Arewacin Amurka
-  },
-  Asia/Rangoon: {
-    Generic: Lokacin Myanmar,
-    Standard: Lokacin Myanmar,
-    Daylight: Lokacin Myanmar
-  },
-  Indian/Cocos: {
-    Generic: Lokacin Cocos Islands,
-    Standard: Lokacin Cocos Islands,
-    Daylight: Lokacin Cocos Islands
-  },
-  Asia/Novosibirsk: {
-    Generic: Novosibirsk Lokaci,
-    Standard: Novosibirsk Daidaitaccen Lokaci,
-    Daylight: Novosibirsk Lokacin Rana
-  },
-  Africa/Windhoek: {
-    Generic: Lokacin Afirka ta Tsakiya,
-    Standard: Lokacin Afirka ta Tsakiya,
-    Daylight: Lokacin Afirka ta Tsakiya
-  },
-  Asia/Katmandu: {
-    Generic: Lokacin Nepal,
-    Standard: Lokacin Nepal,
-    Daylight: Lokacin Nepal
-  },
-  Pacific/Auckland: {
-    Generic: Lokacin New Zealand,
-    Standard: Tsayayyen Lokacin New Zealand,
-    Daylight: Lokacin Rana na New Zealand
-  },
-  Antarctica/McMurdo: {
-    Generic: Lokacin New Zealand,
-    Standard: Tsayayyen Lokacin New Zealand,
-    Daylight: Lokacin Rana na New Zealand
-  },
-  America/St_Johns: {
-    Generic: Lokacin Newfoundland,
-    Standard: Lokaci Tsayayye ta Newfoundland,
-    Daylight: Lokaci rana ta Newfoundland
-  },
-  Pacific/Norfolk: {
-    Generic: Lokacin Norfolk Island,
-    Standard: Tsayayyen Lokacin Norfolk Island,
-    Daylight: Lokacin Rana na Norfolk Island
-  },
-  Asia/Irkutsk: {
-    Generic: Irkutsk Lokaci,
-    Standard: Irkutsk Daidaitaccen Lokaci,
-    Daylight: Irkutsk Lokacin Rana
-  },
-  Asia/Krasnoyarsk: {
-    Generic: Krasnoyarsk Lokaci,
-    Standard: Krasnoyarsk Daidaitaccen Lokaci,
-    Daylight: Krasnoyarsk Lokacin Rana
-  },
-  Asia/Novokuznetsk: {
-    Generic: Novokuznetsk Lokaci,
-    Standard: Novokuznetsk Daidaitaccen Lokaci,
-    Daylight: Novokuznetsk Lokacin Rana
-  },
-  Asia/Pyongyang: {
-    Generic: Lokacin Koriya,
-    Standard: Tsayayyen Lokacin Koriya,
-    Daylight: Lokacin Rana na Koriya
-  },
-  Asia/Omsk: {
-    Generic: Omsk Lokaci,
-    Standard: Omsk Daidaitaccen Lokaci,
-    Daylight: Omsk Lokacin Rana
-  },
-  America/Santiago: {
-    Generic: Lokacin Chile,
-    Standard: Tsayayyen Lokacin Chile,
-    Daylight: Lokacin Bazara na Chile
-  },
-  America/Tijuana: {
-    Generic: Lokacin Arewacin Amurika,
-    Standard: Lokaci Tsayayye na Arewacin Amurika,
-    Daylight: Lokacin Rana na Arewacin Amurka
-  },
-  America/Santa_Isabel: {
-    Generic: Lokacin Arewa Maso Yammacin Mekziko,
-    Standard: Tsayayyen Lokacin Arewa Maso Yammacin Mekziko,
-    Daylight: Lokacin Rana na Arewa Maso Yammacin Mekziko
-  },
-  America/Los_Angeles: {
-    Generic: Lokacin Arewacin Amurika,
-    Standard: Lokaci Tsayayye na Arewacin Amurika,
-    Daylight: Lokacin Rana na Arewacin Amurka
-  },
-  America/Vancouver: {
-    Generic: Lokacin Arewacin Amurika,
-    Standard: Lokaci Tsayayye na Arewacin Amurika,
-    Daylight: Lokacin Rana na Arewacin Amurka
-  },
-  PST8PDT: {
-    Generic: Lokacin Arewacin Amurika,
-    Standard: Lokaci Tsayayye na Arewacin Amurika,
-    Daylight: Lokacin Rana na Arewacin Amurka
-  },
-  Asia/Karachi: {
-    Generic: Lokacin Pakistan,
-    Standard: Tsayayyen Lokacin Pakistan,
-    Daylight: Lokacin Bazara na Pakistan
-  },
-  America/Asuncion: {
-    Generic: Lokacin Paraguay,
-    Standard: Tsayayyen Lokacin Paraguay,
-    Daylight: Lokacin Bazara na Paraguay
-  },
-  Asia/Qyzylorda: {
-    Generic: Lokacin Yammacin Kazakhstan,
-    Standard: Lokacin Yammacin Kazakhstan,
-    Daylight: Lokacin Yammacin Kazakhstan
-  },
-  Europe/Paris: {
-    Generic: Tsakiyar a lokaci turai,
-    Standard: Ida Tsakiyar a Lokaci Turai,
-    Daylight: Tsakiyar bazara a lokaci turai
-  },
-  Europe/Brussels: {
-    Generic: Tsakiyar a lokaci turai,
-    Standard: Ida Tsakiyar a Lokaci Turai,
-    Daylight: Tsakiyar bazara a lokaci turai
-  },
-  Europe/Copenhagen: {
-    Generic: Tsakiyar a lokaci turai,
-    Standard: Ida Tsakiyar a Lokaci Turai,
-    Daylight: Tsakiyar bazara a lokaci turai
-  },
-  Africa/Ceuta: {
-    Generic: Tsakiyar a lokaci turai,
-    Standard: Ida Tsakiyar a Lokaci Turai,
-    Daylight: Tsakiyar bazara a lokaci turai
-  },
-  Europe/Madrid: {
-    Generic: Tsakiyar a lokaci turai,
-    Standard: Ida Tsakiyar a Lokaci Turai,
-    Daylight: Tsakiyar bazara a lokaci turai
-  },
-  Asia/Srednekolymsk: {
-    Generic: Srednekolymsk Lokaci,
-    Standard: Srednekolymsk Daidaitaccen Lokaci,
-    Daylight: Srednekolymsk Lokacin Rana
-  },
-  Asia/Kamchatka: {
-    Generic: Kamchatka Lokaci,
-    Standard: Kamchatka Daidaitaccen Lokaci,
-    Daylight: Kamchatka Lokacin Rana
-  },
-  Asia/Anadyr: {
-    Generic: Anadyr Lokaci,
-    Standard: Anadyr Daidaitaccen Lokaci,
-    Daylight: Anadyr Lokacin Rana
-  },
-  Europe/Samara: {
-    Generic: Samara Lokaci,
-    Standard: Samara Daidaitaccen Lokaci,
-    Daylight: Samara Lokacin Rana
-  },
-  Europe/Moscow: {
-    Generic: Moscow Lokaci,
-    Standard: Moscow Daidaitaccen Lokaci,
-    Daylight: Moscow Lokacin Rana
-  },
-  Europe/Kirov: {
-    Generic: Kirov Lokaci,
-    Standard: Kirov Daidaitaccen Lokaci,
-    Daylight: Kirov Lokacin Rana
-  },
-  Europe/Simferopol: {
-    Generic: Lokacin Moscow,
-    Standard: Tsayayyen Lokacin Moscow,
-    Daylight: Lokacin Bazara na Moscow
-  },
-  America/Cayenne: {
-    Generic: Lokacin French Guiana,
-    Standard: Lokacin French Guiana,
-    Daylight: Lokacin French Guiana
-  },
-  Antarctica/Rothera: {
-    Generic: Lokacin Rothera,
-    Standard: Lokacin Rothera,
-    Daylight: Lokacin Rothera
-  },
-  Antarctica/Palmer: {
-    Generic: Lokacin Chile,
-    Standard: Tsayayyen Lokacin Chile,
-    Daylight: Lokacin Bazara na Chile
-  },
-  America/Fortaleza: {
-    Generic: Lokacin Brasillia,
-    Standard: Tsayayyen Lokacin Brasillia,
-    Daylight: Lokacin Bazara na Brasillia
-  },
-  America/Belem: {
-    Generic: Lokacin Brasillia,
-    Standard: Tsayayyen Lokacin Brasillia,
-    Daylight: Lokacin Bazara na Brasillia
-  },
-  America/Maceio: {
-    Generic: Lokacin Brasillia,
-    Standard: Tsayayyen Lokacin Brasillia,
-    Daylight: Lokacin Bazara na Brasillia
-  },
-  America/Recife: {
-    Generic: Lokacin Brasillia,
-    Standard: Tsayayyen Lokacin Brasillia,
-    Daylight: Lokacin Bazara na Brasillia
-  },
-  America/Santarem: {
-    Generic: Lokacin Brasillia,
-    Standard: Tsayayyen Lokacin Brasillia,
-    Daylight: Lokacin Bazara na Brasillia
-  },
-  Atlantic/Stanley: {
-    Generic: Lokacin Falkland Islands,
-    Standard: Tsayayyen Lokacin Falkland Islands,
-    Daylight: Lokacin Bazara na Falkland Islands
-  },
-  America/Paramaribo: {
-    Generic: Lokacin Suriname,
-    Standard: Lokacin Suriname,
-    Daylight: Lokacin Suriname
-  },
-  Etc/GMT+3: {
-    Generic: Hadewa Lokaci na Duniya -3,
-    Standard: Hadewa Lokaci na Duniya -3,
-    Daylight: Hadewa Lokaci na Duniya -3
-  },
-  America/Bogota: {
-    Generic: Lokacin Colombia,
-    Standard: Tsayayyen Lokacin Colombia,
-    Daylight: Lokacin Bazara na Colombia
-  },
-  America/Rio_Branco: {
+  America/Port_of_Spain: {
+    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
+  },
+  America/Porto_Acre: {
     Generic: Birazil Lokaci,
     Standard: Birazil Daidaitaccen Lokaci,
     Daylight: Birazil Lokacin Rana
-  },
-  America/Eirunepe: {
-    Generic: Birazil Lokaci,
-    Standard: Birazil Daidaitaccen Lokaci,
-    Daylight: Birazil Lokacin Rana
-  },
-  America/Coral_Harbour: {
-    Generic: Lokacin Gabas dake Arewacin Amurikaa,
-    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
-    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
-  },
-  America/Guayaquil: {
-    Generic: Lokacin Ecuador,
-    Standard: Lokacin Ecuador,
-    Daylight: Lokacin Ecuador
-  },
-  America/Jamaica: {
-    Generic: Lokacin Gabas dake Arewacin Amurikaa,
-    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
-    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
-  },
-  America/Cayman: {
-    Generic: Lokacin Gabas dake Arewacin Amurikaa,
-    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
-    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
-  },
-  America/Panama: {
-    Generic: Lokacin Gabas dake Arewacin Amurikaa,
-    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
-    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
-  },
-  America/Lima: {
-    Generic: Lokacin Peru,
-    Standard: Tsayayyen Lokacin Peru,
-    Daylight: Lokacin Bazara na Peru
-  },
-  Etc/GMT+5: {
-    Generic: Hadewa Lokaci na Duniya -5,
-    Standard: Hadewa Lokaci na Duniya -5,
-    Daylight: Hadewa Lokaci na Duniya -5
-  },
-  America/La_Paz: {
-    Generic: Lokacin Bolivia,
-    Standard: Lokacin Bolivia,
-    Daylight: Lokacin Bolivia
-  },
-  America/Antigua: {
-    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
-  },
-  America/Anguilla: {
-    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
-  },
-  America/Aruba: {
-    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
-  },
-  America/Barbados: {
-    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
-  },
-  America/St_Barthelemy: {
-    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
-  },
-  America/Kralendijk: {
-    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
-  },
-  America/Manaus: {
-    Generic: Lokacin Amazon,
-    Standard: Tsayayyen Lokacin Amazon,
-    Daylight: Lokacin Bazara na Amazon
-  },
-  America/Boa_Vista: {
-    Generic: Lokacin Amazon,
-    Standard: Tsayayyen Lokacin Amazon,
-    Daylight: Lokacin Bazara na Amazon
   },
   America/Porto_Velho: {
     Generic: Lokacin Amazon,
     Standard: Tsayayyen Lokacin Amazon,
     Daylight: Lokacin Bazara na Amazon
   },
-  America/Blanc-Sablon: {
+  America/Puerto_Rico: {
     Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
     Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
     Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
   },
-  America/Curacao: {
-    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
+  America/Punta_Arenas: {
+    Generic: Lokacin Chile,
+    Standard: Tsayayyen Lokacin Chile,
+    Daylight: Lokacin Bazara na Chile
   },
-  America/Dominica: {
-    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
+  America/Rainy_River: {
+    Generic: Lokaci dake Amurika arewa ta tsakiyar,
+    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
+    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
+  },
+  America/Rankin_Inlet: {
+    Generic: Lokaci dake Amurika arewa ta tsakiyar,
+    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
+    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
+  },
+  America/Recife: {
+    Generic: Lokacin Brasillia,
+    Standard: Tsayayyen Lokacin Brasillia,
+    Daylight: Lokacin Bazara na Brasillia
+  },
+  America/Regina: {
+    Generic: Lokaci dake Amurika arewa ta tsakiyar,
+    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
+    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
+  },
+  America/Resolute: {
+    Generic: Lokaci dake Amurika arewa ta tsakiyar,
+    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
+    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
+  },
+  America/Rio_Branco: {
+    Generic: Birazil Lokaci,
+    Standard: Birazil Daidaitaccen Lokaci,
+    Daylight: Birazil Lokacin Rana
+  },
+  America/Rosario: {
+    Generic: Lokacin Argentina,
+    Standard: Tsayayyen Lokacin Argentina,
+    Daylight: Lokacin Bazara na Argentina
+  },
+  America/Santa_Isabel: {
+    Generic: Lokacin Arewa Maso Yammacin Mekziko,
+    Standard: Tsayayyen Lokacin Arewa Maso Yammacin Mekziko,
+    Daylight: Lokacin Rana na Arewa Maso Yammacin Mekziko
+  },
+  America/Santarem: {
+    Generic: Lokacin Brasillia,
+    Standard: Tsayayyen Lokacin Brasillia,
+    Daylight: Lokacin Bazara na Brasillia
+  },
+  America/Santiago: {
+    Generic: Lokacin Chile,
+    Standard: Tsayayyen Lokacin Chile,
+    Daylight: Lokacin Bazara na Chile
   },
   America/Santo_Domingo: {
     Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
     Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
     Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
   },
-  America/Grenada: {
+  America/Sao_Paulo: {
+    Generic: Lokacin Brasillia,
+    Standard: Tsayayyen Lokacin Brasillia,
+    Daylight: Lokacin Bazara na Brasillia
+  },
+  America/Scoresbysund: {
+    Generic: Lokacin Gabas na Greenland,
+    Standard: Tsayayyen Lokacin Gabashin Greenland,
+    Daylight: Lokacin Rana na Gabashin Greenland
+  },
+  America/Shiprock: {
+    Generic: Lokacin Tsauni na Arewacin Amurka,
+    Standard: Lokaci tsayayye na tsauni a Arewacin Amurica,
+    Daylight: Lokacin Rana na Tsaunin Arewacin Amurka
+  },
+  America/Sitka: {
+    Generic: Lokacin Alaska,
+    Standard: Tsayayyen Lokacin Alaska,
+    Daylight: Lokacin Rana na Alaska
+  },
+  America/St_Barthelemy: {
     Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
     Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
     Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
   },
-  America/Guadeloupe: {
-    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
-  },
-  America/Guyana: {
-    Generic: Lokacin Guyana,
-    Standard: Lokacin Guyana,
-    Daylight: Lokacin Guyana
+  America/St_Johns: {
+    Generic: Lokacin Newfoundland,
+    Standard: Lokaci Tsayayye ta Newfoundland,
+    Daylight: Lokaci rana ta Newfoundland
   },
   America/St_Kitts: {
     Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
@@ -1504,32 +1029,7 @@
     Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
     Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
   },
-  America/Marigot: {
-    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
-  },
-  America/Martinique: {
-    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
-  },
-  America/Montserrat: {
-    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
-  },
-  America/Puerto_Rico: {
-    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
-  },
-  America/Lower_Princes: {
-    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
-  },
-  America/Port_of_Spain: {
+  America/St_Thomas: {
     Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
     Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
     Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
@@ -1539,655 +1039,155 @@
     Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
     Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
   },
+  America/Swift_Current: {
+    Generic: Lokaci dake Amurika arewa ta tsakiyar,
+    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
+    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
+  },
+  America/Tegucigalpa: {
+    Generic: Lokaci dake Amurika arewa ta tsakiyar,
+    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
+    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
+  },
+  America/Thule: {
+    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
+  },
+  America/Thunder_Bay: {
+    Generic: Lokacin Gabas dake Arewacin Amurikaa,
+    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
+    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
+  },
+  America/Tijuana: {
+    Generic: Lokacin Arewacin Amurika,
+    Standard: Lokaci Tsayayye na Arewacin Amurika,
+    Daylight: Lokacin Rana na Arewacin Amurka
+  },
+  America/Toronto: {
+    Generic: Lokacin Gabas dake Arewacin Amurikaa,
+    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
+    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
+  },
   America/Tortola: {
     Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
     Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
     Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
   },
-  America/St_Thomas: {
+  America/Vancouver: {
+    Generic: Lokacin Arewacin Amurika,
+    Standard: Lokaci Tsayayye na Arewacin Amurika,
+    Daylight: Lokacin Rana na Arewacin Amurka
+  },
+  America/Virgin: {
     Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
     Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
     Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
   },
-  Etc/GMT+4: {
-    Generic: Hadewa Lokaci na Duniya -4,
-    Standard: Hadewa Lokaci na Duniya -4,
-    Daylight: Hadewa Lokaci na Duniya -4
+  America/Whitehorse: {
+    Generic: Lokacin Yukon,
+    Standard: Lokacin Yukon,
+    Daylight: Lokacin Yukon
   },
-  Asia/Bangkok: {
-    Generic: Lokacin Indochina,
-    Standard: Lokacin Indochina,
-    Daylight: Lokacin Indochina
+  America/Winnipeg: {
+    Generic: Lokaci dake Amurika arewa ta tsakiyar,
+    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
+    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
+  },
+  America/Yakutat: {
+    Generic: Lokacin Alaska,
+    Standard: Tsayayyen Lokacin Alaska,
+    Daylight: Lokacin Rana na Alaska
+  },
+  America/Yellowknife: {
+    Generic: Lokacin Tsauni na Arewacin Amurka,
+    Standard: Lokaci tsayayye na tsauni a Arewacin Amurica,
+    Daylight: Lokacin Rana na Tsaunin Arewacin Amurka
+  },
+  Antarctica/Casey: {
+    Generic: Antatika Lokaci,
+    Standard: Antatika Daidaitaccen Lokaci,
+    Daylight: Antatika Lokacin Rana
   },
   Antarctica/Davis: {
     Generic: Lokacin Davis,
     Standard: Lokacin Davis,
     Daylight: Lokacin Davis
   },
-  Indian/Christmas: {
-    Generic: Lokacin Christmas Island,
-    Standard: Lokacin Christmas Island,
-    Daylight: Lokacin Christmas Island
-  },
-  Asia/Jakarta: {
-    Generic: Lokacin Yammacin Indonesia,
-    Standard: Lokacin Yammacin Indonesia,
-    Daylight: Lokacin Yammacin Indonesia
-  },
-  Asia/Pontianak: {
-    Generic: Lokacin Yammacin Indonesia,
-    Standard: Lokacin Yammacin Indonesia,
-    Daylight: Lokacin Yammacin Indonesia
-  },
-  Asia/Phnom_Penh: {
-    Generic: Lokacin Indochina,
-    Standard: Lokacin Indochina,
-    Daylight: Lokacin Indochina
-  },
-  Asia/Vientiane: {
-    Generic: Lokacin Indochina,
-    Standard: Lokacin Indochina,
-    Daylight: Lokacin Indochina
-  },
-  Asia/Saigon: {
-    Generic: Lokacin Indochina,
-    Standard: Lokacin Indochina,
-    Daylight: Lokacin Indochina
-  },
-  Etc/GMT-7: {
-    Generic: Hadewa Lokaci na Duniya +7,
-    Standard: Hadewa Lokaci na Duniya +7,
-    Daylight: Hadewa Lokaci na Duniya +7
-  },
-  America/Miquelon: {
-    Generic: Lokacin St. Pierre da Miquelon,
-    Standard: Tsayayyen Lokacin St. Pierre da Miquelon,
-    Daylight: Lokacin Rana na St. Pierre da Miquelon
-  },
-  Asia/Sakhalin: {
-    Generic: Sakhalin Lokaci,
-    Standard: Sakhalin Daidaitaccen Lokaci,
-    Daylight: Sakhalin Lokacin Rana
-  },
-  Pacific/Apia: {
-    Generic: Lokacin Apia,
-    Standard: Tsayayyen Lokacin Apia,
-    Daylight: Lokacin Rana na Apia
-  },
-  Africa/Sao_Tome: {
-    Generic: Lokacin Greenwhich a London,
-    Standard: Lokacin Greenwhich a London,
-    Daylight: Lokacin Greenwhich a London
-  },
-  Europe/Saratov: {
-    Generic: Saratov Lokaci,
-    Standard: Saratov Daidaitaccen Lokaci,
-    Daylight: Saratov Lokacin Rana
-  },
-  Asia/Singapore: {
-    Generic: Tsayayyen Lokacin Singapore,
-    Standard: Tsayayyen Lokacin Singapore,
-    Daylight: Tsayayyen Lokacin Singapore
-  },
-  Asia/Brunei: {
-    Generic: Lokacin Brunei Darussalam,
-    Standard: Lokacin Brunei Darussalam,
-    Daylight: Lokacin Brunei Darussalam
-  },
-  Asia/Makassar: {
-    Generic: Lokacin Indonesia ta Tsakiya,
-    Standard: Lokacin Indonesia ta Tsakiya,
-    Daylight: Lokacin Indonesia ta Tsakiya
-  },
-  Asia/Kuala_Lumpur: {
-    Generic: Lokacin Malaysia,
-    Standard: Lokacin Malaysia,
-    Daylight: Lokacin Malaysia
-  },
-  Asia/Kuching: {
-    Generic: Lokacin Malaysia,
-    Standard: Lokacin Malaysia,
-    Daylight: Lokacin Malaysia
-  },
-  Asia/Manila: {
-    Generic: Lokacin Philippine,
-    Standard: Tsayayyen Lokacin Philippine,
-    Daylight: Lokacin Bazara na Philippine
-  },
-  Etc/GMT-8: {
-    Generic: Hadewa Lokaci na Duniya +8,
-    Standard: Hadewa Lokaci na Duniya +8,
-    Daylight: Hadewa Lokaci na Duniya +8
-  },
-  Africa/Johannesburg: {
-    Generic: South Africa Standard Time,
-    Standard: South Africa Standard Time,
-    Daylight: South Africa Standard Time
-  },
-  Africa/Bujumbura: {
-    Generic: Lokacin Afirka ta Tsakiya,
-    Standard: Lokacin Afirka ta Tsakiya,
-    Daylight: Lokacin Afirka ta Tsakiya
-  },
-  Africa/Gaborone: {
-    Generic: Lokacin Afirka ta Tsakiya,
-    Standard: Lokacin Afirka ta Tsakiya,
-    Daylight: Lokacin Afirka ta Tsakiya
-  },
-  Africa/Lubumbashi: {
-    Generic: Lokacin Afirka ta Tsakiya,
-    Standard: Lokacin Afirka ta Tsakiya,
-    Daylight: Lokacin Afirka ta Tsakiya
-  },
-  Africa/Maseru: {
-    Generic: South Africa Standard Time,
-    Standard: South Africa Standard Time,
-    Daylight: South Africa Standard Time
-  },
-  Africa/Blantyre: {
-    Generic: Lokacin Afirka ta Tsakiya,
-    Standard: Lokacin Afirka ta Tsakiya,
-    Daylight: Lokacin Afirka ta Tsakiya
-  },
-  Africa/Maputo: {
-    Generic: Lokacin Afirka ta Tsakiya,
-    Standard: Lokacin Afirka ta Tsakiya,
-    Daylight: Lokacin Afirka ta Tsakiya
-  },
-  Africa/Kigali: {
-    Generic: Lokacin Afirka ta Tsakiya,
-    Standard: Lokacin Afirka ta Tsakiya,
-    Daylight: Lokacin Afirka ta Tsakiya
-  },
-  Africa/Mbabane: {
-    Generic: South Africa Standard Time,
-    Standard: South Africa Standard Time,
-    Daylight: South Africa Standard Time
-  },
-  Africa/Lusaka: {
-    Generic: Lokacin Afirka ta Tsakiya,
-    Standard: Lokacin Afirka ta Tsakiya,
-    Daylight: Lokacin Afirka ta Tsakiya
-  },
-  Africa/Harare: {
-    Generic: Lokacin Afirka ta Tsakiya,
-    Standard: Lokacin Afirka ta Tsakiya,
-    Daylight: Lokacin Afirka ta Tsakiya
-  },
-  Etc/GMT-2: {
-    Generic: Hadewa Lokaci na Duniya +2,
-    Standard: Hadewa Lokaci na Duniya +2,
-    Daylight: Hadewa Lokaci na Duniya +2
-  },
-  Africa/Juba: {
-    Generic: Lokacin Afirka ta Tsakiya,
-    Standard: Lokacin Afirka ta Tsakiya,
-    Daylight: Lokacin Afirka ta Tsakiya
-  },
-  Asia/Colombo: {
-    Generic: India Standard Time,
-    Standard: India Standard Time,
-    Daylight: India Standard Time
-  },
-  Africa/Khartoum: {
-    Generic: Lokacin Afirka ta Tsakiya,
-    Standard: Lokacin Afirka ta Tsakiya,
-    Daylight: Lokacin Afirka ta Tsakiya
-  },
-  Asia/Damascus: {
-    Generic: Lokaci a turai gabas,
-    Standard: Ida lokaci a turai gabas,
-    Daylight: Gabas a lokaci turai da bazara
-  },
-  Asia/Taipei: {
-    Generic: Lokacin Taipei,
-    Standard: Tsayayyen Lokacin Taipei,
-    Daylight: Lokacin Rana na Taipei
-  },
-  Australia/Hobart: {
-    Generic: Lokacin Gabashin Austiraliya,
-    Standard: Australian Eastern Standard Time,
-    Daylight: Lokacin Rana na Gabashin Austiraliya
-  },
-  Australia/Currie: {
-    Generic: Lokacin Gabashin Austiraliya,
-    Standard: Australian Eastern Standard Time,
-    Daylight: Lokacin Rana na Gabashin Austiraliya
+  Antarctica/DumontDUrville: {
+    Generic: Lokacin Dumont-d’Urville,
+    Standard: Lokacin Dumont-d’Urville,
+    Daylight: Lokacin Dumont-d’Urville
   },
   Antarctica/Macquarie: {
     Generic: Lokacin Gabashin Austiraliya,
     Standard: Australian Eastern Standard Time,
     Daylight: Lokacin Rana na Gabashin Austiraliya
   },
-  America/Araguaina: {
-    Generic: Lokacin Brasillia,
-    Standard: Tsayayyen Lokacin Brasillia,
-    Daylight: Lokacin Bazara na Brasillia
+  Antarctica/Mawson: {
+    Generic: Lokacin Mawson,
+    Standard: Lokacin Mawson,
+    Daylight: Lokacin Mawson
   },
-  Asia/Tokyo: {
-    Generic: Lokacin Japan,
-    Standard: Japan Standard Time,
-    Daylight: Japan Daylight Time
+  Antarctica/McMurdo: {
+    Generic: Lokacin New Zealand,
+    Standard: Tsayayyen Lokacin New Zealand,
+    Daylight: Lokacin Rana na New Zealand
   },
-  Asia/Jayapura: {
-    Generic: Eastern Indonesia Time,
-    Standard: Eastern Indonesia Time,
-    Daylight: Eastern Indonesia Time
+  Antarctica/Palmer: {
+    Generic: Lokacin Chile,
+    Standard: Tsayayyen Lokacin Chile,
+    Daylight: Lokacin Bazara na Chile
   },
-  Pacific/Palau: {
-    Generic: Lokacin Palau,
-    Standard: Lokacin Palau,
-    Daylight: Lokacin Palau
+  Antarctica/Rothera: {
+    Generic: Lokacin Rothera,
+    Standard: Lokacin Rothera,
+    Daylight: Lokacin Rothera
   },
-  Asia/Dili: {
-    Generic: Lokacin East Timor,
-    Standard: Lokacin East Timor,
-    Daylight: Lokacin East Timor
+  Antarctica/South_Pole: {
+    Generic: Lokacin New Zealand,
+    Standard: Tsayayyen Lokacin New Zealand,
+    Daylight: Lokacin Rana na New Zealand
   },
-  Etc/GMT-9: {
-    Generic: Hadewa Lokaci na Duniya +9,
-    Standard: Hadewa Lokaci na Duniya +9,
-    Daylight: Hadewa Lokaci na Duniya +9
+  Antarctica/Syowa: {
+    Generic: Lokacin Syowa,
+    Standard: Lokacin Syowa,
+    Daylight: Lokacin Syowa
   },
-  Asia/Tomsk: {
-    Generic: Tomsk Lokaci,
-    Standard: Tomsk Daidaitaccen Lokaci,
-    Daylight: Tomsk Lokacin Rana
-  },
-  Pacific/Tongatapu: {
-    Generic: Lokacin Tonga,
-    Standard: Tsayayyen Lokacin Tonga,
-    Daylight: Lokacin Bazara na Tonga
-  },
-  Asia/Chita: {
-    Generic: Chita Lokaci,
-    Standard: Chita Daidaitaccen Lokaci,
-    Daylight: Chita Lokacin Rana
-  },
-  Europe/Istanbul: {
-    Generic: Turkiyya Lokaci,
-    Standard: Turkiyya Daidaitaccen Lokaci,
-    Daylight: Turkiyya Lokacin Rana
-  },
-  America/Grand_Turk: {
-    Generic: Lokacin Gabas dake Arewacin Amurikaa,
-    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
-    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
-  },
-  America/Indianapolis: {
-    Generic: Lokacin Gabas dake Arewacin Amurikaa,
-    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
-    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
-  },
-  America/Indiana/Marengo: {
-    Generic: Lokacin Gabas dake Arewacin Amurikaa,
-    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
-    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
-  },
-  America/Indiana/Vevay: {
-    Generic: Lokacin Gabas dake Arewacin Amurikaa,
-    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
-    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
-  },
-  America/Phoenix: {
-    Generic: Lokacin Tsauni na Arewacin Amurka,
-    Standard: Lokaci tsayayye na tsauni a Arewacin Amurica,
-    Daylight: Lokacin Rana na Tsaunin Arewacin Amurka
-  },
-  America/Creston: {
-    Generic: Lokacin Tsauni na Arewacin Amurka,
-    Standard: Lokaci tsayayye na tsauni a Arewacin Amurica,
-    Daylight: Lokacin Rana na Tsaunin Arewacin Amurka
-  },
-  America/Dawson_Creek: {
-    Generic: Lokacin Tsauni na Arewacin Amurka,
-    Standard: Lokaci tsayayye na tsauni a Arewacin Amurica,
-    Daylight: Lokacin Rana na Tsaunin Arewacin Amurka
-  },
-  America/Fort_Nelson: {
-    Generic: Lokacin Tsauni na Arewacin Amurka,
-    Standard: Lokaci tsayayye na tsauni a Arewacin Amurica,
-    Daylight: Lokacin Rana na Tsaunin Arewacin Amurka
-  },
-  America/Hermosillo: {
-    Generic: Lokacin Mekziko Pacific,
-    Standard: Tsayayyen Lokacin Mekziko Pacific,
-    Daylight: Lokacin Rana na Mekziko Pacific
-  },
-  Etc/GMT+7: {
-    Generic: Hadewa Lokaci na Duniya -7,
-    Standard: Hadewa Lokaci na Duniya -7,
-    Daylight: Hadewa Lokaci na Duniya -7
-  },
-  Etc/GMT-12: {
-    Generic: Hadewa Lokaci na Duniya +12,
-    Standard: Hadewa Lokaci na Duniya +12,
-    Daylight: Hadewa Lokaci na Duniya +12
-  },
-  Pacific/Tarawa: {
-    Generic: Lokacin Gilbert Islands,
-    Standard: Lokacin Gilbert Islands,
-    Daylight: Lokacin Gilbert Islands
-  },
-  Pacific/Majuro: {
-    Generic: Lokacin Marshall Islands,
-    Standard: Lokacin Marshall Islands,
-    Daylight: Lokacin Marshall Islands
-  },
-  Pacific/Kwajalein: {
-    Generic: Lokacin Marshall Islands,
-    Standard: Lokacin Marshall Islands,
-    Daylight: Lokacin Marshall Islands
-  },
-  Pacific/Nauru: {
-    Generic: Lokacin Nauru,
-    Standard: Lokacin Nauru,
-    Daylight: Lokacin Nauru
-  },
-  Pacific/Funafuti: {
-    Generic: Lokacin Tuvalu,
-    Standard: Lokacin Tuvalu,
-    Daylight: Lokacin Tuvalu
-  },
-  Pacific/Wake: {
-    Generic: Lokacin Wake Island,
-    Standard: Lokacin Wake Island,
-    Daylight: Lokacin Wake Island
-  },
-  Pacific/Wallis: {
-    Generic: Lokacin Wallis da Futuna,
-    Standard: Lokacin Wallis da Futuna,
-    Daylight: Lokacin Wallis da Futuna
-  },
-  Etc/GMT-13: {
-    Generic: Hadewa Lokaci na Duniya +13,
-    Standard: Hadewa Lokaci na Duniya +13,
-    Daylight: Hadewa Lokaci na Duniya +13
-  },
-  Pacific/Enderbury: {
-    Generic: Lokacin Phoenix Islands,
-    Standard: Lokacin Phoenix Islands,
-    Daylight: Lokacin Phoenix Islands
-  },
-  Pacific/Fakaofo: {
-    Generic: Tokelau Time,
-    Standard: Tokelau Time,
-    Daylight: Tokelau Time
-  },
-  Etc/UTC: {
-    Generic: Hadewa Lokaci na Duniya,
-    Standard: Hadewa Lokaci na Duniya,
-    Daylight: Hadewa Lokaci na Duniya
-  },
-  Etc/GMT: {
+  Antarctica/Troll: {
     Generic: Lokacin Greenwhich a London,
     Standard: Lokacin Greenwhich a London,
     Daylight: Lokacin Greenwhich a London
   },
-  Etc/GMT+2: {
-    Generic: Hadewa Lokaci na Duniya -2,
-    Standard: Hadewa Lokaci na Duniya -2,
-    Daylight: Hadewa Lokaci na Duniya -2
-  },
-  America/Noronha: {
-    Generic: Lokacin Fernando de Noronha,
-    Standard: Tsayayyen Lokacin Fernando de Noronha,
-    Daylight: Lokacin Bazara na Fernando de Noronha
-  },
-  Atlantic/South_Georgia: {
-    Generic: Lokacin Kudancin Georgia,
-    Standard: Lokacin Kudancin Georgia,
-    Daylight: Lokacin Kudancin Georgia
-  },
-  Etc/GMT+8: {
-    Generic: Hadewa Lokaci na Duniya -8,
-    Standard: Hadewa Lokaci na Duniya -8,
-    Daylight: Hadewa Lokaci na Duniya -8
-  },
-  Pacific/Pitcairn: {
-    Generic: Lokacin Pitcairn,
-    Standard: Lokacin Pitcairn,
-    Daylight: Lokacin Pitcairn
-  },
-  Etc/GMT+9: {
-    Generic: Hadewa Lokaci na Duniya -9,
-    Standard: Hadewa Lokaci na Duniya -9,
-    Daylight: Hadewa Lokaci na Duniya -9
-  },
-  Pacific/Gambier: {
-    Generic: Lokacin Gambier,
-    Standard: Lokacin Gambier,
-    Daylight: Lokacin Gambier
-  },
-  Etc/GMT+11: {
-    Generic: Hadewa Lokaci na Duniya -11,
-    Standard: Hadewa Lokaci na Duniya -11,
-    Daylight: Hadewa Lokaci na Duniya -11
-  },
-  Pacific/Pago_Pago: {
-    Generic: Lokacin Samoa,
-    Standard: Tsayayyen Lokacin Samoa,
-    Daylight: Lokacin Rana na Vote Samoa
-  },
-  Pacific/Niue: {
-    Generic: Lokacin Niue,
-    Standard: Lokacin Niue,
-    Daylight: Lokacin Niue
-  },
-  Pacific/Midway: {
-    Generic: Lokacin Samoa,
-    Standard: Tsayayyen Lokacin Samoa,
-    Daylight: Lokacin Rana na Vote Samoa
-  },
-  Asia/Ulaanbaatar: {
-    Generic: Lokacin Ulaanbaatar,
-    Standard: Tsayayyen Lokacin Ulaanbaatar,
-    Daylight: Lokacin Bazara na Ulaanbaatar
-  },
-  Asia/Choibalsan: {
-    Generic: Lokacin Ulaanbaatar,
-    Standard: Tsayayyen Lokacin Ulaanbaatar,
-    Daylight: Lokacin Bazara na Ulaanbaatar
-  },
-  America/Caracas: {
-    Generic: Lokacin Venezuela,
-    Standard: Lokacin Venezuela,
-    Daylight: Lokacin Venezuela
-  },
-  Asia/Vladivostok: {
-    Generic: Vladivostok Lokaci,
-    Standard: Vladivostok Daidaitaccen Lokaci,
-    Daylight: Vladivostok Lokacin Rana
-  },
-  Asia/Ust-Nera: {
-    Generic: Ust-Nera Lokaci,
-    Standard: Ust-Nera Daidaitaccen Lokaci,
-    Daylight: Ust-Nera Lokacin Rana
-  },
-  Europe/Volgograd: {
-    Generic: Volgograd Lokaci,
-    Standard: Volgograd Daidaitaccen Lokaci,
-    Daylight: Volgograd Lokacin Rana
-  },
-  Australia/Perth: {
-    Generic: Lokacin Yammacin Austiralia,
-    Standard: Tsayayyen Lokacin Yammacin Austiralia,
-    Daylight: Lokacin Rana na Yammacin Austiralia
-  },
-  Africa/Lagos: {
-    Generic: Lokacin Afirka ta Yamma,
-    Standard: Tsayayyen Lokacin Afirka ta Yamma,
-    Daylight: Lokacin Bazara na Afirka ta Yamma
-  },
-  Africa/Luanda: {
-    Generic: Lokacin Afirka ta Yamma,
-    Standard: Tsayayyen Lokacin Afirka ta Yamma,
-    Daylight: Lokacin Bazara na Afirka ta Yamma
-  },
-  Africa/Porto-Novo: {
-    Generic: Lokacin Afirka ta Yamma,
-    Standard: Tsayayyen Lokacin Afirka ta Yamma,
-    Daylight: Lokacin Bazara na Afirka ta Yamma
-  },
-  Africa/Kinshasa: {
-    Generic: Lokacin Afirka ta Yamma,
-    Standard: Tsayayyen Lokacin Afirka ta Yamma,
-    Daylight: Lokacin Bazara na Afirka ta Yamma
-  },
-  Africa/Bangui: {
-    Generic: Lokacin Afirka ta Yamma,
-    Standard: Tsayayyen Lokacin Afirka ta Yamma,
-    Daylight: Lokacin Bazara na Afirka ta Yamma
-  },
-  Africa/Brazzaville: {
-    Generic: Lokacin Afirka ta Yamma,
-    Standard: Tsayayyen Lokacin Afirka ta Yamma,
-    Daylight: Lokacin Bazara na Afirka ta Yamma
-  },
-  Africa/Douala: {
-    Generic: Lokacin Afirka ta Yamma,
-    Standard: Tsayayyen Lokacin Afirka ta Yamma,
-    Daylight: Lokacin Bazara na Afirka ta Yamma
-  },
-  Africa/Algiers: {
-    Generic: Tsakiyar a lokaci turai,
-    Standard: Ida Tsakiyar a Lokaci Turai,
-    Daylight: Tsakiyar bazara a lokaci turai
-  },
-  Africa/Libreville: {
-    Generic: Lokacin Afirka ta Yamma,
-    Standard: Tsayayyen Lokacin Afirka ta Yamma,
-    Daylight: Lokacin Bazara na Afirka ta Yamma
-  },
-  Africa/Malabo: {
-    Generic: Lokacin Afirka ta Yamma,
-    Standard: Tsayayyen Lokacin Afirka ta Yamma,
-    Daylight: Lokacin Bazara na Afirka ta Yamma
-  },
-  Africa/Niamey: {
-    Generic: Lokacin Afirka ta Yamma,
-    Standard: Tsayayyen Lokacin Afirka ta Yamma,
-    Daylight: Lokacin Bazara na Afirka ta Yamma
-  },
-  Africa/Ndjamena: {
-    Generic: Lokacin Afirka ta Yamma,
-    Standard: Tsayayyen Lokacin Afirka ta Yamma,
-    Daylight: Lokacin Bazara na Afirka ta Yamma
-  },
-  Africa/Tunis: {
-    Generic: Tsakiyar a lokaci turai,
-    Standard: Ida Tsakiyar a Lokaci Turai,
-    Daylight: Tsakiyar bazara a lokaci turai
-  },
-  Etc/GMT-1: {
-    Generic: Hadewa Lokaci na Duniya +1,
-    Standard: Hadewa Lokaci na Duniya +1,
-    Daylight: Hadewa Lokaci na Duniya +1
-  },
-  Europe/Berlin: {
-    Generic: Tsakiyar a lokaci turai,
-    Standard: Ida Tsakiyar a Lokaci Turai,
-    Daylight: Tsakiyar bazara a lokaci turai
-  },
-  Europe/Andorra: {
-    Generic: Tsakiyar a lokaci turai,
-    Standard: Ida Tsakiyar a Lokaci Turai,
-    Daylight: Tsakiyar bazara a lokaci turai
-  },
-  Europe/Vienna: {
-    Generic: Tsakiyar a lokaci turai,
-    Standard: Ida Tsakiyar a Lokaci Turai,
-    Daylight: Tsakiyar bazara a lokaci turai
-  },
-  Europe/Zurich: {
-    Generic: Tsakiyar a lokaci turai,
-    Standard: Ida Tsakiyar a Lokaci Turai,
-    Daylight: Tsakiyar bazara a lokaci turai
-  },
-  Europe/Busingen: {
-    Generic: Tsakiyar a lokaci turai,
-    Standard: Ida Tsakiyar a Lokaci Turai,
-    Daylight: Tsakiyar bazara a lokaci turai
-  },
-  Europe/Gibraltar: {
-    Generic: Tsakiyar a lokaci turai,
-    Standard: Ida Tsakiyar a Lokaci Turai,
-    Daylight: Tsakiyar bazara a lokaci turai
-  },
-  Europe/Rome: {
-    Generic: Tsakiyar a lokaci turai,
-    Standard: Ida Tsakiyar a Lokaci Turai,
-    Daylight: Tsakiyar bazara a lokaci turai
-  },
-  Europe/Vaduz: {
-    Generic: Tsakiyar a lokaci turai,
-    Standard: Ida Tsakiyar a Lokaci Turai,
-    Daylight: Tsakiyar bazara a lokaci turai
-  },
-  Europe/Luxembourg: {
-    Generic: Tsakiyar a lokaci turai,
-    Standard: Ida Tsakiyar a Lokaci Turai,
-    Daylight: Tsakiyar bazara a lokaci turai
-  },
-  Europe/Monaco: {
-    Generic: Tsakiyar a lokaci turai,
-    Standard: Ida Tsakiyar a Lokaci Turai,
-    Daylight: Tsakiyar bazara a lokaci turai
-  },
-  Europe/Malta: {
-    Generic: Tsakiyar a lokaci turai,
-    Standard: Ida Tsakiyar a Lokaci Turai,
-    Daylight: Tsakiyar bazara a lokaci turai
-  },
-  Europe/Amsterdam: {
-    Generic: Tsakiyar a lokaci turai,
-    Standard: Ida Tsakiyar a Lokaci Turai,
-    Daylight: Tsakiyar bazara a lokaci turai
-  },
-  Europe/Oslo: {
-    Generic: Tsakiyar a lokaci turai,
-    Standard: Ida Tsakiyar a Lokaci Turai,
-    Daylight: Tsakiyar bazara a lokaci turai
-  },
-  Europe/Stockholm: {
-    Generic: Tsakiyar a lokaci turai,
-    Standard: Ida Tsakiyar a Lokaci Turai,
-    Daylight: Tsakiyar bazara a lokaci turai
+  Antarctica/Vostok: {
+    Generic: Lokacin Vostok,
+    Standard: Lokacin Vostok,
+    Daylight: Lokacin Vostok
   },
   Arctic/Longyearbyen: {
     Generic: Tsakiyar a lokaci turai,
     Standard: Ida Tsakiyar a Lokaci Turai,
     Daylight: Tsakiyar bazara a lokaci turai
   },
-  Europe/San_Marino: {
-    Generic: Tsakiyar a lokaci turai,
-    Standard: Ida Tsakiyar a Lokaci Turai,
-    Daylight: Tsakiyar bazara a lokaci turai
+  Asia/Aden: {
+    Generic: Lokacin Arebiya,
+    Standard: Arabian Standard Time,
+    Daylight: Lokacin Rana na Arebiya
   },
-  Europe/Vatican: {
-    Generic: Tsakiyar a lokaci turai,
-    Standard: Ida Tsakiyar a Lokaci Turai,
-    Daylight: Tsakiyar bazara a lokaci turai
+  Asia/Almaty: {
+    Generic: Lokacin Gabashin Kazakhstan,
+    Standard: Lokacin Gabashin Kazakhstan,
+    Daylight: Lokacin Gabashin Kazakhstan
   },
-  Asia/Hovd: {
-    Generic: Lokacin Hovd,
-    Standard: Tsayayyen Lokacin Hovd,
-    Daylight: Lokacin Bazara na Hovd
+  Asia/Amman: {
+    Generic: Lokaci a turai gabas,
+    Standard: Ida lokaci a turai gabas,
+    Daylight: Gabas a lokaci turai da bazara
   },
-  Asia/Tashkent: {
-    Generic: Lokacin Uzbekistan,
-    Standard: Tsayayyen Lokacin Uzbekistan,
-    Daylight: Lokacin Bazara na Uzbekistan
-  },
-  Antarctica/Mawson: {
-    Generic: Lokacin Mawson,
-    Standard: Lokacin Mawson,
-    Daylight: Lokacin Mawson
-  },
-  Asia/Oral: {
-    Generic: Lokacin Yammacin Kazakhstan,
-    Standard: Lokacin Yammacin Kazakhstan,
-    Daylight: Lokacin Yammacin Kazakhstan
+  Asia/Anadyr: {
+    Generic: Anadyr Lokaci,
+    Standard: Anadyr Daidaitaccen Lokaci,
+    Daylight: Anadyr Lokacin Rana
   },
   Asia/Aqtau: {
     Generic: Lokacin Yammacin Kazakhstan,
@@ -2199,415 +1199,75 @@
     Standard: Lokacin Yammacin Kazakhstan,
     Daylight: Lokacin Yammacin Kazakhstan
   },
-  Asia/Atyrau: {
-    Generic: Lokacin Yammacin Kazakhstan,
-    Standard: Lokacin Yammacin Kazakhstan,
-    Daylight: Lokacin Yammacin Kazakhstan
-  },
-  Indian/Maldives: {
-    Generic: Lokacin Maldives,
-    Standard: Lokacin Maldives,
-    Daylight: Lokacin Maldives
-  },
-  Indian/Kerguelen: {
-    Generic: Lokacin Kudancin Faransa da Antarctic,
-    Standard: Lokacin Kudancin Faransa da Antarctic,
-    Daylight: Lokacin Kudancin Faransa da Antarctic
-  },
-  Asia/Dushanbe: {
-    Generic: Lokacin Tajikistan,
-    Standard: Lokacin Tajikistan,
-    Daylight: Lokacin Tajikistan
-  },
   Asia/Ashgabat: {
     Generic: Lokacin Turkmenistan,
     Standard: Tsayayyen Lokacin Turkmenistan,
     Daylight: Turkmenistan Summer Time
-  },
-  Asia/Samarkand: {
-    Generic: Lokacin Uzbekistan,
-    Standard: Tsayayyen Lokacin Uzbekistan,
-    Daylight: Lokacin Bazara na Uzbekistan
-  },
-  Etc/GMT-5: {
-    Generic: Hadewa Lokaci na Duniya +5,
-    Standard: Hadewa Lokaci na Duniya +5,
-    Daylight: Hadewa Lokaci na Duniya +5
-  },
-  Asia/Hebron: {
-    Generic: Lokaci a turai gabas,
-    Standard: Ida lokaci a turai gabas,
-    Daylight: Gabas a lokaci turai da bazara
-  },
-  Asia/Gaza: {
-    Generic: Lokaci a turai gabas,
-    Standard: Ida lokaci a turai gabas,
-    Daylight: Gabas a lokaci turai da bazara
-  },
-  Pacific/Port_Moresby: {
-    Generic: Lokacin Papua New Guinea,
-    Standard: Lokacin Papua New Guinea,
-    Daylight: Lokacin Papua New Guinea
-  },
-  Antarctica/DumontDUrville: {
-    Generic: Lokacin Dumont-d’Urville,
-    Standard: Lokacin Dumont-d’Urville,
-    Daylight: Lokacin Dumont-d’Urville
-  },
-  Pacific/Truk: {
-    Generic: Lokacin Chuuk,
-    Standard: Lokacin Chuuk,
-    Daylight: Lokacin Chuuk
-  },
-  Pacific/Guam: {
-    Generic: Tsayayyen Lokacin Chamorro,
-    Standard: Tsayayyen Lokacin Chamorro,
-    Daylight: Tsayayyen Lokacin Chamorro
-  },
-  Pacific/Saipan: {
-    Generic: Tsayayyen Lokacin Chamorro,
-    Standard: Tsayayyen Lokacin Chamorro,
-    Daylight: Tsayayyen Lokacin Chamorro
-  },
-  Etc/GMT-10: {
-    Generic: Hadewa Lokaci na Duniya +10,
-    Standard: Hadewa Lokaci na Duniya +10,
-    Daylight: Hadewa Lokaci na Duniya +10
-  },
-  Asia/Yakutsk: {
-    Generic: Yakutsk Lokaci,
-    Standard: Yakutsk Daidaitaccen Lokaci,
-    Daylight: Yakutsk Lokacin Rana
-  },
-  Asia/Khandyga: {
-    Generic: Khandyga Lokaci,
-    Standard: Khandyga Daidaitaccen Lokaci,
-    Daylight: Khandyga Lokacin Rana
-  },
-  America/Whitehorse: {
-    Generic: Lokacin Yukon,
-    Standard: Lokacin Yukon,
-    Daylight: Lokacin Yukon
-  },
-  America/Dawson: {
-    Generic: Lokacin Yukon,
-    Standard: Lokacin Yukon,
-    Daylight: Lokacin Yukon
-  },
-  Iceland: {
-    Generic: Lokacin Greenwhich a London,
-    Standard: Lokacin Greenwhich a London,
-    Daylight: Lokacin Greenwhich a London
-  },
-  Africa/Timbuktu: {
-    Generic: Lokacin Greenwhich a London,
-    Standard: Lokacin Greenwhich a London,
-    Daylight: Lokacin Greenwhich a London
-  },
-  Egypt: {
-    Generic: Lokaci a turai gabas,
-    Standard: Ida lokaci a turai gabas,
-    Daylight: Gabas a lokaci turai da bazara
-  },
-  Africa/Asmara: {
-    Generic: Lokacin Gabashin Afirka,
-    Standard: Lokacin Gabashin Afirka,
-    Daylight: Lokacin Gabashin Afirka
-  },
-  Libya: {
-    Generic: Lokaci a turai gabas,
-    Standard: Ida lokaci a turai gabas,
-    Daylight: Gabas a lokaci turai da bazara
-  },
-  America/Atka: {
-    Generic: Lokaci na Hawaii-Aleutian,
-    Standard: Tsayayyen Lokacin Hawaii-Aleutian,
-    Daylight: Lokacin Rana na Hawaii-Aleutian
-  },
-  US/Aleutian: {
-    Generic: Lokaci na Hawaii-Aleutian,
-    Standard: Tsayayyen Lokacin Hawaii-Aleutian,
-    Daylight: Lokacin Rana na Hawaii-Aleutian
-  },
-  US/Alaska: {
-    Generic: Lokacin Alaska,
-    Standard: Tsayayyen Lokacin Alaska,
-    Daylight: Lokacin Rana na Alaska
-  },
-  America/Argentina/Buenos_Aires: {
-    Generic: Lokacin Argentina,
-    Standard: Tsayayyen Lokacin Argentina,
-    Daylight: Lokacin Bazara na Argentina
-  },
-  America/Argentina/Catamarca: {
-    Generic: Lokacin Argentina,
-    Standard: Tsayayyen Lokacin Argentina,
-    Daylight: Lokacin Bazara na Argentina
-  },
-  America/Argentina/ComodRivadavia: {
-    Generic: Lokacin Argentina,
-    Standard: Tsayayyen Lokacin Argentina,
-    Daylight: Lokacin Bazara na Argentina
-  },
-  America/Argentina/Cordoba: {
-    Generic: Lokacin Argentina,
-    Standard: Tsayayyen Lokacin Argentina,
-    Daylight: Lokacin Bazara na Argentina
-  },
-  America/Rosario: {
-    Generic: Lokacin Argentina,
-    Standard: Tsayayyen Lokacin Argentina,
-    Daylight: Lokacin Bazara na Argentina
-  },
-  America/Argentina/Jujuy: {
-    Generic: Lokacin Argentina,
-    Standard: Tsayayyen Lokacin Argentina,
-    Daylight: Lokacin Bazara na Argentina
-  },
-  America/Argentina/Mendoza: {
-    Generic: Lokacin Argentina,
-    Standard: Tsayayyen Lokacin Argentina,
-    Daylight: Lokacin Bazara na Argentina
-  },
-  US/Central: {
-    Generic: Lokaci dake Amurika arewa ta tsakiyar,
-    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
-    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
-  },
-  America/Shiprock: {
-    Generic: Lokacin Tsauni na Arewacin Amurka,
-    Standard: Lokaci tsayayye na tsauni a Arewacin Amurica,
-    Daylight: Lokacin Rana na Tsaunin Arewacin Amurka
-  },
-  Navajo: {
-    Generic: Lokacin Tsauni na Arewacin Amurka,
-    Standard: Lokaci tsayayye na tsauni a Arewacin Amurica,
-    Daylight: Lokacin Rana na Tsaunin Arewacin Amurka
-  },
-  US/Mountain: {
-    Generic: Lokacin Tsauni na Arewacin Amurka,
-    Standard: Lokaci tsayayye na tsauni a Arewacin Amurica,
-    Daylight: Lokacin Rana na Tsaunin Arewacin Amurka
-  },
-  US/Michigan: {
-    Generic: Lokacin Gabas dake Arewacin Amurikaa,
-    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
-    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
-  },
-  Canada/Mountain: {
-    Generic: Lokacin Tsauni na Arewacin Amurka,
-    Standard: Lokaci tsayayye na tsauni a Arewacin Amurica,
-    Daylight: Lokacin Rana na Tsaunin Arewacin Amurka
-  },
-  Canada/Atlantic: {
-    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
-  },
-  Cuba: {
-    Generic: Lokaci na Kuba,
-    Standard: Tsayayyen Lokacin Kuba,
-    Daylight: Lokacin Rana na Kuba
-  },
-  America/Indiana/Indianapolis: {
-    Generic: Lokacin Gabas dake Arewacin Amurikaa,
-    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
-    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
-  },
-  US/East-Indiana: {
-    Generic: Lokacin Gabas dake Arewacin Amurikaa,
-    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
-    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
-  },
-  America/Knox_IN: {
-    Generic: Lokaci dake Amurika arewa ta tsakiyar,
-    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
-    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
-  },
-  US/Indiana-Starke: {
-    Generic: Lokaci dake Amurika arewa ta tsakiyar,
-    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
-    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
-  },
-  Jamaica: {
-    Generic: Lokacin Gabas dake Arewacin Amurikaa,
-    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
-    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
-  },
-  America/Kentucky/Louisville: {
-    Generic: Lokacin Gabas dake Arewacin Amurikaa,
-    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
-    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
-  },
-  US/Pacific: {
-    Generic: Lokacin Arewacin Amurika,
-    Standard: Lokaci Tsayayye na Arewacin Amurika,
-    Daylight: Lokacin Rana na Arewacin Amurka
-  },
-  Brazil/West: {
-    Generic: Lokacin Amazon,
-    Standard: Tsayayyen Lokacin Amazon,
-    Daylight: Lokacin Bazara na Amazon
-  },
-  Mexico/BajaSur: {
-    Generic: Lokacin Mekziko Pacific,
-    Standard: Tsayayyen Lokacin Mekziko Pacific,
-    Daylight: Lokacin Rana na Mekziko Pacific
-  },
-  Mexico/General: {
-    Generic: Lokaci dake Amurika arewa ta tsakiyar,
-    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
-    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
-  },
-  US/Eastern: {
-    Generic: Lokacin Gabas dake Arewacin Amurikaa,
-    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
-    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
-  },
-  Brazil/DeNoronha: {
-    Generic: Lokacin Fernando de Noronha,
-    Standard: Tsayayyen Lokacin Fernando de Noronha,
-    Daylight: Lokacin Bazara na Fernando de Noronha
-  },
-  America/Nuuk: {
-    Generic: Lokacin Yammacin Greenland,
-    Standard: Tsayayyen Lokacin Yammacin Greenland,
-    Daylight: Lokacin Rana na Yammacin Greenland
-  },
-  America/Atikokan: {
-    Generic: Lokacin Gabas dake Arewacin Amurikaa,
-    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
-    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
-  },
-  US/Arizona: {
-    Generic: Lokacin Tsauni na Arewacin Amurka,
-    Standard: Lokaci tsayayye na tsauni a Arewacin Amurica,
-    Daylight: Lokacin Rana na Tsaunin Arewacin Amurka
-  },
-  America/Virgin: {
-    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
-    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
-  },
-  Canada/Saskatchewan: {
-    Generic: Lokaci dake Amurika arewa ta tsakiyar,
-    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
-    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
-  },
-  America/Porto_Acre: {
-    Generic: Birazil Lokaci,
-    Standard: Birazil Daidaitaccen Lokaci,
-    Daylight: Birazil Lokacin Rana
-  },
-  Brazil/Acre: {
-    Generic: Birazil Lokaci,
-    Standard: Birazil Daidaitaccen Lokaci,
-    Daylight: Birazil Lokacin Rana
-  },
-  Chile/Continental: {
-    Generic: Lokacin Chile,
-    Standard: Tsayayyen Lokacin Chile,
-    Daylight: Lokacin Bazara na Chile
-  },
-  Brazil/East: {
-    Generic: Lokacin Brasillia,
-    Standard: Tsayayyen Lokacin Brasillia,
-    Daylight: Lokacin Bazara na Brasillia
-  },
-  Canada/Newfoundland: {
-    Generic: Lokacin Newfoundland,
-    Standard: Lokaci Tsayayye ta Newfoundland,
-    Daylight: Lokaci rana ta Newfoundland
-  },
-  America/Ensenada: {
-    Generic: Lokacin Arewacin Amurika,
-    Standard: Lokaci Tsayayye na Arewacin Amurika,
-    Daylight: Lokacin Rana na Arewacin Amurka
-  },
-  Mexico/BajaNorte: {
-    Generic: Lokacin Arewacin Amurika,
-    Standard: Lokaci Tsayayye na Arewacin Amurika,
-    Daylight: Lokacin Rana na Arewacin Amurka
-  },
-  Canada/Eastern: {
-    Generic: Lokacin Gabas dake Arewacin Amurikaa,
-    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
-    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
-  },
-  Canada/Pacific: {
-    Generic: Lokacin Arewacin Amurika,
-    Standard: Lokaci Tsayayye na Arewacin Amurika,
-    Daylight: Lokacin Rana na Arewacin Amurka
-  },
-  Canada/Yukon: {
-    Generic: Lokacin Yukon,
-    Standard: Lokacin Yukon,
-    Daylight: Lokacin Yukon
-  },
-  Canada/Central: {
-    Generic: Lokaci dake Amurika arewa ta tsakiyar,
-    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
-    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
   },
   Asia/Ashkhabad: {
     Generic: Lokacin Turkmenistan,
     Standard: Tsayayyen Lokacin Turkmenistan,
     Daylight: Turkmenistan Summer Time
   },
-  Asia/Dacca: {
-    Generic: Lokacin Bangladesh,
-    Standard: Tsayayyen Lokacin Bangladesh,
-    Daylight: Lokacin Bazara na Bangladesh
+  Asia/Atyrau: {
+    Generic: Lokacin Yammacin Kazakhstan,
+    Standard: Lokacin Yammacin Kazakhstan,
+    Daylight: Lokacin Yammacin Kazakhstan
   },
-  Asia/Ho_Chi_Minh: {
+  Asia/Baghdad: {
+    Generic: Lokacin Arebiya,
+    Standard: Arabian Standard Time,
+    Daylight: Lokacin Rana na Arebiya
+  },
+  Asia/Bahrain: {
+    Generic: Lokacin Arebiya,
+    Standard: Arabian Standard Time,
+    Daylight: Lokacin Rana na Arebiya
+  },
+  Asia/Baku: {
+    Generic: Lokacin Azerbaijan,
+    Standard: Tsayayyen Lokacin Azerbaijan,
+    Daylight: Lokacin Bazara na Azerbaijan
+  },
+  Asia/Bangkok: {
     Generic: Lokacin Indochina,
     Standard: Lokacin Indochina,
     Daylight: Lokacin Indochina
   },
-  Hongkong: {
-    Generic: Lokacin Hong Kong,
-    Standard: Tsayayyen Lokacin Hong Kong,
-    Daylight: Lokacin Bazara na Hong Kong
+  Asia/Barnaul: {
+    Generic: Barnaul Lokaci,
+    Standard: Barnaul Daidaitaccen Lokaci,
+    Daylight: Barnaul Lokacin Rana
   },
-  Asia/Tel_Aviv: {
-    Generic: Lokacin Israʼila,
-    Standard: Israel Standard Time,
-    Daylight: Israel Daylight Time
-  },
-  Israel: {
-    Generic: Lokacin Israʼila,
-    Standard: Israel Standard Time,
-    Daylight: Israel Daylight Time
-  },
-  Asia/Kathmandu: {
-    Generic: Lokacin Nepal,
-    Standard: Lokacin Nepal,
-    Daylight: Lokacin Nepal
-  },
-  Asia/Kolkata: {
-    Generic: India Standard Time,
-    Standard: India Standard Time,
-    Daylight: India Standard Time
-  },
-  Asia/Macao: {
-    Generic: Lokacin Sin,
-    Standard: Tsayayyen Lokacin Sin,
-    Daylight: Lokacin Rana na Sin
-  },
-  Asia/Ujung_Pandang: {
-    Generic: Lokacin Indonesia ta Tsakiya,
-    Standard: Lokacin Indonesia ta Tsakiya,
-    Daylight: Lokacin Indonesia ta Tsakiya
-  },
-  Europe/Nicosia: {
+  Asia/Beirut: {
     Generic: Lokaci a turai gabas,
     Standard: Ida lokaci a turai gabas,
     Daylight: Gabas a lokaci turai da bazara
   },
-  ROK: {
-    Generic: Lokacin Koriya,
-    Standard: Tsayayyen Lokacin Koriya,
-    Daylight: Lokacin Rana na Koriya
+  Asia/Bishkek: {
+    Generic: Lokacin Kazakhstan,
+    Standard: Lokacin Kazakhstan,
+    Daylight: Lokacin Kazakhstan
+  },
+  Asia/Brunei: {
+    Generic: Lokacin Brunei Darussalam,
+    Standard: Lokacin Brunei Darussalam,
+    Daylight: Lokacin Brunei Darussalam
+  },
+  Asia/Calcutta: {
+    Generic: India Standard Time,
+    Standard: India Standard Time,
+    Daylight: India Standard Time
+  },
+  Asia/Chita: {
+    Generic: Chita Lokaci,
+    Standard: Chita Daidaitaccen Lokaci,
+    Daylight: Chita Lokacin Rana
+  },
+  Asia/Choibalsan: {
+    Generic: Lokacin Ulaanbaatar,
+    Standard: Tsayayyen Lokacin Ulaanbaatar,
+    Daylight: Lokacin Bazara na Ulaanbaatar
   },
   Asia/Chongqing: {
     Generic: Lokacin Sin,
@@ -2619,57 +1279,412 @@
     Standard: Tsayayyen Lokacin Sin,
     Daylight: Lokacin Rana na Sin
   },
+  Asia/Colombo: {
+    Generic: India Standard Time,
+    Standard: India Standard Time,
+    Daylight: India Standard Time
+  },
+  Asia/Dacca: {
+    Generic: Lokacin Bangladesh,
+    Standard: Tsayayyen Lokacin Bangladesh,
+    Daylight: Lokacin Bazara na Bangladesh
+  },
+  Asia/Damascus: {
+    Generic: Lokaci a turai gabas,
+    Standard: Ida lokaci a turai gabas,
+    Daylight: Gabas a lokaci turai da bazara
+  },
+  Asia/Dhaka: {
+    Generic: Lokacin Bangladesh,
+    Standard: Tsayayyen Lokacin Bangladesh,
+    Daylight: Lokacin Bazara na Bangladesh
+  },
+  Asia/Dili: {
+    Generic: Lokacin East Timor,
+    Standard: Lokacin East Timor,
+    Daylight: Lokacin East Timor
+  },
+  Asia/Dubai: {
+    Generic: Lokacin Golf,
+    Standard: Lokacin Golf,
+    Daylight: Lokacin Golf
+  },
+  Asia/Dushanbe: {
+    Generic: Lokacin Tajikistan,
+    Standard: Lokacin Tajikistan,
+    Daylight: Lokacin Tajikistan
+  },
+  Asia/Famagusta: {
+    Generic: Lokaci a turai gabas,
+    Standard: Ida lokaci a turai gabas,
+    Daylight: Gabas a lokaci turai da bazara
+  },
+  Asia/Gaza: {
+    Generic: Lokaci a turai gabas,
+    Standard: Ida lokaci a turai gabas,
+    Daylight: Gabas a lokaci turai da bazara
+  },
   Asia/Harbin: {
     Generic: Lokacin Sin,
     Standard: Tsayayyen Lokacin Sin,
     Daylight: Lokacin Rana na Sin
   },
-  PRC: {
-    Generic: Lokacin Sin,
-    Standard: Tsayayyen Lokacin Sin,
-    Daylight: Lokacin Rana na Sin
+  Asia/Hebron: {
+    Generic: Lokaci a turai gabas,
+    Standard: Ida lokaci a turai gabas,
+    Daylight: Gabas a lokaci turai da bazara
   },
-  Singapore: {
-    Generic: Tsayayyen Lokacin Singapore,
-    Standard: Tsayayyen Lokacin Singapore,
-    Daylight: Tsayayyen Lokacin Singapore
+  Asia/Ho_Chi_Minh: {
+    Generic: Lokacin Indochina,
+    Standard: Lokacin Indochina,
+    Daylight: Lokacin Indochina
   },
-  ROC: {
-    Generic: Lokacin Taipei,
-    Standard: Tsayayyen Lokacin Taipei,
-    Daylight: Lokacin Rana na Taipei
+  Asia/Hong_Kong: {
+    Generic: Lokacin Hong Kong,
+    Standard: Tsayayyen Lokacin Hong Kong,
+    Daylight: Lokacin Bazara na Hong Kong
   },
-  Iran: {
-    Generic: Lokacin Iran,
-    Standard: Tsayayyen Lokacin Iran,
-    Daylight: Lokacin Rana na Iran
+  Asia/Hovd: {
+    Generic: Lokacin Hovd,
+    Standard: Tsayayyen Lokacin Hovd,
+    Daylight: Lokacin Bazara na Hovd
   },
-  Asia/Thimbu: {
-    Generic: Bhutan Time,
-    Standard: Bhutan Time,
-    Daylight: Bhutan Time
+  Asia/Irkutsk: {
+    Generic: Irkutsk Lokaci,
+    Standard: Irkutsk Daidaitaccen Lokaci,
+    Daylight: Irkutsk Lokacin Rana
   },
-  Japan: {
-    Generic: Lokacin Japan,
-    Standard: Japan Standard Time,
-    Daylight: Japan Daylight Time
+  Asia/Istanbul: {
+    Generic: Turkiyya Lokaci,
+    Standard: Turkiyya Daidaitaccen Lokaci,
+    Daylight: Turkiyya Lokacin Rana
   },
-  Asia/Ulan_Bator: {
-    Generic: Lokacin Ulaanbaatar,
-    Standard: Tsayayyen Lokacin Ulaanbaatar,
-    Daylight: Lokacin Bazara na Ulaanbaatar
+  Asia/Jakarta: {
+    Generic: Lokacin Yammacin Indonesia,
+    Standard: Lokacin Yammacin Indonesia,
+    Daylight: Lokacin Yammacin Indonesia
+  },
+  Asia/Jayapura: {
+    Generic: Eastern Indonesia Time,
+    Standard: Eastern Indonesia Time,
+    Daylight: Eastern Indonesia Time
+  },
+  Asia/Jerusalem: {
+    Generic: Lokacin Israʼila,
+    Standard: Israel Standard Time,
+    Daylight: Israel Daylight Time
+  },
+  Asia/Kabul: {
+    Generic: Lokacin Afghanistan,
+    Standard: Lokacin Afghanistan,
+    Daylight: Lokacin Afghanistan
+  },
+  Asia/Kamchatka: {
+    Generic: Kamchatka Lokaci,
+    Standard: Kamchatka Daidaitaccen Lokaci,
+    Daylight: Kamchatka Lokacin Rana
+  },
+  Asia/Karachi: {
+    Generic: Lokacin Pakistan,
+    Standard: Tsayayyen Lokacin Pakistan,
+    Daylight: Lokacin Bazara na Pakistan
   },
   Asia/Kashgar: {
     Generic: Sin Lokaci,
     Standard: Sin Daidaitaccen Lokaci,
     Daylight: Sin Lokacin Rana
   },
+  Asia/Kathmandu: {
+    Generic: Lokacin Nepal,
+    Standard: Lokacin Nepal,
+    Daylight: Lokacin Nepal
+  },
+  Asia/Katmandu: {
+    Generic: Lokacin Nepal,
+    Standard: Lokacin Nepal,
+    Daylight: Lokacin Nepal
+  },
+  Asia/Khandyga: {
+    Generic: Khandyga Lokaci,
+    Standard: Khandyga Daidaitaccen Lokaci,
+    Daylight: Khandyga Lokacin Rana
+  },
+  Asia/Kolkata: {
+    Generic: India Standard Time,
+    Standard: India Standard Time,
+    Daylight: India Standard Time
+  },
+  Asia/Krasnoyarsk: {
+    Generic: Krasnoyarsk Lokaci,
+    Standard: Krasnoyarsk Daidaitaccen Lokaci,
+    Daylight: Krasnoyarsk Lokacin Rana
+  },
+  Asia/Kuala_Lumpur: {
+    Generic: Lokacin Malaysia,
+    Standard: Lokacin Malaysia,
+    Daylight: Lokacin Malaysia
+  },
+  Asia/Kuching: {
+    Generic: Lokacin Malaysia,
+    Standard: Lokacin Malaysia,
+    Daylight: Lokacin Malaysia
+  },
+  Asia/Kuwait: {
+    Generic: Lokacin Arebiya,
+    Standard: Arabian Standard Time,
+    Daylight: Lokacin Rana na Arebiya
+  },
+  Asia/Macao: {
+    Generic: Lokacin Sin,
+    Standard: Tsayayyen Lokacin Sin,
+    Daylight: Lokacin Rana na Sin
+  },
+  Asia/Macau: {
+    Generic: Lokacin Sin,
+    Standard: Tsayayyen Lokacin Sin,
+    Daylight: Lokacin Rana na Sin
+  },
+  Asia/Magadan: {
+    Generic: Magadan Lokaci,
+    Standard: Magadan Daidaitaccen Lokaci,
+    Daylight: Magadan Lokacin Rana
+  },
+  Asia/Makassar: {
+    Generic: Lokacin Indonesia ta Tsakiya,
+    Standard: Lokacin Indonesia ta Tsakiya,
+    Daylight: Lokacin Indonesia ta Tsakiya
+  },
+  Asia/Manila: {
+    Generic: Lokacin Philippine,
+    Standard: Tsayayyen Lokacin Philippine,
+    Daylight: Lokacin Bazara na Philippine
+  },
+  Asia/Muscat: {
+    Generic: Lokacin Golf,
+    Standard: Lokacin Golf,
+    Daylight: Lokacin Golf
+  },
+  Asia/Nicosia: {
+    Generic: Lokaci a turai gabas,
+    Standard: Ida lokaci a turai gabas,
+    Daylight: Gabas a lokaci turai da bazara
+  },
+  Asia/Novokuznetsk: {
+    Generic: Novokuznetsk Lokaci,
+    Standard: Novokuznetsk Daidaitaccen Lokaci,
+    Daylight: Novokuznetsk Lokacin Rana
+  },
+  Asia/Novosibirsk: {
+    Generic: Novosibirsk Lokaci,
+    Standard: Novosibirsk Daidaitaccen Lokaci,
+    Daylight: Novosibirsk Lokacin Rana
+  },
+  Asia/Omsk: {
+    Generic: Omsk Lokaci,
+    Standard: Omsk Daidaitaccen Lokaci,
+    Daylight: Omsk Lokacin Rana
+  },
+  Asia/Oral: {
+    Generic: Lokacin Yammacin Kazakhstan,
+    Standard: Lokacin Yammacin Kazakhstan,
+    Daylight: Lokacin Yammacin Kazakhstan
+  },
+  Asia/Phnom_Penh: {
+    Generic: Lokacin Indochina,
+    Standard: Lokacin Indochina,
+    Daylight: Lokacin Indochina
+  },
+  Asia/Pontianak: {
+    Generic: Lokacin Yammacin Indonesia,
+    Standard: Lokacin Yammacin Indonesia,
+    Daylight: Lokacin Yammacin Indonesia
+  },
+  Asia/Pyongyang: {
+    Generic: Lokacin Koriya,
+    Standard: Tsayayyen Lokacin Koriya,
+    Daylight: Lokacin Rana na Koriya
+  },
+  Asia/Qatar: {
+    Generic: Lokacin Arebiya,
+    Standard: Arabian Standard Time,
+    Daylight: Lokacin Rana na Arebiya
+  },
+  Asia/Qostanay: {
+    Generic: Lokacin Gabashin Kazakhstan,
+    Standard: Lokacin Gabashin Kazakhstan,
+    Daylight: Lokacin Gabashin Kazakhstan
+  },
+  Asia/Qyzylorda: {
+    Generic: Lokacin Yammacin Kazakhstan,
+    Standard: Lokacin Yammacin Kazakhstan,
+    Daylight: Lokacin Yammacin Kazakhstan
+  },
+  Asia/Rangoon: {
+    Generic: Lokacin Myanmar,
+    Standard: Lokacin Myanmar,
+    Daylight: Lokacin Myanmar
+  },
+  Asia/Riyadh: {
+    Generic: Lokacin Arebiya,
+    Standard: Arabian Standard Time,
+    Daylight: Lokacin Rana na Arebiya
+  },
+  Asia/Saigon: {
+    Generic: Lokacin Indochina,
+    Standard: Lokacin Indochina,
+    Daylight: Lokacin Indochina
+  },
+  Asia/Sakhalin: {
+    Generic: Sakhalin Lokaci,
+    Standard: Sakhalin Daidaitaccen Lokaci,
+    Daylight: Sakhalin Lokacin Rana
+  },
+  Asia/Samarkand: {
+    Generic: Lokacin Uzbekistan,
+    Standard: Tsayayyen Lokacin Uzbekistan,
+    Daylight: Lokacin Bazara na Uzbekistan
+  },
+  Asia/Seoul: {
+    Generic: Lokacin Koriya,
+    Standard: Tsayayyen Lokacin Koriya,
+    Daylight: Lokacin Rana na Koriya
+  },
+  Asia/Shanghai: {
+    Generic: Lokacin Sin,
+    Standard: Tsayayyen Lokacin Sin,
+    Daylight: Lokacin Rana na Sin
+  },
+  Asia/Singapore: {
+    Generic: Tsayayyen Lokacin Singapore,
+    Standard: Tsayayyen Lokacin Singapore,
+    Daylight: Tsayayyen Lokacin Singapore
+  },
+  Asia/Srednekolymsk: {
+    Generic: Srednekolymsk Lokaci,
+    Standard: Srednekolymsk Daidaitaccen Lokaci,
+    Daylight: Srednekolymsk Lokacin Rana
+  },
+  Asia/Taipei: {
+    Generic: Lokacin Taipei,
+    Standard: Tsayayyen Lokacin Taipei,
+    Daylight: Lokacin Rana na Taipei
+  },
+  Asia/Tashkent: {
+    Generic: Lokacin Uzbekistan,
+    Standard: Tsayayyen Lokacin Uzbekistan,
+    Daylight: Lokacin Bazara na Uzbekistan
+  },
+  Asia/Tbilisi: {
+    Generic: Lokacin Georgia,
+    Standard: Tsayayyen Lokacin Georgia,
+    Daylight: Georgia Summer Time
+  },
+  Asia/Tehran: {
+    Generic: Lokacin Iran,
+    Standard: Tsayayyen Lokacin Iran,
+    Daylight: Lokacin Rana na Iran
+  },
+  Asia/Tel_Aviv: {
+    Generic: Lokacin Israʼila,
+    Standard: Israel Standard Time,
+    Daylight: Israel Daylight Time
+  },
+  Asia/Thimbu: {
+    Generic: Bhutan Time,
+    Standard: Bhutan Time,
+    Daylight: Bhutan Time
+  },
+  Asia/Thimphu: {
+    Generic: Bhutan Time,
+    Standard: Bhutan Time,
+    Daylight: Bhutan Time
+  },
+  Asia/Tokyo: {
+    Generic: Lokacin Japan,
+    Standard: Japan Standard Time,
+    Daylight: Japan Daylight Time
+  },
+  Asia/Tomsk: {
+    Generic: Tomsk Lokaci,
+    Standard: Tomsk Daidaitaccen Lokaci,
+    Daylight: Tomsk Lokacin Rana
+  },
+  Asia/Ujung_Pandang: {
+    Generic: Lokacin Indonesia ta Tsakiya,
+    Standard: Lokacin Indonesia ta Tsakiya,
+    Daylight: Lokacin Indonesia ta Tsakiya
+  },
+  Asia/Ulaanbaatar: {
+    Generic: Lokacin Ulaanbaatar,
+    Standard: Tsayayyen Lokacin Ulaanbaatar,
+    Daylight: Lokacin Bazara na Ulaanbaatar
+  },
+  Asia/Ulan_Bator: {
+    Generic: Lokacin Ulaanbaatar,
+    Standard: Tsayayyen Lokacin Ulaanbaatar,
+    Daylight: Lokacin Bazara na Ulaanbaatar
+  },
+  Asia/Urumqi: {
+    Generic: Sin Lokaci,
+    Standard: Sin Daidaitaccen Lokaci,
+    Daylight: Sin Lokacin Rana
+  },
+  Asia/Ust-Nera: {
+    Generic: Ust-Nera Lokaci,
+    Standard: Ust-Nera Daidaitaccen Lokaci,
+    Daylight: Ust-Nera Lokacin Rana
+  },
+  Asia/Vientiane: {
+    Generic: Lokacin Indochina,
+    Standard: Lokacin Indochina,
+    Daylight: Lokacin Indochina
+  },
+  Asia/Vladivostok: {
+    Generic: Vladivostok Lokaci,
+    Standard: Vladivostok Daidaitaccen Lokaci,
+    Daylight: Vladivostok Lokacin Rana
+  },
+  Asia/Yakutsk: {
+    Generic: Yakutsk Lokaci,
+    Standard: Yakutsk Daidaitaccen Lokaci,
+    Daylight: Yakutsk Lokacin Rana
+  },
   Asia/Yangon: {
     Generic: Lokacin Myanmar,
     Standard: Lokacin Myanmar,
     Daylight: Lokacin Myanmar
   },
-  WET: {
+  Asia/Yekaterinburg: {
+    Generic: Yekaterinburg Lokaci,
+    Standard: Yekaterinburg Daidaitaccen Lokaci,
+    Daylight: Yekaterinburg Lokacin Rana
+  },
+  Asia/Yerevan: {
+    Generic: Lokacin Armenia,
+    Standard: Tsayayyen Lokacin Armenia,
+    Daylight: Lokacin Bazara na Armenia
+  },
+  Atlantic/Azores: {
+    Generic: Lokacin Azores,
+    Standard: Lokacin Azores Daidaitacce,
+    Daylight: Lokacin Azure na Bazara
+  },
+  Atlantic/Bermuda: {
+    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
+  },
+  Atlantic/Canary: {
+    Generic: Lokaci ta yammacin turai,
+    Standard: Ida lokaci ta yammacin turai,
+    Daylight: Ida lokaci ta yammacin turai da bazara
+  },
+  Atlantic/Cape_Verde: {
+    Generic: Lokacin Cape Verde,
+    Standard: Cape Verde Standard Time,
+    Daylight: Lokacin Bazara na Cape Verde
+  },
+  Atlantic/Faeroe: {
     Generic: Lokaci ta yammacin turai,
     Standard: Ida lokaci ta yammacin turai,
     Daylight: Ida lokaci ta yammacin turai da bazara
@@ -2679,27 +1694,77 @@
     Standard: Ida lokaci ta yammacin turai,
     Daylight: Ida lokaci ta yammacin turai da bazara
   },
-  Australia/South: {
-    Generic: Central Australia Time,
-    Standard: Tsayayyen Lokacin Tsakiyar Austiraliya,
-    Daylight: Lokacin Rana na Tsakiyar Austiraliya
+  Atlantic/Jan_Mayen: {
+    Generic: Tsakiyar a lokaci turai,
+    Standard: Ida Tsakiyar a Lokaci Turai,
+    Daylight: Tsakiyar bazara a lokaci turai
   },
-  Australia/Queensland: {
+  Atlantic/Madeira: {
+    Generic: Lokaci ta yammacin turai,
+    Standard: Ida lokaci ta yammacin turai,
+    Daylight: Ida lokaci ta yammacin turai da bazara
+  },
+  Atlantic/Reykjavik: {
+    Generic: Lokacin Greenwhich a London,
+    Standard: Lokacin Greenwhich a London,
+    Daylight: Lokacin Greenwhich a London
+  },
+  Atlantic/South_Georgia: {
+    Generic: Lokacin Kudancin Georgia,
+    Standard: Lokacin Kudancin Georgia,
+    Daylight: Lokacin Kudancin Georgia
+  },
+  Atlantic/St_Helena: {
+    Generic: Lokacin Greenwhich a London,
+    Standard: Lokacin Greenwhich a London,
+    Daylight: Lokacin Greenwhich a London
+  },
+  Atlantic/Stanley: {
+    Generic: Lokacin Falkland Islands,
+    Standard: Tsayayyen Lokacin Falkland Islands,
+    Daylight: Lokacin Bazara na Falkland Islands
+  },
+  Australia/ACT: {
     Generic: Lokacin Gabashin Austiraliya,
     Standard: Australian Eastern Standard Time,
     Daylight: Lokacin Rana na Gabashin Austiraliya
   },
-  Australia/Yancowinna: {
+  Australia/Adelaide: {
     Generic: Central Australia Time,
     Standard: Tsayayyen Lokacin Tsakiyar Austiraliya,
     Daylight: Lokacin Rana na Tsakiyar Austiraliya
   },
-  Australia/North: {
+  Australia/Brisbane: {
+    Generic: Lokacin Gabashin Austiraliya,
+    Standard: Australian Eastern Standard Time,
+    Daylight: Lokacin Rana na Gabashin Austiraliya
+  },
+  Australia/Broken_Hill: {
     Generic: Central Australia Time,
     Standard: Tsayayyen Lokacin Tsakiyar Austiraliya,
     Daylight: Lokacin Rana na Tsakiyar Austiraliya
   },
-  Australia/Tasmania: {
+  Australia/Canberra: {
+    Generic: Lokacin Gabashin Austiraliya,
+    Standard: Australian Eastern Standard Time,
+    Daylight: Lokacin Rana na Gabashin Austiraliya
+  },
+  Australia/Currie: {
+    Generic: Lokacin Gabashin Austiraliya,
+    Standard: Australian Eastern Standard Time,
+    Daylight: Lokacin Rana na Gabashin Austiraliya
+  },
+  Australia/Darwin: {
+    Generic: Central Australia Time,
+    Standard: Tsayayyen Lokacin Tsakiyar Austiraliya,
+    Daylight: Lokacin Rana na Tsakiyar Austiraliya
+  },
+  Australia/Eucla: {
+    Generic: Lokacin Yammacin Tsakiyar Austiraliya,
+    Standard: Tsayayyen Lokacin Yammacin Tsakiyar Austiraliya,
+    Daylight: Lokacin Rana na Yammacin Tsakiyar Austiraliya
+  },
+  Australia/Hobart: {
     Generic: Lokacin Gabashin Austiraliya,
     Standard: Australian Eastern Standard Time,
     Daylight: Lokacin Rana na Gabashin Austiraliya
@@ -2708,6 +1773,56 @@
     Generic: Lokacin Lord Howe,
     Standard: Tsayayyen Lokacin Lord Howe,
     Daylight: Lokacin Rana na Vote Lord Howe
+  },
+  Australia/Lindeman: {
+    Generic: Lokacin Gabashin Austiraliya,
+    Standard: Australian Eastern Standard Time,
+    Daylight: Lokacin Rana na Gabashin Austiraliya
+  },
+  Australia/Lord_Howe: {
+    Generic: Lokacin Lord Howe,
+    Standard: Tsayayyen Lokacin Lord Howe,
+    Daylight: Lokacin Rana na Vote Lord Howe
+  },
+  Australia/Melbourne: {
+    Generic: Lokacin Gabashin Austiraliya,
+    Standard: Australian Eastern Standard Time,
+    Daylight: Lokacin Rana na Gabashin Austiraliya
+  },
+  Australia/NSW: {
+    Generic: Lokacin Gabashin Austiraliya,
+    Standard: Australian Eastern Standard Time,
+    Daylight: Lokacin Rana na Gabashin Austiraliya
+  },
+  Australia/North: {
+    Generic: Central Australia Time,
+    Standard: Tsayayyen Lokacin Tsakiyar Austiraliya,
+    Daylight: Lokacin Rana na Tsakiyar Austiraliya
+  },
+  Australia/Perth: {
+    Generic: Lokacin Yammacin Austiralia,
+    Standard: Tsayayyen Lokacin Yammacin Austiralia,
+    Daylight: Lokacin Rana na Yammacin Austiralia
+  },
+  Australia/Queensland: {
+    Generic: Lokacin Gabashin Austiraliya,
+    Standard: Australian Eastern Standard Time,
+    Daylight: Lokacin Rana na Gabashin Austiraliya
+  },
+  Australia/South: {
+    Generic: Central Australia Time,
+    Standard: Tsayayyen Lokacin Tsakiyar Austiraliya,
+    Daylight: Lokacin Rana na Tsakiyar Austiraliya
+  },
+  Australia/Sydney: {
+    Generic: Lokacin Gabashin Austiraliya,
+    Standard: Australian Eastern Standard Time,
+    Daylight: Lokacin Rana na Gabashin Austiraliya
+  },
+  Australia/Tasmania: {
+    Generic: Lokacin Gabashin Austiraliya,
+    Standard: Australian Eastern Standard Time,
+    Daylight: Lokacin Rana na Gabashin Austiraliya
   },
   Australia/Victoria: {
     Generic: Lokacin Gabashin Austiraliya,
@@ -2719,45 +1834,265 @@
     Standard: Tsayayyen Lokacin Yammacin Austiralia,
     Daylight: Lokacin Rana na Yammacin Austiralia
   },
-  Australia/ACT: {
-    Generic: Lokacin Gabashin Austiraliya,
-    Standard: Australian Eastern Standard Time,
-    Daylight: Lokacin Rana na Gabashin Austiraliya
+  Australia/Yancowinna: {
+    Generic: Central Australia Time,
+    Standard: Tsayayyen Lokacin Tsakiyar Austiraliya,
+    Daylight: Lokacin Rana na Tsakiyar Austiraliya
   },
-  Australia/Canberra: {
-    Generic: Lokacin Gabashin Austiraliya,
-    Standard: Australian Eastern Standard Time,
-    Daylight: Lokacin Rana na Gabashin Austiraliya
+  Brazil/Acre: {
+    Generic: Birazil Lokaci,
+    Standard: Birazil Daidaitaccen Lokaci,
+    Daylight: Birazil Lokacin Rana
   },
-  Australia/NSW: {
-    Generic: Lokacin Gabashin Austiraliya,
-    Standard: Australian Eastern Standard Time,
-    Daylight: Lokacin Rana na Gabashin Austiraliya
+  Brazil/DeNoronha: {
+    Generic: Lokacin Fernando de Noronha,
+    Standard: Tsayayyen Lokacin Fernando de Noronha,
+    Daylight: Lokacin Bazara na Fernando de Noronha
   },
-  HST: {
-    Generic: Hadewa Lokaci na Duniya -10,
-    Standard: Hadewa Lokaci na Duniya -10,
-    Daylight: Hadewa Lokaci na Duniya -10
+  Brazil/East: {
+    Generic: Lokacin Brasillia,
+    Standard: Tsayayyen Lokacin Brasillia,
+    Daylight: Lokacin Bazara na Brasillia
+  },
+  Brazil/West: {
+    Generic: Lokacin Amazon,
+    Standard: Tsayayyen Lokacin Amazon,
+    Daylight: Lokacin Bazara na Amazon
+  },
+  CET: {
+    Generic: Tsakiyar a lokaci turai,
+    Standard: Ida Tsakiyar a Lokaci Turai,
+    Daylight: Tsakiyar bazara a lokaci turai
+  },
+  CST6CDT: {
+    Generic: Lokaci dake Amurika arewa ta tsakiyar,
+    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
+    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
+  },
+  Canada/Atlantic: {
+    Generic: Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Standard: Tsayayyen Lokacin Kanada, Puerto Rico da Virgin Islands,
+    Daylight: Lokacin Rana na Kanada, Puerto Rico da Virgin Islands
+  },
+  Canada/Central: {
+    Generic: Lokaci dake Amurika arewa ta tsakiyar,
+    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
+    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
+  },
+  Canada/Eastern: {
+    Generic: Lokacin Gabas dake Arewacin Amurikaa,
+    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
+    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
+  },
+  Canada/Mountain: {
+    Generic: Lokacin Tsauni na Arewacin Amurka,
+    Standard: Lokaci tsayayye na tsauni a Arewacin Amurica,
+    Daylight: Lokacin Rana na Tsaunin Arewacin Amurka
+  },
+  Canada/Newfoundland: {
+    Generic: Lokacin Newfoundland,
+    Standard: Lokaci Tsayayye ta Newfoundland,
+    Daylight: Lokaci rana ta Newfoundland
+  },
+  Canada/Pacific: {
+    Generic: Lokacin Arewacin Amurika,
+    Standard: Lokaci Tsayayye na Arewacin Amurika,
+    Daylight: Lokacin Rana na Arewacin Amurka
+  },
+  Canada/Saskatchewan: {
+    Generic: Lokaci dake Amurika arewa ta tsakiyar,
+    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
+    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
+  },
+  Canada/Yukon: {
+    Generic: Lokacin Yukon,
+    Standard: Lokacin Yukon,
+    Daylight: Lokacin Yukon
+  },
+  Chile/Continental: {
+    Generic: Lokacin Chile,
+    Standard: Tsayayyen Lokacin Chile,
+    Daylight: Lokacin Bazara na Chile
+  },
+  Chile/EasterIsland: {
+    Generic: Lokacin Easter Island,
+    Standard: Tsayayyen Lokacin Easter Island,
+    Daylight: Lokacin Bazara na Easter Island
+  },
+  Cuba: {
+    Generic: Lokaci na Kuba,
+    Standard: Tsayayyen Lokacin Kuba,
+    Daylight: Lokacin Rana na Kuba
+  },
+  EET: {
+    Generic: Lokaci a turai gabas,
+    Standard: Ida lokaci a turai gabas,
+    Daylight: Gabas a lokaci turai da bazara
   },
   EST: {
     Generic: Hadewa Lokaci na Duniya -5,
     Standard: Hadewa Lokaci na Duniya -5,
     Daylight: Hadewa Lokaci na Duniya -5
   },
-  MST: {
-    Generic: Hadewa Lokaci na Duniya -7,
-    Standard: Hadewa Lokaci na Duniya -7,
-    Daylight: Hadewa Lokaci na Duniya -7
+  EST5EDT: {
+    Generic: Lokacin Gabas dake Arewacin Amurikaa,
+    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
+    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
+  },
+  Egypt: {
+    Generic: Lokaci a turai gabas,
+    Standard: Ida lokaci a turai gabas,
+    Daylight: Gabas a lokaci turai da bazara
+  },
+  Eire: {
+    Generic: Ayalan Lokaci,
+    Standard: Lokacin Greenwhich a London,
+    Daylight: Tsayayyen Lokacin Irish
+  },
+  Etc/GMT: {
+    Generic: Lokacin Greenwhich a London,
+    Standard: Lokacin Greenwhich a London,
+    Daylight: Lokacin Greenwhich a London
   },
   Etc/GMT+0: {
     Generic: Lokacin Greenwhich a London,
     Standard: Lokacin Greenwhich a London,
     Daylight: Lokacin Greenwhich a London
   },
+  Etc/GMT+1: {
+    Generic: Hadewa Lokaci na Duniya -1,
+    Standard: Hadewa Lokaci na Duniya -1,
+    Daylight: Hadewa Lokaci na Duniya -1
+  },
+  Etc/GMT+10: {
+    Generic: Hadewa Lokaci na Duniya -10,
+    Standard: Hadewa Lokaci na Duniya -10,
+    Daylight: Hadewa Lokaci na Duniya -10
+  },
+  Etc/GMT+11: {
+    Generic: Hadewa Lokaci na Duniya -11,
+    Standard: Hadewa Lokaci na Duniya -11,
+    Daylight: Hadewa Lokaci na Duniya -11
+  },
+  Etc/GMT+12: {
+    Generic: Hadewa Lokaci na Duniya -12,
+    Standard: Hadewa Lokaci na Duniya -12,
+    Daylight: Hadewa Lokaci na Duniya -12
+  },
+  Etc/GMT+2: {
+    Generic: Hadewa Lokaci na Duniya -2,
+    Standard: Hadewa Lokaci na Duniya -2,
+    Daylight: Hadewa Lokaci na Duniya -2
+  },
+  Etc/GMT+3: {
+    Generic: Hadewa Lokaci na Duniya -3,
+    Standard: Hadewa Lokaci na Duniya -3,
+    Daylight: Hadewa Lokaci na Duniya -3
+  },
+  Etc/GMT+4: {
+    Generic: Hadewa Lokaci na Duniya -4,
+    Standard: Hadewa Lokaci na Duniya -4,
+    Daylight: Hadewa Lokaci na Duniya -4
+  },
+  Etc/GMT+5: {
+    Generic: Hadewa Lokaci na Duniya -5,
+    Standard: Hadewa Lokaci na Duniya -5,
+    Daylight: Hadewa Lokaci na Duniya -5
+  },
+  Etc/GMT+6: {
+    Generic: Hadewa Lokaci na Duniya -6,
+    Standard: Hadewa Lokaci na Duniya -6,
+    Daylight: Hadewa Lokaci na Duniya -6
+  },
+  Etc/GMT+7: {
+    Generic: Hadewa Lokaci na Duniya -7,
+    Standard: Hadewa Lokaci na Duniya -7,
+    Daylight: Hadewa Lokaci na Duniya -7
+  },
+  Etc/GMT+8: {
+    Generic: Hadewa Lokaci na Duniya -8,
+    Standard: Hadewa Lokaci na Duniya -8,
+    Daylight: Hadewa Lokaci na Duniya -8
+  },
+  Etc/GMT+9: {
+    Generic: Hadewa Lokaci na Duniya -9,
+    Standard: Hadewa Lokaci na Duniya -9,
+    Daylight: Hadewa Lokaci na Duniya -9
+  },
   Etc/GMT-0: {
     Generic: Lokacin Greenwhich a London,
     Standard: Lokacin Greenwhich a London,
     Daylight: Lokacin Greenwhich a London
+  },
+  Etc/GMT-1: {
+    Generic: Hadewa Lokaci na Duniya +1,
+    Standard: Hadewa Lokaci na Duniya +1,
+    Daylight: Hadewa Lokaci na Duniya +1
+  },
+  Etc/GMT-10: {
+    Generic: Hadewa Lokaci na Duniya +10,
+    Standard: Hadewa Lokaci na Duniya +10,
+    Daylight: Hadewa Lokaci na Duniya +10
+  },
+  Etc/GMT-11: {
+    Generic: Hadewa Lokaci na Duniya +11,
+    Standard: Hadewa Lokaci na Duniya +11,
+    Daylight: Hadewa Lokaci na Duniya +11
+  },
+  Etc/GMT-12: {
+    Generic: Hadewa Lokaci na Duniya +12,
+    Standard: Hadewa Lokaci na Duniya +12,
+    Daylight: Hadewa Lokaci na Duniya +12
+  },
+  Etc/GMT-13: {
+    Generic: Hadewa Lokaci na Duniya +13,
+    Standard: Hadewa Lokaci na Duniya +13,
+    Daylight: Hadewa Lokaci na Duniya +13
+  },
+  Etc/GMT-14: {
+    Generic: Hadewa Lokaci na Duniya +14,
+    Standard: Hadewa Lokaci na Duniya +14,
+    Daylight: Hadewa Lokaci na Duniya +14
+  },
+  Etc/GMT-2: {
+    Generic: Hadewa Lokaci na Duniya +2,
+    Standard: Hadewa Lokaci na Duniya +2,
+    Daylight: Hadewa Lokaci na Duniya +2
+  },
+  Etc/GMT-3: {
+    Generic: Hadewa Lokaci na Duniya +3,
+    Standard: Hadewa Lokaci na Duniya +3,
+    Daylight: Hadewa Lokaci na Duniya +3
+  },
+  Etc/GMT-4: {
+    Generic: Hadewa Lokaci na Duniya +4,
+    Standard: Hadewa Lokaci na Duniya +4,
+    Daylight: Hadewa Lokaci na Duniya +4
+  },
+  Etc/GMT-5: {
+    Generic: Hadewa Lokaci na Duniya +5,
+    Standard: Hadewa Lokaci na Duniya +5,
+    Daylight: Hadewa Lokaci na Duniya +5
+  },
+  Etc/GMT-6: {
+    Generic: Hadewa Lokaci na Duniya +6,
+    Standard: Hadewa Lokaci na Duniya +6,
+    Daylight: Hadewa Lokaci na Duniya +6
+  },
+  Etc/GMT-7: {
+    Generic: Hadewa Lokaci na Duniya +7,
+    Standard: Hadewa Lokaci na Duniya +7,
+    Daylight: Hadewa Lokaci na Duniya +7
+  },
+  Etc/GMT-8: {
+    Generic: Hadewa Lokaci na Duniya +8,
+    Standard: Hadewa Lokaci na Duniya +8,
+    Daylight: Hadewa Lokaci na Duniya +8
+  },
+  Etc/GMT-9: {
+    Generic: Hadewa Lokaci na Duniya +9,
+    Standard: Hadewa Lokaci na Duniya +9,
+    Daylight: Hadewa Lokaci na Duniya +9
   },
   Etc/GMT0: {
     Generic: Lokacin Greenwhich a London,
@@ -2768,6 +2103,356 @@
     Generic: Lokacin Greenwhich a London,
     Standard: Lokacin Greenwhich a London,
     Daylight: Lokacin Greenwhich a London
+  },
+  Etc/UCT: {
+    Generic: Hadewa Lokaci na Duniya,
+    Standard: Hadewa Lokaci na Duniya,
+    Daylight: Hadewa Lokaci na Duniya
+  },
+  Etc/UTC: {
+    Generic: Hadewa Lokaci na Duniya,
+    Standard: Hadewa Lokaci na Duniya,
+    Daylight: Hadewa Lokaci na Duniya
+  },
+  Etc/Universal: {
+    Generic: Hadewa Lokaci na Duniya,
+    Standard: Hadewa Lokaci na Duniya,
+    Daylight: Hadewa Lokaci na Duniya
+  },
+  Etc/Zulu: {
+    Generic: Hadewa Lokaci na Duniya,
+    Standard: Hadewa Lokaci na Duniya,
+    Daylight: Hadewa Lokaci na Duniya
+  },
+  Europe/Amsterdam: {
+    Generic: Tsakiyar a lokaci turai,
+    Standard: Ida Tsakiyar a Lokaci Turai,
+    Daylight: Tsakiyar bazara a lokaci turai
+  },
+  Europe/Andorra: {
+    Generic: Tsakiyar a lokaci turai,
+    Standard: Ida Tsakiyar a Lokaci Turai,
+    Daylight: Tsakiyar bazara a lokaci turai
+  },
+  Europe/Astrakhan: {
+    Generic: Astrakhan Lokaci,
+    Standard: Astrakhan Daidaitaccen Lokaci,
+    Daylight: Astrakhan Lokacin Rana
+  },
+  Europe/Athens: {
+    Generic: Lokaci a turai gabas,
+    Standard: Ida lokaci a turai gabas,
+    Daylight: Gabas a lokaci turai da bazara
+  },
+  Europe/Belfast: {
+    Generic: Biritaniya Lokaci,
+    Standard: Lokacin Greenwhich a London,
+    Daylight: Lokacin Bazara na Birtaniya
+  },
+  Europe/Belgrade: {
+    Generic: Tsakiyar a lokaci turai,
+    Standard: Ida Tsakiyar a Lokaci Turai,
+    Daylight: Tsakiyar bazara a lokaci turai
+  },
+  Europe/Berlin: {
+    Generic: Tsakiyar a lokaci turai,
+    Standard: Ida Tsakiyar a Lokaci Turai,
+    Daylight: Tsakiyar bazara a lokaci turai
+  },
+  Europe/Bratislava: {
+    Generic: Tsakiyar a lokaci turai,
+    Standard: Ida Tsakiyar a Lokaci Turai,
+    Daylight: Tsakiyar bazara a lokaci turai
+  },
+  Europe/Brussels: {
+    Generic: Tsakiyar a lokaci turai,
+    Standard: Ida Tsakiyar a Lokaci Turai,
+    Daylight: Tsakiyar bazara a lokaci turai
+  },
+  Europe/Bucharest: {
+    Generic: Lokaci a turai gabas,
+    Standard: Ida lokaci a turai gabas,
+    Daylight: Gabas a lokaci turai da bazara
+  },
+  Europe/Budapest: {
+    Generic: Tsakiyar a lokaci turai,
+    Standard: Ida Tsakiyar a Lokaci Turai,
+    Daylight: Tsakiyar bazara a lokaci turai
+  },
+  Europe/Busingen: {
+    Generic: Tsakiyar a lokaci turai,
+    Standard: Ida Tsakiyar a Lokaci Turai,
+    Daylight: Tsakiyar bazara a lokaci turai
+  },
+  Europe/Chisinau: {
+    Generic: Lokaci a turai gabas,
+    Standard: Ida lokaci a turai gabas,
+    Daylight: Gabas a lokaci turai da bazara
+  },
+  Europe/Copenhagen: {
+    Generic: Tsakiyar a lokaci turai,
+    Standard: Ida Tsakiyar a Lokaci Turai,
+    Daylight: Tsakiyar bazara a lokaci turai
+  },
+  Europe/Dublin: {
+    Generic: Ayalan Lokaci,
+    Standard: Lokacin Greenwhich a London,
+    Daylight: Tsayayyen Lokacin Irish
+  },
+  Europe/Gibraltar: {
+    Generic: Tsakiyar a lokaci turai,
+    Standard: Ida Tsakiyar a Lokaci Turai,
+    Daylight: Tsakiyar bazara a lokaci turai
+  },
+  Europe/Guernsey: {
+    Generic: Lokacin Greenwhich a London,
+    Standard: Lokacin Greenwhich a London,
+    Daylight: Lokacin Greenwhich a London
+  },
+  Europe/Helsinki: {
+    Generic: Lokaci a turai gabas,
+    Standard: Ida lokaci a turai gabas,
+    Daylight: Gabas a lokaci turai da bazara
+  },
+  Europe/Isle_of_Man: {
+    Generic: Lokacin Greenwhich a London,
+    Standard: Lokacin Greenwhich a London,
+    Daylight: Lokacin Greenwhich a London
+  },
+  Europe/Istanbul: {
+    Generic: Turkiyya Lokaci,
+    Standard: Turkiyya Daidaitaccen Lokaci,
+    Daylight: Turkiyya Lokacin Rana
+  },
+  Europe/Jersey: {
+    Generic: Lokacin Greenwhich a London,
+    Standard: Lokacin Greenwhich a London,
+    Daylight: Lokacin Greenwhich a London
+  },
+  Europe/Kaliningrad: {
+    Generic: Kaliningrad Lokaci,
+    Standard: Kaliningrad Daidaitaccen Lokaci,
+    Daylight: Kaliningrad Lokacin Rana
+  },
+  Europe/Kiev: {
+    Generic: Lokaci a turai gabas,
+    Standard: Ida lokaci a turai gabas,
+    Daylight: Gabas a lokaci turai da bazara
+  },
+  Europe/Kirov: {
+    Generic: Kirov Lokaci,
+    Standard: Kirov Daidaitaccen Lokaci,
+    Daylight: Kirov Lokacin Rana
+  },
+  Europe/Kyiv: {
+    Generic: Lokaci a turai gabas,
+    Standard: Ida lokaci a turai gabas,
+    Daylight: Gabas a lokaci turai da bazara
+  },
+  Europe/Lisbon: {
+    Generic: Lokaci ta yammacin turai,
+    Standard: Ida lokaci ta yammacin turai,
+    Daylight: Ida lokaci ta yammacin turai da bazara
+  },
+  Europe/Ljubljana: {
+    Generic: Tsakiyar a lokaci turai,
+    Standard: Ida Tsakiyar a Lokaci Turai,
+    Daylight: Tsakiyar bazara a lokaci turai
+  },
+  Europe/London: {
+    Generic: Biritaniya Lokaci,
+    Standard: Lokacin Greenwhich a London,
+    Daylight: Lokacin Bazara na Birtaniya
+  },
+  Europe/Luxembourg: {
+    Generic: Tsakiyar a lokaci turai,
+    Standard: Ida Tsakiyar a Lokaci Turai,
+    Daylight: Tsakiyar bazara a lokaci turai
+  },
+  Europe/Madrid: {
+    Generic: Tsakiyar a lokaci turai,
+    Standard: Ida Tsakiyar a Lokaci Turai,
+    Daylight: Tsakiyar bazara a lokaci turai
+  },
+  Europe/Malta: {
+    Generic: Tsakiyar a lokaci turai,
+    Standard: Ida Tsakiyar a Lokaci Turai,
+    Daylight: Tsakiyar bazara a lokaci turai
+  },
+  Europe/Mariehamn: {
+    Generic: Lokaci a turai gabas,
+    Standard: Ida lokaci a turai gabas,
+    Daylight: Gabas a lokaci turai da bazara
+  },
+  Europe/Minsk: {
+    Generic: Lokacin Moscow,
+    Standard: Tsayayyen Lokacin Moscow,
+    Daylight: Lokacin Bazara na Moscow
+  },
+  Europe/Monaco: {
+    Generic: Tsakiyar a lokaci turai,
+    Standard: Ida Tsakiyar a Lokaci Turai,
+    Daylight: Tsakiyar bazara a lokaci turai
+  },
+  Europe/Moscow: {
+    Generic: Moscow Lokaci,
+    Standard: Moscow Daidaitaccen Lokaci,
+    Daylight: Moscow Lokacin Rana
+  },
+  Europe/Nicosia: {
+    Generic: Lokaci a turai gabas,
+    Standard: Ida lokaci a turai gabas,
+    Daylight: Gabas a lokaci turai da bazara
+  },
+  Europe/Oslo: {
+    Generic: Tsakiyar a lokaci turai,
+    Standard: Ida Tsakiyar a Lokaci Turai,
+    Daylight: Tsakiyar bazara a lokaci turai
+  },
+  Europe/Paris: {
+    Generic: Tsakiyar a lokaci turai,
+    Standard: Ida Tsakiyar a Lokaci Turai,
+    Daylight: Tsakiyar bazara a lokaci turai
+  },
+  Europe/Podgorica: {
+    Generic: Tsakiyar a lokaci turai,
+    Standard: Ida Tsakiyar a Lokaci Turai,
+    Daylight: Tsakiyar bazara a lokaci turai
+  },
+  Europe/Prague: {
+    Generic: Tsakiyar a lokaci turai,
+    Standard: Ida Tsakiyar a Lokaci Turai,
+    Daylight: Tsakiyar bazara a lokaci turai
+  },
+  Europe/Riga: {
+    Generic: Lokaci a turai gabas,
+    Standard: Ida lokaci a turai gabas,
+    Daylight: Gabas a lokaci turai da bazara
+  },
+  Europe/Rome: {
+    Generic: Tsakiyar a lokaci turai,
+    Standard: Ida Tsakiyar a Lokaci Turai,
+    Daylight: Tsakiyar bazara a lokaci turai
+  },
+  Europe/Samara: {
+    Generic: Samara Lokaci,
+    Standard: Samara Daidaitaccen Lokaci,
+    Daylight: Samara Lokacin Rana
+  },
+  Europe/San_Marino: {
+    Generic: Tsakiyar a lokaci turai,
+    Standard: Ida Tsakiyar a Lokaci Turai,
+    Daylight: Tsakiyar bazara a lokaci turai
+  },
+  Europe/Sarajevo: {
+    Generic: Tsakiyar a lokaci turai,
+    Standard: Ida Tsakiyar a Lokaci Turai,
+    Daylight: Tsakiyar bazara a lokaci turai
+  },
+  Europe/Saratov: {
+    Generic: Saratov Lokaci,
+    Standard: Saratov Daidaitaccen Lokaci,
+    Daylight: Saratov Lokacin Rana
+  },
+  Europe/Simferopol: {
+    Generic: Lokacin Moscow,
+    Standard: Tsayayyen Lokacin Moscow,
+    Daylight: Lokacin Bazara na Moscow
+  },
+  Europe/Skopje: {
+    Generic: Tsakiyar a lokaci turai,
+    Standard: Ida Tsakiyar a Lokaci Turai,
+    Daylight: Tsakiyar bazara a lokaci turai
+  },
+  Europe/Sofia: {
+    Generic: Lokaci a turai gabas,
+    Standard: Ida lokaci a turai gabas,
+    Daylight: Gabas a lokaci turai da bazara
+  },
+  Europe/Stockholm: {
+    Generic: Tsakiyar a lokaci turai,
+    Standard: Ida Tsakiyar a Lokaci Turai,
+    Daylight: Tsakiyar bazara a lokaci turai
+  },
+  Europe/Tallinn: {
+    Generic: Lokaci a turai gabas,
+    Standard: Ida lokaci a turai gabas,
+    Daylight: Gabas a lokaci turai da bazara
+  },
+  Europe/Tirane: {
+    Generic: Tsakiyar a lokaci turai,
+    Standard: Ida Tsakiyar a Lokaci Turai,
+    Daylight: Tsakiyar bazara a lokaci turai
+  },
+  Europe/Tiraspol: {
+    Generic: Lokaci a turai gabas,
+    Standard: Ida lokaci a turai gabas,
+    Daylight: Gabas a lokaci turai da bazara
+  },
+  Europe/Ulyanovsk: {
+    Generic: Ulyanovsk Lokaci,
+    Standard: Ulyanovsk Daidaitaccen Lokaci,
+    Daylight: Ulyanovsk Lokacin Rana
+  },
+  Europe/Uzhgorod: {
+    Generic: Lokaci a turai gabas,
+    Standard: Ida lokaci a turai gabas,
+    Daylight: Gabas a lokaci turai da bazara
+  },
+  Europe/Vaduz: {
+    Generic: Tsakiyar a lokaci turai,
+    Standard: Ida Tsakiyar a Lokaci Turai,
+    Daylight: Tsakiyar bazara a lokaci turai
+  },
+  Europe/Vatican: {
+    Generic: Tsakiyar a lokaci turai,
+    Standard: Ida Tsakiyar a Lokaci Turai,
+    Daylight: Tsakiyar bazara a lokaci turai
+  },
+  Europe/Vienna: {
+    Generic: Tsakiyar a lokaci turai,
+    Standard: Ida Tsakiyar a Lokaci Turai,
+    Daylight: Tsakiyar bazara a lokaci turai
+  },
+  Europe/Vilnius: {
+    Generic: Lokaci a turai gabas,
+    Standard: Ida lokaci a turai gabas,
+    Daylight: Gabas a lokaci turai da bazara
+  },
+  Europe/Volgograd: {
+    Generic: Volgograd Lokaci,
+    Standard: Volgograd Daidaitaccen Lokaci,
+    Daylight: Volgograd Lokacin Rana
+  },
+  Europe/Warsaw: {
+    Generic: Tsakiyar a lokaci turai,
+    Standard: Ida Tsakiyar a Lokaci Turai,
+    Daylight: Tsakiyar bazara a lokaci turai
+  },
+  Europe/Zagreb: {
+    Generic: Tsakiyar a lokaci turai,
+    Standard: Ida Tsakiyar a Lokaci Turai,
+    Daylight: Tsakiyar bazara a lokaci turai
+  },
+  Europe/Zaporozhye: {
+    Generic: Lokaci a turai gabas,
+    Standard: Ida lokaci a turai gabas,
+    Daylight: Gabas a lokaci turai da bazara
+  },
+  Europe/Zurich: {
+    Generic: Tsakiyar a lokaci turai,
+    Standard: Ida Tsakiyar a Lokaci Turai,
+    Daylight: Tsakiyar bazara a lokaci turai
+  },
+  GB: {
+    Generic: Biritaniya Lokaci,
+    Standard: Lokacin Greenwhich a London,
+    Daylight: Lokacin Bazara na Birtaniya
+  },
+  GB-Eire: {
+    Generic: Biritaniya Lokaci,
+    Standard: Lokacin Greenwhich a London,
+    Daylight: Lokacin Bazara na Birtaniya
   },
   GMT: {
     Generic: Lokacin Greenwhich a London,
@@ -2794,120 +2479,135 @@
     Standard: Lokacin Greenwhich a London,
     Daylight: Lokacin Greenwhich a London
   },
-  Etc/UCT: {
-    Generic: Hadewa Lokaci na Duniya,
-    Standard: Hadewa Lokaci na Duniya,
-    Daylight: Hadewa Lokaci na Duniya
+  HST: {
+    Generic: Hadewa Lokaci na Duniya -10,
+    Standard: Hadewa Lokaci na Duniya -10,
+    Daylight: Hadewa Lokaci na Duniya -10
   },
-  Etc/Universal: {
-    Generic: Hadewa Lokaci na Duniya,
-    Standard: Hadewa Lokaci na Duniya,
-    Daylight: Hadewa Lokaci na Duniya
+  Hongkong: {
+    Generic: Lokacin Hong Kong,
+    Standard: Tsayayyen Lokacin Hong Kong,
+    Daylight: Lokacin Bazara na Hong Kong
   },
-  Etc/Zulu: {
-    Generic: Hadewa Lokaci na Duniya,
-    Standard: Hadewa Lokaci na Duniya,
-    Daylight: Hadewa Lokaci na Duniya
+  Iceland: {
+    Generic: Lokacin Greenwhich a London,
+    Standard: Lokacin Greenwhich a London,
+    Daylight: Lokacin Greenwhich a London
   },
-  UCT: {
-    Generic: Hadewa Lokaci na Duniya,
-    Standard: Hadewa Lokaci na Duniya,
-    Daylight: Hadewa Lokaci na Duniya
+  Indian/Antananarivo: {
+    Generic: Lokacin Gabashin Afirka,
+    Standard: Lokacin Gabashin Afirka,
+    Daylight: Lokacin Gabashin Afirka
   },
-  UTC: {
-    Generic: Hadewa Lokaci na Duniya,
-    Standard: Hadewa Lokaci na Duniya,
-    Daylight: Hadewa Lokaci na Duniya
+  Indian/Chagos: {
+    Generic: Lokacin Tekun Indiya,
+    Standard: Lokacin Tekun Indiya,
+    Daylight: Lokacin Tekun Indiya
   },
-  Universal: {
-    Generic: Hadewa Lokaci na Duniya,
-    Standard: Hadewa Lokaci na Duniya,
-    Daylight: Hadewa Lokaci na Duniya
+  Indian/Christmas: {
+    Generic: Lokacin Christmas Island,
+    Standard: Lokacin Christmas Island,
+    Daylight: Lokacin Christmas Island
   },
-  Zulu: {
-    Generic: Hadewa Lokaci na Duniya,
-    Standard: Hadewa Lokaci na Duniya,
-    Daylight: Hadewa Lokaci na Duniya
+  Indian/Cocos: {
+    Generic: Lokacin Cocos Islands,
+    Standard: Lokacin Cocos Islands,
+    Daylight: Lokacin Cocos Islands
   },
-  Atlantic/Jan_Mayen: {
-    Generic: Tsakiyar a lokaci turai,
-    Standard: Ida Tsakiyar a Lokaci Turai,
-    Daylight: Tsakiyar bazara a lokaci turai
+  Indian/Comoro: {
+    Generic: Lokacin Gabashin Afirka,
+    Standard: Lokacin Gabashin Afirka,
+    Daylight: Lokacin Gabashin Afirka
+  },
+  Indian/Kerguelen: {
+    Generic: Lokacin Kudancin Faransa da Antarctic,
+    Standard: Lokacin Kudancin Faransa da Antarctic,
+    Daylight: Lokacin Kudancin Faransa da Antarctic
+  },
+  Indian/Mahe: {
+    Generic: Lokacin Seychelles,
+    Standard: Lokacin Seychelles,
+    Daylight: Lokacin Seychelles
+  },
+  Indian/Maldives: {
+    Generic: Lokacin Maldives,
+    Standard: Lokacin Maldives,
+    Daylight: Lokacin Maldives
+  },
+  Indian/Mauritius: {
+    Generic: Lokacin Mauritius,
+    Standard: Tsayayyen Lokacin Mauritius,
+    Daylight: Lokacin Bazara na Mauritius
+  },
+  Indian/Mayotte: {
+    Generic: Lokacin Gabashin Afirka,
+    Standard: Lokacin Gabashin Afirka,
+    Daylight: Lokacin Gabashin Afirka
+  },
+  Indian/Reunion: {
+    Generic: Lokacin Réunion,
+    Standard: Lokacin Réunion,
+    Daylight: Lokacin Réunion
+  },
+  Iran: {
+    Generic: Lokacin Iran,
+    Standard: Tsayayyen Lokacin Iran,
+    Daylight: Lokacin Rana na Iran
+  },
+  Israel: {
+    Generic: Lokacin Israʼila,
+    Standard: Israel Standard Time,
+    Daylight: Israel Daylight Time
+  },
+  Jamaica: {
+    Generic: Lokacin Gabas dake Arewacin Amurikaa,
+    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
+    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
+  },
+  Japan: {
+    Generic: Lokacin Japan,
+    Standard: Japan Standard Time,
+    Daylight: Japan Daylight Time
+  },
+  Kwajalein: {
+    Generic: Lokacin Marshall Islands,
+    Standard: Lokacin Marshall Islands,
+    Daylight: Lokacin Marshall Islands
+  },
+  Libya: {
+    Generic: Lokaci a turai gabas,
+    Standard: Ida lokaci a turai gabas,
+    Daylight: Gabas a lokaci turai da bazara
   },
   MET: {
     Generic: Tsakiyar a lokaci turai,
     Standard: Ida Tsakiyar a Lokaci Turai,
     Daylight: Tsakiyar bazara a lokaci turai
   },
-  EET: {
-    Generic: Lokaci a turai gabas,
-    Standard: Ida lokaci a turai gabas,
-    Daylight: Gabas a lokaci turai da bazara
+  MST: {
+    Generic: Hadewa Lokaci na Duniya -7,
+    Standard: Hadewa Lokaci na Duniya -7,
+    Daylight: Hadewa Lokaci na Duniya -7
   },
-  Europe/Tiraspol: {
-    Generic: Lokaci a turai gabas,
-    Standard: Ida lokaci a turai gabas,
-    Daylight: Gabas a lokaci turai da bazara
+  MST7MDT: {
+    Generic: Lokacin Tsauni na Arewacin Amurka,
+    Standard: Lokaci tsayayye na tsauni a Arewacin Amurica,
+    Daylight: Lokacin Rana na Tsaunin Arewacin Amurka
   },
-  Eire: {
-    Generic: Ayalan Lokaci,
-    Standard: Lokacin Greenwhich a London,
-    Daylight: Tsayayyen Lokacin Irish
+  Mexico/BajaNorte: {
+    Generic: Lokacin Arewacin Amurika,
+    Standard: Lokaci Tsayayye na Arewacin Amurika,
+    Daylight: Lokacin Rana na Arewacin Amurka
   },
-  Asia/Istanbul: {
-    Generic: Turkiyya Lokaci,
-    Standard: Turkiyya Daidaitaccen Lokaci,
-    Daylight: Turkiyya Lokacin Rana
+  Mexico/BajaSur: {
+    Generic: Lokacin Mekziko Pacific,
+    Standard: Tsayayyen Lokacin Mekziko Pacific,
+    Daylight: Lokacin Rana na Mekziko Pacific
   },
-  Turkey: {
-    Generic: Turkiyya Lokaci,
-    Standard: Turkiyya Daidaitaccen Lokaci,
-    Daylight: Turkiyya Lokacin Rana
-  },
-  Europe/Kyiv: {
-    Generic: Lokaci a turai gabas,
-    Standard: Ida lokaci a turai gabas,
-    Daylight: Gabas a lokaci turai da bazara
-  },
-  Portugal: {
-    Generic: Lokaci ta yammacin turai,
-    Standard: Ida lokaci ta yammacin turai,
-    Daylight: Ida lokaci ta yammacin turai da bazara
-  },
-  Europe/Belfast: {
-    Generic: Biritaniya Lokaci,
-    Standard: Lokacin Greenwhich a London,
-    Daylight: Lokacin Bazara na Birtaniya
-  },
-  GB: {
-    Generic: Biritaniya Lokaci,
-    Standard: Lokacin Greenwhich a London,
-    Daylight: Lokacin Bazara na Birtaniya
-  },
-  GB-Eire: {
-    Generic: Biritaniya Lokaci,
-    Standard: Lokacin Greenwhich a London,
-    Daylight: Lokacin Bazara na Birtaniya
-  },
-  W-SU: {
-    Generic: Moscow Lokaci,
-    Standard: Moscow Daidaitaccen Lokaci,
-    Daylight: Moscow Lokacin Rana
-  },
-  CET: {
-    Generic: Tsakiyar a lokaci turai,
-    Standard: Ida Tsakiyar a Lokaci Turai,
-    Daylight: Tsakiyar bazara a lokaci turai
-  },
-  Poland: {
-    Generic: Tsakiyar a lokaci turai,
-    Standard: Ida Tsakiyar a Lokaci Turai,
-    Daylight: Tsakiyar bazara a lokaci turai
-  },
-  Antarctica/South_Pole: {
-    Generic: Lokacin New Zealand,
-    Standard: Tsayayyen Lokacin New Zealand,
-    Daylight: Lokacin Rana na New Zealand
+  Mexico/General: {
+    Generic: Lokaci dake Amurika arewa ta tsakiyar,
+    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
+    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
   },
   NZ: {
     Generic: Lokacin New Zealand,
@@ -2919,17 +2619,102 @@
     Standard: Tsayayyen Lokacin Chatham,
     Daylight: Lokacin Rana na Chatham
   },
-  Chile/EasterIsland: {
+  Navajo: {
+    Generic: Lokacin Tsauni na Arewacin Amurka,
+    Standard: Lokaci tsayayye na tsauni a Arewacin Amurica,
+    Daylight: Lokacin Rana na Tsaunin Arewacin Amurka
+  },
+  PRC: {
+    Generic: Lokacin Sin,
+    Standard: Tsayayyen Lokacin Sin,
+    Daylight: Lokacin Rana na Sin
+  },
+  PST8PDT: {
+    Generic: Lokacin Arewacin Amurika,
+    Standard: Lokaci Tsayayye na Arewacin Amurika,
+    Daylight: Lokacin Rana na Arewacin Amurka
+  },
+  Pacific/Apia: {
+    Generic: Lokacin Apia,
+    Standard: Tsayayyen Lokacin Apia,
+    Daylight: Lokacin Rana na Apia
+  },
+  Pacific/Auckland: {
+    Generic: Lokacin New Zealand,
+    Standard: Tsayayyen Lokacin New Zealand,
+    Daylight: Lokacin Rana na New Zealand
+  },
+  Pacific/Bougainville: {
+    Generic: Lokacin Papua New Guinea,
+    Standard: Lokacin Papua New Guinea,
+    Daylight: Lokacin Papua New Guinea
+  },
+  Pacific/Chatham: {
+    Generic: Lokacin Chatham,
+    Standard: Tsayayyen Lokacin Chatham,
+    Daylight: Lokacin Rana na Chatham
+  },
+  Pacific/Chuuk: {
+    Generic: Lokacin Chuuk,
+    Standard: Lokacin Chuuk,
+    Daylight: Lokacin Chuuk
+  },
+  Pacific/Easter: {
     Generic: Lokacin Easter Island,
     Standard: Tsayayyen Lokacin Easter Island,
     Daylight: Lokacin Bazara na Easter Island
   },
-  Pacific/Pohnpei: {
-    Generic: Lokacin Ponape,
-    Standard: Lokacin Ponape,
-    Daylight: Lokacin Ponape
+  Pacific/Efate: {
+    Generic: Lokacin Vanuatu,
+    Standard: Tsayayyen Lokacin Vanuatu,
+    Daylight: Lokacin Bazara na Vanuatu
   },
-  US/Hawaii: {
+  Pacific/Enderbury: {
+    Generic: Lokacin Phoenix Islands,
+    Standard: Lokacin Phoenix Islands,
+    Daylight: Lokacin Phoenix Islands
+  },
+  Pacific/Fakaofo: {
+    Generic: Tokelau Time,
+    Standard: Tokelau Time,
+    Daylight: Tokelau Time
+  },
+  Pacific/Fiji: {
+    Generic: Lokacin Fiji,
+    Standard: Tsayayyen Lokacin Fiji,
+    Daylight: Lokacin Bazara na Fiji
+  },
+  Pacific/Funafuti: {
+    Generic: Lokacin Tuvalu,
+    Standard: Lokacin Tuvalu,
+    Daylight: Lokacin Tuvalu
+  },
+  Pacific/Galapagos: {
+    Generic: Lokacin Galapagos,
+    Standard: Lokacin Galapagos,
+    Daylight: Lokacin Galapagos
+  },
+  Pacific/Gambier: {
+    Generic: Lokacin Gambier,
+    Standard: Lokacin Gambier,
+    Daylight: Lokacin Gambier
+  },
+  Pacific/Guadalcanal: {
+    Generic: Lokacin Rana na Solomon,
+    Standard: Lokacin Rana na Solomon,
+    Daylight: Lokacin Rana na Solomon
+  },
+  Pacific/Guam: {
+    Generic: Tsayayyen Lokacin Chamorro,
+    Standard: Tsayayyen Lokacin Chamorro,
+    Daylight: Tsayayyen Lokacin Chamorro
+  },
+  Pacific/Honolulu: {
+    Generic: Lokaci na Hawaii-Aleutian,
+    Standard: Tsayayyen Lokacin Hawaii-Aleutian,
+    Daylight: Lokacin Rana na Hawaii-Aleutian
+  },
+  Pacific/Johnston: {
     Generic: Lokaci na Hawaii-Aleutian,
     Standard: Tsayayyen Lokacin Hawaii-Aleutian,
     Daylight: Lokacin Rana na Hawaii-Aleutian
@@ -2939,39 +2724,254 @@
     Standard: Lokacin Phoenix Islands,
     Daylight: Lokacin Phoenix Islands
   },
-  Kwajalein: {
+  Pacific/Kiritimati: {
+    Generic: Lokacin Line Islands,
+    Standard: Lokacin Line Islands,
+    Daylight: Lokacin Line Islands
+  },
+  Pacific/Kosrae: {
+    Generic: Lokacin Kosrae,
+    Standard: Lokacin Kosrae,
+    Daylight: Lokacin Kosrae
+  },
+  Pacific/Kwajalein: {
     Generic: Lokacin Marshall Islands,
     Standard: Lokacin Marshall Islands,
     Daylight: Lokacin Marshall Islands
+  },
+  Pacific/Majuro: {
+    Generic: Lokacin Marshall Islands,
+    Standard: Lokacin Marshall Islands,
+    Daylight: Lokacin Marshall Islands
+  },
+  Pacific/Marquesas: {
+    Generic: Lokacin Marquesas,
+    Standard: Lokacin Marquesas,
+    Daylight: Lokacin Marquesas
+  },
+  Pacific/Midway: {
+    Generic: Lokacin Samoa,
+    Standard: Tsayayyen Lokacin Samoa,
+    Daylight: Lokacin Rana na Vote Samoa
+  },
+  Pacific/Nauru: {
+    Generic: Lokacin Nauru,
+    Standard: Lokacin Nauru,
+    Daylight: Lokacin Nauru
+  },
+  Pacific/Niue: {
+    Generic: Lokacin Niue,
+    Standard: Lokacin Niue,
+    Daylight: Lokacin Niue
+  },
+  Pacific/Norfolk: {
+    Generic: Lokacin Norfolk Island,
+    Standard: Tsayayyen Lokacin Norfolk Island,
+    Daylight: Lokacin Rana na Norfolk Island
+  },
+  Pacific/Noumea: {
+    Generic: Lokacin New Caledonia,
+    Standard: Tsayayyen Lokacin New Caledonia,
+    Daylight: Lokacin Bazara na New Caledonia
+  },
+  Pacific/Pago_Pago: {
+    Generic: Lokacin Samoa,
+    Standard: Tsayayyen Lokacin Samoa,
+    Daylight: Lokacin Rana na Vote Samoa
+  },
+  Pacific/Palau: {
+    Generic: Lokacin Palau,
+    Standard: Lokacin Palau,
+    Daylight: Lokacin Palau
+  },
+  Pacific/Pitcairn: {
+    Generic: Lokacin Pitcairn,
+    Standard: Lokacin Pitcairn,
+    Daylight: Lokacin Pitcairn
+  },
+  Pacific/Pohnpei: {
+    Generic: Lokacin Ponape,
+    Standard: Lokacin Ponape,
+    Daylight: Lokacin Ponape
+  },
+  Pacific/Ponape: {
+    Generic: Lokacin Ponape,
+    Standard: Lokacin Ponape,
+    Daylight: Lokacin Ponape
+  },
+  Pacific/Port_Moresby: {
+    Generic: Lokacin Papua New Guinea,
+    Standard: Lokacin Papua New Guinea,
+    Daylight: Lokacin Papua New Guinea
+  },
+  Pacific/Rarotonga: {
+    Generic: Lokacin Cook Islands,
+    Standard: Tsayayyen Lokacin Cook Islands,
+    Daylight: Rabin Lokacin Bazara na Cook Islands
+  },
+  Pacific/Saipan: {
+    Generic: Tsayayyen Lokacin Chamorro,
+    Standard: Tsayayyen Lokacin Chamorro,
+    Daylight: Tsayayyen Lokacin Chamorro
   },
   Pacific/Samoa: {
     Generic: Lokacin Samoa,
     Standard: Tsayayyen Lokacin Samoa,
     Daylight: Lokacin Rana na Vote Samoa
   },
-  US/Samoa: {
-    Generic: Lokacin Samoa,
-    Standard: Tsayayyen Lokacin Samoa,
-    Daylight: Lokacin Rana na Vote Samoa
+  Pacific/Tahiti: {
+    Generic: Lokacin Tahiti,
+    Standard: Lokacin Tahiti,
+    Daylight: Lokacin Tahiti
   },
-  Pacific/Chuuk: {
+  Pacific/Tarawa: {
+    Generic: Lokacin Gilbert Islands,
+    Standard: Lokacin Gilbert Islands,
+    Daylight: Lokacin Gilbert Islands
+  },
+  Pacific/Tongatapu: {
+    Generic: Lokacin Tonga,
+    Standard: Tsayayyen Lokacin Tonga,
+    Daylight: Lokacin Bazara na Tonga
+  },
+  Pacific/Truk: {
     Generic: Lokacin Chuuk,
     Standard: Lokacin Chuuk,
     Daylight: Lokacin Chuuk
+  },
+  Pacific/Wake: {
+    Generic: Lokacin Wake Island,
+    Standard: Lokacin Wake Island,
+    Daylight: Lokacin Wake Island
+  },
+  Pacific/Wallis: {
+    Generic: Lokacin Wallis da Futuna,
+    Standard: Lokacin Wallis da Futuna,
+    Daylight: Lokacin Wallis da Futuna
   },
   Pacific/Yap: {
     Generic: Lokacin Chuuk,
     Standard: Lokacin Chuuk,
     Daylight: Lokacin Chuuk
   },
-  America/Fort_Wayne: {
+  Poland: {
+    Generic: Tsakiyar a lokaci turai,
+    Standard: Ida Tsakiyar a Lokaci Turai,
+    Daylight: Tsakiyar bazara a lokaci turai
+  },
+  Portugal: {
+    Generic: Lokaci ta yammacin turai,
+    Standard: Ida lokaci ta yammacin turai,
+    Daylight: Ida lokaci ta yammacin turai da bazara
+  },
+  ROC: {
+    Generic: Lokacin Taipei,
+    Standard: Tsayayyen Lokacin Taipei,
+    Daylight: Lokacin Rana na Taipei
+  },
+  ROK: {
+    Generic: Lokacin Koriya,
+    Standard: Tsayayyen Lokacin Koriya,
+    Daylight: Lokacin Rana na Koriya
+  },
+  Singapore: {
+    Generic: Tsayayyen Lokacin Singapore,
+    Standard: Tsayayyen Lokacin Singapore,
+    Daylight: Tsayayyen Lokacin Singapore
+  },
+  Turkey: {
+    Generic: Turkiyya Lokaci,
+    Standard: Turkiyya Daidaitaccen Lokaci,
+    Daylight: Turkiyya Lokacin Rana
+  },
+  UCT: {
+    Generic: Hadewa Lokaci na Duniya,
+    Standard: Hadewa Lokaci na Duniya,
+    Daylight: Hadewa Lokaci na Duniya
+  },
+  US/Alaska: {
+    Generic: Lokacin Alaska,
+    Standard: Tsayayyen Lokacin Alaska,
+    Daylight: Lokacin Rana na Alaska
+  },
+  US/Aleutian: {
+    Generic: Lokaci na Hawaii-Aleutian,
+    Standard: Tsayayyen Lokacin Hawaii-Aleutian,
+    Daylight: Lokacin Rana na Hawaii-Aleutian
+  },
+  US/Arizona: {
+    Generic: Lokacin Tsauni na Arewacin Amurka,
+    Standard: Lokaci tsayayye na tsauni a Arewacin Amurica,
+    Daylight: Lokacin Rana na Tsaunin Arewacin Amurka
+  },
+  US/Central: {
+    Generic: Lokaci dake Amurika arewa ta tsakiyar,
+    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
+    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
+  },
+  US/East-Indiana: {
     Generic: Lokacin Gabas dake Arewacin Amurikaa,
     Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
     Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
   },
-  Antarctica/Troll: {
-    Generic: Lokacin Greenwhich a London,
-    Standard: Lokacin Greenwhich a London,
-    Daylight: Lokacin Greenwhich a London
+  US/Eastern: {
+    Generic: Lokacin Gabas dake Arewacin Amurikaa,
+    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
+    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
+  },
+  US/Hawaii: {
+    Generic: Lokaci na Hawaii-Aleutian,
+    Standard: Tsayayyen Lokacin Hawaii-Aleutian,
+    Daylight: Lokacin Rana na Hawaii-Aleutian
+  },
+  US/Indiana-Starke: {
+    Generic: Lokaci dake Amurika arewa ta tsakiyar,
+    Standard: Tsayayyen Lokaci dake Arewacin Amurika ta Tsakiya,
+    Daylight: Lokacin Rana dake Arewacin Amurika ta Tsakiya
+  },
+  US/Michigan: {
+    Generic: Lokacin Gabas dake Arewacin Amurikaa,
+    Standard: Tsayayyen Lokacin Gabas dake Arewacin Amurika,
+    Daylight: Lokacin Rana ta Gabas dake Arewacin Amurika
+  },
+  US/Mountain: {
+    Generic: Lokacin Tsauni na Arewacin Amurka,
+    Standard: Lokaci tsayayye na tsauni a Arewacin Amurica,
+    Daylight: Lokacin Rana na Tsaunin Arewacin Amurka
+  },
+  US/Pacific: {
+    Generic: Lokacin Arewacin Amurika,
+    Standard: Lokaci Tsayayye na Arewacin Amurika,
+    Daylight: Lokacin Rana na Arewacin Amurka
+  },
+  US/Samoa: {
+    Generic: Lokacin Samoa,
+    Standard: Tsayayyen Lokacin Samoa,
+    Daylight: Lokacin Rana na Vote Samoa
+  },
+  UTC: {
+    Generic: Hadewa Lokaci na Duniya,
+    Standard: Hadewa Lokaci na Duniya,
+    Daylight: Hadewa Lokaci na Duniya
+  },
+  Universal: {
+    Generic: Hadewa Lokaci na Duniya,
+    Standard: Hadewa Lokaci na Duniya,
+    Daylight: Hadewa Lokaci na Duniya
+  },
+  W-SU: {
+    Generic: Moscow Lokaci,
+    Standard: Moscow Daidaitaccen Lokaci,
+    Daylight: Moscow Lokacin Rana
+  },
+  WET: {
+    Generic: Lokaci ta yammacin turai,
+    Standard: Ida lokaci ta yammacin turai,
+    Daylight: Ida lokaci ta yammacin turai da bazara
+  },
+  Zulu: {
+    Generic: Hadewa Lokaci na Duniya,
+    Standard: Hadewa Lokaci na Duniya,
+    Daylight: Hadewa Lokaci na Duniya
   }
 }

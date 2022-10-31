@@ -1,115 +1,330 @@
 ﻿{
-  Australia/Darwin: {
-    Generic: Час цэнтральнай Аўстраліі,
-    Standard: Змоўчны час цэнтральнай Аўстраліі,
-    Daylight: Летні час цэнтральнай Аўстраліі
+  Africa/Abidjan: {
+    Generic: Час па Грынвічы,
+    Standard: Час па Грынвічы,
+    Daylight: Час па Грынвічы
   },
-  Australia/Sydney: {
-    Generic: Час усходняй Аўстраліі,
-    Standard: Змоўчны час усходняй Аўстраліі,
-    Daylight: Летні час усходняй Аўстраліі
+  Africa/Accra: {
+    Generic: Час па Грынвічы,
+    Standard: Час па Грынвічы,
+    Daylight: Час па Грынвічы
   },
-  Australia/Melbourne: {
-    Generic: Час усходняй Аўстраліі,
-    Standard: Змоўчны час усходняй Аўстраліі,
-    Daylight: Летні час усходняй Аўстраліі
+  Africa/Addis_Ababa: {
+    Generic: Усходнеафрыканскі час,
+    Standard: Усходнеафрыканскі час,
+    Daylight: Усходнеафрыканскі час
   },
-  Asia/Kabul: {
-    Generic: Аўганістанскі час,
-    Standard: Аўганістанскі час,
-    Daylight: Аўганістанскі час
+  Africa/Algiers: {
+    Generic: Цэнтральнаэўрапейскі час,
+    Standard: Цэнтральнаэўрапейскі змоўчны час,
+    Daylight: Цэнтральнаэўрапейскі летні час
   },
-  America/Anchorage: {
-    Generic: Час Аляскі,
-    Standard: Змоўчны час Аляскі,
-    Daylight: Летні час Аляскі
+  Africa/Asmara: {
+    Generic: Усходнеафрыканскі час,
+    Standard: Усходнеафрыканскі час,
+    Daylight: Усходнеафрыканскі час
   },
-  America/Juneau: {
-    Generic: Час Аляскі,
-    Standard: Змоўчны час Аляскі,
-    Daylight: Летні час Аляскі
+  Africa/Asmera: {
+    Generic: Усходнеафрыканскі час,
+    Standard: Усходнеафрыканскі час,
+    Daylight: Усходнеафрыканскі час
   },
-  America/Metlakatla: {
-    Generic: Час Аляскі,
-    Standard: Змоўчны час Аляскі,
-    Daylight: Летні час Аляскі
+  Africa/Bamako: {
+    Generic: Час па Грынвічы,
+    Standard: Час па Грынвічы,
+    Daylight: Час па Грынвічы
   },
-  America/Nome: {
-    Generic: Час Аляскі,
-    Standard: Змоўчны час Аляскі,
-    Daylight: Летні час Аляскі
+  Africa/Bangui: {
+    Generic: Заходнеафрыканскі час,
+    Standard: Заходнеафрыканскі змоўчны час,
+    Daylight: Заходнеафрыканскі летні час
   },
-  America/Sitka: {
-    Generic: Час Аляскі,
-    Standard: Змоўчны час Аляскі,
-    Daylight: Летні час Аляскі
+  Africa/Banjul: {
+    Generic: Час па Грынвічы,
+    Standard: Час па Грынвічы,
+    Daylight: Час па Грынвічы
   },
-  America/Yakutat: {
-    Generic: Час Аляскі,
-    Standard: Змоўчны час Аляскі,
-    Daylight: Летні час Аляскі
+  Africa/Bissau: {
+    Generic: Час па Грынвічы,
+    Standard: Час па Грынвічы,
+    Daylight: Час па Грынвічы
+  },
+  Africa/Blantyre: {
+    Generic: Цэнтральнаафрыканскі час,
+    Standard: Цэнтральнаафрыканскі час,
+    Daylight: Цэнтральнаафрыканскі час
+  },
+  Africa/Brazzaville: {
+    Generic: Заходнеафрыканскі час,
+    Standard: Заходнеафрыканскі змоўчны час,
+    Daylight: Заходнеафрыканскі летні час
+  },
+  Africa/Bujumbura: {
+    Generic: Цэнтральнаафрыканскі час,
+    Standard: Цэнтральнаафрыканскі час,
+    Daylight: Цэнтральнаафрыканскі час
+  },
+  Africa/Cairo: {
+    Generic: Усходнеэўрапейскі час,
+    Standard: Усходнеэўрапейскі змоўчны час,
+    Daylight: Усходнеэўрапейскі летні час
+  },
+  Africa/Casablanca: {
+    Generic: Заходнеэўрапейскі час,
+    Standard: Заходнеэўрапейскі змоўчны час,
+    Daylight: Заходнеэўрапейскі летні час
+  },
+  Africa/Ceuta: {
+    Generic: Цэнтральнаэўрапейскі час,
+    Standard: Цэнтральнаэўрапейскі змоўчны час,
+    Daylight: Цэнтральнаэўрапейскі летні час
+  },
+  Africa/Conakry: {
+    Generic: Час па Грынвічы,
+    Standard: Час па Грынвічы,
+    Daylight: Час па Грынвічы
+  },
+  Africa/Dakar: {
+    Generic: Час па Грынвічы,
+    Standard: Час па Грынвічы,
+    Daylight: Час па Грынвічы
+  },
+  Africa/Dar_es_Salaam: {
+    Generic: Усходнеафрыканскі час,
+    Standard: Усходнеафрыканскі час,
+    Daylight: Усходнеафрыканскі час
+  },
+  Africa/Djibouti: {
+    Generic: Усходнеафрыканскі час,
+    Standard: Усходнеафрыканскі час,
+    Daylight: Усходнеафрыканскі час
+  },
+  Africa/Douala: {
+    Generic: Заходнеафрыканскі час,
+    Standard: Заходнеафрыканскі змоўчны час,
+    Daylight: Заходнеафрыканскі летні час
+  },
+  Africa/El_Aaiun: {
+    Generic: Заходнеэўрапейскі час,
+    Standard: Заходнеэўрапейскі змоўчны час,
+    Daylight: Заходнеэўрапейскі летні час
+  },
+  Africa/Freetown: {
+    Generic: Час па Грынвічы,
+    Standard: Час па Грынвічы,
+    Daylight: Час па Грынвічы
+  },
+  Africa/Gaborone: {
+    Generic: Цэнтральнаафрыканскі час,
+    Standard: Цэнтральнаафрыканскі час,
+    Daylight: Цэнтральнаафрыканскі час
+  },
+  Africa/Harare: {
+    Generic: Цэнтральнаафрыканскі час,
+    Standard: Цэнтральнаафрыканскі час,
+    Daylight: Цэнтральнаафрыканскі час
+  },
+  Africa/Johannesburg: {
+    Generic: Паўднёваафрыканскі час,
+    Standard: Паўднёваафрыканскі час,
+    Daylight: Паўднёваафрыканскі час
+  },
+  Africa/Juba: {
+    Generic: Цэнтральнаафрыканскі час,
+    Standard: Цэнтральнаафрыканскі час,
+    Daylight: Цэнтральнаафрыканскі час
+  },
+  Africa/Kampala: {
+    Generic: Усходнеафрыканскі час,
+    Standard: Усходнеафрыканскі час,
+    Daylight: Усходнеафрыканскі час
+  },
+  Africa/Khartoum: {
+    Generic: Цэнтральнаафрыканскі час,
+    Standard: Цэнтральнаафрыканскі час,
+    Daylight: Цэнтральнаафрыканскі час
+  },
+  Africa/Kigali: {
+    Generic: Цэнтральнаафрыканскі час,
+    Standard: Цэнтральнаафрыканскі час,
+    Daylight: Цэнтральнаафрыканскі час
+  },
+  Africa/Kinshasa: {
+    Generic: Заходнеафрыканскі час,
+    Standard: Заходнеафрыканскі змоўчны час,
+    Daylight: Заходнеафрыканскі летні час
+  },
+  Africa/Lagos: {
+    Generic: Заходнеафрыканскі час,
+    Standard: Заходнеафрыканскі змоўчны час,
+    Daylight: Заходнеафрыканскі летні час
+  },
+  Africa/Libreville: {
+    Generic: Заходнеафрыканскі час,
+    Standard: Заходнеафрыканскі змоўчны час,
+    Daylight: Заходнеафрыканскі летні час
+  },
+  Africa/Lome: {
+    Generic: Час па Грынвічы,
+    Standard: Час па Грынвічы,
+    Daylight: Час па Грынвічы
+  },
+  Africa/Luanda: {
+    Generic: Заходнеафрыканскі час,
+    Standard: Заходнеафрыканскі змоўчны час,
+    Daylight: Заходнеафрыканскі летні час
+  },
+  Africa/Lubumbashi: {
+    Generic: Цэнтральнаафрыканскі час,
+    Standard: Цэнтральнаафрыканскі час,
+    Daylight: Цэнтральнаафрыканскі час
+  },
+  Africa/Lusaka: {
+    Generic: Цэнтральнаафрыканскі час,
+    Standard: Цэнтральнаафрыканскі час,
+    Daylight: Цэнтральнаафрыканскі час
+  },
+  Africa/Malabo: {
+    Generic: Заходнеафрыканскі час,
+    Standard: Заходнеафрыканскі змоўчны час,
+    Daylight: Заходнеафрыканскі летні час
+  },
+  Africa/Maputo: {
+    Generic: Цэнтральнаафрыканскі час,
+    Standard: Цэнтральнаафрыканскі час,
+    Daylight: Цэнтральнаафрыканскі час
+  },
+  Africa/Maseru: {
+    Generic: Паўднёваафрыканскі час,
+    Standard: Паўднёваафрыканскі час,
+    Daylight: Паўднёваафрыканскі час
+  },
+  Africa/Mbabane: {
+    Generic: Паўднёваафрыканскі час,
+    Standard: Паўднёваафрыканскі час,
+    Daylight: Паўднёваафрыканскі час
+  },
+  Africa/Mogadishu: {
+    Generic: Усходнеафрыканскі час,
+    Standard: Усходнеафрыканскі час,
+    Daylight: Усходнеафрыканскі час
+  },
+  Africa/Monrovia: {
+    Generic: Час па Грынвічы,
+    Standard: Час па Грынвічы,
+    Daylight: Час па Грынвічы
+  },
+  Africa/Nairobi: {
+    Generic: Усходнеафрыканскі час,
+    Standard: Усходнеафрыканскі час,
+    Daylight: Усходнеафрыканскі час
+  },
+  Africa/Ndjamena: {
+    Generic: Заходнеафрыканскі час,
+    Standard: Заходнеафрыканскі змоўчны час,
+    Daylight: Заходнеафрыканскі летні час
+  },
+  Africa/Niamey: {
+    Generic: Заходнеафрыканскі час,
+    Standard: Заходнеафрыканскі змоўчны час,
+    Daylight: Заходнеафрыканскі летні час
+  },
+  Africa/Nouakchott: {
+    Generic: Час па Грынвічы,
+    Standard: Час па Грынвічы,
+    Daylight: Час па Грынвічы
+  },
+  Africa/Ouagadougou: {
+    Generic: Час па Грынвічы,
+    Standard: Час па Грынвічы,
+    Daylight: Час па Грынвічы
+  },
+  Africa/Porto-Novo: {
+    Generic: Заходнеафрыканскі час,
+    Standard: Заходнеафрыканскі змоўчны час,
+    Daylight: Заходнеафрыканскі летні час
+  },
+  Africa/Sao_Tome: {
+    Generic: Час па Грынвічы,
+    Standard: Час па Грынвічы,
+    Daylight: Час па Грынвічы
+  },
+  Africa/Timbuktu: {
+    Generic: Час па Грынвічы,
+    Standard: Час па Грынвічы,
+    Daylight: Час па Грынвічы
+  },
+  Africa/Tripoli: {
+    Generic: Усходнеэўрапейскі час,
+    Standard: Усходнеэўрапейскі змоўчны час,
+    Daylight: Усходнеэўрапейскі летні час
+  },
+  Africa/Tunis: {
+    Generic: Цэнтральнаэўрапейскі час,
+    Standard: Цэнтральнаэўрапейскі змоўчны час,
+    Daylight: Цэнтральнаэўрапейскі летні час
+  },
+  Africa/Windhoek: {
+    Generic: Цэнтральнаафрыканскі час,
+    Standard: Цэнтральнаафрыканскі час,
+    Daylight: Цэнтральнаафрыканскі час
   },
   America/Adak: {
     Generic: Гавайска-Алевуцкі час,
     Standard: Гавайска-Алэвуцкі змоўчны час,
     Daylight: Гавайска-Алевуцкі летні час
   },
-  Asia/Barnaul: {
-    Generic: час: Барнавул,
-    Standard: змоўчны час: Барнавул,
-    Daylight: летні час: Барнавул
+  America/Anchorage: {
+    Generic: Час Аляскі,
+    Standard: Змоўчны час Аляскі,
+    Daylight: Летні час Аляскі
   },
-  Asia/Riyadh: {
-    Generic: Час Саудаўскай Арабіі,
-    Standard: Змоўчны час Саудаўскай Арабіі,
-    Daylight: Летні час Саудаўскай Арабіі
+  America/Anguilla: {
+    Generic: Атлянтычны час,
+    Standard: Атлянтычны змоўчны час,
+    Daylight: Атлянтычны летні час
   },
-  Asia/Bahrain: {
-    Generic: Час Саудаўскай Арабіі,
-    Standard: Змоўчны час Саудаўскай Арабіі,
-    Daylight: Летні час Саудаўскай Арабіі
+  America/Antigua: {
+    Generic: Атлянтычны час,
+    Standard: Атлянтычны змоўчны час,
+    Daylight: Атлянтычны летні час
   },
-  Asia/Kuwait: {
-    Generic: Час Саудаўскай Арабіі,
-    Standard: Змоўчны час Саудаўскай Арабіі,
-    Daylight: Летні час Саудаўскай Арабіі
+  America/Araguaina: {
+    Generic: Бразыльскі час,
+    Standard: Бразыльскі змоўчны час,
+    Daylight: Бразыльскі летні час
   },
-  Asia/Qatar: {
-    Generic: Час Саудаўскай Арабіі,
-    Standard: Змоўчны час Саудаўскай Арабіі,
-    Daylight: Летні час Саудаўскай Арабіі
+  America/Argentina/Buenos_Aires: {
+    Generic: Аргентынскі час,
+    Standard: Аргентынскі змоўчны час,
+    Daylight: Аргентынскі летні час
   },
-  Asia/Aden: {
-    Generic: Час Саудаўскай Арабіі,
-    Standard: Змоўчны час Саудаўскай Арабіі,
-    Daylight: Летні час Саудаўскай Арабіі
+  America/Argentina/Catamarca: {
+    Generic: Аргентынскі час,
+    Standard: Аргентынскі змоўчны час,
+    Daylight: Аргентынскі летні час
   },
-  Asia/Dubai: {
-    Generic: Час Пэрсыдзкага заліву,
-    Standard: Час Пэрсыдзкага заліву,
-    Daylight: Час Пэрсыдзкага заліву
+  America/Argentina/ComodRivadavia: {
+    Generic: Аргентынскі час,
+    Standard: Аргентынскі змоўчны час,
+    Daylight: Аргентынскі летні час
   },
-  Asia/Muscat: {
-    Generic: Час Пэрсыдзкага заліву,
-    Standard: Час Пэрсыдзкага заліву,
-    Daylight: Час Пэрсыдзкага заліву
+  America/Argentina/Cordoba: {
+    Generic: Аргентынскі час,
+    Standard: Аргентынскі змоўчны час,
+    Daylight: Аргентынскі летні час
   },
-  Etc/GMT-4: {
-    Generic: унівэрсальны каардынаваны час +4,
-    Standard: унівэрсальны каардынаваны час +4,
-    Daylight: унівэрсальны каардынаваны час +4
-  },
-  Asia/Baghdad: {
-    Generic: Час Саудаўскай Арабіі,
-    Standard: Змоўчны час Саудаўскай Арабіі,
-    Daylight: Летні час Саудаўскай Арабіі
-  },
-  America/Buenos_Aires: {
+  America/Argentina/Jujuy: {
     Generic: Аргентынскі час,
     Standard: Аргентынскі змоўчны час,
     Daylight: Аргентынскі летні час
   },
   America/Argentina/La_Rioja: {
+    Generic: Аргентынскі час,
+    Standard: Аргентынскі змоўчны час,
+    Daylight: Аргентынскі летні час
+  },
+  America/Argentina/Mendoza: {
     Generic: Аргентынскі час,
     Standard: Аргентынскі змоўчны час,
     Daylight: Аргентынскі летні час
@@ -144,327 +359,432 @@
     Standard: Аргентынскі змоўчны час,
     Daylight: Аргентынскі летні час
   },
-  America/Catamarca: {
-    Generic: Аргентынскі час,
-    Standard: Аргентынскі змоўчны час,
-    Daylight: Аргентынскі летні час
-  },
-  America/Cordoba: {
-    Generic: Аргентынскі час,
-    Standard: Аргентынскі змоўчны час,
-    Daylight: Аргентынскі летні час
-  },
-  America/Jujuy: {
-    Generic: Аргентынскі час,
-    Standard: Аргентынскі змоўчны час,
-    Daylight: Аргентынскі летні час
-  },
-  America/Mendoza: {
-    Generic: Аргентынскі час,
-    Standard: Аргентынскі змоўчны час,
-    Daylight: Аргентынскі летні час
-  },
-  Europe/Astrakhan: {
-    Generic: час: Астрахань,
-    Standard: змоўчны час: Астрахань,
-    Daylight: летні час: Астрахань
-  },
-  Europe/Ulyanovsk: {
-    Generic: час: Ульянаўск,
-    Standard: змоўчны час: Ульянаўск,
-    Daylight: летні час: Ульянаўск
-  },
-  America/Halifax: {
+  America/Aruba: {
     Generic: Атлянтычны час,
     Standard: Атлянтычны змоўчны час,
     Daylight: Атлянтычны летні час
   },
-  Atlantic/Bermuda: {
-    Generic: Атлянтычны час,
-    Standard: Атлянтычны змоўчны час,
-    Daylight: Атлянтычны летні час
+  America/Asuncion: {
+    Generic: Час Парагваю,
+    Standard: Змоўчны час Парагваю,
+    Daylight: Летні час Парагваю
   },
-  America/Glace_Bay: {
-    Generic: Атлянтычны час,
-    Standard: Атлянтычны змоўчны час,
-    Daylight: Атлянтычны летні час
+  America/Atikokan: {
+    Generic: Паўночнаамэрыканскі ўсходні час,
+    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
+    Daylight: Паўночнаамэрыканскі ўсходні летні час
   },
-  America/Goose_Bay: {
-    Generic: Атлянтычны час,
-    Standard: Атлянтычны змоўчны час,
-    Daylight: Атлянтычны летні час
-  },
-  America/Moncton: {
-    Generic: Атлянтычны час,
-    Standard: Атлянтычны змоўчны час,
-    Daylight: Атлянтычны летні час
-  },
-  America/Thule: {
-    Generic: Атлянтычны час,
-    Standard: Атлянтычны змоўчны час,
-    Daylight: Атлянтычны летні час
-  },
-  Australia/Eucla: {
-    Generic: Цэнтральна-заходні час Аўстраліі,
-    Standard: Змоўчны цэнтральна-заходні час Аўстраліі,
-    Daylight: Летні цэнтральна-заходні час Аўстраліі
-  },
-  Asia/Baku: {
-    Generic: Час Азэрбайджану,
-    Standard: Змоўчны час Азэрбайджану,
-    Daylight: Летні час Азэрбайджану
-  },
-  Atlantic/Azores: {
-    Generic: Час Азорскіх астравоў,
-    Standard: Змоўчны час Азорскіх астравоў,
-    Daylight: Летні час Азорскіх астравоў
-  },
-  America/Scoresbysund: {
-    Generic: Час Усходняй Грэнляндыі,
-    Standard: Змоўчны час Усходняй Грэнляндыі,
-    Daylight: Летні час Усходняй Грэнляндыі
+  America/Atka: {
+    Generic: Гавайска-Алевуцкі час,
+    Standard: Гавайска-Алэвуцкі змоўчны час,
+    Daylight: Гавайска-Алевуцкі летні час
   },
   America/Bahia: {
     Generic: Бразыльскі час,
     Standard: Бразыльскі змоўчны час,
     Daylight: Бразыльскі летні час
   },
-  Asia/Dhaka: {
-    Generic: Час Банглядэшу,
-    Standard: Змоўчны час Банглядэшу,
-    Daylight: Летні час Банглядэшу
-  },
-  Asia/Thimphu: {
-    Generic: Час Бутану,
-    Standard: Час Бутану,
-    Daylight: Час Бутану
-  },
-  Europe/Minsk: {
-    Generic: Маскоўскі час,
-    Standard: Маскоўскі змоўчны час,
-    Daylight: Маскоўскі летні час
-  },
-  Pacific/Bougainville: {
-    Generic: Час Папуа-Новай Гвінэі,
-    Standard: Час Папуа-Новай Гвінэі,
-    Daylight: Час Папуа-Новай Гвінэі
-  },
-  America/Regina: {
+  America/Bahia_Banderas: {
     Generic: Паўночнаамэрыканскі цэнтральны час,
     Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
     Daylight: Паўночнаамэрыканскі цэнтральны летні час
   },
-  America/Swift_Current: {
-    Generic: Паўночнаамэрыканскі цэнтральны час,
-    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
-    Daylight: Паўночнаамэрыканскі цэнтральны летні час
+  America/Barbados: {
+    Generic: Атлянтычны час,
+    Standard: Атлянтычны змоўчны час,
+    Daylight: Атлянтычны летні час
   },
-  Atlantic/Cape_Verde: {
-    Generic: Час Каба-Вэрдэ,
-    Standard: Змоўчны час Каба-Вэрдэ,
-    Daylight: Летні час Каба-Вэрдэ
-  },
-  Etc/GMT+1: {
-    Generic: унівэрсальны каардынаваны час -1,
-    Standard: унівэрсальны каардынаваны час -1,
-    Daylight: унівэрсальны каардынаваны час -1
-  },
-  Asia/Yerevan: {
-    Generic: Час Армэніі,
-    Standard: Змоўчны час Армэніі,
-    Daylight: Летні час Армэніі
-  },
-  Australia/Adelaide: {
-    Generic: Час цэнтральнай Аўстраліі,
-    Standard: Змоўчны час цэнтральнай Аўстраліі,
-    Daylight: Летні час цэнтральнай Аўстраліі
-  },
-  Australia/Broken_Hill: {
-    Generic: Час цэнтральнай Аўстраліі,
-    Standard: Змоўчны час цэнтральнай Аўстраліі,
-    Daylight: Летні час цэнтральнай Аўстраліі
-  },
-  America/Guatemala: {
-    Generic: Паўночнаамэрыканскі цэнтральны час,
-    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
-    Daylight: Паўночнаамэрыканскі цэнтральны летні час
+  America/Belem: {
+    Generic: Бразыльскі час,
+    Standard: Бразыльскі змоўчны час,
+    Daylight: Бразыльскі летні час
   },
   America/Belize: {
     Generic: Паўночнаамэрыканскі цэнтральны час,
     Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
     Daylight: Паўночнаамэрыканскі цэнтральны летні час
   },
-  America/Costa_Rica: {
-    Generic: Паўночнаамэрыканскі цэнтральны час,
-    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
-    Daylight: Паўночнаамэрыканскі цэнтральны летні час
+  America/Blanc-Sablon: {
+    Generic: Атлянтычны час,
+    Standard: Атлянтычны змоўчны час,
+    Daylight: Атлянтычны летні час
   },
-  Pacific/Galapagos: {
-    Generic: Змоўчны час Галяпагоскіх астравоў,
-    Standard: Змоўчны час Галяпагоскіх астравоў,
-    Daylight: Змоўчны час Галяпагоскіх астравоў
-  },
-  America/Tegucigalpa: {
-    Generic: Паўночнаамэрыканскі цэнтральны час,
-    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
-    Daylight: Паўночнаамэрыканскі цэнтральны летні час
-  },
-  America/Managua: {
-    Generic: Паўночнаамэрыканскі цэнтральны час,
-    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
-    Daylight: Паўночнаамэрыканскі цэнтральны летні час
-  },
-  America/El_Salvador: {
-    Generic: Паўночнаамэрыканскі цэнтральны час,
-    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
-    Daylight: Паўночнаамэрыканскі цэнтральны летні час
-  },
-  Etc/GMT+6: {
-    Generic: унівэрсальны каардынаваны час -6,
-    Standard: унівэрсальны каардынаваны час -6,
-    Daylight: унівэрсальны каардынаваны час -6
-  },
-  Asia/Almaty: {
-    Generic: Усходнеказахстанскі час,
-    Standard: Усходнеказахстанскі час,
-    Daylight: Усходнеказахстанскі час
-  },
-  Antarctica/Vostok: {
-    Generic: Час станцыі Ўсход,
-    Standard: Час станцыі Ўсход,
-    Daylight: Час станцыі Ўсход
-  },
-  Asia/Urumqi: {
-    Generic: час: Кітай,
-    Standard: змоўчны час: Кітай,
-    Daylight: летні час: Кітай
-  },
-  Indian/Chagos: {
-    Generic: Час Індыйскага акіяну,
-    Standard: Час Індыйскага акіяну,
-    Daylight: Час Індыйскага акіяну
-  },
-  Asia/Bishkek: {
-    Generic: Час Кыргыстану,
-    Standard: Час Кыргыстану,
-    Daylight: Час Кыргыстану
-  },
-  Asia/Qostanay: {
-    Generic: Усходнеказахстанскі час,
-    Standard: Усходнеказахстанскі час,
-    Daylight: Усходнеказахстанскі час
-  },
-  Etc/GMT-6: {
-    Generic: унівэрсальны каардынаваны час +6,
-    Standard: унівэрсальны каардынаваны час +6,
-    Daylight: унівэрсальны каардынаваны час +6
-  },
-  America/Cuiaba: {
+  America/Boa_Vista: {
     Generic: Амазонскі час,
     Standard: Амазонскі змоўчны час,
     Daylight: Амазонскі летні час
+  },
+  America/Bogota: {
+    Generic: Калюмбійскі час,
+    Standard: Калюмбійскі змоўчны час,
+    Daylight: Калюмбійскі летні час
+  },
+  America/Boise: {
+    Generic: Паўночнаамэрыканскі горны час,
+    Standard: Паўночнаамэрыканскі горны змоўчны час,
+    Daylight: Паўночнаамэрыканскі горны летні час
+  },
+  America/Buenos_Aires: {
+    Generic: Аргентынскі час,
+    Standard: Аргентынскі змоўчны час,
+    Daylight: Аргентынскі летні час
+  },
+  America/Cambridge_Bay: {
+    Generic: Паўночнаамэрыканскі горны час,
+    Standard: Паўночнаамэрыканскі горны змоўчны час,
+    Daylight: Паўночнаамэрыканскі горны летні час
   },
   America/Campo_Grande: {
     Generic: Амазонскі час,
     Standard: Амазонскі змоўчны час,
     Daylight: Амазонскі летні час
   },
-  Europe/Budapest: {
-    Generic: Цэнтральнаэўрапейскі час,
-    Standard: Цэнтральнаэўрапейскі змоўчны час,
-    Daylight: Цэнтральнаэўрапейскі летні час
+  America/Cancun: {
+    Generic: Паўночнаамэрыканскі ўсходні час,
+    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
+    Daylight: Паўночнаамэрыканскі ўсходні летні час
   },
-  Europe/Tirane: {
-    Generic: Цэнтральнаэўрапейскі час,
-    Standard: Цэнтральнаэўрапейскі змоўчны час,
-    Daylight: Цэнтральнаэўрапейскі летні час
+  America/Caracas: {
+    Generic: Вэнэсуэльскі час,
+    Standard: Вэнэсуэльскі час,
+    Daylight: Вэнэсуэльскі час
   },
-  Europe/Prague: {
-    Generic: Цэнтральнаэўрапейскі час,
-    Standard: Цэнтральнаэўрапейскі змоўчны час,
-    Daylight: Цэнтральнаэўрапейскі летні час
+  America/Catamarca: {
+    Generic: Аргентынскі час,
+    Standard: Аргентынскі змоўчны час,
+    Daylight: Аргентынскі летні час
   },
-  Europe/Podgorica: {
-    Generic: Цэнтральнаэўрапейскі час,
-    Standard: Цэнтральнаэўрапейскі змоўчны час,
-    Daylight: Цэнтральнаэўрапейскі летні час
+  America/Cayenne: {
+    Generic: Час Францускай Гвіяны,
+    Standard: Час Францускай Гвіяны,
+    Daylight: Час Францускай Гвіяны
   },
-  Europe/Belgrade: {
-    Generic: Цэнтральнаэўрапейскі час,
-    Standard: Цэнтральнаэўрапейскі змоўчны час,
-    Daylight: Цэнтральнаэўрапейскі летні час
+  America/Cayman: {
+    Generic: Паўночнаамэрыканскі ўсходні час,
+    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
+    Daylight: Паўночнаамэрыканскі ўсходні летні час
   },
-  Europe/Ljubljana: {
-    Generic: Цэнтральнаэўрапейскі час,
-    Standard: Цэнтральнаэўрапейскі змоўчны час,
-    Daylight: Цэнтральнаэўрапейскі летні час
-  },
-  Europe/Bratislava: {
-    Generic: Цэнтральнаэўрапейскі час,
-    Standard: Цэнтральнаэўрапейскі змоўчны час,
-    Daylight: Цэнтральнаэўрапейскі летні час
-  },
-  Europe/Warsaw: {
-    Generic: Цэнтральнаэўрапейскі час,
-    Standard: Цэнтральнаэўрапейскі змоўчны час,
-    Daylight: Цэнтральнаэўрапейскі летні час
-  },
-  Europe/Sarajevo: {
-    Generic: Цэнтральнаэўрапейскі час,
-    Standard: Цэнтральнаэўрапейскі змоўчны час,
-    Daylight: Цэнтральнаэўрапейскі летні час
-  },
-  Europe/Zagreb: {
-    Generic: Цэнтральнаэўрапейскі час,
-    Standard: Цэнтральнаэўрапейскі змоўчны час,
-    Daylight: Цэнтральнаэўрапейскі летні час
-  },
-  Europe/Skopje: {
-    Generic: Цэнтральнаэўрапейскі час,
-    Standard: Цэнтральнаэўрапейскі змоўчны час,
-    Daylight: Цэнтральнаэўрапейскі летні час
-  },
-  Pacific/Guadalcanal: {
-    Generic: Час Саламонавых астравоў,
-    Standard: Час Саламонавых астравоў,
-    Daylight: Час Саламонавых астравоў
-  },
-  Antarctica/Casey: {
-    Generic: час: Антарктыка,
-    Standard: змоўчны час: Антарктыка,
-    Daylight: летні час: Антарктыка
-  },
-  Pacific/Ponape: {
-    Generic: Час вострава Панпэі,
-    Standard: Час вострава Панпэі,
-    Daylight: Час вострава Панпэі
-  },
-  Pacific/Kosrae: {
-    Generic: Час астравоў Касраэ,
-    Standard: Час астравоў Касраэ,
-    Daylight: Час астравоў Касраэ
-  },
-  Pacific/Noumea: {
-    Generic: Час Новай Каледоніі,
-    Standard: Змоўчны час Новай Каледоніі,
-    Daylight: Летні час Новай Каледоніі
-  },
-  Pacific/Efate: {
-    Generic: Час Вануату,
-    Standard: Змоўчны час Вануату,
-    Daylight: Летні час Вануату
-  },
-  Etc/GMT-11: {
-    Generic: унівэрсальны каардынаваны час +11,
-    Standard: унівэрсальны каардынаваны час +11,
-    Daylight: унівэрсальны каардынаваны час +11
-  },
-  America/Mexico_City: {
+  America/Chicago: {
     Generic: Паўночнаамэрыканскі цэнтральны час,
     Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
     Daylight: Паўночнаамэрыканскі цэнтральны летні час
   },
-  America/Bahia_Banderas: {
+  America/Chihuahua: {
+    Generic: Мэксыканскі ціхаакіянскі час,
+    Standard: Мэксыканскі ціхаакіянскі стандатны час,
+    Daylight: Мэксыканскі ціхаакіянскі летні час
+  },
+  America/Coral_Harbour: {
+    Generic: Паўночнаамэрыканскі ўсходні час,
+    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
+    Daylight: Паўночнаамэрыканскі ўсходні летні час
+  },
+  America/Cordoba: {
+    Generic: Аргентынскі час,
+    Standard: Аргентынскі змоўчны час,
+    Daylight: Аргентынскі летні час
+  },
+  America/Costa_Rica: {
+    Generic: Паўночнаамэрыканскі цэнтральны час,
+    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
+    Daylight: Паўночнаамэрыканскі цэнтральны летні час
+  },
+  America/Creston: {
+    Generic: Паўночнаамэрыканскі горны час,
+    Standard: Паўночнаамэрыканскі горны змоўчны час,
+    Daylight: Паўночнаамэрыканскі горны летні час
+  },
+  America/Cuiaba: {
+    Generic: Амазонскі час,
+    Standard: Амазонскі змоўчны час,
+    Daylight: Амазонскі летні час
+  },
+  America/Curacao: {
+    Generic: Атлянтычны час,
+    Standard: Атлянтычны змоўчны час,
+    Daylight: Атлянтычны летні час
+  },
+  America/Danmarkshavn: {
+    Generic: Час па Грынвічы,
+    Standard: Час па Грынвічы,
+    Daylight: Час па Грынвічы
+  },
+  America/Dawson: {
+    Generic: Час Юкана,
+    Standard: Час Юкана,
+    Daylight: Час Юкана
+  },
+  America/Dawson_Creek: {
+    Generic: Паўночнаамэрыканскі горны час,
+    Standard: Паўночнаамэрыканскі горны змоўчны час,
+    Daylight: Паўночнаамэрыканскі горны летні час
+  },
+  America/Denver: {
+    Generic: Паўночнаамэрыканскі горны час,
+    Standard: Паўночнаамэрыканскі горны змоўчны час,
+    Daylight: Паўночнаамэрыканскі горны летні час
+  },
+  America/Detroit: {
+    Generic: Паўночнаамэрыканскі ўсходні час,
+    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
+    Daylight: Паўночнаамэрыканскі ўсходні летні час
+  },
+  America/Dominica: {
+    Generic: Атлянтычны час,
+    Standard: Атлянтычны змоўчны час,
+    Daylight: Атлянтычны летні час
+  },
+  America/Edmonton: {
+    Generic: Паўночнаамэрыканскі горны час,
+    Standard: Паўночнаамэрыканскі горны змоўчны час,
+    Daylight: Паўночнаамэрыканскі горны летні час
+  },
+  America/Eirunepe: {
+    Generic: час: Бразылія,
+    Standard: змоўчны час: Бразылія,
+    Daylight: летні час: Бразылія
+  },
+  America/El_Salvador: {
+    Generic: Паўночнаамэрыканскі цэнтральны час,
+    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
+    Daylight: Паўночнаамэрыканскі цэнтральны летні час
+  },
+  America/Ensenada: {
+    Generic: Ціхаакіянскі час,
+    Standard: Ціхаакіянскі змоўчны час,
+    Daylight: Ціхаакіянскі летні час
+  },
+  America/Fort_Nelson: {
+    Generic: Паўночнаамэрыканскі горны час,
+    Standard: Паўночнаамэрыканскі горны змоўчны час,
+    Daylight: Паўночнаамэрыканскі горны летні час
+  },
+  America/Fort_Wayne: {
+    Generic: Паўночнаамэрыканскі ўсходні час,
+    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
+    Daylight: Паўночнаамэрыканскі ўсходні летні час
+  },
+  America/Fortaleza: {
+    Generic: Бразыльскі час,
+    Standard: Бразыльскі змоўчны час,
+    Daylight: Бразыльскі летні час
+  },
+  America/Glace_Bay: {
+    Generic: Атлянтычны час,
+    Standard: Атлянтычны змоўчны час,
+    Daylight: Атлянтычны летні час
+  },
+  America/Godthab: {
+    Generic: Час Заходняй Грэнляндыі,
+    Standard: Змоўчны час Заходняй Грэнляндыі,
+    Daylight: Летні час Заходняй Грэнляндыі
+  },
+  America/Goose_Bay: {
+    Generic: Атлянтычны час,
+    Standard: Атлянтычны змоўчны час,
+    Daylight: Атлянтычны летні час
+  },
+  America/Grand_Turk: {
+    Generic: Паўночнаамэрыканскі ўсходні час,
+    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
+    Daylight: Паўночнаамэрыканскі ўсходні летні час
+  },
+  America/Grenada: {
+    Generic: Атлянтычны час,
+    Standard: Атлянтычны змоўчны час,
+    Daylight: Атлянтычны летні час
+  },
+  America/Guadeloupe: {
+    Generic: Атлянтычны час,
+    Standard: Атлянтычны змоўчны час,
+    Daylight: Атлянтычны летні час
+  },
+  America/Guatemala: {
+    Generic: Паўночнаамэрыканскі цэнтральны час,
+    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
+    Daylight: Паўночнаамэрыканскі цэнтральны летні час
+  },
+  America/Guayaquil: {
+    Generic: Эквадорскі час,
+    Standard: Эквадорскі час,
+    Daylight: Эквадорскі час
+  },
+  America/Guyana: {
+    Generic: Час Гаяны,
+    Standard: Час Гаяны,
+    Daylight: Час Гаяны
+  },
+  America/Halifax: {
+    Generic: Атлянтычны час,
+    Standard: Атлянтычны змоўчны час,
+    Daylight: Атлянтычны летні час
+  },
+  America/Havana: {
+    Generic: Час Кубы,
+    Standard: Змоўчны час Кубы,
+    Daylight: Летні час Кубы
+  },
+  America/Hermosillo: {
+    Generic: Мэксыканскі ціхаакіянскі час,
+    Standard: Мэксыканскі ціхаакіянскі стандатны час,
+    Daylight: Мэксыканскі ціхаакіянскі летні час
+  },
+  America/Indiana/Indianapolis: {
+    Generic: Паўночнаамэрыканскі ўсходні час,
+    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
+    Daylight: Паўночнаамэрыканскі ўсходні летні час
+  },
+  America/Indiana/Knox: {
+    Generic: Паўночнаамэрыканскі цэнтральны час,
+    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
+    Daylight: Паўночнаамэрыканскі цэнтральны летні час
+  },
+  America/Indiana/Marengo: {
+    Generic: Паўночнаамэрыканскі ўсходні час,
+    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
+    Daylight: Паўночнаамэрыканскі ўсходні летні час
+  },
+  America/Indiana/Petersburg: {
+    Generic: Паўночнаамэрыканскі ўсходні час,
+    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
+    Daylight: Паўночнаамэрыканскі ўсходні летні час
+  },
+  America/Indiana/Tell_City: {
+    Generic: Паўночнаамэрыканскі цэнтральны час,
+    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
+    Daylight: Паўночнаамэрыканскі цэнтральны летні час
+  },
+  America/Indiana/Vevay: {
+    Generic: Паўночнаамэрыканскі ўсходні час,
+    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
+    Daylight: Паўночнаамэрыканскі ўсходні летні час
+  },
+  America/Indiana/Vincennes: {
+    Generic: Паўночнаамэрыканскі ўсходні час,
+    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
+    Daylight: Паўночнаамэрыканскі ўсходні летні час
+  },
+  America/Indiana/Winamac: {
+    Generic: Паўночнаамэрыканскі ўсходні час,
+    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
+    Daylight: Паўночнаамэрыканскі ўсходні летні час
+  },
+  America/Indianapolis: {
+    Generic: Паўночнаамэрыканскі ўсходні час,
+    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
+    Daylight: Паўночнаамэрыканскі ўсходні летні час
+  },
+  America/Inuvik: {
+    Generic: Паўночнаамэрыканскі горны час,
+    Standard: Паўночнаамэрыканскі горны змоўчны час,
+    Daylight: Паўночнаамэрыканскі горны летні час
+  },
+  America/Iqaluit: {
+    Generic: Паўночнаамэрыканскі ўсходні час,
+    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
+    Daylight: Паўночнаамэрыканскі ўсходні летні час
+  },
+  America/Jamaica: {
+    Generic: Паўночнаамэрыканскі ўсходні час,
+    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
+    Daylight: Паўночнаамэрыканскі ўсходні летні час
+  },
+  America/Jujuy: {
+    Generic: Аргентынскі час,
+    Standard: Аргентынскі змоўчны час,
+    Daylight: Аргентынскі летні час
+  },
+  America/Juneau: {
+    Generic: Час Аляскі,
+    Standard: Змоўчны час Аляскі,
+    Daylight: Летні час Аляскі
+  },
+  America/Kentucky/Louisville: {
+    Generic: Паўночнаамэрыканскі ўсходні час,
+    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
+    Daylight: Паўночнаамэрыканскі ўсходні летні час
+  },
+  America/Kentucky/Monticello: {
+    Generic: Паўночнаамэрыканскі ўсходні час,
+    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
+    Daylight: Паўночнаамэрыканскі ўсходні летні час
+  },
+  America/Knox_IN: {
+    Generic: Паўночнаамэрыканскі цэнтральны час,
+    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
+    Daylight: Паўночнаамэрыканскі цэнтральны летні час
+  },
+  America/Kralendijk: {
+    Generic: Атлянтычны час,
+    Standard: Атлянтычны змоўчны час,
+    Daylight: Атлянтычны летні час
+  },
+  America/La_Paz: {
+    Generic: Балівійскі час,
+    Standard: Балівійскі час,
+    Daylight: Балівійскі час
+  },
+  America/Lima: {
+    Generic: Пэруанскі час,
+    Standard: Пэруанскі змоўчны час,
+    Daylight: Пэруанскі летні час
+  },
+  America/Los_Angeles: {
+    Generic: Ціхаакіянскі час,
+    Standard: Ціхаакіянскі змоўчны час,
+    Daylight: Ціхаакіянскі летні час
+  },
+  America/Louisville: {
+    Generic: Паўночнаамэрыканскі ўсходні час,
+    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
+    Daylight: Паўночнаамэрыканскі ўсходні летні час
+  },
+  America/Lower_Princes: {
+    Generic: Атлянтычны час,
+    Standard: Атлянтычны змоўчны час,
+    Daylight: Атлянтычны летні час
+  },
+  America/Maceio: {
+    Generic: Бразыльскі час,
+    Standard: Бразыльскі змоўчны час,
+    Daylight: Бразыльскі летні час
+  },
+  America/Managua: {
+    Generic: Паўночнаамэрыканскі цэнтральны час,
+    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
+    Daylight: Паўночнаамэрыканскі цэнтральны летні час
+  },
+  America/Manaus: {
+    Generic: Амазонскі час,
+    Standard: Амазонскі змоўчны час,
+    Daylight: Амазонскі летні час
+  },
+  America/Marigot: {
+    Generic: Атлянтычны час,
+    Standard: Атлянтычны змоўчны час,
+    Daylight: Атлянтычны летні час
+  },
+  America/Martinique: {
+    Generic: Атлянтычны час,
+    Standard: Атлянтычны змоўчны час,
+    Daylight: Атлянтычны летні час
+  },
+  America/Matamoros: {
+    Generic: Паўночнаамэрыканскі цэнтральны час,
+    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
+    Daylight: Паўночнаамэрыканскі цэнтральны летні час
+  },
+  America/Mazatlan: {
+    Generic: Мэксыканскі ціхаакіянскі час,
+    Standard: Мэксыканскі ціхаакіянскі стандатны час,
+    Daylight: Мэксыканскі ціхаакіянскі летні час
+  },
+  America/Mendoza: {
+    Generic: Аргентынскі час,
+    Standard: Аргентынскі змоўчны час,
+    Daylight: Аргентынскі летні час
+  },
+  America/Menominee: {
     Generic: Паўночнаамэрыканскі цэнтральны час,
     Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
     Daylight: Паўночнаамэрыканскі цэнтральны летні час
@@ -474,55 +794,70 @@
     Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
     Daylight: Паўночнаамэрыканскі цэнтральны летні час
   },
+  America/Metlakatla: {
+    Generic: Час Аляскі,
+    Standard: Змоўчны час Аляскі,
+    Daylight: Летні час Аляскі
+  },
+  America/Mexico_City: {
+    Generic: Паўночнаамэрыканскі цэнтральны час,
+    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
+    Daylight: Паўночнаамэрыканскі цэнтральны летні час
+  },
+  America/Miquelon: {
+    Generic: Час Сэн-П’еру і Мікелёну,
+    Standard: Змоўчны час Сэн-П’еру і Мікелёну,
+    Daylight: Змоўчны летні час Сэн-П’еру і Мікелёну
+  },
+  America/Moncton: {
+    Generic: Атлянтычны час,
+    Standard: Атлянтычны змоўчны час,
+    Daylight: Атлянтычны летні час
+  },
   America/Monterrey: {
     Generic: Паўночнаамэрыканскі цэнтральны час,
     Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
     Daylight: Паўночнаамэрыканскі цэнтральны летні час
   },
-  America/Chicago: {
-    Generic: Паўночнаамэрыканскі цэнтральны час,
-    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
-    Daylight: Паўночнаамэрыканскі цэнтральны летні час
+  America/Montevideo: {
+    Generic: Уругвайскі час,
+    Standard: Уругвайскі змоўчны час,
+    Daylight: Уругвайскі летні час
   },
-  America/Winnipeg: {
-    Generic: Паўночнаамэрыканскі цэнтральны час,
-    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
-    Daylight: Паўночнаамэрыканскі цэнтральны летні час
+  America/Montreal: {
+    Generic: Паўночнаамэрыканскі ўсходні час,
+    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
+    Daylight: Паўночнаамэрыканскі ўсходні летні час
   },
-  America/Rainy_River: {
-    Generic: Паўночнаамэрыканскі цэнтральны час,
-    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
-    Daylight: Паўночнаамэрыканскі цэнтральны летні час
+  America/Montserrat: {
+    Generic: Атлянтычны час,
+    Standard: Атлянтычны змоўчны час,
+    Daylight: Атлянтычны летні час
   },
-  America/Rankin_Inlet: {
-    Generic: Паўночнаамэрыканскі цэнтральны час,
-    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
-    Daylight: Паўночнаамэрыканскі цэнтральны летні час
+  America/Nassau: {
+    Generic: Паўночнаамэрыканскі ўсходні час,
+    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
+    Daylight: Паўночнаамэрыканскі ўсходні летні час
   },
-  America/Resolute: {
-    Generic: Паўночнаамэрыканскі цэнтральны час,
-    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
-    Daylight: Паўночнаамэрыканскі цэнтральны летні час
+  America/New_York: {
+    Generic: Паўночнаамэрыканскі ўсходні час,
+    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
+    Daylight: Паўночнаамэрыканскі ўсходні летні час
   },
-  America/Matamoros: {
-    Generic: Паўночнаамэрыканскі цэнтральны час,
-    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
-    Daylight: Паўночнаамэрыканскі цэнтральны летні час
+  America/Nipigon: {
+    Generic: Паўночнаамэрыканскі ўсходні час,
+    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
+    Daylight: Паўночнаамэрыканскі ўсходні летні час
   },
-  America/Indiana/Knox: {
-    Generic: Паўночнаамэрыканскі цэнтральны час,
-    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
-    Daylight: Паўночнаамэрыканскі цэнтральны летні час
+  America/Nome: {
+    Generic: Час Аляскі,
+    Standard: Змоўчны час Аляскі,
+    Daylight: Летні час Аляскі
   },
-  America/Indiana/Tell_City: {
-    Generic: Паўночнаамэрыканскі цэнтральны час,
-    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
-    Daylight: Паўночнаамэрыканскі цэнтральны летні час
-  },
-  America/Menominee: {
-    Generic: Паўночнаамэрыканскі цэнтральны час,
-    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
-    Daylight: Паўночнаамэрыканскі цэнтральны летні час
+  America/Noronha: {
+    Generic: Час Фэрнанду-ды-Наронья,
+    Standard: Змоўчны час Фэрнанду-ды-Наронья,
+    Daylight: Летні час Фэрнанду-ды-Наронья
   },
   America/North_Dakota/Beulah: {
     Generic: Паўночнаамэрыканскі цэнтральны час,
@@ -539,157 +874,17 @@
     Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
     Daylight: Паўночнаамэрыканскі цэнтральны летні час
   },
-  CST6CDT: {
-    Generic: Паўночнаамэрыканскі цэнтральны час,
-    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
-    Daylight: Паўночнаамэрыканскі цэнтральны летні час
+  America/Nuuk: {
+    Generic: Час Заходняй Грэнляндыі,
+    Standard: Змоўчны час Заходняй Грэнляндыі,
+    Daylight: Летні час Заходняй Грэнляндыі
   },
-  Pacific/Chatham: {
-    Generic: Час Чатэму,
-    Standard: Змоўчны час Чатэму,
-    Daylight: Летні час Чатэму
+  America/Ojinaga: {
+    Generic: Паўночнаамэрыканскі горны час,
+    Standard: Паўночнаамэрыканскі горны змоўчны час,
+    Daylight: Паўночнаамэрыканскі горны летні час
   },
-  Asia/Shanghai: {
-    Generic: Час Кітая,
-    Standard: Змоўчны час Кітаю,
-    Daylight: Летні час Кітаю
-  },
-  Asia/Hong_Kong: {
-    Generic: Час Ганконгу,
-    Standard: Змоўчны час Ганконга,
-    Daylight: Летні час Ганконгу
-  },
-  Asia/Macau: {
-    Generic: Час Кітая,
-    Standard: Змоўчны час Кітаю,
-    Daylight: Летні час Кітаю
-  },
-  America/Havana: {
-    Generic: Час Кубы,
-    Standard: Змоўчны час Кубы,
-    Daylight: Летні час Кубы
-  },
-  Etc/GMT+12: {
-    Generic: унівэрсальны каардынаваны час -12,
-    Standard: унівэрсальны каардынаваны час -12,
-    Daylight: унівэрсальны каардынаваны час -12
-  },
-  Africa/Nairobi: {
-    Generic: Усходнеафрыканскі час,
-    Standard: Усходнеафрыканскі час,
-    Daylight: Усходнеафрыканскі час
-  },
-  Antarctica/Syowa: {
-    Generic: Час станцыі Сёва,
-    Standard: Час станцыі Сёва,
-    Daylight: Час станцыі Сёва
-  },
-  Africa/Djibouti: {
-    Generic: Усходнеафрыканскі час,
-    Standard: Усходнеафрыканскі час,
-    Daylight: Усходнеафрыканскі час
-  },
-  Africa/Asmera: {
-    Generic: Усходнеафрыканскі час,
-    Standard: Усходнеафрыканскі час,
-    Daylight: Усходнеафрыканскі час
-  },
-  Africa/Addis_Ababa: {
-    Generic: Усходнеафрыканскі час,
-    Standard: Усходнеафрыканскі час,
-    Daylight: Усходнеафрыканскі час
-  },
-  Indian/Comoro: {
-    Generic: Усходнеафрыканскі час,
-    Standard: Усходнеафрыканскі час,
-    Daylight: Усходнеафрыканскі час
-  },
-  Indian/Antananarivo: {
-    Generic: Усходнеафрыканскі час,
-    Standard: Усходнеафрыканскі час,
-    Daylight: Усходнеафрыканскі час
-  },
-  Africa/Mogadishu: {
-    Generic: Усходнеафрыканскі час,
-    Standard: Усходнеафрыканскі час,
-    Daylight: Усходнеафрыканскі час
-  },
-  Africa/Dar_es_Salaam: {
-    Generic: Усходнеафрыканскі час,
-    Standard: Усходнеафрыканскі час,
-    Daylight: Усходнеафрыканскі час
-  },
-  Africa/Kampala: {
-    Generic: Усходнеафрыканскі час,
-    Standard: Усходнеафрыканскі час,
-    Daylight: Усходнеафрыканскі час
-  },
-  Indian/Mayotte: {
-    Generic: Усходнеафрыканскі час,
-    Standard: Усходнеафрыканскі час,
-    Daylight: Усходнеафрыканскі час
-  },
-  Etc/GMT-3: {
-    Generic: унівэрсальны каардынаваны час +3,
-    Standard: унівэрсальны каардынаваны час +3,
-    Daylight: унівэрсальны каардынаваны час +3
-  },
-  Australia/Brisbane: {
-    Generic: Час усходняй Аўстраліі,
-    Standard: Змоўчны час усходняй Аўстраліі,
-    Daylight: Летні час усходняй Аўстраліі
-  },
-  Australia/Lindeman: {
-    Generic: Час усходняй Аўстраліі,
-    Standard: Змоўчны час усходняй Аўстраліі,
-    Daylight: Летні час усходняй Аўстраліі
-  },
-  Europe/Chisinau: {
-    Generic: Усходнеэўрапейскі час,
-    Standard: Усходнеэўрапейскі змоўчны час,
-    Daylight: Усходнеэўрапейскі летні час
-  },
-  America/Sao_Paulo: {
-    Generic: Бразыльскі час,
-    Standard: Бразыльскі змоўчны час,
-    Daylight: Бразыльскі летні час
-  },
-  Pacific/Easter: {
-    Generic: Час вострава Пасхі,
-    Standard: Змоўчны час вострава Раства,
-    Daylight: Летні час вострава Раства
-  },
-  America/Cancun: {
-    Generic: Паўночнаамэрыканскі ўсходні час,
-    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
-    Daylight: Паўночнаамэрыканскі ўсходні летні час
-  },
-  America/New_York: {
-    Generic: Паўночнаамэрыканскі ўсходні час,
-    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
-    Daylight: Паўночнаамэрыканскі ўсходні летні час
-  },
-  America/Nassau: {
-    Generic: Паўночнаамэрыканскі ўсходні час,
-    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
-    Daylight: Паўночнаамэрыканскі ўсходні летні час
-  },
-  America/Toronto: {
-    Generic: Паўночнаамэрыканскі ўсходні час,
-    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
-    Daylight: Паўночнаамэрыканскі ўсходні летні час
-  },
-  America/Iqaluit: {
-    Generic: Паўночнаамэрыканскі ўсходні час,
-    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
-    Daylight: Паўночнаамэрыканскі ўсходні летні час
-  },
-  America/Montreal: {
-    Generic: Паўночнаамэрыканскі ўсходні час,
-    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
-    Daylight: Паўночнаамэрыканскі ўсходні летні час
-  },
-  America/Nipigon: {
+  America/Panama: {
     Generic: Паўночнаамэрыканскі ўсходні час,
     Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
     Daylight: Паўночнаамэрыканскі ўсходні летні час
@@ -699,800 +894,130 @@
     Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
     Daylight: Паўночнаамэрыканскі ўсходні летні час
   },
-  America/Thunder_Bay: {
-    Generic: Паўночнаамэрыканскі ўсходні час,
-    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
-    Daylight: Паўночнаамэрыканскі ўсходні летні час
+  America/Paramaribo: {
+    Generic: Час Сурынаму,
+    Standard: Час Сурынаму,
+    Daylight: Час Сурынаму
   },
-  America/Detroit: {
-    Generic: Паўночнаамэрыканскі ўсходні час,
-    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
-    Daylight: Паўночнаамэрыканскі ўсходні летні час
-  },
-  America/Indiana/Petersburg: {
-    Generic: Паўночнаамэрыканскі ўсходні час,
-    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
-    Daylight: Паўночнаамэрыканскі ўсходні летні час
-  },
-  America/Indiana/Vincennes: {
-    Generic: Паўночнаамэрыканскі ўсходні час,
-    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
-    Daylight: Паўночнаамэрыканскі ўсходні летні час
-  },
-  America/Indiana/Winamac: {
-    Generic: Паўночнаамэрыканскі ўсходні час,
-    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
-    Daylight: Паўночнаамэрыканскі ўсходні летні час
-  },
-  America/Kentucky/Monticello: {
-    Generic: Паўночнаамэрыканскі ўсходні час,
-    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
-    Daylight: Паўночнаамэрыканскі ўсходні летні час
-  },
-  America/Louisville: {
-    Generic: Паўночнаамэрыканскі ўсходні час,
-    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
-    Daylight: Паўночнаамэрыканскі ўсходні летні час
-  },
-  EST5EDT: {
-    Generic: Паўночнаамэрыканскі ўсходні час,
-    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
-    Daylight: Паўночнаамэрыканскі ўсходні летні час
-  },
-  Africa/Cairo: {
-    Generic: Усходнеэўрапейскі час,
-    Standard: Усходнеэўрапейскі змоўчны час,
-    Daylight: Усходнеэўрапейскі летні час
-  },
-  Asia/Yekaterinburg: {
-    Generic: час: Екацярынбург,
-    Standard: змоўчны час: Екацярынбург,
-    Daylight: летні час: Екацярынбург
-  },
-  Europe/Kiev: {
-    Generic: Усходнеэўрапейскі час,
-    Standard: Усходнеэўрапейскі змоўчны час,
-    Daylight: Усходнеэўрапейскі летні час
-  },
-  Europe/Mariehamn: {
-    Generic: Усходнеэўрапейскі час,
-    Standard: Усходнеэўрапейскі змоўчны час,
-    Daylight: Усходнеэўрапейскі летні час
-  },
-  Europe/Sofia: {
-    Generic: Усходнеэўрапейскі час,
-    Standard: Усходнеэўрапейскі змоўчны час,
-    Daylight: Усходнеэўрапейскі летні час
-  },
-  Europe/Tallinn: {
-    Generic: Усходнеэўрапейскі час,
-    Standard: Усходнеэўрапейскі змоўчны час,
-    Daylight: Усходнеэўрапейскі летні час
-  },
-  Europe/Helsinki: {
-    Generic: Усходнеэўрапейскі час,
-    Standard: Усходнеэўрапейскі змоўчны час,
-    Daylight: Усходнеэўрапейскі летні час
-  },
-  Europe/Vilnius: {
-    Generic: Усходнеэўрапейскі час,
-    Standard: Усходнеэўрапейскі змоўчны час,
-    Daylight: Усходнеэўрапейскі летні час
-  },
-  Europe/Riga: {
-    Generic: Усходнеэўрапейскі час,
-    Standard: Усходнеэўрапейскі змоўчны час,
-    Daylight: Усходнеэўрапейскі летні час
-  },
-  Europe/Uzhgorod: {
-    Generic: Усходнеэўрапейскі час,
-    Standard: Усходнеэўрапейскі змоўчны час,
-    Daylight: Усходнеэўрапейскі летні час
-  },
-  Europe/Zaporozhye: {
-    Generic: Усходнеэўрапейскі час,
-    Standard: Усходнеэўрапейскі змоўчны час,
-    Daylight: Усходнеэўрапейскі летні час
-  },
-  Pacific/Fiji: {
-    Generic: Час Фіджы,
-    Standard: Змоўчны час Фіджы,
-    Daylight: Летні час Фіджы
-  },
-  Europe/London: {
-    Generic: час: Вялікабрытанія,
-    Standard: Час па Грынвічы,
-    Daylight: Брытанскі летні час
-  },
-  Atlantic/Canary: {
-    Generic: Заходнеэўрапейскі час,
-    Standard: Заходнеэўрапейскі змоўчны час,
-    Daylight: Заходнеэўрапейскі летні час
-  },
-  Atlantic/Faeroe: {
-    Generic: Заходнеэўрапейскі час,
-    Standard: Заходнеэўрапейскі змоўчны час,
-    Daylight: Заходнеэўрапейскі летні час
-  },
-  Europe/Guernsey: {
-    Generic: Час па Грынвічы,
-    Standard: Час па Грынвічы,
-    Daylight: Час па Грынвічы
-  },
-  Europe/Dublin: {
-    Generic: час: Ірляндыя,
-    Standard: Час па Грынвічы,
-    Daylight: Ірляндзкі змоўчны час
-  },
-  Europe/Isle_of_Man: {
-    Generic: Час па Грынвічы,
-    Standard: Час па Грынвічы,
-    Daylight: Час па Грынвічы
-  },
-  Europe/Jersey: {
-    Generic: Час па Грынвічы,
-    Standard: Час па Грынвічы,
-    Daylight: Час па Грынвічы
-  },
-  Europe/Lisbon: {
-    Generic: Заходнеэўрапейскі час,
-    Standard: Заходнеэўрапейскі змоўчны час,
-    Daylight: Заходнеэўрапейскі летні час
-  },
-  Atlantic/Madeira: {
-    Generic: Заходнеэўрапейскі час,
-    Standard: Заходнеэўрапейскі змоўчны час,
-    Daylight: Заходнеэўрапейскі летні час
-  },
-  Europe/Bucharest: {
-    Generic: Усходнеэўрапейскі час,
-    Standard: Усходнеэўрапейскі змоўчны час,
-    Daylight: Усходнеэўрапейскі летні час
-  },
-  Asia/Nicosia: {
-    Generic: Усходнеэўрапейскі час,
-    Standard: Усходнеэўрапейскі змоўчны час,
-    Daylight: Усходнеэўрапейскі летні час
-  },
-  Asia/Famagusta: {
-    Generic: Усходнеэўрапейскі час,
-    Standard: Усходнеэўрапейскі змоўчны час,
-    Daylight: Усходнеэўрапейскі летні час
-  },
-  Europe/Athens: {
-    Generic: Усходнеэўрапейскі час,
-    Standard: Усходнеэўрапейскі змоўчны час,
-    Daylight: Усходнеэўрапейскі летні час
-  },
-  Asia/Tbilisi: {
-    Generic: Грузінскі час,
-    Standard: Грузінскі змоўчны час,
-    Daylight: Грузінскі летні час
-  },
-  America/Godthab: {
-    Generic: Час Заходняй Грэнляндыі,
-    Standard: Змоўчны час Заходняй Грэнляндыі,
-    Daylight: Летні час Заходняй Грэнляндыі
-  },
-  Atlantic/Reykjavik: {
-    Generic: Час па Грынвічы,
-    Standard: Час па Грынвічы,
-    Daylight: Час па Грынвічы
-  },
-  Atlantic/St_Helena: {
-    Generic: Час па Грынвічы,
-    Standard: Час па Грынвічы,
-    Daylight: Час па Грынвічы
-  },
-  Africa/Ouagadougou: {
-    Generic: Час па Грынвічы,
-    Standard: Час па Грынвічы,
-    Daylight: Час па Грынвічы
-  },
-  Africa/Abidjan: {
-    Generic: Час па Грынвічы,
-    Standard: Час па Грынвічы,
-    Daylight: Час па Грынвічы
-  },
-  Africa/Accra: {
-    Generic: Час па Грынвічы,
-    Standard: Час па Грынвічы,
-    Daylight: Час па Грынвічы
-  },
-  America/Danmarkshavn: {
-    Generic: Час па Грынвічы,
-    Standard: Час па Грынвічы,
-    Daylight: Час па Грынвічы
-  },
-  Africa/Banjul: {
-    Generic: Час па Грынвічы,
-    Standard: Час па Грынвічы,
-    Daylight: Час па Грынвічы
-  },
-  Africa/Conakry: {
-    Generic: Час па Грынвічы,
-    Standard: Час па Грынвічы,
-    Daylight: Час па Грынвічы
-  },
-  Africa/Bissau: {
-    Generic: Час па Грынвічы,
-    Standard: Час па Грынвічы,
-    Daylight: Час па Грынвічы
-  },
-  Africa/Monrovia: {
-    Generic: Час па Грынвічы,
-    Standard: Час па Грынвічы,
-    Daylight: Час па Грынвічы
-  },
-  Africa/Bamako: {
-    Generic: Час па Грынвічы,
-    Standard: Час па Грынвічы,
-    Daylight: Час па Грынвічы
-  },
-  Africa/Nouakchott: {
-    Generic: Час па Грынвічы,
-    Standard: Час па Грынвічы,
-    Daylight: Час па Грынвічы
-  },
-  Africa/Freetown: {
-    Generic: Час па Грынвічы,
-    Standard: Час па Грынвічы,
-    Daylight: Час па Грынвічы
-  },
-  Africa/Dakar: {
-    Generic: Час па Грынвічы,
-    Standard: Час па Грынвічы,
-    Daylight: Час па Грынвічы
-  },
-  Africa/Lome: {
-    Generic: Час па Грынвічы,
-    Standard: Час па Грынвічы,
-    Daylight: Час па Грынвічы
+  America/Phoenix: {
+    Generic: Паўночнаамэрыканскі горны час,
+    Standard: Паўночнаамэрыканскі горны змоўчны час,
+    Daylight: Паўночнаамэрыканскі горны летні час
   },
   America/Port-au-Prince: {
     Generic: Паўночнаамэрыканскі ўсходні час,
     Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
     Daylight: Паўночнаамэрыканскі ўсходні летні час
   },
-  Pacific/Honolulu: {
-    Generic: Гавайска-Алевуцкі час,
-    Standard: Гавайска-Алэвуцкі змоўчны час,
-    Daylight: Гавайска-Алевуцкі летні час
-  },
-  Pacific/Rarotonga: {
-    Generic: Час астравоў Кука,
-    Standard: Змоўчны час астравоў Кука,
-    Daylight: Паўлетні час астравоў Кука
-  },
-  Pacific/Tahiti: {
-    Generic: Час Таіці,
-    Standard: Час Таіці,
-    Daylight: Час Таіці
-  },
-  Pacific/Johnston: {
-    Generic: Гавайска-Алевуцкі час,
-    Standard: Гавайска-Алэвуцкі змоўчны час,
-    Daylight: Гавайска-Алевуцкі летні час
-  },
-  Etc/GMT+10: {
-    Generic: унівэрсальны каардынаваны час -10,
-    Standard: унівэрсальны каардынаваны час -10,
-    Daylight: унівэрсальны каардынаваны час -10
-  },
-  Asia/Calcutta: {
-    Generic: Час Індыі,
-    Standard: Час Індыі,
-    Daylight: Час Індыі
-  },
-  Asia/Tehran: {
-    Generic: Іранскі час,
-    Standard: Іранскі змоўчны час,
-    Daylight: Іранскі летні час
-  },
-  Asia/Jerusalem: {
-    Generic: Ізраільскі час,
-    Standard: Ізраільскі змоўчны час,
-    Daylight: Ізраільскі летні час
-  },
-  Asia/Amman: {
-    Generic: Усходнеэўрапейскі час,
-    Standard: Усходнеэўрапейскі змоўчны час,
-    Daylight: Усходнеэўрапейскі летні час
-  },
-  Europe/Kaliningrad: {
-    Generic: час: Калінінград,
-    Standard: змоўчны час: Калінінград,
-    Daylight: летні час: Калінінград
-  },
-  Asia/Seoul: {
-    Generic: Час Карэі,
-    Standard: Змоўчны час Карэі,
-    Daylight: Летні час Карэі
-  },
-  Africa/Tripoli: {
-    Generic: Усходнеэўрапейскі час,
-    Standard: Усходнеэўрапейскі змоўчны час,
-    Daylight: Усходнеэўрапейскі летні час
-  },
-  Pacific/Kiritimati: {
-    Generic: Час астравоў Лайн,
-    Standard: Час астравоў Лайн,
-    Daylight: Час астравоў Лайн
-  },
-  Etc/GMT-14: {
-    Generic: унівэрсальны каардынаваны час +14,
-    Standard: унівэрсальны каардынаваны час +14,
-    Daylight: унівэрсальны каардынаваны час +14
-  },
-  Australia/Lord_Howe: {
-    Generic: Час Лорд-Гаў,
-    Standard: Змоўчны час Лорд-Гаў,
-    Daylight: Летні час Лорд-Гаў
-  },
-  Asia/Magadan: {
-    Generic: час: Магадан,
-    Standard: змоўчны час: Магадан,
-    Daylight: летні час: Магадан
-  },
-  America/Punta_Arenas: {
-    Generic: Чылійскі час,
-    Standard: Чылійскі змоўчны час,
-    Daylight: Чылійскі летні час
-  },
-  Pacific/Marquesas: {
-    Generic: Час Маркіскіх астравоў,
-    Standard: Час Маркіскіх астравоў,
-    Daylight: Час Маркіскіх астравоў
-  },
-  Indian/Mauritius: {
-    Generic: Час Маўрыцыю,
-    Standard: Змоўчны час Маўрыцыю,
-    Daylight: Летні час Маўрыцыю
-  },
-  Indian/Reunion: {
-    Generic: Час Рэюньёна,
-    Standard: Час Рэюньёна,
-    Daylight: Час Рэюньёна
-  },
-  Indian/Mahe: {
-    Generic: Час Сэйшэлаў,
-    Standard: Час Сэйшэлаў,
-    Daylight: Час Сэйшэлаў
-  },
-  Asia/Beirut: {
-    Generic: Усходнеэўрапейскі час,
-    Standard: Усходнеэўрапейскі змоўчны час,
-    Daylight: Усходнеэўрапейскі летні час
-  },
-  America/Montevideo: {
-    Generic: Уругвайскі час,
-    Standard: Уругвайскі змоўчны час,
-    Daylight: Уругвайскі летні час
-  },
-  Africa/Casablanca: {
-    Generic: Заходнеэўрапейскі час,
-    Standard: Заходнеэўрапейскі змоўчны час,
-    Daylight: Заходнеэўрапейскі летні час
-  },
-  Africa/El_Aaiun: {
-    Generic: Заходнеэўрапейскі час,
-    Standard: Заходнеэўрапейскі змоўчны час,
-    Daylight: Заходнеэўрапейскі летні час
-  },
-  America/Chihuahua: {
-    Generic: Мэксыканскі ціхаакіянскі час,
-    Standard: Мэксыканскі ціхаакіянскі стандатны час,
-    Daylight: Мэксыканскі ціхаакіянскі летні час
-  },
-  America/Mazatlan: {
-    Generic: Мэксыканскі ціхаакіянскі час,
-    Standard: Мэксыканскі ціхаакіянскі стандатны час,
-    Daylight: Мэксыканскі ціхаакіянскі летні час
-  },
-  America/Denver: {
-    Generic: Паўночнаамэрыканскі горны час,
-    Standard: Паўночнаамэрыканскі горны змоўчны час,
-    Daylight: Паўночнаамэрыканскі горны летні час
-  },
-  America/Edmonton: {
-    Generic: Паўночнаамэрыканскі горны час,
-    Standard: Паўночнаамэрыканскі горны змоўчны час,
-    Daylight: Паўночнаамэрыканскі горны летні час
-  },
-  America/Cambridge_Bay: {
-    Generic: Паўночнаамэрыканскі горны час,
-    Standard: Паўночнаамэрыканскі горны змоўчны час,
-    Daylight: Паўночнаамэрыканскі горны летні час
-  },
-  America/Inuvik: {
-    Generic: Паўночнаамэрыканскі горны час,
-    Standard: Паўночнаамэрыканскі горны змоўчны час,
-    Daylight: Паўночнаамэрыканскі горны летні час
-  },
-  America/Yellowknife: {
-    Generic: Паўночнаамэрыканскі горны час,
-    Standard: Паўночнаамэрыканскі горны змоўчны час,
-    Daylight: Паўночнаамэрыканскі горны летні час
-  },
-  America/Ojinaga: {
-    Generic: Паўночнаамэрыканскі горны час,
-    Standard: Паўночнаамэрыканскі горны змоўчны час,
-    Daylight: Паўночнаамэрыканскі горны летні час
-  },
-  America/Boise: {
-    Generic: Паўночнаамэрыканскі горны час,
-    Standard: Паўночнаамэрыканскі горны змоўчны час,
-    Daylight: Паўночнаамэрыканскі горны летні час
-  },
-  MST7MDT: {
-    Generic: Паўночнаамэрыканскі горны час,
-    Standard: Паўночнаамэрыканскі горны змоўчны час,
-    Daylight: Паўночнаамэрыканскі горны летні час
-  },
-  Asia/Rangoon: {
-    Generic: Час М’янмы,
-    Standard: Час М’янмы,
-    Daylight: Час М’янмы
-  },
-  Indian/Cocos: {
-    Generic: Час Какосавых астравоў,
-    Standard: Час Какосавых астравоў,
-    Daylight: Час Какосавых астравоў
-  },
-  Asia/Novosibirsk: {
-    Generic: час: Новасыбірск,
-    Standard: змоўчны час: Новасыбірск,
-    Daylight: летні час: Новасыбірск
-  },
-  Africa/Windhoek: {
-    Generic: Цэнтральнаафрыканскі час,
-    Standard: Цэнтральнаафрыканскі час,
-    Daylight: Цэнтральнаафрыканскі час
-  },
-  Asia/Katmandu: {
-    Generic: Нэпальскі час,
-    Standard: Нэпальскі час,
-    Daylight: Нэпальскі час
-  },
-  Pacific/Auckland: {
-    Generic: Час Новай Зэляндыі,
-    Standard: Змоўчны час Новай Зэляндыі,
-    Daylight: Летні час Новай Зэляндыі
-  },
-  Antarctica/McMurdo: {
-    Generic: Час Новай Зэляндыі,
-    Standard: Змоўчны час Новай Зэляндыі,
-    Daylight: Летні час Новай Зэляндыі
-  },
-  America/St_Johns: {
-    Generic: Ньюфаўндлэндзкі час,
-    Standard: Ньюфаўндлэндзкі змоўчны час,
-    Daylight: Ньюфаўндлэндзкі летні час
-  },
-  Pacific/Norfolk: {
-    Generic: Час вострава Норфалк,
-    Standard: Змоўчны час вострава Норфалк,
-    Daylight: Летні час вострава Норфалк
-  },
-  Asia/Irkutsk: {
-    Generic: час: Іркуцк,
-    Standard: змоўчны час: Іркуцк,
-    Daylight: летні час: Іркуцк
-  },
-  Asia/Krasnoyarsk: {
-    Generic: час: Краснаярск,
-    Standard: змоўчны час: Краснаярск,
-    Daylight: летні час: Краснаярск
-  },
-  Asia/Novokuznetsk: {
-    Generic: час: Новакузьнецк,
-    Standard: змоўчны час: Новакузьнецк,
-    Daylight: летні час: Новакузьнецк
-  },
-  Asia/Pyongyang: {
-    Generic: Час Карэі,
-    Standard: Змоўчны час Карэі,
-    Daylight: Летні час Карэі
-  },
-  Asia/Omsk: {
-    Generic: час: Омск,
-    Standard: змоўчны час: Омск,
-    Daylight: летні час: Омск
-  },
-  America/Santiago: {
-    Generic: Чылійскі час,
-    Standard: Чылійскі змоўчны час,
-    Daylight: Чылійскі летні час
-  },
-  America/Tijuana: {
-    Generic: Ціхаакіянскі час,
-    Standard: Ціхаакіянскі змоўчны час,
-    Daylight: Ціхаакіянскі летні час
-  },
-  America/Santa_Isabel: {
-    Generic: Паўночна-заходні Мэксыканскі час,
-    Standard: Паўночна-заходні Мэксыканскі змоўчны час,
-    Daylight: Паўночна-заходні Мэксыканскі летні час
-  },
-  America/Los_Angeles: {
-    Generic: Ціхаакіянскі час,
-    Standard: Ціхаакіянскі змоўчны час,
-    Daylight: Ціхаакіянскі летні час
-  },
-  America/Vancouver: {
-    Generic: Ціхаакіянскі час,
-    Standard: Ціхаакіянскі змоўчны час,
-    Daylight: Ціхаакіянскі летні час
-  },
-  PST8PDT: {
-    Generic: Ціхаакіянскі час,
-    Standard: Ціхаакіянскі змоўчны час,
-    Daylight: Ціхаакіянскі летні час
-  },
-  Asia/Karachi: {
-    Generic: Пакістанскі час,
-    Standard: Пакістанскі змоўчны час,
-    Daylight: Пакістанскі летні час
-  },
-  America/Asuncion: {
-    Generic: Час Парагваю,
-    Standard: Змоўчны час Парагваю,
-    Daylight: Летні час Парагваю
-  },
-  Asia/Qyzylorda: {
-    Generic: Заходнеказахстанскі час,
-    Standard: Заходнеказахстанскі час,
-    Daylight: Заходнеказахстанскі час
-  },
-  Europe/Paris: {
-    Generic: Цэнтральнаэўрапейскі час,
-    Standard: Цэнтральнаэўрапейскі змоўчны час,
-    Daylight: Цэнтральнаэўрапейскі летні час
-  },
-  Europe/Brussels: {
-    Generic: Цэнтральнаэўрапейскі час,
-    Standard: Цэнтральнаэўрапейскі змоўчны час,
-    Daylight: Цэнтральнаэўрапейскі летні час
-  },
-  Europe/Copenhagen: {
-    Generic: Цэнтральнаэўрапейскі час,
-    Standard: Цэнтральнаэўрапейскі змоўчны час,
-    Daylight: Цэнтральнаэўрапейскі летні час
-  },
-  Africa/Ceuta: {
-    Generic: Цэнтральнаэўрапейскі час,
-    Standard: Цэнтральнаэўрапейскі змоўчны час,
-    Daylight: Цэнтральнаэўрапейскі летні час
-  },
-  Europe/Madrid: {
-    Generic: Цэнтральнаэўрапейскі час,
-    Standard: Цэнтральнаэўрапейскі змоўчны час,
-    Daylight: Цэнтральнаэўрапейскі летні час
-  },
-  Asia/Srednekolymsk: {
-    Generic: час: Сярэднекалымск,
-    Standard: змоўчны час: Сярэднекалымск,
-    Daylight: летні час: Сярэднекалымск
-  },
-  Asia/Kamchatka: {
-    Generic: час: Камчатка,
-    Standard: змоўчны час: Камчатка,
-    Daylight: летні час: Камчатка
-  },
-  Asia/Anadyr: {
-    Generic: час: Анадыр,
-    Standard: змоўчны час: Анадыр,
-    Daylight: летні час: Анадыр
-  },
-  Europe/Samara: {
-    Generic: час: Самара,
-    Standard: змоўчны час: Самара,
-    Daylight: летні час: Самара
-  },
-  Europe/Moscow: {
-    Generic: час: Масква,
-    Standard: змоўчны час: Масква,
-    Daylight: летні час: Масква
-  },
-  Europe/Kirov: {
-    Generic: час: Кіраў,
-    Standard: змоўчны час: Кіраў,
-    Daylight: летні час: Кіраў
-  },
-  Europe/Simferopol: {
-    Generic: Маскоўскі час,
-    Standard: Маскоўскі змоўчны час,
-    Daylight: Маскоўскі летні час
-  },
-  America/Cayenne: {
-    Generic: Час Францускай Гвіяны,
-    Standard: Час Францускай Гвіяны,
-    Daylight: Час Францускай Гвіяны
-  },
-  Antarctica/Rothera: {
-    Generic: Час станцыі Ротэра,
-    Standard: Час станцыі Ротэра,
-    Daylight: Час станцыі Ротэра
-  },
-  Antarctica/Palmer: {
-    Generic: Чылійскі час,
-    Standard: Чылійскі змоўчны час,
-    Daylight: Чылійскі летні час
-  },
-  America/Fortaleza: {
-    Generic: Бразыльскі час,
-    Standard: Бразыльскі змоўчны час,
-    Daylight: Бразыльскі летні час
-  },
-  America/Belem: {
-    Generic: Бразыльскі час,
-    Standard: Бразыльскі змоўчны час,
-    Daylight: Бразыльскі летні час
-  },
-  America/Maceio: {
-    Generic: Бразыльскі час,
-    Standard: Бразыльскі змоўчны час,
-    Daylight: Бразыльскі летні час
-  },
-  America/Recife: {
-    Generic: Бразыльскі час,
-    Standard: Бразыльскі змоўчны час,
-    Daylight: Бразыльскі летні час
-  },
-  America/Santarem: {
-    Generic: Бразыльскі час,
-    Standard: Бразыльскі змоўчны час,
-    Daylight: Бразыльскі летні час
-  },
-  Atlantic/Stanley: {
-    Generic: Час Фолклэндзкіх астравоў,
-    Standard: Змоўчны час Фолклэндзкіх астравоў,
-    Daylight: Летні час Фолклэндзкіх астравоў
-  },
-  America/Paramaribo: {
-    Generic: Час Сурынаму,
-    Standard: Час Сурынаму,
-    Daylight: Час Сурынаму
-  },
-  Etc/GMT+3: {
-    Generic: унівэрсальны каардынаваны час -3,
-    Standard: унівэрсальны каардынаваны час -3,
-    Daylight: унівэрсальны каардынаваны час -3
-  },
-  America/Bogota: {
-    Generic: Калюмбійскі час,
-    Standard: Калюмбійскі змоўчны час,
-    Daylight: Калюмбійскі летні час
-  },
-  America/Rio_Branco: {
+  America/Port_of_Spain: {
+    Generic: Атлянтычны час,
+    Standard: Атлянтычны змоўчны час,
+    Daylight: Атлянтычны летні час
+  },
+  America/Porto_Acre: {
     Generic: час: Бразылія,
     Standard: змоўчны час: Бразылія,
     Daylight: летні час: Бразылія
-  },
-  America/Eirunepe: {
-    Generic: час: Бразылія,
-    Standard: змоўчны час: Бразылія,
-    Daylight: летні час: Бразылія
-  },
-  America/Coral_Harbour: {
-    Generic: Паўночнаамэрыканскі ўсходні час,
-    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
-    Daylight: Паўночнаамэрыканскі ўсходні летні час
-  },
-  America/Guayaquil: {
-    Generic: Эквадорскі час,
-    Standard: Эквадорскі час,
-    Daylight: Эквадорскі час
-  },
-  America/Jamaica: {
-    Generic: Паўночнаамэрыканскі ўсходні час,
-    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
-    Daylight: Паўночнаамэрыканскі ўсходні летні час
-  },
-  America/Cayman: {
-    Generic: Паўночнаамэрыканскі ўсходні час,
-    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
-    Daylight: Паўночнаамэрыканскі ўсходні летні час
-  },
-  America/Panama: {
-    Generic: Паўночнаамэрыканскі ўсходні час,
-    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
-    Daylight: Паўночнаамэрыканскі ўсходні летні час
-  },
-  America/Lima: {
-    Generic: Пэруанскі час,
-    Standard: Пэруанскі змоўчны час,
-    Daylight: Пэруанскі летні час
-  },
-  Etc/GMT+5: {
-    Generic: унівэрсальны каардынаваны час -5,
-    Standard: унівэрсальны каардынаваны час -5,
-    Daylight: унівэрсальны каардынаваны час -5
-  },
-  America/La_Paz: {
-    Generic: Балівійскі час,
-    Standard: Балівійскі час,
-    Daylight: Балівійскі час
-  },
-  America/Antigua: {
-    Generic: Атлянтычны час,
-    Standard: Атлянтычны змоўчны час,
-    Daylight: Атлянтычны летні час
-  },
-  America/Anguilla: {
-    Generic: Атлянтычны час,
-    Standard: Атлянтычны змоўчны час,
-    Daylight: Атлянтычны летні час
-  },
-  America/Aruba: {
-    Generic: Атлянтычны час,
-    Standard: Атлянтычны змоўчны час,
-    Daylight: Атлянтычны летні час
-  },
-  America/Barbados: {
-    Generic: Атлянтычны час,
-    Standard: Атлянтычны змоўчны час,
-    Daylight: Атлянтычны летні час
-  },
-  America/St_Barthelemy: {
-    Generic: Атлянтычны час,
-    Standard: Атлянтычны змоўчны час,
-    Daylight: Атлянтычны летні час
-  },
-  America/Kralendijk: {
-    Generic: Атлянтычны час,
-    Standard: Атлянтычны змоўчны час,
-    Daylight: Атлянтычны летні час
-  },
-  America/Manaus: {
-    Generic: Амазонскі час,
-    Standard: Амазонскі змоўчны час,
-    Daylight: Амазонскі летні час
-  },
-  America/Boa_Vista: {
-    Generic: Амазонскі час,
-    Standard: Амазонскі змоўчны час,
-    Daylight: Амазонскі летні час
   },
   America/Porto_Velho: {
     Generic: Амазонскі час,
     Standard: Амазонскі змоўчны час,
     Daylight: Амазонскі летні час
   },
-  America/Blanc-Sablon: {
+  America/Puerto_Rico: {
     Generic: Атлянтычны час,
     Standard: Атлянтычны змоўчны час,
     Daylight: Атлянтычны летні час
   },
-  America/Curacao: {
-    Generic: Атлянтычны час,
-    Standard: Атлянтычны змоўчны час,
-    Daylight: Атлянтычны летні час
+  America/Punta_Arenas: {
+    Generic: Чылійскі час,
+    Standard: Чылійскі змоўчны час,
+    Daylight: Чылійскі летні час
   },
-  America/Dominica: {
-    Generic: Атлянтычны час,
-    Standard: Атлянтычны змоўчны час,
-    Daylight: Атлянтычны летні час
+  America/Rainy_River: {
+    Generic: Паўночнаамэрыканскі цэнтральны час,
+    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
+    Daylight: Паўночнаамэрыканскі цэнтральны летні час
+  },
+  America/Rankin_Inlet: {
+    Generic: Паўночнаамэрыканскі цэнтральны час,
+    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
+    Daylight: Паўночнаамэрыканскі цэнтральны летні час
+  },
+  America/Recife: {
+    Generic: Бразыльскі час,
+    Standard: Бразыльскі змоўчны час,
+    Daylight: Бразыльскі летні час
+  },
+  America/Regina: {
+    Generic: Паўночнаамэрыканскі цэнтральны час,
+    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
+    Daylight: Паўночнаамэрыканскі цэнтральны летні час
+  },
+  America/Resolute: {
+    Generic: Паўночнаамэрыканскі цэнтральны час,
+    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
+    Daylight: Паўночнаамэрыканскі цэнтральны летні час
+  },
+  America/Rio_Branco: {
+    Generic: час: Бразылія,
+    Standard: змоўчны час: Бразылія,
+    Daylight: летні час: Бразылія
+  },
+  America/Rosario: {
+    Generic: Аргентынскі час,
+    Standard: Аргентынскі змоўчны час,
+    Daylight: Аргентынскі летні час
+  },
+  America/Santa_Isabel: {
+    Generic: Паўночна-заходні Мэксыканскі час,
+    Standard: Паўночна-заходні Мэксыканскі змоўчны час,
+    Daylight: Паўночна-заходні Мэксыканскі летні час
+  },
+  America/Santarem: {
+    Generic: Бразыльскі час,
+    Standard: Бразыльскі змоўчны час,
+    Daylight: Бразыльскі летні час
+  },
+  America/Santiago: {
+    Generic: Чылійскі час,
+    Standard: Чылійскі змоўчны час,
+    Daylight: Чылійскі летні час
   },
   America/Santo_Domingo: {
     Generic: Атлянтычны час,
     Standard: Атлянтычны змоўчны час,
     Daylight: Атлянтычны летні час
   },
-  America/Grenada: {
+  America/Sao_Paulo: {
+    Generic: Бразыльскі час,
+    Standard: Бразыльскі змоўчны час,
+    Daylight: Бразыльскі летні час
+  },
+  America/Scoresbysund: {
+    Generic: Час Усходняй Грэнляндыі,
+    Standard: Змоўчны час Усходняй Грэнляндыі,
+    Daylight: Летні час Усходняй Грэнляндыі
+  },
+  America/Shiprock: {
+    Generic: Паўночнаамэрыканскі горны час,
+    Standard: Паўночнаамэрыканскі горны змоўчны час,
+    Daylight: Паўночнаамэрыканскі горны летні час
+  },
+  America/Sitka: {
+    Generic: Час Аляскі,
+    Standard: Змоўчны час Аляскі,
+    Daylight: Летні час Аляскі
+  },
+  America/St_Barthelemy: {
     Generic: Атлянтычны час,
     Standard: Атлянтычны змоўчны час,
     Daylight: Атлянтычны летні час
   },
-  America/Guadeloupe: {
-    Generic: Атлянтычны час,
-    Standard: Атлянтычны змоўчны час,
-    Daylight: Атлянтычны летні час
-  },
-  America/Guyana: {
-    Generic: Час Гаяны,
-    Standard: Час Гаяны,
-    Daylight: Час Гаяны
+  America/St_Johns: {
+    Generic: Ньюфаўндлэндзкі час,
+    Standard: Ньюфаўндлэндзкі змоўчны час,
+    Daylight: Ньюфаўндлэндзкі летні час
   },
   America/St_Kitts: {
     Generic: Атлянтычны час,
@@ -1504,32 +1029,7 @@
     Standard: Атлянтычны змоўчны час,
     Daylight: Атлянтычны летні час
   },
-  America/Marigot: {
-    Generic: Атлянтычны час,
-    Standard: Атлянтычны змоўчны час,
-    Daylight: Атлянтычны летні час
-  },
-  America/Martinique: {
-    Generic: Атлянтычны час,
-    Standard: Атлянтычны змоўчны час,
-    Daylight: Атлянтычны летні час
-  },
-  America/Montserrat: {
-    Generic: Атлянтычны час,
-    Standard: Атлянтычны змоўчны час,
-    Daylight: Атлянтычны летні час
-  },
-  America/Puerto_Rico: {
-    Generic: Атлянтычны час,
-    Standard: Атлянтычны змоўчны час,
-    Daylight: Атлянтычны летні час
-  },
-  America/Lower_Princes: {
-    Generic: Атлянтычны час,
-    Standard: Атлянтычны змоўчны час,
-    Daylight: Атлянтычны летні час
-  },
-  America/Port_of_Spain: {
+  America/St_Thomas: {
     Generic: Атлянтычны час,
     Standard: Атлянтычны змоўчны час,
     Daylight: Атлянтычны летні час
@@ -1539,655 +1039,155 @@
     Standard: Атлянтычны змоўчны час,
     Daylight: Атлянтычны летні час
   },
+  America/Swift_Current: {
+    Generic: Паўночнаамэрыканскі цэнтральны час,
+    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
+    Daylight: Паўночнаамэрыканскі цэнтральны летні час
+  },
+  America/Tegucigalpa: {
+    Generic: Паўночнаамэрыканскі цэнтральны час,
+    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
+    Daylight: Паўночнаамэрыканскі цэнтральны летні час
+  },
+  America/Thule: {
+    Generic: Атлянтычны час,
+    Standard: Атлянтычны змоўчны час,
+    Daylight: Атлянтычны летні час
+  },
+  America/Thunder_Bay: {
+    Generic: Паўночнаамэрыканскі ўсходні час,
+    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
+    Daylight: Паўночнаамэрыканскі ўсходні летні час
+  },
+  America/Tijuana: {
+    Generic: Ціхаакіянскі час,
+    Standard: Ціхаакіянскі змоўчны час,
+    Daylight: Ціхаакіянскі летні час
+  },
+  America/Toronto: {
+    Generic: Паўночнаамэрыканскі ўсходні час,
+    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
+    Daylight: Паўночнаамэрыканскі ўсходні летні час
+  },
   America/Tortola: {
     Generic: Атлянтычны час,
     Standard: Атлянтычны змоўчны час,
     Daylight: Атлянтычны летні час
   },
-  America/St_Thomas: {
+  America/Vancouver: {
+    Generic: Ціхаакіянскі час,
+    Standard: Ціхаакіянскі змоўчны час,
+    Daylight: Ціхаакіянскі летні час
+  },
+  America/Virgin: {
     Generic: Атлянтычны час,
     Standard: Атлянтычны змоўчны час,
     Daylight: Атлянтычны летні час
   },
-  Etc/GMT+4: {
-    Generic: унівэрсальны каардынаваны час -4,
-    Standard: унівэрсальны каардынаваны час -4,
-    Daylight: унівэрсальны каардынаваны час -4
+  America/Whitehorse: {
+    Generic: Час Юкана,
+    Standard: Час Юкана,
+    Daylight: Час Юкана
   },
-  Asia/Bangkok: {
-    Generic: Індакітайскі час,
-    Standard: Індакітайскі час,
-    Daylight: Індакітайскі час
+  America/Winnipeg: {
+    Generic: Паўночнаамэрыканскі цэнтральны час,
+    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
+    Daylight: Паўночнаамэрыканскі цэнтральны летні час
+  },
+  America/Yakutat: {
+    Generic: Час Аляскі,
+    Standard: Змоўчны час Аляскі,
+    Daylight: Летні час Аляскі
+  },
+  America/Yellowknife: {
+    Generic: Паўночнаамэрыканскі горны час,
+    Standard: Паўночнаамэрыканскі горны змоўчны час,
+    Daylight: Паўночнаамэрыканскі горны летні час
+  },
+  Antarctica/Casey: {
+    Generic: час: Антарктыка,
+    Standard: змоўчны час: Антарктыка,
+    Daylight: летні час: Антарктыка
   },
   Antarctica/Davis: {
     Generic: Час станцыі Дэйвіс,
     Standard: Час станцыі Дэйвіс,
     Daylight: Час станцыі Дэйвіс
   },
-  Indian/Christmas: {
-    Generic: Час вострава Раства,
-    Standard: Час вострава Раства,
-    Daylight: Час вострава Раства
-  },
-  Asia/Jakarta: {
-    Generic: Заходнеінданэзійскі час,
-    Standard: Заходнеінданэзійскі час,
-    Daylight: Заходнеінданэзійскі час
-  },
-  Asia/Pontianak: {
-    Generic: Заходнеінданэзійскі час,
-    Standard: Заходнеінданэзійскі час,
-    Daylight: Заходнеінданэзійскі час
-  },
-  Asia/Phnom_Penh: {
-    Generic: Індакітайскі час,
-    Standard: Індакітайскі час,
-    Daylight: Індакітайскі час
-  },
-  Asia/Vientiane: {
-    Generic: Індакітайскі час,
-    Standard: Індакітайскі час,
-    Daylight: Індакітайскі час
-  },
-  Asia/Saigon: {
-    Generic: Індакітайскі час,
-    Standard: Індакітайскі час,
-    Daylight: Індакітайскі час
-  },
-  Etc/GMT-7: {
-    Generic: унівэрсальны каардынаваны час +7,
-    Standard: унівэрсальны каардынаваны час +7,
-    Daylight: унівэрсальны каардынаваны час +7
-  },
-  America/Miquelon: {
-    Generic: Час Сэн-П’еру і Мікелёну,
-    Standard: Змоўчны час Сэн-П’еру і Мікелёну,
-    Daylight: Змоўчны летні час Сэн-П’еру і Мікелёну
-  },
-  Asia/Sakhalin: {
-    Generic: час: Сахалін,
-    Standard: змоўчны час: Сахалін,
-    Daylight: летні час: Сахалін
-  },
-  Pacific/Apia: {
-    Generic: Час Апіі,
-    Standard: Змоўчны час Апіі,
-    Daylight: Летні час Апіі
-  },
-  Africa/Sao_Tome: {
-    Generic: Час па Грынвічы,
-    Standard: Час па Грынвічы,
-    Daylight: Час па Грынвічы
-  },
-  Europe/Saratov: {
-    Generic: час: Саратаў,
-    Standard: змоўчны час: Саратаў,
-    Daylight: летні час: Саратаў
-  },
-  Asia/Singapore: {
-    Generic: Сынгапурскі час,
-    Standard: Сынгапурскі час,
-    Daylight: Сынгапурскі час
-  },
-  Asia/Brunei: {
-    Generic: Час Брунэю,
-    Standard: Час Брунэю,
-    Daylight: Час Брунэю
-  },
-  Asia/Makassar: {
-    Generic: Цэнтральнаінданэзійскі час,
-    Standard: Цэнтральнаінданэзійскі час,
-    Daylight: Цэнтральнаінданэзійскі час
-  },
-  Asia/Kuala_Lumpur: {
-    Generic: Час Малайзіі,
-    Standard: Час Малайзіі,
-    Daylight: Час Малайзіі
-  },
-  Asia/Kuching: {
-    Generic: Час Малайзіі,
-    Standard: Час Малайзіі,
-    Daylight: Час Малайзіі
-  },
-  Asia/Manila: {
-    Generic: Філіпінскі час,
-    Standard: Філіпінскі змоўчны час,
-    Daylight: Філіпінскі летні час
-  },
-  Etc/GMT-8: {
-    Generic: унівэрсальны каардынаваны час +8,
-    Standard: унівэрсальны каардынаваны час +8,
-    Daylight: унівэрсальны каардынаваны час +8
-  },
-  Africa/Johannesburg: {
-    Generic: Паўднёваафрыканскі час,
-    Standard: Паўднёваафрыканскі час,
-    Daylight: Паўднёваафрыканскі час
-  },
-  Africa/Bujumbura: {
-    Generic: Цэнтральнаафрыканскі час,
-    Standard: Цэнтральнаафрыканскі час,
-    Daylight: Цэнтральнаафрыканскі час
-  },
-  Africa/Gaborone: {
-    Generic: Цэнтральнаафрыканскі час,
-    Standard: Цэнтральнаафрыканскі час,
-    Daylight: Цэнтральнаафрыканскі час
-  },
-  Africa/Lubumbashi: {
-    Generic: Цэнтральнаафрыканскі час,
-    Standard: Цэнтральнаафрыканскі час,
-    Daylight: Цэнтральнаафрыканскі час
-  },
-  Africa/Maseru: {
-    Generic: Паўднёваафрыканскі час,
-    Standard: Паўднёваафрыканскі час,
-    Daylight: Паўднёваафрыканскі час
-  },
-  Africa/Blantyre: {
-    Generic: Цэнтральнаафрыканскі час,
-    Standard: Цэнтральнаафрыканскі час,
-    Daylight: Цэнтральнаафрыканскі час
-  },
-  Africa/Maputo: {
-    Generic: Цэнтральнаафрыканскі час,
-    Standard: Цэнтральнаафрыканскі час,
-    Daylight: Цэнтральнаафрыканскі час
-  },
-  Africa/Kigali: {
-    Generic: Цэнтральнаафрыканскі час,
-    Standard: Цэнтральнаафрыканскі час,
-    Daylight: Цэнтральнаафрыканскі час
-  },
-  Africa/Mbabane: {
-    Generic: Паўднёваафрыканскі час,
-    Standard: Паўднёваафрыканскі час,
-    Daylight: Паўднёваафрыканскі час
-  },
-  Africa/Lusaka: {
-    Generic: Цэнтральнаафрыканскі час,
-    Standard: Цэнтральнаафрыканскі час,
-    Daylight: Цэнтральнаафрыканскі час
-  },
-  Africa/Harare: {
-    Generic: Цэнтральнаафрыканскі час,
-    Standard: Цэнтральнаафрыканскі час,
-    Daylight: Цэнтральнаафрыканскі час
-  },
-  Etc/GMT-2: {
-    Generic: унівэрсальны каардынаваны час +2,
-    Standard: унівэрсальны каардынаваны час +2,
-    Daylight: унівэрсальны каардынаваны час +2
-  },
-  Africa/Juba: {
-    Generic: Цэнтральнаафрыканскі час,
-    Standard: Цэнтральнаафрыканскі час,
-    Daylight: Цэнтральнаафрыканскі час
-  },
-  Asia/Colombo: {
-    Generic: Час Індыі,
-    Standard: Час Індыі,
-    Daylight: Час Індыі
-  },
-  Africa/Khartoum: {
-    Generic: Цэнтральнаафрыканскі час,
-    Standard: Цэнтральнаафрыканскі час,
-    Daylight: Цэнтральнаафрыканскі час
-  },
-  Asia/Damascus: {
-    Generic: Усходнеэўрапейскі час,
-    Standard: Усходнеэўрапейскі змоўчны час,
-    Daylight: Усходнеэўрапейскі летні час
-  },
-  Asia/Taipei: {
-    Generic: Час Тайбэю,
-    Standard: Змоўчны час Тайбэя,
-    Daylight: Летні час Тайбэю
-  },
-  Australia/Hobart: {
-    Generic: Час усходняй Аўстраліі,
-    Standard: Змоўчны час усходняй Аўстраліі,
-    Daylight: Летні час усходняй Аўстраліі
-  },
-  Australia/Currie: {
-    Generic: Час усходняй Аўстраліі,
-    Standard: Змоўчны час усходняй Аўстраліі,
-    Daylight: Летні час усходняй Аўстраліі
+  Antarctica/DumontDUrville: {
+    Generic: Час станцыі Дзюмон-Дзюрвіль,
+    Standard: Час станцыі Дзюмон-Дзюрвіль,
+    Daylight: Час станцыі Дзюмон-Дзюрвіль
   },
   Antarctica/Macquarie: {
     Generic: Час усходняй Аўстраліі,
     Standard: Змоўчны час усходняй Аўстраліі,
     Daylight: Летні час усходняй Аўстраліі
   },
-  America/Araguaina: {
-    Generic: Бразыльскі час,
-    Standard: Бразыльскі змоўчны час,
-    Daylight: Бразыльскі летні час
+  Antarctica/Mawson: {
+    Generic: Час станцыі Мосан,
+    Standard: Час станцыі Мосан,
+    Daylight: Час станцыі Мосан
   },
-  Asia/Tokyo: {
-    Generic: Час Японіі,
-    Standard: Змоўчны час Японіі,
-    Daylight: Летні час Японіі
+  Antarctica/McMurdo: {
+    Generic: Час Новай Зэляндыі,
+    Standard: Змоўчны час Новай Зэляндыі,
+    Daylight: Летні час Новай Зэляндыі
   },
-  Asia/Jayapura: {
-    Generic: Усходнеінданэзійскі час,
-    Standard: Усходнеінданэзійскі час,
-    Daylight: Усходнеінданэзійскі час
+  Antarctica/Palmer: {
+    Generic: Чылійскі час,
+    Standard: Чылійскі змоўчны час,
+    Daylight: Чылійскі летні час
   },
-  Pacific/Palau: {
-    Generic: Час Палаў,
-    Standard: Час Палаў,
-    Daylight: Час Палаў
+  Antarctica/Rothera: {
+    Generic: Час станцыі Ротэра,
+    Standard: Час станцыі Ротэра,
+    Daylight: Час станцыі Ротэра
   },
-  Asia/Dili: {
-    Generic: Час Усходняга Тымору,
-    Standard: Час Усходняга Тымору,
-    Daylight: Час Усходняга Тымору
+  Antarctica/South_Pole: {
+    Generic: Час Новай Зэляндыі,
+    Standard: Змоўчны час Новай Зэляндыі,
+    Daylight: Летні час Новай Зэляндыі
   },
-  Etc/GMT-9: {
-    Generic: унівэрсальны каардынаваны час +9,
-    Standard: унівэрсальны каардынаваны час +9,
-    Daylight: унівэрсальны каардынаваны час +9
+  Antarctica/Syowa: {
+    Generic: Час станцыі Сёва,
+    Standard: Час станцыі Сёва,
+    Daylight: Час станцыі Сёва
   },
-  Asia/Tomsk: {
-    Generic: час: Томск,
-    Standard: змоўчны час: Томск,
-    Daylight: летні час: Томск
-  },
-  Pacific/Tongatapu: {
-    Generic: Час Тонга,
-    Standard: Змоўчны час Тонга,
-    Daylight: Летні час Тонга
-  },
-  Asia/Chita: {
-    Generic: час: Чыта,
-    Standard: змоўчны час: Чыта,
-    Daylight: летні час: Чыта
-  },
-  Europe/Istanbul: {
-    Generic: час: Турэччына,
-    Standard: змоўчны час: Турэччына,
-    Daylight: летні час: Турэччына
-  },
-  America/Grand_Turk: {
-    Generic: Паўночнаамэрыканскі ўсходні час,
-    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
-    Daylight: Паўночнаамэрыканскі ўсходні летні час
-  },
-  America/Indianapolis: {
-    Generic: Паўночнаамэрыканскі ўсходні час,
-    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
-    Daylight: Паўночнаамэрыканскі ўсходні летні час
-  },
-  America/Indiana/Marengo: {
-    Generic: Паўночнаамэрыканскі ўсходні час,
-    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
-    Daylight: Паўночнаамэрыканскі ўсходні летні час
-  },
-  America/Indiana/Vevay: {
-    Generic: Паўночнаамэрыканскі ўсходні час,
-    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
-    Daylight: Паўночнаамэрыканскі ўсходні летні час
-  },
-  America/Phoenix: {
-    Generic: Паўночнаамэрыканскі горны час,
-    Standard: Паўночнаамэрыканскі горны змоўчны час,
-    Daylight: Паўночнаамэрыканскі горны летні час
-  },
-  America/Creston: {
-    Generic: Паўночнаамэрыканскі горны час,
-    Standard: Паўночнаамэрыканскі горны змоўчны час,
-    Daylight: Паўночнаамэрыканскі горны летні час
-  },
-  America/Dawson_Creek: {
-    Generic: Паўночнаамэрыканскі горны час,
-    Standard: Паўночнаамэрыканскі горны змоўчны час,
-    Daylight: Паўночнаамэрыканскі горны летні час
-  },
-  America/Fort_Nelson: {
-    Generic: Паўночнаамэрыканскі горны час,
-    Standard: Паўночнаамэрыканскі горны змоўчны час,
-    Daylight: Паўночнаамэрыканскі горны летні час
-  },
-  America/Hermosillo: {
-    Generic: Мэксыканскі ціхаакіянскі час,
-    Standard: Мэксыканскі ціхаакіянскі стандатны час,
-    Daylight: Мэксыканскі ціхаакіянскі летні час
-  },
-  Etc/GMT+7: {
-    Generic: унівэрсальны каардынаваны час -7,
-    Standard: унівэрсальны каардынаваны час -7,
-    Daylight: унівэрсальны каардынаваны час -7
-  },
-  Etc/GMT-12: {
-    Generic: унівэрсальны каардынаваны час +12,
-    Standard: унівэрсальны каардынаваны час +12,
-    Daylight: унівэрсальны каардынаваны час +12
-  },
-  Pacific/Tarawa: {
-    Generic: Час астравоў Гілбэрта,
-    Standard: Час астравоў Гілбэрта,
-    Daylight: Час астравоў Гілбэрта
-  },
-  Pacific/Majuro: {
-    Generic: Час Маршалавых астравоў,
-    Standard: Час Маршалавых астравоў,
-    Daylight: Час Маршалавых астравоў
-  },
-  Pacific/Kwajalein: {
-    Generic: Час Маршалавых астравоў,
-    Standard: Час Маршалавых астравоў,
-    Daylight: Час Маршалавых астравоў
-  },
-  Pacific/Nauru: {
-    Generic: Час Наўру,
-    Standard: Час Наўру,
-    Daylight: Час Наўру
-  },
-  Pacific/Funafuti: {
-    Generic: Час Тувалу,
-    Standard: Час Тувалу,
-    Daylight: Час Тувалу
-  },
-  Pacific/Wake: {
-    Generic: Час вострава Ўэйк,
-    Standard: Час вострава Ўэйк,
-    Daylight: Час вострава Ўэйк
-  },
-  Pacific/Wallis: {
-    Generic: Час астравоў Ўоліс і Футуна,
-    Standard: Час астравоў Ўоліс і Футуна,
-    Daylight: Час астравоў Ўоліс і Футуна
-  },
-  Etc/GMT-13: {
-    Generic: унівэрсальны каардынаваны час +13,
-    Standard: унівэрсальны каардынаваны час +13,
-    Daylight: унівэрсальны каардынаваны час +13
-  },
-  Pacific/Enderbury: {
-    Generic: Час астравоў Фінікс,
-    Standard: Час астравоў Фінікс,
-    Daylight: Час астравоў Фінікс
-  },
-  Pacific/Fakaofo: {
-    Generic: Час Такелаў,
-    Standard: Час Такелаў,
-    Daylight: Час Такелаў
-  },
-  Etc/UTC: {
-    Generic: унівэрсальны каардынаваны час,
-    Standard: унівэрсальны каардынаваны час,
-    Daylight: унівэрсальны каардынаваны час
-  },
-  Etc/GMT: {
+  Antarctica/Troll: {
     Generic: Час па Грынвічы,
     Standard: Час па Грынвічы,
     Daylight: Час па Грынвічы
   },
-  Etc/GMT+2: {
-    Generic: унівэрсальны каардынаваны час -2,
-    Standard: унівэрсальны каардынаваны час -2,
-    Daylight: унівэрсальны каардынаваны час -2
-  },
-  America/Noronha: {
-    Generic: Час Фэрнанду-ды-Наронья,
-    Standard: Змоўчны час Фэрнанду-ды-Наронья,
-    Daylight: Летні час Фэрнанду-ды-Наронья
-  },
-  Atlantic/South_Georgia: {
-    Generic: Час Паўднёвай Георгіі,
-    Standard: Час Паўднёвай Георгіі,
-    Daylight: Час Паўднёвай Георгіі
-  },
-  Etc/GMT+8: {
-    Generic: унівэрсальны каардынаваны час -8,
-    Standard: унівэрсальны каардынаваны час -8,
-    Daylight: унівэрсальны каардынаваны час -8
-  },
-  Pacific/Pitcairn: {
-    Generic: Час вострава Піткэрн,
-    Standard: Час вострава Піткэрн,
-    Daylight: Час вострава Піткэрн
-  },
-  Etc/GMT+9: {
-    Generic: унівэрсальны каардынаваны час -9,
-    Standard: унівэрсальны каардынаваны час -9,
-    Daylight: унівэрсальны каардынаваны час -9
-  },
-  Pacific/Gambier: {
-    Generic: Час астравоў Гамб’е,
-    Standard: Час астравоў Гамб’е,
-    Daylight: Час астравоў Гамб’е
-  },
-  Etc/GMT+11: {
-    Generic: унівэрсальны каардынаваны час -11,
-    Standard: унівэрсальны каардынаваны час -11,
-    Daylight: унівэрсальны каардынаваны час -11
-  },
-  Pacific/Pago_Pago: {
-    Generic: Час Самоа,
-    Standard: Змоўчны час Самоа,
-    Daylight: Летні час Самоа
-  },
-  Pacific/Niue: {
-    Generic: Час Ніуэ,
-    Standard: Час Ніуэ,
-    Daylight: Час Ніуэ
-  },
-  Pacific/Midway: {
-    Generic: Час Самоа,
-    Standard: Змоўчны час Самоа,
-    Daylight: Летні час Самоа
-  },
-  Asia/Ulaanbaatar: {
-    Generic: Час Улан-Батару,
-    Standard: Змоўчны час Улан-Батару,
-    Daylight: Летні час Улан-Батару
-  },
-  Asia/Choibalsan: {
-    Generic: Час Улан-Батару,
-    Standard: Змоўчны час Улан-Батару,
-    Daylight: Летні час Улан-Батару
-  },
-  America/Caracas: {
-    Generic: Вэнэсуэльскі час,
-    Standard: Вэнэсуэльскі час,
-    Daylight: Вэнэсуэльскі час
-  },
-  Asia/Vladivostok: {
-    Generic: час: Уладзівасток,
-    Standard: змоўчны час: Уладзівасток,
-    Daylight: летні час: Уладзівасток
-  },
-  Asia/Ust-Nera: {
-    Generic: час: Усць-Нера,
-    Standard: змоўчны час: Усць-Нера,
-    Daylight: летні час: Усць-Нера
-  },
-  Europe/Volgograd: {
-    Generic: час: Валгаград,
-    Standard: змоўчны час: Валгаград,
-    Daylight: летні час: Валгаград
-  },
-  Australia/Perth: {
-    Generic: Час заходняй Аўстраліі,
-    Standard: змоўчны час заходняй Аўстраліі,
-    Daylight: Летні час заходняй Аўстраліі
-  },
-  Africa/Lagos: {
-    Generic: Заходнеафрыканскі час,
-    Standard: Заходнеафрыканскі змоўчны час,
-    Daylight: Заходнеафрыканскі летні час
-  },
-  Africa/Luanda: {
-    Generic: Заходнеафрыканскі час,
-    Standard: Заходнеафрыканскі змоўчны час,
-    Daylight: Заходнеафрыканскі летні час
-  },
-  Africa/Porto-Novo: {
-    Generic: Заходнеафрыканскі час,
-    Standard: Заходнеафрыканскі змоўчны час,
-    Daylight: Заходнеафрыканскі летні час
-  },
-  Africa/Kinshasa: {
-    Generic: Заходнеафрыканскі час,
-    Standard: Заходнеафрыканскі змоўчны час,
-    Daylight: Заходнеафрыканскі летні час
-  },
-  Africa/Bangui: {
-    Generic: Заходнеафрыканскі час,
-    Standard: Заходнеафрыканскі змоўчны час,
-    Daylight: Заходнеафрыканскі летні час
-  },
-  Africa/Brazzaville: {
-    Generic: Заходнеафрыканскі час,
-    Standard: Заходнеафрыканскі змоўчны час,
-    Daylight: Заходнеафрыканскі летні час
-  },
-  Africa/Douala: {
-    Generic: Заходнеафрыканскі час,
-    Standard: Заходнеафрыканскі змоўчны час,
-    Daylight: Заходнеафрыканскі летні час
-  },
-  Africa/Algiers: {
-    Generic: Цэнтральнаэўрапейскі час,
-    Standard: Цэнтральнаэўрапейскі змоўчны час,
-    Daylight: Цэнтральнаэўрапейскі летні час
-  },
-  Africa/Libreville: {
-    Generic: Заходнеафрыканскі час,
-    Standard: Заходнеафрыканскі змоўчны час,
-    Daylight: Заходнеафрыканскі летні час
-  },
-  Africa/Malabo: {
-    Generic: Заходнеафрыканскі час,
-    Standard: Заходнеафрыканскі змоўчны час,
-    Daylight: Заходнеафрыканскі летні час
-  },
-  Africa/Niamey: {
-    Generic: Заходнеафрыканскі час,
-    Standard: Заходнеафрыканскі змоўчны час,
-    Daylight: Заходнеафрыканскі летні час
-  },
-  Africa/Ndjamena: {
-    Generic: Заходнеафрыканскі час,
-    Standard: Заходнеафрыканскі змоўчны час,
-    Daylight: Заходнеафрыканскі летні час
-  },
-  Africa/Tunis: {
-    Generic: Цэнтральнаэўрапейскі час,
-    Standard: Цэнтральнаэўрапейскі змоўчны час,
-    Daylight: Цэнтральнаэўрапейскі летні час
-  },
-  Etc/GMT-1: {
-    Generic: унівэрсальны каардынаваны час +1,
-    Standard: унівэрсальны каардынаваны час +1,
-    Daylight: унівэрсальны каардынаваны час +1
-  },
-  Europe/Berlin: {
-    Generic: Цэнтральнаэўрапейскі час,
-    Standard: Цэнтральнаэўрапейскі змоўчны час,
-    Daylight: Цэнтральнаэўрапейскі летні час
-  },
-  Europe/Andorra: {
-    Generic: Цэнтральнаэўрапейскі час,
-    Standard: Цэнтральнаэўрапейскі змоўчны час,
-    Daylight: Цэнтральнаэўрапейскі летні час
-  },
-  Europe/Vienna: {
-    Generic: Цэнтральнаэўрапейскі час,
-    Standard: Цэнтральнаэўрапейскі змоўчны час,
-    Daylight: Цэнтральнаэўрапейскі летні час
-  },
-  Europe/Zurich: {
-    Generic: Цэнтральнаэўрапейскі час,
-    Standard: Цэнтральнаэўрапейскі змоўчны час,
-    Daylight: Цэнтральнаэўрапейскі летні час
-  },
-  Europe/Busingen: {
-    Generic: Цэнтральнаэўрапейскі час,
-    Standard: Цэнтральнаэўрапейскі змоўчны час,
-    Daylight: Цэнтральнаэўрапейскі летні час
-  },
-  Europe/Gibraltar: {
-    Generic: Цэнтральнаэўрапейскі час,
-    Standard: Цэнтральнаэўрапейскі змоўчны час,
-    Daylight: Цэнтральнаэўрапейскі летні час
-  },
-  Europe/Rome: {
-    Generic: Цэнтральнаэўрапейскі час,
-    Standard: Цэнтральнаэўрапейскі змоўчны час,
-    Daylight: Цэнтральнаэўрапейскі летні час
-  },
-  Europe/Vaduz: {
-    Generic: Цэнтральнаэўрапейскі час,
-    Standard: Цэнтральнаэўрапейскі змоўчны час,
-    Daylight: Цэнтральнаэўрапейскі летні час
-  },
-  Europe/Luxembourg: {
-    Generic: Цэнтральнаэўрапейскі час,
-    Standard: Цэнтральнаэўрапейскі змоўчны час,
-    Daylight: Цэнтральнаэўрапейскі летні час
-  },
-  Europe/Monaco: {
-    Generic: Цэнтральнаэўрапейскі час,
-    Standard: Цэнтральнаэўрапейскі змоўчны час,
-    Daylight: Цэнтральнаэўрапейскі летні час
-  },
-  Europe/Malta: {
-    Generic: Цэнтральнаэўрапейскі час,
-    Standard: Цэнтральнаэўрапейскі змоўчны час,
-    Daylight: Цэнтральнаэўрапейскі летні час
-  },
-  Europe/Amsterdam: {
-    Generic: Цэнтральнаэўрапейскі час,
-    Standard: Цэнтральнаэўрапейскі змоўчны час,
-    Daylight: Цэнтральнаэўрапейскі летні час
-  },
-  Europe/Oslo: {
-    Generic: Цэнтральнаэўрапейскі час,
-    Standard: Цэнтральнаэўрапейскі змоўчны час,
-    Daylight: Цэнтральнаэўрапейскі летні час
-  },
-  Europe/Stockholm: {
-    Generic: Цэнтральнаэўрапейскі час,
-    Standard: Цэнтральнаэўрапейскі змоўчны час,
-    Daylight: Цэнтральнаэўрапейскі летні час
+  Antarctica/Vostok: {
+    Generic: Час станцыі Ўсход,
+    Standard: Час станцыі Ўсход,
+    Daylight: Час станцыі Ўсход
   },
   Arctic/Longyearbyen: {
     Generic: Цэнтральнаэўрапейскі час,
     Standard: Цэнтральнаэўрапейскі змоўчны час,
     Daylight: Цэнтральнаэўрапейскі летні час
   },
-  Europe/San_Marino: {
-    Generic: Цэнтральнаэўрапейскі час,
-    Standard: Цэнтральнаэўрапейскі змоўчны час,
-    Daylight: Цэнтральнаэўрапейскі летні час
+  Asia/Aden: {
+    Generic: Час Саудаўскай Арабіі,
+    Standard: Змоўчны час Саудаўскай Арабіі,
+    Daylight: Летні час Саудаўскай Арабіі
   },
-  Europe/Vatican: {
-    Generic: Цэнтральнаэўрапейскі час,
-    Standard: Цэнтральнаэўрапейскі змоўчны час,
-    Daylight: Цэнтральнаэўрапейскі летні час
+  Asia/Almaty: {
+    Generic: Усходнеказахстанскі час,
+    Standard: Усходнеказахстанскі час,
+    Daylight: Усходнеказахстанскі час
   },
-  Asia/Hovd: {
-    Generic: Час Хоўда,
-    Standard: Змоўчны час Хоўда,
-    Daylight: Летні час Хоўда
+  Asia/Amman: {
+    Generic: Усходнеэўрапейскі час,
+    Standard: Усходнеэўрапейскі змоўчны час,
+    Daylight: Усходнеэўрапейскі летні час
   },
-  Asia/Tashkent: {
-    Generic: Час Узбэкістану,
-    Standard: Змоўчны час Узбэкістану,
-    Daylight: Летні час Узбэкістану
-  },
-  Antarctica/Mawson: {
-    Generic: Час станцыі Мосан,
-    Standard: Час станцыі Мосан,
-    Daylight: Час станцыі Мосан
-  },
-  Asia/Oral: {
-    Generic: Заходнеказахстанскі час,
-    Standard: Заходнеказахстанскі час,
-    Daylight: Заходнеказахстанскі час
+  Asia/Anadyr: {
+    Generic: час: Анадыр,
+    Standard: змоўчны час: Анадыр,
+    Daylight: летні час: Анадыр
   },
   Asia/Aqtau: {
     Generic: Заходнеказахстанскі час,
@@ -2199,415 +1199,75 @@
     Standard: Заходнеказахстанскі час,
     Daylight: Заходнеказахстанскі час
   },
-  Asia/Atyrau: {
-    Generic: Заходнеказахстанскі час,
-    Standard: Заходнеказахстанскі час,
-    Daylight: Заходнеказахстанскі час
-  },
-  Indian/Maldives: {
-    Generic: Час Мальдываў,
-    Standard: Час Мальдываў,
-    Daylight: Час Мальдываў
-  },
-  Indian/Kerguelen: {
-    Generic: Час Францускай паўднёва-антарктычнай тэрыторыі,
-    Standard: Час Францускай паўднёва-антарктычнай тэрыторыі,
-    Daylight: Час Францускай паўднёва-антарктычнай тэрыторыі
-  },
-  Asia/Dushanbe: {
-    Generic: Час Таджыкістану,
-    Standard: Час Таджыкістану,
-    Daylight: Час Таджыкістану
-  },
   Asia/Ashgabat: {
     Generic: Час Туркмэністану,
     Standard: Змоўчны час Туркмэністана,
     Daylight: Летні час Туркмэністану
-  },
-  Asia/Samarkand: {
-    Generic: Час Узбэкістану,
-    Standard: Змоўчны час Узбэкістану,
-    Daylight: Летні час Узбэкістану
-  },
-  Etc/GMT-5: {
-    Generic: унівэрсальны каардынаваны час +5,
-    Standard: унівэрсальны каардынаваны час +5,
-    Daylight: унівэрсальны каардынаваны час +5
-  },
-  Asia/Hebron: {
-    Generic: Усходнеэўрапейскі час,
-    Standard: Усходнеэўрапейскі змоўчны час,
-    Daylight: Усходнеэўрапейскі летні час
-  },
-  Asia/Gaza: {
-    Generic: Усходнеэўрапейскі час,
-    Standard: Усходнеэўрапейскі змоўчны час,
-    Daylight: Усходнеэўрапейскі летні час
-  },
-  Pacific/Port_Moresby: {
-    Generic: Час Папуа-Новай Гвінэі,
-    Standard: Час Папуа-Новай Гвінэі,
-    Daylight: Час Папуа-Новай Гвінэі
-  },
-  Antarctica/DumontDUrville: {
-    Generic: Час станцыі Дзюмон-Дзюрвіль,
-    Standard: Час станцыі Дзюмон-Дзюрвіль,
-    Daylight: Час станцыі Дзюмон-Дзюрвіль
-  },
-  Pacific/Truk: {
-    Generic: Час Трука,
-    Standard: Час Трука,
-    Daylight: Час Трука
-  },
-  Pacific/Guam: {
-    Generic: Час Чамора,
-    Standard: Час Чамора,
-    Daylight: Час Чамора
-  },
-  Pacific/Saipan: {
-    Generic: Час Чамора,
-    Standard: Час Чамора,
-    Daylight: Час Чамора
-  },
-  Etc/GMT-10: {
-    Generic: унівэрсальны каардынаваны час +10,
-    Standard: унівэрсальны каардынаваны час +10,
-    Daylight: унівэрсальны каардынаваны час +10
-  },
-  Asia/Yakutsk: {
-    Generic: час: Якуцк,
-    Standard: змоўчны час: Якуцк,
-    Daylight: летні час: Якуцк
-  },
-  Asia/Khandyga: {
-    Generic: час: Хандыга,
-    Standard: змоўчны час: Хандыга,
-    Daylight: летні час: Хандыга
-  },
-  America/Whitehorse: {
-    Generic: Час Юкана,
-    Standard: Час Юкана,
-    Daylight: Час Юкана
-  },
-  America/Dawson: {
-    Generic: Час Юкана,
-    Standard: Час Юкана,
-    Daylight: Час Юкана
-  },
-  Iceland: {
-    Generic: Час па Грынвічы,
-    Standard: Час па Грынвічы,
-    Daylight: Час па Грынвічы
-  },
-  Africa/Timbuktu: {
-    Generic: Час па Грынвічы,
-    Standard: Час па Грынвічы,
-    Daylight: Час па Грынвічы
-  },
-  Egypt: {
-    Generic: Усходнеэўрапейскі час,
-    Standard: Усходнеэўрапейскі змоўчны час,
-    Daylight: Усходнеэўрапейскі летні час
-  },
-  Africa/Asmara: {
-    Generic: Усходнеафрыканскі час,
-    Standard: Усходнеафрыканскі час,
-    Daylight: Усходнеафрыканскі час
-  },
-  Libya: {
-    Generic: Усходнеэўрапейскі час,
-    Standard: Усходнеэўрапейскі змоўчны час,
-    Daylight: Усходнеэўрапейскі летні час
-  },
-  America/Atka: {
-    Generic: Гавайска-Алевуцкі час,
-    Standard: Гавайска-Алэвуцкі змоўчны час,
-    Daylight: Гавайска-Алевуцкі летні час
-  },
-  US/Aleutian: {
-    Generic: Гавайска-Алевуцкі час,
-    Standard: Гавайска-Алэвуцкі змоўчны час,
-    Daylight: Гавайска-Алевуцкі летні час
-  },
-  US/Alaska: {
-    Generic: Час Аляскі,
-    Standard: Змоўчны час Аляскі,
-    Daylight: Летні час Аляскі
-  },
-  America/Argentina/Buenos_Aires: {
-    Generic: Аргентынскі час,
-    Standard: Аргентынскі змоўчны час,
-    Daylight: Аргентынскі летні час
-  },
-  America/Argentina/Catamarca: {
-    Generic: Аргентынскі час,
-    Standard: Аргентынскі змоўчны час,
-    Daylight: Аргентынскі летні час
-  },
-  America/Argentina/ComodRivadavia: {
-    Generic: Аргентынскі час,
-    Standard: Аргентынскі змоўчны час,
-    Daylight: Аргентынскі летні час
-  },
-  America/Argentina/Cordoba: {
-    Generic: Аргентынскі час,
-    Standard: Аргентынскі змоўчны час,
-    Daylight: Аргентынскі летні час
-  },
-  America/Rosario: {
-    Generic: Аргентынскі час,
-    Standard: Аргентынскі змоўчны час,
-    Daylight: Аргентынскі летні час
-  },
-  America/Argentina/Jujuy: {
-    Generic: Аргентынскі час,
-    Standard: Аргентынскі змоўчны час,
-    Daylight: Аргентынскі летні час
-  },
-  America/Argentina/Mendoza: {
-    Generic: Аргентынскі час,
-    Standard: Аргентынскі змоўчны час,
-    Daylight: Аргентынскі летні час
-  },
-  US/Central: {
-    Generic: Паўночнаамэрыканскі цэнтральны час,
-    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
-    Daylight: Паўночнаамэрыканскі цэнтральны летні час
-  },
-  America/Shiprock: {
-    Generic: Паўночнаамэрыканскі горны час,
-    Standard: Паўночнаамэрыканскі горны змоўчны час,
-    Daylight: Паўночнаамэрыканскі горны летні час
-  },
-  Navajo: {
-    Generic: Паўночнаамэрыканскі горны час,
-    Standard: Паўночнаамэрыканскі горны змоўчны час,
-    Daylight: Паўночнаамэрыканскі горны летні час
-  },
-  US/Mountain: {
-    Generic: Паўночнаамэрыканскі горны час,
-    Standard: Паўночнаамэрыканскі горны змоўчны час,
-    Daylight: Паўночнаамэрыканскі горны летні час
-  },
-  US/Michigan: {
-    Generic: Паўночнаамэрыканскі ўсходні час,
-    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
-    Daylight: Паўночнаамэрыканскі ўсходні летні час
-  },
-  Canada/Mountain: {
-    Generic: Паўночнаамэрыканскі горны час,
-    Standard: Паўночнаамэрыканскі горны змоўчны час,
-    Daylight: Паўночнаамэрыканскі горны летні час
-  },
-  Canada/Atlantic: {
-    Generic: Атлянтычны час,
-    Standard: Атлянтычны змоўчны час,
-    Daylight: Атлянтычны летні час
-  },
-  Cuba: {
-    Generic: Час Кубы,
-    Standard: Змоўчны час Кубы,
-    Daylight: Летні час Кубы
-  },
-  America/Indiana/Indianapolis: {
-    Generic: Паўночнаамэрыканскі ўсходні час,
-    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
-    Daylight: Паўночнаамэрыканскі ўсходні летні час
-  },
-  US/East-Indiana: {
-    Generic: Паўночнаамэрыканскі ўсходні час,
-    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
-    Daylight: Паўночнаамэрыканскі ўсходні летні час
-  },
-  America/Knox_IN: {
-    Generic: Паўночнаамэрыканскі цэнтральны час,
-    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
-    Daylight: Паўночнаамэрыканскі цэнтральны летні час
-  },
-  US/Indiana-Starke: {
-    Generic: Паўночнаамэрыканскі цэнтральны час,
-    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
-    Daylight: Паўночнаамэрыканскі цэнтральны летні час
-  },
-  Jamaica: {
-    Generic: Паўночнаамэрыканскі ўсходні час,
-    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
-    Daylight: Паўночнаамэрыканскі ўсходні летні час
-  },
-  America/Kentucky/Louisville: {
-    Generic: Паўночнаамэрыканскі ўсходні час,
-    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
-    Daylight: Паўночнаамэрыканскі ўсходні летні час
-  },
-  US/Pacific: {
-    Generic: Ціхаакіянскі час,
-    Standard: Ціхаакіянскі змоўчны час,
-    Daylight: Ціхаакіянскі летні час
-  },
-  Brazil/West: {
-    Generic: Амазонскі час,
-    Standard: Амазонскі змоўчны час,
-    Daylight: Амазонскі летні час
-  },
-  Mexico/BajaSur: {
-    Generic: Мэксыканскі ціхаакіянскі час,
-    Standard: Мэксыканскі ціхаакіянскі стандатны час,
-    Daylight: Мэксыканскі ціхаакіянскі летні час
-  },
-  Mexico/General: {
-    Generic: Паўночнаамэрыканскі цэнтральны час,
-    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
-    Daylight: Паўночнаамэрыканскі цэнтральны летні час
-  },
-  US/Eastern: {
-    Generic: Паўночнаамэрыканскі ўсходні час,
-    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
-    Daylight: Паўночнаамэрыканскі ўсходні летні час
-  },
-  Brazil/DeNoronha: {
-    Generic: Час Фэрнанду-ды-Наронья,
-    Standard: Змоўчны час Фэрнанду-ды-Наронья,
-    Daylight: Летні час Фэрнанду-ды-Наронья
-  },
-  America/Nuuk: {
-    Generic: Час Заходняй Грэнляндыі,
-    Standard: Змоўчны час Заходняй Грэнляндыі,
-    Daylight: Летні час Заходняй Грэнляндыі
-  },
-  America/Atikokan: {
-    Generic: Паўночнаамэрыканскі ўсходні час,
-    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
-    Daylight: Паўночнаамэрыканскі ўсходні летні час
-  },
-  US/Arizona: {
-    Generic: Паўночнаамэрыканскі горны час,
-    Standard: Паўночнаамэрыканскі горны змоўчны час,
-    Daylight: Паўночнаамэрыканскі горны летні час
-  },
-  America/Virgin: {
-    Generic: Атлянтычны час,
-    Standard: Атлянтычны змоўчны час,
-    Daylight: Атлянтычны летні час
-  },
-  Canada/Saskatchewan: {
-    Generic: Паўночнаамэрыканскі цэнтральны час,
-    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
-    Daylight: Паўночнаамэрыканскі цэнтральны летні час
-  },
-  America/Porto_Acre: {
-    Generic: час: Бразылія,
-    Standard: змоўчны час: Бразылія,
-    Daylight: летні час: Бразылія
-  },
-  Brazil/Acre: {
-    Generic: час: Бразылія,
-    Standard: змоўчны час: Бразылія,
-    Daylight: летні час: Бразылія
-  },
-  Chile/Continental: {
-    Generic: Чылійскі час,
-    Standard: Чылійскі змоўчны час,
-    Daylight: Чылійскі летні час
-  },
-  Brazil/East: {
-    Generic: Бразыльскі час,
-    Standard: Бразыльскі змоўчны час,
-    Daylight: Бразыльскі летні час
-  },
-  Canada/Newfoundland: {
-    Generic: Ньюфаўндлэндзкі час,
-    Standard: Ньюфаўндлэндзкі змоўчны час,
-    Daylight: Ньюфаўндлэндзкі летні час
-  },
-  America/Ensenada: {
-    Generic: Ціхаакіянскі час,
-    Standard: Ціхаакіянскі змоўчны час,
-    Daylight: Ціхаакіянскі летні час
-  },
-  Mexico/BajaNorte: {
-    Generic: Ціхаакіянскі час,
-    Standard: Ціхаакіянскі змоўчны час,
-    Daylight: Ціхаакіянскі летні час
-  },
-  Canada/Eastern: {
-    Generic: Паўночнаамэрыканскі ўсходні час,
-    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
-    Daylight: Паўночнаамэрыканскі ўсходні летні час
-  },
-  Canada/Pacific: {
-    Generic: Ціхаакіянскі час,
-    Standard: Ціхаакіянскі змоўчны час,
-    Daylight: Ціхаакіянскі летні час
-  },
-  Canada/Yukon: {
-    Generic: Час Юкана,
-    Standard: Час Юкана,
-    Daylight: Час Юкана
-  },
-  Canada/Central: {
-    Generic: Паўночнаамэрыканскі цэнтральны час,
-    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
-    Daylight: Паўночнаамэрыканскі цэнтральны летні час
   },
   Asia/Ashkhabad: {
     Generic: Час Туркмэністану,
     Standard: Змоўчны час Туркмэністана,
     Daylight: Летні час Туркмэністану
   },
-  Asia/Dacca: {
-    Generic: Час Банглядэшу,
-    Standard: Змоўчны час Банглядэшу,
-    Daylight: Летні час Банглядэшу
+  Asia/Atyrau: {
+    Generic: Заходнеказахстанскі час,
+    Standard: Заходнеказахстанскі час,
+    Daylight: Заходнеказахстанскі час
   },
-  Asia/Ho_Chi_Minh: {
+  Asia/Baghdad: {
+    Generic: Час Саудаўскай Арабіі,
+    Standard: Змоўчны час Саудаўскай Арабіі,
+    Daylight: Летні час Саудаўскай Арабіі
+  },
+  Asia/Bahrain: {
+    Generic: Час Саудаўскай Арабіі,
+    Standard: Змоўчны час Саудаўскай Арабіі,
+    Daylight: Летні час Саудаўскай Арабіі
+  },
+  Asia/Baku: {
+    Generic: Час Азэрбайджану,
+    Standard: Змоўчны час Азэрбайджану,
+    Daylight: Летні час Азэрбайджану
+  },
+  Asia/Bangkok: {
     Generic: Індакітайскі час,
     Standard: Індакітайскі час,
     Daylight: Індакітайскі час
   },
-  Hongkong: {
-    Generic: Час Ганконгу,
-    Standard: Змоўчны час Ганконга,
-    Daylight: Летні час Ганконгу
+  Asia/Barnaul: {
+    Generic: час: Барнавул,
+    Standard: змоўчны час: Барнавул,
+    Daylight: летні час: Барнавул
   },
-  Asia/Tel_Aviv: {
-    Generic: Ізраільскі час,
-    Standard: Ізраільскі змоўчны час,
-    Daylight: Ізраільскі летні час
-  },
-  Israel: {
-    Generic: Ізраільскі час,
-    Standard: Ізраільскі змоўчны час,
-    Daylight: Ізраільскі летні час
-  },
-  Asia/Kathmandu: {
-    Generic: Нэпальскі час,
-    Standard: Нэпальскі час,
-    Daylight: Нэпальскі час
-  },
-  Asia/Kolkata: {
-    Generic: Час Індыі,
-    Standard: Час Індыі,
-    Daylight: Час Індыі
-  },
-  Asia/Macao: {
-    Generic: Час Кітая,
-    Standard: Змоўчны час Кітаю,
-    Daylight: Летні час Кітаю
-  },
-  Asia/Ujung_Pandang: {
-    Generic: Цэнтральнаінданэзійскі час,
-    Standard: Цэнтральнаінданэзійскі час,
-    Daylight: Цэнтральнаінданэзійскі час
-  },
-  Europe/Nicosia: {
+  Asia/Beirut: {
     Generic: Усходнеэўрапейскі час,
     Standard: Усходнеэўрапейскі змоўчны час,
     Daylight: Усходнеэўрапейскі летні час
   },
-  ROK: {
-    Generic: Час Карэі,
-    Standard: Змоўчны час Карэі,
-    Daylight: Летні час Карэі
+  Asia/Bishkek: {
+    Generic: Час Кыргыстану,
+    Standard: Час Кыргыстану,
+    Daylight: Час Кыргыстану
+  },
+  Asia/Brunei: {
+    Generic: Час Брунэю,
+    Standard: Час Брунэю,
+    Daylight: Час Брунэю
+  },
+  Asia/Calcutta: {
+    Generic: Час Індыі,
+    Standard: Час Індыі,
+    Daylight: Час Індыі
+  },
+  Asia/Chita: {
+    Generic: час: Чыта,
+    Standard: змоўчны час: Чыта,
+    Daylight: летні час: Чыта
+  },
+  Asia/Choibalsan: {
+    Generic: Час Улан-Батару,
+    Standard: Змоўчны час Улан-Батару,
+    Daylight: Летні час Улан-Батару
   },
   Asia/Chongqing: {
     Generic: Час Кітая,
@@ -2619,57 +1279,412 @@
     Standard: Змоўчны час Кітаю,
     Daylight: Летні час Кітаю
   },
+  Asia/Colombo: {
+    Generic: Час Індыі,
+    Standard: Час Індыі,
+    Daylight: Час Індыі
+  },
+  Asia/Dacca: {
+    Generic: Час Банглядэшу,
+    Standard: Змоўчны час Банглядэшу,
+    Daylight: Летні час Банглядэшу
+  },
+  Asia/Damascus: {
+    Generic: Усходнеэўрапейскі час,
+    Standard: Усходнеэўрапейскі змоўчны час,
+    Daylight: Усходнеэўрапейскі летні час
+  },
+  Asia/Dhaka: {
+    Generic: Час Банглядэшу,
+    Standard: Змоўчны час Банглядэшу,
+    Daylight: Летні час Банглядэшу
+  },
+  Asia/Dili: {
+    Generic: Час Усходняга Тымору,
+    Standard: Час Усходняга Тымору,
+    Daylight: Час Усходняга Тымору
+  },
+  Asia/Dubai: {
+    Generic: Час Пэрсыдзкага заліву,
+    Standard: Час Пэрсыдзкага заліву,
+    Daylight: Час Пэрсыдзкага заліву
+  },
+  Asia/Dushanbe: {
+    Generic: Час Таджыкістану,
+    Standard: Час Таджыкістану,
+    Daylight: Час Таджыкістану
+  },
+  Asia/Famagusta: {
+    Generic: Усходнеэўрапейскі час,
+    Standard: Усходнеэўрапейскі змоўчны час,
+    Daylight: Усходнеэўрапейскі летні час
+  },
+  Asia/Gaza: {
+    Generic: Усходнеэўрапейскі час,
+    Standard: Усходнеэўрапейскі змоўчны час,
+    Daylight: Усходнеэўрапейскі летні час
+  },
   Asia/Harbin: {
     Generic: Час Кітая,
     Standard: Змоўчны час Кітаю,
     Daylight: Летні час Кітаю
   },
-  PRC: {
-    Generic: Час Кітая,
-    Standard: Змоўчны час Кітаю,
-    Daylight: Летні час Кітаю
+  Asia/Hebron: {
+    Generic: Усходнеэўрапейскі час,
+    Standard: Усходнеэўрапейскі змоўчны час,
+    Daylight: Усходнеэўрапейскі летні час
   },
-  Singapore: {
-    Generic: Сынгапурскі час,
-    Standard: Сынгапурскі час,
-    Daylight: Сынгапурскі час
+  Asia/Ho_Chi_Minh: {
+    Generic: Індакітайскі час,
+    Standard: Індакітайскі час,
+    Daylight: Індакітайскі час
   },
-  ROC: {
-    Generic: Час Тайбэю,
-    Standard: Змоўчны час Тайбэя,
-    Daylight: Летні час Тайбэю
+  Asia/Hong_Kong: {
+    Generic: Час Ганконгу,
+    Standard: Змоўчны час Ганконга,
+    Daylight: Летні час Ганконгу
   },
-  Iran: {
-    Generic: Іранскі час,
-    Standard: Іранскі змоўчны час,
-    Daylight: Іранскі летні час
+  Asia/Hovd: {
+    Generic: Час Хоўда,
+    Standard: Змоўчны час Хоўда,
+    Daylight: Летні час Хоўда
   },
-  Asia/Thimbu: {
-    Generic: Час Бутану,
-    Standard: Час Бутану,
-    Daylight: Час Бутану
+  Asia/Irkutsk: {
+    Generic: час: Іркуцк,
+    Standard: змоўчны час: Іркуцк,
+    Daylight: летні час: Іркуцк
   },
-  Japan: {
-    Generic: Час Японіі,
-    Standard: Змоўчны час Японіі,
-    Daylight: Летні час Японіі
+  Asia/Istanbul: {
+    Generic: час: Турэччына,
+    Standard: змоўчны час: Турэччына,
+    Daylight: летні час: Турэччына
   },
-  Asia/Ulan_Bator: {
-    Generic: Час Улан-Батару,
-    Standard: Змоўчны час Улан-Батару,
-    Daylight: Летні час Улан-Батару
+  Asia/Jakarta: {
+    Generic: Заходнеінданэзійскі час,
+    Standard: Заходнеінданэзійскі час,
+    Daylight: Заходнеінданэзійскі час
+  },
+  Asia/Jayapura: {
+    Generic: Усходнеінданэзійскі час,
+    Standard: Усходнеінданэзійскі час,
+    Daylight: Усходнеінданэзійскі час
+  },
+  Asia/Jerusalem: {
+    Generic: Ізраільскі час,
+    Standard: Ізраільскі змоўчны час,
+    Daylight: Ізраільскі летні час
+  },
+  Asia/Kabul: {
+    Generic: Аўганістанскі час,
+    Standard: Аўганістанскі час,
+    Daylight: Аўганістанскі час
+  },
+  Asia/Kamchatka: {
+    Generic: час: Камчатка,
+    Standard: змоўчны час: Камчатка,
+    Daylight: летні час: Камчатка
+  },
+  Asia/Karachi: {
+    Generic: Пакістанскі час,
+    Standard: Пакістанскі змоўчны час,
+    Daylight: Пакістанскі летні час
   },
   Asia/Kashgar: {
     Generic: час: Кітай,
     Standard: змоўчны час: Кітай,
     Daylight: летні час: Кітай
   },
+  Asia/Kathmandu: {
+    Generic: Нэпальскі час,
+    Standard: Нэпальскі час,
+    Daylight: Нэпальскі час
+  },
+  Asia/Katmandu: {
+    Generic: Нэпальскі час,
+    Standard: Нэпальскі час,
+    Daylight: Нэпальскі час
+  },
+  Asia/Khandyga: {
+    Generic: час: Хандыга,
+    Standard: змоўчны час: Хандыга,
+    Daylight: летні час: Хандыга
+  },
+  Asia/Kolkata: {
+    Generic: Час Індыі,
+    Standard: Час Індыі,
+    Daylight: Час Індыі
+  },
+  Asia/Krasnoyarsk: {
+    Generic: час: Краснаярск,
+    Standard: змоўчны час: Краснаярск,
+    Daylight: летні час: Краснаярск
+  },
+  Asia/Kuala_Lumpur: {
+    Generic: Час Малайзіі,
+    Standard: Час Малайзіі,
+    Daylight: Час Малайзіі
+  },
+  Asia/Kuching: {
+    Generic: Час Малайзіі,
+    Standard: Час Малайзіі,
+    Daylight: Час Малайзіі
+  },
+  Asia/Kuwait: {
+    Generic: Час Саудаўскай Арабіі,
+    Standard: Змоўчны час Саудаўскай Арабіі,
+    Daylight: Летні час Саудаўскай Арабіі
+  },
+  Asia/Macao: {
+    Generic: Час Кітая,
+    Standard: Змоўчны час Кітаю,
+    Daylight: Летні час Кітаю
+  },
+  Asia/Macau: {
+    Generic: Час Кітая,
+    Standard: Змоўчны час Кітаю,
+    Daylight: Летні час Кітаю
+  },
+  Asia/Magadan: {
+    Generic: час: Магадан,
+    Standard: змоўчны час: Магадан,
+    Daylight: летні час: Магадан
+  },
+  Asia/Makassar: {
+    Generic: Цэнтральнаінданэзійскі час,
+    Standard: Цэнтральнаінданэзійскі час,
+    Daylight: Цэнтральнаінданэзійскі час
+  },
+  Asia/Manila: {
+    Generic: Філіпінскі час,
+    Standard: Філіпінскі змоўчны час,
+    Daylight: Філіпінскі летні час
+  },
+  Asia/Muscat: {
+    Generic: Час Пэрсыдзкага заліву,
+    Standard: Час Пэрсыдзкага заліву,
+    Daylight: Час Пэрсыдзкага заліву
+  },
+  Asia/Nicosia: {
+    Generic: Усходнеэўрапейскі час,
+    Standard: Усходнеэўрапейскі змоўчны час,
+    Daylight: Усходнеэўрапейскі летні час
+  },
+  Asia/Novokuznetsk: {
+    Generic: час: Новакузьнецк,
+    Standard: змоўчны час: Новакузьнецк,
+    Daylight: летні час: Новакузьнецк
+  },
+  Asia/Novosibirsk: {
+    Generic: час: Новасыбірск,
+    Standard: змоўчны час: Новасыбірск,
+    Daylight: летні час: Новасыбірск
+  },
+  Asia/Omsk: {
+    Generic: час: Омск,
+    Standard: змоўчны час: Омск,
+    Daylight: летні час: Омск
+  },
+  Asia/Oral: {
+    Generic: Заходнеказахстанскі час,
+    Standard: Заходнеказахстанскі час,
+    Daylight: Заходнеказахстанскі час
+  },
+  Asia/Phnom_Penh: {
+    Generic: Індакітайскі час,
+    Standard: Індакітайскі час,
+    Daylight: Індакітайскі час
+  },
+  Asia/Pontianak: {
+    Generic: Заходнеінданэзійскі час,
+    Standard: Заходнеінданэзійскі час,
+    Daylight: Заходнеінданэзійскі час
+  },
+  Asia/Pyongyang: {
+    Generic: Час Карэі,
+    Standard: Змоўчны час Карэі,
+    Daylight: Летні час Карэі
+  },
+  Asia/Qatar: {
+    Generic: Час Саудаўскай Арабіі,
+    Standard: Змоўчны час Саудаўскай Арабіі,
+    Daylight: Летні час Саудаўскай Арабіі
+  },
+  Asia/Qostanay: {
+    Generic: Усходнеказахстанскі час,
+    Standard: Усходнеказахстанскі час,
+    Daylight: Усходнеказахстанскі час
+  },
+  Asia/Qyzylorda: {
+    Generic: Заходнеказахстанскі час,
+    Standard: Заходнеказахстанскі час,
+    Daylight: Заходнеказахстанскі час
+  },
+  Asia/Rangoon: {
+    Generic: Час М’янмы,
+    Standard: Час М’янмы,
+    Daylight: Час М’янмы
+  },
+  Asia/Riyadh: {
+    Generic: Час Саудаўскай Арабіі,
+    Standard: Змоўчны час Саудаўскай Арабіі,
+    Daylight: Летні час Саудаўскай Арабіі
+  },
+  Asia/Saigon: {
+    Generic: Індакітайскі час,
+    Standard: Індакітайскі час,
+    Daylight: Індакітайскі час
+  },
+  Asia/Sakhalin: {
+    Generic: час: Сахалін,
+    Standard: змоўчны час: Сахалін,
+    Daylight: летні час: Сахалін
+  },
+  Asia/Samarkand: {
+    Generic: Час Узбэкістану,
+    Standard: Змоўчны час Узбэкістану,
+    Daylight: Летні час Узбэкістану
+  },
+  Asia/Seoul: {
+    Generic: Час Карэі,
+    Standard: Змоўчны час Карэі,
+    Daylight: Летні час Карэі
+  },
+  Asia/Shanghai: {
+    Generic: Час Кітая,
+    Standard: Змоўчны час Кітаю,
+    Daylight: Летні час Кітаю
+  },
+  Asia/Singapore: {
+    Generic: Сынгапурскі час,
+    Standard: Сынгапурскі час,
+    Daylight: Сынгапурскі час
+  },
+  Asia/Srednekolymsk: {
+    Generic: час: Сярэднекалымск,
+    Standard: змоўчны час: Сярэднекалымск,
+    Daylight: летні час: Сярэднекалымск
+  },
+  Asia/Taipei: {
+    Generic: Час Тайбэю,
+    Standard: Змоўчны час Тайбэя,
+    Daylight: Летні час Тайбэю
+  },
+  Asia/Tashkent: {
+    Generic: Час Узбэкістану,
+    Standard: Змоўчны час Узбэкістану,
+    Daylight: Летні час Узбэкістану
+  },
+  Asia/Tbilisi: {
+    Generic: Грузінскі час,
+    Standard: Грузінскі змоўчны час,
+    Daylight: Грузінскі летні час
+  },
+  Asia/Tehran: {
+    Generic: Іранскі час,
+    Standard: Іранскі змоўчны час,
+    Daylight: Іранскі летні час
+  },
+  Asia/Tel_Aviv: {
+    Generic: Ізраільскі час,
+    Standard: Ізраільскі змоўчны час,
+    Daylight: Ізраільскі летні час
+  },
+  Asia/Thimbu: {
+    Generic: Час Бутану,
+    Standard: Час Бутану,
+    Daylight: Час Бутану
+  },
+  Asia/Thimphu: {
+    Generic: Час Бутану,
+    Standard: Час Бутану,
+    Daylight: Час Бутану
+  },
+  Asia/Tokyo: {
+    Generic: Час Японіі,
+    Standard: Змоўчны час Японіі,
+    Daylight: Летні час Японіі
+  },
+  Asia/Tomsk: {
+    Generic: час: Томск,
+    Standard: змоўчны час: Томск,
+    Daylight: летні час: Томск
+  },
+  Asia/Ujung_Pandang: {
+    Generic: Цэнтральнаінданэзійскі час,
+    Standard: Цэнтральнаінданэзійскі час,
+    Daylight: Цэнтральнаінданэзійскі час
+  },
+  Asia/Ulaanbaatar: {
+    Generic: Час Улан-Батару,
+    Standard: Змоўчны час Улан-Батару,
+    Daylight: Летні час Улан-Батару
+  },
+  Asia/Ulan_Bator: {
+    Generic: Час Улан-Батару,
+    Standard: Змоўчны час Улан-Батару,
+    Daylight: Летні час Улан-Батару
+  },
+  Asia/Urumqi: {
+    Generic: час: Кітай,
+    Standard: змоўчны час: Кітай,
+    Daylight: летні час: Кітай
+  },
+  Asia/Ust-Nera: {
+    Generic: час: Усць-Нера,
+    Standard: змоўчны час: Усць-Нера,
+    Daylight: летні час: Усць-Нера
+  },
+  Asia/Vientiane: {
+    Generic: Індакітайскі час,
+    Standard: Індакітайскі час,
+    Daylight: Індакітайскі час
+  },
+  Asia/Vladivostok: {
+    Generic: час: Уладзівасток,
+    Standard: змоўчны час: Уладзівасток,
+    Daylight: летні час: Уладзівасток
+  },
+  Asia/Yakutsk: {
+    Generic: час: Якуцк,
+    Standard: змоўчны час: Якуцк,
+    Daylight: летні час: Якуцк
+  },
   Asia/Yangon: {
     Generic: Час М’янмы,
     Standard: Час М’янмы,
     Daylight: Час М’янмы
   },
-  WET: {
+  Asia/Yekaterinburg: {
+    Generic: час: Екацярынбург,
+    Standard: змоўчны час: Екацярынбург,
+    Daylight: летні час: Екацярынбург
+  },
+  Asia/Yerevan: {
+    Generic: Час Армэніі,
+    Standard: Змоўчны час Армэніі,
+    Daylight: Летні час Армэніі
+  },
+  Atlantic/Azores: {
+    Generic: Час Азорскіх астравоў,
+    Standard: Змоўчны час Азорскіх астравоў,
+    Daylight: Летні час Азорскіх астравоў
+  },
+  Atlantic/Bermuda: {
+    Generic: Атлянтычны час,
+    Standard: Атлянтычны змоўчны час,
+    Daylight: Атлянтычны летні час
+  },
+  Atlantic/Canary: {
+    Generic: Заходнеэўрапейскі час,
+    Standard: Заходнеэўрапейскі змоўчны час,
+    Daylight: Заходнеэўрапейскі летні час
+  },
+  Atlantic/Cape_Verde: {
+    Generic: Час Каба-Вэрдэ,
+    Standard: Змоўчны час Каба-Вэрдэ,
+    Daylight: Летні час Каба-Вэрдэ
+  },
+  Atlantic/Faeroe: {
     Generic: Заходнеэўрапейскі час,
     Standard: Заходнеэўрапейскі змоўчны час,
     Daylight: Заходнеэўрапейскі летні час
@@ -2679,27 +1694,77 @@
     Standard: Заходнеэўрапейскі змоўчны час,
     Daylight: Заходнеэўрапейскі летні час
   },
-  Australia/South: {
-    Generic: Час цэнтральнай Аўстраліі,
-    Standard: Змоўчны час цэнтральнай Аўстраліі,
-    Daylight: Летні час цэнтральнай Аўстраліі
+  Atlantic/Jan_Mayen: {
+    Generic: Цэнтральнаэўрапейскі час,
+    Standard: Цэнтральнаэўрапейскі змоўчны час,
+    Daylight: Цэнтральнаэўрапейскі летні час
   },
-  Australia/Queensland: {
+  Atlantic/Madeira: {
+    Generic: Заходнеэўрапейскі час,
+    Standard: Заходнеэўрапейскі змоўчны час,
+    Daylight: Заходнеэўрапейскі летні час
+  },
+  Atlantic/Reykjavik: {
+    Generic: Час па Грынвічы,
+    Standard: Час па Грынвічы,
+    Daylight: Час па Грынвічы
+  },
+  Atlantic/South_Georgia: {
+    Generic: Час Паўднёвай Георгіі,
+    Standard: Час Паўднёвай Георгіі,
+    Daylight: Час Паўднёвай Георгіі
+  },
+  Atlantic/St_Helena: {
+    Generic: Час па Грынвічы,
+    Standard: Час па Грынвічы,
+    Daylight: Час па Грынвічы
+  },
+  Atlantic/Stanley: {
+    Generic: Час Фолклэндзкіх астравоў,
+    Standard: Змоўчны час Фолклэндзкіх астравоў,
+    Daylight: Летні час Фолклэндзкіх астравоў
+  },
+  Australia/ACT: {
     Generic: Час усходняй Аўстраліі,
     Standard: Змоўчны час усходняй Аўстраліі,
     Daylight: Летні час усходняй Аўстраліі
   },
-  Australia/Yancowinna: {
+  Australia/Adelaide: {
     Generic: Час цэнтральнай Аўстраліі,
     Standard: Змоўчны час цэнтральнай Аўстраліі,
     Daylight: Летні час цэнтральнай Аўстраліі
   },
-  Australia/North: {
+  Australia/Brisbane: {
+    Generic: Час усходняй Аўстраліі,
+    Standard: Змоўчны час усходняй Аўстраліі,
+    Daylight: Летні час усходняй Аўстраліі
+  },
+  Australia/Broken_Hill: {
     Generic: Час цэнтральнай Аўстраліі,
     Standard: Змоўчны час цэнтральнай Аўстраліі,
     Daylight: Летні час цэнтральнай Аўстраліі
   },
-  Australia/Tasmania: {
+  Australia/Canberra: {
+    Generic: Час усходняй Аўстраліі,
+    Standard: Змоўчны час усходняй Аўстраліі,
+    Daylight: Летні час усходняй Аўстраліі
+  },
+  Australia/Currie: {
+    Generic: Час усходняй Аўстраліі,
+    Standard: Змоўчны час усходняй Аўстраліі,
+    Daylight: Летні час усходняй Аўстраліі
+  },
+  Australia/Darwin: {
+    Generic: Час цэнтральнай Аўстраліі,
+    Standard: Змоўчны час цэнтральнай Аўстраліі,
+    Daylight: Летні час цэнтральнай Аўстраліі
+  },
+  Australia/Eucla: {
+    Generic: Цэнтральна-заходні час Аўстраліі,
+    Standard: Змоўчны цэнтральна-заходні час Аўстраліі,
+    Daylight: Летні цэнтральна-заходні час Аўстраліі
+  },
+  Australia/Hobart: {
     Generic: Час усходняй Аўстраліі,
     Standard: Змоўчны час усходняй Аўстраліі,
     Daylight: Летні час усходняй Аўстраліі
@@ -2708,6 +1773,56 @@
     Generic: Час Лорд-Гаў,
     Standard: Змоўчны час Лорд-Гаў,
     Daylight: Летні час Лорд-Гаў
+  },
+  Australia/Lindeman: {
+    Generic: Час усходняй Аўстраліі,
+    Standard: Змоўчны час усходняй Аўстраліі,
+    Daylight: Летні час усходняй Аўстраліі
+  },
+  Australia/Lord_Howe: {
+    Generic: Час Лорд-Гаў,
+    Standard: Змоўчны час Лорд-Гаў,
+    Daylight: Летні час Лорд-Гаў
+  },
+  Australia/Melbourne: {
+    Generic: Час усходняй Аўстраліі,
+    Standard: Змоўчны час усходняй Аўстраліі,
+    Daylight: Летні час усходняй Аўстраліі
+  },
+  Australia/NSW: {
+    Generic: Час усходняй Аўстраліі,
+    Standard: Змоўчны час усходняй Аўстраліі,
+    Daylight: Летні час усходняй Аўстраліі
+  },
+  Australia/North: {
+    Generic: Час цэнтральнай Аўстраліі,
+    Standard: Змоўчны час цэнтральнай Аўстраліі,
+    Daylight: Летні час цэнтральнай Аўстраліі
+  },
+  Australia/Perth: {
+    Generic: Час заходняй Аўстраліі,
+    Standard: змоўчны час заходняй Аўстраліі,
+    Daylight: Летні час заходняй Аўстраліі
+  },
+  Australia/Queensland: {
+    Generic: Час усходняй Аўстраліі,
+    Standard: Змоўчны час усходняй Аўстраліі,
+    Daylight: Летні час усходняй Аўстраліі
+  },
+  Australia/South: {
+    Generic: Час цэнтральнай Аўстраліі,
+    Standard: Змоўчны час цэнтральнай Аўстраліі,
+    Daylight: Летні час цэнтральнай Аўстраліі
+  },
+  Australia/Sydney: {
+    Generic: Час усходняй Аўстраліі,
+    Standard: Змоўчны час усходняй Аўстраліі,
+    Daylight: Летні час усходняй Аўстраліі
+  },
+  Australia/Tasmania: {
+    Generic: Час усходняй Аўстраліі,
+    Standard: Змоўчны час усходняй Аўстраліі,
+    Daylight: Летні час усходняй Аўстраліі
   },
   Australia/Victoria: {
     Generic: Час усходняй Аўстраліі,
@@ -2719,45 +1834,265 @@
     Standard: змоўчны час заходняй Аўстраліі,
     Daylight: Летні час заходняй Аўстраліі
   },
-  Australia/ACT: {
-    Generic: Час усходняй Аўстраліі,
-    Standard: Змоўчны час усходняй Аўстраліі,
-    Daylight: Летні час усходняй Аўстраліі
+  Australia/Yancowinna: {
+    Generic: Час цэнтральнай Аўстраліі,
+    Standard: Змоўчны час цэнтральнай Аўстраліі,
+    Daylight: Летні час цэнтральнай Аўстраліі
   },
-  Australia/Canberra: {
-    Generic: Час усходняй Аўстраліі,
-    Standard: Змоўчны час усходняй Аўстраліі,
-    Daylight: Летні час усходняй Аўстраліі
+  Brazil/Acre: {
+    Generic: час: Бразылія,
+    Standard: змоўчны час: Бразылія,
+    Daylight: летні час: Бразылія
   },
-  Australia/NSW: {
-    Generic: Час усходняй Аўстраліі,
-    Standard: Змоўчны час усходняй Аўстраліі,
-    Daylight: Летні час усходняй Аўстраліі
+  Brazil/DeNoronha: {
+    Generic: Час Фэрнанду-ды-Наронья,
+    Standard: Змоўчны час Фэрнанду-ды-Наронья,
+    Daylight: Летні час Фэрнанду-ды-Наронья
   },
-  HST: {
-    Generic: унівэрсальны каардынаваны час -10,
-    Standard: унівэрсальны каардынаваны час -10,
-    Daylight: унівэрсальны каардынаваны час -10
+  Brazil/East: {
+    Generic: Бразыльскі час,
+    Standard: Бразыльскі змоўчны час,
+    Daylight: Бразыльскі летні час
+  },
+  Brazil/West: {
+    Generic: Амазонскі час,
+    Standard: Амазонскі змоўчны час,
+    Daylight: Амазонскі летні час
+  },
+  CET: {
+    Generic: Цэнтральнаэўрапейскі час,
+    Standard: Цэнтральнаэўрапейскі змоўчны час,
+    Daylight: Цэнтральнаэўрапейскі летні час
+  },
+  CST6CDT: {
+    Generic: Паўночнаамэрыканскі цэнтральны час,
+    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
+    Daylight: Паўночнаамэрыканскі цэнтральны летні час
+  },
+  Canada/Atlantic: {
+    Generic: Атлянтычны час,
+    Standard: Атлянтычны змоўчны час,
+    Daylight: Атлянтычны летні час
+  },
+  Canada/Central: {
+    Generic: Паўночнаамэрыканскі цэнтральны час,
+    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
+    Daylight: Паўночнаамэрыканскі цэнтральны летні час
+  },
+  Canada/Eastern: {
+    Generic: Паўночнаамэрыканскі ўсходні час,
+    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
+    Daylight: Паўночнаамэрыканскі ўсходні летні час
+  },
+  Canada/Mountain: {
+    Generic: Паўночнаамэрыканскі горны час,
+    Standard: Паўночнаамэрыканскі горны змоўчны час,
+    Daylight: Паўночнаамэрыканскі горны летні час
+  },
+  Canada/Newfoundland: {
+    Generic: Ньюфаўндлэндзкі час,
+    Standard: Ньюфаўндлэндзкі змоўчны час,
+    Daylight: Ньюфаўндлэндзкі летні час
+  },
+  Canada/Pacific: {
+    Generic: Ціхаакіянскі час,
+    Standard: Ціхаакіянскі змоўчны час,
+    Daylight: Ціхаакіянскі летні час
+  },
+  Canada/Saskatchewan: {
+    Generic: Паўночнаамэрыканскі цэнтральны час,
+    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
+    Daylight: Паўночнаамэрыканскі цэнтральны летні час
+  },
+  Canada/Yukon: {
+    Generic: Час Юкана,
+    Standard: Час Юкана,
+    Daylight: Час Юкана
+  },
+  Chile/Continental: {
+    Generic: Чылійскі час,
+    Standard: Чылійскі змоўчны час,
+    Daylight: Чылійскі летні час
+  },
+  Chile/EasterIsland: {
+    Generic: Час вострава Пасхі,
+    Standard: Змоўчны час вострава Раства,
+    Daylight: Летні час вострава Раства
+  },
+  Cuba: {
+    Generic: Час Кубы,
+    Standard: Змоўчны час Кубы,
+    Daylight: Летні час Кубы
+  },
+  EET: {
+    Generic: Усходнеэўрапейскі час,
+    Standard: Усходнеэўрапейскі змоўчны час,
+    Daylight: Усходнеэўрапейскі летні час
   },
   EST: {
     Generic: унівэрсальны каардынаваны час -5,
     Standard: унівэрсальны каардынаваны час -5,
     Daylight: унівэрсальны каардынаваны час -5
   },
-  MST: {
-    Generic: унівэрсальны каардынаваны час -7,
-    Standard: унівэрсальны каардынаваны час -7,
-    Daylight: унівэрсальны каардынаваны час -7
+  EST5EDT: {
+    Generic: Паўночнаамэрыканскі ўсходні час,
+    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
+    Daylight: Паўночнаамэрыканскі ўсходні летні час
+  },
+  Egypt: {
+    Generic: Усходнеэўрапейскі час,
+    Standard: Усходнеэўрапейскі змоўчны час,
+    Daylight: Усходнеэўрапейскі летні час
+  },
+  Eire: {
+    Generic: час: Ірляндыя,
+    Standard: Час па Грынвічы,
+    Daylight: Ірляндзкі змоўчны час
+  },
+  Etc/GMT: {
+    Generic: Час па Грынвічы,
+    Standard: Час па Грынвічы,
+    Daylight: Час па Грынвічы
   },
   Etc/GMT+0: {
     Generic: Час па Грынвічы,
     Standard: Час па Грынвічы,
     Daylight: Час па Грынвічы
   },
+  Etc/GMT+1: {
+    Generic: унівэрсальны каардынаваны час -1,
+    Standard: унівэрсальны каардынаваны час -1,
+    Daylight: унівэрсальны каардынаваны час -1
+  },
+  Etc/GMT+10: {
+    Generic: унівэрсальны каардынаваны час -10,
+    Standard: унівэрсальны каардынаваны час -10,
+    Daylight: унівэрсальны каардынаваны час -10
+  },
+  Etc/GMT+11: {
+    Generic: унівэрсальны каардынаваны час -11,
+    Standard: унівэрсальны каардынаваны час -11,
+    Daylight: унівэрсальны каардынаваны час -11
+  },
+  Etc/GMT+12: {
+    Generic: унівэрсальны каардынаваны час -12,
+    Standard: унівэрсальны каардынаваны час -12,
+    Daylight: унівэрсальны каардынаваны час -12
+  },
+  Etc/GMT+2: {
+    Generic: унівэрсальны каардынаваны час -2,
+    Standard: унівэрсальны каардынаваны час -2,
+    Daylight: унівэрсальны каардынаваны час -2
+  },
+  Etc/GMT+3: {
+    Generic: унівэрсальны каардынаваны час -3,
+    Standard: унівэрсальны каардынаваны час -3,
+    Daylight: унівэрсальны каардынаваны час -3
+  },
+  Etc/GMT+4: {
+    Generic: унівэрсальны каардынаваны час -4,
+    Standard: унівэрсальны каардынаваны час -4,
+    Daylight: унівэрсальны каардынаваны час -4
+  },
+  Etc/GMT+5: {
+    Generic: унівэрсальны каардынаваны час -5,
+    Standard: унівэрсальны каардынаваны час -5,
+    Daylight: унівэрсальны каардынаваны час -5
+  },
+  Etc/GMT+6: {
+    Generic: унівэрсальны каардынаваны час -6,
+    Standard: унівэрсальны каардынаваны час -6,
+    Daylight: унівэрсальны каардынаваны час -6
+  },
+  Etc/GMT+7: {
+    Generic: унівэрсальны каардынаваны час -7,
+    Standard: унівэрсальны каардынаваны час -7,
+    Daylight: унівэрсальны каардынаваны час -7
+  },
+  Etc/GMT+8: {
+    Generic: унівэрсальны каардынаваны час -8,
+    Standard: унівэрсальны каардынаваны час -8,
+    Daylight: унівэрсальны каардынаваны час -8
+  },
+  Etc/GMT+9: {
+    Generic: унівэрсальны каардынаваны час -9,
+    Standard: унівэрсальны каардынаваны час -9,
+    Daylight: унівэрсальны каардынаваны час -9
+  },
   Etc/GMT-0: {
     Generic: Час па Грынвічы,
     Standard: Час па Грынвічы,
     Daylight: Час па Грынвічы
+  },
+  Etc/GMT-1: {
+    Generic: унівэрсальны каардынаваны час +1,
+    Standard: унівэрсальны каардынаваны час +1,
+    Daylight: унівэрсальны каардынаваны час +1
+  },
+  Etc/GMT-10: {
+    Generic: унівэрсальны каардынаваны час +10,
+    Standard: унівэрсальны каардынаваны час +10,
+    Daylight: унівэрсальны каардынаваны час +10
+  },
+  Etc/GMT-11: {
+    Generic: унівэрсальны каардынаваны час +11,
+    Standard: унівэрсальны каардынаваны час +11,
+    Daylight: унівэрсальны каардынаваны час +11
+  },
+  Etc/GMT-12: {
+    Generic: унівэрсальны каардынаваны час +12,
+    Standard: унівэрсальны каардынаваны час +12,
+    Daylight: унівэрсальны каардынаваны час +12
+  },
+  Etc/GMT-13: {
+    Generic: унівэрсальны каардынаваны час +13,
+    Standard: унівэрсальны каардынаваны час +13,
+    Daylight: унівэрсальны каардынаваны час +13
+  },
+  Etc/GMT-14: {
+    Generic: унівэрсальны каардынаваны час +14,
+    Standard: унівэрсальны каардынаваны час +14,
+    Daylight: унівэрсальны каардынаваны час +14
+  },
+  Etc/GMT-2: {
+    Generic: унівэрсальны каардынаваны час +2,
+    Standard: унівэрсальны каардынаваны час +2,
+    Daylight: унівэрсальны каардынаваны час +2
+  },
+  Etc/GMT-3: {
+    Generic: унівэрсальны каардынаваны час +3,
+    Standard: унівэрсальны каардынаваны час +3,
+    Daylight: унівэрсальны каардынаваны час +3
+  },
+  Etc/GMT-4: {
+    Generic: унівэрсальны каардынаваны час +4,
+    Standard: унівэрсальны каардынаваны час +4,
+    Daylight: унівэрсальны каардынаваны час +4
+  },
+  Etc/GMT-5: {
+    Generic: унівэрсальны каардынаваны час +5,
+    Standard: унівэрсальны каардынаваны час +5,
+    Daylight: унівэрсальны каардынаваны час +5
+  },
+  Etc/GMT-6: {
+    Generic: унівэрсальны каардынаваны час +6,
+    Standard: унівэрсальны каардынаваны час +6,
+    Daylight: унівэрсальны каардынаваны час +6
+  },
+  Etc/GMT-7: {
+    Generic: унівэрсальны каардынаваны час +7,
+    Standard: унівэрсальны каардынаваны час +7,
+    Daylight: унівэрсальны каардынаваны час +7
+  },
+  Etc/GMT-8: {
+    Generic: унівэрсальны каардынаваны час +8,
+    Standard: унівэрсальны каардынаваны час +8,
+    Daylight: унівэрсальны каардынаваны час +8
+  },
+  Etc/GMT-9: {
+    Generic: унівэрсальны каардынаваны час +9,
+    Standard: унівэрсальны каардынаваны час +9,
+    Daylight: унівэрсальны каардынаваны час +9
   },
   Etc/GMT0: {
     Generic: Час па Грынвічы,
@@ -2768,6 +2103,356 @@
     Generic: Час па Грынвічы,
     Standard: Час па Грынвічы,
     Daylight: Час па Грынвічы
+  },
+  Etc/UCT: {
+    Generic: унівэрсальны каардынаваны час,
+    Standard: унівэрсальны каардынаваны час,
+    Daylight: унівэрсальны каардынаваны час
+  },
+  Etc/UTC: {
+    Generic: унівэрсальны каардынаваны час,
+    Standard: унівэрсальны каардынаваны час,
+    Daylight: унівэрсальны каардынаваны час
+  },
+  Etc/Universal: {
+    Generic: унівэрсальны каардынаваны час,
+    Standard: унівэрсальны каардынаваны час,
+    Daylight: унівэрсальны каардынаваны час
+  },
+  Etc/Zulu: {
+    Generic: унівэрсальны каардынаваны час,
+    Standard: унівэрсальны каардынаваны час,
+    Daylight: унівэрсальны каардынаваны час
+  },
+  Europe/Amsterdam: {
+    Generic: Цэнтральнаэўрапейскі час,
+    Standard: Цэнтральнаэўрапейскі змоўчны час,
+    Daylight: Цэнтральнаэўрапейскі летні час
+  },
+  Europe/Andorra: {
+    Generic: Цэнтральнаэўрапейскі час,
+    Standard: Цэнтральнаэўрапейскі змоўчны час,
+    Daylight: Цэнтральнаэўрапейскі летні час
+  },
+  Europe/Astrakhan: {
+    Generic: час: Астрахань,
+    Standard: змоўчны час: Астрахань,
+    Daylight: летні час: Астрахань
+  },
+  Europe/Athens: {
+    Generic: Усходнеэўрапейскі час,
+    Standard: Усходнеэўрапейскі змоўчны час,
+    Daylight: Усходнеэўрапейскі летні час
+  },
+  Europe/Belfast: {
+    Generic: час: Вялікабрытанія,
+    Standard: Час па Грынвічы,
+    Daylight: Брытанскі летні час
+  },
+  Europe/Belgrade: {
+    Generic: Цэнтральнаэўрапейскі час,
+    Standard: Цэнтральнаэўрапейскі змоўчны час,
+    Daylight: Цэнтральнаэўрапейскі летні час
+  },
+  Europe/Berlin: {
+    Generic: Цэнтральнаэўрапейскі час,
+    Standard: Цэнтральнаэўрапейскі змоўчны час,
+    Daylight: Цэнтральнаэўрапейскі летні час
+  },
+  Europe/Bratislava: {
+    Generic: Цэнтральнаэўрапейскі час,
+    Standard: Цэнтральнаэўрапейскі змоўчны час,
+    Daylight: Цэнтральнаэўрапейскі летні час
+  },
+  Europe/Brussels: {
+    Generic: Цэнтральнаэўрапейскі час,
+    Standard: Цэнтральнаэўрапейскі змоўчны час,
+    Daylight: Цэнтральнаэўрапейскі летні час
+  },
+  Europe/Bucharest: {
+    Generic: Усходнеэўрапейскі час,
+    Standard: Усходнеэўрапейскі змоўчны час,
+    Daylight: Усходнеэўрапейскі летні час
+  },
+  Europe/Budapest: {
+    Generic: Цэнтральнаэўрапейскі час,
+    Standard: Цэнтральнаэўрапейскі змоўчны час,
+    Daylight: Цэнтральнаэўрапейскі летні час
+  },
+  Europe/Busingen: {
+    Generic: Цэнтральнаэўрапейскі час,
+    Standard: Цэнтральнаэўрапейскі змоўчны час,
+    Daylight: Цэнтральнаэўрапейскі летні час
+  },
+  Europe/Chisinau: {
+    Generic: Усходнеэўрапейскі час,
+    Standard: Усходнеэўрапейскі змоўчны час,
+    Daylight: Усходнеэўрапейскі летні час
+  },
+  Europe/Copenhagen: {
+    Generic: Цэнтральнаэўрапейскі час,
+    Standard: Цэнтральнаэўрапейскі змоўчны час,
+    Daylight: Цэнтральнаэўрапейскі летні час
+  },
+  Europe/Dublin: {
+    Generic: час: Ірляндыя,
+    Standard: Час па Грынвічы,
+    Daylight: Ірляндзкі змоўчны час
+  },
+  Europe/Gibraltar: {
+    Generic: Цэнтральнаэўрапейскі час,
+    Standard: Цэнтральнаэўрапейскі змоўчны час,
+    Daylight: Цэнтральнаэўрапейскі летні час
+  },
+  Europe/Guernsey: {
+    Generic: Час па Грынвічы,
+    Standard: Час па Грынвічы,
+    Daylight: Час па Грынвічы
+  },
+  Europe/Helsinki: {
+    Generic: Усходнеэўрапейскі час,
+    Standard: Усходнеэўрапейскі змоўчны час,
+    Daylight: Усходнеэўрапейскі летні час
+  },
+  Europe/Isle_of_Man: {
+    Generic: Час па Грынвічы,
+    Standard: Час па Грынвічы,
+    Daylight: Час па Грынвічы
+  },
+  Europe/Istanbul: {
+    Generic: час: Турэччына,
+    Standard: змоўчны час: Турэччына,
+    Daylight: летні час: Турэччына
+  },
+  Europe/Jersey: {
+    Generic: Час па Грынвічы,
+    Standard: Час па Грынвічы,
+    Daylight: Час па Грынвічы
+  },
+  Europe/Kaliningrad: {
+    Generic: час: Калінінград,
+    Standard: змоўчны час: Калінінград,
+    Daylight: летні час: Калінінград
+  },
+  Europe/Kiev: {
+    Generic: Усходнеэўрапейскі час,
+    Standard: Усходнеэўрапейскі змоўчны час,
+    Daylight: Усходнеэўрапейскі летні час
+  },
+  Europe/Kirov: {
+    Generic: час: Кіраў,
+    Standard: змоўчны час: Кіраў,
+    Daylight: летні час: Кіраў
+  },
+  Europe/Kyiv: {
+    Generic: Усходнеэўрапейскі час,
+    Standard: Усходнеэўрапейскі змоўчны час,
+    Daylight: Усходнеэўрапейскі летні час
+  },
+  Europe/Lisbon: {
+    Generic: Заходнеэўрапейскі час,
+    Standard: Заходнеэўрапейскі змоўчны час,
+    Daylight: Заходнеэўрапейскі летні час
+  },
+  Europe/Ljubljana: {
+    Generic: Цэнтральнаэўрапейскі час,
+    Standard: Цэнтральнаэўрапейскі змоўчны час,
+    Daylight: Цэнтральнаэўрапейскі летні час
+  },
+  Europe/London: {
+    Generic: час: Вялікабрытанія,
+    Standard: Час па Грынвічы,
+    Daylight: Брытанскі летні час
+  },
+  Europe/Luxembourg: {
+    Generic: Цэнтральнаэўрапейскі час,
+    Standard: Цэнтральнаэўрапейскі змоўчны час,
+    Daylight: Цэнтральнаэўрапейскі летні час
+  },
+  Europe/Madrid: {
+    Generic: Цэнтральнаэўрапейскі час,
+    Standard: Цэнтральнаэўрапейскі змоўчны час,
+    Daylight: Цэнтральнаэўрапейскі летні час
+  },
+  Europe/Malta: {
+    Generic: Цэнтральнаэўрапейскі час,
+    Standard: Цэнтральнаэўрапейскі змоўчны час,
+    Daylight: Цэнтральнаэўрапейскі летні час
+  },
+  Europe/Mariehamn: {
+    Generic: Усходнеэўрапейскі час,
+    Standard: Усходнеэўрапейскі змоўчны час,
+    Daylight: Усходнеэўрапейскі летні час
+  },
+  Europe/Minsk: {
+    Generic: Маскоўскі час,
+    Standard: Маскоўскі змоўчны час,
+    Daylight: Маскоўскі летні час
+  },
+  Europe/Monaco: {
+    Generic: Цэнтральнаэўрапейскі час,
+    Standard: Цэнтральнаэўрапейскі змоўчны час,
+    Daylight: Цэнтральнаэўрапейскі летні час
+  },
+  Europe/Moscow: {
+    Generic: час: Масква,
+    Standard: змоўчны час: Масква,
+    Daylight: летні час: Масква
+  },
+  Europe/Nicosia: {
+    Generic: Усходнеэўрапейскі час,
+    Standard: Усходнеэўрапейскі змоўчны час,
+    Daylight: Усходнеэўрапейскі летні час
+  },
+  Europe/Oslo: {
+    Generic: Цэнтральнаэўрапейскі час,
+    Standard: Цэнтральнаэўрапейскі змоўчны час,
+    Daylight: Цэнтральнаэўрапейскі летні час
+  },
+  Europe/Paris: {
+    Generic: Цэнтральнаэўрапейскі час,
+    Standard: Цэнтральнаэўрапейскі змоўчны час,
+    Daylight: Цэнтральнаэўрапейскі летні час
+  },
+  Europe/Podgorica: {
+    Generic: Цэнтральнаэўрапейскі час,
+    Standard: Цэнтральнаэўрапейскі змоўчны час,
+    Daylight: Цэнтральнаэўрапейскі летні час
+  },
+  Europe/Prague: {
+    Generic: Цэнтральнаэўрапейскі час,
+    Standard: Цэнтральнаэўрапейскі змоўчны час,
+    Daylight: Цэнтральнаэўрапейскі летні час
+  },
+  Europe/Riga: {
+    Generic: Усходнеэўрапейскі час,
+    Standard: Усходнеэўрапейскі змоўчны час,
+    Daylight: Усходнеэўрапейскі летні час
+  },
+  Europe/Rome: {
+    Generic: Цэнтральнаэўрапейскі час,
+    Standard: Цэнтральнаэўрапейскі змоўчны час,
+    Daylight: Цэнтральнаэўрапейскі летні час
+  },
+  Europe/Samara: {
+    Generic: час: Самара,
+    Standard: змоўчны час: Самара,
+    Daylight: летні час: Самара
+  },
+  Europe/San_Marino: {
+    Generic: Цэнтральнаэўрапейскі час,
+    Standard: Цэнтральнаэўрапейскі змоўчны час,
+    Daylight: Цэнтральнаэўрапейскі летні час
+  },
+  Europe/Sarajevo: {
+    Generic: Цэнтральнаэўрапейскі час,
+    Standard: Цэнтральнаэўрапейскі змоўчны час,
+    Daylight: Цэнтральнаэўрапейскі летні час
+  },
+  Europe/Saratov: {
+    Generic: час: Саратаў,
+    Standard: змоўчны час: Саратаў,
+    Daylight: летні час: Саратаў
+  },
+  Europe/Simferopol: {
+    Generic: Маскоўскі час,
+    Standard: Маскоўскі змоўчны час,
+    Daylight: Маскоўскі летні час
+  },
+  Europe/Skopje: {
+    Generic: Цэнтральнаэўрапейскі час,
+    Standard: Цэнтральнаэўрапейскі змоўчны час,
+    Daylight: Цэнтральнаэўрапейскі летні час
+  },
+  Europe/Sofia: {
+    Generic: Усходнеэўрапейскі час,
+    Standard: Усходнеэўрапейскі змоўчны час,
+    Daylight: Усходнеэўрапейскі летні час
+  },
+  Europe/Stockholm: {
+    Generic: Цэнтральнаэўрапейскі час,
+    Standard: Цэнтральнаэўрапейскі змоўчны час,
+    Daylight: Цэнтральнаэўрапейскі летні час
+  },
+  Europe/Tallinn: {
+    Generic: Усходнеэўрапейскі час,
+    Standard: Усходнеэўрапейскі змоўчны час,
+    Daylight: Усходнеэўрапейскі летні час
+  },
+  Europe/Tirane: {
+    Generic: Цэнтральнаэўрапейскі час,
+    Standard: Цэнтральнаэўрапейскі змоўчны час,
+    Daylight: Цэнтральнаэўрапейскі летні час
+  },
+  Europe/Tiraspol: {
+    Generic: Усходнеэўрапейскі час,
+    Standard: Усходнеэўрапейскі змоўчны час,
+    Daylight: Усходнеэўрапейскі летні час
+  },
+  Europe/Ulyanovsk: {
+    Generic: час: Ульянаўск,
+    Standard: змоўчны час: Ульянаўск,
+    Daylight: летні час: Ульянаўск
+  },
+  Europe/Uzhgorod: {
+    Generic: Усходнеэўрапейскі час,
+    Standard: Усходнеэўрапейскі змоўчны час,
+    Daylight: Усходнеэўрапейскі летні час
+  },
+  Europe/Vaduz: {
+    Generic: Цэнтральнаэўрапейскі час,
+    Standard: Цэнтральнаэўрапейскі змоўчны час,
+    Daylight: Цэнтральнаэўрапейскі летні час
+  },
+  Europe/Vatican: {
+    Generic: Цэнтральнаэўрапейскі час,
+    Standard: Цэнтральнаэўрапейскі змоўчны час,
+    Daylight: Цэнтральнаэўрапейскі летні час
+  },
+  Europe/Vienna: {
+    Generic: Цэнтральнаэўрапейскі час,
+    Standard: Цэнтральнаэўрапейскі змоўчны час,
+    Daylight: Цэнтральнаэўрапейскі летні час
+  },
+  Europe/Vilnius: {
+    Generic: Усходнеэўрапейскі час,
+    Standard: Усходнеэўрапейскі змоўчны час,
+    Daylight: Усходнеэўрапейскі летні час
+  },
+  Europe/Volgograd: {
+    Generic: час: Валгаград,
+    Standard: змоўчны час: Валгаград,
+    Daylight: летні час: Валгаград
+  },
+  Europe/Warsaw: {
+    Generic: Цэнтральнаэўрапейскі час,
+    Standard: Цэнтральнаэўрапейскі змоўчны час,
+    Daylight: Цэнтральнаэўрапейскі летні час
+  },
+  Europe/Zagreb: {
+    Generic: Цэнтральнаэўрапейскі час,
+    Standard: Цэнтральнаэўрапейскі змоўчны час,
+    Daylight: Цэнтральнаэўрапейскі летні час
+  },
+  Europe/Zaporozhye: {
+    Generic: Усходнеэўрапейскі час,
+    Standard: Усходнеэўрапейскі змоўчны час,
+    Daylight: Усходнеэўрапейскі летні час
+  },
+  Europe/Zurich: {
+    Generic: Цэнтральнаэўрапейскі час,
+    Standard: Цэнтральнаэўрапейскі змоўчны час,
+    Daylight: Цэнтральнаэўрапейскі летні час
+  },
+  GB: {
+    Generic: час: Вялікабрытанія,
+    Standard: Час па Грынвічы,
+    Daylight: Брытанскі летні час
+  },
+  GB-Eire: {
+    Generic: час: Вялікабрытанія,
+    Standard: Час па Грынвічы,
+    Daylight: Брытанскі летні час
   },
   GMT: {
     Generic: Час па Грынвічы,
@@ -2794,120 +2479,135 @@
     Standard: Час па Грынвічы,
     Daylight: Час па Грынвічы
   },
-  Etc/UCT: {
-    Generic: унівэрсальны каардынаваны час,
-    Standard: унівэрсальны каардынаваны час,
-    Daylight: унівэрсальны каардынаваны час
+  HST: {
+    Generic: унівэрсальны каардынаваны час -10,
+    Standard: унівэрсальны каардынаваны час -10,
+    Daylight: унівэрсальны каардынаваны час -10
   },
-  Etc/Universal: {
-    Generic: унівэрсальны каардынаваны час,
-    Standard: унівэрсальны каардынаваны час,
-    Daylight: унівэрсальны каардынаваны час
+  Hongkong: {
+    Generic: Час Ганконгу,
+    Standard: Змоўчны час Ганконга,
+    Daylight: Летні час Ганконгу
   },
-  Etc/Zulu: {
-    Generic: унівэрсальны каардынаваны час,
-    Standard: унівэрсальны каардынаваны час,
-    Daylight: унівэрсальны каардынаваны час
+  Iceland: {
+    Generic: Час па Грынвічы,
+    Standard: Час па Грынвічы,
+    Daylight: Час па Грынвічы
   },
-  UCT: {
-    Generic: унівэрсальны каардынаваны час,
-    Standard: унівэрсальны каардынаваны час,
-    Daylight: унівэрсальны каардынаваны час
+  Indian/Antananarivo: {
+    Generic: Усходнеафрыканскі час,
+    Standard: Усходнеафрыканскі час,
+    Daylight: Усходнеафрыканскі час
   },
-  UTC: {
-    Generic: унівэрсальны каардынаваны час,
-    Standard: унівэрсальны каардынаваны час,
-    Daylight: унівэрсальны каардынаваны час
+  Indian/Chagos: {
+    Generic: Час Індыйскага акіяну,
+    Standard: Час Індыйскага акіяну,
+    Daylight: Час Індыйскага акіяну
   },
-  Universal: {
-    Generic: унівэрсальны каардынаваны час,
-    Standard: унівэрсальны каардынаваны час,
-    Daylight: унівэрсальны каардынаваны час
+  Indian/Christmas: {
+    Generic: Час вострава Раства,
+    Standard: Час вострава Раства,
+    Daylight: Час вострава Раства
   },
-  Zulu: {
-    Generic: унівэрсальны каардынаваны час,
-    Standard: унівэрсальны каардынаваны час,
-    Daylight: унівэрсальны каардынаваны час
+  Indian/Cocos: {
+    Generic: Час Какосавых астравоў,
+    Standard: Час Какосавых астравоў,
+    Daylight: Час Какосавых астравоў
   },
-  Atlantic/Jan_Mayen: {
-    Generic: Цэнтральнаэўрапейскі час,
-    Standard: Цэнтральнаэўрапейскі змоўчны час,
-    Daylight: Цэнтральнаэўрапейскі летні час
+  Indian/Comoro: {
+    Generic: Усходнеафрыканскі час,
+    Standard: Усходнеафрыканскі час,
+    Daylight: Усходнеафрыканскі час
+  },
+  Indian/Kerguelen: {
+    Generic: Час Францускай паўднёва-антарктычнай тэрыторыі,
+    Standard: Час Францускай паўднёва-антарктычнай тэрыторыі,
+    Daylight: Час Францускай паўднёва-антарктычнай тэрыторыі
+  },
+  Indian/Mahe: {
+    Generic: Час Сэйшэлаў,
+    Standard: Час Сэйшэлаў,
+    Daylight: Час Сэйшэлаў
+  },
+  Indian/Maldives: {
+    Generic: Час Мальдываў,
+    Standard: Час Мальдываў,
+    Daylight: Час Мальдываў
+  },
+  Indian/Mauritius: {
+    Generic: Час Маўрыцыю,
+    Standard: Змоўчны час Маўрыцыю,
+    Daylight: Летні час Маўрыцыю
+  },
+  Indian/Mayotte: {
+    Generic: Усходнеафрыканскі час,
+    Standard: Усходнеафрыканскі час,
+    Daylight: Усходнеафрыканскі час
+  },
+  Indian/Reunion: {
+    Generic: Час Рэюньёна,
+    Standard: Час Рэюньёна,
+    Daylight: Час Рэюньёна
+  },
+  Iran: {
+    Generic: Іранскі час,
+    Standard: Іранскі змоўчны час,
+    Daylight: Іранскі летні час
+  },
+  Israel: {
+    Generic: Ізраільскі час,
+    Standard: Ізраільскі змоўчны час,
+    Daylight: Ізраільскі летні час
+  },
+  Jamaica: {
+    Generic: Паўночнаамэрыканскі ўсходні час,
+    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
+    Daylight: Паўночнаамэрыканскі ўсходні летні час
+  },
+  Japan: {
+    Generic: Час Японіі,
+    Standard: Змоўчны час Японіі,
+    Daylight: Летні час Японіі
+  },
+  Kwajalein: {
+    Generic: Час Маршалавых астравоў,
+    Standard: Час Маршалавых астравоў,
+    Daylight: Час Маршалавых астравоў
+  },
+  Libya: {
+    Generic: Усходнеэўрапейскі час,
+    Standard: Усходнеэўрапейскі змоўчны час,
+    Daylight: Усходнеэўрапейскі летні час
   },
   MET: {
     Generic: Цэнтральнаэўрапейскі час,
     Standard: Цэнтральнаэўрапейскі змоўчны час,
     Daylight: Цэнтральнаэўрапейскі летні час
   },
-  EET: {
-    Generic: Усходнеэўрапейскі час,
-    Standard: Усходнеэўрапейскі змоўчны час,
-    Daylight: Усходнеэўрапейскі летні час
+  MST: {
+    Generic: унівэрсальны каардынаваны час -7,
+    Standard: унівэрсальны каардынаваны час -7,
+    Daylight: унівэрсальны каардынаваны час -7
   },
-  Europe/Tiraspol: {
-    Generic: Усходнеэўрапейскі час,
-    Standard: Усходнеэўрапейскі змоўчны час,
-    Daylight: Усходнеэўрапейскі летні час
+  MST7MDT: {
+    Generic: Паўночнаамэрыканскі горны час,
+    Standard: Паўночнаамэрыканскі горны змоўчны час,
+    Daylight: Паўночнаамэрыканскі горны летні час
   },
-  Eire: {
-    Generic: час: Ірляндыя,
-    Standard: Час па Грынвічы,
-    Daylight: Ірляндзкі змоўчны час
+  Mexico/BajaNorte: {
+    Generic: Ціхаакіянскі час,
+    Standard: Ціхаакіянскі змоўчны час,
+    Daylight: Ціхаакіянскі летні час
   },
-  Asia/Istanbul: {
-    Generic: час: Турэччына,
-    Standard: змоўчны час: Турэччына,
-    Daylight: летні час: Турэччына
+  Mexico/BajaSur: {
+    Generic: Мэксыканскі ціхаакіянскі час,
+    Standard: Мэксыканскі ціхаакіянскі стандатны час,
+    Daylight: Мэксыканскі ціхаакіянскі летні час
   },
-  Turkey: {
-    Generic: час: Турэччына,
-    Standard: змоўчны час: Турэччына,
-    Daylight: летні час: Турэччына
-  },
-  Europe/Kyiv: {
-    Generic: Усходнеэўрапейскі час,
-    Standard: Усходнеэўрапейскі змоўчны час,
-    Daylight: Усходнеэўрапейскі летні час
-  },
-  Portugal: {
-    Generic: Заходнеэўрапейскі час,
-    Standard: Заходнеэўрапейскі змоўчны час,
-    Daylight: Заходнеэўрапейскі летні час
-  },
-  Europe/Belfast: {
-    Generic: час: Вялікабрытанія,
-    Standard: Час па Грынвічы,
-    Daylight: Брытанскі летні час
-  },
-  GB: {
-    Generic: час: Вялікабрытанія,
-    Standard: Час па Грынвічы,
-    Daylight: Брытанскі летні час
-  },
-  GB-Eire: {
-    Generic: час: Вялікабрытанія,
-    Standard: Час па Грынвічы,
-    Daylight: Брытанскі летні час
-  },
-  W-SU: {
-    Generic: час: Масква,
-    Standard: змоўчны час: Масква,
-    Daylight: летні час: Масква
-  },
-  CET: {
-    Generic: Цэнтральнаэўрапейскі час,
-    Standard: Цэнтральнаэўрапейскі змоўчны час,
-    Daylight: Цэнтральнаэўрапейскі летні час
-  },
-  Poland: {
-    Generic: Цэнтральнаэўрапейскі час,
-    Standard: Цэнтральнаэўрапейскі змоўчны час,
-    Daylight: Цэнтральнаэўрапейскі летні час
-  },
-  Antarctica/South_Pole: {
-    Generic: Час Новай Зэляндыі,
-    Standard: Змоўчны час Новай Зэляндыі,
-    Daylight: Летні час Новай Зэляндыі
+  Mexico/General: {
+    Generic: Паўночнаамэрыканскі цэнтральны час,
+    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
+    Daylight: Паўночнаамэрыканскі цэнтральны летні час
   },
   NZ: {
     Generic: Час Новай Зэляндыі,
@@ -2919,17 +2619,102 @@
     Standard: Змоўчны час Чатэму,
     Daylight: Летні час Чатэму
   },
-  Chile/EasterIsland: {
+  Navajo: {
+    Generic: Паўночнаамэрыканскі горны час,
+    Standard: Паўночнаамэрыканскі горны змоўчны час,
+    Daylight: Паўночнаамэрыканскі горны летні час
+  },
+  PRC: {
+    Generic: Час Кітая,
+    Standard: Змоўчны час Кітаю,
+    Daylight: Летні час Кітаю
+  },
+  PST8PDT: {
+    Generic: Ціхаакіянскі час,
+    Standard: Ціхаакіянскі змоўчны час,
+    Daylight: Ціхаакіянскі летні час
+  },
+  Pacific/Apia: {
+    Generic: Час Апіі,
+    Standard: Змоўчны час Апіі,
+    Daylight: Летні час Апіі
+  },
+  Pacific/Auckland: {
+    Generic: Час Новай Зэляндыі,
+    Standard: Змоўчны час Новай Зэляндыі,
+    Daylight: Летні час Новай Зэляндыі
+  },
+  Pacific/Bougainville: {
+    Generic: Час Папуа-Новай Гвінэі,
+    Standard: Час Папуа-Новай Гвінэі,
+    Daylight: Час Папуа-Новай Гвінэі
+  },
+  Pacific/Chatham: {
+    Generic: Час Чатэму,
+    Standard: Змоўчны час Чатэму,
+    Daylight: Летні час Чатэму
+  },
+  Pacific/Chuuk: {
+    Generic: Час Трука,
+    Standard: Час Трука,
+    Daylight: Час Трука
+  },
+  Pacific/Easter: {
     Generic: Час вострава Пасхі,
     Standard: Змоўчны час вострава Раства,
     Daylight: Летні час вострава Раства
   },
-  Pacific/Pohnpei: {
-    Generic: Час вострава Панпэі,
-    Standard: Час вострава Панпэі,
-    Daylight: Час вострава Панпэі
+  Pacific/Efate: {
+    Generic: Час Вануату,
+    Standard: Змоўчны час Вануату,
+    Daylight: Летні час Вануату
   },
-  US/Hawaii: {
+  Pacific/Enderbury: {
+    Generic: Час астравоў Фінікс,
+    Standard: Час астравоў Фінікс,
+    Daylight: Час астравоў Фінікс
+  },
+  Pacific/Fakaofo: {
+    Generic: Час Такелаў,
+    Standard: Час Такелаў,
+    Daylight: Час Такелаў
+  },
+  Pacific/Fiji: {
+    Generic: Час Фіджы,
+    Standard: Змоўчны час Фіджы,
+    Daylight: Летні час Фіджы
+  },
+  Pacific/Funafuti: {
+    Generic: Час Тувалу,
+    Standard: Час Тувалу,
+    Daylight: Час Тувалу
+  },
+  Pacific/Galapagos: {
+    Generic: Змоўчны час Галяпагоскіх астравоў,
+    Standard: Змоўчны час Галяпагоскіх астравоў,
+    Daylight: Змоўчны час Галяпагоскіх астравоў
+  },
+  Pacific/Gambier: {
+    Generic: Час астравоў Гамб’е,
+    Standard: Час астравоў Гамб’е,
+    Daylight: Час астравоў Гамб’е
+  },
+  Pacific/Guadalcanal: {
+    Generic: Час Саламонавых астравоў,
+    Standard: Час Саламонавых астравоў,
+    Daylight: Час Саламонавых астравоў
+  },
+  Pacific/Guam: {
+    Generic: Час Чамора,
+    Standard: Час Чамора,
+    Daylight: Час Чамора
+  },
+  Pacific/Honolulu: {
+    Generic: Гавайска-Алевуцкі час,
+    Standard: Гавайска-Алэвуцкі змоўчны час,
+    Daylight: Гавайска-Алевуцкі летні час
+  },
+  Pacific/Johnston: {
     Generic: Гавайска-Алевуцкі час,
     Standard: Гавайска-Алэвуцкі змоўчны час,
     Daylight: Гавайска-Алевуцкі летні час
@@ -2939,39 +2724,254 @@
     Standard: Час астравоў Фінікс,
     Daylight: Час астравоў Фінікс
   },
-  Kwajalein: {
+  Pacific/Kiritimati: {
+    Generic: Час астравоў Лайн,
+    Standard: Час астравоў Лайн,
+    Daylight: Час астравоў Лайн
+  },
+  Pacific/Kosrae: {
+    Generic: Час астравоў Касраэ,
+    Standard: Час астравоў Касраэ,
+    Daylight: Час астравоў Касраэ
+  },
+  Pacific/Kwajalein: {
     Generic: Час Маршалавых астравоў,
     Standard: Час Маршалавых астравоў,
     Daylight: Час Маршалавых астравоў
+  },
+  Pacific/Majuro: {
+    Generic: Час Маршалавых астравоў,
+    Standard: Час Маршалавых астравоў,
+    Daylight: Час Маршалавых астравоў
+  },
+  Pacific/Marquesas: {
+    Generic: Час Маркіскіх астравоў,
+    Standard: Час Маркіскіх астравоў,
+    Daylight: Час Маркіскіх астравоў
+  },
+  Pacific/Midway: {
+    Generic: Час Самоа,
+    Standard: Змоўчны час Самоа,
+    Daylight: Летні час Самоа
+  },
+  Pacific/Nauru: {
+    Generic: Час Наўру,
+    Standard: Час Наўру,
+    Daylight: Час Наўру
+  },
+  Pacific/Niue: {
+    Generic: Час Ніуэ,
+    Standard: Час Ніуэ,
+    Daylight: Час Ніуэ
+  },
+  Pacific/Norfolk: {
+    Generic: Час вострава Норфалк,
+    Standard: Змоўчны час вострава Норфалк,
+    Daylight: Летні час вострава Норфалк
+  },
+  Pacific/Noumea: {
+    Generic: Час Новай Каледоніі,
+    Standard: Змоўчны час Новай Каледоніі,
+    Daylight: Летні час Новай Каледоніі
+  },
+  Pacific/Pago_Pago: {
+    Generic: Час Самоа,
+    Standard: Змоўчны час Самоа,
+    Daylight: Летні час Самоа
+  },
+  Pacific/Palau: {
+    Generic: Час Палаў,
+    Standard: Час Палаў,
+    Daylight: Час Палаў
+  },
+  Pacific/Pitcairn: {
+    Generic: Час вострава Піткэрн,
+    Standard: Час вострава Піткэрн,
+    Daylight: Час вострава Піткэрн
+  },
+  Pacific/Pohnpei: {
+    Generic: Час вострава Панпэі,
+    Standard: Час вострава Панпэі,
+    Daylight: Час вострава Панпэі
+  },
+  Pacific/Ponape: {
+    Generic: Час вострава Панпэі,
+    Standard: Час вострава Панпэі,
+    Daylight: Час вострава Панпэі
+  },
+  Pacific/Port_Moresby: {
+    Generic: Час Папуа-Новай Гвінэі,
+    Standard: Час Папуа-Новай Гвінэі,
+    Daylight: Час Папуа-Новай Гвінэі
+  },
+  Pacific/Rarotonga: {
+    Generic: Час астравоў Кука,
+    Standard: Змоўчны час астравоў Кука,
+    Daylight: Паўлетні час астравоў Кука
+  },
+  Pacific/Saipan: {
+    Generic: Час Чамора,
+    Standard: Час Чамора,
+    Daylight: Час Чамора
   },
   Pacific/Samoa: {
     Generic: Час Самоа,
     Standard: Змоўчны час Самоа,
     Daylight: Летні час Самоа
   },
-  US/Samoa: {
-    Generic: Час Самоа,
-    Standard: Змоўчны час Самоа,
-    Daylight: Летні час Самоа
+  Pacific/Tahiti: {
+    Generic: Час Таіці,
+    Standard: Час Таіці,
+    Daylight: Час Таіці
   },
-  Pacific/Chuuk: {
+  Pacific/Tarawa: {
+    Generic: Час астравоў Гілбэрта,
+    Standard: Час астравоў Гілбэрта,
+    Daylight: Час астравоў Гілбэрта
+  },
+  Pacific/Tongatapu: {
+    Generic: Час Тонга,
+    Standard: Змоўчны час Тонга,
+    Daylight: Летні час Тонга
+  },
+  Pacific/Truk: {
     Generic: Час Трука,
     Standard: Час Трука,
     Daylight: Час Трука
+  },
+  Pacific/Wake: {
+    Generic: Час вострава Ўэйк,
+    Standard: Час вострава Ўэйк,
+    Daylight: Час вострава Ўэйк
+  },
+  Pacific/Wallis: {
+    Generic: Час астравоў Ўоліс і Футуна,
+    Standard: Час астравоў Ўоліс і Футуна,
+    Daylight: Час астравоў Ўоліс і Футуна
   },
   Pacific/Yap: {
     Generic: Час Трука,
     Standard: Час Трука,
     Daylight: Час Трука
   },
-  America/Fort_Wayne: {
+  Poland: {
+    Generic: Цэнтральнаэўрапейскі час,
+    Standard: Цэнтральнаэўрапейскі змоўчны час,
+    Daylight: Цэнтральнаэўрапейскі летні час
+  },
+  Portugal: {
+    Generic: Заходнеэўрапейскі час,
+    Standard: Заходнеэўрапейскі змоўчны час,
+    Daylight: Заходнеэўрапейскі летні час
+  },
+  ROC: {
+    Generic: Час Тайбэю,
+    Standard: Змоўчны час Тайбэя,
+    Daylight: Летні час Тайбэю
+  },
+  ROK: {
+    Generic: Час Карэі,
+    Standard: Змоўчны час Карэі,
+    Daylight: Летні час Карэі
+  },
+  Singapore: {
+    Generic: Сынгапурскі час,
+    Standard: Сынгапурскі час,
+    Daylight: Сынгапурскі час
+  },
+  Turkey: {
+    Generic: час: Турэччына,
+    Standard: змоўчны час: Турэччына,
+    Daylight: летні час: Турэччына
+  },
+  UCT: {
+    Generic: унівэрсальны каардынаваны час,
+    Standard: унівэрсальны каардынаваны час,
+    Daylight: унівэрсальны каардынаваны час
+  },
+  US/Alaska: {
+    Generic: Час Аляскі,
+    Standard: Змоўчны час Аляскі,
+    Daylight: Летні час Аляскі
+  },
+  US/Aleutian: {
+    Generic: Гавайска-Алевуцкі час,
+    Standard: Гавайска-Алэвуцкі змоўчны час,
+    Daylight: Гавайска-Алевуцкі летні час
+  },
+  US/Arizona: {
+    Generic: Паўночнаамэрыканскі горны час,
+    Standard: Паўночнаамэрыканскі горны змоўчны час,
+    Daylight: Паўночнаамэрыканскі горны летні час
+  },
+  US/Central: {
+    Generic: Паўночнаамэрыканскі цэнтральны час,
+    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
+    Daylight: Паўночнаамэрыканскі цэнтральны летні час
+  },
+  US/East-Indiana: {
     Generic: Паўночнаамэрыканскі ўсходні час,
     Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
     Daylight: Паўночнаамэрыканскі ўсходні летні час
   },
-  Antarctica/Troll: {
-    Generic: Час па Грынвічы,
-    Standard: Час па Грынвічы,
-    Daylight: Час па Грынвічы
+  US/Eastern: {
+    Generic: Паўночнаамэрыканскі ўсходні час,
+    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
+    Daylight: Паўночнаамэрыканскі ўсходні летні час
+  },
+  US/Hawaii: {
+    Generic: Гавайска-Алевуцкі час,
+    Standard: Гавайска-Алэвуцкі змоўчны час,
+    Daylight: Гавайска-Алевуцкі летні час
+  },
+  US/Indiana-Starke: {
+    Generic: Паўночнаамэрыканскі цэнтральны час,
+    Standard: Паўночнаамэрыканскі цэнтральны змоўчны час,
+    Daylight: Паўночнаамэрыканскі цэнтральны летні час
+  },
+  US/Michigan: {
+    Generic: Паўночнаамэрыканскі ўсходні час,
+    Standard: Паўночнаамэрыканскі ўсходні змоўчны час,
+    Daylight: Паўночнаамэрыканскі ўсходні летні час
+  },
+  US/Mountain: {
+    Generic: Паўночнаамэрыканскі горны час,
+    Standard: Паўночнаамэрыканскі горны змоўчны час,
+    Daylight: Паўночнаамэрыканскі горны летні час
+  },
+  US/Pacific: {
+    Generic: Ціхаакіянскі час,
+    Standard: Ціхаакіянскі змоўчны час,
+    Daylight: Ціхаакіянскі летні час
+  },
+  US/Samoa: {
+    Generic: Час Самоа,
+    Standard: Змоўчны час Самоа,
+    Daylight: Летні час Самоа
+  },
+  UTC: {
+    Generic: унівэрсальны каардынаваны час,
+    Standard: унівэрсальны каардынаваны час,
+    Daylight: унівэрсальны каардынаваны час
+  },
+  Universal: {
+    Generic: унівэрсальны каардынаваны час,
+    Standard: унівэрсальны каардынаваны час,
+    Daylight: унівэрсальны каардынаваны час
+  },
+  W-SU: {
+    Generic: час: Масква,
+    Standard: змоўчны час: Масква,
+    Daylight: летні час: Масква
+  },
+  WET: {
+    Generic: Заходнеэўрапейскі час,
+    Standard: Заходнеэўрапейскі змоўчны час,
+    Daylight: Заходнеэўрапейскі летні час
+  },
+  Zulu: {
+    Generic: унівэрсальны каардынаваны час,
+    Standard: унівэрсальны каардынаваны час,
+    Daylight: унівэрсальны каардынаваны час
   }
 }

@@ -1,115 +1,330 @@
 ﻿{
-  Australia/Darwin: {
-    Generic: Oras sa Gitnang Australya,
-    Standard: Standard na Oras sa Gitnang Australya,
-    Daylight: Daylight Time sa Gitnang Australya
+  Africa/Abidjan: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
   },
-  Australia/Sydney: {
-    Generic: Oras sa Silangang Australya,
-    Standard: Standard na Oras sa Silangang Australya,
-    Daylight: Daylight Time sa Silangang Australya
+  Africa/Accra: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
   },
-  Australia/Melbourne: {
-    Generic: Oras sa Silangang Australya,
-    Standard: Standard na Oras sa Silangang Australya,
-    Daylight: Daylight Time sa Silangang Australya
+  Africa/Addis_Ababa: {
+    Generic: Oras sa Silangang Africa,
+    Standard: Oras sa Silangang Africa,
+    Daylight: Oras sa Silangang Africa
   },
-  Asia/Kabul: {
-    Generic: Oras sa Afghanistan,
-    Standard: Oras sa Afghanistan,
-    Daylight: Oras sa Afghanistan
+  Africa/Algiers: {
+    Generic: Oras sa Gitnang Europe,
+    Standard: Standard na Oras sa Gitnang Europe,
+    Daylight: Oras sa Tag-init ng Gitnang Europe
   },
-  America/Anchorage: {
-    Generic: Oras sa Alaska,
-    Standard: Standard na Oras sa Alaska,
-    Daylight: Daylight Time sa Alaska
+  Africa/Asmara: {
+    Generic: Oras sa Silangang Africa,
+    Standard: Oras sa Silangang Africa,
+    Daylight: Oras sa Silangang Africa
   },
-  America/Juneau: {
-    Generic: Oras sa Alaska,
-    Standard: Standard na Oras sa Alaska,
-    Daylight: Daylight Time sa Alaska
+  Africa/Asmera: {
+    Generic: Oras sa Silangang Africa,
+    Standard: Oras sa Silangang Africa,
+    Daylight: Oras sa Silangang Africa
   },
-  America/Metlakatla: {
-    Generic: Oras sa Alaska,
-    Standard: Standard na Oras sa Alaska,
-    Daylight: Daylight Time sa Alaska
+  Africa/Bamako: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
   },
-  America/Nome: {
-    Generic: Oras sa Alaska,
-    Standard: Standard na Oras sa Alaska,
-    Daylight: Daylight Time sa Alaska
+  Africa/Bangui: {
+    Generic: Oras sa Kanlurang Africa,
+    Standard: Standard na Oras sa Kanlurang Africa,
+    Daylight: Oras sa Tag-init ng Kanlurang Africa
   },
-  America/Sitka: {
-    Generic: Oras sa Alaska,
-    Standard: Standard na Oras sa Alaska,
-    Daylight: Daylight Time sa Alaska
+  Africa/Banjul: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
   },
-  America/Yakutat: {
-    Generic: Oras sa Alaska,
-    Standard: Standard na Oras sa Alaska,
-    Daylight: Daylight Time sa Alaska
+  Africa/Bissau: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
+  },
+  Africa/Blantyre: {
+    Generic: Oras sa Gitnang Africa,
+    Standard: Oras sa Gitnang Africa,
+    Daylight: Oras sa Gitnang Africa
+  },
+  Africa/Brazzaville: {
+    Generic: Oras sa Kanlurang Africa,
+    Standard: Standard na Oras sa Kanlurang Africa,
+    Daylight: Oras sa Tag-init ng Kanlurang Africa
+  },
+  Africa/Bujumbura: {
+    Generic: Oras sa Gitnang Africa,
+    Standard: Oras sa Gitnang Africa,
+    Daylight: Oras sa Gitnang Africa
+  },
+  Africa/Cairo: {
+    Generic: Oras sa Silangang Europe,
+    Standard: Standard na Oras sa Silangang Europe,
+    Daylight: Oras sa Tag-init ng Silangang Europe
+  },
+  Africa/Casablanca: {
+    Generic: Oras sa Kanlurang Europe,
+    Standard: Standard na Oras sa Kanlurang Europe,
+    Daylight: Oras sa Tag-init ng Kanlurang Europe
+  },
+  Africa/Ceuta: {
+    Generic: Oras sa Gitnang Europe,
+    Standard: Standard na Oras sa Gitnang Europe,
+    Daylight: Oras sa Tag-init ng Gitnang Europe
+  },
+  Africa/Conakry: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
+  },
+  Africa/Dakar: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
+  },
+  Africa/Dar_es_Salaam: {
+    Generic: Oras sa Silangang Africa,
+    Standard: Oras sa Silangang Africa,
+    Daylight: Oras sa Silangang Africa
+  },
+  Africa/Djibouti: {
+    Generic: Oras sa Silangang Africa,
+    Standard: Oras sa Silangang Africa,
+    Daylight: Oras sa Silangang Africa
+  },
+  Africa/Douala: {
+    Generic: Oras sa Kanlurang Africa,
+    Standard: Standard na Oras sa Kanlurang Africa,
+    Daylight: Oras sa Tag-init ng Kanlurang Africa
+  },
+  Africa/El_Aaiun: {
+    Generic: Oras sa Kanlurang Europe,
+    Standard: Standard na Oras sa Kanlurang Europe,
+    Daylight: Oras sa Tag-init ng Kanlurang Europe
+  },
+  Africa/Freetown: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
+  },
+  Africa/Gaborone: {
+    Generic: Oras sa Gitnang Africa,
+    Standard: Oras sa Gitnang Africa,
+    Daylight: Oras sa Gitnang Africa
+  },
+  Africa/Harare: {
+    Generic: Oras sa Gitnang Africa,
+    Standard: Oras sa Gitnang Africa,
+    Daylight: Oras sa Gitnang Africa
+  },
+  Africa/Johannesburg: {
+    Generic: Oras sa Timog Africa,
+    Standard: Oras sa Timog Africa,
+    Daylight: Oras sa Timog Africa
+  },
+  Africa/Juba: {
+    Generic: Oras sa Gitnang Africa,
+    Standard: Oras sa Gitnang Africa,
+    Daylight: Oras sa Gitnang Africa
+  },
+  Africa/Kampala: {
+    Generic: Oras sa Silangang Africa,
+    Standard: Oras sa Silangang Africa,
+    Daylight: Oras sa Silangang Africa
+  },
+  Africa/Khartoum: {
+    Generic: Oras sa Gitnang Africa,
+    Standard: Oras sa Gitnang Africa,
+    Daylight: Oras sa Gitnang Africa
+  },
+  Africa/Kigali: {
+    Generic: Oras sa Gitnang Africa,
+    Standard: Oras sa Gitnang Africa,
+    Daylight: Oras sa Gitnang Africa
+  },
+  Africa/Kinshasa: {
+    Generic: Oras sa Kanlurang Africa,
+    Standard: Standard na Oras sa Kanlurang Africa,
+    Daylight: Oras sa Tag-init ng Kanlurang Africa
+  },
+  Africa/Lagos: {
+    Generic: Oras sa Kanlurang Africa,
+    Standard: Standard na Oras sa Kanlurang Africa,
+    Daylight: Oras sa Tag-init ng Kanlurang Africa
+  },
+  Africa/Libreville: {
+    Generic: Oras sa Kanlurang Africa,
+    Standard: Standard na Oras sa Kanlurang Africa,
+    Daylight: Oras sa Tag-init ng Kanlurang Africa
+  },
+  Africa/Lome: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
+  },
+  Africa/Luanda: {
+    Generic: Oras sa Kanlurang Africa,
+    Standard: Standard na Oras sa Kanlurang Africa,
+    Daylight: Oras sa Tag-init ng Kanlurang Africa
+  },
+  Africa/Lubumbashi: {
+    Generic: Oras sa Gitnang Africa,
+    Standard: Oras sa Gitnang Africa,
+    Daylight: Oras sa Gitnang Africa
+  },
+  Africa/Lusaka: {
+    Generic: Oras sa Gitnang Africa,
+    Standard: Oras sa Gitnang Africa,
+    Daylight: Oras sa Gitnang Africa
+  },
+  Africa/Malabo: {
+    Generic: Oras sa Kanlurang Africa,
+    Standard: Standard na Oras sa Kanlurang Africa,
+    Daylight: Oras sa Tag-init ng Kanlurang Africa
+  },
+  Africa/Maputo: {
+    Generic: Oras sa Gitnang Africa,
+    Standard: Oras sa Gitnang Africa,
+    Daylight: Oras sa Gitnang Africa
+  },
+  Africa/Maseru: {
+    Generic: Oras sa Timog Africa,
+    Standard: Oras sa Timog Africa,
+    Daylight: Oras sa Timog Africa
+  },
+  Africa/Mbabane: {
+    Generic: Oras sa Timog Africa,
+    Standard: Oras sa Timog Africa,
+    Daylight: Oras sa Timog Africa
+  },
+  Africa/Mogadishu: {
+    Generic: Oras sa Silangang Africa,
+    Standard: Oras sa Silangang Africa,
+    Daylight: Oras sa Silangang Africa
+  },
+  Africa/Monrovia: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
+  },
+  Africa/Nairobi: {
+    Generic: Oras sa Silangang Africa,
+    Standard: Oras sa Silangang Africa,
+    Daylight: Oras sa Silangang Africa
+  },
+  Africa/Ndjamena: {
+    Generic: Oras sa Kanlurang Africa,
+    Standard: Standard na Oras sa Kanlurang Africa,
+    Daylight: Oras sa Tag-init ng Kanlurang Africa
+  },
+  Africa/Niamey: {
+    Generic: Oras sa Kanlurang Africa,
+    Standard: Standard na Oras sa Kanlurang Africa,
+    Daylight: Oras sa Tag-init ng Kanlurang Africa
+  },
+  Africa/Nouakchott: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
+  },
+  Africa/Ouagadougou: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
+  },
+  Africa/Porto-Novo: {
+    Generic: Oras sa Kanlurang Africa,
+    Standard: Standard na Oras sa Kanlurang Africa,
+    Daylight: Oras sa Tag-init ng Kanlurang Africa
+  },
+  Africa/Sao_Tome: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
+  },
+  Africa/Timbuktu: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
+  },
+  Africa/Tripoli: {
+    Generic: Oras sa Silangang Europe,
+    Standard: Standard na Oras sa Silangang Europe,
+    Daylight: Oras sa Tag-init ng Silangang Europe
+  },
+  Africa/Tunis: {
+    Generic: Oras sa Gitnang Europe,
+    Standard: Standard na Oras sa Gitnang Europe,
+    Daylight: Oras sa Tag-init ng Gitnang Europe
+  },
+  Africa/Windhoek: {
+    Generic: Oras sa Gitnang Africa,
+    Standard: Oras sa Gitnang Africa,
+    Daylight: Oras sa Gitnang Africa
   },
   America/Adak: {
     Generic: Oras sa Hawaii-Aleutian,
     Standard: Standard na Oras sa Hawaii-Aleutian,
     Daylight: Oras sa Tag-init ng Hawaii-Aleutian
   },
-  Asia/Barnaul: {
-    Generic: Oras sa Barnaul,
-    Standard: Standard na Oras sa Barnaul,
-    Daylight: Daylight Time ng Barnaul
+  America/Anchorage: {
+    Generic: Oras sa Alaska,
+    Standard: Standard na Oras sa Alaska,
+    Daylight: Daylight Time sa Alaska
   },
-  Asia/Riyadh: {
-    Generic: Oras sa Arabia,
-    Standard: Standard na Oras sa Arabia,
-    Daylight: Daylight Time sa Arabia
+  America/Anguilla: {
+    Generic: Oras sa Atlantiko,
+    Standard: Standard na Oras sa Atlantiko,
+    Daylight: Daylight na Oras sa Atlantiko
   },
-  Asia/Bahrain: {
-    Generic: Oras sa Arabia,
-    Standard: Standard na Oras sa Arabia,
-    Daylight: Daylight Time sa Arabia
+  America/Antigua: {
+    Generic: Oras sa Atlantiko,
+    Standard: Standard na Oras sa Atlantiko,
+    Daylight: Daylight na Oras sa Atlantiko
   },
-  Asia/Kuwait: {
-    Generic: Oras sa Arabia,
-    Standard: Standard na Oras sa Arabia,
-    Daylight: Daylight Time sa Arabia
+  America/Araguaina: {
+    Generic: Oras sa Brasilia,
+    Standard: Standard na Oras sa Brasilia,
+    Daylight: Oras sa Tag-init ng Brasilia
   },
-  Asia/Qatar: {
-    Generic: Oras sa Arabia,
-    Standard: Standard na Oras sa Arabia,
-    Daylight: Daylight Time sa Arabia
+  America/Argentina/Buenos_Aires: {
+    Generic: Oras sa Argentina,
+    Standard: Standard na Oras sa Argentina,
+    Daylight: Oras sa Tag-init ng Argentina
   },
-  Asia/Aden: {
-    Generic: Oras sa Arabia,
-    Standard: Standard na Oras sa Arabia,
-    Daylight: Daylight Time sa Arabia
+  America/Argentina/Catamarca: {
+    Generic: Oras sa Argentina,
+    Standard: Standard na Oras sa Argentina,
+    Daylight: Oras sa Tag-init ng Argentina
   },
-  Asia/Dubai: {
-    Generic: Oras sa Gulf,
-    Standard: Oras sa Gulf,
-    Daylight: Oras sa Gulf
+  America/Argentina/ComodRivadavia: {
+    Generic: Oras sa Argentina,
+    Standard: Standard na Oras sa Argentina,
+    Daylight: Oras sa Tag-init ng Argentina
   },
-  Asia/Muscat: {
-    Generic: Oras sa Gulf,
-    Standard: Oras sa Gulf,
-    Daylight: Oras sa Gulf
+  America/Argentina/Cordoba: {
+    Generic: Oras sa Argentina,
+    Standard: Standard na Oras sa Argentina,
+    Daylight: Oras sa Tag-init ng Argentina
   },
-  Etc/GMT-4: {
-    Generic: Coordinated Universal Time +4,
-    Standard: Coordinated Universal Time +4,
-    Daylight: Coordinated Universal Time +4
-  },
-  Asia/Baghdad: {
-    Generic: Oras sa Arabia,
-    Standard: Standard na Oras sa Arabia,
-    Daylight: Daylight Time sa Arabia
-  },
-  America/Buenos_Aires: {
+  America/Argentina/Jujuy: {
     Generic: Oras sa Argentina,
     Standard: Standard na Oras sa Argentina,
     Daylight: Oras sa Tag-init ng Argentina
   },
   America/Argentina/La_Rioja: {
+    Generic: Oras sa Argentina,
+    Standard: Standard na Oras sa Argentina,
+    Daylight: Oras sa Tag-init ng Argentina
+  },
+  America/Argentina/Mendoza: {
     Generic: Oras sa Argentina,
     Standard: Standard na Oras sa Argentina,
     Daylight: Oras sa Tag-init ng Argentina
@@ -144,327 +359,432 @@
     Standard: Standard na Oras sa Argentina,
     Daylight: Oras sa Tag-init ng Argentina
   },
-  America/Catamarca: {
-    Generic: Oras sa Argentina,
-    Standard: Standard na Oras sa Argentina,
-    Daylight: Oras sa Tag-init ng Argentina
-  },
-  America/Cordoba: {
-    Generic: Oras sa Argentina,
-    Standard: Standard na Oras sa Argentina,
-    Daylight: Oras sa Tag-init ng Argentina
-  },
-  America/Jujuy: {
-    Generic: Oras sa Argentina,
-    Standard: Standard na Oras sa Argentina,
-    Daylight: Oras sa Tag-init ng Argentina
-  },
-  America/Mendoza: {
-    Generic: Oras sa Argentina,
-    Standard: Standard na Oras sa Argentina,
-    Daylight: Oras sa Tag-init ng Argentina
-  },
-  Europe/Astrakhan: {
-    Generic: Oras sa Astrakhan,
-    Standard: Standard na Oras sa Astrakhan,
-    Daylight: Daylight Time ng Astrakhan
-  },
-  Europe/Ulyanovsk: {
-    Generic: Oras sa Ulyanovsk,
-    Standard: Standard na Oras sa Ulyanovsk,
-    Daylight: Daylight Time ng Ulyanovsk
-  },
-  America/Halifax: {
+  America/Aruba: {
     Generic: Oras sa Atlantiko,
     Standard: Standard na Oras sa Atlantiko,
     Daylight: Daylight na Oras sa Atlantiko
   },
-  Atlantic/Bermuda: {
-    Generic: Oras sa Atlantiko,
-    Standard: Standard na Oras sa Atlantiko,
-    Daylight: Daylight na Oras sa Atlantiko
+  America/Asuncion: {
+    Generic: Oras sa Paraguay,
+    Standard: Standard na Oras sa Paraguay,
+    Daylight: Oras sa Tag-init ng Paraguay
   },
-  America/Glace_Bay: {
-    Generic: Oras sa Atlantiko,
-    Standard: Standard na Oras sa Atlantiko,
-    Daylight: Daylight na Oras sa Atlantiko
+  America/Atikokan: {
+    Generic: Oras sa Silangan ng Hilagang Amerika,
+    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
+    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
   },
-  America/Goose_Bay: {
-    Generic: Oras sa Atlantiko,
-    Standard: Standard na Oras sa Atlantiko,
-    Daylight: Daylight na Oras sa Atlantiko
-  },
-  America/Moncton: {
-    Generic: Oras sa Atlantiko,
-    Standard: Standard na Oras sa Atlantiko,
-    Daylight: Daylight na Oras sa Atlantiko
-  },
-  America/Thule: {
-    Generic: Oras sa Atlantiko,
-    Standard: Standard na Oras sa Atlantiko,
-    Daylight: Daylight na Oras sa Atlantiko
-  },
-  Australia/Eucla: {
-    Generic: Oras ng Gitnang Kanluran ng Australya,
-    Standard: Standard Time ng Gitnang Kanluran ng Australya,
-    Daylight: Daylight Time sa Gitnang Kanlurang Australya
-  },
-  Asia/Baku: {
-    Generic: Oras sa Azerbaijan,
-    Standard: Standard na Oras sa Azerbaijan,
-    Daylight: Oras sa Tag-init ng Azerbaijan
-  },
-  Atlantic/Azores: {
-    Generic: Oras sa Azores,
-    Standard: Standard na Oras sa Azores,
-    Daylight: Oras sa Tag-init ng Azores
-  },
-  America/Scoresbysund: {
-    Generic: Oras sa Silangang Greenland,
-    Standard: Standard na Oras sa Silangang Greenland,
-    Daylight: Oras sa Tag-init ng Silangang Greenland
+  America/Atka: {
+    Generic: Oras sa Hawaii-Aleutian,
+    Standard: Standard na Oras sa Hawaii-Aleutian,
+    Daylight: Oras sa Tag-init ng Hawaii-Aleutian
   },
   America/Bahia: {
     Generic: Oras sa Brasilia,
     Standard: Standard na Oras sa Brasilia,
     Daylight: Oras sa Tag-init ng Brasilia
   },
-  Asia/Dhaka: {
-    Generic: Oras sa Bangladesh,
-    Standard: Standard na Oras sa Bangladesh,
-    Daylight: Oras sa Tag-init ng Bangladesh
-  },
-  Asia/Thimphu: {
-    Generic: Oras sa Bhutan,
-    Standard: Oras sa Bhutan,
-    Daylight: Oras sa Bhutan
-  },
-  Europe/Minsk: {
-    Generic: Oras sa Moscow,
-    Standard: Standard na Oras sa Moscow,
-    Daylight: Oras sa Tag-init ng Moscow
-  },
-  Pacific/Bougainville: {
-    Generic: Oras sa Papua New Guinea,
-    Standard: Oras sa Papua New Guinea,
-    Daylight: Oras sa Papua New Guinea
-  },
-  America/Regina: {
+  America/Bahia_Banderas: {
     Generic: Sentral na Oras sa North America,
     Standard: Sentral na Standard na Oras sa North America,
     Daylight: Sentral na Daylight na Oras sa North America
   },
-  America/Swift_Current: {
-    Generic: Sentral na Oras sa North America,
-    Standard: Sentral na Standard na Oras sa North America,
-    Daylight: Sentral na Daylight na Oras sa North America
+  America/Barbados: {
+    Generic: Oras sa Atlantiko,
+    Standard: Standard na Oras sa Atlantiko,
+    Daylight: Daylight na Oras sa Atlantiko
   },
-  Atlantic/Cape_Verde: {
-    Generic: Oras sa Cape Verde,
-    Standard: Standard na Oras sa Cape Verde,
-    Daylight: Oras sa Tag-init ng Cape Verde
-  },
-  Etc/GMT+1: {
-    Generic: Coordinated Universal Time -1,
-    Standard: Coordinated Universal Time -1,
-    Daylight: Coordinated Universal Time -1
-  },
-  Asia/Yerevan: {
-    Generic: Oras sa Armenia,
-    Standard: Standard na Oras sa Armenia,
-    Daylight: Oras sa Tag-init ng Armenia
-  },
-  Australia/Adelaide: {
-    Generic: Oras sa Gitnang Australya,
-    Standard: Standard na Oras sa Gitnang Australya,
-    Daylight: Daylight Time sa Gitnang Australya
-  },
-  Australia/Broken_Hill: {
-    Generic: Oras sa Gitnang Australya,
-    Standard: Standard na Oras sa Gitnang Australya,
-    Daylight: Daylight Time sa Gitnang Australya
-  },
-  America/Guatemala: {
-    Generic: Sentral na Oras sa North America,
-    Standard: Sentral na Standard na Oras sa North America,
-    Daylight: Sentral na Daylight na Oras sa North America
+  America/Belem: {
+    Generic: Oras sa Brasilia,
+    Standard: Standard na Oras sa Brasilia,
+    Daylight: Oras sa Tag-init ng Brasilia
   },
   America/Belize: {
     Generic: Sentral na Oras sa North America,
     Standard: Sentral na Standard na Oras sa North America,
     Daylight: Sentral na Daylight na Oras sa North America
   },
-  America/Costa_Rica: {
-    Generic: Sentral na Oras sa North America,
-    Standard: Sentral na Standard na Oras sa North America,
-    Daylight: Sentral na Daylight na Oras sa North America
+  America/Blanc-Sablon: {
+    Generic: Oras sa Atlantiko,
+    Standard: Standard na Oras sa Atlantiko,
+    Daylight: Daylight na Oras sa Atlantiko
   },
-  Pacific/Galapagos: {
-    Generic: Oras sa Galapagos,
-    Standard: Oras sa Galapagos,
-    Daylight: Oras sa Galapagos
-  },
-  America/Tegucigalpa: {
-    Generic: Sentral na Oras sa North America,
-    Standard: Sentral na Standard na Oras sa North America,
-    Daylight: Sentral na Daylight na Oras sa North America
-  },
-  America/Managua: {
-    Generic: Sentral na Oras sa North America,
-    Standard: Sentral na Standard na Oras sa North America,
-    Daylight: Sentral na Daylight na Oras sa North America
-  },
-  America/El_Salvador: {
-    Generic: Sentral na Oras sa North America,
-    Standard: Sentral na Standard na Oras sa North America,
-    Daylight: Sentral na Daylight na Oras sa North America
-  },
-  Etc/GMT+6: {
-    Generic: Coordinated Universal Time -6,
-    Standard: Coordinated Universal Time -6,
-    Daylight: Coordinated Universal Time -6
-  },
-  Asia/Almaty: {
-    Generic: Oras sa Silangang Kazakhstan,
-    Standard: Oras sa Silangang Kazakhstan,
-    Daylight: Oras sa Silangang Kazakhstan
-  },
-  Antarctica/Vostok: {
-    Generic: Oras sa Vostok,
-    Standard: Oras sa Vostok,
-    Daylight: Oras sa Vostok
-  },
-  Asia/Urumqi: {
-    Generic: Oras sa China,
-    Standard: Standard na Oras sa China,
-    Daylight: Daylight Time ng China
-  },
-  Indian/Chagos: {
-    Generic: Oras sa Indian Ocean,
-    Standard: Oras sa Indian Ocean,
-    Daylight: Oras sa Indian Ocean
-  },
-  Asia/Bishkek: {
-    Generic: Oras sa Kyrgystan,
-    Standard: Oras sa Kyrgystan,
-    Daylight: Oras sa Kyrgystan
-  },
-  Asia/Qostanay: {
-    Generic: Oras sa Silangang Kazakhstan,
-    Standard: Oras sa Silangang Kazakhstan,
-    Daylight: Oras sa Silangang Kazakhstan
-  },
-  Etc/GMT-6: {
-    Generic: Coordinated Universal Time +6,
-    Standard: Coordinated Universal Time +6,
-    Daylight: Coordinated Universal Time +6
-  },
-  America/Cuiaba: {
+  America/Boa_Vista: {
     Generic: Oras sa Amazon,
     Standard: Standard na Oras sa Amazon,
     Daylight: Oras sa Tag-init ng Amazon
+  },
+  America/Bogota: {
+    Generic: Oras sa Colombia,
+    Standard: Standard na Oras sa Colombia,
+    Daylight: Oras sa Tag-init ng Colombia
+  },
+  America/Boise: {
+    Generic: Oras sa Bundok sa Hilagang Amerika,
+    Standard: Standard na Oras sa Bundok sa Hilagang Amerika,
+    Daylight: Daylight na Oras sa Bundok sa Hilagang Amerika
+  },
+  America/Buenos_Aires: {
+    Generic: Oras sa Argentina,
+    Standard: Standard na Oras sa Argentina,
+    Daylight: Oras sa Tag-init ng Argentina
+  },
+  America/Cambridge_Bay: {
+    Generic: Oras sa Bundok sa Hilagang Amerika,
+    Standard: Standard na Oras sa Bundok sa Hilagang Amerika,
+    Daylight: Daylight na Oras sa Bundok sa Hilagang Amerika
   },
   America/Campo_Grande: {
     Generic: Oras sa Amazon,
     Standard: Standard na Oras sa Amazon,
     Daylight: Oras sa Tag-init ng Amazon
   },
-  Europe/Budapest: {
-    Generic: Oras sa Gitnang Europe,
-    Standard: Standard na Oras sa Gitnang Europe,
-    Daylight: Oras sa Tag-init ng Gitnang Europe
+  America/Cancun: {
+    Generic: Oras sa Silangan ng Hilagang Amerika,
+    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
+    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
   },
-  Europe/Tirane: {
-    Generic: Oras sa Gitnang Europe,
-    Standard: Standard na Oras sa Gitnang Europe,
-    Daylight: Oras sa Tag-init ng Gitnang Europe
+  America/Caracas: {
+    Generic: Oras sa Venezuela,
+    Standard: Oras sa Venezuela,
+    Daylight: Oras sa Venezuela
   },
-  Europe/Prague: {
-    Generic: Oras sa Gitnang Europe,
-    Standard: Standard na Oras sa Gitnang Europe,
-    Daylight: Oras sa Tag-init ng Gitnang Europe
+  America/Catamarca: {
+    Generic: Oras sa Argentina,
+    Standard: Standard na Oras sa Argentina,
+    Daylight: Oras sa Tag-init ng Argentina
   },
-  Europe/Podgorica: {
-    Generic: Oras sa Gitnang Europe,
-    Standard: Standard na Oras sa Gitnang Europe,
-    Daylight: Oras sa Tag-init ng Gitnang Europe
+  America/Cayenne: {
+    Generic: Oras sa French Guiana,
+    Standard: Oras sa French Guiana,
+    Daylight: Oras sa French Guiana
   },
-  Europe/Belgrade: {
-    Generic: Oras sa Gitnang Europe,
-    Standard: Standard na Oras sa Gitnang Europe,
-    Daylight: Oras sa Tag-init ng Gitnang Europe
+  America/Cayman: {
+    Generic: Oras sa Silangan ng Hilagang Amerika,
+    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
+    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
   },
-  Europe/Ljubljana: {
-    Generic: Oras sa Gitnang Europe,
-    Standard: Standard na Oras sa Gitnang Europe,
-    Daylight: Oras sa Tag-init ng Gitnang Europe
-  },
-  Europe/Bratislava: {
-    Generic: Oras sa Gitnang Europe,
-    Standard: Standard na Oras sa Gitnang Europe,
-    Daylight: Oras sa Tag-init ng Gitnang Europe
-  },
-  Europe/Warsaw: {
-    Generic: Oras sa Gitnang Europe,
-    Standard: Standard na Oras sa Gitnang Europe,
-    Daylight: Oras sa Tag-init ng Gitnang Europe
-  },
-  Europe/Sarajevo: {
-    Generic: Oras sa Gitnang Europe,
-    Standard: Standard na Oras sa Gitnang Europe,
-    Daylight: Oras sa Tag-init ng Gitnang Europe
-  },
-  Europe/Zagreb: {
-    Generic: Oras sa Gitnang Europe,
-    Standard: Standard na Oras sa Gitnang Europe,
-    Daylight: Oras sa Tag-init ng Gitnang Europe
-  },
-  Europe/Skopje: {
-    Generic: Oras sa Gitnang Europe,
-    Standard: Standard na Oras sa Gitnang Europe,
-    Daylight: Oras sa Tag-init ng Gitnang Europe
-  },
-  Pacific/Guadalcanal: {
-    Generic: Oras sa Solomon Islands,
-    Standard: Oras sa Solomon Islands,
-    Daylight: Oras sa Solomon Islands
-  },
-  Antarctica/Casey: {
-    Generic: Oras sa Antarctica,
-    Standard: Standard na Oras sa Antarctica,
-    Daylight: Daylight Time ng Antarctica
-  },
-  Pacific/Ponape: {
-    Generic: Oras sa Ponape,
-    Standard: Oras sa Ponape,
-    Daylight: Oras sa Ponape
-  },
-  Pacific/Kosrae: {
-    Generic: Oras sa Kosrae,
-    Standard: Oras sa Kosrae,
-    Daylight: Oras sa Kosrae
-  },
-  Pacific/Noumea: {
-    Generic: Oras sa New Caledonia,
-    Standard: Standard na Oras sa New Caledonia,
-    Daylight: Oras sa Tag-init ng New Caledonia
-  },
-  Pacific/Efate: {
-    Generic: Oras sa Vanuatu,
-    Standard: Standard na Oras sa Vanuatu,
-    Daylight: Oras sa Tag-init ng Vanuatu
-  },
-  Etc/GMT-11: {
-    Generic: Coordinated Universal Time +11,
-    Standard: Coordinated Universal Time +11,
-    Daylight: Coordinated Universal Time +11
-  },
-  America/Mexico_City: {
+  America/Chicago: {
     Generic: Sentral na Oras sa North America,
     Standard: Sentral na Standard na Oras sa North America,
     Daylight: Sentral na Daylight na Oras sa North America
   },
-  America/Bahia_Banderas: {
+  America/Chihuahua: {
+    Generic: Oras sa Pasipiko ng Mexico,
+    Standard: Standard na Oras sa Pasipiko ng Mexico,
+    Daylight: Daylight na Oras sa Pasipiko ng Mexico
+  },
+  America/Coral_Harbour: {
+    Generic: Oras sa Silangan ng Hilagang Amerika,
+    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
+    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
+  },
+  America/Cordoba: {
+    Generic: Oras sa Argentina,
+    Standard: Standard na Oras sa Argentina,
+    Daylight: Oras sa Tag-init ng Argentina
+  },
+  America/Costa_Rica: {
+    Generic: Sentral na Oras sa North America,
+    Standard: Sentral na Standard na Oras sa North America,
+    Daylight: Sentral na Daylight na Oras sa North America
+  },
+  America/Creston: {
+    Generic: Oras sa Bundok sa Hilagang Amerika,
+    Standard: Standard na Oras sa Bundok sa Hilagang Amerika,
+    Daylight: Daylight na Oras sa Bundok sa Hilagang Amerika
+  },
+  America/Cuiaba: {
+    Generic: Oras sa Amazon,
+    Standard: Standard na Oras sa Amazon,
+    Daylight: Oras sa Tag-init ng Amazon
+  },
+  America/Curacao: {
+    Generic: Oras sa Atlantiko,
+    Standard: Standard na Oras sa Atlantiko,
+    Daylight: Daylight na Oras sa Atlantiko
+  },
+  America/Danmarkshavn: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
+  },
+  America/Dawson: {
+    Generic: Oras sa Yukon,
+    Standard: Oras sa Yukon,
+    Daylight: Oras sa Yukon
+  },
+  America/Dawson_Creek: {
+    Generic: Oras sa Bundok sa Hilagang Amerika,
+    Standard: Standard na Oras sa Bundok sa Hilagang Amerika,
+    Daylight: Daylight na Oras sa Bundok sa Hilagang Amerika
+  },
+  America/Denver: {
+    Generic: Oras sa Bundok sa Hilagang Amerika,
+    Standard: Standard na Oras sa Bundok sa Hilagang Amerika,
+    Daylight: Daylight na Oras sa Bundok sa Hilagang Amerika
+  },
+  America/Detroit: {
+    Generic: Oras sa Silangan ng Hilagang Amerika,
+    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
+    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
+  },
+  America/Dominica: {
+    Generic: Oras sa Atlantiko,
+    Standard: Standard na Oras sa Atlantiko,
+    Daylight: Daylight na Oras sa Atlantiko
+  },
+  America/Edmonton: {
+    Generic: Oras sa Bundok sa Hilagang Amerika,
+    Standard: Standard na Oras sa Bundok sa Hilagang Amerika,
+    Daylight: Daylight na Oras sa Bundok sa Hilagang Amerika
+  },
+  America/Eirunepe: {
+    Generic: Oras sa Brazil,
+    Standard: Standard na Oras sa Brazil,
+    Daylight: Daylight Time ng Brazil
+  },
+  America/El_Salvador: {
+    Generic: Sentral na Oras sa North America,
+    Standard: Sentral na Standard na Oras sa North America,
+    Daylight: Sentral na Daylight na Oras sa North America
+  },
+  America/Ensenada: {
+    Generic: Oras sa Pasipiko sa HIlagang Amerika,
+    Standard: Standard na Oras sa Pasipiko sa Hilagang Amerika,
+    Daylight: Daylight na Oras sa Pasipiko sa Hilagang Amerika
+  },
+  America/Fort_Nelson: {
+    Generic: Oras sa Bundok sa Hilagang Amerika,
+    Standard: Standard na Oras sa Bundok sa Hilagang Amerika,
+    Daylight: Daylight na Oras sa Bundok sa Hilagang Amerika
+  },
+  America/Fort_Wayne: {
+    Generic: Oras sa Silangan ng Hilagang Amerika,
+    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
+    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
+  },
+  America/Fortaleza: {
+    Generic: Oras sa Brasilia,
+    Standard: Standard na Oras sa Brasilia,
+    Daylight: Oras sa Tag-init ng Brasilia
+  },
+  America/Glace_Bay: {
+    Generic: Oras sa Atlantiko,
+    Standard: Standard na Oras sa Atlantiko,
+    Daylight: Daylight na Oras sa Atlantiko
+  },
+  America/Godthab: {
+    Generic: Oras sa Kanlurang Greenland,
+    Standard: Standard na Oras sa Kanlurang Greenland,
+    Daylight: Oras sa Tag-init ng Kanlurang Greenland
+  },
+  America/Goose_Bay: {
+    Generic: Oras sa Atlantiko,
+    Standard: Standard na Oras sa Atlantiko,
+    Daylight: Daylight na Oras sa Atlantiko
+  },
+  America/Grand_Turk: {
+    Generic: Oras sa Silangan ng Hilagang Amerika,
+    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
+    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
+  },
+  America/Grenada: {
+    Generic: Oras sa Atlantiko,
+    Standard: Standard na Oras sa Atlantiko,
+    Daylight: Daylight na Oras sa Atlantiko
+  },
+  America/Guadeloupe: {
+    Generic: Oras sa Atlantiko,
+    Standard: Standard na Oras sa Atlantiko,
+    Daylight: Daylight na Oras sa Atlantiko
+  },
+  America/Guatemala: {
+    Generic: Sentral na Oras sa North America,
+    Standard: Sentral na Standard na Oras sa North America,
+    Daylight: Sentral na Daylight na Oras sa North America
+  },
+  America/Guayaquil: {
+    Generic: Oras sa Ecuador,
+    Standard: Oras sa Ecuador,
+    Daylight: Oras sa Ecuador
+  },
+  America/Guyana: {
+    Generic: Oras sa Guyana,
+    Standard: Oras sa Guyana,
+    Daylight: Oras sa Guyana
+  },
+  America/Halifax: {
+    Generic: Oras sa Atlantiko,
+    Standard: Standard na Oras sa Atlantiko,
+    Daylight: Daylight na Oras sa Atlantiko
+  },
+  America/Havana: {
+    Generic: Oras sa Cuba,
+    Standard: Standard na Oras sa Cuba,
+    Daylight: Daylight na Oras sa Cuba
+  },
+  America/Hermosillo: {
+    Generic: Oras sa Pasipiko ng Mexico,
+    Standard: Standard na Oras sa Pasipiko ng Mexico,
+    Daylight: Daylight na Oras sa Pasipiko ng Mexico
+  },
+  America/Indiana/Indianapolis: {
+    Generic: Oras sa Silangan ng Hilagang Amerika,
+    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
+    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
+  },
+  America/Indiana/Knox: {
+    Generic: Sentral na Oras sa North America,
+    Standard: Sentral na Standard na Oras sa North America,
+    Daylight: Sentral na Daylight na Oras sa North America
+  },
+  America/Indiana/Marengo: {
+    Generic: Oras sa Silangan ng Hilagang Amerika,
+    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
+    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
+  },
+  America/Indiana/Petersburg: {
+    Generic: Oras sa Silangan ng Hilagang Amerika,
+    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
+    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
+  },
+  America/Indiana/Tell_City: {
+    Generic: Sentral na Oras sa North America,
+    Standard: Sentral na Standard na Oras sa North America,
+    Daylight: Sentral na Daylight na Oras sa North America
+  },
+  America/Indiana/Vevay: {
+    Generic: Oras sa Silangan ng Hilagang Amerika,
+    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
+    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
+  },
+  America/Indiana/Vincennes: {
+    Generic: Oras sa Silangan ng Hilagang Amerika,
+    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
+    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
+  },
+  America/Indiana/Winamac: {
+    Generic: Oras sa Silangan ng Hilagang Amerika,
+    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
+    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
+  },
+  America/Indianapolis: {
+    Generic: Oras sa Silangan ng Hilagang Amerika,
+    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
+    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
+  },
+  America/Inuvik: {
+    Generic: Oras sa Bundok sa Hilagang Amerika,
+    Standard: Standard na Oras sa Bundok sa Hilagang Amerika,
+    Daylight: Daylight na Oras sa Bundok sa Hilagang Amerika
+  },
+  America/Iqaluit: {
+    Generic: Oras sa Silangan ng Hilagang Amerika,
+    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
+    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
+  },
+  America/Jamaica: {
+    Generic: Oras sa Silangan ng Hilagang Amerika,
+    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
+    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
+  },
+  America/Jujuy: {
+    Generic: Oras sa Argentina,
+    Standard: Standard na Oras sa Argentina,
+    Daylight: Oras sa Tag-init ng Argentina
+  },
+  America/Juneau: {
+    Generic: Oras sa Alaska,
+    Standard: Standard na Oras sa Alaska,
+    Daylight: Daylight Time sa Alaska
+  },
+  America/Kentucky/Louisville: {
+    Generic: Oras sa Silangan ng Hilagang Amerika,
+    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
+    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
+  },
+  America/Kentucky/Monticello: {
+    Generic: Oras sa Silangan ng Hilagang Amerika,
+    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
+    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
+  },
+  America/Knox_IN: {
+    Generic: Sentral na Oras sa North America,
+    Standard: Sentral na Standard na Oras sa North America,
+    Daylight: Sentral na Daylight na Oras sa North America
+  },
+  America/Kralendijk: {
+    Generic: Oras sa Atlantiko,
+    Standard: Standard na Oras sa Atlantiko,
+    Daylight: Daylight na Oras sa Atlantiko
+  },
+  America/La_Paz: {
+    Generic: Oras sa Bolivia,
+    Standard: Oras sa Bolivia,
+    Daylight: Oras sa Bolivia
+  },
+  America/Lima: {
+    Generic: Oras sa Peru,
+    Standard: Standard na Oras sa Peru,
+    Daylight: Oras sa Tag-init ng Peru
+  },
+  America/Los_Angeles: {
+    Generic: Oras sa Pasipiko sa HIlagang Amerika,
+    Standard: Standard na Oras sa Pasipiko sa Hilagang Amerika,
+    Daylight: Daylight na Oras sa Pasipiko sa Hilagang Amerika
+  },
+  America/Louisville: {
+    Generic: Oras sa Silangan ng Hilagang Amerika,
+    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
+    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
+  },
+  America/Lower_Princes: {
+    Generic: Oras sa Atlantiko,
+    Standard: Standard na Oras sa Atlantiko,
+    Daylight: Daylight na Oras sa Atlantiko
+  },
+  America/Maceio: {
+    Generic: Oras sa Brasilia,
+    Standard: Standard na Oras sa Brasilia,
+    Daylight: Oras sa Tag-init ng Brasilia
+  },
+  America/Managua: {
+    Generic: Sentral na Oras sa North America,
+    Standard: Sentral na Standard na Oras sa North America,
+    Daylight: Sentral na Daylight na Oras sa North America
+  },
+  America/Manaus: {
+    Generic: Oras sa Amazon,
+    Standard: Standard na Oras sa Amazon,
+    Daylight: Oras sa Tag-init ng Amazon
+  },
+  America/Marigot: {
+    Generic: Oras sa Atlantiko,
+    Standard: Standard na Oras sa Atlantiko,
+    Daylight: Daylight na Oras sa Atlantiko
+  },
+  America/Martinique: {
+    Generic: Oras sa Atlantiko,
+    Standard: Standard na Oras sa Atlantiko,
+    Daylight: Daylight na Oras sa Atlantiko
+  },
+  America/Matamoros: {
+    Generic: Sentral na Oras sa North America,
+    Standard: Sentral na Standard na Oras sa North America,
+    Daylight: Sentral na Daylight na Oras sa North America
+  },
+  America/Mazatlan: {
+    Generic: Oras sa Pasipiko ng Mexico,
+    Standard: Standard na Oras sa Pasipiko ng Mexico,
+    Daylight: Daylight na Oras sa Pasipiko ng Mexico
+  },
+  America/Mendoza: {
+    Generic: Oras sa Argentina,
+    Standard: Standard na Oras sa Argentina,
+    Daylight: Oras sa Tag-init ng Argentina
+  },
+  America/Menominee: {
     Generic: Sentral na Oras sa North America,
     Standard: Sentral na Standard na Oras sa North America,
     Daylight: Sentral na Daylight na Oras sa North America
@@ -474,55 +794,70 @@
     Standard: Sentral na Standard na Oras sa North America,
     Daylight: Sentral na Daylight na Oras sa North America
   },
+  America/Metlakatla: {
+    Generic: Oras sa Alaska,
+    Standard: Standard na Oras sa Alaska,
+    Daylight: Daylight Time sa Alaska
+  },
+  America/Mexico_City: {
+    Generic: Sentral na Oras sa North America,
+    Standard: Sentral na Standard na Oras sa North America,
+    Daylight: Sentral na Daylight na Oras sa North America
+  },
+  America/Miquelon: {
+    Generic: Oras sa Saint Pierre & Miquelon,
+    Standard: Standard na Oras sa Saint Pierre & Miquelon,
+    Daylight: Daylight na Oras sa Saint Pierre & Miquelon
+  },
+  America/Moncton: {
+    Generic: Oras sa Atlantiko,
+    Standard: Standard na Oras sa Atlantiko,
+    Daylight: Daylight na Oras sa Atlantiko
+  },
   America/Monterrey: {
     Generic: Sentral na Oras sa North America,
     Standard: Sentral na Standard na Oras sa North America,
     Daylight: Sentral na Daylight na Oras sa North America
   },
-  America/Chicago: {
-    Generic: Sentral na Oras sa North America,
-    Standard: Sentral na Standard na Oras sa North America,
-    Daylight: Sentral na Daylight na Oras sa North America
+  America/Montevideo: {
+    Generic: Oras sa Uruguay,
+    Standard: Standard na Oras sa Uruguay,
+    Daylight: Oras sa Tag-init ng Uruguay
   },
-  America/Winnipeg: {
-    Generic: Sentral na Oras sa North America,
-    Standard: Sentral na Standard na Oras sa North America,
-    Daylight: Sentral na Daylight na Oras sa North America
+  America/Montreal: {
+    Generic: Oras sa Silangan ng Hilagang Amerika,
+    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
+    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
   },
-  America/Rainy_River: {
-    Generic: Sentral na Oras sa North America,
-    Standard: Sentral na Standard na Oras sa North America,
-    Daylight: Sentral na Daylight na Oras sa North America
+  America/Montserrat: {
+    Generic: Oras sa Atlantiko,
+    Standard: Standard na Oras sa Atlantiko,
+    Daylight: Daylight na Oras sa Atlantiko
   },
-  America/Rankin_Inlet: {
-    Generic: Sentral na Oras sa North America,
-    Standard: Sentral na Standard na Oras sa North America,
-    Daylight: Sentral na Daylight na Oras sa North America
+  America/Nassau: {
+    Generic: Oras sa Silangan ng Hilagang Amerika,
+    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
+    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
   },
-  America/Resolute: {
-    Generic: Sentral na Oras sa North America,
-    Standard: Sentral na Standard na Oras sa North America,
-    Daylight: Sentral na Daylight na Oras sa North America
+  America/New_York: {
+    Generic: Oras sa Silangan ng Hilagang Amerika,
+    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
+    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
   },
-  America/Matamoros: {
-    Generic: Sentral na Oras sa North America,
-    Standard: Sentral na Standard na Oras sa North America,
-    Daylight: Sentral na Daylight na Oras sa North America
+  America/Nipigon: {
+    Generic: Oras sa Silangan ng Hilagang Amerika,
+    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
+    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
   },
-  America/Indiana/Knox: {
-    Generic: Sentral na Oras sa North America,
-    Standard: Sentral na Standard na Oras sa North America,
-    Daylight: Sentral na Daylight na Oras sa North America
+  America/Nome: {
+    Generic: Oras sa Alaska,
+    Standard: Standard na Oras sa Alaska,
+    Daylight: Daylight Time sa Alaska
   },
-  America/Indiana/Tell_City: {
-    Generic: Sentral na Oras sa North America,
-    Standard: Sentral na Standard na Oras sa North America,
-    Daylight: Sentral na Daylight na Oras sa North America
-  },
-  America/Menominee: {
-    Generic: Sentral na Oras sa North America,
-    Standard: Sentral na Standard na Oras sa North America,
-    Daylight: Sentral na Daylight na Oras sa North America
+  America/Noronha: {
+    Generic: Oras sa Fernando de Noronha,
+    Standard: Standard na Oras sa Fernando de Noronha,
+    Daylight: Oras sa Tag-init ng Fernando de Noronha
   },
   America/North_Dakota/Beulah: {
     Generic: Sentral na Oras sa North America,
@@ -539,157 +874,17 @@
     Standard: Sentral na Standard na Oras sa North America,
     Daylight: Sentral na Daylight na Oras sa North America
   },
-  CST6CDT: {
-    Generic: Sentral na Oras sa North America,
-    Standard: Sentral na Standard na Oras sa North America,
-    Daylight: Sentral na Daylight na Oras sa North America
+  America/Nuuk: {
+    Generic: Oras sa Kanlurang Greenland,
+    Standard: Standard na Oras sa Kanlurang Greenland,
+    Daylight: Oras sa Tag-init ng Kanlurang Greenland
   },
-  Pacific/Chatham: {
-    Generic: Oras sa Chatham,
-    Standard: Standard na Oras sa Chatham,
-    Daylight: Daylight Time sa Chatham
+  America/Ojinaga: {
+    Generic: Oras sa Bundok sa Hilagang Amerika,
+    Standard: Standard na Oras sa Bundok sa Hilagang Amerika,
+    Daylight: Daylight na Oras sa Bundok sa Hilagang Amerika
   },
-  Asia/Shanghai: {
-    Generic: Oras sa China,
-    Standard: Standard na Oras sa China,
-    Daylight: Daylight Time sa China
-  },
-  Asia/Hong_Kong: {
-    Generic: Oras sa Hong Kong,
-    Standard: Standard na Oras sa Hong Kong,
-    Daylight: Oras sa Tag-init ng Hong Kong
-  },
-  Asia/Macau: {
-    Generic: Oras sa China,
-    Standard: Standard na Oras sa China,
-    Daylight: Daylight Time sa China
-  },
-  America/Havana: {
-    Generic: Oras sa Cuba,
-    Standard: Standard na Oras sa Cuba,
-    Daylight: Daylight na Oras sa Cuba
-  },
-  Etc/GMT+12: {
-    Generic: Coordinated Universal Time -12,
-    Standard: Coordinated Universal Time -12,
-    Daylight: Coordinated Universal Time -12
-  },
-  Africa/Nairobi: {
-    Generic: Oras sa Silangang Africa,
-    Standard: Oras sa Silangang Africa,
-    Daylight: Oras sa Silangang Africa
-  },
-  Antarctica/Syowa: {
-    Generic: Oras sa Syowa,
-    Standard: Oras sa Syowa,
-    Daylight: Oras sa Syowa
-  },
-  Africa/Djibouti: {
-    Generic: Oras sa Silangang Africa,
-    Standard: Oras sa Silangang Africa,
-    Daylight: Oras sa Silangang Africa
-  },
-  Africa/Asmera: {
-    Generic: Oras sa Silangang Africa,
-    Standard: Oras sa Silangang Africa,
-    Daylight: Oras sa Silangang Africa
-  },
-  Africa/Addis_Ababa: {
-    Generic: Oras sa Silangang Africa,
-    Standard: Oras sa Silangang Africa,
-    Daylight: Oras sa Silangang Africa
-  },
-  Indian/Comoro: {
-    Generic: Oras sa Silangang Africa,
-    Standard: Oras sa Silangang Africa,
-    Daylight: Oras sa Silangang Africa
-  },
-  Indian/Antananarivo: {
-    Generic: Oras sa Silangang Africa,
-    Standard: Oras sa Silangang Africa,
-    Daylight: Oras sa Silangang Africa
-  },
-  Africa/Mogadishu: {
-    Generic: Oras sa Silangang Africa,
-    Standard: Oras sa Silangang Africa,
-    Daylight: Oras sa Silangang Africa
-  },
-  Africa/Dar_es_Salaam: {
-    Generic: Oras sa Silangang Africa,
-    Standard: Oras sa Silangang Africa,
-    Daylight: Oras sa Silangang Africa
-  },
-  Africa/Kampala: {
-    Generic: Oras sa Silangang Africa,
-    Standard: Oras sa Silangang Africa,
-    Daylight: Oras sa Silangang Africa
-  },
-  Indian/Mayotte: {
-    Generic: Oras sa Silangang Africa,
-    Standard: Oras sa Silangang Africa,
-    Daylight: Oras sa Silangang Africa
-  },
-  Etc/GMT-3: {
-    Generic: Coordinated Universal Time +3,
-    Standard: Coordinated Universal Time +3,
-    Daylight: Coordinated Universal Time +3
-  },
-  Australia/Brisbane: {
-    Generic: Oras sa Silangang Australya,
-    Standard: Standard na Oras sa Silangang Australya,
-    Daylight: Daylight Time sa Silangang Australya
-  },
-  Australia/Lindeman: {
-    Generic: Oras sa Silangang Australya,
-    Standard: Standard na Oras sa Silangang Australya,
-    Daylight: Daylight Time sa Silangang Australya
-  },
-  Europe/Chisinau: {
-    Generic: Oras sa Silangang Europe,
-    Standard: Standard na Oras sa Silangang Europe,
-    Daylight: Oras sa Tag-init ng Silangang Europe
-  },
-  America/Sao_Paulo: {
-    Generic: Oras sa Brasilia,
-    Standard: Standard na Oras sa Brasilia,
-    Daylight: Oras sa Tag-init ng Brasilia
-  },
-  Pacific/Easter: {
-    Generic: Oras sa Easter Island,
-    Standard: Standard na Oras sa Easter Island,
-    Daylight: Oras sa Tag-init ng Easter Island
-  },
-  America/Cancun: {
-    Generic: Oras sa Silangan ng Hilagang Amerika,
-    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
-    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
-  },
-  America/New_York: {
-    Generic: Oras sa Silangan ng Hilagang Amerika,
-    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
-    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
-  },
-  America/Nassau: {
-    Generic: Oras sa Silangan ng Hilagang Amerika,
-    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
-    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
-  },
-  America/Toronto: {
-    Generic: Oras sa Silangan ng Hilagang Amerika,
-    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
-    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
-  },
-  America/Iqaluit: {
-    Generic: Oras sa Silangan ng Hilagang Amerika,
-    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
-    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
-  },
-  America/Montreal: {
-    Generic: Oras sa Silangan ng Hilagang Amerika,
-    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
-    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
-  },
-  America/Nipigon: {
+  America/Panama: {
     Generic: Oras sa Silangan ng Hilagang Amerika,
     Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
     Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
@@ -699,800 +894,130 @@
     Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
     Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
   },
-  America/Thunder_Bay: {
-    Generic: Oras sa Silangan ng Hilagang Amerika,
-    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
-    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
+  America/Paramaribo: {
+    Generic: Oras sa Suriname,
+    Standard: Oras sa Suriname,
+    Daylight: Oras sa Suriname
   },
-  America/Detroit: {
-    Generic: Oras sa Silangan ng Hilagang Amerika,
-    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
-    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
-  },
-  America/Indiana/Petersburg: {
-    Generic: Oras sa Silangan ng Hilagang Amerika,
-    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
-    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
-  },
-  America/Indiana/Vincennes: {
-    Generic: Oras sa Silangan ng Hilagang Amerika,
-    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
-    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
-  },
-  America/Indiana/Winamac: {
-    Generic: Oras sa Silangan ng Hilagang Amerika,
-    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
-    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
-  },
-  America/Kentucky/Monticello: {
-    Generic: Oras sa Silangan ng Hilagang Amerika,
-    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
-    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
-  },
-  America/Louisville: {
-    Generic: Oras sa Silangan ng Hilagang Amerika,
-    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
-    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
-  },
-  EST5EDT: {
-    Generic: Oras sa Silangan ng Hilagang Amerika,
-    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
-    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
-  },
-  Africa/Cairo: {
-    Generic: Oras sa Silangang Europe,
-    Standard: Standard na Oras sa Silangang Europe,
-    Daylight: Oras sa Tag-init ng Silangang Europe
-  },
-  Asia/Yekaterinburg: {
-    Generic: Oras sa Yekaterinburg,
-    Standard: Standard na Oras sa Yekaterinburg,
-    Daylight: Daylight Time ng Yekaterinburg
-  },
-  Europe/Kiev: {
-    Generic: Oras sa Silangang Europe,
-    Standard: Standard na Oras sa Silangang Europe,
-    Daylight: Oras sa Tag-init ng Silangang Europe
-  },
-  Europe/Mariehamn: {
-    Generic: Oras sa Silangang Europe,
-    Standard: Standard na Oras sa Silangang Europe,
-    Daylight: Oras sa Tag-init ng Silangang Europe
-  },
-  Europe/Sofia: {
-    Generic: Oras sa Silangang Europe,
-    Standard: Standard na Oras sa Silangang Europe,
-    Daylight: Oras sa Tag-init ng Silangang Europe
-  },
-  Europe/Tallinn: {
-    Generic: Oras sa Silangang Europe,
-    Standard: Standard na Oras sa Silangang Europe,
-    Daylight: Oras sa Tag-init ng Silangang Europe
-  },
-  Europe/Helsinki: {
-    Generic: Oras sa Silangang Europe,
-    Standard: Standard na Oras sa Silangang Europe,
-    Daylight: Oras sa Tag-init ng Silangang Europe
-  },
-  Europe/Vilnius: {
-    Generic: Oras sa Silangang Europe,
-    Standard: Standard na Oras sa Silangang Europe,
-    Daylight: Oras sa Tag-init ng Silangang Europe
-  },
-  Europe/Riga: {
-    Generic: Oras sa Silangang Europe,
-    Standard: Standard na Oras sa Silangang Europe,
-    Daylight: Oras sa Tag-init ng Silangang Europe
-  },
-  Europe/Uzhgorod: {
-    Generic: Oras sa Silangang Europe,
-    Standard: Standard na Oras sa Silangang Europe,
-    Daylight: Oras sa Tag-init ng Silangang Europe
-  },
-  Europe/Zaporozhye: {
-    Generic: Oras sa Silangang Europe,
-    Standard: Standard na Oras sa Silangang Europe,
-    Daylight: Oras sa Tag-init ng Silangang Europe
-  },
-  Pacific/Fiji: {
-    Generic: Oras sa Fiji,
-    Standard: Standard na Oras sa Fiji,
-    Daylight: Oras sa Tag-init ng Fiji
-  },
-  Europe/London: {
-    Generic: Oras sa United Kingdom,
-    Standard: Greenwich Mean Time,
-    Daylight: Oras sa Tag-init ng Britain
-  },
-  Atlantic/Canary: {
-    Generic: Oras sa Kanlurang Europe,
-    Standard: Standard na Oras sa Kanlurang Europe,
-    Daylight: Oras sa Tag-init ng Kanlurang Europe
-  },
-  Atlantic/Faeroe: {
-    Generic: Oras sa Kanlurang Europe,
-    Standard: Standard na Oras sa Kanlurang Europe,
-    Daylight: Oras sa Tag-init ng Kanlurang Europe
-  },
-  Europe/Guernsey: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
-  },
-  Europe/Dublin: {
-    Generic: Oras sa Ireland,
-    Standard: Greenwich Mean Time,
-    Daylight: Standard na Oras sa Ireland
-  },
-  Europe/Isle_of_Man: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
-  },
-  Europe/Jersey: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
-  },
-  Europe/Lisbon: {
-    Generic: Oras sa Kanlurang Europe,
-    Standard: Standard na Oras sa Kanlurang Europe,
-    Daylight: Oras sa Tag-init ng Kanlurang Europe
-  },
-  Atlantic/Madeira: {
-    Generic: Oras sa Kanlurang Europe,
-    Standard: Standard na Oras sa Kanlurang Europe,
-    Daylight: Oras sa Tag-init ng Kanlurang Europe
-  },
-  Europe/Bucharest: {
-    Generic: Oras sa Silangang Europe,
-    Standard: Standard na Oras sa Silangang Europe,
-    Daylight: Oras sa Tag-init ng Silangang Europe
-  },
-  Asia/Nicosia: {
-    Generic: Oras sa Silangang Europe,
-    Standard: Standard na Oras sa Silangang Europe,
-    Daylight: Oras sa Tag-init ng Silangang Europe
-  },
-  Asia/Famagusta: {
-    Generic: Oras sa Silangang Europe,
-    Standard: Standard na Oras sa Silangang Europe,
-    Daylight: Oras sa Tag-init ng Silangang Europe
-  },
-  Europe/Athens: {
-    Generic: Oras sa Silangang Europe,
-    Standard: Standard na Oras sa Silangang Europe,
-    Daylight: Oras sa Tag-init ng Silangang Europe
-  },
-  Asia/Tbilisi: {
-    Generic: Oras sa Georgia,
-    Standard: Standard na Oras sa Georgia,
-    Daylight: Oras sa Tag-init ng Georgia
-  },
-  America/Godthab: {
-    Generic: Oras sa Kanlurang Greenland,
-    Standard: Standard na Oras sa Kanlurang Greenland,
-    Daylight: Oras sa Tag-init ng Kanlurang Greenland
-  },
-  Atlantic/Reykjavik: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
-  },
-  Atlantic/St_Helena: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
-  },
-  Africa/Ouagadougou: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
-  },
-  Africa/Abidjan: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
-  },
-  Africa/Accra: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
-  },
-  America/Danmarkshavn: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
-  },
-  Africa/Banjul: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
-  },
-  Africa/Conakry: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
-  },
-  Africa/Bissau: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
-  },
-  Africa/Monrovia: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
-  },
-  Africa/Bamako: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
-  },
-  Africa/Nouakchott: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
-  },
-  Africa/Freetown: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
-  },
-  Africa/Dakar: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
-  },
-  Africa/Lome: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
+  America/Phoenix: {
+    Generic: Oras sa Bundok sa Hilagang Amerika,
+    Standard: Standard na Oras sa Bundok sa Hilagang Amerika,
+    Daylight: Daylight na Oras sa Bundok sa Hilagang Amerika
   },
   America/Port-au-Prince: {
     Generic: Oras sa Silangan ng Hilagang Amerika,
     Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
     Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
   },
-  Pacific/Honolulu: {
-    Generic: Oras sa Hawaii-Aleutian,
-    Standard: Standard na Oras sa Hawaii-Aleutian,
-    Daylight: Oras sa Tag-init ng Hawaii-Aleutian
-  },
-  Pacific/Rarotonga: {
-    Generic: Oras sa Cook Islands,
-    Standard: Standard na Oras sa Cook Islands,
-    Daylight: Oras sa Kalahati ng Tag-init ng Cook Islands
-  },
-  Pacific/Tahiti: {
-    Generic: Oras sa Tahiti,
-    Standard: Oras sa Tahiti,
-    Daylight: Oras sa Tahiti
-  },
-  Pacific/Johnston: {
-    Generic: Oras sa Hawaii-Aleutian,
-    Standard: Standard na Oras sa Hawaii-Aleutian,
-    Daylight: Oras sa Tag-init ng Hawaii-Aleutian
-  },
-  Etc/GMT+10: {
-    Generic: Coordinated Universal Time -10,
-    Standard: Coordinated Universal Time -10,
-    Daylight: Coordinated Universal Time -10
-  },
-  Asia/Calcutta: {
-    Generic: Standard na Oras sa India,
-    Standard: Standard na Oras sa India,
-    Daylight: Standard na Oras sa India
-  },
-  Asia/Tehran: {
-    Generic: Oras sa Iran,
-    Standard: Standard na Oras sa Iran,
-    Daylight: Daylight Time sa Iran
-  },
-  Asia/Jerusalem: {
-    Generic: Oras sa Israel,
-    Standard: Standard na Oras sa Israel,
-    Daylight: Daylight Time sa Israel
-  },
-  Asia/Amman: {
-    Generic: Oras sa Silangang Europe,
-    Standard: Standard na Oras sa Silangang Europe,
-    Daylight: Oras sa Tag-init ng Silangang Europe
-  },
-  Europe/Kaliningrad: {
-    Generic: Oras sa Kaliningrad,
-    Standard: Standard na Oras sa Kaliningrad,
-    Daylight: Daylight Time ng Kaliningrad
-  },
-  Asia/Seoul: {
-    Generic: Oras sa Korea,
-    Standard: Standard na Oras sa Korea,
-    Daylight: Daylight Time sa Korea
-  },
-  Africa/Tripoli: {
-    Generic: Oras sa Silangang Europe,
-    Standard: Standard na Oras sa Silangang Europe,
-    Daylight: Oras sa Tag-init ng Silangang Europe
-  },
-  Pacific/Kiritimati: {
-    Generic: Oras sa Line Islands,
-    Standard: Oras sa Line Islands,
-    Daylight: Oras sa Line Islands
-  },
-  Etc/GMT-14: {
-    Generic: Coordinated Universal Time +14,
-    Standard: Coordinated Universal Time +14,
-    Daylight: Coordinated Universal Time +14
-  },
-  Australia/Lord_Howe: {
-    Generic: Oras sa Lord Howe,
-    Standard: Standard na Oras sa Lord Howe,
-    Daylight: Daylight Time sa Lorde Howe
-  },
-  Asia/Magadan: {
-    Generic: Oras sa Magadan,
-    Standard: Standard na Oras sa Magadan,
-    Daylight: Daylight Time ng Magadan
-  },
-  America/Punta_Arenas: {
-    Generic: Oras sa Chile,
-    Standard: Standard na Oras sa Chile,
-    Daylight: Oras sa Tag-init ng Chile
-  },
-  Pacific/Marquesas: {
-    Generic: Oras sa Marquesas,
-    Standard: Oras sa Marquesas,
-    Daylight: Oras sa Marquesas
-  },
-  Indian/Mauritius: {
-    Generic: Oras sa Mauritius,
-    Standard: Standard na Oras sa Mauritius,
-    Daylight: Oras sa Tag-init ng Mauritius
-  },
-  Indian/Reunion: {
-    Generic: Oras sa Reunion,
-    Standard: Oras sa Reunion,
-    Daylight: Oras sa Reunion
-  },
-  Indian/Mahe: {
-    Generic: Oras sa Seychelles,
-    Standard: Oras sa Seychelles,
-    Daylight: Oras sa Seychelles
-  },
-  Asia/Beirut: {
-    Generic: Oras sa Silangang Europe,
-    Standard: Standard na Oras sa Silangang Europe,
-    Daylight: Oras sa Tag-init ng Silangang Europe
-  },
-  America/Montevideo: {
-    Generic: Oras sa Uruguay,
-    Standard: Standard na Oras sa Uruguay,
-    Daylight: Oras sa Tag-init ng Uruguay
-  },
-  Africa/Casablanca: {
-    Generic: Oras sa Kanlurang Europe,
-    Standard: Standard na Oras sa Kanlurang Europe,
-    Daylight: Oras sa Tag-init ng Kanlurang Europe
-  },
-  Africa/El_Aaiun: {
-    Generic: Oras sa Kanlurang Europe,
-    Standard: Standard na Oras sa Kanlurang Europe,
-    Daylight: Oras sa Tag-init ng Kanlurang Europe
-  },
-  America/Chihuahua: {
-    Generic: Oras sa Pasipiko ng Mexico,
-    Standard: Standard na Oras sa Pasipiko ng Mexico,
-    Daylight: Daylight na Oras sa Pasipiko ng Mexico
-  },
-  America/Mazatlan: {
-    Generic: Oras sa Pasipiko ng Mexico,
-    Standard: Standard na Oras sa Pasipiko ng Mexico,
-    Daylight: Daylight na Oras sa Pasipiko ng Mexico
-  },
-  America/Denver: {
-    Generic: Oras sa Bundok sa Hilagang Amerika,
-    Standard: Standard na Oras sa Bundok sa Hilagang Amerika,
-    Daylight: Daylight na Oras sa Bundok sa Hilagang Amerika
-  },
-  America/Edmonton: {
-    Generic: Oras sa Bundok sa Hilagang Amerika,
-    Standard: Standard na Oras sa Bundok sa Hilagang Amerika,
-    Daylight: Daylight na Oras sa Bundok sa Hilagang Amerika
-  },
-  America/Cambridge_Bay: {
-    Generic: Oras sa Bundok sa Hilagang Amerika,
-    Standard: Standard na Oras sa Bundok sa Hilagang Amerika,
-    Daylight: Daylight na Oras sa Bundok sa Hilagang Amerika
-  },
-  America/Inuvik: {
-    Generic: Oras sa Bundok sa Hilagang Amerika,
-    Standard: Standard na Oras sa Bundok sa Hilagang Amerika,
-    Daylight: Daylight na Oras sa Bundok sa Hilagang Amerika
-  },
-  America/Yellowknife: {
-    Generic: Oras sa Bundok sa Hilagang Amerika,
-    Standard: Standard na Oras sa Bundok sa Hilagang Amerika,
-    Daylight: Daylight na Oras sa Bundok sa Hilagang Amerika
-  },
-  America/Ojinaga: {
-    Generic: Oras sa Bundok sa Hilagang Amerika,
-    Standard: Standard na Oras sa Bundok sa Hilagang Amerika,
-    Daylight: Daylight na Oras sa Bundok sa Hilagang Amerika
-  },
-  America/Boise: {
-    Generic: Oras sa Bundok sa Hilagang Amerika,
-    Standard: Standard na Oras sa Bundok sa Hilagang Amerika,
-    Daylight: Daylight na Oras sa Bundok sa Hilagang Amerika
-  },
-  MST7MDT: {
-    Generic: Oras sa Bundok sa Hilagang Amerika,
-    Standard: Standard na Oras sa Bundok sa Hilagang Amerika,
-    Daylight: Daylight na Oras sa Bundok sa Hilagang Amerika
-  },
-  Asia/Rangoon: {
-    Generic: Oras sa Myanmar,
-    Standard: Oras sa Myanmar,
-    Daylight: Oras sa Myanmar
-  },
-  Indian/Cocos: {
-    Generic: Oras sa Cocos Islands,
-    Standard: Oras sa Cocos Islands,
-    Daylight: Oras sa Cocos Islands
-  },
-  Asia/Novosibirsk: {
-    Generic: Oras sa Novosibirsk,
-    Standard: Standard na Oras sa Novosibirsk,
-    Daylight: Daylight Time ng Novosibirsk
-  },
-  Africa/Windhoek: {
-    Generic: Oras sa Gitnang Africa,
-    Standard: Oras sa Gitnang Africa,
-    Daylight: Oras sa Gitnang Africa
-  },
-  Asia/Katmandu: {
-    Generic: Oras sa Nepal,
-    Standard: Oras sa Nepal,
-    Daylight: Oras sa Nepal
-  },
-  Pacific/Auckland: {
-    Generic: Oras sa New Zealand,
-    Standard: Standard na Oras sa New Zealand,
-    Daylight: Daylight Time sa New Zealand
-  },
-  Antarctica/McMurdo: {
-    Generic: Oras sa New Zealand,
-    Standard: Standard na Oras sa New Zealand,
-    Daylight: Daylight Time sa New Zealand
-  },
-  America/St_Johns: {
-    Generic: Oras sa Newfoundland,
-    Standard: Standard na Oras sa Newfoundland,
-    Daylight: Daylight na Oras sa Newfoundland
-  },
-  Pacific/Norfolk: {
-    Generic: Oras sa Norfolk Island,
-    Standard: Standard na Oras sa Norfolk Island,
-    Daylight: Daylight Time sa Norfolk Island
-  },
-  Asia/Irkutsk: {
-    Generic: Oras sa Irkutsk,
-    Standard: Standard na Oras sa Irkutsk,
-    Daylight: Daylight Time ng Irkutsk
-  },
-  Asia/Krasnoyarsk: {
-    Generic: Oras sa Krasnoyarsk,
-    Standard: Standard na Oras sa Krasnoyarsk,
-    Daylight: Daylight Time ng Krasnoyarsk
-  },
-  Asia/Novokuznetsk: {
-    Generic: Oras sa Novokuznetsk,
-    Standard: Standard na Oras sa Novokuznetsk,
-    Daylight: Daylight Time ng Novokuznetsk
-  },
-  Asia/Pyongyang: {
-    Generic: Oras sa Korea,
-    Standard: Standard na Oras sa Korea,
-    Daylight: Daylight Time sa Korea
-  },
-  Asia/Omsk: {
-    Generic: Oras sa Omsk,
-    Standard: Standard na Oras sa Omsk,
-    Daylight: Daylight Time ng Omsk
-  },
-  America/Santiago: {
-    Generic: Oras sa Chile,
-    Standard: Standard na Oras sa Chile,
-    Daylight: Oras sa Tag-init ng Chile
-  },
-  America/Tijuana: {
-    Generic: Oras sa Pasipiko sa HIlagang Amerika,
-    Standard: Standard na Oras sa Pasipiko sa Hilagang Amerika,
-    Daylight: Daylight na Oras sa Pasipiko sa Hilagang Amerika
-  },
-  America/Santa_Isabel: {
-    Generic: Oras sa Hilagang-kanlurang Mexico,
-    Standard: Standard na Oras sa Hilagang-kanlurang Mexico,
-    Daylight: Daylight na Oras sa Hilagang-kanlurang Mexico
-  },
-  America/Los_Angeles: {
-    Generic: Oras sa Pasipiko sa HIlagang Amerika,
-    Standard: Standard na Oras sa Pasipiko sa Hilagang Amerika,
-    Daylight: Daylight na Oras sa Pasipiko sa Hilagang Amerika
-  },
-  America/Vancouver: {
-    Generic: Oras sa Pasipiko sa HIlagang Amerika,
-    Standard: Standard na Oras sa Pasipiko sa Hilagang Amerika,
-    Daylight: Daylight na Oras sa Pasipiko sa Hilagang Amerika
-  },
-  PST8PDT: {
-    Generic: Oras sa Pasipiko sa HIlagang Amerika,
-    Standard: Standard na Oras sa Pasipiko sa Hilagang Amerika,
-    Daylight: Daylight na Oras sa Pasipiko sa Hilagang Amerika
-  },
-  Asia/Karachi: {
-    Generic: Oras sa Pakistan,
-    Standard: Standard na Oras sa Pakistan,
-    Daylight: Oras sa Tag-init ng Pakistan
-  },
-  America/Asuncion: {
-    Generic: Oras sa Paraguay,
-    Standard: Standard na Oras sa Paraguay,
-    Daylight: Oras sa Tag-init ng Paraguay
-  },
-  Asia/Qyzylorda: {
-    Generic: Oras sa Kanlurang Kazakhstan,
-    Standard: Oras sa Kanlurang Kazakhstan,
-    Daylight: Oras sa Kanlurang Kazakhstan
-  },
-  Europe/Paris: {
-    Generic: Oras sa Gitnang Europe,
-    Standard: Standard na Oras sa Gitnang Europe,
-    Daylight: Oras sa Tag-init ng Gitnang Europe
-  },
-  Europe/Brussels: {
-    Generic: Oras sa Gitnang Europe,
-    Standard: Standard na Oras sa Gitnang Europe,
-    Daylight: Oras sa Tag-init ng Gitnang Europe
-  },
-  Europe/Copenhagen: {
-    Generic: Oras sa Gitnang Europe,
-    Standard: Standard na Oras sa Gitnang Europe,
-    Daylight: Oras sa Tag-init ng Gitnang Europe
-  },
-  Africa/Ceuta: {
-    Generic: Oras sa Gitnang Europe,
-    Standard: Standard na Oras sa Gitnang Europe,
-    Daylight: Oras sa Tag-init ng Gitnang Europe
-  },
-  Europe/Madrid: {
-    Generic: Oras sa Gitnang Europe,
-    Standard: Standard na Oras sa Gitnang Europe,
-    Daylight: Oras sa Tag-init ng Gitnang Europe
-  },
-  Asia/Srednekolymsk: {
-    Generic: Oras sa Srednekolymsk,
-    Standard: Standard na Oras sa Srednekolymsk,
-    Daylight: Daylight Time ng Srednekolymsk
-  },
-  Asia/Kamchatka: {
-    Generic: Oras sa Kamchatka,
-    Standard: Standard na Oras sa Kamchatka,
-    Daylight: Daylight Time ng Kamchatka
-  },
-  Asia/Anadyr: {
-    Generic: Oras sa Anadyr,
-    Standard: Standard na Oras sa Anadyr,
-    Daylight: Daylight Time ng Anadyr
-  },
-  Europe/Samara: {
-    Generic: Oras sa Samara,
-    Standard: Standard na Oras sa Samara,
-    Daylight: Daylight Time ng Samara
-  },
-  Europe/Moscow: {
-    Generic: Oras sa Moscow,
-    Standard: Standard na Oras sa Moscow,
-    Daylight: Daylight Time ng Moscow
-  },
-  Europe/Kirov: {
-    Generic: Oras sa Kirov,
-    Standard: Standard na Oras sa Kirov,
-    Daylight: Daylight Time ng Kirov
-  },
-  Europe/Simferopol: {
-    Generic: Oras sa Moscow,
-    Standard: Standard na Oras sa Moscow,
-    Daylight: Oras sa Tag-init ng Moscow
-  },
-  America/Cayenne: {
-    Generic: Oras sa French Guiana,
-    Standard: Oras sa French Guiana,
-    Daylight: Oras sa French Guiana
-  },
-  Antarctica/Rothera: {
-    Generic: Oras sa Rothera,
-    Standard: Oras sa Rothera,
-    Daylight: Oras sa Rothera
-  },
-  Antarctica/Palmer: {
-    Generic: Oras sa Chile,
-    Standard: Standard na Oras sa Chile,
-    Daylight: Oras sa Tag-init ng Chile
-  },
-  America/Fortaleza: {
-    Generic: Oras sa Brasilia,
-    Standard: Standard na Oras sa Brasilia,
-    Daylight: Oras sa Tag-init ng Brasilia
-  },
-  America/Belem: {
-    Generic: Oras sa Brasilia,
-    Standard: Standard na Oras sa Brasilia,
-    Daylight: Oras sa Tag-init ng Brasilia
-  },
-  America/Maceio: {
-    Generic: Oras sa Brasilia,
-    Standard: Standard na Oras sa Brasilia,
-    Daylight: Oras sa Tag-init ng Brasilia
-  },
-  America/Recife: {
-    Generic: Oras sa Brasilia,
-    Standard: Standard na Oras sa Brasilia,
-    Daylight: Oras sa Tag-init ng Brasilia
-  },
-  America/Santarem: {
-    Generic: Oras sa Brasilia,
-    Standard: Standard na Oras sa Brasilia,
-    Daylight: Oras sa Tag-init ng Brasilia
-  },
-  Atlantic/Stanley: {
-    Generic: Oras sa Falkland Islands,
-    Standard: Standard na Oras sa Falkland Islands,
-    Daylight: Oras sa Tag-init ng Falkland Islands
-  },
-  America/Paramaribo: {
-    Generic: Oras sa Suriname,
-    Standard: Oras sa Suriname,
-    Daylight: Oras sa Suriname
-  },
-  Etc/GMT+3: {
-    Generic: Coordinated Universal Time -3,
-    Standard: Coordinated Universal Time -3,
-    Daylight: Coordinated Universal Time -3
-  },
-  America/Bogota: {
-    Generic: Oras sa Colombia,
-    Standard: Standard na Oras sa Colombia,
-    Daylight: Oras sa Tag-init ng Colombia
-  },
-  America/Rio_Branco: {
+  America/Port_of_Spain: {
+    Generic: Oras sa Atlantiko,
+    Standard: Standard na Oras sa Atlantiko,
+    Daylight: Daylight na Oras sa Atlantiko
+  },
+  America/Porto_Acre: {
     Generic: Oras sa Brazil,
     Standard: Standard na Oras sa Brazil,
     Daylight: Daylight Time ng Brazil
-  },
-  America/Eirunepe: {
-    Generic: Oras sa Brazil,
-    Standard: Standard na Oras sa Brazil,
-    Daylight: Daylight Time ng Brazil
-  },
-  America/Coral_Harbour: {
-    Generic: Oras sa Silangan ng Hilagang Amerika,
-    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
-    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
-  },
-  America/Guayaquil: {
-    Generic: Oras sa Ecuador,
-    Standard: Oras sa Ecuador,
-    Daylight: Oras sa Ecuador
-  },
-  America/Jamaica: {
-    Generic: Oras sa Silangan ng Hilagang Amerika,
-    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
-    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
-  },
-  America/Cayman: {
-    Generic: Oras sa Silangan ng Hilagang Amerika,
-    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
-    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
-  },
-  America/Panama: {
-    Generic: Oras sa Silangan ng Hilagang Amerika,
-    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
-    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
-  },
-  America/Lima: {
-    Generic: Oras sa Peru,
-    Standard: Standard na Oras sa Peru,
-    Daylight: Oras sa Tag-init ng Peru
-  },
-  Etc/GMT+5: {
-    Generic: Coordinated Universal Time -5,
-    Standard: Coordinated Universal Time -5,
-    Daylight: Coordinated Universal Time -5
-  },
-  America/La_Paz: {
-    Generic: Oras sa Bolivia,
-    Standard: Oras sa Bolivia,
-    Daylight: Oras sa Bolivia
-  },
-  America/Antigua: {
-    Generic: Oras sa Atlantiko,
-    Standard: Standard na Oras sa Atlantiko,
-    Daylight: Daylight na Oras sa Atlantiko
-  },
-  America/Anguilla: {
-    Generic: Oras sa Atlantiko,
-    Standard: Standard na Oras sa Atlantiko,
-    Daylight: Daylight na Oras sa Atlantiko
-  },
-  America/Aruba: {
-    Generic: Oras sa Atlantiko,
-    Standard: Standard na Oras sa Atlantiko,
-    Daylight: Daylight na Oras sa Atlantiko
-  },
-  America/Barbados: {
-    Generic: Oras sa Atlantiko,
-    Standard: Standard na Oras sa Atlantiko,
-    Daylight: Daylight na Oras sa Atlantiko
-  },
-  America/St_Barthelemy: {
-    Generic: Oras sa Atlantiko,
-    Standard: Standard na Oras sa Atlantiko,
-    Daylight: Daylight na Oras sa Atlantiko
-  },
-  America/Kralendijk: {
-    Generic: Oras sa Atlantiko,
-    Standard: Standard na Oras sa Atlantiko,
-    Daylight: Daylight na Oras sa Atlantiko
-  },
-  America/Manaus: {
-    Generic: Oras sa Amazon,
-    Standard: Standard na Oras sa Amazon,
-    Daylight: Oras sa Tag-init ng Amazon
-  },
-  America/Boa_Vista: {
-    Generic: Oras sa Amazon,
-    Standard: Standard na Oras sa Amazon,
-    Daylight: Oras sa Tag-init ng Amazon
   },
   America/Porto_Velho: {
     Generic: Oras sa Amazon,
     Standard: Standard na Oras sa Amazon,
     Daylight: Oras sa Tag-init ng Amazon
   },
-  America/Blanc-Sablon: {
+  America/Puerto_Rico: {
     Generic: Oras sa Atlantiko,
     Standard: Standard na Oras sa Atlantiko,
     Daylight: Daylight na Oras sa Atlantiko
   },
-  America/Curacao: {
-    Generic: Oras sa Atlantiko,
-    Standard: Standard na Oras sa Atlantiko,
-    Daylight: Daylight na Oras sa Atlantiko
+  America/Punta_Arenas: {
+    Generic: Oras sa Chile,
+    Standard: Standard na Oras sa Chile,
+    Daylight: Oras sa Tag-init ng Chile
   },
-  America/Dominica: {
-    Generic: Oras sa Atlantiko,
-    Standard: Standard na Oras sa Atlantiko,
-    Daylight: Daylight na Oras sa Atlantiko
+  America/Rainy_River: {
+    Generic: Sentral na Oras sa North America,
+    Standard: Sentral na Standard na Oras sa North America,
+    Daylight: Sentral na Daylight na Oras sa North America
+  },
+  America/Rankin_Inlet: {
+    Generic: Sentral na Oras sa North America,
+    Standard: Sentral na Standard na Oras sa North America,
+    Daylight: Sentral na Daylight na Oras sa North America
+  },
+  America/Recife: {
+    Generic: Oras sa Brasilia,
+    Standard: Standard na Oras sa Brasilia,
+    Daylight: Oras sa Tag-init ng Brasilia
+  },
+  America/Regina: {
+    Generic: Sentral na Oras sa North America,
+    Standard: Sentral na Standard na Oras sa North America,
+    Daylight: Sentral na Daylight na Oras sa North America
+  },
+  America/Resolute: {
+    Generic: Sentral na Oras sa North America,
+    Standard: Sentral na Standard na Oras sa North America,
+    Daylight: Sentral na Daylight na Oras sa North America
+  },
+  America/Rio_Branco: {
+    Generic: Oras sa Brazil,
+    Standard: Standard na Oras sa Brazil,
+    Daylight: Daylight Time ng Brazil
+  },
+  America/Rosario: {
+    Generic: Oras sa Argentina,
+    Standard: Standard na Oras sa Argentina,
+    Daylight: Oras sa Tag-init ng Argentina
+  },
+  America/Santa_Isabel: {
+    Generic: Oras sa Hilagang-kanlurang Mexico,
+    Standard: Standard na Oras sa Hilagang-kanlurang Mexico,
+    Daylight: Daylight na Oras sa Hilagang-kanlurang Mexico
+  },
+  America/Santarem: {
+    Generic: Oras sa Brasilia,
+    Standard: Standard na Oras sa Brasilia,
+    Daylight: Oras sa Tag-init ng Brasilia
+  },
+  America/Santiago: {
+    Generic: Oras sa Chile,
+    Standard: Standard na Oras sa Chile,
+    Daylight: Oras sa Tag-init ng Chile
   },
   America/Santo_Domingo: {
     Generic: Oras sa Atlantiko,
     Standard: Standard na Oras sa Atlantiko,
     Daylight: Daylight na Oras sa Atlantiko
   },
-  America/Grenada: {
+  America/Sao_Paulo: {
+    Generic: Oras sa Brasilia,
+    Standard: Standard na Oras sa Brasilia,
+    Daylight: Oras sa Tag-init ng Brasilia
+  },
+  America/Scoresbysund: {
+    Generic: Oras sa Silangang Greenland,
+    Standard: Standard na Oras sa Silangang Greenland,
+    Daylight: Oras sa Tag-init ng Silangang Greenland
+  },
+  America/Shiprock: {
+    Generic: Oras sa Bundok sa Hilagang Amerika,
+    Standard: Standard na Oras sa Bundok sa Hilagang Amerika,
+    Daylight: Daylight na Oras sa Bundok sa Hilagang Amerika
+  },
+  America/Sitka: {
+    Generic: Oras sa Alaska,
+    Standard: Standard na Oras sa Alaska,
+    Daylight: Daylight Time sa Alaska
+  },
+  America/St_Barthelemy: {
     Generic: Oras sa Atlantiko,
     Standard: Standard na Oras sa Atlantiko,
     Daylight: Daylight na Oras sa Atlantiko
   },
-  America/Guadeloupe: {
-    Generic: Oras sa Atlantiko,
-    Standard: Standard na Oras sa Atlantiko,
-    Daylight: Daylight na Oras sa Atlantiko
-  },
-  America/Guyana: {
-    Generic: Oras sa Guyana,
-    Standard: Oras sa Guyana,
-    Daylight: Oras sa Guyana
+  America/St_Johns: {
+    Generic: Oras sa Newfoundland,
+    Standard: Standard na Oras sa Newfoundland,
+    Daylight: Daylight na Oras sa Newfoundland
   },
   America/St_Kitts: {
     Generic: Oras sa Atlantiko,
@@ -1504,32 +1029,7 @@
     Standard: Standard na Oras sa Atlantiko,
     Daylight: Daylight na Oras sa Atlantiko
   },
-  America/Marigot: {
-    Generic: Oras sa Atlantiko,
-    Standard: Standard na Oras sa Atlantiko,
-    Daylight: Daylight na Oras sa Atlantiko
-  },
-  America/Martinique: {
-    Generic: Oras sa Atlantiko,
-    Standard: Standard na Oras sa Atlantiko,
-    Daylight: Daylight na Oras sa Atlantiko
-  },
-  America/Montserrat: {
-    Generic: Oras sa Atlantiko,
-    Standard: Standard na Oras sa Atlantiko,
-    Daylight: Daylight na Oras sa Atlantiko
-  },
-  America/Puerto_Rico: {
-    Generic: Oras sa Atlantiko,
-    Standard: Standard na Oras sa Atlantiko,
-    Daylight: Daylight na Oras sa Atlantiko
-  },
-  America/Lower_Princes: {
-    Generic: Oras sa Atlantiko,
-    Standard: Standard na Oras sa Atlantiko,
-    Daylight: Daylight na Oras sa Atlantiko
-  },
-  America/Port_of_Spain: {
+  America/St_Thomas: {
     Generic: Oras sa Atlantiko,
     Standard: Standard na Oras sa Atlantiko,
     Daylight: Daylight na Oras sa Atlantiko
@@ -1539,655 +1039,155 @@
     Standard: Standard na Oras sa Atlantiko,
     Daylight: Daylight na Oras sa Atlantiko
   },
+  America/Swift_Current: {
+    Generic: Sentral na Oras sa North America,
+    Standard: Sentral na Standard na Oras sa North America,
+    Daylight: Sentral na Daylight na Oras sa North America
+  },
+  America/Tegucigalpa: {
+    Generic: Sentral na Oras sa North America,
+    Standard: Sentral na Standard na Oras sa North America,
+    Daylight: Sentral na Daylight na Oras sa North America
+  },
+  America/Thule: {
+    Generic: Oras sa Atlantiko,
+    Standard: Standard na Oras sa Atlantiko,
+    Daylight: Daylight na Oras sa Atlantiko
+  },
+  America/Thunder_Bay: {
+    Generic: Oras sa Silangan ng Hilagang Amerika,
+    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
+    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
+  },
+  America/Tijuana: {
+    Generic: Oras sa Pasipiko sa HIlagang Amerika,
+    Standard: Standard na Oras sa Pasipiko sa Hilagang Amerika,
+    Daylight: Daylight na Oras sa Pasipiko sa Hilagang Amerika
+  },
+  America/Toronto: {
+    Generic: Oras sa Silangan ng Hilagang Amerika,
+    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
+    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
+  },
   America/Tortola: {
     Generic: Oras sa Atlantiko,
     Standard: Standard na Oras sa Atlantiko,
     Daylight: Daylight na Oras sa Atlantiko
   },
-  America/St_Thomas: {
+  America/Vancouver: {
+    Generic: Oras sa Pasipiko sa HIlagang Amerika,
+    Standard: Standard na Oras sa Pasipiko sa Hilagang Amerika,
+    Daylight: Daylight na Oras sa Pasipiko sa Hilagang Amerika
+  },
+  America/Virgin: {
     Generic: Oras sa Atlantiko,
     Standard: Standard na Oras sa Atlantiko,
     Daylight: Daylight na Oras sa Atlantiko
   },
-  Etc/GMT+4: {
-    Generic: Coordinated Universal Time -4,
-    Standard: Coordinated Universal Time -4,
-    Daylight: Coordinated Universal Time -4
+  America/Whitehorse: {
+    Generic: Oras sa Yukon,
+    Standard: Oras sa Yukon,
+    Daylight: Oras sa Yukon
   },
-  Asia/Bangkok: {
-    Generic: Oras sa Indochina,
-    Standard: Oras sa Indochina,
-    Daylight: Oras sa Indochina
+  America/Winnipeg: {
+    Generic: Sentral na Oras sa North America,
+    Standard: Sentral na Standard na Oras sa North America,
+    Daylight: Sentral na Daylight na Oras sa North America
+  },
+  America/Yakutat: {
+    Generic: Oras sa Alaska,
+    Standard: Standard na Oras sa Alaska,
+    Daylight: Daylight Time sa Alaska
+  },
+  America/Yellowknife: {
+    Generic: Oras sa Bundok sa Hilagang Amerika,
+    Standard: Standard na Oras sa Bundok sa Hilagang Amerika,
+    Daylight: Daylight na Oras sa Bundok sa Hilagang Amerika
+  },
+  Antarctica/Casey: {
+    Generic: Oras sa Antarctica,
+    Standard: Standard na Oras sa Antarctica,
+    Daylight: Daylight Time ng Antarctica
   },
   Antarctica/Davis: {
     Generic: Oras sa Davis,
     Standard: Oras sa Davis,
     Daylight: Oras sa Davis
   },
-  Indian/Christmas: {
-    Generic: Oras sa Christmas Island,
-    Standard: Oras sa Christmas Island,
-    Daylight: Oras sa Christmas Island
-  },
-  Asia/Jakarta: {
-    Generic: Oras sa Kanlurang Indonesia,
-    Standard: Oras sa Kanlurang Indonesia,
-    Daylight: Oras sa Kanlurang Indonesia
-  },
-  Asia/Pontianak: {
-    Generic: Oras sa Kanlurang Indonesia,
-    Standard: Oras sa Kanlurang Indonesia,
-    Daylight: Oras sa Kanlurang Indonesia
-  },
-  Asia/Phnom_Penh: {
-    Generic: Oras sa Indochina,
-    Standard: Oras sa Indochina,
-    Daylight: Oras sa Indochina
-  },
-  Asia/Vientiane: {
-    Generic: Oras sa Indochina,
-    Standard: Oras sa Indochina,
-    Daylight: Oras sa Indochina
-  },
-  Asia/Saigon: {
-    Generic: Oras sa Indochina,
-    Standard: Oras sa Indochina,
-    Daylight: Oras sa Indochina
-  },
-  Etc/GMT-7: {
-    Generic: Coordinated Universal Time +7,
-    Standard: Coordinated Universal Time +7,
-    Daylight: Coordinated Universal Time +7
-  },
-  America/Miquelon: {
-    Generic: Oras sa Saint Pierre & Miquelon,
-    Standard: Standard na Oras sa Saint Pierre & Miquelon,
-    Daylight: Daylight na Oras sa Saint Pierre & Miquelon
-  },
-  Asia/Sakhalin: {
-    Generic: Oras sa Sakhalin,
-    Standard: Standard na Oras sa Sakhalin,
-    Daylight: Daylight Time ng Sakhalin
-  },
-  Pacific/Apia: {
-    Generic: Oras sa Apia,
-    Standard: Standard na Oras sa Apia,
-    Daylight: Daylight Time sa Apia
-  },
-  Africa/Sao_Tome: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
-  },
-  Europe/Saratov: {
-    Generic: Oras sa Saratov,
-    Standard: Standard na Oras sa Saratov,
-    Daylight: Daylight Time ng Saratov
-  },
-  Asia/Singapore: {
-    Generic: Standard na Oras sa Singapore,
-    Standard: Standard na Oras sa Singapore,
-    Daylight: Standard na Oras sa Singapore
-  },
-  Asia/Brunei: {
-    Generic: Oras sa Brunei Darussalam,
-    Standard: Oras sa Brunei Darussalam,
-    Daylight: Oras sa Brunei Darussalam
-  },
-  Asia/Makassar: {
-    Generic: Oras sa Gitnang Indonesia,
-    Standard: Oras sa Gitnang Indonesia,
-    Daylight: Oras sa Gitnang Indonesia
-  },
-  Asia/Kuala_Lumpur: {
-    Generic: Oras sa Malaysia,
-    Standard: Oras sa Malaysia,
-    Daylight: Oras sa Malaysia
-  },
-  Asia/Kuching: {
-    Generic: Oras sa Malaysia,
-    Standard: Oras sa Malaysia,
-    Daylight: Oras sa Malaysia
-  },
-  Asia/Manila: {
-    Generic: Oras sa Pilipinas,
-    Standard: Standard na Oras sa Pilipinas,
-    Daylight: Oras sa Tag-init ng Pilipinas
-  },
-  Etc/GMT-8: {
-    Generic: Coordinated Universal Time +8,
-    Standard: Coordinated Universal Time +8,
-    Daylight: Coordinated Universal Time +8
-  },
-  Africa/Johannesburg: {
-    Generic: Oras sa Timog Africa,
-    Standard: Oras sa Timog Africa,
-    Daylight: Oras sa Timog Africa
-  },
-  Africa/Bujumbura: {
-    Generic: Oras sa Gitnang Africa,
-    Standard: Oras sa Gitnang Africa,
-    Daylight: Oras sa Gitnang Africa
-  },
-  Africa/Gaborone: {
-    Generic: Oras sa Gitnang Africa,
-    Standard: Oras sa Gitnang Africa,
-    Daylight: Oras sa Gitnang Africa
-  },
-  Africa/Lubumbashi: {
-    Generic: Oras sa Gitnang Africa,
-    Standard: Oras sa Gitnang Africa,
-    Daylight: Oras sa Gitnang Africa
-  },
-  Africa/Maseru: {
-    Generic: Oras sa Timog Africa,
-    Standard: Oras sa Timog Africa,
-    Daylight: Oras sa Timog Africa
-  },
-  Africa/Blantyre: {
-    Generic: Oras sa Gitnang Africa,
-    Standard: Oras sa Gitnang Africa,
-    Daylight: Oras sa Gitnang Africa
-  },
-  Africa/Maputo: {
-    Generic: Oras sa Gitnang Africa,
-    Standard: Oras sa Gitnang Africa,
-    Daylight: Oras sa Gitnang Africa
-  },
-  Africa/Kigali: {
-    Generic: Oras sa Gitnang Africa,
-    Standard: Oras sa Gitnang Africa,
-    Daylight: Oras sa Gitnang Africa
-  },
-  Africa/Mbabane: {
-    Generic: Oras sa Timog Africa,
-    Standard: Oras sa Timog Africa,
-    Daylight: Oras sa Timog Africa
-  },
-  Africa/Lusaka: {
-    Generic: Oras sa Gitnang Africa,
-    Standard: Oras sa Gitnang Africa,
-    Daylight: Oras sa Gitnang Africa
-  },
-  Africa/Harare: {
-    Generic: Oras sa Gitnang Africa,
-    Standard: Oras sa Gitnang Africa,
-    Daylight: Oras sa Gitnang Africa
-  },
-  Etc/GMT-2: {
-    Generic: Coordinated Universal Time +2,
-    Standard: Coordinated Universal Time +2,
-    Daylight: Coordinated Universal Time +2
-  },
-  Africa/Juba: {
-    Generic: Oras sa Gitnang Africa,
-    Standard: Oras sa Gitnang Africa,
-    Daylight: Oras sa Gitnang Africa
-  },
-  Asia/Colombo: {
-    Generic: Standard na Oras sa India,
-    Standard: Standard na Oras sa India,
-    Daylight: Standard na Oras sa India
-  },
-  Africa/Khartoum: {
-    Generic: Oras sa Gitnang Africa,
-    Standard: Oras sa Gitnang Africa,
-    Daylight: Oras sa Gitnang Africa
-  },
-  Asia/Damascus: {
-    Generic: Oras sa Silangang Europe,
-    Standard: Standard na Oras sa Silangang Europe,
-    Daylight: Oras sa Tag-init ng Silangang Europe
-  },
-  Asia/Taipei: {
-    Generic: Oras sa Taipei,
-    Standard: Standard na Oras sa Taipei,
-    Daylight: Daylight Time sa Taipei
-  },
-  Australia/Hobart: {
-    Generic: Oras sa Silangang Australya,
-    Standard: Standard na Oras sa Silangang Australya,
-    Daylight: Daylight Time sa Silangang Australya
-  },
-  Australia/Currie: {
-    Generic: Oras sa Silangang Australya,
-    Standard: Standard na Oras sa Silangang Australya,
-    Daylight: Daylight Time sa Silangang Australya
+  Antarctica/DumontDUrville: {
+    Generic: Oras sa Dumont-d’Urville,
+    Standard: Oras sa Dumont-d’Urville,
+    Daylight: Oras sa Dumont-d’Urville
   },
   Antarctica/Macquarie: {
     Generic: Oras sa Silangang Australya,
     Standard: Standard na Oras sa Silangang Australya,
     Daylight: Daylight Time sa Silangang Australya
   },
-  America/Araguaina: {
-    Generic: Oras sa Brasilia,
-    Standard: Standard na Oras sa Brasilia,
-    Daylight: Oras sa Tag-init ng Brasilia
+  Antarctica/Mawson: {
+    Generic: Oras sa Mawson,
+    Standard: Oras sa Mawson,
+    Daylight: Oras sa Mawson
   },
-  Asia/Tokyo: {
-    Generic: Oras sa Japan,
-    Standard: Standard na Oras sa Japan,
-    Daylight: Daylight Time sa Japan
+  Antarctica/McMurdo: {
+    Generic: Oras sa New Zealand,
+    Standard: Standard na Oras sa New Zealand,
+    Daylight: Daylight Time sa New Zealand
   },
-  Asia/Jayapura: {
-    Generic: Oras sa Silangang Indonesia,
-    Standard: Oras sa Silangang Indonesia,
-    Daylight: Oras sa Silangang Indonesia
+  Antarctica/Palmer: {
+    Generic: Oras sa Chile,
+    Standard: Standard na Oras sa Chile,
+    Daylight: Oras sa Tag-init ng Chile
   },
-  Pacific/Palau: {
-    Generic: Oras sa Palau,
-    Standard: Oras sa Palau,
-    Daylight: Oras sa Palau
+  Antarctica/Rothera: {
+    Generic: Oras sa Rothera,
+    Standard: Oras sa Rothera,
+    Daylight: Oras sa Rothera
   },
-  Asia/Dili: {
-    Generic: Oras sa East Timor,
-    Standard: Oras sa East Timor,
-    Daylight: Oras sa East Timor
+  Antarctica/South_Pole: {
+    Generic: Oras sa New Zealand,
+    Standard: Standard na Oras sa New Zealand,
+    Daylight: Daylight Time sa New Zealand
   },
-  Etc/GMT-9: {
-    Generic: Coordinated Universal Time +9,
-    Standard: Coordinated Universal Time +9,
-    Daylight: Coordinated Universal Time +9
+  Antarctica/Syowa: {
+    Generic: Oras sa Syowa,
+    Standard: Oras sa Syowa,
+    Daylight: Oras sa Syowa
   },
-  Asia/Tomsk: {
-    Generic: Oras sa Tomsk,
-    Standard: Standard na Oras sa Tomsk,
-    Daylight: Daylight Time ng Tomsk
-  },
-  Pacific/Tongatapu: {
-    Generic: Oras sa Tonga,
-    Standard: Standard na Oras sa Tonga,
-    Daylight: Oras sa Tag-init ng Tonga
-  },
-  Asia/Chita: {
-    Generic: Oras sa Chita,
-    Standard: Standard na Oras sa Chita,
-    Daylight: Daylight Time ng Chita
-  },
-  Europe/Istanbul: {
-    Generic: Oras sa Turkey,
-    Standard: Standard na Oras sa Turkey,
-    Daylight: Daylight Time ng Turkey
-  },
-  America/Grand_Turk: {
-    Generic: Oras sa Silangan ng Hilagang Amerika,
-    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
-    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
-  },
-  America/Indianapolis: {
-    Generic: Oras sa Silangan ng Hilagang Amerika,
-    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
-    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
-  },
-  America/Indiana/Marengo: {
-    Generic: Oras sa Silangan ng Hilagang Amerika,
-    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
-    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
-  },
-  America/Indiana/Vevay: {
-    Generic: Oras sa Silangan ng Hilagang Amerika,
-    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
-    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
-  },
-  America/Phoenix: {
-    Generic: Oras sa Bundok sa Hilagang Amerika,
-    Standard: Standard na Oras sa Bundok sa Hilagang Amerika,
-    Daylight: Daylight na Oras sa Bundok sa Hilagang Amerika
-  },
-  America/Creston: {
-    Generic: Oras sa Bundok sa Hilagang Amerika,
-    Standard: Standard na Oras sa Bundok sa Hilagang Amerika,
-    Daylight: Daylight na Oras sa Bundok sa Hilagang Amerika
-  },
-  America/Dawson_Creek: {
-    Generic: Oras sa Bundok sa Hilagang Amerika,
-    Standard: Standard na Oras sa Bundok sa Hilagang Amerika,
-    Daylight: Daylight na Oras sa Bundok sa Hilagang Amerika
-  },
-  America/Fort_Nelson: {
-    Generic: Oras sa Bundok sa Hilagang Amerika,
-    Standard: Standard na Oras sa Bundok sa Hilagang Amerika,
-    Daylight: Daylight na Oras sa Bundok sa Hilagang Amerika
-  },
-  America/Hermosillo: {
-    Generic: Oras sa Pasipiko ng Mexico,
-    Standard: Standard na Oras sa Pasipiko ng Mexico,
-    Daylight: Daylight na Oras sa Pasipiko ng Mexico
-  },
-  Etc/GMT+7: {
-    Generic: Coordinated Universal Time -7,
-    Standard: Coordinated Universal Time -7,
-    Daylight: Coordinated Universal Time -7
-  },
-  Etc/GMT-12: {
-    Generic: Coordinated Universal Time +12,
-    Standard: Coordinated Universal Time +12,
-    Daylight: Coordinated Universal Time +12
-  },
-  Pacific/Tarawa: {
-    Generic: Oras sa Gilbert Islands,
-    Standard: Oras sa Gilbert Islands,
-    Daylight: Oras sa Gilbert Islands
-  },
-  Pacific/Majuro: {
-    Generic: Oras sa Marshall Islands,
-    Standard: Oras sa Marshall Islands,
-    Daylight: Oras sa Marshall Islands
-  },
-  Pacific/Kwajalein: {
-    Generic: Oras sa Marshall Islands,
-    Standard: Oras sa Marshall Islands,
-    Daylight: Oras sa Marshall Islands
-  },
-  Pacific/Nauru: {
-    Generic: Oras sa Nauru,
-    Standard: Oras sa Nauru,
-    Daylight: Oras sa Nauru
-  },
-  Pacific/Funafuti: {
-    Generic: Oras sa Tuvalu,
-    Standard: Oras sa Tuvalu,
-    Daylight: Oras sa Tuvalu
-  },
-  Pacific/Wake: {
-    Generic: Oras sa Wake Island,
-    Standard: Oras sa Wake Island,
-    Daylight: Oras sa Wake Island
-  },
-  Pacific/Wallis: {
-    Generic: Oras sa Wallis & Futuna,
-    Standard: Oras sa Wallis & Futuna,
-    Daylight: Oras sa Wallis & Futuna
-  },
-  Etc/GMT-13: {
-    Generic: Coordinated Universal Time +13,
-    Standard: Coordinated Universal Time +13,
-    Daylight: Coordinated Universal Time +13
-  },
-  Pacific/Enderbury: {
-    Generic: Oras sa Phoenix Islands,
-    Standard: Oras sa Phoenix Islands,
-    Daylight: Oras sa Phoenix Islands
-  },
-  Pacific/Fakaofo: {
-    Generic: Oras sa Tokelau,
-    Standard: Oras sa Tokelau,
-    Daylight: Oras sa Tokelau
-  },
-  Etc/UTC: {
-    Generic: Coordinated Universal Time,
-    Standard: Coordinated Universal Time,
-    Daylight: Coordinated Universal Time
-  },
-  Etc/GMT: {
+  Antarctica/Troll: {
     Generic: Greenwich Mean Time,
     Standard: Greenwich Mean Time,
     Daylight: Greenwich Mean Time
   },
-  Etc/GMT+2: {
-    Generic: Coordinated Universal Time -2,
-    Standard: Coordinated Universal Time -2,
-    Daylight: Coordinated Universal Time -2
-  },
-  America/Noronha: {
-    Generic: Oras sa Fernando de Noronha,
-    Standard: Standard na Oras sa Fernando de Noronha,
-    Daylight: Oras sa Tag-init ng Fernando de Noronha
-  },
-  Atlantic/South_Georgia: {
-    Generic: Oras sa Timog Georgia,
-    Standard: Oras sa Timog Georgia,
-    Daylight: Oras sa Timog Georgia
-  },
-  Etc/GMT+8: {
-    Generic: Coordinated Universal Time -8,
-    Standard: Coordinated Universal Time -8,
-    Daylight: Coordinated Universal Time -8
-  },
-  Pacific/Pitcairn: {
-    Generic: Oras sa Pitcairn,
-    Standard: Oras sa Pitcairn,
-    Daylight: Oras sa Pitcairn
-  },
-  Etc/GMT+9: {
-    Generic: Coordinated Universal Time -9,
-    Standard: Coordinated Universal Time -9,
-    Daylight: Coordinated Universal Time -9
-  },
-  Pacific/Gambier: {
-    Generic: Oras sa Gambier,
-    Standard: Oras sa Gambier,
-    Daylight: Oras sa Gambier
-  },
-  Etc/GMT+11: {
-    Generic: Coordinated Universal Time -11,
-    Standard: Coordinated Universal Time -11,
-    Daylight: Coordinated Universal Time -11
-  },
-  Pacific/Pago_Pago: {
-    Generic: Oras sa Samoa,
-    Standard: Standard na Oras sa Samoa,
-    Daylight: Daylight Time sa Samoa
-  },
-  Pacific/Niue: {
-    Generic: Oras sa Niue,
-    Standard: Oras sa Niue,
-    Daylight: Oras sa Niue
-  },
-  Pacific/Midway: {
-    Generic: Oras sa Samoa,
-    Standard: Standard na Oras sa Samoa,
-    Daylight: Daylight Time sa Samoa
-  },
-  Asia/Ulaanbaatar: {
-    Generic: Oras sa Ulan Bator,
-    Standard: Standard na Oras sa Ulan Bator,
-    Daylight: Oras sa Tag-init ng Ulan Bator
-  },
-  Asia/Choibalsan: {
-    Generic: Oras sa Ulan Bator,
-    Standard: Standard na Oras sa Ulan Bator,
-    Daylight: Oras sa Tag-init ng Ulan Bator
-  },
-  America/Caracas: {
-    Generic: Oras sa Venezuela,
-    Standard: Oras sa Venezuela,
-    Daylight: Oras sa Venezuela
-  },
-  Asia/Vladivostok: {
-    Generic: Oras sa Vladivostok,
-    Standard: Standard na Oras sa Vladivostok,
-    Daylight: Daylight Time ng Vladivostok
-  },
-  Asia/Ust-Nera: {
-    Generic: Oras sa Ust-Nera,
-    Standard: Standard na Oras sa Ust-Nera,
-    Daylight: Daylight Time ng Ust-Nera
-  },
-  Europe/Volgograd: {
-    Generic: Oras sa Volgograd,
-    Standard: Standard na Oras sa Volgograd,
-    Daylight: Daylight Time ng Volgograd
-  },
-  Australia/Perth: {
-    Generic: Oras sa Kanlurang Australya,
-    Standard: Standard na Oras sa Kanlurang Australya,
-    Daylight: Daylight Time sa Kanlurang Australya
-  },
-  Africa/Lagos: {
-    Generic: Oras sa Kanlurang Africa,
-    Standard: Standard na Oras sa Kanlurang Africa,
-    Daylight: Oras sa Tag-init ng Kanlurang Africa
-  },
-  Africa/Luanda: {
-    Generic: Oras sa Kanlurang Africa,
-    Standard: Standard na Oras sa Kanlurang Africa,
-    Daylight: Oras sa Tag-init ng Kanlurang Africa
-  },
-  Africa/Porto-Novo: {
-    Generic: Oras sa Kanlurang Africa,
-    Standard: Standard na Oras sa Kanlurang Africa,
-    Daylight: Oras sa Tag-init ng Kanlurang Africa
-  },
-  Africa/Kinshasa: {
-    Generic: Oras sa Kanlurang Africa,
-    Standard: Standard na Oras sa Kanlurang Africa,
-    Daylight: Oras sa Tag-init ng Kanlurang Africa
-  },
-  Africa/Bangui: {
-    Generic: Oras sa Kanlurang Africa,
-    Standard: Standard na Oras sa Kanlurang Africa,
-    Daylight: Oras sa Tag-init ng Kanlurang Africa
-  },
-  Africa/Brazzaville: {
-    Generic: Oras sa Kanlurang Africa,
-    Standard: Standard na Oras sa Kanlurang Africa,
-    Daylight: Oras sa Tag-init ng Kanlurang Africa
-  },
-  Africa/Douala: {
-    Generic: Oras sa Kanlurang Africa,
-    Standard: Standard na Oras sa Kanlurang Africa,
-    Daylight: Oras sa Tag-init ng Kanlurang Africa
-  },
-  Africa/Algiers: {
-    Generic: Oras sa Gitnang Europe,
-    Standard: Standard na Oras sa Gitnang Europe,
-    Daylight: Oras sa Tag-init ng Gitnang Europe
-  },
-  Africa/Libreville: {
-    Generic: Oras sa Kanlurang Africa,
-    Standard: Standard na Oras sa Kanlurang Africa,
-    Daylight: Oras sa Tag-init ng Kanlurang Africa
-  },
-  Africa/Malabo: {
-    Generic: Oras sa Kanlurang Africa,
-    Standard: Standard na Oras sa Kanlurang Africa,
-    Daylight: Oras sa Tag-init ng Kanlurang Africa
-  },
-  Africa/Niamey: {
-    Generic: Oras sa Kanlurang Africa,
-    Standard: Standard na Oras sa Kanlurang Africa,
-    Daylight: Oras sa Tag-init ng Kanlurang Africa
-  },
-  Africa/Ndjamena: {
-    Generic: Oras sa Kanlurang Africa,
-    Standard: Standard na Oras sa Kanlurang Africa,
-    Daylight: Oras sa Tag-init ng Kanlurang Africa
-  },
-  Africa/Tunis: {
-    Generic: Oras sa Gitnang Europe,
-    Standard: Standard na Oras sa Gitnang Europe,
-    Daylight: Oras sa Tag-init ng Gitnang Europe
-  },
-  Etc/GMT-1: {
-    Generic: Coordinated Universal Time +1,
-    Standard: Coordinated Universal Time +1,
-    Daylight: Coordinated Universal Time +1
-  },
-  Europe/Berlin: {
-    Generic: Oras sa Gitnang Europe,
-    Standard: Standard na Oras sa Gitnang Europe,
-    Daylight: Oras sa Tag-init ng Gitnang Europe
-  },
-  Europe/Andorra: {
-    Generic: Oras sa Gitnang Europe,
-    Standard: Standard na Oras sa Gitnang Europe,
-    Daylight: Oras sa Tag-init ng Gitnang Europe
-  },
-  Europe/Vienna: {
-    Generic: Oras sa Gitnang Europe,
-    Standard: Standard na Oras sa Gitnang Europe,
-    Daylight: Oras sa Tag-init ng Gitnang Europe
-  },
-  Europe/Zurich: {
-    Generic: Oras sa Gitnang Europe,
-    Standard: Standard na Oras sa Gitnang Europe,
-    Daylight: Oras sa Tag-init ng Gitnang Europe
-  },
-  Europe/Busingen: {
-    Generic: Oras sa Gitnang Europe,
-    Standard: Standard na Oras sa Gitnang Europe,
-    Daylight: Oras sa Tag-init ng Gitnang Europe
-  },
-  Europe/Gibraltar: {
-    Generic: Oras sa Gitnang Europe,
-    Standard: Standard na Oras sa Gitnang Europe,
-    Daylight: Oras sa Tag-init ng Gitnang Europe
-  },
-  Europe/Rome: {
-    Generic: Oras sa Gitnang Europe,
-    Standard: Standard na Oras sa Gitnang Europe,
-    Daylight: Oras sa Tag-init ng Gitnang Europe
-  },
-  Europe/Vaduz: {
-    Generic: Oras sa Gitnang Europe,
-    Standard: Standard na Oras sa Gitnang Europe,
-    Daylight: Oras sa Tag-init ng Gitnang Europe
-  },
-  Europe/Luxembourg: {
-    Generic: Oras sa Gitnang Europe,
-    Standard: Standard na Oras sa Gitnang Europe,
-    Daylight: Oras sa Tag-init ng Gitnang Europe
-  },
-  Europe/Monaco: {
-    Generic: Oras sa Gitnang Europe,
-    Standard: Standard na Oras sa Gitnang Europe,
-    Daylight: Oras sa Tag-init ng Gitnang Europe
-  },
-  Europe/Malta: {
-    Generic: Oras sa Gitnang Europe,
-    Standard: Standard na Oras sa Gitnang Europe,
-    Daylight: Oras sa Tag-init ng Gitnang Europe
-  },
-  Europe/Amsterdam: {
-    Generic: Oras sa Gitnang Europe,
-    Standard: Standard na Oras sa Gitnang Europe,
-    Daylight: Oras sa Tag-init ng Gitnang Europe
-  },
-  Europe/Oslo: {
-    Generic: Oras sa Gitnang Europe,
-    Standard: Standard na Oras sa Gitnang Europe,
-    Daylight: Oras sa Tag-init ng Gitnang Europe
-  },
-  Europe/Stockholm: {
-    Generic: Oras sa Gitnang Europe,
-    Standard: Standard na Oras sa Gitnang Europe,
-    Daylight: Oras sa Tag-init ng Gitnang Europe
+  Antarctica/Vostok: {
+    Generic: Oras sa Vostok,
+    Standard: Oras sa Vostok,
+    Daylight: Oras sa Vostok
   },
   Arctic/Longyearbyen: {
     Generic: Oras sa Gitnang Europe,
     Standard: Standard na Oras sa Gitnang Europe,
     Daylight: Oras sa Tag-init ng Gitnang Europe
   },
-  Europe/San_Marino: {
-    Generic: Oras sa Gitnang Europe,
-    Standard: Standard na Oras sa Gitnang Europe,
-    Daylight: Oras sa Tag-init ng Gitnang Europe
+  Asia/Aden: {
+    Generic: Oras sa Arabia,
+    Standard: Standard na Oras sa Arabia,
+    Daylight: Daylight Time sa Arabia
   },
-  Europe/Vatican: {
-    Generic: Oras sa Gitnang Europe,
-    Standard: Standard na Oras sa Gitnang Europe,
-    Daylight: Oras sa Tag-init ng Gitnang Europe
+  Asia/Almaty: {
+    Generic: Oras sa Silangang Kazakhstan,
+    Standard: Oras sa Silangang Kazakhstan,
+    Daylight: Oras sa Silangang Kazakhstan
   },
-  Asia/Hovd: {
-    Generic: Oras sa Hovd,
-    Standard: Standard na Oras sa Hovd,
-    Daylight: Oras sa Tag-init ng Hovd
+  Asia/Amman: {
+    Generic: Oras sa Silangang Europe,
+    Standard: Standard na Oras sa Silangang Europe,
+    Daylight: Oras sa Tag-init ng Silangang Europe
   },
-  Asia/Tashkent: {
-    Generic: Oras sa Uzbekistan,
-    Standard: Standard na Oras sa Uzbekistan,
-    Daylight: Oras sa Tag-init ng Uzbekistan
-  },
-  Antarctica/Mawson: {
-    Generic: Oras sa Mawson,
-    Standard: Oras sa Mawson,
-    Daylight: Oras sa Mawson
-  },
-  Asia/Oral: {
-    Generic: Oras sa Kanlurang Kazakhstan,
-    Standard: Oras sa Kanlurang Kazakhstan,
-    Daylight: Oras sa Kanlurang Kazakhstan
+  Asia/Anadyr: {
+    Generic: Oras sa Anadyr,
+    Standard: Standard na Oras sa Anadyr,
+    Daylight: Daylight Time ng Anadyr
   },
   Asia/Aqtau: {
     Generic: Oras sa Kanlurang Kazakhstan,
@@ -2199,415 +1199,75 @@
     Standard: Oras sa Kanlurang Kazakhstan,
     Daylight: Oras sa Kanlurang Kazakhstan
   },
-  Asia/Atyrau: {
-    Generic: Oras sa Kanlurang Kazakhstan,
-    Standard: Oras sa Kanlurang Kazakhstan,
-    Daylight: Oras sa Kanlurang Kazakhstan
-  },
-  Indian/Maldives: {
-    Generic: Oras sa Maldives,
-    Standard: Oras sa Maldives,
-    Daylight: Oras sa Maldives
-  },
-  Indian/Kerguelen: {
-    Generic: Oras sa Katimugang France at Antartiko,
-    Standard: Oras sa Katimugang France at Antartiko,
-    Daylight: Oras sa Katimugang France at Antartiko
-  },
-  Asia/Dushanbe: {
-    Generic: Oras sa Tajikistan,
-    Standard: Oras sa Tajikistan,
-    Daylight: Oras sa Tajikistan
-  },
   Asia/Ashgabat: {
     Generic: Oras sa Turkmenistan,
     Standard: Standard na Oras sa Turkmenistan,
     Daylight: Oras sa Tag-init ng Turkmenistan
-  },
-  Asia/Samarkand: {
-    Generic: Oras sa Uzbekistan,
-    Standard: Standard na Oras sa Uzbekistan,
-    Daylight: Oras sa Tag-init ng Uzbekistan
-  },
-  Etc/GMT-5: {
-    Generic: Coordinated Universal Time +5,
-    Standard: Coordinated Universal Time +5,
-    Daylight: Coordinated Universal Time +5
-  },
-  Asia/Hebron: {
-    Generic: Oras sa Silangang Europe,
-    Standard: Standard na Oras sa Silangang Europe,
-    Daylight: Oras sa Tag-init ng Silangang Europe
-  },
-  Asia/Gaza: {
-    Generic: Oras sa Silangang Europe,
-    Standard: Standard na Oras sa Silangang Europe,
-    Daylight: Oras sa Tag-init ng Silangang Europe
-  },
-  Pacific/Port_Moresby: {
-    Generic: Oras sa Papua New Guinea,
-    Standard: Oras sa Papua New Guinea,
-    Daylight: Oras sa Papua New Guinea
-  },
-  Antarctica/DumontDUrville: {
-    Generic: Oras sa Dumont-d’Urville,
-    Standard: Oras sa Dumont-d’Urville,
-    Daylight: Oras sa Dumont-d’Urville
-  },
-  Pacific/Truk: {
-    Generic: Oras sa Chuuk,
-    Standard: Oras sa Chuuk,
-    Daylight: Oras sa Chuuk
-  },
-  Pacific/Guam: {
-    Generic: Standard na Oras sa Chamorro,
-    Standard: Standard na Oras sa Chamorro,
-    Daylight: Standard na Oras sa Chamorro
-  },
-  Pacific/Saipan: {
-    Generic: Standard na Oras sa Chamorro,
-    Standard: Standard na Oras sa Chamorro,
-    Daylight: Standard na Oras sa Chamorro
-  },
-  Etc/GMT-10: {
-    Generic: Coordinated Universal Time +10,
-    Standard: Coordinated Universal Time +10,
-    Daylight: Coordinated Universal Time +10
-  },
-  Asia/Yakutsk: {
-    Generic: Oras sa Yakutsk,
-    Standard: Standard na Oras sa Yakutsk,
-    Daylight: Daylight Time ng Yakutsk
-  },
-  Asia/Khandyga: {
-    Generic: Oras sa Khandyga,
-    Standard: Standard na Oras sa Khandyga,
-    Daylight: Daylight Time ng Khandyga
-  },
-  America/Whitehorse: {
-    Generic: Oras sa Yukon,
-    Standard: Oras sa Yukon,
-    Daylight: Oras sa Yukon
-  },
-  America/Dawson: {
-    Generic: Oras sa Yukon,
-    Standard: Oras sa Yukon,
-    Daylight: Oras sa Yukon
-  },
-  Iceland: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
-  },
-  Africa/Timbuktu: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
-  },
-  Egypt: {
-    Generic: Oras sa Silangang Europe,
-    Standard: Standard na Oras sa Silangang Europe,
-    Daylight: Oras sa Tag-init ng Silangang Europe
-  },
-  Africa/Asmara: {
-    Generic: Oras sa Silangang Africa,
-    Standard: Oras sa Silangang Africa,
-    Daylight: Oras sa Silangang Africa
-  },
-  Libya: {
-    Generic: Oras sa Silangang Europe,
-    Standard: Standard na Oras sa Silangang Europe,
-    Daylight: Oras sa Tag-init ng Silangang Europe
-  },
-  America/Atka: {
-    Generic: Oras sa Hawaii-Aleutian,
-    Standard: Standard na Oras sa Hawaii-Aleutian,
-    Daylight: Oras sa Tag-init ng Hawaii-Aleutian
-  },
-  US/Aleutian: {
-    Generic: Oras sa Hawaii-Aleutian,
-    Standard: Standard na Oras sa Hawaii-Aleutian,
-    Daylight: Oras sa Tag-init ng Hawaii-Aleutian
-  },
-  US/Alaska: {
-    Generic: Oras sa Alaska,
-    Standard: Standard na Oras sa Alaska,
-    Daylight: Daylight Time sa Alaska
-  },
-  America/Argentina/Buenos_Aires: {
-    Generic: Oras sa Argentina,
-    Standard: Standard na Oras sa Argentina,
-    Daylight: Oras sa Tag-init ng Argentina
-  },
-  America/Argentina/Catamarca: {
-    Generic: Oras sa Argentina,
-    Standard: Standard na Oras sa Argentina,
-    Daylight: Oras sa Tag-init ng Argentina
-  },
-  America/Argentina/ComodRivadavia: {
-    Generic: Oras sa Argentina,
-    Standard: Standard na Oras sa Argentina,
-    Daylight: Oras sa Tag-init ng Argentina
-  },
-  America/Argentina/Cordoba: {
-    Generic: Oras sa Argentina,
-    Standard: Standard na Oras sa Argentina,
-    Daylight: Oras sa Tag-init ng Argentina
-  },
-  America/Rosario: {
-    Generic: Oras sa Argentina,
-    Standard: Standard na Oras sa Argentina,
-    Daylight: Oras sa Tag-init ng Argentina
-  },
-  America/Argentina/Jujuy: {
-    Generic: Oras sa Argentina,
-    Standard: Standard na Oras sa Argentina,
-    Daylight: Oras sa Tag-init ng Argentina
-  },
-  America/Argentina/Mendoza: {
-    Generic: Oras sa Argentina,
-    Standard: Standard na Oras sa Argentina,
-    Daylight: Oras sa Tag-init ng Argentina
-  },
-  US/Central: {
-    Generic: Sentral na Oras sa North America,
-    Standard: Sentral na Standard na Oras sa North America,
-    Daylight: Sentral na Daylight na Oras sa North America
-  },
-  America/Shiprock: {
-    Generic: Oras sa Bundok sa Hilagang Amerika,
-    Standard: Standard na Oras sa Bundok sa Hilagang Amerika,
-    Daylight: Daylight na Oras sa Bundok sa Hilagang Amerika
-  },
-  Navajo: {
-    Generic: Oras sa Bundok sa Hilagang Amerika,
-    Standard: Standard na Oras sa Bundok sa Hilagang Amerika,
-    Daylight: Daylight na Oras sa Bundok sa Hilagang Amerika
-  },
-  US/Mountain: {
-    Generic: Oras sa Bundok sa Hilagang Amerika,
-    Standard: Standard na Oras sa Bundok sa Hilagang Amerika,
-    Daylight: Daylight na Oras sa Bundok sa Hilagang Amerika
-  },
-  US/Michigan: {
-    Generic: Oras sa Silangan ng Hilagang Amerika,
-    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
-    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
-  },
-  Canada/Mountain: {
-    Generic: Oras sa Bundok sa Hilagang Amerika,
-    Standard: Standard na Oras sa Bundok sa Hilagang Amerika,
-    Daylight: Daylight na Oras sa Bundok sa Hilagang Amerika
-  },
-  Canada/Atlantic: {
-    Generic: Oras sa Atlantiko,
-    Standard: Standard na Oras sa Atlantiko,
-    Daylight: Daylight na Oras sa Atlantiko
-  },
-  Cuba: {
-    Generic: Oras sa Cuba,
-    Standard: Standard na Oras sa Cuba,
-    Daylight: Daylight na Oras sa Cuba
-  },
-  America/Indiana/Indianapolis: {
-    Generic: Oras sa Silangan ng Hilagang Amerika,
-    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
-    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
-  },
-  US/East-Indiana: {
-    Generic: Oras sa Silangan ng Hilagang Amerika,
-    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
-    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
-  },
-  America/Knox_IN: {
-    Generic: Sentral na Oras sa North America,
-    Standard: Sentral na Standard na Oras sa North America,
-    Daylight: Sentral na Daylight na Oras sa North America
-  },
-  US/Indiana-Starke: {
-    Generic: Sentral na Oras sa North America,
-    Standard: Sentral na Standard na Oras sa North America,
-    Daylight: Sentral na Daylight na Oras sa North America
-  },
-  Jamaica: {
-    Generic: Oras sa Silangan ng Hilagang Amerika,
-    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
-    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
-  },
-  America/Kentucky/Louisville: {
-    Generic: Oras sa Silangan ng Hilagang Amerika,
-    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
-    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
-  },
-  US/Pacific: {
-    Generic: Oras sa Pasipiko sa HIlagang Amerika,
-    Standard: Standard na Oras sa Pasipiko sa Hilagang Amerika,
-    Daylight: Daylight na Oras sa Pasipiko sa Hilagang Amerika
-  },
-  Brazil/West: {
-    Generic: Oras sa Amazon,
-    Standard: Standard na Oras sa Amazon,
-    Daylight: Oras sa Tag-init ng Amazon
-  },
-  Mexico/BajaSur: {
-    Generic: Oras sa Pasipiko ng Mexico,
-    Standard: Standard na Oras sa Pasipiko ng Mexico,
-    Daylight: Daylight na Oras sa Pasipiko ng Mexico
-  },
-  Mexico/General: {
-    Generic: Sentral na Oras sa North America,
-    Standard: Sentral na Standard na Oras sa North America,
-    Daylight: Sentral na Daylight na Oras sa North America
-  },
-  US/Eastern: {
-    Generic: Oras sa Silangan ng Hilagang Amerika,
-    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
-    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
-  },
-  Brazil/DeNoronha: {
-    Generic: Oras sa Fernando de Noronha,
-    Standard: Standard na Oras sa Fernando de Noronha,
-    Daylight: Oras sa Tag-init ng Fernando de Noronha
-  },
-  America/Nuuk: {
-    Generic: Oras sa Kanlurang Greenland,
-    Standard: Standard na Oras sa Kanlurang Greenland,
-    Daylight: Oras sa Tag-init ng Kanlurang Greenland
-  },
-  America/Atikokan: {
-    Generic: Oras sa Silangan ng Hilagang Amerika,
-    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
-    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
-  },
-  US/Arizona: {
-    Generic: Oras sa Bundok sa Hilagang Amerika,
-    Standard: Standard na Oras sa Bundok sa Hilagang Amerika,
-    Daylight: Daylight na Oras sa Bundok sa Hilagang Amerika
-  },
-  America/Virgin: {
-    Generic: Oras sa Atlantiko,
-    Standard: Standard na Oras sa Atlantiko,
-    Daylight: Daylight na Oras sa Atlantiko
-  },
-  Canada/Saskatchewan: {
-    Generic: Sentral na Oras sa North America,
-    Standard: Sentral na Standard na Oras sa North America,
-    Daylight: Sentral na Daylight na Oras sa North America
-  },
-  America/Porto_Acre: {
-    Generic: Oras sa Brazil,
-    Standard: Standard na Oras sa Brazil,
-    Daylight: Daylight Time ng Brazil
-  },
-  Brazil/Acre: {
-    Generic: Oras sa Brazil,
-    Standard: Standard na Oras sa Brazil,
-    Daylight: Daylight Time ng Brazil
-  },
-  Chile/Continental: {
-    Generic: Oras sa Chile,
-    Standard: Standard na Oras sa Chile,
-    Daylight: Oras sa Tag-init ng Chile
-  },
-  Brazil/East: {
-    Generic: Oras sa Brasilia,
-    Standard: Standard na Oras sa Brasilia,
-    Daylight: Oras sa Tag-init ng Brasilia
-  },
-  Canada/Newfoundland: {
-    Generic: Oras sa Newfoundland,
-    Standard: Standard na Oras sa Newfoundland,
-    Daylight: Daylight na Oras sa Newfoundland
-  },
-  America/Ensenada: {
-    Generic: Oras sa Pasipiko sa HIlagang Amerika,
-    Standard: Standard na Oras sa Pasipiko sa Hilagang Amerika,
-    Daylight: Daylight na Oras sa Pasipiko sa Hilagang Amerika
-  },
-  Mexico/BajaNorte: {
-    Generic: Oras sa Pasipiko sa HIlagang Amerika,
-    Standard: Standard na Oras sa Pasipiko sa Hilagang Amerika,
-    Daylight: Daylight na Oras sa Pasipiko sa Hilagang Amerika
-  },
-  Canada/Eastern: {
-    Generic: Oras sa Silangan ng Hilagang Amerika,
-    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
-    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
-  },
-  Canada/Pacific: {
-    Generic: Oras sa Pasipiko sa HIlagang Amerika,
-    Standard: Standard na Oras sa Pasipiko sa Hilagang Amerika,
-    Daylight: Daylight na Oras sa Pasipiko sa Hilagang Amerika
-  },
-  Canada/Yukon: {
-    Generic: Oras sa Yukon,
-    Standard: Oras sa Yukon,
-    Daylight: Oras sa Yukon
-  },
-  Canada/Central: {
-    Generic: Sentral na Oras sa North America,
-    Standard: Sentral na Standard na Oras sa North America,
-    Daylight: Sentral na Daylight na Oras sa North America
   },
   Asia/Ashkhabad: {
     Generic: Oras sa Turkmenistan,
     Standard: Standard na Oras sa Turkmenistan,
     Daylight: Oras sa Tag-init ng Turkmenistan
   },
-  Asia/Dacca: {
-    Generic: Oras sa Bangladesh,
-    Standard: Standard na Oras sa Bangladesh,
-    Daylight: Oras sa Tag-init ng Bangladesh
+  Asia/Atyrau: {
+    Generic: Oras sa Kanlurang Kazakhstan,
+    Standard: Oras sa Kanlurang Kazakhstan,
+    Daylight: Oras sa Kanlurang Kazakhstan
   },
-  Asia/Ho_Chi_Minh: {
+  Asia/Baghdad: {
+    Generic: Oras sa Arabia,
+    Standard: Standard na Oras sa Arabia,
+    Daylight: Daylight Time sa Arabia
+  },
+  Asia/Bahrain: {
+    Generic: Oras sa Arabia,
+    Standard: Standard na Oras sa Arabia,
+    Daylight: Daylight Time sa Arabia
+  },
+  Asia/Baku: {
+    Generic: Oras sa Azerbaijan,
+    Standard: Standard na Oras sa Azerbaijan,
+    Daylight: Oras sa Tag-init ng Azerbaijan
+  },
+  Asia/Bangkok: {
     Generic: Oras sa Indochina,
     Standard: Oras sa Indochina,
     Daylight: Oras sa Indochina
   },
-  Hongkong: {
-    Generic: Oras sa Hong Kong,
-    Standard: Standard na Oras sa Hong Kong,
-    Daylight: Oras sa Tag-init ng Hong Kong
+  Asia/Barnaul: {
+    Generic: Oras sa Barnaul,
+    Standard: Standard na Oras sa Barnaul,
+    Daylight: Daylight Time ng Barnaul
   },
-  Asia/Tel_Aviv: {
-    Generic: Oras sa Israel,
-    Standard: Standard na Oras sa Israel,
-    Daylight: Daylight Time sa Israel
-  },
-  Israel: {
-    Generic: Oras sa Israel,
-    Standard: Standard na Oras sa Israel,
-    Daylight: Daylight Time sa Israel
-  },
-  Asia/Kathmandu: {
-    Generic: Oras sa Nepal,
-    Standard: Oras sa Nepal,
-    Daylight: Oras sa Nepal
-  },
-  Asia/Kolkata: {
-    Generic: Standard na Oras sa India,
-    Standard: Standard na Oras sa India,
-    Daylight: Standard na Oras sa India
-  },
-  Asia/Macao: {
-    Generic: Oras sa China,
-    Standard: Standard na Oras sa China,
-    Daylight: Daylight Time sa China
-  },
-  Asia/Ujung_Pandang: {
-    Generic: Oras sa Gitnang Indonesia,
-    Standard: Oras sa Gitnang Indonesia,
-    Daylight: Oras sa Gitnang Indonesia
-  },
-  Europe/Nicosia: {
+  Asia/Beirut: {
     Generic: Oras sa Silangang Europe,
     Standard: Standard na Oras sa Silangang Europe,
     Daylight: Oras sa Tag-init ng Silangang Europe
   },
-  ROK: {
-    Generic: Oras sa Korea,
-    Standard: Standard na Oras sa Korea,
-    Daylight: Daylight Time sa Korea
+  Asia/Bishkek: {
+    Generic: Oras sa Kyrgystan,
+    Standard: Oras sa Kyrgystan,
+    Daylight: Oras sa Kyrgystan
+  },
+  Asia/Brunei: {
+    Generic: Oras sa Brunei Darussalam,
+    Standard: Oras sa Brunei Darussalam,
+    Daylight: Oras sa Brunei Darussalam
+  },
+  Asia/Calcutta: {
+    Generic: Standard na Oras sa India,
+    Standard: Standard na Oras sa India,
+    Daylight: Standard na Oras sa India
+  },
+  Asia/Chita: {
+    Generic: Oras sa Chita,
+    Standard: Standard na Oras sa Chita,
+    Daylight: Daylight Time ng Chita
+  },
+  Asia/Choibalsan: {
+    Generic: Oras sa Ulan Bator,
+    Standard: Standard na Oras sa Ulan Bator,
+    Daylight: Oras sa Tag-init ng Ulan Bator
   },
   Asia/Chongqing: {
     Generic: Oras sa China,
@@ -2619,57 +1279,412 @@
     Standard: Standard na Oras sa China,
     Daylight: Daylight Time sa China
   },
+  Asia/Colombo: {
+    Generic: Standard na Oras sa India,
+    Standard: Standard na Oras sa India,
+    Daylight: Standard na Oras sa India
+  },
+  Asia/Dacca: {
+    Generic: Oras sa Bangladesh,
+    Standard: Standard na Oras sa Bangladesh,
+    Daylight: Oras sa Tag-init ng Bangladesh
+  },
+  Asia/Damascus: {
+    Generic: Oras sa Silangang Europe,
+    Standard: Standard na Oras sa Silangang Europe,
+    Daylight: Oras sa Tag-init ng Silangang Europe
+  },
+  Asia/Dhaka: {
+    Generic: Oras sa Bangladesh,
+    Standard: Standard na Oras sa Bangladesh,
+    Daylight: Oras sa Tag-init ng Bangladesh
+  },
+  Asia/Dili: {
+    Generic: Oras sa East Timor,
+    Standard: Oras sa East Timor,
+    Daylight: Oras sa East Timor
+  },
+  Asia/Dubai: {
+    Generic: Oras sa Gulf,
+    Standard: Oras sa Gulf,
+    Daylight: Oras sa Gulf
+  },
+  Asia/Dushanbe: {
+    Generic: Oras sa Tajikistan,
+    Standard: Oras sa Tajikistan,
+    Daylight: Oras sa Tajikistan
+  },
+  Asia/Famagusta: {
+    Generic: Oras sa Silangang Europe,
+    Standard: Standard na Oras sa Silangang Europe,
+    Daylight: Oras sa Tag-init ng Silangang Europe
+  },
+  Asia/Gaza: {
+    Generic: Oras sa Silangang Europe,
+    Standard: Standard na Oras sa Silangang Europe,
+    Daylight: Oras sa Tag-init ng Silangang Europe
+  },
   Asia/Harbin: {
     Generic: Oras sa China,
     Standard: Standard na Oras sa China,
     Daylight: Daylight Time sa China
   },
-  PRC: {
-    Generic: Oras sa China,
-    Standard: Standard na Oras sa China,
-    Daylight: Daylight Time sa China
+  Asia/Hebron: {
+    Generic: Oras sa Silangang Europe,
+    Standard: Standard na Oras sa Silangang Europe,
+    Daylight: Oras sa Tag-init ng Silangang Europe
   },
-  Singapore: {
-    Generic: Standard na Oras sa Singapore,
-    Standard: Standard na Oras sa Singapore,
-    Daylight: Standard na Oras sa Singapore
+  Asia/Ho_Chi_Minh: {
+    Generic: Oras sa Indochina,
+    Standard: Oras sa Indochina,
+    Daylight: Oras sa Indochina
   },
-  ROC: {
-    Generic: Oras sa Taipei,
-    Standard: Standard na Oras sa Taipei,
-    Daylight: Daylight Time sa Taipei
+  Asia/Hong_Kong: {
+    Generic: Oras sa Hong Kong,
+    Standard: Standard na Oras sa Hong Kong,
+    Daylight: Oras sa Tag-init ng Hong Kong
   },
-  Iran: {
-    Generic: Oras sa Iran,
-    Standard: Standard na Oras sa Iran,
-    Daylight: Daylight Time sa Iran
+  Asia/Hovd: {
+    Generic: Oras sa Hovd,
+    Standard: Standard na Oras sa Hovd,
+    Daylight: Oras sa Tag-init ng Hovd
   },
-  Asia/Thimbu: {
-    Generic: Oras sa Bhutan,
-    Standard: Oras sa Bhutan,
-    Daylight: Oras sa Bhutan
+  Asia/Irkutsk: {
+    Generic: Oras sa Irkutsk,
+    Standard: Standard na Oras sa Irkutsk,
+    Daylight: Daylight Time ng Irkutsk
   },
-  Japan: {
-    Generic: Oras sa Japan,
-    Standard: Standard na Oras sa Japan,
-    Daylight: Daylight Time sa Japan
+  Asia/Istanbul: {
+    Generic: Oras sa Turkey,
+    Standard: Standard na Oras sa Turkey,
+    Daylight: Daylight Time ng Turkey
   },
-  Asia/Ulan_Bator: {
-    Generic: Oras sa Ulan Bator,
-    Standard: Standard na Oras sa Ulan Bator,
-    Daylight: Oras sa Tag-init ng Ulan Bator
+  Asia/Jakarta: {
+    Generic: Oras sa Kanlurang Indonesia,
+    Standard: Oras sa Kanlurang Indonesia,
+    Daylight: Oras sa Kanlurang Indonesia
+  },
+  Asia/Jayapura: {
+    Generic: Oras sa Silangang Indonesia,
+    Standard: Oras sa Silangang Indonesia,
+    Daylight: Oras sa Silangang Indonesia
+  },
+  Asia/Jerusalem: {
+    Generic: Oras sa Israel,
+    Standard: Standard na Oras sa Israel,
+    Daylight: Daylight Time sa Israel
+  },
+  Asia/Kabul: {
+    Generic: Oras sa Afghanistan,
+    Standard: Oras sa Afghanistan,
+    Daylight: Oras sa Afghanistan
+  },
+  Asia/Kamchatka: {
+    Generic: Oras sa Kamchatka,
+    Standard: Standard na Oras sa Kamchatka,
+    Daylight: Daylight Time ng Kamchatka
+  },
+  Asia/Karachi: {
+    Generic: Oras sa Pakistan,
+    Standard: Standard na Oras sa Pakistan,
+    Daylight: Oras sa Tag-init ng Pakistan
   },
   Asia/Kashgar: {
     Generic: Oras sa China,
     Standard: Standard na Oras sa China,
     Daylight: Daylight Time ng China
   },
+  Asia/Kathmandu: {
+    Generic: Oras sa Nepal,
+    Standard: Oras sa Nepal,
+    Daylight: Oras sa Nepal
+  },
+  Asia/Katmandu: {
+    Generic: Oras sa Nepal,
+    Standard: Oras sa Nepal,
+    Daylight: Oras sa Nepal
+  },
+  Asia/Khandyga: {
+    Generic: Oras sa Khandyga,
+    Standard: Standard na Oras sa Khandyga,
+    Daylight: Daylight Time ng Khandyga
+  },
+  Asia/Kolkata: {
+    Generic: Standard na Oras sa India,
+    Standard: Standard na Oras sa India,
+    Daylight: Standard na Oras sa India
+  },
+  Asia/Krasnoyarsk: {
+    Generic: Oras sa Krasnoyarsk,
+    Standard: Standard na Oras sa Krasnoyarsk,
+    Daylight: Daylight Time ng Krasnoyarsk
+  },
+  Asia/Kuala_Lumpur: {
+    Generic: Oras sa Malaysia,
+    Standard: Oras sa Malaysia,
+    Daylight: Oras sa Malaysia
+  },
+  Asia/Kuching: {
+    Generic: Oras sa Malaysia,
+    Standard: Oras sa Malaysia,
+    Daylight: Oras sa Malaysia
+  },
+  Asia/Kuwait: {
+    Generic: Oras sa Arabia,
+    Standard: Standard na Oras sa Arabia,
+    Daylight: Daylight Time sa Arabia
+  },
+  Asia/Macao: {
+    Generic: Oras sa China,
+    Standard: Standard na Oras sa China,
+    Daylight: Daylight Time sa China
+  },
+  Asia/Macau: {
+    Generic: Oras sa China,
+    Standard: Standard na Oras sa China,
+    Daylight: Daylight Time sa China
+  },
+  Asia/Magadan: {
+    Generic: Oras sa Magadan,
+    Standard: Standard na Oras sa Magadan,
+    Daylight: Daylight Time ng Magadan
+  },
+  Asia/Makassar: {
+    Generic: Oras sa Gitnang Indonesia,
+    Standard: Oras sa Gitnang Indonesia,
+    Daylight: Oras sa Gitnang Indonesia
+  },
+  Asia/Manila: {
+    Generic: Oras sa Pilipinas,
+    Standard: Standard na Oras sa Pilipinas,
+    Daylight: Oras sa Tag-init ng Pilipinas
+  },
+  Asia/Muscat: {
+    Generic: Oras sa Gulf,
+    Standard: Oras sa Gulf,
+    Daylight: Oras sa Gulf
+  },
+  Asia/Nicosia: {
+    Generic: Oras sa Silangang Europe,
+    Standard: Standard na Oras sa Silangang Europe,
+    Daylight: Oras sa Tag-init ng Silangang Europe
+  },
+  Asia/Novokuznetsk: {
+    Generic: Oras sa Novokuznetsk,
+    Standard: Standard na Oras sa Novokuznetsk,
+    Daylight: Daylight Time ng Novokuznetsk
+  },
+  Asia/Novosibirsk: {
+    Generic: Oras sa Novosibirsk,
+    Standard: Standard na Oras sa Novosibirsk,
+    Daylight: Daylight Time ng Novosibirsk
+  },
+  Asia/Omsk: {
+    Generic: Oras sa Omsk,
+    Standard: Standard na Oras sa Omsk,
+    Daylight: Daylight Time ng Omsk
+  },
+  Asia/Oral: {
+    Generic: Oras sa Kanlurang Kazakhstan,
+    Standard: Oras sa Kanlurang Kazakhstan,
+    Daylight: Oras sa Kanlurang Kazakhstan
+  },
+  Asia/Phnom_Penh: {
+    Generic: Oras sa Indochina,
+    Standard: Oras sa Indochina,
+    Daylight: Oras sa Indochina
+  },
+  Asia/Pontianak: {
+    Generic: Oras sa Kanlurang Indonesia,
+    Standard: Oras sa Kanlurang Indonesia,
+    Daylight: Oras sa Kanlurang Indonesia
+  },
+  Asia/Pyongyang: {
+    Generic: Oras sa Korea,
+    Standard: Standard na Oras sa Korea,
+    Daylight: Daylight Time sa Korea
+  },
+  Asia/Qatar: {
+    Generic: Oras sa Arabia,
+    Standard: Standard na Oras sa Arabia,
+    Daylight: Daylight Time sa Arabia
+  },
+  Asia/Qostanay: {
+    Generic: Oras sa Silangang Kazakhstan,
+    Standard: Oras sa Silangang Kazakhstan,
+    Daylight: Oras sa Silangang Kazakhstan
+  },
+  Asia/Qyzylorda: {
+    Generic: Oras sa Kanlurang Kazakhstan,
+    Standard: Oras sa Kanlurang Kazakhstan,
+    Daylight: Oras sa Kanlurang Kazakhstan
+  },
+  Asia/Rangoon: {
+    Generic: Oras sa Myanmar,
+    Standard: Oras sa Myanmar,
+    Daylight: Oras sa Myanmar
+  },
+  Asia/Riyadh: {
+    Generic: Oras sa Arabia,
+    Standard: Standard na Oras sa Arabia,
+    Daylight: Daylight Time sa Arabia
+  },
+  Asia/Saigon: {
+    Generic: Oras sa Indochina,
+    Standard: Oras sa Indochina,
+    Daylight: Oras sa Indochina
+  },
+  Asia/Sakhalin: {
+    Generic: Oras sa Sakhalin,
+    Standard: Standard na Oras sa Sakhalin,
+    Daylight: Daylight Time ng Sakhalin
+  },
+  Asia/Samarkand: {
+    Generic: Oras sa Uzbekistan,
+    Standard: Standard na Oras sa Uzbekistan,
+    Daylight: Oras sa Tag-init ng Uzbekistan
+  },
+  Asia/Seoul: {
+    Generic: Oras sa Korea,
+    Standard: Standard na Oras sa Korea,
+    Daylight: Daylight Time sa Korea
+  },
+  Asia/Shanghai: {
+    Generic: Oras sa China,
+    Standard: Standard na Oras sa China,
+    Daylight: Daylight Time sa China
+  },
+  Asia/Singapore: {
+    Generic: Standard na Oras sa Singapore,
+    Standard: Standard na Oras sa Singapore,
+    Daylight: Standard na Oras sa Singapore
+  },
+  Asia/Srednekolymsk: {
+    Generic: Oras sa Srednekolymsk,
+    Standard: Standard na Oras sa Srednekolymsk,
+    Daylight: Daylight Time ng Srednekolymsk
+  },
+  Asia/Taipei: {
+    Generic: Oras sa Taipei,
+    Standard: Standard na Oras sa Taipei,
+    Daylight: Daylight Time sa Taipei
+  },
+  Asia/Tashkent: {
+    Generic: Oras sa Uzbekistan,
+    Standard: Standard na Oras sa Uzbekistan,
+    Daylight: Oras sa Tag-init ng Uzbekistan
+  },
+  Asia/Tbilisi: {
+    Generic: Oras sa Georgia,
+    Standard: Standard na Oras sa Georgia,
+    Daylight: Oras sa Tag-init ng Georgia
+  },
+  Asia/Tehran: {
+    Generic: Oras sa Iran,
+    Standard: Standard na Oras sa Iran,
+    Daylight: Daylight Time sa Iran
+  },
+  Asia/Tel_Aviv: {
+    Generic: Oras sa Israel,
+    Standard: Standard na Oras sa Israel,
+    Daylight: Daylight Time sa Israel
+  },
+  Asia/Thimbu: {
+    Generic: Oras sa Bhutan,
+    Standard: Oras sa Bhutan,
+    Daylight: Oras sa Bhutan
+  },
+  Asia/Thimphu: {
+    Generic: Oras sa Bhutan,
+    Standard: Oras sa Bhutan,
+    Daylight: Oras sa Bhutan
+  },
+  Asia/Tokyo: {
+    Generic: Oras sa Japan,
+    Standard: Standard na Oras sa Japan,
+    Daylight: Daylight Time sa Japan
+  },
+  Asia/Tomsk: {
+    Generic: Oras sa Tomsk,
+    Standard: Standard na Oras sa Tomsk,
+    Daylight: Daylight Time ng Tomsk
+  },
+  Asia/Ujung_Pandang: {
+    Generic: Oras sa Gitnang Indonesia,
+    Standard: Oras sa Gitnang Indonesia,
+    Daylight: Oras sa Gitnang Indonesia
+  },
+  Asia/Ulaanbaatar: {
+    Generic: Oras sa Ulan Bator,
+    Standard: Standard na Oras sa Ulan Bator,
+    Daylight: Oras sa Tag-init ng Ulan Bator
+  },
+  Asia/Ulan_Bator: {
+    Generic: Oras sa Ulan Bator,
+    Standard: Standard na Oras sa Ulan Bator,
+    Daylight: Oras sa Tag-init ng Ulan Bator
+  },
+  Asia/Urumqi: {
+    Generic: Oras sa China,
+    Standard: Standard na Oras sa China,
+    Daylight: Daylight Time ng China
+  },
+  Asia/Ust-Nera: {
+    Generic: Oras sa Ust-Nera,
+    Standard: Standard na Oras sa Ust-Nera,
+    Daylight: Daylight Time ng Ust-Nera
+  },
+  Asia/Vientiane: {
+    Generic: Oras sa Indochina,
+    Standard: Oras sa Indochina,
+    Daylight: Oras sa Indochina
+  },
+  Asia/Vladivostok: {
+    Generic: Oras sa Vladivostok,
+    Standard: Standard na Oras sa Vladivostok,
+    Daylight: Daylight Time ng Vladivostok
+  },
+  Asia/Yakutsk: {
+    Generic: Oras sa Yakutsk,
+    Standard: Standard na Oras sa Yakutsk,
+    Daylight: Daylight Time ng Yakutsk
+  },
   Asia/Yangon: {
     Generic: Oras sa Myanmar,
     Standard: Oras sa Myanmar,
     Daylight: Oras sa Myanmar
   },
-  WET: {
+  Asia/Yekaterinburg: {
+    Generic: Oras sa Yekaterinburg,
+    Standard: Standard na Oras sa Yekaterinburg,
+    Daylight: Daylight Time ng Yekaterinburg
+  },
+  Asia/Yerevan: {
+    Generic: Oras sa Armenia,
+    Standard: Standard na Oras sa Armenia,
+    Daylight: Oras sa Tag-init ng Armenia
+  },
+  Atlantic/Azores: {
+    Generic: Oras sa Azores,
+    Standard: Standard na Oras sa Azores,
+    Daylight: Oras sa Tag-init ng Azores
+  },
+  Atlantic/Bermuda: {
+    Generic: Oras sa Atlantiko,
+    Standard: Standard na Oras sa Atlantiko,
+    Daylight: Daylight na Oras sa Atlantiko
+  },
+  Atlantic/Canary: {
+    Generic: Oras sa Kanlurang Europe,
+    Standard: Standard na Oras sa Kanlurang Europe,
+    Daylight: Oras sa Tag-init ng Kanlurang Europe
+  },
+  Atlantic/Cape_Verde: {
+    Generic: Oras sa Cape Verde,
+    Standard: Standard na Oras sa Cape Verde,
+    Daylight: Oras sa Tag-init ng Cape Verde
+  },
+  Atlantic/Faeroe: {
     Generic: Oras sa Kanlurang Europe,
     Standard: Standard na Oras sa Kanlurang Europe,
     Daylight: Oras sa Tag-init ng Kanlurang Europe
@@ -2679,27 +1694,77 @@
     Standard: Standard na Oras sa Kanlurang Europe,
     Daylight: Oras sa Tag-init ng Kanlurang Europe
   },
-  Australia/South: {
-    Generic: Oras sa Gitnang Australya,
-    Standard: Standard na Oras sa Gitnang Australya,
-    Daylight: Daylight Time sa Gitnang Australya
+  Atlantic/Jan_Mayen: {
+    Generic: Oras sa Gitnang Europe,
+    Standard: Standard na Oras sa Gitnang Europe,
+    Daylight: Oras sa Tag-init ng Gitnang Europe
   },
-  Australia/Queensland: {
+  Atlantic/Madeira: {
+    Generic: Oras sa Kanlurang Europe,
+    Standard: Standard na Oras sa Kanlurang Europe,
+    Daylight: Oras sa Tag-init ng Kanlurang Europe
+  },
+  Atlantic/Reykjavik: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
+  },
+  Atlantic/South_Georgia: {
+    Generic: Oras sa Timog Georgia,
+    Standard: Oras sa Timog Georgia,
+    Daylight: Oras sa Timog Georgia
+  },
+  Atlantic/St_Helena: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
+  },
+  Atlantic/Stanley: {
+    Generic: Oras sa Falkland Islands,
+    Standard: Standard na Oras sa Falkland Islands,
+    Daylight: Oras sa Tag-init ng Falkland Islands
+  },
+  Australia/ACT: {
     Generic: Oras sa Silangang Australya,
     Standard: Standard na Oras sa Silangang Australya,
     Daylight: Daylight Time sa Silangang Australya
   },
-  Australia/Yancowinna: {
+  Australia/Adelaide: {
     Generic: Oras sa Gitnang Australya,
     Standard: Standard na Oras sa Gitnang Australya,
     Daylight: Daylight Time sa Gitnang Australya
   },
-  Australia/North: {
+  Australia/Brisbane: {
+    Generic: Oras sa Silangang Australya,
+    Standard: Standard na Oras sa Silangang Australya,
+    Daylight: Daylight Time sa Silangang Australya
+  },
+  Australia/Broken_Hill: {
     Generic: Oras sa Gitnang Australya,
     Standard: Standard na Oras sa Gitnang Australya,
     Daylight: Daylight Time sa Gitnang Australya
   },
-  Australia/Tasmania: {
+  Australia/Canberra: {
+    Generic: Oras sa Silangang Australya,
+    Standard: Standard na Oras sa Silangang Australya,
+    Daylight: Daylight Time sa Silangang Australya
+  },
+  Australia/Currie: {
+    Generic: Oras sa Silangang Australya,
+    Standard: Standard na Oras sa Silangang Australya,
+    Daylight: Daylight Time sa Silangang Australya
+  },
+  Australia/Darwin: {
+    Generic: Oras sa Gitnang Australya,
+    Standard: Standard na Oras sa Gitnang Australya,
+    Daylight: Daylight Time sa Gitnang Australya
+  },
+  Australia/Eucla: {
+    Generic: Oras ng Gitnang Kanluran ng Australya,
+    Standard: Standard Time ng Gitnang Kanluran ng Australya,
+    Daylight: Daylight Time sa Gitnang Kanlurang Australya
+  },
+  Australia/Hobart: {
     Generic: Oras sa Silangang Australya,
     Standard: Standard na Oras sa Silangang Australya,
     Daylight: Daylight Time sa Silangang Australya
@@ -2708,6 +1773,56 @@
     Generic: Oras sa Lord Howe,
     Standard: Standard na Oras sa Lord Howe,
     Daylight: Daylight Time sa Lorde Howe
+  },
+  Australia/Lindeman: {
+    Generic: Oras sa Silangang Australya,
+    Standard: Standard na Oras sa Silangang Australya,
+    Daylight: Daylight Time sa Silangang Australya
+  },
+  Australia/Lord_Howe: {
+    Generic: Oras sa Lord Howe,
+    Standard: Standard na Oras sa Lord Howe,
+    Daylight: Daylight Time sa Lorde Howe
+  },
+  Australia/Melbourne: {
+    Generic: Oras sa Silangang Australya,
+    Standard: Standard na Oras sa Silangang Australya,
+    Daylight: Daylight Time sa Silangang Australya
+  },
+  Australia/NSW: {
+    Generic: Oras sa Silangang Australya,
+    Standard: Standard na Oras sa Silangang Australya,
+    Daylight: Daylight Time sa Silangang Australya
+  },
+  Australia/North: {
+    Generic: Oras sa Gitnang Australya,
+    Standard: Standard na Oras sa Gitnang Australya,
+    Daylight: Daylight Time sa Gitnang Australya
+  },
+  Australia/Perth: {
+    Generic: Oras sa Kanlurang Australya,
+    Standard: Standard na Oras sa Kanlurang Australya,
+    Daylight: Daylight Time sa Kanlurang Australya
+  },
+  Australia/Queensland: {
+    Generic: Oras sa Silangang Australya,
+    Standard: Standard na Oras sa Silangang Australya,
+    Daylight: Daylight Time sa Silangang Australya
+  },
+  Australia/South: {
+    Generic: Oras sa Gitnang Australya,
+    Standard: Standard na Oras sa Gitnang Australya,
+    Daylight: Daylight Time sa Gitnang Australya
+  },
+  Australia/Sydney: {
+    Generic: Oras sa Silangang Australya,
+    Standard: Standard na Oras sa Silangang Australya,
+    Daylight: Daylight Time sa Silangang Australya
+  },
+  Australia/Tasmania: {
+    Generic: Oras sa Silangang Australya,
+    Standard: Standard na Oras sa Silangang Australya,
+    Daylight: Daylight Time sa Silangang Australya
   },
   Australia/Victoria: {
     Generic: Oras sa Silangang Australya,
@@ -2719,45 +1834,265 @@
     Standard: Standard na Oras sa Kanlurang Australya,
     Daylight: Daylight Time sa Kanlurang Australya
   },
-  Australia/ACT: {
-    Generic: Oras sa Silangang Australya,
-    Standard: Standard na Oras sa Silangang Australya,
-    Daylight: Daylight Time sa Silangang Australya
+  Australia/Yancowinna: {
+    Generic: Oras sa Gitnang Australya,
+    Standard: Standard na Oras sa Gitnang Australya,
+    Daylight: Daylight Time sa Gitnang Australya
   },
-  Australia/Canberra: {
-    Generic: Oras sa Silangang Australya,
-    Standard: Standard na Oras sa Silangang Australya,
-    Daylight: Daylight Time sa Silangang Australya
+  Brazil/Acre: {
+    Generic: Oras sa Brazil,
+    Standard: Standard na Oras sa Brazil,
+    Daylight: Daylight Time ng Brazil
   },
-  Australia/NSW: {
-    Generic: Oras sa Silangang Australya,
-    Standard: Standard na Oras sa Silangang Australya,
-    Daylight: Daylight Time sa Silangang Australya
+  Brazil/DeNoronha: {
+    Generic: Oras sa Fernando de Noronha,
+    Standard: Standard na Oras sa Fernando de Noronha,
+    Daylight: Oras sa Tag-init ng Fernando de Noronha
   },
-  HST: {
-    Generic: Coordinated Universal Time -10,
-    Standard: Coordinated Universal Time -10,
-    Daylight: Coordinated Universal Time -10
+  Brazil/East: {
+    Generic: Oras sa Brasilia,
+    Standard: Standard na Oras sa Brasilia,
+    Daylight: Oras sa Tag-init ng Brasilia
+  },
+  Brazil/West: {
+    Generic: Oras sa Amazon,
+    Standard: Standard na Oras sa Amazon,
+    Daylight: Oras sa Tag-init ng Amazon
+  },
+  CET: {
+    Generic: Oras sa Gitnang Europe,
+    Standard: Standard na Oras sa Gitnang Europe,
+    Daylight: Oras sa Tag-init ng Gitnang Europe
+  },
+  CST6CDT: {
+    Generic: Sentral na Oras sa North America,
+    Standard: Sentral na Standard na Oras sa North America,
+    Daylight: Sentral na Daylight na Oras sa North America
+  },
+  Canada/Atlantic: {
+    Generic: Oras sa Atlantiko,
+    Standard: Standard na Oras sa Atlantiko,
+    Daylight: Daylight na Oras sa Atlantiko
+  },
+  Canada/Central: {
+    Generic: Sentral na Oras sa North America,
+    Standard: Sentral na Standard na Oras sa North America,
+    Daylight: Sentral na Daylight na Oras sa North America
+  },
+  Canada/Eastern: {
+    Generic: Oras sa Silangan ng Hilagang Amerika,
+    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
+    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
+  },
+  Canada/Mountain: {
+    Generic: Oras sa Bundok sa Hilagang Amerika,
+    Standard: Standard na Oras sa Bundok sa Hilagang Amerika,
+    Daylight: Daylight na Oras sa Bundok sa Hilagang Amerika
+  },
+  Canada/Newfoundland: {
+    Generic: Oras sa Newfoundland,
+    Standard: Standard na Oras sa Newfoundland,
+    Daylight: Daylight na Oras sa Newfoundland
+  },
+  Canada/Pacific: {
+    Generic: Oras sa Pasipiko sa HIlagang Amerika,
+    Standard: Standard na Oras sa Pasipiko sa Hilagang Amerika,
+    Daylight: Daylight na Oras sa Pasipiko sa Hilagang Amerika
+  },
+  Canada/Saskatchewan: {
+    Generic: Sentral na Oras sa North America,
+    Standard: Sentral na Standard na Oras sa North America,
+    Daylight: Sentral na Daylight na Oras sa North America
+  },
+  Canada/Yukon: {
+    Generic: Oras sa Yukon,
+    Standard: Oras sa Yukon,
+    Daylight: Oras sa Yukon
+  },
+  Chile/Continental: {
+    Generic: Oras sa Chile,
+    Standard: Standard na Oras sa Chile,
+    Daylight: Oras sa Tag-init ng Chile
+  },
+  Chile/EasterIsland: {
+    Generic: Oras sa Easter Island,
+    Standard: Standard na Oras sa Easter Island,
+    Daylight: Oras sa Tag-init ng Easter Island
+  },
+  Cuba: {
+    Generic: Oras sa Cuba,
+    Standard: Standard na Oras sa Cuba,
+    Daylight: Daylight na Oras sa Cuba
+  },
+  EET: {
+    Generic: Oras sa Silangang Europe,
+    Standard: Standard na Oras sa Silangang Europe,
+    Daylight: Oras sa Tag-init ng Silangang Europe
   },
   EST: {
     Generic: Coordinated Universal Time -5,
     Standard: Coordinated Universal Time -5,
     Daylight: Coordinated Universal Time -5
   },
-  MST: {
-    Generic: Coordinated Universal Time -7,
-    Standard: Coordinated Universal Time -7,
-    Daylight: Coordinated Universal Time -7
+  EST5EDT: {
+    Generic: Oras sa Silangan ng Hilagang Amerika,
+    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
+    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
+  },
+  Egypt: {
+    Generic: Oras sa Silangang Europe,
+    Standard: Standard na Oras sa Silangang Europe,
+    Daylight: Oras sa Tag-init ng Silangang Europe
+  },
+  Eire: {
+    Generic: Oras sa Ireland,
+    Standard: Greenwich Mean Time,
+    Daylight: Standard na Oras sa Ireland
+  },
+  Etc/GMT: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
   },
   Etc/GMT+0: {
     Generic: Greenwich Mean Time,
     Standard: Greenwich Mean Time,
     Daylight: Greenwich Mean Time
   },
+  Etc/GMT+1: {
+    Generic: Coordinated Universal Time -1,
+    Standard: Coordinated Universal Time -1,
+    Daylight: Coordinated Universal Time -1
+  },
+  Etc/GMT+10: {
+    Generic: Coordinated Universal Time -10,
+    Standard: Coordinated Universal Time -10,
+    Daylight: Coordinated Universal Time -10
+  },
+  Etc/GMT+11: {
+    Generic: Coordinated Universal Time -11,
+    Standard: Coordinated Universal Time -11,
+    Daylight: Coordinated Universal Time -11
+  },
+  Etc/GMT+12: {
+    Generic: Coordinated Universal Time -12,
+    Standard: Coordinated Universal Time -12,
+    Daylight: Coordinated Universal Time -12
+  },
+  Etc/GMT+2: {
+    Generic: Coordinated Universal Time -2,
+    Standard: Coordinated Universal Time -2,
+    Daylight: Coordinated Universal Time -2
+  },
+  Etc/GMT+3: {
+    Generic: Coordinated Universal Time -3,
+    Standard: Coordinated Universal Time -3,
+    Daylight: Coordinated Universal Time -3
+  },
+  Etc/GMT+4: {
+    Generic: Coordinated Universal Time -4,
+    Standard: Coordinated Universal Time -4,
+    Daylight: Coordinated Universal Time -4
+  },
+  Etc/GMT+5: {
+    Generic: Coordinated Universal Time -5,
+    Standard: Coordinated Universal Time -5,
+    Daylight: Coordinated Universal Time -5
+  },
+  Etc/GMT+6: {
+    Generic: Coordinated Universal Time -6,
+    Standard: Coordinated Universal Time -6,
+    Daylight: Coordinated Universal Time -6
+  },
+  Etc/GMT+7: {
+    Generic: Coordinated Universal Time -7,
+    Standard: Coordinated Universal Time -7,
+    Daylight: Coordinated Universal Time -7
+  },
+  Etc/GMT+8: {
+    Generic: Coordinated Universal Time -8,
+    Standard: Coordinated Universal Time -8,
+    Daylight: Coordinated Universal Time -8
+  },
+  Etc/GMT+9: {
+    Generic: Coordinated Universal Time -9,
+    Standard: Coordinated Universal Time -9,
+    Daylight: Coordinated Universal Time -9
+  },
   Etc/GMT-0: {
     Generic: Greenwich Mean Time,
     Standard: Greenwich Mean Time,
     Daylight: Greenwich Mean Time
+  },
+  Etc/GMT-1: {
+    Generic: Coordinated Universal Time +1,
+    Standard: Coordinated Universal Time +1,
+    Daylight: Coordinated Universal Time +1
+  },
+  Etc/GMT-10: {
+    Generic: Coordinated Universal Time +10,
+    Standard: Coordinated Universal Time +10,
+    Daylight: Coordinated Universal Time +10
+  },
+  Etc/GMT-11: {
+    Generic: Coordinated Universal Time +11,
+    Standard: Coordinated Universal Time +11,
+    Daylight: Coordinated Universal Time +11
+  },
+  Etc/GMT-12: {
+    Generic: Coordinated Universal Time +12,
+    Standard: Coordinated Universal Time +12,
+    Daylight: Coordinated Universal Time +12
+  },
+  Etc/GMT-13: {
+    Generic: Coordinated Universal Time +13,
+    Standard: Coordinated Universal Time +13,
+    Daylight: Coordinated Universal Time +13
+  },
+  Etc/GMT-14: {
+    Generic: Coordinated Universal Time +14,
+    Standard: Coordinated Universal Time +14,
+    Daylight: Coordinated Universal Time +14
+  },
+  Etc/GMT-2: {
+    Generic: Coordinated Universal Time +2,
+    Standard: Coordinated Universal Time +2,
+    Daylight: Coordinated Universal Time +2
+  },
+  Etc/GMT-3: {
+    Generic: Coordinated Universal Time +3,
+    Standard: Coordinated Universal Time +3,
+    Daylight: Coordinated Universal Time +3
+  },
+  Etc/GMT-4: {
+    Generic: Coordinated Universal Time +4,
+    Standard: Coordinated Universal Time +4,
+    Daylight: Coordinated Universal Time +4
+  },
+  Etc/GMT-5: {
+    Generic: Coordinated Universal Time +5,
+    Standard: Coordinated Universal Time +5,
+    Daylight: Coordinated Universal Time +5
+  },
+  Etc/GMT-6: {
+    Generic: Coordinated Universal Time +6,
+    Standard: Coordinated Universal Time +6,
+    Daylight: Coordinated Universal Time +6
+  },
+  Etc/GMT-7: {
+    Generic: Coordinated Universal Time +7,
+    Standard: Coordinated Universal Time +7,
+    Daylight: Coordinated Universal Time +7
+  },
+  Etc/GMT-8: {
+    Generic: Coordinated Universal Time +8,
+    Standard: Coordinated Universal Time +8,
+    Daylight: Coordinated Universal Time +8
+  },
+  Etc/GMT-9: {
+    Generic: Coordinated Universal Time +9,
+    Standard: Coordinated Universal Time +9,
+    Daylight: Coordinated Universal Time +9
   },
   Etc/GMT0: {
     Generic: Greenwich Mean Time,
@@ -2768,6 +2103,356 @@
     Generic: Greenwich Mean Time,
     Standard: Greenwich Mean Time,
     Daylight: Greenwich Mean Time
+  },
+  Etc/UCT: {
+    Generic: Coordinated Universal Time,
+    Standard: Coordinated Universal Time,
+    Daylight: Coordinated Universal Time
+  },
+  Etc/UTC: {
+    Generic: Coordinated Universal Time,
+    Standard: Coordinated Universal Time,
+    Daylight: Coordinated Universal Time
+  },
+  Etc/Universal: {
+    Generic: Coordinated Universal Time,
+    Standard: Coordinated Universal Time,
+    Daylight: Coordinated Universal Time
+  },
+  Etc/Zulu: {
+    Generic: Coordinated Universal Time,
+    Standard: Coordinated Universal Time,
+    Daylight: Coordinated Universal Time
+  },
+  Europe/Amsterdam: {
+    Generic: Oras sa Gitnang Europe,
+    Standard: Standard na Oras sa Gitnang Europe,
+    Daylight: Oras sa Tag-init ng Gitnang Europe
+  },
+  Europe/Andorra: {
+    Generic: Oras sa Gitnang Europe,
+    Standard: Standard na Oras sa Gitnang Europe,
+    Daylight: Oras sa Tag-init ng Gitnang Europe
+  },
+  Europe/Astrakhan: {
+    Generic: Oras sa Astrakhan,
+    Standard: Standard na Oras sa Astrakhan,
+    Daylight: Daylight Time ng Astrakhan
+  },
+  Europe/Athens: {
+    Generic: Oras sa Silangang Europe,
+    Standard: Standard na Oras sa Silangang Europe,
+    Daylight: Oras sa Tag-init ng Silangang Europe
+  },
+  Europe/Belfast: {
+    Generic: Oras sa United Kingdom,
+    Standard: Greenwich Mean Time,
+    Daylight: Oras sa Tag-init ng Britain
+  },
+  Europe/Belgrade: {
+    Generic: Oras sa Gitnang Europe,
+    Standard: Standard na Oras sa Gitnang Europe,
+    Daylight: Oras sa Tag-init ng Gitnang Europe
+  },
+  Europe/Berlin: {
+    Generic: Oras sa Gitnang Europe,
+    Standard: Standard na Oras sa Gitnang Europe,
+    Daylight: Oras sa Tag-init ng Gitnang Europe
+  },
+  Europe/Bratislava: {
+    Generic: Oras sa Gitnang Europe,
+    Standard: Standard na Oras sa Gitnang Europe,
+    Daylight: Oras sa Tag-init ng Gitnang Europe
+  },
+  Europe/Brussels: {
+    Generic: Oras sa Gitnang Europe,
+    Standard: Standard na Oras sa Gitnang Europe,
+    Daylight: Oras sa Tag-init ng Gitnang Europe
+  },
+  Europe/Bucharest: {
+    Generic: Oras sa Silangang Europe,
+    Standard: Standard na Oras sa Silangang Europe,
+    Daylight: Oras sa Tag-init ng Silangang Europe
+  },
+  Europe/Budapest: {
+    Generic: Oras sa Gitnang Europe,
+    Standard: Standard na Oras sa Gitnang Europe,
+    Daylight: Oras sa Tag-init ng Gitnang Europe
+  },
+  Europe/Busingen: {
+    Generic: Oras sa Gitnang Europe,
+    Standard: Standard na Oras sa Gitnang Europe,
+    Daylight: Oras sa Tag-init ng Gitnang Europe
+  },
+  Europe/Chisinau: {
+    Generic: Oras sa Silangang Europe,
+    Standard: Standard na Oras sa Silangang Europe,
+    Daylight: Oras sa Tag-init ng Silangang Europe
+  },
+  Europe/Copenhagen: {
+    Generic: Oras sa Gitnang Europe,
+    Standard: Standard na Oras sa Gitnang Europe,
+    Daylight: Oras sa Tag-init ng Gitnang Europe
+  },
+  Europe/Dublin: {
+    Generic: Oras sa Ireland,
+    Standard: Greenwich Mean Time,
+    Daylight: Standard na Oras sa Ireland
+  },
+  Europe/Gibraltar: {
+    Generic: Oras sa Gitnang Europe,
+    Standard: Standard na Oras sa Gitnang Europe,
+    Daylight: Oras sa Tag-init ng Gitnang Europe
+  },
+  Europe/Guernsey: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
+  },
+  Europe/Helsinki: {
+    Generic: Oras sa Silangang Europe,
+    Standard: Standard na Oras sa Silangang Europe,
+    Daylight: Oras sa Tag-init ng Silangang Europe
+  },
+  Europe/Isle_of_Man: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
+  },
+  Europe/Istanbul: {
+    Generic: Oras sa Turkey,
+    Standard: Standard na Oras sa Turkey,
+    Daylight: Daylight Time ng Turkey
+  },
+  Europe/Jersey: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
+  },
+  Europe/Kaliningrad: {
+    Generic: Oras sa Kaliningrad,
+    Standard: Standard na Oras sa Kaliningrad,
+    Daylight: Daylight Time ng Kaliningrad
+  },
+  Europe/Kiev: {
+    Generic: Oras sa Silangang Europe,
+    Standard: Standard na Oras sa Silangang Europe,
+    Daylight: Oras sa Tag-init ng Silangang Europe
+  },
+  Europe/Kirov: {
+    Generic: Oras sa Kirov,
+    Standard: Standard na Oras sa Kirov,
+    Daylight: Daylight Time ng Kirov
+  },
+  Europe/Kyiv: {
+    Generic: Oras sa Silangang Europe,
+    Standard: Standard na Oras sa Silangang Europe,
+    Daylight: Oras sa Tag-init ng Silangang Europe
+  },
+  Europe/Lisbon: {
+    Generic: Oras sa Kanlurang Europe,
+    Standard: Standard na Oras sa Kanlurang Europe,
+    Daylight: Oras sa Tag-init ng Kanlurang Europe
+  },
+  Europe/Ljubljana: {
+    Generic: Oras sa Gitnang Europe,
+    Standard: Standard na Oras sa Gitnang Europe,
+    Daylight: Oras sa Tag-init ng Gitnang Europe
+  },
+  Europe/London: {
+    Generic: Oras sa United Kingdom,
+    Standard: Greenwich Mean Time,
+    Daylight: Oras sa Tag-init ng Britain
+  },
+  Europe/Luxembourg: {
+    Generic: Oras sa Gitnang Europe,
+    Standard: Standard na Oras sa Gitnang Europe,
+    Daylight: Oras sa Tag-init ng Gitnang Europe
+  },
+  Europe/Madrid: {
+    Generic: Oras sa Gitnang Europe,
+    Standard: Standard na Oras sa Gitnang Europe,
+    Daylight: Oras sa Tag-init ng Gitnang Europe
+  },
+  Europe/Malta: {
+    Generic: Oras sa Gitnang Europe,
+    Standard: Standard na Oras sa Gitnang Europe,
+    Daylight: Oras sa Tag-init ng Gitnang Europe
+  },
+  Europe/Mariehamn: {
+    Generic: Oras sa Silangang Europe,
+    Standard: Standard na Oras sa Silangang Europe,
+    Daylight: Oras sa Tag-init ng Silangang Europe
+  },
+  Europe/Minsk: {
+    Generic: Oras sa Moscow,
+    Standard: Standard na Oras sa Moscow,
+    Daylight: Oras sa Tag-init ng Moscow
+  },
+  Europe/Monaco: {
+    Generic: Oras sa Gitnang Europe,
+    Standard: Standard na Oras sa Gitnang Europe,
+    Daylight: Oras sa Tag-init ng Gitnang Europe
+  },
+  Europe/Moscow: {
+    Generic: Oras sa Moscow,
+    Standard: Standard na Oras sa Moscow,
+    Daylight: Daylight Time ng Moscow
+  },
+  Europe/Nicosia: {
+    Generic: Oras sa Silangang Europe,
+    Standard: Standard na Oras sa Silangang Europe,
+    Daylight: Oras sa Tag-init ng Silangang Europe
+  },
+  Europe/Oslo: {
+    Generic: Oras sa Gitnang Europe,
+    Standard: Standard na Oras sa Gitnang Europe,
+    Daylight: Oras sa Tag-init ng Gitnang Europe
+  },
+  Europe/Paris: {
+    Generic: Oras sa Gitnang Europe,
+    Standard: Standard na Oras sa Gitnang Europe,
+    Daylight: Oras sa Tag-init ng Gitnang Europe
+  },
+  Europe/Podgorica: {
+    Generic: Oras sa Gitnang Europe,
+    Standard: Standard na Oras sa Gitnang Europe,
+    Daylight: Oras sa Tag-init ng Gitnang Europe
+  },
+  Europe/Prague: {
+    Generic: Oras sa Gitnang Europe,
+    Standard: Standard na Oras sa Gitnang Europe,
+    Daylight: Oras sa Tag-init ng Gitnang Europe
+  },
+  Europe/Riga: {
+    Generic: Oras sa Silangang Europe,
+    Standard: Standard na Oras sa Silangang Europe,
+    Daylight: Oras sa Tag-init ng Silangang Europe
+  },
+  Europe/Rome: {
+    Generic: Oras sa Gitnang Europe,
+    Standard: Standard na Oras sa Gitnang Europe,
+    Daylight: Oras sa Tag-init ng Gitnang Europe
+  },
+  Europe/Samara: {
+    Generic: Oras sa Samara,
+    Standard: Standard na Oras sa Samara,
+    Daylight: Daylight Time ng Samara
+  },
+  Europe/San_Marino: {
+    Generic: Oras sa Gitnang Europe,
+    Standard: Standard na Oras sa Gitnang Europe,
+    Daylight: Oras sa Tag-init ng Gitnang Europe
+  },
+  Europe/Sarajevo: {
+    Generic: Oras sa Gitnang Europe,
+    Standard: Standard na Oras sa Gitnang Europe,
+    Daylight: Oras sa Tag-init ng Gitnang Europe
+  },
+  Europe/Saratov: {
+    Generic: Oras sa Saratov,
+    Standard: Standard na Oras sa Saratov,
+    Daylight: Daylight Time ng Saratov
+  },
+  Europe/Simferopol: {
+    Generic: Oras sa Moscow,
+    Standard: Standard na Oras sa Moscow,
+    Daylight: Oras sa Tag-init ng Moscow
+  },
+  Europe/Skopje: {
+    Generic: Oras sa Gitnang Europe,
+    Standard: Standard na Oras sa Gitnang Europe,
+    Daylight: Oras sa Tag-init ng Gitnang Europe
+  },
+  Europe/Sofia: {
+    Generic: Oras sa Silangang Europe,
+    Standard: Standard na Oras sa Silangang Europe,
+    Daylight: Oras sa Tag-init ng Silangang Europe
+  },
+  Europe/Stockholm: {
+    Generic: Oras sa Gitnang Europe,
+    Standard: Standard na Oras sa Gitnang Europe,
+    Daylight: Oras sa Tag-init ng Gitnang Europe
+  },
+  Europe/Tallinn: {
+    Generic: Oras sa Silangang Europe,
+    Standard: Standard na Oras sa Silangang Europe,
+    Daylight: Oras sa Tag-init ng Silangang Europe
+  },
+  Europe/Tirane: {
+    Generic: Oras sa Gitnang Europe,
+    Standard: Standard na Oras sa Gitnang Europe,
+    Daylight: Oras sa Tag-init ng Gitnang Europe
+  },
+  Europe/Tiraspol: {
+    Generic: Oras sa Silangang Europe,
+    Standard: Standard na Oras sa Silangang Europe,
+    Daylight: Oras sa Tag-init ng Silangang Europe
+  },
+  Europe/Ulyanovsk: {
+    Generic: Oras sa Ulyanovsk,
+    Standard: Standard na Oras sa Ulyanovsk,
+    Daylight: Daylight Time ng Ulyanovsk
+  },
+  Europe/Uzhgorod: {
+    Generic: Oras sa Silangang Europe,
+    Standard: Standard na Oras sa Silangang Europe,
+    Daylight: Oras sa Tag-init ng Silangang Europe
+  },
+  Europe/Vaduz: {
+    Generic: Oras sa Gitnang Europe,
+    Standard: Standard na Oras sa Gitnang Europe,
+    Daylight: Oras sa Tag-init ng Gitnang Europe
+  },
+  Europe/Vatican: {
+    Generic: Oras sa Gitnang Europe,
+    Standard: Standard na Oras sa Gitnang Europe,
+    Daylight: Oras sa Tag-init ng Gitnang Europe
+  },
+  Europe/Vienna: {
+    Generic: Oras sa Gitnang Europe,
+    Standard: Standard na Oras sa Gitnang Europe,
+    Daylight: Oras sa Tag-init ng Gitnang Europe
+  },
+  Europe/Vilnius: {
+    Generic: Oras sa Silangang Europe,
+    Standard: Standard na Oras sa Silangang Europe,
+    Daylight: Oras sa Tag-init ng Silangang Europe
+  },
+  Europe/Volgograd: {
+    Generic: Oras sa Volgograd,
+    Standard: Standard na Oras sa Volgograd,
+    Daylight: Daylight Time ng Volgograd
+  },
+  Europe/Warsaw: {
+    Generic: Oras sa Gitnang Europe,
+    Standard: Standard na Oras sa Gitnang Europe,
+    Daylight: Oras sa Tag-init ng Gitnang Europe
+  },
+  Europe/Zagreb: {
+    Generic: Oras sa Gitnang Europe,
+    Standard: Standard na Oras sa Gitnang Europe,
+    Daylight: Oras sa Tag-init ng Gitnang Europe
+  },
+  Europe/Zaporozhye: {
+    Generic: Oras sa Silangang Europe,
+    Standard: Standard na Oras sa Silangang Europe,
+    Daylight: Oras sa Tag-init ng Silangang Europe
+  },
+  Europe/Zurich: {
+    Generic: Oras sa Gitnang Europe,
+    Standard: Standard na Oras sa Gitnang Europe,
+    Daylight: Oras sa Tag-init ng Gitnang Europe
+  },
+  GB: {
+    Generic: Oras sa United Kingdom,
+    Standard: Greenwich Mean Time,
+    Daylight: Oras sa Tag-init ng Britain
+  },
+  GB-Eire: {
+    Generic: Oras sa United Kingdom,
+    Standard: Greenwich Mean Time,
+    Daylight: Oras sa Tag-init ng Britain
   },
   GMT: {
     Generic: Greenwich Mean Time,
@@ -2794,120 +2479,135 @@
     Standard: Greenwich Mean Time,
     Daylight: Greenwich Mean Time
   },
-  Etc/UCT: {
-    Generic: Coordinated Universal Time,
-    Standard: Coordinated Universal Time,
-    Daylight: Coordinated Universal Time
+  HST: {
+    Generic: Coordinated Universal Time -10,
+    Standard: Coordinated Universal Time -10,
+    Daylight: Coordinated Universal Time -10
   },
-  Etc/Universal: {
-    Generic: Coordinated Universal Time,
-    Standard: Coordinated Universal Time,
-    Daylight: Coordinated Universal Time
+  Hongkong: {
+    Generic: Oras sa Hong Kong,
+    Standard: Standard na Oras sa Hong Kong,
+    Daylight: Oras sa Tag-init ng Hong Kong
   },
-  Etc/Zulu: {
-    Generic: Coordinated Universal Time,
-    Standard: Coordinated Universal Time,
-    Daylight: Coordinated Universal Time
+  Iceland: {
+    Generic: Greenwich Mean Time,
+    Standard: Greenwich Mean Time,
+    Daylight: Greenwich Mean Time
   },
-  UCT: {
-    Generic: Coordinated Universal Time,
-    Standard: Coordinated Universal Time,
-    Daylight: Coordinated Universal Time
+  Indian/Antananarivo: {
+    Generic: Oras sa Silangang Africa,
+    Standard: Oras sa Silangang Africa,
+    Daylight: Oras sa Silangang Africa
   },
-  UTC: {
-    Generic: Coordinated Universal Time,
-    Standard: Coordinated Universal Time,
-    Daylight: Coordinated Universal Time
+  Indian/Chagos: {
+    Generic: Oras sa Indian Ocean,
+    Standard: Oras sa Indian Ocean,
+    Daylight: Oras sa Indian Ocean
   },
-  Universal: {
-    Generic: Coordinated Universal Time,
-    Standard: Coordinated Universal Time,
-    Daylight: Coordinated Universal Time
+  Indian/Christmas: {
+    Generic: Oras sa Christmas Island,
+    Standard: Oras sa Christmas Island,
+    Daylight: Oras sa Christmas Island
   },
-  Zulu: {
-    Generic: Coordinated Universal Time,
-    Standard: Coordinated Universal Time,
-    Daylight: Coordinated Universal Time
+  Indian/Cocos: {
+    Generic: Oras sa Cocos Islands,
+    Standard: Oras sa Cocos Islands,
+    Daylight: Oras sa Cocos Islands
   },
-  Atlantic/Jan_Mayen: {
-    Generic: Oras sa Gitnang Europe,
-    Standard: Standard na Oras sa Gitnang Europe,
-    Daylight: Oras sa Tag-init ng Gitnang Europe
+  Indian/Comoro: {
+    Generic: Oras sa Silangang Africa,
+    Standard: Oras sa Silangang Africa,
+    Daylight: Oras sa Silangang Africa
+  },
+  Indian/Kerguelen: {
+    Generic: Oras sa Katimugang France at Antartiko,
+    Standard: Oras sa Katimugang France at Antartiko,
+    Daylight: Oras sa Katimugang France at Antartiko
+  },
+  Indian/Mahe: {
+    Generic: Oras sa Seychelles,
+    Standard: Oras sa Seychelles,
+    Daylight: Oras sa Seychelles
+  },
+  Indian/Maldives: {
+    Generic: Oras sa Maldives,
+    Standard: Oras sa Maldives,
+    Daylight: Oras sa Maldives
+  },
+  Indian/Mauritius: {
+    Generic: Oras sa Mauritius,
+    Standard: Standard na Oras sa Mauritius,
+    Daylight: Oras sa Tag-init ng Mauritius
+  },
+  Indian/Mayotte: {
+    Generic: Oras sa Silangang Africa,
+    Standard: Oras sa Silangang Africa,
+    Daylight: Oras sa Silangang Africa
+  },
+  Indian/Reunion: {
+    Generic: Oras sa Reunion,
+    Standard: Oras sa Reunion,
+    Daylight: Oras sa Reunion
+  },
+  Iran: {
+    Generic: Oras sa Iran,
+    Standard: Standard na Oras sa Iran,
+    Daylight: Daylight Time sa Iran
+  },
+  Israel: {
+    Generic: Oras sa Israel,
+    Standard: Standard na Oras sa Israel,
+    Daylight: Daylight Time sa Israel
+  },
+  Jamaica: {
+    Generic: Oras sa Silangan ng Hilagang Amerika,
+    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
+    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
+  },
+  Japan: {
+    Generic: Oras sa Japan,
+    Standard: Standard na Oras sa Japan,
+    Daylight: Daylight Time sa Japan
+  },
+  Kwajalein: {
+    Generic: Oras sa Marshall Islands,
+    Standard: Oras sa Marshall Islands,
+    Daylight: Oras sa Marshall Islands
+  },
+  Libya: {
+    Generic: Oras sa Silangang Europe,
+    Standard: Standard na Oras sa Silangang Europe,
+    Daylight: Oras sa Tag-init ng Silangang Europe
   },
   MET: {
     Generic: Oras sa Gitnang Europe,
     Standard: Standard na Oras sa Gitnang Europe,
     Daylight: Oras sa Tag-init ng Gitnang Europe
   },
-  EET: {
-    Generic: Oras sa Silangang Europe,
-    Standard: Standard na Oras sa Silangang Europe,
-    Daylight: Oras sa Tag-init ng Silangang Europe
+  MST: {
+    Generic: Coordinated Universal Time -7,
+    Standard: Coordinated Universal Time -7,
+    Daylight: Coordinated Universal Time -7
   },
-  Europe/Tiraspol: {
-    Generic: Oras sa Silangang Europe,
-    Standard: Standard na Oras sa Silangang Europe,
-    Daylight: Oras sa Tag-init ng Silangang Europe
+  MST7MDT: {
+    Generic: Oras sa Bundok sa Hilagang Amerika,
+    Standard: Standard na Oras sa Bundok sa Hilagang Amerika,
+    Daylight: Daylight na Oras sa Bundok sa Hilagang Amerika
   },
-  Eire: {
-    Generic: Oras sa Ireland,
-    Standard: Greenwich Mean Time,
-    Daylight: Standard na Oras sa Ireland
+  Mexico/BajaNorte: {
+    Generic: Oras sa Pasipiko sa HIlagang Amerika,
+    Standard: Standard na Oras sa Pasipiko sa Hilagang Amerika,
+    Daylight: Daylight na Oras sa Pasipiko sa Hilagang Amerika
   },
-  Asia/Istanbul: {
-    Generic: Oras sa Turkey,
-    Standard: Standard na Oras sa Turkey,
-    Daylight: Daylight Time ng Turkey
+  Mexico/BajaSur: {
+    Generic: Oras sa Pasipiko ng Mexico,
+    Standard: Standard na Oras sa Pasipiko ng Mexico,
+    Daylight: Daylight na Oras sa Pasipiko ng Mexico
   },
-  Turkey: {
-    Generic: Oras sa Turkey,
-    Standard: Standard na Oras sa Turkey,
-    Daylight: Daylight Time ng Turkey
-  },
-  Europe/Kyiv: {
-    Generic: Oras sa Silangang Europe,
-    Standard: Standard na Oras sa Silangang Europe,
-    Daylight: Oras sa Tag-init ng Silangang Europe
-  },
-  Portugal: {
-    Generic: Oras sa Kanlurang Europe,
-    Standard: Standard na Oras sa Kanlurang Europe,
-    Daylight: Oras sa Tag-init ng Kanlurang Europe
-  },
-  Europe/Belfast: {
-    Generic: Oras sa United Kingdom,
-    Standard: Greenwich Mean Time,
-    Daylight: Oras sa Tag-init ng Britain
-  },
-  GB: {
-    Generic: Oras sa United Kingdom,
-    Standard: Greenwich Mean Time,
-    Daylight: Oras sa Tag-init ng Britain
-  },
-  GB-Eire: {
-    Generic: Oras sa United Kingdom,
-    Standard: Greenwich Mean Time,
-    Daylight: Oras sa Tag-init ng Britain
-  },
-  W-SU: {
-    Generic: Oras sa Moscow,
-    Standard: Standard na Oras sa Moscow,
-    Daylight: Daylight Time ng Moscow
-  },
-  CET: {
-    Generic: Oras sa Gitnang Europe,
-    Standard: Standard na Oras sa Gitnang Europe,
-    Daylight: Oras sa Tag-init ng Gitnang Europe
-  },
-  Poland: {
-    Generic: Oras sa Gitnang Europe,
-    Standard: Standard na Oras sa Gitnang Europe,
-    Daylight: Oras sa Tag-init ng Gitnang Europe
-  },
-  Antarctica/South_Pole: {
-    Generic: Oras sa New Zealand,
-    Standard: Standard na Oras sa New Zealand,
-    Daylight: Daylight Time sa New Zealand
+  Mexico/General: {
+    Generic: Sentral na Oras sa North America,
+    Standard: Sentral na Standard na Oras sa North America,
+    Daylight: Sentral na Daylight na Oras sa North America
   },
   NZ: {
     Generic: Oras sa New Zealand,
@@ -2919,17 +2619,102 @@
     Standard: Standard na Oras sa Chatham,
     Daylight: Daylight Time sa Chatham
   },
-  Chile/EasterIsland: {
+  Navajo: {
+    Generic: Oras sa Bundok sa Hilagang Amerika,
+    Standard: Standard na Oras sa Bundok sa Hilagang Amerika,
+    Daylight: Daylight na Oras sa Bundok sa Hilagang Amerika
+  },
+  PRC: {
+    Generic: Oras sa China,
+    Standard: Standard na Oras sa China,
+    Daylight: Daylight Time sa China
+  },
+  PST8PDT: {
+    Generic: Oras sa Pasipiko sa HIlagang Amerika,
+    Standard: Standard na Oras sa Pasipiko sa Hilagang Amerika,
+    Daylight: Daylight na Oras sa Pasipiko sa Hilagang Amerika
+  },
+  Pacific/Apia: {
+    Generic: Oras sa Apia,
+    Standard: Standard na Oras sa Apia,
+    Daylight: Daylight Time sa Apia
+  },
+  Pacific/Auckland: {
+    Generic: Oras sa New Zealand,
+    Standard: Standard na Oras sa New Zealand,
+    Daylight: Daylight Time sa New Zealand
+  },
+  Pacific/Bougainville: {
+    Generic: Oras sa Papua New Guinea,
+    Standard: Oras sa Papua New Guinea,
+    Daylight: Oras sa Papua New Guinea
+  },
+  Pacific/Chatham: {
+    Generic: Oras sa Chatham,
+    Standard: Standard na Oras sa Chatham,
+    Daylight: Daylight Time sa Chatham
+  },
+  Pacific/Chuuk: {
+    Generic: Oras sa Chuuk,
+    Standard: Oras sa Chuuk,
+    Daylight: Oras sa Chuuk
+  },
+  Pacific/Easter: {
     Generic: Oras sa Easter Island,
     Standard: Standard na Oras sa Easter Island,
     Daylight: Oras sa Tag-init ng Easter Island
   },
-  Pacific/Pohnpei: {
-    Generic: Oras sa Ponape,
-    Standard: Oras sa Ponape,
-    Daylight: Oras sa Ponape
+  Pacific/Efate: {
+    Generic: Oras sa Vanuatu,
+    Standard: Standard na Oras sa Vanuatu,
+    Daylight: Oras sa Tag-init ng Vanuatu
   },
-  US/Hawaii: {
+  Pacific/Enderbury: {
+    Generic: Oras sa Phoenix Islands,
+    Standard: Oras sa Phoenix Islands,
+    Daylight: Oras sa Phoenix Islands
+  },
+  Pacific/Fakaofo: {
+    Generic: Oras sa Tokelau,
+    Standard: Oras sa Tokelau,
+    Daylight: Oras sa Tokelau
+  },
+  Pacific/Fiji: {
+    Generic: Oras sa Fiji,
+    Standard: Standard na Oras sa Fiji,
+    Daylight: Oras sa Tag-init ng Fiji
+  },
+  Pacific/Funafuti: {
+    Generic: Oras sa Tuvalu,
+    Standard: Oras sa Tuvalu,
+    Daylight: Oras sa Tuvalu
+  },
+  Pacific/Galapagos: {
+    Generic: Oras sa Galapagos,
+    Standard: Oras sa Galapagos,
+    Daylight: Oras sa Galapagos
+  },
+  Pacific/Gambier: {
+    Generic: Oras sa Gambier,
+    Standard: Oras sa Gambier,
+    Daylight: Oras sa Gambier
+  },
+  Pacific/Guadalcanal: {
+    Generic: Oras sa Solomon Islands,
+    Standard: Oras sa Solomon Islands,
+    Daylight: Oras sa Solomon Islands
+  },
+  Pacific/Guam: {
+    Generic: Standard na Oras sa Chamorro,
+    Standard: Standard na Oras sa Chamorro,
+    Daylight: Standard na Oras sa Chamorro
+  },
+  Pacific/Honolulu: {
+    Generic: Oras sa Hawaii-Aleutian,
+    Standard: Standard na Oras sa Hawaii-Aleutian,
+    Daylight: Oras sa Tag-init ng Hawaii-Aleutian
+  },
+  Pacific/Johnston: {
     Generic: Oras sa Hawaii-Aleutian,
     Standard: Standard na Oras sa Hawaii-Aleutian,
     Daylight: Oras sa Tag-init ng Hawaii-Aleutian
@@ -2939,39 +2724,254 @@
     Standard: Oras sa Phoenix Islands,
     Daylight: Oras sa Phoenix Islands
   },
-  Kwajalein: {
+  Pacific/Kiritimati: {
+    Generic: Oras sa Line Islands,
+    Standard: Oras sa Line Islands,
+    Daylight: Oras sa Line Islands
+  },
+  Pacific/Kosrae: {
+    Generic: Oras sa Kosrae,
+    Standard: Oras sa Kosrae,
+    Daylight: Oras sa Kosrae
+  },
+  Pacific/Kwajalein: {
     Generic: Oras sa Marshall Islands,
     Standard: Oras sa Marshall Islands,
     Daylight: Oras sa Marshall Islands
+  },
+  Pacific/Majuro: {
+    Generic: Oras sa Marshall Islands,
+    Standard: Oras sa Marshall Islands,
+    Daylight: Oras sa Marshall Islands
+  },
+  Pacific/Marquesas: {
+    Generic: Oras sa Marquesas,
+    Standard: Oras sa Marquesas,
+    Daylight: Oras sa Marquesas
+  },
+  Pacific/Midway: {
+    Generic: Oras sa Samoa,
+    Standard: Standard na Oras sa Samoa,
+    Daylight: Daylight Time sa Samoa
+  },
+  Pacific/Nauru: {
+    Generic: Oras sa Nauru,
+    Standard: Oras sa Nauru,
+    Daylight: Oras sa Nauru
+  },
+  Pacific/Niue: {
+    Generic: Oras sa Niue,
+    Standard: Oras sa Niue,
+    Daylight: Oras sa Niue
+  },
+  Pacific/Norfolk: {
+    Generic: Oras sa Norfolk Island,
+    Standard: Standard na Oras sa Norfolk Island,
+    Daylight: Daylight Time sa Norfolk Island
+  },
+  Pacific/Noumea: {
+    Generic: Oras sa New Caledonia,
+    Standard: Standard na Oras sa New Caledonia,
+    Daylight: Oras sa Tag-init ng New Caledonia
+  },
+  Pacific/Pago_Pago: {
+    Generic: Oras sa Samoa,
+    Standard: Standard na Oras sa Samoa,
+    Daylight: Daylight Time sa Samoa
+  },
+  Pacific/Palau: {
+    Generic: Oras sa Palau,
+    Standard: Oras sa Palau,
+    Daylight: Oras sa Palau
+  },
+  Pacific/Pitcairn: {
+    Generic: Oras sa Pitcairn,
+    Standard: Oras sa Pitcairn,
+    Daylight: Oras sa Pitcairn
+  },
+  Pacific/Pohnpei: {
+    Generic: Oras sa Ponape,
+    Standard: Oras sa Ponape,
+    Daylight: Oras sa Ponape
+  },
+  Pacific/Ponape: {
+    Generic: Oras sa Ponape,
+    Standard: Oras sa Ponape,
+    Daylight: Oras sa Ponape
+  },
+  Pacific/Port_Moresby: {
+    Generic: Oras sa Papua New Guinea,
+    Standard: Oras sa Papua New Guinea,
+    Daylight: Oras sa Papua New Guinea
+  },
+  Pacific/Rarotonga: {
+    Generic: Oras sa Cook Islands,
+    Standard: Standard na Oras sa Cook Islands,
+    Daylight: Oras sa Kalahati ng Tag-init ng Cook Islands
+  },
+  Pacific/Saipan: {
+    Generic: Standard na Oras sa Chamorro,
+    Standard: Standard na Oras sa Chamorro,
+    Daylight: Standard na Oras sa Chamorro
   },
   Pacific/Samoa: {
     Generic: Oras sa Samoa,
     Standard: Standard na Oras sa Samoa,
     Daylight: Daylight Time sa Samoa
   },
-  US/Samoa: {
-    Generic: Oras sa Samoa,
-    Standard: Standard na Oras sa Samoa,
-    Daylight: Daylight Time sa Samoa
+  Pacific/Tahiti: {
+    Generic: Oras sa Tahiti,
+    Standard: Oras sa Tahiti,
+    Daylight: Oras sa Tahiti
   },
-  Pacific/Chuuk: {
+  Pacific/Tarawa: {
+    Generic: Oras sa Gilbert Islands,
+    Standard: Oras sa Gilbert Islands,
+    Daylight: Oras sa Gilbert Islands
+  },
+  Pacific/Tongatapu: {
+    Generic: Oras sa Tonga,
+    Standard: Standard na Oras sa Tonga,
+    Daylight: Oras sa Tag-init ng Tonga
+  },
+  Pacific/Truk: {
     Generic: Oras sa Chuuk,
     Standard: Oras sa Chuuk,
     Daylight: Oras sa Chuuk
+  },
+  Pacific/Wake: {
+    Generic: Oras sa Wake Island,
+    Standard: Oras sa Wake Island,
+    Daylight: Oras sa Wake Island
+  },
+  Pacific/Wallis: {
+    Generic: Oras sa Wallis & Futuna,
+    Standard: Oras sa Wallis & Futuna,
+    Daylight: Oras sa Wallis & Futuna
   },
   Pacific/Yap: {
     Generic: Oras sa Chuuk,
     Standard: Oras sa Chuuk,
     Daylight: Oras sa Chuuk
   },
-  America/Fort_Wayne: {
+  Poland: {
+    Generic: Oras sa Gitnang Europe,
+    Standard: Standard na Oras sa Gitnang Europe,
+    Daylight: Oras sa Tag-init ng Gitnang Europe
+  },
+  Portugal: {
+    Generic: Oras sa Kanlurang Europe,
+    Standard: Standard na Oras sa Kanlurang Europe,
+    Daylight: Oras sa Tag-init ng Kanlurang Europe
+  },
+  ROC: {
+    Generic: Oras sa Taipei,
+    Standard: Standard na Oras sa Taipei,
+    Daylight: Daylight Time sa Taipei
+  },
+  ROK: {
+    Generic: Oras sa Korea,
+    Standard: Standard na Oras sa Korea,
+    Daylight: Daylight Time sa Korea
+  },
+  Singapore: {
+    Generic: Standard na Oras sa Singapore,
+    Standard: Standard na Oras sa Singapore,
+    Daylight: Standard na Oras sa Singapore
+  },
+  Turkey: {
+    Generic: Oras sa Turkey,
+    Standard: Standard na Oras sa Turkey,
+    Daylight: Daylight Time ng Turkey
+  },
+  UCT: {
+    Generic: Coordinated Universal Time,
+    Standard: Coordinated Universal Time,
+    Daylight: Coordinated Universal Time
+  },
+  US/Alaska: {
+    Generic: Oras sa Alaska,
+    Standard: Standard na Oras sa Alaska,
+    Daylight: Daylight Time sa Alaska
+  },
+  US/Aleutian: {
+    Generic: Oras sa Hawaii-Aleutian,
+    Standard: Standard na Oras sa Hawaii-Aleutian,
+    Daylight: Oras sa Tag-init ng Hawaii-Aleutian
+  },
+  US/Arizona: {
+    Generic: Oras sa Bundok sa Hilagang Amerika,
+    Standard: Standard na Oras sa Bundok sa Hilagang Amerika,
+    Daylight: Daylight na Oras sa Bundok sa Hilagang Amerika
+  },
+  US/Central: {
+    Generic: Sentral na Oras sa North America,
+    Standard: Sentral na Standard na Oras sa North America,
+    Daylight: Sentral na Daylight na Oras sa North America
+  },
+  US/East-Indiana: {
     Generic: Oras sa Silangan ng Hilagang Amerika,
     Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
     Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
   },
-  Antarctica/Troll: {
-    Generic: Greenwich Mean Time,
-    Standard: Greenwich Mean Time,
-    Daylight: Greenwich Mean Time
+  US/Eastern: {
+    Generic: Oras sa Silangan ng Hilagang Amerika,
+    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
+    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
+  },
+  US/Hawaii: {
+    Generic: Oras sa Hawaii-Aleutian,
+    Standard: Standard na Oras sa Hawaii-Aleutian,
+    Daylight: Oras sa Tag-init ng Hawaii-Aleutian
+  },
+  US/Indiana-Starke: {
+    Generic: Sentral na Oras sa North America,
+    Standard: Sentral na Standard na Oras sa North America,
+    Daylight: Sentral na Daylight na Oras sa North America
+  },
+  US/Michigan: {
+    Generic: Oras sa Silangan ng Hilagang Amerika,
+    Standard: Standard na Oras sa Silangan ng Hilangang Amerika,
+    Daylight: Daylight na Oras sa Silangan ng Hilagang Amerika
+  },
+  US/Mountain: {
+    Generic: Oras sa Bundok sa Hilagang Amerika,
+    Standard: Standard na Oras sa Bundok sa Hilagang Amerika,
+    Daylight: Daylight na Oras sa Bundok sa Hilagang Amerika
+  },
+  US/Pacific: {
+    Generic: Oras sa Pasipiko sa HIlagang Amerika,
+    Standard: Standard na Oras sa Pasipiko sa Hilagang Amerika,
+    Daylight: Daylight na Oras sa Pasipiko sa Hilagang Amerika
+  },
+  US/Samoa: {
+    Generic: Oras sa Samoa,
+    Standard: Standard na Oras sa Samoa,
+    Daylight: Daylight Time sa Samoa
+  },
+  UTC: {
+    Generic: Coordinated Universal Time,
+    Standard: Coordinated Universal Time,
+    Daylight: Coordinated Universal Time
+  },
+  Universal: {
+    Generic: Coordinated Universal Time,
+    Standard: Coordinated Universal Time,
+    Daylight: Coordinated Universal Time
+  },
+  W-SU: {
+    Generic: Oras sa Moscow,
+    Standard: Standard na Oras sa Moscow,
+    Daylight: Daylight Time ng Moscow
+  },
+  WET: {
+    Generic: Oras sa Kanlurang Europe,
+    Standard: Standard na Oras sa Kanlurang Europe,
+    Daylight: Oras sa Tag-init ng Kanlurang Europe
+  },
+  Zulu: {
+    Generic: Coordinated Universal Time,
+    Standard: Coordinated Universal Time,
+    Daylight: Coordinated Universal Time
   }
 }

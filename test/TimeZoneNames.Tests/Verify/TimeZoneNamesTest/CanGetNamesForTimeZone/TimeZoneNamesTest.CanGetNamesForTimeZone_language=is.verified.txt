@@ -1,115 +1,330 @@
 ﻿{
-  Australia/Darwin: {
-    Generic: Tími í Mið-Ástralíu,
-    Standard: Staðaltími í Mið-Ástralíu,
-    Daylight: Sumartími í Mið-Ástralíu
+  Africa/Abidjan: {
+    Generic: Greenwich-staðaltími,
+    Standard: Greenwich-staðaltími,
+    Daylight: Greenwich-staðaltími
   },
-  Australia/Sydney: {
-    Generic: Tími í Austur-Ástralíu,
-    Standard: Staðaltími í Austur-Ástralíu,
-    Daylight: Sumartími í Austur-Ástralíu
+  Africa/Accra: {
+    Generic: Greenwich-staðaltími,
+    Standard: Greenwich-staðaltími,
+    Daylight: Greenwich-staðaltími
   },
-  Australia/Melbourne: {
-    Generic: Tími í Austur-Ástralíu,
-    Standard: Staðaltími í Austur-Ástralíu,
-    Daylight: Sumartími í Austur-Ástralíu
+  Africa/Addis_Ababa: {
+    Generic: Austur-Afríkutími,
+    Standard: Austur-Afríkutími,
+    Daylight: Austur-Afríkutími
   },
-  Asia/Kabul: {
-    Generic: Afganistantími,
-    Standard: Afganistantími,
-    Daylight: Afganistantími
+  Africa/Algiers: {
+    Generic: Mið-Evróputími,
+    Standard: Staðaltími í Mið-Evrópu,
+    Daylight: Sumartími í Mið-Evrópu
   },
-  America/Anchorage: {
-    Generic: Tími í Alaska,
-    Standard: Staðaltími í Alaska,
-    Daylight: Sumartími í Alaska
+  Africa/Asmara: {
+    Generic: Austur-Afríkutími,
+    Standard: Austur-Afríkutími,
+    Daylight: Austur-Afríkutími
   },
-  America/Juneau: {
-    Generic: Tími í Alaska,
-    Standard: Staðaltími í Alaska,
-    Daylight: Sumartími í Alaska
+  Africa/Asmera: {
+    Generic: Austur-Afríkutími,
+    Standard: Austur-Afríkutími,
+    Daylight: Austur-Afríkutími
   },
-  America/Metlakatla: {
-    Generic: Tími í Alaska,
-    Standard: Staðaltími í Alaska,
-    Daylight: Sumartími í Alaska
+  Africa/Bamako: {
+    Generic: Greenwich-staðaltími,
+    Standard: Greenwich-staðaltími,
+    Daylight: Greenwich-staðaltími
   },
-  America/Nome: {
-    Generic: Tími í Alaska,
-    Standard: Staðaltími í Alaska,
-    Daylight: Sumartími í Alaska
+  Africa/Bangui: {
+    Generic: Vestur-Afríkutími,
+    Standard: Staðaltími í Vestur-Afríku,
+    Daylight: Sumartími í Vestur-Afríku
   },
-  America/Sitka: {
-    Generic: Tími í Alaska,
-    Standard: Staðaltími í Alaska,
-    Daylight: Sumartími í Alaska
+  Africa/Banjul: {
+    Generic: Greenwich-staðaltími,
+    Standard: Greenwich-staðaltími,
+    Daylight: Greenwich-staðaltími
   },
-  America/Yakutat: {
-    Generic: Tími í Alaska,
-    Standard: Staðaltími í Alaska,
-    Daylight: Sumartími í Alaska
+  Africa/Bissau: {
+    Generic: Greenwich-staðaltími,
+    Standard: Greenwich-staðaltími,
+    Daylight: Greenwich-staðaltími
+  },
+  Africa/Blantyre: {
+    Generic: Mið-Afríkutími,
+    Standard: Mið-Afríkutími,
+    Daylight: Mið-Afríkutími
+  },
+  Africa/Brazzaville: {
+    Generic: Vestur-Afríkutími,
+    Standard: Staðaltími í Vestur-Afríku,
+    Daylight: Sumartími í Vestur-Afríku
+  },
+  Africa/Bujumbura: {
+    Generic: Mið-Afríkutími,
+    Standard: Mið-Afríkutími,
+    Daylight: Mið-Afríkutími
+  },
+  Africa/Cairo: {
+    Generic: Austur-Evróputími,
+    Standard: Staðaltími í Austur-Evrópu,
+    Daylight: Sumartími í Austur-Evrópu
+  },
+  Africa/Casablanca: {
+    Generic: Vestur-Evróputími,
+    Standard: Staðaltími í Vestur-Evrópu,
+    Daylight: Sumartími í Vestur-Evrópu
+  },
+  Africa/Ceuta: {
+    Generic: Mið-Evróputími,
+    Standard: Staðaltími í Mið-Evrópu,
+    Daylight: Sumartími í Mið-Evrópu
+  },
+  Africa/Conakry: {
+    Generic: Greenwich-staðaltími,
+    Standard: Greenwich-staðaltími,
+    Daylight: Greenwich-staðaltími
+  },
+  Africa/Dakar: {
+    Generic: Greenwich-staðaltími,
+    Standard: Greenwich-staðaltími,
+    Daylight: Greenwich-staðaltími
+  },
+  Africa/Dar_es_Salaam: {
+    Generic: Austur-Afríkutími,
+    Standard: Austur-Afríkutími,
+    Daylight: Austur-Afríkutími
+  },
+  Africa/Djibouti: {
+    Generic: Austur-Afríkutími,
+    Standard: Austur-Afríkutími,
+    Daylight: Austur-Afríkutími
+  },
+  Africa/Douala: {
+    Generic: Vestur-Afríkutími,
+    Standard: Staðaltími í Vestur-Afríku,
+    Daylight: Sumartími í Vestur-Afríku
+  },
+  Africa/El_Aaiun: {
+    Generic: Vestur-Evróputími,
+    Standard: Staðaltími í Vestur-Evrópu,
+    Daylight: Sumartími í Vestur-Evrópu
+  },
+  Africa/Freetown: {
+    Generic: Greenwich-staðaltími,
+    Standard: Greenwich-staðaltími,
+    Daylight: Greenwich-staðaltími
+  },
+  Africa/Gaborone: {
+    Generic: Mið-Afríkutími,
+    Standard: Mið-Afríkutími,
+    Daylight: Mið-Afríkutími
+  },
+  Africa/Harare: {
+    Generic: Mið-Afríkutími,
+    Standard: Mið-Afríkutími,
+    Daylight: Mið-Afríkutími
+  },
+  Africa/Johannesburg: {
+    Generic: Suður-Afríkutími,
+    Standard: Suður-Afríkutími,
+    Daylight: Suður-Afríkutími
+  },
+  Africa/Juba: {
+    Generic: Mið-Afríkutími,
+    Standard: Mið-Afríkutími,
+    Daylight: Mið-Afríkutími
+  },
+  Africa/Kampala: {
+    Generic: Austur-Afríkutími,
+    Standard: Austur-Afríkutími,
+    Daylight: Austur-Afríkutími
+  },
+  Africa/Khartoum: {
+    Generic: Mið-Afríkutími,
+    Standard: Mið-Afríkutími,
+    Daylight: Mið-Afríkutími
+  },
+  Africa/Kigali: {
+    Generic: Mið-Afríkutími,
+    Standard: Mið-Afríkutími,
+    Daylight: Mið-Afríkutími
+  },
+  Africa/Kinshasa: {
+    Generic: Vestur-Afríkutími,
+    Standard: Staðaltími í Vestur-Afríku,
+    Daylight: Sumartími í Vestur-Afríku
+  },
+  Africa/Lagos: {
+    Generic: Vestur-Afríkutími,
+    Standard: Staðaltími í Vestur-Afríku,
+    Daylight: Sumartími í Vestur-Afríku
+  },
+  Africa/Libreville: {
+    Generic: Vestur-Afríkutími,
+    Standard: Staðaltími í Vestur-Afríku,
+    Daylight: Sumartími í Vestur-Afríku
+  },
+  Africa/Lome: {
+    Generic: Greenwich-staðaltími,
+    Standard: Greenwich-staðaltími,
+    Daylight: Greenwich-staðaltími
+  },
+  Africa/Luanda: {
+    Generic: Vestur-Afríkutími,
+    Standard: Staðaltími í Vestur-Afríku,
+    Daylight: Sumartími í Vestur-Afríku
+  },
+  Africa/Lubumbashi: {
+    Generic: Mið-Afríkutími,
+    Standard: Mið-Afríkutími,
+    Daylight: Mið-Afríkutími
+  },
+  Africa/Lusaka: {
+    Generic: Mið-Afríkutími,
+    Standard: Mið-Afríkutími,
+    Daylight: Mið-Afríkutími
+  },
+  Africa/Malabo: {
+    Generic: Vestur-Afríkutími,
+    Standard: Staðaltími í Vestur-Afríku,
+    Daylight: Sumartími í Vestur-Afríku
+  },
+  Africa/Maputo: {
+    Generic: Mið-Afríkutími,
+    Standard: Mið-Afríkutími,
+    Daylight: Mið-Afríkutími
+  },
+  Africa/Maseru: {
+    Generic: Suður-Afríkutími,
+    Standard: Suður-Afríkutími,
+    Daylight: Suður-Afríkutími
+  },
+  Africa/Mbabane: {
+    Generic: Suður-Afríkutími,
+    Standard: Suður-Afríkutími,
+    Daylight: Suður-Afríkutími
+  },
+  Africa/Mogadishu: {
+    Generic: Austur-Afríkutími,
+    Standard: Austur-Afríkutími,
+    Daylight: Austur-Afríkutími
+  },
+  Africa/Monrovia: {
+    Generic: Greenwich-staðaltími,
+    Standard: Greenwich-staðaltími,
+    Daylight: Greenwich-staðaltími
+  },
+  Africa/Nairobi: {
+    Generic: Austur-Afríkutími,
+    Standard: Austur-Afríkutími,
+    Daylight: Austur-Afríkutími
+  },
+  Africa/Ndjamena: {
+    Generic: Vestur-Afríkutími,
+    Standard: Staðaltími í Vestur-Afríku,
+    Daylight: Sumartími í Vestur-Afríku
+  },
+  Africa/Niamey: {
+    Generic: Vestur-Afríkutími,
+    Standard: Staðaltími í Vestur-Afríku,
+    Daylight: Sumartími í Vestur-Afríku
+  },
+  Africa/Nouakchott: {
+    Generic: Greenwich-staðaltími,
+    Standard: Greenwich-staðaltími,
+    Daylight: Greenwich-staðaltími
+  },
+  Africa/Ouagadougou: {
+    Generic: Greenwich-staðaltími,
+    Standard: Greenwich-staðaltími,
+    Daylight: Greenwich-staðaltími
+  },
+  Africa/Porto-Novo: {
+    Generic: Vestur-Afríkutími,
+    Standard: Staðaltími í Vestur-Afríku,
+    Daylight: Sumartími í Vestur-Afríku
+  },
+  Africa/Sao_Tome: {
+    Generic: Greenwich-staðaltími,
+    Standard: Greenwich-staðaltími,
+    Daylight: Greenwich-staðaltími
+  },
+  Africa/Timbuktu: {
+    Generic: Greenwich-staðaltími,
+    Standard: Greenwich-staðaltími,
+    Daylight: Greenwich-staðaltími
+  },
+  Africa/Tripoli: {
+    Generic: Austur-Evróputími,
+    Standard: Staðaltími í Austur-Evrópu,
+    Daylight: Sumartími í Austur-Evrópu
+  },
+  Africa/Tunis: {
+    Generic: Mið-Evróputími,
+    Standard: Staðaltími í Mið-Evrópu,
+    Daylight: Sumartími í Mið-Evrópu
+  },
+  Africa/Windhoek: {
+    Generic: Mið-Afríkutími,
+    Standard: Mið-Afríkutími,
+    Daylight: Mið-Afríkutími
   },
   America/Adak: {
     Generic: Tími á Havaí og Aleúta,
     Standard: Staðaltími á Havaí og Aleúta,
     Daylight: Sumartími á Havaí og Aleúta
   },
-  Asia/Barnaul: {
-    Generic: Barnaul,
-    Standard: Barnaul (staðaltími),
-    Daylight: Barnaul (sumartími)
+  America/Anchorage: {
+    Generic: Tími í Alaska,
+    Standard: Staðaltími í Alaska,
+    Daylight: Sumartími í Alaska
   },
-  Asia/Riyadh: {
-    Generic: Arabíutími,
-    Standard: Staðaltími í Arabíu,
-    Daylight: Sumartími í Arabíu
+  America/Anguilla: {
+    Generic: Tími á Atlantshafssvæðinu,
+    Standard: Staðaltími á Atlantshafssvæðinu,
+    Daylight: Sumartími á Atlantshafssvæðinu
   },
-  Asia/Bahrain: {
-    Generic: Arabíutími,
-    Standard: Staðaltími í Arabíu,
-    Daylight: Sumartími í Arabíu
+  America/Antigua: {
+    Generic: Tími á Atlantshafssvæðinu,
+    Standard: Staðaltími á Atlantshafssvæðinu,
+    Daylight: Sumartími á Atlantshafssvæðinu
   },
-  Asia/Kuwait: {
-    Generic: Arabíutími,
-    Standard: Staðaltími í Arabíu,
-    Daylight: Sumartími í Arabíu
+  America/Araguaina: {
+    Generic: Brasilíutími,
+    Standard: Staðaltími í Brasilíu,
+    Daylight: Sumartími í Brasilíu
   },
-  Asia/Qatar: {
-    Generic: Arabíutími,
-    Standard: Staðaltími í Arabíu,
-    Daylight: Sumartími í Arabíu
+  America/Argentina/Buenos_Aires: {
+    Generic: Argentínutími,
+    Standard: Staðaltími í Argentínu,
+    Daylight: Sumartími í Argentínu
   },
-  Asia/Aden: {
-    Generic: Arabíutími,
-    Standard: Staðaltími í Arabíu,
-    Daylight: Sumartími í Arabíu
+  America/Argentina/Catamarca: {
+    Generic: Argentínutími,
+    Standard: Staðaltími í Argentínu,
+    Daylight: Sumartími í Argentínu
   },
-  Asia/Dubai: {
-    Generic: Staðaltími við Persaflóa,
-    Standard: Staðaltími við Persaflóa,
-    Daylight: Staðaltími við Persaflóa
+  America/Argentina/ComodRivadavia: {
+    Generic: Argentínutími,
+    Standard: Staðaltími í Argentínu,
+    Daylight: Sumartími í Argentínu
   },
-  Asia/Muscat: {
-    Generic: Staðaltími við Persaflóa,
-    Standard: Staðaltími við Persaflóa,
-    Daylight: Staðaltími við Persaflóa
+  America/Argentina/Cordoba: {
+    Generic: Argentínutími,
+    Standard: Staðaltími í Argentínu,
+    Daylight: Sumartími í Argentínu
   },
-  Etc/GMT-4: {
-    Generic: Samræmdur alþjóðlegur tími +4,
-    Standard: Samræmdur alþjóðlegur tími +4,
-    Daylight: Samræmdur alþjóðlegur tími +4
-  },
-  Asia/Baghdad: {
-    Generic: Arabíutími,
-    Standard: Staðaltími í Arabíu,
-    Daylight: Sumartími í Arabíu
-  },
-  America/Buenos_Aires: {
+  America/Argentina/Jujuy: {
     Generic: Argentínutími,
     Standard: Staðaltími í Argentínu,
     Daylight: Sumartími í Argentínu
   },
   America/Argentina/La_Rioja: {
+    Generic: Argentínutími,
+    Standard: Staðaltími í Argentínu,
+    Daylight: Sumartími í Argentínu
+  },
+  America/Argentina/Mendoza: {
     Generic: Argentínutími,
     Standard: Staðaltími í Argentínu,
     Daylight: Sumartími í Argentínu
@@ -144,327 +359,432 @@
     Standard: Staðaltími í Argentínu,
     Daylight: Sumartími í Argentínu
   },
-  America/Catamarca: {
-    Generic: Argentínutími,
-    Standard: Staðaltími í Argentínu,
-    Daylight: Sumartími í Argentínu
-  },
-  America/Cordoba: {
-    Generic: Argentínutími,
-    Standard: Staðaltími í Argentínu,
-    Daylight: Sumartími í Argentínu
-  },
-  America/Jujuy: {
-    Generic: Argentínutími,
-    Standard: Staðaltími í Argentínu,
-    Daylight: Sumartími í Argentínu
-  },
-  America/Mendoza: {
-    Generic: Argentínutími,
-    Standard: Staðaltími í Argentínu,
-    Daylight: Sumartími í Argentínu
-  },
-  Europe/Astrakhan: {
-    Generic: Astrakhan,
-    Standard: Astrakhan (staðaltími),
-    Daylight: Astrakhan (sumartími)
-  },
-  Europe/Ulyanovsk: {
-    Generic: Ulyanovsk,
-    Standard: Ulyanovsk (staðaltími),
-    Daylight: Ulyanovsk (sumartími)
-  },
-  America/Halifax: {
+  America/Aruba: {
     Generic: Tími á Atlantshafssvæðinu,
     Standard: Staðaltími á Atlantshafssvæðinu,
     Daylight: Sumartími á Atlantshafssvæðinu
   },
-  Atlantic/Bermuda: {
-    Generic: Tími á Atlantshafssvæðinu,
-    Standard: Staðaltími á Atlantshafssvæðinu,
-    Daylight: Sumartími á Atlantshafssvæðinu
+  America/Asuncion: {
+    Generic: Paragvætími,
+    Standard: Staðaltími í Paragvæ,
+    Daylight: Sumartími í Paragvæ
   },
-  America/Glace_Bay: {
-    Generic: Tími á Atlantshafssvæðinu,
-    Standard: Staðaltími á Atlantshafssvæðinu,
-    Daylight: Sumartími á Atlantshafssvæðinu
+  America/Atikokan: {
+    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
   },
-  America/Goose_Bay: {
-    Generic: Tími á Atlantshafssvæðinu,
-    Standard: Staðaltími á Atlantshafssvæðinu,
-    Daylight: Sumartími á Atlantshafssvæðinu
-  },
-  America/Moncton: {
-    Generic: Tími á Atlantshafssvæðinu,
-    Standard: Staðaltími á Atlantshafssvæðinu,
-    Daylight: Sumartími á Atlantshafssvæðinu
-  },
-  America/Thule: {
-    Generic: Tími á Atlantshafssvæðinu,
-    Standard: Staðaltími á Atlantshafssvæðinu,
-    Daylight: Sumartími á Atlantshafssvæðinu
-  },
-  Australia/Eucla: {
-    Generic: Tími í miðvesturhluta Ástralíu,
-    Standard: Staðaltími í miðvesturhluta Ástralíu,
-    Daylight: Sumartími í miðvesturhluta Ástralíu
-  },
-  Asia/Baku: {
-    Generic: Aserbaídsjantími,
-    Standard: Staðaltími í Aserbaídsjan,
-    Daylight: Sumartími í Aserbaídsjan
-  },
-  Atlantic/Azores: {
-    Generic: Asóreyjatími,
-    Standard: Staðaltími á Asóreyjum,
-    Daylight: Sumartími á Asóreyjum
-  },
-  America/Scoresbysund: {
-    Generic: Austur-Grænlandstími,
-    Standard: Staðaltími á Austur-Grænlandi,
-    Daylight: Sumartími á Austur-Grænlandi
+  America/Atka: {
+    Generic: Tími á Havaí og Aleúta,
+    Standard: Staðaltími á Havaí og Aleúta,
+    Daylight: Sumartími á Havaí og Aleúta
   },
   America/Bahia: {
     Generic: Brasilíutími,
     Standard: Staðaltími í Brasilíu,
     Daylight: Sumartími í Brasilíu
   },
-  Asia/Dhaka: {
-    Generic: Bangladess-tími,
-    Standard: Staðaltími í Bangladess,
-    Daylight: Sumartími í Bangladess
-  },
-  Asia/Thimphu: {
-    Generic: Bútantími,
-    Standard: Bútantími,
-    Daylight: Bútantími
-  },
-  Europe/Minsk: {
-    Generic: Moskvutími,
-    Standard: Staðaltími í Moskvu,
-    Daylight: Sumartími í Moskvu
-  },
-  Pacific/Bougainville: {
-    Generic: Tími á Papúa Nýju-Gíneu,
-    Standard: Tími á Papúa Nýju-Gíneu,
-    Daylight: Tími á Papúa Nýju-Gíneu
-  },
-  America/Regina: {
+  America/Bahia_Banderas: {
     Generic: Tími í miðhluta Bandaríkjanna og Kanada,
     Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
     Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
   },
-  America/Swift_Current: {
-    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
+  America/Barbados: {
+    Generic: Tími á Atlantshafssvæðinu,
+    Standard: Staðaltími á Atlantshafssvæðinu,
+    Daylight: Sumartími á Atlantshafssvæðinu
   },
-  Atlantic/Cape_Verde: {
-    Generic: Grænhöfðaeyjatími,
-    Standard: Staðaltími á Grænhöfðaeyjum,
-    Daylight: Sumartími á Grænhöfðaeyjum
-  },
-  Etc/GMT+1: {
-    Generic: Samræmdur alþjóðlegur tími -1,
-    Standard: Samræmdur alþjóðlegur tími -1,
-    Daylight: Samræmdur alþjóðlegur tími -1
-  },
-  Asia/Yerevan: {
-    Generic: Armeníutími,
-    Standard: Staðaltími í Armeníu,
-    Daylight: Sumartími í Armeníu
-  },
-  Australia/Adelaide: {
-    Generic: Tími í Mið-Ástralíu,
-    Standard: Staðaltími í Mið-Ástralíu,
-    Daylight: Sumartími í Mið-Ástralíu
-  },
-  Australia/Broken_Hill: {
-    Generic: Tími í Mið-Ástralíu,
-    Standard: Staðaltími í Mið-Ástralíu,
-    Daylight: Sumartími í Mið-Ástralíu
-  },
-  America/Guatemala: {
-    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
+  America/Belem: {
+    Generic: Brasilíutími,
+    Standard: Staðaltími í Brasilíu,
+    Daylight: Sumartími í Brasilíu
   },
   America/Belize: {
     Generic: Tími í miðhluta Bandaríkjanna og Kanada,
     Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
     Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
   },
-  America/Costa_Rica: {
-    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
+  America/Blanc-Sablon: {
+    Generic: Tími á Atlantshafssvæðinu,
+    Standard: Staðaltími á Atlantshafssvæðinu,
+    Daylight: Sumartími á Atlantshafssvæðinu
   },
-  Pacific/Galapagos: {
-    Generic: Galapagos-tími,
-    Standard: Galapagos-tími,
-    Daylight: Galapagos-tími
-  },
-  America/Tegucigalpa: {
-    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
-  },
-  America/Managua: {
-    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
-  },
-  America/El_Salvador: {
-    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
-  },
-  Etc/GMT+6: {
-    Generic: Samræmdur alþjóðlegur tími -6,
-    Standard: Samræmdur alþjóðlegur tími -6,
-    Daylight: Samræmdur alþjóðlegur tími -6
-  },
-  Asia/Almaty: {
-    Generic: Tími í Austur-Kasakstan,
-    Standard: Tími í Austur-Kasakstan,
-    Daylight: Tími í Austur-Kasakstan
-  },
-  Antarctica/Vostok: {
-    Generic: Vostok-tími,
-    Standard: Vostok-tími,
-    Daylight: Vostok-tími
-  },
-  Asia/Urumqi: {
-    Generic: Kína,
-    Standard: Kína (staðaltími),
-    Daylight: Kína (sumartími)
-  },
-  Indian/Chagos: {
-    Generic: Indlandshafstími,
-    Standard: Indlandshafstími,
-    Daylight: Indlandshafstími
-  },
-  Asia/Bishkek: {
-    Generic: Kirgistan-tími,
-    Standard: Kirgistan-tími,
-    Daylight: Kirgistan-tími
-  },
-  Asia/Qostanay: {
-    Generic: Tími í Austur-Kasakstan,
-    Standard: Tími í Austur-Kasakstan,
-    Daylight: Tími í Austur-Kasakstan
-  },
-  Etc/GMT-6: {
-    Generic: Samræmdur alþjóðlegur tími +6,
-    Standard: Samræmdur alþjóðlegur tími +6,
-    Daylight: Samræmdur alþjóðlegur tími +6
-  },
-  America/Cuiaba: {
+  America/Boa_Vista: {
     Generic: Amasóntími,
     Standard: Staðaltími á Amasónsvæðinu,
     Daylight: Sumartími á Amasónsvæðinu
+  },
+  America/Bogota: {
+    Generic: Kólumbíutími,
+    Standard: Staðaltími í Kólumbíu,
+    Daylight: Sumartími í Kólumbíu
+  },
+  America/Boise: {
+    Generic: Tími í Klettafjöllum,
+    Standard: Staðaltími í Klettafjöllum,
+    Daylight: Sumartími í Klettafjöllum
+  },
+  America/Buenos_Aires: {
+    Generic: Argentínutími,
+    Standard: Staðaltími í Argentínu,
+    Daylight: Sumartími í Argentínu
+  },
+  America/Cambridge_Bay: {
+    Generic: Tími í Klettafjöllum,
+    Standard: Staðaltími í Klettafjöllum,
+    Daylight: Sumartími í Klettafjöllum
   },
   America/Campo_Grande: {
     Generic: Amasóntími,
     Standard: Staðaltími á Amasónsvæðinu,
     Daylight: Sumartími á Amasónsvæðinu
   },
-  Europe/Budapest: {
-    Generic: Mið-Evróputími,
-    Standard: Staðaltími í Mið-Evrópu,
-    Daylight: Sumartími í Mið-Evrópu
+  America/Cancun: {
+    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
   },
-  Europe/Tirane: {
-    Generic: Mið-Evróputími,
-    Standard: Staðaltími í Mið-Evrópu,
-    Daylight: Sumartími í Mið-Evrópu
+  America/Caracas: {
+    Generic: Venesúelatími,
+    Standard: Venesúelatími,
+    Daylight: Venesúelatími
   },
-  Europe/Prague: {
-    Generic: Mið-Evróputími,
-    Standard: Staðaltími í Mið-Evrópu,
-    Daylight: Sumartími í Mið-Evrópu
+  America/Catamarca: {
+    Generic: Argentínutími,
+    Standard: Staðaltími í Argentínu,
+    Daylight: Sumartími í Argentínu
   },
-  Europe/Podgorica: {
-    Generic: Mið-Evróputími,
-    Standard: Staðaltími í Mið-Evrópu,
-    Daylight: Sumartími í Mið-Evrópu
+  America/Cayenne: {
+    Generic: Tími í Frönsku Gvæjana,
+    Standard: Tími í Frönsku Gvæjana,
+    Daylight: Tími í Frönsku Gvæjana
   },
-  Europe/Belgrade: {
-    Generic: Mið-Evróputími,
-    Standard: Staðaltími í Mið-Evrópu,
-    Daylight: Sumartími í Mið-Evrópu
+  America/Cayman: {
+    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
   },
-  Europe/Ljubljana: {
-    Generic: Mið-Evróputími,
-    Standard: Staðaltími í Mið-Evrópu,
-    Daylight: Sumartími í Mið-Evrópu
-  },
-  Europe/Bratislava: {
-    Generic: Mið-Evróputími,
-    Standard: Staðaltími í Mið-Evrópu,
-    Daylight: Sumartími í Mið-Evrópu
-  },
-  Europe/Warsaw: {
-    Generic: Mið-Evróputími,
-    Standard: Staðaltími í Mið-Evrópu,
-    Daylight: Sumartími í Mið-Evrópu
-  },
-  Europe/Sarajevo: {
-    Generic: Mið-Evróputími,
-    Standard: Staðaltími í Mið-Evrópu,
-    Daylight: Sumartími í Mið-Evrópu
-  },
-  Europe/Zagreb: {
-    Generic: Mið-Evróputími,
-    Standard: Staðaltími í Mið-Evrópu,
-    Daylight: Sumartími í Mið-Evrópu
-  },
-  Europe/Skopje: {
-    Generic: Mið-Evróputími,
-    Standard: Staðaltími í Mið-Evrópu,
-    Daylight: Sumartími í Mið-Evrópu
-  },
-  Pacific/Guadalcanal: {
-    Generic: Salómonseyjatími,
-    Standard: Salómonseyjatími,
-    Daylight: Salómonseyjatími
-  },
-  Antarctica/Casey: {
-    Generic: Suðurskautslandið,
-    Standard: Suðurskautslandið (staðaltími),
-    Daylight: Suðurskautslandið (sumartími)
-  },
-  Pacific/Ponape: {
-    Generic: Ponape-tími,
-    Standard: Ponape-tími,
-    Daylight: Ponape-tími
-  },
-  Pacific/Kosrae: {
-    Generic: Kosrae-tími,
-    Standard: Kosrae-tími,
-    Daylight: Kosrae-tími
-  },
-  Pacific/Noumea: {
-    Generic: Tími í Nýju-Kaledóníu,
-    Standard: Staðaltími í Nýju-Kaledóníu,
-    Daylight: Sumartími í Nýju-Kaledóníu
-  },
-  Pacific/Efate: {
-    Generic: Vanúatú-tími,
-    Standard: Staðaltími á Vanúatú,
-    Daylight: Sumartími á Vanúatú
-  },
-  Etc/GMT-11: {
-    Generic: Samræmdur alþjóðlegur tími +11,
-    Standard: Samræmdur alþjóðlegur tími +11,
-    Daylight: Samræmdur alþjóðlegur tími +11
-  },
-  America/Mexico_City: {
+  America/Chicago: {
     Generic: Tími í miðhluta Bandaríkjanna og Kanada,
     Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
     Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
   },
-  America/Bahia_Banderas: {
+  America/Chihuahua: {
+    Generic: Kyrrahafstími í Mexíkó,
+    Standard: Staðaltími í Mexíkó á Kyrrahafssvæðinu,
+    Daylight: Sumartími í Mexíkó á Kyrrahafssvæðinu
+  },
+  America/Coral_Harbour: {
+    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
+  },
+  America/Cordoba: {
+    Generic: Argentínutími,
+    Standard: Staðaltími í Argentínu,
+    Daylight: Sumartími í Argentínu
+  },
+  America/Costa_Rica: {
+    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
+  },
+  America/Creston: {
+    Generic: Tími í Klettafjöllum,
+    Standard: Staðaltími í Klettafjöllum,
+    Daylight: Sumartími í Klettafjöllum
+  },
+  America/Cuiaba: {
+    Generic: Amasóntími,
+    Standard: Staðaltími á Amasónsvæðinu,
+    Daylight: Sumartími á Amasónsvæðinu
+  },
+  America/Curacao: {
+    Generic: Tími á Atlantshafssvæðinu,
+    Standard: Staðaltími á Atlantshafssvæðinu,
+    Daylight: Sumartími á Atlantshafssvæðinu
+  },
+  America/Danmarkshavn: {
+    Generic: Greenwich-staðaltími,
+    Standard: Greenwich-staðaltími,
+    Daylight: Greenwich-staðaltími
+  },
+  America/Dawson: {
+    Generic: Tími í Júkon,
+    Standard: Tími í Júkon,
+    Daylight: Tími í Júkon
+  },
+  America/Dawson_Creek: {
+    Generic: Tími í Klettafjöllum,
+    Standard: Staðaltími í Klettafjöllum,
+    Daylight: Sumartími í Klettafjöllum
+  },
+  America/Denver: {
+    Generic: Tími í Klettafjöllum,
+    Standard: Staðaltími í Klettafjöllum,
+    Daylight: Sumartími í Klettafjöllum
+  },
+  America/Detroit: {
+    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
+  },
+  America/Dominica: {
+    Generic: Tími á Atlantshafssvæðinu,
+    Standard: Staðaltími á Atlantshafssvæðinu,
+    Daylight: Sumartími á Atlantshafssvæðinu
+  },
+  America/Edmonton: {
+    Generic: Tími í Klettafjöllum,
+    Standard: Staðaltími í Klettafjöllum,
+    Daylight: Sumartími í Klettafjöllum
+  },
+  America/Eirunepe: {
+    Generic: Brasilía,
+    Standard: Brasilía (staðaltími),
+    Daylight: Brasilía (sumartími)
+  },
+  America/El_Salvador: {
+    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
+  },
+  America/Ensenada: {
+    Generic: Tími á Kyrrahafssvæðinu,
+    Standard: Staðaltími á Kyrrahafssvæðinu,
+    Daylight: Sumartími á Kyrrahafssvæðinu
+  },
+  America/Fort_Nelson: {
+    Generic: Tími í Klettafjöllum,
+    Standard: Staðaltími í Klettafjöllum,
+    Daylight: Sumartími í Klettafjöllum
+  },
+  America/Fort_Wayne: {
+    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
+  },
+  America/Fortaleza: {
+    Generic: Brasilíutími,
+    Standard: Staðaltími í Brasilíu,
+    Daylight: Sumartími í Brasilíu
+  },
+  America/Glace_Bay: {
+    Generic: Tími á Atlantshafssvæðinu,
+    Standard: Staðaltími á Atlantshafssvæðinu,
+    Daylight: Sumartími á Atlantshafssvæðinu
+  },
+  America/Godthab: {
+    Generic: Vestur-Grænlandstími,
+    Standard: Staðaltími á Vestur-Grænlandi,
+    Daylight: Sumartími á Vestur-Grænlandi
+  },
+  America/Goose_Bay: {
+    Generic: Tími á Atlantshafssvæðinu,
+    Standard: Staðaltími á Atlantshafssvæðinu,
+    Daylight: Sumartími á Atlantshafssvæðinu
+  },
+  America/Grand_Turk: {
+    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
+  },
+  America/Grenada: {
+    Generic: Tími á Atlantshafssvæðinu,
+    Standard: Staðaltími á Atlantshafssvæðinu,
+    Daylight: Sumartími á Atlantshafssvæðinu
+  },
+  America/Guadeloupe: {
+    Generic: Tími á Atlantshafssvæðinu,
+    Standard: Staðaltími á Atlantshafssvæðinu,
+    Daylight: Sumartími á Atlantshafssvæðinu
+  },
+  America/Guatemala: {
+    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
+  },
+  America/Guayaquil: {
+    Generic: Ekvadortími,
+    Standard: Ekvadortími,
+    Daylight: Ekvadortími
+  },
+  America/Guyana: {
+    Generic: Gvæjanatími,
+    Standard: Gvæjanatími,
+    Daylight: Gvæjanatími
+  },
+  America/Halifax: {
+    Generic: Tími á Atlantshafssvæðinu,
+    Standard: Staðaltími á Atlantshafssvæðinu,
+    Daylight: Sumartími á Atlantshafssvæðinu
+  },
+  America/Havana: {
+    Generic: Kúbutími,
+    Standard: Staðaltími á Kúbu,
+    Daylight: Sumartími á Kúbu
+  },
+  America/Hermosillo: {
+    Generic: Kyrrahafstími í Mexíkó,
+    Standard: Staðaltími í Mexíkó á Kyrrahafssvæðinu,
+    Daylight: Sumartími í Mexíkó á Kyrrahafssvæðinu
+  },
+  America/Indiana/Indianapolis: {
+    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
+  },
+  America/Indiana/Knox: {
+    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
+  },
+  America/Indiana/Marengo: {
+    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
+  },
+  America/Indiana/Petersburg: {
+    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
+  },
+  America/Indiana/Tell_City: {
+    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
+  },
+  America/Indiana/Vevay: {
+    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
+  },
+  America/Indiana/Vincennes: {
+    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
+  },
+  America/Indiana/Winamac: {
+    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
+  },
+  America/Indianapolis: {
+    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
+  },
+  America/Inuvik: {
+    Generic: Tími í Klettafjöllum,
+    Standard: Staðaltími í Klettafjöllum,
+    Daylight: Sumartími í Klettafjöllum
+  },
+  America/Iqaluit: {
+    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
+  },
+  America/Jamaica: {
+    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
+  },
+  America/Jujuy: {
+    Generic: Argentínutími,
+    Standard: Staðaltími í Argentínu,
+    Daylight: Sumartími í Argentínu
+  },
+  America/Juneau: {
+    Generic: Tími í Alaska,
+    Standard: Staðaltími í Alaska,
+    Daylight: Sumartími í Alaska
+  },
+  America/Kentucky/Louisville: {
+    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
+  },
+  America/Kentucky/Monticello: {
+    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
+  },
+  America/Knox_IN: {
+    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
+  },
+  America/Kralendijk: {
+    Generic: Tími á Atlantshafssvæðinu,
+    Standard: Staðaltími á Atlantshafssvæðinu,
+    Daylight: Sumartími á Atlantshafssvæðinu
+  },
+  America/La_Paz: {
+    Generic: Bólivíutími,
+    Standard: Bólivíutími,
+    Daylight: Bólivíutími
+  },
+  America/Lima: {
+    Generic: Perútími,
+    Standard: Staðaltími í Perú,
+    Daylight: Sumartími í Perú
+  },
+  America/Los_Angeles: {
+    Generic: Tími á Kyrrahafssvæðinu,
+    Standard: Staðaltími á Kyrrahafssvæðinu,
+    Daylight: Sumartími á Kyrrahafssvæðinu
+  },
+  America/Louisville: {
+    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
+  },
+  America/Lower_Princes: {
+    Generic: Tími á Atlantshafssvæðinu,
+    Standard: Staðaltími á Atlantshafssvæðinu,
+    Daylight: Sumartími á Atlantshafssvæðinu
+  },
+  America/Maceio: {
+    Generic: Brasilíutími,
+    Standard: Staðaltími í Brasilíu,
+    Daylight: Sumartími í Brasilíu
+  },
+  America/Managua: {
+    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
+  },
+  America/Manaus: {
+    Generic: Amasóntími,
+    Standard: Staðaltími á Amasónsvæðinu,
+    Daylight: Sumartími á Amasónsvæðinu
+  },
+  America/Marigot: {
+    Generic: Tími á Atlantshafssvæðinu,
+    Standard: Staðaltími á Atlantshafssvæðinu,
+    Daylight: Sumartími á Atlantshafssvæðinu
+  },
+  America/Martinique: {
+    Generic: Tími á Atlantshafssvæðinu,
+    Standard: Staðaltími á Atlantshafssvæðinu,
+    Daylight: Sumartími á Atlantshafssvæðinu
+  },
+  America/Matamoros: {
+    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
+  },
+  America/Mazatlan: {
+    Generic: Kyrrahafstími í Mexíkó,
+    Standard: Staðaltími í Mexíkó á Kyrrahafssvæðinu,
+    Daylight: Sumartími í Mexíkó á Kyrrahafssvæðinu
+  },
+  America/Mendoza: {
+    Generic: Argentínutími,
+    Standard: Staðaltími í Argentínu,
+    Daylight: Sumartími í Argentínu
+  },
+  America/Menominee: {
     Generic: Tími í miðhluta Bandaríkjanna og Kanada,
     Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
     Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
@@ -474,55 +794,70 @@
     Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
     Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
   },
+  America/Metlakatla: {
+    Generic: Tími í Alaska,
+    Standard: Staðaltími í Alaska,
+    Daylight: Sumartími í Alaska
+  },
+  America/Mexico_City: {
+    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
+  },
+  America/Miquelon: {
+    Generic: Tími á Sankti Pierre og Miquelon,
+    Standard: Staðaltími á Sankti Pierre og Miquelon,
+    Daylight: Sumartími á Sankti Pierre og Miquelon
+  },
+  America/Moncton: {
+    Generic: Tími á Atlantshafssvæðinu,
+    Standard: Staðaltími á Atlantshafssvæðinu,
+    Daylight: Sumartími á Atlantshafssvæðinu
+  },
   America/Monterrey: {
     Generic: Tími í miðhluta Bandaríkjanna og Kanada,
     Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
     Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
   },
-  America/Chicago: {
-    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
+  America/Montevideo: {
+    Generic: Úrúgvætími,
+    Standard: Staðaltími í Úrúgvæ,
+    Daylight: Sumartími í Úrúgvæ
   },
-  America/Winnipeg: {
-    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
+  America/Montreal: {
+    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
   },
-  America/Rainy_River: {
-    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
+  America/Montserrat: {
+    Generic: Tími á Atlantshafssvæðinu,
+    Standard: Staðaltími á Atlantshafssvæðinu,
+    Daylight: Sumartími á Atlantshafssvæðinu
   },
-  America/Rankin_Inlet: {
-    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
+  America/Nassau: {
+    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
   },
-  America/Resolute: {
-    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
+  America/New_York: {
+    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
   },
-  America/Matamoros: {
-    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
+  America/Nipigon: {
+    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
   },
-  America/Indiana/Knox: {
-    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
+  America/Nome: {
+    Generic: Tími í Alaska,
+    Standard: Staðaltími í Alaska,
+    Daylight: Sumartími í Alaska
   },
-  America/Indiana/Tell_City: {
-    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
-  },
-  America/Menominee: {
-    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
+  America/Noronha: {
+    Generic: Tími í Fernando de Noronha,
+    Standard: Staðaltími í Fernando de Noronha,
+    Daylight: Sumartími í Fernando de Noronha
   },
   America/North_Dakota/Beulah: {
     Generic: Tími í miðhluta Bandaríkjanna og Kanada,
@@ -539,157 +874,17 @@
     Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
     Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
   },
-  CST6CDT: {
-    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
+  America/Nuuk: {
+    Generic: Vestur-Grænlandstími,
+    Standard: Staðaltími á Vestur-Grænlandi,
+    Daylight: Sumartími á Vestur-Grænlandi
   },
-  Pacific/Chatham: {
-    Generic: Chatham-tími,
-    Standard: Staðaltími í Chatham,
-    Daylight: Sumartími í Chatham
+  America/Ojinaga: {
+    Generic: Tími í Klettafjöllum,
+    Standard: Staðaltími í Klettafjöllum,
+    Daylight: Sumartími í Klettafjöllum
   },
-  Asia/Shanghai: {
-    Generic: Kínatími,
-    Standard: Staðaltími í Kína,
-    Daylight: Sumartími í Kína
-  },
-  Asia/Hong_Kong: {
-    Generic: Hong Kong-tími,
-    Standard: Staðaltími í Hong Kong,
-    Daylight: Sumartími í Hong Kong
-  },
-  Asia/Macau: {
-    Generic: Kínatími,
-    Standard: Staðaltími í Kína,
-    Daylight: Sumartími í Kína
-  },
-  America/Havana: {
-    Generic: Kúbutími,
-    Standard: Staðaltími á Kúbu,
-    Daylight: Sumartími á Kúbu
-  },
-  Etc/GMT+12: {
-    Generic: Samræmdur alþjóðlegur tími -12,
-    Standard: Samræmdur alþjóðlegur tími -12,
-    Daylight: Samræmdur alþjóðlegur tími -12
-  },
-  Africa/Nairobi: {
-    Generic: Austur-Afríkutími,
-    Standard: Austur-Afríkutími,
-    Daylight: Austur-Afríkutími
-  },
-  Antarctica/Syowa: {
-    Generic: Syowa-tími,
-    Standard: Syowa-tími,
-    Daylight: Syowa-tími
-  },
-  Africa/Djibouti: {
-    Generic: Austur-Afríkutími,
-    Standard: Austur-Afríkutími,
-    Daylight: Austur-Afríkutími
-  },
-  Africa/Asmera: {
-    Generic: Austur-Afríkutími,
-    Standard: Austur-Afríkutími,
-    Daylight: Austur-Afríkutími
-  },
-  Africa/Addis_Ababa: {
-    Generic: Austur-Afríkutími,
-    Standard: Austur-Afríkutími,
-    Daylight: Austur-Afríkutími
-  },
-  Indian/Comoro: {
-    Generic: Austur-Afríkutími,
-    Standard: Austur-Afríkutími,
-    Daylight: Austur-Afríkutími
-  },
-  Indian/Antananarivo: {
-    Generic: Austur-Afríkutími,
-    Standard: Austur-Afríkutími,
-    Daylight: Austur-Afríkutími
-  },
-  Africa/Mogadishu: {
-    Generic: Austur-Afríkutími,
-    Standard: Austur-Afríkutími,
-    Daylight: Austur-Afríkutími
-  },
-  Africa/Dar_es_Salaam: {
-    Generic: Austur-Afríkutími,
-    Standard: Austur-Afríkutími,
-    Daylight: Austur-Afríkutími
-  },
-  Africa/Kampala: {
-    Generic: Austur-Afríkutími,
-    Standard: Austur-Afríkutími,
-    Daylight: Austur-Afríkutími
-  },
-  Indian/Mayotte: {
-    Generic: Austur-Afríkutími,
-    Standard: Austur-Afríkutími,
-    Daylight: Austur-Afríkutími
-  },
-  Etc/GMT-3: {
-    Generic: Samræmdur alþjóðlegur tími +3,
-    Standard: Samræmdur alþjóðlegur tími +3,
-    Daylight: Samræmdur alþjóðlegur tími +3
-  },
-  Australia/Brisbane: {
-    Generic: Tími í Austur-Ástralíu,
-    Standard: Staðaltími í Austur-Ástralíu,
-    Daylight: Sumartími í Austur-Ástralíu
-  },
-  Australia/Lindeman: {
-    Generic: Tími í Austur-Ástralíu,
-    Standard: Staðaltími í Austur-Ástralíu,
-    Daylight: Sumartími í Austur-Ástralíu
-  },
-  Europe/Chisinau: {
-    Generic: Austur-Evróputími,
-    Standard: Staðaltími í Austur-Evrópu,
-    Daylight: Sumartími í Austur-Evrópu
-  },
-  America/Sao_Paulo: {
-    Generic: Brasilíutími,
-    Standard: Staðaltími í Brasilíu,
-    Daylight: Sumartími í Brasilíu
-  },
-  Pacific/Easter: {
-    Generic: Páskaeyjutími,
-    Standard: Staðaltími á Páskaeyju,
-    Daylight: Sumartími á Páskaeyju
-  },
-  America/Cancun: {
-    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
-  },
-  America/New_York: {
-    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
-  },
-  America/Nassau: {
-    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
-  },
-  America/Toronto: {
-    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
-  },
-  America/Iqaluit: {
-    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
-  },
-  America/Montreal: {
-    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
-  },
-  America/Nipigon: {
+  America/Panama: {
     Generic: Tími í austurhluta Bandaríkjanna og Kanada,
     Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
     Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
@@ -699,800 +894,130 @@
     Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
     Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
   },
-  America/Thunder_Bay: {
-    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
+  America/Paramaribo: {
+    Generic: Súrinamtími,
+    Standard: Súrinamtími,
+    Daylight: Súrinamtími
   },
-  America/Detroit: {
-    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
-  },
-  America/Indiana/Petersburg: {
-    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
-  },
-  America/Indiana/Vincennes: {
-    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
-  },
-  America/Indiana/Winamac: {
-    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
-  },
-  America/Kentucky/Monticello: {
-    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
-  },
-  America/Louisville: {
-    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
-  },
-  EST5EDT: {
-    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
-  },
-  Africa/Cairo: {
-    Generic: Austur-Evróputími,
-    Standard: Staðaltími í Austur-Evrópu,
-    Daylight: Sumartími í Austur-Evrópu
-  },
-  Asia/Yekaterinburg: {
-    Generic: Yekaterinburg,
-    Standard: Yekaterinburg (staðaltími),
-    Daylight: Yekaterinburg (sumartími)
-  },
-  Europe/Kiev: {
-    Generic: Austur-Evróputími,
-    Standard: Staðaltími í Austur-Evrópu,
-    Daylight: Sumartími í Austur-Evrópu
-  },
-  Europe/Mariehamn: {
-    Generic: Austur-Evróputími,
-    Standard: Staðaltími í Austur-Evrópu,
-    Daylight: Sumartími í Austur-Evrópu
-  },
-  Europe/Sofia: {
-    Generic: Austur-Evróputími,
-    Standard: Staðaltími í Austur-Evrópu,
-    Daylight: Sumartími í Austur-Evrópu
-  },
-  Europe/Tallinn: {
-    Generic: Austur-Evróputími,
-    Standard: Staðaltími í Austur-Evrópu,
-    Daylight: Sumartími í Austur-Evrópu
-  },
-  Europe/Helsinki: {
-    Generic: Austur-Evróputími,
-    Standard: Staðaltími í Austur-Evrópu,
-    Daylight: Sumartími í Austur-Evrópu
-  },
-  Europe/Vilnius: {
-    Generic: Austur-Evróputími,
-    Standard: Staðaltími í Austur-Evrópu,
-    Daylight: Sumartími í Austur-Evrópu
-  },
-  Europe/Riga: {
-    Generic: Austur-Evróputími,
-    Standard: Staðaltími í Austur-Evrópu,
-    Daylight: Sumartími í Austur-Evrópu
-  },
-  Europe/Uzhgorod: {
-    Generic: Austur-Evróputími,
-    Standard: Staðaltími í Austur-Evrópu,
-    Daylight: Sumartími í Austur-Evrópu
-  },
-  Europe/Zaporozhye: {
-    Generic: Austur-Evróputími,
-    Standard: Staðaltími í Austur-Evrópu,
-    Daylight: Sumartími í Austur-Evrópu
-  },
-  Pacific/Fiji: {
-    Generic: Fídjíeyjatími,
-    Standard: Staðaltími á Fídjíeyjum,
-    Daylight: Sumartími á Fídjíeyjum
-  },
-  Europe/London: {
-    Generic: Bretland,
-    Standard: Greenwich-staðaltími,
-    Daylight: Sumartími í Bretlandi
-  },
-  Atlantic/Canary: {
-    Generic: Vestur-Evróputími,
-    Standard: Staðaltími í Vestur-Evrópu,
-    Daylight: Sumartími í Vestur-Evrópu
-  },
-  Atlantic/Faeroe: {
-    Generic: Vestur-Evróputími,
-    Standard: Staðaltími í Vestur-Evrópu,
-    Daylight: Sumartími í Vestur-Evrópu
-  },
-  Europe/Guernsey: {
-    Generic: Greenwich-staðaltími,
-    Standard: Greenwich-staðaltími,
-    Daylight: Greenwich-staðaltími
-  },
-  Europe/Dublin: {
-    Generic: Írland,
-    Standard: Greenwich-staðaltími,
-    Daylight: Sumartími á Írlandi
-  },
-  Europe/Isle_of_Man: {
-    Generic: Greenwich-staðaltími,
-    Standard: Greenwich-staðaltími,
-    Daylight: Greenwich-staðaltími
-  },
-  Europe/Jersey: {
-    Generic: Greenwich-staðaltími,
-    Standard: Greenwich-staðaltími,
-    Daylight: Greenwich-staðaltími
-  },
-  Europe/Lisbon: {
-    Generic: Vestur-Evróputími,
-    Standard: Staðaltími í Vestur-Evrópu,
-    Daylight: Sumartími í Vestur-Evrópu
-  },
-  Atlantic/Madeira: {
-    Generic: Vestur-Evróputími,
-    Standard: Staðaltími í Vestur-Evrópu,
-    Daylight: Sumartími í Vestur-Evrópu
-  },
-  Europe/Bucharest: {
-    Generic: Austur-Evróputími,
-    Standard: Staðaltími í Austur-Evrópu,
-    Daylight: Sumartími í Austur-Evrópu
-  },
-  Asia/Nicosia: {
-    Generic: Austur-Evróputími,
-    Standard: Staðaltími í Austur-Evrópu,
-    Daylight: Sumartími í Austur-Evrópu
-  },
-  Asia/Famagusta: {
-    Generic: Austur-Evróputími,
-    Standard: Staðaltími í Austur-Evrópu,
-    Daylight: Sumartími í Austur-Evrópu
-  },
-  Europe/Athens: {
-    Generic: Austur-Evróputími,
-    Standard: Staðaltími í Austur-Evrópu,
-    Daylight: Sumartími í Austur-Evrópu
-  },
-  Asia/Tbilisi: {
-    Generic: Georgíutími,
-    Standard: Staðaltími í Georgíu,
-    Daylight: Sumartími í Georgíu
-  },
-  America/Godthab: {
-    Generic: Vestur-Grænlandstími,
-    Standard: Staðaltími á Vestur-Grænlandi,
-    Daylight: Sumartími á Vestur-Grænlandi
-  },
-  Atlantic/Reykjavik: {
-    Generic: Greenwich-staðaltími,
-    Standard: Greenwich-staðaltími,
-    Daylight: Greenwich-staðaltími
-  },
-  Atlantic/St_Helena: {
-    Generic: Greenwich-staðaltími,
-    Standard: Greenwich-staðaltími,
-    Daylight: Greenwich-staðaltími
-  },
-  Africa/Ouagadougou: {
-    Generic: Greenwich-staðaltími,
-    Standard: Greenwich-staðaltími,
-    Daylight: Greenwich-staðaltími
-  },
-  Africa/Abidjan: {
-    Generic: Greenwich-staðaltími,
-    Standard: Greenwich-staðaltími,
-    Daylight: Greenwich-staðaltími
-  },
-  Africa/Accra: {
-    Generic: Greenwich-staðaltími,
-    Standard: Greenwich-staðaltími,
-    Daylight: Greenwich-staðaltími
-  },
-  America/Danmarkshavn: {
-    Generic: Greenwich-staðaltími,
-    Standard: Greenwich-staðaltími,
-    Daylight: Greenwich-staðaltími
-  },
-  Africa/Banjul: {
-    Generic: Greenwich-staðaltími,
-    Standard: Greenwich-staðaltími,
-    Daylight: Greenwich-staðaltími
-  },
-  Africa/Conakry: {
-    Generic: Greenwich-staðaltími,
-    Standard: Greenwich-staðaltími,
-    Daylight: Greenwich-staðaltími
-  },
-  Africa/Bissau: {
-    Generic: Greenwich-staðaltími,
-    Standard: Greenwich-staðaltími,
-    Daylight: Greenwich-staðaltími
-  },
-  Africa/Monrovia: {
-    Generic: Greenwich-staðaltími,
-    Standard: Greenwich-staðaltími,
-    Daylight: Greenwich-staðaltími
-  },
-  Africa/Bamako: {
-    Generic: Greenwich-staðaltími,
-    Standard: Greenwich-staðaltími,
-    Daylight: Greenwich-staðaltími
-  },
-  Africa/Nouakchott: {
-    Generic: Greenwich-staðaltími,
-    Standard: Greenwich-staðaltími,
-    Daylight: Greenwich-staðaltími
-  },
-  Africa/Freetown: {
-    Generic: Greenwich-staðaltími,
-    Standard: Greenwich-staðaltími,
-    Daylight: Greenwich-staðaltími
-  },
-  Africa/Dakar: {
-    Generic: Greenwich-staðaltími,
-    Standard: Greenwich-staðaltími,
-    Daylight: Greenwich-staðaltími
-  },
-  Africa/Lome: {
-    Generic: Greenwich-staðaltími,
-    Standard: Greenwich-staðaltími,
-    Daylight: Greenwich-staðaltími
+  America/Phoenix: {
+    Generic: Tími í Klettafjöllum,
+    Standard: Staðaltími í Klettafjöllum,
+    Daylight: Sumartími í Klettafjöllum
   },
   America/Port-au-Prince: {
     Generic: Tími í austurhluta Bandaríkjanna og Kanada,
     Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
     Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
   },
-  Pacific/Honolulu: {
-    Generic: Tími á Havaí og Aleúta,
-    Standard: Staðaltími á Havaí og Aleúta,
-    Daylight: Sumartími á Havaí og Aleúta
-  },
-  Pacific/Rarotonga: {
-    Generic: Cooks-eyjatími,
-    Standard: Staðaltími á Cooks-eyjum,
-    Daylight: Hálfsumartími á Cooks-eyjum
-  },
-  Pacific/Tahiti: {
-    Generic: Tahítí-tími,
-    Standard: Tahítí-tími,
-    Daylight: Tahítí-tími
-  },
-  Pacific/Johnston: {
-    Generic: Tími á Havaí og Aleúta,
-    Standard: Staðaltími á Havaí og Aleúta,
-    Daylight: Sumartími á Havaí og Aleúta
-  },
-  Etc/GMT+10: {
-    Generic: Samræmdur alþjóðlegur tími -10,
-    Standard: Samræmdur alþjóðlegur tími -10,
-    Daylight: Samræmdur alþjóðlegur tími -10
-  },
-  Asia/Calcutta: {
-    Generic: Indlandstími,
-    Standard: Indlandstími,
-    Daylight: Indlandstími
-  },
-  Asia/Tehran: {
-    Generic: Íranstími,
-    Standard: Staðaltími í Íran,
-    Daylight: Sumartími í Íran
-  },
-  Asia/Jerusalem: {
-    Generic: Ísraelstími,
-    Standard: Staðaltími í Ísrael,
-    Daylight: Sumartími í Ísrael
-  },
-  Asia/Amman: {
-    Generic: Austur-Evróputími,
-    Standard: Staðaltími í Austur-Evrópu,
-    Daylight: Sumartími í Austur-Evrópu
-  },
-  Europe/Kaliningrad: {
-    Generic: Kaliningrad,
-    Standard: Kaliningrad (staðaltími),
-    Daylight: Kaliningrad (sumartími)
-  },
-  Asia/Seoul: {
-    Generic: Kóreutími,
-    Standard: Staðaltími í Kóreu,
-    Daylight: Sumartími í Kóreu
-  },
-  Africa/Tripoli: {
-    Generic: Austur-Evróputími,
-    Standard: Staðaltími í Austur-Evrópu,
-    Daylight: Sumartími í Austur-Evrópu
-  },
-  Pacific/Kiritimati: {
-    Generic: Línueyja-tími,
-    Standard: Línueyja-tími,
-    Daylight: Línueyja-tími
-  },
-  Etc/GMT-14: {
-    Generic: Samræmdur alþjóðlegur tími +14,
-    Standard: Samræmdur alþjóðlegur tími +14,
-    Daylight: Samræmdur alþjóðlegur tími +14
-  },
-  Australia/Lord_Howe: {
-    Generic: Tími á Lord Howe-eyju,
-    Standard: Staðaltími á Lord Howe-eyju,
-    Daylight: Sumartími á Lord Howe-eyju
-  },
-  Asia/Magadan: {
-    Generic: Magadan,
-    Standard: Magadan (staðaltími),
-    Daylight: Magadan (sumartími)
-  },
-  America/Punta_Arenas: {
-    Generic: Síletími,
-    Standard: Staðaltími í Síle,
-    Daylight: Sumartími í Síle
-  },
-  Pacific/Marquesas: {
-    Generic: Tími á Markgreifafrúreyjum,
-    Standard: Tími á Markgreifafrúreyjum,
-    Daylight: Tími á Markgreifafrúreyjum
-  },
-  Indian/Mauritius: {
-    Generic: Máritíustími,
-    Standard: Staðaltími á Máritíus,
-    Daylight: Sumartími á Máritíus
-  },
-  Indian/Reunion: {
-    Generic: Réunion-tími,
-    Standard: Réunion-tími,
-    Daylight: Réunion-tími
-  },
-  Indian/Mahe: {
-    Generic: Seychelles-eyjatími,
-    Standard: Seychelles-eyjatími,
-    Daylight: Seychelles-eyjatími
-  },
-  Asia/Beirut: {
-    Generic: Austur-Evróputími,
-    Standard: Staðaltími í Austur-Evrópu,
-    Daylight: Sumartími í Austur-Evrópu
-  },
-  America/Montevideo: {
-    Generic: Úrúgvætími,
-    Standard: Staðaltími í Úrúgvæ,
-    Daylight: Sumartími í Úrúgvæ
-  },
-  Africa/Casablanca: {
-    Generic: Vestur-Evróputími,
-    Standard: Staðaltími í Vestur-Evrópu,
-    Daylight: Sumartími í Vestur-Evrópu
-  },
-  Africa/El_Aaiun: {
-    Generic: Vestur-Evróputími,
-    Standard: Staðaltími í Vestur-Evrópu,
-    Daylight: Sumartími í Vestur-Evrópu
-  },
-  America/Chihuahua: {
-    Generic: Kyrrahafstími í Mexíkó,
-    Standard: Staðaltími í Mexíkó á Kyrrahafssvæðinu,
-    Daylight: Sumartími í Mexíkó á Kyrrahafssvæðinu
-  },
-  America/Mazatlan: {
-    Generic: Kyrrahafstími í Mexíkó,
-    Standard: Staðaltími í Mexíkó á Kyrrahafssvæðinu,
-    Daylight: Sumartími í Mexíkó á Kyrrahafssvæðinu
-  },
-  America/Denver: {
-    Generic: Tími í Klettafjöllum,
-    Standard: Staðaltími í Klettafjöllum,
-    Daylight: Sumartími í Klettafjöllum
-  },
-  America/Edmonton: {
-    Generic: Tími í Klettafjöllum,
-    Standard: Staðaltími í Klettafjöllum,
-    Daylight: Sumartími í Klettafjöllum
-  },
-  America/Cambridge_Bay: {
-    Generic: Tími í Klettafjöllum,
-    Standard: Staðaltími í Klettafjöllum,
-    Daylight: Sumartími í Klettafjöllum
-  },
-  America/Inuvik: {
-    Generic: Tími í Klettafjöllum,
-    Standard: Staðaltími í Klettafjöllum,
-    Daylight: Sumartími í Klettafjöllum
-  },
-  America/Yellowknife: {
-    Generic: Tími í Klettafjöllum,
-    Standard: Staðaltími í Klettafjöllum,
-    Daylight: Sumartími í Klettafjöllum
-  },
-  America/Ojinaga: {
-    Generic: Tími í Klettafjöllum,
-    Standard: Staðaltími í Klettafjöllum,
-    Daylight: Sumartími í Klettafjöllum
-  },
-  America/Boise: {
-    Generic: Tími í Klettafjöllum,
-    Standard: Staðaltími í Klettafjöllum,
-    Daylight: Sumartími í Klettafjöllum
-  },
-  MST7MDT: {
-    Generic: Tími í Klettafjöllum,
-    Standard: Staðaltími í Klettafjöllum,
-    Daylight: Sumartími í Klettafjöllum
-  },
-  Asia/Rangoon: {
-    Generic: Mjanmar-tími,
-    Standard: Mjanmar-tími,
-    Daylight: Mjanmar-tími
-  },
-  Indian/Cocos: {
-    Generic: Kókoseyjatími,
-    Standard: Kókoseyjatími,
-    Daylight: Kókoseyjatími
-  },
-  Asia/Novosibirsk: {
-    Generic: Novosibirsk,
-    Standard: Novosibirsk (staðaltími),
-    Daylight: Novosibirsk (sumartími)
-  },
-  Africa/Windhoek: {
-    Generic: Mið-Afríkutími,
-    Standard: Mið-Afríkutími,
-    Daylight: Mið-Afríkutími
-  },
-  Asia/Katmandu: {
-    Generic: Nepaltími,
-    Standard: Nepaltími,
-    Daylight: Nepaltími
-  },
-  Pacific/Auckland: {
-    Generic: Tími á Nýja-Sjálandi,
-    Standard: Staðaltími á Nýja-Sjálandi,
-    Daylight: Sumartími á Nýja-Sjálandi
-  },
-  Antarctica/McMurdo: {
-    Generic: Tími á Nýja-Sjálandi,
-    Standard: Staðaltími á Nýja-Sjálandi,
-    Daylight: Sumartími á Nýja-Sjálandi
-  },
-  America/St_Johns: {
-    Generic: Tími á Nýfundnalandi,
-    Standard: Staðaltími á Nýfundnalandi,
-    Daylight: Sumartími á Nýfundnalandi
-  },
-  Pacific/Norfolk: {
-    Generic: Tími á Norfolk-eyju,
-    Standard: Staðaltími á Norfolk-eyju,
-    Daylight: Sumartími á Norfolk-eyju
-  },
-  Asia/Irkutsk: {
-    Generic: Irkutsk,
-    Standard: Irkutsk (staðaltími),
-    Daylight: Irkutsk (sumartími)
-  },
-  Asia/Krasnoyarsk: {
-    Generic: Krasnoyarsk,
-    Standard: Krasnoyarsk (staðaltími),
-    Daylight: Krasnoyarsk (sumartími)
-  },
-  Asia/Novokuznetsk: {
-    Generic: Novokuznetsk,
-    Standard: Novokuznetsk (staðaltími),
-    Daylight: Novokuznetsk (sumartími)
-  },
-  Asia/Pyongyang: {
-    Generic: Kóreutími,
-    Standard: Staðaltími í Kóreu,
-    Daylight: Sumartími í Kóreu
-  },
-  Asia/Omsk: {
-    Generic: Omsk,
-    Standard: Omsk (staðaltími),
-    Daylight: Omsk (sumartími)
-  },
-  America/Santiago: {
-    Generic: Síletími,
-    Standard: Staðaltími í Síle,
-    Daylight: Sumartími í Síle
-  },
-  America/Tijuana: {
-    Generic: Tími á Kyrrahafssvæðinu,
-    Standard: Staðaltími á Kyrrahafssvæðinu,
-    Daylight: Sumartími á Kyrrahafssvæðinu
-  },
-  America/Santa_Isabel: {
-    Generic: Tími í Norðvestur-Mexíkó,
-    Standard: Staðaltími í Norðvestur-Mexíkó,
-    Daylight: Sumartími í Norðvestur-Mexíkó
-  },
-  America/Los_Angeles: {
-    Generic: Tími á Kyrrahafssvæðinu,
-    Standard: Staðaltími á Kyrrahafssvæðinu,
-    Daylight: Sumartími á Kyrrahafssvæðinu
-  },
-  America/Vancouver: {
-    Generic: Tími á Kyrrahafssvæðinu,
-    Standard: Staðaltími á Kyrrahafssvæðinu,
-    Daylight: Sumartími á Kyrrahafssvæðinu
-  },
-  PST8PDT: {
-    Generic: Tími á Kyrrahafssvæðinu,
-    Standard: Staðaltími á Kyrrahafssvæðinu,
-    Daylight: Sumartími á Kyrrahafssvæðinu
-  },
-  Asia/Karachi: {
-    Generic: Pakistantími,
-    Standard: Staðaltími í Pakistan,
-    Daylight: Sumartími í Pakistan
-  },
-  America/Asuncion: {
-    Generic: Paragvætími,
-    Standard: Staðaltími í Paragvæ,
-    Daylight: Sumartími í Paragvæ
-  },
-  Asia/Qyzylorda: {
-    Generic: Tími í Vestur-Kasakstan,
-    Standard: Tími í Vestur-Kasakstan,
-    Daylight: Tími í Vestur-Kasakstan
-  },
-  Europe/Paris: {
-    Generic: Mið-Evróputími,
-    Standard: Staðaltími í Mið-Evrópu,
-    Daylight: Sumartími í Mið-Evrópu
-  },
-  Europe/Brussels: {
-    Generic: Mið-Evróputími,
-    Standard: Staðaltími í Mið-Evrópu,
-    Daylight: Sumartími í Mið-Evrópu
-  },
-  Europe/Copenhagen: {
-    Generic: Mið-Evróputími,
-    Standard: Staðaltími í Mið-Evrópu,
-    Daylight: Sumartími í Mið-Evrópu
-  },
-  Africa/Ceuta: {
-    Generic: Mið-Evróputími,
-    Standard: Staðaltími í Mið-Evrópu,
-    Daylight: Sumartími í Mið-Evrópu
-  },
-  Europe/Madrid: {
-    Generic: Mið-Evróputími,
-    Standard: Staðaltími í Mið-Evrópu,
-    Daylight: Sumartími í Mið-Evrópu
-  },
-  Asia/Srednekolymsk: {
-    Generic: Srednekolymsk,
-    Standard: Srednekolymsk (staðaltími),
-    Daylight: Srednekolymsk (sumartími)
-  },
-  Asia/Kamchatka: {
-    Generic: Kamtsjatka,
-    Standard: Kamtsjatka (staðaltími),
-    Daylight: Kamtsjatka (sumartími)
-  },
-  Asia/Anadyr: {
-    Generic: Anadyr,
-    Standard: Anadyr (staðaltími),
-    Daylight: Anadyr (sumartími)
-  },
-  Europe/Samara: {
-    Generic: Samara,
-    Standard: Samara (staðaltími),
-    Daylight: Samara (sumartími)
-  },
-  Europe/Moscow: {
-    Generic: Moskva,
-    Standard: Moskva (staðaltími),
-    Daylight: Moskva (sumartími)
-  },
-  Europe/Kirov: {
-    Generic: Kirov,
-    Standard: Kirov (staðaltími),
-    Daylight: Kirov (sumartími)
-  },
-  Europe/Simferopol: {
-    Generic: Moskvutími,
-    Standard: Staðaltími í Moskvu,
-    Daylight: Sumartími í Moskvu
-  },
-  America/Cayenne: {
-    Generic: Tími í Frönsku Gvæjana,
-    Standard: Tími í Frönsku Gvæjana,
-    Daylight: Tími í Frönsku Gvæjana
-  },
-  Antarctica/Rothera: {
-    Generic: Rothera-tími,
-    Standard: Rothera-tími,
-    Daylight: Rothera-tími
-  },
-  Antarctica/Palmer: {
-    Generic: Síletími,
-    Standard: Staðaltími í Síle,
-    Daylight: Sumartími í Síle
-  },
-  America/Fortaleza: {
-    Generic: Brasilíutími,
-    Standard: Staðaltími í Brasilíu,
-    Daylight: Sumartími í Brasilíu
-  },
-  America/Belem: {
-    Generic: Brasilíutími,
-    Standard: Staðaltími í Brasilíu,
-    Daylight: Sumartími í Brasilíu
-  },
-  America/Maceio: {
-    Generic: Brasilíutími,
-    Standard: Staðaltími í Brasilíu,
-    Daylight: Sumartími í Brasilíu
-  },
-  America/Recife: {
-    Generic: Brasilíutími,
-    Standard: Staðaltími í Brasilíu,
-    Daylight: Sumartími í Brasilíu
-  },
-  America/Santarem: {
-    Generic: Brasilíutími,
-    Standard: Staðaltími í Brasilíu,
-    Daylight: Sumartími í Brasilíu
-  },
-  Atlantic/Stanley: {
-    Generic: Falklandseyjatími,
-    Standard: Staðaltími á Falklandseyjum,
-    Daylight: Sumartími á Falklandseyjum
-  },
-  America/Paramaribo: {
-    Generic: Súrinamtími,
-    Standard: Súrinamtími,
-    Daylight: Súrinamtími
-  },
-  Etc/GMT+3: {
-    Generic: Samræmdur alþjóðlegur tími -3,
-    Standard: Samræmdur alþjóðlegur tími -3,
-    Daylight: Samræmdur alþjóðlegur tími -3
-  },
-  America/Bogota: {
-    Generic: Kólumbíutími,
-    Standard: Staðaltími í Kólumbíu,
-    Daylight: Sumartími í Kólumbíu
-  },
-  America/Rio_Branco: {
+  America/Port_of_Spain: {
+    Generic: Tími á Atlantshafssvæðinu,
+    Standard: Staðaltími á Atlantshafssvæðinu,
+    Daylight: Sumartími á Atlantshafssvæðinu
+  },
+  America/Porto_Acre: {
     Generic: Brasilía,
     Standard: Brasilía (staðaltími),
     Daylight: Brasilía (sumartími)
-  },
-  America/Eirunepe: {
-    Generic: Brasilía,
-    Standard: Brasilía (staðaltími),
-    Daylight: Brasilía (sumartími)
-  },
-  America/Coral_Harbour: {
-    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
-  },
-  America/Guayaquil: {
-    Generic: Ekvadortími,
-    Standard: Ekvadortími,
-    Daylight: Ekvadortími
-  },
-  America/Jamaica: {
-    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
-  },
-  America/Cayman: {
-    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
-  },
-  America/Panama: {
-    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
-  },
-  America/Lima: {
-    Generic: Perútími,
-    Standard: Staðaltími í Perú,
-    Daylight: Sumartími í Perú
-  },
-  Etc/GMT+5: {
-    Generic: Samræmdur alþjóðlegur tími -5,
-    Standard: Samræmdur alþjóðlegur tími -5,
-    Daylight: Samræmdur alþjóðlegur tími -5
-  },
-  America/La_Paz: {
-    Generic: Bólivíutími,
-    Standard: Bólivíutími,
-    Daylight: Bólivíutími
-  },
-  America/Antigua: {
-    Generic: Tími á Atlantshafssvæðinu,
-    Standard: Staðaltími á Atlantshafssvæðinu,
-    Daylight: Sumartími á Atlantshafssvæðinu
-  },
-  America/Anguilla: {
-    Generic: Tími á Atlantshafssvæðinu,
-    Standard: Staðaltími á Atlantshafssvæðinu,
-    Daylight: Sumartími á Atlantshafssvæðinu
-  },
-  America/Aruba: {
-    Generic: Tími á Atlantshafssvæðinu,
-    Standard: Staðaltími á Atlantshafssvæðinu,
-    Daylight: Sumartími á Atlantshafssvæðinu
-  },
-  America/Barbados: {
-    Generic: Tími á Atlantshafssvæðinu,
-    Standard: Staðaltími á Atlantshafssvæðinu,
-    Daylight: Sumartími á Atlantshafssvæðinu
-  },
-  America/St_Barthelemy: {
-    Generic: Tími á Atlantshafssvæðinu,
-    Standard: Staðaltími á Atlantshafssvæðinu,
-    Daylight: Sumartími á Atlantshafssvæðinu
-  },
-  America/Kralendijk: {
-    Generic: Tími á Atlantshafssvæðinu,
-    Standard: Staðaltími á Atlantshafssvæðinu,
-    Daylight: Sumartími á Atlantshafssvæðinu
-  },
-  America/Manaus: {
-    Generic: Amasóntími,
-    Standard: Staðaltími á Amasónsvæðinu,
-    Daylight: Sumartími á Amasónsvæðinu
-  },
-  America/Boa_Vista: {
-    Generic: Amasóntími,
-    Standard: Staðaltími á Amasónsvæðinu,
-    Daylight: Sumartími á Amasónsvæðinu
   },
   America/Porto_Velho: {
     Generic: Amasóntími,
     Standard: Staðaltími á Amasónsvæðinu,
     Daylight: Sumartími á Amasónsvæðinu
   },
-  America/Blanc-Sablon: {
+  America/Puerto_Rico: {
     Generic: Tími á Atlantshafssvæðinu,
     Standard: Staðaltími á Atlantshafssvæðinu,
     Daylight: Sumartími á Atlantshafssvæðinu
   },
-  America/Curacao: {
-    Generic: Tími á Atlantshafssvæðinu,
-    Standard: Staðaltími á Atlantshafssvæðinu,
-    Daylight: Sumartími á Atlantshafssvæðinu
+  America/Punta_Arenas: {
+    Generic: Síletími,
+    Standard: Staðaltími í Síle,
+    Daylight: Sumartími í Síle
   },
-  America/Dominica: {
-    Generic: Tími á Atlantshafssvæðinu,
-    Standard: Staðaltími á Atlantshafssvæðinu,
-    Daylight: Sumartími á Atlantshafssvæðinu
+  America/Rainy_River: {
+    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
+  },
+  America/Rankin_Inlet: {
+    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
+  },
+  America/Recife: {
+    Generic: Brasilíutími,
+    Standard: Staðaltími í Brasilíu,
+    Daylight: Sumartími í Brasilíu
+  },
+  America/Regina: {
+    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
+  },
+  America/Resolute: {
+    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
+  },
+  America/Rio_Branco: {
+    Generic: Brasilía,
+    Standard: Brasilía (staðaltími),
+    Daylight: Brasilía (sumartími)
+  },
+  America/Rosario: {
+    Generic: Argentínutími,
+    Standard: Staðaltími í Argentínu,
+    Daylight: Sumartími í Argentínu
+  },
+  America/Santa_Isabel: {
+    Generic: Tími í Norðvestur-Mexíkó,
+    Standard: Staðaltími í Norðvestur-Mexíkó,
+    Daylight: Sumartími í Norðvestur-Mexíkó
+  },
+  America/Santarem: {
+    Generic: Brasilíutími,
+    Standard: Staðaltími í Brasilíu,
+    Daylight: Sumartími í Brasilíu
+  },
+  America/Santiago: {
+    Generic: Síletími,
+    Standard: Staðaltími í Síle,
+    Daylight: Sumartími í Síle
   },
   America/Santo_Domingo: {
     Generic: Tími á Atlantshafssvæðinu,
     Standard: Staðaltími á Atlantshafssvæðinu,
     Daylight: Sumartími á Atlantshafssvæðinu
   },
-  America/Grenada: {
+  America/Sao_Paulo: {
+    Generic: Brasilíutími,
+    Standard: Staðaltími í Brasilíu,
+    Daylight: Sumartími í Brasilíu
+  },
+  America/Scoresbysund: {
+    Generic: Austur-Grænlandstími,
+    Standard: Staðaltími á Austur-Grænlandi,
+    Daylight: Sumartími á Austur-Grænlandi
+  },
+  America/Shiprock: {
+    Generic: Tími í Klettafjöllum,
+    Standard: Staðaltími í Klettafjöllum,
+    Daylight: Sumartími í Klettafjöllum
+  },
+  America/Sitka: {
+    Generic: Tími í Alaska,
+    Standard: Staðaltími í Alaska,
+    Daylight: Sumartími í Alaska
+  },
+  America/St_Barthelemy: {
     Generic: Tími á Atlantshafssvæðinu,
     Standard: Staðaltími á Atlantshafssvæðinu,
     Daylight: Sumartími á Atlantshafssvæðinu
   },
-  America/Guadeloupe: {
-    Generic: Tími á Atlantshafssvæðinu,
-    Standard: Staðaltími á Atlantshafssvæðinu,
-    Daylight: Sumartími á Atlantshafssvæðinu
-  },
-  America/Guyana: {
-    Generic: Gvæjanatími,
-    Standard: Gvæjanatími,
-    Daylight: Gvæjanatími
+  America/St_Johns: {
+    Generic: Tími á Nýfundnalandi,
+    Standard: Staðaltími á Nýfundnalandi,
+    Daylight: Sumartími á Nýfundnalandi
   },
   America/St_Kitts: {
     Generic: Tími á Atlantshafssvæðinu,
@@ -1504,32 +1029,7 @@
     Standard: Staðaltími á Atlantshafssvæðinu,
     Daylight: Sumartími á Atlantshafssvæðinu
   },
-  America/Marigot: {
-    Generic: Tími á Atlantshafssvæðinu,
-    Standard: Staðaltími á Atlantshafssvæðinu,
-    Daylight: Sumartími á Atlantshafssvæðinu
-  },
-  America/Martinique: {
-    Generic: Tími á Atlantshafssvæðinu,
-    Standard: Staðaltími á Atlantshafssvæðinu,
-    Daylight: Sumartími á Atlantshafssvæðinu
-  },
-  America/Montserrat: {
-    Generic: Tími á Atlantshafssvæðinu,
-    Standard: Staðaltími á Atlantshafssvæðinu,
-    Daylight: Sumartími á Atlantshafssvæðinu
-  },
-  America/Puerto_Rico: {
-    Generic: Tími á Atlantshafssvæðinu,
-    Standard: Staðaltími á Atlantshafssvæðinu,
-    Daylight: Sumartími á Atlantshafssvæðinu
-  },
-  America/Lower_Princes: {
-    Generic: Tími á Atlantshafssvæðinu,
-    Standard: Staðaltími á Atlantshafssvæðinu,
-    Daylight: Sumartími á Atlantshafssvæðinu
-  },
-  America/Port_of_Spain: {
+  America/St_Thomas: {
     Generic: Tími á Atlantshafssvæðinu,
     Standard: Staðaltími á Atlantshafssvæðinu,
     Daylight: Sumartími á Atlantshafssvæðinu
@@ -1539,655 +1039,155 @@
     Standard: Staðaltími á Atlantshafssvæðinu,
     Daylight: Sumartími á Atlantshafssvæðinu
   },
+  America/Swift_Current: {
+    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
+  },
+  America/Tegucigalpa: {
+    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
+  },
+  America/Thule: {
+    Generic: Tími á Atlantshafssvæðinu,
+    Standard: Staðaltími á Atlantshafssvæðinu,
+    Daylight: Sumartími á Atlantshafssvæðinu
+  },
+  America/Thunder_Bay: {
+    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
+  },
+  America/Tijuana: {
+    Generic: Tími á Kyrrahafssvæðinu,
+    Standard: Staðaltími á Kyrrahafssvæðinu,
+    Daylight: Sumartími á Kyrrahafssvæðinu
+  },
+  America/Toronto: {
+    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
+  },
   America/Tortola: {
     Generic: Tími á Atlantshafssvæðinu,
     Standard: Staðaltími á Atlantshafssvæðinu,
     Daylight: Sumartími á Atlantshafssvæðinu
   },
-  America/St_Thomas: {
+  America/Vancouver: {
+    Generic: Tími á Kyrrahafssvæðinu,
+    Standard: Staðaltími á Kyrrahafssvæðinu,
+    Daylight: Sumartími á Kyrrahafssvæðinu
+  },
+  America/Virgin: {
     Generic: Tími á Atlantshafssvæðinu,
     Standard: Staðaltími á Atlantshafssvæðinu,
     Daylight: Sumartími á Atlantshafssvæðinu
   },
-  Etc/GMT+4: {
-    Generic: Samræmdur alþjóðlegur tími -4,
-    Standard: Samræmdur alþjóðlegur tími -4,
-    Daylight: Samræmdur alþjóðlegur tími -4
+  America/Whitehorse: {
+    Generic: Tími í Júkon,
+    Standard: Tími í Júkon,
+    Daylight: Tími í Júkon
   },
-  Asia/Bangkok: {
-    Generic: Indókínatími,
-    Standard: Indókínatími,
-    Daylight: Indókínatími
+  America/Winnipeg: {
+    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
+  },
+  America/Yakutat: {
+    Generic: Tími í Alaska,
+    Standard: Staðaltími í Alaska,
+    Daylight: Sumartími í Alaska
+  },
+  America/Yellowknife: {
+    Generic: Tími í Klettafjöllum,
+    Standard: Staðaltími í Klettafjöllum,
+    Daylight: Sumartími í Klettafjöllum
+  },
+  Antarctica/Casey: {
+    Generic: Suðurskautslandið,
+    Standard: Suðurskautslandið (staðaltími),
+    Daylight: Suðurskautslandið (sumartími)
   },
   Antarctica/Davis: {
     Generic: Davis-tími,
     Standard: Davis-tími,
     Daylight: Davis-tími
   },
-  Indian/Christmas: {
-    Generic: Jólaeyjartími,
-    Standard: Jólaeyjartími,
-    Daylight: Jólaeyjartími
-  },
-  Asia/Jakarta: {
-    Generic: Vestur-Indónesíutími,
-    Standard: Vestur-Indónesíutími,
-    Daylight: Vestur-Indónesíutími
-  },
-  Asia/Pontianak: {
-    Generic: Vestur-Indónesíutími,
-    Standard: Vestur-Indónesíutími,
-    Daylight: Vestur-Indónesíutími
-  },
-  Asia/Phnom_Penh: {
-    Generic: Indókínatími,
-    Standard: Indókínatími,
-    Daylight: Indókínatími
-  },
-  Asia/Vientiane: {
-    Generic: Indókínatími,
-    Standard: Indókínatími,
-    Daylight: Indókínatími
-  },
-  Asia/Saigon: {
-    Generic: Indókínatími,
-    Standard: Indókínatími,
-    Daylight: Indókínatími
-  },
-  Etc/GMT-7: {
-    Generic: Samræmdur alþjóðlegur tími +7,
-    Standard: Samræmdur alþjóðlegur tími +7,
-    Daylight: Samræmdur alþjóðlegur tími +7
-  },
-  America/Miquelon: {
-    Generic: Tími á Sankti Pierre og Miquelon,
-    Standard: Staðaltími á Sankti Pierre og Miquelon,
-    Daylight: Sumartími á Sankti Pierre og Miquelon
-  },
-  Asia/Sakhalin: {
-    Generic: Sakhalin,
-    Standard: Sakhalin (staðaltími),
-    Daylight: Sakhalin (sumartími)
-  },
-  Pacific/Apia: {
-    Generic: Tími í Apía,
-    Standard: Staðaltími í Apía,
-    Daylight: Sumartími í Apía
-  },
-  Africa/Sao_Tome: {
-    Generic: Greenwich-staðaltími,
-    Standard: Greenwich-staðaltími,
-    Daylight: Greenwich-staðaltími
-  },
-  Europe/Saratov: {
-    Generic: Saratov,
-    Standard: Saratov (staðaltími),
-    Daylight: Saratov (sumartími)
-  },
-  Asia/Singapore: {
-    Generic: Singapúrtími,
-    Standard: Singapúrtími,
-    Daylight: Singapúrtími
-  },
-  Asia/Brunei: {
-    Generic: Brúneitími,
-    Standard: Brúneitími,
-    Daylight: Brúneitími
-  },
-  Asia/Makassar: {
-    Generic: Mið-Indónesíutími,
-    Standard: Mið-Indónesíutími,
-    Daylight: Mið-Indónesíutími
-  },
-  Asia/Kuala_Lumpur: {
-    Generic: Malasíutími,
-    Standard: Malasíutími,
-    Daylight: Malasíutími
-  },
-  Asia/Kuching: {
-    Generic: Malasíutími,
-    Standard: Malasíutími,
-    Daylight: Malasíutími
-  },
-  Asia/Manila: {
-    Generic: Filippseyjatími,
-    Standard: Staðaltími á Filippseyjum,
-    Daylight: Sumartími á Filippseyjum
-  },
-  Etc/GMT-8: {
-    Generic: Samræmdur alþjóðlegur tími +8,
-    Standard: Samræmdur alþjóðlegur tími +8,
-    Daylight: Samræmdur alþjóðlegur tími +8
-  },
-  Africa/Johannesburg: {
-    Generic: Suður-Afríkutími,
-    Standard: Suður-Afríkutími,
-    Daylight: Suður-Afríkutími
-  },
-  Africa/Bujumbura: {
-    Generic: Mið-Afríkutími,
-    Standard: Mið-Afríkutími,
-    Daylight: Mið-Afríkutími
-  },
-  Africa/Gaborone: {
-    Generic: Mið-Afríkutími,
-    Standard: Mið-Afríkutími,
-    Daylight: Mið-Afríkutími
-  },
-  Africa/Lubumbashi: {
-    Generic: Mið-Afríkutími,
-    Standard: Mið-Afríkutími,
-    Daylight: Mið-Afríkutími
-  },
-  Africa/Maseru: {
-    Generic: Suður-Afríkutími,
-    Standard: Suður-Afríkutími,
-    Daylight: Suður-Afríkutími
-  },
-  Africa/Blantyre: {
-    Generic: Mið-Afríkutími,
-    Standard: Mið-Afríkutími,
-    Daylight: Mið-Afríkutími
-  },
-  Africa/Maputo: {
-    Generic: Mið-Afríkutími,
-    Standard: Mið-Afríkutími,
-    Daylight: Mið-Afríkutími
-  },
-  Africa/Kigali: {
-    Generic: Mið-Afríkutími,
-    Standard: Mið-Afríkutími,
-    Daylight: Mið-Afríkutími
-  },
-  Africa/Mbabane: {
-    Generic: Suður-Afríkutími,
-    Standard: Suður-Afríkutími,
-    Daylight: Suður-Afríkutími
-  },
-  Africa/Lusaka: {
-    Generic: Mið-Afríkutími,
-    Standard: Mið-Afríkutími,
-    Daylight: Mið-Afríkutími
-  },
-  Africa/Harare: {
-    Generic: Mið-Afríkutími,
-    Standard: Mið-Afríkutími,
-    Daylight: Mið-Afríkutími
-  },
-  Etc/GMT-2: {
-    Generic: Samræmdur alþjóðlegur tími +2,
-    Standard: Samræmdur alþjóðlegur tími +2,
-    Daylight: Samræmdur alþjóðlegur tími +2
-  },
-  Africa/Juba: {
-    Generic: Mið-Afríkutími,
-    Standard: Mið-Afríkutími,
-    Daylight: Mið-Afríkutími
-  },
-  Asia/Colombo: {
-    Generic: Indlandstími,
-    Standard: Indlandstími,
-    Daylight: Indlandstími
-  },
-  Africa/Khartoum: {
-    Generic: Mið-Afríkutími,
-    Standard: Mið-Afríkutími,
-    Daylight: Mið-Afríkutími
-  },
-  Asia/Damascus: {
-    Generic: Austur-Evróputími,
-    Standard: Staðaltími í Austur-Evrópu,
-    Daylight: Sumartími í Austur-Evrópu
-  },
-  Asia/Taipei: {
-    Generic: Taipei-tími,
-    Standard: Staðaltími í Taipei,
-    Daylight: Sumartími í Taipei
-  },
-  Australia/Hobart: {
-    Generic: Tími í Austur-Ástralíu,
-    Standard: Staðaltími í Austur-Ástralíu,
-    Daylight: Sumartími í Austur-Ástralíu
-  },
-  Australia/Currie: {
-    Generic: Tími í Austur-Ástralíu,
-    Standard: Staðaltími í Austur-Ástralíu,
-    Daylight: Sumartími í Austur-Ástralíu
+  Antarctica/DumontDUrville: {
+    Generic: Tími á Dumont-d’Urville,
+    Standard: Tími á Dumont-d’Urville,
+    Daylight: Tími á Dumont-d’Urville
   },
   Antarctica/Macquarie: {
     Generic: Tími í Austur-Ástralíu,
     Standard: Staðaltími í Austur-Ástralíu,
     Daylight: Sumartími í Austur-Ástralíu
   },
-  America/Araguaina: {
-    Generic: Brasilíutími,
-    Standard: Staðaltími í Brasilíu,
-    Daylight: Sumartími í Brasilíu
+  Antarctica/Mawson: {
+    Generic: Mawson-tími,
+    Standard: Mawson-tími,
+    Daylight: Mawson-tími
   },
-  Asia/Tokyo: {
-    Generic: Japanstími,
-    Standard: Staðaltími í Japan,
-    Daylight: Sumartími í Japan
+  Antarctica/McMurdo: {
+    Generic: Tími á Nýja-Sjálandi,
+    Standard: Staðaltími á Nýja-Sjálandi,
+    Daylight: Sumartími á Nýja-Sjálandi
   },
-  Asia/Jayapura: {
-    Generic: Austur-Indónesíutími,
-    Standard: Austur-Indónesíutími,
-    Daylight: Austur-Indónesíutími
+  Antarctica/Palmer: {
+    Generic: Síletími,
+    Standard: Staðaltími í Síle,
+    Daylight: Sumartími í Síle
   },
-  Pacific/Palau: {
-    Generic: Palátími,
-    Standard: Palátími,
-    Daylight: Palátími
+  Antarctica/Rothera: {
+    Generic: Rothera-tími,
+    Standard: Rothera-tími,
+    Daylight: Rothera-tími
   },
-  Asia/Dili: {
-    Generic: Tími á Tímor-Leste,
-    Standard: Tími á Tímor-Leste,
-    Daylight: Tími á Tímor-Leste
+  Antarctica/South_Pole: {
+    Generic: Tími á Nýja-Sjálandi,
+    Standard: Staðaltími á Nýja-Sjálandi,
+    Daylight: Sumartími á Nýja-Sjálandi
   },
-  Etc/GMT-9: {
-    Generic: Samræmdur alþjóðlegur tími +9,
-    Standard: Samræmdur alþjóðlegur tími +9,
-    Daylight: Samræmdur alþjóðlegur tími +9
+  Antarctica/Syowa: {
+    Generic: Syowa-tími,
+    Standard: Syowa-tími,
+    Daylight: Syowa-tími
   },
-  Asia/Tomsk: {
-    Generic: Tomsk,
-    Standard: Tomsk (staðaltími),
-    Daylight: Tomsk (sumartími)
-  },
-  Pacific/Tongatapu: {
-    Generic: Tongatími,
-    Standard: Staðaltími á Tonga,
-    Daylight: Sumartími á Tonga
-  },
-  Asia/Chita: {
-    Generic: Chita,
-    Standard: Chita (staðaltími),
-    Daylight: Chita (sumartími)
-  },
-  Europe/Istanbul: {
-    Generic: Tyrkland,
-    Standard: Tyrkland (staðaltími),
-    Daylight: Tyrkland (sumartími)
-  },
-  America/Grand_Turk: {
-    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
-  },
-  America/Indianapolis: {
-    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
-  },
-  America/Indiana/Marengo: {
-    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
-  },
-  America/Indiana/Vevay: {
-    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
-  },
-  America/Phoenix: {
-    Generic: Tími í Klettafjöllum,
-    Standard: Staðaltími í Klettafjöllum,
-    Daylight: Sumartími í Klettafjöllum
-  },
-  America/Creston: {
-    Generic: Tími í Klettafjöllum,
-    Standard: Staðaltími í Klettafjöllum,
-    Daylight: Sumartími í Klettafjöllum
-  },
-  America/Dawson_Creek: {
-    Generic: Tími í Klettafjöllum,
-    Standard: Staðaltími í Klettafjöllum,
-    Daylight: Sumartími í Klettafjöllum
-  },
-  America/Fort_Nelson: {
-    Generic: Tími í Klettafjöllum,
-    Standard: Staðaltími í Klettafjöllum,
-    Daylight: Sumartími í Klettafjöllum
-  },
-  America/Hermosillo: {
-    Generic: Kyrrahafstími í Mexíkó,
-    Standard: Staðaltími í Mexíkó á Kyrrahafssvæðinu,
-    Daylight: Sumartími í Mexíkó á Kyrrahafssvæðinu
-  },
-  Etc/GMT+7: {
-    Generic: Samræmdur alþjóðlegur tími -7,
-    Standard: Samræmdur alþjóðlegur tími -7,
-    Daylight: Samræmdur alþjóðlegur tími -7
-  },
-  Etc/GMT-12: {
-    Generic: Samræmdur alþjóðlegur tími +12,
-    Standard: Samræmdur alþjóðlegur tími +12,
-    Daylight: Samræmdur alþjóðlegur tími +12
-  },
-  Pacific/Tarawa: {
-    Generic: Tími á Gilbert-eyjum,
-    Standard: Tími á Gilbert-eyjum,
-    Daylight: Tími á Gilbert-eyjum
-  },
-  Pacific/Majuro: {
-    Generic: Tími á Marshall-eyjum,
-    Standard: Tími á Marshall-eyjum,
-    Daylight: Tími á Marshall-eyjum
-  },
-  Pacific/Kwajalein: {
-    Generic: Tími á Marshall-eyjum,
-    Standard: Tími á Marshall-eyjum,
-    Daylight: Tími á Marshall-eyjum
-  },
-  Pacific/Nauru: {
-    Generic: Nárú-tími,
-    Standard: Nárú-tími,
-    Daylight: Nárú-tími
-  },
-  Pacific/Funafuti: {
-    Generic: Túvalútími,
-    Standard: Túvalútími,
-    Daylight: Túvalútími
-  },
-  Pacific/Wake: {
-    Generic: Tími á Wake-eyju,
-    Standard: Tími á Wake-eyju,
-    Daylight: Tími á Wake-eyju
-  },
-  Pacific/Wallis: {
-    Generic: Tími á Wallis- og Fútúnaeyjum,
-    Standard: Tími á Wallis- og Fútúnaeyjum,
-    Daylight: Tími á Wallis- og Fútúnaeyjum
-  },
-  Etc/GMT-13: {
-    Generic: Samræmdur alþjóðlegur tími +13,
-    Standard: Samræmdur alþjóðlegur tími +13,
-    Daylight: Samræmdur alþjóðlegur tími +13
-  },
-  Pacific/Enderbury: {
-    Generic: Fönixeyjatími,
-    Standard: Fönixeyjatími,
-    Daylight: Fönixeyjatími
-  },
-  Pacific/Fakaofo: {
-    Generic: Tókelá-tími,
-    Standard: Tókelá-tími,
-    Daylight: Tókelá-tími
-  },
-  Etc/UTC: {
-    Generic: Samræmdur alþjóðlegur tími,
-    Standard: Samræmdur alþjóðlegur tími,
-    Daylight: Samræmdur alþjóðlegur tími
-  },
-  Etc/GMT: {
+  Antarctica/Troll: {
     Generic: Greenwich-staðaltími,
     Standard: Greenwich-staðaltími,
     Daylight: Greenwich-staðaltími
   },
-  Etc/GMT+2: {
-    Generic: Samræmdur alþjóðlegur tími -2,
-    Standard: Samræmdur alþjóðlegur tími -2,
-    Daylight: Samræmdur alþjóðlegur tími -2
-  },
-  America/Noronha: {
-    Generic: Tími í Fernando de Noronha,
-    Standard: Staðaltími í Fernando de Noronha,
-    Daylight: Sumartími í Fernando de Noronha
-  },
-  Atlantic/South_Georgia: {
-    Generic: Suður-Georgíutími,
-    Standard: Suður-Georgíutími,
-    Daylight: Suður-Georgíutími
-  },
-  Etc/GMT+8: {
-    Generic: Samræmdur alþjóðlegur tími -8,
-    Standard: Samræmdur alþjóðlegur tími -8,
-    Daylight: Samræmdur alþjóðlegur tími -8
-  },
-  Pacific/Pitcairn: {
-    Generic: Pitcairn-tími,
-    Standard: Pitcairn-tími,
-    Daylight: Pitcairn-tími
-  },
-  Etc/GMT+9: {
-    Generic: Samræmdur alþjóðlegur tími -9,
-    Standard: Samræmdur alþjóðlegur tími -9,
-    Daylight: Samræmdur alþjóðlegur tími -9
-  },
-  Pacific/Gambier: {
-    Generic: Gambier-tími,
-    Standard: Gambier-tími,
-    Daylight: Gambier-tími
-  },
-  Etc/GMT+11: {
-    Generic: Samræmdur alþjóðlegur tími -11,
-    Standard: Samræmdur alþjóðlegur tími -11,
-    Daylight: Samræmdur alþjóðlegur tími -11
-  },
-  Pacific/Pago_Pago: {
-    Generic: Samóa-tími,
-    Standard: Staðaltími á Samóa,
-    Daylight: Sumartími á Samóa
-  },
-  Pacific/Niue: {
-    Generic: Niue-tími,
-    Standard: Niue-tími,
-    Daylight: Niue-tími
-  },
-  Pacific/Midway: {
-    Generic: Samóa-tími,
-    Standard: Staðaltími á Samóa,
-    Daylight: Sumartími á Samóa
-  },
-  Asia/Ulaanbaatar: {
-    Generic: Tími í Úlan Bator,
-    Standard: Staðaltími í Úlan Bator,
-    Daylight: Sumartími í Úlan Bator
-  },
-  Asia/Choibalsan: {
-    Generic: Tími í Úlan Bator,
-    Standard: Staðaltími í Úlan Bator,
-    Daylight: Sumartími í Úlan Bator
-  },
-  America/Caracas: {
-    Generic: Venesúelatími,
-    Standard: Venesúelatími,
-    Daylight: Venesúelatími
-  },
-  Asia/Vladivostok: {
-    Generic: Vladivostok,
-    Standard: Vladivostok (staðaltími),
-    Daylight: Vladivostok (sumartími)
-  },
-  Asia/Ust-Nera: {
-    Generic: Ust-Nera,
-    Standard: Ust-Nera (staðaltími),
-    Daylight: Ust-Nera (sumartími)
-  },
-  Europe/Volgograd: {
-    Generic: Volgograd,
-    Standard: Volgograd (staðaltími),
-    Daylight: Volgograd (sumartími)
-  },
-  Australia/Perth: {
-    Generic: Tími í Vestur-Ástralíu,
-    Standard: Staðaltími í Vestur-Ástralíu,
-    Daylight: Sumartími í Vestur-Ástralíu
-  },
-  Africa/Lagos: {
-    Generic: Vestur-Afríkutími,
-    Standard: Staðaltími í Vestur-Afríku,
-    Daylight: Sumartími í Vestur-Afríku
-  },
-  Africa/Luanda: {
-    Generic: Vestur-Afríkutími,
-    Standard: Staðaltími í Vestur-Afríku,
-    Daylight: Sumartími í Vestur-Afríku
-  },
-  Africa/Porto-Novo: {
-    Generic: Vestur-Afríkutími,
-    Standard: Staðaltími í Vestur-Afríku,
-    Daylight: Sumartími í Vestur-Afríku
-  },
-  Africa/Kinshasa: {
-    Generic: Vestur-Afríkutími,
-    Standard: Staðaltími í Vestur-Afríku,
-    Daylight: Sumartími í Vestur-Afríku
-  },
-  Africa/Bangui: {
-    Generic: Vestur-Afríkutími,
-    Standard: Staðaltími í Vestur-Afríku,
-    Daylight: Sumartími í Vestur-Afríku
-  },
-  Africa/Brazzaville: {
-    Generic: Vestur-Afríkutími,
-    Standard: Staðaltími í Vestur-Afríku,
-    Daylight: Sumartími í Vestur-Afríku
-  },
-  Africa/Douala: {
-    Generic: Vestur-Afríkutími,
-    Standard: Staðaltími í Vestur-Afríku,
-    Daylight: Sumartími í Vestur-Afríku
-  },
-  Africa/Algiers: {
-    Generic: Mið-Evróputími,
-    Standard: Staðaltími í Mið-Evrópu,
-    Daylight: Sumartími í Mið-Evrópu
-  },
-  Africa/Libreville: {
-    Generic: Vestur-Afríkutími,
-    Standard: Staðaltími í Vestur-Afríku,
-    Daylight: Sumartími í Vestur-Afríku
-  },
-  Africa/Malabo: {
-    Generic: Vestur-Afríkutími,
-    Standard: Staðaltími í Vestur-Afríku,
-    Daylight: Sumartími í Vestur-Afríku
-  },
-  Africa/Niamey: {
-    Generic: Vestur-Afríkutími,
-    Standard: Staðaltími í Vestur-Afríku,
-    Daylight: Sumartími í Vestur-Afríku
-  },
-  Africa/Ndjamena: {
-    Generic: Vestur-Afríkutími,
-    Standard: Staðaltími í Vestur-Afríku,
-    Daylight: Sumartími í Vestur-Afríku
-  },
-  Africa/Tunis: {
-    Generic: Mið-Evróputími,
-    Standard: Staðaltími í Mið-Evrópu,
-    Daylight: Sumartími í Mið-Evrópu
-  },
-  Etc/GMT-1: {
-    Generic: Samræmdur alþjóðlegur tími +1,
-    Standard: Samræmdur alþjóðlegur tími +1,
-    Daylight: Samræmdur alþjóðlegur tími +1
-  },
-  Europe/Berlin: {
-    Generic: Mið-Evróputími,
-    Standard: Staðaltími í Mið-Evrópu,
-    Daylight: Sumartími í Mið-Evrópu
-  },
-  Europe/Andorra: {
-    Generic: Mið-Evróputími,
-    Standard: Staðaltími í Mið-Evrópu,
-    Daylight: Sumartími í Mið-Evrópu
-  },
-  Europe/Vienna: {
-    Generic: Mið-Evróputími,
-    Standard: Staðaltími í Mið-Evrópu,
-    Daylight: Sumartími í Mið-Evrópu
-  },
-  Europe/Zurich: {
-    Generic: Mið-Evróputími,
-    Standard: Staðaltími í Mið-Evrópu,
-    Daylight: Sumartími í Mið-Evrópu
-  },
-  Europe/Busingen: {
-    Generic: Mið-Evróputími,
-    Standard: Staðaltími í Mið-Evrópu,
-    Daylight: Sumartími í Mið-Evrópu
-  },
-  Europe/Gibraltar: {
-    Generic: Mið-Evróputími,
-    Standard: Staðaltími í Mið-Evrópu,
-    Daylight: Sumartími í Mið-Evrópu
-  },
-  Europe/Rome: {
-    Generic: Mið-Evróputími,
-    Standard: Staðaltími í Mið-Evrópu,
-    Daylight: Sumartími í Mið-Evrópu
-  },
-  Europe/Vaduz: {
-    Generic: Mið-Evróputími,
-    Standard: Staðaltími í Mið-Evrópu,
-    Daylight: Sumartími í Mið-Evrópu
-  },
-  Europe/Luxembourg: {
-    Generic: Mið-Evróputími,
-    Standard: Staðaltími í Mið-Evrópu,
-    Daylight: Sumartími í Mið-Evrópu
-  },
-  Europe/Monaco: {
-    Generic: Mið-Evróputími,
-    Standard: Staðaltími í Mið-Evrópu,
-    Daylight: Sumartími í Mið-Evrópu
-  },
-  Europe/Malta: {
-    Generic: Mið-Evróputími,
-    Standard: Staðaltími í Mið-Evrópu,
-    Daylight: Sumartími í Mið-Evrópu
-  },
-  Europe/Amsterdam: {
-    Generic: Mið-Evróputími,
-    Standard: Staðaltími í Mið-Evrópu,
-    Daylight: Sumartími í Mið-Evrópu
-  },
-  Europe/Oslo: {
-    Generic: Mið-Evróputími,
-    Standard: Staðaltími í Mið-Evrópu,
-    Daylight: Sumartími í Mið-Evrópu
-  },
-  Europe/Stockholm: {
-    Generic: Mið-Evróputími,
-    Standard: Staðaltími í Mið-Evrópu,
-    Daylight: Sumartími í Mið-Evrópu
+  Antarctica/Vostok: {
+    Generic: Vostok-tími,
+    Standard: Vostok-tími,
+    Daylight: Vostok-tími
   },
   Arctic/Longyearbyen: {
     Generic: Mið-Evróputími,
     Standard: Staðaltími í Mið-Evrópu,
     Daylight: Sumartími í Mið-Evrópu
   },
-  Europe/San_Marino: {
-    Generic: Mið-Evróputími,
-    Standard: Staðaltími í Mið-Evrópu,
-    Daylight: Sumartími í Mið-Evrópu
+  Asia/Aden: {
+    Generic: Arabíutími,
+    Standard: Staðaltími í Arabíu,
+    Daylight: Sumartími í Arabíu
   },
-  Europe/Vatican: {
-    Generic: Mið-Evróputími,
-    Standard: Staðaltími í Mið-Evrópu,
-    Daylight: Sumartími í Mið-Evrópu
+  Asia/Almaty: {
+    Generic: Tími í Austur-Kasakstan,
+    Standard: Tími í Austur-Kasakstan,
+    Daylight: Tími í Austur-Kasakstan
   },
-  Asia/Hovd: {
-    Generic: Hovd-tími,
-    Standard: Staðaltími í Hovd,
-    Daylight: Sumartími í Hovd
+  Asia/Amman: {
+    Generic: Austur-Evróputími,
+    Standard: Staðaltími í Austur-Evrópu,
+    Daylight: Sumartími í Austur-Evrópu
   },
-  Asia/Tashkent: {
-    Generic: Úsbekistan-tími,
-    Standard: Staðaltími í Úsbekistan,
-    Daylight: Sumartími í Úsbekistan
-  },
-  Antarctica/Mawson: {
-    Generic: Mawson-tími,
-    Standard: Mawson-tími,
-    Daylight: Mawson-tími
-  },
-  Asia/Oral: {
-    Generic: Tími í Vestur-Kasakstan,
-    Standard: Tími í Vestur-Kasakstan,
-    Daylight: Tími í Vestur-Kasakstan
+  Asia/Anadyr: {
+    Generic: Anadyr,
+    Standard: Anadyr (staðaltími),
+    Daylight: Anadyr (sumartími)
   },
   Asia/Aqtau: {
     Generic: Tími í Vestur-Kasakstan,
@@ -2199,415 +1199,75 @@
     Standard: Tími í Vestur-Kasakstan,
     Daylight: Tími í Vestur-Kasakstan
   },
-  Asia/Atyrau: {
-    Generic: Tími í Vestur-Kasakstan,
-    Standard: Tími í Vestur-Kasakstan,
-    Daylight: Tími í Vestur-Kasakstan
-  },
-  Indian/Maldives: {
-    Generic: Maldíveyja-tími,
-    Standard: Maldíveyja-tími,
-    Daylight: Maldíveyja-tími
-  },
-  Indian/Kerguelen: {
-    Generic: Tími á frönsku suðurhafssvæðum og Suðurskautslandssvæði,
-    Standard: Tími á frönsku suðurhafssvæðum og Suðurskautslandssvæði,
-    Daylight: Tími á frönsku suðurhafssvæðum og Suðurskautslandssvæði
-  },
-  Asia/Dushanbe: {
-    Generic: Tadsjíkistan-tími,
-    Standard: Tadsjíkistan-tími,
-    Daylight: Tadsjíkistan-tími
-  },
   Asia/Ashgabat: {
     Generic: Túrkmenistan-tími,
     Standard: Staðaltími í Túrkmenistan,
     Daylight: Sumartími í Túrkmenistan
-  },
-  Asia/Samarkand: {
-    Generic: Úsbekistan-tími,
-    Standard: Staðaltími í Úsbekistan,
-    Daylight: Sumartími í Úsbekistan
-  },
-  Etc/GMT-5: {
-    Generic: Samræmdur alþjóðlegur tími +5,
-    Standard: Samræmdur alþjóðlegur tími +5,
-    Daylight: Samræmdur alþjóðlegur tími +5
-  },
-  Asia/Hebron: {
-    Generic: Austur-Evróputími,
-    Standard: Staðaltími í Austur-Evrópu,
-    Daylight: Sumartími í Austur-Evrópu
-  },
-  Asia/Gaza: {
-    Generic: Austur-Evróputími,
-    Standard: Staðaltími í Austur-Evrópu,
-    Daylight: Sumartími í Austur-Evrópu
-  },
-  Pacific/Port_Moresby: {
-    Generic: Tími á Papúa Nýju-Gíneu,
-    Standard: Tími á Papúa Nýju-Gíneu,
-    Daylight: Tími á Papúa Nýju-Gíneu
-  },
-  Antarctica/DumontDUrville: {
-    Generic: Tími á Dumont-d’Urville,
-    Standard: Tími á Dumont-d’Urville,
-    Daylight: Tími á Dumont-d’Urville
-  },
-  Pacific/Truk: {
-    Generic: Chuuk-tími,
-    Standard: Chuuk-tími,
-    Daylight: Chuuk-tími
-  },
-  Pacific/Guam: {
-    Generic: Chamorro-staðaltími,
-    Standard: Chamorro-staðaltími,
-    Daylight: Chamorro-staðaltími
-  },
-  Pacific/Saipan: {
-    Generic: Chamorro-staðaltími,
-    Standard: Chamorro-staðaltími,
-    Daylight: Chamorro-staðaltími
-  },
-  Etc/GMT-10: {
-    Generic: Samræmdur alþjóðlegur tími +10,
-    Standard: Samræmdur alþjóðlegur tími +10,
-    Daylight: Samræmdur alþjóðlegur tími +10
-  },
-  Asia/Yakutsk: {
-    Generic: Yakutsk,
-    Standard: Yakutsk (staðaltími),
-    Daylight: Yakutsk (sumartími)
-  },
-  Asia/Khandyga: {
-    Generic: Khandyga,
-    Standard: Khandyga (staðaltími),
-    Daylight: Khandyga (sumartími)
-  },
-  America/Whitehorse: {
-    Generic: Tími í Júkon,
-    Standard: Tími í Júkon,
-    Daylight: Tími í Júkon
-  },
-  America/Dawson: {
-    Generic: Tími í Júkon,
-    Standard: Tími í Júkon,
-    Daylight: Tími í Júkon
-  },
-  Iceland: {
-    Generic: Greenwich-staðaltími,
-    Standard: Greenwich-staðaltími,
-    Daylight: Greenwich-staðaltími
-  },
-  Africa/Timbuktu: {
-    Generic: Greenwich-staðaltími,
-    Standard: Greenwich-staðaltími,
-    Daylight: Greenwich-staðaltími
-  },
-  Egypt: {
-    Generic: Austur-Evróputími,
-    Standard: Staðaltími í Austur-Evrópu,
-    Daylight: Sumartími í Austur-Evrópu
-  },
-  Africa/Asmara: {
-    Generic: Austur-Afríkutími,
-    Standard: Austur-Afríkutími,
-    Daylight: Austur-Afríkutími
-  },
-  Libya: {
-    Generic: Austur-Evróputími,
-    Standard: Staðaltími í Austur-Evrópu,
-    Daylight: Sumartími í Austur-Evrópu
-  },
-  America/Atka: {
-    Generic: Tími á Havaí og Aleúta,
-    Standard: Staðaltími á Havaí og Aleúta,
-    Daylight: Sumartími á Havaí og Aleúta
-  },
-  US/Aleutian: {
-    Generic: Tími á Havaí og Aleúta,
-    Standard: Staðaltími á Havaí og Aleúta,
-    Daylight: Sumartími á Havaí og Aleúta
-  },
-  US/Alaska: {
-    Generic: Tími í Alaska,
-    Standard: Staðaltími í Alaska,
-    Daylight: Sumartími í Alaska
-  },
-  America/Argentina/Buenos_Aires: {
-    Generic: Argentínutími,
-    Standard: Staðaltími í Argentínu,
-    Daylight: Sumartími í Argentínu
-  },
-  America/Argentina/Catamarca: {
-    Generic: Argentínutími,
-    Standard: Staðaltími í Argentínu,
-    Daylight: Sumartími í Argentínu
-  },
-  America/Argentina/ComodRivadavia: {
-    Generic: Argentínutími,
-    Standard: Staðaltími í Argentínu,
-    Daylight: Sumartími í Argentínu
-  },
-  America/Argentina/Cordoba: {
-    Generic: Argentínutími,
-    Standard: Staðaltími í Argentínu,
-    Daylight: Sumartími í Argentínu
-  },
-  America/Rosario: {
-    Generic: Argentínutími,
-    Standard: Staðaltími í Argentínu,
-    Daylight: Sumartími í Argentínu
-  },
-  America/Argentina/Jujuy: {
-    Generic: Argentínutími,
-    Standard: Staðaltími í Argentínu,
-    Daylight: Sumartími í Argentínu
-  },
-  America/Argentina/Mendoza: {
-    Generic: Argentínutími,
-    Standard: Staðaltími í Argentínu,
-    Daylight: Sumartími í Argentínu
-  },
-  US/Central: {
-    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
-  },
-  America/Shiprock: {
-    Generic: Tími í Klettafjöllum,
-    Standard: Staðaltími í Klettafjöllum,
-    Daylight: Sumartími í Klettafjöllum
-  },
-  Navajo: {
-    Generic: Tími í Klettafjöllum,
-    Standard: Staðaltími í Klettafjöllum,
-    Daylight: Sumartími í Klettafjöllum
-  },
-  US/Mountain: {
-    Generic: Tími í Klettafjöllum,
-    Standard: Staðaltími í Klettafjöllum,
-    Daylight: Sumartími í Klettafjöllum
-  },
-  US/Michigan: {
-    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
-  },
-  Canada/Mountain: {
-    Generic: Tími í Klettafjöllum,
-    Standard: Staðaltími í Klettafjöllum,
-    Daylight: Sumartími í Klettafjöllum
-  },
-  Canada/Atlantic: {
-    Generic: Tími á Atlantshafssvæðinu,
-    Standard: Staðaltími á Atlantshafssvæðinu,
-    Daylight: Sumartími á Atlantshafssvæðinu
-  },
-  Cuba: {
-    Generic: Kúbutími,
-    Standard: Staðaltími á Kúbu,
-    Daylight: Sumartími á Kúbu
-  },
-  America/Indiana/Indianapolis: {
-    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
-  },
-  US/East-Indiana: {
-    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
-  },
-  America/Knox_IN: {
-    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
-  },
-  US/Indiana-Starke: {
-    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
-  },
-  Jamaica: {
-    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
-  },
-  America/Kentucky/Louisville: {
-    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
-  },
-  US/Pacific: {
-    Generic: Tími á Kyrrahafssvæðinu,
-    Standard: Staðaltími á Kyrrahafssvæðinu,
-    Daylight: Sumartími á Kyrrahafssvæðinu
-  },
-  Brazil/West: {
-    Generic: Amasóntími,
-    Standard: Staðaltími á Amasónsvæðinu,
-    Daylight: Sumartími á Amasónsvæðinu
-  },
-  Mexico/BajaSur: {
-    Generic: Kyrrahafstími í Mexíkó,
-    Standard: Staðaltími í Mexíkó á Kyrrahafssvæðinu,
-    Daylight: Sumartími í Mexíkó á Kyrrahafssvæðinu
-  },
-  Mexico/General: {
-    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
-  },
-  US/Eastern: {
-    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
-  },
-  Brazil/DeNoronha: {
-    Generic: Tími í Fernando de Noronha,
-    Standard: Staðaltími í Fernando de Noronha,
-    Daylight: Sumartími í Fernando de Noronha
-  },
-  America/Nuuk: {
-    Generic: Vestur-Grænlandstími,
-    Standard: Staðaltími á Vestur-Grænlandi,
-    Daylight: Sumartími á Vestur-Grænlandi
-  },
-  America/Atikokan: {
-    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
-  },
-  US/Arizona: {
-    Generic: Tími í Klettafjöllum,
-    Standard: Staðaltími í Klettafjöllum,
-    Daylight: Sumartími í Klettafjöllum
-  },
-  America/Virgin: {
-    Generic: Tími á Atlantshafssvæðinu,
-    Standard: Staðaltími á Atlantshafssvæðinu,
-    Daylight: Sumartími á Atlantshafssvæðinu
-  },
-  Canada/Saskatchewan: {
-    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
-  },
-  America/Porto_Acre: {
-    Generic: Brasilía,
-    Standard: Brasilía (staðaltími),
-    Daylight: Brasilía (sumartími)
-  },
-  Brazil/Acre: {
-    Generic: Brasilía,
-    Standard: Brasilía (staðaltími),
-    Daylight: Brasilía (sumartími)
-  },
-  Chile/Continental: {
-    Generic: Síletími,
-    Standard: Staðaltími í Síle,
-    Daylight: Sumartími í Síle
-  },
-  Brazil/East: {
-    Generic: Brasilíutími,
-    Standard: Staðaltími í Brasilíu,
-    Daylight: Sumartími í Brasilíu
-  },
-  Canada/Newfoundland: {
-    Generic: Tími á Nýfundnalandi,
-    Standard: Staðaltími á Nýfundnalandi,
-    Daylight: Sumartími á Nýfundnalandi
-  },
-  America/Ensenada: {
-    Generic: Tími á Kyrrahafssvæðinu,
-    Standard: Staðaltími á Kyrrahafssvæðinu,
-    Daylight: Sumartími á Kyrrahafssvæðinu
-  },
-  Mexico/BajaNorte: {
-    Generic: Tími á Kyrrahafssvæðinu,
-    Standard: Staðaltími á Kyrrahafssvæðinu,
-    Daylight: Sumartími á Kyrrahafssvæðinu
-  },
-  Canada/Eastern: {
-    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
-  },
-  Canada/Pacific: {
-    Generic: Tími á Kyrrahafssvæðinu,
-    Standard: Staðaltími á Kyrrahafssvæðinu,
-    Daylight: Sumartími á Kyrrahafssvæðinu
-  },
-  Canada/Yukon: {
-    Generic: Tími í Júkon,
-    Standard: Tími í Júkon,
-    Daylight: Tími í Júkon
-  },
-  Canada/Central: {
-    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
-    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
-    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
   },
   Asia/Ashkhabad: {
     Generic: Túrkmenistan-tími,
     Standard: Staðaltími í Túrkmenistan,
     Daylight: Sumartími í Túrkmenistan
   },
-  Asia/Dacca: {
-    Generic: Bangladess-tími,
-    Standard: Staðaltími í Bangladess,
-    Daylight: Sumartími í Bangladess
+  Asia/Atyrau: {
+    Generic: Tími í Vestur-Kasakstan,
+    Standard: Tími í Vestur-Kasakstan,
+    Daylight: Tími í Vestur-Kasakstan
   },
-  Asia/Ho_Chi_Minh: {
+  Asia/Baghdad: {
+    Generic: Arabíutími,
+    Standard: Staðaltími í Arabíu,
+    Daylight: Sumartími í Arabíu
+  },
+  Asia/Bahrain: {
+    Generic: Arabíutími,
+    Standard: Staðaltími í Arabíu,
+    Daylight: Sumartími í Arabíu
+  },
+  Asia/Baku: {
+    Generic: Aserbaídsjantími,
+    Standard: Staðaltími í Aserbaídsjan,
+    Daylight: Sumartími í Aserbaídsjan
+  },
+  Asia/Bangkok: {
     Generic: Indókínatími,
     Standard: Indókínatími,
     Daylight: Indókínatími
   },
-  Hongkong: {
-    Generic: Hong Kong-tími,
-    Standard: Staðaltími í Hong Kong,
-    Daylight: Sumartími í Hong Kong
+  Asia/Barnaul: {
+    Generic: Barnaul,
+    Standard: Barnaul (staðaltími),
+    Daylight: Barnaul (sumartími)
   },
-  Asia/Tel_Aviv: {
-    Generic: Ísraelstími,
-    Standard: Staðaltími í Ísrael,
-    Daylight: Sumartími í Ísrael
-  },
-  Israel: {
-    Generic: Ísraelstími,
-    Standard: Staðaltími í Ísrael,
-    Daylight: Sumartími í Ísrael
-  },
-  Asia/Kathmandu: {
-    Generic: Nepaltími,
-    Standard: Nepaltími,
-    Daylight: Nepaltími
-  },
-  Asia/Kolkata: {
-    Generic: Indlandstími,
-    Standard: Indlandstími,
-    Daylight: Indlandstími
-  },
-  Asia/Macao: {
-    Generic: Kínatími,
-    Standard: Staðaltími í Kína,
-    Daylight: Sumartími í Kína
-  },
-  Asia/Ujung_Pandang: {
-    Generic: Mið-Indónesíutími,
-    Standard: Mið-Indónesíutími,
-    Daylight: Mið-Indónesíutími
-  },
-  Europe/Nicosia: {
+  Asia/Beirut: {
     Generic: Austur-Evróputími,
     Standard: Staðaltími í Austur-Evrópu,
     Daylight: Sumartími í Austur-Evrópu
   },
-  ROK: {
-    Generic: Kóreutími,
-    Standard: Staðaltími í Kóreu,
-    Daylight: Sumartími í Kóreu
+  Asia/Bishkek: {
+    Generic: Kirgistan-tími,
+    Standard: Kirgistan-tími,
+    Daylight: Kirgistan-tími
+  },
+  Asia/Brunei: {
+    Generic: Brúneitími,
+    Standard: Brúneitími,
+    Daylight: Brúneitími
+  },
+  Asia/Calcutta: {
+    Generic: Indlandstími,
+    Standard: Indlandstími,
+    Daylight: Indlandstími
+  },
+  Asia/Chita: {
+    Generic: Chita,
+    Standard: Chita (staðaltími),
+    Daylight: Chita (sumartími)
+  },
+  Asia/Choibalsan: {
+    Generic: Tími í Úlan Bator,
+    Standard: Staðaltími í Úlan Bator,
+    Daylight: Sumartími í Úlan Bator
   },
   Asia/Chongqing: {
     Generic: Kínatími,
@@ -2619,57 +1279,412 @@
     Standard: Staðaltími í Kína,
     Daylight: Sumartími í Kína
   },
+  Asia/Colombo: {
+    Generic: Indlandstími,
+    Standard: Indlandstími,
+    Daylight: Indlandstími
+  },
+  Asia/Dacca: {
+    Generic: Bangladess-tími,
+    Standard: Staðaltími í Bangladess,
+    Daylight: Sumartími í Bangladess
+  },
+  Asia/Damascus: {
+    Generic: Austur-Evróputími,
+    Standard: Staðaltími í Austur-Evrópu,
+    Daylight: Sumartími í Austur-Evrópu
+  },
+  Asia/Dhaka: {
+    Generic: Bangladess-tími,
+    Standard: Staðaltími í Bangladess,
+    Daylight: Sumartími í Bangladess
+  },
+  Asia/Dili: {
+    Generic: Tími á Tímor-Leste,
+    Standard: Tími á Tímor-Leste,
+    Daylight: Tími á Tímor-Leste
+  },
+  Asia/Dubai: {
+    Generic: Staðaltími við Persaflóa,
+    Standard: Staðaltími við Persaflóa,
+    Daylight: Staðaltími við Persaflóa
+  },
+  Asia/Dushanbe: {
+    Generic: Tadsjíkistan-tími,
+    Standard: Tadsjíkistan-tími,
+    Daylight: Tadsjíkistan-tími
+  },
+  Asia/Famagusta: {
+    Generic: Austur-Evróputími,
+    Standard: Staðaltími í Austur-Evrópu,
+    Daylight: Sumartími í Austur-Evrópu
+  },
+  Asia/Gaza: {
+    Generic: Austur-Evróputími,
+    Standard: Staðaltími í Austur-Evrópu,
+    Daylight: Sumartími í Austur-Evrópu
+  },
   Asia/Harbin: {
     Generic: Kínatími,
     Standard: Staðaltími í Kína,
     Daylight: Sumartími í Kína
   },
-  PRC: {
-    Generic: Kínatími,
-    Standard: Staðaltími í Kína,
-    Daylight: Sumartími í Kína
+  Asia/Hebron: {
+    Generic: Austur-Evróputími,
+    Standard: Staðaltími í Austur-Evrópu,
+    Daylight: Sumartími í Austur-Evrópu
   },
-  Singapore: {
-    Generic: Singapúrtími,
-    Standard: Singapúrtími,
-    Daylight: Singapúrtími
+  Asia/Ho_Chi_Minh: {
+    Generic: Indókínatími,
+    Standard: Indókínatími,
+    Daylight: Indókínatími
   },
-  ROC: {
-    Generic: Taipei-tími,
-    Standard: Staðaltími í Taipei,
-    Daylight: Sumartími í Taipei
+  Asia/Hong_Kong: {
+    Generic: Hong Kong-tími,
+    Standard: Staðaltími í Hong Kong,
+    Daylight: Sumartími í Hong Kong
   },
-  Iran: {
-    Generic: Íranstími,
-    Standard: Staðaltími í Íran,
-    Daylight: Sumartími í Íran
+  Asia/Hovd: {
+    Generic: Hovd-tími,
+    Standard: Staðaltími í Hovd,
+    Daylight: Sumartími í Hovd
   },
-  Asia/Thimbu: {
-    Generic: Bútantími,
-    Standard: Bútantími,
-    Daylight: Bútantími
+  Asia/Irkutsk: {
+    Generic: Irkutsk,
+    Standard: Irkutsk (staðaltími),
+    Daylight: Irkutsk (sumartími)
   },
-  Japan: {
-    Generic: Japanstími,
-    Standard: Staðaltími í Japan,
-    Daylight: Sumartími í Japan
+  Asia/Istanbul: {
+    Generic: Tyrkland,
+    Standard: Tyrkland (staðaltími),
+    Daylight: Tyrkland (sumartími)
   },
-  Asia/Ulan_Bator: {
-    Generic: Tími í Úlan Bator,
-    Standard: Staðaltími í Úlan Bator,
-    Daylight: Sumartími í Úlan Bator
+  Asia/Jakarta: {
+    Generic: Vestur-Indónesíutími,
+    Standard: Vestur-Indónesíutími,
+    Daylight: Vestur-Indónesíutími
+  },
+  Asia/Jayapura: {
+    Generic: Austur-Indónesíutími,
+    Standard: Austur-Indónesíutími,
+    Daylight: Austur-Indónesíutími
+  },
+  Asia/Jerusalem: {
+    Generic: Ísraelstími,
+    Standard: Staðaltími í Ísrael,
+    Daylight: Sumartími í Ísrael
+  },
+  Asia/Kabul: {
+    Generic: Afganistantími,
+    Standard: Afganistantími,
+    Daylight: Afganistantími
+  },
+  Asia/Kamchatka: {
+    Generic: Kamtsjatka,
+    Standard: Kamtsjatka (staðaltími),
+    Daylight: Kamtsjatka (sumartími)
+  },
+  Asia/Karachi: {
+    Generic: Pakistantími,
+    Standard: Staðaltími í Pakistan,
+    Daylight: Sumartími í Pakistan
   },
   Asia/Kashgar: {
     Generic: Kína,
     Standard: Kína (staðaltími),
     Daylight: Kína (sumartími)
   },
+  Asia/Kathmandu: {
+    Generic: Nepaltími,
+    Standard: Nepaltími,
+    Daylight: Nepaltími
+  },
+  Asia/Katmandu: {
+    Generic: Nepaltími,
+    Standard: Nepaltími,
+    Daylight: Nepaltími
+  },
+  Asia/Khandyga: {
+    Generic: Khandyga,
+    Standard: Khandyga (staðaltími),
+    Daylight: Khandyga (sumartími)
+  },
+  Asia/Kolkata: {
+    Generic: Indlandstími,
+    Standard: Indlandstími,
+    Daylight: Indlandstími
+  },
+  Asia/Krasnoyarsk: {
+    Generic: Krasnoyarsk,
+    Standard: Krasnoyarsk (staðaltími),
+    Daylight: Krasnoyarsk (sumartími)
+  },
+  Asia/Kuala_Lumpur: {
+    Generic: Malasíutími,
+    Standard: Malasíutími,
+    Daylight: Malasíutími
+  },
+  Asia/Kuching: {
+    Generic: Malasíutími,
+    Standard: Malasíutími,
+    Daylight: Malasíutími
+  },
+  Asia/Kuwait: {
+    Generic: Arabíutími,
+    Standard: Staðaltími í Arabíu,
+    Daylight: Sumartími í Arabíu
+  },
+  Asia/Macao: {
+    Generic: Kínatími,
+    Standard: Staðaltími í Kína,
+    Daylight: Sumartími í Kína
+  },
+  Asia/Macau: {
+    Generic: Kínatími,
+    Standard: Staðaltími í Kína,
+    Daylight: Sumartími í Kína
+  },
+  Asia/Magadan: {
+    Generic: Magadan,
+    Standard: Magadan (staðaltími),
+    Daylight: Magadan (sumartími)
+  },
+  Asia/Makassar: {
+    Generic: Mið-Indónesíutími,
+    Standard: Mið-Indónesíutími,
+    Daylight: Mið-Indónesíutími
+  },
+  Asia/Manila: {
+    Generic: Filippseyjatími,
+    Standard: Staðaltími á Filippseyjum,
+    Daylight: Sumartími á Filippseyjum
+  },
+  Asia/Muscat: {
+    Generic: Staðaltími við Persaflóa,
+    Standard: Staðaltími við Persaflóa,
+    Daylight: Staðaltími við Persaflóa
+  },
+  Asia/Nicosia: {
+    Generic: Austur-Evróputími,
+    Standard: Staðaltími í Austur-Evrópu,
+    Daylight: Sumartími í Austur-Evrópu
+  },
+  Asia/Novokuznetsk: {
+    Generic: Novokuznetsk,
+    Standard: Novokuznetsk (staðaltími),
+    Daylight: Novokuznetsk (sumartími)
+  },
+  Asia/Novosibirsk: {
+    Generic: Novosibirsk,
+    Standard: Novosibirsk (staðaltími),
+    Daylight: Novosibirsk (sumartími)
+  },
+  Asia/Omsk: {
+    Generic: Omsk,
+    Standard: Omsk (staðaltími),
+    Daylight: Omsk (sumartími)
+  },
+  Asia/Oral: {
+    Generic: Tími í Vestur-Kasakstan,
+    Standard: Tími í Vestur-Kasakstan,
+    Daylight: Tími í Vestur-Kasakstan
+  },
+  Asia/Phnom_Penh: {
+    Generic: Indókínatími,
+    Standard: Indókínatími,
+    Daylight: Indókínatími
+  },
+  Asia/Pontianak: {
+    Generic: Vestur-Indónesíutími,
+    Standard: Vestur-Indónesíutími,
+    Daylight: Vestur-Indónesíutími
+  },
+  Asia/Pyongyang: {
+    Generic: Kóreutími,
+    Standard: Staðaltími í Kóreu,
+    Daylight: Sumartími í Kóreu
+  },
+  Asia/Qatar: {
+    Generic: Arabíutími,
+    Standard: Staðaltími í Arabíu,
+    Daylight: Sumartími í Arabíu
+  },
+  Asia/Qostanay: {
+    Generic: Tími í Austur-Kasakstan,
+    Standard: Tími í Austur-Kasakstan,
+    Daylight: Tími í Austur-Kasakstan
+  },
+  Asia/Qyzylorda: {
+    Generic: Tími í Vestur-Kasakstan,
+    Standard: Tími í Vestur-Kasakstan,
+    Daylight: Tími í Vestur-Kasakstan
+  },
+  Asia/Rangoon: {
+    Generic: Mjanmar-tími,
+    Standard: Mjanmar-tími,
+    Daylight: Mjanmar-tími
+  },
+  Asia/Riyadh: {
+    Generic: Arabíutími,
+    Standard: Staðaltími í Arabíu,
+    Daylight: Sumartími í Arabíu
+  },
+  Asia/Saigon: {
+    Generic: Indókínatími,
+    Standard: Indókínatími,
+    Daylight: Indókínatími
+  },
+  Asia/Sakhalin: {
+    Generic: Sakhalin,
+    Standard: Sakhalin (staðaltími),
+    Daylight: Sakhalin (sumartími)
+  },
+  Asia/Samarkand: {
+    Generic: Úsbekistan-tími,
+    Standard: Staðaltími í Úsbekistan,
+    Daylight: Sumartími í Úsbekistan
+  },
+  Asia/Seoul: {
+    Generic: Kóreutími,
+    Standard: Staðaltími í Kóreu,
+    Daylight: Sumartími í Kóreu
+  },
+  Asia/Shanghai: {
+    Generic: Kínatími,
+    Standard: Staðaltími í Kína,
+    Daylight: Sumartími í Kína
+  },
+  Asia/Singapore: {
+    Generic: Singapúrtími,
+    Standard: Singapúrtími,
+    Daylight: Singapúrtími
+  },
+  Asia/Srednekolymsk: {
+    Generic: Srednekolymsk,
+    Standard: Srednekolymsk (staðaltími),
+    Daylight: Srednekolymsk (sumartími)
+  },
+  Asia/Taipei: {
+    Generic: Taipei-tími,
+    Standard: Staðaltími í Taipei,
+    Daylight: Sumartími í Taipei
+  },
+  Asia/Tashkent: {
+    Generic: Úsbekistan-tími,
+    Standard: Staðaltími í Úsbekistan,
+    Daylight: Sumartími í Úsbekistan
+  },
+  Asia/Tbilisi: {
+    Generic: Georgíutími,
+    Standard: Staðaltími í Georgíu,
+    Daylight: Sumartími í Georgíu
+  },
+  Asia/Tehran: {
+    Generic: Íranstími,
+    Standard: Staðaltími í Íran,
+    Daylight: Sumartími í Íran
+  },
+  Asia/Tel_Aviv: {
+    Generic: Ísraelstími,
+    Standard: Staðaltími í Ísrael,
+    Daylight: Sumartími í Ísrael
+  },
+  Asia/Thimbu: {
+    Generic: Bútantími,
+    Standard: Bútantími,
+    Daylight: Bútantími
+  },
+  Asia/Thimphu: {
+    Generic: Bútantími,
+    Standard: Bútantími,
+    Daylight: Bútantími
+  },
+  Asia/Tokyo: {
+    Generic: Japanstími,
+    Standard: Staðaltími í Japan,
+    Daylight: Sumartími í Japan
+  },
+  Asia/Tomsk: {
+    Generic: Tomsk,
+    Standard: Tomsk (staðaltími),
+    Daylight: Tomsk (sumartími)
+  },
+  Asia/Ujung_Pandang: {
+    Generic: Mið-Indónesíutími,
+    Standard: Mið-Indónesíutími,
+    Daylight: Mið-Indónesíutími
+  },
+  Asia/Ulaanbaatar: {
+    Generic: Tími í Úlan Bator,
+    Standard: Staðaltími í Úlan Bator,
+    Daylight: Sumartími í Úlan Bator
+  },
+  Asia/Ulan_Bator: {
+    Generic: Tími í Úlan Bator,
+    Standard: Staðaltími í Úlan Bator,
+    Daylight: Sumartími í Úlan Bator
+  },
+  Asia/Urumqi: {
+    Generic: Kína,
+    Standard: Kína (staðaltími),
+    Daylight: Kína (sumartími)
+  },
+  Asia/Ust-Nera: {
+    Generic: Ust-Nera,
+    Standard: Ust-Nera (staðaltími),
+    Daylight: Ust-Nera (sumartími)
+  },
+  Asia/Vientiane: {
+    Generic: Indókínatími,
+    Standard: Indókínatími,
+    Daylight: Indókínatími
+  },
+  Asia/Vladivostok: {
+    Generic: Vladivostok,
+    Standard: Vladivostok (staðaltími),
+    Daylight: Vladivostok (sumartími)
+  },
+  Asia/Yakutsk: {
+    Generic: Yakutsk,
+    Standard: Yakutsk (staðaltími),
+    Daylight: Yakutsk (sumartími)
+  },
   Asia/Yangon: {
     Generic: Mjanmar-tími,
     Standard: Mjanmar-tími,
     Daylight: Mjanmar-tími
   },
-  WET: {
+  Asia/Yekaterinburg: {
+    Generic: Yekaterinburg,
+    Standard: Yekaterinburg (staðaltími),
+    Daylight: Yekaterinburg (sumartími)
+  },
+  Asia/Yerevan: {
+    Generic: Armeníutími,
+    Standard: Staðaltími í Armeníu,
+    Daylight: Sumartími í Armeníu
+  },
+  Atlantic/Azores: {
+    Generic: Asóreyjatími,
+    Standard: Staðaltími á Asóreyjum,
+    Daylight: Sumartími á Asóreyjum
+  },
+  Atlantic/Bermuda: {
+    Generic: Tími á Atlantshafssvæðinu,
+    Standard: Staðaltími á Atlantshafssvæðinu,
+    Daylight: Sumartími á Atlantshafssvæðinu
+  },
+  Atlantic/Canary: {
+    Generic: Vestur-Evróputími,
+    Standard: Staðaltími í Vestur-Evrópu,
+    Daylight: Sumartími í Vestur-Evrópu
+  },
+  Atlantic/Cape_Verde: {
+    Generic: Grænhöfðaeyjatími,
+    Standard: Staðaltími á Grænhöfðaeyjum,
+    Daylight: Sumartími á Grænhöfðaeyjum
+  },
+  Atlantic/Faeroe: {
     Generic: Vestur-Evróputími,
     Standard: Staðaltími í Vestur-Evrópu,
     Daylight: Sumartími í Vestur-Evrópu
@@ -2679,27 +1694,77 @@
     Standard: Staðaltími í Vestur-Evrópu,
     Daylight: Sumartími í Vestur-Evrópu
   },
-  Australia/South: {
-    Generic: Tími í Mið-Ástralíu,
-    Standard: Staðaltími í Mið-Ástralíu,
-    Daylight: Sumartími í Mið-Ástralíu
+  Atlantic/Jan_Mayen: {
+    Generic: Mið-Evróputími,
+    Standard: Staðaltími í Mið-Evrópu,
+    Daylight: Sumartími í Mið-Evrópu
   },
-  Australia/Queensland: {
+  Atlantic/Madeira: {
+    Generic: Vestur-Evróputími,
+    Standard: Staðaltími í Vestur-Evrópu,
+    Daylight: Sumartími í Vestur-Evrópu
+  },
+  Atlantic/Reykjavik: {
+    Generic: Greenwich-staðaltími,
+    Standard: Greenwich-staðaltími,
+    Daylight: Greenwich-staðaltími
+  },
+  Atlantic/South_Georgia: {
+    Generic: Suður-Georgíutími,
+    Standard: Suður-Georgíutími,
+    Daylight: Suður-Georgíutími
+  },
+  Atlantic/St_Helena: {
+    Generic: Greenwich-staðaltími,
+    Standard: Greenwich-staðaltími,
+    Daylight: Greenwich-staðaltími
+  },
+  Atlantic/Stanley: {
+    Generic: Falklandseyjatími,
+    Standard: Staðaltími á Falklandseyjum,
+    Daylight: Sumartími á Falklandseyjum
+  },
+  Australia/ACT: {
     Generic: Tími í Austur-Ástralíu,
     Standard: Staðaltími í Austur-Ástralíu,
     Daylight: Sumartími í Austur-Ástralíu
   },
-  Australia/Yancowinna: {
+  Australia/Adelaide: {
     Generic: Tími í Mið-Ástralíu,
     Standard: Staðaltími í Mið-Ástralíu,
     Daylight: Sumartími í Mið-Ástralíu
   },
-  Australia/North: {
+  Australia/Brisbane: {
+    Generic: Tími í Austur-Ástralíu,
+    Standard: Staðaltími í Austur-Ástralíu,
+    Daylight: Sumartími í Austur-Ástralíu
+  },
+  Australia/Broken_Hill: {
     Generic: Tími í Mið-Ástralíu,
     Standard: Staðaltími í Mið-Ástralíu,
     Daylight: Sumartími í Mið-Ástralíu
   },
-  Australia/Tasmania: {
+  Australia/Canberra: {
+    Generic: Tími í Austur-Ástralíu,
+    Standard: Staðaltími í Austur-Ástralíu,
+    Daylight: Sumartími í Austur-Ástralíu
+  },
+  Australia/Currie: {
+    Generic: Tími í Austur-Ástralíu,
+    Standard: Staðaltími í Austur-Ástralíu,
+    Daylight: Sumartími í Austur-Ástralíu
+  },
+  Australia/Darwin: {
+    Generic: Tími í Mið-Ástralíu,
+    Standard: Staðaltími í Mið-Ástralíu,
+    Daylight: Sumartími í Mið-Ástralíu
+  },
+  Australia/Eucla: {
+    Generic: Tími í miðvesturhluta Ástralíu,
+    Standard: Staðaltími í miðvesturhluta Ástralíu,
+    Daylight: Sumartími í miðvesturhluta Ástralíu
+  },
+  Australia/Hobart: {
     Generic: Tími í Austur-Ástralíu,
     Standard: Staðaltími í Austur-Ástralíu,
     Daylight: Sumartími í Austur-Ástralíu
@@ -2708,6 +1773,56 @@
     Generic: Tími á Lord Howe-eyju,
     Standard: Staðaltími á Lord Howe-eyju,
     Daylight: Sumartími á Lord Howe-eyju
+  },
+  Australia/Lindeman: {
+    Generic: Tími í Austur-Ástralíu,
+    Standard: Staðaltími í Austur-Ástralíu,
+    Daylight: Sumartími í Austur-Ástralíu
+  },
+  Australia/Lord_Howe: {
+    Generic: Tími á Lord Howe-eyju,
+    Standard: Staðaltími á Lord Howe-eyju,
+    Daylight: Sumartími á Lord Howe-eyju
+  },
+  Australia/Melbourne: {
+    Generic: Tími í Austur-Ástralíu,
+    Standard: Staðaltími í Austur-Ástralíu,
+    Daylight: Sumartími í Austur-Ástralíu
+  },
+  Australia/NSW: {
+    Generic: Tími í Austur-Ástralíu,
+    Standard: Staðaltími í Austur-Ástralíu,
+    Daylight: Sumartími í Austur-Ástralíu
+  },
+  Australia/North: {
+    Generic: Tími í Mið-Ástralíu,
+    Standard: Staðaltími í Mið-Ástralíu,
+    Daylight: Sumartími í Mið-Ástralíu
+  },
+  Australia/Perth: {
+    Generic: Tími í Vestur-Ástralíu,
+    Standard: Staðaltími í Vestur-Ástralíu,
+    Daylight: Sumartími í Vestur-Ástralíu
+  },
+  Australia/Queensland: {
+    Generic: Tími í Austur-Ástralíu,
+    Standard: Staðaltími í Austur-Ástralíu,
+    Daylight: Sumartími í Austur-Ástralíu
+  },
+  Australia/South: {
+    Generic: Tími í Mið-Ástralíu,
+    Standard: Staðaltími í Mið-Ástralíu,
+    Daylight: Sumartími í Mið-Ástralíu
+  },
+  Australia/Sydney: {
+    Generic: Tími í Austur-Ástralíu,
+    Standard: Staðaltími í Austur-Ástralíu,
+    Daylight: Sumartími í Austur-Ástralíu
+  },
+  Australia/Tasmania: {
+    Generic: Tími í Austur-Ástralíu,
+    Standard: Staðaltími í Austur-Ástralíu,
+    Daylight: Sumartími í Austur-Ástralíu
   },
   Australia/Victoria: {
     Generic: Tími í Austur-Ástralíu,
@@ -2719,45 +1834,265 @@
     Standard: Staðaltími í Vestur-Ástralíu,
     Daylight: Sumartími í Vestur-Ástralíu
   },
-  Australia/ACT: {
-    Generic: Tími í Austur-Ástralíu,
-    Standard: Staðaltími í Austur-Ástralíu,
-    Daylight: Sumartími í Austur-Ástralíu
+  Australia/Yancowinna: {
+    Generic: Tími í Mið-Ástralíu,
+    Standard: Staðaltími í Mið-Ástralíu,
+    Daylight: Sumartími í Mið-Ástralíu
   },
-  Australia/Canberra: {
-    Generic: Tími í Austur-Ástralíu,
-    Standard: Staðaltími í Austur-Ástralíu,
-    Daylight: Sumartími í Austur-Ástralíu
+  Brazil/Acre: {
+    Generic: Brasilía,
+    Standard: Brasilía (staðaltími),
+    Daylight: Brasilía (sumartími)
   },
-  Australia/NSW: {
-    Generic: Tími í Austur-Ástralíu,
-    Standard: Staðaltími í Austur-Ástralíu,
-    Daylight: Sumartími í Austur-Ástralíu
+  Brazil/DeNoronha: {
+    Generic: Tími í Fernando de Noronha,
+    Standard: Staðaltími í Fernando de Noronha,
+    Daylight: Sumartími í Fernando de Noronha
   },
-  HST: {
-    Generic: Samræmdur alþjóðlegur tími -10,
-    Standard: Samræmdur alþjóðlegur tími -10,
-    Daylight: Samræmdur alþjóðlegur tími -10
+  Brazil/East: {
+    Generic: Brasilíutími,
+    Standard: Staðaltími í Brasilíu,
+    Daylight: Sumartími í Brasilíu
+  },
+  Brazil/West: {
+    Generic: Amasóntími,
+    Standard: Staðaltími á Amasónsvæðinu,
+    Daylight: Sumartími á Amasónsvæðinu
+  },
+  CET: {
+    Generic: Mið-Evróputími,
+    Standard: Staðaltími í Mið-Evrópu,
+    Daylight: Sumartími í Mið-Evrópu
+  },
+  CST6CDT: {
+    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
+  },
+  Canada/Atlantic: {
+    Generic: Tími á Atlantshafssvæðinu,
+    Standard: Staðaltími á Atlantshafssvæðinu,
+    Daylight: Sumartími á Atlantshafssvæðinu
+  },
+  Canada/Central: {
+    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
+  },
+  Canada/Eastern: {
+    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
+  },
+  Canada/Mountain: {
+    Generic: Tími í Klettafjöllum,
+    Standard: Staðaltími í Klettafjöllum,
+    Daylight: Sumartími í Klettafjöllum
+  },
+  Canada/Newfoundland: {
+    Generic: Tími á Nýfundnalandi,
+    Standard: Staðaltími á Nýfundnalandi,
+    Daylight: Sumartími á Nýfundnalandi
+  },
+  Canada/Pacific: {
+    Generic: Tími á Kyrrahafssvæðinu,
+    Standard: Staðaltími á Kyrrahafssvæðinu,
+    Daylight: Sumartími á Kyrrahafssvæðinu
+  },
+  Canada/Saskatchewan: {
+    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
+  },
+  Canada/Yukon: {
+    Generic: Tími í Júkon,
+    Standard: Tími í Júkon,
+    Daylight: Tími í Júkon
+  },
+  Chile/Continental: {
+    Generic: Síletími,
+    Standard: Staðaltími í Síle,
+    Daylight: Sumartími í Síle
+  },
+  Chile/EasterIsland: {
+    Generic: Páskaeyjutími,
+    Standard: Staðaltími á Páskaeyju,
+    Daylight: Sumartími á Páskaeyju
+  },
+  Cuba: {
+    Generic: Kúbutími,
+    Standard: Staðaltími á Kúbu,
+    Daylight: Sumartími á Kúbu
+  },
+  EET: {
+    Generic: Austur-Evróputími,
+    Standard: Staðaltími í Austur-Evrópu,
+    Daylight: Sumartími í Austur-Evrópu
   },
   EST: {
     Generic: Samræmdur alþjóðlegur tími -5,
     Standard: Samræmdur alþjóðlegur tími -5,
     Daylight: Samræmdur alþjóðlegur tími -5
   },
-  MST: {
-    Generic: Samræmdur alþjóðlegur tími -7,
-    Standard: Samræmdur alþjóðlegur tími -7,
-    Daylight: Samræmdur alþjóðlegur tími -7
+  EST5EDT: {
+    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
+  },
+  Egypt: {
+    Generic: Austur-Evróputími,
+    Standard: Staðaltími í Austur-Evrópu,
+    Daylight: Sumartími í Austur-Evrópu
+  },
+  Eire: {
+    Generic: Írland,
+    Standard: Greenwich-staðaltími,
+    Daylight: Sumartími á Írlandi
+  },
+  Etc/GMT: {
+    Generic: Greenwich-staðaltími,
+    Standard: Greenwich-staðaltími,
+    Daylight: Greenwich-staðaltími
   },
   Etc/GMT+0: {
     Generic: Greenwich-staðaltími,
     Standard: Greenwich-staðaltími,
     Daylight: Greenwich-staðaltími
   },
+  Etc/GMT+1: {
+    Generic: Samræmdur alþjóðlegur tími -1,
+    Standard: Samræmdur alþjóðlegur tími -1,
+    Daylight: Samræmdur alþjóðlegur tími -1
+  },
+  Etc/GMT+10: {
+    Generic: Samræmdur alþjóðlegur tími -10,
+    Standard: Samræmdur alþjóðlegur tími -10,
+    Daylight: Samræmdur alþjóðlegur tími -10
+  },
+  Etc/GMT+11: {
+    Generic: Samræmdur alþjóðlegur tími -11,
+    Standard: Samræmdur alþjóðlegur tími -11,
+    Daylight: Samræmdur alþjóðlegur tími -11
+  },
+  Etc/GMT+12: {
+    Generic: Samræmdur alþjóðlegur tími -12,
+    Standard: Samræmdur alþjóðlegur tími -12,
+    Daylight: Samræmdur alþjóðlegur tími -12
+  },
+  Etc/GMT+2: {
+    Generic: Samræmdur alþjóðlegur tími -2,
+    Standard: Samræmdur alþjóðlegur tími -2,
+    Daylight: Samræmdur alþjóðlegur tími -2
+  },
+  Etc/GMT+3: {
+    Generic: Samræmdur alþjóðlegur tími -3,
+    Standard: Samræmdur alþjóðlegur tími -3,
+    Daylight: Samræmdur alþjóðlegur tími -3
+  },
+  Etc/GMT+4: {
+    Generic: Samræmdur alþjóðlegur tími -4,
+    Standard: Samræmdur alþjóðlegur tími -4,
+    Daylight: Samræmdur alþjóðlegur tími -4
+  },
+  Etc/GMT+5: {
+    Generic: Samræmdur alþjóðlegur tími -5,
+    Standard: Samræmdur alþjóðlegur tími -5,
+    Daylight: Samræmdur alþjóðlegur tími -5
+  },
+  Etc/GMT+6: {
+    Generic: Samræmdur alþjóðlegur tími -6,
+    Standard: Samræmdur alþjóðlegur tími -6,
+    Daylight: Samræmdur alþjóðlegur tími -6
+  },
+  Etc/GMT+7: {
+    Generic: Samræmdur alþjóðlegur tími -7,
+    Standard: Samræmdur alþjóðlegur tími -7,
+    Daylight: Samræmdur alþjóðlegur tími -7
+  },
+  Etc/GMT+8: {
+    Generic: Samræmdur alþjóðlegur tími -8,
+    Standard: Samræmdur alþjóðlegur tími -8,
+    Daylight: Samræmdur alþjóðlegur tími -8
+  },
+  Etc/GMT+9: {
+    Generic: Samræmdur alþjóðlegur tími -9,
+    Standard: Samræmdur alþjóðlegur tími -9,
+    Daylight: Samræmdur alþjóðlegur tími -9
+  },
   Etc/GMT-0: {
     Generic: Greenwich-staðaltími,
     Standard: Greenwich-staðaltími,
     Daylight: Greenwich-staðaltími
+  },
+  Etc/GMT-1: {
+    Generic: Samræmdur alþjóðlegur tími +1,
+    Standard: Samræmdur alþjóðlegur tími +1,
+    Daylight: Samræmdur alþjóðlegur tími +1
+  },
+  Etc/GMT-10: {
+    Generic: Samræmdur alþjóðlegur tími +10,
+    Standard: Samræmdur alþjóðlegur tími +10,
+    Daylight: Samræmdur alþjóðlegur tími +10
+  },
+  Etc/GMT-11: {
+    Generic: Samræmdur alþjóðlegur tími +11,
+    Standard: Samræmdur alþjóðlegur tími +11,
+    Daylight: Samræmdur alþjóðlegur tími +11
+  },
+  Etc/GMT-12: {
+    Generic: Samræmdur alþjóðlegur tími +12,
+    Standard: Samræmdur alþjóðlegur tími +12,
+    Daylight: Samræmdur alþjóðlegur tími +12
+  },
+  Etc/GMT-13: {
+    Generic: Samræmdur alþjóðlegur tími +13,
+    Standard: Samræmdur alþjóðlegur tími +13,
+    Daylight: Samræmdur alþjóðlegur tími +13
+  },
+  Etc/GMT-14: {
+    Generic: Samræmdur alþjóðlegur tími +14,
+    Standard: Samræmdur alþjóðlegur tími +14,
+    Daylight: Samræmdur alþjóðlegur tími +14
+  },
+  Etc/GMT-2: {
+    Generic: Samræmdur alþjóðlegur tími +2,
+    Standard: Samræmdur alþjóðlegur tími +2,
+    Daylight: Samræmdur alþjóðlegur tími +2
+  },
+  Etc/GMT-3: {
+    Generic: Samræmdur alþjóðlegur tími +3,
+    Standard: Samræmdur alþjóðlegur tími +3,
+    Daylight: Samræmdur alþjóðlegur tími +3
+  },
+  Etc/GMT-4: {
+    Generic: Samræmdur alþjóðlegur tími +4,
+    Standard: Samræmdur alþjóðlegur tími +4,
+    Daylight: Samræmdur alþjóðlegur tími +4
+  },
+  Etc/GMT-5: {
+    Generic: Samræmdur alþjóðlegur tími +5,
+    Standard: Samræmdur alþjóðlegur tími +5,
+    Daylight: Samræmdur alþjóðlegur tími +5
+  },
+  Etc/GMT-6: {
+    Generic: Samræmdur alþjóðlegur tími +6,
+    Standard: Samræmdur alþjóðlegur tími +6,
+    Daylight: Samræmdur alþjóðlegur tími +6
+  },
+  Etc/GMT-7: {
+    Generic: Samræmdur alþjóðlegur tími +7,
+    Standard: Samræmdur alþjóðlegur tími +7,
+    Daylight: Samræmdur alþjóðlegur tími +7
+  },
+  Etc/GMT-8: {
+    Generic: Samræmdur alþjóðlegur tími +8,
+    Standard: Samræmdur alþjóðlegur tími +8,
+    Daylight: Samræmdur alþjóðlegur tími +8
+  },
+  Etc/GMT-9: {
+    Generic: Samræmdur alþjóðlegur tími +9,
+    Standard: Samræmdur alþjóðlegur tími +9,
+    Daylight: Samræmdur alþjóðlegur tími +9
   },
   Etc/GMT0: {
     Generic: Greenwich-staðaltími,
@@ -2768,6 +2103,356 @@
     Generic: Greenwich-staðaltími,
     Standard: Greenwich-staðaltími,
     Daylight: Greenwich-staðaltími
+  },
+  Etc/UCT: {
+    Generic: Samræmdur alþjóðlegur tími,
+    Standard: Samræmdur alþjóðlegur tími,
+    Daylight: Samræmdur alþjóðlegur tími
+  },
+  Etc/UTC: {
+    Generic: Samræmdur alþjóðlegur tími,
+    Standard: Samræmdur alþjóðlegur tími,
+    Daylight: Samræmdur alþjóðlegur tími
+  },
+  Etc/Universal: {
+    Generic: Samræmdur alþjóðlegur tími,
+    Standard: Samræmdur alþjóðlegur tími,
+    Daylight: Samræmdur alþjóðlegur tími
+  },
+  Etc/Zulu: {
+    Generic: Samræmdur alþjóðlegur tími,
+    Standard: Samræmdur alþjóðlegur tími,
+    Daylight: Samræmdur alþjóðlegur tími
+  },
+  Europe/Amsterdam: {
+    Generic: Mið-Evróputími,
+    Standard: Staðaltími í Mið-Evrópu,
+    Daylight: Sumartími í Mið-Evrópu
+  },
+  Europe/Andorra: {
+    Generic: Mið-Evróputími,
+    Standard: Staðaltími í Mið-Evrópu,
+    Daylight: Sumartími í Mið-Evrópu
+  },
+  Europe/Astrakhan: {
+    Generic: Astrakhan,
+    Standard: Astrakhan (staðaltími),
+    Daylight: Astrakhan (sumartími)
+  },
+  Europe/Athens: {
+    Generic: Austur-Evróputími,
+    Standard: Staðaltími í Austur-Evrópu,
+    Daylight: Sumartími í Austur-Evrópu
+  },
+  Europe/Belfast: {
+    Generic: Bretland,
+    Standard: Greenwich-staðaltími,
+    Daylight: Sumartími í Bretlandi
+  },
+  Europe/Belgrade: {
+    Generic: Mið-Evróputími,
+    Standard: Staðaltími í Mið-Evrópu,
+    Daylight: Sumartími í Mið-Evrópu
+  },
+  Europe/Berlin: {
+    Generic: Mið-Evróputími,
+    Standard: Staðaltími í Mið-Evrópu,
+    Daylight: Sumartími í Mið-Evrópu
+  },
+  Europe/Bratislava: {
+    Generic: Mið-Evróputími,
+    Standard: Staðaltími í Mið-Evrópu,
+    Daylight: Sumartími í Mið-Evrópu
+  },
+  Europe/Brussels: {
+    Generic: Mið-Evróputími,
+    Standard: Staðaltími í Mið-Evrópu,
+    Daylight: Sumartími í Mið-Evrópu
+  },
+  Europe/Bucharest: {
+    Generic: Austur-Evróputími,
+    Standard: Staðaltími í Austur-Evrópu,
+    Daylight: Sumartími í Austur-Evrópu
+  },
+  Europe/Budapest: {
+    Generic: Mið-Evróputími,
+    Standard: Staðaltími í Mið-Evrópu,
+    Daylight: Sumartími í Mið-Evrópu
+  },
+  Europe/Busingen: {
+    Generic: Mið-Evróputími,
+    Standard: Staðaltími í Mið-Evrópu,
+    Daylight: Sumartími í Mið-Evrópu
+  },
+  Europe/Chisinau: {
+    Generic: Austur-Evróputími,
+    Standard: Staðaltími í Austur-Evrópu,
+    Daylight: Sumartími í Austur-Evrópu
+  },
+  Europe/Copenhagen: {
+    Generic: Mið-Evróputími,
+    Standard: Staðaltími í Mið-Evrópu,
+    Daylight: Sumartími í Mið-Evrópu
+  },
+  Europe/Dublin: {
+    Generic: Írland,
+    Standard: Greenwich-staðaltími,
+    Daylight: Sumartími á Írlandi
+  },
+  Europe/Gibraltar: {
+    Generic: Mið-Evróputími,
+    Standard: Staðaltími í Mið-Evrópu,
+    Daylight: Sumartími í Mið-Evrópu
+  },
+  Europe/Guernsey: {
+    Generic: Greenwich-staðaltími,
+    Standard: Greenwich-staðaltími,
+    Daylight: Greenwich-staðaltími
+  },
+  Europe/Helsinki: {
+    Generic: Austur-Evróputími,
+    Standard: Staðaltími í Austur-Evrópu,
+    Daylight: Sumartími í Austur-Evrópu
+  },
+  Europe/Isle_of_Man: {
+    Generic: Greenwich-staðaltími,
+    Standard: Greenwich-staðaltími,
+    Daylight: Greenwich-staðaltími
+  },
+  Europe/Istanbul: {
+    Generic: Tyrkland,
+    Standard: Tyrkland (staðaltími),
+    Daylight: Tyrkland (sumartími)
+  },
+  Europe/Jersey: {
+    Generic: Greenwich-staðaltími,
+    Standard: Greenwich-staðaltími,
+    Daylight: Greenwich-staðaltími
+  },
+  Europe/Kaliningrad: {
+    Generic: Kaliningrad,
+    Standard: Kaliningrad (staðaltími),
+    Daylight: Kaliningrad (sumartími)
+  },
+  Europe/Kiev: {
+    Generic: Austur-Evróputími,
+    Standard: Staðaltími í Austur-Evrópu,
+    Daylight: Sumartími í Austur-Evrópu
+  },
+  Europe/Kirov: {
+    Generic: Kirov,
+    Standard: Kirov (staðaltími),
+    Daylight: Kirov (sumartími)
+  },
+  Europe/Kyiv: {
+    Generic: Austur-Evróputími,
+    Standard: Staðaltími í Austur-Evrópu,
+    Daylight: Sumartími í Austur-Evrópu
+  },
+  Europe/Lisbon: {
+    Generic: Vestur-Evróputími,
+    Standard: Staðaltími í Vestur-Evrópu,
+    Daylight: Sumartími í Vestur-Evrópu
+  },
+  Europe/Ljubljana: {
+    Generic: Mið-Evróputími,
+    Standard: Staðaltími í Mið-Evrópu,
+    Daylight: Sumartími í Mið-Evrópu
+  },
+  Europe/London: {
+    Generic: Bretland,
+    Standard: Greenwich-staðaltími,
+    Daylight: Sumartími í Bretlandi
+  },
+  Europe/Luxembourg: {
+    Generic: Mið-Evróputími,
+    Standard: Staðaltími í Mið-Evrópu,
+    Daylight: Sumartími í Mið-Evrópu
+  },
+  Europe/Madrid: {
+    Generic: Mið-Evróputími,
+    Standard: Staðaltími í Mið-Evrópu,
+    Daylight: Sumartími í Mið-Evrópu
+  },
+  Europe/Malta: {
+    Generic: Mið-Evróputími,
+    Standard: Staðaltími í Mið-Evrópu,
+    Daylight: Sumartími í Mið-Evrópu
+  },
+  Europe/Mariehamn: {
+    Generic: Austur-Evróputími,
+    Standard: Staðaltími í Austur-Evrópu,
+    Daylight: Sumartími í Austur-Evrópu
+  },
+  Europe/Minsk: {
+    Generic: Moskvutími,
+    Standard: Staðaltími í Moskvu,
+    Daylight: Sumartími í Moskvu
+  },
+  Europe/Monaco: {
+    Generic: Mið-Evróputími,
+    Standard: Staðaltími í Mið-Evrópu,
+    Daylight: Sumartími í Mið-Evrópu
+  },
+  Europe/Moscow: {
+    Generic: Moskva,
+    Standard: Moskva (staðaltími),
+    Daylight: Moskva (sumartími)
+  },
+  Europe/Nicosia: {
+    Generic: Austur-Evróputími,
+    Standard: Staðaltími í Austur-Evrópu,
+    Daylight: Sumartími í Austur-Evrópu
+  },
+  Europe/Oslo: {
+    Generic: Mið-Evróputími,
+    Standard: Staðaltími í Mið-Evrópu,
+    Daylight: Sumartími í Mið-Evrópu
+  },
+  Europe/Paris: {
+    Generic: Mið-Evróputími,
+    Standard: Staðaltími í Mið-Evrópu,
+    Daylight: Sumartími í Mið-Evrópu
+  },
+  Europe/Podgorica: {
+    Generic: Mið-Evróputími,
+    Standard: Staðaltími í Mið-Evrópu,
+    Daylight: Sumartími í Mið-Evrópu
+  },
+  Europe/Prague: {
+    Generic: Mið-Evróputími,
+    Standard: Staðaltími í Mið-Evrópu,
+    Daylight: Sumartími í Mið-Evrópu
+  },
+  Europe/Riga: {
+    Generic: Austur-Evróputími,
+    Standard: Staðaltími í Austur-Evrópu,
+    Daylight: Sumartími í Austur-Evrópu
+  },
+  Europe/Rome: {
+    Generic: Mið-Evróputími,
+    Standard: Staðaltími í Mið-Evrópu,
+    Daylight: Sumartími í Mið-Evrópu
+  },
+  Europe/Samara: {
+    Generic: Samara,
+    Standard: Samara (staðaltími),
+    Daylight: Samara (sumartími)
+  },
+  Europe/San_Marino: {
+    Generic: Mið-Evróputími,
+    Standard: Staðaltími í Mið-Evrópu,
+    Daylight: Sumartími í Mið-Evrópu
+  },
+  Europe/Sarajevo: {
+    Generic: Mið-Evróputími,
+    Standard: Staðaltími í Mið-Evrópu,
+    Daylight: Sumartími í Mið-Evrópu
+  },
+  Europe/Saratov: {
+    Generic: Saratov,
+    Standard: Saratov (staðaltími),
+    Daylight: Saratov (sumartími)
+  },
+  Europe/Simferopol: {
+    Generic: Moskvutími,
+    Standard: Staðaltími í Moskvu,
+    Daylight: Sumartími í Moskvu
+  },
+  Europe/Skopje: {
+    Generic: Mið-Evróputími,
+    Standard: Staðaltími í Mið-Evrópu,
+    Daylight: Sumartími í Mið-Evrópu
+  },
+  Europe/Sofia: {
+    Generic: Austur-Evróputími,
+    Standard: Staðaltími í Austur-Evrópu,
+    Daylight: Sumartími í Austur-Evrópu
+  },
+  Europe/Stockholm: {
+    Generic: Mið-Evróputími,
+    Standard: Staðaltími í Mið-Evrópu,
+    Daylight: Sumartími í Mið-Evrópu
+  },
+  Europe/Tallinn: {
+    Generic: Austur-Evróputími,
+    Standard: Staðaltími í Austur-Evrópu,
+    Daylight: Sumartími í Austur-Evrópu
+  },
+  Europe/Tirane: {
+    Generic: Mið-Evróputími,
+    Standard: Staðaltími í Mið-Evrópu,
+    Daylight: Sumartími í Mið-Evrópu
+  },
+  Europe/Tiraspol: {
+    Generic: Austur-Evróputími,
+    Standard: Staðaltími í Austur-Evrópu,
+    Daylight: Sumartími í Austur-Evrópu
+  },
+  Europe/Ulyanovsk: {
+    Generic: Ulyanovsk,
+    Standard: Ulyanovsk (staðaltími),
+    Daylight: Ulyanovsk (sumartími)
+  },
+  Europe/Uzhgorod: {
+    Generic: Austur-Evróputími,
+    Standard: Staðaltími í Austur-Evrópu,
+    Daylight: Sumartími í Austur-Evrópu
+  },
+  Europe/Vaduz: {
+    Generic: Mið-Evróputími,
+    Standard: Staðaltími í Mið-Evrópu,
+    Daylight: Sumartími í Mið-Evrópu
+  },
+  Europe/Vatican: {
+    Generic: Mið-Evróputími,
+    Standard: Staðaltími í Mið-Evrópu,
+    Daylight: Sumartími í Mið-Evrópu
+  },
+  Europe/Vienna: {
+    Generic: Mið-Evróputími,
+    Standard: Staðaltími í Mið-Evrópu,
+    Daylight: Sumartími í Mið-Evrópu
+  },
+  Europe/Vilnius: {
+    Generic: Austur-Evróputími,
+    Standard: Staðaltími í Austur-Evrópu,
+    Daylight: Sumartími í Austur-Evrópu
+  },
+  Europe/Volgograd: {
+    Generic: Volgograd,
+    Standard: Volgograd (staðaltími),
+    Daylight: Volgograd (sumartími)
+  },
+  Europe/Warsaw: {
+    Generic: Mið-Evróputími,
+    Standard: Staðaltími í Mið-Evrópu,
+    Daylight: Sumartími í Mið-Evrópu
+  },
+  Europe/Zagreb: {
+    Generic: Mið-Evróputími,
+    Standard: Staðaltími í Mið-Evrópu,
+    Daylight: Sumartími í Mið-Evrópu
+  },
+  Europe/Zaporozhye: {
+    Generic: Austur-Evróputími,
+    Standard: Staðaltími í Austur-Evrópu,
+    Daylight: Sumartími í Austur-Evrópu
+  },
+  Europe/Zurich: {
+    Generic: Mið-Evróputími,
+    Standard: Staðaltími í Mið-Evrópu,
+    Daylight: Sumartími í Mið-Evrópu
+  },
+  GB: {
+    Generic: Bretland,
+    Standard: Greenwich-staðaltími,
+    Daylight: Sumartími í Bretlandi
+  },
+  GB-Eire: {
+    Generic: Bretland,
+    Standard: Greenwich-staðaltími,
+    Daylight: Sumartími í Bretlandi
   },
   GMT: {
     Generic: Greenwich-staðaltími,
@@ -2794,120 +2479,135 @@
     Standard: Greenwich-staðaltími,
     Daylight: Greenwich-staðaltími
   },
-  Etc/UCT: {
-    Generic: Samræmdur alþjóðlegur tími,
-    Standard: Samræmdur alþjóðlegur tími,
-    Daylight: Samræmdur alþjóðlegur tími
+  HST: {
+    Generic: Samræmdur alþjóðlegur tími -10,
+    Standard: Samræmdur alþjóðlegur tími -10,
+    Daylight: Samræmdur alþjóðlegur tími -10
   },
-  Etc/Universal: {
-    Generic: Samræmdur alþjóðlegur tími,
-    Standard: Samræmdur alþjóðlegur tími,
-    Daylight: Samræmdur alþjóðlegur tími
+  Hongkong: {
+    Generic: Hong Kong-tími,
+    Standard: Staðaltími í Hong Kong,
+    Daylight: Sumartími í Hong Kong
   },
-  Etc/Zulu: {
-    Generic: Samræmdur alþjóðlegur tími,
-    Standard: Samræmdur alþjóðlegur tími,
-    Daylight: Samræmdur alþjóðlegur tími
+  Iceland: {
+    Generic: Greenwich-staðaltími,
+    Standard: Greenwich-staðaltími,
+    Daylight: Greenwich-staðaltími
   },
-  UCT: {
-    Generic: Samræmdur alþjóðlegur tími,
-    Standard: Samræmdur alþjóðlegur tími,
-    Daylight: Samræmdur alþjóðlegur tími
+  Indian/Antananarivo: {
+    Generic: Austur-Afríkutími,
+    Standard: Austur-Afríkutími,
+    Daylight: Austur-Afríkutími
   },
-  UTC: {
-    Generic: Samræmdur alþjóðlegur tími,
-    Standard: Samræmdur alþjóðlegur tími,
-    Daylight: Samræmdur alþjóðlegur tími
+  Indian/Chagos: {
+    Generic: Indlandshafstími,
+    Standard: Indlandshafstími,
+    Daylight: Indlandshafstími
   },
-  Universal: {
-    Generic: Samræmdur alþjóðlegur tími,
-    Standard: Samræmdur alþjóðlegur tími,
-    Daylight: Samræmdur alþjóðlegur tími
+  Indian/Christmas: {
+    Generic: Jólaeyjartími,
+    Standard: Jólaeyjartími,
+    Daylight: Jólaeyjartími
   },
-  Zulu: {
-    Generic: Samræmdur alþjóðlegur tími,
-    Standard: Samræmdur alþjóðlegur tími,
-    Daylight: Samræmdur alþjóðlegur tími
+  Indian/Cocos: {
+    Generic: Kókoseyjatími,
+    Standard: Kókoseyjatími,
+    Daylight: Kókoseyjatími
   },
-  Atlantic/Jan_Mayen: {
-    Generic: Mið-Evróputími,
-    Standard: Staðaltími í Mið-Evrópu,
-    Daylight: Sumartími í Mið-Evrópu
+  Indian/Comoro: {
+    Generic: Austur-Afríkutími,
+    Standard: Austur-Afríkutími,
+    Daylight: Austur-Afríkutími
+  },
+  Indian/Kerguelen: {
+    Generic: Tími á frönsku suðurhafssvæðum og Suðurskautslandssvæði,
+    Standard: Tími á frönsku suðurhafssvæðum og Suðurskautslandssvæði,
+    Daylight: Tími á frönsku suðurhafssvæðum og Suðurskautslandssvæði
+  },
+  Indian/Mahe: {
+    Generic: Seychelles-eyjatími,
+    Standard: Seychelles-eyjatími,
+    Daylight: Seychelles-eyjatími
+  },
+  Indian/Maldives: {
+    Generic: Maldíveyja-tími,
+    Standard: Maldíveyja-tími,
+    Daylight: Maldíveyja-tími
+  },
+  Indian/Mauritius: {
+    Generic: Máritíustími,
+    Standard: Staðaltími á Máritíus,
+    Daylight: Sumartími á Máritíus
+  },
+  Indian/Mayotte: {
+    Generic: Austur-Afríkutími,
+    Standard: Austur-Afríkutími,
+    Daylight: Austur-Afríkutími
+  },
+  Indian/Reunion: {
+    Generic: Réunion-tími,
+    Standard: Réunion-tími,
+    Daylight: Réunion-tími
+  },
+  Iran: {
+    Generic: Íranstími,
+    Standard: Staðaltími í Íran,
+    Daylight: Sumartími í Íran
+  },
+  Israel: {
+    Generic: Ísraelstími,
+    Standard: Staðaltími í Ísrael,
+    Daylight: Sumartími í Ísrael
+  },
+  Jamaica: {
+    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
+  },
+  Japan: {
+    Generic: Japanstími,
+    Standard: Staðaltími í Japan,
+    Daylight: Sumartími í Japan
+  },
+  Kwajalein: {
+    Generic: Tími á Marshall-eyjum,
+    Standard: Tími á Marshall-eyjum,
+    Daylight: Tími á Marshall-eyjum
+  },
+  Libya: {
+    Generic: Austur-Evróputími,
+    Standard: Staðaltími í Austur-Evrópu,
+    Daylight: Sumartími í Austur-Evrópu
   },
   MET: {
     Generic: Mið-Evróputími,
     Standard: Staðaltími í Mið-Evrópu,
     Daylight: Sumartími í Mið-Evrópu
   },
-  EET: {
-    Generic: Austur-Evróputími,
-    Standard: Staðaltími í Austur-Evrópu,
-    Daylight: Sumartími í Austur-Evrópu
+  MST: {
+    Generic: Samræmdur alþjóðlegur tími -7,
+    Standard: Samræmdur alþjóðlegur tími -7,
+    Daylight: Samræmdur alþjóðlegur tími -7
   },
-  Europe/Tiraspol: {
-    Generic: Austur-Evróputími,
-    Standard: Staðaltími í Austur-Evrópu,
-    Daylight: Sumartími í Austur-Evrópu
+  MST7MDT: {
+    Generic: Tími í Klettafjöllum,
+    Standard: Staðaltími í Klettafjöllum,
+    Daylight: Sumartími í Klettafjöllum
   },
-  Eire: {
-    Generic: Írland,
-    Standard: Greenwich-staðaltími,
-    Daylight: Sumartími á Írlandi
+  Mexico/BajaNorte: {
+    Generic: Tími á Kyrrahafssvæðinu,
+    Standard: Staðaltími á Kyrrahafssvæðinu,
+    Daylight: Sumartími á Kyrrahafssvæðinu
   },
-  Asia/Istanbul: {
-    Generic: Tyrkland,
-    Standard: Tyrkland (staðaltími),
-    Daylight: Tyrkland (sumartími)
+  Mexico/BajaSur: {
+    Generic: Kyrrahafstími í Mexíkó,
+    Standard: Staðaltími í Mexíkó á Kyrrahafssvæðinu,
+    Daylight: Sumartími í Mexíkó á Kyrrahafssvæðinu
   },
-  Turkey: {
-    Generic: Tyrkland,
-    Standard: Tyrkland (staðaltími),
-    Daylight: Tyrkland (sumartími)
-  },
-  Europe/Kyiv: {
-    Generic: Austur-Evróputími,
-    Standard: Staðaltími í Austur-Evrópu,
-    Daylight: Sumartími í Austur-Evrópu
-  },
-  Portugal: {
-    Generic: Vestur-Evróputími,
-    Standard: Staðaltími í Vestur-Evrópu,
-    Daylight: Sumartími í Vestur-Evrópu
-  },
-  Europe/Belfast: {
-    Generic: Bretland,
-    Standard: Greenwich-staðaltími,
-    Daylight: Sumartími í Bretlandi
-  },
-  GB: {
-    Generic: Bretland,
-    Standard: Greenwich-staðaltími,
-    Daylight: Sumartími í Bretlandi
-  },
-  GB-Eire: {
-    Generic: Bretland,
-    Standard: Greenwich-staðaltími,
-    Daylight: Sumartími í Bretlandi
-  },
-  W-SU: {
-    Generic: Moskva,
-    Standard: Moskva (staðaltími),
-    Daylight: Moskva (sumartími)
-  },
-  CET: {
-    Generic: Mið-Evróputími,
-    Standard: Staðaltími í Mið-Evrópu,
-    Daylight: Sumartími í Mið-Evrópu
-  },
-  Poland: {
-    Generic: Mið-Evróputími,
-    Standard: Staðaltími í Mið-Evrópu,
-    Daylight: Sumartími í Mið-Evrópu
-  },
-  Antarctica/South_Pole: {
-    Generic: Tími á Nýja-Sjálandi,
-    Standard: Staðaltími á Nýja-Sjálandi,
-    Daylight: Sumartími á Nýja-Sjálandi
+  Mexico/General: {
+    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
   },
   NZ: {
     Generic: Tími á Nýja-Sjálandi,
@@ -2919,17 +2619,102 @@
     Standard: Staðaltími í Chatham,
     Daylight: Sumartími í Chatham
   },
-  Chile/EasterIsland: {
+  Navajo: {
+    Generic: Tími í Klettafjöllum,
+    Standard: Staðaltími í Klettafjöllum,
+    Daylight: Sumartími í Klettafjöllum
+  },
+  PRC: {
+    Generic: Kínatími,
+    Standard: Staðaltími í Kína,
+    Daylight: Sumartími í Kína
+  },
+  PST8PDT: {
+    Generic: Tími á Kyrrahafssvæðinu,
+    Standard: Staðaltími á Kyrrahafssvæðinu,
+    Daylight: Sumartími á Kyrrahafssvæðinu
+  },
+  Pacific/Apia: {
+    Generic: Tími í Apía,
+    Standard: Staðaltími í Apía,
+    Daylight: Sumartími í Apía
+  },
+  Pacific/Auckland: {
+    Generic: Tími á Nýja-Sjálandi,
+    Standard: Staðaltími á Nýja-Sjálandi,
+    Daylight: Sumartími á Nýja-Sjálandi
+  },
+  Pacific/Bougainville: {
+    Generic: Tími á Papúa Nýju-Gíneu,
+    Standard: Tími á Papúa Nýju-Gíneu,
+    Daylight: Tími á Papúa Nýju-Gíneu
+  },
+  Pacific/Chatham: {
+    Generic: Chatham-tími,
+    Standard: Staðaltími í Chatham,
+    Daylight: Sumartími í Chatham
+  },
+  Pacific/Chuuk: {
+    Generic: Chuuk-tími,
+    Standard: Chuuk-tími,
+    Daylight: Chuuk-tími
+  },
+  Pacific/Easter: {
     Generic: Páskaeyjutími,
     Standard: Staðaltími á Páskaeyju,
     Daylight: Sumartími á Páskaeyju
   },
-  Pacific/Pohnpei: {
-    Generic: Ponape-tími,
-    Standard: Ponape-tími,
-    Daylight: Ponape-tími
+  Pacific/Efate: {
+    Generic: Vanúatú-tími,
+    Standard: Staðaltími á Vanúatú,
+    Daylight: Sumartími á Vanúatú
   },
-  US/Hawaii: {
+  Pacific/Enderbury: {
+    Generic: Fönixeyjatími,
+    Standard: Fönixeyjatími,
+    Daylight: Fönixeyjatími
+  },
+  Pacific/Fakaofo: {
+    Generic: Tókelá-tími,
+    Standard: Tókelá-tími,
+    Daylight: Tókelá-tími
+  },
+  Pacific/Fiji: {
+    Generic: Fídjíeyjatími,
+    Standard: Staðaltími á Fídjíeyjum,
+    Daylight: Sumartími á Fídjíeyjum
+  },
+  Pacific/Funafuti: {
+    Generic: Túvalútími,
+    Standard: Túvalútími,
+    Daylight: Túvalútími
+  },
+  Pacific/Galapagos: {
+    Generic: Galapagos-tími,
+    Standard: Galapagos-tími,
+    Daylight: Galapagos-tími
+  },
+  Pacific/Gambier: {
+    Generic: Gambier-tími,
+    Standard: Gambier-tími,
+    Daylight: Gambier-tími
+  },
+  Pacific/Guadalcanal: {
+    Generic: Salómonseyjatími,
+    Standard: Salómonseyjatími,
+    Daylight: Salómonseyjatími
+  },
+  Pacific/Guam: {
+    Generic: Chamorro-staðaltími,
+    Standard: Chamorro-staðaltími,
+    Daylight: Chamorro-staðaltími
+  },
+  Pacific/Honolulu: {
+    Generic: Tími á Havaí og Aleúta,
+    Standard: Staðaltími á Havaí og Aleúta,
+    Daylight: Sumartími á Havaí og Aleúta
+  },
+  Pacific/Johnston: {
     Generic: Tími á Havaí og Aleúta,
     Standard: Staðaltími á Havaí og Aleúta,
     Daylight: Sumartími á Havaí og Aleúta
@@ -2939,39 +2724,254 @@
     Standard: Fönixeyjatími,
     Daylight: Fönixeyjatími
   },
-  Kwajalein: {
+  Pacific/Kiritimati: {
+    Generic: Línueyja-tími,
+    Standard: Línueyja-tími,
+    Daylight: Línueyja-tími
+  },
+  Pacific/Kosrae: {
+    Generic: Kosrae-tími,
+    Standard: Kosrae-tími,
+    Daylight: Kosrae-tími
+  },
+  Pacific/Kwajalein: {
     Generic: Tími á Marshall-eyjum,
     Standard: Tími á Marshall-eyjum,
     Daylight: Tími á Marshall-eyjum
+  },
+  Pacific/Majuro: {
+    Generic: Tími á Marshall-eyjum,
+    Standard: Tími á Marshall-eyjum,
+    Daylight: Tími á Marshall-eyjum
+  },
+  Pacific/Marquesas: {
+    Generic: Tími á Markgreifafrúreyjum,
+    Standard: Tími á Markgreifafrúreyjum,
+    Daylight: Tími á Markgreifafrúreyjum
+  },
+  Pacific/Midway: {
+    Generic: Samóa-tími,
+    Standard: Staðaltími á Samóa,
+    Daylight: Sumartími á Samóa
+  },
+  Pacific/Nauru: {
+    Generic: Nárú-tími,
+    Standard: Nárú-tími,
+    Daylight: Nárú-tími
+  },
+  Pacific/Niue: {
+    Generic: Niue-tími,
+    Standard: Niue-tími,
+    Daylight: Niue-tími
+  },
+  Pacific/Norfolk: {
+    Generic: Tími á Norfolk-eyju,
+    Standard: Staðaltími á Norfolk-eyju,
+    Daylight: Sumartími á Norfolk-eyju
+  },
+  Pacific/Noumea: {
+    Generic: Tími í Nýju-Kaledóníu,
+    Standard: Staðaltími í Nýju-Kaledóníu,
+    Daylight: Sumartími í Nýju-Kaledóníu
+  },
+  Pacific/Pago_Pago: {
+    Generic: Samóa-tími,
+    Standard: Staðaltími á Samóa,
+    Daylight: Sumartími á Samóa
+  },
+  Pacific/Palau: {
+    Generic: Palátími,
+    Standard: Palátími,
+    Daylight: Palátími
+  },
+  Pacific/Pitcairn: {
+    Generic: Pitcairn-tími,
+    Standard: Pitcairn-tími,
+    Daylight: Pitcairn-tími
+  },
+  Pacific/Pohnpei: {
+    Generic: Ponape-tími,
+    Standard: Ponape-tími,
+    Daylight: Ponape-tími
+  },
+  Pacific/Ponape: {
+    Generic: Ponape-tími,
+    Standard: Ponape-tími,
+    Daylight: Ponape-tími
+  },
+  Pacific/Port_Moresby: {
+    Generic: Tími á Papúa Nýju-Gíneu,
+    Standard: Tími á Papúa Nýju-Gíneu,
+    Daylight: Tími á Papúa Nýju-Gíneu
+  },
+  Pacific/Rarotonga: {
+    Generic: Cooks-eyjatími,
+    Standard: Staðaltími á Cooks-eyjum,
+    Daylight: Hálfsumartími á Cooks-eyjum
+  },
+  Pacific/Saipan: {
+    Generic: Chamorro-staðaltími,
+    Standard: Chamorro-staðaltími,
+    Daylight: Chamorro-staðaltími
   },
   Pacific/Samoa: {
     Generic: Samóa-tími,
     Standard: Staðaltími á Samóa,
     Daylight: Sumartími á Samóa
   },
-  US/Samoa: {
-    Generic: Samóa-tími,
-    Standard: Staðaltími á Samóa,
-    Daylight: Sumartími á Samóa
+  Pacific/Tahiti: {
+    Generic: Tahítí-tími,
+    Standard: Tahítí-tími,
+    Daylight: Tahítí-tími
   },
-  Pacific/Chuuk: {
+  Pacific/Tarawa: {
+    Generic: Tími á Gilbert-eyjum,
+    Standard: Tími á Gilbert-eyjum,
+    Daylight: Tími á Gilbert-eyjum
+  },
+  Pacific/Tongatapu: {
+    Generic: Tongatími,
+    Standard: Staðaltími á Tonga,
+    Daylight: Sumartími á Tonga
+  },
+  Pacific/Truk: {
     Generic: Chuuk-tími,
     Standard: Chuuk-tími,
     Daylight: Chuuk-tími
+  },
+  Pacific/Wake: {
+    Generic: Tími á Wake-eyju,
+    Standard: Tími á Wake-eyju,
+    Daylight: Tími á Wake-eyju
+  },
+  Pacific/Wallis: {
+    Generic: Tími á Wallis- og Fútúnaeyjum,
+    Standard: Tími á Wallis- og Fútúnaeyjum,
+    Daylight: Tími á Wallis- og Fútúnaeyjum
   },
   Pacific/Yap: {
     Generic: Chuuk-tími,
     Standard: Chuuk-tími,
     Daylight: Chuuk-tími
   },
-  America/Fort_Wayne: {
+  Poland: {
+    Generic: Mið-Evróputími,
+    Standard: Staðaltími í Mið-Evrópu,
+    Daylight: Sumartími í Mið-Evrópu
+  },
+  Portugal: {
+    Generic: Vestur-Evróputími,
+    Standard: Staðaltími í Vestur-Evrópu,
+    Daylight: Sumartími í Vestur-Evrópu
+  },
+  ROC: {
+    Generic: Taipei-tími,
+    Standard: Staðaltími í Taipei,
+    Daylight: Sumartími í Taipei
+  },
+  ROK: {
+    Generic: Kóreutími,
+    Standard: Staðaltími í Kóreu,
+    Daylight: Sumartími í Kóreu
+  },
+  Singapore: {
+    Generic: Singapúrtími,
+    Standard: Singapúrtími,
+    Daylight: Singapúrtími
+  },
+  Turkey: {
+    Generic: Tyrkland,
+    Standard: Tyrkland (staðaltími),
+    Daylight: Tyrkland (sumartími)
+  },
+  UCT: {
+    Generic: Samræmdur alþjóðlegur tími,
+    Standard: Samræmdur alþjóðlegur tími,
+    Daylight: Samræmdur alþjóðlegur tími
+  },
+  US/Alaska: {
+    Generic: Tími í Alaska,
+    Standard: Staðaltími í Alaska,
+    Daylight: Sumartími í Alaska
+  },
+  US/Aleutian: {
+    Generic: Tími á Havaí og Aleúta,
+    Standard: Staðaltími á Havaí og Aleúta,
+    Daylight: Sumartími á Havaí og Aleúta
+  },
+  US/Arizona: {
+    Generic: Tími í Klettafjöllum,
+    Standard: Staðaltími í Klettafjöllum,
+    Daylight: Sumartími í Klettafjöllum
+  },
+  US/Central: {
+    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
+  },
+  US/East-Indiana: {
     Generic: Tími í austurhluta Bandaríkjanna og Kanada,
     Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
     Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
   },
-  Antarctica/Troll: {
-    Generic: Greenwich-staðaltími,
-    Standard: Greenwich-staðaltími,
-    Daylight: Greenwich-staðaltími
+  US/Eastern: {
+    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
+  },
+  US/Hawaii: {
+    Generic: Tími á Havaí og Aleúta,
+    Standard: Staðaltími á Havaí og Aleúta,
+    Daylight: Sumartími á Havaí og Aleúta
+  },
+  US/Indiana-Starke: {
+    Generic: Tími í miðhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í miðhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
+  },
+  US/Michigan: {
+    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
+  },
+  US/Mountain: {
+    Generic: Tími í Klettafjöllum,
+    Standard: Staðaltími í Klettafjöllum,
+    Daylight: Sumartími í Klettafjöllum
+  },
+  US/Pacific: {
+    Generic: Tími á Kyrrahafssvæðinu,
+    Standard: Staðaltími á Kyrrahafssvæðinu,
+    Daylight: Sumartími á Kyrrahafssvæðinu
+  },
+  US/Samoa: {
+    Generic: Samóa-tími,
+    Standard: Staðaltími á Samóa,
+    Daylight: Sumartími á Samóa
+  },
+  UTC: {
+    Generic: Samræmdur alþjóðlegur tími,
+    Standard: Samræmdur alþjóðlegur tími,
+    Daylight: Samræmdur alþjóðlegur tími
+  },
+  Universal: {
+    Generic: Samræmdur alþjóðlegur tími,
+    Standard: Samræmdur alþjóðlegur tími,
+    Daylight: Samræmdur alþjóðlegur tími
+  },
+  W-SU: {
+    Generic: Moskva,
+    Standard: Moskva (staðaltími),
+    Daylight: Moskva (sumartími)
+  },
+  WET: {
+    Generic: Vestur-Evróputími,
+    Standard: Staðaltími í Vestur-Evrópu,
+    Daylight: Sumartími í Vestur-Evrópu
+  },
+  Zulu: {
+    Generic: Samræmdur alþjóðlegur tími,
+    Standard: Samræmdur alþjóðlegur tími,
+    Daylight: Samræmdur alþjóðlegur tími
   }
 }

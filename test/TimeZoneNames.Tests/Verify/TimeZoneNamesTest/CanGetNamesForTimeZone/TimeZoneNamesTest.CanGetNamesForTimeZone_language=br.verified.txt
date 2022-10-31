@@ -1,115 +1,330 @@
 ﻿{
-  Australia/Darwin: {
-    Generic: eur Kreizaostralia,
-    Standard: eur cʼhoañv Kreizaostralia,
-    Daylight: eur hañv Kreizaostralia
+  Africa/Abidjan: {
+    Generic: Amzer keitat Greenwich (AKG),
+    Standard: Amzer keitat Greenwich (AKG),
+    Daylight: Amzer keitat Greenwich (AKG)
   },
-  Australia/Sydney: {
-    Generic: eur Aostralia ar Reter,
-    Standard: eur cʼhoañv Aostralia ar Reter,
-    Daylight: eur hañv Aostralia ar Reter
+  Africa/Accra: {
+    Generic: Amzer keitat Greenwich (AKG),
+    Standard: Amzer keitat Greenwich (AKG),
+    Daylight: Amzer keitat Greenwich (AKG)
   },
-  Australia/Melbourne: {
-    Generic: eur Aostralia ar Reter,
-    Standard: eur cʼhoañv Aostralia ar Reter,
-    Daylight: eur hañv Aostralia ar Reter
+  Africa/Addis_Ababa: {
+    Generic: eur Afrika ar Reter,
+    Standard: eur Afrika ar Reter,
+    Daylight: eur Afrika ar Reter
   },
-  Asia/Kabul: {
-    Generic: eur Afghanistan,
-    Standard: eur Afghanistan,
-    Daylight: eur Afghanistan
+  Africa/Algiers: {
+    Generic: eur Kreizeuropa,
+    Standard: eur cʼhoañv Kreizeuropa,
+    Daylight: eur hañv Kreizeuropa
   },
-  America/Anchorage: {
-    Generic: eur Alaska,
-    Standard: eur cʼhoañv Alaska,
-    Daylight: eur hañv Alaska
+  Africa/Asmara: {
+    Generic: eur Afrika ar Reter,
+    Standard: eur Afrika ar Reter,
+    Daylight: eur Afrika ar Reter
   },
-  America/Juneau: {
-    Generic: eur Alaska,
-    Standard: eur cʼhoañv Alaska,
-    Daylight: eur hañv Alaska
+  Africa/Asmera: {
+    Generic: eur Afrika ar Reter,
+    Standard: eur Afrika ar Reter,
+    Daylight: eur Afrika ar Reter
   },
-  America/Metlakatla: {
-    Generic: eur Alaska,
-    Standard: eur cʼhoañv Alaska,
-    Daylight: eur hañv Alaska
+  Africa/Bamako: {
+    Generic: Amzer keitat Greenwich (AKG),
+    Standard: Amzer keitat Greenwich (AKG),
+    Daylight: Amzer keitat Greenwich (AKG)
   },
-  America/Nome: {
-    Generic: eur Alaska,
-    Standard: eur cʼhoañv Alaska,
-    Daylight: eur hañv Alaska
+  Africa/Bangui: {
+    Generic: eur Afrika ar Cʼhornôg,
+    Standard: eur cʼhoañv Afrika ar Cʼhornôg,
+    Daylight: eur hañv Afrika ar Cʼhornôg
   },
-  America/Sitka: {
-    Generic: eur Alaska,
-    Standard: eur cʼhoañv Alaska,
-    Daylight: eur hañv Alaska
+  Africa/Banjul: {
+    Generic: Amzer keitat Greenwich (AKG),
+    Standard: Amzer keitat Greenwich (AKG),
+    Daylight: Amzer keitat Greenwich (AKG)
   },
-  America/Yakutat: {
-    Generic: eur Alaska,
-    Standard: eur cʼhoañv Alaska,
-    Daylight: eur hañv Alaska
+  Africa/Bissau: {
+    Generic: Amzer keitat Greenwich (AKG),
+    Standard: Amzer keitat Greenwich (AKG),
+    Daylight: Amzer keitat Greenwich (AKG)
+  },
+  Africa/Blantyre: {
+    Generic: eur Kreizafrika,
+    Standard: eur Kreizafrika,
+    Daylight: eur Kreizafrika
+  },
+  Africa/Brazzaville: {
+    Generic: eur Afrika ar Cʼhornôg,
+    Standard: eur cʼhoañv Afrika ar Cʼhornôg,
+    Daylight: eur hañv Afrika ar Cʼhornôg
+  },
+  Africa/Bujumbura: {
+    Generic: eur Kreizafrika,
+    Standard: eur Kreizafrika,
+    Daylight: eur Kreizafrika
+  },
+  Africa/Cairo: {
+    Generic: eur Europa ar Reter,
+    Standard: eur cʼhoañv Europa ar Reter,
+    Daylight: eur hañv Europa ar Reter
+  },
+  Africa/Casablanca: {
+    Generic: eur Europa ar Cʼhornôg,
+    Standard: eur cʼhoañv Europa ar Cʼhornôg,
+    Daylight: eur hañv Europa ar Cʼhornôg
+  },
+  Africa/Ceuta: {
+    Generic: eur Kreizeuropa,
+    Standard: eur cʼhoañv Kreizeuropa,
+    Daylight: eur hañv Kreizeuropa
+  },
+  Africa/Conakry: {
+    Generic: Amzer keitat Greenwich (AKG),
+    Standard: Amzer keitat Greenwich (AKG),
+    Daylight: Amzer keitat Greenwich (AKG)
+  },
+  Africa/Dakar: {
+    Generic: Amzer keitat Greenwich (AKG),
+    Standard: Amzer keitat Greenwich (AKG),
+    Daylight: Amzer keitat Greenwich (AKG)
+  },
+  Africa/Dar_es_Salaam: {
+    Generic: eur Afrika ar Reter,
+    Standard: eur Afrika ar Reter,
+    Daylight: eur Afrika ar Reter
+  },
+  Africa/Djibouti: {
+    Generic: eur Afrika ar Reter,
+    Standard: eur Afrika ar Reter,
+    Daylight: eur Afrika ar Reter
+  },
+  Africa/Douala: {
+    Generic: eur Afrika ar Cʼhornôg,
+    Standard: eur cʼhoañv Afrika ar Cʼhornôg,
+    Daylight: eur hañv Afrika ar Cʼhornôg
+  },
+  Africa/El_Aaiun: {
+    Generic: eur Europa ar Cʼhornôg,
+    Standard: eur cʼhoañv Europa ar Cʼhornôg,
+    Daylight: eur hañv Europa ar Cʼhornôg
+  },
+  Africa/Freetown: {
+    Generic: Amzer keitat Greenwich (AKG),
+    Standard: Amzer keitat Greenwich (AKG),
+    Daylight: Amzer keitat Greenwich (AKG)
+  },
+  Africa/Gaborone: {
+    Generic: eur Kreizafrika,
+    Standard: eur Kreizafrika,
+    Daylight: eur Kreizafrika
+  },
+  Africa/Harare: {
+    Generic: eur Kreizafrika,
+    Standard: eur Kreizafrika,
+    Daylight: eur Kreizafrika
+  },
+  Africa/Johannesburg: {
+    Generic: eur cʼhoañv Suafrika,
+    Standard: eur cʼhoañv Suafrika,
+    Daylight: eur cʼhoañv Suafrika
+  },
+  Africa/Juba: {
+    Generic: eur Kreizafrika,
+    Standard: eur Kreizafrika,
+    Daylight: eur Kreizafrika
+  },
+  Africa/Kampala: {
+    Generic: eur Afrika ar Reter,
+    Standard: eur Afrika ar Reter,
+    Daylight: eur Afrika ar Reter
+  },
+  Africa/Khartoum: {
+    Generic: eur Kreizafrika,
+    Standard: eur Kreizafrika,
+    Daylight: eur Kreizafrika
+  },
+  Africa/Kigali: {
+    Generic: eur Kreizafrika,
+    Standard: eur Kreizafrika,
+    Daylight: eur Kreizafrika
+  },
+  Africa/Kinshasa: {
+    Generic: eur Afrika ar Cʼhornôg,
+    Standard: eur cʼhoañv Afrika ar Cʼhornôg,
+    Daylight: eur hañv Afrika ar Cʼhornôg
+  },
+  Africa/Lagos: {
+    Generic: eur Afrika ar Cʼhornôg,
+    Standard: eur cʼhoañv Afrika ar Cʼhornôg,
+    Daylight: eur hañv Afrika ar Cʼhornôg
+  },
+  Africa/Libreville: {
+    Generic: eur Afrika ar Cʼhornôg,
+    Standard: eur cʼhoañv Afrika ar Cʼhornôg,
+    Daylight: eur hañv Afrika ar Cʼhornôg
+  },
+  Africa/Lome: {
+    Generic: Amzer keitat Greenwich (AKG),
+    Standard: Amzer keitat Greenwich (AKG),
+    Daylight: Amzer keitat Greenwich (AKG)
+  },
+  Africa/Luanda: {
+    Generic: eur Afrika ar Cʼhornôg,
+    Standard: eur cʼhoañv Afrika ar Cʼhornôg,
+    Daylight: eur hañv Afrika ar Cʼhornôg
+  },
+  Africa/Lubumbashi: {
+    Generic: eur Kreizafrika,
+    Standard: eur Kreizafrika,
+    Daylight: eur Kreizafrika
+  },
+  Africa/Lusaka: {
+    Generic: eur Kreizafrika,
+    Standard: eur Kreizafrika,
+    Daylight: eur Kreizafrika
+  },
+  Africa/Malabo: {
+    Generic: eur Afrika ar Cʼhornôg,
+    Standard: eur cʼhoañv Afrika ar Cʼhornôg,
+    Daylight: eur hañv Afrika ar Cʼhornôg
+  },
+  Africa/Maputo: {
+    Generic: eur Kreizafrika,
+    Standard: eur Kreizafrika,
+    Daylight: eur Kreizafrika
+  },
+  Africa/Maseru: {
+    Generic: eur cʼhoañv Suafrika,
+    Standard: eur cʼhoañv Suafrika,
+    Daylight: eur cʼhoañv Suafrika
+  },
+  Africa/Mbabane: {
+    Generic: eur cʼhoañv Suafrika,
+    Standard: eur cʼhoañv Suafrika,
+    Daylight: eur cʼhoañv Suafrika
+  },
+  Africa/Mogadishu: {
+    Generic: eur Afrika ar Reter,
+    Standard: eur Afrika ar Reter,
+    Daylight: eur Afrika ar Reter
+  },
+  Africa/Monrovia: {
+    Generic: Amzer keitat Greenwich (AKG),
+    Standard: Amzer keitat Greenwich (AKG),
+    Daylight: Amzer keitat Greenwich (AKG)
+  },
+  Africa/Nairobi: {
+    Generic: eur Afrika ar Reter,
+    Standard: eur Afrika ar Reter,
+    Daylight: eur Afrika ar Reter
+  },
+  Africa/Ndjamena: {
+    Generic: eur Afrika ar Cʼhornôg,
+    Standard: eur cʼhoañv Afrika ar Cʼhornôg,
+    Daylight: eur hañv Afrika ar Cʼhornôg
+  },
+  Africa/Niamey: {
+    Generic: eur Afrika ar Cʼhornôg,
+    Standard: eur cʼhoañv Afrika ar Cʼhornôg,
+    Daylight: eur hañv Afrika ar Cʼhornôg
+  },
+  Africa/Nouakchott: {
+    Generic: Amzer keitat Greenwich (AKG),
+    Standard: Amzer keitat Greenwich (AKG),
+    Daylight: Amzer keitat Greenwich (AKG)
+  },
+  Africa/Ouagadougou: {
+    Generic: Amzer keitat Greenwich (AKG),
+    Standard: Amzer keitat Greenwich (AKG),
+    Daylight: Amzer keitat Greenwich (AKG)
+  },
+  Africa/Porto-Novo: {
+    Generic: eur Afrika ar Cʼhornôg,
+    Standard: eur cʼhoañv Afrika ar Cʼhornôg,
+    Daylight: eur hañv Afrika ar Cʼhornôg
+  },
+  Africa/Sao_Tome: {
+    Generic: Amzer keitat Greenwich (AKG),
+    Standard: Amzer keitat Greenwich (AKG),
+    Daylight: Amzer keitat Greenwich (AKG)
+  },
+  Africa/Timbuktu: {
+    Generic: Amzer keitat Greenwich (AKG),
+    Standard: Amzer keitat Greenwich (AKG),
+    Daylight: Amzer keitat Greenwich (AKG)
+  },
+  Africa/Tripoli: {
+    Generic: eur Europa ar Reter,
+    Standard: eur cʼhoañv Europa ar Reter,
+    Daylight: eur hañv Europa ar Reter
+  },
+  Africa/Tunis: {
+    Generic: eur Kreizeuropa,
+    Standard: eur cʼhoañv Kreizeuropa,
+    Daylight: eur hañv Kreizeuropa
+  },
+  Africa/Windhoek: {
+    Generic: eur Kreizafrika,
+    Standard: eur Kreizafrika,
+    Daylight: eur Kreizafrika
   },
   America/Adak: {
     Generic: eur Hawaii hag an Aleouted,
     Standard: eur cʼhoañv Hawaii hag an Aleouted,
     Daylight: eur hañv Hawaii hag an Aleouted
   },
-  Asia/Barnaul: {
-    Generic: eur Barnaul,
-    Standard: eur cʼhoañv Barnaul,
-    Daylight: eur hañv Barnaul
+  America/Anchorage: {
+    Generic: eur Alaska,
+    Standard: eur cʼhoañv Alaska,
+    Daylight: eur hañv Alaska
   },
-  Asia/Riyadh: {
-    Generic: eur Arabia,
-    Standard: eur cʼhoañv Arabia,
-    Daylight: eur hañv Arabia
+  America/Anguilla: {
+    Generic: eur an Atlantel,
+    Standard: eur cʼhoañv an Atlantel,
+    Daylight: eur hañv an Atlantel
   },
-  Asia/Bahrain: {
-    Generic: eur Arabia,
-    Standard: eur cʼhoañv Arabia,
-    Daylight: eur hañv Arabia
+  America/Antigua: {
+    Generic: eur an Atlantel,
+    Standard: eur cʼhoañv an Atlantel,
+    Daylight: eur hañv an Atlantel
   },
-  Asia/Kuwait: {
-    Generic: eur Arabia,
-    Standard: eur cʼhoañv Arabia,
-    Daylight: eur hañv Arabia
+  America/Araguaina: {
+    Generic: eur Brasília,
+    Standard: eur cʼhoañv Brasília,
+    Daylight: eur hañv Brasília
   },
-  Asia/Qatar: {
-    Generic: eur Arabia,
-    Standard: eur cʼhoañv Arabia,
-    Daylight: eur hañv Arabia
+  America/Argentina/Buenos_Aires: {
+    Generic: eur Arcʼhantina,
+    Standard: eur cʼhoañv Arcʼhantina,
+    Daylight: eur hañv Arcʼhantina
   },
-  Asia/Aden: {
-    Generic: eur Arabia,
-    Standard: eur cʼhoañv Arabia,
-    Daylight: eur hañv Arabia
+  America/Argentina/Catamarca: {
+    Generic: eur Arcʼhantina,
+    Standard: eur cʼhoañv Arcʼhantina,
+    Daylight: eur hañv Arcʼhantina
   },
-  Asia/Dubai: {
-    Generic: eur cʼhoañv ar Pleg-mor Arab-ha-Pers,
-    Standard: eur cʼhoañv ar Pleg-mor Arab-ha-Pers,
-    Daylight: eur cʼhoañv ar Pleg-mor Arab-ha-Pers
+  America/Argentina/ComodRivadavia: {
+    Generic: eur Arcʼhantina,
+    Standard: eur cʼhoañv Arcʼhantina,
+    Daylight: eur hañv Arcʼhantina
   },
-  Asia/Muscat: {
-    Generic: eur cʼhoañv ar Pleg-mor Arab-ha-Pers,
-    Standard: eur cʼhoañv ar Pleg-mor Arab-ha-Pers,
-    Daylight: eur cʼhoañv ar Pleg-mor Arab-ha-Pers
+  America/Argentina/Cordoba: {
+    Generic: eur Arcʼhantina,
+    Standard: eur cʼhoañv Arcʼhantina,
+    Daylight: eur hañv Arcʼhantina
   },
-  Etc/GMT-4: {
-    Generic: amzer hollvedel kenurzhiet +4,
-    Standard: amzer hollvedel kenurzhiet +4,
-    Daylight: amzer hollvedel kenurzhiet +4
-  },
-  Asia/Baghdad: {
-    Generic: eur Arabia,
-    Standard: eur cʼhoañv Arabia,
-    Daylight: eur hañv Arabia
-  },
-  America/Buenos_Aires: {
+  America/Argentina/Jujuy: {
     Generic: eur Arcʼhantina,
     Standard: eur cʼhoañv Arcʼhantina,
     Daylight: eur hañv Arcʼhantina
   },
   America/Argentina/La_Rioja: {
+    Generic: eur Arcʼhantina,
+    Standard: eur cʼhoañv Arcʼhantina,
+    Daylight: eur hañv Arcʼhantina
+  },
+  America/Argentina/Mendoza: {
     Generic: eur Arcʼhantina,
     Standard: eur cʼhoañv Arcʼhantina,
     Daylight: eur hañv Arcʼhantina
@@ -144,327 +359,432 @@
     Standard: eur cʼhoañv Arcʼhantina,
     Daylight: eur hañv Arcʼhantina
   },
-  America/Catamarca: {
-    Generic: eur Arcʼhantina,
-    Standard: eur cʼhoañv Arcʼhantina,
-    Daylight: eur hañv Arcʼhantina
-  },
-  America/Cordoba: {
-    Generic: eur Arcʼhantina,
-    Standard: eur cʼhoañv Arcʼhantina,
-    Daylight: eur hañv Arcʼhantina
-  },
-  America/Jujuy: {
-    Generic: eur Arcʼhantina,
-    Standard: eur cʼhoañv Arcʼhantina,
-    Daylight: eur hañv Arcʼhantina
-  },
-  America/Mendoza: {
-    Generic: eur Arcʼhantina,
-    Standard: eur cʼhoañv Arcʼhantina,
-    Daylight: eur hañv Arcʼhantina
-  },
-  Europe/Astrakhan: {
-    Generic: eur Astrakhan,
-    Standard: eur cʼhoañv Astrakhan,
-    Daylight: eur hañv Astrakhan
-  },
-  Europe/Ulyanovsk: {
-    Generic: eur Ulyanovsk,
-    Standard: eur cʼhoañv Ulyanovsk,
-    Daylight: eur hañv Ulyanovsk
-  },
-  America/Halifax: {
+  America/Aruba: {
     Generic: eur an Atlantel,
     Standard: eur cʼhoañv an Atlantel,
     Daylight: eur hañv an Atlantel
   },
-  Atlantic/Bermuda: {
-    Generic: eur an Atlantel,
-    Standard: eur cʼhoañv an Atlantel,
-    Daylight: eur hañv an Atlantel
+  America/Asuncion: {
+    Generic: eur Paraguay,
+    Standard: eur cʼhoañv Paraguay,
+    Daylight: eur hañv Paraguay
   },
-  America/Glace_Bay: {
-    Generic: eur an Atlantel,
-    Standard: eur cʼhoañv an Atlantel,
-    Daylight: eur hañv an Atlantel
+  America/Atikokan: {
+    Generic: eur ar Reter,
+    Standard: eur cʼhoañv ar Reter,
+    Daylight: eur hañv ar Reter
   },
-  America/Goose_Bay: {
-    Generic: eur an Atlantel,
-    Standard: eur cʼhoañv an Atlantel,
-    Daylight: eur hañv an Atlantel
-  },
-  America/Moncton: {
-    Generic: eur an Atlantel,
-    Standard: eur cʼhoañv an Atlantel,
-    Daylight: eur hañv an Atlantel
-  },
-  America/Thule: {
-    Generic: eur an Atlantel,
-    Standard: eur cʼhoañv an Atlantel,
-    Daylight: eur hañv an Atlantel
-  },
-  Australia/Eucla: {
-    Generic: eur Kreizaostralia ar Cʼhornôg,
-    Standard: eur cʼhoañv Kreizaostralia ar Cʼhornôg,
-    Daylight: eur hañv Kreizaostralia ar Cʼhornôg
-  },
-  Asia/Baku: {
-    Generic: eur Azerbaidjan,
-    Standard: eur cʼhoañv Azerbaidjan,
-    Daylight: eur hañv Azerbaidjan
-  },
-  Atlantic/Azores: {
-    Generic: eur an Azorez,
-    Standard: eur cʼhoañv an Azorez,
-    Daylight: eur hañv an Azorez
-  },
-  America/Scoresbysund: {
-    Generic: eur Greunland ar Reter,
-    Standard: eur cʼhoañv Greunland ar Reter,
-    Daylight: eur hañv Greunland ar Reter
+  America/Atka: {
+    Generic: eur Hawaii hag an Aleouted,
+    Standard: eur cʼhoañv Hawaii hag an Aleouted,
+    Daylight: eur hañv Hawaii hag an Aleouted
   },
   America/Bahia: {
     Generic: eur Brasília,
     Standard: eur cʼhoañv Brasília,
     Daylight: eur hañv Brasília
   },
-  Asia/Dhaka: {
-    Generic: eur Bangladesh,
-    Standard: eur cʼhoañv Bangladesh,
-    Daylight: eur hañv Bangladesh
-  },
-  Asia/Thimphu: {
-    Generic: eur Bhoutan,
-    Standard: eur Bhoutan,
-    Daylight: eur Bhoutan
-  },
-  Europe/Minsk: {
-    Generic: eur Moskov,
-    Standard: eur cʼhoañv Moskov,
-    Daylight: eur hañv Moskov
-  },
-  Pacific/Bougainville: {
-    Generic: eur Papoua-Ginea-Nevez,
-    Standard: eur Papoua-Ginea-Nevez,
-    Daylight: eur Papoua-Ginea-Nevez
-  },
-  America/Regina: {
+  America/Bahia_Banderas: {
     Generic: eur ar Cʼhreiz,
     Standard: eur cʼhoañv ar Cʼhreiz,
     Daylight: eur hañv ar Cʼhreiz
   },
-  America/Swift_Current: {
-    Generic: eur ar Cʼhreiz,
-    Standard: eur cʼhoañv ar Cʼhreiz,
-    Daylight: eur hañv ar Cʼhreiz
+  America/Barbados: {
+    Generic: eur an Atlantel,
+    Standard: eur cʼhoañv an Atlantel,
+    Daylight: eur hañv an Atlantel
   },
-  Atlantic/Cape_Verde: {
-    Generic: eur ar Cʼhab-Glas,
-    Standard: eur cʼhoañv ar Cʼhab-Glas,
-    Daylight: eur hañv ar Cʼhab-Glas
-  },
-  Etc/GMT+1: {
-    Generic: amzer hollvedel kenurzhiet -1,
-    Standard: amzer hollvedel kenurzhiet -1,
-    Daylight: amzer hollvedel kenurzhiet -1
-  },
-  Asia/Yerevan: {
-    Generic: eur Armenia,
-    Standard: eur cʼhoañv Armenia,
-    Daylight: eur hañv Armenia
-  },
-  Australia/Adelaide: {
-    Generic: eur Kreizaostralia,
-    Standard: eur cʼhoañv Kreizaostralia,
-    Daylight: eur hañv Kreizaostralia
-  },
-  Australia/Broken_Hill: {
-    Generic: eur Kreizaostralia,
-    Standard: eur cʼhoañv Kreizaostralia,
-    Daylight: eur hañv Kreizaostralia
-  },
-  America/Guatemala: {
-    Generic: eur ar Cʼhreiz,
-    Standard: eur cʼhoañv ar Cʼhreiz,
-    Daylight: eur hañv ar Cʼhreiz
+  America/Belem: {
+    Generic: eur Brasília,
+    Standard: eur cʼhoañv Brasília,
+    Daylight: eur hañv Brasília
   },
   America/Belize: {
     Generic: eur ar Cʼhreiz,
     Standard: eur cʼhoañv ar Cʼhreiz,
     Daylight: eur hañv ar Cʼhreiz
   },
-  America/Costa_Rica: {
-    Generic: eur ar Cʼhreiz,
-    Standard: eur cʼhoañv ar Cʼhreiz,
-    Daylight: eur hañv ar Cʼhreiz
+  America/Blanc-Sablon: {
+    Generic: eur an Atlantel,
+    Standard: eur cʼhoañv an Atlantel,
+    Daylight: eur hañv an Atlantel
   },
-  Pacific/Galapagos: {
-    Generic: eur Inizi Galápagos,
-    Standard: eur Inizi Galápagos,
-    Daylight: eur Inizi Galápagos
-  },
-  America/Tegucigalpa: {
-    Generic: eur ar Cʼhreiz,
-    Standard: eur cʼhoañv ar Cʼhreiz,
-    Daylight: eur hañv ar Cʼhreiz
-  },
-  America/Managua: {
-    Generic: eur ar Cʼhreiz,
-    Standard: eur cʼhoañv ar Cʼhreiz,
-    Daylight: eur hañv ar Cʼhreiz
-  },
-  America/El_Salvador: {
-    Generic: eur ar Cʼhreiz,
-    Standard: eur cʼhoañv ar Cʼhreiz,
-    Daylight: eur hañv ar Cʼhreiz
-  },
-  Etc/GMT+6: {
-    Generic: amzer hollvedel kenurzhiet -6,
-    Standard: amzer hollvedel kenurzhiet -6,
-    Daylight: amzer hollvedel kenurzhiet -6
-  },
-  Asia/Almaty: {
-    Generic: eur Kazakstan ar Reter,
-    Standard: eur Kazakstan ar Reter,
-    Daylight: eur Kazakstan ar Reter
-  },
-  Antarctica/Vostok: {
-    Generic: eur Vostok,
-    Standard: eur Vostok,
-    Daylight: eur Vostok
-  },
-  Asia/Urumqi: {
-    Generic: eur Sina,
-    Standard: eur cʼhoañv Sina,
-    Daylight: eur hañv Sina
-  },
-  Indian/Chagos: {
-    Generic: eur Meurvor Indez,
-    Standard: eur Meurvor Indez,
-    Daylight: eur Meurvor Indez
-  },
-  Asia/Bishkek: {
-    Generic: eur Kyrgyzstan,
-    Standard: eur Kyrgyzstan,
-    Daylight: eur Kyrgyzstan
-  },
-  Asia/Qostanay: {
-    Generic: eur Kazakstan ar Reter,
-    Standard: eur Kazakstan ar Reter,
-    Daylight: eur Kazakstan ar Reter
-  },
-  Etc/GMT-6: {
-    Generic: amzer hollvedel kenurzhiet +6,
-    Standard: amzer hollvedel kenurzhiet +6,
-    Daylight: amzer hollvedel kenurzhiet +6
-  },
-  America/Cuiaba: {
+  America/Boa_Vista: {
     Generic: eur an Amazon,
     Standard: eur cʼhoañv an Amazon,
     Daylight: eur hañv an Amazon
+  },
+  America/Bogota: {
+    Generic: eur Kolombia,
+    Standard: eur cʼhoañv Kolombia,
+    Daylight: eur hañv Kolombia
+  },
+  America/Boise: {
+    Generic: eur ar Menezioù,
+    Standard: eur cʼhoañv ar Menezioù,
+    Daylight: eur hañv ar Menezioù
+  },
+  America/Buenos_Aires: {
+    Generic: eur Arcʼhantina,
+    Standard: eur cʼhoañv Arcʼhantina,
+    Daylight: eur hañv Arcʼhantina
+  },
+  America/Cambridge_Bay: {
+    Generic: eur ar Menezioù,
+    Standard: eur cʼhoañv ar Menezioù,
+    Daylight: eur hañv ar Menezioù
   },
   America/Campo_Grande: {
     Generic: eur an Amazon,
     Standard: eur cʼhoañv an Amazon,
     Daylight: eur hañv an Amazon
   },
-  Europe/Budapest: {
-    Generic: eur Kreizeuropa,
-    Standard: eur cʼhoañv Kreizeuropa,
-    Daylight: eur hañv Kreizeuropa
+  America/Cancun: {
+    Generic: eur ar Reter,
+    Standard: eur cʼhoañv ar Reter,
+    Daylight: eur hañv ar Reter
   },
-  Europe/Tirane: {
-    Generic: eur Kreizeuropa,
-    Standard: eur cʼhoañv Kreizeuropa,
-    Daylight: eur hañv Kreizeuropa
+  America/Caracas: {
+    Generic: eur Venezuela,
+    Standard: eur Venezuela,
+    Daylight: eur Venezuela
   },
-  Europe/Prague: {
-    Generic: eur Kreizeuropa,
-    Standard: eur cʼhoañv Kreizeuropa,
-    Daylight: eur hañv Kreizeuropa
+  America/Catamarca: {
+    Generic: eur Arcʼhantina,
+    Standard: eur cʼhoañv Arcʼhantina,
+    Daylight: eur hañv Arcʼhantina
   },
-  Europe/Podgorica: {
-    Generic: eur Kreizeuropa,
-    Standard: eur cʼhoañv Kreizeuropa,
-    Daylight: eur hañv Kreizeuropa
+  America/Cayenne: {
+    Generic: eur Gwiana cʼhall,
+    Standard: eur Gwiana cʼhall,
+    Daylight: eur Gwiana cʼhall
   },
-  Europe/Belgrade: {
-    Generic: eur Kreizeuropa,
-    Standard: eur cʼhoañv Kreizeuropa,
-    Daylight: eur hañv Kreizeuropa
+  America/Cayman: {
+    Generic: eur ar Reter,
+    Standard: eur cʼhoañv ar Reter,
+    Daylight: eur hañv ar Reter
   },
-  Europe/Ljubljana: {
-    Generic: eur Kreizeuropa,
-    Standard: eur cʼhoañv Kreizeuropa,
-    Daylight: eur hañv Kreizeuropa
-  },
-  Europe/Bratislava: {
-    Generic: eur Kreizeuropa,
-    Standard: eur cʼhoañv Kreizeuropa,
-    Daylight: eur hañv Kreizeuropa
-  },
-  Europe/Warsaw: {
-    Generic: eur Kreizeuropa,
-    Standard: eur cʼhoañv Kreizeuropa,
-    Daylight: eur hañv Kreizeuropa
-  },
-  Europe/Sarajevo: {
-    Generic: eur Kreizeuropa,
-    Standard: eur cʼhoañv Kreizeuropa,
-    Daylight: eur hañv Kreizeuropa
-  },
-  Europe/Zagreb: {
-    Generic: eur Kreizeuropa,
-    Standard: eur cʼhoañv Kreizeuropa,
-    Daylight: eur hañv Kreizeuropa
-  },
-  Europe/Skopje: {
-    Generic: eur Kreizeuropa,
-    Standard: eur cʼhoañv Kreizeuropa,
-    Daylight: eur hañv Kreizeuropa
-  },
-  Pacific/Guadalcanal: {
-    Generic: eur Inizi Salomon,
-    Standard: eur Inizi Salomon,
-    Daylight: eur Inizi Salomon
-  },
-  Antarctica/Casey: {
-    Generic: eur Antarktika,
-    Standard: eur cʼhoañv Antarktika,
-    Daylight: eur hañv Antarktika
-  },
-  Pacific/Ponape: {
-    Generic: eur Pohnpei,
-    Standard: eur Pohnpei,
-    Daylight: eur Pohnpei
-  },
-  Pacific/Kosrae: {
-    Generic: eur Kosrae,
-    Standard: eur Kosrae,
-    Daylight: eur Kosrae
-  },
-  Pacific/Noumea: {
-    Generic: eur Kaledonia Nevez,
-    Standard: eur cʼhoañv Kaledonia Nevez,
-    Daylight: eur hañv Kaledonia Nevez
-  },
-  Pacific/Efate: {
-    Generic: eur Vanuatu,
-    Standard: eur cʼhoañv Vanuatu,
-    Daylight: eur hañv Vanuatu
-  },
-  Etc/GMT-11: {
-    Generic: amzer hollvedel kenurzhiet +11,
-    Standard: amzer hollvedel kenurzhiet +11,
-    Daylight: amzer hollvedel kenurzhiet +11
-  },
-  America/Mexico_City: {
+  America/Chicago: {
     Generic: eur ar Cʼhreiz,
     Standard: eur cʼhoañv ar Cʼhreiz,
     Daylight: eur hañv ar Cʼhreiz
   },
-  America/Bahia_Banderas: {
+  America/Chihuahua: {
+    Generic: eur an Habask mecʼhikan,
+    Standard: eur cʼhoañv an Habask mecʼhikan,
+    Daylight: eur hañv an Habask mecʼhikan
+  },
+  America/Coral_Harbour: {
+    Generic: eur ar Reter,
+    Standard: eur cʼhoañv ar Reter,
+    Daylight: eur hañv ar Reter
+  },
+  America/Cordoba: {
+    Generic: eur Arcʼhantina,
+    Standard: eur cʼhoañv Arcʼhantina,
+    Daylight: eur hañv Arcʼhantina
+  },
+  America/Costa_Rica: {
+    Generic: eur ar Cʼhreiz,
+    Standard: eur cʼhoañv ar Cʼhreiz,
+    Daylight: eur hañv ar Cʼhreiz
+  },
+  America/Creston: {
+    Generic: eur ar Menezioù,
+    Standard: eur cʼhoañv ar Menezioù,
+    Daylight: eur hañv ar Menezioù
+  },
+  America/Cuiaba: {
+    Generic: eur an Amazon,
+    Standard: eur cʼhoañv an Amazon,
+    Daylight: eur hañv an Amazon
+  },
+  America/Curacao: {
+    Generic: eur an Atlantel,
+    Standard: eur cʼhoañv an Atlantel,
+    Daylight: eur hañv an Atlantel
+  },
+  America/Danmarkshavn: {
+    Generic: Amzer keitat Greenwich (AKG),
+    Standard: Amzer keitat Greenwich (AKG),
+    Daylight: Amzer keitat Greenwich (AKG)
+  },
+  America/Dawson: {
+    Generic: eur Kanada,
+    Standard: eur cʼhoañv Kanada,
+    Daylight: eur hañv Kanada
+  },
+  America/Dawson_Creek: {
+    Generic: eur ar Menezioù,
+    Standard: eur cʼhoañv ar Menezioù,
+    Daylight: eur hañv ar Menezioù
+  },
+  America/Denver: {
+    Generic: eur ar Menezioù,
+    Standard: eur cʼhoañv ar Menezioù,
+    Daylight: eur hañv ar Menezioù
+  },
+  America/Detroit: {
+    Generic: eur ar Reter,
+    Standard: eur cʼhoañv ar Reter,
+    Daylight: eur hañv ar Reter
+  },
+  America/Dominica: {
+    Generic: eur an Atlantel,
+    Standard: eur cʼhoañv an Atlantel,
+    Daylight: eur hañv an Atlantel
+  },
+  America/Edmonton: {
+    Generic: eur ar Menezioù,
+    Standard: eur cʼhoañv ar Menezioù,
+    Daylight: eur hañv ar Menezioù
+  },
+  America/Eirunepe: {
+    Generic: eur Brazil,
+    Standard: eur cʼhoañv Brazil,
+    Daylight: eur hañv Brazil
+  },
+  America/El_Salvador: {
+    Generic: eur ar Cʼhreiz,
+    Standard: eur cʼhoañv ar Cʼhreiz,
+    Daylight: eur hañv ar Cʼhreiz
+  },
+  America/Ensenada: {
+    Generic: eur an Habask,
+    Standard: eur cʼhoañv an Habask,
+    Daylight: eur hañv an Habask
+  },
+  America/Fort_Nelson: {
+    Generic: eur ar Menezioù,
+    Standard: eur cʼhoañv ar Menezioù,
+    Daylight: eur hañv ar Menezioù
+  },
+  America/Fort_Wayne: {
+    Generic: eur ar Reter,
+    Standard: eur cʼhoañv ar Reter,
+    Daylight: eur hañv ar Reter
+  },
+  America/Fortaleza: {
+    Generic: eur Brasília,
+    Standard: eur cʼhoañv Brasília,
+    Daylight: eur hañv Brasília
+  },
+  America/Glace_Bay: {
+    Generic: eur an Atlantel,
+    Standard: eur cʼhoañv an Atlantel,
+    Daylight: eur hañv an Atlantel
+  },
+  America/Godthab: {
+    Generic: eur Greunland ar Cʼhornôg,
+    Standard: eur cʼhoañv Greunland ar Cʼhornôg,
+    Daylight: eur hañv Greunland ar Cʼhornôg
+  },
+  America/Goose_Bay: {
+    Generic: eur an Atlantel,
+    Standard: eur cʼhoañv an Atlantel,
+    Daylight: eur hañv an Atlantel
+  },
+  America/Grand_Turk: {
+    Generic: eur ar Reter,
+    Standard: eur cʼhoañv ar Reter,
+    Daylight: eur hañv ar Reter
+  },
+  America/Grenada: {
+    Generic: eur an Atlantel,
+    Standard: eur cʼhoañv an Atlantel,
+    Daylight: eur hañv an Atlantel
+  },
+  America/Guadeloupe: {
+    Generic: eur an Atlantel,
+    Standard: eur cʼhoañv an Atlantel,
+    Daylight: eur hañv an Atlantel
+  },
+  America/Guatemala: {
+    Generic: eur ar Cʼhreiz,
+    Standard: eur cʼhoañv ar Cʼhreiz,
+    Daylight: eur hañv ar Cʼhreiz
+  },
+  America/Guayaquil: {
+    Generic: eur Ecuador,
+    Standard: eur Ecuador,
+    Daylight: eur Ecuador
+  },
+  America/Guyana: {
+    Generic: eur Guyana,
+    Standard: eur Guyana,
+    Daylight: eur Guyana
+  },
+  America/Halifax: {
+    Generic: eur an Atlantel,
+    Standard: eur cʼhoañv an Atlantel,
+    Daylight: eur hañv an Atlantel
+  },
+  America/Havana: {
+    Generic: eur Kuba,
+    Standard: eur cʼhoañv Kuba,
+    Daylight: eur hañv Kuba
+  },
+  America/Hermosillo: {
+    Generic: eur an Habask mecʼhikan,
+    Standard: eur cʼhoañv an Habask mecʼhikan,
+    Daylight: eur hañv an Habask mecʼhikan
+  },
+  America/Indiana/Indianapolis: {
+    Generic: eur ar Reter,
+    Standard: eur cʼhoañv ar Reter,
+    Daylight: eur hañv ar Reter
+  },
+  America/Indiana/Knox: {
+    Generic: eur ar Cʼhreiz,
+    Standard: eur cʼhoañv ar Cʼhreiz,
+    Daylight: eur hañv ar Cʼhreiz
+  },
+  America/Indiana/Marengo: {
+    Generic: eur ar Reter,
+    Standard: eur cʼhoañv ar Reter,
+    Daylight: eur hañv ar Reter
+  },
+  America/Indiana/Petersburg: {
+    Generic: eur ar Reter,
+    Standard: eur cʼhoañv ar Reter,
+    Daylight: eur hañv ar Reter
+  },
+  America/Indiana/Tell_City: {
+    Generic: eur ar Cʼhreiz,
+    Standard: eur cʼhoañv ar Cʼhreiz,
+    Daylight: eur hañv ar Cʼhreiz
+  },
+  America/Indiana/Vevay: {
+    Generic: eur ar Reter,
+    Standard: eur cʼhoañv ar Reter,
+    Daylight: eur hañv ar Reter
+  },
+  America/Indiana/Vincennes: {
+    Generic: eur ar Reter,
+    Standard: eur cʼhoañv ar Reter,
+    Daylight: eur hañv ar Reter
+  },
+  America/Indiana/Winamac: {
+    Generic: eur ar Reter,
+    Standard: eur cʼhoañv ar Reter,
+    Daylight: eur hañv ar Reter
+  },
+  America/Indianapolis: {
+    Generic: eur ar Reter,
+    Standard: eur cʼhoañv ar Reter,
+    Daylight: eur hañv ar Reter
+  },
+  America/Inuvik: {
+    Generic: eur ar Menezioù,
+    Standard: eur cʼhoañv ar Menezioù,
+    Daylight: eur hañv ar Menezioù
+  },
+  America/Iqaluit: {
+    Generic: eur ar Reter,
+    Standard: eur cʼhoañv ar Reter,
+    Daylight: eur hañv ar Reter
+  },
+  America/Jamaica: {
+    Generic: eur ar Reter,
+    Standard: eur cʼhoañv ar Reter,
+    Daylight: eur hañv ar Reter
+  },
+  America/Jujuy: {
+    Generic: eur Arcʼhantina,
+    Standard: eur cʼhoañv Arcʼhantina,
+    Daylight: eur hañv Arcʼhantina
+  },
+  America/Juneau: {
+    Generic: eur Alaska,
+    Standard: eur cʼhoañv Alaska,
+    Daylight: eur hañv Alaska
+  },
+  America/Kentucky/Louisville: {
+    Generic: eur ar Reter,
+    Standard: eur cʼhoañv ar Reter,
+    Daylight: eur hañv ar Reter
+  },
+  America/Kentucky/Monticello: {
+    Generic: eur ar Reter,
+    Standard: eur cʼhoañv ar Reter,
+    Daylight: eur hañv ar Reter
+  },
+  America/Knox_IN: {
+    Generic: eur ar Cʼhreiz,
+    Standard: eur cʼhoañv ar Cʼhreiz,
+    Daylight: eur hañv ar Cʼhreiz
+  },
+  America/Kralendijk: {
+    Generic: eur an Atlantel,
+    Standard: eur cʼhoañv an Atlantel,
+    Daylight: eur hañv an Atlantel
+  },
+  America/La_Paz: {
+    Generic: eur Bolivia,
+    Standard: eur Bolivia,
+    Daylight: eur Bolivia
+  },
+  America/Lima: {
+    Generic: eur Perou,
+    Standard: eur cʼhoañv Perou,
+    Daylight: eur hañv Perou
+  },
+  America/Los_Angeles: {
+    Generic: eur an Habask,
+    Standard: eur cʼhoañv an Habask,
+    Daylight: eur hañv an Habask
+  },
+  America/Louisville: {
+    Generic: eur ar Reter,
+    Standard: eur cʼhoañv ar Reter,
+    Daylight: eur hañv ar Reter
+  },
+  America/Lower_Princes: {
+    Generic: eur an Atlantel,
+    Standard: eur cʼhoañv an Atlantel,
+    Daylight: eur hañv an Atlantel
+  },
+  America/Maceio: {
+    Generic: eur Brasília,
+    Standard: eur cʼhoañv Brasília,
+    Daylight: eur hañv Brasília
+  },
+  America/Managua: {
+    Generic: eur ar Cʼhreiz,
+    Standard: eur cʼhoañv ar Cʼhreiz,
+    Daylight: eur hañv ar Cʼhreiz
+  },
+  America/Manaus: {
+    Generic: eur an Amazon,
+    Standard: eur cʼhoañv an Amazon,
+    Daylight: eur hañv an Amazon
+  },
+  America/Marigot: {
+    Generic: eur an Atlantel,
+    Standard: eur cʼhoañv an Atlantel,
+    Daylight: eur hañv an Atlantel
+  },
+  America/Martinique: {
+    Generic: eur an Atlantel,
+    Standard: eur cʼhoañv an Atlantel,
+    Daylight: eur hañv an Atlantel
+  },
+  America/Matamoros: {
+    Generic: eur ar Cʼhreiz,
+    Standard: eur cʼhoañv ar Cʼhreiz,
+    Daylight: eur hañv ar Cʼhreiz
+  },
+  America/Mazatlan: {
+    Generic: eur an Habask mecʼhikan,
+    Standard: eur cʼhoañv an Habask mecʼhikan,
+    Daylight: eur hañv an Habask mecʼhikan
+  },
+  America/Mendoza: {
+    Generic: eur Arcʼhantina,
+    Standard: eur cʼhoañv Arcʼhantina,
+    Daylight: eur hañv Arcʼhantina
+  },
+  America/Menominee: {
     Generic: eur ar Cʼhreiz,
     Standard: eur cʼhoañv ar Cʼhreiz,
     Daylight: eur hañv ar Cʼhreiz
@@ -474,55 +794,70 @@
     Standard: eur cʼhoañv ar Cʼhreiz,
     Daylight: eur hañv ar Cʼhreiz
   },
+  America/Metlakatla: {
+    Generic: eur Alaska,
+    Standard: eur cʼhoañv Alaska,
+    Daylight: eur hañv Alaska
+  },
+  America/Mexico_City: {
+    Generic: eur ar Cʼhreiz,
+    Standard: eur cʼhoañv ar Cʼhreiz,
+    Daylight: eur hañv ar Cʼhreiz
+  },
+  America/Miquelon: {
+    Generic: eur Sant-Pêr-ha-Mikelon,
+    Standard: eur cʼhoañv Sant-Pêr-ha-Mikelon,
+    Daylight: eur hañv Sant-Pêr-ha-Mikelon
+  },
+  America/Moncton: {
+    Generic: eur an Atlantel,
+    Standard: eur cʼhoañv an Atlantel,
+    Daylight: eur hañv an Atlantel
+  },
   America/Monterrey: {
     Generic: eur ar Cʼhreiz,
     Standard: eur cʼhoañv ar Cʼhreiz,
     Daylight: eur hañv ar Cʼhreiz
   },
-  America/Chicago: {
-    Generic: eur ar Cʼhreiz,
-    Standard: eur cʼhoañv ar Cʼhreiz,
-    Daylight: eur hañv ar Cʼhreiz
+  America/Montevideo: {
+    Generic: eur Uruguay,
+    Standard: eur cʼhoañv Uruguay,
+    Daylight: eur hañv Uruguay
   },
-  America/Winnipeg: {
-    Generic: eur ar Cʼhreiz,
-    Standard: eur cʼhoañv ar Cʼhreiz,
-    Daylight: eur hañv ar Cʼhreiz
+  America/Montreal: {
+    Generic: eur ar Reter,
+    Standard: eur cʼhoañv ar Reter,
+    Daylight: eur hañv ar Reter
   },
-  America/Rainy_River: {
-    Generic: eur ar Cʼhreiz,
-    Standard: eur cʼhoañv ar Cʼhreiz,
-    Daylight: eur hañv ar Cʼhreiz
+  America/Montserrat: {
+    Generic: eur an Atlantel,
+    Standard: eur cʼhoañv an Atlantel,
+    Daylight: eur hañv an Atlantel
   },
-  America/Rankin_Inlet: {
-    Generic: eur ar Cʼhreiz,
-    Standard: eur cʼhoañv ar Cʼhreiz,
-    Daylight: eur hañv ar Cʼhreiz
+  America/Nassau: {
+    Generic: eur ar Reter,
+    Standard: eur cʼhoañv ar Reter,
+    Daylight: eur hañv ar Reter
   },
-  America/Resolute: {
-    Generic: eur ar Cʼhreiz,
-    Standard: eur cʼhoañv ar Cʼhreiz,
-    Daylight: eur hañv ar Cʼhreiz
+  America/New_York: {
+    Generic: eur ar Reter,
+    Standard: eur cʼhoañv ar Reter,
+    Daylight: eur hañv ar Reter
   },
-  America/Matamoros: {
-    Generic: eur ar Cʼhreiz,
-    Standard: eur cʼhoañv ar Cʼhreiz,
-    Daylight: eur hañv ar Cʼhreiz
+  America/Nipigon: {
+    Generic: eur ar Reter,
+    Standard: eur cʼhoañv ar Reter,
+    Daylight: eur hañv ar Reter
   },
-  America/Indiana/Knox: {
-    Generic: eur ar Cʼhreiz,
-    Standard: eur cʼhoañv ar Cʼhreiz,
-    Daylight: eur hañv ar Cʼhreiz
+  America/Nome: {
+    Generic: eur Alaska,
+    Standard: eur cʼhoañv Alaska,
+    Daylight: eur hañv Alaska
   },
-  America/Indiana/Tell_City: {
-    Generic: eur ar Cʼhreiz,
-    Standard: eur cʼhoañv ar Cʼhreiz,
-    Daylight: eur hañv ar Cʼhreiz
-  },
-  America/Menominee: {
-    Generic: eur ar Cʼhreiz,
-    Standard: eur cʼhoañv ar Cʼhreiz,
-    Daylight: eur hañv ar Cʼhreiz
+  America/Noronha: {
+    Generic: eur Fernando de Noronha,
+    Standard: eur cʼhoañv Fernando de Noronha,
+    Daylight: eur hañv Fernando de Noronha
   },
   America/North_Dakota/Beulah: {
     Generic: eur ar Cʼhreiz,
@@ -539,157 +874,17 @@
     Standard: eur cʼhoañv ar Cʼhreiz,
     Daylight: eur hañv ar Cʼhreiz
   },
-  CST6CDT: {
-    Generic: eur ar Cʼhreiz,
-    Standard: eur cʼhoañv ar Cʼhreiz,
-    Daylight: eur hañv ar Cʼhreiz
+  America/Nuuk: {
+    Generic: eur Greunland ar Cʼhornôg,
+    Standard: eur cʼhoañv Greunland ar Cʼhornôg,
+    Daylight: eur hañv Greunland ar Cʼhornôg
   },
-  Pacific/Chatham: {
-    Generic: eur Chatham,
-    Standard: eur cʼhoañv Chatham,
-    Daylight: eur hañv Chatham
+  America/Ojinaga: {
+    Generic: eur ar Menezioù,
+    Standard: eur cʼhoañv ar Menezioù,
+    Daylight: eur hañv ar Menezioù
   },
-  Asia/Shanghai: {
-    Generic: eur Sina,
-    Standard: eur cʼhoañv Sina,
-    Daylight: eur hañv Sina
-  },
-  Asia/Hong_Kong: {
-    Generic: eur Hong Kong,
-    Standard: eur cʼhoañv Hong Kong,
-    Daylight: eur hañv Hong Kong
-  },
-  Asia/Macau: {
-    Generic: eur Sina,
-    Standard: eur cʼhoañv Sina,
-    Daylight: eur hañv Sina
-  },
-  America/Havana: {
-    Generic: eur Kuba,
-    Standard: eur cʼhoañv Kuba,
-    Daylight: eur hañv Kuba
-  },
-  Etc/GMT+12: {
-    Generic: amzer hollvedel kenurzhiet -12,
-    Standard: amzer hollvedel kenurzhiet -12,
-    Daylight: amzer hollvedel kenurzhiet -12
-  },
-  Africa/Nairobi: {
-    Generic: eur Afrika ar Reter,
-    Standard: eur Afrika ar Reter,
-    Daylight: eur Afrika ar Reter
-  },
-  Antarctica/Syowa: {
-    Generic: eur Syowa,
-    Standard: eur Syowa,
-    Daylight: eur Syowa
-  },
-  Africa/Djibouti: {
-    Generic: eur Afrika ar Reter,
-    Standard: eur Afrika ar Reter,
-    Daylight: eur Afrika ar Reter
-  },
-  Africa/Asmera: {
-    Generic: eur Afrika ar Reter,
-    Standard: eur Afrika ar Reter,
-    Daylight: eur Afrika ar Reter
-  },
-  Africa/Addis_Ababa: {
-    Generic: eur Afrika ar Reter,
-    Standard: eur Afrika ar Reter,
-    Daylight: eur Afrika ar Reter
-  },
-  Indian/Comoro: {
-    Generic: eur Afrika ar Reter,
-    Standard: eur Afrika ar Reter,
-    Daylight: eur Afrika ar Reter
-  },
-  Indian/Antananarivo: {
-    Generic: eur Afrika ar Reter,
-    Standard: eur Afrika ar Reter,
-    Daylight: eur Afrika ar Reter
-  },
-  Africa/Mogadishu: {
-    Generic: eur Afrika ar Reter,
-    Standard: eur Afrika ar Reter,
-    Daylight: eur Afrika ar Reter
-  },
-  Africa/Dar_es_Salaam: {
-    Generic: eur Afrika ar Reter,
-    Standard: eur Afrika ar Reter,
-    Daylight: eur Afrika ar Reter
-  },
-  Africa/Kampala: {
-    Generic: eur Afrika ar Reter,
-    Standard: eur Afrika ar Reter,
-    Daylight: eur Afrika ar Reter
-  },
-  Indian/Mayotte: {
-    Generic: eur Afrika ar Reter,
-    Standard: eur Afrika ar Reter,
-    Daylight: eur Afrika ar Reter
-  },
-  Etc/GMT-3: {
-    Generic: amzer hollvedel kenurzhiet +3,
-    Standard: amzer hollvedel kenurzhiet +3,
-    Daylight: amzer hollvedel kenurzhiet +3
-  },
-  Australia/Brisbane: {
-    Generic: eur Aostralia ar Reter,
-    Standard: eur cʼhoañv Aostralia ar Reter,
-    Daylight: eur hañv Aostralia ar Reter
-  },
-  Australia/Lindeman: {
-    Generic: eur Aostralia ar Reter,
-    Standard: eur cʼhoañv Aostralia ar Reter,
-    Daylight: eur hañv Aostralia ar Reter
-  },
-  Europe/Chisinau: {
-    Generic: eur Europa ar Reter,
-    Standard: eur cʼhoañv Europa ar Reter,
-    Daylight: eur hañv Europa ar Reter
-  },
-  America/Sao_Paulo: {
-    Generic: eur Brasília,
-    Standard: eur cʼhoañv Brasília,
-    Daylight: eur hañv Brasília
-  },
-  Pacific/Easter: {
-    Generic: eur Enez Pask,
-    Standard: eur cʼhoañv Enez Pask,
-    Daylight: eur hañv Enez Pask
-  },
-  America/Cancun: {
-    Generic: eur ar Reter,
-    Standard: eur cʼhoañv ar Reter,
-    Daylight: eur hañv ar Reter
-  },
-  America/New_York: {
-    Generic: eur ar Reter,
-    Standard: eur cʼhoañv ar Reter,
-    Daylight: eur hañv ar Reter
-  },
-  America/Nassau: {
-    Generic: eur ar Reter,
-    Standard: eur cʼhoañv ar Reter,
-    Daylight: eur hañv ar Reter
-  },
-  America/Toronto: {
-    Generic: eur ar Reter,
-    Standard: eur cʼhoañv ar Reter,
-    Daylight: eur hañv ar Reter
-  },
-  America/Iqaluit: {
-    Generic: eur ar Reter,
-    Standard: eur cʼhoañv ar Reter,
-    Daylight: eur hañv ar Reter
-  },
-  America/Montreal: {
-    Generic: eur ar Reter,
-    Standard: eur cʼhoañv ar Reter,
-    Daylight: eur hañv ar Reter
-  },
-  America/Nipigon: {
+  America/Panama: {
     Generic: eur ar Reter,
     Standard: eur cʼhoañv ar Reter,
     Daylight: eur hañv ar Reter
@@ -699,800 +894,130 @@
     Standard: eur cʼhoañv ar Reter,
     Daylight: eur hañv ar Reter
   },
-  America/Thunder_Bay: {
-    Generic: eur ar Reter,
-    Standard: eur cʼhoañv ar Reter,
-    Daylight: eur hañv ar Reter
+  America/Paramaribo: {
+    Generic: eur Surinam,
+    Standard: eur Surinam,
+    Daylight: eur Surinam
   },
-  America/Detroit: {
-    Generic: eur ar Reter,
-    Standard: eur cʼhoañv ar Reter,
-    Daylight: eur hañv ar Reter
-  },
-  America/Indiana/Petersburg: {
-    Generic: eur ar Reter,
-    Standard: eur cʼhoañv ar Reter,
-    Daylight: eur hañv ar Reter
-  },
-  America/Indiana/Vincennes: {
-    Generic: eur ar Reter,
-    Standard: eur cʼhoañv ar Reter,
-    Daylight: eur hañv ar Reter
-  },
-  America/Indiana/Winamac: {
-    Generic: eur ar Reter,
-    Standard: eur cʼhoañv ar Reter,
-    Daylight: eur hañv ar Reter
-  },
-  America/Kentucky/Monticello: {
-    Generic: eur ar Reter,
-    Standard: eur cʼhoañv ar Reter,
-    Daylight: eur hañv ar Reter
-  },
-  America/Louisville: {
-    Generic: eur ar Reter,
-    Standard: eur cʼhoañv ar Reter,
-    Daylight: eur hañv ar Reter
-  },
-  EST5EDT: {
-    Generic: eur ar Reter,
-    Standard: eur cʼhoañv ar Reter,
-    Daylight: eur hañv ar Reter
-  },
-  Africa/Cairo: {
-    Generic: eur Europa ar Reter,
-    Standard: eur cʼhoañv Europa ar Reter,
-    Daylight: eur hañv Europa ar Reter
-  },
-  Asia/Yekaterinburg: {
-    Generic: eur Yekaterinbourg,
-    Standard: eur cʼhoañv Yekaterinbourg,
-    Daylight: eur hañv Yekaterinbourg
-  },
-  Europe/Kiev: {
-    Generic: eur Europa ar Reter,
-    Standard: eur cʼhoañv Europa ar Reter,
-    Daylight: eur hañv Europa ar Reter
-  },
-  Europe/Mariehamn: {
-    Generic: eur Europa ar Reter,
-    Standard: eur cʼhoañv Europa ar Reter,
-    Daylight: eur hañv Europa ar Reter
-  },
-  Europe/Sofia: {
-    Generic: eur Europa ar Reter,
-    Standard: eur cʼhoañv Europa ar Reter,
-    Daylight: eur hañv Europa ar Reter
-  },
-  Europe/Tallinn: {
-    Generic: eur Europa ar Reter,
-    Standard: eur cʼhoañv Europa ar Reter,
-    Daylight: eur hañv Europa ar Reter
-  },
-  Europe/Helsinki: {
-    Generic: eur Europa ar Reter,
-    Standard: eur cʼhoañv Europa ar Reter,
-    Daylight: eur hañv Europa ar Reter
-  },
-  Europe/Vilnius: {
-    Generic: eur Europa ar Reter,
-    Standard: eur cʼhoañv Europa ar Reter,
-    Daylight: eur hañv Europa ar Reter
-  },
-  Europe/Riga: {
-    Generic: eur Europa ar Reter,
-    Standard: eur cʼhoañv Europa ar Reter,
-    Daylight: eur hañv Europa ar Reter
-  },
-  Europe/Uzhgorod: {
-    Generic: eur Europa ar Reter,
-    Standard: eur cʼhoañv Europa ar Reter,
-    Daylight: eur hañv Europa ar Reter
-  },
-  Europe/Zaporozhye: {
-    Generic: eur Europa ar Reter,
-    Standard: eur cʼhoañv Europa ar Reter,
-    Daylight: eur hañv Europa ar Reter
-  },
-  Pacific/Fiji: {
-    Generic: eur Fidji,
-    Standard: eur cʼhoañv Fidji,
-    Daylight: eur hañv Fidji
-  },
-  Europe/London: {
-    Generic: eur Rouantelezh-Unanet,
-    Standard: Amzer keitat Greenwich (AKG),
-    Daylight: eur hañv Breizh-Veur
-  },
-  Atlantic/Canary: {
-    Generic: eur Europa ar Cʼhornôg,
-    Standard: eur cʼhoañv Europa ar Cʼhornôg,
-    Daylight: eur hañv Europa ar Cʼhornôg
-  },
-  Atlantic/Faeroe: {
-    Generic: eur Europa ar Cʼhornôg,
-    Standard: eur cʼhoañv Europa ar Cʼhornôg,
-    Daylight: eur hañv Europa ar Cʼhornôg
-  },
-  Europe/Guernsey: {
-    Generic: Amzer keitat Greenwich (AKG),
-    Standard: Amzer keitat Greenwich (AKG),
-    Daylight: Amzer keitat Greenwich (AKG)
-  },
-  Europe/Dublin: {
-    Generic: eur Iwerzhon,
-    Standard: Amzer keitat Greenwich (AKG),
-    Daylight: eur cʼhoañv Iwerzhon
-  },
-  Europe/Isle_of_Man: {
-    Generic: Amzer keitat Greenwich (AKG),
-    Standard: Amzer keitat Greenwich (AKG),
-    Daylight: Amzer keitat Greenwich (AKG)
-  },
-  Europe/Jersey: {
-    Generic: Amzer keitat Greenwich (AKG),
-    Standard: Amzer keitat Greenwich (AKG),
-    Daylight: Amzer keitat Greenwich (AKG)
-  },
-  Europe/Lisbon: {
-    Generic: eur Europa ar Cʼhornôg,
-    Standard: eur cʼhoañv Europa ar Cʼhornôg,
-    Daylight: eur hañv Europa ar Cʼhornôg
-  },
-  Atlantic/Madeira: {
-    Generic: eur Europa ar Cʼhornôg,
-    Standard: eur cʼhoañv Europa ar Cʼhornôg,
-    Daylight: eur hañv Europa ar Cʼhornôg
-  },
-  Europe/Bucharest: {
-    Generic: eur Europa ar Reter,
-    Standard: eur cʼhoañv Europa ar Reter,
-    Daylight: eur hañv Europa ar Reter
-  },
-  Asia/Nicosia: {
-    Generic: eur Europa ar Reter,
-    Standard: eur cʼhoañv Europa ar Reter,
-    Daylight: eur hañv Europa ar Reter
-  },
-  Asia/Famagusta: {
-    Generic: eur Europa ar Reter,
-    Standard: eur cʼhoañv Europa ar Reter,
-    Daylight: eur hañv Europa ar Reter
-  },
-  Europe/Athens: {
-    Generic: eur Europa ar Reter,
-    Standard: eur cʼhoañv Europa ar Reter,
-    Daylight: eur hañv Europa ar Reter
-  },
-  Asia/Tbilisi: {
-    Generic: eur Jorjia,
-    Standard: eur cʼhoañv Jorjia,
-    Daylight: eur hañv Jorjia
-  },
-  America/Godthab: {
-    Generic: eur Greunland ar Cʼhornôg,
-    Standard: eur cʼhoañv Greunland ar Cʼhornôg,
-    Daylight: eur hañv Greunland ar Cʼhornôg
-  },
-  Atlantic/Reykjavik: {
-    Generic: Amzer keitat Greenwich (AKG),
-    Standard: Amzer keitat Greenwich (AKG),
-    Daylight: Amzer keitat Greenwich (AKG)
-  },
-  Atlantic/St_Helena: {
-    Generic: Amzer keitat Greenwich (AKG),
-    Standard: Amzer keitat Greenwich (AKG),
-    Daylight: Amzer keitat Greenwich (AKG)
-  },
-  Africa/Ouagadougou: {
-    Generic: Amzer keitat Greenwich (AKG),
-    Standard: Amzer keitat Greenwich (AKG),
-    Daylight: Amzer keitat Greenwich (AKG)
-  },
-  Africa/Abidjan: {
-    Generic: Amzer keitat Greenwich (AKG),
-    Standard: Amzer keitat Greenwich (AKG),
-    Daylight: Amzer keitat Greenwich (AKG)
-  },
-  Africa/Accra: {
-    Generic: Amzer keitat Greenwich (AKG),
-    Standard: Amzer keitat Greenwich (AKG),
-    Daylight: Amzer keitat Greenwich (AKG)
-  },
-  America/Danmarkshavn: {
-    Generic: Amzer keitat Greenwich (AKG),
-    Standard: Amzer keitat Greenwich (AKG),
-    Daylight: Amzer keitat Greenwich (AKG)
-  },
-  Africa/Banjul: {
-    Generic: Amzer keitat Greenwich (AKG),
-    Standard: Amzer keitat Greenwich (AKG),
-    Daylight: Amzer keitat Greenwich (AKG)
-  },
-  Africa/Conakry: {
-    Generic: Amzer keitat Greenwich (AKG),
-    Standard: Amzer keitat Greenwich (AKG),
-    Daylight: Amzer keitat Greenwich (AKG)
-  },
-  Africa/Bissau: {
-    Generic: Amzer keitat Greenwich (AKG),
-    Standard: Amzer keitat Greenwich (AKG),
-    Daylight: Amzer keitat Greenwich (AKG)
-  },
-  Africa/Monrovia: {
-    Generic: Amzer keitat Greenwich (AKG),
-    Standard: Amzer keitat Greenwich (AKG),
-    Daylight: Amzer keitat Greenwich (AKG)
-  },
-  Africa/Bamako: {
-    Generic: Amzer keitat Greenwich (AKG),
-    Standard: Amzer keitat Greenwich (AKG),
-    Daylight: Amzer keitat Greenwich (AKG)
-  },
-  Africa/Nouakchott: {
-    Generic: Amzer keitat Greenwich (AKG),
-    Standard: Amzer keitat Greenwich (AKG),
-    Daylight: Amzer keitat Greenwich (AKG)
-  },
-  Africa/Freetown: {
-    Generic: Amzer keitat Greenwich (AKG),
-    Standard: Amzer keitat Greenwich (AKG),
-    Daylight: Amzer keitat Greenwich (AKG)
-  },
-  Africa/Dakar: {
-    Generic: Amzer keitat Greenwich (AKG),
-    Standard: Amzer keitat Greenwich (AKG),
-    Daylight: Amzer keitat Greenwich (AKG)
-  },
-  Africa/Lome: {
-    Generic: Amzer keitat Greenwich (AKG),
-    Standard: Amzer keitat Greenwich (AKG),
-    Daylight: Amzer keitat Greenwich (AKG)
+  America/Phoenix: {
+    Generic: eur ar Menezioù,
+    Standard: eur cʼhoañv ar Menezioù,
+    Daylight: eur hañv ar Menezioù
   },
   America/Port-au-Prince: {
     Generic: eur ar Reter,
     Standard: eur cʼhoañv ar Reter,
     Daylight: eur hañv ar Reter
   },
-  Pacific/Honolulu: {
-    Generic: eur Hawaii hag an Aleouted,
-    Standard: eur cʼhoañv Hawaii hag an Aleouted,
-    Daylight: eur hañv Hawaii hag an Aleouted
-  },
-  Pacific/Rarotonga: {
-    Generic: eur Inizi Cook,
-    Standard: eur cʼhoañv Inizi Cook,
-    Daylight: eur hañv Inizi Cook
-  },
-  Pacific/Tahiti: {
-    Generic: eur Tahiti,
-    Standard: eur Tahiti,
-    Daylight: eur Tahiti
-  },
-  Pacific/Johnston: {
-    Generic: eur Hawaii hag an Aleouted,
-    Standard: eur cʼhoañv Hawaii hag an Aleouted,
-    Daylight: eur hañv Hawaii hag an Aleouted
-  },
-  Etc/GMT+10: {
-    Generic: amzer hollvedel kenurzhiet -10,
-    Standard: amzer hollvedel kenurzhiet -10,
-    Daylight: amzer hollvedel kenurzhiet -10
-  },
-  Asia/Calcutta: {
-    Generic: eur cʼhoañv India,
-    Standard: eur cʼhoañv India,
-    Daylight: eur cʼhoañv India
-  },
-  Asia/Tehran: {
-    Generic: eur Iran,
-    Standard: eur cʼhoañv Iran,
-    Daylight: eur hañv Iran
-  },
-  Asia/Jerusalem: {
-    Generic: eur Israel,
-    Standard: eur cʼhoañv Israel,
-    Daylight: eur hañv Israel
-  },
-  Asia/Amman: {
-    Generic: eur Europa ar Reter,
-    Standard: eur cʼhoañv Europa ar Reter,
-    Daylight: eur hañv Europa ar Reter
-  },
-  Europe/Kaliningrad: {
-    Generic: eur Kaliningrad,
-    Standard: eur cʼhoañv Kaliningrad,
-    Daylight: eur hañv Kaliningrad
-  },
-  Asia/Seoul: {
-    Generic: eur Korea,
-    Standard: eur cʼhoañv Korea,
-    Daylight: eur hañv Korea
-  },
-  Africa/Tripoli: {
-    Generic: eur Europa ar Reter,
-    Standard: eur cʼhoañv Europa ar Reter,
-    Daylight: eur hañv Europa ar Reter
-  },
-  Pacific/Kiritimati: {
-    Generic: eur Line Islands,
-    Standard: eur Line Islands,
-    Daylight: eur Line Islands
-  },
-  Etc/GMT-14: {
-    Generic: amzer hollvedel kenurzhiet +14,
-    Standard: amzer hollvedel kenurzhiet +14,
-    Daylight: amzer hollvedel kenurzhiet +14
-  },
-  Australia/Lord_Howe: {
-    Generic: eur Lord Howe,
-    Standard: eur cʼhoañv Lord Howe,
-    Daylight: eur hañv Lord Howe
-  },
-  Asia/Magadan: {
-    Generic: eur Magadan,
-    Standard: eur cʼhoañv Magadan,
-    Daylight: eur hañv Magadan
-  },
-  America/Punta_Arenas: {
-    Generic: eur Chile,
-    Standard: eur cʼhoañv Chile,
-    Daylight: eur hañv Chile
-  },
-  Pacific/Marquesas: {
-    Generic: eur Inizi Markiz,
-    Standard: eur Inizi Markiz,
-    Daylight: eur Inizi Markiz
-  },
-  Indian/Mauritius: {
-    Generic: eur Moris,
-    Standard: eur cʼhoañv Moris,
-    Daylight: eur hañv Moris
-  },
-  Indian/Reunion: {
-    Generic: eur ar Reünion,
-    Standard: eur ar Reünion,
-    Daylight: eur ar Reünion
-  },
-  Indian/Mahe: {
-    Generic: eur Sechelez,
-    Standard: eur Sechelez,
-    Daylight: eur Sechelez
-  },
-  Asia/Beirut: {
-    Generic: eur Europa ar Reter,
-    Standard: eur cʼhoañv Europa ar Reter,
-    Daylight: eur hañv Europa ar Reter
-  },
-  America/Montevideo: {
-    Generic: eur Uruguay,
-    Standard: eur cʼhoañv Uruguay,
-    Daylight: eur hañv Uruguay
-  },
-  Africa/Casablanca: {
-    Generic: eur Europa ar Cʼhornôg,
-    Standard: eur cʼhoañv Europa ar Cʼhornôg,
-    Daylight: eur hañv Europa ar Cʼhornôg
-  },
-  Africa/El_Aaiun: {
-    Generic: eur Europa ar Cʼhornôg,
-    Standard: eur cʼhoañv Europa ar Cʼhornôg,
-    Daylight: eur hañv Europa ar Cʼhornôg
-  },
-  America/Chihuahua: {
-    Generic: eur an Habask mecʼhikan,
-    Standard: eur cʼhoañv an Habask mecʼhikan,
-    Daylight: eur hañv an Habask mecʼhikan
-  },
-  America/Mazatlan: {
-    Generic: eur an Habask mecʼhikan,
-    Standard: eur cʼhoañv an Habask mecʼhikan,
-    Daylight: eur hañv an Habask mecʼhikan
-  },
-  America/Denver: {
-    Generic: eur ar Menezioù,
-    Standard: eur cʼhoañv ar Menezioù,
-    Daylight: eur hañv ar Menezioù
-  },
-  America/Edmonton: {
-    Generic: eur ar Menezioù,
-    Standard: eur cʼhoañv ar Menezioù,
-    Daylight: eur hañv ar Menezioù
-  },
-  America/Cambridge_Bay: {
-    Generic: eur ar Menezioù,
-    Standard: eur cʼhoañv ar Menezioù,
-    Daylight: eur hañv ar Menezioù
-  },
-  America/Inuvik: {
-    Generic: eur ar Menezioù,
-    Standard: eur cʼhoañv ar Menezioù,
-    Daylight: eur hañv ar Menezioù
-  },
-  America/Yellowknife: {
-    Generic: eur ar Menezioù,
-    Standard: eur cʼhoañv ar Menezioù,
-    Daylight: eur hañv ar Menezioù
-  },
-  America/Ojinaga: {
-    Generic: eur ar Menezioù,
-    Standard: eur cʼhoañv ar Menezioù,
-    Daylight: eur hañv ar Menezioù
-  },
-  America/Boise: {
-    Generic: eur ar Menezioù,
-    Standard: eur cʼhoañv ar Menezioù,
-    Daylight: eur hañv ar Menezioù
-  },
-  MST7MDT: {
-    Generic: eur ar Menezioù,
-    Standard: eur cʼhoañv ar Menezioù,
-    Daylight: eur hañv ar Menezioù
-  },
-  Asia/Rangoon: {
-    Generic: eur Myanmar,
-    Standard: eur Myanmar,
-    Daylight: eur Myanmar
-  },
-  Indian/Cocos: {
-    Generic: eur Inizi Kokoz,
-    Standard: eur Inizi Kokoz,
-    Daylight: eur Inizi Kokoz
-  },
-  Asia/Novosibirsk: {
-    Generic: eur Novosibirsk,
-    Standard: eur cʼhoañv Novosibirsk,
-    Daylight: eur hañv Novosibirsk
-  },
-  Africa/Windhoek: {
-    Generic: eur Kreizafrika,
-    Standard: eur Kreizafrika,
-    Daylight: eur Kreizafrika
-  },
-  Asia/Katmandu: {
-    Generic: eur Nepal,
-    Standard: eur Nepal,
-    Daylight: eur Nepal
-  },
-  Pacific/Auckland: {
-    Generic: eur Zeland-Nevez,
-    Standard: eur cʼhoañv Zeland-Nevez,
-    Daylight: eur hañv Zeland-Nevez
-  },
-  Antarctica/McMurdo: {
-    Generic: eur Zeland-Nevez,
-    Standard: eur cʼhoañv Zeland-Nevez,
-    Daylight: eur hañv Zeland-Nevez
-  },
-  America/St_Johns: {
-    Generic: eur Newfoundland,
-    Standard: eur cʼhoañv Newfoundland,
-    Daylight: eur hañv Newfoundland
-  },
-  Pacific/Norfolk: {
-    Generic: eur Enez Norfolk,
-    Standard: eur cʼhoañv Enez Norfolk,
-    Daylight: eur hañv Enez Norfolk
-  },
-  Asia/Irkutsk: {
-    Generic: eur Irkutsk,
-    Standard: eur cʼhoañv Irkutsk,
-    Daylight: eur hañv Irkutsk
-  },
-  Asia/Krasnoyarsk: {
-    Generic: eur Krasnoyarsk,
-    Standard: eur cʼhoañv Krasnoyarsk,
-    Daylight: eur hañv Krasnoyarsk
-  },
-  Asia/Novokuznetsk: {
-    Generic: eur Novokuznetsk,
-    Standard: eur cʼhoañv Novokuznetsk,
-    Daylight: eur hañv Novokuznetsk
-  },
-  Asia/Pyongyang: {
-    Generic: eur Korea,
-    Standard: eur cʼhoañv Korea,
-    Daylight: eur hañv Korea
-  },
-  Asia/Omsk: {
-    Generic: eur Omsk,
-    Standard: eur cʼhoañv Omsk,
-    Daylight: eur hañv Omsk
-  },
-  America/Santiago: {
-    Generic: eur Chile,
-    Standard: eur cʼhoañv Chile,
-    Daylight: eur hañv Chile
-  },
-  America/Tijuana: {
-    Generic: eur an Habask,
-    Standard: eur cʼhoañv an Habask,
-    Daylight: eur hañv an Habask
-  },
-  America/Santa_Isabel: {
-    Generic: eur Gwalarn Mecʼhiko,
-    Standard: eur cʼhoañv Gwalarn Mecʼhiko,
-    Daylight: eur hañv Gwalarn Mecʼhiko
-  },
-  America/Los_Angeles: {
-    Generic: eur an Habask,
-    Standard: eur cʼhoañv an Habask,
-    Daylight: eur hañv an Habask
-  },
-  America/Vancouver: {
-    Generic: eur an Habask,
-    Standard: eur cʼhoañv an Habask,
-    Daylight: eur hañv an Habask
-  },
-  PST8PDT: {
-    Generic: eur an Habask,
-    Standard: eur cʼhoañv an Habask,
-    Daylight: eur hañv an Habask
-  },
-  Asia/Karachi: {
-    Generic: eur Pakistan,
-    Standard: eur cʼhoañv Pakistan,
-    Daylight: eur hañv Pakistan
-  },
-  America/Asuncion: {
-    Generic: eur Paraguay,
-    Standard: eur cʼhoañv Paraguay,
-    Daylight: eur hañv Paraguay
-  },
-  Asia/Qyzylorda: {
-    Generic: eur Kazakstan ar Cʼhornôg,
-    Standard: eur Kazakstan ar Cʼhornôg,
-    Daylight: eur Kazakstan ar Cʼhornôg
-  },
-  Europe/Paris: {
-    Generic: eur Kreizeuropa,
-    Standard: eur cʼhoañv Kreizeuropa,
-    Daylight: eur hañv Kreizeuropa
-  },
-  Europe/Brussels: {
-    Generic: eur Kreizeuropa,
-    Standard: eur cʼhoañv Kreizeuropa,
-    Daylight: eur hañv Kreizeuropa
-  },
-  Europe/Copenhagen: {
-    Generic: eur Kreizeuropa,
-    Standard: eur cʼhoañv Kreizeuropa,
-    Daylight: eur hañv Kreizeuropa
-  },
-  Africa/Ceuta: {
-    Generic: eur Kreizeuropa,
-    Standard: eur cʼhoañv Kreizeuropa,
-    Daylight: eur hañv Kreizeuropa
-  },
-  Europe/Madrid: {
-    Generic: eur Kreizeuropa,
-    Standard: eur cʼhoañv Kreizeuropa,
-    Daylight: eur hañv Kreizeuropa
-  },
-  Asia/Srednekolymsk: {
-    Generic: eur Srednekolymsk,
-    Standard: eur cʼhoañv Srednekolymsk,
-    Daylight: eur hañv Srednekolymsk
-  },
-  Asia/Kamchatka: {
-    Generic: eur Kamtchatka,
-    Standard: eur cʼhoañv Kamtchatka,
-    Daylight: eur hañv Kamtchatka
-  },
-  Asia/Anadyr: {
-    Generic: eur Anadyrʼ,
-    Standard: eur cʼhoañv Anadyrʼ,
-    Daylight: eur hañv Anadyrʼ
-  },
-  Europe/Samara: {
-    Generic: eur Samara,
-    Standard: eur cʼhoañv Samara,
-    Daylight: eur hañv Samara
-  },
-  Europe/Moscow: {
-    Generic: eur Moskov,
-    Standard: eur cʼhoañv Moskov,
-    Daylight: eur hañv Moskov
-  },
-  Europe/Kirov: {
-    Generic: eur Kirov,
-    Standard: eur cʼhoañv Kirov,
-    Daylight: eur hañv Kirov
-  },
-  Europe/Simferopol: {
-    Generic: eur Moskov,
-    Standard: eur cʼhoañv Moskov,
-    Daylight: eur hañv Moskov
-  },
-  America/Cayenne: {
-    Generic: eur Gwiana cʼhall,
-    Standard: eur Gwiana cʼhall,
-    Daylight: eur Gwiana cʼhall
-  },
-  Antarctica/Rothera: {
-    Generic: eur Rothera,
-    Standard: eur Rothera,
-    Daylight: eur Rothera
-  },
-  Antarctica/Palmer: {
-    Generic: eur Chile,
-    Standard: eur cʼhoañv Chile,
-    Daylight: eur hañv Chile
-  },
-  America/Fortaleza: {
-    Generic: eur Brasília,
-    Standard: eur cʼhoañv Brasília,
-    Daylight: eur hañv Brasília
-  },
-  America/Belem: {
-    Generic: eur Brasília,
-    Standard: eur cʼhoañv Brasília,
-    Daylight: eur hañv Brasília
-  },
-  America/Maceio: {
-    Generic: eur Brasília,
-    Standard: eur cʼhoañv Brasília,
-    Daylight: eur hañv Brasília
-  },
-  America/Recife: {
-    Generic: eur Brasília,
-    Standard: eur cʼhoañv Brasília,
-    Daylight: eur hañv Brasília
-  },
-  America/Santarem: {
-    Generic: eur Brasília,
-    Standard: eur cʼhoañv Brasília,
-    Daylight: eur hañv Brasília
-  },
-  Atlantic/Stanley: {
-    Generic: eur Inizi Falkland,
-    Standard: eur cʼhoañv Inizi Falkland,
-    Daylight: eur hañv Inizi Falkland
-  },
-  America/Paramaribo: {
-    Generic: eur Surinam,
-    Standard: eur Surinam,
-    Daylight: eur Surinam
-  },
-  Etc/GMT+3: {
-    Generic: amzer hollvedel kenurzhiet -3,
-    Standard: amzer hollvedel kenurzhiet -3,
-    Daylight: amzer hollvedel kenurzhiet -3
-  },
-  America/Bogota: {
-    Generic: eur Kolombia,
-    Standard: eur cʼhoañv Kolombia,
-    Daylight: eur hañv Kolombia
-  },
-  America/Rio_Branco: {
+  America/Port_of_Spain: {
+    Generic: eur an Atlantel,
+    Standard: eur cʼhoañv an Atlantel,
+    Daylight: eur hañv an Atlantel
+  },
+  America/Porto_Acre: {
     Generic: eur Brazil,
     Standard: eur cʼhoañv Brazil,
     Daylight: eur hañv Brazil
-  },
-  America/Eirunepe: {
-    Generic: eur Brazil,
-    Standard: eur cʼhoañv Brazil,
-    Daylight: eur hañv Brazil
-  },
-  America/Coral_Harbour: {
-    Generic: eur ar Reter,
-    Standard: eur cʼhoañv ar Reter,
-    Daylight: eur hañv ar Reter
-  },
-  America/Guayaquil: {
-    Generic: eur Ecuador,
-    Standard: eur Ecuador,
-    Daylight: eur Ecuador
-  },
-  America/Jamaica: {
-    Generic: eur ar Reter,
-    Standard: eur cʼhoañv ar Reter,
-    Daylight: eur hañv ar Reter
-  },
-  America/Cayman: {
-    Generic: eur ar Reter,
-    Standard: eur cʼhoañv ar Reter,
-    Daylight: eur hañv ar Reter
-  },
-  America/Panama: {
-    Generic: eur ar Reter,
-    Standard: eur cʼhoañv ar Reter,
-    Daylight: eur hañv ar Reter
-  },
-  America/Lima: {
-    Generic: eur Perou,
-    Standard: eur cʼhoañv Perou,
-    Daylight: eur hañv Perou
-  },
-  Etc/GMT+5: {
-    Generic: amzer hollvedel kenurzhiet -5,
-    Standard: amzer hollvedel kenurzhiet -5,
-    Daylight: amzer hollvedel kenurzhiet -5
-  },
-  America/La_Paz: {
-    Generic: eur Bolivia,
-    Standard: eur Bolivia,
-    Daylight: eur Bolivia
-  },
-  America/Antigua: {
-    Generic: eur an Atlantel,
-    Standard: eur cʼhoañv an Atlantel,
-    Daylight: eur hañv an Atlantel
-  },
-  America/Anguilla: {
-    Generic: eur an Atlantel,
-    Standard: eur cʼhoañv an Atlantel,
-    Daylight: eur hañv an Atlantel
-  },
-  America/Aruba: {
-    Generic: eur an Atlantel,
-    Standard: eur cʼhoañv an Atlantel,
-    Daylight: eur hañv an Atlantel
-  },
-  America/Barbados: {
-    Generic: eur an Atlantel,
-    Standard: eur cʼhoañv an Atlantel,
-    Daylight: eur hañv an Atlantel
-  },
-  America/St_Barthelemy: {
-    Generic: eur an Atlantel,
-    Standard: eur cʼhoañv an Atlantel,
-    Daylight: eur hañv an Atlantel
-  },
-  America/Kralendijk: {
-    Generic: eur an Atlantel,
-    Standard: eur cʼhoañv an Atlantel,
-    Daylight: eur hañv an Atlantel
-  },
-  America/Manaus: {
-    Generic: eur an Amazon,
-    Standard: eur cʼhoañv an Amazon,
-    Daylight: eur hañv an Amazon
-  },
-  America/Boa_Vista: {
-    Generic: eur an Amazon,
-    Standard: eur cʼhoañv an Amazon,
-    Daylight: eur hañv an Amazon
   },
   America/Porto_Velho: {
     Generic: eur an Amazon,
     Standard: eur cʼhoañv an Amazon,
     Daylight: eur hañv an Amazon
   },
-  America/Blanc-Sablon: {
+  America/Puerto_Rico: {
     Generic: eur an Atlantel,
     Standard: eur cʼhoañv an Atlantel,
     Daylight: eur hañv an Atlantel
   },
-  America/Curacao: {
-    Generic: eur an Atlantel,
-    Standard: eur cʼhoañv an Atlantel,
-    Daylight: eur hañv an Atlantel
+  America/Punta_Arenas: {
+    Generic: eur Chile,
+    Standard: eur cʼhoañv Chile,
+    Daylight: eur hañv Chile
   },
-  America/Dominica: {
-    Generic: eur an Atlantel,
-    Standard: eur cʼhoañv an Atlantel,
-    Daylight: eur hañv an Atlantel
+  America/Rainy_River: {
+    Generic: eur ar Cʼhreiz,
+    Standard: eur cʼhoañv ar Cʼhreiz,
+    Daylight: eur hañv ar Cʼhreiz
+  },
+  America/Rankin_Inlet: {
+    Generic: eur ar Cʼhreiz,
+    Standard: eur cʼhoañv ar Cʼhreiz,
+    Daylight: eur hañv ar Cʼhreiz
+  },
+  America/Recife: {
+    Generic: eur Brasília,
+    Standard: eur cʼhoañv Brasília,
+    Daylight: eur hañv Brasília
+  },
+  America/Regina: {
+    Generic: eur ar Cʼhreiz,
+    Standard: eur cʼhoañv ar Cʼhreiz,
+    Daylight: eur hañv ar Cʼhreiz
+  },
+  America/Resolute: {
+    Generic: eur ar Cʼhreiz,
+    Standard: eur cʼhoañv ar Cʼhreiz,
+    Daylight: eur hañv ar Cʼhreiz
+  },
+  America/Rio_Branco: {
+    Generic: eur Brazil,
+    Standard: eur cʼhoañv Brazil,
+    Daylight: eur hañv Brazil
+  },
+  America/Rosario: {
+    Generic: eur Arcʼhantina,
+    Standard: eur cʼhoañv Arcʼhantina,
+    Daylight: eur hañv Arcʼhantina
+  },
+  America/Santa_Isabel: {
+    Generic: eur Gwalarn Mecʼhiko,
+    Standard: eur cʼhoañv Gwalarn Mecʼhiko,
+    Daylight: eur hañv Gwalarn Mecʼhiko
+  },
+  America/Santarem: {
+    Generic: eur Brasília,
+    Standard: eur cʼhoañv Brasília,
+    Daylight: eur hañv Brasília
+  },
+  America/Santiago: {
+    Generic: eur Chile,
+    Standard: eur cʼhoañv Chile,
+    Daylight: eur hañv Chile
   },
   America/Santo_Domingo: {
     Generic: eur an Atlantel,
     Standard: eur cʼhoañv an Atlantel,
     Daylight: eur hañv an Atlantel
   },
-  America/Grenada: {
+  America/Sao_Paulo: {
+    Generic: eur Brasília,
+    Standard: eur cʼhoañv Brasília,
+    Daylight: eur hañv Brasília
+  },
+  America/Scoresbysund: {
+    Generic: eur Greunland ar Reter,
+    Standard: eur cʼhoañv Greunland ar Reter,
+    Daylight: eur hañv Greunland ar Reter
+  },
+  America/Shiprock: {
+    Generic: eur ar Menezioù,
+    Standard: eur cʼhoañv ar Menezioù,
+    Daylight: eur hañv ar Menezioù
+  },
+  America/Sitka: {
+    Generic: eur Alaska,
+    Standard: eur cʼhoañv Alaska,
+    Daylight: eur hañv Alaska
+  },
+  America/St_Barthelemy: {
     Generic: eur an Atlantel,
     Standard: eur cʼhoañv an Atlantel,
     Daylight: eur hañv an Atlantel
   },
-  America/Guadeloupe: {
-    Generic: eur an Atlantel,
-    Standard: eur cʼhoañv an Atlantel,
-    Daylight: eur hañv an Atlantel
-  },
-  America/Guyana: {
-    Generic: eur Guyana,
-    Standard: eur Guyana,
-    Daylight: eur Guyana
+  America/St_Johns: {
+    Generic: eur Newfoundland,
+    Standard: eur cʼhoañv Newfoundland,
+    Daylight: eur hañv Newfoundland
   },
   America/St_Kitts: {
     Generic: eur an Atlantel,
@@ -1504,32 +1029,7 @@
     Standard: eur cʼhoañv an Atlantel,
     Daylight: eur hañv an Atlantel
   },
-  America/Marigot: {
-    Generic: eur an Atlantel,
-    Standard: eur cʼhoañv an Atlantel,
-    Daylight: eur hañv an Atlantel
-  },
-  America/Martinique: {
-    Generic: eur an Atlantel,
-    Standard: eur cʼhoañv an Atlantel,
-    Daylight: eur hañv an Atlantel
-  },
-  America/Montserrat: {
-    Generic: eur an Atlantel,
-    Standard: eur cʼhoañv an Atlantel,
-    Daylight: eur hañv an Atlantel
-  },
-  America/Puerto_Rico: {
-    Generic: eur an Atlantel,
-    Standard: eur cʼhoañv an Atlantel,
-    Daylight: eur hañv an Atlantel
-  },
-  America/Lower_Princes: {
-    Generic: eur an Atlantel,
-    Standard: eur cʼhoañv an Atlantel,
-    Daylight: eur hañv an Atlantel
-  },
-  America/Port_of_Spain: {
+  America/St_Thomas: {
     Generic: eur an Atlantel,
     Standard: eur cʼhoañv an Atlantel,
     Daylight: eur hañv an Atlantel
@@ -1539,655 +1039,155 @@
     Standard: eur cʼhoañv an Atlantel,
     Daylight: eur hañv an Atlantel
   },
+  America/Swift_Current: {
+    Generic: eur ar Cʼhreiz,
+    Standard: eur cʼhoañv ar Cʼhreiz,
+    Daylight: eur hañv ar Cʼhreiz
+  },
+  America/Tegucigalpa: {
+    Generic: eur ar Cʼhreiz,
+    Standard: eur cʼhoañv ar Cʼhreiz,
+    Daylight: eur hañv ar Cʼhreiz
+  },
+  America/Thule: {
+    Generic: eur an Atlantel,
+    Standard: eur cʼhoañv an Atlantel,
+    Daylight: eur hañv an Atlantel
+  },
+  America/Thunder_Bay: {
+    Generic: eur ar Reter,
+    Standard: eur cʼhoañv ar Reter,
+    Daylight: eur hañv ar Reter
+  },
+  America/Tijuana: {
+    Generic: eur an Habask,
+    Standard: eur cʼhoañv an Habask,
+    Daylight: eur hañv an Habask
+  },
+  America/Toronto: {
+    Generic: eur ar Reter,
+    Standard: eur cʼhoañv ar Reter,
+    Daylight: eur hañv ar Reter
+  },
   America/Tortola: {
     Generic: eur an Atlantel,
     Standard: eur cʼhoañv an Atlantel,
     Daylight: eur hañv an Atlantel
   },
-  America/St_Thomas: {
+  America/Vancouver: {
+    Generic: eur an Habask,
+    Standard: eur cʼhoañv an Habask,
+    Daylight: eur hañv an Habask
+  },
+  America/Virgin: {
     Generic: eur an Atlantel,
     Standard: eur cʼhoañv an Atlantel,
     Daylight: eur hañv an Atlantel
   },
-  Etc/GMT+4: {
-    Generic: amzer hollvedel kenurzhiet -4,
-    Standard: amzer hollvedel kenurzhiet -4,
-    Daylight: amzer hollvedel kenurzhiet -4
+  America/Whitehorse: {
+    Generic: eur Kanada,
+    Standard: eur cʼhoañv Kanada,
+    Daylight: eur hañv Kanada
   },
-  Asia/Bangkok: {
-    Generic: eur Indez-Sina,
-    Standard: eur Indez-Sina,
-    Daylight: eur Indez-Sina
+  America/Winnipeg: {
+    Generic: eur ar Cʼhreiz,
+    Standard: eur cʼhoañv ar Cʼhreiz,
+    Daylight: eur hañv ar Cʼhreiz
+  },
+  America/Yakutat: {
+    Generic: eur Alaska,
+    Standard: eur cʼhoañv Alaska,
+    Daylight: eur hañv Alaska
+  },
+  America/Yellowknife: {
+    Generic: eur ar Menezioù,
+    Standard: eur cʼhoañv ar Menezioù,
+    Daylight: eur hañv ar Menezioù
+  },
+  Antarctica/Casey: {
+    Generic: eur Antarktika,
+    Standard: eur cʼhoañv Antarktika,
+    Daylight: eur hañv Antarktika
   },
   Antarctica/Davis: {
     Generic: eur Davis,
     Standard: eur Davis,
     Daylight: eur Davis
   },
-  Indian/Christmas: {
-    Generic: eur Enez Christmas,
-    Standard: eur Enez Christmas,
-    Daylight: eur Enez Christmas
-  },
-  Asia/Jakarta: {
-    Generic: eur Indonezia ar Cʼhornôg,
-    Standard: eur Indonezia ar Cʼhornôg,
-    Daylight: eur Indonezia ar Cʼhornôg
-  },
-  Asia/Pontianak: {
-    Generic: eur Indonezia ar Cʼhornôg,
-    Standard: eur Indonezia ar Cʼhornôg,
-    Daylight: eur Indonezia ar Cʼhornôg
-  },
-  Asia/Phnom_Penh: {
-    Generic: eur Indez-Sina,
-    Standard: eur Indez-Sina,
-    Daylight: eur Indez-Sina
-  },
-  Asia/Vientiane: {
-    Generic: eur Indez-Sina,
-    Standard: eur Indez-Sina,
-    Daylight: eur Indez-Sina
-  },
-  Asia/Saigon: {
-    Generic: eur Indez-Sina,
-    Standard: eur Indez-Sina,
-    Daylight: eur Indez-Sina
-  },
-  Etc/GMT-7: {
-    Generic: amzer hollvedel kenurzhiet +7,
-    Standard: amzer hollvedel kenurzhiet +7,
-    Daylight: amzer hollvedel kenurzhiet +7
-  },
-  America/Miquelon: {
-    Generic: eur Sant-Pêr-ha-Mikelon,
-    Standard: eur cʼhoañv Sant-Pêr-ha-Mikelon,
-    Daylight: eur hañv Sant-Pêr-ha-Mikelon
-  },
-  Asia/Sakhalin: {
-    Generic: eur Sakhalin,
-    Standard: eur cʼhoañv Sakhalin,
-    Daylight: eur hañv Sakhalin
-  },
-  Pacific/Apia: {
-    Generic: eur Apia,
-    Standard: eur cʼhoañv Apia,
-    Daylight: eur hañv Apia
-  },
-  Africa/Sao_Tome: {
-    Generic: Amzer keitat Greenwich (AKG),
-    Standard: Amzer keitat Greenwich (AKG),
-    Daylight: Amzer keitat Greenwich (AKG)
-  },
-  Europe/Saratov: {
-    Generic: eur Saratov,
-    Standard: eur cʼhoañv Saratov,
-    Daylight: eur hañv Saratov
-  },
-  Asia/Singapore: {
-    Generic: eur cʼhoañv Singapour,
-    Standard: eur cʼhoañv Singapour,
-    Daylight: eur cʼhoañv Singapour
-  },
-  Asia/Brunei: {
-    Generic: eur Brunei Darussalam,
-    Standard: eur Brunei Darussalam,
-    Daylight: eur Brunei Darussalam
-  },
-  Asia/Makassar: {
-    Generic: eur Kreiz Indonezia,
-    Standard: eur Kreiz Indonezia,
-    Daylight: eur Kreiz Indonezia
-  },
-  Asia/Kuala_Lumpur: {
-    Generic: eur Malaysia,
-    Standard: eur Malaysia,
-    Daylight: eur Malaysia
-  },
-  Asia/Kuching: {
-    Generic: eur Malaysia,
-    Standard: eur Malaysia,
-    Daylight: eur Malaysia
-  },
-  Asia/Manila: {
-    Generic: eur ar Filipinez,
-    Standard: eur cʼhoañv ar Filipinez,
-    Daylight: eur hañv ar Filipinez
-  },
-  Etc/GMT-8: {
-    Generic: amzer hollvedel kenurzhiet +8,
-    Standard: amzer hollvedel kenurzhiet +8,
-    Daylight: amzer hollvedel kenurzhiet +8
-  },
-  Africa/Johannesburg: {
-    Generic: eur cʼhoañv Suafrika,
-    Standard: eur cʼhoañv Suafrika,
-    Daylight: eur cʼhoañv Suafrika
-  },
-  Africa/Bujumbura: {
-    Generic: eur Kreizafrika,
-    Standard: eur Kreizafrika,
-    Daylight: eur Kreizafrika
-  },
-  Africa/Gaborone: {
-    Generic: eur Kreizafrika,
-    Standard: eur Kreizafrika,
-    Daylight: eur Kreizafrika
-  },
-  Africa/Lubumbashi: {
-    Generic: eur Kreizafrika,
-    Standard: eur Kreizafrika,
-    Daylight: eur Kreizafrika
-  },
-  Africa/Maseru: {
-    Generic: eur cʼhoañv Suafrika,
-    Standard: eur cʼhoañv Suafrika,
-    Daylight: eur cʼhoañv Suafrika
-  },
-  Africa/Blantyre: {
-    Generic: eur Kreizafrika,
-    Standard: eur Kreizafrika,
-    Daylight: eur Kreizafrika
-  },
-  Africa/Maputo: {
-    Generic: eur Kreizafrika,
-    Standard: eur Kreizafrika,
-    Daylight: eur Kreizafrika
-  },
-  Africa/Kigali: {
-    Generic: eur Kreizafrika,
-    Standard: eur Kreizafrika,
-    Daylight: eur Kreizafrika
-  },
-  Africa/Mbabane: {
-    Generic: eur cʼhoañv Suafrika,
-    Standard: eur cʼhoañv Suafrika,
-    Daylight: eur cʼhoañv Suafrika
-  },
-  Africa/Lusaka: {
-    Generic: eur Kreizafrika,
-    Standard: eur Kreizafrika,
-    Daylight: eur Kreizafrika
-  },
-  Africa/Harare: {
-    Generic: eur Kreizafrika,
-    Standard: eur Kreizafrika,
-    Daylight: eur Kreizafrika
-  },
-  Etc/GMT-2: {
-    Generic: amzer hollvedel kenurzhiet +2,
-    Standard: amzer hollvedel kenurzhiet +2,
-    Daylight: amzer hollvedel kenurzhiet +2
-  },
-  Africa/Juba: {
-    Generic: eur Kreizafrika,
-    Standard: eur Kreizafrika,
-    Daylight: eur Kreizafrika
-  },
-  Asia/Colombo: {
-    Generic: eur cʼhoañv India,
-    Standard: eur cʼhoañv India,
-    Daylight: eur cʼhoañv India
-  },
-  Africa/Khartoum: {
-    Generic: eur Kreizafrika,
-    Standard: eur Kreizafrika,
-    Daylight: eur Kreizafrika
-  },
-  Asia/Damascus: {
-    Generic: eur Europa ar Reter,
-    Standard: eur cʼhoañv Europa ar Reter,
-    Daylight: eur hañv Europa ar Reter
-  },
-  Asia/Taipei: {
-    Generic: eur Taipei,
-    Standard: eur cʼhoañv Taipei,
-    Daylight: eur hañv Taipei
-  },
-  Australia/Hobart: {
-    Generic: eur Aostralia ar Reter,
-    Standard: eur cʼhoañv Aostralia ar Reter,
-    Daylight: eur hañv Aostralia ar Reter
-  },
-  Australia/Currie: {
-    Generic: eur Aostralia ar Reter,
-    Standard: eur cʼhoañv Aostralia ar Reter,
-    Daylight: eur hañv Aostralia ar Reter
+  Antarctica/DumontDUrville: {
+    Generic: eur Dumont-d’Urville,
+    Standard: eur Dumont-d’Urville,
+    Daylight: eur Dumont-d’Urville
   },
   Antarctica/Macquarie: {
     Generic: eur Aostralia ar Reter,
     Standard: eur cʼhoañv Aostralia ar Reter,
     Daylight: eur hañv Aostralia ar Reter
   },
-  America/Araguaina: {
-    Generic: eur Brasília,
-    Standard: eur cʼhoañv Brasília,
-    Daylight: eur hañv Brasília
+  Antarctica/Mawson: {
+    Generic: eur Mawson,
+    Standard: eur Mawson,
+    Daylight: eur Mawson
   },
-  Asia/Tokyo: {
-    Generic: eur Japan,
-    Standard: eur cʼhoañv Japan,
-    Daylight: eur hañv Japan
+  Antarctica/McMurdo: {
+    Generic: eur Zeland-Nevez,
+    Standard: eur cʼhoañv Zeland-Nevez,
+    Daylight: eur hañv Zeland-Nevez
   },
-  Asia/Jayapura: {
-    Generic: eur Indonezia ar Reter,
-    Standard: eur Indonezia ar Reter,
-    Daylight: eur Indonezia ar Reter
+  Antarctica/Palmer: {
+    Generic: eur Chile,
+    Standard: eur cʼhoañv Chile,
+    Daylight: eur hañv Chile
   },
-  Pacific/Palau: {
-    Generic: eur Palau,
-    Standard: eur Palau,
-    Daylight: eur Palau
+  Antarctica/Rothera: {
+    Generic: eur Rothera,
+    Standard: eur Rothera,
+    Daylight: eur Rothera
   },
-  Asia/Dili: {
-    Generic: eur Timor ar Reter,
-    Standard: eur Timor ar Reter,
-    Daylight: eur Timor ar Reter
+  Antarctica/South_Pole: {
+    Generic: eur Zeland-Nevez,
+    Standard: eur cʼhoañv Zeland-Nevez,
+    Daylight: eur hañv Zeland-Nevez
   },
-  Etc/GMT-9: {
-    Generic: amzer hollvedel kenurzhiet +9,
-    Standard: amzer hollvedel kenurzhiet +9,
-    Daylight: amzer hollvedel kenurzhiet +9
+  Antarctica/Syowa: {
+    Generic: eur Syowa,
+    Standard: eur Syowa,
+    Daylight: eur Syowa
   },
-  Asia/Tomsk: {
-    Generic: eur Tomsk,
-    Standard: eur cʼhoañv Tomsk,
-    Daylight: eur hañv Tomsk
-  },
-  Pacific/Tongatapu: {
-    Generic: eur Tonga,
-    Standard: eur cʼhoañv Tonga,
-    Daylight: eur hañv Tonga
-  },
-  Asia/Chita: {
-    Generic: eur Tchita,
-    Standard: eur cʼhoañv Tchita,
-    Daylight: eur hañv Tchita
-  },
-  Europe/Istanbul: {
-    Generic: eur Turkia,
-    Standard: eur cʼhoañv Turkia,
-    Daylight: eur hañv Turkia
-  },
-  America/Grand_Turk: {
-    Generic: eur ar Reter,
-    Standard: eur cʼhoañv ar Reter,
-    Daylight: eur hañv ar Reter
-  },
-  America/Indianapolis: {
-    Generic: eur ar Reter,
-    Standard: eur cʼhoañv ar Reter,
-    Daylight: eur hañv ar Reter
-  },
-  America/Indiana/Marengo: {
-    Generic: eur ar Reter,
-    Standard: eur cʼhoañv ar Reter,
-    Daylight: eur hañv ar Reter
-  },
-  America/Indiana/Vevay: {
-    Generic: eur ar Reter,
-    Standard: eur cʼhoañv ar Reter,
-    Daylight: eur hañv ar Reter
-  },
-  America/Phoenix: {
-    Generic: eur ar Menezioù,
-    Standard: eur cʼhoañv ar Menezioù,
-    Daylight: eur hañv ar Menezioù
-  },
-  America/Creston: {
-    Generic: eur ar Menezioù,
-    Standard: eur cʼhoañv ar Menezioù,
-    Daylight: eur hañv ar Menezioù
-  },
-  America/Dawson_Creek: {
-    Generic: eur ar Menezioù,
-    Standard: eur cʼhoañv ar Menezioù,
-    Daylight: eur hañv ar Menezioù
-  },
-  America/Fort_Nelson: {
-    Generic: eur ar Menezioù,
-    Standard: eur cʼhoañv ar Menezioù,
-    Daylight: eur hañv ar Menezioù
-  },
-  America/Hermosillo: {
-    Generic: eur an Habask mecʼhikan,
-    Standard: eur cʼhoañv an Habask mecʼhikan,
-    Daylight: eur hañv an Habask mecʼhikan
-  },
-  Etc/GMT+7: {
-    Generic: amzer hollvedel kenurzhiet -7,
-    Standard: amzer hollvedel kenurzhiet -7,
-    Daylight: amzer hollvedel kenurzhiet -7
-  },
-  Etc/GMT-12: {
-    Generic: amzer hollvedel kenurzhiet +12,
-    Standard: amzer hollvedel kenurzhiet +12,
-    Daylight: amzer hollvedel kenurzhiet +12
-  },
-  Pacific/Tarawa: {
-    Generic: eur Inizi Gilbert,
-    Standard: eur Inizi Gilbert,
-    Daylight: eur Inizi Gilbert
-  },
-  Pacific/Majuro: {
-    Generic: eur Inizi Marshall,
-    Standard: eur Inizi Marshall,
-    Daylight: eur Inizi Marshall
-  },
-  Pacific/Kwajalein: {
-    Generic: eur Inizi Marshall,
-    Standard: eur Inizi Marshall,
-    Daylight: eur Inizi Marshall
-  },
-  Pacific/Nauru: {
-    Generic: eur Nauru,
-    Standard: eur Nauru,
-    Daylight: eur Nauru
-  },
-  Pacific/Funafuti: {
-    Generic: eur Tuvalu,
-    Standard: eur Tuvalu,
-    Daylight: eur Tuvalu
-  },
-  Pacific/Wake: {
-    Generic: eur Wake Island,
-    Standard: eur Wake Island,
-    Daylight: eur Wake Island
-  },
-  Pacific/Wallis: {
-    Generic: eur Wallis ha Futuna,
-    Standard: eur Wallis ha Futuna,
-    Daylight: eur Wallis ha Futuna
-  },
-  Etc/GMT-13: {
-    Generic: amzer hollvedel kenurzhiet +13,
-    Standard: amzer hollvedel kenurzhiet +13,
-    Daylight: amzer hollvedel kenurzhiet +13
-  },
-  Pacific/Enderbury: {
-    Generic: eur Inizi Phoenix,
-    Standard: eur Inizi Phoenix,
-    Daylight: eur Inizi Phoenix
-  },
-  Pacific/Fakaofo: {
-    Generic: eur Tokelau,
-    Standard: eur Tokelau,
-    Daylight: eur Tokelau
-  },
-  Etc/UTC: {
-    Generic: amzer hollvedel kenurzhiet,
-    Standard: amzer hollvedel kenurzhiet,
-    Daylight: amzer hollvedel kenurzhiet
-  },
-  Etc/GMT: {
+  Antarctica/Troll: {
     Generic: Amzer keitat Greenwich (AKG),
     Standard: Amzer keitat Greenwich (AKG),
     Daylight: Amzer keitat Greenwich (AKG)
   },
-  Etc/GMT+2: {
-    Generic: amzer hollvedel kenurzhiet -2,
-    Standard: amzer hollvedel kenurzhiet -2,
-    Daylight: amzer hollvedel kenurzhiet -2
-  },
-  America/Noronha: {
-    Generic: eur Fernando de Noronha,
-    Standard: eur cʼhoañv Fernando de Noronha,
-    Daylight: eur hañv Fernando de Noronha
-  },
-  Atlantic/South_Georgia: {
-    Generic: eur Georgia ar Su,
-    Standard: eur Georgia ar Su,
-    Daylight: eur Georgia ar Su
-  },
-  Etc/GMT+8: {
-    Generic: amzer hollvedel kenurzhiet -8,
-    Standard: amzer hollvedel kenurzhiet -8,
-    Daylight: amzer hollvedel kenurzhiet -8
-  },
-  Pacific/Pitcairn: {
-    Generic: eur Pitcairn,
-    Standard: eur Pitcairn,
-    Daylight: eur Pitcairn
-  },
-  Etc/GMT+9: {
-    Generic: amzer hollvedel kenurzhiet -9,
-    Standard: amzer hollvedel kenurzhiet -9,
-    Daylight: amzer hollvedel kenurzhiet -9
-  },
-  Pacific/Gambier: {
-    Generic: eur Inizi Gambier,
-    Standard: eur Inizi Gambier,
-    Daylight: eur Inizi Gambier
-  },
-  Etc/GMT+11: {
-    Generic: amzer hollvedel kenurzhiet -11,
-    Standard: amzer hollvedel kenurzhiet -11,
-    Daylight: amzer hollvedel kenurzhiet -11
-  },
-  Pacific/Pago_Pago: {
-    Generic: eur Samoa,
-    Standard: eur cʼhoañv Samoa,
-    Daylight: eur hañv Samoa
-  },
-  Pacific/Niue: {
-    Generic: eur Niue,
-    Standard: eur Niue,
-    Daylight: eur Niue
-  },
-  Pacific/Midway: {
-    Generic: eur Samoa,
-    Standard: eur cʼhoañv Samoa,
-    Daylight: eur hañv Samoa
-  },
-  Asia/Ulaanbaatar: {
-    Generic: eur Ulaanbaatar,
-    Standard: eur cʼhoañv Ulaanbaatar,
-    Daylight: eur hañv Ulaanbaatar
-  },
-  Asia/Choibalsan: {
-    Generic: eur Ulaanbaatar,
-    Standard: eur cʼhoañv Ulaanbaatar,
-    Daylight: eur hañv Ulaanbaatar
-  },
-  America/Caracas: {
-    Generic: eur Venezuela,
-    Standard: eur Venezuela,
-    Daylight: eur Venezuela
-  },
-  Asia/Vladivostok: {
-    Generic: eur Vladivostok,
-    Standard: eur cʼhoañv Vladivostok,
-    Daylight: eur hañv Vladivostok
-  },
-  Asia/Ust-Nera: {
-    Generic: eur Ust-Nera,
-    Standard: eur cʼhoañv Ust-Nera,
-    Daylight: eur hañv Ust-Nera
-  },
-  Europe/Volgograd: {
-    Generic: eur Volgograd,
-    Standard: eur cʼhoañv Volgograd,
-    Daylight: eur hañv Volgograd
-  },
-  Australia/Perth: {
-    Generic: eur Aostralia ar Cʼhornôg,
-    Standard: eur cʼhoañv Aostralia ar Cʼhornôg,
-    Daylight: eur hañv Aostralia ar Cʼhornôg
-  },
-  Africa/Lagos: {
-    Generic: eur Afrika ar Cʼhornôg,
-    Standard: eur cʼhoañv Afrika ar Cʼhornôg,
-    Daylight: eur hañv Afrika ar Cʼhornôg
-  },
-  Africa/Luanda: {
-    Generic: eur Afrika ar Cʼhornôg,
-    Standard: eur cʼhoañv Afrika ar Cʼhornôg,
-    Daylight: eur hañv Afrika ar Cʼhornôg
-  },
-  Africa/Porto-Novo: {
-    Generic: eur Afrika ar Cʼhornôg,
-    Standard: eur cʼhoañv Afrika ar Cʼhornôg,
-    Daylight: eur hañv Afrika ar Cʼhornôg
-  },
-  Africa/Kinshasa: {
-    Generic: eur Afrika ar Cʼhornôg,
-    Standard: eur cʼhoañv Afrika ar Cʼhornôg,
-    Daylight: eur hañv Afrika ar Cʼhornôg
-  },
-  Africa/Bangui: {
-    Generic: eur Afrika ar Cʼhornôg,
-    Standard: eur cʼhoañv Afrika ar Cʼhornôg,
-    Daylight: eur hañv Afrika ar Cʼhornôg
-  },
-  Africa/Brazzaville: {
-    Generic: eur Afrika ar Cʼhornôg,
-    Standard: eur cʼhoañv Afrika ar Cʼhornôg,
-    Daylight: eur hañv Afrika ar Cʼhornôg
-  },
-  Africa/Douala: {
-    Generic: eur Afrika ar Cʼhornôg,
-    Standard: eur cʼhoañv Afrika ar Cʼhornôg,
-    Daylight: eur hañv Afrika ar Cʼhornôg
-  },
-  Africa/Algiers: {
-    Generic: eur Kreizeuropa,
-    Standard: eur cʼhoañv Kreizeuropa,
-    Daylight: eur hañv Kreizeuropa
-  },
-  Africa/Libreville: {
-    Generic: eur Afrika ar Cʼhornôg,
-    Standard: eur cʼhoañv Afrika ar Cʼhornôg,
-    Daylight: eur hañv Afrika ar Cʼhornôg
-  },
-  Africa/Malabo: {
-    Generic: eur Afrika ar Cʼhornôg,
-    Standard: eur cʼhoañv Afrika ar Cʼhornôg,
-    Daylight: eur hañv Afrika ar Cʼhornôg
-  },
-  Africa/Niamey: {
-    Generic: eur Afrika ar Cʼhornôg,
-    Standard: eur cʼhoañv Afrika ar Cʼhornôg,
-    Daylight: eur hañv Afrika ar Cʼhornôg
-  },
-  Africa/Ndjamena: {
-    Generic: eur Afrika ar Cʼhornôg,
-    Standard: eur cʼhoañv Afrika ar Cʼhornôg,
-    Daylight: eur hañv Afrika ar Cʼhornôg
-  },
-  Africa/Tunis: {
-    Generic: eur Kreizeuropa,
-    Standard: eur cʼhoañv Kreizeuropa,
-    Daylight: eur hañv Kreizeuropa
-  },
-  Etc/GMT-1: {
-    Generic: amzer hollvedel kenurzhiet +1,
-    Standard: amzer hollvedel kenurzhiet +1,
-    Daylight: amzer hollvedel kenurzhiet +1
-  },
-  Europe/Berlin: {
-    Generic: eur Kreizeuropa,
-    Standard: eur cʼhoañv Kreizeuropa,
-    Daylight: eur hañv Kreizeuropa
-  },
-  Europe/Andorra: {
-    Generic: eur Kreizeuropa,
-    Standard: eur cʼhoañv Kreizeuropa,
-    Daylight: eur hañv Kreizeuropa
-  },
-  Europe/Vienna: {
-    Generic: eur Kreizeuropa,
-    Standard: eur cʼhoañv Kreizeuropa,
-    Daylight: eur hañv Kreizeuropa
-  },
-  Europe/Zurich: {
-    Generic: eur Kreizeuropa,
-    Standard: eur cʼhoañv Kreizeuropa,
-    Daylight: eur hañv Kreizeuropa
-  },
-  Europe/Busingen: {
-    Generic: eur Kreizeuropa,
-    Standard: eur cʼhoañv Kreizeuropa,
-    Daylight: eur hañv Kreizeuropa
-  },
-  Europe/Gibraltar: {
-    Generic: eur Kreizeuropa,
-    Standard: eur cʼhoañv Kreizeuropa,
-    Daylight: eur hañv Kreizeuropa
-  },
-  Europe/Rome: {
-    Generic: eur Kreizeuropa,
-    Standard: eur cʼhoañv Kreizeuropa,
-    Daylight: eur hañv Kreizeuropa
-  },
-  Europe/Vaduz: {
-    Generic: eur Kreizeuropa,
-    Standard: eur cʼhoañv Kreizeuropa,
-    Daylight: eur hañv Kreizeuropa
-  },
-  Europe/Luxembourg: {
-    Generic: eur Kreizeuropa,
-    Standard: eur cʼhoañv Kreizeuropa,
-    Daylight: eur hañv Kreizeuropa
-  },
-  Europe/Monaco: {
-    Generic: eur Kreizeuropa,
-    Standard: eur cʼhoañv Kreizeuropa,
-    Daylight: eur hañv Kreizeuropa
-  },
-  Europe/Malta: {
-    Generic: eur Kreizeuropa,
-    Standard: eur cʼhoañv Kreizeuropa,
-    Daylight: eur hañv Kreizeuropa
-  },
-  Europe/Amsterdam: {
-    Generic: eur Kreizeuropa,
-    Standard: eur cʼhoañv Kreizeuropa,
-    Daylight: eur hañv Kreizeuropa
-  },
-  Europe/Oslo: {
-    Generic: eur Kreizeuropa,
-    Standard: eur cʼhoañv Kreizeuropa,
-    Daylight: eur hañv Kreizeuropa
-  },
-  Europe/Stockholm: {
-    Generic: eur Kreizeuropa,
-    Standard: eur cʼhoañv Kreizeuropa,
-    Daylight: eur hañv Kreizeuropa
+  Antarctica/Vostok: {
+    Generic: eur Vostok,
+    Standard: eur Vostok,
+    Daylight: eur Vostok
   },
   Arctic/Longyearbyen: {
     Generic: eur Kreizeuropa,
     Standard: eur cʼhoañv Kreizeuropa,
     Daylight: eur hañv Kreizeuropa
   },
-  Europe/San_Marino: {
-    Generic: eur Kreizeuropa,
-    Standard: eur cʼhoañv Kreizeuropa,
-    Daylight: eur hañv Kreizeuropa
+  Asia/Aden: {
+    Generic: eur Arabia,
+    Standard: eur cʼhoañv Arabia,
+    Daylight: eur hañv Arabia
   },
-  Europe/Vatican: {
-    Generic: eur Kreizeuropa,
-    Standard: eur cʼhoañv Kreizeuropa,
-    Daylight: eur hañv Kreizeuropa
+  Asia/Almaty: {
+    Generic: eur Kazakstan ar Reter,
+    Standard: eur Kazakstan ar Reter,
+    Daylight: eur Kazakstan ar Reter
   },
-  Asia/Hovd: {
-    Generic: eur Hovd,
-    Standard: eur cʼhoañv Hovd,
-    Daylight: eur hañv Hovd
+  Asia/Amman: {
+    Generic: eur Europa ar Reter,
+    Standard: eur cʼhoañv Europa ar Reter,
+    Daylight: eur hañv Europa ar Reter
   },
-  Asia/Tashkent: {
-    Generic: eur Ouzbekistan,
-    Standard: eur cʼhoañv Ouzbekistan,
-    Daylight: eur hañv Ouzbekistan
-  },
-  Antarctica/Mawson: {
-    Generic: eur Mawson,
-    Standard: eur Mawson,
-    Daylight: eur Mawson
-  },
-  Asia/Oral: {
-    Generic: eur Kazakstan ar Cʼhornôg,
-    Standard: eur Kazakstan ar Cʼhornôg,
-    Daylight: eur Kazakstan ar Cʼhornôg
+  Asia/Anadyr: {
+    Generic: eur Anadyrʼ,
+    Standard: eur cʼhoañv Anadyrʼ,
+    Daylight: eur hañv Anadyrʼ
   },
   Asia/Aqtau: {
     Generic: eur Kazakstan ar Cʼhornôg,
@@ -2199,415 +1199,75 @@
     Standard: eur Kazakstan ar Cʼhornôg,
     Daylight: eur Kazakstan ar Cʼhornôg
   },
-  Asia/Atyrau: {
-    Generic: eur Kazakstan ar Cʼhornôg,
-    Standard: eur Kazakstan ar Cʼhornôg,
-    Daylight: eur Kazakstan ar Cʼhornôg
-  },
-  Indian/Maldives: {
-    Generic: eur ar Maldivez,
-    Standard: eur ar Maldivez,
-    Daylight: eur ar Maldivez
-  },
-  Indian/Kerguelen: {
-    Generic: eur Douaroù aostral Frañs hag Antarktika,
-    Standard: eur Douaroù aostral Frañs hag Antarktika,
-    Daylight: eur Douaroù aostral Frañs hag Antarktika
-  },
-  Asia/Dushanbe: {
-    Generic: eur Tadjikistan,
-    Standard: eur Tadjikistan,
-    Daylight: eur Tadjikistan
-  },
   Asia/Ashgabat: {
     Generic: eur Turkmenistan,
     Standard: eur cʼhoañv Turkmenistan,
     Daylight: eur hañv Turkmenistan
-  },
-  Asia/Samarkand: {
-    Generic: eur Ouzbekistan,
-    Standard: eur cʼhoañv Ouzbekistan,
-    Daylight: eur hañv Ouzbekistan
-  },
-  Etc/GMT-5: {
-    Generic: amzer hollvedel kenurzhiet +5,
-    Standard: amzer hollvedel kenurzhiet +5,
-    Daylight: amzer hollvedel kenurzhiet +5
-  },
-  Asia/Hebron: {
-    Generic: eur Europa ar Reter,
-    Standard: eur cʼhoañv Europa ar Reter,
-    Daylight: eur hañv Europa ar Reter
-  },
-  Asia/Gaza: {
-    Generic: eur Europa ar Reter,
-    Standard: eur cʼhoañv Europa ar Reter,
-    Daylight: eur hañv Europa ar Reter
-  },
-  Pacific/Port_Moresby: {
-    Generic: eur Papoua-Ginea-Nevez,
-    Standard: eur Papoua-Ginea-Nevez,
-    Daylight: eur Papoua-Ginea-Nevez
-  },
-  Antarctica/DumontDUrville: {
-    Generic: eur Dumont-d’Urville,
-    Standard: eur Dumont-d’Urville,
-    Daylight: eur Dumont-d’Urville
-  },
-  Pacific/Truk: {
-    Generic: eur Chuuk,
-    Standard: eur Chuuk,
-    Daylight: eur Chuuk
-  },
-  Pacific/Guam: {
-    Generic: eur Chamorro,
-    Standard: eur Chamorro,
-    Daylight: eur Chamorro
-  },
-  Pacific/Saipan: {
-    Generic: eur Chamorro,
-    Standard: eur Chamorro,
-    Daylight: eur Chamorro
-  },
-  Etc/GMT-10: {
-    Generic: amzer hollvedel kenurzhiet +10,
-    Standard: amzer hollvedel kenurzhiet +10,
-    Daylight: amzer hollvedel kenurzhiet +10
-  },
-  Asia/Yakutsk: {
-    Generic: eur Yakutsk,
-    Standard: eur cʼhoañv Yakutsk,
-    Daylight: eur hañv Yakutsk
-  },
-  Asia/Khandyga: {
-    Generic: eur Khandyga,
-    Standard: eur cʼhoañv Khandyga,
-    Daylight: eur hañv Khandyga
-  },
-  America/Whitehorse: {
-    Generic: eur Kanada,
-    Standard: eur cʼhoañv Kanada,
-    Daylight: eur hañv Kanada
-  },
-  America/Dawson: {
-    Generic: eur Kanada,
-    Standard: eur cʼhoañv Kanada,
-    Daylight: eur hañv Kanada
-  },
-  Iceland: {
-    Generic: Amzer keitat Greenwich (AKG),
-    Standard: Amzer keitat Greenwich (AKG),
-    Daylight: Amzer keitat Greenwich (AKG)
-  },
-  Africa/Timbuktu: {
-    Generic: Amzer keitat Greenwich (AKG),
-    Standard: Amzer keitat Greenwich (AKG),
-    Daylight: Amzer keitat Greenwich (AKG)
-  },
-  Egypt: {
-    Generic: eur Europa ar Reter,
-    Standard: eur cʼhoañv Europa ar Reter,
-    Daylight: eur hañv Europa ar Reter
-  },
-  Africa/Asmara: {
-    Generic: eur Afrika ar Reter,
-    Standard: eur Afrika ar Reter,
-    Daylight: eur Afrika ar Reter
-  },
-  Libya: {
-    Generic: eur Europa ar Reter,
-    Standard: eur cʼhoañv Europa ar Reter,
-    Daylight: eur hañv Europa ar Reter
-  },
-  America/Atka: {
-    Generic: eur Hawaii hag an Aleouted,
-    Standard: eur cʼhoañv Hawaii hag an Aleouted,
-    Daylight: eur hañv Hawaii hag an Aleouted
-  },
-  US/Aleutian: {
-    Generic: eur Hawaii hag an Aleouted,
-    Standard: eur cʼhoañv Hawaii hag an Aleouted,
-    Daylight: eur hañv Hawaii hag an Aleouted
-  },
-  US/Alaska: {
-    Generic: eur Alaska,
-    Standard: eur cʼhoañv Alaska,
-    Daylight: eur hañv Alaska
-  },
-  America/Argentina/Buenos_Aires: {
-    Generic: eur Arcʼhantina,
-    Standard: eur cʼhoañv Arcʼhantina,
-    Daylight: eur hañv Arcʼhantina
-  },
-  America/Argentina/Catamarca: {
-    Generic: eur Arcʼhantina,
-    Standard: eur cʼhoañv Arcʼhantina,
-    Daylight: eur hañv Arcʼhantina
-  },
-  America/Argentina/ComodRivadavia: {
-    Generic: eur Arcʼhantina,
-    Standard: eur cʼhoañv Arcʼhantina,
-    Daylight: eur hañv Arcʼhantina
-  },
-  America/Argentina/Cordoba: {
-    Generic: eur Arcʼhantina,
-    Standard: eur cʼhoañv Arcʼhantina,
-    Daylight: eur hañv Arcʼhantina
-  },
-  America/Rosario: {
-    Generic: eur Arcʼhantina,
-    Standard: eur cʼhoañv Arcʼhantina,
-    Daylight: eur hañv Arcʼhantina
-  },
-  America/Argentina/Jujuy: {
-    Generic: eur Arcʼhantina,
-    Standard: eur cʼhoañv Arcʼhantina,
-    Daylight: eur hañv Arcʼhantina
-  },
-  America/Argentina/Mendoza: {
-    Generic: eur Arcʼhantina,
-    Standard: eur cʼhoañv Arcʼhantina,
-    Daylight: eur hañv Arcʼhantina
-  },
-  US/Central: {
-    Generic: eur ar Cʼhreiz,
-    Standard: eur cʼhoañv ar Cʼhreiz,
-    Daylight: eur hañv ar Cʼhreiz
-  },
-  America/Shiprock: {
-    Generic: eur ar Menezioù,
-    Standard: eur cʼhoañv ar Menezioù,
-    Daylight: eur hañv ar Menezioù
-  },
-  Navajo: {
-    Generic: eur ar Menezioù,
-    Standard: eur cʼhoañv ar Menezioù,
-    Daylight: eur hañv ar Menezioù
-  },
-  US/Mountain: {
-    Generic: eur ar Menezioù,
-    Standard: eur cʼhoañv ar Menezioù,
-    Daylight: eur hañv ar Menezioù
-  },
-  US/Michigan: {
-    Generic: eur ar Reter,
-    Standard: eur cʼhoañv ar Reter,
-    Daylight: eur hañv ar Reter
-  },
-  Canada/Mountain: {
-    Generic: eur ar Menezioù,
-    Standard: eur cʼhoañv ar Menezioù,
-    Daylight: eur hañv ar Menezioù
-  },
-  Canada/Atlantic: {
-    Generic: eur an Atlantel,
-    Standard: eur cʼhoañv an Atlantel,
-    Daylight: eur hañv an Atlantel
-  },
-  Cuba: {
-    Generic: eur Kuba,
-    Standard: eur cʼhoañv Kuba,
-    Daylight: eur hañv Kuba
-  },
-  America/Indiana/Indianapolis: {
-    Generic: eur ar Reter,
-    Standard: eur cʼhoañv ar Reter,
-    Daylight: eur hañv ar Reter
-  },
-  US/East-Indiana: {
-    Generic: eur ar Reter,
-    Standard: eur cʼhoañv ar Reter,
-    Daylight: eur hañv ar Reter
-  },
-  America/Knox_IN: {
-    Generic: eur ar Cʼhreiz,
-    Standard: eur cʼhoañv ar Cʼhreiz,
-    Daylight: eur hañv ar Cʼhreiz
-  },
-  US/Indiana-Starke: {
-    Generic: eur ar Cʼhreiz,
-    Standard: eur cʼhoañv ar Cʼhreiz,
-    Daylight: eur hañv ar Cʼhreiz
-  },
-  Jamaica: {
-    Generic: eur ar Reter,
-    Standard: eur cʼhoañv ar Reter,
-    Daylight: eur hañv ar Reter
-  },
-  America/Kentucky/Louisville: {
-    Generic: eur ar Reter,
-    Standard: eur cʼhoañv ar Reter,
-    Daylight: eur hañv ar Reter
-  },
-  US/Pacific: {
-    Generic: eur an Habask,
-    Standard: eur cʼhoañv an Habask,
-    Daylight: eur hañv an Habask
-  },
-  Brazil/West: {
-    Generic: eur an Amazon,
-    Standard: eur cʼhoañv an Amazon,
-    Daylight: eur hañv an Amazon
-  },
-  Mexico/BajaSur: {
-    Generic: eur an Habask mecʼhikan,
-    Standard: eur cʼhoañv an Habask mecʼhikan,
-    Daylight: eur hañv an Habask mecʼhikan
-  },
-  Mexico/General: {
-    Generic: eur ar Cʼhreiz,
-    Standard: eur cʼhoañv ar Cʼhreiz,
-    Daylight: eur hañv ar Cʼhreiz
-  },
-  US/Eastern: {
-    Generic: eur ar Reter,
-    Standard: eur cʼhoañv ar Reter,
-    Daylight: eur hañv ar Reter
-  },
-  Brazil/DeNoronha: {
-    Generic: eur Fernando de Noronha,
-    Standard: eur cʼhoañv Fernando de Noronha,
-    Daylight: eur hañv Fernando de Noronha
-  },
-  America/Nuuk: {
-    Generic: eur Greunland ar Cʼhornôg,
-    Standard: eur cʼhoañv Greunland ar Cʼhornôg,
-    Daylight: eur hañv Greunland ar Cʼhornôg
-  },
-  America/Atikokan: {
-    Generic: eur ar Reter,
-    Standard: eur cʼhoañv ar Reter,
-    Daylight: eur hañv ar Reter
-  },
-  US/Arizona: {
-    Generic: eur ar Menezioù,
-    Standard: eur cʼhoañv ar Menezioù,
-    Daylight: eur hañv ar Menezioù
-  },
-  America/Virgin: {
-    Generic: eur an Atlantel,
-    Standard: eur cʼhoañv an Atlantel,
-    Daylight: eur hañv an Atlantel
-  },
-  Canada/Saskatchewan: {
-    Generic: eur ar Cʼhreiz,
-    Standard: eur cʼhoañv ar Cʼhreiz,
-    Daylight: eur hañv ar Cʼhreiz
-  },
-  America/Porto_Acre: {
-    Generic: eur Brazil,
-    Standard: eur cʼhoañv Brazil,
-    Daylight: eur hañv Brazil
-  },
-  Brazil/Acre: {
-    Generic: eur Brazil,
-    Standard: eur cʼhoañv Brazil,
-    Daylight: eur hañv Brazil
-  },
-  Chile/Continental: {
-    Generic: eur Chile,
-    Standard: eur cʼhoañv Chile,
-    Daylight: eur hañv Chile
-  },
-  Brazil/East: {
-    Generic: eur Brasília,
-    Standard: eur cʼhoañv Brasília,
-    Daylight: eur hañv Brasília
-  },
-  Canada/Newfoundland: {
-    Generic: eur Newfoundland,
-    Standard: eur cʼhoañv Newfoundland,
-    Daylight: eur hañv Newfoundland
-  },
-  America/Ensenada: {
-    Generic: eur an Habask,
-    Standard: eur cʼhoañv an Habask,
-    Daylight: eur hañv an Habask
-  },
-  Mexico/BajaNorte: {
-    Generic: eur an Habask,
-    Standard: eur cʼhoañv an Habask,
-    Daylight: eur hañv an Habask
-  },
-  Canada/Eastern: {
-    Generic: eur ar Reter,
-    Standard: eur cʼhoañv ar Reter,
-    Daylight: eur hañv ar Reter
-  },
-  Canada/Pacific: {
-    Generic: eur an Habask,
-    Standard: eur cʼhoañv an Habask,
-    Daylight: eur hañv an Habask
-  },
-  Canada/Yukon: {
-    Generic: eur Kanada,
-    Standard: eur cʼhoañv Kanada,
-    Daylight: eur hañv Kanada
-  },
-  Canada/Central: {
-    Generic: eur ar Cʼhreiz,
-    Standard: eur cʼhoañv ar Cʼhreiz,
-    Daylight: eur hañv ar Cʼhreiz
   },
   Asia/Ashkhabad: {
     Generic: eur Turkmenistan,
     Standard: eur cʼhoañv Turkmenistan,
     Daylight: eur hañv Turkmenistan
   },
-  Asia/Dacca: {
-    Generic: eur Bangladesh,
-    Standard: eur cʼhoañv Bangladesh,
-    Daylight: eur hañv Bangladesh
+  Asia/Atyrau: {
+    Generic: eur Kazakstan ar Cʼhornôg,
+    Standard: eur Kazakstan ar Cʼhornôg,
+    Daylight: eur Kazakstan ar Cʼhornôg
   },
-  Asia/Ho_Chi_Minh: {
+  Asia/Baghdad: {
+    Generic: eur Arabia,
+    Standard: eur cʼhoañv Arabia,
+    Daylight: eur hañv Arabia
+  },
+  Asia/Bahrain: {
+    Generic: eur Arabia,
+    Standard: eur cʼhoañv Arabia,
+    Daylight: eur hañv Arabia
+  },
+  Asia/Baku: {
+    Generic: eur Azerbaidjan,
+    Standard: eur cʼhoañv Azerbaidjan,
+    Daylight: eur hañv Azerbaidjan
+  },
+  Asia/Bangkok: {
     Generic: eur Indez-Sina,
     Standard: eur Indez-Sina,
     Daylight: eur Indez-Sina
   },
-  Hongkong: {
-    Generic: eur Hong Kong,
-    Standard: eur cʼhoañv Hong Kong,
-    Daylight: eur hañv Hong Kong
+  Asia/Barnaul: {
+    Generic: eur Barnaul,
+    Standard: eur cʼhoañv Barnaul,
+    Daylight: eur hañv Barnaul
   },
-  Asia/Tel_Aviv: {
-    Generic: eur Israel,
-    Standard: eur cʼhoañv Israel,
-    Daylight: eur hañv Israel
-  },
-  Israel: {
-    Generic: eur Israel,
-    Standard: eur cʼhoañv Israel,
-    Daylight: eur hañv Israel
-  },
-  Asia/Kathmandu: {
-    Generic: eur Nepal,
-    Standard: eur Nepal,
-    Daylight: eur Nepal
-  },
-  Asia/Kolkata: {
-    Generic: eur cʼhoañv India,
-    Standard: eur cʼhoañv India,
-    Daylight: eur cʼhoañv India
-  },
-  Asia/Macao: {
-    Generic: eur Sina,
-    Standard: eur cʼhoañv Sina,
-    Daylight: eur hañv Sina
-  },
-  Asia/Ujung_Pandang: {
-    Generic: eur Kreiz Indonezia,
-    Standard: eur Kreiz Indonezia,
-    Daylight: eur Kreiz Indonezia
-  },
-  Europe/Nicosia: {
+  Asia/Beirut: {
     Generic: eur Europa ar Reter,
     Standard: eur cʼhoañv Europa ar Reter,
     Daylight: eur hañv Europa ar Reter
   },
-  ROK: {
-    Generic: eur Korea,
-    Standard: eur cʼhoañv Korea,
-    Daylight: eur hañv Korea
+  Asia/Bishkek: {
+    Generic: eur Kyrgyzstan,
+    Standard: eur Kyrgyzstan,
+    Daylight: eur Kyrgyzstan
+  },
+  Asia/Brunei: {
+    Generic: eur Brunei Darussalam,
+    Standard: eur Brunei Darussalam,
+    Daylight: eur Brunei Darussalam
+  },
+  Asia/Calcutta: {
+    Generic: eur cʼhoañv India,
+    Standard: eur cʼhoañv India,
+    Daylight: eur cʼhoañv India
+  },
+  Asia/Chita: {
+    Generic: eur Tchita,
+    Standard: eur cʼhoañv Tchita,
+    Daylight: eur hañv Tchita
+  },
+  Asia/Choibalsan: {
+    Generic: eur Ulaanbaatar,
+    Standard: eur cʼhoañv Ulaanbaatar,
+    Daylight: eur hañv Ulaanbaatar
   },
   Asia/Chongqing: {
     Generic: eur Sina,
@@ -2619,57 +1279,412 @@
     Standard: eur cʼhoañv Sina,
     Daylight: eur hañv Sina
   },
+  Asia/Colombo: {
+    Generic: eur cʼhoañv India,
+    Standard: eur cʼhoañv India,
+    Daylight: eur cʼhoañv India
+  },
+  Asia/Dacca: {
+    Generic: eur Bangladesh,
+    Standard: eur cʼhoañv Bangladesh,
+    Daylight: eur hañv Bangladesh
+  },
+  Asia/Damascus: {
+    Generic: eur Europa ar Reter,
+    Standard: eur cʼhoañv Europa ar Reter,
+    Daylight: eur hañv Europa ar Reter
+  },
+  Asia/Dhaka: {
+    Generic: eur Bangladesh,
+    Standard: eur cʼhoañv Bangladesh,
+    Daylight: eur hañv Bangladesh
+  },
+  Asia/Dili: {
+    Generic: eur Timor ar Reter,
+    Standard: eur Timor ar Reter,
+    Daylight: eur Timor ar Reter
+  },
+  Asia/Dubai: {
+    Generic: eur cʼhoañv ar Pleg-mor Arab-ha-Pers,
+    Standard: eur cʼhoañv ar Pleg-mor Arab-ha-Pers,
+    Daylight: eur cʼhoañv ar Pleg-mor Arab-ha-Pers
+  },
+  Asia/Dushanbe: {
+    Generic: eur Tadjikistan,
+    Standard: eur Tadjikistan,
+    Daylight: eur Tadjikistan
+  },
+  Asia/Famagusta: {
+    Generic: eur Europa ar Reter,
+    Standard: eur cʼhoañv Europa ar Reter,
+    Daylight: eur hañv Europa ar Reter
+  },
+  Asia/Gaza: {
+    Generic: eur Europa ar Reter,
+    Standard: eur cʼhoañv Europa ar Reter,
+    Daylight: eur hañv Europa ar Reter
+  },
   Asia/Harbin: {
     Generic: eur Sina,
     Standard: eur cʼhoañv Sina,
     Daylight: eur hañv Sina
   },
-  PRC: {
-    Generic: eur Sina,
-    Standard: eur cʼhoañv Sina,
-    Daylight: eur hañv Sina
+  Asia/Hebron: {
+    Generic: eur Europa ar Reter,
+    Standard: eur cʼhoañv Europa ar Reter,
+    Daylight: eur hañv Europa ar Reter
   },
-  Singapore: {
-    Generic: eur cʼhoañv Singapour,
-    Standard: eur cʼhoañv Singapour,
-    Daylight: eur cʼhoañv Singapour
+  Asia/Ho_Chi_Minh: {
+    Generic: eur Indez-Sina,
+    Standard: eur Indez-Sina,
+    Daylight: eur Indez-Sina
   },
-  ROC: {
-    Generic: eur Taipei,
-    Standard: eur cʼhoañv Taipei,
-    Daylight: eur hañv Taipei
+  Asia/Hong_Kong: {
+    Generic: eur Hong Kong,
+    Standard: eur cʼhoañv Hong Kong,
+    Daylight: eur hañv Hong Kong
   },
-  Iran: {
-    Generic: eur Iran,
-    Standard: eur cʼhoañv Iran,
-    Daylight: eur hañv Iran
+  Asia/Hovd: {
+    Generic: eur Hovd,
+    Standard: eur cʼhoañv Hovd,
+    Daylight: eur hañv Hovd
   },
-  Asia/Thimbu: {
-    Generic: eur Bhoutan,
-    Standard: eur Bhoutan,
-    Daylight: eur Bhoutan
+  Asia/Irkutsk: {
+    Generic: eur Irkutsk,
+    Standard: eur cʼhoañv Irkutsk,
+    Daylight: eur hañv Irkutsk
   },
-  Japan: {
-    Generic: eur Japan,
-    Standard: eur cʼhoañv Japan,
-    Daylight: eur hañv Japan
+  Asia/Istanbul: {
+    Generic: eur Turkia,
+    Standard: eur cʼhoañv Turkia,
+    Daylight: eur hañv Turkia
   },
-  Asia/Ulan_Bator: {
-    Generic: eur Ulaanbaatar,
-    Standard: eur cʼhoañv Ulaanbaatar,
-    Daylight: eur hañv Ulaanbaatar
+  Asia/Jakarta: {
+    Generic: eur Indonezia ar Cʼhornôg,
+    Standard: eur Indonezia ar Cʼhornôg,
+    Daylight: eur Indonezia ar Cʼhornôg
+  },
+  Asia/Jayapura: {
+    Generic: eur Indonezia ar Reter,
+    Standard: eur Indonezia ar Reter,
+    Daylight: eur Indonezia ar Reter
+  },
+  Asia/Jerusalem: {
+    Generic: eur Israel,
+    Standard: eur cʼhoañv Israel,
+    Daylight: eur hañv Israel
+  },
+  Asia/Kabul: {
+    Generic: eur Afghanistan,
+    Standard: eur Afghanistan,
+    Daylight: eur Afghanistan
+  },
+  Asia/Kamchatka: {
+    Generic: eur Kamtchatka,
+    Standard: eur cʼhoañv Kamtchatka,
+    Daylight: eur hañv Kamtchatka
+  },
+  Asia/Karachi: {
+    Generic: eur Pakistan,
+    Standard: eur cʼhoañv Pakistan,
+    Daylight: eur hañv Pakistan
   },
   Asia/Kashgar: {
     Generic: eur Sina,
     Standard: eur cʼhoañv Sina,
     Daylight: eur hañv Sina
   },
+  Asia/Kathmandu: {
+    Generic: eur Nepal,
+    Standard: eur Nepal,
+    Daylight: eur Nepal
+  },
+  Asia/Katmandu: {
+    Generic: eur Nepal,
+    Standard: eur Nepal,
+    Daylight: eur Nepal
+  },
+  Asia/Khandyga: {
+    Generic: eur Khandyga,
+    Standard: eur cʼhoañv Khandyga,
+    Daylight: eur hañv Khandyga
+  },
+  Asia/Kolkata: {
+    Generic: eur cʼhoañv India,
+    Standard: eur cʼhoañv India,
+    Daylight: eur cʼhoañv India
+  },
+  Asia/Krasnoyarsk: {
+    Generic: eur Krasnoyarsk,
+    Standard: eur cʼhoañv Krasnoyarsk,
+    Daylight: eur hañv Krasnoyarsk
+  },
+  Asia/Kuala_Lumpur: {
+    Generic: eur Malaysia,
+    Standard: eur Malaysia,
+    Daylight: eur Malaysia
+  },
+  Asia/Kuching: {
+    Generic: eur Malaysia,
+    Standard: eur Malaysia,
+    Daylight: eur Malaysia
+  },
+  Asia/Kuwait: {
+    Generic: eur Arabia,
+    Standard: eur cʼhoañv Arabia,
+    Daylight: eur hañv Arabia
+  },
+  Asia/Macao: {
+    Generic: eur Sina,
+    Standard: eur cʼhoañv Sina,
+    Daylight: eur hañv Sina
+  },
+  Asia/Macau: {
+    Generic: eur Sina,
+    Standard: eur cʼhoañv Sina,
+    Daylight: eur hañv Sina
+  },
+  Asia/Magadan: {
+    Generic: eur Magadan,
+    Standard: eur cʼhoañv Magadan,
+    Daylight: eur hañv Magadan
+  },
+  Asia/Makassar: {
+    Generic: eur Kreiz Indonezia,
+    Standard: eur Kreiz Indonezia,
+    Daylight: eur Kreiz Indonezia
+  },
+  Asia/Manila: {
+    Generic: eur ar Filipinez,
+    Standard: eur cʼhoañv ar Filipinez,
+    Daylight: eur hañv ar Filipinez
+  },
+  Asia/Muscat: {
+    Generic: eur cʼhoañv ar Pleg-mor Arab-ha-Pers,
+    Standard: eur cʼhoañv ar Pleg-mor Arab-ha-Pers,
+    Daylight: eur cʼhoañv ar Pleg-mor Arab-ha-Pers
+  },
+  Asia/Nicosia: {
+    Generic: eur Europa ar Reter,
+    Standard: eur cʼhoañv Europa ar Reter,
+    Daylight: eur hañv Europa ar Reter
+  },
+  Asia/Novokuznetsk: {
+    Generic: eur Novokuznetsk,
+    Standard: eur cʼhoañv Novokuznetsk,
+    Daylight: eur hañv Novokuznetsk
+  },
+  Asia/Novosibirsk: {
+    Generic: eur Novosibirsk,
+    Standard: eur cʼhoañv Novosibirsk,
+    Daylight: eur hañv Novosibirsk
+  },
+  Asia/Omsk: {
+    Generic: eur Omsk,
+    Standard: eur cʼhoañv Omsk,
+    Daylight: eur hañv Omsk
+  },
+  Asia/Oral: {
+    Generic: eur Kazakstan ar Cʼhornôg,
+    Standard: eur Kazakstan ar Cʼhornôg,
+    Daylight: eur Kazakstan ar Cʼhornôg
+  },
+  Asia/Phnom_Penh: {
+    Generic: eur Indez-Sina,
+    Standard: eur Indez-Sina,
+    Daylight: eur Indez-Sina
+  },
+  Asia/Pontianak: {
+    Generic: eur Indonezia ar Cʼhornôg,
+    Standard: eur Indonezia ar Cʼhornôg,
+    Daylight: eur Indonezia ar Cʼhornôg
+  },
+  Asia/Pyongyang: {
+    Generic: eur Korea,
+    Standard: eur cʼhoañv Korea,
+    Daylight: eur hañv Korea
+  },
+  Asia/Qatar: {
+    Generic: eur Arabia,
+    Standard: eur cʼhoañv Arabia,
+    Daylight: eur hañv Arabia
+  },
+  Asia/Qostanay: {
+    Generic: eur Kazakstan ar Reter,
+    Standard: eur Kazakstan ar Reter,
+    Daylight: eur Kazakstan ar Reter
+  },
+  Asia/Qyzylorda: {
+    Generic: eur Kazakstan ar Cʼhornôg,
+    Standard: eur Kazakstan ar Cʼhornôg,
+    Daylight: eur Kazakstan ar Cʼhornôg
+  },
+  Asia/Rangoon: {
+    Generic: eur Myanmar,
+    Standard: eur Myanmar,
+    Daylight: eur Myanmar
+  },
+  Asia/Riyadh: {
+    Generic: eur Arabia,
+    Standard: eur cʼhoañv Arabia,
+    Daylight: eur hañv Arabia
+  },
+  Asia/Saigon: {
+    Generic: eur Indez-Sina,
+    Standard: eur Indez-Sina,
+    Daylight: eur Indez-Sina
+  },
+  Asia/Sakhalin: {
+    Generic: eur Sakhalin,
+    Standard: eur cʼhoañv Sakhalin,
+    Daylight: eur hañv Sakhalin
+  },
+  Asia/Samarkand: {
+    Generic: eur Ouzbekistan,
+    Standard: eur cʼhoañv Ouzbekistan,
+    Daylight: eur hañv Ouzbekistan
+  },
+  Asia/Seoul: {
+    Generic: eur Korea,
+    Standard: eur cʼhoañv Korea,
+    Daylight: eur hañv Korea
+  },
+  Asia/Shanghai: {
+    Generic: eur Sina,
+    Standard: eur cʼhoañv Sina,
+    Daylight: eur hañv Sina
+  },
+  Asia/Singapore: {
+    Generic: eur cʼhoañv Singapour,
+    Standard: eur cʼhoañv Singapour,
+    Daylight: eur cʼhoañv Singapour
+  },
+  Asia/Srednekolymsk: {
+    Generic: eur Srednekolymsk,
+    Standard: eur cʼhoañv Srednekolymsk,
+    Daylight: eur hañv Srednekolymsk
+  },
+  Asia/Taipei: {
+    Generic: eur Taipei,
+    Standard: eur cʼhoañv Taipei,
+    Daylight: eur hañv Taipei
+  },
+  Asia/Tashkent: {
+    Generic: eur Ouzbekistan,
+    Standard: eur cʼhoañv Ouzbekistan,
+    Daylight: eur hañv Ouzbekistan
+  },
+  Asia/Tbilisi: {
+    Generic: eur Jorjia,
+    Standard: eur cʼhoañv Jorjia,
+    Daylight: eur hañv Jorjia
+  },
+  Asia/Tehran: {
+    Generic: eur Iran,
+    Standard: eur cʼhoañv Iran,
+    Daylight: eur hañv Iran
+  },
+  Asia/Tel_Aviv: {
+    Generic: eur Israel,
+    Standard: eur cʼhoañv Israel,
+    Daylight: eur hañv Israel
+  },
+  Asia/Thimbu: {
+    Generic: eur Bhoutan,
+    Standard: eur Bhoutan,
+    Daylight: eur Bhoutan
+  },
+  Asia/Thimphu: {
+    Generic: eur Bhoutan,
+    Standard: eur Bhoutan,
+    Daylight: eur Bhoutan
+  },
+  Asia/Tokyo: {
+    Generic: eur Japan,
+    Standard: eur cʼhoañv Japan,
+    Daylight: eur hañv Japan
+  },
+  Asia/Tomsk: {
+    Generic: eur Tomsk,
+    Standard: eur cʼhoañv Tomsk,
+    Daylight: eur hañv Tomsk
+  },
+  Asia/Ujung_Pandang: {
+    Generic: eur Kreiz Indonezia,
+    Standard: eur Kreiz Indonezia,
+    Daylight: eur Kreiz Indonezia
+  },
+  Asia/Ulaanbaatar: {
+    Generic: eur Ulaanbaatar,
+    Standard: eur cʼhoañv Ulaanbaatar,
+    Daylight: eur hañv Ulaanbaatar
+  },
+  Asia/Ulan_Bator: {
+    Generic: eur Ulaanbaatar,
+    Standard: eur cʼhoañv Ulaanbaatar,
+    Daylight: eur hañv Ulaanbaatar
+  },
+  Asia/Urumqi: {
+    Generic: eur Sina,
+    Standard: eur cʼhoañv Sina,
+    Daylight: eur hañv Sina
+  },
+  Asia/Ust-Nera: {
+    Generic: eur Ust-Nera,
+    Standard: eur cʼhoañv Ust-Nera,
+    Daylight: eur hañv Ust-Nera
+  },
+  Asia/Vientiane: {
+    Generic: eur Indez-Sina,
+    Standard: eur Indez-Sina,
+    Daylight: eur Indez-Sina
+  },
+  Asia/Vladivostok: {
+    Generic: eur Vladivostok,
+    Standard: eur cʼhoañv Vladivostok,
+    Daylight: eur hañv Vladivostok
+  },
+  Asia/Yakutsk: {
+    Generic: eur Yakutsk,
+    Standard: eur cʼhoañv Yakutsk,
+    Daylight: eur hañv Yakutsk
+  },
   Asia/Yangon: {
     Generic: eur Myanmar,
     Standard: eur Myanmar,
     Daylight: eur Myanmar
   },
-  WET: {
+  Asia/Yekaterinburg: {
+    Generic: eur Yekaterinbourg,
+    Standard: eur cʼhoañv Yekaterinbourg,
+    Daylight: eur hañv Yekaterinbourg
+  },
+  Asia/Yerevan: {
+    Generic: eur Armenia,
+    Standard: eur cʼhoañv Armenia,
+    Daylight: eur hañv Armenia
+  },
+  Atlantic/Azores: {
+    Generic: eur an Azorez,
+    Standard: eur cʼhoañv an Azorez,
+    Daylight: eur hañv an Azorez
+  },
+  Atlantic/Bermuda: {
+    Generic: eur an Atlantel,
+    Standard: eur cʼhoañv an Atlantel,
+    Daylight: eur hañv an Atlantel
+  },
+  Atlantic/Canary: {
+    Generic: eur Europa ar Cʼhornôg,
+    Standard: eur cʼhoañv Europa ar Cʼhornôg,
+    Daylight: eur hañv Europa ar Cʼhornôg
+  },
+  Atlantic/Cape_Verde: {
+    Generic: eur ar Cʼhab-Glas,
+    Standard: eur cʼhoañv ar Cʼhab-Glas,
+    Daylight: eur hañv ar Cʼhab-Glas
+  },
+  Atlantic/Faeroe: {
     Generic: eur Europa ar Cʼhornôg,
     Standard: eur cʼhoañv Europa ar Cʼhornôg,
     Daylight: eur hañv Europa ar Cʼhornôg
@@ -2679,27 +1694,77 @@
     Standard: eur cʼhoañv Europa ar Cʼhornôg,
     Daylight: eur hañv Europa ar Cʼhornôg
   },
-  Australia/South: {
-    Generic: eur Kreizaostralia,
-    Standard: eur cʼhoañv Kreizaostralia,
-    Daylight: eur hañv Kreizaostralia
+  Atlantic/Jan_Mayen: {
+    Generic: eur Kreizeuropa,
+    Standard: eur cʼhoañv Kreizeuropa,
+    Daylight: eur hañv Kreizeuropa
   },
-  Australia/Queensland: {
+  Atlantic/Madeira: {
+    Generic: eur Europa ar Cʼhornôg,
+    Standard: eur cʼhoañv Europa ar Cʼhornôg,
+    Daylight: eur hañv Europa ar Cʼhornôg
+  },
+  Atlantic/Reykjavik: {
+    Generic: Amzer keitat Greenwich (AKG),
+    Standard: Amzer keitat Greenwich (AKG),
+    Daylight: Amzer keitat Greenwich (AKG)
+  },
+  Atlantic/South_Georgia: {
+    Generic: eur Georgia ar Su,
+    Standard: eur Georgia ar Su,
+    Daylight: eur Georgia ar Su
+  },
+  Atlantic/St_Helena: {
+    Generic: Amzer keitat Greenwich (AKG),
+    Standard: Amzer keitat Greenwich (AKG),
+    Daylight: Amzer keitat Greenwich (AKG)
+  },
+  Atlantic/Stanley: {
+    Generic: eur Inizi Falkland,
+    Standard: eur cʼhoañv Inizi Falkland,
+    Daylight: eur hañv Inizi Falkland
+  },
+  Australia/ACT: {
     Generic: eur Aostralia ar Reter,
     Standard: eur cʼhoañv Aostralia ar Reter,
     Daylight: eur hañv Aostralia ar Reter
   },
-  Australia/Yancowinna: {
+  Australia/Adelaide: {
     Generic: eur Kreizaostralia,
     Standard: eur cʼhoañv Kreizaostralia,
     Daylight: eur hañv Kreizaostralia
   },
-  Australia/North: {
+  Australia/Brisbane: {
+    Generic: eur Aostralia ar Reter,
+    Standard: eur cʼhoañv Aostralia ar Reter,
+    Daylight: eur hañv Aostralia ar Reter
+  },
+  Australia/Broken_Hill: {
     Generic: eur Kreizaostralia,
     Standard: eur cʼhoañv Kreizaostralia,
     Daylight: eur hañv Kreizaostralia
   },
-  Australia/Tasmania: {
+  Australia/Canberra: {
+    Generic: eur Aostralia ar Reter,
+    Standard: eur cʼhoañv Aostralia ar Reter,
+    Daylight: eur hañv Aostralia ar Reter
+  },
+  Australia/Currie: {
+    Generic: eur Aostralia ar Reter,
+    Standard: eur cʼhoañv Aostralia ar Reter,
+    Daylight: eur hañv Aostralia ar Reter
+  },
+  Australia/Darwin: {
+    Generic: eur Kreizaostralia,
+    Standard: eur cʼhoañv Kreizaostralia,
+    Daylight: eur hañv Kreizaostralia
+  },
+  Australia/Eucla: {
+    Generic: eur Kreizaostralia ar Cʼhornôg,
+    Standard: eur cʼhoañv Kreizaostralia ar Cʼhornôg,
+    Daylight: eur hañv Kreizaostralia ar Cʼhornôg
+  },
+  Australia/Hobart: {
     Generic: eur Aostralia ar Reter,
     Standard: eur cʼhoañv Aostralia ar Reter,
     Daylight: eur hañv Aostralia ar Reter
@@ -2708,6 +1773,56 @@
     Generic: eur Lord Howe,
     Standard: eur cʼhoañv Lord Howe,
     Daylight: eur hañv Lord Howe
+  },
+  Australia/Lindeman: {
+    Generic: eur Aostralia ar Reter,
+    Standard: eur cʼhoañv Aostralia ar Reter,
+    Daylight: eur hañv Aostralia ar Reter
+  },
+  Australia/Lord_Howe: {
+    Generic: eur Lord Howe,
+    Standard: eur cʼhoañv Lord Howe,
+    Daylight: eur hañv Lord Howe
+  },
+  Australia/Melbourne: {
+    Generic: eur Aostralia ar Reter,
+    Standard: eur cʼhoañv Aostralia ar Reter,
+    Daylight: eur hañv Aostralia ar Reter
+  },
+  Australia/NSW: {
+    Generic: eur Aostralia ar Reter,
+    Standard: eur cʼhoañv Aostralia ar Reter,
+    Daylight: eur hañv Aostralia ar Reter
+  },
+  Australia/North: {
+    Generic: eur Kreizaostralia,
+    Standard: eur cʼhoañv Kreizaostralia,
+    Daylight: eur hañv Kreizaostralia
+  },
+  Australia/Perth: {
+    Generic: eur Aostralia ar Cʼhornôg,
+    Standard: eur cʼhoañv Aostralia ar Cʼhornôg,
+    Daylight: eur hañv Aostralia ar Cʼhornôg
+  },
+  Australia/Queensland: {
+    Generic: eur Aostralia ar Reter,
+    Standard: eur cʼhoañv Aostralia ar Reter,
+    Daylight: eur hañv Aostralia ar Reter
+  },
+  Australia/South: {
+    Generic: eur Kreizaostralia,
+    Standard: eur cʼhoañv Kreizaostralia,
+    Daylight: eur hañv Kreizaostralia
+  },
+  Australia/Sydney: {
+    Generic: eur Aostralia ar Reter,
+    Standard: eur cʼhoañv Aostralia ar Reter,
+    Daylight: eur hañv Aostralia ar Reter
+  },
+  Australia/Tasmania: {
+    Generic: eur Aostralia ar Reter,
+    Standard: eur cʼhoañv Aostralia ar Reter,
+    Daylight: eur hañv Aostralia ar Reter
   },
   Australia/Victoria: {
     Generic: eur Aostralia ar Reter,
@@ -2719,45 +1834,265 @@
     Standard: eur cʼhoañv Aostralia ar Cʼhornôg,
     Daylight: eur hañv Aostralia ar Cʼhornôg
   },
-  Australia/ACT: {
-    Generic: eur Aostralia ar Reter,
-    Standard: eur cʼhoañv Aostralia ar Reter,
-    Daylight: eur hañv Aostralia ar Reter
+  Australia/Yancowinna: {
+    Generic: eur Kreizaostralia,
+    Standard: eur cʼhoañv Kreizaostralia,
+    Daylight: eur hañv Kreizaostralia
   },
-  Australia/Canberra: {
-    Generic: eur Aostralia ar Reter,
-    Standard: eur cʼhoañv Aostralia ar Reter,
-    Daylight: eur hañv Aostralia ar Reter
+  Brazil/Acre: {
+    Generic: eur Brazil,
+    Standard: eur cʼhoañv Brazil,
+    Daylight: eur hañv Brazil
   },
-  Australia/NSW: {
-    Generic: eur Aostralia ar Reter,
-    Standard: eur cʼhoañv Aostralia ar Reter,
-    Daylight: eur hañv Aostralia ar Reter
+  Brazil/DeNoronha: {
+    Generic: eur Fernando de Noronha,
+    Standard: eur cʼhoañv Fernando de Noronha,
+    Daylight: eur hañv Fernando de Noronha
   },
-  HST: {
-    Generic: amzer hollvedel kenurzhiet -10,
-    Standard: amzer hollvedel kenurzhiet -10,
-    Daylight: amzer hollvedel kenurzhiet -10
+  Brazil/East: {
+    Generic: eur Brasília,
+    Standard: eur cʼhoañv Brasília,
+    Daylight: eur hañv Brasília
+  },
+  Brazil/West: {
+    Generic: eur an Amazon,
+    Standard: eur cʼhoañv an Amazon,
+    Daylight: eur hañv an Amazon
+  },
+  CET: {
+    Generic: eur Kreizeuropa,
+    Standard: eur cʼhoañv Kreizeuropa,
+    Daylight: eur hañv Kreizeuropa
+  },
+  CST6CDT: {
+    Generic: eur ar Cʼhreiz,
+    Standard: eur cʼhoañv ar Cʼhreiz,
+    Daylight: eur hañv ar Cʼhreiz
+  },
+  Canada/Atlantic: {
+    Generic: eur an Atlantel,
+    Standard: eur cʼhoañv an Atlantel,
+    Daylight: eur hañv an Atlantel
+  },
+  Canada/Central: {
+    Generic: eur ar Cʼhreiz,
+    Standard: eur cʼhoañv ar Cʼhreiz,
+    Daylight: eur hañv ar Cʼhreiz
+  },
+  Canada/Eastern: {
+    Generic: eur ar Reter,
+    Standard: eur cʼhoañv ar Reter,
+    Daylight: eur hañv ar Reter
+  },
+  Canada/Mountain: {
+    Generic: eur ar Menezioù,
+    Standard: eur cʼhoañv ar Menezioù,
+    Daylight: eur hañv ar Menezioù
+  },
+  Canada/Newfoundland: {
+    Generic: eur Newfoundland,
+    Standard: eur cʼhoañv Newfoundland,
+    Daylight: eur hañv Newfoundland
+  },
+  Canada/Pacific: {
+    Generic: eur an Habask,
+    Standard: eur cʼhoañv an Habask,
+    Daylight: eur hañv an Habask
+  },
+  Canada/Saskatchewan: {
+    Generic: eur ar Cʼhreiz,
+    Standard: eur cʼhoañv ar Cʼhreiz,
+    Daylight: eur hañv ar Cʼhreiz
+  },
+  Canada/Yukon: {
+    Generic: eur Kanada,
+    Standard: eur cʼhoañv Kanada,
+    Daylight: eur hañv Kanada
+  },
+  Chile/Continental: {
+    Generic: eur Chile,
+    Standard: eur cʼhoañv Chile,
+    Daylight: eur hañv Chile
+  },
+  Chile/EasterIsland: {
+    Generic: eur Enez Pask,
+    Standard: eur cʼhoañv Enez Pask,
+    Daylight: eur hañv Enez Pask
+  },
+  Cuba: {
+    Generic: eur Kuba,
+    Standard: eur cʼhoañv Kuba,
+    Daylight: eur hañv Kuba
+  },
+  EET: {
+    Generic: eur Europa ar Reter,
+    Standard: eur cʼhoañv Europa ar Reter,
+    Daylight: eur hañv Europa ar Reter
   },
   EST: {
     Generic: amzer hollvedel kenurzhiet -5,
     Standard: amzer hollvedel kenurzhiet -5,
     Daylight: amzer hollvedel kenurzhiet -5
   },
-  MST: {
-    Generic: amzer hollvedel kenurzhiet -7,
-    Standard: amzer hollvedel kenurzhiet -7,
-    Daylight: amzer hollvedel kenurzhiet -7
+  EST5EDT: {
+    Generic: eur ar Reter,
+    Standard: eur cʼhoañv ar Reter,
+    Daylight: eur hañv ar Reter
+  },
+  Egypt: {
+    Generic: eur Europa ar Reter,
+    Standard: eur cʼhoañv Europa ar Reter,
+    Daylight: eur hañv Europa ar Reter
+  },
+  Eire: {
+    Generic: eur Iwerzhon,
+    Standard: Amzer keitat Greenwich (AKG),
+    Daylight: eur cʼhoañv Iwerzhon
+  },
+  Etc/GMT: {
+    Generic: Amzer keitat Greenwich (AKG),
+    Standard: Amzer keitat Greenwich (AKG),
+    Daylight: Amzer keitat Greenwich (AKG)
   },
   Etc/GMT+0: {
     Generic: Amzer keitat Greenwich (AKG),
     Standard: Amzer keitat Greenwich (AKG),
     Daylight: Amzer keitat Greenwich (AKG)
   },
+  Etc/GMT+1: {
+    Generic: amzer hollvedel kenurzhiet -1,
+    Standard: amzer hollvedel kenurzhiet -1,
+    Daylight: amzer hollvedel kenurzhiet -1
+  },
+  Etc/GMT+10: {
+    Generic: amzer hollvedel kenurzhiet -10,
+    Standard: amzer hollvedel kenurzhiet -10,
+    Daylight: amzer hollvedel kenurzhiet -10
+  },
+  Etc/GMT+11: {
+    Generic: amzer hollvedel kenurzhiet -11,
+    Standard: amzer hollvedel kenurzhiet -11,
+    Daylight: amzer hollvedel kenurzhiet -11
+  },
+  Etc/GMT+12: {
+    Generic: amzer hollvedel kenurzhiet -12,
+    Standard: amzer hollvedel kenurzhiet -12,
+    Daylight: amzer hollvedel kenurzhiet -12
+  },
+  Etc/GMT+2: {
+    Generic: amzer hollvedel kenurzhiet -2,
+    Standard: amzer hollvedel kenurzhiet -2,
+    Daylight: amzer hollvedel kenurzhiet -2
+  },
+  Etc/GMT+3: {
+    Generic: amzer hollvedel kenurzhiet -3,
+    Standard: amzer hollvedel kenurzhiet -3,
+    Daylight: amzer hollvedel kenurzhiet -3
+  },
+  Etc/GMT+4: {
+    Generic: amzer hollvedel kenurzhiet -4,
+    Standard: amzer hollvedel kenurzhiet -4,
+    Daylight: amzer hollvedel kenurzhiet -4
+  },
+  Etc/GMT+5: {
+    Generic: amzer hollvedel kenurzhiet -5,
+    Standard: amzer hollvedel kenurzhiet -5,
+    Daylight: amzer hollvedel kenurzhiet -5
+  },
+  Etc/GMT+6: {
+    Generic: amzer hollvedel kenurzhiet -6,
+    Standard: amzer hollvedel kenurzhiet -6,
+    Daylight: amzer hollvedel kenurzhiet -6
+  },
+  Etc/GMT+7: {
+    Generic: amzer hollvedel kenurzhiet -7,
+    Standard: amzer hollvedel kenurzhiet -7,
+    Daylight: amzer hollvedel kenurzhiet -7
+  },
+  Etc/GMT+8: {
+    Generic: amzer hollvedel kenurzhiet -8,
+    Standard: amzer hollvedel kenurzhiet -8,
+    Daylight: amzer hollvedel kenurzhiet -8
+  },
+  Etc/GMT+9: {
+    Generic: amzer hollvedel kenurzhiet -9,
+    Standard: amzer hollvedel kenurzhiet -9,
+    Daylight: amzer hollvedel kenurzhiet -9
+  },
   Etc/GMT-0: {
     Generic: Amzer keitat Greenwich (AKG),
     Standard: Amzer keitat Greenwich (AKG),
     Daylight: Amzer keitat Greenwich (AKG)
+  },
+  Etc/GMT-1: {
+    Generic: amzer hollvedel kenurzhiet +1,
+    Standard: amzer hollvedel kenurzhiet +1,
+    Daylight: amzer hollvedel kenurzhiet +1
+  },
+  Etc/GMT-10: {
+    Generic: amzer hollvedel kenurzhiet +10,
+    Standard: amzer hollvedel kenurzhiet +10,
+    Daylight: amzer hollvedel kenurzhiet +10
+  },
+  Etc/GMT-11: {
+    Generic: amzer hollvedel kenurzhiet +11,
+    Standard: amzer hollvedel kenurzhiet +11,
+    Daylight: amzer hollvedel kenurzhiet +11
+  },
+  Etc/GMT-12: {
+    Generic: amzer hollvedel kenurzhiet +12,
+    Standard: amzer hollvedel kenurzhiet +12,
+    Daylight: amzer hollvedel kenurzhiet +12
+  },
+  Etc/GMT-13: {
+    Generic: amzer hollvedel kenurzhiet +13,
+    Standard: amzer hollvedel kenurzhiet +13,
+    Daylight: amzer hollvedel kenurzhiet +13
+  },
+  Etc/GMT-14: {
+    Generic: amzer hollvedel kenurzhiet +14,
+    Standard: amzer hollvedel kenurzhiet +14,
+    Daylight: amzer hollvedel kenurzhiet +14
+  },
+  Etc/GMT-2: {
+    Generic: amzer hollvedel kenurzhiet +2,
+    Standard: amzer hollvedel kenurzhiet +2,
+    Daylight: amzer hollvedel kenurzhiet +2
+  },
+  Etc/GMT-3: {
+    Generic: amzer hollvedel kenurzhiet +3,
+    Standard: amzer hollvedel kenurzhiet +3,
+    Daylight: amzer hollvedel kenurzhiet +3
+  },
+  Etc/GMT-4: {
+    Generic: amzer hollvedel kenurzhiet +4,
+    Standard: amzer hollvedel kenurzhiet +4,
+    Daylight: amzer hollvedel kenurzhiet +4
+  },
+  Etc/GMT-5: {
+    Generic: amzer hollvedel kenurzhiet +5,
+    Standard: amzer hollvedel kenurzhiet +5,
+    Daylight: amzer hollvedel kenurzhiet +5
+  },
+  Etc/GMT-6: {
+    Generic: amzer hollvedel kenurzhiet +6,
+    Standard: amzer hollvedel kenurzhiet +6,
+    Daylight: amzer hollvedel kenurzhiet +6
+  },
+  Etc/GMT-7: {
+    Generic: amzer hollvedel kenurzhiet +7,
+    Standard: amzer hollvedel kenurzhiet +7,
+    Daylight: amzer hollvedel kenurzhiet +7
+  },
+  Etc/GMT-8: {
+    Generic: amzer hollvedel kenurzhiet +8,
+    Standard: amzer hollvedel kenurzhiet +8,
+    Daylight: amzer hollvedel kenurzhiet +8
+  },
+  Etc/GMT-9: {
+    Generic: amzer hollvedel kenurzhiet +9,
+    Standard: amzer hollvedel kenurzhiet +9,
+    Daylight: amzer hollvedel kenurzhiet +9
   },
   Etc/GMT0: {
     Generic: Amzer keitat Greenwich (AKG),
@@ -2768,6 +2103,356 @@
     Generic: Amzer keitat Greenwich (AKG),
     Standard: Amzer keitat Greenwich (AKG),
     Daylight: Amzer keitat Greenwich (AKG)
+  },
+  Etc/UCT: {
+    Generic: amzer hollvedel kenurzhiet,
+    Standard: amzer hollvedel kenurzhiet,
+    Daylight: amzer hollvedel kenurzhiet
+  },
+  Etc/UTC: {
+    Generic: amzer hollvedel kenurzhiet,
+    Standard: amzer hollvedel kenurzhiet,
+    Daylight: amzer hollvedel kenurzhiet
+  },
+  Etc/Universal: {
+    Generic: amzer hollvedel kenurzhiet,
+    Standard: amzer hollvedel kenurzhiet,
+    Daylight: amzer hollvedel kenurzhiet
+  },
+  Etc/Zulu: {
+    Generic: amzer hollvedel kenurzhiet,
+    Standard: amzer hollvedel kenurzhiet,
+    Daylight: amzer hollvedel kenurzhiet
+  },
+  Europe/Amsterdam: {
+    Generic: eur Kreizeuropa,
+    Standard: eur cʼhoañv Kreizeuropa,
+    Daylight: eur hañv Kreizeuropa
+  },
+  Europe/Andorra: {
+    Generic: eur Kreizeuropa,
+    Standard: eur cʼhoañv Kreizeuropa,
+    Daylight: eur hañv Kreizeuropa
+  },
+  Europe/Astrakhan: {
+    Generic: eur Astrakhan,
+    Standard: eur cʼhoañv Astrakhan,
+    Daylight: eur hañv Astrakhan
+  },
+  Europe/Athens: {
+    Generic: eur Europa ar Reter,
+    Standard: eur cʼhoañv Europa ar Reter,
+    Daylight: eur hañv Europa ar Reter
+  },
+  Europe/Belfast: {
+    Generic: eur Rouantelezh-Unanet,
+    Standard: Amzer keitat Greenwich (AKG),
+    Daylight: eur hañv Breizh-Veur
+  },
+  Europe/Belgrade: {
+    Generic: eur Kreizeuropa,
+    Standard: eur cʼhoañv Kreizeuropa,
+    Daylight: eur hañv Kreizeuropa
+  },
+  Europe/Berlin: {
+    Generic: eur Kreizeuropa,
+    Standard: eur cʼhoañv Kreizeuropa,
+    Daylight: eur hañv Kreizeuropa
+  },
+  Europe/Bratislava: {
+    Generic: eur Kreizeuropa,
+    Standard: eur cʼhoañv Kreizeuropa,
+    Daylight: eur hañv Kreizeuropa
+  },
+  Europe/Brussels: {
+    Generic: eur Kreizeuropa,
+    Standard: eur cʼhoañv Kreizeuropa,
+    Daylight: eur hañv Kreizeuropa
+  },
+  Europe/Bucharest: {
+    Generic: eur Europa ar Reter,
+    Standard: eur cʼhoañv Europa ar Reter,
+    Daylight: eur hañv Europa ar Reter
+  },
+  Europe/Budapest: {
+    Generic: eur Kreizeuropa,
+    Standard: eur cʼhoañv Kreizeuropa,
+    Daylight: eur hañv Kreizeuropa
+  },
+  Europe/Busingen: {
+    Generic: eur Kreizeuropa,
+    Standard: eur cʼhoañv Kreizeuropa,
+    Daylight: eur hañv Kreizeuropa
+  },
+  Europe/Chisinau: {
+    Generic: eur Europa ar Reter,
+    Standard: eur cʼhoañv Europa ar Reter,
+    Daylight: eur hañv Europa ar Reter
+  },
+  Europe/Copenhagen: {
+    Generic: eur Kreizeuropa,
+    Standard: eur cʼhoañv Kreizeuropa,
+    Daylight: eur hañv Kreizeuropa
+  },
+  Europe/Dublin: {
+    Generic: eur Iwerzhon,
+    Standard: Amzer keitat Greenwich (AKG),
+    Daylight: eur cʼhoañv Iwerzhon
+  },
+  Europe/Gibraltar: {
+    Generic: eur Kreizeuropa,
+    Standard: eur cʼhoañv Kreizeuropa,
+    Daylight: eur hañv Kreizeuropa
+  },
+  Europe/Guernsey: {
+    Generic: Amzer keitat Greenwich (AKG),
+    Standard: Amzer keitat Greenwich (AKG),
+    Daylight: Amzer keitat Greenwich (AKG)
+  },
+  Europe/Helsinki: {
+    Generic: eur Europa ar Reter,
+    Standard: eur cʼhoañv Europa ar Reter,
+    Daylight: eur hañv Europa ar Reter
+  },
+  Europe/Isle_of_Man: {
+    Generic: Amzer keitat Greenwich (AKG),
+    Standard: Amzer keitat Greenwich (AKG),
+    Daylight: Amzer keitat Greenwich (AKG)
+  },
+  Europe/Istanbul: {
+    Generic: eur Turkia,
+    Standard: eur cʼhoañv Turkia,
+    Daylight: eur hañv Turkia
+  },
+  Europe/Jersey: {
+    Generic: Amzer keitat Greenwich (AKG),
+    Standard: Amzer keitat Greenwich (AKG),
+    Daylight: Amzer keitat Greenwich (AKG)
+  },
+  Europe/Kaliningrad: {
+    Generic: eur Kaliningrad,
+    Standard: eur cʼhoañv Kaliningrad,
+    Daylight: eur hañv Kaliningrad
+  },
+  Europe/Kiev: {
+    Generic: eur Europa ar Reter,
+    Standard: eur cʼhoañv Europa ar Reter,
+    Daylight: eur hañv Europa ar Reter
+  },
+  Europe/Kirov: {
+    Generic: eur Kirov,
+    Standard: eur cʼhoañv Kirov,
+    Daylight: eur hañv Kirov
+  },
+  Europe/Kyiv: {
+    Generic: eur Europa ar Reter,
+    Standard: eur cʼhoañv Europa ar Reter,
+    Daylight: eur hañv Europa ar Reter
+  },
+  Europe/Lisbon: {
+    Generic: eur Europa ar Cʼhornôg,
+    Standard: eur cʼhoañv Europa ar Cʼhornôg,
+    Daylight: eur hañv Europa ar Cʼhornôg
+  },
+  Europe/Ljubljana: {
+    Generic: eur Kreizeuropa,
+    Standard: eur cʼhoañv Kreizeuropa,
+    Daylight: eur hañv Kreizeuropa
+  },
+  Europe/London: {
+    Generic: eur Rouantelezh-Unanet,
+    Standard: Amzer keitat Greenwich (AKG),
+    Daylight: eur hañv Breizh-Veur
+  },
+  Europe/Luxembourg: {
+    Generic: eur Kreizeuropa,
+    Standard: eur cʼhoañv Kreizeuropa,
+    Daylight: eur hañv Kreizeuropa
+  },
+  Europe/Madrid: {
+    Generic: eur Kreizeuropa,
+    Standard: eur cʼhoañv Kreizeuropa,
+    Daylight: eur hañv Kreizeuropa
+  },
+  Europe/Malta: {
+    Generic: eur Kreizeuropa,
+    Standard: eur cʼhoañv Kreizeuropa,
+    Daylight: eur hañv Kreizeuropa
+  },
+  Europe/Mariehamn: {
+    Generic: eur Europa ar Reter,
+    Standard: eur cʼhoañv Europa ar Reter,
+    Daylight: eur hañv Europa ar Reter
+  },
+  Europe/Minsk: {
+    Generic: eur Moskov,
+    Standard: eur cʼhoañv Moskov,
+    Daylight: eur hañv Moskov
+  },
+  Europe/Monaco: {
+    Generic: eur Kreizeuropa,
+    Standard: eur cʼhoañv Kreizeuropa,
+    Daylight: eur hañv Kreizeuropa
+  },
+  Europe/Moscow: {
+    Generic: eur Moskov,
+    Standard: eur cʼhoañv Moskov,
+    Daylight: eur hañv Moskov
+  },
+  Europe/Nicosia: {
+    Generic: eur Europa ar Reter,
+    Standard: eur cʼhoañv Europa ar Reter,
+    Daylight: eur hañv Europa ar Reter
+  },
+  Europe/Oslo: {
+    Generic: eur Kreizeuropa,
+    Standard: eur cʼhoañv Kreizeuropa,
+    Daylight: eur hañv Kreizeuropa
+  },
+  Europe/Paris: {
+    Generic: eur Kreizeuropa,
+    Standard: eur cʼhoañv Kreizeuropa,
+    Daylight: eur hañv Kreizeuropa
+  },
+  Europe/Podgorica: {
+    Generic: eur Kreizeuropa,
+    Standard: eur cʼhoañv Kreizeuropa,
+    Daylight: eur hañv Kreizeuropa
+  },
+  Europe/Prague: {
+    Generic: eur Kreizeuropa,
+    Standard: eur cʼhoañv Kreizeuropa,
+    Daylight: eur hañv Kreizeuropa
+  },
+  Europe/Riga: {
+    Generic: eur Europa ar Reter,
+    Standard: eur cʼhoañv Europa ar Reter,
+    Daylight: eur hañv Europa ar Reter
+  },
+  Europe/Rome: {
+    Generic: eur Kreizeuropa,
+    Standard: eur cʼhoañv Kreizeuropa,
+    Daylight: eur hañv Kreizeuropa
+  },
+  Europe/Samara: {
+    Generic: eur Samara,
+    Standard: eur cʼhoañv Samara,
+    Daylight: eur hañv Samara
+  },
+  Europe/San_Marino: {
+    Generic: eur Kreizeuropa,
+    Standard: eur cʼhoañv Kreizeuropa,
+    Daylight: eur hañv Kreizeuropa
+  },
+  Europe/Sarajevo: {
+    Generic: eur Kreizeuropa,
+    Standard: eur cʼhoañv Kreizeuropa,
+    Daylight: eur hañv Kreizeuropa
+  },
+  Europe/Saratov: {
+    Generic: eur Saratov,
+    Standard: eur cʼhoañv Saratov,
+    Daylight: eur hañv Saratov
+  },
+  Europe/Simferopol: {
+    Generic: eur Moskov,
+    Standard: eur cʼhoañv Moskov,
+    Daylight: eur hañv Moskov
+  },
+  Europe/Skopje: {
+    Generic: eur Kreizeuropa,
+    Standard: eur cʼhoañv Kreizeuropa,
+    Daylight: eur hañv Kreizeuropa
+  },
+  Europe/Sofia: {
+    Generic: eur Europa ar Reter,
+    Standard: eur cʼhoañv Europa ar Reter,
+    Daylight: eur hañv Europa ar Reter
+  },
+  Europe/Stockholm: {
+    Generic: eur Kreizeuropa,
+    Standard: eur cʼhoañv Kreizeuropa,
+    Daylight: eur hañv Kreizeuropa
+  },
+  Europe/Tallinn: {
+    Generic: eur Europa ar Reter,
+    Standard: eur cʼhoañv Europa ar Reter,
+    Daylight: eur hañv Europa ar Reter
+  },
+  Europe/Tirane: {
+    Generic: eur Kreizeuropa,
+    Standard: eur cʼhoañv Kreizeuropa,
+    Daylight: eur hañv Kreizeuropa
+  },
+  Europe/Tiraspol: {
+    Generic: eur Europa ar Reter,
+    Standard: eur cʼhoañv Europa ar Reter,
+    Daylight: eur hañv Europa ar Reter
+  },
+  Europe/Ulyanovsk: {
+    Generic: eur Ulyanovsk,
+    Standard: eur cʼhoañv Ulyanovsk,
+    Daylight: eur hañv Ulyanovsk
+  },
+  Europe/Uzhgorod: {
+    Generic: eur Europa ar Reter,
+    Standard: eur cʼhoañv Europa ar Reter,
+    Daylight: eur hañv Europa ar Reter
+  },
+  Europe/Vaduz: {
+    Generic: eur Kreizeuropa,
+    Standard: eur cʼhoañv Kreizeuropa,
+    Daylight: eur hañv Kreizeuropa
+  },
+  Europe/Vatican: {
+    Generic: eur Kreizeuropa,
+    Standard: eur cʼhoañv Kreizeuropa,
+    Daylight: eur hañv Kreizeuropa
+  },
+  Europe/Vienna: {
+    Generic: eur Kreizeuropa,
+    Standard: eur cʼhoañv Kreizeuropa,
+    Daylight: eur hañv Kreizeuropa
+  },
+  Europe/Vilnius: {
+    Generic: eur Europa ar Reter,
+    Standard: eur cʼhoañv Europa ar Reter,
+    Daylight: eur hañv Europa ar Reter
+  },
+  Europe/Volgograd: {
+    Generic: eur Volgograd,
+    Standard: eur cʼhoañv Volgograd,
+    Daylight: eur hañv Volgograd
+  },
+  Europe/Warsaw: {
+    Generic: eur Kreizeuropa,
+    Standard: eur cʼhoañv Kreizeuropa,
+    Daylight: eur hañv Kreizeuropa
+  },
+  Europe/Zagreb: {
+    Generic: eur Kreizeuropa,
+    Standard: eur cʼhoañv Kreizeuropa,
+    Daylight: eur hañv Kreizeuropa
+  },
+  Europe/Zaporozhye: {
+    Generic: eur Europa ar Reter,
+    Standard: eur cʼhoañv Europa ar Reter,
+    Daylight: eur hañv Europa ar Reter
+  },
+  Europe/Zurich: {
+    Generic: eur Kreizeuropa,
+    Standard: eur cʼhoañv Kreizeuropa,
+    Daylight: eur hañv Kreizeuropa
+  },
+  GB: {
+    Generic: eur Rouantelezh-Unanet,
+    Standard: Amzer keitat Greenwich (AKG),
+    Daylight: eur hañv Breizh-Veur
+  },
+  GB-Eire: {
+    Generic: eur Rouantelezh-Unanet,
+    Standard: Amzer keitat Greenwich (AKG),
+    Daylight: eur hañv Breizh-Veur
   },
   GMT: {
     Generic: Amzer keitat Greenwich (AKG),
@@ -2794,120 +2479,135 @@
     Standard: Amzer keitat Greenwich (AKG),
     Daylight: Amzer keitat Greenwich (AKG)
   },
-  Etc/UCT: {
-    Generic: amzer hollvedel kenurzhiet,
-    Standard: amzer hollvedel kenurzhiet,
-    Daylight: amzer hollvedel kenurzhiet
+  HST: {
+    Generic: amzer hollvedel kenurzhiet -10,
+    Standard: amzer hollvedel kenurzhiet -10,
+    Daylight: amzer hollvedel kenurzhiet -10
   },
-  Etc/Universal: {
-    Generic: amzer hollvedel kenurzhiet,
-    Standard: amzer hollvedel kenurzhiet,
-    Daylight: amzer hollvedel kenurzhiet
+  Hongkong: {
+    Generic: eur Hong Kong,
+    Standard: eur cʼhoañv Hong Kong,
+    Daylight: eur hañv Hong Kong
   },
-  Etc/Zulu: {
-    Generic: amzer hollvedel kenurzhiet,
-    Standard: amzer hollvedel kenurzhiet,
-    Daylight: amzer hollvedel kenurzhiet
+  Iceland: {
+    Generic: Amzer keitat Greenwich (AKG),
+    Standard: Amzer keitat Greenwich (AKG),
+    Daylight: Amzer keitat Greenwich (AKG)
   },
-  UCT: {
-    Generic: amzer hollvedel kenurzhiet,
-    Standard: amzer hollvedel kenurzhiet,
-    Daylight: amzer hollvedel kenurzhiet
+  Indian/Antananarivo: {
+    Generic: eur Afrika ar Reter,
+    Standard: eur Afrika ar Reter,
+    Daylight: eur Afrika ar Reter
   },
-  UTC: {
-    Generic: amzer hollvedel kenurzhiet,
-    Standard: amzer hollvedel kenurzhiet,
-    Daylight: amzer hollvedel kenurzhiet
+  Indian/Chagos: {
+    Generic: eur Meurvor Indez,
+    Standard: eur Meurvor Indez,
+    Daylight: eur Meurvor Indez
   },
-  Universal: {
-    Generic: amzer hollvedel kenurzhiet,
-    Standard: amzer hollvedel kenurzhiet,
-    Daylight: amzer hollvedel kenurzhiet
+  Indian/Christmas: {
+    Generic: eur Enez Christmas,
+    Standard: eur Enez Christmas,
+    Daylight: eur Enez Christmas
   },
-  Zulu: {
-    Generic: amzer hollvedel kenurzhiet,
-    Standard: amzer hollvedel kenurzhiet,
-    Daylight: amzer hollvedel kenurzhiet
+  Indian/Cocos: {
+    Generic: eur Inizi Kokoz,
+    Standard: eur Inizi Kokoz,
+    Daylight: eur Inizi Kokoz
   },
-  Atlantic/Jan_Mayen: {
-    Generic: eur Kreizeuropa,
-    Standard: eur cʼhoañv Kreizeuropa,
-    Daylight: eur hañv Kreizeuropa
+  Indian/Comoro: {
+    Generic: eur Afrika ar Reter,
+    Standard: eur Afrika ar Reter,
+    Daylight: eur Afrika ar Reter
+  },
+  Indian/Kerguelen: {
+    Generic: eur Douaroù aostral Frañs hag Antarktika,
+    Standard: eur Douaroù aostral Frañs hag Antarktika,
+    Daylight: eur Douaroù aostral Frañs hag Antarktika
+  },
+  Indian/Mahe: {
+    Generic: eur Sechelez,
+    Standard: eur Sechelez,
+    Daylight: eur Sechelez
+  },
+  Indian/Maldives: {
+    Generic: eur ar Maldivez,
+    Standard: eur ar Maldivez,
+    Daylight: eur ar Maldivez
+  },
+  Indian/Mauritius: {
+    Generic: eur Moris,
+    Standard: eur cʼhoañv Moris,
+    Daylight: eur hañv Moris
+  },
+  Indian/Mayotte: {
+    Generic: eur Afrika ar Reter,
+    Standard: eur Afrika ar Reter,
+    Daylight: eur Afrika ar Reter
+  },
+  Indian/Reunion: {
+    Generic: eur ar Reünion,
+    Standard: eur ar Reünion,
+    Daylight: eur ar Reünion
+  },
+  Iran: {
+    Generic: eur Iran,
+    Standard: eur cʼhoañv Iran,
+    Daylight: eur hañv Iran
+  },
+  Israel: {
+    Generic: eur Israel,
+    Standard: eur cʼhoañv Israel,
+    Daylight: eur hañv Israel
+  },
+  Jamaica: {
+    Generic: eur ar Reter,
+    Standard: eur cʼhoañv ar Reter,
+    Daylight: eur hañv ar Reter
+  },
+  Japan: {
+    Generic: eur Japan,
+    Standard: eur cʼhoañv Japan,
+    Daylight: eur hañv Japan
+  },
+  Kwajalein: {
+    Generic: eur Inizi Marshall,
+    Standard: eur Inizi Marshall,
+    Daylight: eur Inizi Marshall
+  },
+  Libya: {
+    Generic: eur Europa ar Reter,
+    Standard: eur cʼhoañv Europa ar Reter,
+    Daylight: eur hañv Europa ar Reter
   },
   MET: {
     Generic: eur Kreizeuropa,
     Standard: eur cʼhoañv Kreizeuropa,
     Daylight: eur hañv Kreizeuropa
   },
-  EET: {
-    Generic: eur Europa ar Reter,
-    Standard: eur cʼhoañv Europa ar Reter,
-    Daylight: eur hañv Europa ar Reter
+  MST: {
+    Generic: amzer hollvedel kenurzhiet -7,
+    Standard: amzer hollvedel kenurzhiet -7,
+    Daylight: amzer hollvedel kenurzhiet -7
   },
-  Europe/Tiraspol: {
-    Generic: eur Europa ar Reter,
-    Standard: eur cʼhoañv Europa ar Reter,
-    Daylight: eur hañv Europa ar Reter
+  MST7MDT: {
+    Generic: eur ar Menezioù,
+    Standard: eur cʼhoañv ar Menezioù,
+    Daylight: eur hañv ar Menezioù
   },
-  Eire: {
-    Generic: eur Iwerzhon,
-    Standard: Amzer keitat Greenwich (AKG),
-    Daylight: eur cʼhoañv Iwerzhon
+  Mexico/BajaNorte: {
+    Generic: eur an Habask,
+    Standard: eur cʼhoañv an Habask,
+    Daylight: eur hañv an Habask
   },
-  Asia/Istanbul: {
-    Generic: eur Turkia,
-    Standard: eur cʼhoañv Turkia,
-    Daylight: eur hañv Turkia
+  Mexico/BajaSur: {
+    Generic: eur an Habask mecʼhikan,
+    Standard: eur cʼhoañv an Habask mecʼhikan,
+    Daylight: eur hañv an Habask mecʼhikan
   },
-  Turkey: {
-    Generic: eur Turkia,
-    Standard: eur cʼhoañv Turkia,
-    Daylight: eur hañv Turkia
-  },
-  Europe/Kyiv: {
-    Generic: eur Europa ar Reter,
-    Standard: eur cʼhoañv Europa ar Reter,
-    Daylight: eur hañv Europa ar Reter
-  },
-  Portugal: {
-    Generic: eur Europa ar Cʼhornôg,
-    Standard: eur cʼhoañv Europa ar Cʼhornôg,
-    Daylight: eur hañv Europa ar Cʼhornôg
-  },
-  Europe/Belfast: {
-    Generic: eur Rouantelezh-Unanet,
-    Standard: Amzer keitat Greenwich (AKG),
-    Daylight: eur hañv Breizh-Veur
-  },
-  GB: {
-    Generic: eur Rouantelezh-Unanet,
-    Standard: Amzer keitat Greenwich (AKG),
-    Daylight: eur hañv Breizh-Veur
-  },
-  GB-Eire: {
-    Generic: eur Rouantelezh-Unanet,
-    Standard: Amzer keitat Greenwich (AKG),
-    Daylight: eur hañv Breizh-Veur
-  },
-  W-SU: {
-    Generic: eur Moskov,
-    Standard: eur cʼhoañv Moskov,
-    Daylight: eur hañv Moskov
-  },
-  CET: {
-    Generic: eur Kreizeuropa,
-    Standard: eur cʼhoañv Kreizeuropa,
-    Daylight: eur hañv Kreizeuropa
-  },
-  Poland: {
-    Generic: eur Kreizeuropa,
-    Standard: eur cʼhoañv Kreizeuropa,
-    Daylight: eur hañv Kreizeuropa
-  },
-  Antarctica/South_Pole: {
-    Generic: eur Zeland-Nevez,
-    Standard: eur cʼhoañv Zeland-Nevez,
-    Daylight: eur hañv Zeland-Nevez
+  Mexico/General: {
+    Generic: eur ar Cʼhreiz,
+    Standard: eur cʼhoañv ar Cʼhreiz,
+    Daylight: eur hañv ar Cʼhreiz
   },
   NZ: {
     Generic: eur Zeland-Nevez,
@@ -2919,17 +2619,102 @@
     Standard: eur cʼhoañv Chatham,
     Daylight: eur hañv Chatham
   },
-  Chile/EasterIsland: {
+  Navajo: {
+    Generic: eur ar Menezioù,
+    Standard: eur cʼhoañv ar Menezioù,
+    Daylight: eur hañv ar Menezioù
+  },
+  PRC: {
+    Generic: eur Sina,
+    Standard: eur cʼhoañv Sina,
+    Daylight: eur hañv Sina
+  },
+  PST8PDT: {
+    Generic: eur an Habask,
+    Standard: eur cʼhoañv an Habask,
+    Daylight: eur hañv an Habask
+  },
+  Pacific/Apia: {
+    Generic: eur Apia,
+    Standard: eur cʼhoañv Apia,
+    Daylight: eur hañv Apia
+  },
+  Pacific/Auckland: {
+    Generic: eur Zeland-Nevez,
+    Standard: eur cʼhoañv Zeland-Nevez,
+    Daylight: eur hañv Zeland-Nevez
+  },
+  Pacific/Bougainville: {
+    Generic: eur Papoua-Ginea-Nevez,
+    Standard: eur Papoua-Ginea-Nevez,
+    Daylight: eur Papoua-Ginea-Nevez
+  },
+  Pacific/Chatham: {
+    Generic: eur Chatham,
+    Standard: eur cʼhoañv Chatham,
+    Daylight: eur hañv Chatham
+  },
+  Pacific/Chuuk: {
+    Generic: eur Chuuk,
+    Standard: eur Chuuk,
+    Daylight: eur Chuuk
+  },
+  Pacific/Easter: {
     Generic: eur Enez Pask,
     Standard: eur cʼhoañv Enez Pask,
     Daylight: eur hañv Enez Pask
   },
-  Pacific/Pohnpei: {
-    Generic: eur Pohnpei,
-    Standard: eur Pohnpei,
-    Daylight: eur Pohnpei
+  Pacific/Efate: {
+    Generic: eur Vanuatu,
+    Standard: eur cʼhoañv Vanuatu,
+    Daylight: eur hañv Vanuatu
   },
-  US/Hawaii: {
+  Pacific/Enderbury: {
+    Generic: eur Inizi Phoenix,
+    Standard: eur Inizi Phoenix,
+    Daylight: eur Inizi Phoenix
+  },
+  Pacific/Fakaofo: {
+    Generic: eur Tokelau,
+    Standard: eur Tokelau,
+    Daylight: eur Tokelau
+  },
+  Pacific/Fiji: {
+    Generic: eur Fidji,
+    Standard: eur cʼhoañv Fidji,
+    Daylight: eur hañv Fidji
+  },
+  Pacific/Funafuti: {
+    Generic: eur Tuvalu,
+    Standard: eur Tuvalu,
+    Daylight: eur Tuvalu
+  },
+  Pacific/Galapagos: {
+    Generic: eur Inizi Galápagos,
+    Standard: eur Inizi Galápagos,
+    Daylight: eur Inizi Galápagos
+  },
+  Pacific/Gambier: {
+    Generic: eur Inizi Gambier,
+    Standard: eur Inizi Gambier,
+    Daylight: eur Inizi Gambier
+  },
+  Pacific/Guadalcanal: {
+    Generic: eur Inizi Salomon,
+    Standard: eur Inizi Salomon,
+    Daylight: eur Inizi Salomon
+  },
+  Pacific/Guam: {
+    Generic: eur Chamorro,
+    Standard: eur Chamorro,
+    Daylight: eur Chamorro
+  },
+  Pacific/Honolulu: {
+    Generic: eur Hawaii hag an Aleouted,
+    Standard: eur cʼhoañv Hawaii hag an Aleouted,
+    Daylight: eur hañv Hawaii hag an Aleouted
+  },
+  Pacific/Johnston: {
     Generic: eur Hawaii hag an Aleouted,
     Standard: eur cʼhoañv Hawaii hag an Aleouted,
     Daylight: eur hañv Hawaii hag an Aleouted
@@ -2939,39 +2724,254 @@
     Standard: eur Inizi Phoenix,
     Daylight: eur Inizi Phoenix
   },
-  Kwajalein: {
+  Pacific/Kiritimati: {
+    Generic: eur Line Islands,
+    Standard: eur Line Islands,
+    Daylight: eur Line Islands
+  },
+  Pacific/Kosrae: {
+    Generic: eur Kosrae,
+    Standard: eur Kosrae,
+    Daylight: eur Kosrae
+  },
+  Pacific/Kwajalein: {
     Generic: eur Inizi Marshall,
     Standard: eur Inizi Marshall,
     Daylight: eur Inizi Marshall
+  },
+  Pacific/Majuro: {
+    Generic: eur Inizi Marshall,
+    Standard: eur Inizi Marshall,
+    Daylight: eur Inizi Marshall
+  },
+  Pacific/Marquesas: {
+    Generic: eur Inizi Markiz,
+    Standard: eur Inizi Markiz,
+    Daylight: eur Inizi Markiz
+  },
+  Pacific/Midway: {
+    Generic: eur Samoa,
+    Standard: eur cʼhoañv Samoa,
+    Daylight: eur hañv Samoa
+  },
+  Pacific/Nauru: {
+    Generic: eur Nauru,
+    Standard: eur Nauru,
+    Daylight: eur Nauru
+  },
+  Pacific/Niue: {
+    Generic: eur Niue,
+    Standard: eur Niue,
+    Daylight: eur Niue
+  },
+  Pacific/Norfolk: {
+    Generic: eur Enez Norfolk,
+    Standard: eur cʼhoañv Enez Norfolk,
+    Daylight: eur hañv Enez Norfolk
+  },
+  Pacific/Noumea: {
+    Generic: eur Kaledonia Nevez,
+    Standard: eur cʼhoañv Kaledonia Nevez,
+    Daylight: eur hañv Kaledonia Nevez
+  },
+  Pacific/Pago_Pago: {
+    Generic: eur Samoa,
+    Standard: eur cʼhoañv Samoa,
+    Daylight: eur hañv Samoa
+  },
+  Pacific/Palau: {
+    Generic: eur Palau,
+    Standard: eur Palau,
+    Daylight: eur Palau
+  },
+  Pacific/Pitcairn: {
+    Generic: eur Pitcairn,
+    Standard: eur Pitcairn,
+    Daylight: eur Pitcairn
+  },
+  Pacific/Pohnpei: {
+    Generic: eur Pohnpei,
+    Standard: eur Pohnpei,
+    Daylight: eur Pohnpei
+  },
+  Pacific/Ponape: {
+    Generic: eur Pohnpei,
+    Standard: eur Pohnpei,
+    Daylight: eur Pohnpei
+  },
+  Pacific/Port_Moresby: {
+    Generic: eur Papoua-Ginea-Nevez,
+    Standard: eur Papoua-Ginea-Nevez,
+    Daylight: eur Papoua-Ginea-Nevez
+  },
+  Pacific/Rarotonga: {
+    Generic: eur Inizi Cook,
+    Standard: eur cʼhoañv Inizi Cook,
+    Daylight: eur hañv Inizi Cook
+  },
+  Pacific/Saipan: {
+    Generic: eur Chamorro,
+    Standard: eur Chamorro,
+    Daylight: eur Chamorro
   },
   Pacific/Samoa: {
     Generic: eur Samoa,
     Standard: eur cʼhoañv Samoa,
     Daylight: eur hañv Samoa
   },
-  US/Samoa: {
-    Generic: eur Samoa,
-    Standard: eur cʼhoañv Samoa,
-    Daylight: eur hañv Samoa
+  Pacific/Tahiti: {
+    Generic: eur Tahiti,
+    Standard: eur Tahiti,
+    Daylight: eur Tahiti
   },
-  Pacific/Chuuk: {
+  Pacific/Tarawa: {
+    Generic: eur Inizi Gilbert,
+    Standard: eur Inizi Gilbert,
+    Daylight: eur Inizi Gilbert
+  },
+  Pacific/Tongatapu: {
+    Generic: eur Tonga,
+    Standard: eur cʼhoañv Tonga,
+    Daylight: eur hañv Tonga
+  },
+  Pacific/Truk: {
     Generic: eur Chuuk,
     Standard: eur Chuuk,
     Daylight: eur Chuuk
+  },
+  Pacific/Wake: {
+    Generic: eur Wake Island,
+    Standard: eur Wake Island,
+    Daylight: eur Wake Island
+  },
+  Pacific/Wallis: {
+    Generic: eur Wallis ha Futuna,
+    Standard: eur Wallis ha Futuna,
+    Daylight: eur Wallis ha Futuna
   },
   Pacific/Yap: {
     Generic: eur Chuuk,
     Standard: eur Chuuk,
     Daylight: eur Chuuk
   },
-  America/Fort_Wayne: {
+  Poland: {
+    Generic: eur Kreizeuropa,
+    Standard: eur cʼhoañv Kreizeuropa,
+    Daylight: eur hañv Kreizeuropa
+  },
+  Portugal: {
+    Generic: eur Europa ar Cʼhornôg,
+    Standard: eur cʼhoañv Europa ar Cʼhornôg,
+    Daylight: eur hañv Europa ar Cʼhornôg
+  },
+  ROC: {
+    Generic: eur Taipei,
+    Standard: eur cʼhoañv Taipei,
+    Daylight: eur hañv Taipei
+  },
+  ROK: {
+    Generic: eur Korea,
+    Standard: eur cʼhoañv Korea,
+    Daylight: eur hañv Korea
+  },
+  Singapore: {
+    Generic: eur cʼhoañv Singapour,
+    Standard: eur cʼhoañv Singapour,
+    Daylight: eur cʼhoañv Singapour
+  },
+  Turkey: {
+    Generic: eur Turkia,
+    Standard: eur cʼhoañv Turkia,
+    Daylight: eur hañv Turkia
+  },
+  UCT: {
+    Generic: amzer hollvedel kenurzhiet,
+    Standard: amzer hollvedel kenurzhiet,
+    Daylight: amzer hollvedel kenurzhiet
+  },
+  US/Alaska: {
+    Generic: eur Alaska,
+    Standard: eur cʼhoañv Alaska,
+    Daylight: eur hañv Alaska
+  },
+  US/Aleutian: {
+    Generic: eur Hawaii hag an Aleouted,
+    Standard: eur cʼhoañv Hawaii hag an Aleouted,
+    Daylight: eur hañv Hawaii hag an Aleouted
+  },
+  US/Arizona: {
+    Generic: eur ar Menezioù,
+    Standard: eur cʼhoañv ar Menezioù,
+    Daylight: eur hañv ar Menezioù
+  },
+  US/Central: {
+    Generic: eur ar Cʼhreiz,
+    Standard: eur cʼhoañv ar Cʼhreiz,
+    Daylight: eur hañv ar Cʼhreiz
+  },
+  US/East-Indiana: {
     Generic: eur ar Reter,
     Standard: eur cʼhoañv ar Reter,
     Daylight: eur hañv ar Reter
   },
-  Antarctica/Troll: {
-    Generic: Amzer keitat Greenwich (AKG),
-    Standard: Amzer keitat Greenwich (AKG),
-    Daylight: Amzer keitat Greenwich (AKG)
+  US/Eastern: {
+    Generic: eur ar Reter,
+    Standard: eur cʼhoañv ar Reter,
+    Daylight: eur hañv ar Reter
+  },
+  US/Hawaii: {
+    Generic: eur Hawaii hag an Aleouted,
+    Standard: eur cʼhoañv Hawaii hag an Aleouted,
+    Daylight: eur hañv Hawaii hag an Aleouted
+  },
+  US/Indiana-Starke: {
+    Generic: eur ar Cʼhreiz,
+    Standard: eur cʼhoañv ar Cʼhreiz,
+    Daylight: eur hañv ar Cʼhreiz
+  },
+  US/Michigan: {
+    Generic: eur ar Reter,
+    Standard: eur cʼhoañv ar Reter,
+    Daylight: eur hañv ar Reter
+  },
+  US/Mountain: {
+    Generic: eur ar Menezioù,
+    Standard: eur cʼhoañv ar Menezioù,
+    Daylight: eur hañv ar Menezioù
+  },
+  US/Pacific: {
+    Generic: eur an Habask,
+    Standard: eur cʼhoañv an Habask,
+    Daylight: eur hañv an Habask
+  },
+  US/Samoa: {
+    Generic: eur Samoa,
+    Standard: eur cʼhoañv Samoa,
+    Daylight: eur hañv Samoa
+  },
+  UTC: {
+    Generic: amzer hollvedel kenurzhiet,
+    Standard: amzer hollvedel kenurzhiet,
+    Daylight: amzer hollvedel kenurzhiet
+  },
+  Universal: {
+    Generic: amzer hollvedel kenurzhiet,
+    Standard: amzer hollvedel kenurzhiet,
+    Daylight: amzer hollvedel kenurzhiet
+  },
+  W-SU: {
+    Generic: eur Moskov,
+    Standard: eur cʼhoañv Moskov,
+    Daylight: eur hañv Moskov
+  },
+  WET: {
+    Generic: eur Europa ar Cʼhornôg,
+    Standard: eur cʼhoañv Europa ar Cʼhornôg,
+    Daylight: eur hañv Europa ar Cʼhornôg
+  },
+  Zulu: {
+    Generic: amzer hollvedel kenurzhiet,
+    Standard: amzer hollvedel kenurzhiet,
+    Daylight: amzer hollvedel kenurzhiet
   }
 }

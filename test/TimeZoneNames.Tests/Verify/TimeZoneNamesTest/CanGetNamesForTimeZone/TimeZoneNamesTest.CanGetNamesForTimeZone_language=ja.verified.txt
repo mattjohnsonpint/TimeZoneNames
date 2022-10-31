@@ -1,115 +1,330 @@
 ﻿{
-  Australia/Darwin: {
-    Generic: オーストラリア中部時間,
-    Standard: オーストラリア中部標準時,
-    Daylight: オーストラリア中部夏時間
+  Africa/Abidjan: {
+    Generic: グリニッジ標準時,
+    Standard: グリニッジ標準時,
+    Daylight: グリニッジ標準時
   },
-  Australia/Sydney: {
-    Generic: オーストラリア東部時間,
-    Standard: オーストラリア東部標準時,
-    Daylight: オーストラリア東部夏時間
+  Africa/Accra: {
+    Generic: グリニッジ標準時,
+    Standard: グリニッジ標準時,
+    Daylight: グリニッジ標準時
   },
-  Australia/Melbourne: {
-    Generic: オーストラリア東部時間,
-    Standard: オーストラリア東部標準時,
-    Daylight: オーストラリア東部夏時間
+  Africa/Addis_Ababa: {
+    Generic: 東アフリカ時間,
+    Standard: 東アフリカ時間,
+    Daylight: 東アフリカ時間
   },
-  Asia/Kabul: {
-    Generic: アフガニスタン時間,
-    Standard: アフガニスタン時間,
-    Daylight: アフガニスタン時間
+  Africa/Algiers: {
+    Generic: 中央ヨーロッパ時間,
+    Standard: 中央ヨーロッパ標準時,
+    Daylight: 中央ヨーロッパ夏時間
   },
-  America/Anchorage: {
-    Generic: アラスカ時間,
-    Standard: アラスカ標準時,
-    Daylight: アラスカ夏時間
+  Africa/Asmara: {
+    Generic: 東アフリカ時間,
+    Standard: 東アフリカ時間,
+    Daylight: 東アフリカ時間
   },
-  America/Juneau: {
-    Generic: アラスカ時間,
-    Standard: アラスカ標準時,
-    Daylight: アラスカ夏時間
+  Africa/Asmera: {
+    Generic: 東アフリカ時間,
+    Standard: 東アフリカ時間,
+    Daylight: 東アフリカ時間
   },
-  America/Metlakatla: {
-    Generic: アラスカ時間,
-    Standard: アラスカ標準時,
-    Daylight: アラスカ夏時間
+  Africa/Bamako: {
+    Generic: グリニッジ標準時,
+    Standard: グリニッジ標準時,
+    Daylight: グリニッジ標準時
   },
-  America/Nome: {
-    Generic: アラスカ時間,
-    Standard: アラスカ標準時,
-    Daylight: アラスカ夏時間
+  Africa/Bangui: {
+    Generic: 西アフリカ時間,
+    Standard: 西アフリカ標準時,
+    Daylight: 西アフリカ夏時間
   },
-  America/Sitka: {
-    Generic: アラスカ時間,
-    Standard: アラスカ標準時,
-    Daylight: アラスカ夏時間
+  Africa/Banjul: {
+    Generic: グリニッジ標準時,
+    Standard: グリニッジ標準時,
+    Daylight: グリニッジ標準時
   },
-  America/Yakutat: {
-    Generic: アラスカ時間,
-    Standard: アラスカ標準時,
-    Daylight: アラスカ夏時間
+  Africa/Bissau: {
+    Generic: グリニッジ標準時,
+    Standard: グリニッジ標準時,
+    Daylight: グリニッジ標準時
+  },
+  Africa/Blantyre: {
+    Generic: 中央アフリカ時間,
+    Standard: 中央アフリカ時間,
+    Daylight: 中央アフリカ時間
+  },
+  Africa/Brazzaville: {
+    Generic: 西アフリカ時間,
+    Standard: 西アフリカ標準時,
+    Daylight: 西アフリカ夏時間
+  },
+  Africa/Bujumbura: {
+    Generic: 中央アフリカ時間,
+    Standard: 中央アフリカ時間,
+    Daylight: 中央アフリカ時間
+  },
+  Africa/Cairo: {
+    Generic: 東ヨーロッパ時間,
+    Standard: 東ヨーロッパ標準時,
+    Daylight: 東ヨーロッパ夏時間
+  },
+  Africa/Casablanca: {
+    Generic: 西ヨーロッパ時間,
+    Standard: 西ヨーロッパ標準時,
+    Daylight: 西ヨーロッパ夏時間
+  },
+  Africa/Ceuta: {
+    Generic: 中央ヨーロッパ時間,
+    Standard: 中央ヨーロッパ標準時,
+    Daylight: 中央ヨーロッパ夏時間
+  },
+  Africa/Conakry: {
+    Generic: グリニッジ標準時,
+    Standard: グリニッジ標準時,
+    Daylight: グリニッジ標準時
+  },
+  Africa/Dakar: {
+    Generic: グリニッジ標準時,
+    Standard: グリニッジ標準時,
+    Daylight: グリニッジ標準時
+  },
+  Africa/Dar_es_Salaam: {
+    Generic: 東アフリカ時間,
+    Standard: 東アフリカ時間,
+    Daylight: 東アフリカ時間
+  },
+  Africa/Djibouti: {
+    Generic: 東アフリカ時間,
+    Standard: 東アフリカ時間,
+    Daylight: 東アフリカ時間
+  },
+  Africa/Douala: {
+    Generic: 西アフリカ時間,
+    Standard: 西アフリカ標準時,
+    Daylight: 西アフリカ夏時間
+  },
+  Africa/El_Aaiun: {
+    Generic: 西ヨーロッパ時間,
+    Standard: 西ヨーロッパ標準時,
+    Daylight: 西ヨーロッパ夏時間
+  },
+  Africa/Freetown: {
+    Generic: グリニッジ標準時,
+    Standard: グリニッジ標準時,
+    Daylight: グリニッジ標準時
+  },
+  Africa/Gaborone: {
+    Generic: 中央アフリカ時間,
+    Standard: 中央アフリカ時間,
+    Daylight: 中央アフリカ時間
+  },
+  Africa/Harare: {
+    Generic: 中央アフリカ時間,
+    Standard: 中央アフリカ時間,
+    Daylight: 中央アフリカ時間
+  },
+  Africa/Johannesburg: {
+    Generic: 南アフリカ標準時,
+    Standard: 南アフリカ標準時,
+    Daylight: 南アフリカ標準時
+  },
+  Africa/Juba: {
+    Generic: 中央アフリカ時間,
+    Standard: 中央アフリカ時間,
+    Daylight: 中央アフリカ時間
+  },
+  Africa/Kampala: {
+    Generic: 東アフリカ時間,
+    Standard: 東アフリカ時間,
+    Daylight: 東アフリカ時間
+  },
+  Africa/Khartoum: {
+    Generic: 中央アフリカ時間,
+    Standard: 中央アフリカ時間,
+    Daylight: 中央アフリカ時間
+  },
+  Africa/Kigali: {
+    Generic: 中央アフリカ時間,
+    Standard: 中央アフリカ時間,
+    Daylight: 中央アフリカ時間
+  },
+  Africa/Kinshasa: {
+    Generic: 西アフリカ時間,
+    Standard: 西アフリカ標準時,
+    Daylight: 西アフリカ夏時間
+  },
+  Africa/Lagos: {
+    Generic: 西アフリカ時間,
+    Standard: 西アフリカ標準時,
+    Daylight: 西アフリカ夏時間
+  },
+  Africa/Libreville: {
+    Generic: 西アフリカ時間,
+    Standard: 西アフリカ標準時,
+    Daylight: 西アフリカ夏時間
+  },
+  Africa/Lome: {
+    Generic: グリニッジ標準時,
+    Standard: グリニッジ標準時,
+    Daylight: グリニッジ標準時
+  },
+  Africa/Luanda: {
+    Generic: 西アフリカ時間,
+    Standard: 西アフリカ標準時,
+    Daylight: 西アフリカ夏時間
+  },
+  Africa/Lubumbashi: {
+    Generic: 中央アフリカ時間,
+    Standard: 中央アフリカ時間,
+    Daylight: 中央アフリカ時間
+  },
+  Africa/Lusaka: {
+    Generic: 中央アフリカ時間,
+    Standard: 中央アフリカ時間,
+    Daylight: 中央アフリカ時間
+  },
+  Africa/Malabo: {
+    Generic: 西アフリカ時間,
+    Standard: 西アフリカ標準時,
+    Daylight: 西アフリカ夏時間
+  },
+  Africa/Maputo: {
+    Generic: 中央アフリカ時間,
+    Standard: 中央アフリカ時間,
+    Daylight: 中央アフリカ時間
+  },
+  Africa/Maseru: {
+    Generic: 南アフリカ標準時,
+    Standard: 南アフリカ標準時,
+    Daylight: 南アフリカ標準時
+  },
+  Africa/Mbabane: {
+    Generic: 南アフリカ標準時,
+    Standard: 南アフリカ標準時,
+    Daylight: 南アフリカ標準時
+  },
+  Africa/Mogadishu: {
+    Generic: 東アフリカ時間,
+    Standard: 東アフリカ時間,
+    Daylight: 東アフリカ時間
+  },
+  Africa/Monrovia: {
+    Generic: グリニッジ標準時,
+    Standard: グリニッジ標準時,
+    Daylight: グリニッジ標準時
+  },
+  Africa/Nairobi: {
+    Generic: 東アフリカ時間,
+    Standard: 東アフリカ時間,
+    Daylight: 東アフリカ時間
+  },
+  Africa/Ndjamena: {
+    Generic: 西アフリカ時間,
+    Standard: 西アフリカ標準時,
+    Daylight: 西アフリカ夏時間
+  },
+  Africa/Niamey: {
+    Generic: 西アフリカ時間,
+    Standard: 西アフリカ標準時,
+    Daylight: 西アフリカ夏時間
+  },
+  Africa/Nouakchott: {
+    Generic: グリニッジ標準時,
+    Standard: グリニッジ標準時,
+    Daylight: グリニッジ標準時
+  },
+  Africa/Ouagadougou: {
+    Generic: グリニッジ標準時,
+    Standard: グリニッジ標準時,
+    Daylight: グリニッジ標準時
+  },
+  Africa/Porto-Novo: {
+    Generic: 西アフリカ時間,
+    Standard: 西アフリカ標準時,
+    Daylight: 西アフリカ夏時間
+  },
+  Africa/Sao_Tome: {
+    Generic: グリニッジ標準時,
+    Standard: グリニッジ標準時,
+    Daylight: グリニッジ標準時
+  },
+  Africa/Timbuktu: {
+    Generic: グリニッジ標準時,
+    Standard: グリニッジ標準時,
+    Daylight: グリニッジ標準時
+  },
+  Africa/Tripoli: {
+    Generic: 東ヨーロッパ時間,
+    Standard: 東ヨーロッパ標準時,
+    Daylight: 東ヨーロッパ夏時間
+  },
+  Africa/Tunis: {
+    Generic: 中央ヨーロッパ時間,
+    Standard: 中央ヨーロッパ標準時,
+    Daylight: 中央ヨーロッパ夏時間
+  },
+  Africa/Windhoek: {
+    Generic: 中央アフリカ時間,
+    Standard: 中央アフリカ時間,
+    Daylight: 中央アフリカ時間
   },
   America/Adak: {
     Generic: ハワイ・アリューシャン時間,
     Standard: ハワイ・アリューシャン標準時,
     Daylight: ハワイ・アリューシャン夏時間
   },
-  Asia/Barnaul: {
-    Generic: バルナウル時間,
-    Standard: バルナウル標準時,
-    Daylight: バルナウル夏時間
+  America/Anchorage: {
+    Generic: アラスカ時間,
+    Standard: アラスカ標準時,
+    Daylight: アラスカ夏時間
   },
-  Asia/Riyadh: {
-    Generic: アラビア時間,
-    Standard: アラビア標準時,
-    Daylight: アラビア夏時間
+  America/Anguilla: {
+    Generic: 大西洋時間,
+    Standard: 大西洋標準時,
+    Daylight: 大西洋夏時間
   },
-  Asia/Bahrain: {
-    Generic: アラビア時間,
-    Standard: アラビア標準時,
-    Daylight: アラビア夏時間
+  America/Antigua: {
+    Generic: 大西洋時間,
+    Standard: 大西洋標準時,
+    Daylight: 大西洋夏時間
   },
-  Asia/Kuwait: {
-    Generic: アラビア時間,
-    Standard: アラビア標準時,
-    Daylight: アラビア夏時間
+  America/Araguaina: {
+    Generic: ブラジリア時間,
+    Standard: ブラジリア標準時,
+    Daylight: ブラジリア夏時間
   },
-  Asia/Qatar: {
-    Generic: アラビア時間,
-    Standard: アラビア標準時,
-    Daylight: アラビア夏時間
+  America/Argentina/Buenos_Aires: {
+    Generic: アルゼンチン時間,
+    Standard: アルゼンチン標準時,
+    Daylight: アルゼンチン夏時間
   },
-  Asia/Aden: {
-    Generic: アラビア時間,
-    Standard: アラビア標準時,
-    Daylight: アラビア夏時間
+  America/Argentina/Catamarca: {
+    Generic: アルゼンチン時間,
+    Standard: アルゼンチン標準時,
+    Daylight: アルゼンチン夏時間
   },
-  Asia/Dubai: {
-    Generic: 湾岸標準時,
-    Standard: 湾岸標準時,
-    Daylight: 湾岸標準時
+  America/Argentina/ComodRivadavia: {
+    Generic: アルゼンチン時間,
+    Standard: アルゼンチン標準時,
+    Daylight: アルゼンチン夏時間
   },
-  Asia/Muscat: {
-    Generic: 湾岸標準時,
-    Standard: 湾岸標準時,
-    Daylight: 湾岸標準時
+  America/Argentina/Cordoba: {
+    Generic: アルゼンチン時間,
+    Standard: アルゼンチン標準時,
+    Daylight: アルゼンチン夏時間
   },
-  Etc/GMT-4: {
-    Generic: 協定世界時 +4,
-    Standard: 協定世界時 +4,
-    Daylight: 協定世界時 +4
-  },
-  Asia/Baghdad: {
-    Generic: アラビア時間,
-    Standard: アラビア標準時,
-    Daylight: アラビア夏時間
-  },
-  America/Buenos_Aires: {
+  America/Argentina/Jujuy: {
     Generic: アルゼンチン時間,
     Standard: アルゼンチン標準時,
     Daylight: アルゼンチン夏時間
   },
   America/Argentina/La_Rioja: {
+    Generic: アルゼンチン時間,
+    Standard: アルゼンチン標準時,
+    Daylight: アルゼンチン夏時間
+  },
+  America/Argentina/Mendoza: {
     Generic: アルゼンチン時間,
     Standard: アルゼンチン標準時,
     Daylight: アルゼンチン夏時間
@@ -144,327 +359,432 @@
     Standard: アルゼンチン標準時,
     Daylight: アルゼンチン夏時間
   },
-  America/Catamarca: {
-    Generic: アルゼンチン時間,
-    Standard: アルゼンチン標準時,
-    Daylight: アルゼンチン夏時間
-  },
-  America/Cordoba: {
-    Generic: アルゼンチン時間,
-    Standard: アルゼンチン標準時,
-    Daylight: アルゼンチン夏時間
-  },
-  America/Jujuy: {
-    Generic: アルゼンチン時間,
-    Standard: アルゼンチン標準時,
-    Daylight: アルゼンチン夏時間
-  },
-  America/Mendoza: {
-    Generic: アルゼンチン時間,
-    Standard: アルゼンチン標準時,
-    Daylight: アルゼンチン夏時間
-  },
-  Europe/Astrakhan: {
-    Generic: アストラハン時間,
-    Standard: アストラハン標準時,
-    Daylight: アストラハン夏時間
-  },
-  Europe/Ulyanovsk: {
-    Generic: ウリヤノフスク時間,
-    Standard: ウリヤノフスク標準時,
-    Daylight: ウリヤノフスク夏時間
-  },
-  America/Halifax: {
+  America/Aruba: {
     Generic: 大西洋時間,
     Standard: 大西洋標準時,
     Daylight: 大西洋夏時間
   },
-  Atlantic/Bermuda: {
-    Generic: 大西洋時間,
-    Standard: 大西洋標準時,
-    Daylight: 大西洋夏時間
+  America/Asuncion: {
+    Generic: パラグアイ時間,
+    Standard: パラグアイ標準時,
+    Daylight: パラグアイ夏時間
   },
-  America/Glace_Bay: {
-    Generic: 大西洋時間,
-    Standard: 大西洋標準時,
-    Daylight: 大西洋夏時間
+  America/Atikokan: {
+    Generic: アメリカ東部時間,
+    Standard: アメリカ東部標準時,
+    Daylight: アメリカ東部夏時間
   },
-  America/Goose_Bay: {
-    Generic: 大西洋時間,
-    Standard: 大西洋標準時,
-    Daylight: 大西洋夏時間
-  },
-  America/Moncton: {
-    Generic: 大西洋時間,
-    Standard: 大西洋標準時,
-    Daylight: 大西洋夏時間
-  },
-  America/Thule: {
-    Generic: 大西洋時間,
-    Standard: 大西洋標準時,
-    Daylight: 大西洋夏時間
-  },
-  Australia/Eucla: {
-    Generic: オーストラリア中西部時間,
-    Standard: オーストラリア中西部標準時,
-    Daylight: オーストラリア中西部夏時間
-  },
-  Asia/Baku: {
-    Generic: アゼルバイジャン時間,
-    Standard: アゼルバイジャン標準時,
-    Daylight: アゼルバイジャン夏時間
-  },
-  Atlantic/Azores: {
-    Generic: アゾレス時間,
-    Standard: アゾレス標準時,
-    Daylight: アゾレス夏時間
-  },
-  America/Scoresbysund: {
-    Generic: グリーンランド東部時間,
-    Standard: グリーンランド東部標準時,
-    Daylight: グリーンランド東部夏時間
+  America/Atka: {
+    Generic: ハワイ・アリューシャン時間,
+    Standard: ハワイ・アリューシャン標準時,
+    Daylight: ハワイ・アリューシャン夏時間
   },
   America/Bahia: {
     Generic: ブラジリア時間,
     Standard: ブラジリア標準時,
     Daylight: ブラジリア夏時間
   },
-  Asia/Dhaka: {
-    Generic: バングラデシュ時間,
-    Standard: バングラデシュ標準時,
-    Daylight: バングラデシュ夏時間
-  },
-  Asia/Thimphu: {
-    Generic: ブータン時間,
-    Standard: ブータン時間,
-    Daylight: ブータン時間
-  },
-  Europe/Minsk: {
-    Generic: モスクワ時間,
-    Standard: モスクワ標準時,
-    Daylight: モスクワ夏時間
-  },
-  Pacific/Bougainville: {
-    Generic: パプアニューギニア時間,
-    Standard: パプアニューギニア時間,
-    Daylight: パプアニューギニア時間
-  },
-  America/Regina: {
+  America/Bahia_Banderas: {
     Generic: アメリカ中部時間,
     Standard: アメリカ中部標準時,
     Daylight: アメリカ中部夏時間
   },
-  America/Swift_Current: {
-    Generic: アメリカ中部時間,
-    Standard: アメリカ中部標準時,
-    Daylight: アメリカ中部夏時間
+  America/Barbados: {
+    Generic: 大西洋時間,
+    Standard: 大西洋標準時,
+    Daylight: 大西洋夏時間
   },
-  Atlantic/Cape_Verde: {
-    Generic: カーボベルデ時間,
-    Standard: カーボベルデ標準時,
-    Daylight: カーボベルデ夏時間
-  },
-  Etc/GMT+1: {
-    Generic: 協定世界時 -1,
-    Standard: 協定世界時 -1,
-    Daylight: 協定世界時 -1
-  },
-  Asia/Yerevan: {
-    Generic: アルメニア時間,
-    Standard: アルメニア標準時,
-    Daylight: アルメニア夏時間
-  },
-  Australia/Adelaide: {
-    Generic: オーストラリア中部時間,
-    Standard: オーストラリア中部標準時,
-    Daylight: オーストラリア中部夏時間
-  },
-  Australia/Broken_Hill: {
-    Generic: オーストラリア中部時間,
-    Standard: オーストラリア中部標準時,
-    Daylight: オーストラリア中部夏時間
-  },
-  America/Guatemala: {
-    Generic: アメリカ中部時間,
-    Standard: アメリカ中部標準時,
-    Daylight: アメリカ中部夏時間
+  America/Belem: {
+    Generic: ブラジリア時間,
+    Standard: ブラジリア標準時,
+    Daylight: ブラジリア夏時間
   },
   America/Belize: {
     Generic: アメリカ中部時間,
     Standard: アメリカ中部標準時,
     Daylight: アメリカ中部夏時間
   },
-  America/Costa_Rica: {
-    Generic: アメリカ中部時間,
-    Standard: アメリカ中部標準時,
-    Daylight: アメリカ中部夏時間
+  America/Blanc-Sablon: {
+    Generic: 大西洋時間,
+    Standard: 大西洋標準時,
+    Daylight: 大西洋夏時間
   },
-  Pacific/Galapagos: {
-    Generic: ガラパゴス時間,
-    Standard: ガラパゴス時間,
-    Daylight: ガラパゴス時間
-  },
-  America/Tegucigalpa: {
-    Generic: アメリカ中部時間,
-    Standard: アメリカ中部標準時,
-    Daylight: アメリカ中部夏時間
-  },
-  America/Managua: {
-    Generic: アメリカ中部時間,
-    Standard: アメリカ中部標準時,
-    Daylight: アメリカ中部夏時間
-  },
-  America/El_Salvador: {
-    Generic: アメリカ中部時間,
-    Standard: アメリカ中部標準時,
-    Daylight: アメリカ中部夏時間
-  },
-  Etc/GMT+6: {
-    Generic: 協定世界時 -6,
-    Standard: 協定世界時 -6,
-    Daylight: 協定世界時 -6
-  },
-  Asia/Almaty: {
-    Generic: 東カザフスタン時間,
-    Standard: 東カザフスタン時間,
-    Daylight: 東カザフスタン時間
-  },
-  Antarctica/Vostok: {
-    Generic: ボストーク基地時間,
-    Standard: ボストーク基地時間,
-    Daylight: ボストーク基地時間
-  },
-  Asia/Urumqi: {
-    Generic: 中国時間,
-    Standard: 中国標準時,
-    Daylight: 中国夏時間
-  },
-  Indian/Chagos: {
-    Generic: インド洋時間,
-    Standard: インド洋時間,
-    Daylight: インド洋時間
-  },
-  Asia/Bishkek: {
-    Generic: キルギス時間,
-    Standard: キルギス時間,
-    Daylight: キルギス時間
-  },
-  Asia/Qostanay: {
-    Generic: 東カザフスタン時間,
-    Standard: 東カザフスタン時間,
-    Daylight: 東カザフスタン時間
-  },
-  Etc/GMT-6: {
-    Generic: 協定世界時 +6,
-    Standard: 協定世界時 +6,
-    Daylight: 協定世界時 +6
-  },
-  America/Cuiaba: {
+  America/Boa_Vista: {
     Generic: アマゾン時間,
     Standard: アマゾン標準時,
     Daylight: アマゾン夏時間
+  },
+  America/Bogota: {
+    Generic: コロンビア時間,
+    Standard: コロンビア標準時,
+    Daylight: コロンビア夏時間
+  },
+  America/Boise: {
+    Generic: アメリカ山地時間,
+    Standard: アメリカ山地標準時,
+    Daylight: アメリカ山地夏時間
+  },
+  America/Buenos_Aires: {
+    Generic: アルゼンチン時間,
+    Standard: アルゼンチン標準時,
+    Daylight: アルゼンチン夏時間
+  },
+  America/Cambridge_Bay: {
+    Generic: アメリカ山地時間,
+    Standard: アメリカ山地標準時,
+    Daylight: アメリカ山地夏時間
   },
   America/Campo_Grande: {
     Generic: アマゾン時間,
     Standard: アマゾン標準時,
     Daylight: アマゾン夏時間
   },
-  Europe/Budapest: {
-    Generic: 中央ヨーロッパ時間,
-    Standard: 中央ヨーロッパ標準時,
-    Daylight: 中央ヨーロッパ夏時間
+  America/Cancun: {
+    Generic: アメリカ東部時間,
+    Standard: アメリカ東部標準時,
+    Daylight: アメリカ東部夏時間
   },
-  Europe/Tirane: {
-    Generic: 中央ヨーロッパ時間,
-    Standard: 中央ヨーロッパ標準時,
-    Daylight: 中央ヨーロッパ夏時間
+  America/Caracas: {
+    Generic: ベネズエラ時間,
+    Standard: ベネズエラ時間,
+    Daylight: ベネズエラ時間
   },
-  Europe/Prague: {
-    Generic: 中央ヨーロッパ時間,
-    Standard: 中央ヨーロッパ標準時,
-    Daylight: 中央ヨーロッパ夏時間
+  America/Catamarca: {
+    Generic: アルゼンチン時間,
+    Standard: アルゼンチン標準時,
+    Daylight: アルゼンチン夏時間
   },
-  Europe/Podgorica: {
-    Generic: 中央ヨーロッパ時間,
-    Standard: 中央ヨーロッパ標準時,
-    Daylight: 中央ヨーロッパ夏時間
+  America/Cayenne: {
+    Generic: 仏領ギアナ時間,
+    Standard: 仏領ギアナ時間,
+    Daylight: 仏領ギアナ時間
   },
-  Europe/Belgrade: {
-    Generic: 中央ヨーロッパ時間,
-    Standard: 中央ヨーロッパ標準時,
-    Daylight: 中央ヨーロッパ夏時間
+  America/Cayman: {
+    Generic: アメリカ東部時間,
+    Standard: アメリカ東部標準時,
+    Daylight: アメリカ東部夏時間
   },
-  Europe/Ljubljana: {
-    Generic: 中央ヨーロッパ時間,
-    Standard: 中央ヨーロッパ標準時,
-    Daylight: 中央ヨーロッパ夏時間
-  },
-  Europe/Bratislava: {
-    Generic: 中央ヨーロッパ時間,
-    Standard: 中央ヨーロッパ標準時,
-    Daylight: 中央ヨーロッパ夏時間
-  },
-  Europe/Warsaw: {
-    Generic: 中央ヨーロッパ時間,
-    Standard: 中央ヨーロッパ標準時,
-    Daylight: 中央ヨーロッパ夏時間
-  },
-  Europe/Sarajevo: {
-    Generic: 中央ヨーロッパ時間,
-    Standard: 中央ヨーロッパ標準時,
-    Daylight: 中央ヨーロッパ夏時間
-  },
-  Europe/Zagreb: {
-    Generic: 中央ヨーロッパ時間,
-    Standard: 中央ヨーロッパ標準時,
-    Daylight: 中央ヨーロッパ夏時間
-  },
-  Europe/Skopje: {
-    Generic: 中央ヨーロッパ時間,
-    Standard: 中央ヨーロッパ標準時,
-    Daylight: 中央ヨーロッパ夏時間
-  },
-  Pacific/Guadalcanal: {
-    Generic: ソロモン諸島時間,
-    Standard: ソロモン諸島時間,
-    Daylight: ソロモン諸島時間
-  },
-  Antarctica/Casey: {
-    Generic: ケイシー基地時間,
-    Standard: ケイシー基地時間,
-    Daylight: ケイシー基地時間
-  },
-  Pacific/Ponape: {
-    Generic: ポナペ時間,
-    Standard: ポナペ時間,
-    Daylight: ポナペ時間
-  },
-  Pacific/Kosrae: {
-    Generic: コスラエ時間,
-    Standard: コスラエ時間,
-    Daylight: コスラエ時間
-  },
-  Pacific/Noumea: {
-    Generic: ニューカレドニア時間,
-    Standard: ニューカレドニア標準時,
-    Daylight: ニューカレドニア夏時間
-  },
-  Pacific/Efate: {
-    Generic: バヌアツ時間,
-    Standard: バヌアツ標準時,
-    Daylight: バヌアツ夏時間
-  },
-  Etc/GMT-11: {
-    Generic: 協定世界時 +11,
-    Standard: 協定世界時 +11,
-    Daylight: 協定世界時 +11
-  },
-  America/Mexico_City: {
+  America/Chicago: {
     Generic: アメリカ中部時間,
     Standard: アメリカ中部標準時,
     Daylight: アメリカ中部夏時間
   },
-  America/Bahia_Banderas: {
+  America/Chihuahua: {
+    Generic: メキシコ太平洋時間,
+    Standard: メキシコ太平洋標準時,
+    Daylight: メキシコ太平洋夏時間
+  },
+  America/Coral_Harbour: {
+    Generic: アメリカ東部時間,
+    Standard: アメリカ東部標準時,
+    Daylight: アメリカ東部夏時間
+  },
+  America/Cordoba: {
+    Generic: アルゼンチン時間,
+    Standard: アルゼンチン標準時,
+    Daylight: アルゼンチン夏時間
+  },
+  America/Costa_Rica: {
+    Generic: アメリカ中部時間,
+    Standard: アメリカ中部標準時,
+    Daylight: アメリカ中部夏時間
+  },
+  America/Creston: {
+    Generic: アメリカ山地時間,
+    Standard: アメリカ山地標準時,
+    Daylight: アメリカ山地夏時間
+  },
+  America/Cuiaba: {
+    Generic: アマゾン時間,
+    Standard: アマゾン標準時,
+    Daylight: アマゾン夏時間
+  },
+  America/Curacao: {
+    Generic: 大西洋時間,
+    Standard: 大西洋標準時,
+    Daylight: 大西洋夏時間
+  },
+  America/Danmarkshavn: {
+    Generic: グリニッジ標準時,
+    Standard: グリニッジ標準時,
+    Daylight: グリニッジ標準時
+  },
+  America/Dawson: {
+    Generic: ユーコン時間,
+    Standard: ユーコン時間,
+    Daylight: ユーコン時間
+  },
+  America/Dawson_Creek: {
+    Generic: アメリカ山地時間,
+    Standard: アメリカ山地標準時,
+    Daylight: アメリカ山地夏時間
+  },
+  America/Denver: {
+    Generic: アメリカ山地時間,
+    Standard: アメリカ山地標準時,
+    Daylight: アメリカ山地夏時間
+  },
+  America/Detroit: {
+    Generic: アメリカ東部時間,
+    Standard: アメリカ東部標準時,
+    Daylight: アメリカ東部夏時間
+  },
+  America/Dominica: {
+    Generic: 大西洋時間,
+    Standard: 大西洋標準時,
+    Daylight: 大西洋夏時間
+  },
+  America/Edmonton: {
+    Generic: アメリカ山地時間,
+    Standard: アメリカ山地標準時,
+    Daylight: アメリカ山地夏時間
+  },
+  America/Eirunepe: {
+    Generic: アクレ時間,
+    Standard: アクレ標準時,
+    Daylight: アクレ夏時間
+  },
+  America/El_Salvador: {
+    Generic: アメリカ中部時間,
+    Standard: アメリカ中部標準時,
+    Daylight: アメリカ中部夏時間
+  },
+  America/Ensenada: {
+    Generic: アメリカ太平洋時間,
+    Standard: アメリカ太平洋標準時,
+    Daylight: アメリカ太平洋夏時間
+  },
+  America/Fort_Nelson: {
+    Generic: アメリカ山地時間,
+    Standard: アメリカ山地標準時,
+    Daylight: アメリカ山地夏時間
+  },
+  America/Fort_Wayne: {
+    Generic: アメリカ東部時間,
+    Standard: アメリカ東部標準時,
+    Daylight: アメリカ東部夏時間
+  },
+  America/Fortaleza: {
+    Generic: ブラジリア時間,
+    Standard: ブラジリア標準時,
+    Daylight: ブラジリア夏時間
+  },
+  America/Glace_Bay: {
+    Generic: 大西洋時間,
+    Standard: 大西洋標準時,
+    Daylight: 大西洋夏時間
+  },
+  America/Godthab: {
+    Generic: グリーンランド西部時間,
+    Standard: グリーンランド西部標準時,
+    Daylight: グリーンランド西部夏時間
+  },
+  America/Goose_Bay: {
+    Generic: 大西洋時間,
+    Standard: 大西洋標準時,
+    Daylight: 大西洋夏時間
+  },
+  America/Grand_Turk: {
+    Generic: アメリカ東部時間,
+    Standard: アメリカ東部標準時,
+    Daylight: アメリカ東部夏時間
+  },
+  America/Grenada: {
+    Generic: 大西洋時間,
+    Standard: 大西洋標準時,
+    Daylight: 大西洋夏時間
+  },
+  America/Guadeloupe: {
+    Generic: 大西洋時間,
+    Standard: 大西洋標準時,
+    Daylight: 大西洋夏時間
+  },
+  America/Guatemala: {
+    Generic: アメリカ中部時間,
+    Standard: アメリカ中部標準時,
+    Daylight: アメリカ中部夏時間
+  },
+  America/Guayaquil: {
+    Generic: エクアドル時間,
+    Standard: エクアドル時間,
+    Daylight: エクアドル時間
+  },
+  America/Guyana: {
+    Generic: ガイアナ時間,
+    Standard: ガイアナ時間,
+    Daylight: ガイアナ時間
+  },
+  America/Halifax: {
+    Generic: 大西洋時間,
+    Standard: 大西洋標準時,
+    Daylight: 大西洋夏時間
+  },
+  America/Havana: {
+    Generic: キューバ時間,
+    Standard: キューバ標準時,
+    Daylight: キューバ夏時間
+  },
+  America/Hermosillo: {
+    Generic: メキシコ太平洋時間,
+    Standard: メキシコ太平洋標準時,
+    Daylight: メキシコ太平洋夏時間
+  },
+  America/Indiana/Indianapolis: {
+    Generic: アメリカ東部時間,
+    Standard: アメリカ東部標準時,
+    Daylight: アメリカ東部夏時間
+  },
+  America/Indiana/Knox: {
+    Generic: アメリカ中部時間,
+    Standard: アメリカ中部標準時,
+    Daylight: アメリカ中部夏時間
+  },
+  America/Indiana/Marengo: {
+    Generic: アメリカ東部時間,
+    Standard: アメリカ東部標準時,
+    Daylight: アメリカ東部夏時間
+  },
+  America/Indiana/Petersburg: {
+    Generic: アメリカ東部時間,
+    Standard: アメリカ東部標準時,
+    Daylight: アメリカ東部夏時間
+  },
+  America/Indiana/Tell_City: {
+    Generic: アメリカ中部時間,
+    Standard: アメリカ中部標準時,
+    Daylight: アメリカ中部夏時間
+  },
+  America/Indiana/Vevay: {
+    Generic: アメリカ東部時間,
+    Standard: アメリカ東部標準時,
+    Daylight: アメリカ東部夏時間
+  },
+  America/Indiana/Vincennes: {
+    Generic: アメリカ東部時間,
+    Standard: アメリカ東部標準時,
+    Daylight: アメリカ東部夏時間
+  },
+  America/Indiana/Winamac: {
+    Generic: アメリカ東部時間,
+    Standard: アメリカ東部標準時,
+    Daylight: アメリカ東部夏時間
+  },
+  America/Indianapolis: {
+    Generic: アメリカ東部時間,
+    Standard: アメリカ東部標準時,
+    Daylight: アメリカ東部夏時間
+  },
+  America/Inuvik: {
+    Generic: アメリカ山地時間,
+    Standard: アメリカ山地標準時,
+    Daylight: アメリカ山地夏時間
+  },
+  America/Iqaluit: {
+    Generic: アメリカ東部時間,
+    Standard: アメリカ東部標準時,
+    Daylight: アメリカ東部夏時間
+  },
+  America/Jamaica: {
+    Generic: アメリカ東部時間,
+    Standard: アメリカ東部標準時,
+    Daylight: アメリカ東部夏時間
+  },
+  America/Jujuy: {
+    Generic: アルゼンチン時間,
+    Standard: アルゼンチン標準時,
+    Daylight: アルゼンチン夏時間
+  },
+  America/Juneau: {
+    Generic: アラスカ時間,
+    Standard: アラスカ標準時,
+    Daylight: アラスカ夏時間
+  },
+  America/Kentucky/Louisville: {
+    Generic: アメリカ東部時間,
+    Standard: アメリカ東部標準時,
+    Daylight: アメリカ東部夏時間
+  },
+  America/Kentucky/Monticello: {
+    Generic: アメリカ東部時間,
+    Standard: アメリカ東部標準時,
+    Daylight: アメリカ東部夏時間
+  },
+  America/Knox_IN: {
+    Generic: アメリカ中部時間,
+    Standard: アメリカ中部標準時,
+    Daylight: アメリカ中部夏時間
+  },
+  America/Kralendijk: {
+    Generic: 大西洋時間,
+    Standard: 大西洋標準時,
+    Daylight: 大西洋夏時間
+  },
+  America/La_Paz: {
+    Generic: ボリビア時間,
+    Standard: ボリビア時間,
+    Daylight: ボリビア時間
+  },
+  America/Lima: {
+    Generic: ペルー時間,
+    Standard: ペルー標準時,
+    Daylight: ペルー夏時間
+  },
+  America/Los_Angeles: {
+    Generic: アメリカ太平洋時間,
+    Standard: アメリカ太平洋標準時,
+    Daylight: アメリカ太平洋夏時間
+  },
+  America/Louisville: {
+    Generic: アメリカ東部時間,
+    Standard: アメリカ東部標準時,
+    Daylight: アメリカ東部夏時間
+  },
+  America/Lower_Princes: {
+    Generic: 大西洋時間,
+    Standard: 大西洋標準時,
+    Daylight: 大西洋夏時間
+  },
+  America/Maceio: {
+    Generic: ブラジリア時間,
+    Standard: ブラジリア標準時,
+    Daylight: ブラジリア夏時間
+  },
+  America/Managua: {
+    Generic: アメリカ中部時間,
+    Standard: アメリカ中部標準時,
+    Daylight: アメリカ中部夏時間
+  },
+  America/Manaus: {
+    Generic: アマゾン時間,
+    Standard: アマゾン標準時,
+    Daylight: アマゾン夏時間
+  },
+  America/Marigot: {
+    Generic: 大西洋時間,
+    Standard: 大西洋標準時,
+    Daylight: 大西洋夏時間
+  },
+  America/Martinique: {
+    Generic: 大西洋時間,
+    Standard: 大西洋標準時,
+    Daylight: 大西洋夏時間
+  },
+  America/Matamoros: {
+    Generic: アメリカ中部時間,
+    Standard: アメリカ中部標準時,
+    Daylight: アメリカ中部夏時間
+  },
+  America/Mazatlan: {
+    Generic: メキシコ太平洋時間,
+    Standard: メキシコ太平洋標準時,
+    Daylight: メキシコ太平洋夏時間
+  },
+  America/Mendoza: {
+    Generic: アルゼンチン時間,
+    Standard: アルゼンチン標準時,
+    Daylight: アルゼンチン夏時間
+  },
+  America/Menominee: {
     Generic: アメリカ中部時間,
     Standard: アメリカ中部標準時,
     Daylight: アメリカ中部夏時間
@@ -474,55 +794,70 @@
     Standard: アメリカ中部標準時,
     Daylight: アメリカ中部夏時間
   },
+  America/Metlakatla: {
+    Generic: アラスカ時間,
+    Standard: アラスカ標準時,
+    Daylight: アラスカ夏時間
+  },
+  America/Mexico_City: {
+    Generic: アメリカ中部時間,
+    Standard: アメリカ中部標準時,
+    Daylight: アメリカ中部夏時間
+  },
+  America/Miquelon: {
+    Generic: サンピエール島・ミクロン島時間,
+    Standard: サンピエール島・ミクロン島標準時,
+    Daylight: サンピエール島・ミクロン島夏時間
+  },
+  America/Moncton: {
+    Generic: 大西洋時間,
+    Standard: 大西洋標準時,
+    Daylight: 大西洋夏時間
+  },
   America/Monterrey: {
     Generic: アメリカ中部時間,
     Standard: アメリカ中部標準時,
     Daylight: アメリカ中部夏時間
   },
-  America/Chicago: {
-    Generic: アメリカ中部時間,
-    Standard: アメリカ中部標準時,
-    Daylight: アメリカ中部夏時間
+  America/Montevideo: {
+    Generic: ウルグアイ時間,
+    Standard: ウルグアイ標準時,
+    Daylight: ウルグアイ夏時間
   },
-  America/Winnipeg: {
-    Generic: アメリカ中部時間,
-    Standard: アメリカ中部標準時,
-    Daylight: アメリカ中部夏時間
+  America/Montreal: {
+    Generic: アメリカ東部時間,
+    Standard: アメリカ東部標準時,
+    Daylight: アメリカ東部夏時間
   },
-  America/Rainy_River: {
-    Generic: アメリカ中部時間,
-    Standard: アメリカ中部標準時,
-    Daylight: アメリカ中部夏時間
+  America/Montserrat: {
+    Generic: 大西洋時間,
+    Standard: 大西洋標準時,
+    Daylight: 大西洋夏時間
   },
-  America/Rankin_Inlet: {
-    Generic: アメリカ中部時間,
-    Standard: アメリカ中部標準時,
-    Daylight: アメリカ中部夏時間
+  America/Nassau: {
+    Generic: アメリカ東部時間,
+    Standard: アメリカ東部標準時,
+    Daylight: アメリカ東部夏時間
   },
-  America/Resolute: {
-    Generic: アメリカ中部時間,
-    Standard: アメリカ中部標準時,
-    Daylight: アメリカ中部夏時間
+  America/New_York: {
+    Generic: アメリカ東部時間,
+    Standard: アメリカ東部標準時,
+    Daylight: アメリカ東部夏時間
   },
-  America/Matamoros: {
-    Generic: アメリカ中部時間,
-    Standard: アメリカ中部標準時,
-    Daylight: アメリカ中部夏時間
+  America/Nipigon: {
+    Generic: アメリカ東部時間,
+    Standard: アメリカ東部標準時,
+    Daylight: アメリカ東部夏時間
   },
-  America/Indiana/Knox: {
-    Generic: アメリカ中部時間,
-    Standard: アメリカ中部標準時,
-    Daylight: アメリカ中部夏時間
+  America/Nome: {
+    Generic: アラスカ時間,
+    Standard: アラスカ標準時,
+    Daylight: アラスカ夏時間
   },
-  America/Indiana/Tell_City: {
-    Generic: アメリカ中部時間,
-    Standard: アメリカ中部標準時,
-    Daylight: アメリカ中部夏時間
-  },
-  America/Menominee: {
-    Generic: アメリカ中部時間,
-    Standard: アメリカ中部標準時,
-    Daylight: アメリカ中部夏時間
+  America/Noronha: {
+    Generic: フェルナンド・デ・ノローニャ時間,
+    Standard: フェルナンド・デ・ノローニャ標準時,
+    Daylight: フェルナンド・デ・ノローニャ夏時間
   },
   America/North_Dakota/Beulah: {
     Generic: アメリカ中部時間,
@@ -539,157 +874,17 @@
     Standard: アメリカ中部標準時,
     Daylight: アメリカ中部夏時間
   },
-  CST6CDT: {
-    Generic: アメリカ中部時間,
-    Standard: アメリカ中部標準時,
-    Daylight: アメリカ中部夏時間
+  America/Nuuk: {
+    Generic: グリーンランド西部時間,
+    Standard: グリーンランド西部標準時,
+    Daylight: グリーンランド西部夏時間
   },
-  Pacific/Chatham: {
-    Generic: チャタム時間,
-    Standard: チャタム標準時,
-    Daylight: チャタム夏時間
+  America/Ojinaga: {
+    Generic: アメリカ山地時間,
+    Standard: アメリカ山地標準時,
+    Daylight: アメリカ山地夏時間
   },
-  Asia/Shanghai: {
-    Generic: 中国時間,
-    Standard: 中国標準時,
-    Daylight: 中国夏時間
-  },
-  Asia/Hong_Kong: {
-    Generic: 香港時間,
-    Standard: 香港標準時,
-    Daylight: 香港夏時間
-  },
-  Asia/Macau: {
-    Generic: 中国時間,
-    Standard: 中国標準時,
-    Daylight: 中国夏時間
-  },
-  America/Havana: {
-    Generic: キューバ時間,
-    Standard: キューバ標準時,
-    Daylight: キューバ夏時間
-  },
-  Etc/GMT+12: {
-    Generic: 協定世界時 -12,
-    Standard: 協定世界時 -12,
-    Daylight: 協定世界時 -12
-  },
-  Africa/Nairobi: {
-    Generic: 東アフリカ時間,
-    Standard: 東アフリカ時間,
-    Daylight: 東アフリカ時間
-  },
-  Antarctica/Syowa: {
-    Generic: 昭和基地時間,
-    Standard: 昭和基地時間,
-    Daylight: 昭和基地時間
-  },
-  Africa/Djibouti: {
-    Generic: 東アフリカ時間,
-    Standard: 東アフリカ時間,
-    Daylight: 東アフリカ時間
-  },
-  Africa/Asmera: {
-    Generic: 東アフリカ時間,
-    Standard: 東アフリカ時間,
-    Daylight: 東アフリカ時間
-  },
-  Africa/Addis_Ababa: {
-    Generic: 東アフリカ時間,
-    Standard: 東アフリカ時間,
-    Daylight: 東アフリカ時間
-  },
-  Indian/Comoro: {
-    Generic: 東アフリカ時間,
-    Standard: 東アフリカ時間,
-    Daylight: 東アフリカ時間
-  },
-  Indian/Antananarivo: {
-    Generic: 東アフリカ時間,
-    Standard: 東アフリカ時間,
-    Daylight: 東アフリカ時間
-  },
-  Africa/Mogadishu: {
-    Generic: 東アフリカ時間,
-    Standard: 東アフリカ時間,
-    Daylight: 東アフリカ時間
-  },
-  Africa/Dar_es_Salaam: {
-    Generic: 東アフリカ時間,
-    Standard: 東アフリカ時間,
-    Daylight: 東アフリカ時間
-  },
-  Africa/Kampala: {
-    Generic: 東アフリカ時間,
-    Standard: 東アフリカ時間,
-    Daylight: 東アフリカ時間
-  },
-  Indian/Mayotte: {
-    Generic: 東アフリカ時間,
-    Standard: 東アフリカ時間,
-    Daylight: 東アフリカ時間
-  },
-  Etc/GMT-3: {
-    Generic: 協定世界時 +3,
-    Standard: 協定世界時 +3,
-    Daylight: 協定世界時 +3
-  },
-  Australia/Brisbane: {
-    Generic: オーストラリア東部時間,
-    Standard: オーストラリア東部標準時,
-    Daylight: オーストラリア東部夏時間
-  },
-  Australia/Lindeman: {
-    Generic: オーストラリア東部時間,
-    Standard: オーストラリア東部標準時,
-    Daylight: オーストラリア東部夏時間
-  },
-  Europe/Chisinau: {
-    Generic: 東ヨーロッパ時間,
-    Standard: 東ヨーロッパ標準時,
-    Daylight: 東ヨーロッパ夏時間
-  },
-  America/Sao_Paulo: {
-    Generic: ブラジリア時間,
-    Standard: ブラジリア標準時,
-    Daylight: ブラジリア夏時間
-  },
-  Pacific/Easter: {
-    Generic: イースター島時間,
-    Standard: イースター島標準時,
-    Daylight: イースター島夏時間
-  },
-  America/Cancun: {
-    Generic: アメリカ東部時間,
-    Standard: アメリカ東部標準時,
-    Daylight: アメリカ東部夏時間
-  },
-  America/New_York: {
-    Generic: アメリカ東部時間,
-    Standard: アメリカ東部標準時,
-    Daylight: アメリカ東部夏時間
-  },
-  America/Nassau: {
-    Generic: アメリカ東部時間,
-    Standard: アメリカ東部標準時,
-    Daylight: アメリカ東部夏時間
-  },
-  America/Toronto: {
-    Generic: アメリカ東部時間,
-    Standard: アメリカ東部標準時,
-    Daylight: アメリカ東部夏時間
-  },
-  America/Iqaluit: {
-    Generic: アメリカ東部時間,
-    Standard: アメリカ東部標準時,
-    Daylight: アメリカ東部夏時間
-  },
-  America/Montreal: {
-    Generic: アメリカ東部時間,
-    Standard: アメリカ東部標準時,
-    Daylight: アメリカ東部夏時間
-  },
-  America/Nipigon: {
+  America/Panama: {
     Generic: アメリカ東部時間,
     Standard: アメリカ東部標準時,
     Daylight: アメリカ東部夏時間
@@ -699,800 +894,130 @@
     Standard: アメリカ東部標準時,
     Daylight: アメリカ東部夏時間
   },
-  America/Thunder_Bay: {
-    Generic: アメリカ東部時間,
-    Standard: アメリカ東部標準時,
-    Daylight: アメリカ東部夏時間
+  America/Paramaribo: {
+    Generic: スリナム時間,
+    Standard: スリナム時間,
+    Daylight: スリナム時間
   },
-  America/Detroit: {
-    Generic: アメリカ東部時間,
-    Standard: アメリカ東部標準時,
-    Daylight: アメリカ東部夏時間
-  },
-  America/Indiana/Petersburg: {
-    Generic: アメリカ東部時間,
-    Standard: アメリカ東部標準時,
-    Daylight: アメリカ東部夏時間
-  },
-  America/Indiana/Vincennes: {
-    Generic: アメリカ東部時間,
-    Standard: アメリカ東部標準時,
-    Daylight: アメリカ東部夏時間
-  },
-  America/Indiana/Winamac: {
-    Generic: アメリカ東部時間,
-    Standard: アメリカ東部標準時,
-    Daylight: アメリカ東部夏時間
-  },
-  America/Kentucky/Monticello: {
-    Generic: アメリカ東部時間,
-    Standard: アメリカ東部標準時,
-    Daylight: アメリカ東部夏時間
-  },
-  America/Louisville: {
-    Generic: アメリカ東部時間,
-    Standard: アメリカ東部標準時,
-    Daylight: アメリカ東部夏時間
-  },
-  EST5EDT: {
-    Generic: アメリカ東部時間,
-    Standard: アメリカ東部標準時,
-    Daylight: アメリカ東部夏時間
-  },
-  Africa/Cairo: {
-    Generic: 東ヨーロッパ時間,
-    Standard: 東ヨーロッパ標準時,
-    Daylight: 東ヨーロッパ夏時間
-  },
-  Asia/Yekaterinburg: {
-    Generic: エカテリンブルグ時間,
-    Standard: エカテリンブルグ標準時,
-    Daylight: エカテリンブルグ夏時間
-  },
-  Europe/Kiev: {
-    Generic: 東ヨーロッパ時間,
-    Standard: 東ヨーロッパ標準時,
-    Daylight: 東ヨーロッパ夏時間
-  },
-  Europe/Mariehamn: {
-    Generic: 東ヨーロッパ時間,
-    Standard: 東ヨーロッパ標準時,
-    Daylight: 東ヨーロッパ夏時間
-  },
-  Europe/Sofia: {
-    Generic: 東ヨーロッパ時間,
-    Standard: 東ヨーロッパ標準時,
-    Daylight: 東ヨーロッパ夏時間
-  },
-  Europe/Tallinn: {
-    Generic: 東ヨーロッパ時間,
-    Standard: 東ヨーロッパ標準時,
-    Daylight: 東ヨーロッパ夏時間
-  },
-  Europe/Helsinki: {
-    Generic: 東ヨーロッパ時間,
-    Standard: 東ヨーロッパ標準時,
-    Daylight: 東ヨーロッパ夏時間
-  },
-  Europe/Vilnius: {
-    Generic: 東ヨーロッパ時間,
-    Standard: 東ヨーロッパ標準時,
-    Daylight: 東ヨーロッパ夏時間
-  },
-  Europe/Riga: {
-    Generic: 東ヨーロッパ時間,
-    Standard: 東ヨーロッパ標準時,
-    Daylight: 東ヨーロッパ夏時間
-  },
-  Europe/Uzhgorod: {
-    Generic: 東ヨーロッパ時間,
-    Standard: 東ヨーロッパ標準時,
-    Daylight: 東ヨーロッパ夏時間
-  },
-  Europe/Zaporozhye: {
-    Generic: 東ヨーロッパ時間,
-    Standard: 東ヨーロッパ標準時,
-    Daylight: 東ヨーロッパ夏時間
-  },
-  Pacific/Fiji: {
-    Generic: フィジー時間,
-    Standard: フィジー標準時,
-    Daylight: フィジー夏時間
-  },
-  Europe/London: {
-    Generic: イギリス時間,
-    Standard: グリニッジ標準時,
-    Daylight: 英国夏時間
-  },
-  Atlantic/Canary: {
-    Generic: 西ヨーロッパ時間,
-    Standard: 西ヨーロッパ標準時,
-    Daylight: 西ヨーロッパ夏時間
-  },
-  Atlantic/Faeroe: {
-    Generic: 西ヨーロッパ時間,
-    Standard: 西ヨーロッパ標準時,
-    Daylight: 西ヨーロッパ夏時間
-  },
-  Europe/Guernsey: {
-    Generic: グリニッジ標準時,
-    Standard: グリニッジ標準時,
-    Daylight: グリニッジ標準時
-  },
-  Europe/Dublin: {
-    Generic: アイルランド時間,
-    Standard: グリニッジ標準時,
-    Daylight: アイルランド標準時
-  },
-  Europe/Isle_of_Man: {
-    Generic: グリニッジ標準時,
-    Standard: グリニッジ標準時,
-    Daylight: グリニッジ標準時
-  },
-  Europe/Jersey: {
-    Generic: グリニッジ標準時,
-    Standard: グリニッジ標準時,
-    Daylight: グリニッジ標準時
-  },
-  Europe/Lisbon: {
-    Generic: 西ヨーロッパ時間,
-    Standard: 西ヨーロッパ標準時,
-    Daylight: 西ヨーロッパ夏時間
-  },
-  Atlantic/Madeira: {
-    Generic: 西ヨーロッパ時間,
-    Standard: 西ヨーロッパ標準時,
-    Daylight: 西ヨーロッパ夏時間
-  },
-  Europe/Bucharest: {
-    Generic: 東ヨーロッパ時間,
-    Standard: 東ヨーロッパ標準時,
-    Daylight: 東ヨーロッパ夏時間
-  },
-  Asia/Nicosia: {
-    Generic: 東ヨーロッパ時間,
-    Standard: 東ヨーロッパ標準時,
-    Daylight: 東ヨーロッパ夏時間
-  },
-  Asia/Famagusta: {
-    Generic: 東ヨーロッパ時間,
-    Standard: 東ヨーロッパ標準時,
-    Daylight: 東ヨーロッパ夏時間
-  },
-  Europe/Athens: {
-    Generic: 東ヨーロッパ時間,
-    Standard: 東ヨーロッパ標準時,
-    Daylight: 東ヨーロッパ夏時間
-  },
-  Asia/Tbilisi: {
-    Generic: ジョージア時間,
-    Standard: ジョージア標準時,
-    Daylight: ジョージア夏時間
-  },
-  America/Godthab: {
-    Generic: グリーンランド西部時間,
-    Standard: グリーンランド西部標準時,
-    Daylight: グリーンランド西部夏時間
-  },
-  Atlantic/Reykjavik: {
-    Generic: グリニッジ標準時,
-    Standard: グリニッジ標準時,
-    Daylight: グリニッジ標準時
-  },
-  Atlantic/St_Helena: {
-    Generic: グリニッジ標準時,
-    Standard: グリニッジ標準時,
-    Daylight: グリニッジ標準時
-  },
-  Africa/Ouagadougou: {
-    Generic: グリニッジ標準時,
-    Standard: グリニッジ標準時,
-    Daylight: グリニッジ標準時
-  },
-  Africa/Abidjan: {
-    Generic: グリニッジ標準時,
-    Standard: グリニッジ標準時,
-    Daylight: グリニッジ標準時
-  },
-  Africa/Accra: {
-    Generic: グリニッジ標準時,
-    Standard: グリニッジ標準時,
-    Daylight: グリニッジ標準時
-  },
-  America/Danmarkshavn: {
-    Generic: グリニッジ標準時,
-    Standard: グリニッジ標準時,
-    Daylight: グリニッジ標準時
-  },
-  Africa/Banjul: {
-    Generic: グリニッジ標準時,
-    Standard: グリニッジ標準時,
-    Daylight: グリニッジ標準時
-  },
-  Africa/Conakry: {
-    Generic: グリニッジ標準時,
-    Standard: グリニッジ標準時,
-    Daylight: グリニッジ標準時
-  },
-  Africa/Bissau: {
-    Generic: グリニッジ標準時,
-    Standard: グリニッジ標準時,
-    Daylight: グリニッジ標準時
-  },
-  Africa/Monrovia: {
-    Generic: グリニッジ標準時,
-    Standard: グリニッジ標準時,
-    Daylight: グリニッジ標準時
-  },
-  Africa/Bamako: {
-    Generic: グリニッジ標準時,
-    Standard: グリニッジ標準時,
-    Daylight: グリニッジ標準時
-  },
-  Africa/Nouakchott: {
-    Generic: グリニッジ標準時,
-    Standard: グリニッジ標準時,
-    Daylight: グリニッジ標準時
-  },
-  Africa/Freetown: {
-    Generic: グリニッジ標準時,
-    Standard: グリニッジ標準時,
-    Daylight: グリニッジ標準時
-  },
-  Africa/Dakar: {
-    Generic: グリニッジ標準時,
-    Standard: グリニッジ標準時,
-    Daylight: グリニッジ標準時
-  },
-  Africa/Lome: {
-    Generic: グリニッジ標準時,
-    Standard: グリニッジ標準時,
-    Daylight: グリニッジ標準時
+  America/Phoenix: {
+    Generic: アメリカ山地時間,
+    Standard: アメリカ山地標準時,
+    Daylight: アメリカ山地夏時間
   },
   America/Port-au-Prince: {
     Generic: アメリカ東部時間,
     Standard: アメリカ東部標準時,
     Daylight: アメリカ東部夏時間
   },
-  Pacific/Honolulu: {
-    Generic: ハワイ・アリューシャン時間,
-    Standard: ハワイ・アリューシャン標準時,
-    Daylight: ハワイ・アリューシャン夏時間
-  },
-  Pacific/Rarotonga: {
-    Generic: クック諸島時間,
-    Standard: クック諸島標準時,
-    Daylight: クック諸島夏時間
-  },
-  Pacific/Tahiti: {
-    Generic: タヒチ時間,
-    Standard: タヒチ時間,
-    Daylight: タヒチ時間
-  },
-  Pacific/Johnston: {
-    Generic: ハワイ・アリューシャン時間,
-    Standard: ハワイ・アリューシャン標準時,
-    Daylight: ハワイ・アリューシャン夏時間
-  },
-  Etc/GMT+10: {
-    Generic: 協定世界時 -10,
-    Standard: 協定世界時 -10,
-    Daylight: 協定世界時 -10
-  },
-  Asia/Calcutta: {
-    Generic: インド標準時,
-    Standard: インド標準時,
-    Daylight: インド標準時
-  },
-  Asia/Tehran: {
-    Generic: イラン時間,
-    Standard: イラン標準時,
-    Daylight: イラン夏時間
-  },
-  Asia/Jerusalem: {
-    Generic: イスラエル時間,
-    Standard: イスラエル標準時,
-    Daylight: イスラエル夏時間
-  },
-  Asia/Amman: {
-    Generic: 東ヨーロッパ時間,
-    Standard: 東ヨーロッパ標準時,
-    Daylight: 東ヨーロッパ夏時間
-  },
-  Europe/Kaliningrad: {
-    Generic: カリーニングラード時間,
-    Standard: カリーニングラード標準時,
-    Daylight: カリーニングラード夏時間
-  },
-  Asia/Seoul: {
-    Generic: 韓国時間,
-    Standard: 韓国標準時,
-    Daylight: 韓国夏時間
-  },
-  Africa/Tripoli: {
-    Generic: 東ヨーロッパ時間,
-    Standard: 東ヨーロッパ標準時,
-    Daylight: 東ヨーロッパ夏時間
-  },
-  Pacific/Kiritimati: {
-    Generic: ライン諸島時間,
-    Standard: ライン諸島時間,
-    Daylight: ライン諸島時間
-  },
-  Etc/GMT-14: {
-    Generic: 協定世界時 +14,
-    Standard: 協定世界時 +14,
-    Daylight: 協定世界時 +14
-  },
-  Australia/Lord_Howe: {
-    Generic: ロードハウ時間,
-    Standard: ロードハウ標準時,
-    Daylight: ロードハウ夏時間
-  },
-  Asia/Magadan: {
-    Generic: マガダン時間,
-    Standard: マガダン標準時,
-    Daylight: マガダン夏時間
-  },
-  America/Punta_Arenas: {
-    Generic: チリ時間,
-    Standard: チリ標準時,
-    Daylight: チリ夏時間
-  },
-  Pacific/Marquesas: {
-    Generic: マルキーズ時間,
-    Standard: マルキーズ時間,
-    Daylight: マルキーズ時間
-  },
-  Indian/Mauritius: {
-    Generic: モーリシャス時間,
-    Standard: モーリシャス標準時,
-    Daylight: モーリシャス夏時間
-  },
-  Indian/Reunion: {
-    Generic: レユニオン時間,
-    Standard: レユニオン時間,
-    Daylight: レユニオン時間
-  },
-  Indian/Mahe: {
-    Generic: セーシェル時間,
-    Standard: セーシェル時間,
-    Daylight: セーシェル時間
-  },
-  Asia/Beirut: {
-    Generic: 東ヨーロッパ時間,
-    Standard: 東ヨーロッパ標準時,
-    Daylight: 東ヨーロッパ夏時間
-  },
-  America/Montevideo: {
-    Generic: ウルグアイ時間,
-    Standard: ウルグアイ標準時,
-    Daylight: ウルグアイ夏時間
-  },
-  Africa/Casablanca: {
-    Generic: 西ヨーロッパ時間,
-    Standard: 西ヨーロッパ標準時,
-    Daylight: 西ヨーロッパ夏時間
-  },
-  Africa/El_Aaiun: {
-    Generic: 西ヨーロッパ時間,
-    Standard: 西ヨーロッパ標準時,
-    Daylight: 西ヨーロッパ夏時間
-  },
-  America/Chihuahua: {
-    Generic: メキシコ太平洋時間,
-    Standard: メキシコ太平洋標準時,
-    Daylight: メキシコ太平洋夏時間
-  },
-  America/Mazatlan: {
-    Generic: メキシコ太平洋時間,
-    Standard: メキシコ太平洋標準時,
-    Daylight: メキシコ太平洋夏時間
-  },
-  America/Denver: {
-    Generic: アメリカ山地時間,
-    Standard: アメリカ山地標準時,
-    Daylight: アメリカ山地夏時間
-  },
-  America/Edmonton: {
-    Generic: アメリカ山地時間,
-    Standard: アメリカ山地標準時,
-    Daylight: アメリカ山地夏時間
-  },
-  America/Cambridge_Bay: {
-    Generic: アメリカ山地時間,
-    Standard: アメリカ山地標準時,
-    Daylight: アメリカ山地夏時間
-  },
-  America/Inuvik: {
-    Generic: アメリカ山地時間,
-    Standard: アメリカ山地標準時,
-    Daylight: アメリカ山地夏時間
-  },
-  America/Yellowknife: {
-    Generic: アメリカ山地時間,
-    Standard: アメリカ山地標準時,
-    Daylight: アメリカ山地夏時間
-  },
-  America/Ojinaga: {
-    Generic: アメリカ山地時間,
-    Standard: アメリカ山地標準時,
-    Daylight: アメリカ山地夏時間
-  },
-  America/Boise: {
-    Generic: アメリカ山地時間,
-    Standard: アメリカ山地標準時,
-    Daylight: アメリカ山地夏時間
-  },
-  MST7MDT: {
-    Generic: アメリカ山地時間,
-    Standard: アメリカ山地標準時,
-    Daylight: アメリカ山地夏時間
-  },
-  Asia/Rangoon: {
-    Generic: ミャンマー時間,
-    Standard: ミャンマー時間,
-    Daylight: ミャンマー時間
-  },
-  Indian/Cocos: {
-    Generic: ココス諸島時間,
-    Standard: ココス諸島時間,
-    Daylight: ココス諸島時間
-  },
-  Asia/Novosibirsk: {
-    Generic: ノヴォシビルスク時間,
-    Standard: ノヴォシビルスク標準時,
-    Daylight: ノヴォシビルスク夏時間
-  },
-  Africa/Windhoek: {
-    Generic: 中央アフリカ時間,
-    Standard: 中央アフリカ時間,
-    Daylight: 中央アフリカ時間
-  },
-  Asia/Katmandu: {
-    Generic: ネパール時間,
-    Standard: ネパール時間,
-    Daylight: ネパール時間
-  },
-  Pacific/Auckland: {
-    Generic: ニュージーランド時間,
-    Standard: ニュージーランド標準時,
-    Daylight: ニュージーランド夏時間
-  },
-  Antarctica/McMurdo: {
-    Generic: ニュージーランド時間,
-    Standard: ニュージーランド標準時,
-    Daylight: ニュージーランド夏時間
-  },
-  America/St_Johns: {
-    Generic: ニューファンドランド時間,
-    Standard: ニューファンドランド標準時,
-    Daylight: ニューファンドランド夏時間
-  },
-  Pacific/Norfolk: {
-    Generic: ノーフォーク島時間,
-    Standard: ノーフォーク島標準時,
-    Daylight: ノーフォーク島夏時間
-  },
-  Asia/Irkutsk: {
-    Generic: イルクーツク時間,
-    Standard: イルクーツク標準時,
-    Daylight: イルクーツク夏時間
-  },
-  Asia/Krasnoyarsk: {
-    Generic: クラスノヤルスク時間,
-    Standard: クラスノヤルスク標準時,
-    Daylight: クラスノヤルスク夏時間
-  },
-  Asia/Novokuznetsk: {
-    Generic: ノヴォクズネツク時間,
-    Standard: ノヴォクズネツク標準時,
-    Daylight: ノヴォクズネツク夏時間
-  },
-  Asia/Pyongyang: {
-    Generic: 韓国時間,
-    Standard: 韓国標準時,
-    Daylight: 韓国夏時間
-  },
-  Asia/Omsk: {
-    Generic: オムスク時間,
-    Standard: オムスク標準時,
-    Daylight: オムスク夏時間
-  },
-  America/Santiago: {
-    Generic: チリ時間,
-    Standard: チリ標準時,
-    Daylight: チリ夏時間
-  },
-  America/Tijuana: {
-    Generic: アメリカ太平洋時間,
-    Standard: アメリカ太平洋標準時,
-    Daylight: アメリカ太平洋夏時間
-  },
-  America/Santa_Isabel: {
-    Generic: メキシコ北西部時間,
-    Standard: メキシコ北西部標準時,
-    Daylight: メキシコ北西部夏時間
-  },
-  America/Los_Angeles: {
-    Generic: アメリカ太平洋時間,
-    Standard: アメリカ太平洋標準時,
-    Daylight: アメリカ太平洋夏時間
-  },
-  America/Vancouver: {
-    Generic: アメリカ太平洋時間,
-    Standard: アメリカ太平洋標準時,
-    Daylight: アメリカ太平洋夏時間
-  },
-  PST8PDT: {
-    Generic: アメリカ太平洋時間,
-    Standard: アメリカ太平洋標準時,
-    Daylight: アメリカ太平洋夏時間
-  },
-  Asia/Karachi: {
-    Generic: パキスタン時間,
-    Standard: パキスタン標準時,
-    Daylight: パキスタン夏時間
-  },
-  America/Asuncion: {
-    Generic: パラグアイ時間,
-    Standard: パラグアイ標準時,
-    Daylight: パラグアイ夏時間
-  },
-  Asia/Qyzylorda: {
-    Generic: 西カザフスタン時間,
-    Standard: 西カザフスタン時間,
-    Daylight: 西カザフスタン時間
-  },
-  Europe/Paris: {
-    Generic: 中央ヨーロッパ時間,
-    Standard: 中央ヨーロッパ標準時,
-    Daylight: 中央ヨーロッパ夏時間
-  },
-  Europe/Brussels: {
-    Generic: 中央ヨーロッパ時間,
-    Standard: 中央ヨーロッパ標準時,
-    Daylight: 中央ヨーロッパ夏時間
-  },
-  Europe/Copenhagen: {
-    Generic: 中央ヨーロッパ時間,
-    Standard: 中央ヨーロッパ標準時,
-    Daylight: 中央ヨーロッパ夏時間
-  },
-  Africa/Ceuta: {
-    Generic: 中央ヨーロッパ時間,
-    Standard: 中央ヨーロッパ標準時,
-    Daylight: 中央ヨーロッパ夏時間
-  },
-  Europe/Madrid: {
-    Generic: 中央ヨーロッパ時間,
-    Standard: 中央ヨーロッパ標準時,
-    Daylight: 中央ヨーロッパ夏時間
-  },
-  Asia/Srednekolymsk: {
-    Generic: スレドネコリムスク時間,
-    Standard: スレドネコリムスク標準時,
-    Daylight: スレドネコリムスク夏時間
-  },
-  Asia/Kamchatka: {
-    Generic: カムチャッカ時間,
-    Standard: カムチャッカ標準時,
-    Daylight: カムチャッカ夏時間
-  },
-  Asia/Anadyr: {
-    Generic: アナディリ時間,
-    Standard: アナディリ標準時,
-    Daylight: アナディリ夏時間
-  },
-  Europe/Samara: {
-    Generic: サマラ時間,
-    Standard: サマラ標準時,
-    Daylight: サマラ夏時間
-  },
-  Europe/Moscow: {
-    Generic: モスクワ時間,
-    Standard: モスクワ標準時,
-    Daylight: モスクワ夏時間
-  },
-  Europe/Kirov: {
-    Generic: キーロフ時間,
-    Standard: キーロフ標準時,
-    Daylight: キーロフ夏時間
-  },
-  Europe/Simferopol: {
-    Generic: モスクワ時間,
-    Standard: モスクワ標準時,
-    Daylight: モスクワ夏時間
-  },
-  America/Cayenne: {
-    Generic: 仏領ギアナ時間,
-    Standard: 仏領ギアナ時間,
-    Daylight: 仏領ギアナ時間
-  },
-  Antarctica/Rothera: {
-    Generic: ロゼラ基地時間,
-    Standard: ロゼラ基地時間,
-    Daylight: ロゼラ基地時間
-  },
-  Antarctica/Palmer: {
-    Generic: チリ時間,
-    Standard: チリ標準時,
-    Daylight: チリ夏時間
-  },
-  America/Fortaleza: {
-    Generic: ブラジリア時間,
-    Standard: ブラジリア標準時,
-    Daylight: ブラジリア夏時間
-  },
-  America/Belem: {
-    Generic: ブラジリア時間,
-    Standard: ブラジリア標準時,
-    Daylight: ブラジリア夏時間
-  },
-  America/Maceio: {
-    Generic: ブラジリア時間,
-    Standard: ブラジリア標準時,
-    Daylight: ブラジリア夏時間
-  },
-  America/Recife: {
-    Generic: ブラジリア時間,
-    Standard: ブラジリア標準時,
-    Daylight: ブラジリア夏時間
-  },
-  America/Santarem: {
-    Generic: ブラジリア時間,
-    Standard: ブラジリア標準時,
-    Daylight: ブラジリア夏時間
-  },
-  Atlantic/Stanley: {
-    Generic: フォークランド諸島時間,
-    Standard: フォークランド諸島標準時,
-    Daylight: フォークランド諸島夏時間
-  },
-  America/Paramaribo: {
-    Generic: スリナム時間,
-    Standard: スリナム時間,
-    Daylight: スリナム時間
-  },
-  Etc/GMT+3: {
-    Generic: 協定世界時 -3,
-    Standard: 協定世界時 -3,
-    Daylight: 協定世界時 -3
-  },
-  America/Bogota: {
-    Generic: コロンビア時間,
-    Standard: コロンビア標準時,
-    Daylight: コロンビア夏時間
-  },
-  America/Rio_Branco: {
+  America/Port_of_Spain: {
+    Generic: 大西洋時間,
+    Standard: 大西洋標準時,
+    Daylight: 大西洋夏時間
+  },
+  America/Porto_Acre: {
     Generic: アクレ時間,
     Standard: アクレ標準時,
     Daylight: アクレ夏時間
-  },
-  America/Eirunepe: {
-    Generic: アクレ時間,
-    Standard: アクレ標準時,
-    Daylight: アクレ夏時間
-  },
-  America/Coral_Harbour: {
-    Generic: アメリカ東部時間,
-    Standard: アメリカ東部標準時,
-    Daylight: アメリカ東部夏時間
-  },
-  America/Guayaquil: {
-    Generic: エクアドル時間,
-    Standard: エクアドル時間,
-    Daylight: エクアドル時間
-  },
-  America/Jamaica: {
-    Generic: アメリカ東部時間,
-    Standard: アメリカ東部標準時,
-    Daylight: アメリカ東部夏時間
-  },
-  America/Cayman: {
-    Generic: アメリカ東部時間,
-    Standard: アメリカ東部標準時,
-    Daylight: アメリカ東部夏時間
-  },
-  America/Panama: {
-    Generic: アメリカ東部時間,
-    Standard: アメリカ東部標準時,
-    Daylight: アメリカ東部夏時間
-  },
-  America/Lima: {
-    Generic: ペルー時間,
-    Standard: ペルー標準時,
-    Daylight: ペルー夏時間
-  },
-  Etc/GMT+5: {
-    Generic: 協定世界時 -5,
-    Standard: 協定世界時 -5,
-    Daylight: 協定世界時 -5
-  },
-  America/La_Paz: {
-    Generic: ボリビア時間,
-    Standard: ボリビア時間,
-    Daylight: ボリビア時間
-  },
-  America/Antigua: {
-    Generic: 大西洋時間,
-    Standard: 大西洋標準時,
-    Daylight: 大西洋夏時間
-  },
-  America/Anguilla: {
-    Generic: 大西洋時間,
-    Standard: 大西洋標準時,
-    Daylight: 大西洋夏時間
-  },
-  America/Aruba: {
-    Generic: 大西洋時間,
-    Standard: 大西洋標準時,
-    Daylight: 大西洋夏時間
-  },
-  America/Barbados: {
-    Generic: 大西洋時間,
-    Standard: 大西洋標準時,
-    Daylight: 大西洋夏時間
-  },
-  America/St_Barthelemy: {
-    Generic: 大西洋時間,
-    Standard: 大西洋標準時,
-    Daylight: 大西洋夏時間
-  },
-  America/Kralendijk: {
-    Generic: 大西洋時間,
-    Standard: 大西洋標準時,
-    Daylight: 大西洋夏時間
-  },
-  America/Manaus: {
-    Generic: アマゾン時間,
-    Standard: アマゾン標準時,
-    Daylight: アマゾン夏時間
-  },
-  America/Boa_Vista: {
-    Generic: アマゾン時間,
-    Standard: アマゾン標準時,
-    Daylight: アマゾン夏時間
   },
   America/Porto_Velho: {
     Generic: アマゾン時間,
     Standard: アマゾン標準時,
     Daylight: アマゾン夏時間
   },
-  America/Blanc-Sablon: {
+  America/Puerto_Rico: {
     Generic: 大西洋時間,
     Standard: 大西洋標準時,
     Daylight: 大西洋夏時間
   },
-  America/Curacao: {
-    Generic: 大西洋時間,
-    Standard: 大西洋標準時,
-    Daylight: 大西洋夏時間
+  America/Punta_Arenas: {
+    Generic: チリ時間,
+    Standard: チリ標準時,
+    Daylight: チリ夏時間
   },
-  America/Dominica: {
-    Generic: 大西洋時間,
-    Standard: 大西洋標準時,
-    Daylight: 大西洋夏時間
+  America/Rainy_River: {
+    Generic: アメリカ中部時間,
+    Standard: アメリカ中部標準時,
+    Daylight: アメリカ中部夏時間
+  },
+  America/Rankin_Inlet: {
+    Generic: アメリカ中部時間,
+    Standard: アメリカ中部標準時,
+    Daylight: アメリカ中部夏時間
+  },
+  America/Recife: {
+    Generic: ブラジリア時間,
+    Standard: ブラジリア標準時,
+    Daylight: ブラジリア夏時間
+  },
+  America/Regina: {
+    Generic: アメリカ中部時間,
+    Standard: アメリカ中部標準時,
+    Daylight: アメリカ中部夏時間
+  },
+  America/Resolute: {
+    Generic: アメリカ中部時間,
+    Standard: アメリカ中部標準時,
+    Daylight: アメリカ中部夏時間
+  },
+  America/Rio_Branco: {
+    Generic: アクレ時間,
+    Standard: アクレ標準時,
+    Daylight: アクレ夏時間
+  },
+  America/Rosario: {
+    Generic: アルゼンチン時間,
+    Standard: アルゼンチン標準時,
+    Daylight: アルゼンチン夏時間
+  },
+  America/Santa_Isabel: {
+    Generic: メキシコ北西部時間,
+    Standard: メキシコ北西部標準時,
+    Daylight: メキシコ北西部夏時間
+  },
+  America/Santarem: {
+    Generic: ブラジリア時間,
+    Standard: ブラジリア標準時,
+    Daylight: ブラジリア夏時間
+  },
+  America/Santiago: {
+    Generic: チリ時間,
+    Standard: チリ標準時,
+    Daylight: チリ夏時間
   },
   America/Santo_Domingo: {
     Generic: 大西洋時間,
     Standard: 大西洋標準時,
     Daylight: 大西洋夏時間
   },
-  America/Grenada: {
+  America/Sao_Paulo: {
+    Generic: ブラジリア時間,
+    Standard: ブラジリア標準時,
+    Daylight: ブラジリア夏時間
+  },
+  America/Scoresbysund: {
+    Generic: グリーンランド東部時間,
+    Standard: グリーンランド東部標準時,
+    Daylight: グリーンランド東部夏時間
+  },
+  America/Shiprock: {
+    Generic: アメリカ山地時間,
+    Standard: アメリカ山地標準時,
+    Daylight: アメリカ山地夏時間
+  },
+  America/Sitka: {
+    Generic: アラスカ時間,
+    Standard: アラスカ標準時,
+    Daylight: アラスカ夏時間
+  },
+  America/St_Barthelemy: {
     Generic: 大西洋時間,
     Standard: 大西洋標準時,
     Daylight: 大西洋夏時間
   },
-  America/Guadeloupe: {
-    Generic: 大西洋時間,
-    Standard: 大西洋標準時,
-    Daylight: 大西洋夏時間
-  },
-  America/Guyana: {
-    Generic: ガイアナ時間,
-    Standard: ガイアナ時間,
-    Daylight: ガイアナ時間
+  America/St_Johns: {
+    Generic: ニューファンドランド時間,
+    Standard: ニューファンドランド標準時,
+    Daylight: ニューファンドランド夏時間
   },
   America/St_Kitts: {
     Generic: 大西洋時間,
@@ -1504,32 +1029,7 @@
     Standard: 大西洋標準時,
     Daylight: 大西洋夏時間
   },
-  America/Marigot: {
-    Generic: 大西洋時間,
-    Standard: 大西洋標準時,
-    Daylight: 大西洋夏時間
-  },
-  America/Martinique: {
-    Generic: 大西洋時間,
-    Standard: 大西洋標準時,
-    Daylight: 大西洋夏時間
-  },
-  America/Montserrat: {
-    Generic: 大西洋時間,
-    Standard: 大西洋標準時,
-    Daylight: 大西洋夏時間
-  },
-  America/Puerto_Rico: {
-    Generic: 大西洋時間,
-    Standard: 大西洋標準時,
-    Daylight: 大西洋夏時間
-  },
-  America/Lower_Princes: {
-    Generic: 大西洋時間,
-    Standard: 大西洋標準時,
-    Daylight: 大西洋夏時間
-  },
-  America/Port_of_Spain: {
+  America/St_Thomas: {
     Generic: 大西洋時間,
     Standard: 大西洋標準時,
     Daylight: 大西洋夏時間
@@ -1539,655 +1039,155 @@
     Standard: 大西洋標準時,
     Daylight: 大西洋夏時間
   },
+  America/Swift_Current: {
+    Generic: アメリカ中部時間,
+    Standard: アメリカ中部標準時,
+    Daylight: アメリカ中部夏時間
+  },
+  America/Tegucigalpa: {
+    Generic: アメリカ中部時間,
+    Standard: アメリカ中部標準時,
+    Daylight: アメリカ中部夏時間
+  },
+  America/Thule: {
+    Generic: 大西洋時間,
+    Standard: 大西洋標準時,
+    Daylight: 大西洋夏時間
+  },
+  America/Thunder_Bay: {
+    Generic: アメリカ東部時間,
+    Standard: アメリカ東部標準時,
+    Daylight: アメリカ東部夏時間
+  },
+  America/Tijuana: {
+    Generic: アメリカ太平洋時間,
+    Standard: アメリカ太平洋標準時,
+    Daylight: アメリカ太平洋夏時間
+  },
+  America/Toronto: {
+    Generic: アメリカ東部時間,
+    Standard: アメリカ東部標準時,
+    Daylight: アメリカ東部夏時間
+  },
   America/Tortola: {
     Generic: 大西洋時間,
     Standard: 大西洋標準時,
     Daylight: 大西洋夏時間
   },
-  America/St_Thomas: {
+  America/Vancouver: {
+    Generic: アメリカ太平洋時間,
+    Standard: アメリカ太平洋標準時,
+    Daylight: アメリカ太平洋夏時間
+  },
+  America/Virgin: {
     Generic: 大西洋時間,
     Standard: 大西洋標準時,
     Daylight: 大西洋夏時間
   },
-  Etc/GMT+4: {
-    Generic: 協定世界時 -4,
-    Standard: 協定世界時 -4,
-    Daylight: 協定世界時 -4
+  America/Whitehorse: {
+    Generic: ユーコン時間,
+    Standard: ユーコン時間,
+    Daylight: ユーコン時間
   },
-  Asia/Bangkok: {
-    Generic: インドシナ時間,
-    Standard: インドシナ時間,
-    Daylight: インドシナ時間
+  America/Winnipeg: {
+    Generic: アメリカ中部時間,
+    Standard: アメリカ中部標準時,
+    Daylight: アメリカ中部夏時間
+  },
+  America/Yakutat: {
+    Generic: アラスカ時間,
+    Standard: アラスカ標準時,
+    Daylight: アラスカ夏時間
+  },
+  America/Yellowknife: {
+    Generic: アメリカ山地時間,
+    Standard: アメリカ山地標準時,
+    Daylight: アメリカ山地夏時間
+  },
+  Antarctica/Casey: {
+    Generic: ケイシー基地時間,
+    Standard: ケイシー基地時間,
+    Daylight: ケイシー基地時間
   },
   Antarctica/Davis: {
     Generic: デービス基地時間,
     Standard: デービス基地時間,
     Daylight: デービス基地時間
   },
-  Indian/Christmas: {
-    Generic: クリスマス島時間,
-    Standard: クリスマス島時間,
-    Daylight: クリスマス島時間
-  },
-  Asia/Jakarta: {
-    Generic: インドネシア西部時間,
-    Standard: インドネシア西部時間,
-    Daylight: インドネシア西部時間
-  },
-  Asia/Pontianak: {
-    Generic: インドネシア西部時間,
-    Standard: インドネシア西部時間,
-    Daylight: インドネシア西部時間
-  },
-  Asia/Phnom_Penh: {
-    Generic: インドシナ時間,
-    Standard: インドシナ時間,
-    Daylight: インドシナ時間
-  },
-  Asia/Vientiane: {
-    Generic: インドシナ時間,
-    Standard: インドシナ時間,
-    Daylight: インドシナ時間
-  },
-  Asia/Saigon: {
-    Generic: インドシナ時間,
-    Standard: インドシナ時間,
-    Daylight: インドシナ時間
-  },
-  Etc/GMT-7: {
-    Generic: 協定世界時 +7,
-    Standard: 協定世界時 +7,
-    Daylight: 協定世界時 +7
-  },
-  America/Miquelon: {
-    Generic: サンピエール島・ミクロン島時間,
-    Standard: サンピエール島・ミクロン島標準時,
-    Daylight: サンピエール島・ミクロン島夏時間
-  },
-  Asia/Sakhalin: {
-    Generic: サハリン時間,
-    Standard: サハリン標準時,
-    Daylight: サハリン夏時間
-  },
-  Pacific/Apia: {
-    Generic: アピア時間,
-    Standard: アピア標準時,
-    Daylight: アピア夏時間
-  },
-  Africa/Sao_Tome: {
-    Generic: グリニッジ標準時,
-    Standard: グリニッジ標準時,
-    Daylight: グリニッジ標準時
-  },
-  Europe/Saratov: {
-    Generic: サラトフ時間,
-    Standard: サラトフ標準時,
-    Daylight: サラトフ夏時間
-  },
-  Asia/Singapore: {
-    Generic: シンガポール標準時,
-    Standard: シンガポール標準時,
-    Daylight: シンガポール標準時
-  },
-  Asia/Brunei: {
-    Generic: ブルネイ・ダルサラーム時間,
-    Standard: ブルネイ・ダルサラーム時間,
-    Daylight: ブルネイ・ダルサラーム時間
-  },
-  Asia/Makassar: {
-    Generic: インドネシア中部時間,
-    Standard: インドネシア中部時間,
-    Daylight: インドネシア中部時間
-  },
-  Asia/Kuala_Lumpur: {
-    Generic: マレーシア時間,
-    Standard: マレーシア時間,
-    Daylight: マレーシア時間
-  },
-  Asia/Kuching: {
-    Generic: マレーシア時間,
-    Standard: マレーシア時間,
-    Daylight: マレーシア時間
-  },
-  Asia/Manila: {
-    Generic: フィリピン時間,
-    Standard: フィリピン標準時,
-    Daylight: フィリピン夏時間
-  },
-  Etc/GMT-8: {
-    Generic: 協定世界時 +8,
-    Standard: 協定世界時 +8,
-    Daylight: 協定世界時 +8
-  },
-  Africa/Johannesburg: {
-    Generic: 南アフリカ標準時,
-    Standard: 南アフリカ標準時,
-    Daylight: 南アフリカ標準時
-  },
-  Africa/Bujumbura: {
-    Generic: 中央アフリカ時間,
-    Standard: 中央アフリカ時間,
-    Daylight: 中央アフリカ時間
-  },
-  Africa/Gaborone: {
-    Generic: 中央アフリカ時間,
-    Standard: 中央アフリカ時間,
-    Daylight: 中央アフリカ時間
-  },
-  Africa/Lubumbashi: {
-    Generic: 中央アフリカ時間,
-    Standard: 中央アフリカ時間,
-    Daylight: 中央アフリカ時間
-  },
-  Africa/Maseru: {
-    Generic: 南アフリカ標準時,
-    Standard: 南アフリカ標準時,
-    Daylight: 南アフリカ標準時
-  },
-  Africa/Blantyre: {
-    Generic: 中央アフリカ時間,
-    Standard: 中央アフリカ時間,
-    Daylight: 中央アフリカ時間
-  },
-  Africa/Maputo: {
-    Generic: 中央アフリカ時間,
-    Standard: 中央アフリカ時間,
-    Daylight: 中央アフリカ時間
-  },
-  Africa/Kigali: {
-    Generic: 中央アフリカ時間,
-    Standard: 中央アフリカ時間,
-    Daylight: 中央アフリカ時間
-  },
-  Africa/Mbabane: {
-    Generic: 南アフリカ標準時,
-    Standard: 南アフリカ標準時,
-    Daylight: 南アフリカ標準時
-  },
-  Africa/Lusaka: {
-    Generic: 中央アフリカ時間,
-    Standard: 中央アフリカ時間,
-    Daylight: 中央アフリカ時間
-  },
-  Africa/Harare: {
-    Generic: 中央アフリカ時間,
-    Standard: 中央アフリカ時間,
-    Daylight: 中央アフリカ時間
-  },
-  Etc/GMT-2: {
-    Generic: 協定世界時 +2,
-    Standard: 協定世界時 +2,
-    Daylight: 協定世界時 +2
-  },
-  Africa/Juba: {
-    Generic: 中央アフリカ時間,
-    Standard: 中央アフリカ時間,
-    Daylight: 中央アフリカ時間
-  },
-  Asia/Colombo: {
-    Generic: インド標準時,
-    Standard: インド標準時,
-    Daylight: インド標準時
-  },
-  Africa/Khartoum: {
-    Generic: 中央アフリカ時間,
-    Standard: 中央アフリカ時間,
-    Daylight: 中央アフリカ時間
-  },
-  Asia/Damascus: {
-    Generic: 東ヨーロッパ時間,
-    Standard: 東ヨーロッパ標準時,
-    Daylight: 東ヨーロッパ夏時間
-  },
-  Asia/Taipei: {
-    Generic: 台北時間,
-    Standard: 台北標準時,
-    Daylight: 台北夏時間
-  },
-  Australia/Hobart: {
-    Generic: オーストラリア東部時間,
-    Standard: オーストラリア東部標準時,
-    Daylight: オーストラリア東部夏時間
-  },
-  Australia/Currie: {
-    Generic: オーストラリア東部時間,
-    Standard: オーストラリア東部標準時,
-    Daylight: オーストラリア東部夏時間
+  Antarctica/DumontDUrville: {
+    Generic: デュモン・デュルヴィル基地時間,
+    Standard: デュモン・デュルヴィル基地時間,
+    Daylight: デュモン・デュルヴィル基地時間
   },
   Antarctica/Macquarie: {
     Generic: オーストラリア東部時間,
     Standard: オーストラリア東部標準時,
     Daylight: オーストラリア東部夏時間
   },
-  America/Araguaina: {
-    Generic: ブラジリア時間,
-    Standard: ブラジリア標準時,
-    Daylight: ブラジリア夏時間
+  Antarctica/Mawson: {
+    Generic: モーソン基地時間,
+    Standard: モーソン基地時間,
+    Daylight: モーソン基地時間
   },
-  Asia/Tokyo: {
-    Generic: 日本時間,
-    Standard: 日本標準時,
-    Daylight: 日本夏時間
+  Antarctica/McMurdo: {
+    Generic: ニュージーランド時間,
+    Standard: ニュージーランド標準時,
+    Daylight: ニュージーランド夏時間
   },
-  Asia/Jayapura: {
-    Generic: インドネシア東部時間,
-    Standard: インドネシア東部時間,
-    Daylight: インドネシア東部時間
+  Antarctica/Palmer: {
+    Generic: チリ時間,
+    Standard: チリ標準時,
+    Daylight: チリ夏時間
   },
-  Pacific/Palau: {
-    Generic: パラオ時間,
-    Standard: パラオ時間,
-    Daylight: パラオ時間
+  Antarctica/Rothera: {
+    Generic: ロゼラ基地時間,
+    Standard: ロゼラ基地時間,
+    Daylight: ロゼラ基地時間
   },
-  Asia/Dili: {
-    Generic: 東ティモール時間,
-    Standard: 東ティモール時間,
-    Daylight: 東ティモール時間
+  Antarctica/South_Pole: {
+    Generic: ニュージーランド時間,
+    Standard: ニュージーランド標準時,
+    Daylight: ニュージーランド夏時間
   },
-  Etc/GMT-9: {
-    Generic: 協定世界時 +9,
-    Standard: 協定世界時 +9,
-    Daylight: 協定世界時 +9
+  Antarctica/Syowa: {
+    Generic: 昭和基地時間,
+    Standard: 昭和基地時間,
+    Daylight: 昭和基地時間
   },
-  Asia/Tomsk: {
-    Generic: トムスク時間,
-    Standard: トムスク標準時,
-    Daylight: トムスク夏時間
-  },
-  Pacific/Tongatapu: {
-    Generic: トンガ時間,
-    Standard: トンガ標準時,
-    Daylight: トンガ夏時間
-  },
-  Asia/Chita: {
-    Generic: チタ時間,
-    Standard: チタ標準時,
-    Daylight: チタ夏時間
-  },
-  Europe/Istanbul: {
-    Generic: トルコ時間,
-    Standard: トルコ標準時,
-    Daylight: トルコ夏時間
-  },
-  America/Grand_Turk: {
-    Generic: アメリカ東部時間,
-    Standard: アメリカ東部標準時,
-    Daylight: アメリカ東部夏時間
-  },
-  America/Indianapolis: {
-    Generic: アメリカ東部時間,
-    Standard: アメリカ東部標準時,
-    Daylight: アメリカ東部夏時間
-  },
-  America/Indiana/Marengo: {
-    Generic: アメリカ東部時間,
-    Standard: アメリカ東部標準時,
-    Daylight: アメリカ東部夏時間
-  },
-  America/Indiana/Vevay: {
-    Generic: アメリカ東部時間,
-    Standard: アメリカ東部標準時,
-    Daylight: アメリカ東部夏時間
-  },
-  America/Phoenix: {
-    Generic: アメリカ山地時間,
-    Standard: アメリカ山地標準時,
-    Daylight: アメリカ山地夏時間
-  },
-  America/Creston: {
-    Generic: アメリカ山地時間,
-    Standard: アメリカ山地標準時,
-    Daylight: アメリカ山地夏時間
-  },
-  America/Dawson_Creek: {
-    Generic: アメリカ山地時間,
-    Standard: アメリカ山地標準時,
-    Daylight: アメリカ山地夏時間
-  },
-  America/Fort_Nelson: {
-    Generic: アメリカ山地時間,
-    Standard: アメリカ山地標準時,
-    Daylight: アメリカ山地夏時間
-  },
-  America/Hermosillo: {
-    Generic: メキシコ太平洋時間,
-    Standard: メキシコ太平洋標準時,
-    Daylight: メキシコ太平洋夏時間
-  },
-  Etc/GMT+7: {
-    Generic: 協定世界時 -7,
-    Standard: 協定世界時 -7,
-    Daylight: 協定世界時 -7
-  },
-  Etc/GMT-12: {
-    Generic: 協定世界時 +12,
-    Standard: 協定世界時 +12,
-    Daylight: 協定世界時 +12
-  },
-  Pacific/Tarawa: {
-    Generic: ギルバート諸島時間,
-    Standard: ギルバート諸島時間,
-    Daylight: ギルバート諸島時間
-  },
-  Pacific/Majuro: {
-    Generic: マーシャル諸島時間,
-    Standard: マーシャル諸島時間,
-    Daylight: マーシャル諸島時間
-  },
-  Pacific/Kwajalein: {
-    Generic: マーシャル諸島時間,
-    Standard: マーシャル諸島時間,
-    Daylight: マーシャル諸島時間
-  },
-  Pacific/Nauru: {
-    Generic: ナウル時間,
-    Standard: ナウル時間,
-    Daylight: ナウル時間
-  },
-  Pacific/Funafuti: {
-    Generic: ツバル時間,
-    Standard: ツバル時間,
-    Daylight: ツバル時間
-  },
-  Pacific/Wake: {
-    Generic: ウェーク島時間,
-    Standard: ウェーク島時間,
-    Daylight: ウェーク島時間
-  },
-  Pacific/Wallis: {
-    Generic: ウォリス・フツナ時間,
-    Standard: ウォリス・フツナ時間,
-    Daylight: ウォリス・フツナ時間
-  },
-  Etc/GMT-13: {
-    Generic: 協定世界時 +13,
-    Standard: 協定世界時 +13,
-    Daylight: 協定世界時 +13
-  },
-  Pacific/Enderbury: {
-    Generic: フェニックス諸島時間,
-    Standard: フェニックス諸島時間,
-    Daylight: フェニックス諸島時間
-  },
-  Pacific/Fakaofo: {
-    Generic: トケラウ時間,
-    Standard: トケラウ時間,
-    Daylight: トケラウ時間
-  },
-  Etc/UTC: {
-    Generic: 協定世界時,
-    Standard: 協定世界時,
-    Daylight: 協定世界時
-  },
-  Etc/GMT: {
+  Antarctica/Troll: {
     Generic: グリニッジ標準時,
     Standard: グリニッジ標準時,
     Daylight: グリニッジ標準時
   },
-  Etc/GMT+2: {
-    Generic: 協定世界時 -2,
-    Standard: 協定世界時 -2,
-    Daylight: 協定世界時 -2
-  },
-  America/Noronha: {
-    Generic: フェルナンド・デ・ノローニャ時間,
-    Standard: フェルナンド・デ・ノローニャ標準時,
-    Daylight: フェルナンド・デ・ノローニャ夏時間
-  },
-  Atlantic/South_Georgia: {
-    Generic: サウスジョージア時間,
-    Standard: サウスジョージア時間,
-    Daylight: サウスジョージア時間
-  },
-  Etc/GMT+8: {
-    Generic: 協定世界時 -8,
-    Standard: 協定世界時 -8,
-    Daylight: 協定世界時 -8
-  },
-  Pacific/Pitcairn: {
-    Generic: ピトケアン時間,
-    Standard: ピトケアン時間,
-    Daylight: ピトケアン時間
-  },
-  Etc/GMT+9: {
-    Generic: 協定世界時 -9,
-    Standard: 協定世界時 -9,
-    Daylight: 協定世界時 -9
-  },
-  Pacific/Gambier: {
-    Generic: ガンビエ諸島時間,
-    Standard: ガンビエ諸島時間,
-    Daylight: ガンビエ諸島時間
-  },
-  Etc/GMT+11: {
-    Generic: 協定世界時 -11,
-    Standard: 協定世界時 -11,
-    Daylight: 協定世界時 -11
-  },
-  Pacific/Pago_Pago: {
-    Generic: サモア時間,
-    Standard: サモア標準時,
-    Daylight: サモア夏時間
-  },
-  Pacific/Niue: {
-    Generic: ニウエ時間,
-    Standard: ニウエ時間,
-    Daylight: ニウエ時間
-  },
-  Pacific/Midway: {
-    Generic: サモア時間,
-    Standard: サモア標準時,
-    Daylight: サモア夏時間
-  },
-  Asia/Ulaanbaatar: {
-    Generic: ウランバートル時間,
-    Standard: ウランバートル標準時,
-    Daylight: ウランバートル夏時間
-  },
-  Asia/Choibalsan: {
-    Generic: ウランバートル時間,
-    Standard: ウランバートル標準時,
-    Daylight: ウランバートル夏時間
-  },
-  America/Caracas: {
-    Generic: ベネズエラ時間,
-    Standard: ベネズエラ時間,
-    Daylight: ベネズエラ時間
-  },
-  Asia/Vladivostok: {
-    Generic: ウラジオストク時間,
-    Standard: ウラジオストク標準時,
-    Daylight: ウラジオストク夏時間
-  },
-  Asia/Ust-Nera: {
-    Generic: ウスチネラ時間,
-    Standard: ウスチネラ標準時,
-    Daylight: ウスチネラ夏時間
-  },
-  Europe/Volgograd: {
-    Generic: ボルゴグラード時間,
-    Standard: ボルゴグラード標準時,
-    Daylight: ボルゴグラード夏時間
-  },
-  Australia/Perth: {
-    Generic: オーストラリア西部時間,
-    Standard: オーストラリア西部標準時,
-    Daylight: オーストラリア西部夏時間
-  },
-  Africa/Lagos: {
-    Generic: 西アフリカ時間,
-    Standard: 西アフリカ標準時,
-    Daylight: 西アフリカ夏時間
-  },
-  Africa/Luanda: {
-    Generic: 西アフリカ時間,
-    Standard: 西アフリカ標準時,
-    Daylight: 西アフリカ夏時間
-  },
-  Africa/Porto-Novo: {
-    Generic: 西アフリカ時間,
-    Standard: 西アフリカ標準時,
-    Daylight: 西アフリカ夏時間
-  },
-  Africa/Kinshasa: {
-    Generic: 西アフリカ時間,
-    Standard: 西アフリカ標準時,
-    Daylight: 西アフリカ夏時間
-  },
-  Africa/Bangui: {
-    Generic: 西アフリカ時間,
-    Standard: 西アフリカ標準時,
-    Daylight: 西アフリカ夏時間
-  },
-  Africa/Brazzaville: {
-    Generic: 西アフリカ時間,
-    Standard: 西アフリカ標準時,
-    Daylight: 西アフリカ夏時間
-  },
-  Africa/Douala: {
-    Generic: 西アフリカ時間,
-    Standard: 西アフリカ標準時,
-    Daylight: 西アフリカ夏時間
-  },
-  Africa/Algiers: {
-    Generic: 中央ヨーロッパ時間,
-    Standard: 中央ヨーロッパ標準時,
-    Daylight: 中央ヨーロッパ夏時間
-  },
-  Africa/Libreville: {
-    Generic: 西アフリカ時間,
-    Standard: 西アフリカ標準時,
-    Daylight: 西アフリカ夏時間
-  },
-  Africa/Malabo: {
-    Generic: 西アフリカ時間,
-    Standard: 西アフリカ標準時,
-    Daylight: 西アフリカ夏時間
-  },
-  Africa/Niamey: {
-    Generic: 西アフリカ時間,
-    Standard: 西アフリカ標準時,
-    Daylight: 西アフリカ夏時間
-  },
-  Africa/Ndjamena: {
-    Generic: 西アフリカ時間,
-    Standard: 西アフリカ標準時,
-    Daylight: 西アフリカ夏時間
-  },
-  Africa/Tunis: {
-    Generic: 中央ヨーロッパ時間,
-    Standard: 中央ヨーロッパ標準時,
-    Daylight: 中央ヨーロッパ夏時間
-  },
-  Etc/GMT-1: {
-    Generic: 協定世界時 +1,
-    Standard: 協定世界時 +1,
-    Daylight: 協定世界時 +1
-  },
-  Europe/Berlin: {
-    Generic: 中央ヨーロッパ時間,
-    Standard: 中央ヨーロッパ標準時,
-    Daylight: 中央ヨーロッパ夏時間
-  },
-  Europe/Andorra: {
-    Generic: 中央ヨーロッパ時間,
-    Standard: 中央ヨーロッパ標準時,
-    Daylight: 中央ヨーロッパ夏時間
-  },
-  Europe/Vienna: {
-    Generic: 中央ヨーロッパ時間,
-    Standard: 中央ヨーロッパ標準時,
-    Daylight: 中央ヨーロッパ夏時間
-  },
-  Europe/Zurich: {
-    Generic: 中央ヨーロッパ時間,
-    Standard: 中央ヨーロッパ標準時,
-    Daylight: 中央ヨーロッパ夏時間
-  },
-  Europe/Busingen: {
-    Generic: 中央ヨーロッパ時間,
-    Standard: 中央ヨーロッパ標準時,
-    Daylight: 中央ヨーロッパ夏時間
-  },
-  Europe/Gibraltar: {
-    Generic: 中央ヨーロッパ時間,
-    Standard: 中央ヨーロッパ標準時,
-    Daylight: 中央ヨーロッパ夏時間
-  },
-  Europe/Rome: {
-    Generic: 中央ヨーロッパ時間,
-    Standard: 中央ヨーロッパ標準時,
-    Daylight: 中央ヨーロッパ夏時間
-  },
-  Europe/Vaduz: {
-    Generic: 中央ヨーロッパ時間,
-    Standard: 中央ヨーロッパ標準時,
-    Daylight: 中央ヨーロッパ夏時間
-  },
-  Europe/Luxembourg: {
-    Generic: 中央ヨーロッパ時間,
-    Standard: 中央ヨーロッパ標準時,
-    Daylight: 中央ヨーロッパ夏時間
-  },
-  Europe/Monaco: {
-    Generic: 中央ヨーロッパ時間,
-    Standard: 中央ヨーロッパ標準時,
-    Daylight: 中央ヨーロッパ夏時間
-  },
-  Europe/Malta: {
-    Generic: 中央ヨーロッパ時間,
-    Standard: 中央ヨーロッパ標準時,
-    Daylight: 中央ヨーロッパ夏時間
-  },
-  Europe/Amsterdam: {
-    Generic: 中央ヨーロッパ時間,
-    Standard: 中央ヨーロッパ標準時,
-    Daylight: 中央ヨーロッパ夏時間
-  },
-  Europe/Oslo: {
-    Generic: 中央ヨーロッパ時間,
-    Standard: 中央ヨーロッパ標準時,
-    Daylight: 中央ヨーロッパ夏時間
-  },
-  Europe/Stockholm: {
-    Generic: 中央ヨーロッパ時間,
-    Standard: 中央ヨーロッパ標準時,
-    Daylight: 中央ヨーロッパ夏時間
+  Antarctica/Vostok: {
+    Generic: ボストーク基地時間,
+    Standard: ボストーク基地時間,
+    Daylight: ボストーク基地時間
   },
   Arctic/Longyearbyen: {
     Generic: 中央ヨーロッパ時間,
     Standard: 中央ヨーロッパ標準時,
     Daylight: 中央ヨーロッパ夏時間
   },
-  Europe/San_Marino: {
-    Generic: 中央ヨーロッパ時間,
-    Standard: 中央ヨーロッパ標準時,
-    Daylight: 中央ヨーロッパ夏時間
+  Asia/Aden: {
+    Generic: アラビア時間,
+    Standard: アラビア標準時,
+    Daylight: アラビア夏時間
   },
-  Europe/Vatican: {
-    Generic: 中央ヨーロッパ時間,
-    Standard: 中央ヨーロッパ標準時,
-    Daylight: 中央ヨーロッパ夏時間
+  Asia/Almaty: {
+    Generic: 東カザフスタン時間,
+    Standard: 東カザフスタン時間,
+    Daylight: 東カザフスタン時間
   },
-  Asia/Hovd: {
-    Generic: ホブド時間,
-    Standard: ホブド標準時,
-    Daylight: ホブド夏時間
+  Asia/Amman: {
+    Generic: 東ヨーロッパ時間,
+    Standard: 東ヨーロッパ標準時,
+    Daylight: 東ヨーロッパ夏時間
   },
-  Asia/Tashkent: {
-    Generic: ウズベキスタン時間,
-    Standard: ウズベキスタン標準時,
-    Daylight: ウズベキスタン夏時間
-  },
-  Antarctica/Mawson: {
-    Generic: モーソン基地時間,
-    Standard: モーソン基地時間,
-    Daylight: モーソン基地時間
-  },
-  Asia/Oral: {
-    Generic: 西カザフスタン時間,
-    Standard: 西カザフスタン時間,
-    Daylight: 西カザフスタン時間
+  Asia/Anadyr: {
+    Generic: アナディリ時間,
+    Standard: アナディリ標準時,
+    Daylight: アナディリ夏時間
   },
   Asia/Aqtau: {
     Generic: 西カザフスタン時間,
@@ -2199,415 +1199,75 @@
     Standard: 西カザフスタン時間,
     Daylight: 西カザフスタン時間
   },
-  Asia/Atyrau: {
-    Generic: 西カザフスタン時間,
-    Standard: 西カザフスタン時間,
-    Daylight: 西カザフスタン時間
-  },
-  Indian/Maldives: {
-    Generic: モルディブ時間,
-    Standard: モルディブ時間,
-    Daylight: モルディブ時間
-  },
-  Indian/Kerguelen: {
-    Generic: 仏領南方南極時間,
-    Standard: 仏領南方南極時間,
-    Daylight: 仏領南方南極時間
-  },
-  Asia/Dushanbe: {
-    Generic: タジキスタン時間,
-    Standard: タジキスタン時間,
-    Daylight: タジキスタン時間
-  },
   Asia/Ashgabat: {
     Generic: トルクメニスタン時間,
     Standard: トルクメニスタン標準時,
     Daylight: トルクメニスタン夏時間
-  },
-  Asia/Samarkand: {
-    Generic: ウズベキスタン時間,
-    Standard: ウズベキスタン標準時,
-    Daylight: ウズベキスタン夏時間
-  },
-  Etc/GMT-5: {
-    Generic: 協定世界時 +5,
-    Standard: 協定世界時 +5,
-    Daylight: 協定世界時 +5
-  },
-  Asia/Hebron: {
-    Generic: 東ヨーロッパ時間,
-    Standard: 東ヨーロッパ標準時,
-    Daylight: 東ヨーロッパ夏時間
-  },
-  Asia/Gaza: {
-    Generic: 東ヨーロッパ時間,
-    Standard: 東ヨーロッパ標準時,
-    Daylight: 東ヨーロッパ夏時間
-  },
-  Pacific/Port_Moresby: {
-    Generic: パプアニューギニア時間,
-    Standard: パプアニューギニア時間,
-    Daylight: パプアニューギニア時間
-  },
-  Antarctica/DumontDUrville: {
-    Generic: デュモン・デュルヴィル基地時間,
-    Standard: デュモン・デュルヴィル基地時間,
-    Daylight: デュモン・デュルヴィル基地時間
-  },
-  Pacific/Truk: {
-    Generic: チューク時間,
-    Standard: チューク時間,
-    Daylight: チューク時間
-  },
-  Pacific/Guam: {
-    Generic: チャモロ時間,
-    Standard: チャモロ時間,
-    Daylight: チャモロ時間
-  },
-  Pacific/Saipan: {
-    Generic: チャモロ時間,
-    Standard: チャモロ時間,
-    Daylight: チャモロ時間
-  },
-  Etc/GMT-10: {
-    Generic: 協定世界時 +10,
-    Standard: 協定世界時 +10,
-    Daylight: 協定世界時 +10
-  },
-  Asia/Yakutsk: {
-    Generic: ヤクーツク時間,
-    Standard: ヤクーツク標準時,
-    Daylight: ヤクーツク夏時間
-  },
-  Asia/Khandyga: {
-    Generic: ハンドゥイガ時間,
-    Standard: ハンドゥイガ標準時,
-    Daylight: ハンドゥイガ夏時間
-  },
-  America/Whitehorse: {
-    Generic: ユーコン時間,
-    Standard: ユーコン時間,
-    Daylight: ユーコン時間
-  },
-  America/Dawson: {
-    Generic: ユーコン時間,
-    Standard: ユーコン時間,
-    Daylight: ユーコン時間
-  },
-  Iceland: {
-    Generic: グリニッジ標準時,
-    Standard: グリニッジ標準時,
-    Daylight: グリニッジ標準時
-  },
-  Africa/Timbuktu: {
-    Generic: グリニッジ標準時,
-    Standard: グリニッジ標準時,
-    Daylight: グリニッジ標準時
-  },
-  Egypt: {
-    Generic: 東ヨーロッパ時間,
-    Standard: 東ヨーロッパ標準時,
-    Daylight: 東ヨーロッパ夏時間
-  },
-  Africa/Asmara: {
-    Generic: 東アフリカ時間,
-    Standard: 東アフリカ時間,
-    Daylight: 東アフリカ時間
-  },
-  Libya: {
-    Generic: 東ヨーロッパ時間,
-    Standard: 東ヨーロッパ標準時,
-    Daylight: 東ヨーロッパ夏時間
-  },
-  America/Atka: {
-    Generic: ハワイ・アリューシャン時間,
-    Standard: ハワイ・アリューシャン標準時,
-    Daylight: ハワイ・アリューシャン夏時間
-  },
-  US/Aleutian: {
-    Generic: ハワイ・アリューシャン時間,
-    Standard: ハワイ・アリューシャン標準時,
-    Daylight: ハワイ・アリューシャン夏時間
-  },
-  US/Alaska: {
-    Generic: アラスカ時間,
-    Standard: アラスカ標準時,
-    Daylight: アラスカ夏時間
-  },
-  America/Argentina/Buenos_Aires: {
-    Generic: アルゼンチン時間,
-    Standard: アルゼンチン標準時,
-    Daylight: アルゼンチン夏時間
-  },
-  America/Argentina/Catamarca: {
-    Generic: アルゼンチン時間,
-    Standard: アルゼンチン標準時,
-    Daylight: アルゼンチン夏時間
-  },
-  America/Argentina/ComodRivadavia: {
-    Generic: アルゼンチン時間,
-    Standard: アルゼンチン標準時,
-    Daylight: アルゼンチン夏時間
-  },
-  America/Argentina/Cordoba: {
-    Generic: アルゼンチン時間,
-    Standard: アルゼンチン標準時,
-    Daylight: アルゼンチン夏時間
-  },
-  America/Rosario: {
-    Generic: アルゼンチン時間,
-    Standard: アルゼンチン標準時,
-    Daylight: アルゼンチン夏時間
-  },
-  America/Argentina/Jujuy: {
-    Generic: アルゼンチン時間,
-    Standard: アルゼンチン標準時,
-    Daylight: アルゼンチン夏時間
-  },
-  America/Argentina/Mendoza: {
-    Generic: アルゼンチン時間,
-    Standard: アルゼンチン標準時,
-    Daylight: アルゼンチン夏時間
-  },
-  US/Central: {
-    Generic: アメリカ中部時間,
-    Standard: アメリカ中部標準時,
-    Daylight: アメリカ中部夏時間
-  },
-  America/Shiprock: {
-    Generic: アメリカ山地時間,
-    Standard: アメリカ山地標準時,
-    Daylight: アメリカ山地夏時間
-  },
-  Navajo: {
-    Generic: アメリカ山地時間,
-    Standard: アメリカ山地標準時,
-    Daylight: アメリカ山地夏時間
-  },
-  US/Mountain: {
-    Generic: アメリカ山地時間,
-    Standard: アメリカ山地標準時,
-    Daylight: アメリカ山地夏時間
-  },
-  US/Michigan: {
-    Generic: アメリカ東部時間,
-    Standard: アメリカ東部標準時,
-    Daylight: アメリカ東部夏時間
-  },
-  Canada/Mountain: {
-    Generic: アメリカ山地時間,
-    Standard: アメリカ山地標準時,
-    Daylight: アメリカ山地夏時間
-  },
-  Canada/Atlantic: {
-    Generic: 大西洋時間,
-    Standard: 大西洋標準時,
-    Daylight: 大西洋夏時間
-  },
-  Cuba: {
-    Generic: キューバ時間,
-    Standard: キューバ標準時,
-    Daylight: キューバ夏時間
-  },
-  America/Indiana/Indianapolis: {
-    Generic: アメリカ東部時間,
-    Standard: アメリカ東部標準時,
-    Daylight: アメリカ東部夏時間
-  },
-  US/East-Indiana: {
-    Generic: アメリカ東部時間,
-    Standard: アメリカ東部標準時,
-    Daylight: アメリカ東部夏時間
-  },
-  America/Knox_IN: {
-    Generic: アメリカ中部時間,
-    Standard: アメリカ中部標準時,
-    Daylight: アメリカ中部夏時間
-  },
-  US/Indiana-Starke: {
-    Generic: アメリカ中部時間,
-    Standard: アメリカ中部標準時,
-    Daylight: アメリカ中部夏時間
-  },
-  Jamaica: {
-    Generic: アメリカ東部時間,
-    Standard: アメリカ東部標準時,
-    Daylight: アメリカ東部夏時間
-  },
-  America/Kentucky/Louisville: {
-    Generic: アメリカ東部時間,
-    Standard: アメリカ東部標準時,
-    Daylight: アメリカ東部夏時間
-  },
-  US/Pacific: {
-    Generic: アメリカ太平洋時間,
-    Standard: アメリカ太平洋標準時,
-    Daylight: アメリカ太平洋夏時間
-  },
-  Brazil/West: {
-    Generic: アマゾン時間,
-    Standard: アマゾン標準時,
-    Daylight: アマゾン夏時間
-  },
-  Mexico/BajaSur: {
-    Generic: メキシコ太平洋時間,
-    Standard: メキシコ太平洋標準時,
-    Daylight: メキシコ太平洋夏時間
-  },
-  Mexico/General: {
-    Generic: アメリカ中部時間,
-    Standard: アメリカ中部標準時,
-    Daylight: アメリカ中部夏時間
-  },
-  US/Eastern: {
-    Generic: アメリカ東部時間,
-    Standard: アメリカ東部標準時,
-    Daylight: アメリカ東部夏時間
-  },
-  Brazil/DeNoronha: {
-    Generic: フェルナンド・デ・ノローニャ時間,
-    Standard: フェルナンド・デ・ノローニャ標準時,
-    Daylight: フェルナンド・デ・ノローニャ夏時間
-  },
-  America/Nuuk: {
-    Generic: グリーンランド西部時間,
-    Standard: グリーンランド西部標準時,
-    Daylight: グリーンランド西部夏時間
-  },
-  America/Atikokan: {
-    Generic: アメリカ東部時間,
-    Standard: アメリカ東部標準時,
-    Daylight: アメリカ東部夏時間
-  },
-  US/Arizona: {
-    Generic: アメリカ山地時間,
-    Standard: アメリカ山地標準時,
-    Daylight: アメリカ山地夏時間
-  },
-  America/Virgin: {
-    Generic: 大西洋時間,
-    Standard: 大西洋標準時,
-    Daylight: 大西洋夏時間
-  },
-  Canada/Saskatchewan: {
-    Generic: アメリカ中部時間,
-    Standard: アメリカ中部標準時,
-    Daylight: アメリカ中部夏時間
-  },
-  America/Porto_Acre: {
-    Generic: アクレ時間,
-    Standard: アクレ標準時,
-    Daylight: アクレ夏時間
-  },
-  Brazil/Acre: {
-    Generic: アクレ時間,
-    Standard: アクレ標準時,
-    Daylight: アクレ夏時間
-  },
-  Chile/Continental: {
-    Generic: チリ時間,
-    Standard: チリ標準時,
-    Daylight: チリ夏時間
-  },
-  Brazil/East: {
-    Generic: ブラジリア時間,
-    Standard: ブラジリア標準時,
-    Daylight: ブラジリア夏時間
-  },
-  Canada/Newfoundland: {
-    Generic: ニューファンドランド時間,
-    Standard: ニューファンドランド標準時,
-    Daylight: ニューファンドランド夏時間
-  },
-  America/Ensenada: {
-    Generic: アメリカ太平洋時間,
-    Standard: アメリカ太平洋標準時,
-    Daylight: アメリカ太平洋夏時間
-  },
-  Mexico/BajaNorte: {
-    Generic: アメリカ太平洋時間,
-    Standard: アメリカ太平洋標準時,
-    Daylight: アメリカ太平洋夏時間
-  },
-  Canada/Eastern: {
-    Generic: アメリカ東部時間,
-    Standard: アメリカ東部標準時,
-    Daylight: アメリカ東部夏時間
-  },
-  Canada/Pacific: {
-    Generic: アメリカ太平洋時間,
-    Standard: アメリカ太平洋標準時,
-    Daylight: アメリカ太平洋夏時間
-  },
-  Canada/Yukon: {
-    Generic: ユーコン時間,
-    Standard: ユーコン時間,
-    Daylight: ユーコン時間
-  },
-  Canada/Central: {
-    Generic: アメリカ中部時間,
-    Standard: アメリカ中部標準時,
-    Daylight: アメリカ中部夏時間
   },
   Asia/Ashkhabad: {
     Generic: トルクメニスタン時間,
     Standard: トルクメニスタン標準時,
     Daylight: トルクメニスタン夏時間
   },
-  Asia/Dacca: {
-    Generic: バングラデシュ時間,
-    Standard: バングラデシュ標準時,
-    Daylight: バングラデシュ夏時間
+  Asia/Atyrau: {
+    Generic: 西カザフスタン時間,
+    Standard: 西カザフスタン時間,
+    Daylight: 西カザフスタン時間
   },
-  Asia/Ho_Chi_Minh: {
+  Asia/Baghdad: {
+    Generic: アラビア時間,
+    Standard: アラビア標準時,
+    Daylight: アラビア夏時間
+  },
+  Asia/Bahrain: {
+    Generic: アラビア時間,
+    Standard: アラビア標準時,
+    Daylight: アラビア夏時間
+  },
+  Asia/Baku: {
+    Generic: アゼルバイジャン時間,
+    Standard: アゼルバイジャン標準時,
+    Daylight: アゼルバイジャン夏時間
+  },
+  Asia/Bangkok: {
     Generic: インドシナ時間,
     Standard: インドシナ時間,
     Daylight: インドシナ時間
   },
-  Hongkong: {
-    Generic: 香港時間,
-    Standard: 香港標準時,
-    Daylight: 香港夏時間
+  Asia/Barnaul: {
+    Generic: バルナウル時間,
+    Standard: バルナウル標準時,
+    Daylight: バルナウル夏時間
   },
-  Asia/Tel_Aviv: {
-    Generic: イスラエル時間,
-    Standard: イスラエル標準時,
-    Daylight: イスラエル夏時間
-  },
-  Israel: {
-    Generic: イスラエル時間,
-    Standard: イスラエル標準時,
-    Daylight: イスラエル夏時間
-  },
-  Asia/Kathmandu: {
-    Generic: ネパール時間,
-    Standard: ネパール時間,
-    Daylight: ネパール時間
-  },
-  Asia/Kolkata: {
-    Generic: インド標準時,
-    Standard: インド標準時,
-    Daylight: インド標準時
-  },
-  Asia/Macao: {
-    Generic: 中国時間,
-    Standard: 中国標準時,
-    Daylight: 中国夏時間
-  },
-  Asia/Ujung_Pandang: {
-    Generic: インドネシア中部時間,
-    Standard: インドネシア中部時間,
-    Daylight: インドネシア中部時間
-  },
-  Europe/Nicosia: {
+  Asia/Beirut: {
     Generic: 東ヨーロッパ時間,
     Standard: 東ヨーロッパ標準時,
     Daylight: 東ヨーロッパ夏時間
   },
-  ROK: {
-    Generic: 韓国時間,
-    Standard: 韓国標準時,
-    Daylight: 韓国夏時間
+  Asia/Bishkek: {
+    Generic: キルギス時間,
+    Standard: キルギス時間,
+    Daylight: キルギス時間
+  },
+  Asia/Brunei: {
+    Generic: ブルネイ・ダルサラーム時間,
+    Standard: ブルネイ・ダルサラーム時間,
+    Daylight: ブルネイ・ダルサラーム時間
+  },
+  Asia/Calcutta: {
+    Generic: インド標準時,
+    Standard: インド標準時,
+    Daylight: インド標準時
+  },
+  Asia/Chita: {
+    Generic: チタ時間,
+    Standard: チタ標準時,
+    Daylight: チタ夏時間
+  },
+  Asia/Choibalsan: {
+    Generic: ウランバートル時間,
+    Standard: ウランバートル標準時,
+    Daylight: ウランバートル夏時間
   },
   Asia/Chongqing: {
     Generic: 中国時間,
@@ -2619,57 +1279,412 @@
     Standard: 中国標準時,
     Daylight: 中国夏時間
   },
+  Asia/Colombo: {
+    Generic: インド標準時,
+    Standard: インド標準時,
+    Daylight: インド標準時
+  },
+  Asia/Dacca: {
+    Generic: バングラデシュ時間,
+    Standard: バングラデシュ標準時,
+    Daylight: バングラデシュ夏時間
+  },
+  Asia/Damascus: {
+    Generic: 東ヨーロッパ時間,
+    Standard: 東ヨーロッパ標準時,
+    Daylight: 東ヨーロッパ夏時間
+  },
+  Asia/Dhaka: {
+    Generic: バングラデシュ時間,
+    Standard: バングラデシュ標準時,
+    Daylight: バングラデシュ夏時間
+  },
+  Asia/Dili: {
+    Generic: 東ティモール時間,
+    Standard: 東ティモール時間,
+    Daylight: 東ティモール時間
+  },
+  Asia/Dubai: {
+    Generic: 湾岸標準時,
+    Standard: 湾岸標準時,
+    Daylight: 湾岸標準時
+  },
+  Asia/Dushanbe: {
+    Generic: タジキスタン時間,
+    Standard: タジキスタン時間,
+    Daylight: タジキスタン時間
+  },
+  Asia/Famagusta: {
+    Generic: 東ヨーロッパ時間,
+    Standard: 東ヨーロッパ標準時,
+    Daylight: 東ヨーロッパ夏時間
+  },
+  Asia/Gaza: {
+    Generic: 東ヨーロッパ時間,
+    Standard: 東ヨーロッパ標準時,
+    Daylight: 東ヨーロッパ夏時間
+  },
   Asia/Harbin: {
     Generic: 中国時間,
     Standard: 中国標準時,
     Daylight: 中国夏時間
   },
-  PRC: {
-    Generic: 中国時間,
-    Standard: 中国標準時,
-    Daylight: 中国夏時間
+  Asia/Hebron: {
+    Generic: 東ヨーロッパ時間,
+    Standard: 東ヨーロッパ標準時,
+    Daylight: 東ヨーロッパ夏時間
   },
-  Singapore: {
-    Generic: シンガポール標準時,
-    Standard: シンガポール標準時,
-    Daylight: シンガポール標準時
+  Asia/Ho_Chi_Minh: {
+    Generic: インドシナ時間,
+    Standard: インドシナ時間,
+    Daylight: インドシナ時間
   },
-  ROC: {
-    Generic: 台北時間,
-    Standard: 台北標準時,
-    Daylight: 台北夏時間
+  Asia/Hong_Kong: {
+    Generic: 香港時間,
+    Standard: 香港標準時,
+    Daylight: 香港夏時間
   },
-  Iran: {
-    Generic: イラン時間,
-    Standard: イラン標準時,
-    Daylight: イラン夏時間
+  Asia/Hovd: {
+    Generic: ホブド時間,
+    Standard: ホブド標準時,
+    Daylight: ホブド夏時間
   },
-  Asia/Thimbu: {
-    Generic: ブータン時間,
-    Standard: ブータン時間,
-    Daylight: ブータン時間
+  Asia/Irkutsk: {
+    Generic: イルクーツク時間,
+    Standard: イルクーツク標準時,
+    Daylight: イルクーツク夏時間
   },
-  Japan: {
-    Generic: 日本時間,
-    Standard: 日本標準時,
-    Daylight: 日本夏時間
+  Asia/Istanbul: {
+    Generic: トルコ時間,
+    Standard: トルコ標準時,
+    Daylight: トルコ夏時間
   },
-  Asia/Ulan_Bator: {
-    Generic: ウランバートル時間,
-    Standard: ウランバートル標準時,
-    Daylight: ウランバートル夏時間
+  Asia/Jakarta: {
+    Generic: インドネシア西部時間,
+    Standard: インドネシア西部時間,
+    Daylight: インドネシア西部時間
+  },
+  Asia/Jayapura: {
+    Generic: インドネシア東部時間,
+    Standard: インドネシア東部時間,
+    Daylight: インドネシア東部時間
+  },
+  Asia/Jerusalem: {
+    Generic: イスラエル時間,
+    Standard: イスラエル標準時,
+    Daylight: イスラエル夏時間
+  },
+  Asia/Kabul: {
+    Generic: アフガニスタン時間,
+    Standard: アフガニスタン時間,
+    Daylight: アフガニスタン時間
+  },
+  Asia/Kamchatka: {
+    Generic: カムチャッカ時間,
+    Standard: カムチャッカ標準時,
+    Daylight: カムチャッカ夏時間
+  },
+  Asia/Karachi: {
+    Generic: パキスタン時間,
+    Standard: パキスタン標準時,
+    Daylight: パキスタン夏時間
   },
   Asia/Kashgar: {
     Generic: 中国時間,
     Standard: 中国標準時,
     Daylight: 中国夏時間
   },
+  Asia/Kathmandu: {
+    Generic: ネパール時間,
+    Standard: ネパール時間,
+    Daylight: ネパール時間
+  },
+  Asia/Katmandu: {
+    Generic: ネパール時間,
+    Standard: ネパール時間,
+    Daylight: ネパール時間
+  },
+  Asia/Khandyga: {
+    Generic: ハンドゥイガ時間,
+    Standard: ハンドゥイガ標準時,
+    Daylight: ハンドゥイガ夏時間
+  },
+  Asia/Kolkata: {
+    Generic: インド標準時,
+    Standard: インド標準時,
+    Daylight: インド標準時
+  },
+  Asia/Krasnoyarsk: {
+    Generic: クラスノヤルスク時間,
+    Standard: クラスノヤルスク標準時,
+    Daylight: クラスノヤルスク夏時間
+  },
+  Asia/Kuala_Lumpur: {
+    Generic: マレーシア時間,
+    Standard: マレーシア時間,
+    Daylight: マレーシア時間
+  },
+  Asia/Kuching: {
+    Generic: マレーシア時間,
+    Standard: マレーシア時間,
+    Daylight: マレーシア時間
+  },
+  Asia/Kuwait: {
+    Generic: アラビア時間,
+    Standard: アラビア標準時,
+    Daylight: アラビア夏時間
+  },
+  Asia/Macao: {
+    Generic: 中国時間,
+    Standard: 中国標準時,
+    Daylight: 中国夏時間
+  },
+  Asia/Macau: {
+    Generic: 中国時間,
+    Standard: 中国標準時,
+    Daylight: 中国夏時間
+  },
+  Asia/Magadan: {
+    Generic: マガダン時間,
+    Standard: マガダン標準時,
+    Daylight: マガダン夏時間
+  },
+  Asia/Makassar: {
+    Generic: インドネシア中部時間,
+    Standard: インドネシア中部時間,
+    Daylight: インドネシア中部時間
+  },
+  Asia/Manila: {
+    Generic: フィリピン時間,
+    Standard: フィリピン標準時,
+    Daylight: フィリピン夏時間
+  },
+  Asia/Muscat: {
+    Generic: 湾岸標準時,
+    Standard: 湾岸標準時,
+    Daylight: 湾岸標準時
+  },
+  Asia/Nicosia: {
+    Generic: 東ヨーロッパ時間,
+    Standard: 東ヨーロッパ標準時,
+    Daylight: 東ヨーロッパ夏時間
+  },
+  Asia/Novokuznetsk: {
+    Generic: ノヴォクズネツク時間,
+    Standard: ノヴォクズネツク標準時,
+    Daylight: ノヴォクズネツク夏時間
+  },
+  Asia/Novosibirsk: {
+    Generic: ノヴォシビルスク時間,
+    Standard: ノヴォシビルスク標準時,
+    Daylight: ノヴォシビルスク夏時間
+  },
+  Asia/Omsk: {
+    Generic: オムスク時間,
+    Standard: オムスク標準時,
+    Daylight: オムスク夏時間
+  },
+  Asia/Oral: {
+    Generic: 西カザフスタン時間,
+    Standard: 西カザフスタン時間,
+    Daylight: 西カザフスタン時間
+  },
+  Asia/Phnom_Penh: {
+    Generic: インドシナ時間,
+    Standard: インドシナ時間,
+    Daylight: インドシナ時間
+  },
+  Asia/Pontianak: {
+    Generic: インドネシア西部時間,
+    Standard: インドネシア西部時間,
+    Daylight: インドネシア西部時間
+  },
+  Asia/Pyongyang: {
+    Generic: 韓国時間,
+    Standard: 韓国標準時,
+    Daylight: 韓国夏時間
+  },
+  Asia/Qatar: {
+    Generic: アラビア時間,
+    Standard: アラビア標準時,
+    Daylight: アラビア夏時間
+  },
+  Asia/Qostanay: {
+    Generic: 東カザフスタン時間,
+    Standard: 東カザフスタン時間,
+    Daylight: 東カザフスタン時間
+  },
+  Asia/Qyzylorda: {
+    Generic: 西カザフスタン時間,
+    Standard: 西カザフスタン時間,
+    Daylight: 西カザフスタン時間
+  },
+  Asia/Rangoon: {
+    Generic: ミャンマー時間,
+    Standard: ミャンマー時間,
+    Daylight: ミャンマー時間
+  },
+  Asia/Riyadh: {
+    Generic: アラビア時間,
+    Standard: アラビア標準時,
+    Daylight: アラビア夏時間
+  },
+  Asia/Saigon: {
+    Generic: インドシナ時間,
+    Standard: インドシナ時間,
+    Daylight: インドシナ時間
+  },
+  Asia/Sakhalin: {
+    Generic: サハリン時間,
+    Standard: サハリン標準時,
+    Daylight: サハリン夏時間
+  },
+  Asia/Samarkand: {
+    Generic: ウズベキスタン時間,
+    Standard: ウズベキスタン標準時,
+    Daylight: ウズベキスタン夏時間
+  },
+  Asia/Seoul: {
+    Generic: 韓国時間,
+    Standard: 韓国標準時,
+    Daylight: 韓国夏時間
+  },
+  Asia/Shanghai: {
+    Generic: 中国時間,
+    Standard: 中国標準時,
+    Daylight: 中国夏時間
+  },
+  Asia/Singapore: {
+    Generic: シンガポール標準時,
+    Standard: シンガポール標準時,
+    Daylight: シンガポール標準時
+  },
+  Asia/Srednekolymsk: {
+    Generic: スレドネコリムスク時間,
+    Standard: スレドネコリムスク標準時,
+    Daylight: スレドネコリムスク夏時間
+  },
+  Asia/Taipei: {
+    Generic: 台北時間,
+    Standard: 台北標準時,
+    Daylight: 台北夏時間
+  },
+  Asia/Tashkent: {
+    Generic: ウズベキスタン時間,
+    Standard: ウズベキスタン標準時,
+    Daylight: ウズベキスタン夏時間
+  },
+  Asia/Tbilisi: {
+    Generic: ジョージア時間,
+    Standard: ジョージア標準時,
+    Daylight: ジョージア夏時間
+  },
+  Asia/Tehran: {
+    Generic: イラン時間,
+    Standard: イラン標準時,
+    Daylight: イラン夏時間
+  },
+  Asia/Tel_Aviv: {
+    Generic: イスラエル時間,
+    Standard: イスラエル標準時,
+    Daylight: イスラエル夏時間
+  },
+  Asia/Thimbu: {
+    Generic: ブータン時間,
+    Standard: ブータン時間,
+    Daylight: ブータン時間
+  },
+  Asia/Thimphu: {
+    Generic: ブータン時間,
+    Standard: ブータン時間,
+    Daylight: ブータン時間
+  },
+  Asia/Tokyo: {
+    Generic: 日本時間,
+    Standard: 日本標準時,
+    Daylight: 日本夏時間
+  },
+  Asia/Tomsk: {
+    Generic: トムスク時間,
+    Standard: トムスク標準時,
+    Daylight: トムスク夏時間
+  },
+  Asia/Ujung_Pandang: {
+    Generic: インドネシア中部時間,
+    Standard: インドネシア中部時間,
+    Daylight: インドネシア中部時間
+  },
+  Asia/Ulaanbaatar: {
+    Generic: ウランバートル時間,
+    Standard: ウランバートル標準時,
+    Daylight: ウランバートル夏時間
+  },
+  Asia/Ulan_Bator: {
+    Generic: ウランバートル時間,
+    Standard: ウランバートル標準時,
+    Daylight: ウランバートル夏時間
+  },
+  Asia/Urumqi: {
+    Generic: 中国時間,
+    Standard: 中国標準時,
+    Daylight: 中国夏時間
+  },
+  Asia/Ust-Nera: {
+    Generic: ウスチネラ時間,
+    Standard: ウスチネラ標準時,
+    Daylight: ウスチネラ夏時間
+  },
+  Asia/Vientiane: {
+    Generic: インドシナ時間,
+    Standard: インドシナ時間,
+    Daylight: インドシナ時間
+  },
+  Asia/Vladivostok: {
+    Generic: ウラジオストク時間,
+    Standard: ウラジオストク標準時,
+    Daylight: ウラジオストク夏時間
+  },
+  Asia/Yakutsk: {
+    Generic: ヤクーツク時間,
+    Standard: ヤクーツク標準時,
+    Daylight: ヤクーツク夏時間
+  },
   Asia/Yangon: {
     Generic: ミャンマー時間,
     Standard: ミャンマー時間,
     Daylight: ミャンマー時間
   },
-  WET: {
+  Asia/Yekaterinburg: {
+    Generic: エカテリンブルグ時間,
+    Standard: エカテリンブルグ標準時,
+    Daylight: エカテリンブルグ夏時間
+  },
+  Asia/Yerevan: {
+    Generic: アルメニア時間,
+    Standard: アルメニア標準時,
+    Daylight: アルメニア夏時間
+  },
+  Atlantic/Azores: {
+    Generic: アゾレス時間,
+    Standard: アゾレス標準時,
+    Daylight: アゾレス夏時間
+  },
+  Atlantic/Bermuda: {
+    Generic: 大西洋時間,
+    Standard: 大西洋標準時,
+    Daylight: 大西洋夏時間
+  },
+  Atlantic/Canary: {
+    Generic: 西ヨーロッパ時間,
+    Standard: 西ヨーロッパ標準時,
+    Daylight: 西ヨーロッパ夏時間
+  },
+  Atlantic/Cape_Verde: {
+    Generic: カーボベルデ時間,
+    Standard: カーボベルデ標準時,
+    Daylight: カーボベルデ夏時間
+  },
+  Atlantic/Faeroe: {
     Generic: 西ヨーロッパ時間,
     Standard: 西ヨーロッパ標準時,
     Daylight: 西ヨーロッパ夏時間
@@ -2679,27 +1694,77 @@
     Standard: 西ヨーロッパ標準時,
     Daylight: 西ヨーロッパ夏時間
   },
-  Australia/South: {
-    Generic: オーストラリア中部時間,
-    Standard: オーストラリア中部標準時,
-    Daylight: オーストラリア中部夏時間
+  Atlantic/Jan_Mayen: {
+    Generic: 中央ヨーロッパ時間,
+    Standard: 中央ヨーロッパ標準時,
+    Daylight: 中央ヨーロッパ夏時間
   },
-  Australia/Queensland: {
+  Atlantic/Madeira: {
+    Generic: 西ヨーロッパ時間,
+    Standard: 西ヨーロッパ標準時,
+    Daylight: 西ヨーロッパ夏時間
+  },
+  Atlantic/Reykjavik: {
+    Generic: グリニッジ標準時,
+    Standard: グリニッジ標準時,
+    Daylight: グリニッジ標準時
+  },
+  Atlantic/South_Georgia: {
+    Generic: サウスジョージア時間,
+    Standard: サウスジョージア時間,
+    Daylight: サウスジョージア時間
+  },
+  Atlantic/St_Helena: {
+    Generic: グリニッジ標準時,
+    Standard: グリニッジ標準時,
+    Daylight: グリニッジ標準時
+  },
+  Atlantic/Stanley: {
+    Generic: フォークランド諸島時間,
+    Standard: フォークランド諸島標準時,
+    Daylight: フォークランド諸島夏時間
+  },
+  Australia/ACT: {
     Generic: オーストラリア東部時間,
     Standard: オーストラリア東部標準時,
     Daylight: オーストラリア東部夏時間
   },
-  Australia/Yancowinna: {
+  Australia/Adelaide: {
     Generic: オーストラリア中部時間,
     Standard: オーストラリア中部標準時,
     Daylight: オーストラリア中部夏時間
   },
-  Australia/North: {
+  Australia/Brisbane: {
+    Generic: オーストラリア東部時間,
+    Standard: オーストラリア東部標準時,
+    Daylight: オーストラリア東部夏時間
+  },
+  Australia/Broken_Hill: {
     Generic: オーストラリア中部時間,
     Standard: オーストラリア中部標準時,
     Daylight: オーストラリア中部夏時間
   },
-  Australia/Tasmania: {
+  Australia/Canberra: {
+    Generic: オーストラリア東部時間,
+    Standard: オーストラリア東部標準時,
+    Daylight: オーストラリア東部夏時間
+  },
+  Australia/Currie: {
+    Generic: オーストラリア東部時間,
+    Standard: オーストラリア東部標準時,
+    Daylight: オーストラリア東部夏時間
+  },
+  Australia/Darwin: {
+    Generic: オーストラリア中部時間,
+    Standard: オーストラリア中部標準時,
+    Daylight: オーストラリア中部夏時間
+  },
+  Australia/Eucla: {
+    Generic: オーストラリア中西部時間,
+    Standard: オーストラリア中西部標準時,
+    Daylight: オーストラリア中西部夏時間
+  },
+  Australia/Hobart: {
     Generic: オーストラリア東部時間,
     Standard: オーストラリア東部標準時,
     Daylight: オーストラリア東部夏時間
@@ -2708,6 +1773,56 @@
     Generic: ロードハウ時間,
     Standard: ロードハウ標準時,
     Daylight: ロードハウ夏時間
+  },
+  Australia/Lindeman: {
+    Generic: オーストラリア東部時間,
+    Standard: オーストラリア東部標準時,
+    Daylight: オーストラリア東部夏時間
+  },
+  Australia/Lord_Howe: {
+    Generic: ロードハウ時間,
+    Standard: ロードハウ標準時,
+    Daylight: ロードハウ夏時間
+  },
+  Australia/Melbourne: {
+    Generic: オーストラリア東部時間,
+    Standard: オーストラリア東部標準時,
+    Daylight: オーストラリア東部夏時間
+  },
+  Australia/NSW: {
+    Generic: オーストラリア東部時間,
+    Standard: オーストラリア東部標準時,
+    Daylight: オーストラリア東部夏時間
+  },
+  Australia/North: {
+    Generic: オーストラリア中部時間,
+    Standard: オーストラリア中部標準時,
+    Daylight: オーストラリア中部夏時間
+  },
+  Australia/Perth: {
+    Generic: オーストラリア西部時間,
+    Standard: オーストラリア西部標準時,
+    Daylight: オーストラリア西部夏時間
+  },
+  Australia/Queensland: {
+    Generic: オーストラリア東部時間,
+    Standard: オーストラリア東部標準時,
+    Daylight: オーストラリア東部夏時間
+  },
+  Australia/South: {
+    Generic: オーストラリア中部時間,
+    Standard: オーストラリア中部標準時,
+    Daylight: オーストラリア中部夏時間
+  },
+  Australia/Sydney: {
+    Generic: オーストラリア東部時間,
+    Standard: オーストラリア東部標準時,
+    Daylight: オーストラリア東部夏時間
+  },
+  Australia/Tasmania: {
+    Generic: オーストラリア東部時間,
+    Standard: オーストラリア東部標準時,
+    Daylight: オーストラリア東部夏時間
   },
   Australia/Victoria: {
     Generic: オーストラリア東部時間,
@@ -2719,45 +1834,265 @@
     Standard: オーストラリア西部標準時,
     Daylight: オーストラリア西部夏時間
   },
-  Australia/ACT: {
-    Generic: オーストラリア東部時間,
-    Standard: オーストラリア東部標準時,
-    Daylight: オーストラリア東部夏時間
+  Australia/Yancowinna: {
+    Generic: オーストラリア中部時間,
+    Standard: オーストラリア中部標準時,
+    Daylight: オーストラリア中部夏時間
   },
-  Australia/Canberra: {
-    Generic: オーストラリア東部時間,
-    Standard: オーストラリア東部標準時,
-    Daylight: オーストラリア東部夏時間
+  Brazil/Acre: {
+    Generic: アクレ時間,
+    Standard: アクレ標準時,
+    Daylight: アクレ夏時間
   },
-  Australia/NSW: {
-    Generic: オーストラリア東部時間,
-    Standard: オーストラリア東部標準時,
-    Daylight: オーストラリア東部夏時間
+  Brazil/DeNoronha: {
+    Generic: フェルナンド・デ・ノローニャ時間,
+    Standard: フェルナンド・デ・ノローニャ標準時,
+    Daylight: フェルナンド・デ・ノローニャ夏時間
   },
-  HST: {
-    Generic: 協定世界時 -10,
-    Standard: 協定世界時 -10,
-    Daylight: 協定世界時 -10
+  Brazil/East: {
+    Generic: ブラジリア時間,
+    Standard: ブラジリア標準時,
+    Daylight: ブラジリア夏時間
+  },
+  Brazil/West: {
+    Generic: アマゾン時間,
+    Standard: アマゾン標準時,
+    Daylight: アマゾン夏時間
+  },
+  CET: {
+    Generic: 中央ヨーロッパ時間,
+    Standard: 中央ヨーロッパ標準時,
+    Daylight: 中央ヨーロッパ夏時間
+  },
+  CST6CDT: {
+    Generic: アメリカ中部時間,
+    Standard: アメリカ中部標準時,
+    Daylight: アメリカ中部夏時間
+  },
+  Canada/Atlantic: {
+    Generic: 大西洋時間,
+    Standard: 大西洋標準時,
+    Daylight: 大西洋夏時間
+  },
+  Canada/Central: {
+    Generic: アメリカ中部時間,
+    Standard: アメリカ中部標準時,
+    Daylight: アメリカ中部夏時間
+  },
+  Canada/Eastern: {
+    Generic: アメリカ東部時間,
+    Standard: アメリカ東部標準時,
+    Daylight: アメリカ東部夏時間
+  },
+  Canada/Mountain: {
+    Generic: アメリカ山地時間,
+    Standard: アメリカ山地標準時,
+    Daylight: アメリカ山地夏時間
+  },
+  Canada/Newfoundland: {
+    Generic: ニューファンドランド時間,
+    Standard: ニューファンドランド標準時,
+    Daylight: ニューファンドランド夏時間
+  },
+  Canada/Pacific: {
+    Generic: アメリカ太平洋時間,
+    Standard: アメリカ太平洋標準時,
+    Daylight: アメリカ太平洋夏時間
+  },
+  Canada/Saskatchewan: {
+    Generic: アメリカ中部時間,
+    Standard: アメリカ中部標準時,
+    Daylight: アメリカ中部夏時間
+  },
+  Canada/Yukon: {
+    Generic: ユーコン時間,
+    Standard: ユーコン時間,
+    Daylight: ユーコン時間
+  },
+  Chile/Continental: {
+    Generic: チリ時間,
+    Standard: チリ標準時,
+    Daylight: チリ夏時間
+  },
+  Chile/EasterIsland: {
+    Generic: イースター島時間,
+    Standard: イースター島標準時,
+    Daylight: イースター島夏時間
+  },
+  Cuba: {
+    Generic: キューバ時間,
+    Standard: キューバ標準時,
+    Daylight: キューバ夏時間
+  },
+  EET: {
+    Generic: 東ヨーロッパ時間,
+    Standard: 東ヨーロッパ標準時,
+    Daylight: 東ヨーロッパ夏時間
   },
   EST: {
     Generic: 協定世界時 -5,
     Standard: 協定世界時 -5,
     Daylight: 協定世界時 -5
   },
-  MST: {
-    Generic: 協定世界時 -7,
-    Standard: 協定世界時 -7,
-    Daylight: 協定世界時 -7
+  EST5EDT: {
+    Generic: アメリカ東部時間,
+    Standard: アメリカ東部標準時,
+    Daylight: アメリカ東部夏時間
+  },
+  Egypt: {
+    Generic: 東ヨーロッパ時間,
+    Standard: 東ヨーロッパ標準時,
+    Daylight: 東ヨーロッパ夏時間
+  },
+  Eire: {
+    Generic: アイルランド時間,
+    Standard: グリニッジ標準時,
+    Daylight: アイルランド標準時
+  },
+  Etc/GMT: {
+    Generic: グリニッジ標準時,
+    Standard: グリニッジ標準時,
+    Daylight: グリニッジ標準時
   },
   Etc/GMT+0: {
     Generic: グリニッジ標準時,
     Standard: グリニッジ標準時,
     Daylight: グリニッジ標準時
   },
+  Etc/GMT+1: {
+    Generic: 協定世界時 -1,
+    Standard: 協定世界時 -1,
+    Daylight: 協定世界時 -1
+  },
+  Etc/GMT+10: {
+    Generic: 協定世界時 -10,
+    Standard: 協定世界時 -10,
+    Daylight: 協定世界時 -10
+  },
+  Etc/GMT+11: {
+    Generic: 協定世界時 -11,
+    Standard: 協定世界時 -11,
+    Daylight: 協定世界時 -11
+  },
+  Etc/GMT+12: {
+    Generic: 協定世界時 -12,
+    Standard: 協定世界時 -12,
+    Daylight: 協定世界時 -12
+  },
+  Etc/GMT+2: {
+    Generic: 協定世界時 -2,
+    Standard: 協定世界時 -2,
+    Daylight: 協定世界時 -2
+  },
+  Etc/GMT+3: {
+    Generic: 協定世界時 -3,
+    Standard: 協定世界時 -3,
+    Daylight: 協定世界時 -3
+  },
+  Etc/GMT+4: {
+    Generic: 協定世界時 -4,
+    Standard: 協定世界時 -4,
+    Daylight: 協定世界時 -4
+  },
+  Etc/GMT+5: {
+    Generic: 協定世界時 -5,
+    Standard: 協定世界時 -5,
+    Daylight: 協定世界時 -5
+  },
+  Etc/GMT+6: {
+    Generic: 協定世界時 -6,
+    Standard: 協定世界時 -6,
+    Daylight: 協定世界時 -6
+  },
+  Etc/GMT+7: {
+    Generic: 協定世界時 -7,
+    Standard: 協定世界時 -7,
+    Daylight: 協定世界時 -7
+  },
+  Etc/GMT+8: {
+    Generic: 協定世界時 -8,
+    Standard: 協定世界時 -8,
+    Daylight: 協定世界時 -8
+  },
+  Etc/GMT+9: {
+    Generic: 協定世界時 -9,
+    Standard: 協定世界時 -9,
+    Daylight: 協定世界時 -9
+  },
   Etc/GMT-0: {
     Generic: グリニッジ標準時,
     Standard: グリニッジ標準時,
     Daylight: グリニッジ標準時
+  },
+  Etc/GMT-1: {
+    Generic: 協定世界時 +1,
+    Standard: 協定世界時 +1,
+    Daylight: 協定世界時 +1
+  },
+  Etc/GMT-10: {
+    Generic: 協定世界時 +10,
+    Standard: 協定世界時 +10,
+    Daylight: 協定世界時 +10
+  },
+  Etc/GMT-11: {
+    Generic: 協定世界時 +11,
+    Standard: 協定世界時 +11,
+    Daylight: 協定世界時 +11
+  },
+  Etc/GMT-12: {
+    Generic: 協定世界時 +12,
+    Standard: 協定世界時 +12,
+    Daylight: 協定世界時 +12
+  },
+  Etc/GMT-13: {
+    Generic: 協定世界時 +13,
+    Standard: 協定世界時 +13,
+    Daylight: 協定世界時 +13
+  },
+  Etc/GMT-14: {
+    Generic: 協定世界時 +14,
+    Standard: 協定世界時 +14,
+    Daylight: 協定世界時 +14
+  },
+  Etc/GMT-2: {
+    Generic: 協定世界時 +2,
+    Standard: 協定世界時 +2,
+    Daylight: 協定世界時 +2
+  },
+  Etc/GMT-3: {
+    Generic: 協定世界時 +3,
+    Standard: 協定世界時 +3,
+    Daylight: 協定世界時 +3
+  },
+  Etc/GMT-4: {
+    Generic: 協定世界時 +4,
+    Standard: 協定世界時 +4,
+    Daylight: 協定世界時 +4
+  },
+  Etc/GMT-5: {
+    Generic: 協定世界時 +5,
+    Standard: 協定世界時 +5,
+    Daylight: 協定世界時 +5
+  },
+  Etc/GMT-6: {
+    Generic: 協定世界時 +6,
+    Standard: 協定世界時 +6,
+    Daylight: 協定世界時 +6
+  },
+  Etc/GMT-7: {
+    Generic: 協定世界時 +7,
+    Standard: 協定世界時 +7,
+    Daylight: 協定世界時 +7
+  },
+  Etc/GMT-8: {
+    Generic: 協定世界時 +8,
+    Standard: 協定世界時 +8,
+    Daylight: 協定世界時 +8
+  },
+  Etc/GMT-9: {
+    Generic: 協定世界時 +9,
+    Standard: 協定世界時 +9,
+    Daylight: 協定世界時 +9
   },
   Etc/GMT0: {
     Generic: グリニッジ標準時,
@@ -2768,6 +2103,356 @@
     Generic: グリニッジ標準時,
     Standard: グリニッジ標準時,
     Daylight: グリニッジ標準時
+  },
+  Etc/UCT: {
+    Generic: 協定世界時,
+    Standard: 協定世界時,
+    Daylight: 協定世界時
+  },
+  Etc/UTC: {
+    Generic: 協定世界時,
+    Standard: 協定世界時,
+    Daylight: 協定世界時
+  },
+  Etc/Universal: {
+    Generic: 協定世界時,
+    Standard: 協定世界時,
+    Daylight: 協定世界時
+  },
+  Etc/Zulu: {
+    Generic: 協定世界時,
+    Standard: 協定世界時,
+    Daylight: 協定世界時
+  },
+  Europe/Amsterdam: {
+    Generic: 中央ヨーロッパ時間,
+    Standard: 中央ヨーロッパ標準時,
+    Daylight: 中央ヨーロッパ夏時間
+  },
+  Europe/Andorra: {
+    Generic: 中央ヨーロッパ時間,
+    Standard: 中央ヨーロッパ標準時,
+    Daylight: 中央ヨーロッパ夏時間
+  },
+  Europe/Astrakhan: {
+    Generic: アストラハン時間,
+    Standard: アストラハン標準時,
+    Daylight: アストラハン夏時間
+  },
+  Europe/Athens: {
+    Generic: 東ヨーロッパ時間,
+    Standard: 東ヨーロッパ標準時,
+    Daylight: 東ヨーロッパ夏時間
+  },
+  Europe/Belfast: {
+    Generic: イギリス時間,
+    Standard: グリニッジ標準時,
+    Daylight: 英国夏時間
+  },
+  Europe/Belgrade: {
+    Generic: 中央ヨーロッパ時間,
+    Standard: 中央ヨーロッパ標準時,
+    Daylight: 中央ヨーロッパ夏時間
+  },
+  Europe/Berlin: {
+    Generic: 中央ヨーロッパ時間,
+    Standard: 中央ヨーロッパ標準時,
+    Daylight: 中央ヨーロッパ夏時間
+  },
+  Europe/Bratislava: {
+    Generic: 中央ヨーロッパ時間,
+    Standard: 中央ヨーロッパ標準時,
+    Daylight: 中央ヨーロッパ夏時間
+  },
+  Europe/Brussels: {
+    Generic: 中央ヨーロッパ時間,
+    Standard: 中央ヨーロッパ標準時,
+    Daylight: 中央ヨーロッパ夏時間
+  },
+  Europe/Bucharest: {
+    Generic: 東ヨーロッパ時間,
+    Standard: 東ヨーロッパ標準時,
+    Daylight: 東ヨーロッパ夏時間
+  },
+  Europe/Budapest: {
+    Generic: 中央ヨーロッパ時間,
+    Standard: 中央ヨーロッパ標準時,
+    Daylight: 中央ヨーロッパ夏時間
+  },
+  Europe/Busingen: {
+    Generic: 中央ヨーロッパ時間,
+    Standard: 中央ヨーロッパ標準時,
+    Daylight: 中央ヨーロッパ夏時間
+  },
+  Europe/Chisinau: {
+    Generic: 東ヨーロッパ時間,
+    Standard: 東ヨーロッパ標準時,
+    Daylight: 東ヨーロッパ夏時間
+  },
+  Europe/Copenhagen: {
+    Generic: 中央ヨーロッパ時間,
+    Standard: 中央ヨーロッパ標準時,
+    Daylight: 中央ヨーロッパ夏時間
+  },
+  Europe/Dublin: {
+    Generic: アイルランド時間,
+    Standard: グリニッジ標準時,
+    Daylight: アイルランド標準時
+  },
+  Europe/Gibraltar: {
+    Generic: 中央ヨーロッパ時間,
+    Standard: 中央ヨーロッパ標準時,
+    Daylight: 中央ヨーロッパ夏時間
+  },
+  Europe/Guernsey: {
+    Generic: グリニッジ標準時,
+    Standard: グリニッジ標準時,
+    Daylight: グリニッジ標準時
+  },
+  Europe/Helsinki: {
+    Generic: 東ヨーロッパ時間,
+    Standard: 東ヨーロッパ標準時,
+    Daylight: 東ヨーロッパ夏時間
+  },
+  Europe/Isle_of_Man: {
+    Generic: グリニッジ標準時,
+    Standard: グリニッジ標準時,
+    Daylight: グリニッジ標準時
+  },
+  Europe/Istanbul: {
+    Generic: トルコ時間,
+    Standard: トルコ標準時,
+    Daylight: トルコ夏時間
+  },
+  Europe/Jersey: {
+    Generic: グリニッジ標準時,
+    Standard: グリニッジ標準時,
+    Daylight: グリニッジ標準時
+  },
+  Europe/Kaliningrad: {
+    Generic: カリーニングラード時間,
+    Standard: カリーニングラード標準時,
+    Daylight: カリーニングラード夏時間
+  },
+  Europe/Kiev: {
+    Generic: 東ヨーロッパ時間,
+    Standard: 東ヨーロッパ標準時,
+    Daylight: 東ヨーロッパ夏時間
+  },
+  Europe/Kirov: {
+    Generic: キーロフ時間,
+    Standard: キーロフ標準時,
+    Daylight: キーロフ夏時間
+  },
+  Europe/Kyiv: {
+    Generic: 東ヨーロッパ時間,
+    Standard: 東ヨーロッパ標準時,
+    Daylight: 東ヨーロッパ夏時間
+  },
+  Europe/Lisbon: {
+    Generic: 西ヨーロッパ時間,
+    Standard: 西ヨーロッパ標準時,
+    Daylight: 西ヨーロッパ夏時間
+  },
+  Europe/Ljubljana: {
+    Generic: 中央ヨーロッパ時間,
+    Standard: 中央ヨーロッパ標準時,
+    Daylight: 中央ヨーロッパ夏時間
+  },
+  Europe/London: {
+    Generic: イギリス時間,
+    Standard: グリニッジ標準時,
+    Daylight: 英国夏時間
+  },
+  Europe/Luxembourg: {
+    Generic: 中央ヨーロッパ時間,
+    Standard: 中央ヨーロッパ標準時,
+    Daylight: 中央ヨーロッパ夏時間
+  },
+  Europe/Madrid: {
+    Generic: 中央ヨーロッパ時間,
+    Standard: 中央ヨーロッパ標準時,
+    Daylight: 中央ヨーロッパ夏時間
+  },
+  Europe/Malta: {
+    Generic: 中央ヨーロッパ時間,
+    Standard: 中央ヨーロッパ標準時,
+    Daylight: 中央ヨーロッパ夏時間
+  },
+  Europe/Mariehamn: {
+    Generic: 東ヨーロッパ時間,
+    Standard: 東ヨーロッパ標準時,
+    Daylight: 東ヨーロッパ夏時間
+  },
+  Europe/Minsk: {
+    Generic: モスクワ時間,
+    Standard: モスクワ標準時,
+    Daylight: モスクワ夏時間
+  },
+  Europe/Monaco: {
+    Generic: 中央ヨーロッパ時間,
+    Standard: 中央ヨーロッパ標準時,
+    Daylight: 中央ヨーロッパ夏時間
+  },
+  Europe/Moscow: {
+    Generic: モスクワ時間,
+    Standard: モスクワ標準時,
+    Daylight: モスクワ夏時間
+  },
+  Europe/Nicosia: {
+    Generic: 東ヨーロッパ時間,
+    Standard: 東ヨーロッパ標準時,
+    Daylight: 東ヨーロッパ夏時間
+  },
+  Europe/Oslo: {
+    Generic: 中央ヨーロッパ時間,
+    Standard: 中央ヨーロッパ標準時,
+    Daylight: 中央ヨーロッパ夏時間
+  },
+  Europe/Paris: {
+    Generic: 中央ヨーロッパ時間,
+    Standard: 中央ヨーロッパ標準時,
+    Daylight: 中央ヨーロッパ夏時間
+  },
+  Europe/Podgorica: {
+    Generic: 中央ヨーロッパ時間,
+    Standard: 中央ヨーロッパ標準時,
+    Daylight: 中央ヨーロッパ夏時間
+  },
+  Europe/Prague: {
+    Generic: 中央ヨーロッパ時間,
+    Standard: 中央ヨーロッパ標準時,
+    Daylight: 中央ヨーロッパ夏時間
+  },
+  Europe/Riga: {
+    Generic: 東ヨーロッパ時間,
+    Standard: 東ヨーロッパ標準時,
+    Daylight: 東ヨーロッパ夏時間
+  },
+  Europe/Rome: {
+    Generic: 中央ヨーロッパ時間,
+    Standard: 中央ヨーロッパ標準時,
+    Daylight: 中央ヨーロッパ夏時間
+  },
+  Europe/Samara: {
+    Generic: サマラ時間,
+    Standard: サマラ標準時,
+    Daylight: サマラ夏時間
+  },
+  Europe/San_Marino: {
+    Generic: 中央ヨーロッパ時間,
+    Standard: 中央ヨーロッパ標準時,
+    Daylight: 中央ヨーロッパ夏時間
+  },
+  Europe/Sarajevo: {
+    Generic: 中央ヨーロッパ時間,
+    Standard: 中央ヨーロッパ標準時,
+    Daylight: 中央ヨーロッパ夏時間
+  },
+  Europe/Saratov: {
+    Generic: サラトフ時間,
+    Standard: サラトフ標準時,
+    Daylight: サラトフ夏時間
+  },
+  Europe/Simferopol: {
+    Generic: モスクワ時間,
+    Standard: モスクワ標準時,
+    Daylight: モスクワ夏時間
+  },
+  Europe/Skopje: {
+    Generic: 中央ヨーロッパ時間,
+    Standard: 中央ヨーロッパ標準時,
+    Daylight: 中央ヨーロッパ夏時間
+  },
+  Europe/Sofia: {
+    Generic: 東ヨーロッパ時間,
+    Standard: 東ヨーロッパ標準時,
+    Daylight: 東ヨーロッパ夏時間
+  },
+  Europe/Stockholm: {
+    Generic: 中央ヨーロッパ時間,
+    Standard: 中央ヨーロッパ標準時,
+    Daylight: 中央ヨーロッパ夏時間
+  },
+  Europe/Tallinn: {
+    Generic: 東ヨーロッパ時間,
+    Standard: 東ヨーロッパ標準時,
+    Daylight: 東ヨーロッパ夏時間
+  },
+  Europe/Tirane: {
+    Generic: 中央ヨーロッパ時間,
+    Standard: 中央ヨーロッパ標準時,
+    Daylight: 中央ヨーロッパ夏時間
+  },
+  Europe/Tiraspol: {
+    Generic: 東ヨーロッパ時間,
+    Standard: 東ヨーロッパ標準時,
+    Daylight: 東ヨーロッパ夏時間
+  },
+  Europe/Ulyanovsk: {
+    Generic: ウリヤノフスク時間,
+    Standard: ウリヤノフスク標準時,
+    Daylight: ウリヤノフスク夏時間
+  },
+  Europe/Uzhgorod: {
+    Generic: 東ヨーロッパ時間,
+    Standard: 東ヨーロッパ標準時,
+    Daylight: 東ヨーロッパ夏時間
+  },
+  Europe/Vaduz: {
+    Generic: 中央ヨーロッパ時間,
+    Standard: 中央ヨーロッパ標準時,
+    Daylight: 中央ヨーロッパ夏時間
+  },
+  Europe/Vatican: {
+    Generic: 中央ヨーロッパ時間,
+    Standard: 中央ヨーロッパ標準時,
+    Daylight: 中央ヨーロッパ夏時間
+  },
+  Europe/Vienna: {
+    Generic: 中央ヨーロッパ時間,
+    Standard: 中央ヨーロッパ標準時,
+    Daylight: 中央ヨーロッパ夏時間
+  },
+  Europe/Vilnius: {
+    Generic: 東ヨーロッパ時間,
+    Standard: 東ヨーロッパ標準時,
+    Daylight: 東ヨーロッパ夏時間
+  },
+  Europe/Volgograd: {
+    Generic: ボルゴグラード時間,
+    Standard: ボルゴグラード標準時,
+    Daylight: ボルゴグラード夏時間
+  },
+  Europe/Warsaw: {
+    Generic: 中央ヨーロッパ時間,
+    Standard: 中央ヨーロッパ標準時,
+    Daylight: 中央ヨーロッパ夏時間
+  },
+  Europe/Zagreb: {
+    Generic: 中央ヨーロッパ時間,
+    Standard: 中央ヨーロッパ標準時,
+    Daylight: 中央ヨーロッパ夏時間
+  },
+  Europe/Zaporozhye: {
+    Generic: 東ヨーロッパ時間,
+    Standard: 東ヨーロッパ標準時,
+    Daylight: 東ヨーロッパ夏時間
+  },
+  Europe/Zurich: {
+    Generic: 中央ヨーロッパ時間,
+    Standard: 中央ヨーロッパ標準時,
+    Daylight: 中央ヨーロッパ夏時間
+  },
+  GB: {
+    Generic: イギリス時間,
+    Standard: グリニッジ標準時,
+    Daylight: 英国夏時間
+  },
+  GB-Eire: {
+    Generic: イギリス時間,
+    Standard: グリニッジ標準時,
+    Daylight: 英国夏時間
   },
   GMT: {
     Generic: グリニッジ標準時,
@@ -2794,120 +2479,135 @@
     Standard: グリニッジ標準時,
     Daylight: グリニッジ標準時
   },
-  Etc/UCT: {
-    Generic: 協定世界時,
-    Standard: 協定世界時,
-    Daylight: 協定世界時
+  HST: {
+    Generic: 協定世界時 -10,
+    Standard: 協定世界時 -10,
+    Daylight: 協定世界時 -10
   },
-  Etc/Universal: {
-    Generic: 協定世界時,
-    Standard: 協定世界時,
-    Daylight: 協定世界時
+  Hongkong: {
+    Generic: 香港時間,
+    Standard: 香港標準時,
+    Daylight: 香港夏時間
   },
-  Etc/Zulu: {
-    Generic: 協定世界時,
-    Standard: 協定世界時,
-    Daylight: 協定世界時
+  Iceland: {
+    Generic: グリニッジ標準時,
+    Standard: グリニッジ標準時,
+    Daylight: グリニッジ標準時
   },
-  UCT: {
-    Generic: 協定世界時,
-    Standard: 協定世界時,
-    Daylight: 協定世界時
+  Indian/Antananarivo: {
+    Generic: 東アフリカ時間,
+    Standard: 東アフリカ時間,
+    Daylight: 東アフリカ時間
   },
-  UTC: {
-    Generic: 協定世界時,
-    Standard: 協定世界時,
-    Daylight: 協定世界時
+  Indian/Chagos: {
+    Generic: インド洋時間,
+    Standard: インド洋時間,
+    Daylight: インド洋時間
   },
-  Universal: {
-    Generic: 協定世界時,
-    Standard: 協定世界時,
-    Daylight: 協定世界時
+  Indian/Christmas: {
+    Generic: クリスマス島時間,
+    Standard: クリスマス島時間,
+    Daylight: クリスマス島時間
   },
-  Zulu: {
-    Generic: 協定世界時,
-    Standard: 協定世界時,
-    Daylight: 協定世界時
+  Indian/Cocos: {
+    Generic: ココス諸島時間,
+    Standard: ココス諸島時間,
+    Daylight: ココス諸島時間
   },
-  Atlantic/Jan_Mayen: {
-    Generic: 中央ヨーロッパ時間,
-    Standard: 中央ヨーロッパ標準時,
-    Daylight: 中央ヨーロッパ夏時間
+  Indian/Comoro: {
+    Generic: 東アフリカ時間,
+    Standard: 東アフリカ時間,
+    Daylight: 東アフリカ時間
+  },
+  Indian/Kerguelen: {
+    Generic: 仏領南方南極時間,
+    Standard: 仏領南方南極時間,
+    Daylight: 仏領南方南極時間
+  },
+  Indian/Mahe: {
+    Generic: セーシェル時間,
+    Standard: セーシェル時間,
+    Daylight: セーシェル時間
+  },
+  Indian/Maldives: {
+    Generic: モルディブ時間,
+    Standard: モルディブ時間,
+    Daylight: モルディブ時間
+  },
+  Indian/Mauritius: {
+    Generic: モーリシャス時間,
+    Standard: モーリシャス標準時,
+    Daylight: モーリシャス夏時間
+  },
+  Indian/Mayotte: {
+    Generic: 東アフリカ時間,
+    Standard: 東アフリカ時間,
+    Daylight: 東アフリカ時間
+  },
+  Indian/Reunion: {
+    Generic: レユニオン時間,
+    Standard: レユニオン時間,
+    Daylight: レユニオン時間
+  },
+  Iran: {
+    Generic: イラン時間,
+    Standard: イラン標準時,
+    Daylight: イラン夏時間
+  },
+  Israel: {
+    Generic: イスラエル時間,
+    Standard: イスラエル標準時,
+    Daylight: イスラエル夏時間
+  },
+  Jamaica: {
+    Generic: アメリカ東部時間,
+    Standard: アメリカ東部標準時,
+    Daylight: アメリカ東部夏時間
+  },
+  Japan: {
+    Generic: 日本時間,
+    Standard: 日本標準時,
+    Daylight: 日本夏時間
+  },
+  Kwajalein: {
+    Generic: マーシャル諸島時間,
+    Standard: マーシャル諸島時間,
+    Daylight: マーシャル諸島時間
+  },
+  Libya: {
+    Generic: 東ヨーロッパ時間,
+    Standard: 東ヨーロッパ標準時,
+    Daylight: 東ヨーロッパ夏時間
   },
   MET: {
     Generic: 中央ヨーロッパ時間,
     Standard: 中央ヨーロッパ標準時,
     Daylight: 中央ヨーロッパ夏時間
   },
-  EET: {
-    Generic: 東ヨーロッパ時間,
-    Standard: 東ヨーロッパ標準時,
-    Daylight: 東ヨーロッパ夏時間
+  MST: {
+    Generic: 協定世界時 -7,
+    Standard: 協定世界時 -7,
+    Daylight: 協定世界時 -7
   },
-  Europe/Tiraspol: {
-    Generic: 東ヨーロッパ時間,
-    Standard: 東ヨーロッパ標準時,
-    Daylight: 東ヨーロッパ夏時間
+  MST7MDT: {
+    Generic: アメリカ山地時間,
+    Standard: アメリカ山地標準時,
+    Daylight: アメリカ山地夏時間
   },
-  Eire: {
-    Generic: アイルランド時間,
-    Standard: グリニッジ標準時,
-    Daylight: アイルランド標準時
+  Mexico/BajaNorte: {
+    Generic: アメリカ太平洋時間,
+    Standard: アメリカ太平洋標準時,
+    Daylight: アメリカ太平洋夏時間
   },
-  Asia/Istanbul: {
-    Generic: トルコ時間,
-    Standard: トルコ標準時,
-    Daylight: トルコ夏時間
+  Mexico/BajaSur: {
+    Generic: メキシコ太平洋時間,
+    Standard: メキシコ太平洋標準時,
+    Daylight: メキシコ太平洋夏時間
   },
-  Turkey: {
-    Generic: トルコ時間,
-    Standard: トルコ標準時,
-    Daylight: トルコ夏時間
-  },
-  Europe/Kyiv: {
-    Generic: 東ヨーロッパ時間,
-    Standard: 東ヨーロッパ標準時,
-    Daylight: 東ヨーロッパ夏時間
-  },
-  Portugal: {
-    Generic: 西ヨーロッパ時間,
-    Standard: 西ヨーロッパ標準時,
-    Daylight: 西ヨーロッパ夏時間
-  },
-  Europe/Belfast: {
-    Generic: イギリス時間,
-    Standard: グリニッジ標準時,
-    Daylight: 英国夏時間
-  },
-  GB: {
-    Generic: イギリス時間,
-    Standard: グリニッジ標準時,
-    Daylight: 英国夏時間
-  },
-  GB-Eire: {
-    Generic: イギリス時間,
-    Standard: グリニッジ標準時,
-    Daylight: 英国夏時間
-  },
-  W-SU: {
-    Generic: モスクワ時間,
-    Standard: モスクワ標準時,
-    Daylight: モスクワ夏時間
-  },
-  CET: {
-    Generic: 中央ヨーロッパ時間,
-    Standard: 中央ヨーロッパ標準時,
-    Daylight: 中央ヨーロッパ夏時間
-  },
-  Poland: {
-    Generic: 中央ヨーロッパ時間,
-    Standard: 中央ヨーロッパ標準時,
-    Daylight: 中央ヨーロッパ夏時間
-  },
-  Antarctica/South_Pole: {
-    Generic: ニュージーランド時間,
-    Standard: ニュージーランド標準時,
-    Daylight: ニュージーランド夏時間
+  Mexico/General: {
+    Generic: アメリカ中部時間,
+    Standard: アメリカ中部標準時,
+    Daylight: アメリカ中部夏時間
   },
   NZ: {
     Generic: ニュージーランド時間,
@@ -2919,17 +2619,102 @@
     Standard: チャタム標準時,
     Daylight: チャタム夏時間
   },
-  Chile/EasterIsland: {
+  Navajo: {
+    Generic: アメリカ山地時間,
+    Standard: アメリカ山地標準時,
+    Daylight: アメリカ山地夏時間
+  },
+  PRC: {
+    Generic: 中国時間,
+    Standard: 中国標準時,
+    Daylight: 中国夏時間
+  },
+  PST8PDT: {
+    Generic: アメリカ太平洋時間,
+    Standard: アメリカ太平洋標準時,
+    Daylight: アメリカ太平洋夏時間
+  },
+  Pacific/Apia: {
+    Generic: アピア時間,
+    Standard: アピア標準時,
+    Daylight: アピア夏時間
+  },
+  Pacific/Auckland: {
+    Generic: ニュージーランド時間,
+    Standard: ニュージーランド標準時,
+    Daylight: ニュージーランド夏時間
+  },
+  Pacific/Bougainville: {
+    Generic: パプアニューギニア時間,
+    Standard: パプアニューギニア時間,
+    Daylight: パプアニューギニア時間
+  },
+  Pacific/Chatham: {
+    Generic: チャタム時間,
+    Standard: チャタム標準時,
+    Daylight: チャタム夏時間
+  },
+  Pacific/Chuuk: {
+    Generic: チューク時間,
+    Standard: チューク時間,
+    Daylight: チューク時間
+  },
+  Pacific/Easter: {
     Generic: イースター島時間,
     Standard: イースター島標準時,
     Daylight: イースター島夏時間
   },
-  Pacific/Pohnpei: {
-    Generic: ポナペ時間,
-    Standard: ポナペ時間,
-    Daylight: ポナペ時間
+  Pacific/Efate: {
+    Generic: バヌアツ時間,
+    Standard: バヌアツ標準時,
+    Daylight: バヌアツ夏時間
   },
-  US/Hawaii: {
+  Pacific/Enderbury: {
+    Generic: フェニックス諸島時間,
+    Standard: フェニックス諸島時間,
+    Daylight: フェニックス諸島時間
+  },
+  Pacific/Fakaofo: {
+    Generic: トケラウ時間,
+    Standard: トケラウ時間,
+    Daylight: トケラウ時間
+  },
+  Pacific/Fiji: {
+    Generic: フィジー時間,
+    Standard: フィジー標準時,
+    Daylight: フィジー夏時間
+  },
+  Pacific/Funafuti: {
+    Generic: ツバル時間,
+    Standard: ツバル時間,
+    Daylight: ツバル時間
+  },
+  Pacific/Galapagos: {
+    Generic: ガラパゴス時間,
+    Standard: ガラパゴス時間,
+    Daylight: ガラパゴス時間
+  },
+  Pacific/Gambier: {
+    Generic: ガンビエ諸島時間,
+    Standard: ガンビエ諸島時間,
+    Daylight: ガンビエ諸島時間
+  },
+  Pacific/Guadalcanal: {
+    Generic: ソロモン諸島時間,
+    Standard: ソロモン諸島時間,
+    Daylight: ソロモン諸島時間
+  },
+  Pacific/Guam: {
+    Generic: チャモロ時間,
+    Standard: チャモロ時間,
+    Daylight: チャモロ時間
+  },
+  Pacific/Honolulu: {
+    Generic: ハワイ・アリューシャン時間,
+    Standard: ハワイ・アリューシャン標準時,
+    Daylight: ハワイ・アリューシャン夏時間
+  },
+  Pacific/Johnston: {
     Generic: ハワイ・アリューシャン時間,
     Standard: ハワイ・アリューシャン標準時,
     Daylight: ハワイ・アリューシャン夏時間
@@ -2939,39 +2724,254 @@
     Standard: フェニックス諸島時間,
     Daylight: フェニックス諸島時間
   },
-  Kwajalein: {
+  Pacific/Kiritimati: {
+    Generic: ライン諸島時間,
+    Standard: ライン諸島時間,
+    Daylight: ライン諸島時間
+  },
+  Pacific/Kosrae: {
+    Generic: コスラエ時間,
+    Standard: コスラエ時間,
+    Daylight: コスラエ時間
+  },
+  Pacific/Kwajalein: {
     Generic: マーシャル諸島時間,
     Standard: マーシャル諸島時間,
     Daylight: マーシャル諸島時間
+  },
+  Pacific/Majuro: {
+    Generic: マーシャル諸島時間,
+    Standard: マーシャル諸島時間,
+    Daylight: マーシャル諸島時間
+  },
+  Pacific/Marquesas: {
+    Generic: マルキーズ時間,
+    Standard: マルキーズ時間,
+    Daylight: マルキーズ時間
+  },
+  Pacific/Midway: {
+    Generic: サモア時間,
+    Standard: サモア標準時,
+    Daylight: サモア夏時間
+  },
+  Pacific/Nauru: {
+    Generic: ナウル時間,
+    Standard: ナウル時間,
+    Daylight: ナウル時間
+  },
+  Pacific/Niue: {
+    Generic: ニウエ時間,
+    Standard: ニウエ時間,
+    Daylight: ニウエ時間
+  },
+  Pacific/Norfolk: {
+    Generic: ノーフォーク島時間,
+    Standard: ノーフォーク島標準時,
+    Daylight: ノーフォーク島夏時間
+  },
+  Pacific/Noumea: {
+    Generic: ニューカレドニア時間,
+    Standard: ニューカレドニア標準時,
+    Daylight: ニューカレドニア夏時間
+  },
+  Pacific/Pago_Pago: {
+    Generic: サモア時間,
+    Standard: サモア標準時,
+    Daylight: サモア夏時間
+  },
+  Pacific/Palau: {
+    Generic: パラオ時間,
+    Standard: パラオ時間,
+    Daylight: パラオ時間
+  },
+  Pacific/Pitcairn: {
+    Generic: ピトケアン時間,
+    Standard: ピトケアン時間,
+    Daylight: ピトケアン時間
+  },
+  Pacific/Pohnpei: {
+    Generic: ポナペ時間,
+    Standard: ポナペ時間,
+    Daylight: ポナペ時間
+  },
+  Pacific/Ponape: {
+    Generic: ポナペ時間,
+    Standard: ポナペ時間,
+    Daylight: ポナペ時間
+  },
+  Pacific/Port_Moresby: {
+    Generic: パプアニューギニア時間,
+    Standard: パプアニューギニア時間,
+    Daylight: パプアニューギニア時間
+  },
+  Pacific/Rarotonga: {
+    Generic: クック諸島時間,
+    Standard: クック諸島標準時,
+    Daylight: クック諸島夏時間
+  },
+  Pacific/Saipan: {
+    Generic: チャモロ時間,
+    Standard: チャモロ時間,
+    Daylight: チャモロ時間
   },
   Pacific/Samoa: {
     Generic: サモア時間,
     Standard: サモア標準時,
     Daylight: サモア夏時間
   },
-  US/Samoa: {
-    Generic: サモア時間,
-    Standard: サモア標準時,
-    Daylight: サモア夏時間
+  Pacific/Tahiti: {
+    Generic: タヒチ時間,
+    Standard: タヒチ時間,
+    Daylight: タヒチ時間
   },
-  Pacific/Chuuk: {
+  Pacific/Tarawa: {
+    Generic: ギルバート諸島時間,
+    Standard: ギルバート諸島時間,
+    Daylight: ギルバート諸島時間
+  },
+  Pacific/Tongatapu: {
+    Generic: トンガ時間,
+    Standard: トンガ標準時,
+    Daylight: トンガ夏時間
+  },
+  Pacific/Truk: {
     Generic: チューク時間,
     Standard: チューク時間,
     Daylight: チューク時間
+  },
+  Pacific/Wake: {
+    Generic: ウェーク島時間,
+    Standard: ウェーク島時間,
+    Daylight: ウェーク島時間
+  },
+  Pacific/Wallis: {
+    Generic: ウォリス・フツナ時間,
+    Standard: ウォリス・フツナ時間,
+    Daylight: ウォリス・フツナ時間
   },
   Pacific/Yap: {
     Generic: チューク時間,
     Standard: チューク時間,
     Daylight: チューク時間
   },
-  America/Fort_Wayne: {
+  Poland: {
+    Generic: 中央ヨーロッパ時間,
+    Standard: 中央ヨーロッパ標準時,
+    Daylight: 中央ヨーロッパ夏時間
+  },
+  Portugal: {
+    Generic: 西ヨーロッパ時間,
+    Standard: 西ヨーロッパ標準時,
+    Daylight: 西ヨーロッパ夏時間
+  },
+  ROC: {
+    Generic: 台北時間,
+    Standard: 台北標準時,
+    Daylight: 台北夏時間
+  },
+  ROK: {
+    Generic: 韓国時間,
+    Standard: 韓国標準時,
+    Daylight: 韓国夏時間
+  },
+  Singapore: {
+    Generic: シンガポール標準時,
+    Standard: シンガポール標準時,
+    Daylight: シンガポール標準時
+  },
+  Turkey: {
+    Generic: トルコ時間,
+    Standard: トルコ標準時,
+    Daylight: トルコ夏時間
+  },
+  UCT: {
+    Generic: 協定世界時,
+    Standard: 協定世界時,
+    Daylight: 協定世界時
+  },
+  US/Alaska: {
+    Generic: アラスカ時間,
+    Standard: アラスカ標準時,
+    Daylight: アラスカ夏時間
+  },
+  US/Aleutian: {
+    Generic: ハワイ・アリューシャン時間,
+    Standard: ハワイ・アリューシャン標準時,
+    Daylight: ハワイ・アリューシャン夏時間
+  },
+  US/Arizona: {
+    Generic: アメリカ山地時間,
+    Standard: アメリカ山地標準時,
+    Daylight: アメリカ山地夏時間
+  },
+  US/Central: {
+    Generic: アメリカ中部時間,
+    Standard: アメリカ中部標準時,
+    Daylight: アメリカ中部夏時間
+  },
+  US/East-Indiana: {
     Generic: アメリカ東部時間,
     Standard: アメリカ東部標準時,
     Daylight: アメリカ東部夏時間
   },
-  Antarctica/Troll: {
-    Generic: グリニッジ標準時,
-    Standard: グリニッジ標準時,
-    Daylight: グリニッジ標準時
+  US/Eastern: {
+    Generic: アメリカ東部時間,
+    Standard: アメリカ東部標準時,
+    Daylight: アメリカ東部夏時間
+  },
+  US/Hawaii: {
+    Generic: ハワイ・アリューシャン時間,
+    Standard: ハワイ・アリューシャン標準時,
+    Daylight: ハワイ・アリューシャン夏時間
+  },
+  US/Indiana-Starke: {
+    Generic: アメリカ中部時間,
+    Standard: アメリカ中部標準時,
+    Daylight: アメリカ中部夏時間
+  },
+  US/Michigan: {
+    Generic: アメリカ東部時間,
+    Standard: アメリカ東部標準時,
+    Daylight: アメリカ東部夏時間
+  },
+  US/Mountain: {
+    Generic: アメリカ山地時間,
+    Standard: アメリカ山地標準時,
+    Daylight: アメリカ山地夏時間
+  },
+  US/Pacific: {
+    Generic: アメリカ太平洋時間,
+    Standard: アメリカ太平洋標準時,
+    Daylight: アメリカ太平洋夏時間
+  },
+  US/Samoa: {
+    Generic: サモア時間,
+    Standard: サモア標準時,
+    Daylight: サモア夏時間
+  },
+  UTC: {
+    Generic: 協定世界時,
+    Standard: 協定世界時,
+    Daylight: 協定世界時
+  },
+  Universal: {
+    Generic: 協定世界時,
+    Standard: 協定世界時,
+    Daylight: 協定世界時
+  },
+  W-SU: {
+    Generic: モスクワ時間,
+    Standard: モスクワ標準時,
+    Daylight: モスクワ夏時間
+  },
+  WET: {
+    Generic: 西ヨーロッパ時間,
+    Standard: 西ヨーロッパ標準時,
+    Daylight: 西ヨーロッパ夏時間
+  },
+  Zulu: {
+    Generic: 協定世界時,
+    Standard: 協定世界時,
+    Daylight: 協定世界時
   }
 }

@@ -1,115 +1,330 @@
 ﻿{
-  Australia/Darwin: {
-    Generic: Waktu Australia Tengah,
-    Standard: Waktu Piawai Australia Tengah,
-    Daylight: Waktu Siang Australia Tengah
+  Africa/Abidjan: {
+    Generic: Waktu Min Greenwich,
+    Standard: Waktu Min Greenwich,
+    Daylight: Waktu Min Greenwich
   },
-  Australia/Sydney: {
-    Generic: Waktu Australia Timur,
-    Standard: Waktu Piawai Timur Australia,
-    Daylight: Waktu Siang Australia Timur
+  Africa/Accra: {
+    Generic: Waktu Min Greenwich,
+    Standard: Waktu Min Greenwich,
+    Daylight: Waktu Min Greenwich
   },
-  Australia/Melbourne: {
-    Generic: Waktu Australia Timur,
-    Standard: Waktu Piawai Timur Australia,
-    Daylight: Waktu Siang Australia Timur
+  Africa/Addis_Ababa: {
+    Generic: Waktu Afrika Timur,
+    Standard: Waktu Afrika Timur,
+    Daylight: Waktu Afrika Timur
   },
-  Asia/Kabul: {
-    Generic: Waktu Afghanistan,
-    Standard: Waktu Afghanistan,
-    Daylight: Waktu Afghanistan
+  Africa/Algiers: {
+    Generic: Waktu Eropah Tengah,
+    Standard: Waktu Piawai Eropah Tengah,
+    Daylight: Waktu Musim Panas Eropah Tengah
   },
-  America/Anchorage: {
-    Generic: Waktu Alaska,
-    Standard: Waktu Piawai Alaska,
-    Daylight: Waktu Siang Alaska
+  Africa/Asmara: {
+    Generic: Waktu Afrika Timur,
+    Standard: Waktu Afrika Timur,
+    Daylight: Waktu Afrika Timur
   },
-  America/Juneau: {
-    Generic: Waktu Alaska,
-    Standard: Waktu Piawai Alaska,
-    Daylight: Waktu Siang Alaska
+  Africa/Asmera: {
+    Generic: Waktu Afrika Timur,
+    Standard: Waktu Afrika Timur,
+    Daylight: Waktu Afrika Timur
   },
-  America/Metlakatla: {
-    Generic: Waktu Alaska,
-    Standard: Waktu Piawai Alaska,
-    Daylight: Waktu Siang Alaska
+  Africa/Bamako: {
+    Generic: Waktu Min Greenwich,
+    Standard: Waktu Min Greenwich,
+    Daylight: Waktu Min Greenwich
   },
-  America/Nome: {
-    Generic: Waktu Alaska,
-    Standard: Waktu Piawai Alaska,
-    Daylight: Waktu Siang Alaska
+  Africa/Bangui: {
+    Generic: Waktu Afrika Barat,
+    Standard: Waktu Piawai Afrika Barat,
+    Daylight: Waktu Musim Panas Afrika Barat
   },
-  America/Sitka: {
-    Generic: Waktu Alaska,
-    Standard: Waktu Piawai Alaska,
-    Daylight: Waktu Siang Alaska
+  Africa/Banjul: {
+    Generic: Waktu Min Greenwich,
+    Standard: Waktu Min Greenwich,
+    Daylight: Waktu Min Greenwich
   },
-  America/Yakutat: {
-    Generic: Waktu Alaska,
-    Standard: Waktu Piawai Alaska,
-    Daylight: Waktu Siang Alaska
+  Africa/Bissau: {
+    Generic: Waktu Min Greenwich,
+    Standard: Waktu Min Greenwich,
+    Daylight: Waktu Min Greenwich
+  },
+  Africa/Blantyre: {
+    Generic: Waktu Afrika Tengah,
+    Standard: Waktu Afrika Tengah,
+    Daylight: Waktu Afrika Tengah
+  },
+  Africa/Brazzaville: {
+    Generic: Waktu Afrika Barat,
+    Standard: Waktu Piawai Afrika Barat,
+    Daylight: Waktu Musim Panas Afrika Barat
+  },
+  Africa/Bujumbura: {
+    Generic: Waktu Afrika Tengah,
+    Standard: Waktu Afrika Tengah,
+    Daylight: Waktu Afrika Tengah
+  },
+  Africa/Cairo: {
+    Generic: Waktu Eropah Timur,
+    Standard: Waktu Piawai Eropah Timur,
+    Daylight: Waktu Musim Panas Eropah Timur
+  },
+  Africa/Casablanca: {
+    Generic: Waktu Eropah Barat,
+    Standard: Waktu Piawai Eropah Barat,
+    Daylight: Waktu Musim Panas Eropah Barat
+  },
+  Africa/Ceuta: {
+    Generic: Waktu Eropah Tengah,
+    Standard: Waktu Piawai Eropah Tengah,
+    Daylight: Waktu Musim Panas Eropah Tengah
+  },
+  Africa/Conakry: {
+    Generic: Waktu Min Greenwich,
+    Standard: Waktu Min Greenwich,
+    Daylight: Waktu Min Greenwich
+  },
+  Africa/Dakar: {
+    Generic: Waktu Min Greenwich,
+    Standard: Waktu Min Greenwich,
+    Daylight: Waktu Min Greenwich
+  },
+  Africa/Dar_es_Salaam: {
+    Generic: Waktu Afrika Timur,
+    Standard: Waktu Afrika Timur,
+    Daylight: Waktu Afrika Timur
+  },
+  Africa/Djibouti: {
+    Generic: Waktu Afrika Timur,
+    Standard: Waktu Afrika Timur,
+    Daylight: Waktu Afrika Timur
+  },
+  Africa/Douala: {
+    Generic: Waktu Afrika Barat,
+    Standard: Waktu Piawai Afrika Barat,
+    Daylight: Waktu Musim Panas Afrika Barat
+  },
+  Africa/El_Aaiun: {
+    Generic: Waktu Eropah Barat,
+    Standard: Waktu Piawai Eropah Barat,
+    Daylight: Waktu Musim Panas Eropah Barat
+  },
+  Africa/Freetown: {
+    Generic: Waktu Min Greenwich,
+    Standard: Waktu Min Greenwich,
+    Daylight: Waktu Min Greenwich
+  },
+  Africa/Gaborone: {
+    Generic: Waktu Afrika Tengah,
+    Standard: Waktu Afrika Tengah,
+    Daylight: Waktu Afrika Tengah
+  },
+  Africa/Harare: {
+    Generic: Waktu Afrika Tengah,
+    Standard: Waktu Afrika Tengah,
+    Daylight: Waktu Afrika Tengah
+  },
+  Africa/Johannesburg: {
+    Generic: Waktu Piawai Afrika Selatan,
+    Standard: Waktu Piawai Afrika Selatan,
+    Daylight: Waktu Piawai Afrika Selatan
+  },
+  Africa/Juba: {
+    Generic: Waktu Afrika Tengah,
+    Standard: Waktu Afrika Tengah,
+    Daylight: Waktu Afrika Tengah
+  },
+  Africa/Kampala: {
+    Generic: Waktu Afrika Timur,
+    Standard: Waktu Afrika Timur,
+    Daylight: Waktu Afrika Timur
+  },
+  Africa/Khartoum: {
+    Generic: Waktu Afrika Tengah,
+    Standard: Waktu Afrika Tengah,
+    Daylight: Waktu Afrika Tengah
+  },
+  Africa/Kigali: {
+    Generic: Waktu Afrika Tengah,
+    Standard: Waktu Afrika Tengah,
+    Daylight: Waktu Afrika Tengah
+  },
+  Africa/Kinshasa: {
+    Generic: Waktu Afrika Barat,
+    Standard: Waktu Piawai Afrika Barat,
+    Daylight: Waktu Musim Panas Afrika Barat
+  },
+  Africa/Lagos: {
+    Generic: Waktu Afrika Barat,
+    Standard: Waktu Piawai Afrika Barat,
+    Daylight: Waktu Musim Panas Afrika Barat
+  },
+  Africa/Libreville: {
+    Generic: Waktu Afrika Barat,
+    Standard: Waktu Piawai Afrika Barat,
+    Daylight: Waktu Musim Panas Afrika Barat
+  },
+  Africa/Lome: {
+    Generic: Waktu Min Greenwich,
+    Standard: Waktu Min Greenwich,
+    Daylight: Waktu Min Greenwich
+  },
+  Africa/Luanda: {
+    Generic: Waktu Afrika Barat,
+    Standard: Waktu Piawai Afrika Barat,
+    Daylight: Waktu Musim Panas Afrika Barat
+  },
+  Africa/Lubumbashi: {
+    Generic: Waktu Afrika Tengah,
+    Standard: Waktu Afrika Tengah,
+    Daylight: Waktu Afrika Tengah
+  },
+  Africa/Lusaka: {
+    Generic: Waktu Afrika Tengah,
+    Standard: Waktu Afrika Tengah,
+    Daylight: Waktu Afrika Tengah
+  },
+  Africa/Malabo: {
+    Generic: Waktu Afrika Barat,
+    Standard: Waktu Piawai Afrika Barat,
+    Daylight: Waktu Musim Panas Afrika Barat
+  },
+  Africa/Maputo: {
+    Generic: Waktu Afrika Tengah,
+    Standard: Waktu Afrika Tengah,
+    Daylight: Waktu Afrika Tengah
+  },
+  Africa/Maseru: {
+    Generic: Waktu Piawai Afrika Selatan,
+    Standard: Waktu Piawai Afrika Selatan,
+    Daylight: Waktu Piawai Afrika Selatan
+  },
+  Africa/Mbabane: {
+    Generic: Waktu Piawai Afrika Selatan,
+    Standard: Waktu Piawai Afrika Selatan,
+    Daylight: Waktu Piawai Afrika Selatan
+  },
+  Africa/Mogadishu: {
+    Generic: Waktu Afrika Timur,
+    Standard: Waktu Afrika Timur,
+    Daylight: Waktu Afrika Timur
+  },
+  Africa/Monrovia: {
+    Generic: Waktu Min Greenwich,
+    Standard: Waktu Min Greenwich,
+    Daylight: Waktu Min Greenwich
+  },
+  Africa/Nairobi: {
+    Generic: Waktu Afrika Timur,
+    Standard: Waktu Afrika Timur,
+    Daylight: Waktu Afrika Timur
+  },
+  Africa/Ndjamena: {
+    Generic: Waktu Afrika Barat,
+    Standard: Waktu Piawai Afrika Barat,
+    Daylight: Waktu Musim Panas Afrika Barat
+  },
+  Africa/Niamey: {
+    Generic: Waktu Afrika Barat,
+    Standard: Waktu Piawai Afrika Barat,
+    Daylight: Waktu Musim Panas Afrika Barat
+  },
+  Africa/Nouakchott: {
+    Generic: Waktu Min Greenwich,
+    Standard: Waktu Min Greenwich,
+    Daylight: Waktu Min Greenwich
+  },
+  Africa/Ouagadougou: {
+    Generic: Waktu Min Greenwich,
+    Standard: Waktu Min Greenwich,
+    Daylight: Waktu Min Greenwich
+  },
+  Africa/Porto-Novo: {
+    Generic: Waktu Afrika Barat,
+    Standard: Waktu Piawai Afrika Barat,
+    Daylight: Waktu Musim Panas Afrika Barat
+  },
+  Africa/Sao_Tome: {
+    Generic: Waktu Min Greenwich,
+    Standard: Waktu Min Greenwich,
+    Daylight: Waktu Min Greenwich
+  },
+  Africa/Timbuktu: {
+    Generic: Waktu Min Greenwich,
+    Standard: Waktu Min Greenwich,
+    Daylight: Waktu Min Greenwich
+  },
+  Africa/Tripoli: {
+    Generic: Waktu Eropah Timur,
+    Standard: Waktu Piawai Eropah Timur,
+    Daylight: Waktu Musim Panas Eropah Timur
+  },
+  Africa/Tunis: {
+    Generic: Waktu Eropah Tengah,
+    Standard: Waktu Piawai Eropah Tengah,
+    Daylight: Waktu Musim Panas Eropah Tengah
+  },
+  Africa/Windhoek: {
+    Generic: Waktu Afrika Tengah,
+    Standard: Waktu Afrika Tengah,
+    Daylight: Waktu Afrika Tengah
   },
   America/Adak: {
     Generic: Waktu Hawaii-Aleutian,
     Standard: Waktu Piawai Hawaii-Aleutian,
     Daylight: Waktu Siang Hawaii-Aleutian
   },
-  Asia/Barnaul: {
-    Generic: Waktu Barnaul,
-    Standard: Waktu Piawai Barnaul,
-    Daylight: Waktu Siang Barnaul
+  America/Anchorage: {
+    Generic: Waktu Alaska,
+    Standard: Waktu Piawai Alaska,
+    Daylight: Waktu Siang Alaska
   },
-  Asia/Riyadh: {
-    Generic: Waktu Arab,
-    Standard: Waktu Piawai Arab,
-    Daylight: Waktu Siang Arab
+  America/Anguilla: {
+    Generic: Waktu Atlantik,
+    Standard: Waktu Piawai Atlantik,
+    Daylight: Waktu Siang Atlantik
   },
-  Asia/Bahrain: {
-    Generic: Waktu Arab,
-    Standard: Waktu Piawai Arab,
-    Daylight: Waktu Siang Arab
+  America/Antigua: {
+    Generic: Waktu Atlantik,
+    Standard: Waktu Piawai Atlantik,
+    Daylight: Waktu Siang Atlantik
   },
-  Asia/Kuwait: {
-    Generic: Waktu Arab,
-    Standard: Waktu Piawai Arab,
-    Daylight: Waktu Siang Arab
+  America/Araguaina: {
+    Generic: Waktu Brasilia,
+    Standard: Waktu Piawai Brasilia,
+    Daylight: Waktu Musim Panas Brasilia
   },
-  Asia/Qatar: {
-    Generic: Waktu Arab,
-    Standard: Waktu Piawai Arab,
-    Daylight: Waktu Siang Arab
+  America/Argentina/Buenos_Aires: {
+    Generic: Waktu Argentina,
+    Standard: Waktu Piawai Argentina,
+    Daylight: Waktu Musim Panas Argentina
   },
-  Asia/Aden: {
-    Generic: Waktu Arab,
-    Standard: Waktu Piawai Arab,
-    Daylight: Waktu Siang Arab
+  America/Argentina/Catamarca: {
+    Generic: Waktu Argentina,
+    Standard: Waktu Piawai Argentina,
+    Daylight: Waktu Musim Panas Argentina
   },
-  Asia/Dubai: {
-    Generic: Waktu Piawai Teluk,
-    Standard: Waktu Piawai Teluk,
-    Daylight: Waktu Piawai Teluk
+  America/Argentina/ComodRivadavia: {
+    Generic: Waktu Argentina,
+    Standard: Waktu Piawai Argentina,
+    Daylight: Waktu Musim Panas Argentina
   },
-  Asia/Muscat: {
-    Generic: Waktu Piawai Teluk,
-    Standard: Waktu Piawai Teluk,
-    Daylight: Waktu Piawai Teluk
+  America/Argentina/Cordoba: {
+    Generic: Waktu Argentina,
+    Standard: Waktu Piawai Argentina,
+    Daylight: Waktu Musim Panas Argentina
   },
-  Etc/GMT-4: {
-    Generic: Waktu Universal Selaras +4,
-    Standard: Waktu Universal Selaras +4,
-    Daylight: Waktu Universal Selaras +4
-  },
-  Asia/Baghdad: {
-    Generic: Waktu Arab,
-    Standard: Waktu Piawai Arab,
-    Daylight: Waktu Siang Arab
-  },
-  America/Buenos_Aires: {
+  America/Argentina/Jujuy: {
     Generic: Waktu Argentina,
     Standard: Waktu Piawai Argentina,
     Daylight: Waktu Musim Panas Argentina
   },
   America/Argentina/La_Rioja: {
+    Generic: Waktu Argentina,
+    Standard: Waktu Piawai Argentina,
+    Daylight: Waktu Musim Panas Argentina
+  },
+  America/Argentina/Mendoza: {
     Generic: Waktu Argentina,
     Standard: Waktu Piawai Argentina,
     Daylight: Waktu Musim Panas Argentina
@@ -144,327 +359,432 @@
     Standard: Waktu Piawai Argentina,
     Daylight: Waktu Musim Panas Argentina
   },
-  America/Catamarca: {
-    Generic: Waktu Argentina,
-    Standard: Waktu Piawai Argentina,
-    Daylight: Waktu Musim Panas Argentina
-  },
-  America/Cordoba: {
-    Generic: Waktu Argentina,
-    Standard: Waktu Piawai Argentina,
-    Daylight: Waktu Musim Panas Argentina
-  },
-  America/Jujuy: {
-    Generic: Waktu Argentina,
-    Standard: Waktu Piawai Argentina,
-    Daylight: Waktu Musim Panas Argentina
-  },
-  America/Mendoza: {
-    Generic: Waktu Argentina,
-    Standard: Waktu Piawai Argentina,
-    Daylight: Waktu Musim Panas Argentina
-  },
-  Europe/Astrakhan: {
-    Generic: Waktu Astrakhan,
-    Standard: Waktu Piawai Astrakhan,
-    Daylight: Waktu Siang Astrakhan
-  },
-  Europe/Ulyanovsk: {
-    Generic: Waktu Ulyanovsk,
-    Standard: Waktu Piawai Ulyanovsk,
-    Daylight: Waktu Siang Ulyanovsk
-  },
-  America/Halifax: {
+  America/Aruba: {
     Generic: Waktu Atlantik,
     Standard: Waktu Piawai Atlantik,
     Daylight: Waktu Siang Atlantik
   },
-  Atlantic/Bermuda: {
-    Generic: Waktu Atlantik,
-    Standard: Waktu Piawai Atlantik,
-    Daylight: Waktu Siang Atlantik
+  America/Asuncion: {
+    Generic: Waktu Paraguay,
+    Standard: Waktu Piawai Paraguay,
+    Daylight: Waktu Musim Panas Paraguay
   },
-  America/Glace_Bay: {
-    Generic: Waktu Atlantik,
-    Standard: Waktu Piawai Atlantik,
-    Daylight: Waktu Siang Atlantik
+  America/Atikokan: {
+    Generic: Waktu Timur,
+    Standard: Waktu Piawai Timur,
+    Daylight: Waktu Siang Timur
   },
-  America/Goose_Bay: {
-    Generic: Waktu Atlantik,
-    Standard: Waktu Piawai Atlantik,
-    Daylight: Waktu Siang Atlantik
-  },
-  America/Moncton: {
-    Generic: Waktu Atlantik,
-    Standard: Waktu Piawai Atlantik,
-    Daylight: Waktu Siang Atlantik
-  },
-  America/Thule: {
-    Generic: Waktu Atlantik,
-    Standard: Waktu Piawai Atlantik,
-    Daylight: Waktu Siang Atlantik
-  },
-  Australia/Eucla: {
-    Generic: Waktu Barat Tengah Australia,
-    Standard: Waktu Piawai Barat Tengah Australia,
-    Daylight: Waktu Siang Barat Tengah Australia
-  },
-  Asia/Baku: {
-    Generic: Waktu Azerbaijan,
-    Standard: Waktu Piawai Azerbaijan,
-    Daylight: Waktu Musim Panas Azerbaijan
-  },
-  Atlantic/Azores: {
-    Generic: Waktu Azores,
-    Standard: Waktu Piawai Azores,
-    Daylight: Waktu Musim Panas Azores
-  },
-  America/Scoresbysund: {
-    Generic: Waktu Greenland Timur,
-    Standard: Waktu Piawai Greenland Timur,
-    Daylight: Waktu Musim Panas Greenland Timur
+  America/Atka: {
+    Generic: Waktu Hawaii-Aleutian,
+    Standard: Waktu Piawai Hawaii-Aleutian,
+    Daylight: Waktu Siang Hawaii-Aleutian
   },
   America/Bahia: {
     Generic: Waktu Brasilia,
     Standard: Waktu Piawai Brasilia,
     Daylight: Waktu Musim Panas Brasilia
   },
-  Asia/Dhaka: {
-    Generic: Waktu Bangladesh,
-    Standard: Waktu Piawai Bangladesh,
-    Daylight: Waktu Musim Panas Bangladesh
-  },
-  Asia/Thimphu: {
-    Generic: Waktu Bhutan,
-    Standard: Waktu Bhutan,
-    Daylight: Waktu Bhutan
-  },
-  Europe/Minsk: {
-    Generic: Waktu Moscow,
-    Standard: Waktu Piawai Moscow,
-    Daylight: Waktu Musim Panas Moscow
-  },
-  Pacific/Bougainville: {
-    Generic: Waktu Papua New Guinea,
-    Standard: Waktu Papua New Guinea,
-    Daylight: Waktu Papua New Guinea
-  },
-  America/Regina: {
+  America/Bahia_Banderas: {
     Generic: Waktu Pusat,
     Standard: Waktu Piawai Pusat,
     Daylight: Waktu Siang Tengah
   },
-  America/Swift_Current: {
-    Generic: Waktu Pusat,
-    Standard: Waktu Piawai Pusat,
-    Daylight: Waktu Siang Tengah
+  America/Barbados: {
+    Generic: Waktu Atlantik,
+    Standard: Waktu Piawai Atlantik,
+    Daylight: Waktu Siang Atlantik
   },
-  Atlantic/Cape_Verde: {
-    Generic: Waktu Tanjung Verde,
-    Standard: Waktu Piawai Tanjung Verde,
-    Daylight: Waktu Musim Panas Tanjung Verde
-  },
-  Etc/GMT+1: {
-    Generic: Waktu Universal Selaras -1,
-    Standard: Waktu Universal Selaras -1,
-    Daylight: Waktu Universal Selaras -1
-  },
-  Asia/Yerevan: {
-    Generic: Waktu Armenia,
-    Standard: Waktu Piawai Armenia,
-    Daylight: Waktu Musim Panas Armenia
-  },
-  Australia/Adelaide: {
-    Generic: Waktu Australia Tengah,
-    Standard: Waktu Piawai Australia Tengah,
-    Daylight: Waktu Siang Australia Tengah
-  },
-  Australia/Broken_Hill: {
-    Generic: Waktu Australia Tengah,
-    Standard: Waktu Piawai Australia Tengah,
-    Daylight: Waktu Siang Australia Tengah
-  },
-  America/Guatemala: {
-    Generic: Waktu Pusat,
-    Standard: Waktu Piawai Pusat,
-    Daylight: Waktu Siang Tengah
+  America/Belem: {
+    Generic: Waktu Brasilia,
+    Standard: Waktu Piawai Brasilia,
+    Daylight: Waktu Musim Panas Brasilia
   },
   America/Belize: {
     Generic: Waktu Pusat,
     Standard: Waktu Piawai Pusat,
     Daylight: Waktu Siang Tengah
   },
-  America/Costa_Rica: {
-    Generic: Waktu Pusat,
-    Standard: Waktu Piawai Pusat,
-    Daylight: Waktu Siang Tengah
+  America/Blanc-Sablon: {
+    Generic: Waktu Atlantik,
+    Standard: Waktu Piawai Atlantik,
+    Daylight: Waktu Siang Atlantik
   },
-  Pacific/Galapagos: {
-    Generic: Waktu Galapagos,
-    Standard: Waktu Galapagos,
-    Daylight: Waktu Galapagos
-  },
-  America/Tegucigalpa: {
-    Generic: Waktu Pusat,
-    Standard: Waktu Piawai Pusat,
-    Daylight: Waktu Siang Tengah
-  },
-  America/Managua: {
-    Generic: Waktu Pusat,
-    Standard: Waktu Piawai Pusat,
-    Daylight: Waktu Siang Tengah
-  },
-  America/El_Salvador: {
-    Generic: Waktu Pusat,
-    Standard: Waktu Piawai Pusat,
-    Daylight: Waktu Siang Tengah
-  },
-  Etc/GMT+6: {
-    Generic: Waktu Universal Selaras -6,
-    Standard: Waktu Universal Selaras -6,
-    Daylight: Waktu Universal Selaras -6
-  },
-  Asia/Almaty: {
-    Generic: Waktu Kazakhstan Timur,
-    Standard: Waktu Kazakhstan Timur,
-    Daylight: Waktu Kazakhstan Timur
-  },
-  Antarctica/Vostok: {
-    Generic: Waktu Vostok,
-    Standard: Waktu Vostok,
-    Daylight: Waktu Vostok
-  },
-  Asia/Urumqi: {
-    Generic: Waktu China,
-    Standard: Waktu Piawai China,
-    Daylight: Waktu Siang China
-  },
-  Indian/Chagos: {
-    Generic: Waktu Lautan Hindi,
-    Standard: Waktu Lautan Hindi,
-    Daylight: Waktu Lautan Hindi
-  },
-  Asia/Bishkek: {
-    Generic: Waktu Kyrgystan,
-    Standard: Waktu Kyrgystan,
-    Daylight: Waktu Kyrgystan
-  },
-  Asia/Qostanay: {
-    Generic: Waktu Kazakhstan Timur,
-    Standard: Waktu Kazakhstan Timur,
-    Daylight: Waktu Kazakhstan Timur
-  },
-  Etc/GMT-6: {
-    Generic: Waktu Universal Selaras +6,
-    Standard: Waktu Universal Selaras +6,
-    Daylight: Waktu Universal Selaras +6
-  },
-  America/Cuiaba: {
+  America/Boa_Vista: {
     Generic: Waktu Amazon,
     Standard: Waktu Piawai Amazon,
     Daylight: Waktu Musim Panas Amazon
+  },
+  America/Bogota: {
+    Generic: Waktu Colombia,
+    Standard: Waktu Piawai Colombia,
+    Daylight: Waktu Musim Panas Colombia
+  },
+  America/Boise: {
+    Generic: Waktu Pergunungan,
+    Standard: Waktu Piawai Pergunungan,
+    Daylight: Waktu Siang Pergunungan
+  },
+  America/Buenos_Aires: {
+    Generic: Waktu Argentina,
+    Standard: Waktu Piawai Argentina,
+    Daylight: Waktu Musim Panas Argentina
+  },
+  America/Cambridge_Bay: {
+    Generic: Waktu Pergunungan,
+    Standard: Waktu Piawai Pergunungan,
+    Daylight: Waktu Siang Pergunungan
   },
   America/Campo_Grande: {
     Generic: Waktu Amazon,
     Standard: Waktu Piawai Amazon,
     Daylight: Waktu Musim Panas Amazon
   },
-  Europe/Budapest: {
-    Generic: Waktu Eropah Tengah,
-    Standard: Waktu Piawai Eropah Tengah,
-    Daylight: Waktu Musim Panas Eropah Tengah
+  America/Cancun: {
+    Generic: Waktu Timur,
+    Standard: Waktu Piawai Timur,
+    Daylight: Waktu Siang Timur
   },
-  Europe/Tirane: {
-    Generic: Waktu Eropah Tengah,
-    Standard: Waktu Piawai Eropah Tengah,
-    Daylight: Waktu Musim Panas Eropah Tengah
+  America/Caracas: {
+    Generic: Waktu Venezuela,
+    Standard: Waktu Venezuela,
+    Daylight: Waktu Venezuela
   },
-  Europe/Prague: {
-    Generic: Waktu Eropah Tengah,
-    Standard: Waktu Piawai Eropah Tengah,
-    Daylight: Waktu Musim Panas Eropah Tengah
+  America/Catamarca: {
+    Generic: Waktu Argentina,
+    Standard: Waktu Piawai Argentina,
+    Daylight: Waktu Musim Panas Argentina
   },
-  Europe/Podgorica: {
-    Generic: Waktu Eropah Tengah,
-    Standard: Waktu Piawai Eropah Tengah,
-    Daylight: Waktu Musim Panas Eropah Tengah
+  America/Cayenne: {
+    Generic: Waktu Guyana Perancis,
+    Standard: Waktu Guyana Perancis,
+    Daylight: Waktu Guyana Perancis
   },
-  Europe/Belgrade: {
-    Generic: Waktu Eropah Tengah,
-    Standard: Waktu Piawai Eropah Tengah,
-    Daylight: Waktu Musim Panas Eropah Tengah
+  America/Cayman: {
+    Generic: Waktu Timur,
+    Standard: Waktu Piawai Timur,
+    Daylight: Waktu Siang Timur
   },
-  Europe/Ljubljana: {
-    Generic: Waktu Eropah Tengah,
-    Standard: Waktu Piawai Eropah Tengah,
-    Daylight: Waktu Musim Panas Eropah Tengah
-  },
-  Europe/Bratislava: {
-    Generic: Waktu Eropah Tengah,
-    Standard: Waktu Piawai Eropah Tengah,
-    Daylight: Waktu Musim Panas Eropah Tengah
-  },
-  Europe/Warsaw: {
-    Generic: Waktu Eropah Tengah,
-    Standard: Waktu Piawai Eropah Tengah,
-    Daylight: Waktu Musim Panas Eropah Tengah
-  },
-  Europe/Sarajevo: {
-    Generic: Waktu Eropah Tengah,
-    Standard: Waktu Piawai Eropah Tengah,
-    Daylight: Waktu Musim Panas Eropah Tengah
-  },
-  Europe/Zagreb: {
-    Generic: Waktu Eropah Tengah,
-    Standard: Waktu Piawai Eropah Tengah,
-    Daylight: Waktu Musim Panas Eropah Tengah
-  },
-  Europe/Skopje: {
-    Generic: Waktu Eropah Tengah,
-    Standard: Waktu Piawai Eropah Tengah,
-    Daylight: Waktu Musim Panas Eropah Tengah
-  },
-  Pacific/Guadalcanal: {
-    Generic: Waktu Kepulauan Solomon,
-    Standard: Waktu Kepulauan Solomon,
-    Daylight: Waktu Kepulauan Solomon
-  },
-  Antarctica/Casey: {
-    Generic: Waktu Antartika,
-    Standard: Waktu Piawai Antartika,
-    Daylight: Waktu Siang Antartika
-  },
-  Pacific/Ponape: {
-    Generic: Waktu Ponape,
-    Standard: Waktu Ponape,
-    Daylight: Waktu Ponape
-  },
-  Pacific/Kosrae: {
-    Generic: Waktu Kosrae,
-    Standard: Waktu Kosrae,
-    Daylight: Waktu Kosrae
-  },
-  Pacific/Noumea: {
-    Generic: Waktu New Caledonia,
-    Standard: Waktu Piawai New Caledonia,
-    Daylight: Waktu Musim Panas New Caledonia
-  },
-  Pacific/Efate: {
-    Generic: Waktu Vanuatu,
-    Standard: Waktu Piawai Vanuatu,
-    Daylight: Waktu Musim Panas Vanuatu
-  },
-  Etc/GMT-11: {
-    Generic: Waktu Universal Selaras +11,
-    Standard: Waktu Universal Selaras +11,
-    Daylight: Waktu Universal Selaras +11
-  },
-  America/Mexico_City: {
+  America/Chicago: {
     Generic: Waktu Pusat,
     Standard: Waktu Piawai Pusat,
     Daylight: Waktu Siang Tengah
   },
-  America/Bahia_Banderas: {
+  America/Chihuahua: {
+    Generic: Waktu Pasifik Mexico,
+    Standard: Waktu Piawai Pasifik Mexico,
+    Daylight: Waktu Siang Pasifik Mexico
+  },
+  America/Coral_Harbour: {
+    Generic: Waktu Timur,
+    Standard: Waktu Piawai Timur,
+    Daylight: Waktu Siang Timur
+  },
+  America/Cordoba: {
+    Generic: Waktu Argentina,
+    Standard: Waktu Piawai Argentina,
+    Daylight: Waktu Musim Panas Argentina
+  },
+  America/Costa_Rica: {
+    Generic: Waktu Pusat,
+    Standard: Waktu Piawai Pusat,
+    Daylight: Waktu Siang Tengah
+  },
+  America/Creston: {
+    Generic: Waktu Pergunungan,
+    Standard: Waktu Piawai Pergunungan,
+    Daylight: Waktu Siang Pergunungan
+  },
+  America/Cuiaba: {
+    Generic: Waktu Amazon,
+    Standard: Waktu Piawai Amazon,
+    Daylight: Waktu Musim Panas Amazon
+  },
+  America/Curacao: {
+    Generic: Waktu Atlantik,
+    Standard: Waktu Piawai Atlantik,
+    Daylight: Waktu Siang Atlantik
+  },
+  America/Danmarkshavn: {
+    Generic: Waktu Min Greenwich,
+    Standard: Waktu Min Greenwich,
+    Daylight: Waktu Min Greenwich
+  },
+  America/Dawson: {
+    Generic: Masa Yukon,
+    Standard: Masa Yukon,
+    Daylight: Masa Yukon
+  },
+  America/Dawson_Creek: {
+    Generic: Waktu Pergunungan,
+    Standard: Waktu Piawai Pergunungan,
+    Daylight: Waktu Siang Pergunungan
+  },
+  America/Denver: {
+    Generic: Waktu Pergunungan,
+    Standard: Waktu Piawai Pergunungan,
+    Daylight: Waktu Siang Pergunungan
+  },
+  America/Detroit: {
+    Generic: Waktu Timur,
+    Standard: Waktu Piawai Timur,
+    Daylight: Waktu Siang Timur
+  },
+  America/Dominica: {
+    Generic: Waktu Atlantik,
+    Standard: Waktu Piawai Atlantik,
+    Daylight: Waktu Siang Atlantik
+  },
+  America/Edmonton: {
+    Generic: Waktu Pergunungan,
+    Standard: Waktu Piawai Pergunungan,
+    Daylight: Waktu Siang Pergunungan
+  },
+  America/Eirunepe: {
+    Generic: Waktu Acre,
+    Standard: Waktu Piawai Acre,
+    Daylight: Waktu Musim Panas Acre
+  },
+  America/El_Salvador: {
+    Generic: Waktu Pusat,
+    Standard: Waktu Piawai Pusat,
+    Daylight: Waktu Siang Tengah
+  },
+  America/Ensenada: {
+    Generic: Waktu Pasifik,
+    Standard: Waktu Piawai Pasifik,
+    Daylight: Waktu Siang Pasifik
+  },
+  America/Fort_Nelson: {
+    Generic: Waktu Pergunungan,
+    Standard: Waktu Piawai Pergunungan,
+    Daylight: Waktu Siang Pergunungan
+  },
+  America/Fort_Wayne: {
+    Generic: Waktu Timur,
+    Standard: Waktu Piawai Timur,
+    Daylight: Waktu Siang Timur
+  },
+  America/Fortaleza: {
+    Generic: Waktu Brasilia,
+    Standard: Waktu Piawai Brasilia,
+    Daylight: Waktu Musim Panas Brasilia
+  },
+  America/Glace_Bay: {
+    Generic: Waktu Atlantik,
+    Standard: Waktu Piawai Atlantik,
+    Daylight: Waktu Siang Atlantik
+  },
+  America/Godthab: {
+    Generic: Waktu Greenland Barat,
+    Standard: Waktu Piawai Greenland Barat,
+    Daylight: Waktu Musim Panas Greenland Barat
+  },
+  America/Goose_Bay: {
+    Generic: Waktu Atlantik,
+    Standard: Waktu Piawai Atlantik,
+    Daylight: Waktu Siang Atlantik
+  },
+  America/Grand_Turk: {
+    Generic: Waktu Timur,
+    Standard: Waktu Piawai Timur,
+    Daylight: Waktu Siang Timur
+  },
+  America/Grenada: {
+    Generic: Waktu Atlantik,
+    Standard: Waktu Piawai Atlantik,
+    Daylight: Waktu Siang Atlantik
+  },
+  America/Guadeloupe: {
+    Generic: Waktu Atlantik,
+    Standard: Waktu Piawai Atlantik,
+    Daylight: Waktu Siang Atlantik
+  },
+  America/Guatemala: {
+    Generic: Waktu Pusat,
+    Standard: Waktu Piawai Pusat,
+    Daylight: Waktu Siang Tengah
+  },
+  America/Guayaquil: {
+    Generic: Waktu Ecuador,
+    Standard: Waktu Ecuador,
+    Daylight: Waktu Ecuador
+  },
+  America/Guyana: {
+    Generic: Waktu Guyana,
+    Standard: Waktu Guyana,
+    Daylight: Waktu Guyana
+  },
+  America/Halifax: {
+    Generic: Waktu Atlantik,
+    Standard: Waktu Piawai Atlantik,
+    Daylight: Waktu Siang Atlantik
+  },
+  America/Havana: {
+    Generic: Waktu Cuba,
+    Standard: Waktu Piawai Cuba,
+    Daylight: Waktu Siang Cuba
+  },
+  America/Hermosillo: {
+    Generic: Waktu Pasifik Mexico,
+    Standard: Waktu Piawai Pasifik Mexico,
+    Daylight: Waktu Siang Pasifik Mexico
+  },
+  America/Indiana/Indianapolis: {
+    Generic: Waktu Timur,
+    Standard: Waktu Piawai Timur,
+    Daylight: Waktu Siang Timur
+  },
+  America/Indiana/Knox: {
+    Generic: Waktu Pusat,
+    Standard: Waktu Piawai Pusat,
+    Daylight: Waktu Siang Tengah
+  },
+  America/Indiana/Marengo: {
+    Generic: Waktu Timur,
+    Standard: Waktu Piawai Timur,
+    Daylight: Waktu Siang Timur
+  },
+  America/Indiana/Petersburg: {
+    Generic: Waktu Timur,
+    Standard: Waktu Piawai Timur,
+    Daylight: Waktu Siang Timur
+  },
+  America/Indiana/Tell_City: {
+    Generic: Waktu Pusat,
+    Standard: Waktu Piawai Pusat,
+    Daylight: Waktu Siang Tengah
+  },
+  America/Indiana/Vevay: {
+    Generic: Waktu Timur,
+    Standard: Waktu Piawai Timur,
+    Daylight: Waktu Siang Timur
+  },
+  America/Indiana/Vincennes: {
+    Generic: Waktu Timur,
+    Standard: Waktu Piawai Timur,
+    Daylight: Waktu Siang Timur
+  },
+  America/Indiana/Winamac: {
+    Generic: Waktu Timur,
+    Standard: Waktu Piawai Timur,
+    Daylight: Waktu Siang Timur
+  },
+  America/Indianapolis: {
+    Generic: Waktu Timur,
+    Standard: Waktu Piawai Timur,
+    Daylight: Waktu Siang Timur
+  },
+  America/Inuvik: {
+    Generic: Waktu Pergunungan,
+    Standard: Waktu Piawai Pergunungan,
+    Daylight: Waktu Siang Pergunungan
+  },
+  America/Iqaluit: {
+    Generic: Waktu Timur,
+    Standard: Waktu Piawai Timur,
+    Daylight: Waktu Siang Timur
+  },
+  America/Jamaica: {
+    Generic: Waktu Timur,
+    Standard: Waktu Piawai Timur,
+    Daylight: Waktu Siang Timur
+  },
+  America/Jujuy: {
+    Generic: Waktu Argentina,
+    Standard: Waktu Piawai Argentina,
+    Daylight: Waktu Musim Panas Argentina
+  },
+  America/Juneau: {
+    Generic: Waktu Alaska,
+    Standard: Waktu Piawai Alaska,
+    Daylight: Waktu Siang Alaska
+  },
+  America/Kentucky/Louisville: {
+    Generic: Waktu Timur,
+    Standard: Waktu Piawai Timur,
+    Daylight: Waktu Siang Timur
+  },
+  America/Kentucky/Monticello: {
+    Generic: Waktu Timur,
+    Standard: Waktu Piawai Timur,
+    Daylight: Waktu Siang Timur
+  },
+  America/Knox_IN: {
+    Generic: Waktu Pusat,
+    Standard: Waktu Piawai Pusat,
+    Daylight: Waktu Siang Tengah
+  },
+  America/Kralendijk: {
+    Generic: Waktu Atlantik,
+    Standard: Waktu Piawai Atlantik,
+    Daylight: Waktu Siang Atlantik
+  },
+  America/La_Paz: {
+    Generic: Waktu Bolivia,
+    Standard: Waktu Bolivia,
+    Daylight: Waktu Bolivia
+  },
+  America/Lima: {
+    Generic: Waktu Peru,
+    Standard: Waktu Piawai Peru,
+    Daylight: Waktu Musim Panas Peru
+  },
+  America/Los_Angeles: {
+    Generic: Waktu Pasifik,
+    Standard: Waktu Piawai Pasifik,
+    Daylight: Waktu Siang Pasifik
+  },
+  America/Louisville: {
+    Generic: Waktu Timur,
+    Standard: Waktu Piawai Timur,
+    Daylight: Waktu Siang Timur
+  },
+  America/Lower_Princes: {
+    Generic: Waktu Atlantik,
+    Standard: Waktu Piawai Atlantik,
+    Daylight: Waktu Siang Atlantik
+  },
+  America/Maceio: {
+    Generic: Waktu Brasilia,
+    Standard: Waktu Piawai Brasilia,
+    Daylight: Waktu Musim Panas Brasilia
+  },
+  America/Managua: {
+    Generic: Waktu Pusat,
+    Standard: Waktu Piawai Pusat,
+    Daylight: Waktu Siang Tengah
+  },
+  America/Manaus: {
+    Generic: Waktu Amazon,
+    Standard: Waktu Piawai Amazon,
+    Daylight: Waktu Musim Panas Amazon
+  },
+  America/Marigot: {
+    Generic: Waktu Atlantik,
+    Standard: Waktu Piawai Atlantik,
+    Daylight: Waktu Siang Atlantik
+  },
+  America/Martinique: {
+    Generic: Waktu Atlantik,
+    Standard: Waktu Piawai Atlantik,
+    Daylight: Waktu Siang Atlantik
+  },
+  America/Matamoros: {
+    Generic: Waktu Pusat,
+    Standard: Waktu Piawai Pusat,
+    Daylight: Waktu Siang Tengah
+  },
+  America/Mazatlan: {
+    Generic: Waktu Pasifik Mexico,
+    Standard: Waktu Piawai Pasifik Mexico,
+    Daylight: Waktu Siang Pasifik Mexico
+  },
+  America/Mendoza: {
+    Generic: Waktu Argentina,
+    Standard: Waktu Piawai Argentina,
+    Daylight: Waktu Musim Panas Argentina
+  },
+  America/Menominee: {
     Generic: Waktu Pusat,
     Standard: Waktu Piawai Pusat,
     Daylight: Waktu Siang Tengah
@@ -474,55 +794,70 @@
     Standard: Waktu Piawai Pusat,
     Daylight: Waktu Siang Tengah
   },
+  America/Metlakatla: {
+    Generic: Waktu Alaska,
+    Standard: Waktu Piawai Alaska,
+    Daylight: Waktu Siang Alaska
+  },
+  America/Mexico_City: {
+    Generic: Waktu Pusat,
+    Standard: Waktu Piawai Pusat,
+    Daylight: Waktu Siang Tengah
+  },
+  America/Miquelon: {
+    Generic: Waktu Saint Pierre dan Miquelon,
+    Standard: Waktu Piawai Saint Pierre dan Miquelon,
+    Daylight: Waktu Siang Saint Pierre dan Miquelon
+  },
+  America/Moncton: {
+    Generic: Waktu Atlantik,
+    Standard: Waktu Piawai Atlantik,
+    Daylight: Waktu Siang Atlantik
+  },
   America/Monterrey: {
     Generic: Waktu Pusat,
     Standard: Waktu Piawai Pusat,
     Daylight: Waktu Siang Tengah
   },
-  America/Chicago: {
-    Generic: Waktu Pusat,
-    Standard: Waktu Piawai Pusat,
-    Daylight: Waktu Siang Tengah
+  America/Montevideo: {
+    Generic: Waktu Uruguay,
+    Standard: Waktu Piawai Uruguay,
+    Daylight: Waktu Musim Panas Uruguay
   },
-  America/Winnipeg: {
-    Generic: Waktu Pusat,
-    Standard: Waktu Piawai Pusat,
-    Daylight: Waktu Siang Tengah
+  America/Montreal: {
+    Generic: Waktu Timur,
+    Standard: Waktu Piawai Timur,
+    Daylight: Waktu Siang Timur
   },
-  America/Rainy_River: {
-    Generic: Waktu Pusat,
-    Standard: Waktu Piawai Pusat,
-    Daylight: Waktu Siang Tengah
+  America/Montserrat: {
+    Generic: Waktu Atlantik,
+    Standard: Waktu Piawai Atlantik,
+    Daylight: Waktu Siang Atlantik
   },
-  America/Rankin_Inlet: {
-    Generic: Waktu Pusat,
-    Standard: Waktu Piawai Pusat,
-    Daylight: Waktu Siang Tengah
+  America/Nassau: {
+    Generic: Waktu Timur,
+    Standard: Waktu Piawai Timur,
+    Daylight: Waktu Siang Timur
   },
-  America/Resolute: {
-    Generic: Waktu Pusat,
-    Standard: Waktu Piawai Pusat,
-    Daylight: Waktu Siang Tengah
+  America/New_York: {
+    Generic: Waktu Timur,
+    Standard: Waktu Piawai Timur,
+    Daylight: Waktu Siang Timur
   },
-  America/Matamoros: {
-    Generic: Waktu Pusat,
-    Standard: Waktu Piawai Pusat,
-    Daylight: Waktu Siang Tengah
+  America/Nipigon: {
+    Generic: Waktu Timur,
+    Standard: Waktu Piawai Timur,
+    Daylight: Waktu Siang Timur
   },
-  America/Indiana/Knox: {
-    Generic: Waktu Pusat,
-    Standard: Waktu Piawai Pusat,
-    Daylight: Waktu Siang Tengah
+  America/Nome: {
+    Generic: Waktu Alaska,
+    Standard: Waktu Piawai Alaska,
+    Daylight: Waktu Siang Alaska
   },
-  America/Indiana/Tell_City: {
-    Generic: Waktu Pusat,
-    Standard: Waktu Piawai Pusat,
-    Daylight: Waktu Siang Tengah
-  },
-  America/Menominee: {
-    Generic: Waktu Pusat,
-    Standard: Waktu Piawai Pusat,
-    Daylight: Waktu Siang Tengah
+  America/Noronha: {
+    Generic: Waktu Fernando de Noronha,
+    Standard: Waktu Piawai Fernando de Noronha,
+    Daylight: Waktu Musim Panas Fernando de Noronha
   },
   America/North_Dakota/Beulah: {
     Generic: Waktu Pusat,
@@ -539,157 +874,17 @@
     Standard: Waktu Piawai Pusat,
     Daylight: Waktu Siang Tengah
   },
-  CST6CDT: {
-    Generic: Waktu Pusat,
-    Standard: Waktu Piawai Pusat,
-    Daylight: Waktu Siang Tengah
+  America/Nuuk: {
+    Generic: Waktu Greenland Barat,
+    Standard: Waktu Piawai Greenland Barat,
+    Daylight: Waktu Musim Panas Greenland Barat
   },
-  Pacific/Chatham: {
-    Generic: Waktu Chatham,
-    Standard: Waktu Piawai Chatham,
-    Daylight: Waktu Siang Chatham
+  America/Ojinaga: {
+    Generic: Waktu Pergunungan,
+    Standard: Waktu Piawai Pergunungan,
+    Daylight: Waktu Siang Pergunungan
   },
-  Asia/Shanghai: {
-    Generic: Waktu China,
-    Standard: Waktu Piawai China,
-    Daylight: Waktu Siang China
-  },
-  Asia/Hong_Kong: {
-    Generic: Waktu Hong Kong,
-    Standard: Waktu Piawai Hong Kong,
-    Daylight: Waktu Musim Panas Hong Kong
-  },
-  Asia/Macau: {
-    Generic: Waktu China,
-    Standard: Waktu Piawai China,
-    Daylight: Waktu Siang China
-  },
-  America/Havana: {
-    Generic: Waktu Cuba,
-    Standard: Waktu Piawai Cuba,
-    Daylight: Waktu Siang Cuba
-  },
-  Etc/GMT+12: {
-    Generic: Waktu Universal Selaras -12,
-    Standard: Waktu Universal Selaras -12,
-    Daylight: Waktu Universal Selaras -12
-  },
-  Africa/Nairobi: {
-    Generic: Waktu Afrika Timur,
-    Standard: Waktu Afrika Timur,
-    Daylight: Waktu Afrika Timur
-  },
-  Antarctica/Syowa: {
-    Generic: Waktu Syowa,
-    Standard: Waktu Syowa,
-    Daylight: Waktu Syowa
-  },
-  Africa/Djibouti: {
-    Generic: Waktu Afrika Timur,
-    Standard: Waktu Afrika Timur,
-    Daylight: Waktu Afrika Timur
-  },
-  Africa/Asmera: {
-    Generic: Waktu Afrika Timur,
-    Standard: Waktu Afrika Timur,
-    Daylight: Waktu Afrika Timur
-  },
-  Africa/Addis_Ababa: {
-    Generic: Waktu Afrika Timur,
-    Standard: Waktu Afrika Timur,
-    Daylight: Waktu Afrika Timur
-  },
-  Indian/Comoro: {
-    Generic: Waktu Afrika Timur,
-    Standard: Waktu Afrika Timur,
-    Daylight: Waktu Afrika Timur
-  },
-  Indian/Antananarivo: {
-    Generic: Waktu Afrika Timur,
-    Standard: Waktu Afrika Timur,
-    Daylight: Waktu Afrika Timur
-  },
-  Africa/Mogadishu: {
-    Generic: Waktu Afrika Timur,
-    Standard: Waktu Afrika Timur,
-    Daylight: Waktu Afrika Timur
-  },
-  Africa/Dar_es_Salaam: {
-    Generic: Waktu Afrika Timur,
-    Standard: Waktu Afrika Timur,
-    Daylight: Waktu Afrika Timur
-  },
-  Africa/Kampala: {
-    Generic: Waktu Afrika Timur,
-    Standard: Waktu Afrika Timur,
-    Daylight: Waktu Afrika Timur
-  },
-  Indian/Mayotte: {
-    Generic: Waktu Afrika Timur,
-    Standard: Waktu Afrika Timur,
-    Daylight: Waktu Afrika Timur
-  },
-  Etc/GMT-3: {
-    Generic: Waktu Universal Selaras +3,
-    Standard: Waktu Universal Selaras +3,
-    Daylight: Waktu Universal Selaras +3
-  },
-  Australia/Brisbane: {
-    Generic: Waktu Australia Timur,
-    Standard: Waktu Piawai Timur Australia,
-    Daylight: Waktu Siang Australia Timur
-  },
-  Australia/Lindeman: {
-    Generic: Waktu Australia Timur,
-    Standard: Waktu Piawai Timur Australia,
-    Daylight: Waktu Siang Australia Timur
-  },
-  Europe/Chisinau: {
-    Generic: Waktu Eropah Timur,
-    Standard: Waktu Piawai Eropah Timur,
-    Daylight: Waktu Musim Panas Eropah Timur
-  },
-  America/Sao_Paulo: {
-    Generic: Waktu Brasilia,
-    Standard: Waktu Piawai Brasilia,
-    Daylight: Waktu Musim Panas Brasilia
-  },
-  Pacific/Easter: {
-    Generic: Waktu Pulau Easter,
-    Standard: Waktu Piawai Pulau Easter,
-    Daylight: Waktu Musim Panas Pulau Easter
-  },
-  America/Cancun: {
-    Generic: Waktu Timur,
-    Standard: Waktu Piawai Timur,
-    Daylight: Waktu Siang Timur
-  },
-  America/New_York: {
-    Generic: Waktu Timur,
-    Standard: Waktu Piawai Timur,
-    Daylight: Waktu Siang Timur
-  },
-  America/Nassau: {
-    Generic: Waktu Timur,
-    Standard: Waktu Piawai Timur,
-    Daylight: Waktu Siang Timur
-  },
-  America/Toronto: {
-    Generic: Waktu Timur,
-    Standard: Waktu Piawai Timur,
-    Daylight: Waktu Siang Timur
-  },
-  America/Iqaluit: {
-    Generic: Waktu Timur,
-    Standard: Waktu Piawai Timur,
-    Daylight: Waktu Siang Timur
-  },
-  America/Montreal: {
-    Generic: Waktu Timur,
-    Standard: Waktu Piawai Timur,
-    Daylight: Waktu Siang Timur
-  },
-  America/Nipigon: {
+  America/Panama: {
     Generic: Waktu Timur,
     Standard: Waktu Piawai Timur,
     Daylight: Waktu Siang Timur
@@ -699,800 +894,130 @@
     Standard: Waktu Piawai Timur,
     Daylight: Waktu Siang Timur
   },
-  America/Thunder_Bay: {
-    Generic: Waktu Timur,
-    Standard: Waktu Piawai Timur,
-    Daylight: Waktu Siang Timur
+  America/Paramaribo: {
+    Generic: Waktu Suriname,
+    Standard: Waktu Suriname,
+    Daylight: Waktu Suriname
   },
-  America/Detroit: {
-    Generic: Waktu Timur,
-    Standard: Waktu Piawai Timur,
-    Daylight: Waktu Siang Timur
-  },
-  America/Indiana/Petersburg: {
-    Generic: Waktu Timur,
-    Standard: Waktu Piawai Timur,
-    Daylight: Waktu Siang Timur
-  },
-  America/Indiana/Vincennes: {
-    Generic: Waktu Timur,
-    Standard: Waktu Piawai Timur,
-    Daylight: Waktu Siang Timur
-  },
-  America/Indiana/Winamac: {
-    Generic: Waktu Timur,
-    Standard: Waktu Piawai Timur,
-    Daylight: Waktu Siang Timur
-  },
-  America/Kentucky/Monticello: {
-    Generic: Waktu Timur,
-    Standard: Waktu Piawai Timur,
-    Daylight: Waktu Siang Timur
-  },
-  America/Louisville: {
-    Generic: Waktu Timur,
-    Standard: Waktu Piawai Timur,
-    Daylight: Waktu Siang Timur
-  },
-  EST5EDT: {
-    Generic: Waktu Timur,
-    Standard: Waktu Piawai Timur,
-    Daylight: Waktu Siang Timur
-  },
-  Africa/Cairo: {
-    Generic: Waktu Eropah Timur,
-    Standard: Waktu Piawai Eropah Timur,
-    Daylight: Waktu Musim Panas Eropah Timur
-  },
-  Asia/Yekaterinburg: {
-    Generic: Waktu Yekaterinburg,
-    Standard: Waktu Piawai Yekaterinburg,
-    Daylight: Waktu Siang Yekaterinburg
-  },
-  Europe/Kiev: {
-    Generic: Waktu Eropah Timur,
-    Standard: Waktu Piawai Eropah Timur,
-    Daylight: Waktu Musim Panas Eropah Timur
-  },
-  Europe/Mariehamn: {
-    Generic: Waktu Eropah Timur,
-    Standard: Waktu Piawai Eropah Timur,
-    Daylight: Waktu Musim Panas Eropah Timur
-  },
-  Europe/Sofia: {
-    Generic: Waktu Eropah Timur,
-    Standard: Waktu Piawai Eropah Timur,
-    Daylight: Waktu Musim Panas Eropah Timur
-  },
-  Europe/Tallinn: {
-    Generic: Waktu Eropah Timur,
-    Standard: Waktu Piawai Eropah Timur,
-    Daylight: Waktu Musim Panas Eropah Timur
-  },
-  Europe/Helsinki: {
-    Generic: Waktu Eropah Timur,
-    Standard: Waktu Piawai Eropah Timur,
-    Daylight: Waktu Musim Panas Eropah Timur
-  },
-  Europe/Vilnius: {
-    Generic: Waktu Eropah Timur,
-    Standard: Waktu Piawai Eropah Timur,
-    Daylight: Waktu Musim Panas Eropah Timur
-  },
-  Europe/Riga: {
-    Generic: Waktu Eropah Timur,
-    Standard: Waktu Piawai Eropah Timur,
-    Daylight: Waktu Musim Panas Eropah Timur
-  },
-  Europe/Uzhgorod: {
-    Generic: Waktu Eropah Timur,
-    Standard: Waktu Piawai Eropah Timur,
-    Daylight: Waktu Musim Panas Eropah Timur
-  },
-  Europe/Zaporozhye: {
-    Generic: Waktu Eropah Timur,
-    Standard: Waktu Piawai Eropah Timur,
-    Daylight: Waktu Musim Panas Eropah Timur
-  },
-  Pacific/Fiji: {
-    Generic: Waktu Fiji,
-    Standard: Waktu Piawai Fiji,
-    Daylight: Waktu Musim Panas Fiji
-  },
-  Europe/London: {
-    Generic: Waktu United Kingdom,
-    Standard: Waktu Min Greenwich,
-    Daylight: Waktu Musim Panas British
-  },
-  Atlantic/Canary: {
-    Generic: Waktu Eropah Barat,
-    Standard: Waktu Piawai Eropah Barat,
-    Daylight: Waktu Musim Panas Eropah Barat
-  },
-  Atlantic/Faeroe: {
-    Generic: Waktu Eropah Barat,
-    Standard: Waktu Piawai Eropah Barat,
-    Daylight: Waktu Musim Panas Eropah Barat
-  },
-  Europe/Guernsey: {
-    Generic: Waktu Min Greenwich,
-    Standard: Waktu Min Greenwich,
-    Daylight: Waktu Min Greenwich
-  },
-  Europe/Dublin: {
-    Generic: Waktu Ireland,
-    Standard: Waktu Min Greenwich,
-    Daylight: Waktu Piawai Ireland
-  },
-  Europe/Isle_of_Man: {
-    Generic: Waktu Min Greenwich,
-    Standard: Waktu Min Greenwich,
-    Daylight: Waktu Min Greenwich
-  },
-  Europe/Jersey: {
-    Generic: Waktu Min Greenwich,
-    Standard: Waktu Min Greenwich,
-    Daylight: Waktu Min Greenwich
-  },
-  Europe/Lisbon: {
-    Generic: Waktu Eropah Barat,
-    Standard: Waktu Piawai Eropah Barat,
-    Daylight: Waktu Musim Panas Eropah Barat
-  },
-  Atlantic/Madeira: {
-    Generic: Waktu Eropah Barat,
-    Standard: Waktu Piawai Eropah Barat,
-    Daylight: Waktu Musim Panas Eropah Barat
-  },
-  Europe/Bucharest: {
-    Generic: Waktu Eropah Timur,
-    Standard: Waktu Piawai Eropah Timur,
-    Daylight: Waktu Musim Panas Eropah Timur
-  },
-  Asia/Nicosia: {
-    Generic: Waktu Eropah Timur,
-    Standard: Waktu Piawai Eropah Timur,
-    Daylight: Waktu Musim Panas Eropah Timur
-  },
-  Asia/Famagusta: {
-    Generic: Waktu Eropah Timur,
-    Standard: Waktu Piawai Eropah Timur,
-    Daylight: Waktu Musim Panas Eropah Timur
-  },
-  Europe/Athens: {
-    Generic: Waktu Eropah Timur,
-    Standard: Waktu Piawai Eropah Timur,
-    Daylight: Waktu Musim Panas Eropah Timur
-  },
-  Asia/Tbilisi: {
-    Generic: Waktu Georgia,
-    Standard: Waktu Piawai Georgia,
-    Daylight: Waktu Musim Panas Georgia
-  },
-  America/Godthab: {
-    Generic: Waktu Greenland Barat,
-    Standard: Waktu Piawai Greenland Barat,
-    Daylight: Waktu Musim Panas Greenland Barat
-  },
-  Atlantic/Reykjavik: {
-    Generic: Waktu Min Greenwich,
-    Standard: Waktu Min Greenwich,
-    Daylight: Waktu Min Greenwich
-  },
-  Atlantic/St_Helena: {
-    Generic: Waktu Min Greenwich,
-    Standard: Waktu Min Greenwich,
-    Daylight: Waktu Min Greenwich
-  },
-  Africa/Ouagadougou: {
-    Generic: Waktu Min Greenwich,
-    Standard: Waktu Min Greenwich,
-    Daylight: Waktu Min Greenwich
-  },
-  Africa/Abidjan: {
-    Generic: Waktu Min Greenwich,
-    Standard: Waktu Min Greenwich,
-    Daylight: Waktu Min Greenwich
-  },
-  Africa/Accra: {
-    Generic: Waktu Min Greenwich,
-    Standard: Waktu Min Greenwich,
-    Daylight: Waktu Min Greenwich
-  },
-  America/Danmarkshavn: {
-    Generic: Waktu Min Greenwich,
-    Standard: Waktu Min Greenwich,
-    Daylight: Waktu Min Greenwich
-  },
-  Africa/Banjul: {
-    Generic: Waktu Min Greenwich,
-    Standard: Waktu Min Greenwich,
-    Daylight: Waktu Min Greenwich
-  },
-  Africa/Conakry: {
-    Generic: Waktu Min Greenwich,
-    Standard: Waktu Min Greenwich,
-    Daylight: Waktu Min Greenwich
-  },
-  Africa/Bissau: {
-    Generic: Waktu Min Greenwich,
-    Standard: Waktu Min Greenwich,
-    Daylight: Waktu Min Greenwich
-  },
-  Africa/Monrovia: {
-    Generic: Waktu Min Greenwich,
-    Standard: Waktu Min Greenwich,
-    Daylight: Waktu Min Greenwich
-  },
-  Africa/Bamako: {
-    Generic: Waktu Min Greenwich,
-    Standard: Waktu Min Greenwich,
-    Daylight: Waktu Min Greenwich
-  },
-  Africa/Nouakchott: {
-    Generic: Waktu Min Greenwich,
-    Standard: Waktu Min Greenwich,
-    Daylight: Waktu Min Greenwich
-  },
-  Africa/Freetown: {
-    Generic: Waktu Min Greenwich,
-    Standard: Waktu Min Greenwich,
-    Daylight: Waktu Min Greenwich
-  },
-  Africa/Dakar: {
-    Generic: Waktu Min Greenwich,
-    Standard: Waktu Min Greenwich,
-    Daylight: Waktu Min Greenwich
-  },
-  Africa/Lome: {
-    Generic: Waktu Min Greenwich,
-    Standard: Waktu Min Greenwich,
-    Daylight: Waktu Min Greenwich
+  America/Phoenix: {
+    Generic: Waktu Pergunungan,
+    Standard: Waktu Piawai Pergunungan,
+    Daylight: Waktu Siang Pergunungan
   },
   America/Port-au-Prince: {
     Generic: Waktu Timur,
     Standard: Waktu Piawai Timur,
     Daylight: Waktu Siang Timur
   },
-  Pacific/Honolulu: {
-    Generic: Waktu Hawaii-Aleutian,
-    Standard: Waktu Piawai Hawaii-Aleutian,
-    Daylight: Waktu Siang Hawaii-Aleutian
-  },
-  Pacific/Rarotonga: {
-    Generic: Waktu Kepulauan Cook,
-    Standard: Waktu Piawai Kepulauan Cook,
-    Daylight: Waktu Musim Panas Separuh Kepulauan Cook
-  },
-  Pacific/Tahiti: {
-    Generic: Waktu Tahiti,
-    Standard: Waktu Tahiti,
-    Daylight: Waktu Tahiti
-  },
-  Pacific/Johnston: {
-    Generic: Waktu Hawaii-Aleutian,
-    Standard: Waktu Piawai Hawaii-Aleutian,
-    Daylight: Waktu Siang Hawaii-Aleutian
-  },
-  Etc/GMT+10: {
-    Generic: Waktu Universal Selaras -10,
-    Standard: Waktu Universal Selaras -10,
-    Daylight: Waktu Universal Selaras -10
-  },
-  Asia/Calcutta: {
-    Generic: Waktu Piawai India,
-    Standard: Waktu Piawai India,
-    Daylight: Waktu Piawai India
-  },
-  Asia/Tehran: {
-    Generic: Waktu Iran,
-    Standard: Waktu Piawai Iran,
-    Daylight: Waktu Siang Iran
-  },
-  Asia/Jerusalem: {
-    Generic: Waktu Israel,
-    Standard: Waktu Piawai Israel,
-    Daylight: Waktu Siang Israel
-  },
-  Asia/Amman: {
-    Generic: Waktu Eropah Timur,
-    Standard: Waktu Piawai Eropah Timur,
-    Daylight: Waktu Musim Panas Eropah Timur
-  },
-  Europe/Kaliningrad: {
-    Generic: Waktu Kaliningrad,
-    Standard: Waktu Piawai Kaliningrad,
-    Daylight: Waktu Siang Kaliningrad
-  },
-  Asia/Seoul: {
-    Generic: Waktu Korea,
-    Standard: Waktu Piawai Korea,
-    Daylight: Waktu Siang Korea
-  },
-  Africa/Tripoli: {
-    Generic: Waktu Eropah Timur,
-    Standard: Waktu Piawai Eropah Timur,
-    Daylight: Waktu Musim Panas Eropah Timur
-  },
-  Pacific/Kiritimati: {
-    Generic: Waktu Kepulauan Line,
-    Standard: Waktu Kepulauan Line,
-    Daylight: Waktu Kepulauan Line
-  },
-  Etc/GMT-14: {
-    Generic: Waktu Universal Selaras +14,
-    Standard: Waktu Universal Selaras +14,
-    Daylight: Waktu Universal Selaras +14
-  },
-  Australia/Lord_Howe: {
-    Generic: Waktu Lord Howe,
-    Standard: Waktu Piawai Lord Howe,
-    Daylight: Waktu Siang Lord Howe
-  },
-  Asia/Magadan: {
-    Generic: Waktu Magadan,
-    Standard: Waktu Piawai Magadan,
-    Daylight: Waktu Siang Magadan
-  },
-  America/Punta_Arenas: {
-    Generic: Waktu Chile,
-    Standard: Waktu Piawai Chile,
-    Daylight: Waktu Musim Panas Chile
-  },
-  Pacific/Marquesas: {
-    Generic: Waktu Marquesas,
-    Standard: Waktu Marquesas,
-    Daylight: Waktu Marquesas
-  },
-  Indian/Mauritius: {
-    Generic: Waktu Mauritius,
-    Standard: Waktu Piawai Mauritius,
-    Daylight: Waktu Musim Panas Mauritius
-  },
-  Indian/Reunion: {
-    Generic: Waktu Reunion,
-    Standard: Waktu Reunion,
-    Daylight: Waktu Reunion
-  },
-  Indian/Mahe: {
-    Generic: Waktu Seychelles,
-    Standard: Waktu Seychelles,
-    Daylight: Waktu Seychelles
-  },
-  Asia/Beirut: {
-    Generic: Waktu Eropah Timur,
-    Standard: Waktu Piawai Eropah Timur,
-    Daylight: Waktu Musim Panas Eropah Timur
-  },
-  America/Montevideo: {
-    Generic: Waktu Uruguay,
-    Standard: Waktu Piawai Uruguay,
-    Daylight: Waktu Musim Panas Uruguay
-  },
-  Africa/Casablanca: {
-    Generic: Waktu Eropah Barat,
-    Standard: Waktu Piawai Eropah Barat,
-    Daylight: Waktu Musim Panas Eropah Barat
-  },
-  Africa/El_Aaiun: {
-    Generic: Waktu Eropah Barat,
-    Standard: Waktu Piawai Eropah Barat,
-    Daylight: Waktu Musim Panas Eropah Barat
-  },
-  America/Chihuahua: {
-    Generic: Waktu Pasifik Mexico,
-    Standard: Waktu Piawai Pasifik Mexico,
-    Daylight: Waktu Siang Pasifik Mexico
-  },
-  America/Mazatlan: {
-    Generic: Waktu Pasifik Mexico,
-    Standard: Waktu Piawai Pasifik Mexico,
-    Daylight: Waktu Siang Pasifik Mexico
-  },
-  America/Denver: {
-    Generic: Waktu Pergunungan,
-    Standard: Waktu Piawai Pergunungan,
-    Daylight: Waktu Siang Pergunungan
-  },
-  America/Edmonton: {
-    Generic: Waktu Pergunungan,
-    Standard: Waktu Piawai Pergunungan,
-    Daylight: Waktu Siang Pergunungan
-  },
-  America/Cambridge_Bay: {
-    Generic: Waktu Pergunungan,
-    Standard: Waktu Piawai Pergunungan,
-    Daylight: Waktu Siang Pergunungan
-  },
-  America/Inuvik: {
-    Generic: Waktu Pergunungan,
-    Standard: Waktu Piawai Pergunungan,
-    Daylight: Waktu Siang Pergunungan
-  },
-  America/Yellowknife: {
-    Generic: Waktu Pergunungan,
-    Standard: Waktu Piawai Pergunungan,
-    Daylight: Waktu Siang Pergunungan
-  },
-  America/Ojinaga: {
-    Generic: Waktu Pergunungan,
-    Standard: Waktu Piawai Pergunungan,
-    Daylight: Waktu Siang Pergunungan
-  },
-  America/Boise: {
-    Generic: Waktu Pergunungan,
-    Standard: Waktu Piawai Pergunungan,
-    Daylight: Waktu Siang Pergunungan
-  },
-  MST7MDT: {
-    Generic: Waktu Pergunungan,
-    Standard: Waktu Piawai Pergunungan,
-    Daylight: Waktu Siang Pergunungan
-  },
-  Asia/Rangoon: {
-    Generic: Waktu Myanmar,
-    Standard: Waktu Myanmar,
-    Daylight: Waktu Myanmar
-  },
-  Indian/Cocos: {
-    Generic: Waktu Kepulauan Cocos,
-    Standard: Waktu Kepulauan Cocos,
-    Daylight: Waktu Kepulauan Cocos
-  },
-  Asia/Novosibirsk: {
-    Generic: Waktu Novosibirsk,
-    Standard: Waktu Piawai Novosibirsk,
-    Daylight: Waktu Siang Novosibirsk
-  },
-  Africa/Windhoek: {
-    Generic: Waktu Afrika Tengah,
-    Standard: Waktu Afrika Tengah,
-    Daylight: Waktu Afrika Tengah
-  },
-  Asia/Katmandu: {
-    Generic: Waktu Nepal,
-    Standard: Waktu Nepal,
-    Daylight: Waktu Nepal
-  },
-  Pacific/Auckland: {
-    Generic: Waktu New Zealand,
-    Standard: Waktu Piawai New Zealand,
-    Daylight: Waktu Siang New Zealand
-  },
-  Antarctica/McMurdo: {
-    Generic: Waktu New Zealand,
-    Standard: Waktu Piawai New Zealand,
-    Daylight: Waktu Siang New Zealand
-  },
-  America/St_Johns: {
-    Generic: Waktu Newfoundland,
-    Standard: Waktu Piawai Newfoundland,
-    Daylight: Waktu Siang Newfoundland
-  },
-  Pacific/Norfolk: {
-    Generic: Waktu Kepulauan Norfolk,
-    Standard: Waktu Piawai Kepulauan Norfolk,
-    Daylight: Waktu Siang Kepulauan Norfolk
-  },
-  Asia/Irkutsk: {
-    Generic: Waktu Irkutsk,
-    Standard: Waktu Piawai Irkutsk,
-    Daylight: Waktu Siang Irkutsk
-  },
-  Asia/Krasnoyarsk: {
-    Generic: Waktu Krasnoyarsk,
-    Standard: Waktu Piawai Krasnoyarsk,
-    Daylight: Waktu Siang Krasnoyarsk
-  },
-  Asia/Novokuznetsk: {
-    Generic: Waktu Novokuznetsk,
-    Standard: Waktu Piawai Novokuznetsk,
-    Daylight: Waktu Siang Novokuznetsk
-  },
-  Asia/Pyongyang: {
-    Generic: Waktu Korea,
-    Standard: Waktu Piawai Korea,
-    Daylight: Waktu Siang Korea
-  },
-  Asia/Omsk: {
-    Generic: Waktu Omsk,
-    Standard: Waktu Piawai Omsk,
-    Daylight: Waktu Siang Omsk
-  },
-  America/Santiago: {
-    Generic: Waktu Chile,
-    Standard: Waktu Piawai Chile,
-    Daylight: Waktu Musim Panas Chile
-  },
-  America/Tijuana: {
-    Generic: Waktu Pasifik,
-    Standard: Waktu Piawai Pasifik,
-    Daylight: Waktu Siang Pasifik
-  },
-  America/Santa_Isabel: {
-    Generic: Waktu Barat Laut Mexico,
-    Standard: Waktu Piawai Barat Laut Mexico,
-    Daylight: Waktu Siang Barat Laut Mexico
-  },
-  America/Los_Angeles: {
-    Generic: Waktu Pasifik,
-    Standard: Waktu Piawai Pasifik,
-    Daylight: Waktu Siang Pasifik
-  },
-  America/Vancouver: {
-    Generic: Waktu Pasifik,
-    Standard: Waktu Piawai Pasifik,
-    Daylight: Waktu Siang Pasifik
-  },
-  PST8PDT: {
-    Generic: Waktu Pasifik,
-    Standard: Waktu Piawai Pasifik,
-    Daylight: Waktu Siang Pasifik
-  },
-  Asia/Karachi: {
-    Generic: Waktu Pakistan,
-    Standard: Waktu Piawai Pakistan,
-    Daylight: Waktu Musim Panas Pakistan
-  },
-  America/Asuncion: {
-    Generic: Waktu Paraguay,
-    Standard: Waktu Piawai Paraguay,
-    Daylight: Waktu Musim Panas Paraguay
-  },
-  Asia/Qyzylorda: {
-    Generic: Waktu Kazakhstan Barat,
-    Standard: Waktu Kazakhstan Barat,
-    Daylight: Waktu Kazakhstan Barat
-  },
-  Europe/Paris: {
-    Generic: Waktu Eropah Tengah,
-    Standard: Waktu Piawai Eropah Tengah,
-    Daylight: Waktu Musim Panas Eropah Tengah
-  },
-  Europe/Brussels: {
-    Generic: Waktu Eropah Tengah,
-    Standard: Waktu Piawai Eropah Tengah,
-    Daylight: Waktu Musim Panas Eropah Tengah
-  },
-  Europe/Copenhagen: {
-    Generic: Waktu Eropah Tengah,
-    Standard: Waktu Piawai Eropah Tengah,
-    Daylight: Waktu Musim Panas Eropah Tengah
-  },
-  Africa/Ceuta: {
-    Generic: Waktu Eropah Tengah,
-    Standard: Waktu Piawai Eropah Tengah,
-    Daylight: Waktu Musim Panas Eropah Tengah
-  },
-  Europe/Madrid: {
-    Generic: Waktu Eropah Tengah,
-    Standard: Waktu Piawai Eropah Tengah,
-    Daylight: Waktu Musim Panas Eropah Tengah
-  },
-  Asia/Srednekolymsk: {
-    Generic: Waktu Srednekolymsk,
-    Standard: Waktu Piawai Srednekolymsk,
-    Daylight: Waktu Siang Srednekolymsk
-  },
-  Asia/Kamchatka: {
-    Generic: Waktu Kamchatka,
-    Standard: Waktu Piawai Kamchatka,
-    Daylight: Waktu Siang Kamchatka
-  },
-  Asia/Anadyr: {
-    Generic: Waktu Anadyr,
-    Standard: Waktu Piawai Anadyr,
-    Daylight: Waktu Siang Anadyr
-  },
-  Europe/Samara: {
-    Generic: Waktu Samara,
-    Standard: Waktu Piawai Samara,
-    Daylight: Waktu Siang Samara
-  },
-  Europe/Moscow: {
-    Generic: Waktu Moscow,
-    Standard: Waktu Piawai Moscow,
-    Daylight: Waktu Siang Moscow
-  },
-  Europe/Kirov: {
-    Generic: Waktu Kirov,
-    Standard: Waktu Piawai Kirov,
-    Daylight: Waktu Siang Kirov
-  },
-  Europe/Simferopol: {
-    Generic: Waktu Moscow,
-    Standard: Waktu Piawai Moscow,
-    Daylight: Waktu Musim Panas Moscow
-  },
-  America/Cayenne: {
-    Generic: Waktu Guyana Perancis,
-    Standard: Waktu Guyana Perancis,
-    Daylight: Waktu Guyana Perancis
-  },
-  Antarctica/Rothera: {
-    Generic: Waktu Rothera,
-    Standard: Waktu Rothera,
-    Daylight: Waktu Rothera
-  },
-  Antarctica/Palmer: {
-    Generic: Waktu Chile,
-    Standard: Waktu Piawai Chile,
-    Daylight: Waktu Musim Panas Chile
-  },
-  America/Fortaleza: {
-    Generic: Waktu Brasilia,
-    Standard: Waktu Piawai Brasilia,
-    Daylight: Waktu Musim Panas Brasilia
-  },
-  America/Belem: {
-    Generic: Waktu Brasilia,
-    Standard: Waktu Piawai Brasilia,
-    Daylight: Waktu Musim Panas Brasilia
-  },
-  America/Maceio: {
-    Generic: Waktu Brasilia,
-    Standard: Waktu Piawai Brasilia,
-    Daylight: Waktu Musim Panas Brasilia
-  },
-  America/Recife: {
-    Generic: Waktu Brasilia,
-    Standard: Waktu Piawai Brasilia,
-    Daylight: Waktu Musim Panas Brasilia
-  },
-  America/Santarem: {
-    Generic: Waktu Brasilia,
-    Standard: Waktu Piawai Brasilia,
-    Daylight: Waktu Musim Panas Brasilia
-  },
-  Atlantic/Stanley: {
-    Generic: Waktu Kepulauan Falkland,
-    Standard: Waktu Piawai Kepulauan Falkland,
-    Daylight: Waktu Musim Panas Kepulauan Falkland
-  },
-  America/Paramaribo: {
-    Generic: Waktu Suriname,
-    Standard: Waktu Suriname,
-    Daylight: Waktu Suriname
-  },
-  Etc/GMT+3: {
-    Generic: Waktu Universal Selaras -3,
-    Standard: Waktu Universal Selaras -3,
-    Daylight: Waktu Universal Selaras -3
-  },
-  America/Bogota: {
-    Generic: Waktu Colombia,
-    Standard: Waktu Piawai Colombia,
-    Daylight: Waktu Musim Panas Colombia
-  },
-  America/Rio_Branco: {
+  America/Port_of_Spain: {
+    Generic: Waktu Atlantik,
+    Standard: Waktu Piawai Atlantik,
+    Daylight: Waktu Siang Atlantik
+  },
+  America/Porto_Acre: {
     Generic: Waktu Acre,
     Standard: Waktu Piawai Acre,
     Daylight: Waktu Musim Panas Acre
-  },
-  America/Eirunepe: {
-    Generic: Waktu Acre,
-    Standard: Waktu Piawai Acre,
-    Daylight: Waktu Musim Panas Acre
-  },
-  America/Coral_Harbour: {
-    Generic: Waktu Timur,
-    Standard: Waktu Piawai Timur,
-    Daylight: Waktu Siang Timur
-  },
-  America/Guayaquil: {
-    Generic: Waktu Ecuador,
-    Standard: Waktu Ecuador,
-    Daylight: Waktu Ecuador
-  },
-  America/Jamaica: {
-    Generic: Waktu Timur,
-    Standard: Waktu Piawai Timur,
-    Daylight: Waktu Siang Timur
-  },
-  America/Cayman: {
-    Generic: Waktu Timur,
-    Standard: Waktu Piawai Timur,
-    Daylight: Waktu Siang Timur
-  },
-  America/Panama: {
-    Generic: Waktu Timur,
-    Standard: Waktu Piawai Timur,
-    Daylight: Waktu Siang Timur
-  },
-  America/Lima: {
-    Generic: Waktu Peru,
-    Standard: Waktu Piawai Peru,
-    Daylight: Waktu Musim Panas Peru
-  },
-  Etc/GMT+5: {
-    Generic: Waktu Universal Selaras -5,
-    Standard: Waktu Universal Selaras -5,
-    Daylight: Waktu Universal Selaras -5
-  },
-  America/La_Paz: {
-    Generic: Waktu Bolivia,
-    Standard: Waktu Bolivia,
-    Daylight: Waktu Bolivia
-  },
-  America/Antigua: {
-    Generic: Waktu Atlantik,
-    Standard: Waktu Piawai Atlantik,
-    Daylight: Waktu Siang Atlantik
-  },
-  America/Anguilla: {
-    Generic: Waktu Atlantik,
-    Standard: Waktu Piawai Atlantik,
-    Daylight: Waktu Siang Atlantik
-  },
-  America/Aruba: {
-    Generic: Waktu Atlantik,
-    Standard: Waktu Piawai Atlantik,
-    Daylight: Waktu Siang Atlantik
-  },
-  America/Barbados: {
-    Generic: Waktu Atlantik,
-    Standard: Waktu Piawai Atlantik,
-    Daylight: Waktu Siang Atlantik
-  },
-  America/St_Barthelemy: {
-    Generic: Waktu Atlantik,
-    Standard: Waktu Piawai Atlantik,
-    Daylight: Waktu Siang Atlantik
-  },
-  America/Kralendijk: {
-    Generic: Waktu Atlantik,
-    Standard: Waktu Piawai Atlantik,
-    Daylight: Waktu Siang Atlantik
-  },
-  America/Manaus: {
-    Generic: Waktu Amazon,
-    Standard: Waktu Piawai Amazon,
-    Daylight: Waktu Musim Panas Amazon
-  },
-  America/Boa_Vista: {
-    Generic: Waktu Amazon,
-    Standard: Waktu Piawai Amazon,
-    Daylight: Waktu Musim Panas Amazon
   },
   America/Porto_Velho: {
     Generic: Waktu Amazon,
     Standard: Waktu Piawai Amazon,
     Daylight: Waktu Musim Panas Amazon
   },
-  America/Blanc-Sablon: {
+  America/Puerto_Rico: {
     Generic: Waktu Atlantik,
     Standard: Waktu Piawai Atlantik,
     Daylight: Waktu Siang Atlantik
   },
-  America/Curacao: {
-    Generic: Waktu Atlantik,
-    Standard: Waktu Piawai Atlantik,
-    Daylight: Waktu Siang Atlantik
+  America/Punta_Arenas: {
+    Generic: Waktu Chile,
+    Standard: Waktu Piawai Chile,
+    Daylight: Waktu Musim Panas Chile
   },
-  America/Dominica: {
-    Generic: Waktu Atlantik,
-    Standard: Waktu Piawai Atlantik,
-    Daylight: Waktu Siang Atlantik
+  America/Rainy_River: {
+    Generic: Waktu Pusat,
+    Standard: Waktu Piawai Pusat,
+    Daylight: Waktu Siang Tengah
+  },
+  America/Rankin_Inlet: {
+    Generic: Waktu Pusat,
+    Standard: Waktu Piawai Pusat,
+    Daylight: Waktu Siang Tengah
+  },
+  America/Recife: {
+    Generic: Waktu Brasilia,
+    Standard: Waktu Piawai Brasilia,
+    Daylight: Waktu Musim Panas Brasilia
+  },
+  America/Regina: {
+    Generic: Waktu Pusat,
+    Standard: Waktu Piawai Pusat,
+    Daylight: Waktu Siang Tengah
+  },
+  America/Resolute: {
+    Generic: Waktu Pusat,
+    Standard: Waktu Piawai Pusat,
+    Daylight: Waktu Siang Tengah
+  },
+  America/Rio_Branco: {
+    Generic: Waktu Acre,
+    Standard: Waktu Piawai Acre,
+    Daylight: Waktu Musim Panas Acre
+  },
+  America/Rosario: {
+    Generic: Waktu Argentina,
+    Standard: Waktu Piawai Argentina,
+    Daylight: Waktu Musim Panas Argentina
+  },
+  America/Santa_Isabel: {
+    Generic: Waktu Barat Laut Mexico,
+    Standard: Waktu Piawai Barat Laut Mexico,
+    Daylight: Waktu Siang Barat Laut Mexico
+  },
+  America/Santarem: {
+    Generic: Waktu Brasilia,
+    Standard: Waktu Piawai Brasilia,
+    Daylight: Waktu Musim Panas Brasilia
+  },
+  America/Santiago: {
+    Generic: Waktu Chile,
+    Standard: Waktu Piawai Chile,
+    Daylight: Waktu Musim Panas Chile
   },
   America/Santo_Domingo: {
     Generic: Waktu Atlantik,
     Standard: Waktu Piawai Atlantik,
     Daylight: Waktu Siang Atlantik
   },
-  America/Grenada: {
+  America/Sao_Paulo: {
+    Generic: Waktu Brasilia,
+    Standard: Waktu Piawai Brasilia,
+    Daylight: Waktu Musim Panas Brasilia
+  },
+  America/Scoresbysund: {
+    Generic: Waktu Greenland Timur,
+    Standard: Waktu Piawai Greenland Timur,
+    Daylight: Waktu Musim Panas Greenland Timur
+  },
+  America/Shiprock: {
+    Generic: Waktu Pergunungan,
+    Standard: Waktu Piawai Pergunungan,
+    Daylight: Waktu Siang Pergunungan
+  },
+  America/Sitka: {
+    Generic: Waktu Alaska,
+    Standard: Waktu Piawai Alaska,
+    Daylight: Waktu Siang Alaska
+  },
+  America/St_Barthelemy: {
     Generic: Waktu Atlantik,
     Standard: Waktu Piawai Atlantik,
     Daylight: Waktu Siang Atlantik
   },
-  America/Guadeloupe: {
-    Generic: Waktu Atlantik,
-    Standard: Waktu Piawai Atlantik,
-    Daylight: Waktu Siang Atlantik
-  },
-  America/Guyana: {
-    Generic: Waktu Guyana,
-    Standard: Waktu Guyana,
-    Daylight: Waktu Guyana
+  America/St_Johns: {
+    Generic: Waktu Newfoundland,
+    Standard: Waktu Piawai Newfoundland,
+    Daylight: Waktu Siang Newfoundland
   },
   America/St_Kitts: {
     Generic: Waktu Atlantik,
@@ -1504,32 +1029,7 @@
     Standard: Waktu Piawai Atlantik,
     Daylight: Waktu Siang Atlantik
   },
-  America/Marigot: {
-    Generic: Waktu Atlantik,
-    Standard: Waktu Piawai Atlantik,
-    Daylight: Waktu Siang Atlantik
-  },
-  America/Martinique: {
-    Generic: Waktu Atlantik,
-    Standard: Waktu Piawai Atlantik,
-    Daylight: Waktu Siang Atlantik
-  },
-  America/Montserrat: {
-    Generic: Waktu Atlantik,
-    Standard: Waktu Piawai Atlantik,
-    Daylight: Waktu Siang Atlantik
-  },
-  America/Puerto_Rico: {
-    Generic: Waktu Atlantik,
-    Standard: Waktu Piawai Atlantik,
-    Daylight: Waktu Siang Atlantik
-  },
-  America/Lower_Princes: {
-    Generic: Waktu Atlantik,
-    Standard: Waktu Piawai Atlantik,
-    Daylight: Waktu Siang Atlantik
-  },
-  America/Port_of_Spain: {
+  America/St_Thomas: {
     Generic: Waktu Atlantik,
     Standard: Waktu Piawai Atlantik,
     Daylight: Waktu Siang Atlantik
@@ -1539,655 +1039,155 @@
     Standard: Waktu Piawai Atlantik,
     Daylight: Waktu Siang Atlantik
   },
+  America/Swift_Current: {
+    Generic: Waktu Pusat,
+    Standard: Waktu Piawai Pusat,
+    Daylight: Waktu Siang Tengah
+  },
+  America/Tegucigalpa: {
+    Generic: Waktu Pusat,
+    Standard: Waktu Piawai Pusat,
+    Daylight: Waktu Siang Tengah
+  },
+  America/Thule: {
+    Generic: Waktu Atlantik,
+    Standard: Waktu Piawai Atlantik,
+    Daylight: Waktu Siang Atlantik
+  },
+  America/Thunder_Bay: {
+    Generic: Waktu Timur,
+    Standard: Waktu Piawai Timur,
+    Daylight: Waktu Siang Timur
+  },
+  America/Tijuana: {
+    Generic: Waktu Pasifik,
+    Standard: Waktu Piawai Pasifik,
+    Daylight: Waktu Siang Pasifik
+  },
+  America/Toronto: {
+    Generic: Waktu Timur,
+    Standard: Waktu Piawai Timur,
+    Daylight: Waktu Siang Timur
+  },
   America/Tortola: {
     Generic: Waktu Atlantik,
     Standard: Waktu Piawai Atlantik,
     Daylight: Waktu Siang Atlantik
   },
-  America/St_Thomas: {
+  America/Vancouver: {
+    Generic: Waktu Pasifik,
+    Standard: Waktu Piawai Pasifik,
+    Daylight: Waktu Siang Pasifik
+  },
+  America/Virgin: {
     Generic: Waktu Atlantik,
     Standard: Waktu Piawai Atlantik,
     Daylight: Waktu Siang Atlantik
   },
-  Etc/GMT+4: {
-    Generic: Waktu Universal Selaras -4,
-    Standard: Waktu Universal Selaras -4,
-    Daylight: Waktu Universal Selaras -4
+  America/Whitehorse: {
+    Generic: Masa Yukon,
+    Standard: Masa Yukon,
+    Daylight: Masa Yukon
   },
-  Asia/Bangkok: {
-    Generic: Waktu Indochina,
-    Standard: Waktu Indochina,
-    Daylight: Waktu Indochina
+  America/Winnipeg: {
+    Generic: Waktu Pusat,
+    Standard: Waktu Piawai Pusat,
+    Daylight: Waktu Siang Tengah
+  },
+  America/Yakutat: {
+    Generic: Waktu Alaska,
+    Standard: Waktu Piawai Alaska,
+    Daylight: Waktu Siang Alaska
+  },
+  America/Yellowknife: {
+    Generic: Waktu Pergunungan,
+    Standard: Waktu Piawai Pergunungan,
+    Daylight: Waktu Siang Pergunungan
+  },
+  Antarctica/Casey: {
+    Generic: Waktu Antartika,
+    Standard: Waktu Piawai Antartika,
+    Daylight: Waktu Siang Antartika
   },
   Antarctica/Davis: {
     Generic: Waktu Davis,
     Standard: Waktu Davis,
     Daylight: Waktu Davis
   },
-  Indian/Christmas: {
-    Generic: Waktu Pulau Christmas,
-    Standard: Waktu Pulau Christmas,
-    Daylight: Waktu Pulau Christmas
-  },
-  Asia/Jakarta: {
-    Generic: Waktu Indonesia Barat,
-    Standard: Waktu Indonesia Barat,
-    Daylight: Waktu Indonesia Barat
-  },
-  Asia/Pontianak: {
-    Generic: Waktu Indonesia Barat,
-    Standard: Waktu Indonesia Barat,
-    Daylight: Waktu Indonesia Barat
-  },
-  Asia/Phnom_Penh: {
-    Generic: Waktu Indochina,
-    Standard: Waktu Indochina,
-    Daylight: Waktu Indochina
-  },
-  Asia/Vientiane: {
-    Generic: Waktu Indochina,
-    Standard: Waktu Indochina,
-    Daylight: Waktu Indochina
-  },
-  Asia/Saigon: {
-    Generic: Waktu Indochina,
-    Standard: Waktu Indochina,
-    Daylight: Waktu Indochina
-  },
-  Etc/GMT-7: {
-    Generic: Waktu Universal Selaras +7,
-    Standard: Waktu Universal Selaras +7,
-    Daylight: Waktu Universal Selaras +7
-  },
-  America/Miquelon: {
-    Generic: Waktu Saint Pierre dan Miquelon,
-    Standard: Waktu Piawai Saint Pierre dan Miquelon,
-    Daylight: Waktu Siang Saint Pierre dan Miquelon
-  },
-  Asia/Sakhalin: {
-    Generic: Waktu Sakhalin,
-    Standard: Waktu Piawai Sakhalin,
-    Daylight: Waktu Siang Sakhalin
-  },
-  Pacific/Apia: {
-    Generic: Waktu Apia,
-    Standard: Waktu Piawai Apia,
-    Daylight: Waktu Siang Apia
-  },
-  Africa/Sao_Tome: {
-    Generic: Waktu Min Greenwich,
-    Standard: Waktu Min Greenwich,
-    Daylight: Waktu Min Greenwich
-  },
-  Europe/Saratov: {
-    Generic: Waktu Saratov,
-    Standard: Waktu Piawai Saratov,
-    Daylight: Waktu Siang Saratov
-  },
-  Asia/Singapore: {
-    Generic: Waktu Piawai Singapura,
-    Standard: Waktu Piawai Singapura,
-    Daylight: Waktu Piawai Singapura
-  },
-  Asia/Brunei: {
-    Generic: Waktu Brunei Darussalam,
-    Standard: Waktu Brunei Darussalam,
-    Daylight: Waktu Brunei Darussalam
-  },
-  Asia/Makassar: {
-    Generic: Waktu Indonesia Tengah,
-    Standard: Waktu Indonesia Tengah,
-    Daylight: Waktu Indonesia Tengah
-  },
-  Asia/Kuala_Lumpur: {
-    Generic: Waktu Malaysia,
-    Standard: Waktu Malaysia,
-    Daylight: Waktu Malaysia
-  },
-  Asia/Kuching: {
-    Generic: Waktu Malaysia,
-    Standard: Waktu Malaysia,
-    Daylight: Waktu Malaysia
-  },
-  Asia/Manila: {
-    Generic: Waktu Filipina,
-    Standard: Waktu Piawai Filipina,
-    Daylight: Waktu Musim Panas Filipina
-  },
-  Etc/GMT-8: {
-    Generic: Waktu Universal Selaras +8,
-    Standard: Waktu Universal Selaras +8,
-    Daylight: Waktu Universal Selaras +8
-  },
-  Africa/Johannesburg: {
-    Generic: Waktu Piawai Afrika Selatan,
-    Standard: Waktu Piawai Afrika Selatan,
-    Daylight: Waktu Piawai Afrika Selatan
-  },
-  Africa/Bujumbura: {
-    Generic: Waktu Afrika Tengah,
-    Standard: Waktu Afrika Tengah,
-    Daylight: Waktu Afrika Tengah
-  },
-  Africa/Gaborone: {
-    Generic: Waktu Afrika Tengah,
-    Standard: Waktu Afrika Tengah,
-    Daylight: Waktu Afrika Tengah
-  },
-  Africa/Lubumbashi: {
-    Generic: Waktu Afrika Tengah,
-    Standard: Waktu Afrika Tengah,
-    Daylight: Waktu Afrika Tengah
-  },
-  Africa/Maseru: {
-    Generic: Waktu Piawai Afrika Selatan,
-    Standard: Waktu Piawai Afrika Selatan,
-    Daylight: Waktu Piawai Afrika Selatan
-  },
-  Africa/Blantyre: {
-    Generic: Waktu Afrika Tengah,
-    Standard: Waktu Afrika Tengah,
-    Daylight: Waktu Afrika Tengah
-  },
-  Africa/Maputo: {
-    Generic: Waktu Afrika Tengah,
-    Standard: Waktu Afrika Tengah,
-    Daylight: Waktu Afrika Tengah
-  },
-  Africa/Kigali: {
-    Generic: Waktu Afrika Tengah,
-    Standard: Waktu Afrika Tengah,
-    Daylight: Waktu Afrika Tengah
-  },
-  Africa/Mbabane: {
-    Generic: Waktu Piawai Afrika Selatan,
-    Standard: Waktu Piawai Afrika Selatan,
-    Daylight: Waktu Piawai Afrika Selatan
-  },
-  Africa/Lusaka: {
-    Generic: Waktu Afrika Tengah,
-    Standard: Waktu Afrika Tengah,
-    Daylight: Waktu Afrika Tengah
-  },
-  Africa/Harare: {
-    Generic: Waktu Afrika Tengah,
-    Standard: Waktu Afrika Tengah,
-    Daylight: Waktu Afrika Tengah
-  },
-  Etc/GMT-2: {
-    Generic: Waktu Universal Selaras +2,
-    Standard: Waktu Universal Selaras +2,
-    Daylight: Waktu Universal Selaras +2
-  },
-  Africa/Juba: {
-    Generic: Waktu Afrika Tengah,
-    Standard: Waktu Afrika Tengah,
-    Daylight: Waktu Afrika Tengah
-  },
-  Asia/Colombo: {
-    Generic: Waktu Piawai India,
-    Standard: Waktu Piawai India,
-    Daylight: Waktu Piawai India
-  },
-  Africa/Khartoum: {
-    Generic: Waktu Afrika Tengah,
-    Standard: Waktu Afrika Tengah,
-    Daylight: Waktu Afrika Tengah
-  },
-  Asia/Damascus: {
-    Generic: Waktu Eropah Timur,
-    Standard: Waktu Piawai Eropah Timur,
-    Daylight: Waktu Musim Panas Eropah Timur
-  },
-  Asia/Taipei: {
-    Generic: Waktu Taipei,
-    Standard: Waktu Piawai Taipei,
-    Daylight: Waktu Siang Taipei
-  },
-  Australia/Hobart: {
-    Generic: Waktu Australia Timur,
-    Standard: Waktu Piawai Timur Australia,
-    Daylight: Waktu Siang Australia Timur
-  },
-  Australia/Currie: {
-    Generic: Waktu Australia Timur,
-    Standard: Waktu Piawai Timur Australia,
-    Daylight: Waktu Siang Australia Timur
+  Antarctica/DumontDUrville: {
+    Generic: Waktu Dumont-d’Urville,
+    Standard: Waktu Dumont-d’Urville,
+    Daylight: Waktu Dumont-d’Urville
   },
   Antarctica/Macquarie: {
     Generic: Waktu Australia Timur,
     Standard: Waktu Piawai Timur Australia,
     Daylight: Waktu Siang Australia Timur
   },
-  America/Araguaina: {
-    Generic: Waktu Brasilia,
-    Standard: Waktu Piawai Brasilia,
-    Daylight: Waktu Musim Panas Brasilia
+  Antarctica/Mawson: {
+    Generic: Waktu Mawson,
+    Standard: Waktu Mawson,
+    Daylight: Waktu Mawson
   },
-  Asia/Tokyo: {
-    Generic: Waktu Jepun,
-    Standard: Waktu Piawai Jepun,
-    Daylight: Waktu Siang Jepun
+  Antarctica/McMurdo: {
+    Generic: Waktu New Zealand,
+    Standard: Waktu Piawai New Zealand,
+    Daylight: Waktu Siang New Zealand
   },
-  Asia/Jayapura: {
-    Generic: Waktu Indonesia Timur,
-    Standard: Waktu Indonesia Timur,
-    Daylight: Waktu Indonesia Timur
+  Antarctica/Palmer: {
+    Generic: Waktu Chile,
+    Standard: Waktu Piawai Chile,
+    Daylight: Waktu Musim Panas Chile
   },
-  Pacific/Palau: {
-    Generic: Waktu Palau,
-    Standard: Waktu Palau,
-    Daylight: Waktu Palau
+  Antarctica/Rothera: {
+    Generic: Waktu Rothera,
+    Standard: Waktu Rothera,
+    Daylight: Waktu Rothera
   },
-  Asia/Dili: {
-    Generic: Waktu Timor Timur,
-    Standard: Waktu Timor Timur,
-    Daylight: Waktu Timor Timur
+  Antarctica/South_Pole: {
+    Generic: Waktu New Zealand,
+    Standard: Waktu Piawai New Zealand,
+    Daylight: Waktu Siang New Zealand
   },
-  Etc/GMT-9: {
-    Generic: Waktu Universal Selaras +9,
-    Standard: Waktu Universal Selaras +9,
-    Daylight: Waktu Universal Selaras +9
+  Antarctica/Syowa: {
+    Generic: Waktu Syowa,
+    Standard: Waktu Syowa,
+    Daylight: Waktu Syowa
   },
-  Asia/Tomsk: {
-    Generic: Waktu Tomsk,
-    Standard: Waktu Piawai Tomsk,
-    Daylight: Waktu Siang Tomsk
-  },
-  Pacific/Tongatapu: {
-    Generic: Waktu Tonga,
-    Standard: Waktu Piawai Tonga,
-    Daylight: Waktu Musim Panas Tonga
-  },
-  Asia/Chita: {
-    Generic: Waktu Chita,
-    Standard: Waktu Piawai Chita,
-    Daylight: Waktu Siang Chita
-  },
-  Europe/Istanbul: {
-    Generic: Waktu Turki,
-    Standard: Waktu Piawai Turki,
-    Daylight: Waktu Siang Turki
-  },
-  America/Grand_Turk: {
-    Generic: Waktu Timur,
-    Standard: Waktu Piawai Timur,
-    Daylight: Waktu Siang Timur
-  },
-  America/Indianapolis: {
-    Generic: Waktu Timur,
-    Standard: Waktu Piawai Timur,
-    Daylight: Waktu Siang Timur
-  },
-  America/Indiana/Marengo: {
-    Generic: Waktu Timur,
-    Standard: Waktu Piawai Timur,
-    Daylight: Waktu Siang Timur
-  },
-  America/Indiana/Vevay: {
-    Generic: Waktu Timur,
-    Standard: Waktu Piawai Timur,
-    Daylight: Waktu Siang Timur
-  },
-  America/Phoenix: {
-    Generic: Waktu Pergunungan,
-    Standard: Waktu Piawai Pergunungan,
-    Daylight: Waktu Siang Pergunungan
-  },
-  America/Creston: {
-    Generic: Waktu Pergunungan,
-    Standard: Waktu Piawai Pergunungan,
-    Daylight: Waktu Siang Pergunungan
-  },
-  America/Dawson_Creek: {
-    Generic: Waktu Pergunungan,
-    Standard: Waktu Piawai Pergunungan,
-    Daylight: Waktu Siang Pergunungan
-  },
-  America/Fort_Nelson: {
-    Generic: Waktu Pergunungan,
-    Standard: Waktu Piawai Pergunungan,
-    Daylight: Waktu Siang Pergunungan
-  },
-  America/Hermosillo: {
-    Generic: Waktu Pasifik Mexico,
-    Standard: Waktu Piawai Pasifik Mexico,
-    Daylight: Waktu Siang Pasifik Mexico
-  },
-  Etc/GMT+7: {
-    Generic: Waktu Universal Selaras -7,
-    Standard: Waktu Universal Selaras -7,
-    Daylight: Waktu Universal Selaras -7
-  },
-  Etc/GMT-12: {
-    Generic: Waktu Universal Selaras +12,
-    Standard: Waktu Universal Selaras +12,
-    Daylight: Waktu Universal Selaras +12
-  },
-  Pacific/Tarawa: {
-    Generic: Waktu Kepulauan Gilbert,
-    Standard: Waktu Kepulauan Gilbert,
-    Daylight: Waktu Kepulauan Gilbert
-  },
-  Pacific/Majuro: {
-    Generic: Waktu Kepulauan Marshall,
-    Standard: Waktu Kepulauan Marshall,
-    Daylight: Waktu Kepulauan Marshall
-  },
-  Pacific/Kwajalein: {
-    Generic: Waktu Kepulauan Marshall,
-    Standard: Waktu Kepulauan Marshall,
-    Daylight: Waktu Kepulauan Marshall
-  },
-  Pacific/Nauru: {
-    Generic: Waktu Nauru,
-    Standard: Waktu Nauru,
-    Daylight: Waktu Nauru
-  },
-  Pacific/Funafuti: {
-    Generic: Waktu Tuvalu,
-    Standard: Waktu Tuvalu,
-    Daylight: Waktu Tuvalu
-  },
-  Pacific/Wake: {
-    Generic: Waktu Pulau Wake,
-    Standard: Waktu Pulau Wake,
-    Daylight: Waktu Pulau Wake
-  },
-  Pacific/Wallis: {
-    Generic: Waktu Wallis dan Futuna,
-    Standard: Waktu Wallis dan Futuna,
-    Daylight: Waktu Wallis dan Futuna
-  },
-  Etc/GMT-13: {
-    Generic: Waktu Universal Selaras +13,
-    Standard: Waktu Universal Selaras +13,
-    Daylight: Waktu Universal Selaras +13
-  },
-  Pacific/Enderbury: {
-    Generic: Waktu Kepulauan Phoenix,
-    Standard: Waktu Kepulauan Phoenix,
-    Daylight: Waktu Kepulauan Phoenix
-  },
-  Pacific/Fakaofo: {
-    Generic: Waktu Tokelau,
-    Standard: Waktu Tokelau,
-    Daylight: Waktu Tokelau
-  },
-  Etc/UTC: {
-    Generic: Waktu Universal Selaras,
-    Standard: Waktu Universal Selaras,
-    Daylight: Waktu Universal Selaras
-  },
-  Etc/GMT: {
+  Antarctica/Troll: {
     Generic: Waktu Min Greenwich,
     Standard: Waktu Min Greenwich,
     Daylight: Waktu Min Greenwich
   },
-  Etc/GMT+2: {
-    Generic: Waktu Universal Selaras -2,
-    Standard: Waktu Universal Selaras -2,
-    Daylight: Waktu Universal Selaras -2
-  },
-  America/Noronha: {
-    Generic: Waktu Fernando de Noronha,
-    Standard: Waktu Piawai Fernando de Noronha,
-    Daylight: Waktu Musim Panas Fernando de Noronha
-  },
-  Atlantic/South_Georgia: {
-    Generic: Waktu Georgia Selatan,
-    Standard: Waktu Georgia Selatan,
-    Daylight: Waktu Georgia Selatan
-  },
-  Etc/GMT+8: {
-    Generic: Waktu Universal Selaras -8,
-    Standard: Waktu Universal Selaras -8,
-    Daylight: Waktu Universal Selaras -8
-  },
-  Pacific/Pitcairn: {
-    Generic: Waktu Pitcairn,
-    Standard: Waktu Pitcairn,
-    Daylight: Waktu Pitcairn
-  },
-  Etc/GMT+9: {
-    Generic: Waktu Universal Selaras -9,
-    Standard: Waktu Universal Selaras -9,
-    Daylight: Waktu Universal Selaras -9
-  },
-  Pacific/Gambier: {
-    Generic: Waktu Gambier,
-    Standard: Waktu Gambier,
-    Daylight: Waktu Gambier
-  },
-  Etc/GMT+11: {
-    Generic: Waktu Universal Selaras -11,
-    Standard: Waktu Universal Selaras -11,
-    Daylight: Waktu Universal Selaras -11
-  },
-  Pacific/Pago_Pago: {
-    Generic: Waktu Samoa,
-    Standard: Waktu Piawai Samoa,
-    Daylight: Waktu Musim Panas Samoa
-  },
-  Pacific/Niue: {
-    Generic: Waktu Niue,
-    Standard: Waktu Niue,
-    Daylight: Waktu Niue
-  },
-  Pacific/Midway: {
-    Generic: Waktu Samoa,
-    Standard: Waktu Piawai Samoa,
-    Daylight: Waktu Musim Panas Samoa
-  },
-  Asia/Ulaanbaatar: {
-    Generic: Waktu Ulan Bator,
-    Standard: Waktu Piawai Ulan Bator,
-    Daylight: Waktu Musim Panas Ulan Bator
-  },
-  Asia/Choibalsan: {
-    Generic: Waktu Ulan Bator,
-    Standard: Waktu Piawai Ulan Bator,
-    Daylight: Waktu Musim Panas Ulan Bator
-  },
-  America/Caracas: {
-    Generic: Waktu Venezuela,
-    Standard: Waktu Venezuela,
-    Daylight: Waktu Venezuela
-  },
-  Asia/Vladivostok: {
-    Generic: Waktu Vladivostok,
-    Standard: Waktu Piawai Vladivostok,
-    Daylight: Waktu Siang Vladivostok
-  },
-  Asia/Ust-Nera: {
-    Generic: Waktu Ust-Nera,
-    Standard: Waktu Piawai Ust-Nera,
-    Daylight: Waktu Siang Ust-Nera
-  },
-  Europe/Volgograd: {
-    Generic: Waktu Volgograd,
-    Standard: Waktu Piawai Volgograd,
-    Daylight: Waktu Siang Volgograd
-  },
-  Australia/Perth: {
-    Generic: Waktu Australia Barat,
-    Standard: Waktu Piawai Australia Barat,
-    Daylight: Waktu Siang Australia Barat
-  },
-  Africa/Lagos: {
-    Generic: Waktu Afrika Barat,
-    Standard: Waktu Piawai Afrika Barat,
-    Daylight: Waktu Musim Panas Afrika Barat
-  },
-  Africa/Luanda: {
-    Generic: Waktu Afrika Barat,
-    Standard: Waktu Piawai Afrika Barat,
-    Daylight: Waktu Musim Panas Afrika Barat
-  },
-  Africa/Porto-Novo: {
-    Generic: Waktu Afrika Barat,
-    Standard: Waktu Piawai Afrika Barat,
-    Daylight: Waktu Musim Panas Afrika Barat
-  },
-  Africa/Kinshasa: {
-    Generic: Waktu Afrika Barat,
-    Standard: Waktu Piawai Afrika Barat,
-    Daylight: Waktu Musim Panas Afrika Barat
-  },
-  Africa/Bangui: {
-    Generic: Waktu Afrika Barat,
-    Standard: Waktu Piawai Afrika Barat,
-    Daylight: Waktu Musim Panas Afrika Barat
-  },
-  Africa/Brazzaville: {
-    Generic: Waktu Afrika Barat,
-    Standard: Waktu Piawai Afrika Barat,
-    Daylight: Waktu Musim Panas Afrika Barat
-  },
-  Africa/Douala: {
-    Generic: Waktu Afrika Barat,
-    Standard: Waktu Piawai Afrika Barat,
-    Daylight: Waktu Musim Panas Afrika Barat
-  },
-  Africa/Algiers: {
-    Generic: Waktu Eropah Tengah,
-    Standard: Waktu Piawai Eropah Tengah,
-    Daylight: Waktu Musim Panas Eropah Tengah
-  },
-  Africa/Libreville: {
-    Generic: Waktu Afrika Barat,
-    Standard: Waktu Piawai Afrika Barat,
-    Daylight: Waktu Musim Panas Afrika Barat
-  },
-  Africa/Malabo: {
-    Generic: Waktu Afrika Barat,
-    Standard: Waktu Piawai Afrika Barat,
-    Daylight: Waktu Musim Panas Afrika Barat
-  },
-  Africa/Niamey: {
-    Generic: Waktu Afrika Barat,
-    Standard: Waktu Piawai Afrika Barat,
-    Daylight: Waktu Musim Panas Afrika Barat
-  },
-  Africa/Ndjamena: {
-    Generic: Waktu Afrika Barat,
-    Standard: Waktu Piawai Afrika Barat,
-    Daylight: Waktu Musim Panas Afrika Barat
-  },
-  Africa/Tunis: {
-    Generic: Waktu Eropah Tengah,
-    Standard: Waktu Piawai Eropah Tengah,
-    Daylight: Waktu Musim Panas Eropah Tengah
-  },
-  Etc/GMT-1: {
-    Generic: Waktu Universal Selaras +1,
-    Standard: Waktu Universal Selaras +1,
-    Daylight: Waktu Universal Selaras +1
-  },
-  Europe/Berlin: {
-    Generic: Waktu Eropah Tengah,
-    Standard: Waktu Piawai Eropah Tengah,
-    Daylight: Waktu Musim Panas Eropah Tengah
-  },
-  Europe/Andorra: {
-    Generic: Waktu Eropah Tengah,
-    Standard: Waktu Piawai Eropah Tengah,
-    Daylight: Waktu Musim Panas Eropah Tengah
-  },
-  Europe/Vienna: {
-    Generic: Waktu Eropah Tengah,
-    Standard: Waktu Piawai Eropah Tengah,
-    Daylight: Waktu Musim Panas Eropah Tengah
-  },
-  Europe/Zurich: {
-    Generic: Waktu Eropah Tengah,
-    Standard: Waktu Piawai Eropah Tengah,
-    Daylight: Waktu Musim Panas Eropah Tengah
-  },
-  Europe/Busingen: {
-    Generic: Waktu Eropah Tengah,
-    Standard: Waktu Piawai Eropah Tengah,
-    Daylight: Waktu Musim Panas Eropah Tengah
-  },
-  Europe/Gibraltar: {
-    Generic: Waktu Eropah Tengah,
-    Standard: Waktu Piawai Eropah Tengah,
-    Daylight: Waktu Musim Panas Eropah Tengah
-  },
-  Europe/Rome: {
-    Generic: Waktu Eropah Tengah,
-    Standard: Waktu Piawai Eropah Tengah,
-    Daylight: Waktu Musim Panas Eropah Tengah
-  },
-  Europe/Vaduz: {
-    Generic: Waktu Eropah Tengah,
-    Standard: Waktu Piawai Eropah Tengah,
-    Daylight: Waktu Musim Panas Eropah Tengah
-  },
-  Europe/Luxembourg: {
-    Generic: Waktu Eropah Tengah,
-    Standard: Waktu Piawai Eropah Tengah,
-    Daylight: Waktu Musim Panas Eropah Tengah
-  },
-  Europe/Monaco: {
-    Generic: Waktu Eropah Tengah,
-    Standard: Waktu Piawai Eropah Tengah,
-    Daylight: Waktu Musim Panas Eropah Tengah
-  },
-  Europe/Malta: {
-    Generic: Waktu Eropah Tengah,
-    Standard: Waktu Piawai Eropah Tengah,
-    Daylight: Waktu Musim Panas Eropah Tengah
-  },
-  Europe/Amsterdam: {
-    Generic: Waktu Eropah Tengah,
-    Standard: Waktu Piawai Eropah Tengah,
-    Daylight: Waktu Musim Panas Eropah Tengah
-  },
-  Europe/Oslo: {
-    Generic: Waktu Eropah Tengah,
-    Standard: Waktu Piawai Eropah Tengah,
-    Daylight: Waktu Musim Panas Eropah Tengah
-  },
-  Europe/Stockholm: {
-    Generic: Waktu Eropah Tengah,
-    Standard: Waktu Piawai Eropah Tengah,
-    Daylight: Waktu Musim Panas Eropah Tengah
+  Antarctica/Vostok: {
+    Generic: Waktu Vostok,
+    Standard: Waktu Vostok,
+    Daylight: Waktu Vostok
   },
   Arctic/Longyearbyen: {
     Generic: Waktu Eropah Tengah,
     Standard: Waktu Piawai Eropah Tengah,
     Daylight: Waktu Musim Panas Eropah Tengah
   },
-  Europe/San_Marino: {
-    Generic: Waktu Eropah Tengah,
-    Standard: Waktu Piawai Eropah Tengah,
-    Daylight: Waktu Musim Panas Eropah Tengah
+  Asia/Aden: {
+    Generic: Waktu Arab,
+    Standard: Waktu Piawai Arab,
+    Daylight: Waktu Siang Arab
   },
-  Europe/Vatican: {
-    Generic: Waktu Eropah Tengah,
-    Standard: Waktu Piawai Eropah Tengah,
-    Daylight: Waktu Musim Panas Eropah Tengah
+  Asia/Almaty: {
+    Generic: Waktu Kazakhstan Timur,
+    Standard: Waktu Kazakhstan Timur,
+    Daylight: Waktu Kazakhstan Timur
   },
-  Asia/Hovd: {
-    Generic: Waktu Hovd,
-    Standard: Waktu Piawai Hovd,
-    Daylight: Waktu Musim Panas Hovd
+  Asia/Amman: {
+    Generic: Waktu Eropah Timur,
+    Standard: Waktu Piawai Eropah Timur,
+    Daylight: Waktu Musim Panas Eropah Timur
   },
-  Asia/Tashkent: {
-    Generic: Waktu Uzbekistan,
-    Standard: Waktu Piawai Uzbekistan,
-    Daylight: Waktu Musim Panas Uzbekistan
-  },
-  Antarctica/Mawson: {
-    Generic: Waktu Mawson,
-    Standard: Waktu Mawson,
-    Daylight: Waktu Mawson
-  },
-  Asia/Oral: {
-    Generic: Waktu Kazakhstan Barat,
-    Standard: Waktu Kazakhstan Barat,
-    Daylight: Waktu Kazakhstan Barat
+  Asia/Anadyr: {
+    Generic: Waktu Anadyr,
+    Standard: Waktu Piawai Anadyr,
+    Daylight: Waktu Siang Anadyr
   },
   Asia/Aqtau: {
     Generic: Waktu Kazakhstan Barat,
@@ -2199,415 +1199,75 @@
     Standard: Waktu Kazakhstan Barat,
     Daylight: Waktu Kazakhstan Barat
   },
-  Asia/Atyrau: {
-    Generic: Waktu Kazakhstan Barat,
-    Standard: Waktu Kazakhstan Barat,
-    Daylight: Waktu Kazakhstan Barat
-  },
-  Indian/Maldives: {
-    Generic: Waktu Maldives,
-    Standard: Waktu Maldives,
-    Daylight: Waktu Maldives
-  },
-  Indian/Kerguelen: {
-    Generic: Waktu Perancis Selatan dan Antartika,
-    Standard: Waktu Perancis Selatan dan Antartika,
-    Daylight: Waktu Perancis Selatan dan Antartika
-  },
-  Asia/Dushanbe: {
-    Generic: Waktu Tajikistan,
-    Standard: Waktu Tajikistan,
-    Daylight: Waktu Tajikistan
-  },
   Asia/Ashgabat: {
     Generic: Waktu Turkmenistan,
     Standard: Waktu Piawai Turkmenistan,
     Daylight: Waktu Musim Panas Turkmenistan
-  },
-  Asia/Samarkand: {
-    Generic: Waktu Uzbekistan,
-    Standard: Waktu Piawai Uzbekistan,
-    Daylight: Waktu Musim Panas Uzbekistan
-  },
-  Etc/GMT-5: {
-    Generic: Waktu Universal Selaras +5,
-    Standard: Waktu Universal Selaras +5,
-    Daylight: Waktu Universal Selaras +5
-  },
-  Asia/Hebron: {
-    Generic: Waktu Eropah Timur,
-    Standard: Waktu Piawai Eropah Timur,
-    Daylight: Waktu Musim Panas Eropah Timur
-  },
-  Asia/Gaza: {
-    Generic: Waktu Eropah Timur,
-    Standard: Waktu Piawai Eropah Timur,
-    Daylight: Waktu Musim Panas Eropah Timur
-  },
-  Pacific/Port_Moresby: {
-    Generic: Waktu Papua New Guinea,
-    Standard: Waktu Papua New Guinea,
-    Daylight: Waktu Papua New Guinea
-  },
-  Antarctica/DumontDUrville: {
-    Generic: Waktu Dumont-d’Urville,
-    Standard: Waktu Dumont-d’Urville,
-    Daylight: Waktu Dumont-d’Urville
-  },
-  Pacific/Truk: {
-    Generic: Waktu Chuuk,
-    Standard: Waktu Chuuk,
-    Daylight: Waktu Chuuk
-  },
-  Pacific/Guam: {
-    Generic: Waktu Piawai Chamorro,
-    Standard: Waktu Piawai Chamorro,
-    Daylight: Waktu Piawai Chamorro
-  },
-  Pacific/Saipan: {
-    Generic: Waktu Piawai Chamorro,
-    Standard: Waktu Piawai Chamorro,
-    Daylight: Waktu Piawai Chamorro
-  },
-  Etc/GMT-10: {
-    Generic: Waktu Universal Selaras +10,
-    Standard: Waktu Universal Selaras +10,
-    Daylight: Waktu Universal Selaras +10
-  },
-  Asia/Yakutsk: {
-    Generic: Waktu Yakutsk,
-    Standard: Waktu Piawai Yakutsk,
-    Daylight: Waktu Siang Yakutsk
-  },
-  Asia/Khandyga: {
-    Generic: Waktu Khandyga,
-    Standard: Waktu Piawai Khandyga,
-    Daylight: Waktu Siang Khandyga
-  },
-  America/Whitehorse: {
-    Generic: Masa Yukon,
-    Standard: Masa Yukon,
-    Daylight: Masa Yukon
-  },
-  America/Dawson: {
-    Generic: Masa Yukon,
-    Standard: Masa Yukon,
-    Daylight: Masa Yukon
-  },
-  Iceland: {
-    Generic: Waktu Min Greenwich,
-    Standard: Waktu Min Greenwich,
-    Daylight: Waktu Min Greenwich
-  },
-  Africa/Timbuktu: {
-    Generic: Waktu Min Greenwich,
-    Standard: Waktu Min Greenwich,
-    Daylight: Waktu Min Greenwich
-  },
-  Egypt: {
-    Generic: Waktu Eropah Timur,
-    Standard: Waktu Piawai Eropah Timur,
-    Daylight: Waktu Musim Panas Eropah Timur
-  },
-  Africa/Asmara: {
-    Generic: Waktu Afrika Timur,
-    Standard: Waktu Afrika Timur,
-    Daylight: Waktu Afrika Timur
-  },
-  Libya: {
-    Generic: Waktu Eropah Timur,
-    Standard: Waktu Piawai Eropah Timur,
-    Daylight: Waktu Musim Panas Eropah Timur
-  },
-  America/Atka: {
-    Generic: Waktu Hawaii-Aleutian,
-    Standard: Waktu Piawai Hawaii-Aleutian,
-    Daylight: Waktu Siang Hawaii-Aleutian
-  },
-  US/Aleutian: {
-    Generic: Waktu Hawaii-Aleutian,
-    Standard: Waktu Piawai Hawaii-Aleutian,
-    Daylight: Waktu Siang Hawaii-Aleutian
-  },
-  US/Alaska: {
-    Generic: Waktu Alaska,
-    Standard: Waktu Piawai Alaska,
-    Daylight: Waktu Siang Alaska
-  },
-  America/Argentina/Buenos_Aires: {
-    Generic: Waktu Argentina,
-    Standard: Waktu Piawai Argentina,
-    Daylight: Waktu Musim Panas Argentina
-  },
-  America/Argentina/Catamarca: {
-    Generic: Waktu Argentina,
-    Standard: Waktu Piawai Argentina,
-    Daylight: Waktu Musim Panas Argentina
-  },
-  America/Argentina/ComodRivadavia: {
-    Generic: Waktu Argentina,
-    Standard: Waktu Piawai Argentina,
-    Daylight: Waktu Musim Panas Argentina
-  },
-  America/Argentina/Cordoba: {
-    Generic: Waktu Argentina,
-    Standard: Waktu Piawai Argentina,
-    Daylight: Waktu Musim Panas Argentina
-  },
-  America/Rosario: {
-    Generic: Waktu Argentina,
-    Standard: Waktu Piawai Argentina,
-    Daylight: Waktu Musim Panas Argentina
-  },
-  America/Argentina/Jujuy: {
-    Generic: Waktu Argentina,
-    Standard: Waktu Piawai Argentina,
-    Daylight: Waktu Musim Panas Argentina
-  },
-  America/Argentina/Mendoza: {
-    Generic: Waktu Argentina,
-    Standard: Waktu Piawai Argentina,
-    Daylight: Waktu Musim Panas Argentina
-  },
-  US/Central: {
-    Generic: Waktu Pusat,
-    Standard: Waktu Piawai Pusat,
-    Daylight: Waktu Siang Tengah
-  },
-  America/Shiprock: {
-    Generic: Waktu Pergunungan,
-    Standard: Waktu Piawai Pergunungan,
-    Daylight: Waktu Siang Pergunungan
-  },
-  Navajo: {
-    Generic: Waktu Pergunungan,
-    Standard: Waktu Piawai Pergunungan,
-    Daylight: Waktu Siang Pergunungan
-  },
-  US/Mountain: {
-    Generic: Waktu Pergunungan,
-    Standard: Waktu Piawai Pergunungan,
-    Daylight: Waktu Siang Pergunungan
-  },
-  US/Michigan: {
-    Generic: Waktu Timur,
-    Standard: Waktu Piawai Timur,
-    Daylight: Waktu Siang Timur
-  },
-  Canada/Mountain: {
-    Generic: Waktu Pergunungan,
-    Standard: Waktu Piawai Pergunungan,
-    Daylight: Waktu Siang Pergunungan
-  },
-  Canada/Atlantic: {
-    Generic: Waktu Atlantik,
-    Standard: Waktu Piawai Atlantik,
-    Daylight: Waktu Siang Atlantik
-  },
-  Cuba: {
-    Generic: Waktu Cuba,
-    Standard: Waktu Piawai Cuba,
-    Daylight: Waktu Siang Cuba
-  },
-  America/Indiana/Indianapolis: {
-    Generic: Waktu Timur,
-    Standard: Waktu Piawai Timur,
-    Daylight: Waktu Siang Timur
-  },
-  US/East-Indiana: {
-    Generic: Waktu Timur,
-    Standard: Waktu Piawai Timur,
-    Daylight: Waktu Siang Timur
-  },
-  America/Knox_IN: {
-    Generic: Waktu Pusat,
-    Standard: Waktu Piawai Pusat,
-    Daylight: Waktu Siang Tengah
-  },
-  US/Indiana-Starke: {
-    Generic: Waktu Pusat,
-    Standard: Waktu Piawai Pusat,
-    Daylight: Waktu Siang Tengah
-  },
-  Jamaica: {
-    Generic: Waktu Timur,
-    Standard: Waktu Piawai Timur,
-    Daylight: Waktu Siang Timur
-  },
-  America/Kentucky/Louisville: {
-    Generic: Waktu Timur,
-    Standard: Waktu Piawai Timur,
-    Daylight: Waktu Siang Timur
-  },
-  US/Pacific: {
-    Generic: Waktu Pasifik,
-    Standard: Waktu Piawai Pasifik,
-    Daylight: Waktu Siang Pasifik
-  },
-  Brazil/West: {
-    Generic: Waktu Amazon,
-    Standard: Waktu Piawai Amazon,
-    Daylight: Waktu Musim Panas Amazon
-  },
-  Mexico/BajaSur: {
-    Generic: Waktu Pasifik Mexico,
-    Standard: Waktu Piawai Pasifik Mexico,
-    Daylight: Waktu Siang Pasifik Mexico
-  },
-  Mexico/General: {
-    Generic: Waktu Pusat,
-    Standard: Waktu Piawai Pusat,
-    Daylight: Waktu Siang Tengah
-  },
-  US/Eastern: {
-    Generic: Waktu Timur,
-    Standard: Waktu Piawai Timur,
-    Daylight: Waktu Siang Timur
-  },
-  Brazil/DeNoronha: {
-    Generic: Waktu Fernando de Noronha,
-    Standard: Waktu Piawai Fernando de Noronha,
-    Daylight: Waktu Musim Panas Fernando de Noronha
-  },
-  America/Nuuk: {
-    Generic: Waktu Greenland Barat,
-    Standard: Waktu Piawai Greenland Barat,
-    Daylight: Waktu Musim Panas Greenland Barat
-  },
-  America/Atikokan: {
-    Generic: Waktu Timur,
-    Standard: Waktu Piawai Timur,
-    Daylight: Waktu Siang Timur
-  },
-  US/Arizona: {
-    Generic: Waktu Pergunungan,
-    Standard: Waktu Piawai Pergunungan,
-    Daylight: Waktu Siang Pergunungan
-  },
-  America/Virgin: {
-    Generic: Waktu Atlantik,
-    Standard: Waktu Piawai Atlantik,
-    Daylight: Waktu Siang Atlantik
-  },
-  Canada/Saskatchewan: {
-    Generic: Waktu Pusat,
-    Standard: Waktu Piawai Pusat,
-    Daylight: Waktu Siang Tengah
-  },
-  America/Porto_Acre: {
-    Generic: Waktu Acre,
-    Standard: Waktu Piawai Acre,
-    Daylight: Waktu Musim Panas Acre
-  },
-  Brazil/Acre: {
-    Generic: Waktu Acre,
-    Standard: Waktu Piawai Acre,
-    Daylight: Waktu Musim Panas Acre
-  },
-  Chile/Continental: {
-    Generic: Waktu Chile,
-    Standard: Waktu Piawai Chile,
-    Daylight: Waktu Musim Panas Chile
-  },
-  Brazil/East: {
-    Generic: Waktu Brasilia,
-    Standard: Waktu Piawai Brasilia,
-    Daylight: Waktu Musim Panas Brasilia
-  },
-  Canada/Newfoundland: {
-    Generic: Waktu Newfoundland,
-    Standard: Waktu Piawai Newfoundland,
-    Daylight: Waktu Siang Newfoundland
-  },
-  America/Ensenada: {
-    Generic: Waktu Pasifik,
-    Standard: Waktu Piawai Pasifik,
-    Daylight: Waktu Siang Pasifik
-  },
-  Mexico/BajaNorte: {
-    Generic: Waktu Pasifik,
-    Standard: Waktu Piawai Pasifik,
-    Daylight: Waktu Siang Pasifik
-  },
-  Canada/Eastern: {
-    Generic: Waktu Timur,
-    Standard: Waktu Piawai Timur,
-    Daylight: Waktu Siang Timur
-  },
-  Canada/Pacific: {
-    Generic: Waktu Pasifik,
-    Standard: Waktu Piawai Pasifik,
-    Daylight: Waktu Siang Pasifik
-  },
-  Canada/Yukon: {
-    Generic: Masa Yukon,
-    Standard: Masa Yukon,
-    Daylight: Masa Yukon
-  },
-  Canada/Central: {
-    Generic: Waktu Pusat,
-    Standard: Waktu Piawai Pusat,
-    Daylight: Waktu Siang Tengah
   },
   Asia/Ashkhabad: {
     Generic: Waktu Turkmenistan,
     Standard: Waktu Piawai Turkmenistan,
     Daylight: Waktu Musim Panas Turkmenistan
   },
-  Asia/Dacca: {
-    Generic: Waktu Bangladesh,
-    Standard: Waktu Piawai Bangladesh,
-    Daylight: Waktu Musim Panas Bangladesh
+  Asia/Atyrau: {
+    Generic: Waktu Kazakhstan Barat,
+    Standard: Waktu Kazakhstan Barat,
+    Daylight: Waktu Kazakhstan Barat
   },
-  Asia/Ho_Chi_Minh: {
+  Asia/Baghdad: {
+    Generic: Waktu Arab,
+    Standard: Waktu Piawai Arab,
+    Daylight: Waktu Siang Arab
+  },
+  Asia/Bahrain: {
+    Generic: Waktu Arab,
+    Standard: Waktu Piawai Arab,
+    Daylight: Waktu Siang Arab
+  },
+  Asia/Baku: {
+    Generic: Waktu Azerbaijan,
+    Standard: Waktu Piawai Azerbaijan,
+    Daylight: Waktu Musim Panas Azerbaijan
+  },
+  Asia/Bangkok: {
     Generic: Waktu Indochina,
     Standard: Waktu Indochina,
     Daylight: Waktu Indochina
   },
-  Hongkong: {
-    Generic: Waktu Hong Kong,
-    Standard: Waktu Piawai Hong Kong,
-    Daylight: Waktu Musim Panas Hong Kong
+  Asia/Barnaul: {
+    Generic: Waktu Barnaul,
+    Standard: Waktu Piawai Barnaul,
+    Daylight: Waktu Siang Barnaul
   },
-  Asia/Tel_Aviv: {
-    Generic: Waktu Israel,
-    Standard: Waktu Piawai Israel,
-    Daylight: Waktu Siang Israel
-  },
-  Israel: {
-    Generic: Waktu Israel,
-    Standard: Waktu Piawai Israel,
-    Daylight: Waktu Siang Israel
-  },
-  Asia/Kathmandu: {
-    Generic: Waktu Nepal,
-    Standard: Waktu Nepal,
-    Daylight: Waktu Nepal
-  },
-  Asia/Kolkata: {
-    Generic: Waktu Piawai India,
-    Standard: Waktu Piawai India,
-    Daylight: Waktu Piawai India
-  },
-  Asia/Macao: {
-    Generic: Waktu China,
-    Standard: Waktu Piawai China,
-    Daylight: Waktu Siang China
-  },
-  Asia/Ujung_Pandang: {
-    Generic: Waktu Indonesia Tengah,
-    Standard: Waktu Indonesia Tengah,
-    Daylight: Waktu Indonesia Tengah
-  },
-  Europe/Nicosia: {
+  Asia/Beirut: {
     Generic: Waktu Eropah Timur,
     Standard: Waktu Piawai Eropah Timur,
     Daylight: Waktu Musim Panas Eropah Timur
   },
-  ROK: {
-    Generic: Waktu Korea,
-    Standard: Waktu Piawai Korea,
-    Daylight: Waktu Siang Korea
+  Asia/Bishkek: {
+    Generic: Waktu Kyrgystan,
+    Standard: Waktu Kyrgystan,
+    Daylight: Waktu Kyrgystan
+  },
+  Asia/Brunei: {
+    Generic: Waktu Brunei Darussalam,
+    Standard: Waktu Brunei Darussalam,
+    Daylight: Waktu Brunei Darussalam
+  },
+  Asia/Calcutta: {
+    Generic: Waktu Piawai India,
+    Standard: Waktu Piawai India,
+    Daylight: Waktu Piawai India
+  },
+  Asia/Chita: {
+    Generic: Waktu Chita,
+    Standard: Waktu Piawai Chita,
+    Daylight: Waktu Siang Chita
+  },
+  Asia/Choibalsan: {
+    Generic: Waktu Ulan Bator,
+    Standard: Waktu Piawai Ulan Bator,
+    Daylight: Waktu Musim Panas Ulan Bator
   },
   Asia/Chongqing: {
     Generic: Waktu China,
@@ -2619,57 +1279,412 @@
     Standard: Waktu Piawai China,
     Daylight: Waktu Siang China
   },
+  Asia/Colombo: {
+    Generic: Waktu Piawai India,
+    Standard: Waktu Piawai India,
+    Daylight: Waktu Piawai India
+  },
+  Asia/Dacca: {
+    Generic: Waktu Bangladesh,
+    Standard: Waktu Piawai Bangladesh,
+    Daylight: Waktu Musim Panas Bangladesh
+  },
+  Asia/Damascus: {
+    Generic: Waktu Eropah Timur,
+    Standard: Waktu Piawai Eropah Timur,
+    Daylight: Waktu Musim Panas Eropah Timur
+  },
+  Asia/Dhaka: {
+    Generic: Waktu Bangladesh,
+    Standard: Waktu Piawai Bangladesh,
+    Daylight: Waktu Musim Panas Bangladesh
+  },
+  Asia/Dili: {
+    Generic: Waktu Timor Timur,
+    Standard: Waktu Timor Timur,
+    Daylight: Waktu Timor Timur
+  },
+  Asia/Dubai: {
+    Generic: Waktu Piawai Teluk,
+    Standard: Waktu Piawai Teluk,
+    Daylight: Waktu Piawai Teluk
+  },
+  Asia/Dushanbe: {
+    Generic: Waktu Tajikistan,
+    Standard: Waktu Tajikistan,
+    Daylight: Waktu Tajikistan
+  },
+  Asia/Famagusta: {
+    Generic: Waktu Eropah Timur,
+    Standard: Waktu Piawai Eropah Timur,
+    Daylight: Waktu Musim Panas Eropah Timur
+  },
+  Asia/Gaza: {
+    Generic: Waktu Eropah Timur,
+    Standard: Waktu Piawai Eropah Timur,
+    Daylight: Waktu Musim Panas Eropah Timur
+  },
   Asia/Harbin: {
     Generic: Waktu China,
     Standard: Waktu Piawai China,
     Daylight: Waktu Siang China
   },
-  PRC: {
-    Generic: Waktu China,
-    Standard: Waktu Piawai China,
-    Daylight: Waktu Siang China
+  Asia/Hebron: {
+    Generic: Waktu Eropah Timur,
+    Standard: Waktu Piawai Eropah Timur,
+    Daylight: Waktu Musim Panas Eropah Timur
   },
-  Singapore: {
-    Generic: Waktu Piawai Singapura,
-    Standard: Waktu Piawai Singapura,
-    Daylight: Waktu Piawai Singapura
+  Asia/Ho_Chi_Minh: {
+    Generic: Waktu Indochina,
+    Standard: Waktu Indochina,
+    Daylight: Waktu Indochina
   },
-  ROC: {
-    Generic: Waktu Taipei,
-    Standard: Waktu Piawai Taipei,
-    Daylight: Waktu Siang Taipei
+  Asia/Hong_Kong: {
+    Generic: Waktu Hong Kong,
+    Standard: Waktu Piawai Hong Kong,
+    Daylight: Waktu Musim Panas Hong Kong
   },
-  Iran: {
-    Generic: Waktu Iran,
-    Standard: Waktu Piawai Iran,
-    Daylight: Waktu Siang Iran
+  Asia/Hovd: {
+    Generic: Waktu Hovd,
+    Standard: Waktu Piawai Hovd,
+    Daylight: Waktu Musim Panas Hovd
   },
-  Asia/Thimbu: {
-    Generic: Waktu Bhutan,
-    Standard: Waktu Bhutan,
-    Daylight: Waktu Bhutan
+  Asia/Irkutsk: {
+    Generic: Waktu Irkutsk,
+    Standard: Waktu Piawai Irkutsk,
+    Daylight: Waktu Siang Irkutsk
   },
-  Japan: {
-    Generic: Waktu Jepun,
-    Standard: Waktu Piawai Jepun,
-    Daylight: Waktu Siang Jepun
+  Asia/Istanbul: {
+    Generic: Waktu Turki,
+    Standard: Waktu Piawai Turki,
+    Daylight: Waktu Siang Turki
   },
-  Asia/Ulan_Bator: {
-    Generic: Waktu Ulan Bator,
-    Standard: Waktu Piawai Ulan Bator,
-    Daylight: Waktu Musim Panas Ulan Bator
+  Asia/Jakarta: {
+    Generic: Waktu Indonesia Barat,
+    Standard: Waktu Indonesia Barat,
+    Daylight: Waktu Indonesia Barat
+  },
+  Asia/Jayapura: {
+    Generic: Waktu Indonesia Timur,
+    Standard: Waktu Indonesia Timur,
+    Daylight: Waktu Indonesia Timur
+  },
+  Asia/Jerusalem: {
+    Generic: Waktu Israel,
+    Standard: Waktu Piawai Israel,
+    Daylight: Waktu Siang Israel
+  },
+  Asia/Kabul: {
+    Generic: Waktu Afghanistan,
+    Standard: Waktu Afghanistan,
+    Daylight: Waktu Afghanistan
+  },
+  Asia/Kamchatka: {
+    Generic: Waktu Kamchatka,
+    Standard: Waktu Piawai Kamchatka,
+    Daylight: Waktu Siang Kamchatka
+  },
+  Asia/Karachi: {
+    Generic: Waktu Pakistan,
+    Standard: Waktu Piawai Pakistan,
+    Daylight: Waktu Musim Panas Pakistan
   },
   Asia/Kashgar: {
     Generic: Waktu China,
     Standard: Waktu Piawai China,
     Daylight: Waktu Siang China
   },
+  Asia/Kathmandu: {
+    Generic: Waktu Nepal,
+    Standard: Waktu Nepal,
+    Daylight: Waktu Nepal
+  },
+  Asia/Katmandu: {
+    Generic: Waktu Nepal,
+    Standard: Waktu Nepal,
+    Daylight: Waktu Nepal
+  },
+  Asia/Khandyga: {
+    Generic: Waktu Khandyga,
+    Standard: Waktu Piawai Khandyga,
+    Daylight: Waktu Siang Khandyga
+  },
+  Asia/Kolkata: {
+    Generic: Waktu Piawai India,
+    Standard: Waktu Piawai India,
+    Daylight: Waktu Piawai India
+  },
+  Asia/Krasnoyarsk: {
+    Generic: Waktu Krasnoyarsk,
+    Standard: Waktu Piawai Krasnoyarsk,
+    Daylight: Waktu Siang Krasnoyarsk
+  },
+  Asia/Kuala_Lumpur: {
+    Generic: Waktu Malaysia,
+    Standard: Waktu Malaysia,
+    Daylight: Waktu Malaysia
+  },
+  Asia/Kuching: {
+    Generic: Waktu Malaysia,
+    Standard: Waktu Malaysia,
+    Daylight: Waktu Malaysia
+  },
+  Asia/Kuwait: {
+    Generic: Waktu Arab,
+    Standard: Waktu Piawai Arab,
+    Daylight: Waktu Siang Arab
+  },
+  Asia/Macao: {
+    Generic: Waktu China,
+    Standard: Waktu Piawai China,
+    Daylight: Waktu Siang China
+  },
+  Asia/Macau: {
+    Generic: Waktu China,
+    Standard: Waktu Piawai China,
+    Daylight: Waktu Siang China
+  },
+  Asia/Magadan: {
+    Generic: Waktu Magadan,
+    Standard: Waktu Piawai Magadan,
+    Daylight: Waktu Siang Magadan
+  },
+  Asia/Makassar: {
+    Generic: Waktu Indonesia Tengah,
+    Standard: Waktu Indonesia Tengah,
+    Daylight: Waktu Indonesia Tengah
+  },
+  Asia/Manila: {
+    Generic: Waktu Filipina,
+    Standard: Waktu Piawai Filipina,
+    Daylight: Waktu Musim Panas Filipina
+  },
+  Asia/Muscat: {
+    Generic: Waktu Piawai Teluk,
+    Standard: Waktu Piawai Teluk,
+    Daylight: Waktu Piawai Teluk
+  },
+  Asia/Nicosia: {
+    Generic: Waktu Eropah Timur,
+    Standard: Waktu Piawai Eropah Timur,
+    Daylight: Waktu Musim Panas Eropah Timur
+  },
+  Asia/Novokuznetsk: {
+    Generic: Waktu Novokuznetsk,
+    Standard: Waktu Piawai Novokuznetsk,
+    Daylight: Waktu Siang Novokuznetsk
+  },
+  Asia/Novosibirsk: {
+    Generic: Waktu Novosibirsk,
+    Standard: Waktu Piawai Novosibirsk,
+    Daylight: Waktu Siang Novosibirsk
+  },
+  Asia/Omsk: {
+    Generic: Waktu Omsk,
+    Standard: Waktu Piawai Omsk,
+    Daylight: Waktu Siang Omsk
+  },
+  Asia/Oral: {
+    Generic: Waktu Kazakhstan Barat,
+    Standard: Waktu Kazakhstan Barat,
+    Daylight: Waktu Kazakhstan Barat
+  },
+  Asia/Phnom_Penh: {
+    Generic: Waktu Indochina,
+    Standard: Waktu Indochina,
+    Daylight: Waktu Indochina
+  },
+  Asia/Pontianak: {
+    Generic: Waktu Indonesia Barat,
+    Standard: Waktu Indonesia Barat,
+    Daylight: Waktu Indonesia Barat
+  },
+  Asia/Pyongyang: {
+    Generic: Waktu Korea,
+    Standard: Waktu Piawai Korea,
+    Daylight: Waktu Siang Korea
+  },
+  Asia/Qatar: {
+    Generic: Waktu Arab,
+    Standard: Waktu Piawai Arab,
+    Daylight: Waktu Siang Arab
+  },
+  Asia/Qostanay: {
+    Generic: Waktu Kazakhstan Timur,
+    Standard: Waktu Kazakhstan Timur,
+    Daylight: Waktu Kazakhstan Timur
+  },
+  Asia/Qyzylorda: {
+    Generic: Waktu Kazakhstan Barat,
+    Standard: Waktu Kazakhstan Barat,
+    Daylight: Waktu Kazakhstan Barat
+  },
+  Asia/Rangoon: {
+    Generic: Waktu Myanmar,
+    Standard: Waktu Myanmar,
+    Daylight: Waktu Myanmar
+  },
+  Asia/Riyadh: {
+    Generic: Waktu Arab,
+    Standard: Waktu Piawai Arab,
+    Daylight: Waktu Siang Arab
+  },
+  Asia/Saigon: {
+    Generic: Waktu Indochina,
+    Standard: Waktu Indochina,
+    Daylight: Waktu Indochina
+  },
+  Asia/Sakhalin: {
+    Generic: Waktu Sakhalin,
+    Standard: Waktu Piawai Sakhalin,
+    Daylight: Waktu Siang Sakhalin
+  },
+  Asia/Samarkand: {
+    Generic: Waktu Uzbekistan,
+    Standard: Waktu Piawai Uzbekistan,
+    Daylight: Waktu Musim Panas Uzbekistan
+  },
+  Asia/Seoul: {
+    Generic: Waktu Korea,
+    Standard: Waktu Piawai Korea,
+    Daylight: Waktu Siang Korea
+  },
+  Asia/Shanghai: {
+    Generic: Waktu China,
+    Standard: Waktu Piawai China,
+    Daylight: Waktu Siang China
+  },
+  Asia/Singapore: {
+    Generic: Waktu Piawai Singapura,
+    Standard: Waktu Piawai Singapura,
+    Daylight: Waktu Piawai Singapura
+  },
+  Asia/Srednekolymsk: {
+    Generic: Waktu Srednekolymsk,
+    Standard: Waktu Piawai Srednekolymsk,
+    Daylight: Waktu Siang Srednekolymsk
+  },
+  Asia/Taipei: {
+    Generic: Waktu Taipei,
+    Standard: Waktu Piawai Taipei,
+    Daylight: Waktu Siang Taipei
+  },
+  Asia/Tashkent: {
+    Generic: Waktu Uzbekistan,
+    Standard: Waktu Piawai Uzbekistan,
+    Daylight: Waktu Musim Panas Uzbekistan
+  },
+  Asia/Tbilisi: {
+    Generic: Waktu Georgia,
+    Standard: Waktu Piawai Georgia,
+    Daylight: Waktu Musim Panas Georgia
+  },
+  Asia/Tehran: {
+    Generic: Waktu Iran,
+    Standard: Waktu Piawai Iran,
+    Daylight: Waktu Siang Iran
+  },
+  Asia/Tel_Aviv: {
+    Generic: Waktu Israel,
+    Standard: Waktu Piawai Israel,
+    Daylight: Waktu Siang Israel
+  },
+  Asia/Thimbu: {
+    Generic: Waktu Bhutan,
+    Standard: Waktu Bhutan,
+    Daylight: Waktu Bhutan
+  },
+  Asia/Thimphu: {
+    Generic: Waktu Bhutan,
+    Standard: Waktu Bhutan,
+    Daylight: Waktu Bhutan
+  },
+  Asia/Tokyo: {
+    Generic: Waktu Jepun,
+    Standard: Waktu Piawai Jepun,
+    Daylight: Waktu Siang Jepun
+  },
+  Asia/Tomsk: {
+    Generic: Waktu Tomsk,
+    Standard: Waktu Piawai Tomsk,
+    Daylight: Waktu Siang Tomsk
+  },
+  Asia/Ujung_Pandang: {
+    Generic: Waktu Indonesia Tengah,
+    Standard: Waktu Indonesia Tengah,
+    Daylight: Waktu Indonesia Tengah
+  },
+  Asia/Ulaanbaatar: {
+    Generic: Waktu Ulan Bator,
+    Standard: Waktu Piawai Ulan Bator,
+    Daylight: Waktu Musim Panas Ulan Bator
+  },
+  Asia/Ulan_Bator: {
+    Generic: Waktu Ulan Bator,
+    Standard: Waktu Piawai Ulan Bator,
+    Daylight: Waktu Musim Panas Ulan Bator
+  },
+  Asia/Urumqi: {
+    Generic: Waktu China,
+    Standard: Waktu Piawai China,
+    Daylight: Waktu Siang China
+  },
+  Asia/Ust-Nera: {
+    Generic: Waktu Ust-Nera,
+    Standard: Waktu Piawai Ust-Nera,
+    Daylight: Waktu Siang Ust-Nera
+  },
+  Asia/Vientiane: {
+    Generic: Waktu Indochina,
+    Standard: Waktu Indochina,
+    Daylight: Waktu Indochina
+  },
+  Asia/Vladivostok: {
+    Generic: Waktu Vladivostok,
+    Standard: Waktu Piawai Vladivostok,
+    Daylight: Waktu Siang Vladivostok
+  },
+  Asia/Yakutsk: {
+    Generic: Waktu Yakutsk,
+    Standard: Waktu Piawai Yakutsk,
+    Daylight: Waktu Siang Yakutsk
+  },
   Asia/Yangon: {
     Generic: Waktu Myanmar,
     Standard: Waktu Myanmar,
     Daylight: Waktu Myanmar
   },
-  WET: {
+  Asia/Yekaterinburg: {
+    Generic: Waktu Yekaterinburg,
+    Standard: Waktu Piawai Yekaterinburg,
+    Daylight: Waktu Siang Yekaterinburg
+  },
+  Asia/Yerevan: {
+    Generic: Waktu Armenia,
+    Standard: Waktu Piawai Armenia,
+    Daylight: Waktu Musim Panas Armenia
+  },
+  Atlantic/Azores: {
+    Generic: Waktu Azores,
+    Standard: Waktu Piawai Azores,
+    Daylight: Waktu Musim Panas Azores
+  },
+  Atlantic/Bermuda: {
+    Generic: Waktu Atlantik,
+    Standard: Waktu Piawai Atlantik,
+    Daylight: Waktu Siang Atlantik
+  },
+  Atlantic/Canary: {
+    Generic: Waktu Eropah Barat,
+    Standard: Waktu Piawai Eropah Barat,
+    Daylight: Waktu Musim Panas Eropah Barat
+  },
+  Atlantic/Cape_Verde: {
+    Generic: Waktu Tanjung Verde,
+    Standard: Waktu Piawai Tanjung Verde,
+    Daylight: Waktu Musim Panas Tanjung Verde
+  },
+  Atlantic/Faeroe: {
     Generic: Waktu Eropah Barat,
     Standard: Waktu Piawai Eropah Barat,
     Daylight: Waktu Musim Panas Eropah Barat
@@ -2679,27 +1694,77 @@
     Standard: Waktu Piawai Eropah Barat,
     Daylight: Waktu Musim Panas Eropah Barat
   },
-  Australia/South: {
-    Generic: Waktu Australia Tengah,
-    Standard: Waktu Piawai Australia Tengah,
-    Daylight: Waktu Siang Australia Tengah
+  Atlantic/Jan_Mayen: {
+    Generic: Waktu Eropah Tengah,
+    Standard: Waktu Piawai Eropah Tengah,
+    Daylight: Waktu Musim Panas Eropah Tengah
   },
-  Australia/Queensland: {
+  Atlantic/Madeira: {
+    Generic: Waktu Eropah Barat,
+    Standard: Waktu Piawai Eropah Barat,
+    Daylight: Waktu Musim Panas Eropah Barat
+  },
+  Atlantic/Reykjavik: {
+    Generic: Waktu Min Greenwich,
+    Standard: Waktu Min Greenwich,
+    Daylight: Waktu Min Greenwich
+  },
+  Atlantic/South_Georgia: {
+    Generic: Waktu Georgia Selatan,
+    Standard: Waktu Georgia Selatan,
+    Daylight: Waktu Georgia Selatan
+  },
+  Atlantic/St_Helena: {
+    Generic: Waktu Min Greenwich,
+    Standard: Waktu Min Greenwich,
+    Daylight: Waktu Min Greenwich
+  },
+  Atlantic/Stanley: {
+    Generic: Waktu Kepulauan Falkland,
+    Standard: Waktu Piawai Kepulauan Falkland,
+    Daylight: Waktu Musim Panas Kepulauan Falkland
+  },
+  Australia/ACT: {
     Generic: Waktu Australia Timur,
     Standard: Waktu Piawai Timur Australia,
     Daylight: Waktu Siang Australia Timur
   },
-  Australia/Yancowinna: {
+  Australia/Adelaide: {
     Generic: Waktu Australia Tengah,
     Standard: Waktu Piawai Australia Tengah,
     Daylight: Waktu Siang Australia Tengah
   },
-  Australia/North: {
+  Australia/Brisbane: {
+    Generic: Waktu Australia Timur,
+    Standard: Waktu Piawai Timur Australia,
+    Daylight: Waktu Siang Australia Timur
+  },
+  Australia/Broken_Hill: {
     Generic: Waktu Australia Tengah,
     Standard: Waktu Piawai Australia Tengah,
     Daylight: Waktu Siang Australia Tengah
   },
-  Australia/Tasmania: {
+  Australia/Canberra: {
+    Generic: Waktu Australia Timur,
+    Standard: Waktu Piawai Timur Australia,
+    Daylight: Waktu Siang Australia Timur
+  },
+  Australia/Currie: {
+    Generic: Waktu Australia Timur,
+    Standard: Waktu Piawai Timur Australia,
+    Daylight: Waktu Siang Australia Timur
+  },
+  Australia/Darwin: {
+    Generic: Waktu Australia Tengah,
+    Standard: Waktu Piawai Australia Tengah,
+    Daylight: Waktu Siang Australia Tengah
+  },
+  Australia/Eucla: {
+    Generic: Waktu Barat Tengah Australia,
+    Standard: Waktu Piawai Barat Tengah Australia,
+    Daylight: Waktu Siang Barat Tengah Australia
+  },
+  Australia/Hobart: {
     Generic: Waktu Australia Timur,
     Standard: Waktu Piawai Timur Australia,
     Daylight: Waktu Siang Australia Timur
@@ -2708,6 +1773,56 @@
     Generic: Waktu Lord Howe,
     Standard: Waktu Piawai Lord Howe,
     Daylight: Waktu Siang Lord Howe
+  },
+  Australia/Lindeman: {
+    Generic: Waktu Australia Timur,
+    Standard: Waktu Piawai Timur Australia,
+    Daylight: Waktu Siang Australia Timur
+  },
+  Australia/Lord_Howe: {
+    Generic: Waktu Lord Howe,
+    Standard: Waktu Piawai Lord Howe,
+    Daylight: Waktu Siang Lord Howe
+  },
+  Australia/Melbourne: {
+    Generic: Waktu Australia Timur,
+    Standard: Waktu Piawai Timur Australia,
+    Daylight: Waktu Siang Australia Timur
+  },
+  Australia/NSW: {
+    Generic: Waktu Australia Timur,
+    Standard: Waktu Piawai Timur Australia,
+    Daylight: Waktu Siang Australia Timur
+  },
+  Australia/North: {
+    Generic: Waktu Australia Tengah,
+    Standard: Waktu Piawai Australia Tengah,
+    Daylight: Waktu Siang Australia Tengah
+  },
+  Australia/Perth: {
+    Generic: Waktu Australia Barat,
+    Standard: Waktu Piawai Australia Barat,
+    Daylight: Waktu Siang Australia Barat
+  },
+  Australia/Queensland: {
+    Generic: Waktu Australia Timur,
+    Standard: Waktu Piawai Timur Australia,
+    Daylight: Waktu Siang Australia Timur
+  },
+  Australia/South: {
+    Generic: Waktu Australia Tengah,
+    Standard: Waktu Piawai Australia Tengah,
+    Daylight: Waktu Siang Australia Tengah
+  },
+  Australia/Sydney: {
+    Generic: Waktu Australia Timur,
+    Standard: Waktu Piawai Timur Australia,
+    Daylight: Waktu Siang Australia Timur
+  },
+  Australia/Tasmania: {
+    Generic: Waktu Australia Timur,
+    Standard: Waktu Piawai Timur Australia,
+    Daylight: Waktu Siang Australia Timur
   },
   Australia/Victoria: {
     Generic: Waktu Australia Timur,
@@ -2719,45 +1834,265 @@
     Standard: Waktu Piawai Australia Barat,
     Daylight: Waktu Siang Australia Barat
   },
-  Australia/ACT: {
-    Generic: Waktu Australia Timur,
-    Standard: Waktu Piawai Timur Australia,
-    Daylight: Waktu Siang Australia Timur
+  Australia/Yancowinna: {
+    Generic: Waktu Australia Tengah,
+    Standard: Waktu Piawai Australia Tengah,
+    Daylight: Waktu Siang Australia Tengah
   },
-  Australia/Canberra: {
-    Generic: Waktu Australia Timur,
-    Standard: Waktu Piawai Timur Australia,
-    Daylight: Waktu Siang Australia Timur
+  Brazil/Acre: {
+    Generic: Waktu Acre,
+    Standard: Waktu Piawai Acre,
+    Daylight: Waktu Musim Panas Acre
   },
-  Australia/NSW: {
-    Generic: Waktu Australia Timur,
-    Standard: Waktu Piawai Timur Australia,
-    Daylight: Waktu Siang Australia Timur
+  Brazil/DeNoronha: {
+    Generic: Waktu Fernando de Noronha,
+    Standard: Waktu Piawai Fernando de Noronha,
+    Daylight: Waktu Musim Panas Fernando de Noronha
   },
-  HST: {
-    Generic: Waktu Universal Selaras -10,
-    Standard: Waktu Universal Selaras -10,
-    Daylight: Waktu Universal Selaras -10
+  Brazil/East: {
+    Generic: Waktu Brasilia,
+    Standard: Waktu Piawai Brasilia,
+    Daylight: Waktu Musim Panas Brasilia
+  },
+  Brazil/West: {
+    Generic: Waktu Amazon,
+    Standard: Waktu Piawai Amazon,
+    Daylight: Waktu Musim Panas Amazon
+  },
+  CET: {
+    Generic: Waktu Eropah Tengah,
+    Standard: Waktu Piawai Eropah Tengah,
+    Daylight: Waktu Musim Panas Eropah Tengah
+  },
+  CST6CDT: {
+    Generic: Waktu Pusat,
+    Standard: Waktu Piawai Pusat,
+    Daylight: Waktu Siang Tengah
+  },
+  Canada/Atlantic: {
+    Generic: Waktu Atlantik,
+    Standard: Waktu Piawai Atlantik,
+    Daylight: Waktu Siang Atlantik
+  },
+  Canada/Central: {
+    Generic: Waktu Pusat,
+    Standard: Waktu Piawai Pusat,
+    Daylight: Waktu Siang Tengah
+  },
+  Canada/Eastern: {
+    Generic: Waktu Timur,
+    Standard: Waktu Piawai Timur,
+    Daylight: Waktu Siang Timur
+  },
+  Canada/Mountain: {
+    Generic: Waktu Pergunungan,
+    Standard: Waktu Piawai Pergunungan,
+    Daylight: Waktu Siang Pergunungan
+  },
+  Canada/Newfoundland: {
+    Generic: Waktu Newfoundland,
+    Standard: Waktu Piawai Newfoundland,
+    Daylight: Waktu Siang Newfoundland
+  },
+  Canada/Pacific: {
+    Generic: Waktu Pasifik,
+    Standard: Waktu Piawai Pasifik,
+    Daylight: Waktu Siang Pasifik
+  },
+  Canada/Saskatchewan: {
+    Generic: Waktu Pusat,
+    Standard: Waktu Piawai Pusat,
+    Daylight: Waktu Siang Tengah
+  },
+  Canada/Yukon: {
+    Generic: Masa Yukon,
+    Standard: Masa Yukon,
+    Daylight: Masa Yukon
+  },
+  Chile/Continental: {
+    Generic: Waktu Chile,
+    Standard: Waktu Piawai Chile,
+    Daylight: Waktu Musim Panas Chile
+  },
+  Chile/EasterIsland: {
+    Generic: Waktu Pulau Easter,
+    Standard: Waktu Piawai Pulau Easter,
+    Daylight: Waktu Musim Panas Pulau Easter
+  },
+  Cuba: {
+    Generic: Waktu Cuba,
+    Standard: Waktu Piawai Cuba,
+    Daylight: Waktu Siang Cuba
+  },
+  EET: {
+    Generic: Waktu Eropah Timur,
+    Standard: Waktu Piawai Eropah Timur,
+    Daylight: Waktu Musim Panas Eropah Timur
   },
   EST: {
     Generic: Waktu Universal Selaras -5,
     Standard: Waktu Universal Selaras -5,
     Daylight: Waktu Universal Selaras -5
   },
-  MST: {
-    Generic: Waktu Universal Selaras -7,
-    Standard: Waktu Universal Selaras -7,
-    Daylight: Waktu Universal Selaras -7
+  EST5EDT: {
+    Generic: Waktu Timur,
+    Standard: Waktu Piawai Timur,
+    Daylight: Waktu Siang Timur
+  },
+  Egypt: {
+    Generic: Waktu Eropah Timur,
+    Standard: Waktu Piawai Eropah Timur,
+    Daylight: Waktu Musim Panas Eropah Timur
+  },
+  Eire: {
+    Generic: Waktu Ireland,
+    Standard: Waktu Min Greenwich,
+    Daylight: Waktu Piawai Ireland
+  },
+  Etc/GMT: {
+    Generic: Waktu Min Greenwich,
+    Standard: Waktu Min Greenwich,
+    Daylight: Waktu Min Greenwich
   },
   Etc/GMT+0: {
     Generic: Waktu Min Greenwich,
     Standard: Waktu Min Greenwich,
     Daylight: Waktu Min Greenwich
   },
+  Etc/GMT+1: {
+    Generic: Waktu Universal Selaras -1,
+    Standard: Waktu Universal Selaras -1,
+    Daylight: Waktu Universal Selaras -1
+  },
+  Etc/GMT+10: {
+    Generic: Waktu Universal Selaras -10,
+    Standard: Waktu Universal Selaras -10,
+    Daylight: Waktu Universal Selaras -10
+  },
+  Etc/GMT+11: {
+    Generic: Waktu Universal Selaras -11,
+    Standard: Waktu Universal Selaras -11,
+    Daylight: Waktu Universal Selaras -11
+  },
+  Etc/GMT+12: {
+    Generic: Waktu Universal Selaras -12,
+    Standard: Waktu Universal Selaras -12,
+    Daylight: Waktu Universal Selaras -12
+  },
+  Etc/GMT+2: {
+    Generic: Waktu Universal Selaras -2,
+    Standard: Waktu Universal Selaras -2,
+    Daylight: Waktu Universal Selaras -2
+  },
+  Etc/GMT+3: {
+    Generic: Waktu Universal Selaras -3,
+    Standard: Waktu Universal Selaras -3,
+    Daylight: Waktu Universal Selaras -3
+  },
+  Etc/GMT+4: {
+    Generic: Waktu Universal Selaras -4,
+    Standard: Waktu Universal Selaras -4,
+    Daylight: Waktu Universal Selaras -4
+  },
+  Etc/GMT+5: {
+    Generic: Waktu Universal Selaras -5,
+    Standard: Waktu Universal Selaras -5,
+    Daylight: Waktu Universal Selaras -5
+  },
+  Etc/GMT+6: {
+    Generic: Waktu Universal Selaras -6,
+    Standard: Waktu Universal Selaras -6,
+    Daylight: Waktu Universal Selaras -6
+  },
+  Etc/GMT+7: {
+    Generic: Waktu Universal Selaras -7,
+    Standard: Waktu Universal Selaras -7,
+    Daylight: Waktu Universal Selaras -7
+  },
+  Etc/GMT+8: {
+    Generic: Waktu Universal Selaras -8,
+    Standard: Waktu Universal Selaras -8,
+    Daylight: Waktu Universal Selaras -8
+  },
+  Etc/GMT+9: {
+    Generic: Waktu Universal Selaras -9,
+    Standard: Waktu Universal Selaras -9,
+    Daylight: Waktu Universal Selaras -9
+  },
   Etc/GMT-0: {
     Generic: Waktu Min Greenwich,
     Standard: Waktu Min Greenwich,
     Daylight: Waktu Min Greenwich
+  },
+  Etc/GMT-1: {
+    Generic: Waktu Universal Selaras +1,
+    Standard: Waktu Universal Selaras +1,
+    Daylight: Waktu Universal Selaras +1
+  },
+  Etc/GMT-10: {
+    Generic: Waktu Universal Selaras +10,
+    Standard: Waktu Universal Selaras +10,
+    Daylight: Waktu Universal Selaras +10
+  },
+  Etc/GMT-11: {
+    Generic: Waktu Universal Selaras +11,
+    Standard: Waktu Universal Selaras +11,
+    Daylight: Waktu Universal Selaras +11
+  },
+  Etc/GMT-12: {
+    Generic: Waktu Universal Selaras +12,
+    Standard: Waktu Universal Selaras +12,
+    Daylight: Waktu Universal Selaras +12
+  },
+  Etc/GMT-13: {
+    Generic: Waktu Universal Selaras +13,
+    Standard: Waktu Universal Selaras +13,
+    Daylight: Waktu Universal Selaras +13
+  },
+  Etc/GMT-14: {
+    Generic: Waktu Universal Selaras +14,
+    Standard: Waktu Universal Selaras +14,
+    Daylight: Waktu Universal Selaras +14
+  },
+  Etc/GMT-2: {
+    Generic: Waktu Universal Selaras +2,
+    Standard: Waktu Universal Selaras +2,
+    Daylight: Waktu Universal Selaras +2
+  },
+  Etc/GMT-3: {
+    Generic: Waktu Universal Selaras +3,
+    Standard: Waktu Universal Selaras +3,
+    Daylight: Waktu Universal Selaras +3
+  },
+  Etc/GMT-4: {
+    Generic: Waktu Universal Selaras +4,
+    Standard: Waktu Universal Selaras +4,
+    Daylight: Waktu Universal Selaras +4
+  },
+  Etc/GMT-5: {
+    Generic: Waktu Universal Selaras +5,
+    Standard: Waktu Universal Selaras +5,
+    Daylight: Waktu Universal Selaras +5
+  },
+  Etc/GMT-6: {
+    Generic: Waktu Universal Selaras +6,
+    Standard: Waktu Universal Selaras +6,
+    Daylight: Waktu Universal Selaras +6
+  },
+  Etc/GMT-7: {
+    Generic: Waktu Universal Selaras +7,
+    Standard: Waktu Universal Selaras +7,
+    Daylight: Waktu Universal Selaras +7
+  },
+  Etc/GMT-8: {
+    Generic: Waktu Universal Selaras +8,
+    Standard: Waktu Universal Selaras +8,
+    Daylight: Waktu Universal Selaras +8
+  },
+  Etc/GMT-9: {
+    Generic: Waktu Universal Selaras +9,
+    Standard: Waktu Universal Selaras +9,
+    Daylight: Waktu Universal Selaras +9
   },
   Etc/GMT0: {
     Generic: Waktu Min Greenwich,
@@ -2768,6 +2103,356 @@
     Generic: Waktu Min Greenwich,
     Standard: Waktu Min Greenwich,
     Daylight: Waktu Min Greenwich
+  },
+  Etc/UCT: {
+    Generic: Waktu Universal Selaras,
+    Standard: Waktu Universal Selaras,
+    Daylight: Waktu Universal Selaras
+  },
+  Etc/UTC: {
+    Generic: Waktu Universal Selaras,
+    Standard: Waktu Universal Selaras,
+    Daylight: Waktu Universal Selaras
+  },
+  Etc/Universal: {
+    Generic: Waktu Universal Selaras,
+    Standard: Waktu Universal Selaras,
+    Daylight: Waktu Universal Selaras
+  },
+  Etc/Zulu: {
+    Generic: Waktu Universal Selaras,
+    Standard: Waktu Universal Selaras,
+    Daylight: Waktu Universal Selaras
+  },
+  Europe/Amsterdam: {
+    Generic: Waktu Eropah Tengah,
+    Standard: Waktu Piawai Eropah Tengah,
+    Daylight: Waktu Musim Panas Eropah Tengah
+  },
+  Europe/Andorra: {
+    Generic: Waktu Eropah Tengah,
+    Standard: Waktu Piawai Eropah Tengah,
+    Daylight: Waktu Musim Panas Eropah Tengah
+  },
+  Europe/Astrakhan: {
+    Generic: Waktu Astrakhan,
+    Standard: Waktu Piawai Astrakhan,
+    Daylight: Waktu Siang Astrakhan
+  },
+  Europe/Athens: {
+    Generic: Waktu Eropah Timur,
+    Standard: Waktu Piawai Eropah Timur,
+    Daylight: Waktu Musim Panas Eropah Timur
+  },
+  Europe/Belfast: {
+    Generic: Waktu United Kingdom,
+    Standard: Waktu Min Greenwich,
+    Daylight: Waktu Musim Panas British
+  },
+  Europe/Belgrade: {
+    Generic: Waktu Eropah Tengah,
+    Standard: Waktu Piawai Eropah Tengah,
+    Daylight: Waktu Musim Panas Eropah Tengah
+  },
+  Europe/Berlin: {
+    Generic: Waktu Eropah Tengah,
+    Standard: Waktu Piawai Eropah Tengah,
+    Daylight: Waktu Musim Panas Eropah Tengah
+  },
+  Europe/Bratislava: {
+    Generic: Waktu Eropah Tengah,
+    Standard: Waktu Piawai Eropah Tengah,
+    Daylight: Waktu Musim Panas Eropah Tengah
+  },
+  Europe/Brussels: {
+    Generic: Waktu Eropah Tengah,
+    Standard: Waktu Piawai Eropah Tengah,
+    Daylight: Waktu Musim Panas Eropah Tengah
+  },
+  Europe/Bucharest: {
+    Generic: Waktu Eropah Timur,
+    Standard: Waktu Piawai Eropah Timur,
+    Daylight: Waktu Musim Panas Eropah Timur
+  },
+  Europe/Budapest: {
+    Generic: Waktu Eropah Tengah,
+    Standard: Waktu Piawai Eropah Tengah,
+    Daylight: Waktu Musim Panas Eropah Tengah
+  },
+  Europe/Busingen: {
+    Generic: Waktu Eropah Tengah,
+    Standard: Waktu Piawai Eropah Tengah,
+    Daylight: Waktu Musim Panas Eropah Tengah
+  },
+  Europe/Chisinau: {
+    Generic: Waktu Eropah Timur,
+    Standard: Waktu Piawai Eropah Timur,
+    Daylight: Waktu Musim Panas Eropah Timur
+  },
+  Europe/Copenhagen: {
+    Generic: Waktu Eropah Tengah,
+    Standard: Waktu Piawai Eropah Tengah,
+    Daylight: Waktu Musim Panas Eropah Tengah
+  },
+  Europe/Dublin: {
+    Generic: Waktu Ireland,
+    Standard: Waktu Min Greenwich,
+    Daylight: Waktu Piawai Ireland
+  },
+  Europe/Gibraltar: {
+    Generic: Waktu Eropah Tengah,
+    Standard: Waktu Piawai Eropah Tengah,
+    Daylight: Waktu Musim Panas Eropah Tengah
+  },
+  Europe/Guernsey: {
+    Generic: Waktu Min Greenwich,
+    Standard: Waktu Min Greenwich,
+    Daylight: Waktu Min Greenwich
+  },
+  Europe/Helsinki: {
+    Generic: Waktu Eropah Timur,
+    Standard: Waktu Piawai Eropah Timur,
+    Daylight: Waktu Musim Panas Eropah Timur
+  },
+  Europe/Isle_of_Man: {
+    Generic: Waktu Min Greenwich,
+    Standard: Waktu Min Greenwich,
+    Daylight: Waktu Min Greenwich
+  },
+  Europe/Istanbul: {
+    Generic: Waktu Turki,
+    Standard: Waktu Piawai Turki,
+    Daylight: Waktu Siang Turki
+  },
+  Europe/Jersey: {
+    Generic: Waktu Min Greenwich,
+    Standard: Waktu Min Greenwich,
+    Daylight: Waktu Min Greenwich
+  },
+  Europe/Kaliningrad: {
+    Generic: Waktu Kaliningrad,
+    Standard: Waktu Piawai Kaliningrad,
+    Daylight: Waktu Siang Kaliningrad
+  },
+  Europe/Kiev: {
+    Generic: Waktu Eropah Timur,
+    Standard: Waktu Piawai Eropah Timur,
+    Daylight: Waktu Musim Panas Eropah Timur
+  },
+  Europe/Kirov: {
+    Generic: Waktu Kirov,
+    Standard: Waktu Piawai Kirov,
+    Daylight: Waktu Siang Kirov
+  },
+  Europe/Kyiv: {
+    Generic: Waktu Eropah Timur,
+    Standard: Waktu Piawai Eropah Timur,
+    Daylight: Waktu Musim Panas Eropah Timur
+  },
+  Europe/Lisbon: {
+    Generic: Waktu Eropah Barat,
+    Standard: Waktu Piawai Eropah Barat,
+    Daylight: Waktu Musim Panas Eropah Barat
+  },
+  Europe/Ljubljana: {
+    Generic: Waktu Eropah Tengah,
+    Standard: Waktu Piawai Eropah Tengah,
+    Daylight: Waktu Musim Panas Eropah Tengah
+  },
+  Europe/London: {
+    Generic: Waktu United Kingdom,
+    Standard: Waktu Min Greenwich,
+    Daylight: Waktu Musim Panas British
+  },
+  Europe/Luxembourg: {
+    Generic: Waktu Eropah Tengah,
+    Standard: Waktu Piawai Eropah Tengah,
+    Daylight: Waktu Musim Panas Eropah Tengah
+  },
+  Europe/Madrid: {
+    Generic: Waktu Eropah Tengah,
+    Standard: Waktu Piawai Eropah Tengah,
+    Daylight: Waktu Musim Panas Eropah Tengah
+  },
+  Europe/Malta: {
+    Generic: Waktu Eropah Tengah,
+    Standard: Waktu Piawai Eropah Tengah,
+    Daylight: Waktu Musim Panas Eropah Tengah
+  },
+  Europe/Mariehamn: {
+    Generic: Waktu Eropah Timur,
+    Standard: Waktu Piawai Eropah Timur,
+    Daylight: Waktu Musim Panas Eropah Timur
+  },
+  Europe/Minsk: {
+    Generic: Waktu Moscow,
+    Standard: Waktu Piawai Moscow,
+    Daylight: Waktu Musim Panas Moscow
+  },
+  Europe/Monaco: {
+    Generic: Waktu Eropah Tengah,
+    Standard: Waktu Piawai Eropah Tengah,
+    Daylight: Waktu Musim Panas Eropah Tengah
+  },
+  Europe/Moscow: {
+    Generic: Waktu Moscow,
+    Standard: Waktu Piawai Moscow,
+    Daylight: Waktu Siang Moscow
+  },
+  Europe/Nicosia: {
+    Generic: Waktu Eropah Timur,
+    Standard: Waktu Piawai Eropah Timur,
+    Daylight: Waktu Musim Panas Eropah Timur
+  },
+  Europe/Oslo: {
+    Generic: Waktu Eropah Tengah,
+    Standard: Waktu Piawai Eropah Tengah,
+    Daylight: Waktu Musim Panas Eropah Tengah
+  },
+  Europe/Paris: {
+    Generic: Waktu Eropah Tengah,
+    Standard: Waktu Piawai Eropah Tengah,
+    Daylight: Waktu Musim Panas Eropah Tengah
+  },
+  Europe/Podgorica: {
+    Generic: Waktu Eropah Tengah,
+    Standard: Waktu Piawai Eropah Tengah,
+    Daylight: Waktu Musim Panas Eropah Tengah
+  },
+  Europe/Prague: {
+    Generic: Waktu Eropah Tengah,
+    Standard: Waktu Piawai Eropah Tengah,
+    Daylight: Waktu Musim Panas Eropah Tengah
+  },
+  Europe/Riga: {
+    Generic: Waktu Eropah Timur,
+    Standard: Waktu Piawai Eropah Timur,
+    Daylight: Waktu Musim Panas Eropah Timur
+  },
+  Europe/Rome: {
+    Generic: Waktu Eropah Tengah,
+    Standard: Waktu Piawai Eropah Tengah,
+    Daylight: Waktu Musim Panas Eropah Tengah
+  },
+  Europe/Samara: {
+    Generic: Waktu Samara,
+    Standard: Waktu Piawai Samara,
+    Daylight: Waktu Siang Samara
+  },
+  Europe/San_Marino: {
+    Generic: Waktu Eropah Tengah,
+    Standard: Waktu Piawai Eropah Tengah,
+    Daylight: Waktu Musim Panas Eropah Tengah
+  },
+  Europe/Sarajevo: {
+    Generic: Waktu Eropah Tengah,
+    Standard: Waktu Piawai Eropah Tengah,
+    Daylight: Waktu Musim Panas Eropah Tengah
+  },
+  Europe/Saratov: {
+    Generic: Waktu Saratov,
+    Standard: Waktu Piawai Saratov,
+    Daylight: Waktu Siang Saratov
+  },
+  Europe/Simferopol: {
+    Generic: Waktu Moscow,
+    Standard: Waktu Piawai Moscow,
+    Daylight: Waktu Musim Panas Moscow
+  },
+  Europe/Skopje: {
+    Generic: Waktu Eropah Tengah,
+    Standard: Waktu Piawai Eropah Tengah,
+    Daylight: Waktu Musim Panas Eropah Tengah
+  },
+  Europe/Sofia: {
+    Generic: Waktu Eropah Timur,
+    Standard: Waktu Piawai Eropah Timur,
+    Daylight: Waktu Musim Panas Eropah Timur
+  },
+  Europe/Stockholm: {
+    Generic: Waktu Eropah Tengah,
+    Standard: Waktu Piawai Eropah Tengah,
+    Daylight: Waktu Musim Panas Eropah Tengah
+  },
+  Europe/Tallinn: {
+    Generic: Waktu Eropah Timur,
+    Standard: Waktu Piawai Eropah Timur,
+    Daylight: Waktu Musim Panas Eropah Timur
+  },
+  Europe/Tirane: {
+    Generic: Waktu Eropah Tengah,
+    Standard: Waktu Piawai Eropah Tengah,
+    Daylight: Waktu Musim Panas Eropah Tengah
+  },
+  Europe/Tiraspol: {
+    Generic: Waktu Eropah Timur,
+    Standard: Waktu Piawai Eropah Timur,
+    Daylight: Waktu Musim Panas Eropah Timur
+  },
+  Europe/Ulyanovsk: {
+    Generic: Waktu Ulyanovsk,
+    Standard: Waktu Piawai Ulyanovsk,
+    Daylight: Waktu Siang Ulyanovsk
+  },
+  Europe/Uzhgorod: {
+    Generic: Waktu Eropah Timur,
+    Standard: Waktu Piawai Eropah Timur,
+    Daylight: Waktu Musim Panas Eropah Timur
+  },
+  Europe/Vaduz: {
+    Generic: Waktu Eropah Tengah,
+    Standard: Waktu Piawai Eropah Tengah,
+    Daylight: Waktu Musim Panas Eropah Tengah
+  },
+  Europe/Vatican: {
+    Generic: Waktu Eropah Tengah,
+    Standard: Waktu Piawai Eropah Tengah,
+    Daylight: Waktu Musim Panas Eropah Tengah
+  },
+  Europe/Vienna: {
+    Generic: Waktu Eropah Tengah,
+    Standard: Waktu Piawai Eropah Tengah,
+    Daylight: Waktu Musim Panas Eropah Tengah
+  },
+  Europe/Vilnius: {
+    Generic: Waktu Eropah Timur,
+    Standard: Waktu Piawai Eropah Timur,
+    Daylight: Waktu Musim Panas Eropah Timur
+  },
+  Europe/Volgograd: {
+    Generic: Waktu Volgograd,
+    Standard: Waktu Piawai Volgograd,
+    Daylight: Waktu Siang Volgograd
+  },
+  Europe/Warsaw: {
+    Generic: Waktu Eropah Tengah,
+    Standard: Waktu Piawai Eropah Tengah,
+    Daylight: Waktu Musim Panas Eropah Tengah
+  },
+  Europe/Zagreb: {
+    Generic: Waktu Eropah Tengah,
+    Standard: Waktu Piawai Eropah Tengah,
+    Daylight: Waktu Musim Panas Eropah Tengah
+  },
+  Europe/Zaporozhye: {
+    Generic: Waktu Eropah Timur,
+    Standard: Waktu Piawai Eropah Timur,
+    Daylight: Waktu Musim Panas Eropah Timur
+  },
+  Europe/Zurich: {
+    Generic: Waktu Eropah Tengah,
+    Standard: Waktu Piawai Eropah Tengah,
+    Daylight: Waktu Musim Panas Eropah Tengah
+  },
+  GB: {
+    Generic: Waktu United Kingdom,
+    Standard: Waktu Min Greenwich,
+    Daylight: Waktu Musim Panas British
+  },
+  GB-Eire: {
+    Generic: Waktu United Kingdom,
+    Standard: Waktu Min Greenwich,
+    Daylight: Waktu Musim Panas British
   },
   GMT: {
     Generic: Waktu Min Greenwich,
@@ -2794,120 +2479,135 @@
     Standard: Waktu Min Greenwich,
     Daylight: Waktu Min Greenwich
   },
-  Etc/UCT: {
-    Generic: Waktu Universal Selaras,
-    Standard: Waktu Universal Selaras,
-    Daylight: Waktu Universal Selaras
+  HST: {
+    Generic: Waktu Universal Selaras -10,
+    Standard: Waktu Universal Selaras -10,
+    Daylight: Waktu Universal Selaras -10
   },
-  Etc/Universal: {
-    Generic: Waktu Universal Selaras,
-    Standard: Waktu Universal Selaras,
-    Daylight: Waktu Universal Selaras
+  Hongkong: {
+    Generic: Waktu Hong Kong,
+    Standard: Waktu Piawai Hong Kong,
+    Daylight: Waktu Musim Panas Hong Kong
   },
-  Etc/Zulu: {
-    Generic: Waktu Universal Selaras,
-    Standard: Waktu Universal Selaras,
-    Daylight: Waktu Universal Selaras
+  Iceland: {
+    Generic: Waktu Min Greenwich,
+    Standard: Waktu Min Greenwich,
+    Daylight: Waktu Min Greenwich
   },
-  UCT: {
-    Generic: Waktu Universal Selaras,
-    Standard: Waktu Universal Selaras,
-    Daylight: Waktu Universal Selaras
+  Indian/Antananarivo: {
+    Generic: Waktu Afrika Timur,
+    Standard: Waktu Afrika Timur,
+    Daylight: Waktu Afrika Timur
   },
-  UTC: {
-    Generic: Waktu Universal Selaras,
-    Standard: Waktu Universal Selaras,
-    Daylight: Waktu Universal Selaras
+  Indian/Chagos: {
+    Generic: Waktu Lautan Hindi,
+    Standard: Waktu Lautan Hindi,
+    Daylight: Waktu Lautan Hindi
   },
-  Universal: {
-    Generic: Waktu Universal Selaras,
-    Standard: Waktu Universal Selaras,
-    Daylight: Waktu Universal Selaras
+  Indian/Christmas: {
+    Generic: Waktu Pulau Christmas,
+    Standard: Waktu Pulau Christmas,
+    Daylight: Waktu Pulau Christmas
   },
-  Zulu: {
-    Generic: Waktu Universal Selaras,
-    Standard: Waktu Universal Selaras,
-    Daylight: Waktu Universal Selaras
+  Indian/Cocos: {
+    Generic: Waktu Kepulauan Cocos,
+    Standard: Waktu Kepulauan Cocos,
+    Daylight: Waktu Kepulauan Cocos
   },
-  Atlantic/Jan_Mayen: {
-    Generic: Waktu Eropah Tengah,
-    Standard: Waktu Piawai Eropah Tengah,
-    Daylight: Waktu Musim Panas Eropah Tengah
+  Indian/Comoro: {
+    Generic: Waktu Afrika Timur,
+    Standard: Waktu Afrika Timur,
+    Daylight: Waktu Afrika Timur
+  },
+  Indian/Kerguelen: {
+    Generic: Waktu Perancis Selatan dan Antartika,
+    Standard: Waktu Perancis Selatan dan Antartika,
+    Daylight: Waktu Perancis Selatan dan Antartika
+  },
+  Indian/Mahe: {
+    Generic: Waktu Seychelles,
+    Standard: Waktu Seychelles,
+    Daylight: Waktu Seychelles
+  },
+  Indian/Maldives: {
+    Generic: Waktu Maldives,
+    Standard: Waktu Maldives,
+    Daylight: Waktu Maldives
+  },
+  Indian/Mauritius: {
+    Generic: Waktu Mauritius,
+    Standard: Waktu Piawai Mauritius,
+    Daylight: Waktu Musim Panas Mauritius
+  },
+  Indian/Mayotte: {
+    Generic: Waktu Afrika Timur,
+    Standard: Waktu Afrika Timur,
+    Daylight: Waktu Afrika Timur
+  },
+  Indian/Reunion: {
+    Generic: Waktu Reunion,
+    Standard: Waktu Reunion,
+    Daylight: Waktu Reunion
+  },
+  Iran: {
+    Generic: Waktu Iran,
+    Standard: Waktu Piawai Iran,
+    Daylight: Waktu Siang Iran
+  },
+  Israel: {
+    Generic: Waktu Israel,
+    Standard: Waktu Piawai Israel,
+    Daylight: Waktu Siang Israel
+  },
+  Jamaica: {
+    Generic: Waktu Timur,
+    Standard: Waktu Piawai Timur,
+    Daylight: Waktu Siang Timur
+  },
+  Japan: {
+    Generic: Waktu Jepun,
+    Standard: Waktu Piawai Jepun,
+    Daylight: Waktu Siang Jepun
+  },
+  Kwajalein: {
+    Generic: Waktu Kepulauan Marshall,
+    Standard: Waktu Kepulauan Marshall,
+    Daylight: Waktu Kepulauan Marshall
+  },
+  Libya: {
+    Generic: Waktu Eropah Timur,
+    Standard: Waktu Piawai Eropah Timur,
+    Daylight: Waktu Musim Panas Eropah Timur
   },
   MET: {
     Generic: Waktu Eropah Tengah,
     Standard: Waktu Piawai Eropah Tengah,
     Daylight: Waktu Musim Panas Eropah Tengah
   },
-  EET: {
-    Generic: Waktu Eropah Timur,
-    Standard: Waktu Piawai Eropah Timur,
-    Daylight: Waktu Musim Panas Eropah Timur
+  MST: {
+    Generic: Waktu Universal Selaras -7,
+    Standard: Waktu Universal Selaras -7,
+    Daylight: Waktu Universal Selaras -7
   },
-  Europe/Tiraspol: {
-    Generic: Waktu Eropah Timur,
-    Standard: Waktu Piawai Eropah Timur,
-    Daylight: Waktu Musim Panas Eropah Timur
+  MST7MDT: {
+    Generic: Waktu Pergunungan,
+    Standard: Waktu Piawai Pergunungan,
+    Daylight: Waktu Siang Pergunungan
   },
-  Eire: {
-    Generic: Waktu Ireland,
-    Standard: Waktu Min Greenwich,
-    Daylight: Waktu Piawai Ireland
+  Mexico/BajaNorte: {
+    Generic: Waktu Pasifik,
+    Standard: Waktu Piawai Pasifik,
+    Daylight: Waktu Siang Pasifik
   },
-  Asia/Istanbul: {
-    Generic: Waktu Turki,
-    Standard: Waktu Piawai Turki,
-    Daylight: Waktu Siang Turki
+  Mexico/BajaSur: {
+    Generic: Waktu Pasifik Mexico,
+    Standard: Waktu Piawai Pasifik Mexico,
+    Daylight: Waktu Siang Pasifik Mexico
   },
-  Turkey: {
-    Generic: Waktu Turki,
-    Standard: Waktu Piawai Turki,
-    Daylight: Waktu Siang Turki
-  },
-  Europe/Kyiv: {
-    Generic: Waktu Eropah Timur,
-    Standard: Waktu Piawai Eropah Timur,
-    Daylight: Waktu Musim Panas Eropah Timur
-  },
-  Portugal: {
-    Generic: Waktu Eropah Barat,
-    Standard: Waktu Piawai Eropah Barat,
-    Daylight: Waktu Musim Panas Eropah Barat
-  },
-  Europe/Belfast: {
-    Generic: Waktu United Kingdom,
-    Standard: Waktu Min Greenwich,
-    Daylight: Waktu Musim Panas British
-  },
-  GB: {
-    Generic: Waktu United Kingdom,
-    Standard: Waktu Min Greenwich,
-    Daylight: Waktu Musim Panas British
-  },
-  GB-Eire: {
-    Generic: Waktu United Kingdom,
-    Standard: Waktu Min Greenwich,
-    Daylight: Waktu Musim Panas British
-  },
-  W-SU: {
-    Generic: Waktu Moscow,
-    Standard: Waktu Piawai Moscow,
-    Daylight: Waktu Siang Moscow
-  },
-  CET: {
-    Generic: Waktu Eropah Tengah,
-    Standard: Waktu Piawai Eropah Tengah,
-    Daylight: Waktu Musim Panas Eropah Tengah
-  },
-  Poland: {
-    Generic: Waktu Eropah Tengah,
-    Standard: Waktu Piawai Eropah Tengah,
-    Daylight: Waktu Musim Panas Eropah Tengah
-  },
-  Antarctica/South_Pole: {
-    Generic: Waktu New Zealand,
-    Standard: Waktu Piawai New Zealand,
-    Daylight: Waktu Siang New Zealand
+  Mexico/General: {
+    Generic: Waktu Pusat,
+    Standard: Waktu Piawai Pusat,
+    Daylight: Waktu Siang Tengah
   },
   NZ: {
     Generic: Waktu New Zealand,
@@ -2919,17 +2619,102 @@
     Standard: Waktu Piawai Chatham,
     Daylight: Waktu Siang Chatham
   },
-  Chile/EasterIsland: {
+  Navajo: {
+    Generic: Waktu Pergunungan,
+    Standard: Waktu Piawai Pergunungan,
+    Daylight: Waktu Siang Pergunungan
+  },
+  PRC: {
+    Generic: Waktu China,
+    Standard: Waktu Piawai China,
+    Daylight: Waktu Siang China
+  },
+  PST8PDT: {
+    Generic: Waktu Pasifik,
+    Standard: Waktu Piawai Pasifik,
+    Daylight: Waktu Siang Pasifik
+  },
+  Pacific/Apia: {
+    Generic: Waktu Apia,
+    Standard: Waktu Piawai Apia,
+    Daylight: Waktu Siang Apia
+  },
+  Pacific/Auckland: {
+    Generic: Waktu New Zealand,
+    Standard: Waktu Piawai New Zealand,
+    Daylight: Waktu Siang New Zealand
+  },
+  Pacific/Bougainville: {
+    Generic: Waktu Papua New Guinea,
+    Standard: Waktu Papua New Guinea,
+    Daylight: Waktu Papua New Guinea
+  },
+  Pacific/Chatham: {
+    Generic: Waktu Chatham,
+    Standard: Waktu Piawai Chatham,
+    Daylight: Waktu Siang Chatham
+  },
+  Pacific/Chuuk: {
+    Generic: Waktu Chuuk,
+    Standard: Waktu Chuuk,
+    Daylight: Waktu Chuuk
+  },
+  Pacific/Easter: {
     Generic: Waktu Pulau Easter,
     Standard: Waktu Piawai Pulau Easter,
     Daylight: Waktu Musim Panas Pulau Easter
   },
-  Pacific/Pohnpei: {
-    Generic: Waktu Ponape,
-    Standard: Waktu Ponape,
-    Daylight: Waktu Ponape
+  Pacific/Efate: {
+    Generic: Waktu Vanuatu,
+    Standard: Waktu Piawai Vanuatu,
+    Daylight: Waktu Musim Panas Vanuatu
   },
-  US/Hawaii: {
+  Pacific/Enderbury: {
+    Generic: Waktu Kepulauan Phoenix,
+    Standard: Waktu Kepulauan Phoenix,
+    Daylight: Waktu Kepulauan Phoenix
+  },
+  Pacific/Fakaofo: {
+    Generic: Waktu Tokelau,
+    Standard: Waktu Tokelau,
+    Daylight: Waktu Tokelau
+  },
+  Pacific/Fiji: {
+    Generic: Waktu Fiji,
+    Standard: Waktu Piawai Fiji,
+    Daylight: Waktu Musim Panas Fiji
+  },
+  Pacific/Funafuti: {
+    Generic: Waktu Tuvalu,
+    Standard: Waktu Tuvalu,
+    Daylight: Waktu Tuvalu
+  },
+  Pacific/Galapagos: {
+    Generic: Waktu Galapagos,
+    Standard: Waktu Galapagos,
+    Daylight: Waktu Galapagos
+  },
+  Pacific/Gambier: {
+    Generic: Waktu Gambier,
+    Standard: Waktu Gambier,
+    Daylight: Waktu Gambier
+  },
+  Pacific/Guadalcanal: {
+    Generic: Waktu Kepulauan Solomon,
+    Standard: Waktu Kepulauan Solomon,
+    Daylight: Waktu Kepulauan Solomon
+  },
+  Pacific/Guam: {
+    Generic: Waktu Piawai Chamorro,
+    Standard: Waktu Piawai Chamorro,
+    Daylight: Waktu Piawai Chamorro
+  },
+  Pacific/Honolulu: {
+    Generic: Waktu Hawaii-Aleutian,
+    Standard: Waktu Piawai Hawaii-Aleutian,
+    Daylight: Waktu Siang Hawaii-Aleutian
+  },
+  Pacific/Johnston: {
     Generic: Waktu Hawaii-Aleutian,
     Standard: Waktu Piawai Hawaii-Aleutian,
     Daylight: Waktu Siang Hawaii-Aleutian
@@ -2939,39 +2724,254 @@
     Standard: Waktu Kepulauan Phoenix,
     Daylight: Waktu Kepulauan Phoenix
   },
-  Kwajalein: {
+  Pacific/Kiritimati: {
+    Generic: Waktu Kepulauan Line,
+    Standard: Waktu Kepulauan Line,
+    Daylight: Waktu Kepulauan Line
+  },
+  Pacific/Kosrae: {
+    Generic: Waktu Kosrae,
+    Standard: Waktu Kosrae,
+    Daylight: Waktu Kosrae
+  },
+  Pacific/Kwajalein: {
     Generic: Waktu Kepulauan Marshall,
     Standard: Waktu Kepulauan Marshall,
     Daylight: Waktu Kepulauan Marshall
+  },
+  Pacific/Majuro: {
+    Generic: Waktu Kepulauan Marshall,
+    Standard: Waktu Kepulauan Marshall,
+    Daylight: Waktu Kepulauan Marshall
+  },
+  Pacific/Marquesas: {
+    Generic: Waktu Marquesas,
+    Standard: Waktu Marquesas,
+    Daylight: Waktu Marquesas
+  },
+  Pacific/Midway: {
+    Generic: Waktu Samoa,
+    Standard: Waktu Piawai Samoa,
+    Daylight: Waktu Musim Panas Samoa
+  },
+  Pacific/Nauru: {
+    Generic: Waktu Nauru,
+    Standard: Waktu Nauru,
+    Daylight: Waktu Nauru
+  },
+  Pacific/Niue: {
+    Generic: Waktu Niue,
+    Standard: Waktu Niue,
+    Daylight: Waktu Niue
+  },
+  Pacific/Norfolk: {
+    Generic: Waktu Kepulauan Norfolk,
+    Standard: Waktu Piawai Kepulauan Norfolk,
+    Daylight: Waktu Siang Kepulauan Norfolk
+  },
+  Pacific/Noumea: {
+    Generic: Waktu New Caledonia,
+    Standard: Waktu Piawai New Caledonia,
+    Daylight: Waktu Musim Panas New Caledonia
+  },
+  Pacific/Pago_Pago: {
+    Generic: Waktu Samoa,
+    Standard: Waktu Piawai Samoa,
+    Daylight: Waktu Musim Panas Samoa
+  },
+  Pacific/Palau: {
+    Generic: Waktu Palau,
+    Standard: Waktu Palau,
+    Daylight: Waktu Palau
+  },
+  Pacific/Pitcairn: {
+    Generic: Waktu Pitcairn,
+    Standard: Waktu Pitcairn,
+    Daylight: Waktu Pitcairn
+  },
+  Pacific/Pohnpei: {
+    Generic: Waktu Ponape,
+    Standard: Waktu Ponape,
+    Daylight: Waktu Ponape
+  },
+  Pacific/Ponape: {
+    Generic: Waktu Ponape,
+    Standard: Waktu Ponape,
+    Daylight: Waktu Ponape
+  },
+  Pacific/Port_Moresby: {
+    Generic: Waktu Papua New Guinea,
+    Standard: Waktu Papua New Guinea,
+    Daylight: Waktu Papua New Guinea
+  },
+  Pacific/Rarotonga: {
+    Generic: Waktu Kepulauan Cook,
+    Standard: Waktu Piawai Kepulauan Cook,
+    Daylight: Waktu Musim Panas Separuh Kepulauan Cook
+  },
+  Pacific/Saipan: {
+    Generic: Waktu Piawai Chamorro,
+    Standard: Waktu Piawai Chamorro,
+    Daylight: Waktu Piawai Chamorro
   },
   Pacific/Samoa: {
     Generic: Waktu Samoa,
     Standard: Waktu Piawai Samoa,
     Daylight: Waktu Musim Panas Samoa
   },
-  US/Samoa: {
-    Generic: Waktu Samoa,
-    Standard: Waktu Piawai Samoa,
-    Daylight: Waktu Musim Panas Samoa
+  Pacific/Tahiti: {
+    Generic: Waktu Tahiti,
+    Standard: Waktu Tahiti,
+    Daylight: Waktu Tahiti
   },
-  Pacific/Chuuk: {
+  Pacific/Tarawa: {
+    Generic: Waktu Kepulauan Gilbert,
+    Standard: Waktu Kepulauan Gilbert,
+    Daylight: Waktu Kepulauan Gilbert
+  },
+  Pacific/Tongatapu: {
+    Generic: Waktu Tonga,
+    Standard: Waktu Piawai Tonga,
+    Daylight: Waktu Musim Panas Tonga
+  },
+  Pacific/Truk: {
     Generic: Waktu Chuuk,
     Standard: Waktu Chuuk,
     Daylight: Waktu Chuuk
+  },
+  Pacific/Wake: {
+    Generic: Waktu Pulau Wake,
+    Standard: Waktu Pulau Wake,
+    Daylight: Waktu Pulau Wake
+  },
+  Pacific/Wallis: {
+    Generic: Waktu Wallis dan Futuna,
+    Standard: Waktu Wallis dan Futuna,
+    Daylight: Waktu Wallis dan Futuna
   },
   Pacific/Yap: {
     Generic: Waktu Chuuk,
     Standard: Waktu Chuuk,
     Daylight: Waktu Chuuk
   },
-  America/Fort_Wayne: {
+  Poland: {
+    Generic: Waktu Eropah Tengah,
+    Standard: Waktu Piawai Eropah Tengah,
+    Daylight: Waktu Musim Panas Eropah Tengah
+  },
+  Portugal: {
+    Generic: Waktu Eropah Barat,
+    Standard: Waktu Piawai Eropah Barat,
+    Daylight: Waktu Musim Panas Eropah Barat
+  },
+  ROC: {
+    Generic: Waktu Taipei,
+    Standard: Waktu Piawai Taipei,
+    Daylight: Waktu Siang Taipei
+  },
+  ROK: {
+    Generic: Waktu Korea,
+    Standard: Waktu Piawai Korea,
+    Daylight: Waktu Siang Korea
+  },
+  Singapore: {
+    Generic: Waktu Piawai Singapura,
+    Standard: Waktu Piawai Singapura,
+    Daylight: Waktu Piawai Singapura
+  },
+  Turkey: {
+    Generic: Waktu Turki,
+    Standard: Waktu Piawai Turki,
+    Daylight: Waktu Siang Turki
+  },
+  UCT: {
+    Generic: Waktu Universal Selaras,
+    Standard: Waktu Universal Selaras,
+    Daylight: Waktu Universal Selaras
+  },
+  US/Alaska: {
+    Generic: Waktu Alaska,
+    Standard: Waktu Piawai Alaska,
+    Daylight: Waktu Siang Alaska
+  },
+  US/Aleutian: {
+    Generic: Waktu Hawaii-Aleutian,
+    Standard: Waktu Piawai Hawaii-Aleutian,
+    Daylight: Waktu Siang Hawaii-Aleutian
+  },
+  US/Arizona: {
+    Generic: Waktu Pergunungan,
+    Standard: Waktu Piawai Pergunungan,
+    Daylight: Waktu Siang Pergunungan
+  },
+  US/Central: {
+    Generic: Waktu Pusat,
+    Standard: Waktu Piawai Pusat,
+    Daylight: Waktu Siang Tengah
+  },
+  US/East-Indiana: {
     Generic: Waktu Timur,
     Standard: Waktu Piawai Timur,
     Daylight: Waktu Siang Timur
   },
-  Antarctica/Troll: {
-    Generic: Waktu Min Greenwich,
-    Standard: Waktu Min Greenwich,
-    Daylight: Waktu Min Greenwich
+  US/Eastern: {
+    Generic: Waktu Timur,
+    Standard: Waktu Piawai Timur,
+    Daylight: Waktu Siang Timur
+  },
+  US/Hawaii: {
+    Generic: Waktu Hawaii-Aleutian,
+    Standard: Waktu Piawai Hawaii-Aleutian,
+    Daylight: Waktu Siang Hawaii-Aleutian
+  },
+  US/Indiana-Starke: {
+    Generic: Waktu Pusat,
+    Standard: Waktu Piawai Pusat,
+    Daylight: Waktu Siang Tengah
+  },
+  US/Michigan: {
+    Generic: Waktu Timur,
+    Standard: Waktu Piawai Timur,
+    Daylight: Waktu Siang Timur
+  },
+  US/Mountain: {
+    Generic: Waktu Pergunungan,
+    Standard: Waktu Piawai Pergunungan,
+    Daylight: Waktu Siang Pergunungan
+  },
+  US/Pacific: {
+    Generic: Waktu Pasifik,
+    Standard: Waktu Piawai Pasifik,
+    Daylight: Waktu Siang Pasifik
+  },
+  US/Samoa: {
+    Generic: Waktu Samoa,
+    Standard: Waktu Piawai Samoa,
+    Daylight: Waktu Musim Panas Samoa
+  },
+  UTC: {
+    Generic: Waktu Universal Selaras,
+    Standard: Waktu Universal Selaras,
+    Daylight: Waktu Universal Selaras
+  },
+  Universal: {
+    Generic: Waktu Universal Selaras,
+    Standard: Waktu Universal Selaras,
+    Daylight: Waktu Universal Selaras
+  },
+  W-SU: {
+    Generic: Waktu Moscow,
+    Standard: Waktu Piawai Moscow,
+    Daylight: Waktu Siang Moscow
+  },
+  WET: {
+    Generic: Waktu Eropah Barat,
+    Standard: Waktu Piawai Eropah Barat,
+    Daylight: Waktu Musim Panas Eropah Barat
+  },
+  Zulu: {
+    Generic: Waktu Universal Selaras,
+    Standard: Waktu Universal Selaras,
+    Daylight: Waktu Universal Selaras
   }
 }
