@@ -32,13 +32,13 @@ internal class OrderedDictionary<TKey, TValue> : IDictionary<TKey, TValue>
     public void CopyTo(KeyValuePair<TKey, TValue>[] array, int arrayIndex)
     {
         var i = 0;
-        foreach (DictionaryEntry entry in _dictionary)
+        foreach (var entry in _dictionary.Cast<DictionaryEntry>())
         {
             if (i >= arrayIndex && i < array.Length)
             {
                 array[i] = new KeyValuePair<TKey, TValue>((TKey) entry.Key, (TValue) entry.Value!);
             }
-
+        
             i++;
         }
     }

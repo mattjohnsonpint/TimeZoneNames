@@ -2,7 +2,7 @@
 
 namespace TimeZoneNames.DataBuilder;
 
-class Program
+static class Program
 {
     static void Main()
     {

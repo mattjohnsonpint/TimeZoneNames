@@ -345,8 +345,7 @@ public class DataExtractor
     private void LoadLanguages()
     {
         var languages = Directory.GetFiles(Path.Combine(_cldrPath, "common", "main"))
-            .Select(s => Path.GetFileName(s)!)
-            .Select(x => x.Substring(0, x.Length - 4));
+            .Select(s => Path.GetFileName(s)[..^4]);
 
         Parallel.ForEach(languages, LoadLanguage);
     }
@@ -534,7 +533,7 @@ public class DataExtractor
             list.Insert(i, jordan);
             
             var timeZones = list
-                .ToOrderedDictionary(o => o.Key, o => (string) o.Value);
+                .ToOrderedDictionary(o => o.Key, o => o.Value);
 
             _data.DisplayNames.Add(locale, timeZones);
         }

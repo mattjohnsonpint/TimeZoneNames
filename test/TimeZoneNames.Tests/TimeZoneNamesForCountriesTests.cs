@@ -16,7 +16,7 @@ public class TimeZoneNamesForCountriesTests
     {
         var zones = TZNames.GetTimeZonesForCountry("BR", "en-US");
 
-        foreach ((var zoneName, var zoneDisplayName) in zones)
+        foreach (var (zoneName, zoneDisplayName) in zones)
         {
             _output.WriteLine($"{zoneName} => {zoneDisplayName}");
         }
@@ -46,7 +46,7 @@ public class TimeZoneNamesForCountriesTests
     {
         var zones = TZNames.GetTimeZonesForCountry("BR", "pt-BR");
 
-        foreach ((var zoneName, var zoneDisplayName) in zones)
+        foreach (var (zoneName, zoneDisplayName) in zones)
         {
             _output.WriteLine($"{zoneName} => {zoneDisplayName}");
         }
@@ -76,7 +76,7 @@ public class TimeZoneNamesForCountriesTests
     {
         var zones = TZNames.GetTimeZonesForCountry("PG", "en-US");
 
-        foreach ((var zoneName, var zoneDisplayName) in zones)
+        foreach (var (zoneName, zoneDisplayName) in zones)
         {
             _output.WriteLine($"{zoneName} => {zoneDisplayName}");
         }
