@@ -56,9 +56,9 @@ internal class TimeZoneData
 
 internal class CldrLanguageData
 {
-    public TimeZoneValues Formats { get; set; }
+    public TimeZoneValues? Formats { get; set; }
 
-    public string FallbackFormat { get; set; }
+    public string? FallbackFormat { get; set; }
 
     public Dictionary<string, TimeZoneValues> ShortNames { get; set; } = new(StringComparer.OrdinalIgnoreCase);
 
@@ -81,7 +81,7 @@ internal class CldrLanguageData
 
 internal class TimeZoneSelectionData
 {
-    public string Id { get; set; }
+    public string Id { get; set; } = null!;
 
     public DateTime ThresholdUtc { get; set; }
 }

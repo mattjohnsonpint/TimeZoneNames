@@ -1,22 +1,24 @@
 using System.Collections;
 using System.Collections.Specialized;
+using System.Diagnostics.CodeAnalysis;
 
 namespace TimeZoneNames;
 
 internal class OrderedDictionary<TKey, TValue> : IDictionary<TKey, TValue>
+    where TKey : notnull
 {
     // TODO: Find a better implementation.
     // We might only need an IReadOnlyDictionary<TKey, TValue> but we want to preserve insertion order.
     private readonly OrderedDictionary _dictionary;
 
-    public OrderedDictionary(int capacity = 0, IEqualityComparer<TKey> equalityComparer = default)
+    public OrderedDictionary(int capacity = 0, IEqualityComparer<TKey>? equalityComparer = default)
     {
-        _dictionary = new OrderedDictionary(capacity, (IEqualityComparer) equalityComparer);
+        _dictionary = new OrderedDictionary(capacity, (IEqualityComparer?) equalityComparer);
     }
 
     public IEnumerator<KeyValuePair<TKey, TValue>> GetEnumerator() => _dictionary
         .Cast<DictionaryEntry>()
-        .Select(x => new KeyValuePair<TKey, TValue>((TKey) x.Key, (TValue) x.Value))
+        .Select(x => new KeyValuePair<TKey, TValue>((TKey) x.Key, (TValue) x.Value!))
         .GetEnumerator();
 
     IEnumerator IEnumerable.GetEnumerator() => GetEnumerator();
@@ -34,9 +36,9 @@ internal class OrderedDictionary<TKey, TValue> : IDictionary<TKey, TValue>
         {
             if (i >= arrayIndex && i < array.Length)
             {
-                array[i] = new KeyValuePair<TKey, TValue>((TKey) entry.Key, (TValue) entry.Value);
+                array[i] = new KeyValuePair<TKey, TValue>((TKey) entry.Key, (TValue) entry.Value!);
             }
-            
+
             i++;
         }
     }
@@ -62,7 +64,9 @@ internal class OrderedDictionary<TKey, TValue> : IDictionary<TKey, TValue>
         return found;
     }
 
-    public bool TryGetValue(TKey key, out TValue value)
+#pragma warning disable CS8767
+    public bool TryGetValue(TKey key, [MaybeNullWhen(false)] out TValue value)
+#pragma warning restore CS8767
     {
         var obj = _dictionary[key];
         if (obj == null)
@@ -70,14 +74,14 @@ internal class OrderedDictionary<TKey, TValue> : IDictionary<TKey, TValue>
             value = default;
             return false;
         }
-        
+
         value = (TValue) obj;
         return true;
     }
 
     public TValue this[TKey key]
     {
-        get => (TValue) _dictionary[key];
+        get => _dictionary[key] is { } value ? (TValue) value : throw new KeyNotFoundException();
         set => _dictionary[key] = value;
     }
 
@@ -90,13 +94,15 @@ internal static class OrderedDictionaryExtensions
 {
     public static OrderedDictionary<TKey, TValue> ToOrderedDictionary<TKey, TValue>(
         this ICollection<KeyValuePair<TKey, TValue>> items,
-        IEqualityComparer<TKey> comparer = default)
+        IEqualityComparer<TKey>? comparer = default)
+        where TKey : notnull
     {
         var result = new OrderedDictionary<TKey, TValue>(items.Count, comparer);
         foreach (var item in items)
         {
             result.Add(item);
         }
+
         return result;
     }
 
@@ -104,7 +110,8 @@ internal static class OrderedDictionaryExtensions
         this ICollection<TSource> items,
         Func<TSource, TKey> keySelector,
         Func<TSource, TValue> valueSelector,
-        IEqualityComparer<TKey> comparer = default)
+        IEqualityComparer<TKey>? comparer = default)
+        where TKey : notnull
     {
         var result = new OrderedDictionary<TKey, TValue>(items.Count, comparer);
         foreach (var item in items)
@@ -113,18 +120,21 @@ internal static class OrderedDictionaryExtensions
             var value = valueSelector(item);
             result.Add(key, value);
         }
+
         return result;
     }
-    
+
     public static OrderedDictionary<TKey, TValue> ToOrderedDictionary<TKey, TValue>(
         this IEnumerable<KeyValuePair<TKey, TValue>> items,
-        IEqualityComparer<TKey> comparer = default) =>
-        items.ToList().ToOrderedDictionary(comparer);
+        IEqualityComparer<TKey>? comparer = default)
+        where TKey : notnull
+        => items.ToList().ToOrderedDictionary(comparer);
 
     public static OrderedDictionary<TKey, TValue> ToOrderedDictionary<TSource, TKey, TValue>(
         this IEnumerable<TSource> items,
         Func<TSource, TKey> keySelector,
         Func<TSource, TValue> valueSelector,
-        IEqualityComparer<TKey> comparer = default) =>
-        items.ToList().ToOrderedDictionary(keySelector, valueSelector, comparer);
+        IEqualityComparer<TKey>? comparer = default)
+        where TKey : notnull
+        => items.ToList().ToOrderedDictionary(keySelector, valueSelector, comparer);
 }

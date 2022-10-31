@@ -39,8 +39,8 @@ public class DataExtractor
         JsonSerializer.Serialize(compressedStream, _data);
     }
 
-    private TzdbDateTimeZoneSource _tzdbSource;
-    private IDateTimeZoneProvider _tzdbProvider;
+    private TzdbDateTimeZoneSource _tzdbSource = null!;
+    private IDateTimeZoneProvider _tzdbProvider = null!;
 
     private void LoadData()
     {
@@ -154,7 +154,7 @@ public class DataExtractor
         var precedence = File.ReadAllLines(Path.Combine("data", "zone-precedence.txt"));
 
         var splitPoints = GetAllZoneSplitPoints();
-        IList<string> last = null;
+        IList<string>? last = null;
         var useConsole = TryHideConsoleCursor();
         for (var i = splitPoints.Count - 1; i >= 0; i--)
         {
@@ -227,7 +227,7 @@ public class DataExtractor
                 Location = _tzdbSource.ZoneLocations!.FirstOrDefault(l => l.ZoneId == x)
             })
             .Where(x => x.Location != null)
-            .GroupBy(x => new { x.Location.CountryCode, Hash = GetIntervalsHash(x.Intervals) })
+            .GroupBy(x => new { x.Location?.CountryCode, Hash = GetIntervalsHash(x.Intervals) })
             .Select(g =>
             {
                 var ids = g.Select(z => z.Id).ToArray();
@@ -345,7 +345,7 @@ public class DataExtractor
     private void LoadLanguages()
     {
         var languages = Directory.GetFiles(Path.Combine(_cldrPath, "common", "main"))
-            .Select(Path.GetFileName)
+            .Select(s => Path.GetFileName(s)!)
             .Select(x => x.Substring(0, x.Length - 4));
 
         Parallel.ForEach(languages, LoadLanguage);
@@ -521,9 +521,9 @@ public class DataExtractor
 
         foreach (var item in languages.AsArray())
         {
-            var locale = item["Locale"]!.GetValue<string>().Replace("-", "_");
+            var locale = item!["Locale"]!.GetValue<string>().Replace("-", "_");
             var list = item["TimeZones"]!.AsObject()
-                .Select(o => new KeyValuePair<string, string>(o.Key, (string) o.Value))
+                .Select(o => new KeyValuePair<string, string>(o.Key, (string) o.Value!))
                 .ToList();
             
             // Base offset change for Jordan, reflected in Windows, not yet in tzinfo.json
