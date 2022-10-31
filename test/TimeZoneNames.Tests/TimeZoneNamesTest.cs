@@ -333,6 +333,17 @@ public class TimeZoneNamesTest
         Assert.Equal(namesForZone.Daylight, namesForAlias.Daylight);
     }
 
+    [Fact]
+    public void Can_Get_English_Names_For_Alias_Ukraine()
+    {
+        var namesForZone = TZNames.GetNamesForTimeZone("Europe/Kyiv", "en-US");
+        var namesForAlias = TZNames.GetNamesForTimeZone("Europe/Kiev", "en-US");
+
+        Assert.Equal(namesForZone.Generic, namesForAlias.Generic);
+        Assert.Equal(namesForZone.Standard, namesForAlias.Standard);
+        Assert.Equal(namesForZone.Daylight, namesForAlias.Daylight);
+    }
+
     [Theory]
     [MemberData(nameof(TestData.GetLanguages), MemberType = typeof(TestData))]
     public Task CanGetNamesForTimeZone(string language)
