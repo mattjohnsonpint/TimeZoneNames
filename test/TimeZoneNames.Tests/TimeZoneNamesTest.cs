@@ -338,15 +338,15 @@ public class TimeZoneNamesTest
     public Task CanGetNamesForTimeZone(string language)
     {
         var results = TZConvert.KnownIanaTimeZoneNames
-            .ToDictionary(
+            .OrderBy(zone => zone, StringComparer.Ordinal)
+            .ToOrderedDictionary(
                 zone => zone,
-                zone => TZNames.GetNamesForTimeZone(zone, language),
-                StringComparer.InvariantCulture);
+                zone => TZNames.GetNamesForTimeZone(zone, language));
 
         return Verifier
             .Verify(results)
+            .DontSortDictionaries()
             .UseDirectory(Path.Combine("Verify", nameof(TimeZoneNamesTest), nameof(CanGetNamesForTimeZone)))
-            .UseParameters(language)
-            .DontSortDictionaries();
+            .UseParameters(language);
     }
 }

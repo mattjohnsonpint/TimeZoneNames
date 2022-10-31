@@ -103,10 +103,10 @@ internal static class OrderedDictionaryExtensions
         return result;
     }
 
-    public static OrderedDictionary<TKey, TValue> ToOrderedDictionary<TSourceKey, TSourceValue, TKey, TValue>(
-        this ICollection<KeyValuePair<TSourceKey, TSourceValue>> items,
-        Func<KeyValuePair<TSourceKey, TSourceValue>, TKey> keySelector,
-        Func<KeyValuePair<TSourceKey, TSourceValue>, TValue> valueSelector,
+    public static OrderedDictionary<TKey, TValue> ToOrderedDictionary<TSource, TKey, TValue>(
+        this ICollection<TSource> items,
+        Func<TSource, TKey> keySelector,
+        Func<TSource, TValue> valueSelector,
         IEqualityComparer<TKey> comparer = default)
     {
         var result = new OrderedDictionary<TKey, TValue>(items.Count, comparer);
@@ -124,10 +124,10 @@ internal static class OrderedDictionaryExtensions
         IEqualityComparer<TKey> comparer = default) =>
         items.ToList().ToOrderedDictionary(comparer);
 
-    public static OrderedDictionary<TKey, TValue> ToOrderedDictionary<TSourceKey, TSourceValue, TKey, TValue>(
-        this IEnumerable<KeyValuePair<TSourceKey, TSourceValue>> items,
-        Func<KeyValuePair<TSourceKey, TSourceValue>, TKey> keySelector,
-        Func<KeyValuePair<TSourceKey, TSourceValue>, TValue> valueSelector,
+    public static OrderedDictionary<TKey, TValue> ToOrderedDictionary<TSource, TKey, TValue>(
+        this IEnumerable<TSource> items,
+        Func<TSource, TKey> keySelector,
+        Func<TSource, TValue> valueSelector,
         IEqualityComparer<TKey> comparer = default) =>
         items.ToList().ToOrderedDictionary(keySelector, valueSelector, comparer);
 }
