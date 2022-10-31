@@ -1,5 +1,6 @@
 ﻿using System;
 using System.IO;
+using System.Reflection;
 
 namespace TimeZoneNames.DataBuilder;
 
@@ -16,7 +17,18 @@ class Program
         var outputFilePath = Path.Combine("data", dataFileName);
         extractor.SaveData(outputFilePath);
 
-        var destPath = Path.Combine("..", "..", "..", "..", "TimeZoneNames", dataFileName);
+        var destPath = Path.Combine(GetSolutionDir(), "src", "TimeZoneNames", dataFileName);
         File.Copy(outputFilePath, destPath, true);
+    }
+
+    private static string GetSolutionDir()
+    {
+        var solutionDir = Assembly.GetExecutingAssembly().Location;
+        while (!File.Exists(Path.Combine(solutionDir, "TimeZoneNames.sln")))
+        {
+            solutionDir = Path.GetFullPath(Path.Combine(solutionDir, ".."));
+        }
+
+        return solutionDir;
     }
 }
