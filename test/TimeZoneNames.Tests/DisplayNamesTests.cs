@@ -154,6 +154,9 @@ public class DisplayNamesTests
         var displayNames = TZNames.GetDisplayNames(language);
         return Verifier
             .Verify(displayNames)
+#if DEBUG
+            .AutoVerify()
+#endif
             .UseDirectory(Path.Combine("Verify", nameof(DisplayNamesTests), nameof(CanGetDisplayNames_WindowsZones)))
             .UseParameters(language)
             .DontSortDictionaries();
@@ -166,6 +169,9 @@ public class DisplayNamesTests
         var displayNames = TZNames.GetDisplayNames(language, useIanaZoneIds: true);
         return Verifier
             .Verify(displayNames)
+#if DEBUG
+            .AutoVerify()
+#endif
             .UseDirectory(Path.Combine("Verify", nameof(DisplayNamesTests), nameof(CanGetDisplayNames_IanaZones)))
             .UseParameters(language)
             .DontSortDictionaries();

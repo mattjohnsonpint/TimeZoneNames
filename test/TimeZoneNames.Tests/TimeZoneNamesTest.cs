@@ -356,6 +356,9 @@ public class TimeZoneNamesTest
 
         return Verifier
             .Verify(results)
+#if DEBUG
+            .AutoVerify()
+#endif
             .DontSortDictionaries()
             .UseDirectory(Path.Combine("Verify", nameof(TimeZoneNamesTest), nameof(CanGetNamesForTimeZone)))
             .UseParameters(language);

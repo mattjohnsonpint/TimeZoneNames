@@ -14,6 +14,9 @@ public class FixedTimeZonesTests
         var ids = TZNames.GetFixedTimeZoneIds();
         return Verifier
             .Verify(ids)
+#if DEBUG
+            .AutoVerify()
+#endif
             .UseDirectory(Path.Combine("Verify", nameof(FixedTimeZonesTests)));
     }
     
@@ -23,6 +26,9 @@ public class FixedTimeZonesTests
         var abbreviations = TZNames.GetFixedTimeZoneAbbreviations();
         return Verifier
             .Verify(abbreviations)
+#if DEBUG
+            .AutoVerify()
+#endif
             .UseDirectory(Path.Combine("Verify", nameof(FixedTimeZonesTests)))
             .DontSortDictionaries();
     }
@@ -34,6 +40,9 @@ public class FixedTimeZonesTests
         var names = TZNames.GetFixedTimeZoneNames(language);
         return Verifier
             .Verify(names)
+#if DEBUG
+            .AutoVerify()
+#endif
             .UseDirectory(Path.Combine("Verify", nameof(FixedTimeZonesTests), nameof(CanGetFixedTimeZoneNames)))
             .DontSortDictionaries()
             .UseParameters(language);
