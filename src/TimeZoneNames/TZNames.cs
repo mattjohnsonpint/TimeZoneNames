@@ -420,9 +420,15 @@ public static class TZNames
 
     private static TimeZoneValues GetNames(string timeZoneId, string languageKey, bool abbreviations)
     {
-        if (TZConvert.KnownWindowsTimeZoneIds.Contains(timeZoneId, StringComparer.OrdinalIgnoreCase))
+        try
         {
-            timeZoneId = TZConvert.WindowsToIana(timeZoneId);
+            if (TZConvert.KnownWindowsTimeZoneIds.Contains(timeZoneId, StringComparer.OrdinalIgnoreCase))
+            {
+                timeZoneId = TZConvert.WindowsToIana(timeZoneId);
+            }
+        }
+        catch
+        {
         }
 
         timeZoneId = GetCldrCanonicalId(timeZoneId);
