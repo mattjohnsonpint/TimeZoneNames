@@ -427,7 +427,7 @@ public static class TZNames
                 timeZoneId = TZConvert.WindowsToIana(timeZoneId);
             }
         }
-        catch
+        catch(TimeZoneNotFoundException)
         {
         }
 
