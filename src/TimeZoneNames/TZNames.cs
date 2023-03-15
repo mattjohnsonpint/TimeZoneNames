@@ -196,6 +196,11 @@ public static class TZNames
             throw new ArgumentException("Invalid Language Code", nameof(languageCode));
         }
 
+        if (TZConvert.TryWindowsToIana(timeZoneId, out var ianaId))
+        {
+            timeZoneId = ianaId;
+        }
+
         return GetNames(timeZoneId, langKey, false);
     }
 
@@ -211,6 +216,11 @@ public static class TZNames
         if (langKey == null)
         {
             throw new ArgumentException("Invalid Language Code", nameof(languageCode));
+        }
+        
+        if (TZConvert.TryWindowsToIana(timeZoneId, out var ianaId))
+        {
+            timeZoneId = ianaId;
         }
 
         return GetNames(timeZoneId, langKey, true);
@@ -420,11 +430,6 @@ public static class TZNames
 
     private static TimeZoneValues GetNames(string timeZoneId, string languageKey, bool abbreviations)
     {
-        if (TZConvert.KnownWindowsTimeZoneIds.Contains(timeZoneId, StringComparer.OrdinalIgnoreCase))
-        {
-            timeZoneId = TZConvert.WindowsToIana(timeZoneId);
-        }
-
         timeZoneId = GetCldrCanonicalId(timeZoneId);
         if (timeZoneId == null)
         {
