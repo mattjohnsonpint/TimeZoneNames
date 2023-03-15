@@ -470,9 +470,14 @@
     Daylight: Central-sommertid
   },
   America/Chihuahua: {
-    Generic: Mexicansk Pacific-tid,
-    Standard: Mexicansk Pacific-normaltid,
-    Daylight: Mexicansk Pacific-sommertid
+    Generic: Central-tid,
+    Standard: Central-normaltid,
+    Daylight: Central-sommertid
+  },
+  America/Ciudad_Juarez: {
+    Generic: Mountain-tid,
+    Standard: Mountain-normaltid,
+    Daylight: Mountain-sommertid
   },
   America/Coral_Harbour: {
     Generic: Eastern-tid,
@@ -880,9 +885,9 @@
     Daylight: Vestgrønlandsk sommertid
   },
   America/Ojinaga: {
-    Generic: Mountain-tid,
-    Standard: Mountain-normaltid,
-    Daylight: Mountain-sommertid
+    Generic: Central-tid,
+    Standard: Central-normaltid,
+    Daylight: Central-sommertid
   },
   America/Panama: {
     Generic: Eastern-tid,

@@ -470,9 +470,14 @@
     Daylight: Temp da stad central
   },
   America/Chihuahua: {
-    Generic: temp: Mexico,
-    Standard: temp normal: Mexico,
-    Daylight: temp da stad: Mexico
+    Generic: Temp central,
+    Standard: Temp da standard central,
+    Daylight: Temp da stad central
+  },
+  America/Ciudad_Juarez: {
+    Generic: Temp da muntogna,
+    Standard: Temp da standard da muntogna,
+    Daylight: Temp da stad da muntogna
   },
   America/Coral_Harbour: {
     Generic: Temp oriental,
@@ -880,9 +885,9 @@
     Daylight: temp da stad: Grönlanda
   },
   America/Ojinaga: {
-    Generic: Temp da muntogna,
-    Standard: Temp da standard da muntogna,
-    Daylight: Temp da stad da muntogna
+    Generic: Temp central,
+    Standard: Temp da standard central,
+    Daylight: Temp da stad central
   },
   America/Panama: {
     Generic: Temp oriental,

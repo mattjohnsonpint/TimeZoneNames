@@ -470,9 +470,14 @@
     Daylight: Central-simmertiid
   },
   America/Chihuahua: {
-    Generic: Mexico-tiid,
-    Standard: Standaardtiid Mexico,
-    Daylight: Zomertiid Mexico
+    Generic: Central-tiid,
+    Standard: Central-standerttiid,
+    Daylight: Central-simmertiid
+  },
+  America/Ciudad_Juarez: {
+    Generic: Mountain-tiid,
+    Standard: Mountain-standerttiid,
+    Daylight: Mountain-simmertiid
   },
   America/Coral_Harbour: {
     Generic: Eastern-tiid,
@@ -880,9 +885,9 @@
     Daylight: West-Groenlânske simmertiid
   },
   America/Ojinaga: {
-    Generic: Mountain-tiid,
-    Standard: Mountain-standerttiid,
-    Daylight: Mountain-simmertiid
+    Generic: Central-tiid,
+    Standard: Central-standerttiid,
+    Daylight: Central-simmertiid
   },
   America/Panama: {
     Generic: Eastern-tiid,

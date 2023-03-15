@@ -470,9 +470,14 @@
     Daylight: Central-zomertijd
   },
   America/Chihuahua: {
-    Generic: Mexicaanse Pacific-tijd,
-    Standard: Mexicaanse Pacific-standaardtijd,
-    Daylight: Mexicaanse Pacific-zomertijd
+    Generic: Central-tijd,
+    Standard: Central-standaardtijd,
+    Daylight: Central-zomertijd
+  },
+  America/Ciudad_Juarez: {
+    Generic: Mountain-tijd,
+    Standard: Mountain-standaardtijd,
+    Daylight: Mountain-zomertijd
   },
   America/Coral_Harbour: {
     Generic: Eastern-tijd,
@@ -880,9 +885,9 @@
     Daylight: West-Groenlandse zomertijd
   },
   America/Ojinaga: {
-    Generic: Mountain-tijd,
-    Standard: Mountain-standaardtijd,
-    Daylight: Mountain-zomertijd
+    Generic: Central-tijd,
+    Standard: Central-standaardtijd,
+    Daylight: Central-zomertijd
   },
   America/Panama: {
     Generic: Eastern-tijd,
