@@ -470,9 +470,14 @@
     Daylight: hora estive central
   },
   America/Chihuahua: {
-    Generic: hora del Pacifico mexican,
-    Standard: hora normal del Pacifico mexican,
-    Daylight: hora estive del Pacifico mexican
+    Generic: hora central,
+    Standard: hora normal central,
+    Daylight: hora estive central
+  },
+  America/Ciudad_Juarez: {
+    Generic: hora del montanias,
+    Standard: hora normal del montanias,
+    Daylight: hora estive del montanias
   },
   America/Coral_Harbour: {
     Generic: hora del est,
@@ -880,9 +885,9 @@
     Daylight: hora estive de Groenlandia occidental
   },
   America/Ojinaga: {
-    Generic: hora del montanias,
-    Standard: hora normal del montanias,
-    Daylight: hora estive del montanias
+    Generic: hora central,
+    Standard: hora normal central,
+    Daylight: hora estive central
   },
   America/Panama: {
     Generic: hora del est,

@@ -470,9 +470,14 @@
     Daylight: centralnordamerikansk sommartid
   },
   America/Chihuahua: {
-    Generic: mexikansk stillahavstid,
-    Standard: mexikansk stillahavstid, normaltid,
-    Daylight: mexikansk stillahavstid, sommartid
+    Generic: centralnordamerikansk tid,
+    Standard: centralnordamerikansk normaltid,
+    Daylight: centralnordamerikansk sommartid
+  },
+  America/Ciudad_Juarez: {
+    Generic: Klippiga bergentid,
+    Standard: Klippiga bergen, normaltid,
+    Daylight: Klippiga bergen, sommartid
   },
   America/Coral_Harbour: {
     Generic: östnordamerikansk tid,
@@ -880,9 +885,9 @@
     Daylight: västgrönländsk sommartid
   },
   America/Ojinaga: {
-    Generic: Klippiga bergentid,
-    Standard: Klippiga bergen, normaltid,
-    Daylight: Klippiga bergen, sommartid
+    Generic: centralnordamerikansk tid,
+    Standard: centralnordamerikansk normaltid,
+    Daylight: centralnordamerikansk sommartid
   },
   America/Panama: {
     Generic: östnordamerikansk tid,

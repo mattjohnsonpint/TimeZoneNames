@@ -470,9 +470,14 @@
     Daylight: North America Central Daylight Time
   },
   America/Chihuahua: {
-    Generic: मेक्सिकन प्रशांत समय,
-    Standard: मेक्सिकन प्रशांत मानक समय,
-    Daylight: मेक्सिकन प्रशांत डेलाइट समय
+    Generic: North America Central Time,
+    Standard: North America Central Standard Time,
+    Daylight: North America Central Daylight Time
+  },
+  America/Ciudad_Juarez: {
+    Generic: North America Mountain Time,
+    Standard: North America Mountain Standard Time,
+    Daylight: North America Mountain Daylight Time
   },
   America/Coral_Harbour: {
     Generic: North America Eastern Time,
@@ -880,9 +885,9 @@
     Daylight: पश्चिमी ग्रीनलैंड ग्रीष्मकालीन समय
   },
   America/Ojinaga: {
-    Generic: North America Mountain Time,
-    Standard: North America Mountain Standard Time,
-    Daylight: North America Mountain Daylight Time
+    Generic: North America Central Time,
+    Standard: North America Central Standard Time,
+    Daylight: North America Central Daylight Time
   },
   America/Panama: {
     Generic: North America Eastern Time,

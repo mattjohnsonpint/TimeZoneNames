@@ -1,5 +1,4 @@
-﻿using NodaTime;
-using TimeZoneConverter;
+﻿using TimeZoneConverter;
 using Xunit.Abstractions;
 
 namespace TimeZoneNames.Tests;
@@ -285,7 +284,7 @@ public class TimeZoneNamesTest
     public void Can_Get_English_Names_For_All_IANA_Timezones()
     {
         var errors = new List<string>();
-        foreach (var tzid in DateTimeZoneProviders.Tzdb.Ids.OrderBy(x => x))
+        foreach (var tzid in TZConvert.KnownIanaTimeZoneNames.OrderBy(x => x))
         {
             try
             {
