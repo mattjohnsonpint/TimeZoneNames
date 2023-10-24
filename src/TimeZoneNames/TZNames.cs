@@ -375,7 +375,7 @@ public static class TZNames
             {
                 var keys = forDisplayNames ? (IEnumerable<string>) Data.DisplayNames.Keys : Data.CldrLanguageData.Keys;
                 key = keys.FirstOrDefault(x =>
-                    x.Split('_')[0].Equals(languageCode.Split('_')[0], StringComparison.OrdinalIgnoreCase));
+                    x.Split('_')[0].Equals(languageCode.Split('-')[0], StringComparison.OrdinalIgnoreCase));
 
                 if (key == null)
                 {
