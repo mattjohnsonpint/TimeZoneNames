@@ -61,7 +61,7 @@ public static class Downloader
                 continue;
             }
 
-            var subPath = entry.Key;
+            var subPath = entry.Key!;
             if (Path.DirectorySeparatorChar != '/')
             {
                 subPath = subPath.Replace('/', Path.DirectorySeparatorChar);
