@@ -101,7 +101,7 @@ public class DisplayNamesTests
         var errors = new List<string>();
         foreach (var id in TZConvert.KnownWindowsTimeZoneIds)
         {
-            var displayName = TZNames.GetDisplayNameForTimeZone(id, "en");
+            var displayName = TZNames.GetDisplayNameForTimeZone(id, "en-AU");
             if (string.IsNullOrEmpty(displayName))
             {
                 errors.Add(id);
