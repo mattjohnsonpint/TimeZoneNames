@@ -625,6 +625,11 @@ public static class TZNames
             return GetNames(timeZoneId, "en", abbreviations);
         }
 
+        // last chance to make a generic name if it's missing
+        if (values.Generic == null) {
+            values.Generic = values.Standard;
+        }
+
         return values;
     }
 
