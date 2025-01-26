@@ -580,9 +580,9 @@
     Daylight: sommertid for den nordamerikanske atlanterhavskysten
   },
   America/Godthab: {
-    Generic: vestgrønlandsk tid,
-    Standard: vestgrønlandsk normaltid,
-    Daylight: vestgrønlandsk sommertid
+    Generic: tidssone for Grønland,
+    Standard: normaltid – Grønland,
+    Daylight: sommertid – Grønland
   },
   America/Goose_Bay: {
     Generic: tidssone for den nordamerikanske atlanterhavskysten,
@@ -880,9 +880,9 @@
     Daylight: sommertid for det sentrale Nord-Amerika
   },
   America/Nuuk: {
-    Generic: vestgrønlandsk tid,
-    Standard: vestgrønlandsk normaltid,
-    Daylight: vestgrønlandsk sommertid
+    Generic: tidssone for Grønland,
+    Standard: normaltid – Grønland,
+    Daylight: sommertid – Grønland
   },
   America/Ojinaga: {
     Generic: tidssone for det sentrale Nord-Amerika,
@@ -975,9 +975,9 @@
     Daylight: argentinsk sommertid
   },
   America/Santa_Isabel: {
-    Generic: tidssone for nordvestlige Mexico,
-    Standard: normaltid for nordvestlige Mexico,
-    Daylight: sommertid for nordvestlige Mexico
+    Generic: tidssone for den nordamerikanske Stillehavskysten,
+    Standard: normaltid for den nordamerikanske Stillehavskysten,
+    Daylight: sommertid for den nordamerikanske Stillehavskysten
   },
   America/Santarem: {
     Generic: tidssone for Brasilia,
@@ -1000,9 +1000,9 @@
     Daylight: sommertid for Brasilia
   },
   America/Scoresbysund: {
-    Generic: østgrønlandsk tid,
-    Standard: østgrønlandsk normaltid,
-    Daylight: østgrønlandsk sommertid
+    Generic: tidssone for Grønland,
+    Standard: normaltid – Grønland,
+    Daylight: sommertid – Grønland
   },
   America/Shiprock: {
     Generic: tidssone for Rocky Mountains (USA),
@@ -1110,9 +1110,9 @@
     Daylight: sommertid for Rocky Mountains (USA)
   },
   Antarctica/Casey: {
-    Generic: Casey-tid,
-    Standard: Casey-tid,
-    Daylight: Casey-tid
+    Generic: vestaustralsk tid,
+    Standard: vestaustralsk normaltid,
+    Daylight: vestaustralsk sommertid
   },
   Antarctica/Davis: {
     Generic: tidssone for Davis,
@@ -1180,9 +1180,9 @@
     Daylight: arabisk sommertid
   },
   Asia/Almaty: {
-    Generic: østkasakhstansk tid,
-    Standard: østkasakhstansk tid,
-    Daylight: østkasakhstansk tid
+    Generic: kasakhstansk tid,
+    Standard: kasakhstansk tid,
+    Daylight: kasakhstansk tid
   },
   Asia/Amman: {
     Generic: østeuropeisk tid,
@@ -1195,14 +1195,14 @@
     Daylight: sommertid – Anadyr
   },
   Asia/Aqtau: {
-    Generic: vestkasakhstansk tid,
-    Standard: vestkasakhstansk tid,
-    Daylight: vestkasakhstansk tid
+    Generic: kasakhstansk tid,
+    Standard: kasakhstansk tid,
+    Daylight: kasakhstansk tid
   },
   Asia/Aqtobe: {
-    Generic: vestkasakhstansk tid,
-    Standard: vestkasakhstansk tid,
-    Daylight: vestkasakhstansk tid
+    Generic: kasakhstansk tid,
+    Standard: kasakhstansk tid,
+    Daylight: kasakhstansk tid
   },
   Asia/Ashgabat: {
     Generic: turkmensk tid,
@@ -1215,9 +1215,9 @@
     Daylight: turkmensk sommertid
   },
   Asia/Atyrau: {
-    Generic: vestkasakhstansk tid,
-    Standard: vestkasakhstansk tid,
-    Daylight: vestkasakhstansk tid
+    Generic: kasakhstansk tid,
+    Standard: kasakhstansk tid,
+    Daylight: kasakhstansk tid
   },
   Asia/Baghdad: {
     Generic: arabisk tid,
@@ -1490,9 +1490,9 @@
     Daylight: sommertid – Omsk
   },
   Asia/Oral: {
-    Generic: vestkasakhstansk tid,
-    Standard: vestkasakhstansk tid,
-    Daylight: vestkasakhstansk tid
+    Generic: kasakhstansk tid,
+    Standard: kasakhstansk tid,
+    Daylight: kasakhstansk tid
   },
   Asia/Phnom_Penh: {
     Generic: indokinesisk tid,
@@ -1515,14 +1515,14 @@
     Daylight: arabisk sommertid
   },
   Asia/Qostanay: {
-    Generic: østkasakhstansk tid,
-    Standard: østkasakhstansk tid,
-    Daylight: østkasakhstansk tid
+    Generic: kasakhstansk tid,
+    Standard: kasakhstansk tid,
+    Daylight: kasakhstansk tid
   },
   Asia/Qyzylorda: {
-    Generic: vestkasakhstansk tid,
-    Standard: vestkasakhstansk tid,
-    Daylight: vestkasakhstansk tid
+    Generic: kasakhstansk tid,
+    Standard: kasakhstansk tid,
+    Daylight: kasakhstansk tid
   },
   Asia/Rangoon: {
     Generic: myanmarsk tid,
@@ -1935,9 +1935,9 @@
     Daylight: østeuropeisk sommertid
   },
   EST: {
-    Generic: koordinert universaltid -5,
-    Standard: koordinert universaltid -5,
-    Daylight: koordinert universaltid -5
+    Generic: tidssone for den nordamerikanske østkysten,
+    Standard: normaltid for den nordamerikanske østkysten,
+    Daylight: sommertid for den nordamerikanske østkysten
   },
   EST5EDT: {
     Generic: tidssone for den nordamerikanske østkysten,
@@ -2485,9 +2485,9 @@
     Daylight: Greenwich middeltid
   },
   HST: {
-    Generic: koordinert universaltid -10,
-    Standard: koordinert universaltid -10,
-    Daylight: koordinert universaltid -10
+    Generic: tidssone for Hawaii og Aleutene,
+    Standard: normaltid for Hawaii og Aleutene,
+    Daylight: sommertid for Hawaii og Aleutene
   },
   Hongkong: {
     Generic: tidssone for Hongkong,
@@ -2590,9 +2590,9 @@
     Daylight: sentraleuropeisk sommertid
   },
   MST: {
-    Generic: koordinert universaltid -7,
-    Standard: koordinert universaltid -7,
-    Daylight: koordinert universaltid -7
+    Generic: tidssone for Rocky Mountains (USA),
+    Standard: normaltid for Rocky Mountains (USA),
+    Daylight: sommertid for Rocky Mountains (USA)
   },
   MST7MDT: {
     Generic: tidssone for Rocky Mountains (USA),

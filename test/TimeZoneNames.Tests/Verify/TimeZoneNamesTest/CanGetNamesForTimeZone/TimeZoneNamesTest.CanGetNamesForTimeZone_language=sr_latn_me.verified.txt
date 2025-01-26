@@ -580,9 +580,9 @@
     Daylight: Atlantsko letnje vreme
   },
   America/Godthab: {
-    Generic: Zapadni Grenland,
-    Standard: Zapadni Grenland, standardno vreme,
-    Daylight: Zapadni Grenland, letnje vreme
+    Generic: Grenland, standardno vreme,
+    Standard: Grenland, standardno vreme,
+    Daylight: Grenland, letnje vreme
   },
   America/Goose_Bay: {
     Generic: Atlantsko vreme,
@@ -880,9 +880,9 @@
     Daylight: Severnoameričko centralno letnje vreme
   },
   America/Nuuk: {
-    Generic: Zapadni Grenland,
-    Standard: Zapadni Grenland, standardno vreme,
-    Daylight: Zapadni Grenland, letnje vreme
+    Generic: Grenland, standardno vreme,
+    Standard: Grenland, standardno vreme,
+    Daylight: Grenland, letnje vreme
   },
   America/Ojinaga: {
     Generic: Severnoameričko centralno vreme,
@@ -975,9 +975,9 @@
     Daylight: Argentina, letnje vreme
   },
   America/Santa_Isabel: {
-    Generic: Severozapadni Meksiko,
-    Standard: Severozapadni Meksiko, standardno vreme,
-    Daylight: Severozapadni Meksiko, letnje vreme
+    Generic: Severnoameričko pacifičko vreme,
+    Standard: Severnoameričko pacifičko standardno vreme,
+    Daylight: Severnoameričko pacifičko letnje vreme
   },
   America/Santarem: {
     Generic: Brazilija vreme,
@@ -1000,9 +1000,9 @@
     Daylight: Brazilija, letnje vreme
   },
   America/Scoresbysund: {
-    Generic: Istočni Grenland,
-    Standard: Istočni Grenland, standardno vreme,
-    Daylight: Istočni Grenland, letnje vreme
+    Generic: Grenland, standardno vreme,
+    Standard: Grenland, standardno vreme,
+    Daylight: Grenland, letnje vreme
   },
   America/Shiprock: {
     Generic: Severnoameričko planinsko vreme,
@@ -1110,9 +1110,9 @@
     Daylight: Severnoameričko planinsko letnje vreme
   },
   Antarctica/Casey: {
-    Generic: Antarktik,
-    Standard: Antarktik, standardno vreme,
-    Daylight: Antarktik, letnje vreme
+    Generic: Australijsko zapadno vreme,
+    Standard: Australijsko zapadno standardno vreme,
+    Daylight: Australijsko zapadno letnje vreme
   },
   Antarctica/Davis: {
     Generic: Dejvis vreme,
@@ -1180,9 +1180,9 @@
     Daylight: Arabijsko letnje vreme
   },
   Asia/Almaty: {
-    Generic: Istočno-kazahstansko vreme,
-    Standard: Istočno-kazahstansko vreme,
-    Daylight: Istočno-kazahstansko vreme
+    Generic: Kazahstansko vreme,
+    Standard: Kazahstansko vreme,
+    Daylight: Kazahstansko vreme
   },
   Asia/Amman: {
     Generic: Istočnoevropsko vreme,
@@ -1190,19 +1190,19 @@
     Daylight: Istočnoevropsko letnje vreme
   },
   Asia/Anadyr: {
-    Generic: Anadir,
+    Generic: Anadir, standardno vreme,
     Standard: Anadir, standardno vreme,
     Daylight: Anadir, letnje vreme
   },
   Asia/Aqtau: {
-    Generic: Zapadno-kazahstansko vreme,
-    Standard: Zapadno-kazahstansko vreme,
-    Daylight: Zapadno-kazahstansko vreme
+    Generic: Kazahstansko vreme,
+    Standard: Kazahstansko vreme,
+    Daylight: Kazahstansko vreme
   },
   Asia/Aqtobe: {
-    Generic: Zapadno-kazahstansko vreme,
-    Standard: Zapadno-kazahstansko vreme,
-    Daylight: Zapadno-kazahstansko vreme
+    Generic: Kazahstansko vreme,
+    Standard: Kazahstansko vreme,
+    Daylight: Kazahstansko vreme
   },
   Asia/Ashgabat: {
     Generic: Turkmenistan vreme,
@@ -1215,9 +1215,9 @@
     Daylight: Turkmenistan, letnje vreme
   },
   Asia/Atyrau: {
-    Generic: Zapadno-kazahstansko vreme,
-    Standard: Zapadno-kazahstansko vreme,
-    Daylight: Zapadno-kazahstansko vreme
+    Generic: Kazahstansko vreme,
+    Standard: Kazahstansko vreme,
+    Daylight: Kazahstansko vreme
   },
   Asia/Baghdad: {
     Generic: Arabijsko vreme,
@@ -1240,7 +1240,7 @@
     Daylight: Indokina vreme
   },
   Asia/Barnaul: {
-    Generic: Barnaul,
+    Generic: Barnaul, standardno vreme,
     Standard: Barnaul, standardno vreme,
     Daylight: Barnaul, letnje vreme
   },
@@ -1265,7 +1265,7 @@
     Daylight: Indijsko standardno vreme
   },
   Asia/Chita: {
-    Generic: Čita,
+    Generic: Čita, standardno vreme,
     Standard: Čita, standardno vreme,
     Daylight: Čita, letnje vreme
   },
@@ -1355,12 +1355,12 @@
     Daylight: Hovd, letnje vreme
   },
   Asia/Irkutsk: {
-    Generic: Irkuck,
+    Generic: Irkuck, standardno vreme,
     Standard: Irkuck, standardno vreme,
     Daylight: Irkuck, letnje vreme
   },
   Asia/Istanbul: {
-    Generic: Turska,
+    Generic: Turska, standardno vreme,
     Standard: Turska, standardno vreme,
     Daylight: Turska, letnje vreme
   },
@@ -1385,7 +1385,7 @@
     Daylight: Avganistan vreme
   },
   Asia/Kamchatka: {
-    Generic: Kamčatka,
+    Generic: Kamčatka, standardno vreme,
     Standard: Kamčatka, standardno vreme,
     Daylight: Kamčatka, letnje vreme
   },
@@ -1395,7 +1395,7 @@
     Daylight: Pakistan, letnje vreme
   },
   Asia/Kashgar: {
-    Generic: Kina,
+    Generic: Kina, standardno vreme,
     Standard: Kina, standardno vreme,
     Daylight: Kina, letnje vreme
   },
@@ -1410,7 +1410,7 @@
     Daylight: Nepal vreme
   },
   Asia/Khandyga: {
-    Generic: Handiga,
+    Generic: Handiga, standardno vreme,
     Standard: Handiga, standardno vreme,
     Daylight: Handiga, letnje vreme
   },
@@ -1420,7 +1420,7 @@
     Daylight: Indijsko standardno vreme
   },
   Asia/Krasnoyarsk: {
-    Generic: Krasnojarsk,
+    Generic: Krasnojarsk, standardno vreme,
     Standard: Krasnojarsk, standardno vreme,
     Daylight: Krasnojarsk, letnje vreme
   },
@@ -1450,7 +1450,7 @@
     Daylight: Kina, letnje vreme
   },
   Asia/Magadan: {
-    Generic: Magadan,
+    Generic: Magadan, standardno vreme,
     Standard: Magadan, standardno vreme,
     Daylight: Magadan, letnje vreme
   },
@@ -1475,24 +1475,24 @@
     Daylight: Istočnoevropsko letnje vreme
   },
   Asia/Novokuznetsk: {
-    Generic: Novokuznjeck,
+    Generic: Novokuznjeck, standardno vreme,
     Standard: Novokuznjeck, standardno vreme,
     Daylight: Novokuznjeck, letnje vreme
   },
   Asia/Novosibirsk: {
-    Generic: Novosibirsk,
+    Generic: Novosibirsk, standardno vreme,
     Standard: Novosibirsk, standardno vreme,
     Daylight: Novosibirsk, letnje vreme
   },
   Asia/Omsk: {
-    Generic: Omsk,
+    Generic: Omsk, standardno vreme,
     Standard: Omsk, standardno vreme,
     Daylight: Omsk, letnje vreme
   },
   Asia/Oral: {
-    Generic: Zapadno-kazahstansko vreme,
-    Standard: Zapadno-kazahstansko vreme,
-    Daylight: Zapadno-kazahstansko vreme
+    Generic: Kazahstansko vreme,
+    Standard: Kazahstansko vreme,
+    Daylight: Kazahstansko vreme
   },
   Asia/Phnom_Penh: {
     Generic: Indokina vreme,
@@ -1515,14 +1515,14 @@
     Daylight: Arabijsko letnje vreme
   },
   Asia/Qostanay: {
-    Generic: Istočno-kazahstansko vreme,
-    Standard: Istočno-kazahstansko vreme,
-    Daylight: Istočno-kazahstansko vreme
+    Generic: Kazahstansko vreme,
+    Standard: Kazahstansko vreme,
+    Daylight: Kazahstansko vreme
   },
   Asia/Qyzylorda: {
-    Generic: Zapadno-kazahstansko vreme,
-    Standard: Zapadno-kazahstansko vreme,
-    Daylight: Zapadno-kazahstansko vreme
+    Generic: Kazahstansko vreme,
+    Standard: Kazahstansko vreme,
+    Daylight: Kazahstansko vreme
   },
   Asia/Rangoon: {
     Generic: Mijanmar vreme,
@@ -1540,7 +1540,7 @@
     Daylight: Indokina vreme
   },
   Asia/Sakhalin: {
-    Generic: Sahalin,
+    Generic: Sahalin, standardno vreme,
     Standard: Sahalin, standardno vreme,
     Daylight: Sahalin, letnje vreme
   },
@@ -1565,7 +1565,7 @@
     Daylight: Singapur, standardno vreme
   },
   Asia/Srednekolymsk: {
-    Generic: Srednjekolimsk,
+    Generic: Srednjekolimsk, standardno vreme,
     Standard: Srednjekolimsk, standardno vreme,
     Daylight: Srednjekolimsk, letnje vreme
   },
@@ -1610,7 +1610,7 @@
     Daylight: Japansko letnje vreme
   },
   Asia/Tomsk: {
-    Generic: Tomsk,
+    Generic: Tomsk, standardno vreme,
     Standard: Tomsk, standardno vreme,
     Daylight: Tomsk, letnje vreme
   },
@@ -1630,12 +1630,12 @@
     Daylight: Ulan Bator, letnje vreme
   },
   Asia/Urumqi: {
-    Generic: Kina,
+    Generic: Kina, standardno vreme,
     Standard: Kina, standardno vreme,
     Daylight: Kina, letnje vreme
   },
   Asia/Ust-Nera: {
-    Generic: Ust-Nera,
+    Generic: Ust-Nera, standardno vreme,
     Standard: Ust-Nera, standardno vreme,
     Daylight: Ust-Nera, letnje vreme
   },
@@ -1645,12 +1645,12 @@
     Daylight: Indokina vreme
   },
   Asia/Vladivostok: {
-    Generic: Vladivostok,
+    Generic: Vladivostok, standardno vreme,
     Standard: Vladivostok, standardno vreme,
     Daylight: Vladivostok, letnje vreme
   },
   Asia/Yakutsk: {
-    Generic: Jakutsk,
+    Generic: Jakutsk, standardno vreme,
     Standard: Jakutsk, standardno vreme,
     Daylight: Jakutsk, letnje vreme
   },
@@ -1660,7 +1660,7 @@
     Daylight: Mijanmar vreme
   },
   Asia/Yekaterinburg: {
-    Generic: Jekaterinburg,
+    Generic: Jekaterinburg, standardno vreme,
     Standard: Jekaterinburg, standardno vreme,
     Daylight: Jekaterinburg, letnje vreme
   },
@@ -1935,9 +1935,9 @@
     Daylight: Istočnoevropsko letnje vreme
   },
   EST: {
-    Generic: Koordinisano univerzalno vreme -5,
-    Standard: Koordinisano univerzalno vreme -5,
-    Daylight: Koordinisano univerzalno vreme -5
+    Generic: Severnoameričko istočno vreme,
+    Standard: Severnoameričko istočno standardno vreme,
+    Daylight: Severnoameričko istočno letnje vreme
   },
   EST5EDT: {
     Generic: Severnoameričko istočno vreme,
@@ -1950,7 +1950,7 @@
     Daylight: Istočnoevropsko letnje vreme
   },
   Eire: {
-    Generic: Irska,
+    Generic: Srednje vreme po Griniču,
     Standard: Srednje vreme po Griniču,
     Daylight: Irska, standardno vreme
   },
@@ -2140,7 +2140,7 @@
     Daylight: Srednjeevropsko letnje vreme
   },
   Europe/Astrakhan: {
-    Generic: Astrakan,
+    Generic: Astrakan, standardno vreme,
     Standard: Astrakan, standardno vreme,
     Daylight: Astrakan, letnje vreme
   },
@@ -2150,7 +2150,7 @@
     Daylight: Istočnoevropsko letnje vreme
   },
   Europe/Belfast: {
-    Generic: Ujedinjeno Kraljevstvo,
+    Generic: Srednje vreme po Griniču,
     Standard: Srednje vreme po Griniču,
     Daylight: Britanija, letnje vreme
   },
@@ -2200,7 +2200,7 @@
     Daylight: Srednjeevropsko letnje vreme
   },
   Europe/Dublin: {
-    Generic: Irska,
+    Generic: Srednje vreme po Griniču,
     Standard: Srednje vreme po Griniču,
     Daylight: Irska, standardno vreme
   },
@@ -2225,7 +2225,7 @@
     Daylight: Srednje vreme po Griniču
   },
   Europe/Istanbul: {
-    Generic: Turska,
+    Generic: Turska, standardno vreme,
     Standard: Turska, standardno vreme,
     Daylight: Turska, letnje vreme
   },
@@ -2235,7 +2235,7 @@
     Daylight: Srednje vreme po Griniču
   },
   Europe/Kaliningrad: {
-    Generic: Kalinjingrad,
+    Generic: Kalinjingrad, standardno vreme,
     Standard: Kalinjingrad, standardno vreme,
     Daylight: Kalinjingrad, letnje vreme
   },
@@ -2245,7 +2245,7 @@
     Daylight: Istočnoevropsko letnje vreme
   },
   Europe/Kirov: {
-    Generic: Kirov,
+    Generic: Kirov, standardno vreme,
     Standard: Kirov, standardno vreme,
     Daylight: Kirov, letnje vreme
   },
@@ -2265,7 +2265,7 @@
     Daylight: Srednjeevropsko letnje vreme
   },
   Europe/London: {
-    Generic: Ujedinjeno Kraljevstvo,
+    Generic: Srednje vreme po Griniču,
     Standard: Srednje vreme po Griniču,
     Daylight: Britanija, letnje vreme
   },
@@ -2300,7 +2300,7 @@
     Daylight: Srednjeevropsko letnje vreme
   },
   Europe/Moscow: {
-    Generic: Moskva,
+    Generic: Moskva, standardno vreme,
     Standard: Moskva, standardno vreme,
     Daylight: Moskva, letnje vreme
   },
@@ -2340,7 +2340,7 @@
     Daylight: Srednjeevropsko letnje vreme
   },
   Europe/Samara: {
-    Generic: Samara,
+    Generic: Samara, standardno vreme,
     Standard: Samara, standardno vreme,
     Daylight: Samara, letnje vreme
   },
@@ -2355,7 +2355,7 @@
     Daylight: Srednjeevropsko letnje vreme
   },
   Europe/Saratov: {
-    Generic: Saratov,
+    Generic: Saratov, standardno vreme,
     Standard: Saratov, standardno vreme,
     Daylight: Saratov, letnje vreme
   },
@@ -2395,7 +2395,7 @@
     Daylight: Istočnoevropsko letnje vreme
   },
   Europe/Ulyanovsk: {
-    Generic: Uljanovsk,
+    Generic: Uljanovsk, standardno vreme,
     Standard: Uljanovsk, standardno vreme,
     Daylight: Uljanovsk, letnje vreme
   },
@@ -2425,7 +2425,7 @@
     Daylight: Istočnoevropsko letnje vreme
   },
   Europe/Volgograd: {
-    Generic: Volgograd,
+    Generic: Volgograd, standardno vreme,
     Standard: Volgograd, standardno vreme,
     Daylight: Volgograd, letnje vreme
   },
@@ -2450,12 +2450,12 @@
     Daylight: Srednjeevropsko letnje vreme
   },
   GB: {
-    Generic: Ujedinjeno Kraljevstvo,
+    Generic: Srednje vreme po Griniču,
     Standard: Srednje vreme po Griniču,
     Daylight: Britanija, letnje vreme
   },
   GB-Eire: {
-    Generic: Ujedinjeno Kraljevstvo,
+    Generic: Srednje vreme po Griniču,
     Standard: Srednje vreme po Griniču,
     Daylight: Britanija, letnje vreme
   },
@@ -2485,9 +2485,9 @@
     Daylight: Srednje vreme po Griniču
   },
   HST: {
-    Generic: Koordinisano univerzalno vreme -10,
-    Standard: Koordinisano univerzalno vreme -10,
-    Daylight: Koordinisano univerzalno vreme -10
+    Generic: Havajsko-aleutsko vreme,
+    Standard: Havajsko-aleutsko standardno vreme,
+    Daylight: Havajsko-aleutsko letnje vreme
   },
   Hongkong: {
     Generic: Hong Kong vreme,
@@ -2590,9 +2590,9 @@
     Daylight: Srednjeevropsko letnje vreme
   },
   MST: {
-    Generic: Koordinisano univerzalno vreme -7,
-    Standard: Koordinisano univerzalno vreme -7,
-    Daylight: Koordinisano univerzalno vreme -7
+    Generic: Severnoameričko planinsko vreme,
+    Standard: Severnoameričko planinsko standardno vreme,
+    Daylight: Severnoameričko planinsko letnje vreme
   },
   MST7MDT: {
     Generic: Severnoameričko planinsko vreme,
@@ -2885,7 +2885,7 @@
     Daylight: Singapur, standardno vreme
   },
   Turkey: {
-    Generic: Turska,
+    Generic: Turska, standardno vreme,
     Standard: Turska, standardno vreme,
     Daylight: Turska, letnje vreme
   },
@@ -2965,7 +2965,7 @@
     Daylight: Koordinisano univerzalno vreme
   },
   W-SU: {
-    Generic: Moskva,
+    Generic: Moskva, standardno vreme,
     Standard: Moskva, standardno vreme,
     Daylight: Moskva, letnje vreme
   },

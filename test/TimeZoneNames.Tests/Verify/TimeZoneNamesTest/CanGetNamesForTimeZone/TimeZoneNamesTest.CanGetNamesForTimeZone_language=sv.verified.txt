@@ -580,9 +580,9 @@
     Daylight: nordamerikansk atlantsommartid
   },
   America/Godthab: {
-    Generic: västgrönländsk tid,
-    Standard: västgrönländsk normaltid,
-    Daylight: västgrönländsk sommartid
+    Generic: Grönlandtid,
+    Standard: Grönland (normaltid),
+    Daylight: Grönland (sommartid)
   },
   America/Goose_Bay: {
     Generic: nordamerikansk atlanttid,
@@ -810,9 +810,9 @@
     Daylight: centralnordamerikansk sommartid
   },
   America/Miquelon: {
-    Generic: S:t Pierre och Miquelontid,
-    Standard: S:t Pierre och Miquelon, normaltid,
-    Daylight: S:t Pierre och Miquelon, sommartid
+    Generic: Saint-Pierre-et-Miquelon-tid,
+    Standard: Saint-Pierre-et-Miquelon, normaltid,
+    Daylight: Saint-Pierre-et-Miquelon, sommartid
   },
   America/Moncton: {
     Generic: nordamerikansk atlanttid,
@@ -880,9 +880,9 @@
     Daylight: centralnordamerikansk sommartid
   },
   America/Nuuk: {
-    Generic: västgrönländsk tid,
-    Standard: västgrönländsk normaltid,
-    Daylight: västgrönländsk sommartid
+    Generic: Grönlandtid,
+    Standard: Grönland (normaltid),
+    Daylight: Grönland (sommartid)
   },
   America/Ojinaga: {
     Generic: centralnordamerikansk tid,
@@ -975,9 +975,9 @@
     Daylight: östargentinsk sommartid
   },
   America/Santa_Isabel: {
-    Generic: nordvästmexikansk tid,
-    Standard: nordvästmexikansk normaltid,
-    Daylight: nordvästmexikansk sommartid
+    Generic: västnordamerikansk tid,
+    Standard: västnordamerikansk normaltid,
+    Daylight: västnordamerikansk sommartid
   },
   America/Santarem: {
     Generic: Brasiliatid,
@@ -1000,9 +1000,9 @@
     Daylight: Brasilia, sommartid
   },
   America/Scoresbysund: {
-    Generic: östgrönländsk tid,
-    Standard: östgrönländsk normaltid,
-    Daylight: östgrönländsk sommartid
+    Generic: Grönlandtid,
+    Standard: Grönland (normaltid),
+    Daylight: Grönland (sommartid)
   },
   America/Shiprock: {
     Generic: Klippiga bergentid,
@@ -1110,9 +1110,9 @@
     Daylight: Klippiga bergen, sommartid
   },
   Antarctica/Casey: {
-    Generic: Caseytid,
-    Standard: Caseytid,
-    Daylight: Caseytid
+    Generic: västaustralisk tid,
+    Standard: västaustralisk normaltid,
+    Daylight: västaustralisk sommartid
   },
   Antarctica/Davis: {
     Generic: Davistid,
@@ -1180,9 +1180,9 @@
     Daylight: saudiarabisk sommartid
   },
   Asia/Almaty: {
-    Generic: östkazakstansk tid,
-    Standard: östkazakstansk tid,
-    Daylight: östkazakstansk tid
+    Generic: kazakstansk tid,
+    Standard: kazakstansk tid,
+    Daylight: kazakstansk tid
   },
   Asia/Amman: {
     Generic: östeuropeisk tid,
@@ -1195,14 +1195,14 @@
     Daylight: Anadyr (sommartid)
   },
   Asia/Aqtau: {
-    Generic: västkazakstansk tid,
-    Standard: västkazakstansk tid,
-    Daylight: västkazakstansk tid
+    Generic: kazakstansk tid,
+    Standard: kazakstansk tid,
+    Daylight: kazakstansk tid
   },
   Asia/Aqtobe: {
-    Generic: västkazakstansk tid,
-    Standard: västkazakstansk tid,
-    Daylight: västkazakstansk tid
+    Generic: kazakstansk tid,
+    Standard: kazakstansk tid,
+    Daylight: kazakstansk tid
   },
   Asia/Ashgabat: {
     Generic: turkmensk tid,
@@ -1215,9 +1215,9 @@
     Daylight: turkmensk sommartid
   },
   Asia/Atyrau: {
-    Generic: västkazakstansk tid,
-    Standard: västkazakstansk tid,
-    Daylight: västkazakstansk tid
+    Generic: kazakstansk tid,
+    Standard: kazakstansk tid,
+    Daylight: kazakstansk tid
   },
   Asia/Baghdad: {
     Generic: saudiarabisk tid,
@@ -1490,9 +1490,9 @@
     Daylight: Omsk (sommartid)
   },
   Asia/Oral: {
-    Generic: västkazakstansk tid,
-    Standard: västkazakstansk tid,
-    Daylight: västkazakstansk tid
+    Generic: kazakstansk tid,
+    Standard: kazakstansk tid,
+    Daylight: kazakstansk tid
   },
   Asia/Phnom_Penh: {
     Generic: indokinesisk tid,
@@ -1515,14 +1515,14 @@
     Daylight: saudiarabisk sommartid
   },
   Asia/Qostanay: {
-    Generic: östkazakstansk tid,
-    Standard: östkazakstansk tid,
-    Daylight: östkazakstansk tid
+    Generic: kazakstansk tid,
+    Standard: kazakstansk tid,
+    Daylight: kazakstansk tid
   },
   Asia/Qyzylorda: {
-    Generic: västkazakstansk tid,
-    Standard: västkazakstansk tid,
-    Daylight: västkazakstansk tid
+    Generic: kazakstansk tid,
+    Standard: kazakstansk tid,
+    Daylight: kazakstansk tid
   },
   Asia/Rangoon: {
     Generic: burmesisk tid,
@@ -1935,9 +1935,9 @@
     Daylight: östeuropeisk sommartid
   },
   EST: {
-    Generic: koordinerad universell tid -5,
-    Standard: koordinerad universell tid -5,
-    Daylight: koordinerad universell tid -5
+    Generic: östnordamerikansk tid,
+    Standard: östnordamerikansk normaltid,
+    Daylight: östnordamerikansk sommartid
   },
   EST5EDT: {
     Generic: östnordamerikansk tid,
@@ -2485,9 +2485,9 @@
     Daylight: Greenwichtid
   },
   HST: {
-    Generic: koordinerad universell tid -10,
-    Standard: koordinerad universell tid -10,
-    Daylight: koordinerad universell tid -10
+    Generic: Honolulutid,
+    Standard: Honolulu, normaltid,
+    Daylight: Honolulu, sommartid
   },
   Hongkong: {
     Generic: Hongkongtid,
@@ -2590,9 +2590,9 @@
     Daylight: centraleuropeisk sommartid
   },
   MST: {
-    Generic: koordinerad universell tid -7,
-    Standard: koordinerad universell tid -7,
-    Daylight: koordinerad universell tid -7
+    Generic: Klippiga bergentid,
+    Standard: Klippiga bergen, normaltid,
+    Daylight: Klippiga bergen, sommartid
   },
   MST7MDT: {
     Generic: Klippiga bergentid,

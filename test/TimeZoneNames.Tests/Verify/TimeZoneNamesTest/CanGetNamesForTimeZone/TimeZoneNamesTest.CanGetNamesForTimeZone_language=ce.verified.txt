@@ -515,9 +515,9 @@
     Daylight: Гринвичица юкъара хан
   },
   America/Dawson: {
-    Generic: Канада,
-    Standard: Канада (+0),
-    Daylight: Канада (+1)
+    Generic: Yukon Time,
+    Standard: Yukon Time,
+    Daylight: Yukon Time
   },
   America/Dawson_Creek: {
     Generic: Лаьмнийн хан (АЦШ),
@@ -545,9 +545,9 @@
     Daylight: Лаьмнийн аьхкенан хан (АЦШ)
   },
   America/Eirunepe: {
-    Generic: Бразили,
-    Standard: Бразили (+0),
-    Daylight: Бразили (+1)
+    Generic: Acre Time,
+    Standard: Acre Standard Time,
+    Daylight: Acre Summer Time
   },
   America/El_Salvador: {
     Generic: Юккъера Америка,
@@ -580,9 +580,9 @@
     Daylight: Атлантикан аьхкенан хан
   },
   America/Godthab: {
-    Generic: Малхбузен Гренланди,
-    Standard: Малхбузен Гренланди, стандартан хан,
-    Daylight: Малхбузен Гренланди, аьхкенан хан
+    Generic: Greenland Time,
+    Standard: Greenland Standard Time,
+    Daylight: Greenland Summer Time
   },
   America/Goose_Bay: {
     Generic: Атлантикан хан,
@@ -880,9 +880,9 @@
     Daylight: Юккъера Америка, аьхкенан хан
   },
   America/Nuuk: {
-    Generic: Малхбузен Гренланди,
-    Standard: Малхбузен Гренланди, стандартан хан,
-    Daylight: Малхбузен Гренланди, аьхкенан хан
+    Generic: Greenland Time,
+    Standard: Greenland Standard Time,
+    Daylight: Greenland Summer Time
   },
   America/Ojinaga: {
     Generic: Юккъера Америка,
@@ -920,9 +920,9 @@
     Daylight: Атлантикан аьхкенан хан
   },
   America/Porto_Acre: {
-    Generic: Бразили,
-    Standard: Бразили (+0),
-    Daylight: Бразили (+1)
+    Generic: Acre Time,
+    Standard: Acre Standard Time,
+    Daylight: Acre Summer Time
   },
   America/Porto_Velho: {
     Generic: Амазонка,
@@ -965,9 +965,9 @@
     Daylight: Юккъера Америка, аьхкенан хан
   },
   America/Rio_Branco: {
-    Generic: Бразили,
-    Standard: Бразили (+0),
-    Daylight: Бразили (+1)
+    Generic: Acre Time,
+    Standard: Acre Standard Time,
+    Daylight: Acre Summer Time
   },
   America/Rosario: {
     Generic: Аргентина,
@@ -975,9 +975,9 @@
     Daylight: Аргентина, аьхкенан хан
   },
   America/Santa_Isabel: {
-    Generic: Къилбаседа Американ Мексикан хан,
-    Standard: Къилбаседа Американ Мексикан стандартан хан,
-    Daylight: Къилбаседа Американ Мексикан аьхкенан хан
+    Generic: Тийна океанан хан,
+    Standard: Тийна океанан стандартан хан,
+    Daylight: Тийна океанан аьхкенан хан
   },
   America/Santarem: {
     Generic: Бразили,
@@ -1000,9 +1000,9 @@
     Daylight: Бразили, аьхкенан хан
   },
   America/Scoresbysund: {
-    Generic: Малхбален Гренланди,
-    Standard: Малхбален Гренланди, стандартан хан,
-    Daylight: Малхбален Гренланди, аьхкенан хан
+    Generic: Greenland Time,
+    Standard: Greenland Standard Time,
+    Daylight: Greenland Summer Time
   },
   America/Shiprock: {
     Generic: Лаьмнийн хан (АЦШ),
@@ -1090,9 +1090,9 @@
     Daylight: Атлантикан аьхкенан хан
   },
   America/Whitehorse: {
-    Generic: Канада,
-    Standard: Канада (+0),
-    Daylight: Канада (+1)
+    Generic: Yukon Time,
+    Standard: Yukon Time,
+    Daylight: Yukon Time
   },
   America/Winnipeg: {
     Generic: Юккъера Америка,
@@ -1110,9 +1110,9 @@
     Daylight: Лаьмнийн аьхкенан хан (АЦШ)
   },
   Antarctica/Casey: {
-    Generic: Антарктида,
-    Standard: Антарктида (+0),
-    Daylight: Антарктида (+1)
+    Generic: Малхбузен Австрали,
+    Standard: Малхбузен Австрали, стандартан хан,
+    Daylight: Малхбузен Австрали, аьхкенан хан
   },
   Antarctica/Davis: {
     Generic: Дейвис,
@@ -1180,9 +1180,9 @@
     Daylight: СаӀудийн Ӏаьрбийчоьнан, аьхкенан хан
   },
   Asia/Almaty: {
-    Generic: Малхбален Казахстан,
-    Standard: Малхбален Казахстан,
-    Daylight: Малхбален Казахстан
+    Generic: Kazakhstan Time,
+    Standard: Kazakhstan Time,
+    Daylight: Kazakhstan Time
   },
   Asia/Amman: {
     Generic: Малхбален Европа,
@@ -1190,19 +1190,19 @@
     Daylight: Малхбален Европа, аьхкенан хан
   },
   Asia/Anadyr: {
-    Generic: Анадырь,
-    Standard: Анадырь (+0),
-    Daylight: Анадырь (+1)
+    Generic: Anadyr Time,
+    Standard: Anadyr Standard Time,
+    Daylight: Anadyr Daylight Time
   },
   Asia/Aqtau: {
-    Generic: Малхбузен Казахстан,
-    Standard: Малхбузен Казахстан,
-    Daylight: Малхбузен Казахстан
+    Generic: Kazakhstan Time,
+    Standard: Kazakhstan Time,
+    Daylight: Kazakhstan Time
   },
   Asia/Aqtobe: {
-    Generic: Малхбузен Казахстан,
-    Standard: Малхбузен Казахстан,
-    Daylight: Малхбузен Казахстан
+    Generic: Kazakhstan Time,
+    Standard: Kazakhstan Time,
+    Daylight: Kazakhstan Time
   },
   Asia/Ashgabat: {
     Generic: Туркмени,
@@ -1215,9 +1215,9 @@
     Daylight: Туркменин аьхкенан хан
   },
   Asia/Atyrau: {
-    Generic: Малхбузен Казахстан,
-    Standard: Малхбузен Казахстан,
-    Daylight: Малхбузен Казахстан
+    Generic: Kazakhstan Time,
+    Standard: Kazakhstan Time,
+    Daylight: Kazakhstan Time
   },
   Asia/Baghdad: {
     Generic: СаӀудийн Ӏаьрбийчоь,
@@ -1240,9 +1240,9 @@
     Daylight: Индокитай
   },
   Asia/Barnaul: {
-    Generic: Барнаул,
-    Standard: Барнаул (+0),
-    Daylight: Барнаул (+1)
+    Generic: Barnaul Time,
+    Standard: Barnaul Standard Time,
+    Daylight: Barnaul Daylight Time
   },
   Asia/Beirut: {
     Generic: Малхбален Европа,
@@ -1265,9 +1265,9 @@
     Daylight: ХӀинди
   },
   Asia/Chita: {
-    Generic: Чита,
-    Standard: Чита (+0),
-    Daylight: Чита (+1)
+    Generic: Chita Time,
+    Standard: Chita Standard Time,
+    Daylight: Chita Daylight Time
   },
   Asia/Choibalsan: {
     Generic: Улан-Батор,
@@ -1355,14 +1355,14 @@
     Daylight: Ховд, аьхкенан хан
   },
   Asia/Irkutsk: {
-    Generic: Иркутск,
-    Standard: Иркутск (+0),
-    Daylight: Иркутск (+1)
+    Generic: Irkutsk Time,
+    Standard: Irkutsk Standard Time,
+    Daylight: Irkutsk Daylight Time
   },
   Asia/Istanbul: {
-    Generic: Туркойчоь,
-    Standard: Туркойчоь (+0),
-    Daylight: Туркойчоь (+1)
+    Generic: Türkiye Time,
+    Standard: Türkiye Standard Time,
+    Daylight: Türkiye Daylight Time
   },
   Asia/Jakarta: {
     Generic: Малхбузен Индонези,
@@ -1385,9 +1385,9 @@
     Daylight: ОвхӀан
   },
   Asia/Kamchatka: {
-    Generic: Петропавловск-Камчатски,
-    Standard: Петропавловск-Камчатски (+0),
-    Daylight: Петропавловск-Камчатски (+1)
+    Generic: Kamchatka Time,
+    Standard: Kamchatka Standard Time,
+    Daylight: Kamchatka Daylight Time
   },
   Asia/Karachi: {
     Generic: Пакистан,
@@ -1395,9 +1395,9 @@
     Daylight: Пакистан, аьхкенан хан
   },
   Asia/Kashgar: {
-    Generic: Цийчоь,
-    Standard: Цийчоь (+0),
-    Daylight: Цийчоь (+1)
+    Generic: China Time,
+    Standard: China Standard Time,
+    Daylight: China Daylight Time
   },
   Asia/Kathmandu: {
     Generic: Непал,
@@ -1410,9 +1410,9 @@
     Daylight: Непал
   },
   Asia/Khandyga: {
-    Generic: Хандыга,
-    Standard: Хандыга (+0),
-    Daylight: Хандыга (+1)
+    Generic: Khandyga Time,
+    Standard: Khandyga Standard Time,
+    Daylight: Khandyga Daylight Time
   },
   Asia/Kolkata: {
     Generic: ХӀинди,
@@ -1420,9 +1420,9 @@
     Daylight: ХӀинди
   },
   Asia/Krasnoyarsk: {
-    Generic: Красноярск,
-    Standard: Красноярск (+0),
-    Daylight: Красноярск (+1)
+    Generic: Krasnoyarsk Time,
+    Standard: Krasnoyarsk Standard Time,
+    Daylight: Krasnoyarsk Daylight Time
   },
   Asia/Kuala_Lumpur: {
     Generic: Малайзи,
@@ -1450,9 +1450,9 @@
     Daylight: Цийчоьнан, аьхкенан хан
   },
   Asia/Magadan: {
-    Generic: Магадан,
-    Standard: Магадан (+0),
-    Daylight: Магадан (+1)
+    Generic: Magadan Time,
+    Standard: Magadan Standard Time,
+    Daylight: Magadan Daylight Time
   },
   Asia/Makassar: {
     Generic: Юккъера Индонези,
@@ -1475,24 +1475,24 @@
     Daylight: Малхбален Европа, аьхкенан хан
   },
   Asia/Novokuznetsk: {
-    Generic: Новокузнецк,
-    Standard: Новокузнецк (+0),
-    Daylight: Новокузнецк (+1)
+    Generic: Novokuznetsk Time,
+    Standard: Novokuznetsk Standard Time,
+    Daylight: Novokuznetsk Daylight Time
   },
   Asia/Novosibirsk: {
-    Generic: Новосибирск,
-    Standard: Новосибирск (+0),
-    Daylight: Новосибирск (+1)
+    Generic: Novosibirsk Time,
+    Standard: Novosibirsk Standard Time,
+    Daylight: Novosibirsk Daylight Time
   },
   Asia/Omsk: {
-    Generic: Омск,
-    Standard: Омск (+0),
-    Daylight: Омск (+1)
+    Generic: Omsk Time,
+    Standard: Omsk Standard Time,
+    Daylight: Omsk Daylight Time
   },
   Asia/Oral: {
-    Generic: Малхбузен Казахстан,
-    Standard: Малхбузен Казахстан,
-    Daylight: Малхбузен Казахстан
+    Generic: Kazakhstan Time,
+    Standard: Kazakhstan Time,
+    Daylight: Kazakhstan Time
   },
   Asia/Phnom_Penh: {
     Generic: Индокитай,
@@ -1515,14 +1515,14 @@
     Daylight: СаӀудийн Ӏаьрбийчоьнан, аьхкенан хан
   },
   Asia/Qostanay: {
-    Generic: Малхбален Казахстан,
-    Standard: Малхбален Казахстан,
-    Daylight: Малхбален Казахстан
+    Generic: Kazakhstan Time,
+    Standard: Kazakhstan Time,
+    Daylight: Kazakhstan Time
   },
   Asia/Qyzylorda: {
-    Generic: Малхбузен Казахстан,
-    Standard: Малхбузен Казахстан,
-    Daylight: Малхбузен Казахстан
+    Generic: Kazakhstan Time,
+    Standard: Kazakhstan Time,
+    Daylight: Kazakhstan Time
   },
   Asia/Rangoon: {
     Generic: Мьянма,
@@ -1540,9 +1540,9 @@
     Daylight: Индокитай
   },
   Asia/Sakhalin: {
-    Generic: Сахалин гӀ-е,
-    Standard: Сахалин гӀ-е (+0),
-    Daylight: Сахалин гӀ-е (+1)
+    Generic: Sakhalin Time,
+    Standard: Sakhalin Standard Time,
+    Daylight: Sakhalin Daylight Time
   },
   Asia/Samarkand: {
     Generic: Узбекистан,
@@ -1565,9 +1565,9 @@
     Daylight: Сингапур
   },
   Asia/Srednekolymsk: {
-    Generic: Среднеколымск,
-    Standard: Среднеколымск (+0),
-    Daylight: Среднеколымск (+1)
+    Generic: Srednekolymsk Time,
+    Standard: Srednekolymsk Standard Time,
+    Daylight: Srednekolymsk Daylight Time
   },
   Asia/Taipei: {
     Generic: Тайвань,
@@ -1610,9 +1610,9 @@
     Daylight: Япон, аьхкенан хан
   },
   Asia/Tomsk: {
-    Generic: Томск,
-    Standard: Томск (+0),
-    Daylight: Томск (+1)
+    Generic: Tomsk Time,
+    Standard: Tomsk Standard Time,
+    Daylight: Tomsk Daylight Time
   },
   Asia/Ujung_Pandang: {
     Generic: Юккъера Индонези,
@@ -1630,14 +1630,14 @@
     Daylight: Улан-Батор, аьхкенан хан
   },
   Asia/Urumqi: {
-    Generic: Цийчоь,
-    Standard: Цийчоь (+0),
-    Daylight: Цийчоь (+1)
+    Generic: China Time,
+    Standard: China Standard Time,
+    Daylight: China Daylight Time
   },
   Asia/Ust-Nera: {
-    Generic: Усть-Нера,
-    Standard: Усть-Нера (+0),
-    Daylight: Усть-Нера (+1)
+    Generic: Ust-Nera Time,
+    Standard: Ust-Nera Standard Time,
+    Daylight: Ust-Nera Daylight Time
   },
   Asia/Vientiane: {
     Generic: Индокитай,
@@ -1645,14 +1645,14 @@
     Daylight: Индокитай
   },
   Asia/Vladivostok: {
-    Generic: Владивосток,
-    Standard: Владивосток (+0),
-    Daylight: Владивосток (+1)
+    Generic: Vladivostok Time,
+    Standard: Vladivostok Standard Time,
+    Daylight: Vladivostok Daylight Time
   },
   Asia/Yakutsk: {
-    Generic: Якутск,
-    Standard: Якутск (+0),
-    Daylight: Якутск (+1)
+    Generic: Yakutsk Time,
+    Standard: Yakutsk Standard Time,
+    Daylight: Yakutsk Daylight Time
   },
   Asia/Yangon: {
     Generic: Мьянма,
@@ -1660,9 +1660,9 @@
     Daylight: Мьянма
   },
   Asia/Yekaterinburg: {
-    Generic: Екатеринбург,
-    Standard: Екатеринбург (+0),
-    Daylight: Екатеринбург (+1)
+    Generic: Yekaterinburg Time,
+    Standard: Yekaterinburg Standard Time,
+    Daylight: Yekaterinburg Daylight Time
   },
   Asia/Yerevan: {
     Generic: Эрмалойчоь,
@@ -1845,9 +1845,9 @@
     Daylight: Юккъера Австрали, аьхкенан хан
   },
   Brazil/Acre: {
-    Generic: Бразили,
-    Standard: Бразили (+0),
-    Daylight: Бразили (+1)
+    Generic: Acre Time,
+    Standard: Acre Standard Time,
+    Daylight: Acre Summer Time
   },
   Brazil/DeNoronha: {
     Generic: Фернанду-ди-Норонья,
@@ -1910,9 +1910,9 @@
     Daylight: Юккъера Америка, аьхкенан хан
   },
   Canada/Yukon: {
-    Generic: Канада,
-    Standard: Канада (+0),
-    Daylight: Канада (+1)
+    Generic: Yukon Time,
+    Standard: Yukon Time,
+    Daylight: Yukon Time
   },
   Chile/Continental: {
     Generic: Чили,
@@ -1935,9 +1935,9 @@
     Daylight: Малхбален Европа, аьхкенан хан
   },
   EST: {
-    Generic: UTC -5,
-    Standard: UTC (+0) -5,
-    Daylight: UTC (+1) -5
+    Generic: Малхбален Америка,
+    Standard: Малхбален Америка, стандартан хан,
+    Daylight: Малхбален Америка, аьхкенан хан
   },
   EST5EDT: {
     Generic: Малхбален Америка,
@@ -1950,7 +1950,7 @@
     Daylight: Малхбален Европа, аьхкенан хан
   },
   Eire: {
-    Generic: Ирланди,
+    Generic: Гринвичица юкъара хан,
     Standard: Гринвичица юкъара хан,
     Daylight: Ирланди, аьхкенан хан
   },
@@ -1965,64 +1965,64 @@
     Daylight: Гринвичица юкъара хан
   },
   Etc/GMT+1: {
-    Generic: UTC -1,
-    Standard: UTC (+0) -1,
-    Daylight: UTC (+1) -1
+    Generic: Coordinated Universal Time -1,
+    Standard: Coordinated Universal Time -1,
+    Daylight: Coordinated Universal Time -1
   },
   Etc/GMT+10: {
-    Generic: UTC -10,
-    Standard: UTC (+0) -10,
-    Daylight: UTC (+1) -10
+    Generic: Coordinated Universal Time -10,
+    Standard: Coordinated Universal Time -10,
+    Daylight: Coordinated Universal Time -10
   },
   Etc/GMT+11: {
-    Generic: UTC -11,
-    Standard: UTC (+0) -11,
-    Daylight: UTC (+1) -11
+    Generic: Coordinated Universal Time -11,
+    Standard: Coordinated Universal Time -11,
+    Daylight: Coordinated Universal Time -11
   },
   Etc/GMT+12: {
-    Generic: UTC -12,
-    Standard: UTC (+0) -12,
-    Daylight: UTC (+1) -12
+    Generic: Coordinated Universal Time -12,
+    Standard: Coordinated Universal Time -12,
+    Daylight: Coordinated Universal Time -12
   },
   Etc/GMT+2: {
-    Generic: UTC -2,
-    Standard: UTC (+0) -2,
-    Daylight: UTC (+1) -2
+    Generic: Coordinated Universal Time -2,
+    Standard: Coordinated Universal Time -2,
+    Daylight: Coordinated Universal Time -2
   },
   Etc/GMT+3: {
-    Generic: UTC -3,
-    Standard: UTC (+0) -3,
-    Daylight: UTC (+1) -3
+    Generic: Coordinated Universal Time -3,
+    Standard: Coordinated Universal Time -3,
+    Daylight: Coordinated Universal Time -3
   },
   Etc/GMT+4: {
-    Generic: UTC -4,
-    Standard: UTC (+0) -4,
-    Daylight: UTC (+1) -4
+    Generic: Coordinated Universal Time -4,
+    Standard: Coordinated Universal Time -4,
+    Daylight: Coordinated Universal Time -4
   },
   Etc/GMT+5: {
-    Generic: UTC -5,
-    Standard: UTC (+0) -5,
-    Daylight: UTC (+1) -5
+    Generic: Coordinated Universal Time -5,
+    Standard: Coordinated Universal Time -5,
+    Daylight: Coordinated Universal Time -5
   },
   Etc/GMT+6: {
-    Generic: UTC -6,
-    Standard: UTC (+0) -6,
-    Daylight: UTC (+1) -6
+    Generic: Coordinated Universal Time -6,
+    Standard: Coordinated Universal Time -6,
+    Daylight: Coordinated Universal Time -6
   },
   Etc/GMT+7: {
-    Generic: UTC -7,
-    Standard: UTC (+0) -7,
-    Daylight: UTC (+1) -7
+    Generic: Coordinated Universal Time -7,
+    Standard: Coordinated Universal Time -7,
+    Daylight: Coordinated Universal Time -7
   },
   Etc/GMT+8: {
-    Generic: UTC -8,
-    Standard: UTC (+0) -8,
-    Daylight: UTC (+1) -8
+    Generic: Coordinated Universal Time -8,
+    Standard: Coordinated Universal Time -8,
+    Daylight: Coordinated Universal Time -8
   },
   Etc/GMT+9: {
-    Generic: UTC -9,
-    Standard: UTC (+0) -9,
-    Daylight: UTC (+1) -9
+    Generic: Coordinated Universal Time -9,
+    Standard: Coordinated Universal Time -9,
+    Daylight: Coordinated Universal Time -9
   },
   Etc/GMT-0: {
     Generic: Гринвичица юкъара хан,
@@ -2030,74 +2030,74 @@
     Daylight: Гринвичица юкъара хан
   },
   Etc/GMT-1: {
-    Generic: UTC +1,
-    Standard: UTC (+0) +1,
-    Daylight: UTC (+1) +1
+    Generic: Coordinated Universal Time +1,
+    Standard: Coordinated Universal Time +1,
+    Daylight: Coordinated Universal Time +1
   },
   Etc/GMT-10: {
-    Generic: UTC +10,
-    Standard: UTC (+0) +10,
-    Daylight: UTC (+1) +10
+    Generic: Coordinated Universal Time +10,
+    Standard: Coordinated Universal Time +10,
+    Daylight: Coordinated Universal Time +10
   },
   Etc/GMT-11: {
-    Generic: UTC +11,
-    Standard: UTC (+0) +11,
-    Daylight: UTC (+1) +11
+    Generic: Coordinated Universal Time +11,
+    Standard: Coordinated Universal Time +11,
+    Daylight: Coordinated Universal Time +11
   },
   Etc/GMT-12: {
-    Generic: UTC +12,
-    Standard: UTC (+0) +12,
-    Daylight: UTC (+1) +12
+    Generic: Coordinated Universal Time +12,
+    Standard: Coordinated Universal Time +12,
+    Daylight: Coordinated Universal Time +12
   },
   Etc/GMT-13: {
-    Generic: UTC +13,
-    Standard: UTC (+0) +13,
-    Daylight: UTC (+1) +13
+    Generic: Coordinated Universal Time +13,
+    Standard: Coordinated Universal Time +13,
+    Daylight: Coordinated Universal Time +13
   },
   Etc/GMT-14: {
-    Generic: UTC +14,
-    Standard: UTC (+0) +14,
-    Daylight: UTC (+1) +14
+    Generic: Coordinated Universal Time +14,
+    Standard: Coordinated Universal Time +14,
+    Daylight: Coordinated Universal Time +14
   },
   Etc/GMT-2: {
-    Generic: UTC +2,
-    Standard: UTC (+0) +2,
-    Daylight: UTC (+1) +2
+    Generic: Coordinated Universal Time +2,
+    Standard: Coordinated Universal Time +2,
+    Daylight: Coordinated Universal Time +2
   },
   Etc/GMT-3: {
-    Generic: UTC +3,
-    Standard: UTC (+0) +3,
-    Daylight: UTC (+1) +3
+    Generic: Coordinated Universal Time +3,
+    Standard: Coordinated Universal Time +3,
+    Daylight: Coordinated Universal Time +3
   },
   Etc/GMT-4: {
-    Generic: UTC +4,
-    Standard: UTC (+0) +4,
-    Daylight: UTC (+1) +4
+    Generic: Coordinated Universal Time +4,
+    Standard: Coordinated Universal Time +4,
+    Daylight: Coordinated Universal Time +4
   },
   Etc/GMT-5: {
-    Generic: UTC +5,
-    Standard: UTC (+0) +5,
-    Daylight: UTC (+1) +5
+    Generic: Coordinated Universal Time +5,
+    Standard: Coordinated Universal Time +5,
+    Daylight: Coordinated Universal Time +5
   },
   Etc/GMT-6: {
-    Generic: UTC +6,
-    Standard: UTC (+0) +6,
-    Daylight: UTC (+1) +6
+    Generic: Coordinated Universal Time +6,
+    Standard: Coordinated Universal Time +6,
+    Daylight: Coordinated Universal Time +6
   },
   Etc/GMT-7: {
-    Generic: UTC +7,
-    Standard: UTC (+0) +7,
-    Daylight: UTC (+1) +7
+    Generic: Coordinated Universal Time +7,
+    Standard: Coordinated Universal Time +7,
+    Daylight: Coordinated Universal Time +7
   },
   Etc/GMT-8: {
-    Generic: UTC +8,
-    Standard: UTC (+0) +8,
-    Daylight: UTC (+1) +8
+    Generic: Coordinated Universal Time +8,
+    Standard: Coordinated Universal Time +8,
+    Daylight: Coordinated Universal Time +8
   },
   Etc/GMT-9: {
-    Generic: UTC +9,
-    Standard: UTC (+0) +9,
-    Daylight: UTC (+1) +9
+    Generic: Coordinated Universal Time +9,
+    Standard: Coordinated Universal Time +9,
+    Daylight: Coordinated Universal Time +9
   },
   Etc/GMT0: {
     Generic: Гринвичица юкъара хан,
@@ -2110,24 +2110,24 @@
     Daylight: Гринвичица юкъара хан
   },
   Etc/UCT: {
-    Generic: UTC,
-    Standard: UTC (+0),
-    Daylight: UTC (+1)
+    Generic: Coordinated Universal Time,
+    Standard: Coordinated Universal Time,
+    Daylight: Coordinated Universal Time
   },
   Etc/UTC: {
-    Generic: UTC,
-    Standard: UTC (+0),
-    Daylight: UTC (+1)
+    Generic: Coordinated Universal Time,
+    Standard: Coordinated Universal Time,
+    Daylight: Coordinated Universal Time
   },
   Etc/Universal: {
-    Generic: UTC,
-    Standard: UTC (+0),
-    Daylight: UTC (+1)
+    Generic: Coordinated Universal Time,
+    Standard: Coordinated Universal Time,
+    Daylight: Coordinated Universal Time
   },
   Etc/Zulu: {
-    Generic: UTC,
-    Standard: UTC (+0),
-    Daylight: UTC (+1)
+    Generic: Coordinated Universal Time,
+    Standard: Coordinated Universal Time,
+    Daylight: Coordinated Universal Time
   },
   Europe/Amsterdam: {
     Generic: Юккъера Европа,
@@ -2140,9 +2140,9 @@
     Daylight: Юккъера Европа, аьхкенан хан
   },
   Europe/Astrakhan: {
-    Generic: Аштаркхне,
-    Standard: Аштаркхне (+0),
-    Daylight: Аштаркхне (+1)
+    Generic: Astrakhan Time,
+    Standard: Astrakhan Standard Time,
+    Daylight: Astrakhan Daylight Time
   },
   Europe/Athens: {
     Generic: Малхбален Европа,
@@ -2150,7 +2150,7 @@
     Daylight: Малхбален Европа, аьхкенан хан
   },
   Europe/Belfast: {
-    Generic: Йоккха Британи,
+    Generic: Гринвичица юкъара хан,
     Standard: Гринвичица юкъара хан,
     Daylight: Британин, аьхкенан хан
   },
@@ -2200,7 +2200,7 @@
     Daylight: Юккъера Европа, аьхкенан хан
   },
   Europe/Dublin: {
-    Generic: Ирланди,
+    Generic: Гринвичица юкъара хан,
     Standard: Гринвичица юкъара хан,
     Daylight: Ирланди, аьхкенан хан
   },
@@ -2225,9 +2225,9 @@
     Daylight: Гринвичица юкъара хан
   },
   Europe/Istanbul: {
-    Generic: Туркойчоь,
-    Standard: Туркойчоь (+0),
-    Daylight: Туркойчоь (+1)
+    Generic: Türkiye Time,
+    Standard: Türkiye Standard Time,
+    Daylight: Türkiye Daylight Time
   },
   Europe/Jersey: {
     Generic: Гринвичица юкъара хан,
@@ -2235,9 +2235,9 @@
     Daylight: Гринвичица юкъара хан
   },
   Europe/Kaliningrad: {
-    Generic: Калининград,
-    Standard: Калининград (+0),
-    Daylight: Калининград (+1)
+    Generic: Kaliningrad Time,
+    Standard: Kaliningrad Standard Time,
+    Daylight: Kaliningrad Daylight Time
   },
   Europe/Kiev: {
     Generic: Малхбален Европа,
@@ -2245,9 +2245,9 @@
     Daylight: Малхбален Европа, аьхкенан хан
   },
   Europe/Kirov: {
-    Generic: Киров,
-    Standard: Киров (+0),
-    Daylight: Киров (+1)
+    Generic: Kirov Time,
+    Standard: Kirov Standard Time,
+    Daylight: Kirov Daylight Time
   },
   Europe/Kyiv: {
     Generic: Малхбален Европа,
@@ -2265,7 +2265,7 @@
     Daylight: Юккъера Европа, аьхкенан хан
   },
   Europe/London: {
-    Generic: Йоккха Британи,
+    Generic: Гринвичица юкъара хан,
     Standard: Гринвичица юкъара хан,
     Daylight: Британин, аьхкенан хан
   },
@@ -2300,9 +2300,9 @@
     Daylight: Юккъера Европа, аьхкенан хан
   },
   Europe/Moscow: {
-    Generic: Москва,
-    Standard: Москва (+0),
-    Daylight: Москва (+1)
+    Generic: Moscow Time,
+    Standard: Moscow Standard Time,
+    Daylight: Moscow Daylight Time
   },
   Europe/Nicosia: {
     Generic: Малхбален Европа,
@@ -2340,9 +2340,9 @@
     Daylight: Юккъера Европа, аьхкенан хан
   },
   Europe/Samara: {
-    Generic: Самара,
-    Standard: Самара (+0),
-    Daylight: Самара (+1)
+    Generic: Samara Time,
+    Standard: Samara Standard Time,
+    Daylight: Samara Daylight Time
   },
   Europe/San_Marino: {
     Generic: Юккъера Европа,
@@ -2355,9 +2355,9 @@
     Daylight: Юккъера Европа, аьхкенан хан
   },
   Europe/Saratov: {
-    Generic: Саратов,
-    Standard: Саратов (+0),
-    Daylight: Саратов (+1)
+    Generic: Saratov Time,
+    Standard: Saratov Standard Time,
+    Daylight: Saratov Daylight Time
   },
   Europe/Simferopol: {
     Generic: Москва,
@@ -2395,9 +2395,9 @@
     Daylight: Малхбален Европа, аьхкенан хан
   },
   Europe/Ulyanovsk: {
-    Generic: Ульяновск,
-    Standard: Ульяновск (+0),
-    Daylight: Ульяновск (+1)
+    Generic: Ulyanovsk Time,
+    Standard: Ulyanovsk Standard Time,
+    Daylight: Ulyanovsk Daylight Time
   },
   Europe/Uzhgorod: {
     Generic: Малхбален Европа,
@@ -2425,9 +2425,9 @@
     Daylight: Малхбален Европа, аьхкенан хан
   },
   Europe/Volgograd: {
-    Generic: Волгоград,
-    Standard: Волгоград (+0),
-    Daylight: Волгоград (+1)
+    Generic: Volgograd Time,
+    Standard: Volgograd Standard Time,
+    Daylight: Volgograd Daylight Time
   },
   Europe/Warsaw: {
     Generic: Юккъера Европа,
@@ -2450,12 +2450,12 @@
     Daylight: Юккъера Европа, аьхкенан хан
   },
   GB: {
-    Generic: Йоккха Британи,
+    Generic: Гринвичица юкъара хан,
     Standard: Гринвичица юкъара хан,
     Daylight: Британин, аьхкенан хан
   },
   GB-Eire: {
-    Generic: Йоккха Британи,
+    Generic: Гринвичица юкъара хан,
     Standard: Гринвичица юкъара хан,
     Daylight: Британин, аьхкенан хан
   },
@@ -2485,9 +2485,9 @@
     Daylight: Гринвичица юкъара хан
   },
   HST: {
-    Generic: UTC -10,
-    Standard: UTC (+0) -10,
-    Daylight: UTC (+1) -10
+    Generic: Гавайн-алеутийн хан,
+    Standard: Гавайн-алеутийн стандартан хан,
+    Daylight: Гавайн-алеутийн аьхкенан хан
   },
   Hongkong: {
     Generic: Гонконг,
@@ -2590,9 +2590,9 @@
     Daylight: Юккъера Европа, аьхкенан хан
   },
   MST: {
-    Generic: UTC -7,
-    Standard: UTC (+0) -7,
-    Daylight: UTC (+1) -7
+    Generic: Лаьмнийн хан (АЦШ),
+    Standard: Лаьмнийн стандартан хан (АЦШ),
+    Daylight: Лаьмнийн аьхкенан хан (АЦШ)
   },
   MST7MDT: {
     Generic: Лаьмнийн хан (АЦШ),
@@ -2885,14 +2885,14 @@
     Daylight: Сингапур
   },
   Turkey: {
-    Generic: Туркойчоь,
-    Standard: Туркойчоь (+0),
-    Daylight: Туркойчоь (+1)
+    Generic: Türkiye Time,
+    Standard: Türkiye Standard Time,
+    Daylight: Türkiye Daylight Time
   },
   UCT: {
-    Generic: UTC,
-    Standard: UTC (+0),
-    Daylight: UTC (+1)
+    Generic: Coordinated Universal Time,
+    Standard: Coordinated Universal Time,
+    Daylight: Coordinated Universal Time
   },
   US/Alaska: {
     Generic: Аляска,
@@ -2955,19 +2955,19 @@
     Daylight: Самоа, аьхкенан хан
   },
   UTC: {
-    Generic: UTC,
-    Standard: UTC (+0),
-    Daylight: UTC (+1)
+    Generic: Coordinated Universal Time,
+    Standard: Coordinated Universal Time,
+    Daylight: Coordinated Universal Time
   },
   Universal: {
-    Generic: UTC,
-    Standard: UTC (+0),
-    Daylight: UTC (+1)
+    Generic: Coordinated Universal Time,
+    Standard: Coordinated Universal Time,
+    Daylight: Coordinated Universal Time
   },
   W-SU: {
-    Generic: Москва,
-    Standard: Москва (+0),
-    Daylight: Москва (+1)
+    Generic: Moscow Time,
+    Standard: Moscow Standard Time,
+    Daylight: Moscow Daylight Time
   },
   WET: {
     Generic: Малхбузен Европа,
@@ -2975,8 +2975,8 @@
     Daylight: Малхбузен Европа, аьхкенан хан
   },
   Zulu: {
-    Generic: UTC,
-    Standard: UTC (+0),
-    Daylight: UTC (+1)
+    Generic: Coordinated Universal Time,
+    Standard: Coordinated Universal Time,
+    Daylight: Coordinated Universal Time
   }
 }

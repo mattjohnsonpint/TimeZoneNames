@@ -545,7 +545,7 @@
     Daylight: Sumartími í Klettafjöllum
   },
   America/Eirunepe: {
-    Generic: Brasilía,
+    Generic: Brasilía (staðaltími),
     Standard: Brasilía (staðaltími),
     Daylight: Brasilía (sumartími)
   },
@@ -580,9 +580,9 @@
     Daylight: Sumartími á Atlantshafssvæðinu
   },
   America/Godthab: {
-    Generic: Vestur-Grænlandstími,
-    Standard: Staðaltími á Vestur-Grænlandi,
-    Daylight: Sumartími á Vestur-Grænlandi
+    Generic: Grænland (staðaltími),
+    Standard: Grænland (staðaltími),
+    Daylight: Grænland (sumartími)
   },
   America/Goose_Bay: {
     Generic: Tími á Atlantshafssvæðinu,
@@ -880,9 +880,9 @@
     Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
   },
   America/Nuuk: {
-    Generic: Vestur-Grænlandstími,
-    Standard: Staðaltími á Vestur-Grænlandi,
-    Daylight: Sumartími á Vestur-Grænlandi
+    Generic: Grænland (staðaltími),
+    Standard: Grænland (staðaltími),
+    Daylight: Grænland (sumartími)
   },
   America/Ojinaga: {
     Generic: Tími í miðhluta Bandaríkjanna og Kanada,
@@ -920,7 +920,7 @@
     Daylight: Sumartími á Atlantshafssvæðinu
   },
   America/Porto_Acre: {
-    Generic: Brasilía,
+    Generic: Brasilía (staðaltími),
     Standard: Brasilía (staðaltími),
     Daylight: Brasilía (sumartími)
   },
@@ -965,7 +965,7 @@
     Daylight: Sumartími í miðhluta Bandaríkjanna og Kanada
   },
   America/Rio_Branco: {
-    Generic: Brasilía,
+    Generic: Brasilía (staðaltími),
     Standard: Brasilía (staðaltími),
     Daylight: Brasilía (sumartími)
   },
@@ -975,9 +975,9 @@
     Daylight: Sumartími í Argentínu
   },
   America/Santa_Isabel: {
-    Generic: Tími í Norðvestur-Mexíkó,
-    Standard: Staðaltími í Norðvestur-Mexíkó,
-    Daylight: Sumartími í Norðvestur-Mexíkó
+    Generic: Tími á Kyrrahafssvæðinu,
+    Standard: Staðaltími á Kyrrahafssvæðinu,
+    Daylight: Sumartími á Kyrrahafssvæðinu
   },
   America/Santarem: {
     Generic: Brasilíutími,
@@ -1000,9 +1000,9 @@
     Daylight: Sumartími í Brasilíu
   },
   America/Scoresbysund: {
-    Generic: Austur-Grænlandstími,
-    Standard: Staðaltími á Austur-Grænlandi,
-    Daylight: Sumartími á Austur-Grænlandi
+    Generic: Grænland (staðaltími),
+    Standard: Grænland (staðaltími),
+    Daylight: Grænland (sumartími)
   },
   America/Shiprock: {
     Generic: Tími í Klettafjöllum,
@@ -1110,9 +1110,9 @@
     Daylight: Sumartími í Klettafjöllum
   },
   Antarctica/Casey: {
-    Generic: Suðurskautslandið,
-    Standard: Suðurskautslandið (staðaltími),
-    Daylight: Suðurskautslandið (sumartími)
+    Generic: Tími í Vestur-Ástralíu,
+    Standard: Staðaltími í Vestur-Ástralíu,
+    Daylight: Sumartími í Vestur-Ástralíu
   },
   Antarctica/Davis: {
     Generic: Davis-tími,
@@ -1180,9 +1180,9 @@
     Daylight: Sumartími í Arabíu
   },
   Asia/Almaty: {
-    Generic: Tími í Austur-Kasakstan,
-    Standard: Tími í Austur-Kasakstan,
-    Daylight: Tími í Austur-Kasakstan
+    Generic: Tími í Kasakstan,
+    Standard: Tími í Kasakstan,
+    Daylight: Tími í Kasakstan
   },
   Asia/Amman: {
     Generic: Austur-Evróputími,
@@ -1190,19 +1190,19 @@
     Daylight: Sumartími í Austur-Evrópu
   },
   Asia/Anadyr: {
-    Generic: Anadyr,
+    Generic: Anadyr (staðaltími),
     Standard: Anadyr (staðaltími),
     Daylight: Anadyr (sumartími)
   },
   Asia/Aqtau: {
-    Generic: Tími í Vestur-Kasakstan,
-    Standard: Tími í Vestur-Kasakstan,
-    Daylight: Tími í Vestur-Kasakstan
+    Generic: Tími í Kasakstan,
+    Standard: Tími í Kasakstan,
+    Daylight: Tími í Kasakstan
   },
   Asia/Aqtobe: {
-    Generic: Tími í Vestur-Kasakstan,
-    Standard: Tími í Vestur-Kasakstan,
-    Daylight: Tími í Vestur-Kasakstan
+    Generic: Tími í Kasakstan,
+    Standard: Tími í Kasakstan,
+    Daylight: Tími í Kasakstan
   },
   Asia/Ashgabat: {
     Generic: Túrkmenistan-tími,
@@ -1215,9 +1215,9 @@
     Daylight: Sumartími í Túrkmenistan
   },
   Asia/Atyrau: {
-    Generic: Tími í Vestur-Kasakstan,
-    Standard: Tími í Vestur-Kasakstan,
-    Daylight: Tími í Vestur-Kasakstan
+    Generic: Tími í Kasakstan,
+    Standard: Tími í Kasakstan,
+    Daylight: Tími í Kasakstan
   },
   Asia/Baghdad: {
     Generic: Arabíutími,
@@ -1240,7 +1240,7 @@
     Daylight: Indókínatími
   },
   Asia/Barnaul: {
-    Generic: Barnaul,
+    Generic: Barnaul (staðaltími),
     Standard: Barnaul (staðaltími),
     Daylight: Barnaul (sumartími)
   },
@@ -1265,7 +1265,7 @@
     Daylight: Indlandstími
   },
   Asia/Chita: {
-    Generic: Chita,
+    Generic: Chita (staðaltími),
     Standard: Chita (staðaltími),
     Daylight: Chita (sumartími)
   },
@@ -1355,12 +1355,12 @@
     Daylight: Sumartími í Hovd
   },
   Asia/Irkutsk: {
-    Generic: Irkutsk,
+    Generic: Irkutsk (staðaltími),
     Standard: Irkutsk (staðaltími),
     Daylight: Irkutsk (sumartími)
   },
   Asia/Istanbul: {
-    Generic: Tyrkland,
+    Generic: Tyrkland (staðaltími),
     Standard: Tyrkland (staðaltími),
     Daylight: Tyrkland (sumartími)
   },
@@ -1385,7 +1385,7 @@
     Daylight: Afganistantími
   },
   Asia/Kamchatka: {
-    Generic: Kamtsjatka,
+    Generic: Kamtsjatka (staðaltími),
     Standard: Kamtsjatka (staðaltími),
     Daylight: Kamtsjatka (sumartími)
   },
@@ -1395,7 +1395,7 @@
     Daylight: Sumartími í Pakistan
   },
   Asia/Kashgar: {
-    Generic: Kína,
+    Generic: Kína (staðaltími),
     Standard: Kína (staðaltími),
     Daylight: Kína (sumartími)
   },
@@ -1410,7 +1410,7 @@
     Daylight: Nepaltími
   },
   Asia/Khandyga: {
-    Generic: Khandyga,
+    Generic: Khandyga (staðaltími),
     Standard: Khandyga (staðaltími),
     Daylight: Khandyga (sumartími)
   },
@@ -1420,7 +1420,7 @@
     Daylight: Indlandstími
   },
   Asia/Krasnoyarsk: {
-    Generic: Krasnoyarsk,
+    Generic: Krasnoyarsk (staðaltími),
     Standard: Krasnoyarsk (staðaltími),
     Daylight: Krasnoyarsk (sumartími)
   },
@@ -1450,7 +1450,7 @@
     Daylight: Sumartími í Kína
   },
   Asia/Magadan: {
-    Generic: Magadan,
+    Generic: Magadan (staðaltími),
     Standard: Magadan (staðaltími),
     Daylight: Magadan (sumartími)
   },
@@ -1475,24 +1475,24 @@
     Daylight: Sumartími í Austur-Evrópu
   },
   Asia/Novokuznetsk: {
-    Generic: Novokuznetsk,
+    Generic: Novokuznetsk (staðaltími),
     Standard: Novokuznetsk (staðaltími),
     Daylight: Novokuznetsk (sumartími)
   },
   Asia/Novosibirsk: {
-    Generic: Novosibirsk,
+    Generic: Novosibirsk (staðaltími),
     Standard: Novosibirsk (staðaltími),
     Daylight: Novosibirsk (sumartími)
   },
   Asia/Omsk: {
-    Generic: Omsk,
+    Generic: Omsk (staðaltími),
     Standard: Omsk (staðaltími),
     Daylight: Omsk (sumartími)
   },
   Asia/Oral: {
-    Generic: Tími í Vestur-Kasakstan,
-    Standard: Tími í Vestur-Kasakstan,
-    Daylight: Tími í Vestur-Kasakstan
+    Generic: Tími í Kasakstan,
+    Standard: Tími í Kasakstan,
+    Daylight: Tími í Kasakstan
   },
   Asia/Phnom_Penh: {
     Generic: Indókínatími,
@@ -1515,14 +1515,14 @@
     Daylight: Sumartími í Arabíu
   },
   Asia/Qostanay: {
-    Generic: Tími í Austur-Kasakstan,
-    Standard: Tími í Austur-Kasakstan,
-    Daylight: Tími í Austur-Kasakstan
+    Generic: Tími í Kasakstan,
+    Standard: Tími í Kasakstan,
+    Daylight: Tími í Kasakstan
   },
   Asia/Qyzylorda: {
-    Generic: Tími í Vestur-Kasakstan,
-    Standard: Tími í Vestur-Kasakstan,
-    Daylight: Tími í Vestur-Kasakstan
+    Generic: Tími í Kasakstan,
+    Standard: Tími í Kasakstan,
+    Daylight: Tími í Kasakstan
   },
   Asia/Rangoon: {
     Generic: Mjanmar-tími,
@@ -1540,7 +1540,7 @@
     Daylight: Indókínatími
   },
   Asia/Sakhalin: {
-    Generic: Sakhalin,
+    Generic: Sakhalin (staðaltími),
     Standard: Sakhalin (staðaltími),
     Daylight: Sakhalin (sumartími)
   },
@@ -1565,7 +1565,7 @@
     Daylight: Singapúrtími
   },
   Asia/Srednekolymsk: {
-    Generic: Srednekolymsk,
+    Generic: Srednekolymsk (staðaltími),
     Standard: Srednekolymsk (staðaltími),
     Daylight: Srednekolymsk (sumartími)
   },
@@ -1610,7 +1610,7 @@
     Daylight: Sumartími í Japan
   },
   Asia/Tomsk: {
-    Generic: Tomsk,
+    Generic: Tomsk (staðaltími),
     Standard: Tomsk (staðaltími),
     Daylight: Tomsk (sumartími)
   },
@@ -1630,12 +1630,12 @@
     Daylight: Sumartími í Úlan Bator
   },
   Asia/Urumqi: {
-    Generic: Kína,
+    Generic: Kína (staðaltími),
     Standard: Kína (staðaltími),
     Daylight: Kína (sumartími)
   },
   Asia/Ust-Nera: {
-    Generic: Ust-Nera,
+    Generic: Ust-Nera (staðaltími),
     Standard: Ust-Nera (staðaltími),
     Daylight: Ust-Nera (sumartími)
   },
@@ -1645,12 +1645,12 @@
     Daylight: Indókínatími
   },
   Asia/Vladivostok: {
-    Generic: Vladivostok,
+    Generic: Vladivostok (staðaltími),
     Standard: Vladivostok (staðaltími),
     Daylight: Vladivostok (sumartími)
   },
   Asia/Yakutsk: {
-    Generic: Yakutsk,
+    Generic: Yakutsk (staðaltími),
     Standard: Yakutsk (staðaltími),
     Daylight: Yakutsk (sumartími)
   },
@@ -1660,7 +1660,7 @@
     Daylight: Mjanmar-tími
   },
   Asia/Yekaterinburg: {
-    Generic: Yekaterinburg,
+    Generic: Yekaterinburg (staðaltími),
     Standard: Yekaterinburg (staðaltími),
     Daylight: Yekaterinburg (sumartími)
   },
@@ -1845,7 +1845,7 @@
     Daylight: Sumartími í Mið-Ástralíu
   },
   Brazil/Acre: {
-    Generic: Brasilía,
+    Generic: Brasilía (staðaltími),
     Standard: Brasilía (staðaltími),
     Daylight: Brasilía (sumartími)
   },
@@ -1935,9 +1935,9 @@
     Daylight: Sumartími í Austur-Evrópu
   },
   EST: {
-    Generic: Samræmdur alþjóðlegur tími -5,
-    Standard: Samræmdur alþjóðlegur tími -5,
-    Daylight: Samræmdur alþjóðlegur tími -5
+    Generic: Tími í austurhluta Bandaríkjanna og Kanada,
+    Standard: Staðaltími í austurhluta Bandaríkjanna og Kanada,
+    Daylight: Sumartími í austurhluta Bandaríkjanna og Kanada
   },
   EST5EDT: {
     Generic: Tími í austurhluta Bandaríkjanna og Kanada,
@@ -1950,7 +1950,7 @@
     Daylight: Sumartími í Austur-Evrópu
   },
   Eire: {
-    Generic: Írland,
+    Generic: Greenwich-staðaltími,
     Standard: Greenwich-staðaltími,
     Daylight: Sumartími á Írlandi
   },
@@ -2140,7 +2140,7 @@
     Daylight: Sumartími í Mið-Evrópu
   },
   Europe/Astrakhan: {
-    Generic: Astrakhan,
+    Generic: Astrakhan (staðaltími),
     Standard: Astrakhan (staðaltími),
     Daylight: Astrakhan (sumartími)
   },
@@ -2150,7 +2150,7 @@
     Daylight: Sumartími í Austur-Evrópu
   },
   Europe/Belfast: {
-    Generic: Bretland,
+    Generic: Greenwich-staðaltími,
     Standard: Greenwich-staðaltími,
     Daylight: Sumartími í Bretlandi
   },
@@ -2200,7 +2200,7 @@
     Daylight: Sumartími í Mið-Evrópu
   },
   Europe/Dublin: {
-    Generic: Írland,
+    Generic: Greenwich-staðaltími,
     Standard: Greenwich-staðaltími,
     Daylight: Sumartími á Írlandi
   },
@@ -2225,7 +2225,7 @@
     Daylight: Greenwich-staðaltími
   },
   Europe/Istanbul: {
-    Generic: Tyrkland,
+    Generic: Tyrkland (staðaltími),
     Standard: Tyrkland (staðaltími),
     Daylight: Tyrkland (sumartími)
   },
@@ -2235,7 +2235,7 @@
     Daylight: Greenwich-staðaltími
   },
   Europe/Kaliningrad: {
-    Generic: Kaliningrad,
+    Generic: Kaliningrad (staðaltími),
     Standard: Kaliningrad (staðaltími),
     Daylight: Kaliningrad (sumartími)
   },
@@ -2245,7 +2245,7 @@
     Daylight: Sumartími í Austur-Evrópu
   },
   Europe/Kirov: {
-    Generic: Kirov,
+    Generic: Kirov (staðaltími),
     Standard: Kirov (staðaltími),
     Daylight: Kirov (sumartími)
   },
@@ -2265,7 +2265,7 @@
     Daylight: Sumartími í Mið-Evrópu
   },
   Europe/London: {
-    Generic: Bretland,
+    Generic: Greenwich-staðaltími,
     Standard: Greenwich-staðaltími,
     Daylight: Sumartími í Bretlandi
   },
@@ -2300,7 +2300,7 @@
     Daylight: Sumartími í Mið-Evrópu
   },
   Europe/Moscow: {
-    Generic: Moskva,
+    Generic: Moskva (staðaltími),
     Standard: Moskva (staðaltími),
     Daylight: Moskva (sumartími)
   },
@@ -2340,7 +2340,7 @@
     Daylight: Sumartími í Mið-Evrópu
   },
   Europe/Samara: {
-    Generic: Samara,
+    Generic: Samara (staðaltími),
     Standard: Samara (staðaltími),
     Daylight: Samara (sumartími)
   },
@@ -2355,7 +2355,7 @@
     Daylight: Sumartími í Mið-Evrópu
   },
   Europe/Saratov: {
-    Generic: Saratov,
+    Generic: Saratov (staðaltími),
     Standard: Saratov (staðaltími),
     Daylight: Saratov (sumartími)
   },
@@ -2395,7 +2395,7 @@
     Daylight: Sumartími í Austur-Evrópu
   },
   Europe/Ulyanovsk: {
-    Generic: Ulyanovsk,
+    Generic: Ulyanovsk (staðaltími),
     Standard: Ulyanovsk (staðaltími),
     Daylight: Ulyanovsk (sumartími)
   },
@@ -2425,7 +2425,7 @@
     Daylight: Sumartími í Austur-Evrópu
   },
   Europe/Volgograd: {
-    Generic: Volgograd,
+    Generic: Volgograd (staðaltími),
     Standard: Volgograd (staðaltími),
     Daylight: Volgograd (sumartími)
   },
@@ -2450,12 +2450,12 @@
     Daylight: Sumartími í Mið-Evrópu
   },
   GB: {
-    Generic: Bretland,
+    Generic: Greenwich-staðaltími,
     Standard: Greenwich-staðaltími,
     Daylight: Sumartími í Bretlandi
   },
   GB-Eire: {
-    Generic: Bretland,
+    Generic: Greenwich-staðaltími,
     Standard: Greenwich-staðaltími,
     Daylight: Sumartími í Bretlandi
   },
@@ -2485,9 +2485,9 @@
     Daylight: Greenwich-staðaltími
   },
   HST: {
-    Generic: Samræmdur alþjóðlegur tími -10,
-    Standard: Samræmdur alþjóðlegur tími -10,
-    Daylight: Samræmdur alþjóðlegur tími -10
+    Generic: Tími á Havaí og Aleúta,
+    Standard: Staðaltími á Havaí og Aleúta,
+    Daylight: Sumartími á Havaí og Aleúta
   },
   Hongkong: {
     Generic: Hong Kong-tími,
@@ -2590,9 +2590,9 @@
     Daylight: Sumartími í Mið-Evrópu
   },
   MST: {
-    Generic: Samræmdur alþjóðlegur tími -7,
-    Standard: Samræmdur alþjóðlegur tími -7,
-    Daylight: Samræmdur alþjóðlegur tími -7
+    Generic: Tími í Klettafjöllum,
+    Standard: Staðaltími í Klettafjöllum,
+    Daylight: Sumartími í Klettafjöllum
   },
   MST7MDT: {
     Generic: Tími í Klettafjöllum,
@@ -2885,7 +2885,7 @@
     Daylight: Singapúrtími
   },
   Turkey: {
-    Generic: Tyrkland,
+    Generic: Tyrkland (staðaltími),
     Standard: Tyrkland (staðaltími),
     Daylight: Tyrkland (sumartími)
   },
@@ -2965,7 +2965,7 @@
     Daylight: Samræmdur alþjóðlegur tími
   },
   W-SU: {
-    Generic: Moskva,
+    Generic: Moskva (staðaltími),
     Standard: Moskva (staðaltími),
     Daylight: Moskva (sumartími)
   },

@@ -580,9 +580,9 @@
     Daylight: एट्लान्टिक दिवा समय
   },
   America/Godthab: {
-    Generic: पश्चिमी ग्रीनल्यान्डको समय,
-    Standard: पश्चिमी ग्रीनल्यान्डको मानक समय,
-    Daylight: पश्चिमी ग्रीनल्यान्डको ग्रीष्मकालीन समय
+    Generic: ग्रिनल्याण्ड समय,
+    Standard: ग्रिनल्याण्ड (+०),
+    Daylight: ग्रिनल्याण्ड (+१)
   },
   America/Goose_Bay: {
     Generic: एट्लान्टिक समय,
@@ -880,9 +880,9 @@
     Daylight: केन्द्रीय दिवा समय
   },
   America/Nuuk: {
-    Generic: पश्चिमी ग्रीनल्यान्डको समय,
-    Standard: पश्चिमी ग्रीनल्यान्डको मानक समय,
-    Daylight: पश्चिमी ग्रीनल्यान्डको ग्रीष्मकालीन समय
+    Generic: ग्रिनल्याण्ड समय,
+    Standard: ग्रिनल्याण्ड (+०),
+    Daylight: ग्रिनल्याण्ड (+१)
   },
   America/Ojinaga: {
     Generic: केन्द्रीय समय,
@@ -975,9 +975,9 @@
     Daylight: अर्जेनटिनी ग्रीष्मकालीन समय
   },
   America/Santa_Isabel: {
-    Generic: उत्तर पश्चिम मेक्सिको समय,
-    Standard: उत्तर पश्चिम मेक्सिकोको मानक समय,
-    Daylight: उत्तर पश्चिम मेक्सिकोको दिवा समय
+    Generic: प्यासिफिक समय,
+    Standard: प्यासिफिक मानक समय,
+    Daylight: प्यासिफिक दिवा समय
   },
   America/Santarem: {
     Generic: ब्राजिलीया समय,
@@ -1000,9 +1000,9 @@
     Daylight: ब्राजिलीया ग्रीष्मकालीन समय
   },
   America/Scoresbysund: {
-    Generic: पूर्वी ग्रीनल्यान्डको समय,
-    Standard: पूर्वी ग्रीनल्यान्डको मानक समय,
-    Daylight: पूर्वी ग्रीनल्यान्डको ग्रीष्मकालीन समय
+    Generic: ग्रिनल्याण्ड समय,
+    Standard: ग्रिनल्याण्ड (+०),
+    Daylight: ग्रिनल्याण्ड (+१)
   },
   America/Shiprock: {
     Generic: हिमाली समय,
@@ -1110,9 +1110,9 @@
     Daylight: हिमाली दिवा समय
   },
   Antarctica/Casey: {
-    Generic: अन्टारटिका समय,
-    Standard: अन्टारटिका (+०),
-    Daylight: अन्टारटिका (+१)
+    Generic: पश्चिमी अस्ट्रेलिया समय,
+    Standard: पश्चिमी अस्ट्रेलिया मानक समय,
+    Daylight: पश्चिमी अस्ट्रेलिया दिवा समय
   },
   Antarctica/Davis: {
     Generic: डेभिस समय,
@@ -1180,9 +1180,9 @@
     Daylight: अरबी दिवा समय
   },
   Asia/Almaty: {
-    Generic: पूर्वी काजकस्तान समय,
-    Standard: पूर्वी काजकस्तान समय,
-    Daylight: पूर्वी काजकस्तान समय
+    Generic: काजकस्तानको समय,
+    Standard: काजकस्तानको समय,
+    Daylight: काजकस्तानको समय
   },
   Asia/Amman: {
     Generic: पूर्वी युरोपेली समय,
@@ -1195,14 +1195,14 @@
     Daylight: आनाडियर (+१)
   },
   Asia/Aqtau: {
-    Generic: पश्चिम काजकस्तान समय,
-    Standard: पश्चिम काजकस्तान समय,
-    Daylight: पश्चिम काजकस्तान समय
+    Generic: काजकस्तानको समय,
+    Standard: काजकस्तानको समय,
+    Daylight: काजकस्तानको समय
   },
   Asia/Aqtobe: {
-    Generic: पश्चिम काजकस्तान समय,
-    Standard: पश्चिम काजकस्तान समय,
-    Daylight: पश्चिम काजकस्तान समय
+    Generic: काजकस्तानको समय,
+    Standard: काजकस्तानको समय,
+    Daylight: काजकस्तानको समय
   },
   Asia/Ashgabat: {
     Generic: तुर्कमेनिस्तान समय,
@@ -1215,9 +1215,9 @@
     Daylight: तुर्कमेनिस्तान ग्रीष्मकालीन मानक समय
   },
   Asia/Atyrau: {
-    Generic: पश्चिम काजकस्तान समय,
-    Standard: पश्चिम काजकस्तान समय,
-    Daylight: पश्चिम काजकस्तान समय
+    Generic: काजकस्तानको समय,
+    Standard: काजकस्तानको समय,
+    Daylight: काजकस्तानको समय
   },
   Asia/Baghdad: {
     Generic: अरबी समय,
@@ -1360,9 +1360,9 @@
     Daylight: इर्कुत्स्क (+१)
   },
   Asia/Istanbul: {
-    Generic: टर्की समय,
-    Standard: टर्की (+०),
-    Daylight: टर्की (+१)
+    Generic: तुर्किये समय,
+    Standard: तुर्किये (+०),
+    Daylight: तुर्किये (+१)
   },
   Asia/Jakarta: {
     Generic: पश्चिमी इन्डोनेशिया समय,
@@ -1490,9 +1490,9 @@
     Daylight: ओम्स्क (+१)
   },
   Asia/Oral: {
-    Generic: पश्चिम काजकस्तान समय,
-    Standard: पश्चिम काजकस्तान समय,
-    Daylight: पश्चिम काजकस्तान समय
+    Generic: काजकस्तानको समय,
+    Standard: काजकस्तानको समय,
+    Daylight: काजकस्तानको समय
   },
   Asia/Phnom_Penh: {
     Generic: इन्डोचाइना समय,
@@ -1515,14 +1515,14 @@
     Daylight: अरबी दिवा समय
   },
   Asia/Qostanay: {
-    Generic: पूर्वी काजकस्तान समय,
-    Standard: पूर्वी काजकस्तान समय,
-    Daylight: पूर्वी काजकस्तान समय
+    Generic: काजकस्तानको समय,
+    Standard: काजकस्तानको समय,
+    Daylight: काजकस्तानको समय
   },
   Asia/Qyzylorda: {
-    Generic: पश्चिम काजकस्तान समय,
-    Standard: पश्चिम काजकस्तान समय,
-    Daylight: पश्चिम काजकस्तान समय
+    Generic: काजकस्तानको समय,
+    Standard: काजकस्तानको समय,
+    Daylight: काजकस्तानको समय
   },
   Asia/Rangoon: {
     Generic: म्यानमार समय,
@@ -1935,9 +1935,9 @@
     Daylight: पूर्वी युरोपेली ग्रीष्मकालीन समय
   },
   EST: {
-    Generic: समन्वित विश्व समय -5,
-    Standard: समन्वित विश्व समय -5,
-    Daylight: समन्वित विश्व समय -5
+    Generic: पूर्वी समय,
+    Standard: पूर्वी मानक समय,
+    Daylight: पूर्वी दिवा समय
   },
   EST5EDT: {
     Generic: पूर्वी समय,
@@ -2225,9 +2225,9 @@
     Daylight: ग्रीनविच मिन समय
   },
   Europe/Istanbul: {
-    Generic: टर्की समय,
-    Standard: टर्की (+०),
-    Daylight: टर्की (+१)
+    Generic: तुर्किये समय,
+    Standard: तुर्किये (+०),
+    Daylight: तुर्किये (+१)
   },
   Europe/Jersey: {
     Generic: ग्रीनविच मिन समय,
@@ -2485,9 +2485,9 @@
     Daylight: ग्रीनविच मिन समय
   },
   HST: {
-    Generic: समन्वित विश्व समय -10,
-    Standard: समन्वित विश्व समय -10,
-    Daylight: समन्वित विश्व समय -10
+    Generic: हवाई-एलुटियन समय,
+    Standard: हवाई-एलुटियन मानक समय,
+    Daylight: हवाई-एलुटियन दिवा समय
   },
   Hongkong: {
     Generic: हङकङ समय,
@@ -2590,9 +2590,9 @@
     Daylight: केन्द्रीय युरोपेली ग्रीष्मकालीन समय
   },
   MST: {
-    Generic: समन्वित विश्व समय -7,
-    Standard: समन्वित विश्व समय -7,
-    Daylight: समन्वित विश्व समय -7
+    Generic: हिमाली समय,
+    Standard: हिमाली मानक समय,
+    Daylight: हिमाली दिवा समय
   },
   MST7MDT: {
     Generic: हिमाली समय,
@@ -2885,9 +2885,9 @@
     Daylight: सिंगापुर मानक समय
   },
   Turkey: {
-    Generic: टर्की समय,
-    Standard: टर्की (+०),
-    Daylight: टर्की (+१)
+    Generic: तुर्किये समय,
+    Standard: तुर्किये (+०),
+    Daylight: तुर्किये (+१)
   },
   UCT: {
     Generic: समन्वित विश्व समय,
