@@ -15,9 +15,9 @@ Nuget Installation
 PM> Install-Package TimeZoneNames
 ```
 
-As of version 6.0.0, *TimeZoneConverter* works with all of the following:
+As of version 7.0.0, *TimeZoneConverter* works with all of the following:
 
-- .NET 5 or greater
+- .NET 6 or greater
 - .NET Core 2.0 or greater
 - .NET Framework 4.6.2 and greater
 
