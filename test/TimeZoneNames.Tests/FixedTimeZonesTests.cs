@@ -1,6 +1,5 @@
 ﻿namespace TimeZoneNames.Tests;
 
-[UsesVerify]
 public class FixedTimeZonesTests
 {
     [Fact]

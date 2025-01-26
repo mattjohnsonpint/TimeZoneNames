@@ -3,7 +3,6 @@ using Xunit.Abstractions;
 
 namespace TimeZoneNames.Tests;
 
-[UsesVerify]
 public class TimeZoneNamesTest
 {
     private readonly ITestOutputHelper _output;

@@ -5,7 +5,6 @@ using Xunit.Abstractions;
 
 namespace TimeZoneNames.Tests;
 
-[UsesVerify]
 public class DisplayNamesTests
 {
     private readonly ITestOutputHelper _output;

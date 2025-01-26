@@ -108,7 +108,7 @@ public class TimeZoneNamesForCountriesTests
             {
                 var zones = TZNames.GetTimeZonesForCountry(region, "en");
                 _output.WriteLine(region + ": " + zones.Count);
-                Assert.NotEqual(0, zones.Count);
+                Assert.NotEmpty(zones);
             }
             catch
             {
