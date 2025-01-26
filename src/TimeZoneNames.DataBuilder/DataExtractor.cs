@@ -237,7 +237,13 @@ public class DataExtractor
                 }
 
                 // use the zone-precedence.txt file when we need a tiebreaker
-                return precedence.Intersect(ids).First();
+                var s = precedence.Intersect(ids).FirstOrDefault();
+                if (s != null)
+                {
+                    return s;
+                } else {
+                    throw new InvalidOperationException("No tiebreaker found for " + string.Join(", ", ids));
+                }
             })
             .ToList();
 
