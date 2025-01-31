@@ -25,12 +25,6 @@ public static class Downloader
         await DownloadAsync(dataUrl, dir);
     }
 
-    public static async Task DownloadTZResAsync(string dir)
-    {
-        const string url = "https://raw.githubusercontent.com/tomkludy/TimeZoneWindowsResourceExtractor/master/TZResScraper/tzinfo.json";
-        await DownloadAsync(url, dir);
-    }
-
     private static async Task DownloadAsync(string url, string dir)
     {
         if (!Directory.Exists(dir))
@@ -61,7 +55,7 @@ public static class Downloader
                 continue;
             }
 
-            var subPath = entry.Key;
+            var subPath = entry.Key!;
             if (Path.DirectorySeparatorChar != '/')
             {
                 subPath = subPath.Replace('/', Path.DirectorySeparatorChar);

@@ -272,7 +272,7 @@
   America/Adak: {
     Generic: Akud n Haway-Aliwsyan,
     Standard: Akud amezday n Haway-Aliwsyan,
-    Daylight: Akud n unebu n Haway-Aliwsyan
+    Daylight: Akud n unebdu n Haway-Aliwsyan
   },
   America/Anchorage: {
     Generic: Akud n Alaska,
@@ -377,7 +377,7 @@
   America/Atka: {
     Generic: Akud n Haway-Aliwsyan,
     Standard: Akud amezday n Haway-Aliwsyan,
-    Daylight: Akud n unebu n Haway-Aliwsyan
+    Daylight: Akud n unebdu n Haway-Aliwsyan
   },
   America/Bahia: {
     Generic: Akud n Braẓilya,
@@ -580,9 +580,9 @@
     Daylight: Akud aṭlasan n unebdu
   },
   America/Godthab: {
-    Generic: Akud n Grinland n umalu,
-    Standard: Akud amezday n Grinland n umalu,
-    Daylight: Akud n unebdu n Grinland n umalu
+    Generic: Akud: Grunland,
+    Standard: Grunland Akud amezday,
+    Daylight: Grunland Akud n unebdu
   },
   America/Goose_Bay: {
     Generic: Akud aṭlasan,
@@ -880,9 +880,9 @@
     Daylight: Akud n unebdu n tlemmast n Marikan
   },
   America/Nuuk: {
-    Generic: Akud n Grinland n umalu,
-    Standard: Akud amezday n Grinland n umalu,
-    Daylight: Akud n unebdu n Grinland n umalu
+    Generic: Akud: Grunland,
+    Standard: Grunland Akud amezday,
+    Daylight: Grunland Akud n unebdu
   },
   America/Ojinaga: {
     Generic: Akud n tlemmast n Marikan,
@@ -975,9 +975,9 @@
     Daylight: Akud n unebdu n Arjuntin
   },
   America/Santa_Isabel: {
-    Generic: Akud n ugafa amalu n Miksik,
-    Standard: Akud amezday n ugafa amalu n Miksik,
-    Daylight: Akud n unebdu n ugafa amalu n Miksik
+    Generic: Akud amelwi,
+    Standard: Akud amezday amelwi,
+    Daylight: Akud umelwi n unebdu
   },
   America/Santarem: {
     Generic: Akud n Braẓilya,
@@ -1000,9 +1000,9 @@
     Daylight: Akud n unebdu n Braẓilya
   },
   America/Scoresbysund: {
-    Generic: Akud n Grinland n usammar,
-    Standard: Akud amezday n Grinland n usammar,
-    Daylight: Akud n unebdu n Grinland n usammar
+    Generic: Akud: Grunland,
+    Standard: Grunland Akud amezday,
+    Daylight: Grunland Akud n unebdu
   },
   America/Shiprock: {
     Generic: Akud n yidurar n Marikan,
@@ -1110,9 +1110,9 @@
     Daylight: Akud n unebdu n yidurar n Marikan
   },
   Antarctica/Casey: {
-    Generic: Akud: Anṭarktik,
-    Standard: Anṭarktik Akud amezday,
-    Daylight: Anṭarktik Akud n unebdu
+    Generic: Akud n Ustralya n umalu,
+    Standard: Akud amezday n Ustralya n umalu,
+    Daylight: Akud n unebdu Ustralya n umalu
   },
   Antarctica/Davis: {
     Generic: Akud n Davis,
@@ -1180,9 +1180,9 @@
     Daylight: Akud aɛrab n unebdu
   },
   Asia/Almaty: {
-    Generic: Akud n usammar n Kazaxistan,
-    Standard: Akud n usammar n Kazaxistan,
-    Daylight: Akud n usammar n Kazaxistan
+    Generic: Akud: Kazaxistan,
+    Standard: Kazaxistan Akud amezday,
+    Daylight: Kazaxistan Akud n unebdu
   },
   Asia/Amman: {
     Generic: Akud n Turuft n usammar,
@@ -1195,14 +1195,14 @@
     Daylight: Anadir Akud n unebdu
   },
   Asia/Aqtau: {
-    Generic: Akud n n umalu n Kazaxistan,
-    Standard: Akud n n umalu n Kazaxistan,
-    Daylight: Akud n n umalu n Kazaxistan
+    Generic: Akud: Kazaxistan,
+    Standard: Kazaxistan Akud amezday,
+    Daylight: Kazaxistan Akud n unebdu
   },
   Asia/Aqtobe: {
-    Generic: Akud n n umalu n Kazaxistan,
-    Standard: Akud n n umalu n Kazaxistan,
-    Daylight: Akud n n umalu n Kazaxistan
+    Generic: Akud: Kazaxistan,
+    Standard: Kazaxistan Akud amezday,
+    Daylight: Kazaxistan Akud n unebdu
   },
   Asia/Ashgabat: {
     Generic: Akud n Turkmanistan,
@@ -1215,9 +1215,9 @@
     Daylight: Akud n unebdu n Turkmanistan
   },
   Asia/Atyrau: {
-    Generic: Akud n n umalu n Kazaxistan,
-    Standard: Akud n n umalu n Kazaxistan,
-    Daylight: Akud n n umalu n Kazaxistan
+    Generic: Akud: Kazaxistan,
+    Standard: Kazaxistan Akud amezday,
+    Daylight: Kazaxistan Akud n unebdu
   },
   Asia/Baghdad: {
     Generic: Akud aɛrab,
@@ -1490,9 +1490,9 @@
     Daylight: Omsk Akud n unebdu
   },
   Asia/Oral: {
-    Generic: Akud n n umalu n Kazaxistan,
-    Standard: Akud n n umalu n Kazaxistan,
-    Daylight: Akud n n umalu n Kazaxistan
+    Generic: Akud: Kazaxistan,
+    Standard: Kazaxistan Akud amezday,
+    Daylight: Kazaxistan Akud n unebdu
   },
   Asia/Phnom_Penh: {
     Generic: Akud n Inducin,
@@ -1515,14 +1515,14 @@
     Daylight: Akud aɛrab n unebdu
   },
   Asia/Qostanay: {
-    Generic: Akud n usammar n Kazaxistan,
-    Standard: Akud n usammar n Kazaxistan,
-    Daylight: Akud n usammar n Kazaxistan
+    Generic: Akud: Kazaxistan,
+    Standard: Kazaxistan Akud amezday,
+    Daylight: Kazaxistan Akud n unebdu
   },
   Asia/Qyzylorda: {
-    Generic: Akud n n umalu n Kazaxistan,
-    Standard: Akud n n umalu n Kazaxistan,
-    Daylight: Akud n n umalu n Kazaxistan
+    Generic: Akud: Kazaxistan,
+    Standard: Kazaxistan Akud amezday,
+    Daylight: Kazaxistan Akud n unebdu
   },
   Asia/Rangoon: {
     Generic: Akud n Myanmar,
@@ -1935,9 +1935,9 @@
     Daylight: Akud n unebdu n Turuft n usammar
   },
   EST: {
-    Generic: Akud agraɣlan imyuddsen -5,
-    Standard: Akud agraɣlan imyuddsen -5,
-    Daylight: Akud agraɣlan imyuddsen -5
+    Generic: Akud n usammar n Marikan,
+    Standard: Akud amezday n usammar n Marikan,
+    Daylight: Akud n unebdu n usammar n Marikan
   },
   EST5EDT: {
     Generic: Akud n usammar n Marikan,
@@ -2485,9 +2485,9 @@
     Daylight: Akud alemmas n Greenwich
   },
   HST: {
-    Generic: Akud agraɣlan imyuddsen -10,
-    Standard: Akud agraɣlan imyuddsen -10,
-    Daylight: Akud agraɣlan imyuddsen -10
+    Generic: Akud n Haway-Aliwsyan,
+    Standard: Akud amezday n Haway-Aliwsyan,
+    Daylight: Akud n unebdu n Haway-Aliwsyan
   },
   Hongkong: {
     Generic: Akud n Hung Kung,
@@ -2590,9 +2590,9 @@
     Daylight: Akud n unebdu n Turuft talemmast
   },
   MST: {
-    Generic: Akud agraɣlan imyuddsen -7,
-    Standard: Akud agraɣlan imyuddsen -7,
-    Daylight: Akud agraɣlan imyuddsen -7
+    Generic: Akud n yidurar n Marikan,
+    Standard: Akud amezday n yidurar n Marikan,
+    Daylight: Akud n unebdu n yidurar n Marikan
   },
   MST7MDT: {
     Generic: Akud n yidurar n Marikan,
@@ -2717,12 +2717,12 @@
   Pacific/Honolulu: {
     Generic: Akud n Haway-Aliwsyan,
     Standard: Akud amezday n Haway-Aliwsyan,
-    Daylight: Akud n unebu n Haway-Aliwsyan
+    Daylight: Akud n unebdu n Haway-Aliwsyan
   },
   Pacific/Johnston: {
     Generic: Akud n Haway-Aliwsyan,
     Standard: Akud amezday n Haway-Aliwsyan,
-    Daylight: Akud n unebu n Haway-Aliwsyan
+    Daylight: Akud n unebdu n Haway-Aliwsyan
   },
   Pacific/Kanton: {
     Generic: Akud n Tegzirin n Finiks,
@@ -2902,7 +2902,7 @@
   US/Aleutian: {
     Generic: Akud n Haway-Aliwsyan,
     Standard: Akud amezday n Haway-Aliwsyan,
-    Daylight: Akud n unebu n Haway-Aliwsyan
+    Daylight: Akud n unebdu n Haway-Aliwsyan
   },
   US/Arizona: {
     Generic: Akud n yidurar n Marikan,
@@ -2927,7 +2927,7 @@
   US/Hawaii: {
     Generic: Akud n Haway-Aliwsyan,
     Standard: Akud amezday n Haway-Aliwsyan,
-    Daylight: Akud n unebu n Haway-Aliwsyan
+    Daylight: Akud n unebdu n Haway-Aliwsyan
   },
   US/Indiana-Starke: {
     Generic: Akud n tlemmast n Marikan,

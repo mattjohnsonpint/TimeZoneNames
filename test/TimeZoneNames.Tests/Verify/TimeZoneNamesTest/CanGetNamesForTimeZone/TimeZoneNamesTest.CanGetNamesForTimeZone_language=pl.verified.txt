@@ -580,9 +580,9 @@
     Daylight: czas atlantycki letni
   },
   America/Godthab: {
-    Generic: czas Grenlandia Zachodnia,
-    Standard: Grenlandia Zachodnia (czas standardowy),
-    Daylight: Grenlandia Zachodnia (czas letni)
+    Generic: czas: Grenlandia,
+    Standard: Grenlandia (czas standardowy),
+    Daylight: Grenlandia (czas letni)
   },
   America/Goose_Bay: {
     Generic: czas atlantycki,
@@ -880,9 +880,9 @@
     Daylight: czas środkowoamerykański letni
   },
   America/Nuuk: {
-    Generic: czas Grenlandia Zachodnia,
-    Standard: Grenlandia Zachodnia (czas standardowy),
-    Daylight: Grenlandia Zachodnia (czas letni)
+    Generic: czas: Grenlandia,
+    Standard: Grenlandia (czas standardowy),
+    Daylight: Grenlandia (czas letni)
   },
   America/Ojinaga: {
     Generic: czas środkowoamerykański,
@@ -975,9 +975,9 @@
     Daylight: Argentyna (czas letni)
   },
   America/Santa_Isabel: {
-    Generic: czas Meksyk Północno-Zachodni,
-    Standard: Meksyk Północno-Zachodni (czas standardowy),
-    Daylight: Meksyk Północno-Zachodni (czas letni)
+    Generic: czas pacyficzny,
+    Standard: czas pacyficzny standardowy,
+    Daylight: czas pacyficzny letni
   },
   America/Santarem: {
     Generic: czas Brasília,
@@ -1000,9 +1000,9 @@
     Daylight: Brasília (czas letni)
   },
   America/Scoresbysund: {
-    Generic: czas Grenlandia Wschodnia,
-    Standard: Grenlandia Wschodnia (czas standardowy),
-    Daylight: Grenlandia Wschodnia (czas letni)
+    Generic: czas: Grenlandia,
+    Standard: Grenlandia (czas standardowy),
+    Daylight: Grenlandia (czas letni)
   },
   America/Shiprock: {
     Generic: czas górski,
@@ -1110,9 +1110,9 @@
     Daylight: czas górski letni
   },
   Antarctica/Casey: {
-    Generic: czas: Antarktyda,
-    Standard: Antarktyda (czas standardowy),
-    Daylight: Antarktyda (czas letni)
+    Generic: czas zachodnioaustralijski,
+    Standard: czas zachodnioaustralijski standardowy,
+    Daylight: czas zachodnioaustralijski letni
   },
   Antarctica/Davis: {
     Generic: czas Davis,
@@ -1180,9 +1180,9 @@
     Daylight: Półwysep Arabski (czas letni)
   },
   Asia/Almaty: {
-    Generic: czas Kazachstan Wschodni,
-    Standard: czas Kazachstan Wschodni,
-    Daylight: czas Kazachstan Wschodni
+    Generic: czas Kazachstan,
+    Standard: czas Kazachstan,
+    Daylight: czas Kazachstan
   },
   Asia/Amman: {
     Generic: czas wschodnioeuropejski,
@@ -1195,14 +1195,14 @@
     Daylight: Anadyr (czas letni)
   },
   Asia/Aqtau: {
-    Generic: czas Kazachstan Zachodni,
-    Standard: czas Kazachstan Zachodni,
-    Daylight: czas Kazachstan Zachodni
+    Generic: czas Kazachstan,
+    Standard: czas Kazachstan,
+    Daylight: czas Kazachstan
   },
   Asia/Aqtobe: {
-    Generic: czas Kazachstan Zachodni,
-    Standard: czas Kazachstan Zachodni,
-    Daylight: czas Kazachstan Zachodni
+    Generic: czas Kazachstan,
+    Standard: czas Kazachstan,
+    Daylight: czas Kazachstan
   },
   Asia/Ashgabat: {
     Generic: czas Turkmenistan,
@@ -1215,9 +1215,9 @@
     Daylight: Turkmenistan (czas letni)
   },
   Asia/Atyrau: {
-    Generic: czas Kazachstan Zachodni,
-    Standard: czas Kazachstan Zachodni,
-    Daylight: czas Kazachstan Zachodni
+    Generic: czas Kazachstan,
+    Standard: czas Kazachstan,
+    Daylight: czas Kazachstan
   },
   Asia/Baghdad: {
     Generic: czas Półwysep Arabski,
@@ -1490,9 +1490,9 @@
     Daylight: Omsk (czas letni)
   },
   Asia/Oral: {
-    Generic: czas Kazachstan Zachodni,
-    Standard: czas Kazachstan Zachodni,
-    Daylight: czas Kazachstan Zachodni
+    Generic: czas Kazachstan,
+    Standard: czas Kazachstan,
+    Daylight: czas Kazachstan
   },
   Asia/Phnom_Penh: {
     Generic: czas indochiński,
@@ -1515,14 +1515,14 @@
     Daylight: Półwysep Arabski (czas letni)
   },
   Asia/Qostanay: {
-    Generic: czas Kazachstan Wschodni,
-    Standard: czas Kazachstan Wschodni,
-    Daylight: czas Kazachstan Wschodni
+    Generic: czas Kazachstan,
+    Standard: czas Kazachstan,
+    Daylight: czas Kazachstan
   },
   Asia/Qyzylorda: {
-    Generic: czas Kazachstan Zachodni,
-    Standard: czas Kazachstan Zachodni,
-    Daylight: czas Kazachstan Zachodni
+    Generic: czas Kazachstan,
+    Standard: czas Kazachstan,
+    Daylight: czas Kazachstan
   },
   Asia/Rangoon: {
     Generic: czas Mjanma,
@@ -1935,9 +1935,9 @@
     Daylight: czas wschodnioeuropejski letni
   },
   EST: {
-    Generic: uniwersalny czas koordynowany -5,
-    Standard: uniwersalny czas koordynowany -5,
-    Daylight: uniwersalny czas koordynowany -5
+    Generic: czas wschodnioamerykański,
+    Standard: czas wschodnioamerykański standardowy,
+    Daylight: czas wschodnioamerykański letni
   },
   EST5EDT: {
     Generic: czas wschodnioamerykański,
@@ -2485,9 +2485,9 @@
     Daylight: czas uniwersalny
   },
   HST: {
-    Generic: uniwersalny czas koordynowany -10,
-    Standard: uniwersalny czas koordynowany -10,
-    Daylight: uniwersalny czas koordynowany -10
+    Generic: czas Hawaje-Aleuty,
+    Standard: Hawaje-Aleuty (czas standardowy),
+    Daylight: Hawaje-Aleuty (czas letni)
   },
   Hongkong: {
     Generic: czas Hongkong,
@@ -2590,9 +2590,9 @@
     Daylight: czas środkowoeuropejski letni
   },
   MST: {
-    Generic: uniwersalny czas koordynowany -7,
-    Standard: uniwersalny czas koordynowany -7,
-    Daylight: uniwersalny czas koordynowany -7
+    Generic: czas górski,
+    Standard: czas górski standardowy,
+    Daylight: czas górski letni
   },
   MST7MDT: {
     Generic: czas górski,

@@ -375,7 +375,7 @@ public static class TZNames
             {
                 var keys = forDisplayNames ? (IEnumerable<string>) Data.DisplayNames.Keys : Data.CldrLanguageData.Keys;
                 key = keys.FirstOrDefault(x =>
-                    x.Split('_')[0].Equals(languageCode.Split('-')[0], StringComparison.OrdinalIgnoreCase));
+                    x.Split('_')[0].Equals(languageCode.Split('-', '_')[0], StringComparison.OrdinalIgnoreCase));
 
                 if (key == null)
                 {
@@ -623,6 +623,11 @@ public static class TZNames
         {
             // when all else fails, return the English values
             return GetNames(timeZoneId, "en", abbreviations);
+        }
+
+        // last chance to make a generic name if it's missing
+        if (values.Generic == null) {
+            values.Generic = values.Standard;
         }
 
         return values;
