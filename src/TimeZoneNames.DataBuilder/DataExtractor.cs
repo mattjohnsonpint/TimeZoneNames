@@ -12,7 +12,6 @@ public class DataExtractor
 {
     private readonly string _cldrPath;
     private readonly string _nzdPath;
-    private readonly string _tzresPath;
 
     private readonly TimeZoneData _data = new();
 
@@ -20,7 +19,6 @@ public class DataExtractor
     {
         _cldrPath = Path.Combine(dataPath, "cldr");
         _nzdPath = Path.Combine(dataPath, "nzd");
-        _tzresPath = Path.Combine(dataPath, "tzres");
     }
 
     public static DataExtractor Load(string dataPath, bool overwrite)
@@ -75,8 +73,7 @@ public class DataExtractor
     {
         Task.WaitAll(
             DownloadCldrAsync(overwrite),
-            DownloadNzdAsync(overwrite),
-            DownloadTZResAsync(overwrite));
+            DownloadNzdAsync(overwrite));
     }
 
     private async Task DownloadCldrAsync(bool overwrite)
@@ -104,20 +101,6 @@ public class DataExtractor
             }
 
             await Downloader.DownloadNzdAsync(_nzdPath);
-        }
-    }
-
-    private async Task DownloadTZResAsync(bool overwrite)
-    {
-        var exists = Directory.Exists(_tzresPath);
-        if (overwrite || !exists)
-        {
-            if (exists)
-            {
-                Directory.Delete(_tzresPath, true);
-            }
-
-            await Downloader.DownloadTZResAsync(_tzresPath);
         }
     }
 
@@ -516,7 +499,7 @@ public class DataExtractor
 
     private void LoadDisplayNames()
     {
-        using var stream = File.OpenRead(Path.Combine(_tzresPath, "tzinfo.json"));
+        using var stream = File.OpenRead(Path.Combine("data", "windows-displaynames.json"));
         var data = JsonNode.Parse(stream)!;
         var languages = data["Languages"];
         if (languages == null)
