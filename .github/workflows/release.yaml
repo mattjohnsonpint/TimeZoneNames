@@ -1,4 +1,4 @@
-name: pack-for-release
+name: release
 
 on:
   workflow_dispatch:
@@ -8,8 +8,8 @@ env:
   DOTNET_NOLOGO: 1
 
 jobs:
-  build-and-pack:
-    runs-on: ubuntu-latest
+  release:
+    runs-on: windows-latest
 
     steps:
         - name: Checkout
