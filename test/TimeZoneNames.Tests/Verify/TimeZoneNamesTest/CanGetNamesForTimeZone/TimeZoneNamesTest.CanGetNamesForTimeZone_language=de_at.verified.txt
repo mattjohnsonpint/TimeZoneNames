@@ -36,8 +36,8 @@
   },
   Africa/Bangui: {
     Generic: Westafrikanische Zeit,
-    Standard: Westafrikanische Normalzeit,
-    Daylight: Westafrikanische Sommerzeit
+    Standard: Westafrikanische Zeit,
+    Daylight: Westafrikanische Zeit
   },
   Africa/Banjul: {
     Generic: Mittlere Greenwich-Zeit,
@@ -56,8 +56,8 @@
   },
   Africa/Brazzaville: {
     Generic: Westafrikanische Zeit,
-    Standard: Westafrikanische Normalzeit,
-    Daylight: Westafrikanische Sommerzeit
+    Standard: Westafrikanische Zeit,
+    Daylight: Westafrikanische Zeit
   },
   Africa/Bujumbura: {
     Generic: Zentralafrikanische Zeit,
@@ -101,8 +101,8 @@
   },
   Africa/Douala: {
     Generic: Westafrikanische Zeit,
-    Standard: Westafrikanische Normalzeit,
-    Daylight: Westafrikanische Sommerzeit
+    Standard: Westafrikanische Zeit,
+    Daylight: Westafrikanische Zeit
   },
   Africa/El_Aaiun: {
     Generic: Westeuropäische Zeit,
@@ -151,18 +151,18 @@
   },
   Africa/Kinshasa: {
     Generic: Westafrikanische Zeit,
-    Standard: Westafrikanische Normalzeit,
-    Daylight: Westafrikanische Sommerzeit
+    Standard: Westafrikanische Zeit,
+    Daylight: Westafrikanische Zeit
   },
   Africa/Lagos: {
     Generic: Westafrikanische Zeit,
-    Standard: Westafrikanische Normalzeit,
-    Daylight: Westafrikanische Sommerzeit
+    Standard: Westafrikanische Zeit,
+    Daylight: Westafrikanische Zeit
   },
   Africa/Libreville: {
     Generic: Westafrikanische Zeit,
-    Standard: Westafrikanische Normalzeit,
-    Daylight: Westafrikanische Sommerzeit
+    Standard: Westafrikanische Zeit,
+    Daylight: Westafrikanische Zeit
   },
   Africa/Lome: {
     Generic: Mittlere Greenwich-Zeit,
@@ -171,8 +171,8 @@
   },
   Africa/Luanda: {
     Generic: Westafrikanische Zeit,
-    Standard: Westafrikanische Normalzeit,
-    Daylight: Westafrikanische Sommerzeit
+    Standard: Westafrikanische Zeit,
+    Daylight: Westafrikanische Zeit
   },
   Africa/Lubumbashi: {
     Generic: Zentralafrikanische Zeit,
@@ -186,8 +186,8 @@
   },
   Africa/Malabo: {
     Generic: Westafrikanische Zeit,
-    Standard: Westafrikanische Normalzeit,
-    Daylight: Westafrikanische Sommerzeit
+    Standard: Westafrikanische Zeit,
+    Daylight: Westafrikanische Zeit
   },
   Africa/Maputo: {
     Generic: Zentralafrikanische Zeit,
@@ -221,13 +221,13 @@
   },
   Africa/Ndjamena: {
     Generic: Westafrikanische Zeit,
-    Standard: Westafrikanische Normalzeit,
-    Daylight: Westafrikanische Sommerzeit
+    Standard: Westafrikanische Zeit,
+    Daylight: Westafrikanische Zeit
   },
   Africa/Niamey: {
     Generic: Westafrikanische Zeit,
-    Standard: Westafrikanische Normalzeit,
-    Daylight: Westafrikanische Sommerzeit
+    Standard: Westafrikanische Zeit,
+    Daylight: Westafrikanische Zeit
   },
   Africa/Nouakchott: {
     Generic: Mittlere Greenwich-Zeit,
@@ -241,8 +241,8 @@
   },
   Africa/Porto-Novo: {
     Generic: Westafrikanische Zeit,
-    Standard: Westafrikanische Normalzeit,
-    Daylight: Westafrikanische Sommerzeit
+    Standard: Westafrikanische Zeit,
+    Daylight: Westafrikanische Zeit
   },
   Africa/Sao_Tome: {
     Generic: Mittlere Greenwich-Zeit,
@@ -493,6 +493,11 @@
     Generic: Nordamerikanische Zentralzeit,
     Standard: Nordamerikanische Zentral-Normalzeit,
     Daylight: Nordamerikanische Zentral-Sommerzeit
+  },
+  America/Coyhaique: {
+    Generic: Chilenische Zeit,
+    Standard: Chilenische Normalzeit,
+    Daylight: Chilenische Sommerzeit
   },
   America/Creston: {
     Generic: Rocky-Mountains-Zeit,
@@ -1360,9 +1365,9 @@
     Daylight: Irkutsk (Sommerzeit)
   },
   Asia/Istanbul: {
-    Generic: Türkei (Ortszeit),
-    Standard: Türkei (Normalzeit),
-    Daylight: Türkei (Sommerzeit)
+    Generic: Türkische Zeit,
+    Standard: Türkische Normalzeit,
+    Daylight: Türkische Sommerzeit
   },
   Asia/Jakarta: {
     Generic: Westindonesische Zeit,
@@ -2225,9 +2230,9 @@
     Daylight: Mittlere Greenwich-Zeit
   },
   Europe/Istanbul: {
-    Generic: Türkei (Ortszeit),
-    Standard: Türkei (Normalzeit),
-    Daylight: Türkei (Sommerzeit)
+    Generic: Türkische Zeit,
+    Standard: Türkische Normalzeit,
+    Daylight: Türkische Sommerzeit
   },
   Europe/Jersey: {
     Generic: Mittlere Greenwich-Zeit,
@@ -2485,9 +2490,9 @@
     Daylight: Mittlere Greenwich-Zeit
   },
   HST: {
-    Generic: Hawaii-Aleuten-Zeit,
+    Generic: Hawaii-Aleuten-Normalzeit,
     Standard: Hawaii-Aleuten-Normalzeit,
-    Daylight: Hawaii-Aleuten-Sommerzeit
+    Daylight: Hawaii-Aleuten-Normalzeit
   },
   Hongkong: {
     Generic: Hongkong-Zeit,
@@ -2715,14 +2720,14 @@
     Daylight: Chamorro-Zeit
   },
   Pacific/Honolulu: {
-    Generic: Hawaii-Aleuten-Zeit,
+    Generic: Hawaii-Aleuten-Normalzeit,
     Standard: Hawaii-Aleuten-Normalzeit,
-    Daylight: Hawaii-Aleuten-Sommerzeit
+    Daylight: Hawaii-Aleuten-Normalzeit
   },
   Pacific/Johnston: {
-    Generic: Hawaii-Aleuten-Zeit,
+    Generic: Hawaii-Aleuten-Normalzeit,
     Standard: Hawaii-Aleuten-Normalzeit,
-    Daylight: Hawaii-Aleuten-Sommerzeit
+    Daylight: Hawaii-Aleuten-Normalzeit
   },
   Pacific/Kanton: {
     Generic: Phoenixinseln-Zeit,
@@ -2795,14 +2800,14 @@
     Daylight: Pitcairninseln-Zeit
   },
   Pacific/Pohnpei: {
-    Generic: Ponape-Zeit,
-    Standard: Ponape-Zeit,
-    Daylight: Ponape-Zeit
+    Generic: Pohnpei-Zeit,
+    Standard: Pohnpei-Zeit,
+    Daylight: Pohnpei-Zeit
   },
   Pacific/Ponape: {
-    Generic: Ponape-Zeit,
-    Standard: Ponape-Zeit,
-    Daylight: Ponape-Zeit
+    Generic: Pohnpei-Zeit,
+    Standard: Pohnpei-Zeit,
+    Daylight: Pohnpei-Zeit
   },
   Pacific/Port_Moresby: {
     Generic: Papua-Neuguinea-Zeit,
@@ -2885,9 +2890,9 @@
     Daylight: Singapurische Normalzeit
   },
   Turkey: {
-    Generic: Türkei (Ortszeit),
-    Standard: Türkei (Normalzeit),
-    Daylight: Türkei (Sommerzeit)
+    Generic: Türkische Zeit,
+    Standard: Türkische Normalzeit,
+    Daylight: Türkische Sommerzeit
   },
   UCT: {
     Generic: Koordinierte Weltzeit,
@@ -2925,9 +2930,9 @@
     Daylight: Nordamerikanische Ostküsten-Sommerzeit
   },
   US/Hawaii: {
-    Generic: Hawaii-Aleuten-Zeit,
+    Generic: Hawaii-Aleuten-Normalzeit,
     Standard: Hawaii-Aleuten-Normalzeit,
-    Daylight: Hawaii-Aleuten-Sommerzeit
+    Daylight: Hawaii-Aleuten-Normalzeit
   },
   US/Indiana-Starke: {
     Generic: Nordamerikanische Zentralzeit,

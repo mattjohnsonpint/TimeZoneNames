@@ -36,8 +36,8 @@
   },
   Africa/Bangui: {
     Generic: 西部非洲时间,
-    Standard: 西部非洲标准时间,
-    Daylight: 西部非洲夏令时间
+    Standard: 西部非洲时间,
+    Daylight: 西部非洲时间
   },
   Africa/Banjul: {
     Generic: 格林尼治标准时间,
@@ -56,8 +56,8 @@
   },
   Africa/Brazzaville: {
     Generic: 西部非洲时间,
-    Standard: 西部非洲标准时间,
-    Daylight: 西部非洲夏令时间
+    Standard: 西部非洲时间,
+    Daylight: 西部非洲时间
   },
   Africa/Bujumbura: {
     Generic: 中部非洲时间,
@@ -101,8 +101,8 @@
   },
   Africa/Douala: {
     Generic: 西部非洲时间,
-    Standard: 西部非洲标准时间,
-    Daylight: 西部非洲夏令时间
+    Standard: 西部非洲时间,
+    Daylight: 西部非洲时间
   },
   Africa/El_Aaiun: {
     Generic: 西欧时间,
@@ -151,18 +151,18 @@
   },
   Africa/Kinshasa: {
     Generic: 西部非洲时间,
-    Standard: 西部非洲标准时间,
-    Daylight: 西部非洲夏令时间
+    Standard: 西部非洲时间,
+    Daylight: 西部非洲时间
   },
   Africa/Lagos: {
     Generic: 西部非洲时间,
-    Standard: 西部非洲标准时间,
-    Daylight: 西部非洲夏令时间
+    Standard: 西部非洲时间,
+    Daylight: 西部非洲时间
   },
   Africa/Libreville: {
     Generic: 西部非洲时间,
-    Standard: 西部非洲标准时间,
-    Daylight: 西部非洲夏令时间
+    Standard: 西部非洲时间,
+    Daylight: 西部非洲时间
   },
   Africa/Lome: {
     Generic: 格林尼治标准时间,
@@ -171,8 +171,8 @@
   },
   Africa/Luanda: {
     Generic: 西部非洲时间,
-    Standard: 西部非洲标准时间,
-    Daylight: 西部非洲夏令时间
+    Standard: 西部非洲时间,
+    Daylight: 西部非洲时间
   },
   Africa/Lubumbashi: {
     Generic: 中部非洲时间,
@@ -186,8 +186,8 @@
   },
   Africa/Malabo: {
     Generic: 西部非洲时间,
-    Standard: 西部非洲标准时间,
-    Daylight: 西部非洲夏令时间
+    Standard: 西部非洲时间,
+    Daylight: 西部非洲时间
   },
   Africa/Maputo: {
     Generic: 中部非洲时间,
@@ -221,13 +221,13 @@
   },
   Africa/Ndjamena: {
     Generic: 西部非洲时间,
-    Standard: 西部非洲标准时间,
-    Daylight: 西部非洲夏令时间
+    Standard: 西部非洲时间,
+    Daylight: 西部非洲时间
   },
   Africa/Niamey: {
     Generic: 西部非洲时间,
-    Standard: 西部非洲标准时间,
-    Daylight: 西部非洲夏令时间
+    Standard: 西部非洲时间,
+    Daylight: 西部非洲时间
   },
   Africa/Nouakchott: {
     Generic: 格林尼治标准时间,
@@ -241,8 +241,8 @@
   },
   Africa/Porto-Novo: {
     Generic: 西部非洲时间,
-    Standard: 西部非洲标准时间,
-    Daylight: 西部非洲夏令时间
+    Standard: 西部非洲时间,
+    Daylight: 西部非洲时间
   },
   Africa/Sao_Tome: {
     Generic: 格林尼治标准时间,
@@ -493,6 +493,11 @@
     Generic: 北美中部时间,
     Standard: 北美中部标准时间,
     Daylight: 北美中部夏令时间
+  },
+  America/Coyhaique: {
+    Generic: 智利时间,
+    Standard: 智利标准时间,
+    Daylight: 智利夏令时间
   },
   America/Creston: {
     Generic: 北美山区时间,
@@ -1645,9 +1650,9 @@
     Daylight: 中南半岛时间
   },
   Asia/Vladivostok: {
-    Generic: 符拉迪沃斯托克时间,
-    Standard: 符拉迪沃斯托克标准时间,
-    Daylight: 符拉迪沃斯托克夏令时间
+    Generic: 海参崴时间,
+    Standard: 海参崴标准时间,
+    Daylight: 海参崴夏令时间
   },
   Asia/Yakutsk: {
     Generic: 雅库茨克时间,
@@ -2485,9 +2490,9 @@
     Daylight: 格林尼治标准时间
   },
   HST: {
-    Generic: 夏威夷-阿留申时间,
+    Generic: 夏威夷-阿留申标准时间,
     Standard: 夏威夷-阿留申标准时间,
-    Daylight: 夏威夷-阿留申夏令时间
+    Daylight: 夏威夷-阿留申标准时间
   },
   Hongkong: {
     Generic: 香港时间,
@@ -2715,14 +2720,14 @@
     Daylight: 查莫罗时间
   },
   Pacific/Honolulu: {
-    Generic: 夏威夷-阿留申时间,
+    Generic: 夏威夷-阿留申标准时间,
     Standard: 夏威夷-阿留申标准时间,
-    Daylight: 夏威夷-阿留申夏令时间
+    Daylight: 夏威夷-阿留申标准时间
   },
   Pacific/Johnston: {
-    Generic: 夏威夷-阿留申时间,
+    Generic: 夏威夷-阿留申标准时间,
     Standard: 夏威夷-阿留申标准时间,
-    Daylight: 夏威夷-阿留申夏令时间
+    Daylight: 夏威夷-阿留申标准时间
   },
   Pacific/Kanton: {
     Generic: 菲尼克斯群岛时间,
@@ -2925,9 +2930,9 @@
     Daylight: 北美东部夏令时间
   },
   US/Hawaii: {
-    Generic: 夏威夷-阿留申时间,
+    Generic: 夏威夷-阿留申标准时间,
     Standard: 夏威夷-阿留申标准时间,
-    Daylight: 夏威夷-阿留申夏令时间
+    Daylight: 夏威夷-阿留申标准时间
   },
   US/Indiana-Starke: {
     Generic: 北美中部时间,

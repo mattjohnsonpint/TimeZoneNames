@@ -35,9 +35,9 @@
     Daylight: Greenwich Mean Time
   },
   Africa/Bangui: {
-    Generic: vestafrikansk tid,
-    Standard: vestafrikansk standardtid,
-    Daylight: vestafrikansk sommartid
+    Generic: West Africa Time,
+    Standard: West Africa Time,
+    Daylight: West Africa Time
   },
   Africa/Banjul: {
     Generic: Greenwich Mean Time,
@@ -55,9 +55,9 @@
     Daylight: Central Africa Time
   },
   Africa/Brazzaville: {
-    Generic: vestafrikansk tid,
-    Standard: vestafrikansk standardtid,
-    Daylight: vestafrikansk sommartid
+    Generic: West Africa Time,
+    Standard: West Africa Time,
+    Daylight: West Africa Time
   },
   Africa/Bujumbura: {
     Generic: Central Africa Time,
@@ -100,9 +100,9 @@
     Daylight: austafrikansk tid
   },
   Africa/Douala: {
-    Generic: vestafrikansk tid,
-    Standard: vestafrikansk standardtid,
-    Daylight: vestafrikansk sommartid
+    Generic: West Africa Time,
+    Standard: West Africa Time,
+    Daylight: West Africa Time
   },
   Africa/El_Aaiun: {
     Generic: vesteuropeisk tid,
@@ -150,19 +150,19 @@
     Daylight: Central Africa Time
   },
   Africa/Kinshasa: {
-    Generic: vestafrikansk tid,
-    Standard: vestafrikansk standardtid,
-    Daylight: vestafrikansk sommartid
+    Generic: West Africa Time,
+    Standard: West Africa Time,
+    Daylight: West Africa Time
   },
   Africa/Lagos: {
-    Generic: vestafrikansk tid,
-    Standard: vestafrikansk standardtid,
-    Daylight: vestafrikansk sommartid
+    Generic: West Africa Time,
+    Standard: West Africa Time,
+    Daylight: West Africa Time
   },
   Africa/Libreville: {
-    Generic: vestafrikansk tid,
-    Standard: vestafrikansk standardtid,
-    Daylight: vestafrikansk sommartid
+    Generic: West Africa Time,
+    Standard: West Africa Time,
+    Daylight: West Africa Time
   },
   Africa/Lome: {
     Generic: Greenwich Mean Time,
@@ -170,9 +170,9 @@
     Daylight: Greenwich Mean Time
   },
   Africa/Luanda: {
-    Generic: vestafrikansk tid,
-    Standard: vestafrikansk standardtid,
-    Daylight: vestafrikansk sommartid
+    Generic: West Africa Time,
+    Standard: West Africa Time,
+    Daylight: West Africa Time
   },
   Africa/Lubumbashi: {
     Generic: Central Africa Time,
@@ -185,9 +185,9 @@
     Daylight: Central Africa Time
   },
   Africa/Malabo: {
-    Generic: vestafrikansk tid,
-    Standard: vestafrikansk standardtid,
-    Daylight: vestafrikansk sommartid
+    Generic: West Africa Time,
+    Standard: West Africa Time,
+    Daylight: West Africa Time
   },
   Africa/Maputo: {
     Generic: Central Africa Time,
@@ -220,14 +220,14 @@
     Daylight: austafrikansk tid
   },
   Africa/Ndjamena: {
-    Generic: vestafrikansk tid,
-    Standard: vestafrikansk standardtid,
-    Daylight: vestafrikansk sommartid
+    Generic: West Africa Time,
+    Standard: West Africa Time,
+    Daylight: West Africa Time
   },
   Africa/Niamey: {
-    Generic: vestafrikansk tid,
-    Standard: vestafrikansk standardtid,
-    Daylight: vestafrikansk sommartid
+    Generic: West Africa Time,
+    Standard: West Africa Time,
+    Daylight: West Africa Time
   },
   Africa/Nouakchott: {
     Generic: Greenwich Mean Time,
@@ -240,9 +240,9 @@
     Daylight: Greenwich Mean Time
   },
   Africa/Porto-Novo: {
-    Generic: vestafrikansk tid,
-    Standard: vestafrikansk standardtid,
-    Daylight: vestafrikansk sommartid
+    Generic: West Africa Time,
+    Standard: West Africa Time,
+    Daylight: West Africa Time
   },
   Africa/Sao_Tome: {
     Generic: Greenwich Mean Time,
@@ -493,6 +493,11 @@
     Generic: tidssone for sentrale Nord-Amerika,
     Standard: normaltid for sentrale Nord-Amerika,
     Daylight: sommartid for sentrale Nord-Amerika
+  },
+  America/Coyhaique: {
+    Generic: chilensk tid,
+    Standard: chilensk normaltid,
+    Daylight: chilensk sommartid
   },
   America/Creston: {
     Generic: tidssone for Rocky Mountains (USA),
@@ -1255,9 +1260,9 @@
     Daylight: Kyrgyzstan Time
   },
   Asia/Brunei: {
-    Generic: Brunei Darussalam Time,
-    Standard: Brunei Darussalam Time,
-    Daylight: Brunei Darussalam Time
+    Generic: Brunei Time,
+    Standard: Brunei Time,
+    Daylight: Brunei Time
   },
   Asia/Calcutta: {
     Generic: India Standard Time,
@@ -1362,7 +1367,7 @@
   Asia/Istanbul: {
     Generic: Türkiye Time,
     Standard: Türkiye Standard Time,
-    Daylight: Türkiye Daylight Time
+    Daylight: Türkiye Summer Time
   },
   Asia/Jakarta: {
     Generic: Western Indonesia Time,
@@ -2227,7 +2232,7 @@
   Europe/Istanbul: {
     Generic: Türkiye Time,
     Standard: Türkiye Standard Time,
-    Daylight: Türkiye Daylight Time
+    Daylight: Türkiye Summer Time
   },
   Europe/Jersey: {
     Generic: Greenwich Mean Time,
@@ -2485,9 +2490,9 @@
     Daylight: Greenwich Mean Time
   },
   HST: {
-    Generic: tidssone for Hawaii og Aleutene,
-    Standard: normaltid for Hawaii og Aleutene,
-    Daylight: sommartid for Hawaii og Aleutene
+    Generic: Hawaii-Aleutian Standard Time,
+    Standard: Hawaii-Aleutian Standard Time,
+    Daylight: Hawaii-Aleutian Standard Time
   },
   Hongkong: {
     Generic: hongkongkinesisk tid,
@@ -2715,14 +2720,14 @@
     Daylight: Chamorro Standard Time
   },
   Pacific/Honolulu: {
-    Generic: tidssone for Hawaii og Aleutene,
-    Standard: normaltid for Hawaii og Aleutene,
-    Daylight: sommartid for Hawaii og Aleutene
+    Generic: Hawaii-Aleutian Standard Time,
+    Standard: Hawaii-Aleutian Standard Time,
+    Daylight: Hawaii-Aleutian Standard Time
   },
   Pacific/Johnston: {
-    Generic: tidssone for Hawaii og Aleutene,
-    Standard: normaltid for Hawaii og Aleutene,
-    Daylight: sommartid for Hawaii og Aleutene
+    Generic: Hawaii-Aleutian Standard Time,
+    Standard: Hawaii-Aleutian Standard Time,
+    Daylight: Hawaii-Aleutian Standard Time
   },
   Pacific/Kanton: {
     Generic: tidssone for Phoenixøyane,
@@ -2795,14 +2800,14 @@
     Daylight: Pitcairn Time
   },
   Pacific/Pohnpei: {
-    Generic: Ponape Time,
-    Standard: Ponape Time,
-    Daylight: Ponape Time
+    Generic: Pohnpei Time,
+    Standard: Pohnpei Time,
+    Daylight: Pohnpei Time
   },
   Pacific/Ponape: {
-    Generic: Ponape Time,
-    Standard: Ponape Time,
-    Daylight: Ponape Time
+    Generic: Pohnpei Time,
+    Standard: Pohnpei Time,
+    Daylight: Pohnpei Time
   },
   Pacific/Port_Moresby: {
     Generic: Papua New Guinea Time,
@@ -2887,7 +2892,7 @@
   Turkey: {
     Generic: Türkiye Time,
     Standard: Türkiye Standard Time,
-    Daylight: Türkiye Daylight Time
+    Daylight: Türkiye Summer Time
   },
   UCT: {
     Generic: Coordinated Universal Time,
@@ -2925,9 +2930,9 @@
     Daylight: sommartid for den nordamerikanske austkysten
   },
   US/Hawaii: {
-    Generic: tidssone for Hawaii og Aleutene,
-    Standard: normaltid for Hawaii og Aleutene,
-    Daylight: sommartid for Hawaii og Aleutene
+    Generic: Hawaii-Aleutian Standard Time,
+    Standard: Hawaii-Aleutian Standard Time,
+    Daylight: Hawaii-Aleutian Standard Time
   },
   US/Indiana-Starke: {
     Generic: tidssone for sentrale Nord-Amerika,

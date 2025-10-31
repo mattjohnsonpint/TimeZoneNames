@@ -36,8 +36,8 @@
   },
   Africa/Bangui: {
     Generic: Zapadno-afričko vreme,
-    Standard: Zapadno-afričko standardno vreme,
-    Daylight: Zapadno-afričko letnje vreme
+    Standard: Zapadno-afričko vreme,
+    Daylight: Zapadno-afričko vreme
   },
   Africa/Banjul: {
     Generic: Srednje vreme po Griniču,
@@ -56,8 +56,8 @@
   },
   Africa/Brazzaville: {
     Generic: Zapadno-afričko vreme,
-    Standard: Zapadno-afričko standardno vreme,
-    Daylight: Zapadno-afričko letnje vreme
+    Standard: Zapadno-afričko vreme,
+    Daylight: Zapadno-afričko vreme
   },
   Africa/Bujumbura: {
     Generic: Centralno-afričko vreme,
@@ -101,8 +101,8 @@
   },
   Africa/Douala: {
     Generic: Zapadno-afričko vreme,
-    Standard: Zapadno-afričko standardno vreme,
-    Daylight: Zapadno-afričko letnje vreme
+    Standard: Zapadno-afričko vreme,
+    Daylight: Zapadno-afričko vreme
   },
   Africa/El_Aaiun: {
     Generic: Zapadnoevropsko vreme,
@@ -151,18 +151,18 @@
   },
   Africa/Kinshasa: {
     Generic: Zapadno-afričko vreme,
-    Standard: Zapadno-afričko standardno vreme,
-    Daylight: Zapadno-afričko letnje vreme
+    Standard: Zapadno-afričko vreme,
+    Daylight: Zapadno-afričko vreme
   },
   Africa/Lagos: {
     Generic: Zapadno-afričko vreme,
-    Standard: Zapadno-afričko standardno vreme,
-    Daylight: Zapadno-afričko letnje vreme
+    Standard: Zapadno-afričko vreme,
+    Daylight: Zapadno-afričko vreme
   },
   Africa/Libreville: {
     Generic: Zapadno-afričko vreme,
-    Standard: Zapadno-afričko standardno vreme,
-    Daylight: Zapadno-afričko letnje vreme
+    Standard: Zapadno-afričko vreme,
+    Daylight: Zapadno-afričko vreme
   },
   Africa/Lome: {
     Generic: Srednje vreme po Griniču,
@@ -171,8 +171,8 @@
   },
   Africa/Luanda: {
     Generic: Zapadno-afričko vreme,
-    Standard: Zapadno-afričko standardno vreme,
-    Daylight: Zapadno-afričko letnje vreme
+    Standard: Zapadno-afričko vreme,
+    Daylight: Zapadno-afričko vreme
   },
   Africa/Lubumbashi: {
     Generic: Centralno-afričko vreme,
@@ -186,8 +186,8 @@
   },
   Africa/Malabo: {
     Generic: Zapadno-afričko vreme,
-    Standard: Zapadno-afričko standardno vreme,
-    Daylight: Zapadno-afričko letnje vreme
+    Standard: Zapadno-afričko vreme,
+    Daylight: Zapadno-afričko vreme
   },
   Africa/Maputo: {
     Generic: Centralno-afričko vreme,
@@ -221,13 +221,13 @@
   },
   Africa/Ndjamena: {
     Generic: Zapadno-afričko vreme,
-    Standard: Zapadno-afričko standardno vreme,
-    Daylight: Zapadno-afričko letnje vreme
+    Standard: Zapadno-afričko vreme,
+    Daylight: Zapadno-afričko vreme
   },
   Africa/Niamey: {
     Generic: Zapadno-afričko vreme,
-    Standard: Zapadno-afričko standardno vreme,
-    Daylight: Zapadno-afričko letnje vreme
+    Standard: Zapadno-afričko vreme,
+    Daylight: Zapadno-afričko vreme
   },
   Africa/Nouakchott: {
     Generic: Srednje vreme po Griniču,
@@ -241,8 +241,8 @@
   },
   Africa/Porto-Novo: {
     Generic: Zapadno-afričko vreme,
-    Standard: Zapadno-afričko standardno vreme,
-    Daylight: Zapadno-afričko letnje vreme
+    Standard: Zapadno-afričko vreme,
+    Daylight: Zapadno-afričko vreme
   },
   Africa/Sao_Tome: {
     Generic: Srednje vreme po Griniču,
@@ -493,6 +493,11 @@
     Generic: Severnoameričko centralno vreme,
     Standard: Severnoameričko centralno standardno vreme,
     Daylight: Severnoameričko centralno letnje vreme
+  },
+  America/Coyhaique: {
+    Generic: Čile vreme,
+    Standard: Čile, standardno vreme,
+    Daylight: Čile, letnje vreme
   },
   America/Creston: {
     Generic: Severnoameričko planinsko vreme,
@@ -1360,9 +1365,9 @@
     Daylight: Irkuck, letnje vreme
   },
   Asia/Istanbul: {
-    Generic: Turska, standardno vreme,
-    Standard: Turska, standardno vreme,
-    Daylight: Turska, letnje vreme
+    Generic: Turska vreme,
+    Standard: Turska standardno vreme,
+    Daylight: Turska letnje računanje vremena
   },
   Asia/Jakarta: {
     Generic: Zapadno-indonezijsko vreme,
@@ -2225,9 +2230,9 @@
     Daylight: Srednje vreme po Griniču
   },
   Europe/Istanbul: {
-    Generic: Turska, standardno vreme,
-    Standard: Turska, standardno vreme,
-    Daylight: Turska, letnje vreme
+    Generic: Turska vreme,
+    Standard: Turska standardno vreme,
+    Daylight: Turska letnje računanje vremena
   },
   Europe/Jersey: {
     Generic: Srednje vreme po Griniču,
@@ -2485,9 +2490,9 @@
     Daylight: Srednje vreme po Griniču
   },
   HST: {
-    Generic: Havajsko-aleutsko vreme,
+    Generic: Havajsko-aleutsko standardno vreme,
     Standard: Havajsko-aleutsko standardno vreme,
-    Daylight: Havajsko-aleutsko letnje vreme
+    Daylight: Havajsko-aleutsko standardno vreme
   },
   Hongkong: {
     Generic: Hong Kong vreme,
@@ -2715,14 +2720,14 @@
     Daylight: Čamoro vreme
   },
   Pacific/Honolulu: {
-    Generic: Havajsko-aleutsko vreme,
+    Generic: Havajsko-aleutsko standardno vreme,
     Standard: Havajsko-aleutsko standardno vreme,
-    Daylight: Havajsko-aleutsko letnje vreme
+    Daylight: Havajsko-aleutsko standardno vreme
   },
   Pacific/Johnston: {
-    Generic: Havajsko-aleutsko vreme,
+    Generic: Havajsko-aleutsko standardno vreme,
     Standard: Havajsko-aleutsko standardno vreme,
-    Daylight: Havajsko-aleutsko letnje vreme
+    Daylight: Havajsko-aleutsko standardno vreme
   },
   Pacific/Kanton: {
     Generic: Feniks ostrva vreme,
@@ -2885,9 +2890,9 @@
     Daylight: Singapur, standardno vreme
   },
   Turkey: {
-    Generic: Turska, standardno vreme,
-    Standard: Turska, standardno vreme,
-    Daylight: Turska, letnje vreme
+    Generic: Turska vreme,
+    Standard: Turska standardno vreme,
+    Daylight: Turska letnje računanje vremena
   },
   UCT: {
     Generic: Koordinisano univerzalno vreme,
@@ -2925,9 +2930,9 @@
     Daylight: Severnoameričko istočno letnje vreme
   },
   US/Hawaii: {
-    Generic: Havajsko-aleutsko vreme,
+    Generic: Havajsko-aleutsko standardno vreme,
     Standard: Havajsko-aleutsko standardno vreme,
-    Daylight: Havajsko-aleutsko letnje vreme
+    Daylight: Havajsko-aleutsko standardno vreme
   },
   US/Indiana-Starke: {
     Generic: Severnoameričko centralno vreme,

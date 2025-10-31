@@ -36,8 +36,8 @@
   },
   Africa/Bangui: {
     Generic: vestafrikansk tid,
-    Standard: vestafrikansk normaltid,
-    Daylight: vestafrikansk sommertid
+    Standard: vestafrikansk tid,
+    Daylight: vestafrikansk tid
   },
   Africa/Banjul: {
     Generic: Greenwich middeltid,
@@ -56,8 +56,8 @@
   },
   Africa/Brazzaville: {
     Generic: vestafrikansk tid,
-    Standard: vestafrikansk normaltid,
-    Daylight: vestafrikansk sommertid
+    Standard: vestafrikansk tid,
+    Daylight: vestafrikansk tid
   },
   Africa/Bujumbura: {
     Generic: sentralafrikansk tid,
@@ -101,8 +101,8 @@
   },
   Africa/Douala: {
     Generic: vestafrikansk tid,
-    Standard: vestafrikansk normaltid,
-    Daylight: vestafrikansk sommertid
+    Standard: vestafrikansk tid,
+    Daylight: vestafrikansk tid
   },
   Africa/El_Aaiun: {
     Generic: vesteuropeisk tid,
@@ -151,18 +151,18 @@
   },
   Africa/Kinshasa: {
     Generic: vestafrikansk tid,
-    Standard: vestafrikansk normaltid,
-    Daylight: vestafrikansk sommertid
+    Standard: vestafrikansk tid,
+    Daylight: vestafrikansk tid
   },
   Africa/Lagos: {
     Generic: vestafrikansk tid,
-    Standard: vestafrikansk normaltid,
-    Daylight: vestafrikansk sommertid
+    Standard: vestafrikansk tid,
+    Daylight: vestafrikansk tid
   },
   Africa/Libreville: {
     Generic: vestafrikansk tid,
-    Standard: vestafrikansk normaltid,
-    Daylight: vestafrikansk sommertid
+    Standard: vestafrikansk tid,
+    Daylight: vestafrikansk tid
   },
   Africa/Lome: {
     Generic: Greenwich middeltid,
@@ -171,8 +171,8 @@
   },
   Africa/Luanda: {
     Generic: vestafrikansk tid,
-    Standard: vestafrikansk normaltid,
-    Daylight: vestafrikansk sommertid
+    Standard: vestafrikansk tid,
+    Daylight: vestafrikansk tid
   },
   Africa/Lubumbashi: {
     Generic: sentralafrikansk tid,
@@ -186,8 +186,8 @@
   },
   Africa/Malabo: {
     Generic: vestafrikansk tid,
-    Standard: vestafrikansk normaltid,
-    Daylight: vestafrikansk sommertid
+    Standard: vestafrikansk tid,
+    Daylight: vestafrikansk tid
   },
   Africa/Maputo: {
     Generic: sentralafrikansk tid,
@@ -221,13 +221,13 @@
   },
   Africa/Ndjamena: {
     Generic: vestafrikansk tid,
-    Standard: vestafrikansk normaltid,
-    Daylight: vestafrikansk sommertid
+    Standard: vestafrikansk tid,
+    Daylight: vestafrikansk tid
   },
   Africa/Niamey: {
     Generic: vestafrikansk tid,
-    Standard: vestafrikansk normaltid,
-    Daylight: vestafrikansk sommertid
+    Standard: vestafrikansk tid,
+    Daylight: vestafrikansk tid
   },
   Africa/Nouakchott: {
     Generic: Greenwich middeltid,
@@ -241,8 +241,8 @@
   },
   Africa/Porto-Novo: {
     Generic: vestafrikansk tid,
-    Standard: vestafrikansk normaltid,
-    Daylight: vestafrikansk sommertid
+    Standard: vestafrikansk tid,
+    Daylight: vestafrikansk tid
   },
   Africa/Sao_Tome: {
     Generic: Greenwich middeltid,
@@ -493,6 +493,11 @@
     Generic: tidssone for det sentrale Nord-Amerika,
     Standard: normaltid for det sentrale Nord-Amerika,
     Daylight: sommertid for det sentrale Nord-Amerika
+  },
+  America/Coyhaique: {
+    Generic: chilensk tid,
+    Standard: chilensk normaltid,
+    Daylight: chilensk sommertid
   },
   America/Creston: {
     Generic: tidssone for Rocky Mountains (USA),
@@ -2485,9 +2490,9 @@
     Daylight: Greenwich middeltid
   },
   HST: {
-    Generic: tidssone for Hawaii og Aleutene,
+    Generic: normaltid for Hawaii og Aleutene,
     Standard: normaltid for Hawaii og Aleutene,
-    Daylight: sommertid for Hawaii og Aleutene
+    Daylight: normaltid for Hawaii og Aleutene
   },
   Hongkong: {
     Generic: tidssone for Hongkong,
@@ -2715,14 +2720,14 @@
     Daylight: tidssone for Chamorro
   },
   Pacific/Honolulu: {
-    Generic: tidssone for Hawaii og Aleutene,
+    Generic: normaltid for Hawaii og Aleutene,
     Standard: normaltid for Hawaii og Aleutene,
-    Daylight: sommertid for Hawaii og Aleutene
+    Daylight: normaltid for Hawaii og Aleutene
   },
   Pacific/Johnston: {
-    Generic: tidssone for Hawaii og Aleutene,
+    Generic: normaltid for Hawaii og Aleutene,
     Standard: normaltid for Hawaii og Aleutene,
-    Daylight: sommertid for Hawaii og Aleutene
+    Daylight: normaltid for Hawaii og Aleutene
   },
   Pacific/Kanton: {
     Generic: tidssone for Phoenixøyene,
@@ -2925,9 +2930,9 @@
     Daylight: sommertid for den nordamerikanske østkysten
   },
   US/Hawaii: {
-    Generic: tidssone for Hawaii og Aleutene,
+    Generic: normaltid for Hawaii og Aleutene,
     Standard: normaltid for Hawaii og Aleutene,
-    Daylight: sommertid for Hawaii og Aleutene
+    Daylight: normaltid for Hawaii og Aleutene
   },
   US/Indiana-Starke: {
     Generic: tidssone for det sentrale Nord-Amerika,

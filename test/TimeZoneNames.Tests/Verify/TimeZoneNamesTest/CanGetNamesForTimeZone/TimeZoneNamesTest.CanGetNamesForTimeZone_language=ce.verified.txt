@@ -36,8 +36,8 @@
   },
   Africa/Bangui: {
     Generic: Малхбузен Африка,
-    Standard: Малхбузен Африка, стандартан хан,
-    Daylight: Малхбузен Африка, аьхкенан хан
+    Standard: Малхбузен Африка,
+    Daylight: Малхбузен Африка
   },
   Africa/Banjul: {
     Generic: Гринвичица юкъара хан,
@@ -56,8 +56,8 @@
   },
   Africa/Brazzaville: {
     Generic: Малхбузен Африка,
-    Standard: Малхбузен Африка, стандартан хан,
-    Daylight: Малхбузен Африка, аьхкенан хан
+    Standard: Малхбузен Африка,
+    Daylight: Малхбузен Африка
   },
   Africa/Bujumbura: {
     Generic: Юккъера Африка,
@@ -101,8 +101,8 @@
   },
   Africa/Douala: {
     Generic: Малхбузен Африка,
-    Standard: Малхбузен Африка, стандартан хан,
-    Daylight: Малхбузен Африка, аьхкенан хан
+    Standard: Малхбузен Африка,
+    Daylight: Малхбузен Африка
   },
   Africa/El_Aaiun: {
     Generic: Малхбузен Европа,
@@ -151,18 +151,18 @@
   },
   Africa/Kinshasa: {
     Generic: Малхбузен Африка,
-    Standard: Малхбузен Африка, стандартан хан,
-    Daylight: Малхбузен Африка, аьхкенан хан
+    Standard: Малхбузен Африка,
+    Daylight: Малхбузен Африка
   },
   Africa/Lagos: {
     Generic: Малхбузен Африка,
-    Standard: Малхбузен Африка, стандартан хан,
-    Daylight: Малхбузен Африка, аьхкенан хан
+    Standard: Малхбузен Африка,
+    Daylight: Малхбузен Африка
   },
   Africa/Libreville: {
     Generic: Малхбузен Африка,
-    Standard: Малхбузен Африка, стандартан хан,
-    Daylight: Малхбузен Африка, аьхкенан хан
+    Standard: Малхбузен Африка,
+    Daylight: Малхбузен Африка
   },
   Africa/Lome: {
     Generic: Гринвичица юкъара хан,
@@ -171,8 +171,8 @@
   },
   Africa/Luanda: {
     Generic: Малхбузен Африка,
-    Standard: Малхбузен Африка, стандартан хан,
-    Daylight: Малхбузен Африка, аьхкенан хан
+    Standard: Малхбузен Африка,
+    Daylight: Малхбузен Африка
   },
   Africa/Lubumbashi: {
     Generic: Юккъера Африка,
@@ -186,8 +186,8 @@
   },
   Africa/Malabo: {
     Generic: Малхбузен Африка,
-    Standard: Малхбузен Африка, стандартан хан,
-    Daylight: Малхбузен Африка, аьхкенан хан
+    Standard: Малхбузен Африка,
+    Daylight: Малхбузен Африка
   },
   Africa/Maputo: {
     Generic: Юккъера Африка,
@@ -221,13 +221,13 @@
   },
   Africa/Ndjamena: {
     Generic: Малхбузен Африка,
-    Standard: Малхбузен Африка, стандартан хан,
-    Daylight: Малхбузен Африка, аьхкенан хан
+    Standard: Малхбузен Африка,
+    Daylight: Малхбузен Африка
   },
   Africa/Niamey: {
     Generic: Малхбузен Африка,
-    Standard: Малхбузен Африка, стандартан хан,
-    Daylight: Малхбузен Африка, аьхкенан хан
+    Standard: Малхбузен Африка,
+    Daylight: Малхбузен Африка
   },
   Africa/Nouakchott: {
     Generic: Гринвичица юкъара хан,
@@ -241,8 +241,8 @@
   },
   Africa/Porto-Novo: {
     Generic: Малхбузен Африка,
-    Standard: Малхбузен Африка, стандартан хан,
-    Daylight: Малхбузен Африка, аьхкенан хан
+    Standard: Малхбузен Африка,
+    Daylight: Малхбузен Африка
   },
   Africa/Sao_Tome: {
     Generic: Гринвичица юкъара хан,
@@ -493,6 +493,11 @@
     Generic: Юккъера Америка,
     Standard: Юккъера Америка, стандартан хан,
     Daylight: Юккъера Америка, аьхкенан хан
+  },
+  America/Coyhaique: {
+    Generic: Чили,
+    Standard: Чили, стандартан хан,
+    Daylight: Чили, аьхкенан хан
   },
   America/Creston: {
     Generic: Лаьмнийн хан (АЦШ),
@@ -1362,7 +1367,7 @@
   Asia/Istanbul: {
     Generic: Türkiye Time,
     Standard: Türkiye Standard Time,
-    Daylight: Türkiye Daylight Time
+    Daylight: Türkiye Summer Time
   },
   Asia/Jakarta: {
     Generic: Малхбузен Индонези,
@@ -2227,7 +2232,7 @@
   Europe/Istanbul: {
     Generic: Türkiye Time,
     Standard: Türkiye Standard Time,
-    Daylight: Türkiye Daylight Time
+    Daylight: Türkiye Summer Time
   },
   Europe/Jersey: {
     Generic: Гринвичица юкъара хан,
@@ -2485,9 +2490,9 @@
     Daylight: Гринвичица юкъара хан
   },
   HST: {
-    Generic: Гавайн-алеутийн хан,
+    Generic: Гавайн-алеутийн стандартан хан,
     Standard: Гавайн-алеутийн стандартан хан,
-    Daylight: Гавайн-алеутийн аьхкенан хан
+    Daylight: Гавайн-алеутийн стандартан хан
   },
   Hongkong: {
     Generic: Гонконг,
@@ -2715,14 +2720,14 @@
     Daylight: Чаморро
   },
   Pacific/Honolulu: {
-    Generic: Гавайн-алеутийн хан,
+    Generic: Гавайн-алеутийн стандартан хан,
     Standard: Гавайн-алеутийн стандартан хан,
-    Daylight: Гавайн-алеутийн аьхкенан хан
+    Daylight: Гавайн-алеутийн стандартан хан
   },
   Pacific/Johnston: {
-    Generic: Гавайн-алеутийн хан,
+    Generic: Гавайн-алеутийн стандартан хан,
     Standard: Гавайн-алеутийн стандартан хан,
-    Daylight: Гавайн-алеутийн аьхкенан хан
+    Daylight: Гавайн-алеутийн стандартан хан
   },
   Pacific/Kanton: {
     Generic: Феникс, гӀ-наш,
@@ -2887,7 +2892,7 @@
   Turkey: {
     Generic: Türkiye Time,
     Standard: Türkiye Standard Time,
-    Daylight: Türkiye Daylight Time
+    Daylight: Türkiye Summer Time
   },
   UCT: {
     Generic: Coordinated Universal Time,
@@ -2925,9 +2930,9 @@
     Daylight: Малхбален Америка, аьхкенан хан
   },
   US/Hawaii: {
-    Generic: Гавайн-алеутийн хан,
+    Generic: Гавайн-алеутийн стандартан хан,
     Standard: Гавайн-алеутийн стандартан хан,
-    Daylight: Гавайн-алеутийн аьхкенан хан
+    Daylight: Гавайн-алеутийн стандартан хан
   },
   US/Indiana-Starke: {
     Generic: Юккъера Америка,

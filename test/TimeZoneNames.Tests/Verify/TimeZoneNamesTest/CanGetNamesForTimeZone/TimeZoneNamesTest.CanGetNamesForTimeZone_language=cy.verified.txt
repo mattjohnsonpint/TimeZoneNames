@@ -36,8 +36,8 @@
   },
   Africa/Bangui: {
     Generic: Amser Gorllewin Affrica,
-    Standard: Amser Safonol Gorllewin Affrica,
-    Daylight: Amser Haf Gorllewin Affrica
+    Standard: Amser Gorllewin Affrica,
+    Daylight: Amser Gorllewin Affrica
   },
   Africa/Banjul: {
     Generic: Amser Safonol Greenwich,
@@ -56,8 +56,8 @@
   },
   Africa/Brazzaville: {
     Generic: Amser Gorllewin Affrica,
-    Standard: Amser Safonol Gorllewin Affrica,
-    Daylight: Amser Haf Gorllewin Affrica
+    Standard: Amser Gorllewin Affrica,
+    Daylight: Amser Gorllewin Affrica
   },
   Africa/Bujumbura: {
     Generic: Amser Canolbarth Affrica,
@@ -101,8 +101,8 @@
   },
   Africa/Douala: {
     Generic: Amser Gorllewin Affrica,
-    Standard: Amser Safonol Gorllewin Affrica,
-    Daylight: Amser Haf Gorllewin Affrica
+    Standard: Amser Gorllewin Affrica,
+    Daylight: Amser Gorllewin Affrica
   },
   Africa/El_Aaiun: {
     Generic: Amser Gorllewin Ewrop,
@@ -151,18 +151,18 @@
   },
   Africa/Kinshasa: {
     Generic: Amser Gorllewin Affrica,
-    Standard: Amser Safonol Gorllewin Affrica,
-    Daylight: Amser Haf Gorllewin Affrica
+    Standard: Amser Gorllewin Affrica,
+    Daylight: Amser Gorllewin Affrica
   },
   Africa/Lagos: {
     Generic: Amser Gorllewin Affrica,
-    Standard: Amser Safonol Gorllewin Affrica,
-    Daylight: Amser Haf Gorllewin Affrica
+    Standard: Amser Gorllewin Affrica,
+    Daylight: Amser Gorllewin Affrica
   },
   Africa/Libreville: {
     Generic: Amser Gorllewin Affrica,
-    Standard: Amser Safonol Gorllewin Affrica,
-    Daylight: Amser Haf Gorllewin Affrica
+    Standard: Amser Gorllewin Affrica,
+    Daylight: Amser Gorllewin Affrica
   },
   Africa/Lome: {
     Generic: Amser Safonol Greenwich,
@@ -171,8 +171,8 @@
   },
   Africa/Luanda: {
     Generic: Amser Gorllewin Affrica,
-    Standard: Amser Safonol Gorllewin Affrica,
-    Daylight: Amser Haf Gorllewin Affrica
+    Standard: Amser Gorllewin Affrica,
+    Daylight: Amser Gorllewin Affrica
   },
   Africa/Lubumbashi: {
     Generic: Amser Canolbarth Affrica,
@@ -186,8 +186,8 @@
   },
   Africa/Malabo: {
     Generic: Amser Gorllewin Affrica,
-    Standard: Amser Safonol Gorllewin Affrica,
-    Daylight: Amser Haf Gorllewin Affrica
+    Standard: Amser Gorllewin Affrica,
+    Daylight: Amser Gorllewin Affrica
   },
   Africa/Maputo: {
     Generic: Amser Canolbarth Affrica,
@@ -221,13 +221,13 @@
   },
   Africa/Ndjamena: {
     Generic: Amser Gorllewin Affrica,
-    Standard: Amser Safonol Gorllewin Affrica,
-    Daylight: Amser Haf Gorllewin Affrica
+    Standard: Amser Gorllewin Affrica,
+    Daylight: Amser Gorllewin Affrica
   },
   Africa/Niamey: {
     Generic: Amser Gorllewin Affrica,
-    Standard: Amser Safonol Gorllewin Affrica,
-    Daylight: Amser Haf Gorllewin Affrica
+    Standard: Amser Gorllewin Affrica,
+    Daylight: Amser Gorllewin Affrica
   },
   Africa/Nouakchott: {
     Generic: Amser Safonol Greenwich,
@@ -241,8 +241,8 @@
   },
   Africa/Porto-Novo: {
     Generic: Amser Gorllewin Affrica,
-    Standard: Amser Safonol Gorllewin Affrica,
-    Daylight: Amser Haf Gorllewin Affrica
+    Standard: Amser Gorllewin Affrica,
+    Daylight: Amser Gorllewin Affrica
   },
   Africa/Sao_Tome: {
     Generic: Amser Safonol Greenwich,
@@ -493,6 +493,11 @@
     Generic: Amser Canolbarth Gogledd America,
     Standard: Amser Safonol Canolbarth Gogledd America,
     Daylight: Amser Haf Canolbarth Gogledd America
+  },
+  America/Coyhaique: {
+    Generic: Amser Chile,
+    Standard: Amser Safonol Chile,
+    Daylight: Amser Haf Chile
   },
   America/Creston: {
     Generic: Amser Mynyddoedd Gogledd America,
@@ -2485,9 +2490,9 @@
     Daylight: Amser Safonol Greenwich
   },
   HST: {
-    Generic: Amser Hawaii-Aleutian,
+    Generic: Amser Safonol Hawaii-Aleutian,
     Standard: Amser Safonol Hawaii-Aleutian,
-    Daylight: Amser Haf Hawaii-Aleutian
+    Daylight: Amser Safonol Hawaii-Aleutian
   },
   Hongkong: {
     Generic: Amser Hong Kong,
@@ -2715,14 +2720,14 @@
     Daylight: Amser Chamorro
   },
   Pacific/Honolulu: {
-    Generic: Amser Hawaii-Aleutian,
+    Generic: Amser Safonol Hawaii-Aleutian,
     Standard: Amser Safonol Hawaii-Aleutian,
-    Daylight: Amser Haf Hawaii-Aleutian
+    Daylight: Amser Safonol Hawaii-Aleutian
   },
   Pacific/Johnston: {
-    Generic: Amser Hawaii-Aleutian,
+    Generic: Amser Safonol Hawaii-Aleutian,
     Standard: Amser Safonol Hawaii-Aleutian,
-    Daylight: Amser Haf Hawaii-Aleutian
+    Daylight: Amser Safonol Hawaii-Aleutian
   },
   Pacific/Kanton: {
     Generic: Amser Ynysoedd Phoenix,
@@ -2925,9 +2930,9 @@
     Daylight: Amser Haf Dwyrain Gogledd America
   },
   US/Hawaii: {
-    Generic: Amser Hawaii-Aleutian,
+    Generic: Amser Safonol Hawaii-Aleutian,
     Standard: Amser Safonol Hawaii-Aleutian,
-    Daylight: Amser Haf Hawaii-Aleutian
+    Daylight: Amser Safonol Hawaii-Aleutian
   },
   US/Indiana-Starke: {
     Generic: Amser Canolbarth Gogledd America,

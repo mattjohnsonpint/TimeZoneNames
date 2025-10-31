@@ -36,8 +36,8 @@
   },
   Africa/Bangui: {
     Generic: západoafrický čas,
-    Standard: západoafrický standardní čas,
-    Daylight: západoafrický letní čas
+    Standard: západoafrický čas,
+    Daylight: západoafrický čas
   },
   Africa/Banjul: {
     Generic: greenwichský střední čas,
@@ -56,8 +56,8 @@
   },
   Africa/Brazzaville: {
     Generic: západoafrický čas,
-    Standard: západoafrický standardní čas,
-    Daylight: západoafrický letní čas
+    Standard: západoafrický čas,
+    Daylight: západoafrický čas
   },
   Africa/Bujumbura: {
     Generic: středoafrický čas,
@@ -101,8 +101,8 @@
   },
   Africa/Douala: {
     Generic: západoafrický čas,
-    Standard: západoafrický standardní čas,
-    Daylight: západoafrický letní čas
+    Standard: západoafrický čas,
+    Daylight: západoafrický čas
   },
   Africa/El_Aaiun: {
     Generic: západoevropský čas,
@@ -151,18 +151,18 @@
   },
   Africa/Kinshasa: {
     Generic: západoafrický čas,
-    Standard: západoafrický standardní čas,
-    Daylight: západoafrický letní čas
+    Standard: západoafrický čas,
+    Daylight: západoafrický čas
   },
   Africa/Lagos: {
     Generic: západoafrický čas,
-    Standard: západoafrický standardní čas,
-    Daylight: západoafrický letní čas
+    Standard: západoafrický čas,
+    Daylight: západoafrický čas
   },
   Africa/Libreville: {
     Generic: západoafrický čas,
-    Standard: západoafrický standardní čas,
-    Daylight: západoafrický letní čas
+    Standard: západoafrický čas,
+    Daylight: západoafrický čas
   },
   Africa/Lome: {
     Generic: greenwichský střední čas,
@@ -171,8 +171,8 @@
   },
   Africa/Luanda: {
     Generic: západoafrický čas,
-    Standard: západoafrický standardní čas,
-    Daylight: západoafrický letní čas
+    Standard: západoafrický čas,
+    Daylight: západoafrický čas
   },
   Africa/Lubumbashi: {
     Generic: středoafrický čas,
@@ -186,8 +186,8 @@
   },
   Africa/Malabo: {
     Generic: západoafrický čas,
-    Standard: západoafrický standardní čas,
-    Daylight: západoafrický letní čas
+    Standard: západoafrický čas,
+    Daylight: západoafrický čas
   },
   Africa/Maputo: {
     Generic: středoafrický čas,
@@ -221,13 +221,13 @@
   },
   Africa/Ndjamena: {
     Generic: západoafrický čas,
-    Standard: západoafrický standardní čas,
-    Daylight: západoafrický letní čas
+    Standard: západoafrický čas,
+    Daylight: západoafrický čas
   },
   Africa/Niamey: {
     Generic: západoafrický čas,
-    Standard: západoafrický standardní čas,
-    Daylight: západoafrický letní čas
+    Standard: západoafrický čas,
+    Daylight: západoafrický čas
   },
   Africa/Nouakchott: {
     Generic: greenwichský střední čas,
@@ -241,8 +241,8 @@
   },
   Africa/Porto-Novo: {
     Generic: západoafrický čas,
-    Standard: západoafrický standardní čas,
-    Daylight: západoafrický letní čas
+    Standard: západoafrický čas,
+    Daylight: západoafrický čas
   },
   Africa/Sao_Tome: {
     Generic: greenwichský střední čas,
@@ -493,6 +493,11 @@
     Generic: severoamerický centrální čas,
     Standard: severoamerický centrální standardní čas,
     Daylight: severoamerický centrální letní čas
+  },
+  America/Coyhaique: {
+    Generic: chilský čas,
+    Standard: chilský standardní čas,
+    Daylight: chilský letní čas
   },
   America/Creston: {
     Generic: severoamerický horský čas,
@@ -1346,7 +1351,9 @@
     Generic: časové pásmo Irkutsk
   },
   Asia/Istanbul: {
-    Generic: časové pásmo Turecko
+    Generic: Turecký čas,
+    Standard: Turecký standardní čas,
+    Daylight: Turecký letní čas
   },
   Asia/Jakarta: {
     Generic: západoindonéský čas,
@@ -2175,7 +2182,9 @@
     Daylight: greenwichský střední čas
   },
   Europe/Istanbul: {
-    Generic: časové pásmo Turecko
+    Generic: Turecký čas,
+    Standard: Turecký standardní čas,
+    Daylight: Turecký letní čas
   },
   Europe/Jersey: {
     Generic: greenwichský střední čas,
@@ -2419,9 +2428,9 @@
     Daylight: greenwichský střední čas
   },
   HST: {
-    Generic: havajsko-aleutský čas,
+    Generic: havajsko-aleutský standardní čas,
     Standard: havajsko-aleutský standardní čas,
-    Daylight: havajsko-aleutský letní čas
+    Daylight: havajsko-aleutský standardní čas
   },
   Hongkong: {
     Generic: hongkongský čas,
@@ -2649,14 +2658,14 @@
     Daylight: chamorrský čas
   },
   Pacific/Honolulu: {
-    Generic: havajsko-aleutský čas,
+    Generic: havajsko-aleutský standardní čas,
     Standard: havajsko-aleutský standardní čas,
-    Daylight: havajsko-aleutský letní čas
+    Daylight: havajsko-aleutský standardní čas
   },
   Pacific/Johnston: {
-    Generic: havajsko-aleutský čas,
+    Generic: havajsko-aleutský standardní čas,
     Standard: havajsko-aleutský standardní čas,
-    Daylight: havajsko-aleutský letní čas
+    Daylight: havajsko-aleutský standardní čas
   },
   Pacific/Kanton: {
     Generic: čas Fénixových ostrovů,
@@ -2819,7 +2828,9 @@
     Daylight: singapurský čas
   },
   Turkey: {
-    Generic: časové pásmo Turecko
+    Generic: Turecký čas,
+    Standard: Turecký standardní čas,
+    Daylight: Turecký letní čas
   },
   UCT: {
     Generic: koordinovaný světový čas,
@@ -2857,9 +2868,9 @@
     Daylight: severoamerický východní letní čas
   },
   US/Hawaii: {
-    Generic: havajsko-aleutský čas,
+    Generic: havajsko-aleutský standardní čas,
     Standard: havajsko-aleutský standardní čas,
-    Daylight: havajsko-aleutský letní čas
+    Daylight: havajsko-aleutský standardní čas
   },
   US/Indiana-Starke: {
     Generic: severoamerický centrální čas,

@@ -15,7 +15,7 @@
     Daylight: kelet-afrikai téli idő
   },
   Africa/Algiers: {
-    Generic: közép-európai időzóna,
+    Generic: közép-európai idő,
     Standard: közép-európai téli idő,
     Daylight: közép-európai nyári idő
   },
@@ -36,8 +36,8 @@
   },
   Africa/Bangui: {
     Generic: nyugat-afrikai időzóna,
-    Standard: nyugat-afrikai téli idő,
-    Daylight: nyugat-afrikai nyári idő
+    Standard: nyugat-afrikai időzóna,
+    Daylight: nyugat-afrikai időzóna
   },
   Africa/Banjul: {
     Generic: greenwichi középidő, téli idő,
@@ -56,8 +56,8 @@
   },
   Africa/Brazzaville: {
     Generic: nyugat-afrikai időzóna,
-    Standard: nyugat-afrikai téli idő,
-    Daylight: nyugat-afrikai nyári idő
+    Standard: nyugat-afrikai időzóna,
+    Daylight: nyugat-afrikai időzóna
   },
   Africa/Bujumbura: {
     Generic: közép-afrikai téli idő,
@@ -75,7 +75,7 @@
     Daylight: nyugat-európai nyári idő
   },
   Africa/Ceuta: {
-    Generic: közép-európai időzóna,
+    Generic: közép-európai idő,
     Standard: közép-európai téli idő,
     Daylight: közép-európai nyári idő
   },
@@ -101,8 +101,8 @@
   },
   Africa/Douala: {
     Generic: nyugat-afrikai időzóna,
-    Standard: nyugat-afrikai téli idő,
-    Daylight: nyugat-afrikai nyári idő
+    Standard: nyugat-afrikai időzóna,
+    Daylight: nyugat-afrikai időzóna
   },
   Africa/El_Aaiun: {
     Generic: nyugat-európai időzóna,
@@ -151,18 +151,18 @@
   },
   Africa/Kinshasa: {
     Generic: nyugat-afrikai időzóna,
-    Standard: nyugat-afrikai téli idő,
-    Daylight: nyugat-afrikai nyári idő
+    Standard: nyugat-afrikai időzóna,
+    Daylight: nyugat-afrikai időzóna
   },
   Africa/Lagos: {
     Generic: nyugat-afrikai időzóna,
-    Standard: nyugat-afrikai téli idő,
-    Daylight: nyugat-afrikai nyári idő
+    Standard: nyugat-afrikai időzóna,
+    Daylight: nyugat-afrikai időzóna
   },
   Africa/Libreville: {
     Generic: nyugat-afrikai időzóna,
-    Standard: nyugat-afrikai téli idő,
-    Daylight: nyugat-afrikai nyári idő
+    Standard: nyugat-afrikai időzóna,
+    Daylight: nyugat-afrikai időzóna
   },
   Africa/Lome: {
     Generic: greenwichi középidő, téli idő,
@@ -171,8 +171,8 @@
   },
   Africa/Luanda: {
     Generic: nyugat-afrikai időzóna,
-    Standard: nyugat-afrikai téli idő,
-    Daylight: nyugat-afrikai nyári idő
+    Standard: nyugat-afrikai időzóna,
+    Daylight: nyugat-afrikai időzóna
   },
   Africa/Lubumbashi: {
     Generic: közép-afrikai téli idő,
@@ -186,8 +186,8 @@
   },
   Africa/Malabo: {
     Generic: nyugat-afrikai időzóna,
-    Standard: nyugat-afrikai téli idő,
-    Daylight: nyugat-afrikai nyári idő
+    Standard: nyugat-afrikai időzóna,
+    Daylight: nyugat-afrikai időzóna
   },
   Africa/Maputo: {
     Generic: közép-afrikai téli idő,
@@ -221,13 +221,13 @@
   },
   Africa/Ndjamena: {
     Generic: nyugat-afrikai időzóna,
-    Standard: nyugat-afrikai téli idő,
-    Daylight: nyugat-afrikai nyári idő
+    Standard: nyugat-afrikai időzóna,
+    Daylight: nyugat-afrikai időzóna
   },
   Africa/Niamey: {
     Generic: nyugat-afrikai időzóna,
-    Standard: nyugat-afrikai téli idő,
-    Daylight: nyugat-afrikai nyári idő
+    Standard: nyugat-afrikai időzóna,
+    Daylight: nyugat-afrikai időzóna
   },
   Africa/Nouakchott: {
     Generic: greenwichi középidő, téli idő,
@@ -241,8 +241,8 @@
   },
   Africa/Porto-Novo: {
     Generic: nyugat-afrikai időzóna,
-    Standard: nyugat-afrikai téli idő,
-    Daylight: nyugat-afrikai nyári idő
+    Standard: nyugat-afrikai időzóna,
+    Daylight: nyugat-afrikai időzóna
   },
   Africa/Sao_Tome: {
     Generic: greenwichi középidő, téli idő,
@@ -260,7 +260,7 @@
     Daylight: kelet-európai nyári idő
   },
   Africa/Tunis: {
-    Generic: közép-európai időzóna,
+    Generic: közép-európai idő,
     Standard: közép-európai téli idő,
     Daylight: közép-európai nyári idő
   },
@@ -493,6 +493,11 @@
     Generic: középső államokbeli idő,
     Standard: középső államokbeli zónaidő,
     Daylight: középső államokbeli nyári idő
+  },
+  America/Coyhaique: {
+    Generic: chilei időzóna,
+    Standard: chilei téli idő,
+    Daylight: chilei nyári idő
   },
   America/Creston: {
     Generic: hegyvidéki idő,
@@ -1170,7 +1175,7 @@
     Daylight: vosztoki idő
   },
   Arctic/Longyearbyen: {
-    Generic: közép-európai időzóna,
+    Generic: közép-európai idő,
     Standard: közép-európai téli idő,
     Daylight: közép-európai nyári idő
   },
@@ -1360,9 +1365,9 @@
     Daylight: Irkutszk nyári idő
   },
   Asia/Istanbul: {
-    Generic: Törökország idő,
-    Standard: Törökország zónaidő,
-    Daylight: Törökország nyári idő
+    Generic: Törökországi idő,
+    Standard: Törökországi zónaidő,
+    Daylight: Törökországi nyári idő
   },
   Asia/Jakarta: {
     Generic: nyugat-indonéziai téli idő,
@@ -1700,7 +1705,7 @@
     Daylight: nyugat-európai nyári idő
   },
   Atlantic/Jan_Mayen: {
-    Generic: közép-európai időzóna,
+    Generic: közép-európai idő,
     Standard: közép-európai téli idő,
     Daylight: közép-európai nyári idő
   },
@@ -1865,7 +1870,7 @@
     Daylight: amazóniai nyári idő
   },
   CET: {
-    Generic: közép-európai időzóna,
+    Generic: közép-európai idő,
     Standard: közép-európai téli idő,
     Daylight: közép-európai nyári idő
   },
@@ -2130,12 +2135,12 @@
     Daylight: koordinált világidő
   },
   Europe/Amsterdam: {
-    Generic: közép-európai időzóna,
+    Generic: közép-európai idő,
     Standard: közép-európai téli idő,
     Daylight: közép-európai nyári idő
   },
   Europe/Andorra: {
-    Generic: közép-európai időzóna,
+    Generic: közép-európai idő,
     Standard: közép-európai téli idő,
     Daylight: közép-európai nyári idő
   },
@@ -2155,22 +2160,22 @@
     Daylight: brit nyári idő
   },
   Europe/Belgrade: {
-    Generic: közép-európai időzóna,
+    Generic: közép-európai idő,
     Standard: közép-európai téli idő,
     Daylight: közép-európai nyári idő
   },
   Europe/Berlin: {
-    Generic: közép-európai időzóna,
+    Generic: közép-európai idő,
     Standard: közép-európai téli idő,
     Daylight: közép-európai nyári idő
   },
   Europe/Bratislava: {
-    Generic: közép-európai időzóna,
+    Generic: közép-európai idő,
     Standard: közép-európai téli idő,
     Daylight: közép-európai nyári idő
   },
   Europe/Brussels: {
-    Generic: közép-európai időzóna,
+    Generic: közép-európai idő,
     Standard: közép-európai téli idő,
     Daylight: közép-európai nyári idő
   },
@@ -2180,12 +2185,12 @@
     Daylight: kelet-európai nyári idő
   },
   Europe/Budapest: {
-    Generic: közép-európai időzóna,
+    Generic: közép-európai idő,
     Standard: közép-európai téli idő,
     Daylight: közép-európai nyári idő
   },
   Europe/Busingen: {
-    Generic: közép-európai időzóna,
+    Generic: közép-európai idő,
     Standard: közép-európai téli idő,
     Daylight: közép-európai nyári idő
   },
@@ -2195,7 +2200,7 @@
     Daylight: kelet-európai nyári idő
   },
   Europe/Copenhagen: {
-    Generic: közép-európai időzóna,
+    Generic: közép-európai idő,
     Standard: közép-európai téli idő,
     Daylight: közép-európai nyári idő
   },
@@ -2205,7 +2210,7 @@
     Daylight: ír nyári idő
   },
   Europe/Gibraltar: {
-    Generic: közép-európai időzóna,
+    Generic: közép-európai idő,
     Standard: közép-európai téli idő,
     Daylight: közép-európai nyári idő
   },
@@ -2225,9 +2230,9 @@
     Daylight: greenwichi középidő, téli idő
   },
   Europe/Istanbul: {
-    Generic: Törökország idő,
-    Standard: Törökország zónaidő,
-    Daylight: Törökország nyári idő
+    Generic: Törökországi idő,
+    Standard: Törökországi zónaidő,
+    Daylight: Törökországi nyári idő
   },
   Europe/Jersey: {
     Generic: greenwichi középidő, téli idő,
@@ -2260,7 +2265,7 @@
     Daylight: nyugat-európai nyári idő
   },
   Europe/Ljubljana: {
-    Generic: közép-európai időzóna,
+    Generic: közép-európai idő,
     Standard: közép-európai téli idő,
     Daylight: közép-európai nyári idő
   },
@@ -2270,17 +2275,17 @@
     Daylight: brit nyári idő
   },
   Europe/Luxembourg: {
-    Generic: közép-európai időzóna,
+    Generic: közép-európai idő,
     Standard: közép-európai téli idő,
     Daylight: közép-európai nyári idő
   },
   Europe/Madrid: {
-    Generic: közép-európai időzóna,
+    Generic: közép-európai idő,
     Standard: közép-európai téli idő,
     Daylight: közép-európai nyári idő
   },
   Europe/Malta: {
-    Generic: közép-európai időzóna,
+    Generic: közép-európai idő,
     Standard: közép-európai téli idő,
     Daylight: közép-európai nyári idő
   },
@@ -2295,7 +2300,7 @@
     Daylight: moszkvai nyári idő
   },
   Europe/Monaco: {
-    Generic: közép-európai időzóna,
+    Generic: közép-európai idő,
     Standard: közép-európai téli idő,
     Daylight: közép-európai nyári idő
   },
@@ -2310,22 +2315,22 @@
     Daylight: kelet-európai nyári idő
   },
   Europe/Oslo: {
-    Generic: közép-európai időzóna,
+    Generic: közép-európai idő,
     Standard: közép-európai téli idő,
     Daylight: közép-európai nyári idő
   },
   Europe/Paris: {
-    Generic: közép-európai időzóna,
+    Generic: közép-európai idő,
     Standard: közép-európai téli idő,
     Daylight: közép-európai nyári idő
   },
   Europe/Podgorica: {
-    Generic: közép-európai időzóna,
+    Generic: közép-európai idő,
     Standard: közép-európai téli idő,
     Daylight: közép-európai nyári idő
   },
   Europe/Prague: {
-    Generic: közép-európai időzóna,
+    Generic: közép-európai idő,
     Standard: közép-európai téli idő,
     Daylight: közép-európai nyári idő
   },
@@ -2335,7 +2340,7 @@
     Daylight: kelet-európai nyári idő
   },
   Europe/Rome: {
-    Generic: közép-európai időzóna,
+    Generic: közép-európai idő,
     Standard: közép-európai téli idő,
     Daylight: közép-európai nyári idő
   },
@@ -2345,12 +2350,12 @@
     Daylight: Szamara nyári idő
   },
   Europe/San_Marino: {
-    Generic: közép-európai időzóna,
+    Generic: közép-európai idő,
     Standard: közép-európai téli idő,
     Daylight: közép-európai nyári idő
   },
   Europe/Sarajevo: {
-    Generic: közép-európai időzóna,
+    Generic: közép-európai idő,
     Standard: közép-európai téli idő,
     Daylight: közép-európai nyári idő
   },
@@ -2365,7 +2370,7 @@
     Daylight: moszkvai nyári idő
   },
   Europe/Skopje: {
-    Generic: közép-európai időzóna,
+    Generic: közép-európai idő,
     Standard: közép-európai téli idő,
     Daylight: közép-európai nyári idő
   },
@@ -2375,7 +2380,7 @@
     Daylight: kelet-európai nyári idő
   },
   Europe/Stockholm: {
-    Generic: közép-európai időzóna,
+    Generic: közép-európai idő,
     Standard: közép-európai téli idő,
     Daylight: közép-európai nyári idő
   },
@@ -2385,7 +2390,7 @@
     Daylight: kelet-európai nyári idő
   },
   Europe/Tirane: {
-    Generic: közép-európai időzóna,
+    Generic: közép-európai idő,
     Standard: közép-európai téli idő,
     Daylight: közép-európai nyári idő
   },
@@ -2405,17 +2410,17 @@
     Daylight: kelet-európai nyári idő
   },
   Europe/Vaduz: {
-    Generic: közép-európai időzóna,
+    Generic: közép-európai idő,
     Standard: közép-európai téli idő,
     Daylight: közép-európai nyári idő
   },
   Europe/Vatican: {
-    Generic: közép-európai időzóna,
+    Generic: közép-európai idő,
     Standard: közép-európai téli idő,
     Daylight: közép-európai nyári idő
   },
   Europe/Vienna: {
-    Generic: közép-európai időzóna,
+    Generic: közép-európai idő,
     Standard: közép-európai téli idő,
     Daylight: közép-európai nyári idő
   },
@@ -2430,12 +2435,12 @@
     Daylight: Volgográd nyári idő
   },
   Europe/Warsaw: {
-    Generic: közép-európai időzóna,
+    Generic: közép-európai idő,
     Standard: közép-európai téli idő,
     Daylight: közép-európai nyári idő
   },
   Europe/Zagreb: {
-    Generic: közép-európai időzóna,
+    Generic: közép-európai idő,
     Standard: közép-európai téli idő,
     Daylight: közép-európai nyári idő
   },
@@ -2445,7 +2450,7 @@
     Daylight: kelet-európai nyári idő
   },
   Europe/Zurich: {
-    Generic: közép-európai időzóna,
+    Generic: közép-európai idő,
     Standard: közép-európai téli idő,
     Daylight: közép-európai nyári idő
   },
@@ -2485,9 +2490,9 @@
     Daylight: greenwichi középidő, téli idő
   },
   HST: {
-    Generic: hawaii-aleuti időzóna,
+    Generic: hawaii-aleuti téli idő,
     Standard: hawaii-aleuti téli idő,
-    Daylight: hawaii-aleuti nyári idő
+    Daylight: hawaii-aleuti téli idő
   },
   Hongkong: {
     Generic: hongkongi időzóna,
@@ -2585,7 +2590,7 @@
     Daylight: kelet-európai nyári idő
   },
   MET: {
-    Generic: közép-európai időzóna,
+    Generic: közép-európai idő,
     Standard: közép-európai téli idő,
     Daylight: közép-európai nyári idő
   },
@@ -2715,14 +2720,14 @@
     Daylight: chamorrói téli idő
   },
   Pacific/Honolulu: {
-    Generic: hawaii-aleuti időzóna,
+    Generic: hawaii-aleuti téli idő,
     Standard: hawaii-aleuti téli idő,
-    Daylight: hawaii-aleuti nyári idő
+    Daylight: hawaii-aleuti téli idő
   },
   Pacific/Johnston: {
-    Generic: hawaii-aleuti időzóna,
+    Generic: hawaii-aleuti téli idő,
     Standard: hawaii-aleuti téli idő,
-    Daylight: hawaii-aleuti nyári idő
+    Daylight: hawaii-aleuti téli idő
   },
   Pacific/Kanton: {
     Generic: phoenix-szigeteki téli idő,
@@ -2860,7 +2865,7 @@
     Daylight: truki idő
   },
   Poland: {
-    Generic: közép-európai időzóna,
+    Generic: közép-európai idő,
     Standard: közép-európai téli idő,
     Daylight: közép-európai nyári idő
   },
@@ -2885,9 +2890,9 @@
     Daylight: szingapúri téli idő
   },
   Turkey: {
-    Generic: Törökország idő,
-    Standard: Törökország zónaidő,
-    Daylight: Törökország nyári idő
+    Generic: Törökországi idő,
+    Standard: Törökországi zónaidő,
+    Daylight: Törökországi nyári idő
   },
   UCT: {
     Generic: koordinált világidő,
@@ -2925,9 +2930,9 @@
     Daylight: keleti államokbeli nyári idő
   },
   US/Hawaii: {
-    Generic: hawaii-aleuti időzóna,
+    Generic: hawaii-aleuti téli idő,
     Standard: hawaii-aleuti téli idő,
-    Daylight: hawaii-aleuti nyári idő
+    Daylight: hawaii-aleuti téli idő
   },
   US/Indiana-Starke: {
     Generic: középső államokbeli idő,

@@ -36,8 +36,8 @@
   },
   Africa/Bangui: {
     Generic: Waxtu sowwu Afrique,
-    Standard: Waxtu buñ miin ci sowwu Afrique,
-    Daylight: Afrique du sowwu jant
+    Standard: Waxtu sowwu Afrique,
+    Daylight: Waxtu sowwu Afrique
   },
   Africa/Banjul: {
     Generic: GMT (waxtu Greenwich),
@@ -56,8 +56,8 @@
   },
   Africa/Brazzaville: {
     Generic: Waxtu sowwu Afrique,
-    Standard: Waxtu buñ miin ci sowwu Afrique,
-    Daylight: Afrique du sowwu jant
+    Standard: Waxtu sowwu Afrique,
+    Daylight: Waxtu sowwu Afrique
   },
   Africa/Bujumbura: {
     Generic: Waxtu Afrique Centrale,
@@ -101,8 +101,8 @@
   },
   Africa/Douala: {
     Generic: Waxtu sowwu Afrique,
-    Standard: Waxtu buñ miin ci sowwu Afrique,
-    Daylight: Afrique du sowwu jant
+    Standard: Waxtu sowwu Afrique,
+    Daylight: Waxtu sowwu Afrique
   },
   Africa/El_Aaiun: {
     Generic: WET (waxtu ëroop u sowwu-jant,
@@ -151,18 +151,18 @@
   },
   Africa/Kinshasa: {
     Generic: Waxtu sowwu Afrique,
-    Standard: Waxtu buñ miin ci sowwu Afrique,
-    Daylight: Afrique du sowwu jant
+    Standard: Waxtu sowwu Afrique,
+    Daylight: Waxtu sowwu Afrique
   },
   Africa/Lagos: {
     Generic: Waxtu sowwu Afrique,
-    Standard: Waxtu buñ miin ci sowwu Afrique,
-    Daylight: Afrique du sowwu jant
+    Standard: Waxtu sowwu Afrique,
+    Daylight: Waxtu sowwu Afrique
   },
   Africa/Libreville: {
     Generic: Waxtu sowwu Afrique,
-    Standard: Waxtu buñ miin ci sowwu Afrique,
-    Daylight: Afrique du sowwu jant
+    Standard: Waxtu sowwu Afrique,
+    Daylight: Waxtu sowwu Afrique
   },
   Africa/Lome: {
     Generic: GMT (waxtu Greenwich),
@@ -171,8 +171,8 @@
   },
   Africa/Luanda: {
     Generic: Waxtu sowwu Afrique,
-    Standard: Waxtu buñ miin ci sowwu Afrique,
-    Daylight: Afrique du sowwu jant
+    Standard: Waxtu sowwu Afrique,
+    Daylight: Waxtu sowwu Afrique
   },
   Africa/Lubumbashi: {
     Generic: Waxtu Afrique Centrale,
@@ -186,8 +186,8 @@
   },
   Africa/Malabo: {
     Generic: Waxtu sowwu Afrique,
-    Standard: Waxtu buñ miin ci sowwu Afrique,
-    Daylight: Afrique du sowwu jant
+    Standard: Waxtu sowwu Afrique,
+    Daylight: Waxtu sowwu Afrique
   },
   Africa/Maputo: {
     Generic: Waxtu Afrique Centrale,
@@ -221,13 +221,13 @@
   },
   Africa/Ndjamena: {
     Generic: Waxtu sowwu Afrique,
-    Standard: Waxtu buñ miin ci sowwu Afrique,
-    Daylight: Afrique du sowwu jant
+    Standard: Waxtu sowwu Afrique,
+    Daylight: Waxtu sowwu Afrique
   },
   Africa/Niamey: {
     Generic: Waxtu sowwu Afrique,
-    Standard: Waxtu buñ miin ci sowwu Afrique,
-    Daylight: Afrique du sowwu jant
+    Standard: Waxtu sowwu Afrique,
+    Daylight: Waxtu sowwu Afrique
   },
   Africa/Nouakchott: {
     Generic: GMT (waxtu Greenwich),
@@ -241,8 +241,8 @@
   },
   Africa/Porto-Novo: {
     Generic: Waxtu sowwu Afrique,
-    Standard: Waxtu buñ miin ci sowwu Afrique,
-    Daylight: Afrique du sowwu jant
+    Standard: Waxtu sowwu Afrique,
+    Daylight: Waxtu sowwu Afrique
   },
   Africa/Sao_Tome: {
     Generic: GMT (waxtu Greenwich),
@@ -493,6 +493,11 @@
     Generic: CT (waxtu sàntaral),
     Standard: CST (waxtu estàndaaru sàntaraal),
     Daylight: CDT (waxtu bëccëgu sàntaraal
+  },
+  America/Coyhaique: {
+    Generic: Waxtu Sili,
+    Standard: Waxtu buñ miin ci Sili,
+    Daylight: Waxtu ete bu Sili
   },
   America/Creston: {
     Generic: MT (waxtu tundu),
@@ -1362,7 +1367,7 @@
   Asia/Istanbul: {
     Generic: Türkiye Time,
     Standard: Türkiye Standard Time,
-    Daylight: Türkiye Daylight Time
+    Daylight: Türkiye Summer Time
   },
   Asia/Jakarta: {
     Generic: waxtu sowwu Enndonesi,
@@ -2227,7 +2232,7 @@
   Europe/Istanbul: {
     Generic: Türkiye Time,
     Standard: Türkiye Standard Time,
-    Daylight: Türkiye Daylight Time
+    Daylight: Türkiye Summer Time
   },
   Europe/Jersey: {
     Generic: GMT (waxtu Greenwich),
@@ -2485,9 +2490,9 @@
     Daylight: GMT (waxtu Greenwich)
   },
   HST: {
-    Generic: Waxtu Hawaii-Aleutian,
+    Generic: Waxtu buñ jagleel Hawaii-Aleutian,
     Standard: Waxtu buñ jagleel Hawaii-Aleutian,
-    Daylight: Waxtu bëccëg bu Hawaii-Aleutian
+    Daylight: Waxtu buñ jagleel Hawaii-Aleutian
   },
   Hongkong: {
     Generic: waxtu Hong Kong,
@@ -2715,14 +2720,14 @@
     Daylight: Chamorro Standard Time
   },
   Pacific/Honolulu: {
-    Generic: Waxtu Hawaii-Aleutian,
+    Generic: Waxtu buñ jagleel Hawaii-Aleutian,
     Standard: Waxtu buñ jagleel Hawaii-Aleutian,
-    Daylight: Waxtu bëccëg bu Hawaii-Aleutian
+    Daylight: Waxtu buñ jagleel Hawaii-Aleutian
   },
   Pacific/Johnston: {
-    Generic: Waxtu Hawaii-Aleutian,
+    Generic: Waxtu buñ jagleel Hawaii-Aleutian,
     Standard: Waxtu buñ jagleel Hawaii-Aleutian,
-    Daylight: Waxtu bëccëg bu Hawaii-Aleutian
+    Daylight: Waxtu buñ jagleel Hawaii-Aleutian
   },
   Pacific/Kanton: {
     Generic: waxtu ile Phoenix,
@@ -2887,7 +2892,7 @@
   Turkey: {
     Generic: Türkiye Time,
     Standard: Türkiye Standard Time,
-    Daylight: Türkiye Daylight Time
+    Daylight: Türkiye Summer Time
   },
   UCT: {
     Generic: CUT (waxtu iniwelsel yuñ boole),
@@ -2925,9 +2930,9 @@
     Daylight: EDT (waxtu bëccëgu penku)
   },
   US/Hawaii: {
-    Generic: Waxtu Hawaii-Aleutian,
+    Generic: Waxtu buñ jagleel Hawaii-Aleutian,
     Standard: Waxtu buñ jagleel Hawaii-Aleutian,
-    Daylight: Waxtu bëccëg bu Hawaii-Aleutian
+    Daylight: Waxtu buñ jagleel Hawaii-Aleutian
   },
   US/Indiana-Starke: {
     Generic: CT (waxtu sàntaral),

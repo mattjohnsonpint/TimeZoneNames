@@ -36,8 +36,8 @@
   },
   Africa/Bangui: {
     Generic: West Africa Time,
-    Standard: West Africa Standard Time,
-    Daylight: West Africa Summer Time
+    Standard: West Africa Time,
+    Daylight: West Africa Time
   },
   Africa/Banjul: {
     Generic: Greenwich Mean Time,
@@ -56,8 +56,8 @@
   },
   Africa/Brazzaville: {
     Generic: West Africa Time,
-    Standard: West Africa Standard Time,
-    Daylight: West Africa Summer Time
+    Standard: West Africa Time,
+    Daylight: West Africa Time
   },
   Africa/Bujumbura: {
     Generic: Central Africa Time,
@@ -101,8 +101,8 @@
   },
   Africa/Douala: {
     Generic: West Africa Time,
-    Standard: West Africa Standard Time,
-    Daylight: West Africa Summer Time
+    Standard: West Africa Time,
+    Daylight: West Africa Time
   },
   Africa/El_Aaiun: {
     Generic: Ore de Europe ocidentâl,
@@ -151,18 +151,18 @@
   },
   Africa/Kinshasa: {
     Generic: West Africa Time,
-    Standard: West Africa Standard Time,
-    Daylight: West Africa Summer Time
+    Standard: West Africa Time,
+    Daylight: West Africa Time
   },
   Africa/Lagos: {
     Generic: West Africa Time,
-    Standard: West Africa Standard Time,
-    Daylight: West Africa Summer Time
+    Standard: West Africa Time,
+    Daylight: West Africa Time
   },
   Africa/Libreville: {
     Generic: West Africa Time,
-    Standard: West Africa Standard Time,
-    Daylight: West Africa Summer Time
+    Standard: West Africa Time,
+    Daylight: West Africa Time
   },
   Africa/Lome: {
     Generic: Greenwich Mean Time,
@@ -171,8 +171,8 @@
   },
   Africa/Luanda: {
     Generic: West Africa Time,
-    Standard: West Africa Standard Time,
-    Daylight: West Africa Summer Time
+    Standard: West Africa Time,
+    Daylight: West Africa Time
   },
   Africa/Lubumbashi: {
     Generic: Central Africa Time,
@@ -186,8 +186,8 @@
   },
   Africa/Malabo: {
     Generic: West Africa Time,
-    Standard: West Africa Standard Time,
-    Daylight: West Africa Summer Time
+    Standard: West Africa Time,
+    Daylight: West Africa Time
   },
   Africa/Maputo: {
     Generic: Central Africa Time,
@@ -221,13 +221,13 @@
   },
   Africa/Ndjamena: {
     Generic: West Africa Time,
-    Standard: West Africa Standard Time,
-    Daylight: West Africa Summer Time
+    Standard: West Africa Time,
+    Daylight: West Africa Time
   },
   Africa/Niamey: {
     Generic: West Africa Time,
-    Standard: West Africa Standard Time,
-    Daylight: West Africa Summer Time
+    Standard: West Africa Time,
+    Daylight: West Africa Time
   },
   Africa/Nouakchott: {
     Generic: Greenwich Mean Time,
@@ -241,8 +241,8 @@
   },
   Africa/Porto-Novo: {
     Generic: West Africa Time,
-    Standard: West Africa Standard Time,
-    Daylight: West Africa Summer Time
+    Standard: West Africa Time,
+    Daylight: West Africa Time
   },
   Africa/Sao_Tome: {
     Generic: Greenwich Mean Time,
@@ -493,6 +493,11 @@
     Generic: Central Time,
     Standard: Central Standard Time,
     Daylight: Central Daylight Time
+  },
+  America/Coyhaique: {
+    Generic: Chile Time,
+    Standard: Chile Standard Time,
+    Daylight: Chile Summer Time
   },
   America/Creston: {
     Generic: Mountain Time,
@@ -1110,7 +1115,7 @@
     Daylight: Mountain Daylight Time
   },
   Antarctica/Casey: {
-    Generic: Western Australia Time,
+    Generic: Australian Western Time,
     Standard: Australian Western Standard Time,
     Daylight: Australian Western Daylight Time
   },
@@ -1120,12 +1125,12 @@
     Daylight: Davis Time
   },
   Antarctica/DumontDUrville: {
-    Generic: Dumont-d’Urville Time,
-    Standard: Dumont-d’Urville Time,
-    Daylight: Dumont-d’Urville Time
+    Generic: Dumont d’Urville Time,
+    Standard: Dumont d’Urville Time,
+    Daylight: Dumont d’Urville Time
   },
   Antarctica/Macquarie: {
-    Generic: Eastern Australia Time,
+    Generic: Australian Eastern Time,
     Standard: Australian Eastern Standard Time,
     Daylight: Australian Eastern Daylight Time
   },
@@ -1255,9 +1260,9 @@
     Daylight: Kyrgyzstan Time
   },
   Asia/Brunei: {
-    Generic: Brunei Darussalam Time,
-    Standard: Brunei Darussalam Time,
-    Daylight: Brunei Darussalam Time
+    Generic: Brunei Time,
+    Standard: Brunei Time,
+    Daylight: Brunei Time
   },
   Asia/Calcutta: {
     Generic: India Standard Time,
@@ -1305,9 +1310,9 @@
     Daylight: Bangladesh Summer Time
   },
   Asia/Dili: {
-    Generic: East Timor Time,
-    Standard: East Timor Time,
-    Daylight: East Timor Time
+    Generic: Timor-Leste Time,
+    Standard: Timor-Leste Time,
+    Daylight: Timor-Leste Time
   },
   Asia/Dubai: {
     Generic: Gulf Standard Time,
@@ -1350,9 +1355,9 @@
     Daylight: Hong Kong Summer Time
   },
   Asia/Hovd: {
-    Generic: Hovd Time,
-    Standard: Hovd Standard Time,
-    Daylight: Hovd Summer Time
+    Generic: Khovd Time,
+    Standard: Khovd Standard Time,
+    Daylight: Khovd Summer Time
   },
   Asia/Irkutsk: {
     Generic: Irkutsk Time,
@@ -1362,7 +1367,7 @@
   Asia/Istanbul: {
     Generic: Türkiye Time,
     Standard: Türkiye Standard Time,
-    Daylight: Türkiye Daylight Time
+    Daylight: Türkiye Summer Time
   },
   Asia/Jakarta: {
     Generic: Western Indonesia Time,
@@ -1570,9 +1575,9 @@
     Daylight: Srednekolymsk Daylight Time
   },
   Asia/Taipei: {
-    Generic: Taipei Time,
-    Standard: Taipei Standard Time,
-    Daylight: Taipei Daylight Time
+    Generic: Taiwan Time,
+    Standard: Taiwan Standard Time,
+    Daylight: Taiwan Daylight Time
   },
   Asia/Tashkent: {
     Generic: Uzbekistan Time,
@@ -1730,37 +1735,37 @@
     Daylight: Falkland Islands Summer Time
   },
   Australia/ACT: {
-    Generic: Eastern Australia Time,
+    Generic: Australian Eastern Time,
     Standard: Australian Eastern Standard Time,
     Daylight: Australian Eastern Daylight Time
   },
   Australia/Adelaide: {
-    Generic: Central Australia Time,
+    Generic: Australian Central Time,
     Standard: Australian Central Standard Time,
     Daylight: Australian Central Daylight Time
   },
   Australia/Brisbane: {
-    Generic: Eastern Australia Time,
+    Generic: Australian Eastern Time,
     Standard: Australian Eastern Standard Time,
     Daylight: Australian Eastern Daylight Time
   },
   Australia/Broken_Hill: {
-    Generic: Central Australia Time,
+    Generic: Australian Central Time,
     Standard: Australian Central Standard Time,
     Daylight: Australian Central Daylight Time
   },
   Australia/Canberra: {
-    Generic: Eastern Australia Time,
+    Generic: Australian Eastern Time,
     Standard: Australian Eastern Standard Time,
     Daylight: Australian Eastern Daylight Time
   },
   Australia/Currie: {
-    Generic: Eastern Australia Time,
+    Generic: Australian Eastern Time,
     Standard: Australian Eastern Standard Time,
     Daylight: Australian Eastern Daylight Time
   },
   Australia/Darwin: {
-    Generic: Central Australia Time,
+    Generic: Australian Central Time,
     Standard: Australian Central Standard Time,
     Daylight: Australian Central Daylight Time
   },
@@ -1770,7 +1775,7 @@
     Daylight: Australian Central Western Daylight Time
   },
   Australia/Hobart: {
-    Generic: Eastern Australia Time,
+    Generic: Australian Eastern Time,
     Standard: Australian Eastern Standard Time,
     Daylight: Australian Eastern Daylight Time
   },
@@ -1780,7 +1785,7 @@
     Daylight: Lord Howe Daylight Time
   },
   Australia/Lindeman: {
-    Generic: Eastern Australia Time,
+    Generic: Australian Eastern Time,
     Standard: Australian Eastern Standard Time,
     Daylight: Australian Eastern Daylight Time
   },
@@ -1790,57 +1795,57 @@
     Daylight: Lord Howe Daylight Time
   },
   Australia/Melbourne: {
-    Generic: Eastern Australia Time,
+    Generic: Australian Eastern Time,
     Standard: Australian Eastern Standard Time,
     Daylight: Australian Eastern Daylight Time
   },
   Australia/NSW: {
-    Generic: Eastern Australia Time,
+    Generic: Australian Eastern Time,
     Standard: Australian Eastern Standard Time,
     Daylight: Australian Eastern Daylight Time
   },
   Australia/North: {
-    Generic: Central Australia Time,
+    Generic: Australian Central Time,
     Standard: Australian Central Standard Time,
     Daylight: Australian Central Daylight Time
   },
   Australia/Perth: {
-    Generic: Western Australia Time,
+    Generic: Australian Western Time,
     Standard: Australian Western Standard Time,
     Daylight: Australian Western Daylight Time
   },
   Australia/Queensland: {
-    Generic: Eastern Australia Time,
+    Generic: Australian Eastern Time,
     Standard: Australian Eastern Standard Time,
     Daylight: Australian Eastern Daylight Time
   },
   Australia/South: {
-    Generic: Central Australia Time,
+    Generic: Australian Central Time,
     Standard: Australian Central Standard Time,
     Daylight: Australian Central Daylight Time
   },
   Australia/Sydney: {
-    Generic: Eastern Australia Time,
+    Generic: Australian Eastern Time,
     Standard: Australian Eastern Standard Time,
     Daylight: Australian Eastern Daylight Time
   },
   Australia/Tasmania: {
-    Generic: Eastern Australia Time,
+    Generic: Australian Eastern Time,
     Standard: Australian Eastern Standard Time,
     Daylight: Australian Eastern Daylight Time
   },
   Australia/Victoria: {
-    Generic: Eastern Australia Time,
+    Generic: Australian Eastern Time,
     Standard: Australian Eastern Standard Time,
     Daylight: Australian Eastern Daylight Time
   },
   Australia/West: {
-    Generic: Western Australia Time,
+    Generic: Australian Western Time,
     Standard: Australian Western Standard Time,
     Daylight: Australian Western Daylight Time
   },
   Australia/Yancowinna: {
-    Generic: Central Australia Time,
+    Generic: Australian Central Time,
     Standard: Australian Central Standard Time,
     Daylight: Australian Central Daylight Time
   },
@@ -2227,7 +2232,7 @@
   Europe/Istanbul: {
     Generic: Türkiye Time,
     Standard: Türkiye Standard Time,
-    Daylight: Türkiye Daylight Time
+    Daylight: Türkiye Summer Time
   },
   Europe/Jersey: {
     Generic: Greenwich Mean Time,
@@ -2485,9 +2490,9 @@
     Daylight: Greenwich Mean Time
   },
   HST: {
-    Generic: Hawaii-Aleutian Time,
+    Generic: Hawaii-Aleutian Standard Time,
     Standard: Hawaii-Aleutian Standard Time,
-    Daylight: Hawaii-Aleutian Daylight Time
+    Daylight: Hawaii-Aleutian Standard Time
   },
   Hongkong: {
     Generic: Hong Kong Time,
@@ -2640,9 +2645,9 @@
     Daylight: Pacific Daylight Time
   },
   Pacific/Apia: {
-    Generic: Apia Time,
-    Standard: Apia Standard Time,
-    Daylight: Apia Daylight Time
+    Generic: Samoa Time,
+    Standard: Samoa Standard Time,
+    Daylight: Samoa Daylight Time
   },
   Pacific/Auckland: {
     Generic: New Zealand Time,
@@ -2715,14 +2720,14 @@
     Daylight: Chamorro Standard Time
   },
   Pacific/Honolulu: {
-    Generic: Hawaii-Aleutian Time,
+    Generic: Hawaii-Aleutian Standard Time,
     Standard: Hawaii-Aleutian Standard Time,
-    Daylight: Hawaii-Aleutian Daylight Time
+    Daylight: Hawaii-Aleutian Standard Time
   },
   Pacific/Johnston: {
-    Generic: Hawaii-Aleutian Time,
+    Generic: Hawaii-Aleutian Standard Time,
     Standard: Hawaii-Aleutian Standard Time,
-    Daylight: Hawaii-Aleutian Daylight Time
+    Daylight: Hawaii-Aleutian Standard Time
   },
   Pacific/Kanton: {
     Generic: Phoenix Islands Time,
@@ -2755,9 +2760,9 @@
     Daylight: Marquesas Time
   },
   Pacific/Midway: {
-    Generic: Samoa Time,
-    Standard: Samoa Standard Time,
-    Daylight: Samoa Daylight Time
+    Generic: American Samoa Time,
+    Standard: American Samoa Standard Time,
+    Daylight: American Samoa Daylight Time
   },
   Pacific/Nauru: {
     Generic: Nauru Time,
@@ -2780,9 +2785,9 @@
     Daylight: New Caledonia Summer Time
   },
   Pacific/Pago_Pago: {
-    Generic: Samoa Time,
-    Standard: Samoa Standard Time,
-    Daylight: Samoa Daylight Time
+    Generic: American Samoa Time,
+    Standard: American Samoa Standard Time,
+    Daylight: American Samoa Daylight Time
   },
   Pacific/Palau: {
     Generic: Palau Time,
@@ -2795,14 +2800,14 @@
     Daylight: Pitcairn Time
   },
   Pacific/Pohnpei: {
-    Generic: Ponape Time,
-    Standard: Ponape Time,
-    Daylight: Ponape Time
+    Generic: Pohnpei Time,
+    Standard: Pohnpei Time,
+    Daylight: Pohnpei Time
   },
   Pacific/Ponape: {
-    Generic: Ponape Time,
-    Standard: Ponape Time,
-    Daylight: Ponape Time
+    Generic: Pohnpei Time,
+    Standard: Pohnpei Time,
+    Daylight: Pohnpei Time
   },
   Pacific/Port_Moresby: {
     Generic: Papua New Guinea Time,
@@ -2812,7 +2817,7 @@
   Pacific/Rarotonga: {
     Generic: Cook Islands Time,
     Standard: Cook Islands Standard Time,
-    Daylight: Cook Islands Half Summer Time
+    Daylight: Cook Islands Summer Time
   },
   Pacific/Saipan: {
     Generic: Chamorro Standard Time,
@@ -2820,9 +2825,9 @@
     Daylight: Chamorro Standard Time
   },
   Pacific/Samoa: {
-    Generic: Samoa Time,
-    Standard: Samoa Standard Time,
-    Daylight: Samoa Daylight Time
+    Generic: American Samoa Time,
+    Standard: American Samoa Standard Time,
+    Daylight: American Samoa Daylight Time
   },
   Pacific/Tahiti: {
     Generic: Tahiti Time,
@@ -2870,9 +2875,9 @@
     Daylight: Ore estive de Europe ocidentâl
   },
   ROC: {
-    Generic: Taipei Time,
-    Standard: Taipei Standard Time,
-    Daylight: Taipei Daylight Time
+    Generic: Taiwan Time,
+    Standard: Taiwan Standard Time,
+    Daylight: Taiwan Daylight Time
   },
   ROK: {
     Generic: Korean Time,
@@ -2887,7 +2892,7 @@
   Turkey: {
     Generic: Türkiye Time,
     Standard: Türkiye Standard Time,
-    Daylight: Türkiye Daylight Time
+    Daylight: Türkiye Summer Time
   },
   UCT: {
     Generic: Coordinated Universal Time,
@@ -2925,9 +2930,9 @@
     Daylight: Eastern Daylight Time
   },
   US/Hawaii: {
-    Generic: Hawaii-Aleutian Time,
+    Generic: Hawaii-Aleutian Standard Time,
     Standard: Hawaii-Aleutian Standard Time,
-    Daylight: Hawaii-Aleutian Daylight Time
+    Daylight: Hawaii-Aleutian Standard Time
   },
   US/Indiana-Starke: {
     Generic: Central Time,
@@ -2950,9 +2955,9 @@
     Daylight: Pacific Daylight Time
   },
   US/Samoa: {
-    Generic: Samoa Time,
-    Standard: Samoa Standard Time,
-    Daylight: Samoa Daylight Time
+    Generic: American Samoa Time,
+    Standard: American Samoa Standard Time,
+    Daylight: American Samoa Daylight Time
   },
   UTC: {
     Generic: Coordinated Universal Time,

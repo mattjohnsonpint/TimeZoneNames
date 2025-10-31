@@ -36,8 +36,8 @@
   },
   Africa/Bangui: {
     Generic: West-Afrikaanske tiid,
-    Standard: West-Afrikaanske standerttiid,
-    Daylight: West-Afrikaanske simmertiid
+    Standard: West-Afrikaanske tiid,
+    Daylight: West-Afrikaanske tiid
   },
   Africa/Banjul: {
     Generic: Greenwich Mean Time,
@@ -56,8 +56,8 @@
   },
   Africa/Brazzaville: {
     Generic: West-Afrikaanske tiid,
-    Standard: West-Afrikaanske standerttiid,
-    Daylight: West-Afrikaanske simmertiid
+    Standard: West-Afrikaanske tiid,
+    Daylight: West-Afrikaanske tiid
   },
   Africa/Bujumbura: {
     Generic: Sintraal-Afrikaanske tiid,
@@ -101,8 +101,8 @@
   },
   Africa/Douala: {
     Generic: West-Afrikaanske tiid,
-    Standard: West-Afrikaanske standerttiid,
-    Daylight: West-Afrikaanske simmertiid
+    Standard: West-Afrikaanske tiid,
+    Daylight: West-Afrikaanske tiid
   },
   Africa/El_Aaiun: {
     Generic: West-Europeeske tiid,
@@ -151,18 +151,18 @@
   },
   Africa/Kinshasa: {
     Generic: West-Afrikaanske tiid,
-    Standard: West-Afrikaanske standerttiid,
-    Daylight: West-Afrikaanske simmertiid
+    Standard: West-Afrikaanske tiid,
+    Daylight: West-Afrikaanske tiid
   },
   Africa/Lagos: {
     Generic: West-Afrikaanske tiid,
-    Standard: West-Afrikaanske standerttiid,
-    Daylight: West-Afrikaanske simmertiid
+    Standard: West-Afrikaanske tiid,
+    Daylight: West-Afrikaanske tiid
   },
   Africa/Libreville: {
     Generic: West-Afrikaanske tiid,
-    Standard: West-Afrikaanske standerttiid,
-    Daylight: West-Afrikaanske simmertiid
+    Standard: West-Afrikaanske tiid,
+    Daylight: West-Afrikaanske tiid
   },
   Africa/Lome: {
     Generic: Greenwich Mean Time,
@@ -171,8 +171,8 @@
   },
   Africa/Luanda: {
     Generic: West-Afrikaanske tiid,
-    Standard: West-Afrikaanske standerttiid,
-    Daylight: West-Afrikaanske simmertiid
+    Standard: West-Afrikaanske tiid,
+    Daylight: West-Afrikaanske tiid
   },
   Africa/Lubumbashi: {
     Generic: Sintraal-Afrikaanske tiid,
@@ -186,8 +186,8 @@
   },
   Africa/Malabo: {
     Generic: West-Afrikaanske tiid,
-    Standard: West-Afrikaanske standerttiid,
-    Daylight: West-Afrikaanske simmertiid
+    Standard: West-Afrikaanske tiid,
+    Daylight: West-Afrikaanske tiid
   },
   Africa/Maputo: {
     Generic: Sintraal-Afrikaanske tiid,
@@ -221,13 +221,13 @@
   },
   Africa/Ndjamena: {
     Generic: West-Afrikaanske tiid,
-    Standard: West-Afrikaanske standerttiid,
-    Daylight: West-Afrikaanske simmertiid
+    Standard: West-Afrikaanske tiid,
+    Daylight: West-Afrikaanske tiid
   },
   Africa/Niamey: {
     Generic: West-Afrikaanske tiid,
-    Standard: West-Afrikaanske standerttiid,
-    Daylight: West-Afrikaanske simmertiid
+    Standard: West-Afrikaanske tiid,
+    Daylight: West-Afrikaanske tiid
   },
   Africa/Nouakchott: {
     Generic: Greenwich Mean Time,
@@ -241,8 +241,8 @@
   },
   Africa/Porto-Novo: {
     Generic: West-Afrikaanske tiid,
-    Standard: West-Afrikaanske standerttiid,
-    Daylight: West-Afrikaanske simmertiid
+    Standard: West-Afrikaanske tiid,
+    Daylight: West-Afrikaanske tiid
   },
   Africa/Sao_Tome: {
     Generic: Greenwich Mean Time,
@@ -493,6 +493,11 @@
     Generic: Central-tiid,
     Standard: Central-standerttiid,
     Daylight: Central-simmertiid
+  },
+  America/Coyhaique: {
+    Generic: Sileenske tiid,
+    Standard: Sileenske standerttiid,
+    Daylight: Sileenske simmertiid
   },
   America/Creston: {
     Generic: Mountain-tiid,
@@ -2485,9 +2490,9 @@
     Daylight: Greenwich Mean Time
   },
   HST: {
-    Generic: Hawaii-Aleoetyske tiid,
+    Generic: Hawaii-Aleoetyske standerttiid,
     Standard: Hawaii-Aleoetyske standerttiid,
-    Daylight: Hawaii-Aleoetyske simmertiid
+    Daylight: Hawaii-Aleoetyske standerttiid
   },
   Hongkong: {
     Generic: Hongkongse tiid,
@@ -2715,14 +2720,14 @@
     Daylight: Chamorro-tiid
   },
   Pacific/Honolulu: {
-    Generic: Hawaii-Aleoetyske tiid,
+    Generic: Hawaii-Aleoetyske standerttiid,
     Standard: Hawaii-Aleoetyske standerttiid,
-    Daylight: Hawaii-Aleoetyske simmertiid
+    Daylight: Hawaii-Aleoetyske standerttiid
   },
   Pacific/Johnston: {
-    Generic: Hawaii-Aleoetyske tiid,
+    Generic: Hawaii-Aleoetyske standerttiid,
     Standard: Hawaii-Aleoetyske standerttiid,
-    Daylight: Hawaii-Aleoetyske simmertiid
+    Daylight: Hawaii-Aleoetyske standerttiid
   },
   Pacific/Kanton: {
     Generic: Phoenixeilânske tiid,
@@ -2925,9 +2930,9 @@
     Daylight: Eastern-simmertiid
   },
   US/Hawaii: {
-    Generic: Hawaii-Aleoetyske tiid,
+    Generic: Hawaii-Aleoetyske standerttiid,
     Standard: Hawaii-Aleoetyske standerttiid,
-    Daylight: Hawaii-Aleoetyske simmertiid
+    Daylight: Hawaii-Aleoetyske standerttiid
   },
   US/Indiana-Starke: {
     Generic: Central-tiid,

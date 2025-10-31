@@ -36,8 +36,8 @@
   },
   Africa/Bangui: {
     Generic: Àm Afraga an Iar,
-    Standard: Bun-àm Afraga an Iar,
-    Daylight: Tìde Samhraidh Afraga an Iar
+    Standard: Àm Afraga an Iar,
+    Daylight: Àm Afraga an Iar
   },
   Africa/Banjul: {
     Generic: Greenwich Mean Time,
@@ -56,8 +56,8 @@
   },
   Africa/Brazzaville: {
     Generic: Àm Afraga an Iar,
-    Standard: Bun-àm Afraga an Iar,
-    Daylight: Tìde Samhraidh Afraga an Iar
+    Standard: Àm Afraga an Iar,
+    Daylight: Àm Afraga an Iar
   },
   Africa/Bujumbura: {
     Generic: Àm Meadhan Afraga,
@@ -101,8 +101,8 @@
   },
   Africa/Douala: {
     Generic: Àm Afraga an Iar,
-    Standard: Bun-àm Afraga an Iar,
-    Daylight: Tìde Samhraidh Afraga an Iar
+    Standard: Àm Afraga an Iar,
+    Daylight: Àm Afraga an Iar
   },
   Africa/El_Aaiun: {
     Generic: Àm na Roinn-Eòrpa an Iar,
@@ -151,18 +151,18 @@
   },
   Africa/Kinshasa: {
     Generic: Àm Afraga an Iar,
-    Standard: Bun-àm Afraga an Iar,
-    Daylight: Tìde Samhraidh Afraga an Iar
+    Standard: Àm Afraga an Iar,
+    Daylight: Àm Afraga an Iar
   },
   Africa/Lagos: {
     Generic: Àm Afraga an Iar,
-    Standard: Bun-àm Afraga an Iar,
-    Daylight: Tìde Samhraidh Afraga an Iar
+    Standard: Àm Afraga an Iar,
+    Daylight: Àm Afraga an Iar
   },
   Africa/Libreville: {
     Generic: Àm Afraga an Iar,
-    Standard: Bun-àm Afraga an Iar,
-    Daylight: Tìde Samhraidh Afraga an Iar
+    Standard: Àm Afraga an Iar,
+    Daylight: Àm Afraga an Iar
   },
   Africa/Lome: {
     Generic: Greenwich Mean Time,
@@ -171,8 +171,8 @@
   },
   Africa/Luanda: {
     Generic: Àm Afraga an Iar,
-    Standard: Bun-àm Afraga an Iar,
-    Daylight: Tìde Samhraidh Afraga an Iar
+    Standard: Àm Afraga an Iar,
+    Daylight: Àm Afraga an Iar
   },
   Africa/Lubumbashi: {
     Generic: Àm Meadhan Afraga,
@@ -186,8 +186,8 @@
   },
   Africa/Malabo: {
     Generic: Àm Afraga an Iar,
-    Standard: Bun-àm Afraga an Iar,
-    Daylight: Tìde Samhraidh Afraga an Iar
+    Standard: Àm Afraga an Iar,
+    Daylight: Àm Afraga an Iar
   },
   Africa/Maputo: {
     Generic: Àm Meadhan Afraga,
@@ -221,13 +221,13 @@
   },
   Africa/Ndjamena: {
     Generic: Àm Afraga an Iar,
-    Standard: Bun-àm Afraga an Iar,
-    Daylight: Tìde Samhraidh Afraga an Iar
+    Standard: Àm Afraga an Iar,
+    Daylight: Àm Afraga an Iar
   },
   Africa/Niamey: {
     Generic: Àm Afraga an Iar,
-    Standard: Bun-àm Afraga an Iar,
-    Daylight: Tìde Samhraidh Afraga an Iar
+    Standard: Àm Afraga an Iar,
+    Daylight: Àm Afraga an Iar
   },
   Africa/Nouakchott: {
     Generic: Greenwich Mean Time,
@@ -241,8 +241,8 @@
   },
   Africa/Porto-Novo: {
     Generic: Àm Afraga an Iar,
-    Standard: Bun-àm Afraga an Iar,
-    Daylight: Tìde Samhraidh Afraga an Iar
+    Standard: Àm Afraga an Iar,
+    Daylight: Àm Afraga an Iar
   },
   Africa/Sao_Tome: {
     Generic: Greenwich Mean Time,
@@ -493,6 +493,11 @@
     Generic: Àm Meadhan Aimeireaga,
     Standard: Bun-àm Meadhan Aimeireaga,
     Daylight: Tìde samhraidh Meadhan Aimeireaga
+  },
+  America/Coyhaique: {
+    Generic: Àm na Sile,
+    Standard: Bun-àm na Sile,
+    Daylight: Tìde samhraidh na Sile
   },
   America/Creston: {
     Generic: Àm Monadh Aimeireaga,
@@ -1350,9 +1355,9 @@
     Daylight: Tìde samhraidh Hong Kong
   },
   Asia/Hovd: {
-    Generic: Àm Hovd,
-    Standard: Bun-àm Hovd,
-    Daylight: Tìde samhraidh Hovd
+    Generic: Àm Khovd,
+    Standard: Bun-àm Khovd,
+    Daylight: Tìde samhraidh Khovd
   },
   Asia/Irkutsk: {
     Generic: Bun-àm: Irkutsk,
@@ -2485,9 +2490,9 @@
     Daylight: Greenwich Mean Time
   },
   HST: {
-    Generic: Àm nan Eileanan Hawai’i ’s Aleutach,
+    Generic: Bun-àm nan Eileanan Hawai’i ’s Aleutach,
     Standard: Bun-àm nan Eileanan Hawai’i ’s Aleutach,
-    Daylight: Tìde Samhraidh nan Eileanan Hawai’i ’s Aleutach
+    Daylight: Bun-àm nan Eileanan Hawai’i ’s Aleutach
   },
   Hongkong: {
     Generic: Àm Hong Kong,
@@ -2715,14 +2720,14 @@
     Daylight: Àm Chamorro
   },
   Pacific/Honolulu: {
-    Generic: Àm nan Eileanan Hawai’i ’s Aleutach,
+    Generic: Bun-àm nan Eileanan Hawai’i ’s Aleutach,
     Standard: Bun-àm nan Eileanan Hawai’i ’s Aleutach,
-    Daylight: Tìde Samhraidh nan Eileanan Hawai’i ’s Aleutach
+    Daylight: Bun-àm nan Eileanan Hawai’i ’s Aleutach
   },
   Pacific/Johnston: {
-    Generic: Àm nan Eileanan Hawai’i ’s Aleutach,
+    Generic: Bun-àm nan Eileanan Hawai’i ’s Aleutach,
     Standard: Bun-àm nan Eileanan Hawai’i ’s Aleutach,
-    Daylight: Tìde Samhraidh nan Eileanan Hawai’i ’s Aleutach
+    Daylight: Bun-àm nan Eileanan Hawai’i ’s Aleutach
   },
   Pacific/Kanton: {
     Generic: Àm Eileanan Phoenix,
@@ -2925,9 +2930,9 @@
     Daylight: Tìde samhraidh Aimeireaga an Ear
   },
   US/Hawaii: {
-    Generic: Àm nan Eileanan Hawai’i ’s Aleutach,
+    Generic: Bun-àm nan Eileanan Hawai’i ’s Aleutach,
     Standard: Bun-àm nan Eileanan Hawai’i ’s Aleutach,
-    Daylight: Tìde Samhraidh nan Eileanan Hawai’i ’s Aleutach
+    Daylight: Bun-àm nan Eileanan Hawai’i ’s Aleutach
   },
   US/Indiana-Starke: {
     Generic: Àm Meadhan Aimeireaga,

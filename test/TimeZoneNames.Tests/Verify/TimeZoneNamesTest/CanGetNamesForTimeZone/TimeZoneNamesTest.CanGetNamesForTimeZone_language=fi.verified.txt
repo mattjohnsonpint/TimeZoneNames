@@ -36,8 +36,8 @@
   },
   Africa/Bangui: {
     Generic: Länsi-Afrikan aika,
-    Standard: Länsi-Afrikan normaaliaika,
-    Daylight: Länsi-Afrikan kesäaika
+    Standard: Länsi-Afrikan aika,
+    Daylight: Länsi-Afrikan aika
   },
   Africa/Banjul: {
     Generic: Greenwichin normaaliaika,
@@ -56,8 +56,8 @@
   },
   Africa/Brazzaville: {
     Generic: Länsi-Afrikan aika,
-    Standard: Länsi-Afrikan normaaliaika,
-    Daylight: Länsi-Afrikan kesäaika
+    Standard: Länsi-Afrikan aika,
+    Daylight: Länsi-Afrikan aika
   },
   Africa/Bujumbura: {
     Generic: Keski-Afrikan aika,
@@ -101,8 +101,8 @@
   },
   Africa/Douala: {
     Generic: Länsi-Afrikan aika,
-    Standard: Länsi-Afrikan normaaliaika,
-    Daylight: Länsi-Afrikan kesäaika
+    Standard: Länsi-Afrikan aika,
+    Daylight: Länsi-Afrikan aika
   },
   Africa/El_Aaiun: {
     Generic: Länsi-Euroopan aika,
@@ -151,18 +151,18 @@
   },
   Africa/Kinshasa: {
     Generic: Länsi-Afrikan aika,
-    Standard: Länsi-Afrikan normaaliaika,
-    Daylight: Länsi-Afrikan kesäaika
+    Standard: Länsi-Afrikan aika,
+    Daylight: Länsi-Afrikan aika
   },
   Africa/Lagos: {
     Generic: Länsi-Afrikan aika,
-    Standard: Länsi-Afrikan normaaliaika,
-    Daylight: Länsi-Afrikan kesäaika
+    Standard: Länsi-Afrikan aika,
+    Daylight: Länsi-Afrikan aika
   },
   Africa/Libreville: {
     Generic: Länsi-Afrikan aika,
-    Standard: Länsi-Afrikan normaaliaika,
-    Daylight: Länsi-Afrikan kesäaika
+    Standard: Länsi-Afrikan aika,
+    Daylight: Länsi-Afrikan aika
   },
   Africa/Lome: {
     Generic: Greenwichin normaaliaika,
@@ -171,8 +171,8 @@
   },
   Africa/Luanda: {
     Generic: Länsi-Afrikan aika,
-    Standard: Länsi-Afrikan normaaliaika,
-    Daylight: Länsi-Afrikan kesäaika
+    Standard: Länsi-Afrikan aika,
+    Daylight: Länsi-Afrikan aika
   },
   Africa/Lubumbashi: {
     Generic: Keski-Afrikan aika,
@@ -186,8 +186,8 @@
   },
   Africa/Malabo: {
     Generic: Länsi-Afrikan aika,
-    Standard: Länsi-Afrikan normaaliaika,
-    Daylight: Länsi-Afrikan kesäaika
+    Standard: Länsi-Afrikan aika,
+    Daylight: Länsi-Afrikan aika
   },
   Africa/Maputo: {
     Generic: Keski-Afrikan aika,
@@ -221,13 +221,13 @@
   },
   Africa/Ndjamena: {
     Generic: Länsi-Afrikan aika,
-    Standard: Länsi-Afrikan normaaliaika,
-    Daylight: Länsi-Afrikan kesäaika
+    Standard: Länsi-Afrikan aika,
+    Daylight: Länsi-Afrikan aika
   },
   Africa/Niamey: {
     Generic: Länsi-Afrikan aika,
-    Standard: Länsi-Afrikan normaaliaika,
-    Daylight: Länsi-Afrikan kesäaika
+    Standard: Länsi-Afrikan aika,
+    Daylight: Länsi-Afrikan aika
   },
   Africa/Nouakchott: {
     Generic: Greenwichin normaaliaika,
@@ -241,8 +241,8 @@
   },
   Africa/Porto-Novo: {
     Generic: Länsi-Afrikan aika,
-    Standard: Länsi-Afrikan normaaliaika,
-    Daylight: Länsi-Afrikan kesäaika
+    Standard: Länsi-Afrikan aika,
+    Daylight: Länsi-Afrikan aika
   },
   Africa/Sao_Tome: {
     Generic: Greenwichin normaaliaika,
@@ -493,6 +493,11 @@
     Generic: Yhdysvaltain keskinen aika,
     Standard: Yhdysvaltain keskinen normaaliaika,
     Daylight: Yhdysvaltain keskinen kesäaika
+  },
+  America/Coyhaique: {
+    Generic: Chilen aika,
+    Standard: Chilen normaaliaika,
+    Daylight: Chilen kesäaika
   },
   America/Creston: {
     Generic: Kalliovuorten aika,
@@ -1360,9 +1365,9 @@
     Daylight: Irkutsk (kesäaika)
   },
   Asia/Istanbul: {
-    Generic: aikavyöhyke: Turkki,
-    Standard: Turkki (normaaliaika),
-    Daylight: Turkki (kesäaika)
+    Generic: Turkin aika,
+    Standard: Turkin normaaliaika,
+    Daylight: Turkin kesäaika
   },
   Asia/Jakarta: {
     Generic: Länsi-Indonesian aika,
@@ -2225,9 +2230,9 @@
     Daylight: Greenwichin normaaliaika
   },
   Europe/Istanbul: {
-    Generic: aikavyöhyke: Turkki,
-    Standard: Turkki (normaaliaika),
-    Daylight: Turkki (kesäaika)
+    Generic: Turkin aika,
+    Standard: Turkin normaaliaika,
+    Daylight: Turkin kesäaika
   },
   Europe/Jersey: {
     Generic: Greenwichin normaaliaika,
@@ -2485,9 +2490,9 @@
     Daylight: Greenwichin normaaliaika
   },
   HST: {
-    Generic: Havaijin-Aleuttien aika,
+    Generic: Havaijin-Aleuttien normaaliaika,
     Standard: Havaijin-Aleuttien normaaliaika,
-    Daylight: Havaijin-Aleuttien kesäaika
+    Daylight: Havaijin-Aleuttien normaaliaika
   },
   Hongkong: {
     Generic: Hongkongin aika,
@@ -2715,14 +2720,14 @@
     Daylight: Tšamorron aika
   },
   Pacific/Honolulu: {
-    Generic: Havaijin-Aleuttien aika,
+    Generic: Havaijin-Aleuttien normaaliaika,
     Standard: Havaijin-Aleuttien normaaliaika,
-    Daylight: Havaijin-Aleuttien kesäaika
+    Daylight: Havaijin-Aleuttien normaaliaika
   },
   Pacific/Johnston: {
-    Generic: Havaijin-Aleuttien aika,
+    Generic: Havaijin-Aleuttien normaaliaika,
     Standard: Havaijin-Aleuttien normaaliaika,
-    Daylight: Havaijin-Aleuttien kesäaika
+    Daylight: Havaijin-Aleuttien normaaliaika
   },
   Pacific/Kanton: {
     Generic: Phoenixsaarten aika,
@@ -2885,9 +2890,9 @@
     Daylight: Singaporen aika
   },
   Turkey: {
-    Generic: aikavyöhyke: Turkki,
-    Standard: Turkki (normaaliaika),
-    Daylight: Turkki (kesäaika)
+    Generic: Turkin aika,
+    Standard: Turkin normaaliaika,
+    Daylight: Turkin kesäaika
   },
   UCT: {
     Generic: UTC-yleisaika,
@@ -2925,9 +2930,9 @@
     Daylight: Yhdysvaltain itäinen kesäaika
   },
   US/Hawaii: {
-    Generic: Havaijin-Aleuttien aika,
+    Generic: Havaijin-Aleuttien normaaliaika,
     Standard: Havaijin-Aleuttien normaaliaika,
-    Daylight: Havaijin-Aleuttien kesäaika
+    Daylight: Havaijin-Aleuttien normaaliaika
   },
   US/Indiana-Starke: {
     Generic: Yhdysvaltain keskinen aika,

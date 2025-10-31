@@ -36,8 +36,8 @@
   },
   Africa/Bangui: {
     Generic: Westafrikanesch Zäit,
-    Standard: Westafrikanesch Normalzäit,
-    Daylight: Westafrikanesch Summerzäit
+    Standard: Westafrikanesch Zäit,
+    Daylight: Westafrikanesch Zäit
   },
   Africa/Banjul: {
     Generic: Mëttler Greenwich-Zäit,
@@ -56,8 +56,8 @@
   },
   Africa/Brazzaville: {
     Generic: Westafrikanesch Zäit,
-    Standard: Westafrikanesch Normalzäit,
-    Daylight: Westafrikanesch Summerzäit
+    Standard: Westafrikanesch Zäit,
+    Daylight: Westafrikanesch Zäit
   },
   Africa/Bujumbura: {
     Generic: Zentralafrikanesch Zäit,
@@ -101,8 +101,8 @@
   },
   Africa/Douala: {
     Generic: Westafrikanesch Zäit,
-    Standard: Westafrikanesch Normalzäit,
-    Daylight: Westafrikanesch Summerzäit
+    Standard: Westafrikanesch Zäit,
+    Daylight: Westafrikanesch Zäit
   },
   Africa/El_Aaiun: {
     Generic: Westeuropäesch Zäit,
@@ -151,18 +151,18 @@
   },
   Africa/Kinshasa: {
     Generic: Westafrikanesch Zäit,
-    Standard: Westafrikanesch Normalzäit,
-    Daylight: Westafrikanesch Summerzäit
+    Standard: Westafrikanesch Zäit,
+    Daylight: Westafrikanesch Zäit
   },
   Africa/Lagos: {
     Generic: Westafrikanesch Zäit,
-    Standard: Westafrikanesch Normalzäit,
-    Daylight: Westafrikanesch Summerzäit
+    Standard: Westafrikanesch Zäit,
+    Daylight: Westafrikanesch Zäit
   },
   Africa/Libreville: {
     Generic: Westafrikanesch Zäit,
-    Standard: Westafrikanesch Normalzäit,
-    Daylight: Westafrikanesch Summerzäit
+    Standard: Westafrikanesch Zäit,
+    Daylight: Westafrikanesch Zäit
   },
   Africa/Lome: {
     Generic: Mëttler Greenwich-Zäit,
@@ -171,8 +171,8 @@
   },
   Africa/Luanda: {
     Generic: Westafrikanesch Zäit,
-    Standard: Westafrikanesch Normalzäit,
-    Daylight: Westafrikanesch Summerzäit
+    Standard: Westafrikanesch Zäit,
+    Daylight: Westafrikanesch Zäit
   },
   Africa/Lubumbashi: {
     Generic: Zentralafrikanesch Zäit,
@@ -186,8 +186,8 @@
   },
   Africa/Malabo: {
     Generic: Westafrikanesch Zäit,
-    Standard: Westafrikanesch Normalzäit,
-    Daylight: Westafrikanesch Summerzäit
+    Standard: Westafrikanesch Zäit,
+    Daylight: Westafrikanesch Zäit
   },
   Africa/Maputo: {
     Generic: Zentralafrikanesch Zäit,
@@ -221,13 +221,13 @@
   },
   Africa/Ndjamena: {
     Generic: Westafrikanesch Zäit,
-    Standard: Westafrikanesch Normalzäit,
-    Daylight: Westafrikanesch Summerzäit
+    Standard: Westafrikanesch Zäit,
+    Daylight: Westafrikanesch Zäit
   },
   Africa/Niamey: {
     Generic: Westafrikanesch Zäit,
-    Standard: Westafrikanesch Normalzäit,
-    Daylight: Westafrikanesch Summerzäit
+    Standard: Westafrikanesch Zäit,
+    Daylight: Westafrikanesch Zäit
   },
   Africa/Nouakchott: {
     Generic: Mëttler Greenwich-Zäit,
@@ -241,8 +241,8 @@
   },
   Africa/Porto-Novo: {
     Generic: Westafrikanesch Zäit,
-    Standard: Westafrikanesch Normalzäit,
-    Daylight: Westafrikanesch Summerzäit
+    Standard: Westafrikanesch Zäit,
+    Daylight: Westafrikanesch Zäit
   },
   Africa/Sao_Tome: {
     Generic: Mëttler Greenwich-Zäit,
@@ -493,6 +493,11 @@
     Generic: Nordamerikanesch Inlandzäit,
     Standard: Nordamerikanesch Inland-Normalzäit,
     Daylight: Nordamerikanesch Inland-Summerzäit
+  },
+  America/Coyhaique: {
+    Generic: Chilenesch Zäit,
+    Standard: Chilenesch Normalzäit,
+    Daylight: Chilenesch Summerzäit
   },
   America/Creston: {
     Generic: Rocky-Mountain-Zäit,
@@ -2485,9 +2490,9 @@
     Daylight: Mëttler Greenwich-Zäit
   },
   HST: {
-    Generic: Hawaii-Aleuten-Zäit,
+    Generic: Hawaii-Aleuten-Normalzäit,
     Standard: Hawaii-Aleuten-Normalzäit,
-    Daylight: Hawaii-Aleuten-Summerzäit
+    Daylight: Hawaii-Aleuten-Normalzäit
   },
   Hongkong: {
     Generic: Hong-Kong-Zäit,
@@ -2715,14 +2720,14 @@
     Daylight: Chamorro-Zäit
   },
   Pacific/Honolulu: {
-    Generic: Hawaii-Aleuten-Zäit,
+    Generic: Hawaii-Aleuten-Normalzäit,
     Standard: Hawaii-Aleuten-Normalzäit,
-    Daylight: Hawaii-Aleuten-Summerzäit
+    Daylight: Hawaii-Aleuten-Normalzäit
   },
   Pacific/Johnston: {
-    Generic: Hawaii-Aleuten-Zäit,
+    Generic: Hawaii-Aleuten-Normalzäit,
     Standard: Hawaii-Aleuten-Normalzäit,
-    Daylight: Hawaii-Aleuten-Summerzäit
+    Daylight: Hawaii-Aleuten-Normalzäit
   },
   Pacific/Kanton: {
     Generic: Phoenixinselen-Zäit,
@@ -2925,9 +2930,9 @@
     Daylight: Nordamerikanesch Ostküsten-Summerzäit
   },
   US/Hawaii: {
-    Generic: Hawaii-Aleuten-Zäit,
+    Generic: Hawaii-Aleuten-Normalzäit,
     Standard: Hawaii-Aleuten-Normalzäit,
-    Daylight: Hawaii-Aleuten-Summerzäit
+    Daylight: Hawaii-Aleuten-Normalzäit
   },
   US/Indiana-Starke: {
     Generic: Nordamerikanesch Inlandzäit,
