@@ -36,8 +36,8 @@
   },
   Africa/Bangui: {
     Generic: West Africa Time,
-    Standard: West Africa Standard Time,
-    Daylight: West Africa Summer Time
+    Standard: West Africa Time,
+    Daylight: West Africa Time
   },
   Africa/Banjul: {
     Generic: Greenwich Mean Time,
@@ -56,8 +56,8 @@
   },
   Africa/Brazzaville: {
     Generic: West Africa Time,
-    Standard: West Africa Standard Time,
-    Daylight: West Africa Summer Time
+    Standard: West Africa Time,
+    Daylight: West Africa Time
   },
   Africa/Bujumbura: {
     Generic: Central Africa Time,
@@ -101,8 +101,8 @@
   },
   Africa/Douala: {
     Generic: West Africa Time,
-    Standard: West Africa Standard Time,
-    Daylight: West Africa Summer Time
+    Standard: West Africa Time,
+    Daylight: West Africa Time
   },
   Africa/El_Aaiun: {
     Generic: Western European Time,
@@ -151,18 +151,18 @@
   },
   Africa/Kinshasa: {
     Generic: West Africa Time,
-    Standard: West Africa Standard Time,
-    Daylight: West Africa Summer Time
+    Standard: West Africa Time,
+    Daylight: West Africa Time
   },
   Africa/Lagos: {
     Generic: West Africa Time,
-    Standard: West Africa Standard Time,
-    Daylight: West Africa Summer Time
+    Standard: West Africa Time,
+    Daylight: West Africa Time
   },
   Africa/Libreville: {
     Generic: West Africa Time,
-    Standard: West Africa Standard Time,
-    Daylight: West Africa Summer Time
+    Standard: West Africa Time,
+    Daylight: West Africa Time
   },
   Africa/Lome: {
     Generic: Greenwich Mean Time,
@@ -171,8 +171,8 @@
   },
   Africa/Luanda: {
     Generic: West Africa Time,
-    Standard: West Africa Standard Time,
-    Daylight: West Africa Summer Time
+    Standard: West Africa Time,
+    Daylight: West Africa Time
   },
   Africa/Lubumbashi: {
     Generic: Central Africa Time,
@@ -186,8 +186,8 @@
   },
   Africa/Malabo: {
     Generic: West Africa Time,
-    Standard: West Africa Standard Time,
-    Daylight: West Africa Summer Time
+    Standard: West Africa Time,
+    Daylight: West Africa Time
   },
   Africa/Maputo: {
     Generic: Central Africa Time,
@@ -221,13 +221,13 @@
   },
   Africa/Ndjamena: {
     Generic: West Africa Time,
-    Standard: West Africa Standard Time,
-    Daylight: West Africa Summer Time
+    Standard: West Africa Time,
+    Daylight: West Africa Time
   },
   Africa/Niamey: {
     Generic: West Africa Time,
-    Standard: West Africa Standard Time,
-    Daylight: West Africa Summer Time
+    Standard: West Africa Time,
+    Daylight: West Africa Time
   },
   Africa/Nouakchott: {
     Generic: Greenwich Mean Time,
@@ -241,8 +241,8 @@
   },
   Africa/Porto-Novo: {
     Generic: West Africa Time,
-    Standard: West Africa Standard Time,
-    Daylight: West Africa Summer Time
+    Standard: West Africa Time,
+    Daylight: West Africa Time
   },
   Africa/Sao_Tome: {
     Generic: Greenwich Mean Time,
@@ -493,6 +493,11 @@
     Generic: Central Time,
     Standard: Central Standard Time,
     Daylight: Central Daylight Time
+  },
+  America/Coyhaique: {
+    Generic: Chile Time,
+    Standard: Chile Standard Time,
+    Daylight: Chile Summer Time
   },
   America/Creston: {
     Generic: Mountain Time,
@@ -2485,9 +2490,9 @@
     Daylight: Greenwich Mean Time
   },
   HST: {
-    Generic: Hawaii-Aleutian Time,
+    Generic: Hawaii-Aleutian Standard Time,
     Standard: Hawaii-Aleutian Standard Time,
-    Daylight: Hawaii-Aleutian Daylight Time
+    Daylight: Hawaii-Aleutian Standard Time
   },
   Hongkong: {
     Generic: Hong Kong Time,
@@ -2715,14 +2720,14 @@
     Daylight: Chamorro Standard Time
   },
   Pacific/Honolulu: {
-    Generic: Hawaii-Aleutian Time,
+    Generic: Hawaii-Aleutian Standard Time,
     Standard: Hawaii-Aleutian Standard Time,
-    Daylight: Hawaii-Aleutian Daylight Time
+    Daylight: Hawaii-Aleutian Standard Time
   },
   Pacific/Johnston: {
-    Generic: Hawaii-Aleutian Time,
+    Generic: Hawaii-Aleutian Standard Time,
     Standard: Hawaii-Aleutian Standard Time,
-    Daylight: Hawaii-Aleutian Daylight Time
+    Daylight: Hawaii-Aleutian Standard Time
   },
   Pacific/Kanton: {
     Generic: Phoenix Islands Time,
@@ -2925,9 +2930,9 @@
     Daylight: Eastern Daylight Time
   },
   US/Hawaii: {
-    Generic: Hawaii-Aleutian Time,
+    Generic: Hawaii-Aleutian Standard Time,
     Standard: Hawaii-Aleutian Standard Time,
-    Daylight: Hawaii-Aleutian Daylight Time
+    Daylight: Hawaii-Aleutian Standard Time
   },
   US/Indiana-Starke: {
     Generic: Central Time,

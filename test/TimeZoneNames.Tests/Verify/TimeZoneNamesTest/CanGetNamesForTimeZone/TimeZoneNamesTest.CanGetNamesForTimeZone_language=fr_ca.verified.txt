@@ -36,8 +36,8 @@
   },
   Africa/Bangui: {
     Generic: heure d’Afrique de l’Ouest,
-    Standard: heure normale d’Afrique de l’Ouest,
-    Daylight: heure avancée d’Afrique de l’Ouest
+    Standard: heure d’Afrique de l’Ouest,
+    Daylight: heure d’Afrique de l’Ouest
   },
   Africa/Banjul: {
     Generic: heure moyenne de Greenwich,
@@ -56,8 +56,8 @@
   },
   Africa/Brazzaville: {
     Generic: heure d’Afrique de l’Ouest,
-    Standard: heure normale d’Afrique de l’Ouest,
-    Daylight: heure avancée d’Afrique de l’Ouest
+    Standard: heure d’Afrique de l’Ouest,
+    Daylight: heure d’Afrique de l’Ouest
   },
   Africa/Bujumbura: {
     Generic: heure d’Afrique centrale,
@@ -101,8 +101,8 @@
   },
   Africa/Douala: {
     Generic: heure d’Afrique de l’Ouest,
-    Standard: heure normale d’Afrique de l’Ouest,
-    Daylight: heure avancée d’Afrique de l’Ouest
+    Standard: heure d’Afrique de l’Ouest,
+    Daylight: heure d’Afrique de l’Ouest
   },
   Africa/El_Aaiun: {
     Generic: heure de l’Europe de l’Ouest,
@@ -151,18 +151,18 @@
   },
   Africa/Kinshasa: {
     Generic: heure d’Afrique de l’Ouest,
-    Standard: heure normale d’Afrique de l’Ouest,
-    Daylight: heure avancée d’Afrique de l’Ouest
+    Standard: heure d’Afrique de l’Ouest,
+    Daylight: heure d’Afrique de l’Ouest
   },
   Africa/Lagos: {
     Generic: heure d’Afrique de l’Ouest,
-    Standard: heure normale d’Afrique de l’Ouest,
-    Daylight: heure avancée d’Afrique de l’Ouest
+    Standard: heure d’Afrique de l’Ouest,
+    Daylight: heure d’Afrique de l’Ouest
   },
   Africa/Libreville: {
     Generic: heure d’Afrique de l’Ouest,
-    Standard: heure normale d’Afrique de l’Ouest,
-    Daylight: heure avancée d’Afrique de l’Ouest
+    Standard: heure d’Afrique de l’Ouest,
+    Daylight: heure d’Afrique de l’Ouest
   },
   Africa/Lome: {
     Generic: heure moyenne de Greenwich,
@@ -171,8 +171,8 @@
   },
   Africa/Luanda: {
     Generic: heure d’Afrique de l’Ouest,
-    Standard: heure normale d’Afrique de l’Ouest,
-    Daylight: heure avancée d’Afrique de l’Ouest
+    Standard: heure d’Afrique de l’Ouest,
+    Daylight: heure d’Afrique de l’Ouest
   },
   Africa/Lubumbashi: {
     Generic: heure d’Afrique centrale,
@@ -186,8 +186,8 @@
   },
   Africa/Malabo: {
     Generic: heure d’Afrique de l’Ouest,
-    Standard: heure normale d’Afrique de l’Ouest,
-    Daylight: heure avancée d’Afrique de l’Ouest
+    Standard: heure d’Afrique de l’Ouest,
+    Daylight: heure d’Afrique de l’Ouest
   },
   Africa/Maputo: {
     Generic: heure d’Afrique centrale,
@@ -221,13 +221,13 @@
   },
   Africa/Ndjamena: {
     Generic: heure d’Afrique de l’Ouest,
-    Standard: heure normale d’Afrique de l’Ouest,
-    Daylight: heure avancée d’Afrique de l’Ouest
+    Standard: heure d’Afrique de l’Ouest,
+    Daylight: heure d’Afrique de l’Ouest
   },
   Africa/Niamey: {
     Generic: heure d’Afrique de l’Ouest,
-    Standard: heure normale d’Afrique de l’Ouest,
-    Daylight: heure avancée d’Afrique de l’Ouest
+    Standard: heure d’Afrique de l’Ouest,
+    Daylight: heure d’Afrique de l’Ouest
   },
   Africa/Nouakchott: {
     Generic: heure moyenne de Greenwich,
@@ -241,8 +241,8 @@
   },
   Africa/Porto-Novo: {
     Generic: heure d’Afrique de l’Ouest,
-    Standard: heure normale d’Afrique de l’Ouest,
-    Daylight: heure avancée d’Afrique de l’Ouest
+    Standard: heure d’Afrique de l’Ouest,
+    Daylight: heure d’Afrique de l’Ouest
   },
   Africa/Sao_Tome: {
     Generic: heure moyenne de Greenwich,
@@ -493,6 +493,11 @@
     Generic: heure du Centre,
     Standard: heure normale du Centre,
     Daylight: heure avancée du Centre
+  },
+  America/Coyhaique: {
+    Generic: heure du Chili,
+    Standard: heure normale du Chili,
+    Daylight: heure avancée du Chili
   },
   America/Creston: {
     Generic: heure des Rocheuses,
@@ -1360,9 +1365,9 @@
     Daylight: Irkoutsk (heure avancée)
   },
   Asia/Istanbul: {
-    Generic: heure : Turquie,
-    Standard: Turquie (heure normale),
-    Daylight: Turquie (heure avancée)
+    Generic: heure de Turquie,
+    Standard: heure normale de Turquie,
+    Daylight: heure avancée de Turquie
   },
   Asia/Jakarta: {
     Generic: heure de l’Ouest indonésien,
@@ -2225,9 +2230,9 @@
     Daylight: heure moyenne de Greenwich
   },
   Europe/Istanbul: {
-    Generic: heure : Turquie,
-    Standard: Turquie (heure normale),
-    Daylight: Turquie (heure avancée)
+    Generic: heure de Turquie,
+    Standard: heure normale de Turquie,
+    Daylight: heure avancée de Turquie
   },
   Europe/Jersey: {
     Generic: heure moyenne de Greenwich,
@@ -2485,9 +2490,9 @@
     Daylight: heure moyenne de Greenwich
   },
   HST: {
-    Generic: heure d’Hawaï-Aléoutiennes,
+    Generic: heure normale d’Hawaï-Aléoutiennes,
     Standard: heure normale d’Hawaï-Aléoutiennes,
-    Daylight: heure avancée d’Hawaï-Aléoutiennes
+    Daylight: heure normale d’Hawaï-Aléoutiennes
   },
   Hongkong: {
     Generic: heure de Hong Kong,
@@ -2715,14 +2720,14 @@
     Daylight: heure des Chamorro
   },
   Pacific/Honolulu: {
-    Generic: heure d’Hawaï-Aléoutiennes,
+    Generic: heure normale d’Hawaï-Aléoutiennes,
     Standard: heure normale d’Hawaï-Aléoutiennes,
-    Daylight: heure avancée d’Hawaï-Aléoutiennes
+    Daylight: heure normale d’Hawaï-Aléoutiennes
   },
   Pacific/Johnston: {
-    Generic: heure d’Hawaï-Aléoutiennes,
+    Generic: heure normale d’Hawaï-Aléoutiennes,
     Standard: heure normale d’Hawaï-Aléoutiennes,
-    Daylight: heure avancée d’Hawaï-Aléoutiennes
+    Daylight: heure normale d’Hawaï-Aléoutiennes
   },
   Pacific/Kanton: {
     Generic: heure des îles Phoenix,
@@ -2885,9 +2890,9 @@
     Daylight: heure de Singapour
   },
   Turkey: {
-    Generic: heure : Turquie,
-    Standard: Turquie (heure normale),
-    Daylight: Turquie (heure avancée)
+    Generic: heure de Turquie,
+    Standard: heure normale de Turquie,
+    Daylight: heure avancée de Turquie
   },
   UCT: {
     Generic: temps universel coordonné,
@@ -2925,9 +2930,9 @@
     Daylight: heure avancée de l’Est
   },
   US/Hawaii: {
-    Generic: heure d’Hawaï-Aléoutiennes,
+    Generic: heure normale d’Hawaï-Aléoutiennes,
     Standard: heure normale d’Hawaï-Aléoutiennes,
-    Daylight: heure avancée d’Hawaï-Aléoutiennes
+    Daylight: heure normale d’Hawaï-Aléoutiennes
   },
   US/Indiana-Starke: {
     Generic: heure du Centre,

@@ -36,8 +36,8 @@
   },
   Africa/Bangui: {
     Generic: Vakarų Afrikos laikas,
-    Standard: Vakarų Afrikos žiemos laikas,
-    Daylight: Vakarų Afrikos vasaros laikas
+    Standard: Vakarų Afrikos laikas,
+    Daylight: Vakarų Afrikos laikas
   },
   Africa/Banjul: {
     Generic: Grinvičo laikas,
@@ -56,8 +56,8 @@
   },
   Africa/Brazzaville: {
     Generic: Vakarų Afrikos laikas,
-    Standard: Vakarų Afrikos žiemos laikas,
-    Daylight: Vakarų Afrikos vasaros laikas
+    Standard: Vakarų Afrikos laikas,
+    Daylight: Vakarų Afrikos laikas
   },
   Africa/Bujumbura: {
     Generic: Centrinės Afrikos laikas,
@@ -101,8 +101,8 @@
   },
   Africa/Douala: {
     Generic: Vakarų Afrikos laikas,
-    Standard: Vakarų Afrikos žiemos laikas,
-    Daylight: Vakarų Afrikos vasaros laikas
+    Standard: Vakarų Afrikos laikas,
+    Daylight: Vakarų Afrikos laikas
   },
   Africa/El_Aaiun: {
     Generic: Vakarų Europos laikas,
@@ -151,18 +151,18 @@
   },
   Africa/Kinshasa: {
     Generic: Vakarų Afrikos laikas,
-    Standard: Vakarų Afrikos žiemos laikas,
-    Daylight: Vakarų Afrikos vasaros laikas
+    Standard: Vakarų Afrikos laikas,
+    Daylight: Vakarų Afrikos laikas
   },
   Africa/Lagos: {
     Generic: Vakarų Afrikos laikas,
-    Standard: Vakarų Afrikos žiemos laikas,
-    Daylight: Vakarų Afrikos vasaros laikas
+    Standard: Vakarų Afrikos laikas,
+    Daylight: Vakarų Afrikos laikas
   },
   Africa/Libreville: {
     Generic: Vakarų Afrikos laikas,
-    Standard: Vakarų Afrikos žiemos laikas,
-    Daylight: Vakarų Afrikos vasaros laikas
+    Standard: Vakarų Afrikos laikas,
+    Daylight: Vakarų Afrikos laikas
   },
   Africa/Lome: {
     Generic: Grinvičo laikas,
@@ -171,8 +171,8 @@
   },
   Africa/Luanda: {
     Generic: Vakarų Afrikos laikas,
-    Standard: Vakarų Afrikos žiemos laikas,
-    Daylight: Vakarų Afrikos vasaros laikas
+    Standard: Vakarų Afrikos laikas,
+    Daylight: Vakarų Afrikos laikas
   },
   Africa/Lubumbashi: {
     Generic: Centrinės Afrikos laikas,
@@ -186,8 +186,8 @@
   },
   Africa/Malabo: {
     Generic: Vakarų Afrikos laikas,
-    Standard: Vakarų Afrikos žiemos laikas,
-    Daylight: Vakarų Afrikos vasaros laikas
+    Standard: Vakarų Afrikos laikas,
+    Daylight: Vakarų Afrikos laikas
   },
   Africa/Maputo: {
     Generic: Centrinės Afrikos laikas,
@@ -221,13 +221,13 @@
   },
   Africa/Ndjamena: {
     Generic: Vakarų Afrikos laikas,
-    Standard: Vakarų Afrikos žiemos laikas,
-    Daylight: Vakarų Afrikos vasaros laikas
+    Standard: Vakarų Afrikos laikas,
+    Daylight: Vakarų Afrikos laikas
   },
   Africa/Niamey: {
     Generic: Vakarų Afrikos laikas,
-    Standard: Vakarų Afrikos žiemos laikas,
-    Daylight: Vakarų Afrikos vasaros laikas
+    Standard: Vakarų Afrikos laikas,
+    Daylight: Vakarų Afrikos laikas
   },
   Africa/Nouakchott: {
     Generic: Grinvičo laikas,
@@ -241,8 +241,8 @@
   },
   Africa/Porto-Novo: {
     Generic: Vakarų Afrikos laikas,
-    Standard: Vakarų Afrikos žiemos laikas,
-    Daylight: Vakarų Afrikos vasaros laikas
+    Standard: Vakarų Afrikos laikas,
+    Daylight: Vakarų Afrikos laikas
   },
   Africa/Sao_Tome: {
     Generic: Grinvičo laikas,
@@ -493,6 +493,11 @@
     Generic: Šiaurės Amerikos centro laikas,
     Standard: Šiaurės Amerikos centro žiemos laikas,
     Daylight: Šiaurės Amerikos centro vasaros laikas
+  },
+  America/Coyhaique: {
+    Generic: Čilės laikas,
+    Standard: Čilės žiemos laikas,
+    Daylight: Čilės vasaros laikas
   },
   America/Creston: {
     Generic: Šiaurės Amerikos kalnų laikas,
@@ -1360,9 +1365,9 @@
     Daylight: Vasaros laikas: Irkutskas
   },
   Asia/Istanbul: {
-    Generic: Laikas: Turkija,
-    Standard: Žiemos laikas: Turkija,
-    Daylight: Vasaros laikas: Turkija
+    Generic: Turkijos laikas,
+    Standard: Turkijos žiemos laikas,
+    Daylight: Turkijos vasaros laikas
   },
   Asia/Jakarta: {
     Generic: Vakarų Indonezijos laikas,
@@ -2225,9 +2230,9 @@
     Daylight: Grinvičo laikas
   },
   Europe/Istanbul: {
-    Generic: Laikas: Turkija,
-    Standard: Žiemos laikas: Turkija,
-    Daylight: Vasaros laikas: Turkija
+    Generic: Turkijos laikas,
+    Standard: Turkijos žiemos laikas,
+    Daylight: Turkijos vasaros laikas
   },
   Europe/Jersey: {
     Generic: Grinvičo laikas,
@@ -2485,9 +2490,9 @@
     Daylight: Grinvičo laikas
   },
   HST: {
-    Generic: Havajų-Aleutų laikas,
+    Generic: Havajų–Aleutų žiemos laikas,
     Standard: Havajų–Aleutų žiemos laikas,
-    Daylight: Havajų–Aleutų vasaros laikas
+    Daylight: Havajų–Aleutų žiemos laikas
   },
   Hongkong: {
     Generic: Honkongo laikas,
@@ -2715,14 +2720,14 @@
     Daylight: Čamoro laikas
   },
   Pacific/Honolulu: {
-    Generic: Havajų-Aleutų laikas,
+    Generic: Havajų–Aleutų žiemos laikas,
     Standard: Havajų–Aleutų žiemos laikas,
-    Daylight: Havajų–Aleutų vasaros laikas
+    Daylight: Havajų–Aleutų žiemos laikas
   },
   Pacific/Johnston: {
-    Generic: Havajų-Aleutų laikas,
+    Generic: Havajų–Aleutų žiemos laikas,
     Standard: Havajų–Aleutų žiemos laikas,
-    Daylight: Havajų–Aleutų vasaros laikas
+    Daylight: Havajų–Aleutų žiemos laikas
   },
   Pacific/Kanton: {
     Generic: Fenikso Salų laikas,
@@ -2885,9 +2890,9 @@
     Daylight: Singapūro laikas
   },
   Turkey: {
-    Generic: Laikas: Turkija,
-    Standard: Žiemos laikas: Turkija,
-    Daylight: Vasaros laikas: Turkija
+    Generic: Turkijos laikas,
+    Standard: Turkijos žiemos laikas,
+    Daylight: Turkijos vasaros laikas
   },
   UCT: {
     Generic: pasaulio suderintasis laikas,
@@ -2925,9 +2930,9 @@
     Daylight: Šiaurės Amerikos rytų vasaros laikas
   },
   US/Hawaii: {
-    Generic: Havajų-Aleutų laikas,
+    Generic: Havajų–Aleutų žiemos laikas,
     Standard: Havajų–Aleutų žiemos laikas,
-    Daylight: Havajų–Aleutų vasaros laikas
+    Daylight: Havajų–Aleutų žiemos laikas
   },
   US/Indiana-Starke: {
     Generic: Šiaurės Amerikos centro laikas,

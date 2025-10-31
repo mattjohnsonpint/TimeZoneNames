@@ -36,8 +36,8 @@
   },
   Africa/Bangui: {
     Generic: västafrikansk tid,
-    Standard: västafrikansk normaltid,
-    Daylight: västafrikansk sommartid
+    Standard: västafrikansk tid,
+    Daylight: västafrikansk tid
   },
   Africa/Banjul: {
     Generic: Greenwichtid,
@@ -56,8 +56,8 @@
   },
   Africa/Brazzaville: {
     Generic: västafrikansk tid,
-    Standard: västafrikansk normaltid,
-    Daylight: västafrikansk sommartid
+    Standard: västafrikansk tid,
+    Daylight: västafrikansk tid
   },
   Africa/Bujumbura: {
     Generic: centralafrikansk tid,
@@ -101,8 +101,8 @@
   },
   Africa/Douala: {
     Generic: västafrikansk tid,
-    Standard: västafrikansk normaltid,
-    Daylight: västafrikansk sommartid
+    Standard: västafrikansk tid,
+    Daylight: västafrikansk tid
   },
   Africa/El_Aaiun: {
     Generic: västeuropeisk tid,
@@ -151,18 +151,18 @@
   },
   Africa/Kinshasa: {
     Generic: västafrikansk tid,
-    Standard: västafrikansk normaltid,
-    Daylight: västafrikansk sommartid
+    Standard: västafrikansk tid,
+    Daylight: västafrikansk tid
   },
   Africa/Lagos: {
     Generic: västafrikansk tid,
-    Standard: västafrikansk normaltid,
-    Daylight: västafrikansk sommartid
+    Standard: västafrikansk tid,
+    Daylight: västafrikansk tid
   },
   Africa/Libreville: {
     Generic: västafrikansk tid,
-    Standard: västafrikansk normaltid,
-    Daylight: västafrikansk sommartid
+    Standard: västafrikansk tid,
+    Daylight: västafrikansk tid
   },
   Africa/Lome: {
     Generic: Greenwichtid,
@@ -171,8 +171,8 @@
   },
   Africa/Luanda: {
     Generic: västafrikansk tid,
-    Standard: västafrikansk normaltid,
-    Daylight: västafrikansk sommartid
+    Standard: västafrikansk tid,
+    Daylight: västafrikansk tid
   },
   Africa/Lubumbashi: {
     Generic: centralafrikansk tid,
@@ -186,8 +186,8 @@
   },
   Africa/Malabo: {
     Generic: västafrikansk tid,
-    Standard: västafrikansk normaltid,
-    Daylight: västafrikansk sommartid
+    Standard: västafrikansk tid,
+    Daylight: västafrikansk tid
   },
   Africa/Maputo: {
     Generic: centralafrikansk tid,
@@ -221,13 +221,13 @@
   },
   Africa/Ndjamena: {
     Generic: västafrikansk tid,
-    Standard: västafrikansk normaltid,
-    Daylight: västafrikansk sommartid
+    Standard: västafrikansk tid,
+    Daylight: västafrikansk tid
   },
   Africa/Niamey: {
     Generic: västafrikansk tid,
-    Standard: västafrikansk normaltid,
-    Daylight: västafrikansk sommartid
+    Standard: västafrikansk tid,
+    Daylight: västafrikansk tid
   },
   Africa/Nouakchott: {
     Generic: Greenwichtid,
@@ -241,8 +241,8 @@
   },
   Africa/Porto-Novo: {
     Generic: västafrikansk tid,
-    Standard: västafrikansk normaltid,
-    Daylight: västafrikansk sommartid
+    Standard: västafrikansk tid,
+    Daylight: västafrikansk tid
   },
   Africa/Sao_Tome: {
     Generic: Greenwichtid,
@@ -270,9 +270,9 @@
     Daylight: centralafrikansk tid
   },
   America/Adak: {
-    Generic: Honolulutid,
-    Standard: Honolulu, normaltid,
-    Daylight: Honolulu, sommartid
+    Generic: aleutisk tid,
+    Standard: aleutisk normaltid,
+    Daylight: aleutisk sommartid
   },
   America/Anchorage: {
     Generic: Alaskatid,
@@ -375,9 +375,9 @@
     Daylight: östnordamerikansk sommartid
   },
   America/Atka: {
-    Generic: Honolulutid,
-    Standard: Honolulu, normaltid,
-    Daylight: Honolulu, sommartid
+    Generic: aleutisk tid,
+    Standard: aleutisk normaltid,
+    Daylight: aleutisk sommartid
   },
   America/Bahia: {
     Generic: Brasiliatid,
@@ -493,6 +493,11 @@
     Generic: centralnordamerikansk tid,
     Standard: centralnordamerikansk normaltid,
     Daylight: centralnordamerikansk sommartid
+  },
+  America/Coyhaique: {
+    Generic: chilensk tid,
+    Standard: chilensk normaltid,
+    Daylight: chilensk sommartid
   },
   America/Creston: {
     Generic: Klippiga bergentid,
@@ -1360,9 +1365,9 @@
     Daylight: Irkutsk (sommartid)
   },
   Asia/Istanbul: {
-    Generic: Turkiettid,
-    Standard: Turkiet (normaltid),
-    Daylight: Turkiet (sommartid)
+    Generic: turkisk tid,
+    Standard: turkisk normaltid,
+    Daylight: turkisk sommartid
   },
   Asia/Jakarta: {
     Generic: västindonesisk tid,
@@ -2225,9 +2230,9 @@
     Daylight: Greenwichtid
   },
   Europe/Istanbul: {
-    Generic: Turkiettid,
-    Standard: Turkiet (normaltid),
-    Daylight: Turkiet (sommartid)
+    Generic: turkisk tid,
+    Standard: turkisk normaltid,
+    Daylight: turkisk sommartid
   },
   Europe/Jersey: {
     Generic: Greenwichtid,
@@ -2485,9 +2490,9 @@
     Daylight: Greenwichtid
   },
   HST: {
-    Generic: Honolulutid,
+    Generic: Honolulu, normaltid,
     Standard: Honolulu, normaltid,
-    Daylight: Honolulu, sommartid
+    Daylight: Honolulu, normaltid
   },
   Hongkong: {
     Generic: Hongkongtid,
@@ -2715,14 +2720,14 @@
     Daylight: Chamorrotid
   },
   Pacific/Honolulu: {
-    Generic: Honolulutid,
+    Generic: Honolulu, normaltid,
     Standard: Honolulu, normaltid,
-    Daylight: Honolulu, sommartid
+    Daylight: Honolulu, normaltid
   },
   Pacific/Johnston: {
-    Generic: Honolulutid,
+    Generic: Honolulu, normaltid,
     Standard: Honolulu, normaltid,
-    Daylight: Honolulu, sommartid
+    Daylight: Honolulu, normaltid
   },
   Pacific/Kanton: {
     Generic: Enderburytid,
@@ -2885,9 +2890,9 @@
     Daylight: Singaporetid
   },
   Turkey: {
-    Generic: Turkiettid,
-    Standard: Turkiet (normaltid),
-    Daylight: Turkiet (sommartid)
+    Generic: turkisk tid,
+    Standard: turkisk normaltid,
+    Daylight: turkisk sommartid
   },
   UCT: {
     Generic: koordinerad universell tid,
@@ -2900,9 +2905,9 @@
     Daylight: Alaska, sommartid
   },
   US/Aleutian: {
-    Generic: Honolulutid,
-    Standard: Honolulu, normaltid,
-    Daylight: Honolulu, sommartid
+    Generic: aleutisk tid,
+    Standard: aleutisk normaltid,
+    Daylight: aleutisk sommartid
   },
   US/Arizona: {
     Generic: Klippiga bergentid,
@@ -2925,9 +2930,9 @@
     Daylight: östnordamerikansk sommartid
   },
   US/Hawaii: {
-    Generic: Honolulutid,
+    Generic: Honolulu, normaltid,
     Standard: Honolulu, normaltid,
-    Daylight: Honolulu, sommartid
+    Daylight: Honolulu, normaltid
   },
   US/Indiana-Starke: {
     Generic: centralnordamerikansk tid,

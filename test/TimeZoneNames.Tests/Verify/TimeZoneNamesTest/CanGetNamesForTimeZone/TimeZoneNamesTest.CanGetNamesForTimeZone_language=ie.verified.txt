@@ -494,6 +494,11 @@
     Standard: american central standard témpor,
     Daylight: american central estival témpor
   },
+  America/Coyhaique: {
+    Generic: témpor de Chile,
+    Standard: témpor standard de Chile,
+    Daylight: témpor estival de Chile
+  },
   America/Creston: {
     Generic: american montan témpor,
     Standard: american montan standard témpor,
@@ -1150,9 +1155,9 @@
     Daylight: témpor estival de Antarctica
   },
   Antarctica/South_Pole: {
-    Generic: témpor de Nov-Zeland,
-    Standard: témpor standard de Nov-Zeland,
-    Daylight: témpor estival de Nov-Zeland
+    Generic: témpor de Antarctica,
+    Standard: témpor standard de Antarctica,
+    Daylight: témpor estival de Antarctica
   },
   Antarctica/Syowa: {
     Generic: témpor de Antarctica,
@@ -2485,9 +2490,9 @@
     Daylight: témpore medial de Greenwich
   },
   HST: {
-    Generic: témpor de Hawai e Aleutes,
+    Generic: témpor standard de Hawai e Aleutes,
     Standard: témpor standard de Hawai e Aleutes,
-    Daylight: témpor estival de Hawai e Aleutes
+    Daylight: témpor standard de Hawai e Aleutes
   },
   Hongkong: {
     Generic: témpor de Hong-Kong (SAR de China),
@@ -2715,14 +2720,14 @@
     Daylight: témpor estival de Guam
   },
   Pacific/Honolulu: {
-    Generic: témpor de Hawai e Aleutes,
+    Generic: témpor standard de Hawai e Aleutes,
     Standard: témpor standard de Hawai e Aleutes,
-    Daylight: témpor estival de Hawai e Aleutes
+    Daylight: témpor standard de Hawai e Aleutes
   },
   Pacific/Johnston: {
-    Generic: témpor de Hawai e Aleutes,
+    Generic: témpor standard de Hawai e Aleutes,
     Standard: témpor standard de Hawai e Aleutes,
-    Daylight: témpor estival de Hawai e Aleutes
+    Daylight: témpor standard de Hawai e Aleutes
   },
   Pacific/Kanton: {
     Generic: témpor del Insules Fénix,
@@ -2812,7 +2817,7 @@
   Pacific/Rarotonga: {
     Generic: témpor del Insules Cook,
     Standard: témpor standard del Insules Cook,
-    Daylight: témpor estival del Insules Cook
+    Daylight: témpor demíestival del Insules Cook
   },
   Pacific/Saipan: {
     Generic: témpor de Insules Nord Mariana,
@@ -2925,9 +2930,9 @@
     Daylight: american oriental estival témpor
   },
   US/Hawaii: {
-    Generic: témpor de Hawai e Aleutes,
+    Generic: témpor standard de Hawai e Aleutes,
     Standard: témpor standard de Hawai e Aleutes,
-    Daylight: témpor estival de Hawai e Aleutes
+    Daylight: témpor standard de Hawai e Aleutes
   },
   US/Indiana-Starke: {
     Generic: american central témpor,

@@ -36,8 +36,8 @@
   },
   Africa/Bangui: {
     Generic: Gʻarbiy Afrika vaqti,
-    Standard: Gʻarbiy Afrika standart vaqti,
-    Daylight: Gʻarbiy Afrika yozgi vaqti
+    Standard: Gʻarbiy Afrika vaqti,
+    Daylight: Gʻarbiy Afrika vaqti
   },
   Africa/Banjul: {
     Generic: Grinvich o‘rtacha vaqti,
@@ -56,8 +56,8 @@
   },
   Africa/Brazzaville: {
     Generic: Gʻarbiy Afrika vaqti,
-    Standard: Gʻarbiy Afrika standart vaqti,
-    Daylight: Gʻarbiy Afrika yozgi vaqti
+    Standard: Gʻarbiy Afrika vaqti,
+    Daylight: Gʻarbiy Afrika vaqti
   },
   Africa/Bujumbura: {
     Generic: Markaziy Afrika vaqti,
@@ -101,8 +101,8 @@
   },
   Africa/Douala: {
     Generic: Gʻarbiy Afrika vaqti,
-    Standard: Gʻarbiy Afrika standart vaqti,
-    Daylight: Gʻarbiy Afrika yozgi vaqti
+    Standard: Gʻarbiy Afrika vaqti,
+    Daylight: Gʻarbiy Afrika vaqti
   },
   Africa/El_Aaiun: {
     Generic: G‘arbiy Yevropa vaqti,
@@ -151,18 +151,18 @@
   },
   Africa/Kinshasa: {
     Generic: Gʻarbiy Afrika vaqti,
-    Standard: Gʻarbiy Afrika standart vaqti,
-    Daylight: Gʻarbiy Afrika yozgi vaqti
+    Standard: Gʻarbiy Afrika vaqti,
+    Daylight: Gʻarbiy Afrika vaqti
   },
   Africa/Lagos: {
     Generic: Gʻarbiy Afrika vaqti,
-    Standard: Gʻarbiy Afrika standart vaqti,
-    Daylight: Gʻarbiy Afrika yozgi vaqti
+    Standard: Gʻarbiy Afrika vaqti,
+    Daylight: Gʻarbiy Afrika vaqti
   },
   Africa/Libreville: {
     Generic: Gʻarbiy Afrika vaqti,
-    Standard: Gʻarbiy Afrika standart vaqti,
-    Daylight: Gʻarbiy Afrika yozgi vaqti
+    Standard: Gʻarbiy Afrika vaqti,
+    Daylight: Gʻarbiy Afrika vaqti
   },
   Africa/Lome: {
     Generic: Grinvich o‘rtacha vaqti,
@@ -171,8 +171,8 @@
   },
   Africa/Luanda: {
     Generic: Gʻarbiy Afrika vaqti,
-    Standard: Gʻarbiy Afrika standart vaqti,
-    Daylight: Gʻarbiy Afrika yozgi vaqti
+    Standard: Gʻarbiy Afrika vaqti,
+    Daylight: Gʻarbiy Afrika vaqti
   },
   Africa/Lubumbashi: {
     Generic: Markaziy Afrika vaqti,
@@ -186,8 +186,8 @@
   },
   Africa/Malabo: {
     Generic: Gʻarbiy Afrika vaqti,
-    Standard: Gʻarbiy Afrika standart vaqti,
-    Daylight: Gʻarbiy Afrika yozgi vaqti
+    Standard: Gʻarbiy Afrika vaqti,
+    Daylight: Gʻarbiy Afrika vaqti
   },
   Africa/Maputo: {
     Generic: Markaziy Afrika vaqti,
@@ -221,13 +221,13 @@
   },
   Africa/Ndjamena: {
     Generic: Gʻarbiy Afrika vaqti,
-    Standard: Gʻarbiy Afrika standart vaqti,
-    Daylight: Gʻarbiy Afrika yozgi vaqti
+    Standard: Gʻarbiy Afrika vaqti,
+    Daylight: Gʻarbiy Afrika vaqti
   },
   Africa/Niamey: {
     Generic: Gʻarbiy Afrika vaqti,
-    Standard: Gʻarbiy Afrika standart vaqti,
-    Daylight: Gʻarbiy Afrika yozgi vaqti
+    Standard: Gʻarbiy Afrika vaqti,
+    Daylight: Gʻarbiy Afrika vaqti
   },
   Africa/Nouakchott: {
     Generic: Grinvich o‘rtacha vaqti,
@@ -241,8 +241,8 @@
   },
   Africa/Porto-Novo: {
     Generic: Gʻarbiy Afrika vaqti,
-    Standard: Gʻarbiy Afrika standart vaqti,
-    Daylight: Gʻarbiy Afrika yozgi vaqti
+    Standard: Gʻarbiy Afrika vaqti,
+    Daylight: Gʻarbiy Afrika vaqti
   },
   Africa/Sao_Tome: {
     Generic: Grinvich o‘rtacha vaqti,
@@ -493,6 +493,11 @@
     Generic: Markaziy Amerika vaqti,
     Standard: Markaziy Amerika standart vaqti,
     Daylight: Markaziy Amerika yozgi vaqti
+  },
+  America/Coyhaique: {
+    Generic: Chili vaqti,
+    Standard: Chili standart vaqti,
+    Daylight: Chili yozgi vaqti
   },
   America/Creston: {
     Generic: Tog‘ vaqti (AQSH),
@@ -1362,7 +1367,7 @@
   Asia/Istanbul: {
     Generic: Türkiye Time,
     Standard: Türkiye Standard Time,
-    Daylight: Türkiye Daylight Time
+    Daylight: Türkiye Summer Time
   },
   Asia/Jakarta: {
     Generic: Gʻarbiy Indoneziya vaqti,
@@ -2227,7 +2232,7 @@
   Europe/Istanbul: {
     Generic: Türkiye Time,
     Standard: Türkiye Standard Time,
-    Daylight: Türkiye Daylight Time
+    Daylight: Türkiye Summer Time
   },
   Europe/Jersey: {
     Generic: Grinvich o‘rtacha vaqti,
@@ -2485,9 +2490,9 @@
     Daylight: Grinvich o‘rtacha vaqti
   },
   HST: {
-    Generic: Gavayi-aleut vaqti,
+    Generic: Gavayi-aleut standart vaqti,
     Standard: Gavayi-aleut standart vaqti,
-    Daylight: Gavayi-aleut yozgi vaqti
+    Daylight: Gavayi-aleut standart vaqti
   },
   Hongkong: {
     Generic: Gonkong vaqti,
@@ -2715,14 +2720,14 @@
     Daylight: Chamorro standart vaqti
   },
   Pacific/Honolulu: {
-    Generic: Gavayi-aleut vaqti,
+    Generic: Gavayi-aleut standart vaqti,
     Standard: Gavayi-aleut standart vaqti,
-    Daylight: Gavayi-aleut yozgi vaqti
+    Daylight: Gavayi-aleut standart vaqti
   },
   Pacific/Johnston: {
-    Generic: Gavayi-aleut vaqti,
+    Generic: Gavayi-aleut standart vaqti,
     Standard: Gavayi-aleut standart vaqti,
-    Daylight: Gavayi-aleut yozgi vaqti
+    Daylight: Gavayi-aleut standart vaqti
   },
   Pacific/Kanton: {
     Generic: Feniks orollari vaqti,
@@ -2887,7 +2892,7 @@
   Turkey: {
     Generic: Türkiye Time,
     Standard: Türkiye Standard Time,
-    Daylight: Türkiye Daylight Time
+    Daylight: Türkiye Summer Time
   },
   UCT: {
     Generic: Koordinatali universal vaqt,
@@ -2925,9 +2930,9 @@
     Daylight: Sharqiy Amerika yozgi vaqti
   },
   US/Hawaii: {
-    Generic: Gavayi-aleut vaqti,
+    Generic: Gavayi-aleut standart vaqti,
     Standard: Gavayi-aleut standart vaqti,
-    Daylight: Gavayi-aleut yozgi vaqti
+    Daylight: Gavayi-aleut standart vaqti
   },
   US/Indiana-Starke: {
     Generic: Markaziy Amerika vaqti,

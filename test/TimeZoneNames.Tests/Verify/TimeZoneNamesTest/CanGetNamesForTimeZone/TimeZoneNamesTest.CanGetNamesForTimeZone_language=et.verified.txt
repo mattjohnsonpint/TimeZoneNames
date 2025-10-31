@@ -36,8 +36,8 @@
   },
   Africa/Bangui: {
     Generic: Lääne-Aafrika aeg,
-    Standard: Lääne-Aafrika standardaeg,
-    Daylight: Lääne-Aafrika suveaeg
+    Standard: Lääne-Aafrika aeg,
+    Daylight: Lääne-Aafrika aeg
   },
   Africa/Banjul: {
     Generic: Greenwichi aeg,
@@ -56,8 +56,8 @@
   },
   Africa/Brazzaville: {
     Generic: Lääne-Aafrika aeg,
-    Standard: Lääne-Aafrika standardaeg,
-    Daylight: Lääne-Aafrika suveaeg
+    Standard: Lääne-Aafrika aeg,
+    Daylight: Lääne-Aafrika aeg
   },
   Africa/Bujumbura: {
     Generic: Kesk-Aafrika aeg,
@@ -101,8 +101,8 @@
   },
   Africa/Douala: {
     Generic: Lääne-Aafrika aeg,
-    Standard: Lääne-Aafrika standardaeg,
-    Daylight: Lääne-Aafrika suveaeg
+    Standard: Lääne-Aafrika aeg,
+    Daylight: Lääne-Aafrika aeg
   },
   Africa/El_Aaiun: {
     Generic: Lääne-Euroopa aeg,
@@ -151,18 +151,18 @@
   },
   Africa/Kinshasa: {
     Generic: Lääne-Aafrika aeg,
-    Standard: Lääne-Aafrika standardaeg,
-    Daylight: Lääne-Aafrika suveaeg
+    Standard: Lääne-Aafrika aeg,
+    Daylight: Lääne-Aafrika aeg
   },
   Africa/Lagos: {
     Generic: Lääne-Aafrika aeg,
-    Standard: Lääne-Aafrika standardaeg,
-    Daylight: Lääne-Aafrika suveaeg
+    Standard: Lääne-Aafrika aeg,
+    Daylight: Lääne-Aafrika aeg
   },
   Africa/Libreville: {
     Generic: Lääne-Aafrika aeg,
-    Standard: Lääne-Aafrika standardaeg,
-    Daylight: Lääne-Aafrika suveaeg
+    Standard: Lääne-Aafrika aeg,
+    Daylight: Lääne-Aafrika aeg
   },
   Africa/Lome: {
     Generic: Greenwichi aeg,
@@ -171,8 +171,8 @@
   },
   Africa/Luanda: {
     Generic: Lääne-Aafrika aeg,
-    Standard: Lääne-Aafrika standardaeg,
-    Daylight: Lääne-Aafrika suveaeg
+    Standard: Lääne-Aafrika aeg,
+    Daylight: Lääne-Aafrika aeg
   },
   Africa/Lubumbashi: {
     Generic: Kesk-Aafrika aeg,
@@ -186,8 +186,8 @@
   },
   Africa/Malabo: {
     Generic: Lääne-Aafrika aeg,
-    Standard: Lääne-Aafrika standardaeg,
-    Daylight: Lääne-Aafrika suveaeg
+    Standard: Lääne-Aafrika aeg,
+    Daylight: Lääne-Aafrika aeg
   },
   Africa/Maputo: {
     Generic: Kesk-Aafrika aeg,
@@ -221,13 +221,13 @@
   },
   Africa/Ndjamena: {
     Generic: Lääne-Aafrika aeg,
-    Standard: Lääne-Aafrika standardaeg,
-    Daylight: Lääne-Aafrika suveaeg
+    Standard: Lääne-Aafrika aeg,
+    Daylight: Lääne-Aafrika aeg
   },
   Africa/Niamey: {
     Generic: Lääne-Aafrika aeg,
-    Standard: Lääne-Aafrika standardaeg,
-    Daylight: Lääne-Aafrika suveaeg
+    Standard: Lääne-Aafrika aeg,
+    Daylight: Lääne-Aafrika aeg
   },
   Africa/Nouakchott: {
     Generic: Greenwichi aeg,
@@ -241,8 +241,8 @@
   },
   Africa/Porto-Novo: {
     Generic: Lääne-Aafrika aeg,
-    Standard: Lääne-Aafrika standardaeg,
-    Daylight: Lääne-Aafrika suveaeg
+    Standard: Lääne-Aafrika aeg,
+    Daylight: Lääne-Aafrika aeg
   },
   Africa/Sao_Tome: {
     Generic: Greenwichi aeg,
@@ -493,6 +493,11 @@
     Generic: Kesk-Ameerika aeg,
     Standard: Kesk-Ameerika standardaeg,
     Daylight: Kesk-Ameerika suveaeg
+  },
+  America/Coyhaique: {
+    Generic: Tšiili aeg,
+    Standard: Tšiili standardaeg,
+    Daylight: Tšiili suveaeg
   },
   America/Creston: {
     Generic: Mäestikuvööndi aeg,
@@ -1352,7 +1357,9 @@
     Generic: (Irkutsk)
   },
   Asia/Istanbul: {
-    Generic: (Türgi)
+    Generic: Türgi aeg,
+    Standard: Türgi standardaeg,
+    Daylight: Türgi suveaeg
   },
   Asia/Jakarta: {
     Generic: Lääne-Indoneesia aeg,
@@ -2181,7 +2188,9 @@
     Daylight: Greenwichi aeg
   },
   Europe/Istanbul: {
-    Generic: (Türgi)
+    Generic: Türgi aeg,
+    Standard: Türgi standardaeg,
+    Daylight: Türgi suveaeg
   },
   Europe/Jersey: {
     Generic: Greenwichi aeg,
@@ -2425,9 +2434,9 @@
     Daylight: Greenwichi aeg
   },
   HST: {
-    Generic: Hawaii-Aleuudi aeg,
+    Generic: Hawaii-Aleuudi standardaeg,
     Standard: Hawaii-Aleuudi standardaeg,
-    Daylight: Hawaii-Aleuudi suveaeg
+    Daylight: Hawaii-Aleuudi standardaeg
   },
   Hongkong: {
     Generic: Hongkongi aeg,
@@ -2655,14 +2664,14 @@
     Daylight: Tšamorro standardaeg
   },
   Pacific/Honolulu: {
-    Generic: Hawaii-Aleuudi aeg,
+    Generic: Hawaii-Aleuudi standardaeg,
     Standard: Hawaii-Aleuudi standardaeg,
-    Daylight: Hawaii-Aleuudi suveaeg
+    Daylight: Hawaii-Aleuudi standardaeg
   },
   Pacific/Johnston: {
-    Generic: Hawaii-Aleuudi aeg,
+    Generic: Hawaii-Aleuudi standardaeg,
     Standard: Hawaii-Aleuudi standardaeg,
-    Daylight: Hawaii-Aleuudi suveaeg
+    Daylight: Hawaii-Aleuudi standardaeg
   },
   Pacific/Kanton: {
     Generic: Fööniksisaarte aeg,
@@ -2825,7 +2834,9 @@
     Daylight: Singapuri standardaeg
   },
   Turkey: {
-    Generic: (Türgi)
+    Generic: Türgi aeg,
+    Standard: Türgi standardaeg,
+    Daylight: Türgi suveaeg
   },
   UCT: {
     Generic: Koordineeritud maailmaaeg,
@@ -2863,9 +2874,9 @@
     Daylight: Idaranniku suveaeg
   },
   US/Hawaii: {
-    Generic: Hawaii-Aleuudi aeg,
+    Generic: Hawaii-Aleuudi standardaeg,
     Standard: Hawaii-Aleuudi standardaeg,
-    Daylight: Hawaii-Aleuudi suveaeg
+    Daylight: Hawaii-Aleuudi standardaeg
   },
   US/Indiana-Starke: {
     Generic: Kesk-Ameerika aeg,
