@@ -210,6 +210,7 @@ public static class TZNames
     /// <param name="timeZoneId">An IANA or Windows time zone identifier.</param>
     /// <param name="languageCode">The IETF language tag (culture code) to use when localizing the abbreviations.</param>
     /// <returns>A <see cref="TimeZoneValues"/> object containing the localized generic, standard, and daylight abbreviations.</returns>
+    [Obsolete("WARNING! Time zone abbreviations are inconsistent and not well-defined in the source data.  This method will be removed in a future release.")]
     public static TimeZoneValues GetAbbreviationsForTimeZone(string timeZoneId, string languageCode)
     {
         var langKey = GetLanguageKey(languageCode);
@@ -217,7 +218,7 @@ public static class TZNames
         {
             throw new ArgumentException("Invalid Language Code", nameof(languageCode));
         }
-        
+
         if (TZConvert.TryWindowsToIana(timeZoneId, out var ianaId))
         {
             timeZoneId = ianaId;
@@ -298,7 +299,7 @@ public static class TZNames
         {
             throw new ArgumentException("Invalid Language Code", nameof(languageCode));
         }
-        
+
         var displayNames = Data.DisplayNames[langKey]
             .Where(x => !TimeZoneData.ObsoleteWindowsZones.Contains(x.Key))
             .ToList();
@@ -307,7 +308,7 @@ public static class TZNames
         {
             return displayNames.ToOrderedDictionary(StringComparer.OrdinalIgnoreCase);
         }
-        
+
         var languageCodeParts = languageCode.Split('_', '-');
         var territoryCode = languageCodeParts.Length < 2 ? "001" : languageCodeParts[1];
         return displayNames.ToOrderedDictionary(
@@ -334,7 +335,7 @@ public static class TZNames
     public static ICollection<string> GetLanguageCodes(bool forDisplayNames)
     {
         var keys = forDisplayNames
-            ? (IEnumerable<string>) Data.DisplayNames.Keys
+            ? (IEnumerable<string>)Data.DisplayNames.Keys
             : Data.CldrLanguageData.Keys;
 
         return keys.OrderBy(x => x).ToList();
@@ -373,7 +374,7 @@ public static class TZNames
 
             if (key == null)
             {
-                var keys = forDisplayNames ? (IEnumerable<string>) Data.DisplayNames.Keys : Data.CldrLanguageData.Keys;
+                var keys = forDisplayNames ? (IEnumerable<string>)Data.DisplayNames.Keys : Data.CldrLanguageData.Keys;
                 key = keys.FirstOrDefault(x =>
                     x.Split('_')[0].Equals(languageCode.Split('-', '_')[0], StringComparison.OrdinalIgnoreCase));
 
@@ -438,7 +439,7 @@ public static class TZNames
 
         if (abbreviations && (timeZoneId == "Etc/GMT" || timeZoneId == "Etc/UTC"))
         {
-            return new TimeZoneValues {Generic = "UTC", Standard = "UTC", Daylight = "UTC"};
+            return new TimeZoneValues { Generic = "UTC", Standard = "UTC", Daylight = "UTC" };
         }
 
         var metaZone = GetMetazone(timeZoneId);
@@ -626,7 +627,8 @@ public static class TZNames
         }
 
         // last chance to make a generic name if it's missing
-        if (values.Generic == null) {
+        if (values.Generic == null)
+        {
             values.Generic = values.Standard;
         }
 

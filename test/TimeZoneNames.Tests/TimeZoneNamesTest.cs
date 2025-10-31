@@ -23,16 +23,6 @@ public class TimeZoneNamesTest
     }
 
     [Fact]
-    public void Can_Get_Abbreviations_For_US_Pacific()
-    {
-        var abbreviations = TZNames.GetAbbreviationsForTimeZone("America/Los_Angeles", "en-US");
-
-        Assert.Equal("PT", abbreviations.Generic);
-        Assert.Equal("PST", abbreviations.Standard);
-        Assert.Equal("PDT", abbreviations.Daylight);
-    }
-
-    [Fact]
     public void Can_Get_French_Names_For_US_Pacific()
     {
         var names = TZNames.GetNamesForTimeZone("America/Los_Angeles", "fr-CA");
@@ -40,16 +30,6 @@ public class TimeZoneNamesTest
         Assert.Equal("heure du Pacifique", names.Generic);
         Assert.Equal("heure normale du Pacifique", names.Standard);
         Assert.Equal("heure avancée du Pacifique", names.Daylight);
-    }
-
-    [Fact]
-    public void Can_Get_French_Abbreviations_For_US_Pacific()
-    {
-        var abbreviations = TZNames.GetAbbreviationsForTimeZone("America/Los_Angeles", "fr-CA");
-
-        Assert.Equal("HP", abbreviations.Generic);
-        Assert.Equal("HNP", abbreviations.Standard);
-        Assert.Equal("HAP", abbreviations.Daylight);
     }
 
     [Fact]
@@ -74,26 +54,6 @@ public class TimeZoneNamesTest
     }
 
     [Fact]
-    public void Can_Get_Abbreviations_For_UK()
-    {
-        var abbreviations = TZNames.GetAbbreviationsForTimeZone("Europe/London", "en-US");
-
-        Assert.Null(abbreviations.Generic);
-        Assert.Equal("GMT", abbreviations.Standard);
-        Assert.Equal("BST", abbreviations.Daylight);
-    }
-
-    [Fact]
-    public void Can_Get_Abbreviations_For_Central_Europe()
-    {
-        var abbreviations = TZNames.GetAbbreviationsForTimeZone("Central European Standard Time", "en-US");
-
-        Assert.Equal("CET", abbreviations.Generic);
-        Assert.Equal("CET", abbreviations.Standard);
-        Assert.Equal("CEST", abbreviations.Daylight);
-    }
-
-    [Fact]
     public void Can_Get_Names_For_IE()
     {
         var names = TZNames.GetNamesForTimeZone("Europe/Dublin", "en-US");
@@ -101,16 +61,6 @@ public class TimeZoneNamesTest
         Assert.Equal("Ireland Time", names.Generic);
         Assert.Equal("Greenwich Mean Time", names.Standard);
         Assert.Equal("Irish Standard Time", names.Daylight);
-    }
-
-    [Fact]
-    public void Can_Get_Abbreviations_For_IE()
-    {
-        var abbreviations = TZNames.GetAbbreviationsForTimeZone("Europe/Dublin", "en-US");
-
-        Assert.Null(abbreviations.Generic);
-        Assert.Equal("GMT", abbreviations.Standard);
-        Assert.Equal("IST", abbreviations.Daylight);
     }
 
     [Fact]
@@ -124,16 +74,6 @@ public class TimeZoneNamesTest
     }
 
     [Fact]
-    public void Can_Get_Abbreviations_For_IN1()
-    {
-        var abbreviations = TZNames.GetAbbreviationsForTimeZone("Asia/Calcutta", "en-US");
-
-        Assert.Equal("IST", abbreviations.Generic);
-        Assert.Equal("IST", abbreviations.Standard);
-        Assert.Equal("IST", abbreviations.Daylight);
-    }
-
-    [Fact]
     public void Can_Get_Names_For_IN2()
     {
         var names = TZNames.GetNamesForTimeZone("Asia/Kolkata", "en-US");
@@ -141,16 +81,6 @@ public class TimeZoneNamesTest
         Assert.Equal("India Standard Time", names.Generic);
         Assert.Equal("India Standard Time", names.Standard);
         Assert.Equal("India Standard Time", names.Daylight);
-    }
-
-    [Fact]
-    public void Can_Get_Abbreviations_For_IN2()
-    {
-        var abbreviations = TZNames.GetAbbreviationsForTimeZone("Asia/Kolkata", "en-US");
-
-        Assert.Equal("IST", abbreviations.Generic);
-        Assert.Equal("IST", abbreviations.Standard);
-        Assert.Equal("IST", abbreviations.Daylight);
     }
 
     [Fact]
@@ -172,16 +102,6 @@ public class TimeZoneNamesTest
     //    Assert.Equal("Urumqi Standard Time", names.Standard);
     //    Assert.Equal("Urumqi Daylight Time", names.Daylight);
     //}
-
-    [Fact]
-    public void Can_Get_Abbreviations_For_Sao_Tome()
-    {
-        var abbreviations = TZNames.GetAbbreviationsForTimeZone("Sao Tome Standard Time", "en-GB");
-
-        Assert.Equal("GMT", abbreviations.Generic);
-        Assert.Equal("GMT", abbreviations.Standard);
-        Assert.Equal("GMT", abbreviations.Daylight);
-    }
 
     [Fact]
     public void Can_Get_Names_For_UTC()
@@ -223,16 +143,6 @@ public class TimeZoneNamesTest
         Assert.Equal("Eastern Time", names.Generic);
         Assert.Equal("Eastern Standard Time", names.Standard);
         Assert.Equal("Eastern Daylight Time", names.Daylight);
-    }
-
-    [Fact]
-    public void Can_Get_Abbreviations_For_Windows_Timezone()
-    {
-        var abbreviations = TZNames.GetAbbreviationsForTimeZone("AUS Eastern Standard Time", "en-US");
-
-        Assert.Equal("AET", abbreviations.Generic);
-        Assert.Equal("AEST", abbreviations.Standard);
-        Assert.Equal("AEDT", abbreviations.Daylight);
     }
 
     //[Fact]

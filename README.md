@@ -9,6 +9,9 @@ Read [this blog post](https://codeofmatt.com/localized-time-zone-names-in-net/) 
 Note that if you are running .NET 6+ on Linux or macOS, the built-in names now stem from ICU and thus this library is no longer needed.
 See [the .NET blog post](https://devblogs.microsoft.com/dotnet/date-time-and-time-zone-enhancements-in-net-6/#time-zone-display-names-on-linux-and-macos) for more details.
 
+**NOTE**:
+Methods for retrieving localized time zone abbreviations have been deprecated, as the source data for abbreviations is generally unreliable.
+
 Nuget Installation
 =============================================================================
 ```powershell
@@ -61,29 +64,6 @@ names.Generic == "Central European Time"
 names.Standard == "Central European Standard Time"
 names.Daylight == "Central European Summer Time"
 ```
-
-### GetAbbreviationsForTimeZone
-Look up the localized abbreviations for a specific time zone:
-```csharp
-var abbreviations = TZNames.GetAbbreviationsForTimeZone("America/Los_Angeles", "en-US");
-
-abbreviations.Generic == "PT"
-abbreviations.Standard == "PST"
-abbreviations.Daylight == "PDT"
-```
-
-You can pass a Windows time zone id instead, if you like:
-```csharp
-var abbreviations = TZNames.GetAbbreviationsForTimeZone("Romance Standard Time", "en-GB");
-
-names.Generic == "CET"
-abbreviations.Standard == "CET"
-abbreviations.Daylight == "CEST"
-```
-
-**Note:** Time zone abbreviations are sometimes inconsistent, and are not necessarily
-localized correctly for every time zone.  In most cases, you should use abbreviations
-for end-user display output only.  Do not attempt to use abbreviations when parsing input.
 
 ## Methods for listing time zones
 
@@ -246,7 +226,7 @@ TODO: Add examples for this method.
 
 ### GetFixedTimeZoneAbbreviations
 
-Gets the same list of zones as `GetFixedTimeZoneIds`, but includes localized abbreviations.
+Gets the same list of zones as `GetFixedTimeZoneIds`, but includes abbreviations.
 
 TODO: Add examples for this method.
 
