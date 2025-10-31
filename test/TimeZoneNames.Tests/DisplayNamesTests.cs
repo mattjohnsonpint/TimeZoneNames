@@ -150,7 +150,7 @@ public class DisplayNamesTests
         return Verifier
             .Verify(displayNames)
 #if DEBUG
-            .AutoVerify()
+            .AutoVerify(true, false)
 #endif
             .UseDirectory(Path.Combine("Verify", nameof(DisplayNamesTests), nameof(CanGetDisplayNames_WindowsZones)))
             .UseParameters(language)
@@ -165,7 +165,7 @@ public class DisplayNamesTests
         return Verifier
             .Verify(displayNames)
 #if DEBUG
-            .AutoVerify()
+            .AutoVerify(true, false)
 #endif
             .UseDirectory(Path.Combine("Verify", nameof(DisplayNamesTests), nameof(CanGetDisplayNames_IanaZones)))
             .UseParameters(language)

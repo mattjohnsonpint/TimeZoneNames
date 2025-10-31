@@ -9,11 +9,11 @@ public class FixedTimeZonesTests
         return Verifier
             .Verify(ids)
 #if DEBUG
-            .AutoVerify()
+            .AutoVerify(true, false)
 #endif
             .UseDirectory(Path.Combine("Verify", nameof(FixedTimeZonesTests)));
     }
-    
+
     [Fact]
     public Task CanGetFixedTimeZoneAbbreviations()
     {
@@ -21,12 +21,12 @@ public class FixedTimeZonesTests
         return Verifier
             .Verify(abbreviations)
 #if DEBUG
-            .AutoVerify()
+            .AutoVerify(true, false)
 #endif
             .UseDirectory(Path.Combine("Verify", nameof(FixedTimeZonesTests)))
             .DontSortDictionaries();
     }
-    
+
     [Theory]
     [MemberData(nameof(TestData.GetLanguages), MemberType = typeof(TestData))]
     public Task CanGetFixedTimeZoneNames(string language)
@@ -35,7 +35,7 @@ public class FixedTimeZonesTests
         return Verifier
             .Verify(names)
 #if DEBUG
-            .AutoVerify()
+            .AutoVerify(true, false)
 #endif
             .UseDirectory(Path.Combine("Verify", nameof(FixedTimeZonesTests), nameof(CanGetFixedTimeZoneNames)))
             .DontSortDictionaries()

@@ -348,7 +348,7 @@ public class TimeZoneNamesTest
         return Verifier
             .Verify(results)
 #if DEBUG
-            .AutoVerify()
+            .AutoVerify(true, false)
 #endif
             .DontSortDictionaries()
             .UseDirectory(Path.Combine("Verify", nameof(TimeZoneNamesTest), nameof(CanGetNamesForTimeZone)))
