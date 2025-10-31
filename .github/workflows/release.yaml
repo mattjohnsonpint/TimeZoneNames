@@ -13,15 +13,7 @@ jobs:
 
     steps:
         - name: Checkout
-          uses: actions/checkout@v4
-
-        - name: Install .NET SDKs
-          uses: actions/setup-dotnet@v4
-          with:
-            dotnet-version: |
-              6.0.x
-              8.0.x
-              9.0.x
+          uses: actions/checkout@v5
 
         - name: Restore
           run: dotnet restore --nologo
@@ -42,7 +34,7 @@ jobs:
           run: dotnet nuget push -s https://api.nuget.org/v3/index.json -k ${{secrets.NUGET_API_KEY}} **/*.nupkg
 
         - name: Archive Artifacts
-          uses: actions/upload-artifact@v4
+          uses: actions/upload-artifact@v5
           with:
             name: nuget-packages
             path: src/**/Release/*.*nupkg
