@@ -34,7 +34,7 @@ public class DisplayNamesTests
         Skip.IfNot(RuntimeInformation.IsOSPlatform(OSPlatform.Windows));
 
         // The data has an update for Paraguay Standard Time that might not yet be installed
-        Skip.If(!TimeZoneInfo.FindSystemTimeZoneById("Paraguay Standard Time").DisplayName.Contains("-04:00"));
+        Skip.If(!TimeZoneInfo.FindSystemTimeZoneById("Paraguay Standard Time").DisplayName.Contains("-03:00"));
 
         var languageCode = CultureInfo.InstalledUICulture.IetfLanguageTag;
 
