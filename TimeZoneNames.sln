@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeZoneNames.DataBuilder",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeZoneNames.Tests", "test\TimeZoneNames.Tests\TimeZoneNames.Tests.csproj", "{3CE7A88C-99D1-4740-BEEB-0F88E3B9A2F3}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeZoneNames.Generators", "src\TimeZoneNames.Generators\TimeZoneNames.Generators.csproj", "{F63292AE-6ED4-45A7-A9C9-D31331301AD0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3CE7A88C-99D1-4740-BEEB-0F88E3B9A2F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CE7A88C-99D1-4740-BEEB-0F88E3B9A2F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CE7A88C-99D1-4740-BEEB-0F88E3B9A2F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F63292AE-6ED4-45A7-A9C9-D31331301AD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F63292AE-6ED4-45A7-A9C9-D31331301AD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F63292AE-6ED4-45A7-A9C9-D31331301AD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F63292AE-6ED4-45A7-A9C9-D31331301AD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

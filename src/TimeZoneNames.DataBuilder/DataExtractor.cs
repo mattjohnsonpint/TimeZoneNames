@@ -1,5 +1,4 @@
-﻿using System.IO.Compression;
-using System.Text.Json;
+﻿using System.Text.Json;
 using System.Text.Json.Nodes;
 using System.Xml.Linq;
 using System.Xml.XPath;
@@ -33,8 +32,7 @@ public class DataExtractor
     public void SaveData(string outputFilePath)
     {
         using var stream = File.Create(outputFilePath);
-        using var compressedStream = new GZipStream(stream, CompressionLevel.Optimal);
-        JsonSerializer.Serialize(compressedStream, _data);
+        JsonSerializer.Serialize(stream, _data);
     }
 
     private TzdbDateTimeZoneSource _tzdbSource = null!;

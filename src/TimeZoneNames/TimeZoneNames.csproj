@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Description>Provides localized time zone names.</Description>
     <Authors>Matt Johnson-Pint</Authors>
-    <TargetFrameworks>netstandard2.0;netstandard2.1;net462;net8.0;net9.0;</TargetFrameworks>
+    <TargetFrameworks>netstandard2.0;netstandard2.1;net462;net8.0;net9.0;net10.0</TargetFrameworks>
     <PackageId>TimeZoneNames</PackageId>
     <PackageTags>timezone;time;zone;time zone;iana;tzdb;olson;timezoneinfo;globalization;international;localization</PackageTags>
     <PackageProjectUrl>https://github.com/mattjohnsonpint/TimeZoneNames</PackageProjectUrl>
@@ -23,16 +23,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <EmbeddedResource Include="data.json.gz" />
+    <AdditionalFiles Include="data.json" />
   </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="TimeZoneConverter" Version="7.2.0" />
     <PackageReference Include="Microsoft.SourceLink.GitHub" Version="8.0.0" PrivateAssets="All"/>
-  </ItemGroup>
-
-  <ItemGroup Condition="('$(TargetFramework)' == 'netstandard2.0') Or ('$(TargetFramework)' == 'netstandard2.1') Or ('$(TargetFramework)' == 'net462')">
-    <PackageReference Include="System.Text.Json" Version="9.0.10" />
+    <ProjectReference Include="..\TimeZoneNames.Generators\TimeZoneNames.Generators.csproj" OutputItemType="Analyzer" ReferenceOutputAssembly="false" PrivateAssets="All" />
   </ItemGroup>
 
 </Project>

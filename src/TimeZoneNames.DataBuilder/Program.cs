@@ -11,7 +11,7 @@ static class Program
 
         var extractor = DataExtractor.Load("data", overwrite: false);
 
-        var dataFileName = "data.json.gz";
+        var dataFileName = "data.json";
         var outputFilePath = Path.Combine("data", dataFileName);
         extractor.SaveData(outputFilePath);
 
